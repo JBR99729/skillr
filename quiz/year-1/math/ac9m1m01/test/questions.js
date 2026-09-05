@@ -10,11 +10,11 @@ window.skillrTestQuestions = [
     "question": "Which statement is correct?",
     "audioPrompt": "Which statement is correct?",
     "visual": "A level balance shows toy A and toy B have equal mass. Specific example: toy A ——— toy B This is test example 1.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A level balance shows toy A and toy B have equal mass. Specific example: toy A ——— toy B This is test example 1.\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1m01.svg#ac9m1m01-t-001\"></use></svg>",
+    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Which statement is correct?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1m01.svg#ac9m1m01-t-001\">\u003c/use>\u003c/svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1m01.svg#ac9m1m01-t-001",
-      "alt_text": "A level balance shows toy A and toy B have equal mass. Specific example: toy A ——— toy B This is test example 1."
+      "alt_text": "Which statement is correct?"
     },
     "answers": [
       "Lina studies this example. A balance stays level with toy A on one side and toy B on the other. Their masses are equal.",
@@ -36,14 +36,14 @@ window.skillrTestQuestions = [
     "skill": "direct length comparison",
     "printable": true,
     "type": "single",
-    "question": "Sam studies this example. The two lines start together. Which line is longer?",
-    "audioPrompt": "Sam studies this example. The two lines start together. Which line is longer?",
+    "question": "The two lines start together. Which line is longer?",
+    "audioPrompt": "The two lines start together. Which line is longer?",
     "visual": "Two lines start at the same point so their lengths can be compared fairly. Specific example: A: |—————| B: |————————| This is test example 2.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Two lines start at the same point so their lengths can be compared fairly. Specific example: A: |—————| B: |————————| This is test example 2.\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1m01.svg#ac9m1m01-t-002\"></use></svg>",
+    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"The two lines start together. Which line is longer?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1m01.svg#ac9m1m01-t-002\">\u003c/use>\u003c/svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1m01.svg#ac9m1m01-t-002",
-      "alt_text": "Two lines start at the same point so their lengths can be compared fairly. Specific example: A: |—————| B: |————————| This is test example 2."
+      "alt_text": "The two lines start together. Which line is longer?"
     },
     "answers": [
       "Line A",
@@ -65,14 +65,14 @@ window.skillrTestQuestions = [
     "skill": "compare mass with balance",
     "printable": true,
     "type": "single",
-    "question": "Mia studies this example. A balance tilts down on the full bottle side. Which object is heavier?",
-    "audioPrompt": "Mia studies this example. A balance tilts down on the full bottle side. Which object is heavier?",
+    "question": "A balance tilts down on the full bottle side. Which object is heavier?",
+    "audioPrompt": "A balance tilts down on the full bottle side. Which object is heavier?",
     "visual": "A balance tilts down on the full bottle side, showing it is heavier than empty cup. Specific example: full bottle ↓ ↑ empty cup This is test example 3.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A balance tilts down on the full bottle side, showing it is heavier than empty cup. Specific example: full bottle ↓ ↑ empty cup This is test example 3.\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1m01.svg#ac9m1m01-t-003\"></use></svg>",
+    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A balance tilts down on the full bottle side. Which object is heavier?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1m01.svg#ac9m1m01-t-003\">\u003c/use>\u003c/svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1m01.svg#ac9m1m01-t-003",
-      "alt_text": "A balance tilts down on the full bottle side, showing it is heavier than empty cup. Specific example: full bottle ↓ ↑ empty cup This is test example 3."
+      "alt_text": "A balance tilts down on the full bottle side. Which object is heavier?"
     },
     "answers": [
       "empty cup",
@@ -94,14 +94,14 @@ window.skillrTestQuestions = [
     "skill": "order by length",
     "printable": true,
     "type": "single",
-    "question": "Ava studies this example. Order the block trains from shortest to longest. Which order is correct?",
-    "audioPrompt": "Ava studies this example. Order the block trains from shortest to longest. Which order is correct?",
+    "question": "Order the block trains from shortest to longest. Which order is correct?",
+    "audioPrompt": "Order the block trains from shortest to longest. Which order is correct?",
     "visual": "A balance tilts down on the object A side, showing it is heavier than object B. Specific example: Comparing Length, Mass, Capacity and Duration: order by length This is test example 4.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A balance tilts down on the object A side, showing it is heavier than object B. Specific example: Comparing Length, Mass, Capacity and Duration: order by length This is test example 4.\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1m01.svg#ac9m1m01-t-004\"></use></svg>",
+    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Order the block trains from shortest to longest. Which order is correct?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1m01.svg#ac9m1m01-t-004\">\u003c/use>\u003c/svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1m01.svg#ac9m1m01-t-004",
-      "alt_text": "A balance tilts down on the object A side, showing it is heavier than object B. Specific example: Comparing Length, Mass, Capacity and Duration: order by length This is test example 4."
+      "alt_text": "Order the block trains from shortest to longest. Which order is correct?"
     },
     "answers": [
       "5 blocks → 7 blocks → 9 blocks",
@@ -123,8 +123,8 @@ window.skillrTestQuestions = [
     "skill": "fair comparison methods",
     "printable": true,
     "type": "single",
-    "question": "Sam studies this example. Select both fair comparison methods. Choose the group with all the correct answers.",
-    "audioPrompt": "Sam studies this example. Select both fair comparison methods. Choose the group with all the correct answers.",
+    "question": "Select both fair comparison methods. Choose the group with all the correct answers.",
+    "audioPrompt": "Select both fair comparison methods. Choose the group with all the correct answers.",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -152,14 +152,14 @@ window.skillrTestQuestions = [
     "skill": "choose fair method",
     "printable": true,
     "type": "single",
-    "question": "Omar studies this example. Which method fairly compares mass?",
-    "audioPrompt": "Omar studies this example. Which method fairly compares mass?",
+    "question": "Which method fairly compares mass?",
+    "audioPrompt": "Which method fairly compares mass?",
     "visual": "A balance tilts down on the object A side, showing it is heavier than object B. This is test example 6.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A balance tilts down on the object A side, showing it is heavier than object B. This is test example 6.\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1m01.svg#ac9m1m01-t-006\"></use></svg>",
+    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Which method fairly compares mass?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1m01.svg#ac9m1m01-t-006\">\u003c/use>\u003c/svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1m01.svg#ac9m1m01-t-006",
-      "alt_text": "A balance tilts down on the object A side, showing it is heavier than object B. This is test example 6."
+      "alt_text": "Which method fairly compares mass?"
     },
     "answers": [
       "Compare colour",
@@ -181,14 +181,14 @@ window.skillrTestQuestions = [
     "skill": "transitive comparison",
     "printable": true,
     "type": "single",
-    "question": "Ava studies this example. Ribbon A is longer than ribbon B. Ribbon B is longer than ribbon C. Which is longest?",
-    "audioPrompt": "Ava studies this example. Ribbon A is longer than ribbon B. Ribbon B is longer than ribbon C. Which is longest?",
+    "question": "Ribbon A is longer than ribbon B. Ribbon B is longer than ribbon C. Which is longest?",
+    "audioPrompt": "Ribbon A is longer than ribbon B. Ribbon B is longer than ribbon C. Which is longest?",
     "visual": "A balance tilts down on the object A side, showing it is heavier than object B. Specific example: Comparing Length, Mass, Capacity and Duration: transitive comparison This is test example 7.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A balance tilts down on the object A side, showing it is heavier than object B. Specific example: Comparing Length, Mass, Capacity and Duration: transitive comparison This is test example 7.\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1m01.svg#ac9m1m01-t-007\"></use></svg>",
+    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Ribbon A is longer than ribbon B. Ribbon B is longer than ribbon C. Which is longest?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1m01.svg#ac9m1m01-t-007\">\u003c/use>\u003c/svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1m01.svg#ac9m1m01-t-007",
-      "alt_text": "A balance tilts down on the object A side, showing it is heavier than object B. Specific example: Comparing Length, Mass, Capacity and Duration: transitive comparison This is test example 7."
+      "alt_text": "Ribbon A is longer than ribbon B. Ribbon B is longer than ribbon C. Which is longest?"
     },
     "answers": [
       "Ribbon A",
@@ -210,14 +210,14 @@ window.skillrTestQuestions = [
     "skill": "capacity appearance trap",
     "printable": true,
     "type": "single",
-    "question": "Sam studies this example. Can looking only at height prove whether a short wide bowl holds more than another container?",
-    "audioPrompt": "Sam studies this example. Can looking only at height prove whether a short wide bowl holds more than another container?",
+    "question": "Can looking only at height prove whether a short wide bowl holds more than another container?",
+    "audioPrompt": "Can looking only at height prove whether a short wide bowl holds more than another container?",
     "visual": "A balance tilts down on the object A side, showing it is heavier than object B. Specific example: Comparing Length, Mass, Capacity and Duration: capacity appearance trap This is test example 8.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A balance tilts down on the object A side, showing it is heavier than object B. Specific example: Comparing Length, Mass, Capacity and Duration: capacity appearance trap This is test example 8.\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1m01.svg#ac9m1m01-t-008\"></use></svg>",
+    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Can looking only at height prove whether a short wide bowl holds more than another container?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1m01.svg#ac9m1m01-t-008\">\u003c/use>\u003c/svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1m01.svg#ac9m1m01-t-008",
-      "alt_text": "A balance tilts down on the object A side, showing it is heavier than object B. Specific example: Comparing Length, Mass, Capacity and Duration: capacity appearance trap This is test example 8."
+      "alt_text": "Can looking only at height prove whether a short wide bowl holds more than another container?"
     },
     "answers": [
       "Yes, the taller one always holds more",
@@ -239,8 +239,8 @@ window.skillrTestQuestions = [
     "skill": "align starting points",
     "printable": true,
     "type": "single",
-    "question": "Lina studies this example. Two pencils start at different places. What should be done before comparing their length?",
-    "audioPrompt": "Lina studies this example. Two pencils start at different places. What should be done before comparing their length?",
+    "question": "Two pencils start at different places. What should be done before comparing their length?",
+    "audioPrompt": "Two pencils start at different places. What should be done before comparing their length?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -268,14 +268,14 @@ window.skillrTestQuestions = [
     "skill": "compare capacity with equal scoops",
     "printable": true,
     "type": "single",
-    "question": "Leo studies this example. Cup A holds 5 equal scoops. Cup B holds 7. Which has greater capacity?",
-    "audioPrompt": "Leo studies this example. Cup A holds 5 equal scoops. Cup B holds 7. Which has greater capacity?",
+    "question": "Cup A holds 5 equal scoops. Cup B holds 7. Which has greater capacity?",
+    "audioPrompt": "Cup A holds 5 equal scoops. Cup B holds 7. Which has greater capacity?",
     "visual": "A balance tilts down on the object A side, showing it is heavier than object B. Specific example: Comparing Length, Mass, Capacity and Duration: compare capacity with equal scoops This is test example 10.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A balance tilts down on the object A side, showing it is heavier than object B. Specific example: Comparing Length, Mass, Capacity and Duration: compare capacity with equal scoops This is test example 10.\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1m01.svg#ac9m1m01-t-010\"></use></svg>",
+    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Cup A holds 5 equal scoops. Cup B holds 7. Which has greater capacity?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1m01.svg#ac9m1m01-t-010\">\u003c/use>\u003c/svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1m01.svg#ac9m1m01-t-010",
-      "alt_text": "A balance tilts down on the object A side, showing it is heavier than object B. Specific example: Comparing Length, Mass, Capacity and Duration: compare capacity with equal scoops This is test example 10."
+      "alt_text": "Cup A holds 5 equal scoops. Cup B holds 7. Which has greater capacity?"
     },
     "answers": [
       "Cup B",
@@ -326,14 +326,14 @@ window.skillrTestQuestions = [
     "skill": "choose measurement attribute",
     "printable": true,
     "type": "single",
-    "question": "Mia studies this example. Which attribute answers “How much does the jug hold?”",
-    "audioPrompt": "Mia studies this example. Which attribute answers “How much does the jug hold?”",
+    "question": "Which attribute answers “How much does the jug hold?”",
+    "audioPrompt": "Which attribute answers “How much does the jug hold?”",
     "visual": "A large jug and a small cup are compared by how much each container can hold. This is test example 12.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A large jug and a small cup are compared by how much each container can hold. This is test example 12.\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1m01.svg#ac9m1m01-t-012\"></use></svg>",
+    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Which attribute answers “How much does the jug hold?”\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1m01.svg#ac9m1m01-t-012\">\u003c/use>\u003c/svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1m01.svg#ac9m1m01-t-012",
-      "alt_text": "A large jug and a small cup are compared by how much each container can hold. This is test example 12."
+      "alt_text": "Which attribute answers “How much does the jug hold?”"
     },
     "answers": [
       "length",
@@ -465,5 +465,3 @@ window.skillrTestQuestions = [
     "qualitySchema": "production-v1"
   }
 ];
-window.skillrExamQuestions = window.skillrTestQuestions;
-window.quizQuestions = window.skillrTestQuestions;

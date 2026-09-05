@@ -10,7 +10,7 @@ window.skillrTestQuestions = [
     "question": "What total is shown by 9 counters and 4 counters?",
     "audioPrompt": "What total is shown by 9 counters and 4 counters?",
     "visual": "What total is shown by 9 counters and 4 counters?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"What total is shown by 9 counters and 4 counters?\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1n04.svg#ac9m1n04-t-001\"></use></svg>",
+    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"What total is shown by 9 counters and 4 counters?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1n04.svg#ac9m1n04-t-001\">\u003c/use>\u003c/svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n04.svg#ac9m1n04-t-001",
@@ -39,7 +39,7 @@ window.skillrTestQuestions = [
     "question": "Seventeen counters are shown. Eight are removed. How many remain?",
     "audioPrompt": "Seventeen counters are shown. Eight are removed. How many remain?",
     "visual": "Seventeen counters are shown. Eight are removed. How many remain?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Seventeen counters are shown. Eight are removed. How many remain?\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1n04.svg#ac9m1n04-t-002\"></use></svg>",
+    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Seventeen counters are shown. Eight are removed. How many remain?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1n04.svg#ac9m1n04-t-002\">\u003c/use>\u003c/svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n04.svg#ac9m1n04-t-002",
@@ -68,7 +68,7 @@ window.skillrTestQuestions = [
     "question": "Which calculation correctly shows 8 + 6 using make ten?",
     "audioPrompt": "Which calculation correctly shows 8 + 6 using make ten?",
     "visual": "Which calculation correctly shows 8 + 6 using make ten?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Which calculation correctly shows 8 + 6 using make ten?\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1n04.svg#ac9m1n04-t-003\"></use></svg>",
+    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Which calculation correctly shows 8 + 6 using make ten?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1n04.svg#ac9m1n04-t-003\">\u003c/use>\u003c/svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n04.svg#ac9m1n04-t-003",
@@ -97,7 +97,7 @@ window.skillrTestQuestions = [
     "question": "Use a near double to solve 7 + 8.",
     "audioPrompt": "Use a near double to solve 7 + 8.",
     "visual": "Use a near double to solve 7 + 8.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Use a near double to solve 7 + 8.\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1n04.svg#ac9m1n04-t-004\"></use></svg>",
+    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Use a near double to solve 7 + 8.\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1n04.svg#ac9m1n04-t-004\">\u003c/use>\u003c/svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n04.svg#ac9m1n04-t-004",
@@ -126,7 +126,7 @@ window.skillrTestQuestions = [
     "question": "The whole is 19. One part is 12. What is the other part?",
     "audioPrompt": "The whole is 19. One part is 12. What is the other part?",
     "visual": "The whole is 19. One part is 12. What is the other part?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"The whole is 19. One part is 12. What is the other part?\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1n04.svg#ac9m1n04-t-005\"></use></svg>",
+    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"The whole is 19. One part is 12. What is the other part?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1n04.svg#ac9m1n04-t-005\">\u003c/use>\u003c/svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n04.svg#ac9m1n04-t-005",
@@ -155,7 +155,7 @@ window.skillrTestQuestions = [
     "question": "A green strip is 15 cubes long and a yellow strip is 9 cubes long. What is the difference?",
     "audioPrompt": "A green strip is 15 cubes long and a yellow strip is 9 cubes long. What is the difference?",
     "visual": "A green strip is 15 cubes long and a yellow strip is 9 cubes long. What is the difference?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A green strip is 15 cubes long and a yellow strip is 9 cubes long. What is the difference?\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1n04.svg#ac9m1n04-t-006\"></use></svg>",
+    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A green strip is 15 cubes long and a yellow strip is 9 cubes long. What is the difference?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1n04.svg#ac9m1n04-t-006\">\u003c/use>\u003c/svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n04.svg#ac9m1n04-t-006",
@@ -181,15 +181,8 @@ window.skillrTestQuestions = [
     "skill": "read number line",
     "printable": true,
     "type": "single",
-    "question": "The number-line jumps start at 7, jump to 10, then to 16. Where does the number line finish?",
-    "audioPrompt": "The number-line jumps start at 7, jump to 10, then to 16. Where does the number line finish?",
-    "visual": "The number-line jumps start at 7, jump to 10, then to 16. Where does the number line finish?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"The number-line jumps start at 7, jump to 10, then to 16. Where does the number line finish?\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1n04.svg#ac9m1n04-t-007\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n04.svg#ac9m1n04-t-007",
-      "alt_text": "The number-line jumps start at 7, jump to 10, then to 16. Where does the number line finish?"
-    },
+    "question": "[Show number-line jumps: 7 → 10 → 16.] Where does it finish?",
+    "audioPrompt": "[Show number-line jumps: 7 → 10 → 16.] Where does it finish?",
     "answers": [
       "16",
       "15",
@@ -213,7 +206,7 @@ window.skillrTestQuestions = [
     "question": "Complete: 9 + 5 = 10 + ___.",
     "audioPrompt": "Complete: 9 + 5 = 10 + ___.",
     "visual": "Complete: 9 + 5 = 10 + ___.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Complete: 9 + 5 = 10 + ___.\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1n04.svg#ac9m1n04-t-008\"></use></svg>",
+    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Complete: 9 + 5 = 10 + ___.\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1n04.svg#ac9m1n04-t-008\">\u003c/use>\u003c/svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n04.svg#ac9m1n04-t-008",
@@ -271,7 +264,7 @@ window.skillrTestQuestions = [
     "question": "Which addition fact checks 16 − 9 = 7?",
     "audioPrompt": "Which addition fact checks 16 − 9 = 7?",
     "visual": "Which addition fact checks 16 − 9 = 7?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Which addition fact checks 16 − 9 = 7?\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1n04.svg#ac9m1n04-t-010\"></use></svg>",
+    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Which addition fact checks 16 − 9 = 7?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1n04.svg#ac9m1n04-t-010\">\u003c/use>\u003c/svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n04.svg#ac9m1n04-t-010",
@@ -329,7 +322,7 @@ window.skillrTestQuestions = [
     "question": "Which strategy best fits 10 + 6?",
     "audioPrompt": "Which strategy best fits 10 + 6?",
     "visual": "Which strategy best fits 10 + 6?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Which strategy best fits 10 + 6?\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1n04.svg#ac9m1n04-t-012\"></use></svg>",
+    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Which strategy best fits 10 + 6?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1n04.svg#ac9m1n04-t-012\">\u003c/use>\u003c/svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n04.svg#ac9m1n04-t-012",
@@ -465,5 +458,3 @@ window.skillrTestQuestions = [
     "qualitySchema": "production-v1"
   }
 ];
-window.skillrExamQuestions = window.skillrTestQuestions;
-window.quizQuestions = window.skillrTestQuestions;

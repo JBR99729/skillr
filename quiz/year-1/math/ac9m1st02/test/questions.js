@@ -7,14 +7,14 @@ window.skillrTestQuestions = [
     "skill": "read one to one display",
     "printable": true,
     "type": "single",
-    "question": "Ruby studies this example. How many children chose apples?",
-    "audioPrompt": "Ruby studies this example. How many children chose apples?",
+    "question": "How many children chose apples?",
+    "audioPrompt": "How many children chose apples?",
     "visual": "A one-to-one picture display uses one circle for each response in a labelled category. Specific example: Apples: 🍎 🍎 🍎 This is test example 1.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A one-to-one picture display uses one circle for each response in a labelled category. Specific example: Apples: 🍎 🍎 🍎 This is test example 1.\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1st02.svg#ac9m1st02-t-001\"></use></svg>",
+    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"How many children chose apples?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1st02.svg#ac9m1st02-t-001\">\u003c/use>\u003c/svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1st02.svg#ac9m1st02-t-001",
-      "alt_text": "A one-to-one picture display uses one circle for each response in a labelled category. Specific example: Apples: 🍎 🍎 🍎 This is test example 1."
+      "alt_text": "How many children chose apples?"
     },
     "answers": [
       "3",
@@ -36,14 +36,14 @@ window.skillrTestQuestions = [
     "skill": "compare more",
     "printable": true,
     "type": "single",
-    "question": "Omar studies this example. Which category has more responses?",
-    "audioPrompt": "Omar studies this example. Which category has more responses?",
+    "question": "Which category has more responses?",
+    "audioPrompt": "Which category has more responses?",
     "visual": "A one-to-one picture display uses one circle for each response in a labelled category. Specific example: Red: ● ● ● ● Blue: ● ● ● ● ● ● This is test example 2.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A one-to-one picture display uses one circle for each response in a labelled category. Specific example: Red: ● ● ● ● Blue: ● ● ● ● ● ● This is test example 2.\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1st02.svg#ac9m1st02-t-002\"></use></svg>",
+    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Which category has more responses?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1st02.svg#ac9m1st02-t-002\">\u003c/use>\u003c/svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1st02.svg#ac9m1st02-t-002",
-      "alt_text": "A one-to-one picture display uses one circle for each response in a labelled category. Specific example: Red: ● ● ● ● Blue: ● ● ● ● ● ● This is test example 2."
+      "alt_text": "Which category has more responses?"
     },
     "answers": [
       "Red",
@@ -65,14 +65,14 @@ window.skillrTestQuestions = [
     "skill": "complete a display",
     "printable": true,
     "type": "single",
-    "question": "Mia studies this example. The table says 7 children chose bikes. 5 bike symbols are shown. How many symbols are missing?",
-    "audioPrompt": "Mia studies this example. The table says 7 children chose bikes. 5 bike symbols are shown. How many symbols are missing?",
+    "question": "The table says 7 children chose bikes. 5 bike symbols are shown. How many symbols are missing?",
+    "audioPrompt": "The table says 7 children chose bikes. 5 bike symbols are shown. How many symbols are missing?",
     "visual": "A one-to-one picture display uses one circle for each response in a labelled category. Specific example: Bikes shown: 🚲 🚲 🚲 🚲 🚲 This is test example 3.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A one-to-one picture display uses one circle for each response in a labelled category. Specific example: Bikes shown: 🚲 🚲 🚲 🚲 🚲 This is test example 3.\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1st02.svg#ac9m1st02-t-003\"></use></svg>",
+    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"The table says 7 children chose bikes. 5 bike symbols are shown. How many symbols are missing?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1st02.svg#ac9m1st02-t-003\">\u003c/use>\u003c/svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1st02.svg#ac9m1st02-t-003",
-      "alt_text": "A one-to-one picture display uses one circle for each response in a labelled category. Specific example: Bikes shown: 🚲 🚲 🚲 🚲 🚲 This is test example 3."
+      "alt_text": "The table says 7 children chose bikes. 5 bike symbols are shown. How many symbols are missing?"
     },
     "answers": [
       "1",
@@ -94,14 +94,14 @@ window.skillrTestQuestions = [
     "skill": "find frequency",
     "printable": true,
     "type": "single",
-    "question": "Arlo studies this example. What is the frequency for the cat category?",
-    "audioPrompt": "Arlo studies this example. What is the frequency for the cat category?",
+    "question": "What is the frequency for the cat category?",
+    "audioPrompt": "What is the frequency for the cat category?",
     "visual": "A one-to-one picture display uses one circle for each response in a labelled category. Specific example: Cats: ● ● ● ● ● ● This is test example 4.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A one-to-one picture display uses one circle for each response in a labelled category. Specific example: Cats: ● ● ● ● ● ● This is test example 4.\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1st02.svg#ac9m1st02-t-004\"></use></svg>",
+    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"What is the frequency for the cat category?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1st02.svg#ac9m1st02-t-004\">\u003c/use>\u003c/svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1st02.svg#ac9m1st02-t-004",
-      "alt_text": "A one-to-one picture display uses one circle for each response in a labelled category. Specific example: Cats: ● ● ● ● ● ● This is test example 4."
+      "alt_text": "What is the frequency for the cat category?"
     },
     "answers": [
       "6",
@@ -123,14 +123,14 @@ window.skillrTestQuestions = [
     "skill": "update a display",
     "printable": true,
     "type": "single",
-    "question": "Ava studies this example. The dog category has 4 symbols. One more child chooses dog. What is the new frequency?",
-    "audioPrompt": "Ava studies this example. The dog category has 4 symbols. One more child chooses dog. What is the new frequency?",
+    "question": "The dog category has 4 symbols. One more child chooses dog. What is the new frequency?",
+    "audioPrompt": "The dog category has 4 symbols. One more child chooses dog. What is the new frequency?",
     "visual": "A one-to-one picture display uses one circle for each response in a labelled category. Specific example: Dogs before: ● ● ● ● This is test example 5.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A one-to-one picture display uses one circle for each response in a labelled category. Specific example: Dogs before: ● ● ● ● This is test example 5.\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1st02.svg#ac9m1st02-t-005\"></use></svg>",
+    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"The dog category has 4 symbols. One more child chooses dog. What is the new frequency?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1st02.svg#ac9m1st02-t-005\">\u003c/use>\u003c/svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1st02.svg#ac9m1st02-t-005",
-      "alt_text": "A one-to-one picture display uses one circle for each response in a labelled category. Specific example: Dogs before: ● ● ● ● This is test example 5."
+      "alt_text": "The dog category has 4 symbols. One more child chooses dog. What is the new frequency?"
     },
     "answers": [
       "4",
@@ -152,14 +152,14 @@ window.skillrTestQuestions = [
     "skill": "find difference in data",
     "printable": true,
     "type": "single",
-    "question": "Ava studies this example. How many more votes does A have than B?",
-    "audioPrompt": "Ava studies this example. How many more votes does A have than B?",
+    "question": "How many more votes does A have than B?",
+    "audioPrompt": "How many more votes does A have than B?",
     "visual": "A one-to-one picture display uses one circle for each response in a labelled category. Specific example: A: ● ● ● ● ● B: ● ● ● This is test example 6.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A one-to-one picture display uses one circle for each response in a labelled category. Specific example: A: ● ● ● ● ● B: ● ● ● This is test example 6.\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1st02.svg#ac9m1st02-t-006\"></use></svg>",
+    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"How many more votes does A have than B?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1st02.svg#ac9m1st02-t-006\">\u003c/use>\u003c/svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1st02.svg#ac9m1st02-t-006",
-      "alt_text": "A one-to-one picture display uses one circle for each response in a labelled category. Specific example: A: ● ● ● ● ● B: ● ● ● This is test example 6."
+      "alt_text": "How many more votes does A have than B?"
     },
     "answers": [
       "1",
@@ -184,11 +184,11 @@ window.skillrTestQuestions = [
     "question": "Which statement is correct?",
     "audioPrompt": "Which statement is correct?",
     "visual": "A one-to-one picture display uses one circle for each response in a labelled category. Specific example: Dogs: ● ● ● ● ● ● ● ● Cats: ● ● ● ● ● ● ● ● This is test example 7.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A one-to-one picture display uses one circle for each response in a labelled category. Specific example: Dogs: ● ● ● ● ● ● ● ● Cats: ● ● ● ● ● ● ● ● This is test example 7.\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1st02.svg#ac9m1st02-t-007\"></use></svg>",
+    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Which statement is correct?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1st02.svg#ac9m1st02-t-007\">\u003c/use>\u003c/svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1st02.svg#ac9m1st02-t-007",
-      "alt_text": "A one-to-one picture display uses one circle for each response in a labelled category. Specific example: Dogs: ● ● ● ● ● ● ● ● Cats: ● ● ● ● ● ● ● ● This is test example 7."
+      "alt_text": "Which statement is correct?"
     },
     "answers": [
       "Read the new one-to-one display independently. The two categories have the same frequency.",
@@ -210,15 +210,8 @@ window.skillrTestQuestions = [
     "skill": "select true findings",
     "printable": true,
     "type": "single",
-    "question": "Read the new one-to-one display independently. Select all statements supported by the display. Choose the group with all the correct answers.",
-    "audioPrompt": "Read the new one-to-one display independently. Select all statements supported by the display. Choose the group with all the correct answers.",
-    "visual": "A one-to-one picture display uses one circle for each response in a labelled category. Specific example: A: ● ● ● ● ● ● B: ● ● ● ● ● This is test example 8.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A one-to-one picture display uses one circle for each response in a labelled category. Specific example: A: ● ● ● ● ● ● B: ● ● ● ● ● This is test example 8.\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1st02.svg#ac9m1st02-t-008\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1st02.svg#ac9m1st02-t-008",
-      "alt_text": "A one-to-one picture display uses one circle for each response in a labelled category. Specific example: A: ● ● ● ● ● ● B: ● ● ● ● ● This is test example 8."
-    },
+    "question": "[Show the complete data display with labels and symbols.] Which option tells only true things about the data display?",
+    "audioPrompt": "[Show the complete data display with labels and symbols.] Which option tells only true things about the data display?",
     "answers": [
       "A has 1 more than B, A has 6 responses",
       "A has 1 more than B, A has 6 responses, B has 5 responses",
@@ -239,8 +232,8 @@ window.skillrTestQuestions = [
     "skill": "order category frequencies",
     "printable": true,
     "type": "single",
-    "question": "Sam studies this example. Order the categories from fewest to most responses. Which order is correct?",
-    "audioPrompt": "Sam studies this example. Order the categories from fewest to most responses. Which order is correct?",
+    "question": "Order the categories from fewest to most responses. Which order is correct?",
+    "audioPrompt": "Order the categories from fewest to most responses. Which order is correct?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -268,15 +261,8 @@ window.skillrTestQuestions = [
     "skill": "least popular category",
     "printable": true,
     "type": "single",
-    "question": "Read the new one-to-one display independently. Which travel category has the fewest responses?",
-    "audioPrompt": "Read the new one-to-one display independently. Which travel category has the fewest responses?",
-    "visual": "A one-to-one picture display uses one circle for each response in a labelled category. Specific example: walk: ● ● ● ● ● bus: ● ● ● ● car: ● ● ● ● ● ● ● This is test example 10.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A one-to-one picture display uses one circle for each response in a labelled category. Specific example: walk: ● ● ● ● ● bus: ● ● ● ● car: ● ● ● ● ● ● ● This is test example 10.\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1st02.svg#ac9m1st02-t-010\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1st02.svg#ac9m1st02-t-010",
-      "alt_text": "A one-to-one picture display uses one circle for each response in a labelled category. Specific example: walk: ● ● ● ● ● bus: ● ● ● ● car: ● ● ● ● ● ● ● This is test example 10."
-    },
+    "question": "[Show the complete data display with labels and symbols.] Which option tells only true things about the data display?",
+    "audioPrompt": "[Show the complete data display with labels and symbols.] Which option tells only true things about the data display?",
     "answers": [
       "bus",
       "walk",
@@ -297,15 +283,8 @@ window.skillrTestQuestions = [
     "skill": "most popular category",
     "printable": true,
     "type": "single",
-    "question": "Read the new one-to-one display independently. Which colour has the greatest frequency?",
-    "audioPrompt": "Read the new one-to-one display independently. Which colour has the greatest frequency?",
-    "visual": "A one-to-one picture display uses one circle for each response in a labelled category. Specific example: red: ● ● ● ● ● ● blue: ● ● ● ● green: ● ● ● ● This is test example 11.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A one-to-one picture display uses one circle for each response in a labelled category. Specific example: red: ● ● ● ● ● ● blue: ● ● ● ● green: ● ● ● ● This is test example 11.\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1st02.svg#ac9m1st02-t-011\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1st02.svg#ac9m1st02-t-011",
-      "alt_text": "A one-to-one picture display uses one circle for each response in a labelled category. Specific example: red: ● ● ● ● ● ● blue: ● ● ● ● green: ● ● ● ● This is test example 11."
-    },
+    "question": "[Show the complete data display with labels and symbols.] Which option tells only true things about the data display?",
+    "audioPrompt": "[Show the complete data display with labels and symbols.] Which option tells only true things about the data display?",
     "answers": [
       "blue",
       "red",
@@ -326,15 +305,8 @@ window.skillrTestQuestions = [
     "skill": "supported finding",
     "printable": true,
     "type": "single",
-    "question": "Read the new one-to-one display independently. Which statement is supported by the display?",
-    "audioPrompt": "Read the new one-to-one display independently. Which statement is supported by the display?",
-    "visual": "A one-to-one picture display uses one circle for each response in a labelled category. Specific example: A: ● ● ● ● ● ● ● B: ● ● ● ● ● This is test example 12.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A one-to-one picture display uses one circle for each response in a labelled category. Specific example: A: ● ● ● ● ● ● ● B: ● ● ● ● ● This is test example 12.\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1st02.svg#ac9m1st02-t-012\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1st02.svg#ac9m1st02-t-012",
-      "alt_text": "A one-to-one picture display uses one circle for each response in a labelled category. Specific example: A: ● ● ● ● ● ● ● B: ● ● ● ● ● This is test example 12."
-    },
+    "question": "[Show the complete data display with labels and symbols.] Which option tells only true things about the data display?",
+    "audioPrompt": "[Show the complete data display with labels and symbols.] Which option tells only true things about the data display?",
     "answers": [
       "B has more than A",
       "A and B are equal",
@@ -355,15 +327,8 @@ window.skillrTestQuestions = [
     "skill": "read data display",
     "printable": true,
     "type": "single",
-    "question": "A graph shows 6 cats and 4 dogs. Which has more?",
-    "audioPrompt": "A graph shows 6 cats and 4 dogs. Which has more?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "asset_path": "",
-      "alt_text": ""
-    },
+    "question": "[Show the complete data display with labels and symbols.] A graph shows 6 cats and 4 dogs. Which has more?",
+    "audioPrompt": "[Show the complete data display with labels and symbols.] A graph shows 6 cats and 4 dogs. Which has more?",
     "answers": [
       "cats",
       "dogs",
@@ -413,15 +378,8 @@ window.skillrTestQuestions = [
     "skill": "interpret picture graph",
     "printable": true,
     "type": "single",
-    "question": "Each picture means 1 vote. Which group has the most pictures?",
-    "audioPrompt": "Each picture means 1 vote. Which group has the most pictures?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "asset_path": "",
-      "alt_text": ""
-    },
+    "question": "[Show the complete picture described in the item.] Each picture means 1 vote. Which group has the most pictures?",
+    "audioPrompt": "[Show the complete picture described in the item.] Each picture means 1 vote. Which group has the most pictures?",
     "answers": [
       "the shortest row",
       "the title",
@@ -465,5 +423,3 @@ window.skillrTestQuestions = [
     "qualitySchema": "production-v1"
   }
 ];
-window.skillrExamQuestions = window.skillrTestQuestions;
-window.quizQuestions = window.skillrTestQuestions;

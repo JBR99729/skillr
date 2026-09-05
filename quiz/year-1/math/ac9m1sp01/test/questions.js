@@ -7,14 +7,14 @@ window.skillrTestQuestions = [
     "skill": "cube faces",
     "printable": true,
     "type": "single",
-    "question": "Mia studies this example. How many flat faces does a cube have?",
-    "audioPrompt": "Mia studies this example. How many flat faces does a cube have?",
+    "question": "How many flat faces does a cube have?",
+    "audioPrompt": "How many flat faces does a cube have?",
     "visual": "A cylinder, sphere, cube and cone are shown with their different faces and curved surfaces. Specific example: ▣ cube This is test example 1.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A cylinder, sphere, cube and cone are shown with their different faces and curved surfaces. Specific example: ▣ cube This is test example 1.\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1sp01.svg#ac9m1sp01-t-001\"></use></svg>",
+    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"How many flat faces does a cube have?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1sp01.svg#ac9m1sp01-t-001\">\u003c/use>\u003c/svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1sp01.svg#ac9m1sp01-t-001",
-      "alt_text": "A cylinder, sphere, cube and cone are shown with their different faces and curved surfaces. Specific example: ▣ cube This is test example 1."
+      "alt_text": "How many flat faces does a cube have?"
     },
     "answers": [
       "6",
@@ -39,11 +39,11 @@ window.skillrTestQuestions = [
     "question": "Which statement is correct?",
     "audioPrompt": "Which statement is correct?",
     "visual": "A circle, square, triangle and rectangle are shown so their sides and corners can be compared. Specific example: ◇ This is test example 2.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A circle, square, triangle and rectangle are shown so their sides and corners can be compared. Specific example: ◇ This is test example 2.\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1sp01.svg#ac9m1sp01-t-002\"></use></svg>",
+    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Which statement is correct?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1sp01.svg#ac9m1sp01-t-002\">\u003c/use>\u003c/svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1sp01.svg#ac9m1sp01-t-002",
-      "alt_text": "A circle, square, triangle and rectangle are shown so their sides and corners can be compared. Specific example: ◇ This is test example 2."
+      "alt_text": "Which statement is correct?"
     },
     "answers": [
       "It is not true that sam studies this example. A square turned so that one corner points up is still a square.",
@@ -65,14 +65,14 @@ window.skillrTestQuestions = [
     "skill": "sort shapes",
     "printable": true,
     "type": "single",
-    "question": "Ava studies this example. Select all useful features for sorting shapes. Choose the group with all the correct answers.",
-    "audioPrompt": "Ava studies this example. Select all useful features for sorting shapes. Choose the group with all the correct answers.",
+    "question": "Select all useful features for sorting shapes. Choose the group with all the correct answers.",
+    "audioPrompt": "Select all useful features for sorting shapes. Choose the group with all the correct answers.",
     "visual": "A circle, square, triangle and rectangle are shown so their sides and corners can be compared. This is test example 3.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A circle, square, triangle and rectangle are shown so their sides and corners can be compared. This is test example 3.\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1sp01.svg#ac9m1sp01-t-003\"></use></svg>",
+    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Select all useful features for sorting shapes. Choose the group with all the correct answers.\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1sp01.svg#ac9m1sp01-t-003\">\u003c/use>\u003c/svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1sp01.svg#ac9m1sp01-t-003",
-      "alt_text": "A circle, square, triangle and rectangle are shown so their sides and corners can be compared. This is test example 3."
+      "alt_text": "Select all useful features for sorting shapes. Choose the group with all the correct answers."
     },
     "answers": [
       "curved or straight boundaries, number of sides",
@@ -94,14 +94,14 @@ window.skillrTestQuestions = [
     "skill": "select four sided shapes",
     "printable": true,
     "type": "single",
-    "question": "Sam studies this example. Select all flat shapes with 4 straight sides. Choose the group with all the correct answers.",
-    "audioPrompt": "Sam studies this example. Select all flat shapes with 4 straight sides. Choose the group with all the correct answers.",
+    "question": "Select all flat shapes with 4 straight sides. Choose the group with all the correct answers.",
+    "audioPrompt": "Select all flat shapes with 4 straight sides. Choose the group with all the correct answers.",
     "visual": "A circle, square, triangle and rectangle are shown so their sides and corners can be compared. Specific example: Familiar Shapes and Objects: select four-sided shapes This is test example 4.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A circle, square, triangle and rectangle are shown so their sides and corners can be compared. Specific example: Familiar Shapes and Objects: select four-sided shapes This is test example 4.\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1sp01.svg#ac9m1sp01-t-004\"></use></svg>",
+    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Select all flat shapes with 4 straight sides. Choose the group with all the correct answers.\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1sp01.svg#ac9m1sp01-t-004\">\u003c/use>\u003c/svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1sp01.svg#ac9m1sp01-t-004",
-      "alt_text": "A circle, square, triangle and rectangle are shown so their sides and corners can be compared. Specific example: Familiar Shapes and Objects: select four-sided shapes This is test example 4."
+      "alt_text": "Select all flat shapes with 4 straight sides. Choose the group with all the correct answers."
     },
     "answers": [
       "square, rectangle",
@@ -123,14 +123,14 @@ window.skillrTestQuestions = [
     "skill": "build a shape",
     "printable": true,
     "type": "single",
-    "question": "Lina studies this example. Which set of sticks could make a triangle?",
-    "audioPrompt": "Lina studies this example. Which set of sticks could make a triangle?",
+    "question": "Which set of sticks could make a triangle?",
+    "audioPrompt": "Which set of sticks could make a triangle?",
     "visual": "A circle, square, triangle and rectangle are shown so their sides and corners can be compared. Specific example: Familiar Shapes and Objects: build a shape This is test example 5.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A circle, square, triangle and rectangle are shown so their sides and corners can be compared. Specific example: Familiar Shapes and Objects: build a shape This is test example 5.\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1sp01.svg#ac9m1sp01-t-005\"></use></svg>",
+    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Which set of sticks could make a triangle?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1sp01.svg#ac9m1sp01-t-005\">\u003c/use>\u003c/svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1sp01.svg#ac9m1sp01-t-005",
-      "alt_text": "A circle, square, triangle and rectangle are shown so their sides and corners can be compared. Specific example: Familiar Shapes and Objects: build a shape This is test example 5."
+      "alt_text": "Which set of sticks could make a triangle?"
     },
     "answers": [
       "2 sticks only",
@@ -152,14 +152,14 @@ window.skillrTestQuestions = [
     "skill": "classify by feature",
     "printable": true,
     "type": "single",
-    "question": "Sam studies this example. Which sorting rule uses a mathematical shape feature?",
-    "audioPrompt": "Sam studies this example. Which sorting rule uses a mathematical shape feature?",
+    "question": "Which sorting rule uses a mathematical shape feature?",
+    "audioPrompt": "Which sorting rule uses a mathematical shape feature?",
     "visual": "A circle, square, triangle and rectangle are shown so their sides and corners can be compared. This is test example 6.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A circle, square, triangle and rectangle are shown so their sides and corners can be compared. This is test example 6.\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1sp01.svg#ac9m1sp01-t-006\"></use></svg>",
+    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Which sorting rule uses a mathematical shape feature?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1sp01.svg#ac9m1sp01-t-006\">\u003c/use>\u003c/svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1sp01.svg#ac9m1sp01-t-006",
-      "alt_text": "A circle, square, triangle and rectangle are shown so their sides and corners can be compared. This is test example 6."
+      "alt_text": "Which sorting rule uses a mathematical shape feature?"
     },
     "answers": [
       "favourite / not favourite",
@@ -181,14 +181,14 @@ window.skillrTestQuestions = [
     "skill": "count sides",
     "printable": true,
     "type": "single",
-    "question": "Lina studies this example. How many straight sides does a rectangle have?",
-    "audioPrompt": "Lina studies this example. How many straight sides does a rectangle have?",
+    "question": "How many straight sides does a rectangle have?",
+    "audioPrompt": "How many straight sides does a rectangle have?",
     "visual": "A circle, square, triangle and rectangle are shown so their sides and corners can be compared. Specific example: Familiar Shapes and Objects: count sides This is test example 7.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A circle, square, triangle and rectangle are shown so their sides and corners can be compared. Specific example: Familiar Shapes and Objects: count sides This is test example 7.\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1sp01.svg#ac9m1sp01-t-007\"></use></svg>",
+    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"How many straight sides does a rectangle have?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1sp01.svg#ac9m1sp01-t-007\">\u003c/use>\u003c/svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1sp01.svg#ac9m1sp01-t-007",
-      "alt_text": "A circle, square, triangle and rectangle are shown so their sides and corners can be compared. Specific example: Familiar Shapes and Objects: count sides This is test example 7."
+      "alt_text": "How many straight sides does a rectangle have?"
     },
     "answers": [
       "4",
@@ -210,14 +210,14 @@ window.skillrTestQuestions = [
     "skill": "recognise real object",
     "printable": true,
     "type": "single",
-    "question": "Lina studies this example. Which shape is commonly seen in a door?",
-    "audioPrompt": "Lina studies this example. Which shape is commonly seen in a door?",
+    "question": "Which shape is commonly seen in a door?",
+    "audioPrompt": "Which shape is commonly seen in a door?",
     "visual": "A circle, square, triangle and rectangle are shown so their sides and corners can be compared. Specific example: Familiar Shapes and Objects: recognise real object This is test example 8.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A circle, square, triangle and rectangle are shown so their sides and corners can be compared. Specific example: Familiar Shapes and Objects: recognise real object This is test example 8.\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1sp01.svg#ac9m1sp01-t-008\"></use></svg>",
+    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Which shape is commonly seen in a door?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1sp01.svg#ac9m1sp01-t-008\">\u003c/use>\u003c/svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1sp01.svg#ac9m1sp01-t-008",
-      "alt_text": "A circle, square, triangle and rectangle are shown so their sides and corners can be compared. Specific example: Familiar Shapes and Objects: recognise real object This is test example 8."
+      "alt_text": "Which shape is commonly seen in a door?"
     },
     "answers": [
       "triangle only",
@@ -239,8 +239,8 @@ window.skillrTestQuestions = [
     "skill": "2d and 3d",
     "printable": true,
     "type": "single",
-    "question": "Lina studies this example. Which statement correctly compares a square and a cube?",
-    "audioPrompt": "Lina studies this example. Which statement correctly compares a square and a cube?",
+    "question": "Which statement correctly compares a square and a cube?",
+    "audioPrompt": "Which statement correctly compares a square and a cube?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -268,14 +268,14 @@ window.skillrTestQuestions = [
     "skill": "name familiar shape",
     "printable": true,
     "type": "single",
-    "question": "Ruby studies this example. Which shape name matches □?",
-    "audioPrompt": "Ruby studies this example. Which shape name matches □?",
+    "question": "Which shape name matches □?",
+    "audioPrompt": "Which shape name matches □?",
     "visual": "A circle, square, triangle and rectangle are shown so their sides and corners can be compared. Specific example: Familiar Shapes and Objects: name familiar shape This is test example 10.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A circle, square, triangle and rectangle are shown so their sides and corners can be compared. Specific example: Familiar Shapes and Objects: name familiar shape This is test example 10.\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1sp01.svg#ac9m1sp01-t-010\"></use></svg>",
+    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Which shape name matches □?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1sp01.svg#ac9m1sp01-t-010\">\u003c/use>\u003c/svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1sp01.svg#ac9m1sp01-t-010",
-      "alt_text": "A circle, square, triangle and rectangle are shown so their sides and corners can be compared. Specific example: Familiar Shapes and Objects: name familiar shape This is test example 10."
+      "alt_text": "Which shape name matches □?"
     },
     "answers": [
       "square",
@@ -297,14 +297,14 @@ window.skillrTestQuestions = [
     "skill": "count corners",
     "printable": true,
     "type": "single",
-    "question": "Mia studies this example. How many corners does a square have?",
-    "audioPrompt": "Mia studies this example. How many corners does a square have?",
+    "question": "How many corners does a square have?",
+    "audioPrompt": "How many corners does a square have?",
     "visual": "A circle, square, triangle and rectangle are shown so their sides and corners can be compared. Specific example: Familiar Shapes and Objects: count corners This is test example 11.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A circle, square, triangle and rectangle are shown so their sides and corners can be compared. Specific example: Familiar Shapes and Objects: count corners This is test example 11.\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1sp01.svg#ac9m1sp01-t-011\"></use></svg>",
+    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"How many corners does a square have?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1sp01.svg#ac9m1sp01-t-011\">\u003c/use>\u003c/svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1sp01.svg#ac9m1sp01-t-011",
-      "alt_text": "A circle, square, triangle and rectangle are shown so their sides and corners can be compared. Specific example: Familiar Shapes and Objects: count corners This is test example 11."
+      "alt_text": "How many corners does a square have?"
     },
     "answers": [
       "3",
@@ -326,14 +326,14 @@ window.skillrTestQuestions = [
     "skill": "curved boundary",
     "printable": true,
     "type": "single",
-    "question": "Ava studies this example. Which familiar flat shape has a curved boundary and no corners?",
-    "audioPrompt": "Ava studies this example. Which familiar flat shape has a curved boundary and no corners?",
+    "question": "Which familiar flat shape has a curved boundary and no corners?",
+    "audioPrompt": "Which familiar flat shape has a curved boundary and no corners?",
     "visual": "A circle, square, triangle and rectangle are shown so their sides and corners can be compared. This is test example 12.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A circle, square, triangle and rectangle are shown so their sides and corners can be compared. This is test example 12.\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1sp01.svg#ac9m1sp01-t-012\"></use></svg>",
+    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Which familiar flat shape has a curved boundary and no corners?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1sp01.svg#ac9m1sp01-t-012\">\u003c/use>\u003c/svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1sp01.svg#ac9m1sp01-t-012",
-      "alt_text": "A circle, square, triangle and rectangle are shown so their sides and corners can be compared. This is test example 12."
+      "alt_text": "Which familiar flat shape has a curved boundary and no corners?"
     },
     "answers": [
       "triangle",
@@ -465,5 +465,3 @@ window.skillrTestQuestions = [
     "qualitySchema": "production-v1"
   }
 ];
-window.skillrExamQuestions = window.skillrTestQuestions;
-window.quizQuestions = window.skillrTestQuestions;

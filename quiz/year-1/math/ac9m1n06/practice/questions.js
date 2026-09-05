@@ -7,15 +7,8 @@ window.skillrPracticeQuestions = [
     "skill": "recognise equal groups",
     "printable": true,
     "type": "single",
-    "question": "Which display has equal groups?",
-    "audioPrompt": "Which display has equal groups?",
-    "visual": "Which display has equal groups?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Which display has equal groups?\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1n06.svg#ac9m1n06-p-001\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n06.svg#ac9m1n06-p-001",
-      "alt_text": "Which display has equal groups?"
-    },
+    "question": "[Show the complete data display with labels and symbols.] Which display has equal groups?",
+    "audioPrompt": "[Show the complete data display with labels and symbols.] Which display has equal groups?",
     "answers": [
       "3 groups with 4 in each",
       "groups of 3, 4 and 5",
@@ -68,7 +61,7 @@ window.skillrPracticeQuestions = [
     "question": "There are 4 equal groups with 3 counters in each. How many counters altogether?",
     "audioPrompt": "There are 4 equal groups with 3 counters in each. How many counters altogether?",
     "visual": "There are 4 equal groups with 3 counters in each. How many counters altogether?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"There are 4 equal groups with 3 counters in each. How many counters altogether?\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1n06.svg#ac9m1n06-p-003\"></use></svg>",
+    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"There are 4 equal groups with 3 counters in each. How many counters altogether?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1n06.svg#ac9m1n06-p-003\">\u003c/use>\u003c/svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n06.svg#ac9m1n06-p-003",
@@ -97,7 +90,7 @@ window.skillrPracticeQuestions = [
     "question": "Which repeated addition matches 5 groups of 2?",
     "audioPrompt": "Which repeated addition matches 5 groups of 2?",
     "visual": "Which repeated addition matches 5 groups of 2?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Which repeated addition matches 5 groups of 2?\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1n06.svg#ac9m1n06-p-004\"></use></svg>",
+    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Which repeated addition matches 5 groups of 2?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1n06.svg#ac9m1n06-p-004\">\u003c/use>\u003c/svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n06.svg#ac9m1n06-p-004",
@@ -126,7 +119,7 @@ window.skillrPracticeQuestions = [
     "question": "Twelve counters are shared equally among 3 children. How many does each child get?",
     "audioPrompt": "Twelve counters are shared equally among 3 children. How many does each child get?",
     "visual": "Twelve counters are shared equally among 3 children. How many does each child get?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Twelve counters are shared equally among 3 children. How many does each child get?\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1n06.svg#ac9m1n06-p-005\"></use></svg>",
+    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Twelve counters are shared equally among 3 children. How many does each child get?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1n06.svg#ac9m1n06-p-005\">\u003c/use>\u003c/svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n06.svg#ac9m1n06-p-005",
@@ -155,7 +148,7 @@ window.skillrPracticeQuestions = [
     "question": "Fifteen strawberries are shared equally among 5 plates. How many on each plate?",
     "audioPrompt": "Fifteen strawberries are shared equally among 5 plates. How many on each plate?",
     "visual": "Fifteen strawberries are shared equally among 5 plates. How many on each plate?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Fifteen strawberries are shared equally among 5 plates. How many on each plate?\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1n06.svg#ac9m1n06-p-006\"></use></svg>",
+    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Fifteen strawberries are shared equally among 5 plates. How many on each plate?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1n06.svg#ac9m1n06-p-006\">\u003c/use>\u003c/svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n06.svg#ac9m1n06-p-006",
@@ -184,7 +177,7 @@ window.skillrPracticeQuestions = [
     "question": "Sixteen counters are put into groups of 4. How many groups are made?",
     "audioPrompt": "Sixteen counters are put into groups of 4. How many groups are made?",
     "visual": "Sixteen counters are put into groups of 4. How many groups are made?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Sixteen counters are put into groups of 4. How many groups are made?\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1n06.svg#ac9m1n06-p-007\"></use></svg>",
+    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Sixteen counters are put into groups of 4. How many groups are made?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1n06.svg#ac9m1n06-p-007\">\u003c/use>\u003c/svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n06.svg#ac9m1n06-p-007",
@@ -213,7 +206,7 @@ window.skillrPracticeQuestions = [
     "question": "Eighteen pencils are bundled in groups of 3. How many bundles?",
     "audioPrompt": "Eighteen pencils are bundled in groups of 3. How many bundles?",
     "visual": "Eighteen pencils are bundled in groups of 3. How many bundles?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Eighteen pencils are bundled in groups of 3. How many bundles?\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1n06.svg#ac9m1n06-p-008\"></use></svg>",
+    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Eighteen pencils are bundled in groups of 3. How many bundles?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1n06.svg#ac9m1n06-p-008\">\u003c/use>\u003c/svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n06.svg#ac9m1n06-p-008",
@@ -297,15 +290,8 @@ window.skillrPracticeQuestions = [
     "skill": "choose sharing diagram",
     "printable": true,
     "type": "single",
-    "question": "Which diagram best shows 8 shared equally between 2 children?",
-    "audioPrompt": "Which diagram best shows 8 shared equally between 2 children?",
-    "visual": "Which diagram best shows 8 shared equally between 2 children?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Which diagram best shows 8 shared equally between 2 children?\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1n06.svg#ac9m1n06-p-011\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n06.svg#ac9m1n06-p-011",
-      "alt_text": "Which diagram best shows 8 shared equally between 2 children?"
-    },
+    "question": "[Show the labelled shape or diagram described in the item.] Which diagram best shows 8 shared equally between 2 children?",
+    "audioPrompt": "[Show the labelled shape or diagram described in the item.] Which diagram best shows 8 shared equally between 2 children?",
     "answers": [
       "four children with 2 each",
       "two children with 4 each",
@@ -326,15 +312,8 @@ window.skillrPracticeQuestions = [
     "skill": "choose grouping diagram",
     "printable": true,
     "type": "single",
-    "question": "Which diagram shows 12 objects in groups of 3?",
-    "audioPrompt": "Which diagram shows 12 objects in groups of 3?",
-    "visual": "Which diagram shows 12 objects in groups of 3?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Which diagram shows 12 objects in groups of 3?\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1n06.svg#ac9m1n06-p-012\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n06.svg#ac9m1n06-p-012",
-      "alt_text": "Which diagram shows 12 objects in groups of 3?"
-    },
+    "question": "[Show the labelled shape or diagram described in the item.] Which diagram shows 12 objects in groups of 3?",
+    "audioPrompt": "[Show the labelled shape or diagram described in the item.] Which diagram shows 12 objects in groups of 3?",
     "answers": [
       "3 groups of 4",
       "2 groups of 3",
@@ -358,7 +337,7 @@ window.skillrPracticeQuestions = [
     "question": "Fourteen counters are placed in groups of 4. How many counters are left over?",
     "audioPrompt": "Fourteen counters are placed in groups of 4. How many counters are left over?",
     "visual": "Fourteen counters are placed in groups of 4. How many counters are left over?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Fourteen counters are placed in groups of 4. How many counters are left over?\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1n06.svg#ac9m1n06-p-013\"></use></svg>",
+    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Fourteen counters are placed in groups of 4. How many counters are left over?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1n06.svg#ac9m1n06-p-013\">\u003c/use>\u003c/svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n06.svg#ac9m1n06-p-013",
@@ -387,7 +366,7 @@ window.skillrPracticeQuestions = [
     "question": "Seventeen blocks are packed 5 per bag. How many full bags can be made?",
     "audioPrompt": "Seventeen blocks are packed 5 per bag. How many full bags can be made?",
     "visual": "Seventeen blocks are packed 5 per bag. How many full bags can be made?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Seventeen blocks are packed 5 per bag. How many full bags can be made?\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1n06.svg#ac9m1n06-p-014\"></use></svg>",
+    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Seventeen blocks are packed 5 per bag. How many full bags can be made?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1n06.svg#ac9m1n06-p-014\">\u003c/use>\u003c/svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n06.svg#ac9m1n06-p-014",
@@ -445,7 +424,7 @@ window.skillrPracticeQuestions = [
     "question": "Twelve pencils are shared equally among 4 students. How many pencils does each student receive?",
     "audioPrompt": "Twelve pencils are shared equally among 4 students. How many pencils does each student receive?",
     "visual": "Twelve pencils are shared equally among 4 students. How many pencils does each student receive?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Twelve pencils are shared equally among 4 students. How many pencils does each student receive?\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1n06.svg#ac9m1n06-p-016\"></use></svg>",
+    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Twelve pencils are shared equally among 4 students. How many pencils does each student receive?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1n06.svg#ac9m1n06-p-016\">\u003c/use>\u003c/svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n06.svg#ac9m1n06-p-016",
@@ -474,7 +453,7 @@ window.skillrPracticeQuestions = [
     "question": "A teacher puts 20 counters into cups, 5 counters in each cup. How many cups are needed?",
     "audioPrompt": "A teacher puts 20 counters into cups, 5 counters in each cup. How many cups are needed?",
     "visual": "A teacher puts 20 counters into cups, 5 counters in each cup. How many cups are needed?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A teacher puts 20 counters into cups, 5 counters in each cup. How many cups are needed?\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1n06.svg#ac9m1n06-p-017\"></use></svg>",
+    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A teacher puts 20 counters into cups, 5 counters in each cup. How many cups are needed?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1n06.svg#ac9m1n06-p-017\">\u003c/use>\u003c/svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n06.svg#ac9m1n06-p-017",
@@ -503,7 +482,7 @@ window.skillrPracticeQuestions = [
     "question": "There are 18 socks. They are made into pairs. How many pairs?",
     "audioPrompt": "There are 18 socks. They are made into pairs. How many pairs?",
     "visual": "There are 18 socks. They are made into pairs. How many pairs?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"There are 18 socks. They are made into pairs. How many pairs?\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1n06.svg#ac9m1n06-p-018\"></use></svg>",
+    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"There are 18 socks. They are made into pairs. How many pairs?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1n06.svg#ac9m1n06-p-018\">\u003c/use>\u003c/svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n06.svg#ac9m1n06-p-018",
@@ -561,7 +540,7 @@ window.skillrPracticeQuestions = [
     "question": "A child sees 5 groups of 2 and says the total is 5. What was counted?",
     "audioPrompt": "A child sees 5 groups of 2 and says the total is 5. What was counted?",
     "visual": "A child sees 5 groups of 2 and says the total is 5. What was counted?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A child sees 5 groups of 2 and says the total is 5. What was counted?\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1n06.svg#ac9m1n06-p-020\"></use></svg>",
+    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A child sees 5 groups of 2 and says the total is 5. What was counted?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1n06.svg#ac9m1n06-p-020\">\u003c/use>\u003c/svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n06.svg#ac9m1n06-p-020",
@@ -648,11 +627,11 @@ window.skillrPracticeQuestions = [
     "question": "Order the steps for sharing 12 counters among 3 children. Which order is correct?",
     "audioPrompt": "Order the steps for sharing 12 counters among 3 children. Which order is correct?",
     "visual": "Order the steps for sharing 12 counters among 3 children.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Order the steps for sharing 12 counters among 3 children.\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1n06.svg#ac9m1n06-p-023\"></use></svg>",
+    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Order the steps for sharing 12 counters among 3 children. Which order is correct?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1n06.svg#ac9m1n06-p-023\">\u003c/use>\u003c/svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n06.svg#ac9m1n06-p-023",
-      "alt_text": "Order the steps for sharing 12 counters among 3 children."
+      "alt_text": "Order the steps for sharing 12 counters among 3 children. Which order is correct?"
     },
     "answers": [
       "Check each child has the same number → Give one counter to each child in turn → Count how many each child has → Start with all 12 counters",
@@ -735,11 +714,11 @@ window.skillrPracticeQuestions = [
     "question": "Select two ways to show 3 groups of 4. Choose the group with all the correct answers.",
     "audioPrompt": "Select two ways to show 3 groups of 4. Choose the group with all the correct answers.",
     "visual": "Select two ways to show 3 groups of 4.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Select two ways to show 3 groups of 4.\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1n06.svg#ac9m1n06-p-026\"></use></svg>",
+    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Select two ways to show 3 groups of 4. Choose the group with all the correct answers.\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1n06.svg#ac9m1n06-p-026\">\u003c/use>\u003c/svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n06.svg#ac9m1n06-p-026",
-      "alt_text": "Select two ways to show 3 groups of 4."
+      "alt_text": "Select two ways to show 3 groups of 4. Choose the group with all the correct answers."
     },
     "answers": [
       "4 + 4 + 4",
@@ -764,7 +743,7 @@ window.skillrPracticeQuestions = [
     "question": "Four children receive 3 counters each. How many counters were shared?",
     "audioPrompt": "Four children receive 3 counters each. How many counters were shared?",
     "visual": "Four children receive 3 counters each. How many counters were shared?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Four children receive 3 counters each. How many counters were shared?\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1n06.svg#ac9m1n06-p-027\"></use></svg>",
+    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Four children receive 3 counters each. How many counters were shared?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1n06.svg#ac9m1n06-p-027\">\u003c/use>\u003c/svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n06.svg#ac9m1n06-p-027",
@@ -793,7 +772,7 @@ window.skillrPracticeQuestions = [
     "question": "Nineteen counters are packed 6 per box. Which result is correct?",
     "audioPrompt": "Nineteen counters are packed 6 per box. Which result is correct?",
     "visual": "Nineteen counters are packed 6 per box. Which result is correct?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Nineteen counters are packed 6 per box. Which result is correct?\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1n06.svg#ac9m1n06-p-028\"></use></svg>",
+    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Nineteen counters are packed 6 per box. Which result is correct?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1n06.svg#ac9m1n06-p-028\">\u003c/use>\u003c/svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n06.svg#ac9m1n06-p-028",
@@ -811,6 +790,385 @@ window.skillrPracticeQuestions = [
       "hint": "Make equal groups or equal parts, then check that each one has the same amount."
     },
     "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m1n06-p-029",
+    "curriculumCode": "AC9M1N06",
+    "bank": "practice",
+    "skill": "equal sharing and grouping",
+    "printable": true,
+    "type": "single",
+    "question": "Sam shares blocks. Share 4 counters equally between 2 children. How many counters does each child get?",
+    "audioPrompt": "Sam shares blocks. Share 4 counters equally between 2 children. How many counters does each child get?",
+    "answers": [
+      "2",
+      "4",
+      "1",
+      "3"
+    ],
+    "correct": 0,
+    "explanation": "2 is the correct answer.",
+    "qualitySchema": "reviewed-year1-maths-v1"
+  },
+  {
+    "id": "ac9m1n06-p-030",
+    "curriculumCode": "AC9M1N06",
+    "bank": "practice",
+    "skill": "equal sharing and grouping",
+    "printable": true,
+    "type": "single",
+    "question": "Mia shares blocks. Put 6 blocks into groups of 2. How many equal groups can you make?",
+    "audioPrompt": "Mia shares blocks. Put 6 blocks into groups of 2. How many equal groups can you make?",
+    "answers": [
+      "2",
+      "3",
+      "5",
+      "4"
+    ],
+    "correct": 1,
+    "explanation": "3 is the correct answer.",
+    "qualitySchema": "reviewed-year1-maths-v1"
+  },
+  {
+    "id": "ac9m1n06-p-031",
+    "curriculumCode": "AC9M1N06",
+    "bank": "practice",
+    "skill": "equal sharing and grouping",
+    "printable": true,
+    "type": "single",
+    "question": "Ben shares blocks. Share 8 counters equally between 4 children. How many counters does each child get?",
+    "audioPrompt": "Ben shares blocks. Share 8 counters equally between 4 children. How many counters does each child get?",
+    "answers": [
+      "2",
+      "3",
+      "1",
+      "4"
+    ],
+    "correct": 0,
+    "explanation": "2 is the correct answer.",
+    "qualitySchema": "reviewed-year1-maths-v1"
+  },
+  {
+    "id": "ac9m1n06-p-032",
+    "curriculumCode": "AC9M1N06",
+    "bank": "practice",
+    "skill": "equal sharing and grouping",
+    "printable": true,
+    "type": "single",
+    "question": "Ava shares blocks. Put 10 blocks into groups of 2. How many equal groups can you make?",
+    "audioPrompt": "Ava shares blocks. Put 10 blocks into groups of 2. How many equal groups can you make?",
+    "answers": [
+      "4",
+      "6",
+      "5",
+      "7"
+    ],
+    "correct": 2,
+    "explanation": "5 is the correct answer.",
+    "qualitySchema": "reviewed-year1-maths-v1"
+  },
+  {
+    "id": "ac9m1n06-p-033",
+    "curriculumCode": "AC9M1N06",
+    "bank": "practice",
+    "skill": "equal sharing and grouping",
+    "printable": true,
+    "type": "single",
+    "question": "Max shares blocks. Share 6 counters equally between 2 children. How many counters does each child get?",
+    "audioPrompt": "Max shares blocks. Share 6 counters equally between 2 children. How many counters does each child get?",
+    "answers": [
+      "2",
+      "4",
+      "3",
+      "5"
+    ],
+    "correct": 2,
+    "explanation": "3 is the correct answer.",
+    "qualitySchema": "reviewed-year1-maths-v1"
+  },
+  {
+    "id": "ac9m1n06-p-034",
+    "curriculumCode": "AC9M1N06",
+    "bank": "practice",
+    "skill": "equal sharing and grouping",
+    "printable": true,
+    "type": "single",
+    "question": "Leo shares blocks. Put 9 blocks into groups of 3. How many equal groups can you make?",
+    "audioPrompt": "Leo shares blocks. Put 9 blocks into groups of 3. How many equal groups can you make?",
+    "answers": [
+      "2",
+      "5",
+      "3",
+      "4"
+    ],
+    "correct": 2,
+    "explanation": "3 is the correct answer.",
+    "qualitySchema": "reviewed-year1-maths-v1"
+  },
+  {
+    "id": "ac9m1n06-p-035",
+    "curriculumCode": "AC9M1N06",
+    "bank": "practice",
+    "skill": "equal sharing and grouping",
+    "printable": true,
+    "type": "single",
+    "question": "Kim shares blocks. Share 12 counters equally between 4 children. How many counters does each child get?",
+    "audioPrompt": "Kim shares blocks. Share 12 counters equally between 4 children. How many counters does each child get?",
+    "answers": [
+      "5",
+      "4",
+      "3",
+      "2"
+    ],
+    "correct": 2,
+    "explanation": "3 is the correct answer.",
+    "qualitySchema": "reviewed-year1-maths-v1"
+  },
+  {
+    "id": "ac9m1n06-p-036",
+    "curriculumCode": "AC9M1N06",
+    "bank": "practice",
+    "skill": "equal sharing and grouping",
+    "printable": true,
+    "type": "single",
+    "question": "Tom shares blocks. Put 15 blocks into groups of 3. How many equal groups can you make?",
+    "audioPrompt": "Tom shares blocks. Put 15 blocks into groups of 3. How many equal groups can you make?",
+    "answers": [
+      "7",
+      "6",
+      "4",
+      "5"
+    ],
+    "correct": 3,
+    "explanation": "5 is the correct answer.",
+    "qualitySchema": "reviewed-year1-maths-v1"
+  },
+  {
+    "id": "ac9m1n06-p-037",
+    "curriculumCode": "AC9M1N06",
+    "bank": "practice",
+    "skill": "equal sharing and grouping",
+    "printable": true,
+    "type": "single",
+    "question": "Ann shares blocks. Share 8 counters equally between 2 children. How many counters does each child get?",
+    "audioPrompt": "Ann shares blocks. Share 8 counters equally between 2 children. How many counters does each child get?",
+    "answers": [
+      "3",
+      "6",
+      "5",
+      "4"
+    ],
+    "correct": 3,
+    "explanation": "4 is the correct answer.",
+    "qualitySchema": "reviewed-year1-maths-v1"
+  },
+  {
+    "id": "ac9m1n06-p-038",
+    "curriculumCode": "AC9M1N06",
+    "bank": "practice",
+    "skill": "equal sharing and grouping",
+    "printable": true,
+    "type": "single",
+    "question": "Tim shares blocks. Put 12 blocks into groups of 4. How many equal groups can you make?",
+    "audioPrompt": "Tim shares blocks. Put 12 blocks into groups of 4. How many equal groups can you make?",
+    "answers": [
+      "3",
+      "5",
+      "2",
+      "4"
+    ],
+    "correct": 0,
+    "explanation": "3 is the correct answer.",
+    "qualitySchema": "reviewed-year1-maths-v1"
+  },
+  {
+    "id": "ac9m1n06-p-039",
+    "curriculumCode": "AC9M1N06",
+    "bank": "practice",
+    "skill": "equal sharing and grouping",
+    "printable": true,
+    "type": "single",
+    "question": "Pip shares blocks. Share 16 counters equally between 4 children. How many counters does each child get?",
+    "audioPrompt": "Pip shares blocks. Share 16 counters equally between 4 children. How many counters does each child get?",
+    "answers": [
+      "5",
+      "6",
+      "4",
+      "3"
+    ],
+    "correct": 2,
+    "explanation": "4 is the correct answer.",
+    "qualitySchema": "reviewed-year1-maths-v1"
+  },
+  {
+    "id": "ac9m1n06-p-040",
+    "curriculumCode": "AC9M1N06",
+    "bank": "practice",
+    "skill": "equal sharing and grouping",
+    "printable": true,
+    "type": "single",
+    "question": "Zac shares blocks. Put 20 blocks into groups of 4. How many equal groups can you make?",
+    "audioPrompt": "Zac shares blocks. Put 20 blocks into groups of 4. How many equal groups can you make?",
+    "answers": [
+      "5",
+      "7",
+      "6",
+      "4"
+    ],
+    "correct": 0,
+    "explanation": "5 is the correct answer.",
+    "qualitySchema": "reviewed-year1-maths-v1"
+  },
+  {
+    "id": "ac9m1n06-p-041",
+    "curriculumCode": "AC9M1N06",
+    "bank": "practice",
+    "skill": "equal sharing and grouping",
+    "printable": true,
+    "type": "single",
+    "question": "Amy shares blocks. Share 10 counters equally between 2 children. How many counters does each child get?",
+    "audioPrompt": "Amy shares blocks. Share 10 counters equally between 2 children. How many counters does each child get?",
+    "answers": [
+      "6",
+      "5",
+      "4",
+      "7"
+    ],
+    "correct": 1,
+    "explanation": "5 is the correct answer.",
+    "qualitySchema": "reviewed-year1-maths-v1"
+  },
+  {
+    "id": "ac9m1n06-p-042",
+    "curriculumCode": "AC9M1N06",
+    "bank": "practice",
+    "skill": "equal sharing and grouping",
+    "printable": true,
+    "type": "single",
+    "question": "Ali shares blocks. Put 15 blocks into groups of 5. How many equal groups can you make?",
+    "audioPrompt": "Ali shares blocks. Put 15 blocks into groups of 5. How many equal groups can you make?",
+    "answers": [
+      "4",
+      "5",
+      "2",
+      "3"
+    ],
+    "correct": 3,
+    "explanation": "3 is the correct answer.",
+    "qualitySchema": "reviewed-year1-maths-v1"
+  },
+  {
+    "id": "ac9m1n06-p-043",
+    "curriculumCode": "AC9M1N06",
+    "bank": "practice",
+    "skill": "equal sharing and grouping",
+    "printable": true,
+    "type": "single",
+    "question": "Eva shares blocks. Share 20 counters equally between 4 children. How many counters does each child get?",
+    "audioPrompt": "Eva shares blocks. Share 20 counters equally between 4 children. How many counters does each child get?",
+    "answers": [
+      "7",
+      "5",
+      "4",
+      "6"
+    ],
+    "correct": 1,
+    "explanation": "5 is the correct answer.",
+    "qualitySchema": "reviewed-year1-maths-v1"
+  },
+  {
+    "id": "ac9m1n06-p-044",
+    "curriculumCode": "AC9M1N06",
+    "bank": "practice",
+    "skill": "equal sharing and grouping",
+    "printable": true,
+    "type": "single",
+    "question": "Jay shares blocks. Put 25 blocks into groups of 5. How many equal groups can you make?",
+    "audioPrompt": "Jay shares blocks. Put 25 blocks into groups of 5. How many equal groups can you make?",
+    "answers": [
+      "5",
+      "4",
+      "6",
+      "7"
+    ],
+    "correct": 0,
+    "explanation": "5 is the correct answer.",
+    "qualitySchema": "reviewed-year1-maths-v1"
+  },
+  {
+    "id": "ac9m1n06-p-045",
+    "curriculumCode": "AC9M1N06",
+    "bank": "practice",
+    "skill": "equal sharing and grouping",
+    "printable": true,
+    "type": "single",
+    "question": "Zoe shares blocks. Share 4 counters equally between 2 children. How many counters does each child get?",
+    "audioPrompt": "Zoe shares blocks. Share 4 counters equally between 2 children. How many counters does each child get?",
+    "answers": [
+      "2",
+      "4",
+      "1",
+      "3"
+    ],
+    "correct": 0,
+    "explanation": "2 is the correct answer.",
+    "qualitySchema": "reviewed-year1-maths-v1"
+  },
+  {
+    "id": "ac9m1n06-p-046",
+    "curriculumCode": "AC9M1N06",
+    "bank": "practice",
+    "skill": "equal sharing and grouping",
+    "printable": true,
+    "type": "single",
+    "question": "Roy shares blocks. Put 6 blocks into groups of 2. How many equal groups can you make?",
+    "audioPrompt": "Roy shares blocks. Put 6 blocks into groups of 2. How many equal groups can you make?",
+    "answers": [
+      "2",
+      "4",
+      "3",
+      "5"
+    ],
+    "correct": 2,
+    "explanation": "3 is the correct answer.",
+    "qualitySchema": "reviewed-year1-maths-v1"
+  },
+  {
+    "id": "ac9m1n06-p-047",
+    "curriculumCode": "AC9M1N06",
+    "bank": "practice",
+    "skill": "equal sharing and grouping",
+    "printable": true,
+    "type": "single",
+    "question": "Liv shares blocks. Share 8 counters equally between 4 children. How many counters does each child get?",
+    "audioPrompt": "Liv shares blocks. Share 8 counters equally between 4 children. How many counters does each child get?",
+    "answers": [
+      "3",
+      "4",
+      "2",
+      "1"
+    ],
+    "correct": 2,
+    "explanation": "2 is the correct answer.",
+    "qualitySchema": "reviewed-year1-maths-v1"
+  },
+  {
+    "id": "ac9m1n06-p-048",
+    "curriculumCode": "AC9M1N06",
+    "bank": "practice",
+    "skill": "equal sharing and grouping",
+    "printable": true,
+    "type": "single",
+    "question": "Gus shares blocks. Put 10 blocks into groups of 2. How many equal groups can you make?",
+    "audioPrompt": "Gus shares blocks. Put 10 blocks into groups of 2. How many equal groups can you make?",
+    "answers": [
+      "5",
+      "4",
+      "6",
+      "7"
+    ],
+    "correct": 0,
+    "explanation": "5 is the correct answer.",
+    "qualitySchema": "reviewed-year1-maths-v1"
   }
 ];
-window.quizQuestions = window.skillrPracticeQuestions;

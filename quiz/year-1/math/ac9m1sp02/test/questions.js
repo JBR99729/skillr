@@ -7,15 +7,8 @@ window.skillrTestQuestions = [
     "skill": "location sentence",
     "printable": true,
     "type": "single",
-    "question": "Ava studies this example. Which sentence correctly describes the picture?",
-    "audioPrompt": "Ava studies this example. Which sentence correctly describes the picture?",
-    "visual": "A grid shows a start point, a target and a clear direction arrow. Specific example: ○ △ ○ This is test example 1.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A grid shows a start point, a target and a clear direction arrow. Specific example: ○ △ ○ This is test example 1.\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1sp02.svg#ac9m1sp02-t-001\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1sp02.svg#ac9m1sp02-t-001",
-      "alt_text": "A grid shows a start point, a target and a clear direction arrow. Specific example: ○ △ ○ This is test example 1."
-    },
+    "question": "[Show the complete picture described in the item.] Which sentence correctly describes the picture?",
+    "audioPrompt": "[Show the complete picture described in the item.] Which sentence correctly describes the picture?",
     "answers": [
       "The triangle is between the circles",
       "The triangle is above both circles",
@@ -36,14 +29,14 @@ window.skillrTestQuestions = [
     "skill": "move backward",
     "printable": true,
     "type": "single",
-    "question": "Arlo studies this example. A robot faces right. Which arrow moves it backward?",
-    "audioPrompt": "Arlo studies this example. A robot faces right. Which arrow moves it backward?",
+    "question": "A robot faces right. Which arrow moves it backward?",
+    "audioPrompt": "A robot faces right. Which arrow moves it backward?",
     "visual": "A grid shows a start point, a target and a clear direction arrow. Specific example: Robot: → This is test example 2.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A grid shows a start point, a target and a clear direction arrow. Specific example: Robot: → This is test example 2.\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1sp02.svg#ac9m1sp02-t-002\"></use></svg>",
+    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A robot faces right. Which arrow moves it backward?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1sp02.svg#ac9m1sp02-t-002\">\u003c/use>\u003c/svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1sp02.svg#ac9m1sp02-t-002",
-      "alt_text": "A grid shows a start point, a target and a clear direction arrow. Specific example: Robot: → This is test example 2."
+      "alt_text": "A robot faces right. Which arrow moves it backward?"
     },
     "answers": [
       "→",
@@ -65,14 +58,14 @@ window.skillrTestQuestions = [
     "skill": "position words",
     "printable": true,
     "type": "single",
-    "question": "Mia studies this example. The cup is ___ the plate.",
-    "audioPrompt": "Mia studies this example. The cup is ___ the plate.",
+    "question": "The cup is ___ the plate.",
+    "audioPrompt": "The cup is ___ the plate.",
     "visual": "A grid shows a start point, a target and a clear direction arrow. Specific example: ☕ ○ This is test example 3.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A grid shows a start point, a target and a clear direction arrow. Specific example: ☕ ○ This is test example 3.\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1sp02.svg#ac9m1sp02-t-003\"></use></svg>",
+    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"The cup is ___ the plate.\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1sp02.svg#ac9m1sp02-t-003\">\u003c/use>\u003c/svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1sp02.svg#ac9m1sp02-t-003",
-      "alt_text": "A grid shows a start point, a target and a clear direction arrow. Specific example: ☕ ○ This is test example 3."
+      "alt_text": "The cup is ___ the plate."
     },
     "answers": [
       "behind",
@@ -94,14 +87,14 @@ window.skillrTestQuestions = [
     "skill": "move forward",
     "printable": true,
     "type": "single",
-    "question": "Ruby studies this example. A robot faces up. Which arrow moves it forward?",
-    "audioPrompt": "Ruby studies this example. A robot faces up. Which arrow moves it forward?",
+    "question": "A robot faces up. Which arrow moves it forward?",
+    "audioPrompt": "A robot faces up. Which arrow moves it forward?",
     "visual": "A grid shows a start point, a target and a clear direction arrow. Specific example: Robot: ↑ This is test example 4.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A grid shows a start point, a target and a clear direction arrow. Specific example: Robot: ↑ This is test example 4.\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1sp02.svg#ac9m1sp02-t-004\"></use></svg>",
+    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A robot faces up. Which arrow moves it forward?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1sp02.svg#ac9m1sp02-t-004\">\u003c/use>\u003c/svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1sp02.svg#ac9m1sp02-t-004",
-      "alt_text": "A grid shows a start point, a target and a clear direction arrow. Specific example: Robot: ↑ This is test example 4."
+      "alt_text": "A robot faces up. Which arrow moves it forward?"
     },
     "answers": [
       "↑",
@@ -123,14 +116,14 @@ window.skillrTestQuestions = [
     "skill": "follow two step directions",
     "printable": true,
     "type": "single",
-    "question": "Ava studies this example. Start on A. Move 4 spaces right, then 1 space up. Which instruction summary is correct?",
-    "audioPrompt": "Ava studies this example. Start on A. Move 4 spaces right, then 1 space up. Which instruction summary is correct?",
+    "question": "Start on A. Move 4 spaces right, then 1 space up. Which instruction summary is correct?",
+    "audioPrompt": "Start on A. Move 4 spaces right, then 1 space up. Which instruction summary is correct?",
     "visual": "A grid shows a start point, a target and a clear direction arrow. Specific example: □ □ □ □ A → → This is test example 5.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A grid shows a start point, a target and a clear direction arrow. Specific example: □ □ □ □ A → → This is test example 5.\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1sp02.svg#ac9m1sp02-t-005\"></use></svg>",
+    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Start on A. Move 4 spaces right, then 1 space up. Which instruction summary is correct?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1sp02.svg#ac9m1sp02-t-005\">\u003c/use>\u003c/svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1sp02.svg#ac9m1sp02-t-005",
-      "alt_text": "A grid shows a start point, a target and a clear direction arrow. Specific example: □ □ □ □ A → → This is test example 5."
+      "alt_text": "Start on A. Move 4 spaces right, then 1 space up. Which instruction summary is correct?"
     },
     "answers": [
       "4 left, then 1 down",
@@ -152,14 +145,14 @@ window.skillrTestQuestions = [
     "skill": "order route steps",
     "printable": true,
     "type": "single",
-    "question": "Omar studies this example. Put the route instructions in order. Which order is correct?",
-    "audioPrompt": "Omar studies this example. Put the route instructions in order. Which order is correct?",
+    "question": "Put the route instructions in order. Which order is correct?",
+    "audioPrompt": "Put the route instructions in order. Which order is correct?",
     "visual": "A grid shows a start point, a target and a clear direction arrow. This is test example 6.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A grid shows a start point, a target and a clear direction arrow. This is test example 6.\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1sp02.svg#ac9m1sp02-t-006\"></use></svg>",
+    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Put the route instructions in order. Which order is correct?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1sp02.svg#ac9m1sp02-t-006\">\u003c/use>\u003c/svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1sp02.svg#ac9m1sp02-t-006",
-      "alt_text": "A grid shows a start point, a target and a clear direction arrow. This is test example 6."
+      "alt_text": "Put the route instructions in order. Which order is correct?"
     },
     "answers": [
       "Move 2 steps forward → Turn right → Stop beside the bench → Start at the tree",
@@ -181,14 +174,14 @@ window.skillrTestQuestions = [
     "skill": "directions to target",
     "printable": true,
     "type": "single",
-    "question": "Sam studies this example. Select all instructions that are clear enough to follow. Choose the group with all the correct answers.",
-    "audioPrompt": "Sam studies this example. Select all instructions that are clear enough to follow. Choose the group with all the correct answers.",
+    "question": "Select all instructions that are clear enough to follow. Choose the group with all the correct answers.",
+    "audioPrompt": "Select all instructions that are clear enough to follow. Choose the group with all the correct answers.",
     "visual": "A grid shows a start point, a target and a clear direction arrow. Specific example: Directions and Location: directions to target This is test example 7.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A grid shows a start point, a target and a clear direction arrow. Specific example: Directions and Location: directions to target This is test example 7.\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1sp02.svg#ac9m1sp02-t-007\"></use></svg>",
+    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Select all instructions that are clear enough to follow. Choose the group with all the correct answers.\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1sp02.svg#ac9m1sp02-t-007\">\u003c/use>\u003c/svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1sp02.svg#ac9m1sp02-t-007",
-      "alt_text": "A grid shows a start point, a target and a clear direction arrow. Specific example: Directions and Location: directions to target This is test example 7."
+      "alt_text": "Select all instructions that are clear enough to follow. Choose the group with all the correct answers."
     },
     "answers": [
       "Start at the door and move 4 steps forward, Put the counter between the two stars",
@@ -210,14 +203,14 @@ window.skillrTestQuestions = [
     "skill": "final grid location",
     "printable": true,
     "type": "single",
-    "question": "Ruby studies this example. A counter starts at the bottom-left corner. It moves 1 squares right and 1 squares up. Which description names the final move?",
-    "audioPrompt": "Ruby studies this example. A counter starts at the bottom-left corner. It moves 1 squares right and 1 squares up. Which description names the final move?",
+    "question": "A counter moves 1 square right and 1 square up. Where does it finish?",
+    "audioPrompt": "A counter moves 1 square right and 1 square up. Where does it finish?",
     "visual": "A grid shows a start point, a target and a clear direction arrow. Specific example: Directions and Location: final grid location This is test example 8.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A grid shows a start point, a target and a clear direction arrow. Specific example: Directions and Location: final grid location This is test example 8.\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1sp02.svg#ac9m1sp02-t-008\"></use></svg>",
+    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A counter moves 1 square right and 1 square up. Where does it finish?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1sp02.svg#ac9m1sp02-t-008\">\u003c/use>\u003c/svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1sp02.svg#ac9m1sp02-t-008",
-      "alt_text": "A grid shows a start point, a target and a clear direction arrow. Specific example: Directions and Location: final grid location This is test example 8."
+      "alt_text": "A counter moves 1 square right and 1 square up. Where does it finish?"
     },
     "answers": [
       "1 left and 1 down",
@@ -239,14 +232,14 @@ window.skillrTestQuestions = [
     "skill": "reverse a route",
     "printable": true,
     "type": "single",
-    "question": "Omar studies this example. A counter moved 3 spaces right. Which move returns it to the start?",
-    "audioPrompt": "Omar studies this example. A counter moved 3 spaces right. Which move returns it to the start?",
+    "question": "A counter moved 3 spaces right. Which move returns it to the start?",
+    "audioPrompt": "A counter moved 3 spaces right. Which move returns it to the start?",
     "visual": "A grid shows a start point, a target and a clear direction arrow. This is test example 9.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A grid shows a start point, a target and a clear direction arrow. This is test example 9.\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1sp02.svg#ac9m1sp02-t-009\"></use></svg>",
+    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A counter moved 3 spaces right. Which move returns it to the start?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1sp02.svg#ac9m1sp02-t-009\">\u003c/use>\u003c/svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1sp02.svg#ac9m1sp02-t-009",
-      "alt_text": "A grid shows a start point, a target and a clear direction arrow. This is test example 9."
+      "alt_text": "A counter moved 3 spaces right. Which move returns it to the start?"
     },
     "answers": [
       "3 spaces right",
@@ -268,14 +261,14 @@ window.skillrTestQuestions = [
     "skill": "choose clear direction",
     "printable": true,
     "type": "single",
-    "question": "Leo studies this example. Which direction is clearest?",
-    "audioPrompt": "Leo studies this example. Which direction is clearest?",
+    "question": "Which direction is clearest?",
+    "audioPrompt": "Which direction is clearest?",
     "visual": "A grid shows a start point, a target and a clear direction arrow. Specific example: Directions and Location: choose clear direction This is test example 10.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A grid shows a start point, a target and a clear direction arrow. Specific example: Directions and Location: choose clear direction This is test example 10.\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1sp02.svg#ac9m1sp02-t-010\"></use></svg>",
+    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Which direction is clearest?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1sp02.svg#ac9m1sp02-t-010\">\u003c/use>\u003c/svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1sp02.svg#ac9m1sp02-t-010",
-      "alt_text": "A grid shows a start point, a target and a clear direction arrow. Specific example: Directions and Location: choose clear direction This is test example 10."
+      "alt_text": "Which direction is clearest?"
     },
     "answers": [
       "Start at the mat, move 3 steps forward, then turn left",
@@ -297,14 +290,14 @@ window.skillrTestQuestions = [
     "skill": "clear starting point",
     "printable": true,
     "type": "single",
-    "question": "Arlo studies this example. Why should directions name a starting point?",
-    "audioPrompt": "Arlo studies this example. Why should directions name a starting point?",
+    "question": "Why should directions name a starting point?",
+    "audioPrompt": "Why should directions name a starting point?",
     "visual": "A grid shows a start point, a target and a clear direction arrow. Specific example: Directions and Location: clear starting point This is test example 11.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A grid shows a start point, a target and a clear direction arrow. Specific example: Directions and Location: clear starting point This is test example 11.\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1sp02.svg#ac9m1sp02-t-011\"></use></svg>",
+    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Why should directions name a starting point?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1sp02.svg#ac9m1sp02-t-011\">\u003c/use>\u003c/svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1sp02.svg#ac9m1sp02-t-011",
-      "alt_text": "A grid shows a start point, a target and a clear direction arrow. Specific example: Directions and Location: clear starting point This is test example 11."
+      "alt_text": "Why should directions name a starting point?"
     },
     "answers": [
       "Starting points change colour",
@@ -326,8 +319,8 @@ window.skillrTestQuestions = [
     "skill": "turn left",
     "printable": true,
     "type": "single",
-    "question": "Sam studies this example. A robot faces right. After a left turn, which way does it face?",
-    "audioPrompt": "Sam studies this example. A robot faces right. After a left turn, which way does it face?",
+    "question": "A robot faces right. After a left turn, which way does it face?",
+    "audioPrompt": "A robot faces right. After a left turn, which way does it face?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -465,5 +458,3 @@ window.skillrTestQuestions = [
     "qualitySchema": "production-v1"
   }
 ];
-window.skillrExamQuestions = window.skillrTestQuestions;
-window.quizQuestions = window.skillrTestQuestions;

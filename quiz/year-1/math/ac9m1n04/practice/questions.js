@@ -10,7 +10,7 @@ window.skillrPracticeQuestions = [
     "question": "The blue frame shows 8 counters and the gold frame shows 5. How many counters are there altogether?",
     "audioPrompt": "The blue frame shows 8 counters and the gold frame shows 5. How many counters are there altogether?",
     "visual": "The blue frame shows 8 counters and the gold frame shows 5. How many counters are there altogether?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"The blue frame shows 8 counters and the gold frame shows 5. How many counters are there altogether?\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1n04.svg#ac9m1n04-p-001\"></use></svg>",
+    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"The blue frame shows 8 counters and the gold frame shows 5. How many counters are there altogether?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1n04.svg#ac9m1n04-p-001\">\u003c/use>\u003c/svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n04.svg#ac9m1n04-p-001",
@@ -39,7 +39,7 @@ window.skillrPracticeQuestions = [
     "question": "The whole is 10. One part is 7. What is the missing part?",
     "audioPrompt": "The whole is 10. One part is 7. What is the missing part?",
     "visual": "The whole is 10. One part is 7. What is the missing part?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"The whole is 10. One part is 7. What is the missing part?\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1n04.svg#ac9m1n04-p-002\"></use></svg>",
+    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"The whole is 10. One part is 7. What is the missing part?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1n04.svg#ac9m1n04-p-002\">\u003c/use>\u003c/svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n04.svg#ac9m1n04-p-002",
@@ -68,7 +68,7 @@ window.skillrPracticeQuestions = [
     "question": "Which number sentence matches the two groups being joined?",
     "audioPrompt": "Which number sentence matches the two groups being joined?",
     "visual": "Which number sentence matches the two groups being joined?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Which number sentence matches the two groups being joined?\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1n04.svg#ac9m1n04-p-003\"></use></svg>",
+    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Which number sentence matches the two groups being joined?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1n04.svg#ac9m1n04-p-003\">\u003c/use>\u003c/svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n04.svg#ac9m1n04-p-003",
@@ -97,7 +97,7 @@ window.skillrPracticeQuestions = [
     "question": "There are 14 counters. Five are removed. Which number sentence matches?",
     "audioPrompt": "There are 14 counters. Five are removed. Which number sentence matches?",
     "visual": "There are 14 counters. Five are removed. Which number sentence matches?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"There are 14 counters. Five are removed. Which number sentence matches?\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1n04.svg#ac9m1n04-p-004\"></use></svg>",
+    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"There are 14 counters. Five are removed. Which number sentence matches?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1n04.svg#ac9m1n04-p-004\">\u003c/use>\u003c/svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n04.svg#ac9m1n04-p-004",
@@ -126,7 +126,7 @@ window.skillrPracticeQuestions = [
     "question": "Follow the jumps from 6: jump 4 to 10, then 3 more. Where do you land?",
     "audioPrompt": "Follow the jumps from 6: jump 4 to 10, then 3 more. Where do you land?",
     "visual": "Follow the jumps from 6: jump 4 to 10, then 3 more. Where do you land?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Follow the jumps from 6: jump 4 to 10, then 3 more. Where do you land?\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1n04.svg#ac9m1n04-p-005\"></use></svg>",
+    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Follow the jumps from 6: jump 4 to 10, then 3 more. Where do you land?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1n04.svg#ac9m1n04-p-005\">\u003c/use>\u003c/svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n04.svg#ac9m1n04-p-005",
@@ -155,7 +155,7 @@ window.skillrPracticeQuestions = [
     "question": "Start at 15 and count back 4. What is the answer?",
     "audioPrompt": "Start at 15 and count back 4. What is the answer?",
     "visual": "Start at 15 and count back 4. What is the answer?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Start at 15 and count back 4. What is the answer?\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1n04.svg#ac9m1n04-p-006\"></use></svg>",
+    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Start at 15 and count back 4. What is the answer?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1n04.svg#ac9m1n04-p-006\">\u003c/use>\u003c/svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n04.svg#ac9m1n04-p-006",
@@ -184,7 +184,7 @@ window.skillrPracticeQuestions = [
     "question": "Which split makes 9 + 6 easiest?",
     "audioPrompt": "Which split makes 9 + 6 easiest?",
     "visual": "Which split makes 9 + 6 easiest?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Which split makes 9 + 6 easiest?\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1n04.svg#ac9m1n04-p-007\"></use></svg>",
+    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Which split makes 9 + 6 easiest?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1n04.svg#ac9m1n04-p-007\">\u003c/use>\u003c/svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n04.svg#ac9m1n04-p-007",
@@ -213,7 +213,7 @@ window.skillrPracticeQuestions = [
     "question": "Use the ten-frames to solve 8 + 7.",
     "audioPrompt": "Use the ten-frames to solve 8 + 7.",
     "visual": "Use the ten-frames to solve 8 + 7.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Use the ten-frames to solve 8 + 7.\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1n04.svg#ac9m1n04-p-008\"></use></svg>",
+    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Use the ten-frames to solve 8 + 7.\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1n04.svg#ac9m1n04-p-008\">\u003c/use>\u003c/svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n04.svg#ac9m1n04-p-008",
@@ -242,7 +242,7 @@ window.skillrPracticeQuestions = [
     "question": "What is double 7?",
     "audioPrompt": "What is double 7?",
     "visual": "What is double 7?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"What is double 7?\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1n04.svg#ac9m1n04-p-009\"></use></svg>",
+    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"What is double 7?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1n04.svg#ac9m1n04-p-009\">\u003c/use>\u003c/svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n04.svg#ac9m1n04-p-009",
@@ -271,7 +271,7 @@ window.skillrPracticeQuestions = [
     "question": "Which idea helps solve 6 + 7?",
     "audioPrompt": "Which idea helps solve 6 + 7?",
     "visual": "Which idea helps solve 6 + 7?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Which idea helps solve 6 + 7?\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1n04.svg#ac9m1n04-p-010\"></use></svg>",
+    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Which idea helps solve 6 + 7?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1n04.svg#ac9m1n04-p-010\">\u003c/use>\u003c/svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n04.svg#ac9m1n04-p-010",
@@ -300,7 +300,7 @@ window.skillrPracticeQuestions = [
     "question": "Solve 13 − 5 by subtracting 3 to reach 10, then subtracting 2 more.",
     "audioPrompt": "Solve 13 − 5 by subtracting 3 to reach 10, then subtracting 2 more.",
     "visual": "Solve 13 − 5 by subtracting 3 to reach 10, then subtracting 2 more.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Solve 13 − 5 by subtracting 3 to reach 10, then subtracting 2 more.\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1n04.svg#ac9m1n04-p-011\"></use></svg>",
+    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Solve 13 − 5 by subtracting 3 to reach 10, then subtracting 2 more.\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1n04.svg#ac9m1n04-p-011\">\u003c/use>\u003c/svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n04.svg#ac9m1n04-p-011",
@@ -329,7 +329,7 @@ window.skillrPracticeQuestions = [
     "question": "Which strategy correctly solves 18 − 9?",
     "audioPrompt": "Which strategy correctly solves 18 − 9?",
     "visual": "Which strategy correctly solves 18 − 9?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Which strategy correctly solves 18 − 9?\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1n04.svg#ac9m1n04-p-012\"></use></svg>",
+    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Which strategy correctly solves 18 − 9?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1n04.svg#ac9m1n04-p-012\">\u003c/use>\u003c/svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n04.svg#ac9m1n04-p-012",
@@ -358,7 +358,7 @@ window.skillrPracticeQuestions = [
     "question": "Because 7 + 8 = 15, which subtraction fact is also true?",
     "audioPrompt": "Because 7 + 8 = 15, which subtraction fact is also true?",
     "visual": "Because 7 + 8 = 15, which subtraction fact is also true?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Because 7 + 8 = 15, which subtraction fact is also true?\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1n04.svg#ac9m1n04-p-013\"></use></svg>",
+    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Because 7 + 8 = 15, which subtraction fact is also true?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1n04.svg#ac9m1n04-p-013\">\u003c/use>\u003c/svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n04.svg#ac9m1n04-p-013",
@@ -384,14 +384,14 @@ window.skillrPracticeQuestions = [
     "skill": "fact family",
     "printable": true,
     "type": "single",
-    "question": "Which two facts belong to the same fact family as 6 + 9 = 15? Choose the group with all the correct answers.",
-    "audioPrompt": "Which two facts belong to the same fact family as 6 + 9 = 15? Choose the group with all the correct answers.",
+    "question": "Which option has two facts from the same fact family as 6 + 9 = 15?",
+    "audioPrompt": "Which option has two facts from the same fact family as 6 + 9 = 15?",
     "visual": "Which two facts belong to the same fact family as 6 + 9 = 15?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Which two facts belong to the same fact family as 6 + 9 = 15?\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1n04.svg#ac9m1n04-p-014\"></use></svg>",
+    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Which option has two facts from the same fact family as 6 + 9 = 15?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1n04.svg#ac9m1n04-p-014\">\u003c/use>\u003c/svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n04.svg#ac9m1n04-p-014",
-      "alt_text": "Which two facts belong to the same fact family as 6 + 9 = 15?"
+      "alt_text": "Which option has two facts from the same fact family as 6 + 9 = 15?"
     },
     "answers": [
       "9 + 6 = 15",
@@ -416,7 +416,7 @@ window.skillrPracticeQuestions = [
     "question": "What number makes the equation true: ___ + 8 = 17?",
     "audioPrompt": "What number makes the equation true: ___ + 8 = 17?",
     "visual": "What number makes the equation true: ___ + 8 = 17?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"What number makes the equation true: ___ + 8 = 17?\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1n04.svg#ac9m1n04-p-015\"></use></svg>",
+    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"What number makes the equation true: ___ + 8 = 17?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1n04.svg#ac9m1n04-p-015\">\u003c/use>\u003c/svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n04.svg#ac9m1n04-p-015",
@@ -445,7 +445,7 @@ window.skillrPracticeQuestions = [
     "question": "What number is missing: 16 − ___ = 9?",
     "audioPrompt": "What number is missing: 16 − ___ = 9?",
     "visual": "What number is missing: 16 − ___ = 9?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"What number is missing: 16 − ___ = 9?\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1n04.svg#ac9m1n04-p-016\"></use></svg>",
+    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"What number is missing: 16 − ___ = 9?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1n04.svg#ac9m1n04-p-016\">\u003c/use>\u003c/svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n04.svg#ac9m1n04-p-016",
@@ -474,7 +474,7 @@ window.skillrPracticeQuestions = [
     "question": "A red tower has 14 cubes and a blue tower has 8. How many more cubes are in the red tower?",
     "audioPrompt": "A red tower has 14 cubes and a blue tower has 8. How many more cubes are in the red tower?",
     "visual": "A red tower has 14 cubes and a blue tower has 8. How many more cubes are in the red tower?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A red tower has 14 cubes and a blue tower has 8. How many more cubes are in the red tower?\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1n04.svg#ac9m1n04-p-017\"></use></svg>",
+    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A red tower has 14 cubes and a blue tower has 8. How many more cubes are in the red tower?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1n04.svg#ac9m1n04-p-017\">\u003c/use>\u003c/svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n04.svg#ac9m1n04-p-017",
@@ -503,7 +503,7 @@ window.skillrPracticeQuestions = [
     "question": "Complete the balance: 7 + 5 = 8 + ___.",
     "audioPrompt": "Complete the balance: 7 + 5 = 8 + ___.",
     "visual": "Complete the balance: 7 + 5 = 8 + ___.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Complete the balance: 7 + 5 = 8 + ___.\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1n04.svg#ac9m1n04-p-018\"></use></svg>",
+    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Complete the balance: 7 + 5 = 8 + ___.\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1n04.svg#ac9m1n04-p-018\">\u003c/use>\u003c/svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n04.svg#ac9m1n04-p-018",
@@ -561,7 +561,7 @@ window.skillrPracticeQuestions = [
     "question": "Which is the quickest correct way to solve 18 − 10?",
     "audioPrompt": "Which is the quickest correct way to solve 18 − 10?",
     "visual": "Which is the quickest correct way to solve 18 − 10?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Which is the quickest correct way to solve 18 − 10?\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1n04.svg#ac9m1n04-p-020\"></use></svg>",
+    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Which is the quickest correct way to solve 18 − 10?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1n04.svg#ac9m1n04-p-020\">\u003c/use>\u003c/svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n04.svg#ac9m1n04-p-020",
@@ -590,7 +590,7 @@ window.skillrPracticeQuestions = [
     "question": "Five frogs are on a log. Seven more frogs climb on. How many frogs are on the log now?",
     "audioPrompt": "Five frogs are on a log. Seven more frogs climb on. How many frogs are on the log now?",
     "visual": "Five frogs are on a log. Seven more frogs climb on. How many frogs are on the log now?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Five frogs are on a log. Seven more frogs climb on. How many frogs are on the log now?\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1n04.svg#ac9m1n04-p-021\"></use></svg>",
+    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Five frogs are on a log. Seven more frogs climb on. How many frogs are on the log now?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1n04.svg#ac9m1n04-p-021\">\u003c/use>\u003c/svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n04.svg#ac9m1n04-p-021",
@@ -619,7 +619,7 @@ window.skillrPracticeQuestions = [
     "question": "There are 16 pencils. Six are put away. How many pencils remain?",
     "audioPrompt": "There are 16 pencils. Six are put away. How many pencils remain?",
     "visual": "There are 16 pencils. Six are put away. How many pencils remain?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"There are 16 pencils. Six are put away. How many pencils remain?\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1n04.svg#ac9m1n04-p-022\"></use></svg>",
+    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"There are 16 pencils. Six are put away. How many pencils remain?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1n04.svg#ac9m1n04-p-022\">\u003c/use>\u003c/svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n04.svg#ac9m1n04-p-022",
@@ -648,7 +648,7 @@ window.skillrPracticeQuestions = [
     "question": "A box holds 18 crayons. Eleven are blue and the rest are green. How many are green?",
     "audioPrompt": "A box holds 18 crayons. Eleven are blue and the rest are green. How many are green?",
     "visual": "A box holds 18 crayons. Eleven are blue and the rest are green. How many are green?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A box holds 18 crayons. Eleven are blue and the rest are green. How many are green?\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1n04.svg#ac9m1n04-p-023\"></use></svg>",
+    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A box holds 18 crayons. Eleven are blue and the rest are green. How many are green?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1n04.svg#ac9m1n04-p-023\">\u003c/use>\u003c/svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n04.svg#ac9m1n04-p-023",
@@ -677,11 +677,11 @@ window.skillrPracticeQuestions = [
     "question": "Which statement is correct?",
     "audioPrompt": "Which statement is correct?",
     "visual": "A child says 12 − 5 = 5. Is the statement true?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A child says 12 − 5 = 5. Is the statement true?\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1n04.svg#ac9m1n04-p-024\"></use></svg>",
+    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Which statement is correct?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1n04.svg#ac9m1n04-p-024\">\u003c/use>\u003c/svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n04.svg#ac9m1n04-p-024",
-      "alt_text": "A child says 12 − 5 = 5. Is the statement true?"
+      "alt_text": "Which statement is correct?"
     },
     "answers": [
       "A child says 12 − 5 = 5. Is the statement true?",
@@ -706,7 +706,7 @@ window.skillrPracticeQuestions = [
     "question": "Mia counts back from 14: 14, 13, 12, 10. What happened?",
     "audioPrompt": "Mia counts back from 14: 14, 13, 12, 10. What happened?",
     "visual": "Mia counts back from 14: 14, 13, 12, 10. What happened?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Mia counts back from 14: 14, 13, 12, 10. What happened?\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1n04.svg#ac9m1n04-p-025\"></use></svg>",
+    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Mia counts back from 14: 14, 13, 12, 10. What happened?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1n04.svg#ac9m1n04-p-025\">\u003c/use>\u003c/svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n04.svg#ac9m1n04-p-025",
@@ -732,15 +732,8 @@ window.skillrPracticeQuestions = [
     "skill": "identify wrong model",
     "printable": true,
     "type": "single",
-    "question": "Which model does NOT show 13?",
-    "audioPrompt": "Which model does NOT show 13?",
-    "visual": "Which model does NOT show 13?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Which model does NOT show 13?\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1n04.svg#ac9m1n04-p-026\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n04.svg#ac9m1n04-p-026",
-      "alt_text": "Which model does NOT show 13?"
-    },
+    "question": "[Show the matching tens-and-ones blocks.] Which model does NOT show 13?",
+    "audioPrompt": "[Show the matching tens-and-ones blocks.] Which model does NOT show 13?",
     "answers": [
       "10 and 3",
       "9 and 5",
@@ -764,11 +757,11 @@ window.skillrPracticeQuestions = [
     "question": "Put the steps for 8 + 7 in order. Which order is correct?",
     "audioPrompt": "Put the steps for 8 + 7 in order. Which order is correct?",
     "visual": "Put the steps for 8 + 7 in order.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Put the steps for 8 + 7 in order.\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1n04.svg#ac9m1n04-p-027\"></use></svg>",
+    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Put the steps for 8 + 7 in order. Which order is correct?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1n04.svg#ac9m1n04-p-027\">\u003c/use>\u003c/svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n04.svg#ac9m1n04-p-027",
-      "alt_text": "Put the steps for 8 + 7 in order."
+      "alt_text": "Put the steps for 8 + 7 in order. Which order is correct?"
     },
     "answers": [
       "Add the leftover 5 → Split 7 into 2 and 5 → State 15 → Add 2 to 8 to make 10",
@@ -793,7 +786,7 @@ window.skillrPracticeQuestions = [
     "question": "Which expression has the same value as 6 + 8?",
     "audioPrompt": "Which expression has the same value as 6 + 8?",
     "visual": "Which expression has the same value as 6 + 8?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Which expression has the same value as 6 + 8?\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1n04.svg#ac9m1n04-p-028\"></use></svg>",
+    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Which expression has the same value as 6 + 8?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1n04.svg#ac9m1n04-p-028\">\u003c/use>\u003c/svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n04.svg#ac9m1n04-p-028",
@@ -811,6 +804,385 @@ window.skillrPracticeQuestions = [
       "hint": "Use the picture or numbers to test each answer, then choose the one that matches exactly."
     },
     "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m1n04-p-029",
+    "curriculumCode": "AC9M1N04",
+    "bank": "practice",
+    "skill": "addition and subtraction within 20",
+    "printable": true,
+    "type": "single",
+    "question": "Mia has 3 shells. Mia gets 2 more. How many shells are there now?",
+    "audioPrompt": "Mia has 3 shells. Mia gets 2 more. How many shells are there now?",
+    "answers": [
+      "5",
+      "4",
+      "6",
+      "7"
+    ],
+    "correct": 0,
+    "explanation": "5 is the correct answer.",
+    "qualitySchema": "reviewed-year1-maths-v1"
+  },
+  {
+    "id": "ac9m1n04-p-030",
+    "curriculumCode": "AC9M1N04",
+    "bank": "practice",
+    "skill": "addition and subtraction within 20",
+    "printable": true,
+    "type": "single",
+    "question": "Ben has 4 apples. Ben gets 4 more. How many apples are there now?",
+    "audioPrompt": "Ben has 4 apples. Ben gets 4 more. How many apples are there now?",
+    "answers": [
+      "10",
+      "9",
+      "8",
+      "7"
+    ],
+    "correct": 2,
+    "explanation": "8 is the correct answer.",
+    "qualitySchema": "reviewed-year1-maths-v1"
+  },
+  {
+    "id": "ac9m1n04-p-031",
+    "curriculumCode": "AC9M1N04",
+    "bank": "practice",
+    "skill": "addition and subtraction within 20",
+    "printable": true,
+    "type": "single",
+    "question": "Ava has 5 blocks. Ava gets 6 more. How many blocks are there now?",
+    "audioPrompt": "Ava has 5 blocks. Ava gets 6 more. How many blocks are there now?",
+    "answers": [
+      "12",
+      "10",
+      "13",
+      "11"
+    ],
+    "correct": 3,
+    "explanation": "11 is the correct answer.",
+    "qualitySchema": "reviewed-year1-maths-v1"
+  },
+  {
+    "id": "ac9m1n04-p-032",
+    "curriculumCode": "AC9M1N04",
+    "bank": "practice",
+    "skill": "addition and subtraction within 20",
+    "printable": true,
+    "type": "single",
+    "question": "Max has 6 stickers. Max gets 8 more. How many stickers are there now?",
+    "audioPrompt": "Max has 6 stickers. Max gets 8 more. How many stickers are there now?",
+    "answers": [
+      "14",
+      "15",
+      "13",
+      "16"
+    ],
+    "correct": 0,
+    "explanation": "14 is the correct answer.",
+    "qualitySchema": "reviewed-year1-maths-v1"
+  },
+  {
+    "id": "ac9m1n04-p-033",
+    "curriculumCode": "AC9M1N04",
+    "bank": "practice",
+    "skill": "addition and subtraction within 20",
+    "printable": true,
+    "type": "single",
+    "question": "Kim has 7 toy cars. Kim gets 3 more. How many toy cars are there now?",
+    "audioPrompt": "Kim has 7 toy cars. Kim gets 3 more. How many toy cars are there now?",
+    "answers": [
+      "10",
+      "11",
+      "12",
+      "9"
+    ],
+    "correct": 0,
+    "explanation": "10 is the correct answer.",
+    "qualitySchema": "reviewed-year1-maths-v1"
+  },
+  {
+    "id": "ac9m1n04-p-034",
+    "curriculumCode": "AC9M1N04",
+    "bank": "practice",
+    "skill": "addition and subtraction within 20",
+    "printable": true,
+    "type": "single",
+    "question": "Tom has 8 buttons. Tom gets 5 more. How many buttons are there now?",
+    "audioPrompt": "Tom has 8 buttons. Tom gets 5 more. How many buttons are there now?",
+    "answers": [
+      "14",
+      "12",
+      "13",
+      "15"
+    ],
+    "correct": 2,
+    "explanation": "13 is the correct answer.",
+    "qualitySchema": "reviewed-year1-maths-v1"
+  },
+  {
+    "id": "ac9m1n04-p-035",
+    "curriculumCode": "AC9M1N04",
+    "bank": "practice",
+    "skill": "addition and subtraction within 20",
+    "printable": true,
+    "type": "single",
+    "question": "Amy has 3 crayons. Amy gets 7 more. How many crayons are there now?",
+    "audioPrompt": "Amy has 3 crayons. Amy gets 7 more. How many crayons are there now?",
+    "answers": [
+      "12",
+      "9",
+      "10",
+      "11"
+    ],
+    "correct": 2,
+    "explanation": "10 is the correct answer.",
+    "qualitySchema": "reviewed-year1-maths-v1"
+  },
+  {
+    "id": "ac9m1n04-p-036",
+    "curriculumCode": "AC9M1N04",
+    "bank": "practice",
+    "skill": "addition and subtraction within 20",
+    "printable": true,
+    "type": "single",
+    "question": "Jay has 4 beads. Jay gets 2 more. How many beads are there now?",
+    "audioPrompt": "Jay has 4 beads. Jay gets 2 more. How many beads are there now?",
+    "answers": [
+      "5",
+      "6",
+      "8",
+      "7"
+    ],
+    "correct": 1,
+    "explanation": "6 is the correct answer.",
+    "qualitySchema": "reviewed-year1-maths-v1"
+  },
+  {
+    "id": "ac9m1n04-p-037",
+    "curriculumCode": "AC9M1N04",
+    "bank": "practice",
+    "skill": "addition and subtraction within 20",
+    "printable": true,
+    "type": "single",
+    "question": "Zoe has 5 leaves. Zoe gets 4 more. How many leaves are there now?",
+    "audioPrompt": "Zoe has 5 leaves. Zoe gets 4 more. How many leaves are there now?",
+    "answers": [
+      "11",
+      "8",
+      "10",
+      "9"
+    ],
+    "correct": 3,
+    "explanation": "9 is the correct answer.",
+    "qualitySchema": "reviewed-year1-maths-v1"
+  },
+  {
+    "id": "ac9m1n04-p-038",
+    "curriculumCode": "AC9M1N04",
+    "bank": "practice",
+    "skill": "addition and subtraction within 20",
+    "printable": true,
+    "type": "single",
+    "question": "Gus has 6 books. Gus gets 6 more. How many books are there now?",
+    "audioPrompt": "Gus has 6 books. Gus gets 6 more. How many books are there now?",
+    "answers": [
+      "14",
+      "13",
+      "11",
+      "12"
+    ],
+    "correct": 3,
+    "explanation": "12 is the correct answer.",
+    "qualitySchema": "reviewed-year1-maths-v1"
+  },
+  {
+    "id": "ac9m1n04-p-039",
+    "curriculumCode": "AC9M1N04",
+    "bank": "practice",
+    "skill": "addition and subtraction within 20",
+    "printable": true,
+    "type": "single",
+    "question": "There are 14 ducks. 2 swim away. How many are left?",
+    "audioPrompt": "There are 14 ducks. 2 swim away. How many are left?",
+    "answers": [
+      "12",
+      "14",
+      "11",
+      "13"
+    ],
+    "correct": 0,
+    "explanation": "12 is the correct answer.",
+    "qualitySchema": "reviewed-year1-maths-v1"
+  },
+  {
+    "id": "ac9m1n04-p-040",
+    "curriculumCode": "AC9M1N04",
+    "bank": "practice",
+    "skill": "addition and subtraction within 20",
+    "printable": true,
+    "type": "single",
+    "question": "There are 15 birds. 3 fly away. How many are left?",
+    "audioPrompt": "There are 15 birds. 3 fly away. How many are left?",
+    "answers": [
+      "14",
+      "13",
+      "12",
+      "11"
+    ],
+    "correct": 2,
+    "explanation": "12 is the correct answer.",
+    "qualitySchema": "reviewed-year1-maths-v1"
+  },
+  {
+    "id": "ac9m1n04-p-041",
+    "curriculumCode": "AC9M1N04",
+    "bank": "practice",
+    "skill": "addition and subtraction within 20",
+    "printable": true,
+    "type": "single",
+    "question": "There are 16 blocks. 4 are put away. How many are left?",
+    "audioPrompt": "There are 16 blocks. 4 are put away. How many are left?",
+    "answers": [
+      "13",
+      "12",
+      "14",
+      "11"
+    ],
+    "correct": 1,
+    "explanation": "12 is the correct answer.",
+    "qualitySchema": "reviewed-year1-maths-v1"
+  },
+  {
+    "id": "ac9m1n04-p-042",
+    "curriculumCode": "AC9M1N04",
+    "bank": "practice",
+    "skill": "addition and subtraction within 20",
+    "printable": true,
+    "type": "single",
+    "question": "There are 17 apples. 5 are eaten. How many are left?",
+    "audioPrompt": "There are 17 apples. 5 are eaten. How many are left?",
+    "answers": [
+      "14",
+      "13",
+      "12",
+      "11"
+    ],
+    "correct": 2,
+    "explanation": "12 is the correct answer.",
+    "qualitySchema": "reviewed-year1-maths-v1"
+  },
+  {
+    "id": "ac9m1n04-p-043",
+    "curriculumCode": "AC9M1N04",
+    "bank": "practice",
+    "skill": "addition and subtraction within 20",
+    "printable": true,
+    "type": "single",
+    "question": "There are 11 cars. 6 drive away. How many are left?",
+    "audioPrompt": "There are 11 cars. 6 drive away. How many are left?",
+    "answers": [
+      "6",
+      "5",
+      "7",
+      "4"
+    ],
+    "correct": 1,
+    "explanation": "5 is the correct answer.",
+    "qualitySchema": "reviewed-year1-maths-v1"
+  },
+  {
+    "id": "ac9m1n04-p-044",
+    "curriculumCode": "AC9M1N04",
+    "bank": "practice",
+    "skill": "addition and subtraction within 20",
+    "printable": true,
+    "type": "single",
+    "question": "There are 12 balloons. 2 pop. How many are left?",
+    "audioPrompt": "There are 12 balloons. 2 pop. How many are left?",
+    "answers": [
+      "11",
+      "9",
+      "10",
+      "12"
+    ],
+    "correct": 2,
+    "explanation": "10 is the correct answer.",
+    "qualitySchema": "reviewed-year1-maths-v1"
+  },
+  {
+    "id": "ac9m1n04-p-045",
+    "curriculumCode": "AC9M1N04",
+    "bank": "practice",
+    "skill": "addition and subtraction within 20",
+    "printable": true,
+    "type": "single",
+    "question": "There are 13 pencils. 3 are taken. How many are left?",
+    "audioPrompt": "There are 13 pencils. 3 are taken. How many are left?",
+    "answers": [
+      "9",
+      "12",
+      "10",
+      "11"
+    ],
+    "correct": 2,
+    "explanation": "10 is the correct answer.",
+    "qualitySchema": "reviewed-year1-maths-v1"
+  },
+  {
+    "id": "ac9m1n04-p-046",
+    "curriculumCode": "AC9M1N04",
+    "bank": "practice",
+    "skill": "addition and subtraction within 20",
+    "printable": true,
+    "type": "single",
+    "question": "There are 14 fish. 4 swim away. How many are left?",
+    "audioPrompt": "There are 14 fish. 4 swim away. How many are left?",
+    "answers": [
+      "9",
+      "12",
+      "11",
+      "10"
+    ],
+    "correct": 3,
+    "explanation": "10 is the correct answer.",
+    "qualitySchema": "reviewed-year1-maths-v1"
+  },
+  {
+    "id": "ac9m1n04-p-047",
+    "curriculumCode": "AC9M1N04",
+    "bank": "practice",
+    "skill": "addition and subtraction within 20",
+    "printable": true,
+    "type": "single",
+    "question": "There are 15 cookies. 5 are eaten. How many are left?",
+    "audioPrompt": "There are 15 cookies. 5 are eaten. How many are left?",
+    "answers": [
+      "11",
+      "12",
+      "10",
+      "9"
+    ],
+    "correct": 2,
+    "explanation": "10 is the correct answer.",
+    "qualitySchema": "reviewed-year1-maths-v1"
+  },
+  {
+    "id": "ac9m1n04-p-048",
+    "curriculumCode": "AC9M1N04",
+    "bank": "practice",
+    "skill": "addition and subtraction within 20",
+    "printable": true,
+    "type": "single",
+    "question": "There are 16 flowers. 6 are picked. How many are left?",
+    "audioPrompt": "There are 16 flowers. 6 are picked. How many are left?",
+    "answers": [
+      "10",
+      "11",
+      "12",
+      "9"
+    ],
+    "correct": 0,
+    "explanation": "10 is the correct answer.",
+    "qualitySchema": "reviewed-year1-maths-v1"
   }
 ];
-window.quizQuestions = window.skillrPracticeQuestions;

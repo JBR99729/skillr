@@ -7,14 +7,14 @@ window.skillrTestQuestions = [
     "skill": "sort responses",
     "printable": true,
     "type": "single",
-    "question": "Arlo studies this example. Which category receives the most responses?",
-    "audioPrompt": "Arlo studies this example. Which category receives the most responses?",
+    "question": "Which category receives the most responses?",
+    "audioPrompt": "Which category receives the most responses?",
     "visual": "A labelled tally table records each survey response once in the correct category. Specific example: dog, cat, dog, bird, cat, dog This is test example 1.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A labelled tally table records each survey response once in the correct category. Specific example: dog, cat, dog, bird, cat, dog This is test example 1.\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1st01.svg#ac9m1st01-t-001\"></use></svg>",
+    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Which category receives the most responses?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1st01.svg#ac9m1st01-t-001\">\u003c/use>\u003c/svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1st01.svg#ac9m1st01-t-001",
-      "alt_text": "A labelled tally table records each survey response once in the correct category. Specific example: dog, cat, dog, bird, cat, dog This is test example 1."
+      "alt_text": "Which category receives the most responses?"
     },
     "answers": [
       "dog",
@@ -36,14 +36,14 @@ window.skillrTestQuestions = [
     "skill": "tally and number",
     "printable": true,
     "type": "single",
-    "question": "Leo studies this example. Which number matches the tally for the “bus” category?",
-    "audioPrompt": "Leo studies this example. Which number matches the tally for the “bus” category?",
+    "question": "Which number matches the tally for the “bus” category?",
+    "audioPrompt": "Which number matches the tally for the “bus” category?",
     "visual": "A labelled tally table records each survey response once in the correct category. Specific example: Bus: ||||/ This is test example 2.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A labelled tally table records each survey response once in the correct category. Specific example: Bus: ||||/ This is test example 2.\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1st01.svg#ac9m1st01-t-002\"></use></svg>",
+    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Which number matches the tally for the “bus” category?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1st01.svg#ac9m1st01-t-002\">\u003c/use>\u003c/svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1st01.svg#ac9m1st01-t-002",
-      "alt_text": "A labelled tally table records each survey response once in the correct category. Specific example: Bus: ||||/ This is test example 2."
+      "alt_text": "Which number matches the tally for the “bus” category?"
     },
     "answers": [
       "4",
@@ -65,8 +65,8 @@ window.skillrTestQuestions = [
     "skill": "valid categories",
     "printable": true,
     "type": "single",
-    "question": "Ava studies this example. For “Which lunch fruit did you bring?”, select all useful categories. Choose the group with all the correct answers.",
-    "audioPrompt": "Ava studies this example. For “Which lunch fruit did you bring?”, select all useful categories. Choose the group with all the correct answers.",
+    "question": "For “Which lunch fruit did you bring?”, select all useful categories. Choose the group with all the correct answers.",
+    "audioPrompt": "For “Which lunch fruit did you bring?”, select all useful categories. Choose the group with all the correct answers.",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -97,11 +97,11 @@ window.skillrTestQuestions = [
     "question": "Read the new category record independently. How many votes are recorded?",
     "audioPrompt": "Read the new category record independently. How many votes are recorded?",
     "visual": "A labelled tally table records each survey response once in the correct category. Specific example: ||||/ ||||/ This is test example 4.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A labelled tally table records each survey response once in the correct category. Specific example: ||||/ ||||/ This is test example 4.\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1st01.svg#ac9m1st01-t-004\"></use></svg>",
+    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Read the new category record independently. How many votes are recorded?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1st01.svg#ac9m1st01-t-004\">\u003c/use>\u003c/svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1st01.svg#ac9m1st01-t-004",
-      "alt_text": "A labelled tally table records each survey response once in the correct category. Specific example: ||||/ ||||/ This is test example 4."
+      "alt_text": "Read the new category record independently. How many votes are recorded?"
     },
     "answers": [
       "10",
@@ -123,14 +123,14 @@ window.skillrTestQuestions = [
     "skill": "choose categories",
     "printable": true,
     "type": "single",
-    "question": "Arlo studies this example. Which category set suits the question “What is your favourite fruit?”",
-    "audioPrompt": "Arlo studies this example. Which category set suits the question “What is your favourite fruit?”",
+    "question": "Which category set suits the question “What is your favourite fruit?”",
+    "audioPrompt": "Which category set suits the question “What is your favourite fruit?”",
     "visual": "A labelled tally table records each survey response once in the correct category. Specific example: Collecting Categorical Data: choose categories This is test example 5.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A labelled tally table records each survey response once in the correct category. Specific example: Collecting Categorical Data: choose categories This is test example 5.\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1st01.svg#ac9m1st01-t-005\"></use></svg>",
+    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Which category set suits the question “What is your favourite fruit?”\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1st01.svg#ac9m1st01-t-005\">\u003c/use>\u003c/svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1st01.svg#ac9m1st01-t-005",
-      "alt_text": "A labelled tally table records each survey response once in the correct category. Specific example: Collecting Categorical Data: choose categories This is test example 5."
+      "alt_text": "Which category set suits the question “What is your favourite fruit?”"
     },
     "answers": [
       "red, blue, heavy, long",
@@ -152,8 +152,8 @@ window.skillrTestQuestions = [
     "skill": "choose recording method",
     "printable": true,
     "type": "single",
-    "question": "Omar studies this example. Which method records classroom answers quickly and clearly?",
-    "audioPrompt": "Omar studies this example. Which method records classroom answers quickly and clearly?",
+    "question": "Which method records classroom answers quickly and clearly?",
+    "audioPrompt": "Which method records classroom answers quickly and clearly?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -184,11 +184,11 @@ window.skillrTestQuestions = [
     "question": "Read the new category record independently. How many responses are shown by the tally marks?",
     "audioPrompt": "Read the new category record independently. How many responses are shown by the tally marks?",
     "visual": "A labelled tally table records each survey response once in the correct category. Specific example: ||||/ |||| This is test example 7.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A labelled tally table records each survey response once in the correct category. Specific example: ||||/ |||| This is test example 7.\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1st01.svg#ac9m1st01-t-007\"></use></svg>",
+    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Read the new category record independently. How many responses are shown by the tally marks?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1st01.svg#ac9m1st01-t-007\">\u003c/use>\u003c/svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1st01.svg#ac9m1st01-t-007",
-      "alt_text": "A labelled tally table records each survey response once in the correct category. Specific example: ||||/ |||| This is test example 7."
+      "alt_text": "Read the new category record independently. How many responses are shown by the tally marks?"
     },
     "answers": [
       "9",
@@ -210,14 +210,14 @@ window.skillrTestQuestions = [
     "skill": "response outside categories",
     "printable": true,
     "type": "single",
-    "question": "Omar studies this example. A travel survey has walk, car and bus. A child answers “train”. What should happen if the answer does not fit?",
-    "audioPrompt": "Omar studies this example. A travel survey has walk, car and bus. A child answers “train”. What should happen if the answer does not fit?",
+    "question": "A travel survey has walk, car and bus. A child answers “train”. What should happen if the answer does not fit?",
+    "audioPrompt": "A travel survey has walk, car and bus. A child answers “train”. What should happen if the answer does not fit?",
     "visual": "A labelled tally table records each survey response once in the correct category. Specific example: Collecting Categorical Data: response outside categories This is test example 8.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A labelled tally table records each survey response once in the correct category. Specific example: Collecting Categorical Data: response outside categories This is test example 8.\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1st01.svg#ac9m1st01-t-008\"></use></svg>",
+    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A travel survey has walk, car and bus. A child answers “train”. What should happen if the answer does not fit?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1st01.svg#ac9m1st01-t-008\">\u003c/use>\u003c/svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1st01.svg#ac9m1st01-t-008",
-      "alt_text": "A labelled tally table records each survey response once in the correct category. Specific example: Collecting Categorical Data: response outside categories This is test example 8."
+      "alt_text": "A travel survey has walk, car and bus. A child answers “train”. What should happen if the answer does not fit?"
     },
     "answers": [
       "Delete the child",
@@ -239,14 +239,14 @@ window.skillrTestQuestions = [
     "skill": "clear survey question",
     "printable": true,
     "type": "single",
-    "question": "Lina studies this example. Which question is clearest for categorical data?",
-    "audioPrompt": "Lina studies this example. Which question is clearest for categorical data?",
+    "question": "Which question is clearest for categorical data?",
+    "audioPrompt": "Which question is clearest for categorical data?",
     "visual": "A labelled tally table records each survey response once in the correct category. This is test example 9.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A labelled tally table records each survey response once in the correct category. This is test example 9.\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1st01.svg#ac9m1st01-t-009\"></use></svg>",
+    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Which question is clearest for categorical data?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1st01.svg#ac9m1st01-t-009\">\u003c/use>\u003c/svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1st01.svg#ac9m1st01-t-009",
-      "alt_text": "A labelled tally table records each survey response once in the correct category. This is test example 9."
+      "alt_text": "Which question is clearest for categorical data?"
     },
     "answers": [
       "Tell me everything you like",
@@ -268,14 +268,14 @@ window.skillrTestQuestions = [
     "skill": "digital data collection",
     "printable": true,
     "type": "single",
-    "question": "Omar studies this example. Which digital tool could help record a class survey?",
-    "audioPrompt": "Omar studies this example. Which digital tool could help record a class survey?",
+    "question": "Which digital tool could help record a class survey?",
+    "audioPrompt": "Which digital tool could help record a class survey?",
     "visual": "A labelled tally table records each survey response once in the correct category. Specific example: Collecting Categorical Data: digital data collection This is test example 10.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A labelled tally table records each survey response once in the correct category. Specific example: Collecting Categorical Data: digital data collection This is test example 10.\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1st01.svg#ac9m1st01-t-010\"></use></svg>",
+    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Which digital tool could help record a class survey?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1st01.svg#ac9m1st01-t-010\">\u003c/use>\u003c/svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1st01.svg#ac9m1st01-t-010",
-      "alt_text": "A labelled tally table records each survey response once in the correct category. Specific example: Collecting Categorical Data: digital data collection This is test example 10."
+      "alt_text": "Which digital tool could help record a class survey?"
     },
     "answers": [
       "a simple table or form",
@@ -297,14 +297,14 @@ window.skillrTestQuestions = [
     "skill": "categorical question",
     "printable": true,
     "type": "single",
-    "question": "Ruby studies this example. Which question collects categorical data?",
-    "audioPrompt": "Ruby studies this example. Which question collects categorical data?",
+    "question": "Which question collects categorical data?",
+    "audioPrompt": "Which question collects categorical data?",
     "visual": "A labelled tally table records each survey response once in the correct category. Specific example: Collecting Categorical Data: categorical question This is test example 11.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A labelled tally table records each survey response once in the correct category. Specific example: Collecting Categorical Data: categorical question This is test example 11.\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1st01.svg#ac9m1st01-t-011\"></use></svg>",
+    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Which question collects categorical data?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1st01.svg#ac9m1st01-t-011\">\u003c/use>\u003c/svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1st01.svg#ac9m1st01-t-011",
-      "alt_text": "A labelled tally table records each survey response once in the correct category. Specific example: Collecting Categorical Data: categorical question This is test example 11."
+      "alt_text": "Which question collects categorical data?"
     },
     "answers": [
       "How tall are you in centimetres?",
@@ -326,14 +326,14 @@ window.skillrTestQuestions = [
     "skill": "include useful category",
     "printable": true,
     "type": "single",
-    "question": "Lina studies this example. A pet survey lists dog, cat and bird. Several children answer fish. What should the recorder do?",
-    "audioPrompt": "Lina studies this example. A pet survey lists dog, cat and bird. Several children answer fish. What should the recorder do?",
+    "question": "A pet survey lists dog, cat and bird. Several children answer fish. What should the recorder do?",
+    "audioPrompt": "A pet survey lists dog, cat and bird. Several children answer fish. What should the recorder do?",
     "visual": "A labelled tally table records each survey response once in the correct category. This is test example 12.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A labelled tally table records each survey response once in the correct category. This is test example 12.\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1st01.svg#ac9m1st01-t-012\"></use></svg>",
+    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A pet survey lists dog, cat and bird. Several children answer fish. What should the recorder do?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1st01.svg#ac9m1st01-t-012\">\u003c/use>\u003c/svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1st01.svg#ac9m1st01-t-012",
-      "alt_text": "A labelled tally table records each survey response once in the correct category. This is test example 12."
+      "alt_text": "A pet survey lists dog, cat and bird. Several children answer fish. What should the recorder do?"
     },
     "answers": [
       "Ignore the children",
@@ -465,5 +465,3 @@ window.skillrTestQuestions = [
     "qualitySchema": "production-v1"
   }
 ];
-window.skillrExamQuestions = window.skillrTestQuestions;
-window.quizQuestions = window.skillrTestQuestions;

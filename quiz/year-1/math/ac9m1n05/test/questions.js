@@ -97,7 +97,7 @@ window.skillrTestQuestions = [
     "question": "One team has 17 points and another has 11. What is the difference?",
     "audioPrompt": "One team has 17 points and another has 11. What is the difference?",
     "visual": "One team has 17 points and another has 11. What is the difference?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"One team has 17 points and another has 11. What is the difference?\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1n05.svg#ac9m1n05-t-004\"></use></svg>",
+    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"One team has 17 points and another has 11. What is the difference?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1n05.svg#ac9m1n05-t-004\">\u003c/use>\u003c/svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n05.svg#ac9m1n05-t-004",
@@ -181,15 +181,8 @@ window.skillrTestQuestions = [
     "skill": "match model",
     "printable": true,
     "type": "single",
-    "question": "Which equation matches the bar model?",
-    "audioPrompt": "Which equation matches the bar model?",
-    "visual": "Which equation matches the bar model?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Which equation matches the bar model?\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1n05.svg#ac9m1n05-t-007\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n05.svg#ac9m1n05-t-007",
-      "alt_text": "Which equation matches the bar model?"
-    },
+    "question": "[Show the matching tens-and-ones blocks.] Which equation matches the bar model?",
+    "audioPrompt": "[Show the matching tens-and-ones blocks.] Which equation matches the bar model?",
     "answers": [
       "8 + 5 = 13",
       "13 + 5 = 18",
@@ -213,7 +206,7 @@ window.skillrTestQuestions = [
     "question": "What is the total value?",
     "audioPrompt": "What is the total value?",
     "visual": "What is the total value?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"What is the total value?\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1n05.svg#ac9m1n05-t-008\"></use></svg>",
+    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"What is the total value?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1n05.svg#ac9m1n05-t-008\">\u003c/use>\u003c/svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n05.svg#ac9m1n05-t-008",
@@ -242,7 +235,7 @@ window.skillrTestQuestions = [
     "question": "A cap costs $8 and a book costs $9. What is the total?",
     "audioPrompt": "A cap costs $8 and a book costs $9. What is the total?",
     "visual": "A cap costs $8 and a book costs $9. What is the total?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A cap costs $8 and a book costs $9. What is the total?\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1n05.svg#ac9m1n05-t-009\"></use></svg>",
+    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A cap costs $8 and a book costs $9. What is the total?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1n05.svg#ac9m1n05-t-009\">\u003c/use>\u003c/svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n05.svg#ac9m1n05-t-009",
@@ -271,7 +264,7 @@ window.skillrTestQuestions = [
     "question": "Zara has $18 and spends $11. How much remains?",
     "audioPrompt": "Zara has $18 and spends $11. How much remains?",
     "visual": "Zara has $18 and spends $11. How much remains?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Zara has $18 and spends $11. How much remains?\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1n05.svg#ac9m1n05-t-010\"></use></svg>",
+    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Zara has $18 and spends $11. How much remains?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1n05.svg#ac9m1n05-t-010\">\u003c/use>\u003c/svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n05.svg#ac9m1n05-t-010",
@@ -465,5 +458,3 @@ window.skillrTestQuestions = [
     "qualitySchema": "production-v1"
   }
 ];
-window.skillrExamQuestions = window.skillrTestQuestions;
-window.quizQuestions = window.skillrTestQuestions;

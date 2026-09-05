@@ -7,15 +7,8 @@ window.skillrTestQuestions = [
     "skill": "object pattern",
     "printable": true,
     "type": "single",
-    "question": "Ava studies this example. Which object display represents counting by 10s?",
-    "audioPrompt": "Ava studies this example. Which object display represents counting by 10s?",
-    "visual": "Four equal groups with 10 objects in each group show counting by 10s. Specific example: Each bracket is one equal group. This is test example 1.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Four equal groups with 10 objects in each group show counting by 10s. Specific example: Each bracket is one equal group. This is test example 1.\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1a01.svg#ac9m1a01-t-001\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1a01.svg#ac9m1a01-t-001",
-      "alt_text": "Four equal groups with 10 objects in each group show counting by 10s. Specific example: Each bracket is one equal group. This is test example 1."
-    },
+    "question": "[Show the complete data display with labels and symbols.] Which object display represents counting by 10s?",
+    "audioPrompt": "[Show the complete data display with labels and symbols.] Which object display represents counting by 10s?",
     "answers": [
       "[10] [10] [10] [10]",
       "[● ● ● ● ●] [● ● ● ● ●] [● ● ● ● ●] [● ● ● ● ●]",
@@ -36,14 +29,14 @@ window.skillrTestQuestions = [
     "skill": "members of a sequence",
     "printable": true,
     "type": "single",
-    "question": "Lina studies this example. Select all numbers in the first three terms of the add-10 pattern starting at 30. Choose the group with all the correct answers.",
-    "audioPrompt": "Lina studies this example. Select all numbers in the first three terms of the add-10 pattern starting at 30. Choose the group with all the correct answers.",
+    "question": "Start at 30. Add 10 each time. Which option shows the first three numbers?",
+    "audioPrompt": "Start at 30. Add 10 each time. Which option shows the first three numbers?",
     "visual": "A number sequence shown with equal jumps of 10. Specific example: Skip-counting Pattern Sequences: members of a sequence This is test example 2.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A number sequence shown with equal jumps of 10. Specific example: Skip-counting Pattern Sequences: members of a sequence This is test example 2.\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1a01.svg#ac9m1a01-t-002\"></use></svg>",
+    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Start at 30. Add 10 each time. Which option shows the first three numbers?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1a01.svg#ac9m1a01-t-002\">\u003c/use>\u003c/svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1a01.svg#ac9m1a01-t-002",
-      "alt_text": "A number sequence shown with equal jumps of 10. Specific example: Skip-counting Pattern Sequences: members of a sequence This is test example 2."
+      "alt_text": "Start at 30. Add 10 each time. Which option shows the first three numbers?"
     },
     "answers": [
       "50, 30",
@@ -68,11 +61,11 @@ window.skillrTestQuestions = [
     "question": "Start at 11 and make 3 jumps of 2. Where do you land?",
     "audioPrompt": "Start at 11 and make 3 jumps of 2. Where do you land?",
     "visual": "A number sequence shown with equal jumps of 2. Specific example: 11 → 13 → 15 → 17 This is test example 3.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A number sequence shown with equal jumps of 2. Specific example: 11 → 13 → 15 → 17 This is test example 3.\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1a01.svg#ac9m1a01-t-003\"></use></svg>",
+    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Start at 11 and make 3 jumps of 2. Where do you land?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1a01.svg#ac9m1a01-t-003\">\u003c/use>\u003c/svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1a01.svg#ac9m1a01-t-003",
-      "alt_text": "A number sequence shown with equal jumps of 2. Specific example: 11 → 13 → 15 → 17 This is test example 3."
+      "alt_text": "Start at 11 and make 3 jumps of 2. Where do you land?"
     },
     "answers": [
       "16",
@@ -97,11 +90,11 @@ window.skillrTestQuestions = [
     "question": "4 equal groups each represent 10. What is the final skip-count number?",
     "audioPrompt": "4 equal groups each represent 10. What is the final skip-count number?",
     "visual": "Four equal groups with 2 objects in each group show counting by 2s. Specific example: [10] [10] [10] [10] This is test example 4.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Four equal groups with 2 objects in each group show counting by 2s. Specific example: [10] [10] [10] [10] This is test example 4.\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1a01.svg#ac9m1a01-t-004\"></use></svg>",
+    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"4 equal groups each represent 10. What is the final skip-count number?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1a01.svg#ac9m1a01-t-004\">\u003c/use>\u003c/svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1a01.svg#ac9m1a01-t-004",
-      "alt_text": "Four equal groups with 2 objects in each group show counting by 2s. Specific example: [10] [10] [10] [10] This is test example 4."
+      "alt_text": "4 equal groups each represent 10. What is the final skip-count number?"
     },
     "answers": [
       "40",
@@ -123,14 +116,14 @@ window.skillrTestQuestions = [
     "skill": "continue by fives",
     "printable": true,
     "type": "single",
-    "question": "Lina studies this example. Complete the sequence: 10, 15, ___, 25.",
-    "audioPrompt": "Lina studies this example. Complete the sequence: 10, 15, ___, 25.",
+    "question": "Complete the sequence: 10, 15, ___, 25.",
+    "audioPrompt": "Complete the sequence: 10, 15, ___, 25.",
     "visual": "A number sequence shown with equal jumps of 5. Specific example: Skip-counting Pattern Sequences: continue by fives This is test example 5.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A number sequence shown with equal jumps of 5. Specific example: Skip-counting Pattern Sequences: continue by fives This is test example 5.\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1a01.svg#ac9m1a01-t-005\"></use></svg>",
+    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Complete the sequence: 10, 15, ___, 25.\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1a01.svg#ac9m1a01-t-005\">\u003c/use>\u003c/svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1a01.svg#ac9m1a01-t-005",
-      "alt_text": "A number sequence shown with equal jumps of 5. Specific example: Skip-counting Pattern Sequences: continue by fives This is test example 5."
+      "alt_text": "Complete the sequence: 10, 15, ___, 25."
     },
     "answers": [
       "19",
@@ -152,8 +145,8 @@ window.skillrTestQuestions = [
     "skill": "count backwards",
     "printable": true,
     "type": "single",
-    "question": "Arlo studies this example. Count back by 2: 10, 8, 6, ___.",
-    "audioPrompt": "Arlo studies this example. Count back by 2: 10, 8, 6, ___.",
+    "question": "Count back by 2: 10, 8, 6, ___.",
+    "audioPrompt": "Count back by 2: 10, 8, 6, ___.",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -181,8 +174,8 @@ window.skillrTestQuestions = [
     "skill": "continue by tens",
     "printable": true,
     "type": "single",
-    "question": "Omar studies this example. What comes next: 30, 40, 50, 60, ___?",
-    "audioPrompt": "Omar studies this example. What comes next: 30, 40, 50, 60, ___?",
+    "question": "What comes next: 30, 40, 50, 60, ___?",
+    "audioPrompt": "What comes next: 30, 40, 50, 60, ___?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -213,11 +206,11 @@ window.skillrTestQuestions = [
     "question": "Continue the pattern: 12, 14, 16, ___.",
     "audioPrompt": "Continue the pattern: 12, 14, 16, ___.",
     "visual": "A number sequence shown with equal jumps of 2. Specific example: Skip-counting Pattern Sequences: continue by twos This is test example 8.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A number sequence shown with equal jumps of 2. Specific example: Skip-counting Pattern Sequences: continue by twos This is test example 8.\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1a01.svg#ac9m1a01-t-008\"></use></svg>",
+    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Continue the pattern: 12, 14, 16, ___.\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1a01.svg#ac9m1a01-t-008\">\u003c/use>\u003c/svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1a01.svg#ac9m1a01-t-008",
-      "alt_text": "A number sequence shown with equal jumps of 2. Specific example: Skip-counting Pattern Sequences: continue by twos This is test example 8."
+      "alt_text": "Continue the pattern: 12, 14, 16, ___."
     },
     "answers": [
       "17",
@@ -239,14 +232,14 @@ window.skillrTestQuestions = [
     "skill": "spot pattern error",
     "printable": true,
     "type": "single",
-    "question": "Sam studies this example. Which term breaks the rule “add 10”: 10, 20, 30, 41, 50?",
-    "audioPrompt": "Sam studies this example. Which term breaks the rule “add 10”: 10, 20, 30, 41, 50?",
+    "question": "Which term breaks the rule “add 10”: 10, 20, 30, 41, 50?",
+    "audioPrompt": "Which term breaks the rule “add 10”: 10, 20, 30, 41, 50?",
     "visual": "A number sequence shown with equal jumps of 10. This is test example 9.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A number sequence shown with equal jumps of 10. This is test example 9.\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1a01.svg#ac9m1a01-t-009\"></use></svg>",
+    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Which term breaks the rule “add 10”: 10, 20, 30, 41, 50?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1a01.svg#ac9m1a01-t-009\">\u003c/use>\u003c/svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1a01.svg#ac9m1a01-t-009",
-      "alt_text": "A number sequence shown with equal jumps of 10. This is test example 9."
+      "alt_text": "Which term breaks the rule “add 10”: 10, 20, 30, 41, 50?"
     },
     "answers": [
       "20",
@@ -271,11 +264,11 @@ window.skillrTestQuestions = [
     "question": "What is the rule for 20, 30, 40, 50?",
     "audioPrompt": "What is the rule for 20, 30, 40, 50?",
     "visual": "A number sequence shown with equal jumps of 2. Specific example: Skip-counting Pattern Sequences: identify skip rule This is test example 10.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A number sequence shown with equal jumps of 2. Specific example: Skip-counting Pattern Sequences: identify skip rule This is test example 10.\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1a01.svg#ac9m1a01-t-010\"></use></svg>",
+    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"What is the rule for 20, 30, 40, 50?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1a01.svg#ac9m1a01-t-010\">\u003c/use>\u003c/svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1a01.svg#ac9m1a01-t-010",
-      "alt_text": "A number sequence shown with equal jumps of 2. Specific example: Skip-counting Pattern Sequences: identify skip rule This is test example 10."
+      "alt_text": "What is the rule for 20, 30, 40, 50?"
     },
     "answers": [
       "add 10",
@@ -297,14 +290,14 @@ window.skillrTestQuestions = [
     "skill": "classify a pattern",
     "printable": true,
     "type": "single",
-    "question": "Ava studies this example. Which label fits the sequence 10, 20, 30, 40?",
-    "audioPrompt": "Ava studies this example. Which label fits the sequence 10, 20, 30, 40?",
+    "question": "Which label fits the sequence 10, 20, 30, 40?",
+    "audioPrompt": "Which label fits the sequence 10, 20, 30, 40?",
     "visual": "A number sequence shown with equal jumps of 2. Specific example: Skip-counting Pattern Sequences: classify a pattern This is test example 11.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A number sequence shown with equal jumps of 2. Specific example: Skip-counting Pattern Sequences: classify a pattern This is test example 11.\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1a01.svg#ac9m1a01-t-011\"></use></svg>",
+    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Which label fits the sequence 10, 20, 30, 40?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1a01.svg#ac9m1a01-t-011\">\u003c/use>\u003c/svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1a01.svg#ac9m1a01-t-011",
-      "alt_text": "A number sequence shown with equal jumps of 2. Specific example: Skip-counting Pattern Sequences: classify a pattern This is test example 11."
+      "alt_text": "Which label fits the sequence 10, 20, 30, 40?"
     },
     "answers": [
       "skip counting by 11s",
@@ -329,11 +322,11 @@ window.skillrTestQuestions = [
     "question": "Pattern A is 35, 40, 45. Pattern B is 35, 45, 55. Which statement is true?",
     "audioPrompt": "Pattern A is 35, 40, 45. Pattern B is 35, 45, 55. Which statement is true?",
     "visual": "A number sequence shown with equal jumps of 2. This is test example 12.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A number sequence shown with equal jumps of 2. This is test example 12.\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1a01.svg#ac9m1a01-t-012\"></use></svg>",
+    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Pattern A is 35, 40, 45. Pattern B is 35, 45, 55. Which statement is true?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1a01.svg#ac9m1a01-t-012\">\u003c/use>\u003c/svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1a01.svg#ac9m1a01-t-012",
-      "alt_text": "A number sequence shown with equal jumps of 2. This is test example 12."
+      "alt_text": "Pattern A is 35, 40, 45. Pattern B is 35, 45, 55. Which statement is true?"
     },
     "answers": [
       "Both count by 2s",
@@ -465,5 +458,3 @@ window.skillrTestQuestions = [
     "qualitySchema": "production-v1"
   }
 ];
-window.skillrExamQuestions = window.skillrTestQuestions;
-window.quizQuestions = window.skillrTestQuestions;

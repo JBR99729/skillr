@@ -7,14 +7,14 @@ window.skillrTestQuestions = [
     "skill": "events measured in hours",
     "printable": true,
     "type": "single",
-    "question": "Lina studies this example. Select all events that could sensibly be described in hours. Choose the group with all the correct answers.",
-    "audioPrompt": "Lina studies this example. Select all events that could sensibly be described in hours. Choose the group with all the correct answers.",
+    "question": "Select all events that could sensibly be described in hours. Choose the group with all the correct answers.",
+    "audioPrompt": "Select all events that could sensibly be described in hours. Choose the group with all the correct answers.",
     "visual": "The 12 months are shown in their order through one year. Specific example: Time: Years, Months, Weeks, Days and Hours: events measured in hours This is test example 1.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"The 12 months are shown in their order through one year. Specific example: Time: Years, Months, Weeks, Days and Hours: events measured in hours This is test example 1.\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1m03.svg#ac9m1m03-t-001\"></use></svg>",
+    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Select all events that could sensibly be described in hours. Choose the group with all the correct answers.\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1m03.svg#ac9m1m03-t-001\">\u003c/use>\u003c/svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1m03.svg#ac9m1m03-t-001",
-      "alt_text": "The 12 months are shown in their order through one year. Specific example: Time: Years, Months, Weeks, Days and Hours: events measured in hours This is test example 1."
+      "alt_text": "Select all events that could sensibly be described in hours. Choose the group with all the correct answers."
     },
     "answers": [
       "a school day, a long movie",
@@ -36,14 +36,14 @@ window.skillrTestQuestions = [
     "skill": "order time units",
     "printable": true,
     "type": "single",
-    "question": "Omar studies this example. Order these time units from shortest to longest. Which order is correct?",
-    "audioPrompt": "Omar studies this example. Order these time units from shortest to longest. Which order is correct?",
+    "question": "Order these time units from shortest to longest. Which order is correct?",
+    "audioPrompt": "Order these time units from shortest to longest. Which order is correct?",
     "visual": "The seven days are shown in their weekly order. This is test example 2.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"The seven days are shown in their weekly order. This is test example 2.\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1m03.svg#ac9m1m03-t-002\"></use></svg>",
+    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Order these time units from shortest to longest. Which order is correct?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1m03.svg#ac9m1m03-t-002\">\u003c/use>\u003c/svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1m03.svg#ac9m1m03-t-002",
-      "alt_text": "The seven days are shown in their weekly order. This is test example 2."
+      "alt_text": "Order these time units from shortest to longest. Which order is correct?"
     },
     "answers": [
       "day → week → year → month → hour",
@@ -65,14 +65,14 @@ window.skillrTestQuestions = [
     "skill": "daily sequence",
     "printable": true,
     "type": "single",
-    "question": "Lina studies this example. Order these events from earlier to later. Which order is correct?",
-    "audioPrompt": "Lina studies this example. Order these events from earlier to later. Which order is correct?",
+    "question": "Order these events from earlier to later. Which order is correct?",
+    "audioPrompt": "Order these events from earlier to later. Which order is correct?",
     "visual": "The seven days are shown in their weekly order. This is test example 3.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"The seven days are shown in their weekly order. This is test example 3.\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1m03.svg#ac9m1m03-t-003\"></use></svg>",
+    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Order these events from earlier to later. Which order is correct?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1m03.svg#ac9m1m03-t-003\">\u003c/use>\u003c/svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1m03.svg#ac9m1m03-t-003",
-      "alt_text": "The seven days are shown in their weekly order. This is test example 3."
+      "alt_text": "Order these events from earlier to later. Which order is correct?"
     },
     "answers": [
       "breakfast → bedtime → lunch",
@@ -94,14 +94,14 @@ window.skillrTestQuestions = [
     "skill": "sequence a day",
     "printable": true,
     "type": "single",
-    "question": "Ava studies this example. Order the day parts from earlier to later. Which order is correct?",
-    "audioPrompt": "Ava studies this example. Order the day parts from earlier to later. Which order is correct?",
+    "question": "Order the day parts from earlier to later. Which order is correct?",
+    "audioPrompt": "Order the day parts from earlier to later. Which order is correct?",
     "visual": "The 12 months are shown in their order through one year. Specific example: Time: Years, Months, Weeks, Days and Hours: sequence a day This is test example 4.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"The 12 months are shown in their order through one year. Specific example: Time: Years, Months, Weeks, Days and Hours: sequence a day This is test example 4.\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1m03.svg#ac9m1m03-t-004\"></use></svg>",
+    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Order the day parts from earlier to later. Which order is correct?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1m03.svg#ac9m1m03-t-004\">\u003c/use>\u003c/svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1m03.svg#ac9m1m03-t-004",
-      "alt_text": "The 12 months are shown in their order through one year. Specific example: Time: Years, Months, Weeks, Days and Hours: sequence a day This is test example 4."
+      "alt_text": "Order the day parts from earlier to later. Which order is correct?"
     },
     "answers": [
       "morning → afternoon → night",
@@ -123,14 +123,14 @@ window.skillrTestQuestions = [
     "skill": "choose time unit",
     "printable": true,
     "type": "single",
-    "question": "Omar studies this example. Which unit best describes the duration of a weekend?",
-    "audioPrompt": "Omar studies this example. Which unit best describes the duration of a weekend?",
+    "question": "Which unit best describes the duration of a weekend?",
+    "audioPrompt": "Which unit best describes the duration of a weekend?",
     "visual": "The 12 months are shown in their order through one year. Specific example: Time: Years, Months, Weeks, Days and Hours: choose time unit This is test example 5.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"The 12 months are shown in their order through one year. Specific example: Time: Years, Months, Weeks, Days and Hours: choose time unit This is test example 5.\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1m03.svg#ac9m1m03-t-005\"></use></svg>",
+    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Which unit best describes the duration of a weekend?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1m03.svg#ac9m1m03-t-005\">\u003c/use>\u003c/svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1m03.svg#ac9m1m03-t-005",
-      "alt_text": "The 12 months are shown in their order through one year. Specific example: Time: Years, Months, Weeks, Days and Hours: choose time unit This is test example 5."
+      "alt_text": "Which unit best describes the duration of a weekend?"
     },
     "answers": [
       "hours only",
@@ -152,14 +152,14 @@ window.skillrTestQuestions = [
     "skill": "calendar next date",
     "printable": true,
     "type": "single",
-    "question": "Leo studies this example. The calendar shows the 3rd today. What date is tomorrow?",
-    "audioPrompt": "Leo studies this example. The calendar shows the 3rd today. What date is tomorrow?",
+    "question": "The calendar shows the 3rd today. What date is tomorrow?",
+    "audioPrompt": "The calendar shows the 3rd today. What date is tomorrow?",
     "visual": "The seven days are shown in their weekly order. This is test example 6.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"The seven days are shown in their weekly order. This is test example 6.\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1m03.svg#ac9m1m03-t-006\"></use></svg>",
+    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"The calendar shows the 3rd today. What date is tomorrow?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1m03.svg#ac9m1m03-t-006\">\u003c/use>\u003c/svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1m03.svg#ac9m1m03-t-006",
-      "alt_text": "The seven days are shown in their weekly order. This is test example 6."
+      "alt_text": "The calendar shows the 3rd today. What date is tomorrow?"
     },
     "answers": [
       "3",
@@ -181,14 +181,14 @@ window.skillrTestQuestions = [
     "skill": "compare time units",
     "printable": true,
     "type": "single",
-    "question": "Omar studies this example. Which duration is longer?",
-    "audioPrompt": "Omar studies this example. Which duration is longer?",
+    "question": "Which duration is longer?",
+    "audioPrompt": "Which duration is longer?",
     "visual": "Two clock times and a timeline show how long an event lasts. This is test example 7.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Two clock times and a timeline show how long an event lasts. This is test example 7.\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1m03.svg#ac9m1m03-t-007\"></use></svg>",
+    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Which duration is longer?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1m03.svg#ac9m1m03-t-007\">\u003c/use>\u003c/svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1m03.svg#ac9m1m03-t-007",
-      "alt_text": "Two clock times and a timeline show how long an event lasts. This is test example 7."
+      "alt_text": "Which duration is longer?"
     },
     "answers": [
       "one day",
@@ -213,11 +213,11 @@ window.skillrTestQuestions = [
     "question": "Which statement is correct?",
     "audioPrompt": "Which statement is correct?",
     "visual": "The 12 months are shown in their order through one year. Specific example: Time: Years, Months, Weeks, Days and Hours: week duration This is test example 8.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"The 12 months are shown in their order through one year. Specific example: Time: Years, Months, Weeks, Days and Hours: week duration This is test example 8.\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1m03.svg#ac9m1m03-t-008\"></use></svg>",
+    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Which statement is correct?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1m03.svg#ac9m1m03-t-008\">\u003c/use>\u003c/svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1m03.svg#ac9m1m03-t-008",
-      "alt_text": "The 12 months are shown in their order through one year. Specific example: Time: Years, Months, Weeks, Days and Hours: week duration This is test example 8."
+      "alt_text": "Which statement is correct?"
     },
     "answers": [
       "It is not true that arlo studies this example. Two weeks contain 14 days.",
@@ -242,11 +242,11 @@ window.skillrTestQuestions = [
     "question": "Sam says a five-day school week lasts five hours. Which correction is best?",
     "audioPrompt": "Sam says a five-day school week lasts five hours. Which correction is best?",
     "visual": "Two clock times and a timeline show how long an event lasts. This is test example 9.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Two clock times and a timeline show how long an event lasts. This is test example 9.\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1m03.svg#ac9m1m03-t-009\"></use></svg>",
+    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Sam says a five-day school week lasts five hours. Which correction is best?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1m03.svg#ac9m1m03-t-009\">\u003c/use>\u003c/svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1m03.svg#ac9m1m03-t-009",
-      "alt_text": "Two clock times and a timeline show how long an event lasts. This is test example 9."
+      "alt_text": "Sam says a five-day school week lasts five hours. Which correction is best?"
     },
     "answers": [
       "Keep hours because all time is hours",
@@ -268,14 +268,14 @@ window.skillrTestQuestions = [
     "skill": "days in a week",
     "printable": true,
     "type": "single",
-    "question": "Ruby studies this example. How many days are in one week?",
-    "audioPrompt": "Ruby studies this example. How many days are in one week?",
+    "question": "How many days are in one week?",
+    "audioPrompt": "How many days are in one week?",
     "visual": "The 12 months are shown in their order through one year. Specific example: Time: Years, Months, Weeks, Days and Hours: days in a week This is test example 10.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"The 12 months are shown in their order through one year. Specific example: Time: Years, Months, Weeks, Days and Hours: days in a week This is test example 10.\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1m03.svg#ac9m1m03-t-010\"></use></svg>",
+    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"How many days are in one week?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1m03.svg#ac9m1m03-t-010\">\u003c/use>\u003c/svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1m03.svg#ac9m1m03-t-010",
-      "alt_text": "The 12 months are shown in their order through one year. Specific example: Time: Years, Months, Weeks, Days and Hours: days in a week This is test example 10."
+      "alt_text": "How many days are in one week?"
     },
     "answers": [
       "7",
@@ -297,14 +297,14 @@ window.skillrTestQuestions = [
     "skill": "timeline",
     "printable": true,
     "type": "single",
-    "question": "Ava studies this example. A project starts on Tuesday and finishes 2 days later. Which day is that?",
-    "audioPrompt": "Ava studies this example. A project starts on Tuesday and finishes 2 days later. Which day is that?",
+    "question": "A project starts on Tuesday and finishes 2 days later. Which day is that?",
+    "audioPrompt": "A project starts on Tuesday and finishes 2 days later. Which day is that?",
     "visual": "The 12 months are shown in their order through one year. Specific example: Time: Years, Months, Weeks, Days and Hours: timeline This is test example 11.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"The 12 months are shown in their order through one year. Specific example: Time: Years, Months, Weeks, Days and Hours: timeline This is test example 11.\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1m03.svg#ac9m1m03-t-011\"></use></svg>",
+    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A project starts on Tuesday and finishes 2 days later. Which day is that?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1m03.svg#ac9m1m03-t-011\">\u003c/use>\u003c/svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1m03.svg#ac9m1m03-t-011",
-      "alt_text": "The 12 months are shown in their order through one year. Specific example: Time: Years, Months, Weeks, Days and Hours: timeline This is test example 11."
+      "alt_text": "A project starts on Tuesday and finishes 2 days later. Which day is that?"
     },
     "answers": [
       "Wednesday",
@@ -326,14 +326,14 @@ window.skillrTestQuestions = [
     "skill": "school day duration",
     "printable": true,
     "type": "single",
-    "question": "Sam studies this example. Which is a sensible way to describe the duration of a school day?",
-    "audioPrompt": "Sam studies this example. Which is a sensible way to describe the duration of a school day?",
+    "question": "Which is a sensible way to describe the duration of a school day?",
+    "audioPrompt": "Which is a sensible way to describe the duration of a school day?",
     "visual": "Two clock times and a timeline show how long an event lasts. This is test example 12.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Two clock times and a timeline show how long an event lasts. This is test example 12.\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1m03.svg#ac9m1m03-t-012\"></use></svg>",
+    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Which is a sensible way to describe the duration of a school day?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1m03.svg#ac9m1m03-t-012\">\u003c/use>\u003c/svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1m03.svg#ac9m1m03-t-012",
-      "alt_text": "Two clock times and a timeline show how long an event lasts. This is test example 12."
+      "alt_text": "Which is a sensible way to describe the duration of a school day?"
     },
     "answers": [
       "several years",
@@ -465,5 +465,3 @@ window.skillrTestQuestions = [
     "qualitySchema": "production-v1"
   }
 ];
-window.skillrExamQuestions = window.skillrTestQuestions;
-window.quizQuestions = window.skillrTestQuestions;

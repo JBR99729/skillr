@@ -7,15 +7,8 @@ window.skillrTestQuestions = [
     "skill": "complete skip count",
     "printable": true,
     "type": "single",
-    "question": "Complete the count by 10s. The number-line model starts at 20.",
-    "audioPrompt": "Complete the count by 10s. The number-line model starts at 20.",
-    "visual": "A grouping or number model showing: 20 — 30 — ___ — 50 — 60.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A grouping or number model showing: 20 — 30 — ___ — 50 — 60.\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1n03.svg#ac9m1n03-t-001\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n03.svg#ac9m1n03-t-001",
-      "alt_text": "A grouping or number model showing: 20 — 30 — ___ — 50 — 60."
-    },
+    "question": "[Show the matching tens-and-ones blocks.] Complete the count by 10s. The number-line model starts at 20.",
+    "audioPrompt": "[Show the matching tens-and-ones blocks.] Complete the count by 10s. The number-line model starts at 20.",
     "answers": [
       "40",
       "30",
@@ -65,15 +58,8 @@ window.skillrTestQuestions = [
     "skill": "full groups and leftovers",
     "printable": true,
     "type": "single",
-    "question": "How many objects are there altogether? The picture has 4 full groups and 3 left over.",
-    "audioPrompt": "How many objects are there altogether? The picture has 4 full groups and 3 left over.",
-    "visual": "A grouping or number model showing: [ ◆ ◆ ◆ ◆ ◆ ] [ ◆ ◆ ◆ ◆ ◆ ] [ ◆ ◆ ◆ ◆ ◆ ] [ ◆ ◆ ◆ ◆ ◆ ] Left over: ◆ ◆ ◆.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A grouping or number model showing: [ ◆ ◆ ◆ ◆ ◆ ] [ ◆ ◆ ◆ ◆ ◆ ] [ ◆ ◆ ◆ ◆ ◆ ] [ ◆ ◆ ◆ ◆ ◆ ] Left over: ◆ ◆ ◆.\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1n03.svg#ac9m1n03-t-003\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n03.svg#ac9m1n03-t-003",
-      "alt_text": "A grouping or number model showing: [ ◆ ◆ ◆ ◆ ◆ ] [ ◆ ◆ ◆ ◆ ◆ ] [ ◆ ◆ ◆ ◆ ◆ ] [ ◆ ◆ ◆ ◆ ◆ ] Left over: ◆ ◆ ◆."
-    },
+    "question": "[Show 4 groups of 5 and 3 extra.] How many objects are there?",
+    "audioPrompt": "[Show 4 groups of 5 and 3 extra.] How many objects are there?",
     "answers": [
       "22",
       "24",
@@ -152,15 +138,8 @@ window.skillrTestQuestions = [
     "skill": "group collection into tens",
     "printable": true,
     "type": "single",
-    "question": "Which grouping represents 28 objects? The picture has 2 full groups and 8 left over.",
-    "audioPrompt": "Which grouping represents 28 objects? The picture has 2 full groups and 8 left over.",
-    "visual": "A grouping or number model showing: [ ● ● ● ● ● ● ● ● ● ● ] [ ● ● ● ● ● ● ● ● ● ● ] Left over: ● ● ● ● ● ● ● ●.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A grouping or number model showing: [ ● ● ● ● ● ● ● ● ● ● ] [ ● ● ● ● ● ● ● ● ● ● ] Left over: ● ● ● ● ● ● ● ●.\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1n03.svg#ac9m1n03-t-006\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n03.svg#ac9m1n03-t-006",
-      "alt_text": "A grouping or number model showing: [ ● ● ● ● ● ● ● ● ● ● ] [ ● ● ● ● ● ● ● ● ● ● ] Left over: ● ● ● ● ● ● ● ●."
-    },
+    "question": "[Show the complete picture described in the item.] Which grouping represents 28 objects? The picture has 2 full groups and 8 left over.",
+    "audioPrompt": "[Show the complete picture described in the item.] Which grouping represents 28 objects? The picture has 2 full groups and 8 left over.",
     "answers": [
       "8 groups of 10 and 2 singles",
       "2 groups of 5 and 8 singles",
@@ -181,15 +160,8 @@ window.skillrTestQuestions = [
     "skill": "identify unequal group error",
     "printable": true,
     "type": "single",
-    "question": "Ben skip counts these bags by 10s and says 40. What is the mistake? The picture has 4 groups.",
-    "audioPrompt": "Ben skip counts these bags by 10s and says 40. What is the mistake? The picture has 4 groups.",
-    "visual": "A grouping or number model showing: [ ● ● ● ● ● ● ● ● ● ● ] [ ● ● ● ● ● ● ● ● ● ● ] [ ● ● ● ● ● ● ● ● ● ] [ ● ● ● ● ● ● ● ● ● ● ].",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A grouping or number model showing: [ ● ● ● ● ● ● ● ● ● ● ] [ ● ● ● ● ● ● ● ● ● ● ] [ ● ● ● ● ● ● ● ● ● ] [ ● ● ● ● ● ● ● ● ● ● ].\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1n03.svg#ac9m1n03-t-007\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n03.svg#ac9m1n03-t-007",
-      "alt_text": "A grouping or number model showing: [ ● ● ● ● ● ● ● ● ● ● ] [ ● ● ● ● ● ● ● ● ● ● ] [ ● ● ● ● ● ● ● ● ● ] [ ● ● ● ● ● ● ● ● ● ● ]."
-    },
+    "question": "[Show 3 bags of 10 and 1 bag of 9.] Ben says 40. Which option shows the mistake?",
+    "audioPrompt": "[Show 3 bags of 10 and 1 bag of 9.] Ben says 40. Which option shows the mistake?",
     "answers": [
       "One bag has 9, so the actual total is 39",
       "All bags are equal and 40 is correct",
@@ -326,14 +298,14 @@ window.skillrTestQuestions = [
     "skill": "compare grouped collections",
     "printable": true,
     "type": "single",
-    "question": "Collection A has 6 groups of 5. Collection B has 7 groups of 5. Which has more? Picture A has 6 groups and picture B has 7 groups.",
-    "audioPrompt": "Collection A has 6 groups of 5. Collection B has 7 groups of 5. Which has more? Picture A has 6 groups and picture B has 7 groups.",
+    "question": "Collection A has 6 groups of 5. Collection B has 7 groups of 5. Which has more?",
+    "audioPrompt": "Collection A has 6 groups of 5. Collection B has 7 groups of 5. Which has more?",
     "visual": "A grouping or number model showing: A: [ ● ● ● ● ● ] [ ● ● ● ● ● ] [ ● ● ● ● ● ] [ ● ● ● ● ● ] [ ● ● ● ● ● ] [ ● ● ● ● ● ] B: [ ■ ■ ■ ■ ■ ] [ ■ ■ ■ ■ ■ ] [ ■ ■ ■ ■ ■ ] [ ■ ■ ■ ■ ■ ] [ ■ ■ ■ ■ ■ ] [ ■ ■ ■ ■ ■ ] [ ■ ■ ■ ■ ■ ].",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A grouping or number model showing: A: [ ● ● ● ● ● ] [ ● ● ● ● ● ] [ ● ● ● ● ● ] [ ● ● ● ● ● ] [ ● ● ● ● ● ] [ ● ● ● ● ● ] B: [ ■ ■ ■ ■ ■ ] [ ■ ■ ■ ■ ■ ] [ ■ ■ ■ ■ ■ ] [ ■ ■ ■ ■ ■ ] [ ■ ■ ■ ■ ■ ] [ ■ ■ ■ ■ ■ ] [ ■ ■ ■ ■ ■ ].\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1n03.svg#ac9m1n03-t-012\"></use></svg>",
+    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Collection A has 6 groups of 5. Collection B has 7 groups of 5. Which has more?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1n03.svg#ac9m1n03-t-012\">\u003c/use>\u003c/svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n03.svg#ac9m1n03-t-012",
-      "alt_text": "A grouping or number model showing: A: [ ● ● ● ● ● ] [ ● ● ● ● ● ] [ ● ● ● ● ● ] [ ● ● ● ● ● ] [ ● ● ● ● ● ] [ ● ● ● ● ● ] B: [ ■ ■ ■ ■ ■ ] [ ■ ■ ■ ■ ■ ] [ ■ ■ ■ ■ ■ ] [ ■ ■ ■ ■ ■ ] [ ■ ■ ■ ■ ■ ] [ ■ ■ ■ ■ ■ ] [ ■ ■ ■ ■ ■ ]."
+      "alt_text": "Collection A has 6 groups of 5. Collection B has 7 groups of 5. Which has more?"
     },
     "answers": [
       "The group colour decides",
@@ -384,15 +356,8 @@ window.skillrTestQuestions = [
     "skill": "count equal rows",
     "printable": true,
     "type": "single",
-    "question": "How many dots are in the equal rows? The picture has 2 rows.",
-    "audioPrompt": "How many dots are in the equal rows? The picture has 2 rows.",
-    "visual": "A grouping or number model showing: ● ● ● ●.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A grouping or number model showing: ● ● ● ●.\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1n03.svg#ac9m1n03-t-014\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n03.svg#ac9m1n03-t-014",
-      "alt_text": "A grouping or number model showing: ● ● ● ●."
-    },
+    "question": "[Show the complete picture described in the item.] How many dots are in the equal rows? The picture has 2 rows.",
+    "audioPrompt": "[Show the complete picture described in the item.] How many dots are in the equal rows? The picture has 2 rows.",
     "answers": [
       "3",
       "4",
@@ -442,15 +407,8 @@ window.skillrTestQuestions = [
     "skill": "identify group size",
     "printable": true,
     "type": "single",
-    "question": "How many objects are in each equal group? The picture has 4 groups.",
-    "audioPrompt": "How many objects are in each equal group? The picture has 4 groups.",
-    "visual": "A grouping or number model showing: [ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ] [ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ] [ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ] [ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ].",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A grouping or number model showing: [ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ] [ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ] [ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ] [ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ].\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1n03.svg#ac9m1n03-t-016\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n03.svg#ac9m1n03-t-016",
-      "alt_text": "A grouping or number model showing: [ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ] [ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ] [ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ] [ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ]."
-    },
+    "question": "[Show the complete picture described in the item.] How many objects are in each equal group? The picture has 4 groups.",
+    "audioPrompt": "[Show the complete picture described in the item.] How many objects are in each equal group? The picture has 4 groups.",
     "answers": [
       "10",
       "9",
@@ -471,15 +429,8 @@ window.skillrTestQuestions = [
     "skill": "identify number of groups",
     "printable": true,
     "type": "single",
-    "question": "How many equal groups of 2 are shown? The picture has 2 groups.",
-    "audioPrompt": "How many equal groups of 2 are shown? The picture has 2 groups.",
-    "visual": "A grouping or number model showing: [ ⬟ ⬟ ] [ ⬟ ⬟ ].",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A grouping or number model showing: [ ⬟ ⬟ ] [ ⬟ ⬟ ].\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1n03.svg#ac9m1n03-t-017\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n03.svg#ac9m1n03-t-017",
-      "alt_text": "A grouping or number model showing: [ ⬟ ⬟ ] [ ⬟ ⬟ ]."
-    },
+    "question": "[Show the complete picture described in the item.] How many equal groups of 2 are shown? The picture has 2 groups.",
+    "audioPrompt": "[Show the complete picture described in the item.] How many equal groups of 2 are shown? The picture has 2 groups.",
     "answers": [
       "0",
       "2",
@@ -500,15 +451,8 @@ window.skillrTestQuestions = [
     "skill": "count equal groups",
     "printable": true,
     "type": "single",
-    "question": "How many counters are shown in the equal groups? The picture has 5 groups.",
-    "audioPrompt": "How many counters are shown in the equal groups? The picture has 5 groups.",
-    "visual": "A grouping or number model showing: [ ● ● ● ● ● ● ● ● ● ● ] [ ● ● ● ● ● ● ● ● ● ● ] [ ● ● ● ● ● ● ● ● ● ● ] [ ● ● ● ● ● ● ● ● ● ● ] [ ● ● ● ● ● ● ● ● ● ● ].",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A grouping or number model showing: [ ● ● ● ● ● ● ● ● ● ● ] [ ● ● ● ● ● ● ● ● ● ● ] [ ● ● ● ● ● ● ● ● ● ● ] [ ● ● ● ● ● ● ● ● ● ● ] [ ● ● ● ● ● ● ● ● ● ● ].\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1n03.svg#ac9m1n03-t-018\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n03.svg#ac9m1n03-t-018",
-      "alt_text": "A grouping or number model showing: [ ● ● ● ● ● ● ● ● ● ● ] [ ● ● ● ● ● ● ● ● ● ● ] [ ● ● ● ● ● ● ● ● ● ● ] [ ● ● ● ● ● ● ● ● ● ● ] [ ● ● ● ● ● ● ● ● ● ● ]."
-    },
+    "question": "[Show the complete picture described in the item.] How many counters are shown in the equal groups? The picture has 5 groups.",
+    "audioPrompt": "[Show the complete picture described in the item.] How many counters are shown in the equal groups? The picture has 5 groups.",
     "answers": [
       "49",
       "51",
@@ -529,15 +473,8 @@ window.skillrTestQuestions = [
     "skill": "complete skip count",
     "printable": true,
     "type": "single",
-    "question": "Complete the count by 2s. The number-line model starts at 2.",
-    "audioPrompt": "Complete the count by 2s. The number-line model starts at 2.",
-    "visual": "A grouping or number model showing: 2 — 4 — ___ — 8 — 10.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A grouping or number model showing: 2 — 4 — ___ — 8 — 10.\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1n03.svg#ac9m1n03-t-019\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n03.svg#ac9m1n03-t-019",
-      "alt_text": "A grouping or number model showing: 2 — 4 — ___ — 8 — 10."
-    },
+    "question": "[Show the matching tens-and-ones blocks.] Complete the count by 2s. The number-line model starts at 2.",
+    "audioPrompt": "[Show the matching tens-and-ones blocks.] Complete the count by 2s. The number-line model starts at 2.",
     "answers": [
       "6",
       "4",
@@ -587,15 +524,8 @@ window.skillrTestQuestions = [
     "skill": "full groups and leftovers",
     "printable": true,
     "type": "single",
-    "question": "How many objects are there altogether? The picture has 2 full groups and 3 left over.",
-    "audioPrompt": "How many objects are there altogether? The picture has 2 full groups and 3 left over.",
-    "visual": "A grouping or number model showing: [ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ] [ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ] Left over: ◆ ◆ ◆.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A grouping or number model showing: [ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ] [ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ] Left over: ◆ ◆ ◆.\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1n03.svg#ac9m1n03-t-021\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n03.svg#ac9m1n03-t-021",
-      "alt_text": "A grouping or number model showing: [ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ] [ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ] Left over: ◆ ◆ ◆."
-    },
+    "question": "[Show 2 groups of 10 and 3 extra.] How many objects are there?",
+    "audioPrompt": "[Show 2 groups of 10 and 3 extra.] How many objects are there?",
     "answers": [
       "22",
       "24",
@@ -674,15 +604,8 @@ window.skillrTestQuestions = [
     "skill": "group collection into tens",
     "printable": true,
     "type": "single",
-    "question": "Which grouping represents 61 objects? The picture has 6 full groups and 1 left over.",
-    "audioPrompt": "Which grouping represents 61 objects? The picture has 6 full groups and 1 left over.",
-    "visual": "A grouping or number model showing: [ ● ● ● ● ● ● ● ● ● ● ] [ ● ● ● ● ● ● ● ● ● ● ] [ ● ● ● ● ● ● ● ● ● ● ] [ ● ● ● ● ● ● ● ● ● ● ] [ ● ● ● ● ● ● ● ● ● ● ] [ ● ● ● ● ● ● ● ● ● ● ] Left over: ●.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A grouping or number model showing: [ ● ● ● ● ● ● ● ● ● ● ] [ ● ● ● ● ● ● ● ● ● ● ] [ ● ● ● ● ● ● ● ● ● ● ] [ ● ● ● ● ● ● ● ● ● ● ] [ ● ● ● ● ● ● ● ● ● ● ] [ ● ● ● ● ● ● ● ● ● ● ] Left over: ●.\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1n03.svg#ac9m1n03-t-024\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n03.svg#ac9m1n03-t-024",
-      "alt_text": "A grouping or number model showing: [ ● ● ● ● ● ● ● ● ● ● ] [ ● ● ● ● ● ● ● ● ● ● ] [ ● ● ● ● ● ● ● ● ● ● ] [ ● ● ● ● ● ● ● ● ● ● ] [ ● ● ● ● ● ● ● ● ● ● ] [ ● ● ● ● ● ● ● ● ● ● ] Left over: ●."
-    },
+    "question": "[Show the complete picture described in the item.] Which grouping represents 61 objects? The picture has 6 full groups and 1 left over.",
+    "audioPrompt": "[Show the complete picture described in the item.] Which grouping represents 61 objects? The picture has 6 full groups and 1 left over.",
     "answers": [
       "7 groups of 10 and 1 single",
       "6 groups of 5 and 1 single",
@@ -697,5 +620,3 @@ window.skillrTestQuestions = [
     "qualitySchema": "production-v1"
   }
 ];
-window.skillrExamQuestions = window.skillrTestQuestions;
-window.quizQuestions = window.skillrTestQuestions;

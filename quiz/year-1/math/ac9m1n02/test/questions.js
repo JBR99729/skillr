@@ -36,15 +36,8 @@ window.skillrTestQuestions = [
     "skill": "model to numeral",
     "printable": true,
     "type": "single",
-    "question": "What numeral does this model show?",
-    "audioPrompt": "What numeral does this model show?",
-    "visual": "A base-ten model showing 5 tens rods and 8 ones dots.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A base-ten model showing 5 tens rods and 8 ones dots.\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1n02.svg#ac9m1n02-t-002\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n02.svg#ac9m1n02-t-002",
-      "alt_text": "A base-ten model showing 5 tens rods and 8 ones dots."
-    },
+    "question": "[Show the matching tens-and-ones blocks.] What numeral does this model show?",
+    "audioPrompt": "[Show the matching tens-and-ones blocks.] What numeral does this model show?",
     "answers": [
       "85",
       "58",
@@ -97,11 +90,11 @@ window.skillrTestQuestions = [
     "question": "66 is 6 tens and 6 ones. After exchanging one ten, which partition is equivalent?",
     "audioPrompt": "66 is 6 tens and 6 ones. After exchanging one ten, which partition is equivalent?",
     "visual": "A base-ten model showing 6 tens rods and 6 ones dots.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A base-ten model showing 6 tens rods and 6 ones dots.\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1n02.svg#ac9m1n02-t-004\"></use></svg>",
+    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"66 is 6 tens and 6 ones. After exchanging one ten, which partition is equivalent?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1n02.svg#ac9m1n02-t-004\">\u003c/use>\u003c/svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n02.svg#ac9m1n02-t-004",
-      "alt_text": "A base-ten model showing 6 tens rods and 6 ones dots."
+      "alt_text": "66 is 6 tens and 6 ones. After exchanging one ten, which partition is equivalent?"
     },
     "answers": [
       "5 tens and 16 ones",
@@ -126,11 +119,11 @@ window.skillrTestQuestions = [
     "question": "What number is 2 tens and 15 ones?",
     "audioPrompt": "What number is 2 tens and 15 ones?",
     "visual": "A base-ten model showing 2 tens rods and 15 ones dots.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A base-ten model showing 2 tens rods and 15 ones dots.\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1n02.svg#ac9m1n02-t-005\"></use></svg>",
+    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"What number is 2 tens and 15 ones?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1n02.svg#ac9m1n02-t-005\">\u003c/use>\u003c/svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n02.svg#ac9m1n02-t-005",
-      "alt_text": "A base-ten model showing 2 tens rods and 15 ones dots."
+      "alt_text": "What number is 2 tens and 15 ones?"
     },
     "answers": [
       "25",
@@ -213,11 +206,11 @@ window.skillrTestQuestions = [
     "question": "Complete the whole: 2 + ___ = 10.",
     "audioPrompt": "Complete the whole: 2 + ___ = 10.",
     "visual": "A ten-frame-style model with 2 filled counters and 8 empty counters.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A ten-frame-style model with 2 filled counters and 8 empty counters.\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1n02.svg#ac9m1n02-t-008\"></use></svg>",
+    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Complete the whole: 2 + ___ = 10.\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1n02.svg#ac9m1n02-t-008\">\u003c/use>\u003c/svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n02.svg#ac9m1n02-t-008",
-      "alt_text": "A ten-frame-style model with 2 filled counters and 8 empty counters."
+      "alt_text": "Complete the whole: 2 + ___ = 10."
     },
     "answers": [
       "2",
@@ -271,11 +264,11 @@ window.skillrTestQuestions = [
     "question": "What number belongs in the whole box?",
     "audioPrompt": "What number belongs in the whole box?",
     "visual": "A part-part-whole diagram with parts 10 and 23 and an unknown whole.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A part-part-whole diagram with parts 10 and 23 and an unknown whole.\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1n02.svg#ac9m1n02-t-010\"></use></svg>",
+    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"What number belongs in the whole box?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1n02.svg#ac9m1n02-t-010\">\u003c/use>\u003c/svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n02.svg#ac9m1n02-t-010",
-      "alt_text": "A part-part-whole diagram with parts 10 and 23 and an unknown whole."
+      "alt_text": "What number belongs in the whole box?"
     },
     "answers": [
       "33",
@@ -445,11 +438,11 @@ window.skillrTestQuestions = [
     "question": "Ava builds 3 tens and 5 ones but writes 53. Which numeral is correct?",
     "audioPrompt": "Ava builds 3 tens and 5 ones but writes 53. Which numeral is correct?",
     "visual": "A base-ten model showing 3 tens rods and 5 ones dots.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A base-ten model showing 3 tens rods and 5 ones dots.\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1n02.svg#ac9m1n02-t-016\"></use></svg>",
+    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Ava builds 3 tens and 5 ones but writes 53. Which numeral is correct?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1n02.svg#ac9m1n02-t-016\">\u003c/use>\u003c/svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n02.svg#ac9m1n02-t-016",
-      "alt_text": "A base-ten model showing 3 tens rods and 5 ones dots."
+      "alt_text": "Ava builds 3 tens and 5 ones but writes 53. Which numeral is correct?"
     },
     "answers": [
       "35",
@@ -471,15 +464,8 @@ window.skillrTestQuestions = [
     "skill": "match equivalent model",
     "printable": true,
     "type": "single",
-    "question": "Which second model shows the same number as 2 tens and 9 ones?",
-    "audioPrompt": "Which second model shows the same number as 2 tens and 9 ones?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "asset_path": "",
-      "alt_text": ""
-    },
+    "question": "[Show the matching tens-and-ones blocks.] Which second model shows the same number as 2 tens and 9 ones?",
+    "audioPrompt": "[Show the matching tens-and-ones blocks.] Which second model shows the same number as 2 tens and 9 ones?",
     "answers": [
       "3 tens and 9 ones",
       "1 ten and 19 ones",
@@ -558,15 +544,8 @@ window.skillrTestQuestions = [
     "skill": "model to numeral",
     "printable": true,
     "type": "single",
-    "question": "What numeral does this model show?",
-    "audioPrompt": "What numeral does this model show?",
-    "visual": "A base-ten model showing 6 tens rods and 5 ones dots.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A base-ten model showing 6 tens rods and 5 ones dots.\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1n02.svg#ac9m1n02-t-020\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n02.svg#ac9m1n02-t-020",
-      "alt_text": "A base-ten model showing 6 tens rods and 5 ones dots."
-    },
+    "question": "[Show the matching tens-and-ones blocks.] What numeral does this model show?",
+    "audioPrompt": "[Show the matching tens-and-ones blocks.] What numeral does this model show?",
     "answers": [
       "56",
       "65",
@@ -619,11 +598,11 @@ window.skillrTestQuestions = [
     "question": "53 is 5 tens and 3 ones. After exchanging one ten, which partition is equivalent?",
     "audioPrompt": "53 is 5 tens and 3 ones. After exchanging one ten, which partition is equivalent?",
     "visual": "A base-ten model showing 5 tens rods and 3 ones dots.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A base-ten model showing 5 tens rods and 3 ones dots.\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1n02.svg#ac9m1n02-t-022\"></use></svg>",
+    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"53 is 5 tens and 3 ones. After exchanging one ten, which partition is equivalent?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1n02.svg#ac9m1n02-t-022\">\u003c/use>\u003c/svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n02.svg#ac9m1n02-t-022",
-      "alt_text": "A base-ten model showing 5 tens rods and 3 ones dots."
+      "alt_text": "53 is 5 tens and 3 ones. After exchanging one ten, which partition is equivalent?"
     },
     "answers": [
       "4 tens and 13 ones",
@@ -648,11 +627,11 @@ window.skillrTestQuestions = [
     "question": "What number is 1 ten and 10 ones?",
     "audioPrompt": "What number is 1 ten and 10 ones?",
     "visual": "A base-ten model showing 1 tens rods and 10 ones dots.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A base-ten model showing 1 tens rods and 10 ones dots.\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1n02.svg#ac9m1n02-t-023\"></use></svg>",
+    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"What number is 1 ten and 10 ones?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1n02.svg#ac9m1n02-t-023\">\u003c/use>\u003c/svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n02.svg#ac9m1n02-t-023",
-      "alt_text": "A base-ten model showing 1 tens rods and 10 ones dots."
+      "alt_text": "What number is 1 ten and 10 ones?"
     },
     "answers": [
       "10",
@@ -697,5 +676,3 @@ window.skillrTestQuestions = [
     "qualitySchema": "production-v1"
   }
 ];
-window.skillrExamQuestions = window.skillrTestQuestions;
-window.quizQuestions = window.skillrTestQuestions;

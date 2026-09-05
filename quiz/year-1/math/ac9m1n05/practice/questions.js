@@ -10,7 +10,7 @@ window.skillrPracticeQuestions = [
     "question": "Which operation matches this story: 7 apples are joined by 5 more apples?",
     "audioPrompt": "Which operation matches this story: 7 apples are joined by 5 more apples?",
     "visual": "Which operation matches this story: 7 apples are joined by 5 more apples?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Which operation matches this story: 7 apples are joined by 5 more apples?\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1n05.svg#ac9m1n05-p-001\"></use></svg>",
+    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Which operation matches this story: 7 apples are joined by 5 more apples?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1n05.svg#ac9m1n05-p-001\">\u003c/use>\u003c/svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n05.svg#ac9m1n05-p-001",
@@ -68,7 +68,7 @@ window.skillrPracticeQuestions = [
     "question": "Two shelves hold 12 and 8 books. The question asks “how many more?” What should you find?",
     "audioPrompt": "Two shelves hold 12 and 8 books. The question asks “how many more?” What should you find?",
     "visual": "Two shelves hold 12 and 8 books. The question asks “how many more?” What should you find?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Two shelves hold 12 and 8 books. The question asks “how many more?” What should you find?\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1n05.svg#ac9m1n05-p-003\"></use></svg>",
+    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Two shelves hold 12 and 8 books. The question asks “how many more?” What should you find?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1n05.svg#ac9m1n05-p-003\">\u003c/use>\u003c/svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n05.svg#ac9m1n05-p-003",
@@ -123,15 +123,8 @@ window.skillrPracticeQuestions = [
     "skill": "read total bar model",
     "printable": true,
     "type": "single",
-    "question": "The bar model shows parts 6 and 7. What is the whole?",
-    "audioPrompt": "The bar model shows parts 6 and 7. What is the whole?",
-    "visual": "The bar model shows parts 6 and 7. What is the whole?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"The bar model shows parts 6 and 7. What is the whole?\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1n05.svg#ac9m1n05-p-005\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n05.svg#ac9m1n05-p-005",
-      "alt_text": "The bar model shows parts 6 and 7. What is the whole?"
-    },
+    "question": "[Show the matching tens-and-ones blocks.] The bar model shows parts 6 and 7. What is the whole?",
+    "audioPrompt": "[Show the matching tens-and-ones blocks.] The bar model shows parts 6 and 7. What is the whole?",
     "answers": [
       "12",
       "13",
@@ -155,7 +148,7 @@ window.skillrPracticeQuestions = [
     "question": "The whole is 17. One part is 9. What is the missing part?",
     "audioPrompt": "The whole is 17. One part is 9. What is the missing part?",
     "visual": "The whole is 17. One part is 9. What is the missing part?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"The whole is 17. One part is 9. What is the missing part?\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1n05.svg#ac9m1n05-p-006\"></use></svg>",
+    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"The whole is 17. One part is 9. What is the missing part?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1n05.svg#ac9m1n05-p-006\">\u003c/use>\u003c/svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n05.svg#ac9m1n05-p-006",
@@ -184,7 +177,7 @@ window.skillrPracticeQuestions = [
     "question": "A child starts at 8 and makes a jump of 6. Where does the child land?",
     "audioPrompt": "A child starts at 8 and makes a jump of 6. Where does the child land?",
     "visual": "A child starts at 8 and makes a jump of 6. Where does the child land?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A child starts at 8 and makes a jump of 6. Where does the child land?\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1n05.svg#ac9m1n05-p-007\"></use></svg>",
+    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A child starts at 8 and makes a jump of 6. Where does the child land?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1n05.svg#ac9m1n05-p-007\">\u003c/use>\u003c/svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n05.svg#ac9m1n05-p-007",
@@ -213,7 +206,7 @@ window.skillrPracticeQuestions = [
     "question": "A child starts at 16 and jumps back 7. Where does the child land?",
     "audioPrompt": "A child starts at 16 and jumps back 7. Where does the child land?",
     "visual": "A child starts at 16 and jumps back 7. Where does the child land?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A child starts at 16 and jumps back 7. Where does the child land?\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1n05.svg#ac9m1n05-p-008\"></use></svg>",
+    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A child starts at 16 and jumps back 7. Where does the child land?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1n05.svg#ac9m1n05-p-008\">\u003c/use>\u003c/svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n05.svg#ac9m1n05-p-008",
@@ -300,7 +293,7 @@ window.skillrPracticeQuestions = [
     "question": "Leo has 15 blocks. Ana has 9. How many more blocks does Leo have?",
     "audioPrompt": "Leo has 15 blocks. Ana has 9. How many more blocks does Leo have?",
     "visual": "Leo has 15 blocks. Ana has 9. How many more blocks does Leo have?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Leo has 15 blocks. Ana has 9. How many more blocks does Leo have?\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1n05.svg#ac9m1n05-p-011\"></use></svg>",
+    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Leo has 15 blocks. Ana has 9. How many more blocks does Leo have?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1n05.svg#ac9m1n05-p-011\">\u003c/use>\u003c/svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n05.svg#ac9m1n05-p-011",
@@ -474,7 +467,7 @@ window.skillrPracticeQuestions = [
     "question": "What is the total value of the play coins?",
     "audioPrompt": "What is the total value of the play coins?",
     "visual": "What is the total value of the play coins?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"What is the total value of the play coins?\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1n05.svg#ac9m1n05-p-017\"></use></svg>",
+    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"What is the total value of the play coins?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1n05.svg#ac9m1n05-p-017\">\u003c/use>\u003c/svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n05.svg#ac9m1n05-p-017",
@@ -503,11 +496,11 @@ window.skillrPracticeQuestions = [
     "question": "Which two collections pay exactly $8? Choose the group with all the correct answers.",
     "audioPrompt": "Which two collections pay exactly $8? Choose the group with all the correct answers.",
     "visual": "Which two collections pay exactly $8?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Which two collections pay exactly $8?\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1n05.svg#ac9m1n05-p-018\"></use></svg>",
+    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Which two collections pay exactly $8? Choose the group with all the correct answers.\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1n05.svg#ac9m1n05-p-018\">\u003c/use>\u003c/svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n05.svg#ac9m1n05-p-018",
-      "alt_text": "Which two collections pay exactly $8?"
+      "alt_text": "Which two collections pay exactly $8? Choose the group with all the correct answers."
     },
     "answers": [
       "$2 + $2 + $2 + $2",
@@ -532,7 +525,7 @@ window.skillrPracticeQuestions = [
     "question": "A book costs $6 and a puzzle costs $7. What is the total cost?",
     "audioPrompt": "A book costs $6 and a puzzle costs $7. What is the total cost?",
     "visual": "A book costs $6 and a puzzle costs $7. What is the total cost?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A book costs $6 and a puzzle costs $7. What is the total cost?\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1n05.svg#ac9m1n05-p-019\"></use></svg>",
+    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A book costs $6 and a puzzle costs $7. What is the total cost?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1n05.svg#ac9m1n05-p-019\">\u003c/use>\u003c/svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n05.svg#ac9m1n05-p-019",
@@ -561,7 +554,7 @@ window.skillrPracticeQuestions = [
     "question": "Mia has $15 and spends $6. How much money remains?",
     "audioPrompt": "Mia has $15 and spends $6. How much money remains?",
     "visual": "Mia has $15 and spends $6. How much money remains?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Mia has $15 and spends $6. How much money remains?\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1n05.svg#ac9m1n05-p-020\"></use></svg>",
+    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Mia has $15 and spends $6. How much money remains?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1n05.svg#ac9m1n05-p-020\">\u003c/use>\u003c/svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n05.svg#ac9m1n05-p-020",
@@ -590,7 +583,7 @@ window.skillrPracticeQuestions = [
     "question": "A kite costs $12 and a ball costs $8. How much more does the kite cost?",
     "audioPrompt": "A kite costs $12 and a ball costs $8. How much more does the kite cost?",
     "visual": "A kite costs $12 and a ball costs $8. How much more does the kite cost?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A kite costs $12 and a ball costs $8. How much more does the kite cost?\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1n05.svg#ac9m1n05-p-021\"></use></svg>",
+    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A kite costs $12 and a ball costs $8. How much more does the kite cost?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1n05.svg#ac9m1n05-p-021\">\u003c/use>\u003c/svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n05.svg#ac9m1n05-p-021",
@@ -619,7 +612,7 @@ window.skillrPracticeQuestions = [
     "question": "A toy costs $14. Noah has $10 and two $2 coins. Does he have enough?",
     "audioPrompt": "A toy costs $14. Noah has $10 and two $2 coins. Does he have enough?",
     "visual": "A toy costs $14. Noah has $10 and two $2 coins. Does he have enough?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A toy costs $14. Noah has $10 and two $2 coins. Does he have enough?\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1n05.svg#ac9m1n05-p-022\"></use></svg>",
+    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A toy costs $14. Noah has $10 and two $2 coins. Does he have enough?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1n05.svg#ac9m1n05-p-022\">\u003c/use>\u003c/svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n05.svg#ac9m1n05-p-022",
@@ -648,7 +641,7 @@ window.skillrPracticeQuestions = [
     "question": "Which representation best shows a whole of 16 split into 9 and a missing part?",
     "audioPrompt": "Which representation best shows a whole of 16 split into 9 and a missing part?",
     "visual": "Which representation best shows a whole of 16 split into 9 and a missing part?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Which representation best shows a whole of 16 split into 9 and a missing part?\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1n05.svg#ac9m1n05-p-023\"></use></svg>",
+    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Which representation best shows a whole of 16 split into 9 and a missing part?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1n05.svg#ac9m1n05-p-023\">\u003c/use>\u003c/svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n05.svg#ac9m1n05-p-023",
@@ -677,11 +670,11 @@ window.skillrPracticeQuestions = [
     "question": "Put the problem-solving steps in order. Which order is correct?",
     "audioPrompt": "Put the problem-solving steps in order. Which order is correct?",
     "visual": "Put the problem-solving steps in order.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Put the problem-solving steps in order.\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1n05.svg#ac9m1n05-p-024\"></use></svg>",
+    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Put the problem-solving steps in order. Which order is correct?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1n05.svg#ac9m1n05-p-024\">\u003c/use>\u003c/svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n05.svg#ac9m1n05-p-024",
-      "alt_text": "Put the problem-solving steps in order."
+      "alt_text": "Put the problem-solving steps in order. Which order is correct?"
     },
     "answers": [
       "Calculate and check → Read what changes → Answer with the correct unit → Choose an operation and model",
@@ -793,7 +786,7 @@ window.skillrPracticeQuestions = [
     "question": "A child has $20. They buy a game for $13. How much remains?",
     "audioPrompt": "A child has $20. They buy a game for $13. How much remains?",
     "visual": "A child has $20. They buy a game for $13. How much remains?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A child has $20. They buy a game for $13. How much remains?\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1n05.svg#ac9m1n05-p-028\"></use></svg>",
+    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A child has $20. They buy a game for $13. How much remains?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1n05.svg#ac9m1n05-p-028\">\u003c/use>\u003c/svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n05.svg#ac9m1n05-p-028",
@@ -811,6 +804,375 @@ window.skillrPracticeQuestions = [
       "hint": "Use the picture or numbers to test each answer, then choose the one that matches exactly."
     },
     "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m1n05-p-029",
+    "curriculumCode": "AC9M1N05",
+    "bank": "practice",
+    "skill": "additive problem solving and money",
+    "printable": true,
+    "type": "single",
+    "question": "Ava has 5 stickers and gets 2 more. How many stickers does Ava have?",
+    "audioPrompt": "Ava has 5 stickers and gets 2 more. How many stickers does Ava have?",
+    "answers": [
+      "9",
+      "7",
+      "8",
+      "6"
+    ],
+    "correct": 1,
+    "explanation": "7 is the correct answer.",
+    "qualitySchema": "reviewed-year1-maths-v1"
+  },
+  {
+    "id": "ac9m1n05-p-030",
+    "curriculumCode": "AC9M1N05",
+    "bank": "practice",
+    "skill": "additive problem solving and money",
+    "printable": true,
+    "type": "single",
+    "question": "[Show one $1 coin and one $2 coin.] How much money is shown?",
+    "audioPrompt": "[Show one $1 coin and one $2 coin.] How much money is shown?",
+    "answers": [
+      "$4",
+      "$3",
+      "$2"
+    ],
+    "correct": 1,
+    "explanation": "$3 is the correct answer.",
+    "qualitySchema": "reviewed-year1-maths-v1"
+  },
+  {
+    "id": "ac9m1n05-p-031",
+    "curriculumCode": "AC9M1N05",
+    "bank": "practice",
+    "skill": "additive problem solving and money",
+    "printable": true,
+    "type": "single",
+    "question": "Ben has 7 apples and picks 4 more. How many apples does Ben have?",
+    "audioPrompt": "Ben has 7 apples and picks 4 more. How many apples does Ben have?",
+    "answers": [
+      "13",
+      "11",
+      "12",
+      "10"
+    ],
+    "correct": 1,
+    "explanation": "11 is the correct answer.",
+    "qualitySchema": "reviewed-year1-maths-v1"
+  },
+  {
+    "id": "ac9m1n05-p-032",
+    "curriculumCode": "AC9M1N05",
+    "bank": "practice",
+    "skill": "additive problem solving and money",
+    "printable": true,
+    "type": "single",
+    "question": "[Show two $2 coins.] How much money is shown?",
+    "audioPrompt": "[Show two $2 coins.] How much money is shown?",
+    "answers": [
+      "$5",
+      "$3",
+      "$4"
+    ],
+    "correct": 2,
+    "explanation": "$4 is the correct answer.",
+    "qualitySchema": "reviewed-year1-maths-v1"
+  },
+  {
+    "id": "ac9m1n05-p-033",
+    "curriculumCode": "AC9M1N05",
+    "bank": "practice",
+    "skill": "additive problem solving and money",
+    "printable": true,
+    "type": "single",
+    "question": "Mia has 9 blocks and finds 6 more. How many blocks does Mia have?",
+    "audioPrompt": "Mia has 9 blocks and finds 6 more. How many blocks does Mia have?",
+    "answers": [
+      "17",
+      "14",
+      "16",
+      "15"
+    ],
+    "correct": 3,
+    "explanation": "15 is the correct answer.",
+    "qualitySchema": "reviewed-year1-maths-v1"
+  },
+  {
+    "id": "ac9m1n05-p-034",
+    "curriculumCode": "AC9M1N05",
+    "bank": "practice",
+    "skill": "additive problem solving and money",
+    "printable": true,
+    "type": "single",
+    "question": "[Show three $1 coins.] How much money is shown?",
+    "audioPrompt": "[Show three $1 coins.] How much money is shown?",
+    "answers": [
+      "$4",
+      "$3",
+      "$2"
+    ],
+    "correct": 1,
+    "explanation": "$3 is the correct answer.",
+    "qualitySchema": "reviewed-year1-maths-v1"
+  },
+  {
+    "id": "ac9m1n05-p-035",
+    "curriculumCode": "AC9M1N05",
+    "bank": "practice",
+    "skill": "additive problem solving and money",
+    "printable": true,
+    "type": "single",
+    "question": "Tom has 11 cards and gets 3 more. How many cards does Tom have?",
+    "audioPrompt": "Tom has 11 cards and gets 3 more. How many cards does Tom have?",
+    "answers": [
+      "14",
+      "13",
+      "16",
+      "15"
+    ],
+    "correct": 0,
+    "explanation": "14 is the correct answer.",
+    "qualitySchema": "reviewed-year1-maths-v1"
+  },
+  {
+    "id": "ac9m1n05-p-036",
+    "curriculumCode": "AC9M1N05",
+    "bank": "practice",
+    "skill": "additive problem solving and money",
+    "printable": true,
+    "type": "single",
+    "question": "[Show one $2 coin and two $1 coins.] How much money is shown?",
+    "audioPrompt": "[Show one $2 coin and two $1 coins.] How much money is shown?",
+    "answers": [
+      "$5",
+      "$3",
+      "$4"
+    ],
+    "correct": 2,
+    "explanation": "$4 is the correct answer.",
+    "qualitySchema": "reviewed-year1-maths-v1"
+  },
+  {
+    "id": "ac9m1n05-p-037",
+    "curriculumCode": "AC9M1N05",
+    "bank": "practice",
+    "skill": "additive problem solving and money",
+    "printable": true,
+    "type": "single",
+    "question": "Zoe has 5 shells and finds 5 more. How many shells does Zoe have?",
+    "audioPrompt": "Zoe has 5 shells and finds 5 more. How many shells does Zoe have?",
+    "answers": [
+      "11",
+      "12",
+      "9",
+      "10"
+    ],
+    "correct": 3,
+    "explanation": "10 is the correct answer.",
+    "qualitySchema": "reviewed-year1-maths-v1"
+  },
+  {
+    "id": "ac9m1n05-p-038",
+    "curriculumCode": "AC9M1N05",
+    "bank": "practice",
+    "skill": "additive problem solving and money",
+    "printable": true,
+    "type": "single",
+    "question": "[Show two $2 coins and one $1 coin.] How much money is shown?",
+    "audioPrompt": "[Show two $2 coins and one $1 coin.] How much money is shown?",
+    "answers": [
+      "$5",
+      "$6",
+      "$4"
+    ],
+    "correct": 0,
+    "explanation": "$5 is the correct answer.",
+    "qualitySchema": "reviewed-year1-maths-v1"
+  },
+  {
+    "id": "ac9m1n05-p-039",
+    "curriculumCode": "AC9M1N05",
+    "bank": "practice",
+    "skill": "additive problem solving and money",
+    "printable": true,
+    "type": "single",
+    "question": "Max has 7 toy cars and gets 2 more. How many toy cars does Max have?",
+    "audioPrompt": "Max has 7 toy cars and gets 2 more. How many toy cars does Max have?",
+    "answers": [
+      "10",
+      "8",
+      "9",
+      "11"
+    ],
+    "correct": 2,
+    "explanation": "9 is the correct answer.",
+    "qualitySchema": "reviewed-year1-maths-v1"
+  },
+  {
+    "id": "ac9m1n05-p-040",
+    "curriculumCode": "AC9M1N05",
+    "bank": "practice",
+    "skill": "additive problem solving and money",
+    "printable": true,
+    "type": "single",
+    "question": "[Show four $1 coins.] How much money is shown?",
+    "audioPrompt": "[Show four $1 coins.] How much money is shown?",
+    "answers": [
+      "$5",
+      "$4",
+      "$3"
+    ],
+    "correct": 1,
+    "explanation": "$4 is the correct answer.",
+    "qualitySchema": "reviewed-year1-maths-v1"
+  },
+  {
+    "id": "ac9m1n05-p-041",
+    "curriculumCode": "AC9M1N05",
+    "bank": "practice",
+    "skill": "additive problem solving and money",
+    "printable": true,
+    "type": "single",
+    "question": "Kim has 9 beads and adds 4 more. How many beads does Kim have?",
+    "audioPrompt": "Kim has 9 beads and adds 4 more. How many beads does Kim have?",
+    "answers": [
+      "14",
+      "12",
+      "15",
+      "13"
+    ],
+    "correct": 3,
+    "explanation": "13 is the correct answer.",
+    "qualitySchema": "reviewed-year1-maths-v1"
+  },
+  {
+    "id": "ac9m1n05-p-042",
+    "curriculumCode": "AC9M1N05",
+    "bank": "practice",
+    "skill": "additive problem solving and money",
+    "printable": true,
+    "type": "single",
+    "question": "[Show three $2 coins.] How much money is shown?",
+    "audioPrompt": "[Show three $2 coins.] How much money is shown?",
+    "answers": [
+      "$6",
+      "$5",
+      "$7"
+    ],
+    "correct": 0,
+    "explanation": "$6 is the correct answer.",
+    "qualitySchema": "reviewed-year1-maths-v1"
+  },
+  {
+    "id": "ac9m1n05-p-043",
+    "curriculumCode": "AC9M1N05",
+    "bank": "practice",
+    "skill": "additive problem solving and money",
+    "printable": true,
+    "type": "single",
+    "question": "Jay has 11 books and gets 6 more. How many books does Jay have?",
+    "audioPrompt": "Jay has 11 books and gets 6 more. How many books does Jay have?",
+    "answers": [
+      "19",
+      "17",
+      "18",
+      "16"
+    ],
+    "correct": 1,
+    "explanation": "17 is the correct answer.",
+    "qualitySchema": "reviewed-year1-maths-v1"
+  },
+  {
+    "id": "ac9m1n05-p-044",
+    "curriculumCode": "AC9M1N05",
+    "bank": "practice",
+    "skill": "additive problem solving and money",
+    "printable": true,
+    "type": "single",
+    "question": "[Show one $2 coin and three $1 coins.] How much money is shown?",
+    "audioPrompt": "[Show one $2 coin and three $1 coins.] How much money is shown?",
+    "answers": [
+      "$6",
+      "$4",
+      "$5"
+    ],
+    "correct": 2,
+    "explanation": "$5 is the correct answer.",
+    "qualitySchema": "reviewed-year1-maths-v1"
+  },
+  {
+    "id": "ac9m1n05-p-045",
+    "curriculumCode": "AC9M1N05",
+    "bank": "practice",
+    "skill": "additive problem solving and money",
+    "printable": true,
+    "type": "single",
+    "question": "Amy has 5 flowers and picks 3 more. How many flowers does Amy have?",
+    "audioPrompt": "Amy has 5 flowers and picks 3 more. How many flowers does Amy have?",
+    "answers": [
+      "10",
+      "9",
+      "7",
+      "8"
+    ],
+    "correct": 3,
+    "explanation": "8 is the correct answer.",
+    "qualitySchema": "reviewed-year1-maths-v1"
+  },
+  {
+    "id": "ac9m1n05-p-046",
+    "curriculumCode": "AC9M1N05",
+    "bank": "practice",
+    "skill": "additive problem solving and money",
+    "printable": true,
+    "type": "single",
+    "question": "[Show two $2 coins and two $1 coins.] How much money is shown?",
+    "audioPrompt": "[Show two $2 coins and two $1 coins.] How much money is shown?",
+    "answers": [
+      "$6",
+      "$7",
+      "$5"
+    ],
+    "correct": 0,
+    "explanation": "$6 is the correct answer.",
+    "qualitySchema": "reviewed-year1-maths-v1"
+  },
+  {
+    "id": "ac9m1n05-p-047",
+    "curriculumCode": "AC9M1N05",
+    "bank": "practice",
+    "skill": "additive problem solving and money",
+    "printable": true,
+    "type": "single",
+    "question": "Leo has 7 buttons and finds 5 more. How many buttons does Leo have?",
+    "audioPrompt": "Leo has 7 buttons and finds 5 more. How many buttons does Leo have?",
+    "answers": [
+      "13",
+      "11",
+      "12",
+      "14"
+    ],
+    "correct": 2,
+    "explanation": "12 is the correct answer.",
+    "qualitySchema": "reviewed-year1-maths-v1"
+  },
+  {
+    "id": "ac9m1n05-p-048",
+    "curriculumCode": "AC9M1N05",
+    "bank": "practice",
+    "skill": "additive problem solving and money",
+    "printable": true,
+    "type": "single",
+    "question": "[Show one $1 coin.] How much money is shown?",
+    "audioPrompt": "[Show one $1 coin.] How much money is shown?",
+    "answers": [
+      "$0",
+      "$1",
+      "$2"
+    ],
+    "correct": 1,
+    "explanation": "$1 is the correct answer.",
+    "qualitySchema": "reviewed-year1-maths-v1"
   }
 ];
-window.quizQuestions = window.skillrPracticeQuestions;

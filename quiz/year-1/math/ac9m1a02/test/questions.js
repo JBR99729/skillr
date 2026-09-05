@@ -7,14 +7,14 @@ window.skillrTestQuestions = [
     "skill": "count repeats",
     "printable": true,
     "type": "single",
-    "question": "Sam studies this example. How many complete repeating units are shown?",
-    "audioPrompt": "Sam studies this example. How many complete repeating units are shown?",
+    "question": "How many complete repeating units are shown?",
+    "audioPrompt": "How many complete repeating units are shown?",
     "visual": "A colourful pattern repeats the same smallest unit again and again. Specific example: A A B A A B A A B A A B This is test example 1.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A colourful pattern repeats the same smallest unit again and again. Specific example: A A B A A B A A B A A B This is test example 1.\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1a02.svg#ac9m1a02-t-001\"></use></svg>",
+    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"How many complete repeating units are shown?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1a02.svg#ac9m1a02-t-001\">\u003c/use>\u003c/svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1a02.svg#ac9m1a02-t-001",
-      "alt_text": "A colourful pattern repeats the same smallest unit again and again. Specific example: A A B A A B A A B A A B This is test example 1."
+      "alt_text": "How many complete repeating units are shown?"
     },
     "answers": [
       "4",
@@ -36,14 +36,14 @@ window.skillrTestQuestions = [
     "skill": "arrange repeating unit",
     "printable": true,
     "type": "single",
-    "question": "Omar studies this example. Arrange one complete unit for the pattern 1 2 3 1 2 3. Which order is correct?",
-    "audioPrompt": "Omar studies this example. Arrange one complete unit for the pattern 1 2 3 1 2 3. Which order is correct?",
+    "question": "Arrange one complete unit for the pattern 1 2 3 1 2 3. Which order is correct?",
+    "audioPrompt": "Arrange one complete unit for the pattern 1 2 3 1 2 3. Which order is correct?",
     "visual": "A colourful pattern repeats the same smallest unit again and again. Specific example: Repeating Patterns: arrange repeating unit This is test example 2.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A colourful pattern repeats the same smallest unit again and again. Specific example: Repeating Patterns: arrange repeating unit This is test example 2.\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1a02.svg#ac9m1a02-t-002\"></use></svg>",
+    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Arrange one complete unit for the pattern 1 2 3 1 2 3. Which order is correct?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1a02.svg#ac9m1a02-t-002\">\u003c/use>\u003c/svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1a02.svg#ac9m1a02-t-002",
-      "alt_text": "A colourful pattern repeats the same smallest unit again and again. Specific example: Repeating Patterns: arrange repeating unit This is test example 2."
+      "alt_text": "Arrange one complete unit for the pattern 1 2 3 1 2 3. Which order is correct?"
     },
     "answers": [
       "2 → 3 → 1",
@@ -65,14 +65,14 @@ window.skillrTestQuestions = [
     "skill": "select repeating patterns",
     "printable": true,
     "type": "single",
-    "question": "Lina studies this example. Select every sequence that repeats a complete unit. Choose the group with all the correct answers.",
-    "audioPrompt": "Lina studies this example. Select every sequence that repeats a complete unit. Choose the group with all the correct answers.",
+    "question": "Select every sequence that repeats a complete unit. Choose the group with all the correct answers.",
+    "audioPrompt": "Select every sequence that repeats a complete unit. Choose the group with all the correct answers.",
     "visual": "A colourful pattern repeats the same smallest unit again and again. This is test example 3.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A colourful pattern repeats the same smallest unit again and again. This is test example 3.\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1a02.svg#ac9m1a02-t-003\"></use></svg>",
+    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Select every sequence that repeats a complete unit. Choose the group with all the correct answers.\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1a02.svg#ac9m1a02-t-003\">\u003c/use>\u003c/svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1a02.svg#ac9m1a02-t-003",
-      "alt_text": "A colourful pattern repeats the same smallest unit again and again. This is test example 3."
+      "alt_text": "Select every sequence that repeats a complete unit. Choose the group with all the correct answers."
     },
     "answers": [
       "red blue red blue, 1 1 2 1 1 2",
@@ -94,14 +94,14 @@ window.skillrTestQuestions = [
     "skill": "identify repeating unit",
     "printable": true,
     "type": "single",
-    "question": "Sam studies this example. What is the smallest repeating unit in triangle, circle, square, triangle, circle, square?",
-    "audioPrompt": "Sam studies this example. What is the smallest repeating unit in triangle, circle, square, triangle, circle, square?",
+    "question": "What is the smallest repeating unit in triangle, circle, square, triangle, circle, square?",
+    "audioPrompt": "What is the smallest repeating unit in triangle, circle, square, triangle, circle, square?",
     "visual": "A colourful pattern repeats the same smallest unit again and again. Specific example: Repeating Patterns: identify repeating unit This is test example 4.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A colourful pattern repeats the same smallest unit again and again. Specific example: Repeating Patterns: identify repeating unit This is test example 4.\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1a02.svg#ac9m1a02-t-004\"></use></svg>",
+    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"What is the smallest repeating unit in triangle, circle, square, triangle, circle, square?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1a02.svg#ac9m1a02-t-004\">\u003c/use>\u003c/svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1a02.svg#ac9m1a02-t-004",
-      "alt_text": "A colourful pattern repeats the same smallest unit again and again. Specific example: Repeating Patterns: identify repeating unit This is test example 4."
+      "alt_text": "What is the smallest repeating unit in triangle, circle, square, triangle, circle, square?"
     },
     "answers": [
       "triangle, circle, square",
@@ -123,14 +123,14 @@ window.skillrTestQuestions = [
     "skill": "continue abc pattern",
     "printable": true,
     "type": "single",
-    "question": "Arlo studies this example. Continue: A B C A B C ___",
-    "audioPrompt": "Arlo studies this example. Continue: A B C A B C ___",
+    "question": "Continue: A B C A B C ___",
+    "audioPrompt": "Continue: A B C A B C ___",
     "visual": "A colourful pattern repeats the same smallest unit again and again. Specific example: Repeating Patterns: continue ABC pattern This is test example 5.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A colourful pattern repeats the same smallest unit again and again. Specific example: Repeating Patterns: continue ABC pattern This is test example 5.\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1a02.svg#ac9m1a02-t-005\"></use></svg>",
+    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Continue: A B C A B C ___\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1a02.svg#ac9m1a02-t-005\">\u003c/use>\u003c/svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1a02.svg#ac9m1a02-t-005",
-      "alt_text": "A colourful pattern repeats the same smallest unit again and again. Specific example: Repeating Patterns: continue ABC pattern This is test example 5."
+      "alt_text": "Continue: A B C A B C ___"
     },
     "answers": [
       "B",
@@ -152,14 +152,14 @@ window.skillrTestQuestions = [
     "skill": "create or select a pattern",
     "printable": true,
     "type": "single",
-    "question": "Lina studies this example. Which choice could be continued using one repeating rule?",
-    "audioPrompt": "Lina studies this example. Which choice could be continued using one repeating rule?",
+    "question": "Which choice could be continued using one repeating rule?",
+    "audioPrompt": "Which choice could be continued using one repeating rule?",
     "visual": "A colourful pattern repeats the same smallest unit again and again. This is test example 6.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A colourful pattern repeats the same smallest unit again and again. This is test example 6.\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1a02.svg#ac9m1a02-t-006\"></use></svg>",
+    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Which choice could be continued using one repeating rule?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1a02.svg#ac9m1a02-t-006\">\u003c/use>\u003c/svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1a02.svg#ac9m1a02-t-006",
-      "alt_text": "A colourful pattern repeats the same smallest unit again and again. This is test example 6."
+      "alt_text": "Which choice could be continued using one repeating rule?"
     },
     "answers": [
       "A B C D A",
@@ -184,11 +184,11 @@ window.skillrTestQuestions = [
     "question": "Which statement is correct?",
     "audioPrompt": "Which statement is correct?",
     "visual": "A colourful pattern repeats the same smallest unit again and again. Specific example: Repeating Patterns: whole-sequence misconception This is test example 7.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A colourful pattern repeats the same smallest unit again and again. Specific example: Repeating Patterns: whole-sequence misconception This is test example 7.\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1a02.svg#ac9m1a02-t-007\"></use></svg>",
+    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Which statement is correct?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1a02.svg#ac9m1a02-t-007\">\u003c/use>\u003c/svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1a02.svg#ac9m1a02-t-007",
-      "alt_text": "A colourful pattern repeats the same smallest unit again and again. Specific example: Repeating Patterns: whole-sequence misconception This is test example 7."
+      "alt_text": "Which statement is correct?"
     },
     "answers": [
       "A shorter unit, 1 2 2, repeats to make the sequence.",
@@ -210,14 +210,14 @@ window.skillrTestQuestions = [
     "skill": "continue abb pattern",
     "printable": true,
     "type": "single",
-    "question": "Ava studies this example. Complete: ▲ □ □ ▲ □ □ ▲ □ ___",
-    "audioPrompt": "Ava studies this example. Complete: ▲ □ □ ▲ □ □ ▲ □ ___",
+    "question": "Complete: ▲ □ □ ▲ □ □ ▲ □ ___",
+    "audioPrompt": "Complete: ▲ □ □ ▲ □ □ ▲ □ ___",
     "visual": "A colourful pattern repeats the same smallest unit again and again. Specific example: Repeating Patterns: continue ABB pattern This is test example 8.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A colourful pattern repeats the same smallest unit again and again. Specific example: Repeating Patterns: continue ABB pattern This is test example 8.\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1a02.svg#ac9m1a02-t-008\"></use></svg>",
+    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Complete: ▲ □ □ ▲ □ □ ▲ □ ___\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1a02.svg#ac9m1a02-t-008\">\u003c/use>\u003c/svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1a02.svg#ac9m1a02-t-008",
-      "alt_text": "A colourful pattern repeats the same smallest unit again and again. Specific example: Repeating Patterns: continue ABB pattern This is test example 8."
+      "alt_text": "Complete: ▲ □ □ ▲ □ □ ▲ □ ___"
     },
     "answers": [
       "▲",
@@ -239,14 +239,14 @@ window.skillrTestQuestions = [
     "skill": "missing inside pattern",
     "printable": true,
     "type": "single",
-    "question": "Arlo studies this example. Which item fills the gap in ▲ ○ ___ ○ ▲ ○?",
-    "audioPrompt": "Arlo studies this example. Which item fills the gap in ▲ ○ ___ ○ ▲ ○?",
+    "question": "Which item fills the gap in ▲ ○ ___ ○ ▲ ○?",
+    "audioPrompt": "Which item fills the gap in ▲ ○ ___ ○ ▲ ○?",
     "visual": "A colourful pattern repeats the same smallest unit again and again. This is test example 9.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A colourful pattern repeats the same smallest unit again and again. This is test example 9.\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1a02.svg#ac9m1a02-t-009\"></use></svg>",
+    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Which item fills the gap in ▲ ○ ___ ○ ▲ ○?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1a02.svg#ac9m1a02-t-009\">\u003c/use>\u003c/svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1a02.svg#ac9m1a02-t-009",
-      "alt_text": "A colourful pattern repeats the same smallest unit again and again. This is test example 9."
+      "alt_text": "Which item fills the gap in ▲ ○ ___ ○ ▲ ○?"
     },
     "answers": [
       "○",
@@ -268,14 +268,14 @@ window.skillrTestQuestions = [
     "skill": "continue ab pattern",
     "printable": true,
     "type": "single",
-    "question": "Sam studies this example. What comes next: ▲ ○ ▲ ○ ▲ ___?",
-    "audioPrompt": "Sam studies this example. What comes next: ▲ ○ ▲ ○ ▲ ___?",
+    "question": "What comes next: ▲ ○ ▲ ○ ▲ ___?",
+    "audioPrompt": "What comes next: ▲ ○ ▲ ○ ▲ ___?",
     "visual": "A colourful pattern repeats the same smallest unit again and again. Specific example: Repeating Patterns: continue AB pattern This is test example 10.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A colourful pattern repeats the same smallest unit again and again. Specific example: Repeating Patterns: continue AB pattern This is test example 10.\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1a02.svg#ac9m1a02-t-010\"></use></svg>",
+    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"What comes next: ▲ ○ ▲ ○ ▲ ___?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1a02.svg#ac9m1a02-t-010\">\u003c/use>\u003c/svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1a02.svg#ac9m1a02-t-010",
-      "alt_text": "A colourful pattern repeats the same smallest unit again and again. Specific example: Repeating Patterns: continue AB pattern This is test example 10."
+      "alt_text": "What comes next: ▲ ○ ▲ ○ ▲ ___?"
     },
     "answers": [
       "○",
@@ -297,14 +297,14 @@ window.skillrTestQuestions = [
     "skill": "continue aab pattern",
     "printable": true,
     "type": "single",
-    "question": "Mia studies this example. What comes next: A A B A A B A ___?",
-    "audioPrompt": "Mia studies this example. What comes next: A A B A A B A ___?",
+    "question": "What comes next: A A B A A B A ___?",
+    "audioPrompt": "What comes next: A A B A A B A ___?",
     "visual": "A colourful pattern repeats the same smallest unit again and again. Specific example: Repeating Patterns: continue AAB pattern This is test example 11.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A colourful pattern repeats the same smallest unit again and again. Specific example: Repeating Patterns: continue AAB pattern This is test example 11.\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1a02.svg#ac9m1a02-t-011\"></use></svg>",
+    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"What comes next: A A B A A B A ___?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1a02.svg#ac9m1a02-t-011\">\u003c/use>\u003c/svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1a02.svg#ac9m1a02-t-011",
-      "alt_text": "A colourful pattern repeats the same smallest unit again and again. Specific example: Repeating Patterns: continue AAB pattern This is test example 11."
+      "alt_text": "What comes next: A A B A A B A ___?"
     },
     "answers": [
       "B",
@@ -326,14 +326,14 @@ window.skillrTestQuestions = [
     "skill": "spot pattern break",
     "printable": true,
     "type": "single",
-    "question": "Mia studies this example. Which item breaks the AB pattern: 🔴 🔵 🔴 🟡 🔴 🔵?",
-    "audioPrompt": "Mia studies this example. Which item breaks the AB pattern: 🔴 🔵 🔴 🟡 🔴 🔵?",
+    "question": "Which item breaks the AB pattern: 🔴 🔵 🔴 🟡 🔴 🔵?",
+    "audioPrompt": "Which item breaks the AB pattern: 🔴 🔵 🔴 🟡 🔴 🔵?",
     "visual": "A colourful pattern repeats the same smallest unit again and again. This is test example 12.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A colourful pattern repeats the same smallest unit again and again. This is test example 12.\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1a02.svg#ac9m1a02-t-012\"></use></svg>",
+    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Which item breaks the AB pattern: 🔴 🔵 🔴 🟡 🔴 🔵?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1a02.svg#ac9m1a02-t-012\">\u003c/use>\u003c/svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1a02.svg#ac9m1a02-t-012",
-      "alt_text": "A colourful pattern repeats the same smallest unit again and again. This is test example 12."
+      "alt_text": "Which item breaks the AB pattern: 🔴 🔵 🔴 🟡 🔴 🔵?"
     },
     "answers": [
       "🔴",
@@ -465,5 +465,3 @@ window.skillrTestQuestions = [
     "qualitySchema": "production-v1"
   }
 ];
-window.skillrExamQuestions = window.skillrTestQuestions;
-window.quizQuestions = window.skillrTestQuestions;

@@ -65,15 +65,8 @@ window.skillrPracticeQuestions = [
     "skill": "read place value model",
     "printable": true,
     "type": "single",
-    "question": "What number is shown by the place-value model?",
-    "audioPrompt": "What number is shown by the place-value model?",
-    "visual": "A base-ten model showing 2 tens rods and 8 ones dots.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A base-ten model showing 2 tens rods and 8 ones dots.\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1n01.svg#ac9m1n01-p-003\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n01.svg#ac9m1n01-p-003",
-      "alt_text": "A base-ten model showing 2 tens rods and 8 ones dots."
-    },
+    "question": "[Show the matching tens-and-ones blocks.] What number is shown by the place-value model?",
+    "audioPrompt": "[Show the matching tens-and-ones blocks.] What number is shown by the place-value model?",
     "answers": [
       "82",
       "38",
@@ -126,11 +119,11 @@ window.skillrPracticeQuestions = [
     "question": "Which number belongs in the blank?",
     "audioPrompt": "Which number belongs in the blank?",
     "visual": "A number sequence showing 33 , 34 , a blank , 36 , 37.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A number sequence showing 33 , 34 , a blank , 36 , 37.\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1n01.svg#ac9m1n01-p-005\"></use></svg>",
+    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Which number belongs in the blank?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1n01.svg#ac9m1n01-p-005\">\u003c/use>\u003c/svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n01.svg#ac9m1n01-p-005",
-      "alt_text": "A number sequence showing 33 , 34 , a blank , 36 , 37."
+      "alt_text": "Which number belongs in the blank?"
     },
     "answers": [
       "34",
@@ -152,15 +145,8 @@ window.skillrPracticeQuestions = [
     "skill": "vertical chart pattern",
     "printable": true,
     "type": "single",
-    "question": "The numbers are from one column of a hundreds chart. What belongs in the blank?",
-    "audioPrompt": "The numbers are from one column of a hundreds chart. What belongs in the blank?",
-    "visual": "A vertical hundreds-chart column with 51, 61, ___, 81, including one blank cell.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A vertical hundreds-chart column with 51, 61, ___, 81, including one blank cell.\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1n01.svg#ac9m1n01-p-006\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n01.svg#ac9m1n01-p-006",
-      "alt_text": "A vertical hundreds-chart column with 51, 61, ___, 81, including one blank cell."
-    },
+    "question": "[Show the stated section of a hundreds chart.] The numbers are from one column of a hundreds chart. What belongs in the blank?",
+    "audioPrompt": "[Show the stated section of a hundreds chart.] The numbers are from one column of a hundreds chart. What belongs in the blank?",
     "answers": [
       "61",
       "81",
@@ -297,15 +283,8 @@ window.skillrPracticeQuestions = [
     "skill": "hundreds chart movement",
     "printable": true,
     "type": "single",
-    "question": "On a standard hundreds chart, what number is directly below 53?",
-    "audioPrompt": "On a standard hundreds chart, what number is directly below 53?",
-    "visual": "A section of a hundreds chart containing 50, 51, 52, 53, 54, 60, 61, 62, 63, 64, 70, 71, 72, 73, 74.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A section of a hundreds chart containing 50, 51, 52, 53, 54, 60, 61, 62, 63, 64, 70, 71, 72, 73, 74.\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1n01.svg#ac9m1n01-p-011\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n01.svg#ac9m1n01-p-011",
-      "alt_text": "A section of a hundreds chart containing 50, 51, 52, 53, 54, 60, 61, 62, 63, 64, 70, 71, 72, 73, 74."
-    },
+    "question": "[Show the stated section of a hundreds chart.] On a standard hundreds chart, what number is directly below 53?",
+    "audioPrompt": "[Show the stated section of a hundreds chart.] On a standard hundreds chart, what number is directly below 53?",
     "answers": [
       "53",
       "63",
@@ -329,11 +308,11 @@ window.skillrPracticeQuestions = [
     "question": "Complete the counting sequence.",
     "audioPrompt": "Complete the counting sequence.",
     "visual": "A number sequence showing 102 , 101 , a blank , 99 , 98.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A number sequence showing 102 , 101 , a blank , 99 , 98.\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1n01.svg#ac9m1n01-p-012\"></use></svg>",
+    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Complete the counting sequence.\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1n01.svg#ac9m1n01-p-012\">\u003c/use>\u003c/svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n01.svg#ac9m1n01-p-012",
-      "alt_text": "A number sequence showing 102 , 101 , a blank , 99 , 98."
+      "alt_text": "Complete the counting sequence."
     },
     "answers": [
       "99",
@@ -358,11 +337,11 @@ window.skillrPracticeQuestions = [
     "question": "Start at 37 and count back 3. Where do you finish?",
     "audioPrompt": "Start at 37 and count back 3. Where do you finish?",
     "visual": "A number sequence showing 37 , 36 , 35 , a blank.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A number sequence showing 37 , 36 , 35 , a blank.\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1n01.svg#ac9m1n01-p-013\"></use></svg>",
+    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Start at 37 and count back 3. Where do you finish?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1n01.svg#ac9m1n01-p-013\">\u003c/use>\u003c/svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n01.svg#ac9m1n01-p-013",
-      "alt_text": "A number sequence showing 37 , 36 , 35 , a blank."
+      "alt_text": "Start at 37 and count back 3. Where do you finish?"
     },
     "answers": [
       "34",
@@ -474,11 +453,11 @@ window.skillrPracticeQuestions = [
     "question": "Which description matches 106?",
     "audioPrompt": "Which description matches 106?",
     "visual": "A base-ten model showing one hundred square, 0 tens rods and 6 ones dots.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A base-ten model showing one hundred square, 0 tens rods and 6 ones dots.\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1n01.svg#ac9m1n01-p-017\"></use></svg>",
+    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Which description matches 106?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1n01.svg#ac9m1n01-p-017\">\u003c/use>\u003c/svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n01.svg#ac9m1n01-p-017",
-      "alt_text": "A base-ten model showing one hundred square, 0 tens rods and 6 ones dots."
+      "alt_text": "Which description matches 106?"
     },
     "answers": [
       "10 ones",
@@ -503,11 +482,11 @@ window.skillrPracticeQuestions = [
     "question": "Which number belongs between 67 and 87 at the shown point?",
     "audioPrompt": "Which number belongs between 67 and 87 at the shown point?",
     "visual": "A five-step number line labelled 76, 77, blank, 79 and 80.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A five-step number line labelled 76, 77, blank, 79 and 80.\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1n01.svg#ac9m1n01-p-018\"></use></svg>",
+    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Which number belongs between 67 and 87 at the shown point?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1n01.svg#ac9m1n01-p-018\">\u003c/use>\u003c/svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n01.svg#ac9m1n01-p-018",
-      "alt_text": "A five-step number line labelled 76, 77, blank, 79 and 80."
+      "alt_text": "Which number belongs between 67 and 87 at the shown point?"
     },
     "answers": [
       "77",
@@ -587,15 +566,8 @@ window.skillrPracticeQuestions = [
     "skill": "read place value model",
     "printable": true,
     "type": "single",
-    "question": "What number is shown by the place-value model?",
-    "audioPrompt": "What number is shown by the place-value model?",
-    "visual": "A base-ten model showing 8 tens rods and 0 ones dots.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A base-ten model showing 8 tens rods and 0 ones dots.\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1n01.svg#ac9m1n01-p-021\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n01.svg#ac9m1n01-p-021",
-      "alt_text": "A base-ten model showing 8 tens rods and 0 ones dots."
-    },
+    "question": "[Show the matching tens-and-ones blocks.] What number is shown by the place-value model?",
+    "audioPrompt": "[Show the matching tens-and-ones blocks.] What number is shown by the place-value model?",
     "answers": [
       "8",
       "90",
@@ -648,11 +620,11 @@ window.skillrPracticeQuestions = [
     "question": "Which number belongs in the blank?",
     "audioPrompt": "Which number belongs in the blank?",
     "visual": "A number sequence showing 52 , 53 , 54 , a blank , 56.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A number sequence showing 52 , 53 , 54 , a blank , 56.\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1n01.svg#ac9m1n01-p-023\"></use></svg>",
+    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Which number belongs in the blank?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1n01.svg#ac9m1n01-p-023\">\u003c/use>\u003c/svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n01.svg#ac9m1n01-p-023",
-      "alt_text": "A number sequence showing 52 , 53 , 54 , a blank , 56."
+      "alt_text": "Which number belongs in the blank?"
     },
     "answers": [
       "54",
@@ -674,15 +646,8 @@ window.skillrPracticeQuestions = [
     "skill": "vertical chart pattern",
     "printable": true,
     "type": "single",
-    "question": "The numbers are from one column of a hundreds chart. What belongs in the blank?",
-    "audioPrompt": "The numbers are from one column of a hundreds chart. What belongs in the blank?",
-    "visual": "A vertical hundreds-chart column with 62, 72, ___, 92, including one blank cell.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A vertical hundreds-chart column with 62, 72, ___, 92, including one blank cell.\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1n01.svg#ac9m1n01-p-024\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n01.svg#ac9m1n01-p-024",
-      "alt_text": "A vertical hundreds-chart column with 62, 72, ___, 92, including one blank cell."
-    },
+    "question": "[Show the stated section of a hundreds chart.] The numbers are from one column of a hundreds chart. What belongs in the blank?",
+    "audioPrompt": "[Show the stated section of a hundreds chart.] The numbers are from one column of a hundreds chart. What belongs in the blank?",
     "answers": [
       "72",
       "92",
@@ -819,15 +784,8 @@ window.skillrPracticeQuestions = [
     "skill": "hundreds chart movement",
     "printable": true,
     "type": "single",
-    "question": "On a standard hundreds chart, what number is directly left of 21?",
-    "audioPrompt": "On a standard hundreds chart, what number is directly left of 21?",
-    "visual": "A section of a hundreds chart containing 20, 21, 22, 23, 24, 30, 31, 32, 33, 34, 40, 41, 42, 43, 44.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A section of a hundreds chart containing 20, 21, 22, 23, 24, 30, 31, 32, 33, 34, 40, 41, 42, 43, 44.\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1n01.svg#ac9m1n01-p-029\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n01.svg#ac9m1n01-p-029",
-      "alt_text": "A section of a hundreds chart containing 20, 21, 22, 23, 24, 30, 31, 32, 33, 34, 40, 41, 42, 43, 44."
-    },
+    "question": "[Show the stated section of a hundreds chart.] On a standard hundreds chart, what number is directly left of 21?",
+    "audioPrompt": "[Show the stated section of a hundreds chart.] On a standard hundreds chart, what number is directly left of 21?",
     "answers": [
       "10",
       "20",
@@ -851,11 +809,11 @@ window.skillrPracticeQuestions = [
     "question": "Complete the counting sequence.",
     "audioPrompt": "Complete the counting sequence.",
     "visual": "A number sequence showing 118 , 119 , a blank.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A number sequence showing 118 , 119 , a blank.\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1n01.svg#ac9m1n01-p-030\"></use></svg>",
+    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Complete the counting sequence.\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1n01.svg#ac9m1n01-p-030\">\u003c/use>\u003c/svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n01.svg#ac9m1n01-p-030",
-      "alt_text": "A number sequence showing 118 , 119 , a blank."
+      "alt_text": "Complete the counting sequence."
     },
     "answers": [
       "119",
@@ -880,11 +838,11 @@ window.skillrPracticeQuestions = [
     "question": "Start at 56 and count back 3. Where do you finish?",
     "audioPrompt": "Start at 56 and count back 3. Where do you finish?",
     "visual": "A number sequence showing 56 , 55 , 54 , a blank.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A number sequence showing 56 , 55 , 54 , a blank.\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1n01.svg#ac9m1n01-p-031\"></use></svg>",
+    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Start at 56 and count back 3. Where do you finish?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1n01.svg#ac9m1n01-p-031\">\u003c/use>\u003c/svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n01.svg#ac9m1n01-p-031",
-      "alt_text": "A number sequence showing 56 , 55 , 54 , a blank."
+      "alt_text": "Start at 56 and count back 3. Where do you finish?"
     },
     "answers": [
       "53",
@@ -996,11 +954,11 @@ window.skillrPracticeQuestions = [
     "question": "Which description matches 119?",
     "audioPrompt": "Which description matches 119?",
     "visual": "A base-ten model showing one hundred square, 1 tens rod and 9 ones dots.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A base-ten model showing one hundred square, 1 tens rod and 9 ones dots.\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1n01.svg#ac9m1n01-p-035\"></use></svg>",
+    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Which description matches 119?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1n01.svg#ac9m1n01-p-035\">\u003c/use>\u003c/svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n01.svg#ac9m1n01-p-035",
-      "alt_text": "A base-ten model showing one hundred square, 1 tens rod and 9 ones dots."
+      "alt_text": "Which description matches 119?"
     },
     "answers": [
       "1 hundreds and 9 ones",
@@ -1025,11 +983,11 @@ window.skillrPracticeQuestions = [
     "question": "Which number belongs between 56 and 76 at the shown point?",
     "audioPrompt": "Which number belongs between 56 and 76 at the shown point?",
     "visual": "A five-step number line labelled 62, 63, blank, 65 and 66.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A five-step number line labelled 62, 63, blank, 65 and 66.\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1n01.svg#ac9m1n01-p-036\"></use></svg>",
+    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Which number belongs between 56 and 76 at the shown point?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1n01.svg#ac9m1n01-p-036\">\u003c/use>\u003c/svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n01.svg#ac9m1n01-p-036",
-      "alt_text": "A five-step number line labelled 62, 63, blank, 65 and 66."
+      "alt_text": "Which number belongs between 56 and 76 at the shown point?"
     },
     "answers": [
       "63",
@@ -1109,15 +1067,8 @@ window.skillrPracticeQuestions = [
     "skill": "read place value model",
     "printable": true,
     "type": "single",
-    "question": "What number is shown by the place-value model?",
-    "audioPrompt": "What number is shown by the place-value model?",
-    "visual": "A base-ten model showing 2 tens rods and 1 ones dots.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A base-ten model showing 2 tens rods and 1 ones dots.\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1n01.svg#ac9m1n01-p-039\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n01.svg#ac9m1n01-p-039",
-      "alt_text": "A base-ten model showing 2 tens rods and 1 ones dots."
-    },
+    "question": "[Show the matching tens-and-ones blocks.] What number is shown by the place-value model?",
+    "audioPrompt": "[Show the matching tens-and-ones blocks.] What number is shown by the place-value model?",
     "answers": [
       "12",
       "31",
@@ -1170,11 +1121,11 @@ window.skillrPracticeQuestions = [
     "question": "Which number belongs in the blank?",
     "audioPrompt": "Which number belongs in the blank?",
     "visual": "A number sequence showing 71 , a blank , 73 , 74 , 75.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A number sequence showing 71 , a blank , 73 , 74 , 75.\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1n01.svg#ac9m1n01-p-041\"></use></svg>",
+    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Which number belongs in the blank?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1n01.svg#ac9m1n01-p-041\">\u003c/use>\u003c/svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n01.svg#ac9m1n01-p-041",
-      "alt_text": "A number sequence showing 71 , a blank , 73 , 74 , 75."
+      "alt_text": "Which number belongs in the blank?"
     },
     "answers": [
       "71",
@@ -1196,15 +1147,8 @@ window.skillrPracticeQuestions = [
     "skill": "vertical chart pattern",
     "printable": true,
     "type": "single",
-    "question": "The numbers are from one column of a hundreds chart. What belongs in the blank?",
-    "audioPrompt": "The numbers are from one column of a hundreds chart. What belongs in the blank?",
-    "visual": "A vertical hundreds-chart column with 73, 83, ___, 103, including one blank cell.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A vertical hundreds-chart column with 73, 83, ___, 103, including one blank cell.\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1n01.svg#ac9m1n01-p-042\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n01.svg#ac9m1n01-p-042",
-      "alt_text": "A vertical hundreds-chart column with 73, 83, ___, 103, including one blank cell."
-    },
+    "question": "[Show the stated section of a hundreds chart.] The numbers are from one column of a hundreds chart. What belongs in the blank?",
+    "audioPrompt": "[Show the stated section of a hundreds chart.] The numbers are from one column of a hundreds chart. What belongs in the blank?",
     "answers": [
       "83",
       "103",
@@ -1341,15 +1285,8 @@ window.skillrPracticeQuestions = [
     "skill": "hundreds chart movement",
     "printable": true,
     "type": "single",
-    "question": "On a standard hundreds chart, what number is directly right of 78?",
-    "audioPrompt": "On a standard hundreds chart, what number is directly right of 78?",
-    "visual": "A section of a hundreds chart containing 70, 71, 72, 73, 74, 80, 81, 82, 83, 84, 90, 91, 92, 93, 94.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A section of a hundreds chart containing 70, 71, 72, 73, 74, 80, 81, 82, 83, 84, 90, 91, 92, 93, 94.\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1n01.svg#ac9m1n01-p-047\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n01.svg#ac9m1n01-p-047",
-      "alt_text": "A section of a hundreds chart containing 70, 71, 72, 73, 74, 80, 81, 82, 83, 84, 90, 91, 92, 93, 94."
-    },
+    "question": "[Show the stated section of a hundreds chart.] On a standard hundreds chart, what number is directly right of 78?",
+    "audioPrompt": "[Show the stated section of a hundreds chart.] On a standard hundreds chart, what number is directly right of 78?",
     "answers": [
       "69",
       "79",
@@ -1373,11 +1310,11 @@ window.skillrPracticeQuestions = [
     "question": "Complete the counting sequence.",
     "audioPrompt": "Complete the counting sequence.",
     "visual": "A number sequence showing 98 , 99 , a blank , 101 , 102.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A number sequence showing 98 , 99 , a blank , 101 , 102.\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1n01.svg#ac9m1n01-p-048\"></use></svg>",
+    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Complete the counting sequence.\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1n01.svg#ac9m1n01-p-048\">\u003c/use>\u003c/svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n01.svg#ac9m1n01-p-048",
-      "alt_text": "A number sequence showing 98 , 99 , a blank , 101 , 102."
+      "alt_text": "Complete the counting sequence."
     },
     "answers": [
       "99",
@@ -1402,11 +1339,11 @@ window.skillrPracticeQuestions = [
     "question": "Start at 75 and count back 3. Where do you finish?",
     "audioPrompt": "Start at 75 and count back 3. Where do you finish?",
     "visual": "A number sequence showing 75 , 74 , 73 , a blank.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A number sequence showing 75 , 74 , 73 , a blank.\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1n01.svg#ac9m1n01-p-049\"></use></svg>",
+    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Start at 75 and count back 3. Where do you finish?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1n01.svg#ac9m1n01-p-049\">\u003c/use>\u003c/svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n01.svg#ac9m1n01-p-049",
-      "alt_text": "A number sequence showing 75 , 74 , 73 , a blank."
+      "alt_text": "Start at 75 and count back 3. Where do you finish?"
     },
     "answers": [
       "72",
@@ -1518,11 +1455,11 @@ window.skillrPracticeQuestions = [
     "question": "Which description matches 111?",
     "audioPrompt": "Which description matches 111?",
     "visual": "A base-ten model showing one hundred square, 1 tens rod and 1 ones dots.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A base-ten model showing one hundred square, 1 tens rod and 1 ones dots.\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1n01.svg#ac9m1n01-p-053\"></use></svg>",
+    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Which description matches 111?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1n01.svg#ac9m1n01-p-053\">\u003c/use>\u003c/svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n01.svg#ac9m1n01-p-053",
-      "alt_text": "A base-ten model showing one hundred square, 1 tens rod and 1 ones dots."
+      "alt_text": "Which description matches 111?"
     },
     "answers": [
       "11 ones",
@@ -1547,11 +1484,11 @@ window.skillrPracticeQuestions = [
     "question": "Which number belongs between 45 and 65 at the shown point?",
     "audioPrompt": "Which number belongs between 45 and 65 at the shown point?",
     "visual": "A five-step number line labelled 48, 49, blank, 51 and 52.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A five-step number line labelled 48, 49, blank, 51 and 52.\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1n01.svg#ac9m1n01-p-054\"></use></svg>",
+    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Which number belongs between 45 and 65 at the shown point?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1n01.svg#ac9m1n01-p-054\">\u003c/use>\u003c/svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n01.svg#ac9m1n01-p-054",
-      "alt_text": "A five-step number line labelled 48, 49, blank, 51 and 52."
+      "alt_text": "Which number belongs between 45 and 65 at the shown point?"
     },
     "answers": [
       "49",
@@ -1625,4 +1562,3 @@ window.skillrPracticeQuestions = [
     "qualitySchema": "production-v1"
   }
 ];
-window.quizQuestions = window.skillrPracticeQuestions;
