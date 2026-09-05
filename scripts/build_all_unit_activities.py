@@ -81,7 +81,7 @@ def head(
 ) -> str:
     adsense_meta = f'<meta name="google-adsense-account" content="{ADSENSE}">' if ads else ""
     adsense_script = (
-        f'<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client={ADSENSE}" crossorigin="anonymous"></script>'
+        f'<!-- ADSENSE DISABLED PENDING APPROVAL: <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client={ADSENSE}" crossorigin="anonymous"></script> -->'
         if ads
         else ""
     )

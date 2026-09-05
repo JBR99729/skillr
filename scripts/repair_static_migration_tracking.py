@@ -17,7 +17,7 @@ FUNCTIONAL = {"result", "results", "review", "retake", "teacher-slides", "teache
 SKIP_PARTS = {".git", "node_modules", "playwright-report", "test-results"}
 
 GA = f'''\n<!-- Google Analytics -->\n<script async src="https://www.googletagmanager.com/gtag/js?id={GA_ID}"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){{dataLayer.push(arguments);}}\n  gtag('js', new Date());\n  gtag('config', '{GA_ID}');\n</script>\n'''
-ADS_LOADER = f'''\n<!-- Google AdSense -->\n<script async src="https://pagead2.googlesyndication.com/pagead/js?client={ADSENSE_CLIENT}" crossorigin="anonymous"></script>\n'''
+ADS_LOADER = f'''\n<!-- Google AdSense -->\n<!-- ADSENSE DISABLED PENDING APPROVAL: <script async src="https://pagead2.googlesyndication.com/pagead/js?client={ADSENSE_CLIENT}" crossorigin="anonymous"></script> -->\n'''
 ADS_META = f'<meta name="google-adsense-account" content="{ADSENSE_CLIENT}">\n'
 
 REQUIRED_ALIASES = {

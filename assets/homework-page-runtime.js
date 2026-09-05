@@ -27,6 +27,7 @@
       page_type: "homework"
     });
 
+    /* ADSENSE DISABLED PENDING APPROVAL
     const config = window.SkillrAdConfig;
     const slot = config && config.slots && config.slots.homeworkEnd;
     if (!config || config.enabled !== true || !/^ca-pub-\d+$/.test(config.client || "") || !/^\d+$/.test(slot || "")) {
@@ -73,6 +74,7 @@
     loader.src = "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=" + encodeURIComponent(config.client);
     loader.addEventListener("load", requestAd, { once: true });
     document.head.appendChild(loader);
+    END ADSENSE DISABLED PENDING APPROVAL */
   };
 
   if (document.readyState === "loading") {

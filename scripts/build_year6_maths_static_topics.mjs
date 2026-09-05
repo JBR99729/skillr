@@ -87,7 +87,7 @@ for (let index = 0; index < order.length; index += 1) {
   <link rel="stylesheet" href="/assets/static-topic.css?v=1">
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-8P22BET45N"></script>
   <script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}gtag("js",new Date());gtag("config","G-8P22BET45N");</script>
-  <script async src="https://pagead2.googlesyndication.com/pagead/js?client=ca-pub-7734963540104771" crossorigin="anonymous"></script>
+  <!-- ADSENSE DISABLED PENDING APPROVAL: <script async src="https://pagead2.googlesyndication.com/pagead/js?client=ca-pub-7734963540104771" crossorigin="anonymous"></script> -->
   <script type="application/ld+json">${schema}</script>
 </head>
 <body class="static-topic-shell">

@@ -14,7 +14,7 @@ ADSENSE_CLIENT = "ca-pub-7734963540104771"
 GA_SNIPPET = f'''<script async src="https://www.googletagmanager.com/gtag/js?id={GA_ID}"></script>
 <script>window.dataLayer=window.dataLayer||[];function gtag(){{dataLayer.push(arguments)}}gtag("js",new Date());gtag("config","{GA_ID}");</script>'''
 ADSENSE_SNIPPET = f'''<meta name="google-adsense-account" content="{ADSENSE_CLIENT}">
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client={ADSENSE_CLIENT}" crossorigin="anonymous"></script>'''
+<!-- ADSENSE DISABLED PENDING APPROVAL: <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client={ADSENSE_CLIENT}" crossorigin="anonymous"></script> -->'''
 
 
 def route(path: Path) -> str:

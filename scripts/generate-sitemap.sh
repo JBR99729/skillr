@@ -142,8 +142,8 @@ to_title() {
       gtag('js', new Date());
       gtag('config', 'G-8P22BET45N');
     </script>
-    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7734963540104771"
-     crossorigin="anonymous"></script>
+    <!-- ADSENSE DISABLED PENDING APPROVAL: <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7734963540104771"
+     crossorigin="anonymous"></script> -->
     <link rel="stylesheet" href="style.css">
 </head>
 <body>

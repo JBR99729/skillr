@@ -401,7 +401,7 @@ def page_head(title: str, description: str, canonical_path: str, schema: dict[st
     gtag("js", new Date());
     gtag("config", "{GA_ID}");
   </script>
-  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client={ADSENSE_CLIENT}" crossorigin="anonymous"></script>
+  <!-- ADSENSE DISABLED PENDING APPROVAL: <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client={ADSENSE_CLIENT}" crossorigin="anonymous"></script> -->
   <script type="application/ld+json">{schema_json}</script>
 </head>"""
 

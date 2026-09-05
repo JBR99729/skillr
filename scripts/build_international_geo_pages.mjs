@@ -153,7 +153,7 @@ function page(market) {
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-8P22BET45N"></script>
   <script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}gtag("js",new Date());gtag("config","G-8P22BET45N");</script>
   <meta name="google-adsense-account" content="ca-pub-7734963540104771">
-  <script async src="https://pagead2.googlesyndication.com/pagead/js?client=ca-pub-7734963540104771" crossorigin="anonymous"></script>
+  <!-- ADSENSE DISABLED PENDING APPROVAL: <script async src="https://pagead2.googlesyndication.com/pagead/js?client=ca-pub-7734963540104771" crossorigin="anonymous"></script> -->
 </head>
 <body><div class="container blog">
 <nav class="main-nav" aria-label="Main navigation"><a href="/">Home</a><a href="/blogs/">Blogs</a><a href="/worksheets/">Worksheets</a><a href="/dashboard/">Dashboard</a><a href="/about.html">About</a><a href="/contact.html">Contact</a></nav>

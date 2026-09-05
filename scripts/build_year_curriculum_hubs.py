@@ -222,7 +222,7 @@ def head(title: str, description: str, path: str) -> str:
   <link rel="stylesheet" href="/assets/css/curriculum-skill-hub.css">
   <script async src="https://www.googletagmanager.com/gtag/js?id={GA_ID}"></script>
   <script>window.dataLayer=window.dataLayer||[];function gtag(){{dataLayer.push(arguments)}}gtag("js",new Date());gtag("config","{GA_ID}");</script>
-  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client={ADSENSE}" crossorigin="anonymous"></script>
+  <!-- ADSENSE DISABLED PENDING APPROVAL: <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client={ADSENSE}" crossorigin="anonymous"></script> -->
 </head>'''
 
 
