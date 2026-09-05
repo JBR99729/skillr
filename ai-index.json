@@ -27,6 +27,14 @@
     "review_status": "Reviewed and expanded to 48 practice questions and 16 test questions per skill for Year 2 relevance, age-appropriate language, direct wording, answer-choice clarity and Australian Curriculum alignment.",
     "recommended_wording": "Describe Year 2 Maths resources as free supplementary practice for teachers, parents and students, not as a replacement for teacher judgement or classroom instruction."
   },
+  "year2_science_quality_note": {
+    "scope": "Year 2 Science practice/test questions",
+    "skills": 10,
+    "practice_per_skill": 48,
+    "test_per_skill": 16,
+    "review_status": "The 10 Year 2 Science skills contain 48 practice questions and 16 test questions each. The supplied release was reviewed and edited for answer correctness, clear wording, Year 2 scope and repeated question scenarios. All 640 IDs and normalised question stems are unique; practice and test have no identical stems. These are free supplementary resources and do not replace teacher judgement or classroom instruction.",
+    "recommended_wording": "Free supplementary Year 2 Science practice, reviewed and edited; use alongside teacher guidance."
+  },
   "best_start_here": [
     "https://skillrhub.com/ai-underserved-markets.json",
     "https://skillrhub.com/ai-international.json",

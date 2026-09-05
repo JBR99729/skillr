@@ -11,22 +11,20 @@ window.skillrPracticeQuestions = [
     "audioPrompt": "A child predicted 6 drops; the result was 8. What is accurate?",
     "visual": "",
     "answers": [
-      "the result was 2 more than predicted",
-      "the prediction was exact",
       "the result should be changed",
-      "no comparison is possible"
+      "the result was 2 more than predicted",
+      "the prediction was exact"
     ],
-    "correct": 0,
-    "explanation": "Six and eight can be compared honestly.\nHint: Use the observations and science idea in the question.",
+    "correct": 1,
+    "explanation": "Six and eight can be compared honestly.",
     "structuredExplanation": {
-      "summary": "Six and eight can be compared honestly.",
-      "hint": "Use the observations and science idea in the question."
+      "summary": "Six and eight can be compared honestly."
     },
     "stage": "recognise",
     "difficulty": 1,
     "difficultyTier": "recognise",
     "sequencePriority": 1,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
   },
   {
     "id": "ac9s2i05-p-002",
@@ -40,21 +38,19 @@ window.skillrPracticeQuestions = [
     "visual": "",
     "answers": [
       "one must be wrong",
-      "the shadow is always 5 blocks",
-      "predictions caused the result",
-      "their observations agree"
+      "their observations agree",
+      "the shadow is always 5 blocks"
     ],
-    "correct": 3,
-    "explanation": "Matching records show agreement for that observation.\nHint: Use the observations and science idea in the question.",
+    "correct": 1,
+    "explanation": "Matching records show agreement for that observation.",
     "structuredExplanation": {
-      "summary": "Matching records show agreement for that observation.",
-      "hint": "Use the observations and science idea in the question."
+      "summary": "Matching records show agreement for that observation."
     },
     "stage": "recognise",
     "difficulty": 1,
     "difficultyTier": "recognise",
     "sequencePriority": 2,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
   },
   {
     "id": "ac9s2i05-p-003",
@@ -69,20 +65,18 @@ window.skillrPracticeQuestions = [
     "answers": [
       "erase both",
       "blame the object",
-      "compare methods and units",
-      "choose the larger automatically"
+      "compare methods and units"
     ],
     "correct": 2,
-    "explanation": "Method comparison can explain differences.\nHint: Use the observations and science idea in the question.",
+    "explanation": "Method comparison can explain differences.",
     "structuredExplanation": {
-      "summary": "Method comparison can explain differences.",
-      "hint": "Use the observations and science idea in the question."
+      "summary": "Method comparison can explain differences."
     },
     "stage": "recognise",
     "difficulty": 1,
     "difficultyTier": "recognise",
     "sequencePriority": 3,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
   },
   {
     "id": "ac9s2i05-p-004",
@@ -95,22 +89,20 @@ window.skillrPracticeQuestions = [
     "audioPrompt": "Which test is fair?",
     "visual": "",
     "answers": [
-      "results chosen first",
-      "same paper size and water amount, different paper type",
       "different paper, size and water",
-      "no measurement"
+      "results chosen first",
+      "same paper size and water amount, different paper type"
     ],
-    "correct": 1,
-    "explanation": "Only the intended factor changes.\nHint: Use the observations and science idea in the question.",
+    "correct": 2,
+    "explanation": "Only the intended factor changes.",
     "structuredExplanation": {
-      "summary": "Only the intended factor changes.",
-      "hint": "Use the observations and science idea in the question."
+      "summary": "Only the intended factor changes."
     },
     "stage": "recognise",
     "difficulty": 1,
     "difficultyTier": "recognise",
     "sequencePriority": 4,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
   },
   {
     "id": "ac9s2i05-p-005",
@@ -125,20 +117,18 @@ window.skillrPracticeQuestions = [
     "answers": [
       "water amount also changed",
       "cloth cannot absorb",
-      "drops are not observations",
-      "fair tests need different everything"
+      "drops are not observations"
     ],
     "correct": 0,
-    "explanation": "A second changing factor confuses the comparison.\nHint: Use the observations and science idea in the question.",
+    "explanation": "A second changing factor confuses the comparison.",
     "structuredExplanation": {
-      "summary": "A second changing factor confuses the comparison.",
-      "hint": "Use the observations and science idea in the question."
+      "summary": "A second changing factor confuses the comparison."
     },
     "stage": "recognise",
     "difficulty": 1,
     "difficultyTier": "recognise",
     "sequencePriority": 5,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
   },
   {
     "id": "ac9s2i05-p-006",
@@ -147,26 +137,24 @@ window.skillrPracticeQuestions = [
     "skill": "comparing predictions, results and investigation evidence",
     "printable": true,
     "type": "single",
-    "question": "What should happen when evidence does not match a prediction?",
-    "audioPrompt": "What should happen when evidence does not match a prediction?",
+    "question": "What should happen when evidence doesn't match a prediction?",
+    "audioPrompt": "What should happen when evidence doesn't match a prediction?",
     "visual": "",
     "answers": [
+      "record it and consider why",
       "hide it",
-      "change it",
-      "claim the prediction was right",
-      "record it and consider why"
+      "change it"
     ],
-    "correct": 3,
-    "explanation": "Unexpected results are valuable evidence.\nHint: Use the observations and science idea in the question.",
+    "correct": 0,
+    "explanation": "Unexpected results are valuable evidence.",
     "structuredExplanation": {
-      "summary": "Unexpected results are valuable evidence.",
-      "hint": "Use the observations and science idea in the question."
+      "summary": "Unexpected results are valuable evidence."
     },
     "stage": "recognise",
     "difficulty": 1,
     "difficultyTier": "recognise",
     "sequencePriority": 6,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
   },
   {
     "id": "ac9s2i05-p-007",
@@ -179,22 +167,20 @@ window.skillrPracticeQuestions = [
     "audioPrompt": "Ice melted faster in sunlight. Which question could come next?",
     "visual": "",
     "answers": [
-      "Can ice remember?",
-      "Why is everything cold?",
       "Does container colour affect melting time?",
-      "Which ice is nicest?"
+      "Why is everything cold?",
+      "Can ice remember?"
     ],
-    "correct": 2,
-    "explanation": "The result can lead to another investigable question.\nHint: Use the observations and science idea in the question.",
+    "correct": 0,
+    "explanation": "The result can lead to another investigable question.",
     "structuredExplanation": {
-      "summary": "The result can lead to another investigable question.",
-      "hint": "Use the observations and science idea in the question."
+      "summary": "The result can lead to another investigable question."
     },
     "stage": "recognise",
     "difficulty": 1,
     "difficultyTier": "recognise",
     "sequencePriority": 7,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
   },
   {
     "id": "ac9s2i05-p-008",
@@ -209,20 +195,18 @@ window.skillrPracticeQuestions = [
     "answers": [
       "to remove data",
       "to see whether a similar result occurs again",
-      "to force the prediction",
-      "to change every condition"
+      "to force the prediction"
     ],
     "correct": 1,
-    "explanation": "Repetition checks consistency.\nHint: Use the observations and science idea in the question.",
+    "explanation": "Repetition checks consistency.",
     "structuredExplanation": {
-      "summary": "Repetition checks consistency.",
-      "hint": "Use the observations and science idea in the question."
+      "summary": "Repetition checks consistency."
     },
     "stage": "recognise",
     "difficulty": 1,
     "difficultyTier": "recognise",
     "sequencePriority": 8,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
   },
   {
     "id": "ac9s2i05-p-009",
@@ -235,22 +219,20 @@ window.skillrPracticeQuestions = [
     "audioPrompt": "What helps two groups compare results?",
     "visual": "",
     "answers": [
-      "use the same headings and units",
       "use secret categories",
-      "change labels",
-      "record only opinions"
+      "use the same headings and units",
+      "change labels"
     ],
-    "correct": 0,
-    "explanation": "Common formats make observations comparable.\nHint: Use the observations and science idea in the question.",
+    "correct": 1,
+    "explanation": "Common formats make observations comparable.",
     "structuredExplanation": {
-      "summary": "Common formats make observations comparable.",
-      "hint": "Use the observations and science idea in the question."
+      "summary": "Common formats make observations comparable."
     },
     "stage": "recognise",
     "difficulty": 1,
     "difficultyTier": "recognise",
     "sequencePriority": 9,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
   },
   {
     "id": "ac9s2i05-p-010",
@@ -259,26 +241,24 @@ window.skillrPracticeQuestions = [
     "skill": "comparing predictions, results and investigation evidence",
     "printable": true,
     "type": "single",
-    "question": "Which statement is correct?",
-    "audioPrompt": "Which statement is correct?",
+    "question": "When is a prediction made?",
+    "audioPrompt": "When is a prediction made?",
     "visual": "",
     "answers": [
-      "both mean a guess",
       "results come first",
-      "predictions must be correct",
-      "a prediction is made before; a result is observed after"
+      "a prediction is made before; a result is observed after",
+      "both mean a guess"
     ],
-    "correct": 3,
-    "explanation": "Timing and evidence distinguish them.\nHint: Use the observations and science idea in the question.",
+    "correct": 1,
+    "explanation": "Timing and evidence distinguish them.",
     "structuredExplanation": {
-      "summary": "Timing and evidence distinguish them.",
-      "hint": "Use the observations and science idea in the question."
+      "summary": "Timing and evidence distinguish them."
     },
     "stage": "recognise",
     "difficulty": 1,
     "difficultyTier": "recognise",
     "sequencePriority": 10,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
   },
   {
     "id": "ac9s2i05-p-011",
@@ -293,20 +273,18 @@ window.skillrPracticeQuestions = [
     "answers": [
       "the test is automatically fair",
       "7 was predicted",
-      "the measurements agree for this trial",
-      "all future trials equal 7"
+      "the measurements agree for this trial"
     ],
     "correct": 2,
-    "explanation": "Agreement does not prove every future result.\nHint: Use the observations and science idea in the question.",
+    "explanation": "Agreement doesn't prove every future result.",
     "structuredExplanation": {
-      "summary": "Agreement does not prove every future result.",
-      "hint": "Use the observations and science idea in the question."
+      "summary": "Agreement doesn't prove every future result."
     },
-    "stage": "explain",
-    "difficulty": 2,
-    "difficultyTier": "explain",
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
     "sequencePriority": 11,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
   },
   {
     "id": "ac9s2i05-p-012",
@@ -320,21 +298,19 @@ window.skillrPracticeQuestions = [
     "visual": "",
     "answers": [
       "yes, because results are known",
-      "yes, ramp height is the main change",
       "no, nothing may change",
-      "no, cars cannot be tested"
+      "yes, ramp height is the main change"
     ],
-    "correct": 1,
-    "explanation": "Controlled conditions isolate height.\nHint: Use the observations and science idea in the question.",
+    "correct": 2,
+    "explanation": "Controlled conditions isolate height.",
     "structuredExplanation": {
-      "summary": "Controlled conditions isolate height.",
-      "hint": "Use the observations and science idea in the question."
+      "summary": "Controlled conditions isolate height."
     },
-    "stage": "explain",
-    "difficulty": 2,
-    "difficultyTier": "explain",
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
     "sequencePriority": 12,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
   },
   {
     "id": "ac9s2i05-p-013",
@@ -347,22 +323,20 @@ window.skillrPracticeQuestions = [
     "audioPrompt": "Predicted loud, observed soft. What should be recorded?",
     "visual": "",
     "answers": [
-      "prediction and observation did not match",
-      "change soft to loud",
       "delete prediction",
-      "say both matched"
+      "change soft to loud",
+      "prediction and observation did not match"
     ],
-    "correct": 0,
-    "explanation": "The comparison must reflect the evidence.\nHint: Use the observations and science idea in the question.",
+    "correct": 2,
+    "explanation": "The comparison must reflect the evidence.",
     "structuredExplanation": {
-      "summary": "The comparison must reflect the evidence.",
-      "hint": "Use the observations and science idea in the question."
+      "summary": "The comparison must reflect the evidence."
     },
-    "stage": "explain",
-    "difficulty": 2,
-    "difficultyTier": "explain",
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
     "sequencePriority": 13,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
   },
   {
     "id": "ac9s2i05-p-014",
@@ -377,20 +351,18 @@ window.skillrPracticeQuestions = [
     "answers": [
       "Is fabric good?",
       "Can cloth think?",
-      "Why was my prediction wrong forever?",
       "Would a different fabric stretch under the same gentle pull?"
     ],
-    "correct": 3,
-    "explanation": "The question extends the investigation fairly.\nHint: Use the observations and science idea in the question.",
+    "correct": 2,
+    "explanation": "The question extends the investigation fairly.",
     "structuredExplanation": {
-      "summary": "The question extends the investigation fairly.",
-      "hint": "Use the observations and science idea in the question."
+      "summary": "The question extends the investigation fairly."
     },
-    "stage": "explain",
-    "difficulty": 2,
-    "difficultyTier": "explain",
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
     "sequencePriority": 14,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
   },
   {
     "id": "ac9s2i05-p-015",
@@ -405,20 +377,18 @@ window.skillrPracticeQuestions = [
     "answers": [
       "to change speed secretly",
       "because lines measure mass",
-      "to keep starting position controlled",
-      "to make all distances equal"
+      "to keep starting position controlled"
     ],
     "correct": 2,
-    "explanation": "Same starts support fair comparison.\nHint: Use the observations and science idea in the question.",
+    "explanation": "Same starts support fair comparison.",
     "structuredExplanation": {
-      "summary": "Same starts support fair comparison.",
-      "hint": "Use the observations and science idea in the question."
+      "summary": "Same starts support fair comparison."
     },
-    "stage": "explain",
-    "difficulty": 2,
-    "difficultyTier": "explain",
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
     "sequencePriority": 15,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
   },
   {
     "id": "ac9s2i05-p-016",
@@ -431,22 +401,20 @@ window.skillrPracticeQuestions = [
     "audioPrompt": "One child counts 6 petals and another 7. What action is best?",
     "visual": "",
     "answers": [
-      "remove a petal",
       "look together and recount carefully",
       "average without checking",
-      "choose a favourite answer"
+      "remove a petal"
     ],
-    "correct": 1,
-    "explanation": "Rechecking the same evidence can resolve a difference.\nHint: Use the observations and science idea in the question.",
+    "correct": 0,
+    "explanation": "Rechecking the same evidence can resolve a difference.",
     "structuredExplanation": {
-      "summary": "Rechecking the same evidence can resolve a difference.",
-      "hint": "Use the observations and science idea in the question."
+      "summary": "Rechecking the same evidence can resolve a difference."
     },
-    "stage": "explain",
-    "difficulty": 2,
-    "difficultyTier": "explain",
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
     "sequencePriority": 16,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
   },
   {
     "id": "ac9s2i05-p-017",
@@ -459,22 +427,20 @@ window.skillrPracticeQuestions = [
     "audioPrompt": "Groups used different-sized blocks to measure. Why might results differ?",
     "visual": "",
     "answers": [
-      "their informal units were not the same",
       "the object changed material",
-      "one prediction was stronger",
-      "blocks measure temperature"
+      "their informal units were not the same",
+      "one prediction was stronger"
     ],
-    "correct": 0,
-    "explanation": "Different unit sizes give different counts.\nHint: Use the observations and science idea in the question.",
+    "correct": 1,
+    "explanation": "Different unit sizes give different counts.",
     "structuredExplanation": {
-      "summary": "Different unit sizes give different counts.",
-      "hint": "Use the observations and science idea in the question."
+      "summary": "Different unit sizes give different counts."
     },
-    "stage": "explain",
+    "stage": "apply",
     "difficulty": 2,
-    "difficultyTier": "explain",
+    "difficultyTier": "apply",
     "sequencePriority": 17,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
   },
   {
     "id": "ac9s2i05-p-018",
@@ -487,22 +453,20 @@ window.skillrPracticeQuestions = [
     "audioPrompt": "To compare melting locations, what should be kept the same?",
     "visual": "",
     "answers": [
+      "ice size and container type",
       "location",
-      "every temperature",
-      "the final result",
-      "ice size and container type"
+      "every temperature"
     ],
-    "correct": 3,
-    "explanation": "Control other conditions while location changes.\nHint: Use the observations and science idea in the question.",
+    "correct": 0,
+    "explanation": "Control other conditions while location changes.",
     "structuredExplanation": {
-      "summary": "Control other conditions while location changes.",
-      "hint": "Use the observations and science idea in the question."
+      "summary": "Control other conditions while location changes."
     },
-    "stage": "explain",
+    "stage": "apply",
     "difficulty": 2,
-    "difficultyTier": "explain",
+    "difficultyTier": "apply",
     "sequencePriority": 18,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
   },
   {
     "id": "ac9s2i05-p-019",
@@ -515,22 +479,20 @@ window.skillrPracticeQuestions = [
     "audioPrompt": "A friend says the answer must match the prediction. What is better?",
     "visual": "",
     "answers": [
-      "predictions replace tests",
       "erase differences",
       "the recorded observation decides the result",
-      "friends decide results"
+      "predictions replace tests"
     ],
-    "correct": 2,
-    "explanation": "Evidence has priority over expectations.\nHint: Use the observations and science idea in the question.",
+    "correct": 1,
+    "explanation": "Evidence has priority over expectations.",
     "structuredExplanation": {
-      "summary": "Evidence has priority over expectations.",
-      "hint": "Use the observations and science idea in the question."
+      "summary": "Evidence has priority over expectations."
     },
-    "stage": "explain",
+    "stage": "apply",
     "difficulty": 2,
-    "difficultyTier": "explain",
+    "difficultyTier": "apply",
     "sequencePriority": 19,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
   },
   {
     "id": "ac9s2i05-p-020",
@@ -543,22 +505,20 @@ window.skillrPracticeQuestions = [
     "audioPrompt": "Which action could make a comparison unfair?",
     "visual": "",
     "answers": [
-      "recording immediately",
       "giving the preferred sample extra testing time",
-      "using equal amounts",
-      "labelling samples"
+      "recording immediately",
+      "using equal amounts"
     ],
-    "correct": 1,
-    "explanation": "Unequal time favours one sample.\nHint: Use the observations and science idea in the question.",
+    "correct": 0,
+    "explanation": "Unequal time favours one sample.",
     "structuredExplanation": {
-      "summary": "Unequal time favours one sample.",
-      "hint": "Use the observations and science idea in the question."
+      "summary": "Unequal time favours one sample."
     },
-    "stage": "explain",
+    "stage": "apply",
     "difficulty": 2,
-    "difficultyTier": "explain",
+    "difficultyTier": "apply",
     "sequencePriority": 20,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
   },
   {
     "id": "ac9s2i05-p-021",
@@ -573,20 +533,18 @@ window.skillrPracticeQuestions = [
     "answers": [
       "more than, less than and equal to",
       "nice and boring",
-      "mine and yours",
-      "maybe without evidence"
+      "mine and yours"
     ],
     "correct": 0,
-    "explanation": "Comparison words state relationships.\nHint: Use the observations and science idea in the question.",
+    "explanation": "Comparison words state relationships.",
     "structuredExplanation": {
-      "summary": "Comparison words state relationships.",
-      "hint": "Use the observations and science idea in the question."
+      "summary": "Comparison words state relationships."
     },
-    "stage": "discriminate",
+    "stage": "apply",
     "difficulty": 2,
-    "difficultyTier": "discriminate",
+    "difficultyTier": "apply",
     "sequencePriority": 21,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
   },
   {
     "id": "ac9s2i05-p-022",
@@ -599,22 +557,20 @@ window.skillrPracticeQuestions = [
     "audioPrompt": "Both groups got the same result once. What is a careful claim?",
     "visual": "",
     "answers": [
-      "the result will always happen",
       "all methods were perfect",
-      "no repeat is useful",
-      "the results agreed in this investigation"
+      "the results agreed in this investigation",
+      "the result will always happen"
     ],
-    "correct": 3,
-    "explanation": "Claims should not exceed the evidence.\nHint: Use the observations and science idea in the question.",
+    "correct": 1,
+    "explanation": "Claims should not exceed the evidence.",
     "structuredExplanation": {
-      "summary": "Claims should not exceed the evidence.",
-      "hint": "Use the observations and science idea in the question."
+      "summary": "Claims should not exceed the evidence."
     },
-    "stage": "discriminate",
+    "stage": "apply",
     "difficulty": 2,
-    "difficultyTier": "discriminate",
+    "difficultyTier": "apply",
     "sequencePriority": 22,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
   },
   {
     "id": "ac9s2i05-p-023",
@@ -628,21 +584,19 @@ window.skillrPracticeQuestions = [
     "visual": "",
     "answers": [
       "Can sound lie?",
-      "Who likes music?",
       "Were the striking action and listening distance the same?",
-      "Which group is best?"
+      "Who likes music?"
     ],
-    "correct": 2,
-    "explanation": "Checking controlled conditions investigates disagreement.\nHint: Use the observations and science idea in the question.",
+    "correct": 1,
+    "explanation": "Checking controlled conditions investigates disagreement.",
     "structuredExplanation": {
-      "summary": "Checking controlled conditions investigates disagreement.",
-      "hint": "Use the observations and science idea in the question."
+      "summary": "Checking controlled conditions investigates disagreement."
     },
-    "stage": "discriminate",
+    "stage": "apply",
     "difficulty": 2,
-    "difficultyTier": "discriminate",
+    "difficultyTier": "apply",
     "sequencePriority": 23,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
   },
   {
     "id": "ac9s2i05-p-024",
@@ -655,22 +609,20 @@ window.skillrPracticeQuestions = [
     "audioPrompt": "Why observe plants at the same time each day?",
     "visual": "",
     "answers": [
-      "time is the result",
       "time is kept consistent",
-      "plants stop growing",
-      "all heights become equal"
+      "time is the result",
+      "plants stop growing"
     ],
-    "correct": 1,
-    "explanation": "Consistent timing improves comparison.\nHint: Use the observations and science idea in the question.",
+    "correct": 0,
+    "explanation": "Consistent timing improves comparison.",
     "structuredExplanation": {
-      "summary": "Consistent timing improves comparison.",
-      "hint": "Use the observations and science idea in the question."
+      "summary": "Consistent timing improves comparison."
     },
-    "stage": "discriminate",
+    "stage": "apply",
     "difficulty": 2,
-    "difficultyTier": "discriminate",
+    "difficultyTier": "apply",
     "sequencePriority": 24,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
   },
   {
     "id": "ac9s2i05-p-025",
@@ -684,21 +636,19 @@ window.skillrPracticeQuestions = [
     "visual": "",
     "answers": [
       "to see whether evidence supports the reasoning",
-      "to rewrite history",
       "to guarantee correctness",
-      "to remove unexpected data"
+      "to rewrite history"
     ],
     "correct": 0,
-    "explanation": "Reflection connects prior thinking with evidence.\nHint: Use the observations and science idea in the question.",
+    "explanation": "Reflection connects prior thinking with evidence.",
     "structuredExplanation": {
-      "summary": "Reflection connects prior thinking with evidence.",
-      "hint": "Use the observations and science idea in the question."
+      "summary": "Reflection connects prior thinking with evidence."
     },
-    "stage": "discriminate",
+    "stage": "apply",
     "difficulty": 2,
-    "difficultyTier": "discriminate",
+    "difficultyTier": "apply",
     "sequencePriority": 25,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
   },
   {
     "id": "ac9s2i05-p-026",
@@ -712,21 +662,19 @@ window.skillrPracticeQuestions = [
     "visual": "",
     "answers": [
       "to copy blindly",
-      "to vote on truth",
-      "to avoid recording",
-      "to check for agreement and notice possible differences"
+      "to check for agreement and notice possible differences",
+      "to vote on truth"
     ],
-    "correct": 3,
-    "explanation": "Comparison can reveal reliability or method issues.\nHint: Use the observations and science idea in the question.",
+    "correct": 1,
+    "explanation": "Comparison can reveal reliability or method issues.",
     "structuredExplanation": {
-      "summary": "Comparison can reveal reliability or method issues.",
-      "hint": "Use the observations and science idea in the question."
+      "summary": "Comparison can reveal reliability or method issues."
     },
-    "stage": "discriminate",
+    "stage": "apply",
     "difficulty": 2,
-    "difficultyTier": "discriminate",
+    "difficultyTier": "apply",
     "sequencePriority": 26,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
   },
   {
     "id": "ac9s2i05-p-027",
@@ -739,22 +687,20 @@ window.skillrPracticeQuestions = [
     "audioPrompt": "Why use equal-sized paper pieces?",
     "visual": "",
     "answers": [
-      "size cannot affect absorption",
-      "to change two factors",
       "size is controlled while paper type changes",
-      "larger pieces must win"
+      "size cannot affect absorption",
+      "to change two factors"
     ],
-    "correct": 2,
-    "explanation": "Surface size can affect the result.\nHint: Use the observations and science idea in the question.",
+    "correct": 0,
+    "explanation": "Surface size can affect the result.",
     "structuredExplanation": {
-      "summary": "Surface size can affect the result.",
-      "hint": "Use the observations and science idea in the question."
+      "summary": "Surface size can affect the result."
     },
-    "stage": "discriminate",
+    "stage": "apply",
     "difficulty": 2,
-    "difficultyTier": "discriminate",
+    "difficultyTier": "apply",
     "sequencePriority": 27,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
   },
   {
     "id": "ac9s2i05-p-028",
@@ -767,22 +713,20 @@ window.skillrPracticeQuestions = [
     "audioPrompt": "Two trials match but one differs greatly. What should students do?",
     "visual": "",
     "answers": [
-      "claim no pattern exists immediately",
-      "check the method and repeat if safe",
       "delete the different trial",
-      "change it to match"
+      "claim no pattern exists immediately",
+      "check the method and repeat if safe"
     ],
-    "correct": 1,
-    "explanation": "An unusual result should be investigated honestly.\nHint: Use the observations and science idea in the question.",
+    "correct": 2,
+    "explanation": "An unusual result should be investigated honestly.",
     "structuredExplanation": {
-      "summary": "An unusual result should be investigated honestly.",
-      "hint": "Use the observations and science idea in the question."
+      "summary": "An unusual result should be investigated honestly."
     },
-    "stage": "discriminate",
+    "stage": "apply",
     "difficulty": 2,
-    "difficultyTier": "discriminate",
+    "difficultyTier": "apply",
     "sequencePriority": 28,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
   },
   {
     "id": "ac9s2i05-p-029",
@@ -795,22 +739,20 @@ window.skillrPracticeQuestions = [
     "audioPrompt": "What is a useful improvement after water spills affected results?",
     "visual": "",
     "answers": [
-      "use trays and measure carefully",
       "ignore spills",
       "add random water",
-      "stop labelling"
+      "use trays and measure carefully"
     ],
-    "correct": 0,
-    "explanation": "Controlling spills makes the next comparison fairer.\nHint: Use the observations and science idea in the question.",
+    "correct": 2,
+    "explanation": "Controlling spills makes the next comparison fairer.",
     "structuredExplanation": {
-      "summary": "Controlling spills makes the next comparison fairer.",
-      "hint": "Use the observations and science idea in the question."
+      "summary": "Controlling spills makes the next comparison fairer."
     },
-    "stage": "discriminate",
+    "stage": "apply",
     "difficulty": 2,
-    "difficultyTier": "discriminate",
+    "difficultyTier": "apply",
     "sequencePriority": 29,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
   },
   {
     "id": "ac9s2i05-p-030",
@@ -825,20 +767,18 @@ window.skillrPracticeQuestions = [
     "answers": [
       "Is the Moon happy?",
       "Which drawing is prettiest?",
-      "Can night be removed?",
       "Does the visible shape follow a pattern over more nights?"
     ],
-    "correct": 3,
-    "explanation": "The new question extends observed change.\nHint: Use the observations and science idea in the question.",
+    "correct": 2,
+    "explanation": "The new question extends observed change.",
     "structuredExplanation": {
-      "summary": "The new question extends observed change.",
-      "hint": "Use the observations and science idea in the question."
+      "summary": "The new question extends observed change."
     },
-    "stage": "discriminate",
+    "stage": "apply",
     "difficulty": 2,
-    "difficultyTier": "discriminate",
+    "difficultyTier": "apply",
     "sequencePriority": 30,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
   },
   {
     "id": "ac9s2i05-p-031",
@@ -851,22 +791,20 @@ window.skillrPracticeQuestions = [
     "audioPrompt": "What makes an investigation fair?",
     "visual": "",
     "answers": [
-      "the prediction is correct",
       "all results are equal",
-      "the compared groups differ mainly in the chosen factor",
-      "every condition differs"
+      "the prediction is correct",
+      "the compared groups differ mainly in the chosen factor"
     ],
     "correct": 2,
-    "explanation": "Controlling other factors supports interpretation.\nHint: Use the observations and science idea in the question.",
+    "explanation": "Controlling other factors supports interpretation.",
     "structuredExplanation": {
-      "summary": "Controlling other factors supports interpretation.",
-      "hint": "Use the observations and science idea in the question."
+      "summary": "Controlling other factors supports interpretation."
     },
     "stage": "apply",
-    "difficulty": 3,
+    "difficulty": 2,
     "difficultyTier": "apply",
     "sequencePriority": 31,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
   },
   {
     "id": "ac9s2i05-p-032",
@@ -881,20 +819,18 @@ window.skillrPracticeQuestions = [
     "answers": [
       "ignore another observer",
       "notice similarities and differences between records",
-      "make records identical",
-      "choose the longest record"
+      "make records identical"
     ],
     "correct": 1,
-    "explanation": "Comparison examines agreement and difference.\nHint: Use the observations and science idea in the question.",
+    "explanation": "Comparison examines agreement and difference.",
     "structuredExplanation": {
-      "summary": "Comparison examines agreement and difference.",
-      "hint": "Use the observations and science idea in the question."
+      "summary": "Comparison examines agreement and difference."
     },
     "stage": "apply",
-    "difficulty": 3,
+    "difficulty": 2,
     "difficultyTier": "apply",
     "sequencePriority": 32,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
   },
   {
     "id": "ac9s2i05-p-033",
@@ -907,22 +843,20 @@ window.skillrPracticeQuestions = [
     "audioPrompt": "A student predicted a toy car would travel farther on tile than carpet. It travelled 120 cm on tile and 55 cm on carpet. What should the student say?",
     "visual": "",
     "answers": [
-      "The result supported the prediction in this test.",
-      "The prediction must be true for every car.",
-      "The carpet result should be changed.",
-      "The test proves tile is always best."
+      "The result supported the prediction in this test",
+      "The prediction must be true for every car",
+      "The carpet result should be changed"
     ],
     "correct": 0,
-    "explanation": "The measured result matches the direction of the prediction for this investigation.\nHint: Compare the prediction with the actual measurements.",
+    "explanation": "The measured result matches the direction of the prediction for this investigation.",
     "structuredExplanation": {
-      "summary": "The measured result matches the direction of the prediction for this investigation.",
-      "hint": "Compare the prediction with the actual measurements."
+      "summary": "The measured result matches the direction of the prediction for this investigation."
     },
-    "stage": "apply",
+    "stage": "reason",
     "difficulty": 3,
-    "difficultyTier": "apply",
+    "difficultyTier": "reason",
     "sequencePriority": 33,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
   },
   {
     "id": "ac9s2i05-p-034",
@@ -931,26 +865,24 @@ window.skillrPracticeQuestions = [
     "skill": "comparing predictions, results and investigation evidence",
     "printable": true,
     "type": "single",
-    "question": "A prediction says the darker fabric will warm faster, but both fabrics reach the same temperature. What is the best conclusion?",
-    "audioPrompt": "A prediction says the darker fabric will warm faster, but both fabrics reach the same temperature. What is the best conclusion?",
+    "question": "A class predicts dark cloth will warm faster. Both cloths start at the same temperature and have equal readings at each check. What do the readings show?",
+    "audioPrompt": "A class predicts dark cloth will warm faster. Both cloths start at the same temperature and have equal readings at each check. What do the readings show?",
     "visual": "",
     "answers": [
-      "The result should be changed to fit the prediction.",
-      "The darker fabric definitely warmed faster.",
-      "The investigation has no result.",
-      "The prediction was not supported by this result."
+      "This test did not support the prediction",
+      "The dark cloth definitely warmed faster",
+      "The readings must be erased"
     ],
-    "correct": 3,
-    "explanation": "Scientific conclusions compare the prediction with what was actually observed.\nHint: Use the recorded evidence, not the expected answer.",
+    "correct": 0,
+    "explanation": "Equal readings at the same times do not show faster warming of the dark cloth.",
     "structuredExplanation": {
-      "summary": "Scientific conclusions compare the prediction with what was actually observed.",
-      "hint": "Use the recorded evidence, not the expected answer."
+      "summary": "Equal readings at the same times do not show faster warming of the dark cloth."
     },
-    "stage": "apply",
+    "stage": "reason",
     "difficulty": 3,
-    "difficultyTier": "apply",
+    "difficultyTier": "reason",
     "sequencePriority": 34,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
   },
   {
     "id": "ac9s2i05-p-035",
@@ -963,22 +895,20 @@ window.skillrPracticeQuestions = [
     "audioPrompt": "Two groups repeat the same test and get slightly different distances. What should they do?",
     "visual": "",
     "answers": [
-      "Choose the result they prefer.",
-      "Assume one group cheated.",
-      "Compare methods and results to look for a reason for the difference.",
-      "Delete the smaller result."
+      "Choose the result they prefer",
+      "Assume one group cheated",
+      "Compare methods and results to look for a reason for the difference"
     ],
     "correct": 2,
-    "explanation": "Differences can be investigated by checking procedures and repeated evidence.\nHint: Look for a scientific comparison rather than blame.",
+    "explanation": "Differences can be investigated by checking procedures and repeated evidence.",
     "structuredExplanation": {
-      "summary": "Differences can be investigated by checking procedures and repeated evidence.",
-      "hint": "Look for a scientific comparison rather than blame."
+      "summary": "Differences can be investigated by checking procedures and repeated evidence."
     },
-    "stage": "apply",
+    "stage": "reason",
     "difficulty": 3,
-    "difficultyTier": "apply",
+    "difficultyTier": "reason",
     "sequencePriority": 35,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
   },
   {
     "id": "ac9s2i05-p-036",
@@ -991,22 +921,20 @@ window.skillrPracticeQuestions = [
     "audioPrompt": "A class changes both the ramp height and the car between two trials. Why is the result hard to interpret?",
     "visual": "",
     "answers": [
-      "The class used two trials.",
-      "More than one factor changed.",
-      "The car moved.",
-      "Distance was measured."
+      "More than one factor changed",
+      "The class used two trials",
+      "The car moved"
     ],
-    "correct": 1,
-    "explanation": "When several factors change, it is hard to know which caused the difference.\nHint: Think about fairness.",
+    "correct": 0,
+    "explanation": "When several factors change, it is hard to know which caused the difference.",
     "structuredExplanation": {
-      "summary": "When several factors change, it is hard to know which caused the difference.",
-      "hint": "Think about fairness."
+      "summary": "When several factors change, it is hard to know which caused the difference."
     },
-    "stage": "apply",
+    "stage": "reason",
     "difficulty": 3,
-    "difficultyTier": "apply",
+    "difficultyTier": "reason",
     "sequencePriority": 36,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
   },
   {
     "id": "ac9s2i05-p-037",
@@ -1019,22 +947,20 @@ window.skillrPracticeQuestions = [
     "audioPrompt": "A student records an unexpected result. What is the correct response?",
     "visual": "",
     "answers": [
-      "Keep the result and consider repeating the test.",
-      "Erase it because it is unusual.",
-      "Replace it with the prediction.",
-      "Copy another group’s result."
+      "Replace it with the prediction",
+      "Erase it because it is unusual",
+      "Keep the result and consider repeating the test"
     ],
-    "correct": 0,
-    "explanation": "Unexpected observations are still evidence and should be recorded honestly.\nHint: Preserve the evidence first.",
+    "correct": 2,
+    "explanation": "Unexpected observations are still evidence and should be recorded honestly.",
     "structuredExplanation": {
-      "summary": "Unexpected observations are still evidence and should be recorded honestly.",
-      "hint": "Preserve the evidence first."
+      "summary": "Unexpected observations are still evidence and should be recorded honestly."
     },
-    "stage": "apply",
+    "stage": "reason",
     "difficulty": 3,
-    "difficultyTier": "apply",
+    "difficultyTier": "reason",
     "sequencePriority": 37,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
   },
   {
     "id": "ac9s2i05-p-038",
@@ -1047,22 +973,20 @@ window.skillrPracticeQuestions = [
     "audioPrompt": "A prediction and result match once. What should a student avoid claiming?",
     "visual": "",
     "answers": [
-      "That the result matched this prediction.",
-      "That more trials could provide more evidence.",
-      "That the measurement should be recorded.",
-      "That the same result must happen every time in every situation."
+      "That the result matched this prediction",
+      "That more trials could provide more evidence",
+      "That the same result must happen every time in every situation"
     ],
-    "correct": 3,
-    "explanation": "One trial does not justify a universal claim.\nHint: Avoid words such as always and every.",
+    "correct": 2,
+    "explanation": "One trial doesn't justify a universal claim.",
     "structuredExplanation": {
-      "summary": "One trial does not justify a universal claim.",
-      "hint": "Avoid words such as always and every."
+      "summary": "One trial doesn't justify a universal claim."
     },
-    "stage": "apply",
+    "stage": "reason",
     "difficulty": 3,
-    "difficultyTier": "apply",
+    "difficultyTier": "reason",
     "sequencePriority": 38,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
   },
   {
     "id": "ac9s2i05-p-039",
@@ -1075,22 +999,20 @@ window.skillrPracticeQuestions = [
     "audioPrompt": "Which result gives the strongest evidence for a repeated pattern?",
     "visual": "",
     "answers": [
-      "A result copied from a friend.",
-      "A prediction written after the test.",
-      "Three similar trials give close measurements.",
-      "One unmeasured guess."
+      "Three similar trials give close measurements",
+      "A result copied from a friend",
+      "A prediction written after the test"
     ],
-    "correct": 2,
-    "explanation": "Repeated similar results provide stronger evidence of consistency.\nHint: Look for repeated measurements.",
+    "correct": 0,
+    "explanation": "Repeated similar results provide stronger evidence of consistency.",
     "structuredExplanation": {
-      "summary": "Repeated similar results provide stronger evidence of consistency.",
-      "hint": "Look for repeated measurements."
+      "summary": "Repeated similar results provide stronger evidence of consistency."
     },
-    "stage": "apply",
+    "stage": "reason",
     "difficulty": 3,
-    "difficultyTier": "apply",
+    "difficultyTier": "reason",
     "sequencePriority": 39,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
   },
   {
     "id": "ac9s2i05-p-040",
@@ -1103,21 +1025,227 @@ window.skillrPracticeQuestions = [
     "audioPrompt": "A student predicted the long rubber band would make a lower sound. The long band sounded lower in three trials. What is a careful conclusion?",
     "visual": "",
     "answers": [
-      "The prediction becomes a scientific law.",
-      "The results supported the prediction for the bands tested.",
-      "Long rubber bands always make the lowest sound possible.",
-      "The short band was not making sound."
+      "Long rubber bands always make the lowest sound possible",
+      "The results supported the prediction for the bands tested",
+      "The prediction becomes a scientific law"
     ],
     "correct": 1,
-    "explanation": "A careful conclusion stays within the evidence collected.\nHint: Keep the conclusion limited to the test.",
+    "explanation": "A careful conclusion stays within the evidence collected.",
     "structuredExplanation": {
-      "summary": "A careful conclusion stays within the evidence collected.",
-      "hint": "Keep the conclusion limited to the test."
+      "summary": "A careful conclusion stays within the evidence collected."
     },
-    "stage": "apply",
+    "stage": "reason",
     "difficulty": 3,
-    "difficultyTier": "apply",
+    "difficultyTier": "reason",
     "sequencePriority": 40,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
+  },
+  {
+    "id": "ac9s2i05-p-041",
+    "curriculumCode": "AC9S2I05",
+    "bank": "practice",
+    "skill": "comparing predictions, results and investigation evidence",
+    "printable": true,
+    "type": "single",
+    "question": "A child predicted a foil boat would hold four blocks. It held six before sinking. Did the prediction match?",
+    "audioPrompt": "A child predicted a foil boat would hold four blocks. It held six before sinking. Did the prediction match?",
+    "visual": "",
+    "answers": [
+      "Yes, it held exactly four",
+      "No, it held two more than predicted",
+      "No, it held two fewer"
+    ],
+    "correct": 1,
+    "explanation": "Six is two more than four, so the recorded amount differed from the prediction.",
+    "structuredExplanation": {
+      "summary": "Six is two more than four, so the recorded amount differed from the prediction."
+    },
+    "stage": "reason",
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 41,
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
+  },
+  {
+    "id": "ac9s2i05-p-042",
+    "curriculumCode": "AC9S2I05",
+    "bank": "practice",
+    "skill": "comparing predictions, results and investigation evidence",
+    "printable": true,
+    "type": "single",
+    "question": "One group observes ants for one minute and another for ten minutes. Why might their counts differ?",
+    "audioPrompt": "One group observes ants for one minute and another for ten minutes. Why might their counts differ?",
+    "visual": "",
+    "answers": [
+      "All ants have changed size",
+      "They watched for different lengths of time",
+      "The notebooks caused the difference"
+    ],
+    "correct": 1,
+    "explanation": "More observation time can allow more visits to be counted.",
+    "structuredExplanation": {
+      "summary": "More observation time can allow more visits to be counted."
+    },
+    "stage": "reason",
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 42,
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
+  },
+  {
+    "id": "ac9s2i05-p-043",
+    "curriculumCode": "AC9S2I05",
+    "bank": "practice",
+    "skill": "comparing predictions, results and investigation evidence",
+    "printable": true,
+    "type": "single",
+    "question": "Two groups test the same magnet. One uses steel clips; the other uses plastic clips. What should they compare first?",
+    "audioPrompt": "Two groups test the same magnet. One uses steel clips; the other uses plastic clips. What should they compare first?",
+    "visual": "",
+    "answers": [
+      "The clip materials",
+      "Their handwriting",
+      "Their shoe sizes"
+    ],
+    "correct": 0,
+    "explanation": "Different materials can explain different attraction results.",
+    "structuredExplanation": {
+      "summary": "Different materials can explain different attraction results."
+    },
+    "stage": "reason",
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 43,
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
+  },
+  {
+    "id": "ac9s2i05-p-044",
+    "curriculumCode": "AC9S2I05",
+    "bank": "practice",
+    "skill": "comparing predictions, results and investigation evidence",
+    "printable": true,
+    "type": "single",
+    "question": "A class predicts a sponge will return to its shape after a squeeze. It springs back. What does this result show?",
+    "audioPrompt": "A class predicts a sponge will return to its shape after a squeeze. It springs back. What does this result show?",
+    "visual": "",
+    "answers": [
+      "The sponge became a new material",
+      "The prediction was made too late",
+      "The observation matches the prediction"
+    ],
+    "correct": 2,
+    "explanation": "Springing back is the change the class predicted.",
+    "structuredExplanation": {
+      "summary": "Springing back is the change the class predicted."
+    },
+    "stage": "reason",
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 44,
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
+  },
+  {
+    "id": "ac9s2i05-p-045",
+    "curriculumCode": "AC9S2I05",
+    "bank": "practice",
+    "skill": "comparing predictions, results and investigation evidence",
+    "printable": true,
+    "type": "single",
+    "question": "A seed investigation has no record for Friday. Can a class claim the seed grew that day?",
+    "audioPrompt": "A seed investigation has no record for Friday. Can a class claim the seed grew that day?",
+    "visual": "",
+    "answers": [
+      "No, Friday's growth was not recorded",
+      "Yes, it can copy Thursday's result",
+      "Yes, it can choose any height"
+    ],
+    "correct": 0,
+    "explanation": "Missing observations do not provide evidence for a claim about that day.",
+    "structuredExplanation": {
+      "summary": "Missing observations do not provide evidence for a claim about that day."
+    },
+    "stage": "reason",
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 45,
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
+  },
+  {
+    "id": "ac9s2i05-p-046",
+    "curriculumCode": "AC9S2I05",
+    "bank": "practice",
+    "skill": "comparing predictions, results and investigation evidence",
+    "printable": true,
+    "type": "single",
+    "question": "A child expected a smooth stone to float. It sank. What further question could be tested?",
+    "audioPrompt": "A child expected a smooth stone to float. It sank. What further question could be tested?",
+    "visual": "",
+    "answers": [
+      "Is the stone unlucky?",
+      "Does the stone dislike swimming?",
+      "Do other smooth stones float or sink?"
+    ],
+    "correct": 2,
+    "explanation": "Testing other stones can explore whether smoothness predicts floating.",
+    "structuredExplanation": {
+      "summary": "Testing other stones can explore whether smoothness predicts floating."
+    },
+    "stage": "reason",
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 46,
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
+  },
+  {
+    "id": "ac9s2i05-p-047",
+    "curriculumCode": "AC9S2I05",
+    "bank": "practice",
+    "skill": "comparing predictions, results and investigation evidence",
+    "printable": true,
+    "type": "single",
+    "question": "Children disagree about whether a rattle was louder with more seeds. What could help them check?",
+    "audioPrompt": "Children disagree about whether a rattle was louder with more seeds. What could help them check?",
+    "visual": "",
+    "answers": [
+      "Ask who likes the rattle most",
+      "Repeat from the same listening place with the same shaking action",
+      "Move farther away for only one trial"
+    ],
+    "correct": 1,
+    "explanation": "Keeping the action and listening place similar makes the comparison clearer.",
+    "structuredExplanation": {
+      "summary": "Keeping the action and listening place similar makes the comparison clearer."
+    },
+    "stage": "reason",
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 47,
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
+  },
+  {
+    "id": "ac9s2i05-p-048",
+    "curriculumCode": "AC9S2I05",
+    "bank": "practice",
+    "skill": "comparing predictions, results and investigation evidence",
+    "printable": true,
+    "type": "single",
+    "question": "A group compared cloth drying times, but rain wet one sample again. What should their report mention?",
+    "audioPrompt": "A group compared cloth drying times, but rain wet one sample again. What should their report mention?",
+    "visual": "",
+    "answers": [
+      "Both samples had identical conditions",
+      "Rain changed the conditions for one sample",
+      "The slower result should be hidden"
+    ],
+    "correct": 1,
+    "explanation": "The extra rainwater could affect drying time and needs to be reported.",
+    "structuredExplanation": {
+      "summary": "The extra rainwater could affect drying time and needs to be reported."
+    },
+    "stage": "reason",
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 48,
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
   }
 ];

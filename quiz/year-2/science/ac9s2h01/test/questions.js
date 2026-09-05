@@ -1,5 +1,5 @@
 "use strict";
-window.skillrExamQuestions = [
+window.skillrTestQuestions = [
   {
     "id": "ac9s2h01-t-001",
     "curriculumCode": "AC9S2H01",
@@ -11,21 +11,20 @@ window.skillrExamQuestions = [
     "audioPrompt": "A family compares electricity use on cool and very hot days. What could repeated records help them notice?",
     "visual": "",
     "answers": [
-      "Which appliance has the nicest colour.",
-      "That temperature never changes.",
-      "A pattern in how electricity use changes with temperature.",
-      "The exact future bill without any uncertainty."
+      "Which appliance has the nicest colour",
+      "That temperature never changes",
+      "A pattern in how electricity use changes with temperature"
     ],
     "correct": 2,
-    "explanation": "Repeated records can reveal relationships between conditions and everyday resource use.\nHint: Choose the relationship supported by the records.",
+    "explanation": "Repeated records can reveal relationships between conditions and everyday resource use.",
     "structuredExplanation": {
-      "summary": "Repeated records can reveal relationships between conditions and everyday resource use.",
-      "hint": "Choose the relationship supported by the records."
+      "summary": "Repeated records can reveal relationships between conditions and everyday resource use."
     },
-    "difficulty": 3,
-    "difficultyTier": "independent",
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
     "sequencePriority": 1,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
   },
   {
     "id": "ac9s2h01-t-002",
@@ -38,21 +37,20 @@ window.skillrExamQuestions = [
     "audioPrompt": "A cook checks whether bread dough rises faster in a warm place than a cool place. Why is this useful science in daily life?",
     "visual": "",
     "answers": [
-      "It guarantees every loaf will be identical.",
-      "It can help choose conditions that make the process work well.",
-      "It proves warmth changes flour into a different substance instantly.",
-      "It means timing is unnecessary."
+      "It can help choose conditions that make the process work well",
+      "It guarantees every loaf will be identical",
+      "It proves warmth changes flour into a different substance instantly"
     ],
-    "correct": 1,
-    "explanation": "Testing conditions can help improve everyday processes.\nHint: Connect the investigation to a practical decision.",
+    "correct": 0,
+    "explanation": "Testing conditions can help improve everyday processes.",
     "structuredExplanation": {
-      "summary": "Testing conditions can help improve everyday processes.",
-      "hint": "Connect the investigation to a practical decision."
+      "summary": "Testing conditions can help improve everyday processes."
     },
-    "difficulty": 3,
-    "difficultyTier": "independent",
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
     "sequencePriority": 2,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
   },
   {
     "id": "ac9s2h01-t-003",
@@ -65,21 +63,20 @@ window.skillrExamQuestions = [
     "audioPrompt": "After several mornings of heavy dew, a child predicts the grass may be wet tomorrow morning too. Why is this a reasonable prediction?",
     "visual": "",
     "answers": [
-      "It is based on a repeated recent pattern.",
-      "It is certain because one person said so.",
-      "It ignores previous observations.",
-      "It changes yesterday’s weather."
+      "It ignores previous observations",
+      "It is based on a repeated recent pattern",
+      "It is certain because one person said so"
     ],
-    "correct": 0,
-    "explanation": "Predictions are stronger when they use repeated observations.\nHint: Look for the role of repeated evidence.",
+    "correct": 1,
+    "explanation": "Predictions are stronger when they use repeated observations.",
     "structuredExplanation": {
-      "summary": "Predictions are stronger when they use repeated observations.",
-      "hint": "Look for the role of repeated evidence."
+      "summary": "Predictions are stronger when they use repeated observations."
     },
-    "difficulty": 3,
-    "difficultyTier": "independent",
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
     "sequencePriority": 3,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
   },
   {
     "id": "ac9s2h01-t-004",
@@ -92,21 +89,20 @@ window.skillrExamQuestions = [
     "audioPrompt": "A shopkeeper notices ice blocks melt faster when left in sunlight. Which action best uses this science idea?",
     "visual": "",
     "answers": [
-      "Put the ice beside a heater.",
-      "Assume sunlight has no effect.",
-      "Leave the freezer door open.",
-      "Store the ice in a cooler shaded place."
+      "Put the ice beside a heater",
+      "Assume sunlight has no effect",
+      "Store the ice in a cooler shaded place"
     ],
-    "correct": 3,
-    "explanation": "Observations about heating can guide how materials are stored.\nHint: Choose the action that matches the observed effect.",
+    "correct": 2,
+    "explanation": "Observations about heating can guide how materials are stored.",
     "structuredExplanation": {
-      "summary": "Observations about heating can guide how materials are stored.",
-      "hint": "Choose the action that matches the observed effect."
+      "summary": "Observations about heating can guide how materials are stored."
     },
-    "difficulty": 3,
-    "difficultyTier": "independent",
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
     "sequencePriority": 4,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
   },
   {
     "id": "ac9s2h01-t-005",
@@ -119,21 +115,20 @@ window.skillrExamQuestions = [
     "audioPrompt": "A child waters one houseplant only when the soil feels dry. What observation guides the decision?",
     "visual": "",
     "answers": [
-      "The day of the child’s birthday.",
-      "The number of windows in the room.",
-      "The condition of the soil.",
-      "The colour of the watering can."
+      "The day of the child’s birthday",
+      "The number of windows in the room",
+      "The condition of the soil"
     ],
     "correct": 2,
-    "explanation": "The soil condition provides relevant evidence about whether water may be needed.\nHint: Pick the observation connected to the decision.",
+    "explanation": "The soil condition provides relevant evidence about whether water may be needed.",
     "structuredExplanation": {
-      "summary": "The soil condition provides relevant evidence about whether water may be needed.",
-      "hint": "Pick the observation connected to the decision."
+      "summary": "The soil condition provides relevant evidence about whether water may be needed."
     },
-    "difficulty": 3,
-    "difficultyTier": "independent",
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
     "sequencePriority": 5,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
   },
   {
     "id": "ac9s2h01-t-006",
@@ -146,21 +141,20 @@ window.skillrExamQuestions = [
     "audioPrompt": "A family records how long a solar garden light stays on after sunny and cloudy days. What are they investigating?",
     "visual": "",
     "answers": [
-      "Whether darkness stops time.",
-      "How daylight conditions may affect stored energy for the light.",
-      "Whether the light changes colour every night.",
-      "Whether clouds are made of electricity."
+      "Whether the light changes colour every night",
+      "How daylight conditions may affect stored energy for the light",
+      "Whether darkness stops time"
     ],
     "correct": 1,
-    "explanation": "Comparing records can reveal how one condition is related to another.\nHint: Identify the factor being compared.",
+    "explanation": "Comparing records can reveal how one condition is related to another.",
     "structuredExplanation": {
-      "summary": "Comparing records can reveal how one condition is related to another.",
-      "hint": "Identify the factor being compared."
+      "summary": "Comparing records can reveal how one condition is related to another."
     },
-    "difficulty": 3,
-    "difficultyTier": "independent",
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
     "sequencePriority": 6,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
   },
   {
     "id": "ac9s2h01-t-007",
@@ -173,21 +167,20 @@ window.skillrExamQuestions = [
     "audioPrompt": "A doctor uses a measuring scale rather than guessing a child’s mass. Why?",
     "visual": "",
     "answers": [
-      "A measurement gives more precise evidence than a guess.",
-      "Scales make people heavier.",
-      "Guessing is always more accurate.",
-      "Mass cannot be measured."
+      "A measurement gives more precise evidence than a guess",
+      "Scales make people heavier",
+      "Guessing is always more accurate"
     ],
     "correct": 0,
-    "explanation": "Measuring tools provide evidence that can be compared over time.\nHint: Choose the option about evidence quality.",
+    "explanation": "Measuring tools provide evidence that can be compared over time.",
     "structuredExplanation": {
-      "summary": "Measuring tools provide evidence that can be compared over time.",
-      "hint": "Choose the option about evidence quality."
+      "summary": "Measuring tools provide evidence that can be compared over time."
     },
-    "difficulty": 3,
-    "difficultyTier": "independent",
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
     "sequencePriority": 7,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
   },
   {
     "id": "ac9s2h01-t-008",
@@ -200,21 +193,20 @@ window.skillrExamQuestions = [
     "audioPrompt": "A family notices the same room becomes warmer each afternoon when sunlight enters the window. Which change could they try?",
     "visual": "",
     "answers": [
-      "Turn on every lamp.",
-      "Open the refrigerator door.",
-      "Ignore the repeated pattern.",
-      "Close a blind before the strongest sunlight arrives."
+      "Close a blind before the strongest sunlight arrives",
+      "Turn on every lamp",
+      "Open the refrigerator door"
     ],
-    "correct": 3,
-    "explanation": "A repeated observation can guide a practical way to reduce heating.\nHint: Use the pattern to choose a sensible response.",
+    "correct": 0,
+    "explanation": "A repeated observation can guide a practical way to reduce heating.",
     "structuredExplanation": {
-      "summary": "A repeated observation can guide a practical way to reduce heating.",
-      "hint": "Use the pattern to choose a sensible response."
+      "summary": "A repeated observation can guide a practical way to reduce heating."
     },
-    "difficulty": 3,
-    "difficultyTier": "independent",
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
     "sequencePriority": 8,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
   },
   {
     "id": "ac9s2h01-t-009",
@@ -227,21 +219,20 @@ window.skillrExamQuestions = [
     "audioPrompt": "A farmer records rainfall before deciding whether extra watering is needed. Why is the rainfall record useful?",
     "visual": "",
     "answers": [
-      "It changes the amount of rain that fell.",
-      "It replaces all other observations forever.",
-      "It provides evidence about how much water the area has received.",
-      "It guarantees every plant needs the same amount."
+      "It replaces all other observations forever",
+      "It provides evidence about how much water the area has received",
+      "It changes the amount of rain that fell"
     ],
-    "correct": 2,
-    "explanation": "Rainfall records support decisions by providing measured evidence.\nHint: Look for what the record actually tells the farmer.",
+    "correct": 1,
+    "explanation": "Rainfall records support decisions by providing measured evidence.",
     "structuredExplanation": {
-      "summary": "Rainfall records support decisions by providing measured evidence.",
-      "hint": "Look for what the record actually tells the farmer."
+      "summary": "Rainfall records support decisions by providing measured evidence."
     },
-    "difficulty": 3,
-    "difficultyTier": "independent",
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
     "sequencePriority": 9,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
   },
   {
     "id": "ac9s2h01-t-010",
@@ -254,21 +245,20 @@ window.skillrExamQuestions = [
     "audioPrompt": "A child finds that a torch with fresh batteries is brighter than with nearly flat batteries. What conclusion stays closest to the evidence?",
     "visual": "",
     "answers": [
-      "Nearly flat batteries are not batteries.",
-      "In this torch, the fresh batteries produced a brighter light.",
-      "Fresh batteries make every device brighter forever.",
-      "Battery age changes the torch colour."
+      "In this torch, the fresh batteries produced a brighter light",
+      "Nearly flat batteries are not batteries",
+      "Fresh batteries make every device brighter forever"
     ],
-    "correct": 1,
-    "explanation": "Good conclusions describe what the test actually showed without overgeneralising.\nHint: Avoid words such as every or always unless the evidence supports them.",
+    "correct": 0,
+    "explanation": "Good conclusions describe what the test actually showed without overgeneralising.",
     "structuredExplanation": {
-      "summary": "Good conclusions describe what the test actually showed without overgeneralising.",
-      "hint": "Avoid words such as every or always unless the evidence supports them."
+      "summary": "Good conclusions describe what the test actually showed without overgeneralising."
     },
-    "difficulty": 3,
-    "difficultyTier": "independent",
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
     "sequencePriority": 10,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
   },
   {
     "id": "ac9s2h01-t-011",
@@ -281,21 +271,20 @@ window.skillrExamQuestions = [
     "audioPrompt": "A café checks fridge temperature each morning. What is the main reason for using the thermometer?",
     "visual": "",
     "answers": [
-      "To monitor whether the fridge stays at a suitable temperature.",
-      "To make the fridge colder by measuring it.",
-      "To count the food items.",
-      "To predict the weather outside."
+      "To make the fridge colder by measuring it",
+      "To monitor whether the fridge stays at a suitable temperature",
+      "To count the food items"
     ],
-    "correct": 0,
-    "explanation": "A thermometer provides temperature evidence that can be checked over time.\nHint: Think about the measurement the tool provides.",
+    "correct": 1,
+    "explanation": "A thermometer provides temperature evidence that can be checked over time.",
     "structuredExplanation": {
-      "summary": "A thermometer provides temperature evidence that can be checked over time.",
-      "hint": "Think about the measurement the tool provides."
+      "summary": "A thermometer provides temperature evidence that can be checked over time."
     },
-    "difficulty": 3,
-    "difficultyTier": "independent",
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
     "sequencePriority": 11,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
   },
   {
     "id": "ac9s2h01-t-012",
@@ -304,25 +293,24 @@ window.skillrExamQuestions = [
     "skill": "science in daily life and evidence-based predictions",
     "printable": true,
     "type": "single",
-    "question": "A family compares two routes to school and records travel time on several days. Why use several days?",
-    "audioPrompt": "A family compares two routes to school and records travel time on several days. Why use several days?",
+    "question": "A family records both school-route travel times on several days. Why use several days?",
+    "audioPrompt": "A family records both school-route travel times on several days. Why use several days?",
     "visual": "",
     "answers": [
-      "To make both routes the same length.",
-      "To guarantee traffic never changes.",
-      "To avoid recording any times.",
-      "To see whether one route is usually quicker rather than relying on one trip."
+      "To make both routes the same length",
+      "To guarantee traffic never changes",
+      "To see whether a pattern repeats"
     ],
-    "correct": 3,
-    "explanation": "Repeated measurements help identify a more dependable pattern.\nHint: Look for why repeated trials improve a comparison.",
+    "correct": 2,
+    "explanation": "Several days of records help show whether a travel-time pattern repeats.",
     "structuredExplanation": {
-      "summary": "Repeated measurements help identify a more dependable pattern.",
-      "hint": "Look for why repeated trials improve a comparison."
+      "summary": "Several days of records help show whether a travel-time pattern repeats."
     },
-    "difficulty": 3,
-    "difficultyTier": "independent",
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
     "sequencePriority": 12,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
   },
   {
     "id": "ac9s2h01-t-013",
@@ -335,21 +323,20 @@ window.skillrExamQuestions = [
     "audioPrompt": "A child hears a smoke alarm and leaves the room with an adult. How does science contribute to the alarm?",
     "visual": "",
     "answers": [
-      "The sound removes the smoke.",
-      "The alarm works because smoke is always visible.",
-      "The device detects a condition and gives a warning signal.",
-      "The alarm predicts every fire days ahead."
+      "The device detects a condition and gives a warning signal",
+      "The sound removes the smoke",
+      "The alarm works because smoke is always visible"
     ],
-    "correct": 2,
-    "explanation": "Science and technology can use sensors and signals to support safety.\nHint: Choose what the device actually does.",
+    "correct": 0,
+    "explanation": "Science and technology can use sensors and signals to support safety.",
     "structuredExplanation": {
-      "summary": "Science and technology can use sensors and signals to support safety.",
-      "hint": "Choose what the device actually does."
+      "summary": "Science and technology can use sensors and signals to support safety."
     },
-    "difficulty": 3,
-    "difficultyTier": "independent",
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
     "sequencePriority": 13,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
   },
   {
     "id": "ac9s2h01-t-014",
@@ -362,21 +349,20 @@ window.skillrExamQuestions = [
     "audioPrompt": "A gardener compares seed packets that state different preferred planting seasons. How can this information help?",
     "visual": "",
     "answers": [
-      "It changes the season.",
-      "It uses known growing patterns to choose a suitable planting time.",
-      "It proves seeds only grow on one exact date.",
-      "It means weather never matters."
+      "It changes the season",
+      "It proves seeds only grow on one exact date",
+      "It uses known growing patterns to choose a suitable planting time"
     ],
-    "correct": 1,
-    "explanation": "Scientific knowledge about seasonal conditions can guide planting decisions.\nHint: Connect the information to a practical choice.",
+    "correct": 2,
+    "explanation": "Scientific knowledge about seasonal conditions can guide planting decisions.",
     "structuredExplanation": {
-      "summary": "Scientific knowledge about seasonal conditions can guide planting decisions.",
-      "hint": "Connect the information to a practical choice."
+      "summary": "Scientific knowledge about seasonal conditions can guide planting decisions."
     },
-    "difficulty": 3,
-    "difficultyTier": "independent",
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
     "sequencePriority": 14,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
   },
   {
     "id": "ac9s2h01-t-015",
@@ -389,21 +375,20 @@ window.skillrExamQuestions = [
     "audioPrompt": "A family observes that a bathroom mirror fogs after hot showers. Which everyday action uses this observation?",
     "visual": "",
     "answers": [
-      "Use ventilation to help reduce the fogging.",
-      "Paint the mirror darker.",
-      "Turn off every light in the house.",
-      "Assume the mirror has melted."
+      "Use ventilation to help reduce the fogging",
+      "Turn off every light in the house",
+      "Paint the mirror darker"
     ],
     "correct": 0,
-    "explanation": "Understanding how water vapour behaves can guide useful everyday actions.\nHint: Choose the response linked to the observed change.",
+    "explanation": "Understanding how water vapour behaves can guide useful everyday actions.",
     "structuredExplanation": {
-      "summary": "Understanding how water vapour behaves can guide useful everyday actions.",
-      "hint": "Choose the response linked to the observed change."
+      "summary": "Understanding how water vapour behaves can guide useful everyday actions."
     },
-    "difficulty": 3,
-    "difficultyTier": "independent",
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
     "sequencePriority": 15,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
   },
   {
     "id": "ac9s2h01-t-016",
@@ -416,20 +401,19 @@ window.skillrExamQuestions = [
     "audioPrompt": "A child says, “The forecast was wrong once, so weather records are useless.” What is the better scientific view?",
     "visual": "",
     "answers": [
-      "One wrong forecast proves weather has no patterns.",
-      "Predictions are only scientific when always correct.",
-      "Records should be ignored after one mismatch.",
-      "Forecasts use evidence and patterns but predictions can still be uncertain."
+      "One wrong forecast proves weather has no patterns",
+      "Forecasts use evidence and patterns but predictions can still be uncertain",
+      "Predictions are only scientific when always correct"
     ],
-    "correct": 3,
-    "explanation": "Scientific predictions are evidence-based but are not guarantees.\nHint: Look for the answer that allows uncertainty while still valuing evidence.",
+    "correct": 1,
+    "explanation": "Scientific predictions are evidence-based but are not guarantees.",
     "structuredExplanation": {
-      "summary": "Scientific predictions are evidence-based but are not guarantees.",
-      "hint": "Look for the answer that allows uncertainty while still valuing evidence."
+      "summary": "Scientific predictions are evidence-based but are not guarantees."
     },
-    "difficulty": 3,
-    "difficultyTier": "independent",
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
     "sequencePriority": 16,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
   }
 ];

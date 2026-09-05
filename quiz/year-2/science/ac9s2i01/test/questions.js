@@ -1,5 +1,5 @@
 "use strict";
-window.skillrExamQuestions = [
+window.skillrTestQuestions = [
   {
     "id": "ac9s2i01-t-001",
     "curriculumCode": "AC9S2I01",
@@ -11,21 +11,20 @@ window.skillrExamQuestions = [
     "audioPrompt": "A child notices wet clothes dry faster outdoors on breezy days. Which question could investigate the pattern?",
     "visual": "",
     "answers": [
-      "Do clothes like being outside?",
-      "Why is blue a good colour?",
       "Does moving air affect how quickly the same wet cloth dries?",
-      "Is wind the best weather?"
+      "Do clothes like being outside?",
+      "Why is blue a good colour?"
     ],
-    "correct": 2,
-    "explanation": "Drying time can be observed while moving air is compared.\nHint: Choose the question with measurable evidence.",
+    "correct": 0,
+    "explanation": "Drying time can be observed while moving air is compared.",
     "structuredExplanation": {
-      "summary": "Drying time can be observed while moving air is compared.",
-      "hint": "Choose the question with measurable evidence."
+      "summary": "Drying time can be observed while moving air is compared."
     },
-    "difficulty": 3,
-    "difficultyTier": "independent",
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
     "sequencePriority": 1,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
   },
   {
     "id": "ac9s2i01-t-002",
@@ -38,21 +37,20 @@ window.skillrExamQuestions = [
     "audioPrompt": "Two identical ice cubes are placed in sun and shade. Which is the best prediction before starting?",
     "visual": "",
     "answers": [
-      "Sunlight will make the cube larger forever.",
-      "The cube in sunlight may melt faster because it receives more heating.",
-      "Both cubes must melt in exactly 10 seconds.",
-      "The shaded cube will turn into metal."
+      "The cube in sunlight may melt faster because it receives more heating",
+      "Both cubes must melt in exactly 10 seconds",
+      "Sunlight will make the cube larger forever"
     ],
-    "correct": 1,
-    "explanation": "A good prediction states an expected result and a relevant reason.\nHint: Look for an expected result plus why.",
+    "correct": 0,
+    "explanation": "A good prediction states an expected result and a relevant reason.",
     "structuredExplanation": {
-      "summary": "A good prediction states an expected result and a relevant reason.",
-      "hint": "Look for an expected result plus why."
+      "summary": "A good prediction states an expected result and a relevant reason."
     },
-    "difficulty": 3,
-    "difficultyTier": "independent",
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
     "sequencePriority": 2,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
   },
   {
     "id": "ac9s2i01-t-003",
@@ -61,25 +59,24 @@ window.skillrExamQuestions = [
     "skill": "questions and reasoned predictions",
     "printable": true,
     "type": "single",
-    "question": "A class sees more birds near a feeder in the morning than at lunch. Which follow-up question is testable?",
-    "audioPrompt": "A class sees more birds near a feeder in the morning than at lunch. Which follow-up question is testable?",
+    "question": "Birds visit a tree at breakfast and lunch. Which question could a class test by counting?",
+    "audioPrompt": "Birds visit a tree at breakfast and lunch. Which question could a class test by counting?",
     "visual": "",
     "answers": [
-      "Are more birds counted at the feeder in the morning than at lunch over several days?",
-      "Which bird has the nicest song?",
-      "Do birds enjoy mornings?",
-      "Why are birds clever?"
+      "Which bird is the prettiest?",
+      "Do birds enjoy clocks?",
+      "Are there more bird visits at breakfast or lunch?"
     ],
-    "correct": 0,
-    "explanation": "Bird counts at set times can be observed and compared.\nHint: Choose a question that tells you what to count.",
+    "correct": 2,
+    "explanation": "Bird visits can be counted for equal observation times and compared.",
     "structuredExplanation": {
-      "summary": "Bird counts at set times can be observed and compared.",
-      "hint": "Choose a question that tells you what to count."
+      "summary": "Bird visits can be counted for equal observation times and compared."
     },
-    "difficulty": 3,
-    "difficultyTier": "independent",
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
     "sequencePriority": 3,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
   },
   {
     "id": "ac9s2i01-t-004",
@@ -92,21 +89,20 @@ window.skillrExamQuestions = [
     "audioPrompt": "A student predicts a ball will bounce higher on concrete than grass. What evidence would test the prediction?",
     "visual": "",
     "answers": [
-      "Record the ball colour only.",
-      "Ask which surface looks better.",
-      "Change the ball after every bounce.",
-      "Measure or compare the bounce height on each surface."
+      "Record the ball colour only",
+      "Measure or compare the bounce height on each surface",
+      "Ask which surface looks better"
     ],
-    "correct": 3,
-    "explanation": "The prediction is about bounce height, so that is the outcome to observe.\nHint: Match the evidence to the prediction.",
+    "correct": 1,
+    "explanation": "The prediction is about bounce height, so that is the outcome to observe.",
     "structuredExplanation": {
-      "summary": "The prediction is about bounce height, so that is the outcome to observe.",
-      "hint": "Match the evidence to the prediction."
+      "summary": "The prediction is about bounce height, so that is the outcome to observe."
     },
-    "difficulty": 3,
-    "difficultyTier": "independent",
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
     "sequencePriority": 4,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
   },
   {
     "id": "ac9s2i01-t-005",
@@ -119,21 +115,20 @@ window.skillrExamQuestions = [
     "audioPrompt": "A child asks whether larger paper planes fly farther. What must be clear before testing?",
     "visual": "",
     "answers": [
-      "Which result the child wants.",
-      "How to make every plane a different shape and material.",
-      "What counts as larger and how flight distance will be compared.",
-      "Which plane is prettiest."
+      "How to make every plane a different shape and material",
+      "What counts as larger and how flight distance will be compared",
+      "Which result the child wants"
     ],
-    "correct": 2,
-    "explanation": "Clear variables and observations make the question testable.\nHint: Identify what must be measured or controlled.",
+    "correct": 1,
+    "explanation": "Clear variables and observations make the question testable.",
     "structuredExplanation": {
-      "summary": "Clear variables and observations make the question testable.",
-      "hint": "Identify what must be measured or controlled."
+      "summary": "Clear variables and observations make the question testable."
     },
-    "difficulty": 3,
-    "difficultyTier": "independent",
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
     "sequencePriority": 5,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
   },
   {
     "id": "ac9s2i01-t-006",
@@ -146,21 +141,20 @@ window.skillrExamQuestions = [
     "audioPrompt": "A prediction says, “The dark fabric may warm faster in sunlight.” Which result would support it?",
     "visual": "",
     "answers": [
-      "The thermometer is blue.",
-      "The dark fabric reaches a higher temperature sooner in the test.",
-      "The light fabric has a nicer pattern.",
-      "Both fabrics are the same size."
+      "The thermometer is blue",
+      "The light fabric has a nicer pattern",
+      "The dark fabric reaches a higher temperature sooner in the test"
     ],
-    "correct": 1,
-    "explanation": "Supporting evidence must match the predicted outcome.\nHint: Look for the measured result connected to warming.",
+    "correct": 2,
+    "explanation": "Supporting evidence must match the predicted outcome.",
     "structuredExplanation": {
-      "summary": "Supporting evidence must match the predicted outcome.",
-      "hint": "Look for the measured result connected to warming."
+      "summary": "Supporting evidence must match the predicted outcome."
     },
-    "difficulty": 3,
-    "difficultyTier": "independent",
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
     "sequencePriority": 6,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
   },
   {
     "id": "ac9s2i01-t-007",
@@ -173,21 +167,20 @@ window.skillrExamQuestions = [
     "audioPrompt": "A class observes that magnets pick up paper clips but not wooden craft sticks. Which prediction is reasonable?",
     "visual": "",
     "answers": [
-      "Another similar metal paper clip may also be attracted.",
-      "Every object in the room will be attracted.",
-      "Wood will always become metal.",
-      "The magnet will stop being a magnet after one use."
+      "Every object in the room will be attracted",
+      "Wood will always become metal",
+      "Another similar metal paper clip may also be attracted"
     ],
-    "correct": 0,
-    "explanation": "Predictions should stay close to the observed evidence.\nHint: Avoid an overgeneralised claim.",
+    "correct": 2,
+    "explanation": "Predictions should stay close to the observed evidence.",
     "structuredExplanation": {
-      "summary": "Predictions should stay close to the observed evidence.",
-      "hint": "Avoid an overgeneralised claim."
+      "summary": "Predictions should stay close to the observed evidence."
     },
-    "difficulty": 3,
-    "difficultyTier": "independent",
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
     "sequencePriority": 7,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
   },
   {
     "id": "ac9s2i01-t-008",
@@ -200,21 +193,20 @@ window.skillrExamQuestions = [
     "audioPrompt": "Which question would need changing before it can be investigated scientifically?",
     "visual": "",
     "answers": [
-      "Which rock is heaviest?",
       "Which rock is roughest to touch?",
-      "Which rock absorbs the most drops of water?",
+      "Which rock is heaviest?",
       "Which rock is the most beautiful?"
     ],
-    "correct": 3,
-    "explanation": "Beauty is mainly an opinion, while the other features can be observed or measured.\nHint: Choose the question based on personal preference.",
+    "correct": 2,
+    "explanation": "Beauty is mainly an opinion, while the other features can be observed or measured.",
     "structuredExplanation": {
-      "summary": "Beauty is mainly an opinion, while the other features can be observed or measured.",
-      "hint": "Choose the question based on personal preference."
+      "summary": "Beauty is mainly an opinion, while the other features can be observed or measured."
     },
-    "difficulty": 3,
-    "difficultyTier": "independent",
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
     "sequencePriority": 8,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
   },
   {
     "id": "ac9s2i01-t-009",
@@ -223,25 +215,24 @@ window.skillrExamQuestions = [
     "skill": "questions and reasoned predictions",
     "printable": true,
     "type": "single",
-    "question": "A student asks, “Does the amount of water affect plant growth?” Which prediction is best?",
-    "audioPrompt": "A student asks, “Does the amount of water affect plant growth?” Which prediction is best?",
+    "question": "A class gives similar seedlings different amounts of water. Which prediction fits this question?",
+    "audioPrompt": "A class gives similar seedlings different amounts of water. Which prediction fits this question?",
     "visual": "",
     "answers": [
-      "Water always makes every plant grow fastest.",
-      "Plants do not need observations.",
-      "Plants given a suitable amount of water may grow more than plants given too little.",
-      "All plants given water will be exactly 20 cm tall."
+      "Every seedling will grow fastest with unlimited water",
+      "Seedlings given some water may grow more than those given none",
+      "Watering will turn seedlings into soil"
     ],
-    "correct": 2,
-    "explanation": "The prediction is cautious, testable and linked to plant needs.\nHint: Prefer a testable may statement.",
+    "correct": 1,
+    "explanation": "The prediction gives a possible growth difference that can be checked.",
     "structuredExplanation": {
-      "summary": "The prediction is cautious, testable and linked to plant needs.",
-      "hint": "Prefer a testable may statement."
+      "summary": "The prediction gives a possible growth difference that can be checked."
     },
-    "difficulty": 3,
-    "difficultyTier": "independent",
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
     "sequencePriority": 9,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
   },
   {
     "id": "ac9s2i01-t-010",
@@ -254,21 +245,20 @@ window.skillrExamQuestions = [
     "audioPrompt": "A class notices a metal spoon feels cooler than a wooden spoon in the same room. What is a useful next question?",
     "visual": "",
     "answers": [
-      "Why is metal shiny?",
       "Do different materials feel equally cool when kept in the same place?",
-      "Which spoon has the best name?",
-      "Can spoons think?"
+      "Why is metal shiny?",
+      "Which spoon has the best name?"
     ],
-    "correct": 1,
-    "explanation": "The question follows directly from an observation and can be compared.\nHint: Use the observed difference to form the question.",
+    "correct": 0,
+    "explanation": "The question follows directly from an observation and can be compared.",
     "structuredExplanation": {
-      "summary": "The question follows directly from an observation and can be compared.",
-      "hint": "Use the observed difference to form the question."
+      "summary": "The question follows directly from an observation and can be compared."
     },
-    "difficulty": 3,
-    "difficultyTier": "independent",
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
     "sequencePriority": 10,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
   },
   {
     "id": "ac9s2i01-t-011",
@@ -281,21 +271,20 @@ window.skillrExamQuestions = [
     "audioPrompt": "A child predicts that adding more books to a toy bridge will make it bend more. Which result would not support the prediction?",
     "visual": "",
     "answers": [
-      "The bridge bends less as more books are added.",
-      "The bridge bends more after each added book.",
-      "The bridge starts nearly straight.",
-      "The number of books is recorded."
+      "The bridge starts nearly straight",
+      "The bridge bends less as more books are added",
+      "The bridge bends more after each added book"
     ],
-    "correct": 0,
-    "explanation": "A result in the opposite direction does not support the predicted pattern.\nHint: Look for the opposite outcome.",
+    "correct": 1,
+    "explanation": "A result in the opposite direction doesn't support the predicted pattern.",
     "structuredExplanation": {
-      "summary": "A result in the opposite direction does not support the predicted pattern.",
-      "hint": "Look for the opposite outcome."
+      "summary": "A result in the opposite direction doesn't support the predicted pattern."
     },
-    "difficulty": 3,
-    "difficultyTier": "independent",
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
     "sequencePriority": 11,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
   },
   {
     "id": "ac9s2i01-t-012",
@@ -309,20 +298,19 @@ window.skillrExamQuestions = [
     "visual": "",
     "answers": [
       "Is sound good?",
-      "Why is music fun?",
-      "Which student hears best?",
-      "How does the loudness heard change as the listener moves farther from the same sound source?"
+      "does distance change loudness?",
+      "Why is music fun?"
     ],
-    "correct": 3,
-    "explanation": "The clear question identifies what changes and what is observed.\nHint: Look for distance and loudness in the same question.",
+    "correct": 1,
+    "explanation": "The clear question identifies what changes and what is observed.",
     "structuredExplanation": {
-      "summary": "The clear question identifies what changes and what is observed.",
-      "hint": "Look for distance and loudness in the same question."
+      "summary": "The clear question identifies what changes and what is observed."
     },
-    "difficulty": 3,
-    "difficultyTier": "independent",
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
     "sequencePriority": 12,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
   },
   {
     "id": "ac9s2i01-t-013",
@@ -331,25 +319,24 @@ window.skillrExamQuestions = [
     "skill": "questions and reasoned predictions",
     "printable": true,
     "type": "single",
-    "question": "A student writes a prediction after seeing the results. Why is this a problem?",
-    "audioPrompt": "A student writes a prediction after seeing the results. Why is this a problem?",
+    "question": "A student calls a statement a prediction after seeing the test result. What is the problem?",
+    "audioPrompt": "A student calls a statement a prediction after seeing the test result. What is the problem?",
     "visual": "",
     "answers": [
-      "Results should always be changed to fit predictions.",
-      "The order never matters in science.",
-      "A prediction should be made before the test so it can be compared with the result.",
-      "Predictions are only allowed after results."
+      "A prediction should say what may happen before testing",
+      "Results should be changed to match predictions",
+      "Tests must never have results"
     ],
-    "correct": 2,
-    "explanation": "Predictions are statements made before evidence from the test is known.\nHint: Think about when a prediction is made.",
+    "correct": 0,
+    "explanation": "A prediction is made before the outcome is known.",
     "structuredExplanation": {
-      "summary": "Predictions are statements made before evidence from the test is known.",
-      "hint": "Think about when a prediction is made."
+      "summary": "A prediction is made before the outcome is known."
     },
-    "difficulty": 3,
-    "difficultyTier": "independent",
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
     "sequencePriority": 13,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
   },
   {
     "id": "ac9s2i01-t-014",
@@ -358,25 +345,24 @@ window.skillrExamQuestions = [
     "skill": "questions and reasoned predictions",
     "printable": true,
     "type": "single",
-    "question": "A child notices a plant by the window leans toward the light. Which prediction could be checked?",
-    "audioPrompt": "A child notices a plant by the window leans toward the light. Which prediction could be checked?",
+    "question": "A plant leans towards a window. The pot is turned around. What might new growth do?",
+    "audioPrompt": "A plant leans towards a window. The pot is turned around. What might new growth do?",
     "visual": "",
     "answers": [
-      "The window will move toward the plant.",
-      "If the pot is turned, new growth may bend toward the light again.",
-      "The plant will become a lamp.",
-      "Every leaf will fall immediately."
+      "Turn the window around",
+      "Change into a lamp",
+      "Bend towards the light again"
     ],
-    "correct": 1,
-    "explanation": "The prediction extends the observed response to a new test.\nHint: Choose the idea that can be checked by observation.",
+    "correct": 2,
+    "explanation": "The first observation supports a prediction about new growth towards light.",
     "structuredExplanation": {
-      "summary": "The prediction extends the observed response to a new test.",
-      "hint": "Choose the idea that can be checked by observation."
+      "summary": "The first observation supports a prediction about new growth towards light."
     },
-    "difficulty": 3,
-    "difficultyTier": "independent",
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
     "sequencePriority": 14,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
   },
   {
     "id": "ac9s2i01-t-015",
@@ -389,21 +375,20 @@ window.skillrExamQuestions = [
     "audioPrompt": "Which statement is a result rather than a prediction?",
     "visual": "",
     "answers": [
-      "The car travelled 85 cm on the smooth ramp.",
-      "The car may travel farther on the smooth ramp.",
-      "I think the smooth ramp will be faster.",
-      "The ball might bounce higher on concrete."
+      "The car travelled 85 cm on the smooth ramp",
+      "The car may travel farther on the smooth ramp",
+      "I think the smooth ramp will be faster"
     ],
     "correct": 0,
-    "explanation": "A result reports what was actually observed or measured.\nHint: Look for a completed measurement.",
+    "explanation": "A result reports what was actually observed or measured.",
     "structuredExplanation": {
-      "summary": "A result reports what was actually observed or measured.",
-      "hint": "Look for a completed measurement."
+      "summary": "A result reports what was actually observed or measured."
     },
-    "difficulty": 3,
-    "difficultyTier": "independent",
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
     "sequencePriority": 15,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
   },
   {
     "id": "ac9s2i01-t-016",
@@ -416,20 +401,19 @@ window.skillrExamQuestions = [
     "audioPrompt": "A prediction is not supported by the results. What should the student do?",
     "visual": "",
     "answers": [
-      "Change the result to match the prediction.",
-      "Hide the result.",
-      "Repeat until the preferred answer appears.",
-      "Record the result accurately and explain that the prediction was not supported."
+      "Record the result accurately and explain that the prediction was not supported",
+      "Change the result to match the prediction",
+      "Hide the result"
     ],
-    "correct": 3,
-    "explanation": "Science reports evidence honestly even when it differs from a prediction.\nHint: Choose the action that keeps the evidence unchanged.",
+    "correct": 0,
+    "explanation": "Science reports evidence honestly even when it differs from a prediction.",
     "structuredExplanation": {
-      "summary": "Science reports evidence honestly even when it differs from a prediction.",
-      "hint": "Choose the action that keeps the evidence unchanged."
+      "summary": "Science reports evidence honestly even when it differs from a prediction."
     },
-    "difficulty": 3,
-    "difficultyTier": "independent",
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
     "sequencePriority": 16,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
   }
 ];

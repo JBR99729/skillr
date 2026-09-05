@@ -1,5 +1,5 @@
 "use strict";
-window.skillrExamQuestions = [
+window.skillrTestQuestions = [
   {
     "id": "ac9s2u03-t-001",
     "curriculumCode": "AC9S2U03",
@@ -11,21 +11,20 @@ window.skillrExamQuestions = [
     "audioPrompt": "A clay snake is rolled back into a ball. What does this show?",
     "visual": "",
     "answers": [
-      "Rolling always breaks clay permanently.",
-      "Shape cannot change more than once.",
-      "Some shape changes can be reversed.",
-      "Clay becomes a new material each time it is shaped."
+      "Some shape changes can be reversed",
+      "Rolling always breaks clay permanently",
+      "Shape cannot change more than once"
     ],
-    "correct": 2,
-    "explanation": "Soft materials can often be reshaped repeatedly.\nHint: Think about reversibility.",
+    "correct": 0,
+    "explanation": "Soft materials can often be reshaped repeatedly.",
     "structuredExplanation": {
-      "summary": "Soft materials can often be reshaped repeatedly.",
-      "hint": "Think about reversibility."
+      "summary": "Soft materials can often be reshaped repeatedly."
     },
-    "difficulty": 3,
-    "difficultyTier": "independent",
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
     "sequencePriority": 1,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
   },
   {
     "id": "ac9s2u03-t-002",
@@ -38,21 +37,20 @@ window.skillrExamQuestions = [
     "audioPrompt": "A piece of paper is folded into a fan. Which statement is correct?",
     "visual": "",
     "answers": [
-      "The paper changed into liquid.",
-      "The paper changed shape but is still paper.",
-      "The paper became metal.",
-      "The fold removed the paper’s material."
+      "The paper changed into liquid",
+      "The paper changed shape but is still paper",
+      "The paper became metal"
     ],
     "correct": 1,
-    "explanation": "Folding is a physical change in shape.\nHint: Identify what changed and what stayed the same.",
+    "explanation": "Folding is a physical change in shape.",
     "structuredExplanation": {
-      "summary": "Folding is a physical change in shape.",
-      "hint": "Identify what changed and what stayed the same."
+      "summary": "Folding is a physical change in shape."
     },
-    "difficulty": 3,
-    "difficultyTier": "independent",
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
     "sequencePriority": 2,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
   },
   {
     "id": "ac9s2u03-t-003",
@@ -65,21 +63,20 @@ window.skillrExamQuestions = [
     "audioPrompt": "A dry cracker is snapped in half. What is the clearest observation?",
     "visual": "",
     "answers": [
-      "The cracker is now in smaller pieces.",
-      "The cracker became a different material.",
-      "The cracker’s mass disappeared.",
-      "The cracker changed into water."
+      "The cracker is now in smaller pieces",
+      "The cracker’s mass disappeared",
+      "The cracker became a different material"
     ],
     "correct": 0,
-    "explanation": "Breaking changes size and shape of the pieces.\nHint: Describe only the visible change.",
+    "explanation": "Breaking changes size and shape of the pieces.",
     "structuredExplanation": {
-      "summary": "Breaking changes size and shape of the pieces.",
-      "hint": "Describe only the visible change."
+      "summary": "Breaking changes size and shape of the pieces."
     },
-    "difficulty": 3,
-    "difficultyTier": "independent",
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
     "sequencePriority": 3,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
   },
   {
     "id": "ac9s2u03-t-004",
@@ -92,21 +89,20 @@ window.skillrExamQuestions = [
     "audioPrompt": "A metal spoon is bent slightly. Which property changed most directly?",
     "visual": "",
     "answers": [
-      "Material type.",
-      "Colour necessarily.",
-      "Whether it has mass.",
-      "Shape."
+      "Shape",
+      "Material type",
+      "Colour necessarily"
     ],
-    "correct": 3,
-    "explanation": "Bending changes geometry without necessarily changing the material.\nHint: Choose the direct physical property.",
+    "correct": 0,
+    "explanation": "Bending changes geometry without necessarily changing the material.",
     "structuredExplanation": {
-      "summary": "Bending changes geometry without necessarily changing the material.",
-      "hint": "Choose the direct physical property."
+      "summary": "Bending changes geometry without necessarily changing the material."
     },
-    "difficulty": 3,
-    "difficultyTier": "independent",
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
     "sequencePriority": 4,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
   },
   {
     "id": "ac9s2u03-t-005",
@@ -119,21 +115,20 @@ window.skillrExamQuestions = [
     "audioPrompt": "Which pair shows two different ways to change shape?",
     "visual": "",
     "answers": [
-      "Cooling a book and counting a spoon.",
-      "Measuring a cup and drawing a line.",
-      "Stretching a band and squashing clay.",
-      "Looking at paper and naming a rock."
+      "Stretching a band and squashing clay",
+      "Cooling a book and counting a spoon",
+      "Measuring a cup and drawing a line"
     ],
-    "correct": 2,
-    "explanation": "Stretching and squashing both apply forces that deform materials.\nHint: Choose two actions that physically reshape objects.",
+    "correct": 0,
+    "explanation": "Stretching and squashing both apply forces that deform materials.",
     "structuredExplanation": {
-      "summary": "Stretching and squashing both apply forces that deform materials.",
-      "hint": "Choose two actions that physically reshape objects."
+      "summary": "Stretching and squashing both apply forces that deform materials."
     },
-    "difficulty": 3,
-    "difficultyTier": "independent",
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
     "sequencePriority": 5,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
   },
   {
     "id": "ac9s2u03-t-006",
@@ -146,21 +141,20 @@ window.skillrExamQuestions = [
     "audioPrompt": "Why is glass usually a poor choice for a bending investigation by hand?",
     "visual": "",
     "answers": [
-      "Glass becomes rubber when bent.",
-      "It can break sharply and cause injury.",
-      "Glass cannot have a shape.",
-      "Glass is always soft."
+      "It can break sharply and cause injury",
+      "Glass cannot have a shape",
+      "Glass becomes rubber when bent"
     ],
-    "correct": 1,
-    "explanation": "Brittle glass can fracture and is unsafe for this kind of test.\nHint: Consider safety and material properties.",
+    "correct": 0,
+    "explanation": "Brittle glass can fracture and is unsafe for this kind of test.",
     "structuredExplanation": {
-      "summary": "Brittle glass can fracture and is unsafe for this kind of test.",
-      "hint": "Consider safety and material properties."
+      "summary": "Brittle glass can fracture and is unsafe for this kind of test."
     },
-    "difficulty": 3,
-    "difficultyTier": "independent",
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
     "sequencePriority": 6,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
   },
   {
     "id": "ac9s2u03-t-007",
@@ -173,21 +167,20 @@ window.skillrExamQuestions = [
     "audioPrompt": "A rubber band returns close to its original length after being stretched gently. What does this show?",
     "visual": "",
     "answers": [
-      "The change was largely reversible.",
-      "The band became a new material.",
-      "The band permanently doubled in size.",
-      "Stretching removed its elasticity."
+      "The band became a new material",
+      "The band permanently doubled in size",
+      "The change was largely reversible"
     ],
-    "correct": 0,
-    "explanation": "Elastic materials can return toward their original shape after the force is removed.\nHint: Think about what happens after release.",
+    "correct": 2,
+    "explanation": "Elastic materials can return toward their original shape after the force is removed.",
     "structuredExplanation": {
-      "summary": "Elastic materials can return toward their original shape after the force is removed.",
-      "hint": "Think about what happens after release."
+      "summary": "Elastic materials can return toward their original shape after the force is removed."
     },
-    "difficulty": 3,
-    "difficultyTier": "independent",
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
     "sequencePriority": 7,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
   },
   {
     "id": "ac9s2u03-t-008",
@@ -200,21 +193,20 @@ window.skillrExamQuestions = [
     "audioPrompt": "A sheet of aluminium foil is crumpled. Which statement is most accurate?",
     "visual": "",
     "answers": [
-      "It changed into a different substance.",
-      "Its mass vanished.",
-      "It became liquid.",
-      "Its shape changed greatly, but it is still aluminium foil."
+      "It changed into a different substance",
+      "Its mass vanished",
+      "Its shape changed greatly, but it is still aluminium foil"
     ],
-    "correct": 3,
-    "explanation": "Crumpling changes form rather than material identity.\nHint: Separate shape from composition.",
+    "correct": 2,
+    "explanation": "Crumpling changes form rather than material identity.",
     "structuredExplanation": {
-      "summary": "Crumpling changes form rather than material identity.",
-      "hint": "Separate shape from composition."
+      "summary": "Crumpling changes form rather than material identity."
     },
-    "difficulty": 3,
-    "difficultyTier": "independent",
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
     "sequencePriority": 8,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
   },
   {
     "id": "ac9s2u03-t-009",
@@ -227,21 +219,20 @@ window.skillrExamQuestions = [
     "audioPrompt": "A sponge and a stone are squeezed with similar gentle force. The sponge changes shape much more. What can be compared?",
     "visual": "",
     "answers": [
-      "Whether both became new substances.",
-      "Whether force has no effect on materials.",
-      "How easily the materials deform.",
-      "Which object has the better colour."
+      "How easily the materials deform",
+      "Whether force has no effect on materials",
+      "Whether both became new substances"
     ],
-    "correct": 2,
-    "explanation": "Different materials can respond differently to the same type of force.\nHint: Compare their response to force.",
+    "correct": 0,
+    "explanation": "Different materials can respond differently to the same type of force.",
     "structuredExplanation": {
-      "summary": "Different materials can respond differently to the same type of force.",
-      "hint": "Compare their response to force."
+      "summary": "Different materials can respond differently to the same type of force."
     },
-    "difficulty": 3,
-    "difficultyTier": "independent",
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
     "sequencePriority": 9,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
   },
   {
     "id": "ac9s2u03-t-010",
@@ -254,21 +245,20 @@ window.skillrExamQuestions = [
     "audioPrompt": "A student twists a pipe cleaner into a spiral. What physical change occurred?",
     "visual": "",
     "answers": [
-      "It changed into gas.",
-      "Its shape changed by twisting.",
-      "It became paper.",
-      "It lost all its mass."
+      "It changed into gas",
+      "Its shape changed by twisting",
+      "It became paper"
     ],
     "correct": 1,
-    "explanation": "Twisting can reshape a flexible material.\nHint: Name the action and property changed.",
+    "explanation": "Twisting can reshape a flexible material.",
     "structuredExplanation": {
-      "summary": "Twisting can reshape a flexible material.",
-      "hint": "Name the action and property changed."
+      "summary": "Twisting can reshape a flexible material."
     },
-    "difficulty": 3,
-    "difficultyTier": "independent",
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
     "sequencePriority": 10,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
   },
   {
     "id": "ac9s2u03-t-011",
@@ -281,21 +271,20 @@ window.skillrExamQuestions = [
     "audioPrompt": "Which change is hardest to reverse exactly?",
     "visual": "",
     "answers": [
-      "Tearing a sheet of paper into many pieces.",
-      "Gently stretching an elastic band.",
-      "Squashing soft clay and reshaping it.",
-      "Bending a pipe cleaner and straightening it."
+      "Gently stretching an elastic band",
+      "Squashing soft clay and reshaping it",
+      "Tearing a sheet of paper into many pieces"
     ],
-    "correct": 0,
-    "explanation": "Tearing separates the material into pieces, making exact restoration difficult.\nHint: Compare reversibility.",
+    "correct": 2,
+    "explanation": "Tearing separates the material into pieces, making exact restoration difficult.",
     "structuredExplanation": {
-      "summary": "Tearing separates the material into pieces, making exact restoration difficult.",
-      "hint": "Compare reversibility."
+      "summary": "Tearing separates the material into pieces, making exact restoration difficult."
     },
-    "difficulty": 3,
-    "difficultyTier": "independent",
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
     "sequencePriority": 11,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
   },
   {
     "id": "ac9s2u03-t-012",
@@ -308,21 +297,20 @@ window.skillrExamQuestions = [
     "audioPrompt": "A child says, “If an object changes shape, it must be a new material.” Which example disproves this?",
     "visual": "",
     "answers": [
-      "Iron is a metal.",
-      "Water can be measured.",
-      "A shadow can move.",
-      "Clay can be flattened and still remain clay."
+      "Water can be measured",
+      "Clay can be flattened and still remain clay",
+      "Iron is a metal"
     ],
-    "correct": 3,
-    "explanation": "A shape change does not necessarily change material identity.\nHint: Choose an example where form changes but material does not.",
+    "correct": 1,
+    "explanation": "A shape change doesn't necessarily change material identity.",
     "structuredExplanation": {
-      "summary": "A shape change does not necessarily change material identity.",
-      "hint": "Choose an example where form changes but material does not."
+      "summary": "A shape change doesn't necessarily change material identity."
     },
-    "difficulty": 3,
-    "difficultyTier": "independent",
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
     "sequencePriority": 12,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
   },
   {
     "id": "ac9s2u03-t-013",
@@ -335,21 +323,20 @@ window.skillrExamQuestions = [
     "audioPrompt": "What force action changes a towel when it is twisted to remove water?",
     "visual": "",
     "answers": [
-      "Reflecting.",
-      "Vibrating only.",
-      "Twisting.",
-      "Orbiting."
+      "Reflecting",
+      "Vibrating only",
+      "Twisting"
     ],
     "correct": 2,
-    "explanation": "Twisting applies forces that alter the towel’s shape.\nHint: Name the action being used.",
+    "explanation": "Twisting applies forces that alter the towel’s shape.",
     "structuredExplanation": {
-      "summary": "Twisting applies forces that alter the towel’s shape.",
-      "hint": "Name the action being used."
+      "summary": "Twisting applies forces that alter the towel’s shape."
     },
-    "difficulty": 3,
-    "difficultyTier": "independent",
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
     "sequencePriority": 13,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
   },
   {
     "id": "ac9s2u03-t-014",
@@ -358,25 +345,24 @@ window.skillrExamQuestions = [
     "skill": "physical changes to materials",
     "printable": true,
     "type": "single",
-    "question": "A cardboard tube is squashed flat. Which observation is valid?",
-    "audioPrompt": "A cardboard tube is squashed flat. Which observation is valid?",
+    "question": "A cardboard tube is squashed flat. What changed?",
+    "audioPrompt": "A cardboard tube is squashed flat. What changed?",
     "visual": "",
     "answers": [
-      "The colour must have changed.",
-      "The tube’s cross-sectional shape changed.",
-      "The cardboard became glass.",
-      "The tube lost all matter."
+      "The cardboard became glass",
+      "The tube is flatter than before",
+      "The colour must have changed"
     ],
     "correct": 1,
-    "explanation": "Squashing alters the form of the tube.\nHint: Describe the visible physical effect.",
+    "explanation": "Squashing changes the shape of the tube while it remains cardboard.",
     "structuredExplanation": {
-      "summary": "Squashing alters the form of the tube.",
-      "hint": "Describe the visible physical effect."
+      "summary": "Squashing changes the shape of the tube while it remains cardboard."
     },
-    "difficulty": 3,
-    "difficultyTier": "independent",
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
     "sequencePriority": 14,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
   },
   {
     "id": "ac9s2u03-t-015",
@@ -385,25 +371,24 @@ window.skillrExamQuestions = [
     "skill": "physical changes to materials",
     "printable": true,
     "type": "single",
-    "question": "Which investigation best compares material flexibility?",
-    "audioPrompt": "Which investigation best compares material flexibility?",
+    "question": "How can children compare how easily two materials bend?",
+    "audioPrompt": "How can children compare how easily two materials bend?",
     "visual": "",
     "answers": [
-      "Bend equal-sized samples gently by the same amount of force and observe how they change.",
-      "Use different-sized samples and different forces without recording.",
-      "Choose the softest-looking sample only.",
-      "Break every sample as hard as possible."
+      "Choose the brightest strip without testing",
+      "Use different sizes and pushes without recording",
+      "Use equal-sized strips and the same gentle bending action"
     ],
-    "correct": 0,
-    "explanation": "A fair comparison keeps conditions similar while observing how materials deform.\nHint: Look for a consistent, safe method.",
+    "correct": 2,
+    "explanation": "Keeping size and action similar makes the bending comparison clearer.",
     "structuredExplanation": {
-      "summary": "A fair comparison keeps conditions similar while observing how materials deform.",
-      "hint": "Look for a consistent, safe method."
+      "summary": "Keeping size and action similar makes the bending comparison clearer."
     },
-    "difficulty": 3,
-    "difficultyTier": "independent",
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
     "sequencePriority": 15,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
   },
   {
     "id": "ac9s2u03-t-016",
@@ -416,20 +401,19 @@ window.skillrExamQuestions = [
     "audioPrompt": "A child rolls dough, folds paper and stretches elastic. What common idea links these actions?",
     "visual": "",
     "answers": [
-      "All materials become new substances.",
-      "Only colour can change.",
-      "Shape changes happen without any force.",
-      "Forces can change the shape of materials."
+      "All materials become new substances",
+      "Forces can change the shape of materials",
+      "Only colour can change"
     ],
-    "correct": 3,
-    "explanation": "Each action applies a force that changes form.\nHint: Find the shared effect of the actions.",
+    "correct": 1,
+    "explanation": "Each action applies a force that changes form.",
     "structuredExplanation": {
-      "summary": "Each action applies a force that changes form.",
-      "hint": "Find the shared effect of the actions."
+      "summary": "Each action applies a force that changes form."
     },
-    "difficulty": 3,
-    "difficultyTier": "independent",
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
     "sequencePriority": 16,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
   }
 ];

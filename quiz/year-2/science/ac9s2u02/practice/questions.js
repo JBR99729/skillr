@@ -11,22 +11,20 @@ window.skillrPracticeQuestions = [
     "audioPrompt": "An elastic band moves quickly back and forth while making a sound. What is this movement?",
     "visual": "",
     "answers": [
-      "a vibration",
-      "an orbit",
       "a shadow",
-      "a material change"
+      "an orbit",
+      "a vibration"
     ],
-    "correct": 0,
-    "explanation": "A vibration is repeated back-and-forth movement.\nHint: Use the observations and science idea in the question.",
+    "correct": 2,
+    "explanation": "A vibration is repeated back-and-forth movement.",
     "structuredExplanation": {
-      "summary": "A vibration is repeated back-and-forth movement.",
-      "hint": "Use the observations and science idea in the question."
+      "summary": "A vibration is repeated back-and-forth movement."
     },
     "stage": "recognise",
     "difficulty": 1,
     "difficultyTier": "recognise",
     "sequencePriority": 1,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
   },
   {
     "id": "ac9s2u02-p-002",
@@ -39,22 +37,20 @@ window.skillrPracticeQuestions = [
     "audioPrompt": "What usually happens first when a drum makes a sound?",
     "visual": "",
     "answers": [
+      "the drum skin vibrates",
       "the drum becomes a new material",
-      "the air turns solid",
-      "the drum stops all movement",
-      "the drum skin vibrates"
+      "the air turns solid"
     ],
-    "correct": 3,
-    "explanation": "Striking starts vibrations that produce sound.\nHint: Use the observations and science idea in the question.",
+    "correct": 0,
+    "explanation": "Striking starts vibrations that produce sound.",
     "structuredExplanation": {
-      "summary": "Striking starts vibrations that produce sound.",
-      "hint": "Use the observations and science idea in the question."
+      "summary": "Striking starts vibrations that produce sound."
     },
     "stage": "recognise",
     "difficulty": 1,
     "difficultyTier": "recognise",
     "sequencePriority": 2,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
   },
   {
     "id": "ac9s2u02-p-003",
@@ -69,20 +65,18 @@ window.skillrPracticeQuestions = [
     "answers": [
       "covering it gently",
       "leaving it still",
-      "plucking it",
-      "looking at it"
+      "plucking it"
     ],
     "correct": 2,
-    "explanation": "Plucking starts the string vibrating.\nHint: Use the observations and science idea in the question.",
+    "explanation": "Plucking starts the string vibrating.",
     "structuredExplanation": {
-      "summary": "Plucking starts the string vibrating.",
-      "hint": "Use the observations and science idea in the question."
+      "summary": "Plucking starts the string vibrating."
     },
     "stage": "recognise",
     "difficulty": 1,
     "difficultyTier": "recognise",
     "sequencePriority": 3,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
   },
   {
     "id": "ac9s2u02-p-004",
@@ -95,22 +89,20 @@ window.skillrPracticeQuestions = [
     "audioPrompt": "Which action is used to make a triangle instrument ring?",
     "visual": "",
     "answers": [
-      "cooling it",
       "striking it",
       "stretching it into pieces",
-      "staring at it"
+      "cooling it"
     ],
-    "correct": 1,
-    "explanation": "A strike starts the metal vibrating.\nHint: Use the observations and science idea in the question.",
+    "correct": 0,
+    "explanation": "A strike starts the metal vibrating.",
     "structuredExplanation": {
-      "summary": "A strike starts the metal vibrating.",
-      "hint": "Use the observations and science idea in the question."
+      "summary": "A strike starts the metal vibrating."
     },
     "stage": "recognise",
     "difficulty": 1,
     "difficultyTier": "recognise",
     "sequencePriority": 4,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
   },
   {
     "id": "ac9s2u02-p-005",
@@ -123,22 +115,20 @@ window.skillrPracticeQuestions = [
     "audioPrompt": "What action makes a maraca sound?",
     "visual": "",
     "answers": [
-      "shaking it",
       "folding it",
-      "painting it",
-      "placing it still"
+      "shaking it",
+      "painting it"
     ],
-    "correct": 0,
-    "explanation": "Shaking makes the contents and shell vibrate.\nHint: Use the observations and science idea in the question.",
+    "correct": 1,
+    "explanation": "Shaking makes the contents and shell vibrate.",
     "structuredExplanation": {
-      "summary": "Shaking makes the contents and shell vibrate.",
-      "hint": "Use the observations and science idea in the question."
+      "summary": "Shaking makes the contents and shell vibrate."
     },
     "stage": "recognise",
     "difficulty": 1,
     "difficultyTier": "recognise",
     "sequencePriority": 5,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
   },
   {
     "id": "ac9s2u02-p-006",
@@ -151,22 +141,20 @@ window.skillrPracticeQuestions = [
     "audioPrompt": "A recorder makes sound when a child —",
     "visual": "",
     "answers": [
+      "blows air into it",
       "bends it",
-      "covers it in cloth",
-      "holds it still",
-      "blows air into it"
+      "covers it in cloth"
     ],
-    "correct": 3,
-    "explanation": "Moving air causes vibrations in the recorder.\nHint: Use the observations and science idea in the question.",
+    "correct": 0,
+    "explanation": "Moving air causes vibrations in the recorder.",
     "structuredExplanation": {
-      "summary": "Moving air causes vibrations in the recorder.",
-      "hint": "Use the observations and science idea in the question."
+      "summary": "Moving air causes vibrations in the recorder."
     },
     "stage": "recognise",
     "difficulty": 1,
     "difficultyTier": "recognise",
     "sequencePriority": 6,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
   },
   {
     "id": "ac9s2u02-p-007",
@@ -179,22 +167,20 @@ window.skillrPracticeQuestions = [
     "audioPrompt": "Rubbing a wet finger around a glass rim can make a tone because the rim —",
     "visual": "",
     "answers": [
-      "changes material",
       "stops moving",
-      "vibrates",
-      "becomes a star"
+      "changes material",
+      "vibrates"
     ],
     "correct": 2,
-    "explanation": "Rubbing can start a repeated vibration.\nHint: Use the observations and science idea in the question.",
+    "explanation": "Rubbing can start a repeated vibration.",
     "structuredExplanation": {
-      "summary": "Rubbing can start a repeated vibration.",
-      "hint": "Use the observations and science idea in the question."
+      "summary": "Rubbing can start a repeated vibration."
     },
     "stage": "recognise",
     "difficulty": 1,
     "difficultyTier": "recognise",
     "sequencePriority": 7,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
   },
   {
     "id": "ac9s2u02-p-008",
@@ -207,22 +193,20 @@ window.skillrPracticeQuestions = [
     "audioPrompt": "A ruler over a desk edge looks blurry while it buzzes. What is the best explanation?",
     "visual": "",
     "answers": [
-      "the ruler has become sound",
       "it is vibrating quickly",
-      "it is melting",
-      "the desk is orbiting"
+      "the ruler has become sound",
+      "it is melting"
     ],
-    "correct": 1,
-    "explanation": "Fast vibration can look blurred.\nHint: Use the observations and science idea in the question.",
+    "correct": 0,
+    "explanation": "Fast vibration can look blurred.",
     "structuredExplanation": {
-      "summary": "Fast vibration can look blurred.",
-      "hint": "Use the observations and science idea in the question."
+      "summary": "Fast vibration can look blurred."
     },
     "stage": "recognise",
     "difficulty": 1,
     "difficultyTier": "recognise",
     "sequencePriority": 8,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
   },
   {
     "id": "ac9s2u02-p-009",
@@ -237,20 +221,18 @@ window.skillrPracticeQuestions = [
     "answers": [
       "gently touch their throat while humming",
       "shout into another person's ear",
-      "put an object in their mouth",
-      "hit their throat"
+      "put an object in their mouth"
     ],
     "correct": 0,
-    "explanation": "A gentle touch can feel the voice box vibrating.\nHint: Use the observations and science idea in the question.",
+    "explanation": "A gentle touch can feel the voice box vibrating.",
     "structuredExplanation": {
-      "summary": "A gentle touch can feel the voice box vibrating.",
-      "hint": "Use the observations and science idea in the question."
+      "summary": "A gentle touch can feel the voice box vibrating."
     },
     "stage": "recognise",
     "difficulty": 1,
     "difficultyTier": "recognise",
     "sequencePriority": 9,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
   },
   {
     "id": "ac9s2u02-p-010",
@@ -263,22 +245,20 @@ window.skillrPracticeQuestions = [
     "audioPrompt": "Which pair describes volume?",
     "visual": "",
     "answers": [
-      "high and low",
+      "loud and soft",
       "long and short",
-      "bright and dark",
-      "loud and soft"
+      "high and low"
     ],
-    "correct": 3,
-    "explanation": "Loud and soft tell how strong a sound seems.\nHint: Use the observations and science idea in the question.",
+    "correct": 0,
+    "explanation": "Loud and soft tell how strong a sound seems.",
     "structuredExplanation": {
-      "summary": "Loud and soft tell how strong a sound seems.",
-      "hint": "Use the observations and science idea in the question."
+      "summary": "Loud and soft tell how strong a sound seems."
     },
     "stage": "recognise",
     "difficulty": 1,
     "difficultyTier": "recognise",
     "sequencePriority": 10,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
   },
   {
     "id": "ac9s2u02-p-011",
@@ -292,21 +272,19 @@ window.skillrPracticeQuestions = [
     "visual": "",
     "answers": [
       "rough and smooth",
-      "fast and bright",
       "high and low",
-      "loud and soft"
+      "fast and bright"
     ],
-    "correct": 2,
-    "explanation": "Pitch tells how high or low a sound is.\nHint: Use the observations and science idea in the question.",
+    "correct": 1,
+    "explanation": "Pitch tells how high or low a sound is.",
     "structuredExplanation": {
-      "summary": "Pitch tells how high or low a sound is.",
-      "hint": "Use the observations and science idea in the question."
+      "summary": "Pitch tells how high or low a sound is."
     },
-    "stage": "explain",
-    "difficulty": 2,
-    "difficultyTier": "explain",
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
     "sequencePriority": 11,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
   },
   {
     "id": "ac9s2u02-p-012",
@@ -321,20 +299,18 @@ window.skillrPracticeQuestions = [
     "answers": [
       "nothing including the action",
       "one feature at a time",
-      "every feature at once",
-      "the listener each second"
+      "every feature at once"
     ],
     "correct": 1,
-    "explanation": "One change helps link it to the sound difference.\nHint: Use the observations and science idea in the question.",
+    "explanation": "One change helps link it to the sound difference.",
     "structuredExplanation": {
-      "summary": "One change helps link it to the sound difference.",
-      "hint": "Use the observations and science idea in the question."
+      "summary": "One change helps link it to the sound difference."
     },
-    "stage": "explain",
-    "difficulty": 2,
-    "difficultyTier": "explain",
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
     "sequencePriority": 12,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
   },
   {
     "id": "ac9s2u02-p-013",
@@ -347,22 +323,20 @@ window.skillrPracticeQuestions = [
     "audioPrompt": "A drum is tapped gently, then struck more strongly in the same place. What will most likely change?",
     "visual": "",
     "answers": [
-      "the second sound will be louder",
-      "the drum becomes a different material",
       "the second sound must be higher",
-      "no vibration occurs"
+      "the drum becomes a different material",
+      "the second sound will be louder"
     ],
-    "correct": 0,
-    "explanation": "A stronger strike usually makes a larger vibration and louder sound.\nHint: Use the observations and science idea in the question.",
+    "correct": 2,
+    "explanation": "A stronger strike usually makes a larger vibration and louder sound.",
     "structuredExplanation": {
-      "summary": "A stronger strike usually makes a larger vibration and louder sound.",
-      "hint": "Use the observations and science idea in the question."
+      "summary": "A stronger strike usually makes a larger vibration and louder sound."
     },
-    "stage": "explain",
-    "difficulty": 2,
-    "difficultyTier": "explain",
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
     "sequencePriority": 13,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
   },
   {
     "id": "ac9s2u02-p-014",
@@ -377,20 +351,18 @@ window.skillrPracticeQuestions = [
     "answers": [
       "the pitch always doubles",
       "the phone stops vibrating completely",
-      "the towel becomes metal",
       "the sound becomes softer"
     ],
-    "correct": 3,
-    "explanation": "The towel reduces sound reaching the listener.\nHint: Use the observations and science idea in the question.",
+    "correct": 2,
+    "explanation": "The towel reduces sound reaching the listener.",
     "structuredExplanation": {
-      "summary": "The towel reduces sound reaching the listener.",
-      "hint": "Use the observations and science idea in the question."
+      "summary": "The towel reduces sound reaching the listener."
     },
-    "stage": "explain",
-    "difficulty": 2,
-    "difficultyTier": "explain",
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
     "sequencePriority": 14,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
   },
   {
     "id": "ac9s2u02-p-015",
@@ -399,26 +371,24 @@ window.skillrPracticeQuestions = [
     "skill": "sound produced by vibrations",
     "printable": true,
     "type": "single",
-    "question": "Which statement is correct?",
-    "audioPrompt": "Which statement is correct?",
+    "question": "What is sound linked to?",
+    "audioPrompt": "What is sound linked to?",
     "visual": "",
     "answers": [
       "sound only exists in instruments",
-      "sound changes paper into metal",
       "sound energy is linked to vibrating objects",
-      "sound is a colour"
+      "sound changes paper into metal"
     ],
-    "correct": 2,
-    "explanation": "Vibrations transfer sound energy.\nHint: Use the observations and science idea in the question.",
+    "correct": 1,
+    "explanation": "Vibrations transfer sound energy.",
     "structuredExplanation": {
-      "summary": "Vibrations transfer sound energy.",
-      "hint": "Use the observations and science idea in the question."
+      "summary": "Vibrations transfer sound energy."
     },
-    "stage": "explain",
-    "difficulty": 2,
-    "difficultyTier": "explain",
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
     "sequencePriority": 15,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
   },
   {
     "id": "ac9s2u02-p-016",
@@ -431,22 +401,20 @@ window.skillrPracticeQuestions = [
     "audioPrompt": "A bell sits still and is not struck or shaken. Why is it silent?",
     "visual": "",
     "answers": [
-      "the room has no gravity",
-      "it is not vibrating enough to make sound",
       "all bells are silent",
-      "it has no colour"
+      "it is not vibrating enough to make sound",
+      "the room has no gravity"
     ],
     "correct": 1,
-    "explanation": "A sound-making vibration has not been started.\nHint: Use the observations and science idea in the question.",
+    "explanation": "A sound-making vibration has not been started.",
     "structuredExplanation": {
-      "summary": "A sound-making vibration has not been started.",
-      "hint": "Use the observations and science idea in the question."
+      "summary": "A sound-making vibration has not been started."
     },
-    "stage": "explain",
-    "difficulty": 2,
-    "difficultyTier": "explain",
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
     "sequencePriority": 16,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
   },
   {
     "id": "ac9s2u02-p-017",
@@ -459,22 +427,20 @@ window.skillrPracticeQuestions = [
     "audioPrompt": "A speaker cone moves too quickly to see clearly. Which evidence could still show vibration?",
     "visual": "",
     "answers": [
-      "a light paper scrap on it moves",
       "its colour is blue",
       "its label has letters",
-      "the table is rectangular"
+      "a light paper scrap on it moves"
     ],
-    "correct": 0,
-    "explanation": "Movement of the scrap is visible evidence.\nHint: Use the observations and science idea in the question.",
+    "correct": 2,
+    "explanation": "Movement of the scrap is visible evidence.",
     "structuredExplanation": {
-      "summary": "Movement of the scrap is visible evidence.",
-      "hint": "Use the observations and science idea in the question."
+      "summary": "Movement of the scrap is visible evidence."
     },
-    "stage": "explain",
+    "stage": "apply",
     "difficulty": 2,
-    "difficultyTier": "explain",
+    "difficultyTier": "apply",
     "sequencePriority": 17,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
   },
   {
     "id": "ac9s2u02-p-018",
@@ -483,26 +449,24 @@ window.skillrPracticeQuestions = [
     "skill": "sound produced by vibrations",
     "printable": true,
     "type": "single",
-    "question": "Rice grains jump when a nearby drum is struck. What does this show?",
-    "audioPrompt": "Rice grains jump when a nearby drum is struck. What does this show?",
+    "question": "Rice grains rest on a drum skin. They jump when the drum is tapped. What moves them?",
+    "audioPrompt": "Rice grains rest on a drum skin. They jump when the drum is tapped. What moves them?",
     "visual": "",
     "answers": [
-      "rice makes all sound",
-      "the drum became rice",
-      "sound has no movement",
-      "the drum skin is vibrating"
+      "The drum's colour",
+      "The vibrating drum skin",
+      "The air becoming solid"
     ],
-    "correct": 3,
-    "explanation": "The moving skin pushes the grains.\nHint: Use the observations and science idea in the question.",
+    "correct": 1,
+    "explanation": "The vibrating skin pushes the grains, making the movement visible.",
     "structuredExplanation": {
-      "summary": "The moving skin pushes the grains.",
-      "hint": "Use the observations and science idea in the question."
+      "summary": "The vibrating skin pushes the grains, making the movement visible."
     },
-    "stage": "explain",
+    "stage": "apply",
     "difficulty": 2,
-    "difficultyTier": "explain",
+    "difficultyTier": "apply",
     "sequencePriority": 18,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
   },
   {
     "id": "ac9s2u02-p-019",
@@ -515,22 +479,20 @@ window.skillrPracticeQuestions = [
     "audioPrompt": "A vibrating tuning fork touches water and makes splashes. What is the splash evidence of?",
     "visual": "",
     "answers": [
-      "water changing to metal",
       "an orbit",
       "the fork's vibration",
-      "the fork melting"
+      "water changing to metal"
     ],
-    "correct": 2,
-    "explanation": "The moving prongs disturb the water.\nHint: Use the observations and science idea in the question.",
+    "correct": 1,
+    "explanation": "The moving prongs disturb the water.",
     "structuredExplanation": {
-      "summary": "The moving prongs disturb the water.",
-      "hint": "Use the observations and science idea in the question."
+      "summary": "The moving prongs disturb the water."
     },
-    "stage": "explain",
+    "stage": "apply",
     "difficulty": 2,
-    "difficultyTier": "explain",
+    "difficultyTier": "apply",
     "sequencePriority": 19,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
   },
   {
     "id": "ac9s2u02-p-020",
@@ -545,20 +507,18 @@ window.skillrPracticeQuestions = [
     "answers": [
       "their shadows only",
       "their pitches",
-      "their colours only",
-      "which becomes a new material"
+      "their colours only"
     ],
     "correct": 1,
-    "explanation": "Changing string length can change pitch.\nHint: Use the observations and science idea in the question.",
+    "explanation": "Changing string length can change pitch.",
     "structuredExplanation": {
-      "summary": "Changing string length can change pitch.",
-      "hint": "Use the observations and science idea in the question."
+      "summary": "Changing string length can change pitch."
     },
-    "stage": "explain",
+    "stage": "apply",
     "difficulty": 2,
-    "difficultyTier": "explain",
+    "difficultyTier": "apply",
     "sequencePriority": 20,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
   },
   {
     "id": "ac9s2u02-p-021",
@@ -573,20 +533,18 @@ window.skillrPracticeQuestions = [
     "answers": [
       "whether their pitches differ",
       "which child likes blue",
-      "whether Earth turns",
-      "whether they become glass"
+      "whether Earth turns"
     ],
     "correct": 0,
-    "explanation": "Tension can affect vibration and pitch.\nHint: Use the observations and science idea in the question.",
+    "explanation": "Tension can affect vibration and pitch.",
     "structuredExplanation": {
-      "summary": "Tension can affect vibration and pitch.",
-      "hint": "Use the observations and science idea in the question."
+      "summary": "Tension can affect vibration and pitch."
     },
-    "stage": "discriminate",
+    "stage": "apply",
     "difficulty": 2,
-    "difficultyTier": "discriminate",
+    "difficultyTier": "apply",
     "sequencePriority": 21,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
   },
   {
     "id": "ac9s2u02-p-022",
@@ -599,22 +557,20 @@ window.skillrPracticeQuestions = [
     "audioPrompt": "Which instrument is mainly played by shaking?",
     "visual": "",
     "answers": [
-      "drum",
       "recorder",
-      "guitar",
+      "drum",
       "maraca"
     ],
-    "correct": 3,
-    "explanation": "A maraca sounds when shaken.\nHint: Use the observations and science idea in the question.",
+    "correct": 2,
+    "explanation": "A maraca sounds when shaken.",
     "structuredExplanation": {
-      "summary": "A maraca sounds when shaken.",
-      "hint": "Use the observations and science idea in the question."
+      "summary": "A maraca sounds when shaken."
     },
-    "stage": "discriminate",
+    "stage": "apply",
     "difficulty": 2,
-    "difficultyTier": "discriminate",
+    "difficultyTier": "apply",
     "sequencePriority": 22,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
   },
   {
     "id": "ac9s2u02-p-023",
@@ -629,20 +585,18 @@ window.skillrPracticeQuestions = [
     "answers": [
       "xylophone",
       "tambourine",
-      "whistle",
-      "bell"
+      "whistle"
     ],
     "correct": 2,
-    "explanation": "Blown air starts the whistle's vibration.\nHint: Use the observations and science idea in the question.",
+    "explanation": "Blown air starts the whistle's vibration.",
     "structuredExplanation": {
-      "summary": "Blown air starts the whistle's vibration.",
-      "hint": "Use the observations and science idea in the question."
+      "summary": "Blown air starts the whistle's vibration."
     },
-    "stage": "discriminate",
+    "stage": "apply",
     "difficulty": 2,
-    "difficultyTier": "discriminate",
+    "difficultyTier": "apply",
     "sequencePriority": 23,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
   },
   {
     "id": "ac9s2u02-p-024",
@@ -656,21 +610,19 @@ window.skillrPracticeQuestions = [
     "visual": "",
     "answers": [
       "pitch and volume are identical",
-      "high does not mean loud",
-      "all high sounds are loud",
-      "soft means low"
+      "high doesn't mean loud",
+      "all high sounds are loud"
     ],
     "correct": 1,
-    "explanation": "Pitch and volume describe different sound features.\nHint: Use the observations and science idea in the question.",
+    "explanation": "Pitch and volume describe different sound features.",
     "structuredExplanation": {
-      "summary": "Pitch and volume describe different sound features.",
-      "hint": "Use the observations and science idea in the question."
+      "summary": "Pitch and volume describe different sound features."
     },
-    "stage": "discriminate",
+    "stage": "apply",
     "difficulty": 2,
-    "difficultyTier": "discriminate",
+    "difficultyTier": "apply",
     "sequencePriority": 24,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
   },
   {
     "id": "ac9s2u02-p-025",
@@ -684,21 +636,19 @@ window.skillrPracticeQuestions = [
     "visual": "",
     "answers": [
       "an echo",
-      "a shadow",
       "a planet",
-      "a physical material"
+      "a shadow"
     ],
     "correct": 0,
-    "explanation": "An echo is reflected sound.\nHint: Use the observations and science idea in the question.",
+    "explanation": "An echo is reflected sound.",
     "structuredExplanation": {
-      "summary": "An echo is reflected sound.",
-      "hint": "Use the observations and science idea in the question."
+      "summary": "An echo is reflected sound."
     },
-    "stage": "discriminate",
+    "stage": "apply",
     "difficulty": 2,
-    "difficultyTier": "discriminate",
+    "difficultyTier": "apply",
     "sequencePriority": 25,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
   },
   {
     "id": "ac9s2u02-p-026",
@@ -711,22 +661,20 @@ window.skillrPracticeQuestions = [
     "audioPrompt": "A ringing bell is moved farther away. What is likely?",
     "visual": "",
     "answers": [
+      "it sounds softer to the listener",
       "its pitch must become higher",
-      "it stops vibrating instantly",
-      "it changes into plastic",
-      "it sounds softer to the listener"
+      "it stops vibrating instantly"
     ],
-    "correct": 3,
-    "explanation": "Less sound energy reaches the listener farther away.\nHint: Use the observations and science idea in the question.",
+    "correct": 0,
+    "explanation": "Less sound energy reaches the listener farther away.",
     "structuredExplanation": {
-      "summary": "Less sound energy reaches the listener farther away.",
-      "hint": "Use the observations and science idea in the question."
+      "summary": "Less sound energy reaches the listener farther away."
     },
-    "stage": "discriminate",
+    "stage": "apply",
     "difficulty": 2,
-    "difficultyTier": "discriminate",
+    "difficultyTier": "apply",
     "sequencePriority": 26,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
   },
   {
     "id": "ac9s2u02-p-027",
@@ -740,21 +688,19 @@ window.skillrPracticeQuestions = [
     "visual": "",
     "answers": [
       "increase every sound",
-      "shout into ears",
       "move away from a painfully loud sound",
-      "put an ear beside a loud speaker"
+      "shout into ears"
     ],
-    "correct": 2,
-    "explanation": "Distance from very loud sounds helps protect ears.\nHint: Use the observations and science idea in the question.",
+    "correct": 1,
+    "explanation": "Distance from very loud sounds helps protect ears.",
     "structuredExplanation": {
-      "summary": "Distance from very loud sounds helps protect ears.",
-      "hint": "Use the observations and science idea in the question."
+      "summary": "Distance from very loud sounds helps protect ears."
     },
-    "stage": "discriminate",
+    "stage": "apply",
     "difficulty": 2,
-    "difficultyTier": "discriminate",
+    "difficultyTier": "apply",
     "sequencePriority": 27,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
   },
   {
     "id": "ac9s2u02-p-028",
@@ -767,22 +713,20 @@ window.skillrPracticeQuestions = [
     "audioPrompt": "Which material would most likely muffle a small alarm?",
     "visual": "",
     "answers": [
-      "nothing around it",
       "thick foam",
       "an open wire frame",
-      "a sheet with large holes"
+      "nothing around it"
     ],
-    "correct": 1,
-    "explanation": "Soft thick material can reduce transmitted sound.\nHint: Use the observations and science idea in the question.",
+    "correct": 0,
+    "explanation": "Soft thick material can reduce transmitted sound.",
     "structuredExplanation": {
-      "summary": "Soft thick material can reduce transmitted sound.",
-      "hint": "Use the observations and science idea in the question."
+      "summary": "Soft thick material can reduce transmitted sound."
     },
-    "stage": "discriminate",
+    "stage": "apply",
     "difficulty": 2,
-    "difficultyTier": "discriminate",
+    "difficultyTier": "apply",
     "sequencePriority": 28,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
   },
   {
     "id": "ac9s2u02-p-029",
@@ -797,20 +741,18 @@ window.skillrPracticeQuestions = [
     "answers": [
       "a table of action and loud/soft observation",
       "a list of favourite songs",
-      "a drawing with no labels",
-      "a guess made before listening"
+      "a drawing with no labels"
     ],
     "correct": 0,
-    "explanation": "A labelled table records comparable evidence.\nHint: Use the observations and science idea in the question.",
+    "explanation": "A labelled table records comparable evidence.",
     "structuredExplanation": {
-      "summary": "A labelled table records comparable evidence.",
-      "hint": "Use the observations and science idea in the question."
+      "summary": "A labelled table records comparable evidence."
     },
-    "stage": "discriminate",
+    "stage": "apply",
     "difficulty": 2,
-    "difficultyTier": "discriminate",
+    "difficultyTier": "apply",
     "sequencePriority": 29,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
   },
   {
     "id": "ac9s2u02-p-030",
@@ -823,22 +765,20 @@ window.skillrPracticeQuestions = [
     "audioPrompt": "Why repeat a sound comparison?",
     "visual": "",
     "answers": [
+      "to check whether the pattern happens again",
       "to force the preferred answer",
-      "to change every condition",
-      "to avoid recording",
-      "to check whether the pattern happens again"
+      "to change every condition"
     ],
-    "correct": 3,
-    "explanation": "Repeats make evidence more dependable.\nHint: Use the observations and science idea in the question.",
+    "correct": 0,
+    "explanation": "Repeats make evidence more dependable.",
     "structuredExplanation": {
-      "summary": "Repeats make evidence more dependable.",
-      "hint": "Use the observations and science idea in the question."
+      "summary": "Repeats make evidence more dependable."
     },
-    "stage": "discriminate",
+    "stage": "apply",
     "difficulty": 2,
-    "difficultyTier": "discriminate",
+    "difficultyTier": "apply",
     "sequencePriority": 30,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
   },
   {
     "id": "ac9s2u02-p-031",
@@ -851,22 +791,20 @@ window.skillrPracticeQuestions = [
     "audioPrompt": "Two people say the same word but sound different. What can be observed?",
     "visual": "",
     "answers": [
-      "words change material",
-      "one person makes no sound",
       "voices can have different sound qualities",
-      "only one voice vibrates"
+      "one person makes no sound",
+      "words change material"
     ],
-    "correct": 2,
-    "explanation": "Different voices still use vibrations but can sound different.\nHint: Use the observations and science idea in the question.",
+    "correct": 0,
+    "explanation": "Different voices still use vibrations but can sound different.",
     "structuredExplanation": {
-      "summary": "Different voices still use vibrations but can sound different.",
-      "hint": "Use the observations and science idea in the question."
+      "summary": "Different voices still use vibrations but can sound different."
     },
     "stage": "apply",
-    "difficulty": 3,
+    "difficulty": 2,
     "difficultyTier": "apply",
     "sequencePriority": 31,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
   },
   {
     "id": "ac9s2u02-p-032",
@@ -881,20 +819,18 @@ window.skillrPracticeQuestions = [
     "answers": [
       "block every movement",
       "vibrate when plucked",
-      "remain completely still",
-      "turn into wood"
+      "remain completely still"
     ],
     "correct": 1,
-    "explanation": "A vibrating band is the sound source.\nHint: Use the observations and science idea in the question.",
+    "explanation": "A vibrating band is the sound source.",
     "structuredExplanation": {
-      "summary": "A vibrating band is the sound source.",
-      "hint": "Use the observations and science idea in the question."
+      "summary": "A vibrating band is the sound source."
     },
     "stage": "apply",
-    "difficulty": 3,
+    "difficulty": 2,
     "difficultyTier": "apply",
     "sequencePriority": 32,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
   },
   {
     "id": "ac9s2u02-p-033",
@@ -903,26 +839,24 @@ window.skillrPracticeQuestions = [
     "skill": "sound produced by vibrations",
     "printable": true,
     "type": "single",
-    "question": "What must an object usually do to produce a sound?",
-    "audioPrompt": "What must an object usually do to produce a sound?",
+    "question": "A metal lid rings when tapped but sounds dull when resting on a thick pad. What does the pad do?",
+    "audioPrompt": "A metal lid rings when tapped but sounds dull when resting on a thick pad. What does the pad do?",
     "visual": "",
     "answers": [
-      "Vibrate.",
-      "Orbit.",
-      "Melt.",
-      "Become magnetic."
+      "It changes the lid into cloth",
+      "It reduces the lid's vibration",
+      "It creates a higher note every time"
     ],
-    "correct": 0,
-    "explanation": "Sounds are produced by vibrations.\nHint: Think about back-and-forth movement.",
+    "correct": 1,
+    "explanation": "A soft pad can reduce movement and shorten the ringing sound.",
     "structuredExplanation": {
-      "summary": "Sounds are produced by vibrations.",
-      "hint": "Think about back-and-forth movement."
+      "summary": "A soft pad can reduce movement and shorten the ringing sound."
     },
-    "stage": "apply",
+    "stage": "reason",
     "difficulty": 3,
-    "difficultyTier": "apply",
+    "difficultyTier": "reason",
     "sequencePriority": 33,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
   },
   {
     "id": "ac9s2u02-p-034",
@@ -931,26 +865,24 @@ window.skillrPracticeQuestions = [
     "skill": "sound produced by vibrations",
     "printable": true,
     "type": "single",
-    "question": "A drum skin moves back and forth after being struck. What is this motion called?",
-    "audioPrompt": "A drum skin moves back and forth after being struck. What is this motion called?",
+    "question": "A tambourine is shaken and its small metal discs move. What helps make the jingling sound?",
+    "audioPrompt": "A tambourine is shaken and its small metal discs move. What helps make the jingling sound?",
     "visual": "",
     "answers": [
-      "A shadow.",
-      "An orbit.",
-      "A dissolve.",
-      "A vibration."
+      "The discs hit each other and vibrate",
+      "The paint changes colour",
+      "The handle grows longer"
     ],
-    "correct": 3,
-    "explanation": "Repeated back-and-forth motion is vibration.\nHint: Name the motion you can observe.",
+    "correct": 0,
+    "explanation": "Colliding metal discs vibrate and produce the jingle.",
     "structuredExplanation": {
-      "summary": "Repeated back-and-forth motion is vibration.",
-      "hint": "Name the motion you can observe."
+      "summary": "Colliding metal discs vibrate and produce the jingle."
     },
-    "stage": "apply",
+    "stage": "reason",
     "difficulty": 3,
-    "difficultyTier": "apply",
+    "difficultyTier": "reason",
     "sequencePriority": 34,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
   },
   {
     "id": "ac9s2u02-p-035",
@@ -959,26 +891,24 @@ window.skillrPracticeQuestions = [
     "skill": "sound produced by vibrations",
     "printable": true,
     "type": "single",
-    "question": "Why does plucking a guitar string make sound?",
-    "audioPrompt": "Why does plucking a guitar string make sound?",
+    "question": "A teacher gently taps a desk while a child listens through the desk surface. What can carry the sound?",
+    "audioPrompt": "A teacher gently taps a desk while a child listens through the desk surface. What can carry the sound?",
     "visual": "",
     "answers": [
-      "The guitar becomes warmer only.",
-      "The string stops moving immediately.",
-      "The string vibrates and causes vibrations in the surrounding air.",
-      "The string turns into air."
+      "Only empty space",
+      "Only sunlight",
+      "The solid desk"
     ],
     "correct": 2,
-    "explanation": "A vibrating string transfers vibration to the air, producing sound waves.\nHint: Follow the cause from string to air.",
+    "explanation": "Solids can carry vibrations from one place to another.",
     "structuredExplanation": {
-      "summary": "A vibrating string transfers vibration to the air, producing sound waves.",
-      "hint": "Follow the cause from string to air."
+      "summary": "Solids can carry vibrations from one place to another."
     },
-    "stage": "apply",
+    "stage": "reason",
     "difficulty": 3,
-    "difficultyTier": "apply",
+    "difficultyTier": "reason",
     "sequencePriority": 35,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
   },
   {
     "id": "ac9s2u02-p-036",
@@ -987,26 +917,24 @@ window.skillrPracticeQuestions = [
     "skill": "sound produced by vibrations",
     "printable": true,
     "type": "single",
-    "question": "A tuning fork is struck and then touched to water, making ripples. What does this show?",
-    "audioPrompt": "A tuning fork is struck and then touched to water, making ripples. What does this show?",
+    "question": "A sealed shaker contains dry beans. It is tilted slowly, then shaken gently. Why can the sounds differ?",
+    "audioPrompt": "A sealed shaker contains dry beans. It is tilted slowly, then shaken gently. Why can the sounds differ?",
     "visual": "",
     "answers": [
-      "The fork has become magnetic.",
-      "The tuning fork is vibrating.",
-      "The tuning fork has melted.",
-      "The water is making the fork silent before it moves."
+      "The beans turn into metal",
+      "The container changes colour",
+      "The beans hit the container differently"
     ],
-    "correct": 1,
-    "explanation": "The moving fork transfers vibration to the water.\nHint: Use the visible ripples as evidence.",
+    "correct": 2,
+    "explanation": "Changing the action changes the collisions and the sound.",
     "structuredExplanation": {
-      "summary": "The moving fork transfers vibration to the water.",
-      "hint": "Use the visible ripples as evidence."
+      "summary": "Changing the action changes the collisions and the sound."
     },
-    "stage": "apply",
+    "stage": "reason",
     "difficulty": 3,
-    "difficultyTier": "apply",
+    "difficultyTier": "reason",
     "sequencePriority": 36,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
   },
   {
     "id": "ac9s2u02-p-037",
@@ -1015,26 +943,24 @@ window.skillrPracticeQuestions = [
     "skill": "sound produced by vibrations",
     "printable": true,
     "type": "single",
-    "question": "Which action can make a maraca produce sound?",
-    "audioPrompt": "Which action can make a maraca produce sound?",
+    "question": "A rubber band is held tightly so it cannot move after plucking. What is likely?",
+    "audioPrompt": "A rubber band is held tightly so it cannot move after plucking. What is likely?",
     "visual": "",
     "answers": [
-      "Shaking it.",
-      "Leaving it still.",
-      "Looking at it.",
-      "Cooling it."
+      "It keeps ringing louder forever",
+      "It produces a new tune by itself",
+      "Its sound becomes shorter"
     ],
-    "correct": 0,
-    "explanation": "Shaking makes parts of the maraca vibrate and collide.\nHint: Choose an action that creates movement.",
+    "correct": 2,
+    "explanation": "Stopping the movement reduces the sound-producing vibration.",
     "structuredExplanation": {
-      "summary": "Shaking makes parts of the maraca vibrate and collide.",
-      "hint": "Choose an action that creates movement."
+      "summary": "Stopping the movement reduces the sound-producing vibration."
     },
-    "stage": "apply",
+    "stage": "reason",
     "difficulty": 3,
-    "difficultyTier": "apply",
+    "difficultyTier": "reason",
     "sequencePriority": 37,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
   },
   {
     "id": "ac9s2u02-p-038",
@@ -1043,26 +969,24 @@ window.skillrPracticeQuestions = [
     "skill": "sound produced by vibrations",
     "printable": true,
     "type": "single",
-    "question": "A ruler hangs over a desk edge and buzzes after being flicked. What can be observed?",
-    "audioPrompt": "A ruler hangs over a desk edge and buzzes after being flicked. What can be observed?",
+    "question": "A child scrunches a sheet of paper, then leaves it still. When is rustling most likely?",
+    "audioPrompt": "A child scrunches a sheet of paper, then leaves it still. When is rustling most likely?",
     "visual": "",
     "answers": [
-      "The ruler changes into a new material.",
-      "The ruler orbits the desk.",
-      "The ruler loses all mass.",
-      "The ruler moves rapidly back and forth."
+      "Only after it has been still for an hour",
+      "Before the paper is touched",
+      "While the paper is being scrunched"
     ],
-    "correct": 3,
-    "explanation": "The rapid back-and-forth motion is vibration associated with the sound.\nHint: Look for visible vibration.",
+    "correct": 2,
+    "explanation": "Scrunching makes parts move and vibrate, producing rustling sounds.",
     "structuredExplanation": {
-      "summary": "The rapid back-and-forth motion is vibration associated with the sound.",
-      "hint": "Look for visible vibration."
+      "summary": "Scrunching makes parts move and vibrate, producing rustling sounds."
     },
-    "stage": "apply",
+    "stage": "reason",
     "difficulty": 3,
-    "difficultyTier": "apply",
+    "difficultyTier": "reason",
     "sequencePriority": 38,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
   },
   {
     "id": "ac9s2u02-p-039",
@@ -1071,26 +995,24 @@ window.skillrPracticeQuestions = [
     "skill": "sound produced by vibrations",
     "printable": true,
     "type": "single",
-    "question": "During a Year 2 science activity, which pair describes volume?",
-    "audioPrompt": "During a Year 2 science activity, which pair describes volume?",
+    "question": "Two recordings play the same note, one softly and one loudly. What difference should be recorded?",
+    "audioPrompt": "Two recordings play the same note, one softly and one loudly. What difference should be recorded?",
     "visual": "",
     "answers": [
-      "Fast and slow.",
-      "Bright and dark.",
-      "Loud and soft.",
-      "High and low."
+      "The note's colour",
+      "Loudness",
+      "A change from high to low pitch"
     ],
-    "correct": 2,
-    "explanation": "Volume describes how loud or soft a sound is perceived.\nHint: Separate volume from pitch.",
+    "correct": 1,
+    "explanation": "The same note can be played at different volumes.",
     "structuredExplanation": {
-      "summary": "Volume describes how loud or soft a sound is perceived.",
-      "hint": "Separate volume from pitch."
+      "summary": "The same note can be played at different volumes."
     },
-    "stage": "apply",
+    "stage": "reason",
     "difficulty": 3,
-    "difficultyTier": "apply",
+    "difficultyTier": "reason",
     "sequencePriority": 39,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
   },
   {
     "id": "ac9s2u02-p-040",
@@ -1099,25 +1021,231 @@ window.skillrPracticeQuestions = [
     "skill": "sound produced by vibrations",
     "printable": true,
     "type": "single",
-    "question": "During a Year 2 science activity, which pair describes pitch?",
-    "audioPrompt": "During a Year 2 science activity, which pair describes pitch?",
+    "question": "A flute and a drum are played at a comfortable volume. Which action matches the flute?",
+    "audioPrompt": "A flute and a drum are played at a comfortable volume. Which action matches the flute?",
     "visual": "",
     "answers": [
-      "Long and short.",
-      "High and low.",
-      "Loud and soft.",
-      "Rough and smooth."
+      "Stretching the whole instrument",
+      "Blowing air",
+      "Shaking seeds inside it"
     ],
     "correct": 1,
-    "explanation": "Pitch describes how high or low a sound seems.\nHint: Do not confuse pitch with loudness.",
+    "explanation": "Blowing starts vibrations in the flute's air to make sound.",
     "structuredExplanation": {
-      "summary": "Pitch describes how high or low a sound seems.",
-      "hint": "Do not confuse pitch with loudness."
+      "summary": "Blowing starts vibrations in the flute's air to make sound."
     },
-    "stage": "apply",
+    "stage": "reason",
     "difficulty": 3,
-    "difficultyTier": "apply",
+    "difficultyTier": "reason",
     "sequencePriority": 40,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
+  },
+  {
+    "id": "ac9s2u02-p-041",
+    "curriculumCode": "AC9S2U02",
+    "bank": "practice",
+    "skill": "sound produced by vibrations",
+    "printable": true,
+    "type": "single",
+    "question": "A teacher plays a speaker beside a paper sheet without touching it. The sheet trembles. What can this show?",
+    "audioPrompt": "A teacher plays a speaker beside a paper sheet without touching it. The sheet trembles. What can this show?",
+    "visual": "",
+    "answers": [
+      "The paper has become a speaker",
+      "Sound can only stay inside the speaker",
+      "Sound energy can make another object vibrate"
+    ],
+    "correct": 2,
+    "explanation": "Sound can travel from a source and cause another object to vibrate.",
+    "structuredExplanation": {
+      "summary": "Sound can travel from a source and cause another object to vibrate."
+    },
+    "stage": "reason",
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 41,
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
+  },
+  {
+    "id": "ac9s2u02-p-042",
+    "curriculumCode": "AC9S2U02",
+    "bank": "practice",
+    "skill": "sound produced by vibrations",
+    "printable": true,
+    "type": "single",
+    "question": "In a cup-and-string telephone, speech can be heard at the other cup. What carries vibrations between the cups?",
+    "audioPrompt": "In a cup-and-string telephone, speech can be heard at the other cup. What carries vibrations between the cups?",
+    "visual": "",
+    "answers": [
+      "The colour of the cups",
+      "The printed letters on the cups",
+      "The stretched string"
+    ],
+    "correct": 2,
+    "explanation": "A stretched string can carry vibrations from one cup to the other.",
+    "structuredExplanation": {
+      "summary": "A stretched string can carry vibrations from one cup to the other."
+    },
+    "stage": "reason",
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 42,
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
+  },
+  {
+    "id": "ac9s2u02-p-043",
+    "curriculumCode": "AC9S2U02",
+    "bank": "practice",
+    "skill": "sound produced by vibrations",
+    "printable": true,
+    "type": "single",
+    "question": "A class hears a recording made by an underwater microphone. What does it show?",
+    "audioPrompt": "A class hears a recording made by an underwater microphone. What does it show?",
+    "visual": "",
+    "answers": [
+      "Sound can travel through water",
+      "Sound exists only in dry air",
+      "Water prevents all vibration"
+    ],
+    "correct": 0,
+    "explanation": "Underwater sound recordings show that water can carry sound.",
+    "structuredExplanation": {
+      "summary": "Underwater sound recordings show that water can carry sound."
+    },
+    "stage": "reason",
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 43,
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
+  },
+  {
+    "id": "ac9s2u02-p-044",
+    "curriculumCode": "AC9S2U02",
+    "bank": "practice",
+    "skill": "sound produced by vibrations",
+    "printable": true,
+    "type": "single",
+    "question": "A child taps two xylophone bars and hears different notes. What should they compare?",
+    "audioPrompt": "A child taps two xylophone bars and hears different notes. What should they compare?",
+    "visual": "",
+    "answers": [
+      "How warm their shoes feel",
+      "How high or low each note sounds",
+      "The length of the tune's name"
+    ],
+    "correct": 1,
+    "explanation": "Different bars can produce notes with different pitches.",
+    "structuredExplanation": {
+      "summary": "Different bars can produce notes with different pitches."
+    },
+    "stage": "reason",
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 44,
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
+  },
+  {
+    "id": "ac9s2u02-p-045",
+    "curriculumCode": "AC9S2U02",
+    "bank": "practice",
+    "skill": "sound produced by vibrations",
+    "printable": true,
+    "type": "single",
+    "question": "A comb makes a buzzing sound when its teeth are gently flicked. Which part vibrates?",
+    "audioPrompt": "A comb makes a buzzing sound when its teeth are gently flicked. Which part vibrates?",
+    "visual": "",
+    "answers": [
+      "Only the label on the desk",
+      "The comb's colour",
+      "The comb's teeth"
+    ],
+    "correct": 2,
+    "explanation": "Flicking makes the teeth move back and forth and produce sound.",
+    "structuredExplanation": {
+      "summary": "Flicking makes the teeth move back and forth and produce sound."
+    },
+    "stage": "reason",
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 45,
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
+  },
+  {
+    "id": "ac9s2u02-p-046",
+    "curriculumCode": "AC9S2U02",
+    "bank": "practice",
+    "skill": "sound produced by vibrations",
+    "printable": true,
+    "type": "single",
+    "question": "A singer makes a low note and then a high note at a similar loudness. What changed?",
+    "audioPrompt": "A singer makes a low note and then a high note at a similar loudness. What changed?",
+    "visual": "",
+    "answers": [
+      "Only the volume",
+      "The pitch",
+      "The room size"
+    ],
+    "correct": 1,
+    "explanation": "High and low notes have different pitches even at similar loudness.",
+    "structuredExplanation": {
+      "summary": "High and low notes have different pitches even at similar loudness."
+    },
+    "stage": "reason",
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 46,
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
+  },
+  {
+    "id": "ac9s2u02-p-047",
+    "curriculumCode": "AC9S2U02",
+    "bank": "practice",
+    "skill": "sound produced by vibrations",
+    "printable": true,
+    "type": "single",
+    "question": "A teacher rubs two rough wooden blocks together. What action makes the scraping sound?",
+    "audioPrompt": "A teacher rubs two rough wooden blocks together. What action makes the scraping sound?",
+    "visual": "",
+    "answers": [
+      "Rubbing surfaces together",
+      "Plucking a string",
+      "Blowing through a tube"
+    ],
+    "correct": 0,
+    "explanation": "Rubbing rough surfaces can start vibrations that make a scraping sound.",
+    "structuredExplanation": {
+      "summary": "Rubbing rough surfaces can start vibrations that make a scraping sound."
+    },
+    "stage": "reason",
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 47,
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
+  },
+  {
+    "id": "ac9s2u02-p-048",
+    "curriculumCode": "AC9S2U02",
+    "bank": "practice",
+    "skill": "sound produced by vibrations",
+    "printable": true,
+    "type": "single",
+    "question": "A paper strip buzzes when air is blown past it. What should children look for?",
+    "audioPrompt": "A paper strip buzzes when air is blown past it. What should children look for?",
+    "visual": "",
+    "answers": [
+      "The strip changing into glass",
+      "The strip becoming a star",
+      "The strip moving back and forth"
+    ],
+    "correct": 2,
+    "explanation": "The moving strip provides evidence of vibration making sound.",
+    "structuredExplanation": {
+      "summary": "The moving strip provides evidence of vibration making sound."
+    },
+    "stage": "reason",
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 48,
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
   }
 ];

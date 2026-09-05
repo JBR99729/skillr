@@ -1,5 +1,5 @@
 "use strict";
-window.skillrExamQuestions = [
+window.skillrTestQuestions = [
   {
     "id": "ac9s2i06-t-001",
     "curriculumCode": "AC9S2I06",
@@ -11,21 +11,20 @@ window.skillrExamQuestions = [
     "audioPrompt": "A student reports, “The dark cloth reached 31 °C; the light cloth reached 27 °C.” Why is this strong communication?",
     "visual": "",
     "answers": [
-      "It uses only opinion words.",
-      "It changes the prediction.",
-      "It gives both measured results for comparison.",
-      "It hides the evidence."
+      "It gives both measured results for comparison",
+      "It uses only opinion words",
+      "It changes the prediction"
     ],
-    "correct": 2,
-    "explanation": "Specific measurements let the reader compare the evidence directly.\nHint: Look for clear numerical evidence.",
+    "correct": 0,
+    "explanation": "Specific measurements let the reader compare the evidence directly.",
     "structuredExplanation": {
-      "summary": "Specific measurements let the reader compare the evidence directly.",
-      "hint": "Look for clear numerical evidence."
+      "summary": "Specific measurements let the reader compare the evidence directly."
     },
-    "difficulty": 3,
-    "difficultyTier": "independent",
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
     "sequencePriority": 1,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
   },
   {
     "id": "ac9s2i06-t-002",
@@ -38,21 +37,20 @@ window.skillrExamQuestions = [
     "audioPrompt": "A diagram of a plant has arrows but no labels. What should be added?",
     "visual": "",
     "answers": [
-      "A prediction about weather.",
-      "Names for the parts the arrows point to.",
-      "A random slogan.",
-      "More arrows with no meaning."
+      "Names for the parts the arrows point to",
+      "A prediction about weather",
+      "A random slogan"
     ],
-    "correct": 1,
-    "explanation": "Labels explain what diagram features represent.\nHint: Make the diagram interpretable.",
+    "correct": 0,
+    "explanation": "Labels explain what diagram features represent.",
     "structuredExplanation": {
-      "summary": "Labels explain what diagram features represent.",
-      "hint": "Make the diagram interpretable."
+      "summary": "Labels explain what diagram features represent."
     },
-    "difficulty": 3,
-    "difficultyTier": "independent",
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
     "sequencePriority": 2,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
   },
   {
     "id": "ac9s2i06-t-003",
@@ -61,25 +59,24 @@ window.skillrExamQuestions = [
     "skill": "communicating science clearly",
     "printable": true,
     "type": "single",
-    "question": "A group wants to explain an unusual result. Which sentence is most scientific?",
-    "audioPrompt": "A group wants to explain an unusual result. Which sentence is most scientific?",
+    "question": "A group's third trial differs from the first two. Which sentence clearly reports this?",
+    "audioPrompt": "A group's third trial differs from the first two. Which sentence clearly reports this?",
     "visual": "",
     "answers": [
-      "Trial 3 was much larger than the others, so we repeated it and checked the method.",
-      "Trial 3 was weird so we deleted it.",
-      "We changed Trial 3 to match.",
-      "We ignored every trial."
+      "We changed Trial 3 to match",
+      "Trial 3 was different, so we will check our method",
+      "We deleted Trial 3 because it was different"
     ],
-    "correct": 0,
-    "explanation": "Clear communication reports both the evidence and what was done to investigate it.\nHint: Choose the transparent explanation.",
+    "correct": 1,
+    "explanation": "The sentence reports the difference honestly and states a useful next step.",
     "structuredExplanation": {
-      "summary": "Clear communication reports both the evidence and what was done to investigate it.",
-      "hint": "Choose the transparent explanation."
+      "summary": "The sentence reports the difference honestly and states a useful next step."
     },
-    "difficulty": 3,
-    "difficultyTier": "independent",
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
     "sequencePriority": 3,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
   },
   {
     "id": "ac9s2i06-t-004",
@@ -92,21 +89,20 @@ window.skillrExamQuestions = [
     "audioPrompt": "Which conclusion is best after a fair ramp test?",
     "visual": "",
     "answers": [
-      "Higher ramps always make every car travel exactly 2 m.",
-      "Our favourite ramp won.",
-      "The other results do not matter.",
-      "The car travelled farther from the higher ramp in our three trials."
+      "Higher ramps always make every car travel exactly 2 m",
+      "The car travelled farther from the higher ramp in our three trials",
+      "Our favourite ramp won"
     ],
-    "correct": 3,
-    "explanation": "The best conclusion is specific to the evidence collected.\nHint: Avoid unsupported universal claims.",
+    "correct": 1,
+    "explanation": "The best conclusion is specific to the evidence collected.",
     "structuredExplanation": {
-      "summary": "The best conclusion is specific to the evidence collected.",
-      "hint": "Avoid unsupported universal claims."
+      "summary": "The best conclusion is specific to the evidence collected."
     },
-    "difficulty": 3,
-    "difficultyTier": "independent",
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
     "sequencePriority": 4,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
   },
   {
     "id": "ac9s2i06-t-005",
@@ -119,21 +115,20 @@ window.skillrExamQuestions = [
     "audioPrompt": "A table lists numbers but no units for temperature. What should be fixed?",
     "visual": "",
     "answers": [
-      "Change them to words only.",
-      "Add student birthdays.",
-      "Add °C to show what the numbers mean.",
-      "Remove the numbers."
+      "Change them to words only",
+      "Add student birthdays",
+      "Add °C to show what the numbers mean"
     ],
     "correct": 2,
-    "explanation": "Measurement units are part of clear scientific communication.\nHint: Look for missing measurement information.",
+    "explanation": "Measurement units are part of clear scientific communication.",
     "structuredExplanation": {
-      "summary": "Measurement units are part of clear scientific communication.",
-      "hint": "Look for missing measurement information."
+      "summary": "Measurement units are part of clear scientific communication."
     },
-    "difficulty": 3,
-    "difficultyTier": "independent",
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
     "sequencePriority": 5,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
   },
   {
     "id": "ac9s2i06-t-006",
@@ -146,21 +141,20 @@ window.skillrExamQuestions = [
     "audioPrompt": "Which sentence reports an observation rather than a guess?",
     "visual": "",
     "answers": [
-      "I think it is the best band.",
-      "The rubber band moved back and forth when plucked.",
-      "The band probably wanted to move.",
-      "It might always sound the same."
+      "The band probably wanted to move",
+      "I think it is the best band",
+      "The rubber band moved back and forth when plucked"
     ],
-    "correct": 1,
-    "explanation": "Observations describe what was actually noticed.\nHint: Choose direct evidence.",
+    "correct": 2,
+    "explanation": "Observations describe what was actually noticed.",
     "structuredExplanation": {
-      "summary": "Observations describe what was actually noticed.",
-      "hint": "Choose direct evidence."
+      "summary": "Observations describe what was actually noticed."
     },
-    "difficulty": 3,
-    "difficultyTier": "independent",
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
     "sequencePriority": 6,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
   },
   {
     "id": "ac9s2i06-t-007",
@@ -173,21 +167,20 @@ window.skillrExamQuestions = [
     "audioPrompt": "A student gives a result but no method. Why might the reader need the method?",
     "visual": "",
     "answers": [
-      "It helps the reader understand how the evidence was collected.",
-      "Methods make results less scientific.",
-      "The method changes the past result.",
-      "Methods are only for decoration."
+      "Methods make results less scientific",
+      "The method changes the past result",
+      "It helps the reader understand how the evidence was collected"
     ],
-    "correct": 0,
-    "explanation": "Methods provide context for interpreting evidence and fairness.\nHint: Think about how the result was obtained.",
+    "correct": 2,
+    "explanation": "Methods provide context for interpreting evidence and fairness.",
     "structuredExplanation": {
-      "summary": "Methods provide context for interpreting evidence and fairness.",
-      "hint": "Think about how the result was obtained."
+      "summary": "Methods provide context for interpreting evidence and fairness."
     },
-    "difficulty": 3,
-    "difficultyTier": "independent",
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
     "sequencePriority": 7,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
   },
   {
     "id": "ac9s2i06-t-008",
@@ -200,21 +193,20 @@ window.skillrExamQuestions = [
     "audioPrompt": "What makes a science explanation suitable for another Year 2 student?",
     "visual": "",
     "answers": [
-      "Many difficult words with no explanation.",
-      "Only a final answer with no evidence.",
-      "A long unrelated story.",
-      "Clear words, relevant evidence and enough detail to understand the idea."
+      "Many difficult words with no explanation",
+      "Only a final answer with no evidence",
+      "Clear words, relevant evidence and enough detail to understand the idea"
     ],
-    "correct": 3,
-    "explanation": "Good communication is accurate, clear and focused on the evidence.\nHint: Choose clarity and relevance.",
+    "correct": 2,
+    "explanation": "Good communication is accurate, clear and focused on the evidence.",
     "structuredExplanation": {
-      "summary": "Good communication is accurate, clear and focused on the evidence.",
-      "hint": "Choose clarity and relevance."
+      "summary": "Good communication is accurate, clear and focused on the evidence."
     },
-    "difficulty": 3,
-    "difficultyTier": "independent",
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
     "sequencePriority": 8,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
   },
   {
     "id": "ac9s2i06-t-009",
@@ -227,21 +219,20 @@ window.skillrExamQuestions = [
     "audioPrompt": "A graph shows three bar heights but the categories are missing. What is the main problem?",
     "visual": "",
     "answers": [
-      "Graphs should never use numbers.",
-      "All bars must be equal.",
-      "The reader cannot tell what each bar represents.",
-      "The bars are different heights."
+      "The reader cannot tell what each bar represents",
+      "All bars must be equal",
+      "Graphs should never use numbers"
     ],
-    "correct": 2,
-    "explanation": "Category labels are needed to interpret the data.\nHint: Identify what the reader cannot know.",
+    "correct": 0,
+    "explanation": "Category labels are needed to interpret the data.",
     "structuredExplanation": {
-      "summary": "Category labels are needed to interpret the data.",
-      "hint": "Identify what the reader cannot know."
+      "summary": "Category labels are needed to interpret the data."
     },
-    "difficulty": 3,
-    "difficultyTier": "independent",
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
     "sequencePriority": 9,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
   },
   {
     "id": "ac9s2i06-t-010",
@@ -250,25 +241,24 @@ window.skillrExamQuestions = [
     "skill": "communicating science clearly",
     "printable": true,
     "type": "single",
-    "question": "A class compares predictions and results. Which sentence communicates the mismatch clearly?",
-    "audioPrompt": "A class compares predictions and results. Which sentence communicates the mismatch clearly?",
+    "question": "Children predicted 10 bird visits but counted 7. Which sentence tells the difference clearly?",
+    "audioPrompt": "Children predicted 10 bird visits but counted 7. Which sentence tells the difference clearly?",
     "visual": "",
     "answers": [
-      "The result does not need to be mentioned.",
-      "We predicted 10 visits but observed 6, so the prediction was not supported exactly.",
-      "Our prediction was right because we wanted 10.",
-      "We changed 6 to 10."
+      "We counted 10 because we wanted 10",
+      "We counted 3 fewer visits than we predicted",
+      "We will leave out the count"
     ],
     "correct": 1,
-    "explanation": "Clear reporting states both the prediction and the observed evidence.\nHint: Include both values.",
+    "explanation": "Seven is three fewer than ten, so the sentence compares the prediction and result.",
     "structuredExplanation": {
-      "summary": "Clear reporting states both the prediction and the observed evidence.",
-      "hint": "Include both values."
+      "summary": "Seven is three fewer than ten, so the sentence compares the prediction and result."
     },
-    "difficulty": 3,
-    "difficultyTier": "independent",
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
     "sequencePriority": 10,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
   },
   {
     "id": "ac9s2i06-t-011",
@@ -281,21 +271,20 @@ window.skillrExamQuestions = [
     "audioPrompt": "Which heading best fits a section describing what students noticed during a test?",
     "visual": "",
     "answers": [
-      "Observations and results.",
-      "Favourite things.",
-      "Secret answers.",
-      "Things to change later."
+      "Observations and results",
+      "Favourite things",
+      "Secret answers"
     ],
     "correct": 0,
-    "explanation": "A heading should match the type of information being communicated.\nHint: Choose the evidence-focused heading.",
+    "explanation": "A heading should match the type of information being communicated.",
     "structuredExplanation": {
-      "summary": "A heading should match the type of information being communicated.",
-      "hint": "Choose the evidence-focused heading."
+      "summary": "A heading should match the type of information being communicated."
     },
-    "difficulty": 3,
-    "difficultyTier": "independent",
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
     "sequencePriority": 11,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
   },
   {
     "id": "ac9s2i06-t-012",
@@ -308,21 +297,20 @@ window.skillrExamQuestions = [
     "audioPrompt": "A student uses a labelled sequence of three pictures to show a material being bent. Why is this useful?",
     "visual": "",
     "answers": [
-      "It proves the material became a new substance.",
-      "It removes the need for captions forever.",
-      "It makes the material bend.",
-      "It shows the change in order over time."
+      "It removes the need for captions forever",
+      "It shows the change in order over time",
+      "It proves the material became a new substance"
     ],
-    "correct": 3,
-    "explanation": "Ordered visuals can communicate a process or change clearly.\nHint: Think about sequence.",
+    "correct": 1,
+    "explanation": "Ordered visuals can communicate a process or change clearly.",
     "structuredExplanation": {
-      "summary": "Ordered visuals can communicate a process or change clearly.",
-      "hint": "Think about sequence."
+      "summary": "Ordered visuals can communicate a process or change clearly."
     },
-    "difficulty": 3,
-    "difficultyTier": "independent",
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
     "sequencePriority": 12,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
   },
   {
     "id": "ac9s2i06-t-013",
@@ -335,21 +323,20 @@ window.skillrExamQuestions = [
     "audioPrompt": "Why should students avoid copying a conclusion from another group when their results differ?",
     "visual": "",
     "answers": [
-      "Different evidence is not allowed.",
-      "Copying makes data more accurate.",
-      "Their conclusion should reflect their own recorded evidence.",
-      "All conclusions must be identical."
+      "Their conclusion should reflect their own recorded evidence",
+      "Different evidence is not allowed",
+      "Copying makes data more accurate"
     ],
-    "correct": 2,
-    "explanation": "Science communication should match the evidence actually collected.\nHint: Use the group’s own results.",
+    "correct": 0,
+    "explanation": "Science communication should match the evidence actually collected.",
     "structuredExplanation": {
-      "summary": "Science communication should match the evidence actually collected.",
-      "hint": "Use the group’s own results."
+      "summary": "Science communication should match the evidence actually collected."
     },
-    "difficulty": 3,
-    "difficultyTier": "independent",
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
     "sequencePriority": 13,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
   },
   {
     "id": "ac9s2i06-t-014",
@@ -362,21 +349,20 @@ window.skillrExamQuestions = [
     "audioPrompt": "Which summary is most concise and complete?",
     "visual": "",
     "answers": [
-      "42.",
-      "The ball bounced highest on concrete, reaching 42 cm.",
-      "The ball did something interesting and we liked it.",
-      "Concrete was best."
+      "The ball bounced highest on concrete, reaching 42 cm",
+      "42",
+      "The ball did something interesting and we liked it"
     ],
-    "correct": 1,
-    "explanation": "The sentence states the key result and measurement without irrelevant detail.\nHint: Look for evidence plus meaning.",
+    "correct": 0,
+    "explanation": "The sentence states the key result and measurement without irrelevant detail.",
     "structuredExplanation": {
-      "summary": "The sentence states the key result and measurement without irrelevant detail.",
-      "hint": "Look for evidence plus meaning."
+      "summary": "The sentence states the key result and measurement without irrelevant detail."
     },
-    "difficulty": 3,
-    "difficultyTier": "independent",
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
     "sequencePriority": 14,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
   },
   {
     "id": "ac9s2i06-t-015",
@@ -389,21 +375,20 @@ window.skillrExamQuestions = [
     "audioPrompt": "A reader cannot tell whether a sentence is a prediction or a result. What wording helps?",
     "visual": "",
     "answers": [
-      "Use “We predicted…” for the prediction and “We observed…” for the result.",
-      "Use the same vague sentence for both.",
-      "Remove all time words.",
-      "Replace measurements with opinions."
+      "Remove all time words",
+      "Use the same vague sentence for both",
+      "Use “We predicted…” for the prediction and “We observed…” for the result"
     ],
-    "correct": 0,
-    "explanation": "Clear signal words distinguish what was expected from what occurred.\nHint: Separate before-test expectation from after-test evidence.",
+    "correct": 2,
+    "explanation": "Clear signal words distinguish what was expected from what occurred.",
     "structuredExplanation": {
-      "summary": "Clear signal words distinguish what was expected from what occurred.",
-      "hint": "Separate before-test expectation from after-test evidence."
+      "summary": "Clear signal words distinguish what was expected from what occurred."
     },
-    "difficulty": 3,
-    "difficultyTier": "independent",
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
     "sequencePriority": 15,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
   },
   {
     "id": "ac9s2i06-t-016",
@@ -412,24 +397,23 @@ window.skillrExamQuestions = [
     "skill": "communicating science clearly",
     "printable": true,
     "type": "single",
-    "question": "A class presents a table, labelled diagram and short conclusion. What makes these useful together?",
-    "audioPrompt": "A class presents a table, labelled diagram and short conclusion. What makes these useful together?",
+    "question": "A class shares a table, a labelled drawing and a short conclusion. How do these help the reader?",
+    "audioPrompt": "A class shares a table, a labelled drawing and a short conclusion. How do these help the reader?",
     "visual": "",
     "answers": [
-      "They guarantee the prediction was correct.",
-      "They make repeated trials unnecessary.",
-      "They replace the need for accurate data.",
-      "They show the evidence in different clear forms and explain the main finding."
+      "They guarantee the prediction was right",
+      "They show the evidence and explain the finding",
+      "They make all future tests unnecessary"
     ],
-    "correct": 3,
-    "explanation": "Multiple clear representations can help an audience understand evidence and findings.\nHint: Think about how each form supports understanding.",
+    "correct": 1,
+    "explanation": "Different forms can work together to communicate the observations and finding.",
     "structuredExplanation": {
-      "summary": "Multiple clear representations can help an audience understand evidence and findings.",
-      "hint": "Think about how each form supports understanding."
+      "summary": "Different forms can work together to communicate the observations and finding."
     },
-    "difficulty": 3,
-    "difficultyTier": "independent",
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
     "sequencePriority": 16,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
   }
 ];

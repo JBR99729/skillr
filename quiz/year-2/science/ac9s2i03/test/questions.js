@@ -1,5 +1,5 @@
 "use strict";
-window.skillrExamQuestions = [
+window.skillrTestQuestions = [
   {
     "id": "ac9s2i03-t-001",
     "curriculumCode": "AC9S2I03",
@@ -11,21 +11,20 @@ window.skillrExamQuestions = [
     "audioPrompt": "A plant is measured every Monday. Which table heading is most useful?",
     "visual": "",
     "answers": [
-      "Guess | colour wanted.",
-      "Student name | lunch choice.",
-      "Date | plant height in cubes.",
-      "Favourite plant | mood."
+      "Guess  and colour wanted",
+      "Date  and plant height in cubes",
+      "Student name  and lunch choice"
     ],
-    "correct": 2,
-    "explanation": "Useful tables name the variable and when it was recorded.\nHint: Choose headings that match the investigation.",
+    "correct": 1,
+    "explanation": "Useful tables name the variable and when it was recorded.",
     "structuredExplanation": {
-      "summary": "Useful tables name the variable and when it was recorded.",
-      "hint": "Choose headings that match the investigation."
+      "summary": "Useful tables name the variable and when it was recorded."
     },
-    "difficulty": 3,
-    "difficultyTier": "independent",
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
     "sequencePriority": 1,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
   },
   {
     "id": "ac9s2i03-t-002",
@@ -38,21 +37,20 @@ window.skillrExamQuestions = [
     "audioPrompt": "A child times how long an ice cube takes to melt. What should be recorded?",
     "visual": "",
     "answers": [
-      "A different group’s result with no label.",
-      "The measured time and the condition used.",
-      "Only the child’s prediction.",
-      "The cup colour."
+      "A different group’s result with no label",
+      "Only the child’s prediction",
+      "The measured time and the condition used"
     ],
-    "correct": 1,
-    "explanation": "The time and test condition are needed to interpret the result.\nHint: Record both outcome and context.",
+    "correct": 2,
+    "explanation": "The time and test condition are needed to interpret the result.",
     "structuredExplanation": {
-      "summary": "The time and test condition are needed to interpret the result.",
-      "hint": "Record both outcome and context."
+      "summary": "The time and test condition are needed to interpret the result."
     },
-    "difficulty": 3,
-    "difficultyTier": "independent",
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
     "sequencePriority": 2,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
   },
   {
     "id": "ac9s2i03-t-003",
@@ -65,21 +63,20 @@ window.skillrExamQuestions = [
     "audioPrompt": "Two shells are compared. Which is the clearest observation?",
     "visual": "",
     "answers": [
-      "Shell A has 6 dark stripes; Shell B has 3.",
-      "Shell A is better.",
-      "Shell B looks lucky.",
-      "Both shells are interesting."
+      "Shell A has 6 dark stripes; Shell B has 3",
+      "Shell B looks lucky",
+      "Shell A is better"
     ],
     "correct": 0,
-    "explanation": "Counts give specific evidence that can be compared.\nHint: Choose the measurable observation.",
+    "explanation": "Counts give specific evidence that can be compared.",
     "structuredExplanation": {
-      "summary": "Counts give specific evidence that can be compared.",
-      "hint": "Choose the measurable observation."
+      "summary": "Counts give specific evidence that can be compared."
     },
-    "difficulty": 3,
-    "difficultyTier": "independent",
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
     "sequencePriority": 3,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
   },
   {
     "id": "ac9s2i03-t-004",
@@ -92,21 +89,20 @@ window.skillrExamQuestions = [
     "audioPrompt": "A student measures a pencil as 12 cubes long, then 13 cubes long without moving the pencil. What should the student do?",
     "visual": "",
     "answers": [
-      "Choose 13 because it is larger.",
-      "Average every number without checking.",
-      "Change the pencil length.",
-      "Check the cube placement and measure again carefully."
+      "Check the cube placement and measure again carefully",
+      "Choose 13 because it is larger",
+      "Average every number without checking"
     ],
-    "correct": 3,
-    "explanation": "A mismatch suggests the measuring method should be checked.\nHint: Look for a careful recheck.",
+    "correct": 0,
+    "explanation": "A mismatch suggests the measuring method should be checked.",
     "structuredExplanation": {
-      "summary": "A mismatch suggests the measuring method should be checked.",
-      "hint": "Look for a careful recheck."
+      "summary": "A mismatch suggests the measuring method should be checked."
     },
-    "difficulty": 3,
-    "difficultyTier": "independent",
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
     "sequencePriority": 4,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
   },
   {
     "id": "ac9s2i03-t-005",
@@ -119,21 +115,20 @@ window.skillrExamQuestions = [
     "audioPrompt": "Why use the same-sized blocks to measure several objects?",
     "visual": "",
     "answers": [
-      "The blocks make objects equal in length.",
-      "The object colour becomes measurable.",
-      "The measurements can be compared using a consistent unit.",
-      "Different blocks always give the same count."
+      "The measurements can be compared using a consistent unit",
+      "The blocks make objects equal in length",
+      "The object colour becomes measurable"
     ],
-    "correct": 2,
-    "explanation": "Consistent units make measurements easier to compare.\nHint: Think about equal units.",
+    "correct": 0,
+    "explanation": "Consistent units make measurements easier to compare.",
     "structuredExplanation": {
-      "summary": "Consistent units make measurements easier to compare.",
-      "hint": "Think about equal units."
+      "summary": "Consistent units make measurements easier to compare."
     },
-    "difficulty": 3,
-    "difficultyTier": "independent",
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
     "sequencePriority": 5,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
   },
   {
     "id": "ac9s2i03-t-006",
@@ -146,21 +141,20 @@ window.skillrExamQuestions = [
     "audioPrompt": "A class records bird visits with tally marks. What does one tally represent?",
     "visual": "",
     "answers": [
-      "One bird species forever.",
-      "One observed visit.",
-      "Five visits automatically.",
-      "One prediction."
+      "One observed visit",
+      "Five visits automatically",
+      "One bird species forever"
     ],
-    "correct": 1,
-    "explanation": "Each tally records one counted event unless grouped later.\nHint: Match one mark to one event.",
+    "correct": 0,
+    "explanation": "Each tally records one counted event unless grouped later.",
     "structuredExplanation": {
-      "summary": "Each tally records one counted event unless grouped later.",
-      "hint": "Match one mark to one event."
+      "summary": "Each tally records one counted event unless grouped later."
     },
-    "difficulty": 3,
-    "difficultyTier": "independent",
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
     "sequencePriority": 6,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
   },
   {
     "id": "ac9s2i03-t-007",
@@ -173,21 +167,20 @@ window.skillrExamQuestions = [
     "audioPrompt": "A child sketches a rock and labels “rough edge” and “smooth face.” Why are labels useful?",
     "visual": "",
     "answers": [
-      "They connect specific observations to parts of the object.",
-      "They make the rock smoother.",
-      "They replace all written records.",
-      "They show which part is prettiest."
+      "They make the rock smoother",
+      "They replace all written records",
+      "They connect specific observations to parts of the object"
     ],
-    "correct": 0,
-    "explanation": "Labels clarify what features were observed and where.\nHint: Look for clearer communication of observations.",
+    "correct": 2,
+    "explanation": "Labels clarify what features were observed and where.",
     "structuredExplanation": {
-      "summary": "Labels clarify what features were observed and where.",
-      "hint": "Look for clearer communication of observations."
+      "summary": "Labels clarify what features were observed and where."
     },
-    "difficulty": 3,
-    "difficultyTier": "independent",
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
     "sequencePriority": 7,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
   },
   {
     "id": "ac9s2i03-t-008",
@@ -200,21 +193,20 @@ window.skillrExamQuestions = [
     "audioPrompt": "Which record best separates observation from opinion?",
     "visual": "",
     "answers": [
-      "The flower is the prettiest.",
-      "The flower should win.",
-      "Red is the best colour.",
-      "The flower has 5 red petals."
+      "The flower has 5 red petals",
+      "The flower is the prettiest",
+      "The flower should win"
     ],
-    "correct": 3,
-    "explanation": "Counting petals and naming colour are observable; the others are preferences.\nHint: Choose the objective statement.",
+    "correct": 0,
+    "explanation": "Counting petals and naming colour are observable; the others are preferences.",
     "structuredExplanation": {
-      "summary": "Counting petals and naming colour are observable; the others are preferences.",
-      "hint": "Choose the objective statement."
+      "summary": "Counting petals and naming colour are observable; the others are preferences."
     },
-    "difficulty": 3,
-    "difficultyTier": "independent",
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
     "sequencePriority": 8,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
   },
   {
     "id": "ac9s2i03-t-009",
@@ -227,21 +219,20 @@ window.skillrExamQuestions = [
     "audioPrompt": "A thermometer reads 24 °C in one place and 31 °C in another. What should the student record?",
     "visual": "",
     "answers": [
-      "The number they expected.",
-      "A guess about next week.",
-      "Both temperatures and where each was measured.",
-      "Only the larger number."
+      "A guess about next week",
+      "Both temperatures and where each was measured",
+      "The number they expected"
     ],
-    "correct": 2,
-    "explanation": "Both values and their conditions are needed for comparison.\nHint: Keep all relevant measured results.",
+    "correct": 1,
+    "explanation": "Both values and their conditions are needed for comparison.",
     "structuredExplanation": {
-      "summary": "Both values and their conditions are needed for comparison.",
-      "hint": "Keep all relevant measured results."
+      "summary": "Both values and their conditions are needed for comparison."
     },
-    "difficulty": 3,
-    "difficultyTier": "independent",
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
     "sequencePriority": 9,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
   },
   {
     "id": "ac9s2i03-t-010",
@@ -254,21 +245,20 @@ window.skillrExamQuestions = [
     "audioPrompt": "A student forgets which cup was in sunlight. What record-keeping improvement would help next time?",
     "visual": "",
     "answers": [
-      "Change both cups after the test.",
-      "Label the cups before starting.",
-      "Use more cups without labels.",
-      "Write the conclusion first."
+      "Change both cups after the test",
+      "Label the cups before starting",
+      "Use more cups without labels"
     ],
     "correct": 1,
-    "explanation": "Labels connect observations to the correct condition.\nHint: Think about preventing mix-ups.",
+    "explanation": "Labels connect observations to the correct condition.",
     "structuredExplanation": {
-      "summary": "Labels connect observations to the correct condition.",
-      "hint": "Think about preventing mix-ups."
+      "summary": "Labels connect observations to the correct condition."
     },
-    "difficulty": 3,
-    "difficultyTier": "independent",
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
     "sequencePriority": 10,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
   },
   {
     "id": "ac9s2i03-t-011",
@@ -281,21 +271,20 @@ window.skillrExamQuestions = [
     "audioPrompt": "Which observation could be made using hearing?",
     "visual": "",
     "answers": [
-      "The tuning fork produced a faint ringing sound.",
-      "The ruler was 15 cm long.",
-      "The leaf was green.",
-      "The water was 20 °C."
+      "The ruler was 15 cm long",
+      "The tuning fork produced a faint ringing sound",
+      "The leaf was green"
     ],
-    "correct": 0,
-    "explanation": "Hearing is used to observe sound features.\nHint: Match the sense to the observation.",
+    "correct": 1,
+    "explanation": "Hearing is used to observe sound features.",
     "structuredExplanation": {
-      "summary": "Hearing is used to observe sound features.",
-      "hint": "Match the sense to the observation."
+      "summary": "Hearing is used to observe sound features."
     },
-    "difficulty": 3,
-    "difficultyTier": "independent",
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
     "sequencePriority": 11,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
   },
   {
     "id": "ac9s2i03-t-012",
@@ -308,21 +297,20 @@ window.skillrExamQuestions = [
     "audioPrompt": "Which observation could be made safely using touch?",
     "visual": "",
     "answers": [
-      "An unknown chemical tastes sour.",
-      "The hot plate feels hot.",
-      "Broken glass feels sharp.",
-      "The fabric feels rough compared with the smooth fabric."
+      "The hot plate feels hot",
+      "An unknown chemical tastes sour",
+      "The fabric feels rough compared with the smooth fabric"
     ],
-    "correct": 3,
-    "explanation": "Touch can compare safe materials when there is no hazard.\nHint: Choose the safe tactile observation.",
+    "correct": 2,
+    "explanation": "Touch can compare safe materials when there is no hazard.",
     "structuredExplanation": {
-      "summary": "Touch can compare safe materials when there is no hazard.",
-      "hint": "Choose the safe tactile observation."
+      "summary": "Touch can compare safe materials when there is no hazard."
     },
-    "difficulty": 3,
-    "difficultyTier": "independent",
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
     "sequencePriority": 12,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
   },
   {
     "id": "ac9s2i03-t-013",
@@ -335,21 +323,20 @@ window.skillrExamQuestions = [
     "audioPrompt": "Why take a photograph from the same position each day during a plant investigation?",
     "visual": "",
     "answers": [
-      "It guarantees identical weather.",
-      "It replaces all other measurements.",
-      "It makes changes in size or shape easier to compare.",
-      "It forces the plant to grow."
+      "It makes changes in size or shape easier to compare",
+      "It guarantees identical weather",
+      "It replaces all other measurements"
     ],
-    "correct": 2,
-    "explanation": "Consistent photographs can provide comparable visual records.\nHint: Think about keeping the viewpoint consistent.",
+    "correct": 0,
+    "explanation": "Consistent photographs can provide comparable visual records.",
     "structuredExplanation": {
-      "summary": "Consistent photographs can provide comparable visual records.",
-      "hint": "Think about keeping the viewpoint consistent."
+      "summary": "Consistent photographs can provide comparable visual records."
     },
-    "difficulty": 3,
-    "difficultyTier": "independent",
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
     "sequencePriority": 13,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
   },
   {
     "id": "ac9s2i03-t-014",
@@ -358,25 +345,24 @@ window.skillrExamQuestions = [
     "skill": "observing, measuring and recording",
     "printable": true,
     "type": "single",
-    "question": "A child records “about 8 cm” when a ruler shows exactly 8.2 cm. Which record is more precise?",
-    "audioPrompt": "A child records “about 8 cm” when a ruler shows exactly 8.2 cm. Which record is more precise?",
+    "question": "A child writes 'a few seeds' after counting exactly eight. Which record is clearer?",
+    "audioPrompt": "A child writes 'a few seeds' after counting exactly eight. Which record is clearer?",
     "visual": "",
     "answers": [
-      "bigger than yesterday maybe.",
-      "8.2 cm.",
-      "about 8 cm.",
-      "long."
+      "Nice seeds",
+      "Lots of things",
+      "8 seeds"
     ],
-    "correct": 1,
-    "explanation": "The ruler reading gives a more precise numerical measurement.\nHint: Choose the most specific measured value.",
+    "correct": 2,
+    "explanation": "The exact count reports how many seeds were observed.",
     "structuredExplanation": {
-      "summary": "The ruler reading gives a more precise numerical measurement.",
-      "hint": "Choose the most specific measured value."
+      "summary": "The exact count reports how many seeds were observed."
     },
-    "difficulty": 3,
-    "difficultyTier": "independent",
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
     "sequencePriority": 14,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
   },
   {
     "id": "ac9s2i03-t-015",
@@ -389,21 +375,20 @@ window.skillrExamQuestions = [
     "audioPrompt": "A table has one row with no unit beside a length value. Why is that a problem?",
     "visual": "",
     "answers": [
-      "The number is unclear because the measurement unit is missing.",
-      "The number becomes wrong automatically.",
-      "Units are only used for temperature.",
-      "The table cannot contain numbers."
+      "Units are only used for temperature",
+      "The number is unclear because the measurement unit is missing",
+      "The number becomes wrong automatically"
     ],
-    "correct": 0,
-    "explanation": "A measurement needs a unit so its meaning is clear.\nHint: Look for what gives the number meaning.",
+    "correct": 1,
+    "explanation": "A measurement needs a unit so its meaning is clear.",
     "structuredExplanation": {
-      "summary": "A measurement needs a unit so its meaning is clear.",
-      "hint": "Look for what gives the number meaning."
+      "summary": "A measurement needs a unit so its meaning is clear."
     },
-    "difficulty": 3,
-    "difficultyTier": "independent",
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
     "sequencePriority": 15,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
   },
   {
     "id": "ac9s2i03-t-016",
@@ -416,20 +401,19 @@ window.skillrExamQuestions = [
     "audioPrompt": "A surprising result is observed twice. What should be written in the record?",
     "visual": "",
     "answers": [
-      "A more expected number.",
-      "Nothing, because it is unusual.",
-      "The prediction instead.",
-      "The surprising result exactly as observed."
+      "A more expected number",
+      "Nothing, because it is unusual",
+      "The surprising result exactly as observed"
     ],
-    "correct": 3,
-    "explanation": "Records should report evidence honestly, including unexpected observations.\nHint: Do not alter evidence to fit expectations.",
+    "correct": 2,
+    "explanation": "Records should report evidence honestly, including unexpected observations.",
     "structuredExplanation": {
-      "summary": "Records should report evidence honestly, including unexpected observations.",
-      "hint": "Do not alter evidence to fit expectations."
+      "summary": "Records should report evidence honestly, including unexpected observations."
     },
-    "difficulty": 3,
-    "difficultyTier": "independent",
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
     "sequencePriority": 16,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
   }
 ];

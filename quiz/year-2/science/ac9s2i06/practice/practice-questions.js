@@ -11,22 +11,20 @@ window.skillrPracticeQuestions = [
     "audioPrompt": "Which sentence clearly communicates an observation?",
     "visual": "",
     "answers": [
-      "The ice is smaller than it was 10 minutes ago",
       "The ice is the best sample",
       "The ice wanted to disappear",
-      "Ice always behaves this way"
+      "The ice is smaller than it was 10 minutes ago"
     ],
-    "correct": 0,
-    "explanation": "It states a visible change and when it was noticed.\nHint: Use the observations and science idea in the question.",
+    "correct": 2,
+    "explanation": "It states a visible change and when it was noticed.",
     "structuredExplanation": {
-      "summary": "It states a visible change and when it was noticed.",
-      "hint": "Use the observations and science idea in the question."
+      "summary": "It states a visible change and when it was noticed."
     },
     "stage": "recognise",
     "difficulty": 1,
     "difficultyTier": "recognise",
     "sequencePriority": 1,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
   },
   {
     "id": "ac9s2i06-p-002",
@@ -41,20 +39,18 @@ window.skillrPracticeQuestions = [
     "answers": [
       "wiggled happily",
       "did magic",
-      "was lovely",
       "vibrated"
     ],
-    "correct": 3,
-    "explanation": "Vibrated is the scientific word for rapid back-and-forth movement.\nHint: Use the observations and science idea in the question.",
+    "correct": 2,
+    "explanation": "Vibrated is the scientific word for rapid back-and-forth movement.",
     "structuredExplanation": {
-      "summary": "Vibrated is the scientific word for rapid back-and-forth movement.",
-      "hint": "Use the observations and science idea in the question."
+      "summary": "Vibrated is the scientific word for rapid back-and-forth movement."
     },
     "stage": "recognise",
     "difficulty": 1,
     "difficultyTier": "recognise",
     "sequencePriority": 2,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
   },
   {
     "id": "ac9s2i06-p-003",
@@ -67,22 +63,20 @@ window.skillrPracticeQuestions = [
     "audioPrompt": "Which sentence uses everyday words and a science word clearly?",
     "visual": "",
     "answers": [
-      "Warm means the spoon is alive",
       "Heat is a colour",
       "The spoon felt warm because heat moved into it",
-      "The spoon liked the hot water"
+      "Warm means the spoon is alive"
     ],
-    "correct": 2,
-    "explanation": "The sentence joins a familiar observation with the scientific idea of heat.\nHint: Use the observations and science idea in the question.",
+    "correct": 1,
+    "explanation": "The sentence joins a familiar observation with the scientific idea of heat.",
     "structuredExplanation": {
-      "summary": "The sentence joins a familiar observation with the scientific idea of heat.",
-      "hint": "Use the observations and science idea in the question."
+      "summary": "The sentence joins a familiar observation with the scientific idea of heat."
     },
     "stage": "recognise",
     "difficulty": 1,
     "difficultyTier": "recognise",
     "sequencePriority": 3,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
   },
   {
     "id": "ac9s2i06-p-004",
@@ -95,22 +89,20 @@ window.skillrPracticeQuestions = [
     "audioPrompt": "A child draws a flowering plant. Which labels communicate useful features?",
     "visual": "",
     "answers": [
-      "only the child's name",
       "root, stem, leaf and flower",
-      "nice part and best part",
-      "top thing and bottom thing"
+      "only the child's name",
+      "nice part and best part"
     ],
-    "correct": 1,
-    "explanation": "Feature labels show which plant part is being described.\nHint: Use the observations and science idea in the question.",
+    "correct": 0,
+    "explanation": "Feature labels show which plant part is being described.",
     "structuredExplanation": {
-      "summary": "Feature labels show which plant part is being described.",
-      "hint": "Use the observations and science idea in the question."
+      "summary": "Feature labels show which plant part is being described."
     },
     "stage": "recognise",
     "difficulty": 1,
     "difficultyTier": "recognise",
     "sequencePriority": 4,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
   },
   {
     "id": "ac9s2i06-p-005",
@@ -125,20 +117,18 @@ window.skillrPracticeQuestions = [
     "answers": [
       "first, next, then, finally",
       "maybe, favourite, lovely, best",
-      "big, bigger, biggest, fun",
-      "yesterday repeated four times"
+      "big, bigger, biggest, fun"
     ],
     "correct": 0,
-    "explanation": "Sequence words put events in an understandable order.\nHint: Use the observations and science idea in the question.",
+    "explanation": "Sequence words put events in an understandable order.",
     "structuredExplanation": {
-      "summary": "Sequence words put events in an understandable order.",
-      "hint": "Use the observations and science idea in the question."
+      "summary": "Sequence words put events in an understandable order."
     },
     "stage": "recognise",
     "difficulty": 1,
     "difficultyTier": "recognise",
     "sequencePriority": 5,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
   },
   {
     "id": "ac9s2i06-p-006",
@@ -151,22 +141,20 @@ window.skillrPracticeQuestions = [
     "audioPrompt": "Which title clearly tells what an investigation was about?",
     "visual": "",
     "answers": [
-      "My fantastic science",
       "Things we did",
-      "The best day ever",
-      "How sunlight affected ice melting"
+      "How sunlight affected ice melting",
+      "My fantastic science"
     ],
-    "correct": 3,
-    "explanation": "A specific title identifies the factor and change studied.\nHint: Use the observations and science idea in the question.",
+    "correct": 1,
+    "explanation": "A specific title identifies the factor and change studied.",
     "structuredExplanation": {
-      "summary": "A specific title identifies the factor and change studied.",
-      "hint": "Use the observations and science idea in the question."
+      "summary": "A specific title identifies the factor and change studied."
     },
     "stage": "recognise",
     "difficulty": 1,
     "difficultyTier": "recognise",
     "sequencePriority": 6,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
   },
   {
     "id": "ac9s2i06-p-007",
@@ -179,22 +167,20 @@ window.skillrPracticeQuestions = [
     "audioPrompt": "A photo shows a seedling on Day 5. Which caption is useful?",
     "visual": "",
     "answers": [
-      "Something happened",
-      "I knew it would grow",
       "Day 5: two green leaves are open",
-      "This is cute"
+      "Something happened",
+      "I knew it would grow"
     ],
-    "correct": 2,
-    "explanation": "The caption states the time and visible evidence.\nHint: Use the observations and science idea in the question.",
+    "correct": 0,
+    "explanation": "The caption states the time and visible evidence.",
     "structuredExplanation": {
-      "summary": "The caption states the time and visible evidence.",
-      "hint": "Use the observations and science idea in the question."
+      "summary": "The caption states the time and visible evidence."
     },
     "stage": "recognise",
     "difficulty": 1,
     "difficultyTier": "recognise",
     "sequencePriority": 7,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
   },
   {
     "id": "ac9s2i06-p-008",
@@ -207,22 +193,20 @@ window.skillrPracticeQuestions = [
     "audioPrompt": "A table records plant height each Monday. Which headings are needed?",
     "visual": "",
     "answers": [
-      "colour only",
       "date and height in blocks",
-      "plant and fun",
-      "guess and favourite"
+      "colour only",
+      "plant and fun"
     ],
-    "correct": 1,
-    "explanation": "Headings tell readers what each recorded value means.\nHint: Use the observations and science idea in the question.",
+    "correct": 0,
+    "explanation": "Headings tell readers what each recorded value means.",
     "structuredExplanation": {
-      "summary": "Headings tell readers what each recorded value means.",
-      "hint": "Use the observations and science idea in the question."
+      "summary": "Headings tell readers what each recorded value means."
     },
     "stage": "recognise",
     "difficulty": 1,
     "difficultyTier": "recognise",
     "sequencePriority": 8,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
   },
   {
     "id": "ac9s2i06-p-009",
@@ -236,21 +220,19 @@ window.skillrPracticeQuestions = [
     "visual": "",
     "answers": [
       "so another person can understand what was done",
-      "so the result becomes correct",
       "so labels are unnecessary",
-      "so evidence can be hidden"
+      "so the result becomes correct"
     ],
     "correct": 0,
-    "explanation": "Clear steps help an audience follow the investigation.\nHint: Use the observations and science idea in the question.",
+    "explanation": "Clear steps help an audience follow the investigation.",
     "structuredExplanation": {
-      "summary": "Clear steps help an audience follow the investigation.",
-      "hint": "Use the observations and science idea in the question."
+      "summary": "Clear steps help an audience follow the investigation."
     },
     "stage": "recognise",
     "difficulty": 1,
     "difficultyTier": "recognise",
     "sequencePriority": 9,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
   },
   {
     "id": "ac9s2i06-p-010",
@@ -264,21 +246,19 @@ window.skillrPracticeQuestions = [
     "visual": "",
     "answers": [
       "Plastic never lets anything through",
-      "Paper is better than plastic",
-      "Both materials behaved the same",
-      "Paper let water through; plastic did not in this test"
+      "Paper let water through; plastic did not in this test",
+      "Paper is better than plastic"
     ],
-    "correct": 3,
-    "explanation": "The statement reports both observed results without overclaiming.\nHint: Use the observations and science idea in the question.",
+    "correct": 1,
+    "explanation": "The statement reports both observed results without overclaiming.",
     "structuredExplanation": {
-      "summary": "The statement reports both observed results without overclaiming.",
-      "hint": "Use the observations and science idea in the question."
+      "summary": "The statement reports both observed results without overclaiming."
     },
     "stage": "recognise",
     "difficulty": 1,
     "difficultyTier": "recognise",
     "sequencePriority": 10,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
   },
   {
     "id": "ac9s2i06-p-011",
@@ -291,22 +271,20 @@ window.skillrPracticeQuestions = [
     "audioPrompt": "Which report sentence is clear and concise?",
     "visual": "",
     "answers": [
-      "The shadow was amazing",
-      "Morning always makes every shadow longest",
       "The 8-block shadow was longest at 9 am",
-      "At some time a thing was sort of long"
+      "The shadow was amazing",
+      "Morning always makes every shadow longest"
     ],
-    "correct": 2,
-    "explanation": "It gives a measurement, object and time without an unsupported claim.\nHint: Use the observations and science idea in the question.",
+    "correct": 0,
+    "explanation": "It gives a measurement, object and time without an unsupported claim.",
     "structuredExplanation": {
-      "summary": "It gives a measurement, object and time without an unsupported claim.",
-      "hint": "Use the observations and science idea in the question."
+      "summary": "It gives a measurement, object and time without an unsupported claim."
     },
-    "stage": "explain",
-    "difficulty": 2,
-    "difficultyTier": "explain",
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
     "sequencePriority": 11,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
   },
   {
     "id": "ac9s2i06-p-012",
@@ -319,22 +297,20 @@ window.skillrPracticeQuestions = [
     "audioPrompt": "A diagram uses blue arrows for water movement. What helps the reader?",
     "visual": "",
     "answers": [
-      "removing all labels",
       "a key saying blue arrows show water movement",
       "extra arrows with no meaning",
-      "decorations over the arrows"
+      "removing all labels"
     ],
-    "correct": 1,
-    "explanation": "A key explains what a symbol or colour represents.\nHint: Use the observations and science idea in the question.",
+    "correct": 0,
+    "explanation": "A key explains what a symbol or colour represents.",
     "structuredExplanation": {
-      "summary": "A key explains what a symbol or colour represents.",
-      "hint": "Use the observations and science idea in the question."
+      "summary": "A key explains what a symbol or colour represents."
     },
-    "stage": "explain",
-    "difficulty": 2,
-    "difficultyTier": "explain",
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
     "sequencePriority": 12,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
   },
   {
     "id": "ac9s2i06-p-013",
@@ -347,22 +323,20 @@ window.skillrPracticeQuestions = [
     "audioPrompt": "Which sentence belongs in the results section?",
     "visual": "",
     "answers": [
-      "The toy car travelled 12 blocks",
       "I predicted the car would travel 9 blocks",
       "I hoped the red car would win",
-      "Cars are always fast"
+      "The toy car travelled 12 blocks"
     ],
-    "correct": 0,
-    "explanation": "Results report what happened, not what was expected.\nHint: Use the observations and science idea in the question.",
+    "correct": 2,
+    "explanation": "Results report what happened, not what was expected.",
     "structuredExplanation": {
-      "summary": "Results report what happened, not what was expected.",
-      "hint": "Use the observations and science idea in the question."
+      "summary": "Results report what happened, not what was expected."
     },
-    "stage": "explain",
-    "difficulty": 2,
-    "difficultyTier": "explain",
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
     "sequencePriority": 13,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
   },
   {
     "id": "ac9s2i06-p-014",
@@ -376,21 +350,19 @@ window.skillrPracticeQuestions = [
     "visual": "",
     "answers": [
       "one unrelated drawing",
-      "a list of favourite times",
-      "an unlabelled colour patch",
-      "three ordered, labelled drawings with measurements"
+      "three ordered, labelled drawings with measurements",
+      "a list of favourite times"
     ],
-    "correct": 3,
-    "explanation": "Ordered labelled records make change over time visible.\nHint: Use the observations and science idea in the question.",
+    "correct": 1,
+    "explanation": "Ordered labelled records make change over time visible.",
     "structuredExplanation": {
-      "summary": "Ordered labelled records make change over time visible.",
-      "hint": "Use the observations and science idea in the question."
+      "summary": "Ordered labelled records make change over time visible."
     },
-    "stage": "explain",
-    "difficulty": 2,
-    "difficultyTier": "explain",
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
     "sequencePriority": 14,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
   },
   {
     "id": "ac9s2i06-p-015",
@@ -403,22 +375,20 @@ window.skillrPracticeQuestions = [
     "audioPrompt": "Which sentence communicates a complete science idea?",
     "visual": "",
     "answers": [
-      "Vibrated and metal",
       "Nice loud bell",
-      "The bell made sound when its metal vibrated",
-      "The bell because sound"
+      "Vibrated and metal",
+      "The bell made sound when its metal vibrated"
     ],
     "correct": 2,
-    "explanation": "A complete sentence connects the action, material and result.\nHint: Use the observations and science idea in the question.",
+    "explanation": "A complete sentence connects the action, material and result.",
     "structuredExplanation": {
-      "summary": "A complete sentence connects the action, material and result.",
-      "hint": "Use the observations and science idea in the question."
+      "summary": "A complete sentence connects the action, material and result."
     },
-    "stage": "explain",
-    "difficulty": 2,
-    "difficultyTier": "explain",
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
     "sequencePriority": 15,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
   },
   {
     "id": "ac9s2i06-p-016",
@@ -433,20 +403,18 @@ window.skillrPracticeQuestions = [
     "answers": [
       "units are decorations",
       "the unit explains what 6 measures",
-      "the unit changes the height",
-      "6 always means cubes"
+      "the unit changes the height"
     ],
     "correct": 1,
-    "explanation": "A number needs a unit so the reader can interpret it.\nHint: Use the observations and science idea in the question.",
+    "explanation": "A number needs a unit so the reader can interpret it.",
     "structuredExplanation": {
-      "summary": "A number needs a unit so the reader can interpret it.",
-      "hint": "Use the observations and science idea in the question."
+      "summary": "A number needs a unit so the reader can interpret it."
     },
-    "stage": "explain",
-    "difficulty": 2,
-    "difficultyTier": "explain",
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
     "sequencePriority": 16,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
   },
   {
     "id": "ac9s2i06-p-017",
@@ -459,22 +427,20 @@ window.skillrPracticeQuestions = [
     "audioPrompt": "Which sentence clearly compares two materials?",
     "visual": "",
     "answers": [
-      "Cloth absorbed more drops than foil",
       "Cloth and foil were there",
       "Cloth was nicer",
-      "Foil probably tried less"
+      "Cloth absorbed more drops than foil"
     ],
-    "correct": 0,
-    "explanation": "‘More than’ states the observed relationship.\nHint: Use the observations and science idea in the question.",
+    "correct": 2,
+    "explanation": "‘More than’ states the observed relationship.",
     "structuredExplanation": {
-      "summary": "‘More than’ states the observed relationship.",
-      "hint": "Use the observations and science idea in the question."
+      "summary": "‘More than’ states the observed relationship."
     },
-    "stage": "explain",
+    "stage": "apply",
     "difficulty": 2,
-    "difficultyTier": "explain",
+    "difficultyTier": "apply",
     "sequencePriority": 17,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
   },
   {
     "id": "ac9s2i06-p-018",
@@ -487,22 +453,20 @@ window.skillrPracticeQuestions = [
     "audioPrompt": "A wet patch dried in sunlight. Which is the careful finding?",
     "visual": "",
     "answers": [
-      "sunlight always dries everything instantly",
       "the patch chose to dry",
-      "sunlight is the only possible cause everywhere",
-      "The sunlit patch dried sooner in this investigation"
+      "The sunlit patch dried sooner in this investigation",
+      "sunlight always dries everything instantly"
     ],
-    "correct": 3,
-    "explanation": "A finding should stay within the evidence collected.\nHint: Use the observations and science idea in the question.",
+    "correct": 1,
+    "explanation": "A finding should stay within the evidence collected.",
     "structuredExplanation": {
-      "summary": "A finding should stay within the evidence collected.",
-      "hint": "Use the observations and science idea in the question."
+      "summary": "A finding should stay within the evidence collected."
     },
-    "stage": "explain",
+    "stage": "apply",
     "difficulty": 2,
-    "difficultyTier": "explain",
+    "difficultyTier": "apply",
     "sequencePriority": 18,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
   },
   {
     "id": "ac9s2i06-p-019",
@@ -516,21 +480,19 @@ window.skillrPracticeQuestions = [
     "visual": "",
     "answers": [
       "leaving out the result",
-      "using only favourite words",
       "speaking clearly and presenting events in order",
-      "speaking as fast as possible"
+      "using only favourite words"
     ],
-    "correct": 2,
-    "explanation": "Clear pace and sequence help listeners understand evidence.\nHint: Use the observations and science idea in the question.",
+    "correct": 1,
+    "explanation": "Clear pace and sequence help listeners understand evidence.",
     "structuredExplanation": {
-      "summary": "Clear pace and sequence help listeners understand evidence.",
-      "hint": "Use the observations and science idea in the question."
+      "summary": "Clear pace and sequence help listeners understand evidence."
     },
-    "stage": "explain",
+    "stage": "apply",
     "difficulty": 2,
-    "difficultyTier": "explain",
+    "difficultyTier": "apply",
     "sequencePriority": 19,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
   },
   {
     "id": "ac9s2i06-p-020",
@@ -545,20 +507,18 @@ window.skillrPracticeQuestions = [
     "answers": [
       "The Sun disappears at midday",
       "Morning: low in the east; midday: high; evening: low in the west",
-      "The Sun jumps randomly",
-      "East and west mean the same place"
+      "The Sun jumps randomly"
     ],
     "correct": 1,
-    "explanation": "Time and position words communicate the observed daily pattern.\nHint: Use the observations and science idea in the question.",
+    "explanation": "Time and position words communicate the observed daily pattern.",
     "structuredExplanation": {
-      "summary": "Time and position words communicate the observed daily pattern.",
-      "hint": "Use the observations and science idea in the question."
+      "summary": "Time and position words communicate the observed daily pattern."
     },
-    "stage": "explain",
+    "stage": "apply",
     "difficulty": 2,
-    "difficultyTier": "explain",
+    "difficultyTier": "apply",
     "sequencePriority": 20,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
   },
   {
     "id": "ac9s2i06-p-021",
@@ -572,21 +532,19 @@ window.skillrPracticeQuestions = [
     "visual": "",
     "answers": [
       "labelled observations and relevant pictures",
-      "made-up animal powers",
       "only decorative borders",
-      "a ranking of cutest animals"
+      "made-up animal powers"
     ],
     "correct": 0,
-    "explanation": "Relevant visuals and facts communicate observations.\nHint: Use the observations and science idea in the question.",
+    "explanation": "Relevant visuals and facts communicate observations.",
     "structuredExplanation": {
-      "summary": "Relevant visuals and facts communicate observations.",
-      "hint": "Use the observations and science idea in the question."
+      "summary": "Relevant visuals and facts communicate observations."
     },
-    "stage": "discriminate",
+    "stage": "apply",
     "difficulty": 2,
-    "difficultyTier": "discriminate",
+    "difficultyTier": "apply",
     "sequencePriority": 21,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
   },
   {
     "id": "ac9s2i06-p-022",
@@ -600,21 +558,19 @@ window.skillrPracticeQuestions = [
     "visual": "",
     "answers": [
       "My plant wins",
-      "Everyone likes my plant",
-      "The plant feels proud",
-      "My plant has four leaves and is 9 cubes tall"
+      "My plant has four leaves and is 9 cubes tall",
+      "Everyone likes my plant"
     ],
-    "correct": 3,
-    "explanation": "Counts and measurements replace opinion with observable evidence.\nHint: Use the observations and science idea in the question.",
+    "correct": 1,
+    "explanation": "Counts and measurements replace opinion with observable evidence.",
     "structuredExplanation": {
-      "summary": "Counts and measurements replace opinion with observable evidence.",
-      "hint": "Use the observations and science idea in the question."
+      "summary": "Counts and measurements replace opinion with observable evidence."
     },
-    "stage": "discriminate",
+    "stage": "apply",
     "difficulty": 2,
-    "difficultyTier": "discriminate",
+    "difficultyTier": "apply",
     "sequencePriority": 22,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
   },
   {
     "id": "ac9s2i06-p-023",
@@ -629,20 +585,18 @@ window.skillrPracticeQuestions = [
     "answers": [
       "That one changed",
       "They did something",
-      "The metal cup felt warmer than the plastic cup",
-      "It felt warmer than it"
+      "The metal cup felt warmer than the plastic cup"
     ],
     "correct": 2,
-    "explanation": "Naming each cup prevents confusion.\nHint: Use the observations and science idea in the question.",
+    "explanation": "Naming each cup prevents confusion.",
     "structuredExplanation": {
-      "summary": "Naming each cup prevents confusion.",
-      "hint": "Use the observations and science idea in the question."
+      "summary": "Naming each cup prevents confusion."
     },
-    "stage": "discriminate",
+    "stage": "apply",
     "difficulty": 2,
-    "difficultyTier": "discriminate",
+    "difficultyTier": "apply",
     "sequencePriority": 23,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
   },
   {
     "id": "ac9s2i06-p-024",
@@ -655,22 +609,20 @@ window.skillrPracticeQuestions = [
     "audioPrompt": "Why include where and when a bird was observed?",
     "visual": "",
     "answers": [
-      "it makes the bird return",
       "the context helps others understand the record",
       "it proves every bird behaves the same",
-      "it replaces the bird description"
+      "it makes the bird return"
     ],
-    "correct": 1,
-    "explanation": "Place and time give useful context to an observation.\nHint: Use the observations and science idea in the question.",
+    "correct": 0,
+    "explanation": "Place and time give useful context to an observation.",
     "structuredExplanation": {
-      "summary": "Place and time give useful context to an observation.",
-      "hint": "Use the observations and science idea in the question."
+      "summary": "Place and time give useful context to an observation."
     },
-    "stage": "discriminate",
+    "stage": "apply",
     "difficulty": 2,
-    "difficultyTier": "discriminate",
+    "difficultyTier": "apply",
     "sequencePriority": 24,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
   },
   {
     "id": "ac9s2i06-p-025",
@@ -683,22 +635,20 @@ window.skillrPracticeQuestions = [
     "audioPrompt": "How should a label line be used in a scientific drawing?",
     "visual": "",
     "answers": [
-      "point from the word to the exact feature",
       "cross every feature",
       "form a decorative frame",
-      "point away from the object"
+      "point from the word to the exact feature"
     ],
-    "correct": 0,
-    "explanation": "A precise line connects a label with the intended feature.\nHint: Use the observations and science idea in the question.",
+    "correct": 2,
+    "explanation": "A precise line connects a label with the intended feature.",
     "structuredExplanation": {
-      "summary": "A precise line connects a label with the intended feature.",
-      "hint": "Use the observations and science idea in the question."
+      "summary": "A precise line connects a label with the intended feature."
     },
-    "stage": "discriminate",
+    "stage": "apply",
     "difficulty": 2,
-    "difficultyTier": "discriminate",
+    "difficultyTier": "apply",
     "sequencePriority": 25,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
   },
   {
     "id": "ac9s2i06-p-026",
@@ -711,22 +661,20 @@ window.skillrPracticeQuestions = [
     "audioPrompt": "A report says 7 seedlings grew, but the table shows 6. What should happen?",
     "visual": "",
     "answers": [
+      "correct the report to match the recorded data",
       "change the table to 7 without checking",
-      "leave both numbers",
-      "delete all results",
-      "correct the report to match the recorded data"
+      "leave both numbers"
     ],
-    "correct": 3,
-    "explanation": "Science texts must agree with the evidence.\nHint: Use the observations and science idea in the question.",
+    "correct": 0,
+    "explanation": "Science texts must agree with the evidence.",
     "structuredExplanation": {
-      "summary": "Science texts must agree with the evidence.",
-      "hint": "Use the observations and science idea in the question."
+      "summary": "Science texts must agree with the evidence."
     },
-    "stage": "discriminate",
+    "stage": "apply",
     "difficulty": 2,
-    "difficultyTier": "discriminate",
+    "difficultyTier": "apply",
     "sequencePriority": 26,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
   },
   {
     "id": "ac9s2i06-p-027",
@@ -739,22 +687,20 @@ window.skillrPracticeQuestions = [
     "audioPrompt": "A reader asks ‘How much water?’ What is missing from the method?",
     "visual": "",
     "answers": [
-      "a larger title",
       "a prediction after the test",
-      "the measured amount of water",
-      "the writer's favourite colour"
+      "a larger title",
+      "the measured amount of water"
     ],
     "correct": 2,
-    "explanation": "A repeatable method states relevant quantities.\nHint: Use the observations and science idea in the question.",
+    "explanation": "A repeatable method states relevant quantities.",
     "structuredExplanation": {
-      "summary": "A repeatable method states relevant quantities.",
-      "hint": "Use the observations and science idea in the question."
+      "summary": "A repeatable method states relevant quantities."
     },
-    "stage": "discriminate",
+    "stage": "apply",
     "difficulty": 2,
-    "difficultyTier": "discriminate",
+    "difficultyTier": "apply",
     "sequencePriority": 27,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
   },
   {
     "id": "ac9s2i06-p-028",
@@ -769,20 +715,18 @@ window.skillrPracticeQuestions = [
     "answers": [
       "sunny days are better",
       "There were 3 more sunny days than cloudy days",
-      "every day was sunny",
-      "clouds caused the count"
+      "every day was sunny"
     ],
     "correct": 1,
-    "explanation": "The difference between five and two is three.\nHint: Use the observations and science idea in the question.",
+    "explanation": "The difference between five and two is three.",
     "structuredExplanation": {
-      "summary": "The difference between five and two is three.",
-      "hint": "Use the observations and science idea in the question."
+      "summary": "The difference between five and two is three."
     },
-    "stage": "discriminate",
+    "stage": "apply",
     "difficulty": 2,
-    "difficultyTier": "discriminate",
+    "difficultyTier": "apply",
     "sequencePriority": 28,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
   },
   {
     "id": "ac9s2i06-p-029",
@@ -795,22 +739,20 @@ window.skillrPracticeQuestions = [
     "audioPrompt": "How should a child describe a model of Earth and the Sun?",
     "visual": "",
     "answers": [
-      "The model shows their positions but is not to scale",
       "The balls are the real Earth and Sun",
       "Every distance is exact",
-      "Models never need explanation"
+      "The model shows their positions but is not to scale"
     ],
-    "correct": 0,
-    "explanation": "Stating a model's purpose and limit prevents misunderstanding.\nHint: Use the observations and science idea in the question.",
+    "correct": 2,
+    "explanation": "Stating a model's purpose and limit prevents misunderstanding.",
     "structuredExplanation": {
-      "summary": "Stating a model's purpose and limit prevents misunderstanding.",
-      "hint": "Use the observations and science idea in the question."
+      "summary": "Stating a model's purpose and limit prevents misunderstanding."
     },
-    "stage": "discriminate",
+    "stage": "apply",
     "difficulty": 2,
-    "difficultyTier": "discriminate",
+    "difficultyTier": "apply",
     "sequencePriority": 29,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
   },
   {
     "id": "ac9s2i06-p-030",
@@ -819,26 +761,24 @@ window.skillrPracticeQuestions = [
     "skill": "communicating science clearly",
     "printable": true,
     "type": "single",
-    "question": "Which conclusion links evidence to the question?",
-    "audioPrompt": "Which conclusion links evidence to the question?",
+    "question": "Cloth absorbed 8 drops and foil absorbed none. Which conclusion matches the result?",
+    "audioPrompt": "Cloth absorbed 8 drops and foil absorbed none. Which conclusion matches the result?",
     "visual": "",
     "answers": [
-      "The towel is my favourite",
-      "I predicted the towel",
-      "All towels everywhere absorb 9 drops",
-      "The towel absorbed 9 drops, the most tested, so it was most absorbent in this test"
+      "The cloth absorbed more drops in this test",
+      "The foil absorbed more drops",
+      "The two materials absorbed equally"
     ],
-    "correct": 3,
-    "explanation": "The conclusion answers the comparison using recorded evidence and a careful limit.\nHint: Use the observations and science idea in the question.",
+    "correct": 0,
+    "explanation": "The conclusion compares the recorded amounts.",
     "structuredExplanation": {
-      "summary": "The conclusion answers the comparison using recorded evidence and a careful limit.",
-      "hint": "Use the observations and science idea in the question."
+      "summary": "The conclusion compares the recorded amounts."
     },
-    "stage": "discriminate",
+    "stage": "apply",
     "difficulty": 2,
-    "difficultyTier": "discriminate",
+    "difficultyTier": "apply",
     "sequencePriority": 30,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
   },
   {
     "id": "ac9s2i06-p-031",
@@ -851,22 +791,20 @@ window.skillrPracticeQuestions = [
     "audioPrompt": "What does communicate mean in science?",
     "visual": "",
     "answers": [
-      "hide unexpected results",
-      "use the longest words possible",
       "share observations, findings or ideas so others can understand",
-      "make every reader agree"
+      "hide unexpected results",
+      "use the longest words possible"
     ],
-    "correct": 2,
-    "explanation": "Communication makes scientific thinking understandable.\nHint: Use the observations and science idea in the question.",
+    "correct": 0,
+    "explanation": "Communication makes scientific thinking understandable.",
     "structuredExplanation": {
-      "summary": "Communication makes scientific thinking understandable.",
-      "hint": "Use the observations and science idea in the question."
+      "summary": "Communication makes scientific thinking understandable."
     },
     "stage": "apply",
-    "difficulty": 3,
+    "difficulty": 2,
     "difficultyTier": "apply",
     "sequencePriority": 31,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
   },
   {
     "id": "ac9s2i06-p-032",
@@ -879,22 +817,20 @@ window.skillrPracticeQuestions = [
     "audioPrompt": "What is a useful final check before sharing a science text?",
     "visual": "",
     "answers": [
-      "replace science words with opinions",
       "check labels, evidence, spelling and whether the message is clear",
-      "add an invented result",
-      "remove measurements"
+      "replace science words with opinions",
+      "add an invented result"
     ],
-    "correct": 1,
-    "explanation": "Checking accuracy and clarity helps the audience learn from the text.\nHint: Use the observations and science idea in the question.",
+    "correct": 0,
+    "explanation": "Checking accuracy and clarity helps the audience learn from the text.",
     "structuredExplanation": {
-      "summary": "Checking accuracy and clarity helps the audience learn from the text.",
-      "hint": "Use the observations and science idea in the question."
+      "summary": "Checking accuracy and clarity helps the audience learn from the text."
     },
     "stage": "apply",
-    "difficulty": 3,
+    "difficulty": 2,
     "difficultyTier": "apply",
     "sequencePriority": 32,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
   },
   {
     "id": "ac9s2i06-p-033",
@@ -907,22 +843,20 @@ window.skillrPracticeQuestions = [
     "audioPrompt": "Which sentence communicates a measured result most clearly?",
     "visual": "",
     "answers": [
-      "The plant grew 4 cm in one week.",
-      "The plant did well.",
-      "It grew heaps.",
-      "The plant was nice."
+      "It grew heaps",
+      "The plant did well",
+      "The plant grew 4 cm in one week"
     ],
-    "correct": 0,
-    "explanation": "A clear science statement includes the measured evidence.\nHint: Choose the most specific statement.",
+    "correct": 2,
+    "explanation": "A clear science statement includes the measured evidence.",
     "structuredExplanation": {
-      "summary": "A clear science statement includes the measured evidence.",
-      "hint": "Choose the most specific statement."
+      "summary": "A clear science statement includes the measured evidence."
     },
-    "stage": "apply",
+    "stage": "reason",
     "difficulty": 3,
-    "difficultyTier": "apply",
+    "difficultyTier": "reason",
     "sequencePriority": 33,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
   },
   {
     "id": "ac9s2i06-p-034",
@@ -935,22 +869,20 @@ window.skillrPracticeQuestions = [
     "audioPrompt": "Why label parts of a science diagram?",
     "visual": "",
     "answers": [
-      "Labels make the object change.",
-      "Labels replace all observations.",
-      "Labels are only decoration.",
-      "Labels show what each part represents."
+      "Labels make the object change",
+      "Labels replace all observations",
+      "Labels show what each part represents"
     ],
-    "correct": 3,
-    "explanation": "Labels help the reader interpret a diagram accurately.\nHint: Think about clarity for the reader.",
+    "correct": 2,
+    "explanation": "Labels help the reader interpret a diagram accurately.",
     "structuredExplanation": {
-      "summary": "Labels help the reader interpret a diagram accurately.",
-      "hint": "Think about clarity for the reader."
+      "summary": "Labels help the reader interpret a diagram accurately."
     },
-    "stage": "apply",
+    "stage": "reason",
     "difficulty": 3,
-    "difficultyTier": "apply",
+    "difficultyTier": "reason",
     "sequencePriority": 34,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
   },
   {
     "id": "ac9s2i06-p-035",
@@ -963,22 +895,20 @@ window.skillrPracticeQuestions = [
     "audioPrompt": "A class found that a towel absorbed 12 drops. Which title suits their table?",
     "visual": "",
     "answers": [
-      "Random numbers.",
-      "Our favourite colours.",
-      "Paper towel absorbency results.",
-      "Things we like."
+      "Paper towel absorbency results",
+      "Random numbers",
+      "Our favourite colours"
     ],
-    "correct": 2,
-    "explanation": "A title should describe the investigation or data shown.\nHint: Choose the title that matches the evidence.",
+    "correct": 0,
+    "explanation": "A title should describe the investigation or data shown.",
     "structuredExplanation": {
-      "summary": "A title should describe the investigation or data shown.",
-      "hint": "Choose the title that matches the evidence."
+      "summary": "A title should describe the investigation or data shown."
     },
-    "stage": "apply",
+    "stage": "reason",
     "difficulty": 3,
-    "difficultyTier": "apply",
+    "difficultyTier": "reason",
     "sequencePriority": 35,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
   },
   {
     "id": "ac9s2i06-p-036",
@@ -991,22 +921,20 @@ window.skillrPracticeQuestions = [
     "audioPrompt": "Which statement separates evidence from opinion?",
     "visual": "",
     "answers": [
-      "Everyone should like it.",
-      "The shell is 6 cm long.",
-      "The shell is beautiful.",
-      "This is the best shell."
+      "The shell is beautiful",
+      "Everyone should like it",
+      "The shell is 6 cm long"
     ],
-    "correct": 1,
-    "explanation": "A measurement is evidence; the other statements express preferences.\nHint: Look for an observable measurement.",
+    "correct": 2,
+    "explanation": "A measurement is evidence; the other statements express preferences.",
     "structuredExplanation": {
-      "summary": "A measurement is evidence; the other statements express preferences.",
-      "hint": "Look for an observable measurement."
+      "summary": "A measurement is evidence; the other statements express preferences."
     },
-    "stage": "apply",
+    "stage": "reason",
     "difficulty": 3,
-    "difficultyTier": "apply",
+    "difficultyTier": "reason",
     "sequencePriority": 36,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
   },
   {
     "id": "ac9s2i06-p-037",
@@ -1015,26 +943,24 @@ window.skillrPracticeQuestions = [
     "skill": "communicating science clearly",
     "printable": true,
     "type": "single",
-    "question": "A student shows a graph but does not explain what was measured. What would improve the communication?",
-    "audioPrompt": "A student shows a graph but does not explain what was measured. What would improve the communication?",
+    "question": "A student shows a graph but doesn't explain what was measured. What would improve the communication?",
+    "audioPrompt": "A student shows a graph but doesn't explain what was measured. What would improve the communication?",
     "visual": "",
     "answers": [
-      "Add a clear title and labels.",
-      "Remove all numbers.",
-      "Change the data to make a pattern.",
-      "Use more decorations."
+      "Remove all numbers",
+      "Change the data to make a pattern",
+      "Add a clear title and labels"
     ],
-    "correct": 0,
-    "explanation": "Titles and labels help readers understand what data represents.\nHint: Think about information the reader needs.",
+    "correct": 2,
+    "explanation": "Titles and labels help readers understand what data represents.",
     "structuredExplanation": {
-      "summary": "Titles and labels help readers understand what data represents.",
-      "hint": "Think about information the reader needs."
+      "summary": "Titles and labels help readers understand what data represents."
     },
-    "stage": "apply",
+    "stage": "reason",
     "difficulty": 3,
-    "difficultyTier": "apply",
+    "difficultyTier": "reason",
     "sequencePriority": 37,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
   },
   {
     "id": "ac9s2i06-p-038",
@@ -1047,22 +973,20 @@ window.skillrPracticeQuestions = [
     "audioPrompt": "Why should a conclusion mention the result?",
     "visual": "",
     "answers": [
-      "It makes the prediction disappear.",
-      "It guarantees the investigation was fair.",
-      "It makes every result correct.",
-      "It shows how the claim is supported by evidence."
+      "It makes the prediction disappear",
+      "It guarantees the investigation was fair",
+      "It shows how the claim is supported by evidence"
     ],
-    "correct": 3,
-    "explanation": "Science communication links conclusions to observations or measurements.\nHint: Choose the answer about evidence.",
+    "correct": 2,
+    "explanation": "Science communication links conclusions to observations or measurements.",
     "structuredExplanation": {
-      "summary": "Science communication links conclusions to observations or measurements.",
-      "hint": "Choose the answer about evidence."
+      "summary": "Science communication links conclusions to observations or measurements."
     },
-    "stage": "apply",
+    "stage": "reason",
     "difficulty": 3,
-    "difficultyTier": "apply",
+    "difficultyTier": "reason",
     "sequencePriority": 38,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
   },
   {
     "id": "ac9s2i06-p-039",
@@ -1075,22 +999,20 @@ window.skillrPracticeQuestions = [
     "audioPrompt": "A child writes “The car went far.” How could this be improved?",
     "visual": "",
     "answers": [
-      "Add more exclamation marks.",
-      "Remove the result.",
-      "State the measured distance, such as 85 cm.",
-      "Write “very far” instead."
+      "Remove the result",
+      "State the measured distance, such as 85 cm",
+      "Add more exclamation marks"
     ],
-    "correct": 2,
-    "explanation": "A measured value is clearer and more precise than a vague description.\nHint: Use the number if it was measured.",
+    "correct": 1,
+    "explanation": "A measured value is clearer and more precise than a vague description.",
     "structuredExplanation": {
-      "summary": "A measured value is clearer and more precise than a vague description.",
-      "hint": "Use the number if it was measured."
+      "summary": "A measured value is clearer and more precise than a vague description."
     },
-    "stage": "apply",
+    "stage": "reason",
     "difficulty": 3,
-    "difficultyTier": "apply",
+    "difficultyTier": "reason",
     "sequencePriority": 39,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
   },
   {
     "id": "ac9s2i06-p-040",
@@ -1103,21 +1025,227 @@ window.skillrPracticeQuestions = [
     "audioPrompt": "Which is a useful caption for a photo taken during an investigation?",
     "visual": "",
     "answers": [
-      "This one won.",
-      "Toy car at the 100 cm mark after Trial 2.",
-      "A cool picture.",
-      "Science stuff."
+      "This one won",
+      "A cool picture",
+      "Toy car at the 100 cm mark after Trial 2"
+    ],
+    "correct": 2,
+    "explanation": "A useful caption identifies what the image shows and when it was taken.",
+    "structuredExplanation": {
+      "summary": "A useful caption identifies what the image shows and when it was taken."
+    },
+    "stage": "reason",
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 40,
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
+  },
+  {
+    "id": "ac9s2i06-p-041",
+    "curriculumCode": "AC9S2I06",
+    "bank": "practice",
+    "skill": "communicating science clearly",
+    "printable": true,
+    "type": "single",
+    "question": "A photo shows a folded card bridge holding three blocks. Which caption fits?",
+    "audioPrompt": "A photo shows a folded card bridge holding three blocks. Which caption fits?",
+    "visual": "",
+    "answers": [
+      "All bridges hold 3 blocks",
+      "Folded card bridge holding 3 blocks",
+      "The best bridge ever"
     ],
     "correct": 1,
-    "explanation": "A useful caption identifies what the image shows and when it was taken.\nHint: Choose the specific description.",
+    "explanation": "The caption names what the photograph actually shows.",
     "structuredExplanation": {
-      "summary": "A useful caption identifies what the image shows and when it was taken.",
-      "hint": "Choose the specific description."
+      "summary": "The caption names what the photograph actually shows."
     },
-    "stage": "apply",
+    "stage": "reason",
     "difficulty": 3,
-    "difficultyTier": "apply",
-    "sequencePriority": 40,
-    "qualitySchema": "skillr-actual-v6"
+    "difficultyTier": "reason",
+    "sequencePriority": 41,
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
+  },
+  {
+    "id": "ac9s2i06-p-042",
+    "curriculumCode": "AC9S2I06",
+    "bank": "practice",
+    "skill": "communicating science clearly",
+    "printable": true,
+    "type": "single",
+    "question": "A class writes instructions for a seed observation. Which opening step is clear?",
+    "audioPrompt": "A class writes instructions for a seed observation. Which opening step is clear?",
+    "visual": "",
+    "answers": [
+      "Do the seed thing",
+      "Place one seed on the damp paper in the labelled dish",
+      "Make it work"
+    ],
+    "correct": 1,
+    "explanation": "The clear step tells the reader what to put where.",
+    "structuredExplanation": {
+      "summary": "The clear step tells the reader what to put where."
+    },
+    "stage": "reason",
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 42,
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
+  },
+  {
+    "id": "ac9s2i06-p-043",
+    "curriculumCode": "AC9S2I06",
+    "bank": "practice",
+    "skill": "communicating science clearly",
+    "printable": true,
+    "type": "single",
+    "question": "A video shows a leaf floating and a pebble sinking. Which spoken sentence fits?",
+    "audioPrompt": "A video shows a leaf floating and a pebble sinking. Which spoken sentence fits?",
+    "visual": "",
+    "answers": [
+      "Both objects stayed on top",
+      "The leaf stayed on top; the pebble went to the bottom",
+      "The pebble grew larger"
+    ],
+    "correct": 1,
+    "explanation": "The words describe the two visible outcomes.",
+    "structuredExplanation": {
+      "summary": "The words describe the two visible outcomes."
+    },
+    "stage": "reason",
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 43,
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
+  },
+  {
+    "id": "ac9s2i06-p-044",
+    "curriculumCode": "AC9S2I06",
+    "bank": "practice",
+    "skill": "communicating science clearly",
+    "printable": true,
+    "type": "single",
+    "question": "A science poster says 'It bent.' The picture shows two strips. What should the writer add?",
+    "audioPrompt": "A science poster says 'It bent.' The picture shows two strips. What should the writer add?",
+    "visual": "",
+    "answers": [
+      "The name of the strip that bent",
+      "A larger border",
+      "A favourite number"
+    ],
+    "correct": 0,
+    "explanation": "Naming the strip removes uncertainty about the result.",
+    "structuredExplanation": {
+      "summary": "Naming the strip removes uncertainty about the result."
+    },
+    "stage": "reason",
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 44,
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
+  },
+  {
+    "id": "ac9s2i06-p-045",
+    "curriculumCode": "AC9S2I06",
+    "bank": "practice",
+    "skill": "communicating science clearly",
+    "printable": true,
+    "type": "single",
+    "question": "A child reports, 'We heard four bird calls in one minute.' What useful detail does 'in one minute' add?",
+    "audioPrompt": "A child reports, 'We heard four bird calls in one minute.' What useful detail does 'in one minute' add?",
+    "visual": "",
+    "answers": [
+      "How far away every bird was",
+      "How long the child listened",
+      "How large the birds were"
+    ],
+    "correct": 1,
+    "explanation": "The time tells readers the length of the observation.",
+    "structuredExplanation": {
+      "summary": "The time tells readers the length of the observation."
+    },
+    "stage": "reason",
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 45,
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
+  },
+  {
+    "id": "ac9s2i06-p-046",
+    "curriculumCode": "AC9S2I06",
+    "bank": "practice",
+    "skill": "communicating science clearly",
+    "printable": true,
+    "type": "single",
+    "question": "A partner cannot read the small labels on a rock drawing. What would help?",
+    "audioPrompt": "A partner cannot read the small labels on a rock drawing. What would help?",
+    "visual": "",
+    "answers": [
+      "Write the labels larger and clearly",
+      "Erase the observed features",
+      "Add more tiny labels"
+    ],
+    "correct": 0,
+    "explanation": "Readable labels help someone else understand the drawing.",
+    "structuredExplanation": {
+      "summary": "Readable labels help someone else understand the drawing."
+    },
+    "stage": "reason",
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 46,
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
+  },
+  {
+    "id": "ac9s2i06-p-047",
+    "curriculumCode": "AC9S2I06",
+    "bank": "practice",
+    "skill": "communicating science clearly",
+    "printable": true,
+    "type": "single",
+    "question": "A class predicts five seeds will sprout, but only three do. Which report tells both facts?",
+    "audioPrompt": "A class predicts five seeds will sprout, but only three do. Which report tells both facts?",
+    "visual": "",
+    "answers": [
+      "We counted 5 sprouts",
+      "We predicted 5 sprouts and counted 3",
+      "We will not report the sprouts"
+    ],
+    "correct": 1,
+    "explanation": "Reporting both numbers makes the prediction and result clear.",
+    "structuredExplanation": {
+      "summary": "Reporting both numbers makes the prediction and result clear."
+    },
+    "stage": "reason",
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 47,
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
+  },
+  {
+    "id": "ac9s2i06-p-048",
+    "curriculumCode": "AC9S2I06",
+    "bank": "practice",
+    "skill": "communicating science clearly",
+    "printable": true,
+    "type": "single",
+    "question": "A report uses the word 'flexible'. What could help a younger reader understand it?",
+    "audioPrompt": "A report uses the word 'flexible'. What could help a younger reader understand it?",
+    "visual": "",
+    "answers": [
+      "Replace it with a longer word",
+      "Leave out the material being described",
+      "Add 'able to bend easily'"
+    ],
+    "correct": 2,
+    "explanation": "A short everyday meaning makes the science word easier to understand.",
+    "structuredExplanation": {
+      "summary": "A short everyday meaning makes the science word easier to understand."
+    },
+    "stage": "reason",
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 48,
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
   }
 ];

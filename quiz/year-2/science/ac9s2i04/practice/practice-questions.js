@@ -11,22 +11,20 @@ window.skillrPracticeQuestions = [
     "audioPrompt": "Which rule sorts materials scientifically?",
     "visual": "",
     "answers": [
-      "flexible and not flexible",
       "nice and not nice",
-      "mine and yours",
-      "best and worst"
+      "flexible and not flexible",
+      "mine and yours"
     ],
-    "correct": 0,
-    "explanation": "Flexibility is an observable material property.\nHint: Use the observations and science idea in the question.",
+    "correct": 1,
+    "explanation": "Flexibility is an observable material property.",
     "structuredExplanation": {
-      "summary": "Flexibility is an observable material property.",
-      "hint": "Use the observations and science idea in the question."
+      "summary": "Flexibility is an observable material property."
     },
     "stage": "recognise",
     "difficulty": 1,
     "difficultyTier": "recognise",
     "sequencePriority": 1,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
   },
   {
     "id": "ac9s2i04-p-002",
@@ -39,22 +37,20 @@ window.skillrPracticeQuestions = [
     "audioPrompt": "Three shadows measure 4, 7 and 10 blocks. What is shortest-to-longest order?",
     "visual": "",
     "answers": [
-      "10, 7, 4",
       "7, 4, 10",
-      "all are equal",
+      "10, 7, 4",
       "4, 7, 10"
     ],
-    "correct": 3,
-    "explanation": "Numerical data can be ordered by size.\nHint: Use the observations and science idea in the question.",
+    "correct": 2,
+    "explanation": "Numerical data can be ordered by size.",
     "structuredExplanation": {
-      "summary": "Numerical data can be ordered by size.",
-      "hint": "Use the observations and science idea in the question."
+      "summary": "Numerical data can be ordered by size."
     },
     "stage": "recognise",
     "difficulty": 1,
     "difficultyTier": "recognise",
     "sequencePriority": 2,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
   },
   {
     "id": "ac9s2i04-p-003",
@@ -69,20 +65,18 @@ window.skillrPracticeQuestions = [
     "answers": [
       "both equal",
       "the table cannot show it",
-      "cloth",
-      "paper"
+      "cloth"
     ],
     "correct": 2,
-    "explanation": "Eight is greater than three.\nHint: Use the observations and science idea in the question.",
+    "explanation": "Eight is greater than three.",
     "structuredExplanation": {
-      "summary": "Eight is greater than three.",
-      "hint": "Use the observations and science idea in the question."
+      "summary": "Eight is greater than three."
     },
     "stage": "recognise",
     "difficulty": 1,
     "difficultyTier": "recognise",
     "sequencePriority": 3,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
   },
   {
     "id": "ac9s2i04-p-004",
@@ -97,20 +91,18 @@ window.skillrPracticeQuestions = [
     "answers": [
       "large",
       "rough",
-      "smooth",
-      "wet"
+      "smooth"
     ],
     "correct": 1,
-    "explanation": "The two properties repeat in an AB pattern.\nHint: Use the observations and science idea in the question.",
+    "explanation": "The two properties repeat in an AB pattern.",
     "structuredExplanation": {
-      "summary": "The two properties repeat in an AB pattern.",
-      "hint": "Use the observations and science idea in the question."
+      "summary": "The two properties repeat in an AB pattern."
     },
     "stage": "recognise",
     "difficulty": 1,
     "difficultyTier": "recognise",
     "sequencePriority": 4,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
   },
   {
     "id": "ac9s2i04-p-005",
@@ -123,22 +115,20 @@ window.skillrPracticeQuestions = [
     "audioPrompt": "Which pair belongs in a night-sky observation group?",
     "visual": "",
     "answers": [
-      "Moon and stars",
-      "chair and spoon",
       "drum and ruler",
-      "leaf and root"
+      "Moon and stars",
+      "chair and spoon"
     ],
-    "correct": 0,
-    "explanation": "Moon and stars can be observed in the night sky.\nHint: Use the observations and science idea in the question.",
+    "correct": 1,
+    "explanation": "Moon and stars can be observed in the night sky.",
     "structuredExplanation": {
-      "summary": "Moon and stars can be observed in the night sky.",
-      "hint": "Use the observations and science idea in the question."
+      "summary": "Moon and stars can be observed in the night sky."
     },
     "stage": "recognise",
     "difficulty": 1,
     "difficultyTier": "recognise",
     "sequencePriority": 5,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
   },
   {
     "id": "ac9s2i04-p-006",
@@ -152,21 +142,19 @@ window.skillrPracticeQuestions = [
     "visual": "",
     "answers": [
       "exact real distances automatically",
-      "weather temperature",
-      "sound volume",
-      "Sun, Earth and Moon relationships"
+      "Sun, Earth and Moon relationships",
+      "weather temperature"
     ],
-    "correct": 3,
-    "explanation": "A physical model represents objects and relationships.\nHint: Use the observations and science idea in the question.",
+    "correct": 1,
+    "explanation": "A physical model represents objects and relationships.",
     "structuredExplanation": {
-      "summary": "A physical model represents objects and relationships.",
-      "hint": "Use the observations and science idea in the question."
+      "summary": "A physical model represents objects and relationships."
     },
     "stage": "recognise",
     "difficulty": 1,
     "difficultyTier": "recognise",
     "sequencePriority": 6,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
   },
   {
     "id": "ac9s2i04-p-007",
@@ -181,20 +169,18 @@ window.skillrPracticeQuestions = [
     "answers": [
       "to hide labels",
       "to prove exact size",
-      "to show direction or sequence",
-      "to make it colourful only"
+      "to show direction or sequence"
     ],
     "correct": 2,
-    "explanation": "Arrows communicate movement or order.\nHint: Use the observations and science idea in the question.",
+    "explanation": "Arrows communicate movement or order.",
     "structuredExplanation": {
-      "summary": "Arrows communicate movement or order.",
-      "hint": "Use the observations and science idea in the question."
+      "summary": "Arrows communicate movement or order."
     },
     "stage": "recognise",
     "difficulty": 1,
     "difficultyTier": "recognise",
     "sequencePriority": 7,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
   },
   {
     "id": "ac9s2i04-p-008",
@@ -207,22 +193,20 @@ window.skillrPracticeQuestions = [
     "audioPrompt": "What should be done before tallying leaf shapes?",
     "visual": "",
     "answers": [
-      "remove unusual leaves",
-      "choose clear shape categories",
       "change each leaf",
-      "guess totals"
+      "remove unusual leaves",
+      "choose clear shape categories"
     ],
-    "correct": 1,
-    "explanation": "Clear categories allow consistent sorting.\nHint: Use the observations and science idea in the question.",
+    "correct": 2,
+    "explanation": "Clear categories allow consistent sorting.",
     "structuredExplanation": {
-      "summary": "Clear categories allow consistent sorting.",
-      "hint": "Use the observations and science idea in the question."
+      "summary": "Clear categories allow consistent sorting."
     },
     "stage": "recognise",
     "difficulty": 1,
     "difficultyTier": "recognise",
     "sequencePriority": 8,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
   },
   {
     "id": "ac9s2i04-p-009",
@@ -235,22 +219,20 @@ window.skillrPracticeQuestions = [
     "audioPrompt": "What does a tally mark represent?",
     "visual": "",
     "answers": [
-      "one counted observation",
       "a prediction",
-      "five every time",
-      "a drawing label"
+      "one counted observation",
+      "five every time"
     ],
-    "correct": 0,
-    "explanation": "Each tally records one item.\nHint: Use the observations and science idea in the question.",
+    "correct": 1,
+    "explanation": "Each tally records one item.",
     "structuredExplanation": {
-      "summary": "Each tally records one item.",
-      "hint": "Use the observations and science idea in the question."
+      "summary": "Each tally records one item."
     },
     "stage": "recognise",
     "difficulty": 1,
     "difficultyTier": "recognise",
     "sequencePriority": 9,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
   },
   {
     "id": "ac9s2i04-p-010",
@@ -264,21 +246,19 @@ window.skillrPracticeQuestions = [
     "visual": "",
     "answers": [
       "evening, morning, midday",
-      "midday, morning, evening",
-      "all happen together",
-      "morning, midday, evening"
+      "morning, midday, evening",
+      "midday, morning, evening"
     ],
-    "correct": 3,
-    "explanation": "Time information can be placed in chronological order.\nHint: Use the observations and science idea in the question.",
+    "correct": 1,
+    "explanation": "Time information can be placed in chronological order.",
     "structuredExplanation": {
-      "summary": "Time information can be placed in chronological order.",
-      "hint": "Use the observations and science idea in the question."
+      "summary": "Time information can be placed in chronological order."
     },
     "stage": "recognise",
     "difficulty": 1,
     "difficultyTier": "recognise",
     "sequencePriority": 10,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
   },
   {
     "id": "ac9s2i04-p-011",
@@ -291,22 +271,20 @@ window.skillrPracticeQuestions = [
     "audioPrompt": "A material bends easily. Where should it be sorted?",
     "visual": "",
     "answers": [
-      "transparent only",
-      "night sky",
       "flexible",
-      "rigid"
+      "night sky",
+      "transparent only"
     ],
-    "correct": 2,
-    "explanation": "The observed response fits flexible.\nHint: Use the observations and science idea in the question.",
+    "correct": 0,
+    "explanation": "The observed response fits flexible.",
     "structuredExplanation": {
-      "summary": "The observed response fits flexible.",
-      "hint": "Use the observations and science idea in the question."
+      "summary": "The observed response fits flexible."
     },
-    "stage": "explain",
-    "difficulty": 2,
-    "difficultyTier": "explain",
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
     "sequencePriority": 11,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
   },
   {
     "id": "ac9s2i04-p-012",
@@ -320,21 +298,19 @@ window.skillrPracticeQuestions = [
     "visual": "",
     "answers": [
       "double then stop",
-      "increase by 2",
       "decrease by 2",
-      "stay the same"
+      "increase by 2"
     ],
-    "correct": 1,
-    "explanation": "Each value is two more than the previous one.\nHint: Use the observations and science idea in the question.",
+    "correct": 2,
+    "explanation": "Each value is two more than the previous one.",
     "structuredExplanation": {
-      "summary": "Each value is two more than the previous one.",
-      "hint": "Use the observations and science idea in the question."
+      "summary": "Each value is two more than the previous one."
     },
-    "stage": "explain",
-    "difficulty": 2,
-    "difficultyTier": "explain",
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
     "sequencePriority": 12,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
   },
   {
     "id": "ac9s2i04-p-013",
@@ -347,22 +323,20 @@ window.skillrPracticeQuestions = [
     "audioPrompt": "Which statement about models is correct?",
     "visual": "",
     "answers": [
-      "models show selected ideas, not every real detail",
       "models are always exact size",
       "a model is the real object",
-      "models need no labels"
+      "models show selected ideas, not every real detail"
     ],
-    "correct": 0,
-    "explanation": "Models simplify reality for a purpose.\nHint: Use the observations and science idea in the question.",
+    "correct": 2,
+    "explanation": "Models simplify reality for a purpose.",
     "structuredExplanation": {
-      "summary": "Models simplify reality for a purpose.",
-      "hint": "Use the observations and science idea in the question."
+      "summary": "Models simplify reality for a purpose."
     },
-    "stage": "explain",
-    "difficulty": 2,
-    "difficultyTier": "explain",
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
     "sequencePriority": 13,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
   },
   {
     "id": "ac9s2i04-p-014",
@@ -375,22 +349,20 @@ window.skillrPracticeQuestions = [
     "audioPrompt": "Why order plant heights from least to greatest?",
     "visual": "",
     "answers": [
-      "to change the heights",
+      "to make comparison and pattern finding easier",
       "to hide the tallest",
-      "to prove all plants match",
-      "to make comparison and pattern finding easier"
+      "to change the heights"
     ],
-    "correct": 3,
-    "explanation": "Ordered data reveals relative size.\nHint: Use the observations and science idea in the question.",
+    "correct": 0,
+    "explanation": "Ordered data reveals relative size.",
     "structuredExplanation": {
-      "summary": "Ordered data reveals relative size.",
-      "hint": "Use the observations and science idea in the question."
+      "summary": "Ordered data reveals relative size."
     },
-    "stage": "explain",
-    "difficulty": 2,
-    "difficultyTier": "explain",
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
     "sequencePriority": 14,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
   },
   {
     "id": "ac9s2i04-p-015",
@@ -405,20 +377,18 @@ window.skillrPracticeQuestions = [
     "answers": [
       "in round only",
       "in blue only",
-      "in the overlap",
-      "outside both groups"
+      "in the overlap"
     ],
     "correct": 2,
-    "explanation": "The overlap contains items with both properties.\nHint: Use the observations and science idea in the question.",
+    "explanation": "The overlap contains items with both properties.",
     "structuredExplanation": {
-      "summary": "The overlap contains items with both properties.",
-      "hint": "Use the observations and science idea in the question."
+      "summary": "The overlap contains items with both properties."
     },
-    "stage": "explain",
-    "difficulty": 2,
-    "difficultyTier": "explain",
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
     "sequencePriority": 15,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
   },
   {
     "id": "ac9s2i04-p-016",
@@ -431,22 +401,20 @@ window.skillrPracticeQuestions = [
     "audioPrompt": "In a group labelled ‘vibrates to make sound’, which is the odd item?",
     "visual": "",
     "answers": [
-      "a ringing bell",
       "a silent still cushion",
-      "a plucked string",
-      "a struck drum"
+      "a ringing bell",
+      "a plucked string"
     ],
-    "correct": 1,
-    "explanation": "The cushion is not shown vibrating to produce sound.\nHint: Use the observations and science idea in the question.",
+    "correct": 0,
+    "explanation": "The cushion is not shown vibrating to produce sound.",
     "structuredExplanation": {
-      "summary": "The cushion is not shown vibrating to produce sound.",
-      "hint": "Use the observations and science idea in the question."
+      "summary": "The cushion is not shown vibrating to produce sound."
     },
-    "stage": "explain",
-    "difficulty": 2,
-    "difficultyTier": "explain",
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
     "sequencePriority": 16,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
   },
   {
     "id": "ac9s2i04-p-017",
@@ -460,21 +428,19 @@ window.skillrPracticeQuestions = [
     "visual": "",
     "answers": [
       "to organise two features for comparison",
-      "to remove observations",
       "to make every box equal",
-      "to replace labels"
+      "to remove observations"
     ],
     "correct": 0,
-    "explanation": "A table connects each sample with recorded properties.\nHint: Use the observations and science idea in the question.",
+    "explanation": "A table connects each sample with recorded properties.",
     "structuredExplanation": {
-      "summary": "A table connects each sample with recorded properties.",
-      "hint": "Use the observations and science idea in the question."
+      "summary": "A table connects each sample with recorded properties."
     },
-    "stage": "explain",
+    "stage": "apply",
     "difficulty": 2,
-    "difficultyTier": "explain",
+    "difficultyTier": "apply",
     "sequencePriority": 17,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
   },
   {
     "id": "ac9s2i04-p-018",
@@ -487,22 +453,20 @@ window.skillrPracticeQuestions = [
     "audioPrompt": "Each star symbol represents one night observed. What do 5 symbols mean?",
     "visual": "",
     "answers": [
+      "five nights",
       "one night",
-      "ten nights",
-      "a prediction",
-      "five nights"
+      "ten nights"
     ],
-    "correct": 3,
-    "explanation": "The key says one symbol equals one observation.\nHint: Use the observations and science idea in the question.",
+    "correct": 0,
+    "explanation": "The key says one symbol equals one observation.",
     "structuredExplanation": {
-      "summary": "The key says one symbol equals one observation.",
-      "hint": "Use the observations and science idea in the question."
+      "summary": "The key says one symbol equals one observation."
     },
-    "stage": "explain",
+    "stage": "apply",
     "difficulty": 2,
-    "difficultyTier": "explain",
+    "difficultyTier": "apply",
     "sequencePriority": 18,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
   },
   {
     "id": "ac9s2i04-p-019",
@@ -515,22 +479,20 @@ window.skillrPracticeQuestions = [
     "audioPrompt": "After sorting buttons by material, what useful next step can be done?",
     "visual": "",
     "answers": [
-      "discard the smallest group",
-      "rename by favourites",
       "count each group",
-      "change their material"
+      "discard the smallest group",
+      "rename by favourites"
     ],
-    "correct": 2,
-    "explanation": "Counts compare category sizes.\nHint: Use the observations and science idea in the question.",
+    "correct": 0,
+    "explanation": "Counts compare category sizes.",
     "structuredExplanation": {
-      "summary": "Counts compare category sizes.",
-      "hint": "Use the observations and science idea in the question."
+      "summary": "Counts compare category sizes."
     },
-    "stage": "explain",
+    "stage": "apply",
     "difficulty": 2,
-    "difficultyTier": "explain",
+    "difficultyTier": "apply",
     "sequencePriority": 19,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
   },
   {
     "id": "ac9s2i04-p-020",
@@ -543,22 +505,20 @@ window.skillrPracticeQuestions = [
     "audioPrompt": "Heights are 2, 4, 6, 9 blocks. Which value breaks the add-2 pattern?",
     "visual": "",
     "answers": [
-      "6",
-      "9",
       "2",
-      "4"
+      "6",
+      "9"
     ],
-    "correct": 1,
-    "explanation": "The expected next value after 6 is 8.\nHint: Use the observations and science idea in the question.",
+    "correct": 2,
+    "explanation": "The expected next value after 6 is 8.",
     "structuredExplanation": {
-      "summary": "The expected next value after 6 is 8.",
-      "hint": "Use the observations and science idea in the question."
+      "summary": "The expected next value after 6 is 8."
     },
-    "stage": "explain",
+    "stage": "apply",
     "difficulty": 2,
-    "difficultyTier": "explain",
+    "difficultyTier": "apply",
     "sequencePriority": 20,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
   },
   {
     "id": "ac9s2i04-p-021",
@@ -571,22 +531,20 @@ window.skillrPracticeQuestions = [
     "audioPrompt": "Why label Earth and Moon in a model?",
     "visual": "",
     "answers": [
-      "to identify which object each part represents",
       "to make them real",
-      "to set exact distance",
-      "to create gravity"
+      "to identify which object each part represents",
+      "to set exact distance"
     ],
-    "correct": 0,
-    "explanation": "Labels prevent ambiguity.\nHint: Use the observations and science idea in the question.",
+    "correct": 1,
+    "explanation": "Labels prevent ambiguity.",
     "structuredExplanation": {
-      "summary": "Labels prevent ambiguity.",
-      "hint": "Use the observations and science idea in the question."
+      "summary": "Labels prevent ambiguity."
     },
-    "stage": "discriminate",
+    "stage": "apply",
     "difficulty": 2,
-    "difficultyTier": "discriminate",
+    "difficultyTier": "apply",
     "sequencePriority": 21,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
   },
   {
     "id": "ac9s2i04-p-022",
@@ -600,21 +558,19 @@ window.skillrPracticeQuestions = [
     "visual": "",
     "answers": [
       "it is green only",
-      "it is small",
-      "it is in a pot",
-      "it grows over time"
+      "it grows over time",
+      "it is small"
     ],
-    "correct": 3,
-    "explanation": "Growth over time is evidence of life.\nHint: Use the observations and science idea in the question.",
+    "correct": 1,
+    "explanation": "Growth over time is evidence of life.",
     "structuredExplanation": {
-      "summary": "Growth over time is evidence of life.",
-      "hint": "Use the observations and science idea in the question."
+      "summary": "Growth over time is evidence of life."
     },
-    "stage": "discriminate",
+    "stage": "apply",
     "difficulty": 2,
-    "difficultyTier": "discriminate",
+    "difficultyTier": "apply",
     "sequencePriority": 22,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
   },
   {
     "id": "ac9s2i04-p-023",
@@ -627,22 +583,20 @@ window.skillrPracticeQuestions = [
     "audioPrompt": "Sounds are recorded as soft, medium and loud. What kind of organisation is this?",
     "visual": "",
     "answers": [
-      "measuring length",
       "mapping orbit",
       "ordering by volume",
-      "sorting by colour"
+      "measuring length"
     ],
-    "correct": 2,
-    "explanation": "The categories form a volume order.\nHint: Use the observations and science idea in the question.",
+    "correct": 1,
+    "explanation": "The categories form a volume order.",
     "structuredExplanation": {
-      "summary": "The categories form a volume order.",
-      "hint": "Use the observations and science idea in the question."
+      "summary": "The categories form a volume order."
     },
-    "stage": "discriminate",
+    "stage": "apply",
     "difficulty": 2,
-    "difficultyTier": "discriminate",
+    "difficultyTier": "apply",
     "sequencePriority": 23,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
   },
   {
     "id": "ac9s2i04-p-024",
@@ -657,20 +611,18 @@ window.skillrPracticeQuestions = [
     "answers": [
       "only when guessed",
       "yes, if it has each group property",
-      "never",
-      "only if its name changes"
+      "never"
     ],
     "correct": 1,
-    "explanation": "Objects often have several observable properties.\nHint: Use the observations and science idea in the question.",
+    "explanation": "Objects often have several observable properties.",
     "structuredExplanation": {
-      "summary": "Objects often have several observable properties.",
-      "hint": "Use the observations and science idea in the question."
+      "summary": "Objects often have several observable properties."
     },
-    "stage": "discriminate",
+    "stage": "apply",
     "difficulty": 2,
-    "difficultyTier": "discriminate",
+    "difficultyTier": "apply",
     "sequencePriority": 24,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
   },
   {
     "id": "ac9s2i04-p-025",
@@ -685,20 +637,18 @@ window.skillrPracticeQuestions = [
     "answers": [
       "blank or clearly marked not measured",
       "an invented number",
-      "Cup A's value copied",
-      "the prediction"
+      "Cup A's value copied"
     ],
     "correct": 0,
-    "explanation": "Missing data must not be fabricated.\nHint: Use the observations and science idea in the question.",
+    "explanation": "Missing data must not be fabricated.",
     "structuredExplanation": {
-      "summary": "Missing data must not be fabricated.",
-      "hint": "Use the observations and science idea in the question."
+      "summary": "Missing data must not be fabricated."
     },
-    "stage": "discriminate",
+    "stage": "apply",
     "difficulty": 2,
-    "difficultyTier": "discriminate",
+    "difficultyTier": "apply",
     "sequencePriority": 25,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
   },
   {
     "id": "ac9s2i04-p-026",
@@ -711,22 +661,20 @@ window.skillrPracticeQuestions = [
     "audioPrompt": "Which model best shows melting over time?",
     "visual": "",
     "answers": [
-      "one unrelated picture",
       "a list of colours",
-      "a hidden sample",
+      "one unrelated picture",
       "ordered before, during and after pictures"
     ],
-    "correct": 3,
-    "explanation": "A sequence represents change.\nHint: Use the observations and science idea in the question.",
+    "correct": 2,
+    "explanation": "A sequence represents change.",
     "structuredExplanation": {
-      "summary": "A sequence represents change.",
-      "hint": "Use the observations and science idea in the question."
+      "summary": "A sequence represents change."
     },
-    "stage": "discriminate",
+    "stage": "apply",
     "difficulty": 2,
-    "difficultyTier": "discriminate",
+    "difficultyTier": "apply",
     "sequencePriority": 26,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
   },
   {
     "id": "ac9s2i04-p-027",
@@ -739,22 +687,20 @@ window.skillrPracticeQuestions = [
     "audioPrompt": "Why use the same sorting rule for every item?",
     "visual": "",
     "answers": [
-      "because rules cannot be stated",
-      "to remove exceptions",
       "groups remain meaningful and comparable",
-      "to force equal group sizes"
+      "because rules cannot be stated",
+      "to remove exceptions"
     ],
-    "correct": 2,
-    "explanation": "Consistent criteria make classification valid.\nHint: Use the observations and science idea in the question.",
+    "correct": 0,
+    "explanation": "Consistent criteria make classification valid.",
     "structuredExplanation": {
-      "summary": "Consistent criteria make classification valid.",
-      "hint": "Use the observations and science idea in the question."
+      "summary": "Consistent criteria make classification valid."
     },
-    "stage": "discriminate",
+    "stage": "apply",
     "difficulty": 2,
-    "difficultyTier": "discriminate",
+    "difficultyTier": "apply",
     "sequencePriority": 27,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
   },
   {
     "id": "ac9s2i04-p-028",
@@ -769,20 +715,18 @@ window.skillrPracticeQuestions = [
     "answers": [
       "same values only",
       "least to greatest",
-      "greatest to least",
-      "random order"
+      "greatest to least"
     ],
     "correct": 1,
-    "explanation": "Ascending values increase.\nHint: Use the observations and science idea in the question.",
+    "explanation": "Ascending values increase.",
     "structuredExplanation": {
-      "summary": "Ascending values increase.",
-      "hint": "Use the observations and science idea in the question."
+      "summary": "Ascending values increase."
     },
-    "stage": "discriminate",
+    "stage": "apply",
     "difficulty": 2,
-    "difficultyTier": "discriminate",
+    "difficultyTier": "apply",
     "sequencePriority": 28,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
   },
   {
     "id": "ac9s2i04-p-029",
@@ -796,21 +740,19 @@ window.skillrPracticeQuestions = [
     "visual": "",
     "answers": [
       "greatest to least",
-      "least to greatest",
       "alphabetical only",
-      "unrecorded"
+      "least to greatest"
     ],
     "correct": 0,
-    "explanation": "Descending values decrease.\nHint: Use the observations and science idea in the question.",
+    "explanation": "Descending values decrease.",
     "structuredExplanation": {
-      "summary": "Descending values decrease.",
-      "hint": "Use the observations and science idea in the question."
+      "summary": "Descending values decrease."
     },
-    "stage": "discriminate",
+    "stage": "apply",
     "difficulty": 2,
-    "difficultyTier": "discriminate",
+    "difficultyTier": "apply",
     "sequencePriority": 29,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
   },
   {
     "id": "ac9s2i04-p-030",
@@ -824,21 +766,19 @@ window.skillrPracticeQuestions = [
     "visual": "",
     "answers": [
       "a story with no numbers",
-      "one photograph",
-      "a prediction sentence",
-      "a labelled table or picture graph"
+      "a labelled table or picture graph",
+      "one photograph"
     ],
-    "correct": 3,
-    "explanation": "Tables and graphs make category counts visible.\nHint: Use the observations and science idea in the question.",
+    "correct": 1,
+    "explanation": "Tables and graphs make category counts visible.",
     "structuredExplanation": {
-      "summary": "Tables and graphs make category counts visible.",
-      "hint": "Use the observations and science idea in the question."
+      "summary": "Tables and graphs make category counts visible."
     },
-    "stage": "discriminate",
+    "stage": "apply",
     "difficulty": 2,
-    "difficultyTier": "discriminate",
+    "difficultyTier": "apply",
     "sequencePriority": 30,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
   },
   {
     "id": "ac9s2i04-p-031",
@@ -853,20 +793,18 @@ window.skillrPracticeQuestions = [
     "answers": [
       "before collecting data",
       "when values are hidden",
-      "when recorded values show a repeated or regular change",
-      "after one unrelated value"
+      "when recorded values show a repeated or regular change"
     ],
     "correct": 2,
-    "explanation": "Patterns require supporting data.\nHint: Use the observations and science idea in the question.",
+    "explanation": "Patterns require supporting data.",
     "structuredExplanation": {
-      "summary": "Patterns require supporting data.",
-      "hint": "Use the observations and science idea in the question."
+      "summary": "Patterns require supporting data."
     },
     "stage": "apply",
-    "difficulty": 3,
+    "difficulty": 2,
     "difficultyTier": "apply",
     "sequencePriority": 31,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
   },
   {
     "id": "ac9s2i04-p-032",
@@ -879,22 +817,20 @@ window.skillrPracticeQuestions = [
     "audioPrompt": "What is data in a Year 2 investigation?",
     "visual": "",
     "answers": [
-      "equipment with no record",
       "recorded observations or measurements",
       "only a prediction",
-      "a favourite answer"
+      "equipment with no record"
     ],
-    "correct": 1,
-    "explanation": "Data is the information collected.\nHint: Use the observations and science idea in the question.",
+    "correct": 0,
+    "explanation": "Data is the information collected.",
     "structuredExplanation": {
-      "summary": "Data is the information collected.",
-      "hint": "Use the observations and science idea in the question."
+      "summary": "Data is the information collected."
     },
     "stage": "apply",
-    "difficulty": 3,
+    "difficulty": 2,
     "difficultyTier": "apply",
     "sequencePriority": 32,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
   },
   {
     "id": "ac9s2i04-p-033",
@@ -907,22 +843,20 @@ window.skillrPracticeQuestions = [
     "audioPrompt": "A class has leaves that are green, yellow and brown. What is one sensible way to sort them?",
     "visual": "",
     "answers": [
-      "By colour.",
-      "By which leaf is luckiest.",
-      "By the student who likes it most.",
-      "By a hidden feature that was not observed."
+      "By which leaf is luckiest",
+      "By the student who likes it most",
+      "By colour"
     ],
-    "correct": 0,
-    "explanation": "Sorting uses an observable feature shared by the items.\nHint: Choose a visible property.",
+    "correct": 2,
+    "explanation": "Sorting uses an observable feature shared by the items.",
     "structuredExplanation": {
-      "summary": "Sorting uses an observable feature shared by the items.",
-      "hint": "Choose a visible property."
+      "summary": "Sorting uses an observable feature shared by the items."
     },
-    "stage": "apply",
+    "stage": "reason",
     "difficulty": 3,
-    "difficultyTier": "apply",
+    "difficultyTier": "reason",
     "sequencePriority": 33,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
   },
   {
     "id": "ac9s2i04-p-034",
@@ -935,22 +869,20 @@ window.skillrPracticeQuestions = [
     "audioPrompt": "Bird counts are 2, 5 and 3. Which order is least to greatest?",
     "visual": "",
     "answers": [
-      "5, 3, 2.",
-      "3, 2, 5.",
-      "2, 5, 3.",
-      "2, 3, 5."
+      "5, 3, 2",
+      "3, 2, 5",
+      "2, 3, 5"
     ],
-    "correct": 3,
-    "explanation": "Least to greatest means ordering from the smallest count to the largest.\nHint: Compare the numbers.",
+    "correct": 2,
+    "explanation": "Least to greatest means ordering from the smallest count to the largest.",
     "structuredExplanation": {
-      "summary": "Least to greatest means ordering from the smallest count to the largest.",
-      "hint": "Compare the numbers."
+      "summary": "Least to greatest means ordering from the smallest count to the largest."
     },
-    "stage": "apply",
+    "stage": "reason",
     "difficulty": 3,
-    "difficultyTier": "apply",
+    "difficultyTier": "reason",
     "sequencePriority": 34,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
   },
   {
     "id": "ac9s2i04-p-035",
@@ -963,22 +895,20 @@ window.skillrPracticeQuestions = [
     "audioPrompt": "Which display is useful for showing how many objects are in each group?",
     "visual": "",
     "answers": [
-      "An unlabeled drawing.",
-      "A list with no numbers.",
-      "A simple table with category names and counts.",
-      "A paragraph about favourite objects only."
+      "A list with no numbers",
+      "An unlabeled drawing",
+      "A simple table with category names and counts"
     ],
     "correct": 2,
-    "explanation": "A category-and-count table makes group sizes easy to compare.\nHint: Look for labels and counts.",
+    "explanation": "A category-and-count table makes group sizes easy to compare.",
     "structuredExplanation": {
-      "summary": "A category-and-count table makes group sizes easy to compare.",
-      "hint": "Look for labels and counts."
+      "summary": "A category-and-count table makes group sizes easy to compare."
     },
-    "stage": "apply",
+    "stage": "reason",
     "difficulty": 3,
-    "difficultyTier": "apply",
+    "difficultyTier": "reason",
     "sequencePriority": 35,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
   },
   {
     "id": "ac9s2i04-p-036",
@@ -991,22 +921,20 @@ window.skillrPracticeQuestions = [
     "audioPrompt": "A tally chart has |||| for blue flowers and || for red flowers. What can be concluded?",
     "visual": "",
     "answers": [
-      "Flower colour was not recorded.",
-      "More blue flowers were counted than red flowers.",
-      "Red flowers were counted more often.",
-      "Exactly the same number were counted."
+      "More blue flowers were counted than red flowers",
+      "Flower colour was not recorded",
+      "Red flowers were counted more often"
     ],
-    "correct": 1,
-    "explanation": "The tally marks show four blue observations and two red observations.\nHint: Count the marks.",
+    "correct": 0,
+    "explanation": "The tally marks show four blue observations and two red observations.",
     "structuredExplanation": {
-      "summary": "The tally marks show four blue observations and two red observations.",
-      "hint": "Count the marks."
+      "summary": "The tally marks show four blue observations and two red observations."
     },
-    "stage": "apply",
+    "stage": "reason",
     "difficulty": 3,
-    "difficultyTier": "apply",
+    "difficultyTier": "reason",
     "sequencePriority": 36,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
   },
   {
     "id": "ac9s2i04-p-037",
@@ -1019,22 +947,20 @@ window.skillrPracticeQuestions = [
     "audioPrompt": "Why sort rocks by rough and smooth surfaces?",
     "visual": "",
     "answers": [
-      "It helps compare an observable property across the collection.",
-      "It changes rough rocks into smooth ones.",
-      "It proves all rocks are the same.",
-      "It makes mass unnecessary to observe."
+      "It changes rough rocks into smooth ones",
+      "It helps compare an observable property across the collection",
+      "It proves all rocks are the same"
     ],
-    "correct": 0,
-    "explanation": "Sorting can reveal similarities and differences in a chosen feature.\nHint: Identify the feature being compared.",
+    "correct": 1,
+    "explanation": "Sorting can reveal similarities and differences in a chosen feature.",
     "structuredExplanation": {
-      "summary": "Sorting can reveal similarities and differences in a chosen feature.",
-      "hint": "Identify the feature being compared."
+      "summary": "Sorting can reveal similarities and differences in a chosen feature."
     },
-    "stage": "apply",
+    "stage": "reason",
     "difficulty": 3,
-    "difficultyTier": "apply",
+    "difficultyTier": "reason",
     "sequencePriority": 37,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
   },
   {
     "id": "ac9s2i04-p-038",
@@ -1047,22 +973,20 @@ window.skillrPracticeQuestions = [
     "audioPrompt": "A table lists shadow lengths of 4, 8 and 6 blocks. Which is the longest?",
     "visual": "",
     "answers": [
-      "4 blocks.",
-      "6 blocks.",
-      "They are all equal.",
-      "8 blocks."
+      "8 blocks",
+      "6 blocks",
+      "4 blocks"
     ],
-    "correct": 3,
-    "explanation": "The greatest recorded length is 8 blocks.\nHint: Find the greatest value.",
+    "correct": 0,
+    "explanation": "The greatest recorded length is 8 blocks.",
     "structuredExplanation": {
-      "summary": "The greatest recorded length is 8 blocks.",
-      "hint": "Find the greatest value."
+      "summary": "The greatest recorded length is 8 blocks."
     },
-    "stage": "apply",
+    "stage": "reason",
     "difficulty": 3,
-    "difficultyTier": "apply",
+    "difficultyTier": "reason",
     "sequencePriority": 38,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
   },
   {
     "id": "ac9s2i04-p-039",
@@ -1075,22 +999,20 @@ window.skillrPracticeQuestions = [
     "audioPrompt": "A class groups objects as magnetic or not magnetic. What evidence should decide the group?",
     "visual": "",
     "answers": [
-      "The object name.",
-      "Which group has fewer items.",
-      "Whether the magnet attracts the object in the test.",
-      "The object colour."
+      "The object name",
+      "Whether the magnet attracts the object in the test",
+      "Which group has fewer items"
     ],
-    "correct": 2,
-    "explanation": "Groups should be based on the observed property being investigated.\nHint: Use the test result.",
+    "correct": 1,
+    "explanation": "Groups should be based on the observed property being investigated.",
     "structuredExplanation": {
-      "summary": "Groups should be based on the observed property being investigated.",
-      "hint": "Use the test result."
+      "summary": "Groups should be based on the observed property being investigated."
     },
-    "stage": "apply",
+    "stage": "reason",
     "difficulty": 3,
-    "difficultyTier": "apply",
+    "difficultyTier": "reason",
     "sequencePriority": 39,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
   },
   {
     "id": "ac9s2i04-p-040",
@@ -1103,21 +1025,227 @@ window.skillrPracticeQuestions = [
     "audioPrompt": "Why add headings to a science table?",
     "visual": "",
     "answers": [
-      "They remove the need for observations.",
-      "They show what each row or column represents.",
-      "They make the data larger.",
-      "They change the results."
+      "They remove the need for observations",
+      "They make the data larger",
+      "They show what each row or column represents"
+    ],
+    "correct": 2,
+    "explanation": "Headings make recorded data understandable.",
+    "structuredExplanation": {
+      "summary": "Headings make recorded data understandable."
+    },
+    "stage": "reason",
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 40,
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
+  },
+  {
+    "id": "ac9s2i04-p-041",
+    "curriculumCode": "AC9S2I04",
+    "bank": "practice",
+    "skill": "sorting and representing data",
+    "printable": true,
+    "type": "single",
+    "question": "A picture graph uses one leaf picture for one leaf. There are four pictures beside oak. How many oak leaves were counted?",
+    "audioPrompt": "A picture graph uses one leaf picture for one leaf. There are four pictures beside oak. How many oak leaves were counted?",
+    "visual": "",
+    "answers": [
+      "1",
+      "4",
+      "8"
     ],
     "correct": 1,
-    "explanation": "Headings make recorded data understandable.\nHint: Think about clarity.",
+    "explanation": "The key says that each picture represents one leaf.",
     "structuredExplanation": {
-      "summary": "Headings make recorded data understandable.",
-      "hint": "Think about clarity."
+      "summary": "The key says that each picture represents one leaf."
     },
-    "stage": "apply",
+    "stage": "reason",
     "difficulty": 3,
-    "difficultyTier": "apply",
-    "sequencePriority": 40,
-    "qualitySchema": "skillr-actual-v6"
+    "difficultyTier": "reason",
+    "sequencePriority": 41,
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
+  },
+  {
+    "id": "ac9s2i04-p-042",
+    "curriculumCode": "AC9S2I04",
+    "bank": "practice",
+    "skill": "sorting and representing data",
+    "printable": true,
+    "type": "single",
+    "question": "A table lists sponge: bends; stone: does not bend; cloth: bends. Which two belong together by this rule?",
+    "audioPrompt": "A table lists sponge: bends; stone: does not bend; cloth: bends. Which two belong together by this rule?",
+    "visual": "",
+    "answers": [
+      "Stone and sponge",
+      "Stone and cloth",
+      "Sponge and cloth"
+    ],
+    "correct": 2,
+    "explanation": "Sponge and cloth share the recorded bending property.",
+    "structuredExplanation": {
+      "summary": "Sponge and cloth share the recorded bending property."
+    },
+    "stage": "reason",
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 42,
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
+  },
+  {
+    "id": "ac9s2i04-p-043",
+    "curriculumCode": "AC9S2I04",
+    "bank": "practice",
+    "skill": "sorting and representing data",
+    "printable": true,
+    "type": "single",
+    "question": "Seedling photos are labelled Day 6, Day 1 and Day 3. How should they be placed to show growth over time?",
+    "audioPrompt": "Seedling photos are labelled Day 6, Day 1 and Day 3. How should they be placed to show growth over time?",
+    "visual": "",
+    "answers": [
+      "Day 1, Day 3, Day 6",
+      "Day 6, Day 3, Day 1",
+      "Day 3, Day 1, Day 6"
+    ],
+    "correct": 0,
+    "explanation": "Putting the dates in order shows the observed sequence.",
+    "structuredExplanation": {
+      "summary": "Putting the dates in order shows the observed sequence."
+    },
+    "stage": "reason",
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 43,
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
+  },
+  {
+    "id": "ac9s2i04-p-044",
+    "curriculumCode": "AC9S2I04",
+    "bank": "practice",
+    "skill": "sorting and representing data",
+    "printable": true,
+    "type": "single",
+    "question": "A clear lid bends easily. One group is 'see-through' and another is 'bendy'. Where can the lid go?",
+    "audioPrompt": "A clear lid bends easily. One group is 'see-through' and another is 'bendy'. Where can the lid go?",
+    "visual": "",
+    "answers": [
+      "In both groups",
+      "Only in neither group",
+      "Only in a group called stone"
+    ],
+    "correct": 0,
+    "explanation": "An object can have more than one recorded property.",
+    "structuredExplanation": {
+      "summary": "An object can have more than one recorded property."
+    },
+    "stage": "reason",
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 44,
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
+  },
+  {
+    "id": "ac9s2i04-p-045",
+    "curriculumCode": "AC9S2I04",
+    "bank": "practice",
+    "skill": "sorting and representing data",
+    "printable": true,
+    "type": "single",
+    "question": "A chart records Monday: wet; Tuesday: dry; Wednesday: dry. Which summary matches?",
+    "audioPrompt": "A chart records Monday: wet; Tuesday: dry; Wednesday: dry. Which summary matches?",
+    "visual": "",
+    "answers": [
+      "Two dry days and one wet day",
+      "Three wet days",
+      "One dry day and two wet days"
+    ],
+    "correct": 0,
+    "explanation": "Counting the labels gives two dry observations and one wet observation.",
+    "structuredExplanation": {
+      "summary": "Counting the labels gives two dry observations and one wet observation."
+    },
+    "stage": "reason",
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 45,
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
+  },
+  {
+    "id": "ac9s2i04-p-046",
+    "curriculumCode": "AC9S2I04",
+    "bank": "practice",
+    "skill": "sorting and representing data",
+    "printable": true,
+    "type": "single",
+    "question": "Three tested objects sank and two floated. How many results should appear on the chart?",
+    "audioPrompt": "Three tested objects sank and two floated. How many results should appear on the chart?",
+    "visual": "",
+    "answers": [
+      "3",
+      "5",
+      "2"
+    ],
+    "correct": 1,
+    "explanation": "Both groups together contain five observations.",
+    "structuredExplanation": {
+      "summary": "Both groups together contain five observations."
+    },
+    "stage": "reason",
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 46,
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
+  },
+  {
+    "id": "ac9s2i04-p-047",
+    "curriculumCode": "AC9S2I04",
+    "bank": "practice",
+    "skill": "sorting and representing data",
+    "printable": true,
+    "type": "single",
+    "question": "A class sorts sounds by how they are made. Where does clapping belong?",
+    "audioPrompt": "A class sorts sounds by how they are made. Where does clapping belong?",
+    "visual": "",
+    "answers": [
+      "Hitting surfaces together",
+      "Blowing through an opening",
+      "Plucking a string"
+    ],
+    "correct": 0,
+    "explanation": "Clapping makes sound when the hands strike each other.",
+    "structuredExplanation": {
+      "summary": "Clapping makes sound when the hands strike each other."
+    },
+    "stage": "reason",
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 47,
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
+  },
+  {
+    "id": "ac9s2i04-p-048",
+    "curriculumCode": "AC9S2I04",
+    "bank": "practice",
+    "skill": "sorting and representing data",
+    "printable": true,
+    "type": "single",
+    "question": "A weather chart uses a circle for a sunny day. What should its key explain?",
+    "audioPrompt": "A weather chart uses a circle for a sunny day. What should its key explain?",
+    "visual": "",
+    "answers": [
+      "Who drew the neatest circle",
+      "Which day everyone liked",
+      "What the circle stands for"
+    ],
+    "correct": 2,
+    "explanation": "A key tells readers what a symbol means.",
+    "structuredExplanation": {
+      "summary": "A key tells readers what a symbol means."
+    },
+    "stage": "reason",
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 48,
+    "qualitySchema": "skillr-reviewed-y2-science-v1"
   }
 ];
