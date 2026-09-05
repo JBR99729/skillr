@@ -4,369 +4,320 @@ window.skillrTestQuestions = [
     "id": "ac9sfh01-t-001",
     "curriculumCode": "AC9SFH01",
     "bank": "test",
-    "skill": "Using observations and questions to learn about nature",
+    "skill": "use observations to learn",
+    "question": "A child wants to find out whether a spider's web has changed since yesterday. What should they use?",
+    "explanation": "Comparing yesterday's record with the web today can show changes.",
     "printable": true,
     "type": "single",
-    "question": "A child finds tiny eggs on the back of a leaf. What could help them learn whether the eggs change?",
-    "audioPrompt": "A child finds tiny eggs on the back of a leaf. What could help them learn whether the eggs change?",
-    "visual": "",
     "answers": [
-      "Guess once and stop looking",
-      "Look again on later days without disturbing them",
-      "Count nearby benches"
+      "A story about a different spider.",
+      "Yesterday's photo and today's view.",
+      "A picture of their favourite web."
     ],
     "correct": 1,
-    "explanation": "Returning to observe can reveal changes in the eggs.",
+    "audioPrompt": "A child wants to find out whether a spider's web has changed since yesterday. What should they use?",
     "structuredExplanation": {
-      "summary": "Returning to observe can reveal changes in the eggs."
-    },
-    "sequencePriority": 1,
-    "qualitySchema": "ac9sfh01-repaired-review-v1"
+      "summary": "Comparing yesterday's record with the web today can show changes."
+    }
   },
   {
     "id": "ac9sfh01-t-002",
     "curriculumCode": "AC9SFH01",
     "bank": "test",
-    "skill": "Using observations and questions to learn about nature",
+    "skill": "ask questions from observations",
+    "question": "A child notices that one patch of grass is brown. Which question is about that change?",
+    "explanation": "This question starts with the change the child noticed.",
     "printable": true,
     "type": "single",
-    "question": "Two beach photographs show the same rock covered by water, then uncovered. What can comparing them reveal?",
-    "audioPrompt": "Two beach photographs show the same rock covered by water, then uncovered. What can comparing them reveal?",
-    "visual": "",
     "answers": [
-      "The rock changed into a different material",
-      "The exact age of the rock",
-      "The water level changed around the rock"
+      "How many clouds are there?",
+      "What shapes are the nearby stones?",
+      "Why has this grass turned brown?"
     ],
     "correct": 2,
-    "explanation": "The photographs show a difference in how much of the rock is covered by water.",
+    "audioPrompt": "A child notices that one patch of grass is brown. Which question is about that change?",
     "structuredExplanation": {
-      "summary": "The photographs show a difference in how much of the rock is covered by water."
-    },
-    "sequencePriority": 2,
-    "qualitySchema": "ac9sfh01-repaired-review-v1"
+      "summary": "This question starts with the change the child noticed."
+    }
   },
   {
     "id": "ac9sfh01-t-003",
     "curriculumCode": "AC9SFH01",
     "bank": "test",
-    "skill": "Using observations and questions to learn about nature",
+    "skill": "use observations to learn",
+    "question": "A family wants to know which of two safe, fallen leaves feels rougher. What would help?",
+    "explanation": "Touch can help compare the surface feel of leaves that an adult has checked are safe to handle.",
     "printable": true,
     "type": "single",
-    "question": "A child wonders what a grasshopper does with its back legs. What would help answer this?",
-    "audioPrompt": "A child wonders what a grasshopper does with its back legs. What would help answer this?",
-    "visual": "",
     "answers": [
-      "Listen to a story about a rabbit",
-      "Watch a grasshopper moving",
-      "Measure a flower beside it"
+      "Gently feel both leaves.",
+      "Listen to both leaves.",
+      "Count both leaf stalks."
     ],
-    "correct": 1,
-    "explanation": "Watching movement provides evidence about how the legs are used.",
+    "correct": 0,
+    "audioPrompt": "A family wants to know which of two safe, fallen leaves feels rougher. What would help?",
     "structuredExplanation": {
-      "summary": "Watching movement provides evidence about how the legs are used."
-    },
-    "sequencePriority": 3,
-    "qualitySchema": "ac9sfh01-repaired-review-v1"
+      "summary": "Touch can help compare the surface feel of leaves that an adult has checked are safe to handle."
+    }
   },
   {
     "id": "ac9sfh01-t-004",
     "curriculumCode": "AC9SFH01",
     "bank": "test",
-    "skill": "Using observations and questions to learn about nature",
+    "skill": "use observations to learn",
+    "question": "Tonight, a child says the Moon looks different from last night. What would help check this?",
+    "explanation": "Records from both nights let people compare what they observed at those times.",
     "printable": true,
     "type": "single",
-    "question": "A teacher records the sound of rain on a roof. What can children learn from that recording?",
-    "audioPrompt": "A teacher records the sound of rain on a roof. What can children learn from that recording?",
-    "visual": "",
     "answers": [
-      "What the rain sounded like there",
-      "How the roof felt to touch",
-      "The colour of every raindrop"
+      "Compare pictures from both nights.",
+      "Look at two pictures from tonight.",
+      "Ask which Moon shape looks nicest."
     ],
     "correct": 0,
-    "explanation": "A sound recording lets children hear the sounds that were recorded.",
+    "audioPrompt": "Tonight, a child says the Moon looks different from last night. What would help check this?",
     "structuredExplanation": {
-      "summary": "A sound recording lets children hear the sounds that were recorded."
-    },
-    "sequencePriority": 4,
-    "qualitySchema": "ac9sfh01-repaired-review-v1"
+      "summary": "Records from both nights let people compare what they observed at those times."
+    }
   },
   {
     "id": "ac9sfh01-t-005",
     "curriculumCode": "AC9SFH01",
     "bank": "test",
-    "skill": "Using observations and questions to learn about nature",
+    "skill": "use observations to learn",
+    "question": "A child wants to know what a beetle does on a plant. Which action helps them learn?",
+    "explanation": "Watching without disturbing the beetle helps reveal its behaviour on the plant.",
     "printable": true,
     "type": "single",
-    "question": "A child notices one seed has wings and another is round. Which question could they explore?",
-    "audioPrompt": "A child notices one seed has wings and another is round. Which question could they explore?",
-    "visual": "",
     "answers": [
-      "Who likes round things most?",
-      "Which seed has the best name?",
-      "Do the seeds fall in different ways?"
+      "Put it where they want it to go.",
+      "Draw what they hope it will do.",
+      "Watch it without disturbing it."
     ],
     "correct": 2,
-    "explanation": "Observing how the seeds fall can help explore a difference linked to their shapes.",
+    "audioPrompt": "A child wants to know what a beetle does on a plant. Which action helps them learn?",
     "structuredExplanation": {
-      "summary": "Observing how the seeds fall can help explore a difference linked to their shapes."
-    },
-    "sequencePriority": 5,
-    "qualitySchema": "ac9sfh01-repaired-review-v1"
+      "summary": "Watching without disturbing the beetle helps reveal its behaviour on the plant."
+    }
   },
   {
     "id": "ac9sfh01-t-006",
     "curriculumCode": "AC9SFH01",
     "bank": "test",
-    "skill": "Using observations and questions to learn about nature",
+    "skill": "ask questions from observations",
+    "question": "A class sees a seed spinning as it falls. Which question builds on this observation?",
+    "explanation": "The question invites more observations of how seeds fall.",
     "printable": true,
     "type": "single",
-    "question": "Someone says all stones in a creek are the same colour. How could a class check?",
-    "audioPrompt": "Someone says all stones in a creek are the same colour. How could a class check?",
-    "visual": "",
     "answers": [
-      "Vote for a favourite colour",
-      "Look at one stone and stop",
-      "Look at several stones safely from the bank"
+      "What colour is the plant pot?",
+      "Do other seeds spin as they fall?",
+      "How many leaves are on the tree?"
     ],
-    "correct": 2,
-    "explanation": "Several observations can reveal whether the stones have different colours.",
+    "correct": 1,
+    "audioPrompt": "A class sees a seed spinning as it falls. Which question builds on this observation?",
     "structuredExplanation": {
-      "summary": "Several observations can reveal whether the stones have different colours."
-    },
-    "sequencePriority": 6,
-    "qualitySchema": "ac9sfh01-repaired-review-v1"
+      "summary": "The question invites more observations of how seeds fall."
+    }
   },
   {
     "id": "ac9sfh01-t-007",
     "curriculumCode": "AC9SFH01",
     "bank": "test",
-    "skill": "Using observations and questions to learn about nature",
+    "skill": "use observations to learn",
+    "question": "A child says, 'I looked at the moss and saw tiny drops.' Which part tells how the child found out?",
+    "explanation": "The child learned about the drops by looking, not by hoping or guessing.",
     "printable": true,
     "type": "single",
-    "question": "A child draws a caterpillar each day. Why keep the drawings in date order?",
-    "audioPrompt": "A child draws a caterpillar each day. Why keep the drawings in date order?",
-    "visual": "",
     "answers": [
-      "To follow changes over time",
-      "To find out how the caterpillar sounds",
-      "To make the caterpillar grow faster"
+      "I hoped there were drops.",
+      "I guessed there were drops.",
+      "I looked at the moss."
     ],
-    "correct": 0,
-    "explanation": "Date order helps show which observed changes came first and later.",
+    "correct": 2,
+    "audioPrompt": "A child says, 'I looked at the moss and saw tiny drops.' Which part tells how the child found out?",
     "structuredExplanation": {
-      "summary": "Date order helps show which observed changes came first and later."
-    },
-    "sequencePriority": 7,
-    "qualitySchema": "ac9sfh01-repaired-review-v1"
+      "summary": "The child learned about the drops by looking, not by hoping or guessing."
+    }
   },
   {
     "id": "ac9sfh01-t-008",
     "curriculumCode": "AC9SFH01",
     "bank": "test",
-    "skill": "Using observations and questions to learn about nature",
+    "skill": "use observations to learn",
+    "question": "A park worker counts butterflies visiting flowers. What can the count help them learn?",
+    "explanation": "The count describes the butterflies observed during that visit, not all places or future visits.",
     "printable": true,
     "type": "single",
-    "question": "A ranger counts turtles beside a lake. Which question asks about the ranger's observations?",
-    "audioPrompt": "A ranger counts turtles beside a lake. Which question asks about the ranger's observations?",
-    "visual": "",
     "answers": [
-      "Which hat would you like to buy?",
-      "What is your favourite lunch?",
-      "Where did you see the turtles?"
+      "How many butterflies they saw visiting.",
+      "How many butterflies will visit tomorrow.",
+      "How many butterflies live in all parks."
     ],
-    "correct": 2,
-    "explanation": "The question asks where the ranger actually observed turtles.",
+    "correct": 0,
+    "audioPrompt": "A park worker counts butterflies visiting flowers. What can the count help them learn?",
     "structuredExplanation": {
-      "summary": "The question asks where the ranger actually observed turtles."
-    },
-    "sequencePriority": 8,
-    "qualitySchema": "ac9sfh01-repaired-review-v1"
+      "summary": "The count describes the butterflies observed during that visit, not all places or future visits."
+    }
   },
   {
     "id": "ac9sfh01-t-009",
     "curriculumCode": "AC9SFH01",
     "bank": "test",
-    "skill": "Using observations and questions to learn about nature",
+    "skill": "ask questions from observations",
+    "question": "A child wants to learn whether a twig is smooth or rough. Which question helps?",
+    "explanation": "Asking about the surface feel matches what the child wants to find out.",
     "printable": true,
     "type": "single",
-    "question": "The class wants to know whether a plant's leaves close at night. When do they need to look?",
-    "audioPrompt": "The class wants to know whether a plant's leaves close at night. When do they need to look?",
-    "visual": "",
     "answers": [
-      "During the day and again at night with an adult",
-      "Only once at lunchtime",
-      "Only at a picture of another plant"
+      "How long is the twig?",
+      "What does its surface feel like?",
+      "Where was the twig found?"
     ],
-    "correct": 0,
-    "explanation": "Observations at both times allow the class to compare the leaves.",
+    "correct": 1,
+    "audioPrompt": "A child wants to learn whether a twig is smooth or rough. Which question helps?",
     "structuredExplanation": {
-      "summary": "Observations at both times allow the class to compare the leaves."
-    },
-    "sequencePriority": 9,
-    "qualitySchema": "ac9sfh01-repaired-review-v1"
+      "summary": "Asking about the surface feel matches what the child wants to find out."
+    }
   },
   {
     "id": "ac9sfh01-t-010",
     "curriculumCode": "AC9SFH01",
     "bank": "test",
-    "skill": "Using observations and questions to learn about nature",
+    "skill": "use observations to learn",
+    "question": "Two children want to know if a shell has stripes underneath. What should they do with the safe, empty shell their teacher provides?",
+    "explanation": "Looking at the underside gives them the observation needed to answer.",
     "printable": true,
     "type": "single",
-    "question": "A child can see stripes on a shell but not its tiny bumps. Which tool would help?",
-    "audioPrompt": "A child can see stripes on a shell but not its tiny bumps. Which tool would help?",
-    "visual": "",
     "answers": [
-      "A magnifying glass",
-      "A stopwatch",
-      "A watering can"
+      "Decide by looking only at its top.",
+      "Turn it over and look underneath.",
+      "Choose the answer they both like."
     ],
-    "correct": 0,
-    "explanation": "A magnifying glass makes small surface details easier to see.",
+    "correct": 1,
+    "audioPrompt": "Two children want to know if a shell has stripes underneath. What should they do with the safe, empty shell their teacher provides?",
     "structuredExplanation": {
-      "summary": "A magnifying glass makes small surface details easier to see."
-    },
-    "sequencePriority": 10,
-    "qualitySchema": "ac9sfh01-repaired-review-v1"
+      "summary": "Looking at the underside gives them the observation needed to answer."
+    }
   },
   {
     "id": "ac9sfh01-t-011",
     "curriculumCode": "AC9SFH01",
     "bank": "test",
-    "skill": "Using observations and questions to learn about nature",
+    "skill": "use observations to learn",
+    "question": "A child notices an ant carrying a crumb. Which statement says what they learned by watching?",
+    "explanation": "Watching showed the ant carrying one crumb; it did not establish what it always eats or will do next.",
     "printable": true,
     "type": "single",
-    "question": "A child reports, 'There are three mushrooms beside the stump.' What would help a friend check this?",
-    "audioPrompt": "A child reports, 'There are three mushrooms beside the stump.' What would help a friend check this?",
-    "visual": "",
     "answers": [
-      "Look at the same stump without touching the mushrooms",
-      "Count flowers at the gate",
-      "Ask which mushroom looks nicest"
+      "The ant carried a crumb.",
+      "The ant will carry two more crumbs.",
+      "The ant always eats this food."
     ],
     "correct": 0,
-    "explanation": "Looking at the same place lets the friend check the reported number.",
+    "audioPrompt": "A child notices an ant carrying a crumb. Which statement says what they learned by watching?",
     "structuredExplanation": {
-      "summary": "Looking at the same place lets the friend check the reported number."
-    },
-    "sequencePriority": 11,
-    "qualitySchema": "ac9sfh01-repaired-review-v1"
+      "summary": "Watching showed the ant carrying one crumb; it did not establish what it always eats or will do next."
+    }
   },
   {
     "id": "ac9sfh01-t-012",
     "curriculumCode": "AC9SFH01",
     "bank": "test",
-    "skill": "Using observations and questions to learn about nature",
+    "skill": "use observations to learn",
+    "question": "A child wonders which garden flowers bees visit. Which observation would help?",
+    "explanation": "Observing real visits helps answer which flowers the bees visit.",
     "printable": true,
     "type": "single",
-    "question": "A child wonders whether wind moves tall grass. Which observation would be useful?",
-    "audioPrompt": "A child wonders whether wind moves tall grass. Which observation would be useful?",
-    "visual": "",
     "answers": [
-      "Count the grass in a drawing",
-      "Feel a smooth pebble",
-      "Watch the grass when the wind blows"
+      "The flowers shown on a seed packet.",
+      "The flowers the child likes best.",
+      "The flowers where bees actually land."
     ],
     "correct": 2,
-    "explanation": "Watching during wind provides information about whether the grass moves.",
+    "audioPrompt": "A child wonders which garden flowers bees visit. Which observation would help?",
     "structuredExplanation": {
-      "summary": "Watching during wind provides information about whether the grass moves."
-    },
-    "sequencePriority": 12,
-    "qualitySchema": "ac9sfh01-repaired-review-v1"
+      "summary": "Observing real visits helps answer which flowers the bees visit."
+    }
   },
   {
     "id": "ac9sfh01-t-013",
     "curriculumCode": "AC9SFH01",
     "bank": "test",
-    "skill": "Using observations and questions to learn about nature",
+    "skill": "ask questions from observations",
+    "question": "A child asks, 'Are there any snails here?' and sees none during a quick look. What could help them learn more?",
+    "explanation": "A quick look may miss small living things. More careful observation can help, without promising that snails will be found.",
     "printable": true,
     "type": "single",
-    "question": "One child noticed a duck diving. Another noticed it floating. Why share both observations?",
-    "audioPrompt": "One child noticed a duck diving. Another noticed it floating. Why share both observations?",
-    "visual": "",
     "answers": [
-      "To find out the duck's exact age",
-      "To learn about different things the duck does",
-      "To decide one child must be wrong"
+      "Look carefully again with an adult.",
+      "Decide no snails ever live there.",
+      "Look only at a picture of a snail."
     ],
-    "correct": 1,
-    "explanation": "A duck can do different things at different times, so both observations add information.",
+    "correct": 0,
+    "audioPrompt": "A child asks, 'Are there any snails here?' and sees none during a quick look. What could help them learn more?",
     "structuredExplanation": {
-      "summary": "A duck can do different things at different times, so both observations add information."
-    },
-    "sequencePriority": 13,
-    "qualitySchema": "ac9sfh01-repaired-review-v1"
+      "summary": "A quick look may miss small living things. More careful observation can help, without promising that snails will be found."
+    }
   },
   {
     "id": "ac9sfh01-t-014",
     "curriculumCode": "AC9SFH01",
     "bank": "test",
-    "skill": "Using observations and questions to learn about nature",
+    "skill": "record and compare observations",
+    "question": "A class learns that frost was on the grass early this morning. Which record would show an observation?",
+    "explanation": "A record of what was seen is an observation. A hope or prediction does not report what was seen.",
     "printable": true,
     "type": "single",
-    "question": "A child draws six spots on an insect, then sees a seventh. What should change?",
-    "audioPrompt": "A child draws six spots on an insect, then sees a seventh. What should change?",
-    "visual": "",
     "answers": [
-      "The insect should be moved out of sight",
-      "The drawing should show the extra spot",
-      "The child should stop checking"
+      "I hoped there was frost.",
+      "I think frost might come.",
+      "I saw frost on the grass."
     ],
-    "correct": 1,
-    "explanation": "Updating the drawing makes the record match the new observation.",
+    "correct": 2,
+    "audioPrompt": "A class learns that frost was on the grass early this morning. Which record would show an observation?",
     "structuredExplanation": {
-      "summary": "Updating the drawing makes the record match the new observation."
-    },
-    "sequencePriority": 14,
-    "qualitySchema": "ac9sfh01-repaired-review-v1"
+      "summary": "A record of what was seen is an observation. A hope or prediction does not report what was seen."
+    }
   },
   {
     "id": "ac9sfh01-t-015",
     "curriculumCode": "AC9SFH01",
     "bank": "test",
-    "skill": "Using observations and questions to learn about nature",
+    "skill": "use observations to learn",
+    "question": "A gardener notices that buds on one plant have opened. What would be a useful next observation?",
+    "explanation": "Checking other buds gives more observations related to the first plant.",
     "printable": true,
     "type": "single",
-    "question": "An adult and child see bubbles rising in a pond. Which question is about what they noticed?",
-    "audioPrompt": "An adult and child see bubbles rising in a pond. Which question is about what they noticed?",
-    "visual": "",
     "answers": [
-      "Which pond name sounds best?",
-      "Where are the bubbles coming from?",
-      "Who has the nicest pond picture?"
+      "Choose the nicest flower.",
+      "Check buds on other plants.",
+      "Water every plant twice."
     ],
     "correct": 1,
-    "explanation": "The question seeks information about the observed bubbles.",
+    "audioPrompt": "A gardener notices that buds on one plant have opened. What would be a useful next observation?",
     "structuredExplanation": {
-      "summary": "The question seeks information about the observed bubbles."
-    },
-    "sequencePriority": 15,
-    "qualitySchema": "ac9sfh01-repaired-review-v1"
+      "summary": "Checking other buds gives more observations related to the first plant."
+    }
   },
   {
     "id": "ac9sfh01-t-016",
     "curriculumCode": "AC9SFH01",
     "bank": "test",
-    "skill": "Using observations and questions to learn about nature",
+    "skill": "ask questions from observations",
+    "question": "A class asks whether rain changes dry soil. Which pair shows a question and a useful way to find out?",
+    "explanation": "Observations before and after rain allow the class to check for a change.",
     "printable": true,
     "type": "single",
-    "question": "A class compares dry fallen leaves with fresh leaves on a plant. What could careful looking help them describe?",
-    "audioPrompt": "A class compares dry fallen leaves with fresh leaves on a plant. What could careful looking help them describe?",
-    "visual": "",
     "answers": [
-      "Differences in colour and shape",
-      "The names of people who planted the garden",
-      "How every leaf will look next year"
+      "Does the soil change? Look before and after rain.",
+      "Does the soil change? Look only before rain.",
+      "Does the soil change? Choose the nicest soil colour."
     ],
     "correct": 0,
-    "explanation": "Colour and shape are visible features that can be compared.",
+    "audioPrompt": "A class asks whether rain changes dry soil. Which pair shows a question and a useful way to find out?",
     "structuredExplanation": {
-      "summary": "Colour and shape are visible features that can be compared."
-    },
-    "sequencePriority": 16,
-    "qualitySchema": "ac9sfh01-repaired-review-v1"
+      "summary": "Observations before and after rain allow the class to check for a change."
+    }
   }
 ];
-window.quizQuestions = window.skillrTestQuestions;
