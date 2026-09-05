@@ -1,345 +1,323 @@
 "use strict";
 window.skillrTestQuestions = [
   {
-    "curriculumCode": "AC9SFI02",
-    "bank": "test",
-    "skill": "safe or unsafe action",
-    "question": "What should you do first in a class investigation?",
-    "explanation": "A magnifier should be used calmly and away from focused sunlight.",
-    "printable": true,
-    "type": "single",
-    "answers": [
-      "listen to the teacher's instructions",
-      "taste the materials",
-      "run with the equipment"
-    ],
-    "correct": 0,
-    "visual": "Assessment card\n🔍 🌿",
     "id": "ac9sfi02-t-001",
-    "audioPrompt": "What should you do first in a class investigation?",
-    "structuredExplanation": {
-      "summary": "A magnifier should be used calmly and away from focused sunlight."
-    }
-  },
-  {
     "curriculumCode": "AC9SFI02",
     "bank": "test",
-    "skill": "match sense to observation",
-    "question": "Why should we use equipment carefully?",
-    "explanation": "Approved touch can describe texture.",
+    "skill": "observe with sight",
+    "question": "Which sense helps you see colour?",
+    "explanation": "Sight is used to see colour.",
     "printable": true,
     "type": "single",
     "answers": [
-      "to keep everyone safe",
-      "to finish without observing",
-      "to change the answer"
+      "Sight",
+      "Hearing",
+      "Smell"
     ],
     "correct": 0,
-    "visual": "Assessment card\n🌳  ✋",
+    "audioPrompt": "Which sense helps you see colour?",
+    "structuredExplanation": {
+      "summary": "Sight is used to see colour."
+    }
+  },
+  {
     "id": "ac9sfi02-t-002",
-    "audioPrompt": "Why should we use equipment carefully?",
-    "structuredExplanation": {
-      "summary": "Approved touch can describe texture."
-    }
-  },
-  {
     "curriculumCode": "AC9SFI02",
     "bank": "test",
-    "skill": "sense not to use",
-    "question": "You are comparing two toy cars. What should stay the same?",
-    "explanation": "Hot steam can burn; keep a safe distance.",
+    "skill": "investigate safely",
+    "question": "A child finds a sharp stick outside. What is safest?",
+    "explanation": "A sharp object should be left alone and reported to the teacher.",
     "printable": true,
     "type": "single",
     "answers": [
-      "the ramp",
-      "everything changes",
-      "the car colours must change"
+      "Wave it around.",
+      "Tell the teacher; do not wave it.",
+      "Taste it."
     ],
-    "correct": 0,
-    "visual": "Assessment card\n♨️  line ─",
+    "correct": 1,
+    "audioPrompt": "A child finds a sharp stick outside. What is safest?",
+    "structuredExplanation": {
+      "summary": "A sharp object should be left alone and reported to the teacher."
+    }
+  },
+  {
     "id": "ac9sfi02-t-003",
-    "audioPrompt": "You are comparing two toy cars. What should stay the same?",
-    "structuredExplanation": {
-      "summary": "Hot steam can burn; keep a safe distance."
-    }
-  },
-  {
     "curriculumCode": "AC9SFI02",
     "bank": "test",
-    "skill": "choose safe tool",
-    "question": "What should you do after making an observation?",
-    "explanation": "A tally sheet records each crossing safely.",
+    "skill": "observe with touch",
+    "question": "Which sentence tells something you can feel?",
+    "explanation": "Soft is noticed using touch.",
     "printable": true,
     "type": "single",
     "answers": [
-      "record what you noticed",
-      "hide the result",
-      "change the question"
+      "The leaf is green.",
+      "The leaf is tall.",
+      "The leaf is soft."
     ],
-    "correct": 0,
-    "visual": "Assessment card\n🐜 → |   tally ||||",
+    "correct": 2,
+    "audioPrompt": "Which sentence tells something you can feel?",
+    "structuredExplanation": {
+      "summary": "Soft is noticed using touch."
+    }
+  },
+  {
     "id": "ac9sfi02-t-004",
-    "audioPrompt": "What should you do after making an observation?",
+    "curriculumCode": "AC9SFI02",
+    "bank": "test",
+    "skill": "observe with hearing",
+    "question": "A class compares two bells. What should they use?",
+    "explanation": "Ears are used for hearing sounds.",
+    "printable": true,
+    "type": "single",
+    "answers": [
+      "Their mouths",
+      "Their ears",
+      "Their feet"
+    ],
+    "correct": 1,
+    "audioPrompt": "A class compares two bells. What should they use?",
     "structuredExplanation": {
-      "summary": "A tally sheet records each crossing safely."
+      "summary": "Ears are used for hearing sounds."
     }
   },
   {
-    "curriculumCode": "AC9SFI02",
-    "bank": "test",
-    "skill": "follow safety instructions",
-    "question": "A teacher asks you to use a magnifying glass. What should you do?",
-    "explanation": "Understand the boundary before observing and recording.",
-    "printable": true,
-    "type": "single",
-    "items": [
-      "Record what you saw",
-      "Stay behind the marked line",
-      "Listen to the boundary rule"
-    ],
-    "correct": 0,
-    "instruction": "Use the arrows to put the cards in order.",
     "id": "ac9sfi02-t-005",
-    "answers": [
-      "use it as shown",
-      "throw it",
-      "look at the Sun through it"
-    ],
-    "audioPrompt": "A teacher asks you to use a magnifying glass. What should you do?",
-    "structuredExplanation": {
-      "summary": "Understand the boundary before observing and recording."
-    }
-  },
-  {
     "curriculumCode": "AC9SFI02",
     "bank": "test",
-    "skill": "ethical living thing observation",
-    "question": "Why might we repeat an observation?",
-    "explanation": "Measure without damaging the plant.",
+    "skill": "investigate safely",
+    "question": "Which action is unsafe?",
+    "explanation": "Unknown berries should not be tasted.",
     "printable": true,
     "type": "single",
     "answers": [
-      "to check what we noticed",
-      "to make up a new result",
-      "to avoid looking"
+      "Looking at a flower.",
+      "Listening to birds.",
+      "Tasting unknown berries."
     ],
-    "correct": 0,
-    "visual": "Assessment card\n🌱 📏",
+    "correct": 2,
+    "audioPrompt": "Which action is unsafe?",
+    "structuredExplanation": {
+      "summary": "Unknown berries should not be tasted."
+    }
+  },
+  {
     "id": "ac9sfi02-t-006",
-    "audioPrompt": "Why might we repeat an observation?",
-    "structuredExplanation": {
-      "summary": "Measure without damaging the plant."
-    }
-  },
-  {
     "curriculumCode": "AC9SFI02",
     "bank": "test",
-    "skill": "adult supervision",
-    "question": "What is a safe way to explore a leaf?",
-    "explanation": "Damaged equipment should not be used.",
+    "skill": "observe with sight",
+    "question": "A child wants to look at a tiny seed. What tool helps?",
+    "explanation": "A magnifying glass helps make tiny details easier to see.",
     "printable": true,
     "type": "single",
     "answers": [
-      "look and touch gently",
-      "taste it",
-      "rub it in your eyes"
+      "Magnifying glass",
+      "Lunchbox",
+      "Paintbrush"
     ],
     "correct": 0,
-    "visual": "Assessment card\ntool ⚠️",
+    "audioPrompt": "A child wants to look at a tiny seed. What tool helps?",
+    "structuredExplanation": {
+      "summary": "A magnifying glass helps make tiny details easier to see."
+    }
+  },
+  {
     "id": "ac9sfi02-t-007",
-    "audioPrompt": "What is a safe way to explore a leaf?",
-    "structuredExplanation": {
-      "summary": "Damaged equipment should not be used."
-    }
-  },
-  {
     "curriculumCode": "AC9SFI02",
     "bank": "test",
-    "skill": "respect boundaries",
-    "question": "When the investigation is finished, what should you do?",
-    "explanation": "Look-only means no handling.",
+    "skill": "observe with smell",
+    "question": "Which tells something you can smell?",
+    "explanation": "Smells sweet is noticed using smell.",
     "printable": true,
     "type": "single",
     "answers": [
-      "pack away safely",
-      "leave spills",
-      "hide the tools"
+      "The soap is square.",
+      "The soap is white.",
+      "The soap smells sweet."
     ],
-    "correct": 0,
-    "visual": "Assessment card\nLOOK ONLY 👁️",
+    "correct": 2,
+    "audioPrompt": "Which tells something you can smell?",
+    "structuredExplanation": {
+      "summary": "Smells sweet is noticed using smell."
+    }
+  },
+  {
     "id": "ac9sfi02-t-008",
-    "audioPrompt": "When the investigation is finished, what should you do?",
-    "structuredExplanation": {
-      "summary": "Look-only means no handling."
-    }
-  },
-  {
     "curriculumCode": "AC9SFI02",
     "bank": "test",
-    "skill": "safe recording",
-    "question": "What should you do first in a class investigation?",
-    "explanation": "Colour can be recorded visually without damage.",
+    "skill": "investigate safely",
+    "question": "A child sees a worm on the path. What is safest?",
+    "explanation": "Watching quietly lets the child observe safely.",
     "printable": true,
     "type": "single",
     "answers": [
-      "listen to the teacher's instructions",
-      "taste the materials",
-      "run with the equipment"
+      "Step on it.",
+      "Watch it quietly; do not touch.",
+      "Put it in a pocket."
     ],
-    "correct": 0,
-    "visual": "Assessment card\n🌿 📷",
+    "correct": 1,
+    "audioPrompt": "A child sees a worm on the path. What is safest?",
+    "structuredExplanation": {
+      "summary": "Watching quietly lets the child observe safely."
+    }
+  },
+  {
     "id": "ac9sfi02-t-009",
-    "audioPrompt": "What should you do first in a class investigation?",
-    "structuredExplanation": {
-      "summary": "Colour can be recorded visually without damage."
-    }
-  },
-  {
     "curriculumCode": "AC9SFI02",
     "bank": "test",
-    "skill": "safe texture comparison",
-    "question": "Why should we use equipment carefully?",
-    "explanation": "Sharp samples require a safer method.",
+    "skill": "observe with hearing",
+    "question": "Which observation uses hearing?",
+    "explanation": "Loud is an observation made using hearing.",
     "printable": true,
     "type": "single",
     "answers": [
-      "to keep everyone safe",
-      "to finish without observing",
-      "to change the answer"
+      "The shaker is round.",
+      "The shaker is blue.",
+      "The shaker is loud."
     ],
-    "correct": 0,
-    "visual": "Assessment card\n▲ sharp  ✋🚫",
+    "correct": 2,
+    "audioPrompt": "Which observation uses hearing?",
+    "structuredExplanation": {
+      "summary": "Loud is an observation made using hearing."
+    }
+  },
+  {
     "id": "ac9sfi02-t-010",
-    "audioPrompt": "Why should we use equipment carefully?",
-    "structuredExplanation": {
-      "summary": "Sharp samples require a safer method."
-    }
-  },
-  {
     "curriculumCode": "AC9SFI02",
     "bank": "test",
-    "skill": "spot hazards",
-    "question": "You are comparing two toy cars. What should stay the same?",
-    "explanation": "Leaving the path and handling unknown berries are unsafe.",
+    "skill": "investigate safely",
+    "question": "A child finds an unknown powder. What should they do?",
+    "explanation": "Unknown powders should not be blown, touched or tasted.",
     "printable": true,
     "type": "single",
     "answers": [
-      "the ramp",
-      "everything changes",
-      "the car colours must change"
+      "Blow it.",
+      "Tell an adult.",
+      "Taste it."
     ],
-    "correct": 0,
-    "visual": "Assessment card\npath | berry ❓",
+    "correct": 1,
+    "audioPrompt": "A child finds an unknown powder. What should they do?",
+    "structuredExplanation": {
+      "summary": "Unknown powders should not be blown, touched or tasted."
+    }
+  },
+  {
     "id": "ac9sfi02-t-011",
-    "audioPrompt": "You are comparing two toy cars. What should stay the same?",
-    "structuredExplanation": {
-      "summary": "Leaving the path and handling unknown berries are unsafe."
-    }
-  },
-  {
     "curriculumCode": "AC9SFI02",
     "bank": "test",
-    "skill": "repair unsafe plan",
-    "question": "What should you do after making an observation?",
-    "explanation": "Walking and careful carrying reduce accidents.",
+    "skill": "observe with sight",
+    "question": "Which shell sentence is a sight observation?",
+    "explanation": "Spots are something that can be seen.",
     "printable": true,
     "type": "single",
     "answers": [
-      "record what you noticed",
-      "hide the result",
-      "change the question"
+      "The shell has spots.",
+      "The shell feels bumpy.",
+      "The shell smells like the sea."
     ],
     "correct": 0,
-    "visual": "Assessment card\n🔍  🚶",
+    "audioPrompt": "Which shell sentence is a sight observation?",
+    "structuredExplanation": {
+      "summary": "Spots are something that can be seen."
+    }
+  },
+  {
     "id": "ac9sfi02-t-012",
-    "audioPrompt": "What should you do after making an observation?",
-    "structuredExplanation": {
-      "summary": "Walking and careful carrying reduce accidents."
-    }
-  },
-  {
     "curriculumCode": "AC9SFI02",
     "bank": "test",
-    "skill": "safe or unsafe action",
-    "question": "A teacher asks you to use a magnifying glass. What should you do?",
-    "explanation": "Safe listening uses a comfortable volume and careful handling.",
+    "skill": "investigate safely",
+    "question": "A class rolls balls down a ramp. What keeps it safe?",
+    "explanation": "Keeping hands away from the ramp helps children observe safely.",
     "printable": true,
     "type": "single",
     "answers": [
-      "use it as shown",
-      "throw it",
-      "look at the Sun through it"
+      "Stand in the ball path.",
+      "Keep hands away from the ramp.",
+      "Throw balls at friends."
     ],
-    "correct": 0,
-    "visual": "Assessment card\n🎧  🔉",
+    "correct": 1,
+    "audioPrompt": "A class rolls balls down a ramp. What keeps it safe?",
+    "structuredExplanation": {
+      "summary": "Keeping hands away from the ramp helps children observe safely."
+    }
+  },
+  {
     "id": "ac9sfi02-t-013",
-    "audioPrompt": "A teacher asks you to use a magnifying glass. What should you do?",
-    "structuredExplanation": {
-      "summary": "Safe listening uses a comfortable volume and careful handling."
-    }
-  },
-  {
     "curriculumCode": "AC9SFI02",
     "bank": "test",
-    "skill": "match sense to observation",
-    "question": "Why might we repeat an observation?",
-    "explanation": "Smell detects odours without tasting.",
+    "skill": "observe with touch",
+    "question": "Which sense helps compare rough and smooth?",
+    "explanation": "Touch helps compare rough and smooth textures.",
     "printable": true,
     "type": "single",
     "answers": [
-      "to check what we noticed",
-      "to make up a new result",
-      "to avoid looking"
+      "Smell",
+      "Hearing",
+      "Touch"
     ],
-    "correct": 0,
-    "visual": "Assessment card\n🌿  👃",
+    "correct": 2,
+    "audioPrompt": "Which sense helps compare rough and smooth?",
+    "structuredExplanation": {
+      "summary": "Touch helps compare rough and smooth textures."
+    }
+  },
+  {
     "id": "ac9sfi02-t-014",
-    "audioPrompt": "Why might we repeat an observation?",
-    "structuredExplanation": {
-      "summary": "Smell detects odours without tasting."
-    }
-  },
-  {
     "curriculumCode": "AC9SFI02",
     "bank": "test",
-    "skill": "sense not to use",
-    "question": "What is a safe way to explore a leaf?",
-    "explanation": "Barriers and hearing protection reduce risk.",
+    "skill": "observe with smell",
+    "question": "A child wants to smell a flower. What should they do first?",
+    "explanation": "The child should ask the teacher before smelling a plant.",
     "printable": true,
     "type": "single",
     "answers": [
-      "look and touch gently",
-      "taste it",
-      "rub it in your eyes"
+      "Ask the teacher.",
+      "Bite the flower.",
+      "Rub it on their face."
     ],
     "correct": 0,
-    "visual": "Assessment card\n⚙️ | barrier | 🥽🎧",
+    "audioPrompt": "A child wants to smell a flower. What should they do first?",
+    "structuredExplanation": {
+      "summary": "The child should ask the teacher before smelling a plant."
+    }
+  },
+  {
     "id": "ac9sfi02-t-015",
-    "audioPrompt": "What is a safe way to explore a leaf?",
-    "structuredExplanation": {
-      "summary": "Barriers and hearing protection reduce risk."
-    }
-  },
-  {
     "curriculumCode": "AC9SFI02",
     "bank": "test",
-    "skill": "choose safe tool",
-    "question": "When the investigation is finished, what should you do?",
-    "explanation": "Gloves can protect hands during approved handling.",
+    "skill": "investigate safely",
+    "question": "Which is a safe observation?",
+    "explanation": "Listening to birds is a safe way to observe.",
     "printable": true,
     "type": "single",
     "answers": [
-      "pack away safely",
-      "leave spills",
-      "hide the tools"
+      "Listen to bird sounds.",
+      "Taste pond water.",
+      "Touch unknown insects."
     ],
     "correct": 0,
-    "visual": "Assessment card\n🧤  ▦",
-    "id": "ac9sfi02-t-016",
-    "audioPrompt": "When the investigation is finished, what should you do?",
+    "audioPrompt": "Which is a safe observation?",
     "structuredExplanation": {
-      "summary": "Gloves can protect hands during approved handling."
+      "summary": "Listening to birds is a safe way to observe."
+    }
+  },
+  {
+    "id": "ac9sfi02-t-016",
+    "curriculumCode": "AC9SFI02",
+    "bank": "test",
+    "skill": "observe with sight",
+    "question": "A child uses a magnifying glass on a leaf. What are they doing?",
+    "explanation": "A magnifying glass helps the child look closely.",
+    "printable": true,
+    "type": "single",
+    "answers": [
+      "Guessing only.",
+      "Hurting the leaf.",
+      "Looking closely."
+    ],
+    "correct": 2,
+    "audioPrompt": "A child uses a magnifying glass on a leaf. What are they doing?",
+    "structuredExplanation": {
+      "summary": "A magnifying glass helps the child look closely."
     }
   }
 ];
-window.quizQuestions = window.skillrTestQuestions;
