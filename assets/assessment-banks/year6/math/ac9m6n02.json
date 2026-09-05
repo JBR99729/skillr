@@ -6,8 +6,8 @@
     "subject": "math",
     "bank": "practice",
     "skill": "prime_composite_and_square_numbers",
-    "question": "During a class investigation, a student reasons, “1 is prime”. Which response corrects the error?",
-    "audio_prompt": "During a class investigation, a student reasons, “1 is prime”. Which response corrects the error?",
+    "question": "Which number is a prime number?",
+    "audio_prompt": "Which number is a prime number?",
     "visual": {
       "type": "none",
       "asset_path": "",
@@ -15,22 +15,22 @@
     },
     "answers": [
       {
-        "text": "Keep the claim because one example is enough.",
+        "text": "20",
         "is_correct": false
       },
       {
-        "text": "One has only one positive factor, so it is neither prime nor composite.",
+        "text": "11",
         "is_correct": true
       },
       {
-        "text": "Make the claim more certain without checking the quantities.",
+        "text": "144",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "One has only one positive factor, so it is neither prime nor composite.",
-      "hint": "Identify the exact misconception, then choose the correction that preserves the mathematics."
+      "summary": "11 is prime.",
+      "hint": "Check the complete factor structure of each number."
     }
   },
   {
@@ -40,8 +40,8 @@
     "subject": "math",
     "bank": "practice",
     "skill": "prime_composite_and_square_numbers",
-    "question": "At the school market, a student reasons, “Odd means prime”. Which response corrects the error?",
-    "audio_prompt": "At the school market, a student reasons, “Odd means prime”. Which response corrects the error?",
+    "question": "Which number is a composite number?",
+    "audio_prompt": "Which number is a composite number?",
     "visual": {
       "type": "none",
       "asset_path": "",
@@ -49,22 +49,22 @@
     },
     "answers": [
       {
-        "text": "Keep the claim because one example is enough.",
+        "text": "23",
         "is_correct": false
       },
       {
-        "text": "Make the claim more certain without checking the quantities.",
+        "text": "59",
         "is_correct": false
       },
       {
-        "text": "9, 15 and 21 are odd composite numbers.",
+        "text": "15",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "9, 15 and 21 are odd composite numbers.",
-      "hint": "Identify the exact misconception, then choose the correction that preserves the mathematics."
+      "summary": "15 is composite.",
+      "hint": "Check the complete factor structure of each number."
     }
   },
   {
@@ -74,8 +74,8 @@
     "subject": "math",
     "bank": "practice",
     "skill": "prime_composite_and_square_numbers",
-    "question": "While planning a garden, a student reasons, “Square and composite treated as exclusive”. Which response corrects the error?",
-    "audio_prompt": "While planning a garden, a student reasons, “Square and composite treated as exclusive”. Which response corrects the error?",
+    "question": "Which number is a square number?",
+    "audio_prompt": "Which number is a square number?",
     "visual": {
       "type": "none",
       "asset_path": "",
@@ -83,22 +83,22 @@
     },
     "answers": [
       {
-        "text": "Most square numbers are composite.",
+        "text": "16",
         "is_correct": true
       },
       {
-        "text": "Keep the claim because one example is enough.",
+        "text": "29",
         "is_correct": false
       },
       {
-        "text": "Make the claim more certain without checking the quantities.",
+        "text": "42",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Most square numbers are composite.",
-      "hint": "Identify the exact misconception, then choose the correction that preserves the mathematics."
+      "summary": "16 is square.",
+      "hint": "Check the complete factor structure of each number."
     }
   },
   {
@@ -108,8 +108,8 @@
     "subject": "math",
     "bank": "practice",
     "skill": "prime_composite_and_square_numbers",
-    "question": "In a robotics challenge, a student reasons, “Factor list stopped too early”. Which response corrects the error?",
-    "audio_prompt": "In a robotics challenge, a student reasons, “Factor list stopped too early”. Which response corrects the error?",
+    "question": "Which number is a prime number?",
+    "audio_prompt": "Which number is a prime number?",
     "visual": {
       "type": "none",
       "asset_path": "",
@@ -117,22 +117,22 @@
     },
     "answers": [
       {
-        "text": "Keep the claim because one example is enough.",
+        "text": "27",
         "is_correct": false
       },
       {
-        "text": "Search systematically through factor pairs to the square root.",
+        "text": "19",
         "is_correct": true
       },
       {
-        "text": "Make the claim more certain without checking the quantities.",
+        "text": "225",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Search systematically through factor pairs to the square root.",
-      "hint": "Identify the exact misconception, then choose the correction that preserves the mathematics."
+      "summary": "19 is prime.",
+      "hint": "Check the complete factor structure of each number."
     }
   },
   {
@@ -142,31 +142,31 @@
     "subject": "math",
     "bank": "practice",
     "skill": "prime_composite_and_square_numbers",
-    "question": "During sports-day planning, a Prime, Composite and Square Numbers organiser labels a row “17”. Which entry belongs in that row?",
-    "audio_prompt": "During sports-day planning, a Prime, Composite and Square Numbers organiser labels a row “17”. Which entry belongs in that row?",
+    "question": "Which number is a composite number?",
+    "audio_prompt": "Which number is a composite number?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6n02.svg#ac9m6n02-p-005",
-      "alt_text": "A Year 6 Prime, Composite and Square Numbers reasoning organiser highlighting 17."
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "factor pairs; classification",
+        "text": "37",
         "is_correct": false
       },
       {
-        "text": "1×18, 2×9, 3×6; composite",
+        "text": "71",
         "is_correct": false
       },
       {
-        "text": "1 × 17; prime",
+        "text": "21",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "The representation connects 17 with 1 × 17; prime.",
-      "hint": "Use the mathematical role of the entry, not a repeated word."
+      "summary": "21 is composite.",
+      "hint": "Check the complete factor structure of each number."
     }
   },
   {
@@ -176,31 +176,31 @@
     "subject": "math",
     "bank": "practice",
     "skill": "prime_composite_and_square_numbers",
-    "question": "At a wildlife centre, a Prime, Composite and Square Numbers organiser labels a row “18”. Which entry belongs in that row?",
-    "audio_prompt": "At a wildlife centre, a Prime, Composite and Square Numbers organiser labels a row “18”. Which entry belongs in that row?",
+    "question": "Which number is a square number?",
+    "audio_prompt": "Which number is a square number?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6n02.svg#ac9m6n02-p-006",
-      "alt_text": "A Year 6 Prime, Composite and Square Numbers reasoning organiser highlighting 18."
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "1×18, 2×9, 3×6; composite",
+        "text": "49",
         "is_correct": true
       },
       {
-        "text": "factor pairs; classification",
+        "text": "41",
         "is_correct": false
       },
       {
-        "text": "1 × 17; prime",
+        "text": "50",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "The representation connects 18 with 1×18, 2×9, 3×6; composite.",
-      "hint": "Use the mathematical role of the entry, not a repeated word."
+      "summary": "49 is square.",
+      "hint": "Check the complete factor structure of each number."
     }
   },
   {
@@ -210,31 +210,31 @@
     "subject": "math",
     "bank": "practice",
     "skill": "prime_composite_and_square_numbers",
-    "question": "While checking a map, a Prime, Composite and Square Numbers organiser labels a row “25”. Which entry belongs in that row?",
-    "audio_prompt": "While checking a map, a Prime, Composite and Square Numbers organiser labels a row “25”. Which entry belongs in that row?",
+    "question": "Which number is a prime number?",
+    "audio_prompt": "Which number is a prime number?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6n02.svg#ac9m6n02-p-007",
-      "alt_text": "A Year 6 Prime, Composite and Square Numbers reasoning organiser highlighting 25."
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "factor pairs; classification",
+        "text": "33",
         "is_correct": false
       },
       {
-        "text": "1×25, 5×5; square and composite",
+        "text": "31",
         "is_correct": true
       },
       {
-        "text": "1 × 17; prime",
+        "text": "324",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "The representation connects 25 with 1×25, 5×5; square and composite.",
-      "hint": "Use the mathematical role of the entry, not a repeated word."
+      "summary": "31 is prime.",
+      "hint": "Check the complete factor structure of each number."
     }
   },
   {
@@ -244,31 +244,31 @@
     "subject": "math",
     "bank": "practice",
     "skill": "prime_composite_and_square_numbers",
-    "question": "In the makerspace, a Prime, Composite and Square Numbers organiser labels a row “1”. Which entry belongs in that row?",
-    "audio_prompt": "In the makerspace, a Prime, Composite and Square Numbers organiser labels a row “1”. Which entry belongs in that row?",
+    "question": "Which number is a composite number?",
+    "audio_prompt": "Which number is a composite number?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6n02.svg#ac9m6n02-p-008",
-      "alt_text": "A Year 6 Prime, Composite and Square Numbers reasoning organiser highlighting 1."
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "factor pairs; classification",
+        "text": "47",
         "is_correct": false
       },
       {
-        "text": "1 × 17; prime",
+        "text": "83",
         "is_correct": false
       },
       {
-        "text": "1 only; neither prime nor composite",
+        "text": "28",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "The representation connects 1 with 1 only; neither prime nor composite.",
-      "hint": "Use the mathematical role of the entry, not a repeated word."
+      "summary": "28 is composite.",
+      "hint": "Check the complete factor structure of each number."
     }
   },
   {
@@ -278,31 +278,31 @@
     "subject": "math",
     "bank": "practice",
     "skill": "prime_composite_and_square_numbers",
-    "question": "During a cooking project, a Prime, Composite and Square Numbers organiser labels a row “recognise 144”. Which entry belongs in that row?",
-    "audio_prompt": "During a cooking project, a Prime, Composite and Square Numbers organiser labels a row “recognise 144”. Which entry belongs in that row?",
+    "question": "Which number is a square number?",
+    "audio_prompt": "Which number is a square number?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6n02.svg#ac9m6n02-p-009",
-      "alt_text": "A Year 6 Prime, Composite and Square Numbers reasoning organiser highlighting recognise 144."
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "12² and composite",
+        "text": "100",
         "is_correct": true
       },
       {
-        "text": "2 × 2 × 3 × 7",
+        "text": "53",
         "is_correct": false
       },
       {
-        "text": "(5²)(4²) = 20² = 400",
+        "text": "55",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "The representation connects recognise 144 with 12² and composite.",
-      "hint": "Use the mathematical role of the entry, not a repeated word."
+      "summary": "100 is square.",
+      "hint": "Check the complete factor structure of each number."
     }
   },
   {
@@ -312,31 +312,31 @@
     "subject": "math",
     "bank": "practice",
     "skill": "prime_composite_and_square_numbers",
-    "question": "At the community fair, a Prime, Composite and Square Numbers organiser labels a row “simplify 25 × 16”. Which entry belongs in that row?",
-    "audio_prompt": "At the community fair, a Prime, Composite and Square Numbers organiser labels a row “simplify 25 × 16”. Which entry belongs in that row?",
+    "question": "Which number is a prime number?",
+    "audio_prompt": "Which number is a prime number?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6n02.svg#ac9m6n02-p-010",
-      "alt_text": "A Year 6 Prime, Composite and Square Numbers reasoning organiser highlighting simplify 25 × 16."
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "2 × 2 × 3 × 7",
+        "text": "42",
         "is_correct": false
       },
       {
-        "text": "(5²)(4²) = 20² = 400",
+        "text": "43",
         "is_correct": true
       },
       {
-        "text": "12² and composite",
+        "text": "441",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "The representation connects simplify 25 × 16 with (5²)(4²) = 20² = 400.",
-      "hint": "Use the mathematical role of the entry, not a repeated word."
+      "summary": "43 is prime.",
+      "hint": "Check the complete factor structure of each number."
     }
   },
   {
@@ -346,31 +346,31 @@
     "subject": "math",
     "bank": "practice",
     "skill": "prime_composite_and_square_numbers",
-    "question": "While organising a library display, a Prime, Composite and Square Numbers organiser labels a row “arrange 29 objects”. Which entry belongs in that row?",
-    "audio_prompt": "While organising a library display, a Prime, Composite and Square Numbers organiser labels a row “arrange 29 objects”. Which entry belongs in that row?",
+    "question": "Which number is a composite number?",
+    "audio_prompt": "Which number is a composite number?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6n02.svg#ac9m6n02-p-011",
-      "alt_text": "A Year 6 Prime, Composite and Square Numbers reasoning organiser highlighting arrange 29 objects."
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "2 × 2 × 3 × 7",
+        "text": "61",
         "is_correct": false
       },
       {
-        "text": "12² and composite",
+        "text": "13",
         "is_correct": false
       },
       {
-        "text": "only 1 × 29 rectangle",
+        "text": "35",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "The representation connects arrange 29 objects with only 1 × 29 rectangle.",
-      "hint": "Use the mathematical role of the entry, not a repeated word."
+      "summary": "35 is composite.",
+      "hint": "Check the complete factor structure of each number."
     }
   },
   {
@@ -380,8 +380,8 @@
     "subject": "math",
     "bank": "practice",
     "skill": "prime_composite_and_square_numbers",
-    "question": "In a science notebook, Which number is prime?",
-    "audio_prompt": "In a science notebook, Which number is prime?",
+    "question": "Which number is a square number?",
+    "audio_prompt": "Which number is a square number?",
     "visual": {
       "type": "none",
       "asset_path": "",
@@ -389,22 +389,22 @@
     },
     "answers": [
       {
-        "text": "29",
+        "text": "169",
         "is_correct": true
       },
       {
-        "text": "21",
+        "text": "67",
         "is_correct": false
       },
       {
-        "text": "27",
+        "text": "15",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "29 follows from the quantities and relationship in the question.",
-      "hint": "Estimate or substitute to reject the tempting misconception."
+      "summary": "169 is square.",
+      "hint": "Check the complete factor structure of each number."
     }
   },
   {
@@ -414,8 +414,8 @@
     "subject": "math",
     "bank": "practice",
     "skill": "prime_composite_and_square_numbers",
-    "question": "During a design challenge, Which statement about 1 is correct?",
-    "audio_prompt": "During a design challenge, Which statement about 1 is correct?",
+    "question": "Which number is a prime number?",
+    "audio_prompt": "Which number is a prime number?",
     "visual": {
       "type": "none",
       "asset_path": "",
@@ -423,22 +423,22 @@
     },
     "answers": [
       {
-        "text": "It is prime",
+        "text": "50",
         "is_correct": false
       },
       {
-        "text": "It is neither prime nor composite",
+        "text": "59",
         "is_correct": true
       },
       {
-        "text": "It is composite",
+        "text": "16",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "It is neither prime nor composite follows from the quantities and relationship in the question.",
-      "hint": "Estimate or substitute to reject the tempting misconception."
+      "summary": "59 is prime.",
+      "hint": "Check the complete factor structure of each number."
     }
   },
   {
@@ -448,8 +448,8 @@
     "subject": "math",
     "bank": "practice",
     "skill": "prime_composite_and_square_numbers",
-    "question": "At the school canteen. The quantities or representation come from a fresh example. a student reasons, “1 is prime”. Which response corrects the error?",
-    "audio_prompt": "At the school canteen. The quantities or representation come from a fresh example. a student reasons, “1 is prime”. Which response corrects the error?",
+    "question": "Which number is a composite number?",
+    "audio_prompt": "Which number is a composite number?",
     "visual": {
       "type": "none",
       "asset_path": "",
@@ -457,22 +457,22 @@
     },
     "answers": [
       {
-        "text": "Keep the claim because one example is enough.",
+        "text": "73",
         "is_correct": false
       },
       {
-        "text": "Make the claim more certain without checking the quantities.",
+        "text": "23",
         "is_correct": false
       },
       {
-        "text": "One has only one positive factor, so it is neither prime nor composite.",
+        "text": "44",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "One has only one positive factor, so it is neither prime nor composite.",
-      "hint": "Identify the exact misconception, then choose the correction that preserves the mathematics."
+      "summary": "44 is composite.",
+      "hint": "Check the complete factor structure of each number."
     }
   },
   {
@@ -482,8 +482,8 @@
     "subject": "math",
     "bank": "practice",
     "skill": "prime_composite_and_square_numbers",
-    "question": "While comparing travel plans. The quantities or representation come from a fresh example. a student reasons, “Odd means prime”. Which response corrects the error?",
-    "audio_prompt": "While comparing travel plans. The quantities or representation come from a fresh example. a student reasons, “Odd means prime”. Which response corrects the error?",
+    "question": "Which number is a square number?",
+    "audio_prompt": "Which number is a square number?",
     "visual": {
       "type": "none",
       "asset_path": "",
@@ -491,22 +491,22 @@
     },
     "answers": [
       {
-        "text": "9, 15 and 21 are odd composite numbers.",
+        "text": "256",
         "is_correct": true
       },
       {
-        "text": "Keep the claim because one example is enough.",
+        "text": "79",
         "is_correct": false
       },
       {
-        "text": "Make the claim more certain without checking the quantities.",
+        "text": "21",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "9, 15 and 21 are odd composite numbers.",
-      "hint": "Identify the exact misconception, then choose the correction that preserves the mathematics."
+      "summary": "256 is square.",
+      "hint": "Check the complete factor structure of each number."
     }
   },
   {
@@ -516,8 +516,8 @@
     "subject": "math",
     "bank": "practice",
     "skill": "prime_composite_and_square_numbers",
-    "question": "In a data workshop. The quantities or representation come from a fresh example. a student reasons, “Square and composite treated as exclusive”. Which response corrects the error?",
-    "audio_prompt": "In a data workshop. The quantities or representation come from a fresh example. a student reasons, “Square and composite treated as exclusive”. Which response corrects the error?",
+    "question": "Which number is a prime number?",
+    "audio_prompt": "Which number is a prime number?",
     "visual": {
       "type": "none",
       "asset_path": "",
@@ -525,22 +525,22 @@
     },
     "answers": [
       {
-        "text": "Keep the claim because one example is enough.",
+        "text": "55",
         "is_correct": false
       },
       {
-        "text": "Most square numbers are composite.",
+        "text": "71",
         "is_correct": true
       },
       {
-        "text": "Make the claim more certain without checking the quantities.",
+        "text": "49",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Most square numbers are composite.",
-      "hint": "Identify the exact misconception, then choose the correction that preserves the mathematics."
+      "summary": "71 is prime.",
+      "hint": "Check the complete factor structure of each number."
     }
   },
   {
@@ -550,8 +550,8 @@
     "subject": "math",
     "bank": "practice",
     "skill": "prime_composite_and_square_numbers",
-    "question": "During a building project. The quantities or representation come from a fresh example. a student reasons, “Factor list stopped too early”. Which response corrects the error?",
-    "audio_prompt": "During a building project. The quantities or representation come from a fresh example. a student reasons, “Factor list stopped too early”. Which response corrects the error?",
+    "question": "Which number is a composite number?",
+    "audio_prompt": "Which number is a composite number?",
     "visual": {
       "type": "none",
       "asset_path": "",
@@ -559,22 +559,22 @@
     },
     "answers": [
       {
-        "text": "Keep the claim because one example is enough.",
+        "text": "89",
         "is_correct": false
       },
       {
-        "text": "Make the claim more certain without checking the quantities.",
+        "text": "37",
         "is_correct": false
       },
       {
-        "text": "Search systematically through factor pairs to the square root.",
+        "text": "52",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Search systematically through factor pairs to the square root.",
-      "hint": "Identify the exact misconception, then choose the correction that preserves the mathematics."
+      "summary": "52 is composite.",
+      "hint": "Check the complete factor structure of each number."
     }
   },
   {
@@ -584,31 +584,31 @@
     "subject": "math",
     "bank": "practice",
     "skill": "prime_composite_and_square_numbers",
-    "question": "At the local pool. The quantities or representation come from a fresh example. a Prime, Composite and Square Numbers organiser labels a row “17”. Which entry belongs in that row?",
-    "audio_prompt": "At the local pool. The quantities or representation come from a fresh example. a Prime, Composite and Square Numbers organiser labels a row “17”. Which entry belongs in that row?",
+    "question": "Which number is a square number?",
+    "audio_prompt": "Which number is a square number?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6n02.svg#ac9m6n02-p-018",
-      "alt_text": "A Year 6 Prime, Composite and Square Numbers reasoning organiser highlighting 17."
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "1 × 17; prime",
+        "text": "361",
         "is_correct": true
       },
       {
-        "text": "factor pairs; classification",
+        "text": "11",
         "is_correct": false
       },
       {
-        "text": "1×18, 2×9, 3×6; composite",
+        "text": "28",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "The representation connects 17 with 1 × 17; prime.",
-      "hint": "Use the mathematical role of the entry, not a repeated word."
+      "summary": "361 is square.",
+      "hint": "Check the complete factor structure of each number."
     }
   },
   {
@@ -618,31 +618,31 @@
     "subject": "math",
     "bank": "practice",
     "skill": "prime_composite_and_square_numbers",
-    "question": "While preparing an excursion. The quantities or representation come from a fresh example. a Prime, Composite and Square Numbers organiser labels a row “18”. Which entry belongs in that row?",
-    "audio_prompt": "While preparing an excursion. The quantities or representation come from a fresh example. a Prime, Composite and Square Numbers organiser labels a row “18”. Which entry belongs in that row?",
+    "question": "Which number is a prime number?",
+    "audio_prompt": "Which number is a prime number?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6n02.svg#ac9m6n02-p-019",
-      "alt_text": "A Year 6 Prime, Composite and Square Numbers reasoning organiser highlighting 18."
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "factor pairs; classification",
+        "text": "15",
         "is_correct": false
       },
       {
-        "text": "1×18, 2×9, 3×6; composite",
+        "text": "83",
         "is_correct": true
       },
       {
-        "text": "1 × 17; prime",
+        "text": "100",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "The representation connects 18 with 1×18, 2×9, 3×6; composite.",
-      "hint": "Use the mathematical role of the entry, not a repeated word."
+      "summary": "83 is prime.",
+      "hint": "Check the complete factor structure of each number."
     }
   },
   {
@@ -652,31 +652,31 @@
     "subject": "math",
     "bank": "practice",
     "skill": "prime_composite_and_square_numbers",
-    "question": "In a games club. The quantities or representation come from a fresh example. a Prime, Composite and Square Numbers organiser labels a row “25”. Which entry belongs in that row?",
-    "audio_prompt": "In a games club. The quantities or representation come from a fresh example. a Prime, Composite and Square Numbers organiser labels a row “25”. Which entry belongs in that row?",
+    "question": "Which number is a composite number?",
+    "audio_prompt": "Which number is a composite number?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6n02.svg#ac9m6n02-p-020",
-      "alt_text": "A Year 6 Prime, Composite and Square Numbers reasoning organiser highlighting 25."
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "factor pairs; classification",
+        "text": "17",
         "is_correct": false
       },
       {
-        "text": "1 × 17; prime",
+        "text": "47",
         "is_correct": false
       },
       {
-        "text": "1×25, 5×5; square and composite",
+        "text": "56",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "The representation connects 25 with 1×25, 5×5; square and composite.",
-      "hint": "Use the mathematical role of the entry, not a repeated word."
+      "summary": "56 is composite.",
+      "hint": "Check the complete factor structure of each number."
     }
   },
   {
@@ -686,31 +686,31 @@
     "subject": "math",
     "bank": "practice",
     "skill": "prime_composite_and_square_numbers",
-    "question": "During an art project. The quantities or representation come from a fresh example. a Prime, Composite and Square Numbers organiser labels a row “1”. Which entry belongs in that row?",
-    "audio_prompt": "During an art project. The quantities or representation come from a fresh example. a Prime, Composite and Square Numbers organiser labels a row “1”. Which entry belongs in that row?",
+    "question": "Which number is a square number?",
+    "audio_prompt": "Which number is a square number?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6n02.svg#ac9m6n02-p-021",
-      "alt_text": "A Year 6 Prime, Composite and Square Numbers reasoning organiser highlighting 1."
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "1 only; neither prime nor composite",
+        "text": "4",
         "is_correct": true
       },
       {
-        "text": "factor pairs; classification",
+        "text": "19",
         "is_correct": false
       },
       {
-        "text": "1 × 17; prime",
+        "text": "35",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "The representation connects 1 with 1 only; neither prime nor composite.",
-      "hint": "Use the mathematical role of the entry, not a repeated word."
+      "summary": "4 is square.",
+      "hint": "Check the complete factor structure of each number."
     }
   },
   {
@@ -720,31 +720,31 @@
     "subject": "math",
     "bank": "practice",
     "skill": "prime_composite_and_square_numbers",
-    "question": "At the recycling station. The quantities or representation come from a fresh example. a Prime, Composite and Square Numbers organiser labels a row “recognise 144”. Which entry belongs in that row?",
-    "audio_prompt": "At the recycling station. The quantities or representation come from a fresh example. a Prime, Composite and Square Numbers organiser labels a row “recognise 144”. Which entry belongs in that row?",
+    "question": "Which number is a prime number?",
+    "audio_prompt": "Which number is a prime number?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6n02.svg#ac9m6n02-p-022",
-      "alt_text": "A Year 6 Prime, Composite and Square Numbers reasoning organiser highlighting recognise 144."
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "2 × 2 × 3 × 7",
+        "text": "21",
         "is_correct": false
       },
       {
-        "text": "12² and composite",
+        "text": "13",
         "is_correct": true
       },
       {
-        "text": "(5²)(4²) = 20² = 400",
+        "text": "169",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "The representation connects recognise 144 with 12² and composite.",
-      "hint": "Use the mathematical role of the entry, not a repeated word."
+      "summary": "13 is prime.",
+      "hint": "Check the complete factor structure of each number."
     }
   },
   {
@@ -754,31 +754,31 @@
     "subject": "math",
     "bank": "practice",
     "skill": "prime_composite_and_square_numbers",
-    "question": "While planning a class survey. The quantities or representation come from a fresh example. a Prime, Composite and Square Numbers organiser labels a row “simplify 25 × 16”. Which entry belongs in that row?",
-    "audio_prompt": "While planning a class survey. The quantities or representation come from a fresh example. a Prime, Composite and Square Numbers organiser labels a row “simplify 25 × 16”. Which entry belongs in that row?",
+    "question": "Which number is a composite number?",
+    "audio_prompt": "Which number is a composite number?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6n02.svg#ac9m6n02-p-023",
-      "alt_text": "A Year 6 Prime, Composite and Square Numbers reasoning organiser highlighting simplify 25 × 16."
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "2 × 2 × 3 × 7",
+        "text": "29",
         "is_correct": false
       },
       {
-        "text": "12² and composite",
+        "text": "61",
         "is_correct": false
       },
       {
-        "text": "(5²)(4²) = 20² = 400",
+        "text": "18",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "The representation connects simplify 25 × 16 with (5²)(4²) = 20² = 400.",
-      "hint": "Use the mathematical role of the entry, not a repeated word."
+      "summary": "18 is composite.",
+      "hint": "Check the complete factor structure of each number."
     }
   },
   {
@@ -788,31 +788,31 @@
     "subject": "math",
     "bank": "practice",
     "skill": "prime_composite_and_square_numbers",
-    "question": "In a coding lesson. The quantities or representation come from a fresh example. a Prime, Composite and Square Numbers organiser labels a row “arrange 29 objects”. Which entry belongs in that row?",
-    "audio_prompt": "In a coding lesson. The quantities or representation come from a fresh example. a Prime, Composite and Square Numbers organiser labels a row “arrange 29 objects”. Which entry belongs in that row?",
+    "question": "Which number is a square number?",
+    "audio_prompt": "Which number is a square number?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6n02.svg#ac9m6n02-p-024",
-      "alt_text": "A Year 6 Prime, Composite and Square Numbers reasoning organiser highlighting arrange 29 objects."
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "only 1 × 29 rectangle",
+        "text": "25",
         "is_correct": true
       },
       {
-        "text": "2 × 2 × 3 × 7",
+        "text": "31",
         "is_correct": false
       },
       {
-        "text": "12² and composite",
+        "text": "44",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "The representation connects arrange 29 objects with only 1 × 29 rectangle.",
-      "hint": "Use the mathematical role of the entry, not a repeated word."
+      "summary": "25 is square.",
+      "hint": "Check the complete factor structure of each number."
     }
   },
   {
@@ -822,8 +822,8 @@
     "subject": "math",
     "bank": "test",
     "skill": "prime_composite_and_square_numbers",
-    "question": "At a coastal research station, another student selected “It is prime”. Reconsider the evidence: Which statement about 1 is correct?",
-    "audio_prompt": "At a coastal research station, another student selected “It is prime”. Reconsider the evidence: Which statement about 1 is correct?",
+    "question": "Which number is a prime number?",
+    "audio_prompt": "Which number is a prime number?",
     "visual": {
       "type": "none",
       "asset_path": "",
@@ -831,22 +831,22 @@
     },
     "answers": [
       {
-        "text": "It is prime",
+        "text": "18",
         "is_correct": false
       },
       {
-        "text": "It is composite",
+        "text": "121",
         "is_correct": false
       },
       {
-        "text": "It is neither prime nor composite",
+        "text": "89",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "It is neither prime nor composite follows from the quantities and relationship in the question.",
-      "hint": "Estimate or substitute to reject the tempting misconception."
+      "summary": "89 is prime.",
+      "hint": "Check the complete factor structure of each number."
     }
   },
   {
@@ -856,8 +856,8 @@
     "subject": "math",
     "bank": "test",
     "skill": "prime_composite_and_square_numbers",
-    "question": "During a museum challenge, another student selected “21”. Reconsider the evidence: Which number is prime?",
-    "audio_prompt": "During a museum challenge, another student selected “21”. Reconsider the evidence: Which number is prime?",
+    "question": "Which number is a square number?",
+    "audio_prompt": "Which number is a square number?",
     "visual": {
       "type": "none",
       "asset_path": "",
@@ -865,22 +865,22 @@
     },
     "answers": [
       {
-        "text": "29",
+        "text": "400",
         "is_correct": true
       },
       {
-        "text": "21",
+        "text": "13",
         "is_correct": false
       },
       {
-        "text": "27",
+        "text": "30",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "29 follows from the quantities and relationship in the question.",
-      "hint": "Estimate or substitute to reject the tempting misconception."
+      "summary": "400 is square.",
+      "hint": "Check the complete factor structure of each number."
     }
   },
   {
@@ -890,31 +890,31 @@
     "subject": "math",
     "bank": "test",
     "skill": "prime_composite_and_square_numbers",
-    "question": "While planning a charity event, a Prime, Composite and Square Numbers organiser contains “only 1 × 29 rectangle”. Which heading best identifies that information?",
-    "audio_prompt": "While planning a charity event, a Prime, Composite and Square Numbers organiser contains “only 1 × 29 rectangle”. Which heading best identifies that information?",
+    "question": "Which number is a composite number?",
+    "audio_prompt": "Which number is a composite number?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6n02.svg#ac9m6n02-t-003",
-      "alt_text": "A Year 6 Prime, Composite and Square Numbers reasoning organiser highlighting arrange 29 objects."
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "factorise 84",
+        "text": "11",
         "is_correct": false
       },
       {
-        "text": "arrange 29 objects",
+        "text": "54",
         "is_correct": true
       },
       {
-        "text": "recognise 144",
+        "text": "41",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "The representation connects arrange 29 objects with only 1 × 29 rectangle.",
-      "hint": "Use the mathematical role of the entry, not a repeated word."
+      "summary": "54 is composite.",
+      "hint": "Check the complete factor structure of each number."
     }
   },
   {
@@ -924,31 +924,31 @@
     "subject": "math",
     "bank": "test",
     "skill": "prime_composite_and_square_numbers",
-    "question": "In an engineering workshop, a Prime, Composite and Square Numbers organiser contains “(5²)(4²) = 20² = 400”. Which heading best identifies that information?",
-    "audio_prompt": "In an engineering workshop, a Prime, Composite and Square Numbers organiser contains “(5²)(4²) = 20² = 400”. Which heading best identifies that information?",
+    "question": "Which number is a prime number?",
+    "audio_prompt": "Which number is a prime number?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6n02.svg#ac9m6n02-t-004",
-      "alt_text": "A Year 6 Prime, Composite and Square Numbers reasoning organiser highlighting simplify 25 × 16."
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "factorise 84",
+        "text": "56",
         "is_correct": false
       },
       {
-        "text": "recognise 144",
+        "text": "64",
         "is_correct": false
       },
       {
-        "text": "simplify 25 × 16",
+        "text": "73",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "The representation connects simplify 25 × 16 with (5²)(4²) = 20² = 400.",
-      "hint": "Use the mathematical role of the entry, not a repeated word."
+      "summary": "73 is prime.",
+      "hint": "Check the complete factor structure of each number."
     }
   },
   {
@@ -958,31 +958,31 @@
     "subject": "math",
     "bank": "test",
     "skill": "prime_composite_and_square_numbers",
-    "question": "At a regional sports carnival, a Prime, Composite and Square Numbers organiser contains “12² and composite”. Which heading best identifies that information?",
-    "audio_prompt": "At a regional sports carnival, a Prime, Composite and Square Numbers organiser contains “12² and composite”. Which heading best identifies that information?",
+    "question": "Which number is a square number?",
+    "audio_prompt": "Which number is a square number?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6n02.svg#ac9m6n02-t-005",
-      "alt_text": "A Year 6 Prime, Composite and Square Numbers reasoning organiser highlighting recognise 144."
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "recognise 144",
+        "text": "289",
         "is_correct": true
       },
       {
-        "text": "factorise 84",
+        "text": "83",
         "is_correct": false
       },
       {
-        "text": "simplify 25 × 16",
+        "text": "24",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "The representation connects recognise 144 with 12² and composite.",
-      "hint": "Use the mathematical role of the entry, not a repeated word."
+      "summary": "289 is square.",
+      "hint": "Check the complete factor structure of each number."
     }
   },
   {
@@ -992,31 +992,31 @@
     "subject": "math",
     "bank": "test",
     "skill": "prime_composite_and_square_numbers",
-    "question": "During a farm survey, a Prime, Composite and Square Numbers organiser contains “1 only; neither prime nor composite”. Which heading best identifies that information?",
-    "audio_prompt": "During a farm survey, a Prime, Composite and Square Numbers organiser contains “1 only; neither prime nor composite”. Which heading best identifies that information?",
+    "question": "Which number is a composite number?",
+    "audio_prompt": "Which number is a composite number?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6n02.svg#ac9m6n02-t-006",
-      "alt_text": "A Year 6 Prime, Composite and Square Numbers reasoning organiser highlighting 1."
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "number",
+        "text": "79",
         "is_correct": false
       },
       {
-        "text": "1",
+        "text": "45",
         "is_correct": true
       },
       {
-        "text": "17",
+        "text": "29",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "The representation connects 1 with 1 only; neither prime nor composite.",
-      "hint": "Use the mathematical role of the entry, not a repeated word."
+      "summary": "45 is composite.",
+      "hint": "Check the complete factor structure of each number."
     }
   },
   {
@@ -1026,31 +1026,31 @@
     "subject": "math",
     "bank": "test",
     "skill": "prime_composite_and_square_numbers",
-    "question": "While interpreting a trail guide, a Prime, Composite and Square Numbers organiser contains “1×25, 5×5; square and composite”. Which heading best identifies that information?",
-    "audio_prompt": "While interpreting a trail guide, a Prime, Composite and Square Numbers organiser contains “1×25, 5×5; square and composite”. Which heading best identifies that information?",
+    "question": "Which number is a prime number?",
+    "audio_prompt": "Which number is a prime number?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6n02.svg#ac9m6n02-t-007",
-      "alt_text": "A Year 6 Prime, Composite and Square Numbers reasoning organiser highlighting 25."
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "number",
-        "is_correct": false
-      },
-      {
-        "text": "17",
+        "text": "52",
         "is_correct": false
       },
       {
         "text": "25",
+        "is_correct": false
+      },
+      {
+        "text": "61",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "The representation connects 25 with 1×25, 5×5; square and composite.",
-      "hint": "Use the mathematical role of the entry, not a repeated word."
+      "summary": "61 is prime.",
+      "hint": "Check the complete factor structure of each number."
     }
   },
   {
@@ -1060,31 +1060,31 @@
     "subject": "math",
     "bank": "test",
     "skill": "prime_composite_and_square_numbers",
-    "question": "In an architecture studio, a Prime, Composite and Square Numbers organiser contains “1×18, 2×9, 3×6; composite”. Which heading best identifies that information?",
-    "audio_prompt": "In an architecture studio, a Prime, Composite and Square Numbers organiser contains “1×18, 2×9, 3×6; composite”. Which heading best identifies that information?",
+    "question": "Which number is a square number?",
+    "audio_prompt": "Which number is a square number?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6n02.svg#ac9m6n02-t-008",
-      "alt_text": "A Year 6 Prime, Composite and Square Numbers reasoning organiser highlighting 18."
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "18",
+        "text": "196",
         "is_correct": true
       },
       {
-        "text": "number",
+        "text": "71",
         "is_correct": false
       },
       {
-        "text": "17",
+        "text": "18",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "The representation connects 18 with 1×18, 2×9, 3×6; composite.",
-      "hint": "Use the mathematical role of the entry, not a repeated word."
+      "summary": "196 is square.",
+      "hint": "Check the complete factor structure of each number."
     }
   },
   {
@@ -1094,31 +1094,31 @@
     "subject": "math",
     "bank": "test",
     "skill": "prime_composite_and_square_numbers",
-    "question": "During a food-truck project, a Prime, Composite and Square Numbers organiser contains “1 × 17; prime”. Which heading best identifies that information?",
-    "audio_prompt": "During a food-truck project, a Prime, Composite and Square Numbers organiser contains “1 × 17; prime”. Which heading best identifies that information?",
+    "question": "Which number is a composite number?",
+    "audio_prompt": "Which number is a composite number?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6n02.svg#ac9m6n02-t-009",
-      "alt_text": "A Year 6 Prime, Composite and Square Numbers reasoning organiser highlighting 17."
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "number",
+        "text": "67",
         "is_correct": false
       },
       {
-        "text": "17",
+        "text": "40",
         "is_correct": true
       },
       {
-        "text": "18",
+        "text": "17",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "The representation connects 17 with 1 × 17; prime.",
-      "hint": "Use the mathematical role of the entry, not a repeated word."
+      "summary": "40 is composite.",
+      "hint": "Check the complete factor structure of each number."
     }
   },
   {
@@ -1128,8 +1128,8 @@
     "subject": "math",
     "bank": "test",
     "skill": "prime_composite_and_square_numbers",
-    "question": "At a music festival, a review recommends, “Search systematically through factor pairs to the square root.” Which claim most clearly needs that correction?",
-    "audio_prompt": "At a music festival, a review recommends, “Search systematically through factor pairs to the square root.” Which claim most clearly needs that correction?",
+    "question": "Which number is a prime number?",
+    "audio_prompt": "Which number is a prime number?",
     "visual": {
       "type": "none",
       "asset_path": "",
@@ -1137,22 +1137,22 @@
     },
     "answers": [
       {
-        "text": "1 is prime",
+        "text": "44",
         "is_correct": false
       },
       {
-        "text": "Odd means prime",
+        "text": "4",
         "is_correct": false
       },
       {
-        "text": "Factor list stopped too early",
+        "text": "47",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Search systematically through factor pairs to the square root.",
-      "hint": "Identify the exact misconception, then choose the correction that preserves the mathematics."
+      "summary": "47 is prime.",
+      "hint": "Check the complete factor structure of each number."
     }
   },
   {
@@ -1162,8 +1162,8 @@
     "subject": "math",
     "bank": "test",
     "skill": "prime_composite_and_square_numbers",
-    "question": "While organising a book drive, a review recommends, “Most square numbers are composite.” Which claim most clearly needs that correction?",
-    "audio_prompt": "While organising a book drive, a review recommends, “Most square numbers are composite.” Which claim most clearly needs that correction?",
+    "question": "Which number is a square number?",
+    "audio_prompt": "Which number is a square number?",
     "visual": {
       "type": "none",
       "asset_path": "",
@@ -1171,22 +1171,22 @@
     },
     "answers": [
       {
-        "text": "Square and composite treated as exclusive",
+        "text": "121",
         "is_correct": true
       },
       {
-        "text": "1 is prime",
+        "text": "59",
         "is_correct": false
       },
       {
-        "text": "Odd means prime",
+        "text": "56",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Most square numbers are composite.",
-      "hint": "Identify the exact misconception, then choose the correction that preserves the mathematics."
+      "summary": "121 is square.",
+      "hint": "Check the complete factor structure of each number."
     }
   },
   {
@@ -1196,8 +1196,8 @@
     "subject": "math",
     "bank": "test",
     "skill": "prime_composite_and_square_numbers",
-    "question": "In an environmental study, a review recommends, “9, 15 and 21 are odd composite numbers.” Which claim most clearly needs that correction?",
-    "audio_prompt": "In an environmental study, a review recommends, “9, 15 and 21 are odd composite numbers.” Which claim most clearly needs that correction?",
+    "question": "Which number is a composite number?",
+    "audio_prompt": "Which number is a composite number?",
     "visual": {
       "type": "none",
       "asset_path": "",
@@ -1205,22 +1205,22 @@
     },
     "answers": [
       {
-        "text": "1 is prime",
+        "text": "53",
         "is_correct": false
       },
       {
-        "text": "Odd means prime",
+        "text": "30",
         "is_correct": true
       },
       {
-        "text": "Square and composite treated as exclusive",
+        "text": "89",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "9, 15 and 21 are odd composite numbers.",
-      "hint": "Identify the exact misconception, then choose the correction that preserves the mathematics."
+      "summary": "30 is composite.",
+      "hint": "Check the complete factor structure of each number."
     }
   },
   {
@@ -1230,8 +1230,8 @@
     "subject": "math",
     "bank": "test",
     "skill": "prime_composite_and_square_numbers",
-    "question": "During a playground redesign, a review recommends, “One has only one positive factor, so it is neither prime nor composite.” Which claim most clearly needs that correction?",
-    "audio_prompt": "During a playground redesign, a review recommends, “One has only one positive factor, so it is neither prime nor composite.” Which claim most clearly needs that correction?",
+    "question": "Which number is a prime number?",
+    "audio_prompt": "Which number is a prime number?",
     "visual": {
       "type": "none",
       "asset_path": "",
@@ -1239,22 +1239,22 @@
     },
     "answers": [
       {
-        "text": "Odd means prime",
+        "text": "35",
         "is_correct": false
       },
       {
-        "text": "Square and composite treated as exclusive",
+        "text": "361",
         "is_correct": false
       },
       {
-        "text": "1 is prime",
+        "text": "37",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "One has only one positive factor, so it is neither prime nor composite.",
-      "hint": "Identify the exact misconception, then choose the correction that preserves the mathematics."
+      "summary": "37 is prime.",
+      "hint": "Check the complete factor structure of each number."
     }
   },
   {
@@ -1264,8 +1264,8 @@
     "subject": "math",
     "bank": "test",
     "skill": "prime_composite_and_square_numbers",
-    "question": "At a transport depot. The quantities or representation come from a fresh example. another student selected “It is prime”. Reconsider the evidence: Which statement about 1 is correct?",
-    "audio_prompt": "At a transport depot. The quantities or representation come from a fresh example. another student selected “It is prime”. Reconsider the evidence: Which statement about 1 is correct?",
+    "question": "Which number is a square number?",
+    "audio_prompt": "Which number is a square number?",
     "visual": {
       "type": "none",
       "asset_path": "",
@@ -1273,22 +1273,22 @@
     },
     "answers": [
       {
-        "text": "It is neither prime nor composite",
+        "text": "64",
         "is_correct": true
       },
       {
-        "text": "It is prime",
+        "text": "43",
         "is_correct": false
       },
       {
-        "text": "It is composite",
+        "text": "52",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "It is neither prime nor composite follows from the quantities and relationship in the question.",
-      "hint": "Estimate or substitute to reject the tempting misconception."
+      "summary": "64 is square.",
+      "hint": "Check the complete factor structure of each number."
     }
   },
   {
@@ -1298,8 +1298,8 @@
     "subject": "math",
     "bank": "test",
     "skill": "prime_composite_and_square_numbers",
-    "question": "While preparing a camping trip. The quantities or representation come from a fresh example. another student selected “21”. Reconsider the evidence: Which number is prime?",
-    "audio_prompt": "While preparing a camping trip. The quantities or representation come from a fresh example. another student selected “21”. Reconsider the evidence: Which number is prime?",
+    "question": "Which number is a composite number?",
+    "audio_prompt": "Which number is a composite number?",
     "visual": {
       "type": "none",
       "asset_path": "",
@@ -1307,22 +1307,22 @@
     },
     "answers": [
       {
-        "text": "21",
+        "text": "41",
         "is_correct": false
       },
       {
-        "text": "29",
+        "text": "24",
         "is_correct": true
       },
       {
-        "text": "27",
+        "text": "73",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "29 follows from the quantities and relationship in the question.",
-      "hint": "Estimate or substitute to reject the tempting misconception."
+      "summary": "24 is composite.",
+      "hint": "Check the complete factor structure of each number."
     }
   },
   {
@@ -1332,31 +1332,31 @@
     "subject": "math",
     "bank": "test",
     "skill": "prime_composite_and_square_numbers",
-    "question": "In a strategy tournament. The quantities or representation come from a fresh example. a Prime, Composite and Square Numbers organiser contains “only 1 × 29 rectangle”. Which heading best identifies that information?",
-    "audio_prompt": "In a strategy tournament. The quantities or representation come from a fresh example. a Prime, Composite and Square Numbers organiser contains “only 1 × 29 rectangle”. Which heading best identifies that information?",
+    "question": "Which number is a prime number?",
+    "audio_prompt": "Which number is a prime number?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6n02.svg#ac9m6n02-t-016",
-      "alt_text": "A Year 6 Prime, Composite and Square Numbers reasoning organiser highlighting arrange 29 objects."
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "factorise 84",
+        "text": "28",
         "is_correct": false
       },
       {
-        "text": "recognise 144",
+        "text": "256",
         "is_correct": false
       },
       {
-        "text": "arrange 29 objects",
+        "text": "23",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "The representation connects arrange 29 objects with only 1 × 29 rectangle.",
-      "hint": "Use the mathematical role of the entry, not a repeated word."
+      "summary": "23 is prime.",
+      "hint": "Check the complete factor structure of each number."
     }
   }
 ]
