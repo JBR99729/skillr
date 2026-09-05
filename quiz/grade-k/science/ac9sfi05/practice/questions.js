@@ -5,15 +5,14 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9SFI05",
     "bank": "practice",
     "skill": "share specific observation",
-    "question": "Which sentence clearly shares the leaf through a magnifier observation?",
+    "question": "What is a good way to share what you observed?",
     "explanation": "A useful report names the observed detail.",
     "printable": true,
     "type": "single",
     "answers": [
-      "I saw tiny branching lines across the leaf",
-      "Something happened",
-      "It was the best",
-      "You know what I mean"
+      "tell the class clearly",
+      "hide the observation",
+      "change the result"
     ],
     "correct": 0,
     "visual": "🌿 🔍"
@@ -23,15 +22,14 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9SFI05",
     "bank": "practice",
     "skill": "label question and prediction",
-    "question": "Which statement is the question?",
+    "question": "What can you add to a science drawing to make it clearer?",
     "explanation": "A question asks what the investigation will find.",
     "printable": true,
     "type": "single",
     "answers": [
-      "Which ball will bounce highest?",
-      "I think the rubber ball will bounce highest",
-      "The observation matched",
-      "The test is complete"
+      "labels",
+      "guesses only",
+      "unrelated stickers"
     ],
     "correct": 0,
     "visual": "1. Which ball will bounce highest?\n2. I think the rubber ball will bounce highest"
@@ -41,15 +39,14 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9SFI05",
     "bank": "practice",
     "skill": "choose communication medium",
-    "question": "What is the clearest way to share the frog-call rhythm?",
+    "question": "When another student is sharing, what should you do?",
     "explanation": "The format directly shows the evidence.",
     "printable": true,
     "type": "single",
     "answers": [
-      "a short audio recording",
-      "an unlabelled colour page",
-      "a silent block model",
-      "a blank envelope"
+      "listen",
+      "shout over them",
+      "walk away"
     ],
     "correct": 0,
     "visual": "🐸 ♪ ♪"
@@ -59,38 +56,37 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9SFI05",
     "bank": "practice",
     "skill": "organise science report",
-    "question": "Order the parts of a short report about investigation 1.",
+    "question": "Which sentence shares an observation?",
     "explanation": "A clear report keeps question, prediction and observation distinct.",
     "printable": true,
-    "type": "order",
+    "type": "single",
     "items": [
       "I think the rubber ball will bounce highest",
       "I saw tiny branching lines across the leaf",
       "Ask the audience for questions",
       "Which ball will bounce highest?"
     ],
-    "correct": [
-      "Which ball will bounce highest?",
-      "I think the rubber ball will bounce highest",
-      "I saw tiny branching lines across the leaf",
-      "Ask the audience for questions"
-    ],
-    "instruction": "Move the cards into the correct order."
+    "correct": 0,
+    "instruction": "Move the cards into the correct order.",
+    "answers": [
+      "The leaf has five spots",
+      "The leaf is happy",
+      "The leaf likes music"
+    ]
   },
   {
     "id": "ac9sfi05-p-005",
     "curriculumCode": "AC9SFI05",
     "bank": "practice",
     "skill": "label a display",
-    "question": "Which addition makes the “Bird visits” display clear? ",
+    "question": "Which sentence shares a result clearly?",
     "explanation": "Labels and a consistent key help others read the evidence.",
     "printable": true,
     "type": "single",
     "answers": [
-      "title, labels and one mark per bird",
-      "bigger decorations only",
-      "a secret code with no key",
-      "remove the numbers"
+      "The ball rolled farther on the smooth floor",
+      "The ball was the nicest",
+      "I changed the answer"
     ],
     "correct": 0,
     "visual": "morning 5 | lunch 2"
@@ -100,15 +96,14 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9SFI05",
     "bank": "practice",
     "skill": "active scientific listening",
-    "question": "A partner says, “I counted five ants near the crumbs.” Which response shows careful listening?",
+    "question": "Why might you show your drawing to a partner?",
     "explanation": "A clarifying question is relevant to the evidence.",
     "printable": true,
     "type": "single",
     "answers": [
-      "Did you count for the same amount of time?",
-      "I was not listening",
-      "That cannot matter",
-      "Let us talk about lunch"
+      "to share what you noticed",
+      "to hide your idea",
+      "to avoid talking about science"
     ],
     "correct": 0,
     "visual": "partner report: I counted five ants near the crumbs"
@@ -118,15 +113,14 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9SFI05",
     "bank": "practice",
     "skill": "cite evidence",
-    "question": "Which sentence best supports the claim “more birds in the morning”?",
+    "question": "What should you say if your observation differs from a partner's?",
     "explanation": "The sentence uses the recorded numbers.",
     "printable": true,
     "type": "single",
     "answers": [
-      "Eight birds were counted in the morning and three at lunch",
-      "The claim feels right",
-      "Everyone agrees",
-      "No records are needed"
+      "explain what you noticed politely",
+      "say they must be wrong",
+      "erase both results"
     ],
     "correct": 0,
     "visual": "morning 8, lunch 3"
@@ -136,15 +130,14 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9SFI05",
     "bank": "practice",
     "skill": "choose format for audience",
-    "question": "Which format best helps families comparing three birds?",
+    "question": "Which is a clear way to share a count?",
     "explanation": "Choose a format that shows the needed feature.",
     "printable": true,
     "type": "single",
     "answers": [
-      "a labelled poster with one section for each bird",
-      "an unrelated food list",
-      "one large colour with no labels",
-      "a hidden result"
+      "We counted four birds",
+      "Birds are the best",
+      "I did not count"
     ],
     "correct": 0,
     "visual": "a labelled poster"
@@ -154,15 +147,14 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9SFI05",
     "bank": "practice",
     "skill": "improve unclear poster",
-    "question": "Which revision makes the poster understandable?",
+    "question": "What is a good way to share what you observed?",
     "explanation": "A title, labels and key explain the evidence.",
     "printable": true,
     "type": "single",
     "answers": [
-      "Bouncing Test; key: one dot = one bounce; observed 3 bounces",
-      "add glitter only",
-      "remove all labels",
-      "replace evidence with an opinion"
+      "tell the class clearly",
+      "hide the observation",
+      "change the result"
     ],
     "correct": 0,
     "visual": "Stuff | ••• | ball"
@@ -172,15 +164,14 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9SFI05",
     "bank": "practice",
     "skill": "explain tool use",
-    "question": "Which explanation clearly and safely describes the magnifying glass and shell?",
+    "question": "What can you add to a science drawing to make it clearer?",
     "explanation": "Good science communication includes purpose and safety.",
     "printable": true,
     "type": "single",
     "answers": [
-      "It makes small surface details look larger; keep it away from direct sunlight",
-      "Use it any way you like",
-      "It gives the answer without observing",
-      "Taste the sample to check"
+      "labels",
+      "guesses only",
+      "unrelated stickers"
     ],
     "correct": 0,
     "visual": "magnifying glass and shell"
@@ -190,15 +181,14 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9SFI05",
     "bank": "practice",
     "skill": "add useful labels",
-    "question": "What would most improve the clay flower?",
+    "question": "When another student is sharing, what should you do?",
     "explanation": "Accurate labels connect the model to observed features.",
     "printable": true,
     "type": "single",
     "answers": [
-      "arrows naming petals, stem, leaves and roots",
-      "cover every part with glitter",
-      "add a secret code",
-      "use a title about food"
+      "listen",
+      "shout over them",
+      "walk away"
     ],
     "correct": 0,
     "visual": "🌼 model"
@@ -208,15 +198,14 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9SFI05",
     "bank": "practice",
     "skill": "communicate uncertainty",
-    "question": "Which statement shares the result honestly?",
+    "question": "Which sentence shares an observation?",
     "explanation": "Good reporting separates evidence from uncertainty.",
     "printable": true,
     "type": "single",
     "answers": [
-      "We observed farther travel, but push strength may also have changed",
-      "This proves the cause forever",
-      "The result must be hidden",
-      "The prediction controls the evidence"
+      "The leaf has five spots",
+      "The leaf is happy",
+      "The leaf likes music"
     ],
     "correct": 0,
     "visual": "car went farther on the smooth ramp"
@@ -226,15 +215,14 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9SFI05",
     "bank": "practice",
     "skill": "share numerical observation",
-    "question": "Which sentence clearly shares the record?",
+    "question": "Which sentence shares a result clearly?",
     "explanation": "Specific counts make the report useful.",
     "printable": true,
     "type": "single",
     "answers": [
-      "We observed two bees and one butterfly in five minutes",
-      "There were some things",
-      "It was amazing",
-      "Everyone knows the result"
+      "The ball rolled farther on the smooth floor",
+      "The ball was the nicest",
+      "I changed the answer"
     ],
     "correct": 0,
     "visual": "bees 2, butterflies 1"
@@ -244,15 +232,14 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9SFI05",
     "bank": "practice",
     "skill": "invite useful audience question",
-    "question": "After reporting “What visits the lavender?”, which audience question is useful?",
+    "question": "Why might you show your drawing to a partner?",
     "explanation": "The question asks about how evidence was collected.",
     "printable": true,
     "type": "single",
     "answers": [
-      "How long did you watch?",
-      "What is your favourite colour?",
-      "Can we ignore the evidence?",
-      "Was the answer fun?"
+      "to share what you noticed",
+      "to hide your idea",
+      "to avoid talking about science"
     ],
     "correct": 0,
     "visual": "What visits the lavender?"
@@ -262,15 +249,14 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9SFI05",
     "bank": "practice",
     "skill": "share specific observation",
-    "question": "Which sentence clearly shares the snail beside a rock observation?",
+    "question": "What should you say if your observation differs from a partner's?",
     "explanation": "A useful report names the observed detail.",
     "printable": true,
     "type": "single",
     "answers": [
-      "The snail moved slowly past the rock",
-      "Something happened",
-      "It was the best",
-      "You know what I mean"
+      "explain what you noticed politely",
+      "say they must be wrong",
+      "erase both results"
     ],
     "correct": 0,
     "visual": "🐌 🪨"
@@ -280,15 +266,14 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9SFI05",
     "bank": "practice",
     "skill": "label question and prediction",
-    "question": "Which statement is the question?",
+    "question": "Which is a clear way to share a count?",
     "explanation": "A question asks what the investigation will find.",
     "printable": true,
     "type": "single",
     "answers": [
-      "What visits the lavender?",
-      "I predict bees will visit",
-      "The observation matched",
-      "The test is complete"
+      "We counted four birds",
+      "Birds are the best",
+      "I did not count"
     ],
     "correct": 0,
     "visual": "1. What visits the lavender?\n2. I predict bees will visit"
@@ -298,15 +283,14 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9SFI05",
     "bank": "practice",
     "skill": "choose communication medium",
-    "question": "What is the clearest way to share the bird colours?",
+    "question": "What is a good way to share what you observed?",
     "explanation": "The format directly shows the evidence.",
     "printable": true,
     "type": "single",
     "answers": [
-      "a labelled photograph",
-      "an audio-only record",
-      "a blank page",
-      "a smell sample"
+      "tell the class clearly",
+      "hide the observation",
+      "change the result"
     ],
     "correct": 0,
     "visual": "🐦 red/blue"
@@ -316,38 +300,37 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9SFI05",
     "bank": "practice",
     "skill": "organise science report",
-    "question": "Order the parts of a short report about investigation 2.",
+    "question": "What can you add to a science drawing to make it clearer?",
     "explanation": "A clear report keeps question, prediction and observation distinct.",
     "printable": true,
-    "type": "order",
+    "type": "single",
     "items": [
       "I predict bees will visit",
       "The snail moved slowly past the rock",
       "Ask the audience for questions",
       "What visits the lavender?"
     ],
-    "correct": [
-      "What visits the lavender?",
-      "I predict bees will visit",
-      "The snail moved slowly past the rock",
-      "Ask the audience for questions"
-    ],
-    "instruction": "Move the cards into the correct order."
+    "correct": 0,
+    "instruction": "Move the cards into the correct order.",
+    "answers": [
+      "labels",
+      "guesses only",
+      "unrelated stickers"
+    ]
   },
   {
     "id": "ac9sfi05-p-019",
     "curriculumCode": "AC9SFI05",
     "bank": "practice",
     "skill": "label a display",
-    "question": "Which addition makes the “Ball bounces” display clear? ",
+    "question": "When another student is sharing, what should you do?",
     "explanation": "Labels and a consistent key help others read the evidence.",
     "printable": true,
     "type": "single",
     "answers": [
-      "title, labels and one mark per bounce",
-      "bigger decorations only",
-      "a secret code with no key",
-      "remove the numbers"
+      "listen",
+      "shout over them",
+      "walk away"
     ],
     "correct": 0,
     "visual": "rubber 4 | cloth 0"
@@ -357,15 +340,14 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9SFI05",
     "bank": "practice",
     "skill": "active scientific listening",
-    "question": "A partner says, “The plant grew three new leaves.” Which response shows careful listening?",
+    "question": "Which sentence shares an observation?",
     "explanation": "A clarifying question is relevant to the evidence.",
     "printable": true,
     "type": "single",
     "answers": [
-      "When did you make each observation?",
-      "I was not listening",
-      "That cannot matter",
-      "Let us talk about lunch"
+      "The leaf has five spots",
+      "The leaf is happy",
+      "The leaf likes music"
     ],
     "correct": 0,
     "visual": "partner report: The plant grew three new leaves"
@@ -375,15 +357,14 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9SFI05",
     "bank": "practice",
     "skill": "cite evidence",
-    "question": "Which sentence best supports the claim “rubber bounced higher”?",
+    "question": "Which sentence shares a result clearly?",
     "explanation": "The sentence uses the recorded numbers.",
     "printable": true,
     "type": "single",
     "answers": [
-      "Rubber bounced five times and cloth once",
-      "The claim feels right",
-      "Everyone agrees",
-      "No records are needed"
+      "The ball rolled farther on the smooth floor",
+      "The ball was the nicest",
+      "I changed the answer"
     ],
     "correct": 0,
     "visual": "rubber 5, cloth 1"
@@ -393,15 +374,14 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9SFI05",
     "bank": "practice",
     "skill": "choose format for audience",
-    "question": "Which format best helps a class hearing a frog rhythm?",
+    "question": "Why might you show your drawing to a partner?",
     "explanation": "Choose a format that shows the needed feature.",
     "printable": true,
     "type": "single",
     "answers": [
-      "a short audio clip with a label",
-      "an unrelated food list",
-      "one large colour with no labels",
-      "a hidden result"
+      "to share what you noticed",
+      "to hide your idea",
+      "to avoid talking about science"
     ],
     "correct": 0,
     "visual": "a short audio clip"
@@ -411,15 +391,14 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9SFI05",
     "bank": "practice",
     "skill": "improve unclear poster",
-    "question": "Which revision makes the poster understandable?",
+    "question": "What should you say if your observation differs from a partner's?",
     "explanation": "A title, labels and key explain the evidence.",
     "printable": true,
     "type": "single",
     "answers": [
-      "Plant Growth; Day 1 and Day 5 labels",
-      "add glitter only",
-      "remove all labels",
-      "replace evidence with an opinion"
+      "explain what you noticed politely",
+      "say they must be wrong",
+      "erase both results"
     ],
     "correct": 0,
     "visual": "Plants | 🌱🌿"
@@ -429,15 +408,14 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9SFI05",
     "bank": "practice",
     "skill": "explain tool use",
-    "question": "Which explanation clearly and safely describes the binoculars and bird?",
+    "question": "Which is a clear way to share a count?",
     "explanation": "Good science communication includes purpose and safety.",
     "printable": true,
     "type": "single",
     "answers": [
-      "They help view the bird from a safe distance; never walk while looking",
-      "Use it any way you like",
-      "It gives the answer without observing",
-      "Taste the sample to check"
+      "We counted four birds",
+      "Birds are the best",
+      "I did not count"
     ],
     "correct": 0,
     "visual": "binoculars and bird"
@@ -447,15 +425,14 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9SFI05",
     "bank": "practice",
     "skill": "add useful labels",
-    "question": "What would most improve the toy car diagram?",
+    "question": "What is a good way to share what you observed?",
     "explanation": "Accurate labels connect the model to observed features.",
     "printable": true,
     "type": "single",
     "answers": [
-      "labels for wheels, body and movement arrow",
-      "cover every part with glitter",
-      "add a secret code",
-      "use a title about food"
+      "tell the class clearly",
+      "hide the observation",
+      "change the result"
     ],
     "correct": 0,
     "visual": "🚗 →"
@@ -465,15 +442,14 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9SFI05",
     "bank": "practice",
     "skill": "communicate uncertainty",
-    "question": "Which statement shares the result honestly?",
+    "question": "What can you add to a science drawing to make it clearer?",
     "explanation": "Good reporting separates evidence from uncertainty.",
     "printable": true,
     "type": "single",
     "answers": [
-      "We observed more growth, but other conditions may differ",
-      "This proves the cause forever",
-      "The result must be hidden",
-      "The prediction controls the evidence"
+      "labels",
+      "guesses only",
+      "unrelated stickers"
     ],
     "correct": 0,
     "visual": "plant grew more near the window"
@@ -483,15 +459,14 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9SFI05",
     "bank": "practice",
     "skill": "share numerical observation",
-    "question": "Which sentence clearly shares the record?",
+    "question": "When another student is sharing, what should you do?",
     "explanation": "Specific counts make the report useful.",
     "printable": true,
     "type": "single",
     "answers": [
-      "The car travelled 120 cm on tile and 45 cm on carpet",
-      "There were some things",
-      "It was amazing",
-      "Everyone knows the result"
+      "listen",
+      "shout over them",
+      "walk away"
     ],
     "correct": 0,
     "visual": "tile 120 cm, carpet 45 cm"
@@ -501,15 +476,14 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9SFI05",
     "bank": "practice",
     "skill": "invite useful audience question",
-    "question": "After reporting “Which ball bounces highest?”, which audience question is useful?",
+    "question": "Which sentence shares an observation?",
     "explanation": "The question asks about how evidence was collected.",
     "printable": true,
     "type": "single",
     "answers": [
-      "Were both balls dropped from the same height?",
-      "What is your favourite colour?",
-      "Can we ignore the evidence?",
-      "Was the answer fun?"
+      "The leaf has five spots",
+      "The leaf is happy",
+      "The leaf likes music"
     ],
     "correct": 0,
     "visual": "Which ball bounces highest?"
@@ -519,15 +493,14 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9SFI05",
     "bank": "practice",
     "skill": "share specific observation",
-    "question": "Which sentence clearly shares the bird at the feeder observation?",
+    "question": "Which sentence shares a result clearly?",
     "explanation": "A useful report names the observed detail.",
     "printable": true,
     "type": "single",
     "answers": [
-      "I counted three birds at the feeder",
-      "Something happened",
-      "It was the best",
-      "You know what I mean"
+      "The ball rolled farther on the smooth floor",
+      "The ball was the nicest",
+      "I changed the answer"
     ],
     "correct": 0,
     "visual": "🐦🐦🐦"
@@ -537,15 +510,14 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9SFI05",
     "bank": "practice",
     "skill": "label question and prediction",
-    "question": "Which statement is the question?",
+    "question": "Why might you show your drawing to a partner?",
     "explanation": "A question asks what the investigation will find.",
     "printable": true,
     "type": "single",
     "answers": [
-      "Which ramp lets the car travel farthest?",
-      "I predict the smooth ramp will",
-      "The observation matched",
-      "The test is complete"
+      "to share what you noticed",
+      "to hide your idea",
+      "to avoid talking about science"
     ],
     "correct": 0,
     "visual": "1. Which ramp lets the car travel farthest?\n2. I predict the smooth ramp will"
@@ -555,15 +527,14 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9SFI05",
     "bank": "practice",
     "skill": "choose communication medium",
-    "question": "What is the clearest way to share the bounce count?",
+    "question": "What should you say if your observation differs from a partner's?",
     "explanation": "The format directly shows the evidence.",
     "printable": true,
     "type": "single",
     "answers": [
-      "a labelled tally or picture graph",
-      "a favourite-colour chart",
-      "an unlabelled drawing",
-      "a lunch list"
+      "explain what you noticed politely",
+      "say they must be wrong",
+      "erase both results"
     ],
     "correct": 0,
     "visual": "🏀 ||||"
@@ -573,38 +544,37 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9SFI05",
     "bank": "practice",
     "skill": "organise science report",
-    "question": "Order the parts of a short report about investigation 3.",
+    "question": "Which is a clear way to share a count?",
     "explanation": "A clear report keeps question, prediction and observation distinct.",
     "printable": true,
-    "type": "order",
+    "type": "single",
     "items": [
       "I predict the smooth ramp will",
       "I counted three birds at the feeder",
       "Ask the audience for questions",
       "Which ramp lets the car travel farthest?"
     ],
-    "correct": [
-      "Which ramp lets the car travel farthest?",
-      "I predict the smooth ramp will",
-      "I counted three birds at the feeder",
-      "Ask the audience for questions"
-    ],
-    "instruction": "Move the cards into the correct order."
+    "correct": 0,
+    "instruction": "Move the cards into the correct order.",
+    "answers": [
+      "We counted four birds",
+      "Birds are the best",
+      "I did not count"
+    ]
   },
   {
     "id": "ac9sfi05-p-033",
     "curriculumCode": "AC9SFI05",
     "bank": "practice",
     "skill": "label a display",
-    "question": "Which addition makes the “Leaf growth” display clear? ",
+    "question": "What is a good way to share what you observed?",
     "explanation": "Labels and a consistent key help others read the evidence.",
     "printable": true,
     "type": "single",
     "answers": [
-      "dates, labels and matching drawings",
-      "bigger decorations only",
-      "a secret code with no key",
-      "remove the numbers"
+      "tell the class clearly",
+      "hide the observation",
+      "change the result"
     ],
     "correct": 0,
     "visual": "Monday 1 | Friday 4"
@@ -614,15 +584,14 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9SFI05",
     "bank": "practice",
     "skill": "active scientific listening",
-    "question": "A partner says, “The ball rolled farther on tile.” Which response shows careful listening?",
+    "question": "What can you add to a science drawing to make it clearer?",
     "explanation": "A clarifying question is relevant to the evidence.",
     "printable": true,
     "type": "single",
     "answers": [
-      "Did you release it the same way?",
-      "I was not listening",
-      "That cannot matter",
-      "Let us talk about lunch"
+      "labels",
+      "guesses only",
+      "unrelated stickers"
     ],
     "correct": 0,
     "visual": "partner report: The ball rolled farther on tile"
@@ -632,15 +601,14 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9SFI05",
     "bank": "practice",
     "skill": "cite evidence",
-    "question": "Which sentence best supports the claim “plant grew taller”?",
+    "question": "When another student is sharing, what should you do?",
     "explanation": "The sentence uses the recorded numbers.",
     "printable": true,
     "type": "single",
     "answers": [
-      "The height increased from 4 cm to 7 cm",
-      "The claim feels right",
-      "Everyone agrees",
-      "No records are needed"
+      "listen",
+      "shout over them",
+      "walk away"
     ],
     "correct": 0,
     "visual": "Monday 4 cm, Friday 7 cm"
@@ -650,15 +618,14 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9SFI05",
     "bank": "practice",
     "skill": "choose format for audience",
-    "question": "Which format best helps students comparing distances?",
+    "question": "Which sentence shares an observation?",
     "explanation": "Choose a format that shows the needed feature.",
     "printable": true,
     "type": "single",
     "answers": [
-      "a simple chart with units",
-      "an unrelated food list",
-      "one large colour with no labels",
-      "a hidden result"
+      "The leaf has five spots",
+      "The leaf is happy",
+      "The leaf likes music"
     ],
     "correct": 0,
     "visual": "a simple chart"
@@ -668,15 +635,14 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9SFI05",
     "bank": "practice",
     "skill": "improve unclear poster",
-    "question": "Which revision makes the poster understandable?",
+    "question": "Which sentence shares a result clearly?",
     "explanation": "A title, labels and key explain the evidence.",
     "printable": true,
     "type": "single",
     "answers": [
-      "Bird Count; time label and one tally per bird",
-      "add glitter only",
-      "remove all labels",
-      "replace evidence with an opinion"
+      "The ball rolled farther on the smooth floor",
+      "The ball was the nicest",
+      "I changed the answer"
     ],
     "correct": 0,
     "visual": "Birds | |||||"
@@ -686,15 +652,14 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9SFI05",
     "bank": "practice",
     "skill": "explain tool use",
-    "question": "Which explanation clearly and safely describes the ruler and seedling?",
+    "question": "Why might you show your drawing to a partner?",
     "explanation": "Good science communication includes purpose and safety.",
     "printable": true,
     "type": "single",
     "answers": [
-      "Start at the soil and read the same units each time",
-      "Use it any way you like",
-      "It gives the answer without observing",
-      "Taste the sample to check"
+      "to share what you noticed",
+      "to hide your idea",
+      "to avoid talking about science"
     ],
     "correct": 0,
     "visual": "ruler and seedling"
@@ -704,15 +669,14 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9SFI05",
     "bank": "practice",
     "skill": "add useful labels",
-    "question": "What would most improve the bird poster?",
+    "question": "What should you say if your observation differs from a partner's?",
     "explanation": "Accurate labels connect the model to observed features.",
     "printable": true,
     "type": "single",
     "answers": [
-      "labels for beak, feathers, wings and feet",
-      "cover every part with glitter",
-      "add a secret code",
-      "use a title about food"
+      "explain what you noticed politely",
+      "say they must be wrong",
+      "erase both results"
     ],
     "correct": 0,
     "visual": "🐦"
@@ -722,15 +686,14 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9SFI05",
     "bank": "practice",
     "skill": "communicate uncertainty",
-    "question": "Which statement shares the result honestly?",
+    "question": "Which is a clear way to share a count?",
     "explanation": "Good reporting separates evidence from uncertainty.",
     "printable": true,
     "type": "single",
     "answers": [
-      "The count was higher, but one day does not prove mornings always win",
-      "This proves the cause forever",
-      "The result must be hidden",
-      "The prediction controls the evidence"
+      "We counted four birds",
+      "Birds are the best",
+      "I did not count"
     ],
     "correct": 0,
     "visual": "more birds came in the morning"
@@ -740,15 +703,14 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9SFI05",
     "bank": "practice",
     "skill": "share numerical observation",
-    "question": "Which sentence clearly shares the record?",
+    "question": "What is a good way to share what you observed?",
     "explanation": "Specific counts make the report useful.",
     "printable": true,
     "type": "single",
     "answers": [
-      "We counted four red and three yellow leaves",
-      "There were some things",
-      "It was amazing",
-      "Everyone knows the result"
+      "tell the class clearly",
+      "hide the observation",
+      "change the result"
     ],
     "correct": 0,
     "visual": "red leaves 4, yellow leaves 3"
@@ -758,15 +720,14 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9SFI05",
     "bank": "practice",
     "skill": "invite useful audience question",
-    "question": "After reporting “Which surface lets the car go farthest?”, which audience question is useful?",
+    "question": "What can you add to a science drawing to make it clearer?",
     "explanation": "The question asks about how evidence was collected.",
     "printable": true,
     "type": "single",
     "answers": [
-      "Was the same car used each time?",
-      "What is your favourite colour?",
-      "Can we ignore the evidence?",
-      "Was the answer fun?"
+      "labels",
+      "guesses only",
+      "unrelated stickers"
     ],
     "correct": 0,
     "visual": "Which surface lets the car go farthest?"
@@ -776,15 +737,14 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9SFI05",
     "bank": "practice",
     "skill": "share specific observation",
-    "question": "Which sentence clearly shares the rubber ball test observation?",
+    "question": "When another student is sharing, what should you do?",
     "explanation": "A useful report names the observed detail.",
     "printable": true,
     "type": "single",
     "answers": [
-      "The ball bounced four times",
-      "Something happened",
-      "It was the best",
-      "You know what I mean"
+      "listen",
+      "shout over them",
+      "walk away"
     ],
     "correct": 0,
     "visual": "🏀 ↗↗↗↗"
@@ -794,15 +754,14 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9SFI05",
     "bank": "practice",
     "skill": "label question and prediction",
-    "question": "Which statement is the question?",
+    "question": "Which sentence shares an observation?",
     "explanation": "A question asks what the investigation will find.",
     "printable": true,
     "type": "single",
     "answers": [
-      "How many leaves will grow?",
-      "I predict two new leaves",
-      "The observation matched",
-      "The test is complete"
+      "The leaf has five spots",
+      "The leaf is happy",
+      "The leaf likes music"
     ],
     "correct": 0,
     "visual": "1. How many leaves will grow?\n2. I predict two new leaves"
@@ -812,15 +771,14 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9SFI05",
     "bank": "practice",
     "skill": "choose communication medium",
-    "question": "What is the clearest way to share the plant height change?",
+    "question": "Which sentence shares a result clearly?",
     "explanation": "The format directly shows the evidence.",
     "printable": true,
     "type": "single",
     "answers": [
-      "dated drawings with labels",
-      "one undated guess",
-      "a song with no measurements",
-      "an empty box"
+      "The ball rolled farther on the smooth floor",
+      "The ball was the nicest",
+      "I changed the answer"
     ],
     "correct": 0,
     "visual": "Day 1 🌱 | Day 5 🌿"
@@ -830,38 +788,37 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9SFI05",
     "bank": "practice",
     "skill": "organise science report",
-    "question": "Order the parts of a short report about investigation 4.",
+    "question": "Why might you show your drawing to a partner?",
     "explanation": "A clear report keeps question, prediction and observation distinct.",
     "printable": true,
-    "type": "order",
+    "type": "single",
     "items": [
       "I predict two new leaves",
       "The ball bounced four times",
       "Ask the audience for questions",
       "How many leaves will grow?"
     ],
-    "correct": [
-      "How many leaves will grow?",
-      "I predict two new leaves",
-      "The ball bounced four times",
-      "Ask the audience for questions"
-    ],
-    "instruction": "Move the cards into the correct order."
+    "correct": 0,
+    "instruction": "Move the cards into the correct order.",
+    "answers": [
+      "to share what you noticed",
+      "to hide your idea",
+      "to avoid talking about science"
+    ]
   },
   {
     "id": "ac9sfi05-p-047",
     "curriculumCode": "AC9SFI05",
     "bank": "practice",
     "skill": "label a display",
-    "question": "Which addition makes the “Ramp distance” display clear? ",
+    "question": "What should you say if your observation differs from a partner's?",
     "explanation": "Labels and a consistent key help others read the evidence.",
     "printable": true,
     "type": "single",
     "answers": [
-      "surface labels and distance units",
-      "bigger decorations only",
-      "a secret code with no key",
-      "remove the numbers"
+      "explain what you noticed politely",
+      "say they must be wrong",
+      "erase both results"
     ],
     "correct": 0,
     "visual": "tile 120 cm | carpet 45 cm"
@@ -871,15 +828,14 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9SFI05",
     "bank": "practice",
     "skill": "active scientific listening",
-    "question": "A partner says, “I heard two frog calls.” Which response shows careful listening?",
+    "question": "Which is a clear way to share a count?",
     "explanation": "A clarifying question is relevant to the evidence.",
     "printable": true,
     "type": "single",
     "answers": [
-      "How long did you listen?",
-      "I was not listening",
-      "That cannot matter",
-      "Let us talk about lunch"
+      "We counted four birds",
+      "Birds are the best",
+      "I did not count"
     ],
     "correct": 0,
     "visual": "partner report: I heard two frog calls"
@@ -889,15 +845,14 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9SFI05",
     "bank": "practice",
     "skill": "cite evidence",
-    "question": "Which sentence best supports the claim “smooth stones were more common”?",
+    "question": "What is a good way to share what you observed?",
     "explanation": "The sentence uses the recorded numbers.",
     "printable": true,
     "type": "single",
     "answers": [
-      "Six smooth and two rough stones were recorded",
-      "The claim feels right",
-      "Everyone agrees",
-      "No records are needed"
+      "tell the class clearly",
+      "hide the observation",
+      "change the result"
     ],
     "correct": 0,
     "visual": "smooth 6, rough 2"
@@ -907,15 +862,14 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9SFI05",
     "bank": "practice",
     "skill": "choose format for audience",
-    "question": "Which format best helps children seeing plant change?",
+    "question": "What can you add to a science drawing to make it clearer?",
     "explanation": "Choose a format that shows the needed feature.",
     "printable": true,
     "type": "single",
     "answers": [
-      "dated drawings in order",
-      "an unrelated food list",
-      "one large colour with no labels",
-      "a hidden result"
+      "labels",
+      "guesses only",
+      "unrelated stickers"
     ],
     "correct": 0,
     "visual": "dated drawings in order"
@@ -925,15 +879,14 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9SFI05",
     "bank": "practice",
     "skill": "improve unclear poster",
-    "question": "Which revision makes the poster understandable?",
+    "question": "When another student is sharing, what should you do?",
     "explanation": "A title, labels and key explain the evidence.",
     "printable": true,
     "type": "single",
     "answers": [
-      "Ramp Distance; surface names and centimetres",
-      "add glitter only",
-      "remove all labels",
-      "replace evidence with an opinion"
+      "listen",
+      "shout over them",
+      "walk away"
     ],
     "correct": 0,
     "visual": "Ramp | 120,45"
@@ -943,15 +896,14 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9SFI05",
     "bank": "practice",
     "skill": "explain tool use",
-    "question": "Which explanation clearly and safely describes the tally card and ants?",
+    "question": "Which sentence shares an observation?",
     "explanation": "Good science communication includes purpose and safety.",
     "printable": true,
     "type": "single",
     "answers": [
-      "Make one mark per ant and count for the stated time",
-      "Use it any way you like",
-      "It gives the answer without observing",
-      "Taste the sample to check"
+      "The leaf has five spots",
+      "The leaf is happy",
+      "The leaf likes music"
     ],
     "correct": 0,
     "visual": "tally card and ants"
@@ -961,15 +913,14 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9SFI05",
     "bank": "practice",
     "skill": "add useful labels",
-    "question": "What would most improve the shoe model?",
+    "question": "Which sentence shares a result clearly?",
     "explanation": "Accurate labels connect the model to observed features.",
     "printable": true,
     "type": "single",
     "answers": [
-      "labels for fabric upper and rubber sole",
-      "cover every part with glitter",
-      "add a secret code",
-      "use a title about food"
+      "The ball rolled farther on the smooth floor",
+      "The ball was the nicest",
+      "I changed the answer"
     ],
     "correct": 0,
     "visual": "👟"
@@ -979,15 +930,14 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9SFI05",
     "bank": "practice",
     "skill": "communicate uncertainty",
-    "question": "Which statement shares the result honestly?",
+    "question": "Why might you show your drawing to a partner?",
     "explanation": "Good reporting separates evidence from uncertainty.",
     "printable": true,
     "type": "single",
     "answers": [
-      "The rubber ball bounced higher in this test; more trials would help",
-      "This proves the cause forever",
-      "The result must be hidden",
-      "The prediction controls the evidence"
+      "to share what you noticed",
+      "to hide your idea",
+      "to avoid talking about science"
     ],
     "correct": 0,
     "visual": "rubber ball bounced higher"
@@ -997,15 +947,14 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9SFI05",
     "bank": "practice",
     "skill": "share numerical observation",
-    "question": "Which sentence clearly shares the record?",
+    "question": "What should you say if your observation differs from a partner's?",
     "explanation": "Specific counts make the report useful.",
     "printable": true,
     "type": "single",
     "answers": [
-      "The rubber ball bounced five times; the cloth ball did not bounce",
-      "There were some things",
-      "It was amazing",
-      "Everyone knows the result"
+      "explain what you noticed politely",
+      "say they must be wrong",
+      "erase both results"
     ],
     "correct": 0,
     "visual": "rubber bounces 5, cloth 0"
@@ -1015,15 +964,14 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9SFI05",
     "bank": "practice",
     "skill": "invite useful audience question",
-    "question": "After reporting “How many leaves grow?”, which audience question is useful?",
+    "question": "Which is a clear way to share a count?",
     "explanation": "The question asks about how evidence was collected.",
     "printable": true,
     "type": "single",
     "answers": [
-      "When were the leaves counted?",
-      "What is your favourite colour?",
-      "Can we ignore the evidence?",
-      "Was the answer fun?"
+      "We counted four birds",
+      "Birds are the best",
+      "I did not count"
     ],
     "correct": 0,
     "visual": "How many leaves grow?"

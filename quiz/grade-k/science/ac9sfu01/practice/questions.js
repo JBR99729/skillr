@@ -41,15 +41,14 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9SFU01",
     "bank": "practice",
     "skill": "group animals by feature",
-    "question": "Which feature explains the first group?",
+    "question": "Which feature can you see on a cat?",
     "explanation": "The group uses an observable external feature.",
     "printable": true,
     "type": "single",
     "answers": [
       "fur",
-      "size",
-      "friendliness",
-      "speed"
+      "heartbeat",
+      "thoughts"
     ],
     "correct": 0,
     "visual": "🐈 🐕 | 🦎 🦜"
@@ -59,20 +58,16 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9SFU01",
     "bank": "practice",
     "skill": "identify shared features",
-    "question": "Select the two features both items share.",
+    "question": "Which animal has fins?",
     "explanation": "Both features can be seen on each item.",
     "printable": true,
-    "type": "multiple",
+    "type": "single",
     "answers": [
-      "fur",
-      "four legs",
-      "same colour",
-      "same size"
+      "fish",
+      "dog",
+      "ant"
     ],
-    "correct": [
-      0,
-      1
-    ],
+    "correct": 0,
     "visual": "🐈 🐕"
   },
   {
@@ -98,15 +93,14 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9SFU01",
     "bank": "practice",
     "skill": "use magnification",
-    "question": "What extra external detail could the magnifier reveal on the flower?",
+    "question": "Which part of a plant is usually green and flat?",
     "explanation": "Magnification reveals small surface details.",
     "printable": true,
     "type": "single",
     "answers": [
-      "tiny lines on petals and pollen",
-      "the object’s thoughts",
-      "its hidden heart",
-      "its favourite place"
+      "leaf",
+      "root",
+      "seed"
     ],
     "correct": 0,
     "visual": "🌼 🔍"
@@ -116,15 +110,14 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9SFU01",
     "bank": "practice",
     "skill": "recognise different valid groupings",
-    "question": "Which pair gives two different visible-feature rules for the same collection?",
+    "question": "Which animal has a shell on the outside of its body?",
     "explanation": "A collection can be sorted in more than one useful way.",
     "printable": true,
     "type": "single",
     "answers": [
-      "wings / no wings; two legs / more than two legs",
-      "friendly / unfriendly; happy / sad",
-      "fast / slow; likes people / not",
-      "inside / outside; favourite food"
+      "turtle",
+      "rabbit",
+      "fish"
     ],
     "correct": 0,
     "visual": "🦋 🐦 🐜 🦘"
@@ -134,15 +127,14 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9SFU01",
     "bank": "practice",
     "skill": "overlapping groups",
-    "question": "Where could the platypus belong?",
+    "question": "Which feature can you see on a butterfly?",
     "explanation": "It has both visible features, so overlapping groups can show both.",
     "printable": true,
     "type": "single",
     "answers": [
-      "fur group and bill group",
-      "only one group is allowed",
-      "neither group",
-      "the colour group only"
+      "wings",
+      "bones",
+      "thoughts"
     ],
     "correct": 0,
     "visual": "🦫 fur + bill"
@@ -152,15 +144,14 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9SFU01",
     "bank": "practice",
     "skill": "use two-step sort",
-    "question": "Which two-step plan can sort every item using visible features?",
+    "question": "Which feature can you see on a duck?",
     "explanation": "Both steps use observable features.",
     "printable": true,
     "type": "single",
     "answers": [
-      "flowers / no flowers, then fruit / no fruit",
-      "nice / not nice, then favourite colour",
-      "old / young, then thoughts",
-      "fast / slow, then memory"
+      "feathers",
+      "thoughts",
+      "hunger"
     ],
     "correct": 0,
     "visual": "🌿 🌼 🍊 🌱"
@@ -170,15 +161,14 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9SFU01",
     "bank": "practice",
     "skill": "choose strongest shared pattern",
-    "question": "Which pattern is supported across all shown fish?",
+    "question": "Which part of a plant usually grows under the soil?",
     "explanation": "The shared features are visible on every example.",
     "printable": true,
     "type": "single",
     "answers": [
-      "fins and scales",
-      "same colour",
-      "same size",
-      "same behaviour"
+      "root",
+      "flower",
+      "leaf"
     ],
     "correct": 0,
     "visual": "🐟 🐠 🐟"
@@ -224,15 +214,14 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9SFU01",
     "bank": "practice",
     "skill": "separate evidence from claim",
-    "question": "Which observation is supported by the image?",
+    "question": "What covers most of a bird's body?",
     "explanation": "The statement reports visible evidence.",
     "printable": true,
     "type": "single",
     "answers": [
-      "many tiny overlapping pieces",
-      "it remembers every place",
-      "it is the happiest",
-      "it likes warm weather"
+      "feathers",
+      "scales",
+      "bark"
     ],
     "correct": 0,
     "visual": "🦋 🔍"
@@ -242,15 +231,14 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9SFU01",
     "bank": "practice",
     "skill": "compare classification rules",
-    "question": "One child groups by feathers; another by swimming. Which statement is best?",
+    "question": "Which part of a plant is usually green and flat?",
     "explanation": "The curriculum focus is observable external features.",
     "printable": true,
     "type": "single",
     "answers": [
-      "Feathers is the direct external-feature rule",
-      "both rules are hidden internal features",
-      "neither rule can be useful",
-      "behaviour and external features are identical"
+      "leaf",
+      "root",
+      "seed"
     ],
     "correct": 0,
     "visual": "🦆 🐧 🐦"
@@ -296,15 +284,14 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9SFU01",
     "bank": "practice",
     "skill": "group animals by feature",
-    "question": "Which feature explains the first group?",
+    "question": "Which feature can you see on a duck?",
     "explanation": "The group uses an observable external feature.",
     "printable": true,
     "type": "single",
     "answers": [
-      "fur",
-      "size",
-      "friendliness",
-      "speed"
+      "feathers",
+      "thoughts",
+      "hunger"
     ],
     "correct": 0,
     "visual": "🐇 🐁 | 🐍 🐟"
@@ -314,20 +301,16 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9SFU01",
     "bank": "practice",
     "skill": "identify shared features",
-    "question": "Select the two features both items share.",
+    "question": "Which part of a plant usually grows under the soil?",
     "explanation": "Both features can be seen on each item.",
     "printable": true,
-    "type": "multiple",
+    "type": "single",
     "answers": [
-      "eyes",
-      "legs",
-      "same colour",
-      "same size"
+      "root",
+      "flower",
+      "leaf"
     ],
-    "correct": [
-      0,
-      1
-    ],
+    "correct": 0,
     "visual": "🧒 🐕"
   },
   {
@@ -353,15 +336,14 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9SFU01",
     "bank": "practice",
     "skill": "use magnification",
-    "question": "What extra external detail could the magnifier reveal on the moth wing?",
+    "question": "Which animal has fins?",
     "explanation": "Magnification reveals small surface details.",
     "printable": true,
     "type": "single",
     "answers": [
-      "tiny overlapping scales",
-      "the object’s thoughts",
-      "its hidden heart",
-      "its favourite place"
+      "fish",
+      "dog",
+      "ant"
     ],
     "correct": 0,
     "visual": "🦋 🔍"
@@ -371,15 +353,14 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9SFU01",
     "bank": "practice",
     "skill": "recognise different valid groupings",
-    "question": "Which pair gives two different visible-feature rules for the same collection?",
+    "question": "What covers most of a bird's body?",
     "explanation": "A collection can be sorted in more than one useful way.",
     "printable": true,
     "type": "single",
     "answers": [
-      "fur / no fur; four legs / not four legs",
-      "friendly / unfriendly; happy / sad",
-      "fast / slow; likes people / not",
-      "inside / outside; favourite food"
+      "feathers",
+      "scales",
+      "bark"
     ],
     "correct": 0,
     "visual": "🐈 🦆 🐟 🐇"
@@ -389,15 +370,14 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9SFU01",
     "bank": "practice",
     "skill": "overlapping groups",
-    "question": "Where could the bat belong?",
+    "question": "Which part of a plant is usually green and flat?",
     "explanation": "It has both visible features, so overlapping groups can show both.",
     "printable": true,
     "type": "single",
     "answers": [
-      "fur group and wings group",
-      "only one group is allowed",
-      "neither group",
-      "the colour group only"
+      "leaf",
+      "root",
+      "seed"
     ],
     "correct": 0,
     "visual": "🦇 fur + wings"
@@ -407,15 +387,14 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9SFU01",
     "bank": "practice",
     "skill": "use two-step sort",
-    "question": "Which two-step plan can sort every item using visible features?",
+    "question": "Which animal has a shell on the outside of its body?",
     "explanation": "Both steps use observable features.",
     "printable": true,
     "type": "single",
     "answers": [
-      "fur / no fur, then four legs / not",
-      "nice / not nice, then favourite colour",
-      "old / young, then thoughts",
-      "fast / slow, then memory"
+      "turtle",
+      "rabbit",
+      "fish"
     ],
     "correct": 0,
     "visual": "🐈 🦆 🐟 🐇"
@@ -425,15 +404,14 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9SFU01",
     "bank": "practice",
     "skill": "choose strongest shared pattern",
-    "question": "Which pattern is supported across all shown birds?",
+    "question": "Which feature can you see on a butterfly?",
     "explanation": "The shared features are visible on every example.",
     "printable": true,
     "type": "single",
     "answers": [
-      "feathers and beaks",
-      "all can fly",
-      "same size",
-      "same behaviour"
+      "wings",
+      "bones",
+      "thoughts"
     ],
     "correct": 0,
     "visual": "🐦 🦆 🪶"
@@ -479,15 +457,14 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9SFU01",
     "bank": "practice",
     "skill": "separate evidence from claim",
-    "question": "Which observation is supported by the image?",
+    "question": "Which feature can you see on a cat?",
     "explanation": "The statement reports visible evidence.",
     "printable": true,
     "type": "single",
     "answers": [
-      "branching roots and green stem",
-      "it remembers every place",
-      "it is the happiest",
-      "it likes warm weather"
+      "fur",
+      "heartbeat",
+      "thoughts"
     ],
     "correct": 0,
     "visual": "🌱"
@@ -497,15 +474,14 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9SFU01",
     "bank": "practice",
     "skill": "compare classification rules",
-    "question": "One child groups by fur; another by running. Which statement is best?",
+    "question": "Which animal has fins?",
     "explanation": "The curriculum focus is observable external features.",
     "printable": true,
     "type": "single",
     "answers": [
-      "Fur is the direct external-feature rule",
-      "both rules are hidden internal features",
-      "neither rule can be useful",
-      "behaviour and external features are identical"
+      "fish",
+      "dog",
+      "ant"
     ],
     "correct": 0,
     "visual": "🐈 🐕 🐇"
@@ -551,15 +527,14 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9SFU01",
     "bank": "practice",
     "skill": "group animals by feature",
-    "question": "Which feature explains the first group?",
+    "question": "Which animal has a shell on the outside of its body?",
     "explanation": "The group uses an observable external feature.",
     "printable": true,
     "type": "single",
     "answers": [
-      "wings",
-      "size",
-      "friendliness",
-      "speed"
+      "turtle",
+      "rabbit",
+      "fish"
     ],
     "correct": 0,
     "visual": "🦆 🐦 | 🐕 🐌"
@@ -569,20 +544,16 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9SFU01",
     "bank": "practice",
     "skill": "identify shared features",
-    "question": "Select the two features both items share.",
+    "question": "Which feature can you see on a butterfly?",
     "explanation": "Both features can be seen on each item.",
     "printable": true,
-    "type": "multiple",
+    "type": "single",
     "answers": [
-      "feathers",
       "wings",
-      "same colour",
-      "same size"
+      "bones",
+      "thoughts"
     ],
-    "correct": [
-      0,
-      1
-    ],
+    "correct": 0,
     "visual": "🦆 🐧"
   },
   {
@@ -608,15 +579,14 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9SFU01",
     "bank": "practice",
     "skill": "use magnification",
-    "question": "What extra external detail could the magnifier reveal on the leaf?",
+    "question": "Which part of a plant usually grows under the soil?",
     "explanation": "Magnification reveals small surface details.",
     "printable": true,
     "type": "single",
     "answers": [
-      "small veins and edge hairs",
-      "the object’s thoughts",
-      "its hidden heart",
-      "its favourite place"
+      "root",
+      "flower",
+      "leaf"
     ],
     "correct": 0,
     "visual": "🌿 🔍"
@@ -626,15 +596,14 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9SFU01",
     "bank": "practice",
     "skill": "recognise different valid groupings",
-    "question": "Which pair gives two different visible-feature rules for the same collection?",
+    "question": "Which feature can you see on a cat?",
     "explanation": "A collection can be sorted in more than one useful way.",
     "printable": true,
     "type": "single",
     "answers": [
-      "flowers / no flowers; wide leaves / narrow leaves",
-      "friendly / unfriendly; happy / sad",
-      "fast / slow; likes people / not",
-      "inside / outside; favourite food"
+      "fur",
+      "heartbeat",
+      "thoughts"
     ],
     "correct": 0,
     "visual": "🌹 🌿 🌱 🍊"
@@ -644,15 +613,14 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9SFU01",
     "bank": "practice",
     "skill": "overlapping groups",
-    "question": "Where could the duck belong?",
+    "question": "Which animal has fins?",
     "explanation": "It has both visible features, so overlapping groups can show both.",
     "printable": true,
     "type": "single",
     "answers": [
-      "feathers group and webbed-feet group",
-      "only one group is allowed",
-      "neither group",
-      "the colour group only"
+      "fish",
+      "dog",
+      "ant"
     ],
     "correct": 0,
     "visual": "🦆 feathers + webbed feet"
@@ -662,15 +630,14 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9SFU01",
     "bank": "practice",
     "skill": "use two-step sort",
-    "question": "Which two-step plan can sort every item using visible features?",
+    "question": "What covers most of a bird's body?",
     "explanation": "Both steps use observable features.",
     "printable": true,
     "type": "single",
     "answers": [
-      "legs / no legs, then shell / no shell",
-      "nice / not nice, then favourite colour",
-      "old / young, then thoughts",
-      "fast / slow, then memory"
+      "feathers",
+      "scales",
+      "bark"
     ],
     "correct": 0,
     "visual": "🕷️ 🪲 🪱 🐌"
@@ -680,14 +647,14 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9SFU01",
     "bank": "practice",
     "skill": "choose strongest shared pattern",
-    "question": "Which pattern is supported across all shown flowers?",
+    "question": "Which part of a plant is usually green and flat?",
     "explanation": "The shared features are visible on every example.",
     "printable": true,
     "type": "single",
     "answers": [
-      "stems and petals",
-      "same size",
-      "same behaviour"
+      "leaf",
+      "root",
+      "seed"
     ],
     "correct": 0,
     "visual": "🌹 🌼 🌻"
@@ -733,15 +700,14 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9SFU01",
     "bank": "practice",
     "skill": "separate evidence from claim",
-    "question": "Which observation is supported by the image?",
+    "question": "Which feature can you see on a duck?",
     "explanation": "The statement reports visible evidence.",
     "printable": true,
     "type": "single",
     "answers": [
-      "fins and scales",
-      "it remembers every place",
-      "it is the happiest",
-      "it likes warm weather"
+      "feathers",
+      "thoughts",
+      "hunger"
     ],
     "correct": 0,
     "visual": "🐟"
@@ -751,15 +717,14 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9SFU01",
     "bank": "practice",
     "skill": "compare classification rules",
-    "question": "One child groups by flowers; another by growing fast. Which statement is best?",
+    "question": "Which part of a plant usually grows under the soil?",
     "explanation": "The curriculum focus is observable external features.",
     "printable": true,
     "type": "single",
     "answers": [
-      "Flowers is the direct external-feature rule",
-      "both rules are hidden internal features",
-      "neither rule can be useful",
-      "behaviour and external features are identical"
+      "root",
+      "flower",
+      "leaf"
     ],
     "correct": 0,
     "visual": "🌹 🌼 🍊"
@@ -805,15 +770,14 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9SFU01",
     "bank": "practice",
     "skill": "group animals by feature",
-    "question": "Which feature explains the first group?",
+    "question": "What covers most of a bird's body?",
     "explanation": "The group uses an observable external feature.",
     "printable": true,
     "type": "single",
     "answers": [
-      "visible legs",
-      "size",
-      "friendliness",
-      "speed"
+      "feathers",
+      "scales",
+      "bark"
     ],
     "correct": 0,
     "visual": "🕷️ 🪲 | 🐌 🪱"
@@ -823,20 +787,16 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9SFU01",
     "bank": "practice",
     "skill": "identify shared features",
-    "question": "Select the two features both items share.",
+    "question": "Which part of a plant is usually green and flat?",
     "explanation": "Both features can be seen on each item.",
     "printable": true,
-    "type": "multiple",
+    "type": "single",
     "answers": [
-      "stems",
-      "petals",
-      "same colour",
-      "same size"
+      "leaf",
+      "root",
+      "seed"
     ],
-    "correct": [
-      0,
-      1
-    ],
+    "correct": 0,
     "visual": "🌹 🌼"
   },
   {
@@ -862,15 +822,14 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9SFU01",
     "bank": "practice",
     "skill": "use magnification",
-    "question": "What extra external detail could the magnifier reveal on the shell?",
+    "question": "Which feature can you see on a butterfly?",
     "explanation": "Magnification reveals small surface details.",
     "printable": true,
     "type": "single",
     "answers": [
-      "fine ridges and spots",
-      "the object’s thoughts",
-      "its hidden heart",
-      "its favourite place"
+      "wings",
+      "bones",
+      "thoughts"
     ],
     "correct": 0,
     "visual": "🐚 🔍"
@@ -880,15 +839,14 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9SFU01",
     "bank": "practice",
     "skill": "recognise different valid groupings",
-    "question": "Which pair gives two different visible-feature rules for the same collection?",
+    "question": "Which feature can you see on a duck?",
     "explanation": "A collection can be sorted in more than one useful way.",
     "printable": true,
     "type": "single",
     "answers": [
-      "visible legs / no visible legs; shell / no shell",
-      "friendly / unfriendly; happy / sad",
-      "fast / slow; likes people / not",
-      "inside / outside; favourite food"
+      "feathers",
+      "thoughts",
+      "hunger"
     ],
     "correct": 0,
     "visual": "🕷️ 🪲 🪱 🐌"
@@ -898,15 +856,14 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9SFU01",
     "bank": "practice",
     "skill": "overlapping groups",
-    "question": "Where could the citrus plant belong?",
+    "question": "Which part of a plant usually grows under the soil?",
     "explanation": "It has both visible features, so overlapping groups can show both.",
     "printable": true,
     "type": "single",
     "answers": [
-      "flowers group and fruit group",
-      "only one group is allowed",
-      "neither group",
-      "the colour group only"
+      "root",
+      "flower",
+      "leaf"
     ],
     "correct": 0,
     "visual": "🍊 flowers + fruit"
@@ -916,15 +873,14 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9SFU01",
     "bank": "practice",
     "skill": "use two-step sort",
-    "question": "Which two-step plan can sort every item using visible features?",
+    "question": "Which feature can you see on a cat?",
     "explanation": "Both steps use observable features.",
     "printable": true,
     "type": "single",
     "answers": [
-      "flowers / no flowers, then broad / narrow leaves",
-      "nice / not nice, then favourite colour",
-      "old / young, then thoughts",
-      "fast / slow, then memory"
+      "fur",
+      "heartbeat",
+      "thoughts"
     ],
     "correct": 0,
     "visual": "🌹 🌻 🌲 🌱"
@@ -934,15 +890,14 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9SFU01",
     "bank": "practice",
     "skill": "choose strongest shared pattern",
-    "question": "Which pattern is supported across all shown mammals?",
+    "question": "Which animal has fins?",
     "explanation": "The shared features are visible on every example.",
     "printable": true,
     "type": "single",
     "answers": [
-      "fur and eyes",
-      "same ear shape",
-      "same size",
-      "same behaviour"
+      "fish",
+      "dog",
+      "ant"
     ],
     "correct": 0,
     "visual": "🐈 🐇 🐕"
@@ -988,15 +943,14 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9SFU01",
     "bank": "practice",
     "skill": "separate evidence from claim",
-    "question": "Which observation is supported by the image?",
+    "question": "Which animal has a shell on the outside of its body?",
     "explanation": "The statement reports visible evidence.",
     "printable": true,
     "type": "single",
     "answers": [
-      "petal lines and pollen",
-      "it remembers every place",
-      "it is the happiest",
-      "it likes warm weather"
+      "turtle",
+      "rabbit",
+      "fish"
     ],
     "correct": 0,
     "visual": "🌼 🔍"
@@ -1006,15 +960,14 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9SFU01",
     "bank": "practice",
     "skill": "compare classification rules",
-    "question": "One child groups by visible legs; another by living outside. Which statement is best?",
+    "question": "Which feature can you see on a butterfly?",
     "explanation": "The curriculum focus is observable external features.",
     "printable": true,
     "type": "single",
     "answers": [
-      "Visible legs is the direct external-feature rule",
-      "both rules are hidden internal features",
-      "neither rule can be useful",
-      "behaviour and external features are identical"
+      "wings",
+      "bones",
+      "thoughts"
     ],
     "correct": 0,
     "visual": "🕷️ 🪲 🐜"

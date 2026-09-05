@@ -5,15 +5,14 @@ window.skillrTestQuestions = [
     "curriculumCode": "AC9SFU03",
     "bank": "test",
     "skill": "select properties",
-    "question": "Which pair describes the sample?",
+    "question": "What material is a metal spoon made from?",
     "explanation": "Both are observable properties.",
     "printable": true,
     "type": "single",
     "answers": [
-      "transparent and hard",
-      "hungry and friendly",
-      "fast and slow",
-      "alive and growing"
+      "metal",
+      "paper",
+      "fabric"
     ],
     "correct": 0,
     "visual": "▱"
@@ -23,15 +22,14 @@ window.skillrTestQuestions = [
     "curriculumCode": "AC9SFU03",
     "bank": "test",
     "skill": "identify two materials",
-    "question": "Which statement correctly names two materials and parts?",
+    "question": "How does cotton wool usually feel?",
     "explanation": "Composite objects can use different materials.",
     "printable": true,
     "type": "single",
     "answers": [
-      "fabric upper and rubber sole",
-      "every part is metal",
-      "colour is a material",
-      "the object has only one substance"
+      "soft",
+      "hard",
+      "sharp"
     ],
     "correct": 0,
     "visual": "👟"
@@ -41,15 +39,14 @@ window.skillrTestQuestions = [
     "curriculumCode": "AC9SFU03",
     "bank": "test",
     "skill": "link property to evidence",
-    "question": "Which observation supports the property?",
+    "question": "Which material can stretch?",
     "explanation": "The statement describes a visible response.",
     "printable": true,
     "type": "single",
     "answers": [
-      "becomes longer when gently pulled and returns",
-      "it changes into metal",
-      "it has thoughts",
-      "colour never changes"
+      "rubber",
+      "glass",
+      "rock"
     ],
     "correct": 0,
     "visual": "⭕"
@@ -59,15 +56,14 @@ window.skillrTestQuestions = [
     "curriculumCode": "AC9SFU03",
     "bank": "test",
     "skill": "correct unsupported label",
-    "question": "Why should the label be changed?",
+    "question": "Which material is usually clear?",
     "explanation": "Use only safely observed evidence.",
     "printable": true,
     "type": "single",
     "answers": [
-      "The inside was not observed; use hard or opaque outside",
-      "the label is always correct",
-      "hidden properties can be guessed",
-      "evidence is unnecessary"
+      "glass",
+      "wood",
+      "cardboard"
     ],
     "correct": 0,
     "visual": "sealed wooden block labelled soft inside"
@@ -77,15 +73,14 @@ window.skillrTestQuestions = [
     "curriculumCode": "AC9SFU03",
     "bank": "test",
     "skill": "select material by needs",
-    "question": "Which material meets the stated purpose?",
+    "question": "Which material is useful for a raincoat?",
     "explanation": "The chosen properties match the job.",
     "printable": true,
     "type": "single",
     "answers": [
-      "clear rigid plastic",
-      "soft clay",
-      "opaque wood",
-      "absorbent tissue"
+      "waterproof plastic",
+      "tissue paper",
+      "dry leaves"
     ],
     "correct": 0,
     "visual": "🏠 ▱"
@@ -95,15 +90,14 @@ window.skillrTestQuestions = [
     "curriculumCode": "AC9SFU03",
     "bank": "test",
     "skill": "compare materials",
-    "question": "Which comparison is supported?",
+    "question": "Which object absorbs water?",
     "explanation": "The comparison uses safe observations.",
     "printable": true,
     "type": "single",
     "answers": [
-      "both flexible; foil shiny/smooth, fabric woven/dull",
-      "both have thoughts",
-      "one is always best",
-      "colour is the only property"
+      "sponge",
+      "metal spoon",
+      "plastic lid"
     ],
     "correct": 0,
     "visual": "foil and cotton fabric"
@@ -113,15 +107,14 @@ window.skillrTestQuestions = [
     "curriculumCode": "AC9SFU03",
     "bank": "test",
     "skill": "investigate multi-material object",
-    "question": "What is the best plan?",
+    "question": "How does a wooden block usually feel?",
     "explanation": "Different parts can need different safe observations.",
     "printable": true,
     "type": "single",
     "answers": [
-      "observe each part separately with sight and gentle touch",
-      "test every part the same unsafe way",
-      "taste each part",
-      "name one material for the whole object"
+      "hard",
+      "runny",
+      "stretchy"
     ],
     "correct": 0,
     "visual": "plastic | foam | metal"
@@ -131,15 +124,14 @@ window.skillrTestQuestions = [
     "curriculumCode": "AC9SFU03",
     "bank": "test",
     "skill": "evaluate material design",
-    "question": "Which choice is better supported?",
+    "question": "Which material is best for a dry paper towel?",
     "explanation": "The choice links material properties to purpose.",
     "printable": true,
     "type": "single",
     "answers": [
-      "rigid plastic better resists spills and keeps shape",
-      "choose only by colour",
-      "both have identical properties",
-      "no properties matter"
+      "absorbent paper",
+      "glass",
+      "metal"
     ],
     "correct": 0,
     "visual": "thin cardboard box vs rigid plastic box"
@@ -149,15 +141,14 @@ window.skillrTestQuestions = [
     "curriculumCode": "AC9SFU03",
     "bank": "test",
     "skill": "classify by property",
-    "question": "Which labels and placements are correct?",
+    "question": "What material is a metal spoon made from?",
     "explanation": "The sort uses an observable property.",
     "printable": true,
     "type": "single",
     "answers": [
-      "transparent / opaque — glass and clear plastic / wood and cardboard",
-      "old / new",
-      "nice / not nice",
-      "inside / outside"
+      "metal",
+      "paper",
+      "fabric"
     ],
     "correct": 0,
     "visual": "glass plastic | wood cardboard"
@@ -167,15 +158,14 @@ window.skillrTestQuestions = [
     "curriculumCode": "AC9SFU03",
     "bank": "test",
     "skill": "explain material choice",
-    "question": "Why are two materials useful in the saucepan?",
+    "question": "How does cotton wool usually feel?",
     "explanation": "Each part needs suitable properties.",
     "printable": true,
     "type": "single",
     "answers": [
-      "metal bowl for heating and strength; plastic handle for safer holding",
-      "all materials do the same job",
-      "colour is the only reason",
-      "one part is not an object"
+      "soft",
+      "hard",
+      "sharp"
     ],
     "correct": 0,
     "visual": "🍳"
@@ -185,15 +175,14 @@ window.skillrTestQuestions = [
     "curriculumCode": "AC9SFU03",
     "bank": "test",
     "skill": "select safe test",
-    "question": "Which investigation is safe and useful?",
+    "question": "Which material can stretch?",
     "explanation": "The plan uses safe sight and gentle touch.",
     "printable": true,
     "type": "single",
     "answers": [
-      "look through it, gently check rigidity, record observations",
-      "taste it",
-      "burn it",
-      "break it to see inside"
+      "rubber",
+      "glass",
+      "rock"
     ],
     "correct": 0,
     "visual": "unknown clear sheet"
@@ -203,10 +192,10 @@ window.skillrTestQuestions = [
     "curriculumCode": "AC9SFU03",
     "bank": "test",
     "skill": "order material investigation",
-    "question": "Order the investigation steps for test sample 1.",
+    "question": "Which material is usually clear?",
     "explanation": "Evidence comes before the conclusion.",
     "printable": true,
-    "type": "order",
+    "type": "single",
     "items": [
       "observe each material safely",
       "record property evidence",
@@ -214,29 +203,27 @@ window.skillrTestQuestions = [
       "state a supported conclusion",
       "identify the object parts"
     ],
-    "correct": [
-      "identify the object parts",
-      "observe each material safely",
-      "record property evidence",
-      "compare the properties with the purpose",
-      "state a supported conclusion"
-    ],
-    "instruction": "Move the cards into the correct order."
+    "correct": 0,
+    "instruction": "Move the cards into the correct order.",
+    "answers": [
+      "glass",
+      "wood",
+      "cardboard"
+    ]
   },
   {
     "id": "ac9sfu03-t-013",
     "curriculumCode": "AC9SFU03",
     "bank": "test",
     "skill": "select properties",
-    "question": "Which pair describes the sample?",
+    "question": "Which material is useful for a raincoat?",
     "explanation": "Both are observable properties.",
     "printable": true,
     "type": "single",
     "answers": [
-      "soft and flexible",
-      "hungry and friendly",
-      "fast and slow",
-      "alive and growing"
+      "waterproof plastic",
+      "tissue paper",
+      "dry leaves"
     ],
     "correct": 0,
     "visual": "🧣"
@@ -246,15 +233,14 @@ window.skillrTestQuestions = [
     "curriculumCode": "AC9SFU03",
     "bank": "test",
     "skill": "identify two materials",
-    "question": "Which statement correctly names two materials and parts?",
+    "question": "Which object absorbs water?",
     "explanation": "Composite objects can use different materials.",
     "printable": true,
     "type": "single",
     "answers": [
-      "wood body and rubber eraser",
-      "every part is metal",
-      "colour is a material",
-      "the object has only one substance"
+      "sponge",
+      "metal spoon",
+      "plastic lid"
     ],
     "correct": 0,
     "visual": "✏️"
@@ -264,15 +250,14 @@ window.skillrTestQuestions = [
     "curriculumCode": "AC9SFU03",
     "bank": "test",
     "skill": "link property to evidence",
-    "question": "Which observation supports the property?",
+    "question": "How does a wooden block usually feel?",
     "explanation": "The statement describes a visible response.",
     "printable": true,
     "type": "single",
     "answers": [
-      "compresses when gently pressed and expands again",
-      "it changes into metal",
-      "it has thoughts",
-      "colour never changes"
+      "hard",
+      "runny",
+      "stretchy"
     ],
     "correct": 0,
     "visual": "🧽"
@@ -282,15 +267,14 @@ window.skillrTestQuestions = [
     "curriculumCode": "AC9SFU03",
     "bank": "test",
     "skill": "correct unsupported label",
-    "question": "Why should the label be changed?",
+    "question": "Which material is best for a dry paper towel?",
     "explanation": "Use only safely observed evidence.",
     "printable": true,
     "type": "single",
     "answers": [
-      "The test did not show it can never break",
-      "the label is always correct",
-      "hidden properties can be guessed",
-      "evidence is unnecessary"
+      "absorbent paper",
+      "glass",
+      "metal"
     ],
     "correct": 0,
     "visual": "clear cup labelled unbreakable"
@@ -300,15 +284,14 @@ window.skillrTestQuestions = [
     "curriculumCode": "AC9SFU03",
     "bank": "test",
     "skill": "select material by needs",
-    "question": "Which material meets the stated purpose?",
+    "question": "What material is a metal spoon made from?",
     "explanation": "The chosen properties match the job.",
     "printable": true,
     "type": "single",
     "answers": [
-      "flexible waterproof plastic",
-      "soft clay",
-      "opaque wood",
-      "absorbent tissue"
+      "metal",
+      "paper",
+      "fabric"
     ],
     "correct": 0,
     "visual": "☔"
@@ -318,15 +301,14 @@ window.skillrTestQuestions = [
     "curriculumCode": "AC9SFU03",
     "bank": "test",
     "skill": "compare materials",
-    "question": "Which comparison is supported?",
+    "question": "How does cotton wool usually feel?",
     "explanation": "The comparison uses safe observations.",
     "printable": true,
     "type": "single",
     "answers": [
-      "both transparent; glass hard, plastic may flex",
-      "both have thoughts",
-      "one is always best",
-      "colour is the only property"
+      "soft",
+      "hard",
+      "sharp"
     ],
     "correct": 0,
     "visual": "glass and clear plastic"
@@ -336,15 +318,14 @@ window.skillrTestQuestions = [
     "curriculumCode": "AC9SFU03",
     "bank": "test",
     "skill": "investigate multi-material object",
-    "question": "What is the best plan?",
+    "question": "Which material can stretch?",
     "explanation": "Different parts can need different safe observations.",
     "printable": true,
     "type": "single",
     "answers": [
-      "record properties for each part separately",
-      "test every part the same unsafe way",
-      "taste each part",
-      "name one material for the whole object"
+      "rubber",
+      "glass",
+      "rock"
     ],
     "correct": 0,
     "visual": "fabric | rubber | metal"
@@ -354,15 +335,14 @@ window.skillrTestQuestions = [
     "curriculumCode": "AC9SFU03",
     "bank": "test",
     "skill": "evaluate material design",
-    "question": "Which choice is better supported?",
+    "question": "Which material is usually clear?",
     "explanation": "The choice links material properties to purpose.",
     "printable": true,
     "type": "single",
     "answers": [
-      "fabric is more durable and flexible for reuse",
-      "choose only by colour",
-      "both have identical properties",
-      "no properties matter"
+      "glass",
+      "wood",
+      "cardboard"
     ],
     "correct": 0,
     "visual": "paper bag vs fabric backpack"
@@ -372,15 +352,14 @@ window.skillrTestQuestions = [
     "curriculumCode": "AC9SFU03",
     "bank": "test",
     "skill": "classify by property",
-    "question": "Which labels and placements are correct?",
+    "question": "Which material is useful for a raincoat?",
     "explanation": "The sort uses an observable property.",
     "printable": true,
     "type": "single",
     "answers": [
-      "flexible / rigid — fabric and rubber / metal spoon and glass tile",
-      "old / new",
-      "nice / not nice",
-      "inside / outside"
+      "waterproof plastic",
+      "tissue paper",
+      "dry leaves"
     ],
     "correct": 0,
     "visual": "fabric rubber | metal glass"
@@ -390,15 +369,14 @@ window.skillrTestQuestions = [
     "curriculumCode": "AC9SFU03",
     "bank": "test",
     "skill": "explain material choice",
-    "question": "Why are two materials useful in the shoe?",
+    "question": "Which object absorbs water?",
     "explanation": "Each part needs suitable properties.",
     "printable": true,
     "type": "single",
     "answers": [
-      "fabric upper for flexibility; rubber sole for grip",
-      "all materials do the same job",
-      "colour is the only reason",
-      "one part is not an object"
+      "sponge",
+      "metal spoon",
+      "plastic lid"
     ],
     "correct": 0,
     "visual": "👟"
@@ -408,15 +386,14 @@ window.skillrTestQuestions = [
     "curriculumCode": "AC9SFU03",
     "bank": "test",
     "skill": "select safe test",
-    "question": "Which investigation is safe and useful?",
+    "question": "How does a wooden block usually feel?",
     "explanation": "The plan uses safe sight and gentle touch.",
     "printable": true,
     "type": "single",
     "answers": [
-      "look at threads, gently fold, record texture and flexibility",
-      "taste it",
-      "burn it",
-      "break it to see inside"
+      "hard",
+      "runny",
+      "stretchy"
     ],
     "correct": 0,
     "visual": "unknown fabric"
@@ -426,10 +403,10 @@ window.skillrTestQuestions = [
     "curriculumCode": "AC9SFU03",
     "bank": "test",
     "skill": "order material investigation",
-    "question": "Order the investigation steps for test sample 2.",
+    "question": "Which material is best for a dry paper towel?",
     "explanation": "Evidence comes before the conclusion.",
     "printable": true,
-    "type": "order",
+    "type": "single",
     "items": [
       "observe each material safely",
       "record property evidence",
@@ -437,15 +414,13 @@ window.skillrTestQuestions = [
       "state a supported conclusion",
       "identify the object parts"
     ],
-    "correct": [
-      "identify the object parts",
-      "observe each material safely",
-      "record property evidence",
-      "compare the properties with the purpose",
-      "state a supported conclusion"
-    ],
-    "instruction": "Move the cards into the correct order."
+    "correct": 0,
+    "instruction": "Move the cards into the correct order.",
+    "answers": [
+      "absorbent paper",
+      "glass",
+      "metal"
+    ]
   }
 ];
-window.skillrExamQuestions = window.skillrTestQuestions;
 window.quizQuestions = window.skillrTestQuestions;

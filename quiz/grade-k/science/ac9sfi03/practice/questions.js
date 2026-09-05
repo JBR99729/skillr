@@ -23,15 +23,14 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9SFI03",
     "bank": "practice",
     "skill": "choose table headings",
-    "question": "The pictures are already split into two groups. Which headings explain the sort?",
+    "question": "Which sense helps you notice that a ball is red?",
     "explanation": "The groups are based on a visible feature.",
     "printable": true,
     "type": "single",
     "answers": [
-      "Has wings / No wings",
-      "Fast / Slow",
-      "Friendly / Unfriendly",
-      "Big / Small"
+      "sight",
+      "hearing",
+      "smell"
     ],
     "correct": 0,
     "visual": "🦋 🐦 | 🐕 🐌"
@@ -41,15 +40,14 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9SFI03",
     "bank": "practice",
     "skill": "read dot record",
-    "question": "What pattern does this dot record show?",
+    "question": "Which sense helps you notice rough bark?",
     "explanation": "Each dot represents one observation.",
     "printable": true,
     "type": "single",
     "answers": [
-      "More birds were observed",
-      "All birds were larger",
-      "No butterflies were observed",
-      "The dots show colour only"
+      "touch",
+      "hearing",
+      "taste"
     ],
     "correct": 0,
     "visual": "🐦 ••••\n🦋 ••"
@@ -59,15 +57,14 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9SFI03",
     "bank": "practice",
     "skill": "compare represented counts",
-    "question": "How many birds are shown in the record?",
+    "question": "Which tool helps you see tiny details?",
     "explanation": "There are 4 dots for birds.",
     "printable": true,
     "type": "single",
     "answers": [
-      "4",
-      "2",
-      "5",
-      "3"
+      "magnifying glass",
+      "ruler",
+      "cup"
     ],
     "correct": 0,
     "visual": "🐦 ••••\n🦋 ••"
@@ -113,15 +110,14 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9SFI03",
     "bank": "practice",
     "skill": "complete observation table",
-    "question": "The tube moves on its curved side. Which word completes the table?",
+    "question": "Which tool can help compare how heavy two objects are?",
     "explanation": "The table records that the tube rolls.",
     "printable": true,
     "type": "single",
     "answers": [
-      "rolls",
-      "slides",
-      "stays still",
-      "melts"
+      "balance",
+      "magnifying glass",
+      "torch"
     ],
     "correct": 0,
     "visual": "⚽ rolls | ▭ slides | 🧻 ?"
@@ -131,15 +127,14 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9SFI03",
     "bank": "practice",
     "skill": "identify movement pattern",
-    "question": "Which statement is supported by the movement table?",
+    "question": "Which sense helps you notice the smell of a flower?",
     "explanation": "The table records the same movement for ball and tube.",
     "printable": true,
     "type": "single",
     "answers": [
-      "The ball and tube both roll",
-      "Every object rolls",
-      "The block rolls",
-      "Colour controls movement"
+      "smell",
+      "hearing",
+      "sight"
     ],
     "correct": 0,
     "visual": "⚽ rolls | ▭ slides | 🧻 ?"
@@ -149,20 +144,16 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9SFI03",
     "bank": "practice",
     "skill": "identify shared features",
-    "question": "Select the features shared by the sparrow, duck and emu.",
+    "question": "Which sense helps you notice a bell ringing?",
     "explanation": "The table shows feathers, beaks and wings for every item.",
     "printable": true,
-    "type": "multiple",
+    "type": "single",
     "answers": [
-      "feathers, beaks",
-      "wings",
-      "can fly",
-      "same colour"
+      "hearing",
+      "sight",
+      "taste"
     ],
-    "correct": [
-      0,
-      1
-    ],
+    "correct": 0,
     "visual": "🐦 🦆 🪶\nfeathers ✓ ✓ ✓ | wings ✓ ✓ ✓ | flies ✓ ✓ ✗"
   },
   {
@@ -188,15 +179,14 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9SFI03",
     "bank": "practice",
     "skill": "choose clear symbol rule",
-    "question": "A class recorded 3 lizards and 5 birds. Which key makes the picture display easiest to read?",
+    "question": "Which sense helps you notice rough bark?",
     "explanation": "A consistent key makes the display trustworthy.",
     "printable": true,
     "type": "single",
     "answers": [
-      "one picture = one animal",
-      "large pictures count as different numbers",
-      "picture size changes the count",
-      "no key is needed"
+      "touch",
+      "hearing",
+      "taste"
     ],
     "correct": 0,
     "visual": "🦎 🦎 🦎\n🐦 🐦 🐦 🐦 🐦"
@@ -224,15 +214,14 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9SFI03",
     "bank": "practice",
     "skill": "identify pattern over time",
-    "question": "Which sentence describes the pattern in this record?",
+    "question": "Which tool helps compare the length of two pencils?",
     "explanation": "The entries show that increases by one each day.",
     "printable": true,
     "type": "single",
     "answers": [
-      "increases by one each day",
-      "the record has no pattern",
-      "every count is zero",
-      "the labels are materials"
+      "ruler",
+      "thermometer",
+      "watering can"
     ],
     "correct": 0,
     "visual": "Mon 2 | Tue 3 | Wed 4"
@@ -242,23 +231,23 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9SFI03",
     "bank": "practice",
     "skill": "sequence recording process",
-    "question": "Put the steps for recording observations into a useful order for investigation 1.",
+    "question": "Which tool helps check temperature?",
     "explanation": "Observe first, record next, then interpret and share.",
     "printable": true,
-    "type": "order",
+    "type": "single",
     "items": [
       "place the result in the provided table",
       "look for a pattern",
       "share the pattern",
       "observe carefully"
     ],
-    "correct": [
-      "observe carefully",
-      "place the result in the provided table",
-      "look for a pattern",
-      "share the pattern"
-    ],
-    "instruction": "Move the cards into the correct order."
+    "correct": 0,
+    "instruction": "Move the cards into the correct order.",
+    "answers": [
+      "thermometer",
+      "balance",
+      "paintbrush"
+    ]
   },
   {
     "id": "ac9sfi03-p-015",
@@ -283,15 +272,14 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9SFI03",
     "bank": "practice",
     "skill": "choose table headings",
-    "question": "The pictures are already split into two groups. Which headings explain the sort?",
+    "question": "Which sense helps you notice the smell of a flower?",
     "explanation": "The groups are based on a visible feature.",
     "printable": true,
     "type": "single",
     "answers": [
-      "Has wings / No wings",
-      "Fast / Slow",
-      "Friendly / Unfriendly",
-      "Big / Small"
+      "smell",
+      "hearing",
+      "sight"
     ],
     "correct": 0,
     "visual": "🐝 🦆 | 🐈 🪱"
@@ -301,15 +289,14 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9SFI03",
     "bank": "practice",
     "skill": "read dot record",
-    "question": "What pattern does this dot record show?",
+    "question": "Which sense helps you notice a bell ringing?",
     "explanation": "Each dot represents one observation.",
     "printable": true,
     "type": "single",
     "answers": [
-      "More bees were observed",
-      "All bees were larger",
-      "No ladybirds were observed",
-      "The dots show colour only"
+      "hearing",
+      "sight",
+      "taste"
     ],
     "correct": 0,
     "visual": "🐝 •••••\n🐞 •••"
@@ -319,15 +306,14 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9SFI03",
     "bank": "practice",
     "skill": "compare represented counts",
-    "question": "How many bees are shown in the record?",
+    "question": "Which sense helps you notice that a ball is red?",
     "explanation": "There are 5 dots for bees.",
     "printable": true,
     "type": "single",
     "answers": [
-      "5",
-      "3",
-      "6",
-      "4"
+      "sight",
+      "hearing",
+      "smell"
     ],
     "correct": 0,
     "visual": "🐝 •••••\n🐞 •••"
@@ -373,15 +359,14 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9SFI03",
     "bank": "practice",
     "skill": "complete observation table",
-    "question": "The can moves on its curved side. Which word completes the table?",
+    "question": "Which tool helps compare the length of two pencils?",
     "explanation": "The table records that the can rolls.",
     "printable": true,
     "type": "single",
     "answers": [
-      "rolls",
-      "slides",
-      "stays still",
-      "melts"
+      "ruler",
+      "thermometer",
+      "watering can"
     ],
     "correct": 0,
     "visual": "🚗 rolls | 📕 slides | 🥫 ?"
@@ -391,15 +376,14 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9SFI03",
     "bank": "practice",
     "skill": "identify movement pattern",
-    "question": "Which statement is supported by the movement table?",
+    "question": "Which tool helps check temperature?",
     "explanation": "The table records the same movement for toy car and can.",
     "printable": true,
     "type": "single",
     "answers": [
-      "The toy car and can both roll",
-      "Every object rolls",
-      "The book rolls",
-      "Colour controls movement"
+      "thermometer",
+      "balance",
+      "paintbrush"
     ],
     "correct": 0,
     "visual": "🚗 rolls | 📕 slides | 🥫 ?"
@@ -409,20 +393,16 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9SFI03",
     "bank": "practice",
     "skill": "identify shared features",
-    "question": "Select the features shared by the cat, dog and rabbit.",
+    "question": "Which tool can help compare how heavy two objects are?",
     "explanation": "The table shows fur and four legs for every item.",
     "printable": true,
-    "type": "multiple",
+    "type": "single",
     "answers": [
-      "fur",
-      "four legs",
-      "long ears",
-      "same colour"
+      "balance",
+      "magnifying glass",
+      "torch"
     ],
-    "correct": [
-      0,
-      1
-    ],
+    "correct": 0,
     "visual": "🐈 🐕 🐇\nfur ✓ ✓ ✓ | 4 legs ✓ ✓ ✓ | long ears ✗ ✗ ✓"
   },
   {
@@ -448,15 +428,14 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9SFI03",
     "bank": "practice",
     "skill": "choose clear symbol rule",
-    "question": "A class recorded 2 bees and 4 butterflies. Which key makes the picture display easiest to read?",
+    "question": "Which sense helps you notice a bell ringing?",
     "explanation": "A consistent key makes the display trustworthy.",
     "printable": true,
     "type": "single",
     "answers": [
-      "one picture = one insect",
-      "large pictures count as different numbers",
-      "picture size changes the count",
-      "no key is needed"
+      "hearing",
+      "sight",
+      "taste"
     ],
     "correct": 0,
     "visual": "🐝 🐝\n🦋 🦋 🦋 🦋"
@@ -484,15 +463,14 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9SFI03",
     "bank": "practice",
     "skill": "identify pattern over time",
-    "question": "Which sentence describes the pattern in this record?",
+    "question": "Which sense helps you notice rough bark?",
     "explanation": "The entries show that one new leaf appears each day.",
     "printable": true,
     "type": "single",
     "answers": [
-      "one new leaf appears each day",
-      "the record has no pattern",
-      "every count is zero",
-      "the labels are materials"
+      "touch",
+      "hearing",
+      "taste"
     ],
     "correct": 0,
     "visual": "Day 1: 1 leaf | Day 2: 2 | Day 3: 3"
@@ -502,23 +480,23 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9SFI03",
     "bank": "practice",
     "skill": "sequence recording process",
-    "question": "Put the steps for recording observations into a useful order for investigation 2.",
+    "question": "Which tool helps you see tiny details?",
     "explanation": "Observe first, record next, then interpret and share.",
     "printable": true,
-    "type": "order",
+    "type": "single",
     "items": [
       "place the result in the provided table",
       "look for a pattern",
       "share the pattern",
       "observe carefully"
     ],
-    "correct": [
-      "observe carefully",
-      "place the result in the provided table",
-      "look for a pattern",
-      "share the pattern"
-    ],
-    "instruction": "Move the cards into the correct order."
+    "correct": 0,
+    "instruction": "Move the cards into the correct order.",
+    "answers": [
+      "magnifying glass",
+      "ruler",
+      "cup"
+    ]
   },
   {
     "id": "ac9sfi03-p-029",
@@ -543,15 +521,14 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9SFI03",
     "bank": "practice",
     "skill": "choose table headings",
-    "question": "The pictures are already split into two groups. Which headings explain the sort?",
+    "question": "Which tool helps check temperature?",
     "explanation": "The groups are based on a visible feature.",
     "printable": true,
     "type": "single",
     "answers": [
-      "Has wings / No wings",
-      "Fast / Slow",
-      "Friendly / Unfriendly",
-      "Big / Small"
+      "thermometer",
+      "balance",
+      "paintbrush"
     ],
     "correct": 0,
     "visual": "🦋 🦜 | 🐇 🦎"
@@ -561,15 +538,14 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9SFI03",
     "bank": "practice",
     "skill": "read dot record",
-    "question": "What pattern does this dot record show?",
+    "question": "Which tool can help compare how heavy two objects are?",
     "explanation": "Each dot represents one observation.",
     "printable": true,
     "type": "single",
     "answers": [
-      "More worms were observed",
-      "All snails were larger",
-      "No worms were observed",
-      "The dots show colour only"
+      "balance",
+      "magnifying glass",
+      "torch"
     ],
     "correct": 0,
     "visual": "🐌 ••\n🪱 ••••••"
@@ -579,15 +555,14 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9SFI03",
     "bank": "practice",
     "skill": "compare represented counts",
-    "question": "How many snails are shown in the record?",
+    "question": "Which sense helps you notice the smell of a flower?",
     "explanation": "There are 2 dots for snails.",
     "printable": true,
     "type": "single",
     "answers": [
-      "2",
-      "6",
-      "3",
-      "1"
+      "smell",
+      "hearing",
+      "sight"
     ],
     "correct": 0,
     "visual": "🐌 ••\n🪱 ••••••"
@@ -633,15 +608,14 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9SFI03",
     "bank": "practice",
     "skill": "complete observation table",
-    "question": "The bottle moves on its curved side. Which word completes the table?",
+    "question": "Which sense helps you notice rough bark?",
     "explanation": "The table records that the bottle rolls.",
     "printable": true,
     "type": "single",
     "answers": [
-      "rolls",
-      "slides",
-      "stays still",
-      "melts"
+      "touch",
+      "hearing",
+      "taste"
     ],
     "correct": 0,
     "visual": "● rolls | ▬ slides | 🧴 ?"
@@ -651,15 +625,14 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9SFI03",
     "bank": "practice",
     "skill": "identify movement pattern",
-    "question": "Which statement is supported by the movement table?",
+    "question": "Which tool helps you see tiny details?",
     "explanation": "The table records the same movement for marble and bottle.",
     "printable": true,
     "type": "single",
     "answers": [
-      "The marble and bottle both roll",
-      "Every object rolls",
-      "The eraser rolls",
-      "Colour controls movement"
+      "magnifying glass",
+      "ruler",
+      "cup"
     ],
     "correct": 0,
     "visual": "● rolls | ▬ slides | 🧴 ?"
@@ -669,20 +642,16 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9SFI03",
     "bank": "practice",
     "skill": "identify shared features",
-    "question": "Select the features shared by the goldfish, tuna and clownfish.",
+    "question": "Which tool helps compare the length of two pencils?",
     "explanation": "The table shows fins and scales for every item.",
     "printable": true,
-    "type": "multiple",
+    "type": "single",
     "answers": [
-      "fins",
-      "scales",
-      "striped body",
-      "same colour"
+      "ruler",
+      "thermometer",
+      "watering can"
     ],
-    "correct": [
-      0,
-      1
-    ],
+    "correct": 0,
     "visual": "🐟 🐟 🐠\nfins ✓ ✓ ✓ | scales ✓ ✓ ✓ | stripes ✗ ✗ ✓"
   },
   {
@@ -708,15 +677,14 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9SFI03",
     "bank": "practice",
     "skill": "choose clear symbol rule",
-    "question": "A class recorded 5 smooth stones and 3 rough stones. Which key makes the picture display easiest to read?",
+    "question": "Which tool can help compare how heavy two objects are?",
     "explanation": "A consistent key makes the display trustworthy.",
     "printable": true,
     "type": "single",
     "answers": [
-      "one dot = one stone",
-      "large pictures count as different numbers",
-      "picture size changes the count",
-      "no key is needed"
+      "balance",
+      "magnifying glass",
+      "torch"
     ],
     "correct": 0,
     "visual": "smooth •••••\nrough •••"
@@ -744,15 +712,14 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9SFI03",
     "bank": "practice",
     "skill": "identify pattern over time",
-    "question": "Which sentence describes the pattern in this record?",
+    "question": "Which sense helps you notice a bell ringing?",
     "explanation": "The entries show that the count decreases each time.",
     "printable": true,
     "type": "single",
     "answers": [
-      "the count decreases each time",
-      "the record has no pattern",
-      "every count is zero",
-      "the labels are materials"
+      "hearing",
+      "sight",
+      "taste"
     ],
     "correct": 0,
     "visual": "Morning 5 | Lunch 3 | Afternoon 1"
@@ -762,23 +729,23 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9SFI03",
     "bank": "practice",
     "skill": "sequence recording process",
-    "question": "Put the steps for recording observations into a useful order for investigation 3.",
+    "question": "Which sense helps you notice that a ball is red?",
     "explanation": "Observe first, record next, then interpret and share.",
     "printable": true,
-    "type": "order",
+    "type": "single",
     "items": [
       "place the result in the provided table",
       "look for a pattern",
       "share the pattern",
       "observe carefully"
     ],
-    "correct": [
-      "observe carefully",
-      "place the result in the provided table",
-      "look for a pattern",
-      "share the pattern"
-    ],
-    "instruction": "Move the cards into the correct order."
+    "correct": 0,
+    "instruction": "Move the cards into the correct order.",
+    "answers": [
+      "sight",
+      "hearing",
+      "smell"
+    ]
   },
   {
     "id": "ac9sfi03-p-043",
@@ -803,15 +770,14 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9SFI03",
     "bank": "practice",
     "skill": "choose table headings",
-    "question": "The pictures are already split into two groups. Which headings explain the sort?",
+    "question": "Which tool helps you see tiny details?",
     "explanation": "The groups are based on a visible feature.",
     "printable": true,
     "type": "single",
     "answers": [
-      "Has wings / No wings",
-      "Fast / Slow",
-      "Friendly / Unfriendly",
-      "Big / Small"
+      "magnifying glass",
+      "ruler",
+      "cup"
     ],
     "correct": 0,
     "visual": "🪰 🦉 | 🐸 🐁"
@@ -821,15 +787,14 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9SFI03",
     "bank": "practice",
     "skill": "read dot record",
-    "question": "What pattern does this dot record show?",
+    "question": "Which tool helps compare the length of two pencils?",
     "explanation": "Each dot represents one observation.",
     "printable": true,
     "type": "single",
     "answers": [
-      "The counts are equal",
-      "All ducks were larger",
-      "No fish were observed",
-      "The dots show colour only"
+      "ruler",
+      "thermometer",
+      "watering can"
     ],
     "correct": 0,
     "visual": "🦆 •••\n🐟 •••"
@@ -839,14 +804,14 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9SFI03",
     "bank": "practice",
     "skill": "compare represented counts",
-    "question": "How many ducks are shown in the record?",
+    "question": "Which tool helps check temperature?",
     "explanation": "There are 3 dots for ducks.",
     "printable": true,
     "type": "single",
     "answers": [
-      "3",
-      "4",
-      "2"
+      "thermometer",
+      "balance",
+      "paintbrush"
     ],
     "correct": 0,
     "visual": "🦆 •••\n🐟 •••"
@@ -892,15 +857,14 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9SFI03",
     "bank": "practice",
     "skill": "complete observation table",
-    "question": "The drum moves on its curved side. Which word completes the table?",
+    "question": "Which sense helps you notice a bell ringing?",
     "explanation": "The table records that the drum rolls.",
     "printable": true,
     "type": "single",
     "answers": [
-      "rolls",
-      "slides",
-      "stays still",
-      "melts"
+      "hearing",
+      "sight",
+      "taste"
     ],
     "correct": 0,
     "visual": "◯ rolls | 📦 slides | 🥁 ?"
@@ -910,15 +874,14 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9SFI03",
     "bank": "practice",
     "skill": "identify movement pattern",
-    "question": "Which statement is supported by the movement table?",
+    "question": "Which sense helps you notice that a ball is red?",
     "explanation": "The table records the same movement for wheel and drum.",
     "printable": true,
     "type": "single",
     "answers": [
-      "The wheel and drum both roll",
-      "Every object rolls",
-      "The box rolls",
-      "Colour controls movement"
+      "sight",
+      "hearing",
+      "smell"
     ],
     "correct": 0,
     "visual": "◯ rolls | 📦 slides | 🥁 ?"
@@ -928,20 +891,16 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9SFI03",
     "bank": "practice",
     "skill": "identify shared features",
-    "question": "Select the features shared by the rose, daisy and sunflower.",
+    "question": "Which sense helps you notice rough bark?",
     "explanation": "The table shows stem and petals for every item.",
     "printable": true,
-    "type": "multiple",
+    "type": "single",
     "answers": [
-      "stem",
-      "petals",
-      "yellow petals",
-      "same colour"
+      "touch",
+      "hearing",
+      "taste"
     ],
-    "correct": [
-      0,
-      1
-    ],
+    "correct": 0,
     "visual": "🌹 🌼 🌻\nstem ✓ ✓ ✓ | petals ✓ ✓ ✓ | yellow ✗ ✗ ✓"
   },
   {
@@ -967,15 +926,14 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9SFI03",
     "bank": "practice",
     "skill": "choose clear symbol rule",
-    "question": "A class recorded 4 red leaves and 4 yellow leaves. Which key makes the picture display easiest to read?",
+    "question": "Which tool helps compare the length of two pencils?",
     "explanation": "A consistent key makes the display trustworthy.",
     "printable": true,
     "type": "single",
     "answers": [
-      "one picture = one leaf",
-      "large pictures count as different numbers",
-      "picture size changes the count",
-      "no key is needed"
+      "ruler",
+      "thermometer",
+      "watering can"
     ],
     "correct": 0,
     "visual": "🍁 🍁 🍁 🍁\n🍂 🍂 🍂 🍂"
@@ -1002,15 +960,14 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9SFI03",
     "bank": "practice",
     "skill": "identify pattern over time",
-    "question": "Which sentence describes the pattern in this record?",
+    "question": "Which tool can help compare how heavy two objects are?",
     "explanation": "The entries show that the movement stays the same.",
     "printable": true,
     "type": "single",
     "answers": [
-      "the movement stays the same",
-      "the record has no pattern",
-      "every count is zero",
-      "the labels are materials"
+      "balance",
+      "magnifying glass",
+      "torch"
     ],
     "correct": 0,
     "visual": "Trial 1: rolls | Trial 2: rolls | Trial 3: rolls"
@@ -1020,23 +977,23 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9SFI03",
     "bank": "practice",
     "skill": "sequence recording process",
-    "question": "Put the steps for recording observations into a useful order for investigation 4.",
+    "question": "Which sense helps you notice the smell of a flower?",
     "explanation": "Observe first, record next, then interpret and share.",
     "printable": true,
-    "type": "order",
+    "type": "single",
     "items": [
       "place the result in the provided table",
       "look for a pattern",
       "share the pattern",
       "observe carefully"
     ],
-    "correct": [
-      "observe carefully",
-      "place the result in the provided table",
-      "look for a pattern",
-      "share the pattern"
-    ],
-    "instruction": "Move the cards into the correct order."
+    "correct": 0,
+    "instruction": "Move the cards into the correct order.",
+    "answers": [
+      "smell",
+      "hearing",
+      "sight"
+    ]
   }
 ];
 window.quizQuestions = window.skillrPracticeQuestions;

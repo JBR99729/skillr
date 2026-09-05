@@ -76,22 +76,23 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9SFI02",
     "bank": "practice",
     "skill": "follow safety instructions",
-    "question": "Put the steps in a safe order.",
+    "question": "A teacher asks you to use a magnifying glass. What should you do?",
     "explanation": "Listen first, prepare protection, then begin.",
     "printable": true,
-    "type": "order",
+    "type": "single",
     "items": [
       "Begin observing",
       "Listen to the teacher's instruction",
       "Put on the required goggles"
     ],
-    "correct": [
-      "Listen to the teacher's instruction",
-      "Put on the required goggles",
-      "Begin observing"
-    ],
+    "correct": 0,
     "instruction": "Use the arrows to put the cards in order.",
-    "id": "ac9sfi02-p-005"
+    "id": "ac9sfi02-p-005",
+    "answers": [
+      "use it as shown",
+      "throw it",
+      "look at the Sun through it"
+    ]
   },
   {
     "curriculumCode": "AC9SFI02",
@@ -187,20 +188,16 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9SFI02",
     "bank": "practice",
     "skill": "spot hazards",
-    "question": "Select the two hazards in the scene.",
+    "question": "You are comparing two toy cars. What should stay the same?",
     "explanation": "Liquids near electricity and blocked walkways are hazards.",
     "printable": true,
-    "type": "multiple",
+    "type": "single",
     "answers": [
-      "an open drink beside electrical equipment",
-      "a bag blocking the walkway",
-      "goggles stored in a tray",
-      "a teacher reading instructions"
+      "the ramp",
+      "everything changes",
+      "the car colours must change"
     ],
-    "correct": [
-      0,
-      1
-    ],
+    "correct": 0,
     "visual": "🥤 ⚡   🎒 in path",
     "id": "ac9sfi02-p-011"
   },
@@ -334,22 +331,23 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9SFI02",
     "bank": "practice",
     "skill": "follow safety instructions",
-    "question": "Order the actions for using a magnifier.",
+    "question": "You are comparing two toy cars. What should stay the same?",
     "explanation": "Careful carrying, calm use and proper return protect the tool and user.",
     "printable": true,
-    "type": "order",
+    "type": "single",
     "items": [
       "Return the tool to its tray",
       "Carry the magnifier with two hands",
       "Observe the leaf at the table"
     ],
-    "correct": [
-      "Carry the magnifier with two hands",
-      "Observe the leaf at the table",
-      "Return the tool to its tray"
-    ],
+    "correct": 0,
     "instruction": "Use the arrows to put the cards in order.",
-    "id": "ac9sfi02-p-019"
+    "id": "ac9sfi02-p-019",
+    "answers": [
+      "the ramp",
+      "everything changes",
+      "the car colours must change"
+    ]
   },
   {
     "curriculumCode": "AC9SFI02",
@@ -445,20 +443,16 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9SFI02",
     "bank": "practice",
     "skill": "spot hazards",
-    "question": "Select the two unsafe actions.",
+    "question": "What should you do first in a class investigation?",
     "explanation": "Running with glass and tasting unknown material are unsafe.",
     "printable": true,
-    "type": "multiple",
+    "type": "single",
     "answers": [
-      "running with a glass jar",
-      "tasting an unknown powder",
-      "writing a tally",
-      "wearing goggles"
+      "listen to the teacher's instructions",
+      "taste the materials",
+      "run with the equipment"
     ],
-    "correct": [
-      0,
-      1
-    ],
+    "correct": 0,
     "visual": "🏃 jar   👅❓",
     "id": "ac9sfi02-p-025"
   },
@@ -591,22 +585,23 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9SFI02",
     "bank": "practice",
     "skill": "follow safety instructions",
-    "question": "Put the garden-observation actions in order.",
+    "question": "What should you do first in a class investigation?",
     "explanation": "Understand the boundary before observing and recording.",
     "printable": true,
-    "type": "order",
+    "type": "single",
     "items": [
       "Record what you saw",
       "Stay behind the marked line",
       "Listen to the boundary rule"
     ],
-    "correct": [
-      "Listen to the boundary rule",
-      "Stay behind the marked line",
-      "Record what you saw"
-    ],
+    "correct": 0,
     "instruction": "Use the arrows to put the cards in order.",
-    "id": "ac9sfi02-p-033"
+    "id": "ac9sfi02-p-033",
+    "answers": [
+      "listen to the teacher's instructions",
+      "taste the materials",
+      "run with the equipment"
+    ]
   },
   {
     "curriculumCode": "AC9SFI02",
@@ -702,20 +697,16 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9SFI02",
     "bank": "practice",
     "skill": "spot hazards",
-    "question": "Select the two problems in the garden plan.",
+    "question": "What is a safe way to explore a leaf?",
     "explanation": "Leaving the path and handling unknown berries are unsafe.",
     "printable": true,
-    "type": "multiple",
+    "type": "single",
     "answers": [
-      "children leave the marked path",
-      "a child picks an unknown berry",
-      "children use binoculars",
-      "the teacher sets a boundary"
+      "look and touch gently",
+      "taste it",
+      "rub it in your eyes"
     ],
-    "correct": [
-      0,
-      1
-    ],
+    "correct": 0,
     "visual": "path | berry ❓",
     "id": "ac9sfi02-p-039"
   },
@@ -849,22 +840,23 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9SFI02",
     "bank": "practice",
     "skill": "follow safety instructions",
-    "question": "Order the steps after a small spill.",
+    "question": "What is a safe way to explore a leaf?",
     "explanation": "Report the spill and wait for adult direction.",
     "printable": true,
-    "type": "order",
+    "type": "single",
     "items": [
       "Wait away from the spill",
       "Tell the teacher",
       "Continue only when told it is safe"
     ],
-    "correct": [
-      "Tell the teacher",
-      "Wait away from the spill",
-      "Continue only when told it is safe"
-    ],
+    "correct": 0,
     "instruction": "Use the arrows to put the cards in order.",
-    "id": "ac9sfi02-p-047"
+    "id": "ac9sfi02-p-047",
+    "answers": [
+      "look and touch gently",
+      "taste it",
+      "rub it in your eyes"
+    ]
   },
   {
     "curriculumCode": "AC9SFI02",
@@ -960,20 +952,16 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9SFI02",
     "bank": "practice",
     "skill": "spot hazards",
-    "question": "Select the two equipment hazards.",
+    "question": "A teacher asks you to use a magnifying glass. What should you do?",
     "explanation": "Damaged tools and trip hazards must be reported.",
     "printable": true,
-    "type": "multiple",
+    "type": "single",
     "answers": [
-      "a cracked handle",
-      "a loose electrical cord across the floor",
-      "a closed notebook",
-      "a labelled storage tray"
+      "use it as shown",
+      "throw it",
+      "look at the Sun through it"
     ],
-    "correct": [
-      0,
-      1
-    ],
+    "correct": 0,
     "visual": "tool ⚠️   cord ─",
     "id": "ac9sfi02-p-053"
   },

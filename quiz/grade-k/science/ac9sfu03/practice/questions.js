@@ -23,20 +23,16 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9SFU03",
     "bank": "practice",
     "skill": "describe material properties",
-    "question": "Select two observable properties of the cotton fabric.",
+    "question": "How does cotton wool usually feel?",
     "explanation": "Both words describe the sample.",
     "printable": true,
-    "type": "multiple",
+    "type": "single",
     "answers": [
       "soft",
-      "flexible",
-      "hungry",
-      "friendly"
+      "hard",
+      "sharp"
     ],
-    "correct": [
-      0,
-      1
-    ],
+    "correct": 0,
     "visual": "🧵"
   },
   {
@@ -80,15 +76,14 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9SFU03",
     "bank": "practice",
     "skill": "magnify material detail",
-    "question": "What detail could a magnifier reveal?",
+    "question": "Which material is useful for a raincoat?",
     "explanation": "The detail is visible evidence.",
     "printable": true,
     "type": "single",
     "answers": [
-      "tiny fibres at the edge",
-      "the material’s thoughts",
-      "its favourite colour",
-      "a hidden memory"
+      "waterproof plastic",
+      "tissue paper",
+      "dry leaves"
     ],
     "correct": 0,
     "visual": "📄 🔍"
@@ -134,15 +129,14 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9SFU03",
     "bank": "practice",
     "skill": "compare property groups",
-    "question": "Which heading pair matches the groups?",
+    "question": "Which material is best for a dry paper towel?",
     "explanation": "The headings state observable properties.",
     "printable": true,
     "type": "single",
     "answers": [
-      "transparent / opaque",
-      "fast / slow",
-      "happy / sad",
-      "old / new"
+      "absorbent paper",
+      "glass",
+      "metal"
     ],
     "correct": 0,
     "visual": "▱ plastic | 🪵 📦"
@@ -152,15 +146,14 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9SFU03",
     "bank": "practice",
     "skill": "choose water property",
-    "question": "Which comparison is supported?",
+    "question": "What material is a metal spoon made from?",
     "explanation": "A small teacher-approved water-drop test can show the difference.",
     "printable": true,
     "type": "single",
     "answers": [
-      "The paper towel is absorbent; the plastic sheet is water resistant",
-      "both dissolve instantly",
-      "colour proves absorbency",
-      "neither can be tested safely"
+      "metal",
+      "paper",
+      "fabric"
     ],
     "correct": 0,
     "visual": "paper 💧 | plastic 💧"
@@ -206,15 +199,14 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9SFU03",
     "bank": "practice",
     "skill": "reject unsupported material claim",
-    "question": "Which correction is scientific?",
+    "question": "Which material is usually clear?",
     "explanation": "Describe only what was observed or safely tested.",
     "printable": true,
     "type": "single",
     "answers": [
-      "The inside was not observed; label the outside hard or opaque",
-      "keep the unsupported label",
-      "guess hidden properties",
-      "use a favourite word"
+      "glass",
+      "wood",
+      "cardboard"
     ],
     "correct": 0,
     "visual": "sealed wood block labelled soft inside"
@@ -242,10 +234,10 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9SFU03",
     "bank": "practice",
     "skill": "sequence materials investigation",
-    "question": "Order the safe material-observation steps for sample 1.",
+    "question": "Which object absorbs water?",
     "explanation": "Observe safely before classifying.",
     "printable": true,
-    "type": "order",
+    "type": "single",
     "items": [
       "follow the teacher-approved touch test",
       "record property words",
@@ -253,14 +245,13 @@ window.skillrPracticeQuestions = [
       "explain the evidence",
       "look at the sample"
     ],
-    "correct": [
-      "look at the sample",
-      "follow the teacher-approved touch test",
-      "record property words",
-      "group it with similar samples",
-      "explain the evidence"
-    ],
-    "instruction": "Move the cards into the correct order."
+    "correct": 0,
+    "instruction": "Move the cards into the correct order.",
+    "answers": [
+      "sponge",
+      "metal spoon",
+      "plastic lid"
+    ]
   },
   {
     "id": "ac9sfu03-p-015",
@@ -285,20 +276,16 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9SFU03",
     "bank": "practice",
     "skill": "describe material properties",
-    "question": "Select two observable properties of the glass sheet.",
+    "question": "Which material is best for a dry paper towel?",
     "explanation": "Both words describe the sample.",
     "printable": true,
-    "type": "multiple",
+    "type": "single",
     "answers": [
-      "hard",
-      "transparent",
-      "hungry",
-      "friendly"
+      "absorbent paper",
+      "glass",
+      "metal"
     ],
-    "correct": [
-      0,
-      1
-    ],
+    "correct": 0,
     "visual": "▱"
   },
   {
@@ -342,15 +329,14 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9SFU03",
     "bank": "practice",
     "skill": "magnify material detail",
-    "question": "What detail could a magnifier reveal?",
+    "question": "Which material can stretch?",
     "explanation": "The detail is visible evidence.",
     "printable": true,
     "type": "single",
     "answers": [
-      "woven threads",
-      "the material’s thoughts",
-      "its favourite colour",
-      "a hidden memory"
+      "rubber",
+      "glass",
+      "rock"
     ],
     "correct": 0,
     "visual": "🧵 🔍"
@@ -360,15 +346,14 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9SFU03",
     "bank": "practice",
     "skill": "choose material for purpose",
-    "question": "Which material best suits the model window?",
+    "question": "Which material is usually clear?",
     "explanation": "The properties match the purpose.",
     "printable": true,
     "type": "single",
     "answers": [
-      "clear rigid plastic",
-      "dissolving tissue",
-      "unlabelled mystery material",
-      "material chosen only by colour"
+      "glass",
+      "wood",
+      "cardboard"
     ],
     "correct": 0,
     "visual": "🏠 ▱"
@@ -396,15 +381,14 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9SFU03",
     "bank": "practice",
     "skill": "compare property groups",
-    "question": "Which heading pair matches the groups?",
+    "question": "Which object absorbs water?",
     "explanation": "The headings state observable properties.",
     "printable": true,
     "type": "single",
     "answers": [
-      "flexible / rigid in gentle test",
-      "fast / slow",
-      "happy / sad",
-      "old / new"
+      "sponge",
+      "metal spoon",
+      "plastic lid"
     ],
     "correct": 0,
     "visual": "⭕ 🧣 | 🥄 ▱"
@@ -414,15 +398,14 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9SFU03",
     "bank": "practice",
     "skill": "choose water property",
-    "question": "Which comparison is supported?",
+    "question": "How does a wooden block usually feel?",
     "explanation": "A small teacher-approved water-drop test can show the difference.",
     "printable": true,
     "type": "single",
     "answers": [
-      "The sponge is absorbent; the glass tile is water resistant",
-      "both dissolve instantly",
-      "colour proves absorbency",
-      "neither can be tested safely"
+      "hard",
+      "runny",
+      "stretchy"
     ],
     "correct": 0,
     "visual": "🧽 💧 | ▱ 💧"
@@ -450,15 +433,14 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9SFU03",
     "bank": "practice",
     "skill": "compare surfaces",
-    "question": "Which comparison uses observable properties?",
+    "question": "What material is a metal spoon made from?",
     "explanation": "The comparison is based on sight or safe touch.",
     "printable": true,
     "type": "single",
     "answers": [
-      "glass is smooth and transparent; wood is grainy and opaque",
-      "one likes water",
-      "one remembers heat",
-      "one is happier"
+      "metal",
+      "paper",
+      "fabric"
     ],
     "correct": 0,
     "visual": "glass | wood"
@@ -468,15 +450,14 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9SFU03",
     "bank": "practice",
     "skill": "reject unsupported material claim",
-    "question": "Which correction is scientific?",
+    "question": "How does cotton wool usually feel?",
     "explanation": "Describe only what was observed or safely tested.",
     "printable": true,
     "type": "single",
     "answers": [
-      "Only the tested sample and condition can be described",
-      "keep the unsupported label",
-      "guess hidden properties",
-      "use a favourite word"
+      "soft",
+      "hard",
+      "sharp"
     ],
     "correct": 0,
     "visual": "metal spoon labelled waterproof forever"
@@ -504,10 +485,10 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9SFU03",
     "bank": "practice",
     "skill": "sequence materials investigation",
-    "question": "Order the safe material-observation steps for sample 2.",
+    "question": "Which material is usually clear?",
     "explanation": "Observe safely before classifying.",
     "printable": true,
-    "type": "order",
+    "type": "single",
     "items": [
       "follow the teacher-approved touch test",
       "record property words",
@@ -515,14 +496,13 @@ window.skillrPracticeQuestions = [
       "explain the evidence",
       "look at the sample"
     ],
-    "correct": [
-      "look at the sample",
-      "follow the teacher-approved touch test",
-      "record property words",
-      "group it with similar samples",
-      "explain the evidence"
-    ],
-    "instruction": "Move the cards into the correct order."
+    "correct": 0,
+    "instruction": "Move the cards into the correct order.",
+    "answers": [
+      "glass",
+      "wood",
+      "cardboard"
+    ]
   },
   {
     "id": "ac9sfu03-p-029",
@@ -547,20 +527,16 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9SFU03",
     "bank": "practice",
     "skill": "describe material properties",
-    "question": "Select two observable properties of the rubber band.",
+    "question": "Which object absorbs water?",
     "explanation": "Both words describe the sample.",
     "printable": true,
-    "type": "multiple",
+    "type": "single",
     "answers": [
-      "stretchy",
-      "flexible",
-      "hungry",
-      "friendly"
+      "sponge",
+      "metal spoon",
+      "plastic lid"
     ],
-    "correct": [
-      0,
-      1
-    ],
+    "correct": 0,
     "visual": "⭕"
   },
   {
@@ -604,15 +580,14 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9SFU03",
     "bank": "practice",
     "skill": "magnify material detail",
-    "question": "What detail could a magnifier reveal?",
+    "question": "What material is a metal spoon made from?",
     "explanation": "The detail is visible evidence.",
     "printable": true,
     "type": "single",
     "answers": [
-      "fine grain lines",
-      "the material’s thoughts",
-      "its favourite colour",
-      "a hidden memory"
+      "metal",
+      "paper",
+      "fabric"
     ],
     "correct": 0,
     "visual": "🪵 🔍"
@@ -658,15 +633,14 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9SFU03",
     "bank": "practice",
     "skill": "compare property groups",
-    "question": "Which heading pair matches the groups?",
+    "question": "Which material is usually clear?",
     "explanation": "The headings state observable properties.",
     "printable": true,
     "type": "single",
     "answers": [
-      "absorbent / water resistant",
-      "fast / slow",
-      "happy / sad",
-      "old / new"
+      "glass",
+      "wood",
+      "cardboard"
     ],
     "correct": 0,
     "visual": "🧽 cotton | plastic glass"
@@ -676,15 +650,14 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9SFU03",
     "bank": "practice",
     "skill": "choose water property",
-    "question": "Which comparison is supported?",
+    "question": "Which material is useful for a raincoat?",
     "explanation": "A small teacher-approved water-drop test can show the difference.",
     "printable": true,
     "type": "single",
     "answers": [
-      "The cotton cloth is absorbent; the rubber mat is water resistant",
-      "both dissolve instantly",
-      "colour proves absorbency",
-      "neither can be tested safely"
+      "waterproof plastic",
+      "tissue paper",
+      "dry leaves"
     ],
     "correct": 0,
     "visual": "cloth 💧 | rubber 💧"
@@ -712,15 +685,14 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9SFU03",
     "bank": "practice",
     "skill": "compare surfaces",
-    "question": "Which comparison uses observable properties?",
+    "question": "How does a wooden block usually feel?",
     "explanation": "The comparison is based on sight or safe touch.",
     "printable": true,
     "type": "single",
     "answers": [
-      "rubber mat is grippy and flexible; metal tray is smooth and rigid",
-      "one likes water",
-      "one remembers heat",
-      "one is happier"
+      "hard",
+      "runny",
+      "stretchy"
     ],
     "correct": 0,
     "visual": "rubber | metal"
@@ -730,15 +702,14 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9SFU03",
     "bank": "practice",
     "skill": "reject unsupported material claim",
-    "question": "Which correction is scientific?",
+    "question": "Which material is best for a dry paper towel?",
     "explanation": "Describe only what was observed or safely tested.",
     "printable": true,
     "type": "single",
     "answers": [
-      "The test did not prove it can never break",
-      "keep the unsupported label",
-      "guess hidden properties",
-      "use a favourite word"
+      "absorbent paper",
+      "glass",
+      "metal"
     ],
     "correct": 0,
     "visual": "plastic cup labelled unbreakable"
@@ -766,10 +737,10 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9SFU03",
     "bank": "practice",
     "skill": "sequence materials investigation",
-    "question": "Order the safe material-observation steps for sample 3.",
+    "question": "How does cotton wool usually feel?",
     "explanation": "Observe safely before classifying.",
     "printable": true,
-    "type": "order",
+    "type": "single",
     "items": [
       "follow the teacher-approved touch test",
       "record property words",
@@ -777,14 +748,13 @@ window.skillrPracticeQuestions = [
       "explain the evidence",
       "look at the sample"
     ],
-    "correct": [
-      "look at the sample",
-      "follow the teacher-approved touch test",
-      "record property words",
-      "group it with similar samples",
-      "explain the evidence"
-    ],
-    "instruction": "Move the cards into the correct order."
+    "correct": 0,
+    "instruction": "Move the cards into the correct order.",
+    "answers": [
+      "soft",
+      "hard",
+      "sharp"
+    ]
   },
   {
     "id": "ac9sfu03-p-043",
@@ -809,20 +779,16 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9SFU03",
     "bank": "practice",
     "skill": "describe material properties",
-    "question": "Select two observable properties of the wood block.",
+    "question": "Which material is usually clear?",
     "explanation": "Both words describe the sample.",
     "printable": true,
-    "type": "multiple",
+    "type": "single",
     "answers": [
-      "hard",
-      "opaque",
-      "hungry",
-      "friendly"
+      "glass",
+      "wood",
+      "cardboard"
     ],
-    "correct": [
-      0,
-      1
-    ],
+    "correct": 0,
     "visual": "🧱"
   },
   {
@@ -848,15 +814,14 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9SFU03",
     "bank": "practice",
     "skill": "sort by property",
-    "question": "Which labels fit the two groups?",
+    "question": "Which object absorbs water?",
     "explanation": "The labels describe observed material properties.",
     "printable": true,
     "type": "single",
     "answers": [
-      "transparent / opaque",
-      "old / young",
-      "nice / not nice",
-      "inside / outside"
+      "sponge",
+      "metal spoon",
+      "plastic lid"
     ],
     "correct": 0,
     "visual": "▱ ▱ | 🪵 📦"
@@ -866,15 +831,14 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9SFU03",
     "bank": "practice",
     "skill": "magnify material detail",
-    "question": "What detail could a magnifier reveal?",
+    "question": "How does a wooden block usually feel?",
     "explanation": "The detail is visible evidence.",
     "printable": true,
     "type": "single",
     "answers": [
-      "many tiny holes",
-      "the material’s thoughts",
-      "its favourite colour",
-      "a hidden memory"
+      "hard",
+      "runny",
+      "stretchy"
     ],
     "correct": 0,
     "visual": "🧽 🔍"
@@ -920,15 +884,14 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9SFU03",
     "bank": "practice",
     "skill": "compare property groups",
-    "question": "Which heading pair matches the groups?",
+    "question": "How does cotton wool usually feel?",
     "explanation": "The headings state observable properties.",
     "printable": true,
     "type": "single",
     "answers": [
-      "hard / soft",
-      "fast / slow",
-      "happy / sad",
-      "old / new"
+      "soft",
+      "hard",
+      "sharp"
     ],
     "correct": 0,
     "visual": "🪙 ▱ | foam 🧽"
@@ -938,15 +901,14 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9SFU03",
     "bank": "practice",
     "skill": "choose water property",
-    "question": "Which comparison is supported?",
+    "question": "Which material can stretch?",
     "explanation": "A small teacher-approved water-drop test can show the difference.",
     "printable": true,
     "type": "single",
     "answers": [
-      "The cardboard is absorbs some water; the metal tray is water resistant",
-      "both dissolve instantly",
-      "colour proves absorbency",
-      "neither can be tested safely"
+      "rubber",
+      "glass",
+      "rock"
     ],
     "correct": 0,
     "visual": "cardboard 💧 | metal 💧"
@@ -956,15 +918,14 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9SFU03",
     "bank": "practice",
     "skill": "compare mechanical property",
-    "question": "Which statement matches a safe gentle observation?",
+    "question": "Which material is usually clear?",
     "explanation": "The words describe how the samples feel or respond.",
     "printable": true,
     "type": "single",
     "answers": [
-      "plastic ruler is rigid; fabric strip is flexible",
-      "their thoughts differ",
-      "one is friendlier",
-      "the colour decides hardness"
+      "glass",
+      "wood",
+      "cardboard"
     ],
     "correct": 0,
     "visual": "📏 | 🧣"
@@ -974,15 +935,14 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9SFU03",
     "bank": "practice",
     "skill": "compare surfaces",
-    "question": "Which comparison uses observable properties?",
+    "question": "Which material is useful for a raincoat?",
     "explanation": "The comparison is based on sight or safe touch.",
     "printable": true,
     "type": "single",
     "answers": [
-      "paper is thin and fibrous; plastic card is smooth and rigid",
-      "one likes water",
-      "one remembers heat",
-      "one is happier"
+      "waterproof plastic",
+      "tissue paper",
+      "dry leaves"
     ],
     "correct": 0,
     "visual": "paper | plastic"
@@ -992,15 +952,14 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9SFU03",
     "bank": "practice",
     "skill": "reject unsupported material claim",
-    "question": "Which correction is scientific?",
+    "question": "Which object absorbs water?",
     "explanation": "Describe only what was observed or safely tested.",
     "printable": true,
     "type": "single",
     "answers": [
-      "Different fabrics may behave differently",
-      "keep the unsupported label",
-      "guess hidden properties",
-      "use a favourite word"
+      "sponge",
+      "metal spoon",
+      "plastic lid"
     ],
     "correct": 0,
     "visual": "fabric labelled always absorbent"
@@ -1028,10 +987,10 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9SFU03",
     "bank": "practice",
     "skill": "sequence materials investigation",
-    "question": "Order the safe material-observation steps for sample 4.",
+    "question": "Which material is best for a dry paper towel?",
     "explanation": "Observe safely before classifying.",
     "printable": true,
-    "type": "order",
+    "type": "single",
     "items": [
       "follow the teacher-approved touch test",
       "record property words",
@@ -1039,14 +998,13 @@ window.skillrPracticeQuestions = [
       "explain the evidence",
       "look at the sample"
     ],
-    "correct": [
-      "look at the sample",
-      "follow the teacher-approved touch test",
-      "record property words",
-      "group it with similar samples",
-      "explain the evidence"
-    ],
-    "instruction": "Move the cards into the correct order."
+    "correct": 0,
+    "instruction": "Move the cards into the correct order.",
+    "answers": [
+      "absorbent paper",
+      "glass",
+      "metal"
+    ]
   }
 ];
 window.quizQuestions = window.skillrPracticeQuestions;

@@ -41,15 +41,14 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9SFU02",
     "bank": "practice",
     "skill": "match object and movement",
-    "question": "How does the top mainly move in the shown example?",
+    "question": "Which object is most likely to roll?",
     "explanation": "The observed movement is spins.",
     "printable": true,
     "type": "single",
     "answers": [
-      "spins",
-      "melts",
-      "grows",
-      "stays hidden"
+      "a ball",
+      "a book",
+      "a box"
     ],
     "correct": 0,
     "visual": "🔺"
@@ -59,20 +58,16 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9SFU02",
     "bank": "practice",
     "skill": "choose movement observations",
-    "question": "Which two details should be recorded to compare size fairly?",
+    "question": "A ball is moving. What can your hand do?",
     "explanation": "Record movement outcomes while keeping conditions the same.",
     "printable": true,
-    "type": "multiple",
+    "type": "single",
     "answers": [
-      "which reaches the bottom first",
-      "distance travelled",
-      "colour",
-      "name"
+      "stop it",
+      "turn it into water",
+      "make it grow"
     ],
-    "correct": [
-      0,
-      1
-    ],
+    "correct": 0,
     "visual": "small and large rubber balls | same ramp"
   },
   {
@@ -134,20 +129,16 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9SFU02",
     "bank": "practice",
     "skill": "plan fair movement test",
-    "question": "To test material, select the two correct plan parts.",
+    "question": "Which action is a pull?",
     "explanation": "Record bounce height after changing one factor.",
     "printable": true,
-    "type": "multiple",
+    "type": "single",
     "answers": [
-      "Change only material",
-      "Keep same size, shape, drop height and surface",
-      "Change every condition",
-      "Record colour only"
+      "bringing a door towards you",
+      "sending a ball away",
+      "dropping a leaf"
     ],
-    "correct": [
-      0,
-      1
-    ],
+    "correct": 0,
     "visual": "rubber, foam and cloth balls"
   },
   {
@@ -155,15 +146,14 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9SFU02",
     "bank": "practice",
     "skill": "identify changed factor",
-    "question": "What factor changed in this comparison: two wooden balls, same shape, one small and one large?",
+    "question": "What can make a toy car start moving?",
     "explanation": "The description keeps other listed factors alike.",
     "printable": true,
     "type": "single",
     "answers": [
-      "size",
-      "colour",
-      "name",
-      "time of day"
+      "a push",
+      "its colour",
+      "its name"
     ],
     "correct": 0,
     "visual": "two wooden balls, same shape, one small and one large"
@@ -173,15 +163,14 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9SFU02",
     "bank": "practice",
     "skill": "read movement result",
-    "question": "Which sentence describes the observation and possible factor?",
+    "question": "You pull a wagon. What will the wagon do?",
     "explanation": "The sentence connects the recorded movement with the changed factor.",
     "printable": true,
     "type": "single",
     "answers": [
-      "rubber bounced higher; material differs",
-      "the result proves an always rule",
-      "colour caused it",
-      "no difference was seen"
+      "move towards you",
+      "grow",
+      "melt"
     ],
     "correct": 0,
     "visual": "rubber high | foam low"
@@ -191,15 +180,14 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9SFU02",
     "bank": "practice",
     "skill": "repair unfair comparison",
-    "question": "Why is the test unfair: small glass marble on tile and large foam ball on carpet?",
+    "question": "Which object is most likely to roll?",
     "explanation": "Change one factor at a time.",
     "printable": true,
     "type": "single",
     "answers": [
-      "material and surface also differ; use same material, shape and surface while changing size",
-      "only colour differs",
-      "the test is already fair",
-      "movement cannot be compared"
+      "a ball",
+      "a book",
+      "a box"
     ],
     "correct": 0,
     "visual": "small glass marble on tile and large foam ball on carpet"
@@ -209,15 +197,14 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9SFU02",
     "bank": "practice",
     "skill": "state cautious movement pattern",
-    "question": "Which conclusion is supported?",
+    "question": "A ball is moving. What can your hand do?",
     "explanation": "The claim is limited to the observed test.",
     "printable": true,
     "type": "single",
     "answers": [
-      "shape is linked to movement in this test",
-      "this must happen for every object everywhere",
-      "colour controls movement",
-      "one result proves all causes"
+      "stop it",
+      "turn it into water",
+      "make it grow"
     ],
     "correct": 0,
     "visual": "● roll | ▭ slide"
@@ -245,10 +232,10 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9SFU02",
     "bank": "practice",
     "skill": "sequence movement investigation",
-    "question": "Order the fair movement investigation steps for scene 1.",
+    "question": "Which surface usually lets a toy car roll farther?",
     "explanation": "A fair test changes one factor and records evidence.",
     "printable": true,
-    "type": "order",
+    "type": "single",
     "items": [
       "keep other conditions the same",
       "make a prediction",
@@ -256,14 +243,13 @@ window.skillrPracticeQuestions = [
       "compare the results",
       "choose one factor to change"
     ],
-    "correct": [
-      "choose one factor to change",
-      "keep other conditions the same",
-      "make a prediction",
-      "observe and record movement",
-      "compare the results"
-    ],
-    "instruction": "Move the cards into the correct order."
+    "correct": 0,
+    "instruction": "Move the cards into the correct order.",
+    "answers": [
+      "a smooth floor",
+      "thick grass",
+      "soft sand"
+    ]
   },
   {
     "id": "ac9sfu02-p-015",
@@ -306,15 +292,14 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9SFU02",
     "bank": "practice",
     "skill": "match object and movement",
-    "question": "How does the toy car mainly move in the shown example?",
+    "question": "What can make a toy car start moving?",
     "explanation": "The observed movement is rolls.",
     "printable": true,
     "type": "single",
     "answers": [
-      "rolls",
-      "melts",
-      "grows",
-      "stays hidden"
+      "a push",
+      "its colour",
+      "its name"
     ],
     "correct": 0,
     "visual": "🚗"
@@ -324,20 +309,16 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9SFU02",
     "bank": "practice",
     "skill": "choose movement observations",
-    "question": "Which two details should be recorded to compare size fairly?",
+    "question": "You pull a wagon. What will the wagon do?",
     "explanation": "Record movement outcomes while keeping conditions the same.",
     "printable": true,
-    "type": "multiple",
+    "type": "single",
     "answers": [
-      "speed",
-      "path",
-      "colour",
-      "name"
+      "move towards you",
+      "grow",
+      "melt"
     ],
-    "correct": [
-      0,
-      1
-    ],
+    "correct": 0,
     "visual": "small and large wooden wheels | same floor"
   },
   {
@@ -398,20 +379,16 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9SFU02",
     "bank": "practice",
     "skill": "plan fair movement test",
-    "question": "To test size, select the two correct plan parts.",
+    "question": "Which surface usually lets a toy car roll farther?",
     "explanation": "Record travel time after changing one factor.",
     "printable": true,
-    "type": "multiple",
+    "type": "single",
     "answers": [
-      "Change only size",
-      "Keep same material, shape, ramp and release",
-      "Change every condition",
-      "Record colour only"
+      "a smooth floor",
+      "thick grass",
+      "soft sand"
     ],
-    "correct": [
-      0,
-      1
-    ],
+    "correct": 0,
     "visual": "small and large rubber balls"
   },
   {
@@ -419,15 +396,14 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9SFU02",
     "bank": "practice",
     "skill": "identify changed factor",
-    "question": "What factor changed in this comparison: two same-sized balls, one rubber and one cloth?",
+    "question": "What will a ball do on a sloping ramp?",
     "explanation": "The description keeps other listed factors alike.",
     "printable": true,
     "type": "single",
     "answers": [
-      "material",
-      "colour",
-      "name",
-      "time of day"
+      "roll down",
+      "float up",
+      "stay in the air"
     ],
     "correct": 0,
     "visual": "two same-sized balls, one rubber and one cloth"
@@ -437,15 +413,14 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9SFU02",
     "bank": "practice",
     "skill": "read movement result",
-    "question": "Which sentence describes the observation and possible factor?",
+    "question": "Which action is a pull?",
     "explanation": "The sentence connects the recorded movement with the changed factor.",
     "printable": true,
     "type": "single",
     "answers": [
-      "the speeds differ; size differs",
-      "the result proves an always rule",
-      "colour caused it",
-      "no difference was seen"
+      "bringing a door towards you",
+      "sending a ball away",
+      "dropping a leaf"
     ],
     "correct": 0,
     "visual": "small fast | large slow"
@@ -455,15 +430,14 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9SFU02",
     "bank": "practice",
     "skill": "repair unfair comparison",
-    "question": "Why is the test unfair: rubber ball dropped high and cloth ball dropped low?",
+    "question": "What can make a toy car start moving?",
     "explanation": "Change one factor at a time.",
     "printable": true,
     "type": "single",
     "answers": [
-      "material and drop height differ; use the same height while changing material",
-      "only colour differs",
-      "the test is already fair",
-      "movement cannot be compared"
+      "a push",
+      "its colour",
+      "its name"
     ],
     "correct": 0,
     "visual": "rubber ball dropped high and cloth ball dropped low"
@@ -473,15 +447,14 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9SFU02",
     "bank": "practice",
     "skill": "state cautious movement pattern",
-    "question": "Which conclusion is supported?",
+    "question": "You pull a wagon. What will the wagon do?",
     "explanation": "The claim is limited to the observed test.",
     "printable": true,
     "type": "single",
     "answers": [
-      "material is linked to bounce in this test",
-      "this must happen for every object everywhere",
-      "colour controls movement",
-      "one result proves all causes"
+      "move towards you",
+      "grow",
+      "melt"
     ],
     "correct": 0,
     "visual": "🏀 bounce | 🧶 stop"
@@ -509,10 +482,10 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9SFU02",
     "bank": "practice",
     "skill": "sequence movement investigation",
-    "question": "Order the fair movement investigation steps for scene 2.",
+    "question": "A ball is moving. What can your hand do?",
     "explanation": "A fair test changes one factor and records evidence.",
     "printable": true,
-    "type": "order",
+    "type": "single",
     "items": [
       "keep other conditions the same",
       "make a prediction",
@@ -520,14 +493,13 @@ window.skillrPracticeQuestions = [
       "compare the results",
       "choose one factor to change"
     ],
-    "correct": [
-      "choose one factor to change",
-      "keep other conditions the same",
-      "make a prediction",
-      "observe and record movement",
-      "compare the results"
-    ],
-    "instruction": "Move the cards into the correct order."
+    "correct": 0,
+    "instruction": "Move the cards into the correct order.",
+    "answers": [
+      "stop it",
+      "turn it into water",
+      "make it grow"
+    ]
   },
   {
     "id": "ac9sfu02-p-029",
@@ -570,15 +542,14 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9SFU02",
     "bank": "practice",
     "skill": "match object and movement",
-    "question": "How does the block mainly move in the shown example?",
+    "question": "What will a ball do on a sloping ramp?",
     "explanation": "The observed movement is slides.",
     "printable": true,
     "type": "single",
     "answers": [
-      "slides",
-      "melts",
-      "grows",
-      "stays hidden"
+      "roll down",
+      "float up",
+      "stay in the air"
     ],
     "correct": 0,
     "visual": "▭"
@@ -588,20 +559,16 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9SFU02",
     "bank": "practice",
     "skill": "choose movement observations",
-    "question": "Which two details should be recorded to compare size fairly?",
+    "question": "Which action is a pull?",
     "explanation": "Record movement outcomes while keeping conditions the same.",
     "printable": true,
-    "type": "multiple",
+    "type": "single",
     "answers": [
-      "bounce height",
-      "number of bounces",
-      "colour",
-      "name"
+      "bringing a door towards you",
+      "sending a ball away",
+      "dropping a leaf"
     ],
-    "correct": [
-      0,
-      1
-    ],
+    "correct": 0,
     "visual": "small and large foam balls | same drop height"
   },
   {
@@ -663,20 +630,16 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9SFU02",
     "bank": "practice",
     "skill": "plan fair movement test",
-    "question": "To test shape, select the two correct plan parts.",
+    "question": "A ball is moving. What can your hand do?",
     "explanation": "Record roll or slide after changing one factor.",
     "printable": true,
-    "type": "multiple",
+    "type": "single",
     "answers": [
-      "Change only shape",
-      "Keep same material, size, ramp and release",
-      "Change every condition",
-      "Record colour only"
+      "stop it",
+      "turn it into water",
+      "make it grow"
     ],
-    "correct": [
-      0,
-      1
-    ],
+    "correct": 0,
     "visual": "sphere and cube made of wood"
   },
   {
@@ -684,15 +647,14 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9SFU02",
     "bank": "practice",
     "skill": "identify changed factor",
-    "question": "What factor changed in this comparison: two wooden objects, one sphere and one cube?",
+    "question": "What usually happens when you push a toy car harder?",
     "explanation": "The description keeps other listed factors alike.",
     "printable": true,
     "type": "single",
     "answers": [
-      "shape",
-      "colour",
-      "name",
-      "time of day"
+      "it moves faster",
+      "it changes colour",
+      "it becomes alive"
     ],
     "correct": 0,
     "visual": "two wooden objects, one sphere and one cube"
@@ -702,15 +664,14 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9SFU02",
     "bank": "practice",
     "skill": "read movement result",
-    "question": "Which sentence describes the observation and possible factor?",
+    "question": "Which surface usually lets a toy car roll farther?",
     "explanation": "The sentence connects the recorded movement with the changed factor.",
     "printable": true,
     "type": "single",
     "answers": [
-      "movement differs; shape differs",
-      "the result proves an always rule",
-      "colour caused it",
-      "no difference was seen"
+      "a smooth floor",
+      "thick grass",
+      "soft sand"
     ],
     "correct": 0,
     "visual": "sphere rolls | cube slides"
@@ -720,15 +681,14 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9SFU02",
     "bank": "practice",
     "skill": "repair unfair comparison",
-    "question": "Why is the test unfair: wooden sphere on ramp and plastic cube on floor?",
+    "question": "What will a ball do on a sloping ramp?",
     "explanation": "Change one factor at a time.",
     "printable": true,
     "type": "single",
     "answers": [
-      "shape, material and surface differ; use same material and ramp while changing shape",
-      "only colour differs",
-      "the test is already fair",
-      "movement cannot be compared"
+      "roll down",
+      "float up",
+      "stay in the air"
     ],
     "correct": 0,
     "visual": "wooden sphere on ramp and plastic cube on floor"
@@ -738,15 +698,14 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9SFU02",
     "bank": "practice",
     "skill": "state cautious movement pattern",
-    "question": "Which conclusion is supported?",
+    "question": "Which action is a pull?",
     "explanation": "The claim is limited to the observed test.",
     "printable": true,
     "type": "single",
     "answers": [
-      "surface is linked to distance in this test",
-      "this must happen for every object everywhere",
-      "colour controls movement",
-      "one result proves all causes"
+      "bringing a door towards you",
+      "sending a ball away",
+      "dropping a leaf"
     ],
     "correct": 0,
     "visual": "tile →→ | carpet →"
@@ -774,10 +733,10 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9SFU02",
     "bank": "practice",
     "skill": "sequence movement investigation",
-    "question": "Order the fair movement investigation steps for scene 3.",
+    "question": "You pull a wagon. What will the wagon do?",
     "explanation": "A fair test changes one factor and records evidence.",
     "printable": true,
-    "type": "order",
+    "type": "single",
     "items": [
       "keep other conditions the same",
       "make a prediction",
@@ -785,14 +744,13 @@ window.skillrPracticeQuestions = [
       "compare the results",
       "choose one factor to change"
     ],
-    "correct": [
-      "choose one factor to change",
-      "keep other conditions the same",
-      "make a prediction",
-      "observe and record movement",
-      "compare the results"
-    ],
-    "instruction": "Move the cards into the correct order."
+    "correct": 0,
+    "instruction": "Move the cards into the correct order.",
+    "answers": [
+      "move towards you",
+      "grow",
+      "melt"
+    ]
   },
   {
     "id": "ac9sfu02-p-043",
@@ -835,15 +793,14 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9SFU02",
     "bank": "practice",
     "skill": "match object and movement",
-    "question": "How does the ball mainly move in the shown example?",
+    "question": "What usually happens when you push a toy car harder?",
     "explanation": "The observed movement is bounces.",
     "printable": true,
     "type": "single",
     "answers": [
-      "bounces",
-      "melts",
-      "grows",
-      "stays hidden"
+      "it moves faster",
+      "it changes colour",
+      "it becomes alive"
     ],
     "correct": 0,
     "visual": "🏀"
@@ -853,20 +810,16 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9SFU02",
     "bank": "practice",
     "skill": "choose movement observations",
-    "question": "Which two details should be recorded to compare size fairly?",
+    "question": "Which surface usually lets a toy car roll farther?",
     "explanation": "Record movement outcomes while keeping conditions the same.",
     "printable": true,
-    "type": "multiple",
+    "type": "single",
     "answers": [
-      "time to finish",
-      "distance after ramp",
-      "colour",
-      "name"
+      "a smooth floor",
+      "thick grass",
+      "soft sand"
     ],
-    "correct": [
-      0,
-      1
-    ],
+    "correct": 0,
     "visual": "small and large plastic cars | same slope"
   },
   {
@@ -928,20 +881,16 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9SFU02",
     "bank": "practice",
     "skill": "plan fair movement test",
-    "question": "To test surface texture, select the two correct plan parts.",
+    "question": "You pull a wagon. What will the wagon do?",
     "explanation": "Record distance travelled after changing one factor.",
     "printable": true,
-    "type": "multiple",
+    "type": "single",
     "answers": [
-      "Change only surface texture",
-      "Keep same size, material, ramp and release",
-      "Change every condition",
-      "Record colour only"
+      "move towards you",
+      "grow",
+      "melt"
     ],
-    "correct": [
-      0,
-      1
-    ],
+    "correct": 0,
     "visual": "smooth and rough balls"
   },
   {
@@ -949,15 +898,14 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9SFU02",
     "bank": "practice",
     "skill": "identify changed factor",
-    "question": "What factor changed in this comparison: same ball on tile and carpet?",
+    "question": "Which object is most likely to roll?",
     "explanation": "The description keeps other listed factors alike.",
     "printable": true,
     "type": "single",
     "answers": [
-      "surface",
-      "colour",
-      "name",
-      "time of day"
+      "a ball",
+      "a book",
+      "a box"
     ],
     "correct": 0,
     "visual": "same ball on tile and carpet"
@@ -967,15 +915,14 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9SFU02",
     "bank": "practice",
     "skill": "read movement result",
-    "question": "Which sentence describes the observation and possible factor?",
+    "question": "A ball is moving. What can your hand do?",
     "explanation": "The sentence connects the recorded movement with the changed factor.",
     "printable": true,
     "type": "single",
     "answers": [
-      "distance differs; surface differs",
-      "the result proves an always rule",
-      "colour caused it",
-      "no difference was seen"
+      "stop it",
+      "turn it into water",
+      "make it grow"
     ],
     "correct": 0,
     "visual": "tile far | carpet short"
@@ -985,15 +932,14 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9SFU02",
     "bank": "practice",
     "skill": "repair unfair comparison",
-    "question": "Why is the test unfair: small car pushed hard and large car released gently?",
+    "question": "What usually happens when you push a toy car harder?",
     "explanation": "Change one factor at a time.",
     "printable": true,
     "type": "single",
     "answers": [
-      "size and release differ; use the same release method",
-      "only colour differs",
-      "the test is already fair",
-      "movement cannot be compared"
+      "it moves faster",
+      "it changes colour",
+      "it becomes alive"
     ],
     "correct": 0,
     "visual": "small car pushed hard and large car released gently"
@@ -1003,15 +949,14 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9SFU02",
     "bank": "practice",
     "skill": "state cautious movement pattern",
-    "question": "Which conclusion is supported?",
+    "question": "Which surface usually lets a toy car roll farther?",
     "explanation": "The claim is limited to the observed test.",
     "printable": true,
     "type": "single",
     "answers": [
-      "consistent release supports fair comparison",
-      "this must happen for every object everywhere",
-      "colour controls movement",
-      "one result proves all causes"
+      "a smooth floor",
+      "thick grass",
+      "soft sand"
     ],
     "correct": 0,
     "visual": "trial 1 = trial 2"
@@ -1039,10 +984,10 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9SFU02",
     "bank": "practice",
     "skill": "sequence movement investigation",
-    "question": "Order the fair movement investigation steps for scene 4.",
+    "question": "Which action is a pull?",
     "explanation": "A fair test changes one factor and records evidence.",
     "printable": true,
-    "type": "order",
+    "type": "single",
     "items": [
       "keep other conditions the same",
       "make a prediction",
@@ -1050,14 +995,13 @@ window.skillrPracticeQuestions = [
       "compare the results",
       "choose one factor to change"
     ],
-    "correct": [
-      "choose one factor to change",
-      "keep other conditions the same",
-      "make a prediction",
-      "observe and record movement",
-      "compare the results"
-    ],
-    "instruction": "Move the cards into the correct order."
+    "correct": 0,
+    "instruction": "Move the cards into the correct order.",
+    "answers": [
+      "bringing a door towards you",
+      "sending a ball away",
+      "dropping a leaf"
+    ]
   }
 ];
 window.quizQuestions = window.skillrPracticeQuestions;

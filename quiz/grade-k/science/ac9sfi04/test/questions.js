@@ -5,17 +5,16 @@ window.skillrTestQuestions = [
     "curriculumCode": "AC9SFI04",
     "bank": "test",
     "skill": "select observation",
-    "question": "Before: “metal spoon will feel colder.” After: “metal spoon felt colder.” Which is the observation?",
+    "question": "On Monday, 2 birds visited. On Tuesday, 4 birds visited. Which day had more birds?",
     "explanation": "The observation reports what was noticed after the test.",
     "printable": true,
     "type": "single",
     "answers": [
-      "metal spoon felt colder",
-      "metal spoon will feel colder",
-      "Both happened before the test",
-      "Neither is a science statement"
+      "Monday",
+      "Tuesday",
+      "both were the same"
     ],
-    "correct": 0,
+    "correct": 1,
     "visual": "BEFORE: metal spoon will feel colder\nAFTER: metal spoon felt colder"
   },
   {
@@ -23,15 +22,14 @@ window.skillrTestQuestions = [
     "curriculumCode": "AC9SFI04",
     "bank": "test",
     "skill": "compare categories",
-    "question": "Prediction: red and yellow leaves. Observation: red, yellow and brown leaves. Which summary is accurate?",
+    "question": "A seedling was short. One week later it was taller. What changed?",
     "explanation": "Compare which categories appear in each record.",
     "printable": true,
     "type": "single",
     "answers": [
-      "Red and yellow matched; brown was unexpected",
-      "Everything matched",
-      "Nothing was observed",
-      "The prediction should be changed"
+      "its height",
+      "its name",
+      "its pot colour"
     ],
     "correct": 0,
     "visual": "P: red and yellow leaves\nO: red, yellow and brown leaves"
@@ -41,15 +39,14 @@ window.skillrTestQuestions = [
     "curriculumCode": "AC9SFI04",
     "bank": "test",
     "skill": "honest result sentence",
-    "question": "Predicted: boat floats 1 minute. Observed: sank after 20 seconds. Which sentence is honest?",
+    "question": "Which is a good way to record how a leaf looks?",
     "explanation": "The original records must stay unchanged.",
     "printable": true,
     "type": "single",
     "answers": [
-      "The observation did not match; it sank sooner",
-      "Change the result to match",
-      "The prediction is always correct",
-      "No comparison can be made"
+      "make a drawing",
+      "hide the leaf",
+      "guess its thoughts"
     ],
     "correct": 0,
     "visual": "P: boat floats 1 minute | O: sank after 20 seconds"
@@ -59,15 +56,14 @@ window.skillrTestQuestions = [
     "curriculumCode": "AC9SFI04",
     "bank": "test",
     "skill": "same and different",
-    "question": "Prediction: cone roll straight. Observation: rolled in a curved path. What was the comparison?",
+    "question": "A class saw 3 ants, then 4 ants, then 5 ants. What pattern do the numbers show?",
     "explanation": "One feature can match while another differs.",
     "printable": true,
     "type": "single",
     "answers": [
-      "rolling matched but the path differed",
-      "all details matched",
-      "no details matched",
-      "the observation happened first"
+      "one more each time",
+      "one less each time",
+      "always the same"
     ],
     "correct": 0,
     "visual": "P → cone roll straight\nO → rolled in a curved path"
@@ -77,17 +73,16 @@ window.skillrTestQuestions = [
     "curriculumCode": "AC9SFI04",
     "bank": "test",
     "skill": "exact table matches",
-    "question": "Which rows match exactly?",
+    "question": "There are 5 red blocks and 2 blue blocks. Which colour has fewer blocks?",
     "explanation": "Exact matches have the same before and after entry.",
     "printable": true,
     "type": "single",
     "answers": [
-      "A and C",
-      "A only",
-      "B only",
-      "all rows"
+      "red",
+      "blue",
+      "both are equal"
     ],
-    "correct": 0,
+    "correct": 1,
     "visual": "A 2→2 | B 3→1 | C 0→0"
   },
   {
@@ -95,15 +90,14 @@ window.skillrTestQuestions = [
     "curriculumCode": "AC9SFI04",
     "bank": "test",
     "skill": "missing observation",
-    "question": "Note: “The car moved.” Can the class decide whether the prediction matched?",
+    "question": "Which record is useful for counting birds?",
     "explanation": "A clear comparison needs specific evidence.",
     "printable": true,
     "type": "single",
     "answers": [
-      "No, the record is missing tile and carpet distances",
-      "Yes, the note proves a match",
-      "Yes, movement always matches",
-      "Erase the prediction"
+      "tally marks",
+      "a made-up story",
+      "an empty page"
     ],
     "correct": 0,
     "visual": "note: The car moved"
@@ -113,15 +107,14 @@ window.skillrTestQuestions = [
     "curriculumCode": "AC9SFI04",
     "bank": "test",
     "skill": "numerical comparison",
-    "question": "predicted 5 birds, observed 7. How does the observation compare?",
+    "question": "The ice cube became smaller. Which drawing should come second?",
     "explanation": "Subtract the two recorded counts.",
     "printable": true,
     "type": "single",
     "answers": [
-      "2 more than predicted",
-      "the same",
-      "no observation",
-      "the prediction occurred later"
+      "the smaller ice cube",
+      "the larger ice cube",
+      "a wooden block"
     ],
     "correct": 0,
     "visual": "predicted 5 birds, observed 7"
@@ -131,15 +124,14 @@ window.skillrTestQuestions = [
     "curriculumCode": "AC9SFI04",
     "bank": "test",
     "skill": "use dated prediction",
-    "question": "Prediction card: roll | Memory: slide | Observation: slide. Which comparison should be recorded?",
+    "question": "Three flowers were closed. Later, three flowers were open. What changed?",
     "explanation": "Use the record made before the test.",
     "printable": true,
     "type": "single",
     "answers": [
-      "The written prediction did not match",
-      "Memory replaces the card",
-      "Change the observation",
-      "Hide the old prediction"
+      "the flowers opened",
+      "the number became ten",
+      "the flowers became rocks"
     ],
     "correct": 0,
     "visual": "Prediction card: roll | Memory: slide | Observation: slide"
@@ -149,17 +141,16 @@ window.skillrTestQuestions = [
     "curriculumCode": "AC9SFI04",
     "bank": "test",
     "skill": "use repeated evidence",
-    "question": "What does this repeated record support?",
+    "question": "On Monday, 2 birds visited. On Tuesday, 4 birds visited. Which day had more birds?",
     "explanation": "Repeated observations strengthen the comparison.",
     "printable": true,
     "type": "single",
     "answers": [
-      "The repeated result contradicts the prediction",
-      "One result should be erased",
-      "The prediction caused it",
-      "No pattern can be seen"
+      "Monday",
+      "Tuesday",
+      "both were the same"
     ],
-    "correct": 0,
+    "correct": 1,
     "visual": "three trials all show the small ball higher"
   },
   {
@@ -167,15 +158,14 @@ window.skillrTestQuestions = [
     "curriculumCode": "AC9SFI04",
     "bank": "test",
     "skill": "choose next question",
-    "question": "Which question follows from the unexpected brown leaf?",
+    "question": "A seedling was short. One week later it was taller. What changed?",
     "explanation": "A useful next question builds from evidence.",
     "printable": true,
     "type": "single",
     "answers": [
-      "What conditions made the leaf brown?",
-      "Can we ignore it?",
-      "Which result is prettiest?",
-      "Should the prediction be rewritten?"
+      "its height",
+      "its name",
+      "its pot colour"
     ],
     "correct": 0,
     "visual": "unexpected brown leaf"
@@ -185,15 +175,14 @@ window.skillrTestQuestions = [
     "curriculumCode": "AC9SFI04",
     "bank": "test",
     "skill": "label comparison",
-    "question": "Which label belongs beside the pair?",
+    "question": "Which is a good way to record how a leaf looks?",
     "explanation": "The label directly compares the records.",
     "printable": true,
     "type": "single",
     "answers": [
-      "matched",
-      "prediction only",
-      "observation missing",
-      "unsafe"
+      "make a drawing",
+      "hide the leaf",
+      "guess its thoughts"
     ],
     "correct": 0,
     "visual": "Prediction: 2 birds; Observation: 2 birds"
@@ -203,40 +192,39 @@ window.skillrTestQuestions = [
     "curriculumCode": "AC9SFI04",
     "bank": "test",
     "skill": "order comparison process",
-    "question": "Order the comparison steps for test situation 1.",
+    "question": "A class saw 3 ants, then 4 ants, then 5 ants. What pattern do the numbers show?",
     "explanation": "Compare the original records in order.",
     "printable": true,
-    "type": "order",
+    "type": "single",
     "items": [
       "read the recorded observation",
       "notice what is the same and different",
       "state whether it matched",
       "read the original prediction"
     ],
-    "correct": [
-      "read the original prediction",
-      "read the recorded observation",
-      "notice what is the same and different",
-      "state whether it matched"
-    ],
-    "instruction": "Move the cards into the correct order."
+    "correct": 0,
+    "instruction": "Move the cards into the correct order.",
+    "answers": [
+      "one more each time",
+      "one less each time",
+      "always the same"
+    ]
   },
   {
     "id": "ac9sfi04-t-013",
     "curriculumCode": "AC9SFI04",
     "bank": "test",
     "skill": "select observation",
-    "question": "Before: “foam ball will bounce high.” After: “foam ball did not bounce.” Which is the observation?",
+    "question": "There are 5 red blocks and 2 blue blocks. Which colour has fewer blocks?",
     "explanation": "The observation reports what was noticed after the test.",
     "printable": true,
     "type": "single",
     "answers": [
-      "foam ball did not bounce",
-      "foam ball will bounce high",
-      "Both happened before the test",
-      "Neither is a science statement"
+      "red",
+      "blue",
+      "both are equal"
     ],
-    "correct": 0,
+    "correct": 1,
     "visual": "BEFORE: foam ball will bounce high\nAFTER: foam ball did not bounce"
   },
   {
@@ -244,15 +232,14 @@ window.skillrTestQuestions = [
     "curriculumCode": "AC9SFI04",
     "bank": "test",
     "skill": "compare categories",
-    "question": "Prediction: ants and butterflies. Observation: ants and bees. Which summary is accurate?",
+    "question": "Which record is useful for counting birds?",
     "explanation": "Compare which categories appear in each record.",
     "printable": true,
     "type": "single",
     "answers": [
-      "Ants matched; bees were unexpected and butterflies were missing",
-      "Everything matched",
-      "Nothing was observed",
-      "The prediction should be changed"
+      "tally marks",
+      "a made-up story",
+      "an empty page"
     ],
     "correct": 0,
     "visual": "P: ants and butterflies\nO: ants and bees"
@@ -262,15 +249,14 @@ window.skillrTestQuestions = [
     "curriculumCode": "AC9SFI04",
     "bank": "test",
     "skill": "honest result sentence",
-    "question": "Predicted: ball bounces 4 times. Observed: bounced 2 times. Which sentence is honest?",
+    "question": "The ice cube became smaller. Which drawing should come second?",
     "explanation": "The original records must stay unchanged.",
     "printable": true,
     "type": "single",
     "answers": [
-      "The observation did not match; it bounced fewer times",
-      "Change the result to match",
-      "The prediction is always correct",
-      "No comparison can be made"
+      "the smaller ice cube",
+      "the larger ice cube",
+      "a wooden block"
     ],
     "correct": 0,
     "visual": "P: ball bounces 4 times | O: bounced 2 times"
@@ -280,15 +266,14 @@ window.skillrTestQuestions = [
     "curriculumCode": "AC9SFI04",
     "bank": "test",
     "skill": "same and different",
-    "question": "Prediction: ball bounce high. Observation: bounced low. What was the comparison?",
+    "question": "Three flowers were closed. Later, three flowers were open. What changed?",
     "explanation": "One feature can match while another differs.",
     "printable": true,
     "type": "single",
     "answers": [
-      "bouncing matched but the height differed",
-      "all details matched",
-      "no details matched",
-      "the observation happened first"
+      "the flowers opened",
+      "the number became ten",
+      "the flowers became rocks"
     ],
     "correct": 0,
     "visual": "P → ball bounce high\nO → bounced low"
@@ -298,17 +283,16 @@ window.skillrTestQuestions = [
     "curriculumCode": "AC9SFI04",
     "bank": "test",
     "skill": "exact table matches",
-    "question": "Which rows match exactly?",
+    "question": "On Monday, 2 birds visited. On Tuesday, 4 birds visited. Which day had more birds?",
     "explanation": "Exact matches have the same before and after entry.",
     "printable": true,
     "type": "single",
     "answers": [
-      "A and C",
-      "A only",
-      "B only",
-      "all rows"
+      "Monday",
+      "Tuesday",
+      "both were the same"
     ],
-    "correct": 0,
+    "correct": 1,
     "visual": "A red→red | B blue→green | C 5→5"
   },
   {
@@ -316,15 +300,14 @@ window.skillrTestQuestions = [
     "curriculumCode": "AC9SFI04",
     "bank": "test",
     "skill": "missing observation",
-    "question": "Note: “The plant changed.” Can the class decide whether the prediction matched?",
+    "question": "A seedling was short. One week later it was taller. What changed?",
     "explanation": "A clear comparison needs specific evidence.",
     "printable": true,
     "type": "single",
     "answers": [
-      "No, the record is missing predicted and observed leaf counts",
-      "Yes, the note proves a match",
-      "Yes, movement always matches",
-      "Erase the prediction"
+      "its height",
+      "its name",
+      "its pot colour"
     ],
     "correct": 0,
     "visual": "note: The plant changed"
@@ -334,15 +317,14 @@ window.skillrTestQuestions = [
     "curriculumCode": "AC9SFI04",
     "bank": "test",
     "skill": "numerical comparison",
-    "question": "predicted 4 bounces, observed 1. How does the observation compare?",
+    "question": "Which is a good way to record how a leaf looks?",
     "explanation": "Subtract the two recorded counts.",
     "printable": true,
     "type": "single",
     "answers": [
-      "3 fewer than predicted",
-      "the same",
-      "no observation",
-      "the prediction occurred later"
+      "make a drawing",
+      "hide the leaf",
+      "guess its thoughts"
     ],
     "correct": 0,
     "visual": "predicted 4 bounces, observed 1"
@@ -352,15 +334,14 @@ window.skillrTestQuestions = [
     "curriculumCode": "AC9SFI04",
     "bank": "test",
     "skill": "use dated prediction",
-    "question": "Prediction card: 2 flowers | Memory: 4 | Observation: 4. Which comparison should be recorded?",
+    "question": "A class saw 3 ants, then 4 ants, then 5 ants. What pattern do the numbers show?",
     "explanation": "Use the record made before the test.",
     "printable": true,
     "type": "single",
     "answers": [
-      "The written prediction did not match",
-      "Memory replaces the card",
-      "Change the observation",
-      "Hide the old prediction"
+      "one more each time",
+      "one less each time",
+      "always the same"
     ],
     "correct": 0,
     "visual": "Prediction card: 2 flowers | Memory: 4 | Observation: 4"
@@ -370,17 +351,16 @@ window.skillrTestQuestions = [
     "curriculumCode": "AC9SFI04",
     "bank": "test",
     "skill": "use repeated evidence",
-    "question": "What does this repeated record support?",
+    "question": "There are 5 red blocks and 2 blue blocks. Which colour has fewer blocks?",
     "explanation": "Repeated observations strengthen the comparison.",
     "printable": true,
     "type": "single",
     "answers": [
-      "The observation is consistent across counts",
-      "One result should be erased",
-      "The prediction caused it",
-      "No pattern can be seen"
+      "red",
+      "blue",
+      "both are equal"
     ],
-    "correct": 0,
+    "correct": 1,
     "visual": "three counts all show 4 ants"
   },
   {
@@ -388,15 +368,14 @@ window.skillrTestQuestions = [
     "curriculumCode": "AC9SFI04",
     "bank": "test",
     "skill": "choose next question",
-    "question": "Which question follows from the unexpected curved roll?",
+    "question": "Which record is useful for counting birds?",
     "explanation": "A useful next question builds from evidence.",
     "printable": true,
     "type": "single",
     "answers": [
-      "Does orientation change the path?",
-      "Can we ignore it?",
-      "Which result is prettiest?",
-      "Should the prediction be rewritten?"
+      "tally marks",
+      "a made-up story",
+      "an empty page"
     ],
     "correct": 0,
     "visual": "unexpected curved roll"
@@ -406,15 +385,14 @@ window.skillrTestQuestions = [
     "curriculumCode": "AC9SFI04",
     "bank": "test",
     "skill": "label comparison",
-    "question": "Which label belongs beside the pair?",
+    "question": "The ice cube became smaller. Which drawing should come second?",
     "explanation": "The label directly compares the records.",
     "printable": true,
     "type": "single",
     "answers": [
-      "did not match",
-      "prediction only",
-      "observation missing",
-      "unsafe"
+      "the smaller ice cube",
+      "the larger ice cube",
+      "a wooden block"
     ],
     "correct": 0,
     "visual": "Prediction: flower; Observation: leaves"
@@ -424,24 +402,23 @@ window.skillrTestQuestions = [
     "curriculumCode": "AC9SFI04",
     "bank": "test",
     "skill": "order comparison process",
-    "question": "Order the comparison steps for test situation 2.",
+    "question": "Three flowers were closed. Later, three flowers were open. What changed?",
     "explanation": "Compare the original records in order.",
     "printable": true,
-    "type": "order",
+    "type": "single",
     "items": [
       "read the recorded observation",
       "notice what is the same and different",
       "state whether it matched",
       "read the original prediction"
     ],
-    "correct": [
-      "read the original prediction",
-      "read the recorded observation",
-      "notice what is the same and different",
-      "state whether it matched"
-    ],
-    "instruction": "Move the cards into the correct order."
+    "correct": 0,
+    "instruction": "Move the cards into the correct order.",
+    "answers": [
+      "the flowers opened",
+      "the number became ten",
+      "the flowers became rocks"
+    ]
   }
 ];
-window.skillrExamQuestions = window.skillrTestQuestions;
 window.quizQuestions = window.skillrTestQuestions;

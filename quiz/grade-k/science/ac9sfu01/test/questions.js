@@ -5,15 +5,14 @@ window.skillrTestQuestions = [
     "curriculumCode": "AC9SFU01",
     "bank": "test",
     "skill": "identify external pair",
-    "question": "Which pair contains only visible external features of the fish?",
+    "question": "Which feature can you see on a duck?",
     "explanation": "Both correct features are on the outside.",
     "printable": true,
     "type": "single",
     "answers": [
-      "fins and scales",
-      "lungs and bones",
-      "memory and hunger",
-      "blood and stomach"
+      "feathers",
+      "thoughts",
+      "hunger"
     ],
     "correct": 0,
     "visual": "🐟"
@@ -23,20 +22,16 @@ window.skillrTestQuestions = [
     "curriculumCode": "AC9SFU01",
     "bank": "test",
     "skill": "name plant parts",
-    "question": "Select two visible parts of the seedling.",
+    "question": "Which part of a plant usually grows under the soil?",
     "explanation": "Both parts can be observed.",
     "printable": true,
-    "type": "multiple",
+    "type": "single",
     "answers": [
-      "roots",
-      "leaves",
-      "heartbeat",
-      "thoughts"
+      "root",
+      "flower",
+      "leaf"
     ],
-    "correct": [
-      0,
-      1
-    ],
+    "correct": 0,
     "visual": "🌱 roots ↓ | leaves ↑"
   },
   {
@@ -44,15 +39,14 @@ window.skillrTestQuestions = [
     "curriculumCode": "AC9SFU01",
     "bank": "test",
     "skill": "select grouping rule",
-    "question": "Which rule explains the grouping?",
+    "question": "Which feature can you see on a cat?",
     "explanation": "The rule uses a visible feature.",
     "printable": true,
     "type": "single",
     "answers": [
-      "visible legs / no visible legs",
-      "alive / not alive",
-      "friendly / unfriendly",
-      "fast / slow"
+      "fur",
+      "heartbeat",
+      "thoughts"
     ],
     "correct": 0,
     "visual": "🕷️ 🪲 | 🐌 🪱"
@@ -62,15 +56,14 @@ window.skillrTestQuestions = [
     "curriculumCode": "AC9SFU01",
     "bank": "test",
     "skill": "find wrong member",
-    "question": "Which item does not follow the group rule?",
+    "question": "Which animal has fins?",
     "explanation": "The item lacks the named feature.",
     "printable": true,
     "type": "single",
     "answers": [
-      "mouse",
-      "first item",
-      "second item",
-      "all follow"
+      "fish",
+      "dog",
+      "ant"
     ],
     "correct": 0,
     "visual": "wings: bat, eagle, mouse"
@@ -80,15 +73,14 @@ window.skillrTestQuestions = [
     "curriculumCode": "AC9SFU01",
     "bank": "test",
     "skill": "compare features",
-    "question": "Which comparison is supported?",
+    "question": "What covers most of a bird's body?",
     "explanation": "The comparison uses visible features.",
     "printable": true,
     "type": "single",
     "answers": [
-      "shape and edge differ",
-      "their thoughts differ",
-      "one is happier",
-      "their hidden organs differ"
+      "feathers",
+      "scales",
+      "bark"
     ],
     "correct": 0,
     "visual": "A: long smooth leaf\nB: round jagged leaf"
@@ -98,15 +90,14 @@ window.skillrTestQuestions = [
     "curriculumCode": "AC9SFU01",
     "bank": "test",
     "skill": "use close-up evidence",
-    "question": "Which observation is supported?",
+    "question": "Which part of a plant is usually green and flat?",
     "explanation": "The close-up shows surface detail.",
     "printable": true,
     "type": "single",
     "answers": [
-      "The surface has tiny overlapping scales",
-      "it likes the night",
-      "it is hungry",
-      "it remembers flowers"
+      "leaf",
+      "root",
+      "seed"
     ],
     "correct": 0,
     "visual": "🦋 🔍"
@@ -116,15 +107,14 @@ window.skillrTestQuestions = [
     "curriculumCode": "AC9SFU01",
     "bank": "test",
     "skill": "choose hierarchical sort",
-    "question": "Which plan sorts the whole collection using external features?",
+    "question": "Which animal has a shell on the outside of its body?",
     "explanation": "The plan uses successive observable rules.",
     "printable": true,
     "type": "single",
     "answers": [
-      "plants / animals, then flowers / no flowers and fur / no fur",
-      "happy / sad, then favourite food",
-      "old / young, then memory",
-      "fast / slow, then thoughts"
+      "turtle",
+      "rabbit",
+      "fish"
     ],
     "correct": 0,
     "visual": "🌹 🌲 🐔 🐢 🍓 🐇"
@@ -134,15 +124,14 @@ window.skillrTestQuestions = [
     "curriculumCode": "AC9SFU01",
     "bank": "test",
     "skill": "overlapping classification",
-    "question": "What is a fair way to show the item belongs to both groups?",
+    "question": "Which feature can you see on a butterfly?",
     "explanation": "Overlapping groups show both true features.",
     "printable": true,
     "type": "single",
     "answers": [
-      "place it in overlapping fur and bill groups",
-      "force it into neither group",
-      "erase one feature",
-      "choose by colour only"
+      "wings",
+      "bones",
+      "thoughts"
     ],
     "correct": 0,
     "visual": "🦫"
@@ -152,14 +141,13 @@ window.skillrTestQuestions = [
     "curriculumCode": "AC9SFU01",
     "bank": "test",
     "skill": "find similarity",
-    "question": "Which visible feature can both share?",
+    "question": "Which feature can you see on a duck?",
     "explanation": "The feature can be seen on the outside.",
     "printable": true,
     "type": "single",
     "answers": [
-      "eyes",
-      "memory",
-      "heartbeat",
+      "feathers",
+      "thoughts",
       "hunger"
     ],
     "correct": 0,
@@ -170,15 +158,14 @@ window.skillrTestQuestions = [
     "curriculumCode": "AC9SFU01",
     "bank": "test",
     "skill": "identify plant food part",
-    "question": "Which part of the plant is the carrot?",
+    "question": "Which part of a plant usually grows under the soil?",
     "explanation": "The carrot is a root.",
     "printable": true,
     "type": "single",
     "answers": [
       "root",
-      "leaf",
       "flower",
-      "bark"
+      "leaf"
     ],
     "correct": 0,
     "visual": "🥕"
@@ -188,15 +175,14 @@ window.skillrTestQuestions = [
     "curriculumCode": "AC9SFU01",
     "bank": "test",
     "skill": "state common pattern",
-    "question": "Which pattern is supported?",
+    "question": "Which feature can you see on a cat?",
     "explanation": "The shared features appear in every example.",
     "printable": true,
     "type": "single",
     "answers": [
-      "fins and scales are shared",
-      "all are the same colour",
-      "all are the same size",
-      "all behave identically"
+      "fur",
+      "heartbeat",
+      "thoughts"
     ],
     "correct": 0,
     "visual": "three fish all have fins and scales but different colours"
@@ -206,38 +192,37 @@ window.skillrTestQuestions = [
     "curriculumCode": "AC9SFU01",
     "bank": "test",
     "skill": "sequence a feature sort",
-    "question": "Order the steps for sorting the collection in test 1.",
+    "question": "Which animal has fins?",
     "explanation": "A consistent sort starts with observation and a clear rule.",
     "printable": true,
-    "type": "order",
+    "type": "single",
     "items": [
       "choose one visible feature rule",
       "place every item using the rule",
       "check that each item fits",
       "look closely at external features"
     ],
-    "correct": [
-      "look closely at external features",
-      "choose one visible feature rule",
-      "place every item using the rule",
-      "check that each item fits"
-    ],
-    "instruction": "Move the cards into the correct order."
+    "correct": 0,
+    "instruction": "Move the cards into the correct order.",
+    "answers": [
+      "fish",
+      "dog",
+      "ant"
+    ]
   },
   {
     "id": "ac9sfu01-t-013",
     "curriculumCode": "AC9SFU01",
     "bank": "test",
     "skill": "identify external pair",
-    "question": "Which pair contains only visible external features of the bird?",
+    "question": "What covers most of a bird's body?",
     "explanation": "Both correct features are on the outside.",
     "printable": true,
     "type": "single",
     "answers": [
-      "feathers and beak",
-      "heart and thoughts",
-      "memory and hunger",
-      "blood and stomach"
+      "feathers",
+      "scales",
+      "bark"
     ],
     "correct": 0,
     "visual": "🐦"
@@ -247,20 +232,16 @@ window.skillrTestQuestions = [
     "curriculumCode": "AC9SFU01",
     "bank": "test",
     "skill": "name plant parts",
-    "question": "Select two visible parts of the flower.",
+    "question": "Which part of a plant is usually green and flat?",
     "explanation": "Both parts can be observed.",
     "printable": true,
-    "type": "multiple",
+    "type": "single",
     "answers": [
-      "stem",
-      "petals",
-      "heartbeat",
-      "thoughts"
+      "leaf",
+      "root",
+      "seed"
     ],
-    "correct": [
-      0,
-      1
-    ],
+    "correct": 0,
     "visual": "🌼"
   },
   {
@@ -268,15 +249,14 @@ window.skillrTestQuestions = [
     "curriculumCode": "AC9SFU01",
     "bank": "test",
     "skill": "select grouping rule",
-    "question": "Which rule explains the grouping?",
+    "question": "Which animal has a shell on the outside of its body?",
     "explanation": "The rule uses a visible feature.",
     "printable": true,
     "type": "single",
     "answers": [
-      "fur / no fur",
-      "alive / not alive",
-      "friendly / unfriendly",
-      "fast / slow"
+      "turtle",
+      "rabbit",
+      "fish"
     ],
     "correct": 0,
     "visual": "🐈 🐇 | 🦆 🐟"
@@ -286,15 +266,14 @@ window.skillrTestQuestions = [
     "curriculumCode": "AC9SFU01",
     "bank": "test",
     "skill": "find wrong member",
-    "question": "Which item does not follow the group rule?",
+    "question": "Which feature can you see on a butterfly?",
     "explanation": "The item lacks the named feature.",
     "printable": true,
     "type": "single",
     "answers": [
-      "lizard",
-      "first item",
-      "second item",
-      "all follow"
+      "wings",
+      "bones",
+      "thoughts"
     ],
     "correct": 0,
     "visual": "fur: cat, rabbit, lizard"
@@ -304,15 +283,14 @@ window.skillrTestQuestions = [
     "curriculumCode": "AC9SFU01",
     "bank": "test",
     "skill": "compare features",
-    "question": "Which comparison is supported?",
+    "question": "Which feature can you see on a duck?",
     "explanation": "The comparison uses visible features.",
     "printable": true,
     "type": "single",
     "answers": [
-      "colour and petal number differ",
-      "their thoughts differ",
-      "one is happier",
-      "their hidden organs differ"
+      "feathers",
+      "thoughts",
+      "hunger"
     ],
     "correct": 0,
     "visual": "A: red 5-petal flower\nB: yellow many-petal flower"
@@ -322,15 +300,14 @@ window.skillrTestQuestions = [
     "curriculumCode": "AC9SFU01",
     "bank": "test",
     "skill": "use close-up evidence",
-    "question": "Which observation is supported?",
+    "question": "Which part of a plant usually grows under the soil?",
     "explanation": "The close-up shows surface detail.",
     "printable": true,
     "type": "single",
     "answers": [
-      "The surface has tiny veins",
-      "it likes the night",
-      "it is hungry",
-      "it remembers flowers"
+      "root",
+      "flower",
+      "leaf"
     ],
     "correct": 0,
     "visual": "🌿 🔍"
@@ -340,15 +317,14 @@ window.skillrTestQuestions = [
     "curriculumCode": "AC9SFU01",
     "bank": "test",
     "skill": "choose hierarchical sort",
-    "question": "Which plan sorts the whole collection using external features?",
+    "question": "Which feature can you see on a cat?",
     "explanation": "The plan uses successive observable rules.",
     "printable": true,
     "type": "single",
     "answers": [
-      "plants / animals, then broad / narrow leaves and fur / no fur",
-      "happy / sad, then favourite food",
-      "old / young, then memory",
-      "fast / slow, then thoughts"
+      "fur",
+      "heartbeat",
+      "thoughts"
     ],
     "correct": 0,
     "visual": "🌿 🌱 🐈 🦆 🍊 🐟"
@@ -358,15 +334,14 @@ window.skillrTestQuestions = [
     "curriculumCode": "AC9SFU01",
     "bank": "test",
     "skill": "overlapping classification",
-    "question": "What is a fair way to show the item belongs to both groups?",
+    "question": "Which animal has fins?",
     "explanation": "Overlapping groups show both true features.",
     "printable": true,
     "type": "single",
     "answers": [
-      "place it in overlapping fur and wing groups",
-      "force it into neither group",
-      "erase one feature",
-      "choose by colour only"
+      "fish",
+      "dog",
+      "ant"
     ],
     "correct": 0,
     "visual": "🦇"
@@ -376,15 +351,14 @@ window.skillrTestQuestions = [
     "curriculumCode": "AC9SFU01",
     "bank": "test",
     "skill": "find similarity",
-    "question": "Which visible feature can both share?",
+    "question": "What covers most of a bird's body?",
     "explanation": "The feature can be seen on the outside.",
     "printable": true,
     "type": "single",
     "answers": [
-      "fur",
-      "memory",
-      "heartbeat",
-      "hunger"
+      "feathers",
+      "scales",
+      "bark"
     ],
     "correct": 0,
     "visual": "cat and dog"
@@ -394,15 +368,14 @@ window.skillrTestQuestions = [
     "curriculumCode": "AC9SFU01",
     "bank": "test",
     "skill": "identify plant food part",
-    "question": "Which part of the plant is the apple?",
+    "question": "Which part of a plant is usually green and flat?",
     "explanation": "The apple is a fruit.",
     "printable": true,
     "type": "single",
     "answers": [
-      "fruit",
       "leaf",
-      "flower",
-      "bark"
+      "root",
+      "seed"
     ],
     "correct": 0,
     "visual": "🍎"
@@ -412,15 +385,14 @@ window.skillrTestQuestions = [
     "curriculumCode": "AC9SFU01",
     "bank": "test",
     "skill": "state common pattern",
-    "question": "Which pattern is supported?",
+    "question": "Which animal has a shell on the outside of its body?",
     "explanation": "The shared features appear in every example.",
     "printable": true,
     "type": "single",
     "answers": [
-      "feathers and beaks are shared",
-      "all are the same colour",
-      "all are the same size",
-      "all behave identically"
+      "turtle",
+      "rabbit",
+      "fish"
     ],
     "correct": 0,
     "visual": "three birds all have feathers and beaks but different sizes"
@@ -430,24 +402,23 @@ window.skillrTestQuestions = [
     "curriculumCode": "AC9SFU01",
     "bank": "test",
     "skill": "sequence a feature sort",
-    "question": "Order the steps for sorting the collection in test 2.",
+    "question": "Which feature can you see on a butterfly?",
     "explanation": "A consistent sort starts with observation and a clear rule.",
     "printable": true,
-    "type": "order",
+    "type": "single",
     "items": [
       "choose one visible feature rule",
       "place every item using the rule",
       "check that each item fits",
       "look closely at external features"
     ],
-    "correct": [
-      "look closely at external features",
-      "choose one visible feature rule",
-      "place every item using the rule",
-      "check that each item fits"
-    ],
-    "instruction": "Move the cards into the correct order."
+    "correct": 0,
+    "instruction": "Move the cards into the correct order.",
+    "answers": [
+      "wings",
+      "bones",
+      "thoughts"
+    ]
   }
 ];
-window.skillrExamQuestions = window.skillrTestQuestions;
 window.quizQuestions = window.skillrTestQuestions;

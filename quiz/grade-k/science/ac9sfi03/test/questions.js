@@ -5,15 +5,14 @@ window.skillrTestQuestions = [
     "curriculumCode": "AC9SFI03",
     "bank": "test",
     "skill": "infer headings",
-    "question": "Which headings best label these two groups?",
+    "question": "Which sense helps you notice a bell ringing?",
     "explanation": "The headings match a visible feature.",
     "printable": true,
     "type": "single",
     "answers": [
-      "Fur / No fur",
-      "Fast / Slow",
-      "Likes water / Does not",
-      "Friendly / Unfriendly"
+      "hearing",
+      "sight",
+      "taste"
     ],
     "correct": 0,
     "visual": "🐈 🐇 | 🐍 🐟"
@@ -23,15 +22,14 @@ window.skillrTestQuestions = [
     "curriculumCode": "AC9SFI03",
     "bank": "test",
     "skill": "read tally",
-    "question": "What comparison is shown by the tally?",
+    "question": "Which sense helps you notice that a ball is red?",
     "explanation": "Rough stones have the larger recorded count.",
     "printable": true,
     "type": "single",
     "answers": [
-      "More rough stones than smooth stones",
-      "More smooth stones than rough stones",
-      "The groups are equal",
-      "No observations were made"
+      "sight",
+      "hearing",
+      "smell"
     ],
     "correct": 0,
     "visual": "smooth ||||\nrough ||||| |"
@@ -41,15 +39,14 @@ window.skillrTestQuestions = [
     "curriculumCode": "AC9SFI03",
     "bank": "test",
     "skill": "add observation to table",
-    "question": "Where should “clear plastic” be placed?",
+    "question": "Which sense helps you notice rough bark?",
     "explanation": "The observed property matches Transparent.",
     "printable": true,
     "type": "single",
     "answers": [
-      "Transparent",
-      "Not transparent",
-      "in both columns",
-      "outside the table"
+      "touch",
+      "hearing",
+      "taste"
     ],
     "correct": 0,
     "visual": "glass | wood | clear plastic"
@@ -59,15 +56,14 @@ window.skillrTestQuestions = [
     "curriculumCode": "AC9SFI03",
     "bank": "test",
     "skill": "select shared pattern",
-    "question": "Which feature pattern is shared by all three?",
+    "question": "Which tool helps you see tiny details?",
     "explanation": "All three show fins and scales.",
     "printable": true,
     "type": "single",
     "answers": [
-      "fins and scales",
-      "same colour",
-      "same size",
-      "same name"
+      "magnifying glass",
+      "ruler",
+      "cup"
     ],
     "correct": 0,
     "visual": "🐟 🐠 🐟"
@@ -77,15 +73,14 @@ window.skillrTestQuestions = [
     "curriculumCode": "AC9SFI03",
     "bank": "test",
     "skill": "match number to observation",
-    "question": "Which number label completes the record for the rubber ball?",
+    "question": "Which tool helps compare the length of two pencils?",
     "explanation": "The record shows 6 bounces.",
     "printable": true,
     "type": "single",
     "answers": [
-      "6",
-      "7",
-      "5",
-      "0"
+      "ruler",
+      "thermometer",
+      "watering can"
     ],
     "correct": 0,
     "visual": "🏀 ↗ ↗ ↗ ↗ ↗ ↗"
@@ -95,15 +90,14 @@ window.skillrTestQuestions = [
     "curriculumCode": "AC9SFI03",
     "bank": "test",
     "skill": "find exception",
-    "question": "Which feature has an exception in the table?",
+    "question": "Which tool helps check temperature?",
     "explanation": "sparrow and duck only have the feature.",
     "printable": true,
     "type": "single",
     "answers": [
-      "can fly",
-      "the first shared feature",
-      "the second shared feature",
-      "being an animal"
+      "thermometer",
+      "balance",
+      "paintbrush"
     ],
     "correct": 0,
     "visual": "feathers ✓✓✓ | wings ✓✓✓ | flies ✓✓✗"
@@ -113,15 +107,14 @@ window.skillrTestQuestions = [
     "curriculumCode": "AC9SFI03",
     "bank": "test",
     "skill": "trustworthy graph key",
-    "question": "Which key should the class use for the display?",
+    "question": "Which tool can help compare how heavy two objects are?",
     "explanation": "A consistent one-to-one key is clear.",
     "printable": true,
     "type": "single",
     "answers": [
-      "one symbol = one animal",
-      "one large symbol = any number",
-      "symbol size decides the count",
-      "no rule is needed"
+      "balance",
+      "magnifying glass",
+      "torch"
     ],
     "correct": 0,
     "visual": "🦎×3 | 🐦×5"
@@ -131,15 +124,14 @@ window.skillrTestQuestions = [
     "curriculumCode": "AC9SFI03",
     "bank": "test",
     "skill": "state evidence pattern",
-    "question": "Which result sentence matches the record?",
+    "question": "Which sense helps you notice the smell of a flower?",
     "explanation": "The sentence compares the recorded counts.",
     "printable": true,
     "type": "single",
     "answers": [
-      "More birds were observed than butterflies",
-      "The groups are the same",
-      "The record proves a cause",
-      "Size was measured"
+      "smell",
+      "hearing",
+      "sight"
     ],
     "correct": 0,
     "visual": "birds •••• | butterflies ••"
@@ -149,15 +141,14 @@ window.skillrTestQuestions = [
     "curriculumCode": "AC9SFI03",
     "bank": "test",
     "skill": "connect two variables",
-    "question": "Which sentence connects both recorded features?",
+    "question": "Which sense helps you notice a bell ringing?",
     "explanation": "The statement links the two columns without saying it is always true.",
     "printable": true,
     "type": "single",
     "answers": [
-      "Round objects rolled and flat-faced objects slid in this test",
-      "Every object behaves this way",
-      "Colour caused the result",
-      "No pattern is shown"
+      "hearing",
+      "sight",
+      "taste"
     ],
     "correct": 0,
     "visual": "ball—round—rolls | cube—flat—slides"
@@ -167,15 +158,14 @@ window.skillrTestQuestions = [
     "curriculumCode": "AC9SFI03",
     "bank": "test",
     "skill": "choose correct column",
-    "question": "Which column should receive the new item “magpie”?",
+    "question": "Which sense helps you notice that a ball is red?",
     "explanation": "The item shares the observed feature of the Has wings column.",
     "printable": true,
     "type": "single",
     "answers": [
-      "Has wings",
-      "No wings",
-      "both columns",
-      "neither column"
+      "sight",
+      "hearing",
+      "smell"
     ],
     "correct": 0,
     "visual": "🦋 | 🐌 | 🐦"
@@ -185,15 +175,14 @@ window.skillrTestQuestions = [
     "curriculumCode": "AC9SFI03",
     "bank": "test",
     "skill": "identify missing evidence",
-    "question": "The note says “The car moved”. What information is missing to find a pattern?",
+    "question": "Which sense helps you notice rough bark?",
     "explanation": "The comparison needs recorded observations.",
     "printable": true,
     "type": "single",
     "answers": [
-      "tile versus carpet distance",
-      "a favourite colour",
-      "a story title",
-      "the observer’s age"
+      "touch",
+      "hearing",
+      "taste"
     ],
     "correct": 0,
     "visual": "🚗 tile ? | carpet ?"
@@ -203,38 +192,37 @@ window.skillrTestQuestions = [
     "curriculumCode": "AC9SFI03",
     "bank": "test",
     "skill": "sequence record and interpret",
-    "question": "Order the actions for reading a science template in test scene 1.",
+    "question": "Which tool helps you see tiny details?",
     "explanation": "Headings give meaning before counts are compared.",
     "printable": true,
-    "type": "order",
+    "type": "single",
     "items": [
       "check each recorded mark",
       "compare the groups",
       "state the pattern",
       "read the headings"
     ],
-    "correct": [
-      "read the headings",
-      "check each recorded mark",
-      "compare the groups",
-      "state the pattern"
-    ],
-    "instruction": "Move the cards into the correct order."
+    "correct": 0,
+    "instruction": "Move the cards into the correct order.",
+    "answers": [
+      "magnifying glass",
+      "ruler",
+      "cup"
+    ]
   },
   {
     "id": "ac9sfi03-t-013",
     "curriculumCode": "AC9SFI03",
     "bank": "test",
     "skill": "infer headings",
-    "question": "Which headings best label these two groups?",
+    "question": "Which tool helps compare the length of two pencils?",
     "explanation": "The headings match a visible feature.",
     "printable": true,
     "type": "single",
     "answers": [
-      "Wings / No wings",
-      "Fast / Slow",
-      "Likes water / Does not",
-      "Friendly / Unfriendly"
+      "ruler",
+      "thermometer",
+      "watering can"
     ],
     "correct": 0,
     "visual": "🦆 🐦 | 🐕 🐌"
@@ -244,15 +232,14 @@ window.skillrTestQuestions = [
     "curriculumCode": "AC9SFI03",
     "bank": "test",
     "skill": "read tally",
-    "question": "What comparison is shown by the tally?",
+    "question": "Which tool helps check temperature?",
     "explanation": "Butterflies have the larger recorded count.",
     "printable": true,
     "type": "single",
     "answers": [
-      "More butterflies than birds",
-      "More birds than butterflies",
-      "The groups are equal",
-      "No observations were made"
+      "thermometer",
+      "balance",
+      "paintbrush"
     ],
     "correct": 0,
     "visual": "birds |||||\nbutterflies ||"
@@ -262,15 +249,14 @@ window.skillrTestQuestions = [
     "curriculumCode": "AC9SFI03",
     "bank": "test",
     "skill": "add observation to table",
-    "question": "Where should “rubber band” be placed?",
+    "question": "Which tool can help compare how heavy two objects are?",
     "explanation": "The observed property matches Flexible.",
     "printable": true,
     "type": "single",
     "answers": [
-      "Flexible",
-      "Not flexible",
-      "in both columns",
-      "outside the table"
+      "balance",
+      "magnifying glass",
+      "torch"
     ],
     "correct": 0,
     "visual": "fabric | spoon | rubber band"
@@ -280,15 +266,14 @@ window.skillrTestQuestions = [
     "curriculumCode": "AC9SFI03",
     "bank": "test",
     "skill": "select shared pattern",
-    "question": "Which feature pattern is shared by all three?",
+    "question": "Which sense helps you notice the smell of a flower?",
     "explanation": "All three show stem and petals.",
     "printable": true,
     "type": "single",
     "answers": [
-      "stem and petals",
-      "same petal colour",
-      "same size",
-      "same name"
+      "smell",
+      "hearing",
+      "sight"
     ],
     "correct": 0,
     "visual": "🌹 🌼 🌻"
@@ -298,15 +283,14 @@ window.skillrTestQuestions = [
     "curriculumCode": "AC9SFI03",
     "bank": "test",
     "skill": "match number to observation",
-    "question": "Which number label completes the record for the toy car?",
+    "question": "Which sense helps you notice a bell ringing?",
     "explanation": "The record shows 4 rolls.",
     "printable": true,
     "type": "single",
     "answers": [
-      "4",
-      "5",
-      "3",
-      "0"
+      "hearing",
+      "sight",
+      "taste"
     ],
     "correct": 0,
     "visual": "🚗 → → → →"
@@ -316,15 +300,14 @@ window.skillrTestQuestions = [
     "curriculumCode": "AC9SFI03",
     "bank": "test",
     "skill": "find exception",
-    "question": "Which feature has an exception in the table?",
+    "question": "Which sense helps you notice that a ball is red?",
     "explanation": "rabbit only have the feature.",
     "printable": true,
     "type": "single",
     "answers": [
-      "long ears",
-      "the first shared feature",
-      "the second shared feature",
-      "being an animal"
+      "sight",
+      "hearing",
+      "smell"
     ],
     "correct": 0,
     "visual": "fur ✓✓✓ | legs ✓✓✓ | long ears ✗✗✓"
@@ -334,15 +317,14 @@ window.skillrTestQuestions = [
     "curriculumCode": "AC9SFI03",
     "bank": "test",
     "skill": "trustworthy graph key",
-    "question": "Which key should the class use for the display?",
+    "question": "Which sense helps you notice rough bark?",
     "explanation": "A consistent one-to-one key is clear.",
     "printable": true,
     "type": "single",
     "answers": [
-      "one symbol = one item",
-      "one large symbol = any number",
-      "symbol size decides the count",
-      "no rule is needed"
+      "touch",
+      "hearing",
+      "taste"
     ],
     "correct": 0,
     "visual": "🌼×2 | 🌿×4"
@@ -352,15 +334,14 @@ window.skillrTestQuestions = [
     "curriculumCode": "AC9SFI03",
     "bank": "test",
     "skill": "state evidence pattern",
-    "question": "Which result sentence matches the record?",
+    "question": "Which tool helps you see tiny details?",
     "explanation": "The sentence compares the recorded counts.",
     "printable": true,
     "type": "single",
     "answers": [
-      "More rough stones were observed than smooth stones",
-      "The groups are the same",
-      "The record proves a cause",
-      "Size was measured"
+      "magnifying glass",
+      "ruler",
+      "cup"
     ],
     "correct": 0,
     "visual": "rough ||||| | | smooth ||||"
@@ -370,15 +351,14 @@ window.skillrTestQuestions = [
     "curriculumCode": "AC9SFI03",
     "bank": "test",
     "skill": "connect two variables",
-    "question": "Which sentence connects both recorded features?",
+    "question": "Which tool helps compare the length of two pencils?",
     "explanation": "The statement links the two columns without saying it is always true.",
     "printable": true,
     "type": "single",
     "answers": [
-      "Soft samples bent and rigid samples stayed straight in this test",
-      "Every object behaves this way",
-      "Colour caused the result",
-      "No pattern is shown"
+      "ruler",
+      "thermometer",
+      "watering can"
     ],
     "correct": 0,
     "visual": "fabric—soft—bends | stick—rigid—straight"
@@ -388,15 +368,14 @@ window.skillrTestQuestions = [
     "curriculumCode": "AC9SFI03",
     "bank": "test",
     "skill": "choose correct column",
-    "question": "Which column should receive the new item “spoon”?",
+    "question": "Which tool helps check temperature?",
     "explanation": "The item shares the observed feature of the Metal column.",
     "printable": true,
     "type": "single",
     "answers": [
-      "Metal",
-      "Not metal",
-      "both columns",
-      "neither column"
+      "thermometer",
+      "balance",
+      "paintbrush"
     ],
     "correct": 0,
     "visual": "🔑 | 🧱 | 🥄"
@@ -406,15 +385,14 @@ window.skillrTestQuestions = [
     "curriculumCode": "AC9SFI03",
     "bank": "test",
     "skill": "identify missing evidence",
-    "question": "The note says “The plant changed”. What information is missing to find a pattern?",
+    "question": "Which tool can help compare how heavy two objects are?",
     "explanation": "The comparison needs recorded observations.",
     "printable": true,
     "type": "single",
     "answers": [
-      "dated height or leaf records",
-      "a favourite colour",
-      "a story title",
-      "the observer’s age"
+      "balance",
+      "magnifying glass",
+      "torch"
     ],
     "correct": 0,
     "visual": "Day 1 ? | Day 5 ?"
@@ -424,24 +402,23 @@ window.skillrTestQuestions = [
     "curriculumCode": "AC9SFI03",
     "bank": "test",
     "skill": "sequence record and interpret",
-    "question": "Order the actions for reading a science template in test scene 2.",
+    "question": "Which sense helps you notice the smell of a flower?",
     "explanation": "Headings give meaning before counts are compared.",
     "printable": true,
-    "type": "order",
+    "type": "single",
     "items": [
       "check each recorded mark",
       "compare the groups",
       "state the pattern",
       "read the headings"
     ],
-    "correct": [
-      "read the headings",
-      "check each recorded mark",
-      "compare the groups",
-      "state the pattern"
-    ],
-    "instruction": "Move the cards into the correct order."
+    "correct": 0,
+    "instruction": "Move the cards into the correct order.",
+    "answers": [
+      "smell",
+      "hearing",
+      "sight"
+    ]
   }
 ];
-window.skillrExamQuestions = window.skillrTestQuestions;
 window.quizQuestions = window.skillrTestQuestions;

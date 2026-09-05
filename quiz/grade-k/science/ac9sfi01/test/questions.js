@@ -1,18 +1,17 @@
 "use strict";
-window.skillrExamQuestions = [
+window.skillrTestQuestions = [
   {
     "curriculumCode": "AC9SFI01",
     "bank": "test",
     "skill": "recognise a question",
-    "question": "Which option is a science question that could guide evidence collection? Which card is a question?",
+    "question": "Which is a science question we can investigate?",
     "explanation": "This question can guide an investigation.",
     "printable": true,
     "type": "single",
     "answers": [
-      "Do seeds sprout faster in light or dark?",
-      "The seeds are small",
-      "The jar is clear",
-      "Plants are interesting"
+      "Which toy car rolls farther?",
+      "Which toy is the nicest?",
+      "Which colour is best?"
     ],
     "correct": 0,
     "visual": "Assessment card\n☀️🌱 | 🌑🌱",
@@ -22,15 +21,14 @@ window.skillrExamQuestions = [
     "curriculumCode": "AC9SFI01",
     "bank": "test",
     "skill": "choose focused question",
-    "question": "Choose the most focused question for this new investigation. A class observes two places in the schoolyard. Which question is clearest?",
+    "question": "An ice cube is left in the sun. What do you predict?",
     "explanation": "The question identifies a countable comparison.",
     "printable": true,
     "type": "single",
     "answers": [
-      "Which place has more insects?",
-      "What is outside?",
-      "Are insects good?",
-      "Why is the schoolyard big?"
+      "it will melt",
+      "it will grow leaves",
+      "it will turn into wood"
     ],
     "correct": 0,
     "visual": "Assessment card\n🌳 🐜 | 🪨 🐞",
@@ -40,15 +38,14 @@ window.skillrExamQuestions = [
     "curriculumCode": "AC9SFI01",
     "bank": "test",
     "skill": "match question to outcome",
-    "question": "Which result would directly answer the question? Which record answers 'Where were more ants found?'",
+    "question": "A plant is not watered for many days. What might happen?",
     "explanation": "Counts at each location answer the comparison question.",
     "printable": true,
     "type": "single",
     "answers": [
-      "the ant count at each place",
-      "a list of favourite animals",
-      "the height of the observer",
-      "the colour of the soil only"
+      "it may droop",
+      "it may become a toy",
+      "it may start talking"
     ],
     "correct": 0,
     "visual": "Assessment card\ntree: |||| | rock: ||",
@@ -58,15 +55,14 @@ window.skillrExamQuestions = [
     "curriculumCode": "AC9SFI01",
     "bank": "test",
     "skill": "select prediction",
-    "question": "Which statement is a prediction made before the result is known? Before looking under the log, which sentence is a prediction?",
+    "question": "Which question can you answer by looking closely?",
     "explanation": "The sentence tells what is expected before observing.",
     "printable": true,
     "type": "single",
     "answers": [
-      "I think we will find insects under the log",
-      "We found three beetles",
-      "The log is brown",
-      "The beetle has six legs"
+      "How many legs does the insect have?",
+      "Is the insect happy?",
+      "What is it thinking?"
     ],
     "correct": 0,
     "visual": "Assessment card\n🪵 ?",
@@ -76,15 +72,14 @@ window.skillrExamQuestions = [
     "curriculumCode": "AC9SFI01",
     "bank": "test",
     "skill": "prediction or observation",
-    "question": "Which option correctly distinguishes a prediction from an observation? The class has already counted five worms. Which sentence is not a prediction?",
+    "question": "A ball is placed at the top of a ramp. What do you predict?",
     "explanation": "It reports a completed observation.",
     "printable": true,
     "type": "single",
     "answers": [
-      "We observed five worms",
-      "I predict we will find worms",
-      "I think the damp place will have more worms",
-      "We may find fewer worms near the path"
+      "it will roll down",
+      "it will fly away",
+      "it will grow"
     ],
     "correct": 0,
     "visual": "Assessment card\n🪱🪱🪱🪱🪱",
@@ -94,15 +89,14 @@ window.skillrExamQuestions = [
     "curriculumCode": "AC9SFI01",
     "bank": "test",
     "skill": "experience-based reason",
-    "question": "Which reason uses relevant prior experience? Why might a child predict more worms in damp soil?",
+    "question": "Which question can be answered by counting?",
     "explanation": "The reason uses a relevant past observation.",
     "printable": true,
     "type": "single",
     "answers": [
-      "They have noticed worms in damp places before",
-      "Damp is a funny word",
-      "The child likes worms",
-      "The dry soil is lighter in colour"
+      "How many birds are there?",
+      "Which bird is kindest?",
+      "What are the birds thinking?"
     ],
     "correct": 0,
     "visual": "Assessment card\nwet soil 🪱 | dry soil",
@@ -112,15 +106,14 @@ window.skillrExamQuestions = [
     "curriculumCode": "AC9SFI01",
     "bank": "test",
     "skill": "match prediction to question",
-    "question": "Which prediction answers the stated question exactly? Question: Which material will keep the toy dry? Which prediction matches?",
+    "question": "You push one car gently and one car harder. Which do you predict will go farther?",
     "explanation": "It predicts the outcome named in the question.",
     "printable": true,
     "type": "single",
     "answers": [
-      "I think the plastic sheet will keep the toy dry",
-      "I think the toy is blue",
-      "I predict water is clear",
-      "I think the sheet is large"
+      "the harder-pushed car",
+      "the gently pushed car",
+      "neither car can move"
     ],
     "correct": 0,
     "visual": "Assessment card\n🧸 + 💧 + plastic",
@@ -130,15 +123,14 @@ window.skillrExamQuestions = [
     "curriculumCode": "AC9SFI01",
     "bank": "test",
     "skill": "improve vague question",
-    "question": "Which option improves the vague question into a testable one? Which question improves 'Does it work?'",
+    "question": "Which question can be tested with two cups?",
     "explanation": "The question names the object, outcome and time.",
     "printable": true,
     "type": "single",
     "answers": [
-      "Does the paper umbrella keep the toy dry for one minute?",
-      "Is paper fun?",
-      "Why is the toy small?",
-      "Does water exist?"
+      "Which cup holds more water?",
+      "Which cup is happier?",
+      "Which cup has the best name?"
     ],
     "correct": 0,
     "visual": "Assessment card\n☂️ 🧸 💧",
@@ -148,15 +140,14 @@ window.skillrExamQuestions = [
     "curriculumCode": "AC9SFI01",
     "bank": "test",
     "skill": "improve prediction",
-    "question": "Which option is the clearest checkable prediction? Which is the strongest prediction?",
+    "question": "Which is a science question we can investigate?",
     "explanation": "The prediction states the expected comparison.",
     "printable": true,
     "type": "single",
     "answers": [
-      "The sponge will absorb more drops than the plastic sheet",
-      "The sponge will win",
-      "Water will do something",
-      "Plastic has a smooth surface"
+      "Which toy car rolls farther?",
+      "Which toy is the nicest?",
+      "Which colour is best?"
     ],
     "correct": 0,
     "visual": "Assessment card\n🧽 💧 plastic",
@@ -166,15 +157,14 @@ window.skillrExamQuestions = [
     "curriculumCode": "AC9SFI01",
     "bank": "test",
     "skill": "choose evidence",
-    "question": "Which evidence should be collected to test the prediction? What evidence checks which place has more insects?",
+    "question": "An ice cube is left in the sun. What do you predict?",
     "explanation": "Counts at both locations allow comparison.",
     "printable": true,
     "type": "single",
     "answers": [
-      "the insect count at each place",
-      "one drawing of a tree",
-      "the shoe size of the observer",
-      "the colour of the path"
+      "it will melt",
+      "it will grow leaves",
+      "it will turn into wood"
     ],
     "correct": 0,
     "visual": "Assessment card\n🌳 ||||| | 🪨 ||",
@@ -184,36 +174,36 @@ window.skillrExamQuestions = [
     "curriculumCode": "AC9SFI01",
     "bank": "test",
     "skill": "inquiry sequence",
-    "question": "Arrange the assessment cards into a sensible inquiry sequence. Order the science actions.",
+    "question": "A plant is not watered for many days. What might happen?",
     "explanation": "The question guides evidence collection and recording.",
     "printable": true,
-    "type": "order",
+    "type": "single",
     "items": [
       "Record what happened",
       "Choose a question",
       "Collect evidence"
     ],
-    "correct": [
-      "Choose a question",
-      "Collect evidence",
-      "Record what happened"
-    ],
+    "correct": 0,
     "instruction": "Use the arrows to put the cards in order.",
-    "id": "ac9sfi01-t-011"
+    "id": "ac9sfi01-t-011",
+    "answers": [
+      "it may droop",
+      "it may become a toy",
+      "it may start talking"
+    ]
   },
   {
     "curriculumCode": "AC9SFI01",
     "bank": "test",
     "skill": "timing of prediction",
-    "question": "Which answer correctly identifies when a prediction should be made? After the ice has melted, which sentence belongs in observations?",
+    "question": "Which question can you answer by looking closely?",
     "explanation": "It reports the observed result.",
     "printable": true,
     "type": "single",
     "answers": [
-      "The ice in sunlight melted first",
-      "I think the sunny ice will melt first",
-      "The ice might melt tomorrow",
-      "Sunlight is my favourite"
+      "How many legs does the insect have?",
+      "Is the insect happy?",
+      "What is it thinking?"
     ],
     "correct": 0,
     "visual": "Assessment card\n☀️💧 | 🌳🧊",
@@ -223,15 +213,14 @@ window.skillrExamQuestions = [
     "curriculumCode": "AC9SFI01",
     "bank": "test",
     "skill": "recognise a question",
-    "question": "Which option is a science question that could guide evidence collection? Which sentence is asking for information?",
+    "question": "A ball is placed at the top of a ramp. What do you predict?",
     "explanation": "The sentence asks about an observable property.",
     "printable": true,
     "type": "single",
     "answers": [
-      "What material is this spoon made from?",
-      "The spoon is shiny",
-      "The spoon is on a tray",
-      "I use a spoon at lunch"
+      "it will roll down",
+      "it will fly away",
+      "it will grow"
     ],
     "correct": 0,
     "visual": "Assessment card\n🥄",
@@ -241,15 +230,14 @@ window.skillrExamQuestions = [
     "curriculumCode": "AC9SFI01",
     "bank": "test",
     "skill": "choose focused question",
-    "question": "Choose the most focused question for this new investigation. The class has clay and a rubber ball. Which question is focused on bouncing?",
+    "question": "Which question can be answered by counting?",
     "explanation": "Bounce height is a clear observable outcome.",
     "printable": true,
     "type": "single",
     "answers": [
-      "Which object bounces higher?",
-      "Which object has a name?",
-      "Are objects useful?",
-      "What colour is fun?"
+      "How many birds are there?",
+      "Which bird is kindest?",
+      "What are the birds thinking?"
     ],
     "correct": 0,
     "visual": "Assessment card\n🟤  🔵",
@@ -259,15 +247,14 @@ window.skillrExamQuestions = [
     "curriculumCode": "AC9SFI01",
     "bank": "test",
     "skill": "match question to outcome",
-    "question": "Which result would directly answer the question? Which result answers 'Which material keeps water out?'",
+    "question": "You push one car gently and one car harder. Which do you predict will go farther?",
     "explanation": "Water passing through is the relevant outcome.",
     "printable": true,
     "type": "single",
     "answers": [
-      "whether water passes through each material",
-      "which material has the longest name",
-      "who touched the material",
-      "the day of the week only"
+      "the harder-pushed car",
+      "the gently pushed car",
+      "neither car can move"
     ],
     "correct": 0,
     "visual": "Assessment card\n💧 → fabric?",
@@ -277,15 +264,14 @@ window.skillrExamQuestions = [
     "curriculumCode": "AC9SFI01",
     "bank": "test",
     "skill": "select prediction",
-    "question": "Which statement is a prediction made before the result is known? Before placing ice in two places, which sentence is a prediction?",
+    "question": "Which question can be tested with two cups?",
     "explanation": "It predicts the future result.",
     "printable": true,
     "type": "single",
     "answers": [
-      "I think the ice in sunlight will melt first",
-      "The sunny ice melted first",
-      "The ice cubes are the same size",
-      "The shade is under a tree"
+      "Which cup holds more water?",
+      "Which cup is happier?",
+      "Which cup has the best name?"
     ],
     "correct": 0,
     "visual": "Assessment card\n☀️🧊 | 🌳🧊",
@@ -295,15 +281,14 @@ window.skillrExamQuestions = [
     "curriculumCode": "AC9SFI01",
     "bank": "test",
     "skill": "prediction or observation",
-    "question": "Which option correctly distinguishes a prediction from an observation? Which sentence should be written in the prediction box?",
+    "question": "Which is a science question we can investigate?",
     "explanation": "It states what may happen before testing.",
     "printable": true,
     "type": "single",
     "answers": [
-      "The rough ramp may slow the car",
-      "The rough ramp slowed the car",
-      "The car stopped after 30 cm",
-      "The ramp felt rough"
+      "Which toy car rolls farther?",
+      "Which toy is the nicest?",
+      "Which colour is best?"
     ],
     "correct": 0,
     "visual": "Assessment card\n🚗 /",
@@ -313,15 +298,14 @@ window.skillrExamQuestions = [
     "curriculumCode": "AC9SFI01",
     "bank": "test",
     "skill": "experience-based reason",
-    "question": "Which reason uses relevant prior experience? Which reason supports predicting a sponge will absorb water?",
+    "question": "An ice cube is left in the sun. What do you predict?",
     "explanation": "Prior experience with absorption is relevant.",
     "printable": true,
     "type": "single",
     "answers": [
-      "A sponge has soaked up spills before",
-      "The sponge is a bright colour",
-      "The sponge is on the left",
-      "The cup is taller"
+      "it will melt",
+      "it will grow leaves",
+      "it will turn into wood"
     ],
     "correct": 0,
     "visual": "Assessment card\n🧽 💧",
@@ -331,15 +315,14 @@ window.skillrExamQuestions = [
     "curriculumCode": "AC9SFI01",
     "bank": "test",
     "skill": "match prediction to question",
-    "question": "Which prediction answers the stated question exactly? Question: Where will we count more ants? Which prediction matches?",
+    "question": "A plant is not watered for many days. What might happen?",
     "explanation": "The prediction compares the two locations.",
     "printable": true,
     "type": "single",
     "answers": [
-      "I think we will count more ants near the tree",
-      "I think ants have legs",
-      "I predict the tree is tall",
-      "I think counting is useful"
+      "it may droop",
+      "it may become a toy",
+      "it may start talking"
     ],
     "correct": 0,
     "visual": "Assessment card\n🌳 🐜 | path",
@@ -349,15 +332,14 @@ window.skillrExamQuestions = [
     "curriculumCode": "AC9SFI01",
     "bank": "test",
     "skill": "improve vague question",
-    "question": "Which option improves the vague question into a testable one? Which question is focused enough to investigate?",
+    "question": "Which question can you answer by looking closely?",
     "explanation": "It identifies the variable and observable outcome.",
     "printable": true,
     "type": "single",
     "answers": [
-      "Which surface lets the block slide farther?",
-      "What is a surface?",
-      "Is sliding exciting?",
-      "Why are blocks useful?"
+      "How many legs does the insect have?",
+      "Is the insect happy?",
+      "What is it thinking?"
     ],
     "correct": 0,
     "visual": "Assessment card\n▪️ on smooth | rough",
@@ -367,15 +349,14 @@ window.skillrExamQuestions = [
     "curriculumCode": "AC9SFI01",
     "bank": "test",
     "skill": "improve prediction",
-    "question": "Which option is the clearest checkable prediction? Which prediction can be checked?",
+    "question": "A ball is placed at the top of a ramp. What do you predict?",
     "explanation": "A visit count can be observed and compared.",
     "printable": true,
     "type": "single",
     "answers": [
-      "More birds will visit the feeder with seed",
-      "Birds are wonderful",
-      "The feeder looks best",
-      "Seeds have many shapes"
+      "it will roll down",
+      "it will fly away",
+      "it will grow"
     ],
     "correct": 0,
     "visual": "Assessment card\nfeeder+seed | empty feeder",
@@ -385,15 +366,14 @@ window.skillrExamQuestions = [
     "curriculumCode": "AC9SFI01",
     "bank": "test",
     "skill": "choose evidence",
-    "question": "Which evidence should be collected to test the prediction? What evidence checks which ice cube melts first?",
+    "question": "Which question can be answered by counting?",
     "explanation": "Melting time directly tests the prediction.",
     "printable": true,
     "type": "single",
     "answers": [
-      "the melting time for each cube",
-      "the names of the cups",
-      "the shape of the table",
-      "the colour of the timer"
+      "How many birds are there?",
+      "Which bird is kindest?",
+      "What are the birds thinking?"
     ],
     "correct": 0,
     "visual": "Assessment card\n🧊 ⏱️ 🧊",
@@ -403,40 +383,39 @@ window.skillrExamQuestions = [
     "curriculumCode": "AC9SFI01",
     "bank": "test",
     "skill": "inquiry sequence",
-    "question": "Arrange the assessment cards into a sensible inquiry sequence. Put these in order for a seed investigation.",
+    "question": "You push one car gently and one car harder. Which do you predict will go farther?",
     "explanation": "Ask, predict, then check the outcome.",
     "printable": true,
-    "type": "order",
+    "type": "single",
     "items": [
       "Check which seed sprouted",
       "Write a prediction",
       "Ask which seed will sprout first"
     ],
-    "correct": [
-      "Ask which seed will sprout first",
-      "Write a prediction",
-      "Check which seed sprouted"
-    ],
+    "correct": 0,
     "instruction": "Use the arrows to put the cards in order.",
-    "id": "ac9sfi01-t-023"
+    "id": "ac9sfi01-t-023",
+    "answers": [
+      "the harder-pushed car",
+      "the gently pushed car",
+      "neither car can move"
+    ]
   },
   {
     "curriculumCode": "AC9SFI01",
     "bank": "test",
     "skill": "timing of prediction",
-    "question": "Which answer correctly identifies when a prediction should be made? A child secretly watches the result, then writes a prediction. What is the problem?",
+    "question": "Which question can be tested with two cups?",
     "explanation": "Predictions are made before the test result is seen.",
     "printable": true,
     "type": "single",
     "answers": [
-      "The prediction was written after the evidence was known",
-      "Predictions must use blue pencil",
-      "Children cannot make predictions",
-      "Evidence should never be observed"
+      "Which cup holds more water?",
+      "Which cup is happier?",
+      "Which cup has the best name?"
     ],
     "correct": 0,
     "id": "ac9sfi01-t-024"
   }
 ];
-window.skillrTestQuestions = window.skillrExamQuestions;
-window.quizQuestions = window.skillrExamQuestions;
+window.quizQuestions = window.skillrTestQuestions;

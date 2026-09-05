@@ -1,18 +1,17 @@
 "use strict";
-window.skillrExamQuestions = [
+window.skillrTestQuestions = [
   {
     "curriculumCode": "AC9SFI02",
     "bank": "test",
     "skill": "safe or unsafe action",
-    "question": "Which action follows the safety rules in this new scene? Which action is safe with a magnifying glass?",
+    "question": "What should you do first in a class investigation?",
     "explanation": "A magnifier should be used calmly and away from focused sunlight.",
     "printable": true,
     "type": "single",
     "answers": [
-      "Use it to view a leaf away from direct sunlight",
-      "Focus sunlight onto skin",
-      "Run while looking through it",
-      "Put it in your mouth"
+      "listen to the teacher's instructions",
+      "taste the materials",
+      "run with the equipment"
     ],
     "correct": 0,
     "visual": "Assessment card\n🔍 🌿",
@@ -22,15 +21,14 @@ window.skillrExamQuestions = [
     "curriculumCode": "AC9SFI02",
     "bank": "test",
     "skill": "match sense to observation",
-    "question": "Choose the appropriate safe sense for the observation. With teacher approval, which sense notices that bark is rough?",
+    "question": "Why should we use equipment carefully?",
     "explanation": "Approved touch can describe texture.",
     "printable": true,
     "type": "single",
     "answers": [
-      "touch",
-      "hearing",
-      "taste",
-      "sight only"
+      "to keep everyone safe",
+      "to finish without observing",
+      "to change the answer"
     ],
     "correct": 0,
     "visual": "Assessment card\n🌳  ✋",
@@ -40,15 +38,14 @@ window.skillrExamQuestions = [
     "curriculumCode": "AC9SFI02",
     "bank": "test",
     "skill": "sense not to use",
-    "question": "Which response respects the safety limit shown? Steam is rising from a container. Which action is unsafe?",
+    "question": "You are comparing two toy cars. What should stay the same?",
     "explanation": "Hot steam can burn; keep a safe distance.",
     "printable": true,
     "type": "single",
     "answers": [
-      "Putting your face close to smell it",
-      "Looking from the marked line",
-      "Listening to the teacher",
-      "Recording what you can see"
+      "the ramp",
+      "everything changes",
+      "the car colours must change"
     ],
     "correct": 0,
     "visual": "Assessment card\n♨️  line ─",
@@ -58,15 +55,14 @@ window.skillrExamQuestions = [
     "curriculumCode": "AC9SFI02",
     "bank": "test",
     "skill": "choose safe tool",
-    "question": "Choose the suitable safe tool. Which tool helps record how many ants cross a line?",
+    "question": "What should you do after making an observation?",
     "explanation": "A tally sheet records each crossing safely.",
     "printable": true,
     "type": "single",
     "answers": [
-      "tally sheet",
-      "scissors",
-      "hot plate",
-      "glass shard"
+      "record what you noticed",
+      "hide the result",
+      "change the question"
     ],
     "correct": 0,
     "visual": "Assessment card\n🐜 → |   tally ||||",
@@ -76,36 +72,36 @@ window.skillrExamQuestions = [
     "curriculumCode": "AC9SFI02",
     "bank": "test",
     "skill": "follow safety instructions",
-    "question": "Arrange the safety steps in the correct order. Put the garden-observation actions in order.",
+    "question": "A teacher asks you to use a magnifying glass. What should you do?",
     "explanation": "Understand the boundary before observing and recording.",
     "printable": true,
-    "type": "order",
+    "type": "single",
     "items": [
       "Record what you saw",
       "Stay behind the marked line",
       "Listen to the boundary rule"
     ],
-    "correct": [
-      "Listen to the boundary rule",
-      "Stay behind the marked line",
-      "Record what you saw"
-    ],
+    "correct": 0,
     "instruction": "Use the arrows to put the cards in order.",
-    "id": "ac9sfi02-t-005"
+    "id": "ac9sfi02-t-005",
+    "answers": [
+      "use it as shown",
+      "throw it",
+      "look at the Sun through it"
+    ]
   },
   {
     "curriculumCode": "AC9SFI02",
     "bank": "test",
     "skill": "ethical living thing observation",
-    "question": "Which action protects the living thing and the observer? Which plan protects a seedling during measurement?",
+    "question": "Why might we repeat an observation?",
     "explanation": "Measure without damaging the plant.",
     "printable": true,
     "type": "single",
     "answers": [
-      "Place the ruler beside the stem without bending it",
-      "Pull the stem straight",
-      "Remove leaves to see better",
-      "Lift the plant out of soil"
+      "to check what we noticed",
+      "to make up a new result",
+      "to avoid looking"
     ],
     "correct": 0,
     "visual": "Assessment card\n🌱 📏",
@@ -115,15 +111,14 @@ window.skillrExamQuestions = [
     "curriculumCode": "AC9SFI02",
     "bank": "test",
     "skill": "adult supervision",
-    "question": "Which response correctly follows the adult-supervision rule? A tool has a cracked handle. What should you do?",
+    "question": "What is a safe way to explore a leaf?",
     "explanation": "Damaged equipment should not be used.",
     "printable": true,
     "type": "single",
     "answers": [
-      "Stop and tell the teacher",
-      "Use it quickly",
-      "Hide the crack",
-      "Ask a friend to hold the broken part"
+      "look and touch gently",
+      "taste it",
+      "rub it in your eyes"
     ],
     "correct": 0,
     "visual": "Assessment card\ntool ⚠️",
@@ -133,15 +128,14 @@ window.skillrExamQuestions = [
     "curriculumCode": "AC9SFI02",
     "bank": "test",
     "skill": "respect boundaries",
-    "question": "Which action stays within the stated boundary? A sign says 'Look only'. Which action follows the rule?",
+    "question": "When the investigation is finished, what should you do?",
     "explanation": "Look-only means no handling.",
     "printable": true,
     "type": "single",
     "answers": [
-      "Observe with your eyes and record what you see",
-      "Touch the display",
-      "Open the container",
-      "Taste the sample"
+      "pack away safely",
+      "leave spills",
+      "hide the tools"
     ],
     "correct": 0,
     "visual": "Assessment card\nLOOK ONLY 👁️",
@@ -151,15 +145,14 @@ window.skillrExamQuestions = [
     "curriculumCode": "AC9SFI02",
     "bank": "test",
     "skill": "safe recording",
-    "question": "Which method records evidence without creating a new risk? Which record suits leaf colour without picking the leaf?",
+    "question": "What should you do first in a class investigation?",
     "explanation": "Colour can be recorded visually without damage.",
     "printable": true,
     "type": "single",
     "answers": [
-      "a colour note or photograph",
-      "tearing off the leaf",
-      "tasting the leaf",
-      "rubbing the plant hard"
+      "listen to the teacher's instructions",
+      "taste the materials",
+      "run with the equipment"
     ],
     "correct": 0,
     "visual": "Assessment card\n🌿 📷",
@@ -169,15 +162,14 @@ window.skillrExamQuestions = [
     "curriculumCode": "AC9SFI02",
     "bank": "test",
     "skill": "safe texture comparison",
-    "question": "Which plan compares texture safely? A sample is sharp. How should it be observed?",
+    "question": "Why should we use equipment carefully?",
     "explanation": "Sharp samples require a safer method.",
     "printable": true,
     "type": "single",
     "answers": [
-      "Do not touch it; follow the teacher's alternative viewing method",
-      "Press a finger onto it",
-      "Pass it quickly between children",
-      "Hide the sharp edge"
+      "to keep everyone safe",
+      "to finish without observing",
+      "to change the answer"
     ],
     "correct": 0,
     "visual": "Assessment card\n▲ sharp  ✋🚫",
@@ -187,20 +179,16 @@ window.skillrExamQuestions = [
     "curriculumCode": "AC9SFI02",
     "bank": "test",
     "skill": "spot hazards",
-    "question": "Identify the hazards shown in the assessment scene. Select the two problems in the garden plan.",
+    "question": "You are comparing two toy cars. What should stay the same?",
     "explanation": "Leaving the path and handling unknown berries are unsafe.",
     "printable": true,
-    "type": "multiple",
+    "type": "single",
     "answers": [
-      "children leave the marked path",
-      "a child picks an unknown berry",
-      "children use binoculars",
-      "the teacher sets a boundary"
+      "the ramp",
+      "everything changes",
+      "the car colours must change"
     ],
-    "correct": [
-      0,
-      1
-    ],
+    "correct": 0,
     "visual": "Assessment card\npath | berry ❓",
     "id": "ac9sfi02-t-011"
   },
@@ -208,15 +196,14 @@ window.skillrExamQuestions = [
     "curriculumCode": "AC9SFI02",
     "bank": "test",
     "skill": "repair unsafe plan",
-    "question": "Which change repairs the unsafe investigation plan? A child carries a magnifier while running. What is the correction?",
+    "question": "What should you do after making an observation?",
     "explanation": "Walking and careful carrying reduce accidents.",
     "printable": true,
     "type": "single",
     "answers": [
-      "Walk and carry it carefully",
-      "Keep running but hold it higher",
-      "Throw it to a partner",
-      "Look through it while running"
+      "record what you noticed",
+      "hide the result",
+      "change the question"
     ],
     "correct": 0,
     "visual": "Assessment card\n🔍  🚶",
@@ -226,15 +213,14 @@ window.skillrExamQuestions = [
     "curriculumCode": "AC9SFI02",
     "bank": "test",
     "skill": "safe or unsafe action",
-    "question": "Which action follows the safety rules in this new scene? Which child uses the sound tool safely?",
+    "question": "A teacher asks you to use a magnifying glass. What should you do?",
     "explanation": "Safe listening uses a comfortable volume and careful handling.",
     "printable": true,
     "type": "single",
     "answers": [
-      "The child keeps the volume comfortable",
-      "The child holds the speaker against an ear",
-      "The child turns the volume to maximum",
-      "The child swings the headphones by the cord"
+      "use it as shown",
+      "throw it",
+      "look at the Sun through it"
     ],
     "correct": 0,
     "visual": "Assessment card\n🎧  🔉",
@@ -244,15 +230,14 @@ window.skillrExamQuestions = [
     "curriculumCode": "AC9SFI02",
     "bank": "test",
     "skill": "match sense to observation",
-    "question": "Choose the appropriate safe sense for the observation. Which sense notices the smell of crushed mint held safely nearby?",
+    "question": "Why might we repeat an observation?",
     "explanation": "Smell detects odours without tasting.",
     "printable": true,
     "type": "single",
     "answers": [
-      "smell",
-      "hearing",
-      "taste",
-      "touch"
+      "to check what we noticed",
+      "to make up a new result",
+      "to avoid looking"
     ],
     "correct": 0,
     "visual": "Assessment card\n🌿  👃",
@@ -262,15 +247,14 @@ window.skillrExamQuestions = [
     "curriculumCode": "AC9SFI02",
     "bank": "test",
     "skill": "sense not to use",
-    "question": "Which response respects the safety limit shown? A loud machine is operating behind a barrier. Which plan is safest?",
+    "question": "What is a safe way to explore a leaf?",
     "explanation": "Barriers and hearing protection reduce risk.",
     "printable": true,
     "type": "single",
     "answers": [
-      "Stay behind the barrier and follow the teacher's hearing-protection instruction",
-      "Put an ear beside the machine",
-      "Cross the barrier",
-      "Touch the moving part"
+      "look and touch gently",
+      "taste it",
+      "rub it in your eyes"
     ],
     "correct": 0,
     "visual": "Assessment card\n⚙️ | barrier | 🥽🎧",
@@ -280,15 +264,14 @@ window.skillrExamQuestions = [
     "curriculumCode": "AC9SFI02",
     "bank": "test",
     "skill": "choose safe tool",
-    "question": "Choose the suitable safe tool. Which tool protects hands when the teacher approves handling a rough sample?",
+    "question": "When the investigation is finished, what should you do?",
     "explanation": "Gloves can protect hands during approved handling.",
     "printable": true,
     "type": "single",
     "answers": [
-      "protective gloves",
-      "a drinking straw",
-      "a toy sword",
-      "an open cup"
+      "pack away safely",
+      "leave spills",
+      "hide the tools"
     ],
     "correct": 0,
     "visual": "Assessment card\n🧤  ▦",
@@ -298,36 +281,36 @@ window.skillrExamQuestions = [
     "curriculumCode": "AC9SFI02",
     "bank": "test",
     "skill": "follow safety instructions",
-    "question": "Arrange the safety steps in the correct order. Order the steps after a small spill.",
+    "question": "What should you do first in a class investigation?",
     "explanation": "Report the spill and wait for adult direction.",
     "printable": true,
-    "type": "order",
+    "type": "single",
     "items": [
       "Wait away from the spill",
       "Tell the teacher",
       "Continue only when told it is safe"
     ],
-    "correct": [
-      "Tell the teacher",
-      "Wait away from the spill",
-      "Continue only when told it is safe"
-    ],
+    "correct": 0,
     "instruction": "Use the arrows to put the cards in order.",
-    "id": "ac9sfi02-t-017"
+    "id": "ac9sfi02-t-017",
+    "answers": [
+      "listen to the teacher's instructions",
+      "taste the materials",
+      "run with the equipment"
+    ]
   },
   {
     "curriculumCode": "AC9SFI02",
     "bank": "test",
     "skill": "ethical living thing observation",
-    "question": "Which action protects the living thing and the observer? How should a class observe a bird nest?",
+    "question": "Why should we use equipment carefully?",
     "explanation": "Distant observation protects birds and children.",
     "printable": true,
     "type": "single",
     "answers": [
-      "Use binoculars from the approved area",
-      "Climb to the nest",
-      "Touch the eggs",
-      "Make loud sounds nearby"
+      "to keep everyone safe",
+      "to finish without observing",
+      "to change the answer"
     ],
     "correct": 0,
     "visual": "Assessment card\n🔭   🌳🐦",
@@ -337,15 +320,14 @@ window.skillrExamQuestions = [
     "curriculumCode": "AC9SFI02",
     "bank": "test",
     "skill": "adult supervision",
-    "question": "Which response correctly follows the adult-supervision rule? A sample has no label. Which action is correct?",
+    "question": "You are comparing two toy cars. What should stay the same?",
     "explanation": "Unknown samples require adult identification and direction.",
     "printable": true,
     "type": "single",
     "answers": [
-      "Leave it closed and ask the teacher",
-      "Open it to find out",
-      "Smell it closely",
-      "Mix it with water"
+      "the ramp",
+      "everything changes",
+      "the car colours must change"
     ],
     "correct": 0,
     "visual": "Assessment card\njar ❓",
@@ -355,15 +337,14 @@ window.skillrExamQuestions = [
     "curriculumCode": "AC9SFI02",
     "bank": "test",
     "skill": "respect boundaries",
-    "question": "Which action stays within the stated boundary? A class is told to stay with a partner outdoors. Which action is correct?",
+    "question": "What should you do after making an observation?",
     "explanation": "Partner and movement rules support safe fieldwork.",
     "printable": true,
     "type": "single",
     "answers": [
-      "Keep your partner nearby and tell the teacher before moving areas",
-      "Wander alone",
-      "Hide behind bushes",
-      "Leave the group without telling anyone"
+      "record what you noticed",
+      "hide the result",
+      "change the question"
     ],
     "correct": 0,
     "visual": "Assessment card\n👧👦  together",
@@ -373,15 +354,14 @@ window.skillrExamQuestions = [
     "curriculumCode": "AC9SFI02",
     "bank": "test",
     "skill": "safe recording",
-    "question": "Which method records evidence without creating a new risk? How should you record the number of birds?",
+    "question": "A teacher asks you to use a magnifying glass. What should you do?",
     "explanation": "A tally records counts without disturbing birds.",
     "printable": true,
     "type": "single",
     "answers": [
-      "Use a tally while watching from the approved place",
-      "chase birds into one group",
-      "climb the tree",
-      "touch each bird once"
+      "use it as shown",
+      "throw it",
+      "look at the Sun through it"
     ],
     "correct": 0,
     "visual": "Assessment card\n🐦 ||||",
@@ -391,15 +371,14 @@ window.skillrExamQuestions = [
     "curriculumCode": "AC9SFI02",
     "bank": "test",
     "skill": "safe texture comparison",
-    "question": "Which plan compares texture safely? Which words describe texture without judging it?",
+    "question": "Why might we repeat an observation?",
     "explanation": "Smooth and rough are observable texture words.",
     "printable": true,
     "type": "single",
     "answers": [
-      "smooth and rough",
-      "good and bad",
-      "nice and ugly",
-      "best and worst"
+      "to check what we noticed",
+      "to make up a new result",
+      "to avoid looking"
     ],
     "correct": 0,
     "visual": "Assessment card\nsmooth ▭ | rough ▥",
@@ -409,20 +388,16 @@ window.skillrExamQuestions = [
     "curriculumCode": "AC9SFI02",
     "bank": "test",
     "skill": "spot hazards",
-    "question": "Identify the hazards shown in the assessment scene. Select the two equipment hazards.",
+    "question": "What is a safe way to explore a leaf?",
     "explanation": "Damaged tools and trip hazards must be reported.",
     "printable": true,
-    "type": "multiple",
+    "type": "single",
     "answers": [
-      "a cracked handle",
-      "a loose electrical cord across the floor",
-      "a closed notebook",
-      "a labelled storage tray"
+      "look and touch gently",
+      "taste it",
+      "rub it in your eyes"
     ],
-    "correct": [
-      0,
-      1
-    ],
+    "correct": 0,
     "visual": "Assessment card\ntool ⚠️   cord ─",
     "id": "ac9sfi02-t-023"
   },
@@ -430,20 +405,18 @@ window.skillrExamQuestions = [
     "curriculumCode": "AC9SFI02",
     "bank": "test",
     "skill": "repair unsafe plan",
-    "question": "Which change repairs the unsafe investigation plan? Water spills near the investigation table. What should happen first?",
+    "question": "When the investigation is finished, what should you do?",
     "explanation": "Reporting and isolating the spill is the safe first response.",
     "printable": true,
     "type": "single",
     "answers": [
-      "Tell the teacher and keep others away",
-      "Ignore it",
-      "Cover it with books",
-      "Keep working through the spill"
+      "pack away safely",
+      "leave spills",
+      "hide the tools"
     ],
     "correct": 0,
     "visual": "Assessment card\n💧 ⚠️",
     "id": "ac9sfi02-t-024"
   }
 ];
-window.skillrTestQuestions = window.skillrExamQuestions;
-window.quizQuestions = window.skillrExamQuestions;
+window.quizQuestions = window.skillrTestQuestions;
