@@ -98,8 +98,21 @@
     const studentName = String(attempt.studentName || "").trim().slice(0, 60);
     if (studentName) state.profile.name = studentName;
     const item = cleanAttempt(attempt);
-    if (!state.attempts.some((entry) => entry.id === item.id)) state.attempts.push(item);
-    return write(state);
+    const isNewAttempt = !state.attempts.some((entry) => entry.id === item.id);
+    if (isNewAttempt) state.attempts.push(item);
+    const saved = write(state);
+    if (isNewAttempt) {
+      const scoreBand = item.percentage < 50 ? "under_50" : item.percentage < 70 ? "50_69" : item.percentage < 85 ? "70_84" : "85_100";
+      trackGaEvent("learning_activity_complete", {
+        activity_mode: item.mode,
+        curriculum_code: item.curriculumCode || "unknown",
+        score_band: scoreBand,
+        passed: item.passed ? "yes" : "no",
+        total_questions: item.total,
+        page_path: window.location.pathname
+      });
+    }
+    return saved;
   }
 
   function setName(name) {

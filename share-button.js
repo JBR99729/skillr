@@ -1,6 +1,12 @@
 (function () {
   "use strict";
 
+  function trackEvent(name, params) {
+    window.dataLayer = window.dataLayer || [];
+    if (typeof window.gtag === "function") window.gtag("event", name, params || {});
+    else window.dataLayer.push(Object.assign({ event: name }, params || {}));
+  }
+
   function fallbackCopy(value) {
     var input = document.createElement("textarea");
     input.value = value;
@@ -32,6 +38,7 @@
     if (navigator.share) {
       try {
         await navigator.share({ title: title, text: message, url: url });
+        trackEvent("resource_share", { share_method: "native", page_path: window.location.pathname });
         return "shared";
       } catch (error) {
         if (error && error.name === "AbortError") return "cancelled";
@@ -39,7 +46,46 @@
       }
     }
 
-    return await copyPageLink(url) ? "copied" : "unavailable";
+    var copied = await copyPageLink(url);
+    if (copied) trackEvent("resource_share", { share_method: "copy_link", page_path: window.location.pathname });
+    return copied ? "copied" : "unavailable";
+  }
+
+  function commercialType(link) {
+    var text = (link.textContent || "").toLowerCase();
+    if (/workbook|subject pack|mastery pack/.test(text)) return "subject_pack";
+    if (/book|paperback/.test(text)) return "book";
+    if (/suppl|equipment|manipulative/.test(text)) return "learning_supply";
+    return "affiliate_resource";
+  }
+
+  function initCommercialTracking() {
+    document.addEventListener("click", function (event) {
+      var link = event.target.closest && event.target.closest("a[href]");
+      if (!link) return;
+      var href = link.getAttribute("href") || "";
+      var isSponsored = /(?:^|\s)sponsored(?:\s|$)/i.test(link.getAttribute("rel") || "");
+      var isAffiliate = isSponsored || /^https?:\/\/(?:www\.)?(?:link\.amazon|amazon\.)/i.test(href);
+      if (isAffiliate) {
+        var destination = "external";
+        try { destination = new URL(href, window.location.href).hostname; } catch (_) {}
+        trackEvent("affiliate_click", {
+          product_type: commercialType(link),
+          outbound_domain: destination,
+          page_path: window.location.pathname
+        });
+        return;
+      }
+      if (link.matches("[data-skillr-product]") || /\/(?:books?|products?|subject-packs?|mastery-packs?)\//i.test(href)) {
+        trackEvent("subject_pack_interest", {
+          product_name: link.dataset.skillrProduct || (link.textContent || "subject pack").trim().slice(0, 80),
+          page_path: window.location.pathname
+        });
+      }
+      if (/^mailto:skillrhublearning@gmail\.com/i.test(href)) {
+        trackEvent("resource_request_click", { page_path: window.location.pathname });
+      }
+    });
   }
 
   function ensureFooterLinks() {
@@ -162,6 +208,7 @@
     removeLegacyFloatingWidgets();
     ensureFooterLinks();
     initSharePrompts();
+    initCommercialTracking();
     addFreeFirstHomepageHighlight();
     loadFirstVisitOnboarding();
   }
