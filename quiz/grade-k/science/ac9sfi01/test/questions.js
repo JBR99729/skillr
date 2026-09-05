@@ -5,19 +5,19 @@ window.skillrTestQuestions = [
     "curriculumCode": "AC9SFI01",
     "bank": "test",
     "skill": "make predictions from experience",
-    "question": "A child saw a paper towel take in water. What is the best supported prediction for another dry paper towel?",
-    "explanation": "The prediction uses a related experience.",
+    "question": "A dry paper towel soaked up a small water spill. Which prediction best fits trying another dry paper towel?",
+    "explanation": "The child uses what happened with the first paper towel.",
     "printable": true,
     "type": "single",
     "answers": [
-      "It may stay dry in water.",
-      "It may block the water.",
-      "It may take in water too."
+      "It might stay dry on the spill.",
+      "It might let the spill spread.",
+      "It might soak up water too."
     ],
     "correct": 2,
-    "audioPrompt": "A child saw a paper towel take in water. What is the best supported prediction for another dry paper towel?",
+    "audioPrompt": "A dry paper towel soaked up a small water spill. Which prediction best fits trying another dry paper towel?",
     "structuredExplanation": {
-      "summary": "The prediction uses a related experience."
+      "summary": "The child uses what happened with the first paper towel."
     }
   },
   {
@@ -25,27 +25,27 @@ window.skillrTestQuestions = [
     "curriculumCode": "AC9SFI01",
     "bank": "test",
     "skill": "pose investigable questions",
-    "question": "Which question asks what happens to ice outside over time?",
-    "explanation": "The class can observe over time whether the ice melts outside.",
+    "question": "A class puts a small ice cube in a sunny tray. Which question asks whether the ice changes while it is outside?",
+    "explanation": "The class can watch the ice and find out.",
     "printable": true,
     "type": "single",
     "answers": [
-      "Will the ice melt outside?",
-      "Was the ice cold before?",
-      "Is the ice in a bowl?"
+      "Will the ice get smaller?",
+      "Did the tray feel cold before?",
+      "Is the ice on a blue tray?"
     ],
     "correct": 0,
-    "audioPrompt": "Which question asks what happens to ice outside over time?",
+    "audioPrompt": "A class puts a small ice cube in a sunny tray. Which question asks whether the ice changes while it is outside?",
     "structuredExplanation": {
-      "summary": "The class can observe over time whether the ice melts outside."
+      "summary": "The class can watch the ice and find out."
     }
   },
   {
     "id": "ac9sfi01-t-003",
     "curriculumCode": "AC9SFI01",
     "bank": "test",
-    "skill": "make predictions from experience",
-    "question": "A child says, “The seed may sprout because the last seed sprouted.” What is this?",
+    "skill": "connect experience to inquiry",
+    "question": "A child says, “This seed might sprout because the last seed sprouted.” What is this?",
     "explanation": "The child uses an earlier seed experience to predict what may happen.",
     "printable": true,
     "type": "single",
@@ -55,7 +55,7 @@ window.skillrTestQuestions = [
       "A question to ask"
     ],
     "correct": 1,
-    "audioPrompt": "A child says, “The seed may sprout because the last seed sprouted.” What is this?",
+    "audioPrompt": "A child says, “This seed might sprout because the last seed sprouted.” What is this?",
     "structuredExplanation": {
       "summary": "The child uses an earlier seed experience to predict what may happen."
     }
@@ -65,27 +65,27 @@ window.skillrTestQuestions = [
     "curriculumCode": "AC9SFI01",
     "bank": "test",
     "skill": "make predictions from experience",
-    "question": "A class saw leaves move when the wind blew. Which prediction best matches that earlier observation for another windy day?",
-    "explanation": "The prediction uses a past windy-day observation.",
+    "question": "Leaves moved on a windy day and stayed still on a calm day. Which prediction best fits another windy day?",
+    "explanation": "The prediction uses the windy-day experience.",
     "printable": true,
     "type": "single",
     "answers": [
-      "The leaves may stay still.",
-      "The leaves may be different colours.",
-      "The leaves may move."
+      "The leaves might stay still like on the calm day.",
+      "The leaves might change colour.",
+      "The leaves might move again."
     ],
     "correct": 2,
-    "audioPrompt": "A class saw leaves move when the wind blew. Which prediction best matches that earlier observation for another windy day?",
+    "audioPrompt": "Leaves moved on a windy day and stayed still on a calm day. Which prediction best fits another windy day?",
     "structuredExplanation": {
-      "summary": "The prediction uses a past windy-day observation."
+      "summary": "The prediction uses the windy-day experience."
     }
   },
   {
     "id": "ac9sfi01-t-005",
     "curriculumCode": "AC9SFI01",
     "bank": "test",
-    "skill": "connect experience to inquiry",
-    "question": "Which sentence is a science question?",
+    "skill": "pose investigable questions",
+    "question": "Which sentence asks something the class could check?",
     "explanation": "A question asks something to find out.",
     "printable": true,
     "type": "single",
@@ -95,7 +95,7 @@ window.skillrTestQuestions = [
       "The shadow was long yesterday."
     ],
     "correct": 0,
-    "audioPrompt": "Which sentence is a science question?",
+    "audioPrompt": "Which sentence asks something the class could check?",
     "structuredExplanation": {
       "summary": "A question asks something to find out."
     }
@@ -105,19 +105,19 @@ window.skillrTestQuestions = [
     "curriculumCode": "AC9SFI01",
     "bank": "test",
     "skill": "make predictions from experience",
-    "question": "A child tested a rubber ball and saw it bounce. Which prediction best matches dropping it again safely?",
-    "explanation": "The prediction is based on what happened before.",
+    "question": "A child dropped a rubber ball safely and saw it bounce. Which prediction best fits dropping the same ball again?",
+    "explanation": "The child uses what happened when the ball was dropped before.",
     "printable": true,
     "type": "single",
     "answers": [
-      "It may roll instead of bounce.",
-      "It may bounce again.",
-      "It may stay flat on the floor."
+      "It might stay flat.",
+      "It might bounce.",
+      "It might become soft."
     ],
     "correct": 1,
-    "audioPrompt": "A child tested a rubber ball and saw it bounce. Which prediction best matches dropping it again safely?",
+    "audioPrompt": "A child dropped a rubber ball safely and saw it bounce. Which prediction best fits dropping the same ball again?",
     "structuredExplanation": {
-      "summary": "The prediction is based on what happened before."
+      "summary": "The child uses what happened when the ball was dropped before."
     }
   },
   {
@@ -125,19 +125,19 @@ window.skillrTestQuestions = [
     "curriculumCode": "AC9SFI01",
     "bank": "test",
     "skill": "pose investigable questions",
-    "question": "A child saw ants near fruit yesterday. Which question checks whether that happens again today?",
-    "explanation": "The question checks whether the earlier observation happens again.",
+    "question": "Yesterday there were more ants near fruit than near a pencil. Today the fruit and pencil are outside again. Which question repeats yesterday's comparison?",
+    "explanation": "The question follows from yesterday's comparison.",
     "printable": true,
     "type": "single",
     "answers": [
-      "Will ants come near a pencil today?",
+      "Will ants come near only the pencil?",
       "Is the fruit red today?",
-      "Will ants come near fruit today?"
+      "Will there be more ants near the fruit than near the pencil?"
     ],
     "correct": 2,
-    "audioPrompt": "A child saw ants near fruit yesterday. Which question checks whether that happens again today?",
+    "audioPrompt": "Yesterday there were more ants near fruit than near a pencil. Today the fruit and pencil are outside again. Which question repeats yesterday's comparison?",
     "structuredExplanation": {
-      "summary": "The question checks whether the earlier observation happens again."
+      "summary": "The question follows from yesterday's comparison."
     }
   },
   {
@@ -165,19 +165,19 @@ window.skillrTestQuestions = [
     "curriculumCode": "AC9SFI01",
     "bank": "test",
     "skill": "make predictions from experience",
-    "question": "A plant near the window grew taller last week. What is the best supported prediction for this week?",
-    "explanation": "The prediction uses the earlier experience with the plant near the window.",
+    "question": "A seedling near the window was taller than its mark by Friday. Another seedling is put near the same window, watered, and its starting height is marked. Which prediction best fits the earlier experience?",
+    "explanation": "The prediction uses the earlier marked-height experience.",
     "printable": true,
     "type": "single",
     "answers": [
-      "It may grow taller near the window.",
-      "It may stay the same height this week.",
-      "It may grow taller away from light."
+      "It might be taller than its mark.",
+      "It might stay exactly at the mark.",
+      "It might become shorter than its mark."
     ],
     "correct": 0,
-    "audioPrompt": "A plant near the window grew taller last week. What is the best supported prediction for this week?",
+    "audioPrompt": "A seedling near the window was taller than its mark by Friday. Another seedling is put near the same window, watered, and its starting height is marked. Which prediction best fits the earlier experience?",
     "structuredExplanation": {
-      "summary": "The prediction uses the earlier experience with the plant near the window."
+      "summary": "The prediction uses the earlier marked-height experience."
     }
   },
   {
@@ -185,19 +185,19 @@ window.skillrTestQuestions = [
     "curriculumCode": "AC9SFI01",
     "bank": "test",
     "skill": "make predictions from experience",
-    "question": "A child saw a toy car move farther after a stronger push. Which prediction best matches that earlier observation?",
-    "explanation": "The prediction uses the earlier push experience.",
+    "question": "A toy car moved farther with a strong push than with a gentle push. Which prediction best fits that push comparison?",
+    "explanation": "The prediction uses the earlier push comparison.",
     "printable": true,
     "type": "single",
     "answers": [
-      "A gentle push may move it farther.",
-      "The car may not move at all.",
-      "A stronger push may move it farther again."
+      "A gentle push might go farther.",
+      "The car might stop sooner than with a gentle push.",
+      "A strong push might move it farther than a gentle push."
     ],
     "correct": 2,
-    "audioPrompt": "A child saw a toy car move farther after a stronger push. Which prediction best matches that earlier observation?",
+    "audioPrompt": "A toy car moved farther with a strong push than with a gentle push. Which prediction best fits that push comparison?",
     "structuredExplanation": {
-      "summary": "The prediction uses the earlier push experience."
+      "summary": "The prediction uses the earlier push comparison."
     }
   },
   {
@@ -205,19 +205,19 @@ window.skillrTestQuestions = [
     "curriculumCode": "AC9SFI01",
     "bank": "test",
     "skill": "pose investigable questions",
-    "question": "Which question would compare how sponges take in water?",
-    "explanation": "A child can observe and compare how much water sponges take in.",
+    "question": "Two same-size sponges are put into the same amount of water. Which question is about how much water they take in?",
+    "explanation": "The question compares the amount of water taken in.",
     "printable": true,
     "type": "single",
     "answers": [
-      "Which sponge is blue?",
+      "Which sponge has a brighter colour?",
       "Which sponge takes in more water?",
-      "Which sponge was used yesterday?"
+      "Which sponge was used first?"
     ],
     "correct": 1,
-    "audioPrompt": "Which question would compare how sponges take in water?",
+    "audioPrompt": "Two same-size sponges are put into the same amount of water. Which question is about how much water they take in?",
     "structuredExplanation": {
-      "summary": "A child can observe and compare how much water sponges take in."
+      "summary": "The question compares the amount of water taken in."
     }
   },
   {
@@ -225,7 +225,7 @@ window.skillrTestQuestions = [
     "curriculumCode": "AC9SFI01",
     "bank": "test",
     "skill": "connect experience to inquiry",
-    "question": "A child says, “I think the puddle will get smaller in the sun.” What is the child doing?",
+    "question": "A child says, “I think the puddle might get smaller in the sun.” What is the child doing?",
     "explanation": "The child is saying what they think may happen next.",
     "printable": true,
     "type": "single",
@@ -235,7 +235,7 @@ window.skillrTestQuestions = [
       "Asking a question"
     ],
     "correct": 0,
-    "audioPrompt": "A child says, “I think the puddle will get smaller in the sun.” What is the child doing?",
+    "audioPrompt": "A child says, “I think the puddle might get smaller in the sun.” What is the child doing?",
     "structuredExplanation": {
       "summary": "The child is saying what they think may happen next."
     }
@@ -265,19 +265,19 @@ window.skillrTestQuestions = [
     "curriculumCode": "AC9SFI01",
     "bank": "test",
     "skill": "make predictions from experience",
-    "question": "A child predicts a feather will move when blown gently. Which past experience most directly matches this feather test?",
-    "explanation": "A matching past experience with air moving a feather can support the prediction.",
+    "question": "A feather moved farther with a strong blow than with a gentle blow. Which prediction best fits the feather test?",
+    "explanation": "The prediction uses the earlier comparison of gentle and strong blows.",
     "printable": true,
     "type": "single",
     "answers": [
-      "They saw air move a feather before.",
-      "They saw the feather was white.",
-      "They saw a leaf is green."
+      "It might move farther than with a gentle blow.",
+      "It might move less than with a gentle blow.",
+      "It might stay still because air cannot push it."
     ],
     "correct": 0,
-    "audioPrompt": "A child predicts a feather will move when blown gently. Which past experience most directly matches this feather test?",
+    "audioPrompt": "A feather moved farther with a strong blow than with a gentle blow. Which prediction best fits the feather test?",
     "structuredExplanation": {
-      "summary": "A matching past experience with air moving a feather can support the prediction."
+      "summary": "The prediction uses the earlier comparison of gentle and strong blows."
     }
   },
   {
@@ -285,19 +285,19 @@ window.skillrTestQuestions = [
     "curriculumCode": "AC9SFI01",
     "bank": "test",
     "skill": "make predictions from experience",
-    "question": "Which prediction uses an earlier observation?",
-    "explanation": "The prediction uses what happened before to predict what may happen.",
+    "question": "Yesterday ice in the sun got smaller. Which sentence is a prediction for today?",
+    "explanation": "The sentence says what might happen today.",
     "printable": true,
     "type": "single",
     "answers": [
       "The ice is cold now.",
-      "The ice melted in the sun yesterday, so it may melt today.",
-      "The ice is on a plate."
+      "The ice might get smaller in the sun.",
+      "The ice looks white at the edge."
     ],
     "correct": 1,
-    "audioPrompt": "Which prediction uses an earlier observation?",
+    "audioPrompt": "Yesterday ice in the sun got smaller. Which sentence is a prediction for today?",
     "structuredExplanation": {
-      "summary": "The prediction uses what happened before to predict what may happen."
+      "summary": "The sentence says what might happen today."
     }
   },
   {
@@ -305,19 +305,19 @@ window.skillrTestQuestions = [
     "curriculumCode": "AC9SFI01",
     "bank": "test",
     "skill": "make predictions from experience",
-    "question": "Why should a child make a prediction before a new test?",
-    "explanation": "A prediction can be checked against later observations.",
+    "question": "Before testing a toy car on carpet and tile, which sentence is a prediction with a reason from before?",
+    "explanation": "This is a prediction with a reason from a past experience.",
     "printable": true,
     "type": "single",
     "answers": [
-      "To ignore what happened before.",
-      "To make the answer always correct.",
-      "To say what they think may happen and then check."
+      "The tile feels smooth.",
+      "The car rolled on carpet yesterday.",
+      "I think it might roll farther on tile because it did before."
     ],
     "correct": 2,
-    "audioPrompt": "Why should a child make a prediction before a new test?",
+    "audioPrompt": "Before testing a toy car on carpet and tile, which sentence is a prediction with a reason from before?",
     "structuredExplanation": {
-      "summary": "A prediction can be checked against later observations."
+      "summary": "This is a prediction with a reason from a past experience."
     }
   }
 ];
