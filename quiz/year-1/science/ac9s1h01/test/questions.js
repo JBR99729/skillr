@@ -4,7 +4,7 @@ window.skillrExamQuestions = [
     "id": "ac9s1h01-t-001",
     "curriculumCode": "AC9S1H01",
     "bank": "test",
-    "skill": "science in daily life and pattern-based predictions",
+    "skill": "science in daily life",
     "printable": true,
     "type": "single",
     "question": "A family notices their bathroom mirror fogs after several hot showers. Which is a careful prediction?",
@@ -30,13 +30,13 @@ window.skillrExamQuestions = [
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 1,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1h01-t-002",
     "curriculumCode": "AC9S1H01",
     "bank": "test",
-    "skill": "science in daily life and pattern-based predictions",
+    "skill": "science in daily life",
     "printable": true,
     "type": "single",
     "question": "A florist checks bucket water each afternoon. Why keep the measurements?",
@@ -62,13 +62,13 @@ window.skillrExamQuestions = [
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 2,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1h01-t-003",
     "curriculumCode": "AC9S1H01",
     "bank": "test",
-    "skill": "science in daily life and pattern-based predictions",
+    "skill": "science in daily life",
     "printable": true,
     "type": "single",
     "question": "Which worker is using measurement?",
@@ -94,13 +94,13 @@ window.skillrExamQuestions = [
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 3,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1h01-t-004",
     "curriculumCode": "AC9S1H01",
     "bank": "test",
-    "skill": "science in daily life and pattern-based predictions",
+    "skill": "science in daily life",
     "printable": true,
     "type": "single",
     "question": "Snails appeared on a path after rain on three mornings. Which statement is best?",
@@ -126,13 +126,13 @@ window.skillrExamQuestions = [
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 4,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1h01-t-005",
     "curriculumCode": "AC9S1H01",
     "bank": "test",
-    "skill": "science in daily life and pattern-based predictions",
+    "skill": "science in daily life",
     "printable": true,
     "type": "single",
     "question": "Why might a swimming instructor check water temperature?",
@@ -158,13 +158,13 @@ window.skillrExamQuestions = [
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 5,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1h01-t-006",
     "curriculumCode": "AC9S1H01",
     "bank": "test",
-    "skill": "science in daily life and pattern-based predictions",
+    "skill": "science in daily life",
     "printable": true,
     "type": "single",
     "question": "A bus arrived near 8:05 on five school days. Which action best uses the pattern?",
@@ -190,13 +190,13 @@ window.skillrExamQuestions = [
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 6,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1h01-t-007",
     "curriculumCode": "AC9S1H01",
     "bank": "test",
-    "skill": "science in daily life and pattern-based predictions",
+    "skill": "science in daily life",
     "printable": true,
     "type": "single",
     "question": "A café records that ice melts faster outside the freezer. What daily decision follows?",
@@ -222,13 +222,13 @@ window.skillrExamQuestions = [
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 7,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1h01-t-008",
     "curriculumCode": "AC9S1H01",
     "bank": "test",
-    "skill": "science in daily life and pattern-based predictions",
+    "skill": "science in daily life",
     "printable": true,
     "type": "single",
     "question": "Which statement is evidence rather than opinion?",
@@ -254,13 +254,13 @@ window.skillrExamQuestions = [
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 8,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1h01-t-009",
     "curriculumCode": "AC9S1H01",
     "bank": "test",
-    "skill": "science in daily life and pattern-based predictions",
+    "skill": "science in daily life",
     "printable": true,
     "type": "single",
     "question": "A child notices the playground slide is hotter on sunny afternoons. Which prediction is reasonable?",
@@ -286,13 +286,13 @@ window.skillrExamQuestions = [
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 9,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1h01-t-010",
     "curriculumCode": "AC9S1H01",
     "bank": "test",
-    "skill": "science in daily life and pattern-based predictions",
+    "skill": "science in daily life",
     "printable": true,
     "type": "single",
     "question": "A gardener’s first prediction does not match what happened. What should they do?",
@@ -318,13 +318,13 @@ window.skillrExamQuestions = [
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 10,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1h01-t-011",
     "curriculumCode": "AC9S1H01",
     "bank": "test",
-    "skill": "science in daily life and pattern-based predictions",
+    "skill": "science in daily life",
     "printable": true,
     "type": "single",
     "question": "Which everyday action combines observation and measurement?",
@@ -350,13 +350,13 @@ window.skillrExamQuestions = [
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 11,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1h01-t-012",
     "curriculumCode": "AC9S1H01",
     "bank": "test",
-    "skill": "science in daily life and pattern-based predictions",
+    "skill": "science in daily life",
     "printable": true,
     "type": "single",
     "question": "Wet clothes dried quickly on several warm windy days. What would strengthen the pattern?",
@@ -382,13 +382,13 @@ window.skillrExamQuestions = [
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 12,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1h01-t-013",
     "curriculumCode": "AC9S1H01",
     "bank": "test",
-    "skill": "science in daily life and pattern-based predictions",
+    "skill": "science in daily life",
     "printable": true,
     "type": "single",
     "question": "A family uses a rain gauge each morning. What science skill are they using?",
@@ -414,13 +414,13 @@ window.skillrExamQuestions = [
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 13,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1h01-t-014",
     "curriculumCode": "AC9S1H01",
     "bank": "test",
-    "skill": "science in daily life and pattern-based predictions",
+    "skill": "science in daily life",
     "printable": true,
     "type": "single",
     "question": "Why is “The soil was wet, so it will be wet tomorrow” not enough by itself?",
@@ -446,13 +446,13 @@ window.skillrExamQuestions = [
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 14,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1h01-t-015",
     "curriculumCode": "AC9S1H01",
     "bank": "test",
-    "skill": "science in daily life and pattern-based predictions",
+    "skill": "science in daily life",
     "printable": true,
     "type": "single",
     "question": "A cyclist records tyre pressure each Saturday and sees it falling. What is a sensible next step?",
@@ -478,13 +478,13 @@ window.skillrExamQuestions = [
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 15,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1h01-t-016",
     "curriculumCode": "AC9S1H01",
     "bank": "test",
-    "skill": "science in daily life and pattern-based predictions",
+    "skill": "science in daily life",
     "printable": true,
     "type": "single",
     "question": "Which statement best describes science in daily life?",
@@ -510,6 +510,6 @@ window.skillrExamQuestions = [
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 16,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   }
 ];

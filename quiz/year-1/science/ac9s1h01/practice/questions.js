@@ -4,7 +4,7 @@ window.skillrPracticeQuestions = [
     "id": "ac9s1h01-p-001",
     "curriculumCode": "AC9S1H01",
     "bank": "practice",
-    "skill": "science in daily life and pattern-based predictions",
+    "skill": "science in daily life",
     "printable": true,
     "type": "single",
     "question": "A gardener measures bean-plant height each Friday. How is science helping?",
@@ -31,13 +31,13 @@ window.skillrPracticeQuestions = [
     "difficulty": 1,
     "difficultyTier": "recognise",
     "sequencePriority": 1,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1h01-p-002",
     "curriculumCode": "AC9S1H01",
     "bank": "practice",
-    "skill": "science in daily life and pattern-based predictions",
+    "skill": "science in daily life",
     "printable": true,
     "type": "single",
     "question": "A cook uses a timer while bread bakes. What is measured?",
@@ -64,13 +64,13 @@ window.skillrPracticeQuestions = [
     "difficulty": 1,
     "difficultyTier": "recognise",
     "sequencePriority": 2,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1h01-p-003",
     "curriculumCode": "AC9S1H01",
     "bank": "practice",
-    "skill": "science in daily life and pattern-based predictions",
+    "skill": "science in daily life",
     "printable": true,
     "type": "single",
     "question": "A family checks the forecast before hanging washing. Why?",
@@ -97,13 +97,13 @@ window.skillrPracticeQuestions = [
     "difficulty": 1,
     "difficultyTier": "recognise",
     "sequencePriority": 3,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1h01-p-004",
     "curriculumCode": "AC9S1H01",
     "bank": "practice",
-    "skill": "science in daily life and pattern-based predictions",
+    "skill": "science in daily life",
     "printable": true,
     "type": "single",
     "question": "Wet towels dried quickly on three warm breezy days. Which prediction is careful?",
@@ -130,13 +130,13 @@ window.skillrPracticeQuestions = [
     "difficulty": 1,
     "difficultyTier": "recognise",
     "sequencePriority": 4,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1h01-p-005",
     "curriculumCode": "AC9S1H01",
     "bank": "practice",
-    "skill": "science in daily life and pattern-based predictions",
+    "skill": "science in daily life",
     "printable": true,
     "type": "single",
     "question": "A nurse uses a thermometer. What does it measure?",
@@ -163,13 +163,13 @@ window.skillrPracticeQuestions = [
     "difficulty": 1,
     "difficultyTier": "recognise",
     "sequencePriority": 5,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1h01-p-006",
     "curriculumCode": "AC9S1H01",
     "bank": "practice",
-    "skill": "science in daily life and pattern-based predictions",
+    "skill": "science in daily life",
     "printable": true,
     "type": "single",
     "question": "Which sentence is an observation?",
@@ -196,13 +196,13 @@ window.skillrPracticeQuestions = [
     "difficulty": 1,
     "difficultyTier": "recognise",
     "sequencePriority": 6,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1h01-p-007",
     "curriculumCode": "AC9S1H01",
     "bank": "practice",
-    "skill": "science in daily life and pattern-based predictions",
+    "skill": "science in daily life",
     "printable": true,
     "type": "single",
     "question": "Which prediction uses a pattern?",
@@ -229,13 +229,13 @@ window.skillrPracticeQuestions = [
     "difficulty": 1,
     "difficultyTier": "recognise",
     "sequencePriority": 7,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1h01-p-008",
     "curriculumCode": "AC9S1H01",
     "bank": "practice",
-    "skill": "science in daily life and pattern-based predictions",
+    "skill": "science in daily life",
     "printable": true,
     "type": "single",
     "question": "A builder uses a spirit level on a shelf. What is being checked?",
@@ -262,13 +262,13 @@ window.skillrPracticeQuestions = [
     "difficulty": 1,
     "difficultyTier": "recognise",
     "sequencePriority": 8,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1h01-p-009",
     "curriculumCode": "AC9S1H01",
     "bank": "practice",
-    "skill": "science in daily life and pattern-based predictions",
+    "skill": "science in daily life",
     "printable": true,
     "type": "single",
     "question": "Which daily activity uses measurement?",
@@ -295,13 +295,13 @@ window.skillrPracticeQuestions = [
     "difficulty": 1,
     "difficultyTier": "recognise",
     "sequencePriority": 9,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1h01-p-010",
     "curriculumCode": "AC9S1H01",
     "bank": "practice",
-    "skill": "science in daily life and pattern-based predictions",
+    "skill": "science in daily life",
     "printable": true,
     "type": "single",
     "question": "A shadow is longer each morning than at lunchtime for several days. What was noticed?",
@@ -328,13 +328,13 @@ window.skillrPracticeQuestions = [
     "difficulty": 1,
     "difficultyTier": "recognise",
     "sequencePriority": 10,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1h01-p-011",
     "curriculumCode": "AC9S1H01",
     "bank": "practice",
-    "skill": "science in daily life and pattern-based predictions",
+    "skill": "science in daily life",
     "printable": true,
     "type": "single",
     "question": "Why record plant height instead of relying only on memory?",
@@ -358,16 +358,16 @@ window.skillrPracticeQuestions = [
       "hint": "Why keep the numbers?"
     },
     "stage": "explain",
-    "difficulty": 2,
-    "difficultyTier": "explain",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
     "sequencePriority": 11,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1h01-p-012",
     "curriculumCode": "AC9S1H01",
     "bank": "practice",
-    "skill": "science in daily life and pattern-based predictions",
+    "skill": "science in daily life",
     "printable": true,
     "type": "single",
     "question": "Why is “It rained after dark clouds once, so it will always rain” too strong?",
@@ -391,16 +391,16 @@ window.skillrPracticeQuestions = [
       "hint": "One result is not forever."
     },
     "stage": "explain",
-    "difficulty": 2,
-    "difficultyTier": "explain",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
     "sequencePriority": 12,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1h01-p-013",
     "curriculumCode": "AC9S1H01",
     "bank": "practice",
-    "skill": "science in daily life and pattern-based predictions",
+    "skill": "science in daily life",
     "printable": true,
     "type": "single",
     "question": "Dough rose faster in a warm place on several baking days. How can that help next time?",
@@ -424,16 +424,16 @@ window.skillrPracticeQuestions = [
       "hint": "Use the pattern cautiously."
     },
     "stage": "explain",
-    "difficulty": 2,
-    "difficultyTier": "explain",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
     "sequencePriority": 13,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1h01-p-014",
     "curriculumCode": "AC9S1H01",
     "bank": "practice",
-    "skill": "science in daily life and pattern-based predictions",
+    "skill": "science in daily life",
     "printable": true,
     "type": "single",
     "question": "Why measure a person’s temperature instead of only looking at them?",
@@ -457,16 +457,16 @@ window.skillrPracticeQuestions = [
       "hint": "What does the number add?"
     },
     "stage": "explain",
-    "difficulty": 2,
-    "difficultyTier": "explain",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
     "sequencePriority": 14,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1h01-p-015",
     "curriculumCode": "AC9S1H01",
     "bank": "practice",
-    "skill": "science in daily life and pattern-based predictions",
+    "skill": "science in daily life",
     "printable": true,
     "type": "single",
     "question": "Solar lights stayed on longer after sunny days. Why is “They may stay on longer after another sunny day” scientific?",
@@ -490,16 +490,16 @@ window.skillrPracticeQuestions = [
       "hint": "Evidence + may."
     },
     "stage": "explain",
-    "difficulty": 2,
-    "difficultyTier": "explain",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
     "sequencePriority": 15,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1h01-p-016",
     "curriculumCode": "AC9S1H01",
     "bank": "practice",
-    "skill": "science in daily life and pattern-based predictions",
+    "skill": "science in daily life",
     "printable": true,
     "type": "single",
     "question": "Why measure recipe ingredients rather than add random amounts?",
@@ -523,16 +523,16 @@ window.skillrPracticeQuestions = [
       "hint": "Same amount next time."
     },
     "stage": "explain",
-    "difficulty": 2,
-    "difficultyTier": "explain",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
     "sequencePriority": 16,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1h01-p-017",
     "curriculumCode": "AC9S1H01",
     "bank": "practice",
-    "skill": "science in daily life and pattern-based predictions",
+    "skill": "science in daily life",
     "printable": true,
     "type": "single",
     "question": "Wet shoes dried fastest by a sunny window yesterday. Why is that useful for today’s prediction?",
@@ -557,15 +557,15 @@ window.skillrPracticeQuestions = [
     },
     "stage": "explain",
     "difficulty": 2,
-    "difficultyTier": "explain",
+    "difficultyTier": "guided",
     "sequencePriority": 17,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1h01-p-018",
     "curriculumCode": "AC9S1H01",
     "bank": "practice",
-    "skill": "science in daily life and pattern-based predictions",
+    "skill": "science in daily life",
     "printable": true,
     "type": "single",
     "question": "Why can a wrong prediction still be useful?",
@@ -590,15 +590,15 @@ window.skillrPracticeQuestions = [
     },
     "stage": "explain",
     "difficulty": 2,
-    "difficultyTier": "explain",
+    "difficultyTier": "guided",
     "sequencePriority": 18,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1h01-p-019",
     "curriculumCode": "AC9S1H01",
     "bank": "practice",
-    "skill": "science in daily life and pattern-based predictions",
+    "skill": "science in daily life",
     "printable": true,
     "type": "single",
     "question": "A mechanic hears the same odd engine sound before two breakdowns. Why can the pattern matter?",
@@ -623,15 +623,15 @@ window.skillrPracticeQuestions = [
     },
     "stage": "explain",
     "difficulty": 2,
-    "difficultyTier": "explain",
+    "difficultyTier": "guided",
     "sequencePriority": 19,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1h01-p-020",
     "curriculumCode": "AC9S1H01",
     "bank": "practice",
-    "skill": "science in daily life and pattern-based predictions",
+    "skill": "science in daily life",
     "printable": true,
     "type": "single",
     "question": "Why keep checking a pattern after making a prediction?",
@@ -656,15 +656,15 @@ window.skillrPracticeQuestions = [
     },
     "stage": "explain",
     "difficulty": 2,
-    "difficultyTier": "explain",
+    "difficultyTier": "guided",
     "sequencePriority": 20,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1h01-p-021",
     "curriculumCode": "AC9S1H01",
     "bank": "practice",
-    "skill": "science in daily life and pattern-based predictions",
+    "skill": "science in daily life",
     "printable": true,
     "type": "single",
     "question": "Who is using science most clearly?",
@@ -689,15 +689,15 @@ window.skillrPracticeQuestions = [
     },
     "stage": "discriminate",
     "difficulty": 2,
-    "difficultyTier": "discriminate",
+    "difficultyTier": "guided",
     "sequencePriority": 21,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1h01-p-022",
     "curriculumCode": "AC9S1H01",
     "bank": "practice",
-    "skill": "science in daily life and pattern-based predictions",
+    "skill": "science in daily life",
     "printable": true,
     "type": "single",
     "question": "Which prediction is best supported?",
@@ -722,15 +722,15 @@ window.skillrPracticeQuestions = [
     },
     "stage": "discriminate",
     "difficulty": 2,
-    "difficultyTier": "discriminate",
+    "difficultyTier": "guided",
     "sequencePriority": 22,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1h01-p-023",
     "curriculumCode": "AC9S1H01",
     "bank": "practice",
-    "skill": "science in daily life and pattern-based predictions",
+    "skill": "science in daily life",
     "printable": true,
     "type": "single",
     "question": "Which statement confuses observation and prediction?",
@@ -755,15 +755,15 @@ window.skillrPracticeQuestions = [
     },
     "stage": "discriminate",
     "difficulty": 2,
-    "difficultyTier": "discriminate",
+    "difficultyTier": "guided",
     "sequencePriority": 23,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1h01-p-024",
     "curriculumCode": "AC9S1H01",
     "bank": "practice",
-    "skill": "science in daily life and pattern-based predictions",
+    "skill": "science in daily life",
     "printable": true,
     "type": "single",
     "question": "One watered plant grew taller next week. Which conclusion is most careful?",
@@ -788,15 +788,15 @@ window.skillrPracticeQuestions = [
     },
     "stage": "discriminate",
     "difficulty": 2,
-    "difficultyTier": "discriminate",
+    "difficultyTier": "guided",
     "sequencePriority": 24,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1h01-p-025",
     "curriculumCode": "AC9S1H01",
     "bank": "practice",
-    "skill": "science in daily life and pattern-based predictions",
+    "skill": "science in daily life",
     "printable": true,
     "type": "single",
     "question": "Which tool best checks whether bath water became cooler?",
@@ -821,15 +821,15 @@ window.skillrPracticeQuestions = [
     },
     "stage": "discriminate",
     "difficulty": 2,
-    "difficultyTier": "discriminate",
+    "difficultyTier": "guided",
     "sequencePriority": 25,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1h01-p-026",
     "curriculumCode": "AC9S1H01",
     "bank": "practice",
-    "skill": "science in daily life and pattern-based predictions",
+    "skill": "science in daily life",
     "printable": true,
     "type": "single",
     "question": "Which daily decision uses a pattern?",
@@ -854,15 +854,15 @@ window.skillrPracticeQuestions = [
     },
     "stage": "discriminate",
     "difficulty": 2,
-    "difficultyTier": "discriminate",
+    "difficultyTier": "guided",
     "sequencePriority": 26,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1h01-p-027",
     "curriculumCode": "AC9S1H01",
     "bank": "practice",
-    "skill": "science in daily life and pattern-based predictions",
+    "skill": "science in daily life",
     "printable": true,
     "type": "single",
     "question": "Which statement overclaims?",
@@ -887,15 +887,15 @@ window.skillrPracticeQuestions = [
     },
     "stage": "discriminate",
     "difficulty": 2,
-    "difficultyTier": "discriminate",
+    "difficultyTier": "guided",
     "sequencePriority": 27,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1h01-p-028",
     "curriculumCode": "AC9S1H01",
     "bank": "practice",
-    "skill": "science in daily life and pattern-based predictions",
+    "skill": "science in daily life",
     "printable": true,
     "type": "single",
     "question": "A cook compares cooling spots. Which evidence is best?",
@@ -920,15 +920,15 @@ window.skillrPracticeQuestions = [
     },
     "stage": "discriminate",
     "difficulty": 2,
-    "difficultyTier": "discriminate",
+    "difficultyTier": "guided",
     "sequencePriority": 28,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1h01-p-029",
     "curriculumCode": "AC9S1H01",
     "bank": "practice",
-    "skill": "science in daily life and pattern-based predictions",
+    "skill": "science in daily life",
     "printable": true,
     "type": "single",
     "question": "Which separates evidence from opinion?",
@@ -953,19 +953,19 @@ window.skillrPracticeQuestions = [
     },
     "stage": "discriminate",
     "difficulty": 2,
-    "difficultyTier": "discriminate",
+    "difficultyTier": "guided",
     "sequencePriority": 29,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1h01-p-030",
     "curriculumCode": "AC9S1H01",
     "bank": "practice",
-    "skill": "science in daily life and pattern-based predictions",
+    "skill": "science in daily life",
     "printable": true,
     "type": "single",
-    "question": "A pattern stops repeating. What is good scientific thinking?",
-    "audioPrompt": "A pattern stops repeating. What is good scientific thinking?",
+    "question": "A wet towel dries faster in the Sun. How can this idea help?",
+    "audioPrompt": "A wet towel dries faster in the Sun. How can this idea help?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -973,28 +973,27 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Erase the result.",
-      "Keep saying the old pattern must be true.",
-      "Change the measurement.",
-      "Record the new result and reconsider the prediction."
+      "cover it with mud",
+      "put washing in a sunny place",
+      "hide washing in a box",
+      "put it in water"
     ],
-    "correct": 3,
-    "explanation": "Unexpected evidence should be kept and used.\nHint: Evidence first.",
+    "correct": 1,
+    "explanation": "The correct answer is put washing in a sunny place.",
     "structuredExplanation": {
-      "summary": "Unexpected evidence should be kept and used.",
-      "hint": "Evidence first."
+      "summary": "The correct answer is put washing in a sunny place."
     },
     "stage": "discriminate",
     "difficulty": 2,
-    "difficultyTier": "discriminate",
+    "difficultyTier": "guided",
     "sequencePriority": 30,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1h01-p-031",
     "curriculumCode": "AC9S1H01",
     "bank": "practice",
-    "skill": "science in daily life and pattern-based predictions",
+    "skill": "science in daily life",
     "printable": true,
     "type": "single",
     "question": "A dog waits by the door before its owner arrives on four evenings. Best prediction?",
@@ -1018,16 +1017,16 @@ window.skillrPracticeQuestions = [
       "hint": "May, not must."
     },
     "stage": "apply",
-    "difficulty": 3,
-    "difficultyTier": "apply",
+    "difficulty": 2,
+    "difficultyTier": "guided",
     "sequencePriority": 31,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1h01-p-032",
     "curriculumCode": "AC9S1H01",
     "bank": "practice",
-    "skill": "science in daily life and pattern-based predictions",
+    "skill": "science in daily life",
     "printable": true,
     "type": "single",
     "question": "How could a child compare drink cooling on a bench and in a fridge?",
@@ -1051,16 +1050,16 @@ window.skillrPracticeQuestions = [
       "hint": "Same time, both places."
     },
     "stage": "apply",
-    "difficulty": 3,
-    "difficultyTier": "apply",
+    "difficulty": 2,
+    "difficultyTier": "guided",
     "sequencePriority": 32,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1h01-p-033",
     "curriculumCode": "AC9S1H01",
     "bank": "practice",
-    "skill": "science in daily life and pattern-based predictions",
+    "skill": "science in daily life",
     "printable": true,
     "type": "single",
     "question": "Washing dried quickly on two warm windy days and slowly on a cool still day. Best plan?",
@@ -1085,15 +1084,15 @@ window.skillrPracticeQuestions = [
     },
     "stage": "apply",
     "difficulty": 3,
-    "difficultyTier": "apply",
+    "difficultyTier": "independent",
     "sequencePriority": 33,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1h01-p-034",
     "curriculumCode": "AC9S1H01",
     "bank": "practice",
-    "skill": "science in daily life and pattern-based predictions",
+    "skill": "science in daily life",
     "printable": true,
     "type": "single",
     "question": "An ice block melted faster in sunlight once. How can stronger evidence be gathered?",
@@ -1118,15 +1117,15 @@ window.skillrPracticeQuestions = [
     },
     "stage": "apply",
     "difficulty": 3,
-    "difficultyTier": "apply",
+    "difficultyTier": "independent",
     "sequencePriority": 34,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1h01-p-035",
     "curriculumCode": "AC9S1H01",
     "bank": "practice",
-    "skill": "science in daily life and pattern-based predictions",
+    "skill": "science in daily life",
     "printable": true,
     "type": "single",
     "question": "Seedlings lean toward a window. Which action tests a prediction?",
@@ -1151,15 +1150,15 @@ window.skillrPracticeQuestions = [
     },
     "stage": "apply",
     "difficulty": 3,
-    "difficultyTier": "apply",
+    "difficultyTier": "independent",
     "sequencePriority": 35,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1h01-p-036",
     "curriculumCode": "AC9S1H01",
     "bank": "practice",
-    "skill": "science in daily life and pattern-based predictions",
+    "skill": "science in daily life",
     "printable": true,
     "type": "single",
     "question": "Cold drinks warm when left out of the fridge. How can this knowledge help?",
@@ -1184,15 +1183,15 @@ window.skillrPracticeQuestions = [
     },
     "stage": "apply",
     "difficulty": 3,
-    "difficultyTier": "apply",
+    "difficultyTier": "independent",
     "sequencePriority": 36,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1h01-p-037",
     "curriculumCode": "AC9S1H01",
     "bank": "practice",
-    "skill": "science in daily life and pattern-based predictions",
+    "skill": "science in daily life",
     "printable": true,
     "type": "single",
     "question": "A bicycle tyre feels softer every few days. Best science-informed action?",
@@ -1217,15 +1216,15 @@ window.skillrPracticeQuestions = [
     },
     "stage": "apply",
     "difficulty": 3,
-    "difficultyTier": "apply",
+    "difficultyTier": "independent",
     "sequencePriority": 37,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1h01-p-038",
     "curriculumCode": "AC9S1H01",
     "bank": "practice",
-    "skill": "science in daily life and pattern-based predictions",
+    "skill": "science in daily life",
     "printable": true,
     "type": "single",
     "question": "Sunrise has become earlier over several weeks. Which statement is best?",
@@ -1250,15 +1249,15 @@ window.skillrPracticeQuestions = [
     },
     "stage": "apply",
     "difficulty": 3,
-    "difficultyTier": "apply",
+    "difficultyTier": "independent",
     "sequencePriority": 38,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1h01-p-039",
     "curriculumCode": "AC9S1H01",
     "bank": "practice",
-    "skill": "science in daily life and pattern-based predictions",
+    "skill": "science in daily life",
     "printable": true,
     "type": "single",
     "question": "A shaded puddle was predicted to last longer, but the sunny one lasted longer today. What should be said?",
@@ -1283,15 +1282,15 @@ window.skillrPracticeQuestions = [
     },
     "stage": "apply",
     "difficulty": 3,
-    "difficultyTier": "apply",
+    "difficultyTier": "independent",
     "sequencePriority": 39,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1h01-p-040",
     "curriculumCode": "AC9S1H01",
     "bank": "practice",
-    "skill": "science in daily life and pattern-based predictions",
+    "skill": "science in daily life",
     "printable": true,
     "type": "single",
     "question": "Which example best shows science helping an everyday decision?",
@@ -1316,8 +1315,256 @@ window.skillrPracticeQuestions = [
     },
     "stage": "apply",
     "difficulty": 3,
-    "difficultyTier": "apply",
+    "difficultyTier": "independent",
     "sequencePriority": 40,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
+  },
+  {
+    "id": "ac9s1h01-p-041",
+    "curriculumCode": "AC9S1H01",
+    "bank": "practice",
+    "skill": "science in daily life",
+    "printable": true,
+    "type": "single",
+    "question": "Dark clouds are coming. What might happen?",
+    "audioPrompt": "Dark clouds are coming. What might happen?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "cars will grow",
+      "trees will walk",
+      "it may rain",
+      "the Sun will vanish forever"
+    ],
+    "correct": 2,
+    "explanation": "The correct answer is it may rain.",
+    "structuredExplanation": {
+      "summary": "The correct answer is it may rain."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 41,
+    "qualitySchema": "reviewed-year1-science-v1"
+  },
+  {
+    "id": "ac9s1h01-p-042",
+    "curriculumCode": "AC9S1H01",
+    "bank": "practice",
+    "skill": "science in daily life",
+    "printable": true,
+    "type": "single",
+    "question": "Why do people check the weather?",
+    "audioPrompt": "Why do people check the weather?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "to stop night",
+      "to move the Sun",
+      "to plan for the day",
+      "to change the season"
+    ],
+    "correct": 2,
+    "explanation": "The correct answer is to plan for the day.",
+    "structuredExplanation": {
+      "summary": "The correct answer is to plan for the day."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 42,
+    "qualitySchema": "reviewed-year1-science-v1"
+  },
+  {
+    "id": "ac9s1h01-p-043",
+    "curriculumCode": "AC9S1H01",
+    "bank": "practice",
+    "skill": "science in daily life",
+    "printable": true,
+    "type": "single",
+    "question": "Sam needs to dry a wet towel. How can the Sun help?",
+    "audioPrompt": "Sam needs to dry a wet towel. How can the Sun help?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "cover it with mud",
+      "put it in water",
+      "put washing in a sunny place",
+      "hide washing in a box"
+    ],
+    "correct": 2,
+    "explanation": "The correct answer is put washing in a sunny place.",
+    "structuredExplanation": {
+      "summary": "The correct answer is put washing in a sunny place."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 43,
+    "qualitySchema": "reviewed-year1-science-v1"
+  },
+  {
+    "id": "ac9s1h01-p-044",
+    "curriculumCode": "AC9S1H01",
+    "bank": "practice",
+    "skill": "science in daily life",
+    "printable": true,
+    "type": "single",
+    "question": "What should you do when a result surprises you?",
+    "audioPrompt": "What should you do when a result surprises you?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "hide it",
+      "record what happened",
+      "pretend it did not happen",
+      "change the result"
+    ],
+    "correct": 1,
+    "explanation": "The correct answer is record what happened.",
+    "structuredExplanation": {
+      "summary": "The correct answer is record what happened."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 44,
+    "qualitySchema": "reviewed-year1-science-v1"
+  },
+  {
+    "id": "ac9s1h01-p-045",
+    "curriculumCode": "AC9S1H01",
+    "bank": "practice",
+    "skill": "science in daily life",
+    "printable": true,
+    "type": "single",
+    "question": "Why do we test an idea?",
+    "audioPrompt": "Why do we test an idea?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "to make it win",
+      "to avoid looking",
+      "to pick a favourite",
+      "to see what happens"
+    ],
+    "correct": 3,
+    "explanation": "The correct answer is to see what happens.",
+    "structuredExplanation": {
+      "summary": "The correct answer is to see what happens."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 45,
+    "qualitySchema": "reviewed-year1-science-v1"
+  },
+  {
+    "id": "ac9s1h01-p-046",
+    "curriculumCode": "AC9S1H01",
+    "bank": "practice",
+    "skill": "science in daily life",
+    "printable": true,
+    "type": "single",
+    "question": "A plant near light grows well. What could you check next?",
+    "audioPrompt": "A plant near light grows well. What could you check next?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "what game to play",
+      "whether another plant grows near light",
+      "which pot is prettiest",
+      "which child is tallest"
+    ],
+    "correct": 1,
+    "explanation": "The correct answer is whether another plant grows near light.",
+    "structuredExplanation": {
+      "summary": "The correct answer is whether another plant grows near light."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 46,
+    "qualitySchema": "reviewed-year1-science-v1"
+  },
+  {
+    "id": "ac9s1h01-p-047",
+    "curriculumCode": "AC9S1H01",
+    "bank": "practice",
+    "skill": "science in daily life",
+    "printable": true,
+    "type": "single",
+    "question": "Which is science used in daily life?",
+    "audioPrompt": "Which is science used in daily life?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "naming a teddy",
+      "choosing a favourite song",
+      "checking which raincoat keeps you dry",
+      "drawing a dragon"
+    ],
+    "correct": 2,
+    "explanation": "The correct answer is checking which raincoat keeps you dry.",
+    "structuredExplanation": {
+      "summary": "The correct answer is checking which raincoat keeps you dry."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 47,
+    "qualitySchema": "reviewed-year1-science-v1"
+  },
+  {
+    "id": "ac9s1h01-p-048",
+    "curriculumCode": "AC9S1H01",
+    "bank": "practice",
+    "skill": "science in daily life",
+    "printable": true,
+    "type": "single",
+    "question": "How can science help at home?",
+    "audioPrompt": "How can science help at home?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "by changing every rule",
+      "by helping us test what works",
+      "by making guesses always true",
+      "by hiding results"
+    ],
+    "correct": 1,
+    "explanation": "The correct answer is by helping us test what works.",
+    "structuredExplanation": {
+      "summary": "The correct answer is by helping us test what works."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 48,
+    "qualitySchema": "reviewed-year1-science-v1"
   }
 ];

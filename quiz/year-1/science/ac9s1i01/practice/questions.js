@@ -31,7 +31,7 @@ window.skillrPracticeQuestions = [
     "difficulty": 1,
     "difficultyTier": "recognise",
     "sequencePriority": 1,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1i01-p-002",
@@ -64,7 +64,7 @@ window.skillrPracticeQuestions = [
     "difficulty": 1,
     "difficultyTier": "recognise",
     "sequencePriority": 2,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1i01-p-003",
@@ -97,7 +97,7 @@ window.skillrPracticeQuestions = [
     "difficulty": 1,
     "difficultyTier": "recognise",
     "sequencePriority": 3,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1i01-p-004",
@@ -130,7 +130,7 @@ window.skillrPracticeQuestions = [
     "difficulty": 1,
     "difficultyTier": "recognise",
     "sequencePriority": 4,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1i01-p-005",
@@ -163,7 +163,7 @@ window.skillrPracticeQuestions = [
     "difficulty": 1,
     "difficultyTier": "recognise",
     "sequencePriority": 5,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1i01-p-006",
@@ -196,7 +196,7 @@ window.skillrPracticeQuestions = [
     "difficulty": 1,
     "difficultyTier": "recognise",
     "sequencePriority": 6,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1i01-p-007",
@@ -229,7 +229,7 @@ window.skillrPracticeQuestions = [
     "difficulty": 1,
     "difficultyTier": "recognise",
     "sequencePriority": 7,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1i01-p-008",
@@ -262,7 +262,7 @@ window.skillrPracticeQuestions = [
     "difficulty": 1,
     "difficultyTier": "recognise",
     "sequencePriority": 8,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1i01-p-009",
@@ -295,7 +295,7 @@ window.skillrPracticeQuestions = [
     "difficulty": 1,
     "difficultyTier": "recognise",
     "sequencePriority": 9,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1i01-p-010",
@@ -328,7 +328,7 @@ window.skillrPracticeQuestions = [
     "difficulty": 1,
     "difficultyTier": "recognise",
     "sequencePriority": 10,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1i01-p-011",
@@ -358,10 +358,10 @@ window.skillrPracticeQuestions = [
       "hint": "What would you actually watch?"
     },
     "stage": "explain",
-    "difficulty": 2,
-    "difficultyTier": "explain",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
     "sequencePriority": 11,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1i01-p-012",
@@ -391,10 +391,10 @@ window.skillrPracticeQuestions = [
       "hint": "Prediction first, result later."
     },
     "stage": "explain",
-    "difficulty": 2,
-    "difficultyTier": "explain",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
     "sequencePriority": 12,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1i01-p-013",
@@ -424,10 +424,10 @@ window.skillrPracticeQuestions = [
       "hint": "Does colour luck explain rolling distance?"
     },
     "stage": "explain",
-    "difficulty": 2,
-    "difficultyTier": "explain",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
     "sequencePriority": 13,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1i01-p-014",
@@ -457,10 +457,10 @@ window.skillrPracticeQuestions = [
       "hint": "Best at what?"
     },
     "stage": "explain",
-    "difficulty": 2,
-    "difficultyTier": "explain",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
     "sequencePriority": 14,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1i01-p-015",
@@ -490,10 +490,10 @@ window.skillrPracticeQuestions = [
       "hint": "Measure the thing named in the prediction."
     },
     "stage": "explain",
-    "difficulty": 2,
-    "difficultyTier": "explain",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
     "sequencePriority": 15,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1i01-p-016",
@@ -523,10 +523,10 @@ window.skillrPracticeQuestions = [
       "hint": "What can the result teach you?"
     },
     "stage": "explain",
-    "difficulty": 2,
-    "difficultyTier": "explain",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
     "sequencePriority": 16,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1i01-p-017",
@@ -557,9 +557,9 @@ window.skillrPracticeQuestions = [
     },
     "stage": "explain",
     "difficulty": 2,
-    "difficultyTier": "explain",
+    "difficultyTier": "guided",
     "sequencePriority": 17,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1i01-p-018",
@@ -590,9 +590,9 @@ window.skillrPracticeQuestions = [
     },
     "stage": "explain",
     "difficulty": 2,
-    "difficultyTier": "explain",
+    "difficultyTier": "guided",
     "sequencePriority": 18,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1i01-p-019",
@@ -623,9 +623,9 @@ window.skillrPracticeQuestions = [
     },
     "stage": "explain",
     "difficulty": 2,
-    "difficultyTier": "explain",
+    "difficultyTier": "guided",
     "sequencePriority": 19,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1i01-p-020",
@@ -656,9 +656,9 @@ window.skillrPracticeQuestions = [
     },
     "stage": "explain",
     "difficulty": 2,
-    "difficultyTier": "explain",
+    "difficultyTier": "guided",
     "sequencePriority": 20,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1i01-p-021",
@@ -689,9 +689,9 @@ window.skillrPracticeQuestions = [
     },
     "stage": "discriminate",
     "difficulty": 2,
-    "difficultyTier": "discriminate",
+    "difficultyTier": "guided",
     "sequencePriority": 21,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1i01-p-022",
@@ -722,9 +722,9 @@ window.skillrPracticeQuestions = [
     },
     "stage": "discriminate",
     "difficulty": 2,
-    "difficultyTier": "discriminate",
+    "difficultyTier": "guided",
     "sequencePriority": 22,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1i01-p-023",
@@ -755,9 +755,9 @@ window.skillrPracticeQuestions = [
     },
     "stage": "discriminate",
     "difficulty": 2,
-    "difficultyTier": "discriminate",
+    "difficultyTier": "guided",
     "sequencePriority": 23,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1i01-p-024",
@@ -788,9 +788,9 @@ window.skillrPracticeQuestions = [
     },
     "stage": "discriminate",
     "difficulty": 2,
-    "difficultyTier": "discriminate",
+    "difficultyTier": "guided",
     "sequencePriority": 24,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1i01-p-025",
@@ -821,9 +821,9 @@ window.skillrPracticeQuestions = [
     },
     "stage": "discriminate",
     "difficulty": 2,
-    "difficultyTier": "discriminate",
+    "difficultyTier": "guided",
     "sequencePriority": 25,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1i01-p-026",
@@ -854,9 +854,9 @@ window.skillrPracticeQuestions = [
     },
     "stage": "discriminate",
     "difficulty": 2,
-    "difficultyTier": "discriminate",
+    "difficultyTier": "guided",
     "sequencePriority": 26,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1i01-p-027",
@@ -887,9 +887,9 @@ window.skillrPracticeQuestions = [
     },
     "stage": "discriminate",
     "difficulty": 2,
-    "difficultyTier": "discriminate",
+    "difficultyTier": "guided",
     "sequencePriority": 27,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1i01-p-028",
@@ -920,9 +920,9 @@ window.skillrPracticeQuestions = [
     },
     "stage": "discriminate",
     "difficulty": 2,
-    "difficultyTier": "discriminate",
+    "difficultyTier": "guided",
     "sequencePriority": 28,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1i01-p-029",
@@ -953,9 +953,9 @@ window.skillrPracticeQuestions = [
     },
     "stage": "discriminate",
     "difficulty": 2,
-    "difficultyTier": "discriminate",
+    "difficultyTier": "guided",
     "sequencePriority": 29,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1i01-p-030",
@@ -986,9 +986,9 @@ window.skillrPracticeQuestions = [
     },
     "stage": "discriminate",
     "difficulty": 2,
-    "difficultyTier": "discriminate",
+    "difficultyTier": "guided",
     "sequencePriority": 30,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1i01-p-031",
@@ -1018,10 +1018,10 @@ window.skillrPracticeQuestions = [
       "hint": "What changes, and what will you watch?"
     },
     "stage": "apply",
-    "difficulty": 3,
-    "difficultyTier": "apply",
+    "difficulty": 2,
+    "difficultyTier": "guided",
     "sequencePriority": 31,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1i01-p-032",
@@ -1051,10 +1051,10 @@ window.skillrPracticeQuestions = [
       "hint": "Result + useful reason."
     },
     "stage": "apply",
-    "difficulty": 3,
-    "difficultyTier": "apply",
+    "difficulty": 2,
+    "difficultyTier": "guided",
     "sequencePriority": 32,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1i01-p-033",
@@ -1085,9 +1085,9 @@ window.skillrPracticeQuestions = [
     },
     "stage": "apply",
     "difficulty": 3,
-    "difficultyTier": "apply",
+    "difficultyTier": "independent",
     "sequencePriority": 33,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1i01-p-034",
@@ -1118,9 +1118,9 @@ window.skillrPracticeQuestions = [
     },
     "stage": "apply",
     "difficulty": 3,
-    "difficultyTier": "apply",
+    "difficultyTier": "independent",
     "sequencePriority": 34,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1i01-p-035",
@@ -1151,9 +1151,9 @@ window.skillrPracticeQuestions = [
     },
     "stage": "apply",
     "difficulty": 3,
-    "difficultyTier": "apply",
+    "difficultyTier": "independent",
     "sequencePriority": 35,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1i01-p-036",
@@ -1184,9 +1184,9 @@ window.skillrPracticeQuestions = [
     },
     "stage": "apply",
     "difficulty": 3,
-    "difficultyTier": "apply",
+    "difficultyTier": "independent",
     "sequencePriority": 36,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1i01-p-037",
@@ -1217,9 +1217,9 @@ window.skillrPracticeQuestions = [
     },
     "stage": "apply",
     "difficulty": 3,
-    "difficultyTier": "apply",
+    "difficultyTier": "independent",
     "sequencePriority": 37,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1i01-p-038",
@@ -1250,9 +1250,9 @@ window.skillrPracticeQuestions = [
     },
     "stage": "apply",
     "difficulty": 3,
-    "difficultyTier": "apply",
+    "difficultyTier": "independent",
     "sequencePriority": 38,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1i01-p-039",
@@ -1283,9 +1283,9 @@ window.skillrPracticeQuestions = [
     },
     "stage": "apply",
     "difficulty": 3,
-    "difficultyTier": "apply",
+    "difficultyTier": "independent",
     "sequencePriority": 39,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1i01-p-040",
@@ -1316,8 +1316,256 @@ window.skillrPracticeQuestions = [
     },
     "stage": "apply",
     "difficulty": 3,
-    "difficultyTier": "apply",
+    "difficultyTier": "independent",
     "sequencePriority": 40,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
+  },
+  {
+    "id": "ac9s1i01-p-041",
+    "curriculumCode": "AC9S1I01",
+    "bank": "practice",
+    "skill": "questions, patterns and predictions",
+    "printable": true,
+    "type": "single",
+    "question": "Which question can we test?",
+    "audioPrompt": "Which question can we test?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Why are games fun?",
+      "Which ball rolls farther?",
+      "Which ball is happiest?",
+      "Which colour is best?"
+    ],
+    "correct": 1,
+    "explanation": "The correct answer is Which ball rolls farther?.",
+    "structuredExplanation": {
+      "summary": "The correct answer is Which ball rolls farther?."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 41,
+    "qualitySchema": "reviewed-year1-science-v1"
+  },
+  {
+    "id": "ac9s1i01-p-042",
+    "curriculumCode": "AC9S1I01",
+    "bank": "practice",
+    "skill": "questions, patterns and predictions",
+    "printable": true,
+    "type": "single",
+    "question": "Before testing ice in the Sun, what could you predict?",
+    "audioPrompt": "Before testing ice in the Sun, what could you predict?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "I like ice.",
+      "The ice is cold now.",
+      "The ice may melt.",
+      "The cup is blue."
+    ],
+    "correct": 2,
+    "explanation": "The correct answer is The ice may melt..",
+    "structuredExplanation": {
+      "summary": "The correct answer is The ice may melt.."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 42,
+    "qualitySchema": "reviewed-year1-science-v1"
+  },
+  {
+    "id": "ac9s1i01-p-043",
+    "curriculumCode": "AC9S1I01",
+    "bank": "practice",
+    "skill": "questions, patterns and predictions",
+    "printable": true,
+    "type": "single",
+    "question": "What comes first in a class investigation?",
+    "audioPrompt": "What comes first in a class investigation?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "hide the tools",
+      "ask a clear question",
+      "change the result",
+      "choose a winner"
+    ],
+    "correct": 1,
+    "explanation": "The correct answer is ask a clear question.",
+    "structuredExplanation": {
+      "summary": "The correct answer is ask a clear question."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 43,
+    "qualitySchema": "reviewed-year1-science-v1"
+  },
+  {
+    "id": "ac9s1i01-p-044",
+    "curriculumCode": "AC9S1I01",
+    "bank": "practice",
+    "skill": "questions, patterns and predictions",
+    "printable": true,
+    "type": "single",
+    "question": "You push one car harder. What may happen?",
+    "audioPrompt": "You push one car harder. What may happen?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "It may talk.",
+      "It may roll farther.",
+      "It may grow.",
+      "It may turn into a bird."
+    ],
+    "correct": 1,
+    "explanation": "The correct answer is It may roll farther..",
+    "structuredExplanation": {
+      "summary": "The correct answer is It may roll farther.."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 44,
+    "qualitySchema": "reviewed-year1-science-v1"
+  },
+  {
+    "id": "ac9s1i01-p-045",
+    "curriculumCode": "AC9S1I01",
+    "bank": "practice",
+    "skill": "questions, patterns and predictions",
+    "printable": true,
+    "type": "single",
+    "question": "Which word shows a prediction?",
+    "audioPrompt": "Which word shows a prediction?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "was",
+      "yesterday",
+      "may",
+      "did"
+    ],
+    "correct": 2,
+    "explanation": "The correct answer is may.",
+    "structuredExplanation": {
+      "summary": "The correct answer is may."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 45,
+    "qualitySchema": "reviewed-year1-science-v1"
+  },
+  {
+    "id": "ac9s1i01-p-046",
+    "curriculumCode": "AC9S1I01",
+    "bank": "practice",
+    "skill": "questions, patterns and predictions",
+    "printable": true,
+    "type": "single",
+    "question": "A seed has water and light. What might happen?",
+    "audioPrompt": "A seed has water and light. What might happen?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "It may sing.",
+      "It may sprout.",
+      "It may become a toy.",
+      "It may turn to metal."
+    ],
+    "correct": 1,
+    "explanation": "The correct answer is It may sprout..",
+    "structuredExplanation": {
+      "summary": "The correct answer is It may sprout.."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 46,
+    "qualitySchema": "reviewed-year1-science-v1"
+  },
+  {
+    "id": "ac9s1i01-p-047",
+    "curriculumCode": "AC9S1I01",
+    "bank": "practice",
+    "skill": "questions, patterns and predictions",
+    "printable": true,
+    "type": "single",
+    "question": "Which question is about something we can see?",
+    "audioPrompt": "Which question is about something we can see?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Which leaf is best?",
+      "Which leaf is kindest?",
+      "Which leaf is longer?",
+      "Which leaf is luckiest?"
+    ],
+    "correct": 2,
+    "explanation": "The correct answer is Which leaf is longer?.",
+    "structuredExplanation": {
+      "summary": "The correct answer is Which leaf is longer?."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 47,
+    "qualitySchema": "reviewed-year1-science-v1"
+  },
+  {
+    "id": "ac9s1i01-p-048",
+    "curriculumCode": "AC9S1I01",
+    "bank": "practice",
+    "skill": "questions, patterns and predictions",
+    "printable": true,
+    "type": "single",
+    "question": "What should a prediction tell?",
+    "audioPrompt": "What should a prediction tell?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "a made-up result",
+      "someone's name",
+      "a favourite colour",
+      "what may happen"
+    ],
+    "correct": 3,
+    "explanation": "The correct answer is what may happen.",
+    "structuredExplanation": {
+      "summary": "The correct answer is what may happen."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 48,
+    "qualitySchema": "reviewed-year1-science-v1"
   }
 ];

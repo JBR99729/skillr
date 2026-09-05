@@ -31,7 +31,7 @@ window.skillrPracticeQuestions = [
     "difficulty": 1,
     "difficultyTier": "recognise",
     "sequencePriority": 1,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1u02-p-002",
@@ -64,7 +64,7 @@ window.skillrPracticeQuestions = [
     "difficulty": 1,
     "difficultyTier": "recognise",
     "sequencePriority": 2,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1u02-p-003",
@@ -97,7 +97,7 @@ window.skillrPracticeQuestions = [
     "difficulty": 1,
     "difficultyTier": "recognise",
     "sequencePriority": 3,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1u02-p-004",
@@ -130,7 +130,7 @@ window.skillrPracticeQuestions = [
     "difficulty": 1,
     "difficultyTier": "recognise",
     "sequencePriority": 4,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1u02-p-005",
@@ -163,7 +163,7 @@ window.skillrPracticeQuestions = [
     "difficulty": 1,
     "difficultyTier": "recognise",
     "sequencePriority": 5,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1u02-p-006",
@@ -196,7 +196,7 @@ window.skillrPracticeQuestions = [
     "difficulty": 1,
     "difficultyTier": "recognise",
     "sequencePriority": 6,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1u02-p-007",
@@ -229,7 +229,7 @@ window.skillrPracticeQuestions = [
     "difficulty": 1,
     "difficultyTier": "recognise",
     "sequencePriority": 7,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1u02-p-008",
@@ -262,7 +262,7 @@ window.skillrPracticeQuestions = [
     "difficulty": 1,
     "difficultyTier": "recognise",
     "sequencePriority": 8,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1u02-p-009",
@@ -295,7 +295,7 @@ window.skillrPracticeQuestions = [
     "difficulty": 1,
     "difficultyTier": "recognise",
     "sequencePriority": 9,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1u02-p-010",
@@ -328,7 +328,7 @@ window.skillrPracticeQuestions = [
     "difficulty": 1,
     "difficultyTier": "recognise",
     "sequencePriority": 10,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1u02-p-011",
@@ -358,10 +358,10 @@ window.skillrPracticeQuestions = [
       "hint": "Think Earth and Sun."
     },
     "stage": "explain",
-    "difficulty": 2,
-    "difficultyTier": "explain",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
     "sequencePriority": 11,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1u02-p-012",
@@ -391,10 +391,10 @@ window.skillrPracticeQuestions = [
       "hint": "Sunlight changes with time."
     },
     "stage": "explain",
-    "difficulty": 2,
-    "difficultyTier": "explain",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
     "sequencePriority": 12,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1u02-p-013",
@@ -424,10 +424,10 @@ window.skillrPracticeQuestions = [
       "hint": "One result is not a rule."
     },
     "stage": "explain",
-    "difficulty": 2,
-    "difficultyTier": "explain",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
     "sequencePriority": 13,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1u02-p-014",
@@ -457,10 +457,10 @@ window.skillrPracticeQuestions = [
       "hint": "Season affects plant activity."
     },
     "stage": "explain",
-    "difficulty": 2,
-    "difficultyTier": "explain",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
     "sequencePriority": 14,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1u02-p-015",
@@ -490,10 +490,10 @@ window.skillrPracticeQuestions = [
       "hint": "Warmth affects activity."
     },
     "stage": "explain",
-    "difficulty": 2,
-    "difficultyTier": "explain",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
     "sequencePriority": 15,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1u02-p-016",
@@ -523,10 +523,10 @@ window.skillrPracticeQuestions = [
       "hint": "More than one time point."
     },
     "stage": "explain",
-    "difficulty": 2,
-    "difficultyTier": "explain",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
     "sequencePriority": 16,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1u02-p-017",
@@ -557,9 +557,9 @@ window.skillrPracticeQuestions = [
     },
     "stage": "explain",
     "difficulty": 2,
-    "difficultyTier": "explain",
+    "difficultyTier": "guided",
     "sequencePriority": 17,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1u02-p-018",
@@ -590,9 +590,9 @@ window.skillrPracticeQuestions = [
     },
     "stage": "explain",
     "difficulty": 2,
-    "difficultyTier": "explain",
+    "difficultyTier": "guided",
     "sequencePriority": 18,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1u02-p-019",
@@ -623,9 +623,9 @@ window.skillrPracticeQuestions = [
     },
     "stage": "explain",
     "difficulty": 2,
-    "difficultyTier": "explain",
+    "difficultyTier": "guided",
     "sequencePriority": 19,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1u02-p-020",
@@ -656,9 +656,9 @@ window.skillrPracticeQuestions = [
     },
     "stage": "explain",
     "difficulty": 2,
-    "difficultyTier": "explain",
+    "difficultyTier": "guided",
     "sequencePriority": 20,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1u02-p-021",
@@ -689,9 +689,9 @@ window.skillrPracticeQuestions = [
     },
     "stage": "discriminate",
     "difficulty": 2,
-    "difficultyTier": "discriminate",
+    "difficultyTier": "guided",
     "sequencePriority": 21,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1u02-p-022",
@@ -722,9 +722,9 @@ window.skillrPracticeQuestions = [
     },
     "stage": "discriminate",
     "difficulty": 2,
-    "difficultyTier": "discriminate",
+    "difficultyTier": "guided",
     "sequencePriority": 22,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1u02-p-023",
@@ -755,9 +755,9 @@ window.skillrPracticeQuestions = [
     },
     "stage": "discriminate",
     "difficulty": 2,
-    "difficultyTier": "discriminate",
+    "difficultyTier": "guided",
     "sequencePriority": 23,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1u02-p-024",
@@ -788,9 +788,9 @@ window.skillrPracticeQuestions = [
     },
     "stage": "discriminate",
     "difficulty": 2,
-    "difficultyTier": "discriminate",
+    "difficultyTier": "guided",
     "sequencePriority": 24,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1u02-p-025",
@@ -821,9 +821,9 @@ window.skillrPracticeQuestions = [
     },
     "stage": "discriminate",
     "difficulty": 2,
-    "difficultyTier": "discriminate",
+    "difficultyTier": "guided",
     "sequencePriority": 25,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1u02-p-026",
@@ -854,9 +854,9 @@ window.skillrPracticeQuestions = [
     },
     "stage": "discriminate",
     "difficulty": 2,
-    "difficultyTier": "discriminate",
+    "difficultyTier": "guided",
     "sequencePriority": 26,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1u02-p-027",
@@ -887,9 +887,9 @@ window.skillrPracticeQuestions = [
     },
     "stage": "discriminate",
     "difficulty": 2,
-    "difficultyTier": "discriminate",
+    "difficultyTier": "guided",
     "sequencePriority": 27,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1u02-p-028",
@@ -920,9 +920,9 @@ window.skillrPracticeQuestions = [
     },
     "stage": "discriminate",
     "difficulty": 2,
-    "difficultyTier": "discriminate",
+    "difficultyTier": "guided",
     "sequencePriority": 28,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1u02-p-029",
@@ -953,9 +953,9 @@ window.skillrPracticeQuestions = [
     },
     "stage": "discriminate",
     "difficulty": 2,
-    "difficultyTier": "discriminate",
+    "difficultyTier": "guided",
     "sequencePriority": 29,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1u02-p-030",
@@ -986,9 +986,9 @@ window.skillrPracticeQuestions = [
     },
     "stage": "discriminate",
     "difficulty": 2,
-    "difficultyTier": "discriminate",
+    "difficultyTier": "guided",
     "sequencePriority": 30,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1u02-p-031",
@@ -1018,10 +1018,10 @@ window.skillrPracticeQuestions = [
       "hint": "Same time, same method."
     },
     "stage": "apply",
-    "difficulty": 3,
-    "difficultyTier": "apply",
+    "difficulty": 2,
+    "difficultyTier": "guided",
     "sequencePriority": 31,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1u02-p-032",
@@ -1051,10 +1051,10 @@ window.skillrPracticeQuestions = [
       "hint": "Check again."
     },
     "stage": "apply",
-    "difficulty": 3,
-    "difficultyTier": "apply",
+    "difficulty": 2,
+    "difficultyTier": "guided",
     "sequencePriority": 32,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1u02-p-033",
@@ -1085,9 +1085,9 @@ window.skillrPracticeQuestions = [
     },
     "stage": "apply",
     "difficulty": 3,
-    "difficultyTier": "apply",
+    "difficultyTier": "independent",
     "sequencePriority": 33,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1u02-p-034",
@@ -1118,9 +1118,9 @@ window.skillrPracticeQuestions = [
     },
     "stage": "apply",
     "difficulty": 3,
-    "difficultyTier": "apply",
+    "difficultyTier": "independent",
     "sequencePriority": 34,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1u02-p-035",
@@ -1151,9 +1151,9 @@ window.skillrPracticeQuestions = [
     },
     "stage": "apply",
     "difficulty": 3,
-    "difficultyTier": "apply",
+    "difficultyTier": "independent",
     "sequencePriority": 35,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1u02-p-036",
@@ -1184,9 +1184,9 @@ window.skillrPracticeQuestions = [
     },
     "stage": "apply",
     "difficulty": 3,
-    "difficultyTier": "apply",
+    "difficultyTier": "independent",
     "sequencePriority": 36,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1u02-p-037",
@@ -1217,9 +1217,9 @@ window.skillrPracticeQuestions = [
     },
     "stage": "apply",
     "difficulty": 3,
-    "difficultyTier": "apply",
+    "difficultyTier": "independent",
     "sequencePriority": 37,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1u02-p-038",
@@ -1250,9 +1250,9 @@ window.skillrPracticeQuestions = [
     },
     "stage": "apply",
     "difficulty": 3,
-    "difficultyTier": "apply",
+    "difficultyTier": "independent",
     "sequencePriority": 38,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1u02-p-039",
@@ -1283,9 +1283,9 @@ window.skillrPracticeQuestions = [
     },
     "stage": "apply",
     "difficulty": 3,
-    "difficultyTier": "apply",
+    "difficultyTier": "independent",
     "sequencePriority": 39,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1u02-p-040",
@@ -1316,8 +1316,256 @@ window.skillrPracticeQuestions = [
     },
     "stage": "apply",
     "difficulty": 3,
-    "difficultyTier": "apply",
+    "difficultyTier": "independent",
     "sequencePriority": 40,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
+  },
+  {
+    "id": "ac9s1u02-p-041",
+    "curriculumCode": "AC9S1U02",
+    "bank": "practice",
+    "skill": "daily and seasonal changes",
+    "printable": true,
+    "type": "single",
+    "question": "When is the sky usually darkest?",
+    "audioPrompt": "When is the sky usually darkest?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "in the morning",
+      "at night",
+      "at midday",
+      "at lunch"
+    ],
+    "correct": 1,
+    "explanation": "The correct answer is at night.",
+    "structuredExplanation": {
+      "summary": "The correct answer is at night."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 41,
+    "qualitySchema": "reviewed-year1-science-v1"
+  },
+  {
+    "id": "ac9s1u02-p-042",
+    "curriculumCode": "AC9S1U02",
+    "bank": "practice",
+    "skill": "daily and seasonal changes",
+    "printable": true,
+    "type": "single",
+    "question": "What may you see in the sky on a clear day?",
+    "audioPrompt": "What may you see in the sky on a clear day?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "the Sun",
+      "a shoe",
+      "a bed",
+      "a fish"
+    ],
+    "correct": 0,
+    "explanation": "The correct answer is the Sun.",
+    "structuredExplanation": {
+      "summary": "The correct answer is the Sun."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 42,
+    "qualitySchema": "reviewed-year1-science-v1"
+  },
+  {
+    "id": "ac9s1u02-p-043",
+    "curriculumCode": "AC9S1U02",
+    "bank": "practice",
+    "skill": "daily and seasonal changes",
+    "printable": true,
+    "type": "single",
+    "question": "Which clothes suit a cold winter day?",
+    "audioPrompt": "Which clothes suit a cold winter day?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "swimmers",
+      "a warm coat",
+      "a sun hat only",
+      "bare feet"
+    ],
+    "correct": 1,
+    "explanation": "The correct answer is a warm coat.",
+    "structuredExplanation": {
+      "summary": "The correct answer is a warm coat."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 43,
+    "qualitySchema": "reviewed-year1-science-v1"
+  },
+  {
+    "id": "ac9s1u02-p-044",
+    "curriculumCode": "AC9S1U02",
+    "bank": "practice",
+    "skill": "daily and seasonal changes",
+    "printable": true,
+    "type": "single",
+    "question": "Leaves fall from many trees in which season?",
+    "audioPrompt": "Leaves fall from many trees in which season?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "every hour",
+      "summer",
+      "autumn",
+      "spring"
+    ],
+    "correct": 2,
+    "explanation": "The correct answer is autumn.",
+    "structuredExplanation": {
+      "summary": "The correct answer is autumn."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 44,
+    "qualitySchema": "reviewed-year1-science-v1"
+  },
+  {
+    "id": "ac9s1u02-p-045",
+    "curriculumCode": "AC9S1U02",
+    "bank": "practice",
+    "skill": "daily and seasonal changes",
+    "printable": true,
+    "type": "single",
+    "question": "What often happens after the Sun sets?",
+    "audioPrompt": "What often happens after the Sun sets?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "it gets dark",
+      "flowers open at once",
+      "snow always falls",
+      "it gets brighter"
+    ],
+    "correct": 0,
+    "explanation": "The correct answer is it gets dark.",
+    "structuredExplanation": {
+      "summary": "The correct answer is it gets dark."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 45,
+    "qualitySchema": "reviewed-year1-science-v1"
+  },
+  {
+    "id": "ac9s1u02-p-046",
+    "curriculumCode": "AC9S1U02",
+    "bank": "practice",
+    "skill": "daily and seasonal changes",
+    "printable": true,
+    "type": "single",
+    "question": "Which season is often the hottest?",
+    "audioPrompt": "Which season is often the hottest?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "night",
+      "winter",
+      "autumn",
+      "summer"
+    ],
+    "correct": 3,
+    "explanation": "The correct answer is summer.",
+    "structuredExplanation": {
+      "summary": "The correct answer is summer."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 46,
+    "qualitySchema": "reviewed-year1-science-v1"
+  },
+  {
+    "id": "ac9s1u02-p-047",
+    "curriculumCode": "AC9S1U02",
+    "bank": "practice",
+    "skill": "daily and seasonal changes",
+    "printable": true,
+    "type": "single",
+    "question": "A shadow is long in the morning and short at noon. What changed?",
+    "audioPrompt": "A shadow is long in the morning and short at noon. What changed?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "the Sun's place in the sky",
+      "the ground colour",
+      "the day of the week",
+      "the tree's name"
+    ],
+    "correct": 0,
+    "explanation": "The correct answer is the Sun's place in the sky.",
+    "structuredExplanation": {
+      "summary": "The correct answer is the Sun's place in the sky."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 47,
+    "qualitySchema": "reviewed-year1-science-v1"
+  },
+  {
+    "id": "ac9s1u02-p-048",
+    "curriculumCode": "AC9S1U02",
+    "bank": "practice",
+    "skill": "daily and seasonal changes",
+    "printable": true,
+    "type": "single",
+    "question": "Which change can happen from day to day?",
+    "audioPrompt": "Which change can happen from day to day?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "the number of months",
+      "the weather",
+      "your birthday",
+      "the name of Earth"
+    ],
+    "correct": 1,
+    "explanation": "The correct answer is the weather.",
+    "structuredExplanation": {
+      "summary": "The correct answer is the weather."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 48,
+    "qualitySchema": "reviewed-year1-science-v1"
   }
 ];

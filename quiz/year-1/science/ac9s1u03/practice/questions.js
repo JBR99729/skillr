@@ -31,7 +31,7 @@ window.skillrPracticeQuestions = [
     "difficulty": 1,
     "difficultyTier": "recognise",
     "sequencePriority": 1,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1u03-p-002",
@@ -64,7 +64,7 @@ window.skillrPracticeQuestions = [
     "difficulty": 1,
     "difficultyTier": "recognise",
     "sequencePriority": 2,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1u03-p-003",
@@ -97,7 +97,7 @@ window.skillrPracticeQuestions = [
     "difficulty": 1,
     "difficultyTier": "recognise",
     "sequencePriority": 3,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1u03-p-004",
@@ -130,7 +130,7 @@ window.skillrPracticeQuestions = [
     "difficulty": 1,
     "difficultyTier": "recognise",
     "sequencePriority": 4,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1u03-p-005",
@@ -163,7 +163,7 @@ window.skillrPracticeQuestions = [
     "difficulty": 1,
     "difficultyTier": "recognise",
     "sequencePriority": 5,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1u03-p-006",
@@ -196,7 +196,7 @@ window.skillrPracticeQuestions = [
     "difficulty": 1,
     "difficultyTier": "recognise",
     "sequencePriority": 6,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1u03-p-007",
@@ -229,7 +229,7 @@ window.skillrPracticeQuestions = [
     "difficulty": 1,
     "difficultyTier": "recognise",
     "sequencePriority": 7,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1u03-p-008",
@@ -262,7 +262,7 @@ window.skillrPracticeQuestions = [
     "difficulty": 1,
     "difficultyTier": "recognise",
     "sequencePriority": 8,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1u03-p-009",
@@ -295,7 +295,7 @@ window.skillrPracticeQuestions = [
     "difficulty": 1,
     "difficultyTier": "recognise",
     "sequencePriority": 9,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1u03-p-010",
@@ -328,7 +328,7 @@ window.skillrPracticeQuestions = [
     "difficulty": 1,
     "difficultyTier": "recognise",
     "sequencePriority": 10,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1u03-p-011",
@@ -358,10 +358,10 @@ window.skillrPracticeQuestions = [
       "hint": "More force, bigger effect."
     },
     "stage": "explain",
-    "difficulty": 2,
-    "difficultyTier": "explain",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
     "sequencePriority": 11,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1u03-p-012",
@@ -391,10 +391,10 @@ window.skillrPracticeQuestions = [
       "hint": "Change one main thing."
     },
     "stage": "explain",
-    "difficulty": 2,
-    "difficultyTier": "explain",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
     "sequencePriority": 12,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1u03-p-013",
@@ -424,10 +424,10 @@ window.skillrPracticeQuestions = [
       "hint": "Push from the side."
     },
     "stage": "explain",
-    "difficulty": 2,
-    "difficultyTier": "explain",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
     "sequencePriority": 13,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1u03-p-014",
@@ -457,10 +457,10 @@ window.skillrPracticeQuestions = [
       "hint": "Material affects deformation."
     },
     "stage": "explain",
-    "difficulty": 2,
-    "difficultyTier": "explain",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
     "sequencePriority": 14,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1u03-p-015",
@@ -490,10 +490,10 @@ window.skillrPracticeQuestions = [
       "hint": "More than one factor can matter."
     },
     "stage": "explain",
-    "difficulty": 2,
-    "difficultyTier": "explain",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
     "sequencePriority": 15,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1u03-p-016",
@@ -523,10 +523,10 @@ window.skillrPracticeQuestions = [
       "hint": "Control friction."
     },
     "stage": "explain",
-    "difficulty": 2,
-    "difficultyTier": "explain",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
     "sequencePriority": 16,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1u03-p-017",
@@ -557,9 +557,9 @@ window.skillrPracticeQuestions = [
     },
     "stage": "explain",
     "difficulty": 2,
-    "difficultyTier": "explain",
+    "difficultyTier": "guided",
     "sequencePriority": 17,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1u03-p-018",
@@ -590,9 +590,9 @@ window.skillrPracticeQuestions = [
     },
     "stage": "explain",
     "difficulty": 2,
-    "difficultyTier": "explain",
+    "difficultyTier": "guided",
     "sequencePriority": 18,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1u03-p-019",
@@ -623,9 +623,9 @@ window.skillrPracticeQuestions = [
     },
     "stage": "explain",
     "difficulty": 2,
-    "difficultyTier": "explain",
+    "difficultyTier": "guided",
     "sequencePriority": 19,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1u03-p-020",
@@ -656,9 +656,9 @@ window.skillrPracticeQuestions = [
     },
     "stage": "explain",
     "difficulty": 2,
-    "difficultyTier": "explain",
+    "difficultyTier": "guided",
     "sequencePriority": 20,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1u03-p-021",
@@ -689,9 +689,9 @@ window.skillrPracticeQuestions = [
     },
     "stage": "discriminate",
     "difficulty": 2,
-    "difficultyTier": "discriminate",
+    "difficultyTier": "guided",
     "sequencePriority": 21,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1u03-p-022",
@@ -722,9 +722,9 @@ window.skillrPracticeQuestions = [
     },
     "stage": "discriminate",
     "difficulty": 2,
-    "difficultyTier": "discriminate",
+    "difficultyTier": "guided",
     "sequencePriority": 22,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1u03-p-023",
@@ -755,9 +755,9 @@ window.skillrPracticeQuestions = [
     },
     "stage": "discriminate",
     "difficulty": 2,
-    "difficultyTier": "discriminate",
+    "difficultyTier": "guided",
     "sequencePriority": 23,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1u03-p-024",
@@ -788,9 +788,9 @@ window.skillrPracticeQuestions = [
     },
     "stage": "discriminate",
     "difficulty": 2,
-    "difficultyTier": "discriminate",
+    "difficultyTier": "guided",
     "sequencePriority": 24,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1u03-p-025",
@@ -821,9 +821,9 @@ window.skillrPracticeQuestions = [
     },
     "stage": "discriminate",
     "difficulty": 2,
-    "difficultyTier": "discriminate",
+    "difficultyTier": "guided",
     "sequencePriority": 25,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1u03-p-026",
@@ -854,9 +854,9 @@ window.skillrPracticeQuestions = [
     },
     "stage": "discriminate",
     "difficulty": 2,
-    "difficultyTier": "discriminate",
+    "difficultyTier": "guided",
     "sequencePriority": 26,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1u03-p-027",
@@ -887,9 +887,9 @@ window.skillrPracticeQuestions = [
     },
     "stage": "discriminate",
     "difficulty": 2,
-    "difficultyTier": "discriminate",
+    "difficultyTier": "guided",
     "sequencePriority": 27,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1u03-p-028",
@@ -920,9 +920,9 @@ window.skillrPracticeQuestions = [
     },
     "stage": "discriminate",
     "difficulty": 2,
-    "difficultyTier": "discriminate",
+    "difficultyTier": "guided",
     "sequencePriority": 28,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1u03-p-029",
@@ -953,9 +953,9 @@ window.skillrPracticeQuestions = [
     },
     "stage": "discriminate",
     "difficulty": 2,
-    "difficultyTier": "discriminate",
+    "difficultyTier": "guided",
     "sequencePriority": 29,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1u03-p-030",
@@ -986,9 +986,9 @@ window.skillrPracticeQuestions = [
     },
     "stage": "discriminate",
     "difficulty": 2,
-    "difficultyTier": "discriminate",
+    "difficultyTier": "guided",
     "sequencePriority": 30,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1u03-p-031",
@@ -1018,10 +1018,10 @@ window.skillrPracticeQuestions = [
       "hint": "Change one main factor."
     },
     "stage": "apply",
-    "difficulty": 3,
-    "difficultyTier": "apply",
+    "difficulty": 2,
+    "difficultyTier": "guided",
     "sequencePriority": 31,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1u03-p-032",
@@ -1051,10 +1051,10 @@ window.skillrPracticeQuestions = [
       "hint": "Side push."
     },
     "stage": "apply",
-    "difficulty": 3,
-    "difficultyTier": "apply",
+    "difficulty": 2,
+    "difficultyTier": "guided",
     "sequencePriority": 32,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1u03-p-033",
@@ -1085,9 +1085,9 @@ window.skillrPracticeQuestions = [
     },
     "stage": "apply",
     "difficulty": 3,
-    "difficultyTier": "apply",
+    "difficultyTier": "independent",
     "sequencePriority": 33,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1u03-p-034",
@@ -1118,9 +1118,9 @@ window.skillrPracticeQuestions = [
     },
     "stage": "apply",
     "difficulty": 3,
-    "difficultyTier": "apply",
+    "difficultyTier": "independent",
     "sequencePriority": 34,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1u03-p-035",
@@ -1151,9 +1151,9 @@ window.skillrPracticeQuestions = [
     },
     "stage": "apply",
     "difficulty": 3,
-    "difficultyTier": "apply",
+    "difficultyTier": "independent",
     "sequencePriority": 35,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1u03-p-036",
@@ -1184,9 +1184,9 @@ window.skillrPracticeQuestions = [
     },
     "stage": "apply",
     "difficulty": 3,
-    "difficultyTier": "apply",
+    "difficultyTier": "independent",
     "sequencePriority": 36,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1u03-p-037",
@@ -1217,9 +1217,9 @@ window.skillrPracticeQuestions = [
     },
     "stage": "apply",
     "difficulty": 3,
-    "difficultyTier": "apply",
+    "difficultyTier": "independent",
     "sequencePriority": 37,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1u03-p-038",
@@ -1250,9 +1250,9 @@ window.skillrPracticeQuestions = [
     },
     "stage": "apply",
     "difficulty": 3,
-    "difficultyTier": "apply",
+    "difficultyTier": "independent",
     "sequencePriority": 38,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1u03-p-039",
@@ -1283,9 +1283,9 @@ window.skillrPracticeQuestions = [
     },
     "stage": "apply",
     "difficulty": 3,
-    "difficultyTier": "apply",
+    "difficultyTier": "independent",
     "sequencePriority": 39,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1u03-p-040",
@@ -1316,8 +1316,256 @@ window.skillrPracticeQuestions = [
     },
     "stage": "apply",
     "difficulty": 3,
-    "difficultyTier": "apply",
+    "difficultyTier": "independent",
     "sequencePriority": 40,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
+  },
+  {
+    "id": "ac9s1u03-p-041",
+    "curriculumCode": "AC9S1U03",
+    "bank": "practice",
+    "skill": "pushes and pulls",
+    "printable": true,
+    "type": "single",
+    "question": "You move a door away from you. What force did you use?",
+    "audioPrompt": "You move a door away from you. What force did you use?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "a pull",
+      "a push",
+      "sound",
+      "light"
+    ],
+    "correct": 1,
+    "explanation": "The correct answer is a push.",
+    "structuredExplanation": {
+      "summary": "The correct answer is a push."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 41,
+    "qualitySchema": "reviewed-year1-science-v1"
+  },
+  {
+    "id": "ac9s1u03-p-042",
+    "curriculumCode": "AC9S1U03",
+    "bank": "practice",
+    "skill": "pushes and pulls",
+    "printable": true,
+    "type": "single",
+    "question": "You bring a wagon towards you. What force did you use?",
+    "audioPrompt": "You bring a wagon towards you. What force did you use?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "a push",
+      "light",
+      "a pull",
+      "heat"
+    ],
+    "correct": 2,
+    "explanation": "The correct answer is a pull.",
+    "structuredExplanation": {
+      "summary": "The correct answer is a pull."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 42,
+    "qualitySchema": "reviewed-year1-science-v1"
+  },
+  {
+    "id": "ac9s1u03-p-043",
+    "curriculumCode": "AC9S1U03",
+    "bank": "practice",
+    "skill": "pushes and pulls",
+    "printable": true,
+    "type": "single",
+    "question": "What can a stronger push do to a toy car?",
+    "audioPrompt": "What can a stronger push do to a toy car?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "change it into water",
+      "make it move farther",
+      "make it grow",
+      "make it vanish"
+    ],
+    "correct": 1,
+    "explanation": "The correct answer is make it move farther.",
+    "structuredExplanation": {
+      "summary": "The correct answer is make it move farther."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 43,
+    "qualitySchema": "reviewed-year1-science-v1"
+  },
+  {
+    "id": "ac9s1u03-p-044",
+    "curriculumCode": "AC9S1U03",
+    "bank": "practice",
+    "skill": "pushes and pulls",
+    "printable": true,
+    "type": "single",
+    "question": "Which surface may slow a rolling ball most?",
+    "audioPrompt": "Which surface may slow a rolling ball most?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "a flat table",
+      "smooth tile",
+      "thick carpet",
+      "polished wood"
+    ],
+    "correct": 2,
+    "explanation": "The correct answer is thick carpet.",
+    "structuredExplanation": {
+      "summary": "The correct answer is thick carpet."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 44,
+    "qualitySchema": "reviewed-year1-science-v1"
+  },
+  {
+    "id": "ac9s1u03-p-045",
+    "curriculumCode": "AC9S1U03",
+    "bank": "practice",
+    "skill": "pushes and pulls",
+    "printable": true,
+    "type": "single",
+    "question": "[Show a ball moving towards a child.] What can the child do to stop it?",
+    "audioPrompt": "[Show a ball moving towards a child.] What can the child do to stop it?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "look away",
+      "turn off a light",
+      "draw it",
+      "push against it"
+    ],
+    "correct": 3,
+    "explanation": "The correct answer is push against it.",
+    "structuredExplanation": {
+      "summary": "The correct answer is push against it."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 45,
+    "qualitySchema": "reviewed-year1-science-v1"
+  },
+  {
+    "id": "ac9s1u03-p-046",
+    "curriculumCode": "AC9S1U03",
+    "bank": "practice",
+    "skill": "pushes and pulls",
+    "printable": true,
+    "type": "single",
+    "question": "Which playground action is a pull?",
+    "audioPrompt": "Which playground action is a pull?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "closing a drawer",
+      "pushing a chair in",
+      "opening a drawer towards you",
+      "kicking a ball away"
+    ],
+    "correct": 2,
+    "explanation": "The correct answer is opening a drawer towards you.",
+    "structuredExplanation": {
+      "summary": "The correct answer is opening a drawer towards you."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 46,
+    "qualitySchema": "reviewed-year1-science-v1"
+  },
+  {
+    "id": "ac9s1u03-p-047",
+    "curriculumCode": "AC9S1U03",
+    "bank": "practice",
+    "skill": "pushes and pulls",
+    "printable": true,
+    "type": "single",
+    "question": "A ball is still. What can make it move?",
+    "audioPrompt": "A ball is still. What can make it move?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "its colour",
+      "a quiet sound",
+      "a picture",
+      "a push or pull"
+    ],
+    "correct": 3,
+    "explanation": "The correct answer is a push or pull.",
+    "structuredExplanation": {
+      "summary": "The correct answer is a push or pull."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 47,
+    "qualitySchema": "reviewed-year1-science-v1"
+  },
+  {
+    "id": "ac9s1u03-p-048",
+    "curriculumCode": "AC9S1U03",
+    "bank": "practice",
+    "skill": "pushes and pulls",
+    "printable": true,
+    "type": "single",
+    "question": "Two cars use the same ramp. Which push may send a car farther?",
+    "audioPrompt": "Two cars use the same ramp. Which push may send a car farther?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "no push",
+      "changing its colour",
+      "the stronger push",
+      "the gentler push"
+    ],
+    "correct": 2,
+    "explanation": "The correct answer is the stronger push.",
+    "structuredExplanation": {
+      "summary": "The correct answer is the stronger push."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 48,
+    "qualitySchema": "reviewed-year1-science-v1"
   }
 ];

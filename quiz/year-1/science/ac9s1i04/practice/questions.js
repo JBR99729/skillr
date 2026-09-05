@@ -31,7 +31,7 @@ window.skillrPracticeQuestions = [
     "difficulty": 1,
     "difficultyTier": "recognise",
     "sequencePriority": 1,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1i04-p-002",
@@ -64,7 +64,7 @@ window.skillrPracticeQuestions = [
     "difficulty": 1,
     "difficultyTier": "recognise",
     "sequencePriority": 2,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1i04-p-003",
@@ -97,7 +97,7 @@ window.skillrPracticeQuestions = [
     "difficulty": 1,
     "difficultyTier": "recognise",
     "sequencePriority": 3,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1i04-p-004",
@@ -106,8 +106,8 @@ window.skillrPracticeQuestions = [
     "skill": "sorting data and representing patterns",
     "printable": true,
     "type": "single",
-    "question": "Which display is useful for showing how many objects are in each group?",
-    "audioPrompt": "Which display is useful for showing how many objects are in each group?",
+    "question": "[Show the complete labelled data display.] Which display is useful for showing how many objects are in each group?",
+    "audioPrompt": "[Show the complete labelled data display.] Which display is useful for showing how many objects are in each group?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -130,7 +130,7 @@ window.skillrPracticeQuestions = [
     "difficulty": 1,
     "difficultyTier": "recognise",
     "sequencePriority": 4,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1i04-p-005",
@@ -163,7 +163,7 @@ window.skillrPracticeQuestions = [
     "difficulty": 1,
     "difficultyTier": "recognise",
     "sequencePriority": 5,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1i04-p-006",
@@ -196,7 +196,7 @@ window.skillrPracticeQuestions = [
     "difficulty": 1,
     "difficultyTier": "recognise",
     "sequencePriority": 6,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1i04-p-007",
@@ -229,7 +229,7 @@ window.skillrPracticeQuestions = [
     "difficulty": 1,
     "difficultyTier": "recognise",
     "sequencePriority": 7,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1i04-p-008",
@@ -262,7 +262,7 @@ window.skillrPracticeQuestions = [
     "difficulty": 1,
     "difficultyTier": "recognise",
     "sequencePriority": 8,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1i04-p-009",
@@ -295,7 +295,7 @@ window.skillrPracticeQuestions = [
     "difficulty": 1,
     "difficultyTier": "recognise",
     "sequencePriority": 9,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1i04-p-010",
@@ -328,7 +328,7 @@ window.skillrPracticeQuestions = [
     "difficulty": 1,
     "difficultyTier": "recognise",
     "sequencePriority": 10,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1i04-p-011",
@@ -358,10 +358,10 @@ window.skillrPracticeQuestions = [
       "hint": "Same rule for every item."
     },
     "stage": "explain",
-    "difficulty": 2,
-    "difficultyTier": "explain",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
     "sequencePriority": 11,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1i04-p-012",
@@ -370,8 +370,8 @@ window.skillrPracticeQuestions = [
     "skill": "sorting data and representing patterns",
     "printable": true,
     "type": "single",
-    "question": "Why label categories in a data display?",
-    "audioPrompt": "Why label categories in a data display?",
+    "question": "[Show the complete labelled data display.] Why label categories in a data display?",
+    "audioPrompt": "[Show the complete labelled data display.] Why label categories in a data display?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -391,10 +391,10 @@ window.skillrPracticeQuestions = [
       "hint": "What does each bar or group mean?"
     },
     "stage": "explain",
-    "difficulty": 2,
-    "difficultyTier": "explain",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
     "sequencePriority": 12,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1i04-p-013",
@@ -424,10 +424,10 @@ window.skillrPracticeQuestions = [
       "hint": "One item, one count."
     },
     "stage": "explain",
-    "difficulty": 2,
-    "difficultyTier": "explain",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
     "sequencePriority": 13,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1i04-p-014",
@@ -457,10 +457,10 @@ window.skillrPracticeQuestions = [
       "hint": "Use the numbers."
     },
     "stage": "explain",
-    "difficulty": 2,
-    "difficultyTier": "explain",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
     "sequencePriority": 14,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1i04-p-015",
@@ -490,10 +490,10 @@ window.skillrPracticeQuestions = [
       "hint": "Can everyone check it the same way?"
     },
     "stage": "explain",
-    "difficulty": 2,
-    "difficultyTier": "explain",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
     "sequencePriority": 15,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1i04-p-016",
@@ -502,8 +502,8 @@ window.skillrPracticeQuestions = [
     "skill": "sorting data and representing patterns",
     "printable": true,
     "type": "single",
-    "question": "Why might a picture graph help Year 1 students?",
-    "audioPrompt": "Why might a picture graph help Year 1 students?",
+    "question": "[Show the picture graph and its key.] Why might a picture graph help Year 1 students?",
+    "audioPrompt": "[Show the picture graph and its key.] Why might a picture graph help Year 1 students?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -523,10 +523,10 @@ window.skillrPracticeQuestions = [
       "hint": "See the amounts."
     },
     "stage": "explain",
-    "difficulty": 2,
-    "difficultyTier": "explain",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
     "sequencePriority": 16,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1i04-p-017",
@@ -535,8 +535,8 @@ window.skillrPracticeQuestions = [
     "skill": "sorting data and representing patterns",
     "printable": true,
     "type": "single",
-    "question": "Why should a graph key be clear if one picture means two objects?",
-    "audioPrompt": "Why should a graph key be clear if one picture means two objects?",
+    "question": "[Show the complete labelled data display.] Why should a graph key be clear if one picture means two objects?",
+    "audioPrompt": "[Show the complete labelled data display.] Why should a graph key be clear if one picture means two objects?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -557,9 +557,9 @@ window.skillrPracticeQuestions = [
     },
     "stage": "explain",
     "difficulty": 2,
-    "difficultyTier": "explain",
+    "difficultyTier": "guided",
     "sequencePriority": 17,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1i04-p-018",
@@ -590,9 +590,9 @@ window.skillrPracticeQuestions = [
     },
     "stage": "explain",
     "difficulty": 2,
-    "difficultyTier": "explain",
+    "difficultyTier": "guided",
     "sequencePriority": 18,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1i04-p-019",
@@ -623,9 +623,9 @@ window.skillrPracticeQuestions = [
     },
     "stage": "explain",
     "difficulty": 2,
-    "difficultyTier": "explain",
+    "difficultyTier": "guided",
     "sequencePriority": 19,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1i04-p-020",
@@ -656,9 +656,9 @@ window.skillrPracticeQuestions = [
     },
     "stage": "explain",
     "difficulty": 2,
-    "difficultyTier": "explain",
+    "difficultyTier": "guided",
     "sequencePriority": 20,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1i04-p-021",
@@ -689,9 +689,9 @@ window.skillrPracticeQuestions = [
     },
     "stage": "discriminate",
     "difficulty": 2,
-    "difficultyTier": "discriminate",
+    "difficultyTier": "guided",
     "sequencePriority": 21,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1i04-p-022",
@@ -722,9 +722,9 @@ window.skillrPracticeQuestions = [
     },
     "stage": "discriminate",
     "difficulty": 2,
-    "difficultyTier": "discriminate",
+    "difficultyTier": "guided",
     "sequencePriority": 22,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1i04-p-023",
@@ -755,9 +755,9 @@ window.skillrPracticeQuestions = [
     },
     "stage": "discriminate",
     "difficulty": 2,
-    "difficultyTier": "discriminate",
+    "difficultyTier": "guided",
     "sequencePriority": 23,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1i04-p-024",
@@ -788,9 +788,9 @@ window.skillrPracticeQuestions = [
     },
     "stage": "discriminate",
     "difficulty": 2,
-    "difficultyTier": "discriminate",
+    "difficultyTier": "guided",
     "sequencePriority": 24,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1i04-p-025",
@@ -799,8 +799,8 @@ window.skillrPracticeQuestions = [
     "skill": "sorting data and representing patterns",
     "printable": true,
     "type": "single",
-    "question": "Which graph is misleading?",
-    "audioPrompt": "Which graph is misleading?",
+    "question": "[Show the complete labelled data display.] Which graph is misleading?",
+    "audioPrompt": "[Show the complete labelled data display.] Which graph is misleading?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -821,9 +821,9 @@ window.skillrPracticeQuestions = [
     },
     "stage": "discriminate",
     "difficulty": 2,
-    "difficultyTier": "discriminate",
+    "difficultyTier": "guided",
     "sequencePriority": 25,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1i04-p-026",
@@ -854,9 +854,9 @@ window.skillrPracticeQuestions = [
     },
     "stage": "discriminate",
     "difficulty": 2,
-    "difficultyTier": "discriminate",
+    "difficultyTier": "guided",
     "sequencePriority": 26,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1i04-p-027",
@@ -887,9 +887,9 @@ window.skillrPracticeQuestions = [
     },
     "stage": "discriminate",
     "difficulty": 2,
-    "difficultyTier": "discriminate",
+    "difficultyTier": "guided",
     "sequencePriority": 27,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1i04-p-028",
@@ -920,9 +920,9 @@ window.skillrPracticeQuestions = [
     },
     "stage": "discriminate",
     "difficulty": 2,
-    "difficultyTier": "discriminate",
+    "difficultyTier": "guided",
     "sequencePriority": 28,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1i04-p-029",
@@ -953,9 +953,9 @@ window.skillrPracticeQuestions = [
     },
     "stage": "discriminate",
     "difficulty": 2,
-    "difficultyTier": "discriminate",
+    "difficultyTier": "guided",
     "sequencePriority": 29,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1i04-p-030",
@@ -986,9 +986,9 @@ window.skillrPracticeQuestions = [
     },
     "stage": "discriminate",
     "difficulty": 2,
-    "difficultyTier": "discriminate",
+    "difficultyTier": "guided",
     "sequencePriority": 30,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1i04-p-031",
@@ -1018,10 +1018,10 @@ window.skillrPracticeQuestions = [
       "hint": "Same rule, once each."
     },
     "stage": "apply",
-    "difficulty": 3,
-    "difficultyTier": "apply",
+    "difficulty": 2,
+    "difficultyTier": "guided",
     "sequencePriority": 31,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1i04-p-032",
@@ -1051,10 +1051,10 @@ window.skillrPracticeQuestions = [
       "hint": "Say what the counts show."
     },
     "stage": "apply",
-    "difficulty": 3,
-    "difficultyTier": "apply",
+    "difficulty": 2,
+    "difficultyTier": "guided",
     "sequencePriority": 32,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1i04-p-033",
@@ -1063,8 +1063,8 @@ window.skillrPracticeQuestions = [
     "skill": "sorting data and representing patterns",
     "printable": true,
     "type": "single",
-    "question": "A picture graph uses one ⭐ for 2 shells. There are ⭐⭐⭐ under “striped”. How many striped shells?",
-    "audioPrompt": "A picture graph uses one ⭐ for 2 shells. There are ⭐⭐⭐ under “striped”. How many striped shells?",
+    "question": "[Show the picture graph and its key.] A picture graph uses one ⭐ for 2 shells. There are ⭐⭐⭐ under “striped”. How many striped shells?",
+    "audioPrompt": "[Show the picture graph and its key.] A picture graph uses one ⭐ for 2 shells. There are ⭐⭐⭐ under “striped”. How many striped shells?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -1085,9 +1085,9 @@ window.skillrPracticeQuestions = [
     },
     "stage": "apply",
     "difficulty": 3,
-    "difficultyTier": "apply",
+    "difficultyTier": "independent",
     "sequencePriority": 33,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1i04-p-034",
@@ -1118,9 +1118,9 @@ window.skillrPracticeQuestions = [
     },
     "stage": "apply",
     "difficulty": 3,
-    "difficultyTier": "apply",
+    "difficultyTier": "independent",
     "sequencePriority": 34,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1i04-p-035",
@@ -1151,9 +1151,9 @@ window.skillrPracticeQuestions = [
     },
     "stage": "apply",
     "difficulty": 3,
-    "difficultyTier": "apply",
+    "difficultyTier": "independent",
     "sequencePriority": 35,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1i04-p-036",
@@ -1162,8 +1162,8 @@ window.skillrPracticeQuestions = [
     "skill": "sorting data and representing patterns",
     "printable": true,
     "type": "single",
-    "question": "A graph shows cats 4, dogs 6, fish 6. Which comparison is correct?",
-    "audioPrompt": "A graph shows cats 4, dogs 6, fish 6. Which comparison is correct?",
+    "question": "[Show the complete labelled data display.] A graph shows cats 4, dogs 6, fish 6. Which comparison is correct?",
+    "audioPrompt": "[Show the complete labelled data display.] A graph shows cats 4, dogs 6, fish 6. Which comparison is correct?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -1184,9 +1184,9 @@ window.skillrPracticeQuestions = [
     },
     "stage": "apply",
     "difficulty": 3,
-    "difficultyTier": "apply",
+    "difficultyTier": "independent",
     "sequencePriority": 36,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1i04-p-037",
@@ -1217,9 +1217,9 @@ window.skillrPracticeQuestions = [
     },
     "stage": "apply",
     "difficulty": 3,
-    "difficultyTier": "apply",
+    "difficultyTier": "independent",
     "sequencePriority": 37,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1i04-p-038",
@@ -1250,9 +1250,9 @@ window.skillrPracticeQuestions = [
     },
     "stage": "apply",
     "difficulty": 3,
-    "difficultyTier": "apply",
+    "difficultyTier": "independent",
     "sequencePriority": 38,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1i04-p-039",
@@ -1283,9 +1283,9 @@ window.skillrPracticeQuestions = [
     },
     "stage": "apply",
     "difficulty": 3,
-    "difficultyTier": "apply",
+    "difficultyTier": "independent",
     "sequencePriority": 39,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1i04-p-040",
@@ -1316,8 +1316,256 @@ window.skillrPracticeQuestions = [
     },
     "stage": "apply",
     "difficulty": 3,
-    "difficultyTier": "apply",
+    "difficultyTier": "independent",
     "sequencePriority": 40,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
+  },
+  {
+    "id": "ac9s1i04-p-041",
+    "curriculumCode": "AC9S1I04",
+    "bank": "practice",
+    "skill": "sorting data and representing patterns",
+    "printable": true,
+    "type": "single",
+    "question": "Which rule can sort buttons?",
+    "audioPrompt": "Which rule can sort buttons?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "sort by colour",
+      "sort by happiness",
+      "sort by favourite",
+      "sort by luck"
+    ],
+    "correct": 0,
+    "explanation": "The correct answer is sort by colour.",
+    "structuredExplanation": {
+      "summary": "The correct answer is sort by colour."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 41,
+    "qualitySchema": "reviewed-year1-science-v1"
+  },
+  {
+    "id": "ac9s1i04-p-042",
+    "curriculumCode": "AC9S1I04",
+    "bank": "practice",
+    "skill": "sorting data and representing patterns",
+    "printable": true,
+    "type": "single",
+    "question": "Why do groups need labels?",
+    "audioPrompt": "Why do groups need labels?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "to hide the rule",
+      "to make items bigger",
+      "to tell what is in each group",
+      "to change the count"
+    ],
+    "correct": 2,
+    "explanation": "The correct answer is to tell what is in each group.",
+    "structuredExplanation": {
+      "summary": "The correct answer is to tell what is in each group."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 42,
+    "qualitySchema": "reviewed-year1-science-v1"
+  },
+  {
+    "id": "ac9s1i04-p-043",
+    "curriculumCode": "AC9S1I04",
+    "bank": "practice",
+    "skill": "sorting data and representing patterns",
+    "printable": true,
+    "type": "single",
+    "question": "[Show 4 red blocks and 2 blue blocks.] Which group has more?",
+    "audioPrompt": "[Show 4 red blocks and 2 blue blocks.] Which group has more?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "we cannot count them",
+      "blue blocks",
+      "red blocks",
+      "both are equal"
+    ],
+    "correct": 2,
+    "explanation": "The correct answer is red blocks.",
+    "structuredExplanation": {
+      "summary": "The correct answer is red blocks."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 43,
+    "qualitySchema": "reviewed-year1-science-v1"
+  },
+  {
+    "id": "ac9s1i04-p-044",
+    "curriculumCode": "AC9S1I04",
+    "bank": "practice",
+    "skill": "sorting data and representing patterns",
+    "printable": true,
+    "type": "single",
+    "question": "What can tally marks help us do?",
+    "audioPrompt": "What can tally marks help us do?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "tell the weather",
+      "record a count",
+      "make a sound",
+      "change an object"
+    ],
+    "correct": 1,
+    "explanation": "The correct answer is record a count.",
+    "structuredExplanation": {
+      "summary": "The correct answer is record a count."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 44,
+    "qualitySchema": "reviewed-year1-science-v1"
+  },
+  {
+    "id": "ac9s1i04-p-045",
+    "curriculumCode": "AC9S1I04",
+    "bank": "practice",
+    "skill": "sorting data and representing patterns",
+    "printable": true,
+    "type": "single",
+    "question": "Which items belong in a 'has wings' group?",
+    "audioPrompt": "Which items belong in a 'has wings' group?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "rocks",
+      "cups",
+      "fish",
+      "birds"
+    ],
+    "correct": 3,
+    "explanation": "The correct answer is birds.",
+    "structuredExplanation": {
+      "summary": "The correct answer is birds."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 45,
+    "qualitySchema": "reviewed-year1-science-v1"
+  },
+  {
+    "id": "ac9s1i04-p-046",
+    "curriculumCode": "AC9S1I04",
+    "bank": "practice",
+    "skill": "sorting data and representing patterns",
+    "printable": true,
+    "type": "single",
+    "question": "[Show a picture graph with 5 cats and 3 dogs.] Which animal was counted most?",
+    "audioPrompt": "[Show a picture graph with 5 cats and 3 dogs.] Which animal was counted most?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "birds",
+      "dogs",
+      "cats",
+      "both the same"
+    ],
+    "correct": 2,
+    "explanation": "The correct answer is cats.",
+    "structuredExplanation": {
+      "summary": "The correct answer is cats."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 46,
+    "qualitySchema": "reviewed-year1-science-v1"
+  },
+  {
+    "id": "ac9s1i04-p-047",
+    "curriculumCode": "AC9S1I04",
+    "bank": "practice",
+    "skill": "sorting data and representing patterns",
+    "printable": true,
+    "type": "single",
+    "question": "What should you do if one shell was counted twice?",
+    "audioPrompt": "What should you do if one shell was counted twice?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "hide the tally",
+      "count every shell twice",
+      "fix the tally",
+      "add another mark"
+    ],
+    "correct": 2,
+    "explanation": "The correct answer is fix the tally.",
+    "structuredExplanation": {
+      "summary": "The correct answer is fix the tally."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 47,
+    "qualitySchema": "reviewed-year1-science-v1"
+  },
+  {
+    "id": "ac9s1i04-p-048",
+    "curriculumCode": "AC9S1I04",
+    "bank": "practice",
+    "skill": "sorting data and representing patterns",
+    "printable": true,
+    "type": "single",
+    "question": "Which display is easy to read?",
+    "audioPrompt": "Which display is easy to read?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "one with hidden counts",
+      "one with a title and labels",
+      "one with no labels",
+      "one with mixed rules"
+    ],
+    "correct": 1,
+    "explanation": "The correct answer is one with a title and labels.",
+    "structuredExplanation": {
+      "summary": "The correct answer is one with a title and labels."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 48,
+    "qualitySchema": "reviewed-year1-science-v1"
   }
 ];

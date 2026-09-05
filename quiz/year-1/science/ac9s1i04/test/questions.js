@@ -30,7 +30,7 @@ window.skillrExamQuestions = [
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 1,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1i04-t-002",
@@ -62,7 +62,7 @@ window.skillrExamQuestions = [
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 2,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1i04-t-003",
@@ -94,7 +94,7 @@ window.skillrExamQuestions = [
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 3,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1i04-t-004",
@@ -103,8 +103,8 @@ window.skillrExamQuestions = [
     "skill": "sorting data and representing patterns",
     "printable": true,
     "type": "single",
-    "question": "Which graph needs a key?",
-    "audioPrompt": "Which graph needs a key?",
+    "question": "[Show the complete labelled data display.] Which graph needs a key?",
+    "audioPrompt": "[Show the complete labelled data display.] Which graph needs a key?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -126,7 +126,7 @@ window.skillrExamQuestions = [
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 4,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1i04-t-005",
@@ -158,7 +158,7 @@ window.skillrExamQuestions = [
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 5,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1i04-t-006",
@@ -190,7 +190,7 @@ window.skillrExamQuestions = [
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 6,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1i04-t-007",
@@ -199,8 +199,8 @@ window.skillrExamQuestions = [
     "skill": "sorting data and representing patterns",
     "printable": true,
     "type": "single",
-    "question": "One picture means 3 birds. Four pictures represent:",
-    "audioPrompt": "One picture means 3 birds. Four pictures represent:",
+    "question": "[Show the picture described.] One picture means 3 birds. Four pictures represent:",
+    "audioPrompt": "[Show the picture described.] One picture means 3 birds. Four pictures represent:",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -222,7 +222,7 @@ window.skillrExamQuestions = [
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 7,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1i04-t-008",
@@ -254,7 +254,7 @@ window.skillrExamQuestions = [
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 8,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1i04-t-009",
@@ -286,7 +286,7 @@ window.skillrExamQuestions = [
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 9,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1i04-t-010",
@@ -318,7 +318,7 @@ window.skillrExamQuestions = [
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 10,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1i04-t-011",
@@ -350,7 +350,7 @@ window.skillrExamQuestions = [
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 11,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1i04-t-012",
@@ -382,7 +382,7 @@ window.skillrExamQuestions = [
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 12,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1i04-t-013",
@@ -391,8 +391,8 @@ window.skillrExamQuestions = [
     "skill": "sorting data and representing patterns",
     "printable": true,
     "type": "single",
-    "question": "Why might a table be useful before a graph?",
-    "audioPrompt": "Why might a table be useful before a graph?",
+    "question": "[Show the complete labelled data display.] Why might a table be useful before a graph?",
+    "audioPrompt": "[Show the complete labelled data display.] Why might a table be useful before a graph?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -414,7 +414,7 @@ window.skillrExamQuestions = [
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 13,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1i04-t-014",
@@ -446,7 +446,7 @@ window.skillrExamQuestions = [
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 14,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1i04-t-015",
@@ -455,8 +455,8 @@ window.skillrExamQuestions = [
     "skill": "sorting data and representing patterns",
     "printable": true,
     "type": "single",
-    "question": "Which conclusion overclaims?",
-    "audioPrompt": "Which conclusion overclaims?",
+    "question": "A class counts insects. What can tally marks help them do?",
+    "audioPrompt": "A class counts insects. What can tally marks help them do?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -464,21 +464,20 @@ window.skillrExamQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "“Two groups had equal counts today.”",
-      "“There were most beetles today, so beetles will always be most.”",
-      "“Beetles were most today.”",
-      "“Ants were least today.”"
+      "make a sound",
+      "tell the weather",
+      "record a count",
+      "change an object"
     ],
-    "correct": 1,
-    "explanation": "Today’s result cannot guarantee every future count.\nHint: Watch “always”.",
+    "correct": 2,
+    "explanation": "The correct answer is record a count.",
     "structuredExplanation": {
-      "summary": "Today’s result cannot guarantee every future count.",
-      "hint": "Watch “always”."
+      "summary": "The correct answer is record a count."
     },
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 15,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1i04-t-016",
@@ -487,8 +486,8 @@ window.skillrExamQuestions = [
     "skill": "sorting data and representing patterns",
     "printable": true,
     "type": "single",
-    "question": "Which action makes a sort more reliable?",
-    "audioPrompt": "Which action makes a sort more reliable?",
+    "question": "Which animals belong in a group called 'has wings'?",
+    "audioPrompt": "Which animals belong in a group called 'has wings'?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -496,20 +495,19 @@ window.skillrExamQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Use the same stated rule for every item.",
-      "Change the rule for difficult items.",
-      "Count favourites twice.",
-      "Leave groups unlabelled."
+      "birds",
+      "cups",
+      "fish",
+      "rocks"
     ],
     "correct": 0,
-    "explanation": "Consistency makes classifications comparable.\nHint: Same rule throughout.",
+    "explanation": "The correct answer is birds.",
     "structuredExplanation": {
-      "summary": "Consistency makes classifications comparable.",
-      "hint": "Same rule throughout."
+      "summary": "The correct answer is birds."
     },
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 16,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   }
 ];

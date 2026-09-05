@@ -30,7 +30,7 @@ window.skillrExamQuestions = [
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 1,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1u03-t-002",
@@ -62,7 +62,7 @@ window.skillrExamQuestions = [
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 2,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1u03-t-003",
@@ -94,7 +94,7 @@ window.skillrExamQuestions = [
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 3,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1u03-t-004",
@@ -126,7 +126,7 @@ window.skillrExamQuestions = [
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 4,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1u03-t-005",
@@ -135,8 +135,8 @@ window.skillrExamQuestions = [
     "skill": "pushes and pulls",
     "printable": true,
     "type": "single",
-    "question": "Which surface likely creates most friction?",
-    "audioPrompt": "Which surface likely creates most friction?",
+    "question": "A toy car rolls on different floors. Which surface may slow it most?",
+    "audioPrompt": "A toy car rolls on different floors. Which surface may slow it most?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -146,19 +146,18 @@ window.skillrExamQuestions = [
     "answers": [
       "smooth tile",
       "polished wood",
-      "ice",
-      "rough carpet"
+      "thick carpet",
+      "a flat table"
     ],
-    "correct": 3,
-    "explanation": "Rough carpet usually resists rolling more.\nHint: Rougher surface.",
+    "correct": 2,
+    "explanation": "The correct answer is thick carpet.",
     "structuredExplanation": {
-      "summary": "Rough carpet usually resists rolling more.",
-      "hint": "Rougher surface."
+      "summary": "The correct answer is thick carpet."
     },
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 5,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1u03-t-006",
@@ -190,7 +189,7 @@ window.skillrExamQuestions = [
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 6,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1u03-t-007",
@@ -222,7 +221,7 @@ window.skillrExamQuestions = [
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 7,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1u03-t-008",
@@ -254,7 +253,7 @@ window.skillrExamQuestions = [
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 8,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1u03-t-009",
@@ -286,7 +285,7 @@ window.skillrExamQuestions = [
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 9,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1u03-t-010",
@@ -318,7 +317,7 @@ window.skillrExamQuestions = [
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 10,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1u03-t-011",
@@ -350,7 +349,7 @@ window.skillrExamQuestions = [
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 11,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1u03-t-012",
@@ -382,7 +381,7 @@ window.skillrExamQuestions = [
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 12,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1u03-t-013",
@@ -391,8 +390,8 @@ window.skillrExamQuestions = [
     "skill": "pushes and pulls",
     "printable": true,
     "type": "single",
-    "question": "What usually happens when friction is greater?",
-    "audioPrompt": "What usually happens when friction is greater?",
+    "question": "[Show a ball rolling towards Mia.] What can Mia do to stop it?",
+    "audioPrompt": "[Show a ball rolling towards Mia.] What can Mia do to stop it?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -400,21 +399,20 @@ window.skillrExamQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Objects always speed up.",
-      "Colour changes.",
-      "Mass disappears.",
-      "Motion slows more quickly."
+      "look away",
+      "draw it",
+      "turn off a light",
+      "push against it"
     ],
     "correct": 3,
-    "explanation": "Friction opposes motion.\nHint: Resistance to sliding or rolling.",
+    "explanation": "The correct answer is push against it.",
     "structuredExplanation": {
-      "summary": "Friction opposes motion.",
-      "hint": "Resistance to sliding or rolling."
+      "summary": "The correct answer is push against it."
     },
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 13,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1u03-t-014",
@@ -446,7 +444,7 @@ window.skillrExamQuestions = [
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 14,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1u03-t-015",
@@ -478,7 +476,7 @@ window.skillrExamQuestions = [
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 15,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1u03-t-016",
@@ -510,6 +508,6 @@ window.skillrExamQuestions = [
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 16,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   }
 ];

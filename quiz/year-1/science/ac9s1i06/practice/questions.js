@@ -31,7 +31,7 @@ window.skillrPracticeQuestions = [
     "difficulty": 1,
     "difficultyTier": "recognise",
     "sequencePriority": 1,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1i06-p-002",
@@ -64,7 +64,7 @@ window.skillrPracticeQuestions = [
     "difficulty": 1,
     "difficultyTier": "recognise",
     "sequencePriority": 2,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1i06-p-003",
@@ -97,7 +97,7 @@ window.skillrPracticeQuestions = [
     "difficulty": 1,
     "difficultyTier": "recognise",
     "sequencePriority": 3,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1i06-p-004",
@@ -106,8 +106,8 @@ window.skillrPracticeQuestions = [
     "skill": "communicating scientific ideas",
     "printable": true,
     "type": "single",
-    "question": "Why label parts of a diagram?",
-    "audioPrompt": "Why label parts of a diagram?",
+    "question": "[Show the labelled diagram.] Why label parts of a diagram?",
+    "audioPrompt": "[Show the labelled diagram.] Why label parts of a diagram?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -130,7 +130,7 @@ window.skillrPracticeQuestions = [
     "difficulty": 1,
     "difficultyTier": "recognise",
     "sequencePriority": 4,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1i06-p-005",
@@ -163,7 +163,7 @@ window.skillrPracticeQuestions = [
     "difficulty": 1,
     "difficultyTier": "recognise",
     "sequencePriority": 5,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1i06-p-006",
@@ -196,7 +196,7 @@ window.skillrPracticeQuestions = [
     "difficulty": 1,
     "difficultyTier": "recognise",
     "sequencePriority": 6,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1i06-p-007",
@@ -229,7 +229,7 @@ window.skillrPracticeQuestions = [
     "difficulty": 1,
     "difficultyTier": "recognise",
     "sequencePriority": 7,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1i06-p-008",
@@ -262,7 +262,7 @@ window.skillrPracticeQuestions = [
     "difficulty": 1,
     "difficultyTier": "recognise",
     "sequencePriority": 8,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1i06-p-009",
@@ -295,7 +295,7 @@ window.skillrPracticeQuestions = [
     "difficulty": 1,
     "difficultyTier": "recognise",
     "sequencePriority": 9,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1i06-p-010",
@@ -328,7 +328,7 @@ window.skillrPracticeQuestions = [
     "difficulty": 1,
     "difficultyTier": "recognise",
     "sequencePriority": 10,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1i06-p-011",
@@ -358,10 +358,10 @@ window.skillrPracticeQuestions = [
       "hint": "What question does the poster answer?"
     },
     "stage": "explain",
-    "difficulty": 2,
-    "difficultyTier": "explain",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
     "sequencePriority": 11,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1i06-p-012",
@@ -370,8 +370,8 @@ window.skillrPracticeQuestions = [
     "skill": "communicating scientific ideas",
     "printable": true,
     "type": "single",
-    "question": "Why should a graph have labels?",
-    "audioPrompt": "Why should a graph have labels?",
+    "question": "[Show the complete labelled data display.] Why should a graph have labels?",
+    "audioPrompt": "[Show the complete labelled data display.] Why should a graph have labels?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -391,10 +391,10 @@ window.skillrPracticeQuestions = [
       "hint": "What do the numbers and bars mean?"
     },
     "stage": "explain",
-    "difficulty": 2,
-    "difficultyTier": "explain",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
     "sequencePriority": 12,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1i06-p-013",
@@ -424,10 +424,10 @@ window.skillrPracticeQuestions = [
       "hint": "Specific result."
     },
     "stage": "explain",
-    "difficulty": 2,
-    "difficultyTier": "explain",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
     "sequencePriority": 13,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1i06-p-014",
@@ -457,10 +457,10 @@ window.skillrPracticeQuestions = [
       "hint": "Do not duplicate everything."
     },
     "stage": "explain",
-    "difficulty": 2,
-    "difficultyTier": "explain",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
     "sequencePriority": 14,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1i06-p-015",
@@ -469,8 +469,8 @@ window.skillrPracticeQuestions = [
     "skill": "communicating scientific ideas",
     "printable": true,
     "type": "single",
-    "question": "Why include a labelled photo or diagram?",
-    "audioPrompt": "Why include a labelled photo or diagram?",
+    "question": "[Show the labelled diagram.] Why include a labelled photo or diagram?",
+    "audioPrompt": "[Show the labelled diagram.] Why include a labelled photo or diagram?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -490,10 +490,10 @@ window.skillrPracticeQuestions = [
       "hint": "Use the mode that adds information."
     },
     "stage": "explain",
-    "difficulty": 2,
-    "difficultyTier": "explain",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
     "sequencePriority": 15,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1i06-p-016",
@@ -502,8 +502,8 @@ window.skillrPracticeQuestions = [
     "skill": "communicating scientific ideas",
     "printable": true,
     "type": "single",
-    "question": "Why should a conclusion match the evidence shown?",
-    "audioPrompt": "Why should a conclusion match the evidence shown?",
+    "question": "[Show the picture described.] Why should a conclusion match the evidence shown?",
+    "audioPrompt": "[Show the picture described.] Why should a conclusion match the evidence shown?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -523,10 +523,10 @@ window.skillrPracticeQuestions = [
       "hint": "Claim + evidence."
     },
     "stage": "explain",
-    "difficulty": 2,
-    "difficultyTier": "explain",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
     "sequencePriority": 16,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1i06-p-017",
@@ -557,9 +557,9 @@ window.skillrPracticeQuestions = [
     },
     "stage": "explain",
     "difficulty": 2,
-    "difficultyTier": "explain",
+    "difficultyTier": "guided",
     "sequencePriority": 17,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1i06-p-018",
@@ -590,9 +590,9 @@ window.skillrPracticeQuestions = [
     },
     "stage": "explain",
     "difficulty": 2,
-    "difficultyTier": "explain",
+    "difficultyTier": "guided",
     "sequencePriority": 18,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1i06-p-019",
@@ -623,9 +623,9 @@ window.skillrPracticeQuestions = [
     },
     "stage": "explain",
     "difficulty": 2,
-    "difficultyTier": "explain",
+    "difficultyTier": "guided",
     "sequencePriority": 19,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1i06-p-020",
@@ -656,9 +656,9 @@ window.skillrPracticeQuestions = [
     },
     "stage": "explain",
     "difficulty": 2,
-    "difficultyTier": "explain",
+    "difficultyTier": "guided",
     "sequencePriority": 20,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1i06-p-021",
@@ -689,9 +689,9 @@ window.skillrPracticeQuestions = [
     },
     "stage": "discriminate",
     "difficulty": 2,
-    "difficultyTier": "discriminate",
+    "difficultyTier": "guided",
     "sequencePriority": 21,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1i06-p-022",
@@ -700,8 +700,8 @@ window.skillrPracticeQuestions = [
     "skill": "communicating scientific ideas",
     "printable": true,
     "type": "single",
-    "question": "Which graph title is too vague?",
-    "audioPrompt": "Which graph title is too vague?",
+    "question": "[Show the complete labelled data display.] Which graph title is too vague?",
+    "audioPrompt": "[Show the complete labelled data display.] Which graph title is too vague?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -722,9 +722,9 @@ window.skillrPracticeQuestions = [
     },
     "stage": "discriminate",
     "difficulty": 2,
-    "difficultyTier": "discriminate",
+    "difficultyTier": "guided",
     "sequencePriority": 22,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1i06-p-023",
@@ -755,9 +755,9 @@ window.skillrPracticeQuestions = [
     },
     "stage": "discriminate",
     "difficulty": 2,
-    "difficultyTier": "discriminate",
+    "difficultyTier": "guided",
     "sequencePriority": 23,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1i06-p-024",
@@ -788,9 +788,9 @@ window.skillrPracticeQuestions = [
     },
     "stage": "discriminate",
     "difficulty": 2,
-    "difficultyTier": "discriminate",
+    "difficultyTier": "guided",
     "sequencePriority": 24,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1i06-p-025",
@@ -821,9 +821,9 @@ window.skillrPracticeQuestions = [
     },
     "stage": "discriminate",
     "difficulty": 2,
-    "difficultyTier": "discriminate",
+    "difficultyTier": "guided",
     "sequencePriority": 25,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1i06-p-026",
@@ -854,9 +854,9 @@ window.skillrPracticeQuestions = [
     },
     "stage": "discriminate",
     "difficulty": 2,
-    "difficultyTier": "discriminate",
+    "difficultyTier": "guided",
     "sequencePriority": 26,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1i06-p-027",
@@ -887,9 +887,9 @@ window.skillrPracticeQuestions = [
     },
     "stage": "discriminate",
     "difficulty": 2,
-    "difficultyTier": "discriminate",
+    "difficultyTier": "guided",
     "sequencePriority": 27,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1i06-p-028",
@@ -920,9 +920,9 @@ window.skillrPracticeQuestions = [
     },
     "stage": "discriminate",
     "difficulty": 2,
-    "difficultyTier": "discriminate",
+    "difficultyTier": "guided",
     "sequencePriority": 28,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1i06-p-029",
@@ -953,9 +953,9 @@ window.skillrPracticeQuestions = [
     },
     "stage": "discriminate",
     "difficulty": 2,
-    "difficultyTier": "discriminate",
+    "difficultyTier": "guided",
     "sequencePriority": 29,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1i06-p-030",
@@ -986,9 +986,9 @@ window.skillrPracticeQuestions = [
     },
     "stage": "discriminate",
     "difficulty": 2,
-    "difficultyTier": "discriminate",
+    "difficultyTier": "guided",
     "sequencePriority": 30,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1i06-p-031",
@@ -1018,10 +1018,10 @@ window.skillrPracticeQuestions = [
       "hint": "Show setup + data + meaning."
     },
     "stage": "apply",
-    "difficulty": 3,
-    "difficultyTier": "apply",
+    "difficulty": 2,
+    "difficultyTier": "guided",
     "sequencePriority": 31,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1i06-p-032",
@@ -1051,10 +1051,10 @@ window.skillrPracticeQuestions = [
       "hint": "Visualise the measurements."
     },
     "stage": "apply",
-    "difficulty": 3,
-    "difficultyTier": "apply",
+    "difficulty": 2,
+    "difficultyTier": "guided",
     "sequencePriority": 32,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1i06-p-033",
@@ -1085,9 +1085,9 @@ window.skillrPracticeQuestions = [
     },
     "stage": "apply",
     "difficulty": 3,
-    "difficultyTier": "apply",
+    "difficultyTier": "independent",
     "sequencePriority": 33,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1i06-p-034",
@@ -1118,9 +1118,9 @@ window.skillrPracticeQuestions = [
     },
     "stage": "apply",
     "difficulty": 3,
-    "difficultyTier": "apply",
+    "difficultyTier": "independent",
     "sequencePriority": 34,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1i06-p-035",
@@ -1129,8 +1129,8 @@ window.skillrPracticeQuestions = [
     "skill": "communicating scientific ideas",
     "printable": true,
     "type": "single",
-    "question": "A graph is shown while a student says “As you can see.” What should they add?",
-    "audioPrompt": "A graph is shown while a student says “As you can see.” What should they add?",
+    "question": "[Show the complete labelled data display.] A graph is shown while a student says “As you can see.” What should they add?",
+    "audioPrompt": "[Show the complete labelled data display.] A graph is shown while a student says “As you can see.” What should they add?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -1151,9 +1151,9 @@ window.skillrPracticeQuestions = [
     },
     "stage": "apply",
     "difficulty": 3,
-    "difficultyTier": "apply",
+    "difficultyTier": "independent",
     "sequencePriority": 35,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1i06-p-036",
@@ -1184,9 +1184,9 @@ window.skillrPracticeQuestions = [
     },
     "stage": "apply",
     "difficulty": 3,
-    "difficultyTier": "apply",
+    "difficultyTier": "independent",
     "sequencePriority": 36,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1i06-p-037",
@@ -1195,8 +1195,8 @@ window.skillrPracticeQuestions = [
     "skill": "communicating scientific ideas",
     "printable": true,
     "type": "single",
-    "question": "A science display is crowded with five different graphs. What revision helps most?",
-    "audioPrompt": "A science display is crowded with five different graphs. What revision helps most?",
+    "question": "[Show the complete labelled data display.] A science display is crowded with five different graphs. What revision helps most?",
+    "audioPrompt": "[Show the complete labelled data display.] A science display is crowded with five different graphs. What revision helps most?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -1217,9 +1217,9 @@ window.skillrPracticeQuestions = [
     },
     "stage": "apply",
     "difficulty": 3,
-    "difficultyTier": "apply",
+    "difficultyTier": "independent",
     "sequencePriority": 37,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1i06-p-038",
@@ -1250,9 +1250,9 @@ window.skillrPracticeQuestions = [
     },
     "stage": "apply",
     "difficulty": 3,
-    "difficultyTier": "apply",
+    "difficultyTier": "independent",
     "sequencePriority": 38,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1i06-p-039",
@@ -1283,9 +1283,9 @@ window.skillrPracticeQuestions = [
     },
     "stage": "apply",
     "difficulty": 3,
-    "difficultyTier": "apply",
+    "difficultyTier": "independent",
     "sequencePriority": 39,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1i06-p-040",
@@ -1316,8 +1316,256 @@ window.skillrPracticeQuestions = [
     },
     "stage": "apply",
     "difficulty": 3,
-    "difficultyTier": "apply",
+    "difficultyTier": "independent",
     "sequencePriority": 40,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
+  },
+  {
+    "id": "ac9s1i06-p-041",
+    "curriculumCode": "AC9S1I06",
+    "bank": "practice",
+    "skill": "communicating scientific ideas",
+    "printable": true,
+    "type": "single",
+    "question": "What helps others understand your science idea?",
+    "audioPrompt": "What helps others understand your science idea?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "a very quiet mumble",
+      "an unrelated story",
+      "clear words and a labelled picture",
+      "a hidden page"
+    ],
+    "correct": 2,
+    "explanation": "The correct answer is clear words and a labelled picture.",
+    "structuredExplanation": {
+      "summary": "The correct answer is clear words and a labelled picture."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 41,
+    "qualitySchema": "reviewed-year1-science-v1"
+  },
+  {
+    "id": "ac9s1i06-p-042",
+    "curriculumCode": "AC9S1I06",
+    "bank": "practice",
+    "skill": "communicating scientific ideas",
+    "printable": true,
+    "type": "single",
+    "question": "Which title suits a plant-growth chart?",
+    "audioPrompt": "Which title suits a plant-growth chart?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "A Funny Story",
+      "My Favourite Game",
+      "Plant Growth",
+      "Lunch Time"
+    ],
+    "correct": 2,
+    "explanation": "The correct answer is Plant Growth.",
+    "structuredExplanation": {
+      "summary": "The correct answer is Plant Growth."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 42,
+    "qualitySchema": "reviewed-year1-science-v1"
+  },
+  {
+    "id": "ac9s1i06-p-043",
+    "curriculumCode": "AC9S1I06",
+    "bank": "practice",
+    "skill": "communicating scientific ideas",
+    "printable": true,
+    "type": "single",
+    "question": "What should you say when sharing a result?",
+    "audioPrompt": "What should you say when sharing a result?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "only what you hoped",
+      "someone else's guess",
+      "what you observed",
+      "a made-up answer"
+    ],
+    "correct": 2,
+    "explanation": "The correct answer is what you observed.",
+    "structuredExplanation": {
+      "summary": "The correct answer is what you observed."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 43,
+    "qualitySchema": "reviewed-year1-science-v1"
+  },
+  {
+    "id": "ac9s1i06-p-044",
+    "curriculumCode": "AC9S1I06",
+    "bank": "practice",
+    "skill": "communicating scientific ideas",
+    "printable": true,
+    "type": "single",
+    "question": "Which sentence is clear?",
+    "audioPrompt": "Which sentence is clear?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "It was good.",
+      "Something happened.",
+      "The ball rolled 30 cm.",
+      "It did stuff."
+    ],
+    "correct": 2,
+    "explanation": "The correct answer is The ball rolled 30 cm..",
+    "structuredExplanation": {
+      "summary": "The correct answer is The ball rolled 30 cm.."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 44,
+    "qualitySchema": "reviewed-year1-science-v1"
+  },
+  {
+    "id": "ac9s1i06-p-045",
+    "curriculumCode": "AC9S1I06",
+    "bank": "practice",
+    "skill": "communicating scientific ideas",
+    "printable": true,
+    "type": "single",
+    "question": "Why label a drawing?",
+    "audioPrompt": "Why label a drawing?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "to change the result",
+      "to hide the parts",
+      "to name important parts",
+      "to make it louder"
+    ],
+    "correct": 2,
+    "explanation": "The correct answer is to name important parts.",
+    "structuredExplanation": {
+      "summary": "The correct answer is to name important parts."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 45,
+    "qualitySchema": "reviewed-year1-science-v1"
+  },
+  {
+    "id": "ac9s1i06-p-046",
+    "curriculumCode": "AC9S1I06",
+    "bank": "practice",
+    "skill": "communicating scientific ideas",
+    "printable": true,
+    "type": "single",
+    "question": "How can a group share its findings?",
+    "audioPrompt": "How can a group share its findings?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "change the count",
+      "hide the chart",
+      "skip the result",
+      "show a chart and explain it"
+    ],
+    "correct": 3,
+    "explanation": "The correct answer is show a chart and explain it.",
+    "structuredExplanation": {
+      "summary": "The correct answer is show a chart and explain it."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 46,
+    "qualitySchema": "reviewed-year1-science-v1"
+  },
+  {
+    "id": "ac9s1i06-p-047",
+    "curriculumCode": "AC9S1I06",
+    "bank": "practice",
+    "skill": "communicating scientific ideas",
+    "printable": true,
+    "type": "single",
+    "question": "What should a science poster include?",
+    "audioPrompt": "What should a science poster include?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "a secret code",
+      "no labels",
+      "a clear title",
+      "an unrelated joke"
+    ],
+    "correct": 2,
+    "explanation": "The correct answer is a clear title.",
+    "structuredExplanation": {
+      "summary": "The correct answer is a clear title."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 47,
+    "qualitySchema": "reviewed-year1-science-v1"
+  },
+  {
+    "id": "ac9s1i06-p-048",
+    "curriculumCode": "AC9S1I06",
+    "bank": "practice",
+    "skill": "communicating scientific ideas",
+    "printable": true,
+    "type": "single",
+    "question": "Which ending shares evidence?",
+    "audioPrompt": "Which ending shares evidence?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "I wanted ten birds.",
+      "The count is secret.",
+      "We counted six birds.",
+      "Birds are best."
+    ],
+    "correct": 2,
+    "explanation": "The correct answer is We counted six birds..",
+    "structuredExplanation": {
+      "summary": "The correct answer is We counted six birds.."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 48,
+    "qualitySchema": "reviewed-year1-science-v1"
   }
 ];

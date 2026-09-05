@@ -31,7 +31,7 @@ window.skillrPracticeQuestions = [
     "difficulty": 1,
     "difficultyTier": "recognise",
     "sequencePriority": 1,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1i03-p-002",
@@ -64,7 +64,7 @@ window.skillrPracticeQuestions = [
     "difficulty": 1,
     "difficultyTier": "recognise",
     "sequencePriority": 2,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1i03-p-003",
@@ -97,7 +97,7 @@ window.skillrPracticeQuestions = [
     "difficulty": 1,
     "difficultyTier": "recognise",
     "sequencePriority": 3,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1i03-p-004",
@@ -130,7 +130,7 @@ window.skillrPracticeQuestions = [
     "difficulty": 1,
     "difficultyTier": "recognise",
     "sequencePriority": 4,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1i03-p-005",
@@ -163,7 +163,7 @@ window.skillrPracticeQuestions = [
     "difficulty": 1,
     "difficultyTier": "recognise",
     "sequencePriority": 5,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1i03-p-006",
@@ -196,7 +196,7 @@ window.skillrPracticeQuestions = [
     "difficulty": 1,
     "difficultyTier": "recognise",
     "sequencePriority": 6,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1i03-p-007",
@@ -229,7 +229,7 @@ window.skillrPracticeQuestions = [
     "difficulty": 1,
     "difficultyTier": "recognise",
     "sequencePriority": 7,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1i03-p-008",
@@ -262,7 +262,7 @@ window.skillrPracticeQuestions = [
     "difficulty": 1,
     "difficultyTier": "recognise",
     "sequencePriority": 8,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1i03-p-009",
@@ -295,7 +295,7 @@ window.skillrPracticeQuestions = [
     "difficulty": 1,
     "difficultyTier": "recognise",
     "sequencePriority": 9,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1i03-p-010",
@@ -328,7 +328,7 @@ window.skillrPracticeQuestions = [
     "difficulty": 1,
     "difficultyTier": "recognise",
     "sequencePriority": 10,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1i03-p-011",
@@ -358,10 +358,10 @@ window.skillrPracticeQuestions = [
       "hint": "When did each change happen?"
     },
     "stage": "explain",
-    "difficulty": 2,
-    "difficultyTier": "explain",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
     "sequencePriority": 11,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1i03-p-012",
@@ -391,10 +391,10 @@ window.skillrPracticeQuestions = [
       "hint": "Specific amount."
     },
     "stage": "explain",
-    "difficulty": 2,
-    "difficultyTier": "explain",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
     "sequencePriority": 12,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1i03-p-013",
@@ -424,10 +424,10 @@ window.skillrPracticeQuestions = [
       "hint": "Compare like with like."
     },
     "stage": "explain",
-    "difficulty": 2,
-    "difficultyTier": "explain",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
     "sequencePriority": 13,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1i03-p-014",
@@ -457,10 +457,10 @@ window.skillrPracticeQuestions = [
       "hint": "Observation versus explanation."
     },
     "stage": "explain",
-    "difficulty": 2,
-    "difficultyTier": "explain",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
     "sequencePriority": 14,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1i03-p-015",
@@ -490,10 +490,10 @@ window.skillrPracticeQuestions = [
       "hint": "Picture detail + number."
     },
     "stage": "explain",
-    "difficulty": 2,
-    "difficultyTier": "explain",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
     "sequencePriority": 15,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1i03-p-016",
@@ -523,10 +523,10 @@ window.skillrPracticeQuestions = [
       "hint": "Check, do not force."
     },
     "stage": "explain",
-    "difficulty": 2,
-    "difficultyTier": "explain",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
     "sequencePriority": 16,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1i03-p-017",
@@ -557,9 +557,9 @@ window.skillrPracticeQuestions = [
     },
     "stage": "explain",
     "difficulty": 2,
-    "difficultyTier": "explain",
+    "difficultyTier": "guided",
     "sequencePriority": 17,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1i03-p-018",
@@ -590,9 +590,9 @@ window.skillrPracticeQuestions = [
     },
     "stage": "explain",
     "difficulty": 2,
-    "difficultyTier": "explain",
+    "difficultyTier": "guided",
     "sequencePriority": 18,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1i03-p-019",
@@ -623,9 +623,9 @@ window.skillrPracticeQuestions = [
     },
     "stage": "explain",
     "difficulty": 2,
-    "difficultyTier": "explain",
+    "difficultyTier": "guided",
     "sequencePriority": 19,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1i03-p-020",
@@ -656,9 +656,9 @@ window.skillrPracticeQuestions = [
     },
     "stage": "explain",
     "difficulty": 2,
-    "difficultyTier": "explain",
+    "difficultyTier": "guided",
     "sequencePriority": 20,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1i03-p-021",
@@ -689,9 +689,9 @@ window.skillrPracticeQuestions = [
     },
     "stage": "discriminate",
     "difficulty": 2,
-    "difficultyTier": "discriminate",
+    "difficultyTier": "guided",
     "sequencePriority": 21,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1i03-p-022",
@@ -700,8 +700,8 @@ window.skillrPracticeQuestions = [
     "skill": "making and recording observations",
     "printable": true,
     "type": "single",
-    "question": "Which statement mixes observation with an unsupported cause?",
-    "audioPrompt": "Which statement mixes observation with an unsupported cause?",
+    "question": "A ball rolls 20 cm. What should you record?",
+    "audioPrompt": "A ball rolls 20 cm. What should you record?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -709,22 +709,21 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The puddle is 35 cm wide.",
-      "The puddle edge moved inward 5 cm.",
-      "The puddle is shallower than before.",
-      "The puddle is smaller because the sun made it disappear."
+      "a guess",
+      "my favourite number",
+      "very far only",
+      "20 cm"
     ],
     "correct": 3,
-    "explanation": "The first adds a causal explanation beyond the direct observation.\nHint: Which part says why?",
+    "explanation": "The correct answer is 20 cm.",
     "structuredExplanation": {
-      "summary": "The first adds a causal explanation beyond the direct observation.",
-      "hint": "Which part says why?"
+      "summary": "The correct answer is 20 cm."
     },
     "stage": "discriminate",
     "difficulty": 2,
-    "difficultyTier": "discriminate",
+    "difficultyTier": "guided",
     "sequencePriority": 22,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1i03-p-023",
@@ -755,9 +754,9 @@ window.skillrPracticeQuestions = [
     },
     "stage": "discriminate",
     "difficulty": 2,
-    "difficultyTier": "discriminate",
+    "difficultyTier": "guided",
     "sequencePriority": 23,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1i03-p-024",
@@ -788,9 +787,9 @@ window.skillrPracticeQuestions = [
     },
     "stage": "discriminate",
     "difficulty": 2,
-    "difficultyTier": "discriminate",
+    "difficultyTier": "guided",
     "sequencePriority": 24,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1i03-p-025",
@@ -821,9 +820,9 @@ window.skillrPracticeQuestions = [
     },
     "stage": "discriminate",
     "difficulty": 2,
-    "difficultyTier": "discriminate",
+    "difficultyTier": "guided",
     "sequencePriority": 25,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1i03-p-026",
@@ -854,9 +853,9 @@ window.skillrPracticeQuestions = [
     },
     "stage": "discriminate",
     "difficulty": 2,
-    "difficultyTier": "discriminate",
+    "difficultyTier": "guided",
     "sequencePriority": 26,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1i03-p-027",
@@ -887,9 +886,9 @@ window.skillrPracticeQuestions = [
     },
     "stage": "discriminate",
     "difficulty": 2,
-    "difficultyTier": "discriminate",
+    "difficultyTier": "guided",
     "sequencePriority": 27,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1i03-p-028",
@@ -920,9 +919,9 @@ window.skillrPracticeQuestions = [
     },
     "stage": "discriminate",
     "difficulty": 2,
-    "difficultyTier": "discriminate",
+    "difficultyTier": "guided",
     "sequencePriority": 28,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1i03-p-029",
@@ -953,9 +952,9 @@ window.skillrPracticeQuestions = [
     },
     "stage": "discriminate",
     "difficulty": 2,
-    "difficultyTier": "discriminate",
+    "difficultyTier": "guided",
     "sequencePriority": 29,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1i03-p-030",
@@ -986,9 +985,9 @@ window.skillrPracticeQuestions = [
     },
     "stage": "discriminate",
     "difficulty": 2,
-    "difficultyTier": "discriminate",
+    "difficultyTier": "guided",
     "sequencePriority": 30,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1i03-p-031",
@@ -1018,10 +1017,10 @@ window.skillrPracticeQuestions = [
       "hint": "Same method over time."
     },
     "stage": "apply",
-    "difficulty": 3,
-    "difficultyTier": "apply",
+    "difficulty": 2,
+    "difficultyTier": "guided",
     "sequencePriority": 31,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1i03-p-032",
@@ -1051,10 +1050,10 @@ window.skillrPracticeQuestions = [
       "hint": "Record when and what."
     },
     "stage": "apply",
-    "difficulty": 3,
-    "difficultyTier": "apply",
+    "difficulty": 2,
+    "difficultyTier": "guided",
     "sequencePriority": 32,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1i03-p-033",
@@ -1085,9 +1084,9 @@ window.skillrPracticeQuestions = [
     },
     "stage": "apply",
     "difficulty": 3,
-    "difficultyTier": "apply",
+    "difficultyTier": "independent",
     "sequencePriority": 33,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1i03-p-034",
@@ -1118,9 +1117,9 @@ window.skillrPracticeQuestions = [
     },
     "stage": "apply",
     "difficulty": 3,
-    "difficultyTier": "apply",
+    "difficultyTier": "independent",
     "sequencePriority": 34,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1i03-p-035",
@@ -1151,9 +1150,9 @@ window.skillrPracticeQuestions = [
     },
     "stage": "apply",
     "difficulty": 3,
-    "difficultyTier": "apply",
+    "difficultyTier": "independent",
     "sequencePriority": 35,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1i03-p-036",
@@ -1184,9 +1183,9 @@ window.skillrPracticeQuestions = [
     },
     "stage": "apply",
     "difficulty": 3,
-    "difficultyTier": "apply",
+    "difficultyTier": "independent",
     "sequencePriority": 36,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1i03-p-037",
@@ -1195,8 +1194,8 @@ window.skillrPracticeQuestions = [
     "skill": "making and recording observations",
     "printable": true,
     "type": "single",
-    "question": "Which note separates observation from inference best?",
-    "audioPrompt": "Which note separates observation from inference best?",
+    "question": "Why add a date to a plant drawing?",
+    "audioPrompt": "Why add a date to a plant drawing?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -1204,22 +1203,21 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Observation: “Three leaves have holes.” Idea to investigate: “An insect may have eaten them.”",
-      "“An insect ate them” as a proven observation.",
-      "“Leaves are sad.”",
-      "“Holes always mean insects.”"
+      "to make it taller",
+      "to help it grow",
+      "to show when it was observed",
+      "to change its colour"
     ],
-    "correct": 0,
-    "explanation": "The first distinguishes what was seen from a possible explanation.\nHint: See versus think.",
+    "correct": 2,
+    "explanation": "The correct answer is to show when it was observed.",
     "structuredExplanation": {
-      "summary": "The first distinguishes what was seen from a possible explanation.",
-      "hint": "See versus think."
+      "summary": "The correct answer is to show when it was observed."
     },
     "stage": "apply",
     "difficulty": 3,
-    "difficultyTier": "apply",
+    "difficultyTier": "independent",
     "sequencePriority": 37,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1i03-p-038",
@@ -1250,9 +1248,9 @@ window.skillrPracticeQuestions = [
     },
     "stage": "apply",
     "difficulty": 3,
-    "difficultyTier": "apply",
+    "difficultyTier": "independent",
     "sequencePriority": 38,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1i03-p-039",
@@ -1261,8 +1259,8 @@ window.skillrPracticeQuestions = [
     "skill": "making and recording observations",
     "printable": true,
     "type": "single",
-    "question": "A class records ant counts of 2, 4, 5, 3 over four days. Which is a valid observation?",
-    "audioPrompt": "A class records ant counts of 2, 4, 5, 3 over four days. Which is a valid observation?",
+    "question": "Which is something you can hear?",
+    "audioPrompt": "Which is something you can hear?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -1270,22 +1268,21 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Ants prefer Thursdays.",
-      "The counts prove why ants came.",
-      "Counts varied from day to day.",
-      "There will be exactly 6 tomorrow."
+      "a red apple",
+      "a bright light",
+      "a bell ringing",
+      "a smooth rock"
     ],
     "correct": 2,
-    "explanation": "The data directly show variation, not a cause or guaranteed future result.\nHint: Say only what the numbers show.",
+    "explanation": "The correct answer is a bell ringing.",
     "structuredExplanation": {
-      "summary": "The data directly show variation, not a cause or guaranteed future result.",
-      "hint": "Say only what the numbers show."
+      "summary": "The correct answer is a bell ringing."
     },
     "stage": "apply",
     "difficulty": 3,
-    "difficultyTier": "apply",
+    "difficultyTier": "independent",
     "sequencePriority": 39,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1i03-p-040",
@@ -1316,8 +1313,256 @@ window.skillrPracticeQuestions = [
     },
     "stage": "apply",
     "difficulty": 3,
-    "difficultyTier": "apply",
+    "difficultyTier": "independent",
     "sequencePriority": 40,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
+  },
+  {
+    "id": "ac9s1i03-p-041",
+    "curriculumCode": "AC9S1I03",
+    "bank": "practice",
+    "skill": "making and recording observations",
+    "printable": true,
+    "type": "single",
+    "question": "Mia measures a ball rolling 20 cm. What should she record?",
+    "audioPrompt": "Mia measures a ball rolling 20 cm. What should she record?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "my favourite number",
+      "very far only",
+      "20 cm",
+      "a guess"
+    ],
+    "correct": 2,
+    "explanation": "The correct answer is 20 cm.",
+    "structuredExplanation": {
+      "summary": "The correct answer is 20 cm."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 41,
+    "qualitySchema": "reviewed-year1-science-v1"
+  },
+  {
+    "id": "ac9s1i03-p-042",
+    "curriculumCode": "AC9S1I03",
+    "bank": "practice",
+    "skill": "making and recording observations",
+    "printable": true,
+    "type": "single",
+    "question": "Ava draws a plant each day. Why should she add the date?",
+    "audioPrompt": "Ava draws a plant each day. Why should she add the date?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "to show when it was observed",
+      "to make it taller",
+      "to help it grow",
+      "to change its colour"
+    ],
+    "correct": 0,
+    "explanation": "The correct answer is to show when it was observed.",
+    "structuredExplanation": {
+      "summary": "The correct answer is to show when it was observed."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 42,
+    "qualitySchema": "reviewed-year1-science-v1"
+  },
+  {
+    "id": "ac9s1i03-p-043",
+    "curriculumCode": "AC9S1I03",
+    "bank": "practice",
+    "skill": "making and recording observations",
+    "printable": true,
+    "type": "single",
+    "question": "Which observation uses hearing?",
+    "audioPrompt": "Which observation uses hearing?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "a bell ringing",
+      "a bright light",
+      "a red apple",
+      "a smooth rock"
+    ],
+    "correct": 0,
+    "explanation": "The correct answer is a bell ringing.",
+    "structuredExplanation": {
+      "summary": "The correct answer is a bell ringing."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 43,
+    "qualitySchema": "reviewed-year1-science-v1"
+  },
+  {
+    "id": "ac9s1i03-p-044",
+    "curriculumCode": "AC9S1I03",
+    "bank": "practice",
+    "skill": "making and recording observations",
+    "printable": true,
+    "type": "single",
+    "question": "What should a science record show?",
+    "audioPrompt": "What should a science record show?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "what we wanted",
+      "only happy results",
+      "what really happened",
+      "a changed result"
+    ],
+    "correct": 2,
+    "explanation": "The correct answer is what really happened.",
+    "structuredExplanation": {
+      "summary": "The correct answer is what really happened."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 44,
+    "qualitySchema": "reviewed-year1-science-v1"
+  },
+  {
+    "id": "ac9s1i03-p-045",
+    "curriculumCode": "AC9S1I03",
+    "bank": "practice",
+    "skill": "making and recording observations",
+    "printable": true,
+    "type": "single",
+    "question": "[Show two leaves.] Which detail could you record?",
+    "audioPrompt": "[Show two leaves.] Which detail could you record?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "which one has a name",
+      "their colour and size",
+      "which one is lucky",
+      "which one is nicer"
+    ],
+    "correct": 1,
+    "explanation": "The correct answer is their colour and size.",
+    "structuredExplanation": {
+      "summary": "The correct answer is their colour and size."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 45,
+    "qualitySchema": "reviewed-year1-science-v1"
+  },
+  {
+    "id": "ac9s1i03-p-046",
+    "curriculumCode": "AC9S1I03",
+    "bank": "practice",
+    "skill": "making and recording observations",
+    "printable": true,
+    "type": "single",
+    "question": "Which sentence tells an observation?",
+    "audioPrompt": "Which sentence tells an observation?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "The leaf feels sad.",
+      "The leaf is lucky.",
+      "The leaf has three spots.",
+      "A bug must have done it."
+    ],
+    "correct": 2,
+    "explanation": "The correct answer is The leaf has three spots..",
+    "structuredExplanation": {
+      "summary": "The correct answer is The leaf has three spots.."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 46,
+    "qualitySchema": "reviewed-year1-science-v1"
+  },
+  {
+    "id": "ac9s1i03-p-047",
+    "curriculumCode": "AC9S1I03",
+    "bank": "practice",
+    "skill": "making and recording observations",
+    "printable": true,
+    "type": "single",
+    "question": "What helps us remember what we saw?",
+    "audioPrompt": "What helps us remember what we saw?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "a secret guess",
+      "an empty page",
+      "a labelled drawing",
+      "a made-up story"
+    ],
+    "correct": 2,
+    "explanation": "The correct answer is a labelled drawing.",
+    "structuredExplanation": {
+      "summary": "The correct answer is a labelled drawing."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 47,
+    "qualitySchema": "reviewed-year1-science-v1"
+  },
+  {
+    "id": "ac9s1i03-p-048",
+    "curriculumCode": "AC9S1I03",
+    "bank": "practice",
+    "skill": "making and recording observations",
+    "printable": true,
+    "type": "single",
+    "question": "Which tool measures the length of a stick?",
+    "audioPrompt": "Which tool measures the length of a stick?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "a paintbrush",
+      "a clock",
+      "a cup",
+      "a ruler"
+    ],
+    "correct": 3,
+    "explanation": "The correct answer is a ruler.",
+    "structuredExplanation": {
+      "summary": "The correct answer is a ruler."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 48,
+    "qualitySchema": "reviewed-year1-science-v1"
   }
 ];

@@ -30,7 +30,7 @@ window.skillrExamQuestions = [
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 1,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1i06-t-002",
@@ -62,7 +62,7 @@ window.skillrExamQuestions = [
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 2,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1i06-t-003",
@@ -71,8 +71,8 @@ window.skillrExamQuestions = [
     "skill": "communicating scientific ideas",
     "printable": true,
     "type": "single",
-    "question": "Why label a bar graph?",
-    "audioPrompt": "Why label a bar graph?",
+    "question": "[Show the complete labelled data display.] Why label a bar graph?",
+    "audioPrompt": "[Show the complete labelled data display.] Why label a bar graph?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -94,7 +94,7 @@ window.skillrExamQuestions = [
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 3,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1i06-t-004",
@@ -126,7 +126,7 @@ window.skillrExamQuestions = [
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 4,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1i06-t-005",
@@ -158,7 +158,7 @@ window.skillrExamQuestions = [
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 5,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1i06-t-006",
@@ -190,7 +190,7 @@ window.skillrExamQuestions = [
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 6,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1i06-t-007",
@@ -222,7 +222,7 @@ window.skillrExamQuestions = [
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 7,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1i06-t-008",
@@ -254,7 +254,7 @@ window.skillrExamQuestions = [
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 8,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1i06-t-009",
@@ -286,7 +286,7 @@ window.skillrExamQuestions = [
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 9,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1i06-t-010",
@@ -318,7 +318,7 @@ window.skillrExamQuestions = [
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 10,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1i06-t-011",
@@ -350,7 +350,7 @@ window.skillrExamQuestions = [
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 11,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1i06-t-012",
@@ -382,7 +382,7 @@ window.skillrExamQuestions = [
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 12,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1i06-t-013",
@@ -414,7 +414,7 @@ window.skillrExamQuestions = [
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 13,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1i06-t-014",
@@ -423,8 +423,8 @@ window.skillrExamQuestions = [
     "skill": "communicating scientific ideas",
     "printable": true,
     "type": "single",
-    "question": "A graph shows 2,4,6 plant leaves over weeks. Best explanation?",
-    "audioPrompt": "A graph shows 2,4,6 plant leaves over weeks. Best explanation?",
+    "question": "[Show the complete labelled data display.] A graph shows 2,4,6 plant leaves over weeks. Best explanation?",
+    "audioPrompt": "[Show the complete labelled data display.] A graph shows 2,4,6 plant leaves over weeks. Best explanation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -446,7 +446,7 @@ window.skillrExamQuestions = [
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 14,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1i06-t-015",
@@ -478,7 +478,7 @@ window.skillrExamQuestions = [
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 15,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1i06-t-016",
@@ -510,6 +510,6 @@ window.skillrExamQuestions = [
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 16,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   }
 ];

@@ -31,7 +31,7 @@ window.skillrPracticeQuestions = [
     "difficulty": 1,
     "difficultyTier": "recognise",
     "sequencePriority": 1,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1u01-p-002",
@@ -64,7 +64,7 @@ window.skillrPracticeQuestions = [
     "difficulty": 1,
     "difficultyTier": "recognise",
     "sequencePriority": 2,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1u01-p-003",
@@ -73,8 +73,8 @@ window.skillrPracticeQuestions = [
     "skill": "needs of plants and animals",
     "printable": true,
     "type": "single",
-    "question": "Which animal need is shown by a bird eating seeds?",
-    "audioPrompt": "Which animal need is shown by a bird eating seeds?",
+    "question": "[Show the picture described.] Which animal need is shown by a bird eating seeds?",
+    "audioPrompt": "[Show the picture described.] Which animal need is shown by a bird eating seeds?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -97,7 +97,7 @@ window.skillrPracticeQuestions = [
     "difficulty": 1,
     "difficultyTier": "recognise",
     "sequencePriority": 3,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1u01-p-004",
@@ -130,7 +130,7 @@ window.skillrPracticeQuestions = [
     "difficulty": 1,
     "difficultyTier": "recognise",
     "sequencePriority": 4,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1u01-p-005",
@@ -163,7 +163,7 @@ window.skillrPracticeQuestions = [
     "difficulty": 1,
     "difficultyTier": "recognise",
     "sequencePriority": 5,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1u01-p-006",
@@ -172,8 +172,8 @@ window.skillrPracticeQuestions = [
     "skill": "needs of plants and animals",
     "printable": true,
     "type": "single",
-    "question": "Which need is shown by a possum sleeping in a tree hollow?",
-    "audioPrompt": "Which need is shown by a possum sleeping in a tree hollow?",
+    "question": "[Show the picture described.] Which need is shown by a possum sleeping in a tree hollow?",
+    "audioPrompt": "[Show the picture described.] Which need is shown by a possum sleeping in a tree hollow?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -196,7 +196,7 @@ window.skillrPracticeQuestions = [
     "difficulty": 1,
     "difficultyTier": "recognise",
     "sequencePriority": 6,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1u01-p-007",
@@ -229,7 +229,7 @@ window.skillrPracticeQuestions = [
     "difficulty": 1,
     "difficultyTier": "recognise",
     "sequencePriority": 7,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1u01-p-008",
@@ -262,7 +262,7 @@ window.skillrPracticeQuestions = [
     "difficulty": 1,
     "difficultyTier": "recognise",
     "sequencePriority": 8,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1u01-p-009",
@@ -295,7 +295,7 @@ window.skillrPracticeQuestions = [
     "difficulty": 1,
     "difficultyTier": "recognise",
     "sequencePriority": 9,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1u01-p-010",
@@ -328,7 +328,7 @@ window.skillrPracticeQuestions = [
     "difficulty": 1,
     "difficultyTier": "recognise",
     "sequencePriority": 10,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1u01-p-011",
@@ -358,10 +358,10 @@ window.skillrPracticeQuestions = [
       "hint": "Connect water to staying firm and alive."
     },
     "stage": "explain",
-    "difficulty": 2,
-    "difficultyTier": "explain",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
     "sequencePriority": 11,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1u01-p-012",
@@ -391,10 +391,10 @@ window.skillrPracticeQuestions = [
       "hint": "Think protection."
     },
     "stage": "explain",
-    "difficulty": 2,
-    "difficultyTier": "explain",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
     "sequencePriority": 12,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1u01-p-013",
@@ -424,10 +424,10 @@ window.skillrPracticeQuestions = [
       "hint": "Not every animal eats the same thing."
     },
     "stage": "explain",
-    "difficulty": 2,
-    "difficultyTier": "explain",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
     "sequencePriority": 13,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1u01-p-014",
@@ -457,10 +457,10 @@ window.skillrPracticeQuestions = [
       "hint": "What environment is its body suited to?"
     },
     "stage": "explain",
-    "difficulty": 2,
-    "difficultyTier": "explain",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
     "sequencePriority": 14,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1u01-p-015",
@@ -490,10 +490,10 @@ window.skillrPracticeQuestions = [
       "hint": "Moisture is the key."
     },
     "stage": "explain",
-    "difficulty": 2,
-    "difficultyTier": "explain",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
     "sequencePriority": 15,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1u01-p-016",
@@ -523,10 +523,10 @@ window.skillrPracticeQuestions = [
       "hint": "Growth needs room."
     },
     "stage": "explain",
-    "difficulty": 2,
-    "difficultyTier": "explain",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
     "sequencePriority": 16,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1u01-p-017",
@@ -557,9 +557,9 @@ window.skillrPracticeQuestions = [
     },
     "stage": "explain",
     "difficulty": 2,
-    "difficultyTier": "explain",
+    "difficultyTier": "guided",
     "sequencePriority": 17,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1u01-p-018",
@@ -590,9 +590,9 @@ window.skillrPracticeQuestions = [
     },
     "stage": "explain",
     "difficulty": 2,
-    "difficultyTier": "explain",
+    "difficultyTier": "guided",
     "sequencePriority": 18,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1u01-p-019",
@@ -623,9 +623,9 @@ window.skillrPracticeQuestions = [
     },
     "stage": "explain",
     "difficulty": 2,
-    "difficultyTier": "explain",
+    "difficultyTier": "guided",
     "sequencePriority": 19,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1u01-p-020",
@@ -656,9 +656,9 @@ window.skillrPracticeQuestions = [
     },
     "stage": "explain",
     "difficulty": 2,
-    "difficultyTier": "explain",
+    "difficultyTier": "guided",
     "sequencePriority": 20,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1u01-p-021",
@@ -689,9 +689,9 @@ window.skillrPracticeQuestions = [
     },
     "stage": "discriminate",
     "difficulty": 2,
-    "difficultyTier": "discriminate",
+    "difficultyTier": "guided",
     "sequencePriority": 21,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1u01-p-022",
@@ -722,9 +722,9 @@ window.skillrPracticeQuestions = [
     },
     "stage": "discriminate",
     "difficulty": 2,
-    "difficultyTier": "discriminate",
+    "difficultyTier": "guided",
     "sequencePriority": 22,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1u01-p-023",
@@ -755,9 +755,9 @@ window.skillrPracticeQuestions = [
     },
     "stage": "discriminate",
     "difficulty": 2,
-    "difficultyTier": "discriminate",
+    "difficultyTier": "guided",
     "sequencePriority": 23,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1u01-p-024",
@@ -788,9 +788,9 @@ window.skillrPracticeQuestions = [
     },
     "stage": "discriminate",
     "difficulty": 2,
-    "difficultyTier": "discriminate",
+    "difficultyTier": "guided",
     "sequencePriority": 24,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1u01-p-025",
@@ -821,9 +821,9 @@ window.skillrPracticeQuestions = [
     },
     "stage": "discriminate",
     "difficulty": 2,
-    "difficultyTier": "discriminate",
+    "difficultyTier": "guided",
     "sequencePriority": 25,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1u01-p-026",
@@ -832,8 +832,8 @@ window.skillrPracticeQuestions = [
     "skill": "needs of plants and animals",
     "printable": true,
     "type": "single",
-    "question": "A dog has food and water but is tied in a tiny unsafe space all day. Which need is poorly met?",
-    "audioPrompt": "A dog has food and water but is tied in a tiny unsafe space all day. Which need is poorly met?",
+    "question": "Why does a rabbit need a safe burrow?",
+    "audioPrompt": "Why does a rabbit need a safe burrow?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -841,22 +841,21 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "food",
-      "water",
-      "air only",
-      "space and suitable shelter"
+      "to read",
+      "to paint",
+      "to watch TV",
+      "for shelter"
     ],
     "correct": 3,
-    "explanation": "Animals need enough safe space and suitable conditions, not just food and water.\nHint: Think quality of habitat.",
+    "explanation": "The correct answer is for shelter.",
     "structuredExplanation": {
-      "summary": "Animals need enough safe space and suitable conditions, not just food and water.",
-      "hint": "Think quality of habitat."
+      "summary": "The correct answer is for shelter."
     },
     "stage": "discriminate",
     "difficulty": 2,
-    "difficultyTier": "discriminate",
+    "difficultyTier": "guided",
     "sequencePriority": 26,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1u01-p-027",
@@ -887,9 +886,9 @@ window.skillrPracticeQuestions = [
     },
     "stage": "discriminate",
     "difficulty": 2,
-    "difficultyTier": "discriminate",
+    "difficultyTier": "guided",
     "sequencePriority": 27,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1u01-p-028",
@@ -920,9 +919,9 @@ window.skillrPracticeQuestions = [
     },
     "stage": "discriminate",
     "difficulty": 2,
-    "difficultyTier": "discriminate",
+    "difficultyTier": "guided",
     "sequencePriority": 28,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1u01-p-029",
@@ -953,9 +952,9 @@ window.skillrPracticeQuestions = [
     },
     "stage": "discriminate",
     "difficulty": 2,
-    "difficultyTier": "discriminate",
+    "difficultyTier": "guided",
     "sequencePriority": 29,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1u01-p-030",
@@ -986,9 +985,9 @@ window.skillrPracticeQuestions = [
     },
     "stage": "discriminate",
     "difficulty": 2,
-    "difficultyTier": "discriminate",
+    "difficultyTier": "guided",
     "sequencePriority": 30,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1u01-p-031",
@@ -1018,10 +1017,10 @@ window.skillrPracticeQuestions = [
       "hint": "Meet several needs at once."
     },
     "stage": "apply",
-    "difficulty": 3,
-    "difficultyTier": "apply",
+    "difficulty": 2,
+    "difficultyTier": "guided",
     "sequencePriority": 31,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1u01-p-032",
@@ -1051,10 +1050,10 @@ window.skillrPracticeQuestions = [
       "hint": "What need is missing?"
     },
     "stage": "apply",
-    "difficulty": 3,
-    "difficultyTier": "apply",
+    "difficulty": 2,
+    "difficultyTier": "guided",
     "sequencePriority": 32,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1u01-p-033",
@@ -1085,9 +1084,9 @@ window.skillrPracticeQuestions = [
     },
     "stage": "apply",
     "difficulty": 3,
-    "difficultyTier": "apply",
+    "difficultyTier": "independent",
     "sequencePriority": 33,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1u01-p-034",
@@ -1118,9 +1117,9 @@ window.skillrPracticeQuestions = [
     },
     "stage": "apply",
     "difficulty": 3,
-    "difficultyTier": "apply",
+    "difficultyTier": "independent",
     "sequencePriority": 34,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1u01-p-035",
@@ -1151,9 +1150,9 @@ window.skillrPracticeQuestions = [
     },
     "stage": "apply",
     "difficulty": 3,
-    "difficultyTier": "apply",
+    "difficultyTier": "independent",
     "sequencePriority": 35,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1u01-p-036",
@@ -1184,9 +1183,9 @@ window.skillrPracticeQuestions = [
     },
     "stage": "apply",
     "difficulty": 3,
-    "difficultyTier": "apply",
+    "difficultyTier": "independent",
     "sequencePriority": 36,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1u01-p-037",
@@ -1217,9 +1216,9 @@ window.skillrPracticeQuestions = [
     },
     "stage": "apply",
     "difficulty": 3,
-    "difficultyTier": "apply",
+    "difficultyTier": "independent",
     "sequencePriority": 37,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1u01-p-038",
@@ -1250,9 +1249,9 @@ window.skillrPracticeQuestions = [
     },
     "stage": "apply",
     "difficulty": 3,
-    "difficultyTier": "apply",
+    "difficultyTier": "independent",
     "sequencePriority": 38,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1u01-p-039",
@@ -1261,8 +1260,8 @@ window.skillrPracticeQuestions = [
     "skill": "needs of plants and animals",
     "printable": true,
     "type": "single",
-    "question": "A fish tank has clean water but no dissolved oxygen because the system fails. Which need is affected?",
-    "audioPrompt": "A fish tank has clean water but no dissolved oxygen because the system fails. Which need is affected?",
+    "question": "Which two things do plants and animals both need?",
+    "audioPrompt": "Which two things do plants and animals both need?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -1270,22 +1269,21 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "soil",
-      "toys",
-      "air/oxygen",
-      "light only"
+      "music and games",
+      "toys and paint",
+      "shoes and books",
+      "water and air"
     ],
-    "correct": 2,
-    "explanation": "Fish obtain oxygen from water, so oxygen availability is essential.\nHint: Fish still need oxygen.",
+    "correct": 3,
+    "explanation": "The correct answer is water and air.",
     "structuredExplanation": {
-      "summary": "Fish obtain oxygen from water, so oxygen availability is essential.",
-      "hint": "Fish still need oxygen."
+      "summary": "The correct answer is water and air."
     },
     "stage": "apply",
     "difficulty": 3,
-    "difficultyTier": "apply",
+    "difficultyTier": "independent",
     "sequencePriority": 39,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
   },
   {
     "id": "ac9s1u01-p-040",
@@ -1316,8 +1314,256 @@ window.skillrPracticeQuestions = [
     },
     "stage": "apply",
     "difficulty": 3,
-    "difficultyTier": "apply",
+    "difficultyTier": "independent",
     "sequencePriority": 40,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "reviewed-year1-science-v1"
+  },
+  {
+    "id": "ac9s1u01-p-041",
+    "curriculumCode": "AC9S1U01",
+    "bank": "practice",
+    "skill": "needs of plants and animals",
+    "printable": true,
+    "type": "single",
+    "question": "Which place gives a frog water and shelter?",
+    "audioPrompt": "Which place gives a frog water and shelter?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "a shelf",
+      "a pond with plants",
+      "a dry road",
+      "a hot car"
+    ],
+    "correct": 1,
+    "explanation": "The correct answer is a pond with plants.",
+    "structuredExplanation": {
+      "summary": "The correct answer is a pond with plants."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 41,
+    "qualitySchema": "reviewed-year1-science-v1"
+  },
+  {
+    "id": "ac9s1u01-p-042",
+    "curriculumCode": "AC9S1U01",
+    "bank": "practice",
+    "skill": "needs of plants and animals",
+    "printable": true,
+    "type": "single",
+    "question": "A rabbit hides from rain. Why does it need a safe burrow?",
+    "audioPrompt": "A rabbit hides from rain. Why does it need a safe burrow?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "to paint",
+      "to watch TV",
+      "to read",
+      "for shelter"
+    ],
+    "correct": 3,
+    "explanation": "The correct answer is for shelter.",
+    "structuredExplanation": {
+      "summary": "The correct answer is for shelter."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 42,
+    "qualitySchema": "reviewed-year1-science-v1"
+  },
+  {
+    "id": "ac9s1u01-p-043",
+    "curriculumCode": "AC9S1U01",
+    "bank": "practice",
+    "skill": "needs of plants and animals",
+    "printable": true,
+    "type": "single",
+    "question": "A plant and a bird are living things. Which two things do both need?",
+    "audioPrompt": "A plant and a bird are living things. Which two things do both need?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "shoes and books",
+      "water and air",
+      "music and games",
+      "toys and paint"
+    ],
+    "correct": 1,
+    "explanation": "The correct answer is water and air.",
+    "structuredExplanation": {
+      "summary": "The correct answer is water and air."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 43,
+    "qualitySchema": "reviewed-year1-science-v1"
+  },
+  {
+    "id": "ac9s1u01-p-044",
+    "curriculumCode": "AC9S1U01",
+    "bank": "practice",
+    "skill": "needs of plants and animals",
+    "printable": true,
+    "type": "single",
+    "question": "A plant is kept in a dark box. What does it need?",
+    "audioPrompt": "A plant is kept in a dark box. What does it need?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "light",
+      "a toy",
+      "a blanket",
+      "a spoon"
+    ],
+    "correct": 0,
+    "explanation": "The correct answer is light.",
+    "structuredExplanation": {
+      "summary": "The correct answer is light."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 44,
+    "qualitySchema": "reviewed-year1-science-v1"
+  },
+  {
+    "id": "ac9s1u01-p-045",
+    "curriculumCode": "AC9S1U01",
+    "bank": "practice",
+    "skill": "needs of plants and animals",
+    "printable": true,
+    "type": "single",
+    "question": "A fish needs clean water. What else does it need to live?",
+    "audioPrompt": "A fish needs clean water. What else does it need to live?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "a nest",
+      "air in the water",
+      "a shoe",
+      "dry sand"
+    ],
+    "correct": 1,
+    "explanation": "The correct answer is air in the water.",
+    "structuredExplanation": {
+      "summary": "The correct answer is air in the water."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 45,
+    "qualitySchema": "reviewed-year1-science-v1"
+  },
+  {
+    "id": "ac9s1u01-p-046",
+    "curriculumCode": "AC9S1U01",
+    "bank": "practice",
+    "skill": "needs of plants and animals",
+    "printable": true,
+    "type": "single",
+    "question": "Which action helps a garden plant?",
+    "audioPrompt": "Which action helps a garden plant?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "giving it water",
+      "covering it all day",
+      "putting it in a cupboard",
+      "pulling off leaves"
+    ],
+    "correct": 0,
+    "explanation": "The correct answer is giving it water.",
+    "structuredExplanation": {
+      "summary": "The correct answer is giving it water."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 46,
+    "qualitySchema": "reviewed-year1-science-v1"
+  },
+  {
+    "id": "ac9s1u01-p-047",
+    "curriculumCode": "AC9S1U01",
+    "bank": "practice",
+    "skill": "needs of plants and animals",
+    "printable": true,
+    "type": "single",
+    "question": "What does a young plant need to grow?",
+    "audioPrompt": "What does a young plant need to grow?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "water",
+      "paint",
+      "a hat",
+      "a toy"
+    ],
+    "correct": 0,
+    "explanation": "The correct answer is water.",
+    "structuredExplanation": {
+      "summary": "The correct answer is water."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 47,
+    "qualitySchema": "reviewed-year1-science-v1"
+  },
+  {
+    "id": "ac9s1u01-p-048",
+    "curriculumCode": "AC9S1U01",
+    "bank": "practice",
+    "skill": "needs of plants and animals",
+    "printable": true,
+    "type": "single",
+    "question": "A bird is hungry. What does it need?",
+    "audioPrompt": "A bird is hungry. What does it need?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "a ball",
+      "food",
+      "a book",
+      "paint"
+    ],
+    "correct": 1,
+    "explanation": "The correct answer is food.",
+    "structuredExplanation": {
+      "summary": "The correct answer is food."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 48,
+    "qualitySchema": "reviewed-year1-science-v1"
   }
 ];
