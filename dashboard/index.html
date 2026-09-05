@@ -19,7 +19,7 @@
   <link rel="icon" href="/icons/skillrhub-mark.svg" type="image/svg+xml">
   <link rel="apple-touch-icon" href="/icons/apple-touch-icon.png">
   <link rel="stylesheet" href="/style.css?v=20260813-5">
-  <link rel="stylesheet" href="/dashboard/style.css?v=20260816-3">
+  <link rel="stylesheet" href="/dashboard/style.css?v=20260905-1">
 </head>
 <body class="progress-page">
   <main class="progress-shell">
@@ -98,6 +98,25 @@
       </div>
     </section>
 
+    <section class="year-progress panel" aria-labelledby="yearProgressHeading">
+      <div class="year-progress__copy">
+        <div class="panel-heading">
+          <div><p class="progress-kicker">Year completion</p><h2 id="yearProgressHeading">Charge your learning battery</h2></div>
+          <label class="year-progress__selector" for="yearProgressYear">Year level <select id="yearProgressYear" aria-describedby="yearProgressNote"></select></label>
+        </div>
+        <p id="yearProgressSummary">Complete a Practice or Test for a curriculum skill to charge the battery.</p>
+        <div id="yearSubjectProgress" class="year-subject-progress" aria-label="Completion by subject"></div>
+        <p id="yearProgressNote" class="year-progress__note">Each curriculum skill counts once. Daily Drills and repeat sessions build confidence but do not increase completion twice.</p>
+      </div>
+      <div class="learning-battery-wrap">
+        <div id="learningBattery" class="learning-battery" role="progressbar" aria-label="Year completion" aria-valuemin="0" aria-valuemax="100" aria-valuenow="0">
+          <div id="learningBatteryFill" class="learning-battery__fill"></div>
+          <strong id="yearProgressPercent" class="learning-battery__percent">0%</strong>
+        </div>
+        <span id="yearProgressCount" class="learning-battery__count">0 of 0 skills completed</span>
+      </div>
+    </section>
+
     <section id="overallResult" class="overall-result overall-result--empty" aria-live="polite">
       <div><p class="progress-kicker">Accuracy across activities</p><h2 id="overallLevel">No activity yet</h2><p id="overallDescription">Complete a Daily Drill, Practice or Test to see accuracy across activities.</p></div>
       <strong id="overallPercentage">—</strong>
@@ -111,7 +130,7 @@
     <p class="dashboard-privacy-note">Advertising helps keep SkillrHub free. Ads are kept separate from learning controls and progress information. See our <a href="/privacy-policy.html">Privacy Policy</a>.</p>
   </main>
   <script src="/assets/progress-store.js?v=6" data-skillr-progress="true"></script>
-  <script src="/dashboard/script.js?v=20260816-8"></script>
+  <script src="/dashboard/script.js?v=20260905-1"></script>
   <script src="/assets/first-visit-onboarding.js?v=20260814-dashboard1"></script>
   <script src="/pwa-register.js?v=5"></script>
 </body>

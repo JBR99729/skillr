@@ -141,6 +141,42 @@ body.progress-page { margin:0; color:var(--dash-ink); background:#f3f7fb; font-f
 .overall-result>strong { font-size:2rem; }
 .dashboard-grid { gap:8px; margin-top:8px; }
 .panel { padding:14px; }
+.year-progress {
+  display:grid;
+  grid-template-columns:minmax(0,1fr) minmax(250px,360px);
+  gap:24px;
+  align-items:center;
+  margin-top:8px;
+  border:1px solid #cbd8ee;
+  background:linear-gradient(135deg,#fff 0%,#f1f6ff 100%);
+}
+.year-progress .panel-heading { gap:16px; }
+.year-progress__selector { display:grid; gap:4px; color:var(--dash-muted); font-size:.78rem; font-weight:800; }
+.year-progress__selector select { padding:8px 10px; border:1px solid var(--dash-line); border-radius:9px; background:#fff; color:#172033; font:inherit; }
+.year-progress__copy>p { margin:7px 0; }
+.year-progress__note { color:var(--dash-muted); font-size:.76rem; }
+.learning-battery-wrap { display:grid; justify-items:center; gap:8px; padding-right:14px; }
+.learning-battery {
+  position:relative;
+  width:100%;
+  height:88px;
+  overflow:visible;
+  border:7px solid #263b57;
+  border-radius:14px;
+  background:#e5eaf1;
+  box-shadow:inset 0 0 0 3px #fff,0 8px 20px rgba(38,59,87,.12);
+}
+.learning-battery::after { content:""; position:absolute; top:23px; right:-18px; width:12px; height:30px; border-radius:0 6px 6px 0; background:#263b57; }
+.learning-battery__fill { position:absolute; inset:0 auto 0 0; width:0; border-radius:5px; background:linear-gradient(90deg,#ef7e50 0%,#f5c84b 45%,#43c980 100%); transition:width .55s ease; }
+.learning-battery__percent { position:absolute; inset:0; display:grid; place-items:center; color:#172033; font-size:1.8rem; text-shadow:0 1px 2px #fff,0 0 5px #fff; }
+.learning-battery--complete .learning-battery__fill { background:linear-gradient(90deg,#25a96b,#61db91); }
+.learning-battery__count { color:#294466; font-size:.85rem; font-weight:900; }
+.year-subject-progress { display:grid; gap:6px; margin-top:10px; }
+.subject-charge { display:grid; grid-template-columns:58px minmax(90px,1fr) 48px; gap:8px; align-items:center; font-size:.78rem; }
+.subject-charge>span,.subject-charge>strong { font-weight:850; }
+.subject-charge>strong { text-align:right; }
+.subject-charge__track { height:8px; overflow:hidden; border-radius:99px; background:#dce5f1; }
+.subject-charge__track i { display:block; height:100%; border-radius:inherit; background:#3578e5; }
 .activity-list { margin-top:6px; }
 .activity-item { padding:7px 0; }
 .backup-actions { margin-top:10px; }
@@ -288,4 +324,6 @@ html,body.progress-page { width:100%; max-width:100%; overflow-x:hidden; overflo
 @media(max-width:620px){
   .dashboard-quick-tools { grid-template-columns:1fr; }
   .dashboard-tool-message { grid-column:auto; }
+  .year-progress { grid-template-columns:1fr; }
+  .learning-battery-wrap { padding:0 18px 4px 0; }
 }

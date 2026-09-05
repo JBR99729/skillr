@@ -4,6 +4,7 @@
   let deferredPrompt = null;
   let nameSaveTimer = null;
   let curriculumTitles = new Map();
+  let curriculumUnits = [];
 
   function activityTitle(item) {
     const code = String(item.curriculumCode || "").trim();
@@ -20,6 +21,7 @@
       const response = await fetch("/data/curriculum-units.json?v=3", { cache: "force-cache" });
       if (!response.ok) return;
       const payload = await response.json();
+      curriculumUnits = (payload.units || []).filter((unit) => unit.questionEligible !== false && unit.practiceUrl && unit.code);
       curriculumTitles = new Map((payload.units || []).map((unit) => {
         if (String(unit.code).startsWith("AC9MF")) return [unit.code, unit.title];
         if (unit.code === "AC9M10P01") {
@@ -28,6 +30,7 @@
         const description = String(unit.description || unit.title || "").trim().replace(/[ .]+$/, "");
         return [unit.code, description ? description[0].toUpperCase() + description.slice(1) : "Curriculum activity"];
       }));
+      populateYearOptions();
       render();
     } catch (error) {
       console.error("Could not load curriculum titles:", error);
@@ -58,6 +61,57 @@
     const minutes = Math.floor((Number(seconds) || 0) / 60);
     const hours = Math.floor(minutes / 60);
     return hours ? `${hours}h ${minutes % 60}m` : `${minutes}m`;
+  }
+
+  function yearLabel(yearNumber) {
+    return Number(yearNumber) === 0 ? "Foundation" : `Year ${yearNumber}`;
+  }
+
+  function populateYearOptions() {
+    const select = byId("yearProgressYear");
+    if (!select || !curriculumUnits.length) return;
+    const previous = select.value;
+    const years = [...new Set(curriculumUnits.map((unit) => Number(unit.yearNumber)))].sort((a, b) => a - b);
+    select.innerHTML = years.map((year) => `<option value="${year}">${yearLabel(year)}</option>`).join("");
+    if (years.includes(Number(previous))) select.value = previous;
+  }
+
+  function renderYearProgress(allAttempts) {
+    const select = byId("yearProgressYear");
+    if (!select || !curriculumUnits.length) return;
+    const unitsByCode = new Map(curriculumUnits.map((unit) => [String(unit.code).toUpperCase(), unit]));
+    const latestUnit = allAttempts.map((item) => unitsByCode.get(String(item.curriculumCode || "").toUpperCase())).find(Boolean);
+    if (!select.dataset.chosen && latestUnit) select.value = String(latestUnit.yearNumber);
+    const selectedYear = Number(select.value || 0);
+    const yearUnits = curriculumUnits.filter((unit) => Number(unit.yearNumber) === selectedYear);
+    const completedCodes = new Set(allAttempts
+      .filter((item) => item.mode === "practice" || item.mode === "test")
+      .map((item) => String(item.curriculumCode || "").toUpperCase())
+      .filter((code) => unitsByCode.get(code)?.yearNumber === selectedYear));
+    const completed = completedCodes.size;
+    const total = yearUnits.length;
+    const percentage = total ? Math.round(completed / total * 100) : 0;
+    const battery = byId("learningBattery");
+    battery.setAttribute("aria-valuenow", String(percentage));
+    battery.setAttribute("aria-valuetext", `${completed} of ${total} ${yearLabel(selectedYear)} skills completed`);
+    battery.classList.toggle("learning-battery--complete", percentage === 100);
+    byId("learningBatteryFill").style.width = `${percentage}%`;
+    byId("yearProgressPercent").textContent = `${percentage}%`;
+    byId("yearProgressCount").textContent = `${completed} of ${total} skills completed`;
+    byId("yearProgressSummary").textContent = completed
+      ? `${yearLabel(selectedYear)} is ${percentage}% charged. Complete another curriculum skill to keep building progress.`
+      : `Start a ${yearLabel(selectedYear)} Practice or Test to begin charging the battery.`;
+    const subjects = [
+      ["maths", "Maths"],
+      ["english", "English"],
+      ["science", "Science"]
+    ];
+    byId("yearSubjectProgress").innerHTML = subjects.map(([slug, label]) => {
+      const subjectUnits = yearUnits.filter((unit) => unit.subjectSlug === slug);
+      const subjectCompleted = subjectUnits.filter((unit) => completedCodes.has(String(unit.code).toUpperCase())).length;
+      const subjectPercentage = subjectUnits.length ? Math.round(subjectCompleted / subjectUnits.length * 100) : 0;
+      return `<div class="subject-charge"><span>${label}</span><div class="subject-charge__track" aria-hidden="true"><i style="width:${subjectPercentage}%"></i></div><strong>${subjectCompleted}/${subjectUnits.length}</strong></div>`;
+    }).join("");
   }
 
   function render() {
@@ -93,6 +147,7 @@
     byId("dailyDrillsTaken").textContent = dailyDrills.length;
     byId("testsTaken").textContent = tests.length;
     byId("accuracy").textContent = totalQuestions ? `${percentage}%` : "0%";
+    renderYearProgress(allAttempts);
     const result = byId("overallResult");
     result.className = "overall-result";
     if (!totalQuestions) {
@@ -166,6 +221,7 @@
   });
   byId("datePreset").addEventListener("change",()=>{ byId("customDates").hidden=byId("datePreset").value!=="custom"; render(); });
   byId("dateFrom").addEventListener("change",render); byId("dateTo").addEventListener("change",render);
+  byId("yearProgressYear").addEventListener("change", () => { byId("yearProgressYear").dataset.chosen = "true"; render(); });
 
   function warmupUrl() {
     const state = window.SkillrProgress.read();
