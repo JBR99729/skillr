@@ -1,0 +1,567 @@
+FOUNDATION MATHS — AC9MFST01
+Collect, sort and compare data represented by objects and images in response to given investigative questions that relate to familiar situations.
+
+Status: Frozen v1
+Note: Adult read-aloud support is expected for Foundation students.
+Production note: Keep data displays simple and visual. Use objects, pictures, dots or marks only; avoid formal bar graphs, scaled axes, tables with numbers beyond Foundation counting expectations, or abstract statistical language.
+
+PRACTICE QUESTIONS 1–24
+
+PRACTICE 1
+A class sorted lunch fruit.
+
+Apples: ● ● ● ●
+Bananas: ● ●
+
+Which fruit has more?
+
+A. Bananas
+B. Same number
+C. Apples
+
+Answer: C
+Explanation: Apples have 4 marks. Bananas have 2 marks. Apples have more.
+
+
+PRACTICE 2
+A class sorted favourite pets.
+
+Dogs: ● ● ●
+Cats: ● ● ●
+
+What does the data show?
+
+A. Dogs have more.
+B. Cats have fewer.
+C. Dogs and cats are the same.
+
+Answer: C
+Explanation: Dogs and cats both have 3 marks.
+
+
+PRACTICE 3
+A child sorts buttons by colour.
+Which group should a red button go in?
+
+A. Blue buttons
+B. Big buttons
+C. Red buttons
+
+Answer: C
+Explanation: A red button belongs in the red buttons group.
+
+
+PRACTICE 4
+A class asks, “Do you walk to school?”
+Which answer fits the question?
+
+A. Triangle
+B. Apple
+C. Yes
+
+Answer: C
+Explanation: “Yes” answers the yes/no question.
+
+
+PRACTICE 5
+A class asks, “Do you have a hat today?”
+
+Yes: ● ● ● ● ●
+No: ● ●
+
+Which answer has fewer?
+
+A. Yes
+B. No
+C. Both
+
+Answer: B
+Explanation: No has 2 marks. Yes has 5 marks. No has fewer.
+
+
+PRACTICE 6
+A teacher asks, “Which fruit do you like best?”
+Which choice matches the question?
+
+A. Monday
+B. Under
+C. Apple
+
+Answer: C
+Explanation: Apple is a fruit, so it matches the question.
+
+
+PRACTICE 7
+A class sorted toys.
+
+Cars: ● ● ●
+Blocks: ● ● ● ● ●
+
+Which toy group has more?
+
+A. Cars
+B. Same number
+C. Blocks
+
+Answer: C
+Explanation: Blocks have 5 marks. Cars have 3 marks.
+
+
+PRACTICE 8
+Which question could help collect data about favourite colours?
+
+A. How tall is the door?
+B. Where is the bag?
+C. What is your favourite colour?
+
+Answer: C
+Explanation: Asking about favourite colour helps collect colour data.
+
+
+PRACTICE 9
+A child sorts animals into “has wings” and “no wings”.
+Where should a bird go?
+
+A. No wings
+B. Has wings
+C. Fruit group
+
+Answer: B
+Explanation: A bird has wings.
+
+
+PRACTICE 10
+A child sorts animals into “has wings” and “no wings”.
+Where should a dog go?
+
+A. Has wings
+B. Both groups
+C. No wings
+
+Answer: C
+Explanation: A dog does not have wings.
+
+
+PRACTICE 11
+A class sorted favourite play choices.
+
+Sandpit: ● ● ● ●
+Swings: ● ● ● ●
+
+What does the data show?
+
+A. Sandpit has fewer.
+B. Swings has more.
+C. Sandpit and swings are the same.
+
+Answer: C
+Explanation: Both choices have 4 marks.
+
+
+PRACTICE 12
+Which data group should a picture of a bus go in?
+
+A. Animals
+B. Food
+C. Transport
+
+Answer: C
+Explanation: A bus is a type of transport.
+
+
+PRACTICE 13
+A class sorted shoes.
+
+Shoelaces: ● ● ●
+No shoelaces: ● ● ● ●
+
+Which group has fewer?
+
+A. Shoelaces
+B. No shoelaces
+C. Same number
+
+Answer: A
+Explanation: Shoelaces has 3 marks. No shoelaces has 4 marks.
+
+
+PRACTICE 14
+A class sorted weather pictures.
+
+Sunny: ● ● ● ● ●
+Rainy: ● ●
+
+Which weather has more pictures?
+
+A. Rainy
+B. Sunny
+C. Same number
+
+Answer: B
+Explanation: Sunny has 5 pictures. Rainy has 2 pictures.
+
+
+PRACTICE 15
+Which item belongs in the “food” group?
+
+A. Pencil
+B. Ball
+C. Sandwich
+
+Answer: C
+Explanation: A sandwich is food.
+
+
+PRACTICE 16
+Which item belongs in the “classroom things” group?
+
+A. Desk
+B. Dog
+C. Banana
+
+Answer: A
+Explanation: A desk is a classroom thing.
+
+
+PRACTICE 17
+A class asks, “Do you like apples?”
+
+Yes: ● ● ●
+No: ●
+
+What does the data show?
+
+A. More children said yes.
+B. More children said no.
+C. No children answered.
+
+Answer: A
+Explanation: Yes has 3 marks. No has 1 mark.
+
+
+PRACTICE 18
+A class asks, “Do you have a pet?”
+
+Yes: ● ●
+No: ● ● ● ●
+
+What does the data show?
+
+A. Yes has more.
+B. No has more.
+C. Both are the same.
+
+Answer: B
+Explanation: No has 4 marks. Yes has 2 marks.
+
+
+PRACTICE 19
+Which question is about collecting data?
+
+A. Is the pencil longer?
+B. Is the ball under the chair?
+C. What is your favourite fruit?
+
+Answer: C
+Explanation: Favourite fruit answers can be collected and sorted.
+
+
+PRACTICE 20
+A child sorted shapes.
+
+Circles: ● ● ● ●
+Triangles: ● ● ●
+
+Which group has more?
+
+A. Triangles
+B. Same number
+C. Circles
+
+Answer: C
+Explanation: Circles have 4 marks. Triangles have 3 marks.
+
+
+PRACTICE 21
+A class sorted favourite drinks.
+
+Water: ● ● ●
+Milk: ● ●
+Juice: ● ● ●
+
+Which two groups are the same?
+
+A. Water and juice
+B. Milk and juice
+C. Water and milk
+
+Answer: A
+Explanation: Water and juice both have 3 marks.
+
+
+PRACTICE 22
+A child sorts pictures into “animals” and “not animals”.
+Where should a cat picture go?
+
+A. Not animals
+B. Animals
+C. Colours
+
+Answer: B
+Explanation: A cat is an animal.
+
+
+PRACTICE 23
+A class sorted favourite games.
+
+Running: ● ● ● ●
+Skipping: ● ●
+Blocks: ● ● ●
+
+Which has the fewest?
+
+A. Running
+B. Skipping
+C. Blocks
+
+Answer: B
+Explanation: Skipping has 2 marks, the fewest.
+
+
+PRACTICE 24
+Why do we sort answers into groups?
+
+A. To make the data easier to compare.
+B. To make all answers disappear.
+C. To stop counting.
+
+Answer: A
+Explanation: Sorting data into groups helps us compare the groups.
+
+
+TEST QUESTIONS 1–16
+
+TEST 1
+A class sorted favourite fruit.
+
+Apples: ● ● ●
+Oranges: ● ● ● ●
+
+Which fruit has more?
+
+A. Apples
+B. Oranges
+C. Same number
+
+Answer: B
+Explanation: Oranges have 4 marks. Apples have 3 marks.
+
+
+TEST 2
+A class sorted pets.
+
+Fish: ● ●
+Birds: ● ●
+
+What does the data show?
+
+A. Fish and birds are the same.
+B. Fish has more.
+C. Birds has fewer.
+
+Answer: A
+Explanation: Fish and birds both have 2 marks.
+
+
+TEST 3
+Which group should a blue pencil go in?
+
+A. Red things
+B. Food
+C. Blue things
+
+Answer: C
+Explanation: A blue pencil belongs with blue things.
+
+
+TEST 4
+Which question can collect yes/no data?
+
+A. Do you bring lunch?
+B. Which shape has 3 sides?
+C. Where is the chair?
+
+Answer: A
+Explanation: “Do you bring lunch?” can be answered yes or no.
+
+
+TEST 5
+A class asks, “Do you ride a bike?”
+
+Yes: ● ● ● ●
+No: ● ●
+
+Which group has fewer?
+
+A. Yes
+B. No
+C. Both
+
+Answer: B
+Explanation: No has 2 marks. Yes has 4 marks.
+
+
+TEST 6
+A child sorts transport pictures.
+Which picture belongs?
+
+A. Car
+B. Apple
+C. Cat
+
+Answer: A
+Explanation: A car is transport.
+
+
+TEST 7
+A class sorted favourite activities.
+
+Drawing: ● ● ●
+Reading: ● ● ● ● ●
+
+Which has more?
+
+A. Drawing
+B. Reading
+C. Same number
+
+Answer: B
+Explanation: Reading has 5 marks. Drawing has 3 marks.
+
+
+TEST 8
+A child sorts objects into “food” and “not food”.
+Where should a banana go?
+
+A. Not food
+B. Food
+C. Transport
+
+Answer: B
+Explanation: A banana is food.
+
+
+TEST 9
+A class sorted weather.
+
+Cloudy: ● ● ●
+Sunny: ● ● ●
+
+What does the data show?
+
+A. Sunny has more.
+B. Cloudy has fewer.
+C. They are the same.
+
+Answer: C
+Explanation: Both groups have 3 marks.
+
+
+TEST 10
+Which question is about favourite animals?
+
+A. What is your favourite animal?
+B. Which cup holds more?
+C. What day is tomorrow?
+
+Answer: A
+Explanation: The question asks for animal choices that can be sorted.
+
+
+TEST 11
+A class sorted toys.
+
+Teddy bears: ● ●
+Blocks: ● ● ● ●
+Balls: ● ● ●
+
+Which group has the most?
+
+A. Teddy bears
+B. Blocks
+C. Balls
+
+Answer: B
+Explanation: Blocks have 4 marks, the most.
+
+
+TEST 12
+A class sorted toys.
+
+Teddy bears: ● ●
+Blocks: ● ● ● ●
+Balls: ● ● ●
+
+Which group has the fewest?
+
+A. Teddy bears
+B. Blocks
+C. Balls
+
+Answer: A
+Explanation: Teddy bears have 2 marks, the fewest.
+
+
+TEST 13
+A child sorts pictures into “animals” and “food”.
+Where should a dog picture go?
+
+A. Food
+B. Animals
+C. Shapes
+
+Answer: B
+Explanation: A dog is an animal.
+
+
+TEST 14
+A class sorted favourite colours.
+
+Red: ● ● ● ●
+Blue: ● ●
+Green: ● ●
+
+Which two colours are the same?
+
+A. Red and blue
+B. Blue and green
+C. Red and green
+
+Answer: B
+Explanation: Blue and green both have 2 marks.
+
+
+TEST 15
+Which answer best compares the data?
+
+Walk: ● ● ●
+Car: ● ● ● ● ●
+
+A. More children came by car.
+B. More children walked.
+C. Walk and car are the same.
+
+Answer: A
+Explanation: Car has 5 marks. Walk has 3 marks.
+
+
+TEST 16
+Why is it helpful to put data into groups?
+
+A. It changes the answers.
+B. It makes every group the same.
+C. It helps us see more, fewer or same.
+
+Answer: C
+Explanation: Groups help us compare the data.
+
