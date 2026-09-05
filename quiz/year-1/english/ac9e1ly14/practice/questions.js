@@ -4,1161 +4,1440 @@ window.skillrPracticeQuestions = [
     "id": "ac9e1ly14-p-001",
     "curriculumCode": "AC9E1LY14",
     "bank": "practice",
-    "skill": "ac9e1ly14 01 recognise",
+    "skill": "read and write an increasing number of high-frequency words",
     "printable": true,
     "type": "single",
-    "question": "Read the word one in 'I have one bag.'",
-    "audioPrompt": "Read the word one in 'I have one bag.'",
-    "visual": "📖 Read a common word; 🔎 high-frequency; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Read a common word; 🔎 high-frequency; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly14.svg#ac9e1ly14-p-001\"></use></svg>",
+    "question": "Which word completes the sentence? “Mia ___ happy.”",
+    "audioPrompt": "Which word completes the sentence? “Mia ___ happy.”",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly14.svg#ac9e1ly14-p-001",
-      "alt_text": "📖 Read a common word; 🔎 high-frequency; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "One",
-      "I",
-      "have"
+      "be",
+      "were",
+      "was"
     ],
-    "correct": 0,
-    "explanation": "One This matches the task.\nHint: Map sounds and tricky letters.",
+    "correct": 2,
+    "explanation": "was is the best answer.",
     "structuredExplanation": {
-      "summary": "One This matches the task.",
-      "hint": "Map sounds and tricky letters."
+      "summary": "was is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 1
   },
   {
     "id": "ac9e1ly14-p-002",
     "curriculumCode": "AC9E1LY14",
     "bank": "practice",
-    "skill": "ac9e1ly14 02 recognise",
+    "skill": "read and write an increasing number of high-frequency words",
     "printable": true,
     "type": "single",
-    "question": "Which response would correctly match words and sentences?",
-    "audioPrompt": "Which response would correctly match words and sentences?",
-    "visual": "📖 Match words and sentences; 🔎 tricky part; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Match words and sentences; 🔎 tricky part; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly14.svg#ac9e1ly14-p-003\"></use></svg>",
+    "question": "Which word completes: “___ dog is small.”",
+    "audioPrompt": "Which word completes: “___ dog is small.”",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly14.svg#ac9e1ly14-p-003",
-      "alt_text": "📖 Match words and sentences; 🔎 tricky part; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "I __ a hat",
-      "Mia __ hello",
-      "Have ↔ possess hat; said ↔ spoke hello; pretty ↔ describes shell"
+      "They",
+      "The",
+      "Then"
     ],
-    "correct": 2,
-    "explanation": "Have ↔ possess hat; said ↔ spoke hello; pretty ↔ describes shell This matches the task.\nHint: Use it in a sentence.",
+    "correct": 1,
+    "explanation": "The is the best answer.",
     "structuredExplanation": {
-      "summary": "Have ↔ possess hat; said ↔ spoke hello; pretty ↔ describes shell This matches the task.",
-      "hint": "Use it in a sentence."
+      "summary": "The is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 2
   },
   {
     "id": "ac9e1ly14-p-003",
     "curriculumCode": "AC9E1LY14",
     "bank": "practice",
-    "skill": "ac9e1ly14 03 recognise",
+    "skill": "read and write an increasing number of high-frequency words",
     "printable": true,
     "type": "single",
-    "question": "Which response would correctly write from memory?",
-    "audioPrompt": "Which response would correctly write from memory?",
-    "visual": "📖 Write from memory; 🔎 read; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Write from memory; 🔎 read; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly14.svg#ac9e1ly14-p-005\"></use></svg>",
+    "question": "Which word completes: “Can ___ help me?”",
+    "audioPrompt": "Which word completes: “Can ___ help me?”",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly14.svg#ac9e1ly14-p-005",
-      "alt_text": "📖 Write from memory; 🔎 read; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Ignore errors.",
-      "h-a-v-e in correct order, with self-check",
-      "Memorise only the word shape."
+      "yes",
+      "you",
+      "your"
     ],
     "correct": 1,
-    "explanation": "h-a-v-e in correct order, with self-check This matches the task.\nHint: Cover, write and check carefully.",
+    "explanation": "you is the best answer.",
     "structuredExplanation": {
-      "summary": "h-a-v-e in correct order, with self-check This matches the task.",
-      "hint": "Cover, write and check carefully."
+      "summary": "you is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 3
   },
   {
     "id": "ac9e1ly14-p-004",
     "curriculumCode": "AC9E1LY14",
     "bank": "practice",
-    "skill": "ac9e1ly14 04 recognise",
+    "skill": "read and write an increasing number of high-frequency words",
     "printable": true,
     "type": "single",
-    "question": "Which response would correctly find the tricky part?",
-    "audioPrompt": "Which response would correctly find the tricky part?",
-    "visual": "📖 Find the tricky part; 🔎 write; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Find the tricky part; 🔎 write; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly14.svg#ac9e1ly14-p-007\"></use></svg>",
+    "question": "Which word completes: “___ are my friends.”",
+    "audioPrompt": "Which word completes: “___ are my friends.”",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly14.svg#ac9e1ly14-p-007",
-      "alt_text": "📖 Find the tricky part; 🔎 write; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "The whole pronunciation is less predictable from o-n-e",
-      "Memorise only the word shape.",
-      "Do not use it in a sentence."
+      "The",
+      "They",
+      "Them"
     ],
-    "correct": 0,
-    "explanation": "The whole pronunciation is less predictable from o-n-e This matches the task.\nHint: Map sounds and tricky letters.",
+    "correct": 1,
+    "explanation": "They is the best answer.",
     "structuredExplanation": {
-      "summary": "The whole pronunciation is less predictable from o-n-e This matches the task.",
-      "hint": "Map sounds and tricky letters."
+      "summary": "They is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 4
   },
   {
     "id": "ac9e1ly14-p-005",
     "curriculumCode": "AC9E1LY14",
     "bank": "practice",
-    "skill": "ac9e1ly14 05 recognise",
+    "skill": "read and write an increasing number of high-frequency words",
     "printable": true,
     "type": "single",
-    "question": "Which response would correctly order word practice?",
-    "audioPrompt": "Which response would correctly order word practice?",
-    "visual": "📖 Order word practice; 🔎 sentence; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Order word practice; 🔎 sentence; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly14.svg#ac9e1ly14-p-009\"></use></svg>",
+    "question": "Which word completes: “Please ___ here.”",
+    "audioPrompt": "Which word completes: “Please ___ here.”",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly14.svg#ac9e1ly14-p-009",
-      "alt_text": "📖 Order word practice; 🔎 sentence; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "check/correct → cover/write → notice → Read",
-      "Do not use it in a sentence.",
-      "Read → notice → cover/write → check/correct"
+      "came",
+      "come",
+      "coming"
     ],
-    "correct": 2,
-    "explanation": "Read → notice → cover/write → check/correct This matches the task.\nHint: Use it in a sentence.",
+    "correct": 1,
+    "explanation": "come is the best answer.",
     "structuredExplanation": {
-      "summary": "Read → notice → cover/write → check/correct This matches the task.",
-      "hint": "Use it in a sentence."
+      "summary": "come is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 5
   },
   {
     "id": "ac9e1ly14-p-006",
     "curriculumCode": "AC9E1LY14",
     "bank": "practice",
-    "skill": "ac9e1ly14 06 recognise",
+    "skill": "read and write an increasing number of high-frequency words",
     "printable": true,
     "type": "single",
-    "question": "Which response would correctly draw a word memory card?",
-    "audioPrompt": "Which response would correctly draw a word memory card?",
-    "visual": "📖 Draw a word memory card; 🔎 high-frequency; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Draw a word memory card; 🔎 high-frequency; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly14.svg#ac9e1ly14-p-011\"></use></svg>",
+    "question": "Which word completes: “My kite is ___.”",
+    "audioPrompt": "Which word completes: “My kite is ___.”",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly14.svg#ac9e1ly14-p-011",
-      "alt_text": "📖 Draw a word memory card; 🔎 high-frequency; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Ignore errors.",
-      "Said spelled correctly, sentence meaningful and ai highlighted as remembered spelling",
-      "Memorise only the word shape."
+      "her",
+      "hear",
+      "here"
     ],
-    "correct": 1,
-    "explanation": "Said spelled correctly, sentence meaningful and ai highlighted as remembered spelling This matches the task.\nHint: Cover, write and check carefully.",
+    "correct": 2,
+    "explanation": "here is the best answer.",
     "structuredExplanation": {
-      "summary": "Said spelled correctly, sentence meaningful and ai highlighted as remembered spelling This matches the task.",
-      "hint": "Cover, write and check carefully."
+      "summary": "here is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 6
   },
   {
     "id": "ac9e1ly14-p-007",
     "curriculumCode": "AC9E1LY14",
     "bank": "practice",
-    "skill": "ac9e1ly14 07 recognise",
+    "skill": "read and write an increasing number of high-frequency words",
     "printable": true,
     "type": "single",
-    "question": "Complete 'They __ coming with us' using are or our.",
-    "audioPrompt": "Complete 'They __ coming with us' using are or our.",
-    "visual": "📖 Choose the correct word; 🔎 tricky part; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Choose the correct word; 🔎 tricky part; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly14.svg#ac9e1ly14-p-013\"></use></svg>",
+    "question": "Which word completes: “I have ___ apples.”",
+    "audioPrompt": "Which word completes: “I have ___ apples.”",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly14.svg#ac9e1ly14-p-013",
-      "alt_text": "📖 Choose the correct word; 🔎 tricky part; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Are",
-      "our",
-      "They"
+      "same",
+      "some",
+      "sum"
     ],
-    "correct": 0,
-    "explanation": "Are This matches the task.\nHint: Map sounds and tricky letters.",
+    "correct": 1,
+    "explanation": "some is the best answer.",
     "structuredExplanation": {
-      "summary": "Are This matches the task.",
-      "hint": "Map sounds and tricky letters."
+      "summary": "some is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 7
   },
   {
     "id": "ac9e1ly14-p-008",
     "curriculumCode": "AC9E1LY14",
     "bank": "practice",
-    "skill": "ac9e1ly14 08 recognise",
+    "skill": "read and write an increasing number of high-frequency words",
     "printable": true,
     "type": "single",
-    "question": "Correct: 'I hav one littel bag.'",
-    "audioPrompt": "Correct: 'I hav one littel bag.'",
-    "visual": "📖 Edit a common-word sentence; 🔎 read; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Edit a common-word sentence; 🔎 read; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly14.svg#ac9e1ly14-p-015\"></use></svg>",
+    "question": "Which word completes: “Max ___ hello.”",
+    "audioPrompt": "Which word completes: “Max ___ hello.”",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly14.svg#ac9e1ly14-p-015",
-      "alt_text": "📖 Edit a common-word sentence; 🔎 read; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "I hav one littel bag",
-      "Do not use it in a sentence.",
-      "'I have one little bag.'"
+      "say",
+      "said",
+      "sad"
     ],
-    "correct": 2,
-    "explanation": "'I have one little bag.' This matches the task.\nHint: Use it in a sentence.",
+    "correct": 1,
+    "explanation": "said is the best answer.",
     "structuredExplanation": {
-      "summary": "'I have one little bag.' This matches the task.",
-      "hint": "Use it in a sentence."
+      "summary": "said is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 8
   },
   {
     "id": "ac9e1ly14-p-009",
     "curriculumCode": "AC9E1LY14",
     "bank": "practice",
-    "skill": "ac9e1ly14 09 recognise",
+    "skill": "read and write an increasing number of high-frequency words",
     "printable": true,
     "type": "single",
-    "question": "Which response would correctly read without picture guessing?",
-    "audioPrompt": "Which response would correctly read without picture guessing?",
-    "visual": "📖 Read without picture guessing; 🔎 write; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Read without picture guessing; 🔎 write; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly14.svg#ac9e1ly14-p-017\"></use></svg>",
+    "question": "Which word completes the sentence? “Ben ___ happy.”",
+    "audioPrompt": "Which word completes the sentence? “Ben ___ happy.”",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly14.svg#ac9e1ly14-p-017",
-      "alt_text": "📖 Read without picture guessing; 🔎 write; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Come here, please",
-      "Come and here",
-      "Ignore errors."
+      "was",
+      "were",
+      "be"
     ],
-    "correct": 1,
-    "explanation": "Come and here This matches the task.\nHint: Cover, write and check carefully.",
+    "correct": 0,
+    "explanation": "was is the best answer.",
     "structuredExplanation": {
-      "summary": "Come and here This matches the task.",
-      "hint": "Cover, write and check carefully."
+      "summary": "was is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 9
   },
   {
     "id": "ac9e1ly14-p-010",
     "curriculumCode": "AC9E1LY14",
     "bank": "practice",
-    "skill": "ac9e1ly14 10 recognise",
+    "skill": "read and write an increasing number of high-frequency words",
     "printable": true,
     "type": "single",
-    "question": "Which response would correctly match commonly confused words?",
-    "audioPrompt": "Which response would correctly match commonly confused words?",
-    "visual": "📖 Match commonly confused words; 🔎 sentence; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Match commonly confused words; 🔎 sentence; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly14.svg#ac9e1ly14-p-019\"></use></svg>",
+    "question": "Which word completes: “___ fox is small.”",
+    "audioPrompt": "Which word completes: “___ fox is small.”",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly14.svg#ac9e1ly14-p-019",
-      "alt_text": "📖 Match commonly confused words; 🔎 sentence; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Where ↔ place question; were ↔ past are; we're ↔ we are",
-      "Where ↔ past are; were ↔ we are; we're ↔ place question",
-      "Memorise only the word shape."
+      "Then",
+      "They",
+      "The"
     ],
-    "correct": 0,
-    "explanation": "Where ↔ place question; were ↔ past are; we're ↔ we are This matches the task.\nHint: Map sounds and tricky letters.",
+    "correct": 2,
+    "explanation": "The is the best answer.",
     "structuredExplanation": {
-      "summary": "Where ↔ place question; were ↔ past are; we're ↔ we are This matches the task.",
-      "hint": "Map sounds and tricky letters."
+      "summary": "The is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 10
   },
   {
     "id": "ac9e1ly14-p-011",
     "curriculumCode": "AC9E1LY14",
     "bank": "practice",
-    "skill": "ac9e1ly14 01 explain",
+    "skill": "read and write an increasing number of high-frequency words",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you read a common word?",
-    "audioPrompt": "Which tip would help you read a common word?",
-    "visual": "🧠 Read a common word; ➡️ Read word; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Read a common word; ➡️ Read word; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly14.svg#ac9e1ly14-p-002\"></use></svg>",
+    "question": "Which word completes: “Can ___ help me?”",
+    "audioPrompt": "Which word completes: “Can ___ help me?”",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly14.svg#ac9e1ly14-p-002",
-      "alt_text": "🧠 Read a common word; ➡️ Read word; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Do not use it in a sentence.",
-      "Map sounds and tricky letters.",
-      "Ignore errors."
+      "your",
+      "you",
+      "yes"
     ],
     "correct": 1,
-    "explanation": "Map sounds and tricky letters.\nHint: Map sounds and tricky letters.",
+    "explanation": "you is the best answer.",
     "structuredExplanation": {
-      "summary": "Map sounds and tricky letters.",
-      "hint": "Map sounds and tricky letters."
+      "summary": "you is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 11
   },
   {
     "id": "ac9e1ly14-p-012",
     "curriculumCode": "AC9E1LY14",
     "bank": "practice",
-    "skill": "ac9e1ly14 02 explain",
+    "skill": "read and write an increasing number of high-frequency words",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you match words and sentences?",
-    "audioPrompt": "Which tip would help you match words and sentences?",
-    "visual": "🧠 Match words and sentences; ➡️ Say word; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Match words and sentences; ➡️ Say word; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly14.svg#ac9e1ly14-p-004\"></use></svg>",
+    "question": "Which word completes: “___ are my friends.”",
+    "audioPrompt": "Which word completes: “___ are my friends.”",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly14.svg#ac9e1ly14-p-004",
-      "alt_text": "🧠 Match words and sentences; ➡️ Say word; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Use this routine: Read word → Say word → Map tricky part → Write → Use in sentence.",
-      "Ignore errors.",
-      "Memorise only the word shape."
+      "They",
+      "The",
+      "Them"
     ],
     "correct": 0,
-    "explanation": "Use this routine: Read word → Say word → Map tricky part → Write → Use in sentence.\nHint: Use it in a sentence.",
+    "explanation": "They is the best answer.",
     "structuredExplanation": {
-      "summary": "Use this routine: Read word → Say word → Map tricky part → Write → Use in sentence.",
-      "hint": "Use it in a sentence."
+      "summary": "They is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 12
   },
   {
     "id": "ac9e1ly14-p-013",
     "curriculumCode": "AC9E1LY14",
     "bank": "practice",
-    "skill": "ac9e1ly14 03 explain",
+    "skill": "read and write an increasing number of high-frequency words",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you write from memory?",
-    "audioPrompt": "Which tip would help you write from memory?",
-    "visual": "🧠 Write from memory; ➡️ Map tricky part; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Write from memory; ➡️ Map tricky part; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly14.svg#ac9e1ly14-p-006\"></use></svg>",
+    "question": "Which word completes: “Please ___ here.”",
+    "audioPrompt": "Which word completes: “Please ___ here.”",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly14.svg#ac9e1ly14-p-006",
-      "alt_text": "🧠 Write from memory; ➡️ Map tricky part; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Memorise only the word shape.",
-      "Do not use it in a sentence.",
-      "Look for read and check the whole example."
+      "coming",
+      "came",
+      "come"
     ],
     "correct": 2,
-    "explanation": "Look for read and check the whole example.\nHint: Cover, write and check carefully.",
+    "explanation": "come is the best answer.",
     "structuredExplanation": {
-      "summary": "Look for read and check the whole example.",
-      "hint": "Cover, write and check carefully."
+      "summary": "come is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 13
   },
   {
     "id": "ac9e1ly14-p-014",
     "curriculumCode": "AC9E1LY14",
     "bank": "practice",
-    "skill": "ac9e1ly14 04 explain",
+    "skill": "read and write an increasing number of high-frequency words",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you find the tricky part?",
-    "audioPrompt": "Which tip would help you find the tricky part?",
-    "visual": "🧠 Find the tricky part; ➡️ Write; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Find the tricky part; ➡️ Write; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly14.svg#ac9e1ly14-p-008\"></use></svg>",
+    "question": "Which word completes: “My hat is ___.”",
+    "audioPrompt": "Which word completes: “My hat is ___.”",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly14.svg#ac9e1ly14-p-008",
-      "alt_text": "🧠 Find the tricky part; ➡️ Write; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Do not use it in a sentence.",
-      "Check that you can use in sentences.",
-      "Ignore errors."
+      "hear",
+      "here",
+      "her"
     ],
     "correct": 1,
-    "explanation": "Check that you can use in sentences.\nHint: Map sounds and tricky letters.",
+    "explanation": "here is the best answer.",
     "structuredExplanation": {
-      "summary": "Check that you can use in sentences.",
-      "hint": "Map sounds and tricky letters."
+      "summary": "here is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 14
   },
   {
     "id": "ac9e1ly14-p-015",
     "curriculumCode": "AC9E1LY14",
     "bank": "practice",
-    "skill": "ac9e1ly14 05 explain",
+    "skill": "read and write an increasing number of high-frequency words",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you order word practice?",
-    "audioPrompt": "Which tip would help you order word practice?",
-    "visual": "🧠 Order word practice; ➡️ Use in sentence; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Order word practice; ➡️ Use in sentence; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly14.svg#ac9e1ly14-p-010\"></use></svg>",
+    "question": "Which word completes: “I have ___ apples.”",
+    "audioPrompt": "Which word completes: “I have ___ apples.”",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly14.svg#ac9e1ly14-p-010",
-      "alt_text": "🧠 Order word practice; ➡️ Use in sentence; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Sequencing an effective high-frequency-word routine.",
-      "Ignore errors.",
-      "Memorise only the word shape."
+      "some",
+      "same",
+      "sum"
     ],
     "correct": 0,
-    "explanation": "Sequencing an effective high-frequency-word routine.\nHint: Use it in a sentence.",
+    "explanation": "some is the best answer.",
     "structuredExplanation": {
-      "summary": "Sequencing an effective high-frequency-word routine.",
-      "hint": "Use it in a sentence."
+      "summary": "some is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 15
   },
   {
     "id": "ac9e1ly14-p-016",
     "curriculumCode": "AC9E1LY14",
     "bank": "practice",
-    "skill": "ac9e1ly14 06 explain",
+    "skill": "read and write an increasing number of high-frequency words",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you draw a word memory card?",
-    "audioPrompt": "Which tip would help you draw a word memory card?",
-    "visual": "🧠 Draw a word memory card; ➡️ Read word; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Draw a word memory card; ➡️ Read word; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly14.svg#ac9e1ly14-p-012\"></use></svg>",
+    "question": "Which word completes: “Mia ___ hello.”",
+    "audioPrompt": "Which word completes: “Mia ___ hello.”",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly14.svg#ac9e1ly14-p-012",
-      "alt_text": "🧠 Draw a word memory card; ➡️ Read word; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Memorise only the word shape.",
-      "Do not use it in a sentence.",
-      "Cover, write and check carefully."
+      "say",
+      "sad",
+      "said"
     ],
     "correct": 2,
-    "explanation": "Cover, write and check carefully.\nHint: Cover, write and check carefully.",
+    "explanation": "said is the best answer.",
     "structuredExplanation": {
-      "summary": "Cover, write and check carefully.",
-      "hint": "Cover, write and check carefully."
+      "summary": "said is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 16
   },
   {
     "id": "ac9e1ly14-p-017",
     "curriculumCode": "AC9E1LY14",
     "bank": "practice",
-    "skill": "ac9e1ly14 07 explain",
+    "skill": "read and write an increasing number of high-frequency words",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you choose the correct word?",
-    "audioPrompt": "Which tip would help you choose the correct word?",
-    "visual": "🧠 Choose the correct word; ➡️ Say word; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Choose the correct word; ➡️ Say word; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly14.svg#ac9e1ly14-p-014\"></use></svg>",
+    "question": "Which word completes the sentence? “Sam ___ happy.”",
+    "audioPrompt": "Which word completes the sentence? “Sam ___ happy.”",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly14.svg#ac9e1ly14-p-014",
-      "alt_text": "🧠 Choose the correct word; ➡️ Say word; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Do not use it in a sentence.",
-      "Use this routine: Read word → Say word → Map tricky part → Write → Use in sentence.",
-      "Ignore errors."
+      "were",
+      "be",
+      "was"
     ],
-    "correct": 1,
-    "explanation": "Use this routine: Read word → Say word → Map tricky part → Write → Use in sentence.\nHint: Map sounds and tricky letters.",
+    "correct": 2,
+    "explanation": "was is the best answer.",
     "structuredExplanation": {
-      "summary": "Use this routine: Read word → Say word → Map tricky part → Write → Use in sentence.",
-      "hint": "Map sounds and tricky letters."
+      "summary": "was is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 2,
+    "difficultyTier": "guided",
+    "sequencePriority": 17
   },
   {
     "id": "ac9e1ly14-p-018",
     "curriculumCode": "AC9E1LY14",
     "bank": "practice",
-    "skill": "ac9e1ly14 08 explain",
+    "skill": "read and write an increasing number of high-frequency words",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you edit a common-word sentence?",
-    "audioPrompt": "Which tip would help you edit a common-word sentence?",
-    "visual": "🧠 Edit a common-word sentence; ➡️ Map tricky part; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Edit a common-word sentence; ➡️ Map tricky part; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly14.svg#ac9e1ly14-p-016\"></use></svg>",
+    "question": "Which word completes: “___ duck is small.”",
+    "audioPrompt": "Which word completes: “___ duck is small.”",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly14.svg#ac9e1ly14-p-016",
-      "alt_text": "🧠 Edit a common-word sentence; ➡️ Map tricky part; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Look for read and check the whole example.",
-      "Ignore errors.",
-      "Memorise only the word shape."
+      "The",
+      "Then",
+      "They"
     ],
     "correct": 0,
-    "explanation": "Look for read and check the whole example.\nHint: Use it in a sentence.",
+    "explanation": "The is the best answer.",
     "structuredExplanation": {
-      "summary": "Look for read and check the whole example.",
-      "hint": "Use it in a sentence."
+      "summary": "The is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 2,
+    "difficultyTier": "guided",
+    "sequencePriority": 18
   },
   {
     "id": "ac9e1ly14-p-019",
     "curriculumCode": "AC9E1LY14",
     "bank": "practice",
-    "skill": "ac9e1ly14 09 explain",
+    "skill": "read and write an increasing number of high-frequency words",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you read without picture guessing?",
-    "audioPrompt": "Which tip would help you read without picture guessing?",
-    "visual": "🧠 Read without picture guessing; ➡️ Write; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Read without picture guessing; ➡️ Write; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly14.svg#ac9e1ly14-p-018\"></use></svg>",
+    "question": "Read and choose: Which word completes: “Can ___ help me?”",
+    "audioPrompt": "Read and choose: Which word completes: “Can ___ help me?”",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly14.svg#ac9e1ly14-p-018",
-      "alt_text": "🧠 Read without picture guessing; ➡️ Write; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Memorise only the word shape.",
-      "Do not use it in a sentence.",
-      "Check that you can use in sentences."
+      "yes",
+      "you",
+      "your"
     ],
-    "correct": 2,
-    "explanation": "Check that you can use in sentences.\nHint: Cover, write and check carefully.",
+    "correct": 1,
+    "explanation": "you is the best answer.",
     "structuredExplanation": {
-      "summary": "Check that you can use in sentences.",
-      "hint": "Cover, write and check carefully."
+      "summary": "you is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 2,
+    "difficultyTier": "guided",
+    "sequencePriority": 19
   },
   {
     "id": "ac9e1ly14-p-020",
     "curriculumCode": "AC9E1LY14",
     "bank": "practice",
-    "skill": "ac9e1ly14 10 explain",
+    "skill": "read and write an increasing number of high-frequency words",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you match commonly confused words?",
-    "audioPrompt": "Which tip would help you match commonly confused words?",
-    "visual": "🧠 Match commonly confused words; ➡️ Use in sentence; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Match commonly confused words; ➡️ Use in sentence; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly14.svg#ac9e1ly14-p-020\"></use></svg>",
+    "question": "Which word completes: “___ are my friends.”",
+    "audioPrompt": "Which word completes: “___ are my friends.”",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly14.svg#ac9e1ly14-p-020",
-      "alt_text": "🧠 Match commonly confused words; ➡️ Use in sentence; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Do not use it in a sentence.",
-      "Distinguishing visually similar frequent words.",
-      "Ignore errors."
+      "They",
+      "Them",
+      "The"
     ],
-    "correct": 1,
-    "explanation": "Distinguishing visually similar frequent words.\nHint: Map sounds and tricky letters.",
+    "correct": 0,
+    "explanation": "They is the best answer.",
     "structuredExplanation": {
-      "summary": "Distinguishing visually similar frequent words.",
-      "hint": "Map sounds and tricky letters."
+      "summary": "They is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 2,
+    "difficultyTier": "guided",
+    "sequencePriority": 20
   },
   {
     "id": "ac9e1ly14-p-021",
     "curriculumCode": "AC9E1LY14",
     "bank": "practice",
-    "skill": "ac9e1ly14 01 discriminate",
+    "skill": "read and write an increasing number of high-frequency words",
     "printable": true,
     "type": "single",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": "📖 Read a common word; 🔎 high-frequency; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Read a common word; 🔎 high-frequency; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly14.svg#ac9e1ly14-p-001\"></use></svg>",
+    "question": "Which word completes: “Please ___ here.”",
+    "audioPrompt": "Which word completes: “Please ___ here.”",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly14.svg#ac9e1ly14-p-001",
-      "alt_text": "📖 Read a common word; 🔎 high-frequency; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "I",
-      "One",
-      "Map sounds and tricky letters."
+      "coming",
+      "come",
+      "came"
     ],
-    "correct": 0,
-    "explanation": "I is the mix-up. Map sounds and tricky letters.\nHint: Map sounds and tricky letters.",
+    "correct": 1,
+    "explanation": "come is the best answer.",
     "structuredExplanation": {
-      "summary": "I is the mix-up. Map sounds and tricky letters.",
-      "hint": "Map sounds and tricky letters."
+      "summary": "come is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 2,
+    "difficultyTier": "guided",
+    "sequencePriority": 21
   },
   {
     "id": "ac9e1ly14-p-022",
     "curriculumCode": "AC9E1LY14",
     "bank": "practice",
-    "skill": "ac9e1ly14 02 discriminate",
+    "skill": "read and write an increasing number of high-frequency words",
     "printable": true,
     "type": "single",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": "📖 Match words and sentences; 🔎 tricky part; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Match words and sentences; 🔎 tricky part; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly14.svg#ac9e1ly14-p-003\"></use></svg>",
+    "question": "Which word completes: “My book is ___.”",
+    "audioPrompt": "Which word completes: “My book is ___.”",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly14.svg#ac9e1ly14-p-003",
-      "alt_text": "📖 Match words and sentences; 🔎 tricky part; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Have ↔ possess hat; said ↔ spoke hello; pretty ↔ describes shell",
-      "I __ a hat",
-      "Use this routine: Read word → Say word → Map tricky part → Write → Use in sentence."
+      "hear",
+      "her",
+      "here"
     ],
-    "correct": 1,
-    "explanation": "I __ a hat is the mix-up. Use it in a sentence.\nHint: Use it in a sentence.",
+    "correct": 2,
+    "explanation": "here is the best answer.",
     "structuredExplanation": {
-      "summary": "I __ a hat is the mix-up. Use it in a sentence.",
-      "hint": "Use it in a sentence."
+      "summary": "here is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 2,
+    "difficultyTier": "guided",
+    "sequencePriority": 22
   },
   {
     "id": "ac9e1ly14-p-023",
     "curriculumCode": "AC9E1LY14",
     "bank": "practice",
-    "skill": "ac9e1ly14 03 discriminate",
+    "skill": "read and write an increasing number of high-frequency words",
     "printable": true,
     "type": "single",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": "📖 Write from memory; 🔎 read; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Write from memory; 🔎 read; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly14.svg#ac9e1ly14-p-005\"></use></svg>",
+    "question": "Read and choose: Which word completes: “I have ___ apples.”",
+    "audioPrompt": "Read and choose: Which word completes: “I have ___ apples.”",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly14.svg#ac9e1ly14-p-005",
-      "alt_text": "📖 Write from memory; 🔎 read; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "h-a-v-e in correct order, with self-check",
-      "Look for read and check the whole example.",
-      "Ignore errors."
+      "same",
+      "some",
+      "sum"
     ],
-    "correct": 2,
-    "explanation": "Ignore errors. is the mix-up. Cover, write and check carefully.\nHint: Cover, write and check carefully.",
+    "correct": 1,
+    "explanation": "some is the best answer.",
     "structuredExplanation": {
-      "summary": "Ignore errors. is the mix-up. Cover, write and check carefully.",
-      "hint": "Cover, write and check carefully."
+      "summary": "some is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 2,
+    "difficultyTier": "guided",
+    "sequencePriority": 23
   },
   {
     "id": "ac9e1ly14-p-024",
     "curriculumCode": "AC9E1LY14",
     "bank": "practice",
-    "skill": "ac9e1ly14 04 discriminate",
+    "skill": "read and write an increasing number of high-frequency words",
     "printable": true,
     "type": "single",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": "📖 Find the tricky part; 🔎 write; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Find the tricky part; 🔎 write; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly14.svg#ac9e1ly14-p-007\"></use></svg>",
+    "question": "Which word completes: “Ben ___ hello.”",
+    "audioPrompt": "Which word completes: “Ben ___ hello.”",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly14.svg#ac9e1ly14-p-007",
-      "alt_text": "📖 Find the tricky part; 🔎 write; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Memorise only the word shape.",
-      "The whole pronunciation is less predictable from o-n-e",
-      "Check that you can use in sentences."
+      "say",
+      "said",
+      "sad"
     ],
-    "correct": 0,
-    "explanation": "Memorise only the word shape. is the mix-up. Map sounds and tricky letters.\nHint: Map sounds and tricky letters.",
+    "correct": 1,
+    "explanation": "said is the best answer.",
     "structuredExplanation": {
-      "summary": "Memorise only the word shape. is the mix-up. Map sounds and tricky letters.",
-      "hint": "Map sounds and tricky letters."
+      "summary": "said is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 2,
+    "difficultyTier": "guided",
+    "sequencePriority": 24
   },
   {
     "id": "ac9e1ly14-p-025",
     "curriculumCode": "AC9E1LY14",
     "bank": "practice",
-    "skill": "ac9e1ly14 05 discriminate",
+    "skill": "read and write an increasing number of high-frequency words",
     "printable": true,
     "type": "single",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": "📖 Order word practice; 🔎 sentence; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Order word practice; 🔎 sentence; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly14.svg#ac9e1ly14-p-009\"></use></svg>",
+    "question": "Which word completes the sentence? “Kim ___ happy.”",
+    "audioPrompt": "Which word completes the sentence? “Kim ___ happy.”",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly14.svg#ac9e1ly14-p-009",
-      "alt_text": "📖 Order word practice; 🔎 sentence; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Read → notice → cover/write → check/correct",
-      "check/correct → cover/write → notice → Read",
-      "Sequencing an effective high-frequency-word routine."
+      "be",
+      "were",
+      "was"
     ],
-    "correct": 1,
-    "explanation": "check/correct → cover/write → notice → Read is the mix-up. Use it in a sentence.\nHint: Use it in a sentence.",
+    "correct": 2,
+    "explanation": "was is the best answer.",
     "structuredExplanation": {
-      "summary": "check/correct → cover/write → notice → Read is the mix-up. Use it in a sentence.",
-      "hint": "Use it in a sentence."
+      "summary": "was is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 2,
+    "difficultyTier": "guided",
+    "sequencePriority": 25
   },
   {
     "id": "ac9e1ly14-p-026",
     "curriculumCode": "AC9E1LY14",
     "bank": "practice",
-    "skill": "ac9e1ly14 06 discriminate",
+    "skill": "read and write an increasing number of high-frequency words",
     "printable": true,
     "type": "single",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": "📖 Draw a word memory card; 🔎 high-frequency; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Draw a word memory card; 🔎 high-frequency; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly14.svg#ac9e1ly14-p-011\"></use></svg>",
+    "question": "Which word completes: “___ goat is small.”",
+    "audioPrompt": "Which word completes: “___ goat is small.”",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly14.svg#ac9e1ly14-p-011",
-      "alt_text": "📖 Draw a word memory card; 🔎 high-frequency; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Said spelled correctly, sentence meaningful and ai highlighted as remembered spelling",
-      "Cover, write and check carefully.",
-      "Ignore errors."
+      "They",
+      "The",
+      "Then"
     ],
-    "correct": 2,
-    "explanation": "Ignore errors. is the mix-up. Cover, write and check carefully.\nHint: Cover, write and check carefully.",
+    "correct": 1,
+    "explanation": "The is the best answer.",
     "structuredExplanation": {
-      "summary": "Ignore errors. is the mix-up. Cover, write and check carefully.",
-      "hint": "Cover, write and check carefully."
+      "summary": "The is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 2,
+    "difficultyTier": "guided",
+    "sequencePriority": 26
   },
   {
     "id": "ac9e1ly14-p-027",
     "curriculumCode": "AC9E1LY14",
     "bank": "practice",
-    "skill": "ac9e1ly14 07 discriminate",
+    "skill": "read and write an increasing number of high-frequency words",
     "printable": true,
     "type": "single",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": "📖 Choose the correct word; 🔎 tricky part; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Choose the correct word; 🔎 tricky part; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly14.svg#ac9e1ly14-p-013\"></use></svg>",
+    "question": "Which word completes: “Can ___ help me?”",
+    "audioPrompt": "Which word completes: “Can ___ help me?”",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly14.svg#ac9e1ly14-p-013",
-      "alt_text": "📖 Choose the correct word; 🔎 tricky part; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "our",
-      "Are",
-      "Use this routine: Read word → Say word → Map tricky part → Write → Use in sentence."
+      "your",
+      "yes",
+      "you"
     ],
-    "correct": 0,
-    "explanation": "our is the mix-up. Map sounds and tricky letters.\nHint: Map sounds and tricky letters.",
+    "correct": 2,
+    "explanation": "you is the best answer.",
     "structuredExplanation": {
-      "summary": "our is the mix-up. Map sounds and tricky letters.",
-      "hint": "Map sounds and tricky letters."
+      "summary": "you is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 2,
+    "difficultyTier": "guided",
+    "sequencePriority": 27
   },
   {
     "id": "ac9e1ly14-p-028",
     "curriculumCode": "AC9E1LY14",
     "bank": "practice",
-    "skill": "ac9e1ly14 08 discriminate",
+    "skill": "read and write an increasing number of high-frequency words",
     "printable": true,
     "type": "single",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": "📖 Edit a common-word sentence; 🔎 read; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Edit a common-word sentence; 🔎 read; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly14.svg#ac9e1ly14-p-015\"></use></svg>",
+    "question": "Read and choose: Which word completes: “___ are my friends.”",
+    "audioPrompt": "Read and choose: Which word completes: “___ are my friends.”",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly14.svg#ac9e1ly14-p-015",
-      "alt_text": "📖 Edit a common-word sentence; 🔎 read; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "'I have one little bag.'",
-      "I hav one littel bag",
-      "Look for read and check the whole example."
+      "They",
+      "Them",
+      "The"
     ],
-    "correct": 1,
-    "explanation": "I hav one littel bag is the mix-up. Use it in a sentence.\nHint: Use it in a sentence.",
+    "correct": 0,
+    "explanation": "They is the best answer.",
     "structuredExplanation": {
-      "summary": "I hav one littel bag is the mix-up. Use it in a sentence.",
-      "hint": "Use it in a sentence."
+      "summary": "They is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 2,
+    "difficultyTier": "guided",
+    "sequencePriority": 28
   },
   {
     "id": "ac9e1ly14-p-029",
     "curriculumCode": "AC9E1LY14",
     "bank": "practice",
-    "skill": "ac9e1ly14 09 discriminate",
+    "skill": "read and write an increasing number of high-frequency words",
     "printable": true,
     "type": "single",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": "📖 Read without picture guessing; 🔎 write; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Read without picture guessing; 🔎 write; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly14.svg#ac9e1ly14-p-017\"></use></svg>",
+    "question": "Read and choose: Which word completes: “Please ___ here.”",
+    "audioPrompt": "Read and choose: Which word completes: “Please ___ here.”",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly14.svg#ac9e1ly14-p-017",
-      "alt_text": "📖 Read without picture guessing; 🔎 write; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Come and here",
-      "Check that you can use in sentences.",
-      "Come here, please"
+      "coming",
+      "came",
+      "come"
     ],
     "correct": 2,
-    "explanation": "Come here, please is the mix-up. Cover, write and check carefully.\nHint: Cover, write and check carefully.",
+    "explanation": "come is the best answer.",
     "structuredExplanation": {
-      "summary": "Come here, please is the mix-up. Cover, write and check carefully.",
-      "hint": "Cover, write and check carefully."
+      "summary": "come is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 2,
+    "difficultyTier": "guided",
+    "sequencePriority": 29
   },
   {
     "id": "ac9e1ly14-p-030",
     "curriculumCode": "AC9E1LY14",
     "bank": "practice",
-    "skill": "ac9e1ly14 10 discriminate",
+    "skill": "read and write an increasing number of high-frequency words",
     "printable": true,
     "type": "single",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": "📖 Match commonly confused words; 🔎 sentence; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Match commonly confused words; 🔎 sentence; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly14.svg#ac9e1ly14-p-019\"></use></svg>",
+    "question": "Which word completes: “My sock is ___.”",
+    "audioPrompt": "Which word completes: “My sock is ___.”",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly14.svg#ac9e1ly14-p-019",
-      "alt_text": "📖 Match commonly confused words; 🔎 sentence; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Where ↔ past are; were ↔ we are; we're ↔ place question",
-      "Where ↔ place question; were ↔ past are; we're ↔ we are",
-      "Distinguishing visually similar frequent words."
+      "hear",
+      "here",
+      "her"
     ],
-    "correct": 0,
-    "explanation": "Where ↔ past are; were ↔ we are; we're ↔ place question is the mix-up. Map sounds and tricky letters.\nHint: Map sounds and tricky letters.",
+    "correct": 1,
+    "explanation": "here is the best answer.",
     "structuredExplanation": {
-      "summary": "Where ↔ past are; were ↔ we are; we're ↔ place question is the mix-up. Map sounds and tricky letters.",
-      "hint": "Map sounds and tricky letters."
+      "summary": "here is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 2,
+    "difficultyTier": "guided",
+    "sequencePriority": 30
   },
   {
     "id": "ac9e1ly14-p-031",
     "curriculumCode": "AC9E1LY14",
     "bank": "practice",
-    "skill": "ac9e1ly14 01 apply",
+    "skill": "read and write an increasing number of high-frequency words",
     "printable": true,
     "type": "single",
-    "question": "Which choice would best use this skill in a new example?",
-    "audioPrompt": "Which choice would best use this skill in a new example?",
-    "visual": "📖 Read a common word; 🔎 high-frequency; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Read a common word; 🔎 high-frequency; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly14.svg#ac9e1ly14-p-001\"></use></svg>",
+    "question": "Which word completes: “I have ___ apples.”",
+    "audioPrompt": "Which word completes: “I have ___ apples.”",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly14.svg#ac9e1ly14-p-001",
-      "alt_text": "📖 Read a common word; 🔎 high-frequency; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "I",
-      "One",
-      "have"
+      "some",
+      "sum",
+      "same"
     ],
-    "correct": 1,
-    "explanation": "One uses the skill correctly. Map sounds and tricky letters.\nHint: Map sounds and tricky letters.",
+    "correct": 0,
+    "explanation": "some is the best answer.",
     "structuredExplanation": {
-      "summary": "One uses the skill correctly. Map sounds and tricky letters.",
-      "hint": "Map sounds and tricky letters."
+      "summary": "some is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 2,
+    "difficultyTier": "guided",
+    "sequencePriority": 31
   },
   {
     "id": "ac9e1ly14-p-032",
     "curriculumCode": "AC9E1LY14",
     "bank": "practice",
-    "skill": "ac9e1ly14 02 apply",
+    "skill": "read and write an increasing number of high-frequency words",
     "printable": true,
     "type": "single",
-    "question": "Which choice would best use this skill in a new example?",
-    "audioPrompt": "Which choice would best use this skill in a new example?",
-    "visual": "📖 Match words and sentences; 🔎 tricky part; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Match words and sentences; 🔎 tricky part; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly14.svg#ac9e1ly14-p-003\"></use></svg>",
+    "question": "Which word completes: “Sam ___ hello.”",
+    "audioPrompt": "Which word completes: “Sam ___ hello.”",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly14.svg#ac9e1ly14-p-003",
-      "alt_text": "📖 Match words and sentences; 🔎 tricky part; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "I __ a hat",
-      "Mia __ hello",
-      "Have ↔ possess hat; said ↔ spoke hello; pretty ↔ describes shell"
+      "say",
+      "sad",
+      "said"
     ],
     "correct": 2,
-    "explanation": "Have ↔ possess hat; said ↔ spoke hello; pretty ↔ describes shell uses the skill correctly. Use it in a sentence.\nHint: Use it in a sentence.",
+    "explanation": "said is the best answer.",
     "structuredExplanation": {
-      "summary": "Have ↔ possess hat; said ↔ spoke hello; pretty ↔ describes shell uses the skill correctly. Use it in a sentence.",
-      "hint": "Use it in a sentence."
+      "summary": "said is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 2,
+    "difficultyTier": "guided",
+    "sequencePriority": 32
   },
   {
     "id": "ac9e1ly14-p-033",
     "curriculumCode": "AC9E1LY14",
     "bank": "practice",
-    "skill": "ac9e1ly14 03 apply",
+    "skill": "read and write an increasing number of high-frequency words",
     "printable": true,
     "type": "single",
-    "question": "Which choice would best use this skill in a new example?",
-    "audioPrompt": "Which choice would best use this skill in a new example?",
-    "visual": "📖 Write from memory; 🔎 read; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Write from memory; 🔎 read; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly14.svg#ac9e1ly14-p-005\"></use></svg>",
+    "question": "Which word completes the sentence? “Ava ___ happy.”",
+    "audioPrompt": "Which word completes the sentence? “Ava ___ happy.”",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly14.svg#ac9e1ly14-p-005",
-      "alt_text": "📖 Write from memory; 🔎 read; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "h-a-v-e in correct order, with self-check",
-      "Ignore errors.",
-      "Memorise only the word shape."
+      "were",
+      "was",
+      "be"
     ],
-    "correct": 0,
-    "explanation": "h-a-v-e in correct order, with self-check uses the skill correctly. Cover, write and check carefully.\nHint: Cover, write and check carefully.",
+    "correct": 1,
+    "explanation": "was is the best answer.",
     "structuredExplanation": {
-      "summary": "h-a-v-e in correct order, with self-check uses the skill correctly. Cover, write and check carefully.",
-      "hint": "Cover, write and check carefully."
+      "summary": "was is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 33
   },
   {
     "id": "ac9e1ly14-p-034",
     "curriculumCode": "AC9E1LY14",
     "bank": "practice",
-    "skill": "ac9e1ly14 04 apply",
+    "skill": "read and write an increasing number of high-frequency words",
     "printable": true,
     "type": "single",
-    "question": "Which choice would best use this skill in a new example?",
-    "audioPrompt": "Which choice would best use this skill in a new example?",
-    "visual": "📖 Find the tricky part; 🔎 write; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Find the tricky part; 🔎 write; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly14.svg#ac9e1ly14-p-007\"></use></svg>",
+    "question": "Which word completes: “___ dog is small.”",
+    "audioPrompt": "Which word completes: “___ dog is small.”",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly14.svg#ac9e1ly14-p-007",
-      "alt_text": "📖 Find the tricky part; 🔎 write; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Memorise only the word shape.",
-      "The whole pronunciation is less predictable from o-n-e",
-      "Do not use it in a sentence."
+      "The",
+      "Then",
+      "They"
     ],
-    "correct": 1,
-    "explanation": "The whole pronunciation is less predictable from o-n-e uses the skill correctly. Map sounds and tricky letters.\nHint: Map sounds and tricky letters.",
+    "correct": 0,
+    "explanation": "The is the best answer.",
     "structuredExplanation": {
-      "summary": "The whole pronunciation is less predictable from o-n-e uses the skill correctly. Map sounds and tricky letters.",
-      "hint": "Map sounds and tricky letters."
+      "summary": "The is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 34
   },
   {
     "id": "ac9e1ly14-p-035",
     "curriculumCode": "AC9E1LY14",
     "bank": "practice",
-    "skill": "ac9e1ly14 05 apply",
+    "skill": "read and write an increasing number of high-frequency words",
     "printable": true,
     "type": "single",
-    "question": "Which choice would best use this skill in a new example?",
-    "audioPrompt": "Which choice would best use this skill in a new example?",
-    "visual": "📖 Order word practice; 🔎 sentence; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Order word practice; 🔎 sentence; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly14.svg#ac9e1ly14-p-009\"></use></svg>",
+    "question": "Look and choose: Which word completes: “Can ___ help me?”",
+    "audioPrompt": "Look and choose: Which word completes: “Can ___ help me?”",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly14.svg#ac9e1ly14-p-009",
-      "alt_text": "📖 Order word practice; 🔎 sentence; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "check/correct → cover/write → notice → Read",
-      "Do not use it in a sentence.",
-      "Read → notice → cover/write → check/correct"
+      "yes",
+      "you",
+      "your"
     ],
-    "correct": 2,
-    "explanation": "Read → notice → cover/write → check/correct uses the skill correctly. Use it in a sentence.\nHint: Use it in a sentence.",
+    "correct": 1,
+    "explanation": "you is the best answer.",
     "structuredExplanation": {
-      "summary": "Read → notice → cover/write → check/correct uses the skill correctly. Use it in a sentence.",
-      "hint": "Use it in a sentence."
+      "summary": "you is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 35
   },
   {
     "id": "ac9e1ly14-p-036",
     "curriculumCode": "AC9E1LY14",
     "bank": "practice",
-    "skill": "ac9e1ly14 06 apply",
+    "skill": "read and write an increasing number of high-frequency words",
     "printable": true,
     "type": "single",
-    "question": "Which choice would best use this skill in a new example?",
-    "audioPrompt": "Which choice would best use this skill in a new example?",
-    "visual": "📖 Draw a word memory card; 🔎 high-frequency; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Draw a word memory card; 🔎 high-frequency; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly14.svg#ac9e1ly14-p-011\"></use></svg>",
+    "question": "Which word completes: “___ are my friends.”",
+    "audioPrompt": "Which word completes: “___ are my friends.”",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly14.svg#ac9e1ly14-p-011",
-      "alt_text": "📖 Draw a word memory card; 🔎 high-frequency; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Said spelled correctly, sentence meaningful and ai highlighted as remembered spelling",
-      "Ignore errors.",
-      "Memorise only the word shape."
+      "Them",
+      "They",
+      "The"
     ],
-    "correct": 0,
-    "explanation": "Said spelled correctly, sentence meaningful and ai highlighted as remembered spelling uses the skill correctly. Cover, write and check carefully.\nHint: Cover, write and check carefully.",
+    "correct": 1,
+    "explanation": "They is the best answer.",
     "structuredExplanation": {
-      "summary": "Said spelled correctly, sentence meaningful and ai highlighted as remembered spelling uses the skill correctly. Cover, write and check carefully.",
-      "hint": "Cover, write and check carefully."
+      "summary": "They is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 36
   },
   {
     "id": "ac9e1ly14-p-037",
     "curriculumCode": "AC9E1LY14",
     "bank": "practice",
-    "skill": "ac9e1ly14 07 apply",
+    "skill": "read and write an increasing number of high-frequency words",
     "printable": true,
     "type": "single",
-    "question": "Which choice would best use this skill in a new example?",
-    "audioPrompt": "Which choice would best use this skill in a new example?",
-    "visual": "📖 Choose the correct word; 🔎 tricky part; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Choose the correct word; 🔎 tricky part; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly14.svg#ac9e1ly14-p-013\"></use></svg>",
+    "question": "Which word completes: “Please ___ here.”",
+    "audioPrompt": "Which word completes: “Please ___ here.”",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly14.svg#ac9e1ly14-p-013",
-      "alt_text": "📖 Choose the correct word; 🔎 tricky part; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "our",
-      "Are",
-      "They"
+      "come",
+      "came",
+      "coming"
     ],
-    "correct": 1,
-    "explanation": "Are uses the skill correctly. Map sounds and tricky letters.\nHint: Map sounds and tricky letters.",
+    "correct": 0,
+    "explanation": "come is the best answer.",
     "structuredExplanation": {
-      "summary": "Are uses the skill correctly. Map sounds and tricky letters.",
-      "hint": "Map sounds and tricky letters."
+      "summary": "come is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 37
   },
   {
     "id": "ac9e1ly14-p-038",
     "curriculumCode": "AC9E1LY14",
     "bank": "practice",
-    "skill": "ac9e1ly14 08 apply",
+    "skill": "read and write an increasing number of high-frequency words",
     "printable": true,
     "type": "single",
-    "question": "Which choice would best use this skill in a new example?",
-    "audioPrompt": "Which choice would best use this skill in a new example?",
-    "visual": "📖 Edit a common-word sentence; 🔎 read; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Edit a common-word sentence; 🔎 read; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly14.svg#ac9e1ly14-p-015\"></use></svg>",
+    "question": "Which word completes: “My bag is ___.”",
+    "audioPrompt": "Which word completes: “My bag is ___.”",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly14.svg#ac9e1ly14-p-015",
-      "alt_text": "📖 Edit a common-word sentence; 🔎 read; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "I hav one littel bag",
-      "Do not use it in a sentence.",
-      "'I have one little bag.'"
+      "her",
+      "here",
+      "hear"
     ],
-    "correct": 2,
-    "explanation": "'I have one little bag.' uses the skill correctly. Use it in a sentence.\nHint: Use it in a sentence.",
+    "correct": 1,
+    "explanation": "here is the best answer.",
     "structuredExplanation": {
-      "summary": "'I have one little bag.' uses the skill correctly. Use it in a sentence.",
-      "hint": "Use it in a sentence."
+      "summary": "here is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 38
   },
   {
     "id": "ac9e1ly14-p-039",
     "curriculumCode": "AC9E1LY14",
     "bank": "practice",
-    "skill": "ac9e1ly14 09 apply",
+    "skill": "read and write an increasing number of high-frequency words",
     "printable": true,
     "type": "single",
-    "question": "Which choice would best use this skill in a new example?",
-    "audioPrompt": "Which choice would best use this skill in a new example?",
-    "visual": "📖 Read without picture guessing; 🔎 write; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Read without picture guessing; 🔎 write; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly14.svg#ac9e1ly14-p-017\"></use></svg>",
+    "question": "Which word completes: “I have ___ apples.”",
+    "audioPrompt": "Which word completes: “I have ___ apples.”",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly14.svg#ac9e1ly14-p-017",
-      "alt_text": "📖 Read without picture guessing; 🔎 write; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Come and here",
-      "Come here, please",
-      "Ignore errors."
+      "sum",
+      "same",
+      "some"
     ],
-    "correct": 0,
-    "explanation": "Come and here uses the skill correctly. Cover, write and check carefully.\nHint: Cover, write and check carefully.",
+    "correct": 2,
+    "explanation": "some is the best answer.",
     "structuredExplanation": {
-      "summary": "Come and here uses the skill correctly. Cover, write and check carefully.",
-      "hint": "Cover, write and check carefully."
+      "summary": "some is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 39
   },
   {
     "id": "ac9e1ly14-p-040",
     "curriculumCode": "AC9E1LY14",
     "bank": "practice",
-    "skill": "ac9e1ly14 10 apply",
+    "skill": "read and write an increasing number of high-frequency words",
     "printable": true,
     "type": "single",
-    "question": "Which choice would best use this skill in a new example?",
-    "audioPrompt": "Which choice would best use this skill in a new example?",
-    "visual": "📖 Match commonly confused words; 🔎 sentence; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Match commonly confused words; 🔎 sentence; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly14.svg#ac9e1ly14-p-019\"></use></svg>",
+    "question": "Which word completes: “Kim ___ hello.”",
+    "audioPrompt": "Which word completes: “Kim ___ hello.”",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly14.svg#ac9e1ly14-p-019",
-      "alt_text": "📖 Match commonly confused words; 🔎 sentence; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Where ↔ past are; were ↔ we are; we're ↔ place question",
-      "Where ↔ place question; were ↔ past are; we're ↔ we are",
-      "Memorise only the word shape."
+      "say",
+      "said",
+      "sad"
     ],
     "correct": 1,
-    "explanation": "Where ↔ place question; were ↔ past are; we're ↔ we are uses the skill correctly. Map sounds and tricky letters.\nHint: Map sounds and tricky letters.",
+    "explanation": "said is the best answer.",
     "structuredExplanation": {
-      "summary": "Where ↔ place question; were ↔ past are; we're ↔ we are uses the skill correctly. Map sounds and tricky letters.",
-      "hint": "Map sounds and tricky letters."
+      "summary": "said is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 40
+  },
+  {
+    "id": "ac9e1ly14-p-041",
+    "curriculumCode": "AC9E1LY14",
+    "bank": "practice",
+    "skill": "read and write an increasing number of high-frequency words",
+    "printable": true,
+    "type": "single",
+    "question": "Which word completes the sentence? “Leo ___ happy.”",
+    "audioPrompt": "Which word completes the sentence? “Leo ___ happy.”",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "be",
+      "were",
+      "was"
+    ],
+    "correct": 2,
+    "explanation": "was is the best answer.",
+    "structuredExplanation": {
+      "summary": "was is the best answer."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 41,
+    "qualitySchema": "reviewed-year1-english-v1"
+  },
+  {
+    "id": "ac9e1ly14-p-042",
+    "curriculumCode": "AC9E1LY14",
+    "bank": "practice",
+    "skill": "read and write an increasing number of high-frequency words",
+    "printable": true,
+    "type": "single",
+    "question": "Which word completes: “___ fox is small.”",
+    "audioPrompt": "Which word completes: “___ fox is small.”",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "They",
+      "Then",
+      "The"
+    ],
+    "correct": 2,
+    "explanation": "The is the best answer.",
+    "structuredExplanation": {
+      "summary": "The is the best answer."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 42,
+    "qualitySchema": "reviewed-year1-english-v1"
+  },
+  {
+    "id": "ac9e1ly14-p-043",
+    "curriculumCode": "AC9E1LY14",
+    "bank": "practice",
+    "skill": "read and write an increasing number of high-frequency words",
+    "printable": true,
+    "type": "single",
+    "question": "Which word completes: “Can ___ help me?”",
+    "audioPrompt": "Which word completes: “Can ___ help me?”",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "you",
+      "yes",
+      "your"
+    ],
+    "correct": 0,
+    "explanation": "you is the best answer.",
+    "structuredExplanation": {
+      "summary": "you is the best answer."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 43,
+    "qualitySchema": "reviewed-year1-english-v1"
+  },
+  {
+    "id": "ac9e1ly14-p-044",
+    "curriculumCode": "AC9E1LY14",
+    "bank": "practice",
+    "skill": "read and write an increasing number of high-frequency words",
+    "printable": true,
+    "type": "single",
+    "question": "Which word completes: “___ are my friends.”",
+    "audioPrompt": "Which word completes: “___ are my friends.”",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "The",
+      "Them",
+      "They"
+    ],
+    "correct": 2,
+    "explanation": "They is the best answer.",
+    "structuredExplanation": {
+      "summary": "They is the best answer."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 44,
+    "qualitySchema": "reviewed-year1-english-v1"
+  },
+  {
+    "id": "ac9e1ly14-p-045",
+    "curriculumCode": "AC9E1LY14",
+    "bank": "practice",
+    "skill": "read and write an increasing number of high-frequency words",
+    "printable": true,
+    "type": "single",
+    "question": "Read and choose: Which word completes: “Please ___ here.”",
+    "audioPrompt": "Read and choose: Which word completes: “Please ___ here.”",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "come",
+      "came",
+      "coming"
+    ],
+    "correct": 0,
+    "explanation": "come is the best answer.",
+    "structuredExplanation": {
+      "summary": "come is the best answer."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 45,
+    "qualitySchema": "reviewed-year1-english-v1"
+  },
+  {
+    "id": "ac9e1ly14-p-046",
+    "curriculumCode": "AC9E1LY14",
+    "bank": "practice",
+    "skill": "read and write an increasing number of high-frequency words",
+    "printable": true,
+    "type": "single",
+    "question": "Which word completes: “My ball is ___.”",
+    "audioPrompt": "Which word completes: “My ball is ___.”",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "hear",
+      "her",
+      "here"
+    ],
+    "correct": 2,
+    "explanation": "here is the best answer.",
+    "structuredExplanation": {
+      "summary": "here is the best answer."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 46,
+    "qualitySchema": "reviewed-year1-english-v1"
+  },
+  {
+    "id": "ac9e1ly14-p-047",
+    "curriculumCode": "AC9E1LY14",
+    "bank": "practice",
+    "skill": "read and write an increasing number of high-frequency words",
+    "printable": true,
+    "type": "single",
+    "question": "Which word completes: “I have ___ apples.”",
+    "audioPrompt": "Which word completes: “I have ___ apples.”",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "sum",
+      "some",
+      "same"
+    ],
+    "correct": 1,
+    "explanation": "some is the best answer.",
+    "structuredExplanation": {
+      "summary": "some is the best answer."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 47,
+    "qualitySchema": "reviewed-year1-english-v1"
+  },
+  {
+    "id": "ac9e1ly14-p-048",
+    "curriculumCode": "AC9E1LY14",
+    "bank": "practice",
+    "skill": "read and write an increasing number of high-frequency words",
+    "printable": true,
+    "type": "single",
+    "question": "Which word completes: “Ava ___ hello.”",
+    "audioPrompt": "Which word completes: “Ava ___ hello.”",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "sad",
+      "say",
+      "said"
+    ],
+    "correct": 2,
+    "explanation": "said is the best answer.",
+    "structuredExplanation": {
+      "summary": "said is the best answer."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 48,
+    "qualitySchema": "reviewed-year1-english-v1"
   }
 ];
-window.quizQuestions = window.skillrPracticeQuestions;

@@ -4,466 +4,480 @@ window.skillrTestQuestions = [
     "id": "ac9e1ly05-t-001",
     "curriculumCode": "AC9E1LY05",
     "bank": "test",
-    "skill": "ac9e1ly05 01 answer",
+    "skill": "use comprehension strategies such as visualising, predicting, connecting, summarising and questioning",
     "printable": true,
     "type": "single",
-    "question": "Which response would correctly show two strategies?",
-    "audioPrompt": "Which response would correctly show two strategies?",
-    "visual": "📖 show two strategies; 🔎 predict; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 show two strategies; 🔎 predict; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly05.svg#ac9e1ly05-t-001\"></use></svg>",
+    "question": "Read: “Dark clouds filled the sky. Zoe took an umbrella.” What may happen next?",
+    "audioPrompt": "Read: “Dark clouds filled the sky. Zoe took an umbrella.” What may happen next?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly05.svg#ac9e1ly05-t-001",
-      "alt_text": "📖 show two strategies; 🔎 predict; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Both strategies are relevant and each is linked to a text clue",
-      "Do not use a clue from the text.",
-      "Retell every detail instead of the main idea."
+      "It may snow indoors.",
+      "It may rain.",
+      "The sun may sing."
     ],
-    "correct": 0,
-    "explanation": "Both strategies are relevant and each is linked to a text clue This matches the task.\nHint: Use a clue from the text.",
+    "correct": 1,
+    "explanation": "It may rain. is the best answer.",
     "structuredExplanation": {
-      "summary": "Both strategies are relevant and each is linked to a text clue This matches the task.",
-      "hint": "Use a clue from the text."
+      "summary": "It may rain. is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 1
   },
   {
     "id": "ac9e1ly05-t-002",
     "curriculumCode": "AC9E1LY05",
     "bank": "test",
-    "skill": "ac9e1ly05 01 strategy",
+    "skill": "use comprehension strategies such as visualising, predicting, connecting, summarising and questioning",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you show two strategies?",
-    "audioPrompt": "Which tip would help you show two strategies?",
-    "visual": "🧠 show two strategies; ➡️ Preview; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 show two strategies; ➡️ Preview; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly05.svg#ac9e1ly05-t-002\"></use></svg>",
+    "question": "Read: “The duck curled up on a soft mat.” What can you picture?",
+    "audioPrompt": "Read: “The duck curled up on a soft mat.” What can you picture?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly05.svg#ac9e1ly05-t-002",
-      "alt_text": "🧠 show two strategies; ➡️ Preview; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Retell every detail instead of the main idea.",
-      "Use a clue from the text.",
-      "Treat inference as guess."
+      "a duck in a tree",
+      "a duck on a mat",
+      "an empty pond"
     ],
     "correct": 1,
-    "explanation": "Use a clue from the text.\nHint: Use a clue from the text.",
+    "explanation": "a duck on a mat is the best answer.",
     "structuredExplanation": {
-      "summary": "Use a clue from the text.",
-      "hint": "Use a clue from the text."
+      "summary": "a duck on a mat is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 2
   },
   {
     "id": "ac9e1ly05-t-003",
     "curriculumCode": "AC9E1LY05",
     "bank": "test",
-    "skill": "ac9e1ly05 02 answer",
+    "skill": "use comprehension strategies such as visualising, predicting, connecting, summarising and questioning",
     "printable": true,
     "type": "single",
-    "question": "Which response would correctly draw a strategy map?",
-    "audioPrompt": "Which response would correctly draw a strategy map?",
-    "visual": "📖 Draw a strategy map; 🔎 visualise; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Draw a strategy map; 🔎 visualise; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly05.svg#ac9e1ly05-t-003\"></use></svg>",
+    "question": "Read: “Mia packed a towel and bucket.” Where might Mia go?",
+    "audioPrompt": "Read: “Mia packed a towel and bucket.” Where might Mia go?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly05.svg#ac9e1ly05-t-003",
-      "alt_text": "📖 Draw a strategy map; 🔎 visualise; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Retell every detail instead of the main idea.",
-      "Treat inference as guess.",
-      "Five accurate actions organised under correct strategy labels"
+      "the moon",
+      "the library",
+      "the beach"
     ],
     "correct": 2,
-    "explanation": "Five accurate actions organised under correct strategy labels This matches the task.\nHint: Say the main idea, not every small event.",
+    "explanation": "the beach is the best answer.",
     "structuredExplanation": {
-      "summary": "Five accurate actions organised under correct strategy labels This matches the task.",
-      "hint": "Say the main idea, not every small event."
+      "summary": "the beach is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 3
   },
   {
     "id": "ac9e1ly05-t-004",
     "curriculumCode": "AC9E1LY05",
     "bank": "test",
-    "skill": "ac9e1ly05 02 strategy",
+    "skill": "use comprehension strategies such as visualising, predicting, connecting, summarising and questioning",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you draw a strategy map?",
-    "audioPrompt": "Which tip would help you draw a strategy map?",
-    "visual": "🧠 Draw a strategy map; ➡️ Predict; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Draw a strategy map; ➡️ Predict; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly05.svg#ac9e1ly05-t-004\"></use></svg>",
+    "question": "Read and choose: Read: “The seed got water and sun. A shoot came up.” What is the main idea?",
+    "audioPrompt": "Read and choose: Read: “The seed got water and sun. A shoot came up.” What is the main idea?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly05.svg#ac9e1ly05-t-004",
-      "alt_text": "🧠 Draw a strategy map; ➡️ Predict; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Use this routine: Preview → Predict → Read/listen → Connect → Question → Summarise.",
-      "Treat inference as guess.",
-      "Do not use a clue from the text."
+      "A seed ran.",
+      "The sun slept.",
+      "A seed grew."
     ],
-    "correct": 0,
-    "explanation": "Use this routine: Preview → Predict → Read/listen → Connect → Question → Summarise.\nHint: Say the main idea, not every small event.",
+    "correct": 2,
+    "explanation": "A seed grew. is the best answer.",
     "structuredExplanation": {
-      "summary": "Use this routine: Preview → Predict → Read/listen → Connect → Question → Summarise.",
-      "hint": "Say the main idea, not every small event."
+      "summary": "A seed grew. is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 4
   },
   {
     "id": "ac9e1ly05-t-005",
     "curriculumCode": "AC9E1LY05",
     "bank": "test",
-    "skill": "ac9e1ly05 03 answer",
+    "skill": "use comprehension strategies such as visualising, predicting, connecting, summarising and questioning",
     "printable": true,
     "type": "single",
-    "question": "Which response would correctly correct an unsupported inference?",
-    "audioPrompt": "Which response would correctly correct an unsupported inference?",
-    "visual": "📖 Correct an unsupported inference; 🔎 connect; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Correct an unsupported inference; 🔎 connect; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly05.svg#ac9e1ly05-t-005\"></use></svg>",
+    "question": "Read: “Sam heard a bark at the gate.” What useful question could you ask?",
+    "audioPrompt": "Read: “Sam heard a bark at the gate.” What useful question could you ask?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly05.svg#ac9e1ly05-t-005",
-      "alt_text": "📖 Correct an unsupported inference; 🔎 connect; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Treat inference as guess.",
-      "One image does not show every child's preference",
-      "Do not use a clue from the text."
+      "Which dog barked?",
+      "What colour is music?",
+      "Is two plus two four?"
     ],
-    "correct": 1,
-    "explanation": "One image does not show every child's preference This matches the task.\nHint: Combine clue plus thinking.",
+    "correct": 0,
+    "explanation": "Which dog barked? is the best answer.",
     "structuredExplanation": {
-      "summary": "One image does not show every child's preference This matches the task.",
-      "hint": "Combine clue plus thinking."
+      "summary": "Which dog barked? is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 5
   },
   {
     "id": "ac9e1ly05-t-006",
     "curriculumCode": "AC9E1LY05",
     "bank": "test",
-    "skill": "ac9e1ly05 03 strategy",
+    "skill": "use comprehension strategies such as visualising, predicting, connecting, summarising and questioning",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you correct an unsupported inference?",
-    "audioPrompt": "Which tip would help you correct an unsupported inference?",
-    "visual": "🧠 Correct an unsupported inference; ➡️ Read/listen; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Correct an unsupported inference; ➡️ Read/listen; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly05.svg#ac9e1ly05-t-006\"></use></svg>",
+    "question": "Read: “Kim fed the dog, then filled its water bowl.” What did Kim do?",
+    "audioPrompt": "Read: “Kim fed the dog, then filled its water bowl.” What did Kim do?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly05.svg#ac9e1ly05-t-006",
-      "alt_text": "🧠 Correct an unsupported inference; ➡️ Read/listen; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Do not use a clue from the text.",
-      "Retell every detail instead of the main idea.",
-      "Look for connect and check the whole example."
+      "cared for the animal",
+      "lost the animal",
+      "drew the animal"
     ],
-    "correct": 2,
-    "explanation": "Look for connect and check the whole example.\nHint: Combine clue plus thinking.",
+    "correct": 0,
+    "explanation": "cared for the animal is the best answer.",
     "structuredExplanation": {
-      "summary": "Look for connect and check the whole example.",
-      "hint": "Combine clue plus thinking."
+      "summary": "cared for the animal is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 6
   },
   {
     "id": "ac9e1ly05-t-007",
     "curriculumCode": "AC9E1LY05",
     "bank": "test",
-    "skill": "ac9e1ly05 04 answer",
+    "skill": "use comprehension strategies such as visualising, predicting, connecting, summarising and questioning",
     "printable": true,
     "type": "single",
-    "question": "Which response would correctly integrate strategies?",
-    "audioPrompt": "Which response would correctly integrate strategies?",
-    "visual": "📖 Integrate strategies; 🔎 question; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Integrate strategies; 🔎 question; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly05.svg#ac9e1ly05-t-007\"></use></svg>",
+    "question": "Read and choose: Read: “The path was wet.” What clue helps you think it rained?",
+    "audioPrompt": "Read and choose: Read: “The path was wet.” What clue helps you think it rained?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly05.svg#ac9e1ly05-t-007",
-      "alt_text": "📖 Integrate strategies; 🔎 question; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Five accurate components: flood/map/uphill facts",
-      "The path ahead was flooded. Lee unfolded a map and pointed uphill",
-      "Do not use a clue from the text."
+      "the full stop",
+      "the word path",
+      "wet path"
     ],
-    "correct": 0,
-    "explanation": "Five accurate components: flood/map/uphill facts This matches the task.\nHint: Use a clue from the text.",
+    "correct": 2,
+    "explanation": "wet path is the best answer.",
     "structuredExplanation": {
-      "summary": "Five accurate components: flood/map/uphill facts This matches the task.",
-      "hint": "Use a clue from the text."
+      "summary": "wet path is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 7
   },
   {
     "id": "ac9e1ly05-t-008",
     "curriculumCode": "AC9E1LY05",
     "bank": "test",
-    "skill": "ac9e1ly05 04 strategy",
+    "skill": "use comprehension strategies such as visualising, predicting, connecting, summarising and questioning",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you integrate strategies?",
-    "audioPrompt": "Which tip would help you integrate strategies?",
-    "visual": "🧠 Integrate strategies; ➡️ Connect; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Integrate strategies; ➡️ Connect; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly05.svg#ac9e1ly05-t-008\"></use></svg>",
+    "question": "Read: “Leo smiled after opening the gift.” How did Leo feel?",
+    "audioPrompt": "Read: “Leo smiled after opening the gift.” How did Leo feel?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly05.svg#ac9e1ly05-t-008",
-      "alt_text": "🧠 Integrate strategies; ➡️ Connect; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Retell every detail instead of the main idea.",
-      "Check that you can question.",
-      "Treat inference as guess."
+      "tired",
+      "angry",
+      "happy"
     ],
-    "correct": 1,
-    "explanation": "Check that you can question.\nHint: Use a clue from the text.",
+    "correct": 2,
+    "explanation": "happy is the best answer.",
     "structuredExplanation": {
-      "summary": "Check that you can question.",
-      "hint": "Use a clue from the text."
+      "summary": "happy is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 8
   },
   {
     "id": "ac9e1ly05-t-009",
     "curriculumCode": "AC9E1LY05",
     "bank": "test",
-    "skill": "ac9e1ly05 01 test verify",
+    "skill": "use comprehension strategies such as visualising, predicting, connecting, summarising and questioning",
     "printable": true,
     "type": "single",
-    "question": "A classmate is unsure about this example. Which tip would help them check it carefully?",
-    "audioPrompt": "A classmate is unsure about this example. Which tip would help them check it carefully?",
-    "visual": "🧠 show two strategies; ➡️ Preview; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 show two strategies; ➡️ Preview; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly05.svg#ac9e1ly05-t-002\"></use></svg>",
+    "question": "Read: “Dark clouds filled the sky. Max took an umbrella.” What may happen next?",
+    "audioPrompt": "Read: “Dark clouds filled the sky. Max took an umbrella.” What may happen next?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly05.svg#ac9e1ly05-t-002",
-      "alt_text": "🧠 show two strategies; ➡️ Preview; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Do not use a clue from the text.",
-      "Retell every detail instead of the main idea.",
-      "Use a clue from the text."
+      "The sun may sing.",
+      "It may rain.",
+      "It may snow indoors."
     ],
-    "correct": 2,
-    "explanation": "Use a clue from the text. is the useful check. Use a clue from the text.\nHint: Use a clue from the text.",
+    "correct": 1,
+    "explanation": "It may rain. is the best answer.",
     "structuredExplanation": {
-      "summary": "Use a clue from the text. is the useful check. Use a clue from the text.",
-      "hint": "Use a clue from the text."
+      "summary": "It may rain. is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 9
   },
   {
     "id": "ac9e1ly05-t-010",
     "curriculumCode": "AC9E1LY05",
     "bank": "test",
-    "skill": "ac9e1ly05 02 test verify",
+    "skill": "use comprehension strategies such as visualising, predicting, connecting, summarising and questioning",
     "printable": true,
     "type": "single",
-    "question": "A classmate is unsure about this example. Which tip would help them check it carefully?",
-    "audioPrompt": "A classmate is unsure about this example. Which tip would help them check it carefully?",
-    "visual": "🧠 Draw a strategy map; ➡️ Predict; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Draw a strategy map; ➡️ Predict; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly05.svg#ac9e1ly05-t-004\"></use></svg>",
+    "question": "Read: “The goat curled up on a soft mat.” What can you picture?",
+    "audioPrompt": "Read: “The goat curled up on a soft mat.” What can you picture?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly05.svg#ac9e1ly05-t-004",
-      "alt_text": "🧠 Draw a strategy map; ➡️ Predict; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Use this routine: Preview → Predict → Read/listen → Connect → Question → Summarise.",
-      "Retell every detail instead of the main idea.",
-      "Treat inference as guess."
+      "an empty pond",
+      "a goat in a tree",
+      "a goat on a mat"
     ],
-    "correct": 0,
-    "explanation": "Use this routine: Preview → Predict → Read/listen → Connect → Question → Summarise. is the useful check. Say the main idea, not every small event.\nHint: Say the main idea, not every small event.",
+    "correct": 2,
+    "explanation": "a goat on a mat is the best answer.",
     "structuredExplanation": {
-      "summary": "Use this routine: Preview → Predict → Read/listen → Connect → Question → Summarise. is the useful check. Say the main idea, not every small event.",
-      "hint": "Say the main idea, not every small event."
+      "summary": "a goat on a mat is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 10
   },
   {
     "id": "ac9e1ly05-t-011",
     "curriculumCode": "AC9E1LY05",
     "bank": "test",
-    "skill": "ac9e1ly05 03 test verify",
+    "skill": "use comprehension strategies such as visualising, predicting, connecting, summarising and questioning",
     "printable": true,
     "type": "single",
-    "question": "A classmate is unsure about this example. Which tip would help them check it carefully?",
-    "audioPrompt": "A classmate is unsure about this example. Which tip would help them check it carefully?",
-    "visual": "🧠 Correct an unsupported inference; ➡️ Read/listen; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Correct an unsupported inference; ➡️ Read/listen; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly05.svg#ac9e1ly05-t-006\"></use></svg>",
+    "question": "Read: “Ben packed a towel and bucket.” Where might Ben go?",
+    "audioPrompt": "Read: “Ben packed a towel and bucket.” Where might Ben go?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly05.svg#ac9e1ly05-t-006",
-      "alt_text": "🧠 Correct an unsupported inference; ➡️ Read/listen; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Treat inference as guess.",
-      "Look for connect and check the whole example.",
-      "Do not use a clue from the text."
+      "the library",
+      "the moon",
+      "the beach"
     ],
-    "correct": 1,
-    "explanation": "Look for connect and check the whole example. is the useful check. Combine clue plus thinking.\nHint: Combine clue plus thinking.",
+    "correct": 2,
+    "explanation": "the beach is the best answer.",
     "structuredExplanation": {
-      "summary": "Look for connect and check the whole example. is the useful check. Combine clue plus thinking.",
-      "hint": "Combine clue plus thinking."
+      "summary": "the beach is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 11
   },
   {
     "id": "ac9e1ly05-t-012",
     "curriculumCode": "AC9E1LY05",
     "bank": "test",
-    "skill": "ac9e1ly05 04 test verify",
+    "skill": "use comprehension strategies such as visualising, predicting, connecting, summarising and questioning",
     "printable": true,
     "type": "single",
-    "question": "A classmate is unsure about this example. Which tip would help them check it carefully?",
-    "audioPrompt": "A classmate is unsure about this example. Which tip would help them check it carefully?",
-    "visual": "🧠 Integrate strategies; ➡️ Connect; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Integrate strategies; ➡️ Connect; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly05.svg#ac9e1ly05-t-008\"></use></svg>",
+    "question": "Look and choose: Read: “The seed got water and sun. A shoot came up.” What is the main idea?",
+    "audioPrompt": "Look and choose: Read: “The seed got water and sun. A shoot came up.” What is the main idea?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly05.svg#ac9e1ly05-t-008",
-      "alt_text": "🧠 Integrate strategies; ➡️ Connect; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "The path ahead was flooded. Lee unfolded a map and pointed uphill",
-      "Do not use a clue from the text.",
-      "Check that you can question."
+      "A seed ran.",
+      "The sun slept.",
+      "A seed grew."
     ],
     "correct": 2,
-    "explanation": "Check that you can question. is the useful check. Use a clue from the text.\nHint: Use a clue from the text.",
+    "explanation": "A seed grew. is the best answer.",
     "structuredExplanation": {
-      "summary": "Check that you can question. is the useful check. Use a clue from the text.",
-      "hint": "Use a clue from the text."
+      "summary": "A seed grew. is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 12
   },
   {
     "id": "ac9e1ly05-t-013",
     "curriculumCode": "AC9E1LY05",
     "bank": "test",
-    "skill": "ac9e1ly05 01 test apply",
+    "skill": "use comprehension strategies such as visualising, predicting, connecting, summarising and questioning",
     "printable": true,
     "type": "single",
-    "question": "A classmate chose “Do not use a clue from the text.”. Which answer would improve their response?",
-    "audioPrompt": "A classmate chose Do not use a clue from the text.. Which answer would improve their response?",
-    "visual": "📖 show two strategies; 🔎 predict; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 show two strategies; 🔎 predict; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly05.svg#ac9e1ly05-t-001\"></use></svg>",
+    "question": "Read: “Kim heard a bark at the gate.” What useful question could you ask?",
+    "audioPrompt": "Read: “Kim heard a bark at the gate.” What useful question could you ask?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly05.svg#ac9e1ly05-t-001",
-      "alt_text": "📖 show two strategies; 🔎 predict; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Both strategies are relevant and each is linked to a text clue",
-      "Do not use a clue from the text.",
-      "Retell every detail instead of the main idea."
+      "Which dog barked?",
+      "Is two plus two four?",
+      "What colour is music?"
     ],
     "correct": 0,
-    "explanation": "Both strategies are relevant and each is linked to a text clue is the stronger response because it uses the target skill. Use a clue from the text.\nHint: Use a clue from the text.",
+    "explanation": "Which dog barked? is the best answer.",
     "structuredExplanation": {
-      "summary": "Both strategies are relevant and each is linked to a text clue is the stronger response because it uses the target skill. Use a clue from the text.",
-      "hint": "Use a clue from the text."
+      "summary": "Which dog barked? is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 13
   },
   {
     "id": "ac9e1ly05-t-014",
     "curriculumCode": "AC9E1LY05",
     "bank": "test",
-    "skill": "ac9e1ly05 02 test apply",
+    "skill": "use comprehension strategies such as visualising, predicting, connecting, summarising and questioning",
     "printable": true,
     "type": "single",
-    "question": "A classmate chose “Retell every detail instead of the main idea.”. Which answer would improve their response?",
-    "audioPrompt": "A classmate chose Retell every detail instead of the main idea.. Which answer would improve their response?",
-    "visual": "📖 Draw a strategy map; 🔎 visualise; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Draw a strategy map; 🔎 visualise; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly05.svg#ac9e1ly05-t-003\"></use></svg>",
+    "question": "Read: “Ava fed the fox, then filled its water bowl.” What did Ava do?",
+    "audioPrompt": "Read: “Ava fed the fox, then filled its water bowl.” What did Ava do?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly05.svg#ac9e1ly05-t-003",
-      "alt_text": "📖 Draw a strategy map; 🔎 visualise; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Retell every detail instead of the main idea.",
-      "Five accurate actions organised under correct strategy labels",
-      "Treat inference as guess."
+      "cared for the animal",
+      "drew the animal",
+      "lost the animal"
     ],
-    "correct": 1,
-    "explanation": "Five accurate actions organised under correct strategy labels is the stronger response because it uses the target skill. Say the main idea, not every small event.\nHint: Say the main idea, not every small event.",
+    "correct": 0,
+    "explanation": "cared for the animal is the best answer.",
     "structuredExplanation": {
-      "summary": "Five accurate actions organised under correct strategy labels is the stronger response because it uses the target skill. Say the main idea, not every small event.",
-      "hint": "Say the main idea, not every small event."
+      "summary": "cared for the animal is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 14
   },
   {
     "id": "ac9e1ly05-t-015",
     "curriculumCode": "AC9E1LY05",
     "bank": "test",
-    "skill": "ac9e1ly05 03 test apply",
+    "skill": "use comprehension strategies such as visualising, predicting, connecting, summarising and questioning",
     "printable": true,
     "type": "single",
-    "question": "A classmate chose “Treat inference as guess.”. Which answer would improve their response?",
-    "audioPrompt": "A classmate chose Treat inference as guess.. Which answer would improve their response?",
-    "visual": "📖 Correct an unsupported inference; 🔎 connect; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Correct an unsupported inference; 🔎 connect; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly05.svg#ac9e1ly05-t-005\"></use></svg>",
+    "question": "Read: “The path was wet.” What clue helps you think it rained?",
+    "audioPrompt": "Read: “The path was wet.” What clue helps you think it rained?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly05.svg#ac9e1ly05-t-005",
-      "alt_text": "📖 Correct an unsupported inference; 🔎 connect; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Treat inference as guess.",
-      "Do not use a clue from the text.",
-      "One image does not show every child's preference"
+      "the word path",
+      "the full stop",
+      "wet path"
     ],
     "correct": 2,
-    "explanation": "One image does not show every child's preference is the stronger response because it uses the target skill. Combine clue plus thinking.\nHint: Combine clue plus thinking.",
+    "explanation": "wet path is the best answer.",
     "structuredExplanation": {
-      "summary": "One image does not show every child's preference is the stronger response because it uses the target skill. Combine clue plus thinking.",
-      "hint": "Combine clue plus thinking."
+      "summary": "wet path is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 15
   },
   {
     "id": "ac9e1ly05-t-016",
     "curriculumCode": "AC9E1LY05",
     "bank": "test",
-    "skill": "ac9e1ly05 04 test apply",
+    "skill": "use comprehension strategies such as visualising, predicting, connecting, summarising and questioning",
     "printable": true,
     "type": "single",
-    "question": "A classmate chose “The path ahead was flooded. Lee unfolded a map and pointed uphill”. Which answer would improve their response?",
-    "audioPrompt": "A classmate chose The path ahead was flooded. Lee unfolded a map and pointed uphill. Which answer would improve their response?",
-    "visual": "📖 Integrate strategies; 🔎 question; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Integrate strategies; 🔎 question; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly05.svg#ac9e1ly05-t-007\"></use></svg>",
+    "question": "Read: “Zoe smiled after opening the gift.” How did Zoe feel?",
+    "audioPrompt": "Read: “Zoe smiled after opening the gift.” How did Zoe feel?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly05.svg#ac9e1ly05-t-007",
-      "alt_text": "📖 Integrate strategies; 🔎 question; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Five accurate components: flood/map/uphill facts",
-      "The path ahead was flooded. Lee unfolded a map and pointed uphill",
-      "Do not use a clue from the text."
+      "angry",
+      "tired",
+      "happy"
     ],
-    "correct": 0,
-    "explanation": "Five accurate components: flood/map/uphill facts is the stronger response because it uses the target skill. Use a clue from the text.\nHint: Use a clue from the text.",
+    "correct": 2,
+    "explanation": "happy is the best answer.",
     "structuredExplanation": {
-      "summary": "Five accurate components: flood/map/uphill facts is the stronger response because it uses the target skill. Use a clue from the text.",
-      "hint": "Use a clue from the text."
+      "summary": "happy is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 16
   }
 ];
-window.skillrExamQuestions = window.skillrTestQuestions;
-window.quizQuestions = window.skillrTestQuestions;

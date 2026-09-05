@@ -4,466 +4,480 @@ window.skillrTestQuestions = [
     "id": "ac9e1ly01-t-001",
     "curriculumCode": "AC9E1LY01",
     "bank": "test",
-    "skill": "ac9e1ly01 01 answer",
+    "skill": "discuss different texts and identify some features that indicate their purposes",
     "printable": true,
     "type": "single",
-    "question": "Which response would correctly show alternate reading?",
-    "audioPrompt": "Which response would correctly show alternate reading?",
-    "visual": "📖 show alternate reading; 🔎 feature; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 show alternate reading; 🔎 feature; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly01.svg#ac9e1ly01-t-001\"></use></svg>",
+    "question": "Read and choose: Read: “First we mixed the flour. Then we baked the cake.” What kind of text is this?",
+    "audioPrompt": "Read and choose: Read: “First we mixed the flour. Then we baked the cake.” What kind of text is this?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly01.svg#ac9e1ly01-t-001",
-      "alt_text": "📖 show alternate reading; 🔎 feature; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Report sounds clear/neutral; warning is urgent/emphatic, with accurate purpose explanation",
-      "Do not use features as evidence.",
-      "Do not check more than one clue if possible."
+      "a made-up story",
+      "a recount",
+      "an opinion"
     ],
-    "correct": 0,
-    "explanation": "Report sounds clear/neutral; warning is urgent/emphatic, with accurate purpose explanation This matches the task.\nHint: Use features as evidence.",
+    "correct": 1,
+    "explanation": "a recount is the best answer.",
     "structuredExplanation": {
-      "summary": "Report sounds clear/neutral; warning is urgent/emphatic, with accurate purpose explanation This matches the task.",
-      "hint": "Use features as evidence."
+      "summary": "a recount is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 1
   },
   {
     "id": "ac9e1ly01-t-002",
     "curriculumCode": "AC9E1LY01",
     "bank": "test",
-    "skill": "ac9e1ly01 01 strategy",
+    "skill": "discuss different texts and identify some features that indicate their purposes",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you show alternate reading?",
-    "audioPrompt": "Which tip would help you show alternate reading?",
-    "visual": "🧠 show alternate reading; ➡️ Look at text; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 show alternate reading; ➡️ Look at text; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly01.svg#ac9e1ly01-t-002\"></use></svg>",
+    "question": "Read: “A duck needs food and water. It is a living thing.” What is this text for?",
+    "audioPrompt": "Read: “A duck needs food and water. It is a living thing.” What is this text for?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly01.svg#ac9e1ly01-t-002",
-      "alt_text": "🧠 show alternate reading; ➡️ Look at text; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Do not check more than one clue if possible.",
-      "Use features as evidence.",
-      "Leave out purpose word."
+      "to tell a joke",
+      "to give facts",
+      "to give an order"
     ],
     "correct": 1,
-    "explanation": "Use features as evidence.\nHint: Use features as evidence.",
+    "explanation": "to give facts is the best answer.",
     "structuredExplanation": {
-      "summary": "Use features as evidence.",
-      "hint": "Use features as evidence."
+      "summary": "to give facts is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 2
   },
   {
     "id": "ac9e1ly01-t-003",
     "curriculumCode": "AC9E1LY01",
     "bank": "test",
-    "skill": "ac9e1ly01 02 answer",
+    "skill": "discuss different texts and identify some features that indicate their purposes",
     "printable": true,
     "type": "single",
-    "question": "Which response would correctly draw two layouts?",
-    "audioPrompt": "Which response would correctly draw two layouts?",
-    "visual": "📖 Draw two layouts; 🔎 purpose; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Draw two layouts; 🔎 purpose; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly01.svg#ac9e1ly01-t-003\"></use></svg>",
+    "question": "Read: “I think the park is best because it is fun.” What does this text give?",
+    "audioPrompt": "Read: “I think the park is best because it is fun.” What does this text give?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly01.svg#ac9e1ly01-t-003",
-      "alt_text": "📖 Draw two layouts; 🔎 purpose; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Do not check more than one clue if possible.",
-      "Leave out purpose word.",
-      "Story layout supports narrative/image"
+      "a recipe",
+      "a greeting",
+      "an opinion"
     ],
     "correct": 2,
-    "explanation": "Story layout supports narrative/image This matches the task.\nHint: Check more than one clue if possible.",
+    "explanation": "an opinion is the best answer.",
     "structuredExplanation": {
-      "summary": "Story layout supports narrative/image This matches the task.",
-      "hint": "Check more than one clue if possible."
+      "summary": "an opinion is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 3
   },
   {
     "id": "ac9e1ly01-t-004",
     "curriculumCode": "AC9E1LY01",
     "bank": "test",
-    "skill": "ac9e1ly01 02 strategy",
+    "skill": "discuss different texts and identify some features that indicate their purposes",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you draw two layouts?",
-    "audioPrompt": "Which tip would help you draw two layouts?",
-    "visual": "🧠 Draw two layouts; ➡️ Notice feature; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Draw two layouts; ➡️ Notice feature; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly01.svg#ac9e1ly01-t-004\"></use></svg>",
+    "question": "Read: “The tiny goat flew to the moon.” What kind of text is this?",
+    "audioPrompt": "Read: “The tiny goat flew to the moon.” What kind of text is this?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly01.svg#ac9e1ly01-t-004",
-      "alt_text": "🧠 Draw two layouts; ➡️ Notice feature; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Use this routine: Look at text → Notice feature → Infer purpose → Explain.",
-      "Leave out purpose word.",
-      "Do not use features as evidence."
+      "a fact report",
+      "a list",
+      "a made-up story"
     ],
-    "correct": 0,
-    "explanation": "Use this routine: Look at text → Notice feature → Infer purpose → Explain.\nHint: Check more than one clue if possible.",
+    "correct": 2,
+    "explanation": "a made-up story is the best answer.",
     "structuredExplanation": {
-      "summary": "Use this routine: Look at text → Notice feature → Infer purpose → Explain.",
-      "hint": "Check more than one clue if possible."
+      "summary": "a made-up story is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 4
   },
   {
     "id": "ac9e1ly01-t-005",
     "curriculumCode": "AC9E1LY01",
     "bank": "test",
-    "skill": "ac9e1ly01 03 answer",
+    "skill": "discuss different texts and identify some features that indicate their purposes",
     "printable": true,
     "type": "single",
-    "question": "Which response would correctly correct a feature mismatch?",
-    "audioPrompt": "Which response would correctly correct a feature mismatch?",
-    "visual": "📖 Correct a feature mismatch; 🔎 story; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Correct a feature mismatch; 🔎 story; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly01.svg#ac9e1ly01-t-005\"></use></svg>",
+    "question": "Which text would have steps and numbered instructions?",
+    "audioPrompt": "Which text would have steps and numbered instructions?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly01.svg#ac9e1ly01-t-005",
-      "alt_text": "📖 Correct a feature mismatch; 🔎 story; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Adds clear safety heading and direct ordered actions/visual labels; any two feature-suited changes",
-      "Adds clear safety heading and direct ordered actions/visual labels; any two purpose-suited changes",
-      "Adds clear safety heading and direct ordered actions/visual labels; any two poster-suited changes"
+      "a how-to text",
+      "a poem",
+      "a story"
     ],
-    "correct": 1,
-    "explanation": "Adds clear safety heading and direct ordered actions/visual labels; any two purpose-suited changes This matches the task.\nHint: Name the purpose clearly.",
+    "correct": 0,
+    "explanation": "a how-to text is the best answer.",
     "structuredExplanation": {
-      "summary": "Adds clear safety heading and direct ordered actions/visual labels; any two purpose-suited changes This matches the task.",
-      "hint": "Name the purpose clearly."
+      "summary": "a how-to text is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 5
   },
   {
     "id": "ac9e1ly01-t-006",
     "curriculumCode": "AC9E1LY01",
     "bank": "test",
-    "skill": "ac9e1ly01 03 strategy",
+    "skill": "discuss different texts and identify some features that indicate their purposes",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you correct a feature mismatch?",
-    "audioPrompt": "Which tip would help you correct a feature mismatch?",
-    "visual": "🧠 Correct a feature mismatch; ➡️ Infer purpose; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Correct a feature mismatch; ➡️ Infer purpose; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly01.svg#ac9e1ly01-t-006\"></use></svg>",
+    "question": "Which text often has characters and a problem?",
+    "audioPrompt": "Which text often has characters and a problem?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly01.svg#ac9e1ly01-t-006",
-      "alt_text": "🧠 Correct a feature mismatch; ➡️ Infer purpose; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Do not use features as evidence.",
-      "Do not check more than one clue if possible.",
-      "Look for story and check the whole example."
+      "a story",
+      "a label",
+      "a fact list"
     ],
-    "correct": 2,
-    "explanation": "Look for story and check the whole example.\nHint: Name the purpose clearly.",
+    "correct": 0,
+    "explanation": "a story is the best answer.",
     "structuredExplanation": {
-      "summary": "Look for story and check the whole example.",
-      "hint": "Name the purpose clearly."
+      "summary": "a story is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 6
   },
   {
     "id": "ac9e1ly01-t-007",
     "curriculumCode": "AC9E1LY01",
     "bank": "test",
-    "skill": "ac9e1ly01 04 answer",
+    "skill": "discuss different texts and identify some features that indicate their purposes",
     "printable": true,
     "type": "single",
-    "question": "Which response would correctly analyse a mixed text?",
-    "audioPrompt": "Which response would correctly analyse a mixed text?",
-    "visual": "📖 Analyse a mixed text; 🔎 poster; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Analyse a mixed text; 🔎 poster; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly01.svg#ac9e1ly01-t-007\"></use></svg>",
+    "question": "Read and choose: Read: “Rain falls from clouds.” Is this fact or opinion?",
+    "audioPrompt": "Read and choose: Read: “Rain falls from clouds.” Is this fact or opinion?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly01.svg#ac9e1ly01-t-007",
-      "alt_text": "📖 Analyse a mixed text; 🔎 poster; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Inform/navigate via map/facts; persuade/action via visit/button; overall choice justified from emphasis",
-      "Visit today",
-      "Do not use features as evidence."
+      "question",
+      "opinion",
+      "fact"
     ],
-    "correct": 0,
-    "explanation": "Inform/navigate via map/facts; persuade/action via visit/button; overall choice justified from emphasis This matches the task.\nHint: Use features as evidence.",
+    "correct": 2,
+    "explanation": "fact is the best answer.",
     "structuredExplanation": {
-      "summary": "Inform/navigate via map/facts; persuade/action via visit/button; overall choice justified from emphasis This matches the task.",
-      "hint": "Use features as evidence."
+      "summary": "fact is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 7
   },
   {
     "id": "ac9e1ly01-t-008",
     "curriculumCode": "AC9E1LY01",
     "bank": "test",
-    "skill": "ac9e1ly01 04 strategy",
+    "skill": "discuss different texts and identify some features that indicate their purposes",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you analyse a mixed text?",
-    "audioPrompt": "Which tip would help you analyse a mixed text?",
-    "visual": "🧠 Analyse a mixed text; ➡️ Explain; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Analyse a mixed text; ➡️ Explain; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly01.svg#ac9e1ly01-t-008\"></use></svg>",
+    "question": "Read: “Please choose our new bag. It is the best!” What is the writer trying to do?",
+    "audioPrompt": "Read: “Please choose our new bag. It is the best!” What is the writer trying to do?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly01.svg#ac9e1ly01-t-008",
-      "alt_text": "🧠 Analyse a mixed text; ➡️ Explain; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Do not check more than one clue if possible.",
-      "Check that you can compare texts.",
-      "Leave out purpose word."
+      "give directions",
+      "tell a story",
+      "persuade"
     ],
-    "correct": 1,
-    "explanation": "Check that you can compare texts.\nHint: Use features as evidence.",
+    "correct": 2,
+    "explanation": "persuade is the best answer.",
     "structuredExplanation": {
-      "summary": "Check that you can compare texts.",
-      "hint": "Use features as evidence."
+      "summary": "persuade is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 8
   },
   {
     "id": "ac9e1ly01-t-009",
     "curriculumCode": "AC9E1LY01",
     "bank": "test",
-    "skill": "ac9e1ly01 01 test verify",
+    "skill": "discuss different texts and identify some features that indicate their purposes",
     "printable": true,
     "type": "single",
-    "question": "A classmate is unsure about this example. Which tip would help them check it carefully?",
-    "audioPrompt": "A classmate is unsure about this example. Which tip would help them check it carefully?",
-    "visual": "🧠 show alternate reading; ➡️ Look at text; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 show alternate reading; ➡️ Look at text; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly01.svg#ac9e1ly01-t-002\"></use></svg>",
+    "question": "Read: “First we mixed the flour. Then we baked the cake.” What kind of text is this?",
+    "audioPrompt": "Read: “First we mixed the flour. Then we baked the cake.” What kind of text is this?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly01.svg#ac9e1ly01-t-002",
-      "alt_text": "🧠 show alternate reading; ➡️ Look at text; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Do not use features as evidence.",
-      "Do not check more than one clue if possible.",
-      "Use features as evidence."
+      "an opinion",
+      "a recount",
+      "a made-up story"
     ],
-    "correct": 2,
-    "explanation": "Use features as evidence. is the useful check. Use features as evidence.\nHint: Use features as evidence.",
+    "correct": 1,
+    "explanation": "a recount is the best answer.",
     "structuredExplanation": {
-      "summary": "Use features as evidence. is the useful check. Use features as evidence.",
-      "hint": "Use features as evidence."
+      "summary": "a recount is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 9
   },
   {
     "id": "ac9e1ly01-t-010",
     "curriculumCode": "AC9E1LY01",
     "bank": "test",
-    "skill": "ac9e1ly01 02 test verify",
+    "skill": "discuss different texts and identify some features that indicate their purposes",
     "printable": true,
     "type": "single",
-    "question": "A classmate is unsure about this example. Which tip would help them check it carefully?",
-    "audioPrompt": "A classmate is unsure about this example. Which tip would help them check it carefully?",
-    "visual": "🧠 Draw two layouts; ➡️ Notice feature; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Draw two layouts; ➡️ Notice feature; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly01.svg#ac9e1ly01-t-004\"></use></svg>",
+    "question": "Read: “A goat needs food and water. It is a living thing.” What is this text for?",
+    "audioPrompt": "Read: “A goat needs food and water. It is a living thing.” What is this text for?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly01.svg#ac9e1ly01-t-004",
-      "alt_text": "🧠 Draw two layouts; ➡️ Notice feature; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Use this routine: Look at text → Notice feature → Infer purpose → Explain.",
-      "Do not check more than one clue if possible.",
-      "Leave out purpose word."
+      "to give an order",
+      "to tell a joke",
+      "to give facts"
     ],
-    "correct": 0,
-    "explanation": "Use this routine: Look at text → Notice feature → Infer purpose → Explain. is the useful check. Check more than one clue if possible.\nHint: Check more than one clue if possible.",
+    "correct": 2,
+    "explanation": "to give facts is the best answer.",
     "structuredExplanation": {
-      "summary": "Use this routine: Look at text → Notice feature → Infer purpose → Explain. is the useful check. Check more than one clue if possible.",
-      "hint": "Check more than one clue if possible."
+      "summary": "to give facts is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 10
   },
   {
     "id": "ac9e1ly01-t-011",
     "curriculumCode": "AC9E1LY01",
     "bank": "test",
-    "skill": "ac9e1ly01 03 test verify",
+    "skill": "discuss different texts and identify some features that indicate their purposes",
     "printable": true,
     "type": "single",
-    "question": "A classmate is unsure about this example. Which tip would help them check it carefully?",
-    "audioPrompt": "A classmate is unsure about this example. Which tip would help them check it carefully?",
-    "visual": "🧠 Correct a feature mismatch; ➡️ Infer purpose; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Correct a feature mismatch; ➡️ Infer purpose; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly01.svg#ac9e1ly01-t-006\"></use></svg>",
+    "question": "Read: “I think the pond is best because it is fun.” What does this text give?",
+    "audioPrompt": "Read: “I think the pond is best because it is fun.” What does this text give?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly01.svg#ac9e1ly01-t-006",
-      "alt_text": "🧠 Correct a feature mismatch; ➡️ Infer purpose; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Adds clear safety heading and direct ordered actions/visual labels; any two feature-suited changes",
-      "Look for story and check the whole example.",
-      "Adds clear safety heading and direct ordered actions/visual labels; any two poster-suited changes"
+      "a greeting",
+      "a recipe",
+      "an opinion"
     ],
-    "correct": 1,
-    "explanation": "Look for story and check the whole example. is the useful check. Name the purpose clearly.\nHint: Name the purpose clearly.",
+    "correct": 2,
+    "explanation": "an opinion is the best answer.",
     "structuredExplanation": {
-      "summary": "Look for story and check the whole example. is the useful check. Name the purpose clearly.",
-      "hint": "Name the purpose clearly."
+      "summary": "an opinion is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 11
   },
   {
     "id": "ac9e1ly01-t-012",
     "curriculumCode": "AC9E1LY01",
     "bank": "test",
-    "skill": "ac9e1ly01 04 test verify",
+    "skill": "discuss different texts and identify some features that indicate their purposes",
     "printable": true,
     "type": "single",
-    "question": "A classmate is unsure about this example. Which tip would help them check it carefully?",
-    "audioPrompt": "A classmate is unsure about this example. Which tip would help them check it carefully?",
-    "visual": "🧠 Analyse a mixed text; ➡️ Explain; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Analyse a mixed text; ➡️ Explain; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly01.svg#ac9e1ly01-t-008\"></use></svg>",
+    "question": "Read: “The tiny dog flew to the moon.” What kind of text is this?",
+    "audioPrompt": "Read: “The tiny dog flew to the moon.” What kind of text is this?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly01.svg#ac9e1ly01-t-008",
-      "alt_text": "🧠 Analyse a mixed text; ➡️ Explain; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Visit today",
-      "Do not use features as evidence.",
-      "Check that you can compare texts."
+      "a fact report",
+      "a list",
+      "a made-up story"
     ],
     "correct": 2,
-    "explanation": "Check that you can compare texts. is the useful check. Use features as evidence.\nHint: Use features as evidence.",
+    "explanation": "a made-up story is the best answer.",
     "structuredExplanation": {
-      "summary": "Check that you can compare texts. is the useful check. Use features as evidence.",
-      "hint": "Use features as evidence."
+      "summary": "a made-up story is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 12
   },
   {
     "id": "ac9e1ly01-t-013",
     "curriculumCode": "AC9E1LY01",
     "bank": "test",
-    "skill": "ac9e1ly01 01 test apply",
+    "skill": "discuss different texts and identify some features that indicate their purposes",
     "printable": true,
     "type": "single",
-    "question": "A classmate chose “Do not use features as evidence.”. Which answer would improve their response?",
-    "audioPrompt": "A classmate chose Do not use features as evidence.. Which answer would improve their response?",
-    "visual": "📖 show alternate reading; 🔎 feature; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 show alternate reading; 🔎 feature; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly01.svg#ac9e1ly01-t-001\"></use></svg>",
+    "question": "Look and choose: Which text would have steps and numbered instructions?",
+    "audioPrompt": "Look and choose: Which text would have steps and numbered instructions?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly01.svg#ac9e1ly01-t-001",
-      "alt_text": "📖 show alternate reading; 🔎 feature; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Report sounds clear/neutral; warning is urgent/emphatic, with accurate purpose explanation",
-      "Do not use features as evidence.",
-      "Do not check more than one clue if possible."
+      "a how-to text",
+      "a story",
+      "a poem"
     ],
     "correct": 0,
-    "explanation": "Report sounds clear/neutral; warning is urgent/emphatic, with accurate purpose explanation is the stronger response because it uses the target skill. Use features as evidence.\nHint: Use features as evidence.",
+    "explanation": "a how-to text is the best answer.",
     "structuredExplanation": {
-      "summary": "Report sounds clear/neutral; warning is urgent/emphatic, with accurate purpose explanation is the stronger response because it uses the target skill. Use features as evidence.",
-      "hint": "Use features as evidence."
+      "summary": "a how-to text is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 13
   },
   {
     "id": "ac9e1ly01-t-014",
     "curriculumCode": "AC9E1LY01",
     "bank": "test",
-    "skill": "ac9e1ly01 02 test apply",
+    "skill": "discuss different texts and identify some features that indicate their purposes",
     "printable": true,
     "type": "single",
-    "question": "A classmate chose “Do not check more than one clue if possible.”. Which answer would improve their response?",
-    "audioPrompt": "A classmate chose Do not check more than one clue if possible.. Which answer would improve their response?",
-    "visual": "📖 Draw two layouts; 🔎 purpose; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Draw two layouts; 🔎 purpose; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly01.svg#ac9e1ly01-t-003\"></use></svg>",
+    "question": "Which text often has characters and a problem?",
+    "audioPrompt": "Which text often has characters and a problem?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly01.svg#ac9e1ly01-t-003",
-      "alt_text": "📖 Draw two layouts; 🔎 purpose; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Do not check more than one clue if possible.",
-      "Story layout supports narrative/image",
-      "Leave out purpose word."
+      "a story",
+      "a fact list",
+      "a label"
     ],
-    "correct": 1,
-    "explanation": "Story layout supports narrative/image is the stronger response because it uses the target skill. Check more than one clue if possible.\nHint: Check more than one clue if possible.",
+    "correct": 0,
+    "explanation": "a story is the best answer.",
     "structuredExplanation": {
-      "summary": "Story layout supports narrative/image is the stronger response because it uses the target skill. Check more than one clue if possible.",
-      "hint": "Check more than one clue if possible."
+      "summary": "a story is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 14
   },
   {
     "id": "ac9e1ly01-t-015",
     "curriculumCode": "AC9E1LY01",
     "bank": "test",
-    "skill": "ac9e1ly01 03 test apply",
+    "skill": "discuss different texts and identify some features that indicate their purposes",
     "printable": true,
     "type": "single",
-    "question": "A classmate chose “Adds clear safety heading and direct ordered actions/visual labels; any two feature-suited changes”. Which answer would improve their response?",
-    "audioPrompt": "A classmate chose Adds clear safety heading and direct ordered actions/visual labels; any two feature-suited changes. Which answer would improve their response?",
-    "visual": "📖 Correct a feature mismatch; 🔎 story; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Correct a feature mismatch; 🔎 story; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly01.svg#ac9e1ly01-t-005\"></use></svg>",
+    "question": "Read: “Rain falls from clouds.” Is this fact or opinion?",
+    "audioPrompt": "Read: “Rain falls from clouds.” Is this fact or opinion?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly01.svg#ac9e1ly01-t-005",
-      "alt_text": "📖 Correct a feature mismatch; 🔎 story; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Adds clear safety heading and direct ordered actions/visual labels; any two feature-suited changes",
-      "Adds clear safety heading and direct ordered actions/visual labels; any two poster-suited changes",
-      "Adds clear safety heading and direct ordered actions/visual labels; any two purpose-suited changes"
+      "opinion",
+      "question",
+      "fact"
     ],
     "correct": 2,
-    "explanation": "Adds clear safety heading and direct ordered actions/visual labels; any two purpose-suited changes is the stronger response because it uses the target skill. Name the purpose clearly.\nHint: Name the purpose clearly.",
+    "explanation": "fact is the best answer.",
     "structuredExplanation": {
-      "summary": "Adds clear safety heading and direct ordered actions/visual labels; any two purpose-suited changes is the stronger response because it uses the target skill. Name the purpose clearly.",
-      "hint": "Name the purpose clearly."
+      "summary": "fact is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 15
   },
   {
     "id": "ac9e1ly01-t-016",
     "curriculumCode": "AC9E1LY01",
     "bank": "test",
-    "skill": "ac9e1ly01 04 test apply",
+    "skill": "discuss different texts and identify some features that indicate their purposes",
     "printable": true,
     "type": "single",
-    "question": "A classmate chose “Visit today”. Which answer would improve their response?",
-    "audioPrompt": "A classmate chose Visit today. Which answer would improve their response?",
-    "visual": "📖 Analyse a mixed text; 🔎 poster; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Analyse a mixed text; 🔎 poster; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly01.svg#ac9e1ly01-t-007\"></use></svg>",
+    "question": "Read: “Please choose our new ball. It is the best!” What is the writer trying to do?",
+    "audioPrompt": "Read: “Please choose our new ball. It is the best!” What is the writer trying to do?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly01.svg#ac9e1ly01-t-007",
-      "alt_text": "📖 Analyse a mixed text; 🔎 poster; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Inform/navigate via map/facts; persuade/action via visit/button; overall choice justified from emphasis",
-      "Visit today",
-      "Do not use features as evidence."
+      "tell a story",
+      "give directions",
+      "persuade"
     ],
-    "correct": 0,
-    "explanation": "Inform/navigate via map/facts; persuade/action via visit/button; overall choice justified from emphasis is the stronger response because it uses the target skill. Use features as evidence.\nHint: Use features as evidence.",
+    "correct": 2,
+    "explanation": "persuade is the best answer.",
     "structuredExplanation": {
-      "summary": "Inform/navigate via map/facts; persuade/action via visit/button; overall choice justified from emphasis is the stronger response because it uses the target skill. Use features as evidence.",
-      "hint": "Use features as evidence."
+      "summary": "persuade is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 16
   }
 ];
-window.skillrExamQuestions = window.skillrTestQuestions;
-window.quizQuestions = window.skillrTestQuestions;

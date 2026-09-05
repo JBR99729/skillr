@@ -4,1161 +4,1440 @@ window.skillrPracticeQuestions = [
     "id": "ac9e1ly13-p-001",
     "curriculumCode": "AC9E1LY13",
     "bank": "practice",
-    "skill": "ac9e1ly13 01 recognise",
+    "skill": "spell one- and two-syllable words with common letter patterns",
     "printable": true,
     "type": "single",
-    "question": "Write the word made by adding m to the beginning of -at.",
-    "audioPrompt": "Write the word made by adding m to the beginning of -at.",
-    "visual": "📖 Spell a word family member; 🔎 letter pattern; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Spell a word family member; 🔎 letter pattern; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly13.svg#ac9e1ly13-p-001\"></use></svg>",
+    "question": "Mia wants to write “rabbit”. Which spelling is correct?",
+    "audioPrompt": "Mia wants to write “rabbit”. Which spelling is correct?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly13.svg#ac9e1ly13-p-001",
-      "alt_text": "📖 Spell a word family member; 🔎 letter pattern; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Mat",
-      "met",
-      "map"
+      "rabbitt",
+      "rabit",
+      "rabbit"
     ],
-    "correct": 0,
-    "explanation": "Mat This matches the task.\nHint: Use sound and pattern knowledge.",
+    "correct": 2,
+    "explanation": "rabbit is the best answer.",
     "structuredExplanation": {
-      "summary": "Mat This matches the task.",
-      "hint": "Use sound and pattern knowledge."
+      "summary": "rabbit is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 1
   },
   {
     "id": "ac9e1ly13-p-002",
     "curriculumCode": "AC9E1LY13",
     "bank": "practice",
-    "skill": "ac9e1ly13 02 recognise",
+    "skill": "spell one- and two-syllable words with common letter patterns",
     "printable": true,
     "type": "single",
-    "question": "Which response would correctly match patterns and words?",
-    "audioPrompt": "Which response would correctly match patterns and words?",
-    "visual": "📖 Match patterns and words; 🔎 syllable; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Match patterns and words; 🔎 syllable; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly13.svg#ac9e1ly13-p-003\"></use></svg>",
+    "question": "Ben wants to write “sunset”. Which spelling is correct?",
+    "audioPrompt": "Ben wants to write “sunset”. Which spelling is correct?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly13.svg#ac9e1ly13-p-003",
-      "alt_text": "📖 Match patterns and words; 🔎 syllable; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Leave out second syllable.",
-      "Do not check the spelling pattern.",
-      "Each pattern matched correctly"
+      "sunsat",
+      "sunset",
+      "sunsett"
     ],
-    "correct": 2,
-    "explanation": "Each pattern matched correctly This matches the task.\nHint: Clap and spell both parts.",
+    "correct": 1,
+    "explanation": "sunset is the best answer.",
     "structuredExplanation": {
-      "summary": "Each pattern matched correctly This matches the task.",
-      "hint": "Clap and spell both parts."
+      "summary": "sunset is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 2
   },
   {
     "id": "ac9e1ly13-p-003",
     "curriculumCode": "AC9E1LY13",
     "bank": "practice",
-    "skill": "ac9e1ly13 03 recognise",
+    "skill": "spell one- and two-syllable words with common letter patterns",
     "printable": true,
     "type": "single",
-    "question": "Which response would correctly build a blend word?",
-    "audioPrompt": "Which response would correctly build a blend word?",
-    "visual": "📖 Build a blend word; 🔎 segment; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Build a blend word; 🔎 segment; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly13.svg#ac9e1ly13-p-005\"></use></svg>",
+    "question": "Sam wants to write “chicken”. Which spelling is correct?",
+    "audioPrompt": "Sam wants to write “chicken”. Which spelling is correct?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly13.svg#ac9e1ly13-p-005",
-      "alt_text": "📖 Build a blend word; 🔎 segment; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Do not check the spelling pattern.",
-      "s-t-o-p in correct order, with st blend retained",
-      "Do not use sound and pattern knowledge."
+      "chikin",
+      "chicken",
+      "chiken"
     ],
     "correct": 1,
-    "explanation": "s-t-o-p in correct order, with st blend retained This matches the task.\nHint: Compare with a known word.",
+    "explanation": "chicken is the best answer.",
     "structuredExplanation": {
-      "summary": "s-t-o-p in correct order, with st blend retained This matches the task.",
-      "hint": "Compare with a known word."
+      "summary": "chicken is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 3
   },
   {
     "id": "ac9e1ly13-p-004",
     "curriculumCode": "AC9E1LY13",
     "bank": "practice",
-    "skill": "ac9e1ly13 04 recognise",
+    "skill": "spell one- and two-syllable words with common letter patterns",
     "printable": true,
     "type": "single",
-    "question": "Which response would correctly split a two-syllable word?",
-    "audioPrompt": "Which response would correctly split a two-syllable word?",
-    "visual": "📖 Split a two-syllable word; 🔎 spell; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Split a two-syllable word; 🔎 spell; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly13.svg#ac9e1ly13-p-007\"></use></svg>",
+    "question": "Kim wants to write “picnic”. Which spelling is correct?",
+    "audioPrompt": "Kim wants to write “picnic”. Which spelling is correct?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly13.svg#ac9e1ly13-p-007",
-      "alt_text": "📖 Split a two-syllable word; 🔎 spell; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Pic/nic → picnic",
-      "picnic → Pic/nic",
-      "Do not use sound and pattern knowledge."
+      "picnik",
+      "picnic",
+      "picknic"
     ],
-    "correct": 0,
-    "explanation": "Pic/nic → picnic This matches the task.\nHint: Use sound and pattern knowledge.",
+    "correct": 1,
+    "explanation": "picnic is the best answer.",
     "structuredExplanation": {
-      "summary": "Pic/nic → picnic This matches the task.",
-      "hint": "Use sound and pattern knowledge."
+      "summary": "picnic is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 4
   },
   {
     "id": "ac9e1ly13-p-005",
     "curriculumCode": "AC9E1LY13",
     "bank": "practice",
-    "skill": "ac9e1ly13 05 recognise",
+    "skill": "spell one- and two-syllable words with common letter patterns",
     "printable": true,
     "type": "single",
-    "question": "Which response would correctly order spelling checks?",
-    "audioPrompt": "Which response would correctly order spelling checks?",
-    "visual": "📖 Order spelling checks; 🔎 check; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Order spelling checks; 🔎 check; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly13.svg#ac9e1ly13-p-009\"></use></svg>",
+    "question": "Ava wants to write “rocket”. Which spelling is correct?",
+    "audioPrompt": "Ava wants to write “rocket”. Which spelling is correct?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly13.svg#ac9e1ly13-p-009",
-      "alt_text": "📖 Order spelling checks; 🔎 check; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "reread/check → write → segment → Say",
-      "Leave out second syllable.",
-      "Say → segment → write → reread/check"
+      "roket",
+      "rocket",
+      "rockit"
     ],
-    "correct": 2,
-    "explanation": "Say → segment → write → reread/check This matches the task.\nHint: Clap and spell both parts.",
+    "correct": 1,
+    "explanation": "rocket is the best answer.",
     "structuredExplanation": {
-      "summary": "Say → segment → write → reread/check This matches the task.",
-      "hint": "Clap and spell both parts."
+      "summary": "rocket is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 5
   },
   {
     "id": "ac9e1ly13-p-006",
     "curriculumCode": "AC9E1LY13",
     "bank": "practice",
-    "skill": "ac9e1ly13 06 recognise",
+    "skill": "spell one- and two-syllable words with common letter patterns",
     "printable": true,
     "type": "single",
-    "question": "Which response would correctly draw a word-family house?",
-    "audioPrompt": "Which response would correctly draw a word-family house?",
-    "visual": "📖 Draw a word-family house; 🔎 letter pattern; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Draw a word-family house; 🔎 letter pattern; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly13.svg#ac9e1ly13-p-011\"></use></svg>",
+    "question": "Leo wants to write “basket”. Which spelling is correct?",
+    "audioPrompt": "Leo wants to write “basket”. Which spelling is correct?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly13.svg#ac9e1ly13-p-011",
-      "alt_text": "📖 Draw a word-family house; 🔎 letter pattern; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Do not check the spelling pattern.",
-      "All three words spelled correctly and -op highlighted",
-      "Do not use sound and pattern knowledge."
+      "baskett",
+      "baskit",
+      "basket"
     ],
-    "correct": 1,
-    "explanation": "All three words spelled correctly and -op highlighted This matches the task.\nHint: Compare with a known word.",
+    "correct": 2,
+    "explanation": "basket is the best answer.",
     "structuredExplanation": {
-      "summary": "All three words spelled correctly and -op highlighted This matches the task.",
-      "hint": "Compare with a known word."
+      "summary": "basket is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 6
   },
   {
     "id": "ac9e1ly13-p-007",
     "curriculumCode": "AC9E1LY13",
     "bank": "practice",
-    "skill": "ac9e1ly13 07 recognise",
+    "skill": "spell one- and two-syllable words with common letter patterns",
     "printable": true,
     "type": "single",
-    "question": "Which response would correctly explain a missing blend letter?",
-    "audioPrompt": "Which response would correctly explain a missing blend letter?",
-    "visual": "📖 Explain a missing blend letter; 🔎 syllable; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Explain a missing blend letter; 🔎 syllable; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly13.svg#ac9e1ly13-p-013\"></use></svg>",
+    "question": "Zoe wants to write “kitten”. Which spelling is correct?",
+    "audioPrompt": "Zoe wants to write “kitten”. Which spelling is correct?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly13.svg#ac9e1ly13-p-013",
-      "alt_text": "📖 Explain a missing blend letter; 🔎 syllable; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "/l/ and letter l are missing from bl",
-      "Do not use sound and pattern knowledge.",
-      "Leave out second syllable."
+      "kiten",
+      "kitten",
+      "kittin"
     ],
-    "correct": 0,
-    "explanation": "/l/ and letter l are missing from bl This matches the task.\nHint: Use sound and pattern knowledge.",
+    "correct": 1,
+    "explanation": "kitten is the best answer.",
     "structuredExplanation": {
-      "summary": "/l/ and letter l are missing from bl This matches the task.",
-      "hint": "Use sound and pattern knowledge."
+      "summary": "kitten is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 7
   },
   {
     "id": "ac9e1ly13-p-008",
     "curriculumCode": "AC9E1LY13",
     "bank": "practice",
-    "skill": "ac9e1ly13 08 recognise",
+    "skill": "spell one- and two-syllable words with common letter patterns",
     "printable": true,
     "type": "single",
-    "question": "Which response would correctly spell from two chunks?",
-    "audioPrompt": "Which response would correctly spell from two chunks?",
-    "visual": "📖 Spell from two chunks; 🔎 segment; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Spell from two chunks; 🔎 segment; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly13.svg#ac9e1ly13-p-015\"></use></svg>",
+    "question": "Max wants to write “helmet”. Which spelling is correct?",
+    "audioPrompt": "Max wants to write “helmet”. Which spelling is correct?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly13.svg#ac9e1ly13-p-015",
-      "alt_text": "📖 Spell from two chunks; 🔎 segment; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Leave out second syllable.",
-      "Do not check the spelling pattern.",
-      "Bed + room = bedroom"
+      "helmit",
+      "helmet",
+      "helmett"
     ],
-    "correct": 2,
-    "explanation": "Bed + room = bedroom This matches the task.\nHint: Clap and spell both parts.",
+    "correct": 1,
+    "explanation": "helmet is the best answer.",
     "structuredExplanation": {
-      "summary": "Bed + room = bedroom This matches the task.",
-      "hint": "Clap and spell both parts."
+      "summary": "helmet is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 8
   },
   {
     "id": "ac9e1ly13-p-009",
     "curriculumCode": "AC9E1LY13",
     "bank": "practice",
-    "skill": "ac9e1ly13 09 recognise",
+    "skill": "spell one- and two-syllable words with common letter patterns",
     "printable": true,
     "type": "single",
-    "question": "Write the word cake from the sounds /k/ /ā/ /k/ using a common pattern.",
-    "audioPrompt": "Write the word cake from the sounds /k/ /ā/ /k/ using a common pattern.",
-    "visual": "📖 Use a long-vowel pattern; 🔎 spell; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Use a long-vowel pattern; 🔎 spell; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly13.svg#ac9e1ly13-p-017\"></use></svg>",
+    "question": "Ben wants to write “rabbit”. Which spelling is correct?",
+    "audioPrompt": "Ben wants to write “rabbit”. Which spelling is correct?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly13.svg#ac9e1ly13-p-017",
-      "alt_text": "📖 Use a long-vowel pattern; 🔎 spell; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "a common pattern",
-      "Cake",
-      "Do not check the spelling pattern."
+      "rabbit",
+      "rabit",
+      "rabbitt"
     ],
-    "correct": 1,
-    "explanation": "Cake This matches the task.\nHint: Compare with a known word.",
+    "correct": 0,
+    "explanation": "rabbit is the best answer.",
     "structuredExplanation": {
-      "summary": "Cake This matches the task.",
-      "hint": "Compare with a known word."
+      "summary": "rabbit is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 9
   },
   {
     "id": "ac9e1ly13-p-010",
     "curriculumCode": "AC9E1LY13",
     "bank": "practice",
-    "skill": "ac9e1ly13 10 recognise",
+    "skill": "spell one- and two-syllable words with common letter patterns",
     "printable": true,
     "type": "single",
-    "question": "Which response would correctly match blends and words?",
-    "audioPrompt": "Which response would correctly match blends and words?",
-    "visual": "📖 Match blends and words; 🔎 check; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Match blends and words; 🔎 check; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly13.svg#ac9e1ly13-p-019\"></use></svg>",
+    "question": "Sam wants to write “sunset”. Which spelling is correct?",
+    "audioPrompt": "Sam wants to write “sunset”. Which spelling is correct?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly13.svg#ac9e1ly13-p-019",
-      "alt_text": "📖 Match blends and words; 🔎 check; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Bl ↔ blue beginning; st ↔ nest ending; cr ↔ crab beginning",
-      "Bl ↔ nest ending; st ↔ crab beginning; cr ↔ blue beginning",
-      "Do not use sound and pattern knowledge."
+      "sunsett",
+      "sunsat",
+      "sunset"
     ],
-    "correct": 0,
-    "explanation": "Bl ↔ blue beginning; st ↔ nest ending; cr ↔ crab beginning This matches the task.\nHint: Use sound and pattern knowledge.",
+    "correct": 2,
+    "explanation": "sunset is the best answer.",
     "structuredExplanation": {
-      "summary": "Bl ↔ blue beginning; st ↔ nest ending; cr ↔ crab beginning This matches the task.",
-      "hint": "Use sound and pattern knowledge."
+      "summary": "sunset is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 10
   },
   {
     "id": "ac9e1ly13-p-011",
     "curriculumCode": "AC9E1LY13",
     "bank": "practice",
-    "skill": "ac9e1ly13 01 explain",
+    "skill": "spell one- and two-syllable words with common letter patterns",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you spell a word family member?",
-    "audioPrompt": "Which tip would help you spell a word family member?",
-    "visual": "🧠 Spell a word family member; ➡️ Say word; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Spell a word family member; ➡️ Say word; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly13.svg#ac9e1ly13-p-002\"></use></svg>",
+    "question": "Kim wants to write “chicken”. Which spelling is correct?",
+    "audioPrompt": "Kim wants to write “chicken”. Which spelling is correct?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly13.svg#ac9e1ly13-p-002",
-      "alt_text": "🧠 Spell a word family member; ➡️ Say word; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Leave out second syllable.",
-      "Use sound and pattern knowledge.",
-      "Do not check the spelling pattern."
+      "chiken",
+      "chicken",
+      "chikin"
     ],
     "correct": 1,
-    "explanation": "Use sound and pattern knowledge.\nHint: Use sound and pattern knowledge.",
+    "explanation": "chicken is the best answer.",
     "structuredExplanation": {
-      "summary": "Use sound and pattern knowledge.",
-      "hint": "Use sound and pattern knowledge."
+      "summary": "chicken is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 11
   },
   {
     "id": "ac9e1ly13-p-012",
     "curriculumCode": "AC9E1LY13",
     "bank": "practice",
-    "skill": "ac9e1ly13 02 explain",
+    "skill": "spell one- and two-syllable words with common letter patterns",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you match patterns and words?",
-    "audioPrompt": "Which tip would help you match patterns and words?",
-    "visual": "🧠 Match patterns and words; ➡️ Segment sounds/syllables; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Match patterns and words; ➡️ Segment sounds/syllables; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly13.svg#ac9e1ly13-p-004\"></use></svg>",
+    "question": "Ava wants to write “picnic”. Which spelling is correct?",
+    "audioPrompt": "Ava wants to write “picnic”. Which spelling is correct?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly13.svg#ac9e1ly13-p-004",
-      "alt_text": "🧠 Match patterns and words; ➡️ Segment sounds/syllables; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Use this routine: Say word → Segment sounds/syllables → Choose pattern → Write → Check.",
-      "Do not check the spelling pattern.",
-      "Do not use sound and pattern knowledge."
+      "picnic",
+      "picnik",
+      "picknic"
     ],
     "correct": 0,
-    "explanation": "Use this routine: Say word → Segment sounds/syllables → Choose pattern → Write → Check.\nHint: Clap and spell both parts.",
+    "explanation": "picnic is the best answer.",
     "structuredExplanation": {
-      "summary": "Use this routine: Say word → Segment sounds/syllables → Choose pattern → Write → Check.",
-      "hint": "Clap and spell both parts."
+      "summary": "picnic is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 12
   },
   {
     "id": "ac9e1ly13-p-013",
     "curriculumCode": "AC9E1LY13",
     "bank": "practice",
-    "skill": "ac9e1ly13 03 explain",
+    "skill": "spell one- and two-syllable words with common letter patterns",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you build a blend word?",
-    "audioPrompt": "Which tip would help you build a blend word?",
-    "visual": "🧠 Build a blend word; ➡️ Choose pattern; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Build a blend word; ➡️ Choose pattern; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly13.svg#ac9e1ly13-p-006\"></use></svg>",
+    "question": "Leo wants to write “rocket”. Which spelling is correct?",
+    "audioPrompt": "Leo wants to write “rocket”. Which spelling is correct?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly13.svg#ac9e1ly13-p-006",
-      "alt_text": "🧠 Build a blend word; ➡️ Choose pattern; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Do not use sound and pattern knowledge.",
-      "Leave out second syllable.",
-      "Look for segment and check the whole example."
+      "rockit",
+      "roket",
+      "rocket"
     ],
     "correct": 2,
-    "explanation": "Look for segment and check the whole example.\nHint: Compare with a known word.",
+    "explanation": "rocket is the best answer.",
     "structuredExplanation": {
-      "summary": "Look for segment and check the whole example.",
-      "hint": "Compare with a known word."
+      "summary": "rocket is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 13
   },
   {
     "id": "ac9e1ly13-p-014",
     "curriculumCode": "AC9E1LY13",
     "bank": "practice",
-    "skill": "ac9e1ly13 04 explain",
+    "skill": "spell one- and two-syllable words with common letter patterns",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you split a two-syllable word?",
-    "audioPrompt": "Which tip would help you split a two-syllable word?",
-    "visual": "🧠 Split a two-syllable word; ➡️ Write; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Split a two-syllable word; ➡️ Write; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly13.svg#ac9e1ly13-p-008\"></use></svg>",
+    "question": "Zoe wants to write “basket”. Which spelling is correct?",
+    "audioPrompt": "Zoe wants to write “basket”. Which spelling is correct?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly13.svg#ac9e1ly13-p-008",
-      "alt_text": "🧠 Split a two-syllable word; ➡️ Write; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Leave out second syllable.",
-      "Check that you can segment before spelling.",
-      "Do not check the spelling pattern."
+      "baskit",
+      "basket",
+      "baskett"
     ],
     "correct": 1,
-    "explanation": "Check that you can segment before spelling.\nHint: Use sound and pattern knowledge.",
+    "explanation": "basket is the best answer.",
     "structuredExplanation": {
-      "summary": "Check that you can segment before spelling.",
-      "hint": "Use sound and pattern knowledge."
+      "summary": "basket is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 14
   },
   {
     "id": "ac9e1ly13-p-015",
     "curriculumCode": "AC9E1LY13",
     "bank": "practice",
-    "skill": "ac9e1ly13 05 explain",
+    "skill": "spell one- and two-syllable words with common letter patterns",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you order spelling checks?",
-    "audioPrompt": "Which tip would help you order spelling checks?",
-    "visual": "🧠 Order spelling checks; ➡️ Check; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Order spelling checks; ➡️ Check; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly13.svg#ac9e1ly13-p-010\"></use></svg>",
+    "question": "Max wants to write “kitten”. Which spelling is correct?",
+    "audioPrompt": "Max wants to write “kitten”. Which spelling is correct?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly13.svg#ac9e1ly13-p-010",
-      "alt_text": "🧠 Order spelling checks; ➡️ Check; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Sequencing a spelling strategy.",
-      "Do not check the spelling pattern.",
-      "Do not use sound and pattern knowledge."
+      "kitten",
+      "kiten",
+      "kittin"
     ],
     "correct": 0,
-    "explanation": "Sequencing a spelling strategy.\nHint: Clap and spell both parts.",
+    "explanation": "kitten is the best answer.",
     "structuredExplanation": {
-      "summary": "Sequencing a spelling strategy.",
-      "hint": "Clap and spell both parts."
+      "summary": "kitten is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 15
   },
   {
     "id": "ac9e1ly13-p-016",
     "curriculumCode": "AC9E1LY13",
     "bank": "practice",
-    "skill": "ac9e1ly13 06 explain",
+    "skill": "spell one- and two-syllable words with common letter patterns",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you draw a word-family house?",
-    "audioPrompt": "Which tip would help you draw a word-family house?",
-    "visual": "🧠 Draw a word-family house; ➡️ Say word; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Draw a word-family house; ➡️ Say word; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly13.svg#ac9e1ly13-p-012\"></use></svg>",
+    "question": "Mia wants to write “helmet”. Which spelling is correct?",
+    "audioPrompt": "Mia wants to write “helmet”. Which spelling is correct?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly13.svg#ac9e1ly13-p-012",
-      "alt_text": "🧠 Draw a word-family house; ➡️ Say word; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Do not use sound and pattern knowledge.",
-      "Leave out second syllable.",
-      "Compare with a known word."
+      "helmit",
+      "helmett",
+      "helmet"
     ],
     "correct": 2,
-    "explanation": "Compare with a known word.\nHint: Compare with a known word.",
+    "explanation": "helmet is the best answer.",
     "structuredExplanation": {
-      "summary": "Compare with a known word.",
-      "hint": "Compare with a known word."
+      "summary": "helmet is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 16
   },
   {
     "id": "ac9e1ly13-p-017",
     "curriculumCode": "AC9E1LY13",
     "bank": "practice",
-    "skill": "ac9e1ly13 07 explain",
+    "skill": "spell one- and two-syllable words with common letter patterns",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you explain a missing blend letter?",
-    "audioPrompt": "Which tip would help you explain a missing blend letter?",
-    "visual": "🧠 Explain a missing blend letter; ➡️ Segment sounds/syllables; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Explain a missing blend letter; ➡️ Segment sounds/syllables; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly13.svg#ac9e1ly13-p-014\"></use></svg>",
+    "question": "Sam wants to write “rabbit”. Which spelling is correct?",
+    "audioPrompt": "Sam wants to write “rabbit”. Which spelling is correct?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly13.svg#ac9e1ly13-p-014",
-      "alt_text": "🧠 Explain a missing blend letter; ➡️ Segment sounds/syllables; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Leave out second syllable.",
-      "Use this routine: Say word → Segment sounds/syllables → Choose pattern → Write → Check.",
-      "Do not check the spelling pattern."
+      "rabit",
+      "rabbitt",
+      "rabbit"
     ],
-    "correct": 1,
-    "explanation": "Use this routine: Say word → Segment sounds/syllables → Choose pattern → Write → Check.\nHint: Use sound and pattern knowledge.",
+    "correct": 2,
+    "explanation": "rabbit is the best answer.",
     "structuredExplanation": {
-      "summary": "Use this routine: Say word → Segment sounds/syllables → Choose pattern → Write → Check.",
-      "hint": "Use sound and pattern knowledge."
+      "summary": "rabbit is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 2,
+    "difficultyTier": "guided",
+    "sequencePriority": 17
   },
   {
     "id": "ac9e1ly13-p-018",
     "curriculumCode": "AC9E1LY13",
     "bank": "practice",
-    "skill": "ac9e1ly13 08 explain",
+    "skill": "spell one- and two-syllable words with common letter patterns",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you spell from two chunks?",
-    "audioPrompt": "Which tip would help you spell from two chunks?",
-    "visual": "🧠 Spell from two chunks; ➡️ Choose pattern; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Spell from two chunks; ➡️ Choose pattern; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly13.svg#ac9e1ly13-p-016\"></use></svg>",
+    "question": "Kim wants to write “sunset”. Which spelling is correct?",
+    "audioPrompt": "Kim wants to write “sunset”. Which spelling is correct?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly13.svg#ac9e1ly13-p-016",
-      "alt_text": "🧠 Spell from two chunks; ➡️ Choose pattern; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Look for segment and check the whole example.",
-      "Do not check the spelling pattern.",
-      "Do not use sound and pattern knowledge."
+      "sunset",
+      "sunsett",
+      "sunsat"
     ],
     "correct": 0,
-    "explanation": "Look for segment and check the whole example.\nHint: Clap and spell both parts.",
+    "explanation": "sunset is the best answer.",
     "structuredExplanation": {
-      "summary": "Look for segment and check the whole example.",
-      "hint": "Clap and spell both parts."
+      "summary": "sunset is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 2,
+    "difficultyTier": "guided",
+    "sequencePriority": 18
   },
   {
     "id": "ac9e1ly13-p-019",
     "curriculumCode": "AC9E1LY13",
     "bank": "practice",
-    "skill": "ac9e1ly13 09 explain",
+    "skill": "spell one- and two-syllable words with common letter patterns",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you use a long-vowel pattern?",
-    "audioPrompt": "Which tip would help you use a long-vowel pattern?",
-    "visual": "🧠 Use a long-vowel pattern; ➡️ Write; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Use a long-vowel pattern; ➡️ Write; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly13.svg#ac9e1ly13-p-018\"></use></svg>",
+    "question": "Ava wants to write “chicken”. Which spelling is correct?",
+    "audioPrompt": "Ava wants to write “chicken”. Which spelling is correct?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly13.svg#ac9e1ly13-p-018",
-      "alt_text": "🧠 Use a long-vowel pattern; ➡️ Write; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Do not use sound and pattern knowledge.",
-      "Leave out second syllable.",
-      "Check that you can segment before spelling."
+      "chikin",
+      "chicken",
+      "chiken"
     ],
-    "correct": 2,
-    "explanation": "Check that you can segment before spelling.\nHint: Compare with a known word.",
+    "correct": 1,
+    "explanation": "chicken is the best answer.",
     "structuredExplanation": {
-      "summary": "Check that you can segment before spelling.",
-      "hint": "Compare with a known word."
+      "summary": "chicken is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 2,
+    "difficultyTier": "guided",
+    "sequencePriority": 19
   },
   {
     "id": "ac9e1ly13-p-020",
     "curriculumCode": "AC9E1LY13",
     "bank": "practice",
-    "skill": "ac9e1ly13 10 explain",
+    "skill": "spell one- and two-syllable words with common letter patterns",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you match blends and words?",
-    "audioPrompt": "Which tip would help you match blends and words?",
-    "visual": "🧠 Match blends and words; ➡️ Check; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Match blends and words; ➡️ Check; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly13.svg#ac9e1ly13-p-020\"></use></svg>",
+    "question": "Leo wants to write “picnic”. Which spelling is correct?",
+    "audioPrompt": "Leo wants to write “picnic”. Which spelling is correct?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly13.svg#ac9e1ly13-p-020",
-      "alt_text": "🧠 Match blends and words; ➡️ Check; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Leave out second syllable.",
-      "Recognising initial and final blend spellings.",
-      "Do not check the spelling pattern."
+      "picnic",
+      "picknic",
+      "picnik"
     ],
-    "correct": 1,
-    "explanation": "Recognising initial and final blend spellings.\nHint: Use sound and pattern knowledge.",
+    "correct": 0,
+    "explanation": "picnic is the best answer.",
     "structuredExplanation": {
-      "summary": "Recognising initial and final blend spellings.",
-      "hint": "Use sound and pattern knowledge."
+      "summary": "picnic is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 2,
+    "difficultyTier": "guided",
+    "sequencePriority": 20
   },
   {
     "id": "ac9e1ly13-p-021",
     "curriculumCode": "AC9E1LY13",
     "bank": "practice",
-    "skill": "ac9e1ly13 01 discriminate",
+    "skill": "spell one- and two-syllable words with common letter patterns",
     "printable": true,
     "type": "single",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": "📖 Spell a word family member; 🔎 letter pattern; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Spell a word family member; 🔎 letter pattern; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly13.svg#ac9e1ly13-p-001\"></use></svg>",
+    "question": "Zoe wants to write “rocket”. Which spelling is correct?",
+    "audioPrompt": "Zoe wants to write “rocket”. Which spelling is correct?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly13.svg#ac9e1ly13-p-001",
-      "alt_text": "📖 Spell a word family member; 🔎 letter pattern; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "met",
-      "Mat",
-      "Use sound and pattern knowledge."
+      "rockit",
+      "rocket",
+      "roket"
     ],
-    "correct": 0,
-    "explanation": "met is the mix-up. Use sound and pattern knowledge.\nHint: Use sound and pattern knowledge.",
+    "correct": 1,
+    "explanation": "rocket is the best answer.",
     "structuredExplanation": {
-      "summary": "met is the mix-up. Use sound and pattern knowledge.",
-      "hint": "Use sound and pattern knowledge."
+      "summary": "rocket is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 2,
+    "difficultyTier": "guided",
+    "sequencePriority": 21
   },
   {
     "id": "ac9e1ly13-p-022",
     "curriculumCode": "AC9E1LY13",
     "bank": "practice",
-    "skill": "ac9e1ly13 02 discriminate",
+    "skill": "spell one- and two-syllable words with common letter patterns",
     "printable": true,
     "type": "single",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": "📖 Match patterns and words; 🔎 syllable; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Match patterns and words; 🔎 syllable; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly13.svg#ac9e1ly13-p-003\"></use></svg>",
+    "question": "Max wants to write “basket”. Which spelling is correct?",
+    "audioPrompt": "Max wants to write “basket”. Which spelling is correct?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly13.svg#ac9e1ly13-p-003",
-      "alt_text": "📖 Match patterns and words; 🔎 syllable; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Each pattern matched correctly",
-      "Leave out second syllable.",
-      "Use this routine: Say word → Segment sounds/syllables → Choose pattern → Write → Check."
+      "baskit",
+      "baskett",
+      "basket"
     ],
-    "correct": 1,
-    "explanation": "Leave out second syllable. is the mix-up. Clap and spell both parts.\nHint: Clap and spell both parts.",
+    "correct": 2,
+    "explanation": "basket is the best answer.",
     "structuredExplanation": {
-      "summary": "Leave out second syllable. is the mix-up. Clap and spell both parts.",
-      "hint": "Clap and spell both parts."
+      "summary": "basket is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 2,
+    "difficultyTier": "guided",
+    "sequencePriority": 22
   },
   {
     "id": "ac9e1ly13-p-023",
     "curriculumCode": "AC9E1LY13",
     "bank": "practice",
-    "skill": "ac9e1ly13 03 discriminate",
+    "skill": "spell one- and two-syllable words with common letter patterns",
     "printable": true,
     "type": "single",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": "📖 Build a blend word; 🔎 segment; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Build a blend word; 🔎 segment; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly13.svg#ac9e1ly13-p-005\"></use></svg>",
+    "question": "Mia wants to write “kitten”. Which spelling is correct?",
+    "audioPrompt": "Mia wants to write “kitten”. Which spelling is correct?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly13.svg#ac9e1ly13-p-005",
-      "alt_text": "📖 Build a blend word; 🔎 segment; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "s-t-o-p in correct order, with st blend retained",
-      "Look for segment and check the whole example.",
-      "Do not check the spelling pattern."
+      "kiten",
+      "kitten",
+      "kittin"
     ],
-    "correct": 2,
-    "explanation": "Do not check the spelling pattern. is the mix-up. Compare with a known word.\nHint: Compare with a known word.",
+    "correct": 1,
+    "explanation": "kitten is the best answer.",
     "structuredExplanation": {
-      "summary": "Do not check the spelling pattern. is the mix-up. Compare with a known word.",
-      "hint": "Compare with a known word."
+      "summary": "kitten is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 2,
+    "difficultyTier": "guided",
+    "sequencePriority": 23
   },
   {
     "id": "ac9e1ly13-p-024",
     "curriculumCode": "AC9E1LY13",
     "bank": "practice",
-    "skill": "ac9e1ly13 04 discriminate",
+    "skill": "spell one- and two-syllable words with common letter patterns",
     "printable": true,
     "type": "single",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": "📖 Split a two-syllable word; 🔎 spell; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Split a two-syllable word; 🔎 spell; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly13.svg#ac9e1ly13-p-007\"></use></svg>",
+    "question": "Ben wants to write “helmet”. Which spelling is correct?",
+    "audioPrompt": "Ben wants to write “helmet”. Which spelling is correct?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly13.svg#ac9e1ly13-p-007",
-      "alt_text": "📖 Split a two-syllable word; 🔎 spell; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "picnic → Pic/nic",
-      "Pic/nic → picnic",
-      "Check that you can segment before spelling."
+      "helmit",
+      "helmet",
+      "helmett"
     ],
-    "correct": 0,
-    "explanation": "picnic → Pic/nic is the mix-up. Use sound and pattern knowledge.\nHint: Use sound and pattern knowledge.",
+    "correct": 1,
+    "explanation": "helmet is the best answer.",
     "structuredExplanation": {
-      "summary": "picnic → Pic/nic is the mix-up. Use sound and pattern knowledge.",
-      "hint": "Use sound and pattern knowledge."
+      "summary": "helmet is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 2,
+    "difficultyTier": "guided",
+    "sequencePriority": 24
   },
   {
     "id": "ac9e1ly13-p-025",
     "curriculumCode": "AC9E1LY13",
     "bank": "practice",
-    "skill": "ac9e1ly13 05 discriminate",
+    "skill": "spell one- and two-syllable words with common letter patterns",
     "printable": true,
     "type": "single",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": "📖 Order spelling checks; 🔎 check; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Order spelling checks; 🔎 check; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly13.svg#ac9e1ly13-p-009\"></use></svg>",
+    "question": "Kim wants to write “rabbit”. Which spelling is correct?",
+    "audioPrompt": "Kim wants to write “rabbit”. Which spelling is correct?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly13.svg#ac9e1ly13-p-009",
-      "alt_text": "📖 Order spelling checks; 🔎 check; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Say → segment → write → reread/check",
-      "reread/check → write → segment → Say",
-      "Sequencing a spelling strategy."
+      "rabbitt",
+      "rabit",
+      "rabbit"
     ],
-    "correct": 1,
-    "explanation": "reread/check → write → segment → Say is the mix-up. Clap and spell both parts.\nHint: Clap and spell both parts.",
+    "correct": 2,
+    "explanation": "rabbit is the best answer.",
     "structuredExplanation": {
-      "summary": "reread/check → write → segment → Say is the mix-up. Clap and spell both parts.",
-      "hint": "Clap and spell both parts."
+      "summary": "rabbit is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 2,
+    "difficultyTier": "guided",
+    "sequencePriority": 25
   },
   {
     "id": "ac9e1ly13-p-026",
     "curriculumCode": "AC9E1LY13",
     "bank": "practice",
-    "skill": "ac9e1ly13 06 discriminate",
+    "skill": "spell one- and two-syllable words with common letter patterns",
     "printable": true,
     "type": "single",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": "📖 Draw a word-family house; 🔎 letter pattern; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Draw a word-family house; 🔎 letter pattern; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly13.svg#ac9e1ly13-p-011\"></use></svg>",
+    "question": "Ava wants to write “sunset”. Which spelling is correct?",
+    "audioPrompt": "Ava wants to write “sunset”. Which spelling is correct?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly13.svg#ac9e1ly13-p-011",
-      "alt_text": "📖 Draw a word-family house; 🔎 letter pattern; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "All three words spelled correctly and -op highlighted",
-      "Compare with a known word.",
-      "Do not check the spelling pattern."
+      "sunsat",
+      "sunset",
+      "sunsett"
     ],
-    "correct": 2,
-    "explanation": "Do not check the spelling pattern. is the mix-up. Compare with a known word.\nHint: Compare with a known word.",
+    "correct": 1,
+    "explanation": "sunset is the best answer.",
     "structuredExplanation": {
-      "summary": "Do not check the spelling pattern. is the mix-up. Compare with a known word.",
-      "hint": "Compare with a known word."
+      "summary": "sunset is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 2,
+    "difficultyTier": "guided",
+    "sequencePriority": 26
   },
   {
     "id": "ac9e1ly13-p-027",
     "curriculumCode": "AC9E1LY13",
     "bank": "practice",
-    "skill": "ac9e1ly13 07 discriminate",
+    "skill": "spell one- and two-syllable words with common letter patterns",
     "printable": true,
     "type": "single",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": "📖 Explain a missing blend letter; 🔎 syllable; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Explain a missing blend letter; 🔎 syllable; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly13.svg#ac9e1ly13-p-013\"></use></svg>",
+    "question": "Leo wants to write “chicken”. Which spelling is correct?",
+    "audioPrompt": "Leo wants to write “chicken”. Which spelling is correct?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly13.svg#ac9e1ly13-p-013",
-      "alt_text": "📖 Explain a missing blend letter; 🔎 syllable; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Do not use sound and pattern knowledge.",
-      "/l/ and letter l are missing from bl",
-      "Use this routine: Say word → Segment sounds/syllables → Choose pattern → Write → Check."
+      "chiken",
+      "chikin",
+      "chicken"
     ],
-    "correct": 0,
-    "explanation": "Do not use sound and pattern knowledge. is the mix-up. Use sound and pattern knowledge.\nHint: Use sound and pattern knowledge.",
+    "correct": 2,
+    "explanation": "chicken is the best answer.",
     "structuredExplanation": {
-      "summary": "Do not use sound and pattern knowledge. is the mix-up. Use sound and pattern knowledge.",
-      "hint": "Use sound and pattern knowledge."
+      "summary": "chicken is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 2,
+    "difficultyTier": "guided",
+    "sequencePriority": 27
   },
   {
     "id": "ac9e1ly13-p-028",
     "curriculumCode": "AC9E1LY13",
     "bank": "practice",
-    "skill": "ac9e1ly13 08 discriminate",
+    "skill": "spell one- and two-syllable words with common letter patterns",
     "printable": true,
     "type": "single",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": "📖 Spell from two chunks; 🔎 segment; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Spell from two chunks; 🔎 segment; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly13.svg#ac9e1ly13-p-015\"></use></svg>",
+    "question": "Zoe wants to write “picnic”. Which spelling is correct?",
+    "audioPrompt": "Zoe wants to write “picnic”. Which spelling is correct?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly13.svg#ac9e1ly13-p-015",
-      "alt_text": "📖 Spell from two chunks; 🔎 segment; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Bed + room = bedroom",
-      "Leave out second syllable.",
-      "Look for segment and check the whole example."
+      "picnic",
+      "picknic",
+      "picnik"
     ],
-    "correct": 1,
-    "explanation": "Leave out second syllable. is the mix-up. Clap and spell both parts.\nHint: Clap and spell both parts.",
+    "correct": 0,
+    "explanation": "picnic is the best answer.",
     "structuredExplanation": {
-      "summary": "Leave out second syllable. is the mix-up. Clap and spell both parts.",
-      "hint": "Clap and spell both parts."
+      "summary": "picnic is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 2,
+    "difficultyTier": "guided",
+    "sequencePriority": 28
   },
   {
     "id": "ac9e1ly13-p-029",
     "curriculumCode": "AC9E1LY13",
     "bank": "practice",
-    "skill": "ac9e1ly13 09 discriminate",
+    "skill": "spell one- and two-syllable words with common letter patterns",
     "printable": true,
     "type": "single",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": "📖 Use a long-vowel pattern; 🔎 spell; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Use a long-vowel pattern; 🔎 spell; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly13.svg#ac9e1ly13-p-017\"></use></svg>",
+    "question": "Max wants to write “rocket”. Which spelling is correct?",
+    "audioPrompt": "Max wants to write “rocket”. Which spelling is correct?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly13.svg#ac9e1ly13-p-017",
-      "alt_text": "📖 Use a long-vowel pattern; 🔎 spell; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Cake",
-      "Check that you can segment before spelling.",
-      "a common pattern"
+      "rockit",
+      "roket",
+      "rocket"
     ],
     "correct": 2,
-    "explanation": "a common pattern is the mix-up. Compare with a known word.\nHint: Compare with a known word.",
+    "explanation": "rocket is the best answer.",
     "structuredExplanation": {
-      "summary": "a common pattern is the mix-up. Compare with a known word.",
-      "hint": "Compare with a known word."
+      "summary": "rocket is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 2,
+    "difficultyTier": "guided",
+    "sequencePriority": 29
   },
   {
     "id": "ac9e1ly13-p-030",
     "curriculumCode": "AC9E1LY13",
     "bank": "practice",
-    "skill": "ac9e1ly13 10 discriminate",
+    "skill": "spell one- and two-syllable words with common letter patterns",
     "printable": true,
     "type": "single",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": "📖 Match blends and words; 🔎 check; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Match blends and words; 🔎 check; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly13.svg#ac9e1ly13-p-019\"></use></svg>",
+    "question": "Mia wants to write “basket”. Which spelling is correct?",
+    "audioPrompt": "Mia wants to write “basket”. Which spelling is correct?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly13.svg#ac9e1ly13-p-019",
-      "alt_text": "📖 Match blends and words; 🔎 check; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Bl ↔ nest ending; st ↔ crab beginning; cr ↔ blue beginning",
-      "Bl ↔ blue beginning; st ↔ nest ending; cr ↔ crab beginning",
-      "Recognising initial and final blend spellings."
+      "baskit",
+      "basket",
+      "baskett"
     ],
-    "correct": 0,
-    "explanation": "Bl ↔ nest ending; st ↔ crab beginning; cr ↔ blue beginning is the mix-up. Use sound and pattern knowledge.\nHint: Use sound and pattern knowledge.",
+    "correct": 1,
+    "explanation": "basket is the best answer.",
     "structuredExplanation": {
-      "summary": "Bl ↔ nest ending; st ↔ crab beginning; cr ↔ blue beginning is the mix-up. Use sound and pattern knowledge.",
-      "hint": "Use sound and pattern knowledge."
+      "summary": "basket is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 2,
+    "difficultyTier": "guided",
+    "sequencePriority": 30
   },
   {
     "id": "ac9e1ly13-p-031",
     "curriculumCode": "AC9E1LY13",
     "bank": "practice",
-    "skill": "ac9e1ly13 01 apply",
+    "skill": "spell one- and two-syllable words with common letter patterns",
     "printable": true,
     "type": "single",
-    "question": "Which choice would best use this skill in a new example?",
-    "audioPrompt": "Which choice would best use this skill in a new example?",
-    "visual": "📖 Spell a word family member; 🔎 letter pattern; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Spell a word family member; 🔎 letter pattern; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly13.svg#ac9e1ly13-p-001\"></use></svg>",
+    "question": "Ben wants to write “kitten”. Which spelling is correct?",
+    "audioPrompt": "Ben wants to write “kitten”. Which spelling is correct?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly13.svg#ac9e1ly13-p-001",
-      "alt_text": "📖 Spell a word family member; 🔎 letter pattern; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "met",
-      "Mat",
-      "map"
+      "kitten",
+      "kittin",
+      "kiten"
     ],
-    "correct": 1,
-    "explanation": "Mat uses the skill correctly. Use sound and pattern knowledge.\nHint: Use sound and pattern knowledge.",
+    "correct": 0,
+    "explanation": "kitten is the best answer.",
     "structuredExplanation": {
-      "summary": "Mat uses the skill correctly. Use sound and pattern knowledge.",
-      "hint": "Use sound and pattern knowledge."
+      "summary": "kitten is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 2,
+    "difficultyTier": "guided",
+    "sequencePriority": 31
   },
   {
     "id": "ac9e1ly13-p-032",
     "curriculumCode": "AC9E1LY13",
     "bank": "practice",
-    "skill": "ac9e1ly13 02 apply",
+    "skill": "spell one- and two-syllable words with common letter patterns",
     "printable": true,
     "type": "single",
-    "question": "Which choice would best use this skill in a new example?",
-    "audioPrompt": "Which choice would best use this skill in a new example?",
-    "visual": "📖 Match patterns and words; 🔎 syllable; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Match patterns and words; 🔎 syllable; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly13.svg#ac9e1ly13-p-003\"></use></svg>",
+    "question": "Sam wants to write “helmet”. Which spelling is correct?",
+    "audioPrompt": "Sam wants to write “helmet”. Which spelling is correct?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly13.svg#ac9e1ly13-p-003",
-      "alt_text": "📖 Match patterns and words; 🔎 syllable; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Leave out second syllable.",
-      "Do not check the spelling pattern.",
-      "Each pattern matched correctly"
+      "helmit",
+      "helmett",
+      "helmet"
     ],
     "correct": 2,
-    "explanation": "Each pattern matched correctly uses the skill correctly. Clap and spell both parts.\nHint: Clap and spell both parts.",
+    "explanation": "helmet is the best answer.",
     "structuredExplanation": {
-      "summary": "Each pattern matched correctly uses the skill correctly. Clap and spell both parts.",
-      "hint": "Clap and spell both parts."
+      "summary": "helmet is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 2,
+    "difficultyTier": "guided",
+    "sequencePriority": 32
   },
   {
     "id": "ac9e1ly13-p-033",
     "curriculumCode": "AC9E1LY13",
     "bank": "practice",
-    "skill": "ac9e1ly13 03 apply",
+    "skill": "spell one- and two-syllable words with common letter patterns",
     "printable": true,
     "type": "single",
-    "question": "Which choice would best use this skill in a new example?",
-    "audioPrompt": "Which choice would best use this skill in a new example?",
-    "visual": "📖 Build a blend word; 🔎 segment; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Build a blend word; 🔎 segment; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly13.svg#ac9e1ly13-p-005\"></use></svg>",
+    "question": "Ava wants to write “rabbit”. Which spelling is correct?",
+    "audioPrompt": "Ava wants to write “rabbit”. Which spelling is correct?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly13.svg#ac9e1ly13-p-005",
-      "alt_text": "📖 Build a blend word; 🔎 segment; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "s-t-o-p in correct order, with st blend retained",
-      "Do not check the spelling pattern.",
-      "Do not use sound and pattern knowledge."
+      "rabit",
+      "rabbit",
+      "rabbitt"
     ],
-    "correct": 0,
-    "explanation": "s-t-o-p in correct order, with st blend retained uses the skill correctly. Compare with a known word.\nHint: Compare with a known word.",
+    "correct": 1,
+    "explanation": "rabbit is the best answer.",
     "structuredExplanation": {
-      "summary": "s-t-o-p in correct order, with st blend retained uses the skill correctly. Compare with a known word.",
-      "hint": "Compare with a known word."
+      "summary": "rabbit is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 33
   },
   {
     "id": "ac9e1ly13-p-034",
     "curriculumCode": "AC9E1LY13",
     "bank": "practice",
-    "skill": "ac9e1ly13 04 apply",
+    "skill": "spell one- and two-syllable words with common letter patterns",
     "printable": true,
     "type": "single",
-    "question": "Which choice would best use this skill in a new example?",
-    "audioPrompt": "Which choice would best use this skill in a new example?",
-    "visual": "📖 Split a two-syllable word; 🔎 spell; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Split a two-syllable word; 🔎 spell; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly13.svg#ac9e1ly13-p-007\"></use></svg>",
+    "question": "Leo wants to write “sunset”. Which spelling is correct?",
+    "audioPrompt": "Leo wants to write “sunset”. Which spelling is correct?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly13.svg#ac9e1ly13-p-007",
-      "alt_text": "📖 Split a two-syllable word; 🔎 spell; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "picnic → Pic/nic",
-      "Pic/nic → picnic",
-      "Do not use sound and pattern knowledge."
+      "sunset",
+      "sunsett",
+      "sunsat"
     ],
-    "correct": 1,
-    "explanation": "Pic/nic → picnic uses the skill correctly. Use sound and pattern knowledge.\nHint: Use sound and pattern knowledge.",
+    "correct": 0,
+    "explanation": "sunset is the best answer.",
     "structuredExplanation": {
-      "summary": "Pic/nic → picnic uses the skill correctly. Use sound and pattern knowledge.",
-      "hint": "Use sound and pattern knowledge."
+      "summary": "sunset is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 34
   },
   {
     "id": "ac9e1ly13-p-035",
     "curriculumCode": "AC9E1LY13",
     "bank": "practice",
-    "skill": "ac9e1ly13 05 apply",
+    "skill": "spell one- and two-syllable words with common letter patterns",
     "printable": true,
     "type": "single",
-    "question": "Which choice would best use this skill in a new example?",
-    "audioPrompt": "Which choice would best use this skill in a new example?",
-    "visual": "📖 Order spelling checks; 🔎 check; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Order spelling checks; 🔎 check; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly13.svg#ac9e1ly13-p-009\"></use></svg>",
+    "question": "Zoe wants to write “chicken”. Which spelling is correct?",
+    "audioPrompt": "Zoe wants to write “chicken”. Which spelling is correct?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly13.svg#ac9e1ly13-p-009",
-      "alt_text": "📖 Order spelling checks; 🔎 check; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "reread/check → write → segment → Say",
-      "Leave out second syllable.",
-      "Say → segment → write → reread/check"
+      "chikin",
+      "chicken",
+      "chiken"
     ],
-    "correct": 2,
-    "explanation": "Say → segment → write → reread/check uses the skill correctly. Clap and spell both parts.\nHint: Clap and spell both parts.",
+    "correct": 1,
+    "explanation": "chicken is the best answer.",
     "structuredExplanation": {
-      "summary": "Say → segment → write → reread/check uses the skill correctly. Clap and spell both parts.",
-      "hint": "Clap and spell both parts."
+      "summary": "chicken is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 35
   },
   {
     "id": "ac9e1ly13-p-036",
     "curriculumCode": "AC9E1LY13",
     "bank": "practice",
-    "skill": "ac9e1ly13 06 apply",
+    "skill": "spell one- and two-syllable words with common letter patterns",
     "printable": true,
     "type": "single",
-    "question": "Which choice would best use this skill in a new example?",
-    "audioPrompt": "Which choice would best use this skill in a new example?",
-    "visual": "📖 Draw a word-family house; 🔎 letter pattern; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Draw a word-family house; 🔎 letter pattern; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly13.svg#ac9e1ly13-p-011\"></use></svg>",
+    "question": "Max wants to write “picnic”. Which spelling is correct?",
+    "audioPrompt": "Max wants to write “picnic”. Which spelling is correct?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly13.svg#ac9e1ly13-p-011",
-      "alt_text": "📖 Draw a word-family house; 🔎 letter pattern; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "All three words spelled correctly and -op highlighted",
-      "Do not check the spelling pattern.",
-      "Do not use sound and pattern knowledge."
+      "picknic",
+      "picnic",
+      "picnik"
     ],
-    "correct": 0,
-    "explanation": "All three words spelled correctly and -op highlighted uses the skill correctly. Compare with a known word.\nHint: Compare with a known word.",
+    "correct": 1,
+    "explanation": "picnic is the best answer.",
     "structuredExplanation": {
-      "summary": "All three words spelled correctly and -op highlighted uses the skill correctly. Compare with a known word.",
-      "hint": "Compare with a known word."
+      "summary": "picnic is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 36
   },
   {
     "id": "ac9e1ly13-p-037",
     "curriculumCode": "AC9E1LY13",
     "bank": "practice",
-    "skill": "ac9e1ly13 07 apply",
+    "skill": "spell one- and two-syllable words with common letter patterns",
     "printable": true,
     "type": "single",
-    "question": "Which choice would best use this skill in a new example?",
-    "audioPrompt": "Which choice would best use this skill in a new example?",
-    "visual": "📖 Explain a missing blend letter; 🔎 syllable; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Explain a missing blend letter; 🔎 syllable; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly13.svg#ac9e1ly13-p-013\"></use></svg>",
+    "question": "Mia wants to write “rocket”. Which spelling is correct?",
+    "audioPrompt": "Mia wants to write “rocket”. Which spelling is correct?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly13.svg#ac9e1ly13-p-013",
-      "alt_text": "📖 Explain a missing blend letter; 🔎 syllable; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Do not use sound and pattern knowledge.",
-      "/l/ and letter l are missing from bl",
-      "Leave out second syllable."
+      "rocket",
+      "roket",
+      "rockit"
     ],
-    "correct": 1,
-    "explanation": "/l/ and letter l are missing from bl uses the skill correctly. Use sound and pattern knowledge.\nHint: Use sound and pattern knowledge.",
+    "correct": 0,
+    "explanation": "rocket is the best answer.",
     "structuredExplanation": {
-      "summary": "/l/ and letter l are missing from bl uses the skill correctly. Use sound and pattern knowledge.",
-      "hint": "Use sound and pattern knowledge."
+      "summary": "rocket is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 37
   },
   {
     "id": "ac9e1ly13-p-038",
     "curriculumCode": "AC9E1LY13",
     "bank": "practice",
-    "skill": "ac9e1ly13 08 apply",
+    "skill": "spell one- and two-syllable words with common letter patterns",
     "printable": true,
     "type": "single",
-    "question": "Which choice would best use this skill in a new example?",
-    "audioPrompt": "Which choice would best use this skill in a new example?",
-    "visual": "📖 Spell from two chunks; 🔎 segment; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Spell from two chunks; 🔎 segment; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly13.svg#ac9e1ly13-p-015\"></use></svg>",
+    "question": "Ben wants to write “basket”. Which spelling is correct?",
+    "audioPrompt": "Ben wants to write “basket”. Which spelling is correct?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly13.svg#ac9e1ly13-p-015",
-      "alt_text": "📖 Spell from two chunks; 🔎 segment; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Leave out second syllable.",
-      "Do not check the spelling pattern.",
-      "Bed + room = bedroom"
+      "baskett",
+      "basket",
+      "baskit"
     ],
-    "correct": 2,
-    "explanation": "Bed + room = bedroom uses the skill correctly. Clap and spell both parts.\nHint: Clap and spell both parts.",
+    "correct": 1,
+    "explanation": "basket is the best answer.",
     "structuredExplanation": {
-      "summary": "Bed + room = bedroom uses the skill correctly. Clap and spell both parts.",
-      "hint": "Clap and spell both parts."
+      "summary": "basket is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 38
   },
   {
     "id": "ac9e1ly13-p-039",
     "curriculumCode": "AC9E1LY13",
     "bank": "practice",
-    "skill": "ac9e1ly13 09 apply",
+    "skill": "spell one- and two-syllable words with common letter patterns",
     "printable": true,
     "type": "single",
-    "question": "Which choice would best use this skill in a new example?",
-    "audioPrompt": "Which choice would best use this skill in a new example?",
-    "visual": "📖 Use a long-vowel pattern; 🔎 spell; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Use a long-vowel pattern; 🔎 spell; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly13.svg#ac9e1ly13-p-017\"></use></svg>",
+    "question": "Sam wants to write “kitten”. Which spelling is correct?",
+    "audioPrompt": "Sam wants to write “kitten”. Which spelling is correct?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly13.svg#ac9e1ly13-p-017",
-      "alt_text": "📖 Use a long-vowel pattern; 🔎 spell; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Cake",
-      "a common pattern",
-      "Do not check the spelling pattern."
+      "kittin",
+      "kiten",
+      "kitten"
     ],
-    "correct": 0,
-    "explanation": "Cake uses the skill correctly. Compare with a known word.\nHint: Compare with a known word.",
+    "correct": 2,
+    "explanation": "kitten is the best answer.",
     "structuredExplanation": {
-      "summary": "Cake uses the skill correctly. Compare with a known word.",
-      "hint": "Compare with a known word."
+      "summary": "kitten is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 39
   },
   {
     "id": "ac9e1ly13-p-040",
     "curriculumCode": "AC9E1LY13",
     "bank": "practice",
-    "skill": "ac9e1ly13 10 apply",
+    "skill": "spell one- and two-syllable words with common letter patterns",
     "printable": true,
     "type": "single",
-    "question": "Which choice would best use this skill in a new example?",
-    "audioPrompt": "Which choice would best use this skill in a new example?",
-    "visual": "📖 Match blends and words; 🔎 check; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Match blends and words; 🔎 check; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly13.svg#ac9e1ly13-p-019\"></use></svg>",
+    "question": "Kim wants to write “helmet”. Which spelling is correct?",
+    "audioPrompt": "Kim wants to write “helmet”. Which spelling is correct?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly13.svg#ac9e1ly13-p-019",
-      "alt_text": "📖 Match blends and words; 🔎 check; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Bl ↔ nest ending; st ↔ crab beginning; cr ↔ blue beginning",
-      "Bl ↔ blue beginning; st ↔ nest ending; cr ↔ crab beginning",
-      "Do not use sound and pattern knowledge."
+      "helmit",
+      "helmet",
+      "helmett"
     ],
     "correct": 1,
-    "explanation": "Bl ↔ blue beginning; st ↔ nest ending; cr ↔ crab beginning uses the skill correctly. Use sound and pattern knowledge.\nHint: Use sound and pattern knowledge.",
+    "explanation": "helmet is the best answer.",
     "structuredExplanation": {
-      "summary": "Bl ↔ blue beginning; st ↔ nest ending; cr ↔ crab beginning uses the skill correctly. Use sound and pattern knowledge.",
-      "hint": "Use sound and pattern knowledge."
+      "summary": "helmet is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 40
+  },
+  {
+    "id": "ac9e1ly13-p-041",
+    "curriculumCode": "AC9E1LY13",
+    "bank": "practice",
+    "skill": "spell one- and two-syllable words with common letter patterns",
+    "printable": true,
+    "type": "single",
+    "question": "Leo wants to write “rabbit”. Which spelling is correct?",
+    "audioPrompt": "Leo wants to write “rabbit”. Which spelling is correct?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "rabbitt",
+      "rabit",
+      "rabbit"
+    ],
+    "correct": 2,
+    "explanation": "rabbit is the best answer.",
+    "structuredExplanation": {
+      "summary": "rabbit is the best answer."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 41,
+    "qualitySchema": "reviewed-year1-english-v1"
+  },
+  {
+    "id": "ac9e1ly13-p-042",
+    "curriculumCode": "AC9E1LY13",
+    "bank": "practice",
+    "skill": "spell one- and two-syllable words with common letter patterns",
+    "printable": true,
+    "type": "single",
+    "question": "Zoe wants to write “sunset”. Which spelling is correct?",
+    "audioPrompt": "Zoe wants to write “sunset”. Which spelling is correct?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "sunsat",
+      "sunsett",
+      "sunset"
+    ],
+    "correct": 2,
+    "explanation": "sunset is the best answer.",
+    "structuredExplanation": {
+      "summary": "sunset is the best answer."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 42,
+    "qualitySchema": "reviewed-year1-english-v1"
+  },
+  {
+    "id": "ac9e1ly13-p-043",
+    "curriculumCode": "AC9E1LY13",
+    "bank": "practice",
+    "skill": "spell one- and two-syllable words with common letter patterns",
+    "printable": true,
+    "type": "single",
+    "question": "Max wants to write “chicken”. Which spelling is correct?",
+    "audioPrompt": "Max wants to write “chicken”. Which spelling is correct?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "chicken",
+      "chikin",
+      "chiken"
+    ],
+    "correct": 0,
+    "explanation": "chicken is the best answer.",
+    "structuredExplanation": {
+      "summary": "chicken is the best answer."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 43,
+    "qualitySchema": "reviewed-year1-english-v1"
+  },
+  {
+    "id": "ac9e1ly13-p-044",
+    "curriculumCode": "AC9E1LY13",
+    "bank": "practice",
+    "skill": "spell one- and two-syllable words with common letter patterns",
+    "printable": true,
+    "type": "single",
+    "question": "Mia wants to write “picnic”. Which spelling is correct?",
+    "audioPrompt": "Mia wants to write “picnic”. Which spelling is correct?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "picnik",
+      "picknic",
+      "picnic"
+    ],
+    "correct": 2,
+    "explanation": "picnic is the best answer.",
+    "structuredExplanation": {
+      "summary": "picnic is the best answer."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 44,
+    "qualitySchema": "reviewed-year1-english-v1"
+  },
+  {
+    "id": "ac9e1ly13-p-045",
+    "curriculumCode": "AC9E1LY13",
+    "bank": "practice",
+    "skill": "spell one- and two-syllable words with common letter patterns",
+    "printable": true,
+    "type": "single",
+    "question": "Ben wants to write “rocket”. Which spelling is correct?",
+    "audioPrompt": "Ben wants to write “rocket”. Which spelling is correct?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "rocket",
+      "roket",
+      "rockit"
+    ],
+    "correct": 0,
+    "explanation": "rocket is the best answer.",
+    "structuredExplanation": {
+      "summary": "rocket is the best answer."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 45,
+    "qualitySchema": "reviewed-year1-english-v1"
+  },
+  {
+    "id": "ac9e1ly13-p-046",
+    "curriculumCode": "AC9E1LY13",
+    "bank": "practice",
+    "skill": "spell one- and two-syllable words with common letter patterns",
+    "printable": true,
+    "type": "single",
+    "question": "Sam wants to write “basket”. Which spelling is correct?",
+    "audioPrompt": "Sam wants to write “basket”. Which spelling is correct?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "baskit",
+      "baskett",
+      "basket"
+    ],
+    "correct": 2,
+    "explanation": "basket is the best answer.",
+    "structuredExplanation": {
+      "summary": "basket is the best answer."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 46,
+    "qualitySchema": "reviewed-year1-english-v1"
+  },
+  {
+    "id": "ac9e1ly13-p-047",
+    "curriculumCode": "AC9E1LY13",
+    "bank": "practice",
+    "skill": "spell one- and two-syllable words with common letter patterns",
+    "printable": true,
+    "type": "single",
+    "question": "Kim wants to write “kitten”. Which spelling is correct?",
+    "audioPrompt": "Kim wants to write “kitten”. Which spelling is correct?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "kittin",
+      "kitten",
+      "kiten"
+    ],
+    "correct": 1,
+    "explanation": "kitten is the best answer.",
+    "structuredExplanation": {
+      "summary": "kitten is the best answer."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 47,
+    "qualitySchema": "reviewed-year1-english-v1"
+  },
+  {
+    "id": "ac9e1ly13-p-048",
+    "curriculumCode": "AC9E1LY13",
+    "bank": "practice",
+    "skill": "spell one- and two-syllable words with common letter patterns",
+    "printable": true,
+    "type": "single",
+    "question": "Ava wants to write “helmet”. Which spelling is correct?",
+    "audioPrompt": "Ava wants to write “helmet”. Which spelling is correct?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "helmett",
+      "helmit",
+      "helmet"
+    ],
+    "correct": 2,
+    "explanation": "helmet is the best answer.",
+    "structuredExplanation": {
+      "summary": "helmet is the best answer."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 48,
+    "qualitySchema": "reviewed-year1-english-v1"
   }
 ];
-window.quizQuestions = window.skillrPracticeQuestions;

@@ -4,466 +4,480 @@ window.skillrTestQuestions = [
     "id": "ac9e1ly03-t-001",
     "curriculumCode": "AC9E1LY03",
     "bank": "test",
-    "skill": "ac9e1ly03 01 answer",
+    "skill": "describe some similarities and differences between imaginative, informative and persuasive texts",
     "printable": true,
     "type": "single",
-    "question": "Which response would correctly show three voices?",
-    "audioPrompt": "Which response would correctly show three voices?",
-    "visual": "📖 show three voices; 🔎 imaginative; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 show three voices; 🔎 imaginative; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly03.svg#ac9e1ly03-t-001\"></use></svg>",
+    "question": "Read and choose: Read: “First we mixed the flour. Then we baked the cake.” What kind of text is this?",
+    "audioPrompt": "Read and choose: Read: “First we mixed the flour. Then we baked the cake.” What kind of text is this?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly03.svg#ac9e1ly03-t-001",
-      "alt_text": "📖 show three voices; 🔎 imaginative; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Three clearly different sentences suited to narrative, factual and opinion/action purposes",
-      "Treat every text as a story.",
-      "Treat an opinion as a fact."
+      "a made-up story",
+      "a recount",
+      "an opinion"
     ],
-    "correct": 0,
-    "explanation": "Three clearly different sentences suited to narrative, factual and opinion/action purposes This matches the task.\nHint: Some texts inform or persuade instead.",
+    "correct": 1,
+    "explanation": "a recount is the best answer.",
     "structuredExplanation": {
-      "summary": "Three clearly different sentences suited to narrative, factual and opinion/action purposes This matches the task.",
-      "hint": "Some texts inform or persuade instead."
+      "summary": "a recount is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 1
   },
   {
     "id": "ac9e1ly03-t-002",
     "curriculumCode": "AC9E1LY03",
     "bank": "test",
-    "skill": "ac9e1ly03 01 strategy",
+    "skill": "describe some similarities and differences between imaginative, informative and persuasive texts",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you show three voices?",
-    "audioPrompt": "Which tip would help you show three voices?",
-    "visual": "🧠 show three voices; ➡️ Name text type; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 show three voices; ➡️ Name text type; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly03.svg#ac9e1ly03-t-002\"></use></svg>",
+    "question": "Read: “A duck needs food and water. It is a living thing.” What is this text for?",
+    "audioPrompt": "Read: “A duck needs food and water. It is a living thing.” What is this text for?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly03.svg#ac9e1ly03-t-002",
-      "alt_text": "🧠 show three voices; ➡️ Name text type; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Treat an opinion as a fact.",
-      "Some texts inform or persuade instead.",
-      "Do not use same, different, both, but."
+      "to tell a joke",
+      "to give facts",
+      "to give an order"
     ],
     "correct": 1,
-    "explanation": "Some texts inform or persuade instead.\nHint: Some texts inform or persuade instead.",
+    "explanation": "to give facts is the best answer.",
     "structuredExplanation": {
-      "summary": "Some texts inform or persuade instead.",
-      "hint": "Some texts inform or persuade instead."
+      "summary": "to give facts is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 2
   },
   {
     "id": "ac9e1ly03-t-003",
     "curriculumCode": "AC9E1LY03",
     "bank": "test",
-    "skill": "ac9e1ly03 02 answer",
+    "skill": "describe some similarities and differences between imaginative, informative and persuasive texts",
     "printable": true,
     "type": "single",
-    "question": "Which response would correctly draw a comparison table?",
-    "audioPrompt": "Which response would correctly draw a comparison table?",
-    "visual": "📖 Draw a comparison table; 🔎 informative; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Draw a comparison table; 🔎 informative; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly03.svg#ac9e1ly03-t-003\"></use></svg>",
+    "question": "Read: “I think the park is best because it is fun.” What does this text give?",
+    "audioPrompt": "Read: “I think the park is best because it is fun.” What does this text give?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly03.svg#ac9e1ly03-t-003",
-      "alt_text": "📖 Draw a comparison table; 🔎 informative; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Treat an opinion as a fact.",
-      "Do not use same, different, both, but.",
-      "Nine suitable entries organised accurately"
+      "a recipe",
+      "a greeting",
+      "an opinion"
     ],
     "correct": 2,
-    "explanation": "Nine suitable entries organised accurately This matches the task.\nHint: Opinion can be agreed or disagreed with.",
+    "explanation": "an opinion is the best answer.",
     "structuredExplanation": {
-      "summary": "Nine suitable entries organised accurately This matches the task.",
-      "hint": "Opinion can be agreed or disagreed with."
+      "summary": "an opinion is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 3
   },
   {
     "id": "ac9e1ly03-t-004",
     "curriculumCode": "AC9E1LY03",
     "bank": "test",
-    "skill": "ac9e1ly03 02 strategy",
+    "skill": "describe some similarities and differences between imaginative, informative and persuasive texts",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you draw a comparison table?",
-    "audioPrompt": "Which tip would help you draw a comparison table?",
-    "visual": "🧠 Draw a comparison table; ➡️ Find features; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Draw a comparison table; ➡️ Find features; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly03.svg#ac9e1ly03-t-004\"></use></svg>",
+    "question": "Read: “The tiny goat flew to the moon.” What kind of text is this?",
+    "audioPrompt": "Read: “The tiny goat flew to the moon.” What kind of text is this?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly03.svg#ac9e1ly03-t-004",
-      "alt_text": "🧠 Draw a comparison table; ➡️ Find features; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Use this routine: Name text type → Find features → Compare purpose → Explain.",
-      "Do not use same, different, both, but.",
-      "Treat every text as a story."
+      "a fact report",
+      "a list",
+      "a made-up story"
     ],
-    "correct": 0,
-    "explanation": "Use this routine: Name text type → Find features → Compare purpose → Explain.\nHint: Opinion can be agreed or disagreed with.",
+    "correct": 2,
+    "explanation": "a made-up story is the best answer.",
     "structuredExplanation": {
-      "summary": "Use this routine: Name text type → Find features → Compare purpose → Explain.",
-      "hint": "Opinion can be agreed or disagreed with."
+      "summary": "a made-up story is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 4
   },
   {
     "id": "ac9e1ly03-t-005",
     "curriculumCode": "AC9E1LY03",
     "bank": "test",
-    "skill": "ac9e1ly03 03 answer",
+    "skill": "describe some similarities and differences between imaginative, informative and persuasive texts",
     "printable": true,
     "type": "single",
-    "question": "Which response would correctly correct a type label?",
-    "audioPrompt": "Which response would correctly correct a type label?",
-    "visual": "📖 Correct a type label; 🔎 persuasive; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Correct a type label; 🔎 persuasive; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly03.svg#ac9e1ly03-t-005\"></use></svg>",
+    "question": "Which text would have steps and numbered instructions?",
+    "audioPrompt": "Which text would have steps and numbered instructions?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly03.svg#ac9e1ly03-t-005",
-      "alt_text": "📖 Correct a type label; 🔎 persuasive; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "You should adopt this pet because it is gentle",
-      "It is persuasive because it recommends action and supports it with a reason, though it may contain information",
-      "Do not use same, different, both, but."
+      "a how-to text",
+      "a poem",
+      "a story"
     ],
-    "correct": 1,
-    "explanation": "It is persuasive because it recommends action and supports it with a reason, though it may contain information This matches the task.\nHint: Use same, different, both, but.",
+    "correct": 0,
+    "explanation": "a how-to text is the best answer.",
     "structuredExplanation": {
-      "summary": "It is persuasive because it recommends action and supports it with a reason, though it may contain information This matches the task.",
-      "hint": "Use same, different, both, but."
+      "summary": "a how-to text is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 5
   },
   {
     "id": "ac9e1ly03-t-006",
     "curriculumCode": "AC9E1LY03",
     "bank": "test",
-    "skill": "ac9e1ly03 03 strategy",
+    "skill": "describe some similarities and differences between imaginative, informative and persuasive texts",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you correct a type label?",
-    "audioPrompt": "Which tip would help you correct a type label?",
-    "visual": "🧠 Correct a type label; ➡️ Compare purpose; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Correct a type label; ➡️ Compare purpose; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly03.svg#ac9e1ly03-t-006\"></use></svg>",
+    "question": "Which text often has characters and a problem?",
+    "audioPrompt": "Which text often has characters and a problem?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly03.svg#ac9e1ly03-t-006",
-      "alt_text": "🧠 Correct a type label; ➡️ Compare purpose; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Treat every text as a story.",
-      "Treat an opinion as a fact.",
-      "Look for persuasive and check the whole example."
+      "a story",
+      "a label",
+      "a fact list"
     ],
-    "correct": 2,
-    "explanation": "Look for persuasive and check the whole example.\nHint: Use same, different, both, but.",
+    "correct": 0,
+    "explanation": "a story is the best answer.",
     "structuredExplanation": {
-      "summary": "Look for persuasive and check the whole example.",
-      "hint": "Use same, different, both, but."
+      "summary": "a story is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 6
   },
   {
     "id": "ac9e1ly03-t-007",
     "curriculumCode": "AC9E1LY03",
     "bank": "test",
-    "skill": "ac9e1ly03 04 answer",
+    "skill": "describe some similarities and differences between imaginative, informative and persuasive texts",
     "printable": true,
     "type": "single",
-    "question": "Which response would correctly analyse a blended page?",
-    "audioPrompt": "Which response would correctly analyse a blended page?",
-    "visual": "📖 Analyse a blended page; 🔎 similar; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Analyse a blended page; 🔎 similar; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly03.svg#ac9e1ly03-t-007\"></use></svg>",
+    "question": "Read and choose: Read: “Rain falls from clouds.” Is this fact or opinion?",
+    "audioPrompt": "Read and choose: Read: “Rain falls from clouds.” Is this fact or opinion?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly03.svg#ac9e1ly03-t-007",
-      "alt_text": "📖 Analyse a blended page; 🔎 similar; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Imaginative story/entertain",
-      "Treat every text as a story.",
-      "Treat an opinion as a fact."
+      "question",
+      "opinion",
+      "fact"
     ],
-    "correct": 0,
-    "explanation": "Imaginative story/entertain This matches the task.\nHint: Some texts inform or persuade instead.",
+    "correct": 2,
+    "explanation": "fact is the best answer.",
     "structuredExplanation": {
-      "summary": "Imaginative story/entertain This matches the task.",
-      "hint": "Some texts inform or persuade instead."
+      "summary": "fact is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 7
   },
   {
     "id": "ac9e1ly03-t-008",
     "curriculumCode": "AC9E1LY03",
     "bank": "test",
-    "skill": "ac9e1ly03 04 strategy",
+    "skill": "describe some similarities and differences between imaginative, informative and persuasive texts",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you analyse a blended page?",
-    "audioPrompt": "Which tip would help you analyse a blended page?",
-    "visual": "🧠 Analyse a blended page; ➡️ Explain; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Analyse a blended page; ➡️ Explain; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly03.svg#ac9e1ly03-t-008\"></use></svg>",
+    "question": "Read: “Please choose our new bag. It is the best!” What is the writer trying to do?",
+    "audioPrompt": "Read: “Please choose our new bag. It is the best!” What is the writer trying to do?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly03.svg#ac9e1ly03-t-008",
-      "alt_text": "🧠 Analyse a blended page; ➡️ Explain; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Treat an opinion as a fact.",
-      "Check that you can compare differences.",
-      "Do not use same, different, both, but."
+      "give directions",
+      "tell a story",
+      "persuade"
     ],
-    "correct": 1,
-    "explanation": "Check that you can compare differences.\nHint: Some texts inform or persuade instead.",
+    "correct": 2,
+    "explanation": "persuade is the best answer.",
     "structuredExplanation": {
-      "summary": "Check that you can compare differences.",
-      "hint": "Some texts inform or persuade instead."
+      "summary": "persuade is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 8
   },
   {
     "id": "ac9e1ly03-t-009",
     "curriculumCode": "AC9E1LY03",
     "bank": "test",
-    "skill": "ac9e1ly03 01 test verify",
+    "skill": "describe some similarities and differences between imaginative, informative and persuasive texts",
     "printable": true,
     "type": "single",
-    "question": "A classmate is unsure about this example. Which tip would help them check it carefully?",
-    "audioPrompt": "A classmate is unsure about this example. Which tip would help them check it carefully?",
-    "visual": "🧠 show three voices; ➡️ Name text type; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 show three voices; ➡️ Name text type; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly03.svg#ac9e1ly03-t-002\"></use></svg>",
+    "question": "Read: “First we mixed the flour. Then we baked the cake.” What kind of text is this?",
+    "audioPrompt": "Read: “First we mixed the flour. Then we baked the cake.” What kind of text is this?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly03.svg#ac9e1ly03-t-002",
-      "alt_text": "🧠 show three voices; ➡️ Name text type; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Treat every text as a story.",
-      "Treat an opinion as a fact.",
-      "Some texts inform or persuade instead."
+      "an opinion",
+      "a recount",
+      "a made-up story"
     ],
-    "correct": 2,
-    "explanation": "Some texts inform or persuade instead. is the useful check. Some texts inform or persuade instead.\nHint: Some texts inform or persuade instead.",
+    "correct": 1,
+    "explanation": "a recount is the best answer.",
     "structuredExplanation": {
-      "summary": "Some texts inform or persuade instead. is the useful check. Some texts inform or persuade instead.",
-      "hint": "Some texts inform or persuade instead."
+      "summary": "a recount is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 9
   },
   {
     "id": "ac9e1ly03-t-010",
     "curriculumCode": "AC9E1LY03",
     "bank": "test",
-    "skill": "ac9e1ly03 02 test verify",
+    "skill": "describe some similarities and differences between imaginative, informative and persuasive texts",
     "printable": true,
     "type": "single",
-    "question": "A classmate is unsure about this example. Which tip would help them check it carefully?",
-    "audioPrompt": "A classmate is unsure about this example. Which tip would help them check it carefully?",
-    "visual": "🧠 Draw a comparison table; ➡️ Find features; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Draw a comparison table; ➡️ Find features; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly03.svg#ac9e1ly03-t-004\"></use></svg>",
+    "question": "Read: “A goat needs food and water. It is a living thing.” What is this text for?",
+    "audioPrompt": "Read: “A goat needs food and water. It is a living thing.” What is this text for?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly03.svg#ac9e1ly03-t-004",
-      "alt_text": "🧠 Draw a comparison table; ➡️ Find features; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Use this routine: Name text type → Find features → Compare purpose → Explain.",
-      "Treat an opinion as a fact.",
-      "Do not use same, different, both, but."
+      "to give an order",
+      "to tell a joke",
+      "to give facts"
     ],
-    "correct": 0,
-    "explanation": "Use this routine: Name text type → Find features → Compare purpose → Explain. is the useful check. Opinion can be agreed or disagreed with.\nHint: Opinion can be agreed or disagreed with.",
+    "correct": 2,
+    "explanation": "to give facts is the best answer.",
     "structuredExplanation": {
-      "summary": "Use this routine: Name text type → Find features → Compare purpose → Explain. is the useful check. Opinion can be agreed or disagreed with.",
-      "hint": "Opinion can be agreed or disagreed with."
+      "summary": "to give facts is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 10
   },
   {
     "id": "ac9e1ly03-t-011",
     "curriculumCode": "AC9E1LY03",
     "bank": "test",
-    "skill": "ac9e1ly03 03 test verify",
+    "skill": "describe some similarities and differences between imaginative, informative and persuasive texts",
     "printable": true,
     "type": "single",
-    "question": "A classmate is unsure about this example. Which tip would help them check it carefully?",
-    "audioPrompt": "A classmate is unsure about this example. Which tip would help them check it carefully?",
-    "visual": "🧠 Correct a type label; ➡️ Compare purpose; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Correct a type label; ➡️ Compare purpose; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly03.svg#ac9e1ly03-t-006\"></use></svg>",
+    "question": "Read: “I think the pond is best because it is fun.” What does this text give?",
+    "audioPrompt": "Read: “I think the pond is best because it is fun.” What does this text give?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly03.svg#ac9e1ly03-t-006",
-      "alt_text": "🧠 Correct a type label; ➡️ Compare purpose; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "You should adopt this pet because it is gentle",
-      "Look for persuasive and check the whole example.",
-      "Do not use same, different, both, but."
+      "a greeting",
+      "a recipe",
+      "an opinion"
     ],
-    "correct": 1,
-    "explanation": "Look for persuasive and check the whole example. is the useful check. Use same, different, both, but.\nHint: Use same, different, both, but.",
+    "correct": 2,
+    "explanation": "an opinion is the best answer.",
     "structuredExplanation": {
-      "summary": "Look for persuasive and check the whole example. is the useful check. Use same, different, both, but.",
-      "hint": "Use same, different, both, but."
+      "summary": "an opinion is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 11
   },
   {
     "id": "ac9e1ly03-t-012",
     "curriculumCode": "AC9E1LY03",
     "bank": "test",
-    "skill": "ac9e1ly03 04 test verify",
+    "skill": "describe some similarities and differences between imaginative, informative and persuasive texts",
     "printable": true,
     "type": "single",
-    "question": "A classmate is unsure about this example. Which tip would help them check it carefully?",
-    "audioPrompt": "A classmate is unsure about this example. Which tip would help them check it carefully?",
-    "visual": "🧠 Analyse a blended page; ➡️ Explain; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Analyse a blended page; ➡️ Explain; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly03.svg#ac9e1ly03-t-008\"></use></svg>",
+    "question": "Read: “The tiny dog flew to the moon.” What kind of text is this?",
+    "audioPrompt": "Read: “The tiny dog flew to the moon.” What kind of text is this?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly03.svg#ac9e1ly03-t-008",
-      "alt_text": "🧠 Analyse a blended page; ➡️ Explain; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Treat every text as a story.",
-      "Treat an opinion as a fact.",
-      "Check that you can compare differences."
+      "a fact report",
+      "a list",
+      "a made-up story"
     ],
     "correct": 2,
-    "explanation": "Check that you can compare differences. is the useful check. Some texts inform or persuade instead.\nHint: Some texts inform or persuade instead.",
+    "explanation": "a made-up story is the best answer.",
     "structuredExplanation": {
-      "summary": "Check that you can compare differences. is the useful check. Some texts inform or persuade instead.",
-      "hint": "Some texts inform or persuade instead."
+      "summary": "a made-up story is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 12
   },
   {
     "id": "ac9e1ly03-t-013",
     "curriculumCode": "AC9E1LY03",
     "bank": "test",
-    "skill": "ac9e1ly03 01 test apply",
+    "skill": "describe some similarities and differences between imaginative, informative and persuasive texts",
     "printable": true,
     "type": "single",
-    "question": "A classmate chose “Treat every text as a story.”. Which answer would improve their response?",
-    "audioPrompt": "A classmate chose Treat every text as a story.. Which answer would improve their response?",
-    "visual": "📖 show three voices; 🔎 imaginative; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 show three voices; 🔎 imaginative; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly03.svg#ac9e1ly03-t-001\"></use></svg>",
+    "question": "Look and choose: Which text would have steps and numbered instructions?",
+    "audioPrompt": "Look and choose: Which text would have steps and numbered instructions?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly03.svg#ac9e1ly03-t-001",
-      "alt_text": "📖 show three voices; 🔎 imaginative; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Three clearly different sentences suited to narrative, factual and opinion/action purposes",
-      "Treat every text as a story.",
-      "Treat an opinion as a fact."
+      "a how-to text",
+      "a story",
+      "a poem"
     ],
     "correct": 0,
-    "explanation": "Three clearly different sentences suited to narrative, factual and opinion/action purposes is the stronger response because it uses the target skill. Some texts inform or persuade instead.\nHint: Some texts inform or persuade instead.",
+    "explanation": "a how-to text is the best answer.",
     "structuredExplanation": {
-      "summary": "Three clearly different sentences suited to narrative, factual and opinion/action purposes is the stronger response because it uses the target skill. Some texts inform or persuade instead.",
-      "hint": "Some texts inform or persuade instead."
+      "summary": "a how-to text is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 13
   },
   {
     "id": "ac9e1ly03-t-014",
     "curriculumCode": "AC9E1LY03",
     "bank": "test",
-    "skill": "ac9e1ly03 02 test apply",
+    "skill": "describe some similarities and differences between imaginative, informative and persuasive texts",
     "printable": true,
     "type": "single",
-    "question": "A classmate chose “Treat an opinion as a fact.”. Which answer would improve their response?",
-    "audioPrompt": "A classmate chose Treat an opinion as a fact.. Which answer would improve their response?",
-    "visual": "📖 Draw a comparison table; 🔎 informative; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Draw a comparison table; 🔎 informative; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly03.svg#ac9e1ly03-t-003\"></use></svg>",
+    "question": "Which text often has characters and a problem?",
+    "audioPrompt": "Which text often has characters and a problem?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly03.svg#ac9e1ly03-t-003",
-      "alt_text": "📖 Draw a comparison table; 🔎 informative; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Treat an opinion as a fact.",
-      "Nine suitable entries organised accurately",
-      "Do not use same, different, both, but."
+      "a story",
+      "a fact list",
+      "a label"
     ],
-    "correct": 1,
-    "explanation": "Nine suitable entries organised accurately is the stronger response because it uses the target skill. Opinion can be agreed or disagreed with.\nHint: Opinion can be agreed or disagreed with.",
+    "correct": 0,
+    "explanation": "a story is the best answer.",
     "structuredExplanation": {
-      "summary": "Nine suitable entries organised accurately is the stronger response because it uses the target skill. Opinion can be agreed or disagreed with.",
-      "hint": "Opinion can be agreed or disagreed with."
+      "summary": "a story is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 14
   },
   {
     "id": "ac9e1ly03-t-015",
     "curriculumCode": "AC9E1LY03",
     "bank": "test",
-    "skill": "ac9e1ly03 03 test apply",
+    "skill": "describe some similarities and differences between imaginative, informative and persuasive texts",
     "printable": true,
     "type": "single",
-    "question": "A classmate chose “You should adopt this pet because it is gentle”. Which answer would improve their response?",
-    "audioPrompt": "A classmate chose You should adopt this pet because it is gentle. Which answer would improve their response?",
-    "visual": "📖 Correct a type label; 🔎 persuasive; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Correct a type label; 🔎 persuasive; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly03.svg#ac9e1ly03-t-005\"></use></svg>",
+    "question": "Read: “Rain falls from clouds.” Is this fact or opinion?",
+    "audioPrompt": "Read: “Rain falls from clouds.” Is this fact or opinion?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly03.svg#ac9e1ly03-t-005",
-      "alt_text": "📖 Correct a type label; 🔎 persuasive; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "You should adopt this pet because it is gentle",
-      "Do not use same, different, both, but.",
-      "It is persuasive because it recommends action and supports it with a reason, though it may contain information"
+      "opinion",
+      "question",
+      "fact"
     ],
     "correct": 2,
-    "explanation": "It is persuasive because it recommends action and supports it with a reason, though it may contain information is the stronger response because it uses the target skill. Use same, different, both, but.\nHint: Use same, different, both, but.",
+    "explanation": "fact is the best answer.",
     "structuredExplanation": {
-      "summary": "It is persuasive because it recommends action and supports it with a reason, though it may contain information is the stronger response because it uses the target skill. Use same, different, both, but.",
-      "hint": "Use same, different, both, but."
+      "summary": "fact is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 15
   },
   {
     "id": "ac9e1ly03-t-016",
     "curriculumCode": "AC9E1LY03",
     "bank": "test",
-    "skill": "ac9e1ly03 04 test apply",
+    "skill": "describe some similarities and differences between imaginative, informative and persuasive texts",
     "printable": true,
     "type": "single",
-    "question": "A classmate chose “Treat every text as a story.”. Which answer would improve their response?",
-    "audioPrompt": "A classmate chose Treat every text as a story.. Which answer would improve their response?",
-    "visual": "📖 Analyse a blended page; 🔎 similar; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Analyse a blended page; 🔎 similar; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly03.svg#ac9e1ly03-t-007\"></use></svg>",
+    "question": "Read: “Please choose our new ball. It is the best!” What is the writer trying to do?",
+    "audioPrompt": "Read: “Please choose our new ball. It is the best!” What is the writer trying to do?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly03.svg#ac9e1ly03-t-007",
-      "alt_text": "📖 Analyse a blended page; 🔎 similar; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Imaginative story/entertain",
-      "Treat every text as a story.",
-      "Treat an opinion as a fact."
+      "tell a story",
+      "give directions",
+      "persuade"
     ],
-    "correct": 0,
-    "explanation": "Imaginative story/entertain is the stronger response because it uses the target skill. Some texts inform or persuade instead.\nHint: Some texts inform or persuade instead.",
+    "correct": 2,
+    "explanation": "persuade is the best answer.",
     "structuredExplanation": {
-      "summary": "Imaginative story/entertain is the stronger response because it uses the target skill. Some texts inform or persuade instead.",
-      "hint": "Some texts inform or persuade instead."
+      "summary": "persuade is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 16
   }
 ];
-window.skillrExamQuestions = window.skillrTestQuestions;
-window.quizQuestions = window.skillrTestQuestions;

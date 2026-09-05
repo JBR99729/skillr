@@ -4,1161 +4,1440 @@ window.skillrPracticeQuestions = [
     "id": "ac9e1le01-p-001",
     "curriculumCode": "AC9E1LE01",
     "bank": "practice",
-    "skill": "ac9e1le01 01 recognise",
+    "skill": "discuss how language and images are used to create characters, settings and events in literature by first nations australian, and wide-ranging australian and world authors and illustrators",
     "printable": true,
     "type": "single",
-    "question": "Which response would correctly find a character clue?",
-    "audioPrompt": "Which response would correctly find a character clue?",
-    "visual": "📖 Find a character clue; 🔎 character; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Find a character clue; 🔎 character; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-p-001\"></use></svg>",
+    "question": "[Show Mia smiling.] The picture shows Mia smiling. What does the picture tell us?",
+    "audioPrompt": "[Show Mia smiling.] The picture shows Mia smiling. What does the picture tell us?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-p-001",
-      "alt_text": "📖 Find a character clue; 🔎 character; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Gently; it suggests care",
-      "Tara tucked the injured bird gently into a box",
-      "Give an opinion without evidence from the text."
+      "nothing",
+      "sad",
+      "happy"
     ],
-    "correct": 0,
-    "explanation": "Gently; it suggests care This matches the task.\nHint: Point to words or image clues.",
+    "correct": 2,
+    "explanation": "happy is the best answer.",
     "structuredExplanation": {
-      "summary": "Gently; it suggests care This matches the task.",
-      "hint": "Point to words or image clues."
+      "summary": "happy is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 1
   },
   {
     "id": "ac9e1le01-p-002",
     "curriculumCode": "AC9E1LE01",
     "bank": "practice",
-    "skill": "ac9e1le01 02 recognise",
+    "skill": "discuss how language and images are used to create characters, settings and events in literature by first nations australian, and wide-ranging australian and world authors and illustrators",
     "printable": true,
     "type": "single",
-    "question": "Which response would correctly match choices and effects?",
-    "audioPrompt": "Which response would correctly match choices and effects?",
-    "visual": "📖 Match choices and effects; 🔎 setting; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Match choices and effects; 🔎 setting; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-p-003\"></use></svg>",
+    "question": "[Show Ben crying.] The picture shows Ben crying. What does the picture tell us?",
+    "audioPrompt": "[Show Ben crying.] The picture shows Ben crying. What does the picture tell us?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-p-003",
-      "alt_text": "📖 Match choices and effects; 🔎 setting; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Do not use both language and image where available.",
-      "Mix event and setting.",
-      "Each visual choice matches its likely literary effect"
+      "happy",
+      "sad",
+      "nothing"
     ],
-    "correct": 2,
-    "explanation": "Each visual choice matches its likely literary effect This matches the task.\nHint: Use both language and image where available.",
+    "correct": 1,
+    "explanation": "sad is the best answer.",
     "structuredExplanation": {
-      "summary": "Each visual choice matches its likely literary effect This matches the task.",
-      "hint": "Use both language and image where available."
+      "summary": "sad is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 2
   },
   {
     "id": "ac9e1le01-p-003",
     "curriculumCode": "AC9E1LE01",
     "bank": "practice",
-    "skill": "ac9e1le01 03 recognise",
+    "skill": "discuss how language and images are used to create characters, settings and events in literature by first nations australian, and wide-ranging australian and world authors and illustrators",
     "printable": true,
     "type": "single",
-    "question": "Which response would correctly perform dialogue clues?",
-    "audioPrompt": "Which response would correctly perform dialogue clues?",
-    "visual": "📖 Perform dialogue clues; 🔎 event; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Perform dialogue clues; 🔎 event; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-p-005\"></use></svg>",
+    "question": "[Show Sam shivering.] The picture shows Sam shivering. What does the picture tell us?",
+    "audioPrompt": "[Show Sam shivering.] The picture shows Sam shivering. What does the picture tell us?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-p-005",
-      "alt_text": "📖 Perform dialogue clues; 🔎 event; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "I can do it",
-      "Uses clearly different voice and explains confidence versus uncertainty",
-      "Mix event and setting."
+      "nothing",
+      "cold",
+      "hot"
     ],
     "correct": 1,
-    "explanation": "Uses clearly different voice and explains confidence versus uncertainty This matches the task.\nHint: Setting is where/when; event is what happens.",
+    "explanation": "cold is the best answer.",
     "structuredExplanation": {
-      "summary": "Uses clearly different voice and explains confidence versus uncertainty This matches the task.",
-      "hint": "Setting is where/when; event is what happens."
+      "summary": "cold is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 3
   },
   {
     "id": "ac9e1le01-p-004",
     "curriculumCode": "AC9E1LE01",
     "bank": "practice",
-    "skill": "ac9e1le01 04 recognise",
+    "skill": "discuss how language and images are used to create characters, settings and events in literature by first nations australian, and wide-ranging australian and world authors and illustrators",
     "printable": true,
     "type": "single",
-    "question": "Which response would correctly describe a setting?",
-    "audioPrompt": "Which response would correctly describe a setting?",
-    "visual": "📖 Describe a setting; 🔎 words; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Describe a setting; 🔎 words; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-p-007\"></use></svg>",
+    "question": "[Show Kim yawning.] The picture shows Kim yawning. What does the picture tell us?",
+    "audioPrompt": "[Show Kim yawning.] The picture shows Kim yawning. What does the picture tell us?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-p-007",
-      "alt_text": "📖 Describe a setting; 🔎 words; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "A plausible lonely/eerie/windy feeling, supported by whistled and empty",
-      "Wind whistled between the empty sheds",
-      "Give an opinion without evidence from the text."
+      "angry",
+      "tired",
+      "nothing"
     ],
-    "correct": 0,
-    "explanation": "A plausible lonely/eerie/windy feeling, supported by whistled and empty This matches the task.\nHint: Point to words or image clues.",
+    "correct": 1,
+    "explanation": "tired is the best answer.",
     "structuredExplanation": {
-      "summary": "A plausible lonely/eerie/windy feeling, supported by whistled and empty This matches the task.",
-      "hint": "Point to words or image clues."
+      "summary": "tired is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 4
   },
   {
     "id": "ac9e1le01-p-005",
     "curriculumCode": "AC9E1LE01",
     "bank": "practice",
-    "skill": "ac9e1le01 05 recognise",
+    "skill": "discuss how language and images are used to create characters, settings and events in literature by first nations australian, and wide-ranging australian and world authors and illustrators",
     "printable": true,
     "type": "single",
-    "question": "Which response would correctly order event clues?",
-    "audioPrompt": "Which response would correctly order event clues?",
-    "visual": "📖 Order event clues; 🔎 image clue; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Order event clues; 🔎 image clue; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-p-009\"></use></svg>",
+    "question": "[Show Ava running.] The picture shows Ava running. What does the picture tell us?",
+    "audioPrompt": "[Show Ava running.] The picture shows Ava running. What does the picture tell us?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-p-009",
-      "alt_text": "📖 Order event clues; 🔎 image clue; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Do not use both language and image where available.",
-      "Mix event and setting.",
-      "A logical narrative order beginning with rain/footprints and ending with puppy found"
+      "asleep",
+      "in a hurry",
+      "nothing"
     ],
-    "correct": 2,
-    "explanation": "A logical narrative order beginning with rain/footprints and ending with puppy found This matches the task.\nHint: Use both language and image where available.",
+    "correct": 1,
+    "explanation": "in a hurry is the best answer.",
     "structuredExplanation": {
-      "summary": "A logical narrative order beginning with rain/footprints and ending with puppy found This matches the task.",
-      "hint": "Use both language and image where available."
+      "summary": "in a hurry is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 5
   },
   {
     "id": "ac9e1le01-p-006",
     "curriculumCode": "AC9E1LE01",
     "bank": "practice",
-    "skill": "ac9e1le01 06 recognise",
+    "skill": "discuss how language and images are used to create characters, settings and events in literature by first nations australian, and wide-ranging australian and world authors and illustrators",
     "printable": true,
     "type": "single",
-    "question": "Which response would correctly draw an added detail?",
-    "audioPrompt": "Which response would correctly draw an added detail?",
-    "visual": "📖 Draw an added detail; 🔎 character; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Draw an added detail; 🔎 character; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-p-011\"></use></svg>",
+    "question": "[Show Leo waving.] The picture shows Leo waving. What does the picture tell us?",
+    "audioPrompt": "[Show Leo waving.] The picture shows Leo waving. What does the picture tell us?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-p-011",
-      "alt_text": "📖 Draw an added detail; 🔎 character; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "The boat entered the bay",
-      "Uses two relevant choices such as dark waves, tilted boat or looming rocks and labels their effect",
-      "Mix event and setting."
+      "nothing",
+      "hidden",
+      "friendly"
     ],
-    "correct": 1,
-    "explanation": "Uses two relevant choices such as dark waves, tilted boat or looming rocks and labels their effect This matches the task.\nHint: Setting is where/when; event is what happens.",
+    "correct": 2,
+    "explanation": "friendly is the best answer.",
     "structuredExplanation": {
-      "summary": "Uses two relevant choices such as dark waves, tilted boat or looming rocks and labels their effect This matches the task.",
-      "hint": "Setting is where/when; event is what happens."
+      "summary": "friendly is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 6
   },
   {
     "id": "ac9e1le01-p-007",
     "curriculumCode": "AC9E1LE01",
     "bank": "practice",
-    "skill": "ac9e1le01 07 recognise",
+    "skill": "discuss how language and images are used to create characters, settings and events in literature by first nations australian, and wide-ranging australian and world authors and illustrators",
     "printable": true,
     "type": "single",
-    "question": "Which response would correctly compare word and image?",
-    "audioPrompt": "Which response would correctly compare word and image?",
-    "visual": "📖 Compare word and image; 🔎 setting; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Compare word and image; 🔎 setting; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-p-013\"></use></svg>",
+    "question": "[Show Zoe frowning.] The picture shows Zoe frowning. What does the picture tell us?",
+    "audioPrompt": "[Show Zoe frowning.] The picture shows Zoe frowning. What does the picture tell us?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-p-013",
-      "alt_text": "📖 Compare word and image; 🔎 setting; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Something may have happened before the quiet moment; cites disorder as evidence and keeps inference tentative",
-      "quiet",
-      "Give an opinion without evidence from the text."
+      "glad",
+      "upset",
+      "nothing"
     ],
-    "correct": 0,
-    "explanation": "Something may have happened before the quiet moment; cites disorder as evidence and keeps inference tentative This matches the task.\nHint: Point to words or image clues.",
+    "correct": 1,
+    "explanation": "upset is the best answer.",
     "structuredExplanation": {
-      "summary": "Something may have happened before the quiet moment; cites disorder as evidence and keeps inference tentative This matches the task.",
-      "hint": "Point to words or image clues."
+      "summary": "upset is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 7
   },
   {
     "id": "ac9e1le01-p-008",
     "curriculumCode": "AC9E1LE01",
     "bank": "practice",
-    "skill": "ac9e1le01 08 recognise",
+    "skill": "discuss how language and images are used to create characters, settings and events in literature by first nations australian, and wide-ranging australian and world authors and illustrators",
     "printable": true,
     "type": "single",
-    "question": "Which response would correctly discuss two character portrayals?",
-    "audioPrompt": "Which response would correctly discuss two character portrayals?",
-    "visual": "📖 Discuss two character portrayals; 🔎 event; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Discuss two character portrayals; 🔎 event; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-p-015\"></use></svg>",
+    "question": "[Show Max laughing.] The picture shows Max laughing. What does the picture tell us?",
+    "audioPrompt": "[Show Max laughing.] The picture shows Max laughing. What does the picture tell us?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-p-015",
-      "alt_text": "📖 Discuss two character portrayals; 🔎 event; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "bounding ahead",
-      "waited and checked the map",
-      "First seems energetic/impulsive; second careful/thoughtful, supported by exact actions"
+      "afraid",
+      "amused",
+      "nothing"
     ],
-    "correct": 2,
-    "explanation": "First seems energetic/impulsive; second careful/thoughtful, supported by exact actions This matches the task.\nHint: Use both language and image where available.",
+    "correct": 1,
+    "explanation": "amused is the best answer.",
     "structuredExplanation": {
-      "summary": "First seems energetic/impulsive; second careful/thoughtful, supported by exact actions This matches the task.",
-      "hint": "Use both language and image where available."
+      "summary": "amused is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 8
   },
   {
     "id": "ac9e1le01-p-009",
     "curriculumCode": "AC9E1LE01",
     "bank": "practice",
-    "skill": "ac9e1le01 09 recognise",
+    "skill": "discuss how language and images are used to create characters, settings and events in literature by first nations australian, and wide-ranging australian and world authors and illustrators",
     "printable": true,
     "type": "single",
-    "question": "Which response would correctly interpret image position?",
-    "audioPrompt": "Which response would correctly interpret image position?",
-    "visual": "📖 Interpret image position; 🔎 words; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Interpret image position; 🔎 words; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-p-017\"></use></svg>",
+    "question": "[Show Ben smiling.] The picture shows Ben smiling. What does the picture tell us?",
+    "audioPrompt": "[Show Ben smiling.] The picture shows Ben smiling. What does the picture tell us?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-p-017",
-      "alt_text": "📖 Interpret image position; 🔎 words; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Mix event and setting.",
-      "The staircase/challenge feels large and the child may feel small, uncertain or overwhelmed",
-      "Give an opinion without evidence from the text."
+      "happy",
+      "sad",
+      "nothing"
     ],
-    "correct": 1,
-    "explanation": "The staircase/challenge feels large and the child may feel small, uncertain or overwhelmed This matches the task.\nHint: Setting is where/when; event is what happens.",
+    "correct": 0,
+    "explanation": "happy is the best answer.",
     "structuredExplanation": {
-      "summary": "The staircase/challenge feels large and the child may feel small, uncertain or overwhelmed This matches the task.",
-      "hint": "Setting is where/when; event is what happens."
+      "summary": "happy is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 9
   },
   {
     "id": "ac9e1le01-p-010",
     "curriculumCode": "AC9E1LE01",
     "bank": "practice",
-    "skill": "ac9e1le01 10 recognise",
+    "skill": "discuss how language and images are used to create characters, settings and events in literature by first nations australian, and wide-ranging australian and world authors and illustrators",
     "printable": true,
     "type": "single",
-    "question": "Which response would correctly match fresh language clues?",
-    "audioPrompt": "Which response would correctly match fresh language clues?",
-    "visual": "📖 Match fresh language clues; 🔎 image clue; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Match fresh language clues; 🔎 image clue; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-p-019\"></use></svg>",
+    "question": "[Show Sam crying.] The picture shows Sam crying. What does the picture tell us?",
+    "audioPrompt": "[Show Sam crying.] The picture shows Sam crying. What does the picture tell us?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-p-019",
-      "alt_text": "📖 Match fresh language clues; 🔎 image clue; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "All three language choices matched to supported effects",
-      "Give an opinion without evidence from the text.",
-      "Do not use both language and image where available."
+      "nothing",
+      "happy",
+      "sad"
     ],
-    "correct": 0,
-    "explanation": "All three language choices matched to supported effects This matches the task.\nHint: Point to words or image clues.",
+    "correct": 2,
+    "explanation": "sad is the best answer.",
     "structuredExplanation": {
-      "summary": "All three language choices matched to supported effects This matches the task.",
-      "hint": "Point to words or image clues."
+      "summary": "sad is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 10
   },
   {
     "id": "ac9e1le01-p-011",
     "curriculumCode": "AC9E1LE01",
     "bank": "practice",
-    "skill": "ac9e1le01 01 explain",
+    "skill": "discuss how language and images are used to create characters, settings and events in literature by first nations australian, and wide-ranging australian and world authors and illustrators",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you find a character clue?",
-    "audioPrompt": "Which tip would help you find a character clue?",
-    "visual": "🧠 Find a character clue; ➡️ Notice words; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Find a character clue; ➡️ Notice words; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-p-002\"></use></svg>",
+    "question": "[Show Kim shivering.] The picture shows Kim shivering. What does the picture tell us?",
+    "audioPrompt": "[Show Kim shivering.] The picture shows Kim shivering. What does the picture tell us?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-p-002",
-      "alt_text": "🧠 Find a character clue; ➡️ Notice words; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Do not use both language and image where available.",
-      "Point to words or image clues.",
-      "Mix event and setting."
+      "hot",
+      "cold",
+      "nothing"
     ],
     "correct": 1,
-    "explanation": "Point to words or image clues.\nHint: Point to words or image clues.",
+    "explanation": "cold is the best answer.",
     "structuredExplanation": {
-      "summary": "Point to words or image clues.",
-      "hint": "Point to words or image clues."
+      "summary": "cold is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 11
   },
   {
     "id": "ac9e1le01-p-012",
     "curriculumCode": "AC9E1LE01",
     "bank": "practice",
-    "skill": "ac9e1le01 02 explain",
+    "skill": "discuss how language and images are used to create characters, settings and events in literature by first nations australian, and wide-ranging australian and world authors and illustrators",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you match choices and effects?",
-    "audioPrompt": "Which tip would help you match choices and effects?",
-    "visual": "🧠 Match choices and effects; ➡️ Notice images; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Match choices and effects; ➡️ Notice images; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-p-004\"></use></svg>",
+    "question": "[Show Ava yawning.] The picture shows Ava yawning. What does the picture tell us?",
+    "audioPrompt": "[Show Ava yawning.] The picture shows Ava yawning. What does the picture tell us?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-p-004",
-      "alt_text": "🧠 Match choices and effects; ➡️ Notice images; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Use this routine: Notice words → Notice images → Name character/setting/event → Explain effect.",
-      "Mix event and setting.",
-      "Give an opinion without evidence from the text."
+      "tired",
+      "angry",
+      "nothing"
     ],
     "correct": 0,
-    "explanation": "Use this routine: Notice words → Notice images → Name character/setting/event → Explain effect.\nHint: Use both language and image where available.",
+    "explanation": "tired is the best answer.",
     "structuredExplanation": {
-      "summary": "Use this routine: Notice words → Notice images → Name character/setting/event → Explain effect.",
-      "hint": "Use both language and image where available."
+      "summary": "tired is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 12
   },
   {
     "id": "ac9e1le01-p-013",
     "curriculumCode": "AC9E1LE01",
     "bank": "practice",
-    "skill": "ac9e1le01 03 explain",
+    "skill": "discuss how language and images are used to create characters, settings and events in literature by first nations australian, and wide-ranging australian and world authors and illustrators",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you perform dialogue clues?",
-    "audioPrompt": "Which tip would help you perform dialogue clues?",
-    "visual": "🧠 Perform dialogue clues; ➡️ Name character/setting/event; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Perform dialogue clues; ➡️ Name character/setting/event; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-p-006\"></use></svg>",
+    "question": "[Show Leo running.] The picture shows Leo running. What does the picture tell us?",
+    "audioPrompt": "[Show Leo running.] The picture shows Leo running. What does the picture tell us?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-p-006",
-      "alt_text": "🧠 Perform dialogue clues; ➡️ Name character/setting/event; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Give an opinion without evidence from the text.",
-      "Do not use both language and image where available.",
-      "Look for event and check the whole example."
+      "nothing",
+      "asleep",
+      "in a hurry"
     ],
     "correct": 2,
-    "explanation": "Look for event and check the whole example.\nHint: Setting is where/when; event is what happens.",
+    "explanation": "in a hurry is the best answer.",
     "structuredExplanation": {
-      "summary": "Look for event and check the whole example.",
-      "hint": "Setting is where/when; event is what happens."
+      "summary": "in a hurry is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 13
   },
   {
     "id": "ac9e1le01-p-014",
     "curriculumCode": "AC9E1LE01",
     "bank": "practice",
-    "skill": "ac9e1le01 04 explain",
+    "skill": "discuss how language and images are used to create characters, settings and events in literature by first nations australian, and wide-ranging australian and world authors and illustrators",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you describe a setting?",
-    "audioPrompt": "Which tip would help you describe a setting?",
-    "visual": "🧠 Describe a setting; ➡️ Explain effect; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Describe a setting; ➡️ Explain effect; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-p-008\"></use></svg>",
+    "question": "[Show Zoe waving.] The picture shows Zoe waving. What does the picture tell us?",
+    "audioPrompt": "[Show Zoe waving.] The picture shows Zoe waving. What does the picture tell us?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-p-008",
-      "alt_text": "🧠 Describe a setting; ➡️ Explain effect; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Do not use both language and image where available.",
-      "Check that you can use word evidence.",
-      "Mix event and setting."
+      "hidden",
+      "friendly",
+      "nothing"
     ],
     "correct": 1,
-    "explanation": "Check that you can use word evidence.\nHint: Point to words or image clues.",
+    "explanation": "friendly is the best answer.",
     "structuredExplanation": {
-      "summary": "Check that you can use word evidence.",
-      "hint": "Point to words or image clues."
+      "summary": "friendly is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 14
   },
   {
     "id": "ac9e1le01-p-015",
     "curriculumCode": "AC9E1LE01",
     "bank": "practice",
-    "skill": "ac9e1le01 05 explain",
+    "skill": "discuss how language and images are used to create characters, settings and events in literature by first nations australian, and wide-ranging australian and world authors and illustrators",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you order event clues?",
-    "audioPrompt": "Which tip would help you order event clues?",
-    "visual": "🧠 Order event clues; ➡️ Notice words; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Order event clues; ➡️ Notice words; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-p-010\"></use></svg>",
+    "question": "[Show Max frowning.] The picture shows Max frowning. What does the picture tell us?",
+    "audioPrompt": "[Show Max frowning.] The picture shows Max frowning. What does the picture tell us?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-p-010",
-      "alt_text": "🧠 Order event clues; ➡️ Notice words; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Sequencing events from causal clues.",
-      "Mix event and setting.",
-      "Give an opinion without evidence from the text."
+      "upset",
+      "glad",
+      "nothing"
     ],
     "correct": 0,
-    "explanation": "Sequencing events from causal clues.\nHint: Use both language and image where available.",
+    "explanation": "upset is the best answer.",
     "structuredExplanation": {
-      "summary": "Sequencing events from causal clues.",
-      "hint": "Use both language and image where available."
+      "summary": "upset is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 15
   },
   {
     "id": "ac9e1le01-p-016",
     "curriculumCode": "AC9E1LE01",
     "bank": "practice",
-    "skill": "ac9e1le01 06 explain",
+    "skill": "discuss how language and images are used to create characters, settings and events in literature by first nations australian, and wide-ranging australian and world authors and illustrators",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you draw an added detail?",
-    "audioPrompt": "Which tip would help you draw an added detail?",
-    "visual": "🧠 Draw an added detail; ➡️ Notice images; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Draw an added detail; ➡️ Notice images; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-p-012\"></use></svg>",
+    "question": "[Show Mia laughing.] The picture shows Mia laughing. What does the picture tell us?",
+    "audioPrompt": "[Show Mia laughing.] The picture shows Mia laughing. What does the picture tell us?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-p-012",
-      "alt_text": "🧠 Draw an added detail; ➡️ Notice images; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Give an opinion without evidence from the text.",
-      "Do not use both language and image where available.",
-      "Setting is where/when; event is what happens."
+      "afraid",
+      "nothing",
+      "amused"
     ],
     "correct": 2,
-    "explanation": "Setting is where/when; event is what happens.\nHint: Setting is where/when; event is what happens.",
+    "explanation": "amused is the best answer.",
     "structuredExplanation": {
-      "summary": "Setting is where/when; event is what happens.",
-      "hint": "Setting is where/when; event is what happens."
+      "summary": "amused is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 16
   },
   {
     "id": "ac9e1le01-p-017",
     "curriculumCode": "AC9E1LE01",
     "bank": "practice",
-    "skill": "ac9e1le01 07 explain",
+    "skill": "discuss how language and images are used to create characters, settings and events in literature by first nations australian, and wide-ranging australian and world authors and illustrators",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you compare word and image?",
-    "audioPrompt": "Which tip would help you compare word and image?",
-    "visual": "🧠 Compare word and image; ➡️ Name character/setting/event; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Compare word and image; ➡️ Name character/setting/event; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-p-014\"></use></svg>",
+    "question": "[Show Sam smiling.] The picture shows Sam smiling. What does the picture tell us?",
+    "audioPrompt": "[Show Sam smiling.] The picture shows Sam smiling. What does the picture tell us?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-p-014",
-      "alt_text": "🧠 Compare word and image; ➡️ Name character/setting/event; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Do not use both language and image where available.",
-      "Use this routine: Notice words → Notice images → Name character/setting/event → Explain effect.",
-      "Mix event and setting."
+      "sad",
+      "nothing",
+      "happy"
     ],
-    "correct": 1,
-    "explanation": "Use this routine: Notice words → Notice images → Name character/setting/event → Explain effect.\nHint: Point to words or image clues.",
+    "correct": 2,
+    "explanation": "happy is the best answer.",
     "structuredExplanation": {
-      "summary": "Use this routine: Notice words → Notice images → Name character/setting/event → Explain effect.",
-      "hint": "Point to words or image clues."
+      "summary": "happy is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 2,
+    "difficultyTier": "guided",
+    "sequencePriority": 17
   },
   {
     "id": "ac9e1le01-p-018",
     "curriculumCode": "AC9E1LE01",
     "bank": "practice",
-    "skill": "ac9e1le01 08 explain",
+    "skill": "discuss how language and images are used to create characters, settings and events in literature by first nations australian, and wide-ranging australian and world authors and illustrators",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you discuss two character portrayals?",
-    "audioPrompt": "Which tip would help you discuss two character portrayals?",
-    "visual": "🧠 Discuss two character portrayals; ➡️ Explain effect; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Discuss two character portrayals; ➡️ Explain effect; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-p-016\"></use></svg>",
+    "question": "[Show Kim crying.] The picture shows Kim crying. What does the picture tell us?",
+    "audioPrompt": "[Show Kim crying.] The picture shows Kim crying. What does the picture tell us?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-p-016",
-      "alt_text": "🧠 Discuss two character portrayals; ➡️ Explain effect; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Look for event and check the whole example.",
-      "Mix event and setting.",
-      "Give an opinion without evidence from the text."
+      "sad",
+      "nothing",
+      "happy"
     ],
     "correct": 0,
-    "explanation": "Look for event and check the whole example.\nHint: Use both language and image where available.",
+    "explanation": "sad is the best answer.",
     "structuredExplanation": {
-      "summary": "Look for event and check the whole example.",
-      "hint": "Use both language and image where available."
+      "summary": "sad is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 2,
+    "difficultyTier": "guided",
+    "sequencePriority": 18
   },
   {
     "id": "ac9e1le01-p-019",
     "curriculumCode": "AC9E1LE01",
     "bank": "practice",
-    "skill": "ac9e1le01 09 explain",
+    "skill": "discuss how language and images are used to create characters, settings and events in literature by first nations australian, and wide-ranging australian and world authors and illustrators",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you interpret image position?",
-    "audioPrompt": "Which tip would help you interpret image position?",
-    "visual": "🧠 Interpret image position; ➡️ Notice words; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Interpret image position; ➡️ Notice words; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-p-018\"></use></svg>",
+    "question": "[Show Ava shivering.] The picture shows Ava shivering. What does the picture tell us?",
+    "audioPrompt": "[Show Ava shivering.] The picture shows Ava shivering. What does the picture tell us?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-p-018",
-      "alt_text": "🧠 Interpret image position; ➡️ Notice words; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Give an opinion without evidence from the text.",
-      "Do not use both language and image where available.",
-      "Check that you can use word evidence."
+      "nothing",
+      "cold",
+      "hot"
     ],
-    "correct": 2,
-    "explanation": "Check that you can use word evidence.\nHint: Setting is where/when; event is what happens.",
+    "correct": 1,
+    "explanation": "cold is the best answer.",
     "structuredExplanation": {
-      "summary": "Check that you can use word evidence.",
-      "hint": "Setting is where/when; event is what happens."
+      "summary": "cold is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 2,
+    "difficultyTier": "guided",
+    "sequencePriority": 19
   },
   {
     "id": "ac9e1le01-p-020",
     "curriculumCode": "AC9E1LE01",
     "bank": "practice",
-    "skill": "ac9e1le01 10 explain",
+    "skill": "discuss how language and images are used to create characters, settings and events in literature by first nations australian, and wide-ranging australian and world authors and illustrators",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you match fresh language clues?",
-    "audioPrompt": "Which tip would help you match fresh language clues?",
-    "visual": "🧠 Match fresh language clues; ➡️ Notice images; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Match fresh language clues; ➡️ Notice images; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-p-020\"></use></svg>",
+    "question": "[Show Leo yawning.] The picture shows Leo yawning. What does the picture tell us?",
+    "audioPrompt": "[Show Leo yawning.] The picture shows Leo yawning. What does the picture tell us?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-p-020",
-      "alt_text": "🧠 Match fresh language clues; ➡️ Notice images; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Do not use both language and image where available.",
-      "Interpreting verbs and phrases in literature.",
-      "Mix event and setting."
+      "tired",
+      "nothing",
+      "angry"
     ],
-    "correct": 1,
-    "explanation": "Interpreting verbs and phrases in literature.\nHint: Point to words or image clues.",
+    "correct": 0,
+    "explanation": "tired is the best answer.",
     "structuredExplanation": {
-      "summary": "Interpreting verbs and phrases in literature.",
-      "hint": "Point to words or image clues."
+      "summary": "tired is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 2,
+    "difficultyTier": "guided",
+    "sequencePriority": 20
   },
   {
     "id": "ac9e1le01-p-021",
     "curriculumCode": "AC9E1LE01",
     "bank": "practice",
-    "skill": "ac9e1le01 01 discriminate",
+    "skill": "discuss how language and images are used to create characters, settings and events in literature by first nations australian, and wide-ranging australian and world authors and illustrators",
     "printable": true,
     "type": "single",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": "📖 Find a character clue; 🔎 character; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Find a character clue; 🔎 character; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-p-001\"></use></svg>",
+    "question": "[Show Zoe running.] The picture shows Zoe running. What does the picture tell us?",
+    "audioPrompt": "[Show Zoe running.] The picture shows Zoe running. What does the picture tell us?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-p-001",
-      "alt_text": "📖 Find a character clue; 🔎 character; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Tara tucked the injured bird gently into a box",
-      "Gently; it suggests care",
-      "Point to words or image clues."
+      "nothing",
+      "in a hurry",
+      "asleep"
     ],
-    "correct": 0,
-    "explanation": "Tara tucked the injured bird gently into a box is the mix-up. Point to words or image clues.\nHint: Point to words or image clues.",
+    "correct": 1,
+    "explanation": "in a hurry is the best answer.",
     "structuredExplanation": {
-      "summary": "Tara tucked the injured bird gently into a box is the mix-up. Point to words or image clues.",
-      "hint": "Point to words or image clues."
+      "summary": "in a hurry is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 2,
+    "difficultyTier": "guided",
+    "sequencePriority": 21
   },
   {
     "id": "ac9e1le01-p-022",
     "curriculumCode": "AC9E1LE01",
     "bank": "practice",
-    "skill": "ac9e1le01 02 discriminate",
+    "skill": "discuss how language and images are used to create characters, settings and events in literature by first nations australian, and wide-ranging australian and world authors and illustrators",
     "printable": true,
     "type": "single",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": "📖 Match choices and effects; 🔎 setting; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Match choices and effects; 🔎 setting; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-p-003\"></use></svg>",
+    "question": "[Show Max waving.] The picture shows Max waving. What does the picture tell us?",
+    "audioPrompt": "[Show Max waving.] The picture shows Max waving. What does the picture tell us?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-p-003",
-      "alt_text": "📖 Match choices and effects; 🔎 setting; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Each visual choice matches its likely literary effect",
-      "Do not use both language and image where available.",
-      "Use this routine: Notice words → Notice images → Name character/setting/event → Explain effect."
+      "hidden",
+      "nothing",
+      "friendly"
     ],
-    "correct": 1,
-    "explanation": "Do not use both language and image where available. is the mix-up. Use both language and image where available.\nHint: Use both language and image where available.",
+    "correct": 2,
+    "explanation": "friendly is the best answer.",
     "structuredExplanation": {
-      "summary": "Do not use both language and image where available. is the mix-up. Use both language and image where available.",
-      "hint": "Use both language and image where available."
+      "summary": "friendly is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 2,
+    "difficultyTier": "guided",
+    "sequencePriority": 22
   },
   {
     "id": "ac9e1le01-p-023",
     "curriculumCode": "AC9E1LE01",
     "bank": "practice",
-    "skill": "ac9e1le01 03 discriminate",
+    "skill": "discuss how language and images are used to create characters, settings and events in literature by first nations australian, and wide-ranging australian and world authors and illustrators",
     "printable": true,
     "type": "single",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": "📖 Perform dialogue clues; 🔎 event; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Perform dialogue clues; 🔎 event; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-p-005\"></use></svg>",
+    "question": "[Show Mia frowning.] The picture shows Mia frowning. What does the picture tell us?",
+    "audioPrompt": "[Show Mia frowning.] The picture shows Mia frowning. What does the picture tell us?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-p-005",
-      "alt_text": "📖 Perform dialogue clues; 🔎 event; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Uses clearly different voice and explains confidence versus uncertainty",
-      "Look for event and check the whole example.",
-      "I can do it"
+      "glad",
+      "upset",
+      "nothing"
     ],
-    "correct": 2,
-    "explanation": "I can do it is the mix-up. Setting is where/when; event is what happens.\nHint: Setting is where/when; event is what happens.",
+    "correct": 1,
+    "explanation": "upset is the best answer.",
     "structuredExplanation": {
-      "summary": "I can do it is the mix-up. Setting is where/when; event is what happens.",
-      "hint": "Setting is where/when; event is what happens."
+      "summary": "upset is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 2,
+    "difficultyTier": "guided",
+    "sequencePriority": 23
   },
   {
     "id": "ac9e1le01-p-024",
     "curriculumCode": "AC9E1LE01",
     "bank": "practice",
-    "skill": "ac9e1le01 04 discriminate",
+    "skill": "discuss how language and images are used to create characters, settings and events in literature by first nations australian, and wide-ranging australian and world authors and illustrators",
     "printable": true,
     "type": "single",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": "📖 Describe a setting; 🔎 words; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Describe a setting; 🔎 words; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-p-007\"></use></svg>",
+    "question": "[Show Ben laughing.] The picture shows Ben laughing. What does the picture tell us?",
+    "audioPrompt": "[Show Ben laughing.] The picture shows Ben laughing. What does the picture tell us?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-p-007",
-      "alt_text": "📖 Describe a setting; 🔎 words; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Wind whistled between the empty sheds",
-      "A plausible lonely/eerie/windy feeling, supported by whistled and empty",
-      "Check that you can use word evidence."
+      "afraid",
+      "amused",
+      "nothing"
     ],
-    "correct": 0,
-    "explanation": "Wind whistled between the empty sheds is the mix-up. Point to words or image clues.\nHint: Point to words or image clues.",
+    "correct": 1,
+    "explanation": "amused is the best answer.",
     "structuredExplanation": {
-      "summary": "Wind whistled between the empty sheds is the mix-up. Point to words or image clues.",
-      "hint": "Point to words or image clues."
+      "summary": "amused is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 2,
+    "difficultyTier": "guided",
+    "sequencePriority": 24
   },
   {
     "id": "ac9e1le01-p-025",
     "curriculumCode": "AC9E1LE01",
     "bank": "practice",
-    "skill": "ac9e1le01 05 discriminate",
+    "skill": "discuss how language and images are used to create characters, settings and events in literature by first nations australian, and wide-ranging australian and world authors and illustrators",
     "printable": true,
     "type": "single",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": "📖 Order event clues; 🔎 image clue; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Order event clues; 🔎 image clue; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-p-009\"></use></svg>",
+    "question": "[Show Kim smiling.] The picture shows Kim smiling. What does the picture tell us?",
+    "audioPrompt": "[Show Kim smiling.] The picture shows Kim smiling. What does the picture tell us?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-p-009",
-      "alt_text": "📖 Order event clues; 🔎 image clue; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "A logical narrative order beginning with rain/footprints and ending with puppy found",
-      "Do not use both language and image where available.",
-      "Sequencing events from causal clues."
+      "nothing",
+      "sad",
+      "happy"
     ],
-    "correct": 1,
-    "explanation": "Do not use both language and image where available. is the mix-up. Use both language and image where available.\nHint: Use both language and image where available.",
+    "correct": 2,
+    "explanation": "happy is the best answer.",
     "structuredExplanation": {
-      "summary": "Do not use both language and image where available. is the mix-up. Use both language and image where available.",
-      "hint": "Use both language and image where available."
+      "summary": "happy is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 2,
+    "difficultyTier": "guided",
+    "sequencePriority": 25
   },
   {
     "id": "ac9e1le01-p-026",
     "curriculumCode": "AC9E1LE01",
     "bank": "practice",
-    "skill": "ac9e1le01 06 discriminate",
+    "skill": "discuss how language and images are used to create characters, settings and events in literature by first nations australian, and wide-ranging australian and world authors and illustrators",
     "printable": true,
     "type": "single",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": "📖 Draw an added detail; 🔎 character; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Draw an added detail; 🔎 character; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-p-011\"></use></svg>",
+    "question": "[Show Ava crying.] The picture shows Ava crying. What does the picture tell us?",
+    "audioPrompt": "[Show Ava crying.] The picture shows Ava crying. What does the picture tell us?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-p-011",
-      "alt_text": "📖 Draw an added detail; 🔎 character; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Uses two relevant choices such as dark waves, tilted boat or looming rocks and labels their effect",
-      "Setting is where/when; event is what happens.",
-      "The boat entered the bay"
+      "happy",
+      "sad",
+      "nothing"
     ],
-    "correct": 2,
-    "explanation": "The boat entered the bay is the mix-up. Setting is where/when; event is what happens.\nHint: Setting is where/when; event is what happens.",
+    "correct": 1,
+    "explanation": "sad is the best answer.",
     "structuredExplanation": {
-      "summary": "The boat entered the bay is the mix-up. Setting is where/when; event is what happens.",
-      "hint": "Setting is where/when; event is what happens."
+      "summary": "sad is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 2,
+    "difficultyTier": "guided",
+    "sequencePriority": 26
   },
   {
     "id": "ac9e1le01-p-027",
     "curriculumCode": "AC9E1LE01",
     "bank": "practice",
-    "skill": "ac9e1le01 07 discriminate",
+    "skill": "discuss how language and images are used to create characters, settings and events in literature by first nations australian, and wide-ranging australian and world authors and illustrators",
     "printable": true,
     "type": "single",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": "📖 Compare word and image; 🔎 setting; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Compare word and image; 🔎 setting; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-p-013\"></use></svg>",
+    "question": "[Show Leo shivering.] The picture shows Leo shivering. What does the picture tell us?",
+    "audioPrompt": "[Show Leo shivering.] The picture shows Leo shivering. What does the picture tell us?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-p-013",
-      "alt_text": "📖 Compare word and image; 🔎 setting; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "quiet",
-      "Something may have happened before the quiet moment; cites disorder as evidence and keeps inference tentative",
-      "Use this routine: Notice words → Notice images → Name character/setting/event → Explain effect."
+      "hot",
+      "nothing",
+      "cold"
     ],
-    "correct": 0,
-    "explanation": "quiet is the mix-up. Point to words or image clues.\nHint: Point to words or image clues.",
+    "correct": 2,
+    "explanation": "cold is the best answer.",
     "structuredExplanation": {
-      "summary": "quiet is the mix-up. Point to words or image clues.",
-      "hint": "Point to words or image clues."
+      "summary": "cold is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 2,
+    "difficultyTier": "guided",
+    "sequencePriority": 27
   },
   {
     "id": "ac9e1le01-p-028",
     "curriculumCode": "AC9E1LE01",
     "bank": "practice",
-    "skill": "ac9e1le01 08 discriminate",
+    "skill": "discuss how language and images are used to create characters, settings and events in literature by first nations australian, and wide-ranging australian and world authors and illustrators",
     "printable": true,
     "type": "single",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": "📖 Discuss two character portrayals; 🔎 event; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Discuss two character portrayals; 🔎 event; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-p-015\"></use></svg>",
+    "question": "[Show Zoe yawning.] The picture shows Zoe yawning. What does the picture tell us?",
+    "audioPrompt": "[Show Zoe yawning.] The picture shows Zoe yawning. What does the picture tell us?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-p-015",
-      "alt_text": "📖 Discuss two character portrayals; 🔎 event; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "First seems energetic/impulsive; second careful/thoughtful, supported by exact actions",
-      "bounding ahead",
-      "Look for event and check the whole example."
+      "tired",
+      "nothing",
+      "angry"
     ],
-    "correct": 1,
-    "explanation": "bounding ahead is the mix-up. Use both language and image where available.\nHint: Use both language and image where available.",
+    "correct": 0,
+    "explanation": "tired is the best answer.",
     "structuredExplanation": {
-      "summary": "bounding ahead is the mix-up. Use both language and image where available.",
-      "hint": "Use both language and image where available."
+      "summary": "tired is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 2,
+    "difficultyTier": "guided",
+    "sequencePriority": 28
   },
   {
     "id": "ac9e1le01-p-029",
     "curriculumCode": "AC9E1LE01",
     "bank": "practice",
-    "skill": "ac9e1le01 09 discriminate",
+    "skill": "discuss how language and images are used to create characters, settings and events in literature by first nations australian, and wide-ranging australian and world authors and illustrators",
     "printable": true,
     "type": "single",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": "📖 Interpret image position; 🔎 words; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Interpret image position; 🔎 words; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-p-017\"></use></svg>",
+    "question": "[Show Max running.] The picture shows Max running. What does the picture tell us?",
+    "audioPrompt": "[Show Max running.] The picture shows Max running. What does the picture tell us?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-p-017",
-      "alt_text": "📖 Interpret image position; 🔎 words; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "The staircase/challenge feels large and the child may feel small, uncertain or overwhelmed",
-      "Check that you can use word evidence.",
-      "Mix event and setting."
+      "nothing",
+      "asleep",
+      "in a hurry"
     ],
     "correct": 2,
-    "explanation": "Mix event and setting. is the mix-up. Setting is where/when; event is what happens.\nHint: Setting is where/when; event is what happens.",
+    "explanation": "in a hurry is the best answer.",
     "structuredExplanation": {
-      "summary": "Mix event and setting. is the mix-up. Setting is where/when; event is what happens.",
-      "hint": "Setting is where/when; event is what happens."
+      "summary": "in a hurry is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 2,
+    "difficultyTier": "guided",
+    "sequencePriority": 29
   },
   {
     "id": "ac9e1le01-p-030",
     "curriculumCode": "AC9E1LE01",
     "bank": "practice",
-    "skill": "ac9e1le01 10 discriminate",
+    "skill": "discuss how language and images are used to create characters, settings and events in literature by first nations australian, and wide-ranging australian and world authors and illustrators",
     "printable": true,
     "type": "single",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": "📖 Match fresh language clues; 🔎 image clue; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Match fresh language clues; 🔎 image clue; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-p-019\"></use></svg>",
+    "question": "[Show Mia waving.] The picture shows Mia waving. What does the picture tell us?",
+    "audioPrompt": "[Show Mia waving.] The picture shows Mia waving. What does the picture tell us?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-p-019",
-      "alt_text": "📖 Match fresh language clues; 🔎 image clue; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Give an opinion without evidence from the text.",
-      "All three language choices matched to supported effects",
-      "Interpreting verbs and phrases in literature."
+      "hidden",
+      "friendly",
+      "nothing"
     ],
-    "correct": 0,
-    "explanation": "Give an opinion without evidence from the text. is the mix-up. Point to words or image clues.\nHint: Point to words or image clues.",
+    "correct": 1,
+    "explanation": "friendly is the best answer.",
     "structuredExplanation": {
-      "summary": "Give an opinion without evidence from the text. is the mix-up. Point to words or image clues.",
-      "hint": "Point to words or image clues."
+      "summary": "friendly is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 2,
+    "difficultyTier": "guided",
+    "sequencePriority": 30
   },
   {
     "id": "ac9e1le01-p-031",
     "curriculumCode": "AC9E1LE01",
     "bank": "practice",
-    "skill": "ac9e1le01 01 apply",
+    "skill": "discuss how language and images are used to create characters, settings and events in literature by first nations australian, and wide-ranging australian and world authors and illustrators",
     "printable": true,
     "type": "single",
-    "question": "Which choice would best use this skill in a new example?",
-    "audioPrompt": "Which choice would best use this skill in a new example?",
-    "visual": "📖 Find a character clue; 🔎 character; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Find a character clue; 🔎 character; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-p-001\"></use></svg>",
+    "question": "[Show Ben frowning.] The picture shows Ben frowning. What does the picture tell us?",
+    "audioPrompt": "[Show Ben frowning.] The picture shows Ben frowning. What does the picture tell us?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-p-001",
-      "alt_text": "📖 Find a character clue; 🔎 character; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Tara tucked the injured bird gently into a box",
-      "Gently; it suggests care",
-      "Give an opinion without evidence from the text."
+      "upset",
+      "nothing",
+      "glad"
     ],
-    "correct": 1,
-    "explanation": "Gently; it suggests care uses the skill correctly. Point to words or image clues.\nHint: Point to words or image clues.",
+    "correct": 0,
+    "explanation": "upset is the best answer.",
     "structuredExplanation": {
-      "summary": "Gently; it suggests care uses the skill correctly. Point to words or image clues.",
-      "hint": "Point to words or image clues."
+      "summary": "upset is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 2,
+    "difficultyTier": "guided",
+    "sequencePriority": 31
   },
   {
     "id": "ac9e1le01-p-032",
     "curriculumCode": "AC9E1LE01",
     "bank": "practice",
-    "skill": "ac9e1le01 02 apply",
+    "skill": "discuss how language and images are used to create characters, settings and events in literature by first nations australian, and wide-ranging australian and world authors and illustrators",
     "printable": true,
     "type": "single",
-    "question": "Which choice would best use this skill in a new example?",
-    "audioPrompt": "Which choice would best use this skill in a new example?",
-    "visual": "📖 Match choices and effects; 🔎 setting; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Match choices and effects; 🔎 setting; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-p-003\"></use></svg>",
+    "question": "[Show Sam laughing.] The picture shows Sam laughing. What does the picture tell us?",
+    "audioPrompt": "[Show Sam laughing.] The picture shows Sam laughing. What does the picture tell us?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-p-003",
-      "alt_text": "📖 Match choices and effects; 🔎 setting; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Do not use both language and image where available.",
-      "Mix event and setting.",
-      "Each visual choice matches its likely literary effect"
+      "afraid",
+      "nothing",
+      "amused"
     ],
     "correct": 2,
-    "explanation": "Each visual choice matches its likely literary effect uses the skill correctly. Use both language and image where available.\nHint: Use both language and image where available.",
+    "explanation": "amused is the best answer.",
     "structuredExplanation": {
-      "summary": "Each visual choice matches its likely literary effect uses the skill correctly. Use both language and image where available.",
-      "hint": "Use both language and image where available."
+      "summary": "amused is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 2,
+    "difficultyTier": "guided",
+    "sequencePriority": 32
   },
   {
     "id": "ac9e1le01-p-033",
     "curriculumCode": "AC9E1LE01",
     "bank": "practice",
-    "skill": "ac9e1le01 03 apply",
+    "skill": "discuss how language and images are used to create characters, settings and events in literature by first nations australian, and wide-ranging australian and world authors and illustrators",
     "printable": true,
     "type": "single",
-    "question": "Which choice would best use this skill in a new example?",
-    "audioPrompt": "Which choice would best use this skill in a new example?",
-    "visual": "📖 Perform dialogue clues; 🔎 event; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Perform dialogue clues; 🔎 event; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-p-005\"></use></svg>",
+    "question": "[Show Ava smiling.] The picture shows Ava smiling. What does the picture tell us?",
+    "audioPrompt": "[Show Ava smiling.] The picture shows Ava smiling. What does the picture tell us?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-p-005",
-      "alt_text": "📖 Perform dialogue clues; 🔎 event; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Uses clearly different voice and explains confidence versus uncertainty",
-      "I can do it",
-      "Mix event and setting."
+      "sad",
+      "happy",
+      "nothing"
     ],
-    "correct": 0,
-    "explanation": "Uses clearly different voice and explains confidence versus uncertainty uses the skill correctly. Setting is where/when; event is what happens.\nHint: Setting is where/when; event is what happens.",
+    "correct": 1,
+    "explanation": "happy is the best answer.",
     "structuredExplanation": {
-      "summary": "Uses clearly different voice and explains confidence versus uncertainty uses the skill correctly. Setting is where/when; event is what happens.",
-      "hint": "Setting is where/when; event is what happens."
+      "summary": "happy is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 33
   },
   {
     "id": "ac9e1le01-p-034",
     "curriculumCode": "AC9E1LE01",
     "bank": "practice",
-    "skill": "ac9e1le01 04 apply",
+    "skill": "discuss how language and images are used to create characters, settings and events in literature by first nations australian, and wide-ranging australian and world authors and illustrators",
     "printable": true,
     "type": "single",
-    "question": "Which choice would best use this skill in a new example?",
-    "audioPrompt": "Which choice would best use this skill in a new example?",
-    "visual": "📖 Describe a setting; 🔎 words; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Describe a setting; 🔎 words; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-p-007\"></use></svg>",
+    "question": "[Show Leo crying.] The picture shows Leo crying. What does the picture tell us?",
+    "audioPrompt": "[Show Leo crying.] The picture shows Leo crying. What does the picture tell us?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-p-007",
-      "alt_text": "📖 Describe a setting; 🔎 words; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Wind whistled between the empty sheds",
-      "A plausible lonely/eerie/windy feeling, supported by whistled and empty",
-      "Give an opinion without evidence from the text."
+      "sad",
+      "nothing",
+      "happy"
     ],
-    "correct": 1,
-    "explanation": "A plausible lonely/eerie/windy feeling, supported by whistled and empty uses the skill correctly. Point to words or image clues.\nHint: Point to words or image clues.",
+    "correct": 0,
+    "explanation": "sad is the best answer.",
     "structuredExplanation": {
-      "summary": "A plausible lonely/eerie/windy feeling, supported by whistled and empty uses the skill correctly. Point to words or image clues.",
-      "hint": "Point to words or image clues."
+      "summary": "sad is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 34
   },
   {
     "id": "ac9e1le01-p-035",
     "curriculumCode": "AC9E1LE01",
     "bank": "practice",
-    "skill": "ac9e1le01 05 apply",
+    "skill": "discuss how language and images are used to create characters, settings and events in literature by first nations australian, and wide-ranging australian and world authors and illustrators",
     "printable": true,
     "type": "single",
-    "question": "Which choice would best use this skill in a new example?",
-    "audioPrompt": "Which choice would best use this skill in a new example?",
-    "visual": "📖 Order event clues; 🔎 image clue; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Order event clues; 🔎 image clue; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-p-009\"></use></svg>",
+    "question": "[Show Zoe shivering.] The picture shows Zoe shivering. What does the picture tell us?",
+    "audioPrompt": "[Show Zoe shivering.] The picture shows Zoe shivering. What does the picture tell us?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-p-009",
-      "alt_text": "📖 Order event clues; 🔎 image clue; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Do not use both language and image where available.",
-      "Mix event and setting.",
-      "A logical narrative order beginning with rain/footprints and ending with puppy found"
+      "nothing",
+      "cold",
+      "hot"
     ],
-    "correct": 2,
-    "explanation": "A logical narrative order beginning with rain/footprints and ending with puppy found uses the skill correctly. Use both language and image where available.\nHint: Use both language and image where available.",
+    "correct": 1,
+    "explanation": "cold is the best answer.",
     "structuredExplanation": {
-      "summary": "A logical narrative order beginning with rain/footprints and ending with puppy found uses the skill correctly. Use both language and image where available.",
-      "hint": "Use both language and image where available."
+      "summary": "cold is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 35
   },
   {
     "id": "ac9e1le01-p-036",
     "curriculumCode": "AC9E1LE01",
     "bank": "practice",
-    "skill": "ac9e1le01 06 apply",
+    "skill": "discuss how language and images are used to create characters, settings and events in literature by first nations australian, and wide-ranging australian and world authors and illustrators",
     "printable": true,
     "type": "single",
-    "question": "Which choice would best use this skill in a new example?",
-    "audioPrompt": "Which choice would best use this skill in a new example?",
-    "visual": "📖 Draw an added detail; 🔎 character; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Draw an added detail; 🔎 character; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-p-011\"></use></svg>",
+    "question": "[Show Max yawning.] The picture shows Max yawning. What does the picture tell us?",
+    "audioPrompt": "[Show Max yawning.] The picture shows Max yawning. What does the picture tell us?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-p-011",
-      "alt_text": "📖 Draw an added detail; 🔎 character; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Uses two relevant choices such as dark waves, tilted boat or looming rocks and labels their effect",
-      "The boat entered the bay",
-      "Mix event and setting."
+      "nothing",
+      "tired",
+      "angry"
     ],
-    "correct": 0,
-    "explanation": "Uses two relevant choices such as dark waves, tilted boat or looming rocks and labels their effect uses the skill correctly. Setting is where/when; event is what happens.\nHint: Setting is where/when; event is what happens.",
+    "correct": 1,
+    "explanation": "tired is the best answer.",
     "structuredExplanation": {
-      "summary": "Uses two relevant choices such as dark waves, tilted boat or looming rocks and labels their effect uses the skill correctly. Setting is where/when; event is what happens.",
-      "hint": "Setting is where/when; event is what happens."
+      "summary": "tired is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 36
   },
   {
     "id": "ac9e1le01-p-037",
     "curriculumCode": "AC9E1LE01",
     "bank": "practice",
-    "skill": "ac9e1le01 07 apply",
+    "skill": "discuss how language and images are used to create characters, settings and events in literature by first nations australian, and wide-ranging australian and world authors and illustrators",
     "printable": true,
     "type": "single",
-    "question": "Which choice would best use this skill in a new example?",
-    "audioPrompt": "Which choice would best use this skill in a new example?",
-    "visual": "📖 Compare word and image; 🔎 setting; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Compare word and image; 🔎 setting; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-p-013\"></use></svg>",
+    "question": "[Show Mia running.] The picture shows Mia running. What does the picture tell us?",
+    "audioPrompt": "[Show Mia running.] The picture shows Mia running. What does the picture tell us?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-p-013",
-      "alt_text": "📖 Compare word and image; 🔎 setting; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "quiet",
-      "Something may have happened before the quiet moment; cites disorder as evidence and keeps inference tentative",
-      "Give an opinion without evidence from the text."
+      "in a hurry",
+      "asleep",
+      "nothing"
     ],
-    "correct": 1,
-    "explanation": "Something may have happened before the quiet moment; cites disorder as evidence and keeps inference tentative uses the skill correctly. Point to words or image clues.\nHint: Point to words or image clues.",
+    "correct": 0,
+    "explanation": "in a hurry is the best answer.",
     "structuredExplanation": {
-      "summary": "Something may have happened before the quiet moment; cites disorder as evidence and keeps inference tentative uses the skill correctly. Point to words or image clues.",
-      "hint": "Point to words or image clues."
+      "summary": "in a hurry is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 37
   },
   {
     "id": "ac9e1le01-p-038",
     "curriculumCode": "AC9E1LE01",
     "bank": "practice",
-    "skill": "ac9e1le01 08 apply",
+    "skill": "discuss how language and images are used to create characters, settings and events in literature by first nations australian, and wide-ranging australian and world authors and illustrators",
     "printable": true,
     "type": "single",
-    "question": "Which choice would best use this skill in a new example?",
-    "audioPrompt": "Which choice would best use this skill in a new example?",
-    "visual": "📖 Discuss two character portrayals; 🔎 event; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Discuss two character portrayals; 🔎 event; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-p-015\"></use></svg>",
+    "question": "[Show Ben waving.] The picture shows Ben waving. What does the picture tell us?",
+    "audioPrompt": "[Show Ben waving.] The picture shows Ben waving. What does the picture tell us?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-p-015",
-      "alt_text": "📖 Discuss two character portrayals; 🔎 event; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "bounding ahead",
-      "waited and checked the map",
-      "First seems energetic/impulsive; second careful/thoughtful, supported by exact actions"
+      "nothing",
+      "friendly",
+      "hidden"
     ],
-    "correct": 2,
-    "explanation": "First seems energetic/impulsive; second careful/thoughtful, supported by exact actions uses the skill correctly. Use both language and image where available.\nHint: Use both language and image where available.",
+    "correct": 1,
+    "explanation": "friendly is the best answer.",
     "structuredExplanation": {
-      "summary": "First seems energetic/impulsive; second careful/thoughtful, supported by exact actions uses the skill correctly. Use both language and image where available.",
-      "hint": "Use both language and image where available."
+      "summary": "friendly is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 38
   },
   {
     "id": "ac9e1le01-p-039",
     "curriculumCode": "AC9E1LE01",
     "bank": "practice",
-    "skill": "ac9e1le01 09 apply",
+    "skill": "discuss how language and images are used to create characters, settings and events in literature by first nations australian, and wide-ranging australian and world authors and illustrators",
     "printable": true,
     "type": "single",
-    "question": "Which choice would best use this skill in a new example?",
-    "audioPrompt": "Which choice would best use this skill in a new example?",
-    "visual": "📖 Interpret image position; 🔎 words; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Interpret image position; 🔎 words; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-p-017\"></use></svg>",
+    "question": "[Show Sam frowning.] The picture shows Sam frowning. What does the picture tell us?",
+    "audioPrompt": "[Show Sam frowning.] The picture shows Sam frowning. What does the picture tell us?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-p-017",
-      "alt_text": "📖 Interpret image position; 🔎 words; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "The staircase/challenge feels large and the child may feel small, uncertain or overwhelmed",
-      "Mix event and setting.",
-      "Give an opinion without evidence from the text."
+      "nothing",
+      "glad",
+      "upset"
     ],
-    "correct": 0,
-    "explanation": "The staircase/challenge feels large and the child may feel small, uncertain or overwhelmed uses the skill correctly. Setting is where/when; event is what happens.\nHint: Setting is where/when; event is what happens.",
+    "correct": 2,
+    "explanation": "upset is the best answer.",
     "structuredExplanation": {
-      "summary": "The staircase/challenge feels large and the child may feel small, uncertain or overwhelmed uses the skill correctly. Setting is where/when; event is what happens.",
-      "hint": "Setting is where/when; event is what happens."
+      "summary": "upset is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 39
   },
   {
     "id": "ac9e1le01-p-040",
     "curriculumCode": "AC9E1LE01",
     "bank": "practice",
-    "skill": "ac9e1le01 10 apply",
+    "skill": "discuss how language and images are used to create characters, settings and events in literature by first nations australian, and wide-ranging australian and world authors and illustrators",
     "printable": true,
     "type": "single",
-    "question": "Which choice would best use this skill in a new example?",
-    "audioPrompt": "Which choice would best use this skill in a new example?",
-    "visual": "📖 Match fresh language clues; 🔎 image clue; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Match fresh language clues; 🔎 image clue; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-p-019\"></use></svg>",
+    "question": "[Show Kim laughing.] The picture shows Kim laughing. What does the picture tell us?",
+    "audioPrompt": "[Show Kim laughing.] The picture shows Kim laughing. What does the picture tell us?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-p-019",
-      "alt_text": "📖 Match fresh language clues; 🔎 image clue; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Give an opinion without evidence from the text.",
-      "All three language choices matched to supported effects",
-      "Do not use both language and image where available."
+      "afraid",
+      "amused",
+      "nothing"
     ],
     "correct": 1,
-    "explanation": "All three language choices matched to supported effects uses the skill correctly. Point to words or image clues.\nHint: Point to words or image clues.",
+    "explanation": "amused is the best answer.",
     "structuredExplanation": {
-      "summary": "All three language choices matched to supported effects uses the skill correctly. Point to words or image clues.",
-      "hint": "Point to words or image clues."
+      "summary": "amused is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 40
+  },
+  {
+    "id": "ac9e1le01-p-041",
+    "curriculumCode": "AC9E1LE01",
+    "bank": "practice",
+    "skill": "discuss how language and images are used to create characters, settings and events in literature by first nations australian, and wide-ranging australian and world authors and illustrators",
+    "printable": true,
+    "type": "single",
+    "question": "[Show Leo smiling.] The picture shows Leo smiling. What does the picture tell us?",
+    "audioPrompt": "[Show Leo smiling.] The picture shows Leo smiling. What does the picture tell us?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "nothing",
+      "sad",
+      "happy"
+    ],
+    "correct": 2,
+    "explanation": "happy is the best answer.",
+    "structuredExplanation": {
+      "summary": "happy is the best answer."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 41,
+    "qualitySchema": "reviewed-year1-english-v1"
+  },
+  {
+    "id": "ac9e1le01-p-042",
+    "curriculumCode": "AC9E1LE01",
+    "bank": "practice",
+    "skill": "discuss how language and images are used to create characters, settings and events in literature by first nations australian, and wide-ranging australian and world authors and illustrators",
+    "printable": true,
+    "type": "single",
+    "question": "[Show Zoe crying.] The picture shows Zoe crying. What does the picture tell us?",
+    "audioPrompt": "[Show Zoe crying.] The picture shows Zoe crying. What does the picture tell us?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "happy",
+      "nothing",
+      "sad"
+    ],
+    "correct": 2,
+    "explanation": "sad is the best answer.",
+    "structuredExplanation": {
+      "summary": "sad is the best answer."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 42,
+    "qualitySchema": "reviewed-year1-english-v1"
+  },
+  {
+    "id": "ac9e1le01-p-043",
+    "curriculumCode": "AC9E1LE01",
+    "bank": "practice",
+    "skill": "discuss how language and images are used to create characters, settings and events in literature by first nations australian, and wide-ranging australian and world authors and illustrators",
+    "printable": true,
+    "type": "single",
+    "question": "[Show Max shivering.] The picture shows Max shivering. What does the picture tell us?",
+    "audioPrompt": "[Show Max shivering.] The picture shows Max shivering. What does the picture tell us?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "cold",
+      "nothing",
+      "hot"
+    ],
+    "correct": 0,
+    "explanation": "cold is the best answer.",
+    "structuredExplanation": {
+      "summary": "cold is the best answer."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 43,
+    "qualitySchema": "reviewed-year1-english-v1"
+  },
+  {
+    "id": "ac9e1le01-p-044",
+    "curriculumCode": "AC9E1LE01",
+    "bank": "practice",
+    "skill": "discuss how language and images are used to create characters, settings and events in literature by first nations australian, and wide-ranging australian and world authors and illustrators",
+    "printable": true,
+    "type": "single",
+    "question": "[Show Mia yawning.] The picture shows Mia yawning. What does the picture tell us?",
+    "audioPrompt": "[Show Mia yawning.] The picture shows Mia yawning. What does the picture tell us?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "angry",
+      "nothing",
+      "tired"
+    ],
+    "correct": 2,
+    "explanation": "tired is the best answer.",
+    "structuredExplanation": {
+      "summary": "tired is the best answer."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 44,
+    "qualitySchema": "reviewed-year1-english-v1"
+  },
+  {
+    "id": "ac9e1le01-p-045",
+    "curriculumCode": "AC9E1LE01",
+    "bank": "practice",
+    "skill": "discuss how language and images are used to create characters, settings and events in literature by first nations australian, and wide-ranging australian and world authors and illustrators",
+    "printable": true,
+    "type": "single",
+    "question": "[Show Ben running.] The picture shows Ben running. What does the picture tell us?",
+    "audioPrompt": "[Show Ben running.] The picture shows Ben running. What does the picture tell us?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "in a hurry",
+      "asleep",
+      "nothing"
+    ],
+    "correct": 0,
+    "explanation": "in a hurry is the best answer.",
+    "structuredExplanation": {
+      "summary": "in a hurry is the best answer."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 45,
+    "qualitySchema": "reviewed-year1-english-v1"
+  },
+  {
+    "id": "ac9e1le01-p-046",
+    "curriculumCode": "AC9E1LE01",
+    "bank": "practice",
+    "skill": "discuss how language and images are used to create characters, settings and events in literature by first nations australian, and wide-ranging australian and world authors and illustrators",
+    "printable": true,
+    "type": "single",
+    "question": "[Show Sam waving.] The picture shows Sam waving. What does the picture tell us?",
+    "audioPrompt": "[Show Sam waving.] The picture shows Sam waving. What does the picture tell us?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "hidden",
+      "nothing",
+      "friendly"
+    ],
+    "correct": 2,
+    "explanation": "friendly is the best answer.",
+    "structuredExplanation": {
+      "summary": "friendly is the best answer."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 46,
+    "qualitySchema": "reviewed-year1-english-v1"
+  },
+  {
+    "id": "ac9e1le01-p-047",
+    "curriculumCode": "AC9E1LE01",
+    "bank": "practice",
+    "skill": "discuss how language and images are used to create characters, settings and events in literature by first nations australian, and wide-ranging australian and world authors and illustrators",
+    "printable": true,
+    "type": "single",
+    "question": "[Show Kim frowning.] The picture shows Kim frowning. What does the picture tell us?",
+    "audioPrompt": "[Show Kim frowning.] The picture shows Kim frowning. What does the picture tell us?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "nothing",
+      "upset",
+      "glad"
+    ],
+    "correct": 1,
+    "explanation": "upset is the best answer.",
+    "structuredExplanation": {
+      "summary": "upset is the best answer."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 47,
+    "qualitySchema": "reviewed-year1-english-v1"
+  },
+  {
+    "id": "ac9e1le01-p-048",
+    "curriculumCode": "AC9E1LE01",
+    "bank": "practice",
+    "skill": "discuss how language and images are used to create characters, settings and events in literature by first nations australian, and wide-ranging australian and world authors and illustrators",
+    "printable": true,
+    "type": "single",
+    "question": "[Show Ava laughing.] The picture shows Ava laughing. What does the picture tell us?",
+    "audioPrompt": "[Show Ava laughing.] The picture shows Ava laughing. What does the picture tell us?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "nothing",
+      "afraid",
+      "amused"
+    ],
+    "correct": 2,
+    "explanation": "amused is the best answer.",
+    "structuredExplanation": {
+      "summary": "amused is the best answer."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 48,
+    "qualitySchema": "reviewed-year1-english-v1"
   }
 ];
-window.quizQuestions = window.skillrPracticeQuestions;

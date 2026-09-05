@@ -4,1161 +4,1440 @@ window.skillrPracticeQuestions = [
     "id": "ac9e1le03-p-001",
     "curriculumCode": "AC9E1LE03",
     "bank": "practice",
-    "skill": "ac9e1le03 01 recognise",
+    "skill": "discuss plot, character and setting, which are features of stories",
     "printable": true,
     "type": "single",
-    "question": "Which response would correctly identify the setting?",
-    "audioPrompt": "Which response would correctly identify the setting?",
-    "visual": "📖 Identify the setting; 🔎 plot; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Identify the setting; 🔎 plot; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le03.svg#ac9e1le03-p-001\"></use></svg>",
+    "question": "Read: “Mia lost a hat. At last, Mia found it.” What was the problem?",
+    "audioPrompt": "Read: “Mia lost a hat. At last, Mia found it.” What was the problem?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le03.svg#ac9e1le03-p-001",
-      "alt_text": "📖 Identify the setting; 🔎 plot; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Beside the river at sunrise",
-      "At sunrise, Kian waits beside the river",
-      "Treat character as any object."
+      "The hat was new.",
+      "Mia found it.",
+      "The hat was lost."
     ],
-    "correct": 0,
-    "explanation": "Beside the river at sunrise This matches the task.\nHint: Characters usually act or feel in the story.",
+    "correct": 2,
+    "explanation": "The hat was lost. is the best answer.",
     "structuredExplanation": {
-      "summary": "Beside the river at sunrise This matches the task.",
-      "hint": "Characters usually act or feel in the story."
+      "summary": "The hat was lost. is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 1
   },
   {
     "id": "ac9e1le03-p-002",
     "curriculumCode": "AC9E1LE03",
     "bank": "practice",
-    "skill": "ac9e1le03 02 recognise",
+    "skill": "discuss plot, character and setting, which are features of stories",
     "printable": true,
     "type": "single",
-    "question": "Which response would correctly match features?",
-    "audioPrompt": "Which response would correctly match features?",
-    "visual": "📖 Match features; 🔎 character; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Match features; 🔎 character; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le03.svg#ac9e1le03-p-003\"></use></svg>",
+    "question": "Read: “A dog slept under a tree.” Who is the character?",
+    "audioPrompt": "Read: “A dog slept under a tree.” Who is the character?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le03.svg#ac9e1le03-p-003",
-      "alt_text": "📖 Match features; 🔎 character; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "beginning ↔ who; setting ↔ where/when; plot ↔ events",
-      "setting ↔ who; setting ↔ where/when; plot ↔ events",
-      "Character ↔ who; setting ↔ where/when; plot ↔ events"
+      "the tree",
+      "the dog",
+      "sleep"
     ],
-    "correct": 2,
-    "explanation": "Character ↔ who; setting ↔ where/when; plot ↔ events This matches the task.\nHint: Ask where and when the story happens.",
+    "correct": 1,
+    "explanation": "the dog is the best answer.",
     "structuredExplanation": {
-      "summary": "Character ↔ who; setting ↔ where/when; plot ↔ events This matches the task.",
-      "hint": "Ask where and when the story happens."
+      "summary": "the dog is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 2
   },
   {
     "id": "ac9e1le03-p-003",
     "curriculumCode": "AC9E1LE03",
     "bank": "practice",
-    "skill": "ac9e1le03 03 recognise",
+    "skill": "discuss plot, character and setting, which are features of stories",
     "printable": true,
     "type": "single",
-    "question": "Which response would correctly act a character goal?",
-    "audioPrompt": "Which response would correctly act a character goal?",
-    "visual": "📖 Act a character goal; 🔎 setting; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Act a character goal; 🔎 setting; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le03.svg#ac9e1le03-p-005\"></use></svg>",
+    "question": "Read: “Sam played by the pond.” Where is the setting?",
+    "audioPrompt": "Read: “Sam played by the pond.” Where is the setting?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le03.svg#ac9e1le03-p-005",
-      "alt_text": "📖 Act a character goal; 🔎 setting; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Use plot as one event only.",
-      "Gives a safe, character-led action such as asking an adult, linked to goal",
-      "Treat character as any object."
+      "at night",
+      "by the pond",
+      "Sam"
     ],
     "correct": 1,
-    "explanation": "Gives a safe, character-led action such as asking an adult, linked to goal This matches the task.\nHint: Track events across beginning, middle and end.",
+    "explanation": "by the pond is the best answer.",
     "structuredExplanation": {
-      "summary": "Gives a safe, character-led action such as asking an adult, linked to goal This matches the task.",
-      "hint": "Track events across beginning, middle and end."
+      "summary": "by the pond is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 3
   },
   {
     "id": "ac9e1le03-p-004",
     "curriculumCode": "AC9E1LE03",
     "bank": "practice",
-    "skill": "ac9e1le03 04 recognise",
+    "skill": "discuss plot, character and setting, which are features of stories",
     "printable": true,
     "type": "single",
-    "question": "Which response would correctly find the problem?",
-    "audioPrompt": "Which response would correctly find the problem?",
-    "visual": "📖 Find the problem; 🔎 beginning; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Find the problem; 🔎 beginning; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le03.svg#ac9e1le03-p-007\"></use></svg>",
+    "question": "Read: “The fox was hungry, so it found food.” What happened first?",
+    "audioPrompt": "Read: “The fox was hungry, so it found food.” What happened first?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le03.svg#ac9e1le03-p-007",
-      "alt_text": "📖 Find the problem; 🔎 beginning; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "The map is blown away/lost, making navigation difficult",
-      "Treat character as any object.",
-      "Do not ask where and when the story happens."
+      "It found food.",
+      "The fox was hungry.",
+      "It went to sleep."
     ],
-    "correct": 0,
-    "explanation": "The map is blown away/lost, making navigation difficult This matches the task.\nHint: Characters usually act or feel in the story.",
+    "correct": 1,
+    "explanation": "The fox was hungry. is the best answer.",
     "structuredExplanation": {
-      "summary": "The map is blown away/lost, making navigation difficult This matches the task.",
-      "hint": "Characters usually act or feel in the story."
+      "summary": "The fox was hungry. is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 4
   },
   {
     "id": "ac9e1le03-p-005",
     "curriculumCode": "AC9E1LE03",
     "bank": "practice",
-    "skill": "ac9e1le03 05 recognise",
+    "skill": "discuss plot, character and setting, which are features of stories",
     "printable": true,
     "type": "single",
-    "question": "Which response would correctly order a mini-plot?",
-    "audioPrompt": "Which response would correctly order a mini-plot?",
-    "visual": "📖 Order a mini-plot; 🔎 ending; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Order a mini-plot; 🔎 ending; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le03.svg#ac9e1le03-p-009\"></use></svg>",
+    "question": "Read: “Ava saw rain and opened an umbrella.” Why did Ava open it?",
+    "audioPrompt": "Read: “Ava saw rain and opened an umbrella.” Why did Ava open it?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le03.svg#ac9e1le03-p-009",
-      "alt_text": "📖 Order a mini-plot; 🔎 ending; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "enter garden → key found → search → Gate locked",
-      "Do not ask where and when the story happens.",
-      "Gate locked → search → key found → enter garden"
+      "because it was dark",
+      "because it rained",
+      "because it was lost"
     ],
-    "correct": 2,
-    "explanation": "Gate locked → search → key found → enter garden This matches the task.\nHint: Ask where and when the story happens.",
+    "correct": 1,
+    "explanation": "because it rained is the best answer.",
     "structuredExplanation": {
-      "summary": "Gate locked → search → key found → enter garden This matches the task.",
-      "hint": "Ask where and when the story happens."
+      "summary": "because it rained is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 5
   },
   {
     "id": "ac9e1le03-p-006",
     "curriculumCode": "AC9E1LE03",
     "bank": "practice",
-    "skill": "ac9e1le03 06 recognise",
+    "skill": "discuss plot, character and setting, which are features of stories",
     "printable": true,
     "type": "single",
-    "question": "Which response would correctly draw a setting clue?",
-    "audioPrompt": "Which response would correctly draw a setting clue?",
-    "visual": "📖 Draw a setting clue; 🔎 plot; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Draw a setting clue; 🔎 plot; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le03.svg#ac9e1le03-p-011\"></use></svg>",
+    "question": "Read: “At the pond, Leo met a duck.” Who are the characters?",
+    "audioPrompt": "Read: “At the pond, Leo met a duck.” Who are the characters?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le03.svg#ac9e1le03-p-011",
-      "alt_text": "📖 Draw a setting clue; 🔎 plot; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Use plot as one event only.",
-      "Two clear location/time clues such as platform, tracks, clock, darkness or lights",
-      "Treat character as any object."
+      "Leo and the pond",
+      "the pond",
+      "Leo and the duck"
     ],
-    "correct": 1,
-    "explanation": "Two clear location/time clues such as platform, tracks, clock, darkness or lights This matches the task.\nHint: Track events across beginning, middle and end.",
+    "correct": 2,
+    "explanation": "Leo and the duck is the best answer.",
     "structuredExplanation": {
-      "summary": "Two clear location/time clues such as platform, tracks, clock, darkness or lights This matches the task.",
-      "hint": "Track events across beginning, middle and end."
+      "summary": "Leo and the duck is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 6
   },
   {
     "id": "ac9e1le03-p-007",
     "curriculumCode": "AC9E1LE03",
     "bank": "practice",
-    "skill": "ac9e1le03 07 recognise",
+    "skill": "discuss plot, character and setting, which are features of stories",
     "printable": true,
     "type": "single",
-    "question": "How might a very patient character act differently from an impatient character when a bus is late?",
-    "audioPrompt": "How might a very patient character act differently from an impatient character when a bus is late?",
-    "visual": "📖 Explain character effect; 🔎 character; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Explain character effect; 🔎 character; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le03.svg#ac9e1le03-p-013\"></use></svg>",
+    "question": "Read: “The fish could not cross. Zoe made a bridge.” How was the problem solved?",
+    "audioPrompt": "Read: “The fish could not cross. Zoe made a bridge.” How was the problem solved?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le03.svg#ac9e1le03-p-013",
-      "alt_text": "📖 Explain character effect; 🔎 character; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Patient character waits/checks calmly; impatient character may complain/rush, affecting subsequent events",
-      "Treat character as any object.",
-      "Do not ask where and when the story happens."
+      "The bridge broke.",
+      "A bridge was made.",
+      "The animal slept."
     ],
-    "correct": 0,
-    "explanation": "Patient character waits/checks calmly; impatient character may complain/rush, affecting subsequent events This matches the task.\nHint: Characters usually act or feel in the story.",
+    "correct": 1,
+    "explanation": "A bridge was made. is the best answer.",
     "structuredExplanation": {
-      "summary": "Patient character waits/checks calmly; impatient character may complain/rush, affecting subsequent events This matches the task.",
-      "hint": "Characters usually act or feel in the story."
+      "summary": "A bridge was made. is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 7
   },
   {
     "id": "ac9e1le03-p-008",
     "curriculumCode": "AC9E1LE03",
     "bank": "practice",
-    "skill": "ac9e1le03 08 recognise",
+    "skill": "discuss plot, character and setting, which are features of stories",
     "printable": true,
     "type": "single",
-    "question": "Which response would correctly connect all three features?",
-    "audioPrompt": "Which response would correctly connect all three features?",
-    "visual": "📖 Connect all three features; 🔎 setting; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Connect all three features; 🔎 setting; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le03.svg#ac9e1le03-p-015\"></use></svg>",
+    "question": "Read: “At night, the goat hid in a cave.” When is the story set?",
+    "audioPrompt": "Read: “At night, the goat hid in a cave.” When is the story set?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le03.svg#ac9e1le03-p-015",
-      "alt_text": "📖 Connect all three features; 🔎 setting; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Do not ask where and when the story happens.",
-      "Use plot as one event only.",
-      "All three features are explicit and logically connected"
+      "at lunch",
+      "at night",
+      "next year"
     ],
-    "correct": 2,
-    "explanation": "All three features are explicit and logically connected This matches the task.\nHint: Ask where and when the story happens.",
+    "correct": 1,
+    "explanation": "at night is the best answer.",
     "structuredExplanation": {
-      "summary": "All three features are explicit and logically connected This matches the task.",
-      "hint": "Ask where and when the story happens."
+      "summary": "at night is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 8
   },
   {
     "id": "ac9e1le03-p-009",
     "curriculumCode": "AC9E1LE03",
     "bank": "practice",
-    "skill": "ac9e1le03 09 recognise",
+    "skill": "discuss plot, character and setting, which are features of stories",
     "printable": true,
     "type": "single",
-    "question": "Which response would correctly name the resolution?",
-    "audioPrompt": "Which response would correctly name the resolution?",
-    "visual": "📖 Name the resolution; 🔎 beginning; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Name the resolution; 🔎 beginning; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le03.svg#ac9e1le03-p-017\"></use></svg>",
+    "question": "Read: “Ben lost a book. At last, Ben found it.” What was the problem?",
+    "audioPrompt": "Read: “Ben lost a book. At last, Ben found it.” What was the problem?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le03.svg#ac9e1le03-p-017",
-      "alt_text": "📖 Name the resolution; 🔎 beginning; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Use plot as one event only.",
-      "The safe board bridge lets the puppy cross",
-      "Treat character as any object."
+      "The book was lost.",
+      "Ben found it.",
+      "The book was new."
     ],
-    "correct": 1,
-    "explanation": "The safe board bridge lets the puppy cross This matches the task.\nHint: Track events across beginning, middle and end.",
+    "correct": 0,
+    "explanation": "The book was lost. is the best answer.",
     "structuredExplanation": {
-      "summary": "The safe board bridge lets the puppy cross This matches the task.",
-      "hint": "Track events across beginning, middle and end."
+      "summary": "The book was lost. is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 9
   },
   {
     "id": "ac9e1le03-p-010",
     "curriculumCode": "AC9E1LE03",
     "bank": "practice",
-    "skill": "ac9e1le03 10 recognise",
+    "skill": "discuss plot, character and setting, which are features of stories",
     "printable": true,
     "type": "single",
-    "question": "Which response would correctly match characters to goals?",
-    "audioPrompt": "Which response would correctly match characters to goals?",
-    "visual": "📖 Match characters to goals; 🔎 ending; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Match characters to goals; 🔎 ending; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le03.svg#ac9e1le03-p-019\"></use></svg>",
+    "question": "Read: “A fox slept under a tree.” Who is the character?",
+    "audioPrompt": "Read: “A fox slept under a tree.” Who is the character?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le03.svg#ac9e1le03-p-019",
-      "alt_text": "📖 Match characters to goals; 🔎 ending; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Each character matches the logical goal",
-      "Treat character as any object.",
-      "Do not ask where and when the story happens."
+      "sleep",
+      "the tree",
+      "the fox"
     ],
-    "correct": 0,
-    "explanation": "Each character matches the logical goal This matches the task.\nHint: Characters usually act or feel in the story.",
+    "correct": 2,
+    "explanation": "the fox is the best answer.",
     "structuredExplanation": {
-      "summary": "Each character matches the logical goal This matches the task.",
-      "hint": "Characters usually act or feel in the story."
+      "summary": "the fox is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 10
   },
   {
     "id": "ac9e1le03-p-011",
     "curriculumCode": "AC9E1LE03",
     "bank": "practice",
-    "skill": "ac9e1le03 01 explain",
+    "skill": "discuss plot, character and setting, which are features of stories",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you identify the setting?",
-    "audioPrompt": "Which tip would help you identify the setting?",
-    "visual": "🧠 Identify the setting; ➡️ Read story; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Identify the setting; ➡️ Read story; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le03.svg#ac9e1le03-p-002\"></use></svg>",
+    "question": "Read: “Kim played by the pond.” Where is the setting?",
+    "audioPrompt": "Read: “Kim played by the pond.” Where is the setting?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le03.svg#ac9e1le03-p-002",
-      "alt_text": "🧠 Identify the setting; ➡️ Read story; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Do not ask where and when the story happens.",
-      "Characters usually act or feel in the story.",
-      "Use plot as one event only."
+      "Kim",
+      "by the pond",
+      "at night"
     ],
     "correct": 1,
-    "explanation": "Characters usually act or feel in the story.\nHint: Characters usually act or feel in the story.",
+    "explanation": "by the pond is the best answer.",
     "structuredExplanation": {
-      "summary": "Characters usually act or feel in the story.",
-      "hint": "Characters usually act or feel in the story."
+      "summary": "by the pond is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 11
   },
   {
     "id": "ac9e1le03-p-012",
     "curriculumCode": "AC9E1LE03",
     "bank": "practice",
-    "skill": "ac9e1le03 02 explain",
+    "skill": "discuss plot, character and setting, which are features of stories",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you match features?",
-    "audioPrompt": "Which tip would help you match features?",
-    "visual": "🧠 Match features; ➡️ Name character; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Match features; ➡️ Name character; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le03.svg#ac9e1le03-p-004\"></use></svg>",
+    "question": "Read: “The duck was hungry, so it found food.” What happened first?",
+    "audioPrompt": "Read: “The duck was hungry, so it found food.” What happened first?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le03.svg#ac9e1le03-p-004",
-      "alt_text": "🧠 Match features; ➡️ Name character; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Use this routine: Read story → Name character → Name setting → Sequence plot → Explain.",
-      "Use plot as one event only.",
-      "Treat character as any object."
+      "The duck was hungry.",
+      "It found food.",
+      "It went to sleep."
     ],
     "correct": 0,
-    "explanation": "Use this routine: Read story → Name character → Name setting → Sequence plot → Explain.\nHint: Ask where and when the story happens.",
+    "explanation": "The duck was hungry. is the best answer.",
     "structuredExplanation": {
-      "summary": "Use this routine: Read story → Name character → Name setting → Sequence plot → Explain.",
-      "hint": "Ask where and when the story happens."
+      "summary": "The duck was hungry. is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 12
   },
   {
     "id": "ac9e1le03-p-013",
     "curriculumCode": "AC9E1LE03",
     "bank": "practice",
-    "skill": "ac9e1le03 03 explain",
+    "skill": "discuss plot, character and setting, which are features of stories",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you act a character goal?",
-    "audioPrompt": "Which tip would help you act a character goal?",
-    "visual": "🧠 Act a character goal; ➡️ Name setting; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Act a character goal; ➡️ Name setting; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le03.svg#ac9e1le03-p-006\"></use></svg>",
+    "question": "Read: “Leo saw rain and opened an umbrella.” Why did Leo open it?",
+    "audioPrompt": "Read: “Leo saw rain and opened an umbrella.” Why did Leo open it?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le03.svg#ac9e1le03-p-006",
-      "alt_text": "🧠 Act a character goal; ➡️ Name setting; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Treat character as any object.",
-      "Do not ask where and when the story happens.",
-      "Look for setting and check the whole example."
+      "because it was lost",
+      "because it was dark",
+      "because it rained"
     ],
     "correct": 2,
-    "explanation": "Look for setting and check the whole example.\nHint: Track events across beginning, middle and end.",
+    "explanation": "because it rained is the best answer.",
     "structuredExplanation": {
-      "summary": "Look for setting and check the whole example.",
-      "hint": "Track events across beginning, middle and end."
+      "summary": "because it rained is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 13
   },
   {
     "id": "ac9e1le03-p-014",
     "curriculumCode": "AC9E1LE03",
     "bank": "practice",
-    "skill": "ac9e1le03 04 explain",
+    "skill": "discuss plot, character and setting, which are features of stories",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you find the problem?",
-    "audioPrompt": "Which tip would help you find the problem?",
-    "visual": "🧠 Find the problem; ➡️ Sequence plot; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Find the problem; ➡️ Sequence plot; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le03.svg#ac9e1le03-p-008\"></use></svg>",
+    "question": "Read: “At the farm, Zoe met a goat.” Who are the characters?",
+    "audioPrompt": "Read: “At the farm, Zoe met a goat.” Who are the characters?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le03.svg#ac9e1le03-p-008",
-      "alt_text": "🧠 Find the problem; ➡️ Sequence plot; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Do not ask where and when the story happens.",
-      "Check that you can sequence events.",
-      "Use plot as one event only."
+      "the farm",
+      "Zoe and the goat",
+      "Zoe and the farm"
     ],
     "correct": 1,
-    "explanation": "Check that you can sequence events.\nHint: Characters usually act or feel in the story.",
+    "explanation": "Zoe and the goat is the best answer.",
     "structuredExplanation": {
-      "summary": "Check that you can sequence events.",
-      "hint": "Characters usually act or feel in the story."
+      "summary": "Zoe and the goat is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 14
   },
   {
     "id": "ac9e1le03-p-015",
     "curriculumCode": "AC9E1LE03",
     "bank": "practice",
-    "skill": "ac9e1le03 05 explain",
+    "skill": "discuss plot, character and setting, which are features of stories",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you order a mini-plot?",
-    "audioPrompt": "Which tip would help you order a mini-plot?",
-    "visual": "🧠 Order a mini-plot; ➡️ Explain; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Order a mini-plot; ➡️ Explain; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le03.svg#ac9e1le03-p-010\"></use></svg>",
+    "question": "Read: “The cat could not cross. Max made a bridge.” How was the problem solved?",
+    "audioPrompt": "Read: “The cat could not cross. Max made a bridge.” How was the problem solved?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le03.svg#ac9e1le03-p-010",
-      "alt_text": "🧠 Order a mini-plot; ➡️ Explain; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Sequencing problem, attempts and resolution.",
-      "Use plot as one event only.",
-      "Treat character as any object."
+      "A bridge was made.",
+      "The bridge broke.",
+      "The animal slept."
     ],
     "correct": 0,
-    "explanation": "Sequencing problem, attempts and resolution.\nHint: Ask where and when the story happens.",
+    "explanation": "A bridge was made. is the best answer.",
     "structuredExplanation": {
-      "summary": "Sequencing problem, attempts and resolution.",
-      "hint": "Ask where and when the story happens."
+      "summary": "A bridge was made. is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 15
   },
   {
     "id": "ac9e1le03-p-016",
     "curriculumCode": "AC9E1LE03",
     "bank": "practice",
-    "skill": "ac9e1le03 06 explain",
+    "skill": "discuss plot, character and setting, which are features of stories",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you draw a setting clue?",
-    "audioPrompt": "Which tip would help you draw a setting clue?",
-    "visual": "🧠 Draw a setting clue; ➡️ Read story; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Draw a setting clue; ➡️ Read story; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le03.svg#ac9e1le03-p-012\"></use></svg>",
+    "question": "Read: “At night, the dog hid in a cave.” When is the story set?",
+    "audioPrompt": "Read: “At night, the dog hid in a cave.” When is the story set?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le03.svg#ac9e1le03-p-012",
-      "alt_text": "🧠 Draw a setting clue; ➡️ Read story; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Treat character as any object.",
-      "Do not ask where and when the story happens.",
-      "Track events across beginning, middle and end."
+      "at lunch",
+      "next year",
+      "at night"
     ],
     "correct": 2,
-    "explanation": "Track events across beginning, middle and end.\nHint: Track events across beginning, middle and end.",
+    "explanation": "at night is the best answer.",
     "structuredExplanation": {
-      "summary": "Track events across beginning, middle and end.",
-      "hint": "Track events across beginning, middle and end."
+      "summary": "at night is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 16
   },
   {
     "id": "ac9e1le03-p-017",
     "curriculumCode": "AC9E1LE03",
     "bank": "practice",
-    "skill": "ac9e1le03 07 explain",
+    "skill": "discuss plot, character and setting, which are features of stories",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you explain character effect?",
-    "audioPrompt": "Which tip would help you explain character effect?",
-    "visual": "🧠 Explain character effect; ➡️ Name character; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Explain character effect; ➡️ Name character; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le03.svg#ac9e1le03-p-014\"></use></svg>",
+    "question": "Read: “Sam lost a sock. At last, Sam found it.” What was the problem?",
+    "audioPrompt": "Read: “Sam lost a sock. At last, Sam found it.” What was the problem?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le03.svg#ac9e1le03-p-014",
-      "alt_text": "🧠 Explain character effect; ➡️ Name character; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Do not ask where and when the story happens.",
-      "Use this routine: Read story → Name character → Name setting → Sequence plot → Explain.",
-      "Use plot as one event only."
+      "Sam found it.",
+      "The sock was new.",
+      "The sock was lost."
     ],
-    "correct": 1,
-    "explanation": "Use this routine: Read story → Name character → Name setting → Sequence plot → Explain.\nHint: Characters usually act or feel in the story.",
+    "correct": 2,
+    "explanation": "The sock was lost. is the best answer.",
     "structuredExplanation": {
-      "summary": "Use this routine: Read story → Name character → Name setting → Sequence plot → Explain.",
-      "hint": "Characters usually act or feel in the story."
+      "summary": "The sock was lost. is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 2,
+    "difficultyTier": "guided",
+    "sequencePriority": 17
   },
   {
     "id": "ac9e1le03-p-018",
     "curriculumCode": "AC9E1LE03",
     "bank": "practice",
-    "skill": "ac9e1le03 08 explain",
+    "skill": "discuss plot, character and setting, which are features of stories",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you connect all three features?",
-    "audioPrompt": "Which tip would help you connect all three features?",
-    "visual": "🧠 Connect all three features; ➡️ Name setting; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Connect all three features; ➡️ Name setting; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le03.svg#ac9e1le03-p-016\"></use></svg>",
+    "question": "Read: “A duck slept under a tree.” Who is the character?",
+    "audioPrompt": "Read: “A duck slept under a tree.” Who is the character?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le03.svg#ac9e1le03-p-016",
-      "alt_text": "🧠 Connect all three features; ➡️ Name setting; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Look for setting and check the whole example.",
-      "Use plot as one event only.",
-      "Treat character as any object."
+      "the duck",
+      "sleep",
+      "the tree"
     ],
     "correct": 0,
-    "explanation": "Look for setting and check the whole example.\nHint: Ask where and when the story happens.",
+    "explanation": "the duck is the best answer.",
     "structuredExplanation": {
-      "summary": "Look for setting and check the whole example.",
-      "hint": "Ask where and when the story happens."
+      "summary": "the duck is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 2,
+    "difficultyTier": "guided",
+    "sequencePriority": 18
   },
   {
     "id": "ac9e1le03-p-019",
     "curriculumCode": "AC9E1LE03",
     "bank": "practice",
-    "skill": "ac9e1le03 09 explain",
+    "skill": "discuss plot, character and setting, which are features of stories",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you name the resolution?",
-    "audioPrompt": "Which tip would help you name the resolution?",
-    "visual": "🧠 Name the resolution; ➡️ Sequence plot; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Name the resolution; ➡️ Sequence plot; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le03.svg#ac9e1le03-p-018\"></use></svg>",
+    "question": "Read: “Ava played by the pond.” Where is the setting?",
+    "audioPrompt": "Read: “Ava played by the pond.” Where is the setting?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le03.svg#ac9e1le03-p-018",
-      "alt_text": "🧠 Name the resolution; ➡️ Sequence plot; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Treat character as any object.",
-      "Do not ask where and when the story happens.",
-      "Check that you can sequence events."
+      "at night",
+      "by the pond",
+      "Ava"
     ],
-    "correct": 2,
-    "explanation": "Check that you can sequence events.\nHint: Track events across beginning, middle and end.",
+    "correct": 1,
+    "explanation": "by the pond is the best answer.",
     "structuredExplanation": {
-      "summary": "Check that you can sequence events.",
-      "hint": "Track events across beginning, middle and end."
+      "summary": "by the pond is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 2,
+    "difficultyTier": "guided",
+    "sequencePriority": 19
   },
   {
     "id": "ac9e1le03-p-020",
     "curriculumCode": "AC9E1LE03",
     "bank": "practice",
-    "skill": "ac9e1le03 10 explain",
+    "skill": "discuss plot, character and setting, which are features of stories",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you match characters to goals?",
-    "audioPrompt": "Which tip would help you match characters to goals?",
-    "visual": "🧠 Match characters to goals; ➡️ Explain; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Match characters to goals; ➡️ Explain; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le03.svg#ac9e1le03-p-020\"></use></svg>",
+    "question": "Read: “The goat was hungry, so it found food.” What happened first?",
+    "audioPrompt": "Read: “The goat was hungry, so it found food.” What happened first?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le03.svg#ac9e1le03-p-020",
-      "alt_text": "🧠 Match characters to goals; ➡️ Explain; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Do not ask where and when the story happens.",
-      "Connecting characters with plot motivations.",
-      "Use plot as one event only."
+      "The goat was hungry.",
+      "It went to sleep.",
+      "It found food."
     ],
-    "correct": 1,
-    "explanation": "Connecting characters with plot motivations.\nHint: Characters usually act or feel in the story.",
+    "correct": 0,
+    "explanation": "The goat was hungry. is the best answer.",
     "structuredExplanation": {
-      "summary": "Connecting characters with plot motivations.",
-      "hint": "Characters usually act or feel in the story."
+      "summary": "The goat was hungry. is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 2,
+    "difficultyTier": "guided",
+    "sequencePriority": 20
   },
   {
     "id": "ac9e1le03-p-021",
     "curriculumCode": "AC9E1LE03",
     "bank": "practice",
-    "skill": "ac9e1le03 01 discriminate",
+    "skill": "discuss plot, character and setting, which are features of stories",
     "printable": true,
     "type": "single",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": "📖 Identify the setting; 🔎 plot; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Identify the setting; 🔎 plot; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le03.svg#ac9e1le03-p-001\"></use></svg>",
+    "question": "Read: “Zoe saw rain and opened an umbrella.” Why did Zoe open it?",
+    "audioPrompt": "Read: “Zoe saw rain and opened an umbrella.” Why did Zoe open it?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le03.svg#ac9e1le03-p-001",
-      "alt_text": "📖 Identify the setting; 🔎 plot; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "At sunrise, Kian waits beside the river",
-      "Beside the river at sunrise",
-      "Characters usually act or feel in the story."
+      "because it was lost",
+      "because it rained",
+      "because it was dark"
     ],
-    "correct": 0,
-    "explanation": "At sunrise, Kian waits beside the river is the mix-up. Characters usually act or feel in the story.\nHint: Characters usually act or feel in the story.",
+    "correct": 1,
+    "explanation": "because it rained is the best answer.",
     "structuredExplanation": {
-      "summary": "At sunrise, Kian waits beside the river is the mix-up. Characters usually act or feel in the story.",
-      "hint": "Characters usually act or feel in the story."
+      "summary": "because it rained is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 2,
+    "difficultyTier": "guided",
+    "sequencePriority": 21
   },
   {
     "id": "ac9e1le03-p-022",
     "curriculumCode": "AC9E1LE03",
     "bank": "practice",
-    "skill": "ac9e1le03 02 discriminate",
+    "skill": "discuss plot, character and setting, which are features of stories",
     "printable": true,
     "type": "single",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": "📖 Match features; 🔎 character; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Match features; 🔎 character; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le03.svg#ac9e1le03-p-003\"></use></svg>",
+    "question": "Read: “At the zoo, Max met a dog.” Who are the characters?",
+    "audioPrompt": "Read: “At the zoo, Max met a dog.” Who are the characters?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le03.svg#ac9e1le03-p-003",
-      "alt_text": "📖 Match features; 🔎 character; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Character ↔ who; setting ↔ where/when; plot ↔ events",
-      "beginning ↔ who; setting ↔ where/when; plot ↔ events",
-      "Use this routine: Read story → Name character → Name setting → Sequence plot → Explain."
+      "the zoo",
+      "Max and the zoo",
+      "Max and the dog"
     ],
-    "correct": 1,
-    "explanation": "beginning ↔ who; setting ↔ where/when; plot ↔ events is the mix-up. Ask where and when the story happens.\nHint: Ask where and when the story happens.",
+    "correct": 2,
+    "explanation": "Max and the dog is the best answer.",
     "structuredExplanation": {
-      "summary": "beginning ↔ who; setting ↔ where/when; plot ↔ events is the mix-up. Ask where and when the story happens.",
-      "hint": "Ask where and when the story happens."
+      "summary": "Max and the dog is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 2,
+    "difficultyTier": "guided",
+    "sequencePriority": 22
   },
   {
     "id": "ac9e1le03-p-023",
     "curriculumCode": "AC9E1LE03",
     "bank": "practice",
-    "skill": "ac9e1le03 03 discriminate",
+    "skill": "discuss plot, character and setting, which are features of stories",
     "printable": true,
     "type": "single",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": "📖 Act a character goal; 🔎 setting; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Act a character goal; 🔎 setting; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le03.svg#ac9e1le03-p-005\"></use></svg>",
+    "question": "Read: “The hen could not cross. Mia made a bridge.” How was the problem solved?",
+    "audioPrompt": "Read: “The hen could not cross. Mia made a bridge.” How was the problem solved?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le03.svg#ac9e1le03-p-005",
-      "alt_text": "📖 Act a character goal; 🔎 setting; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Gives a safe, character-led action such as asking an adult, linked to goal",
-      "Look for setting and check the whole example.",
-      "Use plot as one event only."
+      "The bridge broke.",
+      "A bridge was made.",
+      "The animal slept."
     ],
-    "correct": 2,
-    "explanation": "Use plot as one event only. is the mix-up. Track events across beginning, middle and end.\nHint: Track events across beginning, middle and end.",
+    "correct": 1,
+    "explanation": "A bridge was made. is the best answer.",
     "structuredExplanation": {
-      "summary": "Use plot as one event only. is the mix-up. Track events across beginning, middle and end.",
-      "hint": "Track events across beginning, middle and end."
+      "summary": "A bridge was made. is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 2,
+    "difficultyTier": "guided",
+    "sequencePriority": 23
   },
   {
     "id": "ac9e1le03-p-024",
     "curriculumCode": "AC9E1LE03",
     "bank": "practice",
-    "skill": "ac9e1le03 04 discriminate",
+    "skill": "discuss plot, character and setting, which are features of stories",
     "printable": true,
     "type": "single",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": "📖 Find the problem; 🔎 beginning; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Find the problem; 🔎 beginning; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le03.svg#ac9e1le03-p-007\"></use></svg>",
+    "question": "Read: “At night, the fox hid in a cave.” When is the story set?",
+    "audioPrompt": "Read: “At night, the fox hid in a cave.” When is the story set?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le03.svg#ac9e1le03-p-007",
-      "alt_text": "📖 Find the problem; 🔎 beginning; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Treat character as any object.",
-      "The map is blown away/lost, making navigation difficult",
-      "Check that you can sequence events."
+      "at lunch",
+      "at night",
+      "next year"
     ],
-    "correct": 0,
-    "explanation": "Treat character as any object. is the mix-up. Characters usually act or feel in the story.\nHint: Characters usually act or feel in the story.",
+    "correct": 1,
+    "explanation": "at night is the best answer.",
     "structuredExplanation": {
-      "summary": "Treat character as any object. is the mix-up. Characters usually act or feel in the story.",
-      "hint": "Characters usually act or feel in the story."
+      "summary": "at night is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 2,
+    "difficultyTier": "guided",
+    "sequencePriority": 24
   },
   {
     "id": "ac9e1le03-p-025",
     "curriculumCode": "AC9E1LE03",
     "bank": "practice",
-    "skill": "ac9e1le03 05 discriminate",
+    "skill": "discuss plot, character and setting, which are features of stories",
     "printable": true,
     "type": "single",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": "📖 Order a mini-plot; 🔎 ending; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Order a mini-plot; 🔎 ending; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le03.svg#ac9e1le03-p-009\"></use></svg>",
+    "question": "Read: “Kim lost a bag. At last, Kim found it.” What was the problem?",
+    "audioPrompt": "Read: “Kim lost a bag. At last, Kim found it.” What was the problem?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le03.svg#ac9e1le03-p-009",
-      "alt_text": "📖 Order a mini-plot; 🔎 ending; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Gate locked → search → key found → enter garden",
-      "enter garden → key found → search → Gate locked",
-      "Sequencing problem, attempts and resolution."
+      "The bag was new.",
+      "Kim found it.",
+      "The bag was lost."
     ],
-    "correct": 1,
-    "explanation": "enter garden → key found → search → Gate locked is the mix-up. Ask where and when the story happens.\nHint: Ask where and when the story happens.",
+    "correct": 2,
+    "explanation": "The bag was lost. is the best answer.",
     "structuredExplanation": {
-      "summary": "enter garden → key found → search → Gate locked is the mix-up. Ask where and when the story happens.",
-      "hint": "Ask where and when the story happens."
+      "summary": "The bag was lost. is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 2,
+    "difficultyTier": "guided",
+    "sequencePriority": 25
   },
   {
     "id": "ac9e1le03-p-026",
     "curriculumCode": "AC9E1LE03",
     "bank": "practice",
-    "skill": "ac9e1le03 06 discriminate",
+    "skill": "discuss plot, character and setting, which are features of stories",
     "printable": true,
     "type": "single",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": "📖 Draw a setting clue; 🔎 plot; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Draw a setting clue; 🔎 plot; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le03.svg#ac9e1le03-p-011\"></use></svg>",
+    "question": "Read: “A goat slept under a tree.” Who is the character?",
+    "audioPrompt": "Read: “A goat slept under a tree.” Who is the character?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le03.svg#ac9e1le03-p-011",
-      "alt_text": "📖 Draw a setting clue; 🔎 plot; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Two clear location/time clues such as platform, tracks, clock, darkness or lights",
-      "Track events across beginning, middle and end.",
-      "Use plot as one event only."
+      "the tree",
+      "the goat",
+      "sleep"
     ],
-    "correct": 2,
-    "explanation": "Use plot as one event only. is the mix-up. Track events across beginning, middle and end.\nHint: Track events across beginning, middle and end.",
+    "correct": 1,
+    "explanation": "the goat is the best answer.",
     "structuredExplanation": {
-      "summary": "Use plot as one event only. is the mix-up. Track events across beginning, middle and end.",
-      "hint": "Track events across beginning, middle and end."
+      "summary": "the goat is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 2,
+    "difficultyTier": "guided",
+    "sequencePriority": 26
   },
   {
     "id": "ac9e1le03-p-027",
     "curriculumCode": "AC9E1LE03",
     "bank": "practice",
-    "skill": "ac9e1le03 07 discriminate",
+    "skill": "discuss plot, character and setting, which are features of stories",
     "printable": true,
     "type": "single",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": "📖 Explain character effect; 🔎 character; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Explain character effect; 🔎 character; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le03.svg#ac9e1le03-p-013\"></use></svg>",
+    "question": "Read: “Leo played by the pond.” Where is the setting?",
+    "audioPrompt": "Read: “Leo played by the pond.” Where is the setting?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le03.svg#ac9e1le03-p-013",
-      "alt_text": "📖 Explain character effect; 🔎 character; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Treat character as any object.",
-      "Patient character waits/checks calmly; impatient character may complain/rush, affecting subsequent events",
-      "Use this routine: Read story → Name character → Name setting → Sequence plot → Explain."
+      "Leo",
+      "at night",
+      "by the pond"
     ],
-    "correct": 0,
-    "explanation": "Treat character as any object. is the mix-up. Characters usually act or feel in the story.\nHint: Characters usually act or feel in the story.",
+    "correct": 2,
+    "explanation": "by the pond is the best answer.",
     "structuredExplanation": {
-      "summary": "Treat character as any object. is the mix-up. Characters usually act or feel in the story.",
-      "hint": "Characters usually act or feel in the story."
+      "summary": "by the pond is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 2,
+    "difficultyTier": "guided",
+    "sequencePriority": 27
   },
   {
     "id": "ac9e1le03-p-028",
     "curriculumCode": "AC9E1LE03",
     "bank": "practice",
-    "skill": "ac9e1le03 08 discriminate",
+    "skill": "discuss plot, character and setting, which are features of stories",
     "printable": true,
     "type": "single",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": "📖 Connect all three features; 🔎 setting; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Connect all three features; 🔎 setting; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le03.svg#ac9e1le03-p-015\"></use></svg>",
+    "question": "Read: “The dog was hungry, so it found food.” What happened first?",
+    "audioPrompt": "Read: “The dog was hungry, so it found food.” What happened first?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le03.svg#ac9e1le03-p-015",
-      "alt_text": "📖 Connect all three features; 🔎 setting; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "All three features are explicit and logically connected",
-      "Do not ask where and when the story happens.",
-      "Look for setting and check the whole example."
+      "The dog was hungry.",
+      "It went to sleep.",
+      "It found food."
     ],
-    "correct": 1,
-    "explanation": "Do not ask where and when the story happens. is the mix-up. Ask where and when the story happens.\nHint: Ask where and when the story happens.",
+    "correct": 0,
+    "explanation": "The dog was hungry. is the best answer.",
     "structuredExplanation": {
-      "summary": "Do not ask where and when the story happens. is the mix-up. Ask where and when the story happens.",
-      "hint": "Ask where and when the story happens."
+      "summary": "The dog was hungry. is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 2,
+    "difficultyTier": "guided",
+    "sequencePriority": 28
   },
   {
     "id": "ac9e1le03-p-029",
     "curriculumCode": "AC9E1LE03",
     "bank": "practice",
-    "skill": "ac9e1le03 09 discriminate",
+    "skill": "discuss plot, character and setting, which are features of stories",
     "printable": true,
     "type": "single",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": "📖 Name the resolution; 🔎 beginning; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Name the resolution; 🔎 beginning; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le03.svg#ac9e1le03-p-017\"></use></svg>",
+    "question": "Read: “Max saw rain and opened an umbrella.” Why did Max open it?",
+    "audioPrompt": "Read: “Max saw rain and opened an umbrella.” Why did Max open it?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le03.svg#ac9e1le03-p-017",
-      "alt_text": "📖 Name the resolution; 🔎 beginning; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "The safe board bridge lets the puppy cross",
-      "Check that you can sequence events.",
-      "Use plot as one event only."
+      "because it was lost",
+      "because it was dark",
+      "because it rained"
     ],
     "correct": 2,
-    "explanation": "Use plot as one event only. is the mix-up. Track events across beginning, middle and end.\nHint: Track events across beginning, middle and end.",
+    "explanation": "because it rained is the best answer.",
     "structuredExplanation": {
-      "summary": "Use plot as one event only. is the mix-up. Track events across beginning, middle and end.",
-      "hint": "Track events across beginning, middle and end."
+      "summary": "because it rained is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 2,
+    "difficultyTier": "guided",
+    "sequencePriority": 29
   },
   {
     "id": "ac9e1le03-p-030",
     "curriculumCode": "AC9E1LE03",
     "bank": "practice",
-    "skill": "ac9e1le03 10 discriminate",
+    "skill": "discuss plot, character and setting, which are features of stories",
     "printable": true,
     "type": "single",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": "📖 Match characters to goals; 🔎 ending; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Match characters to goals; 🔎 ending; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le03.svg#ac9e1le03-p-019\"></use></svg>",
+    "question": "Read: “At the school, Mia met a fox.” Who are the characters?",
+    "audioPrompt": "Read: “At the school, Mia met a fox.” Who are the characters?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le03.svg#ac9e1le03-p-019",
-      "alt_text": "📖 Match characters to goals; 🔎 ending; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Treat character as any object.",
-      "Each character matches the logical goal",
-      "Connecting characters with plot motivations."
+      "the school",
+      "Mia and the fox",
+      "Mia and the school"
     ],
-    "correct": 0,
-    "explanation": "Treat character as any object. is the mix-up. Characters usually act or feel in the story.\nHint: Characters usually act or feel in the story.",
+    "correct": 1,
+    "explanation": "Mia and the fox is the best answer.",
     "structuredExplanation": {
-      "summary": "Treat character as any object. is the mix-up. Characters usually act or feel in the story.",
-      "hint": "Characters usually act or feel in the story."
+      "summary": "Mia and the fox is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 2,
+    "difficultyTier": "guided",
+    "sequencePriority": 30
   },
   {
     "id": "ac9e1le03-p-031",
     "curriculumCode": "AC9E1LE03",
     "bank": "practice",
-    "skill": "ac9e1le03 01 apply",
+    "skill": "discuss plot, character and setting, which are features of stories",
     "printable": true,
     "type": "single",
-    "question": "Which choice would best use this skill in a new example?",
-    "audioPrompt": "Which choice would best use this skill in a new example?",
-    "visual": "📖 Identify the setting; 🔎 plot; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Identify the setting; 🔎 plot; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le03.svg#ac9e1le03-p-001\"></use></svg>",
+    "question": "Read: “The frog could not cross. Ben made a bridge.” How was the problem solved?",
+    "audioPrompt": "Read: “The frog could not cross. Ben made a bridge.” How was the problem solved?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le03.svg#ac9e1le03-p-001",
-      "alt_text": "📖 Identify the setting; 🔎 plot; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "At sunrise, Kian waits beside the river",
-      "Beside the river at sunrise",
-      "Treat character as any object."
+      "A bridge was made.",
+      "The animal slept.",
+      "The bridge broke."
     ],
-    "correct": 1,
-    "explanation": "Beside the river at sunrise uses the skill correctly. Characters usually act or feel in the story.\nHint: Characters usually act or feel in the story.",
+    "correct": 0,
+    "explanation": "A bridge was made. is the best answer.",
     "structuredExplanation": {
-      "summary": "Beside the river at sunrise uses the skill correctly. Characters usually act or feel in the story.",
-      "hint": "Characters usually act or feel in the story."
+      "summary": "A bridge was made. is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 2,
+    "difficultyTier": "guided",
+    "sequencePriority": 31
   },
   {
     "id": "ac9e1le03-p-032",
     "curriculumCode": "AC9E1LE03",
     "bank": "practice",
-    "skill": "ac9e1le03 02 apply",
+    "skill": "discuss plot, character and setting, which are features of stories",
     "printable": true,
     "type": "single",
-    "question": "Which choice would best use this skill in a new example?",
-    "audioPrompt": "Which choice would best use this skill in a new example?",
-    "visual": "📖 Match features; 🔎 character; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Match features; 🔎 character; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le03.svg#ac9e1le03-p-003\"></use></svg>",
+    "question": "Read: “At night, the duck hid in a cave.” When is the story set?",
+    "audioPrompt": "Read: “At night, the duck hid in a cave.” When is the story set?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le03.svg#ac9e1le03-p-003",
-      "alt_text": "📖 Match features; 🔎 character; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "beginning ↔ who; setting ↔ where/when; plot ↔ events",
-      "setting ↔ who; setting ↔ where/when; plot ↔ events",
-      "Character ↔ who; setting ↔ where/when; plot ↔ events"
+      "at lunch",
+      "next year",
+      "at night"
     ],
     "correct": 2,
-    "explanation": "Character ↔ who; setting ↔ where/when; plot ↔ events uses the skill correctly. Ask where and when the story happens.\nHint: Ask where and when the story happens.",
+    "explanation": "at night is the best answer.",
     "structuredExplanation": {
-      "summary": "Character ↔ who; setting ↔ where/when; plot ↔ events uses the skill correctly. Ask where and when the story happens.",
-      "hint": "Ask where and when the story happens."
+      "summary": "at night is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 2,
+    "difficultyTier": "guided",
+    "sequencePriority": 32
   },
   {
     "id": "ac9e1le03-p-033",
     "curriculumCode": "AC9E1LE03",
     "bank": "practice",
-    "skill": "ac9e1le03 03 apply",
+    "skill": "discuss plot, character and setting, which are features of stories",
     "printable": true,
     "type": "single",
-    "question": "Which choice would best use this skill in a new example?",
-    "audioPrompt": "Which choice would best use this skill in a new example?",
-    "visual": "📖 Act a character goal; 🔎 setting; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Act a character goal; 🔎 setting; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le03.svg#ac9e1le03-p-005\"></use></svg>",
+    "question": "Read: “Ava lost a ball. At last, Ava found it.” What was the problem?",
+    "audioPrompt": "Read: “Ava lost a ball. At last, Ava found it.” What was the problem?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le03.svg#ac9e1le03-p-005",
-      "alt_text": "📖 Act a character goal; 🔎 setting; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Gives a safe, character-led action such as asking an adult, linked to goal",
-      "Use plot as one event only.",
-      "Treat character as any object."
+      "Ava found it.",
+      "The ball was lost.",
+      "The ball was new."
     ],
-    "correct": 0,
-    "explanation": "Gives a safe, character-led action such as asking an adult, linked to goal uses the skill correctly. Track events across beginning, middle and end.\nHint: Track events across beginning, middle and end.",
+    "correct": 1,
+    "explanation": "The ball was lost. is the best answer.",
     "structuredExplanation": {
-      "summary": "Gives a safe, character-led action such as asking an adult, linked to goal uses the skill correctly. Track events across beginning, middle and end.",
-      "hint": "Track events across beginning, middle and end."
+      "summary": "The ball was lost. is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 33
   },
   {
     "id": "ac9e1le03-p-034",
     "curriculumCode": "AC9E1LE03",
     "bank": "practice",
-    "skill": "ac9e1le03 04 apply",
+    "skill": "discuss plot, character and setting, which are features of stories",
     "printable": true,
     "type": "single",
-    "question": "Which choice would best use this skill in a new example?",
-    "audioPrompt": "Which choice would best use this skill in a new example?",
-    "visual": "📖 Find the problem; 🔎 beginning; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Find the problem; 🔎 beginning; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le03.svg#ac9e1le03-p-007\"></use></svg>",
+    "question": "Read: “A dog slept under a tree.” Who is the character?",
+    "audioPrompt": "Read: “A dog slept under a tree.” Who is the character?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le03.svg#ac9e1le03-p-007",
-      "alt_text": "📖 Find the problem; 🔎 beginning; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Treat character as any object.",
-      "The map is blown away/lost, making navigation difficult",
-      "Do not ask where and when the story happens."
+      "the dog",
+      "sleep",
+      "the tree"
     ],
-    "correct": 1,
-    "explanation": "The map is blown away/lost, making navigation difficult uses the skill correctly. Characters usually act or feel in the story.\nHint: Characters usually act or feel in the story.",
+    "correct": 0,
+    "explanation": "the dog is the best answer.",
     "structuredExplanation": {
-      "summary": "The map is blown away/lost, making navigation difficult uses the skill correctly. Characters usually act or feel in the story.",
-      "hint": "Characters usually act or feel in the story."
+      "summary": "the dog is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 34
   },
   {
     "id": "ac9e1le03-p-035",
     "curriculumCode": "AC9E1LE03",
     "bank": "practice",
-    "skill": "ac9e1le03 05 apply",
+    "skill": "discuss plot, character and setting, which are features of stories",
     "printable": true,
     "type": "single",
-    "question": "Which choice would best use this skill in a new example?",
-    "audioPrompt": "Which choice would best use this skill in a new example?",
-    "visual": "📖 Order a mini-plot; 🔎 ending; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Order a mini-plot; 🔎 ending; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le03.svg#ac9e1le03-p-009\"></use></svg>",
+    "question": "Read: “Zoe played by the pond.” Where is the setting?",
+    "audioPrompt": "Read: “Zoe played by the pond.” Where is the setting?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le03.svg#ac9e1le03-p-009",
-      "alt_text": "📖 Order a mini-plot; 🔎 ending; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "enter garden → key found → search → Gate locked",
-      "Do not ask where and when the story happens.",
-      "Gate locked → search → key found → enter garden"
+      "at night",
+      "by the pond",
+      "Zoe"
     ],
-    "correct": 2,
-    "explanation": "Gate locked → search → key found → enter garden uses the skill correctly. Ask where and when the story happens.\nHint: Ask where and when the story happens.",
+    "correct": 1,
+    "explanation": "by the pond is the best answer.",
     "structuredExplanation": {
-      "summary": "Gate locked → search → key found → enter garden uses the skill correctly. Ask where and when the story happens.",
-      "hint": "Ask where and when the story happens."
+      "summary": "by the pond is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 35
   },
   {
     "id": "ac9e1le03-p-036",
     "curriculumCode": "AC9E1LE03",
     "bank": "practice",
-    "skill": "ac9e1le03 06 apply",
+    "skill": "discuss plot, character and setting, which are features of stories",
     "printable": true,
     "type": "single",
-    "question": "Which choice would best use this skill in a new example?",
-    "audioPrompt": "Which choice would best use this skill in a new example?",
-    "visual": "📖 Draw a setting clue; 🔎 plot; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Draw a setting clue; 🔎 plot; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le03.svg#ac9e1le03-p-011\"></use></svg>",
+    "question": "Read: “The fox was hungry, so it found food.” What happened first?",
+    "audioPrompt": "Read: “The fox was hungry, so it found food.” What happened first?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le03.svg#ac9e1le03-p-011",
-      "alt_text": "📖 Draw a setting clue; 🔎 plot; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Two clear location/time clues such as platform, tracks, clock, darkness or lights",
-      "Use plot as one event only.",
-      "Treat character as any object."
+      "It went to sleep.",
+      "The fox was hungry.",
+      "It found food."
     ],
-    "correct": 0,
-    "explanation": "Two clear location/time clues such as platform, tracks, clock, darkness or lights uses the skill correctly. Track events across beginning, middle and end.\nHint: Track events across beginning, middle and end.",
+    "correct": 1,
+    "explanation": "The fox was hungry. is the best answer.",
     "structuredExplanation": {
-      "summary": "Two clear location/time clues such as platform, tracks, clock, darkness or lights uses the skill correctly. Track events across beginning, middle and end.",
-      "hint": "Track events across beginning, middle and end."
+      "summary": "The fox was hungry. is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 36
   },
   {
     "id": "ac9e1le03-p-037",
     "curriculumCode": "AC9E1LE03",
     "bank": "practice",
-    "skill": "ac9e1le03 07 apply",
+    "skill": "discuss plot, character and setting, which are features of stories",
     "printable": true,
     "type": "single",
-    "question": "Which choice would best use this skill in a new example?",
-    "audioPrompt": "Which choice would best use this skill in a new example?",
-    "visual": "📖 Explain character effect; 🔎 character; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Explain character effect; 🔎 character; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le03.svg#ac9e1le03-p-013\"></use></svg>",
+    "question": "Read: “Mia saw rain and opened an umbrella.” Why did Mia open it?",
+    "audioPrompt": "Read: “Mia saw rain and opened an umbrella.” Why did Mia open it?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le03.svg#ac9e1le03-p-013",
-      "alt_text": "📖 Explain character effect; 🔎 character; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Treat character as any object.",
-      "Patient character waits/checks calmly; impatient character may complain/rush, affecting subsequent events",
-      "Do not ask where and when the story happens."
+      "because it rained",
+      "because it was dark",
+      "because it was lost"
     ],
-    "correct": 1,
-    "explanation": "Patient character waits/checks calmly; impatient character may complain/rush, affecting subsequent events uses the skill correctly. Characters usually act or feel in the story.\nHint: Characters usually act or feel in the story.",
+    "correct": 0,
+    "explanation": "because it rained is the best answer.",
     "structuredExplanation": {
-      "summary": "Patient character waits/checks calmly; impatient character may complain/rush, affecting subsequent events uses the skill correctly. Characters usually act or feel in the story.",
-      "hint": "Characters usually act or feel in the story."
+      "summary": "because it rained is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 37
   },
   {
     "id": "ac9e1le03-p-038",
     "curriculumCode": "AC9E1LE03",
     "bank": "practice",
-    "skill": "ac9e1le03 08 apply",
+    "skill": "discuss plot, character and setting, which are features of stories",
     "printable": true,
     "type": "single",
-    "question": "Which choice would best use this skill in a new example?",
-    "audioPrompt": "Which choice would best use this skill in a new example?",
-    "visual": "📖 Connect all three features; 🔎 setting; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Connect all three features; 🔎 setting; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le03.svg#ac9e1le03-p-015\"></use></svg>",
+    "question": "Read: “At the shop, Ben met a duck.” Who are the characters?",
+    "audioPrompt": "Read: “At the shop, Ben met a duck.” Who are the characters?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le03.svg#ac9e1le03-p-015",
-      "alt_text": "📖 Connect all three features; 🔎 setting; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Do not ask where and when the story happens.",
-      "Use plot as one event only.",
-      "All three features are explicit and logically connected"
+      "Ben and the shop",
+      "Ben and the duck",
+      "the shop"
     ],
-    "correct": 2,
-    "explanation": "All three features are explicit and logically connected uses the skill correctly. Ask where and when the story happens.\nHint: Ask where and when the story happens.",
+    "correct": 1,
+    "explanation": "Ben and the duck is the best answer.",
     "structuredExplanation": {
-      "summary": "All three features are explicit and logically connected uses the skill correctly. Ask where and when the story happens.",
-      "hint": "Ask where and when the story happens."
+      "summary": "Ben and the duck is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 38
   },
   {
     "id": "ac9e1le03-p-039",
     "curriculumCode": "AC9E1LE03",
     "bank": "practice",
-    "skill": "ac9e1le03 09 apply",
+    "skill": "discuss plot, character and setting, which are features of stories",
     "printable": true,
     "type": "single",
-    "question": "Which choice would best use this skill in a new example?",
-    "audioPrompt": "Which choice would best use this skill in a new example?",
-    "visual": "📖 Name the resolution; 🔎 beginning; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Name the resolution; 🔎 beginning; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le03.svg#ac9e1le03-p-017\"></use></svg>",
+    "question": "Read: “The fish could not cross. Sam made a bridge.” How was the problem solved?",
+    "audioPrompt": "Read: “The fish could not cross. Sam made a bridge.” How was the problem solved?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le03.svg#ac9e1le03-p-017",
-      "alt_text": "📖 Name the resolution; 🔎 beginning; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "The safe board bridge lets the puppy cross",
-      "Use plot as one event only.",
-      "Treat character as any object."
+      "The animal slept.",
+      "The bridge broke.",
+      "A bridge was made."
     ],
-    "correct": 0,
-    "explanation": "The safe board bridge lets the puppy cross uses the skill correctly. Track events across beginning, middle and end.\nHint: Track events across beginning, middle and end.",
+    "correct": 2,
+    "explanation": "A bridge was made. is the best answer.",
     "structuredExplanation": {
-      "summary": "The safe board bridge lets the puppy cross uses the skill correctly. Track events across beginning, middle and end.",
-      "hint": "Track events across beginning, middle and end."
+      "summary": "A bridge was made. is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 39
   },
   {
     "id": "ac9e1le03-p-040",
     "curriculumCode": "AC9E1LE03",
     "bank": "practice",
-    "skill": "ac9e1le03 10 apply",
+    "skill": "discuss plot, character and setting, which are features of stories",
     "printable": true,
     "type": "single",
-    "question": "Which choice would best use this skill in a new example?",
-    "audioPrompt": "Which choice would best use this skill in a new example?",
-    "visual": "📖 Match characters to goals; 🔎 ending; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Match characters to goals; 🔎 ending; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le03.svg#ac9e1le03-p-019\"></use></svg>",
+    "question": "Read and choose: Read: “At night, the goat hid in a cave.” When is the story set?",
+    "audioPrompt": "Read and choose: Read: “At night, the goat hid in a cave.” When is the story set?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le03.svg#ac9e1le03-p-019",
-      "alt_text": "📖 Match characters to goals; 🔎 ending; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Treat character as any object.",
-      "Each character matches the logical goal",
-      "Do not ask where and when the story happens."
+      "at lunch",
+      "at night",
+      "next year"
     ],
     "correct": 1,
-    "explanation": "Each character matches the logical goal uses the skill correctly. Characters usually act or feel in the story.\nHint: Characters usually act or feel in the story.",
+    "explanation": "at night is the best answer.",
     "structuredExplanation": {
-      "summary": "Each character matches the logical goal uses the skill correctly. Characters usually act or feel in the story.",
-      "hint": "Characters usually act or feel in the story."
+      "summary": "at night is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 40
+  },
+  {
+    "id": "ac9e1le03-p-041",
+    "curriculumCode": "AC9E1LE03",
+    "bank": "practice",
+    "skill": "discuss plot, character and setting, which are features of stories",
+    "printable": true,
+    "type": "single",
+    "question": "Read: “Leo lost a map. At last, Leo found it.” What was the problem?",
+    "audioPrompt": "Read: “Leo lost a map. At last, Leo found it.” What was the problem?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "The map was new.",
+      "Leo found it.",
+      "The map was lost."
+    ],
+    "correct": 2,
+    "explanation": "The map was lost. is the best answer.",
+    "structuredExplanation": {
+      "summary": "The map was lost. is the best answer."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 41,
+    "qualitySchema": "reviewed-year1-english-v1"
+  },
+  {
+    "id": "ac9e1le03-p-042",
+    "curriculumCode": "AC9E1LE03",
+    "bank": "practice",
+    "skill": "discuss plot, character and setting, which are features of stories",
+    "printable": true,
+    "type": "single",
+    "question": "Read: “A fox slept under a tree.” Who is the character?",
+    "audioPrompt": "Read: “A fox slept under a tree.” Who is the character?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "the tree",
+      "sleep",
+      "the fox"
+    ],
+    "correct": 2,
+    "explanation": "the fox is the best answer.",
+    "structuredExplanation": {
+      "summary": "the fox is the best answer."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 42,
+    "qualitySchema": "reviewed-year1-english-v1"
+  },
+  {
+    "id": "ac9e1le03-p-043",
+    "curriculumCode": "AC9E1LE03",
+    "bank": "practice",
+    "skill": "discuss plot, character and setting, which are features of stories",
+    "printable": true,
+    "type": "single",
+    "question": "Read: “Max played by the pond.” Where is the setting?",
+    "audioPrompt": "Read: “Max played by the pond.” Where is the setting?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "by the pond",
+      "at night",
+      "Max"
+    ],
+    "correct": 0,
+    "explanation": "by the pond is the best answer.",
+    "structuredExplanation": {
+      "summary": "by the pond is the best answer."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 43,
+    "qualitySchema": "reviewed-year1-english-v1"
+  },
+  {
+    "id": "ac9e1le03-p-044",
+    "curriculumCode": "AC9E1LE03",
+    "bank": "practice",
+    "skill": "discuss plot, character and setting, which are features of stories",
+    "printable": true,
+    "type": "single",
+    "question": "Read: “The duck was hungry, so it found food.” What happened first?",
+    "audioPrompt": "Read: “The duck was hungry, so it found food.” What happened first?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "It found food.",
+      "It went to sleep.",
+      "The duck was hungry."
+    ],
+    "correct": 2,
+    "explanation": "The duck was hungry. is the best answer.",
+    "structuredExplanation": {
+      "summary": "The duck was hungry. is the best answer."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 44,
+    "qualitySchema": "reviewed-year1-english-v1"
+  },
+  {
+    "id": "ac9e1le03-p-045",
+    "curriculumCode": "AC9E1LE03",
+    "bank": "practice",
+    "skill": "discuss plot, character and setting, which are features of stories",
+    "printable": true,
+    "type": "single",
+    "question": "Read: “Ben saw rain and opened an umbrella.” Why did Ben open it?",
+    "audioPrompt": "Read: “Ben saw rain and opened an umbrella.” Why did Ben open it?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "because it rained",
+      "because it was dark",
+      "because it was lost"
+    ],
+    "correct": 0,
+    "explanation": "because it rained is the best answer.",
+    "structuredExplanation": {
+      "summary": "because it rained is the best answer."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 45,
+    "qualitySchema": "reviewed-year1-english-v1"
+  },
+  {
+    "id": "ac9e1le03-p-046",
+    "curriculumCode": "AC9E1LE03",
+    "bank": "practice",
+    "skill": "discuss plot, character and setting, which are features of stories",
+    "printable": true,
+    "type": "single",
+    "question": "Read: “At the camp, Sam met a goat.” Who are the characters?",
+    "audioPrompt": "Read: “At the camp, Sam met a goat.” Who are the characters?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "the camp",
+      "Sam and the camp",
+      "Sam and the goat"
+    ],
+    "correct": 2,
+    "explanation": "Sam and the goat is the best answer.",
+    "structuredExplanation": {
+      "summary": "Sam and the goat is the best answer."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 46,
+    "qualitySchema": "reviewed-year1-english-v1"
+  },
+  {
+    "id": "ac9e1le03-p-047",
+    "curriculumCode": "AC9E1LE03",
+    "bank": "practice",
+    "skill": "discuss plot, character and setting, which are features of stories",
+    "printable": true,
+    "type": "single",
+    "question": "Read: “The cat could not cross. Kim made a bridge.” How was the problem solved?",
+    "audioPrompt": "Read: “The cat could not cross. Kim made a bridge.” How was the problem solved?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "The animal slept.",
+      "A bridge was made.",
+      "The bridge broke."
+    ],
+    "correct": 1,
+    "explanation": "A bridge was made. is the best answer.",
+    "structuredExplanation": {
+      "summary": "A bridge was made. is the best answer."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 47,
+    "qualitySchema": "reviewed-year1-english-v1"
+  },
+  {
+    "id": "ac9e1le03-p-048",
+    "curriculumCode": "AC9E1LE03",
+    "bank": "practice",
+    "skill": "discuss plot, character and setting, which are features of stories",
+    "printable": true,
+    "type": "single",
+    "question": "Read: “At night, the dog hid in a cave.” When is the story set?",
+    "audioPrompt": "Read: “At night, the dog hid in a cave.” When is the story set?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "next year",
+      "at lunch",
+      "at night"
+    ],
+    "correct": 2,
+    "explanation": "at night is the best answer.",
+    "structuredExplanation": {
+      "summary": "at night is the best answer."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 48,
+    "qualitySchema": "reviewed-year1-english-v1"
   }
 ];
-window.quizQuestions = window.skillrPracticeQuestions;

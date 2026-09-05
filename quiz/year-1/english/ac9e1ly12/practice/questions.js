@@ -4,1161 +4,1440 @@ window.skillrPracticeQuestions = [
     "id": "ac9e1ly12-p-001",
     "curriculumCode": "AC9E1LY12",
     "bank": "practice",
-    "skill": "ac9e1ly12 01 recognise",
+    "skill": "understand that a letter can represent more than one sound and that a syllable must contain a vowel sound",
     "printable": true,
     "type": "single",
-    "question": "What sounds does c represent in cat and city?",
-    "audioPrompt": "What sounds does c represent in cat and city?",
-    "visual": "📖 Compare c sounds; 🔎 letter sound; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Compare c sounds; 🔎 letter sound; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly12.svg#ac9e1ly12-p-001\"></use></svg>",
+    "question": "Mia claps “cat”. How many syllables?",
+    "audioPrompt": "Mia claps “cat”. How many syllables?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly12.svg#ac9e1ly12-p-001",
-      "alt_text": "📖 Compare c sounds; 🔎 letter sound; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Cat begins /k/; city begins /s/",
-      "Assume a letter always has one sound.",
-      "Do not listen for vowel sounds."
+      "3",
+      "2",
+      "1"
     ],
-    "correct": 0,
-    "explanation": "Cat begins /k/; city begins /s/ This matches the task.\nHint: Some letters represent different sounds in different words.",
+    "correct": 2,
+    "explanation": "1 is the best answer.",
     "structuredExplanation": {
-      "summary": "Cat begins /k/; city begins /s/ This matches the task.",
-      "hint": "Some letters represent different sounds in different words."
+      "summary": "1 is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 1
   },
   {
     "id": "ac9e1ly12-p-002",
     "curriculumCode": "AC9E1LY12",
     "bank": "practice",
-    "skill": "ac9e1ly12 02 recognise",
+    "skill": "understand that a letter can represent more than one sound and that a syllable must contain a vowel sound",
     "printable": true,
     "type": "single",
-    "question": "Which response would correctly match words and syllables?",
-    "audioPrompt": "Which response would correctly match words and syllables?",
-    "visual": "📖 Match words and syllables; 🔎 vowel sound; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Match words and syllables; 🔎 vowel sound; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly12.svg#ac9e1ly12-p-003\"></use></svg>",
+    "question": "Ben checks the letter g. In which pair does it make two sounds?",
+    "audioPrompt": "Ben checks the letter g. In which pair does it make two sounds?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly12.svg#ac9e1ly12-p-003",
-      "alt_text": "📖 Match words and syllables; 🔎 vowel sound; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Cat ↔ 2; sunset ↔ 3; banana ↔ 1",
-      "Cat ↔ 2; sunset ↔ 2; banana ↔ 3",
-      "Cat ↔ 1; sunset ↔ 2; banana ↔ 3"
+      "gem – gem",
+      "gem – go",
+      "go – go"
     ],
-    "correct": 2,
-    "explanation": "Cat ↔ 1; sunset ↔ 2; banana ↔ 3 This matches the task.\nHint: Listen for vowel sounds.",
+    "correct": 1,
+    "explanation": "gem – go is the best answer.",
     "structuredExplanation": {
-      "summary": "Cat ↔ 1; sunset ↔ 2; banana ↔ 3 This matches the task.",
-      "hint": "Listen for vowel sounds."
+      "summary": "gem – go is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 2
   },
   {
     "id": "ac9e1ly12-p-003",
     "curriculumCode": "AC9E1LY12",
     "bank": "practice",
-    "skill": "ac9e1ly12 03 recognise",
+    "skill": "understand that a letter can represent more than one sound and that a syllable must contain a vowel sound",
     "printable": true,
     "type": "single",
-    "question": "Which response would correctly tap vowel beats?",
-    "audioPrompt": "Which response would correctly tap vowel beats?",
-    "visual": "📖 Tap vowel beats; 🔎 syllable; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Tap vowel beats; 🔎 syllable; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly12.svg#ac9e1ly12-p-005\"></use></svg>",
+    "question": "Sam claps “sunset”. How many syllables?",
+    "audioPrompt": "Sam claps “sunset”. How many syllables?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly12.svg#ac9e1ly12-p-005",
-      "alt_text": "📖 Tap vowel beats; 🔎 syllable; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Ro/bot, 3 syllables; long /o/ in ro and short /o/ in bot",
-      "Ro/bot, 2 syllables; long /o/ in ro and short /o/ in bot",
-      "Ro/bot, 1 syllables; long /o/ in ro and short /o/ in bot"
+      "3",
+      "2",
+      "1"
     ],
     "correct": 1,
-    "explanation": "Ro/bot, 2 syllables; long /o/ in ro and short /o/ in bot This matches the task.\nHint: Every syllable needs a vowel sound.",
+    "explanation": "2 is the best answer.",
     "structuredExplanation": {
-      "summary": "Ro/bot, 2 syllables; long /o/ in ro and short /o/ in bot This matches the task.",
-      "hint": "Every syllable needs a vowel sound."
+      "summary": "2 is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 3
   },
   {
     "id": "ac9e1ly12-p-004",
     "curriculumCode": "AC9E1LY12",
     "bank": "practice",
-    "skill": "ac9e1ly12 04 recognise",
+    "skill": "understand that a letter can represent more than one sound and that a syllable must contain a vowel sound",
     "printable": true,
     "type": "single",
-    "question": "Which response would correctly choose the s sound?",
-    "audioPrompt": "Which response would correctly choose the s sound?",
-    "visual": "📖 Choose the s sound; 🔎 clap; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Choose the s sound; 🔎 clap; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly12.svg#ac9e1ly12-p-007\"></use></svg>",
+    "question": "Kim checks the letter a. In which pair does it make two sounds?",
+    "audioPrompt": "Kim checks the letter a. In which pair does it make two sounds?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly12.svg#ac9e1ly12-p-007",
-      "alt_text": "📖 Choose the s sound; 🔎 clap; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Sat has /s/; the s in rose commonly represents /z/",
-      "Assume a letter always has one sound.",
-      "Do not listen for vowel sounds."
+      "apple – apple",
+      "apple – acorn",
+      "acorn – acorn"
     ],
-    "correct": 0,
-    "explanation": "Sat has /s/; the s in rose commonly represents /z/ This matches the task.\nHint: Some letters represent different sounds in different words.",
+    "correct": 1,
+    "explanation": "apple – acorn is the best answer.",
     "structuredExplanation": {
-      "summary": "Sat has /s/; the s in rose commonly represents /z/ This matches the task.",
-      "hint": "Some letters represent different sounds in different words."
+      "summary": "apple – acorn is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 4
   },
   {
     "id": "ac9e1ly12-p-005",
     "curriculumCode": "AC9E1LY12",
     "bank": "practice",
-    "skill": "ac9e1ly12 05 recognise",
+    "skill": "understand that a letter can represent more than one sound and that a syllable must contain a vowel sound",
     "printable": true,
     "type": "single",
-    "question": "Which response would correctly order syllable checking?",
-    "audioPrompt": "Which response would correctly order syllable checking?",
-    "visual": "📖 Order syllable checking; 🔎 word part; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Order syllable checking; 🔎 word part; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly12.svg#ac9e1ly12-p-009\"></use></svg>",
+    "question": "Ava claps “paper”. How many syllables?",
+    "audioPrompt": "Ava claps “paper”. How many syllables?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly12.svg#ac9e1ly12-p-009",
-      "alt_text": "📖 Order syllable checking; 🔎 word part; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "check → identify vowel sound per beat → tap → Say",
-      "Do not listen for vowel sounds.",
-      "Say → tap → identify vowel sound per beat → check"
+      "1",
+      "2",
+      "3"
     ],
-    "correct": 2,
-    "explanation": "Say → tap → identify vowel sound per beat → check This matches the task.\nHint: Listen for vowel sounds.",
+    "correct": 1,
+    "explanation": "2 is the best answer.",
     "structuredExplanation": {
-      "summary": "Say → tap → identify vowel sound per beat → check This matches the task.",
-      "hint": "Listen for vowel sounds."
+      "summary": "2 is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 5
   },
   {
     "id": "ac9e1ly12-p-006",
     "curriculumCode": "AC9E1LY12",
     "bank": "practice",
-    "skill": "ac9e1ly12 06 recognise",
+    "skill": "understand that a letter can represent more than one sound and that a syllable must contain a vowel sound",
     "printable": true,
     "type": "single",
-    "question": "Write picnic and draw one arc under each syllable. Circle one vowel letter in each syllable.",
-    "audioPrompt": "Write picnic and draw one arc under each syllable. Circle one vowel letter in each syllable.",
-    "visual": "📖 Draw syllable arcs; 🔎 letter sound; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Draw syllable arcs; 🔎 letter sound; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly12.svg#ac9e1ly12-p-011\"></use></svg>",
+    "question": "Leo checks the letter i. In which pair does it make two sounds?",
+    "audioPrompt": "Leo checks the letter i. In which pair does it make two sounds?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly12.svg#ac9e1ly12-p-011",
-      "alt_text": "📖 Draw syllable arcs; 🔎 letter sound; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Make a syllable with no vowel sound.",
-      "Pic/nic with two arcs; i in each syllable circled",
-      "Assume a letter always has one sound."
+      "tiger – tiger",
+      "sit – sit",
+      "sit – tiger"
     ],
-    "correct": 1,
-    "explanation": "Pic/nic with two arcs; i in each syllable circled This matches the task.\nHint: Every syllable needs a vowel sound.",
+    "correct": 2,
+    "explanation": "sit – tiger is the best answer.",
     "structuredExplanation": {
-      "summary": "Pic/nic with two arcs; i in each syllable circled This matches the task.",
-      "hint": "Every syllable needs a vowel sound."
+      "summary": "sit – tiger is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 6
   },
   {
     "id": "ac9e1ly12-p-007",
     "curriculumCode": "AC9E1LY12",
     "bank": "practice",
-    "skill": "ac9e1ly12 07 recognise",
+    "skill": "understand that a letter can represent more than one sound and that a syllable must contain a vowel sound",
     "printable": true,
     "type": "single",
-    "question": "Why is boat one syllable even though it contains o and a?",
-    "audioPrompt": "Why is boat one syllable even though it contains o and a?",
-    "visual": "📖 Explain boat; 🔎 vowel sound; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Explain boat; 🔎 vowel sound; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly12.svg#ac9e1ly12-p-013\"></use></svg>",
+    "question": "Zoe claps “picnic”. How many syllables?",
+    "audioPrompt": "Zoe claps “picnic”. How many syllables?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly12.svg#ac9e1ly12-p-013",
-      "alt_text": "📖 Explain boat; 🔎 vowel sound; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Oa works together to represent one vowel sound in one spoken beat",
-      "Assume a letter always has one sound.",
-      "Do not listen for vowel sounds."
+      "1",
+      "2",
+      "3"
     ],
-    "correct": 0,
-    "explanation": "Oa works together to represent one vowel sound in one spoken beat This matches the task.\nHint: Some letters represent different sounds in different words.",
+    "correct": 1,
+    "explanation": "2 is the best answer.",
     "structuredExplanation": {
-      "summary": "Oa works together to represent one vowel sound in one spoken beat This matches the task.",
-      "hint": "Some letters represent different sounds in different words."
+      "summary": "2 is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 7
   },
   {
     "id": "ac9e1ly12-p-008",
     "curriculumCode": "AC9E1LY12",
     "bank": "practice",
-    "skill": "ac9e1ly12 08 recognise",
+    "skill": "understand that a letter can represent more than one sound and that a syllable must contain a vowel sound",
     "printable": true,
     "type": "single",
-    "question": "Which response would correctly compare letter a?",
-    "audioPrompt": "Which response would correctly compare letter a?",
-    "visual": "📖 Compare letter a; 🔎 syllable; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Compare letter a; 🔎 syllable; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly12.svg#ac9e1ly12-p-015\"></use></svg>",
+    "question": "Max checks the letter e. In which pair does it make two sounds?",
+    "audioPrompt": "Max checks the letter e. In which pair does it make two sounds?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly12.svg#ac9e1ly12-p-015",
-      "alt_text": "📖 Compare letter a; 🔎 syllable; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Do not listen for vowel sounds.",
-      "Make a syllable with no vowel sound.",
-      "Cat has short /a/; apron begins long /ā/ in standard pronunciation; whole-word pattern/context selects sound"
+      "bed – bed",
+      "bed – he",
+      "he – he"
     ],
-    "correct": 2,
-    "explanation": "Cat has short /a/; apron begins long /ā/ in standard pronunciation; whole-word pattern/context selects sound This matches the task.\nHint: Listen for vowel sounds.",
+    "correct": 1,
+    "explanation": "bed – he is the best answer.",
     "structuredExplanation": {
-      "summary": "Cat has short /a/; apron begins long /ā/ in standard pronunciation; whole-word pattern/context selects sound This matches the task.",
-      "hint": "Listen for vowel sounds."
+      "summary": "bed – he is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 8
   },
   {
     "id": "ac9e1ly12-p-009",
     "curriculumCode": "AC9E1LY12",
     "bank": "practice",
-    "skill": "ac9e1ly12 09 recognise",
+    "skill": "understand that a letter can represent more than one sound and that a syllable must contain a vowel sound",
     "printable": true,
     "type": "single",
-    "question": "How many syllables are in fish, and what vowel sound must the syllable contain?",
-    "audioPrompt": "How many syllables are in fish, and what vowel sound must the syllable contain?",
-    "visual": "📖 Find the vowel sound; 🔎 clap; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Find the vowel sound; 🔎 clap; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly12.svg#ac9e1ly12-p-017\"></use></svg>",
+    "question": "Ben claps “cat”. How many syllables?",
+    "audioPrompt": "Ben claps “cat”. How many syllables?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly12.svg#ac9e1ly12-p-017",
-      "alt_text": "📖 Find the vowel sound; 🔎 clap; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Make a syllable with no vowel sound.",
-      "One syllable containing short /i/",
-      "Assume a letter always has one sound."
+      "1",
+      "2",
+      "3"
     ],
-    "correct": 1,
-    "explanation": "One syllable containing short /i/ This matches the task.\nHint: Every syllable needs a vowel sound.",
+    "correct": 0,
+    "explanation": "1 is the best answer.",
     "structuredExplanation": {
-      "summary": "One syllable containing short /i/ This matches the task.",
-      "hint": "Every syllable needs a vowel sound."
+      "summary": "1 is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 9
   },
   {
     "id": "ac9e1ly12-p-010",
     "curriculumCode": "AC9E1LY12",
     "bank": "practice",
-    "skill": "ac9e1ly12 10 recognise",
+    "skill": "understand that a letter can represent more than one sound and that a syllable must contain a vowel sound",
     "printable": true,
     "type": "single",
-    "question": "Which response would correctly match letter sounds?",
-    "audioPrompt": "Which response would correctly match letter sounds?",
-    "visual": "📖 Match letter sounds; 🔎 word part; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Match letter sounds; 🔎 word part; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly12.svg#ac9e1ly12-p-019\"></use></svg>",
+    "question": "Sam checks the letter g. In which pair does it make two sounds?",
+    "audioPrompt": "Sam checks the letter g. In which pair does it make two sounds?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly12.svg#ac9e1ly12-p-019",
-      "alt_text": "📖 Match letter sounds; 🔎 word part; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Goat g ↔ /g/; giant g ↔ /j/; happy y ↔ /ee/",
-      "Goat g ↔ /j/; giant g ↔ /ee/; happy y ↔ /g/",
-      "Assume a letter always has one sound."
+      "go – go",
+      "gem – gem",
+      "gem – go"
     ],
-    "correct": 0,
-    "explanation": "Goat g ↔ /g/; giant g ↔ /j/; happy y ↔ /ee/ This matches the task.\nHint: Some letters represent different sounds in different words.",
+    "correct": 2,
+    "explanation": "gem – go is the best answer.",
     "structuredExplanation": {
-      "summary": "Goat g ↔ /g/; giant g ↔ /j/; happy y ↔ /ee/ This matches the task.",
-      "hint": "Some letters represent different sounds in different words."
+      "summary": "gem – go is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 10
   },
   {
     "id": "ac9e1ly12-p-011",
     "curriculumCode": "AC9E1LY12",
     "bank": "practice",
-    "skill": "ac9e1ly12 01 explain",
+    "skill": "understand that a letter can represent more than one sound and that a syllable must contain a vowel sound",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you compare c sounds?",
-    "audioPrompt": "Which tip would help you compare c sounds?",
-    "visual": "🧠 Compare c sounds; ➡️ Read letter/word; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Compare c sounds; ➡️ Read letter/word; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly12.svg#ac9e1ly12-p-002\"></use></svg>",
+    "question": "Kim claps “sunset”. How many syllables?",
+    "audioPrompt": "Kim claps “sunset”. How many syllables?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly12.svg#ac9e1ly12-p-002",
-      "alt_text": "🧠 Compare c sounds; ➡️ Read letter/word; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Do not listen for vowel sounds.",
-      "Some letters represent different sounds in different words.",
-      "Make a syllable with no vowel sound."
+      "1",
+      "2",
+      "3"
     ],
     "correct": 1,
-    "explanation": "Some letters represent different sounds in different words.\nHint: Some letters represent different sounds in different words.",
+    "explanation": "2 is the best answer.",
     "structuredExplanation": {
-      "summary": "Some letters represent different sounds in different words.",
-      "hint": "Some letters represent different sounds in different words."
+      "summary": "2 is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 11
   },
   {
     "id": "ac9e1ly12-p-012",
     "curriculumCode": "AC9E1LY12",
     "bank": "practice",
-    "skill": "ac9e1ly12 02 explain",
+    "skill": "understand that a letter can represent more than one sound and that a syllable must contain a vowel sound",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you match words and syllables?",
-    "audioPrompt": "Which tip would help you match words and syllables?",
-    "visual": "🧠 Match words and syllables; ➡️ Hear vowel sound; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Match words and syllables; ➡️ Hear vowel sound; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly12.svg#ac9e1ly12-p-004\"></use></svg>",
+    "question": "Ava checks the letter a. In which pair does it make two sounds?",
+    "audioPrompt": "Ava checks the letter a. In which pair does it make two sounds?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly12.svg#ac9e1ly12-p-004",
-      "alt_text": "🧠 Match words and syllables; ➡️ Hear vowel sound; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Use this routine: Read letter/word → Hear vowel sound → Clap syllable → Check sound.",
-      "Make a syllable with no vowel sound.",
-      "Assume a letter always has one sound."
+      "apple – acorn",
+      "apple – apple",
+      "acorn – acorn"
     ],
     "correct": 0,
-    "explanation": "Use this routine: Read letter/word → Hear vowel sound → Clap syllable → Check sound.\nHint: Listen for vowel sounds.",
+    "explanation": "apple – acorn is the best answer.",
     "structuredExplanation": {
-      "summary": "Use this routine: Read letter/word → Hear vowel sound → Clap syllable → Check sound.",
-      "hint": "Listen for vowel sounds."
+      "summary": "apple – acorn is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 12
   },
   {
     "id": "ac9e1ly12-p-013",
     "curriculumCode": "AC9E1LY12",
     "bank": "practice",
-    "skill": "ac9e1ly12 03 explain",
+    "skill": "understand that a letter can represent more than one sound and that a syllable must contain a vowel sound",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you tap vowel beats?",
-    "audioPrompt": "Which tip would help you tap vowel beats?",
-    "visual": "🧠 Tap vowel beats; ➡️ Clap syllable; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Tap vowel beats; ➡️ Clap syllable; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly12.svg#ac9e1ly12-p-006\"></use></svg>",
+    "question": "Leo claps “paper”. How many syllables?",
+    "audioPrompt": "Leo claps “paper”. How many syllables?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly12.svg#ac9e1ly12-p-006",
-      "alt_text": "🧠 Tap vowel beats; ➡️ Clap syllable; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Assume a letter always has one sound.",
-      "Do not listen for vowel sounds.",
-      "Look for syllable and check the whole example."
+      "3",
+      "1",
+      "2"
     ],
     "correct": 2,
-    "explanation": "Look for syllable and check the whole example.\nHint: Every syllable needs a vowel sound.",
+    "explanation": "2 is the best answer.",
     "structuredExplanation": {
-      "summary": "Look for syllable and check the whole example.",
-      "hint": "Every syllable needs a vowel sound."
+      "summary": "2 is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 13
   },
   {
     "id": "ac9e1ly12-p-014",
     "curriculumCode": "AC9E1LY12",
     "bank": "practice",
-    "skill": "ac9e1ly12 04 explain",
+    "skill": "understand that a letter can represent more than one sound and that a syllable must contain a vowel sound",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you choose the s sound?",
-    "audioPrompt": "Which tip would help you choose the s sound?",
-    "visual": "🧠 Choose the s sound; ➡️ Check sound; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Choose the s sound; ➡️ Check sound; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly12.svg#ac9e1ly12-p-008\"></use></svg>",
+    "question": "Zoe checks the letter i. In which pair does it make two sounds?",
+    "audioPrompt": "Zoe checks the letter i. In which pair does it make two sounds?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly12.svg#ac9e1ly12-p-008",
-      "alt_text": "🧠 Choose the s sound; ➡️ Check sound; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Do not listen for vowel sounds.",
-      "Check that you can check syllables.",
-      "Make a syllable with no vowel sound."
+      "sit – sit",
+      "sit – tiger",
+      "tiger – tiger"
     ],
     "correct": 1,
-    "explanation": "Check that you can check syllables.\nHint: Some letters represent different sounds in different words.",
+    "explanation": "sit – tiger is the best answer.",
     "structuredExplanation": {
-      "summary": "Check that you can check syllables.",
-      "hint": "Some letters represent different sounds in different words."
+      "summary": "sit – tiger is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 14
   },
   {
     "id": "ac9e1ly12-p-015",
     "curriculumCode": "AC9E1LY12",
     "bank": "practice",
-    "skill": "ac9e1ly12 05 explain",
+    "skill": "understand that a letter can represent more than one sound and that a syllable must contain a vowel sound",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you order syllable checking?",
-    "audioPrompt": "Which tip would help you order syllable checking?",
-    "visual": "🧠 Order syllable checking; ➡️ Read letter/word; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Order syllable checking; ➡️ Read letter/word; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly12.svg#ac9e1ly12-p-010\"></use></svg>",
+    "question": "Max claps “picnic”. How many syllables?",
+    "audioPrompt": "Max claps “picnic”. How many syllables?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly12.svg#ac9e1ly12-p-010",
-      "alt_text": "🧠 Order syllable checking; ➡️ Read letter/word; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Sequencing a syllable-analysis routine.",
-      "Make a syllable with no vowel sound.",
-      "Assume a letter always has one sound."
+      "2",
+      "1",
+      "3"
     ],
     "correct": 0,
-    "explanation": "Sequencing a syllable-analysis routine.\nHint: Listen for vowel sounds.",
+    "explanation": "2 is the best answer.",
     "structuredExplanation": {
-      "summary": "Sequencing a syllable-analysis routine.",
-      "hint": "Listen for vowel sounds."
+      "summary": "2 is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 15
   },
   {
     "id": "ac9e1ly12-p-016",
     "curriculumCode": "AC9E1LY12",
     "bank": "practice",
-    "skill": "ac9e1ly12 06 explain",
+    "skill": "understand that a letter can represent more than one sound and that a syllable must contain a vowel sound",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you draw syllable arcs?",
-    "audioPrompt": "Which tip would help you draw syllable arcs?",
-    "visual": "🧠 Draw syllable arcs; ➡️ Hear vowel sound; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Draw syllable arcs; ➡️ Hear vowel sound; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly12.svg#ac9e1ly12-p-012\"></use></svg>",
+    "question": "Mia checks the letter e. In which pair does it make two sounds?",
+    "audioPrompt": "Mia checks the letter e. In which pair does it make two sounds?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly12.svg#ac9e1ly12-p-012",
-      "alt_text": "🧠 Draw syllable arcs; ➡️ Hear vowel sound; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Assume a letter always has one sound.",
-      "Do not listen for vowel sounds.",
-      "Every syllable needs a vowel sound."
+      "bed – bed",
+      "he – he",
+      "bed – he"
     ],
     "correct": 2,
-    "explanation": "Every syllable needs a vowel sound.\nHint: Every syllable needs a vowel sound.",
+    "explanation": "bed – he is the best answer.",
     "structuredExplanation": {
-      "summary": "Every syllable needs a vowel sound.",
-      "hint": "Every syllable needs a vowel sound."
+      "summary": "bed – he is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 16
   },
   {
     "id": "ac9e1ly12-p-017",
     "curriculumCode": "AC9E1LY12",
     "bank": "practice",
-    "skill": "ac9e1ly12 07 explain",
+    "skill": "understand that a letter can represent more than one sound and that a syllable must contain a vowel sound",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you explain boat?",
-    "audioPrompt": "Which tip would help you explain boat?",
-    "visual": "🧠 Explain boat; ➡️ Clap syllable; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Explain boat; ➡️ Clap syllable; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly12.svg#ac9e1ly12-p-014\"></use></svg>",
+    "question": "Sam claps “cat”. How many syllables?",
+    "audioPrompt": "Sam claps “cat”. How many syllables?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly12.svg#ac9e1ly12-p-014",
-      "alt_text": "🧠 Explain boat; ➡️ Clap syllable; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Do not listen for vowel sounds.",
-      "Use this routine: Read letter/word → Hear vowel sound → Clap syllable → Check sound.",
-      "Make a syllable with no vowel sound."
+      "2",
+      "3",
+      "1"
     ],
-    "correct": 1,
-    "explanation": "Use this routine: Read letter/word → Hear vowel sound → Clap syllable → Check sound.\nHint: Some letters represent different sounds in different words.",
+    "correct": 2,
+    "explanation": "1 is the best answer.",
     "structuredExplanation": {
-      "summary": "Use this routine: Read letter/word → Hear vowel sound → Clap syllable → Check sound.",
-      "hint": "Some letters represent different sounds in different words."
+      "summary": "1 is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 2,
+    "difficultyTier": "guided",
+    "sequencePriority": 17
   },
   {
     "id": "ac9e1ly12-p-018",
     "curriculumCode": "AC9E1LY12",
     "bank": "practice",
-    "skill": "ac9e1ly12 08 explain",
+    "skill": "understand that a letter can represent more than one sound and that a syllable must contain a vowel sound",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you compare letter a?",
-    "audioPrompt": "Which tip would help you compare letter a?",
-    "visual": "🧠 Compare letter a; ➡️ Check sound; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Compare letter a; ➡️ Check sound; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly12.svg#ac9e1ly12-p-016\"></use></svg>",
+    "question": "Kim checks the letter g. In which pair does it make two sounds?",
+    "audioPrompt": "Kim checks the letter g. In which pair does it make two sounds?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly12.svg#ac9e1ly12-p-016",
-      "alt_text": "🧠 Compare letter a; ➡️ Check sound; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Look for syllable and check the whole example.",
-      "Make a syllable with no vowel sound.",
-      "Assume a letter always has one sound."
+      "gem – go",
+      "go – go",
+      "gem – gem"
     ],
     "correct": 0,
-    "explanation": "Look for syllable and check the whole example.\nHint: Listen for vowel sounds.",
+    "explanation": "gem – go is the best answer.",
     "structuredExplanation": {
-      "summary": "Look for syllable and check the whole example.",
-      "hint": "Listen for vowel sounds."
+      "summary": "gem – go is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 2,
+    "difficultyTier": "guided",
+    "sequencePriority": 18
   },
   {
     "id": "ac9e1ly12-p-019",
     "curriculumCode": "AC9E1LY12",
     "bank": "practice",
-    "skill": "ac9e1ly12 09 explain",
+    "skill": "understand that a letter can represent more than one sound and that a syllable must contain a vowel sound",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you find the vowel sound?",
-    "audioPrompt": "Which tip would help you find the vowel sound?",
-    "visual": "🧠 Find the vowel sound; ➡️ Read letter/word; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Find the vowel sound; ➡️ Read letter/word; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly12.svg#ac9e1ly12-p-018\"></use></svg>",
+    "question": "Ava claps “sunset”. How many syllables?",
+    "audioPrompt": "Ava claps “sunset”. How many syllables?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly12.svg#ac9e1ly12-p-018",
-      "alt_text": "🧠 Find the vowel sound; ➡️ Read letter/word; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Assume a letter always has one sound.",
-      "Do not listen for vowel sounds.",
-      "Check that you can check syllables."
+      "3",
+      "2",
+      "1"
     ],
-    "correct": 2,
-    "explanation": "Check that you can check syllables.\nHint: Every syllable needs a vowel sound.",
+    "correct": 1,
+    "explanation": "2 is the best answer.",
     "structuredExplanation": {
-      "summary": "Check that you can check syllables.",
-      "hint": "Every syllable needs a vowel sound."
+      "summary": "2 is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 2,
+    "difficultyTier": "guided",
+    "sequencePriority": 19
   },
   {
     "id": "ac9e1ly12-p-020",
     "curriculumCode": "AC9E1LY12",
     "bank": "practice",
-    "skill": "ac9e1ly12 10 explain",
+    "skill": "understand that a letter can represent more than one sound and that a syllable must contain a vowel sound",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you match letter sounds?",
-    "audioPrompt": "Which tip would help you match letter sounds?",
-    "visual": "🧠 Match letter sounds; ➡️ Hear vowel sound; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Match letter sounds; ➡️ Hear vowel sound; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly12.svg#ac9e1ly12-p-020\"></use></svg>",
+    "question": "Leo checks the letter a. In which pair does it make two sounds?",
+    "audioPrompt": "Leo checks the letter a. In which pair does it make two sounds?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly12.svg#ac9e1ly12-p-020",
-      "alt_text": "🧠 Match letter sounds; ➡️ Hear vowel sound; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Do not listen for vowel sounds.",
-      "Connecting letters with context-dependent sounds.",
-      "Make a syllable with no vowel sound."
+      "apple – acorn",
+      "acorn – acorn",
+      "apple – apple"
     ],
-    "correct": 1,
-    "explanation": "Connecting letters with context-dependent sounds.\nHint: Some letters represent different sounds in different words.",
+    "correct": 0,
+    "explanation": "apple – acorn is the best answer.",
     "structuredExplanation": {
-      "summary": "Connecting letters with context-dependent sounds.",
-      "hint": "Some letters represent different sounds in different words."
+      "summary": "apple – acorn is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 2,
+    "difficultyTier": "guided",
+    "sequencePriority": 20
   },
   {
     "id": "ac9e1ly12-p-021",
     "curriculumCode": "AC9E1LY12",
     "bank": "practice",
-    "skill": "ac9e1ly12 01 discriminate",
+    "skill": "understand that a letter can represent more than one sound and that a syllable must contain a vowel sound",
     "printable": true,
     "type": "single",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": "📖 Compare c sounds; 🔎 letter sound; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Compare c sounds; 🔎 letter sound; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly12.svg#ac9e1ly12-p-001\"></use></svg>",
+    "question": "Zoe claps “paper”. How many syllables?",
+    "audioPrompt": "Zoe claps “paper”. How many syllables?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly12.svg#ac9e1ly12-p-001",
-      "alt_text": "📖 Compare c sounds; 🔎 letter sound; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Assume a letter always has one sound.",
-      "Cat begins /k/; city begins /s/",
-      "Some letters represent different sounds in different words."
+      "3",
+      "2",
+      "1"
     ],
-    "correct": 0,
-    "explanation": "Assume a letter always has one sound. is the mix-up. Some letters represent different sounds in different words.\nHint: Some letters represent different sounds in different words.",
+    "correct": 1,
+    "explanation": "2 is the best answer.",
     "structuredExplanation": {
-      "summary": "Assume a letter always has one sound. is the mix-up. Some letters represent different sounds in different words.",
-      "hint": "Some letters represent different sounds in different words."
+      "summary": "2 is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 2,
+    "difficultyTier": "guided",
+    "sequencePriority": 21
   },
   {
     "id": "ac9e1ly12-p-022",
     "curriculumCode": "AC9E1LY12",
     "bank": "practice",
-    "skill": "ac9e1ly12 02 discriminate",
+    "skill": "understand that a letter can represent more than one sound and that a syllable must contain a vowel sound",
     "printable": true,
     "type": "single",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": "📖 Match words and syllables; 🔎 vowel sound; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Match words and syllables; 🔎 vowel sound; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly12.svg#ac9e1ly12-p-003\"></use></svg>",
+    "question": "Max checks the letter i. In which pair does it make two sounds?",
+    "audioPrompt": "Max checks the letter i. In which pair does it make two sounds?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly12.svg#ac9e1ly12-p-003",
-      "alt_text": "📖 Match words and syllables; 🔎 vowel sound; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Cat ↔ 1; sunset ↔ 2; banana ↔ 3",
-      "Cat ↔ 2; sunset ↔ 3; banana ↔ 1",
-      "Use this routine: Read letter/word → Hear vowel sound → Clap syllable → Check sound."
+      "sit – sit",
+      "tiger – tiger",
+      "sit – tiger"
     ],
-    "correct": 1,
-    "explanation": "Cat ↔ 2; sunset ↔ 3; banana ↔ 1 is the mix-up. Listen for vowel sounds.\nHint: Listen for vowel sounds.",
+    "correct": 2,
+    "explanation": "sit – tiger is the best answer.",
     "structuredExplanation": {
-      "summary": "Cat ↔ 2; sunset ↔ 3; banana ↔ 1 is the mix-up. Listen for vowel sounds.",
-      "hint": "Listen for vowel sounds."
+      "summary": "sit – tiger is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 2,
+    "difficultyTier": "guided",
+    "sequencePriority": 22
   },
   {
     "id": "ac9e1ly12-p-023",
     "curriculumCode": "AC9E1LY12",
     "bank": "practice",
-    "skill": "ac9e1ly12 03 discriminate",
+    "skill": "understand that a letter can represent more than one sound and that a syllable must contain a vowel sound",
     "printable": true,
     "type": "single",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": "📖 Tap vowel beats; 🔎 syllable; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Tap vowel beats; 🔎 syllable; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly12.svg#ac9e1ly12-p-005\"></use></svg>",
+    "question": "Mia claps “picnic”. How many syllables?",
+    "audioPrompt": "Mia claps “picnic”. How many syllables?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly12.svg#ac9e1ly12-p-005",
-      "alt_text": "📖 Tap vowel beats; 🔎 syllable; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Ro/bot, 2 syllables; long /o/ in ro and short /o/ in bot",
-      "Look for syllable and check the whole example.",
-      "Ro/bot, 3 syllables; long /o/ in ro and short /o/ in bot"
+      "1",
+      "2",
+      "3"
     ],
-    "correct": 2,
-    "explanation": "Ro/bot, 3 syllables; long /o/ in ro and short /o/ in bot is the mix-up. Every syllable needs a vowel sound.\nHint: Every syllable needs a vowel sound.",
+    "correct": 1,
+    "explanation": "2 is the best answer.",
     "structuredExplanation": {
-      "summary": "Ro/bot, 3 syllables; long /o/ in ro and short /o/ in bot is the mix-up. Every syllable needs a vowel sound.",
-      "hint": "Every syllable needs a vowel sound."
+      "summary": "2 is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 2,
+    "difficultyTier": "guided",
+    "sequencePriority": 23
   },
   {
     "id": "ac9e1ly12-p-024",
     "curriculumCode": "AC9E1LY12",
     "bank": "practice",
-    "skill": "ac9e1ly12 04 discriminate",
+    "skill": "understand that a letter can represent more than one sound and that a syllable must contain a vowel sound",
     "printable": true,
     "type": "single",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": "📖 Choose the s sound; 🔎 clap; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Choose the s sound; 🔎 clap; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly12.svg#ac9e1ly12-p-007\"></use></svg>",
+    "question": "Ben checks the letter e. In which pair does it make two sounds?",
+    "audioPrompt": "Ben checks the letter e. In which pair does it make two sounds?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly12.svg#ac9e1ly12-p-007",
-      "alt_text": "📖 Choose the s sound; 🔎 clap; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Assume a letter always has one sound.",
-      "Sat has /s/; the s in rose commonly represents /z/",
-      "Check that you can check syllables."
+      "bed – bed",
+      "bed – he",
+      "he – he"
     ],
-    "correct": 0,
-    "explanation": "Assume a letter always has one sound. is the mix-up. Some letters represent different sounds in different words.\nHint: Some letters represent different sounds in different words.",
+    "correct": 1,
+    "explanation": "bed – he is the best answer.",
     "structuredExplanation": {
-      "summary": "Assume a letter always has one sound. is the mix-up. Some letters represent different sounds in different words.",
-      "hint": "Some letters represent different sounds in different words."
+      "summary": "bed – he is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 2,
+    "difficultyTier": "guided",
+    "sequencePriority": 24
   },
   {
     "id": "ac9e1ly12-p-025",
     "curriculumCode": "AC9E1LY12",
     "bank": "practice",
-    "skill": "ac9e1ly12 05 discriminate",
+    "skill": "understand that a letter can represent more than one sound and that a syllable must contain a vowel sound",
     "printable": true,
     "type": "single",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": "📖 Order syllable checking; 🔎 word part; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Order syllable checking; 🔎 word part; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly12.svg#ac9e1ly12-p-009\"></use></svg>",
+    "question": "Kim claps “cat”. How many syllables?",
+    "audioPrompt": "Kim claps “cat”. How many syllables?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly12.svg#ac9e1ly12-p-009",
-      "alt_text": "📖 Order syllable checking; 🔎 word part; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Say → tap → identify vowel sound per beat → check",
-      "check → identify vowel sound per beat → tap → Say",
-      "Sequencing a syllable-analysis routine."
+      "3",
+      "2",
+      "1"
     ],
-    "correct": 1,
-    "explanation": "check → identify vowel sound per beat → tap → Say is the mix-up. Listen for vowel sounds.\nHint: Listen for vowel sounds.",
+    "correct": 2,
+    "explanation": "1 is the best answer.",
     "structuredExplanation": {
-      "summary": "check → identify vowel sound per beat → tap → Say is the mix-up. Listen for vowel sounds.",
-      "hint": "Listen for vowel sounds."
+      "summary": "1 is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 2,
+    "difficultyTier": "guided",
+    "sequencePriority": 25
   },
   {
     "id": "ac9e1ly12-p-026",
     "curriculumCode": "AC9E1LY12",
     "bank": "practice",
-    "skill": "ac9e1ly12 06 discriminate",
+    "skill": "understand that a letter can represent more than one sound and that a syllable must contain a vowel sound",
     "printable": true,
     "type": "single",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": "📖 Draw syllable arcs; 🔎 letter sound; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Draw syllable arcs; 🔎 letter sound; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly12.svg#ac9e1ly12-p-011\"></use></svg>",
+    "question": "Ava checks the letter g. In which pair does it make two sounds?",
+    "audioPrompt": "Ava checks the letter g. In which pair does it make two sounds?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly12.svg#ac9e1ly12-p-011",
-      "alt_text": "📖 Draw syllable arcs; 🔎 letter sound; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Pic/nic with two arcs; i in each syllable circled",
-      "Every syllable needs a vowel sound.",
-      "Make a syllable with no vowel sound."
+      "gem – gem",
+      "gem – go",
+      "go – go"
     ],
-    "correct": 2,
-    "explanation": "Make a syllable with no vowel sound. is the mix-up. Every syllable needs a vowel sound.\nHint: Every syllable needs a vowel sound.",
+    "correct": 1,
+    "explanation": "gem – go is the best answer.",
     "structuredExplanation": {
-      "summary": "Make a syllable with no vowel sound. is the mix-up. Every syllable needs a vowel sound.",
-      "hint": "Every syllable needs a vowel sound."
+      "summary": "gem – go is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 2,
+    "difficultyTier": "guided",
+    "sequencePriority": 26
   },
   {
     "id": "ac9e1ly12-p-027",
     "curriculumCode": "AC9E1LY12",
     "bank": "practice",
-    "skill": "ac9e1ly12 07 discriminate",
+    "skill": "understand that a letter can represent more than one sound and that a syllable must contain a vowel sound",
     "printable": true,
     "type": "single",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": "📖 Explain boat; 🔎 vowel sound; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Explain boat; 🔎 vowel sound; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly12.svg#ac9e1ly12-p-013\"></use></svg>",
+    "question": "Leo claps “sunset”. How many syllables?",
+    "audioPrompt": "Leo claps “sunset”. How many syllables?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly12.svg#ac9e1ly12-p-013",
-      "alt_text": "📖 Explain boat; 🔎 vowel sound; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Assume a letter always has one sound.",
-      "Oa works together to represent one vowel sound in one spoken beat",
-      "Use this routine: Read letter/word → Hear vowel sound → Clap syllable → Check sound."
+      "1",
+      "3",
+      "2"
     ],
-    "correct": 0,
-    "explanation": "Assume a letter always has one sound. is the mix-up. Some letters represent different sounds in different words.\nHint: Some letters represent different sounds in different words.",
+    "correct": 2,
+    "explanation": "2 is the best answer.",
     "structuredExplanation": {
-      "summary": "Assume a letter always has one sound. is the mix-up. Some letters represent different sounds in different words.",
-      "hint": "Some letters represent different sounds in different words."
+      "summary": "2 is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 2,
+    "difficultyTier": "guided",
+    "sequencePriority": 27
   },
   {
     "id": "ac9e1ly12-p-028",
     "curriculumCode": "AC9E1LY12",
     "bank": "practice",
-    "skill": "ac9e1ly12 08 discriminate",
+    "skill": "understand that a letter can represent more than one sound and that a syllable must contain a vowel sound",
     "printable": true,
     "type": "single",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": "📖 Compare letter a; 🔎 syllable; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Compare letter a; 🔎 syllable; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly12.svg#ac9e1ly12-p-015\"></use></svg>",
+    "question": "Zoe checks the letter a. In which pair does it make two sounds?",
+    "audioPrompt": "Zoe checks the letter a. In which pair does it make two sounds?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly12.svg#ac9e1ly12-p-015",
-      "alt_text": "📖 Compare letter a; 🔎 syllable; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Cat has short /a/; apron begins long /ā/ in standard pronunciation; whole-word pattern/context selects sound",
-      "Do not listen for vowel sounds.",
-      "Look for syllable and check the whole example."
+      "apple – acorn",
+      "acorn – acorn",
+      "apple – apple"
     ],
-    "correct": 1,
-    "explanation": "Do not listen for vowel sounds. is the mix-up. Listen for vowel sounds.\nHint: Listen for vowel sounds.",
+    "correct": 0,
+    "explanation": "apple – acorn is the best answer.",
     "structuredExplanation": {
-      "summary": "Do not listen for vowel sounds. is the mix-up. Listen for vowel sounds.",
-      "hint": "Listen for vowel sounds."
+      "summary": "apple – acorn is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 2,
+    "difficultyTier": "guided",
+    "sequencePriority": 28
   },
   {
     "id": "ac9e1ly12-p-029",
     "curriculumCode": "AC9E1LY12",
     "bank": "practice",
-    "skill": "ac9e1ly12 09 discriminate",
+    "skill": "understand that a letter can represent more than one sound and that a syllable must contain a vowel sound",
     "printable": true,
     "type": "single",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": "📖 Find the vowel sound; 🔎 clap; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Find the vowel sound; 🔎 clap; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly12.svg#ac9e1ly12-p-017\"></use></svg>",
+    "question": "Max claps “paper”. How many syllables?",
+    "audioPrompt": "Max claps “paper”. How many syllables?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly12.svg#ac9e1ly12-p-017",
-      "alt_text": "📖 Find the vowel sound; 🔎 clap; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "One syllable containing short /i/",
-      "Check that you can check syllables.",
-      "Make a syllable with no vowel sound."
+      "3",
+      "1",
+      "2"
     ],
     "correct": 2,
-    "explanation": "Make a syllable with no vowel sound. is the mix-up. Every syllable needs a vowel sound.\nHint: Every syllable needs a vowel sound.",
+    "explanation": "2 is the best answer.",
     "structuredExplanation": {
-      "summary": "Make a syllable with no vowel sound. is the mix-up. Every syllable needs a vowel sound.",
-      "hint": "Every syllable needs a vowel sound."
+      "summary": "2 is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 2,
+    "difficultyTier": "guided",
+    "sequencePriority": 29
   },
   {
     "id": "ac9e1ly12-p-030",
     "curriculumCode": "AC9E1LY12",
     "bank": "practice",
-    "skill": "ac9e1ly12 10 discriminate",
+    "skill": "understand that a letter can represent more than one sound and that a syllable must contain a vowel sound",
     "printable": true,
     "type": "single",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": "📖 Match letter sounds; 🔎 word part; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Match letter sounds; 🔎 word part; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly12.svg#ac9e1ly12-p-019\"></use></svg>",
+    "question": "Mia checks the letter i. In which pair does it make two sounds?",
+    "audioPrompt": "Mia checks the letter i. In which pair does it make two sounds?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly12.svg#ac9e1ly12-p-019",
-      "alt_text": "📖 Match letter sounds; 🔎 word part; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Goat g ↔ /j/; giant g ↔ /ee/; happy y ↔ /g/",
-      "Goat g ↔ /g/; giant g ↔ /j/; happy y ↔ /ee/",
-      "Connecting letters with context-dependent sounds."
+      "sit – sit",
+      "sit – tiger",
+      "tiger – tiger"
     ],
-    "correct": 0,
-    "explanation": "Goat g ↔ /j/; giant g ↔ /ee/; happy y ↔ /g/ is the mix-up. Some letters represent different sounds in different words.\nHint: Some letters represent different sounds in different words.",
+    "correct": 1,
+    "explanation": "sit – tiger is the best answer.",
     "structuredExplanation": {
-      "summary": "Goat g ↔ /j/; giant g ↔ /ee/; happy y ↔ /g/ is the mix-up. Some letters represent different sounds in different words.",
-      "hint": "Some letters represent different sounds in different words."
+      "summary": "sit – tiger is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 2,
+    "difficultyTier": "guided",
+    "sequencePriority": 30
   },
   {
     "id": "ac9e1ly12-p-031",
     "curriculumCode": "AC9E1LY12",
     "bank": "practice",
-    "skill": "ac9e1ly12 01 apply",
+    "skill": "understand that a letter can represent more than one sound and that a syllable must contain a vowel sound",
     "printable": true,
     "type": "single",
-    "question": "Which choice would best use this skill in a new example?",
-    "audioPrompt": "Which choice would best use this skill in a new example?",
-    "visual": "📖 Compare c sounds; 🔎 letter sound; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Compare c sounds; 🔎 letter sound; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly12.svg#ac9e1ly12-p-001\"></use></svg>",
+    "question": "Ben claps “picnic”. How many syllables?",
+    "audioPrompt": "Ben claps “picnic”. How many syllables?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly12.svg#ac9e1ly12-p-001",
-      "alt_text": "📖 Compare c sounds; 🔎 letter sound; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Assume a letter always has one sound.",
-      "Cat begins /k/; city begins /s/",
-      "Do not listen for vowel sounds."
+      "2",
+      "3",
+      "1"
     ],
-    "correct": 1,
-    "explanation": "Cat begins /k/; city begins /s/ uses the skill correctly. Some letters represent different sounds in different words.\nHint: Some letters represent different sounds in different words.",
+    "correct": 0,
+    "explanation": "2 is the best answer.",
     "structuredExplanation": {
-      "summary": "Cat begins /k/; city begins /s/ uses the skill correctly. Some letters represent different sounds in different words.",
-      "hint": "Some letters represent different sounds in different words."
+      "summary": "2 is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 2,
+    "difficultyTier": "guided",
+    "sequencePriority": 31
   },
   {
     "id": "ac9e1ly12-p-032",
     "curriculumCode": "AC9E1LY12",
     "bank": "practice",
-    "skill": "ac9e1ly12 02 apply",
+    "skill": "understand that a letter can represent more than one sound and that a syllable must contain a vowel sound",
     "printable": true,
     "type": "single",
-    "question": "Which choice would best use this skill in a new example?",
-    "audioPrompt": "Which choice would best use this skill in a new example?",
-    "visual": "📖 Match words and syllables; 🔎 vowel sound; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Match words and syllables; 🔎 vowel sound; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly12.svg#ac9e1ly12-p-003\"></use></svg>",
+    "question": "Sam checks the letter e. In which pair does it make two sounds?",
+    "audioPrompt": "Sam checks the letter e. In which pair does it make two sounds?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly12.svg#ac9e1ly12-p-003",
-      "alt_text": "📖 Match words and syllables; 🔎 vowel sound; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Cat ↔ 2; sunset ↔ 3; banana ↔ 1",
-      "Cat ↔ 2; sunset ↔ 2; banana ↔ 3",
-      "Cat ↔ 1; sunset ↔ 2; banana ↔ 3"
+      "bed – bed",
+      "he – he",
+      "bed – he"
     ],
     "correct": 2,
-    "explanation": "Cat ↔ 1; sunset ↔ 2; banana ↔ 3 uses the skill correctly. Listen for vowel sounds.\nHint: Listen for vowel sounds.",
+    "explanation": "bed – he is the best answer.",
     "structuredExplanation": {
-      "summary": "Cat ↔ 1; sunset ↔ 2; banana ↔ 3 uses the skill correctly. Listen for vowel sounds.",
-      "hint": "Listen for vowel sounds."
+      "summary": "bed – he is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 2,
+    "difficultyTier": "guided",
+    "sequencePriority": 32
   },
   {
     "id": "ac9e1ly12-p-033",
     "curriculumCode": "AC9E1LY12",
     "bank": "practice",
-    "skill": "ac9e1ly12 03 apply",
+    "skill": "understand that a letter can represent more than one sound and that a syllable must contain a vowel sound",
     "printable": true,
     "type": "single",
-    "question": "Which choice would best use this skill in a new example?",
-    "audioPrompt": "Which choice would best use this skill in a new example?",
-    "visual": "📖 Tap vowel beats; 🔎 syllable; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Tap vowel beats; 🔎 syllable; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly12.svg#ac9e1ly12-p-005\"></use></svg>",
+    "question": "Ava claps “cat”. How many syllables?",
+    "audioPrompt": "Ava claps “cat”. How many syllables?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly12.svg#ac9e1ly12-p-005",
-      "alt_text": "📖 Tap vowel beats; 🔎 syllable; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Ro/bot, 2 syllables; long /o/ in ro and short /o/ in bot",
-      "Ro/bot, 3 syllables; long /o/ in ro and short /o/ in bot",
-      "Ro/bot, 1 syllables; long /o/ in ro and short /o/ in bot"
+      "2",
+      "1",
+      "3"
     ],
-    "correct": 0,
-    "explanation": "Ro/bot, 2 syllables; long /o/ in ro and short /o/ in bot uses the skill correctly. Every syllable needs a vowel sound.\nHint: Every syllable needs a vowel sound.",
+    "correct": 1,
+    "explanation": "1 is the best answer.",
     "structuredExplanation": {
-      "summary": "Ro/bot, 2 syllables; long /o/ in ro and short /o/ in bot uses the skill correctly. Every syllable needs a vowel sound.",
-      "hint": "Every syllable needs a vowel sound."
+      "summary": "1 is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 33
   },
   {
     "id": "ac9e1ly12-p-034",
     "curriculumCode": "AC9E1LY12",
     "bank": "practice",
-    "skill": "ac9e1ly12 04 apply",
+    "skill": "understand that a letter can represent more than one sound and that a syllable must contain a vowel sound",
     "printable": true,
     "type": "single",
-    "question": "Which choice would best use this skill in a new example?",
-    "audioPrompt": "Which choice would best use this skill in a new example?",
-    "visual": "📖 Choose the s sound; 🔎 clap; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Choose the s sound; 🔎 clap; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly12.svg#ac9e1ly12-p-007\"></use></svg>",
+    "question": "Leo checks the letter g. In which pair does it make two sounds?",
+    "audioPrompt": "Leo checks the letter g. In which pair does it make two sounds?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly12.svg#ac9e1ly12-p-007",
-      "alt_text": "📖 Choose the s sound; 🔎 clap; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Assume a letter always has one sound.",
-      "Sat has /s/; the s in rose commonly represents /z/",
-      "Do not listen for vowel sounds."
+      "gem – go",
+      "go – go",
+      "gem – gem"
     ],
-    "correct": 1,
-    "explanation": "Sat has /s/; the s in rose commonly represents /z/ uses the skill correctly. Some letters represent different sounds in different words.\nHint: Some letters represent different sounds in different words.",
+    "correct": 0,
+    "explanation": "gem – go is the best answer.",
     "structuredExplanation": {
-      "summary": "Sat has /s/; the s in rose commonly represents /z/ uses the skill correctly. Some letters represent different sounds in different words.",
-      "hint": "Some letters represent different sounds in different words."
+      "summary": "gem – go is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 34
   },
   {
     "id": "ac9e1ly12-p-035",
     "curriculumCode": "AC9E1LY12",
     "bank": "practice",
-    "skill": "ac9e1ly12 05 apply",
+    "skill": "understand that a letter can represent more than one sound and that a syllable must contain a vowel sound",
     "printable": true,
     "type": "single",
-    "question": "Which choice would best use this skill in a new example?",
-    "audioPrompt": "Which choice would best use this skill in a new example?",
-    "visual": "📖 Order syllable checking; 🔎 word part; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Order syllable checking; 🔎 word part; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly12.svg#ac9e1ly12-p-009\"></use></svg>",
+    "question": "Zoe claps “sunset”. How many syllables?",
+    "audioPrompt": "Zoe claps “sunset”. How many syllables?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly12.svg#ac9e1ly12-p-009",
-      "alt_text": "📖 Order syllable checking; 🔎 word part; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "check → identify vowel sound per beat → tap → Say",
-      "Do not listen for vowel sounds.",
-      "Say → tap → identify vowel sound per beat → check"
+      "3",
+      "2",
+      "1"
     ],
-    "correct": 2,
-    "explanation": "Say → tap → identify vowel sound per beat → check uses the skill correctly. Listen for vowel sounds.\nHint: Listen for vowel sounds.",
+    "correct": 1,
+    "explanation": "2 is the best answer.",
     "structuredExplanation": {
-      "summary": "Say → tap → identify vowel sound per beat → check uses the skill correctly. Listen for vowel sounds.",
-      "hint": "Listen for vowel sounds."
+      "summary": "2 is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 35
   },
   {
     "id": "ac9e1ly12-p-036",
     "curriculumCode": "AC9E1LY12",
     "bank": "practice",
-    "skill": "ac9e1ly12 06 apply",
+    "skill": "understand that a letter can represent more than one sound and that a syllable must contain a vowel sound",
     "printable": true,
     "type": "single",
-    "question": "Which choice would best use this skill in a new example?",
-    "audioPrompt": "Which choice would best use this skill in a new example?",
-    "visual": "📖 Draw syllable arcs; 🔎 letter sound; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Draw syllable arcs; 🔎 letter sound; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly12.svg#ac9e1ly12-p-011\"></use></svg>",
+    "question": "Max checks the letter a. In which pair does it make two sounds?",
+    "audioPrompt": "Max checks the letter a. In which pair does it make two sounds?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly12.svg#ac9e1ly12-p-011",
-      "alt_text": "📖 Draw syllable arcs; 🔎 letter sound; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Pic/nic with two arcs; i in each syllable circled",
-      "Make a syllable with no vowel sound.",
-      "Assume a letter always has one sound."
+      "acorn – acorn",
+      "apple – acorn",
+      "apple – apple"
     ],
-    "correct": 0,
-    "explanation": "Pic/nic with two arcs; i in each syllable circled uses the skill correctly. Every syllable needs a vowel sound.\nHint: Every syllable needs a vowel sound.",
+    "correct": 1,
+    "explanation": "apple – acorn is the best answer.",
     "structuredExplanation": {
-      "summary": "Pic/nic with two arcs; i in each syllable circled uses the skill correctly. Every syllable needs a vowel sound.",
-      "hint": "Every syllable needs a vowel sound."
+      "summary": "apple – acorn is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 36
   },
   {
     "id": "ac9e1ly12-p-037",
     "curriculumCode": "AC9E1LY12",
     "bank": "practice",
-    "skill": "ac9e1ly12 07 apply",
+    "skill": "understand that a letter can represent more than one sound and that a syllable must contain a vowel sound",
     "printable": true,
     "type": "single",
-    "question": "Which choice would best use this skill in a new example?",
-    "audioPrompt": "Which choice would best use this skill in a new example?",
-    "visual": "📖 Explain boat; 🔎 vowel sound; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Explain boat; 🔎 vowel sound; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly12.svg#ac9e1ly12-p-013\"></use></svg>",
+    "question": "Mia claps “paper”. How many syllables?",
+    "audioPrompt": "Mia claps “paper”. How many syllables?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly12.svg#ac9e1ly12-p-013",
-      "alt_text": "📖 Explain boat; 🔎 vowel sound; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Assume a letter always has one sound.",
-      "Oa works together to represent one vowel sound in one spoken beat",
-      "Do not listen for vowel sounds."
+      "2",
+      "1",
+      "3"
     ],
-    "correct": 1,
-    "explanation": "Oa works together to represent one vowel sound in one spoken beat uses the skill correctly. Some letters represent different sounds in different words.\nHint: Some letters represent different sounds in different words.",
+    "correct": 0,
+    "explanation": "2 is the best answer.",
     "structuredExplanation": {
-      "summary": "Oa works together to represent one vowel sound in one spoken beat uses the skill correctly. Some letters represent different sounds in different words.",
-      "hint": "Some letters represent different sounds in different words."
+      "summary": "2 is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 37
   },
   {
     "id": "ac9e1ly12-p-038",
     "curriculumCode": "AC9E1LY12",
     "bank": "practice",
-    "skill": "ac9e1ly12 08 apply",
+    "skill": "understand that a letter can represent more than one sound and that a syllable must contain a vowel sound",
     "printable": true,
     "type": "single",
-    "question": "Which choice would best use this skill in a new example?",
-    "audioPrompt": "Which choice would best use this skill in a new example?",
-    "visual": "📖 Compare letter a; 🔎 syllable; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Compare letter a; 🔎 syllable; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly12.svg#ac9e1ly12-p-015\"></use></svg>",
+    "question": "Ben checks the letter i. In which pair does it make two sounds?",
+    "audioPrompt": "Ben checks the letter i. In which pair does it make two sounds?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly12.svg#ac9e1ly12-p-015",
-      "alt_text": "📖 Compare letter a; 🔎 syllable; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Do not listen for vowel sounds.",
-      "Make a syllable with no vowel sound.",
-      "Cat has short /a/; apron begins long /ā/ in standard pronunciation; whole-word pattern/context selects sound"
+      "tiger – tiger",
+      "sit – tiger",
+      "sit – sit"
     ],
-    "correct": 2,
-    "explanation": "Cat has short /a/; apron begins long /ā/ in standard pronunciation; whole-word pattern/context selects sound uses the skill correctly. Listen for vowel sounds.\nHint: Listen for vowel sounds.",
+    "correct": 1,
+    "explanation": "sit – tiger is the best answer.",
     "structuredExplanation": {
-      "summary": "Cat has short /a/; apron begins long /ā/ in standard pronunciation; whole-word pattern/context selects sound uses the skill correctly. Listen for vowel sounds.",
-      "hint": "Listen for vowel sounds."
+      "summary": "sit – tiger is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 38
   },
   {
     "id": "ac9e1ly12-p-039",
     "curriculumCode": "AC9E1LY12",
     "bank": "practice",
-    "skill": "ac9e1ly12 09 apply",
+    "skill": "understand that a letter can represent more than one sound and that a syllable must contain a vowel sound",
     "printable": true,
     "type": "single",
-    "question": "Which choice would best use this skill in a new example?",
-    "audioPrompt": "Which choice would best use this skill in a new example?",
-    "visual": "📖 Find the vowel sound; 🔎 clap; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Find the vowel sound; 🔎 clap; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly12.svg#ac9e1ly12-p-017\"></use></svg>",
+    "question": "Sam claps “picnic”. How many syllables?",
+    "audioPrompt": "Sam claps “picnic”. How many syllables?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly12.svg#ac9e1ly12-p-017",
-      "alt_text": "📖 Find the vowel sound; 🔎 clap; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "One syllable containing short /i/",
-      "Make a syllable with no vowel sound.",
-      "Assume a letter always has one sound."
+      "3",
+      "1",
+      "2"
     ],
-    "correct": 0,
-    "explanation": "One syllable containing short /i/ uses the skill correctly. Every syllable needs a vowel sound.\nHint: Every syllable needs a vowel sound.",
+    "correct": 2,
+    "explanation": "2 is the best answer.",
     "structuredExplanation": {
-      "summary": "One syllable containing short /i/ uses the skill correctly. Every syllable needs a vowel sound.",
-      "hint": "Every syllable needs a vowel sound."
+      "summary": "2 is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 39
   },
   {
     "id": "ac9e1ly12-p-040",
     "curriculumCode": "AC9E1LY12",
     "bank": "practice",
-    "skill": "ac9e1ly12 10 apply",
+    "skill": "understand that a letter can represent more than one sound and that a syllable must contain a vowel sound",
     "printable": true,
     "type": "single",
-    "question": "Which choice would best use this skill in a new example?",
-    "audioPrompt": "Which choice would best use this skill in a new example?",
-    "visual": "📖 Match letter sounds; 🔎 word part; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Match letter sounds; 🔎 word part; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly12.svg#ac9e1ly12-p-019\"></use></svg>",
+    "question": "Kim checks the letter e. In which pair does it make two sounds?",
+    "audioPrompt": "Kim checks the letter e. In which pair does it make two sounds?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly12.svg#ac9e1ly12-p-019",
-      "alt_text": "📖 Match letter sounds; 🔎 word part; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Goat g ↔ /j/; giant g ↔ /ee/; happy y ↔ /g/",
-      "Goat g ↔ /g/; giant g ↔ /j/; happy y ↔ /ee/",
-      "Assume a letter always has one sound."
+      "bed – bed",
+      "bed – he",
+      "he – he"
     ],
     "correct": 1,
-    "explanation": "Goat g ↔ /g/; giant g ↔ /j/; happy y ↔ /ee/ uses the skill correctly. Some letters represent different sounds in different words.\nHint: Some letters represent different sounds in different words.",
+    "explanation": "bed – he is the best answer.",
     "structuredExplanation": {
-      "summary": "Goat g ↔ /g/; giant g ↔ /j/; happy y ↔ /ee/ uses the skill correctly. Some letters represent different sounds in different words.",
-      "hint": "Some letters represent different sounds in different words."
+      "summary": "bed – he is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 40
+  },
+  {
+    "id": "ac9e1ly12-p-041",
+    "curriculumCode": "AC9E1LY12",
+    "bank": "practice",
+    "skill": "understand that a letter can represent more than one sound and that a syllable must contain a vowel sound",
+    "printable": true,
+    "type": "single",
+    "question": "Leo claps “cat”. How many syllables?",
+    "audioPrompt": "Leo claps “cat”. How many syllables?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "3",
+      "2",
+      "1"
+    ],
+    "correct": 2,
+    "explanation": "1 is the best answer.",
+    "structuredExplanation": {
+      "summary": "1 is the best answer."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 41,
+    "qualitySchema": "reviewed-year1-english-v1"
+  },
+  {
+    "id": "ac9e1ly12-p-042",
+    "curriculumCode": "AC9E1LY12",
+    "bank": "practice",
+    "skill": "understand that a letter can represent more than one sound and that a syllable must contain a vowel sound",
+    "printable": true,
+    "type": "single",
+    "question": "Zoe checks the letter g. In which pair does it make two sounds?",
+    "audioPrompt": "Zoe checks the letter g. In which pair does it make two sounds?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "gem – gem",
+      "go – go",
+      "gem – go"
+    ],
+    "correct": 2,
+    "explanation": "gem – go is the best answer.",
+    "structuredExplanation": {
+      "summary": "gem – go is the best answer."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 42,
+    "qualitySchema": "reviewed-year1-english-v1"
+  },
+  {
+    "id": "ac9e1ly12-p-043",
+    "curriculumCode": "AC9E1LY12",
+    "bank": "practice",
+    "skill": "understand that a letter can represent more than one sound and that a syllable must contain a vowel sound",
+    "printable": true,
+    "type": "single",
+    "question": "Max claps “sunset”. How many syllables?",
+    "audioPrompt": "Max claps “sunset”. How many syllables?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "2",
+      "3",
+      "1"
+    ],
+    "correct": 0,
+    "explanation": "2 is the best answer.",
+    "structuredExplanation": {
+      "summary": "2 is the best answer."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 43,
+    "qualitySchema": "reviewed-year1-english-v1"
+  },
+  {
+    "id": "ac9e1ly12-p-044",
+    "curriculumCode": "AC9E1LY12",
+    "bank": "practice",
+    "skill": "understand that a letter can represent more than one sound and that a syllable must contain a vowel sound",
+    "printable": true,
+    "type": "single",
+    "question": "Mia checks the letter a. In which pair does it make two sounds?",
+    "audioPrompt": "Mia checks the letter a. In which pair does it make two sounds?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "apple – apple",
+      "acorn – acorn",
+      "apple – acorn"
+    ],
+    "correct": 2,
+    "explanation": "apple – acorn is the best answer.",
+    "structuredExplanation": {
+      "summary": "apple – acorn is the best answer."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 44,
+    "qualitySchema": "reviewed-year1-english-v1"
+  },
+  {
+    "id": "ac9e1ly12-p-045",
+    "curriculumCode": "AC9E1LY12",
+    "bank": "practice",
+    "skill": "understand that a letter can represent more than one sound and that a syllable must contain a vowel sound",
+    "printable": true,
+    "type": "single",
+    "question": "Ben claps “paper”. How many syllables?",
+    "audioPrompt": "Ben claps “paper”. How many syllables?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "2",
+      "1",
+      "3"
+    ],
+    "correct": 0,
+    "explanation": "2 is the best answer.",
+    "structuredExplanation": {
+      "summary": "2 is the best answer."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 45,
+    "qualitySchema": "reviewed-year1-english-v1"
+  },
+  {
+    "id": "ac9e1ly12-p-046",
+    "curriculumCode": "AC9E1LY12",
+    "bank": "practice",
+    "skill": "understand that a letter can represent more than one sound and that a syllable must contain a vowel sound",
+    "printable": true,
+    "type": "single",
+    "question": "Sam checks the letter i. In which pair does it make two sounds?",
+    "audioPrompt": "Sam checks the letter i. In which pair does it make two sounds?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "sit – sit",
+      "tiger – tiger",
+      "sit – tiger"
+    ],
+    "correct": 2,
+    "explanation": "sit – tiger is the best answer.",
+    "structuredExplanation": {
+      "summary": "sit – tiger is the best answer."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 46,
+    "qualitySchema": "reviewed-year1-english-v1"
+  },
+  {
+    "id": "ac9e1ly12-p-047",
+    "curriculumCode": "AC9E1LY12",
+    "bank": "practice",
+    "skill": "understand that a letter can represent more than one sound and that a syllable must contain a vowel sound",
+    "printable": true,
+    "type": "single",
+    "question": "Kim claps “picnic”. How many syllables?",
+    "audioPrompt": "Kim claps “picnic”. How many syllables?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "3",
+      "2",
+      "1"
+    ],
+    "correct": 1,
+    "explanation": "2 is the best answer.",
+    "structuredExplanation": {
+      "summary": "2 is the best answer."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 47,
+    "qualitySchema": "reviewed-year1-english-v1"
+  },
+  {
+    "id": "ac9e1ly12-p-048",
+    "curriculumCode": "AC9E1LY12",
+    "bank": "practice",
+    "skill": "understand that a letter can represent more than one sound and that a syllable must contain a vowel sound",
+    "printable": true,
+    "type": "single",
+    "question": "Ava checks the letter e. In which pair does it make two sounds?",
+    "audioPrompt": "Ava checks the letter e. In which pair does it make two sounds?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "he – he",
+      "bed – bed",
+      "bed – he"
+    ],
+    "correct": 2,
+    "explanation": "bed – he is the best answer.",
+    "structuredExplanation": {
+      "summary": "bed – he is the best answer."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 48,
+    "qualitySchema": "reviewed-year1-english-v1"
   }
 ];
-window.quizQuestions = window.skillrPracticeQuestions;

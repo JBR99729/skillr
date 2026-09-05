@@ -4,466 +4,480 @@ window.skillrTestQuestions = [
     "id": "ac9e1la09-t-001",
     "curriculumCode": "AC9E1LA09",
     "bank": "test",
-    "skill": "ac9e1la09 01 answer",
+    "skill": "recognise the vocabulary of learning area topics",
     "printable": true,
     "type": "single",
-    "question": "Which response would correctly show word teaching?",
-    "audioPrompt": "Which response would correctly show word teaching?",
-    "visual": "📖 show word teaching; 🔎 topic word; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 show word teaching; 🔎 topic word; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la09.svg#ac9e1la09-t-001\"></use></svg>",
+    "question": "Zoe is learning about maths. Which word belongs?",
+    "audioPrompt": "Zoe is learning about maths. Which word belongs?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la09.svg#ac9e1la09-t-001",
-      "alt_text": "📖 show word teaching; 🔎 topic word; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Defines ordered events/terms, gives valid sequence and an unordered/non-sequence example",
-      "Use only the word's sound and not its meaning.",
-      "Do not check the subject meaning."
+      "mix",
+      "add",
+      "cup"
     ],
-    "correct": 0,
-    "explanation": "Defines ordered events/terms, gives valid sequence and an unordered/non-sequence example This matches the task.\nHint: Connect the word to meaning and topic.",
+    "correct": 1,
+    "explanation": "add is the best answer.",
     "structuredExplanation": {
-      "summary": "Defines ordered events/terms, gives valid sequence and an unordered/non-sequence example This matches the task.",
-      "hint": "Connect the word to meaning and topic."
+      "summary": "add is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 1
   },
   {
     "id": "ac9e1la09-t-002",
     "curriculumCode": "AC9E1LA09",
     "bank": "test",
-    "skill": "ac9e1la09 01 strategy",
+    "skill": "recognise the vocabulary of learning area topics",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you show word teaching?",
-    "audioPrompt": "Which tip would help you show word teaching?",
-    "visual": "🧠 show word teaching; ➡️ Hear word; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 show word teaching; ➡️ Hear word; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la09.svg#ac9e1la09-t-002\"></use></svg>",
+    "question": "Max is learning about science. Which word belongs?",
+    "audioPrompt": "Max is learning about science. Which word belongs?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la09.svg#ac9e1la09-t-002",
-      "alt_text": "🧠 show word teaching; ➡️ Hear word; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Do not check the subject meaning.",
-      "Connect the word to meaning and topic.",
-      "Do not use in sentence."
+      "rhyme",
+      "observe",
+      "book"
     ],
     "correct": 1,
-    "explanation": "Connect the word to meaning and topic.\nHint: Connect the word to meaning and topic.",
+    "explanation": "observe is the best answer.",
     "structuredExplanation": {
-      "summary": "Connect the word to meaning and topic.",
-      "hint": "Connect the word to meaning and topic."
+      "summary": "observe is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 2
   },
   {
     "id": "ac9e1la09-t-003",
     "curriculumCode": "AC9E1LA09",
     "bank": "test",
-    "skill": "ac9e1la09 02 answer",
+    "skill": "recognise the vocabulary of learning area topics",
     "printable": true,
     "type": "single",
-    "question": "Which response would correctly draw a mini word wall?",
-    "audioPrompt": "Which response would correctly draw a mini word wall?",
-    "visual": "📖 Draw a mini word wall; 🔎 meaning; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Draw a mini word wall; 🔎 meaning; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la09.svg#ac9e1la09-t-003\"></use></svg>",
+    "question": "Mia is learning about maps. Which word belongs?",
+    "audioPrompt": "Mia is learning about maps. Which word belongs?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la09.svg#ac9e1la09-t-003",
-      "alt_text": "📖 Draw a mini word wall; 🔎 meaning; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Do not check the subject meaning.",
-      "Do not use in sentence.",
-      "All three are correctly defined/illustrated and assigned to suitable subjects"
+      "character",
+      "ball",
+      "direction"
     ],
     "correct": 2,
-    "explanation": "All three are correctly defined/illustrated and assigned to suitable subjects This matches the task.\nHint: Check the subject meaning.",
+    "explanation": "direction is the best answer.",
     "structuredExplanation": {
-      "summary": "All three are correctly defined/illustrated and assigned to suitable subjects This matches the task.",
-      "hint": "Check the subject meaning."
+      "summary": "direction is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 3
   },
   {
     "id": "ac9e1la09-t-004",
     "curriculumCode": "AC9E1LA09",
     "bank": "test",
-    "skill": "ac9e1la09 02 strategy",
+    "skill": "recognise the vocabulary of learning area topics",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you draw a mini word wall?",
-    "audioPrompt": "Which tip would help you draw a mini word wall?",
-    "visual": "🧠 Draw a mini word wall; ➡️ Link to topic; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Draw a mini word wall; ➡️ Link to topic; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la09.svg#ac9e1la09-t-004\"></use></svg>",
+    "question": "Ben is learning about weather. Which word belongs?",
+    "audioPrompt": "Ben is learning about weather. Which word belongs?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la09.svg#ac9e1la09-t-004",
-      "alt_text": "🧠 Draw a mini word wall; ➡️ Link to topic; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Use this routine: Hear word → Link to topic → Use in sentence → Explain.",
-      "Do not use in sentence.",
-      "Use only the word's sound and not its meaning."
+      "chapter",
+      "kite",
+      "rainfall"
     ],
-    "correct": 0,
-    "explanation": "Use this routine: Hear word → Link to topic → Use in sentence → Explain.\nHint: Check the subject meaning.",
+    "correct": 2,
+    "explanation": "rainfall is the best answer.",
     "structuredExplanation": {
-      "summary": "Use this routine: Hear word → Link to topic → Use in sentence → Explain.",
-      "hint": "Check the subject meaning."
+      "summary": "rainfall is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 4
   },
   {
     "id": "ac9e1la09-t-005",
     "curriculumCode": "AC9E1LA09",
     "bank": "test",
-    "skill": "ac9e1la09 03 answer",
+    "skill": "recognise the vocabulary of learning area topics",
     "printable": true,
     "type": "single",
-    "question": "Which response would correctly correct vague subject words?",
-    "audioPrompt": "Which response would correctly correct vague subject words?",
-    "visual": "📖 Correct vague subject words; 🔎 subject; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Correct vague subject words; 🔎 subject; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la09.svg#ac9e1la09-t-005\"></use></svg>",
+    "question": "Sam is learning about plants. Which word belongs?",
+    "audioPrompt": "Sam is learning about plants. Which word belongs?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la09.svg#ac9e1la09-t-005",
-      "alt_text": "📖 Correct vague subject words; 🔎 subject; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "The stuff did something",
-      "Example uses material, water/drop, absorbed/repelled, observation/result accurately",
-      "Do not use in sentence."
+      "roots",
+      "sock",
+      "full stop"
     ],
-    "correct": 1,
-    "explanation": "Example uses material, water/drop, absorbed/repelled, observation/result accurately This matches the task.\nHint: Practise a sentence, not just a definition.",
+    "correct": 0,
+    "explanation": "roots is the best answer.",
     "structuredExplanation": {
-      "summary": "Example uses material, water/drop, absorbed/repelled, observation/result accurately This matches the task.",
-      "hint": "Practise a sentence, not just a definition."
+      "summary": "roots is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 5
   },
   {
     "id": "ac9e1la09-t-006",
     "curriculumCode": "AC9E1LA09",
     "bank": "test",
-    "skill": "ac9e1la09 03 strategy",
+    "skill": "recognise the vocabulary of learning area topics",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you correct vague subject words?",
-    "audioPrompt": "Which tip would help you correct vague subject words?",
-    "visual": "🧠 Correct vague subject words; ➡️ Use in sentence; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Correct vague subject words; ➡️ Use in sentence; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la09.svg#ac9e1la09-t-006\"></use></svg>",
+    "question": "Kim is learning about time. Which word belongs?",
+    "audioPrompt": "Kim is learning about time. Which word belongs?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la09.svg#ac9e1la09-t-006",
-      "alt_text": "🧠 Correct vague subject words; ➡️ Use in sentence; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Use only the word's sound and not its meaning.",
-      "Do not check the subject meaning.",
-      "Look for subject and check the whole example."
+      "hour",
+      "habitat",
+      "map"
     ],
-    "correct": 2,
-    "explanation": "Look for subject and check the whole example.\nHint: Practise a sentence, not just a definition.",
+    "correct": 0,
+    "explanation": "hour is the best answer.",
     "structuredExplanation": {
-      "summary": "Look for subject and check the whole example.",
-      "hint": "Practise a sentence, not just a definition."
+      "summary": "hour is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 6
   },
   {
     "id": "ac9e1la09-t-007",
     "curriculumCode": "AC9E1LA09",
     "bank": "test",
-    "skill": "ac9e1la09 04 answer",
+    "skill": "recognise the vocabulary of learning area topics",
     "printable": true,
     "type": "single",
-    "question": "Which response would correctly explain one word across topics?",
-    "audioPrompt": "Which response would correctly explain one word across topics?",
-    "visual": "📖 Explain one word across topics; 🔎 sentence; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Explain one word across topics; 🔎 sentence; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la09.svg#ac9e1la09-t-007\"></use></svg>",
+    "question": "Ava is learning about shapes. Which word belongs?",
+    "audioPrompt": "Ava is learning about shapes. Which word belongs?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la09.svg#ac9e1la09-t-007",
-      "alt_text": "📖 Explain one word across topics; 🔎 sentence; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Two accurate topic-linked uses and two context sentences showing distinct or connected meanings",
-      "Use only the word's sound and not its meaning.",
-      "Do not check the subject meaning."
+      "hat",
+      "author",
+      "corner"
     ],
-    "correct": 0,
-    "explanation": "Two accurate topic-linked uses and two context sentences showing distinct or connected meanings This matches the task.\nHint: Connect the word to meaning and topic.",
+    "correct": 2,
+    "explanation": "corner is the best answer.",
     "structuredExplanation": {
-      "summary": "Two accurate topic-linked uses and two context sentences showing distinct or connected meanings This matches the task.",
-      "hint": "Connect the word to meaning and topic."
+      "summary": "corner is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 7
   },
   {
     "id": "ac9e1la09-t-008",
     "curriculumCode": "AC9E1LA09",
     "bank": "test",
-    "skill": "ac9e1la09 04 strategy",
+    "skill": "recognise the vocabulary of learning area topics",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you explain one word across topics?",
-    "audioPrompt": "Which tip would help you explain one word across topics?",
-    "visual": "🧠 Explain one word across topics; ➡️ Explain; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Explain one word across topics; ➡️ Explain; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la09.svg#ac9e1la09-t-008\"></use></svg>",
+    "question": "Leo is learning about animals. Which word belongs?",
+    "audioPrompt": "Leo is learning about animals. Which word belongs?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la09.svg#ac9e1la09-t-008",
-      "alt_text": "🧠 Explain one word across topics; ➡️ Explain; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Do not check the subject meaning.",
-      "Check that you can use in sentence.",
-      "Do not use in sentence."
+      "bag",
+      "total",
+      "habitat"
     ],
-    "correct": 1,
-    "explanation": "Check that you can use in sentence.\nHint: Connect the word to meaning and topic.",
+    "correct": 2,
+    "explanation": "habitat is the best answer.",
     "structuredExplanation": {
-      "summary": "Check that you can use in sentence.",
-      "hint": "Connect the word to meaning and topic."
+      "summary": "habitat is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 8
   },
   {
     "id": "ac9e1la09-t-009",
     "curriculumCode": "AC9E1LA09",
     "bank": "test",
-    "skill": "ac9e1la09 01 test verify",
+    "skill": "recognise the vocabulary of learning area topics",
     "printable": true,
     "type": "single",
-    "question": "A classmate is unsure about this example. Which tip would help them check it carefully?",
-    "audioPrompt": "A classmate is unsure about this example. Which tip would help them check it carefully?",
-    "visual": "🧠 show word teaching; ➡️ Hear word; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 show word teaching; ➡️ Hear word; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la09.svg#ac9e1la09-t-002\"></use></svg>",
+    "question": "Max is learning about maths. Which word belongs?",
+    "audioPrompt": "Max is learning about maths. Which word belongs?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la09.svg#ac9e1la09-t-002",
-      "alt_text": "🧠 show word teaching; ➡️ Hear word; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Use only the word's sound and not its meaning.",
-      "Do not check the subject meaning.",
-      "Connect the word to meaning and topic."
+      "cup",
+      "add",
+      "mix"
     ],
-    "correct": 2,
-    "explanation": "Connect the word to meaning and topic. is the useful check. Connect the word to meaning and topic.\nHint: Connect the word to meaning and topic.",
+    "correct": 1,
+    "explanation": "add is the best answer.",
     "structuredExplanation": {
-      "summary": "Connect the word to meaning and topic. is the useful check. Connect the word to meaning and topic.",
-      "hint": "Connect the word to meaning and topic."
+      "summary": "add is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 9
   },
   {
     "id": "ac9e1la09-t-010",
     "curriculumCode": "AC9E1LA09",
     "bank": "test",
-    "skill": "ac9e1la09 02 test verify",
+    "skill": "recognise the vocabulary of learning area topics",
     "printable": true,
     "type": "single",
-    "question": "A classmate is unsure about this example. Which tip would help them check it carefully?",
-    "audioPrompt": "A classmate is unsure about this example. Which tip would help them check it carefully?",
-    "visual": "🧠 Draw a mini word wall; ➡️ Link to topic; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Draw a mini word wall; ➡️ Link to topic; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la09.svg#ac9e1la09-t-004\"></use></svg>",
+    "question": "Mia is learning about science. Which word belongs?",
+    "audioPrompt": "Mia is learning about science. Which word belongs?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la09.svg#ac9e1la09-t-004",
-      "alt_text": "🧠 Draw a mini word wall; ➡️ Link to topic; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Use this routine: Hear word → Link to topic → Use in sentence → Explain.",
-      "Do not check the subject meaning.",
-      "Do not use in sentence."
+      "book",
+      "rhyme",
+      "observe"
     ],
-    "correct": 0,
-    "explanation": "Use this routine: Hear word → Link to topic → Use in sentence → Explain. is the useful check. Check the subject meaning.\nHint: Check the subject meaning.",
+    "correct": 2,
+    "explanation": "observe is the best answer.",
     "structuredExplanation": {
-      "summary": "Use this routine: Hear word → Link to topic → Use in sentence → Explain. is the useful check. Check the subject meaning.",
-      "hint": "Check the subject meaning."
+      "summary": "observe is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 10
   },
   {
     "id": "ac9e1la09-t-011",
     "curriculumCode": "AC9E1LA09",
     "bank": "test",
-    "skill": "ac9e1la09 03 test verify",
+    "skill": "recognise the vocabulary of learning area topics",
     "printable": true,
     "type": "single",
-    "question": "A classmate is unsure about this example. Which tip would help them check it carefully?",
-    "audioPrompt": "A classmate is unsure about this example. Which tip would help them check it carefully?",
-    "visual": "🧠 Correct vague subject words; ➡️ Use in sentence; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Correct vague subject words; ➡️ Use in sentence; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la09.svg#ac9e1la09-t-006\"></use></svg>",
+    "question": "Ben is learning about maps. Which word belongs?",
+    "audioPrompt": "Ben is learning about maps. Which word belongs?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la09.svg#ac9e1la09-t-006",
-      "alt_text": "🧠 Correct vague subject words; ➡️ Use in sentence; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "The stuff did something",
-      "Look for subject and check the whole example.",
-      "Do not use in sentence."
+      "ball",
+      "character",
+      "direction"
     ],
-    "correct": 1,
-    "explanation": "Look for subject and check the whole example. is the useful check. Practise a sentence, not just a definition.\nHint: Practise a sentence, not just a definition.",
+    "correct": 2,
+    "explanation": "direction is the best answer.",
     "structuredExplanation": {
-      "summary": "Look for subject and check the whole example. is the useful check. Practise a sentence, not just a definition.",
-      "hint": "Practise a sentence, not just a definition."
+      "summary": "direction is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 11
   },
   {
     "id": "ac9e1la09-t-012",
     "curriculumCode": "AC9E1LA09",
     "bank": "test",
-    "skill": "ac9e1la09 04 test verify",
+    "skill": "recognise the vocabulary of learning area topics",
     "printable": true,
     "type": "single",
-    "question": "A classmate is unsure about this example. Which tip would help them check it carefully?",
-    "audioPrompt": "A classmate is unsure about this example. Which tip would help them check it carefully?",
-    "visual": "🧠 Explain one word across topics; ➡️ Explain; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Explain one word across topics; ➡️ Explain; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la09.svg#ac9e1la09-t-008\"></use></svg>",
+    "question": "Sam is learning about weather. Which word belongs?",
+    "audioPrompt": "Sam is learning about weather. Which word belongs?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la09.svg#ac9e1la09-t-008",
-      "alt_text": "🧠 Explain one word across topics; ➡️ Explain; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Use only the word's sound and not its meaning.",
-      "Do not check the subject meaning.",
-      "Check that you can use in sentence."
+      "chapter",
+      "kite",
+      "rainfall"
     ],
     "correct": 2,
-    "explanation": "Check that you can use in sentence. is the useful check. Connect the word to meaning and topic.\nHint: Connect the word to meaning and topic.",
+    "explanation": "rainfall is the best answer.",
     "structuredExplanation": {
-      "summary": "Check that you can use in sentence. is the useful check. Connect the word to meaning and topic.",
-      "hint": "Connect the word to meaning and topic."
+      "summary": "rainfall is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 12
   },
   {
     "id": "ac9e1la09-t-013",
     "curriculumCode": "AC9E1LA09",
     "bank": "test",
-    "skill": "ac9e1la09 01 test apply",
+    "skill": "recognise the vocabulary of learning area topics",
     "printable": true,
     "type": "single",
-    "question": "A classmate chose “Use only the word's sound and not its meaning.”. Which answer would improve their response?",
-    "audioPrompt": "A classmate chose Use only the word's sound and not its meaning.. Which answer would improve their response?",
-    "visual": "📖 show word teaching; 🔎 topic word; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 show word teaching; 🔎 topic word; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la09.svg#ac9e1la09-t-001\"></use></svg>",
+    "question": "Kim is learning about plants. Which word belongs?",
+    "audioPrompt": "Kim is learning about plants. Which word belongs?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la09.svg#ac9e1la09-t-001",
-      "alt_text": "📖 show word teaching; 🔎 topic word; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Defines ordered events/terms, gives valid sequence and an unordered/non-sequence example",
-      "Use only the word's sound and not its meaning.",
-      "Do not check the subject meaning."
+      "roots",
+      "full stop",
+      "sock"
     ],
     "correct": 0,
-    "explanation": "Defines ordered events/terms, gives valid sequence and an unordered/non-sequence example is the stronger response because it uses the target skill. Connect the word to meaning and topic.\nHint: Connect the word to meaning and topic.",
+    "explanation": "roots is the best answer.",
     "structuredExplanation": {
-      "summary": "Defines ordered events/terms, gives valid sequence and an unordered/non-sequence example is the stronger response because it uses the target skill. Connect the word to meaning and topic.",
-      "hint": "Connect the word to meaning and topic."
+      "summary": "roots is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 13
   },
   {
     "id": "ac9e1la09-t-014",
     "curriculumCode": "AC9E1LA09",
     "bank": "test",
-    "skill": "ac9e1la09 02 test apply",
+    "skill": "recognise the vocabulary of learning area topics",
     "printable": true,
     "type": "single",
-    "question": "A classmate chose “Do not check the subject meaning.”. Which answer would improve their response?",
-    "audioPrompt": "A classmate chose Do not check the subject meaning.. Which answer would improve their response?",
-    "visual": "📖 Draw a mini word wall; 🔎 meaning; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Draw a mini word wall; 🔎 meaning; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la09.svg#ac9e1la09-t-003\"></use></svg>",
+    "question": "Ava is learning about time. Which word belongs?",
+    "audioPrompt": "Ava is learning about time. Which word belongs?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la09.svg#ac9e1la09-t-003",
-      "alt_text": "📖 Draw a mini word wall; 🔎 meaning; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Do not check the subject meaning.",
-      "All three are correctly defined/illustrated and assigned to suitable subjects",
-      "Do not use in sentence."
+      "hour",
+      "map",
+      "habitat"
     ],
-    "correct": 1,
-    "explanation": "All three are correctly defined/illustrated and assigned to suitable subjects is the stronger response because it uses the target skill. Check the subject meaning.\nHint: Check the subject meaning.",
+    "correct": 0,
+    "explanation": "hour is the best answer.",
     "structuredExplanation": {
-      "summary": "All three are correctly defined/illustrated and assigned to suitable subjects is the stronger response because it uses the target skill. Check the subject meaning.",
-      "hint": "Check the subject meaning."
+      "summary": "hour is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 14
   },
   {
     "id": "ac9e1la09-t-015",
     "curriculumCode": "AC9E1LA09",
     "bank": "test",
-    "skill": "ac9e1la09 03 test apply",
+    "skill": "recognise the vocabulary of learning area topics",
     "printable": true,
     "type": "single",
-    "question": "A classmate chose “The stuff did something”. Which answer would improve their response?",
-    "audioPrompt": "A classmate chose The stuff did something. Which answer would improve their response?",
-    "visual": "📖 Correct vague subject words; 🔎 subject; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Correct vague subject words; 🔎 subject; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la09.svg#ac9e1la09-t-005\"></use></svg>",
+    "question": "Leo is learning about shapes. Which word belongs?",
+    "audioPrompt": "Leo is learning about shapes. Which word belongs?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la09.svg#ac9e1la09-t-005",
-      "alt_text": "📖 Correct vague subject words; 🔎 subject; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "The stuff did something",
-      "Do not use in sentence.",
-      "Example uses material, water/drop, absorbed/repelled, observation/result accurately"
+      "author",
+      "hat",
+      "corner"
     ],
     "correct": 2,
-    "explanation": "Example uses material, water/drop, absorbed/repelled, observation/result accurately is the stronger response because it uses the target skill. Practise a sentence, not just a definition.\nHint: Practise a sentence, not just a definition.",
+    "explanation": "corner is the best answer.",
     "structuredExplanation": {
-      "summary": "Example uses material, water/drop, absorbed/repelled, observation/result accurately is the stronger response because it uses the target skill. Practise a sentence, not just a definition.",
-      "hint": "Practise a sentence, not just a definition."
+      "summary": "corner is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 15
   },
   {
     "id": "ac9e1la09-t-016",
     "curriculumCode": "AC9E1LA09",
     "bank": "test",
-    "skill": "ac9e1la09 04 test apply",
+    "skill": "recognise the vocabulary of learning area topics",
     "printable": true,
     "type": "single",
-    "question": "A classmate chose “Use only the word's sound and not its meaning.”. Which answer would improve their response?",
-    "audioPrompt": "A classmate chose Use only the word's sound and not its meaning.. Which answer would improve their response?",
-    "visual": "📖 Explain one word across topics; 🔎 sentence; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Explain one word across topics; 🔎 sentence; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la09.svg#ac9e1la09-t-007\"></use></svg>",
+    "question": "Zoe is learning about animals. Which word belongs?",
+    "audioPrompt": "Zoe is learning about animals. Which word belongs?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la09.svg#ac9e1la09-t-007",
-      "alt_text": "📖 Explain one word across topics; 🔎 sentence; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Two accurate topic-linked uses and two context sentences showing distinct or connected meanings",
-      "Use only the word's sound and not its meaning.",
-      "Do not check the subject meaning."
+      "total",
+      "bag",
+      "habitat"
     ],
-    "correct": 0,
-    "explanation": "Two accurate topic-linked uses and two context sentences showing distinct or connected meanings is the stronger response because it uses the target skill. Connect the word to meaning and topic.\nHint: Connect the word to meaning and topic.",
+    "correct": 2,
+    "explanation": "habitat is the best answer.",
     "structuredExplanation": {
-      "summary": "Two accurate topic-linked uses and two context sentences showing distinct or connected meanings is the stronger response because it uses the target skill. Connect the word to meaning and topic.",
-      "hint": "Connect the word to meaning and topic."
+      "summary": "habitat is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 16
   }
 ];
-window.skillrExamQuestions = window.skillrTestQuestions;
-window.quizQuestions = window.skillrTestQuestions;

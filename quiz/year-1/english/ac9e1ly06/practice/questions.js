@@ -4,1161 +4,1440 @@ window.skillrPracticeQuestions = [
     "id": "ac9e1ly06-p-001",
     "curriculumCode": "AC9E1LY06",
     "bank": "practice",
-    "skill": "ac9e1ly06 01 recognise",
+    "skill": "create and re-read to edit short written and/or multimodal texts to report on a topic, express an opinion or recount a real or imagined event",
     "printable": true,
     "type": "single",
-    "question": "Which response would correctly add a sentence boundary?",
-    "audioPrompt": "Which response would correctly add a sentence boundary?",
-    "visual": "📖 Add a sentence boundary; 🔎 plan; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Add a sentence boundary; 🔎 plan; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly06.svg#ac9e1ly06-p-001\"></use></svg>",
+    "question": "Which sentence clearly reports a fact about a cat?",
+    "audioPrompt": "Which sentence clearly reports a fact about a cat?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly06.svg#ac9e1ly06-p-001",
-      "alt_text": "📖 Add a sentence boundary; 🔎 plan; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "'The bird landed. It drank water.' with capital and full stops",
-      "The bird landed it drank water",
-      "Leave out re-reading."
+      "Cat food need.",
+      "I love the cat!",
+      "A cat needs food."
     ],
-    "correct": 0,
-    "explanation": "'The bird landed. It drank water.' with capital and full stops This matches the task.\nHint: Read the text aloud to catch missing words.",
+    "correct": 2,
+    "explanation": "A cat needs food. is the best answer.",
     "structuredExplanation": {
-      "summary": "'The bird landed. It drank water.' with capital and full stops This matches the task.",
-      "hint": "Read the text aloud to catch missing words."
+      "summary": "A cat needs food. is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 1
   },
   {
     "id": "ac9e1ly06-p-002",
     "curriculumCode": "AC9E1LY06",
     "bank": "practice",
-    "skill": "ac9e1ly06 02 recognise",
+    "skill": "create and re-read to edit short written and/or multimodal texts to report on a topic, express an opinion or recount a real or imagined event",
     "printable": true,
     "type": "single",
-    "question": "Which response would correctly match purposes and openings?",
-    "audioPrompt": "Which response would correctly match purposes and openings?",
-    "visual": "📖 Match purposes and openings; 🔎 write; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Match purposes and openings; 🔎 write; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly06.svg#ac9e1ly06-p-003\"></use></svg>",
+    "question": "Which sentence gives an opinion and a reason?",
+    "audioPrompt": "Which sentence gives an opinion and a reason?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly06.svg#ac9e1ly06-p-003",
-      "alt_text": "📖 Match purposes and openings; 🔎 write; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Koalas are ___",
-      "I think ___ because ___",
-      "Each purpose matched correctly"
+      "I like the shop.",
+      "I like the shop because it is fun.",
+      "The shop because."
     ],
-    "correct": 2,
-    "explanation": "Each purpose matched correctly This matches the task.\nHint: Check sentence, punctuation and spelling separately.",
+    "correct": 1,
+    "explanation": "I like the shop because it is fun. is the best answer.",
     "structuredExplanation": {
-      "summary": "Each purpose matched correctly This matches the task.",
-      "hint": "Check sentence, punctuation and spelling separately."
+      "summary": "I like the shop because it is fun. is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 2
   },
   {
     "id": "ac9e1ly06-p-003",
     "curriculumCode": "AC9E1LY06",
     "bank": "practice",
-    "skill": "ac9e1ly06 03 recognise",
+    "skill": "create and re-read to edit short written and/or multimodal texts to report on a topic, express an opinion or recount a real or imagined event",
     "printable": true,
     "type": "single",
-    "question": "Read the draft 'My dog fast.' aloud and improve it into a grammatical simple sentence.",
-    "audioPrompt": "Read the draft 'My dog fast.' aloud and improve it into a grammatical simple sentence.",
-    "visual": "📖 Reread aloud; 🔎 re-read; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Reread aloud; 🔎 re-read; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly06.svg#ac9e1ly06-p-005\"></use></svg>",
+    "question": "Which sentence could begin a recount?",
+    "audioPrompt": "Which sentence could begin a recount?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly06.svg#ac9e1ly06-p-005",
-      "alt_text": "📖 Reread aloud; 🔎 re-read; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "My dog fast",
-      "'My dog runs fast.' adds a suitable verb and complete idea",
-      "Leave out one precise word from the topic."
+      "Because the farm.",
+      "Yesterday, Sam went to the farm.",
+      "The end."
     ],
     "correct": 1,
-    "explanation": "'My dog runs fast.' adds a suitable verb and complete idea This matches the task.\nHint: Add one precise word from the topic.",
+    "explanation": "Yesterday, Sam went to the farm. is the best answer.",
     "structuredExplanation": {
-      "summary": "'My dog runs fast.' adds a suitable verb and complete idea This matches the task.",
-      "hint": "Add one precise word from the topic."
+      "summary": "Yesterday, Sam went to the farm. is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 3
   },
   {
     "id": "ac9e1ly06-p-004",
     "curriculumCode": "AC9E1LY06",
     "bank": "practice",
-    "skill": "ac9e1ly06 04 recognise",
+    "skill": "create and re-read to edit short written and/or multimodal texts to report on a topic, express an opinion or recount a real or imagined event",
     "printable": true,
     "type": "single",
-    "question": "Which response would correctly choose topic vocabulary?",
-    "audioPrompt": "Which response would correctly choose topic vocabulary?",
-    "visual": "📖 Choose topic vocabulary; 🔎 edit; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Choose topic vocabulary; 🔎 edit; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly06.svg#ac9e1ly06-p-007\"></use></svg>",
+    "question": "Read and edit: “kim has a book”",
+    "audioPrompt": "Read and edit: “kim has a book”",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly06.svg#ac9e1ly06-p-007",
-      "alt_text": "📖 Choose topic vocabulary; 🔎 edit; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "'The hand applied a push that moved the toy car.'",
-      "The thing pushed the car",
-      "Leave out re-reading."
+      "kim has a book",
+      "Kim has a book.",
+      "Kim has a book?"
     ],
-    "correct": 0,
-    "explanation": "'The hand applied a push that moved the toy car.' This matches the task.\nHint: Read the text aloud to catch missing words.",
+    "correct": 1,
+    "explanation": "Kim has a book. is the best answer.",
     "structuredExplanation": {
-      "summary": "'The hand applied a push that moved the toy car.' This matches the task.",
-      "hint": "Read the text aloud to catch missing words."
+      "summary": "Kim has a book. is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 4
   },
   {
     "id": "ac9e1ly06-p-005",
     "curriculumCode": "AC9E1LY06",
     "bank": "practice",
-    "skill": "ac9e1ly06 05 recognise",
+    "skill": "create and re-read to edit short written and/or multimodal texts to report on a topic, express an opinion or recount a real or imagined event",
     "printable": true,
     "type": "single",
-    "question": "Which response would correctly order the writing cycle?",
-    "audioPrompt": "Which response would correctly order the writing cycle?",
-    "visual": "📖 Order the writing cycle; 🔎 topic word; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Order the writing cycle; 🔎 topic word; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly06.svg#ac9e1ly06-p-009\"></use></svg>",
+    "question": "Which word fixes “The frog hop fast”?",
+    "audioPrompt": "Which word fixes “The frog hop fast”?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly06.svg#ac9e1ly06-p-009",
-      "alt_text": "📖 Order the writing cycle; 🔎 topic word; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "publish/share → reread/edit → draft → Choose purpose/topic",
-      "Do not check sentence, punctuation and spelling separately.",
-      "Choose purpose/topic → draft → reread/edit → publish/share"
+      "hoping",
+      "hops",
+      "hoppedly"
     ],
-    "correct": 2,
-    "explanation": "Choose purpose/topic → draft → reread/edit → publish/share This matches the task.\nHint: Check sentence, punctuation and spelling separately.",
+    "correct": 1,
+    "explanation": "hops is the best answer.",
     "structuredExplanation": {
-      "summary": "Choose purpose/topic → draft → reread/edit → publish/share This matches the task.",
-      "hint": "Check sentence, punctuation and spelling separately."
+      "summary": "hops is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 5
   },
   {
     "id": "ac9e1ly06-p-006",
     "curriculumCode": "AC9E1LY06",
     "bank": "practice",
-    "skill": "ac9e1ly06 06 recognise",
+    "skill": "create and re-read to edit short written and/or multimodal texts to report on a topic, express an opinion or recount a real or imagined event",
     "printable": true,
     "type": "single",
-    "question": "Which response would correctly draw a multimodal recount?",
-    "audioPrompt": "Which response would correctly draw a multimodal recount?",
-    "visual": "📖 Draw a multimodal recount; 🔎 plan; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Draw a multimodal recount; 🔎 plan; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly06.svg#ac9e1ly06-p-011\"></use></svg>",
+    "question": "Which sentence stays on the topic “My kite”?",
+    "audioPrompt": "Which sentence stays on the topic “My kite”?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly06.svg#ac9e1ly06-p-011",
-      "alt_text": "📖 Draw a multimodal recount; 🔎 plan; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Leave out one precise word from the topic.",
-      "Three logical events, complete sentences and appropriate time words/punctuation",
-      "Leave out re-reading."
+      "The pond is far.",
+      "I ate an apple.",
+      "My kite is blue."
     ],
-    "correct": 1,
-    "explanation": "Three logical events, complete sentences and appropriate time words/punctuation This matches the task.\nHint: Add one precise word from the topic.",
+    "correct": 2,
+    "explanation": "My kite is blue. is the best answer.",
     "structuredExplanation": {
-      "summary": "Three logical events, complete sentences and appropriate time words/punctuation This matches the task.",
-      "hint": "Add one precise word from the topic."
+      "summary": "My kite is blue. is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 6
   },
   {
     "id": "ac9e1ly06-p-007",
     "curriculumCode": "AC9E1LY06",
     "bank": "practice",
-    "skill": "ac9e1ly06 07 recognise",
+    "skill": "create and re-read to edit short written and/or multimodal texts to report on a topic, express an opinion or recount a real or imagined event",
     "printable": true,
     "type": "single",
-    "question": "Which response would correctly edit an opinion reason?",
-    "audioPrompt": "Which response would correctly edit an opinion reason?",
-    "visual": "📖 Edit an opinion reason; 🔎 write; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Edit an opinion reason; 🔎 write; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly06.svg#ac9e1ly06-p-013\"></use></svg>",
+    "question": "Which ending completes a recount?",
+    "audioPrompt": "Which ending completes a recount?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly06.svg#ac9e1ly06-p-013",
-      "alt_text": "📖 Edit an opinion reason; 🔎 write; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "'I like the park because its shady trees keep the play area cool.'",
-      "I like the park. It is good",
-      "Leave out re-reading."
+      "First, before first.",
+      "At last, we went home.",
+      "Blue is a colour."
     ],
-    "correct": 0,
-    "explanation": "'I like the park because its shady trees keep the play area cool.' This matches the task.\nHint: Read the text aloud to catch missing words.",
+    "correct": 1,
+    "explanation": "At last, we went home. is the best answer.",
     "structuredExplanation": {
-      "summary": "'I like the park because its shady trees keep the play area cool.' This matches the task.",
-      "hint": "Read the text aloud to catch missing words."
+      "summary": "At last, we went home. is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 7
   },
   {
     "id": "ac9e1ly06-p-008",
     "curriculumCode": "AC9E1LY06",
     "bank": "practice",
-    "skill": "ac9e1ly06 08 recognise",
+    "skill": "create and re-read to edit short written and/or multimodal texts to report on a topic, express an opinion or recount a real or imagined event",
     "printable": true,
     "type": "single",
-    "question": "Which response would correctly check a report paragraph?",
-    "audioPrompt": "Which response would correctly check a report paragraph?",
-    "visual": "📖 Check a report paragraph; 🔎 re-read; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Check a report paragraph; 🔎 re-read; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly06.svg#ac9e1ly06-p-015\"></use></svg>",
+    "question": "Which sentence is easiest to read?",
+    "audioPrompt": "Which sentence is easiest to read?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly06.svg#ac9e1ly06-p-015",
-      "alt_text": "📖 Check a report paragraph; 🔎 re-read; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "A habitat is a place living things live. it gives water food or shelter",
-      "Do not check sentence, punctuation and spelling separately.",
-      "'A habitat is a place where living things live. It can provide water, food or shelter.'"
+      "Goat mat sat the on.",
+      "The goat sat on the mat.",
+      "Thegoatsatonmat."
     ],
-    "correct": 2,
-    "explanation": "'A habitat is a place where living things live. It can provide water, food or shelter.' This matches the task.\nHint: Check sentence, punctuation and spelling separately.",
+    "correct": 1,
+    "explanation": "The goat sat on the mat. is the best answer.",
     "structuredExplanation": {
-      "summary": "'A habitat is a place where living things live. It can provide water, food or shelter.' This matches the task.",
-      "hint": "Check sentence, punctuation and spelling separately."
+      "summary": "The goat sat on the mat. is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 8
   },
   {
     "id": "ac9e1ly06-p-009",
     "curriculumCode": "AC9E1LY06",
     "bank": "practice",
-    "skill": "ac9e1ly06 09 recognise",
+    "skill": "create and re-read to edit short written and/or multimodal texts to report on a topic, express an opinion or recount a real or imagined event",
     "printable": true,
     "type": "single",
-    "question": "Write the word picnic in the sentence 'We packed a ___.' Then reread the sentence.",
-    "audioPrompt": "Write the word picnic in the sentence 'We packed a ___.' Then reread the sentence.",
-    "visual": "📖 Spell a two-syllable word; 🔎 edit; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Spell a two-syllable word; 🔎 edit; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly06.svg#ac9e1ly06-p-017\"></use></svg>",
+    "question": "Which sentence clearly reports a fact about a hen?",
+    "audioPrompt": "Which sentence clearly reports a fact about a hen?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly06.svg#ac9e1ly06-p-017",
-      "alt_text": "📖 Spell a two-syllable word; 🔎 edit; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "We packed a ___",
-      "Picnic spelled correctly in a complete punctuated sentence",
-      "Leave out one precise word from the topic."
+      "A hen needs food.",
+      "I love the hen!",
+      "Hen food need."
     ],
-    "correct": 1,
-    "explanation": "Picnic spelled correctly in a complete punctuated sentence This matches the task.\nHint: Add one precise word from the topic.",
+    "correct": 0,
+    "explanation": "A hen needs food. is the best answer.",
     "structuredExplanation": {
-      "summary": "Picnic spelled correctly in a complete punctuated sentence This matches the task.",
-      "hint": "Add one precise word from the topic."
+      "summary": "A hen needs food. is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 9
   },
   {
     "id": "ac9e1ly06-p-010",
     "curriculumCode": "AC9E1LY06",
     "bank": "practice",
-    "skill": "ac9e1ly06 10 recognise",
+    "skill": "create and re-read to edit short written and/or multimodal texts to report on a topic, express an opinion or recount a real or imagined event",
     "printable": true,
     "type": "single",
-    "question": "Which response would correctly match editing checks?",
-    "audioPrompt": "Which response would correctly match editing checks?",
-    "visual": "📖 Match editing checks; 🔎 topic word; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Match editing checks; 🔎 topic word; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly06.svg#ac9e1ly06-p-019\"></use></svg>",
+    "question": "Which sentence gives an opinion and a reason?",
+    "audioPrompt": "Which sentence gives an opinion and a reason?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly06.svg#ac9e1ly06-p-019",
-      "alt_text": "📖 Match editing checks; 🔎 topic word; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "All checks matched correctly",
-      "Leave out re-reading.",
-      "Do not check sentence, punctuation and spelling separately."
+      "The camp because.",
+      "I like the camp.",
+      "I like the camp because it is fun."
     ],
-    "correct": 0,
-    "explanation": "All checks matched correctly This matches the task.\nHint: Read the text aloud to catch missing words.",
+    "correct": 2,
+    "explanation": "I like the camp because it is fun. is the best answer.",
     "structuredExplanation": {
-      "summary": "All checks matched correctly This matches the task.",
-      "hint": "Read the text aloud to catch missing words."
+      "summary": "I like the camp because it is fun. is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 10
   },
   {
     "id": "ac9e1ly06-p-011",
     "curriculumCode": "AC9E1LY06",
     "bank": "practice",
-    "skill": "ac9e1ly06 01 explain",
+    "skill": "create and re-read to edit short written and/or multimodal texts to report on a topic, express an opinion or recount a real or imagined event",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you add a sentence boundary?",
-    "audioPrompt": "Which tip would help you add a sentence boundary?",
-    "visual": "🧠 Add a sentence boundary; ➡️ Plan; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Add a sentence boundary; ➡️ Plan; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly06.svg#ac9e1ly06-p-002\"></use></svg>",
+    "question": "Which sentence could begin a recount?",
+    "audioPrompt": "Which sentence could begin a recount?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly06.svg#ac9e1ly06-p-002",
-      "alt_text": "🧠 Add a sentence boundary; ➡️ Plan; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Do not check sentence, punctuation and spelling separately.",
-      "Read the text aloud to catch missing words.",
-      "Leave out one precise word from the topic."
+      "The end.",
+      "Yesterday, Kim went to the zoo.",
+      "Because the zoo."
     ],
     "correct": 1,
-    "explanation": "Read the text aloud to catch missing words.\nHint: Read the text aloud to catch missing words.",
+    "explanation": "Yesterday, Kim went to the zoo. is the best answer.",
     "structuredExplanation": {
-      "summary": "Read the text aloud to catch missing words.",
-      "hint": "Read the text aloud to catch missing words."
+      "summary": "Yesterday, Kim went to the zoo. is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 11
   },
   {
     "id": "ac9e1ly06-p-012",
     "curriculumCode": "AC9E1LY06",
     "bank": "practice",
-    "skill": "ac9e1ly06 02 explain",
+    "skill": "create and re-read to edit short written and/or multimodal texts to report on a topic, express an opinion or recount a real or imagined event",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you match purposes and openings?",
-    "audioPrompt": "Which tip would help you match purposes and openings?",
-    "visual": "🧠 Match purposes and openings; ➡️ Write; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Match purposes and openings; ➡️ Write; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly06.svg#ac9e1ly06-p-004\"></use></svg>",
+    "question": "Read and edit: “ava has a sock”",
+    "audioPrompt": "Read and edit: “ava has a sock”",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly06.svg#ac9e1ly06-p-004",
-      "alt_text": "🧠 Match purposes and openings; ➡️ Write; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Use this routine: Plan → Write → Re-read → Edit sentence/punctuation/spelling → Publish.",
-      "Leave out one precise word from the topic.",
-      "Leave out re-reading."
+      "Ava has a sock.",
+      "ava has a sock",
+      "Ava has a sock?"
     ],
     "correct": 0,
-    "explanation": "Use this routine: Plan → Write → Re-read → Edit sentence/punctuation/spelling → Publish.\nHint: Check sentence, punctuation and spelling separately.",
+    "explanation": "Ava has a sock. is the best answer.",
     "structuredExplanation": {
-      "summary": "Use this routine: Plan → Write → Re-read → Edit sentence/punctuation/spelling → Publish.",
-      "hint": "Check sentence, punctuation and spelling separately."
+      "summary": "Ava has a sock. is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 12
   },
   {
     "id": "ac9e1ly06-p-013",
     "curriculumCode": "AC9E1LY06",
     "bank": "practice",
-    "skill": "ac9e1ly06 03 explain",
+    "skill": "create and re-read to edit short written and/or multimodal texts to report on a topic, express an opinion or recount a real or imagined event",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you reread aloud?",
-    "audioPrompt": "Which tip would help you reread aloud?",
-    "visual": "🧠 Reread aloud; ➡️ Re-read; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Reread aloud; ➡️ Re-read; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly06.svg#ac9e1ly06-p-006\"></use></svg>",
+    "question": "Which word fixes “The fish hop fast”?",
+    "audioPrompt": "Which word fixes “The fish hop fast”?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly06.svg#ac9e1ly06-p-006",
-      "alt_text": "🧠 Reread aloud; ➡️ Re-read; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Leave out re-reading.",
-      "Do not check sentence, punctuation and spelling separately.",
-      "Look for re-read and check the whole example."
+      "hoppedly",
+      "hoping",
+      "hops"
     ],
     "correct": 2,
-    "explanation": "Look for re-read and check the whole example.\nHint: Add one precise word from the topic.",
+    "explanation": "hops is the best answer.",
     "structuredExplanation": {
-      "summary": "Look for re-read and check the whole example.",
-      "hint": "Add one precise word from the topic."
+      "summary": "hops is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 13
   },
   {
     "id": "ac9e1ly06-p-014",
     "curriculumCode": "AC9E1LY06",
     "bank": "practice",
-    "skill": "ac9e1ly06 04 explain",
+    "skill": "create and re-read to edit short written and/or multimodal texts to report on a topic, express an opinion or recount a real or imagined event",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you choose topic vocabulary?",
-    "audioPrompt": "Which tip would help you choose topic vocabulary?",
-    "visual": "🧠 Choose topic vocabulary; ➡️ Edit sentence/punctuation/spelling; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Choose topic vocabulary; ➡️ Edit sentence/punctuation/spelling; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly06.svg#ac9e1ly06-p-008\"></use></svg>",
+    "question": "Which sentence stays on the topic “My hat”?",
+    "audioPrompt": "Which sentence stays on the topic “My hat”?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly06.svg#ac9e1ly06-p-008",
-      "alt_text": "🧠 Choose topic vocabulary; ➡️ Edit sentence/punctuation/spelling; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Do not check sentence, punctuation and spelling separately.",
-      "Check that you can edit punctuation.",
-      "Leave out one precise word from the topic."
+      "I ate an apple.",
+      "My hat is blue.",
+      "The farm is far."
     ],
     "correct": 1,
-    "explanation": "Check that you can edit punctuation.\nHint: Read the text aloud to catch missing words.",
+    "explanation": "My hat is blue. is the best answer.",
     "structuredExplanation": {
-      "summary": "Check that you can edit punctuation.",
-      "hint": "Read the text aloud to catch missing words."
+      "summary": "My hat is blue. is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 14
   },
   {
     "id": "ac9e1ly06-p-015",
     "curriculumCode": "AC9E1LY06",
     "bank": "practice",
-    "skill": "ac9e1ly06 05 explain",
+    "skill": "create and re-read to edit short written and/or multimodal texts to report on a topic, express an opinion or recount a real or imagined event",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you order the writing cycle?",
-    "audioPrompt": "Which tip would help you order the writing cycle?",
-    "visual": "🧠 Order the writing cycle; ➡️ Publish; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Order the writing cycle; ➡️ Publish; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly06.svg#ac9e1ly06-p-010\"></use></svg>",
+    "question": "Which ending completes a recount?",
+    "audioPrompt": "Which ending completes a recount?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly06.svg#ac9e1ly06-p-010",
-      "alt_text": "🧠 Order the writing cycle; ➡️ Publish; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Sequencing creation and editing.",
-      "Leave out one precise word from the topic.",
-      "Leave out re-reading."
+      "At last, we went home.",
+      "First, before first.",
+      "Blue is a colour."
     ],
     "correct": 0,
-    "explanation": "Sequencing creation and editing.\nHint: Check sentence, punctuation and spelling separately.",
+    "explanation": "At last, we went home. is the best answer.",
     "structuredExplanation": {
-      "summary": "Sequencing creation and editing.",
-      "hint": "Check sentence, punctuation and spelling separately."
+      "summary": "At last, we went home. is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 15
   },
   {
     "id": "ac9e1ly06-p-016",
     "curriculumCode": "AC9E1LY06",
     "bank": "practice",
-    "skill": "ac9e1ly06 06 explain",
+    "skill": "create and re-read to edit short written and/or multimodal texts to report on a topic, express an opinion or recount a real or imagined event",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you draw a multimodal recount?",
-    "audioPrompt": "Which tip would help you draw a multimodal recount?",
-    "visual": "🧠 Draw a multimodal recount; ➡️ Plan; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Draw a multimodal recount; ➡️ Plan; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly06.svg#ac9e1ly06-p-012\"></use></svg>",
+    "question": "Which sentence is easiest to read?",
+    "audioPrompt": "Which sentence is easiest to read?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly06.svg#ac9e1ly06-p-012",
-      "alt_text": "🧠 Draw a multimodal recount; ➡️ Plan; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Leave out re-reading.",
-      "Do not check sentence, punctuation and spelling separately.",
-      "Add one precise word from the topic."
+      "Dog mat sat the on.",
+      "Thedogsatonmat.",
+      "The dog sat on the mat."
     ],
     "correct": 2,
-    "explanation": "Add one precise word from the topic.\nHint: Add one precise word from the topic.",
+    "explanation": "The dog sat on the mat. is the best answer.",
     "structuredExplanation": {
-      "summary": "Add one precise word from the topic.",
-      "hint": "Add one precise word from the topic."
+      "summary": "The dog sat on the mat. is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 16
   },
   {
     "id": "ac9e1ly06-p-017",
     "curriculumCode": "AC9E1LY06",
     "bank": "practice",
-    "skill": "ac9e1ly06 07 explain",
+    "skill": "create and re-read to edit short written and/or multimodal texts to report on a topic, express an opinion or recount a real or imagined event",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you edit an opinion reason?",
-    "audioPrompt": "Which tip would help you edit an opinion reason?",
-    "visual": "🧠 Edit an opinion reason; ➡️ Write; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Edit an opinion reason; ➡️ Write; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly06.svg#ac9e1ly06-p-014\"></use></svg>",
+    "question": "Which sentence clearly reports a fact about a frog?",
+    "audioPrompt": "Which sentence clearly reports a fact about a frog?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly06.svg#ac9e1ly06-p-014",
-      "alt_text": "🧠 Edit an opinion reason; ➡️ Write; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Do not check sentence, punctuation and spelling separately.",
-      "Use this routine: Plan → Write → Re-read → Edit sentence/punctuation/spelling → Publish.",
-      "Leave out one precise word from the topic."
+      "I love the frog!",
+      "Frog food need.",
+      "A frog needs food."
     ],
-    "correct": 1,
-    "explanation": "Use this routine: Plan → Write → Re-read → Edit sentence/punctuation/spelling → Publish.\nHint: Read the text aloud to catch missing words.",
+    "correct": 2,
+    "explanation": "A frog needs food. is the best answer.",
     "structuredExplanation": {
-      "summary": "Use this routine: Plan → Write → Re-read → Edit sentence/punctuation/spelling → Publish.",
-      "hint": "Read the text aloud to catch missing words."
+      "summary": "A frog needs food. is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 2,
+    "difficultyTier": "guided",
+    "sequencePriority": 17
   },
   {
     "id": "ac9e1ly06-p-018",
     "curriculumCode": "AC9E1LY06",
     "bank": "practice",
-    "skill": "ac9e1ly06 08 explain",
+    "skill": "create and re-read to edit short written and/or multimodal texts to report on a topic, express an opinion or recount a real or imagined event",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you check a report paragraph?",
-    "audioPrompt": "Which tip would help you check a report paragraph?",
-    "visual": "🧠 Check a report paragraph; ➡️ Re-read; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Check a report paragraph; ➡️ Re-read; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly06.svg#ac9e1ly06-p-016\"></use></svg>",
+    "question": "Which sentence gives an opinion and a reason?",
+    "audioPrompt": "Which sentence gives an opinion and a reason?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly06.svg#ac9e1ly06-p-016",
-      "alt_text": "🧠 Check a report paragraph; ➡️ Re-read; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Look for re-read and check the whole example.",
-      "Leave out one precise word from the topic.",
-      "Leave out re-reading."
+      "I like the beach because it is fun.",
+      "The beach because.",
+      "I like the beach."
     ],
     "correct": 0,
-    "explanation": "Look for re-read and check the whole example.\nHint: Check sentence, punctuation and spelling separately.",
+    "explanation": "I like the beach because it is fun. is the best answer.",
     "structuredExplanation": {
-      "summary": "Look for re-read and check the whole example.",
-      "hint": "Check sentence, punctuation and spelling separately."
+      "summary": "I like the beach because it is fun. is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 2,
+    "difficultyTier": "guided",
+    "sequencePriority": 18
   },
   {
     "id": "ac9e1ly06-p-019",
     "curriculumCode": "AC9E1LY06",
     "bank": "practice",
-    "skill": "ac9e1ly06 09 explain",
+    "skill": "create and re-read to edit short written and/or multimodal texts to report on a topic, express an opinion or recount a real or imagined event",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you spell a two-syllable word?",
-    "audioPrompt": "Which tip would help you spell a two-syllable word?",
-    "visual": "🧠 Spell a two-syllable word; ➡️ Edit sentence/punctuation/spelling; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Spell a two-syllable word; ➡️ Edit sentence/punctuation/spelling; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly06.svg#ac9e1ly06-p-018\"></use></svg>",
+    "question": "Which sentence could begin a recount?",
+    "audioPrompt": "Which sentence could begin a recount?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly06.svg#ac9e1ly06-p-018",
-      "alt_text": "🧠 Spell a two-syllable word; ➡️ Edit sentence/punctuation/spelling; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Leave out re-reading.",
-      "Do not check sentence, punctuation and spelling separately.",
-      "Check that you can edit punctuation."
+      "Because the school.",
+      "Yesterday, Ava went to the school.",
+      "The end."
     ],
-    "correct": 2,
-    "explanation": "Check that you can edit punctuation.\nHint: Add one precise word from the topic.",
+    "correct": 1,
+    "explanation": "Yesterday, Ava went to the school. is the best answer.",
     "structuredExplanation": {
-      "summary": "Check that you can edit punctuation.",
-      "hint": "Add one precise word from the topic."
+      "summary": "Yesterday, Ava went to the school. is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 2,
+    "difficultyTier": "guided",
+    "sequencePriority": 19
   },
   {
     "id": "ac9e1ly06-p-020",
     "curriculumCode": "AC9E1LY06",
     "bank": "practice",
-    "skill": "ac9e1ly06 10 explain",
+    "skill": "create and re-read to edit short written and/or multimodal texts to report on a topic, express an opinion or recount a real or imagined event",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you match editing checks?",
-    "audioPrompt": "Which tip would help you match editing checks?",
-    "visual": "🧠 Match editing checks; ➡️ Publish; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Match editing checks; ➡️ Publish; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly06.svg#ac9e1ly06-p-020\"></use></svg>",
+    "question": "Read and edit: “leo has a bag”",
+    "audioPrompt": "Read and edit: “leo has a bag”",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly06.svg#ac9e1ly06-p-020",
-      "alt_text": "🧠 Match editing checks; ➡️ Publish; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Do not check sentence, punctuation and spelling separately.",
-      "Recognising editing targets.",
-      "Leave out one precise word from the topic."
+      "Leo has a bag.",
+      "Leo has a bag?",
+      "leo has a bag"
     ],
-    "correct": 1,
-    "explanation": "Recognising editing targets.\nHint: Read the text aloud to catch missing words.",
+    "correct": 0,
+    "explanation": "Leo has a bag. is the best answer.",
     "structuredExplanation": {
-      "summary": "Recognising editing targets.",
-      "hint": "Read the text aloud to catch missing words."
+      "summary": "Leo has a bag. is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 2,
+    "difficultyTier": "guided",
+    "sequencePriority": 20
   },
   {
     "id": "ac9e1ly06-p-021",
     "curriculumCode": "AC9E1LY06",
     "bank": "practice",
-    "skill": "ac9e1ly06 01 discriminate",
+    "skill": "create and re-read to edit short written and/or multimodal texts to report on a topic, express an opinion or recount a real or imagined event",
     "printable": true,
     "type": "single",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": "📖 Add a sentence boundary; 🔎 plan; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Add a sentence boundary; 🔎 plan; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly06.svg#ac9e1ly06-p-001\"></use></svg>",
+    "question": "Which word fixes “The cat hop fast”?",
+    "audioPrompt": "Which word fixes “The cat hop fast”?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly06.svg#ac9e1ly06-p-001",
-      "alt_text": "📖 Add a sentence boundary; 🔎 plan; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "The bird landed it drank water",
-      "'The bird landed. It drank water.' with capital and full stops",
-      "Read the text aloud to catch missing words."
+      "hoppedly",
+      "hops",
+      "hoping"
     ],
-    "correct": 0,
-    "explanation": "The bird landed it drank water is the mix-up. Read the text aloud to catch missing words.\nHint: Read the text aloud to catch missing words.",
+    "correct": 1,
+    "explanation": "hops is the best answer.",
     "structuredExplanation": {
-      "summary": "The bird landed it drank water is the mix-up. Read the text aloud to catch missing words.",
-      "hint": "Read the text aloud to catch missing words."
+      "summary": "hops is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 2,
+    "difficultyTier": "guided",
+    "sequencePriority": 21
   },
   {
     "id": "ac9e1ly06-p-022",
     "curriculumCode": "AC9E1LY06",
     "bank": "practice",
-    "skill": "ac9e1ly06 02 discriminate",
+    "skill": "create and re-read to edit short written and/or multimodal texts to report on a topic, express an opinion or recount a real or imagined event",
     "printable": true,
     "type": "single",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": "📖 Match purposes and openings; 🔎 write; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Match purposes and openings; 🔎 write; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly06.svg#ac9e1ly06-p-003\"></use></svg>",
+    "question": "Which sentence stays on the topic “My book”?",
+    "audioPrompt": "Which sentence stays on the topic “My book”?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly06.svg#ac9e1ly06-p-003",
-      "alt_text": "📖 Match purposes and openings; 🔎 write; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Each purpose matched correctly",
-      "Koalas are ___",
-      "Use this routine: Plan → Write → Re-read → Edit sentence/punctuation/spelling → Publish."
+      "I ate an apple.",
+      "The zoo is far.",
+      "My book is blue."
     ],
-    "correct": 1,
-    "explanation": "Koalas are ___ is the mix-up. Check sentence, punctuation and spelling separately.\nHint: Check sentence, punctuation and spelling separately.",
+    "correct": 2,
+    "explanation": "My book is blue. is the best answer.",
     "structuredExplanation": {
-      "summary": "Koalas are ___ is the mix-up. Check sentence, punctuation and spelling separately.",
-      "hint": "Check sentence, punctuation and spelling separately."
+      "summary": "My book is blue. is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 2,
+    "difficultyTier": "guided",
+    "sequencePriority": 22
   },
   {
     "id": "ac9e1ly06-p-023",
     "curriculumCode": "AC9E1LY06",
     "bank": "practice",
-    "skill": "ac9e1ly06 03 discriminate",
+    "skill": "create and re-read to edit short written and/or multimodal texts to report on a topic, express an opinion or recount a real or imagined event",
     "printable": true,
     "type": "single",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": "📖 Reread aloud; 🔎 re-read; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Reread aloud; 🔎 re-read; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly06.svg#ac9e1ly06-p-005\"></use></svg>",
+    "question": "Read and choose: Which ending completes a recount?",
+    "audioPrompt": "Read and choose: Which ending completes a recount?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly06.svg#ac9e1ly06-p-005",
-      "alt_text": "📖 Reread aloud; 🔎 re-read; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "'My dog runs fast.' adds a suitable verb and complete idea",
-      "Look for re-read and check the whole example.",
-      "My dog fast"
+      "First, before first.",
+      "At last, we went home.",
+      "Blue is a colour."
     ],
-    "correct": 2,
-    "explanation": "My dog fast is the mix-up. Add one precise word from the topic.\nHint: Add one precise word from the topic.",
+    "correct": 1,
+    "explanation": "At last, we went home. is the best answer.",
     "structuredExplanation": {
-      "summary": "My dog fast is the mix-up. Add one precise word from the topic.",
-      "hint": "Add one precise word from the topic."
+      "summary": "At last, we went home. is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 2,
+    "difficultyTier": "guided",
+    "sequencePriority": 23
   },
   {
     "id": "ac9e1ly06-p-024",
     "curriculumCode": "AC9E1LY06",
     "bank": "practice",
-    "skill": "ac9e1ly06 04 discriminate",
+    "skill": "create and re-read to edit short written and/or multimodal texts to report on a topic, express an opinion or recount a real or imagined event",
     "printable": true,
     "type": "single",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": "📖 Choose topic vocabulary; 🔎 edit; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Choose topic vocabulary; 🔎 edit; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly06.svg#ac9e1ly06-p-007\"></use></svg>",
+    "question": "Which sentence is easiest to read?",
+    "audioPrompt": "Which sentence is easiest to read?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly06.svg#ac9e1ly06-p-007",
-      "alt_text": "📖 Choose topic vocabulary; 🔎 edit; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "The thing pushed the car",
-      "'The hand applied a push that moved the toy car.'",
-      "Check that you can edit punctuation."
+      "Fox mat sat the on.",
+      "The fox sat on the mat.",
+      "Thefoxsatonmat."
     ],
-    "correct": 0,
-    "explanation": "The thing pushed the car is the mix-up. Read the text aloud to catch missing words.\nHint: Read the text aloud to catch missing words.",
+    "correct": 1,
+    "explanation": "The fox sat on the mat. is the best answer.",
     "structuredExplanation": {
-      "summary": "The thing pushed the car is the mix-up. Read the text aloud to catch missing words.",
-      "hint": "Read the text aloud to catch missing words."
+      "summary": "The fox sat on the mat. is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 2,
+    "difficultyTier": "guided",
+    "sequencePriority": 24
   },
   {
     "id": "ac9e1ly06-p-025",
     "curriculumCode": "AC9E1LY06",
     "bank": "practice",
-    "skill": "ac9e1ly06 05 discriminate",
+    "skill": "create and re-read to edit short written and/or multimodal texts to report on a topic, express an opinion or recount a real or imagined event",
     "printable": true,
     "type": "single",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": "📖 Order the writing cycle; 🔎 topic word; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Order the writing cycle; 🔎 topic word; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly06.svg#ac9e1ly06-p-009\"></use></svg>",
+    "question": "Which sentence clearly reports a fact about a fish?",
+    "audioPrompt": "Which sentence clearly reports a fact about a fish?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly06.svg#ac9e1ly06-p-009",
-      "alt_text": "📖 Order the writing cycle; 🔎 topic word; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Choose purpose/topic → draft → reread/edit → publish/share",
-      "publish/share → reread/edit → draft → Choose purpose/topic",
-      "Sequencing creation and editing."
+      "Fish food need.",
+      "I love the fish!",
+      "A fish needs food."
     ],
-    "correct": 1,
-    "explanation": "publish/share → reread/edit → draft → Choose purpose/topic is the mix-up. Check sentence, punctuation and spelling separately.\nHint: Check sentence, punctuation and spelling separately.",
+    "correct": 2,
+    "explanation": "A fish needs food. is the best answer.",
     "structuredExplanation": {
-      "summary": "publish/share → reread/edit → draft → Choose purpose/topic is the mix-up. Check sentence, punctuation and spelling separately.",
-      "hint": "Check sentence, punctuation and spelling separately."
+      "summary": "A fish needs food. is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 2,
+    "difficultyTier": "guided",
+    "sequencePriority": 25
   },
   {
     "id": "ac9e1ly06-p-026",
     "curriculumCode": "AC9E1LY06",
     "bank": "practice",
-    "skill": "ac9e1ly06 06 discriminate",
+    "skill": "create and re-read to edit short written and/or multimodal texts to report on a topic, express an opinion or recount a real or imagined event",
     "printable": true,
     "type": "single",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": "📖 Draw a multimodal recount; 🔎 plan; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Draw a multimodal recount; 🔎 plan; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly06.svg#ac9e1ly06-p-011\"></use></svg>",
+    "question": "Which sentence gives an opinion and a reason?",
+    "audioPrompt": "Which sentence gives an opinion and a reason?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly06.svg#ac9e1ly06-p-011",
-      "alt_text": "📖 Draw a multimodal recount; 🔎 plan; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Three logical events, complete sentences and appropriate time words/punctuation",
-      "Add one precise word from the topic.",
-      "Leave out one precise word from the topic."
+      "I like the park.",
+      "I like the park because it is fun.",
+      "The park because."
     ],
-    "correct": 2,
-    "explanation": "Leave out one precise word from the topic. is the mix-up. Add one precise word from the topic.\nHint: Add one precise word from the topic.",
+    "correct": 1,
+    "explanation": "I like the park because it is fun. is the best answer.",
     "structuredExplanation": {
-      "summary": "Leave out one precise word from the topic. is the mix-up. Add one precise word from the topic.",
-      "hint": "Add one precise word from the topic."
+      "summary": "I like the park because it is fun. is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 2,
+    "difficultyTier": "guided",
+    "sequencePriority": 26
   },
   {
     "id": "ac9e1ly06-p-027",
     "curriculumCode": "AC9E1LY06",
     "bank": "practice",
-    "skill": "ac9e1ly06 07 discriminate",
+    "skill": "create and re-read to edit short written and/or multimodal texts to report on a topic, express an opinion or recount a real or imagined event",
     "printable": true,
     "type": "single",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": "📖 Edit an opinion reason; 🔎 write; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Edit an opinion reason; 🔎 write; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly06.svg#ac9e1ly06-p-013\"></use></svg>",
+    "question": "Which sentence could begin a recount?",
+    "audioPrompt": "Which sentence could begin a recount?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly06.svg#ac9e1ly06-p-013",
-      "alt_text": "📖 Edit an opinion reason; 🔎 write; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "I like the park. It is good",
-      "'I like the park because its shady trees keep the play area cool.'",
-      "Use this routine: Plan → Write → Re-read → Edit sentence/punctuation/spelling → Publish."
+      "The end.",
+      "Because the shop.",
+      "Yesterday, Leo went to the shop."
     ],
-    "correct": 0,
-    "explanation": "I like the park. It is good is the mix-up. Read the text aloud to catch missing words.\nHint: Read the text aloud to catch missing words.",
+    "correct": 2,
+    "explanation": "Yesterday, Leo went to the shop. is the best answer.",
     "structuredExplanation": {
-      "summary": "I like the park. It is good is the mix-up. Read the text aloud to catch missing words.",
-      "hint": "Read the text aloud to catch missing words."
+      "summary": "Yesterday, Leo went to the shop. is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 2,
+    "difficultyTier": "guided",
+    "sequencePriority": 27
   },
   {
     "id": "ac9e1ly06-p-028",
     "curriculumCode": "AC9E1LY06",
     "bank": "practice",
-    "skill": "ac9e1ly06 08 discriminate",
+    "skill": "create and re-read to edit short written and/or multimodal texts to report on a topic, express an opinion or recount a real or imagined event",
     "printable": true,
     "type": "single",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": "📖 Check a report paragraph; 🔎 re-read; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Check a report paragraph; 🔎 re-read; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly06.svg#ac9e1ly06-p-015\"></use></svg>",
+    "question": "Read and edit: “zoe has a ball”",
+    "audioPrompt": "Read and edit: “zoe has a ball”",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly06.svg#ac9e1ly06-p-015",
-      "alt_text": "📖 Check a report paragraph; 🔎 re-read; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "'A habitat is a place where living things live. It can provide water, food or shelter.'",
-      "A habitat is a place living things live. it gives water food or shelter",
-      "Look for re-read and check the whole example."
+      "Zoe has a ball.",
+      "Zoe has a ball?",
+      "zoe has a ball"
     ],
-    "correct": 1,
-    "explanation": "A habitat is a place living things live. it gives water food or shelter is the mix-up. Check sentence, punctuation and spelling separately.\nHint: Check sentence, punctuation and spelling separately.",
+    "correct": 0,
+    "explanation": "Zoe has a ball. is the best answer.",
     "structuredExplanation": {
-      "summary": "A habitat is a place living things live. it gives water food or shelter is the mix-up. Check sentence, punctuation and spelling separately.",
-      "hint": "Check sentence, punctuation and spelling separately."
+      "summary": "Zoe has a ball. is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 2,
+    "difficultyTier": "guided",
+    "sequencePriority": 28
   },
   {
     "id": "ac9e1ly06-p-029",
     "curriculumCode": "AC9E1LY06",
     "bank": "practice",
-    "skill": "ac9e1ly06 09 discriminate",
+    "skill": "create and re-read to edit short written and/or multimodal texts to report on a topic, express an opinion or recount a real or imagined event",
     "printable": true,
     "type": "single",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": "📖 Spell a two-syllable word; 🔎 edit; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Spell a two-syllable word; 🔎 edit; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly06.svg#ac9e1ly06-p-017\"></use></svg>",
+    "question": "Which word fixes “The hen hop fast”?",
+    "audioPrompt": "Which word fixes “The hen hop fast”?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly06.svg#ac9e1ly06-p-017",
-      "alt_text": "📖 Spell a two-syllable word; 🔎 edit; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Picnic spelled correctly in a complete punctuated sentence",
-      "Check that you can edit punctuation.",
-      "We packed a ___"
+      "hoppedly",
+      "hoping",
+      "hops"
     ],
     "correct": 2,
-    "explanation": "We packed a ___ is the mix-up. Add one precise word from the topic.\nHint: Add one precise word from the topic.",
+    "explanation": "hops is the best answer.",
     "structuredExplanation": {
-      "summary": "We packed a ___ is the mix-up. Add one precise word from the topic.",
-      "hint": "Add one precise word from the topic."
+      "summary": "hops is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 2,
+    "difficultyTier": "guided",
+    "sequencePriority": 29
   },
   {
     "id": "ac9e1ly06-p-030",
     "curriculumCode": "AC9E1LY06",
     "bank": "practice",
-    "skill": "ac9e1ly06 10 discriminate",
+    "skill": "create and re-read to edit short written and/or multimodal texts to report on a topic, express an opinion or recount a real or imagined event",
     "printable": true,
     "type": "single",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": "📖 Match editing checks; 🔎 topic word; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Match editing checks; 🔎 topic word; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly06.svg#ac9e1ly06-p-019\"></use></svg>",
+    "question": "Which sentence stays on the topic “My sock”?",
+    "audioPrompt": "Which sentence stays on the topic “My sock”?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly06.svg#ac9e1ly06-p-019",
-      "alt_text": "📖 Match editing checks; 🔎 topic word; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Leave out re-reading.",
-      "All checks matched correctly",
-      "Recognising editing targets."
+      "I ate an apple.",
+      "My sock is blue.",
+      "The school is far."
     ],
-    "correct": 0,
-    "explanation": "Leave out re-reading. is the mix-up. Read the text aloud to catch missing words.\nHint: Read the text aloud to catch missing words.",
+    "correct": 1,
+    "explanation": "My sock is blue. is the best answer.",
     "structuredExplanation": {
-      "summary": "Leave out re-reading. is the mix-up. Read the text aloud to catch missing words.",
-      "hint": "Read the text aloud to catch missing words."
+      "summary": "My sock is blue. is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 2,
+    "difficultyTier": "guided",
+    "sequencePriority": 30
   },
   {
     "id": "ac9e1ly06-p-031",
     "curriculumCode": "AC9E1LY06",
     "bank": "practice",
-    "skill": "ac9e1ly06 01 apply",
+    "skill": "create and re-read to edit short written and/or multimodal texts to report on a topic, express an opinion or recount a real or imagined event",
     "printable": true,
     "type": "single",
-    "question": "Which choice would best use this skill in a new example?",
-    "audioPrompt": "Which choice would best use this skill in a new example?",
-    "visual": "📖 Add a sentence boundary; 🔎 plan; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Add a sentence boundary; 🔎 plan; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly06.svg#ac9e1ly06-p-001\"></use></svg>",
+    "question": "Which ending completes a recount?",
+    "audioPrompt": "Which ending completes a recount?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly06.svg#ac9e1ly06-p-001",
-      "alt_text": "📖 Add a sentence boundary; 🔎 plan; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "The bird landed it drank water",
-      "'The bird landed. It drank water.' with capital and full stops",
-      "Leave out re-reading."
+      "At last, we went home.",
+      "Blue is a colour.",
+      "First, before first."
     ],
-    "correct": 1,
-    "explanation": "'The bird landed. It drank water.' with capital and full stops uses the skill correctly. Read the text aloud to catch missing words.\nHint: Read the text aloud to catch missing words.",
+    "correct": 0,
+    "explanation": "At last, we went home. is the best answer.",
     "structuredExplanation": {
-      "summary": "'The bird landed. It drank water.' with capital and full stops uses the skill correctly. Read the text aloud to catch missing words.",
-      "hint": "Read the text aloud to catch missing words."
+      "summary": "At last, we went home. is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 2,
+    "difficultyTier": "guided",
+    "sequencePriority": 31
   },
   {
     "id": "ac9e1ly06-p-032",
     "curriculumCode": "AC9E1LY06",
     "bank": "practice",
-    "skill": "ac9e1ly06 02 apply",
+    "skill": "create and re-read to edit short written and/or multimodal texts to report on a topic, express an opinion or recount a real or imagined event",
     "printable": true,
     "type": "single",
-    "question": "Which choice would best use this skill in a new example?",
-    "audioPrompt": "Which choice would best use this skill in a new example?",
-    "visual": "📖 Match purposes and openings; 🔎 write; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Match purposes and openings; 🔎 write; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly06.svg#ac9e1ly06-p-003\"></use></svg>",
+    "question": "Which sentence is easiest to read?",
+    "audioPrompt": "Which sentence is easiest to read?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly06.svg#ac9e1ly06-p-003",
-      "alt_text": "📖 Match purposes and openings; 🔎 write; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Koalas are ___",
-      "I think ___ because ___",
-      "Each purpose matched correctly"
+      "Duck mat sat the on.",
+      "Theducksatonmat.",
+      "The duck sat on the mat."
     ],
     "correct": 2,
-    "explanation": "Each purpose matched correctly uses the skill correctly. Check sentence, punctuation and spelling separately.\nHint: Check sentence, punctuation and spelling separately.",
+    "explanation": "The duck sat on the mat. is the best answer.",
     "structuredExplanation": {
-      "summary": "Each purpose matched correctly uses the skill correctly. Check sentence, punctuation and spelling separately.",
-      "hint": "Check sentence, punctuation and spelling separately."
+      "summary": "The duck sat on the mat. is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 2,
+    "difficultyTier": "guided",
+    "sequencePriority": 32
   },
   {
     "id": "ac9e1ly06-p-033",
     "curriculumCode": "AC9E1LY06",
     "bank": "practice",
-    "skill": "ac9e1ly06 03 apply",
+    "skill": "create and re-read to edit short written and/or multimodal texts to report on a topic, express an opinion or recount a real or imagined event",
     "printable": true,
     "type": "single",
-    "question": "Which choice would best use this skill in a new example?",
-    "audioPrompt": "Which choice would best use this skill in a new example?",
-    "visual": "📖 Reread aloud; 🔎 re-read; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Reread aloud; 🔎 re-read; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly06.svg#ac9e1ly06-p-005\"></use></svg>",
+    "question": "Which sentence clearly reports a fact about a cat?",
+    "audioPrompt": "Which sentence clearly reports a fact about a cat?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly06.svg#ac9e1ly06-p-005",
-      "alt_text": "📖 Reread aloud; 🔎 re-read; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "'My dog runs fast.' adds a suitable verb and complete idea",
-      "My dog fast",
-      "Leave out one precise word from the topic."
+      "I love the cat!",
+      "A cat needs food.",
+      "Cat food need."
     ],
-    "correct": 0,
-    "explanation": "'My dog runs fast.' adds a suitable verb and complete idea uses the skill correctly. Add one precise word from the topic.\nHint: Add one precise word from the topic.",
+    "correct": 1,
+    "explanation": "A cat needs food. is the best answer.",
     "structuredExplanation": {
-      "summary": "'My dog runs fast.' adds a suitable verb and complete idea uses the skill correctly. Add one precise word from the topic.",
-      "hint": "Add one precise word from the topic."
+      "summary": "A cat needs food. is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 33
   },
   {
     "id": "ac9e1ly06-p-034",
     "curriculumCode": "AC9E1LY06",
     "bank": "practice",
-    "skill": "ac9e1ly06 04 apply",
+    "skill": "create and re-read to edit short written and/or multimodal texts to report on a topic, express an opinion or recount a real or imagined event",
     "printable": true,
     "type": "single",
-    "question": "Which choice would best use this skill in a new example?",
-    "audioPrompt": "Which choice would best use this skill in a new example?",
-    "visual": "📖 Choose topic vocabulary; 🔎 edit; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Choose topic vocabulary; 🔎 edit; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly06.svg#ac9e1ly06-p-007\"></use></svg>",
+    "question": "Which sentence gives an opinion and a reason?",
+    "audioPrompt": "Which sentence gives an opinion and a reason?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly06.svg#ac9e1ly06-p-007",
-      "alt_text": "📖 Choose topic vocabulary; 🔎 edit; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "The thing pushed the car",
-      "'The hand applied a push that moved the toy car.'",
-      "Leave out re-reading."
+      "I like the pond because it is fun.",
+      "The pond because.",
+      "I like the pond."
     ],
-    "correct": 1,
-    "explanation": "'The hand applied a push that moved the toy car.' uses the skill correctly. Read the text aloud to catch missing words.\nHint: Read the text aloud to catch missing words.",
+    "correct": 0,
+    "explanation": "I like the pond because it is fun. is the best answer.",
     "structuredExplanation": {
-      "summary": "'The hand applied a push that moved the toy car.' uses the skill correctly. Read the text aloud to catch missing words.",
-      "hint": "Read the text aloud to catch missing words."
+      "summary": "I like the pond because it is fun. is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 34
   },
   {
     "id": "ac9e1ly06-p-035",
     "curriculumCode": "AC9E1LY06",
     "bank": "practice",
-    "skill": "ac9e1ly06 05 apply",
+    "skill": "create and re-read to edit short written and/or multimodal texts to report on a topic, express an opinion or recount a real or imagined event",
     "printable": true,
     "type": "single",
-    "question": "Which choice would best use this skill in a new example?",
-    "audioPrompt": "Which choice would best use this skill in a new example?",
-    "visual": "📖 Order the writing cycle; 🔎 topic word; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Order the writing cycle; 🔎 topic word; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly06.svg#ac9e1ly06-p-009\"></use></svg>",
+    "question": "Which sentence could begin a recount?",
+    "audioPrompt": "Which sentence could begin a recount?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly06.svg#ac9e1ly06-p-009",
-      "alt_text": "📖 Order the writing cycle; 🔎 topic word; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "publish/share → reread/edit → draft → Choose purpose/topic",
-      "Do not check sentence, punctuation and spelling separately.",
-      "Choose purpose/topic → draft → reread/edit → publish/share"
+      "Because the camp.",
+      "Yesterday, Zoe went to the camp.",
+      "The end."
     ],
-    "correct": 2,
-    "explanation": "Choose purpose/topic → draft → reread/edit → publish/share uses the skill correctly. Check sentence, punctuation and spelling separately.\nHint: Check sentence, punctuation and spelling separately.",
+    "correct": 1,
+    "explanation": "Yesterday, Zoe went to the camp. is the best answer.",
     "structuredExplanation": {
-      "summary": "Choose purpose/topic → draft → reread/edit → publish/share uses the skill correctly. Check sentence, punctuation and spelling separately.",
-      "hint": "Check sentence, punctuation and spelling separately."
+      "summary": "Yesterday, Zoe went to the camp. is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 35
   },
   {
     "id": "ac9e1ly06-p-036",
     "curriculumCode": "AC9E1LY06",
     "bank": "practice",
-    "skill": "ac9e1ly06 06 apply",
+    "skill": "create and re-read to edit short written and/or multimodal texts to report on a topic, express an opinion or recount a real or imagined event",
     "printable": true,
     "type": "single",
-    "question": "Which choice would best use this skill in a new example?",
-    "audioPrompt": "Which choice would best use this skill in a new example?",
-    "visual": "📖 Draw a multimodal recount; 🔎 plan; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Draw a multimodal recount; 🔎 plan; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly06.svg#ac9e1ly06-p-011\"></use></svg>",
+    "question": "Read and edit: “max has a map”",
+    "audioPrompt": "Read and edit: “max has a map”",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly06.svg#ac9e1ly06-p-011",
-      "alt_text": "📖 Draw a multimodal recount; 🔎 plan; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Three logical events, complete sentences and appropriate time words/punctuation",
-      "Leave out one precise word from the topic.",
-      "Leave out re-reading."
+      "Max has a map?",
+      "Max has a map.",
+      "max has a map"
     ],
-    "correct": 0,
-    "explanation": "Three logical events, complete sentences and appropriate time words/punctuation uses the skill correctly. Add one precise word from the topic.\nHint: Add one precise word from the topic.",
+    "correct": 1,
+    "explanation": "Max has a map. is the best answer.",
     "structuredExplanation": {
-      "summary": "Three logical events, complete sentences and appropriate time words/punctuation uses the skill correctly. Add one precise word from the topic.",
-      "hint": "Add one precise word from the topic."
+      "summary": "Max has a map. is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 36
   },
   {
     "id": "ac9e1ly06-p-037",
     "curriculumCode": "AC9E1LY06",
     "bank": "practice",
-    "skill": "ac9e1ly06 07 apply",
+    "skill": "create and re-read to edit short written and/or multimodal texts to report on a topic, express an opinion or recount a real or imagined event",
     "printable": true,
     "type": "single",
-    "question": "Which choice would best use this skill in a new example?",
-    "audioPrompt": "Which choice would best use this skill in a new example?",
-    "visual": "📖 Edit an opinion reason; 🔎 write; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Edit an opinion reason; 🔎 write; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly06.svg#ac9e1ly06-p-013\"></use></svg>",
+    "question": "Which word fixes “The frog hop fast”?",
+    "audioPrompt": "Which word fixes “The frog hop fast”?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly06.svg#ac9e1ly06-p-013",
-      "alt_text": "📖 Edit an opinion reason; 🔎 write; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "I like the park. It is good",
-      "'I like the park because its shady trees keep the play area cool.'",
-      "Leave out re-reading."
+      "hops",
+      "hoping",
+      "hoppedly"
     ],
-    "correct": 1,
-    "explanation": "'I like the park because its shady trees keep the play area cool.' uses the skill correctly. Read the text aloud to catch missing words.\nHint: Read the text aloud to catch missing words.",
+    "correct": 0,
+    "explanation": "hops is the best answer.",
     "structuredExplanation": {
-      "summary": "'I like the park because its shady trees keep the play area cool.' uses the skill correctly. Read the text aloud to catch missing words.",
-      "hint": "Read the text aloud to catch missing words."
+      "summary": "hops is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 37
   },
   {
     "id": "ac9e1ly06-p-038",
     "curriculumCode": "AC9E1LY06",
     "bank": "practice",
-    "skill": "ac9e1ly06 08 apply",
+    "skill": "create and re-read to edit short written and/or multimodal texts to report on a topic, express an opinion or recount a real or imagined event",
     "printable": true,
     "type": "single",
-    "question": "Which choice would best use this skill in a new example?",
-    "audioPrompt": "Which choice would best use this skill in a new example?",
-    "visual": "📖 Check a report paragraph; 🔎 re-read; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Check a report paragraph; 🔎 re-read; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly06.svg#ac9e1ly06-p-015\"></use></svg>",
+    "question": "Which sentence stays on the topic “My bag”?",
+    "audioPrompt": "Which sentence stays on the topic “My bag”?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly06.svg#ac9e1ly06-p-015",
-      "alt_text": "📖 Check a report paragraph; 🔎 re-read; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "A habitat is a place living things live. it gives water food or shelter",
-      "Do not check sentence, punctuation and spelling separately.",
-      "'A habitat is a place where living things live. It can provide water, food or shelter.'"
+      "The shop is far.",
+      "My bag is blue.",
+      "I ate an apple."
     ],
-    "correct": 2,
-    "explanation": "'A habitat is a place where living things live. It can provide water, food or shelter.' uses the skill correctly. Check sentence, punctuation and spelling separately.\nHint: Check sentence, punctuation and spelling separately.",
+    "correct": 1,
+    "explanation": "My bag is blue. is the best answer.",
     "structuredExplanation": {
-      "summary": "'A habitat is a place where living things live. It can provide water, food or shelter.' uses the skill correctly. Check sentence, punctuation and spelling separately.",
-      "hint": "Check sentence, punctuation and spelling separately."
+      "summary": "My bag is blue. is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 38
   },
   {
     "id": "ac9e1ly06-p-039",
     "curriculumCode": "AC9E1LY06",
     "bank": "practice",
-    "skill": "ac9e1ly06 09 apply",
+    "skill": "create and re-read to edit short written and/or multimodal texts to report on a topic, express an opinion or recount a real or imagined event",
     "printable": true,
     "type": "single",
-    "question": "Which choice would best use this skill in a new example?",
-    "audioPrompt": "Which choice would best use this skill in a new example?",
-    "visual": "📖 Spell a two-syllable word; 🔎 edit; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Spell a two-syllable word; 🔎 edit; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly06.svg#ac9e1ly06-p-017\"></use></svg>",
+    "question": "Which ending completes a recount?",
+    "audioPrompt": "Which ending completes a recount?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly06.svg#ac9e1ly06-p-017",
-      "alt_text": "📖 Spell a two-syllable word; 🔎 edit; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Picnic spelled correctly in a complete punctuated sentence",
-      "We packed a ___",
-      "Leave out one precise word from the topic."
+      "Blue is a colour.",
+      "First, before first.",
+      "At last, we went home."
     ],
-    "correct": 0,
-    "explanation": "Picnic spelled correctly in a complete punctuated sentence uses the skill correctly. Add one precise word from the topic.\nHint: Add one precise word from the topic.",
+    "correct": 2,
+    "explanation": "At last, we went home. is the best answer.",
     "structuredExplanation": {
-      "summary": "Picnic spelled correctly in a complete punctuated sentence uses the skill correctly. Add one precise word from the topic.",
-      "hint": "Add one precise word from the topic."
+      "summary": "At last, we went home. is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 39
   },
   {
     "id": "ac9e1ly06-p-040",
     "curriculumCode": "AC9E1LY06",
     "bank": "practice",
-    "skill": "ac9e1ly06 10 apply",
+    "skill": "create and re-read to edit short written and/or multimodal texts to report on a topic, express an opinion or recount a real or imagined event",
     "printable": true,
     "type": "single",
-    "question": "Which choice would best use this skill in a new example?",
-    "audioPrompt": "Which choice would best use this skill in a new example?",
-    "visual": "📖 Match editing checks; 🔎 topic word; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Match editing checks; 🔎 topic word; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly06.svg#ac9e1ly06-p-019\"></use></svg>",
+    "question": "Read and choose: Which sentence is easiest to read?",
+    "audioPrompt": "Read and choose: Which sentence is easiest to read?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly06.svg#ac9e1ly06-p-019",
-      "alt_text": "📖 Match editing checks; 🔎 topic word; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Leave out re-reading.",
-      "All checks matched correctly",
-      "Do not check sentence, punctuation and spelling separately."
+      "Goat mat sat the on.",
+      "The goat sat on the mat.",
+      "Thegoatsatonmat."
     ],
     "correct": 1,
-    "explanation": "All checks matched correctly uses the skill correctly. Read the text aloud to catch missing words.\nHint: Read the text aloud to catch missing words.",
+    "explanation": "The goat sat on the mat. is the best answer.",
     "structuredExplanation": {
-      "summary": "All checks matched correctly uses the skill correctly. Read the text aloud to catch missing words.",
-      "hint": "Read the text aloud to catch missing words."
+      "summary": "The goat sat on the mat. is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 40
+  },
+  {
+    "id": "ac9e1ly06-p-041",
+    "curriculumCode": "AC9E1LY06",
+    "bank": "practice",
+    "skill": "create and re-read to edit short written and/or multimodal texts to report on a topic, express an opinion or recount a real or imagined event",
+    "printable": true,
+    "type": "single",
+    "question": "Which sentence clearly reports a fact about a hen?",
+    "audioPrompt": "Which sentence clearly reports a fact about a hen?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Hen food need.",
+      "I love the hen!",
+      "A hen needs food."
+    ],
+    "correct": 2,
+    "explanation": "A hen needs food. is the best answer.",
+    "structuredExplanation": {
+      "summary": "A hen needs food. is the best answer."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 41,
+    "qualitySchema": "reviewed-year1-english-v1"
+  },
+  {
+    "id": "ac9e1ly06-p-042",
+    "curriculumCode": "AC9E1LY06",
+    "bank": "practice",
+    "skill": "create and re-read to edit short written and/or multimodal texts to report on a topic, express an opinion or recount a real or imagined event",
+    "printable": true,
+    "type": "single",
+    "question": "Which sentence gives an opinion and a reason?",
+    "audioPrompt": "Which sentence gives an opinion and a reason?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "I like the farm.",
+      "The farm because.",
+      "I like the farm because it is fun."
+    ],
+    "correct": 2,
+    "explanation": "I like the farm because it is fun. is the best answer.",
+    "structuredExplanation": {
+      "summary": "I like the farm because it is fun. is the best answer."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 42,
+    "qualitySchema": "reviewed-year1-english-v1"
+  },
+  {
+    "id": "ac9e1ly06-p-043",
+    "curriculumCode": "AC9E1LY06",
+    "bank": "practice",
+    "skill": "create and re-read to edit short written and/or multimodal texts to report on a topic, express an opinion or recount a real or imagined event",
+    "printable": true,
+    "type": "single",
+    "question": "Which sentence could begin a recount?",
+    "audioPrompt": "Which sentence could begin a recount?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Yesterday, Max went to the beach.",
+      "Because the beach.",
+      "The end."
+    ],
+    "correct": 0,
+    "explanation": "Yesterday, Max went to the beach. is the best answer.",
+    "structuredExplanation": {
+      "summary": "Yesterday, Max went to the beach. is the best answer."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 43,
+    "qualitySchema": "reviewed-year1-english-v1"
+  },
+  {
+    "id": "ac9e1ly06-p-044",
+    "curriculumCode": "AC9E1LY06",
+    "bank": "practice",
+    "skill": "create and re-read to edit short written and/or multimodal texts to report on a topic, express an opinion or recount a real or imagined event",
+    "printable": true,
+    "type": "single",
+    "question": "Read and edit: “mia has a cup”",
+    "audioPrompt": "Read and edit: “mia has a cup”",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "mia has a cup",
+      "Mia has a cup?",
+      "Mia has a cup."
+    ],
+    "correct": 2,
+    "explanation": "Mia has a cup. is the best answer.",
+    "structuredExplanation": {
+      "summary": "Mia has a cup. is the best answer."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 44,
+    "qualitySchema": "reviewed-year1-english-v1"
+  },
+  {
+    "id": "ac9e1ly06-p-045",
+    "curriculumCode": "AC9E1LY06",
+    "bank": "practice",
+    "skill": "create and re-read to edit short written and/or multimodal texts to report on a topic, express an opinion or recount a real or imagined event",
+    "printable": true,
+    "type": "single",
+    "question": "Which word fixes “The fish hop fast”?",
+    "audioPrompt": "Which word fixes “The fish hop fast”?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "hops",
+      "hoping",
+      "hoppedly"
+    ],
+    "correct": 0,
+    "explanation": "hops is the best answer.",
+    "structuredExplanation": {
+      "summary": "hops is the best answer."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 45,
+    "qualitySchema": "reviewed-year1-english-v1"
+  },
+  {
+    "id": "ac9e1ly06-p-046",
+    "curriculumCode": "AC9E1LY06",
+    "bank": "practice",
+    "skill": "create and re-read to edit short written and/or multimodal texts to report on a topic, express an opinion or recount a real or imagined event",
+    "printable": true,
+    "type": "single",
+    "question": "Which sentence stays on the topic “My ball”?",
+    "audioPrompt": "Which sentence stays on the topic “My ball”?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "I ate an apple.",
+      "The camp is far.",
+      "My ball is blue."
+    ],
+    "correct": 2,
+    "explanation": "My ball is blue. is the best answer.",
+    "structuredExplanation": {
+      "summary": "My ball is blue. is the best answer."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 46,
+    "qualitySchema": "reviewed-year1-english-v1"
+  },
+  {
+    "id": "ac9e1ly06-p-047",
+    "curriculumCode": "AC9E1LY06",
+    "bank": "practice",
+    "skill": "create and re-read to edit short written and/or multimodal texts to report on a topic, express an opinion or recount a real or imagined event",
+    "printable": true,
+    "type": "single",
+    "question": "Which ending completes a recount?",
+    "audioPrompt": "Which ending completes a recount?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Blue is a colour.",
+      "At last, we went home.",
+      "First, before first."
+    ],
+    "correct": 1,
+    "explanation": "At last, we went home. is the best answer.",
+    "structuredExplanation": {
+      "summary": "At last, we went home. is the best answer."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 47,
+    "qualitySchema": "reviewed-year1-english-v1"
+  },
+  {
+    "id": "ac9e1ly06-p-048",
+    "curriculumCode": "AC9E1LY06",
+    "bank": "practice",
+    "skill": "create and re-read to edit short written and/or multimodal texts to report on a topic, express an opinion or recount a real or imagined event",
+    "printable": true,
+    "type": "single",
+    "question": "Which sentence is easiest to read?",
+    "audioPrompt": "Which sentence is easiest to read?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Thedogsatonmat.",
+      "Dog mat sat the on.",
+      "The dog sat on the mat."
+    ],
+    "correct": 2,
+    "explanation": "The dog sat on the mat. is the best answer.",
+    "structuredExplanation": {
+      "summary": "The dog sat on the mat. is the best answer."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 48,
+    "qualitySchema": "reviewed-year1-english-v1"
   }
 ];
-window.quizQuestions = window.skillrPracticeQuestions;

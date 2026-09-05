@@ -4,1161 +4,1440 @@ window.skillrPracticeQuestions = [
     "id": "ac9e1ly07-p-001",
     "curriculumCode": "AC9E1LY07",
     "bank": "practice",
-    "skill": "ac9e1ly07 01 recognise",
+    "skill": "create and deliver short oral and/or multimodal presentations on personal and learnt topics, which include an opening, middle and concluding statement",
     "printable": true,
     "type": "single",
-    "question": "Which sentence best opens a talk: 'Today I will show how seeds grow' or 'That is all'?",
-    "audioPrompt": "Which sentence best opens a talk: 'Today I will show how seeds grow' or 'That is all'?",
-    "visual": "📖 Identify an opening; 🔎 opening; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Identify an opening; 🔎 opening; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly07.svg#ac9e1ly07-p-001\"></use></svg>",
+    "question": "Which opening tells the topic?",
+    "audioPrompt": "Which opening tells the topic?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly07.svg#ac9e1ly07-p-001",
-      "alt_text": "📖 Identify an opening; 🔎 opening; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "'Today I will show how seeds grow'",
-      "Today I will show how seeds grow",
-      "That is all"
+      "And then.",
+      "Thank you for listening.",
+      "Today I will talk about cats."
     ],
-    "correct": 0,
-    "explanation": "'Today I will show how seeds grow' This matches the task.\nHint: End with a final statement, not just stopping.",
+    "correct": 2,
+    "explanation": "Today I will talk about cats. is the best answer.",
     "structuredExplanation": {
-      "summary": "'Today I will show how seeds grow' This matches the task.",
-      "hint": "End with a final statement, not just stopping."
+      "summary": "Today I will talk about cats. is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 1
   },
   {
     "id": "ac9e1ly07-p-002",
     "curriculumCode": "AC9E1LY07",
     "bank": "practice",
-    "skill": "ac9e1ly07 02 recognise",
+    "skill": "create and deliver short oral and/or multimodal presentations on personal and learnt topics, which include an opening, middle and concluding statement",
     "printable": true,
     "type": "single",
-    "question": "Which response would correctly match presentation parts?",
-    "audioPrompt": "Which response would correctly match presentation parts?",
-    "visual": "📖 Match presentation parts; 🔎 middle; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Match presentation parts; 🔎 middle; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly07.svg#ac9e1ly07-p-003\"></use></svg>",
+    "question": "Which sentence belongs in the middle of a talk about the shop?",
+    "audioPrompt": "Which sentence belongs in the middle of a talk about the shop?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly07.svg#ac9e1ly07-p-003",
-      "alt_text": "📖 Match presentation parts; 🔎 middle; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Read too fast.",
-      "Do not use gesture that helps meaning.",
-      "Each part matched correctly"
+      "My talk is about cats.",
+      "You can play at the shop.",
+      "Thank you."
     ],
-    "correct": 2,
-    "explanation": "Each part matched correctly This matches the task.\nHint: Practise steady pace.",
+    "correct": 1,
+    "explanation": "You can play at the shop. is the best answer.",
     "structuredExplanation": {
-      "summary": "Each part matched correctly This matches the task.",
-      "hint": "Practise steady pace."
+      "summary": "You can play at the shop. is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 2
   },
   {
     "id": "ac9e1ly07-p-003",
     "curriculumCode": "AC9E1LY07",
     "bank": "practice",
-    "skill": "ac9e1ly07 03 recognise",
+    "skill": "create and deliver short oral and/or multimodal presentations on personal and learnt topics, which include an opening, middle and concluding statement",
     "printable": true,
     "type": "single",
-    "question": "Which response would correctly deliver a three-part talk?",
-    "audioPrompt": "Which response would correctly deliver a three-part talk?",
-    "visual": "📖 Deliver a three-part talk; 🔎 closing; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Deliver a three-part talk; 🔎 closing; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly07.svg#ac9e1ly07-p-005\"></use></svg>",
+    "question": "Which sentence can end a short talk?",
+    "audioPrompt": "Which sentence can end a short talk?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly07.svg#ac9e1ly07-p-005",
-      "alt_text": "📖 Deliver a three-part talk; 🔎 closing; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Do not use gesture that helps meaning.",
-      "All three parts are present and spoken clearly at suitable volume/pace",
-      "Leave out closing."
+      "First, I will …",
+      "Thank you for listening.",
+      "My topic is …"
     ],
     "correct": 1,
-    "explanation": "All three parts are present and spoken clearly at suitable volume/pace This matches the task.\nHint: Use gesture that helps meaning.",
+    "explanation": "Thank you for listening. is the best answer.",
     "structuredExplanation": {
-      "summary": "All three parts are present and spoken clearly at suitable volume/pace This matches the task.",
-      "hint": "Use gesture that helps meaning."
+      "summary": "Thank you for listening. is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 3
   },
   {
     "id": "ac9e1ly07-p-004",
     "curriculumCode": "AC9E1LY07",
     "bank": "practice",
-    "skill": "ac9e1ly07 04 recognise",
+    "skill": "create and deliver short oral and/or multimodal presentations on personal and learnt topics, which include an opening, middle and concluding statement",
     "printable": true,
     "type": "single",
-    "question": "Which response would correctly choose topic vocabulary?",
-    "audioPrompt": "Which response would correctly choose topic vocabulary?",
-    "visual": "📖 Choose topic vocabulary; 🔎 volume; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Choose topic vocabulary; 🔎 volume; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly07.svg#ac9e1ly07-p-007\"></use></svg>",
+    "question": "What helps the audience hear you?",
+    "audioPrompt": "What helps the audience hear you?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly07.svg#ac9e1ly07-p-007",
-      "alt_text": "📖 Choose topic vocabulary; 🔎 volume; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Any two such as length, unit, equal, end-to-end; sentence uses one accurately",
-      "Leave out closing.",
-      "Read too fast."
+      "face the wall",
+      "speak clearly",
+      "cover your mouth"
     ],
-    "correct": 0,
-    "explanation": "Any two such as length, unit, equal, end-to-end; sentence uses one accurately This matches the task.\nHint: End with a final statement, not just stopping.",
+    "correct": 1,
+    "explanation": "speak clearly is the best answer.",
     "structuredExplanation": {
-      "summary": "Any two such as length, unit, equal, end-to-end; sentence uses one accurately This matches the task.",
-      "hint": "End with a final statement, not just stopping."
+      "summary": "speak clearly is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 4
   },
   {
     "id": "ac9e1ly07-p-005",
     "curriculumCode": "AC9E1LY07",
     "bank": "practice",
-    "skill": "ac9e1ly07 05 recognise",
+    "skill": "create and deliver short oral and/or multimodal presentations on personal and learnt topics, which include an opening, middle and concluding statement",
     "printable": true,
     "type": "single",
-    "question": "Which response would correctly order presentation cards?",
-    "audioPrompt": "Which response would correctly order presentation cards?",
-    "visual": "📖 Order presentation cards; 🔎 gesture; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Order presentation cards; 🔎 gesture; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly07.svg#ac9e1ly07-p-009\"></use></svg>",
+    "question": "Which order is best for a talk?",
+    "audioPrompt": "Which order is best for a talk?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly07.svg#ac9e1ly07-p-009",
-      "alt_text": "📖 Order presentation cards; 🔎 gesture; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "conclusion → key idea two → key idea one → Opening",
-      "Read too fast.",
-      "Opening → key idea one → key idea two → conclusion"
+      "ending, opening, facts",
+      "opening, facts, ending",
+      "facts only"
     ],
-    "correct": 2,
-    "explanation": "Opening → key idea one → key idea two → conclusion This matches the task.\nHint: Practise steady pace.",
+    "correct": 1,
+    "explanation": "opening, facts, ending is the best answer.",
     "structuredExplanation": {
-      "summary": "Opening → key idea one → key idea two → conclusion This matches the task.",
-      "hint": "Practise steady pace."
+      "summary": "opening, facts, ending is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 5
   },
   {
     "id": "ac9e1ly07-p-006",
     "curriculumCode": "AC9E1LY07",
     "bank": "practice",
-    "skill": "ac9e1ly07 06 recognise",
+    "skill": "create and deliver short oral and/or multimodal presentations on personal and learnt topics, which include an opening, middle and concluding statement",
     "printable": true,
     "type": "single",
-    "question": "Which response would correctly draw one useful slide?",
-    "audioPrompt": "Which response would correctly draw one useful slide?",
-    "visual": "📖 Draw one useful slide; 🔎 opening; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Draw one useful slide; 🔎 opening; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly07.svg#ac9e1ly07-p-011\"></use></svg>",
+    "question": "Which picture would help a talk about a duck?",
+    "audioPrompt": "Which picture would help a talk about a duck?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly07.svg#ac9e1ly07-p-011",
-      "alt_text": "📖 Draw one useful slide; 🔎 opening; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Do not use gesture that helps meaning.",
-      "Readable heading, relevant labelled visual and concise layout",
-      "Leave out closing."
+      "a blank page",
+      "a picture of a kite",
+      "a clear picture of a duck"
     ],
-    "correct": 1,
-    "explanation": "Readable heading, relevant labelled visual and concise layout This matches the task.\nHint: Use gesture that helps meaning.",
+    "correct": 2,
+    "explanation": "a clear picture of a duck is the best answer.",
     "structuredExplanation": {
-      "summary": "Readable heading, relevant labelled visual and concise layout This matches the task.",
-      "hint": "Use gesture that helps meaning."
+      "summary": "a clear picture of a duck is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 6
   },
   {
     "id": "ac9e1ly07-p-007",
     "curriculumCode": "AC9E1LY07",
     "bank": "practice",
-    "skill": "ac9e1ly07 07 recognise",
+    "skill": "create and deliver short oral and/or multimodal presentations on personal and learnt topics, which include an opening, middle and concluding statement",
     "printable": true,
     "type": "single",
-    "question": "Why should a speaker pause briefly after an important idea instead of rushing?",
-    "audioPrompt": "Why should a speaker pause briefly after an important idea instead of rushing?",
-    "visual": "📖 Adjust pace; 🔎 middle; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Adjust pace; 🔎 middle; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly07.svg#ac9e1ly07-p-013\"></use></svg>",
+    "question": "Where should you look while speaking?",
+    "audioPrompt": "Where should you look while speaking?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly07.svg#ac9e1ly07-p-013",
-      "alt_text": "📖 Adjust pace; 🔎 middle; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Pause gives audience time to process and highlights the idea",
-      "Leave out closing.",
-      "Read too fast."
+      "only at the floor",
+      "towards the audience",
+      "behind you"
     ],
-    "correct": 0,
-    "explanation": "Pause gives audience time to process and highlights the idea This matches the task.\nHint: End with a final statement, not just stopping.",
+    "correct": 1,
+    "explanation": "towards the audience is the best answer.",
     "structuredExplanation": {
-      "summary": "Pause gives audience time to process and highlights the idea This matches the task.",
-      "hint": "End with a final statement, not just stopping."
+      "summary": "towards the audience is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 7
   },
   {
     "id": "ac9e1ly07-p-008",
     "curriculumCode": "AC9E1LY07",
     "bank": "practice",
-    "skill": "ac9e1ly07 08 recognise",
+    "skill": "create and deliver short oral and/or multimodal presentations on personal and learnt topics, which include an opening, middle and concluding statement",
     "printable": true,
     "type": "single",
-    "question": "Which response would correctly plan purposeful gestures?",
-    "audioPrompt": "Which response would correctly plan purposeful gestures?",
-    "visual": "📖 Plan purposeful gestures; 🔎 closing; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Plan purposeful gestures; 🔎 closing; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly07.svg#ac9e1ly07-p-015\"></use></svg>",
+    "question": "Which sentence gives one learnt fact?",
+    "audioPrompt": "Which sentence gives one learnt fact?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly07.svg#ac9e1ly07-p-015",
-      "alt_text": "📖 Plan purposeful gestures; 🔎 closing; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Read too fast.",
-      "Do not use gesture that helps meaning.",
-      "Uses controlled size/comparison gestures aligned with spoken points"
+      "This animal is the best!",
+      "A goat needs water.",
+      "Wow, a goat!"
     ],
-    "correct": 2,
-    "explanation": "Uses controlled size/comparison gestures aligned with spoken points This matches the task.\nHint: Practise steady pace.",
+    "correct": 1,
+    "explanation": "A goat needs water. is the best answer.",
     "structuredExplanation": {
-      "summary": "Uses controlled size/comparison gestures aligned with spoken points This matches the task.",
-      "hint": "Practise steady pace."
+      "summary": "A goat needs water. is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 8
   },
   {
     "id": "ac9e1ly07-p-009",
     "curriculumCode": "AC9E1LY07",
     "bank": "practice",
-    "skill": "ac9e1ly07 09 recognise",
+    "skill": "create and deliver short oral and/or multimodal presentations on personal and learnt topics, which include an opening, middle and concluding statement",
     "printable": true,
     "type": "single",
-    "question": "Which response would correctly write a conclusion?",
-    "audioPrompt": "Which response would correctly write a conclusion?",
-    "visual": "📖 Write a conclusion; 🔎 volume; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Write a conclusion; 🔎 volume; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly07.svg#ac9e1ly07-p-017\"></use></svg>",
+    "question": "Which opening tells the topic?",
+    "audioPrompt": "Which opening tells the topic?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly07.svg#ac9e1ly07-p-017",
-      "alt_text": "📖 Write a conclusion; 🔎 volume; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Do not use gesture that helps meaning.",
-      "A clear summary or call linked to topic, such as 'Clean water helps living things stay healthy'",
-      "Leave out closing."
+      "Today I will talk about hens.",
+      "Thank you for listening.",
+      "And then."
     ],
-    "correct": 1,
-    "explanation": "A clear summary or call linked to topic, such as 'Clean water helps living things stay healthy' This matches the task.\nHint: Use gesture that helps meaning.",
+    "correct": 0,
+    "explanation": "Today I will talk about hens. is the best answer.",
     "structuredExplanation": {
-      "summary": "A clear summary or call linked to topic, such as 'Clean water helps living things stay healthy' This matches the task.",
-      "hint": "Use gesture that helps meaning."
+      "summary": "Today I will talk about hens. is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 9
   },
   {
     "id": "ac9e1ly07-p-010",
     "curriculumCode": "AC9E1LY07",
     "bank": "practice",
-    "skill": "ac9e1ly07 10 recognise",
+    "skill": "create and deliver short oral and/or multimodal presentations on personal and learnt topics, which include an opening, middle and concluding statement",
     "printable": true,
     "type": "single",
-    "question": "Which response would correctly match delivery problems and fixes?",
-    "audioPrompt": "Which response would correctly match delivery problems and fixes?",
-    "visual": "📖 Match delivery problems and fixes; 🔎 gesture; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Match delivery problems and fixes; 🔎 gesture; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly07.svg#ac9e1ly07-p-019\"></use></svg>",
+    "question": "Which sentence belongs in the middle of a talk about the camp?",
+    "audioPrompt": "Which sentence belongs in the middle of a talk about the camp?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly07.svg#ac9e1ly07-p-019",
-      "alt_text": "📖 Match delivery problems and fixes; 🔎 gesture; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Each problem matched to appropriate fix",
-      "Leave out closing.",
-      "Read too fast."
+      "Thank you.",
+      "My talk is about cats.",
+      "You can play at the camp."
     ],
-    "correct": 0,
-    "explanation": "Each problem matched to appropriate fix This matches the task.\nHint: End with a final statement, not just stopping.",
+    "correct": 2,
+    "explanation": "You can play at the camp. is the best answer.",
     "structuredExplanation": {
-      "summary": "Each problem matched to appropriate fix This matches the task.",
-      "hint": "End with a final statement, not just stopping."
+      "summary": "You can play at the camp. is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 10
   },
   {
     "id": "ac9e1ly07-p-011",
     "curriculumCode": "AC9E1LY07",
     "bank": "practice",
-    "skill": "ac9e1ly07 01 explain",
+    "skill": "create and deliver short oral and/or multimodal presentations on personal and learnt topics, which include an opening, middle and concluding statement",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you identify an opening?",
-    "audioPrompt": "Which tip would help you identify an opening?",
-    "visual": "🧠 Identify an opening; ➡️ Opening; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Identify an opening; ➡️ Opening; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly07.svg#ac9e1ly07-p-002\"></use></svg>",
+    "question": "Which sentence can end a short talk?",
+    "audioPrompt": "Which sentence can end a short talk?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly07.svg#ac9e1ly07-p-002",
-      "alt_text": "🧠 Identify an opening; ➡️ Opening; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Read too fast.",
-      "End with a final statement, not just stopping.",
-      "Do not use gesture that helps meaning."
+      "My topic is …",
+      "Thank you for listening.",
+      "First, I will …"
     ],
     "correct": 1,
-    "explanation": "End with a final statement, not just stopping.\nHint: End with a final statement, not just stopping.",
+    "explanation": "Thank you for listening. is the best answer.",
     "structuredExplanation": {
-      "summary": "End with a final statement, not just stopping.",
-      "hint": "End with a final statement, not just stopping."
+      "summary": "Thank you for listening. is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 11
   },
   {
     "id": "ac9e1ly07-p-012",
     "curriculumCode": "AC9E1LY07",
     "bank": "practice",
-    "skill": "ac9e1ly07 02 explain",
+    "skill": "create and deliver short oral and/or multimodal presentations on personal and learnt topics, which include an opening, middle and concluding statement",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you match presentation parts?",
-    "audioPrompt": "Which tip would help you match presentation parts?",
-    "visual": "🧠 Match presentation parts; ➡️ Middle details; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Match presentation parts; ➡️ Middle details; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly07.svg#ac9e1ly07-p-004\"></use></svg>",
+    "question": "What helps the audience hear you?",
+    "audioPrompt": "What helps the audience hear you?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly07.svg#ac9e1ly07-p-004",
-      "alt_text": "🧠 Match presentation parts; ➡️ Middle details; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Use this routine: Opening → Middle details → Concluding statement → Practise voice/gesture.",
-      "Do not use gesture that helps meaning.",
-      "Leave out closing."
+      "speak clearly",
+      "face the wall",
+      "cover your mouth"
     ],
     "correct": 0,
-    "explanation": "Use this routine: Opening → Middle details → Concluding statement → Practise voice/gesture.\nHint: Practise steady pace.",
+    "explanation": "speak clearly is the best answer.",
     "structuredExplanation": {
-      "summary": "Use this routine: Opening → Middle details → Concluding statement → Practise voice/gesture.",
-      "hint": "Practise steady pace."
+      "summary": "speak clearly is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 12
   },
   {
     "id": "ac9e1ly07-p-013",
     "curriculumCode": "AC9E1LY07",
     "bank": "practice",
-    "skill": "ac9e1ly07 03 explain",
+    "skill": "create and deliver short oral and/or multimodal presentations on personal and learnt topics, which include an opening, middle and concluding statement",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you deliver a three-part talk?",
-    "audioPrompt": "Which tip would help you deliver a three-part talk?",
-    "visual": "🧠 Deliver a three-part talk; ➡️ Concluding statement; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Deliver a three-part talk; ➡️ Concluding statement; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly07.svg#ac9e1ly07-p-006\"></use></svg>",
+    "question": "Which order is best for a talk?",
+    "audioPrompt": "Which order is best for a talk?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly07.svg#ac9e1ly07-p-006",
-      "alt_text": "🧠 Deliver a three-part talk; ➡️ Concluding statement; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Leave out closing.",
-      "Read too fast.",
-      "Look for closing and check the whole example."
+      "facts only",
+      "ending, opening, facts",
+      "opening, facts, ending"
     ],
     "correct": 2,
-    "explanation": "Look for closing and check the whole example.\nHint: Use gesture that helps meaning.",
+    "explanation": "opening, facts, ending is the best answer.",
     "structuredExplanation": {
-      "summary": "Look for closing and check the whole example.",
-      "hint": "Use gesture that helps meaning."
+      "summary": "opening, facts, ending is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 13
   },
   {
     "id": "ac9e1ly07-p-014",
     "curriculumCode": "AC9E1LY07",
     "bank": "practice",
-    "skill": "ac9e1ly07 04 explain",
+    "skill": "create and deliver short oral and/or multimodal presentations on personal and learnt topics, which include an opening, middle and concluding statement",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you choose topic vocabulary?",
-    "audioPrompt": "Which tip would help you choose topic vocabulary?",
-    "visual": "🧠 Choose topic vocabulary; ➡️ Practise voice/gesture; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Choose topic vocabulary; ➡️ Practise voice/gesture; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly07.svg#ac9e1ly07-p-008\"></use></svg>",
+    "question": "Which picture would help a talk about a goat?",
+    "audioPrompt": "Which picture would help a talk about a goat?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly07.svg#ac9e1ly07-p-008",
-      "alt_text": "🧠 Choose topic vocabulary; ➡️ Practise voice/gesture; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Read too fast.",
-      "Check that you can speak clearly.",
-      "Do not use gesture that helps meaning."
+      "a picture of a hat",
+      "a clear picture of a goat",
+      "a blank page"
     ],
     "correct": 1,
-    "explanation": "Check that you can speak clearly.\nHint: End with a final statement, not just stopping.",
+    "explanation": "a clear picture of a goat is the best answer.",
     "structuredExplanation": {
-      "summary": "Check that you can speak clearly.",
-      "hint": "End with a final statement, not just stopping."
+      "summary": "a clear picture of a goat is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 14
   },
   {
     "id": "ac9e1ly07-p-015",
     "curriculumCode": "AC9E1LY07",
     "bank": "practice",
-    "skill": "ac9e1ly07 05 explain",
+    "skill": "create and deliver short oral and/or multimodal presentations on personal and learnt topics, which include an opening, middle and concluding statement",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you order presentation cards?",
-    "audioPrompt": "Which tip would help you order presentation cards?",
-    "visual": "🧠 Order presentation cards; ➡️ Opening; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Order presentation cards; ➡️ Opening; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly07.svg#ac9e1ly07-p-010\"></use></svg>",
+    "question": "Where should you look while speaking?",
+    "audioPrompt": "Where should you look while speaking?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly07.svg#ac9e1ly07-p-010",
-      "alt_text": "🧠 Order presentation cards; ➡️ Opening; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Sequencing a short presentation.",
-      "Do not use gesture that helps meaning.",
-      "Leave out closing."
+      "towards the audience",
+      "only at the floor",
+      "behind you"
     ],
     "correct": 0,
-    "explanation": "Sequencing a short presentation.\nHint: Practise steady pace.",
+    "explanation": "towards the audience is the best answer.",
     "structuredExplanation": {
-      "summary": "Sequencing a short presentation.",
-      "hint": "Practise steady pace."
+      "summary": "towards the audience is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 15
   },
   {
     "id": "ac9e1ly07-p-016",
     "curriculumCode": "AC9E1LY07",
     "bank": "practice",
-    "skill": "ac9e1ly07 06 explain",
+    "skill": "create and deliver short oral and/or multimodal presentations on personal and learnt topics, which include an opening, middle and concluding statement",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you draw one useful slide?",
-    "audioPrompt": "Which tip would help you draw one useful slide?",
-    "visual": "🧠 Draw one useful slide; ➡️ Middle details; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Draw one useful slide; ➡️ Middle details; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly07.svg#ac9e1ly07-p-012\"></use></svg>",
+    "question": "Which sentence gives one learnt fact?",
+    "audioPrompt": "Which sentence gives one learnt fact?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly07.svg#ac9e1ly07-p-012",
-      "alt_text": "🧠 Draw one useful slide; ➡️ Middle details; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Leave out closing.",
-      "Read too fast.",
-      "Use gesture that helps meaning."
+      "This animal is the best!",
+      "Wow, a dog!",
+      "A dog needs water."
     ],
     "correct": 2,
-    "explanation": "Use gesture that helps meaning.\nHint: Use gesture that helps meaning.",
+    "explanation": "A dog needs water. is the best answer.",
     "structuredExplanation": {
-      "summary": "Use gesture that helps meaning.",
-      "hint": "Use gesture that helps meaning."
+      "summary": "A dog needs water. is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 16
   },
   {
     "id": "ac9e1ly07-p-017",
     "curriculumCode": "AC9E1LY07",
     "bank": "practice",
-    "skill": "ac9e1ly07 07 explain",
+    "skill": "create and deliver short oral and/or multimodal presentations on personal and learnt topics, which include an opening, middle and concluding statement",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you adjust pace?",
-    "audioPrompt": "Which tip would help you adjust pace?",
-    "visual": "🧠 Adjust pace; ➡️ Concluding statement; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Adjust pace; ➡️ Concluding statement; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly07.svg#ac9e1ly07-p-014\"></use></svg>",
+    "question": "Which opening tells the topic?",
+    "audioPrompt": "Which opening tells the topic?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly07.svg#ac9e1ly07-p-014",
-      "alt_text": "🧠 Adjust pace; ➡️ Concluding statement; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Read too fast.",
-      "Use this routine: Opening → Middle details → Concluding statement → Practise voice/gesture.",
-      "Do not use gesture that helps meaning."
+      "Thank you for listening.",
+      "And then.",
+      "Today I will talk about frogs."
     ],
-    "correct": 1,
-    "explanation": "Use this routine: Opening → Middle details → Concluding statement → Practise voice/gesture.\nHint: End with a final statement, not just stopping.",
+    "correct": 2,
+    "explanation": "Today I will talk about frogs. is the best answer.",
     "structuredExplanation": {
-      "summary": "Use this routine: Opening → Middle details → Concluding statement → Practise voice/gesture.",
-      "hint": "End with a final statement, not just stopping."
+      "summary": "Today I will talk about frogs. is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 2,
+    "difficultyTier": "guided",
+    "sequencePriority": 17
   },
   {
     "id": "ac9e1ly07-p-018",
     "curriculumCode": "AC9E1LY07",
     "bank": "practice",
-    "skill": "ac9e1ly07 08 explain",
+    "skill": "create and deliver short oral and/or multimodal presentations on personal and learnt topics, which include an opening, middle and concluding statement",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you plan purposeful gestures?",
-    "audioPrompt": "Which tip would help you plan purposeful gestures?",
-    "visual": "🧠 Plan purposeful gestures; ➡️ Practise voice/gesture; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Plan purposeful gestures; ➡️ Practise voice/gesture; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly07.svg#ac9e1ly07-p-016\"></use></svg>",
+    "question": "Which sentence belongs in the middle of a talk about the beach?",
+    "audioPrompt": "Which sentence belongs in the middle of a talk about the beach?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly07.svg#ac9e1ly07-p-016",
-      "alt_text": "🧠 Plan purposeful gestures; ➡️ Practise voice/gesture; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Look for closing and check the whole example.",
-      "Do not use gesture that helps meaning.",
-      "Leave out closing."
+      "You can play at the beach.",
+      "Thank you.",
+      "My talk is about cats."
     ],
     "correct": 0,
-    "explanation": "Look for closing and check the whole example.\nHint: Practise steady pace.",
+    "explanation": "You can play at the beach. is the best answer.",
     "structuredExplanation": {
-      "summary": "Look for closing and check the whole example.",
-      "hint": "Practise steady pace."
+      "summary": "You can play at the beach. is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 2,
+    "difficultyTier": "guided",
+    "sequencePriority": 18
   },
   {
     "id": "ac9e1ly07-p-019",
     "curriculumCode": "AC9E1LY07",
     "bank": "practice",
-    "skill": "ac9e1ly07 09 explain",
+    "skill": "create and deliver short oral and/or multimodal presentations on personal and learnt topics, which include an opening, middle and concluding statement",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you write a conclusion?",
-    "audioPrompt": "Which tip would help you write a conclusion?",
-    "visual": "🧠 Write a conclusion; ➡️ Opening; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Write a conclusion; ➡️ Opening; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly07.svg#ac9e1ly07-p-018\"></use></svg>",
+    "question": "Read and choose: Which sentence can end a short talk?",
+    "audioPrompt": "Read and choose: Which sentence can end a short talk?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly07.svg#ac9e1ly07-p-018",
-      "alt_text": "🧠 Write a conclusion; ➡️ Opening; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Leave out closing.",
-      "Read too fast.",
-      "Check that you can speak clearly."
+      "First, I will …",
+      "Thank you for listening.",
+      "My topic is …"
     ],
-    "correct": 2,
-    "explanation": "Check that you can speak clearly.\nHint: Use gesture that helps meaning.",
+    "correct": 1,
+    "explanation": "Thank you for listening. is the best answer.",
     "structuredExplanation": {
-      "summary": "Check that you can speak clearly.",
-      "hint": "Use gesture that helps meaning."
+      "summary": "Thank you for listening. is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 2,
+    "difficultyTier": "guided",
+    "sequencePriority": 19
   },
   {
     "id": "ac9e1ly07-p-020",
     "curriculumCode": "AC9E1LY07",
     "bank": "practice",
-    "skill": "ac9e1ly07 10 explain",
+    "skill": "create and deliver short oral and/or multimodal presentations on personal and learnt topics, which include an opening, middle and concluding statement",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you match delivery problems and fixes?",
-    "audioPrompt": "Which tip would help you match delivery problems and fixes?",
-    "visual": "🧠 Match delivery problems and fixes; ➡️ Middle details; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Match delivery problems and fixes; ➡️ Middle details; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly07.svg#ac9e1ly07-p-020\"></use></svg>",
+    "question": "What helps the audience hear you?",
+    "audioPrompt": "What helps the audience hear you?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly07.svg#ac9e1ly07-p-020",
-      "alt_text": "🧠 Match delivery problems and fixes; ➡️ Middle details; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Read too fast.",
-      "Improving oral delivery.",
-      "Do not use gesture that helps meaning."
+      "speak clearly",
+      "cover your mouth",
+      "face the wall"
     ],
-    "correct": 1,
-    "explanation": "Improving oral delivery.\nHint: End with a final statement, not just stopping.",
+    "correct": 0,
+    "explanation": "speak clearly is the best answer.",
     "structuredExplanation": {
-      "summary": "Improving oral delivery.",
-      "hint": "End with a final statement, not just stopping."
+      "summary": "speak clearly is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 2,
+    "difficultyTier": "guided",
+    "sequencePriority": 20
   },
   {
     "id": "ac9e1ly07-p-021",
     "curriculumCode": "AC9E1LY07",
     "bank": "practice",
-    "skill": "ac9e1ly07 01 discriminate",
+    "skill": "create and deliver short oral and/or multimodal presentations on personal and learnt topics, which include an opening, middle and concluding statement",
     "printable": true,
     "type": "single",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": "📖 Identify an opening; 🔎 opening; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Identify an opening; 🔎 opening; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly07.svg#ac9e1ly07-p-001\"></use></svg>",
+    "question": "Which order is best for a talk?",
+    "audioPrompt": "Which order is best for a talk?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly07.svg#ac9e1ly07-p-001",
-      "alt_text": "📖 Identify an opening; 🔎 opening; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Today I will show how seeds grow",
-      "'Today I will show how seeds grow'",
-      "End with a final statement, not just stopping."
+      "facts only",
+      "opening, facts, ending",
+      "ending, opening, facts"
     ],
-    "correct": 0,
-    "explanation": "Today I will show how seeds grow is the mix-up. End with a final statement, not just stopping.\nHint: End with a final statement, not just stopping.",
+    "correct": 1,
+    "explanation": "opening, facts, ending is the best answer.",
     "structuredExplanation": {
-      "summary": "Today I will show how seeds grow is the mix-up. End with a final statement, not just stopping.",
-      "hint": "End with a final statement, not just stopping."
+      "summary": "opening, facts, ending is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 2,
+    "difficultyTier": "guided",
+    "sequencePriority": 21
   },
   {
     "id": "ac9e1ly07-p-022",
     "curriculumCode": "AC9E1LY07",
     "bank": "practice",
-    "skill": "ac9e1ly07 02 discriminate",
+    "skill": "create and deliver short oral and/or multimodal presentations on personal and learnt topics, which include an opening, middle and concluding statement",
     "printable": true,
     "type": "single",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": "📖 Match presentation parts; 🔎 middle; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Match presentation parts; 🔎 middle; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly07.svg#ac9e1ly07-p-003\"></use></svg>",
+    "question": "Which picture would help a talk about a dog?",
+    "audioPrompt": "Which picture would help a talk about a dog?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly07.svg#ac9e1ly07-p-003",
-      "alt_text": "📖 Match presentation parts; 🔎 middle; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Each part matched correctly",
-      "Read too fast.",
-      "Use this routine: Opening → Middle details → Concluding statement → Practise voice/gesture."
+      "a picture of a book",
+      "a blank page",
+      "a clear picture of a dog"
     ],
-    "correct": 1,
-    "explanation": "Read too fast. is the mix-up. Practise steady pace.\nHint: Practise steady pace.",
+    "correct": 2,
+    "explanation": "a clear picture of a dog is the best answer.",
     "structuredExplanation": {
-      "summary": "Read too fast. is the mix-up. Practise steady pace.",
-      "hint": "Practise steady pace."
+      "summary": "a clear picture of a dog is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 2,
+    "difficultyTier": "guided",
+    "sequencePriority": 22
   },
   {
     "id": "ac9e1ly07-p-023",
     "curriculumCode": "AC9E1LY07",
     "bank": "practice",
-    "skill": "ac9e1ly07 03 discriminate",
+    "skill": "create and deliver short oral and/or multimodal presentations on personal and learnt topics, which include an opening, middle and concluding statement",
     "printable": true,
     "type": "single",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": "📖 Deliver a three-part talk; 🔎 closing; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Deliver a three-part talk; 🔎 closing; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly07.svg#ac9e1ly07-p-005\"></use></svg>",
+    "question": "Read and choose: Where should you look while speaking?",
+    "audioPrompt": "Read and choose: Where should you look while speaking?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly07.svg#ac9e1ly07-p-005",
-      "alt_text": "📖 Deliver a three-part talk; 🔎 closing; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "All three parts are present and spoken clearly at suitable volume/pace",
-      "Look for closing and check the whole example.",
-      "Do not use gesture that helps meaning."
+      "only at the floor",
+      "towards the audience",
+      "behind you"
     ],
-    "correct": 2,
-    "explanation": "Do not use gesture that helps meaning. is the mix-up. Use gesture that helps meaning.\nHint: Use gesture that helps meaning.",
+    "correct": 1,
+    "explanation": "towards the audience is the best answer.",
     "structuredExplanation": {
-      "summary": "Do not use gesture that helps meaning. is the mix-up. Use gesture that helps meaning.",
-      "hint": "Use gesture that helps meaning."
+      "summary": "towards the audience is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 2,
+    "difficultyTier": "guided",
+    "sequencePriority": 23
   },
   {
     "id": "ac9e1ly07-p-024",
     "curriculumCode": "AC9E1LY07",
     "bank": "practice",
-    "skill": "ac9e1ly07 04 discriminate",
+    "skill": "create and deliver short oral and/or multimodal presentations on personal and learnt topics, which include an opening, middle and concluding statement",
     "printable": true,
     "type": "single",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": "📖 Choose topic vocabulary; 🔎 volume; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Choose topic vocabulary; 🔎 volume; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly07.svg#ac9e1ly07-p-007\"></use></svg>",
+    "question": "Which sentence gives one learnt fact?",
+    "audioPrompt": "Which sentence gives one learnt fact?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly07.svg#ac9e1ly07-p-007",
-      "alt_text": "📖 Choose topic vocabulary; 🔎 volume; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Leave out closing.",
-      "Any two such as length, unit, equal, end-to-end; sentence uses one accurately",
-      "Check that you can speak clearly."
+      "This animal is the best!",
+      "A fox needs water.",
+      "Wow, a fox!"
     ],
-    "correct": 0,
-    "explanation": "Leave out closing. is the mix-up. End with a final statement, not just stopping.\nHint: End with a final statement, not just stopping.",
+    "correct": 1,
+    "explanation": "A fox needs water. is the best answer.",
     "structuredExplanation": {
-      "summary": "Leave out closing. is the mix-up. End with a final statement, not just stopping.",
-      "hint": "End with a final statement, not just stopping."
+      "summary": "A fox needs water. is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 2,
+    "difficultyTier": "guided",
+    "sequencePriority": 24
   },
   {
     "id": "ac9e1ly07-p-025",
     "curriculumCode": "AC9E1LY07",
     "bank": "practice",
-    "skill": "ac9e1ly07 05 discriminate",
+    "skill": "create and deliver short oral and/or multimodal presentations on personal and learnt topics, which include an opening, middle and concluding statement",
     "printable": true,
     "type": "single",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": "📖 Order presentation cards; 🔎 gesture; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Order presentation cards; 🔎 gesture; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly07.svg#ac9e1ly07-p-009\"></use></svg>",
+    "question": "Which opening tells the topic?",
+    "audioPrompt": "Which opening tells the topic?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly07.svg#ac9e1ly07-p-009",
-      "alt_text": "📖 Order presentation cards; 🔎 gesture; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Opening → key idea one → key idea two → conclusion",
-      "conclusion → key idea two → key idea one → Opening",
-      "Sequencing a short presentation."
+      "And then.",
+      "Thank you for listening.",
+      "Today I will talk about fishs."
     ],
-    "correct": 1,
-    "explanation": "conclusion → key idea two → key idea one → Opening is the mix-up. Practise steady pace.\nHint: Practise steady pace.",
+    "correct": 2,
+    "explanation": "Today I will talk about fishs. is the best answer.",
     "structuredExplanation": {
-      "summary": "conclusion → key idea two → key idea one → Opening is the mix-up. Practise steady pace.",
-      "hint": "Practise steady pace."
+      "summary": "Today I will talk about fishs. is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 2,
+    "difficultyTier": "guided",
+    "sequencePriority": 25
   },
   {
     "id": "ac9e1ly07-p-026",
     "curriculumCode": "AC9E1LY07",
     "bank": "practice",
-    "skill": "ac9e1ly07 06 discriminate",
+    "skill": "create and deliver short oral and/or multimodal presentations on personal and learnt topics, which include an opening, middle and concluding statement",
     "printable": true,
     "type": "single",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": "📖 Draw one useful slide; 🔎 opening; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Draw one useful slide; 🔎 opening; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly07.svg#ac9e1ly07-p-011\"></use></svg>",
+    "question": "Which sentence belongs in the middle of a talk about the park?",
+    "audioPrompt": "Which sentence belongs in the middle of a talk about the park?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly07.svg#ac9e1ly07-p-011",
-      "alt_text": "📖 Draw one useful slide; 🔎 opening; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Readable heading, relevant labelled visual and concise layout",
-      "Use gesture that helps meaning.",
-      "Do not use gesture that helps meaning."
+      "My talk is about cats.",
+      "You can play at the park.",
+      "Thank you."
     ],
-    "correct": 2,
-    "explanation": "Do not use gesture that helps meaning. is the mix-up. Use gesture that helps meaning.\nHint: Use gesture that helps meaning.",
+    "correct": 1,
+    "explanation": "You can play at the park. is the best answer.",
     "structuredExplanation": {
-      "summary": "Do not use gesture that helps meaning. is the mix-up. Use gesture that helps meaning.",
-      "hint": "Use gesture that helps meaning."
+      "summary": "You can play at the park. is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 2,
+    "difficultyTier": "guided",
+    "sequencePriority": 26
   },
   {
     "id": "ac9e1ly07-p-027",
     "curriculumCode": "AC9E1LY07",
     "bank": "practice",
-    "skill": "ac9e1ly07 07 discriminate",
+    "skill": "create and deliver short oral and/or multimodal presentations on personal and learnt topics, which include an opening, middle and concluding statement",
     "printable": true,
     "type": "single",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": "📖 Adjust pace; 🔎 middle; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Adjust pace; 🔎 middle; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly07.svg#ac9e1ly07-p-013\"></use></svg>",
+    "question": "Which sentence can end a short talk?",
+    "audioPrompt": "Which sentence can end a short talk?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly07.svg#ac9e1ly07-p-013",
-      "alt_text": "📖 Adjust pace; 🔎 middle; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Leave out closing.",
-      "Pause gives audience time to process and highlights the idea",
-      "Use this routine: Opening → Middle details → Concluding statement → Practise voice/gesture."
+      "My topic is …",
+      "First, I will …",
+      "Thank you for listening."
     ],
-    "correct": 0,
-    "explanation": "Leave out closing. is the mix-up. End with a final statement, not just stopping.\nHint: End with a final statement, not just stopping.",
+    "correct": 2,
+    "explanation": "Thank you for listening. is the best answer.",
     "structuredExplanation": {
-      "summary": "Leave out closing. is the mix-up. End with a final statement, not just stopping.",
-      "hint": "End with a final statement, not just stopping."
+      "summary": "Thank you for listening. is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 2,
+    "difficultyTier": "guided",
+    "sequencePriority": 27
   },
   {
     "id": "ac9e1ly07-p-028",
     "curriculumCode": "AC9E1LY07",
     "bank": "practice",
-    "skill": "ac9e1ly07 08 discriminate",
+    "skill": "create and deliver short oral and/or multimodal presentations on personal and learnt topics, which include an opening, middle and concluding statement",
     "printable": true,
     "type": "single",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": "📖 Plan purposeful gestures; 🔎 closing; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Plan purposeful gestures; 🔎 closing; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly07.svg#ac9e1ly07-p-015\"></use></svg>",
+    "question": "Read and choose: What helps the audience hear you?",
+    "audioPrompt": "Read and choose: What helps the audience hear you?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly07.svg#ac9e1ly07-p-015",
-      "alt_text": "📖 Plan purposeful gestures; 🔎 closing; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Uses controlled size/comparison gestures aligned with spoken points",
-      "Read too fast.",
-      "Look for closing and check the whole example."
+      "speak clearly",
+      "cover your mouth",
+      "face the wall"
     ],
-    "correct": 1,
-    "explanation": "Read too fast. is the mix-up. Practise steady pace.\nHint: Practise steady pace.",
+    "correct": 0,
+    "explanation": "speak clearly is the best answer.",
     "structuredExplanation": {
-      "summary": "Read too fast. is the mix-up. Practise steady pace.",
-      "hint": "Practise steady pace."
+      "summary": "speak clearly is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 2,
+    "difficultyTier": "guided",
+    "sequencePriority": 28
   },
   {
     "id": "ac9e1ly07-p-029",
     "curriculumCode": "AC9E1LY07",
     "bank": "practice",
-    "skill": "ac9e1ly07 09 discriminate",
+    "skill": "create and deliver short oral and/or multimodal presentations on personal and learnt topics, which include an opening, middle and concluding statement",
     "printable": true,
     "type": "single",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": "📖 Write a conclusion; 🔎 volume; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Write a conclusion; 🔎 volume; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly07.svg#ac9e1ly07-p-017\"></use></svg>",
+    "question": "Read and choose: Which order is best for a talk?",
+    "audioPrompt": "Read and choose: Which order is best for a talk?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly07.svg#ac9e1ly07-p-017",
-      "alt_text": "📖 Write a conclusion; 🔎 volume; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "A clear summary or call linked to topic, such as 'Clean water helps living things stay healthy'",
-      "Check that you can speak clearly.",
-      "Do not use gesture that helps meaning."
+      "facts only",
+      "ending, opening, facts",
+      "opening, facts, ending"
     ],
     "correct": 2,
-    "explanation": "Do not use gesture that helps meaning. is the mix-up. Use gesture that helps meaning.\nHint: Use gesture that helps meaning.",
+    "explanation": "opening, facts, ending is the best answer.",
     "structuredExplanation": {
-      "summary": "Do not use gesture that helps meaning. is the mix-up. Use gesture that helps meaning.",
-      "hint": "Use gesture that helps meaning."
+      "summary": "opening, facts, ending is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 2,
+    "difficultyTier": "guided",
+    "sequencePriority": 29
   },
   {
     "id": "ac9e1ly07-p-030",
     "curriculumCode": "AC9E1LY07",
     "bank": "practice",
-    "skill": "ac9e1ly07 10 discriminate",
+    "skill": "create and deliver short oral and/or multimodal presentations on personal and learnt topics, which include an opening, middle and concluding statement",
     "printable": true,
     "type": "single",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": "📖 Match delivery problems and fixes; 🔎 gesture; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Match delivery problems and fixes; 🔎 gesture; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly07.svg#ac9e1ly07-p-019\"></use></svg>",
+    "question": "Which picture would help a talk about a fox?",
+    "audioPrompt": "Which picture would help a talk about a fox?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly07.svg#ac9e1ly07-p-019",
-      "alt_text": "📖 Match delivery problems and fixes; 🔎 gesture; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Leave out closing.",
-      "Each problem matched to appropriate fix",
-      "Improving oral delivery."
+      "a picture of a sock",
+      "a clear picture of a fox",
+      "a blank page"
     ],
-    "correct": 0,
-    "explanation": "Leave out closing. is the mix-up. End with a final statement, not just stopping.\nHint: End with a final statement, not just stopping.",
+    "correct": 1,
+    "explanation": "a clear picture of a fox is the best answer.",
     "structuredExplanation": {
-      "summary": "Leave out closing. is the mix-up. End with a final statement, not just stopping.",
-      "hint": "End with a final statement, not just stopping."
+      "summary": "a clear picture of a fox is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 2,
+    "difficultyTier": "guided",
+    "sequencePriority": 30
   },
   {
     "id": "ac9e1ly07-p-031",
     "curriculumCode": "AC9E1LY07",
     "bank": "practice",
-    "skill": "ac9e1ly07 01 apply",
+    "skill": "create and deliver short oral and/or multimodal presentations on personal and learnt topics, which include an opening, middle and concluding statement",
     "printable": true,
     "type": "single",
-    "question": "Which choice would best use this skill in a new example?",
-    "audioPrompt": "Which choice would best use this skill in a new example?",
-    "visual": "📖 Identify an opening; 🔎 opening; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Identify an opening; 🔎 opening; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly07.svg#ac9e1ly07-p-001\"></use></svg>",
+    "question": "Where should you look while speaking?",
+    "audioPrompt": "Where should you look while speaking?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly07.svg#ac9e1ly07-p-001",
-      "alt_text": "📖 Identify an opening; 🔎 opening; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Today I will show how seeds grow",
-      "'Today I will show how seeds grow'",
-      "That is all"
+      "towards the audience",
+      "behind you",
+      "only at the floor"
     ],
-    "correct": 1,
-    "explanation": "'Today I will show how seeds grow' uses the skill correctly. End with a final statement, not just stopping.\nHint: End with a final statement, not just stopping.",
+    "correct": 0,
+    "explanation": "towards the audience is the best answer.",
     "structuredExplanation": {
-      "summary": "'Today I will show how seeds grow' uses the skill correctly. End with a final statement, not just stopping.",
-      "hint": "End with a final statement, not just stopping."
+      "summary": "towards the audience is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 2,
+    "difficultyTier": "guided",
+    "sequencePriority": 31
   },
   {
     "id": "ac9e1ly07-p-032",
     "curriculumCode": "AC9E1LY07",
     "bank": "practice",
-    "skill": "ac9e1ly07 02 apply",
+    "skill": "create and deliver short oral and/or multimodal presentations on personal and learnt topics, which include an opening, middle and concluding statement",
     "printable": true,
     "type": "single",
-    "question": "Which choice would best use this skill in a new example?",
-    "audioPrompt": "Which choice would best use this skill in a new example?",
-    "visual": "📖 Match presentation parts; 🔎 middle; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Match presentation parts; 🔎 middle; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly07.svg#ac9e1ly07-p-003\"></use></svg>",
+    "question": "Which sentence gives one learnt fact?",
+    "audioPrompt": "Which sentence gives one learnt fact?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly07.svg#ac9e1ly07-p-003",
-      "alt_text": "📖 Match presentation parts; 🔎 middle; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Read too fast.",
-      "Do not use gesture that helps meaning.",
-      "Each part matched correctly"
+      "This animal is the best!",
+      "Wow, a duck!",
+      "A duck needs water."
     ],
     "correct": 2,
-    "explanation": "Each part matched correctly uses the skill correctly. Practise steady pace.\nHint: Practise steady pace.",
+    "explanation": "A duck needs water. is the best answer.",
     "structuredExplanation": {
-      "summary": "Each part matched correctly uses the skill correctly. Practise steady pace.",
-      "hint": "Practise steady pace."
+      "summary": "A duck needs water. is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 2,
+    "difficultyTier": "guided",
+    "sequencePriority": 32
   },
   {
     "id": "ac9e1ly07-p-033",
     "curriculumCode": "AC9E1LY07",
     "bank": "practice",
-    "skill": "ac9e1ly07 03 apply",
+    "skill": "create and deliver short oral and/or multimodal presentations on personal and learnt topics, which include an opening, middle and concluding statement",
     "printable": true,
     "type": "single",
-    "question": "Which choice would best use this skill in a new example?",
-    "audioPrompt": "Which choice would best use this skill in a new example?",
-    "visual": "📖 Deliver a three-part talk; 🔎 closing; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Deliver a three-part talk; 🔎 closing; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly07.svg#ac9e1ly07-p-005\"></use></svg>",
+    "question": "Which opening tells the topic?",
+    "audioPrompt": "Which opening tells the topic?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly07.svg#ac9e1ly07-p-005",
-      "alt_text": "📖 Deliver a three-part talk; 🔎 closing; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "All three parts are present and spoken clearly at suitable volume/pace",
-      "Do not use gesture that helps meaning.",
-      "Leave out closing."
+      "Thank you for listening.",
+      "Today I will talk about cats.",
+      "And then."
     ],
-    "correct": 0,
-    "explanation": "All three parts are present and spoken clearly at suitable volume/pace uses the skill correctly. Use gesture that helps meaning.\nHint: Use gesture that helps meaning.",
+    "correct": 1,
+    "explanation": "Today I will talk about cats. is the best answer.",
     "structuredExplanation": {
-      "summary": "All three parts are present and spoken clearly at suitable volume/pace uses the skill correctly. Use gesture that helps meaning.",
-      "hint": "Use gesture that helps meaning."
+      "summary": "Today I will talk about cats. is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 33
   },
   {
     "id": "ac9e1ly07-p-034",
     "curriculumCode": "AC9E1LY07",
     "bank": "practice",
-    "skill": "ac9e1ly07 04 apply",
+    "skill": "create and deliver short oral and/or multimodal presentations on personal and learnt topics, which include an opening, middle and concluding statement",
     "printable": true,
     "type": "single",
-    "question": "Which choice would best use this skill in a new example?",
-    "audioPrompt": "Which choice would best use this skill in a new example?",
-    "visual": "📖 Choose topic vocabulary; 🔎 volume; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Choose topic vocabulary; 🔎 volume; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly07.svg#ac9e1ly07-p-007\"></use></svg>",
+    "question": "Which sentence belongs in the middle of a talk about the pond?",
+    "audioPrompt": "Which sentence belongs in the middle of a talk about the pond?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly07.svg#ac9e1ly07-p-007",
-      "alt_text": "📖 Choose topic vocabulary; 🔎 volume; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Leave out closing.",
-      "Any two such as length, unit, equal, end-to-end; sentence uses one accurately",
-      "Read too fast."
+      "You can play at the pond.",
+      "Thank you.",
+      "My talk is about cats."
     ],
-    "correct": 1,
-    "explanation": "Any two such as length, unit, equal, end-to-end; sentence uses one accurately uses the skill correctly. End with a final statement, not just stopping.\nHint: End with a final statement, not just stopping.",
+    "correct": 0,
+    "explanation": "You can play at the pond. is the best answer.",
     "structuredExplanation": {
-      "summary": "Any two such as length, unit, equal, end-to-end; sentence uses one accurately uses the skill correctly. End with a final statement, not just stopping.",
-      "hint": "End with a final statement, not just stopping."
+      "summary": "You can play at the pond. is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 34
   },
   {
     "id": "ac9e1ly07-p-035",
     "curriculumCode": "AC9E1LY07",
     "bank": "practice",
-    "skill": "ac9e1ly07 05 apply",
+    "skill": "create and deliver short oral and/or multimodal presentations on personal and learnt topics, which include an opening, middle and concluding statement",
     "printable": true,
     "type": "single",
-    "question": "Which choice would best use this skill in a new example?",
-    "audioPrompt": "Which choice would best use this skill in a new example?",
-    "visual": "📖 Order presentation cards; 🔎 gesture; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Order presentation cards; 🔎 gesture; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly07.svg#ac9e1ly07-p-009\"></use></svg>",
+    "question": "Look and choose: Which sentence can end a short talk?",
+    "audioPrompt": "Look and choose: Which sentence can end a short talk?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly07.svg#ac9e1ly07-p-009",
-      "alt_text": "📖 Order presentation cards; 🔎 gesture; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "conclusion → key idea two → key idea one → Opening",
-      "Read too fast.",
-      "Opening → key idea one → key idea two → conclusion"
+      "First, I will …",
+      "Thank you for listening.",
+      "My topic is …"
     ],
-    "correct": 2,
-    "explanation": "Opening → key idea one → key idea two → conclusion uses the skill correctly. Practise steady pace.\nHint: Practise steady pace.",
+    "correct": 1,
+    "explanation": "Thank you for listening. is the best answer.",
     "structuredExplanation": {
-      "summary": "Opening → key idea one → key idea two → conclusion uses the skill correctly. Practise steady pace.",
-      "hint": "Practise steady pace."
+      "summary": "Thank you for listening. is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 35
   },
   {
     "id": "ac9e1ly07-p-036",
     "curriculumCode": "AC9E1LY07",
     "bank": "practice",
-    "skill": "ac9e1ly07 06 apply",
+    "skill": "create and deliver short oral and/or multimodal presentations on personal and learnt topics, which include an opening, middle and concluding statement",
     "printable": true,
     "type": "single",
-    "question": "Which choice would best use this skill in a new example?",
-    "audioPrompt": "Which choice would best use this skill in a new example?",
-    "visual": "📖 Draw one useful slide; 🔎 opening; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Draw one useful slide; 🔎 opening; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly07.svg#ac9e1ly07-p-011\"></use></svg>",
+    "question": "What helps the audience hear you?",
+    "audioPrompt": "What helps the audience hear you?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly07.svg#ac9e1ly07-p-011",
-      "alt_text": "📖 Draw one useful slide; 🔎 opening; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Readable heading, relevant labelled visual and concise layout",
-      "Do not use gesture that helps meaning.",
-      "Leave out closing."
+      "cover your mouth",
+      "speak clearly",
+      "face the wall"
     ],
-    "correct": 0,
-    "explanation": "Readable heading, relevant labelled visual and concise layout uses the skill correctly. Use gesture that helps meaning.\nHint: Use gesture that helps meaning.",
+    "correct": 1,
+    "explanation": "speak clearly is the best answer.",
     "structuredExplanation": {
-      "summary": "Readable heading, relevant labelled visual and concise layout uses the skill correctly. Use gesture that helps meaning.",
-      "hint": "Use gesture that helps meaning."
+      "summary": "speak clearly is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 36
   },
   {
     "id": "ac9e1ly07-p-037",
     "curriculumCode": "AC9E1LY07",
     "bank": "practice",
-    "skill": "ac9e1ly07 07 apply",
+    "skill": "create and deliver short oral and/or multimodal presentations on personal and learnt topics, which include an opening, middle and concluding statement",
     "printable": true,
     "type": "single",
-    "question": "Which choice would best use this skill in a new example?",
-    "audioPrompt": "Which choice would best use this skill in a new example?",
-    "visual": "📖 Adjust pace; 🔎 middle; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Adjust pace; 🔎 middle; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly07.svg#ac9e1ly07-p-013\"></use></svg>",
+    "question": "Which order is best for a talk?",
+    "audioPrompt": "Which order is best for a talk?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly07.svg#ac9e1ly07-p-013",
-      "alt_text": "📖 Adjust pace; 🔎 middle; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Leave out closing.",
-      "Pause gives audience time to process and highlights the idea",
-      "Read too fast."
+      "opening, facts, ending",
+      "ending, opening, facts",
+      "facts only"
     ],
-    "correct": 1,
-    "explanation": "Pause gives audience time to process and highlights the idea uses the skill correctly. End with a final statement, not just stopping.\nHint: End with a final statement, not just stopping.",
+    "correct": 0,
+    "explanation": "opening, facts, ending is the best answer.",
     "structuredExplanation": {
-      "summary": "Pause gives audience time to process and highlights the idea uses the skill correctly. End with a final statement, not just stopping.",
-      "hint": "End with a final statement, not just stopping."
+      "summary": "opening, facts, ending is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 37
   },
   {
     "id": "ac9e1ly07-p-038",
     "curriculumCode": "AC9E1LY07",
     "bank": "practice",
-    "skill": "ac9e1ly07 08 apply",
+    "skill": "create and deliver short oral and/or multimodal presentations on personal and learnt topics, which include an opening, middle and concluding statement",
     "printable": true,
     "type": "single",
-    "question": "Which choice would best use this skill in a new example?",
-    "audioPrompt": "Which choice would best use this skill in a new example?",
-    "visual": "📖 Plan purposeful gestures; 🔎 closing; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Plan purposeful gestures; 🔎 closing; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly07.svg#ac9e1ly07-p-015\"></use></svg>",
+    "question": "Which picture would help a talk about a duck?",
+    "audioPrompt": "Which picture would help a talk about a duck?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly07.svg#ac9e1ly07-p-015",
-      "alt_text": "📖 Plan purposeful gestures; 🔎 closing; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Read too fast.",
-      "Do not use gesture that helps meaning.",
-      "Uses controlled size/comparison gestures aligned with spoken points"
+      "a blank page",
+      "a clear picture of a duck",
+      "a picture of a bag"
     ],
-    "correct": 2,
-    "explanation": "Uses controlled size/comparison gestures aligned with spoken points uses the skill correctly. Practise steady pace.\nHint: Practise steady pace.",
+    "correct": 1,
+    "explanation": "a clear picture of a duck is the best answer.",
     "structuredExplanation": {
-      "summary": "Uses controlled size/comparison gestures aligned with spoken points uses the skill correctly. Practise steady pace.",
-      "hint": "Practise steady pace."
+      "summary": "a clear picture of a duck is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 38
   },
   {
     "id": "ac9e1ly07-p-039",
     "curriculumCode": "AC9E1LY07",
     "bank": "practice",
-    "skill": "ac9e1ly07 09 apply",
+    "skill": "create and deliver short oral and/or multimodal presentations on personal and learnt topics, which include an opening, middle and concluding statement",
     "printable": true,
     "type": "single",
-    "question": "Which choice would best use this skill in a new example?",
-    "audioPrompt": "Which choice would best use this skill in a new example?",
-    "visual": "📖 Write a conclusion; 🔎 volume; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Write a conclusion; 🔎 volume; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly07.svg#ac9e1ly07-p-017\"></use></svg>",
+    "question": "Where should you look while speaking?",
+    "audioPrompt": "Where should you look while speaking?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly07.svg#ac9e1ly07-p-017",
-      "alt_text": "📖 Write a conclusion; 🔎 volume; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "A clear summary or call linked to topic, such as 'Clean water helps living things stay healthy'",
-      "Do not use gesture that helps meaning.",
-      "Leave out closing."
+      "behind you",
+      "only at the floor",
+      "towards the audience"
     ],
-    "correct": 0,
-    "explanation": "A clear summary or call linked to topic, such as 'Clean water helps living things stay healthy' uses the skill correctly. Use gesture that helps meaning.\nHint: Use gesture that helps meaning.",
+    "correct": 2,
+    "explanation": "towards the audience is the best answer.",
     "structuredExplanation": {
-      "summary": "A clear summary or call linked to topic, such as 'Clean water helps living things stay healthy' uses the skill correctly. Use gesture that helps meaning.",
-      "hint": "Use gesture that helps meaning."
+      "summary": "towards the audience is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 39
   },
   {
     "id": "ac9e1ly07-p-040",
     "curriculumCode": "AC9E1LY07",
     "bank": "practice",
-    "skill": "ac9e1ly07 10 apply",
+    "skill": "create and deliver short oral and/or multimodal presentations on personal and learnt topics, which include an opening, middle and concluding statement",
     "printable": true,
     "type": "single",
-    "question": "Which choice would best use this skill in a new example?",
-    "audioPrompt": "Which choice would best use this skill in a new example?",
-    "visual": "📖 Match delivery problems and fixes; 🔎 gesture; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Match delivery problems and fixes; 🔎 gesture; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly07.svg#ac9e1ly07-p-019\"></use></svg>",
+    "question": "Read and choose: Which sentence gives one learnt fact?",
+    "audioPrompt": "Read and choose: Which sentence gives one learnt fact?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly07.svg#ac9e1ly07-p-019",
-      "alt_text": "📖 Match delivery problems and fixes; 🔎 gesture; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Leave out closing.",
-      "Each problem matched to appropriate fix",
-      "Read too fast."
+      "This animal is the best!",
+      "A goat needs water.",
+      "Wow, a goat!"
     ],
     "correct": 1,
-    "explanation": "Each problem matched to appropriate fix uses the skill correctly. End with a final statement, not just stopping.\nHint: End with a final statement, not just stopping.",
+    "explanation": "A goat needs water. is the best answer.",
     "structuredExplanation": {
-      "summary": "Each problem matched to appropriate fix uses the skill correctly. End with a final statement, not just stopping.",
-      "hint": "End with a final statement, not just stopping."
+      "summary": "A goat needs water. is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 40
+  },
+  {
+    "id": "ac9e1ly07-p-041",
+    "curriculumCode": "AC9E1LY07",
+    "bank": "practice",
+    "skill": "create and deliver short oral and/or multimodal presentations on personal and learnt topics, which include an opening, middle and concluding statement",
+    "printable": true,
+    "type": "single",
+    "question": "Which opening tells the topic?",
+    "audioPrompt": "Which opening tells the topic?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "And then.",
+      "Thank you for listening.",
+      "Today I will talk about hens."
+    ],
+    "correct": 2,
+    "explanation": "Today I will talk about hens. is the best answer.",
+    "structuredExplanation": {
+      "summary": "Today I will talk about hens. is the best answer."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 41,
+    "qualitySchema": "reviewed-year1-english-v1"
+  },
+  {
+    "id": "ac9e1ly07-p-042",
+    "curriculumCode": "AC9E1LY07",
+    "bank": "practice",
+    "skill": "create and deliver short oral and/or multimodal presentations on personal and learnt topics, which include an opening, middle and concluding statement",
+    "printable": true,
+    "type": "single",
+    "question": "Which sentence belongs in the middle of a talk about the farm?",
+    "audioPrompt": "Which sentence belongs in the middle of a talk about the farm?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "My talk is about cats.",
+      "Thank you.",
+      "You can play at the farm."
+    ],
+    "correct": 2,
+    "explanation": "You can play at the farm. is the best answer.",
+    "structuredExplanation": {
+      "summary": "You can play at the farm. is the best answer."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 42,
+    "qualitySchema": "reviewed-year1-english-v1"
+  },
+  {
+    "id": "ac9e1ly07-p-043",
+    "curriculumCode": "AC9E1LY07",
+    "bank": "practice",
+    "skill": "create and deliver short oral and/or multimodal presentations on personal and learnt topics, which include an opening, middle and concluding statement",
+    "printable": true,
+    "type": "single",
+    "question": "Which sentence can end a short talk?",
+    "audioPrompt": "Which sentence can end a short talk?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Thank you for listening.",
+      "First, I will …",
+      "My topic is …"
+    ],
+    "correct": 0,
+    "explanation": "Thank you for listening. is the best answer.",
+    "structuredExplanation": {
+      "summary": "Thank you for listening. is the best answer."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 43,
+    "qualitySchema": "reviewed-year1-english-v1"
+  },
+  {
+    "id": "ac9e1ly07-p-044",
+    "curriculumCode": "AC9E1LY07",
+    "bank": "practice",
+    "skill": "create and deliver short oral and/or multimodal presentations on personal and learnt topics, which include an opening, middle and concluding statement",
+    "printable": true,
+    "type": "single",
+    "question": "What helps the audience hear you?",
+    "audioPrompt": "What helps the audience hear you?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "face the wall",
+      "cover your mouth",
+      "speak clearly"
+    ],
+    "correct": 2,
+    "explanation": "speak clearly is the best answer.",
+    "structuredExplanation": {
+      "summary": "speak clearly is the best answer."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 44,
+    "qualitySchema": "reviewed-year1-english-v1"
+  },
+  {
+    "id": "ac9e1ly07-p-045",
+    "curriculumCode": "AC9E1LY07",
+    "bank": "practice",
+    "skill": "create and deliver short oral and/or multimodal presentations on personal and learnt topics, which include an opening, middle and concluding statement",
+    "printable": true,
+    "type": "single",
+    "question": "Read and choose: Which order is best for a talk?",
+    "audioPrompt": "Read and choose: Which order is best for a talk?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "opening, facts, ending",
+      "ending, opening, facts",
+      "facts only"
+    ],
+    "correct": 0,
+    "explanation": "opening, facts, ending is the best answer.",
+    "structuredExplanation": {
+      "summary": "opening, facts, ending is the best answer."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 45,
+    "qualitySchema": "reviewed-year1-english-v1"
+  },
+  {
+    "id": "ac9e1ly07-p-046",
+    "curriculumCode": "AC9E1LY07",
+    "bank": "practice",
+    "skill": "create and deliver short oral and/or multimodal presentations on personal and learnt topics, which include an opening, middle and concluding statement",
+    "printable": true,
+    "type": "single",
+    "question": "Which picture would help a talk about a goat?",
+    "audioPrompt": "Which picture would help a talk about a goat?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "a picture of a ball",
+      "a blank page",
+      "a clear picture of a goat"
+    ],
+    "correct": 2,
+    "explanation": "a clear picture of a goat is the best answer.",
+    "structuredExplanation": {
+      "summary": "a clear picture of a goat is the best answer."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 46,
+    "qualitySchema": "reviewed-year1-english-v1"
+  },
+  {
+    "id": "ac9e1ly07-p-047",
+    "curriculumCode": "AC9E1LY07",
+    "bank": "practice",
+    "skill": "create and deliver short oral and/or multimodal presentations on personal and learnt topics, which include an opening, middle and concluding statement",
+    "printable": true,
+    "type": "single",
+    "question": "Where should you look while speaking?",
+    "audioPrompt": "Where should you look while speaking?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "behind you",
+      "towards the audience",
+      "only at the floor"
+    ],
+    "correct": 1,
+    "explanation": "towards the audience is the best answer.",
+    "structuredExplanation": {
+      "summary": "towards the audience is the best answer."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 47,
+    "qualitySchema": "reviewed-year1-english-v1"
+  },
+  {
+    "id": "ac9e1ly07-p-048",
+    "curriculumCode": "AC9E1LY07",
+    "bank": "practice",
+    "skill": "create and deliver short oral and/or multimodal presentations on personal and learnt topics, which include an opening, middle and concluding statement",
+    "printable": true,
+    "type": "single",
+    "question": "Which sentence gives one learnt fact?",
+    "audioPrompt": "Which sentence gives one learnt fact?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Wow, a dog!",
+      "This animal is the best!",
+      "A dog needs water."
+    ],
+    "correct": 2,
+    "explanation": "A dog needs water. is the best answer.",
+    "structuredExplanation": {
+      "summary": "A dog needs water. is the best answer."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 48,
+    "qualitySchema": "reviewed-year1-english-v1"
   }
 ];
-window.quizQuestions = window.skillrPracticeQuestions;

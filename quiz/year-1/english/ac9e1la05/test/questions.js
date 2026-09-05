@@ -4,466 +4,480 @@ window.skillrTestQuestions = [
     "id": "ac9e1la05-t-001",
     "curriculumCode": "AC9E1LA05",
     "bank": "test",
-    "skill": "ac9e1la05 01 answer",
+    "skill": "understand how print and screen texts are organised",
     "printable": true,
     "type": "single",
-    "question": "Which response would correctly show two routes?",
-    "audioPrompt": "Which response would correctly show two routes?",
-    "visual": "📖 show two routes; 🔎 title; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 show two routes; 🔎 title; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la05.svg#ac9e1la05-t-001\"></use></svg>",
+    "question": "Zoe is looking at a text. Where would you look to find the name of a book?",
+    "audioPrompt": "Zoe is looking at a text. Where would you look to find the name of a book?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la05.svg#ac9e1la05-t-001",
-      "alt_text": "📖 show two routes; 🔎 title; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Completes two valid labelled routes without relying on icon appearance alone",
-      "Name the feature but not its job.",
-      "Confuse title and heading."
+      "the last page",
+      "the cover",
+      "the page number"
     ],
-    "correct": 0,
-    "explanation": "Completes two valid labelled routes without relying on icon appearance alone This matches the task.\nHint: Always say what the feature helps the reader do.",
+    "correct": 1,
+    "explanation": "the cover is the best answer.",
     "structuredExplanation": {
-      "summary": "Completes two valid labelled routes without relying on icon appearance alone This matches the task.",
-      "hint": "Always say what the feature helps the reader do."
+      "summary": "the cover is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 1
   },
   {
     "id": "ac9e1la05-t-002",
     "curriculumCode": "AC9E1LA05",
     "bank": "test",
-    "skill": "ac9e1la05 01 strategy",
+    "skill": "understand how print and screen texts are organised",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you show two routes?",
-    "audioPrompt": "Which tip would help you show two routes?",
-    "visual": "🧠 show two routes; ➡️ Look at feature; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 show two routes; ➡️ Look at feature; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la05.svg#ac9e1la05-t-002\"></use></svg>",
+    "question": "Max is looking at a text. What does a heading tell you?",
+    "audioPrompt": "Max is looking at a text. What does a heading tell you?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la05.svg#ac9e1la05-t-002",
-      "alt_text": "🧠 show two routes; ➡️ Look at feature; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Confuse title and heading.",
-      "Always say what the feature helps the reader do.",
-      "Ignore screen features."
+      "who owns the book",
+      "what the part is about",
+      "how much it costs"
     ],
     "correct": 1,
-    "explanation": "Always say what the feature helps the reader do.\nHint: Always say what the feature helps the reader do.",
+    "explanation": "what the part is about is the best answer.",
     "structuredExplanation": {
-      "summary": "Always say what the feature helps the reader do.",
-      "hint": "Always say what the feature helps the reader do."
+      "summary": "what the part is about is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 2
   },
   {
     "id": "ac9e1la05-t-003",
     "curriculumCode": "AC9E1LA05",
     "bank": "test",
-    "skill": "ac9e1la05 02 answer",
+    "skill": "understand how print and screen texts are organised",
     "printable": true,
     "type": "single",
-    "question": "Which response would correctly draw accessible controls?",
-    "audioPrompt": "Which response would correctly draw accessible controls?",
-    "visual": "📖 Draw accessible controls; 🔎 heading; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Draw accessible controls; 🔎 heading; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la05.svg#ac9e1la05-t-003\"></use></svg>",
+    "question": "Mia is looking at a text. Which feature helps you find a page quickly?",
+    "audioPrompt": "Mia is looking at a text. Which feature helps you find a page quickly?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la05.svg#ac9e1la05-t-003",
-      "alt_text": "📖 Draw accessible controls; 🔎 heading; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Confuse title and heading.",
-      "Ignore screen features.",
-      "Three correctly labelled controls; words clarify icon meaning for readers/users"
+      "picture border",
+      "full stop",
+      "contents page"
     ],
     "correct": 2,
-    "explanation": "Three correctly labelled controls; words clarify icon meaning for readers/users This matches the task.\nHint: Title names the whole text; heading names a part.",
+    "explanation": "contents page is the best answer.",
     "structuredExplanation": {
-      "summary": "Three correctly labelled controls; words clarify icon meaning for readers/users This matches the task.",
-      "hint": "Title names the whole text; heading names a part."
+      "summary": "contents page is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 3
   },
   {
     "id": "ac9e1la05-t-004",
     "curriculumCode": "AC9E1LA05",
     "bank": "test",
-    "skill": "ac9e1la05 02 strategy",
+    "skill": "understand how print and screen texts are organised",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you draw accessible controls?",
-    "audioPrompt": "Which tip would help you draw accessible controls?",
-    "visual": "🧠 Draw accessible controls; ➡️ Name it; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Draw accessible controls; ➡️ Name it; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la05.svg#ac9e1la05-t-004\"></use></svg>",
+    "question": "Ben is looking at a text. What can you click to open another screen?",
+    "audioPrompt": "Ben is looking at a text. What can you click to open another screen?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la05.svg#ac9e1la05-t-004",
-      "alt_text": "🧠 Draw accessible controls; ➡️ Name it; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Use this routine: Look at feature → Name it → Say its job → Use it.",
-      "Ignore screen features.",
-      "Name the feature but not its job."
+      "a full stop",
+      "a capital letter",
+      "a link"
     ],
-    "correct": 0,
-    "explanation": "Use this routine: Look at feature → Name it → Say its job → Use it.\nHint: Title names the whole text; heading names a part.",
+    "correct": 2,
+    "explanation": "a link is the best answer.",
     "structuredExplanation": {
-      "summary": "Use this routine: Look at feature → Name it → Say its job → Use it.",
-      "hint": "Title names the whole text; heading names a part."
+      "summary": "a link is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 4
   },
   {
     "id": "ac9e1la05-t-005",
     "curriculumCode": "AC9E1LA05",
     "bank": "test",
-    "skill": "ac9e1la05 03 answer",
+    "skill": "understand how print and screen texts are organised",
     "printable": true,
     "type": "single",
-    "question": "Which response would correctly correct an unclear link?",
-    "audioPrompt": "Which response would correctly correct an unclear link?",
-    "visual": "📖 Correct an unclear link; 🔎 contents; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Correct an unclear link; 🔎 contents; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la05.svg#ac9e1la05-t-005\"></use></svg>",
+    "question": "Sam is looking at a text. Where is a page number usually found?",
+    "audioPrompt": "Sam is looking at a text. Where is a page number usually found?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la05.svg#ac9e1la05-t-005",
-      "alt_text": "📖 Correct an unclear link; 🔎 contents; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Click here",
-      "Example 'Read about insect life cycles'",
-      "Ignore screen features."
+      "top or bottom of a page",
+      "in every sentence",
+      "inside a picture"
     ],
-    "correct": 1,
-    "explanation": "Example 'Read about insect life cycles' This matches the task.\nHint: Buttons, links and swipes also organise texts.",
+    "correct": 0,
+    "explanation": "top or bottom of a page is the best answer.",
     "structuredExplanation": {
-      "summary": "Example 'Read about insect life cycles' This matches the task.",
-      "hint": "Buttons, links and swipes also organise texts."
+      "summary": "top or bottom of a page is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 5
   },
   {
     "id": "ac9e1la05-t-006",
     "curriculumCode": "AC9E1LA05",
     "bank": "test",
-    "skill": "ac9e1la05 03 strategy",
+    "skill": "understand how print and screen texts are organised",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you correct an unclear link?",
-    "audioPrompt": "Which tip would help you correct an unclear link?",
-    "visual": "🧠 Correct an unclear link; ➡️ Say its job; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Correct an unclear link; ➡️ Say its job; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la05.svg#ac9e1la05-t-006\"></use></svg>",
+    "question": "Kim is looking at a text. What does a label beside a picture do?",
+    "audioPrompt": "Kim is looking at a text. What does a label beside a picture do?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la05.svg#ac9e1la05-t-006",
-      "alt_text": "🧠 Correct an unclear link; ➡️ Say its job; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Name the feature but not its job.",
-      "Confuse title and heading.",
-      "Look for contents and check the whole example."
+      "names a part",
+      "ends a question",
+      "starts a story"
     ],
-    "correct": 2,
-    "explanation": "Look for contents and check the whole example.\nHint: Buttons, links and swipes also organise texts.",
+    "correct": 0,
+    "explanation": "names a part is the best answer.",
     "structuredExplanation": {
-      "summary": "Look for contents and check the whole example.",
-      "hint": "Buttons, links and swipes also organise texts."
+      "summary": "names a part is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 6
   },
   {
     "id": "ac9e1la05-t-007",
     "curriculumCode": "AC9E1LA05",
     "bank": "test",
-    "skill": "ac9e1la05 04 answer",
+    "skill": "understand how print and screen texts are organised",
     "printable": true,
     "type": "single",
-    "question": "Which response would correctly plan a hybrid text?",
-    "audioPrompt": "Which response would correctly plan a hybrid text?",
-    "visual": "📖 Plan a hybrid text; 🔎 page number; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Plan a hybrid text; 🔎 page number; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la05.svg#ac9e1la05-t-007\"></use></svg>",
+    "question": "Ava is looking at a text. Which part often tells the author’s name?",
+    "audioPrompt": "Ava is looking at a text. Which part often tells the author’s name?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la05.svg#ac9e1la05-t-007",
-      "alt_text": "📖 Plan a hybrid text; 🔎 page number; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Logical sections and named features for both modes, with clear image roles and two usable navigation methods",
-      "Name the feature but not its job.",
-      "Confuse title and heading."
+      "a page number",
+      "a speech bubble",
+      "the cover"
     ],
-    "correct": 0,
-    "explanation": "Logical sections and named features for both modes, with clear image roles and two usable navigation methods This matches the task.\nHint: Always say what the feature helps the reader do.",
+    "correct": 2,
+    "explanation": "the cover is the best answer.",
     "structuredExplanation": {
-      "summary": "Logical sections and named features for both modes, with clear image roles and two usable navigation methods This matches the task.",
-      "hint": "Always say what the feature helps the reader do."
+      "summary": "the cover is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 7
   },
   {
     "id": "ac9e1la05-t-008",
     "curriculumCode": "AC9E1LA05",
     "bank": "test",
-    "skill": "ac9e1la05 04 strategy",
+    "skill": "understand how print and screen texts are organised",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you plan a hybrid text?",
-    "audioPrompt": "Which tip would help you plan a hybrid text?",
-    "visual": "🧠 Plan a hybrid text; ➡️ Use it; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Plan a hybrid text; ➡️ Use it; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la05.svg#ac9e1la05-t-008\"></use></svg>",
+    "question": "Leo is looking at a text. What helps you move down a screen?",
+    "audioPrompt": "Leo is looking at a text. What helps you move down a screen?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la05.svg#ac9e1la05-t-008",
-      "alt_text": "🧠 Plan a hybrid text; ➡️ Use it; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Confuse title and heading.",
-      "Check that you can navigate a text.",
-      "Ignore screen features."
+      "question mark",
+      "book spine",
+      "scroll bar"
     ],
-    "correct": 1,
-    "explanation": "Check that you can navigate a text.\nHint: Always say what the feature helps the reader do.",
+    "correct": 2,
+    "explanation": "scroll bar is the best answer.",
     "structuredExplanation": {
-      "summary": "Check that you can navigate a text.",
-      "hint": "Always say what the feature helps the reader do."
+      "summary": "scroll bar is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 8
   },
   {
     "id": "ac9e1la05-t-009",
     "curriculumCode": "AC9E1LA05",
     "bank": "test",
-    "skill": "ac9e1la05 01 test verify",
+    "skill": "understand how print and screen texts are organised",
     "printable": true,
     "type": "single",
-    "question": "A classmate is unsure about this example. Which tip would help them check it carefully?",
-    "audioPrompt": "A classmate is unsure about this example. Which tip would help them check it carefully?",
-    "visual": "🧠 show two routes; ➡️ Look at feature; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 show two routes; ➡️ Look at feature; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la05.svg#ac9e1la05-t-002\"></use></svg>",
+    "question": "Max is looking at a text. Where would you look to find the name of a book?",
+    "audioPrompt": "Max is looking at a text. Where would you look to find the name of a book?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la05.svg#ac9e1la05-t-002",
-      "alt_text": "🧠 show two routes; ➡️ Look at feature; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Name the feature but not its job.",
-      "Confuse title and heading.",
-      "Always say what the feature helps the reader do."
+      "the page number",
+      "the cover",
+      "the last page"
     ],
-    "correct": 2,
-    "explanation": "Always say what the feature helps the reader do. is the useful check. Always say what the feature helps the reader do.\nHint: Always say what the feature helps the reader do.",
+    "correct": 1,
+    "explanation": "the cover is the best answer.",
     "structuredExplanation": {
-      "summary": "Always say what the feature helps the reader do. is the useful check. Always say what the feature helps the reader do.",
-      "hint": "Always say what the feature helps the reader do."
+      "summary": "the cover is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 9
   },
   {
     "id": "ac9e1la05-t-010",
     "curriculumCode": "AC9E1LA05",
     "bank": "test",
-    "skill": "ac9e1la05 02 test verify",
+    "skill": "understand how print and screen texts are organised",
     "printable": true,
     "type": "single",
-    "question": "A classmate is unsure about this example. Which tip would help them check it carefully?",
-    "audioPrompt": "A classmate is unsure about this example. Which tip would help them check it carefully?",
-    "visual": "🧠 Draw accessible controls; ➡️ Name it; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Draw accessible controls; ➡️ Name it; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la05.svg#ac9e1la05-t-004\"></use></svg>",
+    "question": "Mia is looking at a text. What does a heading tell you?",
+    "audioPrompt": "Mia is looking at a text. What does a heading tell you?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la05.svg#ac9e1la05-t-004",
-      "alt_text": "🧠 Draw accessible controls; ➡️ Name it; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Use this routine: Look at feature → Name it → Say its job → Use it.",
-      "Confuse title and heading.",
-      "Ignore screen features."
+      "how much it costs",
+      "who owns the book",
+      "what the part is about"
     ],
-    "correct": 0,
-    "explanation": "Use this routine: Look at feature → Name it → Say its job → Use it. is the useful check. Title names the whole text; heading names a part.\nHint: Title names the whole text; heading names a part.",
+    "correct": 2,
+    "explanation": "what the part is about is the best answer.",
     "structuredExplanation": {
-      "summary": "Use this routine: Look at feature → Name it → Say its job → Use it. is the useful check. Title names the whole text; heading names a part.",
-      "hint": "Title names the whole text; heading names a part."
+      "summary": "what the part is about is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 10
   },
   {
     "id": "ac9e1la05-t-011",
     "curriculumCode": "AC9E1LA05",
     "bank": "test",
-    "skill": "ac9e1la05 03 test verify",
+    "skill": "understand how print and screen texts are organised",
     "printable": true,
     "type": "single",
-    "question": "A classmate is unsure about this example. Which tip would help them check it carefully?",
-    "audioPrompt": "A classmate is unsure about this example. Which tip would help them check it carefully?",
-    "visual": "🧠 Correct an unclear link; ➡️ Say its job; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Correct an unclear link; ➡️ Say its job; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la05.svg#ac9e1la05-t-006\"></use></svg>",
+    "question": "Ben is looking at a text. Which feature helps you find a page quickly?",
+    "audioPrompt": "Ben is looking at a text. Which feature helps you find a page quickly?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la05.svg#ac9e1la05-t-006",
-      "alt_text": "🧠 Correct an unclear link; ➡️ Say its job; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Click here",
-      "Look for contents and check the whole example.",
-      "Ignore screen features."
+      "full stop",
+      "picture border",
+      "contents page"
     ],
-    "correct": 1,
-    "explanation": "Look for contents and check the whole example. is the useful check. Buttons, links and swipes also organise texts.\nHint: Buttons, links and swipes also organise texts.",
+    "correct": 2,
+    "explanation": "contents page is the best answer.",
     "structuredExplanation": {
-      "summary": "Look for contents and check the whole example. is the useful check. Buttons, links and swipes also organise texts.",
-      "hint": "Buttons, links and swipes also organise texts."
+      "summary": "contents page is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 11
   },
   {
     "id": "ac9e1la05-t-012",
     "curriculumCode": "AC9E1LA05",
     "bank": "test",
-    "skill": "ac9e1la05 04 test verify",
+    "skill": "understand how print and screen texts are organised",
     "printable": true,
     "type": "single",
-    "question": "A classmate is unsure about this example. Which tip would help them check it carefully?",
-    "audioPrompt": "A classmate is unsure about this example. Which tip would help them check it carefully?",
-    "visual": "🧠 Plan a hybrid text; ➡️ Use it; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Plan a hybrid text; ➡️ Use it; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la05.svg#ac9e1la05-t-008\"></use></svg>",
+    "question": "Sam is looking at a text. What can you click to open another screen?",
+    "audioPrompt": "Sam is looking at a text. What can you click to open another screen?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la05.svg#ac9e1la05-t-008",
-      "alt_text": "🧠 Plan a hybrid text; ➡️ Use it; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Name the feature but not its job.",
-      "Confuse title and heading.",
-      "Check that you can navigate a text."
+      "a full stop",
+      "a capital letter",
+      "a link"
     ],
     "correct": 2,
-    "explanation": "Check that you can navigate a text. is the useful check. Always say what the feature helps the reader do.\nHint: Always say what the feature helps the reader do.",
+    "explanation": "a link is the best answer.",
     "structuredExplanation": {
-      "summary": "Check that you can navigate a text. is the useful check. Always say what the feature helps the reader do.",
-      "hint": "Always say what the feature helps the reader do."
+      "summary": "a link is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 12
   },
   {
     "id": "ac9e1la05-t-013",
     "curriculumCode": "AC9E1LA05",
     "bank": "test",
-    "skill": "ac9e1la05 01 test apply",
+    "skill": "understand how print and screen texts are organised",
     "printable": true,
     "type": "single",
-    "question": "A classmate chose “Name the feature but not its job.”. Which answer would improve their response?",
-    "audioPrompt": "A classmate chose Name the feature but not its job.. Which answer would improve their response?",
-    "visual": "📖 show two routes; 🔎 title; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 show two routes; 🔎 title; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la05.svg#ac9e1la05-t-001\"></use></svg>",
+    "question": "Kim is looking at a text. Where is a page number usually found?",
+    "audioPrompt": "Kim is looking at a text. Where is a page number usually found?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la05.svg#ac9e1la05-t-001",
-      "alt_text": "📖 show two routes; 🔎 title; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Completes two valid labelled routes without relying on icon appearance alone",
-      "Name the feature but not its job.",
-      "Confuse title and heading."
+      "top or bottom of a page",
+      "inside a picture",
+      "in every sentence"
     ],
     "correct": 0,
-    "explanation": "Completes two valid labelled routes without relying on icon appearance alone is the stronger response because it uses the target skill. Always say what the feature helps the reader do.\nHint: Always say what the feature helps the reader do.",
+    "explanation": "top or bottom of a page is the best answer.",
     "structuredExplanation": {
-      "summary": "Completes two valid labelled routes without relying on icon appearance alone is the stronger response because it uses the target skill. Always say what the feature helps the reader do.",
-      "hint": "Always say what the feature helps the reader do."
+      "summary": "top or bottom of a page is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 13
   },
   {
     "id": "ac9e1la05-t-014",
     "curriculumCode": "AC9E1LA05",
     "bank": "test",
-    "skill": "ac9e1la05 02 test apply",
+    "skill": "understand how print and screen texts are organised",
     "printable": true,
     "type": "single",
-    "question": "A classmate chose “Confuse title and heading.”. Which answer would improve their response?",
-    "audioPrompt": "A classmate chose Confuse title and heading.. Which answer would improve their response?",
-    "visual": "📖 Draw accessible controls; 🔎 heading; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Draw accessible controls; 🔎 heading; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la05.svg#ac9e1la05-t-003\"></use></svg>",
+    "question": "Ava is looking at a text. What does a label beside a picture do?",
+    "audioPrompt": "Ava is looking at a text. What does a label beside a picture do?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la05.svg#ac9e1la05-t-003",
-      "alt_text": "📖 Draw accessible controls; 🔎 heading; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Confuse title and heading.",
-      "Three correctly labelled controls; words clarify icon meaning for readers/users",
-      "Ignore screen features."
+      "names a part",
+      "starts a story",
+      "ends a question"
     ],
-    "correct": 1,
-    "explanation": "Three correctly labelled controls; words clarify icon meaning for readers/users is the stronger response because it uses the target skill. Title names the whole text; heading names a part.\nHint: Title names the whole text; heading names a part.",
+    "correct": 0,
+    "explanation": "names a part is the best answer.",
     "structuredExplanation": {
-      "summary": "Three correctly labelled controls; words clarify icon meaning for readers/users is the stronger response because it uses the target skill. Title names the whole text; heading names a part.",
-      "hint": "Title names the whole text; heading names a part."
+      "summary": "names a part is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 14
   },
   {
     "id": "ac9e1la05-t-015",
     "curriculumCode": "AC9E1LA05",
     "bank": "test",
-    "skill": "ac9e1la05 03 test apply",
+    "skill": "understand how print and screen texts are organised",
     "printable": true,
     "type": "single",
-    "question": "A classmate chose “Click here”. Which answer would improve their response?",
-    "audioPrompt": "A classmate chose Click here. Which answer would improve their response?",
-    "visual": "📖 Correct an unclear link; 🔎 contents; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Correct an unclear link; 🔎 contents; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la05.svg#ac9e1la05-t-005\"></use></svg>",
+    "question": "Leo is looking at a text. Which part often tells the author’s name?",
+    "audioPrompt": "Leo is looking at a text. Which part often tells the author’s name?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la05.svg#ac9e1la05-t-005",
-      "alt_text": "📖 Correct an unclear link; 🔎 contents; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Click here",
-      "Ignore screen features.",
-      "Example 'Read about insect life cycles'"
+      "a speech bubble",
+      "a page number",
+      "the cover"
     ],
     "correct": 2,
-    "explanation": "Example 'Read about insect life cycles' is the stronger response because it uses the target skill. Buttons, links and swipes also organise texts.\nHint: Buttons, links and swipes also organise texts.",
+    "explanation": "the cover is the best answer.",
     "structuredExplanation": {
-      "summary": "Example 'Read about insect life cycles' is the stronger response because it uses the target skill. Buttons, links and swipes also organise texts.",
-      "hint": "Buttons, links and swipes also organise texts."
+      "summary": "the cover is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 15
   },
   {
     "id": "ac9e1la05-t-016",
     "curriculumCode": "AC9E1LA05",
     "bank": "test",
-    "skill": "ac9e1la05 04 test apply",
+    "skill": "understand how print and screen texts are organised",
     "printable": true,
     "type": "single",
-    "question": "A classmate chose “Name the feature but not its job.”. Which answer would improve their response?",
-    "audioPrompt": "A classmate chose Name the feature but not its job.. Which answer would improve their response?",
-    "visual": "📖 Plan a hybrid text; 🔎 page number; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Plan a hybrid text; 🔎 page number; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la05.svg#ac9e1la05-t-007\"></use></svg>",
+    "question": "Zoe is looking at a text. What helps you move down a screen?",
+    "audioPrompt": "Zoe is looking at a text. What helps you move down a screen?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la05.svg#ac9e1la05-t-007",
-      "alt_text": "📖 Plan a hybrid text; 🔎 page number; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Logical sections and named features for both modes, with clear image roles and two usable navigation methods",
-      "Name the feature but not its job.",
-      "Confuse title and heading."
+      "book spine",
+      "question mark",
+      "scroll bar"
     ],
-    "correct": 0,
-    "explanation": "Logical sections and named features for both modes, with clear image roles and two usable navigation methods is the stronger response because it uses the target skill. Always say what the feature helps the reader do.\nHint: Always say what the feature helps the reader do.",
+    "correct": 2,
+    "explanation": "scroll bar is the best answer.",
     "structuredExplanation": {
-      "summary": "Logical sections and named features for both modes, with clear image roles and two usable navigation methods is the stronger response because it uses the target skill. Always say what the feature helps the reader do.",
-      "hint": "Always say what the feature helps the reader do."
+      "summary": "scroll bar is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 16
   }
 ];
-window.skillrExamQuestions = window.skillrTestQuestions;
-window.quizQuestions = window.skillrTestQuestions;

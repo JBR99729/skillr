@@ -4,466 +4,480 @@ window.skillrTestQuestions = [
     "id": "ac9e1ly10-t-001",
     "curriculumCode": "AC9E1LY10",
     "bank": "test",
-    "skill": "ac9e1ly10 01 answer",
+    "skill": "orally manipulate phonemes in spoken words by addition, deletion and substitution of initial, medial and final phonemes to generate new words (phonological awareness)",
     "printable": true,
     "type": "single",
-    "question": "Which response would correctly show a sound chain?",
-    "audioPrompt": "Which response would correctly show a sound chain?",
-    "visual": "📖 show a sound chain; 🔎 add; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 show a sound chain; 🔎 add; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-t-001\"></use></svg>",
+    "question": "Zoe says “cat”. Change /c/ to /h/. What word do you make?",
+    "audioPrompt": "Zoe says “cat”. Change /c/ to /h/. What word do you make?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-t-001",
-      "alt_text": "📖 show a sound chain; 🔎 add; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Cat→cot middle /a/ to /o/; cot→dot first /k/ to /d/; dot→dog final /t/ to /g/",
-      "dog final /t/ to /g/ → dot first /k/ to /d/; dot → cot middle /a/ to /o/; cot → Cat",
-      "Change letters silently."
+      "cat",
+      "hat",
+      "cup"
     ],
-    "correct": 0,
-    "explanation": "Cat→cot middle /a/ to /o/; cot→dot first /k/ to /d/; dot→dog final /t/ to /g/ This matches the task.\nHint: Say the sounds aloud.",
+    "correct": 1,
+    "explanation": "hat is the best answer.",
     "structuredExplanation": {
-      "summary": "Cat→cot middle /a/ to /o/; cot→dot first /k/ to /d/; dot→dog final /t/ to /g/ This matches the task.",
-      "hint": "Say the sounds aloud."
+      "summary": "hat is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 1
   },
   {
     "id": "ac9e1ly10-t-002",
     "curriculumCode": "AC9E1LY10",
     "bank": "test",
-    "skill": "ac9e1ly10 01 strategy",
+    "skill": "orally manipulate phonemes in spoken words by addition, deletion and substitution of initial, medial and final phonemes to generate new words (phonological awareness)",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you show a sound chain?",
-    "audioPrompt": "Which tip would help you show a sound chain?",
-    "visual": "🧠 show a sound chain; ➡️ Say word; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 show a sound chain; ➡️ Say word; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-t-002\"></use></svg>",
+    "question": "Max says “map”. Change /m/ to /t/. What word do you make?",
+    "audioPrompt": "Max says “map”. Change /m/ to /t/. What word do you make?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-t-002",
-      "alt_text": "🧠 show a sound chain; ➡️ Say word; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Change more than one sound.",
-      "Say the sounds aloud.",
-      "Forget middle/final sounds."
+      "map",
+      "tap",
+      "book"
     ],
     "correct": 1,
-    "explanation": "Say the sounds aloud.\nHint: Say the sounds aloud.",
+    "explanation": "tap is the best answer.",
     "structuredExplanation": {
-      "summary": "Say the sounds aloud.",
-      "hint": "Say the sounds aloud."
+      "summary": "tap is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 2
   },
   {
     "id": "ac9e1ly10-t-003",
     "curriculumCode": "AC9E1LY10",
     "bank": "test",
-    "skill": "ac9e1ly10 02 answer",
+    "skill": "orally manipulate phonemes in spoken words by addition, deletion and substitution of initial, medial and final phonemes to generate new words (phonological awareness)",
     "printable": true,
     "type": "single",
-    "question": "Which response would correctly draw addition and deletion?",
-    "audioPrompt": "Which response would correctly draw addition and deletion?",
-    "visual": "📖 Draw addition and deletion; 🔎 delete; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Draw addition and deletion; 🔎 delete; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-t-003\"></use></svg>",
+    "question": "Mia says “sit”. Change /i/ to /a/. What word do you make?",
+    "audioPrompt": "Mia says “sit”. Change /i/ to /a/. What word do you make?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-t-003",
-      "alt_text": "📖 Draw addition and deletion; 🔎 delete; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Accurate 4-to-4 and 4-to-3 phoneme representations, with only /s/ changed",
-      "Accurate 2-to-4 and 4-to-3 phoneme representations, with only /s/ changed",
-      "Accurate 3-to-4 and 4-to-3 phoneme representations, with only /s/ changed"
+      "sit",
+      "ball",
+      "sat"
     ],
     "correct": 2,
-    "explanation": "Accurate 3-to-4 and 4-to-3 phoneme representations, with only /s/ changed This matches the task.\nHint: Change only the sound named.",
+    "explanation": "sat is the best answer.",
     "structuredExplanation": {
-      "summary": "Accurate 3-to-4 and 4-to-3 phoneme representations, with only /s/ changed This matches the task.",
-      "hint": "Change only the sound named."
+      "summary": "sat is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 3
   },
   {
     "id": "ac9e1ly10-t-004",
     "curriculumCode": "AC9E1LY10",
     "bank": "test",
-    "skill": "ac9e1ly10 02 strategy",
+    "skill": "orally manipulate phonemes in spoken words by addition, deletion and substitution of initial, medial and final phonemes to generate new words (phonological awareness)",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you draw addition and deletion?",
-    "audioPrompt": "Which tip would help you draw addition and deletion?",
-    "visual": "🧠 Draw addition and deletion; ➡️ Change sound; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Draw addition and deletion; ➡️ Change sound; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-t-004\"></use></svg>",
+    "question": "Ben says “dog”. Change /d/ to /l/. What word do you make?",
+    "audioPrompt": "Ben says “dog”. Change /d/ to /l/. What word do you make?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-t-004",
-      "alt_text": "🧠 Draw addition and deletion; ➡️ Change sound; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Use this routine: Say word → Change sound → Say new word → Check meaning.",
-      "Forget middle/final sounds.",
-      "Change letters silently."
+      "dog",
+      "kite",
+      "log"
     ],
-    "correct": 0,
-    "explanation": "Use this routine: Say word → Change sound → Say new word → Check meaning.\nHint: Change only the sound named.",
+    "correct": 2,
+    "explanation": "log is the best answer.",
     "structuredExplanation": {
-      "summary": "Use this routine: Say word → Change sound → Say new word → Check meaning.",
-      "hint": "Change only the sound named."
+      "summary": "log is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 4
   },
   {
     "id": "ac9e1ly10-t-005",
     "curriculumCode": "AC9E1LY10",
     "bank": "test",
-    "skill": "ac9e1ly10 03 answer",
+    "skill": "orally manipulate phonemes in spoken words by addition, deletion and substitution of initial, medial and final phonemes to generate new words (phonological awareness)",
     "printable": true,
     "type": "single",
-    "question": "Which response would correctly correct a two-sound change?",
-    "audioPrompt": "Which response would correctly correct a two-sound change?",
-    "visual": "📖 Correct a two-sound change; 🔎 substitute; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Correct a two-sound change; 🔎 substitute; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-t-005\"></use></svg>",
+    "question": "Sam says “cup”. Change /p/ to /t/. What word do you make?",
+    "audioPrompt": "Sam says “cup”. Change /p/ to /t/. What word do you make?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-t-005",
-      "alt_text": "📖 Correct a two-sound change; 🔎 substitute; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "peg changes only final /t/ to /g/; pig also changes medial /e/ to /i/ → Pet",
-      "Pet→peg changes only final /t/ to /g/; pig also changes medial /e/ to /i/",
-      "Forget middle/final sounds."
+      "cut",
+      "sock",
+      "cup"
     ],
-    "correct": 1,
-    "explanation": "Pet→peg changes only final /t/ to /g/; pig also changes medial /e/ to /i/ This matches the task.\nHint: Practise start, middle and end positions.",
+    "correct": 0,
+    "explanation": "cut is the best answer.",
     "structuredExplanation": {
-      "summary": "Pet→peg changes only final /t/ to /g/; pig also changes medial /e/ to /i/ This matches the task.",
-      "hint": "Practise start, middle and end positions."
+      "summary": "cut is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 5
   },
   {
     "id": "ac9e1ly10-t-006",
     "curriculumCode": "AC9E1LY10",
     "bank": "test",
-    "skill": "ac9e1ly10 03 strategy",
+    "skill": "orally manipulate phonemes in spoken words by addition, deletion and substitution of initial, medial and final phonemes to generate new words (phonological awareness)",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you correct a two-sound change?",
-    "audioPrompt": "Which tip would help you correct a two-sound change?",
-    "visual": "🧠 Correct a two-sound change; ➡️ Say new word; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Correct a two-sound change; ➡️ Say new word; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-t-006\"></use></svg>",
+    "question": "Kim says “fish”. Change /f/ to /d/. What word do you make?",
+    "audioPrompt": "Kim says “fish”. Change /f/ to /d/. What word do you make?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-t-006",
-      "alt_text": "🧠 Correct a two-sound change; ➡️ Say new word; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Change letters silently.",
-      "Change more than one sound.",
-      "Look for substitute and check the whole example."
+      "dish",
+      "fish",
+      "map"
     ],
-    "correct": 2,
-    "explanation": "Look for substitute and check the whole example.\nHint: Practise start, middle and end positions.",
+    "correct": 0,
+    "explanation": "dish is the best answer.",
     "structuredExplanation": {
-      "summary": "Look for substitute and check the whole example.",
-      "hint": "Practise start, middle and end positions."
+      "summary": "dish is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 6
   },
   {
     "id": "ac9e1ly10-t-007",
     "curriculumCode": "AC9E1LY10",
     "bank": "test",
-    "skill": "ac9e1ly10 04 answer",
+    "skill": "orally manipulate phonemes in spoken words by addition, deletion and substitution of initial, medial and final phonemes to generate new words (phonological awareness)",
     "printable": true,
     "type": "single",
-    "question": "Which response would correctly solve a manipulation set?",
-    "audioPrompt": "Which response would correctly solve a manipulation set?",
-    "visual": "📖 Solve a manipulation set; 🔎 initial; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Solve a manipulation set; 🔎 initial; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-t-007\"></use></svg>",
+    "question": "Ava says “bed”. Change /e/ to /a/. What word do you make?",
+    "audioPrompt": "Ava says “bed”. Change /e/ to /a/. What word do you make?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-t-007",
-      "alt_text": "📖 Solve a manipulation set; 🔎 initial; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Best→bet (delete /s/)→bed (/t/→/d/)→bad (/e/→/a/), with each operation named",
-      "/a/), with each operation named → bad (/e/ → /d/) → bed (/t/ → bet (delete /s/) → Best",
-      "Change letters silently."
+      "hat",
+      "bed",
+      "bad"
     ],
-    "correct": 0,
-    "explanation": "Best→bet (delete /s/)→bed (/t/→/d/)→bad (/e/→/a/), with each operation named This matches the task.\nHint: Say the sounds aloud.",
+    "correct": 2,
+    "explanation": "bad is the best answer.",
     "structuredExplanation": {
-      "summary": "Best→bet (delete /s/)→bed (/t/→/d/)→bad (/e/→/a/), with each operation named This matches the task.",
-      "hint": "Say the sounds aloud."
+      "summary": "bad is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 7
   },
   {
     "id": "ac9e1ly10-t-008",
     "curriculumCode": "AC9E1LY10",
     "bank": "test",
-    "skill": "ac9e1ly10 04 strategy",
+    "skill": "orally manipulate phonemes in spoken words by addition, deletion and substitution of initial, medial and final phonemes to generate new words (phonological awareness)",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you solve a manipulation set?",
-    "audioPrompt": "Which tip would help you solve a manipulation set?",
-    "visual": "🧠 Solve a manipulation set; ➡️ Check meaning; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Solve a manipulation set; ➡️ Check meaning; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-t-008\"></use></svg>",
+    "question": "Leo says “top”. Change /t/ to /m/. What word do you make?",
+    "audioPrompt": "Leo says “top”. Change /t/ to /m/. What word do you make?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-t-008",
-      "alt_text": "🧠 Solve a manipulation set; ➡️ Check meaning; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Change more than one sound.",
-      "Check that you can change initial sounds.",
-      "Forget middle/final sounds."
+      "bag",
+      "top",
+      "mop"
     ],
-    "correct": 1,
-    "explanation": "Check that you can change initial sounds.\nHint: Say the sounds aloud.",
+    "correct": 2,
+    "explanation": "mop is the best answer.",
     "structuredExplanation": {
-      "summary": "Check that you can change initial sounds.",
-      "hint": "Say the sounds aloud."
+      "summary": "mop is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 8
   },
   {
     "id": "ac9e1ly10-t-009",
     "curriculumCode": "AC9E1LY10",
     "bank": "test",
-    "skill": "ac9e1ly10 01 test verify",
+    "skill": "orally manipulate phonemes in spoken words by addition, deletion and substitution of initial, medial and final phonemes to generate new words (phonological awareness)",
     "printable": true,
     "type": "single",
-    "question": "A classmate is unsure about this example. Which tip would help them check it carefully?",
-    "audioPrompt": "A classmate is unsure about this example. Which tip would help them check it carefully?",
-    "visual": "🧠 show a sound chain; ➡️ Say word; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 show a sound chain; ➡️ Say word; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-t-002\"></use></svg>",
+    "question": "Max says “cat”. Change /c/ to /h/. What word do you make?",
+    "audioPrompt": "Max says “cat”. Change /c/ to /h/. What word do you make?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-t-002",
-      "alt_text": "🧠 show a sound chain; ➡️ Say word; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "dog final /t/ to /g/ → dot first /k/ to /d/; dot → cot middle /a/ to /o/; cot → Cat",
-      "Change letters silently.",
-      "Say the sounds aloud."
+      "cup",
+      "hat",
+      "cat"
     ],
-    "correct": 2,
-    "explanation": "Say the sounds aloud. is the useful check. Say the sounds aloud.\nHint: Say the sounds aloud.",
+    "correct": 1,
+    "explanation": "hat is the best answer.",
     "structuredExplanation": {
-      "summary": "Say the sounds aloud. is the useful check. Say the sounds aloud.",
-      "hint": "Say the sounds aloud."
+      "summary": "hat is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 9
   },
   {
     "id": "ac9e1ly10-t-010",
     "curriculumCode": "AC9E1LY10",
     "bank": "test",
-    "skill": "ac9e1ly10 02 test verify",
+    "skill": "orally manipulate phonemes in spoken words by addition, deletion and substitution of initial, medial and final phonemes to generate new words (phonological awareness)",
     "printable": true,
     "type": "single",
-    "question": "A classmate is unsure about this example. Which tip would help them check it carefully?",
-    "audioPrompt": "A classmate is unsure about this example. Which tip would help them check it carefully?",
-    "visual": "🧠 Draw addition and deletion; ➡️ Change sound; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Draw addition and deletion; ➡️ Change sound; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-t-004\"></use></svg>",
+    "question": "Mia says “map”. Change /m/ to /t/. What word do you make?",
+    "audioPrompt": "Mia says “map”. Change /m/ to /t/. What word do you make?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-t-004",
-      "alt_text": "🧠 Draw addition and deletion; ➡️ Change sound; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Use this routine: Say word → Change sound → Say new word → Check meaning.",
-      "Accurate 4-to-4 and 4-to-3 phoneme representations, with only /s/ changed",
-      "Accurate 2-to-4 and 4-to-3 phoneme representations, with only /s/ changed"
+      "book",
+      "map",
+      "tap"
     ],
-    "correct": 0,
-    "explanation": "Use this routine: Say word → Change sound → Say new word → Check meaning. is the useful check. Change only the sound named.\nHint: Change only the sound named.",
+    "correct": 2,
+    "explanation": "tap is the best answer.",
     "structuredExplanation": {
-      "summary": "Use this routine: Say word → Change sound → Say new word → Check meaning. is the useful check. Change only the sound named.",
-      "hint": "Change only the sound named."
+      "summary": "tap is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 10
   },
   {
     "id": "ac9e1ly10-t-011",
     "curriculumCode": "AC9E1LY10",
     "bank": "test",
-    "skill": "ac9e1ly10 03 test verify",
+    "skill": "orally manipulate phonemes in spoken words by addition, deletion and substitution of initial, medial and final phonemes to generate new words (phonological awareness)",
     "printable": true,
     "type": "single",
-    "question": "A classmate is unsure about this example. Which tip would help them check it carefully?",
-    "audioPrompt": "A classmate is unsure about this example. Which tip would help them check it carefully?",
-    "visual": "🧠 Correct a two-sound change; ➡️ Say new word; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Correct a two-sound change; ➡️ Say new word; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-t-006\"></use></svg>",
+    "question": "Ben says “sit”. Change /i/ to /a/. What word do you make?",
+    "audioPrompt": "Ben says “sit”. Change /i/ to /a/. What word do you make?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-t-006",
-      "alt_text": "🧠 Correct a two-sound change; ➡️ Say new word; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "peg changes only final /t/ to /g/; pig also changes medial /e/ to /i/ → Pet",
-      "Look for substitute and check the whole example.",
-      "Forget middle/final sounds."
+      "ball",
+      "sit",
+      "sat"
     ],
-    "correct": 1,
-    "explanation": "Look for substitute and check the whole example. is the useful check. Practise start, middle and end positions.\nHint: Practise start, middle and end positions.",
+    "correct": 2,
+    "explanation": "sat is the best answer.",
     "structuredExplanation": {
-      "summary": "Look for substitute and check the whole example. is the useful check. Practise start, middle and end positions.",
-      "hint": "Practise start, middle and end positions."
+      "summary": "sat is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 11
   },
   {
     "id": "ac9e1ly10-t-012",
     "curriculumCode": "AC9E1LY10",
     "bank": "test",
-    "skill": "ac9e1ly10 04 test verify",
+    "skill": "orally manipulate phonemes in spoken words by addition, deletion and substitution of initial, medial and final phonemes to generate new words (phonological awareness)",
     "printable": true,
     "type": "single",
-    "question": "A classmate is unsure about this example. Which tip would help them check it carefully?",
-    "audioPrompt": "A classmate is unsure about this example. Which tip would help them check it carefully?",
-    "visual": "🧠 Solve a manipulation set; ➡️ Check meaning; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Solve a manipulation set; ➡️ Check meaning; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-t-008\"></use></svg>",
+    "question": "Sam says “dog”. Change /d/ to /l/. What word do you make?",
+    "audioPrompt": "Sam says “dog”. Change /d/ to /l/. What word do you make?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-t-008",
-      "alt_text": "🧠 Solve a manipulation set; ➡️ Check meaning; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "/a/), with each operation named → bad (/e/ → /d/) → bed (/t/ → bet (delete /s/) → Best",
-      "Change letters silently.",
-      "Check that you can change initial sounds."
+      "dog",
+      "kite",
+      "log"
     ],
     "correct": 2,
-    "explanation": "Check that you can change initial sounds. is the useful check. Say the sounds aloud.\nHint: Say the sounds aloud.",
+    "explanation": "log is the best answer.",
     "structuredExplanation": {
-      "summary": "Check that you can change initial sounds. is the useful check. Say the sounds aloud.",
-      "hint": "Say the sounds aloud."
+      "summary": "log is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 12
   },
   {
     "id": "ac9e1ly10-t-013",
     "curriculumCode": "AC9E1LY10",
     "bank": "test",
-    "skill": "ac9e1ly10 01 test apply",
+    "skill": "orally manipulate phonemes in spoken words by addition, deletion and substitution of initial, medial and final phonemes to generate new words (phonological awareness)",
     "printable": true,
     "type": "single",
-    "question": "A classmate chose “dog final /t/ to /g/ → dot first /k/ to /d/; dot → cot middle /a/ to /o/; cot → Cat”. Which answer would improve their response?",
-    "audioPrompt": "A classmate chose dog final /t/ to /g/ → dot first /k/ to /d/; dot → cot middle /a/ to /o/; cot → Cat. Which answer would improve their response?",
-    "visual": "📖 show a sound chain; 🔎 add; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 show a sound chain; 🔎 add; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-t-001\"></use></svg>",
+    "question": "Kim says “cup”. Change /p/ to /t/. What word do you make?",
+    "audioPrompt": "Kim says “cup”. Change /p/ to /t/. What word do you make?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-t-001",
-      "alt_text": "📖 show a sound chain; 🔎 add; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Cat→cot middle /a/ to /o/; cot→dot first /k/ to /d/; dot→dog final /t/ to /g/",
-      "dog final /t/ to /g/ → dot first /k/ to /d/; dot → cot middle /a/ to /o/; cot → Cat",
-      "Change letters silently."
+      "cut",
+      "cup",
+      "sock"
     ],
     "correct": 0,
-    "explanation": "Cat→cot middle /a/ to /o/; cot→dot first /k/ to /d/; dot→dog final /t/ to /g/ is the stronger response because it uses the target skill. Say the sounds aloud.\nHint: Say the sounds aloud.",
+    "explanation": "cut is the best answer.",
     "structuredExplanation": {
-      "summary": "Cat→cot middle /a/ to /o/; cot→dot first /k/ to /d/; dot→dog final /t/ to /g/ is the stronger response because it uses the target skill. Say the sounds aloud.",
-      "hint": "Say the sounds aloud."
+      "summary": "cut is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 13
   },
   {
     "id": "ac9e1ly10-t-014",
     "curriculumCode": "AC9E1LY10",
     "bank": "test",
-    "skill": "ac9e1ly10 02 test apply",
+    "skill": "orally manipulate phonemes in spoken words by addition, deletion and substitution of initial, medial and final phonemes to generate new words (phonological awareness)",
     "printable": true,
     "type": "single",
-    "question": "A classmate chose “Accurate 4-to-4 and 4-to-3 phoneme representations, with only /s/ changed”. Which answer would improve their response?",
-    "audioPrompt": "A classmate chose Accurate 4-to-4 and 4-to-3 phoneme representations, with only /s/ changed. Which answer would improve their response?",
-    "visual": "📖 Draw addition and deletion; 🔎 delete; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Draw addition and deletion; 🔎 delete; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-t-003\"></use></svg>",
+    "question": "Ava says “fish”. Change /f/ to /d/. What word do you make?",
+    "audioPrompt": "Ava says “fish”. Change /f/ to /d/. What word do you make?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-t-003",
-      "alt_text": "📖 Draw addition and deletion; 🔎 delete; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Accurate 4-to-4 and 4-to-3 phoneme representations, with only /s/ changed",
-      "Accurate 3-to-4 and 4-to-3 phoneme representations, with only /s/ changed",
-      "Accurate 2-to-4 and 4-to-3 phoneme representations, with only /s/ changed"
+      "dish",
+      "map",
+      "fish"
     ],
-    "correct": 1,
-    "explanation": "Accurate 3-to-4 and 4-to-3 phoneme representations, with only /s/ changed is the stronger response because it uses the target skill. Change only the sound named.\nHint: Change only the sound named.",
+    "correct": 0,
+    "explanation": "dish is the best answer.",
     "structuredExplanation": {
-      "summary": "Accurate 3-to-4 and 4-to-3 phoneme representations, with only /s/ changed is the stronger response because it uses the target skill. Change only the sound named.",
-      "hint": "Change only the sound named."
+      "summary": "dish is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 14
   },
   {
     "id": "ac9e1ly10-t-015",
     "curriculumCode": "AC9E1LY10",
     "bank": "test",
-    "skill": "ac9e1ly10 03 test apply",
+    "skill": "orally manipulate phonemes in spoken words by addition, deletion and substitution of initial, medial and final phonemes to generate new words (phonological awareness)",
     "printable": true,
     "type": "single",
-    "question": "A classmate chose “peg changes only final /t/ to /g/; pig also changes medial /e/ to /i/ → Pet”. Which answer would improve their response?",
-    "audioPrompt": "A classmate chose peg changes only final /t/ to /g/; pig also changes medial /e/ to /i/ → Pet. Which answer would improve their response?",
-    "visual": "📖 Correct a two-sound change; 🔎 substitute; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Correct a two-sound change; 🔎 substitute; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-t-005\"></use></svg>",
+    "question": "Leo says “bed”. Change /e/ to /a/. What word do you make?",
+    "audioPrompt": "Leo says “bed”. Change /e/ to /a/. What word do you make?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-t-005",
-      "alt_text": "📖 Correct a two-sound change; 🔎 substitute; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "peg changes only final /t/ to /g/; pig also changes medial /e/ to /i/ → Pet",
-      "Forget middle/final sounds.",
-      "Pet→peg changes only final /t/ to /g/; pig also changes medial /e/ to /i/"
+      "bed",
+      "hat",
+      "bad"
     ],
     "correct": 2,
-    "explanation": "Pet→peg changes only final /t/ to /g/; pig also changes medial /e/ to /i/ is the stronger response because it uses the target skill. Practise start, middle and end positions.\nHint: Practise start, middle and end positions.",
+    "explanation": "bad is the best answer.",
     "structuredExplanation": {
-      "summary": "Pet→peg changes only final /t/ to /g/; pig also changes medial /e/ to /i/ is the stronger response because it uses the target skill. Practise start, middle and end positions.",
-      "hint": "Practise start, middle and end positions."
+      "summary": "bad is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 15
   },
   {
     "id": "ac9e1ly10-t-016",
     "curriculumCode": "AC9E1LY10",
     "bank": "test",
-    "skill": "ac9e1ly10 04 test apply",
+    "skill": "orally manipulate phonemes in spoken words by addition, deletion and substitution of initial, medial and final phonemes to generate new words (phonological awareness)",
     "printable": true,
     "type": "single",
-    "question": "A classmate chose “/a/), with each operation named → bad (/e/ → /d/) → bed (/t/ → bet (delete /s/) → Best”. Which answer would improve their response?",
-    "audioPrompt": "A classmate chose /a/), with each operation named → bad (/e/ → /d/) → bed (/t/ → bet (delete /s/) → Best. Which answer would improve their response?",
-    "visual": "📖 Solve a manipulation set; 🔎 initial; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Solve a manipulation set; 🔎 initial; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-t-007\"></use></svg>",
+    "question": "Zoe says “top”. Change /t/ to /m/. What word do you make?",
+    "audioPrompt": "Zoe says “top”. Change /t/ to /m/. What word do you make?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-t-007",
-      "alt_text": "📖 Solve a manipulation set; 🔎 initial; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Best→bet (delete /s/)→bed (/t/→/d/)→bad (/e/→/a/), with each operation named",
-      "/a/), with each operation named → bad (/e/ → /d/) → bed (/t/ → bet (delete /s/) → Best",
-      "Change letters silently."
+      "top",
+      "bag",
+      "mop"
     ],
-    "correct": 0,
-    "explanation": "Best→bet (delete /s/)→bed (/t/→/d/)→bad (/e/→/a/), with each operation named is the stronger response because it uses the target skill. Say the sounds aloud.\nHint: Say the sounds aloud.",
+    "correct": 2,
+    "explanation": "mop is the best answer.",
     "structuredExplanation": {
-      "summary": "Best→bet (delete /s/)→bed (/t/→/d/)→bad (/e/→/a/), with each operation named is the stronger response because it uses the target skill. Say the sounds aloud.",
-      "hint": "Say the sounds aloud."
+      "summary": "mop is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 16
   }
 ];
-window.skillrExamQuestions = window.skillrTestQuestions;
-window.quizQuestions = window.skillrTestQuestions;

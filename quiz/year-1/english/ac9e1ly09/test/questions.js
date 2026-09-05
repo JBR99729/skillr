@@ -4,466 +4,480 @@ window.skillrTestQuestions = [
     "id": "ac9e1ly09-t-001",
     "curriculumCode": "AC9E1LY09",
     "bank": "test",
-    "skill": "ac9e1ly09 01 answer",
+    "skill": "segment words into separate phonemes (sounds) including consonant blends or clusters at the beginnings and ends of words (phonological awareness)",
     "printable": true,
     "type": "single",
-    "question": "Which response would correctly show continuous segmenting?",
-    "audioPrompt": "Which response would correctly show continuous segmenting?",
-    "visual": "📖 show continuous segmenting; 🔎 phoneme; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 show continuous segmenting; 🔎 phoneme; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly09.svg#ac9e1ly09-t-001\"></use></svg>",
+    "question": "Zoe says “ship”. Which shows its sounds?",
+    "audioPrompt": "Zoe says “ship”. Which shows its sounds?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly09.svg#ac9e1ly09-t-001",
-      "alt_text": "📖 show continuous segmenting; 🔎 phoneme; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "/b/ /e/ /s/ /t/ cleanly, 4 phonemes",
-      "uh",
-      "/b/ /e/ /s/ /t/ cleanly, 5 phonemes"
+      "/s/ /h/ /i/ /p/",
+      "/sh/ /i/ /p/",
+      "/ship/"
     ],
-    "correct": 0,
-    "explanation": "/b/ /e/ /s/ /t/ cleanly, 4 phonemes This matches the task.\nHint: Listen for phonemes, not letter count.",
+    "correct": 1,
+    "explanation": "/sh/ /i/ /p/ is the best answer.",
     "structuredExplanation": {
-      "summary": "/b/ /e/ /s/ /t/ cleanly, 4 phonemes This matches the task.",
-      "hint": "Listen for phonemes, not letter count."
+      "summary": "/sh/ /i/ /p/ is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 1
   },
   {
     "id": "ac9e1ly09-t-002",
     "curriculumCode": "AC9E1LY09",
     "bank": "test",
-    "skill": "ac9e1ly09 01 strategy",
+    "skill": "segment words into separate phonemes (sounds) including consonant blends or clusters at the beginnings and ends of words (phonological awareness)",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you show continuous segmenting?",
-    "audioPrompt": "Which tip would help you show continuous segmenting?",
-    "visual": "🧠 show continuous segmenting; ➡️ Say word; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 show continuous segmenting; ➡️ Say word; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly09.svg#ac9e1ly09-t-002\"></use></svg>",
+    "question": "Max says “frog”. Which shows its sounds?",
+    "audioPrompt": "Max says “frog”. Which shows its sounds?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly09.svg#ac9e1ly09-t-002",
-      "alt_text": "🧠 show continuous segmenting; ➡️ Say word; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Treat blend as one sound.",
-      "Listen for phonemes, not letter count.",
-      "Do not blend back."
+      "/fr/ /o/ /g/",
+      "/f/ /r/ /o/ /g/",
+      "/frog/"
     ],
     "correct": 1,
-    "explanation": "Listen for phonemes, not letter count.\nHint: Listen for phonemes, not letter count.",
+    "explanation": "/f/ /r/ /o/ /g/ is the best answer.",
     "structuredExplanation": {
-      "summary": "Listen for phonemes, not letter count.",
-      "hint": "Listen for phonemes, not letter count."
+      "summary": "/f/ /r/ /o/ /g/ is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 2
   },
   {
     "id": "ac9e1ly09-t-003",
     "curriculumCode": "AC9E1LY09",
     "bank": "test",
-    "skill": "ac9e1ly09 02 answer",
+    "skill": "segment words into separate phonemes (sounds) including consonant blends or clusters at the beginnings and ends of words (phonological awareness)",
     "printable": true,
     "type": "single",
-    "question": "Which response would correctly draw two sound maps?",
-    "audioPrompt": "Which response would correctly draw two sound maps?",
-    "visual": "📖 Draw two sound maps; 🔎 blend; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Draw two sound maps; 🔎 blend; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly09.svg#ac9e1ly09-t-003\"></use></svg>",
+    "question": "Mia says “clap”. Which shows its sounds?",
+    "audioPrompt": "Mia says “clap”. Which shows its sounds?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly09.svg#ac9e1ly09-t-003",
-      "alt_text": "📖 Draw two sound maps; 🔎 blend; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Flag: 5 sounds/4 letters; ship: 3 sounds/4 letters; boxes accurately represent /f l a g/ and /sh i p/",
-      "Flag: 3 sounds/4 letters; ship: 3 sounds/4 letters; boxes accurately represent /f l a g/ and /sh i p/",
-      "Flag: 4 sounds/4 letters; ship: 3 sounds/4 letters; boxes accurately represent /f l a g/ and /sh i p/"
+      "/cl/ /a/ /p/",
+      "/clap/",
+      "/c/ /l/ /a/ /p/"
     ],
     "correct": 2,
-    "explanation": "Flag: 4 sounds/4 letters; ship: 3 sounds/4 letters; boxes accurately represent /f l a g/ and /sh i p/ This matches the task.\nHint: /fr/ has /f/ and /r/.",
+    "explanation": "/c/ /l/ /a/ /p/ is the best answer.",
     "structuredExplanation": {
-      "summary": "Flag: 4 sounds/4 letters; ship: 3 sounds/4 letters; boxes accurately represent /f l a g/ and /sh i p/ This matches the task.",
-      "hint": "/fr/ has /f/ and /r/."
+      "summary": "/c/ /l/ /a/ /p/ is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 3
   },
   {
     "id": "ac9e1ly09-t-004",
     "curriculumCode": "AC9E1LY09",
     "bank": "test",
-    "skill": "ac9e1ly09 02 strategy",
+    "skill": "segment words into separate phonemes (sounds) including consonant blends or clusters at the beginnings and ends of words (phonological awareness)",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you draw two sound maps?",
-    "audioPrompt": "Which tip would help you draw two sound maps?",
-    "visual": "🧠 Draw two sound maps; ➡️ Stretch sounds; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Draw two sound maps; ➡️ Stretch sounds; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly09.svg#ac9e1ly09-t-004\"></use></svg>",
+    "question": "Ben says “nest”. Which shows its sounds?",
+    "audioPrompt": "Ben says “nest”. Which shows its sounds?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly09.svg#ac9e1ly09-t-004",
-      "alt_text": "🧠 Draw two sound maps; ➡️ Stretch sounds; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Use this routine: Say word → Stretch sounds → Tap phonemes → Blend back.",
-      "Do not blend back.",
-      "Do not listen for phonemes, not letter count."
+      "/n/ /e/ /st/",
+      "/nest/",
+      "/n/ /e/ /s/ /t/"
     ],
-    "correct": 0,
-    "explanation": "Use this routine: Say word → Stretch sounds → Tap phonemes → Blend back.\nHint: /fr/ has /f/ and /r/.",
+    "correct": 2,
+    "explanation": "/n/ /e/ /s/ /t/ is the best answer.",
     "structuredExplanation": {
-      "summary": "Use this routine: Say word → Stretch sounds → Tap phonemes → Blend back.",
-      "hint": "/fr/ has /f/ and /r/."
+      "summary": "/n/ /e/ /s/ /t/ is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 4
   },
   {
     "id": "ac9e1ly09-t-005",
     "curriculumCode": "AC9E1LY09",
     "bank": "test",
-    "skill": "ac9e1ly09 03 answer",
+    "skill": "segment words into separate phonemes (sounds) including consonant blends or clusters at the beginnings and ends of words (phonological awareness)",
     "printable": true,
     "type": "single",
-    "question": "Which response would correctly correct an inserted sound?",
-    "audioPrompt": "Which response would correctly correct an inserted sound?",
-    "visual": "📖 Correct an inserted sound; 🔎 cluster; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Correct an inserted sound; 🔎 cluster; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly09.svg#ac9e1ly09-t-005\"></use></svg>",
+    "question": "Sam says “brush”. Which shows its sounds?",
+    "audioPrompt": "Sam says “brush”. Which shows its sounds?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly09.svg#ac9e1ly09-t-005",
-      "alt_text": "📖 Correct an inserted sound; 🔎 cluster; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Do not blend back.",
-      "The blend has adjacent /f/ and /r/ sounds; no vowel phoneme occurs between them",
-      "Do not listen for phonemes, not letter count."
+      "/b/ /r/ /u/ /sh/",
+      "/brush/",
+      "/br/ /u/ /s/ /h/"
     ],
-    "correct": 1,
-    "explanation": "The blend has adjacent /f/ and /r/ sounds; no vowel phoneme occurs between them This matches the task.\nHint: Always say the word again after segmenting.",
+    "correct": 0,
+    "explanation": "/b/ /r/ /u/ /sh/ is the best answer.",
     "structuredExplanation": {
-      "summary": "The blend has adjacent /f/ and /r/ sounds; no vowel phoneme occurs between them This matches the task.",
-      "hint": "Always say the word again after segmenting."
+      "summary": "/b/ /r/ /u/ /sh/ is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 5
   },
   {
     "id": "ac9e1ly09-t-006",
     "curriculumCode": "AC9E1LY09",
     "bank": "test",
-    "skill": "ac9e1ly09 03 strategy",
+    "skill": "segment words into separate phonemes (sounds) including consonant blends or clusters at the beginnings and ends of words (phonological awareness)",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you correct an inserted sound?",
-    "audioPrompt": "Which tip would help you correct an inserted sound?",
-    "visual": "🧠 Correct an inserted sound; ➡️ Tap phonemes; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Correct an inserted sound; ➡️ Tap phonemes; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly09.svg#ac9e1ly09-t-006\"></use></svg>",
+    "question": "Kim says “flag”. Which shows its sounds?",
+    "audioPrompt": "Kim says “flag”. Which shows its sounds?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly09.svg#ac9e1ly09-t-006",
-      "alt_text": "🧠 Correct an inserted sound; ➡️ Tap phonemes; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Do not listen for phonemes, not letter count.",
-      "Treat blend as one sound.",
-      "Look for cluster and check the whole example."
+      "/f/ /l/ /a/ /g/",
+      "/fl/ /a/ /g/",
+      "/flag/"
     ],
-    "correct": 2,
-    "explanation": "Look for cluster and check the whole example.\nHint: Always say the word again after segmenting.",
+    "correct": 0,
+    "explanation": "/f/ /l/ /a/ /g/ is the best answer.",
     "structuredExplanation": {
-      "summary": "Look for cluster and check the whole example.",
-      "hint": "Always say the word again after segmenting."
+      "summary": "/f/ /l/ /a/ /g/ is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 6
   },
   {
     "id": "ac9e1ly09-t-007",
     "curriculumCode": "AC9E1LY09",
     "bank": "test",
-    "skill": "ac9e1ly09 04 answer",
+    "skill": "segment words into separate phonemes (sounds) including consonant blends or clusters at the beginnings and ends of words (phonological awareness)",
     "printable": true,
     "type": "single",
-    "question": "Which response would correctly segment a mixed set?",
-    "audioPrompt": "Which response would correctly segment a mixed set?",
-    "visual": "📖 Segment a mixed set; 🔎 segment; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Segment a mixed set; 🔎 segment; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly09.svg#ac9e1ly09-t-007\"></use></svg>",
+    "question": "Ava says “chest”. Which shows its sounds?",
+    "audioPrompt": "Ava says “chest”. Which shows its sounds?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly09.svg#ac9e1ly09-t-007",
-      "alt_text": "📖 Segment a mixed set; 🔎 segment; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Sprint /s p r i n t/ 6; milk /m i l k/ 4; chest /ch e s t/ 4; features correctly identified",
-      "Sprint /s p r i n t/ 7; milk /m i l k/ 4; chest /ch e s t/ 4; features correctly identified",
-      "Sprint /s p r i n t/ 5; milk /m i l k/ 4; chest /ch e s t/ 4; features correctly identified"
+      "/chest/",
+      "/c/ /h/ /e/ /s/ /t/",
+      "/ch/ /e/ /s/ /t/"
     ],
-    "correct": 0,
-    "explanation": "Sprint /s p r i n t/ 6; milk /m i l k/ 4; chest /ch e s t/ 4; features correctly identified This matches the task.\nHint: Listen for phonemes, not letter count.",
+    "correct": 2,
+    "explanation": "/ch/ /e/ /s/ /t/ is the best answer.",
     "structuredExplanation": {
-      "summary": "Sprint /s p r i n t/ 6; milk /m i l k/ 4; chest /ch e s t/ 4; features correctly identified This matches the task.",
-      "hint": "Listen for phonemes, not letter count."
+      "summary": "/ch/ /e/ /s/ /t/ is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 7
   },
   {
     "id": "ac9e1ly09-t-008",
     "curriculumCode": "AC9E1LY09",
     "bank": "test",
-    "skill": "ac9e1ly09 04 strategy",
+    "skill": "segment words into separate phonemes (sounds) including consonant blends or clusters at the beginnings and ends of words (phonological awareness)",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you segment a mixed set?",
-    "audioPrompt": "Which tip would help you segment a mixed set?",
-    "visual": "🧠 Segment a mixed set; ➡️ Blend back; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Segment a mixed set; ➡️ Blend back; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly09.svg#ac9e1ly09-t-008\"></use></svg>",
+    "question": "Leo says “milk”. Which shows its sounds?",
+    "audioPrompt": "Leo says “milk”. Which shows its sounds?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly09.svg#ac9e1ly09-t-008",
-      "alt_text": "🧠 Segment a mixed set; ➡️ Blend back; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Treat blend as one sound.",
-      "Check that you can use sound boxes.",
-      "Do not blend back."
+      "/milk/",
+      "/m/ /i/ /lk/",
+      "/m/ /i/ /l/ /k/"
     ],
-    "correct": 1,
-    "explanation": "Check that you can use sound boxes.\nHint: Listen for phonemes, not letter count.",
+    "correct": 2,
+    "explanation": "/m/ /i/ /l/ /k/ is the best answer.",
     "structuredExplanation": {
-      "summary": "Check that you can use sound boxes.",
-      "hint": "Listen for phonemes, not letter count."
+      "summary": "/m/ /i/ /l/ /k/ is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 8
   },
   {
     "id": "ac9e1ly09-t-009",
     "curriculumCode": "AC9E1LY09",
     "bank": "test",
-    "skill": "ac9e1ly09 01 test verify",
+    "skill": "segment words into separate phonemes (sounds) including consonant blends or clusters at the beginnings and ends of words (phonological awareness)",
     "printable": true,
     "type": "single",
-    "question": "A classmate is unsure about this example. Which tip would help them check it carefully?",
-    "audioPrompt": "A classmate is unsure about this example. Which tip would help them check it carefully?",
-    "visual": "🧠 show continuous segmenting; ➡️ Say word; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 show continuous segmenting; ➡️ Say word; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly09.svg#ac9e1ly09-t-002\"></use></svg>",
+    "question": "Max says “ship”. Which shows its sounds?",
+    "audioPrompt": "Max says “ship”. Which shows its sounds?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly09.svg#ac9e1ly09-t-002",
-      "alt_text": "🧠 show continuous segmenting; ➡️ Say word; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "uh",
-      "/b/ /e/ /s/ /t/ cleanly, 5 phonemes",
-      "Listen for phonemes, not letter count."
+      "/ship/",
+      "/sh/ /i/ /p/",
+      "/s/ /h/ /i/ /p/"
     ],
-    "correct": 2,
-    "explanation": "Listen for phonemes, not letter count. is the useful check. Listen for phonemes, not letter count.\nHint: Listen for phonemes, not letter count.",
+    "correct": 1,
+    "explanation": "/sh/ /i/ /p/ is the best answer.",
     "structuredExplanation": {
-      "summary": "Listen for phonemes, not letter count. is the useful check. Listen for phonemes, not letter count.",
-      "hint": "Listen for phonemes, not letter count."
+      "summary": "/sh/ /i/ /p/ is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 9
   },
   {
     "id": "ac9e1ly09-t-010",
     "curriculumCode": "AC9E1LY09",
     "bank": "test",
-    "skill": "ac9e1ly09 02 test verify",
+    "skill": "segment words into separate phonemes (sounds) including consonant blends or clusters at the beginnings and ends of words (phonological awareness)",
     "printable": true,
     "type": "single",
-    "question": "A classmate is unsure about this example. Which tip would help them check it carefully?",
-    "audioPrompt": "A classmate is unsure about this example. Which tip would help them check it carefully?",
-    "visual": "🧠 Draw two sound maps; ➡️ Stretch sounds; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Draw two sound maps; ➡️ Stretch sounds; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly09.svg#ac9e1ly09-t-004\"></use></svg>",
+    "question": "Mia says “frog”. Which shows its sounds?",
+    "audioPrompt": "Mia says “frog”. Which shows its sounds?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly09.svg#ac9e1ly09-t-004",
-      "alt_text": "🧠 Draw two sound maps; ➡️ Stretch sounds; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Use this routine: Say word → Stretch sounds → Tap phonemes → Blend back.",
-      "Flag: 5 sounds/4 letters; ship: 3 sounds/4 letters; boxes accurately represent /f l a g/ and /sh i p/",
-      "Flag: 3 sounds/4 letters; ship: 3 sounds/4 letters; boxes accurately represent /f l a g/ and /sh i p/"
+      "/frog/",
+      "/fr/ /o/ /g/",
+      "/f/ /r/ /o/ /g/"
     ],
-    "correct": 0,
-    "explanation": "Use this routine: Say word → Stretch sounds → Tap phonemes → Blend back. is the useful check. /fr/ has /f/ and /r/.\nHint: /fr/ has /f/ and /r/.",
+    "correct": 2,
+    "explanation": "/f/ /r/ /o/ /g/ is the best answer.",
     "structuredExplanation": {
-      "summary": "Use this routine: Say word → Stretch sounds → Tap phonemes → Blend back. is the useful check. /fr/ has /f/ and /r/.",
-      "hint": "/fr/ has /f/ and /r/."
+      "summary": "/f/ /r/ /o/ /g/ is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 10
   },
   {
     "id": "ac9e1ly09-t-011",
     "curriculumCode": "AC9E1LY09",
     "bank": "test",
-    "skill": "ac9e1ly09 03 test verify",
+    "skill": "segment words into separate phonemes (sounds) including consonant blends or clusters at the beginnings and ends of words (phonological awareness)",
     "printable": true,
     "type": "single",
-    "question": "A classmate is unsure about this example. Which tip would help them check it carefully?",
-    "audioPrompt": "A classmate is unsure about this example. Which tip would help them check it carefully?",
-    "visual": "🧠 Correct an inserted sound; ➡️ Tap phonemes; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Correct an inserted sound; ➡️ Tap phonemes; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly09.svg#ac9e1ly09-t-006\"></use></svg>",
+    "question": "Ben says “clap”. Which shows its sounds?",
+    "audioPrompt": "Ben says “clap”. Which shows its sounds?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly09.svg#ac9e1ly09-t-006",
-      "alt_text": "🧠 Correct an inserted sound; ➡️ Tap phonemes; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Do not blend back.",
-      "Look for cluster and check the whole example.",
-      "Do not listen for phonemes, not letter count."
+      "/clap/",
+      "/cl/ /a/ /p/",
+      "/c/ /l/ /a/ /p/"
     ],
-    "correct": 1,
-    "explanation": "Look for cluster and check the whole example. is the useful check. Always say the word again after segmenting.\nHint: Always say the word again after segmenting.",
+    "correct": 2,
+    "explanation": "/c/ /l/ /a/ /p/ is the best answer.",
     "structuredExplanation": {
-      "summary": "Look for cluster and check the whole example. is the useful check. Always say the word again after segmenting.",
-      "hint": "Always say the word again after segmenting."
+      "summary": "/c/ /l/ /a/ /p/ is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 11
   },
   {
     "id": "ac9e1ly09-t-012",
     "curriculumCode": "AC9E1LY09",
     "bank": "test",
-    "skill": "ac9e1ly09 04 test verify",
+    "skill": "segment words into separate phonemes (sounds) including consonant blends or clusters at the beginnings and ends of words (phonological awareness)",
     "printable": true,
     "type": "single",
-    "question": "A classmate is unsure about this example. Which tip would help them check it carefully?",
-    "audioPrompt": "A classmate is unsure about this example. Which tip would help them check it carefully?",
-    "visual": "🧠 Segment a mixed set; ➡️ Blend back; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Segment a mixed set; ➡️ Blend back; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly09.svg#ac9e1ly09-t-008\"></use></svg>",
+    "question": "Sam says “nest”. Which shows its sounds?",
+    "audioPrompt": "Sam says “nest”. Which shows its sounds?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly09.svg#ac9e1ly09-t-008",
-      "alt_text": "🧠 Segment a mixed set; ➡️ Blend back; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Sprint /s p r i n t/ 7; milk /m i l k/ 4; chest /ch e s t/ 4; features correctly identified",
-      "Sprint /s p r i n t/ 5; milk /m i l k/ 4; chest /ch e s t/ 4; features correctly identified",
-      "Check that you can use sound boxes."
+      "/n/ /e/ /st/",
+      "/nest/",
+      "/n/ /e/ /s/ /t/"
     ],
     "correct": 2,
-    "explanation": "Check that you can use sound boxes. is the useful check. Listen for phonemes, not letter count.\nHint: Listen for phonemes, not letter count.",
+    "explanation": "/n/ /e/ /s/ /t/ is the best answer.",
     "structuredExplanation": {
-      "summary": "Check that you can use sound boxes. is the useful check. Listen for phonemes, not letter count.",
-      "hint": "Listen for phonemes, not letter count."
+      "summary": "/n/ /e/ /s/ /t/ is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 12
   },
   {
     "id": "ac9e1ly09-t-013",
     "curriculumCode": "AC9E1LY09",
     "bank": "test",
-    "skill": "ac9e1ly09 01 test apply",
+    "skill": "segment words into separate phonemes (sounds) including consonant blends or clusters at the beginnings and ends of words (phonological awareness)",
     "printable": true,
     "type": "single",
-    "question": "A classmate chose “uh”. Which answer would improve their response?",
-    "audioPrompt": "A classmate chose uh. Which answer would improve their response?",
-    "visual": "📖 show continuous segmenting; 🔎 phoneme; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 show continuous segmenting; 🔎 phoneme; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly09.svg#ac9e1ly09-t-001\"></use></svg>",
+    "question": "Kim says “brush”. Which shows its sounds?",
+    "audioPrompt": "Kim says “brush”. Which shows its sounds?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly09.svg#ac9e1ly09-t-001",
-      "alt_text": "📖 show continuous segmenting; 🔎 phoneme; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "/b/ /e/ /s/ /t/ cleanly, 4 phonemes",
-      "uh",
-      "/b/ /e/ /s/ /t/ cleanly, 5 phonemes"
+      "/b/ /r/ /u/ /sh/",
+      "/br/ /u/ /s/ /h/",
+      "/brush/"
     ],
     "correct": 0,
-    "explanation": "/b/ /e/ /s/ /t/ cleanly, 4 phonemes is the stronger response because it uses the target skill. Listen for phonemes, not letter count.\nHint: Listen for phonemes, not letter count.",
+    "explanation": "/b/ /r/ /u/ /sh/ is the best answer.",
     "structuredExplanation": {
-      "summary": "/b/ /e/ /s/ /t/ cleanly, 4 phonemes is the stronger response because it uses the target skill. Listen for phonemes, not letter count.",
-      "hint": "Listen for phonemes, not letter count."
+      "summary": "/b/ /r/ /u/ /sh/ is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 13
   },
   {
     "id": "ac9e1ly09-t-014",
     "curriculumCode": "AC9E1LY09",
     "bank": "test",
-    "skill": "ac9e1ly09 02 test apply",
+    "skill": "segment words into separate phonemes (sounds) including consonant blends or clusters at the beginnings and ends of words (phonological awareness)",
     "printable": true,
     "type": "single",
-    "question": "A classmate chose “Flag: 5 sounds/4 letters; ship: 3 sounds/4 letters; boxes accurately represent /f l a g/ and /sh i p/”. Which answer would improve their response?",
-    "audioPrompt": "A classmate chose Flag: 5 sounds/4 letters; ship: 3 sounds/4 letters; boxes accurately represent /f l a g/ and /sh i p/. Which answer would improve their response?",
-    "visual": "📖 Draw two sound maps; 🔎 blend; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Draw two sound maps; 🔎 blend; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly09.svg#ac9e1ly09-t-003\"></use></svg>",
+    "question": "Ava says “flag”. Which shows its sounds?",
+    "audioPrompt": "Ava says “flag”. Which shows its sounds?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly09.svg#ac9e1ly09-t-003",
-      "alt_text": "📖 Draw two sound maps; 🔎 blend; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Flag: 5 sounds/4 letters; ship: 3 sounds/4 letters; boxes accurately represent /f l a g/ and /sh i p/",
-      "Flag: 4 sounds/4 letters; ship: 3 sounds/4 letters; boxes accurately represent /f l a g/ and /sh i p/",
-      "Flag: 3 sounds/4 letters; ship: 3 sounds/4 letters; boxes accurately represent /f l a g/ and /sh i p/"
+      "/f/ /l/ /a/ /g/",
+      "/flag/",
+      "/fl/ /a/ /g/"
     ],
-    "correct": 1,
-    "explanation": "Flag: 4 sounds/4 letters; ship: 3 sounds/4 letters; boxes accurately represent /f l a g/ and /sh i p/ is the stronger response because it uses the target skill. /fr/ has /f/ and /r/.\nHint: /fr/ has /f/ and /r/.",
+    "correct": 0,
+    "explanation": "/f/ /l/ /a/ /g/ is the best answer.",
     "structuredExplanation": {
-      "summary": "Flag: 4 sounds/4 letters; ship: 3 sounds/4 letters; boxes accurately represent /f l a g/ and /sh i p/ is the stronger response because it uses the target skill. /fr/ has /f/ and /r/.",
-      "hint": "/fr/ has /f/ and /r/."
+      "summary": "/f/ /l/ /a/ /g/ is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 14
   },
   {
     "id": "ac9e1ly09-t-015",
     "curriculumCode": "AC9E1LY09",
     "bank": "test",
-    "skill": "ac9e1ly09 03 test apply",
+    "skill": "segment words into separate phonemes (sounds) including consonant blends or clusters at the beginnings and ends of words (phonological awareness)",
     "printable": true,
     "type": "single",
-    "question": "A classmate chose “Do not blend back.”. Which answer would improve their response?",
-    "audioPrompt": "A classmate chose Do not blend back.. Which answer would improve their response?",
-    "visual": "📖 Correct an inserted sound; 🔎 cluster; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Correct an inserted sound; 🔎 cluster; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly09.svg#ac9e1ly09-t-005\"></use></svg>",
+    "question": "Leo says “chest”. Which shows its sounds?",
+    "audioPrompt": "Leo says “chest”. Which shows its sounds?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly09.svg#ac9e1ly09-t-005",
-      "alt_text": "📖 Correct an inserted sound; 🔎 cluster; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Do not blend back.",
-      "Do not listen for phonemes, not letter count.",
-      "The blend has adjacent /f/ and /r/ sounds; no vowel phoneme occurs between them"
+      "/c/ /h/ /e/ /s/ /t/",
+      "/chest/",
+      "/ch/ /e/ /s/ /t/"
     ],
     "correct": 2,
-    "explanation": "The blend has adjacent /f/ and /r/ sounds; no vowel phoneme occurs between them is the stronger response because it uses the target skill. Always say the word again after segmenting.\nHint: Always say the word again after segmenting.",
+    "explanation": "/ch/ /e/ /s/ /t/ is the best answer.",
     "structuredExplanation": {
-      "summary": "The blend has adjacent /f/ and /r/ sounds; no vowel phoneme occurs between them is the stronger response because it uses the target skill. Always say the word again after segmenting.",
-      "hint": "Always say the word again after segmenting."
+      "summary": "/ch/ /e/ /s/ /t/ is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 15
   },
   {
     "id": "ac9e1ly09-t-016",
     "curriculumCode": "AC9E1LY09",
     "bank": "test",
-    "skill": "ac9e1ly09 04 test apply",
+    "skill": "segment words into separate phonemes (sounds) including consonant blends or clusters at the beginnings and ends of words (phonological awareness)",
     "printable": true,
     "type": "single",
-    "question": "A classmate chose “Sprint /s p r i n t/ 7; milk /m i l k/ 4; chest /ch e s t/ 4; features correctly identified”. Which answer would improve their response?",
-    "audioPrompt": "A classmate chose Sprint /s p r i n t/ 7; milk /m i l k/ 4; chest /ch e s t/ 4; features correctly identified. Which answer would improve their response?",
-    "visual": "📖 Segment a mixed set; 🔎 segment; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Segment a mixed set; 🔎 segment; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly09.svg#ac9e1ly09-t-007\"></use></svg>",
+    "question": "Zoe says “milk”. Which shows its sounds?",
+    "audioPrompt": "Zoe says “milk”. Which shows its sounds?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly09.svg#ac9e1ly09-t-007",
-      "alt_text": "📖 Segment a mixed set; 🔎 segment; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Sprint /s p r i n t/ 6; milk /m i l k/ 4; chest /ch e s t/ 4; features correctly identified",
-      "Sprint /s p r i n t/ 7; milk /m i l k/ 4; chest /ch e s t/ 4; features correctly identified",
-      "Sprint /s p r i n t/ 5; milk /m i l k/ 4; chest /ch e s t/ 4; features correctly identified"
+      "/m/ /i/ /lk/",
+      "/milk/",
+      "/m/ /i/ /l/ /k/"
     ],
-    "correct": 0,
-    "explanation": "Sprint /s p r i n t/ 6; milk /m i l k/ 4; chest /ch e s t/ 4; features correctly identified is the stronger response because it uses the target skill. Listen for phonemes, not letter count.\nHint: Listen for phonemes, not letter count.",
+    "correct": 2,
+    "explanation": "/m/ /i/ /l/ /k/ is the best answer.",
     "structuredExplanation": {
-      "summary": "Sprint /s p r i n t/ 6; milk /m i l k/ 4; chest /ch e s t/ 4; features correctly identified is the stronger response because it uses the target skill. Listen for phonemes, not letter count.",
-      "hint": "Listen for phonemes, not letter count."
+      "summary": "/m/ /i/ /l/ /k/ is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 16
   }
 ];
-window.skillrExamQuestions = window.skillrTestQuestions;
-window.quizQuestions = window.skillrTestQuestions;

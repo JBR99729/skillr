@@ -4,1161 +4,1440 @@ window.skillrPracticeQuestions = [
     "id": "ac9e1la01-p-001",
     "curriculumCode": "AC9E1LA01",
     "bank": "practice",
-    "skill": "ac9e1la01 01 recognise",
+    "skill": "understand how language, facial expressions and gestures are used to interact with others when asking for and providing information, making offers, exclaiming, requesting and giving commands",
     "printable": true,
     "type": "single",
-    "question": "What is the purpose of 'Please may I borrow the ruler?'",
-    "audioPrompt": "What is the purpose of 'Please may I borrow the ruler?'",
-    "visual": "📖 Identify a request; 🔎 question; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Identify a request; 🔎 question; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la01.svg#ac9e1la01-p-001\"></use></svg>",
+    "question": "Mia says, “May I use your hat, please?” What is Mia doing?",
+    "audioPrompt": "Mia says, “May I use your hat, please?” What is Mia doing?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la01.svg#ac9e1la01-p-001",
-      "alt_text": "📖 Identify a request; 🔎 question; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "It is a polite request asking to borrow the ruler",
-      "It is a polite question asking to borrow the ruler",
-      "It is a polite command asking to borrow the ruler"
+      "giving news",
+      "giving an order",
+      "asking politely"
     ],
-    "correct": 0,
-    "explanation": "It is a polite request asking to borrow the ruler This matches the task.\nHint: Also notice face, gesture, voice and relationship.",
+    "correct": 2,
+    "explanation": "asking politely is the best answer.",
     "structuredExplanation": {
-      "summary": "It is a polite request asking to borrow the ruler This matches the task.",
-      "hint": "Also notice face, gesture, voice and relationship."
+      "summary": "asking politely is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 1
   },
   {
     "id": "ac9e1la01-p-002",
     "curriculumCode": "AC9E1LA01",
     "bank": "practice",
-    "skill": "ac9e1la01 02 recognise",
+    "skill": "understand how language, facial expressions and gestures are used to interact with others when asking for and providing information, making offers, exclaiming, requesting and giving commands",
     "printable": true,
     "type": "single",
-    "question": "Which response would correctly match words and purposes?",
-    "audioPrompt": "Which response would correctly match words and purposes?",
-    "visual": "📖 Match words and purposes; 🔎 offer; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Match words and purposes; 🔎 offer; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la01.svg#ac9e1la01-p-003\"></use></svg>",
+    "question": "Ben points to the door and says, “Please come in.” What does Ben want?",
+    "audioPrompt": "Ben points to the door and says, “Please come in.” What does Ben want?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la01.svg#ac9e1la01-p-003",
-      "alt_text": "📖 Match words and purposes; 🔎 offer; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Help ↔ offer; library ↔ request; stand ↔ command",
-      "Help ↔ offer; library ↔ command; stand ↔ command",
-      "Help ↔ offer; library ↔ question; stand ↔ command"
+      "sit down",
+      "come in",
+      "run away"
     ],
-    "correct": 2,
-    "explanation": "Help ↔ offer; library ↔ question; stand ↔ command This matches the task.\nHint: Use polite wording when asking someone to do something.",
+    "correct": 1,
+    "explanation": "come in is the best answer.",
     "structuredExplanation": {
-      "summary": "Help ↔ offer; library ↔ question; stand ↔ command This matches the task.",
-      "hint": "Use polite wording when asking someone to do something."
+      "summary": "come in is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 2
   },
   {
     "id": "ac9e1la01-p-003",
     "curriculumCode": "AC9E1LA01",
     "bank": "practice",
-    "skill": "ac9e1la01 03 recognise",
+    "skill": "understand how language, facial expressions and gestures are used to interact with others when asking for and providing information, making offers, exclaiming, requesting and giving commands",
     "printable": true,
     "type": "single",
-    "question": "Which response would correctly show two meanings?",
-    "audioPrompt": "Which response would correctly show two meanings?",
-    "visual": "📖 Show two meanings; 🔎 request; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Show two meanings; 🔎 request; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la01.svg#ac9e1la01-p-005\"></use></svg>",
+    "question": "Sam smiles and says, “I can help you.” What is Sam doing?",
+    "audioPrompt": "Sam smiles and says, “I can help you.” What is Sam doing?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la01.svg#ac9e1la01-p-005",
-      "alt_text": "📖 Show two meanings; 🔎 request; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "That is the one",
-      "shows clear certainty or help versus uncertainty and explains the effect of expression or gesture",
-      "Use one voice for every purpose."
+      "giving an order",
+      "offering help",
+      "asking a question"
     ],
     "correct": 1,
-    "explanation": "shows clear certainty or help versus uncertainty and explains the effect of expression or gesture This matches the task.\nHint: Change volume, tone or gesture to match meaning.",
+    "explanation": "offering help is the best answer.",
     "structuredExplanation": {
-      "summary": "shows clear certainty or help versus uncertainty and explains the effect of expression or gesture This matches the task.",
-      "hint": "Change volume, tone or gesture to match meaning."
+      "summary": "offering help is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 3
   },
   {
     "id": "ac9e1la01-p-004",
     "curriculumCode": "AC9E1LA01",
     "bank": "practice",
-    "skill": "ac9e1la01 04 recognise",
+    "skill": "understand how language, facial expressions and gestures are used to interact with others when asking for and providing information, making offers, exclaiming, requesting and giving commands",
     "printable": true,
     "type": "single",
-    "question": "Which response would correctly turn a command into a request?",
-    "audioPrompt": "Which response would correctly turn a command into a request?",
-    "visual": "📖 Turn a command into a request; 🔎 command; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Turn a command into a request; 🔎 command; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la01.svg#ac9e1la01-p-007\"></use></svg>",
+    "question": "Kim asks, “Where is my book?” Which answer gives information?",
+    "audioPrompt": "Kim asks, “Where is my book?” Which answer gives information?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la01.svg#ac9e1la01-p-007",
-      "alt_text": "📖 Turn a command into a request; 🔎 command; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "'Could you please pass me the scissors?'",
-      "Give me the scissors",
-      "Check only the words."
+      "Please find it!",
+      "It is by the kite.",
+      "Wow!"
     ],
-    "correct": 0,
-    "explanation": "'Could you please pass me the scissors?' This matches the task.\nHint: Also notice face, gesture, voice and relationship.",
+    "correct": 1,
+    "explanation": "It is by the kite. is the best answer.",
     "structuredExplanation": {
-      "summary": "'Could you please pass me the scissors?' This matches the task.",
-      "hint": "Also notice face, gesture, voice and relationship."
+      "summary": "It is by the kite. is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 4
   },
   {
     "id": "ac9e1la01-p-005",
     "curriculumCode": "AC9E1LA01",
     "bank": "practice",
-    "skill": "ac9e1la01 05 recognise",
+    "skill": "understand how language, facial expressions and gestures are used to interact with others when asking for and providing information, making offers, exclaiming, requesting and giving commands",
     "printable": true,
     "type": "single",
-    "question": "Which response would correctly order an information exchange?",
-    "audioPrompt": "Which response would correctly order an information exchange?",
-    "visual": "📖 Order an information exchange; 🔎 gesture; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Order an information exchange; 🔎 gesture; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la01.svg#ac9e1la01-p-009\"></use></svg>",
+    "question": "Ava says, “Wow! That frog can jump!” What does the exclamation mark show?",
+    "audioPrompt": "Ava says, “Wow! That frog can jump!” What does the exclamation mark show?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la01.svg#ac9e1la01-p-009",
-      "alt_text": "📖 Order an information exchange; 🔎 gesture; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "It starts at ten",
-      "When does the game start",
-      "Ask question → provide answer → acknowledge"
+      "a quiet question",
+      "a strong feeling",
+      "a list"
     ],
-    "correct": 2,
-    "explanation": "Ask question → provide answer → acknowledge This matches the task.\nHint: Use polite wording when asking someone to do something.",
+    "correct": 1,
+    "explanation": "a strong feeling is the best answer.",
     "structuredExplanation": {
-      "summary": "Ask question → provide answer → acknowledge This matches the task.",
-      "hint": "Use polite wording when asking someone to do something."
+      "summary": "a strong feeling is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 5
   },
   {
     "id": "ac9e1la01-p-006",
     "curriculumCode": "AC9E1LA01",
     "bank": "practice",
-    "skill": "ac9e1la01 06 recognise",
+    "skill": "understand how language, facial expressions and gestures are used to interact with others when asking for and providing information, making offers, exclaiming, requesting and giving commands",
     "printable": true,
     "type": "single",
-    "question": "Which response would correctly draw matching expressions?",
-    "audioPrompt": "Which response would correctly draw matching expressions?",
-    "visual": "📖 Draw matching expressions; 🔎 question; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Draw matching expressions; 🔎 question; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la01.svg#ac9e1la01-p-011\"></use></svg>",
+    "question": "Which words are a kind request for the kite?",
+    "audioPrompt": "Which words are a kind request for the kite?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la01.svg#ac9e1la01-p-011",
-      "alt_text": "📖 Draw matching expressions; 🔎 question; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "What a wonderful surprise",
-      "Shows delighted/surprised and puzzled expressions with appropriate gesture or label",
-      "I do not understand yet"
+      "The kite is red.",
+      "Give me the kite!",
+      "Please pass the kite."
     ],
-    "correct": 1,
-    "explanation": "Shows delighted/surprised and puzzled expressions with appropriate gesture or label This matches the task.\nHint: Change volume, tone or gesture to match meaning.",
+    "correct": 2,
+    "explanation": "Please pass the kite. is the best answer.",
     "structuredExplanation": {
-      "summary": "Shows delighted/surprised and puzzled expressions with appropriate gesture or label This matches the task.",
-      "hint": "Change volume, tone or gesture to match meaning."
+      "summary": "Please pass the kite. is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 6
   },
   {
     "id": "ac9e1la01-p-007",
     "curriculumCode": "AC9E1LA01",
     "bank": "practice",
-    "skill": "ac9e1la01 07 recognise",
+    "skill": "understand how language, facial expressions and gestures are used to interact with others when asking for and providing information, making offers, exclaiming, requesting and giving commands",
     "printable": true,
     "type": "single",
-    "question": "Which response would correctly explain a mixed message?",
-    "audioPrompt": "Which response would correctly explain a mixed message?",
-    "visual": "📖 Explain a mixed message; 🔎 offer; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Explain a mixed message; 🔎 offer; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la01.svg#ac9e1la01-p-013\"></use></svg>",
+    "question": "Zoe nods while Ben speaks. What does the nod show?",
+    "audioPrompt": "Zoe nods while Ben speaks. What does the nod show?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la01.svg#ac9e1la01-p-013",
-      "alt_text": "📖 Explain a mixed message; 🔎 offer; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Words signal willingness, but expression/body language signal reluctance or unhappiness",
-      "I am happy to help",
-      "Check only the words."
+      "Go away.",
+      "I am listening.",
+      "I am asleep."
     ],
-    "correct": 0,
-    "explanation": "Words signal willingness, but expression/body language signal reluctance or unhappiness This matches the task.\nHint: Also notice face, gesture, voice and relationship.",
+    "correct": 1,
+    "explanation": "I am listening. is the best answer.",
     "structuredExplanation": {
-      "summary": "Words signal willingness, but expression/body language signal reluctance or unhappiness This matches the task.",
-      "hint": "Also notice face, gesture, voice and relationship."
+      "summary": "I am listening. is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 7
   },
   {
     "id": "ac9e1la01-p-008",
     "curriculumCode": "AC9E1LA01",
     "bank": "practice",
-    "skill": "ac9e1la01 08 recognise",
+    "skill": "understand how language, facial expressions and gestures are used to interact with others when asking for and providing information, making offers, exclaiming, requesting and giving commands",
     "printable": true,
     "type": "single",
-    "question": "Which response would correctly choose language for a situation?",
-    "audioPrompt": "Which response would correctly choose language for a situation?",
-    "visual": "📖 Choose language for a situation; 🔎 request; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Choose language for a situation; 🔎 request; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la01.svg#ac9e1la01-p-015\"></use></svg>",
+    "question": "Max says, “Stop!” with a firm voice. What is Max giving?",
+    "audioPrompt": "Max says, “Stop!” with a firm voice. What is Max giving?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la01.svg#ac9e1la01-p-015",
-      "alt_text": "📖 Choose language for a situation; 🔎 request; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Do not use polite wording when asking someone to do something.",
-      "Use one voice for every purpose.",
-      "Example offer 'Would you like help?', gesture to assist/pick up, and friendly concerned expression"
+      "an offer",
+      "a command",
+      "a question"
     ],
-    "correct": 2,
-    "explanation": "Example offer 'Would you like help?', gesture to assist/pick up, and friendly concerned expression This matches the task.\nHint: Use polite wording when asking someone to do something.",
+    "correct": 1,
+    "explanation": "a command is the best answer.",
     "structuredExplanation": {
-      "summary": "Example offer 'Would you like help?', gesture to assist/pick up, and friendly concerned expression This matches the task.",
-      "hint": "Use polite wording when asking someone to do something."
+      "summary": "a command is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 8
   },
   {
     "id": "ac9e1la01-p-009",
     "curriculumCode": "AC9E1LA01",
     "bank": "practice",
-    "skill": "ac9e1la01 09 recognise",
+    "skill": "understand how language, facial expressions and gestures are used to interact with others when asking for and providing information, making offers, exclaiming, requesting and giving commands",
     "printable": true,
     "type": "single",
-    "question": "Which response would correctly classify an exclamation?",
-    "audioPrompt": "Which response would correctly classify an exclamation?",
-    "visual": "📖 Classify an exclamation; 🔎 command; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Classify an exclamation; 🔎 command; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la01.svg#ac9e1la01-p-017\"></use></svg>",
+    "question": "Ben says, “May I use your book, please?” What is Ben doing?",
+    "audioPrompt": "Ben says, “May I use your book, please?” What is Ben doing?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la01.svg#ac9e1la01-p-017",
-      "alt_text": "📖 Classify an exclamation; 🔎 command; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Watch out",
-      "It is an exclamation/warning intended to get urgent attention",
-      "Use one voice for every purpose."
+      "asking politely",
+      "giving an order",
+      "giving news"
     ],
-    "correct": 1,
-    "explanation": "It is an exclamation/warning intended to get urgent attention This matches the task.\nHint: Change volume, tone or gesture to match meaning.",
+    "correct": 0,
+    "explanation": "asking politely is the best answer.",
     "structuredExplanation": {
-      "summary": "It is an exclamation/warning intended to get urgent attention This matches the task.",
-      "hint": "Change volume, tone or gesture to match meaning."
+      "summary": "asking politely is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 9
   },
   {
     "id": "ac9e1la01-p-010",
     "curriculumCode": "AC9E1LA01",
     "bank": "practice",
-    "skill": "ac9e1la01 10 recognise",
+    "skill": "understand how language, facial expressions and gestures are used to interact with others when asking for and providing information, making offers, exclaiming, requesting and giving commands",
     "printable": true,
     "type": "single",
-    "question": "Which response would correctly match fresh cues?",
-    "audioPrompt": "Which response would correctly match fresh cues?",
-    "visual": "📖 Match fresh cues; 🔎 gesture; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Match fresh cues; 🔎 gesture; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la01.svg#ac9e1la01-p-019\"></use></svg>",
+    "question": "Sam points to the door and says, “Please come in.” What does Sam want?",
+    "audioPrompt": "Sam points to the door and says, “Please come in.” What does Sam want?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la01.svg#ac9e1la01-p-019",
-      "alt_text": "📖 Match fresh cues; 🔎 gesture; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Each gesture/expression matches the stated spoken meaning",
-      "Really",
-      "Here you are"
+      "run away",
+      "sit down",
+      "come in"
     ],
-    "correct": 0,
-    "explanation": "Each gesture/expression matches the stated spoken meaning This matches the task.\nHint: Also notice face, gesture, voice and relationship.",
+    "correct": 2,
+    "explanation": "come in is the best answer.",
     "structuredExplanation": {
-      "summary": "Each gesture/expression matches the stated spoken meaning This matches the task.",
-      "hint": "Also notice face, gesture, voice and relationship."
+      "summary": "come in is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 10
   },
   {
     "id": "ac9e1la01-p-011",
     "curriculumCode": "AC9E1LA01",
     "bank": "practice",
-    "skill": "ac9e1la01 01 explain",
+    "skill": "understand how language, facial expressions and gestures are used to interact with others when asking for and providing information, making offers, exclaiming, requesting and giving commands",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you identify a request?",
-    "audioPrompt": "Which tip would help you identify a request?",
-    "visual": "🧠 Identify a request; ➡️ Notice purpose; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Identify a request; ➡️ Notice purpose; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la01.svg#ac9e1la01-p-002\"></use></svg>",
+    "question": "Kim smiles and says, “I can help you.” What is Kim doing?",
+    "audioPrompt": "Kim smiles and says, “I can help you.” What is Kim doing?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la01.svg#ac9e1la01-p-002",
-      "alt_text": "🧠 Identify a request; ➡️ Notice purpose; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Do not use polite wording when asking someone to do something.",
-      "notice face, gesture, voice and relationship.",
-      "Use one voice for every purpose."
+      "asking a question",
+      "offering help",
+      "giving an order"
     ],
     "correct": 1,
-    "explanation": "notice face, gesture, voice and relationship.\nHint: Also notice face, gesture, voice and relationship.",
+    "explanation": "offering help is the best answer.",
     "structuredExplanation": {
-      "summary": "notice face, gesture, voice and relationship.",
-      "hint": "Also notice face, gesture, voice and relationship."
+      "summary": "offering help is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 11
   },
   {
     "id": "ac9e1la01-p-012",
     "curriculumCode": "AC9E1LA01",
     "bank": "practice",
-    "skill": "ac9e1la01 02 explain",
+    "skill": "understand how language, facial expressions and gestures are used to interact with others when asking for and providing information, making offers, exclaiming, requesting and giving commands",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you match words and purposes?",
-    "audioPrompt": "Which tip would help you match words and purposes?",
-    "visual": "🧠 Match words and purposes; ➡️ Choose words; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Match words and purposes; ➡️ Choose words; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la01.svg#ac9e1la01-p-004\"></use></svg>",
+    "question": "Ava asks, “Where is my sock?” Which answer gives information?",
+    "audioPrompt": "Ava asks, “Where is my sock?” Which answer gives information?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la01.svg#ac9e1la01-p-004",
-      "alt_text": "🧠 Match words and purposes; ➡️ Choose words; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Use this routine: Notice purpose → Choose words → Use voice/gesture → Check response.",
-      "Use one voice for every purpose.",
-      "Check only the words."
+      "It is by the kite.",
+      "Please find it!",
+      "Wow!"
     ],
     "correct": 0,
-    "explanation": "Use this routine: Notice purpose → Choose words → Use voice/gesture → Check response.\nHint: Use polite wording when asking someone to do something.",
+    "explanation": "It is by the kite. is the best answer.",
     "structuredExplanation": {
-      "summary": "Use this routine: Notice purpose → Choose words → Use voice/gesture → Check response.",
-      "hint": "Use polite wording when asking someone to do something."
+      "summary": "It is by the kite. is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 12
   },
   {
     "id": "ac9e1la01-p-013",
     "curriculumCode": "AC9E1LA01",
     "bank": "practice",
-    "skill": "ac9e1la01 03 explain",
+    "skill": "understand how language, facial expressions and gestures are used to interact with others when asking for and providing information, making offers, exclaiming, requesting and giving commands",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you show two meanings?",
-    "audioPrompt": "Which tip would help you show two meanings?",
-    "visual": "🧠 Show two meanings; ➡️ Use voice/gesture; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Show two meanings; ➡️ Use voice/gesture; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la01.svg#ac9e1la01-p-006\"></use></svg>",
+    "question": "Leo says, “Wow! That fish can jump!” What does the exclamation mark show?",
+    "audioPrompt": "Leo says, “Wow! That fish can jump!” What does the exclamation mark show?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la01.svg#ac9e1la01-p-006",
-      "alt_text": "🧠 Show two meanings; ➡️ Use voice/gesture; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Check only the words.",
-      "Do not use polite wording when asking someone to do something.",
-      "Look for request and check the whole example."
+      "a list",
+      "a quiet question",
+      "a strong feeling"
     ],
     "correct": 2,
-    "explanation": "Look for request and check the whole example.\nHint: Change volume, tone or gesture to match meaning.",
+    "explanation": "a strong feeling is the best answer.",
     "structuredExplanation": {
-      "summary": "Look for request and check the whole example.",
-      "hint": "Change volume, tone or gesture to match meaning."
+      "summary": "a strong feeling is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 13
   },
   {
     "id": "ac9e1la01-p-014",
     "curriculumCode": "AC9E1LA01",
     "bank": "practice",
-    "skill": "ac9e1la01 04 explain",
+    "skill": "understand how language, facial expressions and gestures are used to interact with others when asking for and providing information, making offers, exclaiming, requesting and giving commands",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you turn a command into a request?",
-    "audioPrompt": "Which tip would help you turn a command into a request?",
-    "visual": "🧠 Turn a command into a request; ➡️ Check response; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Turn a command into a request; ➡️ Check response; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la01.svg#ac9e1la01-p-008\"></use></svg>",
+    "question": "Which words are a kind request for the hat?",
+    "audioPrompt": "Which words are a kind request for the hat?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la01.svg#ac9e1la01-p-008",
-      "alt_text": "🧠 Turn a command into a request; ➡️ Check response; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Do not use polite wording when asking someone to do something.",
-      "Check that you can notice gesture/facial expression.",
-      "Use one voice for every purpose."
+      "Give me the hat!",
+      "Please pass the hat.",
+      "The hat is red."
     ],
     "correct": 1,
-    "explanation": "Check that you can notice gesture/facial expression.\nHint: Also notice face, gesture, voice and relationship.",
+    "explanation": "Please pass the hat. is the best answer.",
     "structuredExplanation": {
-      "summary": "Check that you can notice gesture/facial expression.",
-      "hint": "Also notice face, gesture, voice and relationship."
+      "summary": "Please pass the hat. is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 14
   },
   {
     "id": "ac9e1la01-p-015",
     "curriculumCode": "AC9E1LA01",
     "bank": "practice",
-    "skill": "ac9e1la01 05 explain",
+    "skill": "understand how language, facial expressions and gestures are used to interact with others when asking for and providing information, making offers, exclaiming, requesting and giving commands",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you order an information exchange?",
-    "audioPrompt": "Which tip would help you order an information exchange?",
-    "visual": "🧠 Order an information exchange; ➡️ Notice purpose; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Order an information exchange; ➡️ Notice purpose; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la01.svg#ac9e1la01-p-010\"></use></svg>",
+    "question": "Max nods while Sam speaks. What does the nod show?",
+    "audioPrompt": "Max nods while Sam speaks. What does the nod show?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la01.svg#ac9e1la01-p-010",
-      "alt_text": "🧠 Order an information exchange; ➡️ Notice purpose; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Sequencing a question-and-answer interaction.",
-      "Use one voice for every purpose.",
-      "Check only the words."
+      "I am listening.",
+      "Go away.",
+      "I am asleep."
     ],
     "correct": 0,
-    "explanation": "Sequencing a question-and-answer interaction.\nHint: Use polite wording when asking someone to do something.",
+    "explanation": "I am listening. is the best answer.",
     "structuredExplanation": {
-      "summary": "Sequencing a question-and-answer interaction.",
-      "hint": "Use polite wording when asking someone to do something."
+      "summary": "I am listening. is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 15
   },
   {
     "id": "ac9e1la01-p-016",
     "curriculumCode": "AC9E1LA01",
     "bank": "practice",
-    "skill": "ac9e1la01 06 explain",
+    "skill": "understand how language, facial expressions and gestures are used to interact with others when asking for and providing information, making offers, exclaiming, requesting and giving commands",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you draw matching expressions?",
-    "audioPrompt": "Which tip would help you draw matching expressions?",
-    "visual": "🧠 Draw matching expressions; ➡️ Choose words; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Draw matching expressions; ➡️ Choose words; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la01.svg#ac9e1la01-p-012\"></use></svg>",
+    "question": "Mia says, “Stop!” with a firm voice. What is Mia giving?",
+    "audioPrompt": "Mia says, “Stop!” with a firm voice. What is Mia giving?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la01.svg#ac9e1la01-p-012",
-      "alt_text": "🧠 Draw matching expressions; ➡️ Choose words; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Check only the words.",
-      "Do not use polite wording when asking someone to do something.",
-      "Change volume, tone or gesture to match meaning."
+      "an offer",
+      "a question",
+      "a command"
     ],
     "correct": 2,
-    "explanation": "Change volume, tone or gesture to match meaning.\nHint: Change volume, tone or gesture to match meaning.",
+    "explanation": "a command is the best answer.",
     "structuredExplanation": {
-      "summary": "Change volume, tone or gesture to match meaning.",
-      "hint": "Change volume, tone or gesture to match meaning."
+      "summary": "a command is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 16
   },
   {
     "id": "ac9e1la01-p-017",
     "curriculumCode": "AC9E1LA01",
     "bank": "practice",
-    "skill": "ac9e1la01 07 explain",
+    "skill": "understand how language, facial expressions and gestures are used to interact with others when asking for and providing information, making offers, exclaiming, requesting and giving commands",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you explain a mixed message?",
-    "audioPrompt": "Which tip would help you explain a mixed message?",
-    "visual": "🧠 Explain a mixed message; ➡️ Use voice/gesture; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Explain a mixed message; ➡️ Use voice/gesture; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la01.svg#ac9e1la01-p-014\"></use></svg>",
+    "question": "Sam says, “May I use your sock, please?” What is Sam doing?",
+    "audioPrompt": "Sam says, “May I use your sock, please?” What is Sam doing?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la01.svg#ac9e1la01-p-014",
-      "alt_text": "🧠 Explain a mixed message; ➡️ Use voice/gesture; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Do not use polite wording when asking someone to do something.",
-      "Use this routine: Notice purpose → Choose words → Use voice/gesture → Check response.",
-      "Use one voice for every purpose."
+      "giving an order",
+      "giving news",
+      "asking politely"
     ],
-    "correct": 1,
-    "explanation": "Use this routine: Notice purpose → Choose words → Use voice/gesture → Check response.\nHint: Also notice face, gesture, voice and relationship.",
+    "correct": 2,
+    "explanation": "asking politely is the best answer.",
     "structuredExplanation": {
-      "summary": "Use this routine: Notice purpose → Choose words → Use voice/gesture → Check response.",
-      "hint": "Also notice face, gesture, voice and relationship."
+      "summary": "asking politely is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 2,
+    "difficultyTier": "guided",
+    "sequencePriority": 17
   },
   {
     "id": "ac9e1la01-p-018",
     "curriculumCode": "AC9E1LA01",
     "bank": "practice",
-    "skill": "ac9e1la01 08 explain",
+    "skill": "understand how language, facial expressions and gestures are used to interact with others when asking for and providing information, making offers, exclaiming, requesting and giving commands",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you choose language for a situation?",
-    "audioPrompt": "Which tip would help you choose language for a situation?",
-    "visual": "🧠 Choose language for a situation; ➡️ Check response; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Choose language for a situation; ➡️ Check response; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la01.svg#ac9e1la01-p-016\"></use></svg>",
+    "question": "Kim points to the door and says, “Please come in.” What does Kim want?",
+    "audioPrompt": "Kim points to the door and says, “Please come in.” What does Kim want?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la01.svg#ac9e1la01-p-016",
-      "alt_text": "🧠 Choose language for a situation; ➡️ Check response; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Look for request and check the whole example.",
-      "Use one voice for every purpose.",
-      "Check only the words."
+      "come in",
+      "run away",
+      "sit down"
     ],
     "correct": 0,
-    "explanation": "Look for request and check the whole example.\nHint: Use polite wording when asking someone to do something.",
+    "explanation": "come in is the best answer.",
     "structuredExplanation": {
-      "summary": "Look for request and check the whole example.",
-      "hint": "Use polite wording when asking someone to do something."
+      "summary": "come in is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 2,
+    "difficultyTier": "guided",
+    "sequencePriority": 18
   },
   {
     "id": "ac9e1la01-p-019",
     "curriculumCode": "AC9E1LA01",
     "bank": "practice",
-    "skill": "ac9e1la01 09 explain",
+    "skill": "understand how language, facial expressions and gestures are used to interact with others when asking for and providing information, making offers, exclaiming, requesting and giving commands",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you classify an exclamation?",
-    "audioPrompt": "Which tip would help you classify an exclamation?",
-    "visual": "🧠 Classify an exclamation; ➡️ Notice purpose; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Classify an exclamation; ➡️ Notice purpose; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la01.svg#ac9e1la01-p-018\"></use></svg>",
+    "question": "Ava smiles and says, “I can help you.” What is Ava doing?",
+    "audioPrompt": "Ava smiles and says, “I can help you.” What is Ava doing?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la01.svg#ac9e1la01-p-018",
-      "alt_text": "🧠 Classify an exclamation; ➡️ Notice purpose; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Check only the words.",
-      "Do not use polite wording when asking someone to do something.",
-      "Check that you can notice gesture/facial expression."
+      "giving an order",
+      "offering help",
+      "asking a question"
     ],
-    "correct": 2,
-    "explanation": "Check that you can notice gesture/facial expression.\nHint: Change volume, tone or gesture to match meaning.",
+    "correct": 1,
+    "explanation": "offering help is the best answer.",
     "structuredExplanation": {
-      "summary": "Check that you can notice gesture/facial expression.",
-      "hint": "Change volume, tone or gesture to match meaning."
+      "summary": "offering help is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 2,
+    "difficultyTier": "guided",
+    "sequencePriority": 19
   },
   {
     "id": "ac9e1la01-p-020",
     "curriculumCode": "AC9E1LA01",
     "bank": "practice",
-    "skill": "ac9e1la01 10 explain",
+    "skill": "understand how language, facial expressions and gestures are used to interact with others when asking for and providing information, making offers, exclaiming, requesting and giving commands",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you match fresh cues?",
-    "audioPrompt": "Which tip would help you match fresh cues?",
-    "visual": "🧠 Match fresh cues; ➡️ Choose words; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Match fresh cues; ➡️ Choose words; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la01.svg#ac9e1la01-p-020\"></use></svg>",
+    "question": "Leo asks, “Where is my bag?” Which answer gives information?",
+    "audioPrompt": "Leo asks, “Where is my bag?” Which answer gives information?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la01.svg#ac9e1la01-p-020",
-      "alt_text": "🧠 Match fresh cues; ➡️ Choose words; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Do not use polite wording when asking someone to do something.",
-      "Interpreting coordinated verbal and non-verbal cues.",
-      "Use one voice for every purpose."
+      "It is by the kite.",
+      "Wow!",
+      "Please find it!"
     ],
-    "correct": 1,
-    "explanation": "Interpreting coordinated verbal and non-verbal cues.\nHint: Also notice face, gesture, voice and relationship.",
+    "correct": 0,
+    "explanation": "It is by the kite. is the best answer.",
     "structuredExplanation": {
-      "summary": "Interpreting coordinated verbal and non-verbal cues.",
-      "hint": "Also notice face, gesture, voice and relationship."
+      "summary": "It is by the kite. is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 2,
+    "difficultyTier": "guided",
+    "sequencePriority": 20
   },
   {
     "id": "ac9e1la01-p-021",
     "curriculumCode": "AC9E1LA01",
     "bank": "practice",
-    "skill": "ac9e1la01 01 discriminate",
+    "skill": "understand how language, facial expressions and gestures are used to interact with others when asking for and providing information, making offers, exclaiming, requesting and giving commands",
     "printable": true,
     "type": "single",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": "📖 Identify a request; 🔎 question; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Identify a request; 🔎 question; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la01.svg#ac9e1la01-p-001\"></use></svg>",
+    "question": "Zoe says, “Wow! That cat can jump!” What does the exclamation mark show?",
+    "audioPrompt": "Zoe says, “Wow! That cat can jump!” What does the exclamation mark show?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la01.svg#ac9e1la01-p-001",
-      "alt_text": "📖 Identify a request; 🔎 question; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "It is a polite question asking to borrow the ruler",
-      "It is a polite request asking to borrow the ruler",
-      "notice face, gesture, voice and relationship."
+      "a list",
+      "a strong feeling",
+      "a quiet question"
     ],
-    "correct": 0,
-    "explanation": "It is a polite question asking to borrow the ruler is the mix-up. Also notice face, gesture, voice and relationship.\nHint: Also notice face, gesture, voice and relationship.",
+    "correct": 1,
+    "explanation": "a strong feeling is the best answer.",
     "structuredExplanation": {
-      "summary": "It is a polite question asking to borrow the ruler is the mix-up. Also notice face, gesture, voice and relationship.",
-      "hint": "Also notice face, gesture, voice and relationship."
+      "summary": "a strong feeling is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 2,
+    "difficultyTier": "guided",
+    "sequencePriority": 21
   },
   {
     "id": "ac9e1la01-p-022",
     "curriculumCode": "AC9E1LA01",
     "bank": "practice",
-    "skill": "ac9e1la01 02 discriminate",
+    "skill": "understand how language, facial expressions and gestures are used to interact with others when asking for and providing information, making offers, exclaiming, requesting and giving commands",
     "printable": true,
     "type": "single",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": "📖 Match words and purposes; 🔎 offer; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Match words and purposes; 🔎 offer; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la01.svg#ac9e1la01-p-003\"></use></svg>",
+    "question": "Which words are a kind request for the book?",
+    "audioPrompt": "Which words are a kind request for the book?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la01.svg#ac9e1la01-p-003",
-      "alt_text": "📖 Match words and purposes; 🔎 offer; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Help ↔ offer; library ↔ question; stand ↔ command",
-      "Help ↔ offer; library ↔ request; stand ↔ command",
-      "Use this routine: Notice purpose → Choose words → Use voice/gesture → Check response."
+      "Give me the book!",
+      "The book is red.",
+      "Please pass the book."
     ],
-    "correct": 1,
-    "explanation": "Help ↔ offer; library ↔ request; stand ↔ command is the mix-up. Use polite wording when asking someone to do something.\nHint: Use polite wording when asking someone to do something.",
+    "correct": 2,
+    "explanation": "Please pass the book. is the best answer.",
     "structuredExplanation": {
-      "summary": "Help ↔ offer; library ↔ request; stand ↔ command is the mix-up. Use polite wording when asking someone to do something.",
-      "hint": "Use polite wording when asking someone to do something."
+      "summary": "Please pass the book. is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 2,
+    "difficultyTier": "guided",
+    "sequencePriority": 22
   },
   {
     "id": "ac9e1la01-p-023",
     "curriculumCode": "AC9E1LA01",
     "bank": "practice",
-    "skill": "ac9e1la01 03 discriminate",
+    "skill": "understand how language, facial expressions and gestures are used to interact with others when asking for and providing information, making offers, exclaiming, requesting and giving commands",
     "printable": true,
     "type": "single",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": "📖 Show two meanings; 🔎 request; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Show two meanings; 🔎 request; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la01.svg#ac9e1la01-p-005\"></use></svg>",
+    "question": "Mia nods while Kim speaks. What does the nod show?",
+    "audioPrompt": "Mia nods while Kim speaks. What does the nod show?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la01.svg#ac9e1la01-p-005",
-      "alt_text": "📖 Show two meanings; 🔎 request; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "shows clear certainty or help versus uncertainty and explains the effect of expression or gesture",
-      "Look for request and check the whole example.",
-      "That is the one"
+      "Go away.",
+      "I am listening.",
+      "I am asleep."
     ],
-    "correct": 2,
-    "explanation": "That is the one is the mix-up. Change volume, tone or gesture to match meaning.\nHint: Change volume, tone or gesture to match meaning.",
+    "correct": 1,
+    "explanation": "I am listening. is the best answer.",
     "structuredExplanation": {
-      "summary": "That is the one is the mix-up. Change volume, tone or gesture to match meaning.",
-      "hint": "Change volume, tone or gesture to match meaning."
+      "summary": "I am listening. is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 2,
+    "difficultyTier": "guided",
+    "sequencePriority": 23
   },
   {
     "id": "ac9e1la01-p-024",
     "curriculumCode": "AC9E1LA01",
     "bank": "practice",
-    "skill": "ac9e1la01 04 discriminate",
+    "skill": "understand how language, facial expressions and gestures are used to interact with others when asking for and providing information, making offers, exclaiming, requesting and giving commands",
     "printable": true,
     "type": "single",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": "📖 Turn a command into a request; 🔎 command; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Turn a command into a request; 🔎 command; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la01.svg#ac9e1la01-p-007\"></use></svg>",
+    "question": "Ben says, “Stop!” with a firm voice. What is Ben giving?",
+    "audioPrompt": "Ben says, “Stop!” with a firm voice. What is Ben giving?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la01.svg#ac9e1la01-p-007",
-      "alt_text": "📖 Turn a command into a request; 🔎 command; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Give me the scissors",
-      "'Could you please pass me the scissors?'",
-      "Check that you can notice gesture/facial expression."
+      "an offer",
+      "a command",
+      "a question"
     ],
-    "correct": 0,
-    "explanation": "Give me the scissors is the mix-up. Also notice face, gesture, voice and relationship.\nHint: Also notice face, gesture, voice and relationship.",
+    "correct": 1,
+    "explanation": "a command is the best answer.",
     "structuredExplanation": {
-      "summary": "Give me the scissors is the mix-up. Also notice face, gesture, voice and relationship.",
-      "hint": "Also notice face, gesture, voice and relationship."
+      "summary": "a command is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 2,
+    "difficultyTier": "guided",
+    "sequencePriority": 24
   },
   {
     "id": "ac9e1la01-p-025",
     "curriculumCode": "AC9E1LA01",
     "bank": "practice",
-    "skill": "ac9e1la01 05 discriminate",
+    "skill": "understand how language, facial expressions and gestures are used to interact with others when asking for and providing information, making offers, exclaiming, requesting and giving commands",
     "printable": true,
     "type": "single",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": "📖 Order an information exchange; 🔎 gesture; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Order an information exchange; 🔎 gesture; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la01.svg#ac9e1la01-p-009\"></use></svg>",
+    "question": "Kim says, “May I use your bag, please?” What is Kim doing?",
+    "audioPrompt": "Kim says, “May I use your bag, please?” What is Kim doing?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la01.svg#ac9e1la01-p-009",
-      "alt_text": "📖 Order an information exchange; 🔎 gesture; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Ask question → provide answer → acknowledge",
-      "It starts at ten",
-      "Sequencing a question-and-answer interaction."
+      "giving news",
+      "giving an order",
+      "asking politely"
     ],
-    "correct": 1,
-    "explanation": "It starts at ten is the mix-up. Use polite wording when asking someone to do something.\nHint: Use polite wording when asking someone to do something.",
+    "correct": 2,
+    "explanation": "asking politely is the best answer.",
     "structuredExplanation": {
-      "summary": "It starts at ten is the mix-up. Use polite wording when asking someone to do something.",
-      "hint": "Use polite wording when asking someone to do something."
+      "summary": "asking politely is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 2,
+    "difficultyTier": "guided",
+    "sequencePriority": 25
   },
   {
     "id": "ac9e1la01-p-026",
     "curriculumCode": "AC9E1LA01",
     "bank": "practice",
-    "skill": "ac9e1la01 06 discriminate",
+    "skill": "understand how language, facial expressions and gestures are used to interact with others when asking for and providing information, making offers, exclaiming, requesting and giving commands",
     "printable": true,
     "type": "single",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": "📖 Draw matching expressions; 🔎 question; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Draw matching expressions; 🔎 question; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la01.svg#ac9e1la01-p-011\"></use></svg>",
+    "question": "Ava points to the door and says, “Please come in.” What does Ava want?",
+    "audioPrompt": "Ava points to the door and says, “Please come in.” What does Ava want?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la01.svg#ac9e1la01-p-011",
-      "alt_text": "📖 Draw matching expressions; 🔎 question; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Shows delighted/surprised and puzzled expressions with appropriate gesture or label",
-      "Change volume, tone or gesture to match meaning.",
-      "What a wonderful surprise"
+      "sit down",
+      "come in",
+      "run away"
     ],
-    "correct": 2,
-    "explanation": "What a wonderful surprise is the mix-up. Change volume, tone or gesture to match meaning.\nHint: Change volume, tone or gesture to match meaning.",
+    "correct": 1,
+    "explanation": "come in is the best answer.",
     "structuredExplanation": {
-      "summary": "What a wonderful surprise is the mix-up. Change volume, tone or gesture to match meaning.",
-      "hint": "Change volume, tone or gesture to match meaning."
+      "summary": "come in is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 2,
+    "difficultyTier": "guided",
+    "sequencePriority": 26
   },
   {
     "id": "ac9e1la01-p-027",
     "curriculumCode": "AC9E1LA01",
     "bank": "practice",
-    "skill": "ac9e1la01 07 discriminate",
+    "skill": "understand how language, facial expressions and gestures are used to interact with others when asking for and providing information, making offers, exclaiming, requesting and giving commands",
     "printable": true,
     "type": "single",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": "📖 Explain a mixed message; 🔎 offer; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Explain a mixed message; 🔎 offer; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la01.svg#ac9e1la01-p-013\"></use></svg>",
+    "question": "Leo smiles and says, “I can help you.” What is Leo doing?",
+    "audioPrompt": "Leo smiles and says, “I can help you.” What is Leo doing?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la01.svg#ac9e1la01-p-013",
-      "alt_text": "📖 Explain a mixed message; 🔎 offer; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "I am happy to help",
-      "Words signal willingness, but expression/body language signal reluctance or unhappiness",
-      "Use this routine: Notice purpose → Choose words → Use voice/gesture → Check response."
+      "asking a question",
+      "giving an order",
+      "offering help"
     ],
-    "correct": 0,
-    "explanation": "I am happy to help is the mix-up. Also notice face, gesture, voice and relationship.\nHint: Also notice face, gesture, voice and relationship.",
+    "correct": 2,
+    "explanation": "offering help is the best answer.",
     "structuredExplanation": {
-      "summary": "I am happy to help is the mix-up. Also notice face, gesture, voice and relationship.",
-      "hint": "Also notice face, gesture, voice and relationship."
+      "summary": "offering help is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 2,
+    "difficultyTier": "guided",
+    "sequencePriority": 27
   },
   {
     "id": "ac9e1la01-p-028",
     "curriculumCode": "AC9E1LA01",
     "bank": "practice",
-    "skill": "ac9e1la01 08 discriminate",
+    "skill": "understand how language, facial expressions and gestures are used to interact with others when asking for and providing information, making offers, exclaiming, requesting and giving commands",
     "printable": true,
     "type": "single",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": "📖 Choose language for a situation; 🔎 request; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Choose language for a situation; 🔎 request; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la01.svg#ac9e1la01-p-015\"></use></svg>",
+    "question": "Zoe asks, “Where is my ball?” Which answer gives information?",
+    "audioPrompt": "Zoe asks, “Where is my ball?” Which answer gives information?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la01.svg#ac9e1la01-p-015",
-      "alt_text": "📖 Choose language for a situation; 🔎 request; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Example offer 'Would you like help?', gesture to assist/pick up, and friendly concerned expression",
-      "Do not use polite wording when asking someone to do something.",
-      "Look for request and check the whole example."
+      "It is by the kite.",
+      "Wow!",
+      "Please find it!"
     ],
-    "correct": 1,
-    "explanation": "Do not use polite wording when asking someone to do something. is the mix-up. Use polite wording when asking someone to do something.\nHint: Use polite wording when asking someone to do something.",
+    "correct": 0,
+    "explanation": "It is by the kite. is the best answer.",
     "structuredExplanation": {
-      "summary": "Do not use polite wording when asking someone to do something. is the mix-up. Use polite wording when asking someone to do something.",
-      "hint": "Use polite wording when asking someone to do something."
+      "summary": "It is by the kite. is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 2,
+    "difficultyTier": "guided",
+    "sequencePriority": 28
   },
   {
     "id": "ac9e1la01-p-029",
     "curriculumCode": "AC9E1LA01",
     "bank": "practice",
-    "skill": "ac9e1la01 09 discriminate",
+    "skill": "understand how language, facial expressions and gestures are used to interact with others when asking for and providing information, making offers, exclaiming, requesting and giving commands",
     "printable": true,
     "type": "single",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": "📖 Classify an exclamation; 🔎 command; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Classify an exclamation; 🔎 command; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la01.svg#ac9e1la01-p-017\"></use></svg>",
+    "question": "Max says, “Wow! That hen can jump!” What does the exclamation mark show?",
+    "audioPrompt": "Max says, “Wow! That hen can jump!” What does the exclamation mark show?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la01.svg#ac9e1la01-p-017",
-      "alt_text": "📖 Classify an exclamation; 🔎 command; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "It is an exclamation/warning intended to get urgent attention",
-      "Check that you can notice gesture/facial expression.",
-      "Watch out"
+      "a list",
+      "a quiet question",
+      "a strong feeling"
     ],
     "correct": 2,
-    "explanation": "Watch out is the mix-up. Change volume, tone or gesture to match meaning.\nHint: Change volume, tone or gesture to match meaning.",
+    "explanation": "a strong feeling is the best answer.",
     "structuredExplanation": {
-      "summary": "Watch out is the mix-up. Change volume, tone or gesture to match meaning.",
-      "hint": "Change volume, tone or gesture to match meaning."
+      "summary": "a strong feeling is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 2,
+    "difficultyTier": "guided",
+    "sequencePriority": 29
   },
   {
     "id": "ac9e1la01-p-030",
     "curriculumCode": "AC9E1LA01",
     "bank": "practice",
-    "skill": "ac9e1la01 10 discriminate",
+    "skill": "understand how language, facial expressions and gestures are used to interact with others when asking for and providing information, making offers, exclaiming, requesting and giving commands",
     "printable": true,
     "type": "single",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": "📖 Match fresh cues; 🔎 gesture; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Match fresh cues; 🔎 gesture; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la01.svg#ac9e1la01-p-019\"></use></svg>",
+    "question": "Which words are a kind request for the sock?",
+    "audioPrompt": "Which words are a kind request for the sock?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la01.svg#ac9e1la01-p-019",
-      "alt_text": "📖 Match fresh cues; 🔎 gesture; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Really",
-      "Each gesture/expression matches the stated spoken meaning",
-      "Interpreting coordinated verbal and non-verbal cues."
+      "Give me the sock!",
+      "Please pass the sock.",
+      "The sock is red."
     ],
-    "correct": 0,
-    "explanation": "Really is the mix-up. Also notice face, gesture, voice and relationship.\nHint: Also notice face, gesture, voice and relationship.",
+    "correct": 1,
+    "explanation": "Please pass the sock. is the best answer.",
     "structuredExplanation": {
-      "summary": "Really is the mix-up. Also notice face, gesture, voice and relationship.",
-      "hint": "Also notice face, gesture, voice and relationship."
+      "summary": "Please pass the sock. is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 2,
+    "difficultyTier": "guided",
+    "sequencePriority": 30
   },
   {
     "id": "ac9e1la01-p-031",
     "curriculumCode": "AC9E1LA01",
     "bank": "practice",
-    "skill": "ac9e1la01 01 apply",
+    "skill": "understand how language, facial expressions and gestures are used to interact with others when asking for and providing information, making offers, exclaiming, requesting and giving commands",
     "printable": true,
     "type": "single",
-    "question": "Which choice would best use this skill in a new example?",
-    "audioPrompt": "Which choice would best use this skill in a new example?",
-    "visual": "📖 Identify a request; 🔎 question; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Identify a request; 🔎 question; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la01.svg#ac9e1la01-p-001\"></use></svg>",
+    "question": "Ben nods while Ava speaks. What does the nod show?",
+    "audioPrompt": "Ben nods while Ava speaks. What does the nod show?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la01.svg#ac9e1la01-p-001",
-      "alt_text": "📖 Identify a request; 🔎 question; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "It is a polite question asking to borrow the ruler",
-      "It is a polite request asking to borrow the ruler",
-      "It is a polite command asking to borrow the ruler"
+      "I am listening.",
+      "I am asleep.",
+      "Go away."
     ],
-    "correct": 1,
-    "explanation": "It is a polite request asking to borrow the ruler uses the skill correctly. Also notice face, gesture, voice and relationship.\nHint: Also notice face, gesture, voice and relationship.",
+    "correct": 0,
+    "explanation": "I am listening. is the best answer.",
     "structuredExplanation": {
-      "summary": "It is a polite request asking to borrow the ruler uses the skill correctly. Also notice face, gesture, voice and relationship.",
-      "hint": "Also notice face, gesture, voice and relationship."
+      "summary": "I am listening. is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 2,
+    "difficultyTier": "guided",
+    "sequencePriority": 31
   },
   {
     "id": "ac9e1la01-p-032",
     "curriculumCode": "AC9E1LA01",
     "bank": "practice",
-    "skill": "ac9e1la01 02 apply",
+    "skill": "understand how language, facial expressions and gestures are used to interact with others when asking for and providing information, making offers, exclaiming, requesting and giving commands",
     "printable": true,
     "type": "single",
-    "question": "Which choice would best use this skill in a new example?",
-    "audioPrompt": "Which choice would best use this skill in a new example?",
-    "visual": "📖 Match words and purposes; 🔎 offer; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Match words and purposes; 🔎 offer; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la01.svg#ac9e1la01-p-003\"></use></svg>",
+    "question": "Sam says, “Stop!” with a firm voice. What is Sam giving?",
+    "audioPrompt": "Sam says, “Stop!” with a firm voice. What is Sam giving?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la01.svg#ac9e1la01-p-003",
-      "alt_text": "📖 Match words and purposes; 🔎 offer; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Help ↔ offer; library ↔ request; stand ↔ command",
-      "Help ↔ offer; library ↔ command; stand ↔ command",
-      "Help ↔ offer; library ↔ question; stand ↔ command"
+      "an offer",
+      "a question",
+      "a command"
     ],
     "correct": 2,
-    "explanation": "Help ↔ offer; library ↔ question; stand ↔ command uses the skill correctly. Use polite wording when asking someone to do something.\nHint: Use polite wording when asking someone to do something.",
+    "explanation": "a command is the best answer.",
     "structuredExplanation": {
-      "summary": "Help ↔ offer; library ↔ question; stand ↔ command uses the skill correctly. Use polite wording when asking someone to do something.",
-      "hint": "Use polite wording when asking someone to do something."
+      "summary": "a command is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 2,
+    "difficultyTier": "guided",
+    "sequencePriority": 32
   },
   {
     "id": "ac9e1la01-p-033",
     "curriculumCode": "AC9E1LA01",
     "bank": "practice",
-    "skill": "ac9e1la01 03 apply",
+    "skill": "understand how language, facial expressions and gestures are used to interact with others when asking for and providing information, making offers, exclaiming, requesting and giving commands",
     "printable": true,
     "type": "single",
-    "question": "Which choice would best use this skill in a new example?",
-    "audioPrompt": "Which choice would best use this skill in a new example?",
-    "visual": "📖 Show two meanings; 🔎 request; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Show two meanings; 🔎 request; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la01.svg#ac9e1la01-p-005\"></use></svg>",
+    "question": "Ava says, “May I use your ball, please?” What is Ava doing?",
+    "audioPrompt": "Ava says, “May I use your ball, please?” What is Ava doing?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la01.svg#ac9e1la01-p-005",
-      "alt_text": "📖 Show two meanings; 🔎 request; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "shows clear certainty or help versus uncertainty and explains the effect of expression or gesture",
-      "That is the one",
-      "Use one voice for every purpose."
+      "giving an order",
+      "asking politely",
+      "giving news"
     ],
-    "correct": 0,
-    "explanation": "shows clear certainty or help versus uncertainty and explains the effect of expression or gesture uses the skill correctly. Change volume, tone or gesture to match meaning.\nHint: Change volume, tone or gesture to match meaning.",
+    "correct": 1,
+    "explanation": "asking politely is the best answer.",
     "structuredExplanation": {
-      "summary": "shows clear certainty or help versus uncertainty and explains the effect of expression or gesture uses the skill correctly. Change volume, tone or gesture to match meaning.",
-      "hint": "Change volume, tone or gesture to match meaning."
+      "summary": "asking politely is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 33
   },
   {
     "id": "ac9e1la01-p-034",
     "curriculumCode": "AC9E1LA01",
     "bank": "practice",
-    "skill": "ac9e1la01 04 apply",
+    "skill": "understand how language, facial expressions and gestures are used to interact with others when asking for and providing information, making offers, exclaiming, requesting and giving commands",
     "printable": true,
     "type": "single",
-    "question": "Which choice would best use this skill in a new example?",
-    "audioPrompt": "Which choice would best use this skill in a new example?",
-    "visual": "📖 Turn a command into a request; 🔎 command; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Turn a command into a request; 🔎 command; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la01.svg#ac9e1la01-p-007\"></use></svg>",
+    "question": "Leo points to the door and says, “Please come in.” What does Leo want?",
+    "audioPrompt": "Leo points to the door and says, “Please come in.” What does Leo want?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la01.svg#ac9e1la01-p-007",
-      "alt_text": "📖 Turn a command into a request; 🔎 command; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Give me the scissors",
-      "'Could you please pass me the scissors?'",
-      "Check only the words."
+      "come in",
+      "run away",
+      "sit down"
     ],
-    "correct": 1,
-    "explanation": "'Could you please pass me the scissors?' uses the skill correctly. Also notice face, gesture, voice and relationship.\nHint: Also notice face, gesture, voice and relationship.",
+    "correct": 0,
+    "explanation": "come in is the best answer.",
     "structuredExplanation": {
-      "summary": "'Could you please pass me the scissors?' uses the skill correctly. Also notice face, gesture, voice and relationship.",
-      "hint": "Also notice face, gesture, voice and relationship."
+      "summary": "come in is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 34
   },
   {
     "id": "ac9e1la01-p-035",
     "curriculumCode": "AC9E1LA01",
     "bank": "practice",
-    "skill": "ac9e1la01 05 apply",
+    "skill": "understand how language, facial expressions and gestures are used to interact with others when asking for and providing information, making offers, exclaiming, requesting and giving commands",
     "printable": true,
     "type": "single",
-    "question": "Which choice would best use this skill in a new example?",
-    "audioPrompt": "Which choice would best use this skill in a new example?",
-    "visual": "📖 Order an information exchange; 🔎 gesture; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Order an information exchange; 🔎 gesture; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la01.svg#ac9e1la01-p-009\"></use></svg>",
+    "question": "Zoe smiles and says, “I can help you.” What is Zoe doing?",
+    "audioPrompt": "Zoe smiles and says, “I can help you.” What is Zoe doing?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la01.svg#ac9e1la01-p-009",
-      "alt_text": "📖 Order an information exchange; 🔎 gesture; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "It starts at ten",
-      "When does the game start",
-      "Ask question → provide answer → acknowledge"
+      "giving an order",
+      "offering help",
+      "asking a question"
     ],
-    "correct": 2,
-    "explanation": "Ask question → provide answer → acknowledge uses the skill correctly. Use polite wording when asking someone to do something.\nHint: Use polite wording when asking someone to do something.",
+    "correct": 1,
+    "explanation": "offering help is the best answer.",
     "structuredExplanation": {
-      "summary": "Ask question → provide answer → acknowledge uses the skill correctly. Use polite wording when asking someone to do something.",
-      "hint": "Use polite wording when asking someone to do something."
+      "summary": "offering help is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 35
   },
   {
     "id": "ac9e1la01-p-036",
     "curriculumCode": "AC9E1LA01",
     "bank": "practice",
-    "skill": "ac9e1la01 06 apply",
+    "skill": "understand how language, facial expressions and gestures are used to interact with others when asking for and providing information, making offers, exclaiming, requesting and giving commands",
     "printable": true,
     "type": "single",
-    "question": "Which choice would best use this skill in a new example?",
-    "audioPrompt": "Which choice would best use this skill in a new example?",
-    "visual": "📖 Draw matching expressions; 🔎 question; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Draw matching expressions; 🔎 question; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la01.svg#ac9e1la01-p-011\"></use></svg>",
+    "question": "Max asks, “Where is my map?” Which answer gives information?",
+    "audioPrompt": "Max asks, “Where is my map?” Which answer gives information?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la01.svg#ac9e1la01-p-011",
-      "alt_text": "📖 Draw matching expressions; 🔎 question; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Shows delighted/surprised and puzzled expressions with appropriate gesture or label",
-      "What a wonderful surprise",
-      "I do not understand yet"
+      "Wow!",
+      "It is by the kite.",
+      "Please find it!"
     ],
-    "correct": 0,
-    "explanation": "Shows delighted/surprised and puzzled expressions with appropriate gesture or label uses the skill correctly. Change volume, tone or gesture to match meaning.\nHint: Change volume, tone or gesture to match meaning.",
+    "correct": 1,
+    "explanation": "It is by the kite. is the best answer.",
     "structuredExplanation": {
-      "summary": "Shows delighted/surprised and puzzled expressions with appropriate gesture or label uses the skill correctly. Change volume, tone or gesture to match meaning.",
-      "hint": "Change volume, tone or gesture to match meaning."
+      "summary": "It is by the kite. is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 36
   },
   {
     "id": "ac9e1la01-p-037",
     "curriculumCode": "AC9E1LA01",
     "bank": "practice",
-    "skill": "ac9e1la01 07 apply",
+    "skill": "understand how language, facial expressions and gestures are used to interact with others when asking for and providing information, making offers, exclaiming, requesting and giving commands",
     "printable": true,
     "type": "single",
-    "question": "Which choice would best use this skill in a new example?",
-    "audioPrompt": "Which choice would best use this skill in a new example?",
-    "visual": "📖 Explain a mixed message; 🔎 offer; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Explain a mixed message; 🔎 offer; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la01.svg#ac9e1la01-p-013\"></use></svg>",
+    "question": "Mia says, “Wow! That frog can jump!” What does the exclamation mark show?",
+    "audioPrompt": "Mia says, “Wow! That frog can jump!” What does the exclamation mark show?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la01.svg#ac9e1la01-p-013",
-      "alt_text": "📖 Explain a mixed message; 🔎 offer; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "I am happy to help",
-      "Words signal willingness, but expression/body language signal reluctance or unhappiness",
-      "Check only the words."
+      "a strong feeling",
+      "a quiet question",
+      "a list"
     ],
-    "correct": 1,
-    "explanation": "Words signal willingness, but expression/body language signal reluctance or unhappiness uses the skill correctly. Also notice face, gesture, voice and relationship.\nHint: Also notice face, gesture, voice and relationship.",
+    "correct": 0,
+    "explanation": "a strong feeling is the best answer.",
     "structuredExplanation": {
-      "summary": "Words signal willingness, but expression/body language signal reluctance or unhappiness uses the skill correctly. Also notice face, gesture, voice and relationship.",
-      "hint": "Also notice face, gesture, voice and relationship."
+      "summary": "a strong feeling is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 37
   },
   {
     "id": "ac9e1la01-p-038",
     "curriculumCode": "AC9E1LA01",
     "bank": "practice",
-    "skill": "ac9e1la01 08 apply",
+    "skill": "understand how language, facial expressions and gestures are used to interact with others when asking for and providing information, making offers, exclaiming, requesting and giving commands",
     "printable": true,
     "type": "single",
-    "question": "Which choice would best use this skill in a new example?",
-    "audioPrompt": "Which choice would best use this skill in a new example?",
-    "visual": "📖 Choose language for a situation; 🔎 request; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Choose language for a situation; 🔎 request; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la01.svg#ac9e1la01-p-015\"></use></svg>",
+    "question": "Which words are a kind request for the bag?",
+    "audioPrompt": "Which words are a kind request for the bag?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la01.svg#ac9e1la01-p-015",
-      "alt_text": "📖 Choose language for a situation; 🔎 request; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Do not use polite wording when asking someone to do something.",
-      "Use one voice for every purpose.",
-      "Example offer 'Would you like help?', gesture to assist/pick up, and friendly concerned expression"
+      "The bag is red.",
+      "Please pass the bag.",
+      "Give me the bag!"
     ],
-    "correct": 2,
-    "explanation": "Example offer 'Would you like help?', gesture to assist/pick up, and friendly concerned expression uses the skill correctly. Use polite wording when asking someone to do something.\nHint: Use polite wording when asking someone to do something.",
+    "correct": 1,
+    "explanation": "Please pass the bag. is the best answer.",
     "structuredExplanation": {
-      "summary": "Example offer 'Would you like help?', gesture to assist/pick up, and friendly concerned expression uses the skill correctly. Use polite wording when asking someone to do something.",
-      "hint": "Use polite wording when asking someone to do something."
+      "summary": "Please pass the bag. is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 38
   },
   {
     "id": "ac9e1la01-p-039",
     "curriculumCode": "AC9E1LA01",
     "bank": "practice",
-    "skill": "ac9e1la01 09 apply",
+    "skill": "understand how language, facial expressions and gestures are used to interact with others when asking for and providing information, making offers, exclaiming, requesting and giving commands",
     "printable": true,
     "type": "single",
-    "question": "Which choice would best use this skill in a new example?",
-    "audioPrompt": "Which choice would best use this skill in a new example?",
-    "visual": "📖 Classify an exclamation; 🔎 command; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Classify an exclamation; 🔎 command; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la01.svg#ac9e1la01-p-017\"></use></svg>",
+    "question": "Sam nods while Leo speaks. What does the nod show?",
+    "audioPrompt": "Sam nods while Leo speaks. What does the nod show?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la01.svg#ac9e1la01-p-017",
-      "alt_text": "📖 Classify an exclamation; 🔎 command; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "It is an exclamation/warning intended to get urgent attention",
-      "Watch out",
-      "Use one voice for every purpose."
+      "I am asleep.",
+      "Go away.",
+      "I am listening."
     ],
-    "correct": 0,
-    "explanation": "It is an exclamation/warning intended to get urgent attention uses the skill correctly. Change volume, tone or gesture to match meaning.\nHint: Change volume, tone or gesture to match meaning.",
+    "correct": 2,
+    "explanation": "I am listening. is the best answer.",
     "structuredExplanation": {
-      "summary": "It is an exclamation/warning intended to get urgent attention uses the skill correctly. Change volume, tone or gesture to match meaning.",
-      "hint": "Change volume, tone or gesture to match meaning."
+      "summary": "I am listening. is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 39
   },
   {
     "id": "ac9e1la01-p-040",
     "curriculumCode": "AC9E1LA01",
     "bank": "practice",
-    "skill": "ac9e1la01 10 apply",
+    "skill": "understand how language, facial expressions and gestures are used to interact with others when asking for and providing information, making offers, exclaiming, requesting and giving commands",
     "printable": true,
     "type": "single",
-    "question": "Which choice would best use this skill in a new example?",
-    "audioPrompt": "Which choice would best use this skill in a new example?",
-    "visual": "📖 Match fresh cues; 🔎 gesture; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Match fresh cues; 🔎 gesture; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la01.svg#ac9e1la01-p-019\"></use></svg>",
+    "question": "Kim says, “Stop!” with a firm voice. What is Kim giving?",
+    "audioPrompt": "Kim says, “Stop!” with a firm voice. What is Kim giving?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la01.svg#ac9e1la01-p-019",
-      "alt_text": "📖 Match fresh cues; 🔎 gesture; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Really",
-      "Each gesture/expression matches the stated spoken meaning",
-      "Here you are"
+      "an offer",
+      "a command",
+      "a question"
     ],
     "correct": 1,
-    "explanation": "Each gesture/expression matches the stated spoken meaning uses the skill correctly. Also notice face, gesture, voice and relationship.\nHint: Also notice face, gesture, voice and relationship.",
+    "explanation": "a command is the best answer.",
     "structuredExplanation": {
-      "summary": "Each gesture/expression matches the stated spoken meaning uses the skill correctly. Also notice face, gesture, voice and relationship.",
-      "hint": "Also notice face, gesture, voice and relationship."
+      "summary": "a command is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 40
+  },
+  {
+    "id": "ac9e1la01-p-041",
+    "curriculumCode": "AC9E1LA01",
+    "bank": "practice",
+    "skill": "understand how language, facial expressions and gestures are used to interact with others when asking for and providing information, making offers, exclaiming, requesting and giving commands",
+    "printable": true,
+    "type": "single",
+    "question": "Leo says, “May I use your map, please?” What is Leo doing?",
+    "audioPrompt": "Leo says, “May I use your map, please?” What is Leo doing?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "giving news",
+      "giving an order",
+      "asking politely"
+    ],
+    "correct": 2,
+    "explanation": "asking politely is the best answer.",
+    "structuredExplanation": {
+      "summary": "asking politely is the best answer."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 41,
+    "qualitySchema": "reviewed-year1-english-v1"
+  },
+  {
+    "id": "ac9e1la01-p-042",
+    "curriculumCode": "AC9E1LA01",
+    "bank": "practice",
+    "skill": "understand how language, facial expressions and gestures are used to interact with others when asking for and providing information, making offers, exclaiming, requesting and giving commands",
+    "printable": true,
+    "type": "single",
+    "question": "Zoe points to the door and says, “Please come in.” What does Zoe want?",
+    "audioPrompt": "Zoe points to the door and says, “Please come in.” What does Zoe want?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "sit down",
+      "run away",
+      "come in"
+    ],
+    "correct": 2,
+    "explanation": "come in is the best answer.",
+    "structuredExplanation": {
+      "summary": "come in is the best answer."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 42,
+    "qualitySchema": "reviewed-year1-english-v1"
+  },
+  {
+    "id": "ac9e1la01-p-043",
+    "curriculumCode": "AC9E1LA01",
+    "bank": "practice",
+    "skill": "understand how language, facial expressions and gestures are used to interact with others when asking for and providing information, making offers, exclaiming, requesting and giving commands",
+    "printable": true,
+    "type": "single",
+    "question": "Max smiles and says, “I can help you.” What is Max doing?",
+    "audioPrompt": "Max smiles and says, “I can help you.” What is Max doing?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "offering help",
+      "giving an order",
+      "asking a question"
+    ],
+    "correct": 0,
+    "explanation": "offering help is the best answer.",
+    "structuredExplanation": {
+      "summary": "offering help is the best answer."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 43,
+    "qualitySchema": "reviewed-year1-english-v1"
+  },
+  {
+    "id": "ac9e1la01-p-044",
+    "curriculumCode": "AC9E1LA01",
+    "bank": "practice",
+    "skill": "understand how language, facial expressions and gestures are used to interact with others when asking for and providing information, making offers, exclaiming, requesting and giving commands",
+    "printable": true,
+    "type": "single",
+    "question": "Mia asks, “Where is my cup?” Which answer gives information?",
+    "audioPrompt": "Mia asks, “Where is my cup?” Which answer gives information?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Please find it!",
+      "Wow!",
+      "It is by the kite."
+    ],
+    "correct": 2,
+    "explanation": "It is by the kite. is the best answer.",
+    "structuredExplanation": {
+      "summary": "It is by the kite. is the best answer."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 44,
+    "qualitySchema": "reviewed-year1-english-v1"
+  },
+  {
+    "id": "ac9e1la01-p-045",
+    "curriculumCode": "AC9E1LA01",
+    "bank": "practice",
+    "skill": "understand how language, facial expressions and gestures are used to interact with others when asking for and providing information, making offers, exclaiming, requesting and giving commands",
+    "printable": true,
+    "type": "single",
+    "question": "Ben says, “Wow! That fish can jump!” What does the exclamation mark show?",
+    "audioPrompt": "Ben says, “Wow! That fish can jump!” What does the exclamation mark show?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "a strong feeling",
+      "a quiet question",
+      "a list"
+    ],
+    "correct": 0,
+    "explanation": "a strong feeling is the best answer.",
+    "structuredExplanation": {
+      "summary": "a strong feeling is the best answer."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 45,
+    "qualitySchema": "reviewed-year1-english-v1"
+  },
+  {
+    "id": "ac9e1la01-p-046",
+    "curriculumCode": "AC9E1LA01",
+    "bank": "practice",
+    "skill": "understand how language, facial expressions and gestures are used to interact with others when asking for and providing information, making offers, exclaiming, requesting and giving commands",
+    "printable": true,
+    "type": "single",
+    "question": "Which words are a kind request for the ball?",
+    "audioPrompt": "Which words are a kind request for the ball?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Give me the ball!",
+      "The ball is red.",
+      "Please pass the ball."
+    ],
+    "correct": 2,
+    "explanation": "Please pass the ball. is the best answer.",
+    "structuredExplanation": {
+      "summary": "Please pass the ball. is the best answer."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 46,
+    "qualitySchema": "reviewed-year1-english-v1"
+  },
+  {
+    "id": "ac9e1la01-p-047",
+    "curriculumCode": "AC9E1LA01",
+    "bank": "practice",
+    "skill": "understand how language, facial expressions and gestures are used to interact with others when asking for and providing information, making offers, exclaiming, requesting and giving commands",
+    "printable": true,
+    "type": "single",
+    "question": "Kim nods while Zoe speaks. What does the nod show?",
+    "audioPrompt": "Kim nods while Zoe speaks. What does the nod show?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "I am asleep.",
+      "I am listening.",
+      "Go away."
+    ],
+    "correct": 1,
+    "explanation": "I am listening. is the best answer.",
+    "structuredExplanation": {
+      "summary": "I am listening. is the best answer."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 47,
+    "qualitySchema": "reviewed-year1-english-v1"
+  },
+  {
+    "id": "ac9e1la01-p-048",
+    "curriculumCode": "AC9E1LA01",
+    "bank": "practice",
+    "skill": "understand how language, facial expressions and gestures are used to interact with others when asking for and providing information, making offers, exclaiming, requesting and giving commands",
+    "printable": true,
+    "type": "single",
+    "question": "Ava says, “Stop!” with a firm voice. What is Ava giving?",
+    "audioPrompt": "Ava says, “Stop!” with a firm voice. What is Ava giving?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "a question",
+      "an offer",
+      "a command"
+    ],
+    "correct": 2,
+    "explanation": "a command is the best answer.",
+    "structuredExplanation": {
+      "summary": "a command is the best answer."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 48,
+    "qualitySchema": "reviewed-year1-english-v1"
   }
 ];
-window.quizQuestions = window.skillrPracticeQuestions;

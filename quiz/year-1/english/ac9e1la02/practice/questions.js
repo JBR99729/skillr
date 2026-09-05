@@ -4,1161 +4,1440 @@ window.skillrPracticeQuestions = [
     "id": "ac9e1la02-p-001",
     "curriculumCode": "AC9E1LA02",
     "bank": "practice",
-    "skill": "ac9e1la02 01 recognise",
+    "skill": "explore language to provide reasons for likes, dislikes and preferences",
     "printable": true,
     "type": "single",
-    "question": "Which response would correctly find the reason?",
-    "audioPrompt": "Which response would correctly find the reason?",
-    "visual": "📖 Find the reason; 🔎 like; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Find the reason; 🔎 like; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la02.svg#ac9e1la02-p-001\"></use></svg>",
+    "question": "Mia likes painting. Which sentence gives a reason?",
+    "audioPrompt": "Mia likes painting. Which sentence gives a reason?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la02.svg#ac9e1la02-p-001",
-      "alt_text": "📖 Find the reason; 🔎 like; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "'because it is sweet'",
-      "I like mango because it is sweet",
-      "Leave out because and a real reason."
+      "Painting is here.",
+      "I like painting.",
+      "I like painting because it is fun."
     ],
-    "correct": 0,
-    "explanation": "'because it is sweet' This matches the task.\nHint: Add because and a real reason.",
+    "correct": 2,
+    "explanation": "I like painting because it is fun. is the best answer.",
     "structuredExplanation": {
-      "summary": "'because it is sweet' This matches the task.",
-      "hint": "Add because and a real reason."
+      "summary": "I like painting because it is fun. is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 1
   },
   {
     "id": "ac9e1la02-p-002",
     "curriculumCode": "AC9E1LA02",
     "bank": "practice",
-    "skill": "ac9e1la02 02 recognise",
+    "skill": "explore language to provide reasons for likes, dislikes and preferences",
     "printable": true,
     "type": "single",
-    "question": "Which response would correctly match preferences and reasons?",
-    "audioPrompt": "Which response would correctly match preferences and reasons?",
-    "visual": "📖 Match preferences and reasons; 🔎 dislike; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Match preferences and reasons; 🔎 dislike; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la02.svg#ac9e1la02-p-003\"></use></svg>",
+    "question": "Which sentence tells a preference?",
+    "audioPrompt": "Which sentence tells a preference?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la02.svg#ac9e1la02-p-003",
-      "alt_text": "📖 Match preferences and reasons; 🔎 dislike; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "I prefer boots",
-      "I like the library",
-      "Each preference matches its relevant reason"
+      "I can do both.",
+      "I like swimming more than skipping.",
+      "Skipping is an activity."
     ],
-    "correct": 2,
-    "explanation": "Each preference matches its relevant reason This matches the task.\nHint: Use like, dislike, prefer and reason language.",
+    "correct": 1,
+    "explanation": "I like swimming more than skipping. is the best answer.",
     "structuredExplanation": {
-      "summary": "Each preference matches its relevant reason This matches the task.",
-      "hint": "Use like, dislike, prefer and reason language."
+      "summary": "I like swimming more than skipping. is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 2
   },
   {
     "id": "ac9e1la02-p-003",
     "curriculumCode": "AC9E1LA02",
     "bank": "practice",
-    "skill": "ac9e1la02 03 recognise",
+    "skill": "explore language to provide reasons for likes, dislikes and preferences",
     "printable": true,
     "type": "single",
-    "question": "Which response would correctly give an oral preference?",
-    "audioPrompt": "Which response would correctly give an oral preference?",
-    "visual": "📖 Give an oral preference; 🔎 prefer; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Give an oral preference; 🔎 prefer; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la02.svg#ac9e1la02-p-005\"></use></svg>",
+    "question": "Sam does not like loud music. Which sentence explains why?",
+    "audioPrompt": "Sam does not like loud music. Which sentence explains why?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la02.svg#ac9e1la02-p-005",
-      "alt_text": "📖 Give an oral preference; 🔎 prefer; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Do not check the reason explains the choice.",
-      "States one choice and a relevant reason in a complete sentence",
-      "Leave out because and a real reason."
+      "Music can be loud.",
+      "I dislike it because it hurts my ears.",
+      "I dislike it."
     ],
     "correct": 1,
-    "explanation": "States one choice and a relevant reason in a complete sentence This matches the task.\nHint: Check the reason explains the choice.",
+    "explanation": "I dislike it because it hurts my ears. is the best answer.",
     "structuredExplanation": {
-      "summary": "States one choice and a relevant reason in a complete sentence This matches the task.",
-      "hint": "Check the reason explains the choice."
+      "summary": "I dislike it because it hurts my ears. is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 3
   },
   {
     "id": "ac9e1la02-p-004",
     "curriculumCode": "AC9E1LA02",
     "bank": "practice",
-    "skill": "ac9e1la02 04 recognise",
+    "skill": "explore language to provide reasons for likes, dislikes and preferences",
     "printable": true,
     "type": "single",
-    "question": "Which response would correctly improve a weak reason?",
-    "audioPrompt": "Which response would correctly improve a weak reason?",
-    "visual": "📖 Improve a weak reason; 🔎 because; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Improve a weak reason; 🔎 because; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la02.svg#ac9e1la02-p-007\"></use></svg>",
+    "question": "Finish the sentence: “I like the fox because …”",
+    "audioPrompt": "Finish the sentence: “I like the fox because …”",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la02.svg#ac9e1la02-p-007",
-      "alt_text": "📖 Improve a weak reason; 🔎 because; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "'I prefer apples because they are crisp and easy to pack'",
-      "I prefer apples because apples are better",
-      "Leave out because and a real reason."
+      "the end.",
+      "it is gentle.",
+      "and because."
     ],
-    "correct": 0,
-    "explanation": "'I prefer apples because they are crisp and easy to pack' This matches the task.\nHint: Add because and a real reason.",
+    "correct": 1,
+    "explanation": "it is gentle. is the best answer.",
     "structuredExplanation": {
-      "summary": "'I prefer apples because they are crisp and easy to pack' This matches the task.",
-      "hint": "Add because and a real reason."
+      "summary": "it is gentle. is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 4
   },
   {
     "id": "ac9e1la02-p-005",
     "curriculumCode": "AC9E1LA02",
     "bank": "practice",
-    "skill": "ac9e1la02 05 recognise",
+    "skill": "explore language to provide reasons for likes, dislikes and preferences",
     "printable": true,
     "type": "single",
-    "question": "Which response would correctly order a reasoned response?",
-    "audioPrompt": "Which response would correctly order a reasoned response?",
-    "visual": "📖 Order a reasoned response; 🔎 reason; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Order a reasoned response; 🔎 reason; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la02.svg#ac9e1la02-p-009\"></use></svg>",
+    "question": "Which word can join a choice to its reason?",
+    "audioPrompt": "Which word can join a choice to its reason?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la02.svg#ac9e1la02-p-009",
-      "alt_text": "📖 Order a reasoned response; 🔎 reason; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "optional comparison → give reason → add because → Name choice",
-      "Do not use like, dislike, prefer and reason language.",
-      "Name choice → add because → give reason → optional comparison"
+      "then",
+      "because",
+      "under"
     ],
-    "correct": 2,
-    "explanation": "Name choice → add because → give reason → optional comparison This matches the task.\nHint: Use like, dislike, prefer and reason language.",
+    "correct": 1,
+    "explanation": "because is the best answer.",
     "structuredExplanation": {
-      "summary": "Name choice → add because → give reason → optional comparison This matches the task.",
-      "hint": "Use like, dislike, prefer and reason language."
+      "summary": "because is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 5
   },
   {
     "id": "ac9e1la02-p-006",
     "curriculumCode": "AC9E1LA02",
     "bank": "practice",
-    "skill": "ac9e1la02 06 recognise",
+    "skill": "explore language to provide reasons for likes, dislikes and preferences",
     "printable": true,
     "type": "single",
-    "question": "Which response would correctly draw choice and evidence?",
-    "audioPrompt": "Which response would correctly draw choice and evidence?",
-    "visual": "📖 Draw choice and evidence; 🔎 like; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Draw choice and evidence; 🔎 like; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la02.svg#ac9e1la02-p-011\"></use></svg>",
+    "question": "Leo chooses the red kite. What could Leo say?",
+    "audioPrompt": "Leo chooses the red kite. What could Leo say?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la02.svg#ac9e1la02-p-011",
-      "alt_text": "📖 Draw choice and evidence; 🔎 like; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Do not check the reason explains the choice.",
-      "Picture shows both options and sentence chooses shade for a relevant heat/sun reason",
-      "Leave out because and a real reason."
+      "Put down the kite.",
+      "Where is the kite?",
+      "I prefer the red kite."
     ],
-    "correct": 1,
-    "explanation": "Picture shows both options and sentence chooses shade for a relevant heat/sun reason This matches the task.\nHint: Check the reason explains the choice.",
+    "correct": 2,
+    "explanation": "I prefer the red kite. is the best answer.",
     "structuredExplanation": {
-      "summary": "Picture shows both options and sentence chooses shade for a relevant heat/sun reason This matches the task.",
-      "hint": "Check the reason explains the choice."
+      "summary": "I prefer the red kite. is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 6
   },
   {
     "id": "ac9e1la02-p-007",
     "curriculumCode": "AC9E1LA02",
     "bank": "practice",
-    "skill": "ac9e1la02 07 recognise",
+    "skill": "explore language to provide reasons for likes, dislikes and preferences",
     "printable": true,
     "type": "single",
-    "question": "Which response would correctly separate fact and preference?",
-    "audioPrompt": "Which response would correctly separate fact and preference?",
-    "visual": "📖 Separate fact and preference; 🔎 dislike; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Separate fact and preference; 🔎 dislike; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la02.svg#ac9e1la02-p-013\"></use></svg>",
+    "question": "Which answer gives a clear reason for liking the camp?",
+    "audioPrompt": "Which answer gives a clear reason for liking the camp?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la02.svg#ac9e1la02-p-013",
-      "alt_text": "📖 Separate fact and preference; 🔎 dislike; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Two pockets is a checkable fact; liking it best is a personal preference",
-      "The red bag has two pockets",
-      "I like the red bag best"
+      "I like the camp.",
+      "I like the camp because I can play there.",
+      "The camp is a place."
     ],
-    "correct": 0,
-    "explanation": "Two pockets is a checkable fact; liking it best is a personal preference This matches the task.\nHint: Add because and a real reason.",
+    "correct": 1,
+    "explanation": "I like the camp because I can play there. is the best answer.",
     "structuredExplanation": {
-      "summary": "Two pockets is a checkable fact; liking it best is a personal preference This matches the task.",
-      "hint": "Add because and a real reason."
+      "summary": "I like the camp because I can play there. is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 7
   },
   {
     "id": "ac9e1la02-p-008",
     "curriculumCode": "AC9E1LA02",
     "bank": "practice",
-    "skill": "ac9e1la02 08 recognise",
+    "skill": "explore language to provide reasons for likes, dislikes and preferences",
     "printable": true,
     "type": "single",
-    "question": "Which response would correctly give respectful disagreement?",
-    "audioPrompt": "Which response would correctly give respectful disagreement?",
-    "visual": "📖 Give respectful disagreement; 🔎 prefer; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Give respectful disagreement; 🔎 prefer; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la02.svg#ac9e1la02-p-015\"></use></svg>",
+    "question": "Max likes apples, but likes pears more. What does Max prefer?",
+    "audioPrompt": "Max likes apples, but likes pears more. What does Max prefer?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la02.svg#ac9e1la02-p-015",
-      "alt_text": "📖 Give respectful disagreement; 🔎 prefer; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Do not use like, dislike, prefer and reason language.",
-      "Do not check the reason explains the choice.",
-      "Uses respectful wording, names an alternative and gives a connected reason"
+      "apples",
+      "pears",
+      "both the same"
     ],
-    "correct": 2,
-    "explanation": "Uses respectful wording, names an alternative and gives a connected reason This matches the task.\nHint: Use like, dislike, prefer and reason language.",
+    "correct": 1,
+    "explanation": "pears is the best answer.",
     "structuredExplanation": {
-      "summary": "Uses respectful wording, names an alternative and gives a connected reason This matches the task.",
-      "hint": "Use like, dislike, prefer and reason language."
+      "summary": "pears is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 8
   },
   {
     "id": "ac9e1la02-p-009",
     "curriculumCode": "AC9E1LA02",
     "bank": "practice",
-    "skill": "ac9e1la02 09 recognise",
+    "skill": "explore language to provide reasons for likes, dislikes and preferences",
     "printable": true,
     "type": "single",
-    "question": "Which response would correctly complete a reason?",
-    "audioPrompt": "Which response would correctly complete a reason?",
-    "visual": "📖 Complete a reason; 🔎 because; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Complete a reason; 🔎 because; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la02.svg#ac9e1la02-p-017\"></use></svg>",
+    "question": "Ben likes painting. Which sentence gives a reason?",
+    "audioPrompt": "Ben likes painting. Which sentence gives a reason?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la02.svg#ac9e1la02-p-017",
-      "alt_text": "📖 Complete a reason; 🔎 because; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "I would choose the larger water bottle because ___",
-      "'because it holds more water for the long walk'",
-      "Do not check the reason explains the choice."
+      "I like painting because it is fun.",
+      "I like painting.",
+      "Painting is here."
     ],
-    "correct": 1,
-    "explanation": "'because it holds more water for the long walk' This matches the task.\nHint: Check the reason explains the choice.",
+    "correct": 0,
+    "explanation": "I like painting because it is fun. is the best answer.",
     "structuredExplanation": {
-      "summary": "'because it holds more water for the long walk' This matches the task.",
-      "hint": "Check the reason explains the choice."
+      "summary": "I like painting because it is fun. is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 9
   },
   {
     "id": "ac9e1la02-p-010",
     "curriculumCode": "AC9E1LA02",
     "bank": "practice",
-    "skill": "ac9e1la02 10 recognise",
+    "skill": "explore language to provide reasons for likes, dislikes and preferences",
     "printable": true,
     "type": "single",
-    "question": "Which response would correctly match reasons to audiences?",
-    "audioPrompt": "Which response would correctly match reasons to audiences?",
-    "visual": "📖 Match reasons to audiences; 🔎 reason; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Match reasons to audiences; 🔎 reason; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la02.svg#ac9e1la02-p-019\"></use></svg>",
+    "question": "Which sentence tells a preference?",
+    "audioPrompt": "Which sentence tells a preference?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la02.svg#ac9e1la02-p-019",
-      "alt_text": "📖 Match reasons to audiences; 🔎 reason; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Each option matches its relevant practical reason",
-      "Leave out because and a real reason.",
-      "Do not use like, dislike, prefer and reason language."
+      "Skipping is an activity.",
+      "I can do both.",
+      "I like swimming more than skipping."
     ],
-    "correct": 0,
-    "explanation": "Each option matches its relevant practical reason This matches the task.\nHint: Add because and a real reason.",
+    "correct": 2,
+    "explanation": "I like swimming more than skipping. is the best answer.",
     "structuredExplanation": {
-      "summary": "Each option matches its relevant practical reason This matches the task.",
-      "hint": "Add because and a real reason."
+      "summary": "I like swimming more than skipping. is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 10
   },
   {
     "id": "ac9e1la02-p-011",
     "curriculumCode": "AC9E1LA02",
     "bank": "practice",
-    "skill": "ac9e1la02 01 explain",
+    "skill": "explore language to provide reasons for likes, dislikes and preferences",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you find the reason?",
-    "audioPrompt": "Which tip would help you find the reason?",
-    "visual": "🧠 Find the reason; ➡️ State preference; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Find the reason; ➡️ State preference; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la02.svg#ac9e1la02-p-002\"></use></svg>",
+    "question": "Kim does not like loud music. Which sentence explains why?",
+    "audioPrompt": "Kim does not like loud music. Which sentence explains why?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la02.svg#ac9e1la02-p-002",
-      "alt_text": "🧠 Find the reason; ➡️ State preference; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Do not use like, dislike, prefer and reason language.",
-      "Add because and a real reason.",
-      "Do not check the reason explains the choice."
+      "I dislike it.",
+      "I dislike it because it hurts my ears.",
+      "Music can be loud."
     ],
     "correct": 1,
-    "explanation": "Add because and a real reason.\nHint: Add because and a real reason.",
+    "explanation": "I dislike it because it hurts my ears. is the best answer.",
     "structuredExplanation": {
-      "summary": "Add because and a real reason.",
-      "hint": "Add because and a real reason."
+      "summary": "I dislike it because it hurts my ears. is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 11
   },
   {
     "id": "ac9e1la02-p-012",
     "curriculumCode": "AC9E1LA02",
     "bank": "practice",
-    "skill": "ac9e1la02 02 explain",
+    "skill": "explore language to provide reasons for likes, dislikes and preferences",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you match preferences and reasons?",
-    "audioPrompt": "Which tip would help you match preferences and reasons?",
-    "visual": "🧠 Match preferences and reasons; ➡️ Give reason; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Match preferences and reasons; ➡️ Give reason; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la02.svg#ac9e1la02-p-004\"></use></svg>",
+    "question": "Finish the sentence: “I like the duck because …”",
+    "audioPrompt": "Finish the sentence: “I like the duck because …”",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la02.svg#ac9e1la02-p-004",
-      "alt_text": "🧠 Match preferences and reasons; ➡️ Give reason; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Use this routine: State preference → Give reason → Use evidence → Listen/respond.",
-      "Do not check the reason explains the choice.",
-      "Leave out because and a real reason."
+      "it is gentle.",
+      "the end.",
+      "and because."
     ],
     "correct": 0,
-    "explanation": "Use this routine: State preference → Give reason → Use evidence → Listen/respond.\nHint: Use like, dislike, prefer and reason language.",
+    "explanation": "it is gentle. is the best answer.",
     "structuredExplanation": {
-      "summary": "Use this routine: State preference → Give reason → Use evidence → Listen/respond.",
-      "hint": "Use like, dislike, prefer and reason language."
+      "summary": "it is gentle. is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 12
   },
   {
     "id": "ac9e1la02-p-013",
     "curriculumCode": "AC9E1LA02",
     "bank": "practice",
-    "skill": "ac9e1la02 03 explain",
+    "skill": "explore language to provide reasons for likes, dislikes and preferences",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you give an oral preference?",
-    "audioPrompt": "Which tip would help you give an oral preference?",
-    "visual": "🧠 Give an oral preference; ➡️ Use evidence; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Give an oral preference; ➡️ Use evidence; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la02.svg#ac9e1la02-p-006\"></use></svg>",
+    "question": "Which word can join a choice to its reason?",
+    "audioPrompt": "Which word can join a choice to its reason?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la02.svg#ac9e1la02-p-006",
-      "alt_text": "🧠 Give an oral preference; ➡️ Use evidence; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Leave out because and a real reason.",
-      "Do not use like, dislike, prefer and reason language.",
-      "Look for prefer and check the whole example."
+      "under",
+      "then",
+      "because"
     ],
     "correct": 2,
-    "explanation": "Look for prefer and check the whole example.\nHint: Check the reason explains the choice.",
+    "explanation": "because is the best answer.",
     "structuredExplanation": {
-      "summary": "Look for prefer and check the whole example.",
-      "hint": "Check the reason explains the choice."
+      "summary": "because is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 13
   },
   {
     "id": "ac9e1la02-p-014",
     "curriculumCode": "AC9E1LA02",
     "bank": "practice",
-    "skill": "ac9e1la02 04 explain",
+    "skill": "explore language to provide reasons for likes, dislikes and preferences",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you improve a weak reason?",
-    "audioPrompt": "Which tip would help you improve a weak reason?",
-    "visual": "🧠 Improve a weak reason; ➡️ Listen/respond; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Improve a weak reason; ➡️ Listen/respond; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la02.svg#ac9e1la02-p-008\"></use></svg>",
+    "question": "Zoe chooses the red hat. What could Zoe say?",
+    "audioPrompt": "Zoe chooses the red hat. What could Zoe say?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la02.svg#ac9e1la02-p-008",
-      "alt_text": "🧠 Improve a weak reason; ➡️ Listen/respond; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Do not use like, dislike, prefer and reason language.",
-      "Check that you can listen to others.",
-      "Do not check the reason explains the choice."
+      "Where is the hat?",
+      "I prefer the red hat.",
+      "Put down the hat."
     ],
     "correct": 1,
-    "explanation": "Check that you can listen to others.\nHint: Add because and a real reason.",
+    "explanation": "I prefer the red hat. is the best answer.",
     "structuredExplanation": {
-      "summary": "Check that you can listen to others.",
-      "hint": "Add because and a real reason."
+      "summary": "I prefer the red hat. is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 14
   },
   {
     "id": "ac9e1la02-p-015",
     "curriculumCode": "AC9E1LA02",
     "bank": "practice",
-    "skill": "ac9e1la02 05 explain",
+    "skill": "explore language to provide reasons for likes, dislikes and preferences",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you order a reasoned response?",
-    "audioPrompt": "Which tip would help you order a reasoned response?",
-    "visual": "🧠 Order a reasoned response; ➡️ State preference; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Order a reasoned response; ➡️ State preference; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la02.svg#ac9e1la02-p-010\"></use></svg>",
+    "question": "Which answer gives a clear reason for liking the beach?",
+    "audioPrompt": "Which answer gives a clear reason for liking the beach?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la02.svg#ac9e1la02-p-010",
-      "alt_text": "🧠 Order a reasoned response; ➡️ State preference; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Sequencing a preference-and-reason structure.",
-      "Do not check the reason explains the choice.",
-      "Leave out because and a real reason."
+      "I like the beach because I can play there.",
+      "I like the beach.",
+      "The beach is a place."
     ],
     "correct": 0,
-    "explanation": "Sequencing a preference-and-reason structure.\nHint: Use like, dislike, prefer and reason language.",
+    "explanation": "I like the beach because I can play there. is the best answer.",
     "structuredExplanation": {
-      "summary": "Sequencing a preference-and-reason structure.",
-      "hint": "Use like, dislike, prefer and reason language."
+      "summary": "I like the beach because I can play there. is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 15
   },
   {
     "id": "ac9e1la02-p-016",
     "curriculumCode": "AC9E1LA02",
     "bank": "practice",
-    "skill": "ac9e1la02 06 explain",
+    "skill": "explore language to provide reasons for likes, dislikes and preferences",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you draw choice and evidence?",
-    "audioPrompt": "Which tip would help you draw choice and evidence?",
-    "visual": "🧠 Draw choice and evidence; ➡️ Give reason; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Draw choice and evidence; ➡️ Give reason; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la02.svg#ac9e1la02-p-012\"></use></svg>",
+    "question": "Mia likes apples, but likes pears more. What does Mia prefer?",
+    "audioPrompt": "Mia likes apples, but likes pears more. What does Mia prefer?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la02.svg#ac9e1la02-p-012",
-      "alt_text": "🧠 Draw choice and evidence; ➡️ Give reason; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Leave out because and a real reason.",
-      "Do not use like, dislike, prefer and reason language.",
-      "Check the reason explains the choice."
+      "apples",
+      "both the same",
+      "pears"
     ],
     "correct": 2,
-    "explanation": "Check the reason explains the choice.\nHint: Check the reason explains the choice.",
+    "explanation": "pears is the best answer.",
     "structuredExplanation": {
-      "summary": "Check the reason explains the choice.",
-      "hint": "Check the reason explains the choice."
+      "summary": "pears is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 16
   },
   {
     "id": "ac9e1la02-p-017",
     "curriculumCode": "AC9E1LA02",
     "bank": "practice",
-    "skill": "ac9e1la02 07 explain",
+    "skill": "explore language to provide reasons for likes, dislikes and preferences",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you separate fact and preference?",
-    "audioPrompt": "Which tip would help you separate fact and preference?",
-    "visual": "🧠 Separate fact and preference; ➡️ Use evidence; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Separate fact and preference; ➡️ Use evidence; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la02.svg#ac9e1la02-p-014\"></use></svg>",
+    "question": "Sam likes painting. Which sentence gives a reason?",
+    "audioPrompt": "Sam likes painting. Which sentence gives a reason?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la02.svg#ac9e1la02-p-014",
-      "alt_text": "🧠 Separate fact and preference; ➡️ Use evidence; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Do not use like, dislike, prefer and reason language.",
-      "Use this routine: State preference → Give reason → Use evidence → Listen/respond.",
-      "Do not check the reason explains the choice."
+      "I like painting.",
+      "Painting is here.",
+      "I like painting because it is fun."
     ],
-    "correct": 1,
-    "explanation": "Use this routine: State preference → Give reason → Use evidence → Listen/respond.\nHint: Add because and a real reason.",
+    "correct": 2,
+    "explanation": "I like painting because it is fun. is the best answer.",
     "structuredExplanation": {
-      "summary": "Use this routine: State preference → Give reason → Use evidence → Listen/respond.",
-      "hint": "Add because and a real reason."
+      "summary": "I like painting because it is fun. is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 2,
+    "difficultyTier": "guided",
+    "sequencePriority": 17
   },
   {
     "id": "ac9e1la02-p-018",
     "curriculumCode": "AC9E1LA02",
     "bank": "practice",
-    "skill": "ac9e1la02 08 explain",
+    "skill": "explore language to provide reasons for likes, dislikes and preferences",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you give respectful disagreement?",
-    "audioPrompt": "Which tip would help you give respectful disagreement?",
-    "visual": "🧠 Give respectful disagreement; ➡️ Listen/respond; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Give respectful disagreement; ➡️ Listen/respond; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la02.svg#ac9e1la02-p-016\"></use></svg>",
+    "question": "Which sentence tells a preference?",
+    "audioPrompt": "Which sentence tells a preference?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la02.svg#ac9e1la02-p-016",
-      "alt_text": "🧠 Give respectful disagreement; ➡️ Listen/respond; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Look for prefer and check the whole example.",
-      "Do not check the reason explains the choice.",
-      "Leave out because and a real reason."
+      "I like swimming more than skipping.",
+      "Skipping is an activity.",
+      "I can do both."
     ],
     "correct": 0,
-    "explanation": "Look for prefer and check the whole example.\nHint: Use like, dislike, prefer and reason language.",
+    "explanation": "I like swimming more than skipping. is the best answer.",
     "structuredExplanation": {
-      "summary": "Look for prefer and check the whole example.",
-      "hint": "Use like, dislike, prefer and reason language."
+      "summary": "I like swimming more than skipping. is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 2,
+    "difficultyTier": "guided",
+    "sequencePriority": 18
   },
   {
     "id": "ac9e1la02-p-019",
     "curriculumCode": "AC9E1LA02",
     "bank": "practice",
-    "skill": "ac9e1la02 09 explain",
+    "skill": "explore language to provide reasons for likes, dislikes and preferences",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you complete a reason?",
-    "audioPrompt": "Which tip would help you complete a reason?",
-    "visual": "🧠 Complete a reason; ➡️ State preference; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Complete a reason; ➡️ State preference; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la02.svg#ac9e1la02-p-018\"></use></svg>",
+    "question": "Ava does not like loud music. Which sentence explains why?",
+    "audioPrompt": "Ava does not like loud music. Which sentence explains why?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la02.svg#ac9e1la02-p-018",
-      "alt_text": "🧠 Complete a reason; ➡️ State preference; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Leave out because and a real reason.",
-      "Do not use like, dislike, prefer and reason language.",
-      "Check that you can listen to others."
+      "Music can be loud.",
+      "I dislike it because it hurts my ears.",
+      "I dislike it."
     ],
-    "correct": 2,
-    "explanation": "Check that you can listen to others.\nHint: Check the reason explains the choice.",
+    "correct": 1,
+    "explanation": "I dislike it because it hurts my ears. is the best answer.",
     "structuredExplanation": {
-      "summary": "Check that you can listen to others.",
-      "hint": "Check the reason explains the choice."
+      "summary": "I dislike it because it hurts my ears. is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 2,
+    "difficultyTier": "guided",
+    "sequencePriority": 19
   },
   {
     "id": "ac9e1la02-p-020",
     "curriculumCode": "AC9E1LA02",
     "bank": "practice",
-    "skill": "ac9e1la02 10 explain",
+    "skill": "explore language to provide reasons for likes, dislikes and preferences",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you match reasons to audiences?",
-    "audioPrompt": "Which tip would help you match reasons to audiences?",
-    "visual": "🧠 Match reasons to audiences; ➡️ Give reason; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Match reasons to audiences; ➡️ Give reason; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la02.svg#ac9e1la02-p-020\"></use></svg>",
+    "question": "Finish the sentence: “I like the goat because …”",
+    "audioPrompt": "Finish the sentence: “I like the goat because …”",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la02.svg#ac9e1la02-p-020",
-      "alt_text": "🧠 Match reasons to audiences; ➡️ Give reason; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Do not use like, dislike, prefer and reason language.",
-      "Selecting reasons that support choices.",
-      "Do not check the reason explains the choice."
+      "it is gentle.",
+      "and because.",
+      "the end."
     ],
-    "correct": 1,
-    "explanation": "Selecting reasons that support choices.\nHint: Add because and a real reason.",
+    "correct": 0,
+    "explanation": "it is gentle. is the best answer.",
     "structuredExplanation": {
-      "summary": "Selecting reasons that support choices.",
-      "hint": "Add because and a real reason."
+      "summary": "it is gentle. is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 2,
+    "difficultyTier": "guided",
+    "sequencePriority": 20
   },
   {
     "id": "ac9e1la02-p-021",
     "curriculumCode": "AC9E1LA02",
     "bank": "practice",
-    "skill": "ac9e1la02 01 discriminate",
+    "skill": "explore language to provide reasons for likes, dislikes and preferences",
     "printable": true,
     "type": "single",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": "📖 Find the reason; 🔎 like; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Find the reason; 🔎 like; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la02.svg#ac9e1la02-p-001\"></use></svg>",
+    "question": "Which word can join a choice to its reason?",
+    "audioPrompt": "Which word can join a choice to its reason?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la02.svg#ac9e1la02-p-001",
-      "alt_text": "📖 Find the reason; 🔎 like; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "I like mango because it is sweet",
-      "'because it is sweet'",
-      "Add because and a real reason."
+      "under",
+      "because",
+      "then"
     ],
-    "correct": 0,
-    "explanation": "I like mango because it is sweet is the mix-up. Add because and a real reason.\nHint: Add because and a real reason.",
+    "correct": 1,
+    "explanation": "because is the best answer.",
     "structuredExplanation": {
-      "summary": "I like mango because it is sweet is the mix-up. Add because and a real reason.",
-      "hint": "Add because and a real reason."
+      "summary": "because is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 2,
+    "difficultyTier": "guided",
+    "sequencePriority": 21
   },
   {
     "id": "ac9e1la02-p-022",
     "curriculumCode": "AC9E1LA02",
     "bank": "practice",
-    "skill": "ac9e1la02 02 discriminate",
+    "skill": "explore language to provide reasons for likes, dislikes and preferences",
     "printable": true,
     "type": "single",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": "📖 Match preferences and reasons; 🔎 dislike; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Match preferences and reasons; 🔎 dislike; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la02.svg#ac9e1la02-p-003\"></use></svg>",
+    "question": "Max chooses the red book. What could Max say?",
+    "audioPrompt": "Max chooses the red book. What could Max say?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la02.svg#ac9e1la02-p-003",
-      "alt_text": "📖 Match preferences and reasons; 🔎 dislike; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Each preference matches its relevant reason",
-      "I prefer boots",
-      "Use this routine: State preference → Give reason → Use evidence → Listen/respond."
+      "Where is the book?",
+      "Put down the book.",
+      "I prefer the red book."
     ],
-    "correct": 1,
-    "explanation": "I prefer boots is the mix-up. Use like, dislike, prefer and reason language.\nHint: Use like, dislike, prefer and reason language.",
+    "correct": 2,
+    "explanation": "I prefer the red book. is the best answer.",
     "structuredExplanation": {
-      "summary": "I prefer boots is the mix-up. Use like, dislike, prefer and reason language.",
-      "hint": "Use like, dislike, prefer and reason language."
+      "summary": "I prefer the red book. is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 2,
+    "difficultyTier": "guided",
+    "sequencePriority": 22
   },
   {
     "id": "ac9e1la02-p-023",
     "curriculumCode": "AC9E1LA02",
     "bank": "practice",
-    "skill": "ac9e1la02 03 discriminate",
+    "skill": "explore language to provide reasons for likes, dislikes and preferences",
     "printable": true,
     "type": "single",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": "📖 Give an oral preference; 🔎 prefer; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Give an oral preference; 🔎 prefer; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la02.svg#ac9e1la02-p-005\"></use></svg>",
+    "question": "Which answer gives a clear reason for liking the park?",
+    "audioPrompt": "Which answer gives a clear reason for liking the park?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la02.svg#ac9e1la02-p-005",
-      "alt_text": "📖 Give an oral preference; 🔎 prefer; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "States one choice and a relevant reason in a complete sentence",
-      "Look for prefer and check the whole example.",
-      "Do not check the reason explains the choice."
+      "I like the park.",
+      "I like the park because I can play there.",
+      "The park is a place."
     ],
-    "correct": 2,
-    "explanation": "Do not check the reason explains the choice. is the mix-up. Check the reason explains the choice.\nHint: Check the reason explains the choice.",
+    "correct": 1,
+    "explanation": "I like the park because I can play there. is the best answer.",
     "structuredExplanation": {
-      "summary": "Do not check the reason explains the choice. is the mix-up. Check the reason explains the choice.",
-      "hint": "Check the reason explains the choice."
+      "summary": "I like the park because I can play there. is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 2,
+    "difficultyTier": "guided",
+    "sequencePriority": 23
   },
   {
     "id": "ac9e1la02-p-024",
     "curriculumCode": "AC9E1LA02",
     "bank": "practice",
-    "skill": "ac9e1la02 04 discriminate",
+    "skill": "explore language to provide reasons for likes, dislikes and preferences",
     "printable": true,
     "type": "single",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": "📖 Improve a weak reason; 🔎 because; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Improve a weak reason; 🔎 because; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la02.svg#ac9e1la02-p-007\"></use></svg>",
+    "question": "Ben likes apples, but likes pears more. What does Ben prefer?",
+    "audioPrompt": "Ben likes apples, but likes pears more. What does Ben prefer?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la02.svg#ac9e1la02-p-007",
-      "alt_text": "📖 Improve a weak reason; 🔎 because; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "I prefer apples because apples are better",
-      "'I prefer apples because they are crisp and easy to pack'",
-      "Check that you can listen to others."
+      "apples",
+      "pears",
+      "both the same"
     ],
-    "correct": 0,
-    "explanation": "I prefer apples because apples are better is the mix-up. Add because and a real reason.\nHint: Add because and a real reason.",
+    "correct": 1,
+    "explanation": "pears is the best answer.",
     "structuredExplanation": {
-      "summary": "I prefer apples because apples are better is the mix-up. Add because and a real reason.",
-      "hint": "Add because and a real reason."
+      "summary": "pears is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 2,
+    "difficultyTier": "guided",
+    "sequencePriority": 24
   },
   {
     "id": "ac9e1la02-p-025",
     "curriculumCode": "AC9E1LA02",
     "bank": "practice",
-    "skill": "ac9e1la02 05 discriminate",
+    "skill": "explore language to provide reasons for likes, dislikes and preferences",
     "printable": true,
     "type": "single",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": "📖 Order a reasoned response; 🔎 reason; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Order a reasoned response; 🔎 reason; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la02.svg#ac9e1la02-p-009\"></use></svg>",
+    "question": "Kim likes painting. Which sentence gives a reason?",
+    "audioPrompt": "Kim likes painting. Which sentence gives a reason?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la02.svg#ac9e1la02-p-009",
-      "alt_text": "📖 Order a reasoned response; 🔎 reason; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Name choice → add because → give reason → optional comparison",
-      "optional comparison → give reason → add because → Name choice",
-      "Sequencing a preference-and-reason structure."
+      "Painting is here.",
+      "I like painting.",
+      "I like painting because it is fun."
     ],
-    "correct": 1,
-    "explanation": "optional comparison → give reason → add because → Name choice is the mix-up. Use like, dislike, prefer and reason language.\nHint: Use like, dislike, prefer and reason language.",
+    "correct": 2,
+    "explanation": "I like painting because it is fun. is the best answer.",
     "structuredExplanation": {
-      "summary": "optional comparison → give reason → add because → Name choice is the mix-up. Use like, dislike, prefer and reason language.",
-      "hint": "Use like, dislike, prefer and reason language."
+      "summary": "I like painting because it is fun. is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 2,
+    "difficultyTier": "guided",
+    "sequencePriority": 25
   },
   {
     "id": "ac9e1la02-p-026",
     "curriculumCode": "AC9E1LA02",
     "bank": "practice",
-    "skill": "ac9e1la02 06 discriminate",
+    "skill": "explore language to provide reasons for likes, dislikes and preferences",
     "printable": true,
     "type": "single",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": "📖 Draw choice and evidence; 🔎 like; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Draw choice and evidence; 🔎 like; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la02.svg#ac9e1la02-p-011\"></use></svg>",
+    "question": "Read and choose: Which sentence tells a preference?",
+    "audioPrompt": "Read and choose: Which sentence tells a preference?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la02.svg#ac9e1la02-p-011",
-      "alt_text": "📖 Draw choice and evidence; 🔎 like; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Picture shows both options and sentence chooses shade for a relevant heat/sun reason",
-      "Check the reason explains the choice.",
-      "Do not check the reason explains the choice."
+      "I can do both.",
+      "I like swimming more than skipping.",
+      "Skipping is an activity."
     ],
-    "correct": 2,
-    "explanation": "Do not check the reason explains the choice. is the mix-up. Check the reason explains the choice.\nHint: Check the reason explains the choice.",
+    "correct": 1,
+    "explanation": "I like swimming more than skipping. is the best answer.",
     "structuredExplanation": {
-      "summary": "Do not check the reason explains the choice. is the mix-up. Check the reason explains the choice.",
-      "hint": "Check the reason explains the choice."
+      "summary": "I like swimming more than skipping. is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 2,
+    "difficultyTier": "guided",
+    "sequencePriority": 26
   },
   {
     "id": "ac9e1la02-p-027",
     "curriculumCode": "AC9E1LA02",
     "bank": "practice",
-    "skill": "ac9e1la02 07 discriminate",
+    "skill": "explore language to provide reasons for likes, dislikes and preferences",
     "printable": true,
     "type": "single",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": "📖 Separate fact and preference; 🔎 dislike; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Separate fact and preference; 🔎 dislike; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la02.svg#ac9e1la02-p-013\"></use></svg>",
+    "question": "Leo does not like loud music. Which sentence explains why?",
+    "audioPrompt": "Leo does not like loud music. Which sentence explains why?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la02.svg#ac9e1la02-p-013",
-      "alt_text": "📖 Separate fact and preference; 🔎 dislike; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "The red bag has two pockets",
-      "Two pockets is a checkable fact; liking it best is a personal preference",
-      "Use this routine: State preference → Give reason → Use evidence → Listen/respond."
+      "I dislike it.",
+      "Music can be loud.",
+      "I dislike it because it hurts my ears."
     ],
-    "correct": 0,
-    "explanation": "The red bag has two pockets is the mix-up. Add because and a real reason.\nHint: Add because and a real reason.",
+    "correct": 2,
+    "explanation": "I dislike it because it hurts my ears. is the best answer.",
     "structuredExplanation": {
-      "summary": "The red bag has two pockets is the mix-up. Add because and a real reason.",
-      "hint": "Add because and a real reason."
+      "summary": "I dislike it because it hurts my ears. is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 2,
+    "difficultyTier": "guided",
+    "sequencePriority": 27
   },
   {
     "id": "ac9e1la02-p-028",
     "curriculumCode": "AC9E1LA02",
     "bank": "practice",
-    "skill": "ac9e1la02 08 discriminate",
+    "skill": "explore language to provide reasons for likes, dislikes and preferences",
     "printable": true,
     "type": "single",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": "📖 Give respectful disagreement; 🔎 prefer; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Give respectful disagreement; 🔎 prefer; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la02.svg#ac9e1la02-p-015\"></use></svg>",
+    "question": "Finish the sentence: “I like the dog because …”",
+    "audioPrompt": "Finish the sentence: “I like the dog because …”",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la02.svg#ac9e1la02-p-015",
-      "alt_text": "📖 Give respectful disagreement; 🔎 prefer; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Uses respectful wording, names an alternative and gives a connected reason",
-      "Do not use like, dislike, prefer and reason language.",
-      "Look for prefer and check the whole example."
+      "it is gentle.",
+      "and because.",
+      "the end."
     ],
-    "correct": 1,
-    "explanation": "Do not use like, dislike, prefer and reason language. is the mix-up. Use like, dislike, prefer and reason language.\nHint: Use like, dislike, prefer and reason language.",
+    "correct": 0,
+    "explanation": "it is gentle. is the best answer.",
     "structuredExplanation": {
-      "summary": "Do not use like, dislike, prefer and reason language. is the mix-up. Use like, dislike, prefer and reason language.",
-      "hint": "Use like, dislike, prefer and reason language."
+      "summary": "it is gentle. is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 2,
+    "difficultyTier": "guided",
+    "sequencePriority": 28
   },
   {
     "id": "ac9e1la02-p-029",
     "curriculumCode": "AC9E1LA02",
     "bank": "practice",
-    "skill": "ac9e1la02 09 discriminate",
+    "skill": "explore language to provide reasons for likes, dislikes and preferences",
     "printable": true,
     "type": "single",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": "📖 Complete a reason; 🔎 because; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Complete a reason; 🔎 because; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la02.svg#ac9e1la02-p-017\"></use></svg>",
+    "question": "Read and choose: Which word can join a choice to its reason?",
+    "audioPrompt": "Read and choose: Which word can join a choice to its reason?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la02.svg#ac9e1la02-p-017",
-      "alt_text": "📖 Complete a reason; 🔎 because; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "'because it holds more water for the long walk'",
-      "Check that you can listen to others.",
-      "I would choose the larger water bottle because ___"
+      "under",
+      "then",
+      "because"
     ],
     "correct": 2,
-    "explanation": "I would choose the larger water bottle because ___ is the mix-up. Check the reason explains the choice.\nHint: Check the reason explains the choice.",
+    "explanation": "because is the best answer.",
     "structuredExplanation": {
-      "summary": "I would choose the larger water bottle because ___ is the mix-up. Check the reason explains the choice.",
-      "hint": "Check the reason explains the choice."
+      "summary": "because is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 2,
+    "difficultyTier": "guided",
+    "sequencePriority": 29
   },
   {
     "id": "ac9e1la02-p-030",
     "curriculumCode": "AC9E1LA02",
     "bank": "practice",
-    "skill": "ac9e1la02 10 discriminate",
+    "skill": "explore language to provide reasons for likes, dislikes and preferences",
     "printable": true,
     "type": "single",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": "📖 Match reasons to audiences; 🔎 reason; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Match reasons to audiences; 🔎 reason; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la02.svg#ac9e1la02-p-019\"></use></svg>",
+    "question": "Mia chooses the red sock. What could Mia say?",
+    "audioPrompt": "Mia chooses the red sock. What could Mia say?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la02.svg#ac9e1la02-p-019",
-      "alt_text": "📖 Match reasons to audiences; 🔎 reason; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Leave out because and a real reason.",
-      "Each option matches its relevant practical reason",
-      "Selecting reasons that support choices."
+      "Where is the sock?",
+      "I prefer the red sock.",
+      "Put down the sock."
     ],
-    "correct": 0,
-    "explanation": "Leave out because and a real reason. is the mix-up. Add because and a real reason.\nHint: Add because and a real reason.",
+    "correct": 1,
+    "explanation": "I prefer the red sock. is the best answer.",
     "structuredExplanation": {
-      "summary": "Leave out because and a real reason. is the mix-up. Add because and a real reason.",
-      "hint": "Add because and a real reason."
+      "summary": "I prefer the red sock. is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 2,
+    "difficultyTier": "guided",
+    "sequencePriority": 30
   },
   {
     "id": "ac9e1la02-p-031",
     "curriculumCode": "AC9E1LA02",
     "bank": "practice",
-    "skill": "ac9e1la02 01 apply",
+    "skill": "explore language to provide reasons for likes, dislikes and preferences",
     "printable": true,
     "type": "single",
-    "question": "Which choice would best use this skill in a new example?",
-    "audioPrompt": "Which choice would best use this skill in a new example?",
-    "visual": "📖 Find the reason; 🔎 like; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Find the reason; 🔎 like; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la02.svg#ac9e1la02-p-001\"></use></svg>",
+    "question": "Which answer gives a clear reason for liking the pond?",
+    "audioPrompt": "Which answer gives a clear reason for liking the pond?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la02.svg#ac9e1la02-p-001",
-      "alt_text": "📖 Find the reason; 🔎 like; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "I like mango because it is sweet",
-      "'because it is sweet'",
-      "Leave out because and a real reason."
+      "I like the pond because I can play there.",
+      "The pond is a place.",
+      "I like the pond."
     ],
-    "correct": 1,
-    "explanation": "'because it is sweet' uses the skill correctly. Add because and a real reason.\nHint: Add because and a real reason.",
+    "correct": 0,
+    "explanation": "I like the pond because I can play there. is the best answer.",
     "structuredExplanation": {
-      "summary": "'because it is sweet' uses the skill correctly. Add because and a real reason.",
-      "hint": "Add because and a real reason."
+      "summary": "I like the pond because I can play there. is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 2,
+    "difficultyTier": "guided",
+    "sequencePriority": 31
   },
   {
     "id": "ac9e1la02-p-032",
     "curriculumCode": "AC9E1LA02",
     "bank": "practice",
-    "skill": "ac9e1la02 02 apply",
+    "skill": "explore language to provide reasons for likes, dislikes and preferences",
     "printable": true,
     "type": "single",
-    "question": "Which choice would best use this skill in a new example?",
-    "audioPrompt": "Which choice would best use this skill in a new example?",
-    "visual": "📖 Match preferences and reasons; 🔎 dislike; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Match preferences and reasons; 🔎 dislike; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la02.svg#ac9e1la02-p-003\"></use></svg>",
+    "question": "Sam likes apples, but likes pears more. What does Sam prefer?",
+    "audioPrompt": "Sam likes apples, but likes pears more. What does Sam prefer?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la02.svg#ac9e1la02-p-003",
-      "alt_text": "📖 Match preferences and reasons; 🔎 dislike; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "I prefer boots",
-      "I like the library",
-      "Each preference matches its relevant reason"
+      "apples",
+      "both the same",
+      "pears"
     ],
     "correct": 2,
-    "explanation": "Each preference matches its relevant reason uses the skill correctly. Use like, dislike, prefer and reason language.\nHint: Use like, dislike, prefer and reason language.",
+    "explanation": "pears is the best answer.",
     "structuredExplanation": {
-      "summary": "Each preference matches its relevant reason uses the skill correctly. Use like, dislike, prefer and reason language.",
-      "hint": "Use like, dislike, prefer and reason language."
+      "summary": "pears is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 2,
+    "difficultyTier": "guided",
+    "sequencePriority": 32
   },
   {
     "id": "ac9e1la02-p-033",
     "curriculumCode": "AC9E1LA02",
     "bank": "practice",
-    "skill": "ac9e1la02 03 apply",
+    "skill": "explore language to provide reasons for likes, dislikes and preferences",
     "printable": true,
     "type": "single",
-    "question": "Which choice would best use this skill in a new example?",
-    "audioPrompt": "Which choice would best use this skill in a new example?",
-    "visual": "📖 Give an oral preference; 🔎 prefer; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Give an oral preference; 🔎 prefer; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la02.svg#ac9e1la02-p-005\"></use></svg>",
+    "question": "Ava likes painting. Which sentence gives a reason?",
+    "audioPrompt": "Ava likes painting. Which sentence gives a reason?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la02.svg#ac9e1la02-p-005",
-      "alt_text": "📖 Give an oral preference; 🔎 prefer; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "States one choice and a relevant reason in a complete sentence",
-      "Do not check the reason explains the choice.",
-      "Leave out because and a real reason."
+      "I like painting.",
+      "I like painting because it is fun.",
+      "Painting is here."
     ],
-    "correct": 0,
-    "explanation": "States one choice and a relevant reason in a complete sentence uses the skill correctly. Check the reason explains the choice.\nHint: Check the reason explains the choice.",
+    "correct": 1,
+    "explanation": "I like painting because it is fun. is the best answer.",
     "structuredExplanation": {
-      "summary": "States one choice and a relevant reason in a complete sentence uses the skill correctly. Check the reason explains the choice.",
-      "hint": "Check the reason explains the choice."
+      "summary": "I like painting because it is fun. is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 33
   },
   {
     "id": "ac9e1la02-p-034",
     "curriculumCode": "AC9E1LA02",
     "bank": "practice",
-    "skill": "ac9e1la02 04 apply",
+    "skill": "explore language to provide reasons for likes, dislikes and preferences",
     "printable": true,
     "type": "single",
-    "question": "Which choice would best use this skill in a new example?",
-    "audioPrompt": "Which choice would best use this skill in a new example?",
-    "visual": "📖 Improve a weak reason; 🔎 because; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Improve a weak reason; 🔎 because; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la02.svg#ac9e1la02-p-007\"></use></svg>",
+    "question": "Read and choose: Which sentence tells a preference?",
+    "audioPrompt": "Read and choose: Which sentence tells a preference?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la02.svg#ac9e1la02-p-007",
-      "alt_text": "📖 Improve a weak reason; 🔎 because; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "I prefer apples because apples are better",
-      "'I prefer apples because they are crisp and easy to pack'",
-      "Leave out because and a real reason."
+      "I like swimming more than skipping.",
+      "Skipping is an activity.",
+      "I can do both."
     ],
-    "correct": 1,
-    "explanation": "'I prefer apples because they are crisp and easy to pack' uses the skill correctly. Add because and a real reason.\nHint: Add because and a real reason.",
+    "correct": 0,
+    "explanation": "I like swimming more than skipping. is the best answer.",
     "structuredExplanation": {
-      "summary": "'I prefer apples because they are crisp and easy to pack' uses the skill correctly. Add because and a real reason.",
-      "hint": "Add because and a real reason."
+      "summary": "I like swimming more than skipping. is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 34
   },
   {
     "id": "ac9e1la02-p-035",
     "curriculumCode": "AC9E1LA02",
     "bank": "practice",
-    "skill": "ac9e1la02 05 apply",
+    "skill": "explore language to provide reasons for likes, dislikes and preferences",
     "printable": true,
     "type": "single",
-    "question": "Which choice would best use this skill in a new example?",
-    "audioPrompt": "Which choice would best use this skill in a new example?",
-    "visual": "📖 Order a reasoned response; 🔎 reason; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Order a reasoned response; 🔎 reason; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la02.svg#ac9e1la02-p-009\"></use></svg>",
+    "question": "Zoe does not like loud music. Which sentence explains why?",
+    "audioPrompt": "Zoe does not like loud music. Which sentence explains why?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la02.svg#ac9e1la02-p-009",
-      "alt_text": "📖 Order a reasoned response; 🔎 reason; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "optional comparison → give reason → add because → Name choice",
-      "Do not use like, dislike, prefer and reason language.",
-      "Name choice → add because → give reason → optional comparison"
+      "Music can be loud.",
+      "I dislike it because it hurts my ears.",
+      "I dislike it."
     ],
-    "correct": 2,
-    "explanation": "Name choice → add because → give reason → optional comparison uses the skill correctly. Use like, dislike, prefer and reason language.\nHint: Use like, dislike, prefer and reason language.",
+    "correct": 1,
+    "explanation": "I dislike it because it hurts my ears. is the best answer.",
     "structuredExplanation": {
-      "summary": "Name choice → add because → give reason → optional comparison uses the skill correctly. Use like, dislike, prefer and reason language.",
-      "hint": "Use like, dislike, prefer and reason language."
+      "summary": "I dislike it because it hurts my ears. is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 35
   },
   {
     "id": "ac9e1la02-p-036",
     "curriculumCode": "AC9E1LA02",
     "bank": "practice",
-    "skill": "ac9e1la02 06 apply",
+    "skill": "explore language to provide reasons for likes, dislikes and preferences",
     "printable": true,
     "type": "single",
-    "question": "Which choice would best use this skill in a new example?",
-    "audioPrompt": "Which choice would best use this skill in a new example?",
-    "visual": "📖 Draw choice and evidence; 🔎 like; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Draw choice and evidence; 🔎 like; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la02.svg#ac9e1la02-p-011\"></use></svg>",
+    "question": "Finish the sentence: “I like the fox because …”",
+    "audioPrompt": "Finish the sentence: “I like the fox because …”",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la02.svg#ac9e1la02-p-011",
-      "alt_text": "📖 Draw choice and evidence; 🔎 like; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Picture shows both options and sentence chooses shade for a relevant heat/sun reason",
-      "Do not check the reason explains the choice.",
-      "Leave out because and a real reason."
+      "and because.",
+      "it is gentle.",
+      "the end."
     ],
-    "correct": 0,
-    "explanation": "Picture shows both options and sentence chooses shade for a relevant heat/sun reason uses the skill correctly. Check the reason explains the choice.\nHint: Check the reason explains the choice.",
+    "correct": 1,
+    "explanation": "it is gentle. is the best answer.",
     "structuredExplanation": {
-      "summary": "Picture shows both options and sentence chooses shade for a relevant heat/sun reason uses the skill correctly. Check the reason explains the choice.",
-      "hint": "Check the reason explains the choice."
+      "summary": "it is gentle. is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 36
   },
   {
     "id": "ac9e1la02-p-037",
     "curriculumCode": "AC9E1LA02",
     "bank": "practice",
-    "skill": "ac9e1la02 07 apply",
+    "skill": "explore language to provide reasons for likes, dislikes and preferences",
     "printable": true,
     "type": "single",
-    "question": "Which choice would best use this skill in a new example?",
-    "audioPrompt": "Which choice would best use this skill in a new example?",
-    "visual": "📖 Separate fact and preference; 🔎 dislike; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Separate fact and preference; 🔎 dislike; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la02.svg#ac9e1la02-p-013\"></use></svg>",
+    "question": "Which word can join a choice to its reason?",
+    "audioPrompt": "Which word can join a choice to its reason?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la02.svg#ac9e1la02-p-013",
-      "alt_text": "📖 Separate fact and preference; 🔎 dislike; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "The red bag has two pockets",
-      "Two pockets is a checkable fact; liking it best is a personal preference",
-      "I like the red bag best"
+      "because",
+      "then",
+      "under"
     ],
-    "correct": 1,
-    "explanation": "Two pockets is a checkable fact; liking it best is a personal preference uses the skill correctly. Add because and a real reason.\nHint: Add because and a real reason.",
+    "correct": 0,
+    "explanation": "because is the best answer.",
     "structuredExplanation": {
-      "summary": "Two pockets is a checkable fact; liking it best is a personal preference uses the skill correctly. Add because and a real reason.",
-      "hint": "Add because and a real reason."
+      "summary": "because is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 37
   },
   {
     "id": "ac9e1la02-p-038",
     "curriculumCode": "AC9E1LA02",
     "bank": "practice",
-    "skill": "ac9e1la02 08 apply",
+    "skill": "explore language to provide reasons for likes, dislikes and preferences",
     "printable": true,
     "type": "single",
-    "question": "Which choice would best use this skill in a new example?",
-    "audioPrompt": "Which choice would best use this skill in a new example?",
-    "visual": "📖 Give respectful disagreement; 🔎 prefer; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Give respectful disagreement; 🔎 prefer; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la02.svg#ac9e1la02-p-015\"></use></svg>",
+    "question": "Ben chooses the red bag. What could Ben say?",
+    "audioPrompt": "Ben chooses the red bag. What could Ben say?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la02.svg#ac9e1la02-p-015",
-      "alt_text": "📖 Give respectful disagreement; 🔎 prefer; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Do not use like, dislike, prefer and reason language.",
-      "Do not check the reason explains the choice.",
-      "Uses respectful wording, names an alternative and gives a connected reason"
+      "Put down the bag.",
+      "I prefer the red bag.",
+      "Where is the bag?"
     ],
-    "correct": 2,
-    "explanation": "Uses respectful wording, names an alternative and gives a connected reason uses the skill correctly. Use like, dislike, prefer and reason language.\nHint: Use like, dislike, prefer and reason language.",
+    "correct": 1,
+    "explanation": "I prefer the red bag. is the best answer.",
     "structuredExplanation": {
-      "summary": "Uses respectful wording, names an alternative and gives a connected reason uses the skill correctly. Use like, dislike, prefer and reason language.",
-      "hint": "Use like, dislike, prefer and reason language."
+      "summary": "I prefer the red bag. is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 38
   },
   {
     "id": "ac9e1la02-p-039",
     "curriculumCode": "AC9E1LA02",
     "bank": "practice",
-    "skill": "ac9e1la02 09 apply",
+    "skill": "explore language to provide reasons for likes, dislikes and preferences",
     "printable": true,
     "type": "single",
-    "question": "Which choice would best use this skill in a new example?",
-    "audioPrompt": "Which choice would best use this skill in a new example?",
-    "visual": "📖 Complete a reason; 🔎 because; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Complete a reason; 🔎 because; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la02.svg#ac9e1la02-p-017\"></use></svg>",
+    "question": "Which answer gives a clear reason for liking the farm?",
+    "audioPrompt": "Which answer gives a clear reason for liking the farm?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la02.svg#ac9e1la02-p-017",
-      "alt_text": "📖 Complete a reason; 🔎 because; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "'because it holds more water for the long walk'",
-      "I would choose the larger water bottle because ___",
-      "Do not check the reason explains the choice."
+      "The farm is a place.",
+      "I like the farm.",
+      "I like the farm because I can play there."
     ],
-    "correct": 0,
-    "explanation": "'because it holds more water for the long walk' uses the skill correctly. Check the reason explains the choice.\nHint: Check the reason explains the choice.",
+    "correct": 2,
+    "explanation": "I like the farm because I can play there. is the best answer.",
     "structuredExplanation": {
-      "summary": "'because it holds more water for the long walk' uses the skill correctly. Check the reason explains the choice.",
-      "hint": "Check the reason explains the choice."
+      "summary": "I like the farm because I can play there. is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 39
   },
   {
     "id": "ac9e1la02-p-040",
     "curriculumCode": "AC9E1LA02",
     "bank": "practice",
-    "skill": "ac9e1la02 10 apply",
+    "skill": "explore language to provide reasons for likes, dislikes and preferences",
     "printable": true,
     "type": "single",
-    "question": "Which choice would best use this skill in a new example?",
-    "audioPrompt": "Which choice would best use this skill in a new example?",
-    "visual": "📖 Match reasons to audiences; 🔎 reason; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Match reasons to audiences; 🔎 reason; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la02.svg#ac9e1la02-p-019\"></use></svg>",
+    "question": "Kim likes apples, but likes pears more. What does Kim prefer?",
+    "audioPrompt": "Kim likes apples, but likes pears more. What does Kim prefer?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la02.svg#ac9e1la02-p-019",
-      "alt_text": "📖 Match reasons to audiences; 🔎 reason; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Leave out because and a real reason.",
-      "Each option matches its relevant practical reason",
-      "Do not use like, dislike, prefer and reason language."
+      "apples",
+      "pears",
+      "both the same"
     ],
     "correct": 1,
-    "explanation": "Each option matches its relevant practical reason uses the skill correctly. Add because and a real reason.\nHint: Add because and a real reason.",
+    "explanation": "pears is the best answer.",
     "structuredExplanation": {
-      "summary": "Each option matches its relevant practical reason uses the skill correctly. Add because and a real reason.",
-      "hint": "Add because and a real reason."
+      "summary": "pears is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 40
+  },
+  {
+    "id": "ac9e1la02-p-041",
+    "curriculumCode": "AC9E1LA02",
+    "bank": "practice",
+    "skill": "explore language to provide reasons for likes, dislikes and preferences",
+    "printable": true,
+    "type": "single",
+    "question": "Leo likes painting. Which sentence gives a reason?",
+    "audioPrompt": "Leo likes painting. Which sentence gives a reason?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Painting is here.",
+      "I like painting.",
+      "I like painting because it is fun."
+    ],
+    "correct": 2,
+    "explanation": "I like painting because it is fun. is the best answer.",
+    "structuredExplanation": {
+      "summary": "I like painting because it is fun. is the best answer."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 41,
+    "qualitySchema": "reviewed-year1-english-v1"
+  },
+  {
+    "id": "ac9e1la02-p-042",
+    "curriculumCode": "AC9E1LA02",
+    "bank": "practice",
+    "skill": "explore language to provide reasons for likes, dislikes and preferences",
+    "printable": true,
+    "type": "single",
+    "question": "Which sentence tells a preference?",
+    "audioPrompt": "Which sentence tells a preference?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "I can do both.",
+      "Skipping is an activity.",
+      "I like swimming more than skipping."
+    ],
+    "correct": 2,
+    "explanation": "I like swimming more than skipping. is the best answer.",
+    "structuredExplanation": {
+      "summary": "I like swimming more than skipping. is the best answer."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 42,
+    "qualitySchema": "reviewed-year1-english-v1"
+  },
+  {
+    "id": "ac9e1la02-p-043",
+    "curriculumCode": "AC9E1LA02",
+    "bank": "practice",
+    "skill": "explore language to provide reasons for likes, dislikes and preferences",
+    "printable": true,
+    "type": "single",
+    "question": "Max does not like loud music. Which sentence explains why?",
+    "audioPrompt": "Max does not like loud music. Which sentence explains why?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "I dislike it because it hurts my ears.",
+      "Music can be loud.",
+      "I dislike it."
+    ],
+    "correct": 0,
+    "explanation": "I dislike it because it hurts my ears. is the best answer.",
+    "structuredExplanation": {
+      "summary": "I dislike it because it hurts my ears. is the best answer."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 43,
+    "qualitySchema": "reviewed-year1-english-v1"
+  },
+  {
+    "id": "ac9e1la02-p-044",
+    "curriculumCode": "AC9E1LA02",
+    "bank": "practice",
+    "skill": "explore language to provide reasons for likes, dislikes and preferences",
+    "printable": true,
+    "type": "single",
+    "question": "Finish the sentence: “I like the duck because …”",
+    "audioPrompt": "Finish the sentence: “I like the duck because …”",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "the end.",
+      "and because.",
+      "it is gentle."
+    ],
+    "correct": 2,
+    "explanation": "it is gentle. is the best answer.",
+    "structuredExplanation": {
+      "summary": "it is gentle. is the best answer."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 44,
+    "qualitySchema": "reviewed-year1-english-v1"
+  },
+  {
+    "id": "ac9e1la02-p-045",
+    "curriculumCode": "AC9E1LA02",
+    "bank": "practice",
+    "skill": "explore language to provide reasons for likes, dislikes and preferences",
+    "printable": true,
+    "type": "single",
+    "question": "Read and choose: Which word can join a choice to its reason?",
+    "audioPrompt": "Read and choose: Which word can join a choice to its reason?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "because",
+      "then",
+      "under"
+    ],
+    "correct": 0,
+    "explanation": "because is the best answer.",
+    "structuredExplanation": {
+      "summary": "because is the best answer."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 45,
+    "qualitySchema": "reviewed-year1-english-v1"
+  },
+  {
+    "id": "ac9e1la02-p-046",
+    "curriculumCode": "AC9E1LA02",
+    "bank": "practice",
+    "skill": "explore language to provide reasons for likes, dislikes and preferences",
+    "printable": true,
+    "type": "single",
+    "question": "Sam chooses the red ball. What could Sam say?",
+    "audioPrompt": "Sam chooses the red ball. What could Sam say?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Where is the ball?",
+      "Put down the ball.",
+      "I prefer the red ball."
+    ],
+    "correct": 2,
+    "explanation": "I prefer the red ball. is the best answer.",
+    "structuredExplanation": {
+      "summary": "I prefer the red ball. is the best answer."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 46,
+    "qualitySchema": "reviewed-year1-english-v1"
+  },
+  {
+    "id": "ac9e1la02-p-047",
+    "curriculumCode": "AC9E1LA02",
+    "bank": "practice",
+    "skill": "explore language to provide reasons for likes, dislikes and preferences",
+    "printable": true,
+    "type": "single",
+    "question": "Which answer gives a clear reason for liking the zoo?",
+    "audioPrompt": "Which answer gives a clear reason for liking the zoo?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "The zoo is a place.",
+      "I like the zoo because I can play there.",
+      "I like the zoo."
+    ],
+    "correct": 1,
+    "explanation": "I like the zoo because I can play there. is the best answer.",
+    "structuredExplanation": {
+      "summary": "I like the zoo because I can play there. is the best answer."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 47,
+    "qualitySchema": "reviewed-year1-english-v1"
+  },
+  {
+    "id": "ac9e1la02-p-048",
+    "curriculumCode": "AC9E1LA02",
+    "bank": "practice",
+    "skill": "explore language to provide reasons for likes, dislikes and preferences",
+    "printable": true,
+    "type": "single",
+    "question": "Ava likes apples, but likes pears more. What does Ava prefer?",
+    "audioPrompt": "Ava likes apples, but likes pears more. What does Ava prefer?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "both the same",
+      "apples",
+      "pears"
+    ],
+    "correct": 2,
+    "explanation": "pears is the best answer.",
+    "structuredExplanation": {
+      "summary": "pears is the best answer."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 48,
+    "qualitySchema": "reviewed-year1-english-v1"
   }
 ];
-window.quizQuestions = window.skillrPracticeQuestions;
