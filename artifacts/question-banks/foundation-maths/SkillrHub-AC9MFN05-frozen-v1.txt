@@ -1,0 +1,438 @@
+SkillrHub Frozen Question Bank
+Foundation Maths — AC9MFN05
+Represent practical addition and subtraction situations
+
+Status: APPROVED FOR FREEZING by user review, with visual layout cleanup and option text trims applied.
+Version: frozen-v1
+
+Adult guidance: Read aloud. Children may use counters, blocks, fingers, drawings or dot cards. The focus is modelling the story, deciding whether objects are being added, taken away, or counted, and using counting or subitising to find the result.
+
+PRACTICE QUESTIONS 1–24
+
+P01. Mia has 3 apples. Dad gives her 2 more apples. How many apples does Mia have now?
+
+A. 4
+B. 5
+C. 6
+
+Answer: B
+Explanation: Mia starts with 3 apples and gets 2 more. 3 and 2 make 5.
+
+P02. There are 4 ducks in a pond. 1 more duck swims in. How many ducks are in the pond now?
+
+A. 3
+B. 4
+C. 5
+
+Answer: C
+Explanation: One more than 4 is 5.
+
+P03. Sam has 5 blocks. He gives 2 blocks to Ava. How many blocks does Sam have left?
+
+A. 3
+B. 4
+C. 7
+
+Answer: A
+Explanation: Sam starts with 5 and gives away 2. He has 3 left.
+
+P04. There are 6 birds on a fence. 1 bird flies away. How many birds are left?
+
+A. 5
+B. 6
+C. 7
+
+Answer: A
+Explanation: One less than 6 is 5.
+
+P05. Look at the story.
+
+First: ● ●
+More: ● ● ●
+
+How many altogether?
+
+A. 4
+B. 5
+C. 6
+
+Answer: B
+Explanation: 2 counters and 3 more counters make 5 altogether.
+
+P06. Look at the story.
+
+First: ● ● ● ●
+More: ●
+
+How many altogether?
+
+A. 4
+B. 5
+C. 6
+
+Answer: B
+Explanation: 4 and 1 more make 5.
+
+P07. Look at the story.
+
+Start: ● ● ● ● ●
+Taken away: ● ●
+
+How many are left?
+
+A. 2
+B. 3
+C. 7
+
+Answer: B
+Explanation: If 2 are taken away from 5, 3 are left.
+
+P08. There are 7 shells on the sand. A child picks up 2 shells. How many shells are still on the sand?
+
+A. 5
+B. 6
+C. 9
+
+Answer: A
+Explanation: 7 take away 2 leaves 5.
+
+P09. A plate has 5 biscuits. Mum puts 3 more biscuits on the plate. How many biscuits are on the plate now?
+
+A. 7
+B. 8
+C. 9
+
+Answer: B
+Explanation: 5 and 3 more make 8.
+
+P10. A child has 8 stickers. They use 3 stickers. How many stickers are left?
+
+A. 4
+B. 5
+C. 6
+
+Answer: B
+Explanation: Starting with 8 and using 3 leaves 5.
+
+P11. Which action shows adding?
+
+A. Putting 2 more counters into the group
+B. Taking 2 counters away
+C. Hiding all the counters
+
+Answer: A
+Explanation: Adding means putting more into the group.
+
+P12. Which action shows subtraction?
+
+A. Putting more blocks on the mat
+B. Taking some blocks off the mat
+C. Counting the same blocks again
+
+Answer: B
+Explanation: Subtraction can mean taking some away.
+
+P13. There are 6 toy cars. 2 more toy cars are added. Which number story matches?
+
+A. 6 and 2 make 8
+B. 6 take away 2 leaves 4
+C. 2 take away 6 leaves 8
+
+Answer: A
+Explanation: The story adds 2 more cars to 6 cars.
+
+P14. There are 9 flowers. 4 flowers are picked. Which number story matches?
+
+A. 9 and 4 make 13
+B. 9 take away 4 leaves 5
+C. 4 take away 9 leaves 5
+
+Answer: B
+Explanation: The flowers are taken away, so 9 becomes 5.
+
+P15. Which picture matches “4 children are sitting. 3 more children sit down”?
+
+A.
+Sitting: ● ● ● ●
+More sit down: ● ● ●
+
+B.
+Sitting: ● ● ● ●
+Leave: ● ● ●
+
+C.
+Sitting: ● ● ●
+More sit down: ● ● ● ●
+
+Answer: A
+Explanation: The story starts with 4 and adds 3 more.
+
+P16. Which picture matches “8 balloons. 2 balloons pop”?
+
+A.
+Start: ● ● ● ● ● ● ● ●
+More: ● ●
+
+B.
+Start: ● ● ● ● ● ● ● ●
+Pop: ✕ ✕
+
+C.
+Start: ● ●
+More: ● ● ● ● ● ● ● ●
+
+Answer: B
+Explanation: Balloons popping means 2 are taken away.
+
+P17. A basket has 10 oranges. 1 orange is eaten. How many oranges are left?
+
+A. 9
+B. 10
+C. 11
+
+Answer: A
+Explanation: One less than 10 is 9.
+
+P18. There are 6 crayons on a table. 4 more crayons are put on the table. How many crayons are there now?
+
+A. 9
+B. 10
+C. 11
+
+Answer: B
+Explanation: 6 and 4 combine to make 10.
+
+P19. A child counts 7 counters on a mat. No counters are added or taken away. How many counters are on the mat?
+
+A. 6
+B. 7
+C. 8
+
+Answer: B
+Explanation: If nothing changes, the number stays 7.
+
+P20. Which question is asking “how many altogether”?
+
+A. There are 3 red blocks and 2 blue blocks. How many blocks are there?
+B. There are 5 blocks. 2 are taken away. How many are left?
+C. There are 6 blocks. Which block is red?
+
+Answer: A
+Explanation: “Altogether” asks us to combine the groups.
+
+P21. Which question is asking “how many are left”?
+
+A. 4 and 5 blocks are put together. How many altogether?
+B. 9 blocks are on the mat. 3 are moved away. How many are left?
+C. Count the 7 blocks on the mat.
+
+Answer: B
+Explanation: “Left” often means some have been taken away.
+
+P22. There are 5 frogs on a log. 5 more frogs jump onto the log. How many frogs are on the log now?
+
+A. 5
+B. 9
+C. 10
+
+Answer: C
+Explanation: 5 and 5 make 10.
+
+P23. There are 10 children in a line. 4 children leave the line. How many children are still in the line?
+
+A. 4
+B. 6
+C. 10
+
+Answer: B
+Explanation: 10 take away 4 leaves 6.
+
+P24. Look at the counters.
+
+● ● ● ● ●
+● ●
+
+Which story could match the picture?
+
+A. 5 and 2 make 7.
+B. 7 take away 5 leaves 2.
+C. 2 take away 5 leaves 7.
+
+Answer: A
+Explanation: The picture shows 5 counters and 2 more counters, making 7 altogether.
+
+TEST QUESTIONS 1–16
+
+T01. Lily has 2 pencils. She gets 4 more pencils. How many pencils does she have now?
+
+A. 5
+B. 6
+C. 7
+
+Answer: B
+Explanation: 2 and 4 more make 6.
+
+T02. There are 5 fish in a bowl. 1 fish is moved to another bowl. How many fish are left?
+
+A. 4
+B. 5
+C. 6
+
+Answer: A
+Explanation: 5 take away 1 leaves 4.
+
+T03. Look at the story.
+
+First: ● ● ●
+More: ● ● ●
+
+How many altogether?
+
+A. 5
+B. 6
+C. 7
+
+Answer: B
+Explanation: 3 and 3 make 6.
+
+T04. Look at the story.
+
+Start: ● ● ● ● ● ●
+Taken away: ● ●
+
+How many are left?
+
+A. 3
+B. 4
+C. 5
+
+Answer: B
+Explanation: 6 take away 2 leaves 4.
+
+T05. There are 7 cups on a table. 3 more cups are added. How many cups are on the table now?
+
+A. 9
+B. 10
+C. 11
+
+Answer: B
+Explanation: 7 and 3 more make 10.
+
+T06. There are 10 stars on a chart. 2 stars are covered. How many stars can still be seen?
+
+A. 7
+B. 8
+C. 9
+
+Answer: B
+Explanation: 10 take away 2 leaves 8.
+
+T07. Which action matches this story: “There are 4 balls. 2 more balls roll in”?
+
+A. Add 2 balls
+B. Take away 2 balls
+C. Keep the balls the same
+
+Answer: A
+Explanation: “More balls roll in” means 2 are added.
+
+T08. Which action matches this story: “There are 9 leaves. 3 leaves blow away”?
+
+A. Add 3 leaves
+B. Take away 3 leaves
+C. Count 3 leaves twice
+
+Answer: B
+Explanation: “Blow away” means the leaves are taken away.
+
+T09. Which number story matches “5 shells and 4 more shells”?
+
+A. 5 and 4 make 9
+B. 5 take away 4 leaves 1
+C. 4 take away 5 leaves 9
+
+Answer: A
+Explanation: The story combines 5 shells and 4 more shells.
+
+T10. Which number story matches “8 counters, 3 counters are removed”?
+
+A. 8 and 3 make 11
+B. 8 take away 3 leaves 5
+C. 3 and 5 make 8
+
+Answer: B
+Explanation: Removed means taken away.
+
+T11. A child has 6 beads. No beads are added. No beads are taken away. How many beads does the child have?
+
+A. 5
+B. 6
+C. 7
+
+Answer: B
+Explanation: The number stays the same when nothing is added or taken away.
+
+T12. Which picture matches “3 teddies and 5 more teddies”?
+
+A.
+First: ● ● ●
+More: ● ● ● ● ●
+
+B.
+Start: ● ● ● ● ●
+Taken away: ● ● ●
+
+C.
+Start: ● ● ●
+Taken away: ● ●
+
+Answer: A
+Explanation: The story adds 5 more to 3.
+
+T13. Which picture matches “9 apples, 4 apples are eaten”?
+
+A.
+Start: ● ● ● ● ● ● ● ● ●
+More: ● ● ● ●
+
+B.
+Start: ● ● ● ● ● ● ● ● ●
+Eaten: ✕ ✕ ✕ ✕
+
+C.
+First: ● ● ● ●
+More: ● ● ● ● ●
+
+Answer: B
+Explanation: Apples being eaten means they are taken away.
+
+T14. There are 4 red counters and 4 blue counters. How many counters altogether?
+
+A. 4
+B. 8
+C. 9
+
+Answer: B
+Explanation: 4 and 4 combine to make 8.
+
+T15. There are 10 blocks in a tower. 5 blocks fall off. How many blocks are still in the tower?
+
+A. 5
+B. 6
+C. 10
+
+Answer: A
+Explanation: 10 take away 5 leaves 5.
+
+T16. Which answer gives a good reason?
+
+Story: 6 birds are in a tree. 2 more birds fly in.
+
+A. Add 2 because more birds fly in.
+B. Take away 2 because birds fly in.
+C. Stays 6 because birds fly in.
+
+Answer: A
+Explanation: When more birds fly in, the group gets larger, so we add 2.
+
+Coverage: practical addition stories; practical subtraction stories; quantifying unchanged collections; choosing whether to add or take away; representing stories with counters; using counting, one more/less, and small-number combinations up to 10.
