@@ -21,6 +21,9 @@ window.skillrPracticeQuestions = [
       "below the canteen",
       "inside the canteen"
     ],
+    "difficulty": 1,
+    "difficultyTier": "confidence",
+    "sequencePriority": 1,
     "correct": 0,
     "explanation": "The library is higher on the map, so it is above the canteen.\nHint: Find the canteen first, then look directly higher.",
     "structuredExplanation": {
@@ -50,6 +53,9 @@ window.skillrPracticeQuestions = [
       "2 squares to the right",
       "2 squares up"
     ],
+    "difficulty": 1,
+    "difficultyTier": "confidence",
+    "sequencePriority": 1,
     "correct": 1,
     "explanation": "Moving right keeps the same row and increases the column by 2.\nHint: Face the top of the map, then move toward your right hand.",
     "structuredExplanation": {
@@ -79,6 +85,9 @@ window.skillrPracticeQuestions = [
       "up 1, then left 2",
       "down 1, then right 2"
     ],
+    "difficulty": 1,
+    "difficultyTier": "confidence",
+    "sequencePriority": 1,
     "correct": 2,
     "explanation": "Directions must be followed in order: down 1 first, then right 2.\nHint: Do one instruction at a time and mark each stop.",
     "structuredExplanation": {
@@ -108,6 +117,9 @@ window.skillrPracticeQuestions = [
       "the slide",
       "the bench"
     ],
+    "difficulty": 1,
+    "difficultyTier": "confidence",
+    "sequencePriority": 1,
     "correct": 0,
     "explanation": "Between means in the middle of two landmarks.\nHint: Name the object with one landmark on each side.",
     "structuredExplanation": {
@@ -137,6 +149,9 @@ window.skillrPracticeQuestions = [
       "where things are from above",
       "what time the class starts"
     ],
+    "difficulty": 1,
+    "difficultyTier": "confidence",
+    "sequencePriority": 1,
     "correct": 1,
     "explanation": "A map is a two-dimensional view that shows positions from above.\nHint: Imagine looking down at the room from the ceiling.",
     "structuredExplanation": {
@@ -166,6 +181,9 @@ window.skillrPracticeQuestions = [
       "Move somewhere near the wall",
       "Walk 2 squares up to the door"
     ],
+    "difficulty": 1,
+    "difficultyTier": "confidence",
+    "sequencePriority": 1,
     "correct": 2,
     "explanation": "The first direction gives a distance, direction and landmark.\nHint: A useful direction should tell how far and which way.",
     "structuredExplanation": {
@@ -195,6 +213,9 @@ window.skillrPracticeQuestions = [
       "1",
       "3"
     ],
+    "difficulty": 1,
+    "difficultyTier": "confidence",
+    "sequencePriority": 1,
     "correct": 0,
     "explanation": "The robot makes two right moves, so it finishes 2 squares to the right.\nHint: Track horizontal and vertical moves separately.",
     "structuredExplanation": {
@@ -224,6 +245,9 @@ window.skillrPracticeQuestions = [
       "A different order can end at a different place",
       "The landmarks disappear"
     ],
+    "difficulty": 1,
+    "difficultyTier": "confidence",
+    "sequencePriority": 1,
     "correct": 1,
     "explanation": "Changing the order can change the pathway and finishing position.\nHint: Try swapping the first two moves on the grid.",
     "structuredExplanation": {
@@ -253,6 +277,8 @@ window.skillrPracticeQuestions = [
       "inside the canteen",
       "above the canteen"
     ],
+    "difficulty": 3,
+    "sequencePriority": 2,
     "correct": 2,
     "explanation": "The library is higher on the map, so it is above the canteen.\nHint: Find the canteen first, then look directly higher.",
     "structuredExplanation": {
@@ -282,6 +308,8 @@ window.skillrPracticeQuestions = [
       "2 squares to the left",
       "2 squares up"
     ],
+    "difficulty": 3,
+    "sequencePriority": 2,
     "correct": 0,
     "explanation": "Moving right keeps the same row and increases the column by 2.\nHint: Face the top of the map, then move toward your right hand.",
     "structuredExplanation": {
@@ -311,6 +339,8 @@ window.skillrPracticeQuestions = [
       "down 1, then right 2",
       "up 1, then left 2"
     ],
+    "difficulty": 3,
+    "sequencePriority": 2,
     "correct": 1,
     "explanation": "Directions must be followed in order: down 1 first, then right 2.\nHint: Do one instruction at a time and mark each stop.",
     "structuredExplanation": {
@@ -340,6 +370,8 @@ window.skillrPracticeQuestions = [
       "the bench",
       "the tree"
     ],
+    "difficulty": 3,
+    "sequencePriority": 2,
     "correct": 2,
     "explanation": "Between means in the middle of two landmarks.\nHint: Name the object with one landmark on each side.",
     "structuredExplanation": {
@@ -369,6 +401,8 @@ window.skillrPracticeQuestions = [
       "how heavy the furniture is",
       "what time the class starts"
     ],
+    "difficulty": 3,
+    "sequencePriority": 2,
     "correct": 0,
     "explanation": "A map is a two-dimensional view that shows positions from above.\nHint: Imagine looking down at the room from the ceiling.",
     "structuredExplanation": {
@@ -398,6 +432,8 @@ window.skillrPracticeQuestions = [
       "Walk 2 squares up to the door",
       "Move somewhere near the wall"
     ],
+    "difficulty": 3,
+    "sequencePriority": 2,
     "correct": 1,
     "explanation": "The first direction gives a distance, direction and landmark.\nHint: A useful direction should tell how far and which way.",
     "structuredExplanation": {
@@ -427,6 +463,8 @@ window.skillrPracticeQuestions = [
       "3",
       "2"
     ],
+    "difficulty": 3,
+    "sequencePriority": 2,
     "correct": 2,
     "explanation": "The robot makes two right moves, so it finishes 2 squares to the right.\nHint: Track horizontal and vertical moves separately.",
     "structuredExplanation": {
@@ -456,6 +494,8 @@ window.skillrPracticeQuestions = [
       "The map changes colour",
       "The landmarks disappear"
     ],
+    "difficulty": 3,
+    "sequencePriority": 2,
     "correct": 0,
     "explanation": "Changing the order can change the pathway and finishing position.\nHint: Try swapping the first two moves on the grid.",
     "structuredExplanation": {
@@ -485,6 +525,8 @@ window.skillrPracticeQuestions = [
       "above the canteen",
       "inside the canteen"
     ],
+    "difficulty": 3,
+    "sequencePriority": 2,
     "correct": 1,
     "explanation": "The library is higher on the map, so it is above the canteen.\nHint: Find the canteen first, then look directly higher.",
     "structuredExplanation": {
@@ -514,6 +556,8 @@ window.skillrPracticeQuestions = [
       "2 squares up",
       "2 squares to the right"
     ],
+    "difficulty": 3,
+    "sequencePriority": 2,
     "correct": 2,
     "explanation": "Moving right keeps the same row and increases the column by 2.\nHint: Face the top of the map, then move toward your right hand.",
     "structuredExplanation": {
@@ -543,6 +587,8 @@ window.skillrPracticeQuestions = [
       "right 1, then down 2",
       "up 1, then left 2"
     ],
+    "difficulty": 3,
+    "sequencePriority": 2,
     "correct": 0,
     "explanation": "Directions must be followed in order: down 1 first, then right 2.\nHint: Do one instruction at a time and mark each stop.",
     "structuredExplanation": {
@@ -572,6 +618,8 @@ window.skillrPracticeQuestions = [
       "the tree",
       "the bench"
     ],
+    "difficulty": 3,
+    "sequencePriority": 2,
     "correct": 1,
     "explanation": "Between means in the middle of two landmarks.\nHint: Name the object with one landmark on each side.",
     "structuredExplanation": {
@@ -601,6 +649,8 @@ window.skillrPracticeQuestions = [
       "what time the class starts",
       "where things are from above"
     ],
+    "difficulty": 3,
+    "sequencePriority": 2,
     "correct": 2,
     "explanation": "A map is a two-dimensional view that shows positions from above.\nHint: Imagine looking down at the room from the ceiling.",
     "structuredExplanation": {
@@ -630,6 +680,8 @@ window.skillrPracticeQuestions = [
       "Go over there",
       "Move somewhere near the wall"
     ],
+    "difficulty": 3,
+    "sequencePriority": 2,
     "correct": 0,
     "explanation": "The first direction gives a distance, direction and landmark.\nHint: A useful direction should tell how far and which way.",
     "structuredExplanation": {
@@ -659,6 +711,8 @@ window.skillrPracticeQuestions = [
       "2",
       "3"
     ],
+    "difficulty": 3,
+    "sequencePriority": 2,
     "correct": 1,
     "explanation": "The robot makes two right moves, so it finishes 2 squares to the right.\nHint: Track horizontal and vertical moves separately.",
     "structuredExplanation": {
@@ -688,11 +742,685 @@ window.skillrPracticeQuestions = [
       "The landmarks disappear",
       "A different order can end at a different place"
     ],
+    "difficulty": 3,
+    "sequencePriority": 2,
     "correct": 2,
     "explanation": "Changing the order can change the pathway and finishing position.\nHint: Try swapping the first two moves on the grid.",
     "structuredExplanation": {
       "summary": "Changing the order can change the pathway and finishing position.",
       "hint": "Try swapping the first two moves on the grid."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m2sp02-p-025",
+    "curriculumCode": "AC9M2SP02",
+    "bank": "practice",
+    "skill": "at the school garden move 2",
+    "printable": true,
+    "type": "single",
+    "question": "At the school garden, move 2 squares right then 1 square up. Which path matches?",
+    "audioPrompt": "At the school garden, move 2 squares right then 1 square up. Which path matches?",
+    "visual": "At the school garden, move 2 squares right then 1 square up. Which path matches?",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": "At the school garden, move 2 squares right then 1 square up. Which path matches?"
+    },
+    "answers": [
+      "right 2, up 1",
+      "up 2, right 1",
+      "left 2, up 1"
+    ],
+    "correct": 0,
+    "explanation": "Position words and ordered steps help describe location.\nHint: Use the information in the question to check your answer.",
+    "structuredExplanation": {
+      "summary": "Position words and ordered steps help describe location.",
+      "hint": "Use the information in the question to check your answer."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m2sp02-p-026",
+    "curriculumCode": "AC9M2SP02",
+    "bank": "practice",
+    "skill": "during maths groups which instruction is",
+    "printable": true,
+    "type": "single",
+    "question": "During maths groups, which instruction is clearest?",
+    "audioPrompt": "During maths groups, which instruction is clearest?",
+    "visual": "During maths groups, which instruction is clearest?",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": "During maths groups, which instruction is clearest?"
+    },
+    "answers": [
+      "go there",
+      "move a bit",
+      "walk 3 steps left"
+    ],
+    "correct": 2,
+    "explanation": "Position words and ordered steps help describe location.\nHint: Use the information in the question to check your answer.",
+    "structuredExplanation": {
+      "summary": "Position words and ordered steps help describe location.",
+      "hint": "Use the information in the question to check your answer."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m2sp02-p-027",
+    "curriculumCode": "AC9M2SP02",
+    "bank": "practice",
+    "skill": "at the art table a toy",
+    "printable": true,
+    "type": "single",
+    "question": "At the art table, a toy is under the table. Where is it?",
+    "audioPrompt": "At the art table, a toy is under the table. Where is it?",
+    "visual": "At the art table, a toy is under the table. Where is it?",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": "At the art table, a toy is under the table. Where is it?"
+    },
+    "answers": [
+      "inside the table",
+      "below the table",
+      "above the table"
+    ],
+    "correct": 1,
+    "explanation": "Position words and ordered steps help describe location.\nHint: Use the information in the question to check your answer.",
+    "structuredExplanation": {
+      "summary": "Position words and ordered steps help describe location.",
+      "hint": "Use the information in the question to check your answer."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m2sp02-p-028",
+    "curriculumCode": "AC9M2SP02",
+    "bank": "practice",
+    "skill": "in the playground move 2 squares",
+    "printable": true,
+    "type": "single",
+    "question": "In the playground, move 2 squares right then 1 square up. Which path matches?",
+    "audioPrompt": "In the playground, move 2 squares right then 1 square up. Which path matches?",
+    "visual": "In the playground, move 2 squares right then 1 square up. Which path matches?",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": "In the playground, move 2 squares right then 1 square up. Which path matches?"
+    },
+    "answers": [
+      "right 2, up 1",
+      "up 2, right 1",
+      "left 2, up 1"
+    ],
+    "correct": 0,
+    "explanation": "Position words and ordered steps help describe location.\nHint: Use the information in the question to check your answer.",
+    "structuredExplanation": {
+      "summary": "Position words and ordered steps help describe location.",
+      "hint": "Use the information in the question to check your answer."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m2sp02-p-029",
+    "curriculumCode": "AC9M2SP02",
+    "bank": "practice",
+    "skill": "at the library which instruction is",
+    "printable": true,
+    "type": "single",
+    "question": "At the library, which instruction is clearest?",
+    "audioPrompt": "At the library, which instruction is clearest?",
+    "visual": "At the library, which instruction is clearest?",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": "At the library, which instruction is clearest?"
+    },
+    "answers": [
+      "go there",
+      "move a bit",
+      "walk 3 steps left"
+    ],
+    "correct": 2,
+    "explanation": "Position words and ordered steps help describe location.\nHint: Use the information in the question to check your answer.",
+    "structuredExplanation": {
+      "summary": "Position words and ordered steps help describe location.",
+      "hint": "Use the information in the question to check your answer."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m2sp02-p-030",
+    "curriculumCode": "AC9M2SP02",
+    "bank": "practice",
+    "skill": "during sport a toy is under",
+    "printable": true,
+    "type": "single",
+    "question": "During sport, a toy is under the table. Where is it?",
+    "audioPrompt": "During sport, a toy is under the table. Where is it?",
+    "visual": "During sport, a toy is under the table. Where is it?",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": "During sport, a toy is under the table. Where is it?"
+    },
+    "answers": [
+      "inside the table",
+      "below the table",
+      "above the table"
+    ],
+    "correct": 1,
+    "explanation": "Position words and ordered steps help describe location.\nHint: Use the information in the question to check your answer.",
+    "structuredExplanation": {
+      "summary": "Position words and ordered steps help describe location.",
+      "hint": "Use the information in the question to check your answer."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m2sp02-p-031",
+    "curriculumCode": "AC9M2SP02",
+    "bank": "practice",
+    "skill": "at the class shop move 2",
+    "printable": true,
+    "type": "single",
+    "question": "At the class shop, move 2 squares right then 1 square up. Which path matches?",
+    "audioPrompt": "At the class shop, move 2 squares right then 1 square up. Which path matches?",
+    "visual": "At the class shop, move 2 squares right then 1 square up. Which path matches?",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": "At the class shop, move 2 squares right then 1 square up. Which path matches?"
+    },
+    "answers": [
+      "right 2, up 1",
+      "up 2, right 1",
+      "left 2, up 1"
+    ],
+    "correct": 0,
+    "explanation": "Position words and ordered steps help describe location.\nHint: Use the information in the question to check your answer.",
+    "structuredExplanation": {
+      "summary": "Position words and ordered steps help describe location.",
+      "hint": "Use the information in the question to check your answer."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m2sp02-p-032",
+    "curriculumCode": "AC9M2SP02",
+    "bank": "practice",
+    "skill": "on the picnic rug which instruction",
+    "printable": true,
+    "type": "single",
+    "question": "On the picnic rug, which instruction is clearest?",
+    "audioPrompt": "On the picnic rug, which instruction is clearest?",
+    "visual": "On the picnic rug, which instruction is clearest?",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": "On the picnic rug, which instruction is clearest?"
+    },
+    "answers": [
+      "go there",
+      "move a bit",
+      "walk 3 steps left"
+    ],
+    "correct": 2,
+    "explanation": "Position words and ordered steps help describe location.\nHint: Use the information in the question to check your answer.",
+    "structuredExplanation": {
+      "summary": "Position words and ordered steps help describe location.",
+      "hint": "Use the information in the question to check your answer."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m2sp02-p-033",
+    "curriculumCode": "AC9M2SP02",
+    "bank": "practice",
+    "skill": "at the block table a toy",
+    "printable": true,
+    "type": "single",
+    "question": "At the block table, a toy is under the table. Where is it?",
+    "audioPrompt": "At the block table, a toy is under the table. Where is it?",
+    "visual": "At the block table, a toy is under the table. Where is it?",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": "At the block table, a toy is under the table. Where is it?"
+    },
+    "answers": [
+      "inside the table",
+      "below the table",
+      "above the table"
+    ],
+    "correct": 1,
+    "explanation": "Position words and ordered steps help describe location.\nHint: Use the information in the question to check your answer.",
+    "structuredExplanation": {
+      "summary": "Position words and ordered steps help describe location.",
+      "hint": "Use the information in the question to check your answer."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m2sp02-p-034",
+    "curriculumCode": "AC9M2SP02",
+    "bank": "practice",
+    "skill": "in the lunch area move 2",
+    "printable": true,
+    "type": "single",
+    "question": "In the lunch area, move 2 squares right then 1 square up. Which path matches?",
+    "audioPrompt": "In the lunch area, move 2 squares right then 1 square up. Which path matches?",
+    "visual": "In the lunch area, move 2 squares right then 1 square up. Which path matches?",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": "In the lunch area, move 2 squares right then 1 square up. Which path matches?"
+    },
+    "answers": [
+      "right 2, up 1",
+      "up 2, right 1",
+      "left 2, up 1"
+    ],
+    "correct": 0,
+    "explanation": "Position words and ordered steps help describe location.\nHint: Use the information in the question to check your answer.",
+    "structuredExplanation": {
+      "summary": "Position words and ordered steps help describe location.",
+      "hint": "Use the information in the question to check your answer."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m2sp02-p-035",
+    "curriculumCode": "AC9M2SP02",
+    "bank": "practice",
+    "skill": "at the science table which instruction",
+    "printable": true,
+    "type": "single",
+    "question": "At the science table, which instruction is clearest?",
+    "audioPrompt": "At the science table, which instruction is clearest?",
+    "visual": "At the science table, which instruction is clearest?",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": "At the science table, which instruction is clearest?"
+    },
+    "answers": [
+      "go there",
+      "move a bit",
+      "walk 3 steps left"
+    ],
+    "correct": 2,
+    "explanation": "Position words and ordered steps help describe location.\nHint: Use the information in the question to check your answer.",
+    "structuredExplanation": {
+      "summary": "Position words and ordered steps help describe location.",
+      "hint": "Use the information in the question to check your answer."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m2sp02-p-036",
+    "curriculumCode": "AC9M2SP02",
+    "bank": "practice",
+    "skill": "during a card game a toy",
+    "printable": true,
+    "type": "single",
+    "question": "During a card game, a toy is under the table. Where is it?",
+    "audioPrompt": "During a card game, a toy is under the table. Where is it?",
+    "visual": "During a card game, a toy is under the table. Where is it?",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": "During a card game, a toy is under the table. Where is it?"
+    },
+    "answers": [
+      "inside the table",
+      "below the table",
+      "above the table"
+    ],
+    "correct": 1,
+    "explanation": "Position words and ordered steps help describe location.\nHint: Use the information in the question to check your answer.",
+    "structuredExplanation": {
+      "summary": "Position words and ordered steps help describe location.",
+      "hint": "Use the information in the question to check your answer."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m2sp02-p-037",
+    "curriculumCode": "AC9M2SP02",
+    "bank": "practice",
+    "skill": "at the school garden move 2",
+    "printable": true,
+    "type": "single",
+    "question": "At the school garden, move 2 squares right then 1 square up. Which path matches?",
+    "audioPrompt": "At the school garden, move 2 squares right then 1 square up. Which path matches?",
+    "visual": "At the school garden, move 2 squares right then 1 square up. Which path matches?",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": "At the school garden, move 2 squares right then 1 square up. Which path matches?"
+    },
+    "answers": [
+      "right 2, up 1",
+      "up 2, right 1",
+      "left 2, up 1"
+    ],
+    "correct": 0,
+    "explanation": "Position words and ordered steps help describe location.\nHint: Use the information in the question to check your answer.",
+    "structuredExplanation": {
+      "summary": "Position words and ordered steps help describe location.",
+      "hint": "Use the information in the question to check your answer."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m2sp02-p-038",
+    "curriculumCode": "AC9M2SP02",
+    "bank": "practice",
+    "skill": "during maths groups which instruction is",
+    "printable": true,
+    "type": "single",
+    "question": "During maths groups, which instruction is clearest?",
+    "audioPrompt": "During maths groups, which instruction is clearest?",
+    "visual": "During maths groups, which instruction is clearest?",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": "During maths groups, which instruction is clearest?"
+    },
+    "answers": [
+      "go there",
+      "move a bit",
+      "walk 3 steps left"
+    ],
+    "correct": 2,
+    "explanation": "Position words and ordered steps help describe location.\nHint: Use the information in the question to check your answer.",
+    "structuredExplanation": {
+      "summary": "Position words and ordered steps help describe location.",
+      "hint": "Use the information in the question to check your answer."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m2sp02-p-039",
+    "curriculumCode": "AC9M2SP02",
+    "bank": "practice",
+    "skill": "at the art table a toy",
+    "printable": true,
+    "type": "single",
+    "question": "At the art table, a toy is under the table. Where is it?",
+    "audioPrompt": "At the art table, a toy is under the table. Where is it?",
+    "visual": "At the art table, a toy is under the table. Where is it?",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": "At the art table, a toy is under the table. Where is it?"
+    },
+    "answers": [
+      "inside the table",
+      "below the table",
+      "above the table"
+    ],
+    "correct": 1,
+    "explanation": "Position words and ordered steps help describe location.\nHint: Use the information in the question to check your answer.",
+    "structuredExplanation": {
+      "summary": "Position words and ordered steps help describe location.",
+      "hint": "Use the information in the question to check your answer."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m2sp02-p-040",
+    "curriculumCode": "AC9M2SP02",
+    "bank": "practice",
+    "skill": "in the playground move 2 squares",
+    "printable": true,
+    "type": "single",
+    "question": "In the playground, move 2 squares right then 1 square up. Which path matches?",
+    "audioPrompt": "In the playground, move 2 squares right then 1 square up. Which path matches?",
+    "visual": "In the playground, move 2 squares right then 1 square up. Which path matches?",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": "In the playground, move 2 squares right then 1 square up. Which path matches?"
+    },
+    "answers": [
+      "right 2, up 1",
+      "up 2, right 1",
+      "left 2, up 1"
+    ],
+    "correct": 0,
+    "explanation": "Position words and ordered steps help describe location.\nHint: Use the information in the question to check your answer.",
+    "structuredExplanation": {
+      "summary": "Position words and ordered steps help describe location.",
+      "hint": "Use the information in the question to check your answer."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m2sp02-p-041",
+    "curriculumCode": "AC9M2SP02",
+    "bank": "practice",
+    "skill": "at the library which instruction is",
+    "printable": true,
+    "type": "single",
+    "question": "At the library, which instruction is clearest?",
+    "audioPrompt": "At the library, which instruction is clearest?",
+    "visual": "At the library, which instruction is clearest?",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": "At the library, which instruction is clearest?"
+    },
+    "answers": [
+      "go there",
+      "move a bit",
+      "walk 3 steps left"
+    ],
+    "correct": 2,
+    "explanation": "Position words and ordered steps help describe location.\nHint: Use the information in the question to check your answer.",
+    "structuredExplanation": {
+      "summary": "Position words and ordered steps help describe location.",
+      "hint": "Use the information in the question to check your answer."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m2sp02-p-042",
+    "curriculumCode": "AC9M2SP02",
+    "bank": "practice",
+    "skill": "during sport a toy is under",
+    "printable": true,
+    "type": "single",
+    "question": "During sport, a toy is under the table. Where is it?",
+    "audioPrompt": "During sport, a toy is under the table. Where is it?",
+    "visual": "During sport, a toy is under the table. Where is it?",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": "During sport, a toy is under the table. Where is it?"
+    },
+    "answers": [
+      "inside the table",
+      "below the table",
+      "above the table"
+    ],
+    "correct": 1,
+    "explanation": "Position words and ordered steps help describe location.\nHint: Use the information in the question to check your answer.",
+    "structuredExplanation": {
+      "summary": "Position words and ordered steps help describe location.",
+      "hint": "Use the information in the question to check your answer."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m2sp02-p-043",
+    "curriculumCode": "AC9M2SP02",
+    "bank": "practice",
+    "skill": "at the class shop move 2",
+    "printable": true,
+    "type": "single",
+    "question": "At the class shop, move 2 squares right then 1 square up. Which path matches?",
+    "audioPrompt": "At the class shop, move 2 squares right then 1 square up. Which path matches?",
+    "visual": "At the class shop, move 2 squares right then 1 square up. Which path matches?",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": "At the class shop, move 2 squares right then 1 square up. Which path matches?"
+    },
+    "answers": [
+      "right 2, up 1",
+      "up 2, right 1",
+      "left 2, up 1"
+    ],
+    "correct": 0,
+    "explanation": "Position words and ordered steps help describe location.\nHint: Use the information in the question to check your answer.",
+    "structuredExplanation": {
+      "summary": "Position words and ordered steps help describe location.",
+      "hint": "Use the information in the question to check your answer."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m2sp02-p-044",
+    "curriculumCode": "AC9M2SP02",
+    "bank": "practice",
+    "skill": "on the picnic rug which instruction",
+    "printable": true,
+    "type": "single",
+    "question": "On the picnic rug, which instruction is clearest?",
+    "audioPrompt": "On the picnic rug, which instruction is clearest?",
+    "visual": "On the picnic rug, which instruction is clearest?",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": "On the picnic rug, which instruction is clearest?"
+    },
+    "answers": [
+      "go there",
+      "move a bit",
+      "walk 3 steps left"
+    ],
+    "correct": 2,
+    "explanation": "Position words and ordered steps help describe location.\nHint: Use the information in the question to check your answer.",
+    "structuredExplanation": {
+      "summary": "Position words and ordered steps help describe location.",
+      "hint": "Use the information in the question to check your answer."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m2sp02-p-045",
+    "curriculumCode": "AC9M2SP02",
+    "bank": "practice",
+    "skill": "at the block table a toy",
+    "printable": true,
+    "type": "single",
+    "question": "At the block table, a toy is under the table. Where is it?",
+    "audioPrompt": "At the block table, a toy is under the table. Where is it?",
+    "visual": "At the block table, a toy is under the table. Where is it?",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": "At the block table, a toy is under the table. Where is it?"
+    },
+    "answers": [
+      "inside the table",
+      "below the table",
+      "above the table"
+    ],
+    "correct": 1,
+    "explanation": "Position words and ordered steps help describe location.\nHint: Use the information in the question to check your answer.",
+    "structuredExplanation": {
+      "summary": "Position words and ordered steps help describe location.",
+      "hint": "Use the information in the question to check your answer."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m2sp02-p-046",
+    "curriculumCode": "AC9M2SP02",
+    "bank": "practice",
+    "skill": "in the lunch area move 2",
+    "printable": true,
+    "type": "single",
+    "question": "In the lunch area, move 2 squares right then 1 square up. Which path matches?",
+    "audioPrompt": "In the lunch area, move 2 squares right then 1 square up. Which path matches?",
+    "visual": "In the lunch area, move 2 squares right then 1 square up. Which path matches?",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": "In the lunch area, move 2 squares right then 1 square up. Which path matches?"
+    },
+    "answers": [
+      "right 2, up 1",
+      "up 2, right 1",
+      "left 2, up 1"
+    ],
+    "correct": 0,
+    "explanation": "Position words and ordered steps help describe location.\nHint: Use the information in the question to check your answer.",
+    "structuredExplanation": {
+      "summary": "Position words and ordered steps help describe location.",
+      "hint": "Use the information in the question to check your answer."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m2sp02-p-047",
+    "curriculumCode": "AC9M2SP02",
+    "bank": "practice",
+    "skill": "at the science table which instruction",
+    "printable": true,
+    "type": "single",
+    "question": "At the science table, which instruction is clearest?",
+    "audioPrompt": "At the science table, which instruction is clearest?",
+    "visual": "At the science table, which instruction is clearest?",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": "At the science table, which instruction is clearest?"
+    },
+    "answers": [
+      "go there",
+      "move a bit",
+      "walk 3 steps left"
+    ],
+    "correct": 2,
+    "explanation": "Position words and ordered steps help describe location.\nHint: Use the information in the question to check your answer.",
+    "structuredExplanation": {
+      "summary": "Position words and ordered steps help describe location.",
+      "hint": "Use the information in the question to check your answer."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m2sp02-p-048",
+    "curriculumCode": "AC9M2SP02",
+    "bank": "practice",
+    "skill": "during a card game a toy",
+    "printable": true,
+    "type": "single",
+    "question": "During a card game, a toy is under the table. Where is it?",
+    "audioPrompt": "During a card game, a toy is under the table. Where is it?",
+    "visual": "During a card game, a toy is under the table. Where is it?",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": "During a card game, a toy is under the table. Where is it?"
+    },
+    "answers": [
+      "inside the table",
+      "below the table",
+      "above the table"
+    ],
+    "correct": 1,
+    "explanation": "Position words and ordered steps help describe location.\nHint: Use the information in the question to check your answer.",
+    "structuredExplanation": {
+      "summary": "Position words and ordered steps help describe location.",
+      "hint": "Use the information in the question to check your answer."
     },
     "qualitySchema": "production-v1"
   }

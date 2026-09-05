@@ -181,8 +181,8 @@ window.skillrTestQuestions = [
     "skill": "apply addition fact",
     "printable": true,
     "type": "single",
-    "question": "During the bird count, mia has 7 shells and finds 5 more. How many shells does she have now?",
-    "audioPrompt": "During the bird count, mia has 7 shells and finds 5 more. How many shells does she have now?",
+    "question": "During the bird count, Mia has 7 shells and finds 5 more. How many shells does she have now?",
+    "audioPrompt": "During the bird count, Mia has 7 shells and finds 5 more. How many shells does she have now?",
     "visual": "During the bird count: 7 shells and 5 more shells shown in two groups.",
     "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During the bird count: 7 shells and 5 more shells shown in two groups.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2a02.svg#ac9m2a02-t-007\"></use></svg>",
     "visualMeta": {
@@ -413,8 +413,8 @@ window.skillrTestQuestions = [
     "skill": "apply addition fact",
     "printable": true,
     "type": "single",
-    "question": "At the sticker station, mia has 8 shells and finds 6 more. How many shells does she have now?",
-    "audioPrompt": "At the sticker station, mia has 8 shells and finds 6 more. How many shells does she have now?",
+    "question": "At the sticker station, Mia has 8 shells and finds 6 more. How many shells does she have now?",
+    "audioPrompt": "At the sticker station, Mia has 8 shells and finds 6 more. How many shells does she have now?",
     "visual": "At the sticker station: 8 shells and 6 more shells shown in two groups.",
     "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the sticker station: 8 shells and 6 more shells shown in two groups.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2a02.svg#ac9m2a02-t-015\"></use></svg>",
     "visualMeta": {

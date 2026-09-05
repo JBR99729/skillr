@@ -21,6 +21,9 @@ window.skillrPracticeQuestions = [
       "circle",
       "triangle"
     ],
+    "difficulty": 1,
+    "difficultyTier": "confidence",
+    "sequencePriority": 1,
     "correct": 2,
     "explanation": "A triangle has 3 straight sides.\nHint: Trace the boundary and count each straight side once.",
     "structuredExplanation": {
@@ -50,6 +53,9 @@ window.skillrPracticeQuestions = [
       "triangle",
       "rectangle"
     ],
+    "difficulty": 1,
+    "difficultyTier": "confidence",
+    "sequencePriority": 1,
     "correct": 0,
     "explanation": "A circle has one curved boundary and no straight sides.\nHint: Trace around each shape and feel for straight edges.",
     "structuredExplanation": {
@@ -79,6 +85,9 @@ window.skillrPracticeQuestions = [
       "triangle",
       "rectangle"
     ],
+    "difficulty": 1,
+    "difficultyTier": "confidence",
+    "sequencePriority": 1,
     "correct": 1,
     "explanation": "Turning a shape does not change its sides or corners, so it is still a triangle.\nHint: Count the features instead of judging the direction it points.",
     "structuredExplanation": {
@@ -108,6 +117,9 @@ window.skillrPracticeQuestions = [
       "opposite",
       "parallel"
     ],
+    "difficulty": 1,
+    "difficultyTier": "confidence",
+    "sequencePriority": 1,
     "correct": 2,
     "explanation": "Parallel lines remain the same distance apart and do not meet.\nHint: Think of straight train tracks.",
     "structuredExplanation": {
@@ -137,6 +149,9 @@ window.skillrPracticeQuestions = [
       "curved sides",
       "one single side"
     ],
+    "difficulty": 1,
+    "difficultyTier": "confidence",
+    "sequencePriority": 1,
     "correct": 0,
     "explanation": "Opposite sides are across from each other and do not share a corner.\nHint: Point to one side, then look directly across the shape.",
     "structuredExplanation": {
@@ -166,6 +181,9 @@ window.skillrPracticeQuestions = [
       "It has 4 straight sides",
       "It has only a curved boundary"
     ],
+    "difficulty": 1,
+    "difficultyTier": "confidence",
+    "sequencePriority": 1,
     "correct": 1,
     "explanation": "A rectangle has 4 straight sides and 4 corners.\nHint: Count the sides instead of using the shape's size or position.",
     "structuredExplanation": {
@@ -195,6 +213,9 @@ window.skillrPracticeQuestions = [
       "circle and hexagon",
       "square and rectangle"
     ],
+    "difficulty": 1,
+    "difficultyTier": "confidence",
+    "sequencePriority": 1,
     "correct": 2,
     "explanation": "Both a square and a rectangle have 4 straight sides.\nHint: Choose one feature and check it on both shapes.",
     "structuredExplanation": {
@@ -224,6 +245,9 @@ window.skillrPracticeQuestions = [
       "It is too small",
       "It is facing the wrong way"
     ],
+    "difficulty": 1,
+    "difficultyTier": "confidence",
+    "sequencePriority": 1,
     "correct": 0,
     "explanation": "A circle has a curved boundary, unlike polygons with straight sides.\nHint: Use a visible feature, not colour, size or direction.",
     "structuredExplanation": {
@@ -253,6 +277,8 @@ window.skillrPracticeQuestions = [
       "rectangle",
       "circle"
     ],
+    "difficulty": 3,
+    "sequencePriority": 2,
     "correct": 1,
     "explanation": "A rectangle has 4 straight sides.\nHint: Trace the boundary and count each straight side once.",
     "structuredExplanation": {
@@ -282,6 +308,8 @@ window.skillrPracticeQuestions = [
       "rectangle",
       "circle"
     ],
+    "difficulty": 3,
+    "sequencePriority": 2,
     "correct": 2,
     "explanation": "A circle has one curved boundary and no straight sides.\nHint: Trace around each shape and feel for straight edges.",
     "structuredExplanation": {
@@ -311,6 +339,8 @@ window.skillrPracticeQuestions = [
       "circle",
       "triangle"
     ],
+    "difficulty": 3,
+    "sequencePriority": 2,
     "correct": 0,
     "explanation": "Turning a shape does not change its sides or corners, so it is still a rectangle.\nHint: Count the features instead of judging the direction it points.",
     "structuredExplanation": {
@@ -340,6 +370,8 @@ window.skillrPracticeQuestions = [
       "parallel",
       "opposite"
     ],
+    "difficulty": 3,
+    "sequencePriority": 2,
     "correct": 1,
     "explanation": "Parallel lines remain the same distance apart and do not meet.\nHint: Think of straight train tracks.",
     "structuredExplanation": {
@@ -369,6 +401,8 @@ window.skillrPracticeQuestions = [
       "one single side",
       "opposite sides"
     ],
+    "difficulty": 3,
+    "sequencePriority": 2,
     "correct": 2,
     "explanation": "Opposite sides are across from each other and do not share a corner.\nHint: Point to one side, then look directly across the shape.",
     "structuredExplanation": {
@@ -398,6 +432,8 @@ window.skillrPracticeQuestions = [
       "It has 3 straight sides",
       "It has only a curved boundary"
     ],
+    "difficulty": 3,
+    "sequencePriority": 2,
     "correct": 0,
     "explanation": "A rectangle has 4 straight sides and 4 corners.\nHint: Count the sides instead of using the shape's size or position.",
     "structuredExplanation": {
@@ -427,6 +463,8 @@ window.skillrPracticeQuestions = [
       "square and rectangle",
       "circle and hexagon"
     ],
+    "difficulty": 3,
+    "sequencePriority": 2,
     "correct": 1,
     "explanation": "Both a square and a rectangle have 4 straight sides.\nHint: Choose one feature and check it on both shapes.",
     "structuredExplanation": {
@@ -456,6 +494,8 @@ window.skillrPracticeQuestions = [
       "It is facing the wrong way",
       "Its boundary is curved"
     ],
+    "difficulty": 3,
+    "sequencePriority": 2,
     "correct": 2,
     "explanation": "A circle has a curved boundary, unlike polygons with straight sides.\nHint: Use a visible feature, not colour, size or direction.",
     "structuredExplanation": {
@@ -485,6 +525,8 @@ window.skillrPracticeQuestions = [
       "triangle",
       "circle"
     ],
+    "difficulty": 3,
+    "sequencePriority": 2,
     "correct": 0,
     "explanation": "A hexagon has 6 straight sides.\nHint: Trace the boundary and count each straight side once.",
     "structuredExplanation": {
@@ -514,6 +556,8 @@ window.skillrPracticeQuestions = [
       "circle",
       "rectangle"
     ],
+    "difficulty": 3,
+    "sequencePriority": 2,
     "correct": 1,
     "explanation": "A circle has one curved boundary and no straight sides.\nHint: Trace around each shape and feel for straight edges.",
     "structuredExplanation": {
@@ -543,6 +587,8 @@ window.skillrPracticeQuestions = [
       "triangle",
       "hexagon"
     ],
+    "difficulty": 3,
+    "sequencePriority": 2,
     "correct": 2,
     "explanation": "Turning a shape does not change its sides or corners, so it is still a hexagon.\nHint: Count the features instead of judging the direction it points.",
     "structuredExplanation": {
@@ -572,6 +618,8 @@ window.skillrPracticeQuestions = [
       "curved",
       "opposite"
     ],
+    "difficulty": 3,
+    "sequencePriority": 2,
     "correct": 0,
     "explanation": "Parallel lines remain the same distance apart and do not meet.\nHint: Think of straight train tracks.",
     "structuredExplanation": {
@@ -601,6 +649,8 @@ window.skillrPracticeQuestions = [
       "opposite sides",
       "one single side"
     ],
+    "difficulty": 3,
+    "sequencePriority": 2,
     "correct": 1,
     "explanation": "Opposite sides are across from each other and do not share a corner.\nHint: Point to one side, then look directly across the shape.",
     "structuredExplanation": {
@@ -630,6 +680,8 @@ window.skillrPracticeQuestions = [
       "It has only a curved boundary",
       "It has 4 straight sides"
     ],
+    "difficulty": 3,
+    "sequencePriority": 2,
     "correct": 2,
     "explanation": "A rectangle has 4 straight sides and 4 corners.\nHint: Count the sides instead of using the shape's size or position.",
     "structuredExplanation": {
@@ -659,6 +711,8 @@ window.skillrPracticeQuestions = [
       "triangle and circle",
       "circle and hexagon"
     ],
+    "difficulty": 3,
+    "sequencePriority": 2,
     "correct": 0,
     "explanation": "Both a square and a rectangle have 4 straight sides.\nHint: Choose one feature and check it on both shapes.",
     "structuredExplanation": {
@@ -688,11 +742,685 @@ window.skillrPracticeQuestions = [
       "Its boundary is curved",
       "It is facing the wrong way"
     ],
+    "difficulty": 3,
+    "sequencePriority": 2,
     "correct": 1,
     "explanation": "A circle has a curved boundary, unlike polygons with straight sides.\nHint: Use a visible feature, not colour, size or direction.",
     "structuredExplanation": {
       "summary": "A circle has a curved boundary, unlike polygons with straight sides.",
       "hint": "Use a visible feature, not colour, size or direction."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m2sp01-p-025",
+    "curriculumCode": "AC9M2SP01",
+    "bank": "practice",
+    "skill": "at the school garden which shape",
+    "printable": true,
+    "type": "single",
+    "question": "At the school garden, which shape has 4 straight sides?",
+    "audioPrompt": "At the school garden, which shape has 4 straight sides?",
+    "visual": "At the school garden, which shape has 4 straight sides?",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": "At the school garden, which shape has 4 straight sides?"
+    },
+    "answers": [
+      "rectangle",
+      "triangle",
+      "circle"
+    ],
+    "correct": 0,
+    "explanation": "Look at sides, corners and faces.\nHint: Use the information in the question to check your answer.",
+    "structuredExplanation": {
+      "summary": "Look at sides, corners and faces.",
+      "hint": "Use the information in the question to check your answer."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m2sp01-p-026",
+    "curriculumCode": "AC9M2SP01",
+    "bank": "practice",
+    "skill": "during maths groups which object is",
+    "printable": true,
+    "type": "single",
+    "question": "During maths groups, which object is a 3D object?",
+    "audioPrompt": "During maths groups, which object is a 3D object?",
+    "visual": "During maths groups, which object is a 3D object?",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": "During maths groups, which object is a 3D object?"
+    },
+    "answers": [
+      "square",
+      "triangle",
+      "cube"
+    ],
+    "correct": 2,
+    "explanation": "Look at sides, corners and faces.\nHint: Use the information in the question to check your answer.",
+    "structuredExplanation": {
+      "summary": "Look at sides, corners and faces.",
+      "hint": "Use the information in the question to check your answer."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m2sp01-p-027",
+    "curriculumCode": "AC9M2SP01",
+    "bank": "practice",
+    "skill": "at the art table which shape",
+    "printable": true,
+    "type": "single",
+    "question": "At the art table, which shape has a curved boundary?",
+    "audioPrompt": "At the art table, which shape has a curved boundary?",
+    "visual": "At the art table, which shape has a curved boundary?",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": "At the art table, which shape has a curved boundary?"
+    },
+    "answers": [
+      "rectangle",
+      "circle",
+      "square"
+    ],
+    "correct": 1,
+    "explanation": "Look at sides, corners and faces.\nHint: Use the information in the question to check your answer.",
+    "structuredExplanation": {
+      "summary": "Look at sides, corners and faces.",
+      "hint": "Use the information in the question to check your answer."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m2sp01-p-028",
+    "curriculumCode": "AC9M2SP01",
+    "bank": "practice",
+    "skill": "in the playground which shape has",
+    "printable": true,
+    "type": "single",
+    "question": "In the playground, which shape has 4 straight sides?",
+    "audioPrompt": "In the playground, which shape has 4 straight sides?",
+    "visual": "In the playground, which shape has 4 straight sides?",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": "In the playground, which shape has 4 straight sides?"
+    },
+    "answers": [
+      "rectangle",
+      "triangle",
+      "circle"
+    ],
+    "correct": 0,
+    "explanation": "Look at sides, corners and faces.\nHint: Use the information in the question to check your answer.",
+    "structuredExplanation": {
+      "summary": "Look at sides, corners and faces.",
+      "hint": "Use the information in the question to check your answer."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m2sp01-p-029",
+    "curriculumCode": "AC9M2SP01",
+    "bank": "practice",
+    "skill": "at the library which object is",
+    "printable": true,
+    "type": "single",
+    "question": "At the library, which object is a 3D object?",
+    "audioPrompt": "At the library, which object is a 3D object?",
+    "visual": "At the library, which object is a 3D object?",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": "At the library, which object is a 3D object?"
+    },
+    "answers": [
+      "square",
+      "triangle",
+      "cube"
+    ],
+    "correct": 2,
+    "explanation": "Look at sides, corners and faces.\nHint: Use the information in the question to check your answer.",
+    "structuredExplanation": {
+      "summary": "Look at sides, corners and faces.",
+      "hint": "Use the information in the question to check your answer."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m2sp01-p-030",
+    "curriculumCode": "AC9M2SP01",
+    "bank": "practice",
+    "skill": "during sport which shape has a",
+    "printable": true,
+    "type": "single",
+    "question": "During sport, which shape has a curved boundary?",
+    "audioPrompt": "During sport, which shape has a curved boundary?",
+    "visual": "During sport, which shape has a curved boundary?",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": "During sport, which shape has a curved boundary?"
+    },
+    "answers": [
+      "rectangle",
+      "circle",
+      "square"
+    ],
+    "correct": 1,
+    "explanation": "Look at sides, corners and faces.\nHint: Use the information in the question to check your answer.",
+    "structuredExplanation": {
+      "summary": "Look at sides, corners and faces.",
+      "hint": "Use the information in the question to check your answer."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m2sp01-p-031",
+    "curriculumCode": "AC9M2SP01",
+    "bank": "practice",
+    "skill": "at the class shop which shape",
+    "printable": true,
+    "type": "single",
+    "question": "At the class shop, which shape has 4 straight sides?",
+    "audioPrompt": "At the class shop, which shape has 4 straight sides?",
+    "visual": "At the class shop, which shape has 4 straight sides?",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": "At the class shop, which shape has 4 straight sides?"
+    },
+    "answers": [
+      "rectangle",
+      "triangle",
+      "circle"
+    ],
+    "correct": 0,
+    "explanation": "Look at sides, corners and faces.\nHint: Use the information in the question to check your answer.",
+    "structuredExplanation": {
+      "summary": "Look at sides, corners and faces.",
+      "hint": "Use the information in the question to check your answer."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m2sp01-p-032",
+    "curriculumCode": "AC9M2SP01",
+    "bank": "practice",
+    "skill": "on the picnic rug which object",
+    "printable": true,
+    "type": "single",
+    "question": "On the picnic rug, which object is a 3D object?",
+    "audioPrompt": "On the picnic rug, which object is a 3D object?",
+    "visual": "On the picnic rug, which object is a 3D object?",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": "On the picnic rug, which object is a 3D object?"
+    },
+    "answers": [
+      "square",
+      "triangle",
+      "cube"
+    ],
+    "correct": 2,
+    "explanation": "Look at sides, corners and faces.\nHint: Use the information in the question to check your answer.",
+    "structuredExplanation": {
+      "summary": "Look at sides, corners and faces.",
+      "hint": "Use the information in the question to check your answer."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m2sp01-p-033",
+    "curriculumCode": "AC9M2SP01",
+    "bank": "practice",
+    "skill": "at the block table which shape",
+    "printable": true,
+    "type": "single",
+    "question": "At the block table, which shape has a curved boundary?",
+    "audioPrompt": "At the block table, which shape has a curved boundary?",
+    "visual": "At the block table, which shape has a curved boundary?",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": "At the block table, which shape has a curved boundary?"
+    },
+    "answers": [
+      "rectangle",
+      "circle",
+      "square"
+    ],
+    "correct": 1,
+    "explanation": "Look at sides, corners and faces.\nHint: Use the information in the question to check your answer.",
+    "structuredExplanation": {
+      "summary": "Look at sides, corners and faces.",
+      "hint": "Use the information in the question to check your answer."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m2sp01-p-034",
+    "curriculumCode": "AC9M2SP01",
+    "bank": "practice",
+    "skill": "in the lunch area which shape",
+    "printable": true,
+    "type": "single",
+    "question": "In the lunch area, which shape has 4 straight sides?",
+    "audioPrompt": "In the lunch area, which shape has 4 straight sides?",
+    "visual": "In the lunch area, which shape has 4 straight sides?",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": "In the lunch area, which shape has 4 straight sides?"
+    },
+    "answers": [
+      "rectangle",
+      "triangle",
+      "circle"
+    ],
+    "correct": 0,
+    "explanation": "Look at sides, corners and faces.\nHint: Use the information in the question to check your answer.",
+    "structuredExplanation": {
+      "summary": "Look at sides, corners and faces.",
+      "hint": "Use the information in the question to check your answer."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m2sp01-p-035",
+    "curriculumCode": "AC9M2SP01",
+    "bank": "practice",
+    "skill": "at the science table which object",
+    "printable": true,
+    "type": "single",
+    "question": "At the science table, which object is a 3D object?",
+    "audioPrompt": "At the science table, which object is a 3D object?",
+    "visual": "At the science table, which object is a 3D object?",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": "At the science table, which object is a 3D object?"
+    },
+    "answers": [
+      "square",
+      "triangle",
+      "cube"
+    ],
+    "correct": 2,
+    "explanation": "Look at sides, corners and faces.\nHint: Use the information in the question to check your answer.",
+    "structuredExplanation": {
+      "summary": "Look at sides, corners and faces.",
+      "hint": "Use the information in the question to check your answer."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m2sp01-p-036",
+    "curriculumCode": "AC9M2SP01",
+    "bank": "practice",
+    "skill": "during a card game which shape",
+    "printable": true,
+    "type": "single",
+    "question": "During a card game, which shape has a curved boundary?",
+    "audioPrompt": "During a card game, which shape has a curved boundary?",
+    "visual": "During a card game, which shape has a curved boundary?",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": "During a card game, which shape has a curved boundary?"
+    },
+    "answers": [
+      "rectangle",
+      "circle",
+      "square"
+    ],
+    "correct": 1,
+    "explanation": "Look at sides, corners and faces.\nHint: Use the information in the question to check your answer.",
+    "structuredExplanation": {
+      "summary": "Look at sides, corners and faces.",
+      "hint": "Use the information in the question to check your answer."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m2sp01-p-037",
+    "curriculumCode": "AC9M2SP01",
+    "bank": "practice",
+    "skill": "at the school garden which shape",
+    "printable": true,
+    "type": "single",
+    "question": "At the school garden, which shape has 4 straight sides?",
+    "audioPrompt": "At the school garden, which shape has 4 straight sides?",
+    "visual": "At the school garden, which shape has 4 straight sides?",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": "At the school garden, which shape has 4 straight sides?"
+    },
+    "answers": [
+      "rectangle",
+      "triangle",
+      "circle"
+    ],
+    "correct": 0,
+    "explanation": "Look at sides, corners and faces.\nHint: Use the information in the question to check your answer.",
+    "structuredExplanation": {
+      "summary": "Look at sides, corners and faces.",
+      "hint": "Use the information in the question to check your answer."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m2sp01-p-038",
+    "curriculumCode": "AC9M2SP01",
+    "bank": "practice",
+    "skill": "during maths groups which object is",
+    "printable": true,
+    "type": "single",
+    "question": "During maths groups, which object is a 3D object?",
+    "audioPrompt": "During maths groups, which object is a 3D object?",
+    "visual": "During maths groups, which object is a 3D object?",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": "During maths groups, which object is a 3D object?"
+    },
+    "answers": [
+      "square",
+      "triangle",
+      "cube"
+    ],
+    "correct": 2,
+    "explanation": "Look at sides, corners and faces.\nHint: Use the information in the question to check your answer.",
+    "structuredExplanation": {
+      "summary": "Look at sides, corners and faces.",
+      "hint": "Use the information in the question to check your answer."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m2sp01-p-039",
+    "curriculumCode": "AC9M2SP01",
+    "bank": "practice",
+    "skill": "at the art table which shape",
+    "printable": true,
+    "type": "single",
+    "question": "At the art table, which shape has a curved boundary?",
+    "audioPrompt": "At the art table, which shape has a curved boundary?",
+    "visual": "At the art table, which shape has a curved boundary?",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": "At the art table, which shape has a curved boundary?"
+    },
+    "answers": [
+      "rectangle",
+      "circle",
+      "square"
+    ],
+    "correct": 1,
+    "explanation": "Look at sides, corners and faces.\nHint: Use the information in the question to check your answer.",
+    "structuredExplanation": {
+      "summary": "Look at sides, corners and faces.",
+      "hint": "Use the information in the question to check your answer."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m2sp01-p-040",
+    "curriculumCode": "AC9M2SP01",
+    "bank": "practice",
+    "skill": "in the playground which shape has",
+    "printable": true,
+    "type": "single",
+    "question": "In the playground, which shape has 4 straight sides?",
+    "audioPrompt": "In the playground, which shape has 4 straight sides?",
+    "visual": "In the playground, which shape has 4 straight sides?",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": "In the playground, which shape has 4 straight sides?"
+    },
+    "answers": [
+      "rectangle",
+      "triangle",
+      "circle"
+    ],
+    "correct": 0,
+    "explanation": "Look at sides, corners and faces.\nHint: Use the information in the question to check your answer.",
+    "structuredExplanation": {
+      "summary": "Look at sides, corners and faces.",
+      "hint": "Use the information in the question to check your answer."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m2sp01-p-041",
+    "curriculumCode": "AC9M2SP01",
+    "bank": "practice",
+    "skill": "at the library which object is",
+    "printable": true,
+    "type": "single",
+    "question": "At the library, which object is a 3D object?",
+    "audioPrompt": "At the library, which object is a 3D object?",
+    "visual": "At the library, which object is a 3D object?",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": "At the library, which object is a 3D object?"
+    },
+    "answers": [
+      "square",
+      "triangle",
+      "cube"
+    ],
+    "correct": 2,
+    "explanation": "Look at sides, corners and faces.\nHint: Use the information in the question to check your answer.",
+    "structuredExplanation": {
+      "summary": "Look at sides, corners and faces.",
+      "hint": "Use the information in the question to check your answer."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m2sp01-p-042",
+    "curriculumCode": "AC9M2SP01",
+    "bank": "practice",
+    "skill": "during sport which shape has a",
+    "printable": true,
+    "type": "single",
+    "question": "During sport, which shape has a curved boundary?",
+    "audioPrompt": "During sport, which shape has a curved boundary?",
+    "visual": "During sport, which shape has a curved boundary?",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": "During sport, which shape has a curved boundary?"
+    },
+    "answers": [
+      "rectangle",
+      "circle",
+      "square"
+    ],
+    "correct": 1,
+    "explanation": "Look at sides, corners and faces.\nHint: Use the information in the question to check your answer.",
+    "structuredExplanation": {
+      "summary": "Look at sides, corners and faces.",
+      "hint": "Use the information in the question to check your answer."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m2sp01-p-043",
+    "curriculumCode": "AC9M2SP01",
+    "bank": "practice",
+    "skill": "at the class shop which shape",
+    "printable": true,
+    "type": "single",
+    "question": "At the class shop, which shape has 4 straight sides?",
+    "audioPrompt": "At the class shop, which shape has 4 straight sides?",
+    "visual": "At the class shop, which shape has 4 straight sides?",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": "At the class shop, which shape has 4 straight sides?"
+    },
+    "answers": [
+      "rectangle",
+      "triangle",
+      "circle"
+    ],
+    "correct": 0,
+    "explanation": "Look at sides, corners and faces.\nHint: Use the information in the question to check your answer.",
+    "structuredExplanation": {
+      "summary": "Look at sides, corners and faces.",
+      "hint": "Use the information in the question to check your answer."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m2sp01-p-044",
+    "curriculumCode": "AC9M2SP01",
+    "bank": "practice",
+    "skill": "on the picnic rug which object",
+    "printable": true,
+    "type": "single",
+    "question": "On the picnic rug, which object is a 3D object?",
+    "audioPrompt": "On the picnic rug, which object is a 3D object?",
+    "visual": "On the picnic rug, which object is a 3D object?",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": "On the picnic rug, which object is a 3D object?"
+    },
+    "answers": [
+      "square",
+      "triangle",
+      "cube"
+    ],
+    "correct": 2,
+    "explanation": "Look at sides, corners and faces.\nHint: Use the information in the question to check your answer.",
+    "structuredExplanation": {
+      "summary": "Look at sides, corners and faces.",
+      "hint": "Use the information in the question to check your answer."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m2sp01-p-045",
+    "curriculumCode": "AC9M2SP01",
+    "bank": "practice",
+    "skill": "at the block table which shape",
+    "printable": true,
+    "type": "single",
+    "question": "At the block table, which shape has a curved boundary?",
+    "audioPrompt": "At the block table, which shape has a curved boundary?",
+    "visual": "At the block table, which shape has a curved boundary?",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": "At the block table, which shape has a curved boundary?"
+    },
+    "answers": [
+      "rectangle",
+      "circle",
+      "square"
+    ],
+    "correct": 1,
+    "explanation": "Look at sides, corners and faces.\nHint: Use the information in the question to check your answer.",
+    "structuredExplanation": {
+      "summary": "Look at sides, corners and faces.",
+      "hint": "Use the information in the question to check your answer."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m2sp01-p-046",
+    "curriculumCode": "AC9M2SP01",
+    "bank": "practice",
+    "skill": "in the lunch area which shape",
+    "printable": true,
+    "type": "single",
+    "question": "In the lunch area, which shape has 4 straight sides?",
+    "audioPrompt": "In the lunch area, which shape has 4 straight sides?",
+    "visual": "In the lunch area, which shape has 4 straight sides?",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": "In the lunch area, which shape has 4 straight sides?"
+    },
+    "answers": [
+      "rectangle",
+      "triangle",
+      "circle"
+    ],
+    "correct": 0,
+    "explanation": "Look at sides, corners and faces.\nHint: Use the information in the question to check your answer.",
+    "structuredExplanation": {
+      "summary": "Look at sides, corners and faces.",
+      "hint": "Use the information in the question to check your answer."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m2sp01-p-047",
+    "curriculumCode": "AC9M2SP01",
+    "bank": "practice",
+    "skill": "at the science table which object",
+    "printable": true,
+    "type": "single",
+    "question": "At the science table, which object is a 3D object?",
+    "audioPrompt": "At the science table, which object is a 3D object?",
+    "visual": "At the science table, which object is a 3D object?",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": "At the science table, which object is a 3D object?"
+    },
+    "answers": [
+      "square",
+      "triangle",
+      "cube"
+    ],
+    "correct": 2,
+    "explanation": "Look at sides, corners and faces.\nHint: Use the information in the question to check your answer.",
+    "structuredExplanation": {
+      "summary": "Look at sides, corners and faces.",
+      "hint": "Use the information in the question to check your answer."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m2sp01-p-048",
+    "curriculumCode": "AC9M2SP01",
+    "bank": "practice",
+    "skill": "during a card game which shape",
+    "printable": true,
+    "type": "single",
+    "question": "During a card game, which shape has a curved boundary?",
+    "audioPrompt": "During a card game, which shape has a curved boundary?",
+    "visual": "During a card game, which shape has a curved boundary?",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": "During a card game, which shape has a curved boundary?"
+    },
+    "answers": [
+      "rectangle",
+      "circle",
+      "square"
+    ],
+    "correct": 1,
+    "explanation": "Look at sides, corners and faces.\nHint: Use the information in the question to check your answer.",
+    "structuredExplanation": {
+      "summary": "Look at sides, corners and faces.",
+      "hint": "Use the information in the question to check your answer."
     },
     "qualitySchema": "production-v1"
   }

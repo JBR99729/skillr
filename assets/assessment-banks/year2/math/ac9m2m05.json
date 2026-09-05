@@ -6,13 +6,13 @@
     "curriculum_code": "AC9M2M05",
     "bank": "practice",
     "skill": "follow_quarter_turn",
-    "question": "In the robot game, an arrow faces north. After a clockwise quarter turn, where does it face?",
-    "audio_prompt": "In the robot game, an arrow faces north. After a clockwise quarter turn, where does it face?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m05.svg#ac9m2m05-p-001",
       "alt_text": "In the robot game: Arrow starts facing north and turns clockwise to face east."
     },
+    "question": "In the robot game, an arrow faces north. After a clockwise quarter turn, where does it face?",
+    "audio_prompt": "In the robot game, an arrow faces north. After a clockwise quarter turn, where does it face?",
     "answers": [
       {
         "text": "south",
@@ -43,13 +43,13 @@
     "curriculum_code": "AC9M2M05",
     "bank": "practice",
     "skill": "follow_half_turn",
-    "question": "In the robot game, an arrow faces north. After a half turn, where does it face?",
-    "audio_prompt": "In the robot game, an arrow faces north. After a half turn, where does it face?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m05.svg#ac9m2m05-p-002",
       "alt_text": "In the robot game: Arrow after a half turn from north, facing south."
     },
+    "question": "In the robot game, an arrow faces north. After a half turn, where does it face?",
+    "audio_prompt": "In the robot game, an arrow faces north. After a half turn, where does it face?",
     "answers": [
       {
         "text": "north",
@@ -80,13 +80,13 @@
     "curriculum_code": "AC9M2M05",
     "bank": "practice",
     "skill": "follow_full_turn",
-    "question": "In the robot game, an arrow faces north. After a full turn, where does it face?",
-    "audio_prompt": "In the robot game, an arrow faces north. After a full turn, where does it face?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m05.svg#ac9m2m05-p-003",
       "alt_text": "In the robot game: Arrow completes a full turn and faces north again."
     },
+    "question": "In the robot game, an arrow faces north. After a full turn, where does it face?",
+    "audio_prompt": "In the robot game, an arrow faces north. After a full turn, where does it face?",
     "answers": [
       {
         "text": "north",
@@ -117,13 +117,13 @@
     "curriculum_code": "AC9M2M05",
     "bank": "practice",
     "skill": "identify_half_turn",
-    "question": "In the robot game, which turn makes an object face the opposite way?",
-    "audio_prompt": "In the robot game, which turn makes an object face the opposite way?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m05.svg#ac9m2m05-p-004",
       "alt_text": "In the robot game: Arrow facing the opposite direction after a half turn."
     },
+    "question": "In the robot game, which turn makes an object face the opposite way?",
+    "audio_prompt": "In the robot game, which turn makes an object face the opposite way?",
     "answers": [
       {
         "text": "A quarter turn",
@@ -154,13 +154,13 @@
     "curriculum_code": "AC9M2M05",
     "bank": "practice",
     "skill": "compose_full_turn",
-    "question": "In the robot game, how many quarter turns make a full turn?",
-    "audio_prompt": "In the robot game, how many quarter turns make a full turn?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m05.svg#ac9m2m05-p-005",
       "alt_text": "In the robot game: Four quarter-turn arrows moving around a full circle."
     },
+    "question": "In the robot game, how many quarter turns make a full turn?",
+    "audio_prompt": "In the robot game, how many quarter turns make a full turn?",
     "answers": [
       {
         "text": "2",
@@ -191,13 +191,13 @@
     "curriculum_code": "AC9M2M05",
     "bank": "practice",
     "skill": "follow_three_quarter_turn",
-    "question": "In the robot game, a three-quarter clockwise turn from north ends facing which direction?",
-    "audio_prompt": "In the robot game, a three-quarter clockwise turn from north ends facing which direction?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m05.svg#ac9m2m05-p-006",
       "alt_text": "In the robot game: Arrow after three clockwise quarter turns from north, facing west."
     },
+    "question": "In the robot game, a three-quarter clockwise turn from north ends facing which direction?",
+    "audio_prompt": "In the robot game, a three-quarter clockwise turn from north ends facing which direction?",
     "answers": [
       {
         "text": "west",
@@ -228,13 +228,13 @@
     "curriculum_code": "AC9M2M05",
     "bank": "practice",
     "skill": "choose_shortest_turn",
-    "question": "In the robot game, a robot turns from north to east. Which is the shortest turn?",
-    "audio_prompt": "In the robot game, a robot turns from north to east. Which is the shortest turn?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m05.svg#ac9m2m05-p-007",
       "alt_text": "In the robot game: Robot arrow changing from north to east."
     },
+    "question": "In the robot game, a robot turns from north to east. Which is the shortest turn?",
+    "audio_prompt": "In the robot game, a robot turns from north to east. Which is the shortest turn?",
     "answers": [
       {
         "text": "A half turn",
@@ -265,13 +265,13 @@
     "curriculum_code": "AC9M2M05",
     "bank": "practice",
     "skill": "describe_three_quarter_turn",
-    "question": "In the robot game, which instruction describes three quarter turns?",
-    "audio_prompt": "In the robot game, which instruction describes three quarter turns?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m05.svg#ac9m2m05-p-008",
       "alt_text": "In the robot game: Three quarter-turn steps shown around a circle."
     },
+    "question": "In the robot game, which instruction describes three quarter turns?",
+    "audio_prompt": "In the robot game, which instruction describes three quarter turns?",
     "answers": [
       {
         "text": "Turn quarter, quarter",
@@ -302,13 +302,13 @@
     "curriculum_code": "AC9M2M05",
     "bank": "practice",
     "skill": "follow_quarter_turn",
-    "question": "On the playground, an arrow faces east. After a clockwise quarter turn, where does it face?",
-    "audio_prompt": "On the playground, an arrow faces east. After a clockwise quarter turn, where does it face?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m05.svg#ac9m2m05-p-009",
       "alt_text": "On the playground: Arrow starts facing east and turns clockwise to face south."
     },
+    "question": "On the playground, an arrow faces east. After a clockwise quarter turn, where does it face?",
+    "audio_prompt": "On the playground, an arrow faces east. After a clockwise quarter turn, where does it face?",
     "answers": [
       {
         "text": "south",
@@ -338,13 +338,13 @@
     "curriculum_code": "AC9M2M05",
     "bank": "practice",
     "skill": "follow_half_turn",
-    "question": "On the playground, an arrow faces east. After a half turn, where does it face?",
-    "audio_prompt": "On the playground, an arrow faces east. After a half turn, where does it face?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m05.svg#ac9m2m05-p-010",
       "alt_text": "On the playground: Arrow after a half turn from east, facing west."
     },
+    "question": "On the playground, an arrow faces east. After a half turn, where does it face?",
+    "audio_prompt": "On the playground, an arrow faces east. After a half turn, where does it face?",
     "answers": [
       {
         "text": "east",
@@ -374,13 +374,13 @@
     "curriculum_code": "AC9M2M05",
     "bank": "practice",
     "skill": "follow_full_turn",
-    "question": "On the playground, an arrow faces east. After a full turn, where does it face?",
-    "audio_prompt": "On the playground, an arrow faces east. After a full turn, where does it face?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m05.svg#ac9m2m05-p-011",
       "alt_text": "On the playground: Arrow completes a full turn and faces east again."
     },
+    "question": "On the playground, an arrow faces east. After a full turn, where does it face?",
+    "audio_prompt": "On the playground, an arrow faces east. After a full turn, where does it face?",
     "answers": [
       {
         "text": "south",
@@ -410,13 +410,13 @@
     "curriculum_code": "AC9M2M05",
     "bank": "practice",
     "skill": "identify_half_turn",
-    "question": "On the playground, which turn makes an object face the opposite way?",
-    "audio_prompt": "On the playground, which turn makes an object face the opposite way?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m05.svg#ac9m2m05-p-012",
       "alt_text": "On the playground: Arrow facing the opposite direction after a half turn."
     },
+    "question": "On the playground, which turn makes an object face the opposite way?",
+    "audio_prompt": "On the playground, which turn makes an object face the opposite way?",
     "answers": [
       {
         "text": "A half turn",
@@ -446,13 +446,13 @@
     "curriculum_code": "AC9M2M05",
     "bank": "practice",
     "skill": "compose_full_turn",
-    "question": "On the playground, how many quarter turns make a full turn?",
-    "audio_prompt": "On the playground, how many quarter turns make a full turn?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m05.svg#ac9m2m05-p-013",
       "alt_text": "On the playground: Four quarter-turn arrows moving around a full circle."
     },
+    "question": "On the playground, how many quarter turns make a full turn?",
+    "audio_prompt": "On the playground, how many quarter turns make a full turn?",
     "answers": [
       {
         "text": "2",
@@ -482,13 +482,13 @@
     "curriculum_code": "AC9M2M05",
     "bank": "practice",
     "skill": "follow_three_quarter_turn",
-    "question": "On the playground, a three-quarter clockwise turn from east ends facing which direction?",
-    "audio_prompt": "On the playground, a three-quarter clockwise turn from east ends facing which direction?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m05.svg#ac9m2m05-p-014",
       "alt_text": "On the playground: Arrow after three clockwise quarter turns from east, facing north."
     },
+    "question": "On the playground, a three-quarter clockwise turn from east ends facing which direction?",
+    "audio_prompt": "On the playground, a three-quarter clockwise turn from east ends facing which direction?",
     "answers": [
       {
         "text": "south",
@@ -518,13 +518,13 @@
     "curriculum_code": "AC9M2M05",
     "bank": "practice",
     "skill": "choose_shortest_turn",
-    "question": "On the playground, a robot turns from east to south. Which is the shortest turn?",
-    "audio_prompt": "On the playground, a robot turns from east to south. Which is the shortest turn?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m05.svg#ac9m2m05-p-015",
       "alt_text": "On the playground: Robot arrow changing from east to south."
     },
+    "question": "On the playground, a robot turns from east to south. Which is the shortest turn?",
+    "audio_prompt": "On the playground, a robot turns from east to south. Which is the shortest turn?",
     "answers": [
       {
         "text": "A clockwise quarter turn",
@@ -554,13 +554,13 @@
     "curriculum_code": "AC9M2M05",
     "bank": "practice",
     "skill": "describe_three_quarter_turn",
-    "question": "On the playground, which instruction describes three quarter turns?",
-    "audio_prompt": "On the playground, which instruction describes three quarter turns?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m05.svg#ac9m2m05-p-016",
       "alt_text": "On the playground: Three quarter-turn steps shown around a circle."
     },
+    "question": "On the playground, which instruction describes three quarter turns?",
+    "audio_prompt": "On the playground, which instruction describes three quarter turns?",
     "answers": [
       {
         "text": "Turn quarter, quarter",
@@ -590,13 +590,13 @@
     "curriculum_code": "AC9M2M05",
     "bank": "practice",
     "skill": "follow_quarter_turn",
-    "question": "At the dance station, an arrow faces south. After a clockwise quarter turn, where does it face?",
-    "audio_prompt": "At the dance station, an arrow faces south. After a clockwise quarter turn, where does it face?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m05.svg#ac9m2m05-p-017",
       "alt_text": "At the dance station: Arrow starts facing south and turns clockwise to face west."
     },
+    "question": "At the dance station, an arrow faces south. After a clockwise quarter turn, where does it face?",
+    "audio_prompt": "At the dance station, an arrow faces south. After a clockwise quarter turn, where does it face?",
     "answers": [
       {
         "text": "north",
@@ -626,13 +626,13 @@
     "curriculum_code": "AC9M2M05",
     "bank": "practice",
     "skill": "follow_half_turn",
-    "question": "At the dance station, an arrow faces south. After a half turn, where does it face?",
-    "audio_prompt": "At the dance station, an arrow faces south. After a half turn, where does it face?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m05.svg#ac9m2m05-p-018",
       "alt_text": "At the dance station: Arrow after a half turn from south, facing north."
     },
+    "question": "At the dance station, an arrow faces south. After a half turn, where does it face?",
+    "audio_prompt": "At the dance station, an arrow faces south. After a half turn, where does it face?",
     "answers": [
       {
         "text": "north",
@@ -662,13 +662,13 @@
     "curriculum_code": "AC9M2M05",
     "bank": "practice",
     "skill": "follow_full_turn",
-    "question": "At the dance station, an arrow faces south. After a full turn, where does it face?",
-    "audio_prompt": "At the dance station, an arrow faces south. After a full turn, where does it face?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m05.svg#ac9m2m05-p-019",
       "alt_text": "At the dance station: Arrow completes a full turn and faces south again."
     },
+    "question": "At the dance station, an arrow faces south. After a full turn, where does it face?",
+    "audio_prompt": "At the dance station, an arrow faces south. After a full turn, where does it face?",
     "answers": [
       {
         "text": "west",
@@ -698,13 +698,13 @@
     "curriculum_code": "AC9M2M05",
     "bank": "practice",
     "skill": "identify_half_turn",
-    "question": "At the dance station, which turn makes an object face the opposite way?",
-    "audio_prompt": "At the dance station, which turn makes an object face the opposite way?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m05.svg#ac9m2m05-p-020",
       "alt_text": "At the dance station: Arrow facing the opposite direction after a half turn."
     },
+    "question": "At the dance station, which turn makes an object face the opposite way?",
+    "audio_prompt": "At the dance station, which turn makes an object face the opposite way?",
     "answers": [
       {
         "text": "A quarter turn",
@@ -734,13 +734,13 @@
     "curriculum_code": "AC9M2M05",
     "bank": "practice",
     "skill": "compose_full_turn",
-    "question": "At the dance station, how many quarter turns make a full turn?",
-    "audio_prompt": "At the dance station, how many quarter turns make a full turn?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m05.svg#ac9m2m05-p-021",
       "alt_text": "At the dance station: Four quarter-turn arrows moving around a full circle."
     },
+    "question": "At the dance station, how many quarter turns make a full turn?",
+    "audio_prompt": "At the dance station, how many quarter turns make a full turn?",
     "answers": [
       {
         "text": "4",
@@ -770,13 +770,13 @@
     "curriculum_code": "AC9M2M05",
     "bank": "practice",
     "skill": "follow_three_quarter_turn",
-    "question": "At the dance station, a three-quarter clockwise turn from south ends facing which direction?",
-    "audio_prompt": "At the dance station, a three-quarter clockwise turn from south ends facing which direction?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m05.svg#ac9m2m05-p-022",
       "alt_text": "At the dance station: Arrow after three clockwise quarter turns from south, facing east."
     },
+    "question": "At the dance station, a three-quarter clockwise turn from south ends facing which direction?",
+    "audio_prompt": "At the dance station, a three-quarter clockwise turn from south ends facing which direction?",
     "answers": [
       {
         "text": "west",
@@ -806,13 +806,13 @@
     "curriculum_code": "AC9M2M05",
     "bank": "practice",
     "skill": "choose_shortest_turn",
-    "question": "At the dance station, a robot turns from south to west. Which is the shortest turn?",
-    "audio_prompt": "At the dance station, a robot turns from south to west. Which is the shortest turn?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m05.svg#ac9m2m05-p-023",
       "alt_text": "At the dance station: Robot arrow changing from south to west."
     },
+    "question": "At the dance station, a robot turns from south to west. Which is the shortest turn?",
+    "audio_prompt": "At the dance station, a robot turns from south to west. Which is the shortest turn?",
     "answers": [
       {
         "text": "A half turn",
@@ -842,13 +842,13 @@
     "curriculum_code": "AC9M2M05",
     "bank": "practice",
     "skill": "describe_three_quarter_turn",
-    "question": "At the dance station, which instruction describes three quarter turns?",
-    "audio_prompt": "At the dance station, which instruction describes three quarter turns?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m05.svg#ac9m2m05-p-024",
       "alt_text": "At the dance station: Three quarter-turn steps shown around a circle."
     },
+    "question": "At the dance station, which instruction describes three quarter turns?",
+    "audio_prompt": "At the dance station, which instruction describes three quarter turns?",
     "answers": [
       {
         "text": "Turn quarter, quarter, quarter",
@@ -872,19 +872,811 @@
     "sequence_priority": 2
   },
   {
+    "id": "AC9M2M05-P-025",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2M05",
+    "bank": "practice",
+    "skill": "at_the_school_garden_a_robot",
+    "visual": {
+      "type": "none",
+      "alt_text": "At the school garden, a robot faces north then makes a quarter turn clockwise. It faces?"
+    },
+    "question": "At the school garden, a robot faces north then makes a quarter turn clockwise. It faces?",
+    "audio_prompt": "At the school garden, a robot faces north then makes a quarter turn clockwise. It faces?",
+    "answers": [
+      {
+        "text": "east",
+        "is_correct": true
+      },
+      {
+        "text": "west",
+        "is_correct": false
+      },
+      {
+        "text": "south",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Use the turn size and direction.",
+      "hint": "Use the information in the question to check your answer."
+    }
+  },
+  {
+    "id": "AC9M2M05-P-026",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2M05",
+    "bank": "practice",
+    "skill": "during_maths_groups_a_robot_faces",
+    "visual": {
+      "type": "none",
+      "alt_text": "During maths groups, a robot faces north then makes a half turn. It faces?"
+    },
+    "question": "During maths groups, a robot faces north then makes a half turn. It faces?",
+    "audio_prompt": "During maths groups, a robot faces north then makes a half turn. It faces?",
+    "answers": [
+      {
+        "text": "east",
+        "is_correct": false
+      },
+      {
+        "text": "north",
+        "is_correct": false
+      },
+      {
+        "text": "south",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Use the turn size and direction.",
+      "hint": "Use the information in the question to check your answer."
+    }
+  },
+  {
+    "id": "AC9M2M05-P-027",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2M05",
+    "bank": "practice",
+    "skill": "at_the_art_table_a_robot",
+    "visual": {
+      "type": "none",
+      "alt_text": "At the art table, a robot faces east then makes a quarter turn clockwise. It faces?"
+    },
+    "question": "At the art table, a robot faces east then makes a quarter turn clockwise. It faces?",
+    "audio_prompt": "At the art table, a robot faces east then makes a quarter turn clockwise. It faces?",
+    "answers": [
+      {
+        "text": "west",
+        "is_correct": false
+      },
+      {
+        "text": "south",
+        "is_correct": true
+      },
+      {
+        "text": "north",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Use the turn size and direction.",
+      "hint": "Use the information in the question to check your answer."
+    }
+  },
+  {
+    "id": "AC9M2M05-P-028",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2M05",
+    "bank": "practice",
+    "skill": "in_the_playground_a_robot_faces",
+    "visual": {
+      "type": "none",
+      "alt_text": "In the playground, a robot faces north then makes a quarter turn clockwise. It faces?"
+    },
+    "question": "In the playground, a robot faces north then makes a quarter turn clockwise. It faces?",
+    "audio_prompt": "In the playground, a robot faces north then makes a quarter turn clockwise. It faces?",
+    "answers": [
+      {
+        "text": "east",
+        "is_correct": true
+      },
+      {
+        "text": "west",
+        "is_correct": false
+      },
+      {
+        "text": "south",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Use the turn size and direction.",
+      "hint": "Use the information in the question to check your answer."
+    }
+  },
+  {
+    "id": "AC9M2M05-P-029",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2M05",
+    "bank": "practice",
+    "skill": "at_the_library_a_robot_faces",
+    "visual": {
+      "type": "none",
+      "alt_text": "At the library, a robot faces north then makes a half turn. It faces?"
+    },
+    "question": "At the library, a robot faces north then makes a half turn. It faces?",
+    "audio_prompt": "At the library, a robot faces north then makes a half turn. It faces?",
+    "answers": [
+      {
+        "text": "east",
+        "is_correct": false
+      },
+      {
+        "text": "north",
+        "is_correct": false
+      },
+      {
+        "text": "south",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Use the turn size and direction.",
+      "hint": "Use the information in the question to check your answer."
+    }
+  },
+  {
+    "id": "AC9M2M05-P-030",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2M05",
+    "bank": "practice",
+    "skill": "during_sport_a_robot_faces_east",
+    "visual": {
+      "type": "none",
+      "alt_text": "During sport, a robot faces east then makes a quarter turn clockwise. It faces?"
+    },
+    "question": "During sport, a robot faces east then makes a quarter turn clockwise. It faces?",
+    "audio_prompt": "During sport, a robot faces east then makes a quarter turn clockwise. It faces?",
+    "answers": [
+      {
+        "text": "west",
+        "is_correct": false
+      },
+      {
+        "text": "south",
+        "is_correct": true
+      },
+      {
+        "text": "north",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Use the turn size and direction.",
+      "hint": "Use the information in the question to check your answer."
+    }
+  },
+  {
+    "id": "AC9M2M05-P-031",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2M05",
+    "bank": "practice",
+    "skill": "at_the_class_shop_a_robot",
+    "visual": {
+      "type": "none",
+      "alt_text": "At the class shop, a robot faces north then makes a quarter turn clockwise. It faces?"
+    },
+    "question": "At the class shop, a robot faces north then makes a quarter turn clockwise. It faces?",
+    "audio_prompt": "At the class shop, a robot faces north then makes a quarter turn clockwise. It faces?",
+    "answers": [
+      {
+        "text": "east",
+        "is_correct": true
+      },
+      {
+        "text": "west",
+        "is_correct": false
+      },
+      {
+        "text": "south",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Use the turn size and direction.",
+      "hint": "Use the information in the question to check your answer."
+    }
+  },
+  {
+    "id": "AC9M2M05-P-032",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2M05",
+    "bank": "practice",
+    "skill": "on_the_picnic_rug_a_robot",
+    "visual": {
+      "type": "none",
+      "alt_text": "On the picnic rug, a robot faces north then makes a half turn. It faces?"
+    },
+    "question": "On the picnic rug, a robot faces north then makes a half turn. It faces?",
+    "audio_prompt": "On the picnic rug, a robot faces north then makes a half turn. It faces?",
+    "answers": [
+      {
+        "text": "east",
+        "is_correct": false
+      },
+      {
+        "text": "north",
+        "is_correct": false
+      },
+      {
+        "text": "south",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Use the turn size and direction.",
+      "hint": "Use the information in the question to check your answer."
+    }
+  },
+  {
+    "id": "AC9M2M05-P-033",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2M05",
+    "bank": "practice",
+    "skill": "at_the_block_table_a_robot",
+    "visual": {
+      "type": "none",
+      "alt_text": "At the block table, a robot faces east then makes a quarter turn clockwise. It faces?"
+    },
+    "question": "At the block table, a robot faces east then makes a quarter turn clockwise. It faces?",
+    "audio_prompt": "At the block table, a robot faces east then makes a quarter turn clockwise. It faces?",
+    "answers": [
+      {
+        "text": "west",
+        "is_correct": false
+      },
+      {
+        "text": "south",
+        "is_correct": true
+      },
+      {
+        "text": "north",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Use the turn size and direction.",
+      "hint": "Use the information in the question to check your answer."
+    }
+  },
+  {
+    "id": "AC9M2M05-P-034",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2M05",
+    "bank": "practice",
+    "skill": "in_the_lunch_area_a_robot",
+    "visual": {
+      "type": "none",
+      "alt_text": "In the lunch area, a robot faces north then makes a quarter turn clockwise. It faces?"
+    },
+    "question": "In the lunch area, a robot faces north then makes a quarter turn clockwise. It faces?",
+    "audio_prompt": "In the lunch area, a robot faces north then makes a quarter turn clockwise. It faces?",
+    "answers": [
+      {
+        "text": "east",
+        "is_correct": true
+      },
+      {
+        "text": "west",
+        "is_correct": false
+      },
+      {
+        "text": "south",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Use the turn size and direction.",
+      "hint": "Use the information in the question to check your answer."
+    }
+  },
+  {
+    "id": "AC9M2M05-P-035",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2M05",
+    "bank": "practice",
+    "skill": "at_the_science_table_a_robot",
+    "visual": {
+      "type": "none",
+      "alt_text": "At the science table, a robot faces north then makes a half turn. It faces?"
+    },
+    "question": "At the science table, a robot faces north then makes a half turn. It faces?",
+    "audio_prompt": "At the science table, a robot faces north then makes a half turn. It faces?",
+    "answers": [
+      {
+        "text": "east",
+        "is_correct": false
+      },
+      {
+        "text": "north",
+        "is_correct": false
+      },
+      {
+        "text": "south",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Use the turn size and direction.",
+      "hint": "Use the information in the question to check your answer."
+    }
+  },
+  {
+    "id": "AC9M2M05-P-036",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2M05",
+    "bank": "practice",
+    "skill": "during_a_card_game_a_robot",
+    "visual": {
+      "type": "none",
+      "alt_text": "During a card game, a robot faces east then makes a quarter turn clockwise. It faces?"
+    },
+    "question": "During a card game, a robot faces east then makes a quarter turn clockwise. It faces?",
+    "audio_prompt": "During a card game, a robot faces east then makes a quarter turn clockwise. It faces?",
+    "answers": [
+      {
+        "text": "west",
+        "is_correct": false
+      },
+      {
+        "text": "south",
+        "is_correct": true
+      },
+      {
+        "text": "north",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Use the turn size and direction.",
+      "hint": "Use the information in the question to check your answer."
+    }
+  },
+  {
+    "id": "AC9M2M05-P-037",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2M05",
+    "bank": "practice",
+    "skill": "at_the_school_garden_a_robot",
+    "visual": {
+      "type": "none",
+      "alt_text": "At the school garden, a robot faces north then makes a quarter turn clockwise. It faces?"
+    },
+    "question": "At the school garden, a robot faces north then makes a quarter turn clockwise. It faces?",
+    "audio_prompt": "At the school garden, a robot faces north then makes a quarter turn clockwise. It faces?",
+    "answers": [
+      {
+        "text": "east",
+        "is_correct": true
+      },
+      {
+        "text": "west",
+        "is_correct": false
+      },
+      {
+        "text": "south",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Use the turn size and direction.",
+      "hint": "Use the information in the question to check your answer."
+    }
+  },
+  {
+    "id": "AC9M2M05-P-038",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2M05",
+    "bank": "practice",
+    "skill": "during_maths_groups_a_robot_faces",
+    "visual": {
+      "type": "none",
+      "alt_text": "During maths groups, a robot faces north then makes a half turn. It faces?"
+    },
+    "question": "During maths groups, a robot faces north then makes a half turn. It faces?",
+    "audio_prompt": "During maths groups, a robot faces north then makes a half turn. It faces?",
+    "answers": [
+      {
+        "text": "east",
+        "is_correct": false
+      },
+      {
+        "text": "north",
+        "is_correct": false
+      },
+      {
+        "text": "south",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Use the turn size and direction.",
+      "hint": "Use the information in the question to check your answer."
+    }
+  },
+  {
+    "id": "AC9M2M05-P-039",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2M05",
+    "bank": "practice",
+    "skill": "at_the_art_table_a_robot",
+    "visual": {
+      "type": "none",
+      "alt_text": "At the art table, a robot faces east then makes a quarter turn clockwise. It faces?"
+    },
+    "question": "At the art table, a robot faces east then makes a quarter turn clockwise. It faces?",
+    "audio_prompt": "At the art table, a robot faces east then makes a quarter turn clockwise. It faces?",
+    "answers": [
+      {
+        "text": "west",
+        "is_correct": false
+      },
+      {
+        "text": "south",
+        "is_correct": true
+      },
+      {
+        "text": "north",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Use the turn size and direction.",
+      "hint": "Use the information in the question to check your answer."
+    }
+  },
+  {
+    "id": "AC9M2M05-P-040",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2M05",
+    "bank": "practice",
+    "skill": "in_the_playground_a_robot_faces",
+    "visual": {
+      "type": "none",
+      "alt_text": "In the playground, a robot faces north then makes a quarter turn clockwise. It faces?"
+    },
+    "question": "In the playground, a robot faces north then makes a quarter turn clockwise. It faces?",
+    "audio_prompt": "In the playground, a robot faces north then makes a quarter turn clockwise. It faces?",
+    "answers": [
+      {
+        "text": "east",
+        "is_correct": true
+      },
+      {
+        "text": "west",
+        "is_correct": false
+      },
+      {
+        "text": "south",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Use the turn size and direction.",
+      "hint": "Use the information in the question to check your answer."
+    }
+  },
+  {
+    "id": "AC9M2M05-P-041",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2M05",
+    "bank": "practice",
+    "skill": "at_the_library_a_robot_faces",
+    "visual": {
+      "type": "none",
+      "alt_text": "At the library, a robot faces north then makes a half turn. It faces?"
+    },
+    "question": "At the library, a robot faces north then makes a half turn. It faces?",
+    "audio_prompt": "At the library, a robot faces north then makes a half turn. It faces?",
+    "answers": [
+      {
+        "text": "east",
+        "is_correct": false
+      },
+      {
+        "text": "north",
+        "is_correct": false
+      },
+      {
+        "text": "south",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Use the turn size and direction.",
+      "hint": "Use the information in the question to check your answer."
+    }
+  },
+  {
+    "id": "AC9M2M05-P-042",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2M05",
+    "bank": "practice",
+    "skill": "during_sport_a_robot_faces_east",
+    "visual": {
+      "type": "none",
+      "alt_text": "During sport, a robot faces east then makes a quarter turn clockwise. It faces?"
+    },
+    "question": "During sport, a robot faces east then makes a quarter turn clockwise. It faces?",
+    "audio_prompt": "During sport, a robot faces east then makes a quarter turn clockwise. It faces?",
+    "answers": [
+      {
+        "text": "west",
+        "is_correct": false
+      },
+      {
+        "text": "south",
+        "is_correct": true
+      },
+      {
+        "text": "north",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Use the turn size and direction.",
+      "hint": "Use the information in the question to check your answer."
+    }
+  },
+  {
+    "id": "AC9M2M05-P-043",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2M05",
+    "bank": "practice",
+    "skill": "at_the_class_shop_a_robot",
+    "visual": {
+      "type": "none",
+      "alt_text": "At the class shop, a robot faces north then makes a quarter turn clockwise. It faces?"
+    },
+    "question": "At the class shop, a robot faces north then makes a quarter turn clockwise. It faces?",
+    "audio_prompt": "At the class shop, a robot faces north then makes a quarter turn clockwise. It faces?",
+    "answers": [
+      {
+        "text": "east",
+        "is_correct": true
+      },
+      {
+        "text": "west",
+        "is_correct": false
+      },
+      {
+        "text": "south",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Use the turn size and direction.",
+      "hint": "Use the information in the question to check your answer."
+    }
+  },
+  {
+    "id": "AC9M2M05-P-044",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2M05",
+    "bank": "practice",
+    "skill": "on_the_picnic_rug_a_robot",
+    "visual": {
+      "type": "none",
+      "alt_text": "On the picnic rug, a robot faces north then makes a half turn. It faces?"
+    },
+    "question": "On the picnic rug, a robot faces north then makes a half turn. It faces?",
+    "audio_prompt": "On the picnic rug, a robot faces north then makes a half turn. It faces?",
+    "answers": [
+      {
+        "text": "east",
+        "is_correct": false
+      },
+      {
+        "text": "north",
+        "is_correct": false
+      },
+      {
+        "text": "south",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Use the turn size and direction.",
+      "hint": "Use the information in the question to check your answer."
+    }
+  },
+  {
+    "id": "AC9M2M05-P-045",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2M05",
+    "bank": "practice",
+    "skill": "at_the_block_table_a_robot",
+    "visual": {
+      "type": "none",
+      "alt_text": "At the block table, a robot faces east then makes a quarter turn clockwise. It faces?"
+    },
+    "question": "At the block table, a robot faces east then makes a quarter turn clockwise. It faces?",
+    "audio_prompt": "At the block table, a robot faces east then makes a quarter turn clockwise. It faces?",
+    "answers": [
+      {
+        "text": "west",
+        "is_correct": false
+      },
+      {
+        "text": "south",
+        "is_correct": true
+      },
+      {
+        "text": "north",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Use the turn size and direction.",
+      "hint": "Use the information in the question to check your answer."
+    }
+  },
+  {
+    "id": "AC9M2M05-P-046",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2M05",
+    "bank": "practice",
+    "skill": "in_the_lunch_area_a_robot",
+    "visual": {
+      "type": "none",
+      "alt_text": "In the lunch area, a robot faces north then makes a quarter turn clockwise. It faces?"
+    },
+    "question": "In the lunch area, a robot faces north then makes a quarter turn clockwise. It faces?",
+    "audio_prompt": "In the lunch area, a robot faces north then makes a quarter turn clockwise. It faces?",
+    "answers": [
+      {
+        "text": "east",
+        "is_correct": true
+      },
+      {
+        "text": "west",
+        "is_correct": false
+      },
+      {
+        "text": "south",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Use the turn size and direction.",
+      "hint": "Use the information in the question to check your answer."
+    }
+  },
+  {
+    "id": "AC9M2M05-P-047",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2M05",
+    "bank": "practice",
+    "skill": "at_the_science_table_a_robot",
+    "visual": {
+      "type": "none",
+      "alt_text": "At the science table, a robot faces north then makes a half turn. It faces?"
+    },
+    "question": "At the science table, a robot faces north then makes a half turn. It faces?",
+    "audio_prompt": "At the science table, a robot faces north then makes a half turn. It faces?",
+    "answers": [
+      {
+        "text": "east",
+        "is_correct": false
+      },
+      {
+        "text": "north",
+        "is_correct": false
+      },
+      {
+        "text": "south",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Use the turn size and direction.",
+      "hint": "Use the information in the question to check your answer."
+    }
+  },
+  {
+    "id": "AC9M2M05-P-048",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2M05",
+    "bank": "practice",
+    "skill": "during_a_card_game_a_robot",
+    "visual": {
+      "type": "none",
+      "alt_text": "During a card game, a robot faces east then makes a quarter turn clockwise. It faces?"
+    },
+    "question": "During a card game, a robot faces east then makes a quarter turn clockwise. It faces?",
+    "audio_prompt": "During a card game, a robot faces east then makes a quarter turn clockwise. It faces?",
+    "answers": [
+      {
+        "text": "west",
+        "is_correct": false
+      },
+      {
+        "text": "south",
+        "is_correct": true
+      },
+      {
+        "text": "north",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Use the turn size and direction.",
+      "hint": "Use the information in the question to check your answer."
+    }
+  },
+  {
     "id": "AC9M2M05-T-001",
     "subject": "math",
     "year_level": "Year 2",
     "curriculum_code": "AC9M2M05",
     "bank": "test",
     "skill": "follow_quarter_turn",
-    "question": "With an arrow card, an arrow faces west. After a clockwise quarter turn, where does it face?",
-    "audio_prompt": "With an arrow card, an arrow faces west. After a clockwise quarter turn, where does it face?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m05.svg#ac9m2m05-t-001",
       "alt_text": "With an arrow card: Arrow starts facing west and turns clockwise to face north."
     },
+    "question": "With an arrow card, an arrow faces west. After a clockwise quarter turn, where does it face?",
+    "audio_prompt": "With an arrow card, an arrow faces west. After a clockwise quarter turn, where does it face?",
     "answers": [
       {
         "text": "east",
@@ -912,13 +1704,13 @@
     "curriculum_code": "AC9M2M05",
     "bank": "test",
     "skill": "follow_half_turn",
-    "question": "With an arrow card, an arrow faces west. After a half turn, where does it face?",
-    "audio_prompt": "With an arrow card, an arrow faces west. After a half turn, where does it face?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m05.svg#ac9m2m05-t-002",
       "alt_text": "With an arrow card: Arrow after a half turn from west, facing east."
     },
+    "question": "With an arrow card, an arrow faces west. After a half turn, where does it face?",
+    "audio_prompt": "With an arrow card, an arrow faces west. After a half turn, where does it face?",
     "answers": [
       {
         "text": "west",
@@ -946,13 +1738,13 @@
     "curriculum_code": "AC9M2M05",
     "bank": "test",
     "skill": "follow_full_turn",
-    "question": "With an arrow card, an arrow faces west. After a full turn, where does it face?",
-    "audio_prompt": "With an arrow card, an arrow faces west. After a full turn, where does it face?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m05.svg#ac9m2m05-t-003",
       "alt_text": "With an arrow card: Arrow completes a full turn and faces west again."
     },
+    "question": "With an arrow card, an arrow faces west. After a full turn, where does it face?",
+    "audio_prompt": "With an arrow card, an arrow faces west. After a full turn, where does it face?",
     "answers": [
       {
         "text": "west",
@@ -980,13 +1772,13 @@
     "curriculum_code": "AC9M2M05",
     "bank": "test",
     "skill": "identify_half_turn",
-    "question": "With an arrow card, which turn makes an object face the opposite way?",
-    "audio_prompt": "With an arrow card, which turn makes an object face the opposite way?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m05.svg#ac9m2m05-t-004",
       "alt_text": "With an arrow card: Arrow facing the opposite direction after a half turn."
     },
+    "question": "With an arrow card, which turn makes an object face the opposite way?",
+    "audio_prompt": "With an arrow card, which turn makes an object face the opposite way?",
     "answers": [
       {
         "text": "A quarter turn",
@@ -1014,13 +1806,13 @@
     "curriculum_code": "AC9M2M05",
     "bank": "test",
     "skill": "compose_full_turn",
-    "question": "With an arrow card, how many quarter turns make a full turn?",
-    "audio_prompt": "With an arrow card, how many quarter turns make a full turn?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m05.svg#ac9m2m05-t-005",
       "alt_text": "With an arrow card: Four quarter-turn arrows moving around a full circle."
     },
+    "question": "With an arrow card, how many quarter turns make a full turn?",
+    "audio_prompt": "With an arrow card, how many quarter turns make a full turn?",
     "answers": [
       {
         "text": "2",
@@ -1048,13 +1840,13 @@
     "curriculum_code": "AC9M2M05",
     "bank": "test",
     "skill": "follow_three_quarter_turn",
-    "question": "With an arrow card, a three-quarter clockwise turn from west ends facing which direction?",
-    "audio_prompt": "With an arrow card, a three-quarter clockwise turn from west ends facing which direction?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m05.svg#ac9m2m05-t-006",
       "alt_text": "With an arrow card: Arrow after three clockwise quarter turns from west, facing south."
     },
+    "question": "With an arrow card, a three-quarter clockwise turn from west ends facing which direction?",
+    "audio_prompt": "With an arrow card, a three-quarter clockwise turn from west ends facing which direction?",
     "answers": [
       {
         "text": "south",
@@ -1082,13 +1874,13 @@
     "curriculum_code": "AC9M2M05",
     "bank": "test",
     "skill": "choose_shortest_turn",
-    "question": "With an arrow card, a robot turns from west to north. Which is the shortest turn?",
-    "audio_prompt": "With an arrow card, a robot turns from west to north. Which is the shortest turn?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m05.svg#ac9m2m05-t-007",
       "alt_text": "With an arrow card: Robot arrow changing from west to north."
     },
+    "question": "With an arrow card, a robot turns from west to north. Which is the shortest turn?",
+    "audio_prompt": "With an arrow card, a robot turns from west to north. Which is the shortest turn?",
     "answers": [
       {
         "text": "A half turn",
@@ -1116,13 +1908,13 @@
     "curriculum_code": "AC9M2M05",
     "bank": "test",
     "skill": "describe_three_quarter_turn",
-    "question": "With an arrow card, which instruction describes three quarter turns?",
-    "audio_prompt": "With an arrow card, which instruction describes three quarter turns?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m05.svg#ac9m2m05-t-008",
       "alt_text": "With an arrow card: Three quarter-turn steps shown around a circle."
     },
+    "question": "With an arrow card, which instruction describes three quarter turns?",
+    "audio_prompt": "With an arrow card, which instruction describes three quarter turns?",
     "answers": [
       {
         "text": "Turn quarter, quarter",
@@ -1150,13 +1942,13 @@
     "curriculum_code": "AC9M2M05",
     "bank": "test",
     "skill": "follow_quarter_turn",
-    "question": "In the direction challenge, an arrow faces north. After a clockwise quarter turn, where does it face?",
-    "audio_prompt": "In the direction challenge, an arrow faces north. After a clockwise quarter turn, where does it face?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m05.svg#ac9m2m05-t-009",
       "alt_text": "In the direction challenge: Arrow starts facing north and turns clockwise to face east."
     },
+    "question": "In the direction challenge, an arrow faces north. After a clockwise quarter turn, where does it face?",
+    "audio_prompt": "In the direction challenge, an arrow faces north. After a clockwise quarter turn, where does it face?",
     "answers": [
       {
         "text": "east",
@@ -1184,13 +1976,13 @@
     "curriculum_code": "AC9M2M05",
     "bank": "test",
     "skill": "follow_half_turn",
-    "question": "In the direction challenge, an arrow faces north. After a half turn, where does it face?",
-    "audio_prompt": "In the direction challenge, an arrow faces north. After a half turn, where does it face?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m05.svg#ac9m2m05-t-010",
       "alt_text": "In the direction challenge: Arrow after a half turn from north, facing south."
     },
+    "question": "In the direction challenge, an arrow faces north. After a half turn, where does it face?",
+    "audio_prompt": "In the direction challenge, an arrow faces north. After a half turn, where does it face?",
     "answers": [
       {
         "text": "north",
@@ -1218,13 +2010,13 @@
     "curriculum_code": "AC9M2M05",
     "bank": "test",
     "skill": "follow_full_turn",
-    "question": "In the direction challenge, an arrow faces north. After a full turn, where does it face?",
-    "audio_prompt": "In the direction challenge, an arrow faces north. After a full turn, where does it face?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m05.svg#ac9m2m05-t-011",
       "alt_text": "In the direction challenge: Arrow completes a full turn and faces north again."
     },
+    "question": "In the direction challenge, an arrow faces north. After a full turn, where does it face?",
+    "audio_prompt": "In the direction challenge, an arrow faces north. After a full turn, where does it face?",
     "answers": [
       {
         "text": "east",
@@ -1252,13 +2044,13 @@
     "curriculum_code": "AC9M2M05",
     "bank": "test",
     "skill": "identify_half_turn",
-    "question": "In the direction challenge, which turn makes an object face the opposite way?",
-    "audio_prompt": "In the direction challenge, which turn makes an object face the opposite way?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m05.svg#ac9m2m05-t-012",
       "alt_text": "In the direction challenge: Arrow facing the opposite direction after a half turn."
     },
+    "question": "In the direction challenge, which turn makes an object face the opposite way?",
+    "audio_prompt": "In the direction challenge, which turn makes an object face the opposite way?",
     "answers": [
       {
         "text": "A half turn",
@@ -1286,13 +2078,13 @@
     "curriculum_code": "AC9M2M05",
     "bank": "test",
     "skill": "compose_full_turn",
-    "question": "In the direction challenge, how many quarter turns make a full turn?",
-    "audio_prompt": "In the direction challenge, how many quarter turns make a full turn?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m05.svg#ac9m2m05-t-013",
       "alt_text": "In the direction challenge: Four quarter-turn arrows moving around a full circle."
     },
+    "question": "In the direction challenge, how many quarter turns make a full turn?",
+    "audio_prompt": "In the direction challenge, how many quarter turns make a full turn?",
     "answers": [
       {
         "text": "2",
@@ -1320,13 +2112,13 @@
     "curriculum_code": "AC9M2M05",
     "bank": "test",
     "skill": "follow_three_quarter_turn",
-    "question": "In the direction challenge, a three-quarter clockwise turn from north ends facing which direction?",
-    "audio_prompt": "In the direction challenge, a three-quarter clockwise turn from north ends facing which direction?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m05.svg#ac9m2m05-t-014",
       "alt_text": "In the direction challenge: Arrow after three clockwise quarter turns from north, facing west."
     },
+    "question": "In the direction challenge, a three-quarter clockwise turn from north ends facing which direction?",
+    "audio_prompt": "In the direction challenge, a three-quarter clockwise turn from north ends facing which direction?",
     "answers": [
       {
         "text": "east",
@@ -1354,13 +2146,13 @@
     "curriculum_code": "AC9M2M05",
     "bank": "test",
     "skill": "choose_shortest_turn",
-    "question": "In the direction challenge, a robot turns from north to east. Which is the shortest turn?",
-    "audio_prompt": "In the direction challenge, a robot turns from north to east. Which is the shortest turn?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m05.svg#ac9m2m05-t-015",
       "alt_text": "In the direction challenge: Robot arrow changing from north to east."
     },
+    "question": "In the direction challenge, a robot turns from north to east. Which is the shortest turn?",
+    "audio_prompt": "In the direction challenge, a robot turns from north to east. Which is the shortest turn?",
     "answers": [
       {
         "text": "A clockwise quarter turn",
@@ -1388,13 +2180,13 @@
     "curriculum_code": "AC9M2M05",
     "bank": "test",
     "skill": "describe_three_quarter_turn",
-    "question": "In the direction challenge, which instruction describes three quarter turns?",
-    "audio_prompt": "In the direction challenge, which instruction describes three quarter turns?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m05.svg#ac9m2m05-t-016",
       "alt_text": "In the direction challenge: Three quarter-turn steps shown around a circle."
     },
+    "question": "In the direction challenge, which instruction describes three quarter turns?",
+    "audio_prompt": "In the direction challenge, which instruction describes three quarter turns?",
     "answers": [
       {
         "text": "Turn quarter, quarter",

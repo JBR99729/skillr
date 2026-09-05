@@ -181,8 +181,8 @@ window.skillrTestQuestions = [
     "skill": "identify pattern error",
     "printable": true,
     "type": "single",
-    "question": "At the block station, which number does not belong in 15, 20, 26, 30?",
-    "audioPrompt": "At the block station, which number does not belong in 15, 20, 26, 30?",
+    "question": "At the block station, which number doesn't belong in 15, 20, 26, 30?",
+    "audioPrompt": "At the block station, which number doesn't belong in 15, 20, 26, 30?",
     "visual": "At the block station: A pattern with one number that breaks the constant rule.",
     "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the block station: A pattern with one number that breaks the constant rule.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2a01.svg#ac9m2a01-t-007\"></use></svg>",
     "visualMeta": {
@@ -210,8 +210,8 @@ window.skillrTestQuestions = [
     "skill": "connect shape and number patterns",
     "printable": true,
     "type": "single",
-    "question": "At the block station, the shape pattern has 5, 7, 9 dots. It grows by the same amount. How many dots come next?",
-    "audioPrompt": "At the block station, the shape pattern has 5, 7, 9 dots. It grows by the same amount. How many dots come next?",
+    "question": "At the block station, the dot pattern is 5, 7, 9. What comes next?",
+    "audioPrompt": "At the block station, the dot pattern is 5, 7, 9. What comes next?",
     "visual": "At the block station: Three dot groups containing 5, 7 and 9 dots, growing by 2.",
     "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the block station: Three dot groups containing 5, 7 and 9 dots, growing by 2.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2a01.svg#ac9m2a01-t-008\"></use></svg>",
     "visualMeta": {
@@ -413,8 +413,8 @@ window.skillrTestQuestions = [
     "skill": "identify pattern error",
     "printable": true,
     "type": "single",
-    "question": "In the flag game, which number does not belong in 19, 21, 24, 25?",
-    "audioPrompt": "In the flag game, which number does not belong in 19, 21, 24, 25?",
+    "question": "In the flag game, which number doesn't belong in 19, 21, 24, 25?",
+    "audioPrompt": "In the flag game, which number doesn't belong in 19, 21, 24, 25?",
     "visual": "In the flag game: A pattern with one number that breaks the constant rule.",
     "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In the flag game: A pattern with one number that breaks the constant rule.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2a01.svg#ac9m2a01-t-015\"></use></svg>",
     "visualMeta": {
@@ -442,8 +442,8 @@ window.skillrTestQuestions = [
     "skill": "connect shape and number patterns",
     "printable": true,
     "type": "single",
-    "question": "In the flag game, the shape pattern has 6, 8, 10 dots. It grows by the same amount. How many dots come next?",
-    "audioPrompt": "In the flag game, the shape pattern has 6, 8, 10 dots. It grows by the same amount. How many dots come next?",
+    "question": "In the flag game, the dot pattern is 6, 8, 10. What comes next?",
+    "audioPrompt": "In the flag game, the dot pattern is 6, 8, 10. What comes next?",
     "visual": "In the flag game: Three dot groups containing 6, 8 and 10 dots, growing by 2.",
     "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In the flag game: Three dot groups containing 6, 8 and 10 dots, growing by 2.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2a01.svg#ac9m2a01-t-016\"></use></svg>",
     "visualMeta": {

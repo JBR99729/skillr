@@ -210,8 +210,8 @@ window.skillrTestQuestions = [
     "skill": "make eighths by halving",
     "printable": true,
     "type": "single",
-    "question": "In the garden, the garden bed is folded in half, then in half again, then in half again. How many equal parts are made?",
-    "audioPrompt": "In the garden, the garden bed is folded in half, then in half again, then in half again. How many equal parts are made?",
+    "question": "In the garden, the garden bed is folded in half three times. How many equal parts are made?",
+    "audioPrompt": "In the garden, the garden bed is folded in half three times. How many equal parts are made?",
     "visual": "In the garden: One garden bed divided into 8 equal parts after three halvings.",
     "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In the garden: One garden bed divided into 8 equal parts after three halvings.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2m02.svg#ac9m2m02-t-008\"></use></svg>",
     "visualMeta": {
@@ -442,8 +442,8 @@ window.skillrTestQuestions = [
     "skill": "make eighths by halving",
     "printable": true,
     "type": "single",
-    "question": "At the playdough table, the playdough slab is folded in half, then in half again, then in half again. How many equal parts are made?",
-    "audioPrompt": "At the playdough table, the playdough slab is folded in half, then in half again, then in half again. How many equal parts are made?",
+    "question": "At the playdough table, the playdough slab is folded in half three times. How many equal parts are made?",
+    "audioPrompt": "At the playdough table, the playdough slab is folded in half three times. How many equal parts are made?",
     "visual": "At the playdough table: One playdough slab divided into 8 equal parts after three halvings.",
     "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the playdough table: One playdough slab divided into 8 equal parts after three halvings.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2m02.svg#ac9m2m02-t-016\"></use></svg>",
     "visualMeta": {

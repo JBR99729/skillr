@@ -6,13 +6,13 @@
     "curriculum_code": "AC9M2ST01",
     "bank": "practice",
     "skill": "ask_categorical_survey_question",
-    "question": "In the fruit survey, which question would collect data about favourite fruit?",
-    "audio_prompt": "In the fruit survey, which question would collect data about favourite fruit?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year2/math/ac9m2st01.svg#ac9m2st01-p-001",
       "alt_text": "In the fruit survey: Three category bars ready to record answers about favourite fruit."
     },
+    "question": "In the fruit survey, which question would collect data about favourite fruit?",
+    "audio_prompt": "In the fruit survey, which question would collect data about favourite fruit?",
     "answers": [
       {
         "text": "How old is the school building?",
@@ -43,13 +43,13 @@
     "curriculum_code": "AC9M2ST01",
     "bank": "practice",
     "skill": "recognise_categorical_data",
-    "question": "In the fruit survey, a class records apples, bananas and oranges. What kind of data are these?",
-    "audio_prompt": "In the fruit survey, a class records apples, bananas and oranges. What kind of data are these?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year2/math/ac9m2st01.svg#ac9m2st01-p-002",
       "alt_text": "In the fruit survey: A table with the categories apples, bananas, oranges."
     },
+    "question": "In the fruit survey, a class records apples, bananas and oranges. What kind of data are these?",
+    "audio_prompt": "In the fruit survey, a class records apples, bananas and oranges. What kind of data are these?",
     "answers": [
       {
         "text": "length measurements",
@@ -80,13 +80,13 @@
     "curriculum_code": "AC9M2ST01",
     "bank": "practice",
     "skill": "collect_data_accurately",
-    "question": "In the fruit survey, why should each student's answer be counted once?",
-    "audio_prompt": "In the fruit survey, why should each student's answer be counted once?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year2/math/ac9m2st01.svg#ac9m2st01-p-003",
       "alt_text": "In the fruit survey: A checklist with one tick beside each student's response."
     },
+    "question": "In the fruit survey, why should each student's answer be counted once?",
+    "audio_prompt": "In the fruit survey, why should each student's answer be counted once?",
     "answers": [
       {
         "text": "so the totals are accurate",
@@ -117,13 +117,13 @@
     "curriculum_code": "AC9M2ST01",
     "bank": "practice",
     "skill": "record_categories_in_table",
-    "question": "In the fruit survey, which table correctly records 2 apples, 6 bananas and 3 oranges?",
-    "audio_prompt": "In the fruit survey, which table correctly records 2 apples, 6 bananas and 3 oranges?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year2/math/ac9m2st01.svg#ac9m2st01-p-004",
       "alt_text": "In the fruit survey: Data display with apples 2, bananas 6 and oranges 3."
     },
+    "question": "In the fruit survey, which table correctly records 2 apples, 6 bananas and 3 oranges?",
+    "audio_prompt": "In the fruit survey, which table correctly records 2 apples, 6 bananas and 3 oranges?",
     "answers": [
       {
         "text": "apples 3, bananas 6, oranges 3",
@@ -154,13 +154,13 @@
     "curriculum_code": "AC9M2ST01",
     "bank": "practice",
     "skill": "identify_most_frequent_category",
-    "question": "In the fruit survey, which category has the most responses?",
-    "audio_prompt": "In the fruit survey, which category has the most responses?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year2/math/ac9m2st01.svg#ac9m2st01-p-005",
       "alt_text": "In the fruit survey: apples has 2, bananas has 6 and oranges has 3 responses."
     },
+    "question": "In the fruit survey, which category has the most responses?",
+    "audio_prompt": "In the fruit survey, which category has the most responses?",
     "answers": [
       {
         "text": "apples",
@@ -191,13 +191,13 @@
     "curriculum_code": "AC9M2ST01",
     "bank": "practice",
     "skill": "choose_nonoverlapping_categories",
-    "question": "In the fruit survey, which categories are clear and do not overlap for a pet survey?",
-    "audio_prompt": "In the fruit survey, which categories are clear and do not overlap for a pet survey?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year2/math/ac9m2st01.svg#ac9m2st01-p-006",
       "alt_text": "In the fruit survey: Three labelled boxes: cat, dog and fish."
     },
+    "question": "In the fruit survey, which categories are clear and don't overlap for a pet survey?",
+    "audio_prompt": "In the fruit survey, which categories are clear and don't overlap for a pet survey?",
     "answers": [
       {
         "text": "cat, dog, fish",
@@ -228,16 +228,16 @@
     "curriculum_code": "AC9M2ST01",
     "bank": "practice",
     "skill": "select_data_collection_method",
-    "question": "In the fruit survey, which method could collect data about birds visiting the playground?",
-    "audio_prompt": "In the fruit survey, which method could collect data about birds visiting the playground?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year2/math/ac9m2st01.svg#ac9m2st01-p-007",
       "alt_text": "In the fruit survey: A bird observation sheet with tally marks."
     },
+    "question": "In the fruit survey, which method could collect data about birds visiting the playground?",
+    "audio_prompt": "In the fruit survey, which method could collect data about birds visiting the playground?",
     "answers": [
       {
-        "text": "guess without looking",
+        "text": "guess by guessing",
         "is_correct": false
       },
       {
@@ -265,13 +265,13 @@
     "curriculum_code": "AC9M2ST01",
     "bank": "practice",
     "skill": "answer_question_from_table",
-    "question": "In the fruit survey, apples has 2 responses and bananas has 6. How many responses altogether?",
-    "audio_prompt": "In the fruit survey, apples has 2 responses and bananas has 6. How many responses altogether?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year2/math/ac9m2st01.svg#ac9m2st01-p-008",
       "alt_text": "In the fruit survey: A data display showing apples with 2 and bananas with 6."
     },
+    "question": "In the fruit survey, apples has 2 responses and bananas has 6. How many responses altogether?",
+    "audio_prompt": "In the fruit survey, apples has 2 responses and bananas has 6. How many responses altogether?",
     "answers": [
       {
         "text": "4",
@@ -302,13 +302,13 @@
     "curriculum_code": "AC9M2ST01",
     "bank": "practice",
     "skill": "ask_categorical_survey_question",
-    "question": "In the travel survey, which question would collect data about way to travel to school?",
-    "audio_prompt": "In the travel survey, which question would collect data about way to travel to school?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year2/math/ac9m2st01.svg#ac9m2st01-p-009",
       "alt_text": "In the travel survey: Three category bars ready to record answers about way to travel to school."
     },
+    "question": "In the travel survey, which question would collect data about way to travel to school?",
+    "audio_prompt": "In the travel survey, which question would collect data about way to travel to school?",
     "answers": [
       {
         "text": "What is your way to travel to school?",
@@ -338,13 +338,13 @@
     "curriculum_code": "AC9M2ST01",
     "bank": "practice",
     "skill": "recognise_categorical_data",
-    "question": "In the travel survey, a class records walk, car and bus. What kind of data are these?",
-    "audio_prompt": "In the travel survey, a class records walk, car and bus. What kind of data are these?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year2/math/ac9m2st01.svg#ac9m2st01-p-010",
       "alt_text": "In the travel survey: A table with the categories walk, car, bus."
     },
+    "question": "In the travel survey, a class records walk, car and bus. What kind of data are these?",
+    "audio_prompt": "In the travel survey, a class records walk, car and bus. What kind of data are these?",
     "answers": [
       {
         "text": "length measurements",
@@ -374,13 +374,13 @@
     "curriculum_code": "AC9M2ST01",
     "bank": "practice",
     "skill": "collect_data_accurately",
-    "question": "In the travel survey, why should each student's answer be counted once?",
-    "audio_prompt": "In the travel survey, why should each student's answer be counted once?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year2/math/ac9m2st01.svg#ac9m2st01-p-011",
       "alt_text": "In the travel survey: A checklist with one tick beside each student's response."
     },
+    "question": "In the travel survey, why should each student's answer be counted once?",
+    "audio_prompt": "In the travel survey, why should each student's answer be counted once?",
     "answers": [
       {
         "text": "so every total is the same",
@@ -410,13 +410,13 @@
     "curriculum_code": "AC9M2ST01",
     "bank": "practice",
     "skill": "record_categories_in_table",
-    "question": "In the travel survey, which table correctly records 3 walk, 7 car and 4 bus?",
-    "audio_prompt": "In the travel survey, which table correctly records 3 walk, 7 car and 4 bus?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year2/math/ac9m2st01.svg#ac9m2st01-p-012",
       "alt_text": "In the travel survey: Data display with walk 3, car 7 and bus 4."
     },
+    "question": "In the travel survey, which table correctly records 3 walk, 7 car and 4 bus?",
+    "audio_prompt": "In the travel survey, which table correctly records 3 walk, 7 car and 4 bus?",
     "answers": [
       {
         "text": "walk 3, car 7, bus 4",
@@ -446,13 +446,13 @@
     "curriculum_code": "AC9M2ST01",
     "bank": "practice",
     "skill": "identify_most_frequent_category",
-    "question": "In the travel survey, which category has the most responses?",
-    "audio_prompt": "In the travel survey, which category has the most responses?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year2/math/ac9m2st01.svg#ac9m2st01-p-013",
       "alt_text": "In the travel survey: walk has 3, car has 7 and bus has 4 responses."
     },
+    "question": "In the travel survey, which category has the most responses?",
+    "audio_prompt": "In the travel survey, which category has the most responses?",
     "answers": [
       {
         "text": "walk",
@@ -482,13 +482,13 @@
     "curriculum_code": "AC9M2ST01",
     "bank": "practice",
     "skill": "choose_nonoverlapping_categories",
-    "question": "In the travel survey, which categories are clear and do not overlap for a pet survey?",
-    "audio_prompt": "In the travel survey, which categories are clear and do not overlap for a pet survey?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year2/math/ac9m2st01.svg#ac9m2st01-p-014",
       "alt_text": "In the travel survey: Three labelled boxes: cat, dog and fish."
     },
+    "question": "In the travel survey, which categories are clear and don't overlap for a pet survey?",
+    "audio_prompt": "In the travel survey, which categories are clear and don't overlap for a pet survey?",
     "answers": [
       {
         "text": "small, cute, dog",
@@ -518,20 +518,20 @@
     "curriculum_code": "AC9M2ST01",
     "bank": "practice",
     "skill": "select_data_collection_method",
-    "question": "In the travel survey, which method could collect data about birds visiting the playground?",
-    "audio_prompt": "In the travel survey, which method could collect data about birds visiting the playground?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year2/math/ac9m2st01.svg#ac9m2st01-p-015",
       "alt_text": "In the travel survey: A bird observation sheet with tally marks."
     },
+    "question": "In the travel survey, which method could collect data about birds visiting the playground?",
+    "audio_prompt": "In the travel survey, which method could collect data about birds visiting the playground?",
     "answers": [
       {
         "text": "observe and tally each bird",
         "is_correct": true
       },
       {
-        "text": "guess without looking",
+        "text": "guess by guessing",
         "is_correct": false
       },
       {
@@ -554,13 +554,13 @@
     "curriculum_code": "AC9M2ST01",
     "bank": "practice",
     "skill": "answer_question_from_table",
-    "question": "In the travel survey, walk has 3 responses and car has 7. How many responses altogether?",
-    "audio_prompt": "In the travel survey, walk has 3 responses and car has 7. How many responses altogether?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year2/math/ac9m2st01.svg#ac9m2st01-p-016",
       "alt_text": "In the travel survey: A data display showing walk with 3 and car with 7."
     },
+    "question": "In the travel survey, walk has 3 responses and car has 7. How many responses altogether?",
+    "audio_prompt": "In the travel survey, walk has 3 responses and car has 7. How many responses altogether?",
     "answers": [
       {
         "text": "4",
@@ -590,13 +590,13 @@
     "curriculum_code": "AC9M2ST01",
     "bank": "practice",
     "skill": "ask_categorical_survey_question",
-    "question": "In the playground survey, which question would collect data about favourite playground game?",
-    "audio_prompt": "In the playground survey, which question would collect data about favourite playground game?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year2/math/ac9m2st01.svg#ac9m2st01-p-017",
       "alt_text": "In the playground survey: Three category bars ready to record answers about favourite playground game."
     },
+    "question": "In the playground survey, which question would collect data about favourite playground game?",
+    "audio_prompt": "In the playground survey, which question would collect data about favourite playground game?",
     "answers": [
       {
         "text": "How old is the school building?",
@@ -626,13 +626,13 @@
     "curriculum_code": "AC9M2ST01",
     "bank": "practice",
     "skill": "recognise_categorical_data",
-    "question": "In the playground survey, a class records chase, swings and ball. What kind of data are these?",
-    "audio_prompt": "In the playground survey, a class records chase, swings and ball. What kind of data are these?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year2/math/ac9m2st01.svg#ac9m2st01-p-018",
       "alt_text": "In the playground survey: A table with the categories chase, swings, ball."
     },
+    "question": "In the playground survey, a class records chase, swings and ball. What kind of data are these?",
+    "audio_prompt": "In the playground survey, a class records chase, swings and ball. What kind of data are these?",
     "answers": [
       {
         "text": "categories",
@@ -662,13 +662,13 @@
     "curriculum_code": "AC9M2ST01",
     "bank": "practice",
     "skill": "collect_data_accurately",
-    "question": "In the playground survey, why should each student's answer be counted once?",
-    "audio_prompt": "In the playground survey, why should each student's answer be counted once?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year2/math/ac9m2st01.svg#ac9m2st01-p-019",
       "alt_text": "In the playground survey: A checklist with one tick beside each student's response."
     },
+    "question": "In the playground survey, why should each student's answer be counted once?",
+    "audio_prompt": "In the playground survey, why should each student's answer be counted once?",
     "answers": [
       {
         "text": "so every total is the same",
@@ -698,13 +698,13 @@
     "curriculum_code": "AC9M2ST01",
     "bank": "practice",
     "skill": "record_categories_in_table",
-    "question": "In the playground survey, which table correctly records 4 chase, 8 swings and 3 ball?",
-    "audio_prompt": "In the playground survey, which table correctly records 4 chase, 8 swings and 3 ball?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year2/math/ac9m2st01.svg#ac9m2st01-p-020",
       "alt_text": "In the playground survey: Data display with chase 4, swings 8 and ball 3."
     },
+    "question": "In the playground survey, which table correctly records 4 chase, 8 swings and 3 ball?",
+    "audio_prompt": "In the playground survey, which table correctly records 4 chase, 8 swings and 3 ball?",
     "answers": [
       {
         "text": "chase 5, swings 8, ball 3",
@@ -734,13 +734,13 @@
     "curriculum_code": "AC9M2ST01",
     "bank": "practice",
     "skill": "identify_most_frequent_category",
-    "question": "In the playground survey, which category has the most responses?",
-    "audio_prompt": "In the playground survey, which category has the most responses?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year2/math/ac9m2st01.svg#ac9m2st01-p-021",
       "alt_text": "In the playground survey: chase has 4, swings has 8 and ball has 3 responses."
     },
+    "question": "In the playground survey, which category has the most responses?",
+    "audio_prompt": "In the playground survey, which category has the most responses?",
     "answers": [
       {
         "text": "swings",
@@ -770,13 +770,13 @@
     "curriculum_code": "AC9M2ST01",
     "bank": "practice",
     "skill": "choose_nonoverlapping_categories",
-    "question": "In the playground survey, which categories are clear and do not overlap for a pet survey?",
-    "audio_prompt": "In the playground survey, which categories are clear and do not overlap for a pet survey?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year2/math/ac9m2st01.svg#ac9m2st01-p-022",
       "alt_text": "In the playground survey: Three labelled boxes: cat, dog and fish."
     },
+    "question": "In the playground survey, which categories are clear and don't overlap for a pet survey?",
+    "audio_prompt": "In the playground survey, which categories are clear and don't overlap for a pet survey?",
     "answers": [
       {
         "text": "small, cute, dog",
@@ -806,16 +806,16 @@
     "curriculum_code": "AC9M2ST01",
     "bank": "practice",
     "skill": "select_data_collection_method",
-    "question": "In the playground survey, which method could collect data about birds visiting the playground?",
-    "audio_prompt": "In the playground survey, which method could collect data about birds visiting the playground?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year2/math/ac9m2st01.svg#ac9m2st01-p-023",
       "alt_text": "In the playground survey: A bird observation sheet with tally marks."
     },
+    "question": "In the playground survey, which method could collect data about birds visiting the playground?",
+    "audio_prompt": "In the playground survey, which method could collect data about birds visiting the playground?",
     "answers": [
       {
-        "text": "guess without looking",
+        "text": "guess by guessing",
         "is_correct": false
       },
       {
@@ -842,13 +842,13 @@
     "curriculum_code": "AC9M2ST01",
     "bank": "practice",
     "skill": "answer_question_from_table",
-    "question": "In the playground survey, chase has 4 responses and swings has 8. How many responses altogether?",
-    "audio_prompt": "In the playground survey, chase has 4 responses and swings has 8. How many responses altogether?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year2/math/ac9m2st01.svg#ac9m2st01-p-024",
       "alt_text": "In the playground survey: A data display showing chase with 4 and swings with 8."
     },
+    "question": "In the playground survey, chase has 4 responses and swings has 8. How many responses altogether?",
+    "audio_prompt": "In the playground survey, chase has 4 responses and swings has 8. How many responses altogether?",
     "answers": [
       {
         "text": "12",
@@ -872,19 +872,811 @@
     "sequence_priority": 2
   },
   {
+    "id": "AC9M2ST01-P-025",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2ST01",
+    "bank": "practice",
+    "skill": "at_the_school_garden_which_question",
+    "visual": {
+      "type": "none",
+      "alt_text": "At the school garden, which question can collect class data?"
+    },
+    "question": "At the school garden, which question can collect class data?",
+    "audio_prompt": "At the school garden, which question can collect class data?",
+    "answers": [
+      {
+        "text": "Which fruit?",
+        "is_correct": true
+      },
+      {
+        "text": "What is 8 + 2?",
+        "is_correct": false
+      },
+      {
+        "text": "Read this word",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Data questions collect answers that can be sorted.",
+      "hint": "Use the information in the question to check your answer."
+    }
+  },
+  {
+    "id": "AC9M2ST01-P-026",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2ST01",
+    "bank": "practice",
+    "skill": "during_maths_groups_which_categories_suit",
+    "visual": {
+      "type": "none",
+      "alt_text": "During maths groups, which categories suit favourite fruit?"
+    },
+    "question": "During maths groups, which categories suit favourite fruit?",
+    "audio_prompt": "During maths groups, which categories suit favourite fruit?",
+    "answers": [
+      {
+        "text": "red, tall, Monday",
+        "is_correct": false
+      },
+      {
+        "text": "yes, heavy, soft",
+        "is_correct": false
+      },
+      {
+        "text": "apple, pear, banana",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Data questions collect answers that can be sorted.",
+      "hint": "Use the information in the question to check your answer."
+    }
+  },
+  {
+    "id": "AC9M2ST01-P-027",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2ST01",
+    "bank": "practice",
+    "skill": "at_the_art_table_7_children",
+    "visual": {
+      "type": "none",
+      "alt_text": "At the art table, 7 children choose apples and 5 choose pears. How many responses?"
+    },
+    "question": "At the art table, 7 children choose apples and 5 choose pears. How many responses?",
+    "audio_prompt": "At the art table, 7 children choose apples and 5 choose pears. How many responses?",
+    "answers": [
+      {
+        "text": "13",
+        "is_correct": false
+      },
+      {
+        "text": "12",
+        "is_correct": true
+      },
+      {
+        "text": "2",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Data questions collect answers that can be sorted.",
+      "hint": "Use the information in the question to check your answer."
+    }
+  },
+  {
+    "id": "AC9M2ST01-P-028",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2ST01",
+    "bank": "practice",
+    "skill": "in_the_playground_which_question_can",
+    "visual": {
+      "type": "none",
+      "alt_text": "In the playground, which question can collect class data?"
+    },
+    "question": "In the playground, which question can collect class data?",
+    "audio_prompt": "In the playground, which question can collect class data?",
+    "answers": [
+      {
+        "text": "Which fruit?",
+        "is_correct": true
+      },
+      {
+        "text": "What is 8 + 2?",
+        "is_correct": false
+      },
+      {
+        "text": "Read this word",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Data questions collect answers that can be sorted.",
+      "hint": "Use the information in the question to check your answer."
+    }
+  },
+  {
+    "id": "AC9M2ST01-P-029",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2ST01",
+    "bank": "practice",
+    "skill": "at_the_library_which_categories_suit",
+    "visual": {
+      "type": "none",
+      "alt_text": "At the library, which categories suit favourite fruit?"
+    },
+    "question": "At the library, which categories suit favourite fruit?",
+    "audio_prompt": "At the library, which categories suit favourite fruit?",
+    "answers": [
+      {
+        "text": "red, tall, Monday",
+        "is_correct": false
+      },
+      {
+        "text": "yes, heavy, soft",
+        "is_correct": false
+      },
+      {
+        "text": "apple, pear, banana",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Data questions collect answers that can be sorted.",
+      "hint": "Use the information in the question to check your answer."
+    }
+  },
+  {
+    "id": "AC9M2ST01-P-030",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2ST01",
+    "bank": "practice",
+    "skill": "during_sport_7_children_choose_apples",
+    "visual": {
+      "type": "none",
+      "alt_text": "During sport, 7 children choose apples and 5 choose pears. How many responses?"
+    },
+    "question": "During sport, 7 children choose apples and 5 choose pears. How many responses?",
+    "audio_prompt": "During sport, 7 children choose apples and 5 choose pears. How many responses?",
+    "answers": [
+      {
+        "text": "13",
+        "is_correct": false
+      },
+      {
+        "text": "12",
+        "is_correct": true
+      },
+      {
+        "text": "2",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Data questions collect answers that can be sorted.",
+      "hint": "Use the information in the question to check your answer."
+    }
+  },
+  {
+    "id": "AC9M2ST01-P-031",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2ST01",
+    "bank": "practice",
+    "skill": "at_the_class_shop_which_question",
+    "visual": {
+      "type": "none",
+      "alt_text": "At the class shop, which question can collect class data?"
+    },
+    "question": "At the class shop, which question can collect class data?",
+    "audio_prompt": "At the class shop, which question can collect class data?",
+    "answers": [
+      {
+        "text": "Which fruit?",
+        "is_correct": true
+      },
+      {
+        "text": "What is 8 + 2?",
+        "is_correct": false
+      },
+      {
+        "text": "Read this word",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Data questions collect answers that can be sorted.",
+      "hint": "Use the information in the question to check your answer."
+    }
+  },
+  {
+    "id": "AC9M2ST01-P-032",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2ST01",
+    "bank": "practice",
+    "skill": "on_the_picnic_rug_which_categories",
+    "visual": {
+      "type": "none",
+      "alt_text": "On the picnic rug, which categories suit favourite fruit?"
+    },
+    "question": "On the picnic rug, which categories suit favourite fruit?",
+    "audio_prompt": "On the picnic rug, which categories suit favourite fruit?",
+    "answers": [
+      {
+        "text": "red, tall, Monday",
+        "is_correct": false
+      },
+      {
+        "text": "yes, heavy, soft",
+        "is_correct": false
+      },
+      {
+        "text": "apple, pear, banana",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Data questions collect answers that can be sorted.",
+      "hint": "Use the information in the question to check your answer."
+    }
+  },
+  {
+    "id": "AC9M2ST01-P-033",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2ST01",
+    "bank": "practice",
+    "skill": "at_the_block_table_7_children",
+    "visual": {
+      "type": "none",
+      "alt_text": "At the block table, 7 children choose apples and 5 choose pears. How many responses?"
+    },
+    "question": "At the block table, 7 children choose apples and 5 choose pears. How many responses?",
+    "audio_prompt": "At the block table, 7 children choose apples and 5 choose pears. How many responses?",
+    "answers": [
+      {
+        "text": "13",
+        "is_correct": false
+      },
+      {
+        "text": "12",
+        "is_correct": true
+      },
+      {
+        "text": "2",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Data questions collect answers that can be sorted.",
+      "hint": "Use the information in the question to check your answer."
+    }
+  },
+  {
+    "id": "AC9M2ST01-P-034",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2ST01",
+    "bank": "practice",
+    "skill": "in_the_lunch_area_which_question",
+    "visual": {
+      "type": "none",
+      "alt_text": "In the lunch area, which question can collect class data?"
+    },
+    "question": "In the lunch area, which question can collect class data?",
+    "audio_prompt": "In the lunch area, which question can collect class data?",
+    "answers": [
+      {
+        "text": "Which fruit?",
+        "is_correct": true
+      },
+      {
+        "text": "What is 8 + 2?",
+        "is_correct": false
+      },
+      {
+        "text": "Read this word",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Data questions collect answers that can be sorted.",
+      "hint": "Use the information in the question to check your answer."
+    }
+  },
+  {
+    "id": "AC9M2ST01-P-035",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2ST01",
+    "bank": "practice",
+    "skill": "at_the_science_table_which_categories",
+    "visual": {
+      "type": "none",
+      "alt_text": "At the science table, which categories suit favourite fruit?"
+    },
+    "question": "At the science table, which categories suit favourite fruit?",
+    "audio_prompt": "At the science table, which categories suit favourite fruit?",
+    "answers": [
+      {
+        "text": "red, tall, Monday",
+        "is_correct": false
+      },
+      {
+        "text": "yes, heavy, soft",
+        "is_correct": false
+      },
+      {
+        "text": "apple, pear, banana",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Data questions collect answers that can be sorted.",
+      "hint": "Use the information in the question to check your answer."
+    }
+  },
+  {
+    "id": "AC9M2ST01-P-036",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2ST01",
+    "bank": "practice",
+    "skill": "during_a_card_game_7_children",
+    "visual": {
+      "type": "none",
+      "alt_text": "During a card game, 7 children choose apples and 5 choose pears. How many responses?"
+    },
+    "question": "During a card game, 7 children choose apples and 5 choose pears. How many responses?",
+    "audio_prompt": "During a card game, 7 children choose apples and 5 choose pears. How many responses?",
+    "answers": [
+      {
+        "text": "13",
+        "is_correct": false
+      },
+      {
+        "text": "12",
+        "is_correct": true
+      },
+      {
+        "text": "2",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Data questions collect answers that can be sorted.",
+      "hint": "Use the information in the question to check your answer."
+    }
+  },
+  {
+    "id": "AC9M2ST01-P-037",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2ST01",
+    "bank": "practice",
+    "skill": "at_the_school_garden_which_question",
+    "visual": {
+      "type": "none",
+      "alt_text": "At the school garden, which question can collect class data?"
+    },
+    "question": "At the school garden, which question can collect class data?",
+    "audio_prompt": "At the school garden, which question can collect class data?",
+    "answers": [
+      {
+        "text": "Which fruit?",
+        "is_correct": true
+      },
+      {
+        "text": "What is 8 + 2?",
+        "is_correct": false
+      },
+      {
+        "text": "Read this word",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Data questions collect answers that can be sorted.",
+      "hint": "Use the information in the question to check your answer."
+    }
+  },
+  {
+    "id": "AC9M2ST01-P-038",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2ST01",
+    "bank": "practice",
+    "skill": "during_maths_groups_which_categories_suit",
+    "visual": {
+      "type": "none",
+      "alt_text": "During maths groups, which categories suit favourite fruit?"
+    },
+    "question": "During maths groups, which categories suit favourite fruit?",
+    "audio_prompt": "During maths groups, which categories suit favourite fruit?",
+    "answers": [
+      {
+        "text": "red, tall, Monday",
+        "is_correct": false
+      },
+      {
+        "text": "yes, heavy, soft",
+        "is_correct": false
+      },
+      {
+        "text": "apple, pear, banana",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Data questions collect answers that can be sorted.",
+      "hint": "Use the information in the question to check your answer."
+    }
+  },
+  {
+    "id": "AC9M2ST01-P-039",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2ST01",
+    "bank": "practice",
+    "skill": "at_the_art_table_7_children",
+    "visual": {
+      "type": "none",
+      "alt_text": "At the art table, 7 children choose apples and 5 choose pears. How many responses?"
+    },
+    "question": "At the art table, 7 children choose apples and 5 choose pears. How many responses?",
+    "audio_prompt": "At the art table, 7 children choose apples and 5 choose pears. How many responses?",
+    "answers": [
+      {
+        "text": "13",
+        "is_correct": false
+      },
+      {
+        "text": "12",
+        "is_correct": true
+      },
+      {
+        "text": "2",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Data questions collect answers that can be sorted.",
+      "hint": "Use the information in the question to check your answer."
+    }
+  },
+  {
+    "id": "AC9M2ST01-P-040",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2ST01",
+    "bank": "practice",
+    "skill": "in_the_playground_which_question_can",
+    "visual": {
+      "type": "none",
+      "alt_text": "In the playground, which question can collect class data?"
+    },
+    "question": "In the playground, which question can collect class data?",
+    "audio_prompt": "In the playground, which question can collect class data?",
+    "answers": [
+      {
+        "text": "Which fruit?",
+        "is_correct": true
+      },
+      {
+        "text": "What is 8 + 2?",
+        "is_correct": false
+      },
+      {
+        "text": "Read this word",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Data questions collect answers that can be sorted.",
+      "hint": "Use the information in the question to check your answer."
+    }
+  },
+  {
+    "id": "AC9M2ST01-P-041",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2ST01",
+    "bank": "practice",
+    "skill": "at_the_library_which_categories_suit",
+    "visual": {
+      "type": "none",
+      "alt_text": "At the library, which categories suit favourite fruit?"
+    },
+    "question": "At the library, which categories suit favourite fruit?",
+    "audio_prompt": "At the library, which categories suit favourite fruit?",
+    "answers": [
+      {
+        "text": "red, tall, Monday",
+        "is_correct": false
+      },
+      {
+        "text": "yes, heavy, soft",
+        "is_correct": false
+      },
+      {
+        "text": "apple, pear, banana",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Data questions collect answers that can be sorted.",
+      "hint": "Use the information in the question to check your answer."
+    }
+  },
+  {
+    "id": "AC9M2ST01-P-042",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2ST01",
+    "bank": "practice",
+    "skill": "during_sport_7_children_choose_apples",
+    "visual": {
+      "type": "none",
+      "alt_text": "During sport, 7 children choose apples and 5 choose pears. How many responses?"
+    },
+    "question": "During sport, 7 children choose apples and 5 choose pears. How many responses?",
+    "audio_prompt": "During sport, 7 children choose apples and 5 choose pears. How many responses?",
+    "answers": [
+      {
+        "text": "13",
+        "is_correct": false
+      },
+      {
+        "text": "12",
+        "is_correct": true
+      },
+      {
+        "text": "2",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Data questions collect answers that can be sorted.",
+      "hint": "Use the information in the question to check your answer."
+    }
+  },
+  {
+    "id": "AC9M2ST01-P-043",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2ST01",
+    "bank": "practice",
+    "skill": "at_the_class_shop_which_question",
+    "visual": {
+      "type": "none",
+      "alt_text": "At the class shop, which question can collect class data?"
+    },
+    "question": "At the class shop, which question can collect class data?",
+    "audio_prompt": "At the class shop, which question can collect class data?",
+    "answers": [
+      {
+        "text": "Which fruit?",
+        "is_correct": true
+      },
+      {
+        "text": "What is 8 + 2?",
+        "is_correct": false
+      },
+      {
+        "text": "Read this word",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Data questions collect answers that can be sorted.",
+      "hint": "Use the information in the question to check your answer."
+    }
+  },
+  {
+    "id": "AC9M2ST01-P-044",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2ST01",
+    "bank": "practice",
+    "skill": "on_the_picnic_rug_which_categories",
+    "visual": {
+      "type": "none",
+      "alt_text": "On the picnic rug, which categories suit favourite fruit?"
+    },
+    "question": "On the picnic rug, which categories suit favourite fruit?",
+    "audio_prompt": "On the picnic rug, which categories suit favourite fruit?",
+    "answers": [
+      {
+        "text": "red, tall, Monday",
+        "is_correct": false
+      },
+      {
+        "text": "yes, heavy, soft",
+        "is_correct": false
+      },
+      {
+        "text": "apple, pear, banana",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Data questions collect answers that can be sorted.",
+      "hint": "Use the information in the question to check your answer."
+    }
+  },
+  {
+    "id": "AC9M2ST01-P-045",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2ST01",
+    "bank": "practice",
+    "skill": "at_the_block_table_7_children",
+    "visual": {
+      "type": "none",
+      "alt_text": "At the block table, 7 children choose apples and 5 choose pears. How many responses?"
+    },
+    "question": "At the block table, 7 children choose apples and 5 choose pears. How many responses?",
+    "audio_prompt": "At the block table, 7 children choose apples and 5 choose pears. How many responses?",
+    "answers": [
+      {
+        "text": "13",
+        "is_correct": false
+      },
+      {
+        "text": "12",
+        "is_correct": true
+      },
+      {
+        "text": "2",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Data questions collect answers that can be sorted.",
+      "hint": "Use the information in the question to check your answer."
+    }
+  },
+  {
+    "id": "AC9M2ST01-P-046",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2ST01",
+    "bank": "practice",
+    "skill": "in_the_lunch_area_which_question",
+    "visual": {
+      "type": "none",
+      "alt_text": "In the lunch area, which question can collect class data?"
+    },
+    "question": "In the lunch area, which question can collect class data?",
+    "audio_prompt": "In the lunch area, which question can collect class data?",
+    "answers": [
+      {
+        "text": "Which fruit?",
+        "is_correct": true
+      },
+      {
+        "text": "What is 8 + 2?",
+        "is_correct": false
+      },
+      {
+        "text": "Read this word",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Data questions collect answers that can be sorted.",
+      "hint": "Use the information in the question to check your answer."
+    }
+  },
+  {
+    "id": "AC9M2ST01-P-047",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2ST01",
+    "bank": "practice",
+    "skill": "at_the_science_table_which_categories",
+    "visual": {
+      "type": "none",
+      "alt_text": "At the science table, which categories suit favourite fruit?"
+    },
+    "question": "At the science table, which categories suit favourite fruit?",
+    "audio_prompt": "At the science table, which categories suit favourite fruit?",
+    "answers": [
+      {
+        "text": "red, tall, Monday",
+        "is_correct": false
+      },
+      {
+        "text": "yes, heavy, soft",
+        "is_correct": false
+      },
+      {
+        "text": "apple, pear, banana",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Data questions collect answers that can be sorted.",
+      "hint": "Use the information in the question to check your answer."
+    }
+  },
+  {
+    "id": "AC9M2ST01-P-048",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2ST01",
+    "bank": "practice",
+    "skill": "during_a_card_game_7_children",
+    "visual": {
+      "type": "none",
+      "alt_text": "During a card game, 7 children choose apples and 5 choose pears. How many responses?"
+    },
+    "question": "During a card game, 7 children choose apples and 5 choose pears. How many responses?",
+    "audio_prompt": "During a card game, 7 children choose apples and 5 choose pears. How many responses?",
+    "answers": [
+      {
+        "text": "13",
+        "is_correct": false
+      },
+      {
+        "text": "12",
+        "is_correct": true
+      },
+      {
+        "text": "2",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Data questions collect answers that can be sorted.",
+      "hint": "Use the information in the question to check your answer."
+    }
+  },
+  {
     "id": "AC9M2ST01-T-001",
     "subject": "math",
     "year_level": "Year 2",
     "curriculum_code": "AC9M2ST01",
     "bank": "test",
     "skill": "ask_categorical_survey_question",
-    "question": "In the pet survey, which question would collect data about type of pet?",
-    "audio_prompt": "In the pet survey, which question would collect data about type of pet?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year2/math/ac9m2st01.svg#ac9m2st01-t-001",
       "alt_text": "In the pet survey: Three category bars ready to record answers about type of pet."
     },
+    "question": "In the pet survey, which question would collect data about type of pet?",
+    "audio_prompt": "In the pet survey, which question would collect data about type of pet?",
     "answers": [
       {
         "text": "How old is the school building?",
@@ -912,13 +1704,13 @@
     "curriculum_code": "AC9M2ST01",
     "bank": "test",
     "skill": "recognise_categorical_data",
-    "question": "In the pet survey, a class records cats, dogs and fish. What kind of data are these?",
-    "audio_prompt": "In the pet survey, a class records cats, dogs and fish. What kind of data are these?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year2/math/ac9m2st01.svg#ac9m2st01-t-002",
       "alt_text": "In the pet survey: A table with the categories cats, dogs, fish."
     },
+    "question": "In the pet survey, a class records cats, dogs and fish. What kind of data are these?",
+    "audio_prompt": "In the pet survey, a class records cats, dogs and fish. What kind of data are these?",
     "answers": [
       {
         "text": "length measurements",
@@ -946,13 +1738,13 @@
     "curriculum_code": "AC9M2ST01",
     "bank": "test",
     "skill": "collect_data_accurately",
-    "question": "In the pet survey, why should each student's answer be counted once?",
-    "audio_prompt": "In the pet survey, why should each student's answer be counted once?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year2/math/ac9m2st01.svg#ac9m2st01-t-003",
       "alt_text": "In the pet survey: A checklist with one tick beside each student's response."
     },
+    "question": "In the pet survey, why should each student's answer be counted once?",
+    "audio_prompt": "In the pet survey, why should each student's answer be counted once?",
     "answers": [
       {
         "text": "so the totals are accurate",
@@ -980,13 +1772,13 @@
     "curriculum_code": "AC9M2ST01",
     "bank": "test",
     "skill": "record_categories_in_table",
-    "question": "In the pet survey, which table correctly records 5 cats, 9 dogs and 4 fish?",
-    "audio_prompt": "In the pet survey, which table correctly records 5 cats, 9 dogs and 4 fish?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year2/math/ac9m2st01.svg#ac9m2st01-t-004",
       "alt_text": "In the pet survey: Data display with cats 5, dogs 9 and fish 4."
     },
+    "question": "In the pet survey, which table correctly records 5 cats, 9 dogs and 4 fish?",
+    "audio_prompt": "In the pet survey, which table correctly records 5 cats, 9 dogs and 4 fish?",
     "answers": [
       {
         "text": "cats 6, dogs 9, fish 4",
@@ -1014,13 +1806,13 @@
     "curriculum_code": "AC9M2ST01",
     "bank": "test",
     "skill": "identify_most_frequent_category",
-    "question": "In the pet survey, which category has the most responses?",
-    "audio_prompt": "In the pet survey, which category has the most responses?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year2/math/ac9m2st01.svg#ac9m2st01-t-005",
       "alt_text": "In the pet survey: cats has 5, dogs has 9 and fish has 4 responses."
     },
+    "question": "In the pet survey, which category has the most responses?",
+    "audio_prompt": "In the pet survey, which category has the most responses?",
     "answers": [
       {
         "text": "cats",
@@ -1048,13 +1840,13 @@
     "curriculum_code": "AC9M2ST01",
     "bank": "test",
     "skill": "choose_nonoverlapping_categories",
-    "question": "In the pet survey, which categories are clear and do not overlap for a pet survey?",
-    "audio_prompt": "In the pet survey, which categories are clear and do not overlap for a pet survey?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year2/math/ac9m2st01.svg#ac9m2st01-t-006",
       "alt_text": "In the pet survey: Three labelled boxes: cat, dog and fish."
     },
+    "question": "In the pet survey, which categories are clear and don't overlap for a pet survey?",
+    "audio_prompt": "In the pet survey, which categories are clear and don't overlap for a pet survey?",
     "answers": [
       {
         "text": "cat, dog, fish",
@@ -1082,16 +1874,16 @@
     "curriculum_code": "AC9M2ST01",
     "bank": "test",
     "skill": "select_data_collection_method",
-    "question": "In the pet survey, which method could collect data about birds visiting the playground?",
-    "audio_prompt": "In the pet survey, which method could collect data about birds visiting the playground?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year2/math/ac9m2st01.svg#ac9m2st01-t-007",
       "alt_text": "In the pet survey: A bird observation sheet with tally marks."
     },
+    "question": "In the pet survey, which method could collect data about birds visiting the playground?",
+    "audio_prompt": "In the pet survey, which method could collect data about birds visiting the playground?",
     "answers": [
       {
-        "text": "guess without looking",
+        "text": "guess by guessing",
         "is_correct": false
       },
       {
@@ -1116,13 +1908,13 @@
     "curriculum_code": "AC9M2ST01",
     "bank": "test",
     "skill": "answer_question_from_table",
-    "question": "In the pet survey, cats has 5 responses and dogs has 9. How many responses altogether?",
-    "audio_prompt": "In the pet survey, cats has 5 responses and dogs has 9. How many responses altogether?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year2/math/ac9m2st01.svg#ac9m2st01-t-008",
       "alt_text": "In the pet survey: A data display showing cats with 5 and dogs with 9."
     },
+    "question": "In the pet survey, cats has 5 responses and dogs has 9. How many responses altogether?",
+    "audio_prompt": "In the pet survey, cats has 5 responses and dogs has 9. How many responses altogether?",
     "answers": [
       {
         "text": "4",
@@ -1150,13 +1942,13 @@
     "curriculum_code": "AC9M2ST01",
     "bank": "test",
     "skill": "ask_categorical_survey_question",
-    "question": "In the story survey, which question would collect data about favourite story type?",
-    "audio_prompt": "In the story survey, which question would collect data about favourite story type?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year2/math/ac9m2st01.svg#ac9m2st01-t-009",
       "alt_text": "In the story survey: Three category bars ready to record answers about favourite story type."
     },
+    "question": "In the story survey, which question would collect data about favourite story type?",
+    "audio_prompt": "In the story survey, which question would collect data about favourite story type?",
     "answers": [
       {
         "text": "What is your favourite story type?",
@@ -1184,13 +1976,13 @@
     "curriculum_code": "AC9M2ST01",
     "bank": "test",
     "skill": "recognise_categorical_data",
-    "question": "In the story survey, a class records funny, animal and facts. What kind of data are these?",
-    "audio_prompt": "In the story survey, a class records funny, animal and facts. What kind of data are these?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year2/math/ac9m2st01.svg#ac9m2st01-t-010",
       "alt_text": "In the story survey: A table with the categories funny, animal, facts."
     },
+    "question": "In the story survey, a class records funny, animal and facts. What kind of data are these?",
+    "audio_prompt": "In the story survey, a class records funny, animal and facts. What kind of data are these?",
     "answers": [
       {
         "text": "length measurements",
@@ -1218,13 +2010,13 @@
     "curriculum_code": "AC9M2ST01",
     "bank": "test",
     "skill": "collect_data_accurately",
-    "question": "In the story survey, why should each student's answer be counted once?",
-    "audio_prompt": "In the story survey, why should each student's answer be counted once?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year2/math/ac9m2st01.svg#ac9m2st01-t-011",
       "alt_text": "In the story survey: A checklist with one tick beside each student's response."
     },
+    "question": "In the story survey, why should each student's answer be counted once?",
+    "audio_prompt": "In the story survey, why should each student's answer be counted once?",
     "answers": [
       {
         "text": "so every total is the same",
@@ -1252,13 +2044,13 @@
     "curriculum_code": "AC9M2ST01",
     "bank": "test",
     "skill": "record_categories_in_table",
-    "question": "In the story survey, which table correctly records 6 funny, 10 animal and 3 facts?",
-    "audio_prompt": "In the story survey, which table correctly records 6 funny, 10 animal and 3 facts?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year2/math/ac9m2st01.svg#ac9m2st01-t-012",
       "alt_text": "In the story survey: Data display with funny 6, animal 10 and facts 3."
     },
+    "question": "In the story survey, which table correctly records 6 funny, 10 animal and 3 facts?",
+    "audio_prompt": "In the story survey, which table correctly records 6 funny, 10 animal and 3 facts?",
     "answers": [
       {
         "text": "funny 6, animal 10, facts 3",
@@ -1286,13 +2078,13 @@
     "curriculum_code": "AC9M2ST01",
     "bank": "test",
     "skill": "identify_most_frequent_category",
-    "question": "In the story survey, which category has the most responses?",
-    "audio_prompt": "In the story survey, which category has the most responses?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year2/math/ac9m2st01.svg#ac9m2st01-t-013",
       "alt_text": "In the story survey: funny has 6, animal has 10 and facts has 3 responses."
     },
+    "question": "In the story survey, which category has the most responses?",
+    "audio_prompt": "In the story survey, which category has the most responses?",
     "answers": [
       {
         "text": "funny",
@@ -1320,13 +2112,13 @@
     "curriculum_code": "AC9M2ST01",
     "bank": "test",
     "skill": "choose_nonoverlapping_categories",
-    "question": "In the story survey, which categories are clear and do not overlap for a pet survey?",
-    "audio_prompt": "In the story survey, which categories are clear and do not overlap for a pet survey?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year2/math/ac9m2st01.svg#ac9m2st01-t-014",
       "alt_text": "In the story survey: Three labelled boxes: cat, dog and fish."
     },
+    "question": "In the story survey, which categories are clear and don't overlap for a pet survey?",
+    "audio_prompt": "In the story survey, which categories are clear and don't overlap for a pet survey?",
     "answers": [
       {
         "text": "small, cute, dog",
@@ -1354,20 +2146,20 @@
     "curriculum_code": "AC9M2ST01",
     "bank": "test",
     "skill": "select_data_collection_method",
-    "question": "In the story survey, which method could collect data about birds visiting the playground?",
-    "audio_prompt": "In the story survey, which method could collect data about birds visiting the playground?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year2/math/ac9m2st01.svg#ac9m2st01-t-015",
       "alt_text": "In the story survey: A bird observation sheet with tally marks."
     },
+    "question": "In the story survey, which method could collect data about birds visiting the playground?",
+    "audio_prompt": "In the story survey, which method could collect data about birds visiting the playground?",
     "answers": [
       {
         "text": "observe and tally each bird",
         "is_correct": true
       },
       {
-        "text": "guess without looking",
+        "text": "guess by guessing",
         "is_correct": false
       },
       {
@@ -1388,13 +2180,13 @@
     "curriculum_code": "AC9M2ST01",
     "bank": "test",
     "skill": "answer_question_from_table",
-    "question": "In the story survey, funny has 6 responses and animal has 10. How many responses altogether?",
-    "audio_prompt": "In the story survey, funny has 6 responses and animal has 10. How many responses altogether?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year2/math/ac9m2st01.svg#ac9m2st01-t-016",
       "alt_text": "In the story survey: A data display showing funny with 6 and animal with 10."
     },
+    "question": "In the story survey, funny has 6 responses and animal has 10. How many responses altogether?",
+    "audio_prompt": "In the story survey, funny has 6 responses and animal has 10. How many responses altogether?",
     "answers": [
       {
         "text": "4",

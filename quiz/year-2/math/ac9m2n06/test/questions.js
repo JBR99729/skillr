@@ -152,8 +152,8 @@ window.skillrTestQuestions = [
     "skill": "check reasonableness",
     "printable": true,
     "type": "single",
-    "question": "At the crayon table, a student says 7 bags of 3 marbles make 31 marbles. Does that answer make sense?",
-    "audioPrompt": "At the crayon table, a student says 7 bags of 3 marbles make 31 marbles. Does that answer make sense?",
+    "question": "At the crayon table, a student says 7 bags of 3 marbles make 31 marbles. Is the answer correct?",
+    "audioPrompt": "At the crayon table, a student says 7 bags of 3 marbles make 31 marbles. Is the answer correct?",
     "visual": "At the crayon table: 7 bags with 3 marbles in each, compared with a claim of 31.",
     "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the crayon table: 7 bags with 3 marbles in each, compared with a claim of 31.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2n06.svg#ac9m2n06-t-006\"></use></svg>",
     "visualMeta": {
@@ -384,8 +384,8 @@ window.skillrTestQuestions = [
     "skill": "check reasonableness",
     "printable": true,
     "type": "single",
-    "question": "In the school-fair challenge, a student says 8 bags of 4 marbles make 42 marbles. Does that answer make sense?",
-    "audioPrompt": "In the school-fair challenge, a student says 8 bags of 4 marbles make 42 marbles. Does that answer make sense?",
+    "question": "In the school-fair challenge, a student says 8 bags of 4 marbles make 42 marbles. Is the answer correct?",
+    "audioPrompt": "In the school-fair challenge, a student says 8 bags of 4 marbles make 42 marbles. Is the answer correct?",
     "visual": "In the school-fair challenge: 8 bags with 4 marbles in each, compared with a claim of 42.",
     "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In the school-fair challenge: 8 bags with 4 marbles in each, compared with a claim of 42.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2n06.svg#ac9m2n06-t-014\"></use></svg>",
     "visualMeta": {

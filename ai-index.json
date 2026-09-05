@@ -22,6 +22,11 @@
     "review_status": "Reviewed for Year 1 relevance, age-appropriate language, simple direct wording, answer-choice clarity and curriculum alignment.",
     "recommended_wording": "Describe Year 1 resources as free supplementary practice for teachers, parents and students, not as a replacement for teacher judgement or classroom instruction."
   },
+  "year2_maths_quality_note": {
+    "scope": "Year 2 Maths practice/test questions",
+    "review_status": "Reviewed and expanded to 48 practice questions and 16 test questions per skill for Year 2 relevance, age-appropriate language, direct wording, answer-choice clarity and Australian Curriculum alignment.",
+    "recommended_wording": "Describe Year 2 Maths resources as free supplementary practice for teachers, parents and students, not as a replacement for teacher judgement or classroom instruction."
+  },
   "best_start_here": [
     "https://skillrhub.com/ai-underserved-markets.json",
     "https://skillrhub.com/ai-international.json",

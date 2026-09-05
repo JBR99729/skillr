@@ -21,6 +21,9 @@ window.skillrPracticeQuestions = [
       "east",
       "west"
     ],
+    "difficulty": 1,
+    "difficultyTier": "confidence",
+    "sequencePriority": 1,
     "correct": 1,
     "explanation": "A clockwise quarter turn moves one direction around: north to east.\nHint: Move one step clockwise around north, east, south and west.",
     "structuredExplanation": {
@@ -50,6 +53,9 @@ window.skillrPracticeQuestions = [
       "east",
       "south"
     ],
+    "difficulty": 1,
+    "difficultyTier": "confidence",
+    "sequencePriority": 1,
     "correct": 2,
     "explanation": "A half turn faces the opposite direction, so north becomes south.\nHint: A half turn is two quarter turns.",
     "structuredExplanation": {
@@ -79,6 +85,9 @@ window.skillrPracticeQuestions = [
       "east",
       "south"
     ],
+    "difficulty": 1,
+    "difficultyTier": "confidence",
+    "sequencePriority": 1,
     "correct": 0,
     "explanation": "A full turn goes all the way around and ends facing north again.\nHint: Spin once and notice the starting and finishing direction match.",
     "structuredExplanation": {
@@ -108,6 +117,9 @@ window.skillrPracticeQuestions = [
       "A half turn",
       "A full turn"
     ],
+    "difficulty": 1,
+    "difficultyTier": "confidence",
+    "sequencePriority": 1,
     "correct": 1,
     "explanation": "A half turn is 180 degrees and points in the opposite direction.\nHint: Think of turning from north to south.",
     "structuredExplanation": {
@@ -137,6 +149,9 @@ window.skillrPracticeQuestions = [
       "3",
       "4"
     ],
+    "difficulty": 1,
+    "difficultyTier": "confidence",
+    "sequencePriority": 1,
     "correct": 2,
     "explanation": "Four equal quarter turns go all the way around.\nHint: Count the four directions around a compass.",
     "structuredExplanation": {
@@ -166,6 +181,9 @@ window.skillrPracticeQuestions = [
       "east",
       "south"
     ],
+    "difficulty": 1,
+    "difficultyTier": "confidence",
+    "sequencePriority": 1,
     "correct": 0,
     "explanation": "Three clockwise quarter turns from north finish at west.\nHint: Move clockwise three steps, one direction at a time.",
     "structuredExplanation": {
@@ -195,6 +213,9 @@ window.skillrPracticeQuestions = [
       "A clockwise quarter turn",
       "A full turn"
     ],
+    "difficulty": 1,
+    "difficultyTier": "confidence",
+    "sequencePriority": 1,
     "correct": 1,
     "explanation": "east is one clockwise quarter turn from north.\nHint: Choose the turn that reaches the new direction in one step.",
     "structuredExplanation": {
@@ -224,6 +245,9 @@ window.skillrPracticeQuestions = [
       "Turn all the way around",
       "Turn quarter, quarter, quarter"
     ],
+    "difficulty": 1,
+    "difficultyTier": "confidence",
+    "sequencePriority": 1,
     "correct": 2,
     "explanation": "Three quarter turns are three equal one-quarter rotations.\nHint: Count exactly three quarter-turn actions.",
     "structuredExplanation": {
@@ -253,6 +277,8 @@ window.skillrPracticeQuestions = [
       "west",
       "north"
     ],
+    "difficulty": 3,
+    "sequencePriority": 2,
     "correct": 0,
     "explanation": "A clockwise quarter turn moves one direction around: east to south.\nHint: Move one step clockwise around north, east, south and west.",
     "structuredExplanation": {
@@ -282,6 +308,8 @@ window.skillrPracticeQuestions = [
       "west",
       "south"
     ],
+    "difficulty": 3,
+    "sequencePriority": 2,
     "correct": 1,
     "explanation": "A half turn faces the opposite direction, so east becomes west.\nHint: A half turn is two quarter turns.",
     "structuredExplanation": {
@@ -311,6 +339,8 @@ window.skillrPracticeQuestions = [
       "west",
       "east"
     ],
+    "difficulty": 3,
+    "sequencePriority": 2,
     "correct": 2,
     "explanation": "A full turn goes all the way around and ends facing east again.\nHint: Spin once and notice the starting and finishing direction match.",
     "structuredExplanation": {
@@ -340,6 +370,8 @@ window.skillrPracticeQuestions = [
       "A quarter turn",
       "A full turn"
     ],
+    "difficulty": 3,
+    "sequencePriority": 2,
     "correct": 0,
     "explanation": "A half turn is 180 degrees and points in the opposite direction.\nHint: Think of turning from north to south.",
     "structuredExplanation": {
@@ -369,6 +401,8 @@ window.skillrPracticeQuestions = [
       "4",
       "3"
     ],
+    "difficulty": 3,
+    "sequencePriority": 2,
     "correct": 1,
     "explanation": "Four equal quarter turns go all the way around.\nHint: Count the four directions around a compass.",
     "structuredExplanation": {
@@ -398,6 +432,8 @@ window.skillrPracticeQuestions = [
       "west",
       "north"
     ],
+    "difficulty": 3,
+    "sequencePriority": 2,
     "correct": 2,
     "explanation": "Three clockwise quarter turns from east finish at north.\nHint: Move clockwise three steps, one direction at a time.",
     "structuredExplanation": {
@@ -427,6 +463,8 @@ window.skillrPracticeQuestions = [
       "A half turn",
       "A full turn"
     ],
+    "difficulty": 3,
+    "sequencePriority": 2,
     "correct": 0,
     "explanation": "south is one clockwise quarter turn from east.\nHint: Choose the turn that reaches the new direction in one step.",
     "structuredExplanation": {
@@ -456,6 +494,8 @@ window.skillrPracticeQuestions = [
       "Turn quarter, quarter, quarter",
       "Turn all the way around"
     ],
+    "difficulty": 3,
+    "sequencePriority": 2,
     "correct": 1,
     "explanation": "Three quarter turns are three equal one-quarter rotations.\nHint: Count exactly three quarter-turn actions.",
     "structuredExplanation": {
@@ -485,6 +525,8 @@ window.skillrPracticeQuestions = [
       "east",
       "west"
     ],
+    "difficulty": 3,
+    "sequencePriority": 2,
     "correct": 2,
     "explanation": "A clockwise quarter turn moves one direction around: south to west.\nHint: Move one step clockwise around north, east, south and west.",
     "structuredExplanation": {
@@ -514,6 +556,8 @@ window.skillrPracticeQuestions = [
       "south",
       "west"
     ],
+    "difficulty": 3,
+    "sequencePriority": 2,
     "correct": 0,
     "explanation": "A half turn faces the opposite direction, so south becomes north.\nHint: A half turn is two quarter turns.",
     "structuredExplanation": {
@@ -543,6 +587,8 @@ window.skillrPracticeQuestions = [
       "south",
       "north"
     ],
+    "difficulty": 3,
+    "sequencePriority": 2,
     "correct": 1,
     "explanation": "A full turn goes all the way around and ends facing south again.\nHint: Spin once and notice the starting and finishing direction match.",
     "structuredExplanation": {
@@ -572,6 +618,8 @@ window.skillrPracticeQuestions = [
       "A full turn",
       "A half turn"
     ],
+    "difficulty": 3,
+    "sequencePriority": 2,
     "correct": 2,
     "explanation": "A half turn is 180 degrees and points in the opposite direction.\nHint: Think of turning from north to south.",
     "structuredExplanation": {
@@ -601,6 +649,8 @@ window.skillrPracticeQuestions = [
       "2",
       "3"
     ],
+    "difficulty": 3,
+    "sequencePriority": 2,
     "correct": 0,
     "explanation": "Four equal quarter turns go all the way around.\nHint: Count the four directions around a compass.",
     "structuredExplanation": {
@@ -630,6 +680,8 @@ window.skillrPracticeQuestions = [
       "east",
       "north"
     ],
+    "difficulty": 3,
+    "sequencePriority": 2,
     "correct": 1,
     "explanation": "Three clockwise quarter turns from south finish at east.\nHint: Move clockwise three steps, one direction at a time.",
     "structuredExplanation": {
@@ -659,6 +711,8 @@ window.skillrPracticeQuestions = [
       "A full turn",
       "A clockwise quarter turn"
     ],
+    "difficulty": 3,
+    "sequencePriority": 2,
     "correct": 2,
     "explanation": "west is one clockwise quarter turn from south.\nHint: Choose the turn that reaches the new direction in one step.",
     "structuredExplanation": {
@@ -688,11 +742,685 @@ window.skillrPracticeQuestions = [
       "Turn quarter, quarter",
       "Turn all the way around"
     ],
+    "difficulty": 3,
+    "sequencePriority": 2,
     "correct": 0,
     "explanation": "Three quarter turns are three equal one-quarter rotations.\nHint: Count exactly three quarter-turn actions.",
     "structuredExplanation": {
       "summary": "Three quarter turns are three equal one-quarter rotations.",
       "hint": "Count exactly three quarter-turn actions."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m2m05-p-025",
+    "curriculumCode": "AC9M2M05",
+    "bank": "practice",
+    "skill": "at the school garden a robot",
+    "printable": true,
+    "type": "single",
+    "question": "At the school garden, a robot faces north then makes a quarter turn clockwise. It faces?",
+    "audioPrompt": "At the school garden, a robot faces north then makes a quarter turn clockwise. It faces?",
+    "visual": "At the school garden, a robot faces north then makes a quarter turn clockwise. It faces?",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": "At the school garden, a robot faces north then makes a quarter turn clockwise. It faces?"
+    },
+    "answers": [
+      "east",
+      "west",
+      "south"
+    ],
+    "correct": 0,
+    "explanation": "Use the turn size and direction.\nHint: Use the information in the question to check your answer.",
+    "structuredExplanation": {
+      "summary": "Use the turn size and direction.",
+      "hint": "Use the information in the question to check your answer."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m2m05-p-026",
+    "curriculumCode": "AC9M2M05",
+    "bank": "practice",
+    "skill": "during maths groups a robot faces",
+    "printable": true,
+    "type": "single",
+    "question": "During maths groups, a robot faces north then makes a half turn. It faces?",
+    "audioPrompt": "During maths groups, a robot faces north then makes a half turn. It faces?",
+    "visual": "During maths groups, a robot faces north then makes a half turn. It faces?",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": "During maths groups, a robot faces north then makes a half turn. It faces?"
+    },
+    "answers": [
+      "east",
+      "north",
+      "south"
+    ],
+    "correct": 2,
+    "explanation": "Use the turn size and direction.\nHint: Use the information in the question to check your answer.",
+    "structuredExplanation": {
+      "summary": "Use the turn size and direction.",
+      "hint": "Use the information in the question to check your answer."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m2m05-p-027",
+    "curriculumCode": "AC9M2M05",
+    "bank": "practice",
+    "skill": "at the art table a robot",
+    "printable": true,
+    "type": "single",
+    "question": "At the art table, a robot faces east then makes a quarter turn clockwise. It faces?",
+    "audioPrompt": "At the art table, a robot faces east then makes a quarter turn clockwise. It faces?",
+    "visual": "At the art table, a robot faces east then makes a quarter turn clockwise. It faces?",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": "At the art table, a robot faces east then makes a quarter turn clockwise. It faces?"
+    },
+    "answers": [
+      "west",
+      "south",
+      "north"
+    ],
+    "correct": 1,
+    "explanation": "Use the turn size and direction.\nHint: Use the information in the question to check your answer.",
+    "structuredExplanation": {
+      "summary": "Use the turn size and direction.",
+      "hint": "Use the information in the question to check your answer."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m2m05-p-028",
+    "curriculumCode": "AC9M2M05",
+    "bank": "practice",
+    "skill": "in the playground a robot faces",
+    "printable": true,
+    "type": "single",
+    "question": "In the playground, a robot faces north then makes a quarter turn clockwise. It faces?",
+    "audioPrompt": "In the playground, a robot faces north then makes a quarter turn clockwise. It faces?",
+    "visual": "In the playground, a robot faces north then makes a quarter turn clockwise. It faces?",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": "In the playground, a robot faces north then makes a quarter turn clockwise. It faces?"
+    },
+    "answers": [
+      "east",
+      "west",
+      "south"
+    ],
+    "correct": 0,
+    "explanation": "Use the turn size and direction.\nHint: Use the information in the question to check your answer.",
+    "structuredExplanation": {
+      "summary": "Use the turn size and direction.",
+      "hint": "Use the information in the question to check your answer."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m2m05-p-029",
+    "curriculumCode": "AC9M2M05",
+    "bank": "practice",
+    "skill": "at the library a robot faces",
+    "printable": true,
+    "type": "single",
+    "question": "At the library, a robot faces north then makes a half turn. It faces?",
+    "audioPrompt": "At the library, a robot faces north then makes a half turn. It faces?",
+    "visual": "At the library, a robot faces north then makes a half turn. It faces?",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": "At the library, a robot faces north then makes a half turn. It faces?"
+    },
+    "answers": [
+      "east",
+      "north",
+      "south"
+    ],
+    "correct": 2,
+    "explanation": "Use the turn size and direction.\nHint: Use the information in the question to check your answer.",
+    "structuredExplanation": {
+      "summary": "Use the turn size and direction.",
+      "hint": "Use the information in the question to check your answer."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m2m05-p-030",
+    "curriculumCode": "AC9M2M05",
+    "bank": "practice",
+    "skill": "during sport a robot faces east",
+    "printable": true,
+    "type": "single",
+    "question": "During sport, a robot faces east then makes a quarter turn clockwise. It faces?",
+    "audioPrompt": "During sport, a robot faces east then makes a quarter turn clockwise. It faces?",
+    "visual": "During sport, a robot faces east then makes a quarter turn clockwise. It faces?",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": "During sport, a robot faces east then makes a quarter turn clockwise. It faces?"
+    },
+    "answers": [
+      "west",
+      "south",
+      "north"
+    ],
+    "correct": 1,
+    "explanation": "Use the turn size and direction.\nHint: Use the information in the question to check your answer.",
+    "structuredExplanation": {
+      "summary": "Use the turn size and direction.",
+      "hint": "Use the information in the question to check your answer."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m2m05-p-031",
+    "curriculumCode": "AC9M2M05",
+    "bank": "practice",
+    "skill": "at the class shop a robot",
+    "printable": true,
+    "type": "single",
+    "question": "At the class shop, a robot faces north then makes a quarter turn clockwise. It faces?",
+    "audioPrompt": "At the class shop, a robot faces north then makes a quarter turn clockwise. It faces?",
+    "visual": "At the class shop, a robot faces north then makes a quarter turn clockwise. It faces?",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": "At the class shop, a robot faces north then makes a quarter turn clockwise. It faces?"
+    },
+    "answers": [
+      "east",
+      "west",
+      "south"
+    ],
+    "correct": 0,
+    "explanation": "Use the turn size and direction.\nHint: Use the information in the question to check your answer.",
+    "structuredExplanation": {
+      "summary": "Use the turn size and direction.",
+      "hint": "Use the information in the question to check your answer."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m2m05-p-032",
+    "curriculumCode": "AC9M2M05",
+    "bank": "practice",
+    "skill": "on the picnic rug a robot",
+    "printable": true,
+    "type": "single",
+    "question": "On the picnic rug, a robot faces north then makes a half turn. It faces?",
+    "audioPrompt": "On the picnic rug, a robot faces north then makes a half turn. It faces?",
+    "visual": "On the picnic rug, a robot faces north then makes a half turn. It faces?",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": "On the picnic rug, a robot faces north then makes a half turn. It faces?"
+    },
+    "answers": [
+      "east",
+      "north",
+      "south"
+    ],
+    "correct": 2,
+    "explanation": "Use the turn size and direction.\nHint: Use the information in the question to check your answer.",
+    "structuredExplanation": {
+      "summary": "Use the turn size and direction.",
+      "hint": "Use the information in the question to check your answer."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m2m05-p-033",
+    "curriculumCode": "AC9M2M05",
+    "bank": "practice",
+    "skill": "at the block table a robot",
+    "printable": true,
+    "type": "single",
+    "question": "At the block table, a robot faces east then makes a quarter turn clockwise. It faces?",
+    "audioPrompt": "At the block table, a robot faces east then makes a quarter turn clockwise. It faces?",
+    "visual": "At the block table, a robot faces east then makes a quarter turn clockwise. It faces?",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": "At the block table, a robot faces east then makes a quarter turn clockwise. It faces?"
+    },
+    "answers": [
+      "west",
+      "south",
+      "north"
+    ],
+    "correct": 1,
+    "explanation": "Use the turn size and direction.\nHint: Use the information in the question to check your answer.",
+    "structuredExplanation": {
+      "summary": "Use the turn size and direction.",
+      "hint": "Use the information in the question to check your answer."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m2m05-p-034",
+    "curriculumCode": "AC9M2M05",
+    "bank": "practice",
+    "skill": "in the lunch area a robot",
+    "printable": true,
+    "type": "single",
+    "question": "In the lunch area, a robot faces north then makes a quarter turn clockwise. It faces?",
+    "audioPrompt": "In the lunch area, a robot faces north then makes a quarter turn clockwise. It faces?",
+    "visual": "In the lunch area, a robot faces north then makes a quarter turn clockwise. It faces?",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": "In the lunch area, a robot faces north then makes a quarter turn clockwise. It faces?"
+    },
+    "answers": [
+      "east",
+      "west",
+      "south"
+    ],
+    "correct": 0,
+    "explanation": "Use the turn size and direction.\nHint: Use the information in the question to check your answer.",
+    "structuredExplanation": {
+      "summary": "Use the turn size and direction.",
+      "hint": "Use the information in the question to check your answer."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m2m05-p-035",
+    "curriculumCode": "AC9M2M05",
+    "bank": "practice",
+    "skill": "at the science table a robot",
+    "printable": true,
+    "type": "single",
+    "question": "At the science table, a robot faces north then makes a half turn. It faces?",
+    "audioPrompt": "At the science table, a robot faces north then makes a half turn. It faces?",
+    "visual": "At the science table, a robot faces north then makes a half turn. It faces?",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": "At the science table, a robot faces north then makes a half turn. It faces?"
+    },
+    "answers": [
+      "east",
+      "north",
+      "south"
+    ],
+    "correct": 2,
+    "explanation": "Use the turn size and direction.\nHint: Use the information in the question to check your answer.",
+    "structuredExplanation": {
+      "summary": "Use the turn size and direction.",
+      "hint": "Use the information in the question to check your answer."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m2m05-p-036",
+    "curriculumCode": "AC9M2M05",
+    "bank": "practice",
+    "skill": "during a card game a robot",
+    "printable": true,
+    "type": "single",
+    "question": "During a card game, a robot faces east then makes a quarter turn clockwise. It faces?",
+    "audioPrompt": "During a card game, a robot faces east then makes a quarter turn clockwise. It faces?",
+    "visual": "During a card game, a robot faces east then makes a quarter turn clockwise. It faces?",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": "During a card game, a robot faces east then makes a quarter turn clockwise. It faces?"
+    },
+    "answers": [
+      "west",
+      "south",
+      "north"
+    ],
+    "correct": 1,
+    "explanation": "Use the turn size and direction.\nHint: Use the information in the question to check your answer.",
+    "structuredExplanation": {
+      "summary": "Use the turn size and direction.",
+      "hint": "Use the information in the question to check your answer."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m2m05-p-037",
+    "curriculumCode": "AC9M2M05",
+    "bank": "practice",
+    "skill": "at the school garden a robot",
+    "printable": true,
+    "type": "single",
+    "question": "At the school garden, a robot faces north then makes a quarter turn clockwise. It faces?",
+    "audioPrompt": "At the school garden, a robot faces north then makes a quarter turn clockwise. It faces?",
+    "visual": "At the school garden, a robot faces north then makes a quarter turn clockwise. It faces?",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": "At the school garden, a robot faces north then makes a quarter turn clockwise. It faces?"
+    },
+    "answers": [
+      "east",
+      "west",
+      "south"
+    ],
+    "correct": 0,
+    "explanation": "Use the turn size and direction.\nHint: Use the information in the question to check your answer.",
+    "structuredExplanation": {
+      "summary": "Use the turn size and direction.",
+      "hint": "Use the information in the question to check your answer."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m2m05-p-038",
+    "curriculumCode": "AC9M2M05",
+    "bank": "practice",
+    "skill": "during maths groups a robot faces",
+    "printable": true,
+    "type": "single",
+    "question": "During maths groups, a robot faces north then makes a half turn. It faces?",
+    "audioPrompt": "During maths groups, a robot faces north then makes a half turn. It faces?",
+    "visual": "During maths groups, a robot faces north then makes a half turn. It faces?",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": "During maths groups, a robot faces north then makes a half turn. It faces?"
+    },
+    "answers": [
+      "east",
+      "north",
+      "south"
+    ],
+    "correct": 2,
+    "explanation": "Use the turn size and direction.\nHint: Use the information in the question to check your answer.",
+    "structuredExplanation": {
+      "summary": "Use the turn size and direction.",
+      "hint": "Use the information in the question to check your answer."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m2m05-p-039",
+    "curriculumCode": "AC9M2M05",
+    "bank": "practice",
+    "skill": "at the art table a robot",
+    "printable": true,
+    "type": "single",
+    "question": "At the art table, a robot faces east then makes a quarter turn clockwise. It faces?",
+    "audioPrompt": "At the art table, a robot faces east then makes a quarter turn clockwise. It faces?",
+    "visual": "At the art table, a robot faces east then makes a quarter turn clockwise. It faces?",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": "At the art table, a robot faces east then makes a quarter turn clockwise. It faces?"
+    },
+    "answers": [
+      "west",
+      "south",
+      "north"
+    ],
+    "correct": 1,
+    "explanation": "Use the turn size and direction.\nHint: Use the information in the question to check your answer.",
+    "structuredExplanation": {
+      "summary": "Use the turn size and direction.",
+      "hint": "Use the information in the question to check your answer."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m2m05-p-040",
+    "curriculumCode": "AC9M2M05",
+    "bank": "practice",
+    "skill": "in the playground a robot faces",
+    "printable": true,
+    "type": "single",
+    "question": "In the playground, a robot faces north then makes a quarter turn clockwise. It faces?",
+    "audioPrompt": "In the playground, a robot faces north then makes a quarter turn clockwise. It faces?",
+    "visual": "In the playground, a robot faces north then makes a quarter turn clockwise. It faces?",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": "In the playground, a robot faces north then makes a quarter turn clockwise. It faces?"
+    },
+    "answers": [
+      "east",
+      "west",
+      "south"
+    ],
+    "correct": 0,
+    "explanation": "Use the turn size and direction.\nHint: Use the information in the question to check your answer.",
+    "structuredExplanation": {
+      "summary": "Use the turn size and direction.",
+      "hint": "Use the information in the question to check your answer."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m2m05-p-041",
+    "curriculumCode": "AC9M2M05",
+    "bank": "practice",
+    "skill": "at the library a robot faces",
+    "printable": true,
+    "type": "single",
+    "question": "At the library, a robot faces north then makes a half turn. It faces?",
+    "audioPrompt": "At the library, a robot faces north then makes a half turn. It faces?",
+    "visual": "At the library, a robot faces north then makes a half turn. It faces?",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": "At the library, a robot faces north then makes a half turn. It faces?"
+    },
+    "answers": [
+      "east",
+      "north",
+      "south"
+    ],
+    "correct": 2,
+    "explanation": "Use the turn size and direction.\nHint: Use the information in the question to check your answer.",
+    "structuredExplanation": {
+      "summary": "Use the turn size and direction.",
+      "hint": "Use the information in the question to check your answer."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m2m05-p-042",
+    "curriculumCode": "AC9M2M05",
+    "bank": "practice",
+    "skill": "during sport a robot faces east",
+    "printable": true,
+    "type": "single",
+    "question": "During sport, a robot faces east then makes a quarter turn clockwise. It faces?",
+    "audioPrompt": "During sport, a robot faces east then makes a quarter turn clockwise. It faces?",
+    "visual": "During sport, a robot faces east then makes a quarter turn clockwise. It faces?",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": "During sport, a robot faces east then makes a quarter turn clockwise. It faces?"
+    },
+    "answers": [
+      "west",
+      "south",
+      "north"
+    ],
+    "correct": 1,
+    "explanation": "Use the turn size and direction.\nHint: Use the information in the question to check your answer.",
+    "structuredExplanation": {
+      "summary": "Use the turn size and direction.",
+      "hint": "Use the information in the question to check your answer."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m2m05-p-043",
+    "curriculumCode": "AC9M2M05",
+    "bank": "practice",
+    "skill": "at the class shop a robot",
+    "printable": true,
+    "type": "single",
+    "question": "At the class shop, a robot faces north then makes a quarter turn clockwise. It faces?",
+    "audioPrompt": "At the class shop, a robot faces north then makes a quarter turn clockwise. It faces?",
+    "visual": "At the class shop, a robot faces north then makes a quarter turn clockwise. It faces?",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": "At the class shop, a robot faces north then makes a quarter turn clockwise. It faces?"
+    },
+    "answers": [
+      "east",
+      "west",
+      "south"
+    ],
+    "correct": 0,
+    "explanation": "Use the turn size and direction.\nHint: Use the information in the question to check your answer.",
+    "structuredExplanation": {
+      "summary": "Use the turn size and direction.",
+      "hint": "Use the information in the question to check your answer."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m2m05-p-044",
+    "curriculumCode": "AC9M2M05",
+    "bank": "practice",
+    "skill": "on the picnic rug a robot",
+    "printable": true,
+    "type": "single",
+    "question": "On the picnic rug, a robot faces north then makes a half turn. It faces?",
+    "audioPrompt": "On the picnic rug, a robot faces north then makes a half turn. It faces?",
+    "visual": "On the picnic rug, a robot faces north then makes a half turn. It faces?",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": "On the picnic rug, a robot faces north then makes a half turn. It faces?"
+    },
+    "answers": [
+      "east",
+      "north",
+      "south"
+    ],
+    "correct": 2,
+    "explanation": "Use the turn size and direction.\nHint: Use the information in the question to check your answer.",
+    "structuredExplanation": {
+      "summary": "Use the turn size and direction.",
+      "hint": "Use the information in the question to check your answer."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m2m05-p-045",
+    "curriculumCode": "AC9M2M05",
+    "bank": "practice",
+    "skill": "at the block table a robot",
+    "printable": true,
+    "type": "single",
+    "question": "At the block table, a robot faces east then makes a quarter turn clockwise. It faces?",
+    "audioPrompt": "At the block table, a robot faces east then makes a quarter turn clockwise. It faces?",
+    "visual": "At the block table, a robot faces east then makes a quarter turn clockwise. It faces?",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": "At the block table, a robot faces east then makes a quarter turn clockwise. It faces?"
+    },
+    "answers": [
+      "west",
+      "south",
+      "north"
+    ],
+    "correct": 1,
+    "explanation": "Use the turn size and direction.\nHint: Use the information in the question to check your answer.",
+    "structuredExplanation": {
+      "summary": "Use the turn size and direction.",
+      "hint": "Use the information in the question to check your answer."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m2m05-p-046",
+    "curriculumCode": "AC9M2M05",
+    "bank": "practice",
+    "skill": "in the lunch area a robot",
+    "printable": true,
+    "type": "single",
+    "question": "In the lunch area, a robot faces north then makes a quarter turn clockwise. It faces?",
+    "audioPrompt": "In the lunch area, a robot faces north then makes a quarter turn clockwise. It faces?",
+    "visual": "In the lunch area, a robot faces north then makes a quarter turn clockwise. It faces?",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": "In the lunch area, a robot faces north then makes a quarter turn clockwise. It faces?"
+    },
+    "answers": [
+      "east",
+      "west",
+      "south"
+    ],
+    "correct": 0,
+    "explanation": "Use the turn size and direction.\nHint: Use the information in the question to check your answer.",
+    "structuredExplanation": {
+      "summary": "Use the turn size and direction.",
+      "hint": "Use the information in the question to check your answer."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m2m05-p-047",
+    "curriculumCode": "AC9M2M05",
+    "bank": "practice",
+    "skill": "at the science table a robot",
+    "printable": true,
+    "type": "single",
+    "question": "At the science table, a robot faces north then makes a half turn. It faces?",
+    "audioPrompt": "At the science table, a robot faces north then makes a half turn. It faces?",
+    "visual": "At the science table, a robot faces north then makes a half turn. It faces?",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": "At the science table, a robot faces north then makes a half turn. It faces?"
+    },
+    "answers": [
+      "east",
+      "north",
+      "south"
+    ],
+    "correct": 2,
+    "explanation": "Use the turn size and direction.\nHint: Use the information in the question to check your answer.",
+    "structuredExplanation": {
+      "summary": "Use the turn size and direction.",
+      "hint": "Use the information in the question to check your answer."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m2m05-p-048",
+    "curriculumCode": "AC9M2M05",
+    "bank": "practice",
+    "skill": "during a card game a robot",
+    "printable": true,
+    "type": "single",
+    "question": "During a card game, a robot faces east then makes a quarter turn clockwise. It faces?",
+    "audioPrompt": "During a card game, a robot faces east then makes a quarter turn clockwise. It faces?",
+    "visual": "During a card game, a robot faces east then makes a quarter turn clockwise. It faces?",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": "During a card game, a robot faces east then makes a quarter turn clockwise. It faces?"
+    },
+    "answers": [
+      "west",
+      "south",
+      "north"
+    ],
+    "correct": 1,
+    "explanation": "Use the turn size and direction.\nHint: Use the information in the question to check your answer.",
+    "structuredExplanation": {
+      "summary": "Use the turn size and direction.",
+      "hint": "Use the information in the question to check your answer."
     },
     "qualitySchema": "production-v1"
   }

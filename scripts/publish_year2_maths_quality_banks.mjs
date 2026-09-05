@@ -50,8 +50,9 @@ for (const [code, unit] of Object.entries(units)) {
   const activityFile = path.join(route, "index.html");
   let activity = fs.readFileSync(activityFile, "utf8");
   activity = activity
-    .replace(/<p>Choose a learning activity\. Worksheet, Practice and Test use the same eight-question unit bank\.<\/p>/, `<p>Choose a learning activity. Practice draws from 24 questions, while Test uses a separate 16-question bank.</p>`)
-    .replace(/<p>This QA-reviewed unit provides \d+ Practice questions, \d+ auto-marked Test questions[^<]*<\/p>/, `<p>This QA-reviewed unit provides 24 Practice questions and 16 separate Test questions.</p>`)
+    .replace(/<p>Choose a learning activity\. Worksheet, Practice and Test use the same eight-question unit bank\.<\/p>/, `<p>Choose a learning activity. Practice draws from 48 questions, while Test uses a separate 16-question bank.</p>`)
+    .replace(/<p>Choose a learning activity\. Practice draws from \d+ questions, while Test uses a separate 16-question bank\.<\/p>/, `<p>Choose a learning activity. Practice draws from 48 questions, while Test uses a separate 16-question bank.</p>`)
+    .replace(/<p>This QA-reviewed unit provides \d+ Practice questions, \d+ auto-marked Test questions[^<]*<\/p>/, `<p>This QA-reviewed unit provides 48 Practice questions and 16 separate Test questions.</p>`)
     .replace(/<section class="pre-read-notes">[\s\S]*?<\/section>/, `<section class="pre-read-notes"><h2>Unit focus</h2>${listHtml(notes)}</section>`);
   fs.writeFileSync(activityFile, activity);
 
@@ -60,14 +61,16 @@ for (const [code, unit] of Object.entries(units)) {
     let html = fs.readFileSync(file, "utf8");
     const isTest = bankName === "test";
     const attempt = 8;
-    const bankCount = isTest ? 16 : 24;
+    const bankCount = isTest ? 16 : 48;
     const description = isTest
       ? `Take an 8-question Year 2 ${unit.title} test drawn from a separate 16-question bank.`
-      : `Practise Year 2 ${unit.title} with rotating questions from a 24-question bank.`;
+      : `Practise Year 2 ${unit.title} with rotating questions from a 48-question bank.`;
     html = html
       .replace(/<meta name="description" content="[^"]*">/, `<meta name="description" content="${description}">`)
       .replace(/<section class="pre-read-notes">[\s\S]*?<\/section>/, `<section class="pre-read-notes"><h2>Quick preparation</h2>${listHtml(notes)}</section>`)
       .replace(/<div class="quiz-summary">[\s\S]*?<\/div><button class="button button-primary"/, `<div class="quiz-summary"><div><span class="summary-number" id="questionCount">${attempt}</span><span class="summary-label">Questions this attempt</span></div><div><span class="summary-number">${bankCount}</span><span class="summary-label">Question bank</span></div><div><span class="summary-number" id="bestScore">0</span><span class="summary-label">Best score</span></div></div><button class="button button-primary"`)
+      .replace(/from a 24-question practice bank/g, "from a 48-question practice bank")
+      .replace(/draws 8 questions from a 24-question practice bank/g, "draws 8 questions from a 48-question practice bank")
       .replace(/"maxQuestions":\d+/, `"maxQuestions":${attempt}`)
       .replace(/"shuffleQuestions":false/, `"shuffleQuestions":true`)
       .replace(/"questionCycle":false/, `"questionCycle":true`)
@@ -103,4 +106,4 @@ for (const [oldCode, info] of Object.entries(legacy)) {
   fs.writeFileSync(path.join(route, "index.html"), html);
 }
 
-console.log(JSON.stringify({ codes: Object.keys(units).length, practiceBank: 24, testBank: 16, practiceAttempt: 8, testAttempt: 8, legacyRedirects: Object.keys(legacy), status: "PUBLISHED" }, null, 2));
+console.log(JSON.stringify({ codes: Object.keys(units).length, practiceBank: 48, testBank: 16, practiceAttempt: 8, testAttempt: 8, legacyRedirects: Object.keys(legacy), status: "PUBLISHED" }, null, 2));

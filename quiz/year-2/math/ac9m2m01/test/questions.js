@@ -152,8 +152,8 @@ window.skillrTestQuestions = [
     "skill": "explain unit size",
     "printable": true,
     "type": "single",
-    "question": "In the lunch area, sam measures a ribbon as 10 cubes. Lee measures the same ribbon as 13 tiny counters. Why are the numbers different?",
-    "audioPrompt": "In the lunch area, sam measures a ribbon as 10 cubes. Lee measures the same ribbon as 13 tiny counters. Why are the numbers different?",
+    "question": "In the lunch area, Sam measures one ribbon with cubes. Lee uses tiny counters. Why are the counts different?",
+    "audioPrompt": "In the lunch area, Sam measures one ribbon with cubes. Lee uses tiny counters. Why are the counts different?",
     "visual": "In the lunch area: The same ribbon measured with 10 large cubes and 13 small counters.",
     "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In the lunch area: The same ribbon measured with 10 large cubes and 13 small counters.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2m01.svg#ac9m2m01-t-006\"></use></svg>",
     "visualMeta": {
@@ -220,7 +220,7 @@ window.skillrTestQuestions = [
       "alt_text": "In the lunch area: A row of equal tiles with a visible gap between the middle tiles."
     },
     "answers": [
-      "Yes, gaps do not matter",
+      "Yes, gaps don't matter",
       "No, the gap makes it unfair",
       "Yes, because all tiles are colourful"
     ],
@@ -384,8 +384,8 @@ window.skillrTestQuestions = [
     "skill": "explain unit size",
     "printable": true,
     "type": "single",
-    "question": "At the science table, sam measures a ribbon as 11 cubes. Lee measures the same ribbon as 14 tiny counters. Why are the numbers different?",
-    "audioPrompt": "At the science table, sam measures a ribbon as 11 cubes. Lee measures the same ribbon as 14 tiny counters. Why are the numbers different?",
+    "question": "At the science table, Sam measures one ribbon with cubes. Lee uses tiny counters. Why are the counts different?",
+    "audioPrompt": "At the science table, Sam measures one ribbon with cubes. Lee uses tiny counters. Why are the counts different?",
     "visual": "At the science table: The same ribbon measured with 11 large cubes and 14 small counters.",
     "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the science table: The same ribbon measured with 11 large cubes and 14 small counters.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2m01.svg#ac9m2m01-t-014\"></use></svg>",
     "visualMeta": {
@@ -453,7 +453,7 @@ window.skillrTestQuestions = [
     },
     "answers": [
       "No, the gap makes it unfair",
-      "Yes, gaps do not matter",
+      "Yes, gaps don't matter",
       "Yes, because all tiles are colourful"
     ],
     "correct": 0,

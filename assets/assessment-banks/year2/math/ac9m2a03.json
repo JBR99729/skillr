@@ -6,13 +6,13 @@
     "curriculum_code": "AC9M2A03",
     "bank": "practice",
     "skill": "multiply_by_two",
-    "question": "At the sock table, how many counters are in 3 pairs?",
-    "audio_prompt": "At the sock table, how many counters are in 3 pairs?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year2/math/ac9m2a03.svg#ac9m2a03-p-001",
       "alt_text": "At the sock table: 3 equal groups with 2 counters in each group."
     },
+    "question": "At the sock table, how many counters are in 3 pairs?",
+    "audio_prompt": "At the sock table, how many counters are in 3 pairs?",
     "answers": [
       {
         "text": "3",
@@ -43,13 +43,13 @@
     "curriculum_code": "AC9M2A03",
     "bank": "practice",
     "skill": "double_number",
-    "question": "At the sock table, what is double 5?",
-    "audio_prompt": "At the sock table, what is double 5?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year2/math/ac9m2a03.svg#ac9m2a03-p-002",
       "alt_text": "At the sock table: Two equal groups of 5 counters."
     },
+    "question": "At the sock table, what is double 5?",
+    "audio_prompt": "At the sock table, what is double 5?",
     "answers": [
       {
         "text": "10",
@@ -80,13 +80,13 @@
     "curriculum_code": "AC9M2A03",
     "bank": "practice",
     "skill": "halve_even_number",
-    "question": "At the sock table, what is half of 10?",
-    "audio_prompt": "At the sock table, what is half of 10?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year2/math/ac9m2a03.svg#ac9m2a03-p-003",
       "alt_text": "At the sock table: 10 counters shared equally between 2 groups."
     },
+    "question": "At the sock table, what is half of 10?",
+    "audio_prompt": "At the sock table, what is half of 10?",
     "answers": [
       {
         "text": "8",
@@ -117,13 +117,13 @@
     "curriculum_code": "AC9M2A03",
     "bank": "practice",
     "skill": "connect_twos_and_division",
-    "question": "At the sock table, which division fact matches 3 × 2 = 6?",
-    "audio_prompt": "At the sock table, which division fact matches 3 × 2 = 6?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year2/math/ac9m2a03.svg#ac9m2a03-p-004",
       "alt_text": "At the sock table: A fact family showing 3, 2 and 6."
     },
+    "question": "At the sock table, which division fact matches 3 × 2 = 6?",
+    "audio_prompt": "At the sock table, which division fact matches 3 × 2 = 6?",
     "answers": [
       {
         "text": "6 ÷ 3 = 3",
@@ -154,13 +154,13 @@
     "curriculum_code": "AC9M2A03",
     "bank": "practice",
     "skill": "skip_count_by_two",
-    "question": "At the sock table, count by twos: 2, 4, 6, 8, __. What comes next?",
-    "audio_prompt": "At the sock table, count by twos: 2, 4, 6, 8, __. What comes next?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year2/math/ac9m2a03.svg#ac9m2a03-p-005",
       "alt_text": "At the sock table: An even-number sequence ending with a blank."
     },
+    "question": "At the sock table, count by twos: 2, 4, 6, 8, __. What comes next?",
+    "audio_prompt": "At the sock table, count by twos: 2, 4, 6, 8, __. What comes next?",
     "answers": [
       {
         "text": "10",
@@ -190,13 +190,13 @@
     "curriculum_code": "AC9M2A03",
     "bank": "practice",
     "skill": "make_pairs",
-    "question": "At the sock table, 10 socks make pairs. How many pairs are there?",
-    "audio_prompt": "At the sock table, 10 socks make pairs. How many pairs are there?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year2/math/ac9m2a03.svg#ac9m2a03-p-006",
       "alt_text": "At the sock table: 10 socks arranged as 5 pairs."
     },
+    "question": "At the sock table, 10 socks make pairs. How many pairs are there?",
+    "audio_prompt": "At the sock table, 10 socks make pairs. How many pairs are there?",
     "answers": [
       {
         "text": "10",
@@ -227,13 +227,13 @@
     "curriculum_code": "AC9M2A03",
     "bank": "practice",
     "skill": "solve_twos_context",
-    "question": "At the sock table, there are 4 bikes. Each bike has 2 wheels. How many wheels are there?",
-    "audio_prompt": "At the sock table, there are 4 bikes. Each bike has 2 wheels. How many wheels are there?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year2/math/ac9m2a03.svg#ac9m2a03-p-007",
       "alt_text": "At the sock table: 4 bikes represented by groups of 2 wheels."
     },
+    "question": "At the sock table, there are 4 bikes. Each bike has 2 wheels. How many wheels are there?",
+    "audio_prompt": "At the sock table, there are 4 bikes. Each bike has 2 wheels. How many wheels are there?",
     "answers": [
       {
         "text": "4",
@@ -264,13 +264,13 @@
     "curriculum_code": "AC9M2A03",
     "bank": "practice",
     "skill": "recognise_equal_halves",
-    "question": "At the sock table, which shows half of 12?",
-    "audio_prompt": "At the sock table, which shows half of 12?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year2/math/ac9m2a03.svg#ac9m2a03-p-008",
       "alt_text": "At the sock table: 12 counters shown in two equal groups."
     },
+    "question": "At the sock table, which shows half of 12?",
+    "audio_prompt": "At the sock table, which shows half of 12?",
     "answers": [
       {
         "text": "6 and 6",
@@ -301,13 +301,13 @@
     "curriculum_code": "AC9M2A03",
     "bank": "practice",
     "skill": "multiply_by_two",
-    "question": "With the bike cards, how many counters are in 4 pairs?",
-    "audio_prompt": "With the bike cards, how many counters are in 4 pairs?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year2/math/ac9m2a03.svg#ac9m2a03-p-009",
       "alt_text": "With the bike cards: 4 equal groups with 2 counters in each group."
     },
+    "question": "With the bike cards, how many counters are in 4 pairs?",
+    "audio_prompt": "With the bike cards, how many counters are in 4 pairs?",
     "answers": [
       {
         "text": "4",
@@ -338,13 +338,13 @@
     "curriculum_code": "AC9M2A03",
     "bank": "practice",
     "skill": "double_number",
-    "question": "With the bike cards, what is double 6?",
-    "audio_prompt": "With the bike cards, what is double 6?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year2/math/ac9m2a03.svg#ac9m2a03-p-010",
       "alt_text": "With the bike cards: Two equal groups of 6 counters."
     },
+    "question": "With the bike cards, what is double 6?",
+    "audio_prompt": "With the bike cards, what is double 6?",
     "answers": [
       {
         "text": "6",
@@ -374,13 +374,13 @@
     "curriculum_code": "AC9M2A03",
     "bank": "practice",
     "skill": "halve_even_number",
-    "question": "With the bike cards, what is half of 12?",
-    "audio_prompt": "With the bike cards, what is half of 12?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year2/math/ac9m2a03.svg#ac9m2a03-p-011",
       "alt_text": "With the bike cards: 12 counters shared equally between 2 groups."
     },
+    "question": "With the bike cards, what is half of 12?",
+    "audio_prompt": "With the bike cards, what is half of 12?",
     "answers": [
       {
         "text": "6",
@@ -410,13 +410,13 @@
     "curriculum_code": "AC9M2A03",
     "bank": "practice",
     "skill": "connect_twos_and_division",
-    "question": "With the bike cards, which division fact matches 4 × 2 = 8?",
-    "audio_prompt": "With the bike cards, which division fact matches 4 × 2 = 8?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year2/math/ac9m2a03.svg#ac9m2a03-p-012",
       "alt_text": "With the bike cards: A fact family showing 4, 2 and 8."
     },
+    "question": "With the bike cards, which division fact matches 4 × 2 = 8?",
+    "audio_prompt": "With the bike cards, which division fact matches 4 × 2 = 8?",
     "answers": [
       {
         "text": "8 ÷ 4 = 4",
@@ -446,13 +446,13 @@
     "curriculum_code": "AC9M2A03",
     "bank": "practice",
     "skill": "skip_count_by_two",
-    "question": "With the bike cards, count by twos: 4, 6, 8, 10, __. What comes next?",
-    "audio_prompt": "With the bike cards, count by twos: 4, 6, 8, 10, __. What comes next?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year2/math/ac9m2a03.svg#ac9m2a03-p-013",
       "alt_text": "With the bike cards: An even-number sequence ending with a blank."
     },
+    "question": "With the bike cards, count by twos: 4, 6, 8, 10, __. What comes next?",
+    "audio_prompt": "With the bike cards, count by twos: 4, 6, 8, 10, __. What comes next?",
     "answers": [
       {
         "text": "11",
@@ -482,13 +482,13 @@
     "curriculum_code": "AC9M2A03",
     "bank": "practice",
     "skill": "make_pairs",
-    "question": "With the bike cards, 12 socks make pairs. How many pairs are there?",
-    "audio_prompt": "With the bike cards, 12 socks make pairs. How many pairs are there?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year2/math/ac9m2a03.svg#ac9m2a03-p-014",
       "alt_text": "With the bike cards: 12 socks arranged as 6 pairs."
     },
+    "question": "With the bike cards, 12 socks make pairs. How many pairs are there?",
+    "audio_prompt": "With the bike cards, 12 socks make pairs. How many pairs are there?",
     "answers": [
       {
         "text": "6",
@@ -518,13 +518,13 @@
     "curriculum_code": "AC9M2A03",
     "bank": "practice",
     "skill": "solve_twos_context",
-    "question": "With the bike cards, there are 5 bikes. Each bike has 2 wheels. How many wheels are there?",
-    "audio_prompt": "With the bike cards, there are 5 bikes. Each bike has 2 wheels. How many wheels are there?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year2/math/ac9m2a03.svg#ac9m2a03-p-015",
       "alt_text": "With the bike cards: 5 bikes represented by groups of 2 wheels."
     },
+    "question": "With the bike cards, there are 5 bikes. Each bike has 2 wheels. How many wheels are there?",
+    "audio_prompt": "With the bike cards, there are 5 bikes. Each bike has 2 wheels. How many wheels are there?",
     "answers": [
       {
         "text": "5",
@@ -554,13 +554,13 @@
     "curriculum_code": "AC9M2A03",
     "bank": "practice",
     "skill": "recognise_equal_halves",
-    "question": "With the bike cards, which shows half of 14?",
-    "audio_prompt": "With the bike cards, which shows half of 14?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year2/math/ac9m2a03.svg#ac9m2a03-p-016",
       "alt_text": "With the bike cards: 14 counters shown in two equal groups."
     },
+    "question": "With the bike cards, which shows half of 14?",
+    "audio_prompt": "With the bike cards, which shows half of 14?",
     "answers": [
       {
         "text": "6 and 8",
@@ -590,13 +590,13 @@
     "curriculum_code": "AC9M2A03",
     "bank": "practice",
     "skill": "multiply_by_two",
-    "question": "In the counter game, how many counters are in 5 pairs?",
-    "audio_prompt": "In the counter game, how many counters are in 5 pairs?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year2/math/ac9m2a03.svg#ac9m2a03-p-017",
       "alt_text": "In the counter game: 5 equal groups with 2 counters in each group."
     },
+    "question": "In the counter game, how many counters are in 5 pairs?",
+    "audio_prompt": "In the counter game, how many counters are in 5 pairs?",
     "answers": [
       {
         "text": "10",
@@ -626,13 +626,13 @@
     "curriculum_code": "AC9M2A03",
     "bank": "practice",
     "skill": "double_number",
-    "question": "In the counter game, what is double 7?",
-    "audio_prompt": "In the counter game, what is double 7?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year2/math/ac9m2a03.svg#ac9m2a03-p-018",
       "alt_text": "In the counter game: Two equal groups of 7 counters."
     },
+    "question": "In the counter game, what is double 7?",
+    "audio_prompt": "In the counter game, what is double 7?",
     "answers": [
       {
         "text": "7",
@@ -662,13 +662,13 @@
     "curriculum_code": "AC9M2A03",
     "bank": "practice",
     "skill": "halve_even_number",
-    "question": "In the counter game, what is half of 14?",
-    "audio_prompt": "In the counter game, what is half of 14?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year2/math/ac9m2a03.svg#ac9m2a03-p-019",
       "alt_text": "In the counter game: 14 counters shared equally between 2 groups."
     },
+    "question": "In the counter game, what is half of 14?",
+    "audio_prompt": "In the counter game, what is half of 14?",
     "answers": [
       {
         "text": "12",
@@ -698,13 +698,13 @@
     "curriculum_code": "AC9M2A03",
     "bank": "practice",
     "skill": "connect_twos_and_division",
-    "question": "In the counter game, which division fact matches 5 × 2 = 10?",
-    "audio_prompt": "In the counter game, which division fact matches 5 × 2 = 10?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year2/math/ac9m2a03.svg#ac9m2a03-p-020",
       "alt_text": "In the counter game: A fact family showing 5, 2 and 10."
     },
+    "question": "In the counter game, which division fact matches 5 × 2 = 10?",
+    "audio_prompt": "In the counter game, which division fact matches 5 × 2 = 10?",
     "answers": [
       {
         "text": "10 ÷ 2 = 5",
@@ -734,13 +734,13 @@
     "curriculum_code": "AC9M2A03",
     "bank": "practice",
     "skill": "skip_count_by_two",
-    "question": "In the counter game, count by twos: 6, 8, 10, 12, __. What comes next?",
-    "audio_prompt": "In the counter game, count by twos: 6, 8, 10, 12, __. What comes next?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year2/math/ac9m2a03.svg#ac9m2a03-p-021",
       "alt_text": "In the counter game: An even-number sequence ending with a blank."
     },
+    "question": "In the counter game, count by twos: 6, 8, 10, 12, __. What comes next?",
+    "audio_prompt": "In the counter game, count by twos: 6, 8, 10, 12, __. What comes next?",
     "answers": [
       {
         "text": "13",
@@ -770,13 +770,13 @@
     "curriculum_code": "AC9M2A03",
     "bank": "practice",
     "skill": "make_pairs",
-    "question": "In the counter game, 14 socks make pairs. How many pairs are there?",
-    "audio_prompt": "In the counter game, 14 socks make pairs. How many pairs are there?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year2/math/ac9m2a03.svg#ac9m2a03-p-022",
       "alt_text": "In the counter game: 14 socks arranged as 7 pairs."
     },
+    "question": "In the counter game, 14 socks make pairs. How many pairs are there?",
+    "audio_prompt": "In the counter game, 14 socks make pairs. How many pairs are there?",
     "answers": [
       {
         "text": "14",
@@ -806,13 +806,13 @@
     "curriculum_code": "AC9M2A03",
     "bank": "practice",
     "skill": "solve_twos_context",
-    "question": "In the counter game, there are 6 bikes. Each bike has 2 wheels. How many wheels are there?",
-    "audio_prompt": "In the counter game, there are 6 bikes. Each bike has 2 wheels. How many wheels are there?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year2/math/ac9m2a03.svg#ac9m2a03-p-023",
       "alt_text": "In the counter game: 6 bikes represented by groups of 2 wheels."
     },
+    "question": "In the counter game, there are 6 bikes. Each bike has 2 wheels. How many wheels are there?",
+    "audio_prompt": "In the counter game, there are 6 bikes. Each bike has 2 wheels. How many wheels are there?",
     "answers": [
       {
         "text": "12",
@@ -842,13 +842,13 @@
     "curriculum_code": "AC9M2A03",
     "bank": "practice",
     "skill": "recognise_equal_halves",
-    "question": "In the counter game, which shows half of 16?",
-    "audio_prompt": "In the counter game, which shows half of 16?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year2/math/ac9m2a03.svg#ac9m2a03-p-024",
       "alt_text": "In the counter game: 16 counters shown in two equal groups."
     },
+    "question": "In the counter game, which shows half of 16?",
+    "audio_prompt": "In the counter game, which shows half of 16?",
     "answers": [
       {
         "text": "7 and 9",
@@ -872,19 +872,811 @@
     "sequence_priority": 2
   },
   {
+    "id": "AC9M2A03-P-025",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2A03",
+    "bank": "practice",
+    "skill": "at_the_school_garden_what_is",
+    "visual": {
+      "type": "none",
+      "alt_text": "At the school garden, what is double 2?"
+    },
+    "question": "At the school garden, what is double 2?",
+    "audio_prompt": "At the school garden, what is double 2?",
+    "answers": [
+      {
+        "text": "4",
+        "is_correct": true
+      },
+      {
+        "text": "2",
+        "is_correct": false
+      },
+      {
+        "text": "6",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Double 2 means 2 + 2.",
+      "hint": "Use the information in the question to check your answer."
+    }
+  },
+  {
+    "id": "AC9M2A03-P-026",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2A03",
+    "bank": "practice",
+    "skill": "during_maths_groups_half_of_12",
+    "visual": {
+      "type": "none",
+      "alt_text": "During maths groups, half of 12 is?"
+    },
+    "question": "During maths groups, half of 12 is?",
+    "audio_prompt": "During maths groups, half of 12 is?",
+    "answers": [
+      {
+        "text": "10",
+        "is_correct": false
+      },
+      {
+        "text": "7",
+        "is_correct": false
+      },
+      {
+        "text": "6",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Half of 12 is 6.",
+      "hint": "Use the information in the question to check your answer."
+    }
+  },
+  {
+    "id": "AC9M2A03-P-027",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2A03",
+    "bank": "practice",
+    "skill": "at_the_art_table_4_pairs",
+    "visual": {
+      "type": "none",
+      "alt_text": "At the art table, 4 pairs of socks have how many socks?"
+    },
+    "question": "At the art table, 4 pairs of socks have how many socks?",
+    "audio_prompt": "At the art table, 4 pairs of socks have how many socks?",
+    "answers": [
+      {
+        "text": "9",
+        "is_correct": false
+      },
+      {
+        "text": "8",
+        "is_correct": true
+      },
+      {
+        "text": "4",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Each pair has 2 socks, so count by twos.",
+      "hint": "Use the information in the question to check your answer."
+    }
+  },
+  {
+    "id": "AC9M2A03-P-028",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2A03",
+    "bank": "practice",
+    "skill": "in_the_playground_what_is_double",
+    "visual": {
+      "type": "none",
+      "alt_text": "In the playground, what is double 5?"
+    },
+    "question": "In the playground, what is double 5?",
+    "audio_prompt": "In the playground, what is double 5?",
+    "answers": [
+      {
+        "text": "10",
+        "is_correct": true
+      },
+      {
+        "text": "5",
+        "is_correct": false
+      },
+      {
+        "text": "12",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Double 5 means 5 + 5.",
+      "hint": "Use the information in the question to check your answer."
+    }
+  },
+  {
+    "id": "AC9M2A03-P-029",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2A03",
+    "bank": "practice",
+    "skill": "at_the_library_half_of_18",
+    "visual": {
+      "type": "none",
+      "alt_text": "At the library, half of 18 is?"
+    },
+    "question": "At the library, half of 18 is?",
+    "audio_prompt": "At the library, half of 18 is?",
+    "answers": [
+      {
+        "text": "16",
+        "is_correct": false
+      },
+      {
+        "text": "10",
+        "is_correct": false
+      },
+      {
+        "text": "9",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Half of 18 is 9.",
+      "hint": "Use the information in the question to check your answer."
+    }
+  },
+  {
+    "id": "AC9M2A03-P-030",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2A03",
+    "bank": "practice",
+    "skill": "during_sport_7_pairs_of_socks",
+    "visual": {
+      "type": "none",
+      "alt_text": "During sport, 7 pairs of socks have how many socks?"
+    },
+    "question": "During sport, 7 pairs of socks have how many socks?",
+    "audio_prompt": "During sport, 7 pairs of socks have how many socks?",
+    "answers": [
+      {
+        "text": "15",
+        "is_correct": false
+      },
+      {
+        "text": "14",
+        "is_correct": true
+      },
+      {
+        "text": "7",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Each pair has 2 socks, so count by twos.",
+      "hint": "Use the information in the question to check your answer."
+    }
+  },
+  {
+    "id": "AC9M2A03-P-031",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2A03",
+    "bank": "practice",
+    "skill": "at_the_class_shop_what_is",
+    "visual": {
+      "type": "none",
+      "alt_text": "At the class shop, what is double 8?"
+    },
+    "question": "At the class shop, what is double 8?",
+    "audio_prompt": "At the class shop, what is double 8?",
+    "answers": [
+      {
+        "text": "16",
+        "is_correct": true
+      },
+      {
+        "text": "8",
+        "is_correct": false
+      },
+      {
+        "text": "18",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Double 8 means 8 + 8.",
+      "hint": "Use the information in the question to check your answer."
+    }
+  },
+  {
+    "id": "AC9M2A03-P-032",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2A03",
+    "bank": "practice",
+    "skill": "on_the_picnic_rug_half_of",
+    "visual": {
+      "type": "none",
+      "alt_text": "On the picnic rug, half of 12 is?"
+    },
+    "question": "On the picnic rug, half of 12 is?",
+    "audio_prompt": "On the picnic rug, half of 12 is?",
+    "answers": [
+      {
+        "text": "10",
+        "is_correct": false
+      },
+      {
+        "text": "7",
+        "is_correct": false
+      },
+      {
+        "text": "6",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Half of 12 is 6.",
+      "hint": "Use the information in the question to check your answer."
+    }
+  },
+  {
+    "id": "AC9M2A03-P-033",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2A03",
+    "bank": "practice",
+    "skill": "at_the_block_table_10_pairs",
+    "visual": {
+      "type": "none",
+      "alt_text": "At the block table, 10 pairs of socks have how many socks?"
+    },
+    "question": "At the block table, 10 pairs of socks have how many socks?",
+    "audio_prompt": "At the block table, 10 pairs of socks have how many socks?",
+    "answers": [
+      {
+        "text": "21",
+        "is_correct": false
+      },
+      {
+        "text": "20",
+        "is_correct": true
+      },
+      {
+        "text": "10",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Each pair has 2 socks, so count by twos.",
+      "hint": "Use the information in the question to check your answer."
+    }
+  },
+  {
+    "id": "AC9M2A03-P-034",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2A03",
+    "bank": "practice",
+    "skill": "in_the_lunch_area_what_is",
+    "visual": {
+      "type": "none",
+      "alt_text": "In the lunch area, what is double 11?"
+    },
+    "question": "In the lunch area, what is double 11?",
+    "audio_prompt": "In the lunch area, what is double 11?",
+    "answers": [
+      {
+        "text": "22",
+        "is_correct": true
+      },
+      {
+        "text": "11",
+        "is_correct": false
+      },
+      {
+        "text": "24",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Double 11 means 11 + 11.",
+      "hint": "Use the information in the question to check your answer."
+    }
+  },
+  {
+    "id": "AC9M2A03-P-035",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2A03",
+    "bank": "practice",
+    "skill": "at_the_science_table_half_of",
+    "visual": {
+      "type": "none",
+      "alt_text": "At the science table, half of 18 is?"
+    },
+    "question": "At the science table, half of 18 is?",
+    "audio_prompt": "At the science table, half of 18 is?",
+    "answers": [
+      {
+        "text": "16",
+        "is_correct": false
+      },
+      {
+        "text": "10",
+        "is_correct": false
+      },
+      {
+        "text": "9",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Half of 18 is 9.",
+      "hint": "Use the information in the question to check your answer."
+    }
+  },
+  {
+    "id": "AC9M2A03-P-036",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2A03",
+    "bank": "practice",
+    "skill": "during_a_card_game_3_pairs",
+    "visual": {
+      "type": "none",
+      "alt_text": "During a card game, 3 pairs of socks have how many socks?"
+    },
+    "question": "During a card game, 3 pairs of socks have how many socks?",
+    "audio_prompt": "During a card game, 3 pairs of socks have how many socks?",
+    "answers": [
+      {
+        "text": "7",
+        "is_correct": false
+      },
+      {
+        "text": "6",
+        "is_correct": true
+      },
+      {
+        "text": "3",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Each pair has 2 socks, so count by twos.",
+      "hint": "Use the information in the question to check your answer."
+    }
+  },
+  {
+    "id": "AC9M2A03-P-037",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2A03",
+    "bank": "practice",
+    "skill": "at_the_school_garden_what_is",
+    "visual": {
+      "type": "none",
+      "alt_text": "At the school garden, what is double 4?"
+    },
+    "question": "At the school garden, what is double 4?",
+    "audio_prompt": "At the school garden, what is double 4?",
+    "answers": [
+      {
+        "text": "8",
+        "is_correct": true
+      },
+      {
+        "text": "4",
+        "is_correct": false
+      },
+      {
+        "text": "10",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Double 4 means 4 + 4.",
+      "hint": "Use the information in the question to check your answer."
+    }
+  },
+  {
+    "id": "AC9M2A03-P-038",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2A03",
+    "bank": "practice",
+    "skill": "during_maths_groups_half_of_12",
+    "visual": {
+      "type": "none",
+      "alt_text": "During maths groups, half of 12 is?"
+    },
+    "question": "During maths groups, half of 12 is?",
+    "audio_prompt": "During maths groups, half of 12 is?",
+    "answers": [
+      {
+        "text": "10",
+        "is_correct": false
+      },
+      {
+        "text": "7",
+        "is_correct": false
+      },
+      {
+        "text": "6",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Half of 12 is 6.",
+      "hint": "Use the information in the question to check your answer."
+    }
+  },
+  {
+    "id": "AC9M2A03-P-039",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2A03",
+    "bank": "practice",
+    "skill": "at_the_art_table_6_pairs",
+    "visual": {
+      "type": "none",
+      "alt_text": "At the art table, 6 pairs of socks have how many socks?"
+    },
+    "question": "At the art table, 6 pairs of socks have how many socks?",
+    "audio_prompt": "At the art table, 6 pairs of socks have how many socks?",
+    "answers": [
+      {
+        "text": "13",
+        "is_correct": false
+      },
+      {
+        "text": "12",
+        "is_correct": true
+      },
+      {
+        "text": "6",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Each pair has 2 socks, so count by twos.",
+      "hint": "Use the information in the question to check your answer."
+    }
+  },
+  {
+    "id": "AC9M2A03-P-040",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2A03",
+    "bank": "practice",
+    "skill": "in_the_playground_what_is_double",
+    "visual": {
+      "type": "none",
+      "alt_text": "In the playground, what is double 7?"
+    },
+    "question": "In the playground, what is double 7?",
+    "audio_prompt": "In the playground, what is double 7?",
+    "answers": [
+      {
+        "text": "14",
+        "is_correct": true
+      },
+      {
+        "text": "7",
+        "is_correct": false
+      },
+      {
+        "text": "16",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Double 7 means 7 + 7.",
+      "hint": "Use the information in the question to check your answer."
+    }
+  },
+  {
+    "id": "AC9M2A03-P-041",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2A03",
+    "bank": "practice",
+    "skill": "at_the_library_half_of_18",
+    "visual": {
+      "type": "none",
+      "alt_text": "At the library, half of 18 is?"
+    },
+    "question": "At the library, half of 18 is?",
+    "audio_prompt": "At the library, half of 18 is?",
+    "answers": [
+      {
+        "text": "16",
+        "is_correct": false
+      },
+      {
+        "text": "10",
+        "is_correct": false
+      },
+      {
+        "text": "9",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Half of 18 is 9.",
+      "hint": "Use the information in the question to check your answer."
+    }
+  },
+  {
+    "id": "AC9M2A03-P-042",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2A03",
+    "bank": "practice",
+    "skill": "during_sport_9_pairs_of_socks",
+    "visual": {
+      "type": "none",
+      "alt_text": "During sport, 9 pairs of socks have how many socks?"
+    },
+    "question": "During sport, 9 pairs of socks have how many socks?",
+    "audio_prompt": "During sport, 9 pairs of socks have how many socks?",
+    "answers": [
+      {
+        "text": "19",
+        "is_correct": false
+      },
+      {
+        "text": "18",
+        "is_correct": true
+      },
+      {
+        "text": "9",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Each pair has 2 socks, so count by twos.",
+      "hint": "Use the information in the question to check your answer."
+    }
+  },
+  {
+    "id": "AC9M2A03-P-043",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2A03",
+    "bank": "practice",
+    "skill": "at_the_class_shop_what_is",
+    "visual": {
+      "type": "none",
+      "alt_text": "At the class shop, what is double 10?"
+    },
+    "question": "At the class shop, what is double 10?",
+    "audio_prompt": "At the class shop, what is double 10?",
+    "answers": [
+      {
+        "text": "20",
+        "is_correct": true
+      },
+      {
+        "text": "10",
+        "is_correct": false
+      },
+      {
+        "text": "22",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Double 10 means 10 + 10.",
+      "hint": "Use the information in the question to check your answer."
+    }
+  },
+  {
+    "id": "AC9M2A03-P-044",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2A03",
+    "bank": "practice",
+    "skill": "on_the_picnic_rug_half_of",
+    "visual": {
+      "type": "none",
+      "alt_text": "On the picnic rug, half of 12 is?"
+    },
+    "question": "On the picnic rug, half of 12 is?",
+    "audio_prompt": "On the picnic rug, half of 12 is?",
+    "answers": [
+      {
+        "text": "10",
+        "is_correct": false
+      },
+      {
+        "text": "7",
+        "is_correct": false
+      },
+      {
+        "text": "6",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Half of 12 is 6.",
+      "hint": "Use the information in the question to check your answer."
+    }
+  },
+  {
+    "id": "AC9M2A03-P-045",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2A03",
+    "bank": "practice",
+    "skill": "at_the_block_table_2_pairs",
+    "visual": {
+      "type": "none",
+      "alt_text": "At the block table, 2 pairs of socks have how many socks?"
+    },
+    "question": "At the block table, 2 pairs of socks have how many socks?",
+    "audio_prompt": "At the block table, 2 pairs of socks have how many socks?",
+    "answers": [
+      {
+        "text": "5",
+        "is_correct": false
+      },
+      {
+        "text": "4",
+        "is_correct": true
+      },
+      {
+        "text": "2",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Each pair has 2 socks, so count by twos.",
+      "hint": "Use the information in the question to check your answer."
+    }
+  },
+  {
+    "id": "AC9M2A03-P-046",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2A03",
+    "bank": "practice",
+    "skill": "in_the_lunch_area_what_is",
+    "visual": {
+      "type": "none",
+      "alt_text": "In the lunch area, what is double 3?"
+    },
+    "question": "In the lunch area, what is double 3?",
+    "audio_prompt": "In the lunch area, what is double 3?",
+    "answers": [
+      {
+        "text": "6",
+        "is_correct": true
+      },
+      {
+        "text": "3",
+        "is_correct": false
+      },
+      {
+        "text": "8",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Double 3 means 3 + 3.",
+      "hint": "Use the information in the question to check your answer."
+    }
+  },
+  {
+    "id": "AC9M2A03-P-047",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2A03",
+    "bank": "practice",
+    "skill": "at_the_science_table_half_of",
+    "visual": {
+      "type": "none",
+      "alt_text": "At the science table, half of 18 is?"
+    },
+    "question": "At the science table, half of 18 is?",
+    "audio_prompt": "At the science table, half of 18 is?",
+    "answers": [
+      {
+        "text": "16",
+        "is_correct": false
+      },
+      {
+        "text": "10",
+        "is_correct": false
+      },
+      {
+        "text": "9",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Half of 18 is 9.",
+      "hint": "Use the information in the question to check your answer."
+    }
+  },
+  {
+    "id": "AC9M2A03-P-048",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2A03",
+    "bank": "practice",
+    "skill": "during_a_card_game_5_pairs",
+    "visual": {
+      "type": "none",
+      "alt_text": "During a card game, 5 pairs of socks have how many socks?"
+    },
+    "question": "During a card game, 5 pairs of socks have how many socks?",
+    "audio_prompt": "During a card game, 5 pairs of socks have how many socks?",
+    "answers": [
+      {
+        "text": "11",
+        "is_correct": false
+      },
+      {
+        "text": "10",
+        "is_correct": true
+      },
+      {
+        "text": "5",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Each pair has 2 socks, so count by twos.",
+      "hint": "Use the information in the question to check your answer."
+    }
+  },
+  {
     "id": "AC9M2A03-T-001",
     "subject": "math",
     "year_level": "Year 2",
     "curriculum_code": "AC9M2A03",
     "bank": "test",
     "skill": "multiply_by_two",
-    "question": "At the doubles station, how many counters are in 6 pairs?",
-    "audio_prompt": "At the doubles station, how many counters are in 6 pairs?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year2/math/ac9m2a03.svg#ac9m2a03-t-001",
       "alt_text": "At the doubles station: 6 equal groups with 2 counters in each group."
     },
+    "question": "At the doubles station, how many counters are in 6 pairs?",
+    "audio_prompt": "At the doubles station, how many counters are in 6 pairs?",
     "answers": [
       {
         "text": "6",
@@ -912,13 +1704,13 @@
     "curriculum_code": "AC9M2A03",
     "bank": "test",
     "skill": "double_number",
-    "question": "At the doubles station, what is double 8?",
-    "audio_prompt": "At the doubles station, what is double 8?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year2/math/ac9m2a03.svg#ac9m2a03-t-002",
       "alt_text": "At the doubles station: Two equal groups of 8 counters."
     },
+    "question": "At the doubles station, what is double 8?",
+    "audio_prompt": "At the doubles station, what is double 8?",
     "answers": [
       {
         "text": "16",
@@ -946,13 +1738,13 @@
     "curriculum_code": "AC9M2A03",
     "bank": "test",
     "skill": "halve_even_number",
-    "question": "At the doubles station, what is half of 16?",
-    "audio_prompt": "At the doubles station, what is half of 16?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year2/math/ac9m2a03.svg#ac9m2a03-t-003",
       "alt_text": "At the doubles station: 16 counters shared equally between 2 groups."
     },
+    "question": "At the doubles station, what is half of 16?",
+    "audio_prompt": "At the doubles station, what is half of 16?",
     "answers": [
       {
         "text": "14",
@@ -980,13 +1772,13 @@
     "curriculum_code": "AC9M2A03",
     "bank": "test",
     "skill": "connect_twos_and_division",
-    "question": "At the doubles station, which division fact matches 6 × 2 = 12?",
-    "audio_prompt": "At the doubles station, which division fact matches 6 × 2 = 12?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year2/math/ac9m2a03.svg#ac9m2a03-t-004",
       "alt_text": "At the doubles station: A fact family showing 6, 2 and 12."
     },
+    "question": "At the doubles station, which division fact matches 6 × 2 = 12?",
+    "audio_prompt": "At the doubles station, which division fact matches 6 × 2 = 12?",
     "answers": [
       {
         "text": "12 ÷ 6 = 6",
@@ -1014,13 +1806,13 @@
     "curriculum_code": "AC9M2A03",
     "bank": "test",
     "skill": "skip_count_by_two",
-    "question": "At the doubles station, count by twos: 8, 10, 12, 14, __. What comes next?",
-    "audio_prompt": "At the doubles station, count by twos: 8, 10, 12, 14, __. What comes next?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year2/math/ac9m2a03.svg#ac9m2a03-t-005",
       "alt_text": "At the doubles station: An even-number sequence ending with a blank."
     },
+    "question": "At the doubles station, count by twos: 8, 10, 12, 14, __. What comes next?",
+    "audio_prompt": "At the doubles station, count by twos: 8, 10, 12, 14, __. What comes next?",
     "answers": [
       {
         "text": "16",
@@ -1048,13 +1840,13 @@
     "curriculum_code": "AC9M2A03",
     "bank": "test",
     "skill": "make_pairs",
-    "question": "At the doubles station, 16 socks make pairs. How many pairs are there?",
-    "audio_prompt": "At the doubles station, 16 socks make pairs. How many pairs are there?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year2/math/ac9m2a03.svg#ac9m2a03-t-006",
       "alt_text": "At the doubles station: 16 socks arranged as 8 pairs."
     },
+    "question": "At the doubles station, 16 socks make pairs. How many pairs are there?",
+    "audio_prompt": "At the doubles station, 16 socks make pairs. How many pairs are there?",
     "answers": [
       {
         "text": "16",
@@ -1082,13 +1874,13 @@
     "curriculum_code": "AC9M2A03",
     "bank": "test",
     "skill": "solve_twos_context",
-    "question": "At the doubles station, there are 7 bikes. Each bike has 2 wheels. How many wheels are there?",
-    "audio_prompt": "At the doubles station, there are 7 bikes. Each bike has 2 wheels. How many wheels are there?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year2/math/ac9m2a03.svg#ac9m2a03-t-007",
       "alt_text": "At the doubles station: 7 bikes represented by groups of 2 wheels."
     },
+    "question": "At the doubles station, there are 7 bikes. Each bike has 2 wheels. How many wheels are there?",
+    "audio_prompt": "At the doubles station, there are 7 bikes. Each bike has 2 wheels. How many wheels are there?",
     "answers": [
       {
         "text": "7",
@@ -1116,13 +1908,13 @@
     "curriculum_code": "AC9M2A03",
     "bank": "test",
     "skill": "recognise_equal_halves",
-    "question": "At the doubles station, which shows half of 18?",
-    "audio_prompt": "At the doubles station, which shows half of 18?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year2/math/ac9m2a03.svg#ac9m2a03-t-008",
       "alt_text": "At the doubles station: 18 counters shown in two equal groups."
     },
+    "question": "At the doubles station, which shows half of 18?",
+    "audio_prompt": "At the doubles station, which shows half of 18?",
     "answers": [
       {
         "text": "9 and 9",
@@ -1150,13 +1942,13 @@
     "curriculum_code": "AC9M2A03",
     "bank": "test",
     "skill": "multiply_by_two",
-    "question": "During the pair challenge, how many counters are in 7 pairs?",
-    "audio_prompt": "During the pair challenge, how many counters are in 7 pairs?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year2/math/ac9m2a03.svg#ac9m2a03-t-009",
       "alt_text": "During the pair challenge: 7 equal groups with 2 counters in each group."
     },
+    "question": "During the pair challenge, how many counters are in 7 pairs?",
+    "audio_prompt": "During the pair challenge, how many counters are in 7 pairs?",
     "answers": [
       {
         "text": "7",
@@ -1184,13 +1976,13 @@
     "curriculum_code": "AC9M2A03",
     "bank": "test",
     "skill": "double_number",
-    "question": "During the pair challenge, what is double 9?",
-    "audio_prompt": "During the pair challenge, what is double 9?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year2/math/ac9m2a03.svg#ac9m2a03-t-010",
       "alt_text": "During the pair challenge: Two equal groups of 9 counters."
     },
+    "question": "During the pair challenge, what is double 9?",
+    "audio_prompt": "During the pair challenge, what is double 9?",
     "answers": [
       {
         "text": "9",
@@ -1218,13 +2010,13 @@
     "curriculum_code": "AC9M2A03",
     "bank": "test",
     "skill": "halve_even_number",
-    "question": "During the pair challenge, what is half of 18?",
-    "audio_prompt": "During the pair challenge, what is half of 18?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year2/math/ac9m2a03.svg#ac9m2a03-t-011",
       "alt_text": "During the pair challenge: 18 counters shared equally between 2 groups."
     },
+    "question": "During the pair challenge, what is half of 18?",
+    "audio_prompt": "During the pair challenge, what is half of 18?",
     "answers": [
       {
         "text": "9",
@@ -1252,13 +2044,13 @@
     "curriculum_code": "AC9M2A03",
     "bank": "test",
     "skill": "connect_twos_and_division",
-    "question": "During the pair challenge, which division fact matches 7 × 2 = 14?",
-    "audio_prompt": "During the pair challenge, which division fact matches 7 × 2 = 14?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year2/math/ac9m2a03.svg#ac9m2a03-t-012",
       "alt_text": "During the pair challenge: A fact family showing 7, 2 and 14."
     },
+    "question": "During the pair challenge, which division fact matches 7 × 2 = 14?",
+    "audio_prompt": "During the pair challenge, which division fact matches 7 × 2 = 14?",
     "answers": [
       {
         "text": "14 ÷ 7 = 7",
@@ -1286,13 +2078,13 @@
     "curriculum_code": "AC9M2A03",
     "bank": "test",
     "skill": "skip_count_by_two",
-    "question": "During the pair challenge, count by twos: 10, 12, 14, 16, __. What comes next?",
-    "audio_prompt": "During the pair challenge, count by twos: 10, 12, 14, 16, __. What comes next?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year2/math/ac9m2a03.svg#ac9m2a03-t-013",
       "alt_text": "During the pair challenge: An even-number sequence ending with a blank."
     },
+    "question": "During the pair challenge, count by twos: 10, 12, 14, 16, __. What comes next?",
+    "audio_prompt": "During the pair challenge, count by twos: 10, 12, 14, 16, __. What comes next?",
     "answers": [
       {
         "text": "17",
@@ -1320,13 +2112,13 @@
     "curriculum_code": "AC9M2A03",
     "bank": "test",
     "skill": "make_pairs",
-    "question": "During the pair challenge, 18 socks make pairs. How many pairs are there?",
-    "audio_prompt": "During the pair challenge, 18 socks make pairs. How many pairs are there?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year2/math/ac9m2a03.svg#ac9m2a03-t-014",
       "alt_text": "During the pair challenge: 18 socks arranged as 9 pairs."
     },
+    "question": "During the pair challenge, 18 socks make pairs. How many pairs are there?",
+    "audio_prompt": "During the pair challenge, 18 socks make pairs. How many pairs are there?",
     "answers": [
       {
         "text": "9",
@@ -1354,13 +2146,13 @@
     "curriculum_code": "AC9M2A03",
     "bank": "test",
     "skill": "solve_twos_context",
-    "question": "During the pair challenge, there are 8 bikes. Each bike has 2 wheels. How many wheels are there?",
-    "audio_prompt": "During the pair challenge, there are 8 bikes. Each bike has 2 wheels. How many wheels are there?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year2/math/ac9m2a03.svg#ac9m2a03-t-015",
       "alt_text": "During the pair challenge: 8 bikes represented by groups of 2 wheels."
     },
+    "question": "During the pair challenge, there are 8 bikes. Each bike has 2 wheels. How many wheels are there?",
+    "audio_prompt": "During the pair challenge, there are 8 bikes. Each bike has 2 wheels. How many wheels are there?",
     "answers": [
       {
         "text": "8",
@@ -1388,13 +2180,13 @@
     "curriculum_code": "AC9M2A03",
     "bank": "test",
     "skill": "recognise_equal_halves",
-    "question": "During the pair challenge, which shows half of 20?",
-    "audio_prompt": "During the pair challenge, which shows half of 20?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year2/math/ac9m2a03.svg#ac9m2a03-t-016",
       "alt_text": "During the pair challenge: 20 counters shown in two equal groups."
     },
+    "question": "During the pair challenge, which shows half of 20?",
+    "audio_prompt": "During the pair challenge, which shows half of 20?",
     "answers": [
       {
         "text": "9 and 11",

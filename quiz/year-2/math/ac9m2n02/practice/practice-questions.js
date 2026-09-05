@@ -21,6 +21,9 @@ window.skillrPracticeQuestions = [
       "200 + 50 + 3",
       "200 + 3 + 5"
     ],
+    "difficulty": 1,
+    "difficultyTier": "confidence",
+    "sequencePriority": 1,
     "correct": 0,
     "explanation": "235 has 2 hundreds, 3 tens and 5 ones.\nHint: Read each digit by its place.",
     "structuredExplanation": {
@@ -50,6 +53,9 @@ window.skillrPracticeQuestions = [
       "10 ones",
       "100 ones"
     ],
+    "difficulty": 1,
+    "difficultyTier": "confidence",
+    "sequencePriority": 1,
     "correct": 1,
     "explanation": "One ten has the same value as 10 ones.\nHint: Count the unit squares in a ten rod.",
     "structuredExplanation": {
@@ -79,6 +85,9 @@ window.skillrPracticeQuestions = [
       "2 hundreds + 3 tens + 15 ones",
       "1 hundreds + 13 tens + 5 ones"
     ],
+    "difficulty": 1,
+    "difficultyTier": "confidence",
+    "sequencePriority": 1,
     "correct": 2,
     "explanation": "Regrouping 1 hundred as 10 tens keeps the total at 235.\nHint: Take one hundred away and add ten tens.",
     "structuredExplanation": {
@@ -108,6 +117,9 @@ window.skillrPracticeQuestions = [
       "0 hundreds",
       "0 ones"
     ],
+    "difficulty": 1,
+    "difficultyTier": "confidence",
+    "sequencePriority": 1,
     "correct": 0,
     "explanation": "The zero sits in the tens place, so 205 has 0 tens.\nHint: Name the columns from left to right: hundreds, tens, ones.",
     "structuredExplanation": {
@@ -137,6 +149,9 @@ window.skillrPracticeQuestions = [
       "Yes",
       "No, it is 10 less"
     ],
+    "difficulty": 1,
+    "difficultyTier": "confidence",
+    "sequencePriority": 1,
     "correct": 1,
     "explanation": "One ten was traded for 10 ones, so the total value stays 235.\nHint: Compare the parts after regrouping, not just the number of pieces.",
     "structuredExplanation": {
@@ -166,6 +181,9 @@ window.skillrPracticeQuestions = [
       "5",
       "3"
     ],
+    "difficulty": 1,
+    "difficultyTier": "confidence",
+    "sequencePriority": 1,
     "correct": 2,
     "explanation": "35 has 3 full tens and 5 ones.\nHint: Group the amount into tens before counting leftover ones.",
     "structuredExplanation": {
@@ -195,6 +213,9 @@ window.skillrPracticeQuestions = [
       "2 hundreds + 2 tens + 15 ones",
       "1 hundreds + 13 tens + 5 ones"
     ],
+    "difficulty": 1,
+    "difficultyTier": "confidence",
+    "sequencePriority": 1,
     "correct": 0,
     "explanation": "Taking away a ten without adding 10 ones makes the value 10 less.\nHint: Every trade must exchange equal value.",
     "structuredExplanation": {
@@ -224,6 +245,9 @@ window.skillrPracticeQuestions = [
       "235",
       "335"
     ],
+    "difficulty": 1,
+    "difficultyTier": "confidence",
+    "sequencePriority": 1,
     "correct": 1,
     "explanation": "35 ones regroup as 3 tens and 5 ones, making 235.\nHint: Make groups of 10 from the ones.",
     "structuredExplanation": {
@@ -253,6 +277,8 @@ window.skillrPracticeQuestions = [
       "300 + 4 + 6",
       "300 + 40 + 6"
     ],
+    "difficulty": 3,
+    "sequencePriority": 2,
     "correct": 2,
     "explanation": "346 has 3 hundreds, 4 tens and 6 ones.\nHint: Read each digit by its place.",
     "structuredExplanation": {
@@ -282,6 +308,8 @@ window.skillrPracticeQuestions = [
       "1 one",
       "100 ones"
     ],
+    "difficulty": 3,
+    "sequencePriority": 2,
     "correct": 0,
     "explanation": "One ten has the same value as 10 ones.\nHint: Count the unit squares in a ten rod.",
     "structuredExplanation": {
@@ -311,6 +339,8 @@ window.skillrPracticeQuestions = [
       "2 hundreds + 14 tens + 6 ones",
       "3 hundreds + 4 tens + 16 ones"
     ],
+    "difficulty": 3,
+    "sequencePriority": 2,
     "correct": 1,
     "explanation": "Regrouping 1 hundred as 10 tens keeps the total at 346.\nHint: Take one hundred away and add ten tens.",
     "structuredExplanation": {
@@ -340,6 +370,8 @@ window.skillrPracticeQuestions = [
       "0 ones",
       "0 tens"
     ],
+    "difficulty": 3,
+    "sequencePriority": 2,
     "correct": 2,
     "explanation": "The zero sits in the tens place, so 306 has 0 tens.\nHint: Name the columns from left to right: hundreds, tens, ones.",
     "structuredExplanation": {
@@ -369,6 +401,8 @@ window.skillrPracticeQuestions = [
       "No, it is 10 more",
       "No, it is 10 less"
     ],
+    "difficulty": 3,
+    "sequencePriority": 2,
     "correct": 0,
     "explanation": "One ten was traded for 10 ones, so the total value stays 346.\nHint: Compare the parts after regrouping, not just the number of pieces.",
     "structuredExplanation": {
@@ -398,6 +432,8 @@ window.skillrPracticeQuestions = [
       "4",
       "6"
     ],
+    "difficulty": 3,
+    "sequencePriority": 2,
     "correct": 1,
     "explanation": "46 has 4 full tens and 6 ones.\nHint: Group the amount into tens before counting leftover ones.",
     "structuredExplanation": {
@@ -427,6 +463,8 @@ window.skillrPracticeQuestions = [
       "2 hundreds + 14 tens + 6 ones",
       "3 hundreds + 3 tens + 6 ones"
     ],
+    "difficulty": 3,
+    "sequencePriority": 2,
     "correct": 2,
     "explanation": "Taking away a ten without adding 10 ones makes the value 10 less.\nHint: Every trade must exchange equal value.",
     "structuredExplanation": {
@@ -456,6 +494,8 @@ window.skillrPracticeQuestions = [
       "310",
       "446"
     ],
+    "difficulty": 3,
+    "sequencePriority": 2,
     "correct": 0,
     "explanation": "46 ones regroup as 4 tens and 6 ones, making 346.\nHint: Make groups of 10 from the ones.",
     "structuredExplanation": {
@@ -485,6 +525,8 @@ window.skillrPracticeQuestions = [
       "400 + 50 + 7",
       "400 + 5 + 7"
     ],
+    "difficulty": 3,
+    "sequencePriority": 2,
     "correct": 1,
     "explanation": "457 has 4 hundreds, 5 tens and 7 ones.\nHint: Read each digit by its place.",
     "structuredExplanation": {
@@ -514,6 +556,8 @@ window.skillrPracticeQuestions = [
       "100 ones",
       "10 ones"
     ],
+    "difficulty": 3,
+    "sequencePriority": 2,
     "correct": 2,
     "explanation": "One ten has the same value as 10 ones.\nHint: Count the unit squares in a ten rod.",
     "structuredExplanation": {
@@ -543,6 +587,8 @@ window.skillrPracticeQuestions = [
       "3 hundreds + 6 tens + 7 ones",
       "4 hundreds + 5 tens + 17 ones"
     ],
+    "difficulty": 3,
+    "sequencePriority": 2,
     "correct": 0,
     "explanation": "Regrouping 1 hundred as 10 tens keeps the total at 457.\nHint: Take one hundred away and add ten tens.",
     "structuredExplanation": {
@@ -572,6 +618,8 @@ window.skillrPracticeQuestions = [
       "0 tens",
       "0 ones"
     ],
+    "difficulty": 3,
+    "sequencePriority": 2,
     "correct": 1,
     "explanation": "The zero sits in the tens place, so 407 has 0 tens.\nHint: Name the columns from left to right: hundreds, tens, ones.",
     "structuredExplanation": {
@@ -601,6 +649,8 @@ window.skillrPracticeQuestions = [
       "No, it is 10 less",
       "Yes"
     ],
+    "difficulty": 3,
+    "sequencePriority": 2,
     "correct": 2,
     "explanation": "One ten was traded for 10 ones, so the total value stays 457.\nHint: Compare the parts after regrouping, not just the number of pieces.",
     "structuredExplanation": {
@@ -630,6 +680,8 @@ window.skillrPracticeQuestions = [
       "6",
       "7"
     ],
+    "difficulty": 3,
+    "sequencePriority": 2,
     "correct": 0,
     "explanation": "57 has 5 full tens and 7 ones.\nHint: Group the amount into tens before counting leftover ones.",
     "structuredExplanation": {
@@ -659,6 +711,8 @@ window.skillrPracticeQuestions = [
       "4 hundreds + 4 tens + 7 ones",
       "3 hundreds + 15 tens + 7 ones"
     ],
+    "difficulty": 3,
+    "sequencePriority": 2,
     "correct": 1,
     "explanation": "Taking away a ten without adding 10 ones makes the value 10 less.\nHint: Every trade must exchange equal value.",
     "structuredExplanation": {
@@ -688,11 +742,685 @@ window.skillrPracticeQuestions = [
       "557",
       "457"
     ],
+    "difficulty": 3,
+    "sequencePriority": 2,
     "correct": 2,
     "explanation": "57 ones regroup as 5 tens and 7 ones, making 457.\nHint: Make groups of 10 from the ones.",
     "structuredExplanation": {
       "summary": "57 ones regroup as 5 tens and 7 ones, making 457.",
       "hint": "Make groups of 10 from the ones."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m2n02-p-025",
+    "curriculumCode": "AC9M2N02",
+    "bank": "practice",
+    "skill": "at the school garden which renames",
+    "printable": true,
+    "type": "single",
+    "question": "At the school garden, which renames 210?",
+    "audioPrompt": "At the school garden, which renames 210?",
+    "visual": "At the school garden, which renames 210?",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": "At the school garden, which renames 210?"
+    },
+    "answers": [
+      "2 hundreds, 1 tens, 0 ones",
+      "2 hundreds, 0 tens, 9 ones",
+      "3 hundreds, 0 tens, 10 ones"
+    ],
+    "correct": 0,
+    "explanation": "Regroup 10 ones as 1 ten.\nHint: Use the information in the question to check your answer.",
+    "structuredExplanation": {
+      "summary": "Regroup 10 ones as 1 ten.",
+      "hint": "Use the information in the question to check your answer."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m2n02-p-026",
+    "curriculumCode": "AC9M2N02",
+    "bank": "practice",
+    "skill": "during maths groups 3 hundreds 1",
+    "printable": true,
+    "type": "single",
+    "question": "During maths groups, 3 hundreds, 1 tens and 11 ones equals?",
+    "audioPrompt": "During maths groups, 3 hundreds, 1 tens and 11 ones equals?",
+    "visual": "During maths groups, 3 hundreds, 1 tens and 11 ones equals?",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": "During maths groups, 3 hundreds, 1 tens and 11 ones equals?"
+    },
+    "answers": [
+      "331",
+      "320",
+      "321"
+    ],
+    "correct": 2,
+    "explanation": "Regroup 10 ones as 1 ten.\nHint: Use the information in the question to check your answer.",
+    "structuredExplanation": {
+      "summary": "Regroup 10 ones as 1 ten.",
+      "hint": "Use the information in the question to check your answer."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m2n02-p-027",
+    "curriculumCode": "AC9M2N02",
+    "bank": "practice",
+    "skill": "at the art table which is",
+    "printable": true,
+    "type": "single",
+    "question": "At the art table, which is not equal to 432?",
+    "audioPrompt": "At the art table, which is not equal to 432?",
+    "visual": "At the art table, which is not equal to 432?",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": "At the art table, which is not equal to 432?"
+    },
+    "answers": [
+      "4 hundreds and 32 ones",
+      "433",
+      "432"
+    ],
+    "correct": 1,
+    "explanation": "Regroup 10 ones as 1 ten.\nHint: Use the information in the question to check your answer.",
+    "structuredExplanation": {
+      "summary": "Regroup 10 ones as 1 ten.",
+      "hint": "Use the information in the question to check your answer."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m2n02-p-028",
+    "curriculumCode": "AC9M2N02",
+    "bank": "practice",
+    "skill": "in the playground which renames 543",
+    "printable": true,
+    "type": "single",
+    "question": "In the playground, which renames 543?",
+    "audioPrompt": "In the playground, which renames 543?",
+    "visual": "In the playground, which renames 543?",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": "In the playground, which renames 543?"
+    },
+    "answers": [
+      "5 hundreds, 4 tens, 3 ones",
+      "5 hundreds, 3 tens, 12 ones",
+      "6 hundreds, 3 tens, 13 ones"
+    ],
+    "correct": 0,
+    "explanation": "Regroup 10 ones as 1 ten.\nHint: Use the information in the question to check your answer.",
+    "structuredExplanation": {
+      "summary": "Regroup 10 ones as 1 ten.",
+      "hint": "Use the information in the question to check your answer."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m2n02-p-029",
+    "curriculumCode": "AC9M2N02",
+    "bank": "practice",
+    "skill": "at the library 6 hundreds 4",
+    "printable": true,
+    "type": "single",
+    "question": "At the library, 6 hundreds, 4 tens and 14 ones equals?",
+    "audioPrompt": "At the library, 6 hundreds, 4 tens and 14 ones equals?",
+    "visual": "At the library, 6 hundreds, 4 tens and 14 ones equals?",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": "At the library, 6 hundreds, 4 tens and 14 ones equals?"
+    },
+    "answers": [
+      "664",
+      "653",
+      "654"
+    ],
+    "correct": 2,
+    "explanation": "Regroup 10 ones as 1 ten.\nHint: Use the information in the question to check your answer.",
+    "structuredExplanation": {
+      "summary": "Regroup 10 ones as 1 ten.",
+      "hint": "Use the information in the question to check your answer."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m2n02-p-030",
+    "curriculumCode": "AC9M2N02",
+    "bank": "practice",
+    "skill": "during sport which is not equal",
+    "printable": true,
+    "type": "single",
+    "question": "During sport, which is not equal to 765?",
+    "audioPrompt": "During sport, which is not equal to 765?",
+    "visual": "During sport, which is not equal to 765?",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": "During sport, which is not equal to 765?"
+    },
+    "answers": [
+      "7 hundreds and 65 ones",
+      "766",
+      "765"
+    ],
+    "correct": 1,
+    "explanation": "Regroup 10 ones as 1 ten.\nHint: Use the information in the question to check your answer.",
+    "structuredExplanation": {
+      "summary": "Regroup 10 ones as 1 ten.",
+      "hint": "Use the information in the question to check your answer."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m2n02-p-031",
+    "curriculumCode": "AC9M2N02",
+    "bank": "practice",
+    "skill": "at the class shop which renames",
+    "printable": true,
+    "type": "single",
+    "question": "At the class shop, which renames 876?",
+    "audioPrompt": "At the class shop, which renames 876?",
+    "visual": "At the class shop, which renames 876?",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": "At the class shop, which renames 876?"
+    },
+    "answers": [
+      "8 hundreds, 7 tens, 6 ones",
+      "8 hundreds, 6 tens, 15 ones",
+      "9 hundreds, 6 tens, 16 ones"
+    ],
+    "correct": 0,
+    "explanation": "Regroup 10 ones as 1 ten.\nHint: Use the information in the question to check your answer.",
+    "structuredExplanation": {
+      "summary": "Regroup 10 ones as 1 ten.",
+      "hint": "Use the information in the question to check your answer."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m2n02-p-032",
+    "curriculumCode": "AC9M2N02",
+    "bank": "practice",
+    "skill": "on the picnic rug 2 hundreds",
+    "printable": true,
+    "type": "single",
+    "question": "On the picnic rug, 2 hundreds, 7 tens and 17 ones equals?",
+    "audioPrompt": "On the picnic rug, 2 hundreds, 7 tens and 17 ones equals?",
+    "visual": "On the picnic rug, 2 hundreds, 7 tens and 17 ones equals?",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": "On the picnic rug, 2 hundreds, 7 tens and 17 ones equals?"
+    },
+    "answers": [
+      "297",
+      "286",
+      "287"
+    ],
+    "correct": 2,
+    "explanation": "Regroup 10 ones as 1 ten.\nHint: Use the information in the question to check your answer.",
+    "structuredExplanation": {
+      "summary": "Regroup 10 ones as 1 ten.",
+      "hint": "Use the information in the question to check your answer."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m2n02-p-033",
+    "curriculumCode": "AC9M2N02",
+    "bank": "practice",
+    "skill": "at the block table which is",
+    "printable": true,
+    "type": "single",
+    "question": "At the block table, which is not equal to 390?",
+    "audioPrompt": "At the block table, which is not equal to 390?",
+    "visual": "At the block table, which is not equal to 390?",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": "At the block table, which is not equal to 390?"
+    },
+    "answers": [
+      "3 hundreds and 90 ones",
+      "391",
+      "390"
+    ],
+    "correct": 1,
+    "explanation": "Regroup 10 ones as 1 ten.\nHint: Use the information in the question to check your answer.",
+    "structuredExplanation": {
+      "summary": "Regroup 10 ones as 1 ten.",
+      "hint": "Use the information in the question to check your answer."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m2n02-p-034",
+    "curriculumCode": "AC9M2N02",
+    "bank": "practice",
+    "skill": "in the lunch area which renames",
+    "printable": true,
+    "type": "single",
+    "question": "In the lunch area, which renames 411?",
+    "audioPrompt": "In the lunch area, which renames 411?",
+    "visual": "In the lunch area, which renames 411?",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": "In the lunch area, which renames 411?"
+    },
+    "answers": [
+      "4 hundreds, 1 tens, 1 ones",
+      "4 hundreds, 0 tens, 10 ones",
+      "5 hundreds, 0 tens, 11 ones"
+    ],
+    "correct": 0,
+    "explanation": "Regroup 10 ones as 1 ten.\nHint: Use the information in the question to check your answer.",
+    "structuredExplanation": {
+      "summary": "Regroup 10 ones as 1 ten.",
+      "hint": "Use the information in the question to check your answer."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m2n02-p-035",
+    "curriculumCode": "AC9M2N02",
+    "bank": "practice",
+    "skill": "at the science table 5 hundreds",
+    "printable": true,
+    "type": "single",
+    "question": "At the science table, 5 hundreds, 1 tens and 12 ones equals?",
+    "audioPrompt": "At the science table, 5 hundreds, 1 tens and 12 ones equals?",
+    "visual": "At the science table, 5 hundreds, 1 tens and 12 ones equals?",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": "At the science table, 5 hundreds, 1 tens and 12 ones equals?"
+    },
+    "answers": [
+      "532",
+      "521",
+      "522"
+    ],
+    "correct": 2,
+    "explanation": "Regroup 10 ones as 1 ten.\nHint: Use the information in the question to check your answer.",
+    "structuredExplanation": {
+      "summary": "Regroup 10 ones as 1 ten.",
+      "hint": "Use the information in the question to check your answer."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m2n02-p-036",
+    "curriculumCode": "AC9M2N02",
+    "bank": "practice",
+    "skill": "during a card game which is",
+    "printable": true,
+    "type": "single",
+    "question": "During a card game, which is not equal to 633?",
+    "audioPrompt": "During a card game, which is not equal to 633?",
+    "visual": "During a card game, which is not equal to 633?",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": "During a card game, which is not equal to 633?"
+    },
+    "answers": [
+      "6 hundreds and 33 ones",
+      "634",
+      "633"
+    ],
+    "correct": 1,
+    "explanation": "Regroup 10 ones as 1 ten.\nHint: Use the information in the question to check your answer.",
+    "structuredExplanation": {
+      "summary": "Regroup 10 ones as 1 ten.",
+      "hint": "Use the information in the question to check your answer."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m2n02-p-037",
+    "curriculumCode": "AC9M2N02",
+    "bank": "practice",
+    "skill": "at the school garden which renames",
+    "printable": true,
+    "type": "single",
+    "question": "At the school garden, which renames 744?",
+    "audioPrompt": "At the school garden, which renames 744?",
+    "visual": "At the school garden, which renames 744?",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": "At the school garden, which renames 744?"
+    },
+    "answers": [
+      "7 hundreds, 4 tens, 4 ones",
+      "7 hundreds, 3 tens, 13 ones",
+      "8 hundreds, 3 tens, 14 ones"
+    ],
+    "correct": 0,
+    "explanation": "Regroup 10 ones as 1 ten.\nHint: Use the information in the question to check your answer.",
+    "structuredExplanation": {
+      "summary": "Regroup 10 ones as 1 ten.",
+      "hint": "Use the information in the question to check your answer."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m2n02-p-038",
+    "curriculumCode": "AC9M2N02",
+    "bank": "practice",
+    "skill": "during maths groups 8 hundreds 4",
+    "printable": true,
+    "type": "single",
+    "question": "During maths groups, 8 hundreds, 4 tens and 15 ones equals?",
+    "audioPrompt": "During maths groups, 8 hundreds, 4 tens and 15 ones equals?",
+    "visual": "During maths groups, 8 hundreds, 4 tens and 15 ones equals?",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": "During maths groups, 8 hundreds, 4 tens and 15 ones equals?"
+    },
+    "answers": [
+      "865",
+      "854",
+      "855"
+    ],
+    "correct": 2,
+    "explanation": "Regroup 10 ones as 1 ten.\nHint: Use the information in the question to check your answer.",
+    "structuredExplanation": {
+      "summary": "Regroup 10 ones as 1 ten.",
+      "hint": "Use the information in the question to check your answer."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m2n02-p-039",
+    "curriculumCode": "AC9M2N02",
+    "bank": "practice",
+    "skill": "at the art table which is",
+    "printable": true,
+    "type": "single",
+    "question": "At the art table, which is not equal to 266?",
+    "audioPrompt": "At the art table, which is not equal to 266?",
+    "visual": "At the art table, which is not equal to 266?",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": "At the art table, which is not equal to 266?"
+    },
+    "answers": [
+      "2 hundreds and 66 ones",
+      "267",
+      "266"
+    ],
+    "correct": 1,
+    "explanation": "Regroup 10 ones as 1 ten.\nHint: Use the information in the question to check your answer.",
+    "structuredExplanation": {
+      "summary": "Regroup 10 ones as 1 ten.",
+      "hint": "Use the information in the question to check your answer."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m2n02-p-040",
+    "curriculumCode": "AC9M2N02",
+    "bank": "practice",
+    "skill": "in the playground which renames 377",
+    "printable": true,
+    "type": "single",
+    "question": "In the playground, which renames 377?",
+    "audioPrompt": "In the playground, which renames 377?",
+    "visual": "In the playground, which renames 377?",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": "In the playground, which renames 377?"
+    },
+    "answers": [
+      "3 hundreds, 7 tens, 7 ones",
+      "3 hundreds, 6 tens, 16 ones",
+      "4 hundreds, 6 tens, 17 ones"
+    ],
+    "correct": 0,
+    "explanation": "Regroup 10 ones as 1 ten.\nHint: Use the information in the question to check your answer.",
+    "structuredExplanation": {
+      "summary": "Regroup 10 ones as 1 ten.",
+      "hint": "Use the information in the question to check your answer."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m2n02-p-041",
+    "curriculumCode": "AC9M2N02",
+    "bank": "practice",
+    "skill": "at the library 4 hundreds 7",
+    "printable": true,
+    "type": "single",
+    "question": "At the library, 4 hundreds, 7 tens and 10 ones equals?",
+    "audioPrompt": "At the library, 4 hundreds, 7 tens and 10 ones equals?",
+    "visual": "At the library, 4 hundreds, 7 tens and 10 ones equals?",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": "At the library, 4 hundreds, 7 tens and 10 ones equals?"
+    },
+    "answers": [
+      "490",
+      "479",
+      "480"
+    ],
+    "correct": 2,
+    "explanation": "Regroup 10 ones as 1 ten.\nHint: Use the information in the question to check your answer.",
+    "structuredExplanation": {
+      "summary": "Regroup 10 ones as 1 ten.",
+      "hint": "Use the information in the question to check your answer."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m2n02-p-042",
+    "curriculumCode": "AC9M2N02",
+    "bank": "practice",
+    "skill": "during sport which is not equal",
+    "printable": true,
+    "type": "single",
+    "question": "During sport, which is not equal to 591?",
+    "audioPrompt": "During sport, which is not equal to 591?",
+    "visual": "During sport, which is not equal to 591?",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": "During sport, which is not equal to 591?"
+    },
+    "answers": [
+      "5 hundreds and 91 ones",
+      "592",
+      "591"
+    ],
+    "correct": 1,
+    "explanation": "Regroup 10 ones as 1 ten.\nHint: Use the information in the question to check your answer.",
+    "structuredExplanation": {
+      "summary": "Regroup 10 ones as 1 ten.",
+      "hint": "Use the information in the question to check your answer."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m2n02-p-043",
+    "curriculumCode": "AC9M2N02",
+    "bank": "practice",
+    "skill": "at the class shop which renames",
+    "printable": true,
+    "type": "single",
+    "question": "At the class shop, which renames 612?",
+    "audioPrompt": "At the class shop, which renames 612?",
+    "visual": "At the class shop, which renames 612?",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": "At the class shop, which renames 612?"
+    },
+    "answers": [
+      "6 hundreds, 1 tens, 2 ones",
+      "6 hundreds, 0 tens, 11 ones",
+      "7 hundreds, 0 tens, 12 ones"
+    ],
+    "correct": 0,
+    "explanation": "Regroup 10 ones as 1 ten.\nHint: Use the information in the question to check your answer.",
+    "structuredExplanation": {
+      "summary": "Regroup 10 ones as 1 ten.",
+      "hint": "Use the information in the question to check your answer."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m2n02-p-044",
+    "curriculumCode": "AC9M2N02",
+    "bank": "practice",
+    "skill": "on the picnic rug 7 hundreds",
+    "printable": true,
+    "type": "single",
+    "question": "On the picnic rug, 7 hundreds, 1 tens and 13 ones equals?",
+    "audioPrompt": "On the picnic rug, 7 hundreds, 1 tens and 13 ones equals?",
+    "visual": "On the picnic rug, 7 hundreds, 1 tens and 13 ones equals?",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": "On the picnic rug, 7 hundreds, 1 tens and 13 ones equals?"
+    },
+    "answers": [
+      "733",
+      "722",
+      "723"
+    ],
+    "correct": 2,
+    "explanation": "Regroup 10 ones as 1 ten.\nHint: Use the information in the question to check your answer.",
+    "structuredExplanation": {
+      "summary": "Regroup 10 ones as 1 ten.",
+      "hint": "Use the information in the question to check your answer."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m2n02-p-045",
+    "curriculumCode": "AC9M2N02",
+    "bank": "practice",
+    "skill": "at the block table which is",
+    "printable": true,
+    "type": "single",
+    "question": "At the block table, which is not equal to 834?",
+    "audioPrompt": "At the block table, which is not equal to 834?",
+    "visual": "At the block table, which is not equal to 834?",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": "At the block table, which is not equal to 834?"
+    },
+    "answers": [
+      "8 hundreds and 34 ones",
+      "835",
+      "834"
+    ],
+    "correct": 1,
+    "explanation": "Regroup 10 ones as 1 ten.\nHint: Use the information in the question to check your answer.",
+    "structuredExplanation": {
+      "summary": "Regroup 10 ones as 1 ten.",
+      "hint": "Use the information in the question to check your answer."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m2n02-p-046",
+    "curriculumCode": "AC9M2N02",
+    "bank": "practice",
+    "skill": "in the lunch area which renames",
+    "printable": true,
+    "type": "single",
+    "question": "In the lunch area, which renames 245?",
+    "audioPrompt": "In the lunch area, which renames 245?",
+    "visual": "In the lunch area, which renames 245?",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": "In the lunch area, which renames 245?"
+    },
+    "answers": [
+      "2 hundreds, 4 tens, 5 ones",
+      "2 hundreds, 3 tens, 14 ones",
+      "3 hundreds, 3 tens, 15 ones"
+    ],
+    "correct": 0,
+    "explanation": "Regroup 10 ones as 1 ten.\nHint: Use the information in the question to check your answer.",
+    "structuredExplanation": {
+      "summary": "Regroup 10 ones as 1 ten.",
+      "hint": "Use the information in the question to check your answer."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m2n02-p-047",
+    "curriculumCode": "AC9M2N02",
+    "bank": "practice",
+    "skill": "at the science table 3 hundreds",
+    "printable": true,
+    "type": "single",
+    "question": "At the science table, 3 hundreds, 4 tens and 16 ones equals?",
+    "audioPrompt": "At the science table, 3 hundreds, 4 tens and 16 ones equals?",
+    "visual": "At the science table, 3 hundreds, 4 tens and 16 ones equals?",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": "At the science table, 3 hundreds, 4 tens and 16 ones equals?"
+    },
+    "answers": [
+      "366",
+      "355",
+      "356"
+    ],
+    "correct": 2,
+    "explanation": "Regroup 10 ones as 1 ten.\nHint: Use the information in the question to check your answer.",
+    "structuredExplanation": {
+      "summary": "Regroup 10 ones as 1 ten.",
+      "hint": "Use the information in the question to check your answer."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m2n02-p-048",
+    "curriculumCode": "AC9M2N02",
+    "bank": "practice",
+    "skill": "during a card game which is",
+    "printable": true,
+    "type": "single",
+    "question": "During a card game, which is not equal to 467?",
+    "audioPrompt": "During a card game, which is not equal to 467?",
+    "visual": "During a card game, which is not equal to 467?",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": "During a card game, which is not equal to 467?"
+    },
+    "answers": [
+      "4 hundreds and 67 ones",
+      "468",
+      "467"
+    ],
+    "correct": 1,
+    "explanation": "Regroup 10 ones as 1 ten.\nHint: Use the information in the question to check your answer.",
+    "structuredExplanation": {
+      "summary": "Regroup 10 ones as 1 ten.",
+      "hint": "Use the information in the question to check your answer."
     },
     "qualitySchema": "production-v1"
   }

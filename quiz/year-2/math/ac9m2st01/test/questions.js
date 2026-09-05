@@ -152,8 +152,8 @@ window.skillrTestQuestions = [
     "skill": "choose nonoverlapping categories",
     "printable": true,
     "type": "single",
-    "question": "In the pet survey, which categories are clear and do not overlap for a pet survey?",
-    "audioPrompt": "In the pet survey, which categories are clear and do not overlap for a pet survey?",
+    "question": "In the pet survey, which categories are clear and don't overlap for a pet survey?",
+    "audioPrompt": "In the pet survey, which categories are clear and don't overlap for a pet survey?",
     "visual": "In the pet survey: Three labelled boxes: cat, dog and fish.",
     "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In the pet survey: Three labelled boxes: cat, dog and fish.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2st01.svg#ac9m2st01-t-006\"></use></svg>",
     "visualMeta": {
@@ -191,7 +191,7 @@ window.skillrTestQuestions = [
       "alt_text": "In the pet survey: A bird observation sheet with tally marks."
     },
     "answers": [
-      "guess without looking",
+      "guess by guessing",
       "observe and tally each bird",
       "measure one desk"
     ],
@@ -384,8 +384,8 @@ window.skillrTestQuestions = [
     "skill": "choose nonoverlapping categories",
     "printable": true,
     "type": "single",
-    "question": "In the story survey, which categories are clear and do not overlap for a pet survey?",
-    "audioPrompt": "In the story survey, which categories are clear and do not overlap for a pet survey?",
+    "question": "In the story survey, which categories are clear and don't overlap for a pet survey?",
+    "audioPrompt": "In the story survey, which categories are clear and don't overlap for a pet survey?",
     "visual": "In the story survey: Three labelled boxes: cat, dog and fish.",
     "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In the story survey: Three labelled boxes: cat, dog and fish.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2st01.svg#ac9m2st01-t-014\"></use></svg>",
     "visualMeta": {
@@ -424,7 +424,7 @@ window.skillrTestQuestions = [
     },
     "answers": [
       "observe and tally each bird",
-      "guess without looking",
+      "guess by guessing",
       "measure one desk"
     ],
     "correct": 0,

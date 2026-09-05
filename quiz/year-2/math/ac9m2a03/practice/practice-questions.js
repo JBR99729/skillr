@@ -21,6 +21,9 @@ window.skillrPracticeQuestions = [
       "8",
       "6"
     ],
+    "difficulty": 1,
+    "difficultyTier": "confidence",
+    "sequencePriority": 1,
     "correct": 2,
     "explanation": "3 pairs means 3 groups of 2, so there are 6.\nHint: Skip-count by twos 3 times.",
     "structuredExplanation": {
@@ -50,6 +53,9 @@ window.skillrPracticeQuestions = [
       "5",
       "9"
     ],
+    "difficulty": 1,
+    "difficultyTier": "confidence",
+    "sequencePriority": 1,
     "correct": 0,
     "explanation": "Double means two equal groups. 5 + 5 = 10.\nHint: Say the number twice, then add.",
     "structuredExplanation": {
@@ -79,6 +85,9 @@ window.skillrPracticeQuestions = [
       "5",
       "6"
     ],
+    "difficulty": 1,
+    "difficultyTier": "confidence",
+    "sequencePriority": 1,
     "correct": 1,
     "explanation": "Half means split 10 into 2 equal groups. Each group has 5.\nHint: Share one at a time into two groups.",
     "structuredExplanation": {
@@ -108,6 +117,9 @@ window.skillrPracticeQuestions = [
       "6 − 2 = 4",
       "6 ÷ 2 = 3"
     ],
+    "difficulty": 1,
+    "difficultyTier": "confidence",
+    "sequencePriority": 1,
     "correct": 2,
     "explanation": "6 shared into 2 equal groups gives 3 in each group.\nHint: Use the total 6, then divide it into 2 groups.",
     "structuredExplanation": {
@@ -137,6 +149,8 @@ window.skillrPracticeQuestions = [
       "9",
       "12"
     ],
+    "difficulty": 3,
+    "sequencePriority": 2,
     "correct": 0,
     "explanation": "Counting by twos adds 2. After 8 comes 10.\nHint: Say the next even number.",
     "structuredExplanation": {
@@ -166,6 +180,9 @@ window.skillrPracticeQuestions = [
       "5",
       "7"
     ],
+    "difficulty": 1,
+    "difficultyTier": "confidence",
+    "sequencePriority": 1,
     "correct": 1,
     "explanation": "Each pair uses 2 socks, so 10 ÷ 2 = 5 pairs.\nHint: Circle the socks two at a time.",
     "structuredExplanation": {
@@ -195,6 +212,9 @@ window.skillrPracticeQuestions = [
       "9",
       "8"
     ],
+    "difficulty": 1,
+    "difficultyTier": "confidence",
+    "sequencePriority": 1,
     "correct": 2,
     "explanation": "4 groups of 2 wheels make 8 wheels.\nHint: Draw 2 wheels for each bike, then count them.",
     "structuredExplanation": {
@@ -224,6 +244,9 @@ window.skillrPracticeQuestions = [
       "5 and 7",
       "12 and 12"
     ],
+    "difficulty": 1,
+    "difficultyTier": "confidence",
+    "sequencePriority": 1,
     "correct": 0,
     "explanation": "Two equal parts of 6 make 12.\nHint: Halves must be equal and join to make the whole.",
     "structuredExplanation": {
@@ -253,6 +276,9 @@ window.skillrPracticeQuestions = [
       "8",
       "10"
     ],
+    "difficulty": 1,
+    "difficultyTier": "confidence",
+    "sequencePriority": 1,
     "correct": 1,
     "explanation": "4 pairs means 4 groups of 2, so there are 8.\nHint: Skip-count by twos 4 times.",
     "structuredExplanation": {
@@ -282,6 +308,8 @@ window.skillrPracticeQuestions = [
       "11",
       "12"
     ],
+    "difficulty": 3,
+    "sequencePriority": 2,
     "correct": 2,
     "explanation": "Double means two equal groups. 6 + 6 = 12.\nHint: Say the number twice, then add.",
     "structuredExplanation": {
@@ -311,6 +339,8 @@ window.skillrPracticeQuestions = [
       "10",
       "7"
     ],
+    "difficulty": 3,
+    "sequencePriority": 2,
     "correct": 0,
     "explanation": "Half means split 12 into 2 equal groups. Each group has 6.\nHint: Share one at a time into two groups.",
     "structuredExplanation": {
@@ -340,6 +370,8 @@ window.skillrPracticeQuestions = [
       "8 ÷ 2 = 4",
       "8 − 2 = 6"
     ],
+    "difficulty": 3,
+    "sequencePriority": 2,
     "correct": 1,
     "explanation": "8 shared into 2 equal groups gives 4 in each group.\nHint: Use the total 8, then divide it into 2 groups.",
     "structuredExplanation": {
@@ -369,6 +401,8 @@ window.skillrPracticeQuestions = [
       "14",
       "12"
     ],
+    "difficulty": 3,
+    "sequencePriority": 2,
     "correct": 2,
     "explanation": "Counting by twos adds 2. After 10 comes 12.\nHint: Say the next even number.",
     "structuredExplanation": {
@@ -398,6 +432,8 @@ window.skillrPracticeQuestions = [
       "12",
       "8"
     ],
+    "difficulty": 3,
+    "sequencePriority": 2,
     "correct": 0,
     "explanation": "Each pair uses 2 socks, so 12 ÷ 2 = 6 pairs.\nHint: Circle the socks two at a time.",
     "structuredExplanation": {
@@ -427,6 +463,8 @@ window.skillrPracticeQuestions = [
       "10",
       "11"
     ],
+    "difficulty": 3,
+    "sequencePriority": 2,
     "correct": 1,
     "explanation": "5 groups of 2 wheels make 10 wheels.\nHint: Draw 2 wheels for each bike, then count them.",
     "structuredExplanation": {
@@ -456,6 +494,8 @@ window.skillrPracticeQuestions = [
       "14 and 14",
       "7 and 7"
     ],
+    "difficulty": 3,
+    "sequencePriority": 2,
     "correct": 2,
     "explanation": "Two equal parts of 7 make 14.\nHint: Halves must be equal and join to make the whole.",
     "structuredExplanation": {
@@ -485,6 +525,8 @@ window.skillrPracticeQuestions = [
       "5",
       "12"
     ],
+    "difficulty": 3,
+    "sequencePriority": 2,
     "correct": 0,
     "explanation": "5 pairs means 5 groups of 2, so there are 10.\nHint: Skip-count by twos 5 times.",
     "structuredExplanation": {
@@ -514,6 +556,8 @@ window.skillrPracticeQuestions = [
       "14",
       "13"
     ],
+    "difficulty": 3,
+    "sequencePriority": 2,
     "correct": 1,
     "explanation": "Double means two equal groups. 7 + 7 = 14.\nHint: Say the number twice, then add.",
     "structuredExplanation": {
@@ -543,6 +587,8 @@ window.skillrPracticeQuestions = [
       "8",
       "7"
     ],
+    "difficulty": 3,
+    "sequencePriority": 2,
     "correct": 2,
     "explanation": "Half means split 14 into 2 equal groups. Each group has 7.\nHint: Share one at a time into two groups.",
     "structuredExplanation": {
@@ -572,6 +618,8 @@ window.skillrPracticeQuestions = [
       "10 ÷ 5 = 5",
       "10 − 2 = 8"
     ],
+    "difficulty": 3,
+    "sequencePriority": 2,
     "correct": 0,
     "explanation": "10 shared into 2 equal groups gives 5 in each group.\nHint: Use the total 10, then divide it into 2 groups.",
     "structuredExplanation": {
@@ -601,6 +649,8 @@ window.skillrPracticeQuestions = [
       "14",
       "16"
     ],
+    "difficulty": 3,
+    "sequencePriority": 2,
     "correct": 1,
     "explanation": "Counting by twos adds 2. After 12 comes 14.\nHint: Say the next even number.",
     "structuredExplanation": {
@@ -630,6 +680,8 @@ window.skillrPracticeQuestions = [
       "9",
       "7"
     ],
+    "difficulty": 3,
+    "sequencePriority": 2,
     "correct": 2,
     "explanation": "Each pair uses 2 socks, so 14 ÷ 2 = 7 pairs.\nHint: Circle the socks two at a time.",
     "structuredExplanation": {
@@ -659,6 +711,8 @@ window.skillrPracticeQuestions = [
       "6",
       "13"
     ],
+    "difficulty": 3,
+    "sequencePriority": 2,
     "correct": 0,
     "explanation": "6 groups of 2 wheels make 12 wheels.\nHint: Draw 2 wheels for each bike, then count them.",
     "structuredExplanation": {
@@ -688,11 +742,685 @@ window.skillrPracticeQuestions = [
       "8 and 8",
       "16 and 16"
     ],
+    "difficulty": 3,
+    "sequencePriority": 2,
     "correct": 1,
     "explanation": "Two equal parts of 8 make 16.\nHint: Halves must be equal and join to make the whole.",
     "structuredExplanation": {
       "summary": "Two equal parts of 8 make 16.",
       "hint": "Halves must be equal and join to make the whole."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m2a03-p-025",
+    "curriculumCode": "AC9M2A03",
+    "bank": "practice",
+    "skill": "at the school garden what is",
+    "printable": true,
+    "type": "single",
+    "question": "At the school garden, what is double 2?",
+    "audioPrompt": "At the school garden, what is double 2?",
+    "visual": "At the school garden, what is double 2?",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": "At the school garden, what is double 2?"
+    },
+    "answers": [
+      "4",
+      "2",
+      "6"
+    ],
+    "correct": 0,
+    "explanation": "Double 2 means 2 + 2.\nHint: Use the information in the question to check your answer.",
+    "structuredExplanation": {
+      "summary": "Double 2 means 2 + 2.",
+      "hint": "Use the information in the question to check your answer."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m2a03-p-026",
+    "curriculumCode": "AC9M2A03",
+    "bank": "practice",
+    "skill": "during maths groups half of 12",
+    "printable": true,
+    "type": "single",
+    "question": "During maths groups, half of 12 is?",
+    "audioPrompt": "During maths groups, half of 12 is?",
+    "visual": "During maths groups, half of 12 is?",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": "During maths groups, half of 12 is?"
+    },
+    "answers": [
+      "10",
+      "7",
+      "6"
+    ],
+    "correct": 2,
+    "explanation": "Half of 12 is 6.\nHint: Use the information in the question to check your answer.",
+    "structuredExplanation": {
+      "summary": "Half of 12 is 6.",
+      "hint": "Use the information in the question to check your answer."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m2a03-p-027",
+    "curriculumCode": "AC9M2A03",
+    "bank": "practice",
+    "skill": "at the art table 4 pairs",
+    "printable": true,
+    "type": "single",
+    "question": "At the art table, 4 pairs of socks have how many socks?",
+    "audioPrompt": "At the art table, 4 pairs of socks have how many socks?",
+    "visual": "At the art table, 4 pairs of socks have how many socks?",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": "At the art table, 4 pairs of socks have how many socks?"
+    },
+    "answers": [
+      "9",
+      "8",
+      "4"
+    ],
+    "correct": 1,
+    "explanation": "Each pair has 2 socks, so count by twos.\nHint: Use the information in the question to check your answer.",
+    "structuredExplanation": {
+      "summary": "Each pair has 2 socks, so count by twos.",
+      "hint": "Use the information in the question to check your answer."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m2a03-p-028",
+    "curriculumCode": "AC9M2A03",
+    "bank": "practice",
+    "skill": "in the playground what is double",
+    "printable": true,
+    "type": "single",
+    "question": "In the playground, what is double 5?",
+    "audioPrompt": "In the playground, what is double 5?",
+    "visual": "In the playground, what is double 5?",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": "In the playground, what is double 5?"
+    },
+    "answers": [
+      "10",
+      "5",
+      "12"
+    ],
+    "correct": 0,
+    "explanation": "Double 5 means 5 + 5.\nHint: Use the information in the question to check your answer.",
+    "structuredExplanation": {
+      "summary": "Double 5 means 5 + 5.",
+      "hint": "Use the information in the question to check your answer."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m2a03-p-029",
+    "curriculumCode": "AC9M2A03",
+    "bank": "practice",
+    "skill": "at the library half of 18",
+    "printable": true,
+    "type": "single",
+    "question": "At the library, half of 18 is?",
+    "audioPrompt": "At the library, half of 18 is?",
+    "visual": "At the library, half of 18 is?",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": "At the library, half of 18 is?"
+    },
+    "answers": [
+      "16",
+      "10",
+      "9"
+    ],
+    "correct": 2,
+    "explanation": "Half of 18 is 9.\nHint: Use the information in the question to check your answer.",
+    "structuredExplanation": {
+      "summary": "Half of 18 is 9.",
+      "hint": "Use the information in the question to check your answer."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m2a03-p-030",
+    "curriculumCode": "AC9M2A03",
+    "bank": "practice",
+    "skill": "during sport 7 pairs of socks",
+    "printable": true,
+    "type": "single",
+    "question": "During sport, 7 pairs of socks have how many socks?",
+    "audioPrompt": "During sport, 7 pairs of socks have how many socks?",
+    "visual": "During sport, 7 pairs of socks have how many socks?",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": "During sport, 7 pairs of socks have how many socks?"
+    },
+    "answers": [
+      "15",
+      "14",
+      "7"
+    ],
+    "correct": 1,
+    "explanation": "Each pair has 2 socks, so count by twos.\nHint: Use the information in the question to check your answer.",
+    "structuredExplanation": {
+      "summary": "Each pair has 2 socks, so count by twos.",
+      "hint": "Use the information in the question to check your answer."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m2a03-p-031",
+    "curriculumCode": "AC9M2A03",
+    "bank": "practice",
+    "skill": "at the class shop what is",
+    "printable": true,
+    "type": "single",
+    "question": "At the class shop, what is double 8?",
+    "audioPrompt": "At the class shop, what is double 8?",
+    "visual": "At the class shop, what is double 8?",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": "At the class shop, what is double 8?"
+    },
+    "answers": [
+      "16",
+      "8",
+      "18"
+    ],
+    "correct": 0,
+    "explanation": "Double 8 means 8 + 8.\nHint: Use the information in the question to check your answer.",
+    "structuredExplanation": {
+      "summary": "Double 8 means 8 + 8.",
+      "hint": "Use the information in the question to check your answer."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m2a03-p-032",
+    "curriculumCode": "AC9M2A03",
+    "bank": "practice",
+    "skill": "on the picnic rug half of",
+    "printable": true,
+    "type": "single",
+    "question": "On the picnic rug, half of 12 is?",
+    "audioPrompt": "On the picnic rug, half of 12 is?",
+    "visual": "On the picnic rug, half of 12 is?",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": "On the picnic rug, half of 12 is?"
+    },
+    "answers": [
+      "10",
+      "7",
+      "6"
+    ],
+    "correct": 2,
+    "explanation": "Half of 12 is 6.\nHint: Use the information in the question to check your answer.",
+    "structuredExplanation": {
+      "summary": "Half of 12 is 6.",
+      "hint": "Use the information in the question to check your answer."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m2a03-p-033",
+    "curriculumCode": "AC9M2A03",
+    "bank": "practice",
+    "skill": "at the block table 10 pairs",
+    "printable": true,
+    "type": "single",
+    "question": "At the block table, 10 pairs of socks have how many socks?",
+    "audioPrompt": "At the block table, 10 pairs of socks have how many socks?",
+    "visual": "At the block table, 10 pairs of socks have how many socks?",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": "At the block table, 10 pairs of socks have how many socks?"
+    },
+    "answers": [
+      "21",
+      "20",
+      "10"
+    ],
+    "correct": 1,
+    "explanation": "Each pair has 2 socks, so count by twos.\nHint: Use the information in the question to check your answer.",
+    "structuredExplanation": {
+      "summary": "Each pair has 2 socks, so count by twos.",
+      "hint": "Use the information in the question to check your answer."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m2a03-p-034",
+    "curriculumCode": "AC9M2A03",
+    "bank": "practice",
+    "skill": "in the lunch area what is",
+    "printable": true,
+    "type": "single",
+    "question": "In the lunch area, what is double 11?",
+    "audioPrompt": "In the lunch area, what is double 11?",
+    "visual": "In the lunch area, what is double 11?",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": "In the lunch area, what is double 11?"
+    },
+    "answers": [
+      "22",
+      "11",
+      "24"
+    ],
+    "correct": 0,
+    "explanation": "Double 11 means 11 + 11.\nHint: Use the information in the question to check your answer.",
+    "structuredExplanation": {
+      "summary": "Double 11 means 11 + 11.",
+      "hint": "Use the information in the question to check your answer."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m2a03-p-035",
+    "curriculumCode": "AC9M2A03",
+    "bank": "practice",
+    "skill": "at the science table half of",
+    "printable": true,
+    "type": "single",
+    "question": "At the science table, half of 18 is?",
+    "audioPrompt": "At the science table, half of 18 is?",
+    "visual": "At the science table, half of 18 is?",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": "At the science table, half of 18 is?"
+    },
+    "answers": [
+      "16",
+      "10",
+      "9"
+    ],
+    "correct": 2,
+    "explanation": "Half of 18 is 9.\nHint: Use the information in the question to check your answer.",
+    "structuredExplanation": {
+      "summary": "Half of 18 is 9.",
+      "hint": "Use the information in the question to check your answer."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m2a03-p-036",
+    "curriculumCode": "AC9M2A03",
+    "bank": "practice",
+    "skill": "during a card game 3 pairs",
+    "printable": true,
+    "type": "single",
+    "question": "During a card game, 3 pairs of socks have how many socks?",
+    "audioPrompt": "During a card game, 3 pairs of socks have how many socks?",
+    "visual": "During a card game, 3 pairs of socks have how many socks?",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": "During a card game, 3 pairs of socks have how many socks?"
+    },
+    "answers": [
+      "7",
+      "6",
+      "3"
+    ],
+    "correct": 1,
+    "explanation": "Each pair has 2 socks, so count by twos.\nHint: Use the information in the question to check your answer.",
+    "structuredExplanation": {
+      "summary": "Each pair has 2 socks, so count by twos.",
+      "hint": "Use the information in the question to check your answer."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m2a03-p-037",
+    "curriculumCode": "AC9M2A03",
+    "bank": "practice",
+    "skill": "at the school garden what is",
+    "printable": true,
+    "type": "single",
+    "question": "At the school garden, what is double 4?",
+    "audioPrompt": "At the school garden, what is double 4?",
+    "visual": "At the school garden, what is double 4?",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": "At the school garden, what is double 4?"
+    },
+    "answers": [
+      "8",
+      "4",
+      "10"
+    ],
+    "correct": 0,
+    "explanation": "Double 4 means 4 + 4.\nHint: Use the information in the question to check your answer.",
+    "structuredExplanation": {
+      "summary": "Double 4 means 4 + 4.",
+      "hint": "Use the information in the question to check your answer."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m2a03-p-038",
+    "curriculumCode": "AC9M2A03",
+    "bank": "practice",
+    "skill": "during maths groups half of 12",
+    "printable": true,
+    "type": "single",
+    "question": "During maths groups, half of 12 is?",
+    "audioPrompt": "During maths groups, half of 12 is?",
+    "visual": "During maths groups, half of 12 is?",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": "During maths groups, half of 12 is?"
+    },
+    "answers": [
+      "10",
+      "7",
+      "6"
+    ],
+    "correct": 2,
+    "explanation": "Half of 12 is 6.\nHint: Use the information in the question to check your answer.",
+    "structuredExplanation": {
+      "summary": "Half of 12 is 6.",
+      "hint": "Use the information in the question to check your answer."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m2a03-p-039",
+    "curriculumCode": "AC9M2A03",
+    "bank": "practice",
+    "skill": "at the art table 6 pairs",
+    "printable": true,
+    "type": "single",
+    "question": "At the art table, 6 pairs of socks have how many socks?",
+    "audioPrompt": "At the art table, 6 pairs of socks have how many socks?",
+    "visual": "At the art table, 6 pairs of socks have how many socks?",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": "At the art table, 6 pairs of socks have how many socks?"
+    },
+    "answers": [
+      "13",
+      "12",
+      "6"
+    ],
+    "correct": 1,
+    "explanation": "Each pair has 2 socks, so count by twos.\nHint: Use the information in the question to check your answer.",
+    "structuredExplanation": {
+      "summary": "Each pair has 2 socks, so count by twos.",
+      "hint": "Use the information in the question to check your answer."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m2a03-p-040",
+    "curriculumCode": "AC9M2A03",
+    "bank": "practice",
+    "skill": "in the playground what is double",
+    "printable": true,
+    "type": "single",
+    "question": "In the playground, what is double 7?",
+    "audioPrompt": "In the playground, what is double 7?",
+    "visual": "In the playground, what is double 7?",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": "In the playground, what is double 7?"
+    },
+    "answers": [
+      "14",
+      "7",
+      "16"
+    ],
+    "correct": 0,
+    "explanation": "Double 7 means 7 + 7.\nHint: Use the information in the question to check your answer.",
+    "structuredExplanation": {
+      "summary": "Double 7 means 7 + 7.",
+      "hint": "Use the information in the question to check your answer."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m2a03-p-041",
+    "curriculumCode": "AC9M2A03",
+    "bank": "practice",
+    "skill": "at the library half of 18",
+    "printable": true,
+    "type": "single",
+    "question": "At the library, half of 18 is?",
+    "audioPrompt": "At the library, half of 18 is?",
+    "visual": "At the library, half of 18 is?",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": "At the library, half of 18 is?"
+    },
+    "answers": [
+      "16",
+      "10",
+      "9"
+    ],
+    "correct": 2,
+    "explanation": "Half of 18 is 9.\nHint: Use the information in the question to check your answer.",
+    "structuredExplanation": {
+      "summary": "Half of 18 is 9.",
+      "hint": "Use the information in the question to check your answer."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m2a03-p-042",
+    "curriculumCode": "AC9M2A03",
+    "bank": "practice",
+    "skill": "during sport 9 pairs of socks",
+    "printable": true,
+    "type": "single",
+    "question": "During sport, 9 pairs of socks have how many socks?",
+    "audioPrompt": "During sport, 9 pairs of socks have how many socks?",
+    "visual": "During sport, 9 pairs of socks have how many socks?",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": "During sport, 9 pairs of socks have how many socks?"
+    },
+    "answers": [
+      "19",
+      "18",
+      "9"
+    ],
+    "correct": 1,
+    "explanation": "Each pair has 2 socks, so count by twos.\nHint: Use the information in the question to check your answer.",
+    "structuredExplanation": {
+      "summary": "Each pair has 2 socks, so count by twos.",
+      "hint": "Use the information in the question to check your answer."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m2a03-p-043",
+    "curriculumCode": "AC9M2A03",
+    "bank": "practice",
+    "skill": "at the class shop what is",
+    "printable": true,
+    "type": "single",
+    "question": "At the class shop, what is double 10?",
+    "audioPrompt": "At the class shop, what is double 10?",
+    "visual": "At the class shop, what is double 10?",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": "At the class shop, what is double 10?"
+    },
+    "answers": [
+      "20",
+      "10",
+      "22"
+    ],
+    "correct": 0,
+    "explanation": "Double 10 means 10 + 10.\nHint: Use the information in the question to check your answer.",
+    "structuredExplanation": {
+      "summary": "Double 10 means 10 + 10.",
+      "hint": "Use the information in the question to check your answer."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m2a03-p-044",
+    "curriculumCode": "AC9M2A03",
+    "bank": "practice",
+    "skill": "on the picnic rug half of",
+    "printable": true,
+    "type": "single",
+    "question": "On the picnic rug, half of 12 is?",
+    "audioPrompt": "On the picnic rug, half of 12 is?",
+    "visual": "On the picnic rug, half of 12 is?",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": "On the picnic rug, half of 12 is?"
+    },
+    "answers": [
+      "10",
+      "7",
+      "6"
+    ],
+    "correct": 2,
+    "explanation": "Half of 12 is 6.\nHint: Use the information in the question to check your answer.",
+    "structuredExplanation": {
+      "summary": "Half of 12 is 6.",
+      "hint": "Use the information in the question to check your answer."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m2a03-p-045",
+    "curriculumCode": "AC9M2A03",
+    "bank": "practice",
+    "skill": "at the block table 2 pairs",
+    "printable": true,
+    "type": "single",
+    "question": "At the block table, 2 pairs of socks have how many socks?",
+    "audioPrompt": "At the block table, 2 pairs of socks have how many socks?",
+    "visual": "At the block table, 2 pairs of socks have how many socks?",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": "At the block table, 2 pairs of socks have how many socks?"
+    },
+    "answers": [
+      "5",
+      "4",
+      "2"
+    ],
+    "correct": 1,
+    "explanation": "Each pair has 2 socks, so count by twos.\nHint: Use the information in the question to check your answer.",
+    "structuredExplanation": {
+      "summary": "Each pair has 2 socks, so count by twos.",
+      "hint": "Use the information in the question to check your answer."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m2a03-p-046",
+    "curriculumCode": "AC9M2A03",
+    "bank": "practice",
+    "skill": "in the lunch area what is",
+    "printable": true,
+    "type": "single",
+    "question": "In the lunch area, what is double 3?",
+    "audioPrompt": "In the lunch area, what is double 3?",
+    "visual": "In the lunch area, what is double 3?",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": "In the lunch area, what is double 3?"
+    },
+    "answers": [
+      "6",
+      "3",
+      "8"
+    ],
+    "correct": 0,
+    "explanation": "Double 3 means 3 + 3.\nHint: Use the information in the question to check your answer.",
+    "structuredExplanation": {
+      "summary": "Double 3 means 3 + 3.",
+      "hint": "Use the information in the question to check your answer."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m2a03-p-047",
+    "curriculumCode": "AC9M2A03",
+    "bank": "practice",
+    "skill": "at the science table half of",
+    "printable": true,
+    "type": "single",
+    "question": "At the science table, half of 18 is?",
+    "audioPrompt": "At the science table, half of 18 is?",
+    "visual": "At the science table, half of 18 is?",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": "At the science table, half of 18 is?"
+    },
+    "answers": [
+      "16",
+      "10",
+      "9"
+    ],
+    "correct": 2,
+    "explanation": "Half of 18 is 9.\nHint: Use the information in the question to check your answer.",
+    "structuredExplanation": {
+      "summary": "Half of 18 is 9.",
+      "hint": "Use the information in the question to check your answer."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m2a03-p-048",
+    "curriculumCode": "AC9M2A03",
+    "bank": "practice",
+    "skill": "during a card game 5 pairs",
+    "printable": true,
+    "type": "single",
+    "question": "During a card game, 5 pairs of socks have how many socks?",
+    "audioPrompt": "During a card game, 5 pairs of socks have how many socks?",
+    "visual": "During a card game, 5 pairs of socks have how many socks?",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": "During a card game, 5 pairs of socks have how many socks?"
+    },
+    "answers": [
+      "11",
+      "10",
+      "5"
+    ],
+    "correct": 1,
+    "explanation": "Each pair has 2 socks, so count by twos.\nHint: Use the information in the question to check your answer.",
+    "structuredExplanation": {
+      "summary": "Each pair has 2 socks, so count by twos.",
+      "hint": "Use the information in the question to check your answer."
     },
     "qualitySchema": "production-v1"
   }

@@ -21,6 +21,9 @@ window.skillrPracticeQuestions = [
       "half past 2",
       "quarter past 2"
     ],
+    "difficulty": 1,
+    "difficultyTier": "confidence",
+    "sequencePriority": 1,
     "correct": 0,
     "explanation": "The minute hand shows o'clock, so the time is 2 o'clock.\nHint: Check the long minute hand first, then the short hour hand.",
     "structuredExplanation": {
@@ -50,6 +53,9 @@ window.skillrPracticeQuestions = [
       "quarter past 2",
       "half past 2"
     ],
+    "difficulty": 1,
+    "difficultyTier": "confidence",
+    "sequencePriority": 1,
     "correct": 1,
     "explanation": "The minute hand shows quarter past, so the time is quarter past 2.\nHint: Check the long minute hand first, then the short hour hand.",
     "structuredExplanation": {
@@ -79,6 +85,9 @@ window.skillrPracticeQuestions = [
       "quarter to 2",
       "half past 2"
     ],
+    "difficulty": 1,
+    "difficultyTier": "confidence",
+    "sequencePriority": 1,
     "correct": 2,
     "explanation": "The minute hand shows half past, so the time is half past 2.\nHint: Check the long minute hand first, then the short hour hand.",
     "structuredExplanation": {
@@ -108,6 +117,9 @@ window.skillrPracticeQuestions = [
       "quarter past 2",
       "quarter to 2"
     ],
+    "difficulty": 1,
+    "difficultyTier": "confidence",
+    "sequencePriority": 1,
     "correct": 0,
     "explanation": "The minute hand shows quarter to, so the time is quarter to 3.\nHint: Check the long minute hand first, then the short hour hand.",
     "structuredExplanation": {
@@ -137,6 +149,9 @@ window.skillrPracticeQuestions = [
       "6",
       "12"
     ],
+    "difficulty": 1,
+    "difficultyTier": "confidence",
+    "sequencePriority": 1,
     "correct": 1,
     "explanation": "At half past, 30 minutes have passed, so the minute hand points to 6.\nHint: Halfway around the clock face lands on 6.",
     "structuredExplanation": {
@@ -166,6 +181,9 @@ window.skillrPracticeQuestions = [
       "9",
       "3"
     ],
+    "difficulty": 1,
+    "difficultyTier": "confidence",
+    "sequencePriority": 1,
     "correct": 2,
     "explanation": "A quarter of the way around the clock is 15 minutes, at the 3.\nHint: Start at 12 and move one quarter-turn clockwise.",
     "structuredExplanation": {
@@ -195,6 +213,9 @@ window.skillrPracticeQuestions = [
       "quarter past 2",
       "half past 2"
     ],
+    "difficulty": 1,
+    "difficultyTier": "confidence",
+    "sequencePriority": 1,
     "correct": 0,
     "explanation": "The 9 means quarter to the next hour, which is 3.\nHint: When the minute hand is on 9, name the hour that is coming next.",
     "structuredExplanation": {
@@ -224,6 +245,9 @@ window.skillrPracticeQuestions = [
       "The minute hand",
       "The second hand"
     ],
+    "difficulty": 1,
+    "difficultyTier": "confidence",
+    "sequencePriority": 1,
     "correct": 1,
     "explanation": "The long minute hand shows how far the hour has passed.\nHint: Look for the hand that points to 12, 3, 6 or 9 for these times.",
     "structuredExplanation": {
@@ -253,6 +277,8 @@ window.skillrPracticeQuestions = [
       "quarter past 3",
       "3 o'clock"
     ],
+    "difficulty": 3,
+    "sequencePriority": 2,
     "correct": 2,
     "explanation": "The minute hand shows o'clock, so the time is 3 o'clock.\nHint: Check the long minute hand first, then the short hour hand.",
     "structuredExplanation": {
@@ -282,6 +308,8 @@ window.skillrPracticeQuestions = [
       "quarter to 3",
       "half past 3"
     ],
+    "difficulty": 3,
+    "sequencePriority": 2,
     "correct": 0,
     "explanation": "The minute hand shows quarter past, so the time is quarter past 3.\nHint: Check the long minute hand first, then the short hour hand.",
     "structuredExplanation": {
@@ -311,6 +339,8 @@ window.skillrPracticeQuestions = [
       "half past 3",
       "quarter to 3"
     ],
+    "difficulty": 3,
+    "sequencePriority": 2,
     "correct": 1,
     "explanation": "The minute hand shows half past, so the time is half past 3.\nHint: Check the long minute hand first, then the short hour hand.",
     "structuredExplanation": {
@@ -340,6 +370,8 @@ window.skillrPracticeQuestions = [
       "quarter to 3",
       "quarter to 4"
     ],
+    "difficulty": 3,
+    "sequencePriority": 2,
     "correct": 2,
     "explanation": "The minute hand shows quarter to, so the time is quarter to 4.\nHint: Check the long minute hand first, then the short hour hand.",
     "structuredExplanation": {
@@ -369,6 +401,8 @@ window.skillrPracticeQuestions = [
       "3",
       "12"
     ],
+    "difficulty": 3,
+    "sequencePriority": 2,
     "correct": 0,
     "explanation": "At half past, 30 minutes have passed, so the minute hand points to 6.\nHint: Halfway around the clock face lands on 6.",
     "structuredExplanation": {
@@ -398,6 +432,8 @@ window.skillrPracticeQuestions = [
       "3",
       "9"
     ],
+    "difficulty": 3,
+    "sequencePriority": 2,
     "correct": 1,
     "explanation": "A quarter of the way around the clock is 15 minutes, at the 3.\nHint: Start at 12 and move one quarter-turn clockwise.",
     "structuredExplanation": {
@@ -427,6 +463,8 @@ window.skillrPracticeQuestions = [
       "half past 3",
       "quarter to 4"
     ],
+    "difficulty": 3,
+    "sequencePriority": 2,
     "correct": 2,
     "explanation": "The 9 means quarter to the next hour, which is 4.\nHint: When the minute hand is on 9, name the hour that is coming next.",
     "structuredExplanation": {
@@ -456,6 +494,8 @@ window.skillrPracticeQuestions = [
       "The hour hand only",
       "The second hand"
     ],
+    "difficulty": 3,
+    "sequencePriority": 2,
     "correct": 0,
     "explanation": "The long minute hand shows how far the hour has passed.\nHint: Look for the hand that points to 12, 3, 6 or 9 for these times.",
     "structuredExplanation": {
@@ -485,6 +525,8 @@ window.skillrPracticeQuestions = [
       "4 o'clock",
       "quarter past 4"
     ],
+    "difficulty": 3,
+    "sequencePriority": 2,
     "correct": 1,
     "explanation": "The minute hand shows o'clock, so the time is 4 o'clock.\nHint: Check the long minute hand first, then the short hour hand.",
     "structuredExplanation": {
@@ -514,6 +556,8 @@ window.skillrPracticeQuestions = [
       "half past 4",
       "quarter past 4"
     ],
+    "difficulty": 3,
+    "sequencePriority": 2,
     "correct": 2,
     "explanation": "The minute hand shows quarter past, so the time is quarter past 4.\nHint: Check the long minute hand first, then the short hour hand.",
     "structuredExplanation": {
@@ -543,6 +587,8 @@ window.skillrPracticeQuestions = [
       "4 o'clock",
       "quarter to 4"
     ],
+    "difficulty": 3,
+    "sequencePriority": 2,
     "correct": 0,
     "explanation": "The minute hand shows half past, so the time is half past 4.\nHint: Check the long minute hand first, then the short hour hand.",
     "structuredExplanation": {
@@ -572,6 +618,8 @@ window.skillrPracticeQuestions = [
       "quarter to 5",
       "quarter to 4"
     ],
+    "difficulty": 3,
+    "sequencePriority": 2,
     "correct": 1,
     "explanation": "The minute hand shows quarter to, so the time is quarter to 5.\nHint: Check the long minute hand first, then the short hour hand.",
     "structuredExplanation": {
@@ -601,6 +649,8 @@ window.skillrPracticeQuestions = [
       "12",
       "6"
     ],
+    "difficulty": 3,
+    "sequencePriority": 2,
     "correct": 2,
     "explanation": "At half past, 30 minutes have passed, so the minute hand points to 6.\nHint: Halfway around the clock face lands on 6.",
     "structuredExplanation": {
@@ -630,6 +680,8 @@ window.skillrPracticeQuestions = [
       "6",
       "9"
     ],
+    "difficulty": 3,
+    "sequencePriority": 2,
     "correct": 0,
     "explanation": "A quarter of the way around the clock is 15 minutes, at the 3.\nHint: Start at 12 and move one quarter-turn clockwise.",
     "structuredExplanation": {
@@ -659,6 +711,8 @@ window.skillrPracticeQuestions = [
       "quarter to 5",
       "half past 4"
     ],
+    "difficulty": 3,
+    "sequencePriority": 2,
     "correct": 1,
     "explanation": "The 9 means quarter to the next hour, which is 5.\nHint: When the minute hand is on 9, name the hour that is coming next.",
     "structuredExplanation": {
@@ -688,11 +742,685 @@ window.skillrPracticeQuestions = [
       "The second hand",
       "The minute hand"
     ],
+    "difficulty": 3,
+    "sequencePriority": 2,
     "correct": 2,
     "explanation": "The long minute hand shows how far the hour has passed.\nHint: Look for the hand that points to 12, 3, 6 or 9 for these times.",
     "structuredExplanation": {
       "summary": "The long minute hand shows how far the hour has passed.",
       "hint": "Look for the hand that points to 12, 3, 6 or 9 for these times."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m2m04-p-025",
+    "curriculumCode": "AC9M2M04",
+    "bank": "practice",
+    "skill": "at the school garden the time",
+    "printable": true,
+    "type": "single",
+    "question": "At the school garden, the time is quarter past 1. Where is the minute hand?",
+    "audioPrompt": "At the school garden, the time is quarter past 1. Where is the minute hand?",
+    "visual": "At the school garden, the time is quarter past 1. Where is the minute hand?",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": "At the school garden, the time is quarter past 1. Where is the minute hand?"
+    },
+    "answers": [
+      "3",
+      "6",
+      "9"
+    ],
+    "correct": 0,
+    "explanation": "The minute hand shows quarter past, half past or quarter to.\nHint: Use the information in the question to check your answer.",
+    "structuredExplanation": {
+      "summary": "The minute hand shows quarter past, half past or quarter to.",
+      "hint": "Use the information in the question to check your answer."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m2m04-p-026",
+    "curriculumCode": "AC9M2M04",
+    "bank": "practice",
+    "skill": "during maths groups the time is",
+    "printable": true,
+    "type": "single",
+    "question": "During maths groups, the time is half past 2. Where is the minute hand?",
+    "audioPrompt": "During maths groups, the time is half past 2. Where is the minute hand?",
+    "visual": "During maths groups, the time is half past 2. Where is the minute hand?",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": "During maths groups, the time is half past 2. Where is the minute hand?"
+    },
+    "answers": [
+      "3",
+      "12",
+      "6"
+    ],
+    "correct": 2,
+    "explanation": "The minute hand shows quarter past, half past or quarter to.\nHint: Use the information in the question to check your answer.",
+    "structuredExplanation": {
+      "summary": "The minute hand shows quarter past, half past or quarter to.",
+      "hint": "Use the information in the question to check your answer."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m2m04-p-027",
+    "curriculumCode": "AC9M2M04",
+    "bank": "practice",
+    "skill": "at the art table the time",
+    "printable": true,
+    "type": "single",
+    "question": "At the art table, the time is quarter to 3. Where is the minute hand?",
+    "audioPrompt": "At the art table, the time is quarter to 3. Where is the minute hand?",
+    "visual": "At the art table, the time is quarter to 3. Where is the minute hand?",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": "At the art table, the time is quarter to 3. Where is the minute hand?"
+    },
+    "answers": [
+      "6",
+      "9",
+      "3"
+    ],
+    "correct": 1,
+    "explanation": "The minute hand shows quarter past, half past or quarter to.\nHint: Use the information in the question to check your answer.",
+    "structuredExplanation": {
+      "summary": "The minute hand shows quarter past, half past or quarter to.",
+      "hint": "Use the information in the question to check your answer."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m2m04-p-028",
+    "curriculumCode": "AC9M2M04",
+    "bank": "practice",
+    "skill": "in the playground the time is",
+    "printable": true,
+    "type": "single",
+    "question": "In the playground, the time is quarter past 4. Where is the minute hand?",
+    "audioPrompt": "In the playground, the time is quarter past 4. Where is the minute hand?",
+    "visual": "In the playground, the time is quarter past 4. Where is the minute hand?",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": "In the playground, the time is quarter past 4. Where is the minute hand?"
+    },
+    "answers": [
+      "3",
+      "6",
+      "9"
+    ],
+    "correct": 0,
+    "explanation": "The minute hand shows quarter past, half past or quarter to.\nHint: Use the information in the question to check your answer.",
+    "structuredExplanation": {
+      "summary": "The minute hand shows quarter past, half past or quarter to.",
+      "hint": "Use the information in the question to check your answer."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m2m04-p-029",
+    "curriculumCode": "AC9M2M04",
+    "bank": "practice",
+    "skill": "at the library the time is",
+    "printable": true,
+    "type": "single",
+    "question": "At the library, the time is half past 5. Where is the minute hand?",
+    "audioPrompt": "At the library, the time is half past 5. Where is the minute hand?",
+    "visual": "At the library, the time is half past 5. Where is the minute hand?",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": "At the library, the time is half past 5. Where is the minute hand?"
+    },
+    "answers": [
+      "3",
+      "12",
+      "6"
+    ],
+    "correct": 2,
+    "explanation": "The minute hand shows quarter past, half past or quarter to.\nHint: Use the information in the question to check your answer.",
+    "structuredExplanation": {
+      "summary": "The minute hand shows quarter past, half past or quarter to.",
+      "hint": "Use the information in the question to check your answer."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m2m04-p-030",
+    "curriculumCode": "AC9M2M04",
+    "bank": "practice",
+    "skill": "during sport the time is quarter",
+    "printable": true,
+    "type": "single",
+    "question": "During sport, the time is quarter to 6. Where is the minute hand?",
+    "audioPrompt": "During sport, the time is quarter to 6. Where is the minute hand?",
+    "visual": "During sport, the time is quarter to 6. Where is the minute hand?",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": "During sport, the time is quarter to 6. Where is the minute hand?"
+    },
+    "answers": [
+      "6",
+      "9",
+      "3"
+    ],
+    "correct": 1,
+    "explanation": "The minute hand shows quarter past, half past or quarter to.\nHint: Use the information in the question to check your answer.",
+    "structuredExplanation": {
+      "summary": "The minute hand shows quarter past, half past or quarter to.",
+      "hint": "Use the information in the question to check your answer."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m2m04-p-031",
+    "curriculumCode": "AC9M2M04",
+    "bank": "practice",
+    "skill": "at the class shop the time",
+    "printable": true,
+    "type": "single",
+    "question": "At the class shop, the time is quarter past 7. Where is the minute hand?",
+    "audioPrompt": "At the class shop, the time is quarter past 7. Where is the minute hand?",
+    "visual": "At the class shop, the time is quarter past 7. Where is the minute hand?",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": "At the class shop, the time is quarter past 7. Where is the minute hand?"
+    },
+    "answers": [
+      "3",
+      "6",
+      "9"
+    ],
+    "correct": 0,
+    "explanation": "The minute hand shows quarter past, half past or quarter to.\nHint: Use the information in the question to check your answer.",
+    "structuredExplanation": {
+      "summary": "The minute hand shows quarter past, half past or quarter to.",
+      "hint": "Use the information in the question to check your answer."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m2m04-p-032",
+    "curriculumCode": "AC9M2M04",
+    "bank": "practice",
+    "skill": "on the picnic rug the time",
+    "printable": true,
+    "type": "single",
+    "question": "On the picnic rug, the time is half past 8. Where is the minute hand?",
+    "audioPrompt": "On the picnic rug, the time is half past 8. Where is the minute hand?",
+    "visual": "On the picnic rug, the time is half past 8. Where is the minute hand?",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": "On the picnic rug, the time is half past 8. Where is the minute hand?"
+    },
+    "answers": [
+      "3",
+      "12",
+      "6"
+    ],
+    "correct": 2,
+    "explanation": "The minute hand shows quarter past, half past or quarter to.\nHint: Use the information in the question to check your answer.",
+    "structuredExplanation": {
+      "summary": "The minute hand shows quarter past, half past or quarter to.",
+      "hint": "Use the information in the question to check your answer."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m2m04-p-033",
+    "curriculumCode": "AC9M2M04",
+    "bank": "practice",
+    "skill": "at the block table the time",
+    "printable": true,
+    "type": "single",
+    "question": "At the block table, the time is quarter to 9. Where is the minute hand?",
+    "audioPrompt": "At the block table, the time is quarter to 9. Where is the minute hand?",
+    "visual": "At the block table, the time is quarter to 9. Where is the minute hand?",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": "At the block table, the time is quarter to 9. Where is the minute hand?"
+    },
+    "answers": [
+      "6",
+      "9",
+      "3"
+    ],
+    "correct": 1,
+    "explanation": "The minute hand shows quarter past, half past or quarter to.\nHint: Use the information in the question to check your answer.",
+    "structuredExplanation": {
+      "summary": "The minute hand shows quarter past, half past or quarter to.",
+      "hint": "Use the information in the question to check your answer."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m2m04-p-034",
+    "curriculumCode": "AC9M2M04",
+    "bank": "practice",
+    "skill": "in the lunch area the time",
+    "printable": true,
+    "type": "single",
+    "question": "In the lunch area, the time is quarter past 10. Where is the minute hand?",
+    "audioPrompt": "In the lunch area, the time is quarter past 10. Where is the minute hand?",
+    "visual": "In the lunch area, the time is quarter past 10. Where is the minute hand?",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": "In the lunch area, the time is quarter past 10. Where is the minute hand?"
+    },
+    "answers": [
+      "3",
+      "6",
+      "9"
+    ],
+    "correct": 0,
+    "explanation": "The minute hand shows quarter past, half past or quarter to.\nHint: Use the information in the question to check your answer.",
+    "structuredExplanation": {
+      "summary": "The minute hand shows quarter past, half past or quarter to.",
+      "hint": "Use the information in the question to check your answer."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m2m04-p-035",
+    "curriculumCode": "AC9M2M04",
+    "bank": "practice",
+    "skill": "at the science table the time",
+    "printable": true,
+    "type": "single",
+    "question": "At the science table, the time is half past 11. Where is the minute hand?",
+    "audioPrompt": "At the science table, the time is half past 11. Where is the minute hand?",
+    "visual": "At the science table, the time is half past 11. Where is the minute hand?",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": "At the science table, the time is half past 11. Where is the minute hand?"
+    },
+    "answers": [
+      "3",
+      "12",
+      "6"
+    ],
+    "correct": 2,
+    "explanation": "The minute hand shows quarter past, half past or quarter to.\nHint: Use the information in the question to check your answer.",
+    "structuredExplanation": {
+      "summary": "The minute hand shows quarter past, half past or quarter to.",
+      "hint": "Use the information in the question to check your answer."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m2m04-p-036",
+    "curriculumCode": "AC9M2M04",
+    "bank": "practice",
+    "skill": "during a card game the time",
+    "printable": true,
+    "type": "single",
+    "question": "During a card game, the time is quarter to 12. Where is the minute hand?",
+    "audioPrompt": "During a card game, the time is quarter to 12. Where is the minute hand?",
+    "visual": "During a card game, the time is quarter to 12. Where is the minute hand?",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": "During a card game, the time is quarter to 12. Where is the minute hand?"
+    },
+    "answers": [
+      "6",
+      "9",
+      "3"
+    ],
+    "correct": 1,
+    "explanation": "The minute hand shows quarter past, half past or quarter to.\nHint: Use the information in the question to check your answer.",
+    "structuredExplanation": {
+      "summary": "The minute hand shows quarter past, half past or quarter to.",
+      "hint": "Use the information in the question to check your answer."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m2m04-p-037",
+    "curriculumCode": "AC9M2M04",
+    "bank": "practice",
+    "skill": "at the school garden the time",
+    "printable": true,
+    "type": "single",
+    "question": "At the school garden, the time is quarter past 1. Where is the minute hand?",
+    "audioPrompt": "At the school garden, the time is quarter past 1. Where is the minute hand?",
+    "visual": "At the school garden, the time is quarter past 1. Where is the minute hand?",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": "At the school garden, the time is quarter past 1. Where is the minute hand?"
+    },
+    "answers": [
+      "3",
+      "6",
+      "9"
+    ],
+    "correct": 0,
+    "explanation": "The minute hand shows quarter past, half past or quarter to.\nHint: Use the information in the question to check your answer.",
+    "structuredExplanation": {
+      "summary": "The minute hand shows quarter past, half past or quarter to.",
+      "hint": "Use the information in the question to check your answer."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m2m04-p-038",
+    "curriculumCode": "AC9M2M04",
+    "bank": "practice",
+    "skill": "during maths groups the time is",
+    "printable": true,
+    "type": "single",
+    "question": "During maths groups, the time is half past 2. Where is the minute hand?",
+    "audioPrompt": "During maths groups, the time is half past 2. Where is the minute hand?",
+    "visual": "During maths groups, the time is half past 2. Where is the minute hand?",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": "During maths groups, the time is half past 2. Where is the minute hand?"
+    },
+    "answers": [
+      "3",
+      "12",
+      "6"
+    ],
+    "correct": 2,
+    "explanation": "The minute hand shows quarter past, half past or quarter to.\nHint: Use the information in the question to check your answer.",
+    "structuredExplanation": {
+      "summary": "The minute hand shows quarter past, half past or quarter to.",
+      "hint": "Use the information in the question to check your answer."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m2m04-p-039",
+    "curriculumCode": "AC9M2M04",
+    "bank": "practice",
+    "skill": "at the art table the time",
+    "printable": true,
+    "type": "single",
+    "question": "At the art table, the time is quarter to 3. Where is the minute hand?",
+    "audioPrompt": "At the art table, the time is quarter to 3. Where is the minute hand?",
+    "visual": "At the art table, the time is quarter to 3. Where is the minute hand?",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": "At the art table, the time is quarter to 3. Where is the minute hand?"
+    },
+    "answers": [
+      "6",
+      "9",
+      "3"
+    ],
+    "correct": 1,
+    "explanation": "The minute hand shows quarter past, half past or quarter to.\nHint: Use the information in the question to check your answer.",
+    "structuredExplanation": {
+      "summary": "The minute hand shows quarter past, half past or quarter to.",
+      "hint": "Use the information in the question to check your answer."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m2m04-p-040",
+    "curriculumCode": "AC9M2M04",
+    "bank": "practice",
+    "skill": "in the playground the time is",
+    "printable": true,
+    "type": "single",
+    "question": "In the playground, the time is quarter past 4. Where is the minute hand?",
+    "audioPrompt": "In the playground, the time is quarter past 4. Where is the minute hand?",
+    "visual": "In the playground, the time is quarter past 4. Where is the minute hand?",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": "In the playground, the time is quarter past 4. Where is the minute hand?"
+    },
+    "answers": [
+      "3",
+      "6",
+      "9"
+    ],
+    "correct": 0,
+    "explanation": "The minute hand shows quarter past, half past or quarter to.\nHint: Use the information in the question to check your answer.",
+    "structuredExplanation": {
+      "summary": "The minute hand shows quarter past, half past or quarter to.",
+      "hint": "Use the information in the question to check your answer."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m2m04-p-041",
+    "curriculumCode": "AC9M2M04",
+    "bank": "practice",
+    "skill": "at the library the time is",
+    "printable": true,
+    "type": "single",
+    "question": "At the library, the time is half past 5. Where is the minute hand?",
+    "audioPrompt": "At the library, the time is half past 5. Where is the minute hand?",
+    "visual": "At the library, the time is half past 5. Where is the minute hand?",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": "At the library, the time is half past 5. Where is the minute hand?"
+    },
+    "answers": [
+      "3",
+      "12",
+      "6"
+    ],
+    "correct": 2,
+    "explanation": "The minute hand shows quarter past, half past or quarter to.\nHint: Use the information in the question to check your answer.",
+    "structuredExplanation": {
+      "summary": "The minute hand shows quarter past, half past or quarter to.",
+      "hint": "Use the information in the question to check your answer."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m2m04-p-042",
+    "curriculumCode": "AC9M2M04",
+    "bank": "practice",
+    "skill": "during sport the time is quarter",
+    "printable": true,
+    "type": "single",
+    "question": "During sport, the time is quarter to 6. Where is the minute hand?",
+    "audioPrompt": "During sport, the time is quarter to 6. Where is the minute hand?",
+    "visual": "During sport, the time is quarter to 6. Where is the minute hand?",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": "During sport, the time is quarter to 6. Where is the minute hand?"
+    },
+    "answers": [
+      "6",
+      "9",
+      "3"
+    ],
+    "correct": 1,
+    "explanation": "The minute hand shows quarter past, half past or quarter to.\nHint: Use the information in the question to check your answer.",
+    "structuredExplanation": {
+      "summary": "The minute hand shows quarter past, half past or quarter to.",
+      "hint": "Use the information in the question to check your answer."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m2m04-p-043",
+    "curriculumCode": "AC9M2M04",
+    "bank": "practice",
+    "skill": "at the class shop the time",
+    "printable": true,
+    "type": "single",
+    "question": "At the class shop, the time is quarter past 7. Where is the minute hand?",
+    "audioPrompt": "At the class shop, the time is quarter past 7. Where is the minute hand?",
+    "visual": "At the class shop, the time is quarter past 7. Where is the minute hand?",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": "At the class shop, the time is quarter past 7. Where is the minute hand?"
+    },
+    "answers": [
+      "3",
+      "6",
+      "9"
+    ],
+    "correct": 0,
+    "explanation": "The minute hand shows quarter past, half past or quarter to.\nHint: Use the information in the question to check your answer.",
+    "structuredExplanation": {
+      "summary": "The minute hand shows quarter past, half past or quarter to.",
+      "hint": "Use the information in the question to check your answer."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m2m04-p-044",
+    "curriculumCode": "AC9M2M04",
+    "bank": "practice",
+    "skill": "on the picnic rug the time",
+    "printable": true,
+    "type": "single",
+    "question": "On the picnic rug, the time is half past 8. Where is the minute hand?",
+    "audioPrompt": "On the picnic rug, the time is half past 8. Where is the minute hand?",
+    "visual": "On the picnic rug, the time is half past 8. Where is the minute hand?",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": "On the picnic rug, the time is half past 8. Where is the minute hand?"
+    },
+    "answers": [
+      "3",
+      "12",
+      "6"
+    ],
+    "correct": 2,
+    "explanation": "The minute hand shows quarter past, half past or quarter to.\nHint: Use the information in the question to check your answer.",
+    "structuredExplanation": {
+      "summary": "The minute hand shows quarter past, half past or quarter to.",
+      "hint": "Use the information in the question to check your answer."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m2m04-p-045",
+    "curriculumCode": "AC9M2M04",
+    "bank": "practice",
+    "skill": "at the block table the time",
+    "printable": true,
+    "type": "single",
+    "question": "At the block table, the time is quarter to 9. Where is the minute hand?",
+    "audioPrompt": "At the block table, the time is quarter to 9. Where is the minute hand?",
+    "visual": "At the block table, the time is quarter to 9. Where is the minute hand?",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": "At the block table, the time is quarter to 9. Where is the minute hand?"
+    },
+    "answers": [
+      "6",
+      "9",
+      "3"
+    ],
+    "correct": 1,
+    "explanation": "The minute hand shows quarter past, half past or quarter to.\nHint: Use the information in the question to check your answer.",
+    "structuredExplanation": {
+      "summary": "The minute hand shows quarter past, half past or quarter to.",
+      "hint": "Use the information in the question to check your answer."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m2m04-p-046",
+    "curriculumCode": "AC9M2M04",
+    "bank": "practice",
+    "skill": "in the lunch area the time",
+    "printable": true,
+    "type": "single",
+    "question": "In the lunch area, the time is quarter past 10. Where is the minute hand?",
+    "audioPrompt": "In the lunch area, the time is quarter past 10. Where is the minute hand?",
+    "visual": "In the lunch area, the time is quarter past 10. Where is the minute hand?",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": "In the lunch area, the time is quarter past 10. Where is the minute hand?"
+    },
+    "answers": [
+      "3",
+      "6",
+      "9"
+    ],
+    "correct": 0,
+    "explanation": "The minute hand shows quarter past, half past or quarter to.\nHint: Use the information in the question to check your answer.",
+    "structuredExplanation": {
+      "summary": "The minute hand shows quarter past, half past or quarter to.",
+      "hint": "Use the information in the question to check your answer."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m2m04-p-047",
+    "curriculumCode": "AC9M2M04",
+    "bank": "practice",
+    "skill": "at the science table the time",
+    "printable": true,
+    "type": "single",
+    "question": "At the science table, the time is half past 11. Where is the minute hand?",
+    "audioPrompt": "At the science table, the time is half past 11. Where is the minute hand?",
+    "visual": "At the science table, the time is half past 11. Where is the minute hand?",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": "At the science table, the time is half past 11. Where is the minute hand?"
+    },
+    "answers": [
+      "3",
+      "12",
+      "6"
+    ],
+    "correct": 2,
+    "explanation": "The minute hand shows quarter past, half past or quarter to.\nHint: Use the information in the question to check your answer.",
+    "structuredExplanation": {
+      "summary": "The minute hand shows quarter past, half past or quarter to.",
+      "hint": "Use the information in the question to check your answer."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m2m04-p-048",
+    "curriculumCode": "AC9M2M04",
+    "bank": "practice",
+    "skill": "during a card game the time",
+    "printable": true,
+    "type": "single",
+    "question": "During a card game, the time is quarter to 12. Where is the minute hand?",
+    "audioPrompt": "During a card game, the time is quarter to 12. Where is the minute hand?",
+    "visual": "During a card game, the time is quarter to 12. Where is the minute hand?",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": "During a card game, the time is quarter to 12. Where is the minute hand?"
+    },
+    "answers": [
+      "6",
+      "9",
+      "3"
+    ],
+    "correct": 1,
+    "explanation": "The minute hand shows quarter past, half past or quarter to.\nHint: Use the information in the question to check your answer.",
+    "structuredExplanation": {
+      "summary": "The minute hand shows quarter past, half past or quarter to.",
+      "hint": "Use the information in the question to check your answer."
     },
     "qualitySchema": "production-v1"
   }

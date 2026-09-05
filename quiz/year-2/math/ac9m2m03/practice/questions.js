@@ -21,6 +21,9 @@ window.skillrPracticeQuestions = [
       "10th",
       "9th"
     ],
+    "difficulty": 1,
+    "difficultyTier": "confidence",
+    "sequencePriority": 1,
     "correct": 2,
     "explanation": "One week is 7 days, so 2 + 7 = 9.\nHint: Move down one full week on the calendar.",
     "structuredExplanation": {
@@ -50,6 +53,9 @@ window.skillrPracticeQuestions = [
       "4",
       "2"
     ],
+    "difficulty": 1,
+    "difficultyTier": "confidence",
+    "sequencePriority": 1,
     "correct": 0,
     "explanation": "Count the jumps after the 2nd: there are 3 days to the 5th.\nHint: Do not count the starting date as a jump.",
     "structuredExplanation": {
@@ -79,6 +85,9 @@ window.skillrPracticeQuestions = [
       "Thursday",
       "Friday"
     ],
+    "difficulty": 1,
+    "difficultyTier": "confidence",
+    "sequencePriority": 1,
     "correct": 1,
     "explanation": "Move forward 3 days from Monday.\nHint: Use one jump for each day.",
     "structuredExplanation": {
@@ -108,6 +117,9 @@ window.skillrPracticeQuestions = [
       "After lunch",
       "5th of May"
     ],
+    "difficulty": 1,
+    "difficultyTier": "confidence",
+    "sequencePriority": 1,
     "correct": 2,
     "explanation": "A date gives a number and a month: 5th of May.\nHint: A day name is not a full date.",
     "structuredExplanation": {
@@ -137,6 +149,9 @@ window.skillrPracticeQuestions = [
       "6th",
       "4th"
     ],
+    "difficulty": 1,
+    "difficultyTier": "confidence",
+    "sequencePriority": 1,
     "correct": 0,
     "explanation": "Starting after the 2nd, count 3 jumps to reach the 5th.\nHint: Put your finger on the start, then move once for each day.",
     "structuredExplanation": {
@@ -166,6 +181,9 @@ window.skillrPracticeQuestions = [
       "Start after the 2nd and count 3 jumps",
       "Count backwards from the 2nd"
     ],
+    "difficulty": 1,
+    "difficultyTier": "confidence",
+    "sequencePriority": 1,
     "correct": 1,
     "explanation": "Days between dates are counted as jumps after the starting date.\nHint: Trace the spaces from one date to the next.",
     "structuredExplanation": {
@@ -195,6 +213,9 @@ window.skillrPracticeQuestions = [
       "8th",
       "2nd"
     ],
+    "difficulty": 1,
+    "difficultyTier": "confidence",
+    "sequencePriority": 1,
     "correct": 2,
     "explanation": "One week before means move back 7 days, to the 2nd.\nHint: Move up one row on the calendar.",
     "structuredExplanation": {
@@ -224,6 +245,9 @@ window.skillrPracticeQuestions = [
       "Thursday",
       "Friday"
     ],
+    "difficulty": 1,
+    "difficultyTier": "confidence",
+    "sequencePriority": 1,
     "correct": 0,
     "explanation": "The day after Friday is Saturday.\nHint: Move one day forward in the weekday order.",
     "structuredExplanation": {
@@ -253,6 +277,8 @@ window.skillrPracticeQuestions = [
       "11th",
       "12th"
     ],
+    "difficulty": 3,
+    "sequencePriority": 2,
     "correct": 1,
     "explanation": "One week is 7 days, so 4 + 7 = 11.\nHint: Move down one full week on the calendar.",
     "structuredExplanation": {
@@ -282,6 +308,8 @@ window.skillrPracticeQuestions = [
       "3",
       "4"
     ],
+    "difficulty": 3,
+    "sequencePriority": 2,
     "correct": 2,
     "explanation": "Count the jumps after the 4th: there are 4 days to the 8th.\nHint: Do not count the starting date as a jump.",
     "structuredExplanation": {
@@ -311,6 +339,8 @@ window.skillrPracticeQuestions = [
       "Wednesday",
       "Saturday"
     ],
+    "difficulty": 3,
+    "sequencePriority": 2,
     "correct": 0,
     "explanation": "Move forward 4 days from Monday.\nHint: Use one jump for each day.",
     "structuredExplanation": {
@@ -340,6 +370,8 @@ window.skillrPracticeQuestions = [
       "8th of May",
       "After lunch"
     ],
+    "difficulty": 3,
+    "sequencePriority": 2,
     "correct": 1,
     "explanation": "A date gives a number and a month: 8th of May.\nHint: A day name is not a full date.",
     "structuredExplanation": {
@@ -369,6 +401,8 @@ window.skillrPracticeQuestions = [
       "7th",
       "8th"
     ],
+    "difficulty": 3,
+    "sequencePriority": 2,
     "correct": 2,
     "explanation": "Starting after the 4th, count 4 jumps to reach the 8th.\nHint: Put your finger on the start, then move once for each day.",
     "structuredExplanation": {
@@ -398,6 +432,8 @@ window.skillrPracticeQuestions = [
       "Count the 4th as jump 1",
       "Count backwards from the 4th"
     ],
+    "difficulty": 3,
+    "sequencePriority": 2,
     "correct": 0,
     "explanation": "Days between dates are counted as jumps after the starting date.\nHint: Trace the spaces from one date to the next.",
     "structuredExplanation": {
@@ -427,6 +463,8 @@ window.skillrPracticeQuestions = [
       "4th",
       "10th"
     ],
+    "difficulty": 3,
+    "sequencePriority": 2,
     "correct": 1,
     "explanation": "One week before means move back 7 days, to the 4th.\nHint: Move up one row on the calendar.",
     "structuredExplanation": {
@@ -456,6 +494,8 @@ window.skillrPracticeQuestions = [
       "Friday",
       "Saturday"
     ],
+    "difficulty": 3,
+    "sequencePriority": 2,
     "correct": 2,
     "explanation": "The day after Friday is Saturday.\nHint: Move one day forward in the weekday order.",
     "structuredExplanation": {
@@ -485,6 +525,8 @@ window.skillrPracticeQuestions = [
       "12th",
       "14th"
     ],
+    "difficulty": 3,
+    "sequencePriority": 2,
     "correct": 0,
     "explanation": "One week is 7 days, so 6 + 7 = 13.\nHint: Move down one full week on the calendar.",
     "structuredExplanation": {
@@ -514,6 +556,8 @@ window.skillrPracticeQuestions = [
       "5",
       "4"
     ],
+    "difficulty": 3,
+    "sequencePriority": 2,
     "correct": 1,
     "explanation": "Count the jumps after the 6th: there are 5 days to the 11th.\nHint: Do not count the starting date as a jump.",
     "structuredExplanation": {
@@ -543,6 +587,8 @@ window.skillrPracticeQuestions = [
       "Sunday",
       "Saturday"
     ],
+    "difficulty": 3,
+    "sequencePriority": 2,
     "correct": 2,
     "explanation": "Move forward 5 days from Monday.\nHint: Use one jump for each day.",
     "structuredExplanation": {
@@ -572,6 +618,8 @@ window.skillrPracticeQuestions = [
       "Thursday",
       "After lunch"
     ],
+    "difficulty": 3,
+    "sequencePriority": 2,
     "correct": 0,
     "explanation": "A date gives a number and a month: 11th of May.\nHint: A day name is not a full date.",
     "structuredExplanation": {
@@ -601,6 +649,8 @@ window.skillrPracticeQuestions = [
       "11th",
       "10th"
     ],
+    "difficulty": 3,
+    "sequencePriority": 2,
     "correct": 1,
     "explanation": "Starting after the 6th, count 5 jumps to reach the 11th.\nHint: Put your finger on the start, then move once for each day.",
     "structuredExplanation": {
@@ -630,6 +680,8 @@ window.skillrPracticeQuestions = [
       "Count backwards from the 6th",
       "Start after the 6th and count 5 jumps"
     ],
+    "difficulty": 3,
+    "sequencePriority": 2,
     "correct": 2,
     "explanation": "Days between dates are counted as jumps after the starting date.\nHint: Trace the spaces from one date to the next.",
     "structuredExplanation": {
@@ -659,6 +711,8 @@ window.skillrPracticeQuestions = [
       "7th",
       "12th"
     ],
+    "difficulty": 3,
+    "sequencePriority": 2,
     "correct": 0,
     "explanation": "One week before means move back 7 days, to the 6th.\nHint: Move up one row on the calendar.",
     "structuredExplanation": {
@@ -688,11 +742,685 @@ window.skillrPracticeQuestions = [
       "Saturday",
       "Friday"
     ],
+    "difficulty": 3,
+    "sequencePriority": 2,
     "correct": 1,
     "explanation": "The day after Friday is Saturday.\nHint: Move one day forward in the weekday order.",
     "structuredExplanation": {
       "summary": "The day after Friday is Saturday.",
       "hint": "Move one day forward in the weekday order."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m2m03-p-025",
+    "curriculumCode": "AC9M2M03",
+    "bank": "practice",
+    "skill": "at the school garden today is",
+    "printable": true,
+    "type": "single",
+    "question": "At the school garden, today is Monday. What day is tomorrow?",
+    "audioPrompt": "At the school garden, today is Monday. What day is tomorrow?",
+    "visual": "At the school garden, today is Monday. What day is tomorrow?",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": "At the school garden, today is Monday. What day is tomorrow?"
+    },
+    "answers": [
+      "Tuesday",
+      "Wednesday",
+      "Sunday"
+    ],
+    "correct": 0,
+    "explanation": "Count one day at a time on the calendar.\nHint: Use the information in the question to check your answer.",
+    "structuredExplanation": {
+      "summary": "Count one day at a time on the calendar.",
+      "hint": "Use the information in the question to check your answer."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m2m03-p-026",
+    "curriculumCode": "AC9M2M03",
+    "bank": "practice",
+    "skill": "during maths groups today is tuesday",
+    "printable": true,
+    "type": "single",
+    "question": "During maths groups, today is Tuesday. What day was yesterday?",
+    "audioPrompt": "During maths groups, today is Tuesday. What day was yesterday?",
+    "visual": "During maths groups, today is Tuesday. What day was yesterday?",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": "During maths groups, today is Tuesday. What day was yesterday?"
+    },
+    "answers": [
+      "Wednesday",
+      "Sunday",
+      "Monday"
+    ],
+    "correct": 2,
+    "explanation": "Count one day at a time on the calendar.\nHint: Use the information in the question to check your answer.",
+    "structuredExplanation": {
+      "summary": "Count one day at a time on the calendar.",
+      "hint": "Use the information in the question to check your answer."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m2m03-p-027",
+    "curriculumCode": "AC9M2M03",
+    "bank": "practice",
+    "skill": "at the art table an event",
+    "printable": true,
+    "type": "single",
+    "question": "At the art table, an event is on the 12th. What date is 3 days later?",
+    "audioPrompt": "At the art table, an event is on the 12th. What date is 3 days later?",
+    "visual": "At the art table, an event is on the 12th. What date is 3 days later?",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": "At the art table, an event is on the 12th. What date is 3 days later?"
+    },
+    "answers": [
+      "16th",
+      "15th",
+      "14th"
+    ],
+    "correct": 1,
+    "explanation": "Count one day at a time on the calendar.\nHint: Use the information in the question to check your answer.",
+    "structuredExplanation": {
+      "summary": "Count one day at a time on the calendar.",
+      "hint": "Use the information in the question to check your answer."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m2m03-p-028",
+    "curriculumCode": "AC9M2M03",
+    "bank": "practice",
+    "skill": "in the playground today is thursday",
+    "printable": true,
+    "type": "single",
+    "question": "In the playground, today is Thursday. What day is tomorrow?",
+    "audioPrompt": "In the playground, today is Thursday. What day is tomorrow?",
+    "visual": "In the playground, today is Thursday. What day is tomorrow?",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": "In the playground, today is Thursday. What day is tomorrow?"
+    },
+    "answers": [
+      "Friday",
+      "Saturday",
+      "Wednesday"
+    ],
+    "correct": 0,
+    "explanation": "Count one day at a time on the calendar.\nHint: Use the information in the question to check your answer.",
+    "structuredExplanation": {
+      "summary": "Count one day at a time on the calendar.",
+      "hint": "Use the information in the question to check your answer."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m2m03-p-029",
+    "curriculumCode": "AC9M2M03",
+    "bank": "practice",
+    "skill": "at the library today is friday",
+    "printable": true,
+    "type": "single",
+    "question": "At the library, today is Friday. What day was yesterday?",
+    "audioPrompt": "At the library, today is Friday. What day was yesterday?",
+    "visual": "At the library, today is Friday. What day was yesterday?",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": "At the library, today is Friday. What day was yesterday?"
+    },
+    "answers": [
+      "Saturday",
+      "Wednesday",
+      "Thursday"
+    ],
+    "correct": 2,
+    "explanation": "Count one day at a time on the calendar.\nHint: Use the information in the question to check your answer.",
+    "structuredExplanation": {
+      "summary": "Count one day at a time on the calendar.",
+      "hint": "Use the information in the question to check your answer."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m2m03-p-030",
+    "curriculumCode": "AC9M2M03",
+    "bank": "practice",
+    "skill": "during sport an event is on",
+    "printable": true,
+    "type": "single",
+    "question": "During sport, an event is on the 15th. What date is 3 days later?",
+    "audioPrompt": "During sport, an event is on the 15th. What date is 3 days later?",
+    "visual": "During sport, an event is on the 15th. What date is 3 days later?",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": "During sport, an event is on the 15th. What date is 3 days later?"
+    },
+    "answers": [
+      "19th",
+      "18th",
+      "17th"
+    ],
+    "correct": 1,
+    "explanation": "Count one day at a time on the calendar.\nHint: Use the information in the question to check your answer.",
+    "structuredExplanation": {
+      "summary": "Count one day at a time on the calendar.",
+      "hint": "Use the information in the question to check your answer."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m2m03-p-031",
+    "curriculumCode": "AC9M2M03",
+    "bank": "practice",
+    "skill": "at the class shop today is",
+    "printable": true,
+    "type": "single",
+    "question": "At the class shop, today is Sunday. What day is tomorrow?",
+    "audioPrompt": "At the class shop, today is Sunday. What day is tomorrow?",
+    "visual": "At the class shop, today is Sunday. What day is tomorrow?",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": "At the class shop, today is Sunday. What day is tomorrow?"
+    },
+    "answers": [
+      "Monday",
+      "Tuesday",
+      "Saturday"
+    ],
+    "correct": 0,
+    "explanation": "Count one day at a time on the calendar.\nHint: Use the information in the question to check your answer.",
+    "structuredExplanation": {
+      "summary": "Count one day at a time on the calendar.",
+      "hint": "Use the information in the question to check your answer."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m2m03-p-032",
+    "curriculumCode": "AC9M2M03",
+    "bank": "practice",
+    "skill": "on the picnic rug today is",
+    "printable": true,
+    "type": "single",
+    "question": "On the picnic rug, today is Monday. What day was yesterday?",
+    "audioPrompt": "On the picnic rug, today is Monday. What day was yesterday?",
+    "visual": "On the picnic rug, today is Monday. What day was yesterday?",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": "On the picnic rug, today is Monday. What day was yesterday?"
+    },
+    "answers": [
+      "Tuesday",
+      "Saturday",
+      "Sunday"
+    ],
+    "correct": 2,
+    "explanation": "Count one day at a time on the calendar.\nHint: Use the information in the question to check your answer.",
+    "structuredExplanation": {
+      "summary": "Count one day at a time on the calendar.",
+      "hint": "Use the information in the question to check your answer."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m2m03-p-033",
+    "curriculumCode": "AC9M2M03",
+    "bank": "practice",
+    "skill": "at the block table an event",
+    "printable": true,
+    "type": "single",
+    "question": "At the block table, an event is on the 11th. What date is 3 days later?",
+    "audioPrompt": "At the block table, an event is on the 11th. What date is 3 days later?",
+    "visual": "At the block table, an event is on the 11th. What date is 3 days later?",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": "At the block table, an event is on the 11th. What date is 3 days later?"
+    },
+    "answers": [
+      "15th",
+      "14th",
+      "13th"
+    ],
+    "correct": 1,
+    "explanation": "Count one day at a time on the calendar.\nHint: Use the information in the question to check your answer.",
+    "structuredExplanation": {
+      "summary": "Count one day at a time on the calendar.",
+      "hint": "Use the information in the question to check your answer."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m2m03-p-034",
+    "curriculumCode": "AC9M2M03",
+    "bank": "practice",
+    "skill": "in the lunch area today is",
+    "printable": true,
+    "type": "single",
+    "question": "In the lunch area, today is Wednesday. What day is tomorrow?",
+    "audioPrompt": "In the lunch area, today is Wednesday. What day is tomorrow?",
+    "visual": "In the lunch area, today is Wednesday. What day is tomorrow?",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": "In the lunch area, today is Wednesday. What day is tomorrow?"
+    },
+    "answers": [
+      "Thursday",
+      "Friday",
+      "Tuesday"
+    ],
+    "correct": 0,
+    "explanation": "Count one day at a time on the calendar.\nHint: Use the information in the question to check your answer.",
+    "structuredExplanation": {
+      "summary": "Count one day at a time on the calendar.",
+      "hint": "Use the information in the question to check your answer."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m2m03-p-035",
+    "curriculumCode": "AC9M2M03",
+    "bank": "practice",
+    "skill": "at the science table today is",
+    "printable": true,
+    "type": "single",
+    "question": "At the science table, today is Thursday. What day was yesterday?",
+    "audioPrompt": "At the science table, today is Thursday. What day was yesterday?",
+    "visual": "At the science table, today is Thursday. What day was yesterday?",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": "At the science table, today is Thursday. What day was yesterday?"
+    },
+    "answers": [
+      "Friday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "correct": 2,
+    "explanation": "Count one day at a time on the calendar.\nHint: Use the information in the question to check your answer.",
+    "structuredExplanation": {
+      "summary": "Count one day at a time on the calendar.",
+      "hint": "Use the information in the question to check your answer."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m2m03-p-036",
+    "curriculumCode": "AC9M2M03",
+    "bank": "practice",
+    "skill": "during a card game an event",
+    "printable": true,
+    "type": "single",
+    "question": "During a card game, an event is on the 14th. What date is 3 days later?",
+    "audioPrompt": "During a card game, an event is on the 14th. What date is 3 days later?",
+    "visual": "During a card game, an event is on the 14th. What date is 3 days later?",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": "During a card game, an event is on the 14th. What date is 3 days later?"
+    },
+    "answers": [
+      "18th",
+      "17th",
+      "16th"
+    ],
+    "correct": 1,
+    "explanation": "Count one day at a time on the calendar.\nHint: Use the information in the question to check your answer.",
+    "structuredExplanation": {
+      "summary": "Count one day at a time on the calendar.",
+      "hint": "Use the information in the question to check your answer."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m2m03-p-037",
+    "curriculumCode": "AC9M2M03",
+    "bank": "practice",
+    "skill": "at the school garden today is",
+    "printable": true,
+    "type": "single",
+    "question": "At the school garden, today is Saturday. What day is tomorrow?",
+    "audioPrompt": "At the school garden, today is Saturday. What day is tomorrow?",
+    "visual": "At the school garden, today is Saturday. What day is tomorrow?",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": "At the school garden, today is Saturday. What day is tomorrow?"
+    },
+    "answers": [
+      "Sunday",
+      "Monday",
+      "Friday"
+    ],
+    "correct": 0,
+    "explanation": "Count one day at a time on the calendar.\nHint: Use the information in the question to check your answer.",
+    "structuredExplanation": {
+      "summary": "Count one day at a time on the calendar.",
+      "hint": "Use the information in the question to check your answer."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m2m03-p-038",
+    "curriculumCode": "AC9M2M03",
+    "bank": "practice",
+    "skill": "during maths groups today is sunday",
+    "printable": true,
+    "type": "single",
+    "question": "During maths groups, today is Sunday. What day was yesterday?",
+    "audioPrompt": "During maths groups, today is Sunday. What day was yesterday?",
+    "visual": "During maths groups, today is Sunday. What day was yesterday?",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": "During maths groups, today is Sunday. What day was yesterday?"
+    },
+    "answers": [
+      "Monday",
+      "Friday",
+      "Saturday"
+    ],
+    "correct": 2,
+    "explanation": "Count one day at a time on the calendar.\nHint: Use the information in the question to check your answer.",
+    "structuredExplanation": {
+      "summary": "Count one day at a time on the calendar.",
+      "hint": "Use the information in the question to check your answer."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m2m03-p-039",
+    "curriculumCode": "AC9M2M03",
+    "bank": "practice",
+    "skill": "at the art table an event",
+    "printable": true,
+    "type": "single",
+    "question": "At the art table, an event is on the 10th. What date is 3 days later?",
+    "audioPrompt": "At the art table, an event is on the 10th. What date is 3 days later?",
+    "visual": "At the art table, an event is on the 10th. What date is 3 days later?",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": "At the art table, an event is on the 10th. What date is 3 days later?"
+    },
+    "answers": [
+      "14th",
+      "13th",
+      "12th"
+    ],
+    "correct": 1,
+    "explanation": "Count one day at a time on the calendar.\nHint: Use the information in the question to check your answer.",
+    "structuredExplanation": {
+      "summary": "Count one day at a time on the calendar.",
+      "hint": "Use the information in the question to check your answer."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m2m03-p-040",
+    "curriculumCode": "AC9M2M03",
+    "bank": "practice",
+    "skill": "in the playground today is tuesday",
+    "printable": true,
+    "type": "single",
+    "question": "In the playground, today is Tuesday. What day is tomorrow?",
+    "audioPrompt": "In the playground, today is Tuesday. What day is tomorrow?",
+    "visual": "In the playground, today is Tuesday. What day is tomorrow?",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": "In the playground, today is Tuesday. What day is tomorrow?"
+    },
+    "answers": [
+      "Wednesday",
+      "Thursday",
+      "Monday"
+    ],
+    "correct": 0,
+    "explanation": "Count one day at a time on the calendar.\nHint: Use the information in the question to check your answer.",
+    "structuredExplanation": {
+      "summary": "Count one day at a time on the calendar.",
+      "hint": "Use the information in the question to check your answer."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m2m03-p-041",
+    "curriculumCode": "AC9M2M03",
+    "bank": "practice",
+    "skill": "at the library today is wednesday",
+    "printable": true,
+    "type": "single",
+    "question": "At the library, today is Wednesday. What day was yesterday?",
+    "audioPrompt": "At the library, today is Wednesday. What day was yesterday?",
+    "visual": "At the library, today is Wednesday. What day was yesterday?",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": "At the library, today is Wednesday. What day was yesterday?"
+    },
+    "answers": [
+      "Thursday",
+      "Monday",
+      "Tuesday"
+    ],
+    "correct": 2,
+    "explanation": "Count one day at a time on the calendar.\nHint: Use the information in the question to check your answer.",
+    "structuredExplanation": {
+      "summary": "Count one day at a time on the calendar.",
+      "hint": "Use the information in the question to check your answer."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m2m03-p-042",
+    "curriculumCode": "AC9M2M03",
+    "bank": "practice",
+    "skill": "during sport an event is on",
+    "printable": true,
+    "type": "single",
+    "question": "During sport, an event is on the 13th. What date is 3 days later?",
+    "audioPrompt": "During sport, an event is on the 13th. What date is 3 days later?",
+    "visual": "During sport, an event is on the 13th. What date is 3 days later?",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": "During sport, an event is on the 13th. What date is 3 days later?"
+    },
+    "answers": [
+      "17th",
+      "16th",
+      "15th"
+    ],
+    "correct": 1,
+    "explanation": "Count one day at a time on the calendar.\nHint: Use the information in the question to check your answer.",
+    "structuredExplanation": {
+      "summary": "Count one day at a time on the calendar.",
+      "hint": "Use the information in the question to check your answer."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m2m03-p-043",
+    "curriculumCode": "AC9M2M03",
+    "bank": "practice",
+    "skill": "at the class shop today is",
+    "printable": true,
+    "type": "single",
+    "question": "At the class shop, today is Friday. What day is tomorrow?",
+    "audioPrompt": "At the class shop, today is Friday. What day is tomorrow?",
+    "visual": "At the class shop, today is Friday. What day is tomorrow?",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": "At the class shop, today is Friday. What day is tomorrow?"
+    },
+    "answers": [
+      "Saturday",
+      "Sunday",
+      "Thursday"
+    ],
+    "correct": 0,
+    "explanation": "Count one day at a time on the calendar.\nHint: Use the information in the question to check your answer.",
+    "structuredExplanation": {
+      "summary": "Count one day at a time on the calendar.",
+      "hint": "Use the information in the question to check your answer."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m2m03-p-044",
+    "curriculumCode": "AC9M2M03",
+    "bank": "practice",
+    "skill": "on the picnic rug today is",
+    "printable": true,
+    "type": "single",
+    "question": "On the picnic rug, today is Saturday. What day was yesterday?",
+    "audioPrompt": "On the picnic rug, today is Saturday. What day was yesterday?",
+    "visual": "On the picnic rug, today is Saturday. What day was yesterday?",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": "On the picnic rug, today is Saturday. What day was yesterday?"
+    },
+    "answers": [
+      "Sunday",
+      "Thursday",
+      "Friday"
+    ],
+    "correct": 2,
+    "explanation": "Count one day at a time on the calendar.\nHint: Use the information in the question to check your answer.",
+    "structuredExplanation": {
+      "summary": "Count one day at a time on the calendar.",
+      "hint": "Use the information in the question to check your answer."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m2m03-p-045",
+    "curriculumCode": "AC9M2M03",
+    "bank": "practice",
+    "skill": "at the block table an event",
+    "printable": true,
+    "type": "single",
+    "question": "At the block table, an event is on the 16th. What date is 3 days later?",
+    "audioPrompt": "At the block table, an event is on the 16th. What date is 3 days later?",
+    "visual": "At the block table, an event is on the 16th. What date is 3 days later?",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": "At the block table, an event is on the 16th. What date is 3 days later?"
+    },
+    "answers": [
+      "20th",
+      "19th",
+      "18th"
+    ],
+    "correct": 1,
+    "explanation": "Count one day at a time on the calendar.\nHint: Use the information in the question to check your answer.",
+    "structuredExplanation": {
+      "summary": "Count one day at a time on the calendar.",
+      "hint": "Use the information in the question to check your answer."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m2m03-p-046",
+    "curriculumCode": "AC9M2M03",
+    "bank": "practice",
+    "skill": "in the lunch area today is",
+    "printable": true,
+    "type": "single",
+    "question": "In the lunch area, today is Monday. What day is tomorrow?",
+    "audioPrompt": "In the lunch area, today is Monday. What day is tomorrow?",
+    "visual": "In the lunch area, today is Monday. What day is tomorrow?",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": "In the lunch area, today is Monday. What day is tomorrow?"
+    },
+    "answers": [
+      "Tuesday",
+      "Wednesday",
+      "Sunday"
+    ],
+    "correct": 0,
+    "explanation": "Count one day at a time on the calendar.\nHint: Use the information in the question to check your answer.",
+    "structuredExplanation": {
+      "summary": "Count one day at a time on the calendar.",
+      "hint": "Use the information in the question to check your answer."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m2m03-p-047",
+    "curriculumCode": "AC9M2M03",
+    "bank": "practice",
+    "skill": "at the science table today is",
+    "printable": true,
+    "type": "single",
+    "question": "At the science table, today is Tuesday. What day was yesterday?",
+    "audioPrompt": "At the science table, today is Tuesday. What day was yesterday?",
+    "visual": "At the science table, today is Tuesday. What day was yesterday?",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": "At the science table, today is Tuesday. What day was yesterday?"
+    },
+    "answers": [
+      "Wednesday",
+      "Sunday",
+      "Monday"
+    ],
+    "correct": 2,
+    "explanation": "Count one day at a time on the calendar.\nHint: Use the information in the question to check your answer.",
+    "structuredExplanation": {
+      "summary": "Count one day at a time on the calendar.",
+      "hint": "Use the information in the question to check your answer."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m2m03-p-048",
+    "curriculumCode": "AC9M2M03",
+    "bank": "practice",
+    "skill": "during a card game an event",
+    "printable": true,
+    "type": "single",
+    "question": "During a card game, an event is on the 12th. What date is 3 days later?",
+    "audioPrompt": "During a card game, an event is on the 12th. What date is 3 days later?",
+    "visual": "During a card game, an event is on the 12th. What date is 3 days later?",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": "During a card game, an event is on the 12th. What date is 3 days later?"
+    },
+    "answers": [
+      "16th",
+      "15th",
+      "14th"
+    ],
+    "correct": 1,
+    "explanation": "Count one day at a time on the calendar.\nHint: Use the information in the question to check your answer.",
+    "structuredExplanation": {
+      "summary": "Count one day at a time on the calendar.",
+      "hint": "Use the information in the question to check your answer."
     },
     "qualitySchema": "production-v1"
   }

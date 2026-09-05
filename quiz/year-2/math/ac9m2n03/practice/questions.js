@@ -21,6 +21,9 @@ window.skillrPracticeQuestions = [
       "1 of 2 equal parts shaded",
       "1 of 4 equal parts shaded"
     ],
+    "difficulty": 1,
+    "difficultyTier": "confidence",
+    "sequencePriority": 1,
     "correct": 1,
     "explanation": "One half is one of 2 equal parts of the whole pizza.\nHint: Check that there are exactly 2 equal parts.",
     "structuredExplanation": {
@@ -50,6 +53,9 @@ window.skillrPracticeQuestions = [
       "One eighth",
       "One quarter"
     ],
+    "difficulty": 1,
+    "difficultyTier": "confidence",
+    "sequencePriority": 1,
     "correct": 2,
     "explanation": "One of 4 equal parts is called one quarter.\nHint: Use the number of equal parts to name the fraction.",
     "structuredExplanation": {
@@ -79,6 +85,9 @@ window.skillrPracticeQuestions = [
       "Join the two halves",
       "Make the halves different sizes"
     ],
+    "difficulty": 1,
+    "difficultyTier": "confidence",
+    "sequencePriority": 1,
     "correct": 0,
     "explanation": "Halving each half makes 4 equal quarters.\nHint: Start with 2 parts, then split both parts equally.",
     "structuredExplanation": {
@@ -108,6 +117,9 @@ window.skillrPracticeQuestions = [
       "Halve each quarter",
       "Remove one quarter"
     ],
+    "difficulty": 1,
+    "difficultyTier": "confidence",
+    "sequencePriority": 1,
     "correct": 1,
     "explanation": "Halving each of 4 quarters makes 8 equal eighths.\nHint: Doubling the number of equal parts makes smaller pieces.",
     "structuredExplanation": {
@@ -137,6 +149,9 @@ window.skillrPracticeQuestions = [
       "They are the same size",
       "One half"
     ],
+    "difficulty": 1,
+    "difficultyTier": "confidence",
+    "sequencePriority": 1,
     "correct": 2,
     "explanation": "A half is one of 2 equal parts; an eighth is one of 8 smaller equal parts.\nHint: Fewer equal parts means each part is larger.",
     "structuredExplanation": {
@@ -166,6 +181,9 @@ window.skillrPracticeQuestions = [
       "Yes, because there are 4 pieces",
       "Yes, if one piece is very large"
     ],
+    "difficulty": 1,
+    "difficultyTier": "confidence",
+    "sequencePriority": 1,
     "correct": 0,
     "explanation": "Four pieces are quarters only when all 4 parts are equal.\nHint: Counting pieces is not enough; compare their sizes.",
     "structuredExplanation": {
@@ -195,6 +213,9 @@ window.skillrPracticeQuestions = [
       "2 quarters",
       "4 quarters"
     ],
+    "difficulty": 1,
+    "difficultyTier": "confidence",
+    "sequencePriority": 1,
     "correct": 1,
     "explanation": "Two quarters join to make one half of the same whole.\nHint: Look at 4 equal parts and shade 2 of them.",
     "structuredExplanation": {
@@ -224,6 +245,9 @@ window.skillrPracticeQuestions = [
       "4 eighths",
       "2 eighths"
     ],
+    "difficulty": 1,
+    "difficultyTier": "confidence",
+    "sequencePriority": 1,
     "correct": 2,
     "explanation": "Two eighths join to make one quarter of the same whole.\nHint: Each quarter is split into 2 eighths.",
     "structuredExplanation": {
@@ -253,6 +277,8 @@ window.skillrPracticeQuestions = [
       "1 of 2 unequal parts shaded",
       "1 of 4 equal parts shaded"
     ],
+    "difficulty": 3,
+    "sequencePriority": 2,
     "correct": 0,
     "explanation": "One half is one of 2 equal parts of the whole wrap.\nHint: Check that there are exactly 2 equal parts.",
     "structuredExplanation": {
@@ -282,6 +308,8 @@ window.skillrPracticeQuestions = [
       "One quarter",
       "One eighth"
     ],
+    "difficulty": 3,
+    "sequencePriority": 2,
     "correct": 1,
     "explanation": "One of 4 equal parts is called one quarter.\nHint: Use the number of equal parts to name the fraction.",
     "structuredExplanation": {
@@ -311,6 +339,8 @@ window.skillrPracticeQuestions = [
       "Make the halves different sizes",
       "Halve each half again"
     ],
+    "difficulty": 3,
+    "sequencePriority": 2,
     "correct": 2,
     "explanation": "Halving each half makes 4 equal quarters.\nHint: Start with 2 parts, then split both parts equally.",
     "structuredExplanation": {
@@ -340,6 +370,8 @@ window.skillrPracticeQuestions = [
       "Join two quarters",
       "Remove one quarter"
     ],
+    "difficulty": 3,
+    "sequencePriority": 2,
     "correct": 0,
     "explanation": "Halving each of 4 quarters makes 8 equal eighths.\nHint: Doubling the number of equal parts makes smaller pieces.",
     "structuredExplanation": {
@@ -369,6 +401,8 @@ window.skillrPracticeQuestions = [
       "One half",
       "They are the same size"
     ],
+    "difficulty": 3,
+    "sequencePriority": 2,
     "correct": 1,
     "explanation": "A half is one of 2 equal parts; an eighth is one of 8 smaller equal parts.\nHint: Fewer equal parts means each part is larger.",
     "structuredExplanation": {
@@ -398,6 +432,8 @@ window.skillrPracticeQuestions = [
       "Yes, if one piece is very large",
       "No, quarters must be equal"
     ],
+    "difficulty": 3,
+    "sequencePriority": 2,
     "correct": 2,
     "explanation": "Four pieces are quarters only when all 4 parts are equal.\nHint: Counting pieces is not enough; compare their sizes.",
     "structuredExplanation": {
@@ -427,6 +463,8 @@ window.skillrPracticeQuestions = [
       "1 quarter",
       "4 quarters"
     ],
+    "difficulty": 3,
+    "sequencePriority": 2,
     "correct": 0,
     "explanation": "Two quarters join to make one half of the same whole.\nHint: Look at 4 equal parts and shade 2 of them.",
     "structuredExplanation": {
@@ -456,6 +494,8 @@ window.skillrPracticeQuestions = [
       "2 eighths",
       "4 eighths"
     ],
+    "difficulty": 3,
+    "sequencePriority": 2,
     "correct": 1,
     "explanation": "Two eighths join to make one quarter of the same whole.\nHint: Each quarter is split into 2 eighths.",
     "structuredExplanation": {
@@ -485,6 +525,8 @@ window.skillrPracticeQuestions = [
       "1 of 4 equal parts shaded",
       "1 of 2 equal parts shaded"
     ],
+    "difficulty": 3,
+    "sequencePriority": 2,
     "correct": 2,
     "explanation": "One half is one of 2 equal parts of the whole melon.\nHint: Check that there are exactly 2 equal parts.",
     "structuredExplanation": {
@@ -514,6 +556,8 @@ window.skillrPracticeQuestions = [
       "One half",
       "One eighth"
     ],
+    "difficulty": 3,
+    "sequencePriority": 2,
     "correct": 0,
     "explanation": "One of 4 equal parts is called one quarter.\nHint: Use the number of equal parts to name the fraction.",
     "structuredExplanation": {
@@ -543,6 +587,8 @@ window.skillrPracticeQuestions = [
       "Halve each half again",
       "Make the halves different sizes"
     ],
+    "difficulty": 3,
+    "sequencePriority": 2,
     "correct": 1,
     "explanation": "Halving each half makes 4 equal quarters.\nHint: Start with 2 parts, then split both parts equally.",
     "structuredExplanation": {
@@ -572,6 +618,8 @@ window.skillrPracticeQuestions = [
       "Remove one quarter",
       "Halve each quarter"
     ],
+    "difficulty": 3,
+    "sequencePriority": 2,
     "correct": 2,
     "explanation": "Halving each of 4 quarters makes 8 equal eighths.\nHint: Doubling the number of equal parts makes smaller pieces.",
     "structuredExplanation": {
@@ -601,6 +649,8 @@ window.skillrPracticeQuestions = [
       "One eighth",
       "They are the same size"
     ],
+    "difficulty": 3,
+    "sequencePriority": 2,
     "correct": 0,
     "explanation": "A half is one of 2 equal parts; an eighth is one of 8 smaller equal parts.\nHint: Fewer equal parts means each part is larger.",
     "structuredExplanation": {
@@ -630,6 +680,8 @@ window.skillrPracticeQuestions = [
       "No, quarters must be equal",
       "Yes, if one piece is very large"
     ],
+    "difficulty": 3,
+    "sequencePriority": 2,
     "correct": 1,
     "explanation": "Four pieces are quarters only when all 4 parts are equal.\nHint: Counting pieces is not enough; compare their sizes.",
     "structuredExplanation": {
@@ -659,6 +711,8 @@ window.skillrPracticeQuestions = [
       "4 quarters",
       "2 quarters"
     ],
+    "difficulty": 3,
+    "sequencePriority": 2,
     "correct": 2,
     "explanation": "Two quarters join to make one half of the same whole.\nHint: Look at 4 equal parts and shade 2 of them.",
     "structuredExplanation": {
@@ -688,11 +742,685 @@ window.skillrPracticeQuestions = [
       "1 eighth",
       "4 eighths"
     ],
+    "difficulty": 3,
+    "sequencePriority": 2,
     "correct": 0,
     "explanation": "Two eighths join to make one quarter of the same whole.\nHint: Each quarter is split into 2 eighths.",
     "structuredExplanation": {
       "summary": "Two eighths join to make one quarter of the same whole.",
       "hint": "Each quarter is split into 2 eighths."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m2n03-p-025",
+    "curriculumCode": "AC9M2N03",
+    "bank": "practice",
+    "skill": "at the school garden a shape",
+    "printable": true,
+    "type": "single",
+    "question": "At the school garden, a shape is split into 8 equal parts. What is one part?",
+    "audioPrompt": "At the school garden, a shape is split into 8 equal parts. What is one part?",
+    "visual": "At the school garden, a shape is split into 8 equal parts. What is one part?",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": "At the school garden, a shape is split into 8 equal parts. What is one part?"
+    },
+    "answers": [
+      "one eighth",
+      "one quarter",
+      "one half"
+    ],
+    "correct": 0,
+    "explanation": "Fractions are equal parts of a whole.\nHint: Use the information in the question to check your answer.",
+    "structuredExplanation": {
+      "summary": "Fractions are equal parts of a whole.",
+      "hint": "Use the information in the question to check your answer."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m2n03-p-026",
+    "curriculumCode": "AC9M2N03",
+    "bank": "practice",
+    "skill": "during maths groups how many eighths",
+    "printable": true,
+    "type": "single",
+    "question": "During maths groups, how many eighths make one quarter?",
+    "audioPrompt": "During maths groups, how many eighths make one quarter?",
+    "visual": "During maths groups, how many eighths make one quarter?",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": "During maths groups, how many eighths make one quarter?"
+    },
+    "answers": [
+      "1 eighth",
+      "4 eighths",
+      "2 eighths"
+    ],
+    "correct": 2,
+    "explanation": "Fractions are equal parts of a whole.\nHint: Use the information in the question to check your answer.",
+    "structuredExplanation": {
+      "summary": "Fractions are equal parts of a whole.",
+      "hint": "Use the information in the question to check your answer."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m2n03-p-027",
+    "curriculumCode": "AC9M2N03",
+    "bank": "practice",
+    "skill": "at the art table how many",
+    "printable": true,
+    "type": "single",
+    "question": "At the art table, how many quarters make one whole?",
+    "audioPrompt": "At the art table, how many quarters make one whole?",
+    "visual": "At the art table, how many quarters make one whole?",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": "At the art table, how many quarters make one whole?"
+    },
+    "answers": [
+      "8 quarters",
+      "4 quarters",
+      "2 quarters"
+    ],
+    "correct": 1,
+    "explanation": "Fractions are equal parts of a whole.\nHint: Use the information in the question to check your answer.",
+    "structuredExplanation": {
+      "summary": "Fractions are equal parts of a whole.",
+      "hint": "Use the information in the question to check your answer."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m2n03-p-028",
+    "curriculumCode": "AC9M2N03",
+    "bank": "practice",
+    "skill": "in the playground a shape is",
+    "printable": true,
+    "type": "single",
+    "question": "In the playground, a shape is split into 8 equal parts. What is one part?",
+    "audioPrompt": "In the playground, a shape is split into 8 equal parts. What is one part?",
+    "visual": "In the playground, a shape is split into 8 equal parts. What is one part?",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": "In the playground, a shape is split into 8 equal parts. What is one part?"
+    },
+    "answers": [
+      "one eighth",
+      "one quarter",
+      "one half"
+    ],
+    "correct": 0,
+    "explanation": "Fractions are equal parts of a whole.\nHint: Use the information in the question to check your answer.",
+    "structuredExplanation": {
+      "summary": "Fractions are equal parts of a whole.",
+      "hint": "Use the information in the question to check your answer."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m2n03-p-029",
+    "curriculumCode": "AC9M2N03",
+    "bank": "practice",
+    "skill": "at the library how many eighths",
+    "printable": true,
+    "type": "single",
+    "question": "At the library, how many eighths make one quarter?",
+    "audioPrompt": "At the library, how many eighths make one quarter?",
+    "visual": "At the library, how many eighths make one quarter?",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": "At the library, how many eighths make one quarter?"
+    },
+    "answers": [
+      "1 eighth",
+      "4 eighths",
+      "2 eighths"
+    ],
+    "correct": 2,
+    "explanation": "Fractions are equal parts of a whole.\nHint: Use the information in the question to check your answer.",
+    "structuredExplanation": {
+      "summary": "Fractions are equal parts of a whole.",
+      "hint": "Use the information in the question to check your answer."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m2n03-p-030",
+    "curriculumCode": "AC9M2N03",
+    "bank": "practice",
+    "skill": "during sport how many quarters make",
+    "printable": true,
+    "type": "single",
+    "question": "During sport, how many quarters make one whole?",
+    "audioPrompt": "During sport, how many quarters make one whole?",
+    "visual": "During sport, how many quarters make one whole?",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": "During sport, how many quarters make one whole?"
+    },
+    "answers": [
+      "8 quarters",
+      "4 quarters",
+      "2 quarters"
+    ],
+    "correct": 1,
+    "explanation": "Fractions are equal parts of a whole.\nHint: Use the information in the question to check your answer.",
+    "structuredExplanation": {
+      "summary": "Fractions are equal parts of a whole.",
+      "hint": "Use the information in the question to check your answer."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m2n03-p-031",
+    "curriculumCode": "AC9M2N03",
+    "bank": "practice",
+    "skill": "at the class shop a shape",
+    "printable": true,
+    "type": "single",
+    "question": "At the class shop, a shape is split into 8 equal parts. What is one part?",
+    "audioPrompt": "At the class shop, a shape is split into 8 equal parts. What is one part?",
+    "visual": "At the class shop, a shape is split into 8 equal parts. What is one part?",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": "At the class shop, a shape is split into 8 equal parts. What is one part?"
+    },
+    "answers": [
+      "one eighth",
+      "one quarter",
+      "one half"
+    ],
+    "correct": 0,
+    "explanation": "Fractions are equal parts of a whole.\nHint: Use the information in the question to check your answer.",
+    "structuredExplanation": {
+      "summary": "Fractions are equal parts of a whole.",
+      "hint": "Use the information in the question to check your answer."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m2n03-p-032",
+    "curriculumCode": "AC9M2N03",
+    "bank": "practice",
+    "skill": "on the picnic rug how many",
+    "printable": true,
+    "type": "single",
+    "question": "On the picnic rug, how many eighths make one quarter?",
+    "audioPrompt": "On the picnic rug, how many eighths make one quarter?",
+    "visual": "On the picnic rug, how many eighths make one quarter?",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": "On the picnic rug, how many eighths make one quarter?"
+    },
+    "answers": [
+      "1 eighth",
+      "4 eighths",
+      "2 eighths"
+    ],
+    "correct": 2,
+    "explanation": "Fractions are equal parts of a whole.\nHint: Use the information in the question to check your answer.",
+    "structuredExplanation": {
+      "summary": "Fractions are equal parts of a whole.",
+      "hint": "Use the information in the question to check your answer."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m2n03-p-033",
+    "curriculumCode": "AC9M2N03",
+    "bank": "practice",
+    "skill": "at the block table how many",
+    "printable": true,
+    "type": "single",
+    "question": "At the block table, how many quarters make one whole?",
+    "audioPrompt": "At the block table, how many quarters make one whole?",
+    "visual": "At the block table, how many quarters make one whole?",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": "At the block table, how many quarters make one whole?"
+    },
+    "answers": [
+      "8 quarters",
+      "4 quarters",
+      "2 quarters"
+    ],
+    "correct": 1,
+    "explanation": "Fractions are equal parts of a whole.\nHint: Use the information in the question to check your answer.",
+    "structuredExplanation": {
+      "summary": "Fractions are equal parts of a whole.",
+      "hint": "Use the information in the question to check your answer."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m2n03-p-034",
+    "curriculumCode": "AC9M2N03",
+    "bank": "practice",
+    "skill": "in the lunch area a shape",
+    "printable": true,
+    "type": "single",
+    "question": "In the lunch area, a shape is split into 8 equal parts. What is one part?",
+    "audioPrompt": "In the lunch area, a shape is split into 8 equal parts. What is one part?",
+    "visual": "In the lunch area, a shape is split into 8 equal parts. What is one part?",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": "In the lunch area, a shape is split into 8 equal parts. What is one part?"
+    },
+    "answers": [
+      "one eighth",
+      "one quarter",
+      "one half"
+    ],
+    "correct": 0,
+    "explanation": "Fractions are equal parts of a whole.\nHint: Use the information in the question to check your answer.",
+    "structuredExplanation": {
+      "summary": "Fractions are equal parts of a whole.",
+      "hint": "Use the information in the question to check your answer."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m2n03-p-035",
+    "curriculumCode": "AC9M2N03",
+    "bank": "practice",
+    "skill": "at the science table how many",
+    "printable": true,
+    "type": "single",
+    "question": "At the science table, how many eighths make one quarter?",
+    "audioPrompt": "At the science table, how many eighths make one quarter?",
+    "visual": "At the science table, how many eighths make one quarter?",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": "At the science table, how many eighths make one quarter?"
+    },
+    "answers": [
+      "1 eighth",
+      "4 eighths",
+      "2 eighths"
+    ],
+    "correct": 2,
+    "explanation": "Fractions are equal parts of a whole.\nHint: Use the information in the question to check your answer.",
+    "structuredExplanation": {
+      "summary": "Fractions are equal parts of a whole.",
+      "hint": "Use the information in the question to check your answer."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m2n03-p-036",
+    "curriculumCode": "AC9M2N03",
+    "bank": "practice",
+    "skill": "during a card game how many",
+    "printable": true,
+    "type": "single",
+    "question": "During a card game, how many quarters make one whole?",
+    "audioPrompt": "During a card game, how many quarters make one whole?",
+    "visual": "During a card game, how many quarters make one whole?",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": "During a card game, how many quarters make one whole?"
+    },
+    "answers": [
+      "8 quarters",
+      "4 quarters",
+      "2 quarters"
+    ],
+    "correct": 1,
+    "explanation": "Fractions are equal parts of a whole.\nHint: Use the information in the question to check your answer.",
+    "structuredExplanation": {
+      "summary": "Fractions are equal parts of a whole.",
+      "hint": "Use the information in the question to check your answer."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m2n03-p-037",
+    "curriculumCode": "AC9M2N03",
+    "bank": "practice",
+    "skill": "at the school garden a shape",
+    "printable": true,
+    "type": "single",
+    "question": "At the school garden, a shape is split into 8 equal parts. What is one part?",
+    "audioPrompt": "At the school garden, a shape is split into 8 equal parts. What is one part?",
+    "visual": "At the school garden, a shape is split into 8 equal parts. What is one part?",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": "At the school garden, a shape is split into 8 equal parts. What is one part?"
+    },
+    "answers": [
+      "one eighth",
+      "one quarter",
+      "one half"
+    ],
+    "correct": 0,
+    "explanation": "Fractions are equal parts of a whole.\nHint: Use the information in the question to check your answer.",
+    "structuredExplanation": {
+      "summary": "Fractions are equal parts of a whole.",
+      "hint": "Use the information in the question to check your answer."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m2n03-p-038",
+    "curriculumCode": "AC9M2N03",
+    "bank": "practice",
+    "skill": "during maths groups how many eighths",
+    "printable": true,
+    "type": "single",
+    "question": "During maths groups, how many eighths make one quarter?",
+    "audioPrompt": "During maths groups, how many eighths make one quarter?",
+    "visual": "During maths groups, how many eighths make one quarter?",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": "During maths groups, how many eighths make one quarter?"
+    },
+    "answers": [
+      "1 eighth",
+      "4 eighths",
+      "2 eighths"
+    ],
+    "correct": 2,
+    "explanation": "Fractions are equal parts of a whole.\nHint: Use the information in the question to check your answer.",
+    "structuredExplanation": {
+      "summary": "Fractions are equal parts of a whole.",
+      "hint": "Use the information in the question to check your answer."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m2n03-p-039",
+    "curriculumCode": "AC9M2N03",
+    "bank": "practice",
+    "skill": "at the art table how many",
+    "printable": true,
+    "type": "single",
+    "question": "At the art table, how many quarters make one whole?",
+    "audioPrompt": "At the art table, how many quarters make one whole?",
+    "visual": "At the art table, how many quarters make one whole?",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": "At the art table, how many quarters make one whole?"
+    },
+    "answers": [
+      "8 quarters",
+      "4 quarters",
+      "2 quarters"
+    ],
+    "correct": 1,
+    "explanation": "Fractions are equal parts of a whole.\nHint: Use the information in the question to check your answer.",
+    "structuredExplanation": {
+      "summary": "Fractions are equal parts of a whole.",
+      "hint": "Use the information in the question to check your answer."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m2n03-p-040",
+    "curriculumCode": "AC9M2N03",
+    "bank": "practice",
+    "skill": "in the playground a shape is",
+    "printable": true,
+    "type": "single",
+    "question": "In the playground, a shape is split into 8 equal parts. What is one part?",
+    "audioPrompt": "In the playground, a shape is split into 8 equal parts. What is one part?",
+    "visual": "In the playground, a shape is split into 8 equal parts. What is one part?",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": "In the playground, a shape is split into 8 equal parts. What is one part?"
+    },
+    "answers": [
+      "one eighth",
+      "one quarter",
+      "one half"
+    ],
+    "correct": 0,
+    "explanation": "Fractions are equal parts of a whole.\nHint: Use the information in the question to check your answer.",
+    "structuredExplanation": {
+      "summary": "Fractions are equal parts of a whole.",
+      "hint": "Use the information in the question to check your answer."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m2n03-p-041",
+    "curriculumCode": "AC9M2N03",
+    "bank": "practice",
+    "skill": "at the library how many eighths",
+    "printable": true,
+    "type": "single",
+    "question": "At the library, how many eighths make one quarter?",
+    "audioPrompt": "At the library, how many eighths make one quarter?",
+    "visual": "At the library, how many eighths make one quarter?",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": "At the library, how many eighths make one quarter?"
+    },
+    "answers": [
+      "1 eighth",
+      "4 eighths",
+      "2 eighths"
+    ],
+    "correct": 2,
+    "explanation": "Fractions are equal parts of a whole.\nHint: Use the information in the question to check your answer.",
+    "structuredExplanation": {
+      "summary": "Fractions are equal parts of a whole.",
+      "hint": "Use the information in the question to check your answer."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m2n03-p-042",
+    "curriculumCode": "AC9M2N03",
+    "bank": "practice",
+    "skill": "during sport how many quarters make",
+    "printable": true,
+    "type": "single",
+    "question": "During sport, how many quarters make one whole?",
+    "audioPrompt": "During sport, how many quarters make one whole?",
+    "visual": "During sport, how many quarters make one whole?",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": "During sport, how many quarters make one whole?"
+    },
+    "answers": [
+      "8 quarters",
+      "4 quarters",
+      "2 quarters"
+    ],
+    "correct": 1,
+    "explanation": "Fractions are equal parts of a whole.\nHint: Use the information in the question to check your answer.",
+    "structuredExplanation": {
+      "summary": "Fractions are equal parts of a whole.",
+      "hint": "Use the information in the question to check your answer."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m2n03-p-043",
+    "curriculumCode": "AC9M2N03",
+    "bank": "practice",
+    "skill": "at the class shop a shape",
+    "printable": true,
+    "type": "single",
+    "question": "At the class shop, a shape is split into 8 equal parts. What is one part?",
+    "audioPrompt": "At the class shop, a shape is split into 8 equal parts. What is one part?",
+    "visual": "At the class shop, a shape is split into 8 equal parts. What is one part?",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": "At the class shop, a shape is split into 8 equal parts. What is one part?"
+    },
+    "answers": [
+      "one eighth",
+      "one quarter",
+      "one half"
+    ],
+    "correct": 0,
+    "explanation": "Fractions are equal parts of a whole.\nHint: Use the information in the question to check your answer.",
+    "structuredExplanation": {
+      "summary": "Fractions are equal parts of a whole.",
+      "hint": "Use the information in the question to check your answer."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m2n03-p-044",
+    "curriculumCode": "AC9M2N03",
+    "bank": "practice",
+    "skill": "on the picnic rug how many",
+    "printable": true,
+    "type": "single",
+    "question": "On the picnic rug, how many eighths make one quarter?",
+    "audioPrompt": "On the picnic rug, how many eighths make one quarter?",
+    "visual": "On the picnic rug, how many eighths make one quarter?",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": "On the picnic rug, how many eighths make one quarter?"
+    },
+    "answers": [
+      "1 eighth",
+      "4 eighths",
+      "2 eighths"
+    ],
+    "correct": 2,
+    "explanation": "Fractions are equal parts of a whole.\nHint: Use the information in the question to check your answer.",
+    "structuredExplanation": {
+      "summary": "Fractions are equal parts of a whole.",
+      "hint": "Use the information in the question to check your answer."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m2n03-p-045",
+    "curriculumCode": "AC9M2N03",
+    "bank": "practice",
+    "skill": "at the block table how many",
+    "printable": true,
+    "type": "single",
+    "question": "At the block table, how many quarters make one whole?",
+    "audioPrompt": "At the block table, how many quarters make one whole?",
+    "visual": "At the block table, how many quarters make one whole?",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": "At the block table, how many quarters make one whole?"
+    },
+    "answers": [
+      "8 quarters",
+      "4 quarters",
+      "2 quarters"
+    ],
+    "correct": 1,
+    "explanation": "Fractions are equal parts of a whole.\nHint: Use the information in the question to check your answer.",
+    "structuredExplanation": {
+      "summary": "Fractions are equal parts of a whole.",
+      "hint": "Use the information in the question to check your answer."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m2n03-p-046",
+    "curriculumCode": "AC9M2N03",
+    "bank": "practice",
+    "skill": "in the lunch area a shape",
+    "printable": true,
+    "type": "single",
+    "question": "In the lunch area, a shape is split into 8 equal parts. What is one part?",
+    "audioPrompt": "In the lunch area, a shape is split into 8 equal parts. What is one part?",
+    "visual": "In the lunch area, a shape is split into 8 equal parts. What is one part?",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": "In the lunch area, a shape is split into 8 equal parts. What is one part?"
+    },
+    "answers": [
+      "one eighth",
+      "one quarter",
+      "one half"
+    ],
+    "correct": 0,
+    "explanation": "Fractions are equal parts of a whole.\nHint: Use the information in the question to check your answer.",
+    "structuredExplanation": {
+      "summary": "Fractions are equal parts of a whole.",
+      "hint": "Use the information in the question to check your answer."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m2n03-p-047",
+    "curriculumCode": "AC9M2N03",
+    "bank": "practice",
+    "skill": "at the science table how many",
+    "printable": true,
+    "type": "single",
+    "question": "At the science table, how many eighths make one quarter?",
+    "audioPrompt": "At the science table, how many eighths make one quarter?",
+    "visual": "At the science table, how many eighths make one quarter?",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": "At the science table, how many eighths make one quarter?"
+    },
+    "answers": [
+      "1 eighth",
+      "4 eighths",
+      "2 eighths"
+    ],
+    "correct": 2,
+    "explanation": "Fractions are equal parts of a whole.\nHint: Use the information in the question to check your answer.",
+    "structuredExplanation": {
+      "summary": "Fractions are equal parts of a whole.",
+      "hint": "Use the information in the question to check your answer."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m2n03-p-048",
+    "curriculumCode": "AC9M2N03",
+    "bank": "practice",
+    "skill": "during a card game how many",
+    "printable": true,
+    "type": "single",
+    "question": "During a card game, how many quarters make one whole?",
+    "audioPrompt": "During a card game, how many quarters make one whole?",
+    "visual": "During a card game, how many quarters make one whole?",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": "During a card game, how many quarters make one whole?"
+    },
+    "answers": [
+      "8 quarters",
+      "4 quarters",
+      "2 quarters"
+    ],
+    "correct": 1,
+    "explanation": "Fractions are equal parts of a whole.\nHint: Use the information in the question to check your answer.",
+    "structuredExplanation": {
+      "summary": "Fractions are equal parts of a whole.",
+      "hint": "Use the information in the question to check your answer."
     },
     "qualitySchema": "production-v1"
   }

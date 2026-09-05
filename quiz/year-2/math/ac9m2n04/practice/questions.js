@@ -21,6 +21,9 @@ window.skillrPracticeQuestions = [
       "38",
       "37"
     ],
+    "difficulty": 1,
+    "difficultyTier": "confidence",
+    "sequencePriority": 1,
     "correct": 2,
     "explanation": "Add tens and ones: 24 + 13 = 37.\nHint: Partition both numbers into tens and ones.",
     "structuredExplanation": {
@@ -50,6 +53,9 @@ window.skillrPracticeQuestions = [
       "45",
       "31"
     ],
+    "difficulty": 1,
+    "difficultyTier": "confidence",
+    "sequencePriority": 1,
     "correct": 0,
     "explanation": "Take away 13: 45 − 13 = 32.\nHint: Subtract the tens, then the ones.",
     "structuredExplanation": {
@@ -79,6 +85,9 @@ window.skillrPracticeQuestions = [
       "44",
       "54"
     ],
+    "difficulty": 1,
+    "difficultyTier": "confidence",
+    "sequencePriority": 1,
     "correct": 1,
     "explanation": "28 + 16 = 20 + 10 + 14 = 44.\nHint: Add the tens, add the ones, then combine.",
     "structuredExplanation": {
@@ -108,6 +117,9 @@ window.skillrPracticeQuestions = [
       "34",
       "24"
     ],
+    "difficulty": 1,
+    "difficultyTier": "confidence",
+    "sequencePriority": 1,
     "correct": 2,
     "explanation": "The stickers are taken away, so 42 − 18 = 24.\nHint: Start with the whole and subtract the used part.",
     "structuredExplanation": {
@@ -137,6 +149,9 @@ window.skillrPracticeQuestions = [
       "65",
       "30"
     ],
+    "difficulty": 1,
+    "difficultyTier": "confidence",
+    "sequencePriority": 1,
     "correct": 0,
     "explanation": "The missing part is 48 − 17 = 31.\nHint: Use whole minus known part.",
     "structuredExplanation": {
@@ -166,6 +181,9 @@ window.skillrPracticeQuestions = [
       "24 + 13 = 37",
       "37 + 13 = 50"
     ],
+    "difficulty": 1,
+    "difficultyTier": "confidence",
+    "sequencePriority": 1,
     "correct": 1,
     "explanation": "Addition checks subtraction by joining the two parts back to the whole.\nHint: Use the answer and the amount taken away.",
     "structuredExplanation": {
@@ -195,6 +213,9 @@ window.skillrPracticeQuestions = [
       "Take away 20, then add 1",
       "Add 20, then take away 1"
     ],
+    "difficulty": 1,
+    "difficultyTier": "confidence",
+    "sequencePriority": 1,
     "correct": 2,
     "explanation": "Because 19 is one less than 20, add 20 then subtract 1.\nHint: Use a nearby friendly number.",
     "structuredExplanation": {
@@ -224,6 +245,9 @@ window.skillrPracticeQuestions = [
       "11",
       "47"
     ],
+    "difficulty": 1,
+    "difficultyTier": "confidence",
+    "sequencePriority": 1,
     "correct": 0,
     "explanation": "Altogether means join the groups: 24 + 13 = 37.\nHint: Look for whether the story joins or separates amounts.",
     "structuredExplanation": {
@@ -253,6 +277,8 @@ window.skillrPracticeQuestions = [
       "46",
       "47"
     ],
+    "difficulty": 3,
+    "sequencePriority": 2,
     "correct": 1,
     "explanation": "Add tens and ones: 31 + 15 = 46.\nHint: Partition both numbers into tens and ones.",
     "structuredExplanation": {
@@ -282,6 +308,8 @@ window.skillrPracticeQuestions = [
       "38",
       "39"
     ],
+    "difficulty": 3,
+    "sequencePriority": 2,
     "correct": 2,
     "explanation": "Take away 15: 54 − 15 = 39.\nHint: Subtract the tens, then the ones.",
     "structuredExplanation": {
@@ -311,6 +339,8 @@ window.skillrPracticeQuestions = [
       "39",
       "59"
     ],
+    "difficulty": 3,
+    "sequencePriority": 2,
     "correct": 0,
     "explanation": "32 + 17 = 30 + 10 + 9 = 49.\nHint: Add the tens, add the ones, then combine.",
     "structuredExplanation": {
@@ -340,6 +370,8 @@ window.skillrPracticeQuestions = [
       "28",
       "38"
     ],
+    "difficulty": 3,
+    "sequencePriority": 2,
     "correct": 1,
     "explanation": "The stickers are taken away, so 47 − 19 = 28.\nHint: Start with the whole and subtract the used part.",
     "structuredExplanation": {
@@ -369,6 +401,8 @@ window.skillrPracticeQuestions = [
       "32",
       "33"
     ],
+    "difficulty": 3,
+    "sequencePriority": 2,
     "correct": 2,
     "explanation": "The missing part is 51 − 18 = 33.\nHint: Use whole minus known part.",
     "structuredExplanation": {
@@ -398,6 +432,8 @@ window.skillrPracticeQuestions = [
       "31 − 15 = 16",
       "46 + 15 = 61"
     ],
+    "difficulty": 3,
+    "sequencePriority": 2,
     "correct": 0,
     "explanation": "Addition checks subtraction by joining the two parts back to the whole.\nHint: Use the answer and the amount taken away.",
     "structuredExplanation": {
@@ -427,6 +463,8 @@ window.skillrPracticeQuestions = [
       "Add 20, then take away 1",
       "Take away 20, then add 1"
     ],
+    "difficulty": 3,
+    "sequencePriority": 2,
     "correct": 1,
     "explanation": "Because 19 is one less than 20, add 20 then subtract 1.\nHint: Use a nearby friendly number.",
     "structuredExplanation": {
@@ -456,6 +494,8 @@ window.skillrPracticeQuestions = [
       "56",
       "46"
     ],
+    "difficulty": 3,
+    "sequencePriority": 2,
     "correct": 2,
     "explanation": "Altogether means join the groups: 31 + 15 = 46.\nHint: Look for whether the story joins or separates amounts.",
     "structuredExplanation": {
@@ -485,6 +525,8 @@ window.skillrPracticeQuestions = [
       "45",
       "56"
     ],
+    "difficulty": 3,
+    "sequencePriority": 2,
     "correct": 0,
     "explanation": "Add tens and ones: 38 + 17 = 55.\nHint: Partition both numbers into tens and ones.",
     "structuredExplanation": {
@@ -514,6 +556,8 @@ window.skillrPracticeQuestions = [
       "46",
       "45"
     ],
+    "difficulty": 3,
+    "sequencePriority": 2,
     "correct": 1,
     "explanation": "Take away 17: 63 − 17 = 46.\nHint: Subtract the tens, then the ones.",
     "structuredExplanation": {
@@ -543,6 +587,8 @@ window.skillrPracticeQuestions = [
       "64",
       "54"
     ],
+    "difficulty": 3,
+    "sequencePriority": 2,
     "correct": 2,
     "explanation": "36 + 18 = 30 + 10 + 14 = 54.\nHint: Add the tens, add the ones, then combine.",
     "structuredExplanation": {
@@ -572,6 +618,8 @@ window.skillrPracticeQuestions = [
       "72",
       "42"
     ],
+    "difficulty": 3,
+    "sequencePriority": 2,
     "correct": 0,
     "explanation": "The stickers are taken away, so 52 − 20 = 32.\nHint: Start with the whole and subtract the used part.",
     "structuredExplanation": {
@@ -601,6 +649,8 @@ window.skillrPracticeQuestions = [
       "35",
       "34"
     ],
+    "difficulty": 3,
+    "sequencePriority": 2,
     "correct": 1,
     "explanation": "The missing part is 54 − 19 = 35.\nHint: Use whole minus known part.",
     "structuredExplanation": {
@@ -630,6 +680,8 @@ window.skillrPracticeQuestions = [
       "55 + 17 = 72",
       "38 + 17 = 55"
     ],
+    "difficulty": 3,
+    "sequencePriority": 2,
     "correct": 2,
     "explanation": "Addition checks subtraction by joining the two parts back to the whole.\nHint: Use the answer and the amount taken away.",
     "structuredExplanation": {
@@ -659,6 +711,8 @@ window.skillrPracticeQuestions = [
       "Add 10, then take away 1",
       "Take away 20, then add 1"
     ],
+    "difficulty": 3,
+    "sequencePriority": 2,
     "correct": 0,
     "explanation": "Because 19 is one less than 20, add 20 then subtract 1.\nHint: Use a nearby friendly number.",
     "structuredExplanation": {
@@ -688,11 +742,685 @@ window.skillrPracticeQuestions = [
       "55",
       "65"
     ],
+    "difficulty": 3,
+    "sequencePriority": 2,
     "correct": 1,
     "explanation": "Altogether means join the groups: 38 + 17 = 55.\nHint: Look for whether the story joins or separates amounts.",
     "structuredExplanation": {
       "summary": "Altogether means join the groups: 38 + 17 = 55.",
       "hint": "Look for whether the story joins or separates amounts."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m2n04-p-025",
+    "curriculumCode": "AC9M2N04",
+    "bank": "practice",
+    "skill": "at the school garden solve 24",
+    "printable": true,
+    "type": "single",
+    "question": "At the school garden, solve 24 + 12.",
+    "audioPrompt": "At the school garden, solve 24 + 12.",
+    "visual": "At the school garden, solve 24 + 12.",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": "At the school garden, solve 24 + 12."
+    },
+    "answers": [
+      "36",
+      "26",
+      "37"
+    ],
+    "correct": 0,
+    "explanation": "Add tens, then ones.\nHint: Use the information in the question to check your answer.",
+    "structuredExplanation": {
+      "summary": "Add tens, then ones.",
+      "hint": "Use the information in the question to check your answer."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m2n04-p-026",
+    "curriculumCode": "AC9M2N04",
+    "bank": "practice",
+    "skill": "during maths groups solve 40 13",
+    "printable": true,
+    "type": "single",
+    "question": "During maths groups, solve 40 - 13.",
+    "audioPrompt": "During maths groups, solve 40 - 13.",
+    "visual": "During maths groups, solve 40 - 13.",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": "During maths groups, solve 40 - 13."
+    },
+    "answers": [
+      "37",
+      "13",
+      "27"
+    ],
+    "correct": 2,
+    "explanation": "Subtraction can undo addition.\nHint: Use the information in the question to check your answer.",
+    "structuredExplanation": {
+      "summary": "Subtraction can undo addition.",
+      "hint": "Use the information in the question to check your answer."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m2n04-p-027",
+    "curriculumCode": "AC9M2N04",
+    "bank": "practice",
+    "skill": "at the art table solve 30",
+    "printable": true,
+    "type": "single",
+    "question": "At the art table, solve 30 + 14.",
+    "audioPrompt": "At the art table, solve 30 + 14.",
+    "visual": "At the art table, solve 30 + 14.",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": "At the art table, solve 30 + 14."
+    },
+    "answers": [
+      "45",
+      "44",
+      "34"
+    ],
+    "correct": 1,
+    "explanation": "Add tens, then ones.\nHint: Use the information in the question to check your answer.",
+    "structuredExplanation": {
+      "summary": "Add tens, then ones.",
+      "hint": "Use the information in the question to check your answer."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m2n04-p-028",
+    "curriculumCode": "AC9M2N04",
+    "bank": "practice",
+    "skill": "in the playground solve 48 15",
+    "printable": true,
+    "type": "single",
+    "question": "In the playground, solve 48 - 15.",
+    "audioPrompt": "In the playground, solve 48 - 15.",
+    "visual": "In the playground, solve 48 - 15.",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": "In the playground, solve 48 - 15."
+    },
+    "answers": [
+      "33",
+      "43",
+      "15"
+    ],
+    "correct": 0,
+    "explanation": "Subtraction can undo addition.\nHint: Use the information in the question to check your answer.",
+    "structuredExplanation": {
+      "summary": "Subtraction can undo addition.",
+      "hint": "Use the information in the question to check your answer."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m2n04-p-029",
+    "curriculumCode": "AC9M2N04",
+    "bank": "practice",
+    "skill": "at the library solve 36 16",
+    "printable": true,
+    "type": "single",
+    "question": "At the library, solve 36 + 16.",
+    "audioPrompt": "At the library, solve 36 + 16.",
+    "visual": "At the library, solve 36 + 16.",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": "At the library, solve 36 + 16."
+    },
+    "answers": [
+      "42",
+      "53",
+      "52"
+    ],
+    "correct": 2,
+    "explanation": "Add tens, then ones.\nHint: Use the information in the question to check your answer.",
+    "structuredExplanation": {
+      "summary": "Add tens, then ones.",
+      "hint": "Use the information in the question to check your answer."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m2n04-p-030",
+    "curriculumCode": "AC9M2N04",
+    "bank": "practice",
+    "skill": "during sport solve 56 17",
+    "printable": true,
+    "type": "single",
+    "question": "During sport, solve 56 - 17.",
+    "audioPrompt": "During sport, solve 56 - 17.",
+    "visual": "During sport, solve 56 - 17.",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": "During sport, solve 56 - 17."
+    },
+    "answers": [
+      "17",
+      "39",
+      "49"
+    ],
+    "correct": 1,
+    "explanation": "Subtraction can undo addition.\nHint: Use the information in the question to check your answer.",
+    "structuredExplanation": {
+      "summary": "Subtraction can undo addition.",
+      "hint": "Use the information in the question to check your answer."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m2n04-p-031",
+    "curriculumCode": "AC9M2N04",
+    "bank": "practice",
+    "skill": "at the class shop solve 42",
+    "printable": true,
+    "type": "single",
+    "question": "At the class shop, solve 42 + 18.",
+    "audioPrompt": "At the class shop, solve 42 + 18.",
+    "visual": "At the class shop, solve 42 + 18.",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": "At the class shop, solve 42 + 18."
+    },
+    "answers": [
+      "60",
+      "50",
+      "61"
+    ],
+    "correct": 0,
+    "explanation": "Add tens, then ones.\nHint: Use the information in the question to check your answer.",
+    "structuredExplanation": {
+      "summary": "Add tens, then ones.",
+      "hint": "Use the information in the question to check your answer."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m2n04-p-032",
+    "curriculumCode": "AC9M2N04",
+    "bank": "practice",
+    "skill": "on the picnic rug solve 64",
+    "printable": true,
+    "type": "single",
+    "question": "On the picnic rug, solve 64 - 19.",
+    "audioPrompt": "On the picnic rug, solve 64 - 19.",
+    "visual": "On the picnic rug, solve 64 - 19.",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": "On the picnic rug, solve 64 - 19."
+    },
+    "answers": [
+      "55",
+      "19",
+      "45"
+    ],
+    "correct": 2,
+    "explanation": "Subtraction can undo addition.\nHint: Use the information in the question to check your answer.",
+    "structuredExplanation": {
+      "summary": "Subtraction can undo addition.",
+      "hint": "Use the information in the question to check your answer."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m2n04-p-033",
+    "curriculumCode": "AC9M2N04",
+    "bank": "practice",
+    "skill": "at the block table solve 48",
+    "printable": true,
+    "type": "single",
+    "question": "At the block table, solve 48 + 20.",
+    "audioPrompt": "At the block table, solve 48 + 20.",
+    "visual": "At the block table, solve 48 + 20.",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": "At the block table, solve 48 + 20."
+    },
+    "answers": [
+      "69",
+      "68",
+      "58"
+    ],
+    "correct": 1,
+    "explanation": "Add tens, then ones.\nHint: Use the information in the question to check your answer.",
+    "structuredExplanation": {
+      "summary": "Add tens, then ones.",
+      "hint": "Use the information in the question to check your answer."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m2n04-p-034",
+    "curriculumCode": "AC9M2N04",
+    "bank": "practice",
+    "skill": "in the lunch area solve 72",
+    "printable": true,
+    "type": "single",
+    "question": "In the lunch area, solve 72 - 21.",
+    "audioPrompt": "In the lunch area, solve 72 - 21.",
+    "visual": "In the lunch area, solve 72 - 21.",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": "In the lunch area, solve 72 - 21."
+    },
+    "answers": [
+      "51",
+      "61",
+      "21"
+    ],
+    "correct": 0,
+    "explanation": "Subtraction can undo addition.\nHint: Use the information in the question to check your answer.",
+    "structuredExplanation": {
+      "summary": "Subtraction can undo addition.",
+      "hint": "Use the information in the question to check your answer."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m2n04-p-035",
+    "curriculumCode": "AC9M2N04",
+    "bank": "practice",
+    "skill": "at the science table solve 54",
+    "printable": true,
+    "type": "single",
+    "question": "At the science table, solve 54 + 22.",
+    "audioPrompt": "At the science table, solve 54 + 22.",
+    "visual": "At the science table, solve 54 + 22.",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": "At the science table, solve 54 + 22."
+    },
+    "answers": [
+      "66",
+      "77",
+      "76"
+    ],
+    "correct": 2,
+    "explanation": "Add tens, then ones.\nHint: Use the information in the question to check your answer.",
+    "structuredExplanation": {
+      "summary": "Add tens, then ones.",
+      "hint": "Use the information in the question to check your answer."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m2n04-p-036",
+    "curriculumCode": "AC9M2N04",
+    "bank": "practice",
+    "skill": "during a card game solve 80",
+    "printable": true,
+    "type": "single",
+    "question": "During a card game, solve 80 - 23.",
+    "audioPrompt": "During a card game, solve 80 - 23.",
+    "visual": "During a card game, solve 80 - 23.",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": "During a card game, solve 80 - 23."
+    },
+    "answers": [
+      "23",
+      "57",
+      "67"
+    ],
+    "correct": 1,
+    "explanation": "Subtraction can undo addition.\nHint: Use the information in the question to check your answer.",
+    "structuredExplanation": {
+      "summary": "Subtraction can undo addition.",
+      "hint": "Use the information in the question to check your answer."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m2n04-p-037",
+    "curriculumCode": "AC9M2N04",
+    "bank": "practice",
+    "skill": "at the school garden solve 60",
+    "printable": true,
+    "type": "single",
+    "question": "At the school garden, solve 60 + 24.",
+    "audioPrompt": "At the school garden, solve 60 + 24.",
+    "visual": "At the school garden, solve 60 + 24.",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": "At the school garden, solve 60 + 24."
+    },
+    "answers": [
+      "84",
+      "74",
+      "85"
+    ],
+    "correct": 0,
+    "explanation": "Add tens, then ones.\nHint: Use the information in the question to check your answer.",
+    "structuredExplanation": {
+      "summary": "Add tens, then ones.",
+      "hint": "Use the information in the question to check your answer."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m2n04-p-038",
+    "curriculumCode": "AC9M2N04",
+    "bank": "practice",
+    "skill": "during maths groups solve 88 25",
+    "printable": true,
+    "type": "single",
+    "question": "During maths groups, solve 88 - 25.",
+    "audioPrompt": "During maths groups, solve 88 - 25.",
+    "visual": "During maths groups, solve 88 - 25.",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": "During maths groups, solve 88 - 25."
+    },
+    "answers": [
+      "73",
+      "25",
+      "63"
+    ],
+    "correct": 2,
+    "explanation": "Subtraction can undo addition.\nHint: Use the information in the question to check your answer.",
+    "structuredExplanation": {
+      "summary": "Subtraction can undo addition.",
+      "hint": "Use the information in the question to check your answer."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m2n04-p-039",
+    "curriculumCode": "AC9M2N04",
+    "bank": "practice",
+    "skill": "at the art table solve 66",
+    "printable": true,
+    "type": "single",
+    "question": "At the art table, solve 66 + 26.",
+    "audioPrompt": "At the art table, solve 66 + 26.",
+    "visual": "At the art table, solve 66 + 26.",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": "At the art table, solve 66 + 26."
+    },
+    "answers": [
+      "93",
+      "92",
+      "82"
+    ],
+    "correct": 1,
+    "explanation": "Add tens, then ones.\nHint: Use the information in the question to check your answer.",
+    "structuredExplanation": {
+      "summary": "Add tens, then ones.",
+      "hint": "Use the information in the question to check your answer."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m2n04-p-040",
+    "curriculumCode": "AC9M2N04",
+    "bank": "practice",
+    "skill": "in the playground solve 96 27",
+    "printable": true,
+    "type": "single",
+    "question": "In the playground, solve 96 - 27.",
+    "audioPrompt": "In the playground, solve 96 - 27.",
+    "visual": "In the playground, solve 96 - 27.",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": "In the playground, solve 96 - 27."
+    },
+    "answers": [
+      "69",
+      "79",
+      "27"
+    ],
+    "correct": 0,
+    "explanation": "Subtraction can undo addition.\nHint: Use the information in the question to check your answer.",
+    "structuredExplanation": {
+      "summary": "Subtraction can undo addition.",
+      "hint": "Use the information in the question to check your answer."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m2n04-p-041",
+    "curriculumCode": "AC9M2N04",
+    "bank": "practice",
+    "skill": "at the library solve 72 28",
+    "printable": true,
+    "type": "single",
+    "question": "At the library, solve 72 + 28.",
+    "audioPrompt": "At the library, solve 72 + 28.",
+    "visual": "At the library, solve 72 + 28.",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": "At the library, solve 72 + 28."
+    },
+    "answers": [
+      "90",
+      "101",
+      "100"
+    ],
+    "correct": 2,
+    "explanation": "Add tens, then ones.\nHint: Use the information in the question to check your answer.",
+    "structuredExplanation": {
+      "summary": "Add tens, then ones.",
+      "hint": "Use the information in the question to check your answer."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m2n04-p-042",
+    "curriculumCode": "AC9M2N04",
+    "bank": "practice",
+    "skill": "during sport solve 54 29",
+    "printable": true,
+    "type": "single",
+    "question": "During sport, solve 54 - 29.",
+    "audioPrompt": "During sport, solve 54 - 29.",
+    "visual": "During sport, solve 54 - 29.",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": "During sport, solve 54 - 29."
+    },
+    "answers": [
+      "29",
+      "25",
+      "35"
+    ],
+    "correct": 1,
+    "explanation": "Subtraction can undo addition.\nHint: Use the information in the question to check your answer.",
+    "structuredExplanation": {
+      "summary": "Subtraction can undo addition.",
+      "hint": "Use the information in the question to check your answer."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m2n04-p-043",
+    "curriculumCode": "AC9M2N04",
+    "bank": "practice",
+    "skill": "at the class shop solve 28",
+    "printable": true,
+    "type": "single",
+    "question": "At the class shop, solve 28 + 30.",
+    "audioPrompt": "At the class shop, solve 28 + 30.",
+    "visual": "At the class shop, solve 28 + 30.",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": "At the class shop, solve 28 + 30."
+    },
+    "answers": [
+      "58",
+      "48",
+      "59"
+    ],
+    "correct": 0,
+    "explanation": "Add tens, then ones.\nHint: Use the information in the question to check your answer.",
+    "structuredExplanation": {
+      "summary": "Add tens, then ones.",
+      "hint": "Use the information in the question to check your answer."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m2n04-p-044",
+    "curriculumCode": "AC9M2N04",
+    "bank": "practice",
+    "skill": "on the picnic rug solve 62",
+    "printable": true,
+    "type": "single",
+    "question": "On the picnic rug, solve 62 - 31.",
+    "audioPrompt": "On the picnic rug, solve 62 - 31.",
+    "visual": "On the picnic rug, solve 62 - 31.",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": "On the picnic rug, solve 62 - 31."
+    },
+    "answers": [
+      "41",
+      "32",
+      "31"
+    ],
+    "correct": 2,
+    "explanation": "Subtraction can undo addition.\nHint: Use the information in the question to check your answer.",
+    "structuredExplanation": {
+      "summary": "Subtraction can undo addition.",
+      "hint": "Use the information in the question to check your answer."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m2n04-p-045",
+    "curriculumCode": "AC9M2N04",
+    "bank": "practice",
+    "skill": "at the block table solve 34",
+    "printable": true,
+    "type": "single",
+    "question": "At the block table, solve 34 + 32.",
+    "audioPrompt": "At the block table, solve 34 + 32.",
+    "visual": "At the block table, solve 34 + 32.",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": "At the block table, solve 34 + 32."
+    },
+    "answers": [
+      "67",
+      "66",
+      "56"
+    ],
+    "correct": 1,
+    "explanation": "Add tens, then ones.\nHint: Use the information in the question to check your answer.",
+    "structuredExplanation": {
+      "summary": "Add tens, then ones.",
+      "hint": "Use the information in the question to check your answer."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m2n04-p-046",
+    "curriculumCode": "AC9M2N04",
+    "bank": "practice",
+    "skill": "in the lunch area solve 70",
+    "printable": true,
+    "type": "single",
+    "question": "In the lunch area, solve 70 - 33.",
+    "audioPrompt": "In the lunch area, solve 70 - 33.",
+    "visual": "In the lunch area, solve 70 - 33.",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": "In the lunch area, solve 70 - 33."
+    },
+    "answers": [
+      "37",
+      "47",
+      "33"
+    ],
+    "correct": 0,
+    "explanation": "Subtraction can undo addition.\nHint: Use the information in the question to check your answer.",
+    "structuredExplanation": {
+      "summary": "Subtraction can undo addition.",
+      "hint": "Use the information in the question to check your answer."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m2n04-p-047",
+    "curriculumCode": "AC9M2N04",
+    "bank": "practice",
+    "skill": "at the science table solve 40",
+    "printable": true,
+    "type": "single",
+    "question": "At the science table, solve 40 + 34.",
+    "audioPrompt": "At the science table, solve 40 + 34.",
+    "visual": "At the science table, solve 40 + 34.",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": "At the science table, solve 40 + 34."
+    },
+    "answers": [
+      "64",
+      "75",
+      "74"
+    ],
+    "correct": 2,
+    "explanation": "Add tens, then ones.\nHint: Use the information in the question to check your answer.",
+    "structuredExplanation": {
+      "summary": "Add tens, then ones.",
+      "hint": "Use the information in the question to check your answer."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m2n04-p-048",
+    "curriculumCode": "AC9M2N04",
+    "bank": "practice",
+    "skill": "during a card game solve 78",
+    "printable": true,
+    "type": "single",
+    "question": "During a card game, solve 78 - 35.",
+    "audioPrompt": "During a card game, solve 78 - 35.",
+    "visual": "During a card game, solve 78 - 35.",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": "During a card game, solve 78 - 35."
+    },
+    "answers": [
+      "35",
+      "43",
+      "53"
+    ],
+    "correct": 1,
+    "explanation": "Subtraction can undo addition.\nHint: Use the information in the question to check your answer.",
+    "structuredExplanation": {
+      "summary": "Subtraction can undo addition.",
+      "hint": "Use the information in the question to check your answer."
     },
     "qualitySchema": "production-v1"
   }

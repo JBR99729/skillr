@@ -21,6 +21,9 @@ window.skillrPracticeQuestions = [
       "207",
       "234"
     ],
+    "difficulty": 1,
+    "difficultyTier": "confidence",
+    "sequencePriority": 1,
     "correct": 2,
     "explanation": "2 hundreds, 3 tens and 4 ones make 234.\nHint: Write the hundreds digit, then tens, then ones.",
     "structuredExplanation": {
@@ -50,6 +53,9 @@ window.skillrPracticeQuestions = [
       "200 + 40 + 3",
       "20 + 3 + 4"
     ],
+    "difficulty": 1,
+    "difficultyTier": "confidence",
+    "sequencePriority": 1,
     "correct": 0,
     "explanation": "The digits show 200, 30 and 4.\nHint: Use the place of each digit to find its value.",
     "structuredExplanation": {
@@ -79,6 +85,9 @@ window.skillrPracticeQuestions = [
       "242",
       "They are equal"
     ],
+    "difficulty": 1,
+    "difficultyTier": "confidence",
+    "sequencePriority": 1,
     "correct": 1,
     "explanation": "Both have 2 hundreds. 242 has more tens, so it is greater.\nHint: Compare hundreds first, then tens, then ones.",
     "structuredExplanation": {
@@ -108,6 +117,9 @@ window.skillrPracticeQuestions = [
       "290",
       "250"
     ],
+    "difficulty": 1,
+    "difficultyTier": "confidence",
+    "sequencePriority": 1,
     "correct": 2,
     "explanation": "250 is 50 more than 200 and 50 less than 300.\nHint: Half of 100 is 50.",
     "structuredExplanation": {
@@ -137,6 +149,9 @@ window.skillrPracticeQuestions = [
       "264, 234, 134",
       "234, 134, 264"
     ],
+    "difficulty": 1,
+    "difficultyTier": "confidence",
+    "sequencePriority": 1,
     "correct": 0,
     "explanation": "Compare the hundreds first. The order is 134, 234, 264.\nHint: Find the number with the fewest hundreds first.",
     "structuredExplanation": {
@@ -166,6 +181,9 @@ window.skillrPracticeQuestions = [
       "244",
       "334"
     ],
+    "difficulty": 1,
+    "difficultyTier": "confidence",
+    "sequencePriority": 1,
     "correct": 1,
     "explanation": "Adding 10 increases the tens place by 1: 234 becomes 244.\nHint: Keep the hundreds and ones the same.",
     "structuredExplanation": {
@@ -195,6 +213,9 @@ window.skillrPracticeQuestions = [
       "There are no ones",
       "There are no tens"
     ],
+    "difficulty": 1,
+    "difficultyTier": "confidence",
+    "sequencePriority": 1,
     "correct": 2,
     "explanation": "The 0 is in the tens place, so the number has no tens.\nHint: Read the place-value columns: hundreds, tens, ones.",
     "structuredExplanation": {
@@ -224,6 +245,9 @@ window.skillrPracticeQuestions = [
       "240",
       "24"
     ],
+    "difficulty": 1,
+    "difficultyTier": "confidence",
+    "sequencePriority": 1,
     "correct": 0,
     "explanation": "With no tens, a zero keeps the tens place: 204.\nHint: Leave a zero in the tens column.",
     "structuredExplanation": {
@@ -253,6 +277,8 @@ window.skillrPracticeQuestions = [
       "345",
       "309"
     ],
+    "difficulty": 3,
+    "sequencePriority": 2,
     "correct": 1,
     "explanation": "3 hundreds, 4 tens and 5 ones make 345.\nHint: Write the hundreds digit, then tens, then ones.",
     "structuredExplanation": {
@@ -282,6 +308,8 @@ window.skillrPracticeQuestions = [
       "30 + 4 + 5",
       "300 + 40 + 5"
     ],
+    "difficulty": 3,
+    "sequencePriority": 2,
     "correct": 2,
     "explanation": "The digits show 300, 40 and 5.\nHint: Use the place of each digit to find its value.",
     "structuredExplanation": {
@@ -311,6 +339,8 @@ window.skillrPracticeQuestions = [
       "345",
       "They are equal"
     ],
+    "difficulty": 3,
+    "sequencePriority": 2,
     "correct": 0,
     "explanation": "Both have 3 hundreds. 353 has more tens, so it is greater.\nHint: Compare hundreds first, then tens, then ones.",
     "structuredExplanation": {
@@ -340,6 +370,8 @@ window.skillrPracticeQuestions = [
       "350",
       "390"
     ],
+    "difficulty": 3,
+    "sequencePriority": 2,
     "correct": 1,
     "explanation": "350 is 50 more than 300 and 50 less than 400.\nHint: Half of 100 is 50.",
     "structuredExplanation": {
@@ -369,6 +401,8 @@ window.skillrPracticeQuestions = [
       "345, 245, 375",
       "245, 345, 375"
     ],
+    "difficulty": 3,
+    "sequencePriority": 2,
     "correct": 2,
     "explanation": "Compare the hundreds first. The order is 245, 345, 375.\nHint: Find the number with the fewest hundreds first.",
     "structuredExplanation": {
@@ -398,6 +432,8 @@ window.skillrPracticeQuestions = [
       "346",
       "445"
     ],
+    "difficulty": 3,
+    "sequencePriority": 2,
     "correct": 0,
     "explanation": "Adding 10 increases the tens place by 1: 345 becomes 355.\nHint: Keep the hundreds and ones the same.",
     "structuredExplanation": {
@@ -427,6 +463,8 @@ window.skillrPracticeQuestions = [
       "There are no tens",
       "There are no ones"
     ],
+    "difficulty": 3,
+    "sequencePriority": 2,
     "correct": 1,
     "explanation": "The 0 is in the tens place, so the number has no tens.\nHint: Read the place-value columns: hundreds, tens, ones.",
     "structuredExplanation": {
@@ -456,6 +494,8 @@ window.skillrPracticeQuestions = [
       "35",
       "305"
     ],
+    "difficulty": 3,
+    "sequencePriority": 2,
     "correct": 2,
     "explanation": "With no tens, a zero keeps the tens place: 305.\nHint: Leave a zero in the tens column.",
     "structuredExplanation": {
@@ -485,6 +525,8 @@ window.skillrPracticeQuestions = [
       "465",
       "411"
     ],
+    "difficulty": 3,
+    "sequencePriority": 2,
     "correct": 0,
     "explanation": "4 hundreds, 5 tens and 6 ones make 456.\nHint: Write the hundreds digit, then tens, then ones.",
     "structuredExplanation": {
@@ -514,6 +556,8 @@ window.skillrPracticeQuestions = [
       "400 + 50 + 6",
       "40 + 5 + 6"
     ],
+    "difficulty": 3,
+    "sequencePriority": 2,
     "correct": 1,
     "explanation": "The digits show 400, 50 and 6.\nHint: Use the place of each digit to find its value.",
     "structuredExplanation": {
@@ -543,6 +587,8 @@ window.skillrPracticeQuestions = [
       "They are equal",
       "464"
     ],
+    "difficulty": 3,
+    "sequencePriority": 2,
     "correct": 2,
     "explanation": "Both have 4 hundreds. 464 has more tens, so it is greater.\nHint: Compare hundreds first, then tens, then ones.",
     "structuredExplanation": {
@@ -572,6 +618,8 @@ window.skillrPracticeQuestions = [
       "405",
       "490"
     ],
+    "difficulty": 3,
+    "sequencePriority": 2,
     "correct": 0,
     "explanation": "450 is 50 more than 400 and 50 less than 500.\nHint: Half of 100 is 50.",
     "structuredExplanation": {
@@ -601,6 +649,8 @@ window.skillrPracticeQuestions = [
       "356, 456, 486",
       "456, 356, 486"
     ],
+    "difficulty": 3,
+    "sequencePriority": 2,
     "correct": 1,
     "explanation": "Compare the hundreds first. The order is 356, 456, 486.\nHint: Find the number with the fewest hundreds first.",
     "structuredExplanation": {
@@ -630,6 +680,8 @@ window.skillrPracticeQuestions = [
       "556",
       "466"
     ],
+    "difficulty": 3,
+    "sequencePriority": 2,
     "correct": 2,
     "explanation": "Adding 10 increases the tens place by 1: 456 becomes 466.\nHint: Keep the hundreds and ones the same.",
     "structuredExplanation": {
@@ -659,6 +711,8 @@ window.skillrPracticeQuestions = [
       "There are no hundreds",
       "There are no ones"
     ],
+    "difficulty": 3,
+    "sequencePriority": 2,
     "correct": 0,
     "explanation": "The 0 is in the tens place, so the number has no tens.\nHint: Read the place-value columns: hundreds, tens, ones.",
     "structuredExplanation": {
@@ -688,11 +742,685 @@ window.skillrPracticeQuestions = [
       "406",
       "46"
     ],
+    "difficulty": 3,
+    "sequencePriority": 2,
     "correct": 1,
     "explanation": "With no tens, a zero keeps the tens place: 406.\nHint: Leave a zero in the tens column.",
     "structuredExplanation": {
       "summary": "With no tens, a zero keeps the tens place: 406.",
       "hint": "Leave a zero in the tens column."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m2n01-p-025",
+    "curriculumCode": "AC9M2N01",
+    "bank": "practice",
+    "skill": "at the school garden what is",
+    "printable": true,
+    "type": "single",
+    "question": "At the school garden, what is 10 more than 120?",
+    "audioPrompt": "At the school garden, what is 10 more than 120?",
+    "visual": "At the school garden, what is 10 more than 120?",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": "At the school garden, what is 10 more than 120?"
+    },
+    "answers": [
+      "130",
+      "121",
+      "220"
+    ],
+    "correct": 0,
+    "explanation": "Use hundreds, tens and ones.\nHint: Use the information in the question to check your answer.",
+    "structuredExplanation": {
+      "summary": "Use hundreds, tens and ones.",
+      "hint": "Use the information in the question to check your answer."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m2n01-p-026",
+    "curriculumCode": "AC9M2N01",
+    "bank": "practice",
+    "skill": "during maths groups what is 100",
+    "printable": true,
+    "type": "single",
+    "question": "During maths groups, what is 100 less than 157?",
+    "audioPrompt": "During maths groups, what is 100 less than 157?",
+    "visual": "During maths groups, what is 100 less than 157?",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": "During maths groups, what is 100 less than 157?"
+    },
+    "answers": [
+      "147",
+      "257",
+      "57"
+    ],
+    "correct": 2,
+    "explanation": "Use hundreds, tens and ones.\nHint: Use the information in the question to check your answer.",
+    "structuredExplanation": {
+      "summary": "Use hundreds, tens and ones.",
+      "hint": "Use the information in the question to check your answer."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m2n01-p-027",
+    "curriculumCode": "AC9M2N01",
+    "bank": "practice",
+    "skill": "at the art table which number",
+    "printable": true,
+    "type": "single",
+    "question": "At the art table, which number has 1 hundreds, 9 tens and 4 ones?",
+    "audioPrompt": "At the art table, which number has 1 hundreds, 9 tens and 4 ones?",
+    "visual": "At the art table, which number has 1 hundreds, 9 tens and 4 ones?",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": "At the art table, which number has 1 hundreds, 9 tens and 4 ones?"
+    },
+    "answers": [
+      "184",
+      "194",
+      "204"
+    ],
+    "correct": 1,
+    "explanation": "Use hundreds, tens and ones.\nHint: Use the information in the question to check your answer.",
+    "structuredExplanation": {
+      "summary": "Use hundreds, tens and ones.",
+      "hint": "Use the information in the question to check your answer."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m2n01-p-028",
+    "curriculumCode": "AC9M2N01",
+    "bank": "practice",
+    "skill": "in the playground what is 10",
+    "printable": true,
+    "type": "single",
+    "question": "In the playground, what is 10 more than 231?",
+    "audioPrompt": "In the playground, what is 10 more than 231?",
+    "visual": "In the playground, what is 10 more than 231?",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": "In the playground, what is 10 more than 231?"
+    },
+    "answers": [
+      "241",
+      "232",
+      "331"
+    ],
+    "correct": 0,
+    "explanation": "Use hundreds, tens and ones.\nHint: Use the information in the question to check your answer.",
+    "structuredExplanation": {
+      "summary": "Use hundreds, tens and ones.",
+      "hint": "Use the information in the question to check your answer."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m2n01-p-029",
+    "curriculumCode": "AC9M2N01",
+    "bank": "practice",
+    "skill": "at the library what is 100",
+    "printable": true,
+    "type": "single",
+    "question": "At the library, what is 100 less than 268?",
+    "audioPrompt": "At the library, what is 100 less than 268?",
+    "visual": "At the library, what is 100 less than 268?",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": "At the library, what is 100 less than 268?"
+    },
+    "answers": [
+      "258",
+      "368",
+      "168"
+    ],
+    "correct": 2,
+    "explanation": "Use hundreds, tens and ones.\nHint: Use the information in the question to check your answer.",
+    "structuredExplanation": {
+      "summary": "Use hundreds, tens and ones.",
+      "hint": "Use the information in the question to check your answer."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m2n01-p-030",
+    "curriculumCode": "AC9M2N01",
+    "bank": "practice",
+    "skill": "during sport which number has 3",
+    "printable": true,
+    "type": "single",
+    "question": "During sport, which number has 3 hundreds, 0 tens and 5 ones?",
+    "audioPrompt": "During sport, which number has 3 hundreds, 0 tens and 5 ones?",
+    "visual": "During sport, which number has 3 hundreds, 0 tens and 5 ones?",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": "During sport, which number has 3 hundreds, 0 tens and 5 ones?"
+    },
+    "answers": [
+      "295",
+      "305",
+      "315"
+    ],
+    "correct": 1,
+    "explanation": "Use hundreds, tens and ones.\nHint: Use the information in the question to check your answer.",
+    "structuredExplanation": {
+      "summary": "Use hundreds, tens and ones.",
+      "hint": "Use the information in the question to check your answer."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m2n01-p-031",
+    "curriculumCode": "AC9M2N01",
+    "bank": "practice",
+    "skill": "at the class shop what is",
+    "printable": true,
+    "type": "single",
+    "question": "At the class shop, what is 10 more than 342?",
+    "audioPrompt": "At the class shop, what is 10 more than 342?",
+    "visual": "At the class shop, what is 10 more than 342?",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": "At the class shop, what is 10 more than 342?"
+    },
+    "answers": [
+      "352",
+      "343",
+      "442"
+    ],
+    "correct": 0,
+    "explanation": "Use hundreds, tens and ones.\nHint: Use the information in the question to check your answer.",
+    "structuredExplanation": {
+      "summary": "Use hundreds, tens and ones.",
+      "hint": "Use the information in the question to check your answer."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m2n01-p-032",
+    "curriculumCode": "AC9M2N01",
+    "bank": "practice",
+    "skill": "on the picnic rug what is",
+    "printable": true,
+    "type": "single",
+    "question": "On the picnic rug, what is 100 less than 379?",
+    "audioPrompt": "On the picnic rug, what is 100 less than 379?",
+    "visual": "On the picnic rug, what is 100 less than 379?",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": "On the picnic rug, what is 100 less than 379?"
+    },
+    "answers": [
+      "369",
+      "479",
+      "279"
+    ],
+    "correct": 2,
+    "explanation": "Use hundreds, tens and ones.\nHint: Use the information in the question to check your answer.",
+    "structuredExplanation": {
+      "summary": "Use hundreds, tens and ones.",
+      "hint": "Use the information in the question to check your answer."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m2n01-p-033",
+    "curriculumCode": "AC9M2N01",
+    "bank": "practice",
+    "skill": "at the block table which number",
+    "printable": true,
+    "type": "single",
+    "question": "At the block table, which number has 4 hundreds, 1 tens and 6 ones?",
+    "audioPrompt": "At the block table, which number has 4 hundreds, 1 tens and 6 ones?",
+    "visual": "At the block table, which number has 4 hundreds, 1 tens and 6 ones?",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": "At the block table, which number has 4 hundreds, 1 tens and 6 ones?"
+    },
+    "answers": [
+      "406",
+      "416",
+      "426"
+    ],
+    "correct": 1,
+    "explanation": "Use hundreds, tens and ones.\nHint: Use the information in the question to check your answer.",
+    "structuredExplanation": {
+      "summary": "Use hundreds, tens and ones.",
+      "hint": "Use the information in the question to check your answer."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m2n01-p-034",
+    "curriculumCode": "AC9M2N01",
+    "bank": "practice",
+    "skill": "in the lunch area what is",
+    "printable": true,
+    "type": "single",
+    "question": "In the lunch area, what is 10 more than 453?",
+    "audioPrompt": "In the lunch area, what is 10 more than 453?",
+    "visual": "In the lunch area, what is 10 more than 453?",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": "In the lunch area, what is 10 more than 453?"
+    },
+    "answers": [
+      "463",
+      "454",
+      "553"
+    ],
+    "correct": 0,
+    "explanation": "Use hundreds, tens and ones.\nHint: Use the information in the question to check your answer.",
+    "structuredExplanation": {
+      "summary": "Use hundreds, tens and ones.",
+      "hint": "Use the information in the question to check your answer."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m2n01-p-035",
+    "curriculumCode": "AC9M2N01",
+    "bank": "practice",
+    "skill": "at the science table what is",
+    "printable": true,
+    "type": "single",
+    "question": "At the science table, what is 100 less than 490?",
+    "audioPrompt": "At the science table, what is 100 less than 490?",
+    "visual": "At the science table, what is 100 less than 490?",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": "At the science table, what is 100 less than 490?"
+    },
+    "answers": [
+      "480",
+      "590",
+      "390"
+    ],
+    "correct": 2,
+    "explanation": "Use hundreds, tens and ones.\nHint: Use the information in the question to check your answer.",
+    "structuredExplanation": {
+      "summary": "Use hundreds, tens and ones.",
+      "hint": "Use the information in the question to check your answer."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m2n01-p-036",
+    "curriculumCode": "AC9M2N01",
+    "bank": "practice",
+    "skill": "during a card game which number",
+    "printable": true,
+    "type": "single",
+    "question": "During a card game, which number has 5 hundreds, 2 tens and 7 ones?",
+    "audioPrompt": "During a card game, which number has 5 hundreds, 2 tens and 7 ones?",
+    "visual": "During a card game, which number has 5 hundreds, 2 tens and 7 ones?",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": "During a card game, which number has 5 hundreds, 2 tens and 7 ones?"
+    },
+    "answers": [
+      "517",
+      "527",
+      "537"
+    ],
+    "correct": 1,
+    "explanation": "Use hundreds, tens and ones.\nHint: Use the information in the question to check your answer.",
+    "structuredExplanation": {
+      "summary": "Use hundreds, tens and ones.",
+      "hint": "Use the information in the question to check your answer."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m2n01-p-037",
+    "curriculumCode": "AC9M2N01",
+    "bank": "practice",
+    "skill": "at the school garden what is",
+    "printable": true,
+    "type": "single",
+    "question": "At the school garden, what is 10 more than 564?",
+    "audioPrompt": "At the school garden, what is 10 more than 564?",
+    "visual": "At the school garden, what is 10 more than 564?",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": "At the school garden, what is 10 more than 564?"
+    },
+    "answers": [
+      "574",
+      "565",
+      "664"
+    ],
+    "correct": 0,
+    "explanation": "Use hundreds, tens and ones.\nHint: Use the information in the question to check your answer.",
+    "structuredExplanation": {
+      "summary": "Use hundreds, tens and ones.",
+      "hint": "Use the information in the question to check your answer."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m2n01-p-038",
+    "curriculumCode": "AC9M2N01",
+    "bank": "practice",
+    "skill": "during maths groups what is 100",
+    "printable": true,
+    "type": "single",
+    "question": "During maths groups, what is 100 less than 601?",
+    "audioPrompt": "During maths groups, what is 100 less than 601?",
+    "visual": "During maths groups, what is 100 less than 601?",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": "During maths groups, what is 100 less than 601?"
+    },
+    "answers": [
+      "591",
+      "701",
+      "501"
+    ],
+    "correct": 2,
+    "explanation": "Use hundreds, tens and ones.\nHint: Use the information in the question to check your answer.",
+    "structuredExplanation": {
+      "summary": "Use hundreds, tens and ones.",
+      "hint": "Use the information in the question to check your answer."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m2n01-p-039",
+    "curriculumCode": "AC9M2N01",
+    "bank": "practice",
+    "skill": "at the art table which number",
+    "printable": true,
+    "type": "single",
+    "question": "At the art table, which number has 6 hundreds, 3 tens and 8 ones?",
+    "audioPrompt": "At the art table, which number has 6 hundreds, 3 tens and 8 ones?",
+    "visual": "At the art table, which number has 6 hundreds, 3 tens and 8 ones?",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": "At the art table, which number has 6 hundreds, 3 tens and 8 ones?"
+    },
+    "answers": [
+      "628",
+      "638",
+      "648"
+    ],
+    "correct": 1,
+    "explanation": "Use hundreds, tens and ones.\nHint: Use the information in the question to check your answer.",
+    "structuredExplanation": {
+      "summary": "Use hundreds, tens and ones.",
+      "hint": "Use the information in the question to check your answer."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m2n01-p-040",
+    "curriculumCode": "AC9M2N01",
+    "bank": "practice",
+    "skill": "in the playground what is 10",
+    "printable": true,
+    "type": "single",
+    "question": "In the playground, what is 10 more than 675?",
+    "audioPrompt": "In the playground, what is 10 more than 675?",
+    "visual": "In the playground, what is 10 more than 675?",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": "In the playground, what is 10 more than 675?"
+    },
+    "answers": [
+      "685",
+      "676",
+      "775"
+    ],
+    "correct": 0,
+    "explanation": "Use hundreds, tens and ones.\nHint: Use the information in the question to check your answer.",
+    "structuredExplanation": {
+      "summary": "Use hundreds, tens and ones.",
+      "hint": "Use the information in the question to check your answer."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m2n01-p-041",
+    "curriculumCode": "AC9M2N01",
+    "bank": "practice",
+    "skill": "at the library what is 100",
+    "printable": true,
+    "type": "single",
+    "question": "At the library, what is 100 less than 712?",
+    "audioPrompt": "At the library, what is 100 less than 712?",
+    "visual": "At the library, what is 100 less than 712?",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": "At the library, what is 100 less than 712?"
+    },
+    "answers": [
+      "702",
+      "812",
+      "612"
+    ],
+    "correct": 2,
+    "explanation": "Use hundreds, tens and ones.\nHint: Use the information in the question to check your answer.",
+    "structuredExplanation": {
+      "summary": "Use hundreds, tens and ones.",
+      "hint": "Use the information in the question to check your answer."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m2n01-p-042",
+    "curriculumCode": "AC9M2N01",
+    "bank": "practice",
+    "skill": "during sport which number has 7",
+    "printable": true,
+    "type": "single",
+    "question": "During sport, which number has 7 hundreds, 4 tens and 9 ones?",
+    "audioPrompt": "During sport, which number has 7 hundreds, 4 tens and 9 ones?",
+    "visual": "During sport, which number has 7 hundreds, 4 tens and 9 ones?",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": "During sport, which number has 7 hundreds, 4 tens and 9 ones?"
+    },
+    "answers": [
+      "739",
+      "749",
+      "759"
+    ],
+    "correct": 1,
+    "explanation": "Use hundreds, tens and ones.\nHint: Use the information in the question to check your answer.",
+    "structuredExplanation": {
+      "summary": "Use hundreds, tens and ones.",
+      "hint": "Use the information in the question to check your answer."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m2n01-p-043",
+    "curriculumCode": "AC9M2N01",
+    "bank": "practice",
+    "skill": "at the class shop what is",
+    "printable": true,
+    "type": "single",
+    "question": "At the class shop, what is 10 more than 786?",
+    "audioPrompt": "At the class shop, what is 10 more than 786?",
+    "visual": "At the class shop, what is 10 more than 786?",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": "At the class shop, what is 10 more than 786?"
+    },
+    "answers": [
+      "796",
+      "787",
+      "886"
+    ],
+    "correct": 0,
+    "explanation": "Use hundreds, tens and ones.\nHint: Use the information in the question to check your answer.",
+    "structuredExplanation": {
+      "summary": "Use hundreds, tens and ones.",
+      "hint": "Use the information in the question to check your answer."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m2n01-p-044",
+    "curriculumCode": "AC9M2N01",
+    "bank": "practice",
+    "skill": "on the picnic rug what is",
+    "printable": true,
+    "type": "single",
+    "question": "On the picnic rug, what is 100 less than 823?",
+    "audioPrompt": "On the picnic rug, what is 100 less than 823?",
+    "visual": "On the picnic rug, what is 100 less than 823?",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": "On the picnic rug, what is 100 less than 823?"
+    },
+    "answers": [
+      "813",
+      "923",
+      "723"
+    ],
+    "correct": 2,
+    "explanation": "Use hundreds, tens and ones.\nHint: Use the information in the question to check your answer.",
+    "structuredExplanation": {
+      "summary": "Use hundreds, tens and ones.",
+      "hint": "Use the information in the question to check your answer."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m2n01-p-045",
+    "curriculumCode": "AC9M2N01",
+    "bank": "practice",
+    "skill": "at the block table which number",
+    "printable": true,
+    "type": "single",
+    "question": "At the block table, which number has 8 hundreds, 6 tens and 0 ones?",
+    "audioPrompt": "At the block table, which number has 8 hundreds, 6 tens and 0 ones?",
+    "visual": "At the block table, which number has 8 hundreds, 6 tens and 0 ones?",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": "At the block table, which number has 8 hundreds, 6 tens and 0 ones?"
+    },
+    "answers": [
+      "850",
+      "860",
+      "870"
+    ],
+    "correct": 1,
+    "explanation": "Use hundreds, tens and ones.\nHint: Use the information in the question to check your answer.",
+    "structuredExplanation": {
+      "summary": "Use hundreds, tens and ones.",
+      "hint": "Use the information in the question to check your answer."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m2n01-p-046",
+    "curriculumCode": "AC9M2N01",
+    "bank": "practice",
+    "skill": "in the lunch area what is",
+    "printable": true,
+    "type": "single",
+    "question": "In the lunch area, what is 10 more than 897?",
+    "audioPrompt": "In the lunch area, what is 10 more than 897?",
+    "visual": "In the lunch area, what is 10 more than 897?",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": "In the lunch area, what is 10 more than 897?"
+    },
+    "answers": [
+      "907",
+      "898",
+      "997"
+    ],
+    "correct": 0,
+    "explanation": "Use hundreds, tens and ones.\nHint: Use the information in the question to check your answer.",
+    "structuredExplanation": {
+      "summary": "Use hundreds, tens and ones.",
+      "hint": "Use the information in the question to check your answer."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m2n01-p-047",
+    "curriculumCode": "AC9M2N01",
+    "bank": "practice",
+    "skill": "at the science table what is",
+    "printable": true,
+    "type": "single",
+    "question": "At the science table, what is 100 less than 154?",
+    "audioPrompt": "At the science table, what is 100 less than 154?",
+    "visual": "At the science table, what is 100 less than 154?",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": "At the science table, what is 100 less than 154?"
+    },
+    "answers": [
+      "144",
+      "254",
+      "54"
+    ],
+    "correct": 2,
+    "explanation": "Use hundreds, tens and ones.\nHint: Use the information in the question to check your answer.",
+    "structuredExplanation": {
+      "summary": "Use hundreds, tens and ones.",
+      "hint": "Use the information in the question to check your answer."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m2n01-p-048",
+    "curriculumCode": "AC9M2N01",
+    "bank": "practice",
+    "skill": "during a card game which number",
+    "printable": true,
+    "type": "single",
+    "question": "During a card game, which number has 1 hundreds, 9 tens and 1 ones?",
+    "audioPrompt": "During a card game, which number has 1 hundreds, 9 tens and 1 ones?",
+    "visual": "During a card game, which number has 1 hundreds, 9 tens and 1 ones?",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": "During a card game, which number has 1 hundreds, 9 tens and 1 ones?"
+    },
+    "answers": [
+      "181",
+      "191",
+      "201"
+    ],
+    "correct": 1,
+    "explanation": "Use hundreds, tens and ones.\nHint: Use the information in the question to check your answer.",
+    "structuredExplanation": {
+      "summary": "Use hundreds, tens and ones.",
+      "hint": "Use the information in the question to check your answer."
     },
     "qualitySchema": "production-v1"
   }

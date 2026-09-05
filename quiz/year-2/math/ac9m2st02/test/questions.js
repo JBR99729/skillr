@@ -220,7 +220,7 @@ window.skillrTestQuestions = [
       "alt_text": "On the weather graph: Table shows sunny equals 5, while graph shows sunny equals 6."
     },
     "answers": [
-      "the graph count does not match the table",
+      "the graph count doesn't match the table",
       "the graph uses a blue bar",
       "the table has a heading"
     ],
@@ -454,7 +454,7 @@ window.skillrTestQuestions = [
     "answers": [
       "the graph uses a blue bar",
       "the table has a heading",
-      "the graph count does not match the table"
+      "the graph count doesn't match the table"
     ],
     "correct": 2,
     "explanation": "The graph must show 6 for funny, the same as the source table.\nHint: Compare one category at a time across both displays.",

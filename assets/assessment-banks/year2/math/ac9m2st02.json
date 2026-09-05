@@ -6,13 +6,13 @@
     "curriculum_code": "AC9M2ST02",
     "bank": "practice",
     "skill": "read_greatest_category_from_graph",
-    "question": "On the fruit graph, which category has the most fruit votes?",
-    "audio_prompt": "On the fruit graph, which category has the most fruit votes?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year2/math/ac9m2st02.svg#ac9m2st02-p-001",
       "alt_text": "On the fruit graph: Bar graph for fruit: A 2, B 8, C 5."
     },
+    "question": "On the fruit graph, which category has the most fruit votes?",
+    "audio_prompt": "On the fruit graph, which category has the most fruit votes?",
     "answers": [
       {
         "text": "apples",
@@ -43,13 +43,13 @@
     "curriculum_code": "AC9M2ST02",
     "bank": "practice",
     "skill": "read_least_category_from_graph",
-    "question": "On the fruit graph, which category has the fewest fruit votes?",
-    "audio_prompt": "On the fruit graph, which category has the fewest fruit votes?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year2/math/ac9m2st02.svg#ac9m2st02-p-002",
       "alt_text": "On the fruit graph: Bar graph for fruit: A 2, B 8, C 5."
     },
+    "question": "On the fruit graph, which category has the fewest fruit votes?",
+    "audio_prompt": "On the fruit graph, which category has the fewest fruit votes?",
     "answers": [
       {
         "text": "apples",
@@ -80,13 +80,13 @@
     "curriculum_code": "AC9M2ST02",
     "bank": "practice",
     "skill": "compare_graph_categories",
-    "question": "On the fruit graph, how many more votes does bananas have than apples?",
-    "audio_prompt": "On the fruit graph, how many more votes does bananas have than apples?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year2/math/ac9m2st02.svg#ac9m2st02-p-003",
       "alt_text": "On the fruit graph: Bar graph with apples at 2 and bananas at 8."
     },
+    "question": "On the fruit graph, how many more votes does bananas have than apples?",
+    "audio_prompt": "On the fruit graph, how many more votes does bananas have than apples?",
     "answers": [
       {
         "text": "10",
@@ -117,13 +117,13 @@
     "curriculum_code": "AC9M2ST02",
     "bank": "practice",
     "skill": "preserve_data_across_displays",
-    "question": "On the fruit graph, what must stay the same when this table is changed into a graph?",
-    "audio_prompt": "On the fruit graph, what must stay the same when this table is changed into a graph?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year2/math/ac9m2st02.svg#ac9m2st02-p-004",
       "alt_text": "On the fruit graph: A table and bar graph both showing counts 2, 8, 5."
     },
+    "question": "On the fruit graph, what must stay the same when this table is changed into a graph?",
+    "audio_prompt": "On the fruit graph, what must stay the same when this table is changed into a graph?",
     "answers": [
       {
         "text": "the bar colours only",
@@ -154,13 +154,13 @@
     "curriculum_code": "AC9M2ST02",
     "bank": "practice",
     "skill": "explain_graph_labels",
-    "question": "On the fruit graph, why does a graph need category labels?",
-    "audio_prompt": "On the fruit graph, why does a graph need category labels?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year2/math/ac9m2st02.svg#ac9m2st02-p-005",
       "alt_text": "On the fruit graph: A labelled graph for categories A, B and C."
     },
+    "question": "On the fruit graph, why does a graph need category labels?",
+    "audio_prompt": "On the fruit graph, why does a graph need category labels?",
     "answers": [
       {
         "text": "to show what each bar represents",
@@ -191,13 +191,13 @@
     "curriculum_code": "AC9M2ST02",
     "bank": "practice",
     "skill": "choose_data_display",
-    "question": "On the fruit graph, which display makes it easy to compare three category counts?",
-    "audio_prompt": "On the fruit graph, which display makes it easy to compare three category counts?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year2/math/ac9m2st02.svg#ac9m2st02-p-006",
       "alt_text": "On the fruit graph: A labelled bar graph with three side-by-side bars."
     },
+    "question": "On the fruit graph, which display makes it easy to compare three category counts?",
+    "audio_prompt": "On the fruit graph, which display makes it easy to compare three category counts?",
     "answers": [
       {
         "text": "an unlabelled picture",
@@ -227,13 +227,13 @@
     "curriculum_code": "AC9M2ST02",
     "bank": "practice",
     "skill": "interpret_picture_graph_key",
-    "question": "On the fruit graph, a picture graph uses one star for one vote. How many votes do 5 stars show?",
-    "audio_prompt": "On the fruit graph, a picture graph uses one star for one vote. How many votes do 5 stars show?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year2/math/ac9m2st02.svg#ac9m2st02-p-007",
       "alt_text": "On the fruit graph: Picture graph key says one star equals one vote, with 5 stars shown."
     },
+    "question": "On the fruit graph, a picture graph uses one star for one vote. How many votes do 5 stars show?",
+    "audio_prompt": "On the fruit graph, a picture graph uses one star for one vote. How many votes do 5 stars show?",
     "answers": [
       {
         "text": "6",
@@ -264,16 +264,16 @@
     "curriculum_code": "AC9M2ST02",
     "bank": "practice",
     "skill": "identify_graph_data_error",
-    "question": "On the fruit graph, the table says apples has 2 votes, but the graph shows 3. What is wrong?",
-    "audio_prompt": "On the fruit graph, the table says apples has 2 votes, but the graph shows 3. What is wrong?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year2/math/ac9m2st02.svg#ac9m2st02-p-008",
       "alt_text": "On the fruit graph: Table shows apples equals 2, while graph shows apples equals 3."
     },
+    "question": "On the fruit graph, the table says apples has 2 votes, but the graph shows 3. What is wrong?",
+    "audio_prompt": "On the fruit graph, the table says apples has 2 votes, but the graph shows 3. What is wrong?",
     "answers": [
       {
-        "text": "the graph count does not match the table",
+        "text": "the graph count doesn't match the table",
         "is_correct": true
       },
       {
@@ -301,13 +301,13 @@
     "curriculum_code": "AC9M2ST02",
     "bank": "practice",
     "skill": "read_greatest_category_from_graph",
-    "question": "On the pet graph, which category has the most pets votes?",
-    "audio_prompt": "On the pet graph, which category has the most pets votes?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year2/math/ac9m2st02.svg#ac9m2st02-p-009",
       "alt_text": "On the pet graph: Bar graph for pets: A 3, B 9, C 6."
     },
+    "question": "On the pet graph, which category has the most pets votes?",
+    "audio_prompt": "On the pet graph, which category has the most pets votes?",
     "answers": [
       {
         "text": "cats",
@@ -338,13 +338,13 @@
     "curriculum_code": "AC9M2ST02",
     "bank": "practice",
     "skill": "read_least_category_from_graph",
-    "question": "On the pet graph, which category has the fewest pets votes?",
-    "audio_prompt": "On the pet graph, which category has the fewest pets votes?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year2/math/ac9m2st02.svg#ac9m2st02-p-010",
       "alt_text": "On the pet graph: Bar graph for pets: A 3, B 9, C 6."
     },
+    "question": "On the pet graph, which category has the fewest pets votes?",
+    "audio_prompt": "On the pet graph, which category has the fewest pets votes?",
     "answers": [
       {
         "text": "dogs",
@@ -374,13 +374,13 @@
     "curriculum_code": "AC9M2ST02",
     "bank": "practice",
     "skill": "compare_graph_categories",
-    "question": "On the pet graph, how many more votes does dogs have than cats?",
-    "audio_prompt": "On the pet graph, how many more votes does dogs have than cats?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year2/math/ac9m2st02.svg#ac9m2st02-p-011",
       "alt_text": "On the pet graph: Bar graph with cats at 3 and dogs at 9."
     },
+    "question": "On the pet graph, how many more votes does dogs have than cats?",
+    "audio_prompt": "On the pet graph, how many more votes does dogs have than cats?",
     "answers": [
       {
         "text": "6",
@@ -410,13 +410,13 @@
     "curriculum_code": "AC9M2ST02",
     "bank": "practice",
     "skill": "preserve_data_across_displays",
-    "question": "On the pet graph, what must stay the same when this table is changed into a graph?",
-    "audio_prompt": "On the pet graph, what must stay the same when this table is changed into a graph?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year2/math/ac9m2st02.svg#ac9m2st02-p-012",
       "alt_text": "On the pet graph: A table and bar graph both showing counts 3, 9, 6."
     },
+    "question": "On the pet graph, what must stay the same when this table is changed into a graph?",
+    "audio_prompt": "On the pet graph, what must stay the same when this table is changed into a graph?",
     "answers": [
       {
         "text": "the bar colours only",
@@ -446,13 +446,13 @@
     "curriculum_code": "AC9M2ST02",
     "bank": "practice",
     "skill": "explain_graph_labels",
-    "question": "On the pet graph, why does a graph need category labels?",
-    "audio_prompt": "On the pet graph, why does a graph need category labels?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year2/math/ac9m2st02.svg#ac9m2st02-p-013",
       "alt_text": "On the pet graph: A labelled graph for categories A, B and C."
     },
+    "question": "On the pet graph, why does a graph need category labels?",
+    "audio_prompt": "On the pet graph, why does a graph need category labels?",
     "answers": [
       {
         "text": "to make every bar equal",
@@ -482,13 +482,13 @@
     "curriculum_code": "AC9M2ST02",
     "bank": "practice",
     "skill": "choose_data_display",
-    "question": "On the pet graph, which display makes it easy to compare three category counts?",
-    "audio_prompt": "On the pet graph, which display makes it easy to compare three category counts?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year2/math/ac9m2st02.svg#ac9m2st02-p-014",
       "alt_text": "On the pet graph: A labelled bar graph with three side-by-side bars."
     },
+    "question": "On the pet graph, which display makes it easy to compare three category counts?",
+    "audio_prompt": "On the pet graph, which display makes it easy to compare three category counts?",
     "answers": [
       {
         "text": "a labelled bar graph",
@@ -518,13 +518,13 @@
     "curriculum_code": "AC9M2ST02",
     "bank": "practice",
     "skill": "interpret_picture_graph_key",
-    "question": "On the pet graph, a picture graph uses one star for one vote. How many votes do 6 stars show?",
-    "audio_prompt": "On the pet graph, a picture graph uses one star for one vote. How many votes do 6 stars show?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year2/math/ac9m2st02.svg#ac9m2st02-p-015",
       "alt_text": "On the pet graph: Picture graph key says one star equals one vote, with 6 stars shown."
     },
+    "question": "On the pet graph, a picture graph uses one star for one vote. How many votes do 6 stars show?",
+    "audio_prompt": "On the pet graph, a picture graph uses one star for one vote. How many votes do 6 stars show?",
     "answers": [
       {
         "text": "7",
@@ -554,13 +554,13 @@
     "curriculum_code": "AC9M2ST02",
     "bank": "practice",
     "skill": "identify_graph_data_error",
-    "question": "On the pet graph, the table says cats has 3 votes, but the graph shows 4. What is wrong?",
-    "audio_prompt": "On the pet graph, the table says cats has 3 votes, but the graph shows 4. What is wrong?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year2/math/ac9m2st02.svg#ac9m2st02-p-016",
       "alt_text": "On the pet graph: Table shows cats equals 3, while graph shows cats equals 4."
     },
+    "question": "On the pet graph, the table says cats has 3 votes, but the graph shows 4. What is wrong?",
+    "audio_prompt": "On the pet graph, the table says cats has 3 votes, but the graph shows 4. What is wrong?",
     "answers": [
       {
         "text": "the graph uses a blue bar",
@@ -571,7 +571,7 @@
         "is_correct": false
       },
       {
-        "text": "the graph count does not match the table",
+        "text": "the graph count doesn't match the table",
         "is_correct": true
       }
     ],
@@ -590,13 +590,13 @@
     "curriculum_code": "AC9M2ST02",
     "bank": "practice",
     "skill": "read_greatest_category_from_graph",
-    "question": "On the games graph, which category has the most games votes?",
-    "audio_prompt": "On the games graph, which category has the most games votes?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year2/math/ac9m2st02.svg#ac9m2st02-p-017",
       "alt_text": "On the games graph: Bar graph for games: A 4, B 10, C 7."
     },
+    "question": "On the games graph, which category has the most games votes?",
+    "audio_prompt": "On the games graph, which category has the most games votes?",
     "answers": [
       {
         "text": "swings",
@@ -626,13 +626,13 @@
     "curriculum_code": "AC9M2ST02",
     "bank": "practice",
     "skill": "read_least_category_from_graph",
-    "question": "On the games graph, which category has the fewest games votes?",
-    "audio_prompt": "On the games graph, which category has the fewest games votes?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year2/math/ac9m2st02.svg#ac9m2st02-p-018",
       "alt_text": "On the games graph: Bar graph for games: A 4, B 10, C 7."
     },
+    "question": "On the games graph, which category has the fewest games votes?",
+    "audio_prompt": "On the games graph, which category has the fewest games votes?",
     "answers": [
       {
         "text": "swings",
@@ -662,13 +662,13 @@
     "curriculum_code": "AC9M2ST02",
     "bank": "practice",
     "skill": "compare_graph_categories",
-    "question": "On the games graph, how many more votes does swings have than chase?",
-    "audio_prompt": "On the games graph, how many more votes does swings have than chase?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year2/math/ac9m2st02.svg#ac9m2st02-p-019",
       "alt_text": "On the games graph: Bar graph with chase at 4 and swings at 10."
     },
+    "question": "On the games graph, how many more votes does swings have than chase?",
+    "audio_prompt": "On the games graph, how many more votes does swings have than chase?",
     "answers": [
       {
         "text": "14",
@@ -698,13 +698,13 @@
     "curriculum_code": "AC9M2ST02",
     "bank": "practice",
     "skill": "preserve_data_across_displays",
-    "question": "On the games graph, what must stay the same when this table is changed into a graph?",
-    "audio_prompt": "On the games graph, what must stay the same when this table is changed into a graph?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year2/math/ac9m2st02.svg#ac9m2st02-p-020",
       "alt_text": "On the games graph: A table and bar graph both showing counts 4, 10, 7."
     },
+    "question": "On the games graph, what must stay the same when this table is changed into a graph?",
+    "audio_prompt": "On the games graph, what must stay the same when this table is changed into a graph?",
     "answers": [
       {
         "text": "the category counts",
@@ -734,13 +734,13 @@
     "curriculum_code": "AC9M2ST02",
     "bank": "practice",
     "skill": "explain_graph_labels",
-    "question": "On the games graph, why does a graph need category labels?",
-    "audio_prompt": "On the games graph, why does a graph need category labels?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year2/math/ac9m2st02.svg#ac9m2st02-p-021",
       "alt_text": "On the games graph: A labelled graph for categories A, B and C."
     },
+    "question": "On the games graph, why does a graph need category labels?",
+    "audio_prompt": "On the games graph, why does a graph need category labels?",
     "answers": [
       {
         "text": "to make every bar equal",
@@ -770,13 +770,13 @@
     "curriculum_code": "AC9M2ST02",
     "bank": "practice",
     "skill": "choose_data_display",
-    "question": "On the games graph, which display makes it easy to compare three category counts?",
-    "audio_prompt": "On the games graph, which display makes it easy to compare three category counts?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year2/math/ac9m2st02.svg#ac9m2st02-p-022",
       "alt_text": "On the games graph: A labelled bar graph with three side-by-side bars."
     },
+    "question": "On the games graph, which display makes it easy to compare three category counts?",
+    "audio_prompt": "On the games graph, which display makes it easy to compare three category counts?",
     "answers": [
       {
         "text": "an unlabelled picture",
@@ -806,13 +806,13 @@
     "curriculum_code": "AC9M2ST02",
     "bank": "practice",
     "skill": "interpret_picture_graph_key",
-    "question": "On the games graph, a picture graph uses one star for one vote. How many votes do 7 stars show?",
-    "audio_prompt": "On the games graph, a picture graph uses one star for one vote. How many votes do 7 stars show?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year2/math/ac9m2st02.svg#ac9m2st02-p-023",
       "alt_text": "On the games graph: Picture graph key says one star equals one vote, with 7 stars shown."
     },
+    "question": "On the games graph, a picture graph uses one star for one vote. How many votes do 7 stars show?",
+    "audio_prompt": "On the games graph, a picture graph uses one star for one vote. How many votes do 7 stars show?",
     "answers": [
       {
         "text": "7",
@@ -842,20 +842,20 @@
     "curriculum_code": "AC9M2ST02",
     "bank": "practice",
     "skill": "identify_graph_data_error",
-    "question": "On the games graph, the table says chase has 4 votes, but the graph shows 5. What is wrong?",
-    "audio_prompt": "On the games graph, the table says chase has 4 votes, but the graph shows 5. What is wrong?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year2/math/ac9m2st02.svg#ac9m2st02-p-024",
       "alt_text": "On the games graph: Table shows chase equals 4, while graph shows chase equals 5."
     },
+    "question": "On the games graph, the table says chase has 4 votes, but the graph shows 5. What is wrong?",
+    "audio_prompt": "On the games graph, the table says chase has 4 votes, but the graph shows 5. What is wrong?",
     "answers": [
       {
         "text": "the graph uses a blue bar",
         "is_correct": false
       },
       {
-        "text": "the graph count does not match the table",
+        "text": "the graph count doesn't match the table",
         "is_correct": true
       },
       {
@@ -872,19 +872,811 @@
     "sequence_priority": 2
   },
   {
+    "id": "AC9M2ST02-P-025",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2ST02",
+    "bank": "practice",
+    "skill": "at_the_school_garden_a_picture",
+    "visual": {
+      "type": "none",
+      "alt_text": "At the school garden, a picture graph shows 4 stars for cats. How many votes is that?"
+    },
+    "question": "At the school garden, a picture graph shows 4 stars for cats. How many votes is that?",
+    "audio_prompt": "At the school garden, a picture graph shows 4 stars for cats. How many votes is that?",
+    "answers": [
+      {
+        "text": "4",
+        "is_correct": true
+      },
+      {
+        "text": "5",
+        "is_correct": false
+      },
+      {
+        "text": "8",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Read the graph labels and count carefully.",
+      "hint": "Use the information in the question to check your answer."
+    }
+  },
+  {
+    "id": "AC9M2ST02-P-026",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2ST02",
+    "bank": "practice",
+    "skill": "during_maths_groups_which_graph_needs",
+    "visual": {
+      "type": "none",
+      "alt_text": "During maths groups, which graph needs labels?"
+    },
+    "question": "During maths groups, which graph needs labels?",
+    "audio_prompt": "During maths groups, which graph needs labels?",
+    "answers": [
+      {
+        "text": "labelled graph",
+        "is_correct": false
+      },
+      {
+        "text": "clear title",
+        "is_correct": false
+      },
+      {
+        "text": "unlabelled graph",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Read the graph labels and count carefully.",
+      "hint": "Use the information in the question to check your answer."
+    }
+  },
+  {
+    "id": "AC9M2ST02-P-027",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2ST02",
+    "bank": "practice",
+    "skill": "at_the_art_table_dogs_have",
+    "visual": {
+      "type": "none",
+      "alt_text": "At the art table, dogs have 6 votes and cats have 8. Which has more?"
+    },
+    "question": "At the art table, dogs have 6 votes and cats have 8. Which has more?",
+    "audio_prompt": "At the art table, dogs have 6 votes and cats have 8. Which has more?",
+    "answers": [
+      {
+        "text": "same",
+        "is_correct": false
+      },
+      {
+        "text": "cats",
+        "is_correct": true
+      },
+      {
+        "text": "dogs",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Read the graph labels and count carefully.",
+      "hint": "Use the information in the question to check your answer."
+    }
+  },
+  {
+    "id": "AC9M2ST02-P-028",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2ST02",
+    "bank": "practice",
+    "skill": "in_the_playground_a_picture_graph",
+    "visual": {
+      "type": "none",
+      "alt_text": "In the playground, a picture graph shows 7 stars for cats. How many votes is that?"
+    },
+    "question": "In the playground, a picture graph shows 7 stars for cats. How many votes is that?",
+    "audio_prompt": "In the playground, a picture graph shows 7 stars for cats. How many votes is that?",
+    "answers": [
+      {
+        "text": "7",
+        "is_correct": true
+      },
+      {
+        "text": "8",
+        "is_correct": false
+      },
+      {
+        "text": "14",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Read the graph labels and count carefully.",
+      "hint": "Use the information in the question to check your answer."
+    }
+  },
+  {
+    "id": "AC9M2ST02-P-029",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2ST02",
+    "bank": "practice",
+    "skill": "at_the_library_which_graph_needs",
+    "visual": {
+      "type": "none",
+      "alt_text": "At the library, which graph needs labels?"
+    },
+    "question": "At the library, which graph needs labels?",
+    "audio_prompt": "At the library, which graph needs labels?",
+    "answers": [
+      {
+        "text": "labelled graph",
+        "is_correct": false
+      },
+      {
+        "text": "clear title",
+        "is_correct": false
+      },
+      {
+        "text": "unlabelled graph",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Read the graph labels and count carefully.",
+      "hint": "Use the information in the question to check your answer."
+    }
+  },
+  {
+    "id": "AC9M2ST02-P-030",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2ST02",
+    "bank": "practice",
+    "skill": "during_sport_dogs_have_9_votes",
+    "visual": {
+      "type": "none",
+      "alt_text": "During sport, dogs have 9 votes and cats have 11. Which has more?"
+    },
+    "question": "During sport, dogs have 9 votes and cats have 11. Which has more?",
+    "audio_prompt": "During sport, dogs have 9 votes and cats have 11. Which has more?",
+    "answers": [
+      {
+        "text": "same",
+        "is_correct": false
+      },
+      {
+        "text": "cats",
+        "is_correct": true
+      },
+      {
+        "text": "dogs",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Read the graph labels and count carefully.",
+      "hint": "Use the information in the question to check your answer."
+    }
+  },
+  {
+    "id": "AC9M2ST02-P-031",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2ST02",
+    "bank": "practice",
+    "skill": "at_the_class_shop_a_picture",
+    "visual": {
+      "type": "none",
+      "alt_text": "At the class shop, a picture graph shows 10 stars for cats. How many votes is that?"
+    },
+    "question": "At the class shop, a picture graph shows 10 stars for cats. How many votes is that?",
+    "audio_prompt": "At the class shop, a picture graph shows 10 stars for cats. How many votes is that?",
+    "answers": [
+      {
+        "text": "10",
+        "is_correct": true
+      },
+      {
+        "text": "11",
+        "is_correct": false
+      },
+      {
+        "text": "20",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Read the graph labels and count carefully.",
+      "hint": "Use the information in the question to check your answer."
+    }
+  },
+  {
+    "id": "AC9M2ST02-P-032",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2ST02",
+    "bank": "practice",
+    "skill": "on_the_picnic_rug_which_graph",
+    "visual": {
+      "type": "none",
+      "alt_text": "On the picnic rug, which graph needs labels?"
+    },
+    "question": "On the picnic rug, which graph needs labels?",
+    "audio_prompt": "On the picnic rug, which graph needs labels?",
+    "answers": [
+      {
+        "text": "labelled graph",
+        "is_correct": false
+      },
+      {
+        "text": "clear title",
+        "is_correct": false
+      },
+      {
+        "text": "unlabelled graph",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Read the graph labels and count carefully.",
+      "hint": "Use the information in the question to check your answer."
+    }
+  },
+  {
+    "id": "AC9M2ST02-P-033",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2ST02",
+    "bank": "practice",
+    "skill": "at_the_block_table_dogs_have",
+    "visual": {
+      "type": "none",
+      "alt_text": "At the block table, dogs have 12 votes and cats have 14. Which has more?"
+    },
+    "question": "At the block table, dogs have 12 votes and cats have 14. Which has more?",
+    "audio_prompt": "At the block table, dogs have 12 votes and cats have 14. Which has more?",
+    "answers": [
+      {
+        "text": "same",
+        "is_correct": false
+      },
+      {
+        "text": "cats",
+        "is_correct": true
+      },
+      {
+        "text": "dogs",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Read the graph labels and count carefully.",
+      "hint": "Use the information in the question to check your answer."
+    }
+  },
+  {
+    "id": "AC9M2ST02-P-034",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2ST02",
+    "bank": "practice",
+    "skill": "in_the_lunch_area_a_picture",
+    "visual": {
+      "type": "none",
+      "alt_text": "In the lunch area, a picture graph shows 4 stars for cats. How many votes is that?"
+    },
+    "question": "In the lunch area, a picture graph shows 4 stars for cats. How many votes is that?",
+    "audio_prompt": "In the lunch area, a picture graph shows 4 stars for cats. How many votes is that?",
+    "answers": [
+      {
+        "text": "4",
+        "is_correct": true
+      },
+      {
+        "text": "5",
+        "is_correct": false
+      },
+      {
+        "text": "8",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Read the graph labels and count carefully.",
+      "hint": "Use the information in the question to check your answer."
+    }
+  },
+  {
+    "id": "AC9M2ST02-P-035",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2ST02",
+    "bank": "practice",
+    "skill": "at_the_science_table_which_graph",
+    "visual": {
+      "type": "none",
+      "alt_text": "At the science table, which graph needs labels?"
+    },
+    "question": "At the science table, which graph needs labels?",
+    "audio_prompt": "At the science table, which graph needs labels?",
+    "answers": [
+      {
+        "text": "labelled graph",
+        "is_correct": false
+      },
+      {
+        "text": "clear title",
+        "is_correct": false
+      },
+      {
+        "text": "unlabelled graph",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Read the graph labels and count carefully.",
+      "hint": "Use the information in the question to check your answer."
+    }
+  },
+  {
+    "id": "AC9M2ST02-P-036",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2ST02",
+    "bank": "practice",
+    "skill": "during_a_card_game_dogs_have",
+    "visual": {
+      "type": "none",
+      "alt_text": "During a card game, dogs have 6 votes and cats have 8. Which has more?"
+    },
+    "question": "During a card game, dogs have 6 votes and cats have 8. Which has more?",
+    "audio_prompt": "During a card game, dogs have 6 votes and cats have 8. Which has more?",
+    "answers": [
+      {
+        "text": "same",
+        "is_correct": false
+      },
+      {
+        "text": "cats",
+        "is_correct": true
+      },
+      {
+        "text": "dogs",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Read the graph labels and count carefully.",
+      "hint": "Use the information in the question to check your answer."
+    }
+  },
+  {
+    "id": "AC9M2ST02-P-037",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2ST02",
+    "bank": "practice",
+    "skill": "at_the_school_garden_a_picture",
+    "visual": {
+      "type": "none",
+      "alt_text": "At the school garden, a picture graph shows 7 stars for cats. How many votes is that?"
+    },
+    "question": "At the school garden, a picture graph shows 7 stars for cats. How many votes is that?",
+    "audio_prompt": "At the school garden, a picture graph shows 7 stars for cats. How many votes is that?",
+    "answers": [
+      {
+        "text": "7",
+        "is_correct": true
+      },
+      {
+        "text": "8",
+        "is_correct": false
+      },
+      {
+        "text": "14",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Read the graph labels and count carefully.",
+      "hint": "Use the information in the question to check your answer."
+    }
+  },
+  {
+    "id": "AC9M2ST02-P-038",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2ST02",
+    "bank": "practice",
+    "skill": "during_maths_groups_which_graph_needs",
+    "visual": {
+      "type": "none",
+      "alt_text": "During maths groups, which graph needs labels?"
+    },
+    "question": "During maths groups, which graph needs labels?",
+    "audio_prompt": "During maths groups, which graph needs labels?",
+    "answers": [
+      {
+        "text": "labelled graph",
+        "is_correct": false
+      },
+      {
+        "text": "clear title",
+        "is_correct": false
+      },
+      {
+        "text": "unlabelled graph",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Read the graph labels and count carefully.",
+      "hint": "Use the information in the question to check your answer."
+    }
+  },
+  {
+    "id": "AC9M2ST02-P-039",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2ST02",
+    "bank": "practice",
+    "skill": "at_the_art_table_dogs_have",
+    "visual": {
+      "type": "none",
+      "alt_text": "At the art table, dogs have 9 votes and cats have 11. Which has more?"
+    },
+    "question": "At the art table, dogs have 9 votes and cats have 11. Which has more?",
+    "audio_prompt": "At the art table, dogs have 9 votes and cats have 11. Which has more?",
+    "answers": [
+      {
+        "text": "same",
+        "is_correct": false
+      },
+      {
+        "text": "cats",
+        "is_correct": true
+      },
+      {
+        "text": "dogs",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Read the graph labels and count carefully.",
+      "hint": "Use the information in the question to check your answer."
+    }
+  },
+  {
+    "id": "AC9M2ST02-P-040",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2ST02",
+    "bank": "practice",
+    "skill": "in_the_playground_a_picture_graph",
+    "visual": {
+      "type": "none",
+      "alt_text": "In the playground, a picture graph shows 10 stars for cats. How many votes is that?"
+    },
+    "question": "In the playground, a picture graph shows 10 stars for cats. How many votes is that?",
+    "audio_prompt": "In the playground, a picture graph shows 10 stars for cats. How many votes is that?",
+    "answers": [
+      {
+        "text": "10",
+        "is_correct": true
+      },
+      {
+        "text": "11",
+        "is_correct": false
+      },
+      {
+        "text": "20",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Read the graph labels and count carefully.",
+      "hint": "Use the information in the question to check your answer."
+    }
+  },
+  {
+    "id": "AC9M2ST02-P-041",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2ST02",
+    "bank": "practice",
+    "skill": "at_the_library_which_graph_needs",
+    "visual": {
+      "type": "none",
+      "alt_text": "At the library, which graph needs labels?"
+    },
+    "question": "At the library, which graph needs labels?",
+    "audio_prompt": "At the library, which graph needs labels?",
+    "answers": [
+      {
+        "text": "labelled graph",
+        "is_correct": false
+      },
+      {
+        "text": "clear title",
+        "is_correct": false
+      },
+      {
+        "text": "unlabelled graph",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Read the graph labels and count carefully.",
+      "hint": "Use the information in the question to check your answer."
+    }
+  },
+  {
+    "id": "AC9M2ST02-P-042",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2ST02",
+    "bank": "practice",
+    "skill": "during_sport_dogs_have_12_votes",
+    "visual": {
+      "type": "none",
+      "alt_text": "During sport, dogs have 12 votes and cats have 14. Which has more?"
+    },
+    "question": "During sport, dogs have 12 votes and cats have 14. Which has more?",
+    "audio_prompt": "During sport, dogs have 12 votes and cats have 14. Which has more?",
+    "answers": [
+      {
+        "text": "same",
+        "is_correct": false
+      },
+      {
+        "text": "cats",
+        "is_correct": true
+      },
+      {
+        "text": "dogs",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Read the graph labels and count carefully.",
+      "hint": "Use the information in the question to check your answer."
+    }
+  },
+  {
+    "id": "AC9M2ST02-P-043",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2ST02",
+    "bank": "practice",
+    "skill": "at_the_class_shop_a_picture",
+    "visual": {
+      "type": "none",
+      "alt_text": "At the class shop, a picture graph shows 4 stars for cats. How many votes is that?"
+    },
+    "question": "At the class shop, a picture graph shows 4 stars for cats. How many votes is that?",
+    "audio_prompt": "At the class shop, a picture graph shows 4 stars for cats. How many votes is that?",
+    "answers": [
+      {
+        "text": "4",
+        "is_correct": true
+      },
+      {
+        "text": "5",
+        "is_correct": false
+      },
+      {
+        "text": "8",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Read the graph labels and count carefully.",
+      "hint": "Use the information in the question to check your answer."
+    }
+  },
+  {
+    "id": "AC9M2ST02-P-044",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2ST02",
+    "bank": "practice",
+    "skill": "on_the_picnic_rug_which_graph",
+    "visual": {
+      "type": "none",
+      "alt_text": "On the picnic rug, which graph needs labels?"
+    },
+    "question": "On the picnic rug, which graph needs labels?",
+    "audio_prompt": "On the picnic rug, which graph needs labels?",
+    "answers": [
+      {
+        "text": "labelled graph",
+        "is_correct": false
+      },
+      {
+        "text": "clear title",
+        "is_correct": false
+      },
+      {
+        "text": "unlabelled graph",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Read the graph labels and count carefully.",
+      "hint": "Use the information in the question to check your answer."
+    }
+  },
+  {
+    "id": "AC9M2ST02-P-045",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2ST02",
+    "bank": "practice",
+    "skill": "at_the_block_table_dogs_have",
+    "visual": {
+      "type": "none",
+      "alt_text": "At the block table, dogs have 6 votes and cats have 8. Which has more?"
+    },
+    "question": "At the block table, dogs have 6 votes and cats have 8. Which has more?",
+    "audio_prompt": "At the block table, dogs have 6 votes and cats have 8. Which has more?",
+    "answers": [
+      {
+        "text": "same",
+        "is_correct": false
+      },
+      {
+        "text": "cats",
+        "is_correct": true
+      },
+      {
+        "text": "dogs",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Read the graph labels and count carefully.",
+      "hint": "Use the information in the question to check your answer."
+    }
+  },
+  {
+    "id": "AC9M2ST02-P-046",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2ST02",
+    "bank": "practice",
+    "skill": "in_the_lunch_area_a_picture",
+    "visual": {
+      "type": "none",
+      "alt_text": "In the lunch area, a picture graph shows 7 stars for cats. How many votes is that?"
+    },
+    "question": "In the lunch area, a picture graph shows 7 stars for cats. How many votes is that?",
+    "audio_prompt": "In the lunch area, a picture graph shows 7 stars for cats. How many votes is that?",
+    "answers": [
+      {
+        "text": "7",
+        "is_correct": true
+      },
+      {
+        "text": "8",
+        "is_correct": false
+      },
+      {
+        "text": "14",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Read the graph labels and count carefully.",
+      "hint": "Use the information in the question to check your answer."
+    }
+  },
+  {
+    "id": "AC9M2ST02-P-047",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2ST02",
+    "bank": "practice",
+    "skill": "at_the_science_table_which_graph",
+    "visual": {
+      "type": "none",
+      "alt_text": "At the science table, which graph needs labels?"
+    },
+    "question": "At the science table, which graph needs labels?",
+    "audio_prompt": "At the science table, which graph needs labels?",
+    "answers": [
+      {
+        "text": "labelled graph",
+        "is_correct": false
+      },
+      {
+        "text": "clear title",
+        "is_correct": false
+      },
+      {
+        "text": "unlabelled graph",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Read the graph labels and count carefully.",
+      "hint": "Use the information in the question to check your answer."
+    }
+  },
+  {
+    "id": "AC9M2ST02-P-048",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2ST02",
+    "bank": "practice",
+    "skill": "during_a_card_game_dogs_have",
+    "visual": {
+      "type": "none",
+      "alt_text": "During a card game, dogs have 9 votes and cats have 11. Which has more?"
+    },
+    "question": "During a card game, dogs have 9 votes and cats have 11. Which has more?",
+    "audio_prompt": "During a card game, dogs have 9 votes and cats have 11. Which has more?",
+    "answers": [
+      {
+        "text": "same",
+        "is_correct": false
+      },
+      {
+        "text": "cats",
+        "is_correct": true
+      },
+      {
+        "text": "dogs",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Read the graph labels and count carefully.",
+      "hint": "Use the information in the question to check your answer."
+    }
+  },
+  {
     "id": "AC9M2ST02-T-001",
     "subject": "math",
     "year_level": "Year 2",
     "curriculum_code": "AC9M2ST02",
     "bank": "test",
     "skill": "read_greatest_category_from_graph",
-    "question": "On the weather graph, which category has the most weather votes?",
-    "audio_prompt": "On the weather graph, which category has the most weather votes?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year2/math/ac9m2st02.svg#ac9m2st02-t-001",
       "alt_text": "On the weather graph: Bar graph for weather: A 5, B 11, C 8."
     },
+    "question": "On the weather graph, which category has the most weather votes?",
+    "audio_prompt": "On the weather graph, which category has the most weather votes?",
     "answers": [
       {
         "text": "sunny",
@@ -912,13 +1704,13 @@
     "curriculum_code": "AC9M2ST02",
     "bank": "test",
     "skill": "read_least_category_from_graph",
-    "question": "On the weather graph, which category has the fewest weather votes?",
-    "audio_prompt": "On the weather graph, which category has the fewest weather votes?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year2/math/ac9m2st02.svg#ac9m2st02-t-002",
       "alt_text": "On the weather graph: Bar graph for weather: A 5, B 11, C 8."
     },
+    "question": "On the weather graph, which category has the fewest weather votes?",
+    "audio_prompt": "On the weather graph, which category has the fewest weather votes?",
     "answers": [
       {
         "text": "sunny",
@@ -946,13 +1738,13 @@
     "curriculum_code": "AC9M2ST02",
     "bank": "test",
     "skill": "compare_graph_categories",
-    "question": "On the weather graph, how many more votes does rainy have than sunny?",
-    "audio_prompt": "On the weather graph, how many more votes does rainy have than sunny?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year2/math/ac9m2st02.svg#ac9m2st02-t-003",
       "alt_text": "On the weather graph: Bar graph with sunny at 5 and rainy at 11."
     },
+    "question": "On the weather graph, how many more votes does rainy have than sunny?",
+    "audio_prompt": "On the weather graph, how many more votes does rainy have than sunny?",
     "answers": [
       {
         "text": "16",
@@ -980,13 +1772,13 @@
     "curriculum_code": "AC9M2ST02",
     "bank": "test",
     "skill": "preserve_data_across_displays",
-    "question": "On the weather graph, what must stay the same when this table is changed into a graph?",
-    "audio_prompt": "On the weather graph, what must stay the same when this table is changed into a graph?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year2/math/ac9m2st02.svg#ac9m2st02-t-004",
       "alt_text": "On the weather graph: A table and bar graph both showing counts 5, 11, 8."
     },
+    "question": "On the weather graph, what must stay the same when this table is changed into a graph?",
+    "audio_prompt": "On the weather graph, what must stay the same when this table is changed into a graph?",
     "answers": [
       {
         "text": "the bar colours only",
@@ -1014,13 +1806,13 @@
     "curriculum_code": "AC9M2ST02",
     "bank": "test",
     "skill": "explain_graph_labels",
-    "question": "On the weather graph, why does a graph need category labels?",
-    "audio_prompt": "On the weather graph, why does a graph need category labels?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year2/math/ac9m2st02.svg#ac9m2st02-t-005",
       "alt_text": "On the weather graph: A labelled graph for categories A, B and C."
     },
+    "question": "On the weather graph, why does a graph need category labels?",
+    "audio_prompt": "On the weather graph, why does a graph need category labels?",
     "answers": [
       {
         "text": "to show what each bar represents",
@@ -1048,13 +1840,13 @@
     "curriculum_code": "AC9M2ST02",
     "bank": "test",
     "skill": "choose_data_display",
-    "question": "On the weather graph, which display makes it easy to compare three category counts?",
-    "audio_prompt": "On the weather graph, which display makes it easy to compare three category counts?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year2/math/ac9m2st02.svg#ac9m2st02-t-006",
       "alt_text": "On the weather graph: A labelled bar graph with three side-by-side bars."
     },
+    "question": "On the weather graph, which display makes it easy to compare three category counts?",
+    "audio_prompt": "On the weather graph, which display makes it easy to compare three category counts?",
     "answers": [
       {
         "text": "an unlabelled picture",
@@ -1082,13 +1874,13 @@
     "curriculum_code": "AC9M2ST02",
     "bank": "test",
     "skill": "interpret_picture_graph_key",
-    "question": "On the weather graph, a picture graph uses one star for one vote. How many votes do 8 stars show?",
-    "audio_prompt": "On the weather graph, a picture graph uses one star for one vote. How many votes do 8 stars show?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year2/math/ac9m2st02.svg#ac9m2st02-t-007",
       "alt_text": "On the weather graph: Picture graph key says one star equals one vote, with 8 stars shown."
     },
+    "question": "On the weather graph, a picture graph uses one star for one vote. How many votes do 8 stars show?",
+    "audio_prompt": "On the weather graph, a picture graph uses one star for one vote. How many votes do 8 stars show?",
     "answers": [
       {
         "text": "9",
@@ -1116,16 +1908,16 @@
     "curriculum_code": "AC9M2ST02",
     "bank": "test",
     "skill": "identify_graph_data_error",
-    "question": "On the weather graph, the table says sunny has 5 votes, but the graph shows 6. What is wrong?",
-    "audio_prompt": "On the weather graph, the table says sunny has 5 votes, but the graph shows 6. What is wrong?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year2/math/ac9m2st02.svg#ac9m2st02-t-008",
       "alt_text": "On the weather graph: Table shows sunny equals 5, while graph shows sunny equals 6."
     },
+    "question": "On the weather graph, the table says sunny has 5 votes, but the graph shows 6. What is wrong?",
+    "audio_prompt": "On the weather graph, the table says sunny has 5 votes, but the graph shows 6. What is wrong?",
     "answers": [
       {
-        "text": "the graph count does not match the table",
+        "text": "the graph count doesn't match the table",
         "is_correct": true
       },
       {
@@ -1150,13 +1942,13 @@
     "curriculum_code": "AC9M2ST02",
     "bank": "test",
     "skill": "read_greatest_category_from_graph",
-    "question": "On the books graph, which category has the most books votes?",
-    "audio_prompt": "On the books graph, which category has the most books votes?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year2/math/ac9m2st02.svg#ac9m2st02-t-009",
       "alt_text": "On the books graph: Bar graph for books: A 6, B 12, C 9."
     },
+    "question": "On the books graph, which category has the most books votes?",
+    "audio_prompt": "On the books graph, which category has the most books votes?",
     "answers": [
       {
         "text": "funny",
@@ -1184,13 +1976,13 @@
     "curriculum_code": "AC9M2ST02",
     "bank": "test",
     "skill": "read_least_category_from_graph",
-    "question": "On the books graph, which category has the fewest books votes?",
-    "audio_prompt": "On the books graph, which category has the fewest books votes?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year2/math/ac9m2st02.svg#ac9m2st02-t-010",
       "alt_text": "On the books graph: Bar graph for books: A 6, B 12, C 9."
     },
+    "question": "On the books graph, which category has the fewest books votes?",
+    "audio_prompt": "On the books graph, which category has the fewest books votes?",
     "answers": [
       {
         "text": "animal",
@@ -1218,13 +2010,13 @@
     "curriculum_code": "AC9M2ST02",
     "bank": "test",
     "skill": "compare_graph_categories",
-    "question": "On the books graph, how many more votes does animal have than funny?",
-    "audio_prompt": "On the books graph, how many more votes does animal have than funny?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year2/math/ac9m2st02.svg#ac9m2st02-t-011",
       "alt_text": "On the books graph: Bar graph with funny at 6 and animal at 12."
     },
+    "question": "On the books graph, how many more votes does animal have than funny?",
+    "audio_prompt": "On the books graph, how many more votes does animal have than funny?",
     "answers": [
       {
         "text": "6",
@@ -1252,13 +2044,13 @@
     "curriculum_code": "AC9M2ST02",
     "bank": "test",
     "skill": "preserve_data_across_displays",
-    "question": "On the books graph, what must stay the same when this table is changed into a graph?",
-    "audio_prompt": "On the books graph, what must stay the same when this table is changed into a graph?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year2/math/ac9m2st02.svg#ac9m2st02-t-012",
       "alt_text": "On the books graph: A table and bar graph both showing counts 6, 12, 9."
     },
+    "question": "On the books graph, what must stay the same when this table is changed into a graph?",
+    "audio_prompt": "On the books graph, what must stay the same when this table is changed into a graph?",
     "answers": [
       {
         "text": "the bar colours only",
@@ -1286,13 +2078,13 @@
     "curriculum_code": "AC9M2ST02",
     "bank": "test",
     "skill": "explain_graph_labels",
-    "question": "On the books graph, why does a graph need category labels?",
-    "audio_prompt": "On the books graph, why does a graph need category labels?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year2/math/ac9m2st02.svg#ac9m2st02-t-013",
       "alt_text": "On the books graph: A labelled graph for categories A, B and C."
     },
+    "question": "On the books graph, why does a graph need category labels?",
+    "audio_prompt": "On the books graph, why does a graph need category labels?",
     "answers": [
       {
         "text": "to make every bar equal",
@@ -1320,13 +2112,13 @@
     "curriculum_code": "AC9M2ST02",
     "bank": "test",
     "skill": "choose_data_display",
-    "question": "On the books graph, which display makes it easy to compare three category counts?",
-    "audio_prompt": "On the books graph, which display makes it easy to compare three category counts?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year2/math/ac9m2st02.svg#ac9m2st02-t-014",
       "alt_text": "On the books graph: A labelled bar graph with three side-by-side bars."
     },
+    "question": "On the books graph, which display makes it easy to compare three category counts?",
+    "audio_prompt": "On the books graph, which display makes it easy to compare three category counts?",
     "answers": [
       {
         "text": "a labelled bar graph",
@@ -1354,13 +2146,13 @@
     "curriculum_code": "AC9M2ST02",
     "bank": "test",
     "skill": "interpret_picture_graph_key",
-    "question": "On the books graph, a picture graph uses one star for one vote. How many votes do 9 stars show?",
-    "audio_prompt": "On the books graph, a picture graph uses one star for one vote. How many votes do 9 stars show?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year2/math/ac9m2st02.svg#ac9m2st02-t-015",
       "alt_text": "On the books graph: Picture graph key says one star equals one vote, with 9 stars shown."
     },
+    "question": "On the books graph, a picture graph uses one star for one vote. How many votes do 9 stars show?",
+    "audio_prompt": "On the books graph, a picture graph uses one star for one vote. How many votes do 9 stars show?",
     "answers": [
       {
         "text": "10",
@@ -1388,13 +2180,13 @@
     "curriculum_code": "AC9M2ST02",
     "bank": "test",
     "skill": "identify_graph_data_error",
-    "question": "On the books graph, the table says funny has 6 votes, but the graph shows 7. What is wrong?",
-    "audio_prompt": "On the books graph, the table says funny has 6 votes, but the graph shows 7. What is wrong?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year2/math/ac9m2st02.svg#ac9m2st02-t-016",
       "alt_text": "On the books graph: Table shows funny equals 6, while graph shows funny equals 7."
     },
+    "question": "On the books graph, the table says funny has 6 votes, but the graph shows 7. What is wrong?",
+    "audio_prompt": "On the books graph, the table says funny has 6 votes, but the graph shows 7. What is wrong?",
     "answers": [
       {
         "text": "the graph uses a blue bar",
@@ -1405,7 +2197,7 @@
         "is_correct": false
       },
       {
-        "text": "the graph count does not match the table",
+        "text": "the graph count doesn't match the table",
         "is_correct": true
       }
     ],
