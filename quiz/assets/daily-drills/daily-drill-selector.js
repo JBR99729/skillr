@@ -46,7 +46,14 @@
   const coreBank=usesProductionBank?[]:(generator?.generate?.(year,skill)||[]);
   const extensionBank=window.SkillrDailyQuestionExtensions?.[year]?.[subject]?.[skill];
   const extraBank=usesProductionBank?productionBank:(Array.isArray(extensionBank)?extensionBank:[]);
-  const bank=[...coreBank,...extraBank];
+  const rawBank=[...coreBank,...extraBank];
+  const foundationOverrides=year==="F"
+    ?window.SkillrFoundationReviewedDrillOverrides||{}
+    :{};
+  const bank=rawBank.map((question,index)=>{
+    const override=foundationOverrides[questionId(question,index)];
+    return override?{...question,...override}:question;
+  });
   const expected=bank.length;
   const usesQuestionRound=extraBank.length>0;
   const sets=usesQuestionRound?Math.ceil(expected/8):baselineSets;
