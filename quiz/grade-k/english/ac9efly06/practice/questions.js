@@ -5,32 +5,30 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9EFLY06",
     "bank": "practice",
     "sourceType": "Multiple choice",
-    "question": "The class watched an ice cube melt. Which sentence clearly records what happened?",
+    "question": "Which sentence needs a full stop?",
     "explanation": "D — It reports an observed change in a complete sentence.",
     "printable": true,
     "type": "single",
     "answers": [
-      "Where is lunch?",
-      "Ice and a cup.",
-      "Look at this!",
-      "The ice got wet and small."
+      "I see a dog",
+      "Is that your dog?",
+      "Stop!"
     ],
-    "correct": 3
+    "correct": 0
   },
   {
     "id": "ac9efly06-p02",
     "curriculumCode": "AC9EFLY06",
     "bank": "practice",
     "sourceType": "Multiple choice",
-    "question": "Which word would be most useful in a report about the activity?",
+    "question": "Choose the corrected sentence.",
     "explanation": "A — “Soil” is relevant learned vocabulary for planting.",
     "printable": true,
     "type": "single",
     "answers": [
-      "soil",
-      "spaceship",
-      "trumpet",
-      "pillow"
+      "The cat is big.",
+      "the cat is big.",
+      "The cat is big"
     ],
     "correct": 0
   },
@@ -39,76 +37,102 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9EFLY06",
     "bank": "practice",
     "sourceType": "Short response",
-    "question": "Write one sentence that records the picture. Spell cat, sat and mat using their sounds, and show the sentence beginning and end.",
+    "question": "Which word fixes the sentence? ‘I ___ a red hat.’",
     "explanation": "Expected form such as “The cat sat on the mat.” Award 1 mark for complete relevant sentence, 1 mark for capital/end mark, and 1 mark for correctly sound-mapped CVC target words; 3 marks total.",
     "printable": true,
-    "type": "text",
+    "type": "single",
     "acceptedAnswers": [
       "Expected form such as “The cat sat on the mat.”"
     ],
-    "correct": "Expected form such as “The cat sat on the mat.”"
+    "correct": 0,
+    "answers": [
+      "have",
+      "has",
+      "having"
+    ]
   },
   {
     "id": "ac9efly06-p04",
     "curriculumCode": "AC9EFLY06",
     "bank": "practice",
     "sourceType": "Short response",
-    "question": "Work as an editor: name and make two changes that show the sentence boundary.",
+    "question": "Which sentence has spaces between the words?",
     "explanation": "Capital W (1 mark) and full stop after “pot” (1 mark). Corrected: “We put the lid on the pot.”",
     "printable": true,
-    "type": "self-check",
-    "modelAnswer": "Capital W (1 mark) and full stop after “pot” (1 mark). Corrected: “We put the lid on the pot.”",
-    "correct": "Capital W (1 mark) and full stop after “pot” (1 mark). Corrected: “We put the lid on the pot.”"
+    "type": "single",
+    "correct": 0,
+    "answers": [
+      "We can run.",
+      "Wecanrun.",
+      "W ecanr un."
+    ]
   },
   {
     "id": "ac9efly06-p05",
     "curriculumCode": "AC9EFLY06",
     "bank": "practice",
     "sourceType": "Sequencing",
-    "question": "Put the report in order and copy or say it as a short text.",
+    "question": "Which sentence needs a full stop?",
     "explanation": "(b), (c), (a). Award 1 mark for order and 1 mark for maintaining complete sentence boundaries in the produced text; 2 marks total.",
     "printable": true,
-    "type": "self-check",
-    "modelAnswer": "(b), (c), (a). Award 1 mark for order and 1 mark for maintaining complete sentence boundaries in the produced text; 2 marks total.",
-    "correct": "(b), (c), (a). Award 1 mark for order and 1 mark for maintaining complete sentence boundaries in the produced text; 2 marks total."
+    "type": "single",
+    "correct": 0,
+    "answers": [
+      "I see a dog",
+      "Is that your dog?",
+      "Stop!"
+    ]
   },
   {
     "id": "ac9efly06-p06",
     "curriculumCode": "AC9EFLY06",
     "bank": "practice",
     "sourceType": "Short response",
-    "question": "The “thing” was a small log. Edit the first sentence so the report is clearer.",
+    "question": "Choose the corrected sentence.",
     "explanation": "“We put the small log/a log in the tank.” Award 1 mark for replacing “thing” with “log” and 1 mark for a correctly bounded complete sentence; 2 marks total.",
     "printable": true,
-    "type": "text",
+    "type": "single",
     "acceptedAnswers": [
       "“We put the small log/a log in the tank.”"
     ],
-    "correct": "“We put the small log/a log in the tank.”"
+    "correct": 0,
+    "answers": [
+      "The cat is big.",
+      "the cat is big.",
+      "The cat is big"
+    ]
   },
   {
     "id": "ac9efly06-p07",
     "curriculumCode": "AC9EFLY06",
     "bank": "practice",
     "sourceType": "Extended response",
-    "question": "Write or dictate three short sentences that report the events in order. Include at least two accurate topic words.",
+    "question": "Which word fixes the sentence? ‘I ___ a red hat.’",
     "explanation": "1 mark for each ordered event sentence (3 marks), 1 mark for at least two relevant words such as ramp, rolled, mat, stopped or box, 1 mark for visible/audible sentence boundaries, and 1 mark for plausible phonetic spelling including any attempted CVC words; 6 marks total.",
     "printable": true,
-    "type": "self-check",
-    "modelAnswer": "1 mark for each ordered event sentence (3 marks), 1 mark for at least two relevant words such as ramp, rolled, mat, stopped or box, 1 mark for visible/audible sentence boundaries, and 1 mark for plausible phonetic spelling including any attempted CVC words; 6 marks total.",
-    "correct": "1 mark for each ordered event sentence (3 marks), 1 mark for at least two relevant words such as ramp, rolled, mat, stopped or box, 1 mark for visible/audible sentence boundaries, and 1 mark for plausible phonetic spelling including any attempted CVC words; 6 marks total."
+    "type": "single",
+    "correct": 0,
+    "answers": [
+      "have",
+      "has",
+      "having"
+    ]
   },
   {
     "id": "ac9efly06-p08",
     "curriculumCode": "AC9EFLY06",
     "bank": "practice",
     "sourceType": "Extended response",
-    "question": "Edit the draft into two clear sentences. Correct the name of the day, sentence starts, end marks and the CVC words hen, corn and pan where needed.",
+    "question": "Which sentence has spaces between the words?",
     "explanation": "A correct version is “On Monday, we fed the hen. It had corn in a pan.” Award 1 mark for Monday capital, 1 mark for two sentence starts, 1 mark for correct boundary between ideas/end punctuation, 1 mark for hen, 1 mark for pan, and 1 mark for preserving corn accurately; 6 marks total. Do not require the comma for full Foundation credit.",
     "printable": true,
-    "type": "self-check",
-    "modelAnswer": "A correct version is “On Monday, we fed the hen. It had corn in a pan.” Award 1 mark for Monday capital, 1 mark for two sentence starts, 1 mark for correct boundary between ideas/end punctuation, 1 mark for hen, 1 mark for pan, and 1 mark for preserving corn accurately; 6 marks total. Do not require the comma for full Foundation credit.",
-    "correct": "A correct version is “On Monday, we fed the hen. It had corn in a pan.” Award 1 mark for Monday capital, 1 mark for two sentence starts, 1 mark for correct boundary between ideas/end punctuation, 1 mark for hen, 1 mark for pan, and 1 mark for preserving corn accurately; 6 marks total. Do not require the comma for full Foundation credit."
+    "type": "single",
+    "correct": 0,
+    "answers": [
+      "We can run.",
+      "Wecanrun.",
+      "W ecanr un."
+    ]
   }
 ];
 window.quizQuestions = window.skillrPracticeQuestions;

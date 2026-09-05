@@ -5,26 +5,35 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9EFLY14",
     "bank": "practice",
     "sourceType": "Oral response",
-    "question": "Read this word without sounding it out letter by letter.",
+    "question": "Which word says the?",
     "explanation": "the.",
     "printable": true,
-    "type": "self-check",
-    "modelAnswer": "the.",
-    "correct": "the."
+    "type": "single",
+    "correct": 0,
+    "answers": [
+      "the",
+      "he",
+      "then"
+    ]
   },
   {
     "id": "ac9efly14-p02",
     "curriculumCode": "AC9EFLY14",
     "bank": "practice",
     "sourceType": "Short response",
-    "question": "Write the whole word from memory.",
+    "question": "Which word completes the sentence? ‘I ___ run.’",
     "explanation": "my.",
     "printable": true,
-    "type": "text",
+    "type": "single",
     "acceptedAnswers": [
       "my"
     ],
-    "correct": "my"
+    "correct": 0,
+    "answers": [
+      "can",
+      "is",
+      "the"
+    ]
   },
   {
     "id": "ac9efly14-p03",
@@ -48,65 +57,80 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9EFLY14",
     "bank": "practice",
     "sourceType": "Matching",
-    "question": "Place each word in the sentence where it makes sense, then read both completed sentences.",
+    "question": "Which sentence uses my correctly?",
     "explanation": "(a) go; (b) is (1 mark each); reads both sentences accurately (1 mark). 3 marks total.",
     "printable": true,
-    "type": "self-check",
-    "modelAnswer": "(a) go; (b) is (1 mark each); reads both sentences accurately (1 mark). 3 marks total.",
-    "correct": "(a) go; (b) is (1 mark each); reads both sentences accurately (1 mark). 3 marks total."
+    "type": "single",
+    "correct": 0,
+    "answers": [
+      "This is my hat.",
+      "This my is hat.",
+      "My this hat is."
+    ]
   },
   {
     "id": "ac9efly14-p05",
     "curriculumCode": "AC9EFLY14",
     "bank": "practice",
     "sourceType": "Multiple choice",
-    "question": "Which high-frequency word completes the message?",
+    "question": "Which word says the?",
     "explanation": "D — The capital word I names the speaker and completes “I can go to the mat.”",
     "printable": true,
     "type": "single",
     "answers": [
-      "Is",
-      "It",
-      "In",
-      "I"
+      "the",
+      "he",
+      "then"
     ],
-    "correct": 3
+    "correct": 0
   },
   {
     "id": "ac9efly14-p06",
     "curriculumCode": "AC9EFLY14",
     "bank": "practice",
     "sourceType": "Oral response",
-    "question": "Read each label. Tell one clue that helps you recognise each word quickly.",
+    "question": "Which word completes the sentence? ‘I ___ run.’",
     "explanation": "Reads all 3 familiar words (1 mark each); gives one valid clue for at least 2 words, such as first letter, word shape, known letter pattern or repeated classroom exposure (1 mark). 4 marks total.",
     "printable": true,
-    "type": "self-check",
-    "modelAnswer": "Reads all 3 familiar words (1 mark each); gives one valid clue for at least 2 words, such as first letter, word shape, known letter pattern or repeated classroom exposure (1 mark). 4 marks total.",
-    "correct": "Reads all 3 familiar words (1 mark each); gives one valid clue for at least 2 words, such as first letter, word shape, known letter pattern or repeated classroom exposure (1 mark). 4 marks total."
+    "type": "single",
+    "correct": 0,
+    "answers": [
+      "can",
+      "is",
+      "the"
+    ]
   },
   {
     "id": "ac9efly14-p07",
     "curriculumCode": "AC9EFLY14",
     "bank": "practice",
     "sourceType": "Extended response",
-    "question": "Find and correct both words, rewrite the sentence and read it aloud to check that it makes sense.",
+    "question": "Which word says you?",
     "explanation": "Corrects Teh to The (1 mark); corrects si to is (1 mark); rewrites “The dog is on the rug.” with sentence capital and full stop preserved (1 mark); reads it accurately and confirms meaning (1 mark). 4 marks total.",
     "printable": true,
-    "type": "self-check",
-    "modelAnswer": "Corrects Teh to The (1 mark); corrects si to is (1 mark); rewrites “The dog is on the rug.” with sentence capital and full stop preserved (1 mark); reads it accurately and confirms meaning (1 mark). 4 marks total.",
-    "correct": "Corrects Teh to The (1 mark); corrects si to is (1 mark); rewrites “The dog is on the rug.” with sentence capital and full stop preserved (1 mark); reads it accurately and confirms meaning (1 mark). 4 marks total."
+    "type": "single",
+    "correct": 0,
+    "answers": [
+      "you",
+      "your",
+      "yes"
+    ]
   },
   {
     "id": "ac9efly14-p08",
     "curriculumCode": "AC9EFLY14",
     "bank": "practice",
     "sourceType": "Extended response",
-    "question": "Arrange at least four word cards to make a complete sentence, copy it and read it back. Explain how you checked the order.",
+    "question": "Which sentence uses my correctly?",
     "explanation": "Constructs a meaningful sentence such as “I can see the dog.” (2 marks); copies the selected words accurately (1 mark); reads the sentence (1 mark); gives a valid order/meaning check (1 mark). 5 marks total.",
     "printable": true,
-    "type": "self-check",
-    "modelAnswer": "Constructs a meaningful sentence such as “I can see the dog.” (2 marks); copies the selected words accurately (1 mark); reads the sentence (1 mark); gives a valid order/meaning check (1 mark). 5 marks total.",
-    "correct": "Constructs a meaningful sentence such as “I can see the dog.” (2 marks); copies the selected words accurately (1 mark); reads the sentence (1 mark); gives a valid order/meaning check (1 mark). 5 marks total."
+    "type": "single",
+    "correct": 0,
+    "answers": [
+      "This is my hat.",
+      "This my is hat.",
+      "My this hat is."
+    ]
   }
 ];
 window.quizQuestions = window.skillrPracticeQuestions;

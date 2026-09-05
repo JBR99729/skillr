@@ -22,24 +22,32 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9EFLY02",
     "bank": "practice",
     "sourceType": "Matching",
-    "question": "Match: (a) speaking to one partner in the library, (b) telling news to the whole class, (c) chatting with a friend outside at lunch.",
+    "question": "Which voice is best for speaking to a small group?",
     "explanation": "(a) quiet, (b) loud enough for the group, (c) comfortable conversation voice. Award 1 mark each; 3 marks total.",
     "printable": true,
-    "type": "self-check",
-    "modelAnswer": "(a) quiet, (b) loud enough for the group, (c) comfortable conversation voice. Award 1 mark each; 3 marks total.",
-    "correct": "(a) quiet, (b) loud enough for the group, (c) comfortable conversation voice. Award 1 mark each; 3 marks total."
+    "type": "single",
+    "correct": 0,
+    "answers": [
+      "clear and easy to hear",
+      "a whisper no one can hear",
+      "shouting"
+    ]
   },
   {
     "id": "ac9efly02-p03",
     "curriculumCode": "AC9EFLY02",
     "bank": "practice",
     "sourceType": "Oral response",
-    "question": "Give a response that shows you listened to the idea.",
+    "question": "You want a turn to speak. What should you do?",
     "explanation": "Refers to the speaker’s content through a relevant comment or question, such as “Did the wide base make it steadier?” Award 1 mark for relevance and 1 mark for waiting/responding clearly; 2 marks total.",
     "printable": true,
-    "type": "self-check",
-    "modelAnswer": "Refers to the speaker’s content through a relevant comment or question, such as “Did the wide base make it steadier?” Award 1 mark for relevance and 1 mark for waiting/responding clearly; 2 marks total.",
-    "correct": "Refers to the speaker’s content through a relevant comment or question, such as “Did the wide base make it steadier?” Award 1 mark for relevance and 1 mark for waiting/responding clearly; 2 marks total."
+    "type": "single",
+    "correct": 0,
+    "answers": [
+      "wait for your turn",
+      "speak over everyone",
+      "leave the group"
+    ]
   },
   {
     "id": "ac9efly02-p04",
@@ -63,48 +71,64 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9EFLY02",
     "bank": "practice",
     "sourceType": "Demonstration",
-    "question": "Join the conversation politely with one relevant idea, using a volume that suits the small group.",
+    "question": "What should you do while someone else is speaking?",
     "explanation": "1 mark for entering at a pause/without interrupting, 1 mark for a relevant contribution and 1 mark for an appropriate conversational volume; 3 marks total.",
     "printable": true,
-    "type": "self-check",
-    "modelAnswer": "1 mark for entering at a pause/without interrupting, 1 mark for a relevant contribution and 1 mark for an appropriate conversational volume; 3 marks total.",
-    "correct": "1 mark for entering at a pause/without interrupting, 1 mark for a relevant contribution and 1 mark for an appropriate conversational volume; 3 marks total."
+    "type": "single",
+    "correct": 0,
+    "answers": [
+      "listen",
+      "interrupt",
+      "shout"
+    ]
   },
   {
     "id": "ac9efly02-p06",
     "curriculumCode": "AC9EFLY02",
     "bank": "practice",
     "sourceType": "Short response",
-    "question": "What could Toby do and say to repair the interaction?",
+    "question": "Which voice is best for speaking to a small group?",
     "explanation": "Stops/waits (1 mark) and gives a suitable repair such as “Sorry, please finish” or “I spoke over you” (1 mark); 2 marks total.",
     "printable": true,
-    "type": "self-check",
-    "modelAnswer": "Stops/waits (1 mark) and gives a suitable repair such as “Sorry, please finish” or “I spoke over you” (1 mark); 2 marks total.",
-    "correct": "Stops/waits (1 mark) and gives a suitable repair such as “Sorry, please finish” or “I spoke over you” (1 mark); 2 marks total."
+    "type": "single",
+    "correct": 0,
+    "answers": [
+      "clear and easy to hear",
+      "a whisper no one can hear",
+      "shouting"
+    ]
   },
   {
     "id": "ac9efly02-p07",
     "curriculumCode": "AC9EFLY02",
     "bank": "practice",
     "sourceType": "Extended response",
-    "question": "Identify the communication problem and suggest two changes that would help the whole class listen.",
+    "question": "You want a turn to speak. What should you do?",
     "explanation": "1 mark for identifying insufficient volume/unclear audience delivery; 1 mark each for two useful changes such as louder clear voice, facing the group, slower pace or waiting for quiet; 1 mark for explaining how a change helps listeners; 4 marks total.",
     "printable": true,
-    "type": "self-check",
-    "modelAnswer": "1 mark for identifying insufficient volume/unclear audience delivery; 1 mark each for two useful changes such as louder clear voice, facing the group, slower pace or waiting for quiet; 1 mark for explaining how a change helps listeners; 4 marks total.",
-    "correct": "1 mark for identifying insufficient volume/unclear audience delivery; 1 mark each for two useful changes such as louder clear voice, facing the group, slower pace or waiting for quiet; 1 mark for explaining how a change helps listeners; 4 marks total."
+    "type": "single",
+    "correct": 0,
+    "answers": [
+      "wait for your turn",
+      "speak over everyone",
+      "leave the group"
+    ]
   },
   {
     "id": "ac9efly02-p08",
     "curriculumCode": "AC9EFLY02",
     "bank": "practice",
     "sourceType": "Extended response",
-    "question": "Propose a fair speaking plan, including what listeners do and how each speaker should use their voice.",
+    "question": "The class is listening to a story. What is good listening?",
     "explanation": "1 mark for a turn system such as an order/object/list; 1 mark for listeners waiting and attending; 1 mark for each speaker using audible but not shouting volume; 1 mark for a transition cue or relevant response between turns; 4 marks total.",
     "printable": true,
-    "type": "self-check",
-    "modelAnswer": "1 mark for a turn system such as an order/object/list; 1 mark for listeners waiting and attending; 1 mark for each speaker using audible but not shouting volume; 1 mark for a transition cue or relevant response between turns; 4 marks total.",
-    "correct": "1 mark for a turn system such as an order/object/list; 1 mark for listeners waiting and attending; 1 mark for each speaker using audible but not shouting volume; 1 mark for a transition cue or relevant response between turns; 4 marks total."
+    "type": "single",
+    "correct": 0,
+    "answers": [
+      "look towards the speaker and listen",
+      "talk to a friend",
+      "make loud noises"
+    ]
   }
 ];
 window.quizQuestions = window.skillrPracticeQuestions;

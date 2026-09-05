@@ -1,67 +1,69 @@
 "use strict";
-window.skillrExamQuestions = [
+window.skillrTestQuestions = [
   {
     "id": "ac9efle03-e01",
     "curriculumCode": "AC9EFLE03",
     "bank": "test",
     "sourceType": "Multiple choice",
-    "question": "Which example is most likely from a poem?",
+    "question": "Who is a character in this sentence? ‘Tom fed the hen.’",
     "explanation": "C — It uses compact lines, rhythm and sound patterning typical of a poem.",
     "printable": true,
     "type": "single",
     "answers": [
-      "“Library opens at 9 am.”",
-      "“Ingredients: flour, milk, egg.”",
-      "“Tap, tap, rain on the track; / drip from the roof and trickle back.”",
-      "“A triangle has three sides.”"
+      "Tom",
+      "fed",
+      "the"
     ],
-    "correct": 2
+    "correct": 0
   },
   {
     "id": "ac9efle03-e02",
     "curriculumCode": "AC9EFLE03",
     "bank": "test",
     "sourceType": "Short response",
-    "question": "Who is the main character?",
+    "question": "What happens in this sentence? ‘The frog jumps into the pond.’",
     "explanation": "Mara. Award 1 mark. The cat is a character but not the main decision-maker described.",
     "printable": true,
-    "type": "text",
+    "type": "single",
     "acceptedAnswers": [
       "Mara"
     ],
-    "correct": "Mara"
+    "correct": 0,
+    "answers": [
+      "the frog jumps",
+      "the pond talks",
+      "nothing happens"
+    ]
   },
   {
     "id": "ac9efle03-e03",
     "curriculumCode": "AC9EFLE03",
     "bank": "test",
     "sourceType": "Multiple choice",
-    "question": "Which option describes an event rather than a character or place?",
+    "question": "Which could be the beginning of a story?",
     "explanation": "D — It tells something that happens.",
     "printable": true,
     "type": "single",
     "answers": [
-      "A short adventure story",
-      "A clever blue penguin",
-      "Beside a quiet harbour",
-      "The bridge cracks during the storm."
+      "One morning, Ana found a tiny key.",
+      "The end.",
+      "That is why they went home."
     ],
-    "correct": 3
+    "correct": 0
   },
   {
     "id": "ac9efle03-e04",
     "curriculumCode": "AC9EFLE03",
     "bank": "test",
     "sourceType": "Multiple choice",
-    "question": "Which ending best resolves this story problem?",
+    "question": "Which could be the ending of a story?",
     "explanation": "A — It concludes the established effort and solves the frozen-fountain problem.",
     "printable": true,
     "type": "single",
     "answers": [
-      "The dragon warms the fountain with a lantern and water flows again.",
-      "A fountain is made from stone.",
-      "Long ago, there was a different village.",
-      "The dragon’s wings are silver."
+      "At last, the puppy was safely home.",
+      "Once upon a time",
+      "First, the gate opened."
     ],
     "correct": 0
   },
@@ -70,48 +72,64 @@ window.skillrExamQuestions = [
     "curriculumCode": "AC9EFLE03",
     "bank": "test",
     "sourceType": "Short response",
-    "question": "Give one feature that helps a reader tell the play page from the story page.",
+    "question": "Who is a character in this sentence? ‘Tom fed the hen.’",
     "explanation": "Names character labels before speech, dialogue arranged for actors, or stage/action directions. Award 1 mark.",
     "printable": true,
-    "type": "self-check",
-    "modelAnswer": "Names character labels before speech, dialogue arranged for actors, or stage/action directions. Award 1 mark.",
-    "correct": "Names character labels before speech, dialogue arranged for actors, or stage/action directions. Award 1 mark."
+    "type": "single",
+    "correct": 0,
+    "answers": [
+      "Tom",
+      "fed",
+      "the"
+    ]
   },
   {
     "id": "ac9efle03-e06",
     "curriculumCode": "AC9EFLE03",
     "bank": "test",
     "sourceType": "Short response",
-    "question": "Add one event in the middle that logically connects the beginning and ending.",
+    "question": "What happens in this sentence? ‘The frog jumps into the pond.’",
     "explanation": "A coherent event involving entering/opening/investigating the door and obtaining the seed. Award 1 mark for connection to the door and 1 mark for connection to the seed; 2 marks total.",
     "printable": true,
-    "type": "self-check",
-    "modelAnswer": "A coherent event involving entering/opening/investigating the door and obtaining the seed. Award 1 mark for connection to the door and 1 mark for connection to the seed; 2 marks total.",
-    "correct": "A coherent event involving entering/opening/investigating the door and obtaining the seed. Award 1 mark for connection to the door and 1 mark for connection to the seed; 2 marks total."
+    "type": "single",
+    "correct": 0,
+    "answers": [
+      "the frog jumps",
+      "the pond talks",
+      "nothing happens"
+    ]
   },
   {
     "id": "ac9efle03-e07",
     "curriculumCode": "AC9EFLE03",
     "bank": "test",
     "sourceType": "Extended response",
-    "question": "Identify the character, beginning situation, main event and ending. Explain how the ending connects to the earlier problem.",
+    "question": "Which could be the beginning of a story?",
     "explanation": "1 mark for young seal (main character), 1 mark for net tangled at dawn (beginning/situation), 1 mark for calling/pulling together (event), 1 mark for resting on clear shore (ending), and 1 mark for explaining that the net problem has been removed/resolved; 5 marks total.",
     "printable": true,
-    "type": "self-check",
-    "modelAnswer": "1 mark for young seal (main character), 1 mark for net tangled at dawn (beginning/situation), 1 mark for calling/pulling together (event), 1 mark for resting on clear shore (ending), and 1 mark for explaining that the net problem has been removed/resolved; 5 marks total.",
-    "correct": "1 mark for young seal (main character), 1 mark for net tangled at dawn (beginning/situation), 1 mark for calling/pulling together (event), 1 mark for resting on clear shore (ending), and 1 mark for explaining that the net problem has been removed/resolved; 5 marks total."
+    "type": "single",
+    "correct": 0,
+    "answers": [
+      "One morning, Ana found a tiny key.",
+      "The end.",
+      "That is why they went home."
+    ]
   },
   {
     "id": "ac9efle03-e08",
     "curriculumCode": "AC9EFLE03",
     "bank": "test",
     "sourceType": "Extended response",
-    "question": "Turn this moment into a tiny play excerpt. Name at least two characters, give each something to say, and include one action for an actor to perform.",
+    "question": "Which could be the ending of a story?",
     "explanation": "1 mark for two appropriate character labels, 1 mark for baker dialogue, 1 mark for neighbour dialogue, 1 mark for a relevant stage/action direction, and 1 mark for retaining the floating-loaf event; 5 marks total.",
     "printable": true,
-    "type": "self-check",
-    "modelAnswer": "1 mark for two appropriate character labels, 1 mark for baker dialogue, 1 mark for neighbour dialogue, 1 mark for a relevant stage/action direction, and 1 mark for retaining the floating-loaf event; 5 marks total.",
-    "correct": "1 mark for two appropriate character labels, 1 mark for baker dialogue, 1 mark for neighbour dialogue, 1 mark for a relevant stage/action direction, and 1 mark for retaining the floating-loaf event; 5 marks total."
+    "type": "single",
+    "correct": 0,
+    "answers": [
+      "At last, the puppy was safely home.",
+      "Once upon a time",
+      "First, the gate opened."
+    ]
   }
 ];
-window.quizQuestions = window.skillrExamQuestions;
+window.quizQuestions = window.skillrTestQuestions;

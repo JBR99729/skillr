@@ -5,28 +5,38 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9EFLY13",
     "bank": "practice",
     "sourceType": "Short response",
-    "question": "What sound begins moon? Write the letter that usually represents that sound.",
+    "question": "Which letter shows the first sound in moon?",
     "explanation": "/m/, written m.",
     "printable": true,
-    "type": "text",
+    "type": "single",
     "acceptedAnswers": [
       "/m/, written m"
     ],
-    "correct": "/m/, written m"
+    "correct": 0,
+    "answers": [
+      "m",
+      "n",
+      "s"
+    ]
   },
   {
     "id": "ac9efly13-p02",
     "curriculumCode": "AC9EFLY13",
     "bank": "practice",
     "sourceType": "Short response",
-    "question": "Say the last sound in leaf and write the letter that represents it.",
+    "question": "Which spelling matches the word fish?",
     "explanation": "/f/, written f.",
     "printable": true,
-    "type": "text",
+    "type": "single",
     "acceptedAnswers": [
       "/f/, written f"
     ],
-    "correct": "/f/, written f"
+    "correct": 0,
+    "answers": [
+      "fish",
+      "fesh",
+      "fos"
+    ]
   },
   {
     "id": "ac9efly13-p03",
@@ -50,65 +60,80 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9EFLY13",
     "bank": "practice",
     "sourceType": "Short response",
-    "question": "Stretch frog, say its sounds in order and write the word.",
+    "question": "Which spelling matches the word frog?",
     "explanation": "Segments /f/ /r/ /o/ /g/ (1 mark) and writes frog with all four sound positions represented in order (2 marks). 3 marks total.",
     "printable": true,
-    "type": "self-check",
-    "modelAnswer": "Segments /f/ /r/ /o/ /g/ (1 mark) and writes frog with all four sound positions represented in order (2 marks). 3 marks total.",
-    "correct": "Segments /f/ /r/ /o/ /g/ (1 mark) and writes frog with all four sound positions represented in order (2 marks). 3 marks total."
+    "type": "single",
+    "correct": 0,
+    "answers": [
+      "frog",
+      "fog",
+      "frag"
+    ]
   },
   {
     "id": "ac9efly13-p05",
     "curriculumCode": "AC9EFLY13",
     "bank": "practice",
     "sourceType": "Multiple choice",
-    "question": "Which spelling records the beginning, middle and final consonant sounds in the correct order?",
+    "question": "Which letter shows the first sound in moon?",
     "explanation": "C — nest includes /n/ /e/ /s/ /t/ in order.",
     "printable": true,
     "type": "single",
     "answers": [
-      "net",
-      "nset",
-      "nest",
-      "nesp"
+      "m",
+      "n",
+      "s"
     ],
-    "correct": 2
+    "correct": 0
   },
   {
     "id": "ac9efly13-p06",
     "curriculumCode": "AC9EFLY13",
     "bank": "practice",
     "sourceType": "Short response",
-    "question": "Which sound is missing? Add the correct letter and rewrite the word.",
+    "question": "Which spelling matches the word fish?",
     "explanation": "Identifies missing /l/ (1 mark), adds l after p (1 mark) and writes plan (1 mark). 3 marks total.",
     "printable": true,
-    "type": "self-check",
-    "modelAnswer": "Identifies missing /l/ (1 mark), adds l after p (1 mark) and writes plan (1 mark). 3 marks total.",
-    "correct": "Identifies missing /l/ (1 mark), adds l after p (1 mark) and writes plan (1 mark). 3 marks total."
+    "type": "single",
+    "correct": 0,
+    "answers": [
+      "fish",
+      "fesh",
+      "fos"
+    ]
   },
   {
     "id": "ac9efly13-p07",
     "curriculumCode": "AC9EFLY13",
     "bank": "practice",
     "sourceType": "Extended response",
-    "question": "Spell fish. Point to the letters for the first, middle and final sounds, and explain why two letters are used at the end.",
+    "question": "Which letter shows the last sound in leaf?",
     "explanation": "Writes fish (2 marks); maps f to /f/ and i to /i/ (1 mark); explains that sh is a 2-letter pattern representing the single /sh/ sound (1 mark). 4 marks total.",
     "printable": true,
-    "type": "self-check",
-    "modelAnswer": "Writes fish (2 marks); maps f to /f/ and i to /i/ (1 mark); explains that sh is a 2-letter pattern representing the single /sh/ sound (1 mark). 4 marks total.",
-    "correct": "Writes fish (2 marks); maps f to /f/ and i to /i/ (1 mark); explains that sh is a 2-letter pattern representing the single /sh/ sound (1 mark). 4 marks total."
+    "type": "single",
+    "correct": 0,
+    "answers": [
+      "f",
+      "v",
+      "s"
+    ]
   },
   {
     "id": "ac9efly13-p08",
     "curriculumCode": "AC9EFLY13",
     "bank": "practice",
     "sourceType": "Extended response",
-    "question": "Fill the sound boxes with letters, write the whole word and check it by blending your spelling.",
+    "question": "Which spelling matches the word frog?",
     "explanation": "Maps /d/ /r/ /u/ /m/ to d-r-u-m in order (2 marks); writes drum (1 mark); blends the written form accurately to check (1 mark). 4 marks total.",
     "printable": true,
-    "type": "self-check",
-    "modelAnswer": "Maps /d/ /r/ /u/ /m/ to d-r-u-m in order (2 marks); writes drum (1 mark); blends the written form accurately to check (1 mark). 4 marks total.",
-    "correct": "Maps /d/ /r/ /u/ /m/ to d-r-u-m in order (2 marks); writes drum (1 mark); blends the written form accurately to check (1 mark). 4 marks total."
+    "type": "single",
+    "correct": 0,
+    "answers": [
+      "frog",
+      "fog",
+      "frag"
+    ]
   }
 ];
 window.quizQuestions = window.skillrPracticeQuestions;

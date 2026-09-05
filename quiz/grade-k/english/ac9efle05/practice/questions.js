@@ -5,103 +5,131 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9EFLE05",
     "bank": "practice",
     "sourceType": "Sequencing",
-    "question": "Put these retelling parts in order: (a) finds the button, (b) loses the button, (c) follows the trail.",
+    "question": "What should you include when retelling a familiar story?",
     "explanation": "(b), (c), (a). Award 1 mark for the complete order.",
     "printable": true,
-    "type": "self-check",
-    "modelAnswer": "(b), (c), (a). Award 1 mark for the complete order.",
-    "correct": "(b), (c), (a). Award 1 mark for the complete order."
+    "type": "single",
+    "correct": 0,
+    "answers": [
+      "the important events in order",
+      "only your favourite colour",
+      "unrelated events"
+    ]
   },
   {
     "id": "ac9efle05-p02",
     "curriculumCode": "AC9EFLE05",
     "bank": "practice",
     "sourceType": "Multiple choice",
-    "question": "Which event must be included in a short retell?",
+    "question": "The story says the bear finds honey. Which action could show this in a play?",
     "explanation": "C — It is the central action and resolution of the story.",
     "printable": true,
     "type": "single",
     "answers": [
-      "Boats can carry ropes.",
-      "The lighthouse is painted every summer.",
-      "The lighthouse guides the lost boat with its flashing pattern.",
-      "The shore has many kinds of sand."
+      "pretend to find and taste honey",
+      "pretend to fly a plane",
+      "go to sleep before starting"
     ],
-    "correct": 2
+    "correct": 0
   },
   {
     "id": "ac9efle05-p03",
     "curriculumCode": "AC9EFLE05",
     "bank": "practice",
     "sourceType": "Oral response",
-    "question": "Retell the story using the words first, next and finally.",
+    "question": "Which change adapts a familiar story?",
     "explanation": "1 mark for each accurately sequenced event and 1 mark for using the three sequence words appropriately; 4 marks total.",
     "printable": true,
-    "type": "self-check",
-    "modelAnswer": "1 mark for each accurately sequenced event and 1 mark for using the three sequence words appropriately; 4 marks total.",
-    "correct": "1 mark for each accurately sequenced event and 1 mark for using the three sequence words appropriately; 4 marks total."
+    "type": "single",
+    "correct": 0,
+    "answers": [
+      "change the setting from a forest to a beach",
+      "copy every part exactly",
+      "remove every character"
+    ]
   },
   {
     "id": "ac9efle05-p04",
     "curriculumCode": "AC9EFLE05",
     "bank": "practice",
     "sourceType": "Short response",
-    "question": "If you acted as the moon, name one movement and one voice choice that would show the character clearly.",
+    "question": "Which picture best helps retell the ending?",
     "explanation": "1 mark for a relevant movement such as stretching/yawning/drooping and 1 mark for a suitable voice such as slow, sleepy or soft; 2 marks total.",
     "printable": true,
-    "type": "text",
+    "type": "single",
     "acceptedAnswers": [
       "1 mark for a relevant movement such as stretching/yawning/drooping and 1 mark for a suitable voice such as slow, sleepy or soft; 2 marks total"
     ],
-    "correct": "1 mark for a relevant movement such as stretching/yawning/drooping and 1 mark for a suitable voice such as slow, sleepy or soft; 2 marks total"
+    "correct": 0,
+    "answers": [
+      "a picture of the characters safely home",
+      "an unrelated car",
+      "a blank page"
+    ]
   },
   {
     "id": "ac9efle05-p05",
     "curriculumCode": "AC9EFLE05",
     "bank": "practice",
     "sourceType": "Drawing response",
-    "question": "Plan or draw three pictures that retell the beginning, middle and ending. Explain what happens in each.",
+    "question": "What should you include when retelling a familiar story?",
     "explanation": "1 mark each for images representing discovery, ringing/calling and concert ending; 1 mark for an oral explanation that links the images in sequence; 4 marks total.",
     "printable": true,
-    "type": "self-check",
-    "modelAnswer": "1 mark each for images representing discovery, ringing/calling and concert ending; 1 mark for an oral explanation that links the images in sequence; 4 marks total.",
-    "correct": "1 mark each for images representing discovery, ringing/calling and concert ending; 1 mark for an oral explanation that links the images in sequence; 4 marks total."
+    "type": "single",
+    "correct": 0,
+    "answers": [
+      "the important events in order",
+      "only your favourite colour",
+      "unrelated events"
+    ]
   },
   {
     "id": "ac9efle05-p06",
     "curriculumCode": "AC9EFLE05",
     "bank": "practice",
     "sourceType": "Extended response",
-    "question": "Adapt the story so it happens in a snowy town. Change two details but keep the main purpose of the journey.",
+    "question": "The story says the bear finds honey. Which action could show this in a play?",
     "explanation": "1 mark for retaining delivery/helping-friend purpose, up to 2 marks for coherent setting changes such as transport, obstacles, clothing or locations, and 1 mark for a connected adapted account; 4 marks total.",
     "printable": true,
-    "type": "self-check",
-    "modelAnswer": "1 mark for retaining delivery/helping-friend purpose, up to 2 marks for coherent setting changes such as transport, obstacles, clothing or locations, and 1 mark for a connected adapted account; 4 marks total.",
-    "correct": "1 mark for retaining delivery/helping-friend purpose, up to 2 marks for coherent setting changes such as transport, obstacles, clothing or locations, and 1 mark for a connected adapted account; 4 marks total."
+    "type": "single",
+    "correct": 0,
+    "answers": [
+      "pretend to find and taste honey",
+      "pretend to fly a plane",
+      "go to sleep before starting"
+    ]
   },
   {
     "id": "ac9efle05-p07",
     "curriculumCode": "AC9EFLE05",
     "bank": "practice",
     "sourceType": "Extended response",
-    "question": "You want to adapt the characters into animals. Name two details you can change and two story ideas you should keep so the adaptation remains recognisable.",
+    "question": "Which change adapts a familiar story?",
     "explanation": "Up to 2 marks for changeable details such as animal species, setting, object or dialogue; up to 2 marks for retained ideas such as reach problem, help/cooperation and sharing resolution; 4 marks total.",
     "printable": true,
-    "type": "self-check",
-    "modelAnswer": "Up to 2 marks for changeable details such as animal species, setting, object or dialogue; up to 2 marks for retained ideas such as reach problem, help/cooperation and sharing resolution; 4 marks total.",
-    "correct": "Up to 2 marks for changeable details such as animal species, setting, object or dialogue; up to 2 marks for retained ideas such as reach problem, help/cooperation and sharing resolution; 4 marks total."
+    "type": "single",
+    "correct": 0,
+    "answers": [
+      "change the setting from a forest to a beach",
+      "copy every part exactly",
+      "remove every character"
+    ]
   },
   {
     "id": "ac9efle05-p08",
     "curriculumCode": "AC9EFLE05",
     "bank": "practice",
     "sourceType": "Extended response",
-    "question": "Plan a short performance with roles, three actions and one line of dialogue. Explain how your plan retells all key events.",
+    "question": "Which picture best helps retell the ending?",
     "explanation": "1 mark for allocating bird and mouse roles; up to 2 marks for three actions covering problem, help and outcome; 1 mark for relevant dialogue; 1 mark for explaining coverage/order of key events; 5 marks total.",
     "printable": true,
-    "type": "self-check",
-    "modelAnswer": "1 mark for allocating bird and mouse roles; up to 2 marks for three actions covering problem, help and outcome; 1 mark for relevant dialogue; 1 mark for explaining coverage/order of key events; 5 marks total.",
-    "correct": "1 mark for allocating bird and mouse roles; up to 2 marks for three actions covering problem, help and outcome; 1 mark for relevant dialogue; 1 mark for explaining coverage/order of key events; 5 marks total."
+    "type": "single",
+    "correct": 0,
+    "answers": [
+      "a picture of the characters safely home",
+      "an unrelated car",
+      "a blank page"
+    ]
   }
 ];
 window.quizQuestions = window.skillrPracticeQuestions;

@@ -5,15 +5,14 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9EFLE03",
     "bank": "practice",
     "sourceType": "Multiple choice",
-    "question": "Which text is most clearly a made-up literary story?",
+    "question": "Who is a character in this sentence? ‘Tom fed the hen.’",
     "explanation": "A — It presents an imaginative character and event.",
     "printable": true,
     "type": "single",
     "answers": [
-      "A tale about a moon moth that learns to sing",
-      "A label naming the parts of a plant",
-      "A list of bus departure times",
-      "A sign that says “Wash your hands”"
+      "Tom",
+      "fed",
+      "the"
     ],
     "correct": 0
   },
@@ -22,89 +21,112 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9EFLE03",
     "bank": "practice",
     "sourceType": "Matching",
-    "question": "Match: (a) “Kip the kangaroo”, (b) “Kip loses his red scarf”, (c) “At last, Kip finds it beside the creek” to character, event, or ending.",
+    "question": "What happens in this sentence? ‘The frog jumps into the pond.’",
     "explanation": "(a) character, (b) event, (c) ending. Award 1 mark each; 3 marks total.",
     "printable": true,
-    "type": "self-check",
-    "modelAnswer": "(a) character, (b) event, (c) ending. Award 1 mark each; 3 marks total.",
-    "correct": "(a) character, (b) event, (c) ending. Award 1 mark each; 3 marks total."
+    "type": "single",
+    "correct": 0,
+    "answers": [
+      "the frog jumps",
+      "the pond talks",
+      "nothing happens"
+    ]
   },
   {
     "id": "ac9efle03-p03",
     "curriculumCode": "AC9EFLE03",
     "bank": "practice",
     "sourceType": "Multiple choice",
-    "question": "Which sentence would work best as the beginning of a story?",
+    "question": "Which could be the beginning of a story?",
     "explanation": "B — It introduces a time, character and event that can begin the story.",
     "printable": true,
     "type": "single",
     "answers": [
-      "That is how the garden gate was opened at last.",
-      "One windy morning, Rosa found a silver key on her doorstep.",
+      "One morning, Ana found a tiny key.",
       "The end.",
-      "Rosa had already told everyone what happened next."
+      "That is why they went home."
     ],
-    "correct": 1
+    "correct": 0
   },
   {
     "id": "ac9efle03-p04",
     "curriculumCode": "AC9EFLE03",
     "bank": "practice",
     "sourceType": "Matching",
-    "question": "Match: (a) lines with repeated rhythm about rain, (b) characters’ names followed by words for actors to say, (c) a narrator tells how a lost fox gets home.",
+    "question": "Which could be the ending of a story?",
     "explanation": "(a) poem, (b) play, (c) story. Award 1 mark each; 3 marks total.",
     "printable": true,
-    "type": "self-check",
-    "modelAnswer": "(a) poem, (b) play, (c) story. Award 1 mark each; 3 marks total.",
-    "correct": "(a) poem, (b) play, (c) story. Award 1 mark each; 3 marks total."
+    "type": "single",
+    "correct": 0,
+    "answers": [
+      "At last, the puppy was safely home.",
+      "Once upon a time",
+      "First, the gate opened."
+    ]
   },
   {
     "id": "ac9efle03-p05",
     "curriculumCode": "AC9EFLE03",
     "bank": "practice",
     "sourceType": "Short response",
-    "question": "Which story feature is missing, and give one possible version of it.",
+    "question": "Who is a character in this sentence? ‘Tom fed the hen.’",
     "explanation": "Identifies an ending (1 mark) and supplies a coherent resolution, such as finding the wheel or solving the problem another way (1 mark); 2 marks total.",
     "printable": true,
-    "type": "self-check",
-    "modelAnswer": "Identifies an ending (1 mark) and supplies a coherent resolution, such as finding the wheel or solving the problem another way (1 mark); 2 marks total.",
-    "correct": "Identifies an ending (1 mark) and supplies a coherent resolution, such as finding the wheel or solving the problem another way (1 mark); 2 marks total."
+    "type": "single",
+    "correct": 0,
+    "answers": [
+      "Tom",
+      "fed",
+      "the"
+    ]
   },
   {
     "id": "ac9efle03-p06",
     "curriculumCode": "AC9EFLE03",
     "bank": "practice",
     "sourceType": "Short response",
-    "question": "Who is the character, and where does the story take place?",
+    "question": "What happens in this sentence? ‘The frog jumps into the pond.’",
     "explanation": "Character: Willa/the young wombat (1 mark). Place/setting: a snowy valley (1 mark); 2 marks total.",
     "printable": true,
-    "type": "self-check",
-    "modelAnswer": "Character: Willa/the young wombat (1 mark). Place/setting: a snowy valley (1 mark); 2 marks total.",
-    "correct": "Character: Willa/the young wombat (1 mark). Place/setting: a snowy valley (1 mark); 2 marks total."
+    "type": "single",
+    "correct": 0,
+    "answers": [
+      "the frog jumps",
+      "the pond talks",
+      "nothing happens"
+    ]
   },
   {
     "id": "ac9efle03-p07",
     "curriculumCode": "AC9EFLE03",
     "bank": "practice",
     "sourceType": "Sequencing",
-    "question": "Put the events in story order and explain which part acts as the ending.",
+    "question": "Which could be the beginning of a story?",
     "explanation": "(b), (c), (a). Award 1 mark for correct order, 1 mark for identifying (a) as the ending and 1 mark for explaining that it resolves the runaway-kite event; 3 marks total.",
     "printable": true,
-    "type": "self-check",
-    "modelAnswer": "(b), (c), (a). Award 1 mark for correct order, 1 mark for identifying (a) as the ending and 1 mark for explaining that it resolves the runaway-kite event; 3 marks total.",
-    "correct": "(b), (c), (a). Award 1 mark for correct order, 1 mark for identifying (a) as the ending and 1 mark for explaining that it resolves the runaway-kite event; 3 marks total."
+    "type": "single",
+    "correct": 0,
+    "answers": [
+      "One morning, Ana found a tiny key.",
+      "The end.",
+      "That is why they went home."
+    ]
   },
   {
     "id": "ac9efle03-p08",
     "curriculumCode": "AC9EFLE03",
     "bank": "practice",
     "sourceType": "Extended response",
-    "question": "Plan a beginning, one main event and an ending for a story about the shy cloud. Keep the same character connected through all three parts.",
+    "question": "Which could be the ending of a story?",
     "explanation": "1 mark for an opening that introduces the cloud/situation, 1 mark for a central event or problem, 1 mark for a coherent ending, and 1 mark for continuity across the parts; 4 marks total.",
     "printable": true,
-    "type": "self-check",
-    "modelAnswer": "1 mark for an opening that introduces the cloud/situation, 1 mark for a central event or problem, 1 mark for a coherent ending, and 1 mark for continuity across the parts; 4 marks total.",
-    "correct": "1 mark for an opening that introduces the cloud/situation, 1 mark for a central event or problem, 1 mark for a coherent ending, and 1 mark for continuity across the parts; 4 marks total."
+    "type": "single",
+    "correct": 0,
+    "answers": [
+      "At last, the puppy was safely home.",
+      "Once upon a time",
+      "First, the gate opened."
+    ]
   }
 ];
 window.quizQuestions = window.skillrPracticeQuestions;

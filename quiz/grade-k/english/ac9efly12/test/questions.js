@@ -1,112 +1,135 @@
 "use strict";
-window.skillrExamQuestions = [
+window.skillrTestQuestions = [
   {
     "id": "ac9efly12-e01",
     "curriculumCode": "AC9EFLY12",
     "bank": "test",
     "sourceType": "Oral response",
-    "question": "Say each sound, then blend the sounds to read the whole word.",
+    "question": "Blend c-a-t. Which word is it?",
     "explanation": "/p/ /e/ /n/, pen.",
     "printable": true,
-    "type": "self-check",
-    "modelAnswer": "/p/ /e/ /n/, pen.",
-    "correct": "/p/ /e/ /n/, pen."
+    "type": "single",
+    "correct": 0,
+    "answers": [
+      "cat",
+      "cot",
+      "cap"
+    ]
   },
   {
     "id": "ac9efly12-e02",
     "curriculumCode": "AC9EFLY12",
     "bank": "test",
     "sourceType": "Short response",
-    "question": "Write the three letters that represent the sounds in rug.",
+    "question": "Which letter completes s_n to make sun?",
     "explanation": "rug.",
     "printable": true,
-    "type": "text",
+    "type": "single",
     "acceptedAnswers": [
       "rug"
     ],
-    "correct": "rug"
+    "correct": 0,
+    "answers": [
+      "u",
+      "a",
+      "i"
+    ]
   },
   {
     "id": "ac9efly12-e03",
     "curriculumCode": "AC9EFLY12",
     "bank": "test",
     "sourceType": "Multiple choice",
-    "question": "Which group of letters shows those sounds in the same order?",
+    "question": "Which word has the middle sound /i/?",
     "explanation": "C — h-o-t represents /h/ /o/ /t/ in sequence and blends to hot.",
     "printable": true,
     "type": "single",
     "answers": [
-      "o-h-t",
-      "h-t-o",
-      "h-o-t",
-      "t-o-h"
+      "pig",
+      "pen",
+      "pot"
     ],
-    "correct": 2
+    "correct": 0
   },
   {
     "id": "ac9efly12-e04",
     "curriculumCode": "AC9EFLY12",
     "bank": "test",
     "sourceType": "Matching",
-    "question": "Point to the written word that matches each spoken word, then blend it to check.",
+    "question": "Which letters spell the word map?",
     "explanation": "Correctly matches van, mud and jet (1 mark each). Award a fourth mark if all 3 are checked by accurate blending. 4 marks total.",
     "printable": true,
-    "type": "self-check",
-    "modelAnswer": "Correctly matches van, mud and jet (1 mark each). Award a fourth mark if all 3 are checked by accurate blending. 4 marks total.",
-    "correct": "Correctly matches van, mud and jet (1 mark each). Award a fourth mark if all 3 are checked by accurate blending. 4 marks total."
+    "type": "single",
+    "correct": 0,
+    "answers": [
+      "m-a-p",
+      "p-a-m",
+      "m-o-p"
+    ]
   },
   {
     "id": "ac9efly12-e05",
     "curriculumCode": "AC9EFLY12",
     "bank": "test",
     "sourceType": "Multiple choice",
-    "question": "Which letter completes the word?",
+    "question": "Blend c-a-t. Which word is it?",
     "explanation": "D — The middle sound in lid is /i/, represented by i.",
     "printable": true,
     "type": "single",
     "answers": [
-      "a",
-      "e",
-      "o",
-      "i"
+      "cat",
+      "cot",
+      "cap"
     ],
-    "correct": 3
+    "correct": 0
   },
   {
     "id": "ac9efly12-e06",
     "curriculumCode": "AC9EFLY12",
     "bank": "test",
     "sourceType": "Oral response",
-    "question": "Blend and read each word. After reading, choose the word that names an animal.",
+    "question": "Which letter completes s_n to make sun?",
     "explanation": "1 mark for each accurately read word (4 marks); identifies pig (1 mark). 5 marks total.",
     "printable": true,
-    "type": "self-check",
-    "modelAnswer": "1 mark for each accurately read word (4 marks); identifies pig (1 mark). 5 marks total.",
-    "correct": "1 mark for each accurately read word (4 marks); identifies pig (1 mark). 5 marks total."
+    "type": "single",
+    "correct": 0,
+    "answers": [
+      "u",
+      "a",
+      "i"
+    ]
   },
   {
     "id": "ac9efly12-e07",
     "curriculumCode": "AC9EFLY12",
     "bank": "test",
     "sourceType": "Extended response",
-    "question": "Read the written word, identify the incorrect letter and repair the spelling. Explain how the final sound proves your answer.",
+    "question": "Which word has the middle sound /i/?",
     "explanation": "Blends fid as written (1 mark); identifies d as incorrect (1 mark); writes fit with t (1 mark); explains that the final /t/ sound is represented by t, not d (1 mark). 4 marks total.",
     "printable": true,
-    "type": "self-check",
-    "modelAnswer": "Blends fid as written (1 mark); identifies d as incorrect (1 mark); writes fit with t (1 mark); explains that the final /t/ sound is represented by t, not d (1 mark). 4 marks total.",
-    "correct": "Blends fid as written (1 mark); identifies d as incorrect (1 mark); writes fit with t (1 mark); explains that the final /t/ sound is represented by t, not d (1 mark). 4 marks total."
+    "type": "single",
+    "correct": 0,
+    "answers": [
+      "pig",
+      "pen",
+      "pot"
+    ]
   },
   {
     "id": "ac9efly12-e08",
     "curriculumCode": "AC9EFLY12",
     "bank": "test",
     "sourceType": "Extended response",
-    "question": "Segment and write both words. Underline the letter that changes, read each completed word and explain how that one letter changes the spoken word.",
+    "question": "Which letters spell the word map?",
     "explanation": "Writes log (1 mark) and leg (1 mark); underlines o/e as the changing medial letters (1 mark); accurately blends both (1 mark); explains that the changed letter represents a different middle vowel sound and therefore a different word (1 mark). 5 marks total.",
     "printable": true,
-    "type": "self-check",
-    "modelAnswer": "Writes log (1 mark) and leg (1 mark); underlines o/e as the changing medial letters (1 mark); accurately blends both (1 mark); explains that the changed letter represents a different middle vowel sound and therefore a different word (1 mark). 5 marks total.",
-    "correct": "Writes log (1 mark) and leg (1 mark); underlines o/e as the changing medial letters (1 mark); accurately blends both (1 mark); explains that the changed letter represents a different middle vowel sound and therefore a different word (1 mark). 5 marks total."
+    "type": "single",
+    "correct": 0,
+    "answers": [
+      "m-a-p",
+      "p-a-m",
+      "m-o-p"
+    ]
   }
 ];
-window.quizQuestions = window.skillrExamQuestions;
+window.quizQuestions = window.skillrTestQuestions;

@@ -39,12 +39,16 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9EFLA08",
     "bank": "practice",
     "sourceType": "Matching",
-    "question": "Match each word to where it is most likely used: (a) helmet, (b) ingredient, (c) goalkeeper, (d) cocoon. Contexts: riding a bike, cooking, soccer, learning about butterfly growth.",
+    "question": "Which word belongs with school?",
     "explanation": "helmet–riding a bike; ingredient–cooking; goalkeeper–soccer; cocoon–butterfly growth. Award 1 mark each; 4 marks total.",
     "printable": true,
-    "type": "self-check",
-    "modelAnswer": "helmet–riding a bike; ingredient–cooking; goalkeeper–soccer; cocoon–butterfly growth. Award 1 mark each; 4 marks total.",
-    "correct": "helmet–riding a bike; ingredient–cooking; goalkeeper–soccer; cocoon–butterfly growth. Award 1 mark each; 4 marks total."
+    "type": "single",
+    "correct": 0,
+    "answers": [
+      "classroom",
+      "saucepan",
+      "bathtub"
+    ]
   },
   {
     "id": "ac9efla08-p04",
@@ -68,48 +72,64 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9EFLA08",
     "bank": "practice",
     "sourceType": "Short response",
-    "question": "In this explanation, what does habitat mean? Give another possible habitat.",
+    "question": "Which word names something used for writing?",
     "explanation": "States that it is a place/home where a living thing lives (1 mark) and gives a plausible example such as forest, ocean, nest area or desert (1 mark); 2 marks total.",
     "printable": true,
-    "type": "self-check",
-    "modelAnswer": "States that it is a place/home where a living thing lives (1 mark) and gives a plausible example such as forest, ocean, nest area or desert (1 mark); 2 marks total.",
-    "correct": "States that it is a place/home where a living thing lives (1 mark) and gives a plausible example such as forest, ocean, nest area or desert (1 mark); 2 marks total."
+    "type": "single",
+    "correct": 0,
+    "answers": [
+      "pencil",
+      "pillow",
+      "plate"
+    ]
   },
   {
     "id": "ac9efla08-p06",
     "curriculumCode": "AC9EFLA08",
     "bank": "practice",
     "sourceType": "Oral response",
-    "question": "Name three words that would help you talk clearly about that interest. Explain one word if your listener may not know it.",
+    "question": "Which word means very small?",
     "explanation": "1 mark for each of three relevant words and 1 mark for a clear explanation/example of one word; 4 marks total. Do not judge the chosen interest.",
     "printable": true,
-    "type": "self-check",
-    "modelAnswer": "1 mark for each of three relevant words and 1 mark for a clear explanation/example of one word; 4 marks total. Do not judge the chosen interest.",
-    "correct": "1 mark for each of three relevant words and 1 mark for a clear explanation/example of one word; 4 marks total. Do not judge the chosen interest."
+    "type": "single",
+    "correct": 0,
+    "answers": [
+      "tiny",
+      "huge",
+      "loud"
+    ]
   },
   {
     "id": "ac9efla08-p07",
     "curriculumCode": "AC9EFLA08",
     "bank": "practice",
     "sourceType": "Extended response",
-    "question": "Replace thing with a clearer word and explain why the new sentence is more useful.",
+    "question": "Which word belongs with school?",
     "explanation": "Replaces it with “flower” or a more precise suitable plant-part word (1 mark), gives a complete revised sentence (1 mark), and explains that the precise word identifies exactly what opened (1 mark); 3 marks total.",
     "printable": true,
-    "type": "self-check",
-    "modelAnswer": "Replaces it with “flower” or a more precise suitable plant-part word (1 mark), gives a complete revised sentence (1 mark), and explains that the precise word identifies exactly what opened (1 mark); 3 marks total.",
-    "correct": "Replaces it with “flower” or a more precise suitable plant-part word (1 mark), gives a complete revised sentence (1 mark), and explains that the precise word identifies exactly what opened (1 mark); 3 marks total."
+    "type": "single",
+    "correct": 0,
+    "answers": [
+      "classroom",
+      "saucepan",
+      "bathtub"
+    ]
   },
   {
     "id": "ac9efla08-p08",
     "curriculumCode": "AC9EFLA08",
     "bank": "practice",
     "sourceType": "Extended response",
-    "question": "What is similar about the meaning of pattern in both contexts, and what is different?",
+    "question": "Which word describes how ice feels?",
     "explanation": "1 mark for identifying an order/design that repeats or follows a rule in both; 1 mark for shapes/colours in art; 1 mark for sounds/beats in music; 1 mark for clearly contrasting the materials/modes; 4 marks total.",
     "printable": true,
-    "type": "self-check",
-    "modelAnswer": "1 mark for identifying an order/design that repeats or follows a rule in both; 1 mark for shapes/colours in art; 1 mark for sounds/beats in music; 1 mark for clearly contrasting the materials/modes; 4 marks total.",
-    "correct": "1 mark for identifying an order/design that repeats or follows a rule in both; 1 mark for shapes/colours in art; 1 mark for sounds/beats in music; 1 mark for clearly contrasting the materials/modes; 4 marks total."
+    "type": "single",
+    "correct": 0,
+    "answers": [
+      "cold",
+      "furry",
+      "noisy"
+    ]
   }
 ];
 window.quizQuestions = window.skillrPracticeQuestions;

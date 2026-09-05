@@ -5,87 +5,97 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9EFLY01",
     "bank": "practice",
     "sourceType": "Multiple choice",
-    "question": "A book tells how a made-up rabbit travels to the moon and talks to stars. What kind of text is it mainly?",
+    "question": "What is the purpose of a story?",
     "explanation": "C — It uses imagined characters and events to tell a story.",
     "printable": true,
     "type": "single",
     "answers": [
-      "A set of safety instructions",
-      "A factual weather report",
-      "A story",
-      "A timetable"
+      "to entertain with characters and events",
+      "to list bus times",
+      "to label a road"
     ],
-    "correct": 2
+    "correct": 0
   },
   {
     "id": "ac9efly01-p02",
     "curriculumCode": "AC9EFLY01",
     "bank": "practice",
     "sourceType": "Short response",
-    "question": "What is the page’s main purpose?",
+    "question": "What is the purpose of a book about frogs?",
     "explanation": "To inform/teach/explain how bees make honey. Award 1 mark.",
     "printable": true,
-    "type": "text",
+    "type": "single",
     "acceptedAnswers": [
       "To inform/teach/explain how bees make honey"
     ],
-    "correct": "To inform/teach/explain how bees make honey"
+    "correct": 0,
+    "answers": [
+      "to give information about frogs",
+      "to invite someone to a party",
+      "to tell drivers to stop"
+    ]
   },
   {
     "id": "ac9efly01-p03",
     "curriculumCode": "AC9EFLY01",
     "bank": "practice",
     "sourceType": "Matching",
-    "question": "Match: (a) a picture story about a runaway sock, (b) a poster showing handwashing steps, (c) a card saying “Happy Birthday”. Purposes: entertain with a story, instruct how to do something, send a greeting.",
+    "question": "Which text helps you make a sandwich?",
     "explanation": "(a) entertain with a story; (b) instruct; (c) send a greeting. Award 1 mark each; 3 marks total.",
     "printable": true,
-    "type": "self-check",
-    "modelAnswer": "(a) entertain with a story; (b) instruct; (c) send a greeting. Award 1 mark each; 3 marks total.",
-    "correct": "(a) entertain with a story; (b) instruct; (c) send a greeting. Award 1 mark each; 3 marks total."
+    "type": "single",
+    "correct": 0,
+    "answers": [
+      "instructions",
+      "a fairy tale",
+      "a birthday card"
+    ]
   },
   {
     "id": "ac9efly01-p04",
     "curriculumCode": "AC9EFLY01",
     "bank": "practice",
     "sourceType": "Multiple choice",
-    "question": "What is this text most likely trying to do?",
+    "question": "Which text is written to entertain?",
     "explanation": "D — The heading, labels and fact boxes signal an informative purpose.",
     "printable": true,
     "type": "single",
     "answers": [
-      "List the times buses leave",
-      "Invite a koala to a party",
-      "Tell an imaginary adventure with no facts",
-      "Give information about koalas"
+      "a funny story",
+      "a warning sign",
+      "a shopping list"
     ],
-    "correct": 3
+    "correct": 0
   },
   {
     "id": "ac9efly01-p05",
     "curriculumCode": "AC9EFLY01",
     "bank": "practice",
     "sourceType": "Short response",
-    "question": "How are the purposes different?",
+    "question": "What is the purpose of a story?",
     "explanation": "Text A mainly entertains/tells imagined events (1 mark); Text B informs/teaches facts (1 mark); 2 marks total.",
     "printable": true,
-    "type": "self-check",
-    "modelAnswer": "Text A mainly entertains/tells imagined events (1 mark); Text B informs/teaches facts (1 mark); 2 marks total.",
-    "correct": "Text A mainly entertains/tells imagined events (1 mark); Text B informs/teaches facts (1 mark); 2 marks total."
+    "type": "single",
+    "correct": 0,
+    "answers": [
+      "to entertain with characters and events",
+      "to list bus times",
+      "to label a road"
+    ]
   },
   {
     "id": "ac9efly01-p06",
     "curriculumCode": "AC9EFLY01",
     "bank": "practice",
     "sourceType": "Multiple choice",
-    "question": "A child wants to learn the correct steps for planting a seed. Which text would best meet that purpose?",
+    "question": "What is the purpose of a book about frogs?",
     "explanation": "A — Step-by-step instructions are designed to guide an action.",
     "printable": true,
     "type": "single",
     "answers": [
-      "Numbered instructions with pictures of each step",
-      "A fantasy tale about a singing flower",
-      "A birthday invitation",
-      "A rhyme about windy weather"
+      "to give information about frogs",
+      "to invite someone to a party",
+      "to tell drivers to stop"
     ],
     "correct": 0
   },
@@ -94,24 +104,32 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9EFLY01",
     "bank": "practice",
     "sourceType": "Extended response",
-    "question": "Is the book mainly a story or an informative text? Explain two clues and suggest a clearer title.",
+    "question": "Which text helps you make a sandwich?",
     "explanation": "Identifies it as a story (1 mark); gives up to 2 clues such as talking character, imagined adventure or absence of facts; gives a suitable story title (1 mark); 4 marks total.",
     "printable": true,
-    "type": "self-check",
-    "modelAnswer": "Identifies it as a story (1 mark); gives up to 2 clues such as talking character, imagined adventure or absence of facts; gives a suitable story title (1 mark); 4 marks total.",
-    "correct": "Identifies it as a story (1 mark); gives up to 2 clues such as talking character, imagined adventure or absence of facts; gives a suitable story title (1 mark); 4 marks total."
+    "type": "single",
+    "correct": 0,
+    "answers": [
+      "instructions",
+      "a fairy tale",
+      "a birthday card"
+    ]
   },
   {
     "id": "ac9efly01-p08",
     "curriculumCode": "AC9EFLY01",
     "bank": "practice",
     "sourceType": "Extended response",
-    "question": "Plan a text for this purpose. Name its type, two features it should include and why those features help.",
+    "question": "Which text is written to entertain?",
     "explanation": "1 mark for an informative form such as chart, booklet or fact page; up to 2 marks for useful features such as clear photos/drawings, names, labels or simple identifying facts; 1 mark for linking features to bird recognition; 4 marks total.",
     "printable": true,
-    "type": "self-check",
-    "modelAnswer": "1 mark for an informative form such as chart, booklet or fact page; up to 2 marks for useful features such as clear photos/drawings, names, labels or simple identifying facts; 1 mark for linking features to bird recognition; 4 marks total.",
-    "correct": "1 mark for an informative form such as chart, booklet or fact page; up to 2 marks for useful features such as clear photos/drawings, names, labels or simple identifying facts; 1 mark for linking features to bird recognition; 4 marks total."
+    "type": "single",
+    "correct": 0,
+    "answers": [
+      "a funny story",
+      "a warning sign",
+      "a shopping list"
+    ]
   }
 ];
 window.quizQuestions = window.skillrPracticeQuestions;
