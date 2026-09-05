@@ -4,505 +4,480 @@ window.skillrPracticeQuestions = [
     "id": "ac9sfu01-p-001",
     "curriculumCode": "AC9SFU01",
     "bank": "practice",
-    "skill": "identify external feature",
-    "question": "Which feature can be seen on the outside of the duck?",
-    "explanation": "Feathers can be observed without looking inside.",
+    "skill": "observe plant features",
+    "question": "A child looks at a plant. Which part is usually green and flat?",
+    "explanation": "A leaf is an external plant part that is often green and flat.",
     "printable": true,
     "type": "single",
     "answers": [
-      "feathers",
-      "heartbeat",
-      "hunger"
+      "Leaf",
+      "Beak",
+      "Paw"
     ],
     "correct": 0,
-    "visual": "🦆",
-    "audioPrompt": "Which feature can be seen on the outside of the duck?",
+    "audioPrompt": "A child looks at a plant. Which part is usually green and flat?",
     "structuredExplanation": {
-      "summary": "Feathers can be observed without looking inside."
+      "summary": "A leaf is an external plant part that is often green and flat."
     }
   },
   {
     "id": "ac9sfu01-p-002",
     "curriculumCode": "AC9SFU01",
     "bank": "practice",
-    "skill": "identify plant part",
-    "question": "Which plant part is the carrot?",
-    "explanation": "The carrot is a root.",
+    "skill": "observe animal features",
+    "question": "A bird, a butterfly and a bat are different animals. What outside feature do they all have?",
+    "explanation": "They can be grouped together because all three have wings.",
     "printable": true,
     "type": "single",
     "answers": [
-      "root",
-      "flower",
-      "seed"
+      "Fins",
+      "Wings",
+      "Roots"
     ],
-    "correct": 0,
-    "visual": "🥕",
-    "audioPrompt": "Which plant part is the carrot?",
+    "correct": 1,
+    "audioPrompt": "A bird, a butterfly and a bat are different animals. What outside feature do they all have?",
     "structuredExplanation": {
-      "summary": "The carrot is a root."
+      "summary": "They can be grouped together because all three have wings."
     }
   },
   {
     "id": "ac9sfu01-p-003",
     "curriculumCode": "AC9SFU01",
     "bank": "practice",
-    "skill": "group animals by feature",
-    "question": "Which feature can you see on a cat?",
-    "explanation": "The group uses an observable external feature.",
+    "skill": "observe animal features",
+    "question": "A goldfish has small, overlapping pieces covering its body. What are these called?",
+    "explanation": "These pieces are scales, an outside covering of the goldfish.",
     "printable": true,
     "type": "single",
     "answers": [
-      "fur",
-      "heartbeat",
-      "thoughts"
+      "Fur",
+      "Feathers",
+      "Scales"
     ],
-    "correct": 0,
-    "visual": "🐈 🐕 | 🦎 🦜",
-    "audioPrompt": "Which feature can you see on a cat?",
+    "correct": 2,
+    "audioPrompt": "A goldfish has small, overlapping pieces covering its body. What are these called?",
     "structuredExplanation": {
-      "summary": "The group uses an observable external feature."
+      "summary": "These pieces are scales, an outside covering of the goldfish."
     }
   },
   {
     "id": "ac9sfu01-p-004",
     "curriculumCode": "AC9SFU01",
     "bank": "practice",
-    "skill": "identify shared features",
-    "question": "Which animal has fins?",
-    "explanation": "Both features can be seen on each item.",
+    "skill": "observe plant features",
+    "question": "Which feature belongs to a plant, not an animal?",
+    "explanation": "A stem is an external plant part. Tails and claws are animal features.",
     "printable": true,
     "type": "single",
     "answers": [
-      "fish",
-      "dog",
-      "ant"
+      "Stem",
+      "Tail",
+      "Claw"
     ],
     "correct": 0,
-    "visual": "🐈 🐕",
-    "audioPrompt": "Which animal has fins?",
+    "audioPrompt": "Which feature belongs to a plant, not an animal?",
     "structuredExplanation": {
-      "summary": "Both features can be seen on each item."
+      "summary": "A stem is an external plant part. Tails and claws are animal features."
     }
   },
   {
     "id": "ac9sfu01-p-005",
     "curriculumCode": "AC9SFU01",
     "bank": "practice",
-    "skill": "compare external features",
-    "question": "Which visible difference can separate the two?",
-    "explanation": "The difference can be observed from the outside.",
+    "skill": "group by observable features",
+    "question": "A rabbit has long ears. Which group could it go in?",
+    "explanation": "Long ears are an observable feature, so the rabbit can be grouped with animals that have long ears.",
     "printable": true,
     "type": "single",
     "answers": [
-      "two legs / four legs",
-      "thoughts",
-      "heartbeat"
+      "Animals with fins",
+      "Animals with long ears",
+      "Plants with flowers"
     ],
-    "correct": 0,
-    "visual": "🧒 🐕",
-    "audioPrompt": "Which visible difference can separate the two?",
+    "correct": 1,
+    "audioPrompt": "A rabbit has long ears. Which group could it go in?",
     "structuredExplanation": {
-      "summary": "The difference can be observed from the outside."
+      "summary": "Long ears are an observable feature, so the rabbit can be grouped with animals that have long ears."
     }
   },
   {
     "id": "ac9sfu01-p-006",
     "curriculumCode": "AC9SFU01",
     "bank": "practice",
-    "skill": "use magnification",
-    "question": "Which part of a plant is usually green and flat?",
-    "explanation": "Magnification reveals small surface details.",
+    "skill": "observe plant features",
+    "question": "A child observes a wattle plant with yellow flower balls. Which feature is the child noticing?",
+    "explanation": "The yellow balls are groups of tiny flowers, an outside plant feature.",
     "printable": true,
     "type": "single",
     "answers": [
-      "leaf",
-      "root",
-      "seed"
+      "Leaf",
+      "Flower",
+      "Stem"
     ],
-    "correct": 0,
-    "visual": "🌼 🔍",
-    "audioPrompt": "Which part of a plant is usually green and flat?",
+    "correct": 1,
+    "audioPrompt": "A child observes a wattle plant with yellow flower balls. Which feature is the child noticing?",
     "structuredExplanation": {
-      "summary": "Magnification reveals small surface details."
+      "summary": "The yellow balls are groups of tiny flowers, an outside plant feature."
     }
   },
   {
     "id": "ac9sfu01-p-007",
     "curriculumCode": "AC9SFU01",
     "bank": "practice",
-    "skill": "recognise different valid groupings",
-    "question": "Which animal has a shell on the outside of its body?",
-    "explanation": "A collection can be sorted in more than one useful way.",
+    "skill": "group by observable features",
+    "question": "A child groups a duck and a chicken together. Which shared feature could they use?",
+    "explanation": "Ducks and chickens both have feathers.",
     "printable": true,
     "type": "single",
     "answers": [
-      "turtle",
-      "rabbit",
-      "fish"
+      "Feathers",
+      "Roots",
+      "Shells"
     ],
     "correct": 0,
-    "visual": "🦋 🐦 🐜 🦘",
-    "audioPrompt": "Which animal has a shell on the outside of its body?",
+    "audioPrompt": "A child groups a duck and a chicken together. Which shared feature could they use?",
     "structuredExplanation": {
-      "summary": "A collection can be sorted in more than one useful way."
+      "summary": "Ducks and chickens both have feathers."
     }
   },
   {
     "id": "ac9sfu01-p-008",
     "curriculumCode": "AC9SFU01",
     "bank": "practice",
-    "skill": "overlapping groups",
-    "question": "Which feature can you see on a butterfly?",
-    "explanation": "It has both visible features, so overlapping groups can show both.",
+    "skill": "group by observable features",
+    "question": "A child finds an empty snail shell and a crab shell at the beach. Which feature could group them together?",
+    "explanation": "Both shells are hard outside coverings that can be observed.",
     "printable": true,
     "type": "single",
     "answers": [
-      "wings",
-      "bones",
-      "thoughts"
+      "Hard outside covering",
+      "Green leaves",
+      "Soft feathers"
     ],
     "correct": 0,
-    "visual": "🦫 fur + bill",
-    "audioPrompt": "Which feature can you see on a butterfly?",
+    "audioPrompt": "A child finds an empty snail shell and a crab shell at the beach. Which feature could group them together?",
     "structuredExplanation": {
-      "summary": "It has both visible features, so overlapping groups can show both."
+      "summary": "Both shells are hard outside coverings that can be observed."
     }
   },
   {
     "id": "ac9sfu01-p-009",
     "curriculumCode": "AC9SFU01",
     "bank": "practice",
-    "skill": "use two-step sort",
-    "question": "Which feature can you see on a duck?",
-    "explanation": "Both steps use observable features.",
+    "skill": "observe animal features",
+    "question": "A child describes tree bark as rough. What does rough describe?",
+    "explanation": "Rough describes the texture of the bark, an outside feature of the tree.",
     "printable": true,
     "type": "single",
     "answers": [
-      "feathers",
-      "thoughts",
-      "hunger"
+      "Its colour",
+      "Its surface feel",
+      "Its height"
     ],
-    "correct": 0,
-    "visual": "🌿 🌼 🍊 🌱",
-    "audioPrompt": "Which feature can you see on a duck?",
+    "correct": 1,
+    "audioPrompt": "A child describes tree bark as rough. What does rough describe?",
     "structuredExplanation": {
-      "summary": "Both steps use observable features."
+      "summary": "Rough describes the texture of the bark, an outside feature of the tree."
     }
   },
   {
     "id": "ac9sfu01-p-010",
     "curriculumCode": "AC9SFU01",
     "bank": "practice",
-    "skill": "choose strongest shared pattern",
-    "question": "Which part of a plant usually grows under the soil?",
-    "explanation": "The shared features are visible on every example.",
+    "skill": "group by observable features",
+    "question": "Which two animals could be grouped because they both have fur?",
+    "explanation": "Cats and dogs commonly have fur on the outside of their bodies.",
     "printable": true,
     "type": "single",
     "answers": [
-      "root",
-      "flower",
-      "leaf"
+      "Fish and frog",
+      "Lizard and turtle",
+      "Cat and dog"
     ],
-    "correct": 0,
-    "visual": "🐟 🐠 🐟",
-    "audioPrompt": "Which part of a plant usually grows under the soil?",
+    "correct": 2,
+    "audioPrompt": "Which two animals could be grouped because they both have fur?",
     "structuredExplanation": {
-      "summary": "The shared features are visible on every example."
+      "summary": "Cats and dogs commonly have fur on the outside of their bodies."
     }
   },
   {
     "id": "ac9sfu01-p-011",
     "curriculumCode": "AC9SFU01",
     "bank": "practice",
-    "skill": "repair inaccurate sort",
-    "question": "Which item does not follow the group rule?",
-    "explanation": "The named item lacks the group feature.",
+    "skill": "observe animal features",
+    "question": "A child compares two leaves. One is long and thin, and one is round. What feature can the child compare?",
+    "explanation": "The child is comparing the shapes of the leaves, an outside plant feature.",
     "printable": true,
     "type": "single",
     "answers": [
-      "mouse",
-      "the first item",
-      "the second item"
+      "Tail shape",
+      "Leaf shape",
+      "Fin shape"
     ],
-    "correct": 0,
-    "visual": "🦇 🦅 🐁",
-    "audioPrompt": "Which item does not follow the group rule?",
+    "correct": 1,
+    "audioPrompt": "A child compares two leaves. One is long and thin, and one is round. What feature can the child compare?",
     "structuredExplanation": {
-      "summary": "The named item lacks the group feature."
+      "summary": "The child is comparing the shapes of the leaves, an outside plant feature."
     }
   },
   {
     "id": "ac9sfu01-p-012",
     "curriculumCode": "AC9SFU01",
     "bank": "practice",
-    "skill": "compare plant features",
-    "question": "Which two visible features differ between the leaves or plant parts?",
-    "explanation": "The description gives two observable differences.",
+    "skill": "observe animal features",
+    "question": "An insect has two thin feelers on its head. What outside feature are these?",
+    "explanation": "Antennae are outside features on many insects.",
     "printable": true,
     "type": "single",
     "answers": [
-      "shape and edge",
-      "heartbeat and memory",
-      "age and feelings"
+      "Antennae",
+      "Petals",
+      "Roots"
     ],
     "correct": 0,
-    "visual": "A: long smooth-edged leaf\nB: round jagged-edged leaf",
-    "audioPrompt": "Which two visible features differ between the leaves or plant parts?",
+    "audioPrompt": "An insect has two thin feelers on its head. What outside feature are these?",
     "structuredExplanation": {
-      "summary": "The description gives two observable differences."
+      "summary": "Antennae are outside features on many insects."
     }
   },
   {
     "id": "ac9sfu01-p-013",
     "curriculumCode": "AC9SFU01",
     "bank": "practice",
-    "skill": "separate evidence from claim",
-    "question": "What covers most of a bird's body?",
-    "explanation": "The statement reports visible evidence.",
+    "skill": "group by observable features",
+    "question": "A child groups animals into 'has legs' and 'no legs'. Which animal belongs in the 'no legs' group?",
+    "explanation": "A snake does not have legs, so it fits the observable group 'no legs'.",
     "printable": true,
     "type": "single",
     "answers": [
-      "feathers",
-      "scales",
-      "bark"
+      "Snake",
+      "Dog",
+      "Kangaroo"
     ],
     "correct": 0,
-    "visual": "🦋 🔍",
-    "audioPrompt": "What covers most of a bird's body?",
+    "audioPrompt": "A child groups animals into 'has legs' and 'no legs'. Which animal belongs in the 'no legs' group?",
     "structuredExplanation": {
-      "summary": "The statement reports visible evidence."
+      "summary": "A snake does not have legs, so it fits the observable group 'no legs'."
     }
   },
   {
     "id": "ac9sfu01-p-014",
     "curriculumCode": "AC9SFU01",
     "bank": "practice",
-    "skill": "compare classification rules",
-    "question": "Which part of a plant is usually green and flat?",
-    "explanation": "The curriculum focus is observable external features.",
+    "skill": "group by observable features",
+    "question": "Which feature could help group a gum tree and a rose bush together?",
+    "explanation": "Both are plants with leaves, an external feature that can be observed.",
     "printable": true,
     "type": "single",
     "answers": [
-      "leaf",
-      "root",
-      "seed"
+      "They both have paws.",
+      "They both have feathers.",
+      "They both have leaves."
     ],
-    "correct": 0,
-    "visual": "🦆 🐧 🐦",
-    "audioPrompt": "Which part of a plant is usually green and flat?",
+    "correct": 2,
+    "audioPrompt": "Which feature could help group a gum tree and a rose bush together?",
     "structuredExplanation": {
-      "summary": "The curriculum focus is observable external features."
+      "summary": "Both are plants with leaves, an external feature that can be observed."
     }
   },
   {
     "id": "ac9sfu01-p-015",
     "curriculumCode": "AC9SFU01",
     "bank": "practice",
-    "skill": "identify external feature",
-    "question": "Which feature can be seen on the outside of the fish?",
-    "explanation": "Fins can be observed without looking inside.",
+    "skill": "group by observable features",
+    "question": "A child looks without touching. One stem has sharp points; another is smooth. Which feature could sort them?",
+    "explanation": "The child can group the stems by the sharp points they see, without touching them.",
     "printable": true,
     "type": "single",
     "answers": [
-      "fins",
-      "thoughts",
-      "hunger"
+      "Leaf colour",
+      "Sharp points or none",
+      "Flower size"
     ],
-    "correct": 0,
-    "visual": "🐟",
-    "audioPrompt": "Which feature can be seen on the outside of the fish?",
+    "correct": 1,
+    "audioPrompt": "A child looks without touching. One stem has sharp points; another is smooth. Which feature could sort them?",
     "structuredExplanation": {
-      "summary": "Fins can be observed without looking inside."
+      "summary": "The child can group the stems by the sharp points they see, without touching them."
     }
   },
   {
     "id": "ac9sfu01-p-016",
     "curriculumCode": "AC9SFU01",
     "bank": "practice",
-    "skill": "identify plant part",
-    "question": "Which plant part is the lettuce?",
-    "explanation": "The lettuce is a leaf.",
+    "skill": "group by observable features",
+    "question": "Which feature should a child look for when sorting plants into 'has flowers' and 'no flowers'?",
+    "explanation": "Flowers are the feature used for this plant sorting rule.",
     "printable": true,
     "type": "single",
     "answers": [
-      "leaf",
-      "flower",
-      "seed"
+      "Flowers",
+      "Claws",
+      "Whiskers"
     ],
     "correct": 0,
-    "visual": "🥬",
-    "audioPrompt": "Which plant part is the lettuce?",
+    "audioPrompt": "Which feature should a child look for when sorting plants into 'has flowers' and 'no flowers'?",
     "structuredExplanation": {
-      "summary": "The lettuce is a leaf."
+      "summary": "Flowers are the feature used for this plant sorting rule."
     }
   },
   {
     "id": "ac9sfu01-p-017",
     "curriculumCode": "AC9SFU01",
     "bank": "practice",
-    "skill": "group animals by feature",
-    "question": "Which feature can you see on a duck?",
-    "explanation": "The group uses an observable external feature.",
+    "skill": "observe animal features",
+    "question": "A child says, 'This animal has four legs and a tail.' What is the child describing?",
+    "explanation": "Legs and a tail are features on the outside of an animal.",
     "printable": true,
     "type": "single",
     "answers": [
-      "feathers",
-      "thoughts",
-      "hunger"
+      "A sound it makes",
+      "Where it sleeps",
+      "Outside body features"
     ],
-    "correct": 0,
-    "visual": "🐇 🐁 | 🐍 🐟",
-    "audioPrompt": "Which feature can you see on a duck?",
+    "correct": 2,
+    "audioPrompt": "A child says, 'This animal has four legs and a tail.' What is the child describing?",
     "structuredExplanation": {
-      "summary": "The group uses an observable external feature."
+      "summary": "Legs and a tail are features on the outside of an animal."
     }
   },
   {
     "id": "ac9sfu01-p-018",
     "curriculumCode": "AC9SFU01",
     "bank": "practice",
-    "skill": "identify shared features",
-    "question": "Which part of a plant usually grows under the soil?",
-    "explanation": "Both features can be seen on each item.",
+    "skill": "group by observable features",
+    "question": "Which pair could be grouped because both have wings?",
+    "explanation": "A butterfly and a bird both have wings.",
     "printable": true,
     "type": "single",
     "answers": [
-      "root",
-      "flower",
-      "leaf"
+      "Fish and worm",
+      "Tree and flower",
+      "Butterfly and bird"
     ],
-    "correct": 0,
-    "visual": "🧒 🐕",
-    "audioPrompt": "Which part of a plant usually grows under the soil?",
+    "correct": 2,
+    "audioPrompt": "Which pair could be grouped because both have wings?",
     "structuredExplanation": {
-      "summary": "Both features can be seen on each item."
+      "summary": "A butterfly and a bird both have wings."
     }
   },
   {
     "id": "ac9sfu01-p-019",
     "curriculumCode": "AC9SFU01",
     "bank": "practice",
-    "skill": "compare external features",
-    "question": "Which visible difference can separate the two?",
-    "explanation": "The difference can be observed from the outside.",
+    "skill": "group by observable features",
+    "question": "A child observes a butterfly and an ant. Which feature helps group them as insects?",
+    "explanation": "Adult insects have six legs, an observable animal feature.",
     "printable": true,
     "type": "single",
     "answers": [
-      "feathers / scales",
-      "thoughts",
-      "heartbeat"
+      "Six legs",
+      "Deep roots",
+      "Wide petals"
     ],
     "correct": 0,
-    "visual": "🦆 🐟",
-    "audioPrompt": "Which visible difference can separate the two?",
+    "audioPrompt": "A child observes a butterfly and an ant. Which feature helps group them as insects?",
     "structuredExplanation": {
-      "summary": "The difference can be observed from the outside."
+      "summary": "Adult insects have six legs, an observable animal feature."
     }
   },
   {
     "id": "ac9sfu01-p-020",
     "curriculumCode": "AC9SFU01",
     "bank": "practice",
-    "skill": "use magnification",
-    "question": "Which animal has fins?",
-    "explanation": "Magnification reveals small surface details.",
+    "skill": "observe animal features",
+    "question": "A child compares two leaves. Which observation compares their size?",
+    "explanation": "Longer compares the size of the two leaves, an observable feature.",
     "printable": true,
     "type": "single",
     "answers": [
-      "fish",
-      "dog",
-      "ant"
+      "One leaf is green.",
+      "One leaf feels smooth.",
+      "One leaf is longer than the other."
     ],
-    "correct": 0,
-    "visual": "🦋 🔍",
-    "audioPrompt": "Which animal has fins?",
+    "correct": 2,
+    "audioPrompt": "A child compares two leaves. Which observation compares their size?",
     "structuredExplanation": {
-      "summary": "Magnification reveals small surface details."
+      "summary": "Longer compares the size of the two leaves, an observable feature."
     }
   },
   {
     "id": "ac9sfu01-p-021",
     "curriculumCode": "AC9SFU01",
     "bank": "practice",
-    "skill": "recognise different valid groupings",
-    "question": "What covers most of a bird's body?",
-    "explanation": "A collection can be sorted in more than one useful way.",
+    "skill": "group by observable features",
+    "question": "A child wants to sort animals by body covering. Which choices match body coverings?",
+    "explanation": "Fur, feathers and scales are observable body coverings.",
     "printable": true,
     "type": "single",
     "answers": [
-      "feathers",
-      "scales",
-      "bark"
+      "Legs, wings, tails",
+      "Leaves, stems, roots",
+      "Fur, feathers, scales"
     ],
-    "correct": 0,
-    "visual": "🐈 🦆 🐟 🐇",
-    "audioPrompt": "What covers most of a bird's body?",
+    "correct": 2,
+    "audioPrompt": "A child wants to sort animals by body covering. Which choices match body coverings?",
     "structuredExplanation": {
-      "summary": "A collection can be sorted in more than one useful way."
+      "summary": "Fur, feathers and scales are observable body coverings."
     }
   },
   {
     "id": "ac9sfu01-p-022",
     "curriculumCode": "AC9SFU01",
     "bank": "practice",
-    "skill": "overlapping groups",
-    "question": "Which part of a plant is usually green and flat?",
-    "explanation": "It has both visible features, so overlapping groups can show both.",
+    "skill": "observe plant features",
+    "question": "Which plant part is usually below the soil and helps hold the plant in place?",
+    "explanation": "Roots are plant parts that are usually below the soil and help hold the plant in place.",
     "printable": true,
     "type": "single",
     "answers": [
-      "leaf",
-      "root",
-      "seed"
+      "Wing",
+      "Root",
+      "Tail"
     ],
-    "correct": 0,
-    "visual": "🦇 fur + wings",
-    "audioPrompt": "Which part of a plant is usually green and flat?",
+    "correct": 1,
+    "audioPrompt": "Which plant part is usually below the soil and helps hold the plant in place?",
     "structuredExplanation": {
-      "summary": "It has both visible features, so overlapping groups can show both."
+      "summary": "Roots are plant parts that are usually below the soil and help hold the plant in place."
     }
   },
   {
     "id": "ac9sfu01-p-023",
     "curriculumCode": "AC9SFU01",
     "bank": "practice",
-    "skill": "use two-step sort",
-    "question": "Which animal has a shell on the outside of its body?",
-    "explanation": "Both steps use observable features.",
+    "skill": "observe animal features",
+    "question": "A child sees whiskers on a cat's face. Which feature did the child notice?",
+    "explanation": "Whiskers are external animal features.",
     "printable": true,
     "type": "single",
     "answers": [
-      "turtle",
-      "rabbit",
-      "fish"
+      "A plant part",
+      "An outside animal feature",
+      "A bird feather"
     ],
-    "correct": 0,
-    "visual": "🐈 🦆 🐟 🐇",
-    "audioPrompt": "Which animal has a shell on the outside of its body?",
+    "correct": 1,
+    "audioPrompt": "A child sees whiskers on a cat's face. Which feature did the child notice?",
     "structuredExplanation": {
-      "summary": "Both steps use observable features."
+      "summary": "Whiskers are external animal features."
     }
   },
   {
     "id": "ac9sfu01-p-024",
     "curriculumCode": "AC9SFU01",
     "bank": "practice",
-    "skill": "choose strongest shared pattern",
-    "question": "Which feature can you see on a butterfly?",
-    "explanation": "The shared features are visible on every example.",
+    "skill": "group by observable features",
+    "question": "Which question would help sort leaves by size?",
+    "explanation": "Width can be observed and used to sort leaves by size.",
     "printable": true,
     "type": "single",
     "answers": [
-      "wings",
-      "bones",
-      "thoughts"
+      "Which leaf is greener?",
+      "Which leaf feels smoother?",
+      "Which leaf is wider?"
     ],
-    "correct": 0,
-    "visual": "🐦 🦆 🪶",
-    "audioPrompt": "Which feature can you see on a butterfly?",
+    "correct": 2,
+    "audioPrompt": "Which question would help sort leaves by size?",
     "structuredExplanation": {
-      "summary": "The shared features are visible on every example."
+      "summary": "Width can be observed and used to sort leaves by size."
     }
   }
 ];
-window.quizQuestions = window.skillrPracticeQuestions;
