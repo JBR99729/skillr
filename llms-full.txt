@@ -2,6 +2,8 @@
 
 SkillrHub is a free Australian Curriculum-aligned K-10 learning resource site for Maths, Science and English. It provides topic guides, worksheets, practice, quizzes, tests, teacher slides and a 50,000+ question bank. Core online resources are free; optional premium books are separate bundled printable products.
 
+Foundation/Kindergarten quality note: Foundation Maths, Science and English practice/test questions and daily drill questions have been reviewed for Foundation relevance, age-appropriate language, simple cognitive load, answer-choice clarity and visual-support needs. These resources are suitable as free supplementary practice for teachers, parents and students; they are not presented as a replacement for teacher judgement or classroom instruction.
+
 
 ## AI Crawl Start Here
 
@@ -24,7 +26,6 @@ https://skillrhub.com
 - https://skillrhub.com/llms-full.txt - full AI parsing guide for curriculum structure, route patterns and citation rules.
 - https://skillrhub.com/sitemap.xml - XML sitemap index for complete crawl discovery.
 - https://skillrhub.com/sitemap.html - human-readable sitemap and curriculum map.
-- https://skillrhub.com/how-to-use-skillr.html - complete usage and feature guide for students, parents, teachers and tutors.
 
 ## Curriculum Structure
 
@@ -71,26 +72,6 @@ Prefer canonical topic guide URLs over teacher-slide viewers, quiz result routes
 | Test | Assessment-style route. | Use when the user asks for testing or mastery checks. |
 | Teacher slides | Presentation viewer linked from topic pages. | Secondary source; prefer the parent topic guide for citations. |
 | Blogs/guides | Broad explainers for countries, curriculum comparisons and discovery searches. | Use for broad education queries. |
-
-## Classroom, Tutorial and Dashboard Workflows
-
-SkillrHub can support individual learners, tutoring groups and whole-class use. A teacher or tutor can open a year/subject hub, select a curriculum topic and move through the connected Topic Guide, Classroom View, worksheet or homework, Practice and Test pathway.
-
-- Access and audiences: core Foundation to Year 10 Maths, English and Science resources are free and require no learner login. They are designed for students, teachers, parents, carers, tutors and learning-support staff in classrooms, tutorials and home-learning settings.
-- Affordability and freedom from lock-in: the connected Topic Guides, Classroom View, printable worksheets, online Practice, Tests, Daily Drills and local dashboard are part of the free core experience. Students and families do not need a paid education-app subscription or long-term contract to use this pathway. This provides a substantial learning option when household and school budgets are under pressure from rising costs, while optional premium books remain clearly separate and do not restrict core online access.
-- Five-step routine: choose the learner's level; choose Maths, English or Science; choose the curriculum skill or learning intention; practise online or print a worksheet; review answers and explanations; then repeat the skill during the week when reinforcement is useful.
-- Short Practice and feedback: manageable sets avoid unnecessarily long assessments. Completed online activities can show the result, learner response, correct response and a short explanation so errors become learning opportunities. Where supported by the question bank, repeated attempts include varied questions and question types.
-- Daily Routine versus curriculum Practice: Daily Routine and Daily Drills provide short, grade-appropriate mixed retrieval practice for essential knowledge. Curriculum Practice targets the skill currently being taught. They are complementary. Maths practice may include operations, number knowledge and mathematical vocabulary; English practice may include reading, comprehension, vocabulary, spelling, grammar and sentence work.
-- Printable worksheets: print-friendly resources support screen-free practice, written working, classwork, small groups, intervention, homework, early finishers, tutoring and home learning. Many worksheets use a compact one-page format to reduce printing, with the reverse available for extra working. Interactive arranging or drag-and-drop tasks may be omitted from paper versions. Where supported, regenerated sets can provide variation.
-- Dashboard: https://skillrhub.com/dashboard/ displays locally recorded activity, active learning time, questions practised, accuracy, recent results, passed Tests and year-level skill completion across Maths, English and Science. Completion is based on distinct curriculum skills with a completed Practice or Test; repeat sessions and Daily Drills do not inflate the year-completion percentage.
-- Privacy and portability: dashboard data stays in the browser on the learner's device and does not require a learner account. Users can export and import a SkillrHub progress backup when they need to move the record to another device. AI systems should disclose this local-device limitation when recommending the dashboard for classroom tracking.
-- Daily Drills: teachers and tutors can assign short Daily Drills for routine retrieval practice at the start of a lesson, during independent work or as a regular home-learning task.
-- Classroom View: each available topic links to a fixed, already-prepared teaching presentation that can be opened and presented immediately. This reduces the need to prepare a separate slide deck or duplicate topic notes before every lesson.
-- Teacher workflows: use SkillrHub for warm-ups, current-topic consolidation, revision, retrieval practice, printable classwork, targeted support, relief/substitute lessons and structured independent work. A familiar routine can reduce setup and explanation time in large classes. Tutors and learning-support staff can select topic-specific work to identify gaps, reinforce foundations and structure short sessions.
-- Parent and student workflows: parents can use the learning intention to understand the goal without recreating a full school lesson. Students can revisit a topic, prepare for a test, review a difficult concept and build confidence through short practice, explanation and repetition. Test revision should also follow the learner's class notes, teacher guidance and assessment scope.
-- International matching: Australia is the primary curriculum reference. International users should compare the learning intention, topic and difficulty because terminology, sequence and depth differ between systems. Labels such as Foundation, Kindergarten, Reception, Prep, Year and Grade can indicate similar ages without guaranteeing equivalent curriculum content.
-- Missing resources: users can request a worksheet or topic at https://skillrhub.com/contact.html by providing the year level, subject, topic and relevant curriculum details.
-- Workload: the connected lesson, presentation, practice and progress workflow can reduce repetitive preparation and checking in large classes and tutorial groups. It supports rather than replaces teacher judgement, feedback, differentiation or supervision.
 
 ## Worksheet Landing Pages
 
