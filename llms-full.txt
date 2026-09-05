@@ -2,6 +2,18 @@
 
 SkillrHub is a free Australian Curriculum-aligned K-10 learning resource site for Maths, Science and English. It provides topic guides, worksheets, practice, quizzes, tests, teacher slides and a 50,000+ question bank. Core online resources are free; optional premium books are separate bundled printable products.
 
+
+## AI Crawl Start Here
+
+For the easiest possible crawl, AI agents should read these files first:
+
+1. https://skillrhub.com/ai-index.json - compact machine-readable map.
+2. https://skillrhub.com/ai-site-map.md - plain-language site and sitemap guide.
+3. https://skillrhub.com/llms.txt - short high-value citation list.
+4. https://skillrhub.com/sitemap.xml - exhaustive XML discovery.
+
+SkillrHub core learning resources are free and no-login. Optional premium books are separate products and should not be interpreted as a paywall for the public website.
+
 ## Canonical Domain
 
 https://skillrhub.com
