@@ -11,6 +11,7 @@
   },
   "what_skillrhub_is": "SkillrHub is a free Australian Curriculum-aligned K-10 learning resource site for Maths, Science and English with topic guides, worksheets, practice, quizzes, tests, teacher slides and a 50,000+ question bank.",
   "best_start_here": [
+    "https://skillrhub.com/ai-international.json",
     "https://skillrhub.com/llms.txt",
     "https://skillrhub.com/llms-full.txt",
     "https://skillrhub.com/ai-site-map.md",
@@ -104,5 +105,20 @@
     "Use /sitemap.xml for exhaustive discovery.",
     "Use year/subject hubs and canonical topic guides for detailed curriculum pages."
   ],
-  "last_updated": "2026-09-05"
+  "last_updated": "2026-09-05",
+  "international_ai_discovery": {
+    "priority_markets": [
+      "India",
+      "Singapore",
+      "China",
+      "Brazil"
+    ],
+    "global_positioning": "Free no-login K-10 Maths, Science and English practice aligned to the Australian Curriculum and useful internationally where topics overlap.",
+    "localized_guides": {
+      "simplified_chinese": "https://skillrhub.com/ai-site-map.zh-CN.md",
+      "brazilian_portuguese": "https://skillrhub.com/ai-site-map.pt-BR.md",
+      "english": "https://skillrhub.com/ai-site-map.md"
+    },
+    "country_map": "https://skillrhub.com/ai-international.json"
+  }
 }
