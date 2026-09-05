@@ -20,7 +20,7 @@ jobs:
         shell: bash
         run: |
           git grep -Ilz 'https://pagead2\.googlesyndication\.com' | xargs -0 perl -0pi -e 's{(<script\b[^>]*\bsrc=["\x27]https://pagead2\.googlesyndication\.com[^>]*>\s*</script>)}{<!-- ADSENSE DISABLED PENDING APPROVAL: $1 -->}g'
-          perl -0pi -e 's{\n    const config = window\.SkillrAdConfig;}{\n    /* ADSENSE DISABLED PENDING APPROVAL\n    const config = window.SkillrAdConfig;}g; s{    document\.head\.appendChild\(loader\);\n  };}{    document.head.appendChild(loader);\n    END ADSENSE DISABLED PENDING APPROVAL */\n  };}g' assets/homework-page-runtime.js
+          perl -0pi -e 's~\n    const config = window\.SkillrAdConfig;~\n    /* ADSENSE DISABLED PENDING APPROVAL\n    const config = window.SkillrAdConfig;~g; s~    document\.head\.appendChild\(loader\);\n  };~    document.head.appendChild(loader);\n    END ADSENSE DISABLED PENDING APPROVAL */\n  };~g' assets/homework-page-runtime.js
           rm .github/workflows/temporary-disable-adsense.yml
       - name: Verify and commit
         shell: bash
