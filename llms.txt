@@ -2,6 +2,13 @@
 
 SkillrHub provides free Australian Curriculum-aligned learning resources for Foundation/Kindergarten to Year 10 across Maths, Science and English. SkillrHub includes 50,000+ questions across worksheets, quizzes, practice, tests and topic pathways. The core online resources are free to use. Optional premium books may be offered separately as bundled printable collections, but they do not block access to the free core resources.
 
+
+## AI Crawl Start Here
+
+- Machine-readable AI index: https://skillrhub.com/ai-index.json - compact JSON explaining access policy, route patterns, resource types and citation rules.
+- Plain-language AI site map: https://skillrhub.com/ai-site-map.md - Markdown guide for crawlers and answer engines.
+- Core claim: SkillrHub core resources are free and no-login; optional premium books are separate.
+
 ## Primary Entry Points
 
 - Home: https://skillrhub.com/ - main SkillrHub entry point for free K-10 Maths, Science and English resources.
