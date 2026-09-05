@@ -4,517 +4,480 @@ window.skillrPracticeQuestions = [
     "id": "ac9sfi05-p-001",
     "curriculumCode": "AC9SFI05",
     "bank": "practice",
-    "skill": "share specific observation",
-    "question": "What is a good way to share what you observed?",
-    "explanation": "A useful report names the observed detail.",
+    "skill": "share observations",
+    "question": "You saw a green leaf. What can you share?",
+    "explanation": "The leaf is green is an observation that can be shared.",
     "printable": true,
     "type": "single",
     "answers": [
-      "tell the class clearly",
-      "hide the observation",
-      "change the result"
+      "“The leaf is green.”",
+      "“The leaf can sing.”",
+      "“The leaf is magic.”"
     ],
     "correct": 0,
-    "visual": "🌿 🔍",
-    "audioPrompt": "What is a good way to share what you observed?",
+    "audioPrompt": "You saw a green leaf. What can you share?",
     "structuredExplanation": {
-      "summary": "A useful report names the observed detail."
+      "summary": "The leaf is green is an observation that can be shared."
     }
   },
   {
     "id": "ac9sfi05-p-002",
     "curriculumCode": "AC9SFI05",
     "bank": "practice",
-    "skill": "label question and prediction",
-    "question": "What can you add to a science drawing to make it clearer?",
-    "explanation": "A question asks what the investigation will find.",
+    "skill": "share questions",
+    "question": "The puddle is smaller. What can you ask?",
+    "explanation": "The question is about the observed puddle change.",
     "printable": true,
     "type": "single",
     "answers": [
-      "labels",
-      "guesses only",
-      "unrelated stickers"
+      "“Is my bag heavy?”",
+      "“Where is my hat?”",
+      "“Why is the puddle smaller?”"
     ],
-    "correct": 0,
-    "visual": "1. Which ball will bounce highest?\n2. I think the rubber ball will bounce highest",
-    "audioPrompt": "What can you add to a science drawing to make it clearer?",
+    "correct": 2,
+    "audioPrompt": "The puddle is smaller. What can you ask?",
     "structuredExplanation": {
-      "summary": "A question asks what the investigation will find."
+      "summary": "The question is about the observed puddle change."
     }
   },
   {
     "id": "ac9sfi05-p-003",
     "curriculumCode": "AC9SFI05",
     "bank": "practice",
-    "skill": "choose communication medium",
-    "question": "When another student is sharing, what should you do?",
-    "explanation": "The format directly shows the evidence.",
+    "skill": "share observations",
+    "question": "You think ice will melt. What are you sharing?",
+    "explanation": "Thinking what might happen is sharing a prediction.",
     "printable": true,
     "type": "single",
     "answers": [
-      "listen",
-      "shout over them",
-      "walk away"
+      "A colour",
+      "A prediction",
+      "A sound"
     ],
-    "correct": 0,
-    "visual": "🐸 ♪ ♪",
-    "audioPrompt": "When another student is sharing, what should you do?",
+    "correct": 1,
+    "audioPrompt": "You think ice will melt. What are you sharing?",
     "structuredExplanation": {
-      "summary": "The format directly shows the evidence."
+      "summary": "Thinking what might happen is sharing a prediction."
     }
   },
   {
     "id": "ac9sfi05-p-004",
     "curriculumCode": "AC9SFI05",
     "bank": "practice",
-    "skill": "organise science report",
-    "question": "Which sentence shares an observation?",
-    "explanation": "A clear report keeps question, prediction and observation distinct.",
+    "skill": "share observations",
+    "question": "Your group saw 3 birds. What should you say?",
+    "explanation": "We saw 3 birds shares the group observation.",
     "printable": true,
     "type": "single",
-    "items": [
-      "I think the rubber ball will bounce highest",
-      "I saw tiny branching lines across the leaf",
-      "Ask the audience for questions",
-      "Which ball will bounce highest?"
+    "answers": [
+      "“We saw 3 birds.”",
+      "“Birds cannot count.”",
+      "“I like lunch.”"
     ],
     "correct": 0,
-    "instruction": "Move the cards into the correct order.",
-    "answers": [
-      "The leaf has five spots",
-      "The leaf is happy",
-      "The leaf likes music"
-    ],
-    "audioPrompt": "Which sentence shares an observation?",
+    "audioPrompt": "Your group saw 3 birds. What should you say?",
     "structuredExplanation": {
-      "summary": "A clear report keeps question, prediction and observation distinct."
+      "summary": "We saw 3 birds shares the group observation."
     }
   },
   {
     "id": "ac9sfi05-p-005",
     "curriculumCode": "AC9SFI05",
     "bank": "practice",
-    "skill": "label a display",
-    "question": "Which sentence shares a result clearly?",
-    "explanation": "Labels and a consistent key help others read the evidence.",
+    "skill": "share ideas",
+    "question": "A friend shares an idea. What do you do?",
+    "explanation": "Listening kindly helps people share ideas.",
     "printable": true,
     "type": "single",
     "answers": [
-      "The ball rolled farther on the smooth floor",
-      "The ball was the nicest",
-      "I changed the answer"
+      "Walk away",
+      "Listen kindly",
+      "Cover your ears"
     ],
-    "correct": 0,
-    "visual": "morning 5 | lunch 2",
-    "audioPrompt": "Which sentence shares a result clearly?",
+    "correct": 1,
+    "audioPrompt": "A friend shares an idea. What do you do?",
     "structuredExplanation": {
-      "summary": "Labels and a consistent key help others read the evidence."
+      "summary": "Listening kindly helps people share ideas."
     }
   },
   {
     "id": "ac9sfi05-p-006",
     "curriculumCode": "AC9SFI05",
     "bank": "practice",
-    "skill": "active scientific listening",
-    "question": "Why might you show your drawing to a partner?",
-    "explanation": "A clarifying question is relevant to the evidence.",
+    "skill": "share observations",
+    "question": "You heard a loud shaker. What observation can you share?",
+    "explanation": "The shaker is loud shares a hearing observation.",
     "printable": true,
     "type": "single",
     "answers": [
-      "to share what you noticed",
-      "to hide your idea",
-      "to avoid talking about science"
+      "“The shaker is hungry.”",
+      "“The shaker is tomorrow.”",
+      "“The shaker is loud.”"
     ],
-    "correct": 0,
-    "visual": "partner report: I counted five ants near the crumbs",
-    "audioPrompt": "Why might you show your drawing to a partner?",
+    "correct": 2,
+    "audioPrompt": "You heard a loud shaker. What observation can you share?",
     "structuredExplanation": {
-      "summary": "A clarifying question is relevant to the evidence."
+      "summary": "The shaker is loud shares a hearing observation."
     }
   },
   {
     "id": "ac9sfi05-p-007",
     "curriculumCode": "AC9SFI05",
     "bank": "practice",
-    "skill": "cite evidence",
-    "question": "What should you say if your observation differs from a partner's?",
-    "explanation": "The sentence uses the recorded numbers.",
+    "skill": "share predictions",
+    "question": "You predict the towel will dry. What can you say?",
+    "explanation": "I think it will dry shares a prediction.",
     "printable": true,
     "type": "single",
     "answers": [
-      "explain what you noticed politely",
-      "say they must be wrong",
-      "erase both results"
+      "“The towel is blue.”",
+      "“The towel is a bird.”",
+      "“I think it will dry.”"
     ],
-    "correct": 0,
-    "visual": "morning 8, lunch 3",
-    "audioPrompt": "What should you say if your observation differs from a partner's?",
+    "correct": 2,
+    "audioPrompt": "You predict the towel will dry. What can you say?",
     "structuredExplanation": {
-      "summary": "The sentence uses the recorded numbers."
+      "summary": "I think it will dry shares a prediction."
     }
   },
   {
     "id": "ac9sfi05-p-008",
     "curriculumCode": "AC9SFI05",
     "bank": "practice",
-    "skill": "choose format for audience",
-    "question": "Which is a clear way to share a count?",
-    "explanation": "Choose a format that shows the needed feature.",
+    "skill": "share questions",
+    "question": "You want to tell the class your question. Which one fits?",
+    "explanation": "Will the seed sprout is a question to share.",
     "printable": true,
     "type": "single",
     "answers": [
-      "We counted four birds",
-      "Birds are the best",
-      "I did not count"
+      "“Will the seed sprout?”",
+      "“The seed is brown.”",
+      "“The seed is small.”"
     ],
     "correct": 0,
-    "visual": "a labelled poster",
-    "audioPrompt": "Which is a clear way to share a count?",
+    "audioPrompt": "You want to tell the class your question. Which one fits?",
     "structuredExplanation": {
-      "summary": "Choose a format that shows the needed feature."
+      "summary": "Will the seed sprout is a question to share."
     }
   },
   {
     "id": "ac9sfi05-p-009",
     "curriculumCode": "AC9SFI05",
     "bank": "practice",
-    "skill": "improve unclear poster",
-    "question": "What is a good way to share what you observed?",
-    "explanation": "A title, labels and key explain the evidence.",
+    "skill": "share ideas",
+    "question": "Your group saw more red blocks. What idea matches?",
+    "explanation": "There were more red blocks shares an idea based on the observation.",
     "printable": true,
     "type": "single",
     "answers": [
-      "tell the class clearly",
-      "hide the observation",
-      "change the result"
+      "“Blocks can fly.”",
+      "“There were more red blocks.”",
+      "“No blocks were used.”"
     ],
-    "correct": 0,
-    "visual": "Stuff | ••• | ball",
-    "audioPrompt": "What is a good way to share what you observed?",
+    "correct": 1,
+    "audioPrompt": "Your group saw more red blocks. What idea matches?",
     "structuredExplanation": {
-      "summary": "A title, labels and key explain the evidence."
+      "summary": "There were more red blocks shares an idea based on the observation."
     }
   },
   {
     "id": "ac9sfi05-p-010",
     "curriculumCode": "AC9SFI05",
     "bank": "practice",
-    "skill": "explain tool use",
-    "question": "What can you add to a science drawing to make it clearer?",
-    "explanation": "Good science communication includes purpose and safety.",
+    "skill": "share observations",
+    "question": "A friend is speaking. What is respectful?",
+    "explanation": "Listening and waiting is respectful during sharing.",
     "printable": true,
     "type": "single",
     "answers": [
-      "labels",
-      "guesses only",
-      "unrelated stickers"
+      "Listen and wait",
+      "Interrupt quickly",
+      "Shout louder"
     ],
     "correct": 0,
-    "visual": "magnifying glass and shell",
-    "audioPrompt": "What can you add to a science drawing to make it clearer?",
+    "audioPrompt": "A friend is speaking. What is respectful?",
     "structuredExplanation": {
-      "summary": "Good science communication includes purpose and safety."
+      "summary": "Listening and waiting is respectful during sharing."
     }
   },
   {
     "id": "ac9sfi05-p-011",
     "curriculumCode": "AC9SFI05",
     "bank": "practice",
-    "skill": "add useful labels",
-    "question": "When another student is sharing, what should you do?",
-    "explanation": "Accurate labels connect the model to observed features.",
+    "skill": "share observations",
+    "question": "You felt rough bark. What can you share?",
+    "explanation": "The bark is rough shares a touch observation.",
     "printable": true,
     "type": "single",
     "answers": [
-      "listen",
-      "shout over them",
-      "walk away"
+      "“The bark is noisy.”",
+      "“The bark is invisible.”",
+      "“The bark is rough.”"
     ],
-    "correct": 0,
-    "visual": "🌼 model",
-    "audioPrompt": "When another student is sharing, what should you do?",
+    "correct": 2,
+    "audioPrompt": "You felt rough bark. What can you share?",
     "structuredExplanation": {
-      "summary": "Accurate labels connect the model to observed features."
+      "summary": "The bark is rough shares a touch observation."
     }
   },
   {
     "id": "ac9sfi05-p-012",
     "curriculumCode": "AC9SFI05",
     "bank": "practice",
-    "skill": "communicate uncertainty",
-    "question": "Which sentence shares an observation?",
-    "explanation": "Good reporting separates evidence from uncertainty.",
+    "skill": "share observations",
+    "question": "I counted 5 shells. Which sentence fits?",
+    "explanation": "I counted 5 shells shares an observation.",
     "printable": true,
     "type": "single",
     "answers": [
-      "The leaf has five spots",
-      "The leaf is happy",
-      "The leaf likes music"
+      "“The shells are happy.”",
+      "“I counted 5 shells.”",
+      "“The shells are secret.”"
     ],
-    "correct": 0,
-    "visual": "car went farther on the smooth ramp",
-    "audioPrompt": "Which sentence shares an observation?",
+    "correct": 1,
+    "audioPrompt": "I counted 5 shells. Which sentence fits?",
     "structuredExplanation": {
-      "summary": "Good reporting separates evidence from uncertainty."
+      "summary": "I counted 5 shells shares an observation."
     }
   },
   {
     "id": "ac9sfi05-p-013",
     "curriculumCode": "AC9SFI05",
     "bank": "practice",
-    "skill": "share numerical observation",
-    "question": "Which sentence shares a result clearly?",
-    "explanation": "Specific counts make the report useful.",
+    "skill": "share observations",
+    "question": "Your group thinks the car will roll farther on tile. What is this?",
+    "explanation": "This says what the group thinks might happen.",
     "printable": true,
     "type": "single",
     "answers": [
-      "The ball rolled farther on the smooth floor",
-      "The ball was the nicest",
-      "I changed the answer"
+      "A prediction",
+      "A lunch order",
+      "A drawing only"
     ],
     "correct": 0,
-    "visual": "bees 2, butterflies 1",
-    "audioPrompt": "Which sentence shares a result clearly?",
+    "audioPrompt": "Your group thinks the car will roll farther on tile. What is this?",
     "structuredExplanation": {
-      "summary": "Specific counts make the report useful."
+      "summary": "This says what the group thinks might happen."
     }
   },
   {
     "id": "ac9sfi05-p-014",
     "curriculumCode": "AC9SFI05",
     "bank": "practice",
-    "skill": "invite useful audience question",
-    "question": "Why might you show your drawing to a partner?",
-    "explanation": "The question asks about how evidence was collected.",
+    "skill": "share observations",
+    "question": "You want to share safely. What should you use?",
+    "explanation": "Kind words help people share safely and respectfully.",
     "printable": true,
     "type": "single",
     "answers": [
-      "to share what you noticed",
-      "to hide your idea",
-      "to avoid talking about science"
+      "Silly faces only",
+      "Pushing hands",
+      "Kind words"
     ],
-    "correct": 0,
-    "visual": "What visits the lavender?",
-    "audioPrompt": "Why might you show your drawing to a partner?",
+    "correct": 2,
+    "audioPrompt": "You want to share safely. What should you use?",
     "structuredExplanation": {
-      "summary": "The question asks about how evidence was collected."
+      "summary": "Kind words help people share safely and respectfully."
     }
   },
   {
     "id": "ac9sfi05-p-015",
     "curriculumCode": "AC9SFI05",
     "bank": "practice",
-    "skill": "share specific observation",
-    "question": "What should you say if your observation differs from a partner's?",
-    "explanation": "A useful report names the observed detail.",
+    "skill": "share observations",
+    "question": "You saw clouds move. What can you tell others?",
+    "explanation": "The clouds moved shares an observation.",
     "printable": true,
     "type": "single",
     "answers": [
-      "explain what you noticed politely",
-      "say they must be wrong",
-      "erase both results"
+      "“The clouds read books.”",
+      "“The clouds moved.”",
+      "“The clouds are my shoes.”"
     ],
-    "correct": 0,
-    "visual": "🐌 🪨",
-    "audioPrompt": "What should you say if your observation differs from a partner's?",
+    "correct": 1,
+    "audioPrompt": "You saw clouds move. What can you tell others?",
     "structuredExplanation": {
-      "summary": "A useful report names the observed detail."
+      "summary": "The clouds moved shares an observation."
     }
   },
   {
     "id": "ac9sfi05-p-016",
     "curriculumCode": "AC9SFI05",
     "bank": "practice",
-    "skill": "label question and prediction",
-    "question": "Which is a clear way to share a count?",
-    "explanation": "A question asks what the investigation will find.",
+    "skill": "share questions",
+    "question": "Which shell sentence is a question?",
+    "explanation": "Will the rock sink is a question.",
     "printable": true,
     "type": "single",
     "answers": [
-      "We counted four birds",
-      "Birds are the best",
-      "I did not count"
+      "“The rock is grey.”",
+      "“Will the rock sink?”",
+      "“The rock felt hard.”"
     ],
-    "correct": 0,
-    "visual": "1. What visits the lavender?\n2. I predict bees will visit",
-    "audioPrompt": "Which is a clear way to share a count?",
+    "correct": 1,
+    "audioPrompt": "Which shell sentence is a question?",
     "structuredExplanation": {
-      "summary": "A question asks what the investigation will find."
+      "summary": "Will the rock sink is a question."
     }
   },
   {
     "id": "ac9sfi05-p-017",
     "curriculumCode": "AC9SFI05",
     "bank": "practice",
-    "skill": "choose communication medium",
-    "question": "What is a good way to share what you observed?",
-    "explanation": "The format directly shows the evidence.",
+    "skill": "share observations",
+    "question": "Which towel sentence is an observation?",
+    "explanation": "The sponge is wet shares what was observed.",
     "printable": true,
     "type": "single",
     "answers": [
-      "tell the class clearly",
-      "hide the observation",
-      "change the result"
+      "“Will it dry?”",
+      "“I think it will dry.”",
+      "“The sponge is wet.”"
     ],
-    "correct": 0,
-    "visual": "🐦 red/blue",
-    "audioPrompt": "What is a good way to share what you observed?",
+    "correct": 2,
+    "audioPrompt": "Which towel sentence is an observation?",
     "structuredExplanation": {
-      "summary": "The format directly shows the evidence."
+      "summary": "The sponge is wet shares what was observed."
     }
   },
   {
     "id": "ac9sfi05-p-018",
     "curriculumCode": "AC9SFI05",
     "bank": "practice",
-    "skill": "organise science report",
-    "question": "What can you add to a science drawing to make it clearer?",
-    "explanation": "A clear report keeps question, prediction and observation distinct.",
+    "skill": "share predictions",
+    "question": "Which sentence is a prediction?",
+    "explanation": "The path might dry says what may happen.",
     "printable": true,
     "type": "single",
-    "items": [
-      "I predict bees will visit",
-      "The snail moved slowly past the rock",
-      "Ask the audience for questions",
-      "What visits the lavender?"
+    "answers": [
+      "“The path might dry.”",
+      "“The path is wet.”",
+      "“Will the path dry?”"
     ],
     "correct": 0,
-    "instruction": "Move the cards into the correct order.",
-    "answers": [
-      "labels",
-      "guesses only",
-      "unrelated stickers"
-    ],
-    "audioPrompt": "What can you add to a science drawing to make it clearer?",
+    "audioPrompt": "Which sentence is a prediction?",
     "structuredExplanation": {
-      "summary": "A clear report keeps question, prediction and observation distinct."
+      "summary": "The path might dry says what may happen."
     }
   },
   {
     "id": "ac9sfi05-p-019",
     "curriculumCode": "AC9SFI05",
     "bank": "practice",
-    "skill": "label a display",
-    "question": "When another student is sharing, what should you do?",
-    "explanation": "Labels and a consistent key help others read the evidence.",
+    "skill": "share observations",
+    "question": "Your group disagrees. What helps?",
+    "explanation": "Sharing ideas kindly helps a group learn together.",
     "printable": true,
     "type": "single",
     "answers": [
-      "listen",
-      "shout over them",
-      "walk away"
+      "Hide the chart",
+      "Share ideas kindly",
+      "Tear the paper"
     ],
-    "correct": 0,
-    "visual": "rubber 4 | cloth 0",
-    "audioPrompt": "When another student is sharing, what should you do?",
+    "correct": 1,
+    "audioPrompt": "Your group disagrees. What helps?",
     "structuredExplanation": {
-      "summary": "Labels and a consistent key help others read the evidence."
+      "summary": "Sharing ideas kindly helps a group learn together."
     }
   },
   {
     "id": "ac9sfi05-p-020",
     "curriculumCode": "AC9SFI05",
     "bank": "practice",
-    "skill": "active scientific listening",
-    "question": "Which sentence shares an observation?",
-    "explanation": "A clarifying question is relevant to the evidence.",
+    "skill": "share observations",
+    "question": "You made a science drawing. Why show it?",
+    "explanation": "A drawing can help share observations.",
     "printable": true,
     "type": "single",
     "answers": [
-      "The leaf has five spots",
-      "The leaf is happy",
-      "The leaf likes music"
+      "To hide observations",
+      "To change observations",
+      "To share observations"
     ],
-    "correct": 0,
-    "visual": "partner report: The plant grew three new leaves",
-    "audioPrompt": "Which sentence shares an observation?",
+    "correct": 2,
+    "audioPrompt": "You made a science drawing. Why show it?",
     "structuredExplanation": {
-      "summary": "A clarifying question is relevant to the evidence."
+      "summary": "A drawing can help share observations."
     }
   },
   {
     "id": "ac9sfi05-p-021",
     "curriculumCode": "AC9SFI05",
     "bank": "practice",
-    "skill": "cite evidence",
-    "question": "Which sentence shares a result clearly?",
-    "explanation": "The sentence uses the recorded numbers.",
+    "skill": "share ideas",
+    "question": "Which idea uses an observation?",
+    "explanation": "The big tower fell uses something observed.",
     "printable": true,
     "type": "single",
     "answers": [
-      "The ball rolled farther on the smooth floor",
-      "The ball was the nicest",
-      "I changed the answer"
+      "“The big tower fell.”",
+      "“The tower is silly.”",
+      "“The tower likes me.”"
     ],
     "correct": 0,
-    "visual": "rubber 5, cloth 1",
-    "audioPrompt": "Which sentence shares a result clearly?",
+    "audioPrompt": "Which idea uses an observation?",
     "structuredExplanation": {
-      "summary": "The sentence uses the recorded numbers."
+      "summary": "The big tower fell uses something observed."
     }
   },
   {
     "id": "ac9sfi05-p-022",
     "curriculumCode": "AC9SFI05",
     "bank": "practice",
-    "skill": "choose format for audience",
-    "question": "Why might you show your drawing to a partner?",
-    "explanation": "Choose a format that shows the needed feature.",
+    "skill": "share questions",
+    "question": "You ask, “What did you notice?” What are you asking for?",
+    "explanation": "What did you notice asks for observations.",
     "printable": true,
     "type": "single",
     "answers": [
-      "to share what you noticed",
-      "to hide your idea",
-      "to avoid talking about science"
+      "Lunch choices",
+      "Observations",
+      "Shoe sizes"
     ],
-    "correct": 0,
-    "visual": "a short audio clip",
-    "audioPrompt": "Why might you show your drawing to a partner?",
+    "correct": 1,
+    "audioPrompt": "You ask, “What did you notice?” What are you asking for?",
     "structuredExplanation": {
-      "summary": "Choose a format that shows the needed feature."
+      "summary": "What did you notice asks for observations."
     }
   },
   {
     "id": "ac9sfi05-p-023",
     "curriculumCode": "AC9SFI05",
     "bank": "practice",
-    "skill": "improve unclear poster",
-    "question": "What should you say if your observation differs from a partner's?",
-    "explanation": "A title, labels and key explain the evidence.",
+    "skill": "share observations",
+    "question": "A child says, “Maybe the seed will grow.” What are they sharing?",
+    "explanation": "Maybe the seed will grow is a prediction.",
     "printable": true,
     "type": "single",
     "answers": [
-      "explain what you noticed politely",
-      "say they must be wrong",
-      "erase both results"
+      "A prediction",
+      "A smell",
+      "A colour"
     ],
     "correct": 0,
-    "visual": "Plants | 🌱🌿",
-    "audioPrompt": "What should you say if your observation differs from a partner's?",
+    "audioPrompt": "A child says, “Maybe the seed will grow.” What are they sharing?",
     "structuredExplanation": {
-      "summary": "A title, labels and key explain the evidence."
+      "summary": "Maybe the seed will grow is a prediction."
     }
   },
   {
     "id": "ac9sfi05-p-024",
     "curriculumCode": "AC9SFI05",
     "bank": "practice",
-    "skill": "explain tool use",
-    "question": "Which is a clear way to share a count?",
-    "explanation": "Good science communication includes purpose and safety.",
+    "skill": "share ideas",
+    "question": "Why tell others your science ideas?",
+    "explanation": "Sharing ideas helps people learn together.",
     "printable": true,
     "type": "single",
     "answers": [
-      "We counted four birds",
-      "Birds are the best",
-      "I did not count"
+      "To keep results secret",
+      "To stop looking",
+      "To learn together"
     ],
-    "correct": 0,
-    "visual": "binoculars and bird",
-    "audioPrompt": "Which is a clear way to share a count?",
+    "correct": 2,
+    "audioPrompt": "Why tell others your science ideas?",
     "structuredExplanation": {
-      "summary": "Good science communication includes purpose and safety."
+      "summary": "Sharing ideas helps people learn together."
     }
   }
 ];
-window.quizQuestions = window.skillrPracticeQuestions;
