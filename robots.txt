@@ -1,4 +1,5 @@
-[object Object]# Underserved-market AI-readable maps
+[object Object]
+# Underserved-market AI-readable maps
 # https://skillrhub.com/ai-underserved-markets.json
 # https://skillrhub.com/ai-site-map.es-LA.md
 # https://skillrhub.com/ai-site-map.africa.md
