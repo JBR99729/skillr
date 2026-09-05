@@ -4,517 +4,480 @@ window.skillrPracticeQuestions = [
     "id": "ac9sfi04-p-001",
     "curriculumCode": "AC9SFI04",
     "bank": "practice",
-    "skill": "match prediction and observation",
-    "question": "On Monday, 2 birds visited. On Tuesday, 4 birds visited. Which day had more birds?",
-    "explanation": "The two records say the same outcome.",
+    "skill": "identify when predictions match",
+    "question": "The ice got smaller. What matched?",
+    "explanation": "The result matched the prediction.",
     "printable": true,
     "type": "single",
     "answers": [
-      "Tuesday",
-      "Monday",
-      "both were the same"
+      "The result",
+      "The drawing",
+      "The colour"
     ],
     "correct": 0,
-    "visual": "⚪ ramp → end",
-    "audioPrompt": "On Monday, 2 birds visited. On Tuesday, 4 birds visited. Which day had more birds?",
+    "audioPrompt": "The ice got smaller. What matched?",
     "structuredExplanation": {
-      "summary": "The two records say the same outcome."
+      "summary": "The result matched the prediction."
     }
   },
   {
     "id": "ac9sfi04-p-002",
     "curriculumCode": "AC9SFI04",
     "bank": "practice",
-    "skill": "sequence comparison",
-    "question": "A seedling was short. One week later it was taller. What changed?",
-    "explanation": "A prediction is made before evidence is collected.",
+    "skill": "compare predictions with results",
+    "question": "The towel stayed wet. What happened?",
+    "explanation": "The result did not match the prediction.",
     "printable": true,
     "type": "single",
-    "items": [
-      "observe the test",
-      "record the observation",
-      "compare prediction and observation",
-      "make a prediction"
-    ],
-    "correct": 0,
-    "instruction": "Move the cards into the correct order.",
     "answers": [
-      "its height",
-      "its name",
-      "its pot colour"
+      "The colour matched",
+      "The towel was happy",
+      "The prediction did not match"
     ],
-    "audioPrompt": "A seedling was short. One week later it was taller. What changed?",
+    "correct": 2,
+    "audioPrompt": "The towel stayed wet. What happened?",
     "structuredExplanation": {
-      "summary": "A prediction is made before evidence is collected."
+      "summary": "The result did not match the prediction."
     }
   },
   {
     "id": "ac9sfi04-p-003",
     "curriculumCode": "AC9SFI04",
     "bank": "practice",
-    "skill": "identify prediction",
-    "question": "Which is a good way to record how a leaf looks?",
-    "explanation": "A prediction states what is expected before the test.",
+    "skill": "compare predictions with results",
+    "question": "We guessed more birds. We saw fewer. Did it match?",
+    "explanation": "Fewer birds did not match the prediction of more birds.",
     "printable": true,
     "type": "single",
     "answers": [
-      "make a drawing",
-      "hide the leaf",
-      "guess its thoughts"
+      "Yes, it matched",
+      "No, it did not match",
+      "Birds cannot count"
     ],
-    "correct": 0,
-    "visual": "⚪ ramp → end",
-    "audioPrompt": "Which is a good way to record how a leaf looks?",
+    "correct": 1,
+    "audioPrompt": "We guessed more birds. We saw fewer. Did it match?",
     "structuredExplanation": {
-      "summary": "A prediction states what is expected before the test."
+      "summary": "Fewer birds did not match the prediction of more birds."
     }
   },
   {
     "id": "ac9sfi04-p-004",
     "curriculumCode": "AC9SFI04",
     "bank": "practice",
-    "skill": "describe numerical mismatch",
-    "question": "A class saw 3 ants, then 4 ants, then 5 ants. What pattern do the numbers show?",
-    "explanation": "Compare the two recorded numbers.",
+    "skill": "identify when predictions match",
+    "question": "The ball rolled far. What matched?",
+    "explanation": "The result matched the prediction.",
     "printable": true,
     "type": "single",
     "answers": [
-      "one more each time",
-      "one less each time",
-      "always the same"
+      "The prediction and result",
+      "The lunch box",
+      "The ball colour"
     ],
     "correct": 0,
-    "visual": "predicted 3 | observed 0",
-    "audioPrompt": "A class saw 3 ants, then 4 ants, then 5 ants. What pattern do the numbers show?",
+    "audioPrompt": "The ball rolled far. What matched?",
     "structuredExplanation": {
-      "summary": "Compare the two recorded numbers."
+      "summary": "The result matched the prediction."
     }
   },
   {
     "id": "ac9sfi04-p-005",
     "curriculumCode": "AC9SFI04",
     "bank": "practice",
-    "skill": "recognise partial match",
-    "question": "There are 5 red blocks and 2 blue blocks. Which colour has fewer blocks?",
-    "explanation": "Some details can match while others differ.",
+    "skill": "compare prediction and observation",
+    "question": "The seed did not sprout. What do we compare?",
+    "explanation": "We compare the prediction with what happened.",
     "printable": true,
     "type": "single",
     "answers": [
-      "blue",
-      "red",
-      "both are equal"
+      "Seed and pencil",
+      "Prediction and result",
+      "Pot and book"
     ],
-    "correct": 0,
-    "visual": "🐜 🦋 | 🐜 🐝",
-    "audioPrompt": "There are 5 red blocks and 2 blue blocks. Which colour has fewer blocks?",
+    "correct": 1,
+    "audioPrompt": "The seed did not sprout. What do we compare?",
     "structuredExplanation": {
-      "summary": "Some details can match while others differ."
+      "summary": "We compare the prediction with what happened."
     }
   },
   {
     "id": "ac9sfi04-p-006",
     "curriculumCode": "AC9SFI04",
     "bank": "practice",
-    "skill": "identify unexpected observation",
-    "question": "Which record is useful for counting birds?",
-    "explanation": "Unexpected observations should still be recorded.",
+    "skill": "compare predictions with results",
+    "question": "We expected loud sounds. We heard soft sounds. What happened?",
+    "explanation": "Soft sounds were different from the prediction.",
     "printable": true,
     "type": "single",
     "answers": [
-      "tally marks",
-      "a made-up story",
-      "an empty page"
+      "It matched exactly",
+      "No sound was heard",
+      "The result was different"
     ],
-    "correct": 0,
-    "visual": "🐜 🦋 | 🐜 🐝",
-    "audioPrompt": "Which record is useful for counting birds?",
+    "correct": 2,
+    "audioPrompt": "We expected loud sounds. We heard soft sounds. What happened?",
     "structuredExplanation": {
-      "summary": "Unexpected observations should still be recorded."
+      "summary": "Soft sounds were different from the prediction."
     }
   },
   {
     "id": "ac9sfi04-p-007",
     "curriculumCode": "AC9SFI04",
     "bank": "practice",
-    "skill": "use recorded evidence",
-    "question": "The ice cube became smaller. Which drawing should come second?",
-    "explanation": "The original written prediction is the honest before-test record.",
+    "skill": "identify when predictions match",
+    "question": "The wet paper dried. Was the guess right?",
+    "explanation": "The path dried, so the prediction matched.",
     "printable": true,
     "type": "single",
     "answers": [
-      "the smaller ice cube",
-      "the larger ice cube",
-      "a wooden block"
+      "No",
+      "Cannot tell",
+      "Yes"
     ],
-    "correct": 0,
-    "visual": "card: roll | result: cube slid",
-    "audioPrompt": "The ice cube became smaller. Which drawing should come second?",
+    "correct": 2,
+    "audioPrompt": "The wet paper dried. Was the guess right?",
     "structuredExplanation": {
-      "summary": "The original written prediction is the honest before-test record."
+      "summary": "The path dried, so the prediction matched."
     }
   },
   {
     "id": "ac9sfi04-p-008",
     "curriculumCode": "AC9SFI04",
     "bank": "practice",
-    "skill": "recognise insufficient evidence",
-    "question": "Three flowers were closed. Later, three flowers were open. What changed?",
-    "explanation": "The class needs distances on tile and carpet.",
+    "skill": "compare predictions with results",
+    "question": "We guessed 2 shells. We counted 2. What happened?",
+    "explanation": "The prediction and count were the same.",
     "printable": true,
     "type": "single",
     "answers": [
-      "the flowers opened",
-      "the number became ten",
-      "the flowers became rocks"
+      "Matched the count",
+      "Changed colour",
+      "Could not count"
     ],
     "correct": 0,
-    "visual": "note: The car moved",
-    "audioPrompt": "Three flowers were closed. Later, three flowers were open. What changed?",
+    "audioPrompt": "We guessed 2 shells. We counted 2. What happened?",
     "structuredExplanation": {
-      "summary": "The class needs distances on tile and carpet."
+      "summary": "The prediction and count were the same."
     }
   },
   {
     "id": "ac9sfi04-p-009",
     "curriculumCode": "AC9SFI04",
     "bank": "practice",
-    "skill": "compare details",
-    "question": "On Monday, 2 birds visited. On Tuesday, 4 birds visited. Which day had more birds?",
-    "explanation": "Compare each detail separately.",
+    "skill": "identify when predictions match",
+    "question": "The cloth soaked up water. What matched?",
+    "explanation": "The observation matched the prediction.",
     "printable": true,
     "type": "single",
     "answers": [
-      "Tuesday",
-      "Monday",
-      "both were the same"
+      "I saw water",
+      "My prediction matched",
+      "The sponge is yellow"
     ],
-    "correct": 0,
-    "visual": "cone: straight? | observed curved ↪",
-    "audioPrompt": "On Monday, 2 birds visited. On Tuesday, 4 birds visited. Which day had more birds?",
+    "correct": 1,
+    "audioPrompt": "The cloth soaked up water. What matched?",
     "structuredExplanation": {
-      "summary": "Compare each detail separately."
+      "summary": "The observation matched the prediction."
     }
   },
   {
     "id": "ac9sfi04-p-010",
     "curriculumCode": "AC9SFI04",
     "bank": "practice",
-    "skill": "read comparison table",
-    "question": "A seedling was short. One week later it was taller. What changed?",
-    "explanation": "Those rows have the same prediction and observation.",
+    "skill": "compare predictions with results",
+    "question": "The car went farther on tile. What happened?",
+    "explanation": "The result was different from the prediction.",
     "printable": true,
     "type": "single",
     "answers": [
-      "its height",
-      "its name",
-      "its pot colour"
+      "My prediction did not match",
+      "My prediction was a sound",
+      "Carpet always wins"
     ],
     "correct": 0,
-    "visual": "A 2→2 | B 3→1 | C 0→0",
-    "audioPrompt": "A seedling was short. One week later it was taller. What changed?",
+    "audioPrompt": "The car went farther on tile. What happened?",
     "structuredExplanation": {
-      "summary": "Those rows have the same prediction and observation."
+      "summary": "The result was different from the prediction."
     }
   },
   {
     "id": "ac9sfi04-p-011",
     "curriculumCode": "AC9SFI04",
     "bank": "practice",
-    "skill": "choose honest conclusion",
-    "question": "Which is a good way to record how a leaf looks?",
-    "explanation": "Science keeps both records and compares them.",
+    "skill": "compare predictions with results",
+    "question": "The flag moved in wind. What happened?",
+    "explanation": "The observation matched the prediction.",
     "printable": true,
     "type": "single",
     "answers": [
-      "make a drawing",
-      "hide the leaf",
-      "guess its thoughts"
+      "Wind was a guess",
+      "No observation needed",
+      "Prediction matched"
     ],
-    "correct": 0,
-    "visual": "P: paper boat floats 60 seconds\nO: sank after 20 seconds",
-    "audioPrompt": "Which is a good way to record how a leaf looks?",
+    "correct": 2,
+    "audioPrompt": "The flag moved in wind. What happened?",
     "structuredExplanation": {
-      "summary": "Science keeps both records and compares them."
+      "summary": "The observation matched the prediction."
     }
   },
   {
     "id": "ac9sfi04-p-012",
     "curriculumCode": "AC9SFI04",
     "bank": "practice",
-    "skill": "interpret repeated result",
-    "question": "A class saw 3 ants, then 4 ants, then 5 ants. What pattern do the numbers show?",
-    "explanation": "Repeated evidence helps the class compare reliably.",
+    "skill": "identify when predictions differ",
+    "question": "I thought soft. It felt hard. What was different?",
+    "explanation": "The observation was different from the prediction.",
     "printable": true,
     "type": "single",
     "answers": [
-      "one more each time",
-      "one less each time",
-      "always the same"
+      "Shell and sky",
+      "Prediction and observation",
+      "Table and chair"
     ],
-    "correct": 0,
-    "visual": "Trial 1 ✓ | Trial 2 ✓ | Trial 3 ✓",
-    "audioPrompt": "A class saw 3 ants, then 4 ants, then 5 ants. What pattern do the numbers show?",
+    "correct": 1,
+    "audioPrompt": "I thought soft. It felt hard. What was different?",
     "structuredExplanation": {
-      "summary": "Repeated evidence helps the class compare reliably."
+      "summary": "The observation was different from the prediction."
     }
   },
   {
     "id": "ac9sfi04-p-013",
     "curriculumCode": "AC9SFI04",
     "bank": "practice",
-    "skill": "ask next question",
-    "question": "There are 5 red blocks and 2 blue blocks. Which colour has fewer blocks?",
-    "explanation": "A next question should be observable and related.",
+    "skill": "compare predictions with results",
+    "question": "The seedling grew taller. Which result matches?",
+    "explanation": "It got taller matches the prediction.",
     "printable": true,
     "type": "single",
     "answers": [
-      "blue",
-      "red",
-      "both are equal"
+      "It got taller",
+      "It got shorter",
+      "It stayed the same"
     ],
     "correct": 0,
-    "visual": "result: small ball bounced higher",
-    "audioPrompt": "There are 5 red blocks and 2 blue blocks. Which colour has fewer blocks?",
+    "audioPrompt": "The seedling grew taller. Which result matches?",
     "structuredExplanation": {
-      "summary": "A next question should be observable and related."
+      "summary": "It got taller matches the prediction."
     }
   },
   {
     "id": "ac9sfi04-p-014",
     "curriculumCode": "AC9SFI04",
     "bank": "practice",
-    "skill": "correct comparison misconception",
-    "question": "Which record is useful for counting birds?",
-    "explanation": "Honest records help learning.",
+    "skill": "compare predictions with results",
+    "question": "We guessed no worms. We saw many. Did it match?",
+    "explanation": "Many ants did not match a prediction of no ants.",
     "printable": true,
     "type": "single",
     "answers": [
-      "tally marks",
-      "a made-up story",
-      "an empty page"
+      "Yes",
+      "Cannot tell",
+      "No"
     ],
-    "correct": 0,
-    "visual": "prediction card + observation card",
-    "audioPrompt": "Which record is useful for counting birds?",
+    "correct": 2,
+    "audioPrompt": "We guessed no worms. We saw many. Did it match?",
     "structuredExplanation": {
-      "summary": "Honest records help learning."
+      "summary": "Many ants did not match a prediction of no ants."
     }
   },
   {
     "id": "ac9sfi04-p-015",
     "curriculumCode": "AC9SFI04",
     "bank": "practice",
-    "skill": "match prediction and observation",
-    "question": "The ice cube became smaller. Which drawing should come second?",
-    "explanation": "The two records report different outcomes.",
+    "skill": "compare prediction and observation",
+    "question": "The puddle got smaller. What should we compare?",
+    "explanation": "We compare the prediction with the observation.",
     "printable": true,
     "type": "single",
     "answers": [
-      "the smaller ice cube",
-      "the larger ice cube",
-      "a wooden block"
+      "Puddle and book",
+      "Prediction and observation",
+      "Pencil and path"
     ],
-    "correct": 0,
-    "visual": "⛵ predicted float | observed sink",
-    "audioPrompt": "The ice cube became smaller. Which drawing should come second?",
+    "correct": 1,
+    "audioPrompt": "The puddle got smaller. What should we compare?",
     "structuredExplanation": {
-      "summary": "The two records report different outcomes."
+      "summary": "We compare the prediction with the observation."
     }
   },
   {
     "id": "ac9sfi04-p-016",
     "curriculumCode": "AC9SFI04",
     "bank": "practice",
-    "skill": "sequence comparison",
-    "question": "Three flowers were closed. Later, three flowers were open. What changed?",
-    "explanation": "A prediction is made before evidence is collected.",
+    "skill": "compare predictions with results",
+    "question": "The drum was loud. Which observation matches?",
+    "explanation": "Loud matches the prediction.",
     "printable": true,
     "type": "single",
-    "items": [
-      "observe the test",
-      "record the observation",
-      "compare prediction and observation",
-      "make a prediction"
-    ],
-    "correct": 0,
-    "instruction": "Move the cards into the correct order.",
     "answers": [
-      "the flowers opened",
-      "the number became ten",
-      "the flowers became rocks"
+      "It was quiet",
+      "It was loud",
+      "It was soft"
     ],
-    "audioPrompt": "Three flowers were closed. Later, three flowers were open. What changed?",
+    "correct": 1,
+    "audioPrompt": "The drum was loud. Which observation matches?",
     "structuredExplanation": {
-      "summary": "A prediction is made before evidence is collected."
+      "summary": "Loud matches the prediction."
     }
   },
   {
     "id": "ac9sfi04-p-017",
     "curriculumCode": "AC9SFI04",
     "bank": "practice",
-    "skill": "identify prediction",
-    "question": "On Monday, 2 birds visited. On Tuesday, 4 birds visited. Which day had more birds?",
-    "explanation": "A prediction states what is expected before the test.",
+    "skill": "compare predictions with results",
+    "question": "The feather stayed still. What happened?",
+    "explanation": "The result was different from the prediction.",
     "printable": true,
     "type": "single",
     "answers": [
-      "Tuesday",
-      "Monday",
-      "both were the same"
+      "The prediction moved it",
+      "The feather was pretend",
+      "The result was different"
     ],
-    "correct": 0,
-    "visual": "⛵ predicted float | observed sink",
-    "audioPrompt": "On Monday, 2 birds visited. On Tuesday, 4 birds visited. Which day had more birds?",
+    "correct": 2,
+    "audioPrompt": "The feather stayed still. What happened?",
     "structuredExplanation": {
-      "summary": "A prediction states what is expected before the test."
+      "summary": "The result was different from the prediction."
     }
   },
   {
     "id": "ac9sfi04-p-018",
     "curriculumCode": "AC9SFI04",
     "bank": "practice",
-    "skill": "describe numerical mismatch",
-    "question": "A seedling was short. One week later it was taller. What changed?",
-    "explanation": "Compare the two recorded numbers.",
+    "skill": "compare predictions with results",
+    "question": "We guessed more blue blocks. We counted more red. What happened?",
+    "explanation": "The observation was different from the prediction.",
     "printable": true,
     "type": "single",
     "answers": [
-      "its height",
-      "its name",
-      "its pot colour"
+      "The observation was different",
+      "The prediction matched",
+      "Leaves cannot count"
     ],
     "correct": 0,
-    "visual": "predicted 5 | observed 3",
-    "audioPrompt": "A seedling was short. One week later it was taller. What changed?",
+    "audioPrompt": "We guessed more blue blocks. We counted more red. What happened?",
     "structuredExplanation": {
-      "summary": "Compare the two recorded numbers."
+      "summary": "The observation was different from the prediction."
     }
   },
   {
     "id": "ac9sfi04-p-019",
     "curriculumCode": "AC9SFI04",
     "bank": "practice",
-    "skill": "recognise partial match",
-    "question": "Which is a good way to record how a leaf looks?",
-    "explanation": "Some details can match while others differ.",
+    "skill": "compare predictions with results",
+    "question": "The rock sank. What should we record?",
+    "explanation": "The observation matched the prediction.",
     "printable": true,
     "type": "single",
     "answers": [
-      "make a drawing",
-      "hide the leaf",
-      "guess its thoughts"
+      "Rock became a bird",
+      "Prediction matched",
+      "Water was gone"
     ],
-    "correct": 0,
-    "visual": "🍁 🍂 | 🍁 🍂 🟤",
-    "audioPrompt": "Which is a good way to record how a leaf looks?",
+    "correct": 1,
+    "audioPrompt": "The rock sank. What should we record?",
     "structuredExplanation": {
-      "summary": "Some details can match while others differ."
+      "summary": "The observation matched the prediction."
     }
   },
   {
     "id": "ac9sfi04-p-020",
     "curriculumCode": "AC9SFI04",
     "bank": "practice",
-    "skill": "identify unexpected observation",
-    "question": "A class saw 3 ants, then 4 ants, then 5 ants. What pattern do the numbers show?",
-    "explanation": "Unexpected observations should still be recorded.",
+    "skill": "compare predictions with results",
+    "question": "The tower stayed up. Which sentence fits?",
+    "explanation": "Staying up did not match a prediction that it would fall.",
     "printable": true,
     "type": "single",
     "answers": [
-      "one more each time",
-      "one less each time",
-      "always the same"
+      "It fell",
+      "It was louder",
+      "It did not match"
     ],
-    "correct": 0,
-    "visual": "🍁 🍂 | 🍁 🍂 🟤",
-    "audioPrompt": "A class saw 3 ants, then 4 ants, then 5 ants. What pattern do the numbers show?",
+    "correct": 2,
+    "audioPrompt": "The tower stayed up. Which sentence fits?",
     "structuredExplanation": {
-      "summary": "Unexpected observations should still be recorded."
+      "summary": "Staying up did not match a prediction that it would fall."
     }
   },
   {
     "id": "ac9sfi04-p-021",
     "curriculumCode": "AC9SFI04",
     "bank": "practice",
-    "skill": "use recorded evidence",
-    "question": "There are 5 red blocks and 2 blue blocks. Which colour has fewer blocks?",
-    "explanation": "The original written prediction is the honest before-test record.",
+    "skill": "compare predictions with results",
+    "question": "The clouds moved. What does this show?",
+    "explanation": "The cloud pictures matched the prediction.",
     "printable": true,
     "type": "single",
     "answers": [
-      "blue",
-      "red",
-      "both are equal"
+      "Prediction matched",
+      "Clouds were hiding",
+      "Camera moved clouds"
     ],
     "correct": 0,
-    "visual": "card: 2 flowers | result: 4 flowers appeared",
-    "audioPrompt": "There are 5 red blocks and 2 blue blocks. Which colour has fewer blocks?",
+    "audioPrompt": "The clouds moved. What does this show?",
     "structuredExplanation": {
-      "summary": "The original written prediction is the honest before-test record."
+      "summary": "The cloud pictures matched the prediction."
     }
   },
   {
     "id": "ac9sfi04-p-022",
     "curriculumCode": "AC9SFI04",
     "bank": "practice",
-    "skill": "recognise insufficient evidence",
-    "question": "Which record is useful for counting birds?",
-    "explanation": "The class needs leaf counts before and after.",
+    "skill": "compare predictions with results",
+    "question": "The bark felt rough. Which box gets a tick?",
+    "explanation": "The rough bark matched the prediction.",
     "printable": true,
     "type": "single",
     "answers": [
-      "tally marks",
-      "a made-up story",
-      "an empty page"
+      "Did not match",
+      "Matched",
+      "Not observed"
     ],
-    "correct": 0,
-    "visual": "note: The plant changed",
-    "audioPrompt": "Which record is useful for counting birds?",
+    "correct": 1,
+    "audioPrompt": "The bark felt rough. Which box gets a tick?",
     "structuredExplanation": {
-      "summary": "The class needs leaf counts before and after."
+      "summary": "The rough bark matched the prediction."
     }
   },
   {
     "id": "ac9sfi04-p-023",
     "curriculumCode": "AC9SFI04",
     "bank": "practice",
-    "skill": "compare details",
-    "question": "The ice cube became smaller. Which drawing should come second?",
-    "explanation": "Compare each detail separately.",
+    "skill": "compare predictions with results",
+    "question": "The flower stayed closed. What should we say?",
+    "explanation": "Closed did not match a prediction that it would open.",
     "printable": true,
     "type": "single",
     "answers": [
-      "the smaller ice cube",
-      "the larger ice cube",
-      "a wooden block"
+      "Prediction did not match",
+      "Prediction matched",
+      "Flowers cannot be seen"
     ],
     "correct": 0,
-    "visual": "bounce high? | observed low",
-    "audioPrompt": "The ice cube became smaller. Which drawing should come second?",
+    "audioPrompt": "The flower stayed closed. What should we say?",
     "structuredExplanation": {
-      "summary": "Compare each detail separately."
+      "summary": "Closed did not match a prediction that it would open."
     }
   },
   {
     "id": "ac9sfi04-p-024",
     "curriculumCode": "AC9SFI04",
     "bank": "practice",
-    "skill": "read comparison table",
-    "question": "Three flowers were closed. Later, three flowers were open. What changed?",
-    "explanation": "Those rows have the same prediction and observation.",
+    "skill": "compare prediction and observation",
+    "question": "Why compare a guess and result?",
+    "explanation": "Comparing shows whether the prediction matched.",
     "printable": true,
     "type": "single",
     "answers": [
-      "the flowers opened",
-      "the number became ten",
-      "the flowers became rocks"
+      "To change the result",
+      "To choose a favourite",
+      "To see if they match"
     ],
-    "correct": 0,
-    "visual": "A roll→roll | B slide→roll | C bounce→bounce",
-    "audioPrompt": "Three flowers were closed. Later, three flowers were open. What changed?",
+    "correct": 2,
+    "audioPrompt": "Why compare a guess and result?",
     "structuredExplanation": {
-      "summary": "Those rows have the same prediction and observation."
+      "summary": "Comparing shows whether the prediction matched."
     }
   }
 ];
-window.quizQuestions = window.skillrPracticeQuestions;
