@@ -4,510 +4,320 @@ window.skillrExamQuestions = [
     "id": "ac9s1i04-t-001",
     "curriculumCode": "AC9S1I04",
     "bank": "test",
-    "skill": "sorting data and representing patterns",
+    "skill": "sort data and information",
+    "question": "Sort the shells by colour. Which group fits?",
+    "explanation": "Shells can be sorted by colour.",
     "printable": true,
     "type": "single",
-    "question": "A class sorts shells by stripes. Which labels are clearest?",
-    "audioPrompt": "A class sorts shells by stripes. Which labels are clearest?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
     "answers": [
-      "nice / not nice",
-      "big / pretty",
-      "mine / yours",
-      "striped / not striped"
+      "White shells",
+      "Loud shells",
+      "Running shells"
     ],
-    "correct": 3,
-    "explanation": "The labels use one observable feature.\nHint: One clear rule.",
+    "correct": 0,
+    "audioPrompt": "Sort the shells by colour. Which group fits?",
     "structuredExplanation": {
-      "summary": "The labels use one observable feature.",
-      "hint": "One clear rule."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 1,
-    "qualitySchema": "reviewed-year1-science-v1"
+      "summary": "Shells can be sorted by colour."
+    }
   },
   {
     "id": "ac9s1i04-t-002",
     "curriculumCode": "AC9S1I04",
     "bank": "test",
-    "skill": "sorting data and representing patterns",
+    "skill": "order data and information",
+    "question": "Order plants from tallest to shortest. What comes first?",
+    "explanation": "Tallest to shortest starts with the tallest plant.",
     "printable": true,
     "type": "single",
-    "question": "Counts are 2 frogs, 7 ducks, 4 fish. Which group is most?",
-    "audioPrompt": "Counts are 2 frogs, 7 ducks, 4 fish. Which group is most?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
     "answers": [
-      "fish",
-      "all equal",
-      "ducks",
-      "frogs"
+      "Shortest plant",
+      "Tallest plant",
+      "Hidden plant"
     ],
-    "correct": 2,
-    "explanation": "Seven is the largest count.\nHint: Largest number.",
+    "correct": 1,
+    "audioPrompt": "Order plants from tallest to shortest. What comes first?",
     "structuredExplanation": {
-      "summary": "Seven is the largest count.",
-      "hint": "Largest number."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 2,
-    "qualitySchema": "reviewed-year1-science-v1"
+      "summary": "Tallest to shortest starts with the tallest plant."
+    }
   },
   {
     "id": "ac9s1i04-t-003",
     "curriculumCode": "AC9S1I04",
     "bank": "test",
-    "skill": "sorting data and representing patterns",
+    "skill": "represent patterns",
+    "question": "The chart shows rain, sun, rain, sun. What comes next?",
+    "explanation": "The pattern repeats rain, sun.",
     "printable": true,
     "type": "single",
-    "question": "Why use tally marks while counting visitors?",
-    "audioPrompt": "Why use tally marks while counting visitors?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
     "answers": [
-      "They make all groups equal.",
-      "They help keep a running count.",
-      "They measure temperature.",
-      "They prove why visitors came."
+      "Cloud",
+      "Wind",
+      "Rain"
     ],
-    "correct": 1,
-    "explanation": "Tallies record repeated events efficiently.\nHint: Count as events happen.",
+    "correct": 2,
+    "audioPrompt": "The chart shows rain, sun, rain, sun. What comes next?",
     "structuredExplanation": {
-      "summary": "Tallies record repeated events efficiently.",
-      "hint": "Count as events happen."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 3,
-    "qualitySchema": "reviewed-year1-science-v1"
+      "summary": "The pattern repeats rain, sun."
+    }
   },
   {
     "id": "ac9s1i04-t-004",
     "curriculumCode": "AC9S1I04",
     "bank": "test",
-    "skill": "sorting data and representing patterns",
+    "skill": "sort data and information",
+    "question": "Sort rocks by size. Which group fits?",
+    "explanation": "Rocks can be sorted by size.",
     "printable": true,
     "type": "single",
-    "question": "[Show the complete labelled data display.] Which graph needs a key?",
-    "audioPrompt": "[Show the complete labelled data display.] Which graph needs a key?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
     "answers": [
-      "A picture graph where each icon may represent more than one item.",
-      "A simple list of names.",
-      "A labelled drawing.",
-      "A paragraph."
+      "Small rocks",
+      "Singing rocks",
+      "Flying rocks"
     ],
     "correct": 0,
-    "explanation": "A key explains the value of each symbol.\nHint: What does one picture mean?",
+    "audioPrompt": "Sort rocks by size. Which group fits?",
     "structuredExplanation": {
-      "summary": "A key explains the value of each symbol.",
-      "hint": "What does one picture mean?"
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 4,
-    "qualitySchema": "reviewed-year1-science-v1"
+      "summary": "Rocks can be sorted by size."
+    }
   },
   {
     "id": "ac9s1i04-t-005",
     "curriculumCode": "AC9S1I04",
     "bank": "test",
-    "skill": "sorting data and representing patterns",
+    "skill": "order data and information",
+    "question": "Order cups from most water to least water. What comes first?",
+    "explanation": "Most water means the fullest cup.",
     "printable": true,
     "type": "single",
-    "question": "Which is an opinion-based category?",
-    "audioPrompt": "Which is an opinion-based category?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
     "answers": [
-      "rough rock",
-      "grey rock",
-      "round rock",
-      "best-looking rock"
+      "Empty cup",
+      "Full cup",
+      "Noisy cup"
     ],
-    "correct": 3,
-    "explanation": "“Best-looking” depends on preference.\nHint: Can everyone apply it the same way?",
+    "correct": 1,
+    "audioPrompt": "Order cups from most water to least water. What comes first?",
     "structuredExplanation": {
-      "summary": "“Best-looking” depends on preference.",
-      "hint": "Can everyone apply it the same way?"
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 5,
-    "qualitySchema": "reviewed-year1-science-v1"
+      "summary": "Most water means the fullest cup."
+    }
   },
   {
     "id": "ac9s1i04-t-006",
     "curriculumCode": "AC9S1I04",
     "bank": "test",
-    "skill": "sorting data and representing patterns",
+    "skill": "represent patterns",
+    "question": "The table shows 5, 4, 3 leaves. What pattern is shown?",
+    "explanation": "The numbers decrease each time.",
     "printable": true,
     "type": "single",
-    "question": "Totals are 5,5,2. What can be said?",
-    "audioPrompt": "Totals are 5,5,2. What can be said?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
     "answers": [
-      "The category with 2 is most.",
-      "No comparison is possible.",
-      "Two categories are equal.",
-      "All are equal."
+      "More leaves",
+      "Same leaves",
+      "Fewer leaves"
     ],
     "correct": 2,
-    "explanation": "The first two totals are the same.\nHint: Equal numbers.",
+    "audioPrompt": "The table shows 5, 4, 3 leaves. What pattern is shown?",
     "structuredExplanation": {
-      "summary": "The first two totals are the same.",
-      "hint": "Equal numbers."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 6,
-    "qualitySchema": "reviewed-year1-science-v1"
+      "summary": "The numbers decrease each time."
+    }
   },
   {
     "id": "ac9s1i04-t-007",
     "curriculumCode": "AC9S1I04",
     "bank": "test",
-    "skill": "sorting data and representing patterns",
+    "skill": "sort data and information",
+    "question": "Sort animals by movement. Which group fits?",
+    "explanation": "Animals can be sorted by how they move.",
     "printable": true,
     "type": "single",
-    "question": "[Show the picture described.] One picture means 3 birds. Four pictures represent:",
-    "audioPrompt": "[Show the picture described.] One picture means 3 birds. Four pictures represent:",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
     "answers": [
-      "1 bird",
-      "12 birds",
-      "7 birds",
-      "4 birds"
+      "Flying animals",
+      "Talking animals",
+      "Purple animals"
     ],
-    "correct": 1,
-    "explanation": "4 × 3 = 12.\nHint: Use the key repeatedly.",
+    "correct": 0,
+    "audioPrompt": "Sort animals by movement. Which group fits?",
     "structuredExplanation": {
-      "summary": "4 × 3 = 12.",
-      "hint": "Use the key repeatedly."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 7,
-    "qualitySchema": "reviewed-year1-science-v1"
+      "summary": "Animals can be sorted by how they move."
+    }
   },
   {
     "id": "ac9s1i04-t-008",
     "curriculumCode": "AC9S1I04",
     "bank": "test",
-    "skill": "sorting data and representing patterns",
+    "skill": "order data and information",
+    "question": "Order shadows from longest to shortest. What comes last?",
+    "explanation": "Longest to shortest ends with the shortest.",
     "printable": true,
     "type": "single",
-    "question": "Which item belongs in “made of metal”?",
-    "audioPrompt": "Which item belongs in “made of metal”?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
     "answers": [
-      "spoon",
-      "paper bag",
-      "rubber band",
-      "wooden block"
+      "Longest shadow",
+      "Shortest shadow",
+      "Sweetest shadow"
     ],
-    "correct": 0,
-    "explanation": "A typical spoon is metal.\nHint: Material feature.",
+    "correct": 1,
+    "audioPrompt": "Order shadows from longest to shortest. What comes last?",
     "structuredExplanation": {
-      "summary": "A typical spoon is metal.",
-      "hint": "Material feature."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 8,
-    "qualitySchema": "reviewed-year1-science-v1"
+      "summary": "Longest to shortest ends with the shortest."
+    }
   },
   {
     "id": "ac9s1i04-t-009",
     "curriculumCode": "AC9S1I04",
     "bank": "test",
-    "skill": "sorting data and representing patterns",
+    "skill": "represent patterns",
+    "question": "The model shows soft, hard, soft, hard. What comes next?",
+    "explanation": "The pattern repeats soft, hard.",
     "printable": true,
     "type": "single",
-    "question": "Why should categories be named before sorting?",
-    "audioPrompt": "Why should categories be named before sorting?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
     "answers": [
-      "So totals are equal.",
-      "So objects change.",
-      "So counting is unnecessary.",
-      "So the rule is clear and consistent."
+      "Smooth",
+      "Wet",
+      "Soft"
     ],
-    "correct": 3,
-    "explanation": "Clear categories guide how each item is classified.\nHint: Know the rule first.",
+    "correct": 2,
+    "audioPrompt": "The model shows soft, hard, soft, hard. What comes next?",
     "structuredExplanation": {
-      "summary": "Clear categories guide how each item is classified.",
-      "hint": "Know the rule first."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 9,
-    "qualitySchema": "reviewed-year1-science-v1"
+      "summary": "The pattern repeats soft, hard."
+    }
   },
   {
     "id": "ac9s1i04-t-010",
     "curriculumCode": "AC9S1I04",
     "bank": "test",
-    "skill": "sorting data and representing patterns",
+    "skill": "sort data and information",
+    "question": "Sort seeds by shape. Which group fits?",
+    "explanation": "Seeds can be sorted by shape.",
     "printable": true,
     "type": "single",
-    "question": "A tally total is higher than the number of objects. What likely needs checking?",
-    "audioPrompt": "A tally total is higher than the number of objects. What likely needs checking?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
     "answers": [
-      "Whether objects are too small.",
-      "Whether the favourite group won.",
-      "Whether something was counted twice.",
-      "Whether labels are colourful enough."
+      "Round seeds",
+      "Happy seeds",
+      "Whispering seeds"
     ],
-    "correct": 2,
-    "explanation": "Double-counting can make a tally too large.\nHint: One item should count once.",
+    "correct": 0,
+    "audioPrompt": "Sort seeds by shape. Which group fits?",
     "structuredExplanation": {
-      "summary": "Double-counting can make a tally too large.",
-      "hint": "One item should count once."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 10,
-    "qualitySchema": "reviewed-year1-science-v1"
+      "summary": "Seeds can be sorted by shape."
+    }
   },
   {
     "id": "ac9s1i04-t-011",
     "curriculumCode": "AC9S1I04",
     "bank": "test",
-    "skill": "sorting data and representing patterns",
+    "skill": "order data and information",
+    "question": "Order sounds from loudest to softest. What comes first?",
+    "explanation": "Loudest to softest starts with the loudest sound.",
     "printable": true,
     "type": "single",
-    "question": "Which statement is supported by data red 3, blue 6?",
-    "audioPrompt": "Which statement is supported by data red 3, blue 6?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
     "answers": [
-      "Blue will always be 6.",
-      "Blue was counted twice as often as red.",
-      "Blue is better.",
-      "Red caused blue."
+      "Softest sound",
+      "Loudest sound",
+      "Green sound"
     ],
     "correct": 1,
-    "explanation": "Six is twice three.\nHint: Use only the totals.",
+    "audioPrompt": "Order sounds from loudest to softest. What comes first?",
     "structuredExplanation": {
-      "summary": "Six is twice three.",
-      "hint": "Use only the totals."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 11,
-    "qualitySchema": "reviewed-year1-science-v1"
+      "summary": "Loudest to softest starts with the loudest sound."
+    }
   },
   {
     "id": "ac9s1i04-t-012",
     "curriculumCode": "AC9S1I04",
     "bank": "test",
-    "skill": "sorting data and representing patterns",
+    "skill": "use tables and models",
+    "question": "The picture graph shows more birds than ants. What is true?",
+    "explanation": "A picture graph can show which group has more.",
     "printable": true,
     "type": "single",
-    "question": "Which sort is by shape?",
-    "audioPrompt": "Which sort is by shape?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
     "answers": [
-      "round / not round",
-      "metal / plastic",
-      "red / blue",
-      "soft / hard"
+      "Ants are more",
+      "Same number",
+      "Birds are more"
     ],
-    "correct": 0,
-    "explanation": "Roundness is a shape feature.\nHint: Which labels describe shape?",
+    "correct": 2,
+    "audioPrompt": "The picture graph shows more birds than ants. What is true?",
     "structuredExplanation": {
-      "summary": "Roundness is a shape feature.",
-      "hint": "Which labels describe shape?"
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 12,
-    "qualitySchema": "reviewed-year1-science-v1"
+      "summary": "A picture graph can show which group has more."
+    }
   },
   {
     "id": "ac9s1i04-t-013",
     "curriculumCode": "AC9S1I04",
     "bank": "test",
-    "skill": "sorting data and representing patterns",
+    "skill": "sort data and information",
+    "question": "Sort weather pictures. Which group fits?",
+    "explanation": "Weather pictures can be sorted by condition.",
     "printable": true,
     "type": "single",
-    "question": "[Show the complete labelled data display.] Why might a table be useful before a graph?",
-    "audioPrompt": "[Show the complete labelled data display.] Why might a table be useful before a graph?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
     "answers": [
-      "It guarantees a pattern.",
-      "It changes the results.",
-      "It removes the need to count.",
-      "It organises category counts clearly."
+      "Cloudy days",
+      "Secret days",
+      "Tiny days"
     ],
-    "correct": 3,
-    "explanation": "A table can organise totals that are then represented visually.\nHint: Organise before display.",
+    "correct": 0,
+    "audioPrompt": "Sort weather pictures. Which group fits?",
     "structuredExplanation": {
-      "summary": "A table can organise totals that are then represented visually.",
-      "hint": "Organise before display."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 13,
-    "qualitySchema": "reviewed-year1-science-v1"
+      "summary": "Weather pictures can be sorted by condition."
+    }
   },
   {
     "id": "ac9s1i04-t-014",
     "curriculumCode": "AC9S1I04",
     "bank": "test",
-    "skill": "sorting data and representing patterns",
+    "skill": "order data and information",
+    "question": "Order blocks from lowest to highest. What comes last?",
+    "explanation": "Lowest to highest ends with the highest tower.",
     "printable": true,
     "type": "single",
-    "question": "Counts over days are 4,2,4,2. What pattern appears?",
-    "audioPrompt": "Counts over days are 4,2,4,2. What pattern appears?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
     "answers": [
-      "Always decreasing",
-      "No repetition",
-      "Alternating 4 and 2",
-      "Always increasing"
+      "Lowest tower",
+      "Highest tower",
+      "Wet tower"
     ],
-    "correct": 2,
-    "explanation": "The values repeat in an alternating sequence.\nHint: What repeats?",
+    "correct": 1,
+    "audioPrompt": "Order blocks from lowest to highest. What comes last?",
     "structuredExplanation": {
-      "summary": "The values repeat in an alternating sequence.",
-      "hint": "What repeats?"
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 14,
-    "qualitySchema": "reviewed-year1-science-v1"
+      "summary": "Lowest to highest ends with the highest tower."
+    }
   },
   {
     "id": "ac9s1i04-t-015",
     "curriculumCode": "AC9S1I04",
     "bank": "test",
-    "skill": "sorting data and representing patterns",
+    "skill": "represent information",
+    "question": "The pictures show egg, chick, hen. What is shown?",
+    "explanation": "The pictures show an order in a life cycle.",
     "printable": true,
     "type": "single",
-    "question": "A class counts insects. What can tally marks help them do?",
-    "audioPrompt": "A class counts insects. What can tally marks help them do?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
     "answers": [
-      "make a sound",
-      "tell the weather",
-      "record a count",
-      "change an object"
+      "A colour pattern",
+      "A sound chart",
+      "A life order"
     ],
     "correct": 2,
-    "explanation": "The correct answer is record a count.",
+    "audioPrompt": "The pictures show egg, chick, hen. What is shown?",
     "structuredExplanation": {
-      "summary": "The correct answer is record a count."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 15,
-    "qualitySchema": "reviewed-year1-science-v1"
+      "summary": "The pictures show an order in a life cycle."
+    }
   },
   {
     "id": "ac9s1i04-t-016",
     "curriculumCode": "AC9S1I04",
     "bank": "test",
-    "skill": "sorting data and representing patterns",
+    "skill": "use tables and models",
+    "question": "Why use a table for observations?",
+    "explanation": "Tables help organise and sort information.",
     "printable": true,
     "type": "single",
-    "question": "Which animals belong in a group called 'has wings'?",
-    "audioPrompt": "Which animals belong in a group called 'has wings'?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
     "answers": [
-      "birds",
-      "cups",
-      "fish",
-      "rocks"
+      "To sort information clearly",
+      "To hide the results",
+      "To make objects talk"
     ],
     "correct": 0,
-    "explanation": "The correct answer is birds.",
+    "audioPrompt": "Why use a table for observations?",
     "structuredExplanation": {
-      "summary": "The correct answer is birds."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 16,
-    "qualitySchema": "reviewed-year1-science-v1"
+      "summary": "Tables help organise and sort information."
+    }
   }
 ];
