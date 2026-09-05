@@ -4,511 +4,480 @@ window.skillrPracticeQuestions = [
     "id": "ac9sfi03-p-001",
     "curriculumCode": "AC9SFI03",
     "bank": "practice",
-    "skill": "sort by visible feature",
-    "question": "Which two animals belong under the heading “Has wings”?",
-    "explanation": "Butterfly and magpie have visible wings.",
+    "skill": "record observations clearly",
+    "question": "Where should we record if it is sunny, cloudy, or rainy?",
+    "explanation": "A weather chart is a template for recording weather observations.",
     "printable": true,
     "type": "single",
     "answers": [
-      "butterfly and magpie",
-      "dog and snail",
-      "butterfly and dog"
+      "In a weather chart",
+      "In a lunchbox",
+      "On a toy car"
     ],
     "correct": 0,
-    "visual": "🦋 🐦 | 🐕 🐌",
-    "audioPrompt": "Which two animals belong under the heading “Has wings”?",
+    "audioPrompt": "Where should we record if it is sunny, cloudy, or rainy?",
     "structuredExplanation": {
-      "summary": "Butterfly and magpie have visible wings."
+      "summary": "A weather chart is a template for recording weather observations."
     }
   },
   {
     "id": "ac9sfi03-p-002",
     "curriculumCode": "AC9SFI03",
     "bank": "practice",
-    "skill": "choose table headings",
-    "question": "Which sense helps you notice that a ball is red?",
-    "explanation": "The groups are based on a visible feature.",
+    "skill": "record observations clearly",
+    "question": "A child draws a seedling on Monday and Friday. What do the drawings show?",
+    "explanation": "The two drawings can show how the seedling changed over time.",
     "printable": true,
     "type": "single",
     "answers": [
-      "sight",
-      "hearing",
-      "smell"
+      "What the plant thinks",
+      "What the pot is called",
+      "How the plant changed"
     ],
-    "correct": 0,
-    "visual": "🦋 🐦 | 🐕 🐌",
-    "audioPrompt": "Which sense helps you notice that a ball is red?",
+    "correct": 2,
+    "audioPrompt": "A child draws a seedling on Monday and Friday. What do the drawings show?",
     "structuredExplanation": {
-      "summary": "The groups are based on a visible feature."
+      "summary": "The two drawings can show how the seedling changed over time."
     }
   },
   {
     "id": "ac9sfi03-p-003",
     "curriculumCode": "AC9SFI03",
     "bank": "practice",
-    "skill": "read dot record",
-    "question": "Which sense helps you notice rough bark?",
-    "explanation": "Each dot represents one observation.",
+    "skill": "identify simple patterns",
+    "question": "Monday sunny, Tuesday sunny, Wednesday rainy. What pattern do you see?",
+    "explanation": "The record shows sunny weather on Monday and Tuesday.",
     "printable": true,
     "type": "single",
     "answers": [
-      "touch",
-      "hearing",
-      "taste"
+      "It rained every day",
+      "It was sunny two days in a row",
+      "There was no weather"
     ],
-    "correct": 0,
-    "visual": "🐦 ••••\n🦋 ••",
-    "audioPrompt": "Which sense helps you notice rough bark?",
+    "correct": 1,
+    "audioPrompt": "Monday sunny, Tuesday sunny, Wednesday rainy. What pattern do you see?",
     "structuredExplanation": {
-      "summary": "Each dot represents one observation."
+      "summary": "The record shows sunny weather on Monday and Tuesday."
     }
   },
   {
     "id": "ac9sfi03-p-004",
     "curriculumCode": "AC9SFI03",
     "bank": "practice",
-    "skill": "compare represented counts",
-    "question": "Which tool helps you see tiny details?",
-    "explanation": "There are 4 dots for birds.",
+    "skill": "represent observations in templates",
+    "question": "A child counts 3 red leaves and 5 green leaves. Which template shows this best?",
+    "explanation": "A picture graph can show the number of red and green leaves clearly.",
     "printable": true,
     "type": "single",
     "answers": [
-      "magnifying glass",
-      "ruler",
-      "cup"
+      "A picture graph",
+      "A story book",
+      "A ball ramp"
     ],
     "correct": 0,
-    "visual": "🐦 ••••\n🦋 ••",
-    "audioPrompt": "Which tool helps you see tiny details?",
+    "audioPrompt": "A child counts 3 red leaves and 5 green leaves. Which template shows this best?",
     "structuredExplanation": {
-      "summary": "There are 4 dots for birds."
+      "summary": "A picture graph can show the number of red and green leaves clearly."
     }
   },
   {
     "id": "ac9sfi03-p-005",
     "curriculumCode": "AC9SFI03",
     "bank": "practice",
-    "skill": "match object to material",
-    "question": "Which object should go under the heading “plastic”?",
-    "explanation": "The plastic bottle is shown as plastic.",
+    "skill": "represent observations in templates",
+    "question": "A class records bird sounds with ticks. What does each tick mean?",
+    "explanation": "Each tick records one bird sound heard.",
     "printable": true,
     "type": "single",
     "answers": [
-      "plastic bottle",
-      "wooden ruler",
-      "metal key"
+      "One child’s favourite bird",
+      "One bird sound heard",
+      "One bird drawing"
     ],
-    "correct": 0,
-    "visual": "📏 🔑 🧴",
-    "audioPrompt": "Which object should go under the heading “plastic”?",
+    "correct": 1,
+    "audioPrompt": "A class records bird sounds with ticks. What does each tick mean?",
     "structuredExplanation": {
-      "summary": "The plastic bottle is shown as plastic."
+      "summary": "Each tick records one bird sound heard."
     }
   },
   {
     "id": "ac9sfi03-p-006",
     "curriculumCode": "AC9SFI03",
     "bank": "practice",
-    "skill": "read material grouping",
-    "question": "Which object belongs in the metal group?",
-    "explanation": "The metal key is made from metal.",
+    "skill": "record observations clearly",
+    "question": "A child writes “rough” about a rock. Which sense is that?",
+    "explanation": "Rough is noticed using touch.",
     "printable": true,
     "type": "single",
     "answers": [
-      "metal key",
-      "wooden ruler",
-      "plastic bottle"
+      "Smell",
+      "Hearing",
+      "Touch"
     ],
-    "correct": 0,
-    "visual": "📏 🔑 🧴",
-    "audioPrompt": "Which object belongs in the metal group?",
+    "correct": 2,
+    "audioPrompt": "A child writes “rough” about a rock. Which sense is that?",
     "structuredExplanation": {
-      "summary": "The metal key is made from metal."
+      "summary": "Rough is noticed using touch."
     }
   },
   {
     "id": "ac9sfi03-p-007",
     "curriculumCode": "AC9SFI03",
     "bank": "practice",
-    "skill": "complete observation table",
-    "question": "Which tool can help compare how heavy two objects are?",
-    "explanation": "The table records that the tube rolls.",
+    "skill": "identify simple patterns",
+    "question": "A chart shows three rainy days in a row. What pattern is shown?",
+    "explanation": "The chart shows rain on each of the three days.",
     "printable": true,
     "type": "single",
     "answers": [
-      "balance",
-      "magnifying glass",
-      "torch"
+      "The sun came out each day",
+      "No weather was recorded",
+      "It rained each day"
     ],
-    "correct": 0,
-    "visual": "⚽ rolls | ▭ slides | 🧻 ?",
-    "audioPrompt": "Which tool can help compare how heavy two objects are?",
+    "correct": 2,
+    "audioPrompt": "A chart shows three rainy days in a row. What pattern is shown?",
     "structuredExplanation": {
-      "summary": "The table records that the tube rolls."
+      "summary": "The chart shows rain on each of the three days."
     }
   },
   {
     "id": "ac9sfi03-p-008",
     "curriculumCode": "AC9SFI03",
     "bank": "practice",
-    "skill": "identify movement pattern",
-    "question": "Which sense helps you notice the smell of a flower?",
-    "explanation": "The table records the same movement for ball and tube.",
+    "skill": "sort recorded observations",
+    "question": "A child puts pictures of leaves into smooth and rough groups. What are they doing?",
+    "explanation": "Putting observations into groups is sorting.",
     "printable": true,
     "type": "single",
     "answers": [
-      "smell",
-      "hearing",
-      "sight"
+      "Sorting observations",
+      "Hiding observations",
+      "Guessing names"
     ],
     "correct": 0,
-    "visual": "⚽ rolls | ▭ slides | 🧻 ?",
-    "audioPrompt": "Which sense helps you notice the smell of a flower?",
+    "audioPrompt": "A child puts pictures of leaves into smooth and rough groups. What are they doing?",
     "structuredExplanation": {
-      "summary": "The table records the same movement for ball and tube."
+      "summary": "Putting observations into groups is sorting."
     }
   },
   {
     "id": "ac9sfi03-p-009",
     "curriculumCode": "AC9SFI03",
     "bank": "practice",
-    "skill": "identify shared features",
-    "question": "Which sense helps you notice a bell ringing?",
-    "explanation": "The table shows feathers, beaks and wings for every item.",
+    "skill": "represent observations in templates",
+    "question": "A class uses smiley stickers to show which fruit children chose. What does the chart show?",
+    "explanation": "The sticker chart can show which fruit was chosen more.",
     "printable": true,
     "type": "single",
     "answers": [
-      "hearing",
-      "sight",
-      "taste"
+      "Which fruit can talk",
+      "Which fruit has more choices",
+      "Which fruit is oldest"
     ],
-    "correct": 0,
-    "visual": "🐦 🦆 🪶\nfeathers ✓ ✓ ✓ | wings ✓ ✓ ✓ | flies ✓ ✓ ✗",
-    "audioPrompt": "Which sense helps you notice a bell ringing?",
+    "correct": 1,
+    "audioPrompt": "A class uses smiley stickers to show which fruit children chose. What does the chart show?",
     "structuredExplanation": {
-      "summary": "The table shows feathers, beaks and wings for every item."
+      "summary": "The sticker chart can show which fruit was chosen more."
     }
   },
   {
     "id": "ac9sfi03-p-010",
     "curriculumCode": "AC9SFI03",
     "bank": "practice",
-    "skill": "find variable feature",
-    "question": "Which recorded feature is not shared by every item?",
-    "explanation": "The marks differ for can fly.",
+    "skill": "record observations clearly",
+    "question": "A child records shell colours in boxes. Which entry is an observation?",
+    "explanation": "Brown shell tells something seen and recorded.",
     "printable": true,
     "type": "single",
     "answers": [
-      "can fly",
-      "feathers, beaks",
-      "wings"
+      "“brown shell”",
+      "“happy shell”",
+      "“magic shell”"
     ],
     "correct": 0,
-    "visual": "🐦 🦆 🪶\nfeathers ✓ ✓ ✓ | wings ✓ ✓ ✓ | flies ✓ ✓ ✗",
-    "audioPrompt": "Which recorded feature is not shared by every item?",
+    "audioPrompt": "A child records shell colours in boxes. Which entry is an observation?",
     "structuredExplanation": {
-      "summary": "The marks differ for can fly."
+      "summary": "Brown shell tells something seen and recorded."
     }
   },
   {
     "id": "ac9sfi03-p-011",
     "curriculumCode": "AC9SFI03",
     "bank": "practice",
-    "skill": "choose clear symbol rule",
-    "question": "Which sense helps you notice rough bark?",
-    "explanation": "A consistent key makes the display trustworthy.",
+    "skill": "identify simple patterns",
+    "question": "Chart shows loud, soft, loud, soft. What comes next?",
+    "explanation": "The pattern repeats loud, soft, so loud comes next.",
     "printable": true,
     "type": "single",
     "answers": [
-      "touch",
-      "hearing",
-      "taste"
+      "Blue",
+      "Round",
+      "Loud"
     ],
-    "correct": 0,
-    "visual": "🦎 🦎 🦎\n🐦 🐦 🐦 🐦 🐦",
-    "audioPrompt": "Which sense helps you notice rough bark?",
+    "correct": 2,
+    "audioPrompt": "Chart shows loud, soft, loud, soft. What comes next?",
     "structuredExplanation": {
-      "summary": "A consistent key makes the display trustworthy."
+      "summary": "The pattern repeats loud, soft, so loud comes next."
     }
   },
   {
     "id": "ac9sfi03-p-012",
     "curriculumCode": "AC9SFI03",
     "bank": "practice",
-    "skill": "update a record",
-    "question": "One more bird is observed. What should the new birds count be?",
-    "explanation": "Add one to 4 to get 5.",
+    "skill": "represent observations in templates",
+    "question": "A template asks “What did you see?” Which answer fits best?",
+    "explanation": "The leaf is green tells what was seen.",
     "printable": true,
     "type": "single",
     "answers": [
-      "5",
-      "4",
-      "2"
+      "“The leaf is kind”",
+      "“The leaf is green”",
+      "“The leaf is tomorrow”"
     ],
-    "correct": 0,
-    "visual": "🐦 ••••\n🦋 ••\n+ one new observation",
-    "audioPrompt": "One more bird is observed. What should the new birds count be?",
+    "correct": 1,
+    "audioPrompt": "A template asks “What did you see?” Which answer fits best?",
     "structuredExplanation": {
-      "summary": "Add one to 4 to get 5."
+      "summary": "The leaf is green tells what was seen."
     }
   },
   {
     "id": "ac9sfi03-p-013",
     "curriculumCode": "AC9SFI03",
     "bank": "practice",
-    "skill": "identify pattern over time",
-    "question": "Which tool helps compare the length of two pencils?",
-    "explanation": "The entries show that increases by one each day.",
+    "skill": "identify simple patterns",
+    "question": "Plant heights recorded with blocks: 2, 3, 4 blocks. What pattern is shown?",
+    "explanation": "The block heights increase from 2 to 3 to 4.",
     "printable": true,
     "type": "single",
     "answers": [
-      "ruler",
-      "thermometer",
-      "watering can"
+      "It is getting taller",
+      "It is getting shorter",
+      "It is staying the same"
     ],
     "correct": 0,
-    "visual": "Mon 2 | Tue 3 | Wed 4",
-    "audioPrompt": "Which tool helps compare the length of two pencils?",
+    "audioPrompt": "Plant heights recorded with blocks: 2, 3, 4 blocks. What pattern is shown?",
     "structuredExplanation": {
-      "summary": "The entries show that increases by one each day."
+      "summary": "The block heights increase from 2 to 3 to 4."
     }
   },
   {
     "id": "ac9sfi03-p-014",
     "curriculumCode": "AC9SFI03",
     "bank": "practice",
-    "skill": "sequence recording process",
-    "question": "Which tool helps check temperature?",
-    "explanation": "Observe first, record next, then interpret and share.",
+    "skill": "identify simple patterns",
+    "question": "Class records snails seen: 1, 2, 3. What pattern do the numbers show?",
+    "explanation": "The numbers increase from 1 to 2 to 3.",
     "printable": true,
     "type": "single",
-    "items": [
-      "place the result in the provided table",
-      "look for a pattern",
-      "share the pattern",
-      "observe carefully"
-    ],
-    "correct": 0,
-    "instruction": "Move the cards into the correct order.",
     "answers": [
-      "thermometer",
-      "balance",
-      "paintbrush"
+      "Fewer snails each time",
+      "Same number each time",
+      "More snails each time"
     ],
-    "audioPrompt": "Which tool helps check temperature?",
+    "correct": 2,
+    "audioPrompt": "Class records snails seen: 1, 2, 3. What pattern do the numbers show?",
     "structuredExplanation": {
-      "summary": "Observe first, record next, then interpret and share."
+      "summary": "The numbers increase from 1 to 2 to 3."
     }
   },
   {
     "id": "ac9sfi03-p-015",
     "curriculumCode": "AC9SFI03",
     "bank": "practice",
-    "skill": "sort by visible feature",
-    "question": "Which two animals belong under the heading “Has wings”?",
-    "explanation": "Bee and duck have visible wings.",
+    "skill": "represent observations in templates",
+    "question": "A child draws the Moon each night in a template. Why is this useful?",
+    "explanation": "The drawings record what the child saw each night.",
     "printable": true,
     "type": "single",
     "answers": [
-      "bee and duck",
-      "cat and worm",
-      "bee and cat"
+      "It makes the Moon move",
+      "It records what was seen",
+      "It changes the night"
     ],
-    "correct": 0,
-    "visual": "🐝 🦆 | 🐈 🪱",
-    "audioPrompt": "Which two animals belong under the heading “Has wings”?",
+    "correct": 1,
+    "audioPrompt": "A child draws the Moon each night in a template. Why is this useful?",
     "structuredExplanation": {
-      "summary": "Bee and duck have visible wings."
+      "summary": "The drawings record what the child saw each night."
     }
   },
   {
     "id": "ac9sfi03-p-016",
     "curriculumCode": "AC9SFI03",
     "bank": "practice",
-    "skill": "choose table headings",
-    "question": "Which sense helps you notice the smell of a flower?",
-    "explanation": "The groups are based on a visible feature.",
+    "skill": "represent observations in templates",
+    "question": "A table has two columns: soft and hard. Where should a sponge picture go?",
+    "explanation": "A sponge usually belongs in the soft column.",
     "printable": true,
     "type": "single",
     "answers": [
-      "smell",
-      "hearing",
-      "sight"
+      "Hard",
+      "Soft",
+      "Loud"
     ],
-    "correct": 0,
-    "visual": "🐝 🦆 | 🐈 🪱",
-    "audioPrompt": "Which sense helps you notice the smell of a flower?",
+    "correct": 1,
+    "audioPrompt": "A table has two columns: soft and hard. Where should a sponge picture go?",
     "structuredExplanation": {
-      "summary": "The groups are based on a visible feature."
+      "summary": "A sponge usually belongs in the soft column."
     }
   },
   {
     "id": "ac9sfi03-p-017",
     "curriculumCode": "AC9SFI03",
     "bank": "practice",
-    "skill": "read dot record",
-    "question": "Which sense helps you notice a bell ringing?",
-    "explanation": "Each dot represents one observation.",
+    "skill": "identify simple patterns",
+    "question": "Class records water drops on a path: many, some, none. What pattern is shown?",
+    "explanation": "The record shows the drops decreasing over time.",
     "printable": true,
     "type": "single",
     "answers": [
-      "hearing",
-      "sight",
-      "taste"
+      "The path got wetter",
+      "The path made sounds",
+      "The drops became fewer"
     ],
-    "correct": 0,
-    "visual": "🐝 •••••\n🐞 •••",
-    "audioPrompt": "Which sense helps you notice a bell ringing?",
+    "correct": 2,
+    "audioPrompt": "Class records water drops on a path: many, some, none. What pattern is shown?",
     "structuredExplanation": {
-      "summary": "Each dot represents one observation."
+      "summary": "The record shows the drops decreasing over time."
     }
   },
   {
     "id": "ac9sfi03-p-018",
     "curriculumCode": "AC9SFI03",
     "bank": "practice",
-    "skill": "compare represented counts",
-    "question": "Which sense helps you notice that a ball is red?",
-    "explanation": "There are 5 dots for bees.",
+    "skill": "represent observations in templates",
+    "question": "A child uses a picture graph for leaf colours. Which picture belongs in the red column?",
+    "explanation": "A red leaf belongs in the red leaf column.",
     "printable": true,
     "type": "single",
     "answers": [
-      "sight",
-      "hearing",
-      "smell"
+      "A red leaf",
+      "A blue cup",
+      "A yellow ball"
     ],
     "correct": 0,
-    "visual": "🐝 •••••\n🐞 •••",
-    "audioPrompt": "Which sense helps you notice that a ball is red?",
+    "audioPrompt": "A child uses a picture graph for leaf colours. Which picture belongs in the red column?",
     "structuredExplanation": {
-      "summary": "There are 5 dots for bees."
+      "summary": "A red leaf belongs in the red leaf column."
     }
   },
   {
     "id": "ac9sfi03-p-019",
     "curriculumCode": "AC9SFI03",
     "bank": "practice",
-    "skill": "match object to material",
-    "question": "Which object should go under the heading “metal”?",
-    "explanation": "The metal spoon is shown as metal.",
+    "skill": "represent observations in templates",
+    "question": "A template asks “How did it feel?” Which answer fits best?",
+    "explanation": "Rough tells how something felt.",
     "printable": true,
     "type": "single",
     "answers": [
-      "metal spoon",
-      "glass jar",
-      "fabric scarf"
+      "“It was loud”",
+      "“It was rough”",
+      "“It was far away”"
     ],
-    "correct": 0,
-    "visual": "🫙 🧣 🥄",
-    "audioPrompt": "Which object should go under the heading “metal”?",
+    "correct": 1,
+    "audioPrompt": "A template asks “How did it feel?” Which answer fits best?",
     "structuredExplanation": {
-      "summary": "The metal spoon is shown as metal."
+      "summary": "Rough tells how something felt."
     }
   },
   {
     "id": "ac9sfi03-p-020",
     "curriculumCode": "AC9SFI03",
     "bank": "practice",
-    "skill": "read material grouping",
-    "question": "Which object belongs in the fabric group?",
-    "explanation": "The fabric scarf is made from fabric.",
+    "skill": "record observations clearly",
+    "question": "Class records shadows: short in morning, long later. What changed?",
+    "explanation": "The observation record shows the shadow length changed.",
     "printable": true,
     "type": "single",
     "answers": [
-      "fabric scarf",
-      "glass jar",
-      "metal spoon"
+      "The child’s name",
+      "The paper colour",
+      "The shadow length"
     ],
-    "correct": 0,
-    "visual": "🫙 🧣 🥄",
-    "audioPrompt": "Which object belongs in the fabric group?",
+    "correct": 2,
+    "audioPrompt": "Class records shadows: short in morning, long later. What changed?",
     "structuredExplanation": {
-      "summary": "The fabric scarf is made from fabric."
+      "summary": "The observation record shows the shadow length changed."
     }
   },
   {
     "id": "ac9sfi03-p-021",
     "curriculumCode": "AC9SFI03",
     "bank": "practice",
-    "skill": "complete observation table",
-    "question": "Which tool helps compare the length of two pencils?",
-    "explanation": "The table records that the can rolls.",
+    "skill": "sort recorded observations",
+    "question": "A child sorts buttons by colour. What is being represented?",
+    "explanation": "The groups represent the colours the child observed.",
     "printable": true,
     "type": "single",
     "answers": [
-      "ruler",
-      "thermometer",
-      "watering can"
+      "Observed colours",
+      "Secret wishes",
+      "Animal sounds"
     ],
     "correct": 0,
-    "visual": "🚗 rolls | 📕 slides | 🥫 ?",
-    "audioPrompt": "Which tool helps compare the length of two pencils?",
+    "audioPrompt": "A child sorts buttons by colour. What is being represented?",
     "structuredExplanation": {
-      "summary": "The table records that the can rolls."
+      "summary": "The groups represent the colours the child observed."
     }
   },
   {
     "id": "ac9sfi03-p-022",
     "curriculumCode": "AC9SFI03",
     "bank": "practice",
-    "skill": "identify movement pattern",
-    "question": "Which tool helps check temperature?",
-    "explanation": "The table records the same movement for toy car and can.",
+    "skill": "represent observations in templates",
+    "question": "A chart shows more tall towers than short towers. What can the class say?",
+    "explanation": "The chart shows tall towers were more common.",
     "printable": true,
     "type": "single",
     "answers": [
-      "thermometer",
-      "balance",
-      "paintbrush"
+      "Short towers were seen more",
+      "Tall towers were seen more",
+      "No towers were made"
     ],
-    "correct": 0,
-    "visual": "🚗 rolls | 📕 slides | 🥫 ?",
-    "audioPrompt": "Which tool helps check temperature?",
+    "correct": 1,
+    "audioPrompt": "A chart shows more tall towers than short towers. What can the class say?",
     "structuredExplanation": {
-      "summary": "The table records the same movement for toy car and can."
+      "summary": "The chart shows tall towers were more common."
     }
   },
   {
     "id": "ac9sfi03-p-023",
     "curriculumCode": "AC9SFI03",
     "bank": "practice",
-    "skill": "identify shared features",
-    "question": "Which tool can help compare how heavy two objects are?",
-    "explanation": "The table shows fur and four legs for every item.",
+    "skill": "identify simple patterns",
+    "question": "A child records sounds as quiet, quiet, loud. Which pattern is shown?",
+    "explanation": "The first two recorded sounds were quiet.",
     "printable": true,
     "type": "single",
     "answers": [
-      "balance",
-      "magnifying glass",
-      "torch"
+      "Two quiet sounds came first",
+      "All sounds were loud",
+      "No sounds were heard"
     ],
     "correct": 0,
-    "visual": "🐈 🐕 🐇\nfur ✓ ✓ ✓ | 4 legs ✓ ✓ ✓ | long ears ✗ ✗ ✓",
-    "audioPrompt": "Which tool can help compare how heavy two objects are?",
+    "audioPrompt": "A child records sounds as quiet, quiet, loud. Which pattern is shown?",
     "structuredExplanation": {
-      "summary": "The table shows fur and four legs for every item."
+      "summary": "The first two recorded sounds were quiet."
     }
   },
   {
     "id": "ac9sfi03-p-024",
     "curriculumCode": "AC9SFI03",
     "bank": "practice",
-    "skill": "find variable feature",
-    "question": "Which recorded feature is not shared by every item?",
-    "explanation": "The marks differ for long ears.",
+    "skill": "record observations clearly",
+    "question": "A class uses pictures to show what animals they saw. Why use pictures?",
+    "explanation": "Pictures can show observations clearly.",
     "printable": true,
     "type": "single",
     "answers": [
-      "long ears",
-      "fur",
-      "four legs"
+      "To make animals appear",
+      "To hide the results",
+      "To show observations clearly"
     ],
-    "correct": 0,
-    "visual": "🐈 🐕 🐇\nfur ✓ ✓ ✓ | 4 legs ✓ ✓ ✓ | long ears ✗ ✗ ✓",
-    "audioPrompt": "Which recorded feature is not shared by every item?",
+    "correct": 2,
+    "audioPrompt": "A class uses pictures to show what animals they saw. Why use pictures?",
     "structuredExplanation": {
-      "summary": "The marks differ for long ears."
+      "summary": "Pictures can show observations clearly."
     }
   }
 ];
-window.quizQuestions = window.skillrPracticeQuestions;
