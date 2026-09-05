@@ -4,30 +4,29 @@ window.skillrPracticeQuestions = [
     "id": "ac9sfu03-p-001",
     "curriculumCode": "AC9SFU03",
     "bank": "practice",
-    "skill": "distinguish material and object",
-    "question": "A wooden chair has four legs and a seat. What material is it made from?",
-    "explanation": "Wood is the material. The chair is the object.",
+    "skill": "observable material properties",
+    "question": "A wooden chair has four legs and a seat. What material is named?",
+    "explanation": "Wood is the material. Chair and seat name objects or parts.",
     "printable": true,
     "type": "single",
     "answers": [
-      "Glass",
+      "Chair",
       "Wood",
-      "Fabric"
+      "Seat"
     ],
     "correct": 1,
-    "visual": "🥄",
-    "audioPrompt": "A wooden chair has four legs and a seat. What material is it made from?",
+    "audioPrompt": "A wooden chair has four legs and a seat. What material is named?",
     "structuredExplanation": {
-      "summary": "Wood is the material. The chair is the object."
+      "summary": "Wood is the material. Chair and seat name objects or parts."
     }
   },
   {
     "id": "ac9sfu03-p-002",
     "curriculumCode": "AC9SFU03",
     "bank": "practice",
-    "skill": "describe material properties",
+    "skill": "observable material properties",
     "question": "Which word names a material?",
-    "explanation": "Metal is a material used to make objects. Spoons and cups are objects.",
+    "explanation": "Metal is a material used to make objects.",
     "printable": true,
     "type": "single",
     "answers": [
@@ -36,17 +35,16 @@ window.skillrPracticeQuestions = [
       "Cup"
     ],
     "correct": 0,
-    "visual": "🧵",
     "audioPrompt": "Which word names a material?",
     "structuredExplanation": {
-      "summary": "Metal is a material used to make objects. Spoons and cups are objects."
+      "summary": "Metal is a material used to make objects."
     }
   },
   {
     "id": "ac9sfu03-p-003",
     "curriculumCode": "AC9SFU03",
     "bank": "practice",
-    "skill": "recognise composite object",
+    "skill": "observable material properties",
     "question": "A boot has a rubber sole and a leather top. How many materials are named?",
     "explanation": "Rubber and leather are two different materials.",
     "printable": true,
@@ -57,7 +55,6 @@ window.skillrPracticeQuestions = [
       "Two"
     ],
     "correct": 2,
-    "visual": "✏️",
     "audioPrompt": "A boot has a rubber sole and a leather top. How many materials are named?",
     "structuredExplanation": {
       "summary": "Rubber and leather are two different materials."
@@ -67,60 +64,57 @@ window.skillrPracticeQuestions = [
     "id": "ac9sfu03-p-004",
     "curriculumCode": "AC9SFU03",
     "bank": "practice",
-    "skill": "sort by property",
-    "question": "A child gently feels a safe piece of sandpaper. Which word describes its surface?",
-    "explanation": "Sandpaper has a rough, grainy surface.",
+    "skill": "observable material properties",
+    "question": "A child gently feels safe sandpaper. Which word describes its surface?",
+    "explanation": "Sandpaper has a rough surface texture.",
     "printable": true,
     "type": "single",
     "answers": [
-      "Smooth",
       "Rough",
-      "Fluffy"
+      "Bendy",
+      "Clear"
     ],
-    "correct": 1,
-    "visual": "⭕ 🧣 | 🪵 🥄",
-    "audioPrompt": "A child gently feels a safe piece of sandpaper. Which word describes its surface?",
+    "correct": 0,
+    "audioPrompt": "A child gently feels safe sandpaper. Which word describes its surface?",
     "structuredExplanation": {
-      "summary": "Sandpaper has a rough, grainy surface."
+      "summary": "Sandpaper has a rough surface texture."
     }
   },
   {
     "id": "ac9sfu03-p-005",
     "curriculumCode": "AC9SFU03",
     "bank": "practice",
-    "skill": "magnify material detail",
-    "question": "A child can see a toy clearly through a clear plastic sheet. Which property does the sheet have?",
-    "explanation": "A see-through material lets us see objects on the other side.",
+    "skill": "texture of materials",
+    "question": "A toy can be seen clearly through a clear plastic sheet. Which property does the sheet have?",
+    "explanation": "A see-through material lets us see what is behind it.",
     "printable": true,
     "type": "single",
     "answers": [
-      "See-through",
-      "Fluffy",
-      "Stretchy"
+      "Soft",
+      "Bumpy",
+      "See-through"
     ],
-    "correct": 0,
-    "visual": "📄 🔍",
-    "audioPrompt": "A child can see a toy clearly through a clear plastic sheet. Which property does the sheet have?",
+    "correct": 2,
+    "audioPrompt": "A toy can be seen clearly through a clear plastic sheet. Which property does the sheet have?",
     "structuredExplanation": {
-      "summary": "A see-through material lets us see objects on the other side."
+      "summary": "A see-through material lets us see what is behind it."
     }
   },
   {
     "id": "ac9sfu03-p-006",
     "curriculumCode": "AC9SFU03",
     "bank": "practice",
-    "skill": "choose material for purpose",
+    "skill": "observable material properties",
     "question": "A metal spoon and a metal key look different. What do they have in common?",
     "explanation": "Both objects are made from metal.",
     "printable": true,
     "type": "single",
     "answers": [
       "Their shape",
-      "Their use",
-      "Their material"
+      "Their material",
+      "Their use"
     ],
-    "correct": 2,
-    "visual": "☔",
+    "correct": 1,
     "audioPrompt": "A metal spoon and a metal key look different. What do they have in common?",
     "structuredExplanation": {
       "summary": "Both objects are made from metal."
@@ -130,60 +124,57 @@ window.skillrPracticeQuestions = [
     "id": "ac9sfu03-p-007",
     "curriculumCode": "AC9SFU03",
     "bank": "practice",
-    "skill": "explain different materials in object",
-    "question": "A teacher gives a child a safe cotton pad. It squashes easily when gently pressed. How does it feel?",
-    "explanation": "A soft material gives way easily under gentle pressure.",
+    "skill": "observable material properties",
+    "question": "A cotton pad squashes easily when gently pressed. Which property is observed?",
+    "explanation": "A soft material gives way under gentle pressure.",
     "printable": true,
     "type": "single",
     "answers": [
-      "Hard",
+      "Shiny",
       "Soft",
-      "Sharp"
+      "See-through"
     ],
     "correct": 1,
-    "visual": "🍳",
-    "audioPrompt": "A teacher gives a child a safe cotton pad. It squashes easily when gently pressed. How does it feel?",
+    "audioPrompt": "A cotton pad squashes easily when gently pressed. Which property is observed?",
     "structuredExplanation": {
-      "summary": "A soft material gives way easily under gentle pressure."
+      "summary": "A soft material gives way under gentle pressure."
     }
   },
   {
     "id": "ac9sfu03-p-008",
     "curriculumCode": "AC9SFU03",
     "bank": "practice",
-    "skill": "compare property groups",
+    "skill": "flexible and stiff materials",
     "question": "A sheet bends easily without breaking. Which word describes it?",
-    "explanation": "Flexible means it bends easily.",
+    "explanation": "Flexible means it bends easily without breaking.",
     "printable": true,
     "type": "single",
     "answers": [
-      "Flexible",
       "Stiff",
-      "Rough"
+      "Rough",
+      "Flexible"
     ],
-    "correct": 0,
-    "visual": "▱ plastic | 🪵 📦",
+    "correct": 2,
     "audioPrompt": "A sheet bends easily without breaking. Which word describes it?",
     "structuredExplanation": {
-      "summary": "Flexible means it bends easily."
+      "summary": "Flexible means it bends easily without breaking."
     }
   },
   {
     "id": "ac9sfu03-p-009",
     "curriculumCode": "AC9SFU03",
     "bank": "practice",
-    "skill": "choose water property",
+    "skill": "observable material properties",
     "question": "A jacket has a fabric body and a metal zip. Which statement is correct?",
     "explanation": "Different parts of one object can be made from different materials.",
     "printable": true,
     "type": "single",
     "answers": [
-      "Every part is metal.",
-      "Every part is fabric.",
-      "It uses different materials."
+      "It uses different materials",
+      "Every part is metal",
+      "Every part is fabric"
     ],
-    "correct": 2,
-    "visual": "paper 💧 | plastic 💧",
+    "correct": 0,
     "audioPrompt": "A jacket has a fabric body and a metal zip. Which statement is correct?",
     "structuredExplanation": {
       "summary": "Different parts of one object can be made from different materials."
@@ -193,19 +184,18 @@ window.skillrPracticeQuestions = [
     "id": "ac9sfu03-p-010",
     "curriculumCode": "AC9SFU03",
     "bank": "practice",
-    "skill": "compare mechanical property",
-    "question": "A child compares felt and clear glass. Which one usually blocks a clear view through it?",
+    "skill": "transparent and opaque materials",
+    "question": "A child compares felt and clear glass. Which one usually blocks a clear view?",
     "explanation": "Felt does not let us see clearly through it.",
     "printable": true,
     "type": "single",
     "answers": [
       "Clear glass",
-      "Felt",
-      "Both are see-through"
+      "Neither sample",
+      "Felt"
     ],
-    "correct": 1,
-    "visual": "🪵 | foam",
-    "audioPrompt": "A child compares felt and clear glass. Which one usually blocks a clear view through it?",
+    "correct": 2,
+    "audioPrompt": "A child compares felt and clear glass. Which one usually blocks a clear view?",
     "structuredExplanation": {
       "summary": "Felt does not let us see clearly through it."
     }
@@ -214,50 +204,48 @@ window.skillrPracticeQuestions = [
     "id": "ac9sfu03-p-011",
     "curriculumCode": "AC9SFU03",
     "bank": "practice",
-    "skill": "compare surfaces",
-    "question": "Which observation describes a material's texture?",
-    "explanation": "Texture describes how a surface feels.",
+    "skill": "texture of materials",
+    "question": "Which observation describes texture?",
+    "explanation": "Texture describes how a surface feels, such as bumpy or smooth.",
     "printable": true,
     "type": "single",
     "answers": [
-      "It feels bumpy.",
-      "It is shaped like a star.",
-      "It belongs to Mia."
+      "It feels bumpy",
+      "It is star-shaped",
+      "It is blue"
     ],
     "correct": 0,
-    "visual": "foil | cloth",
-    "audioPrompt": "Which observation describes a material's texture?",
+    "audioPrompt": "Which observation describes texture?",
     "structuredExplanation": {
-      "summary": "Texture describes how a surface feels."
+      "summary": "Texture describes how a surface feels, such as bumpy or smooth."
     }
   },
   {
     "id": "ac9sfu03-p-012",
     "curriculumCode": "AC9SFU03",
     "bank": "practice",
-    "skill": "reject unsupported material claim",
-    "question": "A dry paper towel touches spilled water. The wet patch spreads through the towel. What does this show?",
-    "explanation": "Water moves into the paper towel. This property is called absorbency.",
+    "skill": "absorbency and water",
+    "question": "A dry paper towel touches spilled water and a wet patch spreads. What does this show?",
+    "explanation": "Water moving into the paper towel shows absorbency.",
     "printable": true,
     "type": "single",
     "answers": [
-      "It stays dry.",
-      "It is see-through.",
-      "It soaks up water."
+      "It stays dry",
+      "It soaks up water",
+      "It is see-through"
     ],
-    "correct": 2,
-    "visual": "sealed wood block labelled soft inside",
-    "audioPrompt": "A dry paper towel touches spilled water. The wet patch spreads through the towel. What does this show?",
+    "correct": 1,
+    "audioPrompt": "A dry paper towel touches spilled water and a wet patch spreads. What does this show?",
     "structuredExplanation": {
-      "summary": "Water moves into the paper towel. This property is called absorbency."
+      "summary": "Water moving into the paper towel shows absorbency."
     }
   },
   {
     "id": "ac9sfu03-p-013",
     "curriculumCode": "AC9SFU03",
     "bank": "practice",
-    "skill": "choose safe property test",
-    "question": "A child sorts objects by material. Which object belongs with a wooden block?",
+    "skill": "objects and materials",
+    "question": "Which object belongs with a wooden block because it is made from the same material?",
     "explanation": "The block and spoon are both made from wood.",
     "printable": true,
     "type": "single",
@@ -267,8 +255,7 @@ window.skillrPracticeQuestions = [
       "A rubber ball"
     ],
     "correct": 1,
-    "visual": "unknown clear sheet",
-    "audioPrompt": "A child sorts objects by material. Which object belongs with a wooden block?",
+    "audioPrompt": "Which object belongs with a wooden block because it is made from the same material?",
     "structuredExplanation": {
       "summary": "The block and spoon are both made from wood."
     }
@@ -277,37 +264,29 @@ window.skillrPracticeQuestions = [
     "id": "ac9sfu03-p-014",
     "curriculumCode": "AC9SFU03",
     "bank": "practice",
-    "skill": "sequence materials investigation",
-    "question": "A rubber band becomes longer when gently pulled. Which word describes this property?",
-    "explanation": "A stretchy material becomes longer when pulled.",
+    "skill": "observable material properties",
+    "question": "A rubber band becomes longer when gently pulled. Which property is shown?",
+    "explanation": "A stretchy material becomes longer when pulled gently.",
     "printable": true,
     "type": "single",
-    "items": [
-      "follow the teacher-approved touch test",
-      "record property words",
-      "group it with similar samples",
-      "explain the evidence",
-      "look at the sample"
+    "answers": [
+      "Stretchiness",
+      "Roughness",
+      "Hardness"
     ],
     "correct": 0,
-    "instruction": "Move the cards into the correct order.",
-    "answers": [
-      "Stretchy",
-      "Rough",
-      "Hard"
-    ],
-    "audioPrompt": "A rubber band becomes longer when gently pulled. Which word describes this property?",
+    "audioPrompt": "A rubber band becomes longer when gently pulled. Which property is shown?",
     "structuredExplanation": {
-      "summary": "A stretchy material becomes longer when pulled."
+      "summary": "A stretchy material becomes longer when pulled gently."
     }
   },
   {
     "id": "ac9sfu03-p-015",
     "curriculumCode": "AC9SFU03",
     "bank": "practice",
-    "skill": "distinguish material and object",
-    "question": "A child looks at shiny foil. Which sense helps them notice its shine?",
-    "explanation": "Shine is a feature we notice by looking.",
+    "skill": "observable material properties",
+    "question": "A child looks at shiny foil. Which sense helps notice its shine?",
+    "explanation": "Shine is observed by looking.",
     "printable": true,
     "type": "single",
     "answers": [
@@ -316,28 +295,26 @@ window.skillrPracticeQuestions = [
       "Sight"
     ],
     "correct": 2,
-    "visual": "📏",
-    "audioPrompt": "A child looks at shiny foil. Which sense helps them notice its shine?",
+    "audioPrompt": "A child looks at shiny foil. Which sense helps notice its shine?",
     "structuredExplanation": {
-      "summary": "Shine is a feature we notice by looking."
+      "summary": "Shine is observed by looking."
     }
   },
   {
     "id": "ac9sfu03-p-016",
     "curriculumCode": "AC9SFU03",
     "bank": "practice",
-    "skill": "describe material properties",
+    "skill": "observable material properties",
     "question": "Two cups have the same shape. One is metal and one is plastic. What is different?",
     "explanation": "Both are cups, but they are made from different materials.",
     "printable": true,
     "type": "single",
     "answers": [
+      "Their object name",
       "Their shape",
-      "Their material",
-      "Their object name"
+      "Their material"
     ],
-    "correct": 1,
-    "visual": "▱",
+    "correct": 2,
     "audioPrompt": "Two cups have the same shape. One is metal and one is plastic. What is different?",
     "structuredExplanation": {
       "summary": "Both are cups, but they are made from different materials."
@@ -347,60 +324,57 @@ window.skillrPracticeQuestions = [
     "id": "ac9sfu03-p-017",
     "curriculumCode": "AC9SFU03",
     "bank": "practice",
-    "skill": "recognise composite object",
+    "skill": "flexible and stiff materials",
     "question": "A thick piece of cardboard is difficult to bend gently. Which word describes it?",
-    "explanation": "A stiff material resists bending.",
+    "explanation": "A stiff material does not bend easily.",
     "printable": true,
     "type": "single",
     "answers": [
-      "Stiff",
       "Stretchy",
+      "Stiff",
       "Fluffy"
     ],
-    "correct": 0,
-    "visual": "👟",
+    "correct": 1,
     "audioPrompt": "A thick piece of cardboard is difficult to bend gently. Which word describes it?",
     "structuredExplanation": {
-      "summary": "A stiff material resists bending."
+      "summary": "A stiff material does not bend easily."
     }
   },
   {
     "id": "ac9sfu03-p-018",
     "curriculumCode": "AC9SFU03",
     "bank": "practice",
-    "skill": "sort by property",
-    "question": "A child describes a fabric as \"soft and blue\". Which words name its observed properties?",
-    "explanation": "Soft describes how it feels. Blue describes its colour.",
+    "skill": "observable material properties",
+    "question": "A fabric is described as soft and blue. Which words name observed properties?",
+    "explanation": "Soft describes feel and blue describes colour. Fabric names the material.",
     "printable": true,
     "type": "single",
     "answers": [
-      "Fabric only",
-      "Blue only",
-      "Soft and blue"
+      "Soft and blue",
+      "Fabric and blue",
+      "Fabric and soft"
     ],
-    "correct": 2,
-    "visual": "plastic cloth | glass wood",
-    "audioPrompt": "A child describes a fabric as \"soft and blue\". Which words name its observed properties?",
+    "correct": 0,
+    "audioPrompt": "A fabric is described as soft and blue. Which words name observed properties?",
     "structuredExplanation": {
-      "summary": "Soft describes how it feels. Blue describes its colour."
+      "summary": "Soft describes feel and blue describes colour. Fabric names the material."
     }
   },
   {
     "id": "ac9sfu03-p-019",
     "curriculumCode": "AC9SFU03",
     "bank": "practice",
-    "skill": "magnify material detail",
+    "skill": "objects and materials",
     "question": "A pencil has a wooden body and a graphite centre. Is the whole pencil made from wood?",
     "explanation": "The pencil contains both wood and graphite.",
     "printable": true,
     "type": "single",
     "answers": [
       "Yes, every part",
-      "No, it includes graphite",
-      "No, it is all graphite"
+      "No, it is all graphite",
+      "No, it includes graphite"
     ],
-    "correct": 1,
-    "visual": "🧵 🔍",
+    "correct": 2,
     "audioPrompt": "A pencil has a wooden body and a graphite centre. Is the whole pencil made from wood?",
     "structuredExplanation": {
       "summary": "The pencil contains both wood and graphite."
@@ -410,106 +384,100 @@ window.skillrPracticeQuestions = [
     "id": "ac9sfu03-p-020",
     "curriculumCode": "AC9SFU03",
     "bank": "practice",
-    "skill": "choose material for purpose",
-    "question": "Water drops sit on a plastic lid during a short test. Which observation matches?",
-    "explanation": "The water remained on the surface during the test.",
+    "skill": "absorbency and water",
+    "question": "Water drops sit on top of a plastic lid during a short test. Which observation matches?",
+    "explanation": "The water stayed on the surface instead of soaking in.",
     "printable": true,
     "type": "single",
     "answers": [
-      "The drops stayed on top.",
-      "The lid soaked them up.",
-      "The lid became fabric."
+      "The drops stayed on top",
+      "The lid soaked them up",
+      "The drops passed through the lid"
     ],
     "correct": 0,
-    "visual": "🏠 ▱",
-    "audioPrompt": "Water drops sit on a plastic lid during a short test. Which observation matches?",
+    "audioPrompt": "Water drops sit on top of a plastic lid during a short test. Which observation matches?",
     "structuredExplanation": {
-      "summary": "The water remained on the surface during the test."
+      "summary": "The water stayed on the surface instead of soaking in."
     }
   },
   {
     "id": "ac9sfu03-p-021",
     "curriculumCode": "AC9SFU03",
     "bank": "practice",
-    "skill": "explain different materials in object",
-    "question": "A child compares two safe tiles by touch. One feels smooth and one feels rough. Which property differs?",
-    "explanation": "Smooth and rough describe surface texture.",
+    "skill": "texture of materials",
+    "question": "One tile feels smooth and one feels rough. Which property differs?",
+    "explanation": "Smooth and rough describe texture.",
     "printable": true,
     "type": "single",
     "answers": [
       "Colour",
-      "Shape",
-      "Texture"
+      "Texture",
+      "Shape"
     ],
-    "correct": 2,
-    "visual": "👟",
-    "audioPrompt": "A child compares two safe tiles by touch. One feels smooth and one feels rough. Which property differs?",
+    "correct": 1,
+    "audioPrompt": "One tile feels smooth and one feels rough. Which property differs?",
     "structuredExplanation": {
-      "summary": "Smooth and rough describe surface texture."
+      "summary": "Smooth and rough describe texture."
     }
   },
   {
     "id": "ac9sfu03-p-022",
     "curriculumCode": "AC9SFU03",
     "bank": "practice",
-    "skill": "compare property groups",
+    "skill": "objects and materials",
     "question": "A toy car has a metal body and rubber tyres. Which part is made from rubber?",
-    "explanation": "The description identifies the tyres as the rubber parts.",
+    "explanation": "The tyres are named as the rubber parts.",
     "printable": true,
     "type": "single",
     "answers": [
-      "The metal body",
       "The tyres",
+      "The metal body",
       "Both named parts"
     ],
-    "correct": 1,
-    "visual": "⭕ 🧣 | 🥄 ▱",
+    "correct": 0,
     "audioPrompt": "A toy car has a metal body and rubber tyres. Which part is made from rubber?",
     "structuredExplanation": {
-      "summary": "The description identifies the tyres as the rubber parts."
+      "summary": "The tyres are named as the rubber parts."
     }
   },
   {
     "id": "ac9sfu03-p-023",
     "curriculumCode": "AC9SFU03",
     "bank": "practice",
-    "skill": "choose water property",
-    "question": "A child groups materials that soak up water. Which tested sample belongs?",
-    "explanation": "The sponge showed the property used for this group: soaking up water.",
+    "skill": "absorbency and water",
+    "question": "Which sample belongs in a group that soaks up water?",
+    "explanation": "The sponge showed absorbency by taking in water.",
     "printable": true,
     "type": "single",
     "answers": [
-      "A sponge that soaked up water",
       "A lid with water sitting on top",
-      "Foil with water sitting on top"
+      "Foil with water sitting on top",
+      "A sponge that soaked up water"
     ],
-    "correct": 0,
-    "visual": "🧽 💧 | ▱ 💧",
-    "audioPrompt": "A child groups materials that soak up water. Which tested sample belongs?",
+    "correct": 2,
+    "audioPrompt": "Which sample belongs in a group that soaks up water?",
     "structuredExplanation": {
-      "summary": "The sponge showed the property used for this group: soaking up water."
+      "summary": "The sponge showed absorbency by taking in water."
     }
   },
   {
     "id": "ac9sfu03-p-024",
     "curriculumCode": "AC9SFU03",
     "bank": "practice",
-    "skill": "compare mechanical property",
-    "question": "Two plastic sheets have different colours. Could both still be made from plastic?",
-    "explanation": "A material can come in different colours. Colour alone does not tell us what it is made from.",
+    "skill": "observable material properties",
+    "question": "Two plastic buttons have different colours. Could both still be plastic?",
+    "explanation": "A material can come in different colours.",
     "printable": true,
     "type": "single",
     "answers": [
-      "No, colour names the material.",
-      "No, all plastic is one colour.",
-      "Yes, plastic can have different colours."
+      "No, colour names the material",
+      "Yes, plastic can have different colours",
+      "No, all plastic is one colour"
     ],
-    "correct": 2,
-    "visual": "🥄 | 🧽",
-    "audioPrompt": "Two plastic sheets have different colours. Could both still be made from plastic?",
+    "correct": 1,
+    "audioPrompt": "Two plastic buttons have different colours. Could both still be plastic?",
     "structuredExplanation": {
-      "summary": "A material can come in different colours. Colour alone does not tell us what it is made from."
+      "summary": "A material can come in different colours."
     }
   }
 ];
-window.quizQuestions = window.skillrPracticeQuestions;
