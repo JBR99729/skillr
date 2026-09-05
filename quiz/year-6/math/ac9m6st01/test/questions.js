@@ -413,8 +413,8 @@ window.skillrTestQuestions = [
     "skill": "comparing categorical and numerical data sets",
     "printable": true,
     "type": "single",
-    "question": "While preparing a camping trip, a student uses the term “distribution shape”. Which description shows it correctly?",
-    "audioPrompt": "While preparing a camping trip, a student uses the term “distribution shape”. Which description shows it correctly?",
+    "question": "While preparing a camping trip. The quantities or representation come from a fresh example. another student selected “Class A is better”. Reconsider the evidence: Which comparison is strongest?",
+    "audioPrompt": "While preparing a camping trip. The quantities or representation come from a fresh example. another student selected “Class A is better”. Reconsider the evidence: Which comparison is strongest?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -423,15 +423,15 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "categories without inherent order",
-      "pattern of concentration, gaps, symmetry or skew",
-      "categories with meaningful order"
+      "Class A is better",
+      "Class A has a larger range and a high extreme, while modes are similar",
+      "The taller graph proves causation"
     ],
     "correct": 1,
-    "explanation": "distribution shape means pattern of concentration, gaps, symmetry or skew.\nHint: Match every feature of the description to the mathematical term.",
+    "explanation": "Class A has a larger range and a high extreme, while modes are similar follows from the quantities and relationship in the question.\nHint: Estimate or substitute to reject the tempting misconception.",
     "structuredExplanation": {
-      "summary": "distribution shape means pattern of concentration, gaps, symmetry or skew.",
-      "hint": "Match every feature of the description to the mathematical term."
+      "summary": "Class A has a larger range and a high extreme, while modes are similar follows from the quantities and relationship in the question.",
+      "hint": "Estimate or substitute to reject the tempting misconception."
     },
     "qualitySchema": "production-v1"
   },
@@ -442,8 +442,8 @@ window.skillrTestQuestions = [
     "skill": "comparing categorical and numerical data sets",
     "printable": true,
     "type": "single",
-    "question": "In a strategy tournament, a student uses the term “ordinal data”. Which description shows it correctly?",
-    "audioPrompt": "In a strategy tournament, a student uses the term “ordinal data”. Which description shows it correctly?",
+    "question": "In a strategy tournament. The quantities or representation come from a fresh example. another student selected “favourite colour”. Reconsider the evidence: Which variable is ordinal categorical?",
+    "audioPrompt": "In a strategy tournament. The quantities or representation come from a fresh example. another student selected “favourite colour”. Reconsider the evidence: Which variable is ordinal categorical?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -452,15 +452,15 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "categories without inherent order",
-      "pattern of concentration, gaps, symmetry or skew",
-      "categories with meaningful order"
+      "favourite colour",
+      "height in cm",
+      "satisfaction: low, medium, high"
     ],
     "correct": 2,
-    "explanation": "ordinal data means categories with meaningful order.\nHint: Match every feature of the description to the mathematical term.",
+    "explanation": "satisfaction: low, medium, high follows from the quantities and relationship in the question.\nHint: Estimate or substitute to reject the tempting misconception.",
     "structuredExplanation": {
-      "summary": "ordinal data means categories with meaningful order.",
-      "hint": "Match every feature of the description to the mathematical term."
+      "summary": "satisfaction: low, medium, high follows from the quantities and relationship in the question.",
+      "hint": "Estimate or substitute to reject the tempting misconception."
     },
     "qualitySchema": "production-v1"
   }

@@ -1,25 +1,31 @@
 "use strict";
-window.skillrTestQuestions=[
+window.skillrTestQuestions = [
   {
     "id": "ac9m6n01-t-001",
     "curriculumCode": "AC9M6N01",
     "bank": "test",
-    "skill": "integer reasoning",
+    "skill": "integers on number lines and the cartesian plane",
     "printable": true,
     "type": "single",
-    "question": "Which list is correctly ordered from greatest to least?",
-    "audioPrompt": "Which list is correctly ordered from greatest to least?",
+    "question": "At a coastal research station, another student selected “(3,4)”. Reconsider the evidence: Which point lies in Quadrant II?",
+    "audioPrompt": "At a coastal research station, another student selected “(3,4)”. Reconsider the evidence: Which point lies in Quadrant II?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
     "answers": [
-      "5, 0, −3, −9",
-      "−1, −4, −7, −2",
-      "−2, −1, 0, 3",
-      "3, −1, −5, 2"
+      "(3,4)",
+      "(−3,4)",
+      "(−3,−4)"
     ],
-    "correct": 0,
-    "explanation": "From greatest to least: positive values, then zero, then increasingly negative values.",
+    "correct": 1,
+    "explanation": "(−3,4) follows from the quantities and relationship in the question.\nHint: Estimate or substitute to reject the tempting misconception.",
     "structuredExplanation": {
-      "summary": "5 > 0 > −3 > −9.",
-      "hint": "Use a number line and move from right to left."
+      "summary": "(−3,4) follows from the quantities and relationship in the question.",
+      "hint": "Estimate or substitute to reject the tempting misconception."
     },
     "qualitySchema": "production-v1"
   },
@@ -27,22 +33,28 @@ window.skillrTestQuestions=[
     "id": "ac9m6n01-t-002",
     "curriculumCode": "AC9M6N01",
     "bank": "test",
-    "skill": "between integers",
+    "skill": "integers on number lines and the cartesian plane",
     "printable": true,
     "type": "single",
-    "question": "Which integer is greater than −8 but less than −2?",
-    "audioPrompt": "Which integer is greater than −8 but less than −2?",
+    "question": "During a museum challenge, another student selected “−7”. Reconsider the evidence: Which integer is greatest?",
+    "audioPrompt": "During a museum challenge, another student selected “−7”. Reconsider the evidence: Which integer is greatest?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
     "answers": [
+      "−7",
       "−9",
-      "−5",
-      "−1",
-      "−12"
+      "−2"
     ],
-    "correct": 1,
-    "explanation": "−5 lies between −8 and −2 on the number line.",
+    "correct": 2,
+    "explanation": "−2 follows from the quantities and relationship in the question.\nHint: Estimate or substitute to reject the tempting misconception.",
     "structuredExplanation": {
-      "summary": "−8 < −5 < −2.",
-      "hint": "Locate each option relative to the two boundary values."
+      "summary": "−2 follows from the quantities and relationship in the question.",
+      "hint": "Estimate or substitute to reject the tempting misconception."
     },
     "qualitySchema": "production-v1"
   },
@@ -50,22 +62,28 @@ window.skillrTestQuestions=[
     "id": "ac9m6n01-t-003",
     "curriculumCode": "AC9M6N01",
     "bank": "test",
-    "skill": "financial modelling",
+    "skill": "integers on number lines and the cartesian plane",
     "printable": true,
     "type": "single",
-    "question": "A stall earns $240, spends $315, then earns $50. What is the final net result?",
-    "audioPrompt": "A stall earns $240, spends $315, then earns $50. What is the final net result?",
+    "question": "While planning a charity event, a review recommends, “Distance from zero is non-negative; position keeps its sign.” Which claim most clearly needs that correction?",
+    "audioPrompt": "While planning a charity event, a review recommends, “Distance from zero is non-negative; position keeps its sign.” Which claim most clearly needs that correction?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
     "answers": [
-      "−$75",
-      "+$25",
-      "−$25",
-      "+$75"
+      "Absolute distance confused with signed position",
+      "−8 is greater than −3 because 8 is greater than 3",
+      "Negative means a physically impossible quantity"
     ],
-    "correct": 2,
-    "explanation": "240 − 315 + 50 = −25, so the event finishes with a $25 loss.",
+    "correct": 0,
+    "explanation": "Distance from zero is non-negative; position keeps its sign.\nHint: Identify the exact misconception, then choose the correction that preserves the mathematics.",
     "structuredExplanation": {
-      "summary": "The final net result is −$25.",
-      "hint": "Treat income as positive and expenses as negative."
+      "summary": "Distance from zero is non-negative; position keeps its sign.",
+      "hint": "Identify the exact misconception, then choose the correction that preserves the mathematics."
     },
     "qualitySchema": "production-v1"
   },
@@ -73,22 +91,28 @@ window.skillrTestQuestions=[
     "id": "ac9m6n01-t-004",
     "curriculumCode": "AC9M6N01",
     "bank": "test",
-    "skill": "financial modelling",
+    "skill": "integers on number lines and the cartesian plane",
     "printable": true,
     "type": "single",
-    "question": "A club starts at $0, loses $45, earns $120, then loses $30. What is its final balance relative to the start?",
-    "audioPrompt": "A club starts at zero, loses forty-five dollars, earns one hundred and twenty dollars, then loses thirty dollars. What is its final balance?",
+    "question": "In an engineering workshop, a review recommends, “Read x first, then y.” Which claim most clearly needs that correction?",
+    "audioPrompt": "In an engineering workshop, a review recommends, “Read x first, then y.” Which claim most clearly needs that correction?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
     "answers": [
-      "−$45",
-      "+$75",
-      "−$75",
-      "+$45"
+      "−8 is greater than −3 because 8 is greater than 3",
+      "Coordinates are read y then x",
+      "Negative means a physically impossible quantity"
     ],
-    "correct": 3,
-    "explanation": "−45 + 120 − 30 = +45.",
+    "correct": 1,
+    "explanation": "Read x first, then y.\nHint: Identify the exact misconception, then choose the correction that preserves the mathematics.",
     "structuredExplanation": {
-      "summary": "The final balance is +$45.",
-      "hint": "Track each gain or loss from zero."
+      "summary": "Read x first, then y.",
+      "hint": "Identify the exact misconception, then choose the correction that preserves the mathematics."
     },
     "qualitySchema": "production-v1"
   },
@@ -96,22 +120,28 @@ window.skillrTestQuestions=[
     "id": "ac9m6n01-t-005",
     "curriculumCode": "AC9M6N01",
     "bank": "test",
-    "skill": "financial modelling",
+    "skill": "integers on number lines and the cartesian plane",
     "printable": true,
     "type": "single",
-    "question": "A fundraiser has a +$180 result on one day and a −$220 result on the next. What is the combined result?",
-    "audioPrompt": "A fundraiser has a positive one hundred and eighty dollar result on one day and a negative two hundred and twenty dollar result on the next. What is the combined result?",
+    "question": "At a regional sports carnival, a review recommends, “Integers model debt, below-zero temperature, depth and change.” Which claim most clearly needs that correction?",
+    "audioPrompt": "At a regional sports carnival, a review recommends, “Integers model debt, below-zero temperature, depth and change.” Which claim most clearly needs that correction?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
     "answers": [
-      "−$40",
-      "+$40",
-      "−$400",
-      "+$400"
+      "−8 is greater than −3 because 8 is greater than 3",
+      "Coordinates are read y then x",
+      "Negative means a physically impossible quantity"
     ],
-    "correct": 0,
-    "explanation": "The $220 loss is $40 larger than the $180 profit, giving −$40 overall.",
+    "correct": 2,
+    "explanation": "Integers model debt, below-zero temperature, depth and change.\nHint: Identify the exact misconception, then choose the correction that preserves the mathematics.",
     "structuredExplanation": {
-      "summary": "The combined result is −$40.",
-      "hint": "Compare the sizes of the profit and loss."
+      "summary": "Integers model debt, below-zero temperature, depth and change.",
+      "hint": "Identify the exact misconception, then choose the correction that preserves the mathematics."
     },
     "qualitySchema": "production-v1"
   },
@@ -119,22 +149,28 @@ window.skillrTestQuestions=[
     "id": "ac9m6n01-t-006",
     "curriculumCode": "AC9M6N01",
     "bank": "test",
-    "skill": "coordinate signs",
+    "skill": "integers on number lines and the cartesian plane",
     "printable": true,
     "type": "single",
-    "question": "Which coordinate has both x and y negative?",
-    "audioPrompt": "Which coordinate has both x and y negative?",
+    "question": "During a farm survey, a review recommends, “On the number line, −8 lies farther left and is smaller.” Which claim most clearly needs that correction?",
+    "audioPrompt": "During a farm survey, a review recommends, “On the number line, −8 lies farther left and is smaller.” Which claim most clearly needs that correction?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
     "answers": [
-      "(−3, 2)",
-      "(−4, −1)",
-      "(3, −2)",
-      "(4, 1)"
+      "−8 is greater than −3 because 8 is greater than 3",
+      "Negative means a physically impossible quantity",
+      "Coordinates are read y then x"
     ],
-    "correct": 1,
-    "explanation": "Both coordinates are negative only in (−4, −1), which lies in Quadrant III.",
+    "correct": 0,
+    "explanation": "On the number line, −8 lies farther left and is smaller.\nHint: Identify the exact misconception, then choose the correction that preserves the mathematics.",
     "structuredExplanation": {
-      "summary": "(−4, −1) has negative x and negative y.",
-      "hint": "Read x first, then y."
+      "summary": "On the number line, −8 lies farther left and is smaller.",
+      "hint": "Identify the exact misconception, then choose the correction that preserves the mathematics."
     },
     "qualitySchema": "production-v1"
   },
@@ -142,22 +178,28 @@ window.skillrTestQuestions=[
     "id": "ac9m6n01-t-007",
     "curriculumCode": "AC9M6N01",
     "bank": "test",
-    "skill": "coordinate movement",
+    "skill": "integers on number lines and the cartesian plane",
     "printable": true,
     "type": "single",
-    "question": "Which point is 5 units right and 7 units down from the origin?",
-    "audioPrompt": "Which point is five units right and seven units down from the origin?",
+    "question": "While interpreting a trail guide. The quantities or representation come from a fresh example. another student selected “(3,4)”. Reconsider the evidence: Which point lies in Quadrant II?",
+    "audioPrompt": "While interpreting a trail guide. The quantities or representation come from a fresh example. another student selected “(3,4)”. Reconsider the evidence: Which point lies in Quadrant II?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
     "answers": [
-      "(−5, −7)",
-      "(7, −5)",
-      "(5, −7)",
-      "(−7, 5)"
+      "(3,4)",
+      "(−3,4)",
+      "(−3,−4)"
     ],
-    "correct": 2,
-    "explanation": "Right gives positive x and down gives negative y, so the coordinate is (5, −7).",
+    "correct": 1,
+    "explanation": "(−3,4) follows from the quantities and relationship in the question.\nHint: Estimate or substitute to reject the tempting misconception.",
     "structuredExplanation": {
-      "summary": "The point is (5, −7).",
-      "hint": "Horizontal movement sets x; vertical movement sets y."
+      "summary": "(−3,4) follows from the quantities and relationship in the question.",
+      "hint": "Estimate or substitute to reject the tempting misconception."
     },
     "qualitySchema": "production-v1"
   },
@@ -165,22 +207,28 @@ window.skillrTestQuestions=[
     "id": "ac9m6n01-t-008",
     "curriculumCode": "AC9M6N01",
     "bank": "test",
-    "skill": "coordinate quadrants",
+    "skill": "integers on number lines and the cartesian plane",
     "printable": true,
     "type": "single",
-    "question": "A point has a negative x-coordinate and a positive y-coordinate. Which quadrant is it in?",
-    "audioPrompt": "A point has a negative x-coordinate and a positive y-coordinate. Which quadrant is it in?",
+    "question": "In an architecture studio. The quantities or representation come from a fresh example. another student selected “−7”. Reconsider the evidence: Which integer is greatest?",
+    "audioPrompt": "In an architecture studio. The quantities or representation come from a fresh example. another student selected “−7”. Reconsider the evidence: Which integer is greatest?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
     "answers": [
-      "Quadrant I",
-      "Quadrant III",
-      "Quadrant IV",
-      "Quadrant II"
+      "−7",
+      "−9",
+      "−2"
     ],
-    "correct": 3,
-    "explanation": "Quadrant II contains points with negative x and positive y.",
+    "correct": 2,
+    "explanation": "−2 follows from the quantities and relationship in the question.\nHint: Estimate or substitute to reject the tempting misconception.",
     "structuredExplanation": {
-      "summary": "The point is in Quadrant II.",
-      "hint": "Check the sign pattern of each quadrant."
+      "summary": "−2 follows from the quantities and relationship in the question.",
+      "hint": "Estimate or substitute to reject the tempting misconception."
     },
     "qualitySchema": "production-v1"
   },
@@ -188,22 +236,28 @@ window.skillrTestQuestions=[
     "id": "ac9m6n01-t-009",
     "curriculumCode": "AC9M6N01",
     "bank": "test",
-    "skill": "robot movement",
+    "skill": "integers on number lines and the cartesian plane",
     "printable": true,
     "type": "single",
-    "question": "A robot starts at 0, moves 12 units left, then 5 units right. Where does it finish?",
-    "audioPrompt": "A robot starts at zero, moves twelve units left, then five units right. Where does it finish?",
+    "question": "During a food-truck project. The quantities or representation come from a fresh example. a review recommends, “Distance from zero is non-negative; position keeps its sign.” Which claim most clearly needs that correction?",
+    "audioPrompt": "During a food-truck project. The quantities or representation come from a fresh example. a review recommends, “Distance from zero is non-negative; position keeps its sign.” Which claim most clearly needs that correction?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
     "answers": [
-      "−7",
-      "−17",
-      "+7",
-      "+17"
+      "Absolute distance confused with signed position",
+      "−8 is greater than −3 because 8 is greater than 3",
+      "Negative means a physically impossible quantity"
     ],
     "correct": 0,
-    "explanation": "The robot moves to −12, then 5 units right to −7.",
+    "explanation": "Distance from zero is non-negative; position keeps its sign.\nHint: Identify the exact misconception, then choose the correction that preserves the mathematics.",
     "structuredExplanation": {
-      "summary": "The robot finishes at −7.",
-      "hint": "Model the movement on one horizontal number line."
+      "summary": "Distance from zero is non-negative; position keeps its sign.",
+      "hint": "Identify the exact misconception, then choose the correction that preserves the mathematics."
     },
     "qualitySchema": "production-v1"
   },
@@ -211,22 +265,28 @@ window.skillrTestQuestions=[
     "id": "ac9m6n01-t-010",
     "curriculumCode": "AC9M6N01",
     "bank": "test",
-    "skill": "robot movement",
+    "skill": "integers on number lines and the cartesian plane",
     "printable": true,
     "type": "single",
-    "question": "A robot starts at 0, moves 20 units right, 35 units left, then 10 units right. Where does it finish?",
-    "audioPrompt": "A robot starts at zero, moves twenty units right, thirty-five units left, then ten units right. Where does it finish?",
+    "question": "At a music festival. The quantities or representation come from a fresh example. a review recommends, “Read x first, then y.” Which claim most clearly needs that correction?",
+    "audioPrompt": "At a music festival. The quantities or representation come from a fresh example. a review recommends, “Read x first, then y.” Which claim most clearly needs that correction?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
     "answers": [
-      "−15",
-      "−5",
-      "−25",
-      "+5"
+      "−8 is greater than −3 because 8 is greater than 3",
+      "Coordinates are read y then x",
+      "Negative means a physically impossible quantity"
     ],
     "correct": 1,
-    "explanation": "0 → +20 → −15 → −5.",
+    "explanation": "Read x first, then y.\nHint: Identify the exact misconception, then choose the correction that preserves the mathematics.",
     "structuredExplanation": {
-      "summary": "The robot finishes at −5.",
-      "hint": "Track the position after each move."
+      "summary": "Read x first, then y.",
+      "hint": "Identify the exact misconception, then choose the correction that preserves the mathematics."
     },
     "qualitySchema": "production-v1"
   },
@@ -234,22 +294,28 @@ window.skillrTestQuestions=[
     "id": "ac9m6n01-t-011",
     "curriculumCode": "AC9M6N01",
     "bank": "test",
-    "skill": "number-line distance",
+    "skill": "integers on number lines and the cartesian plane",
     "printable": true,
     "type": "single",
-    "question": "A drone moves from −12 to +4 on a horizontal number line. How far does it travel?",
-    "audioPrompt": "A drone moves from negative twelve to positive four on a horizontal number line. How far does it travel?",
+    "question": "While organising a book drive. The quantities or representation come from a fresh example. a review recommends, “Integers model debt, below-zero temperature, depth and change.” Which claim most clearly needs that correction?",
+    "audioPrompt": "While organising a book drive. The quantities or representation come from a fresh example. a review recommends, “Integers model debt, below-zero temperature, depth and change.” Which claim most clearly needs that correction?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
     "answers": [
-      "8 units",
-      "12 units",
-      "16 units",
-      "4 units"
+      "−8 is greater than −3 because 8 is greater than 3",
+      "Coordinates are read y then x",
+      "Negative means a physically impossible quantity"
     ],
     "correct": 2,
-    "explanation": "From −12 to 0 is 12 units, then 0 to +4 is 4 units: 16 units total.",
+    "explanation": "Integers model debt, below-zero temperature, depth and change.\nHint: Identify the exact misconception, then choose the correction that preserves the mathematics.",
     "structuredExplanation": {
-      "summary": "The distance is 16 units.",
-      "hint": "Split the trip at zero."
+      "summary": "Integers model debt, below-zero temperature, depth and change.",
+      "hint": "Identify the exact misconception, then choose the correction that preserves the mathematics."
     },
     "qualitySchema": "production-v1"
   },
@@ -257,22 +323,28 @@ window.skillrTestQuestions=[
     "id": "ac9m6n01-t-012",
     "curriculumCode": "AC9M6N01",
     "bank": "test",
-    "skill": "temperature difference",
+    "skill": "integers on number lines and the cartesian plane",
     "printable": true,
     "type": "single",
-    "question": "One planet is at −180°C and another is at +120°C. What is the temperature difference?",
-    "audioPrompt": "One planet is at negative one hundred and eighty degrees Celsius and another is at positive one hundred and twenty degrees Celsius. What is the temperature difference?",
+    "question": "In an environmental study. The quantities or representation come from a fresh example. a review recommends, “On the number line, −8 lies farther left and is smaller.” Which claim most clearly needs that correction?",
+    "audioPrompt": "In an environmental study. The quantities or representation come from a fresh example. a review recommends, “On the number line, −8 lies farther left and is smaller.” Which claim most clearly needs that correction?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
     "answers": [
-      "60°C",
-      "120°C",
-      "180°C",
-      "300°C"
+      "−8 is greater than −3 because 8 is greater than 3",
+      "Negative means a physically impossible quantity",
+      "Coordinates are read y then x"
     ],
-    "correct": 3,
-    "explanation": "From −180°C to 0°C is 180 degrees, then to +120°C is 120 more: 300°C.",
+    "correct": 0,
+    "explanation": "On the number line, −8 lies farther left and is smaller.\nHint: Identify the exact misconception, then choose the correction that preserves the mathematics.",
     "structuredExplanation": {
-      "summary": "The temperature difference is 300°C.",
-      "hint": "Use zero as a reference between the two values."
+      "summary": "On the number line, −8 lies farther left and is smaller.",
+      "hint": "Identify the exact misconception, then choose the correction that preserves the mathematics."
     },
     "qualitySchema": "production-v1"
   },
@@ -280,22 +352,28 @@ window.skillrTestQuestions=[
     "id": "ac9m6n01-t-013",
     "curriculumCode": "AC9M6N01",
     "bank": "test",
-    "skill": "temperature comparison",
+    "skill": "integers on number lines and the cartesian plane",
     "printable": true,
     "type": "single",
-    "question": "A freezer is −18°C and a fridge is +4°C. Which statement is true?",
-    "audioPrompt": "A freezer is negative eighteen degrees Celsius and a fridge is positive four degrees Celsius. Which statement is true?",
+    "question": "During a playground redesign. The quantities or representation come from a fresh example. another student selected “(3,4)”. Reconsider the evidence: Which point lies in Quadrant II?",
+    "audioPrompt": "During a playground redesign. The quantities or representation come from a fresh example. another student selected “(3,4)”. Reconsider the evidence: Which point lies in Quadrant II?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
     "answers": [
-      "The fridge is warmer",
-      "The freezer is warmer",
-      "They are equal",
-      "Both are below zero"
+      "(3,4)",
+      "(−3,4)",
+      "(−3,−4)"
     ],
-    "correct": 0,
-    "explanation": "+4°C is greater than −18°C, so the fridge is warmer.",
+    "correct": 1,
+    "explanation": "(−3,4) follows from the quantities and relationship in the question.\nHint: Estimate or substitute to reject the tempting misconception.",
     "structuredExplanation": {
-      "summary": "The fridge is warmer.",
-      "hint": "Warmer temperatures are farther right/up on the number line."
+      "summary": "(−3,4) follows from the quantities and relationship in the question.",
+      "hint": "Estimate or substitute to reject the tempting misconception."
     },
     "qualitySchema": "production-v1"
   },
@@ -303,22 +381,28 @@ window.skillrTestQuestions=[
     "id": "ac9m6n01-t-014",
     "curriculumCode": "AC9M6N01",
     "bank": "test",
-    "skill": "context interpretation",
+    "skill": "integers on number lines and the cartesian plane",
     "printable": true,
     "type": "single",
-    "question": "A bank balance is −$35. Which interpretation is best?",
-    "audioPrompt": "A bank balance is negative thirty-five dollars. Which interpretation is best?",
+    "question": "At a transport depot. The quantities or representation come from a fresh example. another student selected “−7”. Reconsider the evidence: Which integer is greatest?",
+    "audioPrompt": "At a transport depot. The quantities or representation come from a fresh example. another student selected “−7”. Reconsider the evidence: Which integer is greatest?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
     "answers": [
-      "The account is $35 above zero",
-      "The account is $35 below the zero-balance reference",
-      "The account has exactly $35 profit",
-      "The sign has no meaning"
+      "−7",
+      "−9",
+      "−2"
     ],
-    "correct": 1,
-    "explanation": "A negative balance is $35 below the zero-balance reference.",
+    "correct": 2,
+    "explanation": "−2 follows from the quantities and relationship in the question.\nHint: Estimate or substitute to reject the tempting misconception.",
     "structuredExplanation": {
-      "summary": "The balance is $35 below zero.",
-      "hint": "Interpret the sign relative to the zero reference."
+      "summary": "−2 follows from the quantities and relationship in the question.",
+      "hint": "Estimate or substitute to reject the tempting misconception."
     },
     "qualitySchema": "production-v1"
   },
@@ -326,22 +410,28 @@ window.skillrTestQuestions=[
     "id": "ac9m6n01-t-015",
     "curriculumCode": "AC9M6N01",
     "bank": "test",
-    "skill": "multi-context",
+    "skill": "integers on number lines and the cartesian plane",
     "printable": true,
     "type": "single",
-    "question": "Which pair represents positions on opposite sides of zero but the same distance from zero?",
-    "audioPrompt": "Which pair represents positions on opposite sides of zero but the same distance from zero?",
+    "question": "While preparing a camping trip. The quantities or representation come from a fresh example. a review recommends, “Distance from zero is non-negative; position keeps its sign.” Which claim most clearly needs that correction?",
+    "audioPrompt": "While preparing a camping trip. The quantities or representation come from a fresh example. a review recommends, “Distance from zero is non-negative; position keeps its sign.” Which claim most clearly needs that correction?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
     "answers": [
-      "−8 m and +5 m",
-      "+8 m and +5 m",
-      "−8 m and +8 m",
-      "−5 m and −5 m"
+      "Absolute distance confused with signed position",
+      "−8 is greater than −3 because 8 is greater than 3",
+      "Negative means a physically impossible quantity"
     ],
-    "correct": 2,
-    "explanation": "−8 and +8 are both 8 units from zero in opposite directions.",
+    "correct": 0,
+    "explanation": "Distance from zero is non-negative; position keeps its sign.\nHint: Identify the exact misconception, then choose the correction that preserves the mathematics.",
     "structuredExplanation": {
-      "summary": "−8 m and +8 m are opposite positions.",
-      "hint": "Look for equal distance with opposite signs."
+      "summary": "Distance from zero is non-negative; position keeps its sign.",
+      "hint": "Identify the exact misconception, then choose the correction that preserves the mathematics."
     },
     "qualitySchema": "production-v1"
   },
@@ -349,25 +439,31 @@ window.skillrTestQuestions=[
     "id": "ac9m6n01-t-016",
     "curriculumCode": "AC9M6N01",
     "bank": "test",
-    "skill": "coordinate interpretation",
+    "skill": "integers on number lines and the cartesian plane",
     "printable": true,
     "type": "single",
-    "question": "A point is at (0, −6). Which statement is correct?",
-    "audioPrompt": "A point is at zero, negative six. Which statement is correct?",
+    "question": "In a strategy tournament. The quantities or representation come from a fresh example. a review recommends, “Read x first, then y.” Which claim most clearly needs that correction?",
+    "audioPrompt": "In a strategy tournament. The quantities or representation come from a fresh example. a review recommends, “Read x first, then y.” Which claim most clearly needs that correction?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
     "answers": [
-      "It is in Quadrant III",
-      "It is in Quadrant IV",
-      "It lies on the x-axis left of the origin",
-      "It lies on the y-axis below the origin"
+      "−8 is greater than −3 because 8 is greater than 3",
+      "Coordinates are read y then x",
+      "Negative means a physically impossible quantity"
     ],
-    "correct": 3,
-    "explanation": "x = 0 means the point lies on the y-axis; y = −6 places it below the origin.",
+    "correct": 1,
+    "explanation": "Read x first, then y.\nHint: Identify the exact misconception, then choose the correction that preserves the mathematics.",
     "structuredExplanation": {
-      "summary": "The point lies on the y-axis below the origin.",
-      "hint": "An axis point has one coordinate equal to zero."
+      "summary": "Read x first, then y.",
+      "hint": "Identify the exact misconception, then choose the correction that preserves the mathematics."
     },
     "qualitySchema": "production-v1"
   }
 ];
 window.skillrExamQuestions = window.skillrTestQuestions;
-window.quizQuestions=window.skillrTestQuestions;
+window.quizQuestions = window.skillrTestQuestions;

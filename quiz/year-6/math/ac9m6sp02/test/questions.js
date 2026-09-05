@@ -326,95 +326,8 @@ window.skillrTestQuestions = [
     "skill": "coordinates in four quadrants",
     "printable": true,
     "type": "single",
-    "question": "In an environmental study, a student uses the term “axis”. Which description shows it correctly?",
-    "audioPrompt": "In an environmental study, a student uses the term “axis”. Which description shows it correctly?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "asset_path": "",
-      "alt_text": ""
-    },
-    "answers": [
-      "one of four regions divided by the coordinate axes",
-      "coordinates written x first, then y",
-      "reference line used to locate coordinates"
-    ],
-    "correct": 2,
-    "explanation": "axis means reference line used to locate coordinates.\nHint: Match every feature of the description to the mathematical term.",
-    "structuredExplanation": {
-      "summary": "axis means reference line used to locate coordinates.",
-      "hint": "Match every feature of the description to the mathematical term."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m6sp02-t-013",
-    "curriculumCode": "AC9M6SP02",
-    "bank": "test",
-    "skill": "coordinates in four quadrants",
-    "printable": true,
-    "type": "single",
-    "question": "During a playground redesign, a student uses the term “ordered pair”. Which description shows it correctly?",
-    "audioPrompt": "During a playground redesign, a student uses the term “ordered pair”. Which description shows it correctly?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "asset_path": "",
-      "alt_text": ""
-    },
-    "answers": [
-      "coordinates written x first, then y",
-      "one of four regions divided by the coordinate axes",
-      "reference line used to locate coordinates"
-    ],
-    "correct": 0,
-    "explanation": "ordered pair means coordinates written x first, then y.\nHint: Match every feature of the description to the mathematical term.",
-    "structuredExplanation": {
-      "summary": "ordered pair means coordinates written x first, then y.",
-      "hint": "Match every feature of the description to the mathematical term."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m6sp02-t-014",
-    "curriculumCode": "AC9M6SP02",
-    "bank": "test",
-    "skill": "coordinates in four quadrants",
-    "printable": true,
-    "type": "single",
-    "question": "At a transport depot, a student uses the term “quadrant”. Which description shows it correctly?",
-    "audioPrompt": "At a transport depot, a student uses the term “quadrant”. Which description shows it correctly?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "asset_path": "",
-      "alt_text": ""
-    },
-    "answers": [
-      "coordinates written x first, then y",
-      "one of four regions divided by the coordinate axes",
-      "reference line used to locate coordinates"
-    ],
-    "correct": 1,
-    "explanation": "quadrant means one of four regions divided by the coordinate axes.\nHint: Match every feature of the description to the mathematical term.",
-    "structuredExplanation": {
-      "summary": "quadrant means one of four regions divided by the coordinate axes.",
-      "hint": "Match every feature of the description to the mathematical term."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m6sp02-t-015",
-    "curriculumCode": "AC9M6SP02",
-    "bank": "test",
-    "skill": "coordinates in four quadrants",
-    "printable": true,
-    "type": "single",
-    "question": "While preparing a camping trip. The quantities or representation come from a fresh example. another student selected “(3,4)”. Reconsider the evidence: What is the reflection of (3,−4) in the y-axis?",
-    "audioPrompt": "While preparing a camping trip. The quantities or representation come from a fresh example. another student selected “(3,4)”. Reconsider the evidence: What is the reflection of (3,−4) in the y-axis?",
+    "question": "In an environmental study. The quantities or representation come from a fresh example. another student selected “(3,4)”. Reconsider the evidence: What is the reflection of (3,−4) in the y-axis?",
+    "audioPrompt": "In an environmental study. The quantities or representation come from a fresh example. another student selected “(3,4)”. Reconsider the evidence: What is the reflection of (3,−4) in the y-axis?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -436,14 +349,14 @@ window.skillrTestQuestions = [
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9m6sp02-t-016",
+    "id": "ac9m6sp02-t-013",
     "curriculumCode": "AC9M6SP02",
     "bank": "test",
     "skill": "coordinates in four quadrants",
     "printable": true,
     "type": "single",
-    "question": "In a strategy tournament. The quantities or representation come from a fresh example. another student selected “(4,−2)”. Reconsider the evidence: Which point lies in Quadrant III?",
-    "audioPrompt": "In a strategy tournament. The quantities or representation come from a fresh example. another student selected “(4,−2)”. Reconsider the evidence: Which point lies in Quadrant III?",
+    "question": "During a playground redesign. The quantities or representation come from a fresh example. another student selected “(4,−2)”. Reconsider the evidence: Which point lies in Quadrant III?",
+    "audioPrompt": "During a playground redesign. The quantities or representation come from a fresh example. another student selected “(4,−2)”. Reconsider the evidence: Which point lies in Quadrant III?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -461,6 +374,93 @@ window.skillrTestQuestions = [
     "structuredExplanation": {
       "summary": "(−4,−2) follows from the quantities and relationship in the question.",
       "hint": "Estimate or substitute to reject the tempting misconception."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m6sp02-t-014",
+    "curriculumCode": "AC9M6SP02",
+    "bank": "test",
+    "skill": "coordinates in four quadrants",
+    "printable": true,
+    "type": "single",
+    "question": "At a transport depot. The quantities or representation come from a fresh example. a Coordinates in Four Quadrants organiser contains “(x,y) → (−x,−y)”. Which heading best identifies that information?",
+    "audioPrompt": "At a transport depot. The quantities or representation come from a fresh example. a Coordinates in Four Quadrants organiser contains “(x,y) → (−x,−y)”. Which heading best identifies that information?",
+    "visual": "A Year 6 Coordinates in Four Quadrants reasoning organiser highlighting half-turn about origin.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A Year 6 Coordinates in Four Quadrants reasoning organiser highlighting half-turn about origin.\"><use href=\"/assets/assessment-visuals/year6/math/ac9m6sp02.svg#ac9m6sp02-t-014\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6sp02.svg#ac9m6sp02-t-014",
+      "alt_text": "A Year 6 Coordinates in Four Quadrants reasoning organiser highlighting half-turn about origin."
+    },
+    "answers": [
+      "movement",
+      "half-turn about origin",
+      "4 right"
+    ],
+    "correct": 1,
+    "explanation": "The representation connects half-turn about origin with (x,y) → (−x,−y).\nHint: Use the mathematical role of the entry, not a repeated word.",
+    "structuredExplanation": {
+      "summary": "The representation connects half-turn about origin with (x,y) → (−x,−y).",
+      "hint": "Use the mathematical role of the entry, not a repeated word."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m6sp02-t-015",
+    "curriculumCode": "AC9M6SP02",
+    "bank": "test",
+    "skill": "coordinates in four quadrants",
+    "printable": true,
+    "type": "single",
+    "question": "While preparing a camping trip. The quantities or representation come from a fresh example. a Coordinates in Four Quadrants organiser contains “(x,y) → (x,−y)”. Which heading best identifies that information?",
+    "audioPrompt": "While preparing a camping trip. The quantities or representation come from a fresh example. a Coordinates in Four Quadrants organiser contains “(x,y) → (x,−y)”. Which heading best identifies that information?",
+    "visual": "A Year 6 Coordinates in Four Quadrants reasoning organiser highlighting reflect in x-axis.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A Year 6 Coordinates in Four Quadrants reasoning organiser highlighting reflect in x-axis.\"><use href=\"/assets/assessment-visuals/year6/math/ac9m6sp02.svg#ac9m6sp02-t-015\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6sp02.svg#ac9m6sp02-t-015",
+      "alt_text": "A Year 6 Coordinates in Four Quadrants reasoning organiser highlighting reflect in x-axis."
+    },
+    "answers": [
+      "movement",
+      "4 right",
+      "reflect in x-axis"
+    ],
+    "correct": 2,
+    "explanation": "The representation connects reflect in x-axis with (x,y) → (x,−y).\nHint: Use the mathematical role of the entry, not a repeated word.",
+    "structuredExplanation": {
+      "summary": "The representation connects reflect in x-axis with (x,y) → (x,−y).",
+      "hint": "Use the mathematical role of the entry, not a repeated word."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m6sp02-t-016",
+    "curriculumCode": "AC9M6SP02",
+    "bank": "test",
+    "skill": "coordinates in four quadrants",
+    "printable": true,
+    "type": "single",
+    "question": "In a strategy tournament. The quantities or representation come from a fresh example. a Coordinates in Four Quadrants organiser contains “(x,y) → (−x,y)”. Which heading best identifies that information?",
+    "audioPrompt": "In a strategy tournament. The quantities or representation come from a fresh example. a Coordinates in Four Quadrants organiser contains “(x,y) → (−x,y)”. Which heading best identifies that information?",
+    "visual": "A Year 6 Coordinates in Four Quadrants reasoning organiser highlighting reflect in y-axis.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A Year 6 Coordinates in Four Quadrants reasoning organiser highlighting reflect in y-axis.\"><use href=\"/assets/assessment-visuals/year6/math/ac9m6sp02.svg#ac9m6sp02-t-016\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6sp02.svg#ac9m6sp02-t-016",
+      "alt_text": "A Year 6 Coordinates in Four Quadrants reasoning organiser highlighting reflect in y-axis."
+    },
+    "answers": [
+      "reflect in y-axis",
+      "movement",
+      "4 right"
+    ],
+    "correct": 0,
+    "explanation": "The representation connects reflect in y-axis with (x,y) → (−x,y).\nHint: Use the mathematical role of the entry, not a repeated word.",
+    "structuredExplanation": {
+      "summary": "The representation connects reflect in y-axis with (x,y) → (−x,y).",
+      "hint": "Use the mathematical role of the entry, not a repeated word."
     },
     "qualitySchema": "production-v1"
   }

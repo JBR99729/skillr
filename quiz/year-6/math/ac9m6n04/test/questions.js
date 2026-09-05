@@ -326,95 +326,8 @@ window.skillrTestQuestions = [
     "skill": "adding and subtracting decimals",
     "printable": true,
     "type": "single",
-    "question": "In an environmental study, a student uses the term “compensation”. Which description shows it correctly?",
-    "audioPrompt": "In an environmental study, a student uses the term “compensation”. Which description shows it correctly?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "asset_path": "",
-      "alt_text": ""
-    },
-    "answers": [
-      "adjusting to friendly numbers then correcting",
-      "placing equal-value decimal positions in columns",
-      "renaming across adjacent place values"
-    ],
-    "correct": 0,
-    "explanation": "compensation means adjusting to friendly numbers then correcting.\nHint: Match every feature of the description to the mathematical term.",
-    "structuredExplanation": {
-      "summary": "compensation means adjusting to friendly numbers then correcting.",
-      "hint": "Match every feature of the description to the mathematical term."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m6n04-t-013",
-    "curriculumCode": "AC9M6N04",
-    "bank": "test",
-    "skill": "adding and subtracting decimals",
-    "printable": true,
-    "type": "single",
-    "question": "During a playground redesign, a student uses the term “regrouping”. Which description shows it correctly?",
-    "audioPrompt": "During a playground redesign, a student uses the term “regrouping”. Which description shows it correctly?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "asset_path": "",
-      "alt_text": ""
-    },
-    "answers": [
-      "placing equal-value decimal positions in columns",
-      "renaming across adjacent place values",
-      "adjusting to friendly numbers then correcting"
-    ],
-    "correct": 1,
-    "explanation": "regrouping means renaming across adjacent place values.\nHint: Match every feature of the description to the mathematical term.",
-    "structuredExplanation": {
-      "summary": "regrouping means renaming across adjacent place values.",
-      "hint": "Match every feature of the description to the mathematical term."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m6n04-t-014",
-    "curriculumCode": "AC9M6N04",
-    "bank": "test",
-    "skill": "adding and subtracting decimals",
-    "printable": true,
-    "type": "single",
-    "question": "At a transport depot, a student uses the term “place-value alignment”. Which description shows it correctly?",
-    "audioPrompt": "At a transport depot, a student uses the term “place-value alignment”. Which description shows it correctly?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "asset_path": "",
-      "alt_text": ""
-    },
-    "answers": [
-      "renaming across adjacent place values",
-      "adjusting to friendly numbers then correcting",
-      "placing equal-value decimal positions in columns"
-    ],
-    "correct": 2,
-    "explanation": "place-value alignment means placing equal-value decimal positions in columns.\nHint: Match every feature of the description to the mathematical term.",
-    "structuredExplanation": {
-      "summary": "place-value alignment means placing equal-value decimal positions in columns.",
-      "hint": "Match every feature of the description to the mathematical term."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m6n04-t-015",
-    "curriculumCode": "AC9M6N04",
-    "bank": "test",
-    "skill": "adding and subtracting decimals",
-    "printable": true,
-    "type": "single",
-    "question": "While preparing a camping trip. The quantities or representation come from a fresh example. another student selected “about 68”. Reconsider the evidence: Which estimate best checks 48.6 − 19.9?",
-    "audioPrompt": "While preparing a camping trip. The quantities or representation come from a fresh example. another student selected “about 68”. Reconsider the evidence: Which estimate best checks 48.6 − 19.9?",
+    "question": "In an environmental study. The quantities or representation come from a fresh example. another student selected “about 68”. Reconsider the evidence: Which estimate best checks 48.6 − 19.9?",
+    "audioPrompt": "In an environmental study. The quantities or representation come from a fresh example. another student selected “about 68”. Reconsider the evidence: Which estimate best checks 48.6 − 19.9?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -436,14 +349,14 @@ window.skillrTestQuestions = [
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9m6n04-t-016",
+    "id": "ac9m6n04-t-013",
     "curriculumCode": "AC9M6N04",
     "bank": "test",
     "skill": "adding and subtracting decimals",
     "printable": true,
     "type": "single",
-    "question": "In a strategy tournament. The quantities or representation come from a fresh example. another student selected “24.215”. Reconsider the evidence: What is 18.375 + 6.84?",
-    "audioPrompt": "In a strategy tournament. The quantities or representation come from a fresh example. another student selected “24.215”. Reconsider the evidence: What is 18.375 + 6.84?",
+    "question": "During a playground redesign. The quantities or representation come from a fresh example. another student selected “24.215”. Reconsider the evidence: What is 18.375 + 6.84?",
+    "audioPrompt": "During a playground redesign. The quantities or representation come from a fresh example. another student selected “24.215”. Reconsider the evidence: What is 18.375 + 6.84?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -461,6 +374,93 @@ window.skillrTestQuestions = [
     "structuredExplanation": {
       "summary": "25.215 follows from the quantities and relationship in the question.",
       "hint": "Estimate or substitute to reject the tempting misconception."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m6n04-t-014",
+    "curriculumCode": "AC9M6N04",
+    "bank": "test",
+    "skill": "adding and subtracting decimals",
+    "printable": true,
+    "type": "single",
+    "question": "At a transport depot. The quantities or representation come from a fresh example. a Adding and Subtracting Decimals organiser contains “verify after setup and estimation”. Which heading best identifies that information?",
+    "audioPrompt": "At a transport depot. The quantities or representation come from a fresh example. a Adding and Subtracting Decimals organiser contains “verify after setup and estimation”. Which heading best identifies that information?",
+    "visual": "A Year 6 Adding and Subtracting Decimals reasoning organiser highlighting digital tool.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A Year 6 Adding and Subtracting Decimals reasoning organiser highlighting digital tool.\"><use href=\"/assets/assessment-visuals/year6/math/ac9m6n04.svg#ac9m6n04-t-014\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6n04.svg#ac9m6n04-t-014",
+      "alt_text": "A Year 6 Adding and Subtracting Decimals reasoning organiser highlighting digital tool."
+    },
+    "answers": [
+      "32.00 − 9.875",
+      "19.95 + 7.60",
+      "digital tool"
+    ],
+    "correct": 2,
+    "explanation": "The representation connects digital tool with verify after setup and estimation.\nHint: Use the mathematical role of the entry, not a repeated word.",
+    "structuredExplanation": {
+      "summary": "The representation connects digital tool with verify after setup and estimation.",
+      "hint": "Use the mathematical role of the entry, not a repeated word."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m6n04-t-015",
+    "curriculumCode": "AC9M6N04",
+    "bank": "test",
+    "skill": "adding and subtracting decimals",
+    "printable": true,
+    "type": "single",
+    "question": "While preparing a camping trip. The quantities or representation come from a fresh example. a Adding and Subtracting Decimals organiser contains “subtract 20, then add 0.1”. Which heading best identifies that information?",
+    "audioPrompt": "While preparing a camping trip. The quantities or representation come from a fresh example. a Adding and Subtracting Decimals organiser contains “subtract 20, then add 0.1”. Which heading best identifies that information?",
+    "visual": "A Year 6 Adding and Subtracting Decimals reasoning organiser highlighting 48.6 − 19.9.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A Year 6 Adding and Subtracting Decimals reasoning organiser highlighting 48.6 − 19.9.\"><use href=\"/assets/assessment-visuals/year6/math/ac9m6n04.svg#ac9m6n04-t-015\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6n04.svg#ac9m6n04-t-015",
+      "alt_text": "A Year 6 Adding and Subtracting Decimals reasoning organiser highlighting 48.6 − 19.9."
+    },
+    "answers": [
+      "48.6 − 19.9",
+      "32.00 − 9.875",
+      "19.95 + 7.60"
+    ],
+    "correct": 0,
+    "explanation": "The representation connects 48.6 − 19.9 with subtract 20, then add 0.1.\nHint: Use the mathematical role of the entry, not a repeated word.",
+    "structuredExplanation": {
+      "summary": "The representation connects 48.6 − 19.9 with subtract 20, then add 0.1.",
+      "hint": "Use the mathematical role of the entry, not a repeated word."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m6n04-t-016",
+    "curriculumCode": "AC9M6N04",
+    "bank": "test",
+    "skill": "adding and subtracting decimals",
+    "printable": true,
+    "type": "single",
+    "question": "In a strategy tournament. The quantities or representation come from a fresh example. a Adding and Subtracting Decimals organiser contains “compensation: 20 + 7.60 − 0.05”. Which heading best identifies that information?",
+    "audioPrompt": "In a strategy tournament. The quantities or representation come from a fresh example. a Adding and Subtracting Decimals organiser contains “compensation: 20 + 7.60 − 0.05”. Which heading best identifies that information?",
+    "visual": "A Year 6 Adding and Subtracting Decimals reasoning organiser highlighting 19.95 + 7.60.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A Year 6 Adding and Subtracting Decimals reasoning organiser highlighting 19.95 + 7.60.\"><use href=\"/assets/assessment-visuals/year6/math/ac9m6n04.svg#ac9m6n04-t-016\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6n04.svg#ac9m6n04-t-016",
+      "alt_text": "A Year 6 Adding and Subtracting Decimals reasoning organiser highlighting 19.95 + 7.60."
+    },
+    "answers": [
+      "32.00 − 9.875",
+      "19.95 + 7.60",
+      "48.6 − 19.9"
+    ],
+    "correct": 1,
+    "explanation": "The representation connects 19.95 + 7.60 with compensation: 20 + 7.60 − 0.05.\nHint: Use the mathematical role of the entry, not a repeated word.",
+    "structuredExplanation": {
+      "summary": "The representation connects 19.95 + 7.60 with compensation: 20 + 7.60 − 0.05.",
+      "hint": "Use the mathematical role of the entry, not a repeated word."
     },
     "qualitySchema": "production-v1"
   }

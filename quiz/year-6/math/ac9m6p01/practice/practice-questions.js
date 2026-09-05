@@ -7,95 +7,8 @@ window.skillrPracticeQuestions = [
     "skill": "probability on a scale from 0 to 1",
     "printable": true,
     "type": "single",
-    "question": "During a class investigation, a note says “numerical measure of event likelihood”. Which mathematical term labels it?",
-    "audioPrompt": "During a class investigation, a note says “numerical measure of event likelihood”. Which mathematical term labels it?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "asset_path": "",
-      "alt_text": ""
-    },
-    "answers": [
-      "certain event",
-      "probability",
-      "impossible event"
-    ],
-    "correct": 1,
-    "explanation": "probability means numerical measure of event likelihood.\nHint: Match every feature of the description to the mathematical term.",
-    "structuredExplanation": {
-      "summary": "probability means numerical measure of event likelihood.",
-      "hint": "Match every feature of the description to the mathematical term."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m6p01-p-002",
-    "curriculumCode": "AC9M6P01",
-    "bank": "practice",
-    "skill": "probability on a scale from 0 to 1",
-    "printable": true,
-    "type": "single",
-    "question": "At the school market, a note says “event with probability 1”. Which mathematical term labels it?",
-    "audioPrompt": "At the school market, a note says “event with probability 1”. Which mathematical term labels it?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "asset_path": "",
-      "alt_text": ""
-    },
-    "answers": [
-      "probability",
-      "impossible event",
-      "certain event"
-    ],
-    "correct": 2,
-    "explanation": "certain event means event with probability 1.\nHint: Match every feature of the description to the mathematical term.",
-    "structuredExplanation": {
-      "summary": "certain event means event with probability 1.",
-      "hint": "Match every feature of the description to the mathematical term."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m6p01-p-003",
-    "curriculumCode": "AC9M6P01",
-    "bank": "practice",
-    "skill": "probability on a scale from 0 to 1",
-    "printable": true,
-    "type": "single",
-    "question": "While planning a garden, a note says “event with probability 0”. Which mathematical term labels it?",
-    "audioPrompt": "While planning a garden, a note says “event with probability 0”. Which mathematical term labels it?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "asset_path": "",
-      "alt_text": ""
-    },
-    "answers": [
-      "impossible event",
-      "probability",
-      "certain event"
-    ],
-    "correct": 0,
-    "explanation": "impossible event means event with probability 0.\nHint: Match every feature of the description to the mathematical term.",
-    "structuredExplanation": {
-      "summary": "impossible event means event with probability 0.",
-      "hint": "Match every feature of the description to the mathematical term."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m6p01-p-004",
-    "curriculumCode": "AC9M6P01",
-    "bank": "practice",
-    "skill": "probability on a scale from 0 to 1",
-    "printable": true,
-    "type": "single",
-    "question": "In a robotics challenge, a student reasons, “Probability treated as a count”. Which response corrects the error?",
-    "audioPrompt": "In a robotics challenge, a student reasons, “Probability treated as a count”. Which response corrects the error?",
+    "question": "During a class investigation, a student reasons, “Probability treated as a count”. Which response corrects the error?",
+    "audioPrompt": "During a class investigation, a student reasons, “Probability treated as a count”. Which response corrects the error?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -117,14 +30,14 @@ window.skillrPracticeQuestions = [
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9m6p01-p-005",
+    "id": "ac9m6p01-p-002",
     "curriculumCode": "AC9M6P01",
     "bank": "practice",
     "skill": "probability on a scale from 0 to 1",
     "printable": true,
     "type": "single",
-    "question": "During sports-day planning, a student reasons, “80% written as 80”. Which response corrects the error?",
-    "audioPrompt": "During sports-day planning, a student reasons, “80% written as 80”. Which response corrects the error?",
+    "question": "At the school market, a student reasons, “80% written as 80”. Which response corrects the error?",
+    "audioPrompt": "At the school market, a student reasons, “80% written as 80”. Which response corrects the error?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -146,14 +59,14 @@ window.skillrPracticeQuestions = [
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9m6p01-p-006",
+    "id": "ac9m6p01-p-003",
     "curriculumCode": "AC9M6P01",
     "bank": "practice",
     "skill": "probability on a scale from 0 to 1",
     "printable": true,
     "type": "single",
-    "question": "At a wildlife centre, a student reasons, “Likely confused with certain”. Which response corrects the error?",
-    "audioPrompt": "At a wildlife centre, a student reasons, “Likely confused with certain”. Which response corrects the error?",
+    "question": "While planning a garden, a student reasons, “Likely confused with certain”. Which response corrects the error?",
+    "audioPrompt": "While planning a garden, a student reasons, “Likely confused with certain”. Which response corrects the error?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -175,14 +88,14 @@ window.skillrPracticeQuestions = [
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9m6p01-p-007",
+    "id": "ac9m6p01-p-004",
     "curriculumCode": "AC9M6P01",
     "bank": "practice",
     "skill": "probability on a scale from 0 to 1",
     "printable": true,
     "type": "single",
-    "question": "While checking a map, a student reasons, “Context assumptions omitted”. Which response corrects the error?",
-    "audioPrompt": "While checking a map, a student reasons, “Context assumptions omitted”. Which response corrects the error?",
+    "question": "In a robotics challenge, a student reasons, “Context assumptions omitted”. Which response corrects the error?",
+    "audioPrompt": "In a robotics challenge, a student reasons, “Context assumptions omitted”. Which response corrects the error?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -204,19 +117,19 @@ window.skillrPracticeQuestions = [
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9m6p01-p-008",
+    "id": "ac9m6p01-p-005",
     "curriculumCode": "AC9M6P01",
     "bank": "practice",
     "skill": "probability on a scale from 0 to 1",
     "printable": true,
     "type": "single",
-    "question": "In the makerspace, a Probability on a Scale from 0 to 1 organiser labels a row “1/4”. Which entry belongs in that row?",
-    "audioPrompt": "In the makerspace, a Probability on a Scale from 0 to 1 organiser labels a row “1/4”. Which entry belongs in that row?",
+    "question": "During sports-day planning, a Probability on a Scale from 0 to 1 organiser labels a row “1/4”. Which entry belongs in that row?",
+    "audioPrompt": "During sports-day planning, a Probability on a Scale from 0 to 1 organiser labels a row “1/4”. Which entry belongs in that row?",
     "visual": "A Year 6 Probability on a Scale from 0 to 1 reasoning organiser highlighting 1/4.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A Year 6 Probability on a Scale from 0 to 1 reasoning organiser highlighting 1/4.\"><use href=\"/assets/assessment-visuals/year6/math/ac9m6p01.svg#ac9m6p01-p-008\"></use></svg>",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A Year 6 Probability on a Scale from 0 to 1 reasoning organiser highlighting 1/4.\"><use href=\"/assets/assessment-visuals/year6/math/ac9m6p01.svg#ac9m6p01-p-005\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6p01.svg#ac9m6p01-p-008",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6p01.svg#ac9m6p01-p-005",
       "alt_text": "A Year 6 Probability on a Scale from 0 to 1 reasoning organiser highlighting 1/4."
     },
     "answers": [
@@ -233,19 +146,19 @@ window.skillrPracticeQuestions = [
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9m6p01-p-009",
+    "id": "ac9m6p01-p-006",
     "curriculumCode": "AC9M6P01",
     "bank": "practice",
     "skill": "probability on a scale from 0 to 1",
     "printable": true,
     "type": "single",
-    "question": "During a cooking project, a Probability on a Scale from 0 to 1 organiser labels a row “1/2”. Which entry belongs in that row?",
-    "audioPrompt": "During a cooking project, a Probability on a Scale from 0 to 1 organiser labels a row “1/2”. Which entry belongs in that row?",
+    "question": "At a wildlife centre, a Probability on a Scale from 0 to 1 organiser labels a row “1/2”. Which entry belongs in that row?",
+    "audioPrompt": "At a wildlife centre, a Probability on a Scale from 0 to 1 organiser labels a row “1/2”. Which entry belongs in that row?",
     "visual": "A Year 6 Probability on a Scale from 0 to 1 reasoning organiser highlighting 1/2.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A Year 6 Probability on a Scale from 0 to 1 reasoning organiser highlighting 1/2.\"><use href=\"/assets/assessment-visuals/year6/math/ac9m6p01.svg#ac9m6p01-p-009\"></use></svg>",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A Year 6 Probability on a Scale from 0 to 1 reasoning organiser highlighting 1/2.\"><use href=\"/assets/assessment-visuals/year6/math/ac9m6p01.svg#ac9m6p01-p-006\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6p01.svg#ac9m6p01-p-009",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6p01.svg#ac9m6p01-p-006",
       "alt_text": "A Year 6 Probability on a Scale from 0 to 1 reasoning organiser highlighting 1/2."
     },
     "answers": [
@@ -262,19 +175,19 @@ window.skillrPracticeQuestions = [
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9m6p01-p-010",
+    "id": "ac9m6p01-p-007",
     "curriculumCode": "AC9M6P01",
     "bank": "practice",
     "skill": "probability on a scale from 0 to 1",
     "printable": true,
     "type": "single",
-    "question": "At the community fair, a Probability on a Scale from 0 to 1 organiser labels a row “3/5”. Which entry belongs in that row?",
-    "audioPrompt": "At the community fair, a Probability on a Scale from 0 to 1 organiser labels a row “3/5”. Which entry belongs in that row?",
+    "question": "While checking a map, a Probability on a Scale from 0 to 1 organiser labels a row “3/5”. Which entry belongs in that row?",
+    "audioPrompt": "While checking a map, a Probability on a Scale from 0 to 1 organiser labels a row “3/5”. Which entry belongs in that row?",
     "visual": "A Year 6 Probability on a Scale from 0 to 1 reasoning organiser highlighting 3/5.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A Year 6 Probability on a Scale from 0 to 1 reasoning organiser highlighting 3/5.\"><use href=\"/assets/assessment-visuals/year6/math/ac9m6p01.svg#ac9m6p01-p-010\"></use></svg>",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A Year 6 Probability on a Scale from 0 to 1 reasoning organiser highlighting 3/5.\"><use href=\"/assets/assessment-visuals/year6/math/ac9m6p01.svg#ac9m6p01-p-007\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6p01.svg#ac9m6p01-p-010",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6p01.svg#ac9m6p01-p-007",
       "alt_text": "A Year 6 Probability on a Scale from 0 to 1 reasoning organiser highlighting 3/5."
     },
     "answers": [
@@ -291,19 +204,19 @@ window.skillrPracticeQuestions = [
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9m6p01-p-011",
+    "id": "ac9m6p01-p-008",
     "curriculumCode": "AC9M6P01",
     "bank": "practice",
     "skill": "probability on a scale from 0 to 1",
     "printable": true,
     "type": "single",
-    "question": "While organising a library display, a Probability on a Scale from 0 to 1 organiser labels a row “4/5”. Which entry belongs in that row?",
-    "audioPrompt": "While organising a library display, a Probability on a Scale from 0 to 1 organiser labels a row “4/5”. Which entry belongs in that row?",
+    "question": "In the makerspace, a Probability on a Scale from 0 to 1 organiser labels a row “4/5”. Which entry belongs in that row?",
+    "audioPrompt": "In the makerspace, a Probability on a Scale from 0 to 1 organiser labels a row “4/5”. Which entry belongs in that row?",
     "visual": "A Year 6 Probability on a Scale from 0 to 1 reasoning organiser highlighting 4/5.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A Year 6 Probability on a Scale from 0 to 1 reasoning organiser highlighting 4/5.\"><use href=\"/assets/assessment-visuals/year6/math/ac9m6p01.svg#ac9m6p01-p-011\"></use></svg>",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A Year 6 Probability on a Scale from 0 to 1 reasoning organiser highlighting 4/5.\"><use href=\"/assets/assessment-visuals/year6/math/ac9m6p01.svg#ac9m6p01-p-008\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6p01.svg#ac9m6p01-p-011",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6p01.svg#ac9m6p01-p-008",
       "alt_text": "A Year 6 Probability on a Scale from 0 to 1 reasoning organiser highlighting 4/5."
     },
     "answers": [
@@ -320,19 +233,19 @@ window.skillrPracticeQuestions = [
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9m6p01-p-012",
+    "id": "ac9m6p01-p-009",
     "curriculumCode": "AC9M6P01",
     "bank": "practice",
     "skill": "probability on a scale from 0 to 1",
     "printable": true,
     "type": "single",
-    "question": "In a science notebook, a Probability on a Scale from 0 to 1 organiser labels a row “1”. Which entry belongs in that row?",
-    "audioPrompt": "In a science notebook, a Probability on a Scale from 0 to 1 organiser labels a row “1”. Which entry belongs in that row?",
+    "question": "During a cooking project, a Probability on a Scale from 0 to 1 organiser labels a row “1”. Which entry belongs in that row?",
+    "audioPrompt": "During a cooking project, a Probability on a Scale from 0 to 1 organiser labels a row “1”. Which entry belongs in that row?",
     "visual": "A Year 6 Probability on a Scale from 0 to 1 reasoning organiser highlighting 1.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A Year 6 Probability on a Scale from 0 to 1 reasoning organiser highlighting 1.\"><use href=\"/assets/assessment-visuals/year6/math/ac9m6p01.svg#ac9m6p01-p-012\"></use></svg>",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A Year 6 Probability on a Scale from 0 to 1 reasoning organiser highlighting 1.\"><use href=\"/assets/assessment-visuals/year6/math/ac9m6p01.svg#ac9m6p01-p-009\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6p01.svg#ac9m6p01-p-012",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6p01.svg#ac9m6p01-p-009",
       "alt_text": "A Year 6 Probability on a Scale from 0 to 1 reasoning organiser highlighting 1."
     },
     "answers": [
@@ -349,14 +262,14 @@ window.skillrPracticeQuestions = [
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9m6p01-p-013",
+    "id": "ac9m6p01-p-010",
     "curriculumCode": "AC9M6P01",
     "bank": "practice",
     "skill": "probability on a scale from 0 to 1",
     "printable": true,
     "type": "single",
-    "question": "During a design challenge, Which probability represents an even chance?",
-    "audioPrompt": "During a design challenge, Which probability represents an even chance?",
+    "question": "At the community fair, Which probability represents an even chance?",
+    "audioPrompt": "At the community fair, Which probability represents an even chance?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -378,14 +291,14 @@ window.skillrPracticeQuestions = [
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9m6p01-p-014",
+    "id": "ac9m6p01-p-011",
     "curriculumCode": "AC9M6P01",
     "bank": "practice",
     "skill": "probability on a scale from 0 to 1",
     "printable": true,
     "type": "single",
-    "question": "At the school canteen, Which event is more likely?",
-    "audioPrompt": "At the school canteen, Which event is more likely?",
+    "question": "While organising a library display, Which event is more likely?",
+    "audioPrompt": "While organising a library display, Which event is more likely?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -407,101 +320,14 @@ window.skillrPracticeQuestions = [
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9m6p01-p-015",
+    "id": "ac9m6p01-p-012",
     "curriculumCode": "AC9M6P01",
     "bank": "practice",
     "skill": "probability on a scale from 0 to 1",
     "printable": true,
     "type": "single",
-    "question": "While comparing travel plans. The quantities or representation come from a fresh example. a note says “numerical measure of event likelihood”. Which mathematical term labels it?",
-    "audioPrompt": "While comparing travel plans. The quantities or representation come from a fresh example. a note says “numerical measure of event likelihood”. Which mathematical term labels it?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "asset_path": "",
-      "alt_text": ""
-    },
-    "answers": [
-      "probability",
-      "certain event",
-      "impossible event"
-    ],
-    "correct": 0,
-    "explanation": "probability means numerical measure of event likelihood.\nHint: Match every feature of the description to the mathematical term.",
-    "structuredExplanation": {
-      "summary": "probability means numerical measure of event likelihood.",
-      "hint": "Match every feature of the description to the mathematical term."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m6p01-p-016",
-    "curriculumCode": "AC9M6P01",
-    "bank": "practice",
-    "skill": "probability on a scale from 0 to 1",
-    "printable": true,
-    "type": "single",
-    "question": "In a data workshop. The quantities or representation come from a fresh example. a note says “event with probability 1”. Which mathematical term labels it?",
-    "audioPrompt": "In a data workshop. The quantities or representation come from a fresh example. a note says “event with probability 1”. Which mathematical term labels it?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "asset_path": "",
-      "alt_text": ""
-    },
-    "answers": [
-      "probability",
-      "certain event",
-      "impossible event"
-    ],
-    "correct": 1,
-    "explanation": "certain event means event with probability 1.\nHint: Match every feature of the description to the mathematical term.",
-    "structuredExplanation": {
-      "summary": "certain event means event with probability 1.",
-      "hint": "Match every feature of the description to the mathematical term."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m6p01-p-017",
-    "curriculumCode": "AC9M6P01",
-    "bank": "practice",
-    "skill": "probability on a scale from 0 to 1",
-    "printable": true,
-    "type": "single",
-    "question": "During a building project. The quantities or representation come from a fresh example. a note says “event with probability 0”. Which mathematical term labels it?",
-    "audioPrompt": "During a building project. The quantities or representation come from a fresh example. a note says “event with probability 0”. Which mathematical term labels it?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "asset_path": "",
-      "alt_text": ""
-    },
-    "answers": [
-      "probability",
-      "certain event",
-      "impossible event"
-    ],
-    "correct": 2,
-    "explanation": "impossible event means event with probability 0.\nHint: Match every feature of the description to the mathematical term.",
-    "structuredExplanation": {
-      "summary": "impossible event means event with probability 0.",
-      "hint": "Match every feature of the description to the mathematical term."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m6p01-p-018",
-    "curriculumCode": "AC9M6P01",
-    "bank": "practice",
-    "skill": "probability on a scale from 0 to 1",
-    "printable": true,
-    "type": "single",
-    "question": "At the local pool. The quantities or representation come from a fresh example. a student reasons, “Probability treated as a count”. Which response corrects the error?",
-    "audioPrompt": "At the local pool. The quantities or representation come from a fresh example. a student reasons, “Probability treated as a count”. Which response corrects the error?",
+    "question": "In a science notebook. The quantities or representation come from a fresh example. a student reasons, “Probability treated as a count”. Which response corrects the error?",
+    "audioPrompt": "In a science notebook. The quantities or representation come from a fresh example. a student reasons, “Probability treated as a count”. Which response corrects the error?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -523,14 +349,14 @@ window.skillrPracticeQuestions = [
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9m6p01-p-019",
+    "id": "ac9m6p01-p-013",
     "curriculumCode": "AC9M6P01",
     "bank": "practice",
     "skill": "probability on a scale from 0 to 1",
     "printable": true,
     "type": "single",
-    "question": "While preparing an excursion. The quantities or representation come from a fresh example. a student reasons, “80% written as 80”. Which response corrects the error?",
-    "audioPrompt": "While preparing an excursion. The quantities or representation come from a fresh example. a student reasons, “80% written as 80”. Which response corrects the error?",
+    "question": "During a design challenge. The quantities or representation come from a fresh example. a student reasons, “80% written as 80”. Which response corrects the error?",
+    "audioPrompt": "During a design challenge. The quantities or representation come from a fresh example. a student reasons, “80% written as 80”. Which response corrects the error?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -552,14 +378,14 @@ window.skillrPracticeQuestions = [
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9m6p01-p-020",
+    "id": "ac9m6p01-p-014",
     "curriculumCode": "AC9M6P01",
     "bank": "practice",
     "skill": "probability on a scale from 0 to 1",
     "printable": true,
     "type": "single",
-    "question": "In a games club. The quantities or representation come from a fresh example. a student reasons, “Likely confused with certain”. Which response corrects the error?",
-    "audioPrompt": "In a games club. The quantities or representation come from a fresh example. a student reasons, “Likely confused with certain”. Which response corrects the error?",
+    "question": "At the school canteen. The quantities or representation come from a fresh example. a student reasons, “Likely confused with certain”. Which response corrects the error?",
+    "audioPrompt": "At the school canteen. The quantities or representation come from a fresh example. a student reasons, “Likely confused with certain”. Which response corrects the error?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -581,14 +407,14 @@ window.skillrPracticeQuestions = [
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9m6p01-p-021",
+    "id": "ac9m6p01-p-015",
     "curriculumCode": "AC9M6P01",
     "bank": "practice",
     "skill": "probability on a scale from 0 to 1",
     "printable": true,
     "type": "single",
-    "question": "During an art project. The quantities or representation come from a fresh example. a student reasons, “Context assumptions omitted”. Which response corrects the error?",
-    "audioPrompt": "During an art project. The quantities or representation come from a fresh example. a student reasons, “Context assumptions omitted”. Which response corrects the error?",
+    "question": "While comparing travel plans. The quantities or representation come from a fresh example. a student reasons, “Context assumptions omitted”. Which response corrects the error?",
+    "audioPrompt": "While comparing travel plans. The quantities or representation come from a fresh example. a student reasons, “Context assumptions omitted”. Which response corrects the error?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -610,19 +436,19 @@ window.skillrPracticeQuestions = [
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9m6p01-p-022",
+    "id": "ac9m6p01-p-016",
     "curriculumCode": "AC9M6P01",
     "bank": "practice",
     "skill": "probability on a scale from 0 to 1",
     "printable": true,
     "type": "single",
-    "question": "At the recycling station. The quantities or representation come from a fresh example. a Probability on a Scale from 0 to 1 organiser labels a row “1/4”. Which entry belongs in that row?",
-    "audioPrompt": "At the recycling station. The quantities or representation come from a fresh example. a Probability on a Scale from 0 to 1 organiser labels a row “1/4”. Which entry belongs in that row?",
+    "question": "In a data workshop. The quantities or representation come from a fresh example. a Probability on a Scale from 0 to 1 organiser labels a row “1/4”. Which entry belongs in that row?",
+    "audioPrompt": "In a data workshop. The quantities or representation come from a fresh example. a Probability on a Scale from 0 to 1 organiser labels a row “1/4”. Which entry belongs in that row?",
     "visual": "A Year 6 Probability on a Scale from 0 to 1 reasoning organiser highlighting 1/4.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A Year 6 Probability on a Scale from 0 to 1 reasoning organiser highlighting 1/4.\"><use href=\"/assets/assessment-visuals/year6/math/ac9m6p01.svg#ac9m6p01-p-022\"></use></svg>",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A Year 6 Probability on a Scale from 0 to 1 reasoning organiser highlighting 1/4.\"><use href=\"/assets/assessment-visuals/year6/math/ac9m6p01.svg#ac9m6p01-p-016\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6p01.svg#ac9m6p01-p-022",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6p01.svg#ac9m6p01-p-016",
       "alt_text": "A Year 6 Probability on a Scale from 0 to 1 reasoning organiser highlighting 1/4."
     },
     "answers": [
@@ -639,19 +465,19 @@ window.skillrPracticeQuestions = [
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9m6p01-p-023",
+    "id": "ac9m6p01-p-017",
     "curriculumCode": "AC9M6P01",
     "bank": "practice",
     "skill": "probability on a scale from 0 to 1",
     "printable": true,
     "type": "single",
-    "question": "While planning a class survey. The quantities or representation come from a fresh example. a Probability on a Scale from 0 to 1 organiser labels a row “1/2”. Which entry belongs in that row?",
-    "audioPrompt": "While planning a class survey. The quantities or representation come from a fresh example. a Probability on a Scale from 0 to 1 organiser labels a row “1/2”. Which entry belongs in that row?",
+    "question": "During a building project. The quantities or representation come from a fresh example. a Probability on a Scale from 0 to 1 organiser labels a row “1/2”. Which entry belongs in that row?",
+    "audioPrompt": "During a building project. The quantities or representation come from a fresh example. a Probability on a Scale from 0 to 1 organiser labels a row “1/2”. Which entry belongs in that row?",
     "visual": "A Year 6 Probability on a Scale from 0 to 1 reasoning organiser highlighting 1/2.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A Year 6 Probability on a Scale from 0 to 1 reasoning organiser highlighting 1/2.\"><use href=\"/assets/assessment-visuals/year6/math/ac9m6p01.svg#ac9m6p01-p-023\"></use></svg>",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A Year 6 Probability on a Scale from 0 to 1 reasoning organiser highlighting 1/2.\"><use href=\"/assets/assessment-visuals/year6/math/ac9m6p01.svg#ac9m6p01-p-017\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6p01.svg#ac9m6p01-p-023",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6p01.svg#ac9m6p01-p-017",
       "alt_text": "A Year 6 Probability on a Scale from 0 to 1 reasoning organiser highlighting 1/2."
     },
     "answers": [
@@ -668,19 +494,19 @@ window.skillrPracticeQuestions = [
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9m6p01-p-024",
+    "id": "ac9m6p01-p-018",
     "curriculumCode": "AC9M6P01",
     "bank": "practice",
     "skill": "probability on a scale from 0 to 1",
     "printable": true,
     "type": "single",
-    "question": "In a coding lesson. The quantities or representation come from a fresh example. a Probability on a Scale from 0 to 1 organiser labels a row “3/5”. Which entry belongs in that row?",
-    "audioPrompt": "In a coding lesson. The quantities or representation come from a fresh example. a Probability on a Scale from 0 to 1 organiser labels a row “3/5”. Which entry belongs in that row?",
+    "question": "At the local pool. The quantities or representation come from a fresh example. a Probability on a Scale from 0 to 1 organiser labels a row “3/5”. Which entry belongs in that row?",
+    "audioPrompt": "At the local pool. The quantities or representation come from a fresh example. a Probability on a Scale from 0 to 1 organiser labels a row “3/5”. Which entry belongs in that row?",
     "visual": "A Year 6 Probability on a Scale from 0 to 1 reasoning organiser highlighting 3/5.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A Year 6 Probability on a Scale from 0 to 1 reasoning organiser highlighting 3/5.\"><use href=\"/assets/assessment-visuals/year6/math/ac9m6p01.svg#ac9m6p01-p-024\"></use></svg>",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A Year 6 Probability on a Scale from 0 to 1 reasoning organiser highlighting 3/5.\"><use href=\"/assets/assessment-visuals/year6/math/ac9m6p01.svg#ac9m6p01-p-018\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6p01.svg#ac9m6p01-p-024",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6p01.svg#ac9m6p01-p-018",
       "alt_text": "A Year 6 Probability on a Scale from 0 to 1 reasoning organiser highlighting 3/5."
     },
     "answers": [
@@ -693,6 +519,180 @@ window.skillrPracticeQuestions = [
     "structuredExplanation": {
       "summary": "The representation connects 3/5 with 0.6; 60%.",
       "hint": "Use the mathematical role of the entry, not a repeated word."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m6p01-p-019",
+    "curriculumCode": "AC9M6P01",
+    "bank": "practice",
+    "skill": "probability on a scale from 0 to 1",
+    "printable": true,
+    "type": "single",
+    "question": "While preparing an excursion. The quantities or representation come from a fresh example. a Probability on a Scale from 0 to 1 organiser labels a row “4/5”. Which entry belongs in that row?",
+    "audioPrompt": "While preparing an excursion. The quantities or representation come from a fresh example. a Probability on a Scale from 0 to 1 organiser labels a row “4/5”. Which entry belongs in that row?",
+    "visual": "A Year 6 Probability on a Scale from 0 to 1 reasoning organiser highlighting 4/5.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A Year 6 Probability on a Scale from 0 to 1 reasoning organiser highlighting 4/5.\"><use href=\"/assets/assessment-visuals/year6/math/ac9m6p01.svg#ac9m6p01-p-019\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6p01.svg#ac9m6p01-p-019",
+      "alt_text": "A Year 6 Probability on a Scale from 0 to 1 reasoning organiser highlighting 4/5."
+    },
+    "answers": [
+      "decimal; percentage",
+      "0.8; 80%",
+      "0.25; 25%"
+    ],
+    "correct": 1,
+    "explanation": "The representation connects 4/5 with 0.8; 80%.\nHint: Use the mathematical role of the entry, not a repeated word.",
+    "structuredExplanation": {
+      "summary": "The representation connects 4/5 with 0.8; 80%.",
+      "hint": "Use the mathematical role of the entry, not a repeated word."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m6p01-p-020",
+    "curriculumCode": "AC9M6P01",
+    "bank": "practice",
+    "skill": "probability on a scale from 0 to 1",
+    "printable": true,
+    "type": "single",
+    "question": "In a games club. The quantities or representation come from a fresh example. a Probability on a Scale from 0 to 1 organiser labels a row “1”. Which entry belongs in that row?",
+    "audioPrompt": "In a games club. The quantities or representation come from a fresh example. a Probability on a Scale from 0 to 1 organiser labels a row “1”. Which entry belongs in that row?",
+    "visual": "A Year 6 Probability on a Scale from 0 to 1 reasoning organiser highlighting 1.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A Year 6 Probability on a Scale from 0 to 1 reasoning organiser highlighting 1.\"><use href=\"/assets/assessment-visuals/year6/math/ac9m6p01.svg#ac9m6p01-p-020\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6p01.svg#ac9m6p01-p-020",
+      "alt_text": "A Year 6 Probability on a Scale from 0 to 1 reasoning organiser highlighting 1."
+    },
+    "answers": [
+      "decimal; percentage",
+      "0.25; 25%",
+      "1.0; 100%"
+    ],
+    "correct": 2,
+    "explanation": "The representation connects 1 with 1.0; 100%.\nHint: Use the mathematical role of the entry, not a repeated word.",
+    "structuredExplanation": {
+      "summary": "The representation connects 1 with 1.0; 100%.",
+      "hint": "Use the mathematical role of the entry, not a repeated word."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m6p01-p-021",
+    "curriculumCode": "AC9M6P01",
+    "bank": "practice",
+    "skill": "probability on a scale from 0 to 1",
+    "printable": true,
+    "type": "single",
+    "question": "During an art project. The quantities or representation come from a fresh example. Which probability represents an even chance?",
+    "audioPrompt": "During an art project. The quantities or representation come from a fresh example. Which probability represents an even chance?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      "0.5",
+      "0",
+      "1"
+    ],
+    "correct": 0,
+    "explanation": "0.5 follows from the quantities and relationship in the question.\nHint: Estimate or substitute to reject the tempting misconception.",
+    "structuredExplanation": {
+      "summary": "0.5 follows from the quantities and relationship in the question.",
+      "hint": "Estimate or substitute to reject the tempting misconception."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m6p01-p-022",
+    "curriculumCode": "AC9M6P01",
+    "bank": "practice",
+    "skill": "probability on a scale from 0 to 1",
+    "printable": true,
+    "type": "single",
+    "question": "At the recycling station. The quantities or representation come from a fresh example. Which event is more likely?",
+    "audioPrompt": "At the recycling station. The quantities or representation come from a fresh example. Which event is more likely?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      "65%",
+      "0.72",
+      "2/3"
+    ],
+    "correct": 1,
+    "explanation": "0.72 follows from the quantities and relationship in the question.\nHint: Estimate or substitute to reject the tempting misconception.",
+    "structuredExplanation": {
+      "summary": "0.72 follows from the quantities and relationship in the question.",
+      "hint": "Estimate or substitute to reject the tempting misconception."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m6p01-p-023",
+    "curriculumCode": "AC9M6P01",
+    "bank": "practice",
+    "skill": "probability on a scale from 0 to 1",
+    "printable": true,
+    "type": "single",
+    "question": "While planning a class survey. The quantities or representation come from a fresh example. a student reasons, “Probability treated as a count”. Which response corrects the error?",
+    "audioPrompt": "While planning a class survey. The quantities or representation come from a fresh example. a student reasons, “Probability treated as a count”. Which response corrects the error?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      "Keep the claim because one example is enough.",
+      "Make the claim more certain without checking the quantities.",
+      "It is a relative value from 0 to 1."
+    ],
+    "correct": 2,
+    "explanation": "It is a relative value from 0 to 1.\nHint: Identify the exact misconception, then choose the correction that preserves the mathematics.",
+    "structuredExplanation": {
+      "summary": "It is a relative value from 0 to 1.",
+      "hint": "Identify the exact misconception, then choose the correction that preserves the mathematics."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m6p01-p-024",
+    "curriculumCode": "AC9M6P01",
+    "bank": "practice",
+    "skill": "probability on a scale from 0 to 1",
+    "printable": true,
+    "type": "single",
+    "question": "In a coding lesson. The quantities or representation come from a fresh example. a student reasons, “80% written as 80”. Which response corrects the error?",
+    "audioPrompt": "In a coding lesson. The quantities or representation come from a fresh example. a student reasons, “80% written as 80”. Which response corrects the error?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      "Write 0.8 on the probability scale.",
+      "Keep the claim because one example is enough.",
+      "Make the claim more certain without checking the quantities."
+    ],
+    "correct": 0,
+    "explanation": "Write 0.8 on the probability scale.\nHint: Identify the exact misconception, then choose the correction that preserves the mathematics.",
+    "structuredExplanation": {
+      "summary": "Write 0.8 on the probability scale.",
+      "hint": "Identify the exact misconception, then choose the correction that preserves the mathematics."
     },
     "qualitySchema": "production-v1"
   }

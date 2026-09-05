@@ -6,8 +6,8 @@
     "subject": "math",
     "bank": "practice",
     "skill": "multiplying_and_dividing_decimals_by_powers_of_10",
-    "question": "During a class investigation, a note says “10, 100, 1 000 and related repeated factors”. Which mathematical term labels it?",
-    "audio_prompt": "During a class investigation, a note says “10, 100, 1 000 and related repeated factors”. Which mathematical term labels it?",
+    "question": "During a class investigation, a student reasons, “Add zeros rule used with decimals”. Which response corrects the error?",
+    "audio_prompt": "During a class investigation, a student reasons, “Add zeros rule used with decimals”. Which response corrects the error?",
     "visual": {
       "type": "none",
       "asset_path": "",
@@ -15,25 +15,23 @@
     },
     "answers": [
       {
-        "text": "place-value shift",
+        "text": "Keep the claim because one example is enough.",
         "is_correct": false
       },
       {
-        "text": "scaling",
+        "text": "Make the claim more certain without checking the quantities.",
         "is_correct": false
       },
       {
-        "text": "power of 10",
+        "text": "Use place value; zeros may be placeholders, not a universal rule.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "power of 10 means 10, 100, 1 000 and related repeated factors.",
-      "hint": "Match every feature of the description to the mathematical term."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "Use place value; zeros may be placeholders, not a universal rule.",
+      "hint": "Identify the exact misconception, then choose the correction that preserves the mathematics."
+    }
   },
   {
     "id": "ac9m6n06-p-002",
@@ -42,8 +40,8 @@
     "subject": "math",
     "bank": "practice",
     "skill": "multiplying_and_dividing_decimals_by_powers_of_10",
-    "question": "At the school market, a note says “change in the value represented by each digit”. Which mathematical term labels it?",
-    "audio_prompt": "At the school market, a note says “change in the value represented by each digit”. Which mathematical term labels it?",
+    "question": "At the school market, a student reasons, “Decimal point said to move”. Which response corrects the error?",
+    "audio_prompt": "At the school market, a student reasons, “Decimal point said to move”. Which response corrects the error?",
     "visual": {
       "type": "none",
       "asset_path": "",
@@ -51,26 +49,23 @@
     },
     "answers": [
       {
-        "text": "place-value shift",
+        "text": "Digits change place value relative to the fixed point.",
         "is_correct": true
       },
       {
-        "text": "power of 10",
+        "text": "Keep the claim because one example is enough.",
         "is_correct": false
       },
       {
-        "text": "scaling",
+        "text": "Make the claim more certain without checking the quantities.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "place-value shift means change in the value represented by each digit.",
-      "hint": "Match every feature of the description to the mathematical term."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+      "summary": "Digits change place value relative to the fixed point.",
+      "hint": "Identify the exact misconception, then choose the correction that preserves the mathematics."
+    }
   },
   {
     "id": "ac9m6n06-p-003",
@@ -79,8 +74,8 @@
     "subject": "math",
     "bank": "practice",
     "skill": "multiplying_and_dividing_decimals_by_powers_of_10",
-    "question": "While planning a garden, a note says “multiplying quantities by a common factor”. Which mathematical term labels it?",
-    "audio_prompt": "While planning a garden, a note says “multiplying quantities by a common factor”. Which mathematical term labels it?",
+    "question": "While planning a garden, a student reasons, “Factor 300 treated as 3”. Which response corrects the error?",
+    "audio_prompt": "While planning a garden, a student reasons, “Factor 300 treated as 3”. Which response corrects the error?",
     "visual": {
       "type": "none",
       "asset_path": "",
@@ -88,26 +83,23 @@
     },
     "answers": [
       {
-        "text": "power of 10",
+        "text": "Keep the claim because one example is enough.",
         "is_correct": false
       },
       {
-        "text": "scaling",
+        "text": "Include the factor of 100.",
         "is_correct": true
       },
       {
-        "text": "place-value shift",
+        "text": "Make the claim more certain without checking the quantities.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "scaling means multiplying quantities by a common factor.",
-      "hint": "Match every feature of the description to the mathematical term."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+      "summary": "Include the factor of 100.",
+      "hint": "Identify the exact misconception, then choose the correction that preserves the mathematics."
+    }
   },
   {
     "id": "ac9m6n06-p-004",
@@ -116,8 +108,8 @@
     "subject": "math",
     "bank": "practice",
     "skill": "multiplying_and_dividing_decimals_by_powers_of_10",
-    "question": "In a robotics challenge, a student reasons, “Add zeros rule used with decimals”. Which response corrects the error?",
-    "audio_prompt": "In a robotics challenge, a student reasons, “Add zeros rule used with decimals”. Which response corrects the error?",
+    "question": "In a robotics challenge, a student reasons, “Division estimate omitted”. Which response corrects the error?",
+    "audio_prompt": "In a robotics challenge, a student reasons, “Division estimate omitted”. Which response corrects the error?",
     "visual": {
       "type": "none",
       "asset_path": "",
@@ -133,17 +125,15 @@
         "is_correct": false
       },
       {
-        "text": "Use place value; zeros may be placeholders, not a universal rule.",
+        "text": "Check quotient magnitude before accepting.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Use place value; zeros may be placeholders, not a universal rule.",
+      "summary": "Check quotient magnitude before accepting.",
       "hint": "Identify the exact misconception, then choose the correction that preserves the mathematics."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+    }
   },
   {
     "id": "ac9m6n06-p-005",
@@ -152,119 +142,11 @@
     "subject": "math",
     "bank": "practice",
     "skill": "multiplying_and_dividing_decimals_by_powers_of_10",
-    "question": "During sports-day planning, a student reasons, “Decimal point said to move”. Which response corrects the error?",
-    "audio_prompt": "During sports-day planning, a student reasons, “Decimal point said to move”. Which response corrects the error?",
-    "visual": {
-      "type": "none",
-      "asset_path": "",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Digits change place value relative to the fixed point.",
-        "is_correct": true
-      },
-      {
-        "text": "Keep the claim because one example is enough.",
-        "is_correct": false
-      },
-      {
-        "text": "Make the claim more certain without checking the quantities.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Digits change place value relative to the fixed point.",
-      "hint": "Identify the exact misconception, then choose the correction that preserves the mathematics."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "ac9m6n06-p-006",
-    "curriculum_code": "AC9M6N06",
-    "year_level": "Year 6",
-    "subject": "math",
-    "bank": "practice",
-    "skill": "multiplying_and_dividing_decimals_by_powers_of_10",
-    "question": "At a wildlife centre, a student reasons, “Factor 300 treated as 3”. Which response corrects the error?",
-    "audio_prompt": "At a wildlife centre, a student reasons, “Factor 300 treated as 3”. Which response corrects the error?",
-    "visual": {
-      "type": "none",
-      "asset_path": "",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Keep the claim because one example is enough.",
-        "is_correct": false
-      },
-      {
-        "text": "Include the factor of 100.",
-        "is_correct": true
-      },
-      {
-        "text": "Make the claim more certain without checking the quantities.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Include the factor of 100.",
-      "hint": "Identify the exact misconception, then choose the correction that preserves the mathematics."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "ac9m6n06-p-007",
-    "curriculum_code": "AC9M6N06",
-    "year_level": "Year 6",
-    "subject": "math",
-    "bank": "practice",
-    "skill": "multiplying_and_dividing_decimals_by_powers_of_10",
-    "question": "While checking a map, a student reasons, “Division estimate omitted”. Which response corrects the error?",
-    "audio_prompt": "While checking a map, a student reasons, “Division estimate omitted”. Which response corrects the error?",
-    "visual": {
-      "type": "none",
-      "asset_path": "",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Keep the claim because one example is enough.",
-        "is_correct": false
-      },
-      {
-        "text": "Make the claim more certain without checking the quantities.",
-        "is_correct": false
-      },
-      {
-        "text": "Check quotient magnitude before accepting.",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Check quotient magnitude before accepting.",
-      "hint": "Identify the exact misconception, then choose the correction that preserves the mathematics."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "ac9m6n06-p-008",
-    "curriculum_code": "AC9M6N06",
-    "year_level": "Year 6",
-    "subject": "math",
-    "bank": "practice",
-    "skill": "multiplying_and_dividing_decimals_by_powers_of_10",
-    "question": "In the makerspace, a Multiplying and Dividing Decimals by Powers of 10 organiser labels a row “4.275 × 10”. Which entry belongs in that row?",
-    "audio_prompt": "In the makerspace, a Multiplying and Dividing Decimals by Powers of 10 organiser labels a row “4.275 × 10”. Which entry belongs in that row?",
+    "question": "During sports-day planning, a Multiplying and Dividing Decimals by Powers of 10 organiser labels a row “4.275 × 10”. Which entry belongs in that row?",
+    "audio_prompt": "During sports-day planning, a Multiplying and Dividing Decimals by Powers of 10 organiser labels a row “4.275 × 10”. Which entry belongs in that row?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6n06.svg#ac9m6n06-p-008",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6n06.svg#ac9m6n06-p-005",
       "alt_text": "A Year 6 Multiplying and Dividing Decimals by Powers of 10 reasoning organiser highlighting 4.275 × 10."
     },
     "answers": [
@@ -285,22 +167,20 @@
     "explanation": {
       "summary": "The representation connects 4.275 × 10 with 42.75; each digit worth 10 times as much.",
       "hint": "Use the mathematical role of the entry, not a repeated word."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+    }
   },
   {
-    "id": "ac9m6n06-p-009",
+    "id": "ac9m6n06-p-006",
     "curriculum_code": "AC9M6N06",
     "year_level": "Year 6",
     "subject": "math",
     "bank": "practice",
     "skill": "multiplying_and_dividing_decimals_by_powers_of_10",
-    "question": "During a cooking project, a Multiplying and Dividing Decimals by Powers of 10 organiser labels a row “4.275 × 100”. Which entry belongs in that row?",
-    "audio_prompt": "During a cooking project, a Multiplying and Dividing Decimals by Powers of 10 organiser labels a row “4.275 × 100”. Which entry belongs in that row?",
+    "question": "At a wildlife centre, a Multiplying and Dividing Decimals by Powers of 10 organiser labels a row “4.275 × 100”. Which entry belongs in that row?",
+    "audio_prompt": "At a wildlife centre, a Multiplying and Dividing Decimals by Powers of 10 organiser labels a row “4.275 × 100”. Which entry belongs in that row?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6n06.svg#ac9m6n06-p-009",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6n06.svg#ac9m6n06-p-006",
       "alt_text": "A Year 6 Multiplying and Dividing Decimals by Powers of 10 reasoning organiser highlighting 4.275 × 100."
     },
     "answers": [
@@ -321,22 +201,20 @@
     "explanation": {
       "summary": "The representation connects 4.275 × 100 with 427.5; 100 times as much.",
       "hint": "Use the mathematical role of the entry, not a repeated word."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+    }
   },
   {
-    "id": "ac9m6n06-p-010",
+    "id": "ac9m6n06-p-007",
     "curriculum_code": "AC9M6N06",
     "year_level": "Year 6",
     "subject": "math",
     "bank": "practice",
     "skill": "multiplying_and_dividing_decimals_by_powers_of_10",
-    "question": "At the community fair, a Multiplying and Dividing Decimals by Powers of 10 organiser labels a row “4.275 ÷ 10”. Which entry belongs in that row?",
-    "audio_prompt": "At the community fair, a Multiplying and Dividing Decimals by Powers of 10 organiser labels a row “4.275 ÷ 10”. Which entry belongs in that row?",
+    "question": "While checking a map, a Multiplying and Dividing Decimals by Powers of 10 organiser labels a row “4.275 ÷ 10”. Which entry belongs in that row?",
+    "audio_prompt": "While checking a map, a Multiplying and Dividing Decimals by Powers of 10 organiser labels a row “4.275 ÷ 10”. Which entry belongs in that row?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6n06.svg#ac9m6n06-p-010",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6n06.svg#ac9m6n06-p-007",
       "alt_text": "A Year 6 Multiplying and Dividing Decimals by Powers of 10 reasoning organiser highlighting 4.275 ÷ 10."
     },
     "answers": [
@@ -357,19 +235,17 @@
     "explanation": {
       "summary": "The representation connects 4.275 ÷ 10 with 0.4275; one tenth as much.",
       "hint": "Use the mathematical role of the entry, not a repeated word."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+    }
   },
   {
-    "id": "ac9m6n06-p-011",
+    "id": "ac9m6n06-p-008",
     "curriculum_code": "AC9M6N06",
     "year_level": "Year 6",
     "subject": "math",
     "bank": "practice",
     "skill": "multiplying_and_dividing_decimals_by_powers_of_10",
-    "question": "While organising a library display, What is 4.275 × 100?",
-    "audio_prompt": "While organising a library display, What is 4.275 × 100?",
+    "question": "In the makerspace, What is 4.275 × 100?",
+    "audio_prompt": "In the makerspace, What is 4.275 × 100?",
     "visual": {
       "type": "none",
       "asset_path": "",
@@ -393,20 +269,17 @@
     "explanation": {
       "summary": "427.5 follows from the quantities and relationship in the question.",
       "hint": "Estimate or substitute to reject the tempting misconception."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    }
   },
   {
-    "id": "ac9m6n06-p-012",
+    "id": "ac9m6n06-p-009",
     "curriculum_code": "AC9M6N06",
     "year_level": "Year 6",
     "subject": "math",
     "bank": "practice",
     "skill": "multiplying_and_dividing_decimals_by_powers_of_10",
-    "question": "In a science notebook, Which expression is equivalent to 2.4 × 300?",
-    "audio_prompt": "In a science notebook, Which expression is equivalent to 2.4 × 300?",
+    "question": "During a cooking project, Which expression is equivalent to 2.4 × 300?",
+    "audio_prompt": "During a cooking project, Which expression is equivalent to 2.4 × 300?",
     "visual": {
       "type": "none",
       "asset_path": "",
@@ -430,130 +303,17 @@
     "explanation": {
       "summary": "2.4 × 3 × 100 follows from the quantities and relationship in the question.",
       "hint": "Estimate or substitute to reject the tempting misconception."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    }
   },
   {
-    "id": "ac9m6n06-p-013",
+    "id": "ac9m6n06-p-010",
     "curriculum_code": "AC9M6N06",
     "year_level": "Year 6",
     "subject": "math",
     "bank": "practice",
     "skill": "multiplying_and_dividing_decimals_by_powers_of_10",
-    "question": "During a design challenge. The quantities or representation come from a fresh example. a note says “10, 100, 1 000 and related repeated factors”. Which mathematical term labels it?",
-    "audio_prompt": "During a design challenge. The quantities or representation come from a fresh example. a note says “10, 100, 1 000 and related repeated factors”. Which mathematical term labels it?",
-    "visual": {
-      "type": "none",
-      "asset_path": "",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "place-value shift",
-        "is_correct": false
-      },
-      {
-        "text": "scaling",
-        "is_correct": false
-      },
-      {
-        "text": "power of 10",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "power of 10 means 10, 100, 1 000 and related repeated factors.",
-      "hint": "Match every feature of the description to the mathematical term."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "ac9m6n06-p-014",
-    "curriculum_code": "AC9M6N06",
-    "year_level": "Year 6",
-    "subject": "math",
-    "bank": "practice",
-    "skill": "multiplying_and_dividing_decimals_by_powers_of_10",
-    "question": "At the school canteen. The quantities or representation come from a fresh example. a note says “change in the value represented by each digit”. Which mathematical term labels it?",
-    "audio_prompt": "At the school canteen. The quantities or representation come from a fresh example. a note says “change in the value represented by each digit”. Which mathematical term labels it?",
-    "visual": {
-      "type": "none",
-      "asset_path": "",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "place-value shift",
-        "is_correct": true
-      },
-      {
-        "text": "power of 10",
-        "is_correct": false
-      },
-      {
-        "text": "scaling",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "place-value shift means change in the value represented by each digit.",
-      "hint": "Match every feature of the description to the mathematical term."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
-  },
-  {
-    "id": "ac9m6n06-p-015",
-    "curriculum_code": "AC9M6N06",
-    "year_level": "Year 6",
-    "subject": "math",
-    "bank": "practice",
-    "skill": "multiplying_and_dividing_decimals_by_powers_of_10",
-    "question": "While comparing travel plans. The quantities or representation come from a fresh example. a note says “multiplying quantities by a common factor”. Which mathematical term labels it?",
-    "audio_prompt": "While comparing travel plans. The quantities or representation come from a fresh example. a note says “multiplying quantities by a common factor”. Which mathematical term labels it?",
-    "visual": {
-      "type": "none",
-      "asset_path": "",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "power of 10",
-        "is_correct": false
-      },
-      {
-        "text": "scaling",
-        "is_correct": true
-      },
-      {
-        "text": "place-value shift",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "scaling means multiplying quantities by a common factor.",
-      "hint": "Match every feature of the description to the mathematical term."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
-  },
-  {
-    "id": "ac9m6n06-p-016",
-    "curriculum_code": "AC9M6N06",
-    "year_level": "Year 6",
-    "subject": "math",
-    "bank": "practice",
-    "skill": "multiplying_and_dividing_decimals_by_powers_of_10",
-    "question": "In a data workshop. The quantities or representation come from a fresh example. a student reasons, “Add zeros rule used with decimals”. Which response corrects the error?",
-    "audio_prompt": "In a data workshop. The quantities or representation come from a fresh example. a student reasons, “Add zeros rule used with decimals”. Which response corrects the error?",
+    "question": "At the community fair. The quantities or representation come from a fresh example. a student reasons, “Add zeros rule used with decimals”. Which response corrects the error?",
+    "audio_prompt": "At the community fair. The quantities or representation come from a fresh example. a student reasons, “Add zeros rule used with decimals”. Which response corrects the error?",
     "visual": {
       "type": "none",
       "asset_path": "",
@@ -577,19 +337,17 @@
     "explanation": {
       "summary": "Use place value; zeros may be placeholders, not a universal rule.",
       "hint": "Identify the exact misconception, then choose the correction that preserves the mathematics."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+    }
   },
   {
-    "id": "ac9m6n06-p-017",
+    "id": "ac9m6n06-p-011",
     "curriculum_code": "AC9M6N06",
     "year_level": "Year 6",
     "subject": "math",
     "bank": "practice",
     "skill": "multiplying_and_dividing_decimals_by_powers_of_10",
-    "question": "During a building project. The quantities or representation come from a fresh example. a student reasons, “Decimal point said to move”. Which response corrects the error?",
-    "audio_prompt": "During a building project. The quantities or representation come from a fresh example. a student reasons, “Decimal point said to move”. Which response corrects the error?",
+    "question": "While organising a library display. The quantities or representation come from a fresh example. a student reasons, “Decimal point said to move”. Which response corrects the error?",
+    "audio_prompt": "While organising a library display. The quantities or representation come from a fresh example. a student reasons, “Decimal point said to move”. Which response corrects the error?",
     "visual": {
       "type": "none",
       "asset_path": "",
@@ -613,19 +371,17 @@
     "explanation": {
       "summary": "Digits change place value relative to the fixed point.",
       "hint": "Identify the exact misconception, then choose the correction that preserves the mathematics."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+    }
   },
   {
-    "id": "ac9m6n06-p-018",
+    "id": "ac9m6n06-p-012",
     "curriculum_code": "AC9M6N06",
     "year_level": "Year 6",
     "subject": "math",
     "bank": "practice",
     "skill": "multiplying_and_dividing_decimals_by_powers_of_10",
-    "question": "At the local pool. The quantities or representation come from a fresh example. a student reasons, “Factor 300 treated as 3”. Which response corrects the error?",
-    "audio_prompt": "At the local pool. The quantities or representation come from a fresh example. a student reasons, “Factor 300 treated as 3”. Which response corrects the error?",
+    "question": "In a science notebook. The quantities or representation come from a fresh example. a student reasons, “Factor 300 treated as 3”. Which response corrects the error?",
+    "audio_prompt": "In a science notebook. The quantities or representation come from a fresh example. a student reasons, “Factor 300 treated as 3”. Which response corrects the error?",
     "visual": {
       "type": "none",
       "asset_path": "",
@@ -649,19 +405,17 @@
     "explanation": {
       "summary": "Include the factor of 100.",
       "hint": "Identify the exact misconception, then choose the correction that preserves the mathematics."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+    }
   },
   {
-    "id": "ac9m6n06-p-019",
+    "id": "ac9m6n06-p-013",
     "curriculum_code": "AC9M6N06",
     "year_level": "Year 6",
     "subject": "math",
     "bank": "practice",
     "skill": "multiplying_and_dividing_decimals_by_powers_of_10",
-    "question": "While preparing an excursion. The quantities or representation come from a fresh example. a student reasons, “Division estimate omitted”. Which response corrects the error?",
-    "audio_prompt": "While preparing an excursion. The quantities or representation come from a fresh example. a student reasons, “Division estimate omitted”. Which response corrects the error?",
+    "question": "During a design challenge. The quantities or representation come from a fresh example. a student reasons, “Division estimate omitted”. Which response corrects the error?",
+    "audio_prompt": "During a design challenge. The quantities or representation come from a fresh example. a student reasons, “Division estimate omitted”. Which response corrects the error?",
     "visual": {
       "type": "none",
       "asset_path": "",
@@ -685,22 +439,20 @@
     "explanation": {
       "summary": "Check quotient magnitude before accepting.",
       "hint": "Identify the exact misconception, then choose the correction that preserves the mathematics."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+    }
   },
   {
-    "id": "ac9m6n06-p-020",
+    "id": "ac9m6n06-p-014",
     "curriculum_code": "AC9M6N06",
     "year_level": "Year 6",
     "subject": "math",
     "bank": "practice",
     "skill": "multiplying_and_dividing_decimals_by_powers_of_10",
-    "question": "In a games club. The quantities or representation come from a fresh example. a Multiplying and Dividing Decimals by Powers of 10 organiser labels a row “4.275 × 10”. Which entry belongs in that row?",
-    "audio_prompt": "In a games club. The quantities or representation come from a fresh example. a Multiplying and Dividing Decimals by Powers of 10 organiser labels a row “4.275 × 10”. Which entry belongs in that row?",
+    "question": "At the school canteen. The quantities or representation come from a fresh example. a Multiplying and Dividing Decimals by Powers of 10 organiser labels a row “4.275 × 10”. Which entry belongs in that row?",
+    "audio_prompt": "At the school canteen. The quantities or representation come from a fresh example. a Multiplying and Dividing Decimals by Powers of 10 organiser labels a row “4.275 × 10”. Which entry belongs in that row?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6n06.svg#ac9m6n06-p-020",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6n06.svg#ac9m6n06-p-014",
       "alt_text": "A Year 6 Multiplying and Dividing Decimals by Powers of 10 reasoning organiser highlighting 4.275 × 10."
     },
     "answers": [
@@ -721,22 +473,20 @@
     "explanation": {
       "summary": "The representation connects 4.275 × 10 with 42.75; each digit worth 10 times as much.",
       "hint": "Use the mathematical role of the entry, not a repeated word."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+    }
   },
   {
-    "id": "ac9m6n06-p-021",
+    "id": "ac9m6n06-p-015",
     "curriculum_code": "AC9M6N06",
     "year_level": "Year 6",
     "subject": "math",
     "bank": "practice",
     "skill": "multiplying_and_dividing_decimals_by_powers_of_10",
-    "question": "During an art project. The quantities or representation come from a fresh example. a Multiplying and Dividing Decimals by Powers of 10 organiser labels a row “4.275 × 100”. Which entry belongs in that row?",
-    "audio_prompt": "During an art project. The quantities or representation come from a fresh example. a Multiplying and Dividing Decimals by Powers of 10 organiser labels a row “4.275 × 100”. Which entry belongs in that row?",
+    "question": "While comparing travel plans. The quantities or representation come from a fresh example. a Multiplying and Dividing Decimals by Powers of 10 organiser labels a row “4.275 × 100”. Which entry belongs in that row?",
+    "audio_prompt": "While comparing travel plans. The quantities or representation come from a fresh example. a Multiplying and Dividing Decimals by Powers of 10 organiser labels a row “4.275 × 100”. Which entry belongs in that row?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6n06.svg#ac9m6n06-p-021",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6n06.svg#ac9m6n06-p-015",
       "alt_text": "A Year 6 Multiplying and Dividing Decimals by Powers of 10 reasoning organiser highlighting 4.275 × 100."
     },
     "answers": [
@@ -757,22 +507,20 @@
     "explanation": {
       "summary": "The representation connects 4.275 × 100 with 427.5; 100 times as much.",
       "hint": "Use the mathematical role of the entry, not a repeated word."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+    }
   },
   {
-    "id": "ac9m6n06-p-022",
+    "id": "ac9m6n06-p-016",
     "curriculum_code": "AC9M6N06",
     "year_level": "Year 6",
     "subject": "math",
     "bank": "practice",
     "skill": "multiplying_and_dividing_decimals_by_powers_of_10",
-    "question": "At the recycling station. The quantities or representation come from a fresh example. a Multiplying and Dividing Decimals by Powers of 10 organiser labels a row “4.275 ÷ 10”. Which entry belongs in that row?",
-    "audio_prompt": "At the recycling station. The quantities or representation come from a fresh example. a Multiplying and Dividing Decimals by Powers of 10 organiser labels a row “4.275 ÷ 10”. Which entry belongs in that row?",
+    "question": "In a data workshop. The quantities or representation come from a fresh example. a Multiplying and Dividing Decimals by Powers of 10 organiser labels a row “4.275 ÷ 10”. Which entry belongs in that row?",
+    "audio_prompt": "In a data workshop. The quantities or representation come from a fresh example. a Multiplying and Dividing Decimals by Powers of 10 organiser labels a row “4.275 ÷ 10”. Which entry belongs in that row?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6n06.svg#ac9m6n06-p-022",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6n06.svg#ac9m6n06-p-016",
       "alt_text": "A Year 6 Multiplying and Dividing Decimals by Powers of 10 reasoning organiser highlighting 4.275 ÷ 10."
     },
     "answers": [
@@ -793,19 +541,17 @@
     "explanation": {
       "summary": "The representation connects 4.275 ÷ 10 with 0.4275; one tenth as much.",
       "hint": "Use the mathematical role of the entry, not a repeated word."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+    }
   },
   {
-    "id": "ac9m6n06-p-023",
+    "id": "ac9m6n06-p-017",
     "curriculum_code": "AC9M6N06",
     "year_level": "Year 6",
     "subject": "math",
     "bank": "practice",
     "skill": "multiplying_and_dividing_decimals_by_powers_of_10",
-    "question": "While planning a class survey. The quantities or representation come from a fresh example. What is 4.275 × 100?",
-    "audio_prompt": "While planning a class survey. The quantities or representation come from a fresh example. What is 4.275 × 100?",
+    "question": "During a building project. The quantities or representation come from a fresh example. What is 4.275 × 100?",
+    "audio_prompt": "During a building project. The quantities or representation come from a fresh example. What is 4.275 × 100?",
     "visual": {
       "type": "none",
       "asset_path": "",
@@ -829,20 +575,17 @@
     "explanation": {
       "summary": "427.5 follows from the quantities and relationship in the question.",
       "hint": "Estimate or substitute to reject the tempting misconception."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    }
   },
   {
-    "id": "ac9m6n06-p-024",
+    "id": "ac9m6n06-p-018",
     "curriculum_code": "AC9M6N06",
     "year_level": "Year 6",
     "subject": "math",
     "bank": "practice",
     "skill": "multiplying_and_dividing_decimals_by_powers_of_10",
-    "question": "In a coding lesson. The quantities or representation come from a fresh example. Which expression is equivalent to 2.4 × 300?",
-    "audio_prompt": "In a coding lesson. The quantities or representation come from a fresh example. Which expression is equivalent to 2.4 × 300?",
+    "question": "At the local pool. The quantities or representation come from a fresh example. Which expression is equivalent to 2.4 × 300?",
+    "audio_prompt": "At the local pool. The quantities or representation come from a fresh example. Which expression is equivalent to 2.4 × 300?",
     "visual": {
       "type": "none",
       "asset_path": "",
@@ -866,10 +609,211 @@
     "explanation": {
       "summary": "2.4 × 3 × 100 follows from the quantities and relationship in the question.",
       "hint": "Estimate or substitute to reject the tempting misconception."
+    }
+  },
+  {
+    "id": "ac9m6n06-p-019",
+    "curriculum_code": "AC9M6N06",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "multiplying_and_dividing_decimals_by_powers_of_10",
+    "question": "While preparing an excursion. The quantities or representation come from a fresh example. a student reasons, “Add zeros rule used with decimals”. Which response corrects the error?",
+    "audio_prompt": "While preparing an excursion. The quantities or representation come from a fresh example. a student reasons, “Add zeros rule used with decimals”. Which response corrects the error?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "answers": [
+      {
+        "text": "Keep the claim because one example is enough.",
+        "is_correct": false
+      },
+      {
+        "text": "Make the claim more certain without checking the quantities.",
+        "is_correct": false
+      },
+      {
+        "text": "Use place value; zeros may be placeholders, not a universal rule.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Use place value; zeros may be placeholders, not a universal rule.",
+      "hint": "Identify the exact misconception, then choose the correction that preserves the mathematics."
+    }
+  },
+  {
+    "id": "ac9m6n06-p-020",
+    "curriculum_code": "AC9M6N06",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "multiplying_and_dividing_decimals_by_powers_of_10",
+    "question": "In a games club. The quantities or representation come from a fresh example. a student reasons, “Decimal point said to move”. Which response corrects the error?",
+    "audio_prompt": "In a games club. The quantities or representation come from a fresh example. a student reasons, “Decimal point said to move”. Which response corrects the error?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Digits change place value relative to the fixed point.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep the claim because one example is enough.",
+        "is_correct": false
+      },
+      {
+        "text": "Make the claim more certain without checking the quantities.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Digits change place value relative to the fixed point.",
+      "hint": "Identify the exact misconception, then choose the correction that preserves the mathematics."
+    }
+  },
+  {
+    "id": "ac9m6n06-p-021",
+    "curriculum_code": "AC9M6N06",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "multiplying_and_dividing_decimals_by_powers_of_10",
+    "question": "During an art project. The quantities or representation come from a fresh example. a student reasons, “Factor 300 treated as 3”. Which response corrects the error?",
+    "audio_prompt": "During an art project. The quantities or representation come from a fresh example. a student reasons, “Factor 300 treated as 3”. Which response corrects the error?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Keep the claim because one example is enough.",
+        "is_correct": false
+      },
+      {
+        "text": "Include the factor of 100.",
+        "is_correct": true
+      },
+      {
+        "text": "Make the claim more certain without checking the quantities.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Include the factor of 100.",
+      "hint": "Identify the exact misconception, then choose the correction that preserves the mathematics."
+    }
+  },
+  {
+    "id": "ac9m6n06-p-022",
+    "curriculum_code": "AC9M6N06",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "multiplying_and_dividing_decimals_by_powers_of_10",
+    "question": "At the recycling station. The quantities or representation come from a fresh example. a student reasons, “Division estimate omitted”. Which response corrects the error?",
+    "audio_prompt": "At the recycling station. The quantities or representation come from a fresh example. a student reasons, “Division estimate omitted”. Which response corrects the error?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Keep the claim because one example is enough.",
+        "is_correct": false
+      },
+      {
+        "text": "Make the claim more certain without checking the quantities.",
+        "is_correct": false
+      },
+      {
+        "text": "Check quotient magnitude before accepting.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Check quotient magnitude before accepting.",
+      "hint": "Identify the exact misconception, then choose the correction that preserves the mathematics."
+    }
+  },
+  {
+    "id": "ac9m6n06-p-023",
+    "curriculum_code": "AC9M6N06",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "multiplying_and_dividing_decimals_by_powers_of_10",
+    "question": "While planning a class survey. The quantities or representation come from a fresh example. a Multiplying and Dividing Decimals by Powers of 10 organiser labels a row “4.275 × 10”. Which entry belongs in that row?",
+    "audio_prompt": "While planning a class survey. The quantities or representation come from a fresh example. a Multiplying and Dividing Decimals by Powers of 10 organiser labels a row “4.275 × 10”. Which entry belongs in that row?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6n06.svg#ac9m6n06-p-023",
+      "alt_text": "A Year 6 Multiplying and Dividing Decimals by Powers of 10 reasoning organiser highlighting 4.275 × 10."
+    },
+    "answers": [
+      {
+        "text": "42.75; each digit worth 10 times as much",
+        "is_correct": true
+      },
+      {
+        "text": "result; digit-value change",
+        "is_correct": false
+      },
+      {
+        "text": "427.5; 100 times as much",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The representation connects 4.275 × 10 with 42.75; each digit worth 10 times as much.",
+      "hint": "Use the mathematical role of the entry, not a repeated word."
+    }
+  },
+  {
+    "id": "ac9m6n06-p-024",
+    "curriculum_code": "AC9M6N06",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "multiplying_and_dividing_decimals_by_powers_of_10",
+    "question": "In a coding lesson. The quantities or representation come from a fresh example. a Multiplying and Dividing Decimals by Powers of 10 organiser labels a row “4.275 × 100”. Which entry belongs in that row?",
+    "audio_prompt": "In a coding lesson. The quantities or representation come from a fresh example. a Multiplying and Dividing Decimals by Powers of 10 organiser labels a row “4.275 × 100”. Which entry belongs in that row?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6n06.svg#ac9m6n06-p-024",
+      "alt_text": "A Year 6 Multiplying and Dividing Decimals by Powers of 10 reasoning organiser highlighting 4.275 × 100."
+    },
+    "answers": [
+      {
+        "text": "result; digit-value change",
+        "is_correct": false
+      },
+      {
+        "text": "427.5; 100 times as much",
+        "is_correct": true
+      },
+      {
+        "text": "42.75; each digit worth 10 times as much",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The representation connects 4.275 × 100 with 427.5; 100 times as much.",
+      "hint": "Use the mathematical role of the entry, not a repeated word."
+    }
   },
   {
     "id": "ac9m6n06-t-001",
@@ -1184,110 +1128,8 @@
     "subject": "math",
     "bank": "test",
     "skill": "multiplying_and_dividing_decimals_by_powers_of_10",
-    "question": "At a music festival, a student uses the term “scaling”. Which description shows it correctly?",
-    "audio_prompt": "At a music festival, a student uses the term “scaling”. Which description shows it correctly?",
-    "visual": {
-      "type": "none",
-      "asset_path": "",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "multiplying quantities by a common factor",
-        "is_correct": true
-      },
-      {
-        "text": "10, 100, 1 000 and related repeated factors",
-        "is_correct": false
-      },
-      {
-        "text": "change in the value represented by each digit",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "scaling means multiplying quantities by a common factor.",
-      "hint": "Match every feature of the description to the mathematical term."
-    }
-  },
-  {
-    "id": "ac9m6n06-t-011",
-    "curriculum_code": "AC9M6N06",
-    "year_level": "Year 6",
-    "subject": "math",
-    "bank": "test",
-    "skill": "multiplying_and_dividing_decimals_by_powers_of_10",
-    "question": "While organising a book drive, a student uses the term “place-value shift”. Which description shows it correctly?",
-    "audio_prompt": "While organising a book drive, a student uses the term “place-value shift”. Which description shows it correctly?",
-    "visual": {
-      "type": "none",
-      "asset_path": "",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "10, 100, 1 000 and related repeated factors",
-        "is_correct": false
-      },
-      {
-        "text": "change in the value represented by each digit",
-        "is_correct": true
-      },
-      {
-        "text": "multiplying quantities by a common factor",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "place-value shift means change in the value represented by each digit.",
-      "hint": "Match every feature of the description to the mathematical term."
-    }
-  },
-  {
-    "id": "ac9m6n06-t-012",
-    "curriculum_code": "AC9M6N06",
-    "year_level": "Year 6",
-    "subject": "math",
-    "bank": "test",
-    "skill": "multiplying_and_dividing_decimals_by_powers_of_10",
-    "question": "In an environmental study, a student uses the term “power of 10”. Which description shows it correctly?",
-    "audio_prompt": "In an environmental study, a student uses the term “power of 10”. Which description shows it correctly?",
-    "visual": {
-      "type": "none",
-      "asset_path": "",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "change in the value represented by each digit",
-        "is_correct": false
-      },
-      {
-        "text": "multiplying quantities by a common factor",
-        "is_correct": false
-      },
-      {
-        "text": "10, 100, 1 000 and related repeated factors",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "power of 10 means 10, 100, 1 000 and related repeated factors.",
-      "hint": "Match every feature of the description to the mathematical term."
-    }
-  },
-  {
-    "id": "ac9m6n06-t-013",
-    "curriculum_code": "AC9M6N06",
-    "year_level": "Year 6",
-    "subject": "math",
-    "bank": "test",
-    "skill": "multiplying_and_dividing_decimals_by_powers_of_10",
-    "question": "During a playground redesign. The quantities or representation come from a fresh example. another student selected “2.4 × 3”. Reconsider the evidence: Which expression is equivalent to 2.4 × 300?",
-    "audio_prompt": "During a playground redesign. The quantities or representation come from a fresh example. another student selected “2.4 × 3”. Reconsider the evidence: Which expression is equivalent to 2.4 × 300?",
+    "question": "At a music festival. The quantities or representation come from a fresh example. another student selected “2.4 × 3”. Reconsider the evidence: Which expression is equivalent to 2.4 × 300?",
+    "audio_prompt": "At a music festival. The quantities or representation come from a fresh example. another student selected “2.4 × 3”. Reconsider the evidence: Which expression is equivalent to 2.4 × 300?",
     "visual": {
       "type": "none",
       "asset_path": "",
@@ -1314,14 +1156,14 @@
     }
   },
   {
-    "id": "ac9m6n06-t-014",
+    "id": "ac9m6n06-t-011",
     "curriculum_code": "AC9M6N06",
     "year_level": "Year 6",
     "subject": "math",
     "bank": "test",
     "skill": "multiplying_and_dividing_decimals_by_powers_of_10",
-    "question": "At a transport depot. The quantities or representation come from a fresh example. another student selected “42.75”. Reconsider the evidence: What is 4.275 × 100?",
-    "audio_prompt": "At a transport depot. The quantities or representation come from a fresh example. another student selected “42.75”. Reconsider the evidence: What is 4.275 × 100?",
+    "question": "While organising a book drive. The quantities or representation come from a fresh example. another student selected “42.75”. Reconsider the evidence: What is 4.275 × 100?",
+    "audio_prompt": "While organising a book drive. The quantities or representation come from a fresh example. another student selected “42.75”. Reconsider the evidence: What is 4.275 × 100?",
     "visual": {
       "type": "none",
       "asset_path": "",
@@ -1348,17 +1190,17 @@
     }
   },
   {
-    "id": "ac9m6n06-t-015",
+    "id": "ac9m6n06-t-012",
     "curriculum_code": "AC9M6N06",
     "year_level": "Year 6",
     "subject": "math",
     "bank": "test",
     "skill": "multiplying_and_dividing_decimals_by_powers_of_10",
-    "question": "While preparing a camping trip. The quantities or representation come from a fresh example. a Multiplying and Dividing Decimals by Powers of 10 organiser contains “0.4275; one tenth as much”. Which heading best identifies that information?",
-    "audio_prompt": "While preparing a camping trip. The quantities or representation come from a fresh example. a Multiplying and Dividing Decimals by Powers of 10 organiser contains “0.4275; one tenth as much”. Which heading best identifies that information?",
+    "question": "In an environmental study. The quantities or representation come from a fresh example. a Multiplying and Dividing Decimals by Powers of 10 organiser contains “0.4275; one tenth as much”. Which heading best identifies that information?",
+    "audio_prompt": "In an environmental study. The quantities or representation come from a fresh example. a Multiplying and Dividing Decimals by Powers of 10 organiser contains “0.4275; one tenth as much”. Which heading best identifies that information?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6n06.svg#ac9m6n06-t-015",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6n06.svg#ac9m6n06-t-012",
       "alt_text": "A Year 6 Multiplying and Dividing Decimals by Powers of 10 reasoning organiser highlighting 4.275 ÷ 10."
     },
     "answers": [
@@ -1382,17 +1224,17 @@
     }
   },
   {
-    "id": "ac9m6n06-t-016",
+    "id": "ac9m6n06-t-013",
     "curriculum_code": "AC9M6N06",
     "year_level": "Year 6",
     "subject": "math",
     "bank": "test",
     "skill": "multiplying_and_dividing_decimals_by_powers_of_10",
-    "question": "In a strategy tournament. The quantities or representation come from a fresh example. a Multiplying and Dividing Decimals by Powers of 10 organiser contains “427.5; 100 times as much”. Which heading best identifies that information?",
-    "audio_prompt": "In a strategy tournament. The quantities or representation come from a fresh example. a Multiplying and Dividing Decimals by Powers of 10 organiser contains “427.5; 100 times as much”. Which heading best identifies that information?",
+    "question": "During a playground redesign. The quantities or representation come from a fresh example. a Multiplying and Dividing Decimals by Powers of 10 organiser contains “427.5; 100 times as much”. Which heading best identifies that information?",
+    "audio_prompt": "During a playground redesign. The quantities or representation come from a fresh example. a Multiplying and Dividing Decimals by Powers of 10 organiser contains “427.5; 100 times as much”. Which heading best identifies that information?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6n06.svg#ac9m6n06-t-016",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6n06.svg#ac9m6n06-t-013",
       "alt_text": "A Year 6 Multiplying and Dividing Decimals by Powers of 10 reasoning organiser highlighting 4.275 × 100."
     },
     "answers": [
@@ -1413,6 +1255,108 @@
     "explanation": {
       "summary": "The representation connects 4.275 × 100 with 427.5; 100 times as much.",
       "hint": "Use the mathematical role of the entry, not a repeated word."
+    }
+  },
+  {
+    "id": "ac9m6n06-t-014",
+    "curriculum_code": "AC9M6N06",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "test",
+    "skill": "multiplying_and_dividing_decimals_by_powers_of_10",
+    "question": "At a transport depot. The quantities or representation come from a fresh example. a Multiplying and Dividing Decimals by Powers of 10 organiser contains “42.75; each digit worth 10 times as much”. Which heading best identifies that information?",
+    "audio_prompt": "At a transport depot. The quantities or representation come from a fresh example. a Multiplying and Dividing Decimals by Powers of 10 organiser contains “42.75; each digit worth 10 times as much”. Which heading best identifies that information?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6n06.svg#ac9m6n06-t-014",
+      "alt_text": "A Year 6 Multiplying and Dividing Decimals by Powers of 10 reasoning organiser highlighting 4.275 × 10."
+    },
+    "answers": [
+      {
+        "text": "operation",
+        "is_correct": false
+      },
+      {
+        "text": "4.275 × 10",
+        "is_correct": true
+      },
+      {
+        "text": "4.275 × 100",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The representation connects 4.275 × 10 with 42.75; each digit worth 10 times as much.",
+      "hint": "Use the mathematical role of the entry, not a repeated word."
+    }
+  },
+  {
+    "id": "ac9m6n06-t-015",
+    "curriculum_code": "AC9M6N06",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "test",
+    "skill": "multiplying_and_dividing_decimals_by_powers_of_10",
+    "question": "While preparing a camping trip. The quantities or representation come from a fresh example. a review recommends, “Check quotient magnitude before accepting.” Which claim most clearly needs that correction?",
+    "audio_prompt": "While preparing a camping trip. The quantities or representation come from a fresh example. a review recommends, “Check quotient magnitude before accepting.” Which claim most clearly needs that correction?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Add zeros rule used with decimals",
+        "is_correct": false
+      },
+      {
+        "text": "Decimal point said to move",
+        "is_correct": false
+      },
+      {
+        "text": "Division estimate omitted",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Check quotient magnitude before accepting.",
+      "hint": "Identify the exact misconception, then choose the correction that preserves the mathematics."
+    }
+  },
+  {
+    "id": "ac9m6n06-t-016",
+    "curriculum_code": "AC9M6N06",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "test",
+    "skill": "multiplying_and_dividing_decimals_by_powers_of_10",
+    "question": "In a strategy tournament. The quantities or representation come from a fresh example. a review recommends, “Include the factor of 100.” Which claim most clearly needs that correction?",
+    "audio_prompt": "In a strategy tournament. The quantities or representation come from a fresh example. a review recommends, “Include the factor of 100.” Which claim most clearly needs that correction?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Factor 300 treated as 3",
+        "is_correct": true
+      },
+      {
+        "text": "Add zeros rule used with decimals",
+        "is_correct": false
+      },
+      {
+        "text": "Decimal point said to move",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Include the factor of 100.",
+      "hint": "Identify the exact misconception, then choose the correction that preserves the mathematics."
     }
   }
 ]

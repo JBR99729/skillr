@@ -6,119 +6,8 @@
     "subject": "math",
     "bank": "practice",
     "skill": "timetables_itineraries_and_journey_duration",
-    "question": "During a class investigation, a note says “scheduled times for repeated services or events”. Which mathematical term labels it?",
-    "audio_prompt": "During a class investigation, a note says “scheduled times for repeated services or events”. Which mathematical term labels it?",
-    "visual": {
-      "type": "none",
-      "asset_path": "",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "itinerary",
-        "is_correct": false
-      },
-      {
-        "text": "transfer time",
-        "is_correct": false
-      },
-      {
-        "text": "timetable",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "timetable means scheduled times for repeated services or events.",
-      "hint": "Match every feature of the description to the mathematical term."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
-  },
-  {
-    "id": "ac9m6m03-p-002",
-    "curriculum_code": "AC9M6M03",
-    "year_level": "Year 6",
-    "subject": "math",
-    "bank": "practice",
-    "skill": "timetables_itineraries_and_journey_duration",
-    "question": "At the school market, a note says “planned sequence of activities and journeys”. Which mathematical term labels it?",
-    "audio_prompt": "At the school market, a note says “planned sequence of activities and journeys”. Which mathematical term labels it?",
-    "visual": {
-      "type": "none",
-      "asset_path": "",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "itinerary",
-        "is_correct": true
-      },
-      {
-        "text": "timetable",
-        "is_correct": false
-      },
-      {
-        "text": "transfer time",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "itinerary means planned sequence of activities and journeys.",
-      "hint": "Match every feature of the description to the mathematical term."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
-  },
-  {
-    "id": "ac9m6m03-p-003",
-    "curriculum_code": "AC9M6M03",
-    "year_level": "Year 6",
-    "subject": "math",
-    "bank": "practice",
-    "skill": "timetables_itineraries_and_journey_duration",
-    "question": "While planning a garden, a note says “interval between connected journey stages”. Which mathematical term labels it?",
-    "audio_prompt": "While planning a garden, a note says “interval between connected journey stages”. Which mathematical term labels it?",
-    "visual": {
-      "type": "none",
-      "asset_path": "",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "timetable",
-        "is_correct": false
-      },
-      {
-        "text": "transfer time",
-        "is_correct": true
-      },
-      {
-        "text": "itinerary",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "transfer time means interval between connected journey stages.",
-      "hint": "Match every feature of the description to the mathematical term."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
-  },
-  {
-    "id": "ac9m6m03-p-004",
-    "curriculum_code": "AC9M6M03",
-    "year_level": "Year 6",
-    "subject": "math",
-    "bank": "practice",
-    "skill": "timetables_itineraries_and_journey_duration",
-    "question": "In a robotics challenge, a student reasons, “Travel times added but waits omitted”. Which response corrects the error?",
-    "audio_prompt": "In a robotics challenge, a student reasons, “Travel times added but waits omitted”. Which response corrects the error?",
+    "question": "During a class investigation, a student reasons, “Travel times added but waits omitted”. Which response corrects the error?",
+    "audio_prompt": "During a class investigation, a student reasons, “Travel times added but waits omitted”. Which response corrects the error?",
     "visual": {
       "type": "none",
       "asset_path": "",
@@ -142,19 +31,17 @@
     "explanation": {
       "summary": "Include every interval from start to finish.",
       "hint": "Identify the exact misconception, then choose the correction that preserves the mathematics."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+    }
   },
   {
-    "id": "ac9m6m03-p-005",
+    "id": "ac9m6m03-p-002",
     "curriculum_code": "AC9M6M03",
     "year_level": "Year 6",
     "subject": "math",
     "bank": "practice",
     "skill": "timetables_itineraries_and_journey_duration",
-    "question": "During sports-day planning, a student reasons, “Clock digits subtracted as decimals”. Which response corrects the error?",
-    "audio_prompt": "During sports-day planning, a student reasons, “Clock digits subtracted as decimals”. Which response corrects the error?",
+    "question": "At the school market, a student reasons, “Clock digits subtracted as decimals”. Which response corrects the error?",
+    "audio_prompt": "At the school market, a student reasons, “Clock digits subtracted as decimals”. Which response corrects the error?",
     "visual": {
       "type": "none",
       "asset_path": "",
@@ -178,19 +65,17 @@
     "explanation": {
       "summary": "Use 60-minute hours and timelines.",
       "hint": "Identify the exact misconception, then choose the correction that preserves the mathematics."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+    }
   },
   {
-    "id": "ac9m6m03-p-006",
+    "id": "ac9m6m03-p-003",
     "curriculum_code": "AC9M6M03",
     "year_level": "Year 6",
     "subject": "math",
     "bank": "practice",
     "skill": "timetables_itineraries_and_journey_duration",
-    "question": "At a wildlife centre, a student reasons, “Arrival before departure ignored”. Which response corrects the error?",
-    "audio_prompt": "At a wildlife centre, a student reasons, “Arrival before departure ignored”. Which response corrects the error?",
+    "question": "While planning a garden, a student reasons, “Arrival before departure ignored”. Which response corrects the error?",
+    "audio_prompt": "While planning a garden, a student reasons, “Arrival before departure ignored”. Which response corrects the error?",
     "visual": {
       "type": "none",
       "asset_path": "",
@@ -214,19 +99,17 @@
     "explanation": {
       "summary": "Check date, midnight and time zone.",
       "hint": "Identify the exact misconception, then choose the correction that preserves the mathematics."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+    }
   },
   {
-    "id": "ac9m6m03-p-007",
+    "id": "ac9m6m03-p-004",
     "curriculum_code": "AC9M6M03",
     "year_level": "Year 6",
     "subject": "math",
     "bank": "practice",
     "skill": "timetables_itineraries_and_journey_duration",
-    "question": "While checking a map, a student reasons, “Minimum transfer assumed safe”. Which response corrects the error?",
-    "audio_prompt": "While checking a map, a student reasons, “Minimum transfer assumed safe”. Which response corrects the error?",
+    "question": "In a robotics challenge, a student reasons, “Minimum transfer assumed safe”. Which response corrects the error?",
+    "audio_prompt": "In a robotics challenge, a student reasons, “Minimum transfer assumed safe”. Which response corrects the error?",
     "visual": {
       "type": "none",
       "asset_path": "",
@@ -250,22 +133,20 @@
     "explanation": {
       "summary": "Consider practical buffer when planning.",
       "hint": "Identify the exact misconception, then choose the correction that preserves the mathematics."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+    }
   },
   {
-    "id": "ac9m6m03-p-008",
+    "id": "ac9m6m03-p-005",
     "curriculum_code": "AC9M6M03",
     "year_level": "Year 6",
     "subject": "math",
     "bank": "practice",
     "skill": "timetables_itineraries_and_journey_duration",
-    "question": "In the makerspace, a Timetables, Itineraries and Journey Duration organiser labels a row “bus”. Which entry belongs in that row?",
-    "audio_prompt": "In the makerspace, a Timetables, Itineraries and Journey Duration organiser labels a row “bus”. Which entry belongs in that row?",
+    "question": "During sports-day planning, a Timetables, Itineraries and Journey Duration organiser labels a row “bus”. Which entry belongs in that row?",
+    "audio_prompt": "During sports-day planning, a Timetables, Itineraries and Journey Duration organiser labels a row “bus”. Which entry belongs in that row?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6m03.svg#ac9m6m03-p-008",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6m03.svg#ac9m6m03-p-005",
       "alt_text": "A Year 6 Timetables, Itineraries and Journey Duration reasoning organiser highlighting bus."
     },
     "answers": [
@@ -286,23 +167,20 @@
     "explanation": {
       "summary": "The representation connects bus with 08:35; 09:12; 37 min.",
       "hint": "Use the mathematical role of the entry, not a repeated word."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    }
   },
   {
-    "id": "ac9m6m03-p-009",
+    "id": "ac9m6m03-p-006",
     "curriculum_code": "AC9M6M03",
     "year_level": "Year 6",
     "subject": "math",
     "bank": "practice",
     "skill": "timetables_itineraries_and_journey_duration",
-    "question": "During a cooking project, a Timetables, Itineraries and Journey Duration organiser labels a row “transfer”. Which entry belongs in that row?",
-    "audio_prompt": "During a cooking project, a Timetables, Itineraries and Journey Duration organiser labels a row “transfer”. Which entry belongs in that row?",
+    "question": "At a wildlife centre, a Timetables, Itineraries and Journey Duration organiser labels a row “transfer”. Which entry belongs in that row?",
+    "audio_prompt": "At a wildlife centre, a Timetables, Itineraries and Journey Duration organiser labels a row “transfer”. Which entry belongs in that row?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6m03.svg#ac9m6m03-p-009",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6m03.svg#ac9m6m03-p-006",
       "alt_text": "A Year 6 Timetables, Itineraries and Journey Duration reasoning organiser highlighting transfer."
     },
     "answers": [
@@ -323,22 +201,20 @@
     "explanation": {
       "summary": "The representation connects transfer with 09:12; 09:28; 16 min.",
       "hint": "Use the mathematical role of the entry, not a repeated word."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+    }
   },
   {
-    "id": "ac9m6m03-p-010",
+    "id": "ac9m6m03-p-007",
     "curriculum_code": "AC9M6M03",
     "year_level": "Year 6",
     "subject": "math",
     "bank": "practice",
     "skill": "timetables_itineraries_and_journey_duration",
-    "question": "At the community fair, a Timetables, Itineraries and Journey Duration organiser labels a row “train”. Which entry belongs in that row?",
-    "audio_prompt": "At the community fair, a Timetables, Itineraries and Journey Duration organiser labels a row “train”. Which entry belongs in that row?",
+    "question": "While checking a map, a Timetables, Itineraries and Journey Duration organiser labels a row “train”. Which entry belongs in that row?",
+    "audio_prompt": "While checking a map, a Timetables, Itineraries and Journey Duration organiser labels a row “train”. Which entry belongs in that row?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6m03.svg#ac9m6m03-p-010",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6m03.svg#ac9m6m03-p-007",
       "alt_text": "A Year 6 Timetables, Itineraries and Journey Duration reasoning organiser highlighting train."
     },
     "answers": [
@@ -359,22 +235,20 @@
     "explanation": {
       "summary": "The representation connects train with 09:28; 11:05; 1 h 37 min.",
       "hint": "Use the mathematical role of the entry, not a repeated word."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+    }
   },
   {
-    "id": "ac9m6m03-p-011",
+    "id": "ac9m6m03-p-008",
     "curriculum_code": "AC9M6M03",
     "year_level": "Year 6",
     "subject": "math",
     "bank": "practice",
     "skill": "timetables_itineraries_and_journey_duration",
-    "question": "While organising a library display, a Timetables, Itineraries and Journey Duration organiser labels a row “total”. Which entry belongs in that row?",
-    "audio_prompt": "While organising a library display, a Timetables, Itineraries and Journey Duration organiser labels a row “total”. Which entry belongs in that row?",
+    "question": "In the makerspace, a Timetables, Itineraries and Journey Duration organiser labels a row “total”. Which entry belongs in that row?",
+    "audio_prompt": "In the makerspace, a Timetables, Itineraries and Journey Duration organiser labels a row “total”. Which entry belongs in that row?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6m03.svg#ac9m6m03-p-011",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6m03.svg#ac9m6m03-p-008",
       "alt_text": "A Year 6 Timetables, Itineraries and Journey Duration reasoning organiser highlighting total."
     },
     "answers": [
@@ -395,19 +269,17 @@
     "explanation": {
       "summary": "The representation connects total with 08:35; 11:05; 2 h 30 min.",
       "hint": "Use the mathematical role of the entry, not a repeated word."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+    }
   },
   {
-    "id": "ac9m6m03-p-012",
+    "id": "ac9m6m03-p-009",
     "curriculum_code": "AC9M6M03",
     "year_level": "Year 6",
     "subject": "math",
     "bank": "practice",
     "skill": "timetables_itineraries_and_journey_duration",
-    "question": "In a science notebook, What is the total duration from 08:35 to 11:05?",
-    "audio_prompt": "In a science notebook, What is the total duration from 08:35 to 11:05?",
+    "question": "During a cooking project, What is the total duration from 08:35 to 11:05?",
+    "audio_prompt": "During a cooking project, What is the total duration from 08:35 to 11:05?",
     "visual": {
       "type": "none",
       "asset_path": "",
@@ -431,19 +303,17 @@
     "explanation": {
       "summary": "2 h 30 min follows from the quantities and relationship in the question.",
       "hint": "Estimate or substitute to reject the tempting misconception."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+    }
   },
   {
-    "id": "ac9m6m03-p-013",
+    "id": "ac9m6m03-p-010",
     "curriculum_code": "AC9M6M03",
     "year_level": "Year 6",
     "subject": "math",
     "bank": "practice",
     "skill": "timetables_itineraries_and_journey_duration",
-    "question": "During a design challenge, Which itinerary is feasible?",
-    "audio_prompt": "During a design challenge, Which itinerary is feasible?",
+    "question": "At the community fair, Which itinerary is feasible?",
+    "audio_prompt": "At the community fair, Which itinerary is feasible?",
     "visual": {
       "type": "none",
       "asset_path": "",
@@ -467,131 +337,17 @@
     "explanation": {
       "summary": "A connection departing after arrival plus required transfer time follows from the quantities and relationship in the question.",
       "hint": "Estimate or substitute to reject the tempting misconception."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    }
   },
   {
-    "id": "ac9m6m03-p-014",
+    "id": "ac9m6m03-p-011",
     "curriculum_code": "AC9M6M03",
     "year_level": "Year 6",
     "subject": "math",
     "bank": "practice",
     "skill": "timetables_itineraries_and_journey_duration",
-    "question": "At the school canteen. The quantities or representation come from a fresh example. a note says “scheduled times for repeated services or events”. Which mathematical term labels it?",
-    "audio_prompt": "At the school canteen. The quantities or representation come from a fresh example. a note says “scheduled times for repeated services or events”. Which mathematical term labels it?",
-    "visual": {
-      "type": "none",
-      "asset_path": "",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "timetable",
-        "is_correct": true
-      },
-      {
-        "text": "itinerary",
-        "is_correct": false
-      },
-      {
-        "text": "transfer time",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "timetable means scheduled times for repeated services or events.",
-      "hint": "Match every feature of the description to the mathematical term."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
-  },
-  {
-    "id": "ac9m6m03-p-015",
-    "curriculum_code": "AC9M6M03",
-    "year_level": "Year 6",
-    "subject": "math",
-    "bank": "practice",
-    "skill": "timetables_itineraries_and_journey_duration",
-    "question": "While comparing travel plans. The quantities or representation come from a fresh example. a note says “planned sequence of activities and journeys”. Which mathematical term labels it?",
-    "audio_prompt": "While comparing travel plans. The quantities or representation come from a fresh example. a note says “planned sequence of activities and journeys”. Which mathematical term labels it?",
-    "visual": {
-      "type": "none",
-      "asset_path": "",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "timetable",
-        "is_correct": false
-      },
-      {
-        "text": "itinerary",
-        "is_correct": true
-      },
-      {
-        "text": "transfer time",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "itinerary means planned sequence of activities and journeys.",
-      "hint": "Match every feature of the description to the mathematical term."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
-  },
-  {
-    "id": "ac9m6m03-p-016",
-    "curriculum_code": "AC9M6M03",
-    "year_level": "Year 6",
-    "subject": "math",
-    "bank": "practice",
-    "skill": "timetables_itineraries_and_journey_duration",
-    "question": "In a data workshop. The quantities or representation come from a fresh example. a note says “interval between connected journey stages”. Which mathematical term labels it?",
-    "audio_prompt": "In a data workshop. The quantities or representation come from a fresh example. a note says “interval between connected journey stages”. Which mathematical term labels it?",
-    "visual": {
-      "type": "none",
-      "asset_path": "",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "timetable",
-        "is_correct": false
-      },
-      {
-        "text": "itinerary",
-        "is_correct": false
-      },
-      {
-        "text": "transfer time",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "transfer time means interval between connected journey stages.",
-      "hint": "Match every feature of the description to the mathematical term."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
-  },
-  {
-    "id": "ac9m6m03-p-017",
-    "curriculum_code": "AC9M6M03",
-    "year_level": "Year 6",
-    "subject": "math",
-    "bank": "practice",
-    "skill": "timetables_itineraries_and_journey_duration",
-    "question": "During a building project. The quantities or representation come from a fresh example. a student reasons, “Travel times added but waits omitted”. Which response corrects the error?",
-    "audio_prompt": "During a building project. The quantities or representation come from a fresh example. a student reasons, “Travel times added but waits omitted”. Which response corrects the error?",
+    "question": "While organising a library display. The quantities or representation come from a fresh example. a student reasons, “Travel times added but waits omitted”. Which response corrects the error?",
+    "audio_prompt": "While organising a library display. The quantities or representation come from a fresh example. a student reasons, “Travel times added but waits omitted”. Which response corrects the error?",
     "visual": {
       "type": "none",
       "asset_path": "",
@@ -615,19 +371,17 @@
     "explanation": {
       "summary": "Include every interval from start to finish.",
       "hint": "Identify the exact misconception, then choose the correction that preserves the mathematics."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+    }
   },
   {
-    "id": "ac9m6m03-p-018",
+    "id": "ac9m6m03-p-012",
     "curriculum_code": "AC9M6M03",
     "year_level": "Year 6",
     "subject": "math",
     "bank": "practice",
     "skill": "timetables_itineraries_and_journey_duration",
-    "question": "At the local pool. The quantities or representation come from a fresh example. a student reasons, “Clock digits subtracted as decimals”. Which response corrects the error?",
-    "audio_prompt": "At the local pool. The quantities or representation come from a fresh example. a student reasons, “Clock digits subtracted as decimals”. Which response corrects the error?",
+    "question": "In a science notebook. The quantities or representation come from a fresh example. a student reasons, “Clock digits subtracted as decimals”. Which response corrects the error?",
+    "audio_prompt": "In a science notebook. The quantities or representation come from a fresh example. a student reasons, “Clock digits subtracted as decimals”. Which response corrects the error?",
     "visual": {
       "type": "none",
       "asset_path": "",
@@ -651,19 +405,17 @@
     "explanation": {
       "summary": "Use 60-minute hours and timelines.",
       "hint": "Identify the exact misconception, then choose the correction that preserves the mathematics."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+    }
   },
   {
-    "id": "ac9m6m03-p-019",
+    "id": "ac9m6m03-p-013",
     "curriculum_code": "AC9M6M03",
     "year_level": "Year 6",
     "subject": "math",
     "bank": "practice",
     "skill": "timetables_itineraries_and_journey_duration",
-    "question": "While preparing an excursion. The quantities or representation come from a fresh example. a student reasons, “Arrival before departure ignored”. Which response corrects the error?",
-    "audio_prompt": "While preparing an excursion. The quantities or representation come from a fresh example. a student reasons, “Arrival before departure ignored”. Which response corrects the error?",
+    "question": "During a design challenge. The quantities or representation come from a fresh example. a student reasons, “Arrival before departure ignored”. Which response corrects the error?",
+    "audio_prompt": "During a design challenge. The quantities or representation come from a fresh example. a student reasons, “Arrival before departure ignored”. Which response corrects the error?",
     "visual": {
       "type": "none",
       "asset_path": "",
@@ -687,19 +439,17 @@
     "explanation": {
       "summary": "Check date, midnight and time zone.",
       "hint": "Identify the exact misconception, then choose the correction that preserves the mathematics."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+    }
   },
   {
-    "id": "ac9m6m03-p-020",
+    "id": "ac9m6m03-p-014",
     "curriculum_code": "AC9M6M03",
     "year_level": "Year 6",
     "subject": "math",
     "bank": "practice",
     "skill": "timetables_itineraries_and_journey_duration",
-    "question": "In a games club. The quantities or representation come from a fresh example. a student reasons, “Minimum transfer assumed safe”. Which response corrects the error?",
-    "audio_prompt": "In a games club. The quantities or representation come from a fresh example. a student reasons, “Minimum transfer assumed safe”. Which response corrects the error?",
+    "question": "At the school canteen. The quantities or representation come from a fresh example. a student reasons, “Minimum transfer assumed safe”. Which response corrects the error?",
+    "audio_prompt": "At the school canteen. The quantities or representation come from a fresh example. a student reasons, “Minimum transfer assumed safe”. Which response corrects the error?",
     "visual": {
       "type": "none",
       "asset_path": "",
@@ -723,22 +473,20 @@
     "explanation": {
       "summary": "Consider practical buffer when planning.",
       "hint": "Identify the exact misconception, then choose the correction that preserves the mathematics."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+    }
   },
   {
-    "id": "ac9m6m03-p-021",
+    "id": "ac9m6m03-p-015",
     "curriculum_code": "AC9M6M03",
     "year_level": "Year 6",
     "subject": "math",
     "bank": "practice",
     "skill": "timetables_itineraries_and_journey_duration",
-    "question": "During an art project. The quantities or representation come from a fresh example. a Timetables, Itineraries and Journey Duration organiser labels a row “bus”. Which entry belongs in that row?",
-    "audio_prompt": "During an art project. The quantities or representation come from a fresh example. a Timetables, Itineraries and Journey Duration organiser labels a row “bus”. Which entry belongs in that row?",
+    "question": "While comparing travel plans. The quantities or representation come from a fresh example. a Timetables, Itineraries and Journey Duration organiser labels a row “bus”. Which entry belongs in that row?",
+    "audio_prompt": "While comparing travel plans. The quantities or representation come from a fresh example. a Timetables, Itineraries and Journey Duration organiser labels a row “bus”. Which entry belongs in that row?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6m03.svg#ac9m6m03-p-021",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6m03.svg#ac9m6m03-p-015",
       "alt_text": "A Year 6 Timetables, Itineraries and Journey Duration reasoning organiser highlighting bus."
     },
     "answers": [
@@ -759,22 +507,20 @@
     "explanation": {
       "summary": "The representation connects bus with 08:35; 09:12; 37 min.",
       "hint": "Use the mathematical role of the entry, not a repeated word."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+    }
   },
   {
-    "id": "ac9m6m03-p-022",
+    "id": "ac9m6m03-p-016",
     "curriculum_code": "AC9M6M03",
     "year_level": "Year 6",
     "subject": "math",
     "bank": "practice",
     "skill": "timetables_itineraries_and_journey_duration",
-    "question": "At the recycling station. The quantities or representation come from a fresh example. a Timetables, Itineraries and Journey Duration organiser labels a row “transfer”. Which entry belongs in that row?",
-    "audio_prompt": "At the recycling station. The quantities or representation come from a fresh example. a Timetables, Itineraries and Journey Duration organiser labels a row “transfer”. Which entry belongs in that row?",
+    "question": "In a data workshop. The quantities or representation come from a fresh example. a Timetables, Itineraries and Journey Duration organiser labels a row “transfer”. Which entry belongs in that row?",
+    "audio_prompt": "In a data workshop. The quantities or representation come from a fresh example. a Timetables, Itineraries and Journey Duration organiser labels a row “transfer”. Which entry belongs in that row?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6m03.svg#ac9m6m03-p-022",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6m03.svg#ac9m6m03-p-016",
       "alt_text": "A Year 6 Timetables, Itineraries and Journey Duration reasoning organiser highlighting transfer."
     },
     "answers": [
@@ -795,22 +541,20 @@
     "explanation": {
       "summary": "The representation connects transfer with 09:12; 09:28; 16 min.",
       "hint": "Use the mathematical role of the entry, not a repeated word."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+    }
   },
   {
-    "id": "ac9m6m03-p-023",
+    "id": "ac9m6m03-p-017",
     "curriculum_code": "AC9M6M03",
     "year_level": "Year 6",
     "subject": "math",
     "bank": "practice",
     "skill": "timetables_itineraries_and_journey_duration",
-    "question": "While planning a class survey. The quantities or representation come from a fresh example. a Timetables, Itineraries and Journey Duration organiser labels a row “train”. Which entry belongs in that row?",
-    "audio_prompt": "While planning a class survey. The quantities or representation come from a fresh example. a Timetables, Itineraries and Journey Duration organiser labels a row “train”. Which entry belongs in that row?",
+    "question": "During a building project. The quantities or representation come from a fresh example. a Timetables, Itineraries and Journey Duration organiser labels a row “train”. Which entry belongs in that row?",
+    "audio_prompt": "During a building project. The quantities or representation come from a fresh example. a Timetables, Itineraries and Journey Duration organiser labels a row “train”. Which entry belongs in that row?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6m03.svg#ac9m6m03-p-023",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6m03.svg#ac9m6m03-p-017",
       "alt_text": "A Year 6 Timetables, Itineraries and Journey Duration reasoning organiser highlighting train."
     },
     "answers": [
@@ -831,22 +575,20 @@
     "explanation": {
       "summary": "The representation connects train with 09:28; 11:05; 1 h 37 min.",
       "hint": "Use the mathematical role of the entry, not a repeated word."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+    }
   },
   {
-    "id": "ac9m6m03-p-024",
+    "id": "ac9m6m03-p-018",
     "curriculum_code": "AC9M6M03",
     "year_level": "Year 6",
     "subject": "math",
     "bank": "practice",
     "skill": "timetables_itineraries_and_journey_duration",
-    "question": "In a coding lesson. The quantities or representation come from a fresh example. a Timetables, Itineraries and Journey Duration organiser labels a row “total”. Which entry belongs in that row?",
-    "audio_prompt": "In a coding lesson. The quantities or representation come from a fresh example. a Timetables, Itineraries and Journey Duration organiser labels a row “total”. Which entry belongs in that row?",
+    "question": "At the local pool. The quantities or representation come from a fresh example. a Timetables, Itineraries and Journey Duration organiser labels a row “total”. Which entry belongs in that row?",
+    "audio_prompt": "At the local pool. The quantities or representation come from a fresh example. a Timetables, Itineraries and Journey Duration organiser labels a row “total”. Which entry belongs in that row?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6m03.svg#ac9m6m03-p-024",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6m03.svg#ac9m6m03-p-018",
       "alt_text": "A Year 6 Timetables, Itineraries and Journey Duration reasoning organiser highlighting total."
     },
     "answers": [
@@ -867,9 +609,211 @@
     "explanation": {
       "summary": "The representation connects total with 08:35; 11:05; 2 h 30 min.",
       "hint": "Use the mathematical role of the entry, not a repeated word."
+    }
+  },
+  {
+    "id": "ac9m6m03-p-019",
+    "curriculum_code": "AC9M6M03",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "timetables_itineraries_and_journey_duration",
+    "question": "While preparing an excursion. The quantities or representation come from a fresh example. What is the total duration from 08:35 to 11:05?",
+    "audio_prompt": "While preparing an excursion. The quantities or representation come from a fresh example. What is the total duration from 08:35 to 11:05?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "answers": [
+      {
+        "text": "3 h 30 min",
+        "is_correct": false
+      },
+      {
+        "text": "2 h 70 min",
+        "is_correct": false
+      },
+      {
+        "text": "2 h 30 min",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "2 h 30 min follows from the quantities and relationship in the question.",
+      "hint": "Estimate or substitute to reject the tempting misconception."
+    }
+  },
+  {
+    "id": "ac9m6m03-p-020",
+    "curriculum_code": "AC9M6M03",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "timetables_itineraries_and_journey_duration",
+    "question": "In a games club. The quantities or representation come from a fresh example. Which itinerary is feasible?",
+    "audio_prompt": "In a games club. The quantities or representation come from a fresh example. Which itinerary is feasible?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A connection departing after arrival plus required transfer time",
+        "is_correct": true
+      },
+      {
+        "text": "A service leaving before arrival",
+        "is_correct": false
+      },
+      {
+        "text": "Two overlapping events",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A connection departing after arrival plus required transfer time follows from the quantities and relationship in the question.",
+      "hint": "Estimate or substitute to reject the tempting misconception."
+    }
+  },
+  {
+    "id": "ac9m6m03-p-021",
+    "curriculum_code": "AC9M6M03",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "timetables_itineraries_and_journey_duration",
+    "question": "During an art project. The quantities or representation come from a fresh example. a student reasons, “Travel times added but waits omitted”. Which response corrects the error?",
+    "audio_prompt": "During an art project. The quantities or representation come from a fresh example. a student reasons, “Travel times added but waits omitted”. Which response corrects the error?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Keep the claim because one example is enough.",
+        "is_correct": false
+      },
+      {
+        "text": "Include every interval from start to finish.",
+        "is_correct": true
+      },
+      {
+        "text": "Make the claim more certain without checking the quantities.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Include every interval from start to finish.",
+      "hint": "Identify the exact misconception, then choose the correction that preserves the mathematics."
+    }
+  },
+  {
+    "id": "ac9m6m03-p-022",
+    "curriculum_code": "AC9M6M03",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "timetables_itineraries_and_journey_duration",
+    "question": "At the recycling station. The quantities or representation come from a fresh example. a student reasons, “Clock digits subtracted as decimals”. Which response corrects the error?",
+    "audio_prompt": "At the recycling station. The quantities or representation come from a fresh example. a student reasons, “Clock digits subtracted as decimals”. Which response corrects the error?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Keep the claim because one example is enough.",
+        "is_correct": false
+      },
+      {
+        "text": "Make the claim more certain without checking the quantities.",
+        "is_correct": false
+      },
+      {
+        "text": "Use 60-minute hours and timelines.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Use 60-minute hours and timelines.",
+      "hint": "Identify the exact misconception, then choose the correction that preserves the mathematics."
+    }
+  },
+  {
+    "id": "ac9m6m03-p-023",
+    "curriculum_code": "AC9M6M03",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "timetables_itineraries_and_journey_duration",
+    "question": "While planning a class survey. The quantities or representation come from a fresh example. a student reasons, “Arrival before departure ignored”. Which response corrects the error?",
+    "audio_prompt": "While planning a class survey. The quantities or representation come from a fresh example. a student reasons, “Arrival before departure ignored”. Which response corrects the error?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Check date, midnight and time zone.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep the claim because one example is enough.",
+        "is_correct": false
+      },
+      {
+        "text": "Make the claim more certain without checking the quantities.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Check date, midnight and time zone.",
+      "hint": "Identify the exact misconception, then choose the correction that preserves the mathematics."
+    }
+  },
+  {
+    "id": "ac9m6m03-p-024",
+    "curriculum_code": "AC9M6M03",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "timetables_itineraries_and_journey_duration",
+    "question": "In a coding lesson. The quantities or representation come from a fresh example. a student reasons, “Minimum transfer assumed safe”. Which response corrects the error?",
+    "audio_prompt": "In a coding lesson. The quantities or representation come from a fresh example. a student reasons, “Minimum transfer assumed safe”. Which response corrects the error?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Keep the claim because one example is enough.",
+        "is_correct": false
+      },
+      {
+        "text": "Consider practical buffer when planning.",
+        "is_correct": true
+      },
+      {
+        "text": "Make the claim more certain without checking the quantities.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Consider practical buffer when planning.",
+      "hint": "Identify the exact misconception, then choose the correction that preserves the mathematics."
+    }
   },
   {
     "id": "ac9m6m03-t-001",
@@ -1218,110 +1162,8 @@
     "subject": "math",
     "bank": "test",
     "skill": "timetables_itineraries_and_journey_duration",
-    "question": "While organising a book drive, a student uses the term “transfer time”. Which description shows it correctly?",
-    "audio_prompt": "While organising a book drive, a student uses the term “transfer time”. Which description shows it correctly?",
-    "visual": {
-      "type": "none",
-      "asset_path": "",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "scheduled times for repeated services or events",
-        "is_correct": false
-      },
-      {
-        "text": "interval between connected journey stages",
-        "is_correct": true
-      },
-      {
-        "text": "planned sequence of activities and journeys",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "transfer time means interval between connected journey stages.",
-      "hint": "Match every feature of the description to the mathematical term."
-    }
-  },
-  {
-    "id": "ac9m6m03-t-012",
-    "curriculum_code": "AC9M6M03",
-    "year_level": "Year 6",
-    "subject": "math",
-    "bank": "test",
-    "skill": "timetables_itineraries_and_journey_duration",
-    "question": "In an environmental study, a student uses the term “itinerary”. Which description shows it correctly?",
-    "audio_prompt": "In an environmental study, a student uses the term “itinerary”. Which description shows it correctly?",
-    "visual": {
-      "type": "none",
-      "asset_path": "",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "scheduled times for repeated services or events",
-        "is_correct": false
-      },
-      {
-        "text": "interval between connected journey stages",
-        "is_correct": false
-      },
-      {
-        "text": "planned sequence of activities and journeys",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "itinerary means planned sequence of activities and journeys.",
-      "hint": "Match every feature of the description to the mathematical term."
-    }
-  },
-  {
-    "id": "ac9m6m03-t-013",
-    "curriculum_code": "AC9M6M03",
-    "year_level": "Year 6",
-    "subject": "math",
-    "bank": "test",
-    "skill": "timetables_itineraries_and_journey_duration",
-    "question": "During a playground redesign, a student uses the term “timetable”. Which description shows it correctly?",
-    "audio_prompt": "During a playground redesign, a student uses the term “timetable”. Which description shows it correctly?",
-    "visual": {
-      "type": "none",
-      "asset_path": "",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "scheduled times for repeated services or events",
-        "is_correct": true
-      },
-      {
-        "text": "planned sequence of activities and journeys",
-        "is_correct": false
-      },
-      {
-        "text": "interval between connected journey stages",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "timetable means scheduled times for repeated services or events.",
-      "hint": "Match every feature of the description to the mathematical term."
-    }
-  },
-  {
-    "id": "ac9m6m03-t-014",
-    "curriculum_code": "AC9M6M03",
-    "year_level": "Year 6",
-    "subject": "math",
-    "bank": "test",
-    "skill": "timetables_itineraries_and_journey_duration",
-    "question": "At a transport depot. The quantities or representation come from a fresh example. another student selected “A service leaving before arrival”. Reconsider the evidence: Which itinerary is feasible?",
-    "audio_prompt": "At a transport depot. The quantities or representation come from a fresh example. another student selected “A service leaving before arrival”. Reconsider the evidence: Which itinerary is feasible?",
+    "question": "While organising a book drive. The quantities or representation come from a fresh example. another student selected “A service leaving before arrival”. Reconsider the evidence: Which itinerary is feasible?",
+    "audio_prompt": "While organising a book drive. The quantities or representation come from a fresh example. another student selected “A service leaving before arrival”. Reconsider the evidence: Which itinerary is feasible?",
     "visual": {
       "type": "none",
       "asset_path": "",
@@ -1348,14 +1190,14 @@
     }
   },
   {
-    "id": "ac9m6m03-t-015",
+    "id": "ac9m6m03-t-012",
     "curriculum_code": "AC9M6M03",
     "year_level": "Year 6",
     "subject": "math",
     "bank": "test",
     "skill": "timetables_itineraries_and_journey_duration",
-    "question": "While preparing a camping trip. The quantities or representation come from a fresh example. another student selected “3 h 30 min”. Reconsider the evidence: What is the total duration from 08:35 to 11:05?",
-    "audio_prompt": "While preparing a camping trip. The quantities or representation come from a fresh example. another student selected “3 h 30 min”. Reconsider the evidence: What is the total duration from 08:35 to 11:05?",
+    "question": "In an environmental study. The quantities or representation come from a fresh example. another student selected “3 h 30 min”. Reconsider the evidence: What is the total duration from 08:35 to 11:05?",
+    "audio_prompt": "In an environmental study. The quantities or representation come from a fresh example. another student selected “3 h 30 min”. Reconsider the evidence: What is the total duration from 08:35 to 11:05?",
     "visual": {
       "type": "none",
       "asset_path": "",
@@ -1382,17 +1224,17 @@
     }
   },
   {
-    "id": "ac9m6m03-t-016",
+    "id": "ac9m6m03-t-013",
     "curriculum_code": "AC9M6M03",
     "year_level": "Year 6",
     "subject": "math",
     "bank": "test",
     "skill": "timetables_itineraries_and_journey_duration",
-    "question": "In a strategy tournament. The quantities or representation come from a fresh example. a Timetables, Itineraries and Journey Duration organiser contains “08:35; 11:05; 2 h 30 min”. Which heading best identifies that information?",
-    "audio_prompt": "In a strategy tournament. The quantities or representation come from a fresh example. a Timetables, Itineraries and Journey Duration organiser contains “08:35; 11:05; 2 h 30 min”. Which heading best identifies that information?",
+    "question": "During a playground redesign. The quantities or representation come from a fresh example. a Timetables, Itineraries and Journey Duration organiser contains “08:35; 11:05; 2 h 30 min”. Which heading best identifies that information?",
+    "audio_prompt": "During a playground redesign. The quantities or representation come from a fresh example. a Timetables, Itineraries and Journey Duration organiser contains “08:35; 11:05; 2 h 30 min”. Which heading best identifies that information?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6m03.svg#ac9m6m03-t-016",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6m03.svg#ac9m6m03-t-013",
       "alt_text": "A Year 6 Timetables, Itineraries and Journey Duration reasoning organiser highlighting total."
     },
     "answers": [
@@ -1412,6 +1254,108 @@
     "correct_index": 0,
     "explanation": {
       "summary": "The representation connects total with 08:35; 11:05; 2 h 30 min.",
+      "hint": "Use the mathematical role of the entry, not a repeated word."
+    }
+  },
+  {
+    "id": "ac9m6m03-t-014",
+    "curriculum_code": "AC9M6M03",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "test",
+    "skill": "timetables_itineraries_and_journey_duration",
+    "question": "At a transport depot. The quantities or representation come from a fresh example. a Timetables, Itineraries and Journey Duration organiser contains “09:28; 11:05; 1 h 37 min”. Which heading best identifies that information?",
+    "audio_prompt": "At a transport depot. The quantities or representation come from a fresh example. a Timetables, Itineraries and Journey Duration organiser contains “09:28; 11:05; 1 h 37 min”. Which heading best identifies that information?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6m03.svg#ac9m6m03-t-014",
+      "alt_text": "A Year 6 Timetables, Itineraries and Journey Duration reasoning organiser highlighting train."
+    },
+    "answers": [
+      {
+        "text": "stage",
+        "is_correct": false
+      },
+      {
+        "text": "train",
+        "is_correct": true
+      },
+      {
+        "text": "bus",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The representation connects train with 09:28; 11:05; 1 h 37 min.",
+      "hint": "Use the mathematical role of the entry, not a repeated word."
+    }
+  },
+  {
+    "id": "ac9m6m03-t-015",
+    "curriculum_code": "AC9M6M03",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "test",
+    "skill": "timetables_itineraries_and_journey_duration",
+    "question": "While preparing a camping trip. The quantities or representation come from a fresh example. a Timetables, Itineraries and Journey Duration organiser contains “09:12; 09:28; 16 min”. Which heading best identifies that information?",
+    "audio_prompt": "While preparing a camping trip. The quantities or representation come from a fresh example. a Timetables, Itineraries and Journey Duration organiser contains “09:12; 09:28; 16 min”. Which heading best identifies that information?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6m03.svg#ac9m6m03-t-015",
+      "alt_text": "A Year 6 Timetables, Itineraries and Journey Duration reasoning organiser highlighting transfer."
+    },
+    "answers": [
+      {
+        "text": "stage",
+        "is_correct": false
+      },
+      {
+        "text": "bus",
+        "is_correct": false
+      },
+      {
+        "text": "transfer",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The representation connects transfer with 09:12; 09:28; 16 min.",
+      "hint": "Use the mathematical role of the entry, not a repeated word."
+    }
+  },
+  {
+    "id": "ac9m6m03-t-016",
+    "curriculum_code": "AC9M6M03",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "test",
+    "skill": "timetables_itineraries_and_journey_duration",
+    "question": "In a strategy tournament. The quantities or representation come from a fresh example. a Timetables, Itineraries and Journey Duration organiser contains “08:35; 09:12; 37 min”. Which heading best identifies that information?",
+    "audio_prompt": "In a strategy tournament. The quantities or representation come from a fresh example. a Timetables, Itineraries and Journey Duration organiser contains “08:35; 09:12; 37 min”. Which heading best identifies that information?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6m03.svg#ac9m6m03-t-016",
+      "alt_text": "A Year 6 Timetables, Itineraries and Journey Duration reasoning organiser highlighting bus."
+    },
+    "answers": [
+      {
+        "text": "bus",
+        "is_correct": true
+      },
+      {
+        "text": "stage",
+        "is_correct": false
+      },
+      {
+        "text": "transfer",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The representation connects bus with 08:35; 09:12; 37 min.",
       "hint": "Use the mathematical role of the entry, not a repeated word."
     }
   }

@@ -7,95 +7,8 @@ window.skillrPracticeQuestions = [
     "skill": "parallel cross sections of three dimensional objects",
     "printable": true,
     "type": "single",
-    "question": "During a class investigation, a note says “two-dimensional shape exposed by slicing a solid”. Which mathematical term labels it?",
-    "audioPrompt": "During a class investigation, a note says “two-dimensional shape exposed by slicing a solid”. Which mathematical term labels it?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "asset_path": "",
-      "alt_text": ""
-    },
-    "answers": [
-      "parallel",
-      "cross-section",
-      "base"
-    ],
-    "correct": 1,
-    "explanation": "cross-section means two-dimensional shape exposed by slicing a solid.\nHint: Match every feature of the description to the mathematical term.",
-    "structuredExplanation": {
-      "summary": "cross-section means two-dimensional shape exposed by slicing a solid.",
-      "hint": "Match every feature of the description to the mathematical term."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m6sp01-p-002",
-    "curriculumCode": "AC9M6SP01",
-    "bank": "practice",
-    "skill": "parallel cross sections of three dimensional objects",
-    "printable": true,
-    "type": "single",
-    "question": "At the school market, a note says “remaining the same distance apart and never meeting”. Which mathematical term labels it?",
-    "audioPrompt": "At the school market, a note says “remaining the same distance apart and never meeting”. Which mathematical term labels it?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "asset_path": "",
-      "alt_text": ""
-    },
-    "answers": [
-      "cross-section",
-      "base",
-      "parallel"
-    ],
-    "correct": 2,
-    "explanation": "parallel means remaining the same distance apart and never meeting.\nHint: Match every feature of the description to the mathematical term.",
-    "structuredExplanation": {
-      "summary": "parallel means remaining the same distance apart and never meeting.",
-      "hint": "Match every feature of the description to the mathematical term."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m6sp01-p-003",
-    "curriculumCode": "AC9M6SP01",
-    "bank": "practice",
-    "skill": "parallel cross sections of three dimensional objects",
-    "printable": true,
-    "type": "single",
-    "question": "While planning a garden, a note says “reference face or surface used to describe a solid”. Which mathematical term labels it?",
-    "audioPrompt": "While planning a garden, a note says “reference face or surface used to describe a solid”. Which mathematical term labels it?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "asset_path": "",
-      "alt_text": ""
-    },
-    "answers": [
-      "base",
-      "cross-section",
-      "parallel"
-    ],
-    "correct": 0,
-    "explanation": "base means reference face or surface used to describe a solid.\nHint: Match every feature of the description to the mathematical term.",
-    "structuredExplanation": {
-      "summary": "base means reference face or surface used to describe a solid.",
-      "hint": "Match every feature of the description to the mathematical term."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m6sp01-p-004",
-    "curriculumCode": "AC9M6SP01",
-    "bank": "practice",
-    "skill": "parallel cross sections of three dimensional objects",
-    "printable": true,
-    "type": "single",
-    "question": "In a robotics challenge, a student reasons, “Every slice matches the base”. Which response corrects the error?",
-    "audioPrompt": "In a robotics challenge, a student reasons, “Every slice matches the base”. Which response corrects the error?",
+    "question": "During a class investigation, a student reasons, “Every slice matches the base”. Which response corrects the error?",
+    "audioPrompt": "During a class investigation, a student reasons, “Every slice matches the base”. Which response corrects the error?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -117,14 +30,14 @@ window.skillrPracticeQuestions = [
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9m6sp01-p-005",
+    "id": "ac9m6sp01-p-002",
     "curriculumCode": "AC9M6SP01",
     "bank": "practice",
     "skill": "parallel cross sections of three dimensional objects",
     "printable": true,
     "type": "single",
-    "question": "During sports-day planning, a student reasons, “Prism and pyramid treated alike”. Which response corrects the error?",
-    "audioPrompt": "During sports-day planning, a student reasons, “Prism and pyramid treated alike”. Which response corrects the error?",
+    "question": "At the school market, a student reasons, “Prism and pyramid treated alike”. Which response corrects the error?",
+    "audioPrompt": "At the school market, a student reasons, “Prism and pyramid treated alike”. Which response corrects the error?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -146,14 +59,14 @@ window.skillrPracticeQuestions = [
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9m6sp01-p-006",
+    "id": "ac9m6sp01-p-003",
     "curriculumCode": "AC9M6SP01",
     "bank": "practice",
     "skill": "parallel cross sections of three dimensional objects",
     "printable": true,
     "type": "single",
-    "question": "At a wildlife centre, a student reasons, “Cross-section called a face of the original object”. Which response corrects the error?",
-    "audioPrompt": "At a wildlife centre, a student reasons, “Cross-section called a face of the original object”. Which response corrects the error?",
+    "question": "While planning a garden, a student reasons, “Cross-section called a face of the original object”. Which response corrects the error?",
+    "audioPrompt": "While planning a garden, a student reasons, “Cross-section called a face of the original object”. Which response corrects the error?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -175,14 +88,14 @@ window.skillrPracticeQuestions = [
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9m6sp01-p-007",
+    "id": "ac9m6sp01-p-004",
     "curriculumCode": "AC9M6SP01",
     "bank": "practice",
     "skill": "parallel cross sections of three dimensional objects",
     "printable": true,
     "type": "single",
-    "question": "While checking a map, a student reasons, “Orientation omitted”. Which response corrects the error?",
-    "audioPrompt": "While checking a map, a student reasons, “Orientation omitted”. Which response corrects the error?",
+    "question": "In a robotics challenge, a student reasons, “Orientation omitted”. Which response corrects the error?",
+    "audioPrompt": "In a robotics challenge, a student reasons, “Orientation omitted”. Which response corrects the error?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -204,19 +117,19 @@ window.skillrPracticeQuestions = [
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9m6sp01-p-008",
+    "id": "ac9m6sp01-p-005",
     "curriculumCode": "AC9M6SP01",
     "bank": "practice",
     "skill": "parallel cross sections of three dimensional objects",
     "printable": true,
     "type": "single",
-    "question": "In the makerspace, a Parallel Cross-sections of Three-dimensional Objects organiser labels a row “rectangular prism”. Which entry belongs in that row?",
-    "audioPrompt": "In the makerspace, a Parallel Cross-sections of Three-dimensional Objects organiser labels a row “rectangular prism”. Which entry belongs in that row?",
+    "question": "During sports-day planning, a Parallel Cross-sections of Three-dimensional Objects organiser labels a row “rectangular prism”. Which entry belongs in that row?",
+    "audioPrompt": "During sports-day planning, a Parallel Cross-sections of Three-dimensional Objects organiser labels a row “rectangular prism”. Which entry belongs in that row?",
     "visual": "A Year 6 Parallel Cross-sections of Three-dimensional Objects reasoning organiser highlighting rectangular prism.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A Year 6 Parallel Cross-sections of Three-dimensional Objects reasoning organiser highlighting rectangular prism.\"><use href=\"/assets/assessment-visuals/year6/math/ac9m6sp01.svg#ac9m6sp01-p-008\"></use></svg>",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A Year 6 Parallel Cross-sections of Three-dimensional Objects reasoning organiser highlighting rectangular prism.\"><use href=\"/assets/assessment-visuals/year6/math/ac9m6sp01.svg#ac9m6sp01-p-005\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6sp01.svg#ac9m6sp01-p-008",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6sp01.svg#ac9m6sp01-p-005",
       "alt_text": "A Year 6 Parallel Cross-sections of Three-dimensional Objects reasoning organiser highlighting rectangular prism."
     },
     "answers": [
@@ -233,19 +146,19 @@ window.skillrPracticeQuestions = [
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9m6sp01-p-009",
+    "id": "ac9m6sp01-p-006",
     "curriculumCode": "AC9M6SP01",
     "bank": "practice",
     "skill": "parallel cross sections of three dimensional objects",
     "printable": true,
     "type": "single",
-    "question": "During a cooking project, a Parallel Cross-sections of Three-dimensional Objects organiser labels a row “triangular prism”. Which entry belongs in that row?",
-    "audioPrompt": "During a cooking project, a Parallel Cross-sections of Three-dimensional Objects organiser labels a row “triangular prism”. Which entry belongs in that row?",
+    "question": "At a wildlife centre, a Parallel Cross-sections of Three-dimensional Objects organiser labels a row “triangular prism”. Which entry belongs in that row?",
+    "audioPrompt": "At a wildlife centre, a Parallel Cross-sections of Three-dimensional Objects organiser labels a row “triangular prism”. Which entry belongs in that row?",
     "visual": "A Year 6 Parallel Cross-sections of Three-dimensional Objects reasoning organiser highlighting triangular prism.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A Year 6 Parallel Cross-sections of Three-dimensional Objects reasoning organiser highlighting triangular prism.\"><use href=\"/assets/assessment-visuals/year6/math/ac9m6sp01.svg#ac9m6sp01-p-009\"></use></svg>",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A Year 6 Parallel Cross-sections of Three-dimensional Objects reasoning organiser highlighting triangular prism.\"><use href=\"/assets/assessment-visuals/year6/math/ac9m6sp01.svg#ac9m6sp01-p-006\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6sp01.svg#ac9m6sp01-p-009",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6sp01.svg#ac9m6sp01-p-006",
       "alt_text": "A Year 6 Parallel Cross-sections of Three-dimensional Objects reasoning organiser highlighting triangular prism."
     },
     "answers": [
@@ -262,19 +175,19 @@ window.skillrPracticeQuestions = [
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9m6sp01-p-010",
+    "id": "ac9m6sp01-p-007",
     "curriculumCode": "AC9M6SP01",
     "bank": "practice",
     "skill": "parallel cross sections of three dimensional objects",
     "printable": true,
     "type": "single",
-    "question": "At the community fair, a Parallel Cross-sections of Three-dimensional Objects organiser labels a row “cylinder”. Which entry belongs in that row?",
-    "audioPrompt": "At the community fair, a Parallel Cross-sections of Three-dimensional Objects organiser labels a row “cylinder”. Which entry belongs in that row?",
+    "question": "While checking a map, a Parallel Cross-sections of Three-dimensional Objects organiser labels a row “cylinder”. Which entry belongs in that row?",
+    "audioPrompt": "While checking a map, a Parallel Cross-sections of Three-dimensional Objects organiser labels a row “cylinder”. Which entry belongs in that row?",
     "visual": "A Year 6 Parallel Cross-sections of Three-dimensional Objects reasoning organiser highlighting cylinder.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A Year 6 Parallel Cross-sections of Three-dimensional Objects reasoning organiser highlighting cylinder.\"><use href=\"/assets/assessment-visuals/year6/math/ac9m6sp01.svg#ac9m6sp01-p-010\"></use></svg>",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A Year 6 Parallel Cross-sections of Three-dimensional Objects reasoning organiser highlighting cylinder.\"><use href=\"/assets/assessment-visuals/year6/math/ac9m6sp01.svg#ac9m6sp01-p-007\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6sp01.svg#ac9m6sp01-p-010",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6sp01.svg#ac9m6sp01-p-007",
       "alt_text": "A Year 6 Parallel Cross-sections of Three-dimensional Objects reasoning organiser highlighting cylinder."
     },
     "answers": [
@@ -291,19 +204,19 @@ window.skillrPracticeQuestions = [
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9m6sp01-p-011",
+    "id": "ac9m6sp01-p-008",
     "curriculumCode": "AC9M6SP01",
     "bank": "practice",
     "skill": "parallel cross sections of three dimensional objects",
     "printable": true,
     "type": "single",
-    "question": "While organising a library display, a Parallel Cross-sections of Three-dimensional Objects organiser labels a row “square pyramid”. Which entry belongs in that row?",
-    "audioPrompt": "While organising a library display, a Parallel Cross-sections of Three-dimensional Objects organiser labels a row “square pyramid”. Which entry belongs in that row?",
+    "question": "In the makerspace, a Parallel Cross-sections of Three-dimensional Objects organiser labels a row “square pyramid”. Which entry belongs in that row?",
+    "audioPrompt": "In the makerspace, a Parallel Cross-sections of Three-dimensional Objects organiser labels a row “square pyramid”. Which entry belongs in that row?",
     "visual": "A Year 6 Parallel Cross-sections of Three-dimensional Objects reasoning organiser highlighting square pyramid.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A Year 6 Parallel Cross-sections of Three-dimensional Objects reasoning organiser highlighting square pyramid.\"><use href=\"/assets/assessment-visuals/year6/math/ac9m6sp01.svg#ac9m6sp01-p-011\"></use></svg>",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A Year 6 Parallel Cross-sections of Three-dimensional Objects reasoning organiser highlighting square pyramid.\"><use href=\"/assets/assessment-visuals/year6/math/ac9m6sp01.svg#ac9m6sp01-p-008\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6sp01.svg#ac9m6sp01-p-011",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6sp01.svg#ac9m6sp01-p-008",
       "alt_text": "A Year 6 Parallel Cross-sections of Three-dimensional Objects reasoning organiser highlighting square pyramid."
     },
     "answers": [
@@ -320,19 +233,19 @@ window.skillrPracticeQuestions = [
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9m6sp01-p-012",
+    "id": "ac9m6sp01-p-009",
     "curriculumCode": "AC9M6SP01",
     "bank": "practice",
     "skill": "parallel cross sections of three dimensional objects",
     "printable": true,
     "type": "single",
-    "question": "In a science notebook, a Parallel Cross-sections of Three-dimensional Objects organiser labels a row “cone”. Which entry belongs in that row?",
-    "audioPrompt": "In a science notebook, a Parallel Cross-sections of Three-dimensional Objects organiser labels a row “cone”. Which entry belongs in that row?",
+    "question": "During a cooking project, a Parallel Cross-sections of Three-dimensional Objects organiser labels a row “cone”. Which entry belongs in that row?",
+    "audioPrompt": "During a cooking project, a Parallel Cross-sections of Three-dimensional Objects organiser labels a row “cone”. Which entry belongs in that row?",
     "visual": "A Year 6 Parallel Cross-sections of Three-dimensional Objects reasoning organiser highlighting cone.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A Year 6 Parallel Cross-sections of Three-dimensional Objects reasoning organiser highlighting cone.\"><use href=\"/assets/assessment-visuals/year6/math/ac9m6sp01.svg#ac9m6sp01-p-012\"></use></svg>",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A Year 6 Parallel Cross-sections of Three-dimensional Objects reasoning organiser highlighting cone.\"><use href=\"/assets/assessment-visuals/year6/math/ac9m6sp01.svg#ac9m6sp01-p-009\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6sp01.svg#ac9m6sp01-p-012",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6sp01.svg#ac9m6sp01-p-009",
       "alt_text": "A Year 6 Parallel Cross-sections of Three-dimensional Objects reasoning organiser highlighting cone."
     },
     "answers": [
@@ -349,14 +262,14 @@ window.skillrPracticeQuestions = [
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9m6sp01-p-013",
+    "id": "ac9m6sp01-p-010",
     "curriculumCode": "AC9M6SP01",
     "bank": "practice",
     "skill": "parallel cross sections of three dimensional objects",
     "printable": true,
     "type": "single",
-    "question": "During a design challenge, What is a cross-section parallel to the base of a triangular prism?",
-    "audioPrompt": "During a design challenge, What is a cross-section parallel to the base of a triangular prism?",
+    "question": "At the community fair, What is a cross-section parallel to the base of a triangular prism?",
+    "audioPrompt": "At the community fair, What is a cross-section parallel to the base of a triangular prism?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -378,14 +291,14 @@ window.skillrPracticeQuestions = [
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9m6sp01-p-014",
+    "id": "ac9m6sp01-p-011",
     "curriculumCode": "AC9M6SP01",
     "bank": "practice",
     "skill": "parallel cross sections of three dimensional objects",
     "printable": true,
     "type": "single",
-    "question": "At the school canteen, How do parallel cross-sections of a square pyramid change toward the apex?",
-    "audioPrompt": "At the school canteen, How do parallel cross-sections of a square pyramid change toward the apex?",
+    "question": "While organising a library display, How do parallel cross-sections of a square pyramid change toward the apex?",
+    "audioPrompt": "While organising a library display, How do parallel cross-sections of a square pyramid change toward the apex?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -407,101 +320,14 @@ window.skillrPracticeQuestions = [
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9m6sp01-p-015",
+    "id": "ac9m6sp01-p-012",
     "curriculumCode": "AC9M6SP01",
     "bank": "practice",
     "skill": "parallel cross sections of three dimensional objects",
     "printable": true,
     "type": "single",
-    "question": "While comparing travel plans. The quantities or representation come from a fresh example. a note says “two-dimensional shape exposed by slicing a solid”. Which mathematical term labels it?",
-    "audioPrompt": "While comparing travel plans. The quantities or representation come from a fresh example. a note says “two-dimensional shape exposed by slicing a solid”. Which mathematical term labels it?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "asset_path": "",
-      "alt_text": ""
-    },
-    "answers": [
-      "cross-section",
-      "parallel",
-      "base"
-    ],
-    "correct": 0,
-    "explanation": "cross-section means two-dimensional shape exposed by slicing a solid.\nHint: Match every feature of the description to the mathematical term.",
-    "structuredExplanation": {
-      "summary": "cross-section means two-dimensional shape exposed by slicing a solid.",
-      "hint": "Match every feature of the description to the mathematical term."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m6sp01-p-016",
-    "curriculumCode": "AC9M6SP01",
-    "bank": "practice",
-    "skill": "parallel cross sections of three dimensional objects",
-    "printable": true,
-    "type": "single",
-    "question": "In a data workshop. The quantities or representation come from a fresh example. a note says “remaining the same distance apart and never meeting”. Which mathematical term labels it?",
-    "audioPrompt": "In a data workshop. The quantities or representation come from a fresh example. a note says “remaining the same distance apart and never meeting”. Which mathematical term labels it?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "asset_path": "",
-      "alt_text": ""
-    },
-    "answers": [
-      "cross-section",
-      "parallel",
-      "base"
-    ],
-    "correct": 1,
-    "explanation": "parallel means remaining the same distance apart and never meeting.\nHint: Match every feature of the description to the mathematical term.",
-    "structuredExplanation": {
-      "summary": "parallel means remaining the same distance apart and never meeting.",
-      "hint": "Match every feature of the description to the mathematical term."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m6sp01-p-017",
-    "curriculumCode": "AC9M6SP01",
-    "bank": "practice",
-    "skill": "parallel cross sections of three dimensional objects",
-    "printable": true,
-    "type": "single",
-    "question": "During a building project. The quantities or representation come from a fresh example. a note says “reference face or surface used to describe a solid”. Which mathematical term labels it?",
-    "audioPrompt": "During a building project. The quantities or representation come from a fresh example. a note says “reference face or surface used to describe a solid”. Which mathematical term labels it?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "asset_path": "",
-      "alt_text": ""
-    },
-    "answers": [
-      "cross-section",
-      "parallel",
-      "base"
-    ],
-    "correct": 2,
-    "explanation": "base means reference face or surface used to describe a solid.\nHint: Match every feature of the description to the mathematical term.",
-    "structuredExplanation": {
-      "summary": "base means reference face or surface used to describe a solid.",
-      "hint": "Match every feature of the description to the mathematical term."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m6sp01-p-018",
-    "curriculumCode": "AC9M6SP01",
-    "bank": "practice",
-    "skill": "parallel cross sections of three dimensional objects",
-    "printable": true,
-    "type": "single",
-    "question": "At the local pool. The quantities or representation come from a fresh example. a student reasons, “Every slice matches the base”. Which response corrects the error?",
-    "audioPrompt": "At the local pool. The quantities or representation come from a fresh example. a student reasons, “Every slice matches the base”. Which response corrects the error?",
+    "question": "In a science notebook. The quantities or representation come from a fresh example. a student reasons, “Every slice matches the base”. Which response corrects the error?",
+    "audioPrompt": "In a science notebook. The quantities or representation come from a fresh example. a student reasons, “Every slice matches the base”. Which response corrects the error?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -523,14 +349,14 @@ window.skillrPracticeQuestions = [
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9m6sp01-p-019",
+    "id": "ac9m6sp01-p-013",
     "curriculumCode": "AC9M6SP01",
     "bank": "practice",
     "skill": "parallel cross sections of three dimensional objects",
     "printable": true,
     "type": "single",
-    "question": "While preparing an excursion. The quantities or representation come from a fresh example. a student reasons, “Prism and pyramid treated alike”. Which response corrects the error?",
-    "audioPrompt": "While preparing an excursion. The quantities or representation come from a fresh example. a student reasons, “Prism and pyramid treated alike”. Which response corrects the error?",
+    "question": "During a design challenge. The quantities or representation come from a fresh example. a student reasons, “Prism and pyramid treated alike”. Which response corrects the error?",
+    "audioPrompt": "During a design challenge. The quantities or representation come from a fresh example. a student reasons, “Prism and pyramid treated alike”. Which response corrects the error?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -552,14 +378,14 @@ window.skillrPracticeQuestions = [
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9m6sp01-p-020",
+    "id": "ac9m6sp01-p-014",
     "curriculumCode": "AC9M6SP01",
     "bank": "practice",
     "skill": "parallel cross sections of three dimensional objects",
     "printable": true,
     "type": "single",
-    "question": "In a games club. The quantities or representation come from a fresh example. a student reasons, “Cross-section called a face of the original object”. Which response corrects the error?",
-    "audioPrompt": "In a games club. The quantities or representation come from a fresh example. a student reasons, “Cross-section called a face of the original object”. Which response corrects the error?",
+    "question": "At the school canteen. The quantities or representation come from a fresh example. a student reasons, “Cross-section called a face of the original object”. Which response corrects the error?",
+    "audioPrompt": "At the school canteen. The quantities or representation come from a fresh example. a student reasons, “Cross-section called a face of the original object”. Which response corrects the error?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -581,14 +407,14 @@ window.skillrPracticeQuestions = [
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9m6sp01-p-021",
+    "id": "ac9m6sp01-p-015",
     "curriculumCode": "AC9M6SP01",
     "bank": "practice",
     "skill": "parallel cross sections of three dimensional objects",
     "printable": true,
     "type": "single",
-    "question": "During an art project. The quantities or representation come from a fresh example. a student reasons, “Orientation omitted”. Which response corrects the error?",
-    "audioPrompt": "During an art project. The quantities or representation come from a fresh example. a student reasons, “Orientation omitted”. Which response corrects the error?",
+    "question": "While comparing travel plans. The quantities or representation come from a fresh example. a student reasons, “Orientation omitted”. Which response corrects the error?",
+    "audioPrompt": "While comparing travel plans. The quantities or representation come from a fresh example. a student reasons, “Orientation omitted”. Which response corrects the error?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -610,19 +436,19 @@ window.skillrPracticeQuestions = [
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9m6sp01-p-022",
+    "id": "ac9m6sp01-p-016",
     "curriculumCode": "AC9M6SP01",
     "bank": "practice",
     "skill": "parallel cross sections of three dimensional objects",
     "printable": true,
     "type": "single",
-    "question": "At the recycling station. The quantities or representation come from a fresh example. a Parallel Cross-sections of Three-dimensional Objects organiser labels a row “rectangular prism”. Which entry belongs in that row?",
-    "audioPrompt": "At the recycling station. The quantities or representation come from a fresh example. a Parallel Cross-sections of Three-dimensional Objects organiser labels a row “rectangular prism”. Which entry belongs in that row?",
+    "question": "In a data workshop. The quantities or representation come from a fresh example. a Parallel Cross-sections of Three-dimensional Objects organiser labels a row “rectangular prism”. Which entry belongs in that row?",
+    "audioPrompt": "In a data workshop. The quantities or representation come from a fresh example. a Parallel Cross-sections of Three-dimensional Objects organiser labels a row “rectangular prism”. Which entry belongs in that row?",
     "visual": "A Year 6 Parallel Cross-sections of Three-dimensional Objects reasoning organiser highlighting rectangular prism.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A Year 6 Parallel Cross-sections of Three-dimensional Objects reasoning organiser highlighting rectangular prism.\"><use href=\"/assets/assessment-visuals/year6/math/ac9m6sp01.svg#ac9m6sp01-p-022\"></use></svg>",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A Year 6 Parallel Cross-sections of Three-dimensional Objects reasoning organiser highlighting rectangular prism.\"><use href=\"/assets/assessment-visuals/year6/math/ac9m6sp01.svg#ac9m6sp01-p-016\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6sp01.svg#ac9m6sp01-p-022",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6sp01.svg#ac9m6sp01-p-016",
       "alt_text": "A Year 6 Parallel Cross-sections of Three-dimensional Objects reasoning organiser highlighting rectangular prism."
     },
     "answers": [
@@ -639,19 +465,19 @@ window.skillrPracticeQuestions = [
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9m6sp01-p-023",
+    "id": "ac9m6sp01-p-017",
     "curriculumCode": "AC9M6SP01",
     "bank": "practice",
     "skill": "parallel cross sections of three dimensional objects",
     "printable": true,
     "type": "single",
-    "question": "While planning a class survey. The quantities or representation come from a fresh example. a Parallel Cross-sections of Three-dimensional Objects organiser labels a row “triangular prism”. Which entry belongs in that row?",
-    "audioPrompt": "While planning a class survey. The quantities or representation come from a fresh example. a Parallel Cross-sections of Three-dimensional Objects organiser labels a row “triangular prism”. Which entry belongs in that row?",
+    "question": "During a building project. The quantities or representation come from a fresh example. a Parallel Cross-sections of Three-dimensional Objects organiser labels a row “triangular prism”. Which entry belongs in that row?",
+    "audioPrompt": "During a building project. The quantities or representation come from a fresh example. a Parallel Cross-sections of Three-dimensional Objects organiser labels a row “triangular prism”. Which entry belongs in that row?",
     "visual": "A Year 6 Parallel Cross-sections of Three-dimensional Objects reasoning organiser highlighting triangular prism.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A Year 6 Parallel Cross-sections of Three-dimensional Objects reasoning organiser highlighting triangular prism.\"><use href=\"/assets/assessment-visuals/year6/math/ac9m6sp01.svg#ac9m6sp01-p-023\"></use></svg>",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A Year 6 Parallel Cross-sections of Three-dimensional Objects reasoning organiser highlighting triangular prism.\"><use href=\"/assets/assessment-visuals/year6/math/ac9m6sp01.svg#ac9m6sp01-p-017\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6sp01.svg#ac9m6sp01-p-023",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6sp01.svg#ac9m6sp01-p-017",
       "alt_text": "A Year 6 Parallel Cross-sections of Three-dimensional Objects reasoning organiser highlighting triangular prism."
     },
     "answers": [
@@ -668,19 +494,19 @@ window.skillrPracticeQuestions = [
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9m6sp01-p-024",
+    "id": "ac9m6sp01-p-018",
     "curriculumCode": "AC9M6SP01",
     "bank": "practice",
     "skill": "parallel cross sections of three dimensional objects",
     "printable": true,
     "type": "single",
-    "question": "In a coding lesson. The quantities or representation come from a fresh example. a Parallel Cross-sections of Three-dimensional Objects organiser labels a row “cylinder”. Which entry belongs in that row?",
-    "audioPrompt": "In a coding lesson. The quantities or representation come from a fresh example. a Parallel Cross-sections of Three-dimensional Objects organiser labels a row “cylinder”. Which entry belongs in that row?",
+    "question": "At the local pool. The quantities or representation come from a fresh example. a Parallel Cross-sections of Three-dimensional Objects organiser labels a row “cylinder”. Which entry belongs in that row?",
+    "audioPrompt": "At the local pool. The quantities or representation come from a fresh example. a Parallel Cross-sections of Three-dimensional Objects organiser labels a row “cylinder”. Which entry belongs in that row?",
     "visual": "A Year 6 Parallel Cross-sections of Three-dimensional Objects reasoning organiser highlighting cylinder.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A Year 6 Parallel Cross-sections of Three-dimensional Objects reasoning organiser highlighting cylinder.\"><use href=\"/assets/assessment-visuals/year6/math/ac9m6sp01.svg#ac9m6sp01-p-024\"></use></svg>",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A Year 6 Parallel Cross-sections of Three-dimensional Objects reasoning organiser highlighting cylinder.\"><use href=\"/assets/assessment-visuals/year6/math/ac9m6sp01.svg#ac9m6sp01-p-018\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6sp01.svg#ac9m6sp01-p-024",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6sp01.svg#ac9m6sp01-p-018",
       "alt_text": "A Year 6 Parallel Cross-sections of Three-dimensional Objects reasoning organiser highlighting cylinder."
     },
     "answers": [
@@ -693,6 +519,180 @@ window.skillrPracticeQuestions = [
     "structuredExplanation": {
       "summary": "The representation connects cylinder with circle; congruent circle.",
       "hint": "Use the mathematical role of the entry, not a repeated word."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m6sp01-p-019",
+    "curriculumCode": "AC9M6SP01",
+    "bank": "practice",
+    "skill": "parallel cross sections of three dimensional objects",
+    "printable": true,
+    "type": "single",
+    "question": "While preparing an excursion. The quantities or representation come from a fresh example. a Parallel Cross-sections of Three-dimensional Objects organiser labels a row “square pyramid”. Which entry belongs in that row?",
+    "audioPrompt": "While preparing an excursion. The quantities or representation come from a fresh example. a Parallel Cross-sections of Three-dimensional Objects organiser labels a row “square pyramid”. Which entry belongs in that row?",
+    "visual": "A Year 6 Parallel Cross-sections of Three-dimensional Objects reasoning organiser highlighting square pyramid.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A Year 6 Parallel Cross-sections of Three-dimensional Objects reasoning organiser highlighting square pyramid.\"><use href=\"/assets/assessment-visuals/year6/math/ac9m6sp01.svg#ac9m6sp01-p-019\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6sp01.svg#ac9m6sp01-p-019",
+      "alt_text": "A Year 6 Parallel Cross-sections of Three-dimensional Objects reasoning organiser highlighting square pyramid."
+    },
+    "answers": [
+      "base; parallel cross-section",
+      "square; smaller/larger similar square",
+      "rectangle; congruent rectangle"
+    ],
+    "correct": 1,
+    "explanation": "The representation connects square pyramid with square; smaller/larger similar square.\nHint: Use the mathematical role of the entry, not a repeated word.",
+    "structuredExplanation": {
+      "summary": "The representation connects square pyramid with square; smaller/larger similar square.",
+      "hint": "Use the mathematical role of the entry, not a repeated word."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m6sp01-p-020",
+    "curriculumCode": "AC9M6SP01",
+    "bank": "practice",
+    "skill": "parallel cross sections of three dimensional objects",
+    "printable": true,
+    "type": "single",
+    "question": "In a games club. The quantities or representation come from a fresh example. a Parallel Cross-sections of Three-dimensional Objects organiser labels a row “cone”. Which entry belongs in that row?",
+    "audioPrompt": "In a games club. The quantities or representation come from a fresh example. a Parallel Cross-sections of Three-dimensional Objects organiser labels a row “cone”. Which entry belongs in that row?",
+    "visual": "A Year 6 Parallel Cross-sections of Three-dimensional Objects reasoning organiser highlighting cone.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A Year 6 Parallel Cross-sections of Three-dimensional Objects reasoning organiser highlighting cone.\"><use href=\"/assets/assessment-visuals/year6/math/ac9m6sp01.svg#ac9m6sp01-p-020\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6sp01.svg#ac9m6sp01-p-020",
+      "alt_text": "A Year 6 Parallel Cross-sections of Three-dimensional Objects reasoning organiser highlighting cone."
+    },
+    "answers": [
+      "base; parallel cross-section",
+      "rectangle; congruent rectangle",
+      "circle; smaller/larger circle"
+    ],
+    "correct": 2,
+    "explanation": "The representation connects cone with circle; smaller/larger circle.\nHint: Use the mathematical role of the entry, not a repeated word.",
+    "structuredExplanation": {
+      "summary": "The representation connects cone with circle; smaller/larger circle.",
+      "hint": "Use the mathematical role of the entry, not a repeated word."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m6sp01-p-021",
+    "curriculumCode": "AC9M6SP01",
+    "bank": "practice",
+    "skill": "parallel cross sections of three dimensional objects",
+    "printable": true,
+    "type": "single",
+    "question": "During an art project. The quantities or representation come from a fresh example. What is a cross-section parallel to the base of a triangular prism?",
+    "audioPrompt": "During an art project. The quantities or representation come from a fresh example. What is a cross-section parallel to the base of a triangular prism?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      "A congruent triangle",
+      "A circle",
+      "A smaller square"
+    ],
+    "correct": 0,
+    "explanation": "A congruent triangle follows from the quantities and relationship in the question.\nHint: Estimate or substitute to reject the tempting misconception.",
+    "structuredExplanation": {
+      "summary": "A congruent triangle follows from the quantities and relationship in the question.",
+      "hint": "Estimate or substitute to reject the tempting misconception."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m6sp01-p-022",
+    "curriculumCode": "AC9M6SP01",
+    "bank": "practice",
+    "skill": "parallel cross sections of three dimensional objects",
+    "printable": true,
+    "type": "single",
+    "question": "At the recycling station. The quantities or representation come from a fresh example. How do parallel cross-sections of a square pyramid change toward the apex?",
+    "audioPrompt": "At the recycling station. The quantities or representation come from a fresh example. How do parallel cross-sections of a square pyramid change toward the apex?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      "They remain congruent",
+      "They remain square but become smaller",
+      "They become circles"
+    ],
+    "correct": 1,
+    "explanation": "They remain square but become smaller follows from the quantities and relationship in the question.\nHint: Estimate or substitute to reject the tempting misconception.",
+    "structuredExplanation": {
+      "summary": "They remain square but become smaller follows from the quantities and relationship in the question.",
+      "hint": "Estimate or substitute to reject the tempting misconception."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m6sp01-p-023",
+    "curriculumCode": "AC9M6SP01",
+    "bank": "practice",
+    "skill": "parallel cross sections of three dimensional objects",
+    "printable": true,
+    "type": "single",
+    "question": "While planning a class survey. The quantities or representation come from a fresh example. a student reasons, “Every slice matches the base”. Which response corrects the error?",
+    "audioPrompt": "While planning a class survey. The quantities or representation come from a fresh example. a student reasons, “Every slice matches the base”. Which response corrects the error?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      "Keep the claim because one example is enough.",
+      "Make the claim more certain without checking the quantities.",
+      "Only slices parallel to the base have the stated relationship."
+    ],
+    "correct": 2,
+    "explanation": "Only slices parallel to the base have the stated relationship.\nHint: Identify the exact misconception, then choose the correction that preserves the mathematics.",
+    "structuredExplanation": {
+      "summary": "Only slices parallel to the base have the stated relationship.",
+      "hint": "Identify the exact misconception, then choose the correction that preserves the mathematics."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m6sp01-p-024",
+    "curriculumCode": "AC9M6SP01",
+    "bank": "practice",
+    "skill": "parallel cross sections of three dimensional objects",
+    "printable": true,
+    "type": "single",
+    "question": "In a coding lesson. The quantities or representation come from a fresh example. a student reasons, “Prism and pyramid treated alike”. Which response corrects the error?",
+    "audioPrompt": "In a coding lesson. The quantities or representation come from a fresh example. a student reasons, “Prism and pyramid treated alike”. Which response corrects the error?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      "Prism sections stay congruent; pyramid sections scale.",
+      "Keep the claim because one example is enough.",
+      "Make the claim more certain without checking the quantities."
+    ],
+    "correct": 0,
+    "explanation": "Prism sections stay congruent; pyramid sections scale.\nHint: Identify the exact misconception, then choose the correction that preserves the mathematics.",
+    "structuredExplanation": {
+      "summary": "Prism sections stay congruent; pyramid sections scale.",
+      "hint": "Identify the exact misconception, then choose the correction that preserves the mathematics."
     },
     "qualitySchema": "production-v1"
   }

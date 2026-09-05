@@ -326,95 +326,8 @@ window.skillrTestQuestions = [
     "skill": "establishing and applying the rectangle area formula",
     "printable": true,
     "type": "single",
-    "question": "In an environmental study, a student uses the term “composite region”. Which description shows it correctly?",
-    "audioPrompt": "In an environmental study, a student uses the term “composite region”. Which description shows it correctly?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "asset_path": "",
-      "alt_text": ""
-    },
-    "answers": [
-      "measure of surface coverage in square units",
-      "region formed from simpler shapes",
-      "measured length defining a shape"
-    ],
-    "correct": 1,
-    "explanation": "composite region means region formed from simpler shapes.\nHint: Match every feature of the description to the mathematical term.",
-    "structuredExplanation": {
-      "summary": "composite region means region formed from simpler shapes.",
-      "hint": "Match every feature of the description to the mathematical term."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m6m02-t-013",
-    "curriculumCode": "AC9M6M02",
-    "bank": "test",
-    "skill": "establishing and applying the rectangle area formula",
-    "printable": true,
-    "type": "single",
-    "question": "During a playground redesign, a student uses the term “dimension”. Which description shows it correctly?",
-    "audioPrompt": "During a playground redesign, a student uses the term “dimension”. Which description shows it correctly?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "asset_path": "",
-      "alt_text": ""
-    },
-    "answers": [
-      "measure of surface coverage in square units",
-      "region formed from simpler shapes",
-      "measured length defining a shape"
-    ],
-    "correct": 2,
-    "explanation": "dimension means measured length defining a shape.\nHint: Match every feature of the description to the mathematical term.",
-    "structuredExplanation": {
-      "summary": "dimension means measured length defining a shape.",
-      "hint": "Match every feature of the description to the mathematical term."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m6m02-t-014",
-    "curriculumCode": "AC9M6M02",
-    "bank": "test",
-    "skill": "establishing and applying the rectangle area formula",
-    "printable": true,
-    "type": "single",
-    "question": "At a transport depot, a student uses the term “area”. Which description shows it correctly?",
-    "audioPrompt": "At a transport depot, a student uses the term “area”. Which description shows it correctly?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "asset_path": "",
-      "alt_text": ""
-    },
-    "answers": [
-      "measure of surface coverage in square units",
-      "measured length defining a shape",
-      "region formed from simpler shapes"
-    ],
-    "correct": 0,
-    "explanation": "area means measure of surface coverage in square units.\nHint: Match every feature of the description to the mathematical term.",
-    "structuredExplanation": {
-      "summary": "area means measure of surface coverage in square units.",
-      "hint": "Match every feature of the description to the mathematical term."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m6m02-t-015",
-    "curriculumCode": "AC9M6M02",
-    "bank": "test",
-    "skill": "establishing and applying the rectangle area formula",
-    "printable": true,
-    "type": "single",
-    "question": "While preparing a camping trip. The quantities or representation come from a fresh example. another student selected “64 m”. Reconsider the evidence: A rectangle has area 72 m² and width 8 m. What is its length?",
-    "audioPrompt": "While preparing a camping trip. The quantities or representation come from a fresh example. another student selected “64 m”. Reconsider the evidence: A rectangle has area 72 m² and width 8 m. What is its length?",
+    "question": "In an environmental study. The quantities or representation come from a fresh example. another student selected “64 m”. Reconsider the evidence: A rectangle has area 72 m² and width 8 m. What is its length?",
+    "audioPrompt": "In an environmental study. The quantities or representation come from a fresh example. another student selected “64 m”. Reconsider the evidence: A rectangle has area 72 m² and width 8 m. What is its length?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -436,14 +349,14 @@ window.skillrTestQuestions = [
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9m6m02-t-016",
+    "id": "ac9m6m02-t-013",
     "curriculumCode": "AC9M6M02",
     "bank": "test",
     "skill": "establishing and applying the rectangle area formula",
     "printable": true,
     "type": "single",
-    "question": "In a strategy tournament. The quantities or representation come from a fresh example. another student selected “27 m²”. Reconsider the evidence: What is the area of an 8 m × 5.5 m rectangle?",
-    "audioPrompt": "In a strategy tournament. The quantities or representation come from a fresh example. another student selected “27 m²”. Reconsider the evidence: What is the area of an 8 m × 5.5 m rectangle?",
+    "question": "During a playground redesign. The quantities or representation come from a fresh example. another student selected “27 m²”. Reconsider the evidence: What is the area of an 8 m × 5.5 m rectangle?",
+    "audioPrompt": "During a playground redesign. The quantities or representation come from a fresh example. another student selected “27 m²”. Reconsider the evidence: What is the area of an 8 m × 5.5 m rectangle?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -461,6 +374,93 @@ window.skillrTestQuestions = [
     "structuredExplanation": {
       "summary": "44 m² follows from the quantities and relationship in the question.",
       "hint": "Estimate or substitute to reject the tempting misconception."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m6m02-t-014",
+    "curriculumCode": "AC9M6M02",
+    "bank": "test",
+    "skill": "establishing and applying the rectangle area formula",
+    "printable": true,
+    "type": "single",
+    "question": "At a transport depot. The quantities or representation come from a fresh example. a Establishing and Applying the Rectangle Area Formula organiser contains “area ÷ tile area; round for whole tiles and waste”. Which heading best identifies that information?",
+    "audioPrompt": "At a transport depot. The quantities or representation come from a fresh example. a Establishing and Applying the Rectangle Area Formula organiser contains “area ÷ tile area; round for whole tiles and waste”. Which heading best identifies that information?",
+    "visual": "A Year 6 Establishing and Applying the Rectangle Area Formula reasoning organiser highlighting tiles.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A Year 6 Establishing and Applying the Rectangle Area Formula reasoning organiser highlighting tiles.\"><use href=\"/assets/assessment-visuals/year6/math/ac9m6m02.svg#ac9m6m02-t-014\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6m02.svg#ac9m6m02-t-014",
+      "alt_text": "A Year 6 Establishing and Applying the Rectangle Area Formula reasoning organiser highlighting tiles."
+    },
+    "answers": [
+      "tiles",
+      "floor 8 m × 5.5 m",
+      "area 72 m², width 8 m"
+    ],
+    "correct": 0,
+    "explanation": "The representation connects tiles with area ÷ tile area; round for whole tiles and waste.\nHint: Use the mathematical role of the entry, not a repeated word.",
+    "structuredExplanation": {
+      "summary": "The representation connects tiles with area ÷ tile area; round for whole tiles and waste.",
+      "hint": "Use the mathematical role of the entry, not a repeated word."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m6m02-t-015",
+    "curriculumCode": "AC9M6M02",
+    "bank": "test",
+    "skill": "establishing and applying the rectangle area formula",
+    "printable": true,
+    "type": "single",
+    "question": "While preparing a camping trip. The quantities or representation come from a fresh example. a Establishing and Applying the Rectangle Area Formula organiser contains “large rectangle − missing rectangle”. Which heading best identifies that information?",
+    "audioPrompt": "While preparing a camping trip. The quantities or representation come from a fresh example. a Establishing and Applying the Rectangle Area Formula organiser contains “large rectangle − missing rectangle”. Which heading best identifies that information?",
+    "visual": "A Year 6 Establishing and Applying the Rectangle Area Formula reasoning organiser highlighting L-shape.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A Year 6 Establishing and Applying the Rectangle Area Formula reasoning organiser highlighting L-shape.\"><use href=\"/assets/assessment-visuals/year6/math/ac9m6m02.svg#ac9m6m02-t-015\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6m02.svg#ac9m6m02-t-015",
+      "alt_text": "A Year 6 Establishing and Applying the Rectangle Area Formula reasoning organiser highlighting L-shape."
+    },
+    "answers": [
+      "floor 8 m × 5.5 m",
+      "L-shape",
+      "area 72 m², width 8 m"
+    ],
+    "correct": 1,
+    "explanation": "The representation connects L-shape with large rectangle − missing rectangle.\nHint: Use the mathematical role of the entry, not a repeated word.",
+    "structuredExplanation": {
+      "summary": "The representation connects L-shape with large rectangle − missing rectangle.",
+      "hint": "Use the mathematical role of the entry, not a repeated word."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m6m02-t-016",
+    "curriculumCode": "AC9M6M02",
+    "bank": "test",
+    "skill": "establishing and applying the rectangle area formula",
+    "printable": true,
+    "type": "single",
+    "question": "In a strategy tournament. The quantities or representation come from a fresh example. a Establishing and Applying the Rectangle Area Formula organiser contains “length = 9 m”. Which heading best identifies that information?",
+    "audioPrompt": "In a strategy tournament. The quantities or representation come from a fresh example. a Establishing and Applying the Rectangle Area Formula organiser contains “length = 9 m”. Which heading best identifies that information?",
+    "visual": "A Year 6 Establishing and Applying the Rectangle Area Formula reasoning organiser highlighting area 72 m², width 8 m.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A Year 6 Establishing and Applying the Rectangle Area Formula reasoning organiser highlighting area 72 m², width 8 m.\"><use href=\"/assets/assessment-visuals/year6/math/ac9m6m02.svg#ac9m6m02-t-016\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6m02.svg#ac9m6m02-t-016",
+      "alt_text": "A Year 6 Establishing and Applying the Rectangle Area Formula reasoning organiser highlighting area 72 m², width 8 m."
+    },
+    "answers": [
+      "floor 8 m × 5.5 m",
+      "L-shape",
+      "area 72 m², width 8 m"
+    ],
+    "correct": 2,
+    "explanation": "The representation connects area 72 m², width 8 m with length = 9 m.\nHint: Use the mathematical role of the entry, not a repeated word.",
+    "structuredExplanation": {
+      "summary": "The representation connects area 72 m², width 8 m with length = 9 m.",
+      "hint": "Use the mathematical role of the entry, not a repeated word."
     },
     "qualitySchema": "production-v1"
   }

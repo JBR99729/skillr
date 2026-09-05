@@ -384,8 +384,8 @@ window.skillrTestQuestions = [
     "skill": "fractions decimals and percentages of quantities",
     "printable": true,
     "type": "single",
-    "question": "At a transport depot, a student uses the term “sale price”. Which description shows it correctly?",
-    "audioPrompt": "At a transport depot, a student uses the term “sale price”. Which description shows it correctly?",
+    "question": "At a transport depot. The quantities or representation come from a fresh example. another student selected “$60”. Reconsider the evidence: A $240 item has 25% off. What is the sale price?",
+    "audioPrompt": "At a transport depot. The quantities or representation come from a fresh example. another student selected “$60”. Reconsider the evidence: A $240 item has 25% off. What is the sale price?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -394,15 +394,15 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "part found by applying a rate per hundred",
-      "amount removed from an original price",
-      "original price minus discount"
+      "$60",
+      "$215",
+      "$180"
     ],
     "correct": 2,
-    "explanation": "sale price means original price minus discount.\nHint: Match every feature of the description to the mathematical term.",
+    "explanation": "$180 follows from the quantities and relationship in the question.\nHint: Estimate or substitute to reject the tempting misconception.",
     "structuredExplanation": {
-      "summary": "sale price means original price minus discount.",
-      "hint": "Match every feature of the description to the mathematical term."
+      "summary": "$180 follows from the quantities and relationship in the question.",
+      "hint": "Estimate or substitute to reject the tempting misconception."
     },
     "qualitySchema": "production-v1"
   },
@@ -413,8 +413,8 @@ window.skillrTestQuestions = [
     "skill": "fractions decimals and percentages of quantities",
     "printable": true,
     "type": "single",
-    "question": "While preparing a camping trip, a student uses the term “discount”. Which description shows it correctly?",
-    "audioPrompt": "While preparing a camping trip, a student uses the term “discount”. Which description shows it correctly?",
+    "question": "While preparing a camping trip. The quantities or representation come from a fresh example. another student selected “$180”. Reconsider the evidence: What is 25% of $240?",
+    "audioPrompt": "While preparing a camping trip. The quantities or representation come from a fresh example. another student selected “$180”. Reconsider the evidence: What is 25% of $240?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -423,15 +423,15 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "amount removed from an original price",
-      "part found by applying a rate per hundred",
-      "original price minus discount"
+      "$60",
+      "$180",
+      "$25"
     ],
     "correct": 0,
-    "explanation": "discount means amount removed from an original price.\nHint: Match every feature of the description to the mathematical term.",
+    "explanation": "$60 follows from the quantities and relationship in the question.\nHint: Estimate or substitute to reject the tempting misconception.",
     "structuredExplanation": {
-      "summary": "discount means amount removed from an original price.",
-      "hint": "Match every feature of the description to the mathematical term."
+      "summary": "$60 follows from the quantities and relationship in the question.",
+      "hint": "Estimate or substitute to reject the tempting misconception."
     },
     "qualitySchema": "production-v1"
   },
@@ -442,25 +442,25 @@ window.skillrTestQuestions = [
     "skill": "fractions decimals and percentages of quantities",
     "printable": true,
     "type": "single",
-    "question": "In a strategy tournament, a student uses the term “percentage of a quantity”. Which description shows it correctly?",
-    "audioPrompt": "In a strategy tournament, a student uses the term “percentage of a quantity”. Which description shows it correctly?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "In a strategy tournament. The quantities or representation come from a fresh example. a Fractions, Decimals and Percentages of Quantities organiser contains “compare many prices after formula is set”. Which heading best identifies that information?",
+    "audioPrompt": "In a strategy tournament. The quantities or representation come from a fresh example. a Fractions, Decimals and Percentages of Quantities organiser contains “compare many prices after formula is set”. Which heading best identifies that information?",
+    "visual": "A Year 6 Fractions, Decimals and Percentages of Quantities reasoning organiser highlighting digital tool.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A Year 6 Fractions, Decimals and Percentages of Quantities reasoning organiser highlighting digital tool.\"><use href=\"/assets/assessment-visuals/year6/math/ac9m6n07.svg#ac9m6n07-t-016\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "asset_path": "",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6n07.svg#ac9m6n07-t-016",
+      "alt_text": "A Year 6 Fractions, Decimals and Percentages of Quantities reasoning organiser highlighting digital tool."
     },
     "answers": [
-      "amount removed from an original price",
-      "part found by applying a rate per hundred",
-      "original price minus discount"
+      "20% discount on $85",
+      "digital tool",
+      "10% of 360"
     ],
     "correct": 1,
-    "explanation": "percentage of a quantity means part found by applying a rate per hundred.\nHint: Match every feature of the description to the mathematical term.",
+    "explanation": "The representation connects digital tool with compare many prices after formula is set.\nHint: Use the mathematical role of the entry, not a repeated word.",
     "structuredExplanation": {
-      "summary": "percentage of a quantity means part found by applying a rate per hundred.",
-      "hint": "Match every feature of the description to the mathematical term."
+      "summary": "The representation connects digital tool with compare many prices after formula is set.",
+      "hint": "Use the mathematical role of the entry, not a repeated word."
     },
     "qualitySchema": "production-v1"
   }

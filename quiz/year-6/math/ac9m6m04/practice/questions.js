@@ -7,95 +7,8 @@ window.skillrPracticeQuestions = [
     "skill": "angle relationships on lines and at points",
     "printable": true,
     "type": "single",
-    "question": "During a class investigation, a note says “angles with total 180°”. Which mathematical term labels it?",
-    "audioPrompt": "During a class investigation, a note says “angles with total 180°”. Which mathematical term labels it?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "asset_path": "",
-      "alt_text": ""
-    },
-    "answers": [
-      "supplementary angles",
-      "vertically opposite angles",
-      "angles at a point"
-    ],
-    "correct": 0,
-    "explanation": "supplementary angles means angles with total 180°.\nHint: Match every feature of the description to the mathematical term.",
-    "structuredExplanation": {
-      "summary": "supplementary angles means angles with total 180°.",
-      "hint": "Match every feature of the description to the mathematical term."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m6m04-p-002",
-    "curriculumCode": "AC9M6M04",
-    "bank": "practice",
-    "skill": "angle relationships on lines and at points",
-    "printable": true,
-    "type": "single",
-    "question": "At the school market, a note says “opposite angles formed by intersecting lines”. Which mathematical term labels it?",
-    "audioPrompt": "At the school market, a note says “opposite angles formed by intersecting lines”. Which mathematical term labels it?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "asset_path": "",
-      "alt_text": ""
-    },
-    "answers": [
-      "supplementary angles",
-      "vertically opposite angles",
-      "angles at a point"
-    ],
-    "correct": 1,
-    "explanation": "vertically opposite angles means opposite angles formed by intersecting lines.\nHint: Match every feature of the description to the mathematical term.",
-    "structuredExplanation": {
-      "summary": "vertically opposite angles means opposite angles formed by intersecting lines.",
-      "hint": "Match every feature of the description to the mathematical term."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m6m04-p-003",
-    "curriculumCode": "AC9M6M04",
-    "bank": "practice",
-    "skill": "angle relationships on lines and at points",
-    "printable": true,
-    "type": "single",
-    "question": "While planning a garden, a note says “angles around a point totalling 360°”. Which mathematical term labels it?",
-    "audioPrompt": "While planning a garden, a note says “angles around a point totalling 360°”. Which mathematical term labels it?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "asset_path": "",
-      "alt_text": ""
-    },
-    "answers": [
-      "supplementary angles",
-      "vertically opposite angles",
-      "angles at a point"
-    ],
-    "correct": 2,
-    "explanation": "angles at a point means angles around a point totalling 360°.\nHint: Match every feature of the description to the mathematical term.",
-    "structuredExplanation": {
-      "summary": "angles at a point means angles around a point totalling 360°.",
-      "hint": "Match every feature of the description to the mathematical term."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m6m04-p-004",
-    "curriculumCode": "AC9M6M04",
-    "bank": "practice",
-    "skill": "angle relationships on lines and at points",
-    "printable": true,
-    "type": "single",
-    "question": "In a robotics challenge, a student reasons, “Diagram measured instead of relationship used”. Which response corrects the error?",
-    "audioPrompt": "In a robotics challenge, a student reasons, “Diagram measured instead of relationship used”. Which response corrects the error?",
+    "question": "During a class investigation, a student reasons, “Diagram measured instead of relationship used”. Which response corrects the error?",
+    "audioPrompt": "During a class investigation, a student reasons, “Diagram measured instead of relationship used”. Which response corrects the error?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -117,14 +30,14 @@ window.skillrPracticeQuestions = [
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9m6m04-p-005",
+    "id": "ac9m6m04-p-002",
     "curriculumCode": "AC9M6M04",
     "bank": "practice",
     "skill": "angle relationships on lines and at points",
     "printable": true,
     "type": "single",
-    "question": "During sports-day planning, a student reasons, “Adjacent and vertically opposite confused”. Which response corrects the error?",
-    "audioPrompt": "During sports-day planning, a student reasons, “Adjacent and vertically opposite confused”. Which response corrects the error?",
+    "question": "At the school market, a student reasons, “Adjacent and vertically opposite confused”. Which response corrects the error?",
+    "audioPrompt": "At the school market, a student reasons, “Adjacent and vertically opposite confused”. Which response corrects the error?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -146,14 +59,14 @@ window.skillrPracticeQuestions = [
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9m6m04-p-006",
+    "id": "ac9m6m04-p-003",
     "curriculumCode": "AC9M6M04",
     "bank": "practice",
     "skill": "angle relationships on lines and at points",
     "printable": true,
     "type": "single",
-    "question": "At a wildlife centre, a student reasons, “180° used around a point”. Which response corrects the error?",
-    "audioPrompt": "At a wildlife centre, a student reasons, “180° used around a point”. Which response corrects the error?",
+    "question": "While planning a garden, a student reasons, “180° used around a point”. Which response corrects the error?",
+    "audioPrompt": "While planning a garden, a student reasons, “180° used around a point”. Which response corrects the error?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -175,14 +88,14 @@ window.skillrPracticeQuestions = [
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9m6m04-p-007",
+    "id": "ac9m6m04-p-004",
     "curriculumCode": "AC9M6M04",
     "bank": "practice",
     "skill": "angle relationships on lines and at points",
     "printable": true,
     "type": "single",
-    "question": "While checking a map, a student reasons, “Reflex angle omitted”. Which response corrects the error?",
-    "audioPrompt": "While checking a map, a student reasons, “Reflex angle omitted”. Which response corrects the error?",
+    "question": "In a robotics challenge, a student reasons, “Reflex angle omitted”. Which response corrects the error?",
+    "audioPrompt": "In a robotics challenge, a student reasons, “Reflex angle omitted”. Which response corrects the error?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -204,19 +117,19 @@ window.skillrPracticeQuestions = [
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9m6m04-p-008",
+    "id": "ac9m6m04-p-005",
     "curriculumCode": "AC9M6M04",
     "bank": "practice",
     "skill": "angle relationships on lines and at points",
     "printable": true,
     "type": "single",
-    "question": "In the makerspace, a Angle Relationships on Lines and at Points organiser labels a row “straight line”. Which entry belongs in that row?",
-    "audioPrompt": "In the makerspace, a Angle Relationships on Lines and at Points organiser labels a row “straight line”. Which entry belongs in that row?",
+    "question": "During sports-day planning, a Angle Relationships on Lines and at Points organiser labels a row “straight line”. Which entry belongs in that row?",
+    "audioPrompt": "During sports-day planning, a Angle Relationships on Lines and at Points organiser labels a row “straight line”. Which entry belongs in that row?",
     "visual": "A Year 6 Angle Relationships on Lines and at Points reasoning organiser highlighting straight line.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A Year 6 Angle Relationships on Lines and at Points reasoning organiser highlighting straight line.\"><use href=\"/assets/assessment-visuals/year6/math/ac9m6m04.svg#ac9m6m04-p-008\"></use></svg>",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A Year 6 Angle Relationships on Lines and at Points reasoning organiser highlighting straight line.\"><use href=\"/assets/assessment-visuals/year6/math/ac9m6m04.svg#ac9m6m04-p-005\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6m04.svg#ac9m6m04-p-008",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6m04.svg#ac9m6m04-p-005",
       "alt_text": "A Year 6 Angle Relationships on Lines and at Points reasoning organiser highlighting straight line."
     },
     "answers": [
@@ -233,19 +146,19 @@ window.skillrPracticeQuestions = [
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9m6m04-p-009",
+    "id": "ac9m6m04-p-006",
     "curriculumCode": "AC9M6M04",
     "bank": "practice",
     "skill": "angle relationships on lines and at points",
     "printable": true,
     "type": "single",
-    "question": "During a cooking project, a Angle Relationships on Lines and at Points organiser labels a row “angles at a point”. Which entry belongs in that row?",
-    "audioPrompt": "During a cooking project, a Angle Relationships on Lines and at Points organiser labels a row “angles at a point”. Which entry belongs in that row?",
+    "question": "At a wildlife centre, a Angle Relationships on Lines and at Points organiser labels a row “angles at a point”. Which entry belongs in that row?",
+    "audioPrompt": "At a wildlife centre, a Angle Relationships on Lines and at Points organiser labels a row “angles at a point”. Which entry belongs in that row?",
     "visual": "A Year 6 Angle Relationships on Lines and at Points reasoning organiser highlighting angles at a point.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A Year 6 Angle Relationships on Lines and at Points reasoning organiser highlighting angles at a point.\"><use href=\"/assets/assessment-visuals/year6/math/ac9m6m04.svg#ac9m6m04-p-009\"></use></svg>",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A Year 6 Angle Relationships on Lines and at Points reasoning organiser highlighting angles at a point.\"><use href=\"/assets/assessment-visuals/year6/math/ac9m6m04.svg#ac9m6m04-p-006\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6m04.svg#ac9m6m04-p-009",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6m04.svg#ac9m6m04-p-006",
       "alt_text": "A Year 6 Angle Relationships on Lines and at Points reasoning organiser highlighting angles at a point."
     },
     "answers": [
@@ -262,19 +175,19 @@ window.skillrPracticeQuestions = [
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9m6m04-p-010",
+    "id": "ac9m6m04-p-007",
     "curriculumCode": "AC9M6M04",
     "bank": "practice",
     "skill": "angle relationships on lines and at points",
     "printable": true,
     "type": "single",
-    "question": "At the community fair, a Angle Relationships on Lines and at Points organiser labels a row “vertically opposite”. Which entry belongs in that row?",
-    "audioPrompt": "At the community fair, a Angle Relationships on Lines and at Points organiser labels a row “vertically opposite”. Which entry belongs in that row?",
+    "question": "While checking a map, a Angle Relationships on Lines and at Points organiser labels a row “vertically opposite”. Which entry belongs in that row?",
+    "audioPrompt": "While checking a map, a Angle Relationships on Lines and at Points organiser labels a row “vertically opposite”. Which entry belongs in that row?",
     "visual": "A Year 6 Angle Relationships on Lines and at Points reasoning organiser highlighting vertically opposite.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A Year 6 Angle Relationships on Lines and at Points reasoning organiser highlighting vertically opposite.\"><use href=\"/assets/assessment-visuals/year6/math/ac9m6m04.svg#ac9m6m04-p-010\"></use></svg>",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A Year 6 Angle Relationships on Lines and at Points reasoning organiser highlighting vertically opposite.\"><use href=\"/assets/assessment-visuals/year6/math/ac9m6m04.svg#ac9m6m04-p-007\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6m04.svg#ac9m6m04-p-010",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6m04.svg#ac9m6m04-p-007",
       "alt_text": "A Year 6 Angle Relationships on Lines and at Points reasoning organiser highlighting vertically opposite."
     },
     "answers": [
@@ -291,19 +204,19 @@ window.skillrPracticeQuestions = [
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9m6m04-p-011",
+    "id": "ac9m6m04-p-008",
     "curriculumCode": "AC9M6M04",
     "bank": "practice",
     "skill": "angle relationships on lines and at points",
     "printable": true,
     "type": "single",
-    "question": "While organising a library display, a Angle Relationships on Lines and at Points organiser labels a row “right angle”. Which entry belongs in that row?",
-    "audioPrompt": "While organising a library display, a Angle Relationships on Lines and at Points organiser labels a row “right angle”. Which entry belongs in that row?",
+    "question": "In the makerspace, a Angle Relationships on Lines and at Points organiser labels a row “right angle”. Which entry belongs in that row?",
+    "audioPrompt": "In the makerspace, a Angle Relationships on Lines and at Points organiser labels a row “right angle”. Which entry belongs in that row?",
     "visual": "A Year 6 Angle Relationships on Lines and at Points reasoning organiser highlighting right angle.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A Year 6 Angle Relationships on Lines and at Points reasoning organiser highlighting right angle.\"><use href=\"/assets/assessment-visuals/year6/math/ac9m6m04.svg#ac9m6m04-p-011\"></use></svg>",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A Year 6 Angle Relationships on Lines and at Points reasoning organiser highlighting right angle.\"><use href=\"/assets/assessment-visuals/year6/math/ac9m6m04.svg#ac9m6m04-p-008\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6m04.svg#ac9m6m04-p-011",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6m04.svg#ac9m6m04-p-008",
       "alt_text": "A Year 6 Angle Relationships on Lines and at Points reasoning organiser highlighting right angle."
     },
     "answers": [
@@ -320,19 +233,19 @@ window.skillrPracticeQuestions = [
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9m6m04-p-012",
+    "id": "ac9m6m04-p-009",
     "curriculumCode": "AC9M6M04",
     "bank": "practice",
     "skill": "angle relationships on lines and at points",
     "printable": true,
     "type": "single",
-    "question": "In a science notebook, a Angle Relationships on Lines and at Points organiser labels a row “125”. Which entry belongs in that row?",
-    "audioPrompt": "In a science notebook, a Angle Relationships on Lines and at Points organiser labels a row “125”. Which entry belongs in that row?",
+    "question": "During a cooking project, a Angle Relationships on Lines and at Points organiser labels a row “125”. Which entry belongs in that row?",
+    "audioPrompt": "During a cooking project, a Angle Relationships on Lines and at Points organiser labels a row “125”. Which entry belongs in that row?",
     "visual": "A Year 6 Angle Relationships on Lines and at Points reasoning organiser highlighting 125.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A Year 6 Angle Relationships on Lines and at Points reasoning organiser highlighting 125.\"><use href=\"/assets/assessment-visuals/year6/math/ac9m6m04.svg#ac9m6m04-p-012\"></use></svg>",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A Year 6 Angle Relationships on Lines and at Points reasoning organiser highlighting 125.\"><use href=\"/assets/assessment-visuals/year6/math/ac9m6m04.svg#ac9m6m04-p-009\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6m04.svg#ac9m6m04-p-012",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6m04.svg#ac9m6m04-p-009",
       "alt_text": "A Year 6 Angle Relationships on Lines and at Points reasoning organiser highlighting 125."
     },
     "answers": [
@@ -349,19 +262,19 @@ window.skillrPracticeQuestions = [
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9m6m04-p-013",
+    "id": "ac9m6m04-p-010",
     "curriculumCode": "AC9M6M04",
     "bank": "practice",
     "skill": "angle relationships on lines and at points",
     "printable": true,
     "type": "single",
-    "question": "During a design challenge, a Angle Relationships on Lines and at Points organiser labels a row “90”. Which entry belongs in that row?",
-    "audioPrompt": "During a design challenge, a Angle Relationships on Lines and at Points organiser labels a row “90”. Which entry belongs in that row?",
+    "question": "At the community fair, a Angle Relationships on Lines and at Points organiser labels a row “90”. Which entry belongs in that row?",
+    "audioPrompt": "At the community fair, a Angle Relationships on Lines and at Points organiser labels a row “90”. Which entry belongs in that row?",
     "visual": "A Year 6 Angle Relationships on Lines and at Points reasoning organiser highlighting 90.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A Year 6 Angle Relationships on Lines and at Points reasoning organiser highlighting 90.\"><use href=\"/assets/assessment-visuals/year6/math/ac9m6m04.svg#ac9m6m04-p-013\"></use></svg>",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A Year 6 Angle Relationships on Lines and at Points reasoning organiser highlighting 90.\"><use href=\"/assets/assessment-visuals/year6/math/ac9m6m04.svg#ac9m6m04-p-010\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6m04.svg#ac9m6m04-p-013",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6m04.svg#ac9m6m04-p-010",
       "alt_text": "A Year 6 Angle Relationships on Lines and at Points reasoning organiser highlighting 90."
     },
     "answers": [
@@ -378,19 +291,19 @@ window.skillrPracticeQuestions = [
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9m6m04-p-014",
+    "id": "ac9m6m04-p-011",
     "curriculumCode": "AC9M6M04",
     "bank": "practice",
     "skill": "angle relationships on lines and at points",
     "printable": true,
     "type": "single",
-    "question": "At the school canteen, a Angle Relationships on Lines and at Points organiser labels a row “235”. Which entry belongs in that row?",
-    "audioPrompt": "At the school canteen, a Angle Relationships on Lines and at Points organiser labels a row “235”. Which entry belongs in that row?",
+    "question": "While organising a library display, a Angle Relationships on Lines and at Points organiser labels a row “235”. Which entry belongs in that row?",
+    "audioPrompt": "While organising a library display, a Angle Relationships on Lines and at Points organiser labels a row “235”. Which entry belongs in that row?",
     "visual": "A Year 6 Angle Relationships on Lines and at Points reasoning organiser highlighting 235.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A Year 6 Angle Relationships on Lines and at Points reasoning organiser highlighting 235.\"><use href=\"/assets/assessment-visuals/year6/math/ac9m6m04.svg#ac9m6m04-p-014\"></use></svg>",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A Year 6 Angle Relationships on Lines and at Points reasoning organiser highlighting 235.\"><use href=\"/assets/assessment-visuals/year6/math/ac9m6m04.svg#ac9m6m04-p-011\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6m04.svg#ac9m6m04-p-014",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6m04.svg#ac9m6m04-p-011",
       "alt_text": "A Year 6 Angle Relationships on Lines and at Points reasoning organiser highlighting 235."
     },
     "answers": [
@@ -407,14 +320,14 @@ window.skillrPracticeQuestions = [
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9m6m04-p-015",
+    "id": "ac9m6m04-p-012",
     "curriculumCode": "AC9M6M04",
     "bank": "practice",
     "skill": "angle relationships on lines and at points",
     "printable": true,
     "type": "single",
-    "question": "While comparing travel plans, An angle on a straight line is 55°. What is the adjacent angle?",
-    "audioPrompt": "While comparing travel plans, An angle on a straight line is 55°. What is the adjacent angle?",
+    "question": "In a science notebook, An angle on a straight line is 55°. What is the adjacent angle?",
+    "audioPrompt": "In a science notebook, An angle on a straight line is 55°. What is the adjacent angle?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -436,14 +349,14 @@ window.skillrPracticeQuestions = [
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9m6m04-p-016",
+    "id": "ac9m6m04-p-013",
     "curriculumCode": "AC9M6M04",
     "bank": "practice",
     "skill": "angle relationships on lines and at points",
     "printable": true,
     "type": "single",
-    "question": "In a data workshop, If one angle formed by intersecting lines is 72°, what is its vertically opposite angle?",
-    "audioPrompt": "In a data workshop, If one angle formed by intersecting lines is 72°, what is its vertically opposite angle?",
+    "question": "During a design challenge, If one angle formed by intersecting lines is 72°, what is its vertically opposite angle?",
+    "audioPrompt": "During a design challenge, If one angle formed by intersecting lines is 72°, what is its vertically opposite angle?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -465,101 +378,14 @@ window.skillrPracticeQuestions = [
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9m6m04-p-017",
+    "id": "ac9m6m04-p-014",
     "curriculumCode": "AC9M6M04",
     "bank": "practice",
     "skill": "angle relationships on lines and at points",
     "printable": true,
     "type": "single",
-    "question": "During a building project. The quantities or representation come from a fresh example. a note says “angles with total 180°”. Which mathematical term labels it?",
-    "audioPrompt": "During a building project. The quantities or representation come from a fresh example. a note says “angles with total 180°”. Which mathematical term labels it?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "asset_path": "",
-      "alt_text": ""
-    },
-    "answers": [
-      "vertically opposite angles",
-      "supplementary angles",
-      "angles at a point"
-    ],
-    "correct": 1,
-    "explanation": "supplementary angles means angles with total 180°.\nHint: Match every feature of the description to the mathematical term.",
-    "structuredExplanation": {
-      "summary": "supplementary angles means angles with total 180°.",
-      "hint": "Match every feature of the description to the mathematical term."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m6m04-p-018",
-    "curriculumCode": "AC9M6M04",
-    "bank": "practice",
-    "skill": "angle relationships on lines and at points",
-    "printable": true,
-    "type": "single",
-    "question": "At the local pool. The quantities or representation come from a fresh example. a note says “opposite angles formed by intersecting lines”. Which mathematical term labels it?",
-    "audioPrompt": "At the local pool. The quantities or representation come from a fresh example. a note says “opposite angles formed by intersecting lines”. Which mathematical term labels it?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "asset_path": "",
-      "alt_text": ""
-    },
-    "answers": [
-      "supplementary angles",
-      "angles at a point",
-      "vertically opposite angles"
-    ],
-    "correct": 2,
-    "explanation": "vertically opposite angles means opposite angles formed by intersecting lines.\nHint: Match every feature of the description to the mathematical term.",
-    "structuredExplanation": {
-      "summary": "vertically opposite angles means opposite angles formed by intersecting lines.",
-      "hint": "Match every feature of the description to the mathematical term."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m6m04-p-019",
-    "curriculumCode": "AC9M6M04",
-    "bank": "practice",
-    "skill": "angle relationships on lines and at points",
-    "printable": true,
-    "type": "single",
-    "question": "While preparing an excursion. The quantities or representation come from a fresh example. a note says “angles around a point totalling 360°”. Which mathematical term labels it?",
-    "audioPrompt": "While preparing an excursion. The quantities or representation come from a fresh example. a note says “angles around a point totalling 360°”. Which mathematical term labels it?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "asset_path": "",
-      "alt_text": ""
-    },
-    "answers": [
-      "angles at a point",
-      "supplementary angles",
-      "vertically opposite angles"
-    ],
-    "correct": 0,
-    "explanation": "angles at a point means angles around a point totalling 360°.\nHint: Match every feature of the description to the mathematical term.",
-    "structuredExplanation": {
-      "summary": "angles at a point means angles around a point totalling 360°.",
-      "hint": "Match every feature of the description to the mathematical term."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m6m04-p-020",
-    "curriculumCode": "AC9M6M04",
-    "bank": "practice",
-    "skill": "angle relationships on lines and at points",
-    "printable": true,
-    "type": "single",
-    "question": "In a games club. The quantities or representation come from a fresh example. a student reasons, “Diagram measured instead of relationship used”. Which response corrects the error?",
-    "audioPrompt": "In a games club. The quantities or representation come from a fresh example. a student reasons, “Diagram measured instead of relationship used”. Which response corrects the error?",
+    "question": "At the school canteen. The quantities or representation come from a fresh example. a student reasons, “Diagram measured instead of relationship used”. Which response corrects the error?",
+    "audioPrompt": "At the school canteen. The quantities or representation come from a fresh example. a student reasons, “Diagram measured instead of relationship used”. Which response corrects the error?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -581,14 +407,14 @@ window.skillrPracticeQuestions = [
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9m6m04-p-021",
+    "id": "ac9m6m04-p-015",
     "curriculumCode": "AC9M6M04",
     "bank": "practice",
     "skill": "angle relationships on lines and at points",
     "printable": true,
     "type": "single",
-    "question": "During an art project. The quantities or representation come from a fresh example. a student reasons, “Adjacent and vertically opposite confused”. Which response corrects the error?",
-    "audioPrompt": "During an art project. The quantities or representation come from a fresh example. a student reasons, “Adjacent and vertically opposite confused”. Which response corrects the error?",
+    "question": "While comparing travel plans. The quantities or representation come from a fresh example. a student reasons, “Adjacent and vertically opposite confused”. Which response corrects the error?",
+    "audioPrompt": "While comparing travel plans. The quantities or representation come from a fresh example. a student reasons, “Adjacent and vertically opposite confused”. Which response corrects the error?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -610,14 +436,14 @@ window.skillrPracticeQuestions = [
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9m6m04-p-022",
+    "id": "ac9m6m04-p-016",
     "curriculumCode": "AC9M6M04",
     "bank": "practice",
     "skill": "angle relationships on lines and at points",
     "printable": true,
     "type": "single",
-    "question": "At the recycling station. The quantities or representation come from a fresh example. a student reasons, “180° used around a point”. Which response corrects the error?",
-    "audioPrompt": "At the recycling station. The quantities or representation come from a fresh example. a student reasons, “180° used around a point”. Which response corrects the error?",
+    "question": "In a data workshop. The quantities or representation come from a fresh example. a student reasons, “180° used around a point”. Which response corrects the error?",
+    "audioPrompt": "In a data workshop. The quantities or representation come from a fresh example. a student reasons, “180° used around a point”. Which response corrects the error?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -639,14 +465,14 @@ window.skillrPracticeQuestions = [
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9m6m04-p-023",
+    "id": "ac9m6m04-p-017",
     "curriculumCode": "AC9M6M04",
     "bank": "practice",
     "skill": "angle relationships on lines and at points",
     "printable": true,
     "type": "single",
-    "question": "While planning a class survey. The quantities or representation come from a fresh example. a student reasons, “Reflex angle omitted”. Which response corrects the error?",
-    "audioPrompt": "While planning a class survey. The quantities or representation come from a fresh example. a student reasons, “Reflex angle omitted”. Which response corrects the error?",
+    "question": "During a building project. The quantities or representation come from a fresh example. a student reasons, “Reflex angle omitted”. Which response corrects the error?",
+    "audioPrompt": "During a building project. The quantities or representation come from a fresh example. a student reasons, “Reflex angle omitted”. Which response corrects the error?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -668,19 +494,19 @@ window.skillrPracticeQuestions = [
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9m6m04-p-024",
+    "id": "ac9m6m04-p-018",
     "curriculumCode": "AC9M6M04",
     "bank": "practice",
     "skill": "angle relationships on lines and at points",
     "printable": true,
     "type": "single",
-    "question": "In a coding lesson. The quantities or representation come from a fresh example. a Angle Relationships on Lines and at Points organiser labels a row “straight line”. Which entry belongs in that row?",
-    "audioPrompt": "In a coding lesson. The quantities or representation come from a fresh example. a Angle Relationships on Lines and at Points organiser labels a row “straight line”. Which entry belongs in that row?",
+    "question": "At the local pool. The quantities or representation come from a fresh example. a Angle Relationships on Lines and at Points organiser labels a row “straight line”. Which entry belongs in that row?",
+    "audioPrompt": "At the local pool. The quantities or representation come from a fresh example. a Angle Relationships on Lines and at Points organiser labels a row “straight line”. Which entry belongs in that row?",
     "visual": "A Year 6 Angle Relationships on Lines and at Points reasoning organiser highlighting straight line.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A Year 6 Angle Relationships on Lines and at Points reasoning organiser highlighting straight line.\"><use href=\"/assets/assessment-visuals/year6/math/ac9m6m04.svg#ac9m6m04-p-024\"></use></svg>",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A Year 6 Angle Relationships on Lines and at Points reasoning organiser highlighting straight line.\"><use href=\"/assets/assessment-visuals/year6/math/ac9m6m04.svg#ac9m6m04-p-018\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6m04.svg#ac9m6m04-p-024",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6m04.svg#ac9m6m04-p-018",
       "alt_text": "A Year 6 Angle Relationships on Lines and at Points reasoning organiser highlighting straight line."
     },
     "answers": [
@@ -692,6 +518,180 @@ window.skillrPracticeQuestions = [
     "explanation": "The representation connects straight line with a + b = 180°.\nHint: Use the mathematical role of the entry, not a repeated word.",
     "structuredExplanation": {
       "summary": "The representation connects straight line with a + b = 180°.",
+      "hint": "Use the mathematical role of the entry, not a repeated word."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m6m04-p-019",
+    "curriculumCode": "AC9M6M04",
+    "bank": "practice",
+    "skill": "angle relationships on lines and at points",
+    "printable": true,
+    "type": "single",
+    "question": "While preparing an excursion. The quantities or representation come from a fresh example. a Angle Relationships on Lines and at Points organiser labels a row “angles at a point”. Which entry belongs in that row?",
+    "audioPrompt": "While preparing an excursion. The quantities or representation come from a fresh example. a Angle Relationships on Lines and at Points organiser labels a row “angles at a point”. Which entry belongs in that row?",
+    "visual": "A Year 6 Angle Relationships on Lines and at Points reasoning organiser highlighting angles at a point.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A Year 6 Angle Relationships on Lines and at Points reasoning organiser highlighting angles at a point.\"><use href=\"/assets/assessment-visuals/year6/math/ac9m6m04.svg#ac9m6m04-p-019\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6m04.svg#ac9m6m04-p-019",
+      "alt_text": "A Year 6 Angle Relationships on Lines and at Points reasoning organiser highlighting angles at a point."
+    },
+    "answers": [
+      "a + b + c + and continuing = 360°",
+      "equation",
+      "a + b = 180°"
+    ],
+    "correct": 0,
+    "explanation": "The representation connects angles at a point with a + b + c + and continuing = 360°.\nHint: Use the mathematical role of the entry, not a repeated word.",
+    "structuredExplanation": {
+      "summary": "The representation connects angles at a point with a + b + c + and continuing = 360°.",
+      "hint": "Use the mathematical role of the entry, not a repeated word."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m6m04-p-020",
+    "curriculumCode": "AC9M6M04",
+    "bank": "practice",
+    "skill": "angle relationships on lines and at points",
+    "printable": true,
+    "type": "single",
+    "question": "In a games club. The quantities or representation come from a fresh example. a Angle Relationships on Lines and at Points organiser labels a row “vertically opposite”. Which entry belongs in that row?",
+    "audioPrompt": "In a games club. The quantities or representation come from a fresh example. a Angle Relationships on Lines and at Points organiser labels a row “vertically opposite”. Which entry belongs in that row?",
+    "visual": "A Year 6 Angle Relationships on Lines and at Points reasoning organiser highlighting vertically opposite.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A Year 6 Angle Relationships on Lines and at Points reasoning organiser highlighting vertically opposite.\"><use href=\"/assets/assessment-visuals/year6/math/ac9m6m04.svg#ac9m6m04-p-020\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6m04.svg#ac9m6m04-p-020",
+      "alt_text": "A Year 6 Angle Relationships on Lines and at Points reasoning organiser highlighting vertically opposite."
+    },
+    "answers": [
+      "equation",
+      "a = c and b = d",
+      "a + b = 180°"
+    ],
+    "correct": 1,
+    "explanation": "The representation connects vertically opposite with a = c and b = d.\nHint: Use the mathematical role of the entry, not a repeated word.",
+    "structuredExplanation": {
+      "summary": "The representation connects vertically opposite with a = c and b = d.",
+      "hint": "Use the mathematical role of the entry, not a repeated word."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m6m04-p-021",
+    "curriculumCode": "AC9M6M04",
+    "bank": "practice",
+    "skill": "angle relationships on lines and at points",
+    "printable": true,
+    "type": "single",
+    "question": "During an art project. The quantities or representation come from a fresh example. a Angle Relationships on Lines and at Points organiser labels a row “right angle”. Which entry belongs in that row?",
+    "audioPrompt": "During an art project. The quantities or representation come from a fresh example. a Angle Relationships on Lines and at Points organiser labels a row “right angle”. Which entry belongs in that row?",
+    "visual": "A Year 6 Angle Relationships on Lines and at Points reasoning organiser highlighting right angle.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A Year 6 Angle Relationships on Lines and at Points reasoning organiser highlighting right angle.\"><use href=\"/assets/assessment-visuals/year6/math/ac9m6m04.svg#ac9m6m04-p-021\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6m04.svg#ac9m6m04-p-021",
+      "alt_text": "A Year 6 Angle Relationships on Lines and at Points reasoning organiser highlighting right angle."
+    },
+    "answers": [
+      "equation",
+      "a + b = 180°",
+      "parts total 90°"
+    ],
+    "correct": 2,
+    "explanation": "The representation connects right angle with parts total 90°.\nHint: Use the mathematical role of the entry, not a repeated word.",
+    "structuredExplanation": {
+      "summary": "The representation connects right angle with parts total 90°.",
+      "hint": "Use the mathematical role of the entry, not a repeated word."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m6m04-p-022",
+    "curriculumCode": "AC9M6M04",
+    "bank": "practice",
+    "skill": "angle relationships on lines and at points",
+    "printable": true,
+    "type": "single",
+    "question": "At the recycling station. The quantities or representation come from a fresh example. a Angle Relationships on Lines and at Points organiser labels a row “125”. Which entry belongs in that row?",
+    "audioPrompt": "At the recycling station. The quantities or representation come from a fresh example. a Angle Relationships on Lines and at Points organiser labels a row “125”. Which entry belongs in that row?",
+    "visual": "A Year 6 Angle Relationships on Lines and at Points reasoning organiser highlighting 125.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A Year 6 Angle Relationships on Lines and at Points reasoning organiser highlighting 125.\"><use href=\"/assets/assessment-visuals/year6/math/ac9m6m04.svg#ac9m6m04-p-022\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6m04.svg#ac9m6m04-p-022",
+      "alt_text": "A Year 6 Angle Relationships on Lines and at Points reasoning organiser highlighting 125."
+    },
+    "answers": [
+      "125° supplement",
+      "55°",
+      "right"
+    ],
+    "correct": 0,
+    "explanation": "The representation connects 125 with 125° supplement.\nHint: Use the mathematical role of the entry, not a repeated word.",
+    "structuredExplanation": {
+      "summary": "The representation connects 125 with 125° supplement.",
+      "hint": "Use the mathematical role of the entry, not a repeated word."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m6m04-p-023",
+    "curriculumCode": "AC9M6M04",
+    "bank": "practice",
+    "skill": "angle relationships on lines and at points",
+    "printable": true,
+    "type": "single",
+    "question": "While planning a class survey. The quantities or representation come from a fresh example. a Angle Relationships on Lines and at Points organiser labels a row “90”. Which entry belongs in that row?",
+    "audioPrompt": "While planning a class survey. The quantities or representation come from a fresh example. a Angle Relationships on Lines and at Points organiser labels a row “90”. Which entry belongs in that row?",
+    "visual": "A Year 6 Angle Relationships on Lines and at Points reasoning organiser highlighting 90.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A Year 6 Angle Relationships on Lines and at Points reasoning organiser highlighting 90.\"><use href=\"/assets/assessment-visuals/year6/math/ac9m6m04.svg#ac9m6m04-p-023\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6m04.svg#ac9m6m04-p-023",
+      "alt_text": "A Year 6 Angle Relationships on Lines and at Points reasoning organiser highlighting 90."
+    },
+    "answers": [
+      "55°",
+      "right",
+      "125° supplement"
+    ],
+    "correct": 1,
+    "explanation": "The representation connects 90 with right.\nHint: Use the mathematical role of the entry, not a repeated word.",
+    "structuredExplanation": {
+      "summary": "The representation connects 90 with right.",
+      "hint": "Use the mathematical role of the entry, not a repeated word."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m6m04-p-024",
+    "curriculumCode": "AC9M6M04",
+    "bank": "practice",
+    "skill": "angle relationships on lines and at points",
+    "printable": true,
+    "type": "single",
+    "question": "In a coding lesson. The quantities or representation come from a fresh example. a Angle Relationships on Lines and at Points organiser labels a row “235”. Which entry belongs in that row?",
+    "audioPrompt": "In a coding lesson. The quantities or representation come from a fresh example. a Angle Relationships on Lines and at Points organiser labels a row “235”. Which entry belongs in that row?",
+    "visual": "A Year 6 Angle Relationships on Lines and at Points reasoning organiser highlighting 235.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A Year 6 Angle Relationships on Lines and at Points reasoning organiser highlighting 235.\"><use href=\"/assets/assessment-visuals/year6/math/ac9m6m04.svg#ac9m6m04-p-024\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6m04.svg#ac9m6m04-p-024",
+      "alt_text": "A Year 6 Angle Relationships on Lines and at Points reasoning organiser highlighting 235."
+    },
+    "answers": [
+      "55°",
+      "125° supplement",
+      "reflex at point"
+    ],
+    "correct": 2,
+    "explanation": "The representation connects 235 with reflex at point.\nHint: Use the mathematical role of the entry, not a repeated word.",
+    "structuredExplanation": {
+      "summary": "The representation connects 235 with reflex at point.",
       "hint": "Use the mathematical role of the entry, not a repeated word."
     },
     "qualitySchema": "production-v1"

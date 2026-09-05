@@ -7,95 +7,8 @@ window.skillrPracticeQuestions = [
     "skill": "transformations and tessellations",
     "printable": true,
     "type": "single",
-    "question": "During a class investigation, a note says “covering of a plane without gaps or overlaps”. Which mathematical term labels it?",
-    "audioPrompt": "During a class investigation, a note says “covering of a plane without gaps or overlaps”. Which mathematical term labels it?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "asset_path": "",
-      "alt_text": ""
-    },
-    "answers": [
-      "tessellation",
-      "motif",
-      "rigid transformation"
-    ],
-    "correct": 0,
-    "explanation": "tessellation means covering of a plane without gaps or overlaps.\nHint: Match every feature of the description to the mathematical term.",
-    "structuredExplanation": {
-      "summary": "tessellation means covering of a plane without gaps or overlaps.",
-      "hint": "Match every feature of the description to the mathematical term."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m6sp03-p-002",
-    "curriculumCode": "AC9M6SP03",
-    "bank": "practice",
-    "skill": "transformations and tessellations",
-    "printable": true,
-    "type": "single",
-    "question": "At the school market, a note says “repeated unit or design element”. Which mathematical term labels it?",
-    "audioPrompt": "At the school market, a note says “repeated unit or design element”. Which mathematical term labels it?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "asset_path": "",
-      "alt_text": ""
-    },
-    "answers": [
-      "tessellation",
-      "motif",
-      "rigid transformation"
-    ],
-    "correct": 1,
-    "explanation": "motif means repeated unit or design element.\nHint: Match every feature of the description to the mathematical term.",
-    "structuredExplanation": {
-      "summary": "motif means repeated unit or design element.",
-      "hint": "Match every feature of the description to the mathematical term."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m6sp03-p-003",
-    "curriculumCode": "AC9M6SP03",
-    "bank": "practice",
-    "skill": "transformations and tessellations",
-    "printable": true,
-    "type": "single",
-    "question": "While planning a garden, a note says “movement preserving size and shape”. Which mathematical term labels it?",
-    "audioPrompt": "While planning a garden, a note says “movement preserving size and shape”. Which mathematical term labels it?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "asset_path": "",
-      "alt_text": ""
-    },
-    "answers": [
-      "tessellation",
-      "motif",
-      "rigid transformation"
-    ],
-    "correct": 2,
-    "explanation": "rigid transformation means movement preserving size and shape.\nHint: Match every feature of the description to the mathematical term.",
-    "structuredExplanation": {
-      "summary": "rigid transformation means movement preserving size and shape.",
-      "hint": "Match every feature of the description to the mathematical term."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m6sp03-p-004",
-    "curriculumCode": "AC9M6SP03",
-    "bank": "practice",
-    "skill": "transformations and tessellations",
-    "printable": true,
-    "type": "single",
-    "question": "In a robotics challenge, a student reasons, “Pattern with gaps called tessellation”. Which response corrects the error?",
-    "audioPrompt": "In a robotics challenge, a student reasons, “Pattern with gaps called tessellation”. Which response corrects the error?",
+    "question": "During a class investigation, a student reasons, “Pattern with gaps called tessellation”. Which response corrects the error?",
+    "audioPrompt": "During a class investigation, a student reasons, “Pattern with gaps called tessellation”. Which response corrects the error?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -117,14 +30,14 @@ window.skillrPracticeQuestions = [
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9m6sp03-p-005",
+    "id": "ac9m6sp03-p-002",
     "curriculumCode": "AC9M6SP03",
     "bank": "practice",
     "skill": "transformations and tessellations",
     "printable": true,
     "type": "single",
-    "question": "During sports-day planning, a student reasons, “Shape resized during repetition”. Which response corrects the error?",
-    "audioPrompt": "During sports-day planning, a student reasons, “Shape resized during repetition”. Which response corrects the error?",
+    "question": "At the school market, a student reasons, “Shape resized during repetition”. Which response corrects the error?",
+    "audioPrompt": "At the school market, a student reasons, “Shape resized during repetition”. Which response corrects the error?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -146,14 +59,14 @@ window.skillrPracticeQuestions = [
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9m6sp03-p-006",
+    "id": "ac9m6sp03-p-003",
     "curriculumCode": "AC9M6SP03",
     "bank": "practice",
     "skill": "transformations and tessellations",
     "printable": true,
     "type": "single",
-    "question": "At a wildlife centre, a student reasons, “Transformation described vaguely as move”. Which response corrects the error?",
-    "audioPrompt": "At a wildlife centre, a student reasons, “Transformation described vaguely as move”. Which response corrects the error?",
+    "question": "While planning a garden, a student reasons, “Transformation described vaguely as move”. Which response corrects the error?",
+    "audioPrompt": "While planning a garden, a student reasons, “Transformation described vaguely as move”. Which response corrects the error?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -175,14 +88,14 @@ window.skillrPracticeQuestions = [
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9m6sp03-p-007",
+    "id": "ac9m6sp03-p-004",
     "curriculumCode": "AC9M6SP03",
     "bank": "practice",
     "skill": "transformations and tessellations",
     "printable": true,
     "type": "single",
-    "question": "While checking a map, a student reasons, “Vertex angle condition ignored”. Which response corrects the error?",
-    "audioPrompt": "While checking a map, a student reasons, “Vertex angle condition ignored”. Which response corrects the error?",
+    "question": "In a robotics challenge, a student reasons, “Vertex angle condition ignored”. Which response corrects the error?",
+    "audioPrompt": "In a robotics challenge, a student reasons, “Vertex angle condition ignored”. Which response corrects the error?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -204,19 +117,19 @@ window.skillrPracticeQuestions = [
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9m6sp03-p-008",
+    "id": "ac9m6sp03-p-005",
     "curriculumCode": "AC9M6SP03",
     "bank": "practice",
     "skill": "transformations and tessellations",
     "printable": true,
     "type": "single",
-    "question": "In the makerspace, a Transformations and Tessellations organiser labels a row “translation”. Which entry belongs in that row?",
-    "audioPrompt": "In the makerspace, a Transformations and Tessellations organiser labels a row “translation”. Which entry belongs in that row?",
+    "question": "During sports-day planning, a Transformations and Tessellations organiser labels a row “translation”. Which entry belongs in that row?",
+    "audioPrompt": "During sports-day planning, a Transformations and Tessellations organiser labels a row “translation”. Which entry belongs in that row?",
     "visual": "A Year 6 Transformations and Tessellations reasoning organiser highlighting translation.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A Year 6 Transformations and Tessellations reasoning organiser highlighting translation.\"><use href=\"/assets/assessment-visuals/year6/math/ac9m6sp03.svg#ac9m6sp03-p-008\"></use></svg>",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A Year 6 Transformations and Tessellations reasoning organiser highlighting translation.\"><use href=\"/assets/assessment-visuals/year6/math/ac9m6sp03.svg#ac9m6sp03-p-005\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6sp03.svg#ac9m6sp03-p-008",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6sp03.svg#ac9m6sp03-p-005",
       "alt_text": "A Year 6 Transformations and Tessellations reasoning organiser highlighting translation."
     },
     "answers": [
@@ -233,19 +146,19 @@ window.skillrPracticeQuestions = [
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9m6sp03-p-009",
+    "id": "ac9m6sp03-p-006",
     "curriculumCode": "AC9M6SP03",
     "bank": "practice",
     "skill": "transformations and tessellations",
     "printable": true,
     "type": "single",
-    "question": "During a cooking project, a Transformations and Tessellations organiser labels a row “rotation”. Which entry belongs in that row?",
-    "audioPrompt": "During a cooking project, a Transformations and Tessellations organiser labels a row “rotation”. Which entry belongs in that row?",
+    "question": "At a wildlife centre, a Transformations and Tessellations organiser labels a row “rotation”. Which entry belongs in that row?",
+    "audioPrompt": "At a wildlife centre, a Transformations and Tessellations organiser labels a row “rotation”. Which entry belongs in that row?",
     "visual": "A Year 6 Transformations and Tessellations reasoning organiser highlighting rotation.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A Year 6 Transformations and Tessellations reasoning organiser highlighting rotation.\"><use href=\"/assets/assessment-visuals/year6/math/ac9m6sp03.svg#ac9m6sp03-p-009\"></use></svg>",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A Year 6 Transformations and Tessellations reasoning organiser highlighting rotation.\"><use href=\"/assets/assessment-visuals/year6/math/ac9m6sp03.svg#ac9m6sp03-p-006\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6sp03.svg#ac9m6sp03-p-009",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6sp03.svg#ac9m6sp03-p-006",
       "alt_text": "A Year 6 Transformations and Tessellations reasoning organiser highlighting rotation."
     },
     "answers": [
@@ -262,19 +175,19 @@ window.skillrPracticeQuestions = [
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9m6sp03-p-010",
+    "id": "ac9m6sp03-p-007",
     "curriculumCode": "AC9M6SP03",
     "bank": "practice",
     "skill": "transformations and tessellations",
     "printable": true,
     "type": "single",
-    "question": "At the community fair, a Transformations and Tessellations organiser labels a row “reflection”. Which entry belongs in that row?",
-    "audioPrompt": "At the community fair, a Transformations and Tessellations organiser labels a row “reflection”. Which entry belongs in that row?",
+    "question": "While checking a map, a Transformations and Tessellations organiser labels a row “reflection”. Which entry belongs in that row?",
+    "audioPrompt": "While checking a map, a Transformations and Tessellations organiser labels a row “reflection”. Which entry belongs in that row?",
     "visual": "A Year 6 Transformations and Tessellations reasoning organiser highlighting reflection.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A Year 6 Transformations and Tessellations reasoning organiser highlighting reflection.\"><use href=\"/assets/assessment-visuals/year6/math/ac9m6sp03.svg#ac9m6sp03-p-010\"></use></svg>",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A Year 6 Transformations and Tessellations reasoning organiser highlighting reflection.\"><use href=\"/assets/assessment-visuals/year6/math/ac9m6sp03.svg#ac9m6sp03-p-007\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6sp03.svg#ac9m6sp03-p-010",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6sp03.svg#ac9m6sp03-p-007",
       "alt_text": "A Year 6 Transformations and Tessellations reasoning organiser highlighting reflection."
     },
     "answers": [
@@ -291,19 +204,19 @@ window.skillrPracticeQuestions = [
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9m6sp03-p-011",
+    "id": "ac9m6sp03-p-008",
     "curriculumCode": "AC9M6SP03",
     "bank": "practice",
     "skill": "transformations and tessellations",
     "printable": true,
     "type": "single",
-    "question": "While organising a library display, a Transformations and Tessellations organiser labels a row “glide reflection”. Which entry belongs in that row?",
-    "audioPrompt": "While organising a library display, a Transformations and Tessellations organiser labels a row “glide reflection”. Which entry belongs in that row?",
+    "question": "In the makerspace, a Transformations and Tessellations organiser labels a row “glide reflection”. Which entry belongs in that row?",
+    "audioPrompt": "In the makerspace, a Transformations and Tessellations organiser labels a row “glide reflection”. Which entry belongs in that row?",
     "visual": "A Year 6 Transformations and Tessellations reasoning organiser highlighting glide reflection.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A Year 6 Transformations and Tessellations reasoning organiser highlighting glide reflection.\"><use href=\"/assets/assessment-visuals/year6/math/ac9m6sp03.svg#ac9m6sp03-p-011\"></use></svg>",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A Year 6 Transformations and Tessellations reasoning organiser highlighting glide reflection.\"><use href=\"/assets/assessment-visuals/year6/math/ac9m6sp03.svg#ac9m6sp03-p-008\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6sp03.svg#ac9m6sp03-p-011",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6sp03.svg#ac9m6sp03-p-008",
       "alt_text": "A Year 6 Transformations and Tessellations reasoning organiser highlighting glide reflection."
     },
     "answers": [
@@ -320,19 +233,19 @@ window.skillrPracticeQuestions = [
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9m6sp03-p-012",
+    "id": "ac9m6sp03-p-009",
     "curriculumCode": "AC9M6SP03",
     "bank": "practice",
     "skill": "transformations and tessellations",
     "printable": true,
     "type": "single",
-    "question": "In a science notebook, a Transformations and Tessellations organiser labels a row “vertex test”. Which entry belongs in that row?",
-    "audioPrompt": "In a science notebook, a Transformations and Tessellations organiser labels a row “vertex test”. Which entry belongs in that row?",
+    "question": "During a cooking project, a Transformations and Tessellations organiser labels a row “vertex test”. Which entry belongs in that row?",
+    "audioPrompt": "During a cooking project, a Transformations and Tessellations organiser labels a row “vertex test”. Which entry belongs in that row?",
     "visual": "A Year 6 Transformations and Tessellations reasoning organiser highlighting vertex test.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A Year 6 Transformations and Tessellations reasoning organiser highlighting vertex test.\"><use href=\"/assets/assessment-visuals/year6/math/ac9m6sp03.svg#ac9m6sp03-p-012\"></use></svg>",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A Year 6 Transformations and Tessellations reasoning organiser highlighting vertex test.\"><use href=\"/assets/assessment-visuals/year6/math/ac9m6sp03.svg#ac9m6sp03-p-009\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6sp03.svg#ac9m6sp03-p-012",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6sp03.svg#ac9m6sp03-p-009",
       "alt_text": "A Year 6 Transformations and Tessellations reasoning organiser highlighting vertex test."
     },
     "answers": [
@@ -349,14 +262,14 @@ window.skillrPracticeQuestions = [
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9m6sp03-p-013",
+    "id": "ac9m6sp03-p-010",
     "curriculumCode": "AC9M6SP03",
     "bank": "practice",
     "skill": "transformations and tessellations",
     "printable": true,
     "type": "single",
-    "question": "During a design challenge, What must be true of a tessellation?",
-    "audioPrompt": "During a design challenge, What must be true of a tessellation?",
+    "question": "At the community fair, What must be true of a tessellation?",
+    "audioPrompt": "At the community fair, What must be true of a tessellation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -378,14 +291,14 @@ window.skillrPracticeQuestions = [
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9m6sp03-p-014",
+    "id": "ac9m6sp03-p-011",
     "curriculumCode": "AC9M6SP03",
     "bank": "practice",
     "skill": "transformations and tessellations",
     "printable": true,
     "type": "single",
-    "question": "At the school canteen, Which transformation preserves size and shape?",
-    "audioPrompt": "At the school canteen, Which transformation preserves size and shape?",
+    "question": "While organising a library display, Which transformation preserves size and shape?",
+    "audioPrompt": "While organising a library display, Which transformation preserves size and shape?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -407,101 +320,14 @@ window.skillrPracticeQuestions = [
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9m6sp03-p-015",
+    "id": "ac9m6sp03-p-012",
     "curriculumCode": "AC9M6SP03",
     "bank": "practice",
     "skill": "transformations and tessellations",
     "printable": true,
     "type": "single",
-    "question": "While comparing travel plans. The quantities or representation come from a fresh example. a note says “covering of a plane without gaps or overlaps”. Which mathematical term labels it?",
-    "audioPrompt": "While comparing travel plans. The quantities or representation come from a fresh example. a note says “covering of a plane without gaps or overlaps”. Which mathematical term labels it?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "asset_path": "",
-      "alt_text": ""
-    },
-    "answers": [
-      "motif",
-      "rigid transformation",
-      "tessellation"
-    ],
-    "correct": 2,
-    "explanation": "tessellation means covering of a plane without gaps or overlaps.\nHint: Match every feature of the description to the mathematical term.",
-    "structuredExplanation": {
-      "summary": "tessellation means covering of a plane without gaps or overlaps.",
-      "hint": "Match every feature of the description to the mathematical term."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m6sp03-p-016",
-    "curriculumCode": "AC9M6SP03",
-    "bank": "practice",
-    "skill": "transformations and tessellations",
-    "printable": true,
-    "type": "single",
-    "question": "In a data workshop. The quantities or representation come from a fresh example. a note says “repeated unit or design element”. Which mathematical term labels it?",
-    "audioPrompt": "In a data workshop. The quantities or representation come from a fresh example. a note says “repeated unit or design element”. Which mathematical term labels it?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "asset_path": "",
-      "alt_text": ""
-    },
-    "answers": [
-      "motif",
-      "tessellation",
-      "rigid transformation"
-    ],
-    "correct": 0,
-    "explanation": "motif means repeated unit or design element.\nHint: Match every feature of the description to the mathematical term.",
-    "structuredExplanation": {
-      "summary": "motif means repeated unit or design element.",
-      "hint": "Match every feature of the description to the mathematical term."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m6sp03-p-017",
-    "curriculumCode": "AC9M6SP03",
-    "bank": "practice",
-    "skill": "transformations and tessellations",
-    "printable": true,
-    "type": "single",
-    "question": "During a building project. The quantities or representation come from a fresh example. a note says “movement preserving size and shape”. Which mathematical term labels it?",
-    "audioPrompt": "During a building project. The quantities or representation come from a fresh example. a note says “movement preserving size and shape”. Which mathematical term labels it?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "asset_path": "",
-      "alt_text": ""
-    },
-    "answers": [
-      "tessellation",
-      "rigid transformation",
-      "motif"
-    ],
-    "correct": 1,
-    "explanation": "rigid transformation means movement preserving size and shape.\nHint: Match every feature of the description to the mathematical term.",
-    "structuredExplanation": {
-      "summary": "rigid transformation means movement preserving size and shape.",
-      "hint": "Match every feature of the description to the mathematical term."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m6sp03-p-018",
-    "curriculumCode": "AC9M6SP03",
-    "bank": "practice",
-    "skill": "transformations and tessellations",
-    "printable": true,
-    "type": "single",
-    "question": "At the local pool. The quantities or representation come from a fresh example. a student reasons, “Pattern with gaps called tessellation”. Which response corrects the error?",
-    "audioPrompt": "At the local pool. The quantities or representation come from a fresh example. a student reasons, “Pattern with gaps called tessellation”. Which response corrects the error?",
+    "question": "In a science notebook. The quantities or representation come from a fresh example. a student reasons, “Pattern with gaps called tessellation”. Which response corrects the error?",
+    "audioPrompt": "In a science notebook. The quantities or representation come from a fresh example. a student reasons, “Pattern with gaps called tessellation”. Which response corrects the error?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -523,14 +349,14 @@ window.skillrPracticeQuestions = [
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9m6sp03-p-019",
+    "id": "ac9m6sp03-p-013",
     "curriculumCode": "AC9M6SP03",
     "bank": "practice",
     "skill": "transformations and tessellations",
     "printable": true,
     "type": "single",
-    "question": "While preparing an excursion. The quantities or representation come from a fresh example. a student reasons, “Shape resized during repetition”. Which response corrects the error?",
-    "audioPrompt": "While preparing an excursion. The quantities or representation come from a fresh example. a student reasons, “Shape resized during repetition”. Which response corrects the error?",
+    "question": "During a design challenge. The quantities or representation come from a fresh example. a student reasons, “Shape resized during repetition”. Which response corrects the error?",
+    "audioPrompt": "During a design challenge. The quantities or representation come from a fresh example. a student reasons, “Shape resized during repetition”. Which response corrects the error?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -552,14 +378,14 @@ window.skillrPracticeQuestions = [
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9m6sp03-p-020",
+    "id": "ac9m6sp03-p-014",
     "curriculumCode": "AC9M6SP03",
     "bank": "practice",
     "skill": "transformations and tessellations",
     "printable": true,
     "type": "single",
-    "question": "In a games club. The quantities or representation come from a fresh example. a student reasons, “Transformation described vaguely as move”. Which response corrects the error?",
-    "audioPrompt": "In a games club. The quantities or representation come from a fresh example. a student reasons, “Transformation described vaguely as move”. Which response corrects the error?",
+    "question": "At the school canteen. The quantities or representation come from a fresh example. a student reasons, “Transformation described vaguely as move”. Which response corrects the error?",
+    "audioPrompt": "At the school canteen. The quantities or representation come from a fresh example. a student reasons, “Transformation described vaguely as move”. Which response corrects the error?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -581,14 +407,14 @@ window.skillrPracticeQuestions = [
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9m6sp03-p-021",
+    "id": "ac9m6sp03-p-015",
     "curriculumCode": "AC9M6SP03",
     "bank": "practice",
     "skill": "transformations and tessellations",
     "printable": true,
     "type": "single",
-    "question": "During an art project. The quantities or representation come from a fresh example. a student reasons, “Vertex angle condition ignored”. Which response corrects the error?",
-    "audioPrompt": "During an art project. The quantities or representation come from a fresh example. a student reasons, “Vertex angle condition ignored”. Which response corrects the error?",
+    "question": "While comparing travel plans. The quantities or representation come from a fresh example. a student reasons, “Vertex angle condition ignored”. Which response corrects the error?",
+    "audioPrompt": "While comparing travel plans. The quantities or representation come from a fresh example. a student reasons, “Vertex angle condition ignored”. Which response corrects the error?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -610,19 +436,19 @@ window.skillrPracticeQuestions = [
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9m6sp03-p-022",
+    "id": "ac9m6sp03-p-016",
     "curriculumCode": "AC9M6SP03",
     "bank": "practice",
     "skill": "transformations and tessellations",
     "printable": true,
     "type": "single",
-    "question": "At the recycling station. The quantities or representation come from a fresh example. a Transformations and Tessellations organiser labels a row “translation”. Which entry belongs in that row?",
-    "audioPrompt": "At the recycling station. The quantities or representation come from a fresh example. a Transformations and Tessellations organiser labels a row “translation”. Which entry belongs in that row?",
+    "question": "In a data workshop. The quantities or representation come from a fresh example. a Transformations and Tessellations organiser labels a row “translation”. Which entry belongs in that row?",
+    "audioPrompt": "In a data workshop. The quantities or representation come from a fresh example. a Transformations and Tessellations organiser labels a row “translation”. Which entry belongs in that row?",
     "visual": "A Year 6 Transformations and Tessellations reasoning organiser highlighting translation.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A Year 6 Transformations and Tessellations reasoning organiser highlighting translation.\"><use href=\"/assets/assessment-visuals/year6/math/ac9m6sp03.svg#ac9m6sp03-p-022\"></use></svg>",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A Year 6 Transformations and Tessellations reasoning organiser highlighting translation.\"><use href=\"/assets/assessment-visuals/year6/math/ac9m6sp03.svg#ac9m6sp03-p-016\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6sp03.svg#ac9m6sp03-p-022",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6sp03.svg#ac9m6sp03-p-016",
       "alt_text": "A Year 6 Transformations and Tessellations reasoning organiser highlighting translation."
     },
     "answers": [
@@ -639,19 +465,19 @@ window.skillrPracticeQuestions = [
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9m6sp03-p-023",
+    "id": "ac9m6sp03-p-017",
     "curriculumCode": "AC9M6SP03",
     "bank": "practice",
     "skill": "transformations and tessellations",
     "printable": true,
     "type": "single",
-    "question": "While planning a class survey. The quantities or representation come from a fresh example. a Transformations and Tessellations organiser labels a row “rotation”. Which entry belongs in that row?",
-    "audioPrompt": "While planning a class survey. The quantities or representation come from a fresh example. a Transformations and Tessellations organiser labels a row “rotation”. Which entry belongs in that row?",
+    "question": "During a building project. The quantities or representation come from a fresh example. a Transformations and Tessellations organiser labels a row “rotation”. Which entry belongs in that row?",
+    "audioPrompt": "During a building project. The quantities or representation come from a fresh example. a Transformations and Tessellations organiser labels a row “rotation”. Which entry belongs in that row?",
     "visual": "A Year 6 Transformations and Tessellations reasoning organiser highlighting rotation.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A Year 6 Transformations and Tessellations reasoning organiser highlighting rotation.\"><use href=\"/assets/assessment-visuals/year6/math/ac9m6sp03.svg#ac9m6sp03-p-023\"></use></svg>",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A Year 6 Transformations and Tessellations reasoning organiser highlighting rotation.\"><use href=\"/assets/assessment-visuals/year6/math/ac9m6sp03.svg#ac9m6sp03-p-017\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6sp03.svg#ac9m6sp03-p-023",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6sp03.svg#ac9m6sp03-p-017",
       "alt_text": "A Year 6 Transformations and Tessellations reasoning organiser highlighting rotation."
     },
     "answers": [
@@ -668,19 +494,19 @@ window.skillrPracticeQuestions = [
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9m6sp03-p-024",
+    "id": "ac9m6sp03-p-018",
     "curriculumCode": "AC9M6SP03",
     "bank": "practice",
     "skill": "transformations and tessellations",
     "printable": true,
     "type": "single",
-    "question": "In a coding lesson. The quantities or representation come from a fresh example. a Transformations and Tessellations organiser labels a row “reflection”. Which entry belongs in that row?",
-    "audioPrompt": "In a coding lesson. The quantities or representation come from a fresh example. a Transformations and Tessellations organiser labels a row “reflection”. Which entry belongs in that row?",
+    "question": "At the local pool. The quantities or representation come from a fresh example. a Transformations and Tessellations organiser labels a row “reflection”. Which entry belongs in that row?",
+    "audioPrompt": "At the local pool. The quantities or representation come from a fresh example. a Transformations and Tessellations organiser labels a row “reflection”. Which entry belongs in that row?",
     "visual": "A Year 6 Transformations and Tessellations reasoning organiser highlighting reflection.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A Year 6 Transformations and Tessellations reasoning organiser highlighting reflection.\"><use href=\"/assets/assessment-visuals/year6/math/ac9m6sp03.svg#ac9m6sp03-p-024\"></use></svg>",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A Year 6 Transformations and Tessellations reasoning organiser highlighting reflection.\"><use href=\"/assets/assessment-visuals/year6/math/ac9m6sp03.svg#ac9m6sp03-p-018\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6sp03.svg#ac9m6sp03-p-024",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6sp03.svg#ac9m6sp03-p-018",
       "alt_text": "A Year 6 Transformations and Tessellations reasoning organiser highlighting reflection."
     },
     "answers": [
@@ -693,6 +519,180 @@ window.skillrPracticeQuestions = [
     "structuredExplanation": {
       "summary": "The representation connects reflection with flip motif across a line.",
       "hint": "Use the mathematical role of the entry, not a repeated word."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m6sp03-p-019",
+    "curriculumCode": "AC9M6SP03",
+    "bank": "practice",
+    "skill": "transformations and tessellations",
+    "printable": true,
+    "type": "single",
+    "question": "While preparing an excursion. The quantities or representation come from a fresh example. a Transformations and Tessellations organiser labels a row “glide reflection”. Which entry belongs in that row?",
+    "audioPrompt": "While preparing an excursion. The quantities or representation come from a fresh example. a Transformations and Tessellations organiser labels a row “glide reflection”. Which entry belongs in that row?",
+    "visual": "A Year 6 Transformations and Tessellations reasoning organiser highlighting glide reflection.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A Year 6 Transformations and Tessellations reasoning organiser highlighting glide reflection.\"><use href=\"/assets/assessment-visuals/year6/math/ac9m6sp03.svg#ac9m6sp03-p-019\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6sp03.svg#ac9m6sp03-p-019",
+      "alt_text": "A Year 6 Transformations and Tessellations reasoning organiser highlighting glide reflection."
+    },
+    "answers": [
+      "reflect, then translate along the line",
+      "description",
+      "slide motif by a fixed vector"
+    ],
+    "correct": 0,
+    "explanation": "The representation connects glide reflection with reflect, then translate along the line.\nHint: Use the mathematical role of the entry, not a repeated word.",
+    "structuredExplanation": {
+      "summary": "The representation connects glide reflection with reflect, then translate along the line.",
+      "hint": "Use the mathematical role of the entry, not a repeated word."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m6sp03-p-020",
+    "curriculumCode": "AC9M6SP03",
+    "bank": "practice",
+    "skill": "transformations and tessellations",
+    "printable": true,
+    "type": "single",
+    "question": "In a games club. The quantities or representation come from a fresh example. a Transformations and Tessellations organiser labels a row “vertex test”. Which entry belongs in that row?",
+    "audioPrompt": "In a games club. The quantities or representation come from a fresh example. a Transformations and Tessellations organiser labels a row “vertex test”. Which entry belongs in that row?",
+    "visual": "A Year 6 Transformations and Tessellations reasoning organiser highlighting vertex test.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A Year 6 Transformations and Tessellations reasoning organiser highlighting vertex test.\"><use href=\"/assets/assessment-visuals/year6/math/ac9m6sp03.svg#ac9m6sp03-p-020\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6sp03.svg#ac9m6sp03-p-020",
+      "alt_text": "A Year 6 Transformations and Tessellations reasoning organiser highlighting vertex test."
+    },
+    "answers": [
+      "description",
+      "meeting angles total 360°",
+      "slide motif by a fixed vector"
+    ],
+    "correct": 1,
+    "explanation": "The representation connects vertex test with meeting angles total 360°.\nHint: Use the mathematical role of the entry, not a repeated word.",
+    "structuredExplanation": {
+      "summary": "The representation connects vertex test with meeting angles total 360°.",
+      "hint": "Use the mathematical role of the entry, not a repeated word."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m6sp03-p-021",
+    "curriculumCode": "AC9M6SP03",
+    "bank": "practice",
+    "skill": "transformations and tessellations",
+    "printable": true,
+    "type": "single",
+    "question": "During an art project. The quantities or representation come from a fresh example. What must be true of a tessellation?",
+    "audioPrompt": "During an art project. The quantities or representation come from a fresh example. What must be true of a tessellation?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      "Every tile is a circle",
+      "Shapes must change size",
+      "It covers without gaps or overlaps"
+    ],
+    "correct": 2,
+    "explanation": "It covers without gaps or overlaps follows from the quantities and relationship in the question.\nHint: Estimate or substitute to reject the tempting misconception.",
+    "structuredExplanation": {
+      "summary": "It covers without gaps or overlaps follows from the quantities and relationship in the question.",
+      "hint": "Estimate or substitute to reject the tempting misconception."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m6sp03-p-022",
+    "curriculumCode": "AC9M6SP03",
+    "bank": "practice",
+    "skill": "transformations and tessellations",
+    "printable": true,
+    "type": "single",
+    "question": "At the recycling station. The quantities or representation come from a fresh example. Which transformation preserves size and shape?",
+    "audioPrompt": "At the recycling station. The quantities or representation come from a fresh example. Which transformation preserves size and shape?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      "rotation",
+      "enlargement",
+      "stretching"
+    ],
+    "correct": 0,
+    "explanation": "rotation follows from the quantities and relationship in the question.\nHint: Estimate or substitute to reject the tempting misconception.",
+    "structuredExplanation": {
+      "summary": "rotation follows from the quantities and relationship in the question.",
+      "hint": "Estimate or substitute to reject the tempting misconception."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m6sp03-p-023",
+    "curriculumCode": "AC9M6SP03",
+    "bank": "practice",
+    "skill": "transformations and tessellations",
+    "printable": true,
+    "type": "single",
+    "question": "While planning a class survey. The quantities or representation come from a fresh example. a student reasons, “Pattern with gaps called tessellation”. Which response corrects the error?",
+    "audioPrompt": "While planning a class survey. The quantities or representation come from a fresh example. a student reasons, “Pattern with gaps called tessellation”. Which response corrects the error?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      "Keep the claim because one example is enough.",
+      "The plane must be covered continuously.",
+      "Make the claim more certain without checking the quantities."
+    ],
+    "correct": 1,
+    "explanation": "The plane must be covered continuously.\nHint: Identify the exact misconception, then choose the correction that preserves the mathematics.",
+    "structuredExplanation": {
+      "summary": "The plane must be covered continuously.",
+      "hint": "Identify the exact misconception, then choose the correction that preserves the mathematics."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m6sp03-p-024",
+    "curriculumCode": "AC9M6SP03",
+    "bank": "practice",
+    "skill": "transformations and tessellations",
+    "printable": true,
+    "type": "single",
+    "question": "In a coding lesson. The quantities or representation come from a fresh example. a student reasons, “Shape resized during repetition”. Which response corrects the error?",
+    "audioPrompt": "In a coding lesson. The quantities or representation come from a fresh example. a student reasons, “Shape resized during repetition”. Which response corrects the error?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      "Keep the claim because one example is enough.",
+      "Make the claim more certain without checking the quantities.",
+      "Rigid transformations preserve congruence."
+    ],
+    "correct": 2,
+    "explanation": "Rigid transformations preserve congruence.\nHint: Identify the exact misconception, then choose the correction that preserves the mathematics.",
+    "structuredExplanation": {
+      "summary": "Rigid transformations preserve congruence.",
+      "hint": "Identify the exact misconception, then choose the correction that preserves the mathematics."
     },
     "qualitySchema": "production-v1"
   }

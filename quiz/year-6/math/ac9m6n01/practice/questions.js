@@ -1,25 +1,31 @@
 "use strict";
-window.skillrPracticeQuestions=[
+window.skillrPracticeQuestions = [
   {
     "id": "ac9m6n01-p-001",
     "curriculumCode": "AC9M6N01",
     "bank": "practice",
-    "skill": "integer order",
+    "skill": "integers on number lines and the cartesian plane",
     "printable": true,
     "type": "single",
-    "question": "Which integer is furthest to the left on a number line?",
-    "audioPrompt": "Which integer is furthest to the left on a number line?",
+    "question": "During a class investigation, a student reasons, “−8 is greater than −3 because 8 is greater than 3”. Which response corrects the error?",
+    "audioPrompt": "During a class investigation, a student reasons, “−8 is greater than −3 because 8 is greater than 3”. Which response corrects the error?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
     "answers": [
-      "−4",
-      "3",
-      "−1",
-      "0"
+      "On the number line, −8 lies farther left and is smaller.",
+      "Keep the claim because one example is enough.",
+      "Make the claim more certain without checking the quantities."
     ],
     "correct": 0,
-    "explanation": "Numbers farther left are smaller. −4 is left of −1, 0 and 3.",
+    "explanation": "On the number line, −8 lies farther left and is smaller.\nHint: Identify the exact misconception, then choose the correction that preserves the mathematics.",
     "structuredExplanation": {
-      "summary": "Numbers farther left are smaller. −4 is left of −1, 0 and 3.",
-      "hint": "Use zero as the reference point and track direction/sign carefully."
+      "summary": "On the number line, −8 lies farther left and is smaller.",
+      "hint": "Identify the exact misconception, then choose the correction that preserves the mathematics."
     },
     "qualitySchema": "production-v1"
   },
@@ -27,22 +33,28 @@ window.skillrPracticeQuestions=[
     "id": "ac9m6n01-p-002",
     "curriculumCode": "AC9M6N01",
     "bank": "practice",
-    "skill": "integer comparison",
+    "skill": "integers on number lines and the cartesian plane",
     "printable": true,
     "type": "single",
-    "question": "Which integer is greatest?",
-    "audioPrompt": "Which integer is greatest?",
+    "question": "At the school market, a student reasons, “Negative means a physically impossible quantity”. Which response corrects the error?",
+    "audioPrompt": "At the school market, a student reasons, “Negative means a physically impossible quantity”. Which response corrects the error?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
     "answers": [
-      "−7",
-      "−2",
-      "−9",
-      "−10"
+      "Keep the claim because one example is enough.",
+      "Integers model debt, below-zero temperature, depth and change.",
+      "Make the claim more certain without checking the quantities."
     ],
     "correct": 1,
-    "explanation": "Among negative integers, the value closer to zero is greater, so −2 is greatest.",
+    "explanation": "Integers model debt, below-zero temperature, depth and change.\nHint: Identify the exact misconception, then choose the correction that preserves the mathematics.",
     "structuredExplanation": {
-      "summary": "Among negative integers, the value closer to zero is greater, so −2 is greatest.",
-      "hint": "Use zero as the reference point and track direction/sign carefully."
+      "summary": "Integers model debt, below-zero temperature, depth and change.",
+      "hint": "Identify the exact misconception, then choose the correction that preserves the mathematics."
     },
     "qualitySchema": "production-v1"
   },
@@ -50,22 +62,28 @@ window.skillrPracticeQuestions=[
     "id": "ac9m6n01-p-003",
     "curriculumCode": "AC9M6N01",
     "bank": "practice",
-    "skill": "integer order",
+    "skill": "integers on number lines and the cartesian plane",
     "printable": true,
     "type": "single",
-    "question": "Which list is ordered from least to greatest?",
-    "audioPrompt": "Which list is ordered from least to greatest?",
+    "question": "While planning a garden, a student reasons, “Coordinates are read y then x”. Which response corrects the error?",
+    "audioPrompt": "While planning a garden, a student reasons, “Coordinates are read y then x”. Which response corrects the error?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
     "answers": [
-      "−1, −5, 0, 3",
-      "3, 0, −1, −5",
-      "−5, −1, 0, 3",
-      "0, −5, −1, 3"
+      "Keep the claim because one example is enough.",
+      "Make the claim more certain without checking the quantities.",
+      "Read x first, then y."
     ],
     "correct": 2,
-    "explanation": "Move left to right on a number line: −5 < −1 < 0 < 3.",
+    "explanation": "Read x first, then y.\nHint: Identify the exact misconception, then choose the correction that preserves the mathematics.",
     "structuredExplanation": {
-      "summary": "Move left to right on a number line: −5 < −1 < 0 < 3.",
-      "hint": "Use zero as the reference point and track direction/sign carefully."
+      "summary": "Read x first, then y.",
+      "hint": "Identify the exact misconception, then choose the correction that preserves the mathematics."
     },
     "qualitySchema": "production-v1"
   },
@@ -73,22 +91,28 @@ window.skillrPracticeQuestions=[
     "id": "ac9m6n01-p-004",
     "curriculumCode": "AC9M6N01",
     "bank": "practice",
-    "skill": "opposites",
+    "skill": "integers on number lines and the cartesian plane",
     "printable": true,
     "type": "single",
-    "question": "Which pair is the same distance from zero on opposite sides?",
-    "audioPrompt": "Which pair is the same distance from zero on opposite sides?",
+    "question": "In a robotics challenge, a student reasons, “Absolute distance confused with signed position”. Which response corrects the error?",
+    "audioPrompt": "In a robotics challenge, a student reasons, “Absolute distance confused with signed position”. Which response corrects the error?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
     "answers": [
-      "−4 and −2",
-      "+1 and +3",
-      "−2 and +5",
-      "−3 and +3"
+      "Distance from zero is non-negative; position keeps its sign.",
+      "Keep the claim because one example is enough.",
+      "Make the claim more certain without checking the quantities."
     ],
-    "correct": 3,
-    "explanation": "−3 and +3 are each 3 units from zero, in opposite directions.",
+    "correct": 0,
+    "explanation": "Distance from zero is non-negative; position keeps its sign.\nHint: Identify the exact misconception, then choose the correction that preserves the mathematics.",
     "structuredExplanation": {
-      "summary": "−3 and +3 are each 3 units from zero, in opposite directions.",
-      "hint": "Use zero as the reference point and track direction/sign carefully."
+      "summary": "Distance from zero is non-negative; position keeps its sign.",
+      "hint": "Identify the exact misconception, then choose the correction that preserves the mathematics."
     },
     "qualitySchema": "production-v1"
   },
@@ -96,22 +120,28 @@ window.skillrPracticeQuestions=[
     "id": "ac9m6n01-p-005",
     "curriculumCode": "AC9M6N01",
     "bank": "practice",
-    "skill": "zero reference",
+    "skill": "integers on number lines and the cartesian plane",
     "printable": true,
     "type": "single",
-    "question": "Which statement is true?",
-    "audioPrompt": "Which statement is true?",
+    "question": "During sports-day planning, Which integer is greatest?",
+    "audioPrompt": "During sports-day planning, Which integer is greatest?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
     "answers": [
-      "−5 < −2",
-      "−2 > 1",
-      "0 < −1",
-      "3 < −4"
+      "−7",
+      "−2",
+      "−9"
     ],
-    "correct": 0,
-    "explanation": "−5 lies to the left of −2, so −5 < −2.",
+    "correct": 1,
+    "explanation": "−2 follows from the quantities and relationship in the question.\nHint: Estimate or substitute to reject the tempting misconception.",
     "structuredExplanation": {
-      "summary": "−5 lies to the left of −2, so −5 < −2.",
-      "hint": "Use zero as the reference point and track direction/sign carefully."
+      "summary": "−2 follows from the quantities and relationship in the question.",
+      "hint": "Estimate or substitute to reject the tempting misconception."
     },
     "qualitySchema": "production-v1"
   },
@@ -119,22 +149,28 @@ window.skillrPracticeQuestions=[
     "id": "ac9m6n01-p-006",
     "curriculumCode": "AC9M6N01",
     "bank": "practice",
-    "skill": "financial integers",
+    "skill": "integers on number lines and the cartesian plane",
     "printable": true,
     "type": "single",
-    "question": "A school stall earns $120 and spends $150. Which integer represents the net result?",
-    "audioPrompt": "A school stall earns $120 and spends $150. Which integer represents the net result?",
+    "question": "At a wildlife centre, Which point lies in Quadrant II?",
+    "audioPrompt": "At a wildlife centre, Which point lies in Quadrant II?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
     "answers": [
-      "+30",
-      "−30",
-      "+150",
-      "−120"
+      "(3,4)",
+      "(−3,−4)",
+      "(−3,4)"
     ],
-    "correct": 1,
-    "explanation": "120 − 150 gives a loss of $30, represented by −30.",
+    "correct": 2,
+    "explanation": "(−3,4) follows from the quantities and relationship in the question.\nHint: Estimate or substitute to reject the tempting misconception.",
     "structuredExplanation": {
-      "summary": "120 − 150 gives a loss of $30, represented by −30.",
-      "hint": "Use zero as the reference point and track direction/sign carefully."
+      "summary": "(−3,4) follows from the quantities and relationship in the question.",
+      "hint": "Estimate or substitute to reject the tempting misconception."
     },
     "qualitySchema": "production-v1"
   },
@@ -142,22 +178,28 @@ window.skillrPracticeQuestions=[
     "id": "ac9m6n01-p-007",
     "curriculumCode": "AC9M6N01",
     "bank": "practice",
-    "skill": "financial integers",
+    "skill": "integers on number lines and the cartesian plane",
     "printable": true,
     "type": "single",
-    "question": "A fundraiser makes a profit of $45. Which integer represents this?",
-    "audioPrompt": "A fundraiser makes a profit of $45. Which integer represents this?",
+    "question": "While checking a map. The quantities or representation come from a fresh example. a student reasons, “−8 is greater than −3 because 8 is greater than 3”. Which response corrects the error?",
+    "audioPrompt": "While checking a map. The quantities or representation come from a fresh example. a student reasons, “−8 is greater than −3 because 8 is greater than 3”. Which response corrects the error?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
     "answers": [
-      "−45",
-      "0",
-      "+45",
-      "+4.5"
+      "On the number line, −8 lies farther left and is smaller.",
+      "Keep the claim because one example is enough.",
+      "Make the claim more certain without checking the quantities."
     ],
-    "correct": 2,
-    "explanation": "A profit is represented by a positive integer: +45.",
+    "correct": 0,
+    "explanation": "On the number line, −8 lies farther left and is smaller.\nHint: Identify the exact misconception, then choose the correction that preserves the mathematics.",
     "structuredExplanation": {
-      "summary": "A profit is represented by a positive integer: +45.",
-      "hint": "Use zero as the reference point and track direction/sign carefully."
+      "summary": "On the number line, −8 lies farther left and is smaller.",
+      "hint": "Identify the exact misconception, then choose the correction that preserves the mathematics."
     },
     "qualitySchema": "production-v1"
   },
@@ -165,22 +207,28 @@ window.skillrPracticeQuestions=[
     "id": "ac9m6n01-p-008",
     "curriculumCode": "AC9M6N01",
     "bank": "practice",
-    "skill": "financial integers",
+    "skill": "integers on number lines and the cartesian plane",
     "printable": true,
     "type": "single",
-    "question": "A stall makes a loss of $18. Which integer represents this?",
-    "audioPrompt": "A stall makes a loss of $18. Which integer represents this?",
+    "question": "In the makerspace. The quantities or representation come from a fresh example. a student reasons, “Negative means a physically impossible quantity”. Which response corrects the error?",
+    "audioPrompt": "In the makerspace. The quantities or representation come from a fresh example. a student reasons, “Negative means a physically impossible quantity”. Which response corrects the error?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
     "answers": [
-      "+18",
-      "0",
-      "−1.8",
-      "−18"
+      "Keep the claim because one example is enough.",
+      "Integers model debt, below-zero temperature, depth and change.",
+      "Make the claim more certain without checking the quantities."
     ],
-    "correct": 3,
-    "explanation": "A loss is represented by a negative integer: −18.",
+    "correct": 1,
+    "explanation": "Integers model debt, below-zero temperature, depth and change.\nHint: Identify the exact misconception, then choose the correction that preserves the mathematics.",
     "structuredExplanation": {
-      "summary": "A loss is represented by a negative integer: −18.",
-      "hint": "Use zero as the reference point and track direction/sign carefully."
+      "summary": "Integers model debt, below-zero temperature, depth and change.",
+      "hint": "Identify the exact misconception, then choose the correction that preserves the mathematics."
     },
     "qualitySchema": "production-v1"
   },
@@ -188,22 +236,28 @@ window.skillrPracticeQuestions=[
     "id": "ac9m6n01-p-009",
     "curriculumCode": "AC9M6N01",
     "bank": "practice",
-    "skill": "financial integers",
+    "skill": "integers on number lines and the cartesian plane",
     "printable": true,
     "type": "single",
-    "question": "A club earns $75 and spends $40. Which integer represents the net result?",
-    "audioPrompt": "A club earns $75 and spends $40. Which integer represents the net result?",
+    "question": "During a cooking project. The quantities or representation come from a fresh example. a student reasons, “Coordinates are read y then x”. Which response corrects the error?",
+    "audioPrompt": "During a cooking project. The quantities or representation come from a fresh example. a student reasons, “Coordinates are read y then x”. Which response corrects the error?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
     "answers": [
-      "+35",
-      "−35",
-      "+115",
-      "−115"
+      "Keep the claim because one example is enough.",
+      "Make the claim more certain without checking the quantities.",
+      "Read x first, then y."
     ],
-    "correct": 0,
-    "explanation": "The club has $35 more income than expenses, so the net result is +35.",
+    "correct": 2,
+    "explanation": "Read x first, then y.\nHint: Identify the exact misconception, then choose the correction that preserves the mathematics.",
     "structuredExplanation": {
-      "summary": "The club has $35 more income than expenses, so the net result is +35.",
-      "hint": "Use zero as the reference point and track direction/sign carefully."
+      "summary": "Read x first, then y.",
+      "hint": "Identify the exact misconception, then choose the correction that preserves the mathematics."
     },
     "qualitySchema": "production-v1"
   },
@@ -211,22 +265,28 @@ window.skillrPracticeQuestions=[
     "id": "ac9m6n01-p-010",
     "curriculumCode": "AC9M6N01",
     "bank": "practice",
-    "skill": "break even",
+    "skill": "integers on number lines and the cartesian plane",
     "printable": true,
     "type": "single",
-    "question": "A planned event earns exactly as much as it costs. Which integer represents the result?",
-    "audioPrompt": "A planned event earns exactly as much as it costs. Which integer represents the result?",
+    "question": "At the community fair. The quantities or representation come from a fresh example. a student reasons, “Absolute distance confused with signed position”. Which response corrects the error?",
+    "audioPrompt": "At the community fair. The quantities or representation come from a fresh example. a student reasons, “Absolute distance confused with signed position”. Which response corrects the error?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
     "answers": [
-      "+1",
-      "0",
-      "−1",
-      "+100"
+      "Distance from zero is non-negative; position keeps its sign.",
+      "Keep the claim because one example is enough.",
+      "Make the claim more certain without checking the quantities."
     ],
-    "correct": 1,
-    "explanation": "Break-even means neither profit nor loss, so the result is 0.",
+    "correct": 0,
+    "explanation": "Distance from zero is non-negative; position keeps its sign.\nHint: Identify the exact misconception, then choose the correction that preserves the mathematics.",
     "structuredExplanation": {
-      "summary": "Break-even means neither profit nor loss, so the result is 0.",
-      "hint": "Use zero as the reference point and track direction/sign carefully."
+      "summary": "Distance from zero is non-negative; position keeps its sign.",
+      "hint": "Identify the exact misconception, then choose the correction that preserves the mathematics."
     },
     "qualitySchema": "production-v1"
   },
@@ -234,22 +294,28 @@ window.skillrPracticeQuestions=[
     "id": "ac9m6n01-p-011",
     "curriculumCode": "AC9M6N01",
     "bank": "practice",
-    "skill": "vertical number line",
+    "skill": "integers on number lines and the cartesian plane",
     "printable": true,
     "type": "single",
-    "question": "An elevator is 3 floors below ground level. Which integer represents its position?",
-    "audioPrompt": "An elevator is 3 floors below ground level. Which integer represents its position?",
+    "question": "While organising a library display. The quantities or representation come from a fresh example. Which integer is greatest?",
+    "audioPrompt": "While organising a library display. The quantities or representation come from a fresh example. Which integer is greatest?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
     "answers": [
-      "+3",
-      "0",
-      "−3",
-      "−1"
+      "−7",
+      "−2",
+      "−9"
     ],
-    "correct": 2,
-    "explanation": "Below the reference level is represented by a negative integer.",
+    "correct": 1,
+    "explanation": "−2 follows from the quantities and relationship in the question.\nHint: Estimate or substitute to reject the tempting misconception.",
     "structuredExplanation": {
-      "summary": "Below the reference level is represented by a negative integer.",
-      "hint": "Use zero as the reference point and track direction/sign carefully."
+      "summary": "−2 follows from the quantities and relationship in the question.",
+      "hint": "Estimate or substitute to reject the tempting misconception."
     },
     "qualitySchema": "production-v1"
   },
@@ -257,22 +323,28 @@ window.skillrPracticeQuestions=[
     "id": "ac9m6n01-p-012",
     "curriculumCode": "AC9M6N01",
     "bank": "practice",
-    "skill": "sea level",
+    "skill": "integers on number lines and the cartesian plane",
     "printable": true,
     "type": "single",
-    "question": "A submarine is 120 m below sea level. Which integer represents its position?",
-    "audioPrompt": "A submarine is 120 m below sea level. Which integer represents its position?",
+    "question": "In a science notebook. The quantities or representation come from a fresh example. Which point lies in Quadrant II?",
+    "audioPrompt": "In a science notebook. The quantities or representation come from a fresh example. Which point lies in Quadrant II?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
     "answers": [
-      "+120",
-      "−12",
-      "+12",
-      "−120"
+      "(3,4)",
+      "(−3,−4)",
+      "(−3,4)"
     ],
-    "correct": 3,
-    "explanation": "Sea level is the zero reference; below sea level is negative.",
+    "correct": 2,
+    "explanation": "(−3,4) follows from the quantities and relationship in the question.\nHint: Estimate or substitute to reject the tempting misconception.",
     "structuredExplanation": {
-      "summary": "Sea level is the zero reference; below sea level is negative.",
-      "hint": "Use zero as the reference point and track direction/sign carefully."
+      "summary": "(−3,4) follows from the quantities and relationship in the question.",
+      "hint": "Estimate or substitute to reject the tempting misconception."
     },
     "qualitySchema": "production-v1"
   },
@@ -280,22 +352,28 @@ window.skillrPracticeQuestions=[
     "id": "ac9m6n01-p-013",
     "curriculumCode": "AC9M6N01",
     "bank": "practice",
-    "skill": "sea level",
+    "skill": "integers on number lines and the cartesian plane",
     "printable": true,
     "type": "single",
-    "question": "A lookout is 40 m above sea level. Which integer represents its position?",
-    "audioPrompt": "A lookout is 40 m above sea level. Which integer represents its position?",
+    "question": "During a design challenge. The quantities or representation come from a fresh example. a student reasons, “−8 is greater than −3 because 8 is greater than 3”. Which response corrects the error?",
+    "audioPrompt": "During a design challenge. The quantities or representation come from a fresh example. a student reasons, “−8 is greater than −3 because 8 is greater than 3”. Which response corrects the error?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
     "answers": [
-      "+40",
-      "−40",
-      "+4",
-      "0"
+      "On the number line, −8 lies farther left and is smaller.",
+      "Keep the claim because one example is enough.",
+      "Make the claim more certain without checking the quantities."
     ],
     "correct": 0,
-    "explanation": "Above sea level is represented by a positive integer.",
+    "explanation": "On the number line, −8 lies farther left and is smaller.\nHint: Identify the exact misconception, then choose the correction that preserves the mathematics.",
     "structuredExplanation": {
-      "summary": "Above sea level is represented by a positive integer.",
-      "hint": "Use zero as the reference point and track direction/sign carefully."
+      "summary": "On the number line, −8 lies farther left and is smaller.",
+      "hint": "Identify the exact misconception, then choose the correction that preserves the mathematics."
     },
     "qualitySchema": "production-v1"
   },
@@ -303,22 +381,28 @@ window.skillrPracticeQuestions=[
     "id": "ac9m6n01-p-014",
     "curriculumCode": "AC9M6N01",
     "bank": "practice",
-    "skill": "quadrants",
+    "skill": "integers on number lines and the cartesian plane",
     "printable": true,
     "type": "single",
-    "question": "Which point is in Quadrant II?",
-    "audioPrompt": "Which point is in Quadrant II?",
+    "question": "At the school canteen. The quantities or representation come from a fresh example. a student reasons, “Negative means a physically impossible quantity”. Which response corrects the error?",
+    "audioPrompt": "At the school canteen. The quantities or representation come from a fresh example. a student reasons, “Negative means a physically impossible quantity”. Which response corrects the error?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
     "answers": [
-      "(3, 2)",
-      "(−3, 2)",
-      "(−3, −2)",
-      "(3, −2)"
+      "Keep the claim because one example is enough.",
+      "Integers model debt, below-zero temperature, depth and change.",
+      "Make the claim more certain without checking the quantities."
     ],
     "correct": 1,
-    "explanation": "Quadrant II has a negative x-coordinate and a positive y-coordinate.",
+    "explanation": "Integers model debt, below-zero temperature, depth and change.\nHint: Identify the exact misconception, then choose the correction that preserves the mathematics.",
     "structuredExplanation": {
-      "summary": "Quadrant II has a negative x-coordinate and a positive y-coordinate.",
-      "hint": "Use zero as the reference point and track direction/sign carefully."
+      "summary": "Integers model debt, below-zero temperature, depth and change.",
+      "hint": "Identify the exact misconception, then choose the correction that preserves the mathematics."
     },
     "qualitySchema": "production-v1"
   },
@@ -326,22 +410,28 @@ window.skillrPracticeQuestions=[
     "id": "ac9m6n01-p-015",
     "curriculumCode": "AC9M6N01",
     "bank": "practice",
-    "skill": "quadrants",
+    "skill": "integers on number lines and the cartesian plane",
     "printable": true,
     "type": "single",
-    "question": "Which point is in Quadrant IV?",
-    "audioPrompt": "Which point is in Quadrant IV?",
+    "question": "While comparing travel plans. The quantities or representation come from a fresh example. a student reasons, “Coordinates are read y then x”. Which response corrects the error?",
+    "audioPrompt": "While comparing travel plans. The quantities or representation come from a fresh example. a student reasons, “Coordinates are read y then x”. Which response corrects the error?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
     "answers": [
-      "(−2, −5)",
-      "(−2, 5)",
-      "(4, −3)",
-      "(4, 3)"
+      "Keep the claim because one example is enough.",
+      "Make the claim more certain without checking the quantities.",
+      "Read x first, then y."
     ],
     "correct": 2,
-    "explanation": "Quadrant IV has positive x and negative y.",
+    "explanation": "Read x first, then y.\nHint: Identify the exact misconception, then choose the correction that preserves the mathematics.",
     "structuredExplanation": {
-      "summary": "Quadrant IV has positive x and negative y.",
-      "hint": "Use zero as the reference point and track direction/sign carefully."
+      "summary": "Read x first, then y.",
+      "hint": "Identify the exact misconception, then choose the correction that preserves the mathematics."
     },
     "qualitySchema": "production-v1"
   },
@@ -349,22 +439,28 @@ window.skillrPracticeQuestions=[
     "id": "ac9m6n01-p-016",
     "curriculumCode": "AC9M6N01",
     "bank": "practice",
-    "skill": "axes",
+    "skill": "integers on number lines and the cartesian plane",
     "printable": true,
     "type": "single",
-    "question": "Which coordinate lies on the x-axis?",
-    "audioPrompt": "Which coordinate lies on the x-axis?",
+    "question": "In a data workshop. The quantities or representation come from a fresh example. a student reasons, “Absolute distance confused with signed position”. Which response corrects the error?",
+    "audioPrompt": "In a data workshop. The quantities or representation come from a fresh example. a student reasons, “Absolute distance confused with signed position”. Which response corrects the error?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
     "answers": [
-      "(0, 4)",
-      "(−2, −3)",
-      "(1, 1)",
-      "(3, 0)"
+      "Distance from zero is non-negative; position keeps its sign.",
+      "Keep the claim because one example is enough.",
+      "Make the claim more certain without checking the quantities."
     ],
-    "correct": 3,
-    "explanation": "A point on the x-axis has y = 0.",
+    "correct": 0,
+    "explanation": "Distance from zero is non-negative; position keeps its sign.\nHint: Identify the exact misconception, then choose the correction that preserves the mathematics.",
     "structuredExplanation": {
-      "summary": "A point on the x-axis has y = 0.",
-      "hint": "Use zero as the reference point and track direction/sign carefully."
+      "summary": "Distance from zero is non-negative; position keeps its sign.",
+      "hint": "Identify the exact misconception, then choose the correction that preserves the mathematics."
     },
     "qualitySchema": "production-v1"
   },
@@ -372,22 +468,28 @@ window.skillrPracticeQuestions=[
     "id": "ac9m6n01-p-017",
     "curriculumCode": "AC9M6N01",
     "bank": "practice",
-    "skill": "axes",
+    "skill": "integers on number lines and the cartesian plane",
     "printable": true,
     "type": "single",
-    "question": "Which coordinate lies on the y-axis?",
-    "audioPrompt": "Which coordinate lies on the y-axis?",
+    "question": "During a building project. The quantities or representation come from a fresh example. Which integer is greatest?",
+    "audioPrompt": "During a building project. The quantities or representation come from a fresh example. Which integer is greatest?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
     "answers": [
-      "(0, −6)",
-      "(4, 0)",
-      "(3, −3)",
-      "(−2, 1)"
+      "−7",
+      "−2",
+      "−9"
     ],
-    "correct": 0,
-    "explanation": "A point on the y-axis has x = 0.",
+    "correct": 1,
+    "explanation": "−2 follows from the quantities and relationship in the question.\nHint: Estimate or substitute to reject the tempting misconception.",
     "structuredExplanation": {
-      "summary": "A point on the y-axis has x = 0.",
-      "hint": "Use zero as the reference point and track direction/sign carefully."
+      "summary": "−2 follows from the quantities and relationship in the question.",
+      "hint": "Estimate or substitute to reject the tempting misconception."
     },
     "qualitySchema": "production-v1"
   },
@@ -395,22 +497,28 @@ window.skillrPracticeQuestions=[
     "id": "ac9m6n01-p-018",
     "curriculumCode": "AC9M6N01",
     "bank": "practice",
-    "skill": "direction signs",
+    "skill": "integers on number lines and the cartesian plane",
     "printable": true,
     "type": "single",
-    "question": "On a horizontal number line, what does −20 m mean if right is positive?",
-    "audioPrompt": "On a horizontal number line, what does −20 m mean if right is positive?",
+    "question": "At the local pool. The quantities or representation come from a fresh example. Which point lies in Quadrant II?",
+    "audioPrompt": "At the local pool. The quantities or representation come from a fresh example. Which point lies in Quadrant II?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
     "answers": [
-      "20 m right",
-      "20 m left",
-      "20 m up",
-      "20 m down"
+      "(3,4)",
+      "(−3,−4)",
+      "(−3,4)"
     ],
-    "correct": 1,
-    "explanation": "A negative sign indicates the direction opposite to positive; if right is positive, negative means left.",
+    "correct": 2,
+    "explanation": "(−3,4) follows from the quantities and relationship in the question.\nHint: Estimate or substitute to reject the tempting misconception.",
     "structuredExplanation": {
-      "summary": "A negative sign indicates the direction opposite to positive; if right is positive, negative means left.",
-      "hint": "Use zero as the reference point and track direction/sign carefully."
+      "summary": "(−3,4) follows from the quantities and relationship in the question.",
+      "hint": "Estimate or substitute to reject the tempting misconception."
     },
     "qualitySchema": "production-v1"
   },
@@ -418,22 +526,28 @@ window.skillrPracticeQuestions=[
     "id": "ac9m6n01-p-019",
     "curriculumCode": "AC9M6N01",
     "bank": "practice",
-    "skill": "direction signs",
+    "skill": "integers on number lines and the cartesian plane",
     "printable": true,
     "type": "single",
-    "question": "On a vertical number line, a robot moves +8 units. Which direction does it move?",
-    "audioPrompt": "On a vertical number line, a robot moves +8 units. Which direction does it move?",
+    "question": "While preparing an excursion. The quantities or representation come from a fresh example. a student reasons, “−8 is greater than −3 because 8 is greater than 3”. Which response corrects the error?",
+    "audioPrompt": "While preparing an excursion. The quantities or representation come from a fresh example. a student reasons, “−8 is greater than −3 because 8 is greater than 3”. Which response corrects the error?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
     "answers": [
-      "8 units down",
-      "8 units left",
-      "8 units up",
-      "8 units right"
+      "On the number line, −8 lies farther left and is smaller.",
+      "Keep the claim because one example is enough.",
+      "Make the claim more certain without checking the quantities."
     ],
-    "correct": 2,
-    "explanation": "On a vertical line, positive is represented upward.",
+    "correct": 0,
+    "explanation": "On the number line, −8 lies farther left and is smaller.\nHint: Identify the exact misconception, then choose the correction that preserves the mathematics.",
     "structuredExplanation": {
-      "summary": "On a vertical line, positive is represented upward.",
-      "hint": "Use zero as the reference point and track direction/sign carefully."
+      "summary": "On the number line, −8 lies farther left and is smaller.",
+      "hint": "Identify the exact misconception, then choose the correction that preserves the mathematics."
     },
     "qualitySchema": "production-v1"
   },
@@ -441,22 +555,28 @@ window.skillrPracticeQuestions=[
     "id": "ac9m6n01-p-020",
     "curriculumCode": "AC9M6N01",
     "bank": "practice",
-    "skill": "direction signs",
+    "skill": "integers on number lines and the cartesian plane",
     "printable": true,
     "type": "single",
-    "question": "A location is 25 m left of a reference point. Which integer represents it?",
-    "audioPrompt": "A location is 25 m left of a reference point. Which integer represents it?",
+    "question": "In a games club. The quantities or representation come from a fresh example. a student reasons, “Negative means a physically impossible quantity”. Which response corrects the error?",
+    "audioPrompt": "In a games club. The quantities or representation come from a fresh example. a student reasons, “Negative means a physically impossible quantity”. Which response corrects the error?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
     "answers": [
-      "+25",
-      "0",
-      "−5",
-      "−25"
+      "Keep the claim because one example is enough.",
+      "Integers model debt, below-zero temperature, depth and change.",
+      "Make the claim more certain without checking the quantities."
     ],
-    "correct": 3,
-    "explanation": "Left of the reference point is negative when right is chosen as positive.",
+    "correct": 1,
+    "explanation": "Integers model debt, below-zero temperature, depth and change.\nHint: Identify the exact misconception, then choose the correction that preserves the mathematics.",
     "structuredExplanation": {
-      "summary": "Left of the reference point is negative when right is chosen as positive.",
-      "hint": "Use zero as the reference point and track direction/sign carefully."
+      "summary": "Integers model debt, below-zero temperature, depth and change.",
+      "hint": "Identify the exact misconception, then choose the correction that preserves the mathematics."
     },
     "qualitySchema": "production-v1"
   },
@@ -464,22 +584,28 @@ window.skillrPracticeQuestions=[
     "id": "ac9m6n01-p-021",
     "curriculumCode": "AC9M6N01",
     "bank": "practice",
-    "skill": "temperature",
+    "skill": "integers on number lines and the cartesian plane",
     "printable": true,
     "type": "single",
-    "question": "Which temperature is coldest?",
-    "audioPrompt": "Which temperature is coldest?",
+    "question": "During an art project. The quantities or representation come from a fresh example. a student reasons, “Coordinates are read y then x”. Which response corrects the error?",
+    "audioPrompt": "During an art project. The quantities or representation come from a fresh example. a student reasons, “Coordinates are read y then x”. Which response corrects the error?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
     "answers": [
-      "−5°C",
-      "0°C",
-      "3°C",
-      "−1°C"
+      "Keep the claim because one example is enough.",
+      "Make the claim more certain without checking the quantities.",
+      "Read x first, then y."
     ],
-    "correct": 0,
-    "explanation": "The most negative temperature is the coldest: −5°C.",
+    "correct": 2,
+    "explanation": "Read x first, then y.\nHint: Identify the exact misconception, then choose the correction that preserves the mathematics.",
     "structuredExplanation": {
-      "summary": "The most negative temperature is the coldest: −5°C.",
-      "hint": "Use zero as the reference point and track direction/sign carefully."
+      "summary": "Read x first, then y.",
+      "hint": "Identify the exact misconception, then choose the correction that preserves the mathematics."
     },
     "qualitySchema": "production-v1"
   },
@@ -487,22 +613,28 @@ window.skillrPracticeQuestions=[
     "id": "ac9m6n01-p-022",
     "curriculumCode": "AC9M6N01",
     "bank": "practice",
-    "skill": "temperature",
+    "skill": "integers on number lines and the cartesian plane",
     "printable": true,
     "type": "single",
-    "question": "Which temperature is warmest?",
-    "audioPrompt": "Which temperature is warmest?",
+    "question": "At the recycling station. The quantities or representation come from a fresh example. a student reasons, “Absolute distance confused with signed position”. Which response corrects the error?",
+    "audioPrompt": "At the recycling station. The quantities or representation come from a fresh example. a student reasons, “Absolute distance confused with signed position”. Which response corrects the error?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
     "answers": [
-      "−12°C",
-      "−3°C",
-      "−20°C",
-      "−15°C"
+      "Distance from zero is non-negative; position keeps its sign.",
+      "Keep the claim because one example is enough.",
+      "Make the claim more certain without checking the quantities."
     ],
-    "correct": 1,
-    "explanation": "−3°C is greatest, so it is the warmest.",
+    "correct": 0,
+    "explanation": "Distance from zero is non-negative; position keeps its sign.\nHint: Identify the exact misconception, then choose the correction that preserves the mathematics.",
     "structuredExplanation": {
-      "summary": "−3°C is greatest, so it is the warmest.",
-      "hint": "Use zero as the reference point and track direction/sign carefully."
+      "summary": "Distance from zero is non-negative; position keeps its sign.",
+      "hint": "Identify the exact misconception, then choose the correction that preserves the mathematics."
     },
     "qualitySchema": "production-v1"
   },
@@ -510,22 +642,28 @@ window.skillrPracticeQuestions=[
     "id": "ac9m6n01-p-023",
     "curriculumCode": "AC9M6N01",
     "bank": "practice",
-    "skill": "temperature",
+    "skill": "integers on number lines and the cartesian plane",
     "printable": true,
     "type": "single",
-    "question": "Which temperature is closest to zero?",
-    "audioPrompt": "Which temperature is closest to zero?",
+    "question": "While planning a class survey. The quantities or representation come from a fresh example. Which integer is greatest?",
+    "audioPrompt": "While planning a class survey. The quantities or representation come from a fresh example. Which integer is greatest?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
     "answers": [
-      "−2°C",
-      "−10°C",
-      "−1°C",
-      "5°C"
+      "−7",
+      "−2",
+      "−9"
     ],
-    "correct": 2,
-    "explanation": "−1°C is only 1 degree from zero.",
+    "correct": 1,
+    "explanation": "−2 follows from the quantities and relationship in the question.\nHint: Estimate or substitute to reject the tempting misconception.",
     "structuredExplanation": {
-      "summary": "−1°C is only 1 degree from zero.",
-      "hint": "Use zero as the reference point and track direction/sign carefully."
+      "summary": "−2 follows from the quantities and relationship in the question.",
+      "hint": "Estimate or substitute to reject the tempting misconception."
     },
     "qualitySchema": "production-v1"
   },
@@ -533,24 +671,30 @@ window.skillrPracticeQuestions=[
     "id": "ac9m6n01-p-024",
     "curriculumCode": "AC9M6N01",
     "bank": "practice",
-    "skill": "temperature",
+    "skill": "integers on number lines and the cartesian plane",
     "printable": true,
     "type": "single",
-    "question": "A thermometer shows −7°C. What does this mean?",
-    "audioPrompt": "A thermometer shows −7°C. What does this mean?",
+    "question": "In a coding lesson. The quantities or representation come from a fresh example. Which point lies in Quadrant II?",
+    "audioPrompt": "In a coding lesson. The quantities or representation come from a fresh example. Which point lies in Quadrant II?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
     "answers": [
-      "7°C above zero",
-      "exactly 0°C",
-      "a positive temperature",
-      "7°C below zero"
+      "(3,4)",
+      "(−3,−4)",
+      "(−3,4)"
     ],
-    "correct": 3,
-    "explanation": "The negative sign means the temperature is below zero.",
+    "correct": 2,
+    "explanation": "(−3,4) follows from the quantities and relationship in the question.\nHint: Estimate or substitute to reject the tempting misconception.",
     "structuredExplanation": {
-      "summary": "The negative sign means the temperature is below zero.",
-      "hint": "Use zero as the reference point and track direction/sign carefully."
+      "summary": "(−3,4) follows from the quantities and relationship in the question.",
+      "hint": "Estimate or substitute to reject the tempting misconception."
     },
     "qualitySchema": "production-v1"
   }
 ];
-window.quizQuestions=window.skillrPracticeQuestions;
+window.quizQuestions = window.skillrPracticeQuestions;

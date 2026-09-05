@@ -7,95 +7,8 @@ window.skillrPracticeQuestions = [
     "skill": "prime composite and square numbers",
     "printable": true,
     "type": "single",
-    "question": "During a class investigation, a note says “natural number greater than 1 with exactly two factors”. Which mathematical term labels it?",
-    "audioPrompt": "During a class investigation, a note says “natural number greater than 1 with exactly two factors”. Which mathematical term labels it?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "asset_path": "",
-      "alt_text": ""
-    },
-    "answers": [
-      "composite number",
-      "prime number",
-      "square number"
-    ],
-    "correct": 1,
-    "explanation": "prime number means natural number greater than 1 with exactly two factors.\nHint: Match every feature of the description to the mathematical term.",
-    "structuredExplanation": {
-      "summary": "prime number means natural number greater than 1 with exactly two factors.",
-      "hint": "Match every feature of the description to the mathematical term."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m6n02-p-002",
-    "curriculumCode": "AC9M6N02",
-    "bank": "practice",
-    "skill": "prime composite and square numbers",
-    "printable": true,
-    "type": "single",
-    "question": "At the school market, a note says “natural number greater than 1 with more than two factors”. Which mathematical term labels it?",
-    "audioPrompt": "At the school market, a note says “natural number greater than 1 with more than two factors”. Which mathematical term labels it?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "asset_path": "",
-      "alt_text": ""
-    },
-    "answers": [
-      "prime number",
-      "square number",
-      "composite number"
-    ],
-    "correct": 2,
-    "explanation": "composite number means natural number greater than 1 with more than two factors.\nHint: Match every feature of the description to the mathematical term.",
-    "structuredExplanation": {
-      "summary": "composite number means natural number greater than 1 with more than two factors.",
-      "hint": "Match every feature of the description to the mathematical term."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m6n02-p-003",
-    "curriculumCode": "AC9M6N02",
-    "bank": "practice",
-    "skill": "prime composite and square numbers",
-    "printable": true,
-    "type": "single",
-    "question": "While planning a garden, a note says “product of a whole number multiplied by itself”. Which mathematical term labels it?",
-    "audioPrompt": "While planning a garden, a note says “product of a whole number multiplied by itself”. Which mathematical term labels it?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "asset_path": "",
-      "alt_text": ""
-    },
-    "answers": [
-      "square number",
-      "prime number",
-      "composite number"
-    ],
-    "correct": 0,
-    "explanation": "square number means product of a whole number multiplied by itself.\nHint: Match every feature of the description to the mathematical term.",
-    "structuredExplanation": {
-      "summary": "square number means product of a whole number multiplied by itself.",
-      "hint": "Match every feature of the description to the mathematical term."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m6n02-p-004",
-    "curriculumCode": "AC9M6N02",
-    "bank": "practice",
-    "skill": "prime composite and square numbers",
-    "printable": true,
-    "type": "single",
-    "question": "In a robotics challenge, a student reasons, “1 is prime”. Which response corrects the error?",
-    "audioPrompt": "In a robotics challenge, a student reasons, “1 is prime”. Which response corrects the error?",
+    "question": "During a class investigation, a student reasons, “1 is prime”. Which response corrects the error?",
+    "audioPrompt": "During a class investigation, a student reasons, “1 is prime”. Which response corrects the error?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -117,14 +30,14 @@ window.skillrPracticeQuestions = [
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9m6n02-p-005",
+    "id": "ac9m6n02-p-002",
     "curriculumCode": "AC9M6N02",
     "bank": "practice",
     "skill": "prime composite and square numbers",
     "printable": true,
     "type": "single",
-    "question": "During sports-day planning, a student reasons, “Odd means prime”. Which response corrects the error?",
-    "audioPrompt": "During sports-day planning, a student reasons, “Odd means prime”. Which response corrects the error?",
+    "question": "At the school market, a student reasons, “Odd means prime”. Which response corrects the error?",
+    "audioPrompt": "At the school market, a student reasons, “Odd means prime”. Which response corrects the error?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -146,14 +59,14 @@ window.skillrPracticeQuestions = [
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9m6n02-p-006",
+    "id": "ac9m6n02-p-003",
     "curriculumCode": "AC9M6N02",
     "bank": "practice",
     "skill": "prime composite and square numbers",
     "printable": true,
     "type": "single",
-    "question": "At a wildlife centre, a student reasons, “Square and composite treated as exclusive”. Which response corrects the error?",
-    "audioPrompt": "At a wildlife centre, a student reasons, “Square and composite treated as exclusive”. Which response corrects the error?",
+    "question": "While planning a garden, a student reasons, “Square and composite treated as exclusive”. Which response corrects the error?",
+    "audioPrompt": "While planning a garden, a student reasons, “Square and composite treated as exclusive”. Which response corrects the error?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -175,14 +88,14 @@ window.skillrPracticeQuestions = [
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9m6n02-p-007",
+    "id": "ac9m6n02-p-004",
     "curriculumCode": "AC9M6N02",
     "bank": "practice",
     "skill": "prime composite and square numbers",
     "printable": true,
     "type": "single",
-    "question": "While checking a map, a student reasons, “Factor list stopped too early”. Which response corrects the error?",
-    "audioPrompt": "While checking a map, a student reasons, “Factor list stopped too early”. Which response corrects the error?",
+    "question": "In a robotics challenge, a student reasons, “Factor list stopped too early”. Which response corrects the error?",
+    "audioPrompt": "In a robotics challenge, a student reasons, “Factor list stopped too early”. Which response corrects the error?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -204,19 +117,19 @@ window.skillrPracticeQuestions = [
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9m6n02-p-008",
+    "id": "ac9m6n02-p-005",
     "curriculumCode": "AC9M6N02",
     "bank": "practice",
     "skill": "prime composite and square numbers",
     "printable": true,
     "type": "single",
-    "question": "In the makerspace, a Prime, Composite and Square Numbers organiser labels a row “17”. Which entry belongs in that row?",
-    "audioPrompt": "In the makerspace, a Prime, Composite and Square Numbers organiser labels a row “17”. Which entry belongs in that row?",
+    "question": "During sports-day planning, a Prime, Composite and Square Numbers organiser labels a row “17”. Which entry belongs in that row?",
+    "audioPrompt": "During sports-day planning, a Prime, Composite and Square Numbers organiser labels a row “17”. Which entry belongs in that row?",
     "visual": "A Year 6 Prime, Composite and Square Numbers reasoning organiser highlighting 17.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A Year 6 Prime, Composite and Square Numbers reasoning organiser highlighting 17.\"><use href=\"/assets/assessment-visuals/year6/math/ac9m6n02.svg#ac9m6n02-p-008\"></use></svg>",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A Year 6 Prime, Composite and Square Numbers reasoning organiser highlighting 17.\"><use href=\"/assets/assessment-visuals/year6/math/ac9m6n02.svg#ac9m6n02-p-005\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6n02.svg#ac9m6n02-p-008",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6n02.svg#ac9m6n02-p-005",
       "alt_text": "A Year 6 Prime, Composite and Square Numbers reasoning organiser highlighting 17."
     },
     "answers": [
@@ -233,19 +146,19 @@ window.skillrPracticeQuestions = [
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9m6n02-p-009",
+    "id": "ac9m6n02-p-006",
     "curriculumCode": "AC9M6N02",
     "bank": "practice",
     "skill": "prime composite and square numbers",
     "printable": true,
     "type": "single",
-    "question": "During a cooking project, a Prime, Composite and Square Numbers organiser labels a row “18”. Which entry belongs in that row?",
-    "audioPrompt": "During a cooking project, a Prime, Composite and Square Numbers organiser labels a row “18”. Which entry belongs in that row?",
+    "question": "At a wildlife centre, a Prime, Composite and Square Numbers organiser labels a row “18”. Which entry belongs in that row?",
+    "audioPrompt": "At a wildlife centre, a Prime, Composite and Square Numbers organiser labels a row “18”. Which entry belongs in that row?",
     "visual": "A Year 6 Prime, Composite and Square Numbers reasoning organiser highlighting 18.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A Year 6 Prime, Composite and Square Numbers reasoning organiser highlighting 18.\"><use href=\"/assets/assessment-visuals/year6/math/ac9m6n02.svg#ac9m6n02-p-009\"></use></svg>",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A Year 6 Prime, Composite and Square Numbers reasoning organiser highlighting 18.\"><use href=\"/assets/assessment-visuals/year6/math/ac9m6n02.svg#ac9m6n02-p-006\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6n02.svg#ac9m6n02-p-009",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6n02.svg#ac9m6n02-p-006",
       "alt_text": "A Year 6 Prime, Composite and Square Numbers reasoning organiser highlighting 18."
     },
     "answers": [
@@ -262,19 +175,19 @@ window.skillrPracticeQuestions = [
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9m6n02-p-010",
+    "id": "ac9m6n02-p-007",
     "curriculumCode": "AC9M6N02",
     "bank": "practice",
     "skill": "prime composite and square numbers",
     "printable": true,
     "type": "single",
-    "question": "At the community fair, a Prime, Composite and Square Numbers organiser labels a row “25”. Which entry belongs in that row?",
-    "audioPrompt": "At the community fair, a Prime, Composite and Square Numbers organiser labels a row “25”. Which entry belongs in that row?",
+    "question": "While checking a map, a Prime, Composite and Square Numbers organiser labels a row “25”. Which entry belongs in that row?",
+    "audioPrompt": "While checking a map, a Prime, Composite and Square Numbers organiser labels a row “25”. Which entry belongs in that row?",
     "visual": "A Year 6 Prime, Composite and Square Numbers reasoning organiser highlighting 25.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A Year 6 Prime, Composite and Square Numbers reasoning organiser highlighting 25.\"><use href=\"/assets/assessment-visuals/year6/math/ac9m6n02.svg#ac9m6n02-p-010\"></use></svg>",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A Year 6 Prime, Composite and Square Numbers reasoning organiser highlighting 25.\"><use href=\"/assets/assessment-visuals/year6/math/ac9m6n02.svg#ac9m6n02-p-007\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6n02.svg#ac9m6n02-p-010",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6n02.svg#ac9m6n02-p-007",
       "alt_text": "A Year 6 Prime, Composite and Square Numbers reasoning organiser highlighting 25."
     },
     "answers": [
@@ -291,19 +204,19 @@ window.skillrPracticeQuestions = [
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9m6n02-p-011",
+    "id": "ac9m6n02-p-008",
     "curriculumCode": "AC9M6N02",
     "bank": "practice",
     "skill": "prime composite and square numbers",
     "printable": true,
     "type": "single",
-    "question": "While organising a library display, a Prime, Composite and Square Numbers organiser labels a row “1”. Which entry belongs in that row?",
-    "audioPrompt": "While organising a library display, a Prime, Composite and Square Numbers organiser labels a row “1”. Which entry belongs in that row?",
+    "question": "In the makerspace, a Prime, Composite and Square Numbers organiser labels a row “1”. Which entry belongs in that row?",
+    "audioPrompt": "In the makerspace, a Prime, Composite and Square Numbers organiser labels a row “1”. Which entry belongs in that row?",
     "visual": "A Year 6 Prime, Composite and Square Numbers reasoning organiser highlighting 1.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A Year 6 Prime, Composite and Square Numbers reasoning organiser highlighting 1.\"><use href=\"/assets/assessment-visuals/year6/math/ac9m6n02.svg#ac9m6n02-p-011\"></use></svg>",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A Year 6 Prime, Composite and Square Numbers reasoning organiser highlighting 1.\"><use href=\"/assets/assessment-visuals/year6/math/ac9m6n02.svg#ac9m6n02-p-008\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6n02.svg#ac9m6n02-p-011",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6n02.svg#ac9m6n02-p-008",
       "alt_text": "A Year 6 Prime, Composite and Square Numbers reasoning organiser highlighting 1."
     },
     "answers": [
@@ -320,19 +233,19 @@ window.skillrPracticeQuestions = [
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9m6n02-p-012",
+    "id": "ac9m6n02-p-009",
     "curriculumCode": "AC9M6N02",
     "bank": "practice",
     "skill": "prime composite and square numbers",
     "printable": true,
     "type": "single",
-    "question": "In a science notebook, a Prime, Composite and Square Numbers organiser labels a row “recognise 144”. Which entry belongs in that row?",
-    "audioPrompt": "In a science notebook, a Prime, Composite and Square Numbers organiser labels a row “recognise 144”. Which entry belongs in that row?",
+    "question": "During a cooking project, a Prime, Composite and Square Numbers organiser labels a row “recognise 144”. Which entry belongs in that row?",
+    "audioPrompt": "During a cooking project, a Prime, Composite and Square Numbers organiser labels a row “recognise 144”. Which entry belongs in that row?",
     "visual": "A Year 6 Prime, Composite and Square Numbers reasoning organiser highlighting recognise 144.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A Year 6 Prime, Composite and Square Numbers reasoning organiser highlighting recognise 144.\"><use href=\"/assets/assessment-visuals/year6/math/ac9m6n02.svg#ac9m6n02-p-012\"></use></svg>",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A Year 6 Prime, Composite and Square Numbers reasoning organiser highlighting recognise 144.\"><use href=\"/assets/assessment-visuals/year6/math/ac9m6n02.svg#ac9m6n02-p-009\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6n02.svg#ac9m6n02-p-012",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6n02.svg#ac9m6n02-p-009",
       "alt_text": "A Year 6 Prime, Composite and Square Numbers reasoning organiser highlighting recognise 144."
     },
     "answers": [
@@ -349,19 +262,19 @@ window.skillrPracticeQuestions = [
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9m6n02-p-013",
+    "id": "ac9m6n02-p-010",
     "curriculumCode": "AC9M6N02",
     "bank": "practice",
     "skill": "prime composite and square numbers",
     "printable": true,
     "type": "single",
-    "question": "During a design challenge, a Prime, Composite and Square Numbers organiser labels a row “simplify 25 × 16”. Which entry belongs in that row?",
-    "audioPrompt": "During a design challenge, a Prime, Composite and Square Numbers organiser labels a row “simplify 25 × 16”. Which entry belongs in that row?",
+    "question": "At the community fair, a Prime, Composite and Square Numbers organiser labels a row “simplify 25 × 16”. Which entry belongs in that row?",
+    "audioPrompt": "At the community fair, a Prime, Composite and Square Numbers organiser labels a row “simplify 25 × 16”. Which entry belongs in that row?",
     "visual": "A Year 6 Prime, Composite and Square Numbers reasoning organiser highlighting simplify 25 × 16.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A Year 6 Prime, Composite and Square Numbers reasoning organiser highlighting simplify 25 × 16.\"><use href=\"/assets/assessment-visuals/year6/math/ac9m6n02.svg#ac9m6n02-p-013\"></use></svg>",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A Year 6 Prime, Composite and Square Numbers reasoning organiser highlighting simplify 25 × 16.\"><use href=\"/assets/assessment-visuals/year6/math/ac9m6n02.svg#ac9m6n02-p-010\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6n02.svg#ac9m6n02-p-013",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6n02.svg#ac9m6n02-p-010",
       "alt_text": "A Year 6 Prime, Composite and Square Numbers reasoning organiser highlighting simplify 25 × 16."
     },
     "answers": [
@@ -378,19 +291,19 @@ window.skillrPracticeQuestions = [
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9m6n02-p-014",
+    "id": "ac9m6n02-p-011",
     "curriculumCode": "AC9M6N02",
     "bank": "practice",
     "skill": "prime composite and square numbers",
     "printable": true,
     "type": "single",
-    "question": "At the school canteen, a Prime, Composite and Square Numbers organiser labels a row “arrange 29 objects”. Which entry belongs in that row?",
-    "audioPrompt": "At the school canteen, a Prime, Composite and Square Numbers organiser labels a row “arrange 29 objects”. Which entry belongs in that row?",
+    "question": "While organising a library display, a Prime, Composite and Square Numbers organiser labels a row “arrange 29 objects”. Which entry belongs in that row?",
+    "audioPrompt": "While organising a library display, a Prime, Composite and Square Numbers organiser labels a row “arrange 29 objects”. Which entry belongs in that row?",
     "visual": "A Year 6 Prime, Composite and Square Numbers reasoning organiser highlighting arrange 29 objects.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A Year 6 Prime, Composite and Square Numbers reasoning organiser highlighting arrange 29 objects.\"><use href=\"/assets/assessment-visuals/year6/math/ac9m6n02.svg#ac9m6n02-p-014\"></use></svg>",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A Year 6 Prime, Composite and Square Numbers reasoning organiser highlighting arrange 29 objects.\"><use href=\"/assets/assessment-visuals/year6/math/ac9m6n02.svg#ac9m6n02-p-011\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6n02.svg#ac9m6n02-p-014",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6n02.svg#ac9m6n02-p-011",
       "alt_text": "A Year 6 Prime, Composite and Square Numbers reasoning organiser highlighting arrange 29 objects."
     },
     "answers": [
@@ -407,14 +320,14 @@ window.skillrPracticeQuestions = [
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9m6n02-p-015",
+    "id": "ac9m6n02-p-012",
     "curriculumCode": "AC9M6N02",
     "bank": "practice",
     "skill": "prime composite and square numbers",
     "printable": true,
     "type": "single",
-    "question": "While comparing travel plans, Which number is prime?",
-    "audioPrompt": "While comparing travel plans, Which number is prime?",
+    "question": "In a science notebook, Which number is prime?",
+    "audioPrompt": "In a science notebook, Which number is prime?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -436,14 +349,14 @@ window.skillrPracticeQuestions = [
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9m6n02-p-016",
+    "id": "ac9m6n02-p-013",
     "curriculumCode": "AC9M6N02",
     "bank": "practice",
     "skill": "prime composite and square numbers",
     "printable": true,
     "type": "single",
-    "question": "In a data workshop, Which statement about 1 is correct?",
-    "audioPrompt": "In a data workshop, Which statement about 1 is correct?",
+    "question": "During a design challenge, Which statement about 1 is correct?",
+    "audioPrompt": "During a design challenge, Which statement about 1 is correct?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -465,101 +378,14 @@ window.skillrPracticeQuestions = [
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9m6n02-p-017",
+    "id": "ac9m6n02-p-014",
     "curriculumCode": "AC9M6N02",
     "bank": "practice",
     "skill": "prime composite and square numbers",
     "printable": true,
     "type": "single",
-    "question": "During a building project. The quantities or representation come from a fresh example. a note says “natural number greater than 1 with exactly two factors”. Which mathematical term labels it?",
-    "audioPrompt": "During a building project. The quantities or representation come from a fresh example. a note says “natural number greater than 1 with exactly two factors”. Which mathematical term labels it?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "asset_path": "",
-      "alt_text": ""
-    },
-    "answers": [
-      "composite number",
-      "square number",
-      "prime number"
-    ],
-    "correct": 2,
-    "explanation": "prime number means natural number greater than 1 with exactly two factors.\nHint: Match every feature of the description to the mathematical term.",
-    "structuredExplanation": {
-      "summary": "prime number means natural number greater than 1 with exactly two factors.",
-      "hint": "Match every feature of the description to the mathematical term."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m6n02-p-018",
-    "curriculumCode": "AC9M6N02",
-    "bank": "practice",
-    "skill": "prime composite and square numbers",
-    "printable": true,
-    "type": "single",
-    "question": "At the local pool. The quantities or representation come from a fresh example. a note says “natural number greater than 1 with more than two factors”. Which mathematical term labels it?",
-    "audioPrompt": "At the local pool. The quantities or representation come from a fresh example. a note says “natural number greater than 1 with more than two factors”. Which mathematical term labels it?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "asset_path": "",
-      "alt_text": ""
-    },
-    "answers": [
-      "composite number",
-      "prime number",
-      "square number"
-    ],
-    "correct": 0,
-    "explanation": "composite number means natural number greater than 1 with more than two factors.\nHint: Match every feature of the description to the mathematical term.",
-    "structuredExplanation": {
-      "summary": "composite number means natural number greater than 1 with more than two factors.",
-      "hint": "Match every feature of the description to the mathematical term."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m6n02-p-019",
-    "curriculumCode": "AC9M6N02",
-    "bank": "practice",
-    "skill": "prime composite and square numbers",
-    "printable": true,
-    "type": "single",
-    "question": "While preparing an excursion. The quantities or representation come from a fresh example. a note says “product of a whole number multiplied by itself”. Which mathematical term labels it?",
-    "audioPrompt": "While preparing an excursion. The quantities or representation come from a fresh example. a note says “product of a whole number multiplied by itself”. Which mathematical term labels it?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "asset_path": "",
-      "alt_text": ""
-    },
-    "answers": [
-      "prime number",
-      "square number",
-      "composite number"
-    ],
-    "correct": 1,
-    "explanation": "square number means product of a whole number multiplied by itself.\nHint: Match every feature of the description to the mathematical term.",
-    "structuredExplanation": {
-      "summary": "square number means product of a whole number multiplied by itself.",
-      "hint": "Match every feature of the description to the mathematical term."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m6n02-p-020",
-    "curriculumCode": "AC9M6N02",
-    "bank": "practice",
-    "skill": "prime composite and square numbers",
-    "printable": true,
-    "type": "single",
-    "question": "In a games club. The quantities or representation come from a fresh example. a student reasons, “1 is prime”. Which response corrects the error?",
-    "audioPrompt": "In a games club. The quantities or representation come from a fresh example. a student reasons, “1 is prime”. Which response corrects the error?",
+    "question": "At the school canteen. The quantities or representation come from a fresh example. a student reasons, “1 is prime”. Which response corrects the error?",
+    "audioPrompt": "At the school canteen. The quantities or representation come from a fresh example. a student reasons, “1 is prime”. Which response corrects the error?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -581,14 +407,14 @@ window.skillrPracticeQuestions = [
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9m6n02-p-021",
+    "id": "ac9m6n02-p-015",
     "curriculumCode": "AC9M6N02",
     "bank": "practice",
     "skill": "prime composite and square numbers",
     "printable": true,
     "type": "single",
-    "question": "During an art project. The quantities or representation come from a fresh example. a student reasons, “Odd means prime”. Which response corrects the error?",
-    "audioPrompt": "During an art project. The quantities or representation come from a fresh example. a student reasons, “Odd means prime”. Which response corrects the error?",
+    "question": "While comparing travel plans. The quantities or representation come from a fresh example. a student reasons, “Odd means prime”. Which response corrects the error?",
+    "audioPrompt": "While comparing travel plans. The quantities or representation come from a fresh example. a student reasons, “Odd means prime”. Which response corrects the error?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -610,14 +436,14 @@ window.skillrPracticeQuestions = [
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9m6n02-p-022",
+    "id": "ac9m6n02-p-016",
     "curriculumCode": "AC9M6N02",
     "bank": "practice",
     "skill": "prime composite and square numbers",
     "printable": true,
     "type": "single",
-    "question": "At the recycling station. The quantities or representation come from a fresh example. a student reasons, “Square and composite treated as exclusive”. Which response corrects the error?",
-    "audioPrompt": "At the recycling station. The quantities or representation come from a fresh example. a student reasons, “Square and composite treated as exclusive”. Which response corrects the error?",
+    "question": "In a data workshop. The quantities or representation come from a fresh example. a student reasons, “Square and composite treated as exclusive”. Which response corrects the error?",
+    "audioPrompt": "In a data workshop. The quantities or representation come from a fresh example. a student reasons, “Square and composite treated as exclusive”. Which response corrects the error?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -639,14 +465,14 @@ window.skillrPracticeQuestions = [
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9m6n02-p-023",
+    "id": "ac9m6n02-p-017",
     "curriculumCode": "AC9M6N02",
     "bank": "practice",
     "skill": "prime composite and square numbers",
     "printable": true,
     "type": "single",
-    "question": "While planning a class survey. The quantities or representation come from a fresh example. a student reasons, “Factor list stopped too early”. Which response corrects the error?",
-    "audioPrompt": "While planning a class survey. The quantities or representation come from a fresh example. a student reasons, “Factor list stopped too early”. Which response corrects the error?",
+    "question": "During a building project. The quantities or representation come from a fresh example. a student reasons, “Factor list stopped too early”. Which response corrects the error?",
+    "audioPrompt": "During a building project. The quantities or representation come from a fresh example. a student reasons, “Factor list stopped too early”. Which response corrects the error?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -668,19 +494,19 @@ window.skillrPracticeQuestions = [
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9m6n02-p-024",
+    "id": "ac9m6n02-p-018",
     "curriculumCode": "AC9M6N02",
     "bank": "practice",
     "skill": "prime composite and square numbers",
     "printable": true,
     "type": "single",
-    "question": "In a coding lesson. The quantities or representation come from a fresh example. a Prime, Composite and Square Numbers organiser labels a row “17”. Which entry belongs in that row?",
-    "audioPrompt": "In a coding lesson. The quantities or representation come from a fresh example. a Prime, Composite and Square Numbers organiser labels a row “17”. Which entry belongs in that row?",
+    "question": "At the local pool. The quantities or representation come from a fresh example. a Prime, Composite and Square Numbers organiser labels a row “17”. Which entry belongs in that row?",
+    "audioPrompt": "At the local pool. The quantities or representation come from a fresh example. a Prime, Composite and Square Numbers organiser labels a row “17”. Which entry belongs in that row?",
     "visual": "A Year 6 Prime, Composite and Square Numbers reasoning organiser highlighting 17.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A Year 6 Prime, Composite and Square Numbers reasoning organiser highlighting 17.\"><use href=\"/assets/assessment-visuals/year6/math/ac9m6n02.svg#ac9m6n02-p-024\"></use></svg>",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A Year 6 Prime, Composite and Square Numbers reasoning organiser highlighting 17.\"><use href=\"/assets/assessment-visuals/year6/math/ac9m6n02.svg#ac9m6n02-p-018\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6n02.svg#ac9m6n02-p-024",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6n02.svg#ac9m6n02-p-018",
       "alt_text": "A Year 6 Prime, Composite and Square Numbers reasoning organiser highlighting 17."
     },
     "answers": [
@@ -692,6 +518,180 @@ window.skillrPracticeQuestions = [
     "explanation": "The representation connects 17 with 1 × 17; prime.\nHint: Use the mathematical role of the entry, not a repeated word.",
     "structuredExplanation": {
       "summary": "The representation connects 17 with 1 × 17; prime.",
+      "hint": "Use the mathematical role of the entry, not a repeated word."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m6n02-p-019",
+    "curriculumCode": "AC9M6N02",
+    "bank": "practice",
+    "skill": "prime composite and square numbers",
+    "printable": true,
+    "type": "single",
+    "question": "While preparing an excursion. The quantities or representation come from a fresh example. a Prime, Composite and Square Numbers organiser labels a row “18”. Which entry belongs in that row?",
+    "audioPrompt": "While preparing an excursion. The quantities or representation come from a fresh example. a Prime, Composite and Square Numbers organiser labels a row “18”. Which entry belongs in that row?",
+    "visual": "A Year 6 Prime, Composite and Square Numbers reasoning organiser highlighting 18.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A Year 6 Prime, Composite and Square Numbers reasoning organiser highlighting 18.\"><use href=\"/assets/assessment-visuals/year6/math/ac9m6n02.svg#ac9m6n02-p-019\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6n02.svg#ac9m6n02-p-019",
+      "alt_text": "A Year 6 Prime, Composite and Square Numbers reasoning organiser highlighting 18."
+    },
+    "answers": [
+      "factor pairs; classification",
+      "1×18, 2×9, 3×6; composite",
+      "1 × 17; prime"
+    ],
+    "correct": 1,
+    "explanation": "The representation connects 18 with 1×18, 2×9, 3×6; composite.\nHint: Use the mathematical role of the entry, not a repeated word.",
+    "structuredExplanation": {
+      "summary": "The representation connects 18 with 1×18, 2×9, 3×6; composite.",
+      "hint": "Use the mathematical role of the entry, not a repeated word."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m6n02-p-020",
+    "curriculumCode": "AC9M6N02",
+    "bank": "practice",
+    "skill": "prime composite and square numbers",
+    "printable": true,
+    "type": "single",
+    "question": "In a games club. The quantities or representation come from a fresh example. a Prime, Composite and Square Numbers organiser labels a row “25”. Which entry belongs in that row?",
+    "audioPrompt": "In a games club. The quantities or representation come from a fresh example. a Prime, Composite and Square Numbers organiser labels a row “25”. Which entry belongs in that row?",
+    "visual": "A Year 6 Prime, Composite and Square Numbers reasoning organiser highlighting 25.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A Year 6 Prime, Composite and Square Numbers reasoning organiser highlighting 25.\"><use href=\"/assets/assessment-visuals/year6/math/ac9m6n02.svg#ac9m6n02-p-020\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6n02.svg#ac9m6n02-p-020",
+      "alt_text": "A Year 6 Prime, Composite and Square Numbers reasoning organiser highlighting 25."
+    },
+    "answers": [
+      "factor pairs; classification",
+      "1 × 17; prime",
+      "1×25, 5×5; square and composite"
+    ],
+    "correct": 2,
+    "explanation": "The representation connects 25 with 1×25, 5×5; square and composite.\nHint: Use the mathematical role of the entry, not a repeated word.",
+    "structuredExplanation": {
+      "summary": "The representation connects 25 with 1×25, 5×5; square and composite.",
+      "hint": "Use the mathematical role of the entry, not a repeated word."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m6n02-p-021",
+    "curriculumCode": "AC9M6N02",
+    "bank": "practice",
+    "skill": "prime composite and square numbers",
+    "printable": true,
+    "type": "single",
+    "question": "During an art project. The quantities or representation come from a fresh example. a Prime, Composite and Square Numbers organiser labels a row “1”. Which entry belongs in that row?",
+    "audioPrompt": "During an art project. The quantities or representation come from a fresh example. a Prime, Composite and Square Numbers organiser labels a row “1”. Which entry belongs in that row?",
+    "visual": "A Year 6 Prime, Composite and Square Numbers reasoning organiser highlighting 1.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A Year 6 Prime, Composite and Square Numbers reasoning organiser highlighting 1.\"><use href=\"/assets/assessment-visuals/year6/math/ac9m6n02.svg#ac9m6n02-p-021\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6n02.svg#ac9m6n02-p-021",
+      "alt_text": "A Year 6 Prime, Composite and Square Numbers reasoning organiser highlighting 1."
+    },
+    "answers": [
+      "1 only; neither prime nor composite",
+      "factor pairs; classification",
+      "1 × 17; prime"
+    ],
+    "correct": 0,
+    "explanation": "The representation connects 1 with 1 only; neither prime nor composite.\nHint: Use the mathematical role of the entry, not a repeated word.",
+    "structuredExplanation": {
+      "summary": "The representation connects 1 with 1 only; neither prime nor composite.",
+      "hint": "Use the mathematical role of the entry, not a repeated word."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m6n02-p-022",
+    "curriculumCode": "AC9M6N02",
+    "bank": "practice",
+    "skill": "prime composite and square numbers",
+    "printable": true,
+    "type": "single",
+    "question": "At the recycling station. The quantities or representation come from a fresh example. a Prime, Composite and Square Numbers organiser labels a row “recognise 144”. Which entry belongs in that row?",
+    "audioPrompt": "At the recycling station. The quantities or representation come from a fresh example. a Prime, Composite and Square Numbers organiser labels a row “recognise 144”. Which entry belongs in that row?",
+    "visual": "A Year 6 Prime, Composite and Square Numbers reasoning organiser highlighting recognise 144.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A Year 6 Prime, Composite and Square Numbers reasoning organiser highlighting recognise 144.\"><use href=\"/assets/assessment-visuals/year6/math/ac9m6n02.svg#ac9m6n02-p-022\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6n02.svg#ac9m6n02-p-022",
+      "alt_text": "A Year 6 Prime, Composite and Square Numbers reasoning organiser highlighting recognise 144."
+    },
+    "answers": [
+      "2 × 2 × 3 × 7",
+      "12² and composite",
+      "(5²)(4²) = 20² = 400"
+    ],
+    "correct": 1,
+    "explanation": "The representation connects recognise 144 with 12² and composite.\nHint: Use the mathematical role of the entry, not a repeated word.",
+    "structuredExplanation": {
+      "summary": "The representation connects recognise 144 with 12² and composite.",
+      "hint": "Use the mathematical role of the entry, not a repeated word."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m6n02-p-023",
+    "curriculumCode": "AC9M6N02",
+    "bank": "practice",
+    "skill": "prime composite and square numbers",
+    "printable": true,
+    "type": "single",
+    "question": "While planning a class survey. The quantities or representation come from a fresh example. a Prime, Composite and Square Numbers organiser labels a row “simplify 25 × 16”. Which entry belongs in that row?",
+    "audioPrompt": "While planning a class survey. The quantities or representation come from a fresh example. a Prime, Composite and Square Numbers organiser labels a row “simplify 25 × 16”. Which entry belongs in that row?",
+    "visual": "A Year 6 Prime, Composite and Square Numbers reasoning organiser highlighting simplify 25 × 16.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A Year 6 Prime, Composite and Square Numbers reasoning organiser highlighting simplify 25 × 16.\"><use href=\"/assets/assessment-visuals/year6/math/ac9m6n02.svg#ac9m6n02-p-023\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6n02.svg#ac9m6n02-p-023",
+      "alt_text": "A Year 6 Prime, Composite and Square Numbers reasoning organiser highlighting simplify 25 × 16."
+    },
+    "answers": [
+      "2 × 2 × 3 × 7",
+      "12² and composite",
+      "(5²)(4²) = 20² = 400"
+    ],
+    "correct": 2,
+    "explanation": "The representation connects simplify 25 × 16 with (5²)(4²) = 20² = 400.\nHint: Use the mathematical role of the entry, not a repeated word.",
+    "structuredExplanation": {
+      "summary": "The representation connects simplify 25 × 16 with (5²)(4²) = 20² = 400.",
+      "hint": "Use the mathematical role of the entry, not a repeated word."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m6n02-p-024",
+    "curriculumCode": "AC9M6N02",
+    "bank": "practice",
+    "skill": "prime composite and square numbers",
+    "printable": true,
+    "type": "single",
+    "question": "In a coding lesson. The quantities or representation come from a fresh example. a Prime, Composite and Square Numbers organiser labels a row “arrange 29 objects”. Which entry belongs in that row?",
+    "audioPrompt": "In a coding lesson. The quantities or representation come from a fresh example. a Prime, Composite and Square Numbers organiser labels a row “arrange 29 objects”. Which entry belongs in that row?",
+    "visual": "A Year 6 Prime, Composite and Square Numbers reasoning organiser highlighting arrange 29 objects.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A Year 6 Prime, Composite and Square Numbers reasoning organiser highlighting arrange 29 objects.\"><use href=\"/assets/assessment-visuals/year6/math/ac9m6n02.svg#ac9m6n02-p-024\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6n02.svg#ac9m6n02-p-024",
+      "alt_text": "A Year 6 Prime, Composite and Square Numbers reasoning organiser highlighting arrange 29 objects."
+    },
+    "answers": [
+      "only 1 × 29 rectangle",
+      "2 × 2 × 3 × 7",
+      "12² and composite"
+    ],
+    "correct": 0,
+    "explanation": "The representation connects arrange 29 objects with only 1 × 29 rectangle.\nHint: Use the mathematical role of the entry, not a repeated word.",
+    "structuredExplanation": {
+      "summary": "The representation connects arrange 29 objects with only 1 × 29 rectangle.",
       "hint": "Use the mathematical role of the entry, not a repeated word."
     },
     "qualitySchema": "production-v1"

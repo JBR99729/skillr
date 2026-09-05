@@ -384,8 +384,8 @@ window.skillrTestQuestions = [
     "skill": "prime composite and square numbers",
     "printable": true,
     "type": "single",
-    "question": "At a transport depot, a student uses the term “square number”. Which description shows it correctly?",
-    "audioPrompt": "At a transport depot, a student uses the term “square number”. Which description shows it correctly?",
+    "question": "At a transport depot. The quantities or representation come from a fresh example. another student selected “It is prime”. Reconsider the evidence: Which statement about 1 is correct?",
+    "audioPrompt": "At a transport depot. The quantities or representation come from a fresh example. another student selected “It is prime”. Reconsider the evidence: Which statement about 1 is correct?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -394,15 +394,15 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "product of a whole number multiplied by itself",
-      "natural number greater than 1 with exactly two factors",
-      "natural number greater than 1 with more than two factors"
+      "It is neither prime nor composite",
+      "It is prime",
+      "It is composite"
     ],
     "correct": 0,
-    "explanation": "square number means product of a whole number multiplied by itself.\nHint: Match every feature of the description to the mathematical term.",
+    "explanation": "It is neither prime nor composite follows from the quantities and relationship in the question.\nHint: Estimate or substitute to reject the tempting misconception.",
     "structuredExplanation": {
-      "summary": "square number means product of a whole number multiplied by itself.",
-      "hint": "Match every feature of the description to the mathematical term."
+      "summary": "It is neither prime nor composite follows from the quantities and relationship in the question.",
+      "hint": "Estimate or substitute to reject the tempting misconception."
     },
     "qualitySchema": "production-v1"
   },
@@ -413,8 +413,8 @@ window.skillrTestQuestions = [
     "skill": "prime composite and square numbers",
     "printable": true,
     "type": "single",
-    "question": "While preparing a camping trip, a student uses the term “composite number”. Which description shows it correctly?",
-    "audioPrompt": "While preparing a camping trip, a student uses the term “composite number”. Which description shows it correctly?",
+    "question": "While preparing a camping trip. The quantities or representation come from a fresh example. another student selected “21”. Reconsider the evidence: Which number is prime?",
+    "audioPrompt": "While preparing a camping trip. The quantities or representation come from a fresh example. another student selected “21”. Reconsider the evidence: Which number is prime?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -423,15 +423,15 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "natural number greater than 1 with exactly two factors",
-      "natural number greater than 1 with more than two factors",
-      "product of a whole number multiplied by itself"
+      "21",
+      "29",
+      "27"
     ],
     "correct": 1,
-    "explanation": "composite number means natural number greater than 1 with more than two factors.\nHint: Match every feature of the description to the mathematical term.",
+    "explanation": "29 follows from the quantities and relationship in the question.\nHint: Estimate or substitute to reject the tempting misconception.",
     "structuredExplanation": {
-      "summary": "composite number means natural number greater than 1 with more than two factors.",
-      "hint": "Match every feature of the description to the mathematical term."
+      "summary": "29 follows from the quantities and relationship in the question.",
+      "hint": "Estimate or substitute to reject the tempting misconception."
     },
     "qualitySchema": "production-v1"
   },
@@ -442,25 +442,25 @@ window.skillrTestQuestions = [
     "skill": "prime composite and square numbers",
     "printable": true,
     "type": "single",
-    "question": "In a strategy tournament, a student uses the term “prime number”. Which description shows it correctly?",
-    "audioPrompt": "In a strategy tournament, a student uses the term “prime number”. Which description shows it correctly?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "In a strategy tournament. The quantities or representation come from a fresh example. a Prime, Composite and Square Numbers organiser contains “only 1 × 29 rectangle”. Which heading best identifies that information?",
+    "audioPrompt": "In a strategy tournament. The quantities or representation come from a fresh example. a Prime, Composite and Square Numbers organiser contains “only 1 × 29 rectangle”. Which heading best identifies that information?",
+    "visual": "A Year 6 Prime, Composite and Square Numbers reasoning organiser highlighting arrange 29 objects.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A Year 6 Prime, Composite and Square Numbers reasoning organiser highlighting arrange 29 objects.\"><use href=\"/assets/assessment-visuals/year6/math/ac9m6n02.svg#ac9m6n02-t-016\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "asset_path": "",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6n02.svg#ac9m6n02-t-016",
+      "alt_text": "A Year 6 Prime, Composite and Square Numbers reasoning organiser highlighting arrange 29 objects."
     },
     "answers": [
-      "natural number greater than 1 with more than two factors",
-      "product of a whole number multiplied by itself",
-      "natural number greater than 1 with exactly two factors"
+      "factorise 84",
+      "recognise 144",
+      "arrange 29 objects"
     ],
     "correct": 2,
-    "explanation": "prime number means natural number greater than 1 with exactly two factors.\nHint: Match every feature of the description to the mathematical term.",
+    "explanation": "The representation connects arrange 29 objects with only 1 × 29 rectangle.\nHint: Use the mathematical role of the entry, not a repeated word.",
     "structuredExplanation": {
-      "summary": "prime number means natural number greater than 1 with exactly two factors.",
-      "hint": "Match every feature of the description to the mathematical term."
+      "summary": "The representation connects arrange 29 objects with only 1 × 29 rectangle.",
+      "hint": "Use the mathematical role of the entry, not a repeated word."
     },
     "qualitySchema": "production-v1"
   }

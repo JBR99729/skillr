@@ -384,8 +384,8 @@ window.skillrTestQuestions = [
     "skill": "metric conversions with decimal measurements",
     "printable": true,
     "type": "single",
-    "question": "At a transport depot, a student uses the term “precision”. Which description shows it correctly?",
-    "audioPrompt": "At a transport depot, a student uses the term “precision”. Which description shows it correctly?",
+    "question": "At a transport depot. The quantities or representation come from a fresh example. another student selected “kilometres”. Reconsider the evidence: Which unit is most suitable for a thin card’s thickness?",
+    "audioPrompt": "At a transport depot. The quantities or representation come from a fresh example. another student selected “kilometres”. Reconsider the evidence: Which unit is most suitable for a thin card’s thickness?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -394,15 +394,15 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "prefix such as milli-, centi- or kilo- indicating scale",
-      "rewriting the same quantity in another unit",
-      "measurement detail justified by instrument and purpose"
+      "kilometres",
+      "litres",
+      "millimetres"
     ],
     "correct": 2,
-    "explanation": "precision means measurement detail justified by instrument and purpose.\nHint: Match every feature of the description to the mathematical term.",
+    "explanation": "millimetres follows from the quantities and relationship in the question.\nHint: Estimate or substitute to reject the tempting misconception.",
     "structuredExplanation": {
-      "summary": "precision means measurement detail justified by instrument and purpose.",
-      "hint": "Match every feature of the description to the mathematical term."
+      "summary": "millimetres follows from the quantities and relationship in the question.",
+      "hint": "Estimate or substitute to reject the tempting misconception."
     },
     "qualitySchema": "production-v1"
   },
@@ -413,8 +413,8 @@ window.skillrTestQuestions = [
     "skill": "metric conversions with decimal measurements",
     "printable": true,
     "type": "single",
-    "question": "While preparing a camping trip, a student uses the term “conversion”. Which description shows it correctly?",
-    "audioPrompt": "While preparing a camping trip, a student uses the term “conversion”. Which description shows it correctly?",
+    "question": "While preparing a camping trip. The quantities or representation come from a fresh example. another student selected “237.5 mm”. Reconsider the evidence: What is 2.375 m in millimetres?",
+    "audioPrompt": "While preparing a camping trip. The quantities or representation come from a fresh example. another student selected “237.5 mm”. Reconsider the evidence: What is 2.375 m in millimetres?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -423,15 +423,15 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "rewriting the same quantity in another unit",
-      "prefix such as milli-, centi- or kilo- indicating scale",
-      "measurement detail justified by instrument and purpose"
+      "2 375 mm",
+      "237.5 mm",
+      "23 750 mm"
     ],
     "correct": 0,
-    "explanation": "conversion means rewriting the same quantity in another unit.\nHint: Match every feature of the description to the mathematical term.",
+    "explanation": "2 375 mm follows from the quantities and relationship in the question.\nHint: Estimate or substitute to reject the tempting misconception.",
     "structuredExplanation": {
-      "summary": "conversion means rewriting the same quantity in another unit.",
-      "hint": "Match every feature of the description to the mathematical term."
+      "summary": "2 375 mm follows from the quantities and relationship in the question.",
+      "hint": "Estimate or substitute to reject the tempting misconception."
     },
     "qualitySchema": "production-v1"
   },
@@ -442,25 +442,25 @@ window.skillrTestQuestions = [
     "skill": "metric conversions with decimal measurements",
     "printable": true,
     "type": "single",
-    "question": "In a strategy tournament, a student uses the term “metric prefix”. Which description shows it correctly?",
-    "audioPrompt": "In a strategy tournament, a student uses the term “metric prefix”. Which description shows it correctly?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "In a strategy tournament. The quantities or representation come from a fresh example. a Metric Conversions with Decimal Measurements organiser contains “kg or tonnes based on scale”. Which heading best identifies that information?",
+    "audioPrompt": "In a strategy tournament. The quantities or representation come from a fresh example. a Metric Conversions with Decimal Measurements organiser contains “kg or tonnes based on scale”. Which heading best identifies that information?",
+    "visual": "A Year 6 Metric Conversions with Decimal Measurements reasoning organiser highlighting shipping mass.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A Year 6 Metric Conversions with Decimal Measurements reasoning organiser highlighting shipping mass.\"><use href=\"/assets/assessment-visuals/year6/math/ac9m6m01.svg#ac9m6m01-t-016\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "asset_path": "",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6m01.svg#ac9m6m01-t-016",
+      "alt_text": "A Year 6 Metric Conversions with Decimal Measurements reasoning organiser highlighting shipping mass."
     },
     "answers": [
-      "rewriting the same quantity in another unit",
-      "prefix such as milli-, centi- or kilo- indicating scale",
-      "measurement detail justified by instrument and purpose"
+      "road distance",
+      "shipping mass",
+      "object thickness"
     ],
     "correct": 1,
-    "explanation": "metric prefix means prefix such as milli-, centi- or kilo- indicating scale.\nHint: Match every feature of the description to the mathematical term.",
+    "explanation": "The representation connects shipping mass with kg or tonnes based on scale.\nHint: Use the mathematical role of the entry, not a repeated word.",
     "structuredExplanation": {
-      "summary": "metric prefix means prefix such as milli-, centi- or kilo- indicating scale.",
-      "hint": "Match every feature of the description to the mathematical term."
+      "summary": "The representation connects shipping mass with kg or tonnes based on scale.",
+      "hint": "Use the mathematical role of the entry, not a repeated word."
     },
     "qualitySchema": "production-v1"
   }

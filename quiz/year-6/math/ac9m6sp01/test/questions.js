@@ -326,95 +326,8 @@ window.skillrTestQuestions = [
     "skill": "parallel cross sections of three dimensional objects",
     "printable": true,
     "type": "single",
-    "question": "In an environmental study, a student uses the term “base”. Which description shows it correctly?",
-    "audioPrompt": "In an environmental study, a student uses the term “base”. Which description shows it correctly?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "asset_path": "",
-      "alt_text": ""
-    },
-    "answers": [
-      "two-dimensional shape exposed by slicing a solid",
-      "reference face or surface used to describe a solid",
-      "remaining the same distance apart and never meeting"
-    ],
-    "correct": 1,
-    "explanation": "base means reference face or surface used to describe a solid.\nHint: Match every feature of the description to the mathematical term.",
-    "structuredExplanation": {
-      "summary": "base means reference face or surface used to describe a solid.",
-      "hint": "Match every feature of the description to the mathematical term."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m6sp01-t-013",
-    "curriculumCode": "AC9M6SP01",
-    "bank": "test",
-    "skill": "parallel cross sections of three dimensional objects",
-    "printable": true,
-    "type": "single",
-    "question": "During a playground redesign, a student uses the term “parallel”. Which description shows it correctly?",
-    "audioPrompt": "During a playground redesign, a student uses the term “parallel”. Which description shows it correctly?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "asset_path": "",
-      "alt_text": ""
-    },
-    "answers": [
-      "two-dimensional shape exposed by slicing a solid",
-      "reference face or surface used to describe a solid",
-      "remaining the same distance apart and never meeting"
-    ],
-    "correct": 2,
-    "explanation": "parallel means remaining the same distance apart and never meeting.\nHint: Match every feature of the description to the mathematical term.",
-    "structuredExplanation": {
-      "summary": "parallel means remaining the same distance apart and never meeting.",
-      "hint": "Match every feature of the description to the mathematical term."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m6sp01-t-014",
-    "curriculumCode": "AC9M6SP01",
-    "bank": "test",
-    "skill": "parallel cross sections of three dimensional objects",
-    "printable": true,
-    "type": "single",
-    "question": "At a transport depot, a student uses the term “cross-section”. Which description shows it correctly?",
-    "audioPrompt": "At a transport depot, a student uses the term “cross-section”. Which description shows it correctly?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "asset_path": "",
-      "alt_text": ""
-    },
-    "answers": [
-      "two-dimensional shape exposed by slicing a solid",
-      "remaining the same distance apart and never meeting",
-      "reference face or surface used to describe a solid"
-    ],
-    "correct": 0,
-    "explanation": "cross-section means two-dimensional shape exposed by slicing a solid.\nHint: Match every feature of the description to the mathematical term.",
-    "structuredExplanation": {
-      "summary": "cross-section means two-dimensional shape exposed by slicing a solid.",
-      "hint": "Match every feature of the description to the mathematical term."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m6sp01-t-015",
-    "curriculumCode": "AC9M6SP01",
-    "bank": "test",
-    "skill": "parallel cross sections of three dimensional objects",
-    "printable": true,
-    "type": "single",
-    "question": "While preparing a camping trip. The quantities or representation come from a fresh example. another student selected “They remain congruent”. Reconsider the evidence: How do parallel cross-sections of a square pyramid change toward the apex?",
-    "audioPrompt": "While preparing a camping trip. The quantities or representation come from a fresh example. another student selected “They remain congruent”. Reconsider the evidence: How do parallel cross-sections of a square pyramid change toward the apex?",
+    "question": "In an environmental study. The quantities or representation come from a fresh example. another student selected “They remain congruent”. Reconsider the evidence: How do parallel cross-sections of a square pyramid change toward the apex?",
+    "audioPrompt": "In an environmental study. The quantities or representation come from a fresh example. another student selected “They remain congruent”. Reconsider the evidence: How do parallel cross-sections of a square pyramid change toward the apex?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -436,14 +349,14 @@ window.skillrTestQuestions = [
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9m6sp01-t-016",
+    "id": "ac9m6sp01-t-013",
     "curriculumCode": "AC9M6SP01",
     "bank": "test",
     "skill": "parallel cross sections of three dimensional objects",
     "printable": true,
     "type": "single",
-    "question": "In a strategy tournament. The quantities or representation come from a fresh example. another student selected “A circle”. Reconsider the evidence: What is a cross-section parallel to the base of a triangular prism?",
-    "audioPrompt": "In a strategy tournament. The quantities or representation come from a fresh example. another student selected “A circle”. Reconsider the evidence: What is a cross-section parallel to the base of a triangular prism?",
+    "question": "During a playground redesign. The quantities or representation come from a fresh example. another student selected “A circle”. Reconsider the evidence: What is a cross-section parallel to the base of a triangular prism?",
+    "audioPrompt": "During a playground redesign. The quantities or representation come from a fresh example. another student selected “A circle”. Reconsider the evidence: What is a cross-section parallel to the base of a triangular prism?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -461,6 +374,93 @@ window.skillrTestQuestions = [
     "structuredExplanation": {
       "summary": "A congruent triangle follows from the quantities and relationship in the question.",
       "hint": "Estimate or substitute to reject the tempting misconception."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m6sp01-t-014",
+    "curriculumCode": "AC9M6SP01",
+    "bank": "test",
+    "skill": "parallel cross sections of three dimensional objects",
+    "printable": true,
+    "type": "single",
+    "question": "At a transport depot. The quantities or representation come from a fresh example. a Parallel Cross-sections of Three-dimensional Objects organiser contains “circle; smaller/larger circle”. Which heading best identifies that information?",
+    "audioPrompt": "At a transport depot. The quantities or representation come from a fresh example. a Parallel Cross-sections of Three-dimensional Objects organiser contains “circle; smaller/larger circle”. Which heading best identifies that information?",
+    "visual": "A Year 6 Parallel Cross-sections of Three-dimensional Objects reasoning organiser highlighting cone.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A Year 6 Parallel Cross-sections of Three-dimensional Objects reasoning organiser highlighting cone.\"><use href=\"/assets/assessment-visuals/year6/math/ac9m6sp01.svg#ac9m6sp01-t-014\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6sp01.svg#ac9m6sp01-t-014",
+      "alt_text": "A Year 6 Parallel Cross-sections of Three-dimensional Objects reasoning organiser highlighting cone."
+    },
+    "answers": [
+      "cone",
+      "object",
+      "rectangular prism"
+    ],
+    "correct": 0,
+    "explanation": "The representation connects cone with circle; smaller/larger circle.\nHint: Use the mathematical role of the entry, not a repeated word.",
+    "structuredExplanation": {
+      "summary": "The representation connects cone with circle; smaller/larger circle.",
+      "hint": "Use the mathematical role of the entry, not a repeated word."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m6sp01-t-015",
+    "curriculumCode": "AC9M6SP01",
+    "bank": "test",
+    "skill": "parallel cross sections of three dimensional objects",
+    "printable": true,
+    "type": "single",
+    "question": "While preparing a camping trip. The quantities or representation come from a fresh example. a Parallel Cross-sections of Three-dimensional Objects organiser contains “square; smaller/larger similar square”. Which heading best identifies that information?",
+    "audioPrompt": "While preparing a camping trip. The quantities or representation come from a fresh example. a Parallel Cross-sections of Three-dimensional Objects organiser contains “square; smaller/larger similar square”. Which heading best identifies that information?",
+    "visual": "A Year 6 Parallel Cross-sections of Three-dimensional Objects reasoning organiser highlighting square pyramid.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A Year 6 Parallel Cross-sections of Three-dimensional Objects reasoning organiser highlighting square pyramid.\"><use href=\"/assets/assessment-visuals/year6/math/ac9m6sp01.svg#ac9m6sp01-t-015\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6sp01.svg#ac9m6sp01-t-015",
+      "alt_text": "A Year 6 Parallel Cross-sections of Three-dimensional Objects reasoning organiser highlighting square pyramid."
+    },
+    "answers": [
+      "object",
+      "square pyramid",
+      "rectangular prism"
+    ],
+    "correct": 1,
+    "explanation": "The representation connects square pyramid with square; smaller/larger similar square.\nHint: Use the mathematical role of the entry, not a repeated word.",
+    "structuredExplanation": {
+      "summary": "The representation connects square pyramid with square; smaller/larger similar square.",
+      "hint": "Use the mathematical role of the entry, not a repeated word."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m6sp01-t-016",
+    "curriculumCode": "AC9M6SP01",
+    "bank": "test",
+    "skill": "parallel cross sections of three dimensional objects",
+    "printable": true,
+    "type": "single",
+    "question": "In a strategy tournament. The quantities or representation come from a fresh example. a Parallel Cross-sections of Three-dimensional Objects organiser contains “circle; congruent circle”. Which heading best identifies that information?",
+    "audioPrompt": "In a strategy tournament. The quantities or representation come from a fresh example. a Parallel Cross-sections of Three-dimensional Objects organiser contains “circle; congruent circle”. Which heading best identifies that information?",
+    "visual": "A Year 6 Parallel Cross-sections of Three-dimensional Objects reasoning organiser highlighting cylinder.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A Year 6 Parallel Cross-sections of Three-dimensional Objects reasoning organiser highlighting cylinder.\"><use href=\"/assets/assessment-visuals/year6/math/ac9m6sp01.svg#ac9m6sp01-t-016\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6sp01.svg#ac9m6sp01-t-016",
+      "alt_text": "A Year 6 Parallel Cross-sections of Three-dimensional Objects reasoning organiser highlighting cylinder."
+    },
+    "answers": [
+      "object",
+      "rectangular prism",
+      "cylinder"
+    ],
+    "correct": 2,
+    "explanation": "The representation connects cylinder with circle; congruent circle.\nHint: Use the mathematical role of the entry, not a repeated word.",
+    "structuredExplanation": {
+      "summary": "The representation connects cylinder with circle; congruent circle.",
+      "hint": "Use the mathematical role of the entry, not a repeated word."
     },
     "qualitySchema": "production-v1"
   }

@@ -384,8 +384,8 @@ window.skillrTestQuestions = [
     "skill": "estimating with rational numbers and percentages",
     "printable": true,
     "type": "single",
-    "question": "At a transport depot, a student uses the term “benchmark percentage”. Which description shows it correctly?",
-    "audioPrompt": "At a transport depot, a student uses the term “benchmark percentage”. Which description shows it correctly?",
+    "question": "At a transport depot. The quantities or representation come from a fresh example. another student selected “Round every cost down”. Reconsider the evidence: Which estimate is safest for checking cash required?",
+    "audioPrompt": "At a transport depot. The quantities or representation come from a fresh example. another student selected “Round every cost down”. Reconsider the evidence: Which estimate is safest for checking cash required?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -394,15 +394,15 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "familiar rate such as 10%, 25%, 50% or 75%",
-      "nearby values that calculate easily",
-      "value at or above a plausible exact amount"
+      "Round each cost upward appropriately",
+      "Round every cost down",
+      "Ignore small costs"
     ],
     "correct": 0,
-    "explanation": "benchmark percentage means familiar rate such as 10%, 25%, 50% or 75%.\nHint: Match every feature of the description to the mathematical term.",
+    "explanation": "Round each cost upward appropriately follows from the quantities and relationship in the question.\nHint: Estimate or substitute to reject the tempting misconception.",
     "structuredExplanation": {
-      "summary": "benchmark percentage means familiar rate such as 10%, 25%, 50% or 75%.",
-      "hint": "Match every feature of the description to the mathematical term."
+      "summary": "Round each cost upward appropriately follows from the quantities and relationship in the question.",
+      "hint": "Estimate or substitute to reject the tempting misconception."
     },
     "qualitySchema": "production-v1"
   },
@@ -413,8 +413,8 @@ window.skillrTestQuestions = [
     "skill": "estimating with rational numbers and percentages",
     "printable": true,
     "type": "single",
-    "question": "While preparing a camping trip, a student uses the term “upper bound”. Which description shows it correctly?",
-    "audioPrompt": "While preparing a camping trip, a student uses the term “upper bound”. Which description shows it correctly?",
+    "question": "While preparing a camping trip. The quantities or representation come from a fresh example. another student selected “2% of 40 = 0.8”. Reconsider the evidence: Which is a useful estimate for 18.7% of 398?",
+    "audioPrompt": "While preparing a camping trip. The quantities or representation come from a fresh example. another student selected “2% of 40 = 0.8”. Reconsider the evidence: Which is a useful estimate for 18.7% of 398?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -423,15 +423,15 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "nearby values that calculate easily",
-      "value at or above a plausible exact amount",
-      "familiar rate such as 10%, 25%, 50% or 75%"
+      "2% of 40 = 0.8",
+      "20% of 400 = 80",
+      "187% of 398"
     ],
     "correct": 1,
-    "explanation": "upper bound means value at or above a plausible exact amount.\nHint: Match every feature of the description to the mathematical term.",
+    "explanation": "20% of 400 = 80 follows from the quantities and relationship in the question.\nHint: Estimate or substitute to reject the tempting misconception.",
     "structuredExplanation": {
-      "summary": "upper bound means value at or above a plausible exact amount.",
-      "hint": "Match every feature of the description to the mathematical term."
+      "summary": "20% of 400 = 80 follows from the quantities and relationship in the question.",
+      "hint": "Estimate or substitute to reject the tempting misconception."
     },
     "qualitySchema": "production-v1"
   },
@@ -442,25 +442,25 @@ window.skillrTestQuestions = [
     "skill": "estimating with rational numbers and percentages",
     "printable": true,
     "type": "single",
-    "question": "In a strategy tournament, a student uses the term “compatible numbers”. Which description shows it correctly?",
-    "audioPrompt": "In a strategy tournament, a student uses the term “compatible numbers”. Which description shows it correctly?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "In a strategy tournament. The quantities or representation come from a fresh example. a Estimating with Rational Numbers and Percentages organiser contains “calculate plausible lower and upper values”. Which heading best identifies that information?",
+    "audioPrompt": "In a strategy tournament. The quantities or representation come from a fresh example. a Estimating with Rational Numbers and Percentages organiser contains “calculate plausible lower and upper values”. Which heading best identifies that information?",
+    "visual": "A Year 6 Estimating with Rational Numbers and Percentages reasoning organiser highlighting range estimate.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A Year 6 Estimating with Rational Numbers and Percentages reasoning organiser highlighting range estimate.\"><use href=\"/assets/assessment-visuals/year6/math/ac9m6n08.svg#ac9m6n08-t-016\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "asset_path": "",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6n08.svg#ac9m6n08-t-016",
+      "alt_text": "A Year 6 Estimating with Rational Numbers and Percentages reasoning organiser highlighting range estimate."
     },
     "answers": [
-      "value at or above a plausible exact amount",
-      "familiar rate such as 10%, 25%, 50% or 75%",
-      "nearby values that calculate easily"
+      "cash needed",
+      "minimum capacity",
+      "range estimate"
     ],
     "correct": 2,
-    "explanation": "compatible numbers means nearby values that calculate easily.\nHint: Match every feature of the description to the mathematical term.",
+    "explanation": "The representation connects range estimate with calculate plausible lower and upper values.\nHint: Use the mathematical role of the entry, not a repeated word.",
     "structuredExplanation": {
-      "summary": "compatible numbers means nearby values that calculate easily.",
-      "hint": "Match every feature of the description to the mathematical term."
+      "summary": "The representation connects range estimate with calculate plausible lower and upper values.",
+      "hint": "Use the mathematical role of the entry, not a repeated word."
     },
     "qualitySchema": "production-v1"
   }

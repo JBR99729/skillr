@@ -7,95 +7,8 @@ window.skillrPracticeQuestions = [
     "skill": "repeated chance experiments and simulations",
     "printable": true,
     "type": "single",
-    "question": "During a class investigation, a note says “probability multiplied by number of trials”. Which mathematical term labels it?",
-    "audioPrompt": "During a class investigation, a note says “probability multiplied by number of trials”. Which mathematical term labels it?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "asset_path": "",
-      "alt_text": ""
-    },
-    "answers": [
-      "relative frequency",
-      "simulation",
-      "expected frequency"
-    ],
-    "correct": 2,
-    "explanation": "expected frequency means probability multiplied by number of trials.\nHint: Match every feature of the description to the mathematical term.",
-    "structuredExplanation": {
-      "summary": "expected frequency means probability multiplied by number of trials.",
-      "hint": "Match every feature of the description to the mathematical term."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m6p02-p-002",
-    "curriculumCode": "AC9M6P02",
-    "bank": "practice",
-    "skill": "repeated chance experiments and simulations",
-    "printable": true,
-    "type": "single",
-    "question": "At the school market, a note says “observed count divided by trial total”. Which mathematical term labels it?",
-    "audioPrompt": "At the school market, a note says “observed count divided by trial total”. Which mathematical term labels it?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "asset_path": "",
-      "alt_text": ""
-    },
-    "answers": [
-      "relative frequency",
-      "expected frequency",
-      "simulation"
-    ],
-    "correct": 0,
-    "explanation": "relative frequency means observed count divided by trial total.\nHint: Match every feature of the description to the mathematical term.",
-    "structuredExplanation": {
-      "summary": "relative frequency means observed count divided by trial total.",
-      "hint": "Match every feature of the description to the mathematical term."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m6p02-p-003",
-    "curriculumCode": "AC9M6P02",
-    "bank": "practice",
-    "skill": "repeated chance experiments and simulations",
-    "printable": true,
-    "type": "single",
-    "question": "While planning a garden, a note says “modelled repetition of a chance process”. Which mathematical term labels it?",
-    "audioPrompt": "While planning a garden, a note says “modelled repetition of a chance process”. Which mathematical term labels it?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "asset_path": "",
-      "alt_text": ""
-    },
-    "answers": [
-      "expected frequency",
-      "simulation",
-      "relative frequency"
-    ],
-    "correct": 1,
-    "explanation": "simulation means modelled repetition of a chance process.\nHint: Match every feature of the description to the mathematical term.",
-    "structuredExplanation": {
-      "summary": "simulation means modelled repetition of a chance process.",
-      "hint": "Match every feature of the description to the mathematical term."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m6p02-p-004",
-    "curriculumCode": "AC9M6P02",
-    "bank": "practice",
-    "skill": "repeated chance experiments and simulations",
-    "printable": true,
-    "type": "single",
-    "question": "In a robotics challenge, a student reasons, “Expected frequency treated as guaranteed”. Which response corrects the error?",
-    "audioPrompt": "In a robotics challenge, a student reasons, “Expected frequency treated as guaranteed”. Which response corrects the error?",
+    "question": "During a class investigation, a student reasons, “Expected frequency treated as guaranteed”. Which response corrects the error?",
+    "audioPrompt": "During a class investigation, a student reasons, “Expected frequency treated as guaranteed”. Which response corrects the error?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -117,14 +30,14 @@ window.skillrPracticeQuestions = [
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9m6p02-p-005",
+    "id": "ac9m6p02-p-002",
     "curriculumCode": "AC9M6P02",
     "bank": "practice",
     "skill": "repeated chance experiments and simulations",
     "printable": true,
     "type": "single",
-    "question": "During sports-day planning, a student reasons, “Raw counts compared across unequal totals”. Which response corrects the error?",
-    "audioPrompt": "During sports-day planning, a student reasons, “Raw counts compared across unequal totals”. Which response corrects the error?",
+    "question": "At the school market, a student reasons, “Raw counts compared across unequal totals”. Which response corrects the error?",
+    "audioPrompt": "At the school market, a student reasons, “Raw counts compared across unequal totals”. Which response corrects the error?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -146,14 +59,14 @@ window.skillrPracticeQuestions = [
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9m6p02-p-006",
+    "id": "ac9m6p02-p-003",
     "curriculumCode": "AC9M6P02",
     "bank": "practice",
     "skill": "repeated chance experiments and simulations",
     "printable": true,
     "type": "single",
-    "question": "At a wildlife centre, a student reasons, “Unwanted outcomes deleted”. Which response corrects the error?",
-    "audioPrompt": "At a wildlife centre, a student reasons, “Unwanted outcomes deleted”. Which response corrects the error?",
+    "question": "While planning a garden, a student reasons, “Unwanted outcomes deleted”. Which response corrects the error?",
+    "audioPrompt": "While planning a garden, a student reasons, “Unwanted outcomes deleted”. Which response corrects the error?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -175,14 +88,14 @@ window.skillrPracticeQuestions = [
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9m6p02-p-007",
+    "id": "ac9m6p02-p-004",
     "curriculumCode": "AC9M6P02",
     "bank": "practice",
     "skill": "repeated chance experiments and simulations",
     "printable": true,
     "type": "single",
-    "question": "While checking a map, a student reasons, “Simulation settings assumed correct”. Which response corrects the error?",
-    "audioPrompt": "While checking a map, a student reasons, “Simulation settings assumed correct”. Which response corrects the error?",
+    "question": "In a robotics challenge, a student reasons, “Simulation settings assumed correct”. Which response corrects the error?",
+    "audioPrompt": "In a robotics challenge, a student reasons, “Simulation settings assumed correct”. Which response corrects the error?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -204,19 +117,19 @@ window.skillrPracticeQuestions = [
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9m6p02-p-008",
+    "id": "ac9m6p02-p-005",
     "curriculumCode": "AC9M6P02",
     "bank": "practice",
     "skill": "repeated chance experiments and simulations",
     "printable": true,
     "type": "single",
-    "question": "In the makerspace, a Repeated Chance Experiments and Simulations organiser labels a row “10”. Which entry belongs in that row?",
-    "audioPrompt": "In the makerspace, a Repeated Chance Experiments and Simulations organiser labels a row “10”. Which entry belongs in that row?",
+    "question": "During sports-day planning, a Repeated Chance Experiments and Simulations organiser labels a row “10”. Which entry belongs in that row?",
+    "audioPrompt": "During sports-day planning, a Repeated Chance Experiments and Simulations organiser labels a row “10”. Which entry belongs in that row?",
     "visual": "A Year 6 Repeated Chance Experiments and Simulations reasoning organiser highlighting 10.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A Year 6 Repeated Chance Experiments and Simulations reasoning organiser highlighting 10.\"><use href=\"/assets/assessment-visuals/year6/math/ac9m6p02.svg#ac9m6p02-p-008\"></use></svg>",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A Year 6 Repeated Chance Experiments and Simulations reasoning organiser highlighting 10.\"><use href=\"/assets/assessment-visuals/year6/math/ac9m6p02.svg#ac9m6p02-p-005\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6p02.svg#ac9m6p02-p-008",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6p02.svg#ac9m6p02-p-005",
       "alt_text": "A Year 6 Repeated Chance Experiments and Simulations reasoning organiser highlighting 10."
     },
     "answers": [
@@ -233,19 +146,19 @@ window.skillrPracticeQuestions = [
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9m6p02-p-009",
+    "id": "ac9m6p02-p-006",
     "curriculumCode": "AC9M6P02",
     "bank": "practice",
     "skill": "repeated chance experiments and simulations",
     "printable": true,
     "type": "single",
-    "question": "During a cooking project, a Repeated Chance Experiments and Simulations organiser labels a row “50”. Which entry belongs in that row?",
-    "audioPrompt": "During a cooking project, a Repeated Chance Experiments and Simulations organiser labels a row “50”. Which entry belongs in that row?",
+    "question": "At a wildlife centre, a Repeated Chance Experiments and Simulations organiser labels a row “50”. Which entry belongs in that row?",
+    "audioPrompt": "At a wildlife centre, a Repeated Chance Experiments and Simulations organiser labels a row “50”. Which entry belongs in that row?",
     "visual": "A Year 6 Repeated Chance Experiments and Simulations reasoning organiser highlighting 50.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A Year 6 Repeated Chance Experiments and Simulations reasoning organiser highlighting 50.\"><use href=\"/assets/assessment-visuals/year6/math/ac9m6p02.svg#ac9m6p02-p-009\"></use></svg>",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A Year 6 Repeated Chance Experiments and Simulations reasoning organiser highlighting 50.\"><use href=\"/assets/assessment-visuals/year6/math/ac9m6p02.svg#ac9m6p02-p-006\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6p02.svg#ac9m6p02-p-009",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6p02.svg#ac9m6p02-p-006",
       "alt_text": "A Year 6 Repeated Chance Experiments and Simulations reasoning organiser highlighting 50."
     },
     "answers": [
@@ -262,19 +175,19 @@ window.skillrPracticeQuestions = [
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9m6p02-p-010",
+    "id": "ac9m6p02-p-007",
     "curriculumCode": "AC9M6P02",
     "bank": "practice",
     "skill": "repeated chance experiments and simulations",
     "printable": true,
     "type": "single",
-    "question": "At the community fair, a Repeated Chance Experiments and Simulations organiser labels a row “200”. Which entry belongs in that row?",
-    "audioPrompt": "At the community fair, a Repeated Chance Experiments and Simulations organiser labels a row “200”. Which entry belongs in that row?",
+    "question": "While checking a map, a Repeated Chance Experiments and Simulations organiser labels a row “200”. Which entry belongs in that row?",
+    "audioPrompt": "While checking a map, a Repeated Chance Experiments and Simulations organiser labels a row “200”. Which entry belongs in that row?",
     "visual": "A Year 6 Repeated Chance Experiments and Simulations reasoning organiser highlighting 200.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A Year 6 Repeated Chance Experiments and Simulations reasoning organiser highlighting 200.\"><use href=\"/assets/assessment-visuals/year6/math/ac9m6p02.svg#ac9m6p02-p-010\"></use></svg>",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A Year 6 Repeated Chance Experiments and Simulations reasoning organiser highlighting 200.\"><use href=\"/assets/assessment-visuals/year6/math/ac9m6p02.svg#ac9m6p02-p-007\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6p02.svg#ac9m6p02-p-010",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6p02.svg#ac9m6p02-p-007",
       "alt_text": "A Year 6 Repeated Chance Experiments and Simulations reasoning organiser highlighting 200."
     },
     "answers": [
@@ -291,19 +204,19 @@ window.skillrPracticeQuestions = [
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9m6p02-p-011",
+    "id": "ac9m6p02-p-008",
     "curriculumCode": "AC9M6P02",
     "bank": "practice",
     "skill": "repeated chance experiments and simulations",
     "printable": true,
     "type": "single",
-    "question": "While organising a library display, a Repeated Chance Experiments and Simulations organiser labels a row “1 000”. Which entry belongs in that row?",
-    "audioPrompt": "While organising a library display, a Repeated Chance Experiments and Simulations organiser labels a row “1 000”. Which entry belongs in that row?",
+    "question": "In the makerspace, a Repeated Chance Experiments and Simulations organiser labels a row “1 000”. Which entry belongs in that row?",
+    "audioPrompt": "In the makerspace, a Repeated Chance Experiments and Simulations organiser labels a row “1 000”. Which entry belongs in that row?",
     "visual": "A Year 6 Repeated Chance Experiments and Simulations reasoning organiser highlighting 1 000.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A Year 6 Repeated Chance Experiments and Simulations reasoning organiser highlighting 1 000.\"><use href=\"/assets/assessment-visuals/year6/math/ac9m6p02.svg#ac9m6p02-p-011\"></use></svg>",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A Year 6 Repeated Chance Experiments and Simulations reasoning organiser highlighting 1 000.\"><use href=\"/assets/assessment-visuals/year6/math/ac9m6p02.svg#ac9m6p02-p-008\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6p02.svg#ac9m6p02-p-011",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6p02.svg#ac9m6p02-p-008",
       "alt_text": "A Year 6 Repeated Chance Experiments and Simulations reasoning organiser highlighting 1 000."
     },
     "answers": [
@@ -320,19 +233,19 @@ window.skillrPracticeQuestions = [
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9m6p02-p-012",
+    "id": "ac9m6p02-p-009",
     "curriculumCode": "AC9M6P02",
     "bank": "practice",
     "skill": "repeated chance experiments and simulations",
     "printable": true,
     "type": "single",
-    "question": "In a science notebook, a Repeated Chance Experiments and Simulations organiser labels a row “expected”. Which entry belongs in that row?",
-    "audioPrompt": "In a science notebook, a Repeated Chance Experiments and Simulations organiser labels a row “expected”. Which entry belongs in that row?",
+    "question": "During a cooking project, a Repeated Chance Experiments and Simulations organiser labels a row “expected”. Which entry belongs in that row?",
+    "audioPrompt": "During a cooking project, a Repeated Chance Experiments and Simulations organiser labels a row “expected”. Which entry belongs in that row?",
     "visual": "A Year 6 Repeated Chance Experiments and Simulations reasoning organiser highlighting expected.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A Year 6 Repeated Chance Experiments and Simulations reasoning organiser highlighting expected.\"><use href=\"/assets/assessment-visuals/year6/math/ac9m6p02.svg#ac9m6p02-p-012\"></use></svg>",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A Year 6 Repeated Chance Experiments and Simulations reasoning organiser highlighting expected.\"><use href=\"/assets/assessment-visuals/year6/math/ac9m6p02.svg#ac9m6p02-p-009\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6p02.svg#ac9m6p02-p-012",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6p02.svg#ac9m6p02-p-009",
       "alt_text": "A Year 6 Repeated Chance Experiments and Simulations reasoning organiser highlighting expected."
     },
     "answers": [
@@ -349,19 +262,19 @@ window.skillrPracticeQuestions = [
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9m6p02-p-013",
+    "id": "ac9m6p02-p-010",
     "curriculumCode": "AC9M6P02",
     "bank": "practice",
     "skill": "repeated chance experiments and simulations",
     "printable": true,
     "type": "single",
-    "question": "During a design challenge, a Repeated Chance Experiments and Simulations organiser labels a row “physical trial”. Which entry belongs in that row?",
-    "audioPrompt": "During a design challenge, a Repeated Chance Experiments and Simulations organiser labels a row “physical trial”. Which entry belongs in that row?",
+    "question": "At the community fair, a Repeated Chance Experiments and Simulations organiser labels a row “physical trial”. Which entry belongs in that row?",
+    "audioPrompt": "At the community fair, a Repeated Chance Experiments and Simulations organiser labels a row “physical trial”. Which entry belongs in that row?",
     "visual": "A Year 6 Repeated Chance Experiments and Simulations reasoning organiser highlighting physical trial.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A Year 6 Repeated Chance Experiments and Simulations reasoning organiser highlighting physical trial.\"><use href=\"/assets/assessment-visuals/year6/math/ac9m6p02.svg#ac9m6p02-p-013\"></use></svg>",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A Year 6 Repeated Chance Experiments and Simulations reasoning organiser highlighting physical trial.\"><use href=\"/assets/assessment-visuals/year6/math/ac9m6p02.svg#ac9m6p02-p-010\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6p02.svg#ac9m6p02-p-013",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6p02.svg#ac9m6p02-p-010",
       "alt_text": "A Year 6 Repeated Chance Experiments and Simulations reasoning organiser highlighting physical trial."
     },
     "answers": [
@@ -378,19 +291,19 @@ window.skillrPracticeQuestions = [
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9m6p02-p-014",
+    "id": "ac9m6p02-p-011",
     "curriculumCode": "AC9M6P02",
     "bank": "practice",
     "skill": "repeated chance experiments and simulations",
     "printable": true,
     "type": "single",
-    "question": "At the school canteen, a Repeated Chance Experiments and Simulations organiser labels a row “digital simulation”. Which entry belongs in that row?",
-    "audioPrompt": "At the school canteen, a Repeated Chance Experiments and Simulations organiser labels a row “digital simulation”. Which entry belongs in that row?",
+    "question": "While organising a library display, a Repeated Chance Experiments and Simulations organiser labels a row “digital simulation”. Which entry belongs in that row?",
+    "audioPrompt": "While organising a library display, a Repeated Chance Experiments and Simulations organiser labels a row “digital simulation”. Which entry belongs in that row?",
     "visual": "A Year 6 Repeated Chance Experiments and Simulations reasoning organiser highlighting digital simulation.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A Year 6 Repeated Chance Experiments and Simulations reasoning organiser highlighting digital simulation.\"><use href=\"/assets/assessment-visuals/year6/math/ac9m6p02.svg#ac9m6p02-p-014\"></use></svg>",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A Year 6 Repeated Chance Experiments and Simulations reasoning organiser highlighting digital simulation.\"><use href=\"/assets/assessment-visuals/year6/math/ac9m6p02.svg#ac9m6p02-p-011\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6p02.svg#ac9m6p02-p-014",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6p02.svg#ac9m6p02-p-011",
       "alt_text": "A Year 6 Repeated Chance Experiments and Simulations reasoning organiser highlighting digital simulation."
     },
     "answers": [
@@ -407,19 +320,19 @@ window.skillrPracticeQuestions = [
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9m6p02-p-015",
+    "id": "ac9m6p02-p-012",
     "curriculumCode": "AC9M6P02",
     "bank": "practice",
     "skill": "repeated chance experiments and simulations",
     "printable": true,
     "type": "single",
-    "question": "While comparing travel plans, a Repeated Chance Experiments and Simulations organiser labels a row “comparison”. Which entry belongs in that row?",
-    "audioPrompt": "While comparing travel plans, a Repeated Chance Experiments and Simulations organiser labels a row “comparison”. Which entry belongs in that row?",
+    "question": "In a science notebook, a Repeated Chance Experiments and Simulations organiser labels a row “comparison”. Which entry belongs in that row?",
+    "audioPrompt": "In a science notebook, a Repeated Chance Experiments and Simulations organiser labels a row “comparison”. Which entry belongs in that row?",
     "visual": "A Year 6 Repeated Chance Experiments and Simulations reasoning organiser highlighting comparison.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A Year 6 Repeated Chance Experiments and Simulations reasoning organiser highlighting comparison.\"><use href=\"/assets/assessment-visuals/year6/math/ac9m6p02.svg#ac9m6p02-p-015\"></use></svg>",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A Year 6 Repeated Chance Experiments and Simulations reasoning organiser highlighting comparison.\"><use href=\"/assets/assessment-visuals/year6/math/ac9m6p02.svg#ac9m6p02-p-012\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6p02.svg#ac9m6p02-p-015",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6p02.svg#ac9m6p02-p-012",
       "alt_text": "A Year 6 Repeated Chance Experiments and Simulations reasoning organiser highlighting comparison."
     },
     "answers": [
@@ -436,19 +349,19 @@ window.skillrPracticeQuestions = [
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9m6p02-p-016",
+    "id": "ac9m6p02-p-013",
     "curriculumCode": "AC9M6P02",
     "bank": "practice",
     "skill": "repeated chance experiments and simulations",
     "printable": true,
     "type": "single",
-    "question": "In a data workshop, a Repeated Chance Experiments and Simulations organiser labels a row “variation”. Which entry belongs in that row?",
-    "audioPrompt": "In a data workshop, a Repeated Chance Experiments and Simulations organiser labels a row “variation”. Which entry belongs in that row?",
+    "question": "During a design challenge, a Repeated Chance Experiments and Simulations organiser labels a row “variation”. Which entry belongs in that row?",
+    "audioPrompt": "During a design challenge, a Repeated Chance Experiments and Simulations organiser labels a row “variation”. Which entry belongs in that row?",
     "visual": "A Year 6 Repeated Chance Experiments and Simulations reasoning organiser highlighting variation.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A Year 6 Repeated Chance Experiments and Simulations reasoning organiser highlighting variation.\"><use href=\"/assets/assessment-visuals/year6/math/ac9m6p02.svg#ac9m6p02-p-016\"></use></svg>",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A Year 6 Repeated Chance Experiments and Simulations reasoning organiser highlighting variation.\"><use href=\"/assets/assessment-visuals/year6/math/ac9m6p02.svg#ac9m6p02-p-013\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6p02.svg#ac9m6p02-p-016",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6p02.svg#ac9m6p02-p-013",
       "alt_text": "A Year 6 Repeated Chance Experiments and Simulations reasoning organiser highlighting variation."
     },
     "answers": [
@@ -465,14 +378,14 @@ window.skillrPracticeQuestions = [
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9m6p02-p-017",
+    "id": "ac9m6p02-p-014",
     "curriculumCode": "AC9M6P02",
     "bank": "practice",
     "skill": "repeated chance experiments and simulations",
     "printable": true,
     "type": "single",
-    "question": "During a building project, If P(red)=0.3, what is the expected red frequency in 200 trials?",
-    "audioPrompt": "During a building project, If P(red)=0.3, what is the expected red frequency in 200 trials?",
+    "question": "At the school canteen, If P(red)=0.3, what is the expected red frequency in 200 trials?",
+    "audioPrompt": "At the school canteen, If P(red)=0.3, what is the expected red frequency in 200 trials?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -494,14 +407,14 @@ window.skillrPracticeQuestions = [
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9m6p02-p-018",
+    "id": "ac9m6p02-p-015",
     "curriculumCode": "AC9M6P02",
     "bank": "practice",
     "skill": "repeated chance experiments and simulations",
     "printable": true,
     "type": "single",
-    "question": "At the local pool, Why do observed frequencies differ from expected values?",
-    "audioPrompt": "At the local pool, Why do observed frequencies differ from expected values?",
+    "question": "While comparing travel plans, Why do observed frequencies differ from expected values?",
+    "audioPrompt": "While comparing travel plans, Why do observed frequencies differ from expected values?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -523,101 +436,14 @@ window.skillrPracticeQuestions = [
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9m6p02-p-019",
+    "id": "ac9m6p02-p-016",
     "curriculumCode": "AC9M6P02",
     "bank": "practice",
     "skill": "repeated chance experiments and simulations",
     "printable": true,
     "type": "single",
-    "question": "While preparing an excursion. The quantities or representation come from a fresh example. a note says “probability multiplied by number of trials”. Which mathematical term labels it?",
-    "audioPrompt": "While preparing an excursion. The quantities or representation come from a fresh example. a note says “probability multiplied by number of trials”. Which mathematical term labels it?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "asset_path": "",
-      "alt_text": ""
-    },
-    "answers": [
-      "relative frequency",
-      "simulation",
-      "expected frequency"
-    ],
-    "correct": 2,
-    "explanation": "expected frequency means probability multiplied by number of trials.\nHint: Match every feature of the description to the mathematical term.",
-    "structuredExplanation": {
-      "summary": "expected frequency means probability multiplied by number of trials.",
-      "hint": "Match every feature of the description to the mathematical term."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m6p02-p-020",
-    "curriculumCode": "AC9M6P02",
-    "bank": "practice",
-    "skill": "repeated chance experiments and simulations",
-    "printable": true,
-    "type": "single",
-    "question": "In a games club. The quantities or representation come from a fresh example. a note says “observed count divided by trial total”. Which mathematical term labels it?",
-    "audioPrompt": "In a games club. The quantities or representation come from a fresh example. a note says “observed count divided by trial total”. Which mathematical term labels it?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "asset_path": "",
-      "alt_text": ""
-    },
-    "answers": [
-      "relative frequency",
-      "expected frequency",
-      "simulation"
-    ],
-    "correct": 0,
-    "explanation": "relative frequency means observed count divided by trial total.\nHint: Match every feature of the description to the mathematical term.",
-    "structuredExplanation": {
-      "summary": "relative frequency means observed count divided by trial total.",
-      "hint": "Match every feature of the description to the mathematical term."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m6p02-p-021",
-    "curriculumCode": "AC9M6P02",
-    "bank": "practice",
-    "skill": "repeated chance experiments and simulations",
-    "printable": true,
-    "type": "single",
-    "question": "During an art project. The quantities or representation come from a fresh example. a note says “modelled repetition of a chance process”. Which mathematical term labels it?",
-    "audioPrompt": "During an art project. The quantities or representation come from a fresh example. a note says “modelled repetition of a chance process”. Which mathematical term labels it?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "asset_path": "",
-      "alt_text": ""
-    },
-    "answers": [
-      "expected frequency",
-      "simulation",
-      "relative frequency"
-    ],
-    "correct": 1,
-    "explanation": "simulation means modelled repetition of a chance process.\nHint: Match every feature of the description to the mathematical term.",
-    "structuredExplanation": {
-      "summary": "simulation means modelled repetition of a chance process.",
-      "hint": "Match every feature of the description to the mathematical term."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m6p02-p-022",
-    "curriculumCode": "AC9M6P02",
-    "bank": "practice",
-    "skill": "repeated chance experiments and simulations",
-    "printable": true,
-    "type": "single",
-    "question": "At the recycling station. The quantities or representation come from a fresh example. a student reasons, “Expected frequency treated as guaranteed”. Which response corrects the error?",
-    "audioPrompt": "At the recycling station. The quantities or representation come from a fresh example. a student reasons, “Expected frequency treated as guaranteed”. Which response corrects the error?",
+    "question": "In a data workshop. The quantities or representation come from a fresh example. a student reasons, “Expected frequency treated as guaranteed”. Which response corrects the error?",
+    "audioPrompt": "In a data workshop. The quantities or representation come from a fresh example. a student reasons, “Expected frequency treated as guaranteed”. Which response corrects the error?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -639,14 +465,14 @@ window.skillrPracticeQuestions = [
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9m6p02-p-023",
+    "id": "ac9m6p02-p-017",
     "curriculumCode": "AC9M6P02",
     "bank": "practice",
     "skill": "repeated chance experiments and simulations",
     "printable": true,
     "type": "single",
-    "question": "While planning a class survey. The quantities or representation come from a fresh example. a student reasons, “Raw counts compared across unequal totals”. Which response corrects the error?",
-    "audioPrompt": "While planning a class survey. The quantities or representation come from a fresh example. a student reasons, “Raw counts compared across unequal totals”. Which response corrects the error?",
+    "question": "During a building project. The quantities or representation come from a fresh example. a student reasons, “Raw counts compared across unequal totals”. Which response corrects the error?",
+    "audioPrompt": "During a building project. The quantities or representation come from a fresh example. a student reasons, “Raw counts compared across unequal totals”. Which response corrects the error?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -668,14 +494,14 @@ window.skillrPracticeQuestions = [
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9m6p02-p-024",
+    "id": "ac9m6p02-p-018",
     "curriculumCode": "AC9M6P02",
     "bank": "practice",
     "skill": "repeated chance experiments and simulations",
     "printable": true,
     "type": "single",
-    "question": "In a coding lesson. The quantities or representation come from a fresh example. a student reasons, “Unwanted outcomes deleted”. Which response corrects the error?",
-    "audioPrompt": "In a coding lesson. The quantities or representation come from a fresh example. a student reasons, “Unwanted outcomes deleted”. Which response corrects the error?",
+    "question": "At the local pool. The quantities or representation come from a fresh example. a student reasons, “Unwanted outcomes deleted”. Which response corrects the error?",
+    "audioPrompt": "At the local pool. The quantities or representation come from a fresh example. a student reasons, “Unwanted outcomes deleted”. Which response corrects the error?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -693,6 +519,180 @@ window.skillrPracticeQuestions = [
     "structuredExplanation": {
       "summary": "Record all valid trials.",
       "hint": "Identify the exact misconception, then choose the correction that preserves the mathematics."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m6p02-p-019",
+    "curriculumCode": "AC9M6P02",
+    "bank": "practice",
+    "skill": "repeated chance experiments and simulations",
+    "printable": true,
+    "type": "single",
+    "question": "While preparing an excursion. The quantities or representation come from a fresh example. a student reasons, “Simulation settings assumed correct”. Which response corrects the error?",
+    "audioPrompt": "While preparing an excursion. The quantities or representation come from a fresh example. a student reasons, “Simulation settings assumed correct”. Which response corrects the error?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      "Keep the claim because one example is enough.",
+      "Make the claim more certain without checking the quantities.",
+      "Audit the model."
+    ],
+    "correct": 2,
+    "explanation": "Audit the model.\nHint: Identify the exact misconception, then choose the correction that preserves the mathematics.",
+    "structuredExplanation": {
+      "summary": "Audit the model.",
+      "hint": "Identify the exact misconception, then choose the correction that preserves the mathematics."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m6p02-p-020",
+    "curriculumCode": "AC9M6P02",
+    "bank": "practice",
+    "skill": "repeated chance experiments and simulations",
+    "printable": true,
+    "type": "single",
+    "question": "In a games club. The quantities or representation come from a fresh example. a Repeated Chance Experiments and Simulations organiser labels a row “10”. Which entry belongs in that row?",
+    "audioPrompt": "In a games club. The quantities or representation come from a fresh example. a Repeated Chance Experiments and Simulations organiser labels a row “10”. Which entry belongs in that row?",
+    "visual": "A Year 6 Repeated Chance Experiments and Simulations reasoning organiser highlighting 10.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A Year 6 Repeated Chance Experiments and Simulations reasoning organiser highlighting 10.\"><use href=\"/assets/assessment-visuals/year6/math/ac9m6p02.svg#ac9m6p02-p-020\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6p02.svg#ac9m6p02-p-020",
+      "alt_text": "A Year 6 Repeated Chance Experiments and Simulations reasoning organiser highlighting 10."
+    },
+    "answers": [
+      "7; 0.70",
+      "heads; relative frequency",
+      "27; 0.54"
+    ],
+    "correct": 0,
+    "explanation": "The representation connects 10 with 7; 0.70.\nHint: Use the mathematical role of the entry, not a repeated word.",
+    "structuredExplanation": {
+      "summary": "The representation connects 10 with 7; 0.70.",
+      "hint": "Use the mathematical role of the entry, not a repeated word."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m6p02-p-021",
+    "curriculumCode": "AC9M6P02",
+    "bank": "practice",
+    "skill": "repeated chance experiments and simulations",
+    "printable": true,
+    "type": "single",
+    "question": "During an art project. The quantities or representation come from a fresh example. a Repeated Chance Experiments and Simulations organiser labels a row “50”. Which entry belongs in that row?",
+    "audioPrompt": "During an art project. The quantities or representation come from a fresh example. a Repeated Chance Experiments and Simulations organiser labels a row “50”. Which entry belongs in that row?",
+    "visual": "A Year 6 Repeated Chance Experiments and Simulations reasoning organiser highlighting 50.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A Year 6 Repeated Chance Experiments and Simulations reasoning organiser highlighting 50.\"><use href=\"/assets/assessment-visuals/year6/math/ac9m6p02.svg#ac9m6p02-p-021\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6p02.svg#ac9m6p02-p-021",
+      "alt_text": "A Year 6 Repeated Chance Experiments and Simulations reasoning organiser highlighting 50."
+    },
+    "answers": [
+      "heads; relative frequency",
+      "27; 0.54",
+      "7; 0.70"
+    ],
+    "correct": 1,
+    "explanation": "The representation connects 50 with 27; 0.54.\nHint: Use the mathematical role of the entry, not a repeated word.",
+    "structuredExplanation": {
+      "summary": "The representation connects 50 with 27; 0.54.",
+      "hint": "Use the mathematical role of the entry, not a repeated word."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m6p02-p-022",
+    "curriculumCode": "AC9M6P02",
+    "bank": "practice",
+    "skill": "repeated chance experiments and simulations",
+    "printable": true,
+    "type": "single",
+    "question": "At the recycling station. The quantities or representation come from a fresh example. a Repeated Chance Experiments and Simulations organiser labels a row “200”. Which entry belongs in that row?",
+    "audioPrompt": "At the recycling station. The quantities or representation come from a fresh example. a Repeated Chance Experiments and Simulations organiser labels a row “200”. Which entry belongs in that row?",
+    "visual": "A Year 6 Repeated Chance Experiments and Simulations reasoning organiser highlighting 200.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A Year 6 Repeated Chance Experiments and Simulations reasoning organiser highlighting 200.\"><use href=\"/assets/assessment-visuals/year6/math/ac9m6p02.svg#ac9m6p02-p-022\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6p02.svg#ac9m6p02-p-022",
+      "alt_text": "A Year 6 Repeated Chance Experiments and Simulations reasoning organiser highlighting 200."
+    },
+    "answers": [
+      "heads; relative frequency",
+      "7; 0.70",
+      "103; 0.515"
+    ],
+    "correct": 2,
+    "explanation": "The representation connects 200 with 103; 0.515.\nHint: Use the mathematical role of the entry, not a repeated word.",
+    "structuredExplanation": {
+      "summary": "The representation connects 200 with 103; 0.515.",
+      "hint": "Use the mathematical role of the entry, not a repeated word."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m6p02-p-023",
+    "curriculumCode": "AC9M6P02",
+    "bank": "practice",
+    "skill": "repeated chance experiments and simulations",
+    "printable": true,
+    "type": "single",
+    "question": "While planning a class survey. The quantities or representation come from a fresh example. a Repeated Chance Experiments and Simulations organiser labels a row “1 000”. Which entry belongs in that row?",
+    "audioPrompt": "While planning a class survey. The quantities or representation come from a fresh example. a Repeated Chance Experiments and Simulations organiser labels a row “1 000”. Which entry belongs in that row?",
+    "visual": "A Year 6 Repeated Chance Experiments and Simulations reasoning organiser highlighting 1 000.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A Year 6 Repeated Chance Experiments and Simulations reasoning organiser highlighting 1 000.\"><use href=\"/assets/assessment-visuals/year6/math/ac9m6p02.svg#ac9m6p02-p-023\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6p02.svg#ac9m6p02-p-023",
+      "alt_text": "A Year 6 Repeated Chance Experiments and Simulations reasoning organiser highlighting 1 000."
+    },
+    "answers": [
+      "498; 0.498",
+      "heads; relative frequency",
+      "7; 0.70"
+    ],
+    "correct": 0,
+    "explanation": "The representation connects 1 000 with 498; 0.498.\nHint: Use the mathematical role of the entry, not a repeated word.",
+    "structuredExplanation": {
+      "summary": "The representation connects 1 000 with 498; 0.498.",
+      "hint": "Use the mathematical role of the entry, not a repeated word."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m6p02-p-024",
+    "curriculumCode": "AC9M6P02",
+    "bank": "practice",
+    "skill": "repeated chance experiments and simulations",
+    "printable": true,
+    "type": "single",
+    "question": "In a coding lesson. The quantities or representation come from a fresh example. a Repeated Chance Experiments and Simulations organiser labels a row “expected”. Which entry belongs in that row?",
+    "audioPrompt": "In a coding lesson. The quantities or representation come from a fresh example. a Repeated Chance Experiments and Simulations organiser labels a row “expected”. Which entry belongs in that row?",
+    "visual": "A Year 6 Repeated Chance Experiments and Simulations reasoning organiser highlighting expected.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A Year 6 Repeated Chance Experiments and Simulations reasoning organiser highlighting expected.\"><use href=\"/assets/assessment-visuals/year6/math/ac9m6p02.svg#ac9m6p02-p-024\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6p02.svg#ac9m6p02-p-024",
+      "alt_text": "A Year 6 Repeated Chance Experiments and Simulations reasoning organiser highlighting expected."
+    },
+    "answers": [
+      "heads; relative frequency",
+      "; 0.5",
+      "7; 0.70"
+    ],
+    "correct": 1,
+    "explanation": "The representation connects expected with ; 0.5.\nHint: Use the mathematical role of the entry, not a repeated word.",
+    "structuredExplanation": {
+      "summary": "The representation connects expected with ; 0.5.",
+      "hint": "Use the mathematical role of the entry, not a repeated word."
     },
     "qualitySchema": "production-v1"
   }

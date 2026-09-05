@@ -7,95 +7,8 @@ window.skillrPracticeQuestions = [
     "skill": "estimating with rational numbers and percentages",
     "printable": true,
     "type": "single",
-    "question": "During a class investigation, a note says “nearby values that calculate easily”. Which mathematical term labels it?",
-    "audioPrompt": "During a class investigation, a note says “nearby values that calculate easily”. Which mathematical term labels it?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "asset_path": "",
-      "alt_text": ""
-    },
-    "answers": [
-      "upper bound",
-      "compatible numbers",
-      "benchmark percentage"
-    ],
-    "correct": 1,
-    "explanation": "compatible numbers means nearby values that calculate easily.\nHint: Match every feature of the description to the mathematical term.",
-    "structuredExplanation": {
-      "summary": "compatible numbers means nearby values that calculate easily.",
-      "hint": "Match every feature of the description to the mathematical term."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m6n08-p-002",
-    "curriculumCode": "AC9M6N08",
-    "bank": "practice",
-    "skill": "estimating with rational numbers and percentages",
-    "printable": true,
-    "type": "single",
-    "question": "At the school market, a note says “value at or above a plausible exact amount”. Which mathematical term labels it?",
-    "audioPrompt": "At the school market, a note says “value at or above a plausible exact amount”. Which mathematical term labels it?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "asset_path": "",
-      "alt_text": ""
-    },
-    "answers": [
-      "compatible numbers",
-      "benchmark percentage",
-      "upper bound"
-    ],
-    "correct": 2,
-    "explanation": "upper bound means value at or above a plausible exact amount.\nHint: Match every feature of the description to the mathematical term.",
-    "structuredExplanation": {
-      "summary": "upper bound means value at or above a plausible exact amount.",
-      "hint": "Match every feature of the description to the mathematical term."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m6n08-p-003",
-    "curriculumCode": "AC9M6N08",
-    "bank": "practice",
-    "skill": "estimating with rational numbers and percentages",
-    "printable": true,
-    "type": "single",
-    "question": "While planning a garden, a note says “familiar rate such as 10%, 25%, 50% or 75%”. Which mathematical term labels it?",
-    "audioPrompt": "While planning a garden, a note says “familiar rate such as 10%, 25%, 50% or 75%”. Which mathematical term labels it?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "asset_path": "",
-      "alt_text": ""
-    },
-    "answers": [
-      "benchmark percentage",
-      "compatible numbers",
-      "upper bound"
-    ],
-    "correct": 0,
-    "explanation": "benchmark percentage means familiar rate such as 10%, 25%, 50% or 75%.\nHint: Match every feature of the description to the mathematical term.",
-    "structuredExplanation": {
-      "summary": "benchmark percentage means familiar rate such as 10%, 25%, 50% or 75%.",
-      "hint": "Match every feature of the description to the mathematical term."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m6n08-p-004",
-    "curriculumCode": "AC9M6N08",
-    "bank": "practice",
-    "skill": "estimating with rational numbers and percentages",
-    "printable": true,
-    "type": "single",
-    "question": "In a robotics challenge, a student reasons, “Nearest rounding used automatically”. Which response corrects the error?",
-    "audioPrompt": "In a robotics challenge, a student reasons, “Nearest rounding used automatically”. Which response corrects the error?",
+    "question": "During a class investigation, a student reasons, “Nearest rounding used automatically”. Which response corrects the error?",
+    "audioPrompt": "During a class investigation, a student reasons, “Nearest rounding used automatically”. Which response corrects the error?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -117,14 +30,14 @@ window.skillrPracticeQuestions = [
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9m6n08-p-005",
+    "id": "ac9m6n08-p-002",
     "curriculumCode": "AC9M6N08",
     "bank": "practice",
     "skill": "estimating with rational numbers and percentages",
     "printable": true,
     "type": "single",
-    "question": "During sports-day planning, a student reasons, “Estimate reported as exact”. Which response corrects the error?",
-    "audioPrompt": "During sports-day planning, a student reasons, “Estimate reported as exact”. Which response corrects the error?",
+    "question": "At the school market, a student reasons, “Estimate reported as exact”. Which response corrects the error?",
+    "audioPrompt": "At the school market, a student reasons, “Estimate reported as exact”. Which response corrects the error?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -146,14 +59,14 @@ window.skillrPracticeQuestions = [
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9m6n08-p-006",
+    "id": "ac9m6n08-p-003",
     "curriculumCode": "AC9M6N08",
     "bank": "practice",
     "skill": "estimating with rational numbers and percentages",
     "printable": true,
     "type": "single",
-    "question": "At a wildlife centre, a student reasons, “Bounds direction ignored”. Which response corrects the error?",
-    "audioPrompt": "At a wildlife centre, a student reasons, “Bounds direction ignored”. Which response corrects the error?",
+    "question": "While planning a garden, a student reasons, “Bounds direction ignored”. Which response corrects the error?",
+    "audioPrompt": "While planning a garden, a student reasons, “Bounds direction ignored”. Which response corrects the error?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -175,14 +88,14 @@ window.skillrPracticeQuestions = [
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9m6n08-p-007",
+    "id": "ac9m6n08-p-004",
     "curriculumCode": "AC9M6N08",
     "bank": "practice",
     "skill": "estimating with rational numbers and percentages",
     "printable": true,
     "type": "single",
-    "question": "While checking a map, a student reasons, “Early rounding compounds error”. Which response corrects the error?",
-    "audioPrompt": "While checking a map, a student reasons, “Early rounding compounds error”. Which response corrects the error?",
+    "question": "In a robotics challenge, a student reasons, “Early rounding compounds error”. Which response corrects the error?",
+    "audioPrompt": "In a robotics challenge, a student reasons, “Early rounding compounds error”. Which response corrects the error?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -204,19 +117,19 @@ window.skillrPracticeQuestions = [
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9m6n08-p-008",
+    "id": "ac9m6n08-p-005",
     "curriculumCode": "AC9M6N08",
     "bank": "practice",
     "skill": "estimating with rational numbers and percentages",
     "printable": true,
     "type": "single",
-    "question": "In the makerspace, a Estimating with Rational Numbers and Percentages organiser labels a row “18.7% of 398”. Which entry belongs in that row?",
-    "audioPrompt": "In the makerspace, a Estimating with Rational Numbers and Percentages organiser labels a row “18.7% of 398”. Which entry belongs in that row?",
+    "question": "During sports-day planning, a Estimating with Rational Numbers and Percentages organiser labels a row “18.7% of 398”. Which entry belongs in that row?",
+    "audioPrompt": "During sports-day planning, a Estimating with Rational Numbers and Percentages organiser labels a row “18.7% of 398”. Which entry belongs in that row?",
     "visual": "A Year 6 Estimating with Rational Numbers and Percentages reasoning organiser highlighting 18.7% of 398.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A Year 6 Estimating with Rational Numbers and Percentages reasoning organiser highlighting 18.7% of 398.\"><use href=\"/assets/assessment-visuals/year6/math/ac9m6n08.svg#ac9m6n08-p-008\"></use></svg>",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A Year 6 Estimating with Rational Numbers and Percentages reasoning organiser highlighting 18.7% of 398.\"><use href=\"/assets/assessment-visuals/year6/math/ac9m6n08.svg#ac9m6n08-p-005\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6n08.svg#ac9m6n08-p-008",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6n08.svg#ac9m6n08-p-005",
       "alt_text": "A Year 6 Estimating with Rational Numbers and Percentages reasoning organiser highlighting 18.7% of 398."
     },
     "answers": [
@@ -233,19 +146,19 @@ window.skillrPracticeQuestions = [
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9m6n08-p-009",
+    "id": "ac9m6n08-p-006",
     "curriculumCode": "AC9M6N08",
     "bank": "practice",
     "skill": "estimating with rational numbers and percentages",
     "printable": true,
     "type": "single",
-    "question": "During a cooking project, a Estimating with Rational Numbers and Percentages organiser labels a row “63.4 ÷ 7.9”. Which entry belongs in that row?",
-    "audioPrompt": "During a cooking project, a Estimating with Rational Numbers and Percentages organiser labels a row “63.4 ÷ 7.9”. Which entry belongs in that row?",
+    "question": "At a wildlife centre, a Estimating with Rational Numbers and Percentages organiser labels a row “63.4 ÷ 7.9”. Which entry belongs in that row?",
+    "audioPrompt": "At a wildlife centre, a Estimating with Rational Numbers and Percentages organiser labels a row “63.4 ÷ 7.9”. Which entry belongs in that row?",
     "visual": "A Year 6 Estimating with Rational Numbers and Percentages reasoning organiser highlighting 63.4 ÷ 7.9.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A Year 6 Estimating with Rational Numbers and Percentages reasoning organiser highlighting 63.4 ÷ 7.9.\"><use href=\"/assets/assessment-visuals/year6/math/ac9m6n08.svg#ac9m6n08-p-009\"></use></svg>",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A Year 6 Estimating with Rational Numbers and Percentages reasoning organiser highlighting 63.4 ÷ 7.9.\"><use href=\"/assets/assessment-visuals/year6/math/ac9m6n08.svg#ac9m6n08-p-006\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6n08.svg#ac9m6n08-p-009",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6n08.svg#ac9m6n08-p-006",
       "alt_text": "A Year 6 Estimating with Rational Numbers and Percentages reasoning organiser highlighting 63.4 ÷ 7.9."
     },
     "answers": [
@@ -262,19 +175,19 @@ window.skillrPracticeQuestions = [
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9m6n08-p-010",
+    "id": "ac9m6n08-p-007",
     "curriculumCode": "AC9M6N08",
     "bank": "practice",
     "skill": "estimating with rational numbers and percentages",
     "printable": true,
     "type": "single",
-    "question": "At the community fair, a Estimating with Rational Numbers and Percentages organiser labels a row “$29.95 + $18.60 + $7.85”. Which entry belongs in that row?",
-    "audioPrompt": "At the community fair, a Estimating with Rational Numbers and Percentages organiser labels a row “$29.95 + $18.60 + $7.85”. Which entry belongs in that row?",
+    "question": "While checking a map, a Estimating with Rational Numbers and Percentages organiser labels a row “$29.95 + $18.60 + $7.85”. Which entry belongs in that row?",
+    "audioPrompt": "While checking a map, a Estimating with Rational Numbers and Percentages organiser labels a row “$29.95 + $18.60 + $7.85”. Which entry belongs in that row?",
     "visual": "A Year 6 Estimating with Rational Numbers and Percentages reasoning organiser highlighting $29.95 + $18.60 + $7.85.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A Year 6 Estimating with Rational Numbers and Percentages reasoning organiser highlighting $29.95 + $18.60 + $7.85.\"><use href=\"/assets/assessment-visuals/year6/math/ac9m6n08.svg#ac9m6n08-p-010\"></use></svg>",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A Year 6 Estimating with Rational Numbers and Percentages reasoning organiser highlighting $29.95 + $18.60 + $7.85.\"><use href=\"/assets/assessment-visuals/year6/math/ac9m6n08.svg#ac9m6n08-p-007\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6n08.svg#ac9m6n08-p-010",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6n08.svg#ac9m6n08-p-007",
       "alt_text": "A Year 6 Estimating with Rational Numbers and Percentages reasoning organiser highlighting $29.95 + $18.60 + $7.85."
     },
     "answers": [
@@ -291,19 +204,19 @@ window.skillrPracticeQuestions = [
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9m6n08-p-011",
+    "id": "ac9m6n08-p-008",
     "curriculumCode": "AC9M6N08",
     "bank": "practice",
     "skill": "estimating with rational numbers and percentages",
     "printable": true,
     "type": "single",
-    "question": "While organising a library display, a Estimating with Rational Numbers and Percentages organiser labels a row “3/8 of 79”. Which entry belongs in that row?",
-    "audioPrompt": "While organising a library display, a Estimating with Rational Numbers and Percentages organiser labels a row “3/8 of 79”. Which entry belongs in that row?",
+    "question": "In the makerspace, a Estimating with Rational Numbers and Percentages organiser labels a row “3/8 of 79”. Which entry belongs in that row?",
+    "audioPrompt": "In the makerspace, a Estimating with Rational Numbers and Percentages organiser labels a row “3/8 of 79”. Which entry belongs in that row?",
     "visual": "A Year 6 Estimating with Rational Numbers and Percentages reasoning organiser highlighting 3/8 of 79.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A Year 6 Estimating with Rational Numbers and Percentages reasoning organiser highlighting 3/8 of 79.\"><use href=\"/assets/assessment-visuals/year6/math/ac9m6n08.svg#ac9m6n08-p-011\"></use></svg>",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A Year 6 Estimating with Rational Numbers and Percentages reasoning organiser highlighting 3/8 of 79.\"><use href=\"/assets/assessment-visuals/year6/math/ac9m6n08.svg#ac9m6n08-p-008\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6n08.svg#ac9m6n08-p-011",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6n08.svg#ac9m6n08-p-008",
       "alt_text": "A Year 6 Estimating with Rational Numbers and Percentages reasoning organiser highlighting 3/8 of 79."
     },
     "answers": [
@@ -320,19 +233,19 @@ window.skillrPracticeQuestions = [
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9m6n08-p-012",
+    "id": "ac9m6n08-p-009",
     "curriculumCode": "AC9M6N08",
     "bank": "practice",
     "skill": "estimating with rational numbers and percentages",
     "printable": true,
     "type": "single",
-    "question": "In a science notebook, a Estimating with Rational Numbers and Percentages organiser labels a row “minimum capacity”. Which entry belongs in that row?",
-    "audioPrompt": "In a science notebook, a Estimating with Rational Numbers and Percentages organiser labels a row “minimum capacity”. Which entry belongs in that row?",
+    "question": "During a cooking project, a Estimating with Rational Numbers and Percentages organiser labels a row “minimum capacity”. Which entry belongs in that row?",
+    "audioPrompt": "During a cooking project, a Estimating with Rational Numbers and Percentages organiser labels a row “minimum capacity”. Which entry belongs in that row?",
     "visual": "A Year 6 Estimating with Rational Numbers and Percentages reasoning organiser highlighting minimum capacity.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A Year 6 Estimating with Rational Numbers and Percentages reasoning organiser highlighting minimum capacity.\"><use href=\"/assets/assessment-visuals/year6/math/ac9m6n08.svg#ac9m6n08-p-012\"></use></svg>",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A Year 6 Estimating with Rational Numbers and Percentages reasoning organiser highlighting minimum capacity.\"><use href=\"/assets/assessment-visuals/year6/math/ac9m6n08.svg#ac9m6n08-p-009\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6n08.svg#ac9m6n08-p-012",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6n08.svg#ac9m6n08-p-009",
       "alt_text": "A Year 6 Estimating with Rational Numbers and Percentages reasoning organiser highlighting minimum capacity."
     },
     "answers": [
@@ -349,19 +262,19 @@ window.skillrPracticeQuestions = [
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9m6n08-p-013",
+    "id": "ac9m6n08-p-010",
     "curriculumCode": "AC9M6N08",
     "bank": "practice",
     "skill": "estimating with rational numbers and percentages",
     "printable": true,
     "type": "single",
-    "question": "During a design challenge, a Estimating with Rational Numbers and Percentages organiser labels a row “quick reasonableness”. Which entry belongs in that row?",
-    "audioPrompt": "During a design challenge, a Estimating with Rational Numbers and Percentages organiser labels a row “quick reasonableness”. Which entry belongs in that row?",
+    "question": "At the community fair, a Estimating with Rational Numbers and Percentages organiser labels a row “quick reasonableness”. Which entry belongs in that row?",
+    "audioPrompt": "At the community fair, a Estimating with Rational Numbers and Percentages organiser labels a row “quick reasonableness”. Which entry belongs in that row?",
     "visual": "A Year 6 Estimating with Rational Numbers and Percentages reasoning organiser highlighting quick reasonableness.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A Year 6 Estimating with Rational Numbers and Percentages reasoning organiser highlighting quick reasonableness.\"><use href=\"/assets/assessment-visuals/year6/math/ac9m6n08.svg#ac9m6n08-p-013\"></use></svg>",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A Year 6 Estimating with Rational Numbers and Percentages reasoning organiser highlighting quick reasonableness.\"><use href=\"/assets/assessment-visuals/year6/math/ac9m6n08.svg#ac9m6n08-p-010\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6n08.svg#ac9m6n08-p-013",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6n08.svg#ac9m6n08-p-010",
       "alt_text": "A Year 6 Estimating with Rational Numbers and Percentages reasoning organiser highlighting quick reasonableness."
     },
     "answers": [
@@ -378,19 +291,19 @@ window.skillrPracticeQuestions = [
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9m6n08-p-014",
+    "id": "ac9m6n08-p-011",
     "curriculumCode": "AC9M6N08",
     "bank": "practice",
     "skill": "estimating with rational numbers and percentages",
     "printable": true,
     "type": "single",
-    "question": "At the school canteen, a Estimating with Rational Numbers and Percentages organiser labels a row “range estimate”. Which entry belongs in that row?",
-    "audioPrompt": "At the school canteen, a Estimating with Rational Numbers and Percentages organiser labels a row “range estimate”. Which entry belongs in that row?",
+    "question": "While organising a library display, a Estimating with Rational Numbers and Percentages organiser labels a row “range estimate”. Which entry belongs in that row?",
+    "audioPrompt": "While organising a library display, a Estimating with Rational Numbers and Percentages organiser labels a row “range estimate”. Which entry belongs in that row?",
     "visual": "A Year 6 Estimating with Rational Numbers and Percentages reasoning organiser highlighting range estimate.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A Year 6 Estimating with Rational Numbers and Percentages reasoning organiser highlighting range estimate.\"><use href=\"/assets/assessment-visuals/year6/math/ac9m6n08.svg#ac9m6n08-p-014\"></use></svg>",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A Year 6 Estimating with Rational Numbers and Percentages reasoning organiser highlighting range estimate.\"><use href=\"/assets/assessment-visuals/year6/math/ac9m6n08.svg#ac9m6n08-p-011\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6n08.svg#ac9m6n08-p-014",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6n08.svg#ac9m6n08-p-011",
       "alt_text": "A Year 6 Estimating with Rational Numbers and Percentages reasoning organiser highlighting range estimate."
     },
     "answers": [
@@ -407,14 +320,14 @@ window.skillrPracticeQuestions = [
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9m6n08-p-015",
+    "id": "ac9m6n08-p-012",
     "curriculumCode": "AC9M6N08",
     "bank": "practice",
     "skill": "estimating with rational numbers and percentages",
     "printable": true,
     "type": "single",
-    "question": "While comparing travel plans, Which is a useful estimate for 18.7% of 398?",
-    "audioPrompt": "While comparing travel plans, Which is a useful estimate for 18.7% of 398?",
+    "question": "In a science notebook, Which is a useful estimate for 18.7% of 398?",
+    "audioPrompt": "In a science notebook, Which is a useful estimate for 18.7% of 398?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -436,14 +349,14 @@ window.skillrPracticeQuestions = [
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9m6n08-p-016",
+    "id": "ac9m6n08-p-013",
     "curriculumCode": "AC9M6N08",
     "bank": "practice",
     "skill": "estimating with rational numbers and percentages",
     "printable": true,
     "type": "single",
-    "question": "In a data workshop, Which estimate is safest for checking cash required?",
-    "audioPrompt": "In a data workshop, Which estimate is safest for checking cash required?",
+    "question": "During a design challenge, Which estimate is safest for checking cash required?",
+    "audioPrompt": "During a design challenge, Which estimate is safest for checking cash required?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -465,101 +378,14 @@ window.skillrPracticeQuestions = [
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9m6n08-p-017",
+    "id": "ac9m6n08-p-014",
     "curriculumCode": "AC9M6N08",
     "bank": "practice",
     "skill": "estimating with rational numbers and percentages",
     "printable": true,
     "type": "single",
-    "question": "During a building project. The quantities or representation come from a fresh example. a note says “nearby values that calculate easily”. Which mathematical term labels it?",
-    "audioPrompt": "During a building project. The quantities or representation come from a fresh example. a note says “nearby values that calculate easily”. Which mathematical term labels it?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "asset_path": "",
-      "alt_text": ""
-    },
-    "answers": [
-      "upper bound",
-      "benchmark percentage",
-      "compatible numbers"
-    ],
-    "correct": 2,
-    "explanation": "compatible numbers means nearby values that calculate easily.\nHint: Match every feature of the description to the mathematical term.",
-    "structuredExplanation": {
-      "summary": "compatible numbers means nearby values that calculate easily.",
-      "hint": "Match every feature of the description to the mathematical term."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m6n08-p-018",
-    "curriculumCode": "AC9M6N08",
-    "bank": "practice",
-    "skill": "estimating with rational numbers and percentages",
-    "printable": true,
-    "type": "single",
-    "question": "At the local pool. The quantities or representation come from a fresh example. a note says “value at or above a plausible exact amount”. Which mathematical term labels it?",
-    "audioPrompt": "At the local pool. The quantities or representation come from a fresh example. a note says “value at or above a plausible exact amount”. Which mathematical term labels it?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "asset_path": "",
-      "alt_text": ""
-    },
-    "answers": [
-      "upper bound",
-      "compatible numbers",
-      "benchmark percentage"
-    ],
-    "correct": 0,
-    "explanation": "upper bound means value at or above a plausible exact amount.\nHint: Match every feature of the description to the mathematical term.",
-    "structuredExplanation": {
-      "summary": "upper bound means value at or above a plausible exact amount.",
-      "hint": "Match every feature of the description to the mathematical term."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m6n08-p-019",
-    "curriculumCode": "AC9M6N08",
-    "bank": "practice",
-    "skill": "estimating with rational numbers and percentages",
-    "printable": true,
-    "type": "single",
-    "question": "While preparing an excursion. The quantities or representation come from a fresh example. a note says “familiar rate such as 10%, 25%, 50% or 75%”. Which mathematical term labels it?",
-    "audioPrompt": "While preparing an excursion. The quantities or representation come from a fresh example. a note says “familiar rate such as 10%, 25%, 50% or 75%”. Which mathematical term labels it?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "asset_path": "",
-      "alt_text": ""
-    },
-    "answers": [
-      "compatible numbers",
-      "benchmark percentage",
-      "upper bound"
-    ],
-    "correct": 1,
-    "explanation": "benchmark percentage means familiar rate such as 10%, 25%, 50% or 75%.\nHint: Match every feature of the description to the mathematical term.",
-    "structuredExplanation": {
-      "summary": "benchmark percentage means familiar rate such as 10%, 25%, 50% or 75%.",
-      "hint": "Match every feature of the description to the mathematical term."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m6n08-p-020",
-    "curriculumCode": "AC9M6N08",
-    "bank": "practice",
-    "skill": "estimating with rational numbers and percentages",
-    "printable": true,
-    "type": "single",
-    "question": "In a games club. The quantities or representation come from a fresh example. a student reasons, “Nearest rounding used automatically”. Which response corrects the error?",
-    "audioPrompt": "In a games club. The quantities or representation come from a fresh example. a student reasons, “Nearest rounding used automatically”. Which response corrects the error?",
+    "question": "At the school canteen. The quantities or representation come from a fresh example. a student reasons, “Nearest rounding used automatically”. Which response corrects the error?",
+    "audioPrompt": "At the school canteen. The quantities or representation come from a fresh example. a student reasons, “Nearest rounding used automatically”. Which response corrects the error?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -581,14 +407,14 @@ window.skillrPracticeQuestions = [
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9m6n08-p-021",
+    "id": "ac9m6n08-p-015",
     "curriculumCode": "AC9M6N08",
     "bank": "practice",
     "skill": "estimating with rational numbers and percentages",
     "printable": true,
     "type": "single",
-    "question": "During an art project. The quantities or representation come from a fresh example. a student reasons, “Estimate reported as exact”. Which response corrects the error?",
-    "audioPrompt": "During an art project. The quantities or representation come from a fresh example. a student reasons, “Estimate reported as exact”. Which response corrects the error?",
+    "question": "While comparing travel plans. The quantities or representation come from a fresh example. a student reasons, “Estimate reported as exact”. Which response corrects the error?",
+    "audioPrompt": "While comparing travel plans. The quantities or representation come from a fresh example. a student reasons, “Estimate reported as exact”. Which response corrects the error?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -610,14 +436,14 @@ window.skillrPracticeQuestions = [
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9m6n08-p-022",
+    "id": "ac9m6n08-p-016",
     "curriculumCode": "AC9M6N08",
     "bank": "practice",
     "skill": "estimating with rational numbers and percentages",
     "printable": true,
     "type": "single",
-    "question": "At the recycling station. The quantities or representation come from a fresh example. a student reasons, “Bounds direction ignored”. Which response corrects the error?",
-    "audioPrompt": "At the recycling station. The quantities or representation come from a fresh example. a student reasons, “Bounds direction ignored”. Which response corrects the error?",
+    "question": "In a data workshop. The quantities or representation come from a fresh example. a student reasons, “Bounds direction ignored”. Which response corrects the error?",
+    "audioPrompt": "In a data workshop. The quantities or representation come from a fresh example. a student reasons, “Bounds direction ignored”. Which response corrects the error?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -639,14 +465,14 @@ window.skillrPracticeQuestions = [
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9m6n08-p-023",
+    "id": "ac9m6n08-p-017",
     "curriculumCode": "AC9M6N08",
     "bank": "practice",
     "skill": "estimating with rational numbers and percentages",
     "printable": true,
     "type": "single",
-    "question": "While planning a class survey. The quantities or representation come from a fresh example. a student reasons, “Early rounding compounds error”. Which response corrects the error?",
-    "audioPrompt": "While planning a class survey. The quantities or representation come from a fresh example. a student reasons, “Early rounding compounds error”. Which response corrects the error?",
+    "question": "During a building project. The quantities or representation come from a fresh example. a student reasons, “Early rounding compounds error”. Which response corrects the error?",
+    "audioPrompt": "During a building project. The quantities or representation come from a fresh example. a student reasons, “Early rounding compounds error”. Which response corrects the error?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -668,19 +494,19 @@ window.skillrPracticeQuestions = [
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9m6n08-p-024",
+    "id": "ac9m6n08-p-018",
     "curriculumCode": "AC9M6N08",
     "bank": "practice",
     "skill": "estimating with rational numbers and percentages",
     "printable": true,
     "type": "single",
-    "question": "In a coding lesson. The quantities or representation come from a fresh example. a Estimating with Rational Numbers and Percentages organiser labels a row “18.7% of 398”. Which entry belongs in that row?",
-    "audioPrompt": "In a coding lesson. The quantities or representation come from a fresh example. a Estimating with Rational Numbers and Percentages organiser labels a row “18.7% of 398”. Which entry belongs in that row?",
+    "question": "At the local pool. The quantities or representation come from a fresh example. a Estimating with Rational Numbers and Percentages organiser labels a row “18.7% of 398”. Which entry belongs in that row?",
+    "audioPrompt": "At the local pool. The quantities or representation come from a fresh example. a Estimating with Rational Numbers and Percentages organiser labels a row “18.7% of 398”. Which entry belongs in that row?",
     "visual": "A Year 6 Estimating with Rational Numbers and Percentages reasoning organiser highlighting 18.7% of 398.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A Year 6 Estimating with Rational Numbers and Percentages reasoning organiser highlighting 18.7% of 398.\"><use href=\"/assets/assessment-visuals/year6/math/ac9m6n08.svg#ac9m6n08-p-024\"></use></svg>",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A Year 6 Estimating with Rational Numbers and Percentages reasoning organiser highlighting 18.7% of 398.\"><use href=\"/assets/assessment-visuals/year6/math/ac9m6n08.svg#ac9m6n08-p-018\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6n08.svg#ac9m6n08-p-024",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6n08.svg#ac9m6n08-p-018",
       "alt_text": "A Year 6 Estimating with Rational Numbers and Percentages reasoning organiser highlighting 18.7% of 398."
     },
     "answers": [
@@ -692,6 +518,180 @@ window.skillrPracticeQuestions = [
     "explanation": "The representation connects 18.7% of 398 with about 20% of 400 = 80.\nHint: Use the mathematical role of the entry, not a repeated word.",
     "structuredExplanation": {
       "summary": "The representation connects 18.7% of 398 with about 20% of 400 = 80.",
+      "hint": "Use the mathematical role of the entry, not a repeated word."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m6n08-p-019",
+    "curriculumCode": "AC9M6N08",
+    "bank": "practice",
+    "skill": "estimating with rational numbers and percentages",
+    "printable": true,
+    "type": "single",
+    "question": "While preparing an excursion. The quantities or representation come from a fresh example. a Estimating with Rational Numbers and Percentages organiser labels a row “63.4 ÷ 7.9”. Which entry belongs in that row?",
+    "audioPrompt": "While preparing an excursion. The quantities or representation come from a fresh example. a Estimating with Rational Numbers and Percentages organiser labels a row “63.4 ÷ 7.9”. Which entry belongs in that row?",
+    "visual": "A Year 6 Estimating with Rational Numbers and Percentages reasoning organiser highlighting 63.4 ÷ 7.9.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A Year 6 Estimating with Rational Numbers and Percentages reasoning organiser highlighting 63.4 ÷ 7.9.\"><use href=\"/assets/assessment-visuals/year6/math/ac9m6n08.svg#ac9m6n08-p-019\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6n08.svg#ac9m6n08-p-019",
+      "alt_text": "A Year 6 Estimating with Rational Numbers and Percentages reasoning organiser highlighting 63.4 ÷ 7.9."
+    },
+    "answers": [
+      "purposeful estimate",
+      "about 64 ÷ 8 = 8",
+      "about 20% of 400 = 80"
+    ],
+    "correct": 1,
+    "explanation": "The representation connects 63.4 ÷ 7.9 with about 64 ÷ 8 = 8.\nHint: Use the mathematical role of the entry, not a repeated word.",
+    "structuredExplanation": {
+      "summary": "The representation connects 63.4 ÷ 7.9 with about 64 ÷ 8 = 8.",
+      "hint": "Use the mathematical role of the entry, not a repeated word."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m6n08-p-020",
+    "curriculumCode": "AC9M6N08",
+    "bank": "practice",
+    "skill": "estimating with rational numbers and percentages",
+    "printable": true,
+    "type": "single",
+    "question": "In a games club. The quantities or representation come from a fresh example. a Estimating with Rational Numbers and Percentages organiser labels a row “$29.95 + $18.60 + $7.85”. Which entry belongs in that row?",
+    "audioPrompt": "In a games club. The quantities or representation come from a fresh example. a Estimating with Rational Numbers and Percentages organiser labels a row “$29.95 + $18.60 + $7.85”. Which entry belongs in that row?",
+    "visual": "A Year 6 Estimating with Rational Numbers and Percentages reasoning organiser highlighting $29.95 + $18.60 + $7.85.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A Year 6 Estimating with Rational Numbers and Percentages reasoning organiser highlighting $29.95 + $18.60 + $7.85.\"><use href=\"/assets/assessment-visuals/year6/math/ac9m6n08.svg#ac9m6n08-p-020\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6n08.svg#ac9m6n08-p-020",
+      "alt_text": "A Year 6 Estimating with Rational Numbers and Percentages reasoning organiser highlighting $29.95 + $18.60 + $7.85."
+    },
+    "answers": [
+      "purposeful estimate",
+      "about 20% of 400 = 80",
+      "safe budget: $30 + $19 + $8 = $57"
+    ],
+    "correct": 2,
+    "explanation": "The representation connects $29.95 + $18.60 + $7.85 with safe budget: $30 + $19 + $8 = $57.\nHint: Use the mathematical role of the entry, not a repeated word.",
+    "structuredExplanation": {
+      "summary": "The representation connects $29.95 + $18.60 + $7.85 with safe budget: $30 + $19 + $8 = $57.",
+      "hint": "Use the mathematical role of the entry, not a repeated word."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m6n08-p-021",
+    "curriculumCode": "AC9M6N08",
+    "bank": "practice",
+    "skill": "estimating with rational numbers and percentages",
+    "printable": true,
+    "type": "single",
+    "question": "During an art project. The quantities or representation come from a fresh example. a Estimating with Rational Numbers and Percentages organiser labels a row “3/8 of 79”. Which entry belongs in that row?",
+    "audioPrompt": "During an art project. The quantities or representation come from a fresh example. a Estimating with Rational Numbers and Percentages organiser labels a row “3/8 of 79”. Which entry belongs in that row?",
+    "visual": "A Year 6 Estimating with Rational Numbers and Percentages reasoning organiser highlighting 3/8 of 79.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A Year 6 Estimating with Rational Numbers and Percentages reasoning organiser highlighting 3/8 of 79.\"><use href=\"/assets/assessment-visuals/year6/math/ac9m6n08.svg#ac9m6n08-p-021\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6n08.svg#ac9m6n08-p-021",
+      "alt_text": "A Year 6 Estimating with Rational Numbers and Percentages reasoning organiser highlighting 3/8 of 79."
+    },
+    "answers": [
+      "about 3/8 of 80 = 30",
+      "purposeful estimate",
+      "about 20% of 400 = 80"
+    ],
+    "correct": 0,
+    "explanation": "The representation connects 3/8 of 79 with about 3/8 of 80 = 30.\nHint: Use the mathematical role of the entry, not a repeated word.",
+    "structuredExplanation": {
+      "summary": "The representation connects 3/8 of 79 with about 3/8 of 80 = 30.",
+      "hint": "Use the mathematical role of the entry, not a repeated word."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m6n08-p-022",
+    "curriculumCode": "AC9M6N08",
+    "bank": "practice",
+    "skill": "estimating with rational numbers and percentages",
+    "printable": true,
+    "type": "single",
+    "question": "At the recycling station. The quantities or representation come from a fresh example. a Estimating with Rational Numbers and Percentages organiser labels a row “minimum capacity”. Which entry belongs in that row?",
+    "audioPrompt": "At the recycling station. The quantities or representation come from a fresh example. a Estimating with Rational Numbers and Percentages organiser labels a row “minimum capacity”. Which entry belongs in that row?",
+    "visual": "A Year 6 Estimating with Rational Numbers and Percentages reasoning organiser highlighting minimum capacity.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A Year 6 Estimating with Rational Numbers and Percentages reasoning organiser highlighting minimum capacity.\"><use href=\"/assets/assessment-visuals/year6/math/ac9m6n08.svg#ac9m6n08-p-022\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6n08.svg#ac9m6n08-p-022",
+      "alt_text": "A Year 6 Estimating with Rational Numbers and Percentages reasoning organiser highlighting minimum capacity."
+    },
+    "answers": [
+      "round costs upward",
+      "round demand upward",
+      "round to one useful place"
+    ],
+    "correct": 1,
+    "explanation": "The representation connects minimum capacity with round demand upward.\nHint: Use the mathematical role of the entry, not a repeated word.",
+    "structuredExplanation": {
+      "summary": "The representation connects minimum capacity with round demand upward.",
+      "hint": "Use the mathematical role of the entry, not a repeated word."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m6n08-p-023",
+    "curriculumCode": "AC9M6N08",
+    "bank": "practice",
+    "skill": "estimating with rational numbers and percentages",
+    "printable": true,
+    "type": "single",
+    "question": "While planning a class survey. The quantities or representation come from a fresh example. a Estimating with Rational Numbers and Percentages organiser labels a row “quick reasonableness”. Which entry belongs in that row?",
+    "audioPrompt": "While planning a class survey. The quantities or representation come from a fresh example. a Estimating with Rational Numbers and Percentages organiser labels a row “quick reasonableness”. Which entry belongs in that row?",
+    "visual": "A Year 6 Estimating with Rational Numbers and Percentages reasoning organiser highlighting quick reasonableness.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A Year 6 Estimating with Rational Numbers and Percentages reasoning organiser highlighting quick reasonableness.\"><use href=\"/assets/assessment-visuals/year6/math/ac9m6n08.svg#ac9m6n08-p-023\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6n08.svg#ac9m6n08-p-023",
+      "alt_text": "A Year 6 Estimating with Rational Numbers and Percentages reasoning organiser highlighting quick reasonableness."
+    },
+    "answers": [
+      "round costs upward",
+      "round demand upward",
+      "round to one useful place"
+    ],
+    "correct": 2,
+    "explanation": "The representation connects quick reasonableness with round to one useful place.\nHint: Use the mathematical role of the entry, not a repeated word.",
+    "structuredExplanation": {
+      "summary": "The representation connects quick reasonableness with round to one useful place.",
+      "hint": "Use the mathematical role of the entry, not a repeated word."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m6n08-p-024",
+    "curriculumCode": "AC9M6N08",
+    "bank": "practice",
+    "skill": "estimating with rational numbers and percentages",
+    "printable": true,
+    "type": "single",
+    "question": "In a coding lesson. The quantities or representation come from a fresh example. a Estimating with Rational Numbers and Percentages organiser labels a row “range estimate”. Which entry belongs in that row?",
+    "audioPrompt": "In a coding lesson. The quantities or representation come from a fresh example. a Estimating with Rational Numbers and Percentages organiser labels a row “range estimate”. Which entry belongs in that row?",
+    "visual": "A Year 6 Estimating with Rational Numbers and Percentages reasoning organiser highlighting range estimate.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A Year 6 Estimating with Rational Numbers and Percentages reasoning organiser highlighting range estimate.\"><use href=\"/assets/assessment-visuals/year6/math/ac9m6n08.svg#ac9m6n08-p-024\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6n08.svg#ac9m6n08-p-024",
+      "alt_text": "A Year 6 Estimating with Rational Numbers and Percentages reasoning organiser highlighting range estimate."
+    },
+    "answers": [
+      "calculate plausible lower and upper values",
+      "round costs upward",
+      "round demand upward"
+    ],
+    "correct": 0,
+    "explanation": "The representation connects range estimate with calculate plausible lower and upper values.\nHint: Use the mathematical role of the entry, not a repeated word.",
+    "structuredExplanation": {
+      "summary": "The representation connects range estimate with calculate plausible lower and upper values.",
       "hint": "Use the mathematical role of the entry, not a repeated word."
     },
     "qualitySchema": "production-v1"

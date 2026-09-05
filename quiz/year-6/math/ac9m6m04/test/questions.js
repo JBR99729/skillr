@@ -384,8 +384,8 @@ window.skillrTestQuestions = [
     "skill": "angle relationships on lines and at points",
     "printable": true,
     "type": "single",
-    "question": "At a transport depot, a student uses the term “angles at a point”. Which description shows it correctly?",
-    "audioPrompt": "At a transport depot, a student uses the term “angles at a point”. Which description shows it correctly?",
+    "question": "At a transport depot. The quantities or representation come from a fresh example. another student selected “108°”. Reconsider the evidence: If one angle formed by intersecting lines is 72°, what is its vertically opposite angle?",
+    "audioPrompt": "At a transport depot. The quantities or representation come from a fresh example. another student selected “108°”. Reconsider the evidence: If one angle formed by intersecting lines is 72°, what is its vertically opposite angle?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -394,15 +394,15 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "angles with total 180°",
-      "opposite angles formed by intersecting lines",
-      "angles around a point totalling 360°"
+      "108°",
+      "288°",
+      "72°"
     ],
     "correct": 2,
-    "explanation": "angles at a point means angles around a point totalling 360°.\nHint: Match every feature of the description to the mathematical term.",
+    "explanation": "72° follows from the quantities and relationship in the question.\nHint: Estimate or substitute to reject the tempting misconception.",
     "structuredExplanation": {
-      "summary": "angles at a point means angles around a point totalling 360°.",
-      "hint": "Match every feature of the description to the mathematical term."
+      "summary": "72° follows from the quantities and relationship in the question.",
+      "hint": "Estimate or substitute to reject the tempting misconception."
     },
     "qualitySchema": "production-v1"
   },
@@ -413,8 +413,8 @@ window.skillrTestQuestions = [
     "skill": "angle relationships on lines and at points",
     "printable": true,
     "type": "single",
-    "question": "While preparing a camping trip, a student uses the term “vertically opposite angles”. Which description shows it correctly?",
-    "audioPrompt": "While preparing a camping trip, a student uses the term “vertically opposite angles”. Which description shows it correctly?",
+    "question": "While preparing a camping trip. The quantities or representation come from a fresh example. another student selected “55°”. Reconsider the evidence: An angle on a straight line is 55°. What is the adjacent angle?",
+    "audioPrompt": "While preparing a camping trip. The quantities or representation come from a fresh example. another student selected “55°”. Reconsider the evidence: An angle on a straight line is 55°. What is the adjacent angle?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -423,15 +423,15 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "opposite angles formed by intersecting lines",
-      "angles with total 180°",
-      "angles around a point totalling 360°"
+      "125°",
+      "55°",
+      "305°"
     ],
     "correct": 0,
-    "explanation": "vertically opposite angles means opposite angles formed by intersecting lines.\nHint: Match every feature of the description to the mathematical term.",
+    "explanation": "125° follows from the quantities and relationship in the question.\nHint: Estimate or substitute to reject the tempting misconception.",
     "structuredExplanation": {
-      "summary": "vertically opposite angles means opposite angles formed by intersecting lines.",
-      "hint": "Match every feature of the description to the mathematical term."
+      "summary": "125° follows from the quantities and relationship in the question.",
+      "hint": "Estimate or substitute to reject the tempting misconception."
     },
     "qualitySchema": "production-v1"
   },
@@ -442,25 +442,25 @@ window.skillrTestQuestions = [
     "skill": "angle relationships on lines and at points",
     "printable": true,
     "type": "single",
-    "question": "In a strategy tournament, a student uses the term “supplementary angles”. Which description shows it correctly?",
-    "audioPrompt": "In a strategy tournament, a student uses the term “supplementary angles”. Which description shows it correctly?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "In a strategy tournament. The quantities or representation come from a fresh example. a Angle Relationships on Lines and at Points organiser contains “reflex at point”. Which heading best identifies that information?",
+    "audioPrompt": "In a strategy tournament. The quantities or representation come from a fresh example. a Angle Relationships on Lines and at Points organiser contains “reflex at point”. Which heading best identifies that information?",
+    "visual": "A Year 6 Angle Relationships on Lines and at Points reasoning organiser highlighting 235.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A Year 6 Angle Relationships on Lines and at Points reasoning organiser highlighting 235.\"><use href=\"/assets/assessment-visuals/year6/math/ac9m6m04.svg#ac9m6m04-t-016\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "asset_path": "",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6m04.svg#ac9m6m04-t-016",
+      "alt_text": "A Year 6 Angle Relationships on Lines and at Points reasoning organiser highlighting 235."
     },
     "answers": [
-      "opposite angles formed by intersecting lines",
-      "angles with total 180°",
-      "angles around a point totalling 360°"
+      "55",
+      "235",
+      "125"
     ],
     "correct": 1,
-    "explanation": "supplementary angles means angles with total 180°.\nHint: Match every feature of the description to the mathematical term.",
+    "explanation": "The representation connects 235 with reflex at point.\nHint: Use the mathematical role of the entry, not a repeated word.",
     "structuredExplanation": {
-      "summary": "supplementary angles means angles with total 180°.",
-      "hint": "Match every feature of the description to the mathematical term."
+      "summary": "The representation connects 235 with reflex at point.",
+      "hint": "Use the mathematical role of the entry, not a repeated word."
     },
     "qualitySchema": "production-v1"
   }

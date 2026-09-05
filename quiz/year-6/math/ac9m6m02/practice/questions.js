@@ -7,95 +7,8 @@ window.skillrPracticeQuestions = [
     "skill": "establishing and applying the rectangle area formula",
     "printable": true,
     "type": "single",
-    "question": "During a class investigation, a note says “measure of surface coverage in square units”. Which mathematical term labels it?",
-    "audioPrompt": "During a class investigation, a note says “measure of surface coverage in square units”. Which mathematical term labels it?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "asset_path": "",
-      "alt_text": ""
-    },
-    "answers": [
-      "dimension",
-      "area",
-      "composite region"
-    ],
-    "correct": 1,
-    "explanation": "area means measure of surface coverage in square units.\nHint: Match every feature of the description to the mathematical term.",
-    "structuredExplanation": {
-      "summary": "area means measure of surface coverage in square units.",
-      "hint": "Match every feature of the description to the mathematical term."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m6m02-p-002",
-    "curriculumCode": "AC9M6M02",
-    "bank": "practice",
-    "skill": "establishing and applying the rectangle area formula",
-    "printable": true,
-    "type": "single",
-    "question": "At the school market, a note says “measured length defining a shape”. Which mathematical term labels it?",
-    "audioPrompt": "At the school market, a note says “measured length defining a shape”. Which mathematical term labels it?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "asset_path": "",
-      "alt_text": ""
-    },
-    "answers": [
-      "area",
-      "composite region",
-      "dimension"
-    ],
-    "correct": 2,
-    "explanation": "dimension means measured length defining a shape.\nHint: Match every feature of the description to the mathematical term.",
-    "structuredExplanation": {
-      "summary": "dimension means measured length defining a shape.",
-      "hint": "Match every feature of the description to the mathematical term."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m6m02-p-003",
-    "curriculumCode": "AC9M6M02",
-    "bank": "practice",
-    "skill": "establishing and applying the rectangle area formula",
-    "printable": true,
-    "type": "single",
-    "question": "While planning a garden, a note says “region formed from simpler shapes”. Which mathematical term labels it?",
-    "audioPrompt": "While planning a garden, a note says “region formed from simpler shapes”. Which mathematical term labels it?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "asset_path": "",
-      "alt_text": ""
-    },
-    "answers": [
-      "composite region",
-      "area",
-      "dimension"
-    ],
-    "correct": 0,
-    "explanation": "composite region means region formed from simpler shapes.\nHint: Match every feature of the description to the mathematical term.",
-    "structuredExplanation": {
-      "summary": "composite region means region formed from simpler shapes.",
-      "hint": "Match every feature of the description to the mathematical term."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m6m02-p-004",
-    "curriculumCode": "AC9M6M02",
-    "bank": "practice",
-    "skill": "establishing and applying the rectangle area formula",
-    "printable": true,
-    "type": "single",
-    "question": "In a robotics challenge, a student reasons, “Perimeter formula used”. Which response corrects the error?",
-    "audioPrompt": "In a robotics challenge, a student reasons, “Perimeter formula used”. Which response corrects the error?",
+    "question": "During a class investigation, a student reasons, “Perimeter formula used”. Which response corrects the error?",
+    "audioPrompt": "During a class investigation, a student reasons, “Perimeter formula used”. Which response corrects the error?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -117,14 +30,14 @@ window.skillrPracticeQuestions = [
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9m6m02-p-005",
+    "id": "ac9m6m02-p-002",
     "curriculumCode": "AC9M6M02",
     "bank": "practice",
     "skill": "establishing and applying the rectangle area formula",
     "printable": true,
     "type": "single",
-    "question": "During sports-day planning, a student reasons, “Units not squared”. Which response corrects the error?",
-    "audioPrompt": "During sports-day planning, a student reasons, “Units not squared”. Which response corrects the error?",
+    "question": "At the school market, a student reasons, “Units not squared”. Which response corrects the error?",
+    "audioPrompt": "At the school market, a student reasons, “Units not squared”. Which response corrects the error?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -146,14 +59,14 @@ window.skillrPracticeQuestions = [
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9m6m02-p-006",
+    "id": "ac9m6m02-p-003",
     "curriculumCode": "AC9M6M02",
     "bank": "practice",
     "skill": "establishing and applying the rectangle area formula",
     "printable": true,
     "type": "single",
-    "question": "At a wildlife centre, a student reasons, “Length and width in different units”. Which response corrects the error?",
-    "audioPrompt": "At a wildlife centre, a student reasons, “Length and width in different units”. Which response corrects the error?",
+    "question": "While planning a garden, a student reasons, “Length and width in different units”. Which response corrects the error?",
+    "audioPrompt": "While planning a garden, a student reasons, “Length and width in different units”. Which response corrects the error?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -175,14 +88,14 @@ window.skillrPracticeQuestions = [
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9m6m02-p-007",
+    "id": "ac9m6m02-p-004",
     "curriculumCode": "AC9M6M02",
     "bank": "practice",
     "skill": "establishing and applying the rectangle area formula",
     "printable": true,
     "type": "single",
-    "question": "While checking a map, a student reasons, “Tile count left fractional”. Which response corrects the error?",
-    "audioPrompt": "While checking a map, a student reasons, “Tile count left fractional”. Which response corrects the error?",
+    "question": "In a robotics challenge, a student reasons, “Tile count left fractional”. Which response corrects the error?",
+    "audioPrompt": "In a robotics challenge, a student reasons, “Tile count left fractional”. Which response corrects the error?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -204,19 +117,19 @@ window.skillrPracticeQuestions = [
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9m6m02-p-008",
+    "id": "ac9m6m02-p-005",
     "curriculumCode": "AC9M6M02",
     "bank": "practice",
     "skill": "establishing and applying the rectangle area formula",
     "printable": true,
     "type": "single",
-    "question": "In the makerspace, a Establishing and Applying the Rectangle Area Formula organiser labels a row “6 cm × 4 cm”. Which entry belongs in that row?",
-    "audioPrompt": "In the makerspace, a Establishing and Applying the Rectangle Area Formula organiser labels a row “6 cm × 4 cm”. Which entry belongs in that row?",
+    "question": "During sports-day planning, a Establishing and Applying the Rectangle Area Formula organiser labels a row “6 cm × 4 cm”. Which entry belongs in that row?",
+    "audioPrompt": "During sports-day planning, a Establishing and Applying the Rectangle Area Formula organiser labels a row “6 cm × 4 cm”. Which entry belongs in that row?",
     "visual": "A Year 6 Establishing and Applying the Rectangle Area Formula reasoning organiser highlighting 6 cm × 4 cm.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A Year 6 Establishing and Applying the Rectangle Area Formula reasoning organiser highlighting 6 cm × 4 cm.\"><use href=\"/assets/assessment-visuals/year6/math/ac9m6m02.svg#ac9m6m02-p-008\"></use></svg>",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A Year 6 Establishing and Applying the Rectangle Area Formula reasoning organiser highlighting 6 cm × 4 cm.\"><use href=\"/assets/assessment-visuals/year6/math/ac9m6m02.svg#ac9m6m02-p-005\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6m02.svg#ac9m6m02-p-008",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6m02.svg#ac9m6m02-p-005",
       "alt_text": "A Year 6 Establishing and Applying the Rectangle Area Formula reasoning organiser highlighting 6 cm × 4 cm."
     },
     "answers": [
@@ -233,19 +146,19 @@ window.skillrPracticeQuestions = [
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9m6m02-p-009",
+    "id": "ac9m6m02-p-006",
     "curriculumCode": "AC9M6M02",
     "bank": "practice",
     "skill": "establishing and applying the rectangle area formula",
     "printable": true,
     "type": "single",
-    "question": "During a cooking project, a Establishing and Applying the Rectangle Area Formula organiser labels a row “l × w”. Which entry belongs in that row?",
-    "audioPrompt": "During a cooking project, a Establishing and Applying the Rectangle Area Formula organiser labels a row “l × w”. Which entry belongs in that row?",
+    "question": "At a wildlife centre, a Establishing and Applying the Rectangle Area Formula organiser labels a row “l × w”. Which entry belongs in that row?",
+    "audioPrompt": "At a wildlife centre, a Establishing and Applying the Rectangle Area Formula organiser labels a row “l × w”. Which entry belongs in that row?",
     "visual": "A Year 6 Establishing and Applying the Rectangle Area Formula reasoning organiser highlighting l × w.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A Year 6 Establishing and Applying the Rectangle Area Formula reasoning organiser highlighting l × w.\"><use href=\"/assets/assessment-visuals/year6/math/ac9m6m02.svg#ac9m6m02-p-009\"></use></svg>",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A Year 6 Establishing and Applying the Rectangle Area Formula reasoning organiser highlighting l × w.\"><use href=\"/assets/assessment-visuals/year6/math/ac9m6m02.svg#ac9m6m02-p-006\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6m02.svg#ac9m6m02-p-009",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6m02.svg#ac9m6m02-p-006",
       "alt_text": "A Year 6 Establishing and Applying the Rectangle Area Formula reasoning organiser highlighting l × w."
     },
     "answers": [
@@ -262,19 +175,19 @@ window.skillrPracticeQuestions = [
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9m6m02-p-010",
+    "id": "ac9m6m02-p-007",
     "curriculumCode": "AC9M6M02",
     "bank": "practice",
     "skill": "establishing and applying the rectangle area formula",
     "printable": true,
     "type": "single",
-    "question": "At the community fair, a Establishing and Applying the Rectangle Area Formula organiser labels a row “area 72 m², width 8 m”. Which entry belongs in that row?",
-    "audioPrompt": "At the community fair, a Establishing and Applying the Rectangle Area Formula organiser labels a row “area 72 m², width 8 m”. Which entry belongs in that row?",
+    "question": "While checking a map, a Establishing and Applying the Rectangle Area Formula organiser labels a row “area 72 m², width 8 m”. Which entry belongs in that row?",
+    "audioPrompt": "While checking a map, a Establishing and Applying the Rectangle Area Formula organiser labels a row “area 72 m², width 8 m”. Which entry belongs in that row?",
     "visual": "A Year 6 Establishing and Applying the Rectangle Area Formula reasoning organiser highlighting area 72 m², width 8 m.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A Year 6 Establishing and Applying the Rectangle Area Formula reasoning organiser highlighting area 72 m², width 8 m.\"><use href=\"/assets/assessment-visuals/year6/math/ac9m6m02.svg#ac9m6m02-p-010\"></use></svg>",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A Year 6 Establishing and Applying the Rectangle Area Formula reasoning organiser highlighting area 72 m², width 8 m.\"><use href=\"/assets/assessment-visuals/year6/math/ac9m6m02.svg#ac9m6m02-p-007\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6m02.svg#ac9m6m02-p-010",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6m02.svg#ac9m6m02-p-007",
       "alt_text": "A Year 6 Establishing and Applying the Rectangle Area Formula reasoning organiser highlighting area 72 m², width 8 m."
     },
     "answers": [
@@ -291,19 +204,19 @@ window.skillrPracticeQuestions = [
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9m6m02-p-011",
+    "id": "ac9m6m02-p-008",
     "curriculumCode": "AC9M6M02",
     "bank": "practice",
     "skill": "establishing and applying the rectangle area formula",
     "printable": true,
     "type": "single",
-    "question": "While organising a library display, a Establishing and Applying the Rectangle Area Formula organiser labels a row “L-shape”. Which entry belongs in that row?",
-    "audioPrompt": "While organising a library display, a Establishing and Applying the Rectangle Area Formula organiser labels a row “L-shape”. Which entry belongs in that row?",
+    "question": "In the makerspace, a Establishing and Applying the Rectangle Area Formula organiser labels a row “L-shape”. Which entry belongs in that row?",
+    "audioPrompt": "In the makerspace, a Establishing and Applying the Rectangle Area Formula organiser labels a row “L-shape”. Which entry belongs in that row?",
     "visual": "A Year 6 Establishing and Applying the Rectangle Area Formula reasoning organiser highlighting L-shape.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A Year 6 Establishing and Applying the Rectangle Area Formula reasoning organiser highlighting L-shape.\"><use href=\"/assets/assessment-visuals/year6/math/ac9m6m02.svg#ac9m6m02-p-011\"></use></svg>",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A Year 6 Establishing and Applying the Rectangle Area Formula reasoning organiser highlighting L-shape.\"><use href=\"/assets/assessment-visuals/year6/math/ac9m6m02.svg#ac9m6m02-p-008\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6m02.svg#ac9m6m02-p-011",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6m02.svg#ac9m6m02-p-008",
       "alt_text": "A Year 6 Establishing and Applying the Rectangle Area Formula reasoning organiser highlighting L-shape."
     },
     "answers": [
@@ -320,19 +233,19 @@ window.skillrPracticeQuestions = [
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9m6m02-p-012",
+    "id": "ac9m6m02-p-009",
     "curriculumCode": "AC9M6M02",
     "bank": "practice",
     "skill": "establishing and applying the rectangle area formula",
     "printable": true,
     "type": "single",
-    "question": "In a science notebook, a Establishing and Applying the Rectangle Area Formula organiser labels a row “tiles”. Which entry belongs in that row?",
-    "audioPrompt": "In a science notebook, a Establishing and Applying the Rectangle Area Formula organiser labels a row “tiles”. Which entry belongs in that row?",
+    "question": "During a cooking project, a Establishing and Applying the Rectangle Area Formula organiser labels a row “tiles”. Which entry belongs in that row?",
+    "audioPrompt": "During a cooking project, a Establishing and Applying the Rectangle Area Formula organiser labels a row “tiles”. Which entry belongs in that row?",
     "visual": "A Year 6 Establishing and Applying the Rectangle Area Formula reasoning organiser highlighting tiles.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A Year 6 Establishing and Applying the Rectangle Area Formula reasoning organiser highlighting tiles.\"><use href=\"/assets/assessment-visuals/year6/math/ac9m6m02.svg#ac9m6m02-p-012\"></use></svg>",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A Year 6 Establishing and Applying the Rectangle Area Formula reasoning organiser highlighting tiles.\"><use href=\"/assets/assessment-visuals/year6/math/ac9m6m02.svg#ac9m6m02-p-009\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6m02.svg#ac9m6m02-p-012",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6m02.svg#ac9m6m02-p-009",
       "alt_text": "A Year 6 Establishing and Applying the Rectangle Area Formula reasoning organiser highlighting tiles."
     },
     "answers": [
@@ -349,14 +262,14 @@ window.skillrPracticeQuestions = [
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9m6m02-p-013",
+    "id": "ac9m6m02-p-010",
     "curriculumCode": "AC9M6M02",
     "bank": "practice",
     "skill": "establishing and applying the rectangle area formula",
     "printable": true,
     "type": "single",
-    "question": "During a design challenge, What is the area of an 8 m × 5.5 m rectangle?",
-    "audioPrompt": "During a design challenge, What is the area of an 8 m × 5.5 m rectangle?",
+    "question": "At the community fair, What is the area of an 8 m × 5.5 m rectangle?",
+    "audioPrompt": "At the community fair, What is the area of an 8 m × 5.5 m rectangle?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -378,14 +291,14 @@ window.skillrPracticeQuestions = [
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9m6m02-p-014",
+    "id": "ac9m6m02-p-011",
     "curriculumCode": "AC9M6M02",
     "bank": "practice",
     "skill": "establishing and applying the rectangle area formula",
     "printable": true,
     "type": "single",
-    "question": "At the school canteen, A rectangle has area 72 m² and width 8 m. What is its length?",
-    "audioPrompt": "At the school canteen, A rectangle has area 72 m² and width 8 m. What is its length?",
+    "question": "While organising a library display, A rectangle has area 72 m² and width 8 m. What is its length?",
+    "audioPrompt": "While organising a library display, A rectangle has area 72 m² and width 8 m. What is its length?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -407,101 +320,14 @@ window.skillrPracticeQuestions = [
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9m6m02-p-015",
+    "id": "ac9m6m02-p-012",
     "curriculumCode": "AC9M6M02",
     "bank": "practice",
     "skill": "establishing and applying the rectangle area formula",
     "printable": true,
     "type": "single",
-    "question": "While comparing travel plans. The quantities or representation come from a fresh example. a note says “measure of surface coverage in square units”. Which mathematical term labels it?",
-    "audioPrompt": "While comparing travel plans. The quantities or representation come from a fresh example. a note says “measure of surface coverage in square units”. Which mathematical term labels it?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "asset_path": "",
-      "alt_text": ""
-    },
-    "answers": [
-      "area",
-      "dimension",
-      "composite region"
-    ],
-    "correct": 0,
-    "explanation": "area means measure of surface coverage in square units.\nHint: Match every feature of the description to the mathematical term.",
-    "structuredExplanation": {
-      "summary": "area means measure of surface coverage in square units.",
-      "hint": "Match every feature of the description to the mathematical term."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m6m02-p-016",
-    "curriculumCode": "AC9M6M02",
-    "bank": "practice",
-    "skill": "establishing and applying the rectangle area formula",
-    "printable": true,
-    "type": "single",
-    "question": "In a data workshop. The quantities or representation come from a fresh example. a note says “measured length defining a shape”. Which mathematical term labels it?",
-    "audioPrompt": "In a data workshop. The quantities or representation come from a fresh example. a note says “measured length defining a shape”. Which mathematical term labels it?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "asset_path": "",
-      "alt_text": ""
-    },
-    "answers": [
-      "area",
-      "dimension",
-      "composite region"
-    ],
-    "correct": 1,
-    "explanation": "dimension means measured length defining a shape.\nHint: Match every feature of the description to the mathematical term.",
-    "structuredExplanation": {
-      "summary": "dimension means measured length defining a shape.",
-      "hint": "Match every feature of the description to the mathematical term."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m6m02-p-017",
-    "curriculumCode": "AC9M6M02",
-    "bank": "practice",
-    "skill": "establishing and applying the rectangle area formula",
-    "printable": true,
-    "type": "single",
-    "question": "During a building project. The quantities or representation come from a fresh example. a note says “region formed from simpler shapes”. Which mathematical term labels it?",
-    "audioPrompt": "During a building project. The quantities or representation come from a fresh example. a note says “region formed from simpler shapes”. Which mathematical term labels it?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "asset_path": "",
-      "alt_text": ""
-    },
-    "answers": [
-      "area",
-      "dimension",
-      "composite region"
-    ],
-    "correct": 2,
-    "explanation": "composite region means region formed from simpler shapes.\nHint: Match every feature of the description to the mathematical term.",
-    "structuredExplanation": {
-      "summary": "composite region means region formed from simpler shapes.",
-      "hint": "Match every feature of the description to the mathematical term."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m6m02-p-018",
-    "curriculumCode": "AC9M6M02",
-    "bank": "practice",
-    "skill": "establishing and applying the rectangle area formula",
-    "printable": true,
-    "type": "single",
-    "question": "At the local pool. The quantities or representation come from a fresh example. a student reasons, “Perimeter formula used”. Which response corrects the error?",
-    "audioPrompt": "At the local pool. The quantities or representation come from a fresh example. a student reasons, “Perimeter formula used”. Which response corrects the error?",
+    "question": "In a science notebook. The quantities or representation come from a fresh example. a student reasons, “Perimeter formula used”. Which response corrects the error?",
+    "audioPrompt": "In a science notebook. The quantities or representation come from a fresh example. a student reasons, “Perimeter formula used”. Which response corrects the error?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -523,14 +349,14 @@ window.skillrPracticeQuestions = [
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9m6m02-p-019",
+    "id": "ac9m6m02-p-013",
     "curriculumCode": "AC9M6M02",
     "bank": "practice",
     "skill": "establishing and applying the rectangle area formula",
     "printable": true,
     "type": "single",
-    "question": "While preparing an excursion. The quantities or representation come from a fresh example. a student reasons, “Units not squared”. Which response corrects the error?",
-    "audioPrompt": "While preparing an excursion. The quantities or representation come from a fresh example. a student reasons, “Units not squared”. Which response corrects the error?",
+    "question": "During a design challenge. The quantities or representation come from a fresh example. a student reasons, “Units not squared”. Which response corrects the error?",
+    "audioPrompt": "During a design challenge. The quantities or representation come from a fresh example. a student reasons, “Units not squared”. Which response corrects the error?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -552,14 +378,14 @@ window.skillrPracticeQuestions = [
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9m6m02-p-020",
+    "id": "ac9m6m02-p-014",
     "curriculumCode": "AC9M6M02",
     "bank": "practice",
     "skill": "establishing and applying the rectangle area formula",
     "printable": true,
     "type": "single",
-    "question": "In a games club. The quantities or representation come from a fresh example. a student reasons, “Length and width in different units”. Which response corrects the error?",
-    "audioPrompt": "In a games club. The quantities or representation come from a fresh example. a student reasons, “Length and width in different units”. Which response corrects the error?",
+    "question": "At the school canteen. The quantities or representation come from a fresh example. a student reasons, “Length and width in different units”. Which response corrects the error?",
+    "audioPrompt": "At the school canteen. The quantities or representation come from a fresh example. a student reasons, “Length and width in different units”. Which response corrects the error?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -581,14 +407,14 @@ window.skillrPracticeQuestions = [
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9m6m02-p-021",
+    "id": "ac9m6m02-p-015",
     "curriculumCode": "AC9M6M02",
     "bank": "practice",
     "skill": "establishing and applying the rectangle area formula",
     "printable": true,
     "type": "single",
-    "question": "During an art project. The quantities or representation come from a fresh example. a student reasons, “Tile count left fractional”. Which response corrects the error?",
-    "audioPrompt": "During an art project. The quantities or representation come from a fresh example. a student reasons, “Tile count left fractional”. Which response corrects the error?",
+    "question": "While comparing travel plans. The quantities or representation come from a fresh example. a student reasons, “Tile count left fractional”. Which response corrects the error?",
+    "audioPrompt": "While comparing travel plans. The quantities or representation come from a fresh example. a student reasons, “Tile count left fractional”. Which response corrects the error?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -610,19 +436,19 @@ window.skillrPracticeQuestions = [
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9m6m02-p-022",
+    "id": "ac9m6m02-p-016",
     "curriculumCode": "AC9M6M02",
     "bank": "practice",
     "skill": "establishing and applying the rectangle area formula",
     "printable": true,
     "type": "single",
-    "question": "At the recycling station. The quantities or representation come from a fresh example. a Establishing and Applying the Rectangle Area Formula organiser labels a row “6 cm × 4 cm”. Which entry belongs in that row?",
-    "audioPrompt": "At the recycling station. The quantities or representation come from a fresh example. a Establishing and Applying the Rectangle Area Formula organiser labels a row “6 cm × 4 cm”. Which entry belongs in that row?",
+    "question": "In a data workshop. The quantities or representation come from a fresh example. a Establishing and Applying the Rectangle Area Formula organiser labels a row “6 cm × 4 cm”. Which entry belongs in that row?",
+    "audioPrompt": "In a data workshop. The quantities or representation come from a fresh example. a Establishing and Applying the Rectangle Area Formula organiser labels a row “6 cm × 4 cm”. Which entry belongs in that row?",
     "visual": "A Year 6 Establishing and Applying the Rectangle Area Formula reasoning organiser highlighting 6 cm × 4 cm.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A Year 6 Establishing and Applying the Rectangle Area Formula reasoning organiser highlighting 6 cm × 4 cm.\"><use href=\"/assets/assessment-visuals/year6/math/ac9m6m02.svg#ac9m6m02-p-022\"></use></svg>",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A Year 6 Establishing and Applying the Rectangle Area Formula reasoning organiser highlighting 6 cm × 4 cm.\"><use href=\"/assets/assessment-visuals/year6/math/ac9m6m02.svg#ac9m6m02-p-016\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6m02.svg#ac9m6m02-p-022",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6m02.svg#ac9m6m02-p-016",
       "alt_text": "A Year 6 Establishing and Applying the Rectangle Area Formula reasoning organiser highlighting 6 cm × 4 cm."
     },
     "answers": [
@@ -639,19 +465,19 @@ window.skillrPracticeQuestions = [
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9m6m02-p-023",
+    "id": "ac9m6m02-p-017",
     "curriculumCode": "AC9M6M02",
     "bank": "practice",
     "skill": "establishing and applying the rectangle area formula",
     "printable": true,
     "type": "single",
-    "question": "While planning a class survey. The quantities or representation come from a fresh example. a Establishing and Applying the Rectangle Area Formula organiser labels a row “l × w”. Which entry belongs in that row?",
-    "audioPrompt": "While planning a class survey. The quantities or representation come from a fresh example. a Establishing and Applying the Rectangle Area Formula organiser labels a row “l × w”. Which entry belongs in that row?",
+    "question": "During a building project. The quantities or representation come from a fresh example. a Establishing and Applying the Rectangle Area Formula organiser labels a row “l × w”. Which entry belongs in that row?",
+    "audioPrompt": "During a building project. The quantities or representation come from a fresh example. a Establishing and Applying the Rectangle Area Formula organiser labels a row “l × w”. Which entry belongs in that row?",
     "visual": "A Year 6 Establishing and Applying the Rectangle Area Formula reasoning organiser highlighting l × w.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A Year 6 Establishing and Applying the Rectangle Area Formula reasoning organiser highlighting l × w.\"><use href=\"/assets/assessment-visuals/year6/math/ac9m6m02.svg#ac9m6m02-p-023\"></use></svg>",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A Year 6 Establishing and Applying the Rectangle Area Formula reasoning organiser highlighting l × w.\"><use href=\"/assets/assessment-visuals/year6/math/ac9m6m02.svg#ac9m6m02-p-017\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6m02.svg#ac9m6m02-p-023",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6m02.svg#ac9m6m02-p-017",
       "alt_text": "A Year 6 Establishing and Applying the Rectangle Area Formula reasoning organiser highlighting l × w."
     },
     "answers": [
@@ -668,19 +494,19 @@ window.skillrPracticeQuestions = [
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9m6m02-p-024",
+    "id": "ac9m6m02-p-018",
     "curriculumCode": "AC9M6M02",
     "bank": "practice",
     "skill": "establishing and applying the rectangle area formula",
     "printable": true,
     "type": "single",
-    "question": "In a coding lesson. The quantities or representation come from a fresh example. a Establishing and Applying the Rectangle Area Formula organiser labels a row “area 72 m², width 8 m”. Which entry belongs in that row?",
-    "audioPrompt": "In a coding lesson. The quantities or representation come from a fresh example. a Establishing and Applying the Rectangle Area Formula organiser labels a row “area 72 m², width 8 m”. Which entry belongs in that row?",
+    "question": "At the local pool. The quantities or representation come from a fresh example. a Establishing and Applying the Rectangle Area Formula organiser labels a row “area 72 m², width 8 m”. Which entry belongs in that row?",
+    "audioPrompt": "At the local pool. The quantities or representation come from a fresh example. a Establishing and Applying the Rectangle Area Formula organiser labels a row “area 72 m², width 8 m”. Which entry belongs in that row?",
     "visual": "A Year 6 Establishing and Applying the Rectangle Area Formula reasoning organiser highlighting area 72 m², width 8 m.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A Year 6 Establishing and Applying the Rectangle Area Formula reasoning organiser highlighting area 72 m², width 8 m.\"><use href=\"/assets/assessment-visuals/year6/math/ac9m6m02.svg#ac9m6m02-p-024\"></use></svg>",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A Year 6 Establishing and Applying the Rectangle Area Formula reasoning organiser highlighting area 72 m², width 8 m.\"><use href=\"/assets/assessment-visuals/year6/math/ac9m6m02.svg#ac9m6m02-p-018\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6m02.svg#ac9m6m02-p-024",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6m02.svg#ac9m6m02-p-018",
       "alt_text": "A Year 6 Establishing and Applying the Rectangle Area Formula reasoning organiser highlighting area 72 m², width 8 m."
     },
     "answers": [
@@ -693,6 +519,180 @@ window.skillrPracticeQuestions = [
     "structuredExplanation": {
       "summary": "The representation connects area 72 m², width 8 m with length = 9 m.",
       "hint": "Use the mathematical role of the entry, not a repeated word."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m6m02-p-019",
+    "curriculumCode": "AC9M6M02",
+    "bank": "practice",
+    "skill": "establishing and applying the rectangle area formula",
+    "printable": true,
+    "type": "single",
+    "question": "While preparing an excursion. The quantities or representation come from a fresh example. a Establishing and Applying the Rectangle Area Formula organiser labels a row “L-shape”. Which entry belongs in that row?",
+    "audioPrompt": "While preparing an excursion. The quantities or representation come from a fresh example. a Establishing and Applying the Rectangle Area Formula organiser labels a row “L-shape”. Which entry belongs in that row?",
+    "visual": "A Year 6 Establishing and Applying the Rectangle Area Formula reasoning organiser highlighting L-shape.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A Year 6 Establishing and Applying the Rectangle Area Formula reasoning organiser highlighting L-shape.\"><use href=\"/assets/assessment-visuals/year6/math/ac9m6m02.svg#ac9m6m02-p-019\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6m02.svg#ac9m6m02-p-019",
+      "alt_text": "A Year 6 Establishing and Applying the Rectangle Area Formula reasoning organiser highlighting L-shape."
+    },
+    "answers": [
+      "44 m²",
+      "large rectangle − missing rectangle",
+      "length = 9 m"
+    ],
+    "correct": 1,
+    "explanation": "The representation connects L-shape with large rectangle − missing rectangle.\nHint: Use the mathematical role of the entry, not a repeated word.",
+    "structuredExplanation": {
+      "summary": "The representation connects L-shape with large rectangle − missing rectangle.",
+      "hint": "Use the mathematical role of the entry, not a repeated word."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m6m02-p-020",
+    "curriculumCode": "AC9M6M02",
+    "bank": "practice",
+    "skill": "establishing and applying the rectangle area formula",
+    "printable": true,
+    "type": "single",
+    "question": "In a games club. The quantities or representation come from a fresh example. a Establishing and Applying the Rectangle Area Formula organiser labels a row “tiles”. Which entry belongs in that row?",
+    "audioPrompt": "In a games club. The quantities or representation come from a fresh example. a Establishing and Applying the Rectangle Area Formula organiser labels a row “tiles”. Which entry belongs in that row?",
+    "visual": "A Year 6 Establishing and Applying the Rectangle Area Formula reasoning organiser highlighting tiles.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A Year 6 Establishing and Applying the Rectangle Area Formula reasoning organiser highlighting tiles.\"><use href=\"/assets/assessment-visuals/year6/math/ac9m6m02.svg#ac9m6m02-p-020\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6m02.svg#ac9m6m02-p-020",
+      "alt_text": "A Year 6 Establishing and Applying the Rectangle Area Formula reasoning organiser highlighting tiles."
+    },
+    "answers": [
+      "44 m²",
+      "length = 9 m",
+      "area ÷ tile area; round for whole tiles and waste"
+    ],
+    "correct": 2,
+    "explanation": "The representation connects tiles with area ÷ tile area; round for whole tiles and waste.\nHint: Use the mathematical role of the entry, not a repeated word.",
+    "structuredExplanation": {
+      "summary": "The representation connects tiles with area ÷ tile area; round for whole tiles and waste.",
+      "hint": "Use the mathematical role of the entry, not a repeated word."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m6m02-p-021",
+    "curriculumCode": "AC9M6M02",
+    "bank": "practice",
+    "skill": "establishing and applying the rectangle area formula",
+    "printable": true,
+    "type": "single",
+    "question": "During an art project. The quantities or representation come from a fresh example. What is the area of an 8 m × 5.5 m rectangle?",
+    "audioPrompt": "During an art project. The quantities or representation come from a fresh example. What is the area of an 8 m × 5.5 m rectangle?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      "44 m²",
+      "27 m²",
+      "13.5 m²"
+    ],
+    "correct": 0,
+    "explanation": "44 m² follows from the quantities and relationship in the question.\nHint: Estimate or substitute to reject the tempting misconception.",
+    "structuredExplanation": {
+      "summary": "44 m² follows from the quantities and relationship in the question.",
+      "hint": "Estimate or substitute to reject the tempting misconception."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m6m02-p-022",
+    "curriculumCode": "AC9M6M02",
+    "bank": "practice",
+    "skill": "establishing and applying the rectangle area formula",
+    "printable": true,
+    "type": "single",
+    "question": "At the recycling station. The quantities or representation come from a fresh example. A rectangle has area 72 m² and width 8 m. What is its length?",
+    "audioPrompt": "At the recycling station. The quantities or representation come from a fresh example. A rectangle has area 72 m² and width 8 m. What is its length?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      "64 m",
+      "9 m",
+      "80 m"
+    ],
+    "correct": 1,
+    "explanation": "9 m follows from the quantities and relationship in the question.\nHint: Estimate or substitute to reject the tempting misconception.",
+    "structuredExplanation": {
+      "summary": "9 m follows from the quantities and relationship in the question.",
+      "hint": "Estimate or substitute to reject the tempting misconception."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m6m02-p-023",
+    "curriculumCode": "AC9M6M02",
+    "bank": "practice",
+    "skill": "establishing and applying the rectangle area formula",
+    "printable": true,
+    "type": "single",
+    "question": "While planning a class survey. The quantities or representation come from a fresh example. a student reasons, “Perimeter formula used”. Which response corrects the error?",
+    "audioPrompt": "While planning a class survey. The quantities or representation come from a fresh example. a student reasons, “Perimeter formula used”. Which response corrects the error?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      "Keep the claim because one example is enough.",
+      "Make the claim more certain without checking the quantities.",
+      "Area counts covering; perimeter traces boundary."
+    ],
+    "correct": 2,
+    "explanation": "Area counts covering; perimeter traces boundary.\nHint: Identify the exact misconception, then choose the correction that preserves the mathematics.",
+    "structuredExplanation": {
+      "summary": "Area counts covering; perimeter traces boundary.",
+      "hint": "Identify the exact misconception, then choose the correction that preserves the mathematics."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m6m02-p-024",
+    "curriculumCode": "AC9M6M02",
+    "bank": "practice",
+    "skill": "establishing and applying the rectangle area formula",
+    "printable": true,
+    "type": "single",
+    "question": "In a coding lesson. The quantities or representation come from a fresh example. a student reasons, “Units not squared”. Which response corrects the error?",
+    "audioPrompt": "In a coding lesson. The quantities or representation come from a fresh example. a student reasons, “Units not squared”. Which response corrects the error?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      "Use cm², m² and related square units.",
+      "Keep the claim because one example is enough.",
+      "Make the claim more certain without checking the quantities."
+    ],
+    "correct": 0,
+    "explanation": "Use cm², m² and related square units.\nHint: Identify the exact misconception, then choose the correction that preserves the mathematics.",
+    "structuredExplanation": {
+      "summary": "Use cm², m² and related square units.",
+      "hint": "Identify the exact misconception, then choose the correction that preserves the mathematics."
     },
     "qualitySchema": "production-v1"
   }

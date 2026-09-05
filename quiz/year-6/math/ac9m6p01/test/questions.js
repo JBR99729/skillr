@@ -326,95 +326,8 @@ window.skillrTestQuestions = [
     "skill": "probability on a scale from 0 to 1",
     "printable": true,
     "type": "single",
-    "question": "In an environmental study, a student uses the term “impossible event”. Which description shows it correctly?",
-    "audioPrompt": "In an environmental study, a student uses the term “impossible event”. Which description shows it correctly?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "asset_path": "",
-      "alt_text": ""
-    },
-    "answers": [
-      "numerical measure of event likelihood",
-      "event with probability 0",
-      "event with probability 1"
-    ],
-    "correct": 1,
-    "explanation": "impossible event means event with probability 0.\nHint: Match every feature of the description to the mathematical term.",
-    "structuredExplanation": {
-      "summary": "impossible event means event with probability 0.",
-      "hint": "Match every feature of the description to the mathematical term."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m6p01-t-013",
-    "curriculumCode": "AC9M6P01",
-    "bank": "test",
-    "skill": "probability on a scale from 0 to 1",
-    "printable": true,
-    "type": "single",
-    "question": "During a playground redesign, a student uses the term “certain event”. Which description shows it correctly?",
-    "audioPrompt": "During a playground redesign, a student uses the term “certain event”. Which description shows it correctly?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "asset_path": "",
-      "alt_text": ""
-    },
-    "answers": [
-      "numerical measure of event likelihood",
-      "event with probability 0",
-      "event with probability 1"
-    ],
-    "correct": 2,
-    "explanation": "certain event means event with probability 1.\nHint: Match every feature of the description to the mathematical term.",
-    "structuredExplanation": {
-      "summary": "certain event means event with probability 1.",
-      "hint": "Match every feature of the description to the mathematical term."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m6p01-t-014",
-    "curriculumCode": "AC9M6P01",
-    "bank": "test",
-    "skill": "probability on a scale from 0 to 1",
-    "printable": true,
-    "type": "single",
-    "question": "At a transport depot, a student uses the term “probability”. Which description shows it correctly?",
-    "audioPrompt": "At a transport depot, a student uses the term “probability”. Which description shows it correctly?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "asset_path": "",
-      "alt_text": ""
-    },
-    "answers": [
-      "numerical measure of event likelihood",
-      "event with probability 1",
-      "event with probability 0"
-    ],
-    "correct": 0,
-    "explanation": "probability means numerical measure of event likelihood.\nHint: Match every feature of the description to the mathematical term.",
-    "structuredExplanation": {
-      "summary": "probability means numerical measure of event likelihood.",
-      "hint": "Match every feature of the description to the mathematical term."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m6p01-t-015",
-    "curriculumCode": "AC9M6P01",
-    "bank": "test",
-    "skill": "probability on a scale from 0 to 1",
-    "printable": true,
-    "type": "single",
-    "question": "While preparing a camping trip. The quantities or representation come from a fresh example. another student selected “65%”. Reconsider the evidence: Which event is more likely?",
-    "audioPrompt": "While preparing a camping trip. The quantities or representation come from a fresh example. another student selected “65%”. Reconsider the evidence: Which event is more likely?",
+    "question": "In an environmental study. The quantities or representation come from a fresh example. another student selected “65%”. Reconsider the evidence: Which event is more likely?",
+    "audioPrompt": "In an environmental study. The quantities or representation come from a fresh example. another student selected “65%”. Reconsider the evidence: Which event is more likely?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -436,14 +349,14 @@ window.skillrTestQuestions = [
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9m6p01-t-016",
+    "id": "ac9m6p01-t-013",
     "curriculumCode": "AC9M6P01",
     "bank": "test",
     "skill": "probability on a scale from 0 to 1",
     "printable": true,
     "type": "single",
-    "question": "In a strategy tournament. The quantities or representation come from a fresh example. another student selected “0”. Reconsider the evidence: Which probability represents an even chance?",
-    "audioPrompt": "In a strategy tournament. The quantities or representation come from a fresh example. another student selected “0”. Reconsider the evidence: Which probability represents an even chance?",
+    "question": "During a playground redesign. The quantities or representation come from a fresh example. another student selected “0”. Reconsider the evidence: Which probability represents an even chance?",
+    "audioPrompt": "During a playground redesign. The quantities or representation come from a fresh example. another student selected “0”. Reconsider the evidence: Which probability represents an even chance?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -461,6 +374,93 @@ window.skillrTestQuestions = [
     "structuredExplanation": {
       "summary": "0.5 follows from the quantities and relationship in the question.",
       "hint": "Estimate or substitute to reject the tempting misconception."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m6p01-t-014",
+    "curriculumCode": "AC9M6P01",
+    "bank": "test",
+    "skill": "probability on a scale from 0 to 1",
+    "printable": true,
+    "type": "single",
+    "question": "At a transport depot. The quantities or representation come from a fresh example. a Probability on a Scale from 0 to 1 organiser contains “1.0; 100%”. Which heading best identifies that information?",
+    "audioPrompt": "At a transport depot. The quantities or representation come from a fresh example. a Probability on a Scale from 0 to 1 organiser contains “1.0; 100%”. Which heading best identifies that information?",
+    "visual": "A Year 6 Probability on a Scale from 0 to 1 reasoning organiser highlighting 1.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A Year 6 Probability on a Scale from 0 to 1 reasoning organiser highlighting 1.\"><use href=\"/assets/assessment-visuals/year6/math/ac9m6p01.svg#ac9m6p01-t-014\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6p01.svg#ac9m6p01-t-014",
+      "alt_text": "A Year 6 Probability on a Scale from 0 to 1 reasoning organiser highlighting 1."
+    },
+    "answers": [
+      "1",
+      "fraction",
+      "1/4"
+    ],
+    "correct": 0,
+    "explanation": "The representation connects 1 with 1.0; 100%.\nHint: Use the mathematical role of the entry, not a repeated word.",
+    "structuredExplanation": {
+      "summary": "The representation connects 1 with 1.0; 100%.",
+      "hint": "Use the mathematical role of the entry, not a repeated word."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m6p01-t-015",
+    "curriculumCode": "AC9M6P01",
+    "bank": "test",
+    "skill": "probability on a scale from 0 to 1",
+    "printable": true,
+    "type": "single",
+    "question": "While preparing a camping trip. The quantities or representation come from a fresh example. a Probability on a Scale from 0 to 1 organiser contains “0.8; 80%”. Which heading best identifies that information?",
+    "audioPrompt": "While preparing a camping trip. The quantities or representation come from a fresh example. a Probability on a Scale from 0 to 1 organiser contains “0.8; 80%”. Which heading best identifies that information?",
+    "visual": "A Year 6 Probability on a Scale from 0 to 1 reasoning organiser highlighting 4/5.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A Year 6 Probability on a Scale from 0 to 1 reasoning organiser highlighting 4/5.\"><use href=\"/assets/assessment-visuals/year6/math/ac9m6p01.svg#ac9m6p01-t-015\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6p01.svg#ac9m6p01-t-015",
+      "alt_text": "A Year 6 Probability on a Scale from 0 to 1 reasoning organiser highlighting 4/5."
+    },
+    "answers": [
+      "fraction",
+      "4/5",
+      "1/4"
+    ],
+    "correct": 1,
+    "explanation": "The representation connects 4/5 with 0.8; 80%.\nHint: Use the mathematical role of the entry, not a repeated word.",
+    "structuredExplanation": {
+      "summary": "The representation connects 4/5 with 0.8; 80%.",
+      "hint": "Use the mathematical role of the entry, not a repeated word."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m6p01-t-016",
+    "curriculumCode": "AC9M6P01",
+    "bank": "test",
+    "skill": "probability on a scale from 0 to 1",
+    "printable": true,
+    "type": "single",
+    "question": "In a strategy tournament. The quantities or representation come from a fresh example. a Probability on a Scale from 0 to 1 organiser contains “0.6; 60%”. Which heading best identifies that information?",
+    "audioPrompt": "In a strategy tournament. The quantities or representation come from a fresh example. a Probability on a Scale from 0 to 1 organiser contains “0.6; 60%”. Which heading best identifies that information?",
+    "visual": "A Year 6 Probability on a Scale from 0 to 1 reasoning organiser highlighting 3/5.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A Year 6 Probability on a Scale from 0 to 1 reasoning organiser highlighting 3/5.\"><use href=\"/assets/assessment-visuals/year6/math/ac9m6p01.svg#ac9m6p01-t-016\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6p01.svg#ac9m6p01-t-016",
+      "alt_text": "A Year 6 Probability on a Scale from 0 to 1 reasoning organiser highlighting 3/5."
+    },
+    "answers": [
+      "fraction",
+      "1/4",
+      "3/5"
+    ],
+    "correct": 2,
+    "explanation": "The representation connects 3/5 with 0.6; 60%.\nHint: Use the mathematical role of the entry, not a repeated word.",
+    "structuredExplanation": {
+      "summary": "The representation connects 3/5 with 0.6; 60%.",
+      "hint": "Use the mathematical role of the entry, not a repeated word."
     },
     "qualitySchema": "production-v1"
   }

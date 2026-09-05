@@ -384,8 +384,8 @@ window.skillrTestQuestions = [
     "skill": "unknown values with brackets and mixed operations",
     "printable": true,
     "type": "single",
-    "question": "At a transport depot, a student uses the term “substitution”. Which description shows it correctly?",
-    "audioPrompt": "At a transport depot, a student uses the term “substitution”. Which description shows it correctly?",
+    "question": "At a transport depot. The quantities or representation come from a fresh example. another student selected “44”. Reconsider the evidence: What is the unknown in (□ + 8) ÷ 4 = 9?",
+    "audioPrompt": "At a transport depot. The quantities or representation come from a fresh example. another student selected “44”. Reconsider the evidence: What is the unknown in (□ + 8) ÷ 4 = 9?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -394,15 +394,15 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "replacing the unknown with a proposed value",
-      "symbols grouping an expression as one unit",
-      "operation that reverses another"
+      "28",
+      "44",
+      "1"
     ],
     "correct": 0,
-    "explanation": "substitution means replacing the unknown with a proposed value.\nHint: Match every feature of the description to the mathematical term.",
+    "explanation": "28 follows from the quantities and relationship in the question.\nHint: Estimate or substitute to reject the tempting misconception.",
     "structuredExplanation": {
-      "summary": "substitution means replacing the unknown with a proposed value.",
-      "hint": "Match every feature of the description to the mathematical term."
+      "summary": "28 follows from the quantities and relationship in the question.",
+      "hint": "Estimate or substitute to reject the tempting misconception."
     },
     "qualitySchema": "production-v1"
   },
@@ -413,8 +413,8 @@ window.skillrTestQuestions = [
     "skill": "unknown values with brackets and mixed operations",
     "printable": true,
     "type": "single",
-    "question": "While preparing a camping trip, a student uses the term “inverse operation”. Which description shows it correctly?",
-    "audioPrompt": "While preparing a camping trip, a student uses the term “inverse operation”. Which description shows it correctly?",
+    "question": "While preparing a camping trip. The quantities or representation come from a fresh example. another student selected “32”. Reconsider the evidence: What is the unknown in 4(□ + 7) = 100?",
+    "audioPrompt": "While preparing a camping trip. The quantities or representation come from a fresh example. another student selected “32”. Reconsider the evidence: What is the unknown in 4(□ + 7) = 100?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -423,15 +423,15 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "symbols grouping an expression as one unit",
-      "operation that reverses another",
-      "replacing the unknown with a proposed value"
+      "32",
+      "18",
+      "7"
     ],
     "correct": 1,
-    "explanation": "inverse operation means operation that reverses another.\nHint: Match every feature of the description to the mathematical term.",
+    "explanation": "18 follows from the quantities and relationship in the question.\nHint: Estimate or substitute to reject the tempting misconception.",
     "structuredExplanation": {
-      "summary": "inverse operation means operation that reverses another.",
-      "hint": "Match every feature of the description to the mathematical term."
+      "summary": "18 follows from the quantities and relationship in the question.",
+      "hint": "Estimate or substitute to reject the tempting misconception."
     },
     "qualitySchema": "production-v1"
   },
@@ -442,25 +442,25 @@ window.skillrTestQuestions = [
     "skill": "unknown values with brackets and mixed operations",
     "printable": true,
     "type": "single",
-    "question": "In a strategy tournament, a student uses the term “brackets”. Which description shows it correctly?",
-    "audioPrompt": "In a strategy tournament, a student uses the term “brackets”. Which description shows it correctly?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "In a strategy tournament. The quantities or representation come from a fresh example. a Unknown Values with Brackets and Mixed Operations organiser contains “multiply by 4, then subtract 8”. Which heading best identifies that information?",
+    "audioPrompt": "In a strategy tournament. The quantities or representation come from a fresh example. a Unknown Values with Brackets and Mixed Operations organiser contains “multiply by 4, then subtract 8”. Which heading best identifies that information?",
+    "visual": "A Year 6 Unknown Values with Brackets and Mixed Operations reasoning organiser highlighting (□ + 8) ÷ 4 = 9.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A Year 6 Unknown Values with Brackets and Mixed Operations reasoning organiser highlighting (□ + 8) ÷ 4 = 9.\"><use href=\"/assets/assessment-visuals/year6/math/ac9m6a02.svg#ac9m6a02-t-016\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "asset_path": "",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6a02.svg#ac9m6a02-t-016",
+      "alt_text": "A Year 6 Unknown Values with Brackets and Mixed Operations reasoning organiser highlighting (□ + 8) ÷ 4 = 9."
     },
     "answers": [
-      "operation that reverses another",
-      "replacing the unknown with a proposed value",
-      "symbols grouping an expression as one unit"
+      "6(□ + 4) = 180",
+      "3□ + 5□ = 96",
+      "(□ + 8) ÷ 4 = 9"
     ],
     "correct": 2,
-    "explanation": "brackets means symbols grouping an expression as one unit.\nHint: Match every feature of the description to the mathematical term.",
+    "explanation": "The representation connects (□ + 8) ÷ 4 = 9 with multiply by 4, then subtract 8.\nHint: Use the mathematical role of the entry, not a repeated word.",
     "structuredExplanation": {
-      "summary": "brackets means symbols grouping an expression as one unit.",
-      "hint": "Match every feature of the description to the mathematical term."
+      "summary": "The representation connects (□ + 8) ÷ 4 = 9 with multiply by 4, then subtract 8.",
+      "hint": "Use the mathematical role of the entry, not a repeated word."
     },
     "qualitySchema": "production-v1"
   }

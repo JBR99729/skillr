@@ -6,8 +6,8 @@
     "subject": "math",
     "bank": "practice",
     "skill": "adding_and_subtracting_fractions",
-    "question": "During a class investigation, a note says “fraction with the same value in different-sized parts”. Which mathematical term labels it?",
-    "audio_prompt": "During a class investigation, a note says “fraction with the same value in different-sized parts”. Which mathematical term labels it?",
+    "question": "During a class investigation, a student reasons, “Numerators and denominators both added”. Which response corrects the error?",
+    "audio_prompt": "During a class investigation, a student reasons, “Numerators and denominators both added”. Which response corrects the error?",
     "visual": {
       "type": "none",
       "asset_path": "",
@@ -15,26 +15,23 @@
     },
     "answers": [
       {
-        "text": "least common denominator",
+        "text": "Keep the claim because one example is enough.",
         "is_correct": false
       },
       {
-        "text": "equivalent fraction",
+        "text": "The common denominator names the unchanged part size.",
         "is_correct": true
       },
       {
-        "text": "mixed numeral",
+        "text": "Make the claim more certain without checking the quantities.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "equivalent fraction means fraction with the same value in different-sized parts.",
-      "hint": "Match every feature of the description to the mathematical term."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+      "summary": "The common denominator names the unchanged part size.",
+      "hint": "Identify the exact misconception, then choose the correction that preserves the mathematics."
+    }
   },
   {
     "id": "ac9m6n05-p-002",
@@ -43,8 +40,8 @@
     "subject": "math",
     "bank": "practice",
     "skill": "adding_and_subtracting_fractions",
-    "question": "At the school market, a note says “smallest shared denominator useful for calculation”. Which mathematical term labels it?",
-    "audio_prompt": "At the school market, a note says “smallest shared denominator useful for calculation”. Which mathematical term labels it?",
+    "question": "At the school market, a student reasons, “Fractions combined before renaming”. Which response corrects the error?",
+    "audio_prompt": "At the school market, a student reasons, “Fractions combined before renaming”. Which response corrects the error?",
     "visual": {
       "type": "none",
       "asset_path": "",
@@ -52,26 +49,23 @@
     },
     "answers": [
       {
-        "text": "equivalent fraction",
+        "text": "Keep the claim because one example is enough.",
         "is_correct": false
       },
       {
-        "text": "mixed numeral",
+        "text": "Make the claim more certain without checking the quantities.",
         "is_correct": false
       },
       {
-        "text": "least common denominator",
+        "text": "Different denominators name different-sized parts.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "least common denominator means smallest shared denominator useful for calculation.",
-      "hint": "Match every feature of the description to the mathematical term."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+      "summary": "Different denominators name different-sized parts.",
+      "hint": "Identify the exact misconception, then choose the correction that preserves the mathematics."
+    }
   },
   {
     "id": "ac9m6n05-p-003",
@@ -80,8 +74,8 @@
     "subject": "math",
     "bank": "practice",
     "skill": "adding_and_subtracting_fractions",
-    "question": "While planning a garden, a note says “whole number and proper fraction together”. Which mathematical term labels it?",
-    "audio_prompt": "While planning a garden, a note says “whole number and proper fraction together”. Which mathematical term labels it?",
+    "question": "While planning a garden, a student reasons, “Whole part lost during subtraction”. Which response corrects the error?",
+    "audio_prompt": "While planning a garden, a student reasons, “Whole part lost during subtraction”. Which response corrects the error?",
     "visual": {
       "type": "none",
       "asset_path": "",
@@ -89,26 +83,23 @@
     },
     "answers": [
       {
-        "text": "mixed numeral",
+        "text": "Regroup one whole as denominator-sized parts.",
         "is_correct": true
       },
       {
-        "text": "equivalent fraction",
+        "text": "Keep the claim because one example is enough.",
         "is_correct": false
       },
       {
-        "text": "least common denominator",
+        "text": "Make the claim more certain without checking the quantities.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "mixed numeral means whole number and proper fraction together.",
-      "hint": "Match every feature of the description to the mathematical term."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+      "summary": "Regroup one whole as denominator-sized parts.",
+      "hint": "Identify the exact misconception, then choose the correction that preserves the mathematics."
+    }
   },
   {
     "id": "ac9m6n05-p-004",
@@ -117,8 +108,8 @@
     "subject": "math",
     "bank": "practice",
     "skill": "adding_and_subtracting_fractions",
-    "question": "In a robotics challenge, a student reasons, “Numerators and denominators both added”. Which response corrects the error?",
-    "audio_prompt": "In a robotics challenge, a student reasons, “Numerators and denominators both added”. Which response corrects the error?",
+    "question": "In a robotics challenge, a student reasons, “Final fraction simplified incorrectly”. Which response corrects the error?",
+    "audio_prompt": "In a robotics challenge, a student reasons, “Final fraction simplified incorrectly”. Which response corrects the error?",
     "visual": {
       "type": "none",
       "asset_path": "",
@@ -130,7 +121,7 @@
         "is_correct": false
       },
       {
-        "text": "The common denominator names the unchanged part size.",
+        "text": "Divide numerator and denominator by the same factor.",
         "is_correct": true
       },
       {
@@ -140,11 +131,9 @@
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "The common denominator names the unchanged part size.",
+      "summary": "Divide numerator and denominator by the same factor.",
       "hint": "Identify the exact misconception, then choose the correction that preserves the mathematics."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+    }
   },
   {
     "id": "ac9m6n05-p-005",
@@ -153,119 +142,11 @@
     "subject": "math",
     "bank": "practice",
     "skill": "adding_and_subtracting_fractions",
-    "question": "During sports-day planning, a student reasons, “Fractions combined before renaming”. Which response corrects the error?",
-    "audio_prompt": "During sports-day planning, a student reasons, “Fractions combined before renaming”. Which response corrects the error?",
-    "visual": {
-      "type": "none",
-      "asset_path": "",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Keep the claim because one example is enough.",
-        "is_correct": false
-      },
-      {
-        "text": "Make the claim more certain without checking the quantities.",
-        "is_correct": false
-      },
-      {
-        "text": "Different denominators name different-sized parts.",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Different denominators name different-sized parts.",
-      "hint": "Identify the exact misconception, then choose the correction that preserves the mathematics."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "ac9m6n05-p-006",
-    "curriculum_code": "AC9M6N05",
-    "year_level": "Year 6",
-    "subject": "math",
-    "bank": "practice",
-    "skill": "adding_and_subtracting_fractions",
-    "question": "At a wildlife centre, a student reasons, “Whole part lost during subtraction”. Which response corrects the error?",
-    "audio_prompt": "At a wildlife centre, a student reasons, “Whole part lost during subtraction”. Which response corrects the error?",
-    "visual": {
-      "type": "none",
-      "asset_path": "",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Regroup one whole as denominator-sized parts.",
-        "is_correct": true
-      },
-      {
-        "text": "Keep the claim because one example is enough.",
-        "is_correct": false
-      },
-      {
-        "text": "Make the claim more certain without checking the quantities.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Regroup one whole as denominator-sized parts.",
-      "hint": "Identify the exact misconception, then choose the correction that preserves the mathematics."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "ac9m6n05-p-007",
-    "curriculum_code": "AC9M6N05",
-    "year_level": "Year 6",
-    "subject": "math",
-    "bank": "practice",
-    "skill": "adding_and_subtracting_fractions",
-    "question": "While checking a map, a student reasons, “Final fraction simplified incorrectly”. Which response corrects the error?",
-    "audio_prompt": "While checking a map, a student reasons, “Final fraction simplified incorrectly”. Which response corrects the error?",
-    "visual": {
-      "type": "none",
-      "asset_path": "",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Keep the claim because one example is enough.",
-        "is_correct": false
-      },
-      {
-        "text": "Divide numerator and denominator by the same factor.",
-        "is_correct": true
-      },
-      {
-        "text": "Make the claim more certain without checking the quantities.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Divide numerator and denominator by the same factor.",
-      "hint": "Identify the exact misconception, then choose the correction that preserves the mathematics."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "ac9m6n05-p-008",
-    "curriculum_code": "AC9M6N05",
-    "year_level": "Year 6",
-    "subject": "math",
-    "bank": "practice",
-    "skill": "adding_and_subtracting_fractions",
-    "question": "In the makerspace, a Adding and Subtracting Fractions organiser labels a row “7/10 + 3/10”. Which entry belongs in that row?",
-    "audio_prompt": "In the makerspace, a Adding and Subtracting Fractions organiser labels a row “7/10 + 3/10”. Which entry belongs in that row?",
+    "question": "During sports-day planning, a Adding and Subtracting Fractions organiser labels a row “7/10 + 3/10”. Which entry belongs in that row?",
+    "audio_prompt": "During sports-day planning, a Adding and Subtracting Fractions organiser labels a row “7/10 + 3/10”. Which entry belongs in that row?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6n05.svg#ac9m6n05-p-008",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6n05.svg#ac9m6n05-p-005",
       "alt_text": "A Year 6 Adding and Subtracting Fractions reasoning organiser highlighting 7/10 + 3/10."
     },
     "answers": [
@@ -286,22 +167,20 @@
     "explanation": {
       "summary": "The representation connects 7/10 + 3/10 with complete one whole.",
       "hint": "Use the mathematical role of the entry, not a repeated word."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+    }
   },
   {
-    "id": "ac9m6n05-p-009",
+    "id": "ac9m6n05-p-006",
     "curriculum_code": "AC9M6N05",
     "year_level": "Year 6",
     "subject": "math",
     "bank": "practice",
     "skill": "adding_and_subtracting_fractions",
-    "question": "During a cooking project, a Adding and Subtracting Fractions organiser labels a row “1 1/3 − 5/6”. Which entry belongs in that row?",
-    "audio_prompt": "During a cooking project, a Adding and Subtracting Fractions organiser labels a row “1 1/3 − 5/6”. Which entry belongs in that row?",
+    "question": "At a wildlife centre, a Adding and Subtracting Fractions organiser labels a row “1 1/3 − 5/6”. Which entry belongs in that row?",
+    "audio_prompt": "At a wildlife centre, a Adding and Subtracting Fractions organiser labels a row “1 1/3 − 5/6”. Which entry belongs in that row?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6n05.svg#ac9m6n05-p-009",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6n05.svg#ac9m6n05-p-006",
       "alt_text": "A Year 6 Adding and Subtracting Fractions reasoning organiser highlighting 1 1/3 − 5/6."
     },
     "answers": [
@@ -322,22 +201,20 @@
     "explanation": {
       "summary": "The representation connects 1 1/3 − 5/6 with rename whole and thirds as sixths.",
       "hint": "Use the mathematical role of the entry, not a repeated word."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+    }
   },
   {
-    "id": "ac9m6n05-p-010",
+    "id": "ac9m6n05-p-007",
     "curriculum_code": "AC9M6N05",
     "year_level": "Year 6",
     "subject": "math",
     "bank": "practice",
     "skill": "adding_and_subtracting_fractions",
-    "question": "At the community fair, a Adding and Subtracting Fractions organiser labels a row “5/12 + 1/3”. Which entry belongs in that row?",
-    "audio_prompt": "At the community fair, a Adding and Subtracting Fractions organiser labels a row “5/12 + 1/3”. Which entry belongs in that row?",
+    "question": "While checking a map, a Adding and Subtracting Fractions organiser labels a row “5/12 + 1/3”. Which entry belongs in that row?",
+    "audio_prompt": "While checking a map, a Adding and Subtracting Fractions organiser labels a row “5/12 + 1/3”. Which entry belongs in that row?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6n05.svg#ac9m6n05-p-010",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6n05.svg#ac9m6n05-p-007",
       "alt_text": "A Year 6 Adding and Subtracting Fractions reasoning organiser highlighting 5/12 + 1/3."
     },
     "answers": [
@@ -358,19 +235,17 @@
     "explanation": {
       "summary": "The representation connects 5/12 + 1/3 with rename 1/3 as 4/12.",
       "hint": "Use the mathematical role of the entry, not a repeated word."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+    }
   },
   {
-    "id": "ac9m6n05-p-011",
+    "id": "ac9m6n05-p-008",
     "curriculum_code": "AC9M6N05",
     "year_level": "Year 6",
     "subject": "math",
     "bank": "practice",
     "skill": "adding_and_subtracting_fractions",
-    "question": "While organising a library display, What is 5/6 − 1/4?",
-    "audio_prompt": "While organising a library display, What is 5/6 − 1/4?",
+    "question": "In the makerspace, What is 5/6 − 1/4?",
+    "audio_prompt": "In the makerspace, What is 5/6 − 1/4?",
     "visual": {
       "type": "none",
       "asset_path": "",
@@ -394,20 +269,17 @@
     "explanation": {
       "summary": "7/12 follows from the quantities and relationship in the question.",
       "hint": "Estimate or substitute to reject the tempting misconception."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    }
   },
   {
-    "id": "ac9m6n05-p-012",
+    "id": "ac9m6n05-p-009",
     "curriculum_code": "AC9M6N05",
     "year_level": "Year 6",
     "subject": "math",
     "bank": "practice",
     "skill": "adding_and_subtracting_fractions",
-    "question": "In a science notebook, What is 3/4 + 5/8?",
-    "audio_prompt": "In a science notebook, What is 3/4 + 5/8?",
+    "question": "During a cooking project, What is 3/4 + 5/8?",
+    "audio_prompt": "During a cooking project, What is 3/4 + 5/8?",
     "visual": {
       "type": "none",
       "asset_path": "",
@@ -431,131 +303,17 @@
     "explanation": {
       "summary": "1 3/8 follows from the quantities and relationship in the question.",
       "hint": "Estimate or substitute to reject the tempting misconception."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    }
   },
   {
-    "id": "ac9m6n05-p-013",
+    "id": "ac9m6n05-p-010",
     "curriculum_code": "AC9M6N05",
     "year_level": "Year 6",
     "subject": "math",
     "bank": "practice",
     "skill": "adding_and_subtracting_fractions",
-    "question": "During a design challenge. The quantities or representation come from a fresh example. a note says “fraction with the same value in different-sized parts”. Which mathematical term labels it?",
-    "audio_prompt": "During a design challenge. The quantities or representation come from a fresh example. a note says “fraction with the same value in different-sized parts”. Which mathematical term labels it?",
-    "visual": {
-      "type": "none",
-      "asset_path": "",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "least common denominator",
-        "is_correct": false
-      },
-      {
-        "text": "equivalent fraction",
-        "is_correct": true
-      },
-      {
-        "text": "mixed numeral",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "equivalent fraction means fraction with the same value in different-sized parts.",
-      "hint": "Match every feature of the description to the mathematical term."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
-  },
-  {
-    "id": "ac9m6n05-p-014",
-    "curriculum_code": "AC9M6N05",
-    "year_level": "Year 6",
-    "subject": "math",
-    "bank": "practice",
-    "skill": "adding_and_subtracting_fractions",
-    "question": "At the school canteen. The quantities or representation come from a fresh example. a note says “smallest shared denominator useful for calculation”. Which mathematical term labels it?",
-    "audio_prompt": "At the school canteen. The quantities or representation come from a fresh example. a note says “smallest shared denominator useful for calculation”. Which mathematical term labels it?",
-    "visual": {
-      "type": "none",
-      "asset_path": "",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "equivalent fraction",
-        "is_correct": false
-      },
-      {
-        "text": "mixed numeral",
-        "is_correct": false
-      },
-      {
-        "text": "least common denominator",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "least common denominator means smallest shared denominator useful for calculation.",
-      "hint": "Match every feature of the description to the mathematical term."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
-  },
-  {
-    "id": "ac9m6n05-p-015",
-    "curriculum_code": "AC9M6N05",
-    "year_level": "Year 6",
-    "subject": "math",
-    "bank": "practice",
-    "skill": "adding_and_subtracting_fractions",
-    "question": "While comparing travel plans. The quantities or representation come from a fresh example. a note says “whole number and proper fraction together”. Which mathematical term labels it?",
-    "audio_prompt": "While comparing travel plans. The quantities or representation come from a fresh example. a note says “whole number and proper fraction together”. Which mathematical term labels it?",
-    "visual": {
-      "type": "none",
-      "asset_path": "",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "mixed numeral",
-        "is_correct": true
-      },
-      {
-        "text": "equivalent fraction",
-        "is_correct": false
-      },
-      {
-        "text": "least common denominator",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "mixed numeral means whole number and proper fraction together.",
-      "hint": "Match every feature of the description to the mathematical term."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
-  },
-  {
-    "id": "ac9m6n05-p-016",
-    "curriculum_code": "AC9M6N05",
-    "year_level": "Year 6",
-    "subject": "math",
-    "bank": "practice",
-    "skill": "adding_and_subtracting_fractions",
-    "question": "In a data workshop. The quantities or representation come from a fresh example. a student reasons, “Numerators and denominators both added”. Which response corrects the error?",
-    "audio_prompt": "In a data workshop. The quantities or representation come from a fresh example. a student reasons, “Numerators and denominators both added”. Which response corrects the error?",
+    "question": "At the community fair. The quantities or representation come from a fresh example. a student reasons, “Numerators and denominators both added”. Which response corrects the error?",
+    "audio_prompt": "At the community fair. The quantities or representation come from a fresh example. a student reasons, “Numerators and denominators both added”. Which response corrects the error?",
     "visual": {
       "type": "none",
       "asset_path": "",
@@ -579,19 +337,17 @@
     "explanation": {
       "summary": "The common denominator names the unchanged part size.",
       "hint": "Identify the exact misconception, then choose the correction that preserves the mathematics."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+    }
   },
   {
-    "id": "ac9m6n05-p-017",
+    "id": "ac9m6n05-p-011",
     "curriculum_code": "AC9M6N05",
     "year_level": "Year 6",
     "subject": "math",
     "bank": "practice",
     "skill": "adding_and_subtracting_fractions",
-    "question": "During a building project. The quantities or representation come from a fresh example. a student reasons, “Fractions combined before renaming”. Which response corrects the error?",
-    "audio_prompt": "During a building project. The quantities or representation come from a fresh example. a student reasons, “Fractions combined before renaming”. Which response corrects the error?",
+    "question": "While organising a library display. The quantities or representation come from a fresh example. a student reasons, “Fractions combined before renaming”. Which response corrects the error?",
+    "audio_prompt": "While organising a library display. The quantities or representation come from a fresh example. a student reasons, “Fractions combined before renaming”. Which response corrects the error?",
     "visual": {
       "type": "none",
       "asset_path": "",
@@ -615,19 +371,17 @@
     "explanation": {
       "summary": "Different denominators name different-sized parts.",
       "hint": "Identify the exact misconception, then choose the correction that preserves the mathematics."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+    }
   },
   {
-    "id": "ac9m6n05-p-018",
+    "id": "ac9m6n05-p-012",
     "curriculum_code": "AC9M6N05",
     "year_level": "Year 6",
     "subject": "math",
     "bank": "practice",
     "skill": "adding_and_subtracting_fractions",
-    "question": "At the local pool. The quantities or representation come from a fresh example. a student reasons, “Whole part lost during subtraction”. Which response corrects the error?",
-    "audio_prompt": "At the local pool. The quantities or representation come from a fresh example. a student reasons, “Whole part lost during subtraction”. Which response corrects the error?",
+    "question": "In a science notebook. The quantities or representation come from a fresh example. a student reasons, “Whole part lost during subtraction”. Which response corrects the error?",
+    "audio_prompt": "In a science notebook. The quantities or representation come from a fresh example. a student reasons, “Whole part lost during subtraction”. Which response corrects the error?",
     "visual": {
       "type": "none",
       "asset_path": "",
@@ -651,19 +405,17 @@
     "explanation": {
       "summary": "Regroup one whole as denominator-sized parts.",
       "hint": "Identify the exact misconception, then choose the correction that preserves the mathematics."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+    }
   },
   {
-    "id": "ac9m6n05-p-019",
+    "id": "ac9m6n05-p-013",
     "curriculum_code": "AC9M6N05",
     "year_level": "Year 6",
     "subject": "math",
     "bank": "practice",
     "skill": "adding_and_subtracting_fractions",
-    "question": "While preparing an excursion. The quantities or representation come from a fresh example. a student reasons, “Final fraction simplified incorrectly”. Which response corrects the error?",
-    "audio_prompt": "While preparing an excursion. The quantities or representation come from a fresh example. a student reasons, “Final fraction simplified incorrectly”. Which response corrects the error?",
+    "question": "During a design challenge. The quantities or representation come from a fresh example. a student reasons, “Final fraction simplified incorrectly”. Which response corrects the error?",
+    "audio_prompt": "During a design challenge. The quantities or representation come from a fresh example. a student reasons, “Final fraction simplified incorrectly”. Which response corrects the error?",
     "visual": {
       "type": "none",
       "asset_path": "",
@@ -687,22 +439,20 @@
     "explanation": {
       "summary": "Divide numerator and denominator by the same factor.",
       "hint": "Identify the exact misconception, then choose the correction that preserves the mathematics."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+    }
   },
   {
-    "id": "ac9m6n05-p-020",
+    "id": "ac9m6n05-p-014",
     "curriculum_code": "AC9M6N05",
     "year_level": "Year 6",
     "subject": "math",
     "bank": "practice",
     "skill": "adding_and_subtracting_fractions",
-    "question": "In a games club. The quantities or representation come from a fresh example. a Adding and Subtracting Fractions organiser labels a row “7/10 + 3/10”. Which entry belongs in that row?",
-    "audio_prompt": "In a games club. The quantities or representation come from a fresh example. a Adding and Subtracting Fractions organiser labels a row “7/10 + 3/10”. Which entry belongs in that row?",
+    "question": "At the school canteen. The quantities or representation come from a fresh example. a Adding and Subtracting Fractions organiser labels a row “7/10 + 3/10”. Which entry belongs in that row?",
+    "audio_prompt": "At the school canteen. The quantities or representation come from a fresh example. a Adding and Subtracting Fractions organiser labels a row “7/10 + 3/10”. Which entry belongs in that row?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6n05.svg#ac9m6n05-p-020",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6n05.svg#ac9m6n05-p-014",
       "alt_text": "A Year 6 Adding and Subtracting Fractions reasoning organiser highlighting 7/10 + 3/10."
     },
     "answers": [
@@ -723,22 +473,20 @@
     "explanation": {
       "summary": "The representation connects 7/10 + 3/10 with complete one whole.",
       "hint": "Use the mathematical role of the entry, not a repeated word."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+    }
   },
   {
-    "id": "ac9m6n05-p-021",
+    "id": "ac9m6n05-p-015",
     "curriculum_code": "AC9M6N05",
     "year_level": "Year 6",
     "subject": "math",
     "bank": "practice",
     "skill": "adding_and_subtracting_fractions",
-    "question": "During an art project. The quantities or representation come from a fresh example. a Adding and Subtracting Fractions organiser labels a row “1 1/3 − 5/6”. Which entry belongs in that row?",
-    "audio_prompt": "During an art project. The quantities or representation come from a fresh example. a Adding and Subtracting Fractions organiser labels a row “1 1/3 − 5/6”. Which entry belongs in that row?",
+    "question": "While comparing travel plans. The quantities or representation come from a fresh example. a Adding and Subtracting Fractions organiser labels a row “1 1/3 − 5/6”. Which entry belongs in that row?",
+    "audio_prompt": "While comparing travel plans. The quantities or representation come from a fresh example. a Adding and Subtracting Fractions organiser labels a row “1 1/3 − 5/6”. Which entry belongs in that row?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6n05.svg#ac9m6n05-p-021",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6n05.svg#ac9m6n05-p-015",
       "alt_text": "A Year 6 Adding and Subtracting Fractions reasoning organiser highlighting 1 1/3 − 5/6."
     },
     "answers": [
@@ -759,22 +507,20 @@
     "explanation": {
       "summary": "The representation connects 1 1/3 − 5/6 with rename whole and thirds as sixths.",
       "hint": "Use the mathematical role of the entry, not a repeated word."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+    }
   },
   {
-    "id": "ac9m6n05-p-022",
+    "id": "ac9m6n05-p-016",
     "curriculum_code": "AC9M6N05",
     "year_level": "Year 6",
     "subject": "math",
     "bank": "practice",
     "skill": "adding_and_subtracting_fractions",
-    "question": "At the recycling station. The quantities or representation come from a fresh example. a Adding and Subtracting Fractions organiser labels a row “5/12 + 1/3”. Which entry belongs in that row?",
-    "audio_prompt": "At the recycling station. The quantities or representation come from a fresh example. a Adding and Subtracting Fractions organiser labels a row “5/12 + 1/3”. Which entry belongs in that row?",
+    "question": "In a data workshop. The quantities or representation come from a fresh example. a Adding and Subtracting Fractions organiser labels a row “5/12 + 1/3”. Which entry belongs in that row?",
+    "audio_prompt": "In a data workshop. The quantities or representation come from a fresh example. a Adding and Subtracting Fractions organiser labels a row “5/12 + 1/3”. Which entry belongs in that row?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6n05.svg#ac9m6n05-p-022",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6n05.svg#ac9m6n05-p-016",
       "alt_text": "A Year 6 Adding and Subtracting Fractions reasoning organiser highlighting 5/12 + 1/3."
     },
     "answers": [
@@ -795,19 +541,17 @@
     "explanation": {
       "summary": "The representation connects 5/12 + 1/3 with rename 1/3 as 4/12.",
       "hint": "Use the mathematical role of the entry, not a repeated word."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+    }
   },
   {
-    "id": "ac9m6n05-p-023",
+    "id": "ac9m6n05-p-017",
     "curriculum_code": "AC9M6N05",
     "year_level": "Year 6",
     "subject": "math",
     "bank": "practice",
     "skill": "adding_and_subtracting_fractions",
-    "question": "While planning a class survey. The quantities or representation come from a fresh example. What is 5/6 − 1/4?",
-    "audio_prompt": "While planning a class survey. The quantities or representation come from a fresh example. What is 5/6 − 1/4?",
+    "question": "During a building project. The quantities or representation come from a fresh example. What is 5/6 − 1/4?",
+    "audio_prompt": "During a building project. The quantities or representation come from a fresh example. What is 5/6 − 1/4?",
     "visual": {
       "type": "none",
       "asset_path": "",
@@ -831,19 +575,17 @@
     "explanation": {
       "summary": "7/12 follows from the quantities and relationship in the question.",
       "hint": "Estimate or substitute to reject the tempting misconception."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+    }
   },
   {
-    "id": "ac9m6n05-p-024",
+    "id": "ac9m6n05-p-018",
     "curriculum_code": "AC9M6N05",
     "year_level": "Year 6",
     "subject": "math",
     "bank": "practice",
     "skill": "adding_and_subtracting_fractions",
-    "question": "In a coding lesson. The quantities or representation come from a fresh example. What is 3/4 + 5/8?",
-    "audio_prompt": "In a coding lesson. The quantities or representation come from a fresh example. What is 3/4 + 5/8?",
+    "question": "At the local pool. The quantities or representation come from a fresh example. What is 3/4 + 5/8?",
+    "audio_prompt": "At the local pool. The quantities or representation come from a fresh example. What is 3/4 + 5/8?",
     "visual": {
       "type": "none",
       "asset_path": "",
@@ -867,9 +609,211 @@
     "explanation": {
       "summary": "1 3/8 follows from the quantities and relationship in the question.",
       "hint": "Estimate or substitute to reject the tempting misconception."
+    }
+  },
+  {
+    "id": "ac9m6n05-p-019",
+    "curriculum_code": "AC9M6N05",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "adding_and_subtracting_fractions",
+    "question": "While preparing an excursion. The quantities or representation come from a fresh example. a student reasons, “Numerators and denominators both added”. Which response corrects the error?",
+    "audio_prompt": "While preparing an excursion. The quantities or representation come from a fresh example. a student reasons, “Numerators and denominators both added”. Which response corrects the error?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "answers": [
+      {
+        "text": "Keep the claim because one example is enough.",
+        "is_correct": false
+      },
+      {
+        "text": "The common denominator names the unchanged part size.",
+        "is_correct": true
+      },
+      {
+        "text": "Make the claim more certain without checking the quantities.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The common denominator names the unchanged part size.",
+      "hint": "Identify the exact misconception, then choose the correction that preserves the mathematics."
+    }
+  },
+  {
+    "id": "ac9m6n05-p-020",
+    "curriculum_code": "AC9M6N05",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "adding_and_subtracting_fractions",
+    "question": "In a games club. The quantities or representation come from a fresh example. a student reasons, “Fractions combined before renaming”. Which response corrects the error?",
+    "audio_prompt": "In a games club. The quantities or representation come from a fresh example. a student reasons, “Fractions combined before renaming”. Which response corrects the error?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Keep the claim because one example is enough.",
+        "is_correct": false
+      },
+      {
+        "text": "Make the claim more certain without checking the quantities.",
+        "is_correct": false
+      },
+      {
+        "text": "Different denominators name different-sized parts.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Different denominators name different-sized parts.",
+      "hint": "Identify the exact misconception, then choose the correction that preserves the mathematics."
+    }
+  },
+  {
+    "id": "ac9m6n05-p-021",
+    "curriculum_code": "AC9M6N05",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "adding_and_subtracting_fractions",
+    "question": "During an art project. The quantities or representation come from a fresh example. a student reasons, “Whole part lost during subtraction”. Which response corrects the error?",
+    "audio_prompt": "During an art project. The quantities or representation come from a fresh example. a student reasons, “Whole part lost during subtraction”. Which response corrects the error?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Regroup one whole as denominator-sized parts.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep the claim because one example is enough.",
+        "is_correct": false
+      },
+      {
+        "text": "Make the claim more certain without checking the quantities.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Regroup one whole as denominator-sized parts.",
+      "hint": "Identify the exact misconception, then choose the correction that preserves the mathematics."
+    }
+  },
+  {
+    "id": "ac9m6n05-p-022",
+    "curriculum_code": "AC9M6N05",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "adding_and_subtracting_fractions",
+    "question": "At the recycling station. The quantities or representation come from a fresh example. a student reasons, “Final fraction simplified incorrectly”. Which response corrects the error?",
+    "audio_prompt": "At the recycling station. The quantities or representation come from a fresh example. a student reasons, “Final fraction simplified incorrectly”. Which response corrects the error?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Keep the claim because one example is enough.",
+        "is_correct": false
+      },
+      {
+        "text": "Divide numerator and denominator by the same factor.",
+        "is_correct": true
+      },
+      {
+        "text": "Make the claim more certain without checking the quantities.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Divide numerator and denominator by the same factor.",
+      "hint": "Identify the exact misconception, then choose the correction that preserves the mathematics."
+    }
+  },
+  {
+    "id": "ac9m6n05-p-023",
+    "curriculum_code": "AC9M6N05",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "adding_and_subtracting_fractions",
+    "question": "While planning a class survey. The quantities or representation come from a fresh example. a Adding and Subtracting Fractions organiser labels a row “7/10 + 3/10”. Which entry belongs in that row?",
+    "audio_prompt": "While planning a class survey. The quantities or representation come from a fresh example. a Adding and Subtracting Fractions organiser labels a row “7/10 + 3/10”. Which entry belongs in that row?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6n05.svg#ac9m6n05-p-023",
+      "alt_text": "A Year 6 Adding and Subtracting Fractions reasoning organiser highlighting 7/10 + 3/10."
+    },
+    "answers": [
+      {
+        "text": "rename 3/4 as 6/8",
+        "is_correct": false
+      },
+      {
+        "text": "rename whole and thirds as sixths",
+        "is_correct": false
+      },
+      {
+        "text": "complete one whole",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The representation connects 7/10 + 3/10 with complete one whole.",
+      "hint": "Use the mathematical role of the entry, not a repeated word."
+    }
+  },
+  {
+    "id": "ac9m6n05-p-024",
+    "curriculum_code": "AC9M6N05",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "adding_and_subtracting_fractions",
+    "question": "In a coding lesson. The quantities or representation come from a fresh example. a Adding and Subtracting Fractions organiser labels a row “1 1/3 − 5/6”. Which entry belongs in that row?",
+    "audio_prompt": "In a coding lesson. The quantities or representation come from a fresh example. a Adding and Subtracting Fractions organiser labels a row “1 1/3 − 5/6”. Which entry belongs in that row?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6n05.svg#ac9m6n05-p-024",
+      "alt_text": "A Year 6 Adding and Subtracting Fractions reasoning organiser highlighting 1 1/3 − 5/6."
+    },
+    "answers": [
+      {
+        "text": "rename whole and thirds as sixths",
+        "is_correct": true
+      },
+      {
+        "text": "rename 3/4 as 6/8",
+        "is_correct": false
+      },
+      {
+        "text": "complete one whole",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The representation connects 1 1/3 − 5/6 with rename whole and thirds as sixths.",
+      "hint": "Use the mathematical role of the entry, not a repeated word."
+    }
   },
   {
     "id": "ac9m6n05-t-001",
@@ -1184,110 +1128,8 @@
     "subject": "math",
     "bank": "test",
     "skill": "adding_and_subtracting_fractions",
-    "question": "At a music festival, a student uses the term “mixed numeral”. Which description shows it correctly?",
-    "audio_prompt": "At a music festival, a student uses the term “mixed numeral”. Which description shows it correctly?",
-    "visual": {
-      "type": "none",
-      "asset_path": "",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "fraction with the same value in different-sized parts",
-        "is_correct": false
-      },
-      {
-        "text": "smallest shared denominator useful for calculation",
-        "is_correct": false
-      },
-      {
-        "text": "whole number and proper fraction together",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "mixed numeral means whole number and proper fraction together.",
-      "hint": "Match every feature of the description to the mathematical term."
-    }
-  },
-  {
-    "id": "ac9m6n05-t-011",
-    "curriculum_code": "AC9M6N05",
-    "year_level": "Year 6",
-    "subject": "math",
-    "bank": "test",
-    "skill": "adding_and_subtracting_fractions",
-    "question": "While organising a book drive, a student uses the term “least common denominator”. Which description shows it correctly?",
-    "audio_prompt": "While organising a book drive, a student uses the term “least common denominator”. Which description shows it correctly?",
-    "visual": {
-      "type": "none",
-      "asset_path": "",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "smallest shared denominator useful for calculation",
-        "is_correct": true
-      },
-      {
-        "text": "fraction with the same value in different-sized parts",
-        "is_correct": false
-      },
-      {
-        "text": "whole number and proper fraction together",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "least common denominator means smallest shared denominator useful for calculation.",
-      "hint": "Match every feature of the description to the mathematical term."
-    }
-  },
-  {
-    "id": "ac9m6n05-t-012",
-    "curriculum_code": "AC9M6N05",
-    "year_level": "Year 6",
-    "subject": "math",
-    "bank": "test",
-    "skill": "adding_and_subtracting_fractions",
-    "question": "In an environmental study, a student uses the term “equivalent fraction”. Which description shows it correctly?",
-    "audio_prompt": "In an environmental study, a student uses the term “equivalent fraction”. Which description shows it correctly?",
-    "visual": {
-      "type": "none",
-      "asset_path": "",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "smallest shared denominator useful for calculation",
-        "is_correct": false
-      },
-      {
-        "text": "fraction with the same value in different-sized parts",
-        "is_correct": true
-      },
-      {
-        "text": "whole number and proper fraction together",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "equivalent fraction means fraction with the same value in different-sized parts.",
-      "hint": "Match every feature of the description to the mathematical term."
-    }
-  },
-  {
-    "id": "ac9m6n05-t-013",
-    "curriculum_code": "AC9M6N05",
-    "year_level": "Year 6",
-    "subject": "math",
-    "bank": "test",
-    "skill": "adding_and_subtracting_fractions",
-    "question": "During a playground redesign. The quantities or representation come from a fresh example. another student selected “8/12”. Reconsider the evidence: What is 3/4 + 5/8?",
-    "audio_prompt": "During a playground redesign. The quantities or representation come from a fresh example. another student selected “8/12”. Reconsider the evidence: What is 3/4 + 5/8?",
+    "question": "At a music festival. The quantities or representation come from a fresh example. another student selected “8/12”. Reconsider the evidence: What is 3/4 + 5/8?",
+    "audio_prompt": "At a music festival. The quantities or representation come from a fresh example. another student selected “8/12”. Reconsider the evidence: What is 3/4 + 5/8?",
     "visual": {
       "type": "none",
       "asset_path": "",
@@ -1314,14 +1156,14 @@
     }
   },
   {
-    "id": "ac9m6n05-t-014",
+    "id": "ac9m6n05-t-011",
     "curriculum_code": "AC9M6N05",
     "year_level": "Year 6",
     "subject": "math",
     "bank": "test",
     "skill": "adding_and_subtracting_fractions",
-    "question": "At a transport depot. The quantities or representation come from a fresh example. another student selected “4/2”. Reconsider the evidence: What is 5/6 − 1/4?",
-    "audio_prompt": "At a transport depot. The quantities or representation come from a fresh example. another student selected “4/2”. Reconsider the evidence: What is 5/6 − 1/4?",
+    "question": "While organising a book drive. The quantities or representation come from a fresh example. another student selected “4/2”. Reconsider the evidence: What is 5/6 − 1/4?",
+    "audio_prompt": "While organising a book drive. The quantities or representation come from a fresh example. another student selected “4/2”. Reconsider the evidence: What is 5/6 − 1/4?",
     "visual": {
       "type": "none",
       "asset_path": "",
@@ -1348,17 +1190,17 @@
     }
   },
   {
-    "id": "ac9m6n05-t-015",
+    "id": "ac9m6n05-t-012",
     "curriculum_code": "AC9M6N05",
     "year_level": "Year 6",
     "subject": "math",
     "bank": "test",
     "skill": "adding_and_subtracting_fractions",
-    "question": "While preparing a camping trip. The quantities or representation come from a fresh example. a Adding and Subtracting Fractions organiser contains “rename 1/3 as 4/12”. Which heading best identifies that information?",
-    "audio_prompt": "While preparing a camping trip. The quantities or representation come from a fresh example. a Adding and Subtracting Fractions organiser contains “rename 1/3 as 4/12”. Which heading best identifies that information?",
+    "question": "In an environmental study. The quantities or representation come from a fresh example. a Adding and Subtracting Fractions organiser contains “rename 1/3 as 4/12”. Which heading best identifies that information?",
+    "audio_prompt": "In an environmental study. The quantities or representation come from a fresh example. a Adding and Subtracting Fractions organiser contains “rename 1/3 as 4/12”. Which heading best identifies that information?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6n05.svg#ac9m6n05-t-015",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6n05.svg#ac9m6n05-t-012",
       "alt_text": "A Year 6 Adding and Subtracting Fractions reasoning organiser highlighting 5/12 + 1/3."
     },
     "answers": [
@@ -1382,17 +1224,17 @@
     }
   },
   {
-    "id": "ac9m6n05-t-016",
+    "id": "ac9m6n05-t-013",
     "curriculum_code": "AC9M6N05",
     "year_level": "Year 6",
     "subject": "math",
     "bank": "test",
     "skill": "adding_and_subtracting_fractions",
-    "question": "In a strategy tournament. The quantities or representation come from a fresh example. a Adding and Subtracting Fractions organiser contains “rename whole and thirds as sixths”. Which heading best identifies that information?",
-    "audio_prompt": "In a strategy tournament. The quantities or representation come from a fresh example. a Adding and Subtracting Fractions organiser contains “rename whole and thirds as sixths”. Which heading best identifies that information?",
+    "question": "During a playground redesign. The quantities or representation come from a fresh example. a Adding and Subtracting Fractions organiser contains “rename whole and thirds as sixths”. Which heading best identifies that information?",
+    "audio_prompt": "During a playground redesign. The quantities or representation come from a fresh example. a Adding and Subtracting Fractions organiser contains “rename whole and thirds as sixths”. Which heading best identifies that information?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6n05.svg#ac9m6n05-t-016",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6n05.svg#ac9m6n05-t-013",
       "alt_text": "A Year 6 Adding and Subtracting Fractions reasoning organiser highlighting 1 1/3 − 5/6."
     },
     "answers": [
@@ -1413,6 +1255,108 @@
     "explanation": {
       "summary": "The representation connects 1 1/3 − 5/6 with rename whole and thirds as sixths.",
       "hint": "Use the mathematical role of the entry, not a repeated word."
+    }
+  },
+  {
+    "id": "ac9m6n05-t-014",
+    "curriculum_code": "AC9M6N05",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "test",
+    "skill": "adding_and_subtracting_fractions",
+    "question": "At a transport depot. The quantities or representation come from a fresh example. a Adding and Subtracting Fractions organiser contains “complete one whole”. Which heading best identifies that information?",
+    "audio_prompt": "At a transport depot. The quantities or representation come from a fresh example. a Adding and Subtracting Fractions organiser contains “complete one whole”. Which heading best identifies that information?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6n05.svg#ac9m6n05-t-014",
+      "alt_text": "A Year 6 Adding and Subtracting Fractions reasoning organiser highlighting 7/10 + 3/10."
+    },
+    "answers": [
+      {
+        "text": "7/10 + 3/10",
+        "is_correct": true
+      },
+      {
+        "text": "3/4 + 5/8",
+        "is_correct": false
+      },
+      {
+        "text": "1 1/3 − 5/6",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The representation connects 7/10 + 3/10 with complete one whole.",
+      "hint": "Use the mathematical role of the entry, not a repeated word."
+    }
+  },
+  {
+    "id": "ac9m6n05-t-015",
+    "curriculum_code": "AC9M6N05",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "test",
+    "skill": "adding_and_subtracting_fractions",
+    "question": "While preparing a camping trip. The quantities or representation come from a fresh example. a review recommends, “Divide numerator and denominator by the same factor.” Which claim most clearly needs that correction?",
+    "audio_prompt": "While preparing a camping trip. The quantities or representation come from a fresh example. a review recommends, “Divide numerator and denominator by the same factor.” Which claim most clearly needs that correction?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Numerators and denominators both added",
+        "is_correct": false
+      },
+      {
+        "text": "Final fraction simplified incorrectly",
+        "is_correct": true
+      },
+      {
+        "text": "Fractions combined before renaming",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Divide numerator and denominator by the same factor.",
+      "hint": "Identify the exact misconception, then choose the correction that preserves the mathematics."
+    }
+  },
+  {
+    "id": "ac9m6n05-t-016",
+    "curriculum_code": "AC9M6N05",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "test",
+    "skill": "adding_and_subtracting_fractions",
+    "question": "In a strategy tournament. The quantities or representation come from a fresh example. a review recommends, “Regroup one whole as denominator-sized parts.” Which claim most clearly needs that correction?",
+    "audio_prompt": "In a strategy tournament. The quantities or representation come from a fresh example. a review recommends, “Regroup one whole as denominator-sized parts.” Which claim most clearly needs that correction?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Numerators and denominators both added",
+        "is_correct": false
+      },
+      {
+        "text": "Fractions combined before renaming",
+        "is_correct": false
+      },
+      {
+        "text": "Whole part lost during subtraction",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Regroup one whole as denominator-sized parts.",
+      "hint": "Identify the exact misconception, then choose the correction that preserves the mathematics."
     }
   }
 ]

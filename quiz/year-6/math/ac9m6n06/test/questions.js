@@ -268,95 +268,8 @@ window.skillrTestQuestions = [
     "skill": "multiplying and dividing decimals by powers of 10",
     "printable": true,
     "type": "single",
-    "question": "At a music festival, a student uses the term “scaling”. Which description shows it correctly?",
-    "audioPrompt": "At a music festival, a student uses the term “scaling”. Which description shows it correctly?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "asset_path": "",
-      "alt_text": ""
-    },
-    "answers": [
-      "multiplying quantities by a common factor",
-      "10, 100, 1 000 and related repeated factors",
-      "change in the value represented by each digit"
-    ],
-    "correct": 0,
-    "explanation": "scaling means multiplying quantities by a common factor.\nHint: Match every feature of the description to the mathematical term.",
-    "structuredExplanation": {
-      "summary": "scaling means multiplying quantities by a common factor.",
-      "hint": "Match every feature of the description to the mathematical term."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m6n06-t-011",
-    "curriculumCode": "AC9M6N06",
-    "bank": "test",
-    "skill": "multiplying and dividing decimals by powers of 10",
-    "printable": true,
-    "type": "single",
-    "question": "While organising a book drive, a student uses the term “place-value shift”. Which description shows it correctly?",
-    "audioPrompt": "While organising a book drive, a student uses the term “place-value shift”. Which description shows it correctly?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "asset_path": "",
-      "alt_text": ""
-    },
-    "answers": [
-      "10, 100, 1 000 and related repeated factors",
-      "change in the value represented by each digit",
-      "multiplying quantities by a common factor"
-    ],
-    "correct": 1,
-    "explanation": "place-value shift means change in the value represented by each digit.\nHint: Match every feature of the description to the mathematical term.",
-    "structuredExplanation": {
-      "summary": "place-value shift means change in the value represented by each digit.",
-      "hint": "Match every feature of the description to the mathematical term."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m6n06-t-012",
-    "curriculumCode": "AC9M6N06",
-    "bank": "test",
-    "skill": "multiplying and dividing decimals by powers of 10",
-    "printable": true,
-    "type": "single",
-    "question": "In an environmental study, a student uses the term “power of 10”. Which description shows it correctly?",
-    "audioPrompt": "In an environmental study, a student uses the term “power of 10”. Which description shows it correctly?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "asset_path": "",
-      "alt_text": ""
-    },
-    "answers": [
-      "change in the value represented by each digit",
-      "multiplying quantities by a common factor",
-      "10, 100, 1 000 and related repeated factors"
-    ],
-    "correct": 2,
-    "explanation": "power of 10 means 10, 100, 1 000 and related repeated factors.\nHint: Match every feature of the description to the mathematical term.",
-    "structuredExplanation": {
-      "summary": "power of 10 means 10, 100, 1 000 and related repeated factors.",
-      "hint": "Match every feature of the description to the mathematical term."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m6n06-t-013",
-    "curriculumCode": "AC9M6N06",
-    "bank": "test",
-    "skill": "multiplying and dividing decimals by powers of 10",
-    "printable": true,
-    "type": "single",
-    "question": "During a playground redesign. The quantities or representation come from a fresh example. another student selected “2.4 × 3”. Reconsider the evidence: Which expression is equivalent to 2.4 × 300?",
-    "audioPrompt": "During a playground redesign. The quantities or representation come from a fresh example. another student selected “2.4 × 3”. Reconsider the evidence: Which expression is equivalent to 2.4 × 300?",
+    "question": "At a music festival. The quantities or representation come from a fresh example. another student selected “2.4 × 3”. Reconsider the evidence: Which expression is equivalent to 2.4 × 300?",
+    "audioPrompt": "At a music festival. The quantities or representation come from a fresh example. another student selected “2.4 × 3”. Reconsider the evidence: Which expression is equivalent to 2.4 × 300?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -378,14 +291,14 @@ window.skillrTestQuestions = [
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9m6n06-t-014",
+    "id": "ac9m6n06-t-011",
     "curriculumCode": "AC9M6N06",
     "bank": "test",
     "skill": "multiplying and dividing decimals by powers of 10",
     "printable": true,
     "type": "single",
-    "question": "At a transport depot. The quantities or representation come from a fresh example. another student selected “42.75”. Reconsider the evidence: What is 4.275 × 100?",
-    "audioPrompt": "At a transport depot. The quantities or representation come from a fresh example. another student selected “42.75”. Reconsider the evidence: What is 4.275 × 100?",
+    "question": "While organising a book drive. The quantities or representation come from a fresh example. another student selected “42.75”. Reconsider the evidence: What is 4.275 × 100?",
+    "audioPrompt": "While organising a book drive. The quantities or representation come from a fresh example. another student selected “42.75”. Reconsider the evidence: What is 4.275 × 100?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -407,19 +320,19 @@ window.skillrTestQuestions = [
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9m6n06-t-015",
+    "id": "ac9m6n06-t-012",
     "curriculumCode": "AC9M6N06",
     "bank": "test",
     "skill": "multiplying and dividing decimals by powers of 10",
     "printable": true,
     "type": "single",
-    "question": "While preparing a camping trip. The quantities or representation come from a fresh example. a Multiplying and Dividing Decimals by Powers of 10 organiser contains “0.4275; one tenth as much”. Which heading best identifies that information?",
-    "audioPrompt": "While preparing a camping trip. The quantities or representation come from a fresh example. a Multiplying and Dividing Decimals by Powers of 10 organiser contains “0.4275; one tenth as much”. Which heading best identifies that information?",
+    "question": "In an environmental study. The quantities or representation come from a fresh example. a Multiplying and Dividing Decimals by Powers of 10 organiser contains “0.4275; one tenth as much”. Which heading best identifies that information?",
+    "audioPrompt": "In an environmental study. The quantities or representation come from a fresh example. a Multiplying and Dividing Decimals by Powers of 10 organiser contains “0.4275; one tenth as much”. Which heading best identifies that information?",
     "visual": "A Year 6 Multiplying and Dividing Decimals by Powers of 10 reasoning organiser highlighting 4.275 ÷ 10.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A Year 6 Multiplying and Dividing Decimals by Powers of 10 reasoning organiser highlighting 4.275 ÷ 10.\"><use href=\"/assets/assessment-visuals/year6/math/ac9m6n06.svg#ac9m6n06-t-015\"></use></svg>",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A Year 6 Multiplying and Dividing Decimals by Powers of 10 reasoning organiser highlighting 4.275 ÷ 10.\"><use href=\"/assets/assessment-visuals/year6/math/ac9m6n06.svg#ac9m6n06-t-012\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6n06.svg#ac9m6n06-t-015",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6n06.svg#ac9m6n06-t-012",
       "alt_text": "A Year 6 Multiplying and Dividing Decimals by Powers of 10 reasoning organiser highlighting 4.275 ÷ 10."
     },
     "answers": [
@@ -436,19 +349,19 @@ window.skillrTestQuestions = [
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9m6n06-t-016",
+    "id": "ac9m6n06-t-013",
     "curriculumCode": "AC9M6N06",
     "bank": "test",
     "skill": "multiplying and dividing decimals by powers of 10",
     "printable": true,
     "type": "single",
-    "question": "In a strategy tournament. The quantities or representation come from a fresh example. a Multiplying and Dividing Decimals by Powers of 10 organiser contains “427.5; 100 times as much”. Which heading best identifies that information?",
-    "audioPrompt": "In a strategy tournament. The quantities or representation come from a fresh example. a Multiplying and Dividing Decimals by Powers of 10 organiser contains “427.5; 100 times as much”. Which heading best identifies that information?",
+    "question": "During a playground redesign. The quantities or representation come from a fresh example. a Multiplying and Dividing Decimals by Powers of 10 organiser contains “427.5; 100 times as much”. Which heading best identifies that information?",
+    "audioPrompt": "During a playground redesign. The quantities or representation come from a fresh example. a Multiplying and Dividing Decimals by Powers of 10 organiser contains “427.5; 100 times as much”. Which heading best identifies that information?",
     "visual": "A Year 6 Multiplying and Dividing Decimals by Powers of 10 reasoning organiser highlighting 4.275 × 100.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A Year 6 Multiplying and Dividing Decimals by Powers of 10 reasoning organiser highlighting 4.275 × 100.\"><use href=\"/assets/assessment-visuals/year6/math/ac9m6n06.svg#ac9m6n06-t-016\"></use></svg>",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A Year 6 Multiplying and Dividing Decimals by Powers of 10 reasoning organiser highlighting 4.275 × 100.\"><use href=\"/assets/assessment-visuals/year6/math/ac9m6n06.svg#ac9m6n06-t-013\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6n06.svg#ac9m6n06-t-016",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6n06.svg#ac9m6n06-t-013",
       "alt_text": "A Year 6 Multiplying and Dividing Decimals by Powers of 10 reasoning organiser highlighting 4.275 × 100."
     },
     "answers": [
@@ -461,6 +374,93 @@ window.skillrTestQuestions = [
     "structuredExplanation": {
       "summary": "The representation connects 4.275 × 100 with 427.5; 100 times as much.",
       "hint": "Use the mathematical role of the entry, not a repeated word."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m6n06-t-014",
+    "curriculumCode": "AC9M6N06",
+    "bank": "test",
+    "skill": "multiplying and dividing decimals by powers of 10",
+    "printable": true,
+    "type": "single",
+    "question": "At a transport depot. The quantities or representation come from a fresh example. a Multiplying and Dividing Decimals by Powers of 10 organiser contains “42.75; each digit worth 10 times as much”. Which heading best identifies that information?",
+    "audioPrompt": "At a transport depot. The quantities or representation come from a fresh example. a Multiplying and Dividing Decimals by Powers of 10 organiser contains “42.75; each digit worth 10 times as much”. Which heading best identifies that information?",
+    "visual": "A Year 6 Multiplying and Dividing Decimals by Powers of 10 reasoning organiser highlighting 4.275 × 10.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A Year 6 Multiplying and Dividing Decimals by Powers of 10 reasoning organiser highlighting 4.275 × 10.\"><use href=\"/assets/assessment-visuals/year6/math/ac9m6n06.svg#ac9m6n06-t-014\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6n06.svg#ac9m6n06-t-014",
+      "alt_text": "A Year 6 Multiplying and Dividing Decimals by Powers of 10 reasoning organiser highlighting 4.275 × 10."
+    },
+    "answers": [
+      "operation",
+      "4.275 × 10",
+      "4.275 × 100"
+    ],
+    "correct": 1,
+    "explanation": "The representation connects 4.275 × 10 with 42.75; each digit worth 10 times as much.\nHint: Use the mathematical role of the entry, not a repeated word.",
+    "structuredExplanation": {
+      "summary": "The representation connects 4.275 × 10 with 42.75; each digit worth 10 times as much.",
+      "hint": "Use the mathematical role of the entry, not a repeated word."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m6n06-t-015",
+    "curriculumCode": "AC9M6N06",
+    "bank": "test",
+    "skill": "multiplying and dividing decimals by powers of 10",
+    "printable": true,
+    "type": "single",
+    "question": "While preparing a camping trip. The quantities or representation come from a fresh example. a review recommends, “Check quotient magnitude before accepting.” Which claim most clearly needs that correction?",
+    "audioPrompt": "While preparing a camping trip. The quantities or representation come from a fresh example. a review recommends, “Check quotient magnitude before accepting.” Which claim most clearly needs that correction?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      "Add zeros rule used with decimals",
+      "Decimal point said to move",
+      "Division estimate omitted"
+    ],
+    "correct": 2,
+    "explanation": "Check quotient magnitude before accepting.\nHint: Identify the exact misconception, then choose the correction that preserves the mathematics.",
+    "structuredExplanation": {
+      "summary": "Check quotient magnitude before accepting.",
+      "hint": "Identify the exact misconception, then choose the correction that preserves the mathematics."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m6n06-t-016",
+    "curriculumCode": "AC9M6N06",
+    "bank": "test",
+    "skill": "multiplying and dividing decimals by powers of 10",
+    "printable": true,
+    "type": "single",
+    "question": "In a strategy tournament. The quantities or representation come from a fresh example. a review recommends, “Include the factor of 100.” Which claim most clearly needs that correction?",
+    "audioPrompt": "In a strategy tournament. The quantities or representation come from a fresh example. a review recommends, “Include the factor of 100.” Which claim most clearly needs that correction?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      "Factor 300 treated as 3",
+      "Add zeros rule used with decimals",
+      "Decimal point said to move"
+    ],
+    "correct": 0,
+    "explanation": "Include the factor of 100.\nHint: Identify the exact misconception, then choose the correction that preserves the mathematics.",
+    "structuredExplanation": {
+      "summary": "Include the factor of 100.",
+      "hint": "Identify the exact misconception, then choose the correction that preserves the mathematics."
     },
     "qualitySchema": "production-v1"
   }

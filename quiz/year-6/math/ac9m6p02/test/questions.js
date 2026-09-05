@@ -442,8 +442,8 @@ window.skillrTestQuestions = [
     "skill": "repeated chance experiments and simulations",
     "printable": true,
     "type": "single",
-    "question": "In a strategy tournament, a student uses the term “simulation”. Which description shows it correctly?",
-    "audioPrompt": "In a strategy tournament, a student uses the term “simulation”. Which description shows it correctly?",
+    "question": "In a strategy tournament. The quantities or representation come from a fresh example. another student selected “Expected values are commands”. Reconsider the evidence: Why do observed frequencies differ from expected values?",
+    "audioPrompt": "In a strategy tournament. The quantities or representation come from a fresh example. another student selected “Expected values are commands”. Reconsider the evidence: Why do observed frequencies differ from expected values?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -452,15 +452,15 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "modelled repetition of a chance process",
-      "probability multiplied by number of trials",
-      "observed count divided by trial total"
+      "Chance variation",
+      "Expected values are commands",
+      "Probability is invalid"
     ],
     "correct": 0,
-    "explanation": "simulation means modelled repetition of a chance process.\nHint: Match every feature of the description to the mathematical term.",
+    "explanation": "Chance variation follows from the quantities and relationship in the question.\nHint: Estimate or substitute to reject the tempting misconception.",
     "structuredExplanation": {
-      "summary": "simulation means modelled repetition of a chance process.",
-      "hint": "Match every feature of the description to the mathematical term."
+      "summary": "Chance variation follows from the quantities and relationship in the question.",
+      "hint": "Estimate or substitute to reject the tempting misconception."
     },
     "qualitySchema": "production-v1"
   }

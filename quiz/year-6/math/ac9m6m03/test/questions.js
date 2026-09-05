@@ -297,95 +297,8 @@ window.skillrTestQuestions = [
     "skill": "timetables itineraries and journey duration",
     "printable": true,
     "type": "single",
-    "question": "While organising a book drive, a student uses the term “transfer time”. Which description shows it correctly?",
-    "audioPrompt": "While organising a book drive, a student uses the term “transfer time”. Which description shows it correctly?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "asset_path": "",
-      "alt_text": ""
-    },
-    "answers": [
-      "scheduled times for repeated services or events",
-      "interval between connected journey stages",
-      "planned sequence of activities and journeys"
-    ],
-    "correct": 1,
-    "explanation": "transfer time means interval between connected journey stages.\nHint: Match every feature of the description to the mathematical term.",
-    "structuredExplanation": {
-      "summary": "transfer time means interval between connected journey stages.",
-      "hint": "Match every feature of the description to the mathematical term."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m6m03-t-012",
-    "curriculumCode": "AC9M6M03",
-    "bank": "test",
-    "skill": "timetables itineraries and journey duration",
-    "printable": true,
-    "type": "single",
-    "question": "In an environmental study, a student uses the term “itinerary”. Which description shows it correctly?",
-    "audioPrompt": "In an environmental study, a student uses the term “itinerary”. Which description shows it correctly?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "asset_path": "",
-      "alt_text": ""
-    },
-    "answers": [
-      "scheduled times for repeated services or events",
-      "interval between connected journey stages",
-      "planned sequence of activities and journeys"
-    ],
-    "correct": 2,
-    "explanation": "itinerary means planned sequence of activities and journeys.\nHint: Match every feature of the description to the mathematical term.",
-    "structuredExplanation": {
-      "summary": "itinerary means planned sequence of activities and journeys.",
-      "hint": "Match every feature of the description to the mathematical term."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m6m03-t-013",
-    "curriculumCode": "AC9M6M03",
-    "bank": "test",
-    "skill": "timetables itineraries and journey duration",
-    "printable": true,
-    "type": "single",
-    "question": "During a playground redesign, a student uses the term “timetable”. Which description shows it correctly?",
-    "audioPrompt": "During a playground redesign, a student uses the term “timetable”. Which description shows it correctly?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "asset_path": "",
-      "alt_text": ""
-    },
-    "answers": [
-      "scheduled times for repeated services or events",
-      "planned sequence of activities and journeys",
-      "interval between connected journey stages"
-    ],
-    "correct": 0,
-    "explanation": "timetable means scheduled times for repeated services or events.\nHint: Match every feature of the description to the mathematical term.",
-    "structuredExplanation": {
-      "summary": "timetable means scheduled times for repeated services or events.",
-      "hint": "Match every feature of the description to the mathematical term."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m6m03-t-014",
-    "curriculumCode": "AC9M6M03",
-    "bank": "test",
-    "skill": "timetables itineraries and journey duration",
-    "printable": true,
-    "type": "single",
-    "question": "At a transport depot. The quantities or representation come from a fresh example. another student selected “A service leaving before arrival”. Reconsider the evidence: Which itinerary is feasible?",
-    "audioPrompt": "At a transport depot. The quantities or representation come from a fresh example. another student selected “A service leaving before arrival”. Reconsider the evidence: Which itinerary is feasible?",
+    "question": "While organising a book drive. The quantities or representation come from a fresh example. another student selected “A service leaving before arrival”. Reconsider the evidence: Which itinerary is feasible?",
+    "audioPrompt": "While organising a book drive. The quantities or representation come from a fresh example. another student selected “A service leaving before arrival”. Reconsider the evidence: Which itinerary is feasible?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -407,14 +320,14 @@ window.skillrTestQuestions = [
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9m6m03-t-015",
+    "id": "ac9m6m03-t-012",
     "curriculumCode": "AC9M6M03",
     "bank": "test",
     "skill": "timetables itineraries and journey duration",
     "printable": true,
     "type": "single",
-    "question": "While preparing a camping trip. The quantities or representation come from a fresh example. another student selected “3 h 30 min”. Reconsider the evidence: What is the total duration from 08:35 to 11:05?",
-    "audioPrompt": "While preparing a camping trip. The quantities or representation come from a fresh example. another student selected “3 h 30 min”. Reconsider the evidence: What is the total duration from 08:35 to 11:05?",
+    "question": "In an environmental study. The quantities or representation come from a fresh example. another student selected “3 h 30 min”. Reconsider the evidence: What is the total duration from 08:35 to 11:05?",
+    "audioPrompt": "In an environmental study. The quantities or representation come from a fresh example. another student selected “3 h 30 min”. Reconsider the evidence: What is the total duration from 08:35 to 11:05?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -436,19 +349,19 @@ window.skillrTestQuestions = [
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9m6m03-t-016",
+    "id": "ac9m6m03-t-013",
     "curriculumCode": "AC9M6M03",
     "bank": "test",
     "skill": "timetables itineraries and journey duration",
     "printable": true,
     "type": "single",
-    "question": "In a strategy tournament. The quantities or representation come from a fresh example. a Timetables, Itineraries and Journey Duration organiser contains “08:35; 11:05; 2 h 30 min”. Which heading best identifies that information?",
-    "audioPrompt": "In a strategy tournament. The quantities or representation come from a fresh example. a Timetables, Itineraries and Journey Duration organiser contains “08:35; 11:05; 2 h 30 min”. Which heading best identifies that information?",
+    "question": "During a playground redesign. The quantities or representation come from a fresh example. a Timetables, Itineraries and Journey Duration organiser contains “08:35; 11:05; 2 h 30 min”. Which heading best identifies that information?",
+    "audioPrompt": "During a playground redesign. The quantities or representation come from a fresh example. a Timetables, Itineraries and Journey Duration organiser contains “08:35; 11:05; 2 h 30 min”. Which heading best identifies that information?",
     "visual": "A Year 6 Timetables, Itineraries and Journey Duration reasoning organiser highlighting total.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A Year 6 Timetables, Itineraries and Journey Duration reasoning organiser highlighting total.\"><use href=\"/assets/assessment-visuals/year6/math/ac9m6m03.svg#ac9m6m03-t-016\"></use></svg>",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A Year 6 Timetables, Itineraries and Journey Duration reasoning organiser highlighting total.\"><use href=\"/assets/assessment-visuals/year6/math/ac9m6m03.svg#ac9m6m03-t-013\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6m03.svg#ac9m6m03-t-016",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6m03.svg#ac9m6m03-t-013",
       "alt_text": "A Year 6 Timetables, Itineraries and Journey Duration reasoning organiser highlighting total."
     },
     "answers": [
@@ -460,6 +373,93 @@ window.skillrTestQuestions = [
     "explanation": "The representation connects total with 08:35; 11:05; 2 h 30 min.\nHint: Use the mathematical role of the entry, not a repeated word.",
     "structuredExplanation": {
       "summary": "The representation connects total with 08:35; 11:05; 2 h 30 min.",
+      "hint": "Use the mathematical role of the entry, not a repeated word."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m6m03-t-014",
+    "curriculumCode": "AC9M6M03",
+    "bank": "test",
+    "skill": "timetables itineraries and journey duration",
+    "printable": true,
+    "type": "single",
+    "question": "At a transport depot. The quantities or representation come from a fresh example. a Timetables, Itineraries and Journey Duration organiser contains “09:28; 11:05; 1 h 37 min”. Which heading best identifies that information?",
+    "audioPrompt": "At a transport depot. The quantities or representation come from a fresh example. a Timetables, Itineraries and Journey Duration organiser contains “09:28; 11:05; 1 h 37 min”. Which heading best identifies that information?",
+    "visual": "A Year 6 Timetables, Itineraries and Journey Duration reasoning organiser highlighting train.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A Year 6 Timetables, Itineraries and Journey Duration reasoning organiser highlighting train.\"><use href=\"/assets/assessment-visuals/year6/math/ac9m6m03.svg#ac9m6m03-t-014\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6m03.svg#ac9m6m03-t-014",
+      "alt_text": "A Year 6 Timetables, Itineraries and Journey Duration reasoning organiser highlighting train."
+    },
+    "answers": [
+      "stage",
+      "train",
+      "bus"
+    ],
+    "correct": 1,
+    "explanation": "The representation connects train with 09:28; 11:05; 1 h 37 min.\nHint: Use the mathematical role of the entry, not a repeated word.",
+    "structuredExplanation": {
+      "summary": "The representation connects train with 09:28; 11:05; 1 h 37 min.",
+      "hint": "Use the mathematical role of the entry, not a repeated word."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m6m03-t-015",
+    "curriculumCode": "AC9M6M03",
+    "bank": "test",
+    "skill": "timetables itineraries and journey duration",
+    "printable": true,
+    "type": "single",
+    "question": "While preparing a camping trip. The quantities or representation come from a fresh example. a Timetables, Itineraries and Journey Duration organiser contains “09:12; 09:28; 16 min”. Which heading best identifies that information?",
+    "audioPrompt": "While preparing a camping trip. The quantities or representation come from a fresh example. a Timetables, Itineraries and Journey Duration organiser contains “09:12; 09:28; 16 min”. Which heading best identifies that information?",
+    "visual": "A Year 6 Timetables, Itineraries and Journey Duration reasoning organiser highlighting transfer.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A Year 6 Timetables, Itineraries and Journey Duration reasoning organiser highlighting transfer.\"><use href=\"/assets/assessment-visuals/year6/math/ac9m6m03.svg#ac9m6m03-t-015\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6m03.svg#ac9m6m03-t-015",
+      "alt_text": "A Year 6 Timetables, Itineraries and Journey Duration reasoning organiser highlighting transfer."
+    },
+    "answers": [
+      "stage",
+      "bus",
+      "transfer"
+    ],
+    "correct": 2,
+    "explanation": "The representation connects transfer with 09:12; 09:28; 16 min.\nHint: Use the mathematical role of the entry, not a repeated word.",
+    "structuredExplanation": {
+      "summary": "The representation connects transfer with 09:12; 09:28; 16 min.",
+      "hint": "Use the mathematical role of the entry, not a repeated word."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m6m03-t-016",
+    "curriculumCode": "AC9M6M03",
+    "bank": "test",
+    "skill": "timetables itineraries and journey duration",
+    "printable": true,
+    "type": "single",
+    "question": "In a strategy tournament. The quantities or representation come from a fresh example. a Timetables, Itineraries and Journey Duration organiser contains “08:35; 09:12; 37 min”. Which heading best identifies that information?",
+    "audioPrompt": "In a strategy tournament. The quantities or representation come from a fresh example. a Timetables, Itineraries and Journey Duration organiser contains “08:35; 09:12; 37 min”. Which heading best identifies that information?",
+    "visual": "A Year 6 Timetables, Itineraries and Journey Duration reasoning organiser highlighting bus.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A Year 6 Timetables, Itineraries and Journey Duration reasoning organiser highlighting bus.\"><use href=\"/assets/assessment-visuals/year6/math/ac9m6m03.svg#ac9m6m03-t-016\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6m03.svg#ac9m6m03-t-016",
+      "alt_text": "A Year 6 Timetables, Itineraries and Journey Duration reasoning organiser highlighting bus."
+    },
+    "answers": [
+      "bus",
+      "stage",
+      "transfer"
+    ],
+    "correct": 0,
+    "explanation": "The representation connects bus with 08:35; 09:12; 37 min.\nHint: Use the mathematical role of the entry, not a repeated word.",
+    "structuredExplanation": {
+      "summary": "The representation connects bus with 08:35; 09:12; 37 min.",
       "hint": "Use the mathematical role of the entry, not a repeated word."
     },
     "qualitySchema": "production-v1"
