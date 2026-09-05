@@ -4,512 +4,320 @@ window.skillrExamQuestions = [
     "id": "ac9s1i02-t-001",
     "curriculumCode": "AC9S1I02",
     "bank": "test",
-    "skill": "safe investigation procedures",
+    "skill": "follow safe procedures",
+    "question": "You find unknown berries. What is safe?",
+    "explanation": "Unknown berries should not be touched or tasted without adult help.",
     "printable": true,
     "type": "single",
-    "question": "A jar cracks during an investigation. What should you do first?",
-    "audioPrompt": "A jar cracks during an investigation. What should you do first?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
     "answers": [
-      "Keep using it.",
-      "Touch the crack.",
-      "Throw it in a classroom bin yourself.",
-      "Stop and tell an adult."
+      "Taste one",
+      "Ask an adult first",
+      "Put them in your bag"
     ],
-    "correct": 3,
-    "explanation": "Cracked containers can have sharp edges.\nHint: Stop before touching damaged equipment.",
+    "correct": 1,
+    "audioPrompt": "You find unknown berries. What is safe?",
     "structuredExplanation": {
-      "summary": "Cracked containers can have sharp edges.",
-      "hint": "Stop before touching damaged equipment."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 1,
-    "qualitySchema": "reviewed-year1-science-v1"
+      "summary": "Unknown berries should not be touched or tasted without adult help."
+    }
   },
   {
     "id": "ac9s1i02-t-002",
     "curriculumCode": "AC9S1I02",
     "bank": "test",
-    "skill": "safe investigation procedures",
+    "skill": "investigate safely",
+    "question": "You test a toy car ramp. What should you do?",
+    "explanation": "Keeping hands clear helps make the test safe.",
     "printable": true,
     "type": "single",
-    "question": "Which is safest when using a ruler to measure sticks?",
-    "audioPrompt": "Which is safest when using a ruler to measure sticks?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
     "answers": [
-      "Run while carrying the sticks.",
-      "Measure on stairs.",
-      "Lay the sticks on a table and measure calmly.",
-      "Wave the ruler near faces."
+      "Keep hands clear",
+      "Put fingers near wheels",
+      "Push someone"
     ],
-    "correct": 2,
-    "explanation": "A stable work surface keeps the activity controlled.\nHint: Stable surface.",
+    "correct": 0,
+    "audioPrompt": "You test a toy car ramp. What should you do?",
     "structuredExplanation": {
-      "summary": "A stable work surface keeps the activity controlled.",
-      "hint": "Stable surface."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 2,
-    "qualitySchema": "reviewed-year1-science-v1"
+      "summary": "Keeping hands clear helps make the test safe."
+    }
   },
   {
     "id": "ac9s1i02-t-003",
     "curriculumCode": "AC9S1I02",
     "bank": "test",
-    "skill": "safe investigation procedures",
+    "skill": "follow safe procedures",
+    "question": "You use a magnifying glass. What is unsafe?",
+    "explanation": "Looking at the Sun through a magnifier can hurt eyes.",
     "printable": true,
     "type": "single",
-    "question": "You see an unknown mushroom during an outdoor walk. What should you do?",
-    "audioPrompt": "You see an unknown mushroom during an outdoor walk. What should you do?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
     "answers": [
-      "Pick it for a friend.",
-      "Look without touching and tell an adult.",
-      "Taste a small piece.",
-      "Rub it on your hand."
+      "Look at leaves",
+      "Hold it gently",
+      "Look at the Sun"
     ],
-    "correct": 1,
-    "explanation": "Unknown fungi should not be touched or eaten.\nHint: Observe only.",
+    "correct": 2,
+    "audioPrompt": "You use a magnifying glass. What is unsafe?",
     "structuredExplanation": {
-      "summary": "Unknown fungi should not be touched or eaten.",
-      "hint": "Observe only."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 3,
-    "qualitySchema": "reviewed-year1-science-v1"
+      "summary": "Looking at the Sun through a magnifier can hurt eyes."
+    }
   },
   {
     "id": "ac9s1i02-t-004",
     "curriculumCode": "AC9S1I02",
     "bank": "test",
-    "skill": "safe investigation procedures",
+    "skill": "follow safe procedures",
+    "question": "You spill water during a test. What is safe?",
+    "explanation": "Telling the teacher helps keep the area safe.",
     "printable": true,
     "type": "single",
-    "question": "Why should instructions be read before using a dropper?",
-    "audioPrompt": "Why should instructions be read before using a dropper?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
     "answers": [
-      "So you know which liquid and how much to use safely.",
-      "So the liquid changes colour.",
-      "So the dropper gets bigger.",
-      "Because droppers cannot spill."
+      "Run through it",
+      "Tell the teacher",
+      "Hide the spill"
     ],
-    "correct": 0,
-    "explanation": "Instructions define the safe and intended procedure.\nHint: Know the procedure first.",
+    "correct": 1,
+    "audioPrompt": "You spill water during a test. What is safe?",
     "structuredExplanation": {
-      "summary": "Instructions define the safe and intended procedure.",
-      "hint": "Know the procedure first."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 4,
-    "qualitySchema": "reviewed-year1-science-v1"
+      "summary": "Telling the teacher helps keep the area safe."
+    }
   },
   {
     "id": "ac9s1i02-t-005",
     "curriculumCode": "AC9S1I02",
     "bank": "test",
-    "skill": "safe investigation procedures",
+    "skill": "make investigations fair",
+    "question": "You compare two seeds. What is fair?",
+    "explanation": "Giving the same water makes the test fair.",
     "printable": true,
     "type": "single",
-    "question": "Which setup is best for a marble roll?",
-    "audioPrompt": "Which setup is best for a marble roll?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
     "answers": [
-      "Across a busy walkway.",
-      "Down stairs.",
-      "Toward a glass door.",
-      "A taped lane on a clear floor."
+      "Give both the same water",
+      "Step on one pot",
+      "Hide one seed"
     ],
-    "correct": 3,
-    "explanation": "A clear lane reduces collision and breakage risk.\nHint: Control where it can roll.",
+    "correct": 0,
+    "audioPrompt": "You compare two seeds. What is fair?",
     "structuredExplanation": {
-      "summary": "A clear lane reduces collision and breakage risk.",
-      "hint": "Control where it can roll."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 5,
-    "qualitySchema": "reviewed-year1-science-v1"
+      "summary": "Giving the same water makes the test fair."
+    }
   },
   {
     "id": "ac9s1i02-t-006",
     "curriculumCode": "AC9S1I02",
     "bank": "test",
-    "skill": "safe investigation procedures",
+    "skill": "investigate safely",
+    "question": "You see a worm outside. What should you do?",
+    "explanation": "Watching quietly keeps the worm safe.",
     "printable": true,
     "type": "single",
-    "question": "A powder spills from a labelled classroom container. What should a child do?",
-    "audioPrompt": "A powder spills from a labelled classroom container. What should a child do?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
     "answers": [
-      "Taste it.",
-      "Sweep it with bare hands.",
-      "Move back and tell the teacher.",
-      "Blow it away."
+      "Poke it",
+      "Take it home",
+      "Watch quietly"
     ],
     "correct": 2,
-    "explanation": "Spills should be managed according to adult instructions.\nHint: Do not touch or spread it.",
+    "audioPrompt": "You see a worm outside. What should you do?",
     "structuredExplanation": {
-      "summary": "Spills should be managed according to adult instructions.",
-      "hint": "Do not touch or spread it."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 6,
-    "qualitySchema": "reviewed-year1-science-v1"
+      "summary": "Watching quietly keeps the worm safe."
+    }
   },
   {
     "id": "ac9s1i02-t-007",
     "curriculumCode": "AC9S1I02",
     "bank": "test",
-    "skill": "safe investigation procedures",
+    "skill": "follow safe procedures",
+    "question": "You test a shaker sound. What is safe?",
+    "explanation": "Gentle shaking protects ears and equipment.",
     "printable": true,
     "type": "single",
-    "question": "Which behaviour protects an insect being observed?",
-    "audioPrompt": "Which behaviour protects an insect being observed?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
     "answers": [
-      "Leaving it in heat.",
-      "Keeping handling brief or avoiding it.",
-      "Pulling its wings apart.",
-      "Shaking its container."
+      "Shake near ears",
+      "Shake gently",
+      "Throw it"
     ],
     "correct": 1,
-    "explanation": "Ethical observation reduces harm and stress.\nHint: Care for living things.",
+    "audioPrompt": "You test a shaker sound. What is safe?",
     "structuredExplanation": {
-      "summary": "Ethical observation reduces harm and stress.",
-      "hint": "Care for living things."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 7,
-    "qualitySchema": "reviewed-year1-science-v1"
+      "summary": "Gentle shaking protects ears and equipment."
+    }
   },
   {
     "id": "ac9s1i02-t-008",
     "curriculumCode": "AC9S1I02",
     "bank": "test",
-    "skill": "safe investigation procedures",
+    "skill": "follow safe procedures",
+    "question": "There is a hot cup. What is safe?",
+    "explanation": "Hot objects need adult help.",
     "printable": true,
     "type": "single",
-    "question": "Why keep electrical items away from water?",
-    "audioPrompt": "Why keep electrical items away from water?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
     "answers": [
-      "Water can create an electrical hazard.",
-      "Water makes electricity blue.",
-      "Electricity cannot move near water.",
-      "Water always breaks plastic."
+      "Tell an adult",
+      "Grab it",
+      "Taste it"
     ],
     "correct": 0,
-    "explanation": "Water near electrical equipment can be dangerous.\nHint: Electricity + water = risk.",
+    "audioPrompt": "There is a hot cup. What is safe?",
     "structuredExplanation": {
-      "summary": "Water near electrical equipment can be dangerous.",
-      "hint": "Electricity + water = risk."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 8,
-    "qualitySchema": "reviewed-year1-science-v1"
+      "summary": "Hot objects need adult help."
+    }
   },
   {
     "id": "ac9s1i02-t-009",
     "curriculumCode": "AC9S1I02",
     "bank": "test",
-    "skill": "safe investigation procedures",
+    "skill": "investigate safely",
+    "question": "You test paper in water. What should you use?",
+    "explanation": "A shallow tray is safer for a water test.",
     "printable": true,
     "type": "single",
-    "question": "A magnifying glass is being used outside. Which action is unsafe?",
-    "audioPrompt": "A magnifying glass is being used outside. Which action is unsafe?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
     "answers": [
-      "Looking at a rock in shade.",
-      "Holding it over a leaf.",
-      "Returning it after use.",
-      "Focusing sunlight onto dry leaves."
+      "A hot kettle",
+      "A stove",
+      "A shallow tray"
     ],
-    "correct": 3,
-    "explanation": "Focused sunlight can create heat and fire risk.\nHint: Never focus the sun.",
+    "correct": 2,
+    "audioPrompt": "You test paper in water. What should you use?",
     "structuredExplanation": {
-      "summary": "Focused sunlight can create heat and fire risk.",
-      "hint": "Never focus the sun."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 9,
-    "qualitySchema": "reviewed-year1-science-v1"
+      "summary": "A shallow tray is safer for a water test."
+    }
   },
   {
     "id": "ac9s1i02-t-010",
     "curriculumCode": "AC9S1I02",
     "bank": "test",
-    "skill": "safe investigation procedures",
+    "skill": "follow safe procedures",
+    "question": "You feel leaf textures. What is safe?",
+    "explanation": "Gentle touch protects the leaves and the child.",
     "printable": true,
     "type": "single",
-    "question": "Which footwear is safest for a classroom water test?",
-    "audioPrompt": "Which footwear is safest for a classroom water test?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
     "answers": [
-      "Slippery socks only",
-      "Loose sandals that fall off",
-      "Closed shoes",
-      "Bare feet"
+      "Crush every leaf",
+      "Touch gently",
+      "Put leaves in your mouth"
     ],
-    "correct": 2,
-    "explanation": "Closed shoes provide better foot protection.\nHint: Protect feet from spills and drops.",
+    "correct": 1,
+    "audioPrompt": "You feel leaf textures. What is safe?",
     "structuredExplanation": {
-      "summary": "Closed shoes provide better foot protection.",
-      "hint": "Protect feet from spills and drops."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 10,
-    "qualitySchema": "reviewed-year1-science-v1"
+      "summary": "Gentle touch protects the leaves and the child."
+    }
   },
   {
     "id": "ac9s1i02-t-011",
     "curriculumCode": "AC9S1I02",
     "bank": "test",
-    "skill": "safe investigation procedures",
+    "skill": "use investigation tools safely",
+    "question": "A strong magnet is used. What should stay away?",
+    "explanation": "Strong magnets can affect some devices and cards.",
     "printable": true,
     "type": "single",
-    "question": "A child feels dizzy during an outdoor investigation. What should they do?",
-    "audioPrompt": "A child feels dizzy during an outdoor investigation. What should they do?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
     "answers": [
-      "Drink an unknown liquid.",
-      "Stop and tell an adult.",
-      "Keep going silently.",
-      "Run around."
+      "Phones and cards",
+      "Paper clips",
+      "Plastic blocks"
     ],
-    "correct": 1,
-    "explanation": "Feeling unwell is a reason to stop and seek adult help.\nHint: Your body is a safety signal too.",
+    "correct": 0,
+    "audioPrompt": "A strong magnet is used. What should stay away?",
     "structuredExplanation": {
-      "summary": "Feeling unwell is a reason to stop and seek adult help.",
-      "hint": "Your body is a safety signal too."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 11,
-    "qualitySchema": "reviewed-year1-science-v1"
+      "summary": "Strong magnets can affect some devices and cards."
+    }
   },
   {
     "id": "ac9s1i02-t-012",
     "curriculumCode": "AC9S1I02",
     "bank": "test",
-    "skill": "safe investigation procedures",
+    "skill": "follow safe procedures",
+    "question": "A strange sound is outside. What is safe?",
+    "explanation": "Staying with the group is safer outdoors.",
     "printable": true,
     "type": "single",
-    "question": "Which sentence is true about safety rules?",
-    "audioPrompt": "Which sentence is true about safety rules?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
     "answers": [
-      "They help prevent harm before problems happen.",
-      "They are only needed after accidents.",
-      "They are optional if you are careful.",
-      "They stop every possible accident."
+      "Run alone",
+      "Climb a fence",
+      "Stay with the group"
     ],
-    "correct": 0,
-    "explanation": "Safety rules reduce risk but do not guarantee zero risk.\nHint: Prevention.",
+    "correct": 2,
+    "audioPrompt": "A strange sound is outside. What is safe?",
     "structuredExplanation": {
-      "summary": "Safety rules reduce risk but do not guarantee zero risk.",
-      "hint": "Prevention."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 12,
-    "qualitySchema": "reviewed-year1-science-v1"
+      "summary": "Staying with the group is safer outdoors."
+    }
   },
   {
     "id": "ac9s1i02-t-013",
     "curriculumCode": "AC9S1I02",
     "bank": "test",
-    "skill": "safe investigation procedures",
+    "skill": "follow safe procedures",
+    "question": "Marbles roll on a track. What is safe?",
+    "explanation": "Keeping hands clear helps prevent injuries.",
     "printable": true,
     "type": "single",
-    "question": "A class uses a fan to move paper shapes. Where should fingers be?",
-    "audioPrompt": "A class uses a fan to move paper shapes. Where should fingers be?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
     "answers": [
-      "Inside the fan guard.",
-      "Touching the blades.",
-      "Holding the motor.",
-      "Away from moving fan parts."
+      "Throw mud at friends",
+      "Keep hands clear",
+      "Put marbles in your mouth"
     ],
-    "correct": 3,
-    "explanation": "Hands should stay away from moving parts.\nHint: Keep clear.",
+    "correct": 1,
+    "audioPrompt": "Marbles roll on a track. What is safe?",
     "structuredExplanation": {
-      "summary": "Hands should stay away from moving parts.",
-      "hint": "Keep clear."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 13,
-    "qualitySchema": "reviewed-year1-science-v1"
+      "summary": "Keeping hands clear helps prevent injuries."
+    }
   },
   {
     "id": "ac9s1i02-t-014",
     "curriculumCode": "AC9S1I02",
     "bank": "test",
-    "skill": "safe investigation procedures",
+    "skill": "follow safe procedures",
+    "question": "You work outside in the sun. What helps safety?",
+    "explanation": "A hat helps with sun safety.",
     "printable": true,
     "type": "single",
-    "question": "Which is safe when comparing smells?",
-    "audioPrompt": "Which is safe when comparing smells?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
     "answers": [
-      "Smell unknown chemicals directly.",
-      "Taste first.",
-      "Use only teacher-approved materials and follow instructions for wafting if told.",
-      "Put your nose inside every container."
+      "Wear a hat",
+      "Look at the Sun",
+      "Drink no water"
     ],
-    "correct": 2,
-    "explanation": "Only approved materials should be smelled using the taught method.\nHint: Approved + instructed.",
+    "correct": 0,
+    "audioPrompt": "You work outside in the sun. What helps safety?",
     "structuredExplanation": {
-      "summary": "Only approved materials should be smelled using the taught method.",
-      "hint": "Approved + instructed."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 14,
-    "qualitySchema": "reviewed-year1-science-v1"
+      "summary": "A hat helps with sun safety."
+    }
   },
   {
     "id": "ac9s1i02-t-015",
     "curriculumCode": "AC9S1I02",
     "bank": "test",
-    "skill": "safe investigation procedures",
+    "skill": "use investigation tools safely",
+    "question": "A new tool is on the table. What comes first?",
+    "explanation": "Asking first helps make tool use safe.",
     "printable": true,
     "type": "single",
-    "question": "A child wants to collect a spider for class. Best choice?",
-    "audioPrompt": "A child wants to collect a spider for class. Best choice?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
     "answers": [
-      "Trap it without air.",
-      "Ask an adult and usually observe it where it is.",
-      "Grab it quickly.",
-      "Put it in a pocket."
+      "Run with it",
+      "Hide it",
+      "Ask an adult first"
     ],
-    "correct": 1,
-    "explanation": "Many animals are safest observed in place rather than handled.\nHint: Ask before handling wildlife.",
+    "correct": 2,
+    "audioPrompt": "A new tool is on the table. What comes first?",
     "structuredExplanation": {
-      "summary": "Many animals are safest observed in place rather than handled.",
-      "hint": "Ask before handling wildlife."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 15,
-    "qualitySchema": "reviewed-year1-science-v1"
+      "summary": "Asking first helps make tool use safe."
+    }
   },
   {
     "id": "ac9s1i02-t-016",
     "curriculumCode": "AC9S1I02",
     "bank": "test",
-    "skill": "safe investigation procedures",
+    "skill": "investigate safely",
+    "question": "You finish your investigation. What should you do?",
+    "explanation": "Packing up safely protects people and equipment.",
     "printable": true,
     "type": "single",
-    "question": "Which plan best combines fair testing and safety?",
-    "audioPrompt": "Which plan best combines fair testing and safety?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
     "answers": [
-      "Use the same ball on two marked surfaces in a clear area, one trial at a time.",
-      "Throw different balls across a doorway.",
-      "Test beside a spill.",
-      "Roll balls from stairs."
+      "Leave tools everywhere",
+      "Pack up safely",
+      "Hide the results"
     ],
-    "correct": 0,
-    "explanation": "The first plan is both controlled and safe.\nHint: Fair and safe together.",
+    "correct": 1,
+    "audioPrompt": "You finish your investigation. What should you do?",
     "structuredExplanation": {
-      "summary": "The first plan is both controlled and safe.",
-      "hint": "Fair and safe together."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 16,
-    "qualitySchema": "reviewed-year1-science-v1"
+      "summary": "Packing up safely protects people and equipment."
+    }
   }
 ];
