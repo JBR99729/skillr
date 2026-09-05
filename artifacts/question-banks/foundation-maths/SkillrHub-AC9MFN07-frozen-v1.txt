@@ -1,0 +1,454 @@
+FOUNDATION MATHS — AC9MFN07
+SkillrHub/Internal Descriptor: Connect days of the week, seasons and familiar events to everyday experiences.
+
+Status: Frozen v1
+Note: Adult read-aloud support is expected for Foundation students.
+Production note: AC9MFN07 is treated as a SkillrHub/internal label. The day/time content overlaps with official Foundation Maths time sequencing expectations; season content is retained because this SkillrHub/internal descriptor includes seasons.
+
+PRACTICE QUESTIONS 1–24
+
+PRACTICE 1
+Which day comes after Monday?
+
+A. Sunday
+B. Tuesday
+C. Friday
+
+Answer: B
+Explanation: Tuesday comes after Monday.
+
+
+PRACTICE 2
+Which day comes before Friday?
+
+A. Thursday
+B. Saturday
+C. Monday
+
+Answer: A
+Explanation: Thursday is the day before Friday.
+
+
+PRACTICE 3
+Which day is usually part of the weekend?
+
+A. Wednesday
+B. Tuesday
+C. Saturday
+
+Answer: C
+Explanation: Saturday is part of the weekend.
+
+
+PRACTICE 4
+Which day comes after Sunday?
+
+A. Friday
+B. Monday
+C. Saturday
+
+Answer: B
+Explanation: Monday comes after Sunday. The week starts again.
+
+
+PRACTICE 5
+Which order is correct?
+
+A. Wednesday, Monday, Tuesday
+B. Monday, Tuesday, Wednesday
+C. Tuesday, Sunday, Friday
+
+Answer: B
+Explanation: Monday, Tuesday, Wednesday is the correct order.
+
+
+PRACTICE 6
+Today is Wednesday.
+What day is tomorrow?
+
+A. Tuesday
+B. Sunday
+C. Thursday
+
+Answer: C
+Explanation: Tomorrow is the day after today. Thursday comes after Wednesday.
+
+
+PRACTICE 7
+Today is Friday.
+What day was yesterday?
+
+A. Thursday
+B. Saturday
+C. Monday
+
+Answer: A
+Explanation: Yesterday was Thursday.
+
+
+PRACTICE 8
+Which time of day do we usually eat breakfast?
+
+A. Night
+B. Morning
+C. Afternoon
+
+Answer: B
+Explanation: Breakfast is usually eaten in the morning.
+
+
+PRACTICE 9
+Which time of day do we usually go to sleep?
+
+A. Lunchtime
+B. Night
+C. Morning
+
+Answer: B
+Explanation: People usually go to sleep at night.
+
+
+PRACTICE 10
+Which event usually happens at lunchtime?
+
+A. Eating lunch
+B. Getting dressed
+C. Going to bed
+
+Answer: A
+Explanation: Lunch is eaten at lunchtime.
+
+
+PRACTICE 11
+Which event usually happens before school?
+
+A. Eating dinner
+B. Sleeping at night
+C. Getting dressed
+
+Answer: C
+Explanation: Children usually get dressed before school.
+
+
+PRACTICE 12
+Which event usually happens after school?
+
+A. Waking up
+B. Going home
+C. Eating breakfast
+
+Answer: B
+Explanation: Going home usually happens after school.
+
+
+PRACTICE 13
+Which season is usually hot in Australia?
+
+A. Winter
+B. Summer
+C. Autumn
+
+Answer: B
+Explanation: Summer is usually the hottest season in Australia.
+
+
+PRACTICE 14
+Which season is usually cold in Australia?
+
+A. Winter
+B. Summer
+C. Spring
+
+Answer: A
+Explanation: Winter is usually the coldest season in Australia.
+
+
+PRACTICE 15
+Which clothes are best for a cold day?
+
+A. Swimmers
+B. Sunhat only
+C. Jumper
+
+Answer: C
+Explanation: A jumper helps keep us warm on a cold day.
+
+
+PRACTICE 16
+Which clothes are best for a hot sunny day?
+
+A. Hat and shorts
+B. Scarf and gloves
+C. Raincoat and boots
+
+Answer: A
+Explanation: A hat and shorts suit a hot sunny day.
+
+
+PRACTICE 17
+Which season comes after Summer?
+
+A. Winter
+B. Autumn
+C. Spring
+
+Answer: B
+Explanation: In Australia, Autumn comes after Summer.
+
+
+PRACTICE 18
+Which season comes after Winter?
+
+A. Autumn
+B. Summer
+C. Spring
+
+Answer: C
+Explanation: Spring comes after Winter.
+
+
+PRACTICE 19
+Which event happens first in a school day?
+
+A. Eat dinner
+B. Arrive at school
+C. Go to bed
+
+Answer: B
+Explanation: Arriving at school happens early in the school day.
+
+
+PRACTICE 20
+Which event happens last?
+
+A. Brush teeth for bed
+B. Eat breakfast
+C. Pack school bag
+
+Answer: A
+Explanation: Brushing teeth for bed usually happens near the end of the day.
+
+
+PRACTICE 21
+Which order makes sense?
+
+A. Go to school, wake up, eat breakfast
+B. Eat dinner, wake up, go to school
+C. Wake up, eat breakfast, go to school
+
+Answer: C
+Explanation: We wake up first, then eat breakfast, then go to school.
+
+
+PRACTICE 22
+Which order makes sense?
+
+A. Night, morning, afternoon
+B. Morning, afternoon, night
+C. Afternoon, night, morning
+
+Answer: B
+Explanation: Morning comes before afternoon, and afternoon comes before night.
+
+
+PRACTICE 23
+If swimming lesson is every Tuesday, when is the next swimming lesson after Monday?
+
+A. Tuesday
+B. Friday
+C. Sunday
+
+Answer: A
+Explanation: Tuesday comes after Monday.
+
+
+PRACTICE 24
+Which sentence is true?
+
+A. Friday comes after Sunday.
+B. Winter is the hottest season.
+C. The days repeat each week.
+
+Answer: C
+Explanation: The days of the week repeat in the same order each week.
+
+
+TEST QUESTIONS 1–16
+
+TEST 1
+Which day comes after Thursday?
+
+A. Wednesday
+B. Friday
+C. Sunday
+
+Answer: B
+Explanation: Friday comes after Thursday.
+
+
+TEST 2
+Which day comes before Tuesday?
+
+A. Monday
+B. Wednesday
+C. Saturday
+
+Answer: A
+Explanation: Monday is the day before Tuesday.
+
+
+TEST 3
+Which days are weekend days?
+
+A. Monday and Tuesday
+B. Thursday and Friday
+C. Saturday and Sunday
+
+Answer: C
+Explanation: Saturday and Sunday are weekend days.
+
+
+TEST 4
+Which order is correct?
+
+A. Friday, Saturday, Sunday
+B. Sunday, Friday, Saturday
+C. Saturday, Monday, Friday
+
+Answer: A
+Explanation: Friday, Saturday, Sunday is the correct order.
+
+
+TEST 5
+Today is Sunday.
+What day is tomorrow?
+
+A. Saturday
+B. Monday
+C. Wednesday
+
+Answer: B
+Explanation: Monday comes after Sunday.
+
+
+TEST 6
+Today is Thursday.
+What day was yesterday?
+
+A. Friday
+B. Monday
+C. Wednesday
+
+Answer: C
+Explanation: Wednesday comes before Thursday.
+
+
+TEST 7
+Which event usually happens in the morning?
+
+A. Wake up
+B. Eat dinner
+C. Go to sleep
+
+Answer: A
+Explanation: Waking up usually happens in the morning.
+
+
+TEST 8
+Which event usually happens at night?
+
+A. Eating lunch
+B. Sleeping
+C. Starting school
+
+Answer: B
+Explanation: Sleeping usually happens at night.
+
+
+TEST 9
+Which time comes after morning?
+
+A. Night
+B. Bedtime
+C. Lunchtime
+
+Answer: C
+Explanation: Lunchtime comes after morning.
+
+
+TEST 10
+Which order makes sense?
+
+A. Dinner, breakfast, lunch
+B. Breakfast, lunch, dinner
+C. Lunch, dinner, breakfast
+
+Answer: B
+Explanation: Breakfast usually comes first, then lunch, then dinner.
+
+
+TEST 11
+Which season is usually warm and sunny in Australia?
+
+A. Summer
+B. Winter
+C. Autumn
+
+Answer: A
+Explanation: Summer is usually warm and sunny in Australia.
+
+
+TEST 12
+Which season comes before Spring?
+
+A. Summer
+B. Winter
+C. Autumn
+
+Answer: B
+Explanation: Winter comes before Spring.
+
+
+TEST 13
+Which item is useful on a rainy day?
+
+A. Swimmers
+B. Sandals only
+C. Raincoat
+
+Answer: C
+Explanation: A raincoat helps keep us dry on a rainy day.
+
+
+TEST 14
+Which event usually happens after lunch at school?
+
+A. Waking up
+B. Afternoon learning
+C. Breakfast
+
+Answer: B
+Explanation: Afternoon learning usually happens after lunch.
+
+
+TEST 15
+Which sentence is true?
+
+A. Monday comes after Sunday.
+B. Sunday comes after Tuesday.
+C. Wednesday comes after Saturday.
+
+Answer: A
+Explanation: Monday comes after Sunday when the weekly cycle starts again.
+
+
+TEST 16
+Why is “Monday, Tuesday, Wednesday” a good order?
+
+A. They are all weekend days.
+B. Wednesday comes first.
+C. The days are in sequence.
+
+Answer: C
+Explanation: Monday, Tuesday, Wednesday follows the correct day sequence.
+
