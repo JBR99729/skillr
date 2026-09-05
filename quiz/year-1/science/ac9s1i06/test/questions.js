@@ -4,512 +4,320 @@ window.skillrExamQuestions = [
     "id": "ac9s1i06-t-001",
     "curriculumCode": "AC9S1I06",
     "bank": "test",
-    "skill": "communicating scientific ideas",
+    "skill": "write science observations",
+    "question": "You saw two birds. Which sentence shares it?",
+    "explanation": "This clearly communicates an observation.",
     "printable": true,
     "type": "single",
-    "question": "Which title best suits a test about how far toy cars roll?",
-    "audioPrompt": "Which title best suits a test about how far toy cars roll?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
     "answers": [
-      "My science",
-      "Cars",
-      "Results",
-      "Toy-car rolling distance"
+      "I saw 2 birds",
+      "Birds are secret",
+      "My bag is red"
     ],
-    "correct": 3,
-    "explanation": "A specific title tells the audience what was measured.\nHint: Name the investigation.",
+    "correct": 0,
+    "audioPrompt": "You saw two birds. Which sentence shares it?",
     "structuredExplanation": {
-      "summary": "A specific title tells the audience what was measured.",
-      "hint": "Name the investigation."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 1,
-    "qualitySchema": "reviewed-year1-science-v1"
+      "summary": "This clearly communicates an observation."
+    }
   },
   {
     "id": "ac9s1i06-t-002",
     "curriculumCode": "AC9S1I06",
     "bank": "test",
-    "skill": "communicating scientific ideas",
+    "skill": "use scientific vocabulary",
+    "question": "The shell feels smooth. Which word is scientific?",
+    "explanation": "Smooth describes an observable texture.",
     "printable": true,
     "type": "single",
-    "question": "Which sentence reports evidence clearly?",
-    "audioPrompt": "Which sentence reports evidence clearly?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
     "answers": [
-      "It cooled because it wanted to.",
-      "The water will always cool.",
-      "The water cooled from 30°C to 24°C.",
-      "The water got nicer."
+      "Happy",
+      "Smooth",
+      "Lucky"
     ],
-    "correct": 2,
-    "explanation": "The first gives a measured change.\nHint: Specific evidence.",
+    "correct": 1,
+    "audioPrompt": "The shell feels smooth. Which word is scientific?",
     "structuredExplanation": {
-      "summary": "The first gives a measured change.",
-      "hint": "Specific evidence."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 2,
-    "qualitySchema": "reviewed-year1-science-v1"
+      "summary": "Smooth describes an observable texture."
+    }
   },
   {
     "id": "ac9s1i06-t-003",
     "curriculumCode": "AC9S1I06",
     "bank": "test",
-    "skill": "communicating scientific ideas",
+    "skill": "use scientific vocabulary",
+    "question": "You label a plant drawing. Which label helps?",
+    "explanation": "Leaf is a useful scientific label.",
     "printable": true,
     "type": "single",
-    "question": "[Show the complete labelled data display.] Why label a bar graph?",
-    "audioPrompt": "[Show the complete labelled data display.] Why label a bar graph?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
     "answers": [
-      "To add decoration.",
-      "So readers know what each bar and number represents.",
-      "To make bars taller.",
-      "To prove the result."
+      "Nice",
+      "Best",
+      "Leaf"
     ],
-    "correct": 1,
-    "explanation": "Labels make the data interpretable.\nHint: What does each bar mean?",
+    "correct": 2,
+    "audioPrompt": "You label a plant drawing. Which label helps?",
     "structuredExplanation": {
-      "summary": "Labels make the data interpretable.",
-      "hint": "What does each bar mean?"
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 3,
-    "qualitySchema": "reviewed-year1-science-v1"
+      "summary": "Leaf is a useful scientific label."
+    }
   },
   {
     "id": "ac9s1i06-t-004",
     "curriculumCode": "AC9S1I06",
     "bank": "test",
-    "skill": "communicating scientific ideas",
+    "skill": "write science observations",
+    "question": "Which sentence shares a finding?",
+    "explanation": "A finding tells what happened.",
     "printable": true,
     "type": "single",
-    "question": "Which visual best shows where spots appeared on a leaf?",
-    "audioPrompt": "Which visual best shows where spots appeared on a leaf?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
     "answers": [
-      "A labelled diagram of the leaf",
-      "A temperature graph",
-      "A map of Australia",
-      "A random photo"
+      "The sponge took in water",
+      "The sponge can talk",
+      "The sponge is silly"
     ],
     "correct": 0,
-    "explanation": "A labelled diagram can show location on the leaf.\nHint: Choose the mode that fits the information.",
+    "audioPrompt": "Which sentence shares a finding?",
     "structuredExplanation": {
-      "summary": "A labelled diagram can show location on the leaf.",
-      "hint": "Choose the mode that fits the information."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 4,
-    "qualitySchema": "reviewed-year1-science-v1"
+      "summary": "A finding tells what happened."
+    }
   },
   {
     "id": "ac9s1i06-t-005",
     "curriculumCode": "AC9S1I06",
     "bank": "test",
-    "skill": "communicating scientific ideas",
+    "skill": "write science observations",
+    "question": "You measured a tower. Which sentence tells what you found?",
+    "explanation": "8 blocks tall communicates a measurement.",
     "printable": true,
     "type": "single",
-    "question": "Which conclusion is careful?",
-    "audioPrompt": "Which conclusion is careful?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
     "answers": [
-      "Red cars always travel farther.",
-      "Red is the best colour.",
-      "The result proves all cars.",
-      "The red car travelled farther in our three trials."
+      "Tower dream",
+      "8 blocks tall",
+      "Tower is hungry"
     ],
-    "correct": 3,
-    "explanation": "The statement stays within the trials completed.\nHint: These trials only.",
+    "correct": 1,
+    "audioPrompt": "You measured a tower. Which sentence tells what you found?",
     "structuredExplanation": {
-      "summary": "The statement stays within the trials completed.",
-      "hint": "These trials only."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 5,
-    "qualitySchema": "reviewed-year1-science-v1"
+      "summary": "8 blocks tall communicates a measurement."
+    }
   },
   {
     "id": "ac9s1i06-t-006",
     "curriculumCode": "AC9S1I06",
     "bank": "test",
-    "skill": "communicating scientific ideas",
+    "skill": "use scientific vocabulary",
+    "question": "Which word describes how loud a drum is?",
+    "explanation": "Loud describes something heard.",
     "printable": true,
     "type": "single",
-    "question": "What should a caption do?",
-    "audioPrompt": "What should a caption do?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
     "answers": [
-      "Replace all evidence.",
-      "Add a joke.",
-      "Explain what an image shows and why it matters.",
-      "Repeat “photo” only."
+      "Square",
+      "Green",
+      "Loud"
     ],
     "correct": 2,
-    "explanation": "Captions give images context.\nHint: Name the evidence.",
+    "audioPrompt": "Which word describes how loud a drum is?",
     "structuredExplanation": {
-      "summary": "Captions give images context.",
-      "hint": "Name the evidence."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 6,
-    "qualitySchema": "reviewed-year1-science-v1"
+      "summary": "Loud describes something heard."
+    }
   },
   {
     "id": "ac9s1i06-t-007",
     "curriculumCode": "AC9S1I06",
     "bank": "test",
-    "skill": "communicating scientific ideas",
+    "skill": "write science observations",
+    "question": "Which sentence describes the shell correctly?",
+    "explanation": "This sentence describes an observable feature.",
     "printable": true,
     "type": "single",
-    "question": "Which slide is least effective?",
-    "audioPrompt": "Which slide is least effective?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
     "answers": [
-      "A short evidence statement",
-      "Tiny paragraphs covering the whole screen",
-      "One clear graph with labels",
-      "A labelled photo"
+      "The shell is smooth",
+      "The shell is sleepy",
+      "The shell can read"
     ],
-    "correct": 1,
-    "explanation": "Dense tiny text is hard to read while listening.\nHint: Avoid overload.",
+    "correct": 0,
+    "audioPrompt": "Which sentence describes the shell correctly?",
     "structuredExplanation": {
-      "summary": "Dense tiny text is hard to read while listening.",
-      "hint": "Avoid overload."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 7,
-    "qualitySchema": "reviewed-year1-science-v1"
+      "summary": "This sentence describes an observable feature."
+    }
   },
   {
     "id": "ac9s1i06-t-008",
     "curriculumCode": "AC9S1I06",
     "bank": "test",
-    "skill": "communicating scientific ideas",
+    "skill": "create science texts",
+    "question": "What title fits a chart about rain and sun?",
+    "explanation": "A clear title tells what the chart is about.",
     "printable": true,
     "type": "single",
-    "question": "Why include measurement units in a talk?",
-    "audioPrompt": "Why include measurement units in a talk?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
     "answers": [
-      "So numbers are meaningful.",
-      "To make the talk longer.",
-      "Because every unit is cm.",
-      "To prove a cause."
+      "Secret Games",
+      "Weather Chart",
+      "Lunch Time"
     ],
-    "correct": 0,
-    "explanation": "Units explain what quantities represent.\nHint: Number + unit.",
+    "correct": 1,
+    "audioPrompt": "What title fits a chart about rain and sun?",
     "structuredExplanation": {
-      "summary": "Units explain what quantities represent.",
-      "hint": "Number + unit."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 8,
-    "qualitySchema": "reviewed-year1-science-v1"
+      "summary": "A clear title tells what the chart is about."
+    }
   },
   {
     "id": "ac9s1i06-t-009",
     "curriculumCode": "AC9S1I06",
     "bank": "test",
-    "skill": "communicating scientific ideas",
+    "skill": "write science observations",
+    "question": "How do you write that you found 3 red leaves?",
+    "explanation": "This communicates a counted observation.",
     "printable": true,
     "type": "single",
-    "question": "Which statement links evidence to finding?",
-    "audioPrompt": "Which statement links evidence to finding?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
     "answers": [
-      "Feeder B is pretty.",
-      "Birds like B forever.",
-      "We used two feeders.",
-      "We counted twice as many visits at feeder B, so B had more visits in our observation."
+      "Leaves are funny",
+      "Leaves like rain",
+      "I found 3 red leaves"
     ],
-    "correct": 3,
-    "explanation": "The first explains what the counts show.\nHint: Evidence → conclusion.",
+    "correct": 2,
+    "audioPrompt": "How do you write that you found 3 red leaves?",
     "structuredExplanation": {
-      "summary": "The first explains what the counts show.",
-      "hint": "Evidence → conclusion."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 9,
-    "qualitySchema": "reviewed-year1-science-v1"
+      "summary": "This communicates a counted observation."
+    }
   },
   {
     "id": "ac9s1i06-t-010",
     "curriculumCode": "AC9S1I06",
     "bank": "test",
-    "skill": "communicating scientific ideas",
+    "skill": "use scientific vocabulary",
+    "question": "Which word describes clear water?",
+    "explanation": "Clear describes what can be seen.",
     "printable": true,
     "type": "single",
-    "question": "What is the best opening for a poster?",
-    "audioPrompt": "What is the best opening for a poster?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
     "answers": [
-      "A random picture",
-      "A long unrelated story",
-      "A clear question or purpose",
-      "The conclusion only"
+      "Clear",
+      "Loud",
+      "Sleepy"
     ],
-    "correct": 2,
-    "explanation": "The audience needs to know what the work is about.\nHint: Start with purpose.",
+    "correct": 0,
+    "audioPrompt": "Which word describes clear water?",
     "structuredExplanation": {
-      "summary": "The audience needs to know what the work is about.",
-      "hint": "Start with purpose."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 10,
-    "qualitySchema": "reviewed-year1-science-v1"
+      "summary": "Clear describes what can be seen."
+    }
   },
   {
     "id": "ac9s1i06-t-011",
     "curriculumCode": "AC9S1I06",
     "bank": "test",
-    "skill": "communicating scientific ideas",
+    "skill": "create science texts",
+    "question": "What text helps compare two towers in a chart?",
+    "explanation": "This text communicates an observable measurement.",
     "printable": true,
     "type": "single",
-    "question": "Which wording is too strong after one test?",
-    "audioPrompt": "Which wording is too strong after one test?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
     "answers": [
-      "More tests could be useful.",
-      "This proves the material always works best.",
-      "This material held most weight in our test.",
-      "Our result supported the idea."
+      "Tower A is happy",
+      "Tower A is 8 blocks",
+      "Tower A is magic"
     ],
     "correct": 1,
-    "explanation": "“Always” goes beyond the evidence.\nHint: Watch certainty.",
+    "audioPrompt": "What text helps compare two towers in a chart?",
     "structuredExplanation": {
-      "summary": "“Always” goes beyond the evidence.",
-      "hint": "Watch certainty."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 11,
-    "qualitySchema": "reviewed-year1-science-v1"
+      "summary": "This text communicates an observable measurement."
+    }
   },
   {
     "id": "ac9s1i06-t-012",
     "curriculumCode": "AC9S1I06",
     "bank": "test",
-    "skill": "communicating scientific ideas",
+    "skill": "write science observations",
+    "question": "Which sentence shares what you think will happen next?",
+    "explanation": "Might shows a prediction idea.",
     "printable": true,
     "type": "single",
-    "question": "A table has no headings. What is the main problem?",
-    "audioPrompt": "A table has no headings. What is the main problem?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
     "answers": [
-      "Readers cannot tell what the numbers mean.",
-      "The table is too scientific.",
-      "Numbers become wrong.",
-      "Tables need pictures only."
+      "The car is blue",
+      "The car has wheels",
+      "The car might roll far"
     ],
-    "correct": 0,
-    "explanation": "Headings identify each column or row.\nHint: Label the data.",
+    "correct": 2,
+    "audioPrompt": "Which sentence shares what you think will happen next?",
     "structuredExplanation": {
-      "summary": "Headings identify each column or row.",
-      "hint": "Label the data."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 12,
-    "qualitySchema": "reviewed-year1-science-v1"
+      "summary": "Might shows a prediction idea."
+    }
   },
   {
     "id": "ac9s1i06-t-013",
     "curriculumCode": "AC9S1I06",
     "bank": "test",
-    "skill": "communicating scientific ideas",
+    "skill": "use scientific vocabulary",
+    "question": "Which word fits a quiet bird sound?",
+    "explanation": "Soft describes a quiet sound.",
     "printable": true,
     "type": "single",
-    "question": "Which spoken delivery helps listeners?",
-    "audioPrompt": "Which spoken delivery helps listeners?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
     "answers": [
-      "Very fast reading",
-      "Facing away",
-      "Whispering every result",
-      "Clear pace with pauses at key evidence"
+      "Soft",
+      "Round",
+      "Striped"
     ],
-    "correct": 3,
-    "explanation": "Controlled pace supports comprehension.\nHint: Help people follow.",
+    "correct": 0,
+    "audioPrompt": "Which word fits a quiet bird sound?",
     "structuredExplanation": {
-      "summary": "Controlled pace supports comprehension.",
-      "hint": "Help people follow."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 13,
-    "qualitySchema": "reviewed-year1-science-v1"
+      "summary": "Soft describes a quiet sound."
+    }
   },
   {
     "id": "ac9s1i06-t-014",
     "curriculumCode": "AC9S1I06",
     "bank": "test",
-    "skill": "communicating scientific ideas",
+    "skill": "use scientific vocabulary",
+    "question": "Which label names a plant part?",
+    "explanation": "Root is scientific vocabulary for a plant part.",
     "printable": true,
     "type": "single",
-    "question": "[Show the complete labelled data display.] A graph shows 2,4,6 plant leaves over weeks. Best explanation?",
-    "audioPrompt": "[Show the complete labelled data display.] A graph shows 2,4,6 plant leaves over weeks. Best explanation?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
     "answers": [
-      "Plants always grow this way.",
-      "The graph is green.",
-      "The recorded leaf count increased each week.",
-      "It proves exactly two new leaves forever."
+      "Nice",
+      "Root",
+      "Best"
     ],
-    "correct": 2,
-    "explanation": "The statement accurately describes the observed trend.\nHint: Say what the graph shows.",
+    "correct": 1,
+    "audioPrompt": "Which label names a plant part?",
     "structuredExplanation": {
-      "summary": "The statement accurately describes the observed trend.",
-      "hint": "Say what the graph shows."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 14,
-    "qualitySchema": "reviewed-year1-science-v1"
+      "summary": "Root is scientific vocabulary for a plant part."
+    }
   },
   {
     "id": "ac9s1i06-t-015",
     "curriculumCode": "AC9S1I06",
     "bank": "test",
-    "skill": "communicating scientific ideas",
+    "skill": "write science observations",
+    "question": "Which sentence shares counted water drops?",
+    "explanation": "This sentence communicates a counted observation.",
     "printable": true,
     "type": "single",
-    "question": "Which final sentence is strongest?",
-    "audioPrompt": "Which final sentence is strongest?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
     "answers": [
-      "Science is fun.",
-      "These results answered our question, and repeating the test would help us check the pattern.",
-      "We proved everything.",
-      "The end."
+      "Drops are silly",
+      "Water wants lunch",
+      "I counted 5 drops"
     ],
-    "correct": 1,
-    "explanation": "It closes the investigation and recognises the value of further evidence.\nHint: Summarise + next step.",
+    "correct": 2,
+    "audioPrompt": "Which sentence shares counted water drops?",
     "structuredExplanation": {
-      "summary": "It closes the investigation and recognises the value of further evidence.",
-      "hint": "Summarise + next step."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 15,
-    "qualitySchema": "reviewed-year1-science-v1"
+      "summary": "This sentence communicates a counted observation."
+    }
   },
   {
     "id": "ac9s1i06-t-016",
     "curriculumCode": "AC9S1I06",
     "bank": "test",
-    "skill": "communicating scientific ideas",
+    "skill": "use scientific vocabulary",
+    "question": "Which word describes warm water?",
+    "explanation": "Warm describes temperature.",
     "printable": true,
     "type": "single",
-    "question": "Why choose words suited to the audience?",
-    "audioPrompt": "Why choose words suited to the audience?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
     "answers": [
-      "So people can understand the science message.",
-      "So the data change.",
-      "So evidence becomes true.",
-      "So the talk is longer."
+      "Cold",
+      "Warm",
+      "Striped"
     ],
-    "correct": 0,
-    "explanation": "Audience-appropriate language improves communication.\nHint: Communicate for understanding.",
+    "correct": 1,
+    "audioPrompt": "Which word describes warm water?",
     "structuredExplanation": {
-      "summary": "Audience-appropriate language improves communication.",
-      "hint": "Communicate for understanding."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 16,
-    "qualitySchema": "reviewed-year1-science-v1"
+      "summary": "Warm describes temperature."
+    }
   }
 ];
