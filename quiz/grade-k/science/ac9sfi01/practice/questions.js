@@ -5,19 +5,19 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9SFI01",
     "bank": "practice",
     "skill": "make predictions from experience",
-    "question": "A child saw ice melt in the sun yesterday. Today they put ice in the sun again. What is the best supported prediction?",
-    "explanation": "The best supported prediction uses what happened to ice in the sun yesterday.",
+    "question": "Yesterday a small ice cube got smaller in the sun. Today a child puts another small ice cube in the same sunny spot. Which prediction best fits what happened before?",
+    "explanation": "The child uses what happened to the first ice cube to make a sensible prediction.",
     "printable": true,
     "type": "single",
     "answers": [
-      "The ice will stay the same size.",
-      "The ice may melt.",
-      "The ice may become colder in the sun."
+      "The ice might get bigger.",
+      "The ice might get smaller.",
+      "The ice might stay the same size."
     ],
     "correct": 1,
-    "audioPrompt": "A child saw ice melt in the sun yesterday. Today they put ice in the sun again. What is the best supported prediction?",
+    "audioPrompt": "Yesterday a small ice cube got smaller in the sun. Today a child puts another small ice cube in the same sunny spot. Which prediction best fits what happened before?",
     "structuredExplanation": {
-      "summary": "The best supported prediction uses what happened to ice in the sun yesterday."
+      "summary": "The child uses what happened to the first ice cube to make a sensible prediction."
     }
   },
   {
@@ -25,19 +25,19 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9SFI01",
     "bank": "practice",
     "skill": "pose investigable questions",
-    "question": "A class notices a puddle is smaller after lunch. Which question asks what the puddle will do later?",
-    "explanation": "This question asks about what may happen to the puddle later.",
+    "question": "A puddle was big in the morning and smaller after lunch. Which question asks how the puddle might change before home time?",
+    "explanation": "This question asks what might happen next.",
     "printable": true,
     "type": "single",
     "answers": [
-      "Will the puddle keep getting smaller?",
-      "Was the puddle bigger this morning?",
-      "Is the puddle near the gate?"
+      "Will the puddle be smaller later?",
+      "Was the puddle deep this morning?",
+      "Is the puddle near the path?"
     ],
     "correct": 0,
-    "audioPrompt": "A class notices a puddle is smaller after lunch. Which question asks what the puddle will do later?",
+    "audioPrompt": "A puddle was big in the morning and smaller after lunch. Which question asks how the puddle might change before home time?",
     "structuredExplanation": {
-      "summary": "This question asks about what may happen to the puddle later."
+      "summary": "This question asks what might happen next."
     }
   },
   {
@@ -45,39 +45,39 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9SFI01",
     "bank": "practice",
     "skill": "make predictions from experience",
-    "question": "A child planted bean seeds and saw sprouts last week. What prediction best matches planting new bean seeds in the same way?",
-    "explanation": "The child uses a past experience with bean seeds to make a sensible prediction.",
+    "question": "Last week, seeds in wet cotton sprouted. Seeds in dry cotton did not. New seeds are put in dry cotton. Which prediction best fits what happened before?",
+    "explanation": "The earlier seeds in dry cotton did not sprout. This supports predicting that the new seeds in dry cotton might not sprout yet.",
     "printable": true,
     "type": "single",
     "answers": [
-      "They may stay exactly the same.",
-      "They may dry out quickly.",
-      "They may sprout too."
+      "They might sprout faster.",
+      "They might grow leaves today.",
+      "They might not sprout yet."
     ],
     "correct": 2,
-    "audioPrompt": "A child planted bean seeds and saw sprouts last week. What prediction best matches planting new bean seeds in the same way?",
+    "audioPrompt": "Last week, seeds in wet cotton sprouted. Seeds in dry cotton did not. New seeds are put in dry cotton. Which prediction best fits what happened before?",
     "structuredExplanation": {
-      "summary": "The child uses a past experience with bean seeds to make a sensible prediction."
+      "summary": "The earlier seeds in dry cotton did not sprout. This supports predicting that the new seeds in dry cotton might not sprout yet."
     }
   },
   {
     "id": "ac9sfi01-p-004",
     "curriculumCode": "AC9SFI01",
     "bank": "practice",
-    "skill": "connect experience to inquiry",
-    "question": "A child hears birds in the tree each morning. What question follows from this experience?",
-    "explanation": "The question is based on hearing birds there on earlier mornings.",
+    "skill": "pose investigable questions",
+    "question": "A child hears birds in the same tree each morning. Which question checks whether birds return tomorrow morning?",
+    "explanation": "The question comes from what the child has heard on other mornings.",
     "printable": true,
     "type": "single",
     "answers": [
-      "Will birds be in the tree tomorrow morning?",
-      "How tall is the tree?",
-      "Are the leaves rough?"
+      "Will we hear birds in the tree tomorrow morning?",
+      "Were the birds loud today?",
+      "Was the tree planted long ago?"
     ],
     "correct": 0,
-    "audioPrompt": "A child hears birds in the tree each morning. What question follows from this experience?",
+    "audioPrompt": "A child hears birds in the same tree each morning. Which question checks whether birds return tomorrow morning?",
     "structuredExplanation": {
-      "summary": "The question is based on hearing birds there on earlier mornings."
+      "summary": "The question comes from what the child has heard on other mornings."
     }
   },
   {
@@ -85,39 +85,39 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9SFI01",
     "bank": "practice",
     "skill": "make predictions from experience",
-    "question": "A toy car rolled farther on a smooth floor than on carpet. Which prediction is best supported?",
-    "explanation": "The prediction uses the earlier rolling experience with a smooth surface.",
+    "question": "A toy car rolled farther on smooth floor than on carpet. If the child tries smooth tile and carpet, which prediction best fits what happened before?",
+    "explanation": "The prediction uses the earlier comparison of smooth floor and carpet.",
     "printable": true,
     "type": "single",
     "answers": [
-      "It may stop sooner on smooth tile.",
-      "It may move the same on every surface.",
-      "It may roll farther on smooth tile."
+      "It might roll farther on carpet.",
+      "It might move the same on both.",
+      "It might roll farther on smooth tile."
     ],
     "correct": 2,
-    "audioPrompt": "A toy car rolled farther on a smooth floor than on carpet. Which prediction is best supported?",
+    "audioPrompt": "A toy car rolled farther on smooth floor than on carpet. If the child tries smooth tile and carpet, which prediction best fits what happened before?",
     "structuredExplanation": {
-      "summary": "The prediction uses the earlier rolling experience with a smooth surface."
+      "summary": "The prediction uses the earlier comparison of smooth floor and carpet."
     }
   },
   {
     "id": "ac9sfi01-p-006",
     "curriculumCode": "AC9SFI01",
     "bank": "practice",
-    "skill": "make predictions from experience",
-    "question": "Yesterday, dark clouds came before rain. Today a child sees dark clouds again. Which prediction best matches the earlier experience?",
-    "explanation": "The prediction uses the earlier experience of dark clouds before rain.",
+    "skill": "pose investigable questions",
+    "question": "Yesterday dark clouds came before rain. Today a child sees dark clouds. Which question asks whether yesterday's weather pattern happens again?",
+    "explanation": "The child can look to see whether rain follows the dark clouds.",
     "printable": true,
     "type": "single",
     "answers": [
-      "It may stay sunny all day.",
-      "It may rain soon.",
-      "The clouds may be white tomorrow."
+      "Are the clouds high?",
+      "Will rain follow these dark clouds?",
+      "Is the sky cloudier than this morning?"
     ],
     "correct": 1,
-    "audioPrompt": "Yesterday, dark clouds came before rain. Today a child sees dark clouds again. Which prediction best matches the earlier experience?",
+    "audioPrompt": "Yesterday dark clouds came before rain. Today a child sees dark clouds. Which question asks whether yesterday's weather pattern happens again?",
     "structuredExplanation": {
-      "summary": "The prediction uses the earlier experience of dark clouds before rain."
+      "summary": "The child can look to see whether rain follows the dark clouds."
     }
   },
   {
@@ -125,19 +125,19 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9SFI01",
     "bank": "practice",
     "skill": "pose investigable questions",
-    "question": "A child saw many ants near an apple core and only a few ants near a leaf. Which question compares the two places now?",
-    "explanation": "Looking now can help compare the number of ants in the two places.",
+    "question": "Yesterday a child saw many ants near an apple core and few ants near a leaf. Today the apple core and leaf are still outside. Which question compares the two places?",
+    "explanation": "This question can be checked by looking at both places.",
     "printable": true,
     "type": "single",
     "answers": [
-      "Which ants did we see yesterday?",
+      "Is the apple core red?",
       "Are there more ants near the apple core than near the leaf?",
-      "Which ants do we like best?"
+      "Did the leaf fall yesterday?"
     ],
     "correct": 1,
-    "audioPrompt": "A child saw many ants near an apple core and only a few ants near a leaf. Which question compares the two places now?",
+    "audioPrompt": "Yesterday a child saw many ants near an apple core and few ants near a leaf. Today the apple core and leaf are still outside. Which question compares the two places?",
     "structuredExplanation": {
-      "summary": "Looking now can help compare the number of ants in the two places."
+      "summary": "This question can be checked by looking at both places."
     }
   },
   {
@@ -145,19 +145,19 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9SFI01",
     "bank": "practice",
     "skill": "make predictions from experience",
-    "question": "A dry sponge took in water yesterday. It has dried again. What prediction best matches putting it in water today?",
-    "explanation": "The prediction uses the child's earlier experience with the sponge.",
+    "question": "A dry sponge took in drops of water yesterday. It has dried again. Which prediction best fits putting drops on it today?",
+    "explanation": "The child uses what happened with the dry sponge before.",
     "printable": true,
     "type": "single",
     "answers": [
-      "The sponge may stay dry in water.",
-      "The sponge may block all water.",
-      "The sponge may take in water again."
+      "The sponge might stay dry.",
+      "The drops might run off only.",
+      "The sponge might take in drops."
     ],
     "correct": 2,
-    "audioPrompt": "A dry sponge took in water yesterday. It has dried again. What prediction best matches putting it in water today?",
+    "audioPrompt": "A dry sponge took in drops of water yesterday. It has dried again. Which prediction best fits putting drops on it today?",
     "structuredExplanation": {
-      "summary": "The prediction uses the child's earlier experience with the sponge."
+      "summary": "The child uses what happened with the dry sponge before."
     }
   },
   {
@@ -165,19 +165,19 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9SFI01",
     "bank": "practice",
     "skill": "pose investigable questions",
-    "question": "A child wants to know if a seedling grew overnight. Which question matches this investigation?",
-    "explanation": "Comparing height can help answer whether the seedling grew.",
+    "question": "Yesterday a child marked a seedling's height on a stick. Which question asks whether the seedling grew since yesterday?",
+    "explanation": "The mark helps the child check whether the seedling grew.",
     "printable": true,
     "type": "single",
     "answers": [
-      "Is the seedling taller today?",
-      "Is the seedling in a pot?",
-      "Is the seedling green?"
+      "Is it taller than yesterday's mark?",
+      "Is the pot round?",
+      "Does the soil look dark?"
     ],
     "correct": 0,
-    "audioPrompt": "A child wants to know if a seedling grew overnight. Which question matches this investigation?",
+    "audioPrompt": "Yesterday a child marked a seedling's height on a stick. Which question asks whether the seedling grew since yesterday?",
     "structuredExplanation": {
-      "summary": "Comparing height can help answer whether the seedling grew."
+      "summary": "The mark helps the child check whether the seedling grew."
     }
   },
   {
@@ -185,19 +185,19 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9SFI01",
     "bank": "practice",
     "skill": "make predictions from experience",
-    "question": "A class saw snails after rain last week. What is the best supported prediction after rain today?",
-    "explanation": "The prediction uses a past observation after rain.",
+    "question": "A class found snails under damp leaves after rain. Which prediction best matches where the class found snails before?",
+    "explanation": "The class uses its earlier rainy-day experience to choose where to look.",
     "printable": true,
     "type": "single",
     "answers": [
-      "They may see only ants.",
-      "They may see dry dust.",
-      "They may see snails again."
+      "We might find snails on a sunny dry path.",
+      "We might find snails beside dry sand.",
+      "We might find snails under damp leaves."
     ],
     "correct": 2,
-    "audioPrompt": "A class saw snails after rain last week. What is the best supported prediction after rain today?",
+    "audioPrompt": "A class found snails under damp leaves after rain. Which prediction best matches where the class found snails before?",
     "structuredExplanation": {
-      "summary": "The prediction uses a past observation after rain."
+      "summary": "The class uses its earlier rainy-day experience to choose where to look."
     }
   },
   {
@@ -225,19 +225,19 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9SFI01",
     "bank": "practice",
     "skill": "make predictions from experience",
-    "question": "Yesterday, a feather moved when a child gently blew on it. Which prediction best matches a new gentle blow today?",
-    "explanation": "The prediction best matches what happened when air pushed the feather before.",
+    "question": "A feather moved a little when a child blew gently on it. Which sentence is a prediction for a stronger blow?",
+    "explanation": "This says what might happen when the blow is changed.",
     "printable": true,
     "type": "single",
     "answers": [
-      "It may stay still this time.",
-      "It may move.",
-      "It may get heavier."
+      "The feather felt soft.",
+      "It might move farther.",
+      "The feather was white."
     ],
     "correct": 1,
-    "audioPrompt": "Yesterday, a feather moved when a child gently blew on it. Which prediction best matches a new gentle blow today?",
+    "audioPrompt": "A feather moved a little when a child blew gently on it. Which sentence is a prediction for a stronger blow?",
     "structuredExplanation": {
-      "summary": "The prediction best matches what happened when air pushed the feather before."
+      "summary": "This says what might happen when the blow is changed."
     }
   },
   {
@@ -245,19 +245,19 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9SFI01",
     "bank": "practice",
     "skill": "pose investigable questions",
-    "question": "A plant near the window grew well. Which question asks whether another plant will grow well in the same place?",
-    "explanation": "The question uses an earlier experience with a plant near the window.",
+    "question": "A plant near the window grew a new leaf. Another small plant is put near the same window. Which question asks about a new leaf growing by Friday?",
+    "explanation": "The question asks about an observable change in the new plant.",
     "printable": true,
     "type": "single",
     "answers": [
-      "Will this plant grow better in the cupboard?",
-      "Will this plant grow well near the window?",
-      "Is this plant in a pot?"
+      "Is the pot near the window now?",
+      "Will this plant grow a new leaf by Friday?",
+      "Was the first plant green?"
     ],
     "correct": 1,
-    "audioPrompt": "A plant near the window grew well. Which question asks whether another plant will grow well in the same place?",
+    "audioPrompt": "A plant near the window grew a new leaf. Another small plant is put near the same window. Which question asks about a new leaf growing by Friday?",
     "structuredExplanation": {
-      "summary": "The question uses an earlier experience with a plant near the window."
+      "summary": "The question asks about an observable change in the new plant."
     }
   },
   {
@@ -265,19 +265,19 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9SFI01",
     "bank": "practice",
     "skill": "pose investigable questions",
-    "question": "A child saw a shadow change during the day. Which question checks whether that change happens again tomorrow?",
-    "explanation": "The question asks whether the change noticed before happens again.",
+    "question": "A child traced a shadow in the morning and afternoon. The shadow looked different. What question could the child ask tomorrow?",
+    "explanation": "The question can be checked by looking at the shadow at different times.",
     "printable": true,
     "type": "single",
     "answers": [
-      "Will the shadow change again?",
-      "What shape was the shadow yesterday?",
-      "Is the shadow darker than the wall?"
+      "Will the shadow change during the day?",
+      "Was the chalk blue?",
+      "Is the wall tall?"
     ],
     "correct": 0,
-    "audioPrompt": "A child saw a shadow change during the day. Which question checks whether that change happens again tomorrow?",
+    "audioPrompt": "A child traced a shadow in the morning and afternoon. The shadow looked different. What question could the child ask tomorrow?",
     "structuredExplanation": {
-      "summary": "The question asks whether the change noticed before happens again."
+      "summary": "The question can be checked by looking at the shadow at different times."
     }
   },
   {
@@ -285,19 +285,19 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9SFI01",
     "bank": "practice",
     "skill": "make predictions from experience",
-    "question": "A paper plane flew across the mat when thrown gently from the same spot. What prediction best matches trying the same throw again?",
-    "explanation": "The child uses what happened before under similar conditions to make a prediction.",
+    "question": "A paper plane flew farther with a stronger throw than with a gentler throw. Which prediction best fits trying another stronger throw?",
+    "explanation": "The child uses the earlier throwing comparison to make a prediction.",
     "printable": true,
     "type": "single",
     "answers": [
-      "It may fly less than one step.",
-      "It may land behind the thrower.",
-      "It may fly across the mat again."
+      "It might fly a shorter distance than the gentler throw.",
+      "It might fly the same distance as the gentler throw.",
+      "It might fly farther than the gentler throw."
     ],
     "correct": 2,
-    "audioPrompt": "A paper plane flew across the mat when thrown gently from the same spot. What prediction best matches trying the same throw again?",
+    "audioPrompt": "A paper plane flew farther with a stronger throw than with a gentler throw. Which prediction best fits trying another stronger throw?",
     "structuredExplanation": {
-      "summary": "The child uses what happened before under similar conditions to make a prediction."
+      "summary": "The child uses the earlier throwing comparison to make a prediction."
     }
   },
   {
@@ -305,19 +305,19 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9SFI01",
     "bank": "practice",
     "skill": "pose investigable questions",
-    "question": "Yesterday, a child noticed holes in two leaves. Which question asks about comparing their holes today?",
-    "explanation": "The question builds on the holes the child noticed before.",
+    "question": "A child sees holes on two leaves. Which question compares the number of holes?",
+    "explanation": "This question compares something the child can observe.",
     "printable": true,
     "type": "single",
     "answers": [
-      "Which leaf is the best?",
-      "Which leaf was picked first?",
+      "Which leaf has a nicer shape?",
+      "Which leaf has a darker colour?",
       "Which leaf has more holes?"
     ],
     "correct": 2,
-    "audioPrompt": "Yesterday, a child noticed holes in two leaves. Which question asks about comparing their holes today?",
+    "audioPrompt": "A child sees holes on two leaves. Which question compares the number of holes?",
     "structuredExplanation": {
-      "summary": "The question builds on the holes the child noticed before."
+      "summary": "This question compares something the child can observe."
     }
   },
   {
@@ -325,19 +325,19 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9SFI01",
     "bank": "practice",
     "skill": "connect experience to inquiry",
-    "question": "A child says, “I think the clay will sink because it sank yesterday.” What is the child doing?",
-    "explanation": "The child uses yesterday's experience to predict what may happen.",
+    "question": "A child says, “I think the clay will sink because it sank yesterday.” What is the child making?",
+    "explanation": "The child says what might happen and gives a reason from before.",
     "printable": true,
     "type": "single",
     "answers": [
-      "Making a question from experience",
-      "Making a prediction from experience",
-      "Making an observation now"
+      "A question",
+      "A prediction",
+      "A colour observation"
     ],
     "correct": 1,
-    "audioPrompt": "A child says, “I think the clay will sink because it sank yesterday.” What is the child doing?",
+    "audioPrompt": "A child says, “I think the clay will sink because it sank yesterday.” What is the child making?",
     "structuredExplanation": {
-      "summary": "The child uses yesterday's experience to predict what may happen."
+      "summary": "The child says what might happen and gives a reason from before."
     }
   },
   {
@@ -345,19 +345,19 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9SFI01",
     "bank": "practice",
     "skill": "pose investigable questions",
-    "question": "A class notices bees visited yellow flowers yesterday. Which question checks whether bees visit the same flowers again?",
-    "explanation": "The question checks whether yesterday's observation happens again.",
+    "question": "A class noticed bees visiting yellow flowers yesterday. Which question asks whether bees return to the same flowers?",
+    "explanation": "This follows from the class's earlier flower observation.",
     "printable": true,
     "type": "single",
     "answers": [
-      "Will bees visit yellow flowers today?",
-      "Are yellow flowers taller than red flowers?",
-      "How many petals are on one flower?"
+      "Will bees visit these yellow flowers again?",
+      "Are these flowers taller than the fence?",
+      "Do red flowers have more petals?"
     ],
     "correct": 0,
-    "audioPrompt": "A class notices bees visited yellow flowers yesterday. Which question checks whether bees visit the same flowers again?",
+    "audioPrompt": "A class noticed bees visiting yellow flowers yesterday. Which question asks whether bees return to the same flowers?",
     "structuredExplanation": {
-      "summary": "The question checks whether yesterday's observation happens again."
+      "summary": "This follows from the class's earlier flower observation."
     }
   },
   {
@@ -405,19 +405,19 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9SFI01",
     "bank": "practice",
     "skill": "make predictions from experience",
-    "question": "A child saw a toy car move faster on a steeper ramp than on a low ramp. Which prediction is best supported for another steeper ramp test?",
-    "explanation": "The child uses ramp experience to predict a change in movement.",
+    "question": "The toy car moved faster on the steep ramp than on the low ramp. Which prediction best fits trying the steep ramp again?",
+    "explanation": "The prediction includes the comparison point: the low ramp.",
     "printable": true,
     "type": "single",
     "answers": [
-      "It may stop at the top.",
-      "It may move faster.",
-      "It may move exactly the same."
+      "It might move slower than on the low ramp.",
+      "It might move faster than on the low ramp.",
+      "It might move the same as on the low ramp."
     ],
     "correct": 1,
-    "audioPrompt": "A child saw a toy car move faster on a steeper ramp than on a low ramp. Which prediction is best supported for another steeper ramp test?",
+    "audioPrompt": "The toy car moved faster on the steep ramp than on the low ramp. Which prediction best fits trying the steep ramp again?",
     "structuredExplanation": {
-      "summary": "The child uses ramp experience to predict a change in movement."
+      "summary": "The prediction includes the comparison point: the low ramp."
     }
   },
   {
@@ -445,19 +445,19 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9SFI01",
     "bank": "practice",
     "skill": "make predictions from experience",
-    "question": "Which magnet prediction uses an earlier observation?",
-    "explanation": "The prediction uses what happened before with the magnet and paperclip.",
+    "question": "A magnet picked up a paperclip but not a plastic button. Which prediction uses that experience?",
+    "explanation": "The prediction matches what happened with the paperclip.",
     "printable": true,
     "type": "single",
     "answers": [
-      "The magnet is shiny, so it is pretty.",
-      "The paperclip is small, so it is light.",
-      "The magnet picked up a paperclip before, so it may pick one up again."
+      "It might pick up the plastic button next time.",
+      "It might pick up neither object next time.",
+      "It might pick up another paperclip."
     ],
     "correct": 2,
-    "audioPrompt": "Which magnet prediction uses an earlier observation?",
+    "audioPrompt": "A magnet picked up a paperclip but not a plastic button. Which prediction uses that experience?",
     "structuredExplanation": {
-      "summary": "The prediction uses what happened before with the magnet and paperclip."
+      "summary": "The prediction matches what happened with the paperclip."
     }
   },
   {
@@ -465,19 +465,19 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9SFI01",
     "bank": "practice",
     "skill": "pose investigable questions",
-    "question": "A child asks, “Will the wet path dry in the sun?” Why is this a useful science question?",
-    "explanation": "The child can watch the path to see whether it dries.",
+    "question": "A child asks, “Will the wet path dry in the sun?” Why is this a useful question?",
+    "explanation": "The child can watch the path and find out.",
     "printable": true,
     "type": "single",
     "answers": [
-      "It asks about the path colour.",
-      "It can be checked by observing.",
-      "It is already answered in the question."
+      "It describes what happened yesterday.",
+      "It can be checked by watching.",
+      "It tells us the answer already."
     ],
     "correct": 1,
-    "audioPrompt": "A child asks, “Will the wet path dry in the sun?” Why is this a useful science question?",
+    "audioPrompt": "A child asks, “Will the wet path dry in the sun?” Why is this a useful question?",
     "structuredExplanation": {
-      "summary": "The child can watch the path to see whether it dries."
+      "summary": "The child can watch the path and find out."
     }
   }
 ];
