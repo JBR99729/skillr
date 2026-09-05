@@ -1850,12 +1850,56 @@ document.addEventListener("DOMContentLoaded", () => {
     firstControl?.focus();
   }
 
+  function normaliseVisualPrompt(question) {
+    const displayQuestion = { ...question };
+    const text = String(question.question || "");
+    const visualMatch = text.match(/^\s*\[Show\s+([^\]]+)\]\s*(.*)$/i);
+
+    if (!visualMatch) return displayQuestion;
+
+    displayQuestion.question = visualMatch[2].trim() || text;
+
+    if (!displayQuestion.visual && !displayQuestion.visualHtml) {
+      displayQuestion.visual = renderVisualPromptText(visualMatch[1]);
+    }
+
+    return displayQuestion;
+  }
+
+  function renderVisualPromptText(prompt) {
+    const cleanPrompt = String(prompt || "")
+      .replace(/\s+/g, " ")
+      .replace(/\.$/, "")
+      .trim();
+    const groupMatches = [...cleanPrompt.matchAll(
+      /Group\s+([A-Z])\s+with\s+(\d+)\s+(?:dots?|counters?|stars?)/gi
+    )];
+
+    if (groupMatches.length) {
+      return groupMatches
+        .map((match) => `Group ${match[1].toUpperCase()}: ${"● ".repeat(Number(match[2])).trim()}`)
+        .join("\n");
+    }
+
+    const quantityMatch = cleanPrompt.match(
+      /(\d+)\s+(dots?|counters?|stars?)/i
+    );
+
+    if (quantityMatch) {
+      return "● ".repeat(Number(quantityMatch[1])).trim();
+    }
+
+    return cleanPrompt;
+  }
+
   function renderQuestion() {
     stopReadAloud();
     resetQuestionState();
 
     const question =
       activeQuestions[currentQuestionIndex];
+    const displayQuestion =
+      normaliseVisualPrompt(question);
 
     const position =
       currentQuestionIndex + 1;
@@ -1870,16 +1914,16 @@ const previousVisual =
 
 previousVisual?.remove();
 
-if (question.visual || question.visualHtml) {
+if (displayQuestion.visual || displayQuestion.visualHtml) {
   const visual =
     document.createElement("div");
 
   visual.id = "questionVisual";
   visual.className = "question-visual";
-  if (question.visualHtml) {
-    visual.innerHTML = question.visualHtml;
+  if (displayQuestion.visualHtml) {
+    visual.innerHTML = displayQuestion.visualHtml;
   } else {
-    visual.textContent = question.visual;
+    visual.textContent = displayQuestion.visual;
   }
 
   elements.questionText.insertAdjacentElement(
@@ -1888,7 +1932,7 @@ if (question.visual || question.visualHtml) {
   );
 }
     elements.questionText.textContent =
-      question.question;
+      displayQuestion.question;
 
     elements.progressText.textContent =
       `Question ${position} of ${activeQuestions.length}`;
