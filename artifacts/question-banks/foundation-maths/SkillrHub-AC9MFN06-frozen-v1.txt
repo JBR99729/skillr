@@ -1,0 +1,378 @@
+SkillrHub Frozen Question Bank
+Foundation Maths — AC9MFN06
+Equal sharing and grouping
+
+Status: APPROVED FOR FREEZING by user review, with group-boundary and option-length guidance applied.
+Version: frozen-v1
+
+Adult guidance: Read aloud. Children may use counters, blocks, drawings, toy food, cups, plates or boxes. The focus is representing fair sharing and equal groups, not formal multiplication or division symbols. In production, show each group as a clearly separate plate, mat, child, bag, box or cluster rather than relying only on a thin divider.
+
+PRACTICE QUESTIONS 1–24
+
+P01. There are 4 apples. They are shared equally between 2 children. How many apples does each child get?
+
+A. 1
+B. 2
+C. 4
+
+Answer: B
+Explanation: Sharing 4 apples fairly between 2 children gives each child 2 apples.
+
+P02. There are 6 biscuits. They are shared equally onto 2 plates. How many biscuits go on each plate?
+
+A. 2
+B. 3
+C. 4
+
+Answer: B
+Explanation: 3 biscuits on each plate makes 6 altogether.
+
+P03. There are 8 counters. They are shared equally between 4 mats. How many counters go on each mat?
+
+A. 2
+B. 3
+C. 4
+
+Answer: A
+Explanation: Each mat gets 2 counters because 2, 2, 2 and 2 make 8.
+
+P04. There are 10 grapes. They are shared equally between 2 children. How many grapes does each child get?
+
+A. 4
+B. 5
+C. 6
+
+Answer: B
+Explanation: 5 grapes and 5 grapes make 10 grapes.
+
+P05. Which picture shows fair sharing?
+
+A. Child 1: ● ●    Child 2: ● ●
+B. Child 1: ● ● ●    Child 2: ●
+C. Child 1: ● ● ● ●    Child 2: none
+
+Answer: A
+Explanation: Fair sharing means each child gets the same number.
+
+P06. Which picture does not show fair sharing?
+
+A. Plate 1: ● ●    Plate 2: ● ●
+B. Plate 1: ● ● ●    Plate 2: ● ● ●
+C. Plate 1: ● ● ●    Plate 2: ●
+
+Answer: C
+Explanation: Plate 1 has 3 and Plate 2 has 1, so the shares are not equal.
+
+P07. There are 9 shells. They are shared equally between 3 children. How many shells does each child get?
+
+A. 2
+B. 3
+C. 4
+
+Answer: B
+Explanation: Each child gets 3 shells because 3, 3 and 3 make 9.
+
+P08. There are 6 blocks. Put 2 blocks in each box. How many boxes can be filled?
+
+A. 2
+B. 3
+C. 4
+
+Answer: B
+Explanation: 6 blocks can make 3 equal groups of 2.
+
+P09. There are 8 toy cars. Put 4 toy cars in each garage. How many garages are needed?
+
+A. 2
+B. 3
+C. 4
+
+Answer: A
+Explanation: 4 cars in one garage and 4 cars in another garage use all 8 cars.
+
+P10. Which shows 3 equal groups of 2?
+
+A. Group 1: ● ●    Group 2: ● ●    Group 3: ● ●
+B. Group 1: ● ● ●    Group 2: ● ●
+C. Group 1: ●    Group 2: ● ●    Group 3: ● ● ●
+
+Answer: A
+Explanation: Each group has 2 counters, and there are 3 groups.
+
+P11. Which shows 2 equal groups of 4?
+
+A. Group 1: ● ● ● ●    Group 2: ● ● ● ●
+B. Group 1: ● ●    Group 2: ● ●    Group 3: ● ●    Group 4: ● ●
+C. Group 1: ● ● ●    Group 2: ● ● ● ●
+
+Answer: A
+Explanation: There are 2 groups, and each group has 4 counters.
+
+P12. Which group has equal parts?
+
+A. Part 1: ● ● ●    Part 2: ● ● ●
+B. Part 1: ● ● ●    Part 2: ● ●
+C. Part 1: ● ● ● ●    Part 2: ●
+
+Answer: A
+Explanation: Both parts have 3 counters.
+
+P13. There are 5 stickers. Can they be shared equally between 2 children with none left over?
+
+A. Yes
+B. No
+C. Hide one
+
+Answer: B
+Explanation: 5 cannot be shared equally between 2 children with none left over.
+
+P14. There are 7 counters. Can they be put into groups of 2 with none left over?
+
+A. Yes
+B. No
+C. Add a group
+
+Answer: B
+Explanation: Groups of 2 use 2, 4, 6 counters, with 1 counter left over.
+
+P15. There are 10 socks. Put 2 socks in each pair. How many pairs can be made?
+
+A. 4
+B. 5
+C. 6
+
+Answer: B
+Explanation: 10 socks make 5 equal groups of 2.
+
+P16. There are 8 children. Put 2 children in each team. How many teams are there?
+
+A. 2
+B. 4
+C. 6
+
+Answer: B
+Explanation: 8 children can make 4 teams of 2.
+
+P17. Which story is about equal sharing?
+
+A. Fairly between 2 bowls
+B. Count one by one
+C. One big pile
+
+Answer: A
+Explanation: Sharing fairly between bowls is an equal sharing situation.
+
+P18. Which story is about grouping?
+
+A. 2 crayons in each cup
+B. All crayons to one child
+C. Count without moving
+
+Answer: A
+Explanation: Grouping means making groups of the same size.
+
+P19. There are 6 cupcakes. Each box holds 3 cupcakes. How many boxes are needed?
+
+A. 1
+B. 2
+C. 3
+
+Answer: B
+Explanation: 3 cupcakes in each box makes 2 boxes.
+
+P20. There are 10 counters. Each group has 5 counters. How many groups are there?
+
+A. 2
+B. 3
+C. 5
+
+Answer: A
+Explanation: 10 counters can make 2 groups of 5.
+
+P21. Which picture shows 4 groups of 2?
+
+A. Group 1: ● ●    Group 2: ● ●    Group 3: ● ●    Group 4: ● ●
+B. Group 1: ● ● ● ●    Group 2: ● ●
+C. Group 1: ● ●    Group 2: ● ● ●    Group 3: ●
+
+Answer: A
+Explanation: There are 4 groups, and each group has 2 counters.
+
+P22. Which picture shows 2 groups of 3?
+
+A. Group 1: ● ● ●    Group 2: ● ● ●
+B. Group 1: ● ●    Group 2: ● ●    Group 3: ● ●
+C. Group 1: ● ● ● ●    Group 2: ● ●
+
+Answer: A
+Explanation: There are 2 groups, and each group has 3 counters.
+
+P23. Three children share 6 pencils fairly. Which picture matches?
+
+A. Child 1: ● ●    Child 2: ● ●    Child 3: ● ●
+B. Child 1: ● ● ●    Child 2: ● ●    Child 3: ●
+C. Child 1: ● ● ● ●    Child 2: ●    Child 3: ●
+
+Answer: A
+Explanation: Each child gets 2 pencils, so the sharing is fair.
+
+P24. Which answer gives a good reason?
+
+Story: 8 flowers are shared equally between 2 vases.
+
+A. 4 and 4 make 8.
+B. There are 2 vases.
+C. Each vase gets 8.
+
+Answer: A
+Explanation: Fair sharing means both vases get the same number, and 4 plus 4 is 8.
+
+TEST QUESTIONS 1–16
+
+T01. There are 6 oranges. They are shared equally between 3 children. How many oranges does each child get?
+
+A. 1
+B. 2
+C. 3
+
+Answer: B
+Explanation: Each child gets 2 oranges because 2, 2 and 2 make 6.
+
+T02. There are 8 biscuits. They are shared equally between 2 plates. How many biscuits go on each plate?
+
+A. 4
+B. 5
+C. 6
+
+Answer: A
+Explanation: 4 biscuits on each plate makes 8 altogether.
+
+T03. Which picture shows fair sharing?
+
+A. Plate 1: ● ● ●    Plate 2: ● ● ●
+B. Plate 1: ● ● ● ●    Plate 2: ● ●
+C. Plate 1: ● ● ● ● ●    Plate 2: ●
+
+Answer: A
+Explanation: Both plates have 3 counters.
+
+T04. Which picture does not show fair sharing?
+
+A. Child 1: ● ●    Child 2: ● ●
+B. Child 1: ● ● ●    Child 2: ● ● ●
+C. Child 1: ● ● ● ●    Child 2: ● ●
+
+Answer: C
+Explanation: 4 and 2 are not equal shares.
+
+T05. There are 10 beads. Put 2 beads in each bag. How many bags can be filled?
+
+A. 4
+B. 5
+C. 6
+
+Answer: B
+Explanation: 10 beads can make 5 groups of 2.
+
+T06. There are 9 blocks. Put 3 blocks in each tower. How many towers can be made?
+
+A. 2
+B. 3
+C. 4
+
+Answer: B
+Explanation: 9 blocks can make 3 equal groups of 3.
+
+T07. Which shows 2 equal groups of 5?
+
+A. Group 1: ● ● ● ● ●    Group 2: ● ● ● ● ●
+B. Group 1: ● ● ● ●    Group 2: ● ● ● ●
+C. Group 1: ● ● ●    Group 2: ● ● ● ● ●
+
+Answer: A
+Explanation: There are 2 groups, and each group has 5 counters.
+
+T08. Which shows 5 equal groups of 2?
+
+A. Group 1: ● ●    Group 2: ● ●    Group 3: ● ●    Group 4: ● ●    Group 5: ● ●
+B. Group 1: ● ● ● ● ●    Group 2: ● ●
+C. Group 1: ● ●    Group 2: ● ●    Group 3: ● ●
+
+Answer: A
+Explanation: There are 5 groups, and each group has 2 counters.
+
+T09. There are 7 apples. Can they be shared equally between 2 baskets with none left over?
+
+A. Yes
+B. No
+C. Hide one
+
+Answer: B
+Explanation: 7 cannot be split into two equal whole-number shares.
+
+T10. There are 5 counters. Can they be put into groups of 2 with none left over?
+
+A. Yes
+B. No
+C. Unequal groups
+
+Answer: B
+Explanation: Groups of 2 use 2 and 4 counters, with 1 counter left over.
+
+T11. Which story is about grouping?
+
+A. 3 shells in each cup
+B. One long line
+C. All to one child
+
+Answer: A
+Explanation: Making equal groups of 3 is grouping.
+
+T12. Which story is about equal sharing?
+
+A. Fairly between 4 children
+B. One bowl
+C. Count and leave
+
+Answer: A
+Explanation: Sharing fairly between children is equal sharing.
+
+T13. There are 4 children and 8 counters. Each child gets the same number. How many counters does each child get?
+
+A. 1
+B. 2
+C. 4
+
+Answer: B
+Explanation: 8 counters shared equally between 4 children gives each child 2.
+
+T14. There are 10 blocks. Each tower has 5 blocks. How many towers can be made?
+
+A. 2
+B. 5
+C. 10
+
+Answer: A
+Explanation: 10 blocks can make 2 equal groups of 5.
+
+T15. Which picture matches “share 6 lollies equally between 2 bags”?
+
+A. Bag 1: ● ● ●    Bag 2: ● ● ●
+B. Bag 1: ● ● ● ●    Bag 2: ● ●
+C. Bag 1: ● ● ● ● ●    Bag 2: ●
+
+Answer: A
+Explanation: Each bag gets 3 lollies.
+
+T16. Which answer gives a good reason?
+
+Story: 9 strawberries are put into groups of 3.
+
+A. 3, 3 and 3 make 9.
+B. There are 9 groups.
+C. 9 is bigger than 3.
+
+Answer: A
+Explanation: Three equal groups of 3 use all 9 strawberries.
+
+Coverage: equal sharing; fair and unfair shares; making equal groups; finding the number in each share; finding the number of groups; recognising leftovers; explaining reasoning with counting and small subitised groups.
