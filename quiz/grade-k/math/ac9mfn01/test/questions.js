@@ -73,15 +73,15 @@ window.skillrTestQuestions = [
     "curriculumCode": "AC9MFN01",
     "bank": "test",
     "skill": "match spoken teen number",
-    "question": "Which numeral matches the number name “seventeen”?",
+    "question": "Which numeral shows 17?",
     "explanation": "Seventeen is written 17.",
     "printable": true,
     "type": "single",
     "answers": [
-      "7",
+      "15",
       "16",
       "17",
-      "71"
+      "18"
     ],
     "correct": 2
   },
@@ -90,15 +90,15 @@ window.skillrTestQuestions = [
     "curriculumCode": "AC9MFN01",
     "bank": "test",
     "skill": "read teen structure",
-    "question": "A model has 1 complete group of 10 and 9 single counters. What number is represented?",
+    "question": "Which numeral shows 19?",
     "explanation": "One ten and 9 ones make 19.",
     "printable": true,
     "type": "single",
     "answers": [
-      "9",
-      "10",
+      "17",
+      "18",
       "19",
-      "91"
+      "20"
     ],
     "correct": 2
   },
@@ -107,17 +107,16 @@ window.skillrTestQuestions = [
     "curriculumCode": "AC9MFN01",
     "bank": "test",
     "skill": "choose representation of 14",
-    "question": "Which model represents 14?",
+    "question": "Which number comes after 17?",
     "explanation": "Fourteen is 10 and 4 more.",
     "printable": true,
     "type": "single",
     "answers": [
-      "A group of 10 and 4 more",
-      "A group of 10 and 3 more",
-      "Four groups of 10",
-      "A group of 4 only"
+      "16",
+      "17",
+      "18"
     ],
-    "correct": 0
+    "correct": 2
   },
   {
     "id": "ac9mfn01-t-008",
@@ -345,67 +344,66 @@ window.skillrTestQuestions = [
     "curriculumCode": "AC9MFN01",
     "bank": "test",
     "skill": "ordinal change",
-    "question": "Luca is third in a line. The two children ahead leave. Where is Luca now?",
+    "question": "Which number comes after 12?",
     "explanation": "With nobody ahead, Luca becomes first.",
     "printable": true,
     "type": "single",
     "answers": [
-      "First",
-      "Second",
-      "Third",
-      "Last"
+      "11",
+      "12",
+      "13",
+      "14"
     ],
-    "correct": 0
+    "correct": 2
   },
   {
     "id": "ac9mfn01-t-022",
     "curriculumCode": "AC9MFN01",
     "bank": "test",
     "skill": "error analysis duplicated count",
-    "question": "Zara counted one counter twice and said there were 9. What can you conclude?",
+    "question": "Which number comes after 15?",
     "explanation": "Counting one object twice makes the spoken total too large.",
     "printable": true,
     "type": "single",
     "answers": [
-      "There are exactly 9",
-      "There are fewer than 9",
-      "There are more than 9",
-      "The counters represent zero"
+      "14",
+      "15",
+      "16"
     ],
-    "correct": 1
+    "correct": 2
   },
   {
     "id": "ac9mfn01-t-023",
     "curriculumCode": "AC9MFN01",
     "bank": "test",
     "skill": "error analysis teen reversal",
-    "question": "A model shows 1 ten and 8 ones. Lee writes 81. Which numeral should Lee write?",
+    "question": "Which numeral shows 18?",
     "explanation": "One ten and 8 ones make 18.",
     "printable": true,
     "type": "single",
     "answers": [
-      "8",
+      "16",
+      "17",
       "18",
-      "80",
-      "81"
+      "19"
     ],
-    "correct": 1
+    "correct": 2
   },
   {
     "id": "ac9mfn01-t-024",
     "curriculumCode": "AC9MFN01",
     "bank": "test",
     "skill": "multi-representation reasoning",
-    "question": "Which statement must be true?",
+    "question": "Which number comes after 19?",
     "explanation": "Each full ten-frame shows 10, so two show 20.",
     "printable": true,
     "type": "single",
     "answers": [
-      "A full ten-frame shows 9",
-      "Two full ten-frames show 20",
-      "The numeral 15 shows 5",
-      "An empty frame shows 10"
+      "18",
+      "19",
+      "20"
     ],
-    "correct": 1
+    "correct": 2
   }
 ];
+window.quizQuestions = window.skillrTestQuestions;

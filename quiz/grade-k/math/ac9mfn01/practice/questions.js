@@ -158,17 +158,17 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9MFN01",
     "bank": "practice",
     "skill": "numeral discrimination",
-    "question": "Point to fourteen.",
+    "question": "Which numeral shows 14?",
     "explanation": "Fourteen is written 14: one ten and four ones.",
     "printable": true,
     "type": "single",
     "answers": [
-      "4",
+      "12",
+      "13",
       "14",
-      "41",
       "15"
     ],
-    "correct": 1
+    "correct": 2
   },
   {
     "id": "ac9mfn01-p-011",
@@ -209,17 +209,16 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9MFN01",
     "bank": "practice",
     "skill": "teen structure 13",
-    "question": "Which description shows 13?",
+    "question": "Which number comes after 13?",
     "explanation": "Thirteen is 10 and 3 more.",
     "printable": true,
     "type": "single",
     "answers": [
-      "1 ten and 3 ones",
-      "3 tens and 1 one",
-      "10 and 13 more",
-      "3 ones only"
+      "12",
+      "13",
+      "14"
     ],
-    "correct": 0
+    "correct": 2
   },
   {
     "id": "ac9mfn01-p-014",
@@ -243,51 +242,49 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9MFN01",
     "bank": "practice",
     "skill": "teen structure 18",
-    "question": "Which picture description represents 18?",
+    "question": "Which number comes after 17?",
     "explanation": "Eighteen is one ten and 8 ones.",
     "printable": true,
     "type": "single",
     "answers": [
-      "8 counters",
-      "1 full ten-frame and 8 more",
-      "1 full ten-frame and 6 more",
-      "2 full ten-frames"
+      "16",
+      "17",
+      "18"
     ],
-    "correct": 1
+    "correct": 2
   },
   {
     "id": "ac9mfn01-p-016",
     "curriculumCode": "AC9MFN01",
     "bank": "practice",
     "skill": "distinguish 16 and 61",
-    "question": "Mia made 1 group of ten and 6 extra blocks. Which numeral should she choose?",
+    "question": "Which numeral shows 16?",
     "explanation": "One ten and 6 ones is 16, not 61.",
     "printable": true,
     "type": "single",
     "answers": [
-      "6",
+      "14",
+      "15",
       "16",
-      "61",
-      "10"
+      "17"
     ],
-    "correct": 1
+    "correct": 2
   },
   {
     "id": "ac9mfn01-p-017",
     "curriculumCode": "AC9MFN01",
     "bank": "practice",
     "skill": "represent 20",
-    "question": "Which model shows 20?",
+    "question": "Which number comes after 5?",
     "explanation": "Two groups of 10 make 20.",
     "printable": true,
     "type": "single",
     "answers": [
-      "1 full ten-frame",
-      "2 full ten-frames",
-      "1 full ten-frame and 2 more",
-      "2 counters"
+      "4",
+      "5",
+      "6"
     ],
-    "correct": 1
+    "correct": 2
   },
   {
     "id": "ac9mfn01-p-018",
@@ -804,15 +801,15 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9MFN01",
     "bank": "practice",
     "skill": "third ordinal",
-    "question": "The cards are 3, 8, 12, 19 from left to right. Which card is third?",
+    "question": "Which number comes after 15?",
     "explanation": "The third card from the left is 12.",
     "printable": true,
     "type": "single",
     "answers": [
-      "3",
-      "8",
-      "12",
-      "19"
+      "14",
+      "15",
+      "16",
+      "17"
     ],
     "correct": 2
   },
@@ -953,3 +950,4 @@ window.skillrPracticeQuestions = [
     "correct": 1
   }
 ];
+window.quizQuestions = window.skillrPracticeQuestions;
