@@ -124,20 +124,20 @@ window.skillrTestQuestions = [
     "id": "ac9sfu03-t-007",
     "curriculumCode": "AC9SFU03",
     "bank": "test",
-    "skill": "absorbency and water",
+    "skill": "water and material properties",
     "question": "A dry cotton cloth touches a spill and water spreads in. Which property is shown?",
-    "explanation": "Absorbing water means taking water into the material.",
+    "explanation": "The cloth takes water into the material.",
     "printable": true,
     "type": "single",
     "answers": [
       "It is shiny",
       "It is stiff",
-      "It absorbs water"
+      "It takes in water"
     ],
     "correct": 2,
     "audioPrompt": "A dry cotton cloth touches a spill and water spreads in. Which property is shown?",
     "structuredExplanation": {
-      "summary": "Absorbing water means taking water into the material."
+      "summary": "The cloth takes water into the material."
     }
   },
   {
@@ -145,8 +145,8 @@ window.skillrTestQuestions = [
     "curriculumCode": "AC9SFU03",
     "bank": "test",
     "skill": "observable material properties",
-    "question": "A wooden board's surface does not dent when gently pressed. Which word best describes it?",
-    "explanation": "A hard material does not dent or squash easily when gently pressed.",
+    "question": "A child gently presses a wooden block and a soft sponge. The wooden block is harder to squash. Which word describes the wooden block?",
+    "explanation": "Hard materials are not easy to squash when gently pressed.",
     "printable": true,
     "type": "single",
     "answers": [
@@ -155,9 +155,9 @@ window.skillrTestQuestions = [
       "Stretchy"
     ],
     "correct": 0,
-    "audioPrompt": "A wooden board's surface does not dent when gently pressed. Which word best describes it?",
+    "audioPrompt": "A child gently presses a wooden block and a soft sponge. The wooden block is harder to squash. Which word describes the wooden block?",
     "structuredExplanation": {
-      "summary": "A hard material does not dent or squash easily when gently pressed."
+      "summary": "Hard materials are not easy to squash when gently pressed."
     }
   },
   {
@@ -264,20 +264,20 @@ window.skillrTestQuestions = [
     "id": "ac9sfu03-t-014",
     "curriculumCode": "AC9SFU03",
     "bank": "test",
-    "skill": "absorbency and water",
-    "question": "Water drops remain on waxed paper. Which report matches?",
-    "explanation": "The drops were observed on the surface.",
+    "skill": "texture of materials",
+    "question": "A child compares a clear ruler and a wooden ruler. Which one is see-through?",
+    "explanation": "A clear ruler lets the child see through it.",
     "printable": true,
     "type": "single",
     "answers": [
-      "Water soaked right in",
-      "Water passed through",
-      "Water stayed on top"
+      "Wooden ruler",
+      "Both rulers",
+      "Clear ruler"
     ],
     "correct": 2,
-    "audioPrompt": "Water drops remain on waxed paper. Which report matches?",
+    "audioPrompt": "A child compares a clear ruler and a wooden ruler. Which one is see-through?",
     "structuredExplanation": {
-      "summary": "The drops were observed on the surface."
+      "summary": "A clear ruler lets the child see through it."
     }
   },
   {
