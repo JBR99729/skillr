@@ -1,0 +1,647 @@
+SkillrHub Frozen Question Bank
+Foundation Maths — AC9MFN02
+Recognise and name collections up to 5 without counting
+
+Status: APPROVED FOR FREEZING by user review.
+Version: frozen-v1
+
+Adult guidance: Read the question aloud. Show the dot collection briefly, then cover it before the child answers. The goal is to see whether the child can recognise the quantity quickly, not count each dot one by one.
+
+PRACTICE QUESTIONS 1–24
+
+P01. How many dots do you see?
+
+●
+
+A. 2
+B. 1
+C. 3
+
+Answer: B
+Explanation: There is one dot.
+
+P02. How many dots do you see?
+
+● ●
+
+A. 2
+B. 3
+C. 1
+
+Answer: A
+Explanation: Two dots make a pair.
+
+P03. How many dots do you see?
+
+  ●
+●   ●
+
+A. 2
+B. 3
+C. 4
+
+Answer: B
+Explanation: This triangle arrangement shows three dots.
+
+P04. How many dots do you see?
+
+● ●
+● ●
+
+A. 3
+B. 4
+C. 5
+
+Answer: B
+Explanation: There are four dots arranged like the corners of a square.
+
+P05. How many dots do you see?
+
+●   ●
+  ●
+●   ●
+
+A. 4
+B. 5
+C. 3
+
+Answer: B
+Explanation: This familiar pattern shows five dots.
+
+P06. Which card shows 4 dots?
+
+A.
+● ●
+●
+
+B.
+● ●
+● ●
+
+C.
+● ●
+● ●
+●
+
+Answer: B
+Explanation: Card B shows four dots.
+
+P07. Which card shows 5 dots?
+
+A.
+●   ●
+  ●
+●   ●
+
+B.
+● ●
+● ●
+
+C.
+● ●
+●
+
+Answer: A
+Explanation: Card A shows five dots.
+
+P08. How many dots do you see?
+
+● ● ●
+●
+
+A. 3
+B. 4
+C. 5
+
+Answer: B
+Explanation: Three dots and one more make a group of four.
+
+P09. Which card shows 3 dots?
+
+A.
+● ●
+
+B.
+  ●
+●   ●
+
+C.
+● ●
+● ●
+
+Answer: B
+Explanation: Card B shows three dots in a triangle.
+
+P10. Which card shows 2 dots?
+
+A.
+●
+
+B.
+● ●
+
+C.
+● ● ●
+
+Answer: B
+Explanation: Card B shows two dots.
+
+P11. Which card shows 5 dots?
+
+A.
+● ●
+● ●
+
+B.
+● ●
+● ●
+●
+
+C.
+● ●
+●
+
+Answer: B
+Explanation: Card B shows five dots.
+
+P12. How many dots do you see?
+
+  ●
+● ●
+● ●
+
+A. 5
+B. 4
+C. 3
+
+Answer: A
+Explanation: The group shows five dots.
+
+P13. Which card matches this group?
+
+●
+●
+
+A.
+●
+
+B.
+● ●
+
+C.
+● ● ●
+
+Answer: B
+Explanation: The group and Card B both show two dots.
+
+P14. Which card matches this group?
+
+● ● ●
+
+A.
+● ●
+● ●
+
+B.
+●
+●
+
+C.
+  ●
+●   ●
+
+Answer: C
+Explanation: Card C also shows three dots.
+
+P15. Which card matches this group?
+
+● ●
+● ●
+
+A.
+● ● ●
+●
+
+B.
+● ● ●
+
+C.
+● ● ●
+● ●
+
+Answer: A
+Explanation: Both the group and Card A show four dots.
+
+P16. Which card matches this group?
+
+●   ●
+  ●
+●   ●
+
+A.
+● ●
+● ●
+
+B.
+● ● ●
+● ●
+
+C.
+●
+● ●
+
+Answer: B
+Explanation: Both the group and Card B show five dots.
+
+P17. Which card has more dots?
+
+Card A:
+● ●
+
+Card B:
+  ●
+●   ●
+
+A. Card A
+B. Card B
+C. They have the same number
+
+Answer: B
+Explanation: Card B has three dots. Card A has two dots.
+
+P18. Which card has fewer dots?
+
+Card A:
+●
+
+Card B:
+● ● ●
+
+A. Card A
+B. Card B
+C. They have the same number
+
+Answer: A
+Explanation: One dot is fewer than three dots.
+
+P19. Compare these cards.
+
+Card A:
+●     ●
+
+Card B:
+● ●
+
+A. Card A has more
+B. Card B has more
+C. They have the same number
+
+Answer: C
+Explanation: Both cards show two dots. Spacing does not change the number.
+
+P20. Which card has more dots?
+
+Card A:
+● ●
+● ●
+
+Card B:
+● ● ●
+● ●
+
+A. Card A
+B. Card B
+C. They have the same number
+
+Answer: B
+Explanation: Card B has five dots. Card A has four dots.
+
+P21. Put the cards in order from fewest dots to most dots.
+
+Card A:
+● ● ●
+
+Card B:
+●
+
+Card C:
+● ●
+
+A. B, C, A
+B. A, C, B
+C. C, B, A
+
+Answer: A
+Explanation: The cards show one, then two, then three.
+
+P22. Which two cards show the same number of dots?
+
+Card A:
+● ●
+● ●
+
+Card B:
+● ● ●
+● ●
+
+Card C:
+● ● ●
+●
+
+A. A and B
+B. A and C
+C. B and C
+
+Answer: B
+Explanation: Cards A and C each show four dots.
+
+P23. Two cards show 3 dots. Which card does not belong?
+
+Card A:
+  ●
+●   ●
+
+Card B:
+● ● ●
+
+Card C:
+● ●
+● ●
+
+A. Card A
+B. Card B
+C. Card C
+
+Answer: C
+Explanation: Card C shows four dots. The other cards show three dots.
+
+P24. Which number label matches the dots?
+
+● ●
+● ●
+●
+
+A. 5
+B. 4
+C. 3
+
+Answer: A
+Explanation: The dot group shows five.
+
+TEST QUESTIONS 1–16
+
+T01. How many dots do you see?
+
+  ●
+●   ●
+
+A. 2
+B. 3
+C. 4
+
+Answer: B
+Explanation: The dots show three.
+
+T02. How many dots do you see?
+
+● ● ● ●
+
+A. 4
+B. 3
+C. 5
+
+Answer: A
+Explanation: The row shows four dots.
+
+T03. How many dots do you see?
+
+  ●
+● ● ●
+  ●
+
+A. 3
+B. 4
+C. 5
+
+Answer: C
+Explanation: The group shows five dots.
+
+T04. How many dots do you see?
+
+●
+
+A. 2
+B. 1
+C. 3
+
+Answer: B
+Explanation: There is one dot.
+
+T05. How many dots do you see?
+
+  ●
+●
+
+A. 1
+B. 3
+C. 2
+
+Answer: C
+Explanation: The group shows two dots.
+
+T06. How many dots do you see?
+
+●   ●
+●   ●
+
+A. 4
+B. 5
+C. 3
+
+Answer: A
+Explanation: There are four dots.
+
+T07. Which card matches this group?
+
+●
+●
+●
+
+A.
+● ●
+
+B.
+● ● ●
+
+C.
+● ● ● ●
+
+Answer: B
+Explanation: Card B also shows three dots.
+
+T08. Which card matches this group?
+
+● ● ● ●
+
+A.
+● ● ●
+● ●
+
+B.
+● ●
+●
+
+C.
+● ●
+● ●
+
+Answer: C
+Explanation: Card C also shows four dots.
+
+T09. Which card matches this group?
+
+● ● ●
+● ●
+
+A.
+●   ●
+  ●
+●   ●
+
+B.
+● ●
+● ●
+
+C.
+● ● ●
+
+Answer: A
+Explanation: Both the group and Card A show five dots.
+
+T10. Which card has more dots?
+
+Card A:
+●
+
+Card B:
+●
+●
+
+A. Card A
+B. Card B
+C. They have the same number
+
+Answer: B
+Explanation: Two dots are more than one dot.
+
+T11. Which card has fewer dots?
+
+Card A:
+● ●
+● ●
+
+Card B:
+  ●
+●   ●
+
+A. Card A
+B. They have the same number
+C. Card B
+
+Answer: C
+Explanation: Card B has three dots. Card A has four dots.
+
+T12. Compare these cards.
+
+Card A:
+●    ●    ●
+
+Card B:
+● ●
+●
+
+A. They have the same number
+B. Card A has more
+C. Card B has more
+
+Answer: A
+Explanation: Both cards show three dots.
+
+T13. Which two cards show the same number of dots?
+
+Card A:
+● ●
+● ●
+●
+
+Card B:
+● ●
+● ●
+
+Card C:
+  ●
+● ● ●
+  ●
+
+A. A and B
+B. A and C
+C. B and C
+
+Answer: B
+Explanation: Cards A and C each show five dots.
+
+T14. Put the cards in order from fewest dots to most dots.
+
+Card A:
+● ●
+● ●
+
+Card B:
+● ●
+
+Card C:
+  ●
+●   ●
+
+A. A, C, B
+B. C, B, A
+C. B, C, A
+
+Answer: C
+Explanation: The cards show two, then three, then four.
+
+T15. Two cards show 4 dots. Which card does not belong?
+
+Card A:
+● ● ●
+● ●
+
+Card B:
+● ●
+● ●
+
+Card C:
+  ●
+● ●
+  ●
+
+A. Card A
+B. Card B
+C. Card C
+
+Answer: A
+Explanation: Card A shows five dots. The other two cards show four dots.
+
+T16. Which number label matches the dots?
+
+● ●
+  ●
+
+A. 4
+B. 3
+C. 2
+
+Answer: B
+Explanation: The dot group shows three.
+
+Coverage: recognising 1–5 in familiar and unfamiliar arrangements; matching equivalent quantities; comparing more/fewer/same; ordering small quantities; recognising that spacing and arrangement do not change number.
