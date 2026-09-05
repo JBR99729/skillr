@@ -4,511 +4,320 @@ window.skillrExamQuestions = [
     "id": "ac9s1i03-t-001",
     "curriculumCode": "AC9S1I03",
     "bank": "test",
-    "skill": "making and recording observations",
+    "skill": "record observations",
+    "question": "You count six leaves. What should you record?",
+    "explanation": "This record gives the number observed.",
     "printable": true,
     "type": "single",
-    "question": "Which record best shows a shell length?",
-    "audioPrompt": "Which record best shows a shell length?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
     "answers": [
-      "Shell A: longish",
-      "Shell A: pretty",
-      "Shell A: maybe growing",
-      "Shell A: 5 cm"
+      "“Leaves can laugh”",
+      "“I counted 6 leaves”",
+      "“The leaves are secret”"
     ],
-    "correct": 3,
-    "explanation": "A measured value is specific and comparable.\nHint: Look for number + unit.",
+    "correct": 1,
+    "audioPrompt": "You count six leaves. What should you record?",
     "structuredExplanation": {
-      "summary": "A measured value is specific and comparable.",
-      "hint": "Look for number + unit."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 1,
-    "qualitySchema": "reviewed-year1-science-v1"
+      "summary": "This record gives the number observed."
+    }
   },
   {
     "id": "ac9s1i03-t-002",
     "curriculumCode": "AC9S1I03",
     "bank": "test",
-    "skill": "making and recording observations",
+    "skill": "use informal measurements",
+    "question": "You compare two plants. What can you measure?",
+    "explanation": "Blocks can be used as an informal measurement of height.",
     "printable": true,
     "type": "single",
-    "question": "A child wants to compare rain in two jars. What should be recorded?",
-    "audioPrompt": "A child wants to compare rain in two jars. What should be recorded?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
     "answers": [
-      "Favourite jar",
-      "One jar only",
-      "Water depth in each jar using the same unit",
-      "Jar colour"
+      "How many blocks tall",
+      "Which pot is magic",
+      "Which plant is shy"
     ],
-    "correct": 2,
-    "explanation": "Same-unit water depth allows direct comparison.\nHint: Measure both the same way.",
+    "correct": 0,
+    "audioPrompt": "You compare two plants. What can you measure?",
     "structuredExplanation": {
-      "summary": "Same-unit water depth allows direct comparison.",
-      "hint": "Measure both the same way."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 2,
-    "qualitySchema": "reviewed-year1-science-v1"
+      "summary": "Blocks can be used as an informal measurement of height."
+    }
   },
   {
     "id": "ac9s1i03-t-003",
     "curriculumCode": "AC9S1I03",
     "bank": "test",
-    "skill": "making and recording observations",
+    "skill": "record observations",
+    "question": "You hear a soft bell. What record fits?",
+    "explanation": "This records what was heard.",
     "printable": true,
     "type": "single",
-    "question": "After a ball test, what should the science record show?",
-    "audioPrompt": "After a ball test, what should the science record show?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
     "answers": [
-      "what we wanted",
-      "what really happened",
-      "only happy results",
-      "a changed result"
+      "“The bell is square”",
+      "“The bell is hungry”",
+      "“The bell sounds soft”"
     ],
-    "correct": 1,
-    "explanation": "The correct answer is what really happened.",
+    "correct": 2,
+    "audioPrompt": "You hear a soft bell. What record fits?",
     "structuredExplanation": {
-      "summary": "The correct answer is what really happened."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 3,
-    "qualitySchema": "reviewed-year1-science-v1"
+      "summary": "This records what was heard."
+    }
   },
   {
     "id": "ac9s1i03-t-004",
     "curriculumCode": "AC9S1I03",
     "bank": "test",
-    "skill": "making and recording observations",
+    "skill": "use digital tools to record",
+    "question": "You photograph a seedling each day. Why?",
+    "explanation": "Photos can help record change over time.",
     "printable": true,
     "type": "single",
-    "question": "Which tool best measures how long a toy spins?",
-    "audioPrompt": "Which tool best measures how long a toy spins?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
     "answers": [
-      "Timer",
-      "Ruler",
-      "Thermometer",
-      "Cup"
+      "To hide the plant",
+      "To record changes",
+      "To make it taller"
     ],
-    "correct": 0,
-    "explanation": "A timer measures duration.\nHint: Time tool.",
+    "correct": 1,
+    "audioPrompt": "You photograph a seedling each day. Why?",
     "structuredExplanation": {
-      "summary": "A timer measures duration.",
-      "hint": "Time tool."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 4,
-    "qualitySchema": "reviewed-year1-science-v1"
+      "summary": "Photos can help record change over time."
+    }
   },
   {
     "id": "ac9s1i03-t-005",
     "curriculumCode": "AC9S1I03",
     "bank": "test",
-    "skill": "making and recording observations",
+    "skill": "record observations",
+    "question": "You feel smooth shell. What should you record?",
+    "explanation": "This records a touch observation.",
     "printable": true,
     "type": "single",
-    "question": "Why write units beside numbers?",
-    "audioPrompt": "Why write units beside numbers?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
     "answers": [
-      "To make numbers larger.",
-      "To prove a cause.",
-      "Because all numbers mean centimetres.",
-      "So readers know what was measured."
+      "“The shell feels smooth”",
+      "“The shell knows me”",
+      "“The shell is noisy”"
     ],
-    "correct": 3,
-    "explanation": "Units give the measurement meaning.\nHint: 5 what?",
+    "correct": 0,
+    "audioPrompt": "You feel smooth shell. What should you record?",
     "structuredExplanation": {
-      "summary": "Units give the measurement meaning.",
-      "hint": "5 what?"
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 5,
-    "qualitySchema": "reviewed-year1-science-v1"
+      "summary": "This records a touch observation."
+    }
   },
   {
     "id": "ac9s1i03-t-006",
     "curriculumCode": "AC9S1I03",
     "bank": "test",
-    "skill": "making and recording observations",
+    "skill": "use informal measurements",
+    "question": "You measure a shadow with footsteps. What is this?",
+    "explanation": "Footsteps can be used to measure length informally.",
     "printable": true,
     "type": "single",
-    "question": "A plant measured 9 cm, 10 cm, 11 cm over three weeks. What can be said?",
-    "audioPrompt": "A plant measured 9 cm, 10 cm, 11 cm over three weeks. What can be said?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
     "answers": [
-      "Sun caused exactly 1 cm growth.",
-      "All plants grow this way.",
-      "Its recorded height increased each week.",
-      "It will grow 1 cm forever."
+      "A secret",
+      "A smell",
+      "An informal measurement"
     ],
     "correct": 2,
-    "explanation": "The measurements show an increase across the recorded weeks only.\nHint: Stay with the data.",
+    "audioPrompt": "You measure a shadow with footsteps. What is this?",
     "structuredExplanation": {
-      "summary": "The measurements show an increase across the recorded weeks only.",
-      "hint": "Stay with the data."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 6,
-    "qualitySchema": "reviewed-year1-science-v1"
+      "summary": "Footsteps can be used to measure length informally."
+    }
   },
   {
     "id": "ac9s1i03-t-007",
     "curriculumCode": "AC9S1I03",
     "bank": "test",
-    "skill": "making and recording observations",
+    "skill": "record observations",
+    "question": "You use a tablet camera. What can it record?",
+    "explanation": "A camera can record visual observations.",
     "printable": true,
     "type": "single",
-    "question": "Which record is least useful for comparing temperatures?",
-    "audioPrompt": "Which record is least useful for comparing temperatures?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
     "answers": [
-      "Both measured at the same time",
-      "“Warm” for one cup and 24°C for the other",
-      "24°C and 18°C",
-      "Both measured with the same thermometer"
+      "A favourite song",
+      "What you see",
+      "A hidden wish"
     ],
     "correct": 1,
-    "explanation": "Different recording methods make the comparison less precise.\nHint: Same method matters.",
+    "audioPrompt": "You use a tablet camera. What can it record?",
     "structuredExplanation": {
-      "summary": "Different recording methods make the comparison less precise.",
-      "hint": "Same method matters."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 7,
-    "qualitySchema": "reviewed-year1-science-v1"
+      "summary": "A camera can record visual observations."
+    }
   },
   {
     "id": "ac9s1i03-t-008",
     "curriculumCode": "AC9S1I03",
     "bank": "test",
-    "skill": "making and recording observations",
+    "skill": "compare observations",
+    "question": "You compare two towers. What fits?",
+    "explanation": "The number of blocks is an observable measurement.",
     "printable": true,
     "type": "single",
-    "question": "A tally shows |||| for butterflies. How many were counted?",
-    "audioPrompt": "A tally shows |||| for butterflies. How many were counted?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
     "answers": [
-      "4",
-      "2",
-      "5",
-      "8"
+      "“This tower has 8 blocks”",
+      "“This tower is silly”",
+      "“This tower wants lunch”"
     ],
     "correct": 0,
-    "explanation": "Four tally marks represent four observations.\nHint: Count the marks.",
+    "audioPrompt": "You compare two towers. What fits?",
     "structuredExplanation": {
-      "summary": "Four tally marks represent four observations.",
-      "hint": "Count the marks."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 8,
-    "qualitySchema": "reviewed-year1-science-v1"
+      "summary": "The number of blocks is an observable measurement."
+    }
   },
   {
     "id": "ac9s1i03-t-009",
     "curriculumCode": "AC9S1I03",
     "bank": "test",
-    "skill": "making and recording observations",
+    "skill": "record observations",
+    "question": "You record rain in a gauge. What do you record?",
+    "explanation": "A rain gauge shows an amount.",
     "printable": true,
     "type": "single",
-    "question": "Which note is most objective?",
-    "audioPrompt": "Which note is most objective?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
     "answers": [
-      "The rock is beautiful.",
-      "The rock looks lucky.",
-      "The rock is boring.",
-      "The rock has two white stripes."
+      "The cloud’s name",
+      "The puddle’s dream",
+      "The rain amount"
     ],
-    "correct": 3,
-    "explanation": "Visible stripes can be checked by others.\nHint: Fact you can observe.",
+    "correct": 2,
+    "audioPrompt": "You record rain in a gauge. What do you record?",
     "structuredExplanation": {
-      "summary": "Visible stripes can be checked by others.",
-      "hint": "Fact you can observe."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 9,
-    "qualitySchema": "reviewed-year1-science-v1"
+      "summary": "A rain gauge shows an amount."
+    }
   },
   {
     "id": "ac9s1i03-t-010",
     "curriculumCode": "AC9S1I03",
     "bank": "test",
-    "skill": "making and recording observations",
+    "skill": "make observations",
+    "question": "You draw the Moon each night. Why?",
+    "explanation": "Drawings can record visible changes.",
     "printable": true,
     "type": "single",
-    "question": "Why measure at the same time each day when comparing shadows?",
-    "audioPrompt": "Why measure at the same time each day when comparing shadows?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
     "answers": [
-      "Same time guarantees same shadow.",
-      "Different times are unsafe.",
-      "Time affects shadow position and length, so keeping it similar supports comparison.",
-      "Clocks make shadows."
+      "To make night longer",
+      "To show what changed",
+      "To stop the Moon"
     ],
-    "correct": 2,
-    "explanation": "Consistent observation time reduces an extra source of difference.\nHint: Keep conditions comparable.",
+    "correct": 1,
+    "audioPrompt": "You draw the Moon each night. Why?",
     "structuredExplanation": {
-      "summary": "Consistent observation time reduces an extra source of difference.",
-      "hint": "Keep conditions comparable."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 10,
-    "qualitySchema": "reviewed-year1-science-v1"
+      "summary": "Drawings can record visible changes."
+    }
   },
   {
     "id": "ac9s1i03-t-011",
     "curriculumCode": "AC9S1I03",
     "bank": "test",
-    "skill": "making and recording observations",
+    "skill": "record observations",
+    "question": "You compare two rocks. What can you record?",
+    "explanation": "Smoothness is an observable texture.",
     "printable": true,
     "type": "single",
-    "question": "A measurement seems very different from the others. Best next step?",
-    "audioPrompt": "A measurement seems very different from the others. Best next step?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
     "answers": [
-      "Pick the favourite number.",
-      "Check the method and measure again.",
-      "Hide it.",
-      "Change it."
+      "Which is smoother",
+      "Which is famous",
+      "Which one can sing"
     ],
-    "correct": 1,
-    "explanation": "Unusual data should be checked, not altered.\nHint: Recheck.",
+    "correct": 0,
+    "audioPrompt": "You compare two rocks. What can you record?",
     "structuredExplanation": {
-      "summary": "Unusual data should be checked, not altered.",
-      "hint": "Recheck."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 11,
-    "qualitySchema": "reviewed-year1-science-v1"
+      "summary": "Smoothness is an observable texture."
+    }
   },
   {
     "id": "ac9s1i03-t-012",
     "curriculumCode": "AC9S1I03",
     "bank": "test",
-    "skill": "making and recording observations",
+    "skill": "use digital tools to record",
+    "question": "You film a rolling ball. Why?",
+    "explanation": "A video can record motion.",
     "printable": true,
     "type": "single",
-    "question": "Which pair makes clear table headings?",
-    "audioPrompt": "Which pair makes clear table headings?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
     "answers": [
-      "Stuff and Things",
-      "Day and Number of birds",
-      "Fun and Good",
-      "Birds maybe and Nice results"
+      "To make the ball vanish",
+      "To make the floor talk",
+      "To record movement"
     ],
-    "correct": 1,
-    "explanation": "Clear headings show exactly what each column records.\nHint: Name the variables.",
+    "correct": 2,
+    "audioPrompt": "You film a rolling ball. Why?",
     "structuredExplanation": {
-      "summary": "Clear headings show exactly what each column records.",
-      "hint": "Name the variables."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 12,
-    "qualitySchema": "reviewed-year1-science-v1"
+      "summary": "A video can record motion."
+    }
   },
   {
     "id": "ac9s1i03-t-013",
     "curriculumCode": "AC9S1I03",
     "bank": "test",
-    "skill": "making and recording observations",
+    "skill": "use informal measurements",
+    "question": "You mark today’s plant height. Why?",
+    "explanation": "A height mark helps compare changes later.",
     "printable": true,
     "type": "single",
-    "question": "Which statement reports change over time?",
-    "audioPrompt": "Which statement reports change over time?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
     "answers": [
-      "The candle is yellow.",
-      "Candles are useful.",
-      "Fire is hot.",
-      "The candle became 2 cm shorter after burning under adult supervision."
+      "To hide the plant",
+      "To compare growth later",
+      "To change the leaves"
     ],
-    "correct": 3,
-    "explanation": "It compares the object before and after a period.\nHint: What changed?",
+    "correct": 1,
+    "audioPrompt": "You mark today’s plant height. Why?",
     "structuredExplanation": {
-      "summary": "It compares the object before and after a period.",
-      "hint": "What changed?"
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 13,
-    "qualitySchema": "reviewed-year1-science-v1"
+      "summary": "A height mark helps compare changes later."
+    }
   },
   {
     "id": "ac9s1i03-t-014",
     "curriculumCode": "AC9S1I03",
     "bank": "test",
-    "skill": "making and recording observations",
+    "skill": "record observations",
+    "question": "You count birds on a branch. What record fits?",
+    "explanation": "This records an observed number.",
     "printable": true,
     "type": "single",
-    "question": "Which record would help compare sound duration?",
-    "audioPrompt": "Which record would help compare sound duration?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
     "answers": [
-      "Size of the room only",
-      "Favourite sound",
-      "Seconds each sound lasted",
-      "Colour of each object"
+      "“I counted 5 birds”",
+      "“Birds are magic”",
+      "“The branch is sleepy”"
     ],
-    "correct": 2,
-    "explanation": "Seconds measure duration.\nHint: Use a time measure.",
+    "correct": 0,
+    "audioPrompt": "You count birds on a branch. What record fits?",
     "structuredExplanation": {
-      "summary": "Seconds measure duration.",
-      "hint": "Use a time measure."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 14,
-    "qualitySchema": "reviewed-year1-science-v1"
+      "summary": "This records an observed number."
+    }
   },
   {
     "id": "ac9s1i03-t-015",
     "curriculumCode": "AC9S1I03",
     "bank": "test",
-    "skill": "making and recording observations",
+    "skill": "record observations",
+    "question": "Which rock feels smoother? What can you record?",
+    "explanation": "The smoother rock is an observable texture comparison.",
     "printable": true,
     "type": "single",
-    "question": "[Show the labelled diagram.] Why use a labelled diagram?",
-    "audioPrompt": "[Show the labelled diagram.] Why use a labelled diagram?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
     "answers": [
-      "Labels make drawings artistic.",
-      "It can show where observed features are located.",
-      "It proves the explanation.",
-      "It replaces every other record."
+      "What the rock says",
+      "What the rock wants",
+      "The smoother rock"
     ],
-    "correct": 1,
-    "explanation": "Labels connect names to visible parts or features.\nHint: Name what is shown.",
+    "correct": 2,
+    "audioPrompt": "Which rock feels smoother? What can you record?",
     "structuredExplanation": {
-      "summary": "Labels connect names to visible parts or features.",
-      "hint": "Name what is shown."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 15,
-    "qualitySchema": "reviewed-year1-science-v1"
+      "summary": "The smoother rock is an observable texture comparison."
+    }
   },
   {
     "id": "ac9s1i03-t-016",
     "curriculumCode": "AC9S1I03",
     "bank": "test",
-    "skill": "making and recording observations",
+    "skill": "make observations",
+    "question": "Where do completed observations go?",
+    "explanation": "A chart helps organise observations clearly.",
     "printable": true,
     "type": "single",
-    "question": "Which conclusion is supported by counts 3, 3, 3?",
-    "audioPrompt": "Which conclusion is supported by counts 3, 3, 3?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
     "answers": [
-      "The same number was counted in these three observations.",
-      "There will always be 3.",
-      "Three caused the result.",
-      "All future counts must be 3."
+      "Under your shoe",
+      "On a chart",
+      "Inside a toy"
     ],
-    "correct": 0,
-    "explanation": "The evidence supports sameness across the three recorded observations only.\nHint: Do not overgeneralise.",
+    "correct": 1,
+    "audioPrompt": "Where do completed observations go?",
     "structuredExplanation": {
-      "summary": "The evidence supports sameness across the three recorded observations only.",
-      "hint": "Do not overgeneralise."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 16,
-    "qualitySchema": "reviewed-year1-science-v1"
+      "summary": "A chart helps organise observations clearly."
+    }
   }
 ];
