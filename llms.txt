@@ -15,6 +15,7 @@ SkillrHub provides free Australian Curriculum-aligned learning resources for Fou
 - [Full LLM guide](https://skillrhub.com/llms-full.txt) — complete AI parsing guide for curriculum structure, route patterns, resource types and citation rules.
 - [Free K-10 question bank](https://skillrhub.com/free-k-10-question-bank.html) — overview of SkillrHub's 50,000+ question bank across Maths, Science and English.
 - [Editorial standards and corrections](https://skillrhub.com/editorial-standards.html) — publishing scope, quality checks, tool disclosure and correction process.
+- [How to use SkillrHub](https://skillrhub.com/how-to-use-skillr.html) — complete guide for students, parents, teachers, tutors, learning-support staff and international users.
 - [Curriculum sitemap](https://skillrhub.com/sitemap.html) — human-readable map of major year, subject, worksheet and guide pages.
 - [XML sitemap index](https://skillrhub.com/sitemap.xml) — complete crawl discovery entry point for search engines and AI crawlers.
 - [Free worksheets and homework sheets](https://skillrhub.com/worksheets/) — worksheet hub for Foundation to Year 10 printable-style resources.

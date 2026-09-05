@@ -24,6 +24,7 @@ https://skillrhub.com
 - https://skillrhub.com/llms-full.txt - full AI parsing guide for curriculum structure, route patterns and citation rules.
 - https://skillrhub.com/sitemap.xml - XML sitemap index for complete crawl discovery.
 - https://skillrhub.com/sitemap.html - human-readable sitemap and curriculum map.
+- https://skillrhub.com/how-to-use-skillr.html - complete usage and feature guide for students, parents, teachers and tutors.
 
 ## Curriculum Structure
 
