@@ -15,7 +15,11 @@ window.skillrTestQuestions = [
       "both were the same"
     ],
     "correct": 0,
-    "visual": "BEFORE: metal spoon will feel colder\nAFTER: metal spoon felt colder"
+    "visual": "BEFORE: metal spoon will feel colder\nAFTER: metal spoon felt colder",
+    "audioPrompt": "On Monday, 2 birds visited. On Tuesday, 4 birds visited. Which day had more birds?",
+    "structuredExplanation": {
+      "summary": "The observation reports what was noticed after the test."
+    }
   },
   {
     "id": "ac9sfi04-t-002",
@@ -32,7 +36,11 @@ window.skillrTestQuestions = [
       "its pot colour"
     ],
     "correct": 0,
-    "visual": "P: red and yellow leaves\nO: red, yellow and brown leaves"
+    "visual": "P: red and yellow leaves\nO: red, yellow and brown leaves",
+    "audioPrompt": "A seedling was short. One week later it was taller. What changed?",
+    "structuredExplanation": {
+      "summary": "Compare which categories appear in each record."
+    }
   },
   {
     "id": "ac9sfi04-t-003",
@@ -49,7 +57,11 @@ window.skillrTestQuestions = [
       "guess its thoughts"
     ],
     "correct": 0,
-    "visual": "P: boat floats 1 minute | O: sank after 20 seconds"
+    "visual": "P: boat floats 1 minute | O: sank after 20 seconds",
+    "audioPrompt": "Which is a good way to record how a leaf looks?",
+    "structuredExplanation": {
+      "summary": "The original records must stay unchanged."
+    }
   },
   {
     "id": "ac9sfi04-t-004",
@@ -66,7 +78,11 @@ window.skillrTestQuestions = [
       "always the same"
     ],
     "correct": 0,
-    "visual": "P → cone roll straight\nO → rolled in a curved path"
+    "visual": "P → cone roll straight\nO → rolled in a curved path",
+    "audioPrompt": "A class saw 3 ants, then 4 ants, then 5 ants. What pattern do the numbers show?",
+    "structuredExplanation": {
+      "summary": "One feature can match while another differs."
+    }
   },
   {
     "id": "ac9sfi04-t-005",
@@ -83,7 +99,11 @@ window.skillrTestQuestions = [
       "both are equal"
     ],
     "correct": 0,
-    "visual": "A 2→2 | B 3→1 | C 0→0"
+    "visual": "A 2→2 | B 3→1 | C 0→0",
+    "audioPrompt": "There are 5 red blocks and 2 blue blocks. Which colour has fewer blocks?",
+    "structuredExplanation": {
+      "summary": "Exact matches have the same before and after entry."
+    }
   },
   {
     "id": "ac9sfi04-t-006",
@@ -100,7 +120,11 @@ window.skillrTestQuestions = [
       "an empty page"
     ],
     "correct": 0,
-    "visual": "note: The car moved"
+    "visual": "note: The car moved",
+    "audioPrompt": "Which record is useful for counting birds?",
+    "structuredExplanation": {
+      "summary": "A clear comparison needs specific evidence."
+    }
   },
   {
     "id": "ac9sfi04-t-007",
@@ -117,7 +141,11 @@ window.skillrTestQuestions = [
       "a wooden block"
     ],
     "correct": 0,
-    "visual": "predicted 5 birds, observed 7"
+    "visual": "predicted 5 birds, observed 7",
+    "audioPrompt": "The ice cube became smaller. Which drawing should come second?",
+    "structuredExplanation": {
+      "summary": "Subtract the two recorded counts."
+    }
   },
   {
     "id": "ac9sfi04-t-008",
@@ -134,7 +162,11 @@ window.skillrTestQuestions = [
       "the flowers became rocks"
     ],
     "correct": 0,
-    "visual": "Prediction card: roll | Memory: slide | Observation: slide"
+    "visual": "Prediction card: roll | Memory: slide | Observation: slide",
+    "audioPrompt": "Three flowers were closed. Later, three flowers were open. What changed?",
+    "structuredExplanation": {
+      "summary": "Use the record made before the test."
+    }
   },
   {
     "id": "ac9sfi04-t-009",
@@ -151,7 +183,11 @@ window.skillrTestQuestions = [
       "both were the same"
     ],
     "correct": 0,
-    "visual": "three trials all show the small ball higher"
+    "visual": "three trials all show the small ball higher",
+    "audioPrompt": "On Monday, 2 birds visited. On Tuesday, 4 birds visited. Which day had more birds?",
+    "structuredExplanation": {
+      "summary": "Repeated observations strengthen the comparison."
+    }
   },
   {
     "id": "ac9sfi04-t-010",
@@ -168,7 +204,11 @@ window.skillrTestQuestions = [
       "its pot colour"
     ],
     "correct": 0,
-    "visual": "unexpected brown leaf"
+    "visual": "unexpected brown leaf",
+    "audioPrompt": "A seedling was short. One week later it was taller. What changed?",
+    "structuredExplanation": {
+      "summary": "A useful next question builds from evidence."
+    }
   },
   {
     "id": "ac9sfi04-t-011",
@@ -185,7 +225,11 @@ window.skillrTestQuestions = [
       "guess its thoughts"
     ],
     "correct": 0,
-    "visual": "Prediction: 2 birds; Observation: 2 birds"
+    "visual": "Prediction: 2 birds; Observation: 2 birds",
+    "audioPrompt": "Which is a good way to record how a leaf looks?",
+    "structuredExplanation": {
+      "summary": "The label directly compares the records."
+    }
   },
   {
     "id": "ac9sfi04-t-012",
@@ -208,7 +252,11 @@ window.skillrTestQuestions = [
       "one more each time",
       "one less each time",
       "always the same"
-    ]
+    ],
+    "audioPrompt": "A class saw 3 ants, then 4 ants, then 5 ants. What pattern do the numbers show?",
+    "structuredExplanation": {
+      "summary": "Compare the original records in order."
+    }
   },
   {
     "id": "ac9sfi04-t-013",
@@ -225,7 +273,11 @@ window.skillrTestQuestions = [
       "both are equal"
     ],
     "correct": 0,
-    "visual": "BEFORE: foam ball will bounce high\nAFTER: foam ball did not bounce"
+    "visual": "BEFORE: foam ball will bounce high\nAFTER: foam ball did not bounce",
+    "audioPrompt": "There are 5 red blocks and 2 blue blocks. Which colour has fewer blocks?",
+    "structuredExplanation": {
+      "summary": "The observation reports what was noticed after the test."
+    }
   },
   {
     "id": "ac9sfi04-t-014",
@@ -242,7 +294,11 @@ window.skillrTestQuestions = [
       "an empty page"
     ],
     "correct": 0,
-    "visual": "P: ants and butterflies\nO: ants and bees"
+    "visual": "P: ants and butterflies\nO: ants and bees",
+    "audioPrompt": "Which record is useful for counting birds?",
+    "structuredExplanation": {
+      "summary": "Compare which categories appear in each record."
+    }
   },
   {
     "id": "ac9sfi04-t-015",
@@ -259,7 +315,11 @@ window.skillrTestQuestions = [
       "a wooden block"
     ],
     "correct": 0,
-    "visual": "P: ball bounces 4 times | O: bounced 2 times"
+    "visual": "P: ball bounces 4 times | O: bounced 2 times",
+    "audioPrompt": "The ice cube became smaller. Which drawing should come second?",
+    "structuredExplanation": {
+      "summary": "The original records must stay unchanged."
+    }
   },
   {
     "id": "ac9sfi04-t-016",
@@ -276,148 +336,11 @@ window.skillrTestQuestions = [
       "the flowers became rocks"
     ],
     "correct": 0,
-    "visual": "P → ball bounce high\nO → bounced low"
-  },
-  {
-    "id": "ac9sfi04-t-017",
-    "curriculumCode": "AC9SFI04",
-    "bank": "test",
-    "skill": "exact table matches",
-    "question": "On Monday, 2 birds visited. On Tuesday, 4 birds visited. Which day had more birds?",
-    "explanation": "Exact matches have the same before and after entry.",
-    "printable": true,
-    "type": "single",
-    "answers": [
-      "Tuesday",
-      "Monday",
-      "both were the same"
-    ],
-    "correct": 0,
-    "visual": "A red→red | B blue→green | C 5→5"
-  },
-  {
-    "id": "ac9sfi04-t-018",
-    "curriculumCode": "AC9SFI04",
-    "bank": "test",
-    "skill": "missing observation",
-    "question": "A seedling was short. One week later it was taller. What changed?",
-    "explanation": "A clear comparison needs specific evidence.",
-    "printable": true,
-    "type": "single",
-    "answers": [
-      "its height",
-      "its name",
-      "its pot colour"
-    ],
-    "correct": 0,
-    "visual": "note: The plant changed"
-  },
-  {
-    "id": "ac9sfi04-t-019",
-    "curriculumCode": "AC9SFI04",
-    "bank": "test",
-    "skill": "numerical comparison",
-    "question": "Which is a good way to record how a leaf looks?",
-    "explanation": "Subtract the two recorded counts.",
-    "printable": true,
-    "type": "single",
-    "answers": [
-      "make a drawing",
-      "hide the leaf",
-      "guess its thoughts"
-    ],
-    "correct": 0,
-    "visual": "predicted 4 bounces, observed 1"
-  },
-  {
-    "id": "ac9sfi04-t-020",
-    "curriculumCode": "AC9SFI04",
-    "bank": "test",
-    "skill": "use dated prediction",
-    "question": "A class saw 3 ants, then 4 ants, then 5 ants. What pattern do the numbers show?",
-    "explanation": "Use the record made before the test.",
-    "printable": true,
-    "type": "single",
-    "answers": [
-      "one more each time",
-      "one less each time",
-      "always the same"
-    ],
-    "correct": 0,
-    "visual": "Prediction card: 2 flowers | Memory: 4 | Observation: 4"
-  },
-  {
-    "id": "ac9sfi04-t-021",
-    "curriculumCode": "AC9SFI04",
-    "bank": "test",
-    "skill": "use repeated evidence",
-    "question": "There are 5 red blocks and 2 blue blocks. Which colour has fewer blocks?",
-    "explanation": "Repeated observations strengthen the comparison.",
-    "printable": true,
-    "type": "single",
-    "answers": [
-      "blue",
-      "red",
-      "both are equal"
-    ],
-    "correct": 0,
-    "visual": "three counts all show 4 ants"
-  },
-  {
-    "id": "ac9sfi04-t-022",
-    "curriculumCode": "AC9SFI04",
-    "bank": "test",
-    "skill": "choose next question",
-    "question": "Which record is useful for counting birds?",
-    "explanation": "A useful next question builds from evidence.",
-    "printable": true,
-    "type": "single",
-    "answers": [
-      "tally marks",
-      "a made-up story",
-      "an empty page"
-    ],
-    "correct": 0,
-    "visual": "unexpected curved roll"
-  },
-  {
-    "id": "ac9sfi04-t-023",
-    "curriculumCode": "AC9SFI04",
-    "bank": "test",
-    "skill": "label comparison",
-    "question": "The ice cube became smaller. Which drawing should come second?",
-    "explanation": "The label directly compares the records.",
-    "printable": true,
-    "type": "single",
-    "answers": [
-      "the smaller ice cube",
-      "the larger ice cube",
-      "a wooden block"
-    ],
-    "correct": 0,
-    "visual": "Prediction: flower; Observation: leaves"
-  },
-  {
-    "id": "ac9sfi04-t-024",
-    "curriculumCode": "AC9SFI04",
-    "bank": "test",
-    "skill": "order comparison process",
-    "question": "Three flowers were closed. Later, three flowers were open. What changed?",
-    "explanation": "Compare the original records in order.",
-    "printable": true,
-    "type": "single",
-    "items": [
-      "read the recorded observation",
-      "notice what is the same and different",
-      "state whether it matched",
-      "read the original prediction"
-    ],
-    "correct": 0,
-    "instruction": "Move the cards into the correct order.",
-    "answers": [
-      "the flowers opened",
-      "the number became ten",
-      "the flowers became rocks"
-    ]
+    "visual": "P → ball bounce high\nO → bounced low",
+    "audioPrompt": "Three flowers were closed. Later, three flowers were open. What changed?",
+    "structuredExplanation": {
+      "summary": "One feature can match while another differs."
+    }
   }
 ];
+window.quizQuestions = window.skillrTestQuestions;

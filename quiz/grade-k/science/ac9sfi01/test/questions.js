@@ -15,7 +15,11 @@ window.skillrTestQuestions = [
     ],
     "correct": 0,
     "visual": "Assessment card\n☀️🌱 | 🌑🌱",
-    "id": "ac9sfi01-t-001"
+    "id": "ac9sfi01-t-001",
+    "audioPrompt": "Which is a science question we can investigate?",
+    "structuredExplanation": {
+      "summary": "This question can guide an investigation."
+    }
   },
   {
     "curriculumCode": "AC9SFI01",
@@ -32,7 +36,11 @@ window.skillrTestQuestions = [
     ],
     "correct": 0,
     "visual": "Assessment card\n🌳 🐜 | 🪨 🐞",
-    "id": "ac9sfi01-t-002"
+    "id": "ac9sfi01-t-002",
+    "audioPrompt": "An ice cube is left in the sun. What do you predict?",
+    "structuredExplanation": {
+      "summary": "The question identifies a countable comparison."
+    }
   },
   {
     "curriculumCode": "AC9SFI01",
@@ -49,7 +57,11 @@ window.skillrTestQuestions = [
     ],
     "correct": 0,
     "visual": "Assessment card\ntree: |||| | rock: ||",
-    "id": "ac9sfi01-t-003"
+    "id": "ac9sfi01-t-003",
+    "audioPrompt": "A plant is not watered for many days. What might happen?",
+    "structuredExplanation": {
+      "summary": "Counts at each location answer the comparison question."
+    }
   },
   {
     "curriculumCode": "AC9SFI01",
@@ -66,7 +78,11 @@ window.skillrTestQuestions = [
     ],
     "correct": 0,
     "visual": "Assessment card\n🪵 ?",
-    "id": "ac9sfi01-t-004"
+    "id": "ac9sfi01-t-004",
+    "audioPrompt": "Which question can you answer by looking closely?",
+    "structuredExplanation": {
+      "summary": "The sentence tells what is expected before observing."
+    }
   },
   {
     "curriculumCode": "AC9SFI01",
@@ -83,7 +99,11 @@ window.skillrTestQuestions = [
     ],
     "correct": 0,
     "visual": "Assessment card\n🪱🪱🪱🪱🪱",
-    "id": "ac9sfi01-t-005"
+    "id": "ac9sfi01-t-005",
+    "audioPrompt": "A ball is placed at the top of a ramp. What do you predict?",
+    "structuredExplanation": {
+      "summary": "It reports a completed observation."
+    }
   },
   {
     "curriculumCode": "AC9SFI01",
@@ -100,7 +120,11 @@ window.skillrTestQuestions = [
     ],
     "correct": 0,
     "visual": "Assessment card\nwet soil 🪱 | dry soil",
-    "id": "ac9sfi01-t-006"
+    "id": "ac9sfi01-t-006",
+    "audioPrompt": "Which question can be answered by counting?",
+    "structuredExplanation": {
+      "summary": "The reason uses a relevant past observation."
+    }
   },
   {
     "curriculumCode": "AC9SFI01",
@@ -117,7 +141,11 @@ window.skillrTestQuestions = [
     ],
     "correct": 0,
     "visual": "Assessment card\n🧸 + 💧 + plastic",
-    "id": "ac9sfi01-t-007"
+    "id": "ac9sfi01-t-007",
+    "audioPrompt": "You push one car gently and one car harder. Which do you predict will go farther?",
+    "structuredExplanation": {
+      "summary": "It predicts the outcome named in the question."
+    }
   },
   {
     "curriculumCode": "AC9SFI01",
@@ -134,7 +162,11 @@ window.skillrTestQuestions = [
     ],
     "correct": 0,
     "visual": "Assessment card\n☂️ 🧸 💧",
-    "id": "ac9sfi01-t-008"
+    "id": "ac9sfi01-t-008",
+    "audioPrompt": "Which question can be tested with two cups?",
+    "structuredExplanation": {
+      "summary": "The question names the object, outcome and time."
+    }
   },
   {
     "curriculumCode": "AC9SFI01",
@@ -151,7 +183,11 @@ window.skillrTestQuestions = [
     ],
     "correct": 0,
     "visual": "Assessment card\n🧽 💧 plastic",
-    "id": "ac9sfi01-t-009"
+    "id": "ac9sfi01-t-009",
+    "audioPrompt": "Which is a science question we can investigate?",
+    "structuredExplanation": {
+      "summary": "The prediction states the expected comparison."
+    }
   },
   {
     "curriculumCode": "AC9SFI01",
@@ -168,7 +204,11 @@ window.skillrTestQuestions = [
     ],
     "correct": 0,
     "visual": "Assessment card\n🌳 ||||| | 🪨 ||",
-    "id": "ac9sfi01-t-010"
+    "id": "ac9sfi01-t-010",
+    "audioPrompt": "An ice cube is left in the sun. What do you predict?",
+    "structuredExplanation": {
+      "summary": "Counts at both locations allow comparison."
+    }
   },
   {
     "curriculumCode": "AC9SFI01",
@@ -190,7 +230,11 @@ window.skillrTestQuestions = [
       "it may droop",
       "it may become a toy",
       "it may start talking"
-    ]
+    ],
+    "audioPrompt": "A plant is not watered for many days. What might happen?",
+    "structuredExplanation": {
+      "summary": "The question guides evidence collection and recording."
+    }
   },
   {
     "curriculumCode": "AC9SFI01",
@@ -207,7 +251,11 @@ window.skillrTestQuestions = [
     ],
     "correct": 0,
     "visual": "Assessment card\n☀️💧 | 🌳🧊",
-    "id": "ac9sfi01-t-012"
+    "id": "ac9sfi01-t-012",
+    "audioPrompt": "Which question can you answer by looking closely?",
+    "structuredExplanation": {
+      "summary": "It reports the observed result."
+    }
   },
   {
     "curriculumCode": "AC9SFI01",
@@ -224,7 +272,11 @@ window.skillrTestQuestions = [
     ],
     "correct": 0,
     "visual": "Assessment card\n🥄",
-    "id": "ac9sfi01-t-013"
+    "id": "ac9sfi01-t-013",
+    "audioPrompt": "A ball is placed at the top of a ramp. What do you predict?",
+    "structuredExplanation": {
+      "summary": "The sentence asks about an observable property."
+    }
   },
   {
     "curriculumCode": "AC9SFI01",
@@ -241,7 +293,11 @@ window.skillrTestQuestions = [
     ],
     "correct": 0,
     "visual": "Assessment card\n🟤  🔵",
-    "id": "ac9sfi01-t-014"
+    "id": "ac9sfi01-t-014",
+    "audioPrompt": "Which question can be answered by counting?",
+    "structuredExplanation": {
+      "summary": "Bounce height is a clear observable outcome."
+    }
   },
   {
     "curriculumCode": "AC9SFI01",
@@ -258,7 +314,11 @@ window.skillrTestQuestions = [
     ],
     "correct": 0,
     "visual": "Assessment card\n💧 → fabric?",
-    "id": "ac9sfi01-t-015"
+    "id": "ac9sfi01-t-015",
+    "audioPrompt": "You push one car gently and one car harder. Which do you predict will go farther?",
+    "structuredExplanation": {
+      "summary": "Water passing through is the relevant outcome."
+    }
   },
   {
     "curriculumCode": "AC9SFI01",
@@ -275,147 +335,11 @@ window.skillrTestQuestions = [
     ],
     "correct": 0,
     "visual": "Assessment card\n☀️🧊 | 🌳🧊",
-    "id": "ac9sfi01-t-016"
-  },
-  {
-    "curriculumCode": "AC9SFI01",
-    "bank": "test",
-    "skill": "prediction or observation",
-    "question": "Which is a science question we can investigate?",
-    "explanation": "It states what may happen before testing.",
-    "printable": true,
-    "type": "single",
-    "answers": [
-      "Which toy car rolls farther?",
-      "Which toy is the nicest?",
-      "Which colour is best?"
-    ],
-    "correct": 0,
-    "visual": "Assessment card\n🚗 /",
-    "id": "ac9sfi01-t-017"
-  },
-  {
-    "curriculumCode": "AC9SFI01",
-    "bank": "test",
-    "skill": "experience-based reason",
-    "question": "An ice cube is left in the sun. What do you predict?",
-    "explanation": "Prior experience with absorption is relevant.",
-    "printable": true,
-    "type": "single",
-    "answers": [
-      "it will melt",
-      "it will grow leaves",
-      "it will turn into wood"
-    ],
-    "correct": 0,
-    "visual": "Assessment card\n🧽 💧",
-    "id": "ac9sfi01-t-018"
-  },
-  {
-    "curriculumCode": "AC9SFI01",
-    "bank": "test",
-    "skill": "match prediction to question",
-    "question": "A plant is not watered for many days. What might happen?",
-    "explanation": "The prediction compares the two locations.",
-    "printable": true,
-    "type": "single",
-    "answers": [
-      "it may droop",
-      "it may become a toy",
-      "it may start talking"
-    ],
-    "correct": 0,
-    "visual": "Assessment card\n🌳 🐜 | path",
-    "id": "ac9sfi01-t-019"
-  },
-  {
-    "curriculumCode": "AC9SFI01",
-    "bank": "test",
-    "skill": "improve vague question",
-    "question": "Which question can you answer by looking closely?",
-    "explanation": "It identifies the variable and observable outcome.",
-    "printable": true,
-    "type": "single",
-    "answers": [
-      "How many legs does the insect have?",
-      "Is the insect happy?",
-      "What is it thinking?"
-    ],
-    "correct": 0,
-    "visual": "Assessment card\n▪️ on smooth | rough",
-    "id": "ac9sfi01-t-020"
-  },
-  {
-    "curriculumCode": "AC9SFI01",
-    "bank": "test",
-    "skill": "improve prediction",
-    "question": "A ball is placed at the top of a ramp. What do you predict?",
-    "explanation": "A visit count can be observed and compared.",
-    "printable": true,
-    "type": "single",
-    "answers": [
-      "it will roll down",
-      "it will fly away",
-      "it will grow"
-    ],
-    "correct": 0,
-    "visual": "Assessment card\nfeeder+seed | empty feeder",
-    "id": "ac9sfi01-t-021"
-  },
-  {
-    "curriculumCode": "AC9SFI01",
-    "bank": "test",
-    "skill": "choose evidence",
-    "question": "Which question can be answered by counting?",
-    "explanation": "Melting time directly tests the prediction.",
-    "printable": true,
-    "type": "single",
-    "answers": [
-      "How many birds are there?",
-      "Which bird is kindest?",
-      "What are the birds thinking?"
-    ],
-    "correct": 0,
-    "visual": "Assessment card\n🧊 ⏱️ 🧊",
-    "id": "ac9sfi01-t-022"
-  },
-  {
-    "curriculumCode": "AC9SFI01",
-    "bank": "test",
-    "skill": "inquiry sequence",
-    "question": "You push one car gently and one car harder. Which do you predict will go farther?",
-    "explanation": "Ask, predict, then check the outcome.",
-    "printable": true,
-    "type": "single",
-    "items": [
-      "Check which seed sprouted",
-      "Write a prediction",
-      "Ask which seed will sprout first"
-    ],
-    "correct": 0,
-    "instruction": "Use the arrows to put the cards in order.",
-    "id": "ac9sfi01-t-023",
-    "answers": [
-      "the harder-pushed car",
-      "the gently pushed car",
-      "neither car can move"
-    ]
-  },
-  {
-    "curriculumCode": "AC9SFI01",
-    "bank": "test",
-    "skill": "timing of prediction",
-    "question": "Which question can be tested with two cups?",
-    "explanation": "Predictions are made before the test result is seen.",
-    "printable": true,
-    "type": "single",
-    "answers": [
-      "Which cup holds more water?",
-      "Which cup is happier?",
-      "Which cup has the best name?"
-    ],
-    "correct": 0,
-    "id": "ac9sfi01-t-024"
+    "id": "ac9sfi01-t-016",
+    "audioPrompt": "Which question can be tested with two cups?",
+    "structuredExplanation": {
+      "summary": "It predicts the future result."
+    }
   }
 ];
 window.quizQuestions = window.skillrTestQuestions;

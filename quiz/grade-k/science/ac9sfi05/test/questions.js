@@ -15,7 +15,11 @@ window.skillrTestQuestions = [
       "change the result"
     ],
     "correct": 0,
-    "visual": "🐸 ♪♪"
+    "visual": "🐸 ♪♪",
+    "audioPrompt": "What is a good way to share what you observed?",
+    "structuredExplanation": {
+      "summary": "The medium preserves the feature being communicated."
+    }
   },
   {
     "id": "ac9sfi05-t-002",
@@ -32,7 +36,11 @@ window.skillrTestQuestions = [
       "unrelated stickers"
     ],
     "correct": 0,
-    "visual": "Maybe the rubber ball"
+    "visual": "Maybe the rubber ball",
+    "audioPrompt": "What can you add to a science drawing to make it clearer?",
+    "structuredExplanation": {
+      "summary": "A clear prediction names the object and expected outcome."
+    }
   },
   {
     "id": "ac9sfi05-t-003",
@@ -49,7 +57,11 @@ window.skillrTestQuestions = [
       "walk away"
     ],
     "correct": 0,
-    "visual": "I counted five ants near crumbs"
+    "visual": "I counted five ants near crumbs",
+    "audioPrompt": "When another student is sharing, what should you do?",
+    "structuredExplanation": {
+      "summary": "A relevant question shows active listening."
+    }
   },
   {
     "id": "ac9sfi05-t-004",
@@ -66,7 +78,11 @@ window.skillrTestQuestions = [
       "The leaf likes music"
     ],
     "correct": 0,
-    "visual": "Prediction: cube rolls | Observation: slid 40 cm"
+    "visual": "Prediction: cube rolls | Observation: slid 40 cm",
+    "audioPrompt": "Which sentence shares an observation?",
+    "structuredExplanation": {
+      "summary": "The sentence includes observation and comparison."
+    }
   },
   {
     "id": "ac9sfi05-t-005",
@@ -83,7 +99,11 @@ window.skillrTestQuestions = [
       "I changed the answer"
     ],
     "correct": 0,
-    "visual": "🌼"
+    "visual": "🌼",
+    "audioPrompt": "Which sentence shares a result clearly?",
+    "structuredExplanation": {
+      "summary": "Labels link model parts to observations."
+    }
   },
   {
     "id": "ac9sfi05-t-006",
@@ -100,7 +120,11 @@ window.skillrTestQuestions = [
       "to avoid talking about science"
     ],
     "correct": 0,
-    "visual": "morning birds 8 | lunch birds 3"
+    "visual": "morning birds 8 | lunch birds 3",
+    "audioPrompt": "Why might you show your drawing to a partner?",
+    "structuredExplanation": {
+      "summary": "Specific counts support the comparison."
+    }
   },
   {
     "id": "ac9sfi05-t-007",
@@ -117,7 +141,11 @@ window.skillrTestQuestions = [
       "erase both results"
     ],
     "correct": 0,
-    "visual": "tile 120 cm | carpet 45 cm | grass 30 cm"
+    "visual": "tile 120 cm | carpet 45 cm | grass 30 cm",
+    "audioPrompt": "What should you say if your observation differs from a partner's?",
+    "structuredExplanation": {
+      "summary": "The display needs labels and the recorded values."
+    }
   },
   {
     "id": "ac9sfi05-t-008",
@@ -134,7 +162,11 @@ window.skillrTestQuestions = [
       "I did not count"
     ],
     "correct": 0,
-    "visual": "The seed grew heaps"
+    "visual": "The seed grew heaps",
+    "audioPrompt": "Which is a clear way to share a count?",
+    "structuredExplanation": {
+      "summary": "Specific measures make the report trustworthy."
+    }
   },
   {
     "id": "ac9sfi05-t-009",
@@ -151,7 +183,11 @@ window.skillrTestQuestions = [
       "change the result"
     ],
     "correct": 0,
-    "visual": "smooth ramp made the car go farther"
+    "visual": "smooth ramp made the car go farther",
+    "audioPrompt": "What is a good way to share what you observed?",
+    "structuredExplanation": {
+      "summary": "Communicate both evidence and limitation."
+    }
   },
   {
     "id": "ac9sfi05-t-010",
@@ -168,7 +204,11 @@ window.skillrTestQuestions = [
       "unrelated stickers"
     ],
     "correct": 0,
-    "visual": "magnifying glass"
+    "visual": "magnifying glass",
+    "audioPrompt": "What can you add to a science drawing to make it clearer?",
+    "structuredExplanation": {
+      "summary": "Safe instructions are part of clear communication."
+    }
   },
   {
     "id": "ac9sfi05-t-011",
@@ -185,7 +225,11 @@ window.skillrTestQuestions = [
       "walk away"
     ],
     "correct": 0,
-    "visual": "Question → Prediction → Observation → Result"
+    "visual": "Question → Prediction → Observation → Result",
+    "audioPrompt": "When another student is sharing, what should you do?",
+    "structuredExplanation": {
+      "summary": "The first part prepares the audience."
+    }
   },
   {
     "id": "ac9sfi05-t-012",
@@ -209,7 +253,11 @@ window.skillrTestQuestions = [
       "The leaf has five spots",
       "The leaf is happy",
       "The leaf likes music"
-    ]
+    ],
+    "audioPrompt": "Which sentence shares an observation?",
+    "structuredExplanation": {
+      "summary": "A clear presentation follows the investigation sequence."
+    }
   },
   {
     "id": "ac9sfi05-t-013",
@@ -226,7 +274,11 @@ window.skillrTestQuestions = [
       "I changed the answer"
     ],
     "correct": 0,
-    "visual": "🦋 🔍"
+    "visual": "🦋 🔍",
+    "audioPrompt": "Which sentence shares a result clearly?",
+    "structuredExplanation": {
+      "summary": "The medium preserves the feature being communicated."
+    }
   },
   {
     "id": "ac9sfi05-t-014",
@@ -243,7 +295,11 @@ window.skillrTestQuestions = [
       "to avoid talking about science"
     ],
     "correct": 0,
-    "visual": "Maybe the tile"
+    "visual": "Maybe the tile",
+    "audioPrompt": "Why might you show your drawing to a partner?",
+    "structuredExplanation": {
+      "summary": "A clear prediction names the object and expected outcome."
+    }
   },
   {
     "id": "ac9sfi05-t-015",
@@ -260,7 +316,11 @@ window.skillrTestQuestions = [
       "erase both results"
     ],
     "correct": 0,
-    "visual": "The seedling grew taller"
+    "visual": "The seedling grew taller",
+    "audioPrompt": "What should you say if your observation differs from a partner's?",
+    "structuredExplanation": {
+      "summary": "A relevant question shows active listening."
+    }
   },
   {
     "id": "ac9sfi05-t-016",
@@ -277,150 +337,11 @@ window.skillrTestQuestions = [
       "I did not count"
     ],
     "correct": 0,
-    "visual": "Prediction: 2 birds | Observation: 4 birds"
-  },
-  {
-    "id": "ac9sfi05-t-017",
-    "curriculumCode": "AC9SFI05",
-    "bank": "test",
-    "skill": "label model",
-    "question": "What is a good way to share what you observed?",
-    "explanation": "Labels link model parts to observations.",
-    "printable": true,
-    "type": "single",
-    "answers": [
-      "tell the class clearly",
-      "hide the observation",
-      "change the result"
-    ],
-    "correct": 0,
-    "visual": "🚗 →"
-  },
-  {
-    "id": "ac9sfi05-t-018",
-    "curriculumCode": "AC9SFI05",
-    "bank": "test",
-    "skill": "support claim with evidence",
-    "question": "What can you add to a science drawing to make it clearer?",
-    "explanation": "Specific counts support the comparison.",
-    "printable": true,
-    "type": "single",
-    "answers": [
-      "labels",
-      "guesses only",
-      "unrelated stickers"
-    ],
-    "correct": 0,
-    "visual": "smooth stones 6 | rough stones 2"
-  },
-  {
-    "id": "ac9sfi05-t-019",
-    "curriculumCode": "AC9SFI05",
-    "bank": "test",
-    "skill": "choose visual display",
-    "question": "When another student is sharing, what should you do?",
-    "explanation": "The display needs labels and the recorded values.",
-    "printable": true,
-    "type": "single",
-    "answers": [
-      "listen",
-      "shout over them",
-      "walk away"
-    ],
-    "correct": 0,
-    "visual": "Monday 2 cm | Friday 5 cm"
-  },
-  {
-    "id": "ac9sfi05-t-020",
-    "curriculumCode": "AC9SFI05",
-    "bank": "test",
-    "skill": "replace vague language",
-    "question": "Which sentence shares an observation?",
-    "explanation": "Specific measures make the report trustworthy.",
-    "printable": true,
-    "type": "single",
-    "answers": [
-      "The leaf has five spots",
-      "The leaf is happy",
-      "The leaf likes music"
-    ],
-    "correct": 0,
-    "visual": "The ball went far"
-  },
-  {
-    "id": "ac9sfi05-t-021",
-    "curriculumCode": "AC9SFI05",
-    "bank": "test",
-    "skill": "answer critical question honestly",
-    "question": "Which sentence shares a result clearly?",
-    "explanation": "Communicate both evidence and limitation.",
-    "printable": true,
-    "type": "single",
-    "answers": [
-      "The ball rolled farther on the smooth floor",
-      "The ball was the nicest",
-      "I changed the answer"
-    ],
-    "correct": 0,
-    "visual": "window plant grew more"
-  },
-  {
-    "id": "ac9sfi05-t-022",
-    "curriculumCode": "AC9SFI05",
-    "bank": "test",
-    "skill": "share tool safety",
-    "question": "Why might you show your drawing to a partner?",
-    "explanation": "Safe instructions are part of clear communication.",
-    "printable": true,
-    "type": "single",
-    "answers": [
-      "to share what you noticed",
-      "to hide your idea",
-      "to avoid talking about science"
-    ],
-    "correct": 0,
-    "visual": "binoculars"
-  },
-  {
-    "id": "ac9sfi05-t-023",
-    "curriculumCode": "AC9SFI05",
-    "bank": "test",
-    "skill": "identify report structure",
-    "question": "What should you say if your observation differs from a partner's?",
-    "explanation": "The first part prepares the audience.",
-    "printable": true,
-    "type": "single",
-    "answers": [
-      "explain what you noticed politely",
-      "say they must be wrong",
-      "erase both results"
-    ],
-    "correct": 0,
-    "visual": "Title → Labels → Evidence → Conclusion"
-  },
-  {
-    "id": "ac9sfi05-t-024",
-    "curriculumCode": "AC9SFI05",
-    "bank": "test",
-    "skill": "sequence mini-presentation",
-    "question": "Which is a clear way to share a count?",
-    "explanation": "A clear presentation follows the investigation sequence.",
-    "printable": true,
-    "type": "single",
-    "items": [
-      "share the prediction",
-      "show the observation record",
-      "give the evidence-based result",
-      "invite questions",
-      "state the question"
-    ],
-    "correct": 0,
-    "instruction": "Move the cards into the correct order.",
-    "answers": [
-      "We counted four birds",
-      "Birds are the best",
-      "I did not count"
-    ]
+    "visual": "Prediction: 2 birds | Observation: 4 birds",
+    "audioPrompt": "Which is a clear way to share a count?",
+    "structuredExplanation": {
+      "summary": "The sentence includes observation and comparison."
+    }
   }
 ];
 window.quizQuestions = window.skillrTestQuestions;

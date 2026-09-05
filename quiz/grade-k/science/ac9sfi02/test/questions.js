@@ -15,7 +15,11 @@ window.skillrTestQuestions = [
     ],
     "correct": 0,
     "visual": "Assessment card\n🔍 🌿",
-    "id": "ac9sfi02-t-001"
+    "id": "ac9sfi02-t-001",
+    "audioPrompt": "What should you do first in a class investigation?",
+    "structuredExplanation": {
+      "summary": "A magnifier should be used calmly and away from focused sunlight."
+    }
   },
   {
     "curriculumCode": "AC9SFI02",
@@ -32,7 +36,11 @@ window.skillrTestQuestions = [
     ],
     "correct": 0,
     "visual": "Assessment card\n🌳  ✋",
-    "id": "ac9sfi02-t-002"
+    "id": "ac9sfi02-t-002",
+    "audioPrompt": "Why should we use equipment carefully?",
+    "structuredExplanation": {
+      "summary": "Approved touch can describe texture."
+    }
   },
   {
     "curriculumCode": "AC9SFI02",
@@ -49,7 +57,11 @@ window.skillrTestQuestions = [
     ],
     "correct": 0,
     "visual": "Assessment card\n♨️  line ─",
-    "id": "ac9sfi02-t-003"
+    "id": "ac9sfi02-t-003",
+    "audioPrompt": "You are comparing two toy cars. What should stay the same?",
+    "structuredExplanation": {
+      "summary": "Hot steam can burn; keep a safe distance."
+    }
   },
   {
     "curriculumCode": "AC9SFI02",
@@ -66,7 +78,11 @@ window.skillrTestQuestions = [
     ],
     "correct": 0,
     "visual": "Assessment card\n🐜 → |   tally ||||",
-    "id": "ac9sfi02-t-004"
+    "id": "ac9sfi02-t-004",
+    "audioPrompt": "What should you do after making an observation?",
+    "structuredExplanation": {
+      "summary": "A tally sheet records each crossing safely."
+    }
   },
   {
     "curriculumCode": "AC9SFI02",
@@ -88,7 +104,11 @@ window.skillrTestQuestions = [
       "use it as shown",
       "throw it",
       "look at the Sun through it"
-    ]
+    ],
+    "audioPrompt": "A teacher asks you to use a magnifying glass. What should you do?",
+    "structuredExplanation": {
+      "summary": "Understand the boundary before observing and recording."
+    }
   },
   {
     "curriculumCode": "AC9SFI02",
@@ -105,7 +125,11 @@ window.skillrTestQuestions = [
     ],
     "correct": 0,
     "visual": "Assessment card\n🌱 📏",
-    "id": "ac9sfi02-t-006"
+    "id": "ac9sfi02-t-006",
+    "audioPrompt": "Why might we repeat an observation?",
+    "structuredExplanation": {
+      "summary": "Measure without damaging the plant."
+    }
   },
   {
     "curriculumCode": "AC9SFI02",
@@ -122,7 +146,11 @@ window.skillrTestQuestions = [
     ],
     "correct": 0,
     "visual": "Assessment card\ntool ⚠️",
-    "id": "ac9sfi02-t-007"
+    "id": "ac9sfi02-t-007",
+    "audioPrompt": "What is a safe way to explore a leaf?",
+    "structuredExplanation": {
+      "summary": "Damaged equipment should not be used."
+    }
   },
   {
     "curriculumCode": "AC9SFI02",
@@ -139,7 +167,11 @@ window.skillrTestQuestions = [
     ],
     "correct": 0,
     "visual": "Assessment card\nLOOK ONLY 👁️",
-    "id": "ac9sfi02-t-008"
+    "id": "ac9sfi02-t-008",
+    "audioPrompt": "When the investigation is finished, what should you do?",
+    "structuredExplanation": {
+      "summary": "Look-only means no handling."
+    }
   },
   {
     "curriculumCode": "AC9SFI02",
@@ -156,7 +188,11 @@ window.skillrTestQuestions = [
     ],
     "correct": 0,
     "visual": "Assessment card\n🌿 📷",
-    "id": "ac9sfi02-t-009"
+    "id": "ac9sfi02-t-009",
+    "audioPrompt": "What should you do first in a class investigation?",
+    "structuredExplanation": {
+      "summary": "Colour can be recorded visually without damage."
+    }
   },
   {
     "curriculumCode": "AC9SFI02",
@@ -173,7 +209,11 @@ window.skillrTestQuestions = [
     ],
     "correct": 0,
     "visual": "Assessment card\n▲ sharp  ✋🚫",
-    "id": "ac9sfi02-t-010"
+    "id": "ac9sfi02-t-010",
+    "audioPrompt": "Why should we use equipment carefully?",
+    "structuredExplanation": {
+      "summary": "Sharp samples require a safer method."
+    }
   },
   {
     "curriculumCode": "AC9SFI02",
@@ -190,7 +230,11 @@ window.skillrTestQuestions = [
     ],
     "correct": 0,
     "visual": "Assessment card\npath | berry ❓",
-    "id": "ac9sfi02-t-011"
+    "id": "ac9sfi02-t-011",
+    "audioPrompt": "You are comparing two toy cars. What should stay the same?",
+    "structuredExplanation": {
+      "summary": "Leaving the path and handling unknown berries are unsafe."
+    }
   },
   {
     "curriculumCode": "AC9SFI02",
@@ -207,7 +251,11 @@ window.skillrTestQuestions = [
     ],
     "correct": 0,
     "visual": "Assessment card\n🔍  🚶",
-    "id": "ac9sfi02-t-012"
+    "id": "ac9sfi02-t-012",
+    "audioPrompt": "What should you do after making an observation?",
+    "structuredExplanation": {
+      "summary": "Walking and careful carrying reduce accidents."
+    }
   },
   {
     "curriculumCode": "AC9SFI02",
@@ -224,7 +272,11 @@ window.skillrTestQuestions = [
     ],
     "correct": 0,
     "visual": "Assessment card\n🎧  🔉",
-    "id": "ac9sfi02-t-013"
+    "id": "ac9sfi02-t-013",
+    "audioPrompt": "A teacher asks you to use a magnifying glass. What should you do?",
+    "structuredExplanation": {
+      "summary": "Safe listening uses a comfortable volume and careful handling."
+    }
   },
   {
     "curriculumCode": "AC9SFI02",
@@ -241,7 +293,11 @@ window.skillrTestQuestions = [
     ],
     "correct": 0,
     "visual": "Assessment card\n🌿  👃",
-    "id": "ac9sfi02-t-014"
+    "id": "ac9sfi02-t-014",
+    "audioPrompt": "Why might we repeat an observation?",
+    "structuredExplanation": {
+      "summary": "Smell detects odours without tasting."
+    }
   },
   {
     "curriculumCode": "AC9SFI02",
@@ -258,7 +314,11 @@ window.skillrTestQuestions = [
     ],
     "correct": 0,
     "visual": "Assessment card\n⚙️ | barrier | 🥽🎧",
-    "id": "ac9sfi02-t-015"
+    "id": "ac9sfi02-t-015",
+    "audioPrompt": "What is a safe way to explore a leaf?",
+    "structuredExplanation": {
+      "summary": "Barriers and hearing protection reduce risk."
+    }
   },
   {
     "curriculumCode": "AC9SFI02",
@@ -275,148 +335,11 @@ window.skillrTestQuestions = [
     ],
     "correct": 0,
     "visual": "Assessment card\n🧤  ▦",
-    "id": "ac9sfi02-t-016"
-  },
-  {
-    "curriculumCode": "AC9SFI02",
-    "bank": "test",
-    "skill": "follow safety instructions",
-    "question": "What should you do first in a class investigation?",
-    "explanation": "Report the spill and wait for adult direction.",
-    "printable": true,
-    "type": "single",
-    "items": [
-      "Wait away from the spill",
-      "Tell the teacher",
-      "Continue only when told it is safe"
-    ],
-    "correct": 0,
-    "instruction": "Use the arrows to put the cards in order.",
-    "id": "ac9sfi02-t-017",
-    "answers": [
-      "listen to the teacher's instructions",
-      "taste the materials",
-      "run with the equipment"
-    ]
-  },
-  {
-    "curriculumCode": "AC9SFI02",
-    "bank": "test",
-    "skill": "ethical living thing observation",
-    "question": "Why should we use equipment carefully?",
-    "explanation": "Distant observation protects birds and children.",
-    "printable": true,
-    "type": "single",
-    "answers": [
-      "to keep everyone safe",
-      "to finish without observing",
-      "to change the answer"
-    ],
-    "correct": 0,
-    "visual": "Assessment card\n🔭   🌳🐦",
-    "id": "ac9sfi02-t-018"
-  },
-  {
-    "curriculumCode": "AC9SFI02",
-    "bank": "test",
-    "skill": "adult supervision",
-    "question": "You are comparing two toy cars. What should stay the same?",
-    "explanation": "Unknown samples require adult identification and direction.",
-    "printable": true,
-    "type": "single",
-    "answers": [
-      "the ramp",
-      "everything changes",
-      "the car colours must change"
-    ],
-    "correct": 0,
-    "visual": "Assessment card\njar ❓",
-    "id": "ac9sfi02-t-019"
-  },
-  {
-    "curriculumCode": "AC9SFI02",
-    "bank": "test",
-    "skill": "respect boundaries",
-    "question": "What should you do after making an observation?",
-    "explanation": "Partner and movement rules support safe fieldwork.",
-    "printable": true,
-    "type": "single",
-    "answers": [
-      "record what you noticed",
-      "hide the result",
-      "change the question"
-    ],
-    "correct": 0,
-    "visual": "Assessment card\n👧👦  together",
-    "id": "ac9sfi02-t-020"
-  },
-  {
-    "curriculumCode": "AC9SFI02",
-    "bank": "test",
-    "skill": "safe recording",
-    "question": "A teacher asks you to use a magnifying glass. What should you do?",
-    "explanation": "A tally records counts without disturbing birds.",
-    "printable": true,
-    "type": "single",
-    "answers": [
-      "use it as shown",
-      "throw it",
-      "look at the Sun through it"
-    ],
-    "correct": 0,
-    "visual": "Assessment card\n🐦 ||||",
-    "id": "ac9sfi02-t-021"
-  },
-  {
-    "curriculumCode": "AC9SFI02",
-    "bank": "test",
-    "skill": "safe texture comparison",
-    "question": "Why might we repeat an observation?",
-    "explanation": "Smooth and rough are observable texture words.",
-    "printable": true,
-    "type": "single",
-    "answers": [
-      "to check what we noticed",
-      "to make up a new result",
-      "to avoid looking"
-    ],
-    "correct": 0,
-    "visual": "Assessment card\nsmooth ▭ | rough ▥",
-    "id": "ac9sfi02-t-022"
-  },
-  {
-    "curriculumCode": "AC9SFI02",
-    "bank": "test",
-    "skill": "spot hazards",
-    "question": "What is a safe way to explore a leaf?",
-    "explanation": "Damaged tools and trip hazards must be reported.",
-    "printable": true,
-    "type": "single",
-    "answers": [
-      "look and touch gently",
-      "taste it",
-      "rub it in your eyes"
-    ],
-    "correct": 0,
-    "visual": "Assessment card\ntool ⚠️   cord ─",
-    "id": "ac9sfi02-t-023"
-  },
-  {
-    "curriculumCode": "AC9SFI02",
-    "bank": "test",
-    "skill": "repair unsafe plan",
-    "question": "When the investigation is finished, what should you do?",
-    "explanation": "Reporting and isolating the spill is the safe first response.",
-    "printable": true,
-    "type": "single",
-    "answers": [
-      "pack away safely",
-      "leave spills",
-      "hide the tools"
-    ],
-    "correct": 0,
-    "visual": "Assessment card\n💧 ⚠️",
-    "id": "ac9sfi02-t-024"
+    "id": "ac9sfi02-t-016",
+    "audioPrompt": "When the investigation is finished, what should you do?",
+    "structuredExplanation": {
+      "summary": "Gloves can protect hands during approved handling."
+    }
   }
 ];
 window.quizQuestions = window.skillrTestQuestions;

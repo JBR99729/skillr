@@ -15,7 +15,11 @@ window.skillrTestQuestions = [
       "hunger"
     ],
     "correct": 0,
-    "visual": "🐟"
+    "visual": "🐟",
+    "audioPrompt": "Which feature can you see on a duck?",
+    "structuredExplanation": {
+      "summary": "Both correct features are on the outside."
+    }
   },
   {
     "id": "ac9sfu01-t-002",
@@ -32,7 +36,11 @@ window.skillrTestQuestions = [
       "leaf"
     ],
     "correct": 0,
-    "visual": "🌱 roots ↓ | leaves ↑"
+    "visual": "🌱 roots ↓ | leaves ↑",
+    "audioPrompt": "Which part of a plant usually grows under the soil?",
+    "structuredExplanation": {
+      "summary": "Both parts can be observed."
+    }
   },
   {
     "id": "ac9sfu01-t-003",
@@ -49,7 +57,11 @@ window.skillrTestQuestions = [
       "thoughts"
     ],
     "correct": 0,
-    "visual": "🕷️ 🪲 | 🐌 🪱"
+    "visual": "🕷️ 🪲 | 🐌 🪱",
+    "audioPrompt": "Which feature can you see on a cat?",
+    "structuredExplanation": {
+      "summary": "The rule uses a visible feature."
+    }
   },
   {
     "id": "ac9sfu01-t-004",
@@ -66,7 +78,11 @@ window.skillrTestQuestions = [
       "ant"
     ],
     "correct": 0,
-    "visual": "wings: bat, eagle, mouse"
+    "visual": "wings: bat, eagle, mouse",
+    "audioPrompt": "Which animal has fins?",
+    "structuredExplanation": {
+      "summary": "The item lacks the named feature."
+    }
   },
   {
     "id": "ac9sfu01-t-005",
@@ -83,7 +99,11 @@ window.skillrTestQuestions = [
       "bark"
     ],
     "correct": 0,
-    "visual": "A: long smooth leaf\nB: round jagged leaf"
+    "visual": "A: long smooth leaf\nB: round jagged leaf",
+    "audioPrompt": "What covers most of a bird's body?",
+    "structuredExplanation": {
+      "summary": "The comparison uses visible features."
+    }
   },
   {
     "id": "ac9sfu01-t-006",
@@ -100,7 +120,11 @@ window.skillrTestQuestions = [
       "seed"
     ],
     "correct": 0,
-    "visual": "🦋 🔍"
+    "visual": "🦋 🔍",
+    "audioPrompt": "Which part of a plant is usually green and flat?",
+    "structuredExplanation": {
+      "summary": "The close-up shows surface detail."
+    }
   },
   {
     "id": "ac9sfu01-t-007",
@@ -117,7 +141,11 @@ window.skillrTestQuestions = [
       "fish"
     ],
     "correct": 0,
-    "visual": "🌹 🌲 🐔 🐢 🍓 🐇"
+    "visual": "🌹 🌲 🐔 🐢 🍓 🐇",
+    "audioPrompt": "Which animal has a shell on the outside of its body?",
+    "structuredExplanation": {
+      "summary": "The plan uses successive observable rules."
+    }
   },
   {
     "id": "ac9sfu01-t-008",
@@ -134,7 +162,11 @@ window.skillrTestQuestions = [
       "thoughts"
     ],
     "correct": 0,
-    "visual": "🦫"
+    "visual": "🦫",
+    "audioPrompt": "Which feature can you see on a butterfly?",
+    "structuredExplanation": {
+      "summary": "Overlapping groups show both true features."
+    }
   },
   {
     "id": "ac9sfu01-t-009",
@@ -151,7 +183,11 @@ window.skillrTestQuestions = [
       "hunger"
     ],
     "correct": 0,
-    "visual": "duck and child"
+    "visual": "duck and child",
+    "audioPrompt": "Which feature can you see on a duck?",
+    "structuredExplanation": {
+      "summary": "The feature can be seen on the outside."
+    }
   },
   {
     "id": "ac9sfu01-t-010",
@@ -168,7 +204,11 @@ window.skillrTestQuestions = [
       "leaf"
     ],
     "correct": 0,
-    "visual": "🥕"
+    "visual": "🥕",
+    "audioPrompt": "Which part of a plant usually grows under the soil?",
+    "structuredExplanation": {
+      "summary": "The carrot is a root."
+    }
   },
   {
     "id": "ac9sfu01-t-011",
@@ -185,7 +225,11 @@ window.skillrTestQuestions = [
       "thoughts"
     ],
     "correct": 0,
-    "visual": "three fish all have fins and scales but different colours"
+    "visual": "three fish all have fins and scales but different colours",
+    "audioPrompt": "Which feature can you see on a cat?",
+    "structuredExplanation": {
+      "summary": "The shared features appear in every example."
+    }
   },
   {
     "id": "ac9sfu01-t-012",
@@ -208,7 +252,11 @@ window.skillrTestQuestions = [
       "fish",
       "dog",
       "ant"
-    ]
+    ],
+    "audioPrompt": "Which animal has fins?",
+    "structuredExplanation": {
+      "summary": "A consistent sort starts with observation and a clear rule."
+    }
   },
   {
     "id": "ac9sfu01-t-013",
@@ -225,7 +273,11 @@ window.skillrTestQuestions = [
       "bark"
     ],
     "correct": 0,
-    "visual": "🐦"
+    "visual": "🐦",
+    "audioPrompt": "What covers most of a bird's body?",
+    "structuredExplanation": {
+      "summary": "Both correct features are on the outside."
+    }
   },
   {
     "id": "ac9sfu01-t-014",
@@ -242,7 +294,11 @@ window.skillrTestQuestions = [
       "seed"
     ],
     "correct": 0,
-    "visual": "🌼"
+    "visual": "🌼",
+    "audioPrompt": "Which part of a plant is usually green and flat?",
+    "structuredExplanation": {
+      "summary": "Both parts can be observed."
+    }
   },
   {
     "id": "ac9sfu01-t-015",
@@ -259,7 +315,11 @@ window.skillrTestQuestions = [
       "fish"
     ],
     "correct": 0,
-    "visual": "🐈 🐇 | 🦆 🐟"
+    "visual": "🐈 🐇 | 🦆 🐟",
+    "audioPrompt": "Which animal has a shell on the outside of its body?",
+    "structuredExplanation": {
+      "summary": "The rule uses a visible feature."
+    }
   },
   {
     "id": "ac9sfu01-t-016",
@@ -276,149 +336,11 @@ window.skillrTestQuestions = [
       "thoughts"
     ],
     "correct": 0,
-    "visual": "fur: cat, rabbit, lizard"
-  },
-  {
-    "id": "ac9sfu01-t-017",
-    "curriculumCode": "AC9SFU01",
-    "bank": "test",
-    "skill": "compare features",
-    "question": "Which feature can you see on a duck?",
-    "explanation": "The comparison uses visible features.",
-    "printable": true,
-    "type": "single",
-    "answers": [
-      "feathers",
-      "thoughts",
-      "hunger"
-    ],
-    "correct": 0,
-    "visual": "A: red 5-petal flower\nB: yellow many-petal flower"
-  },
-  {
-    "id": "ac9sfu01-t-018",
-    "curriculumCode": "AC9SFU01",
-    "bank": "test",
-    "skill": "use close-up evidence",
-    "question": "Which part of a plant usually grows under the soil?",
-    "explanation": "The close-up shows surface detail.",
-    "printable": true,
-    "type": "single",
-    "answers": [
-      "root",
-      "flower",
-      "leaf"
-    ],
-    "correct": 0,
-    "visual": "🌿 🔍"
-  },
-  {
-    "id": "ac9sfu01-t-019",
-    "curriculumCode": "AC9SFU01",
-    "bank": "test",
-    "skill": "choose hierarchical sort",
-    "question": "Which feature can you see on a cat?",
-    "explanation": "The plan uses successive observable rules.",
-    "printable": true,
-    "type": "single",
-    "answers": [
-      "fur",
-      "heartbeat",
-      "thoughts"
-    ],
-    "correct": 0,
-    "visual": "🌿 🌱 🐈 🦆 🍊 🐟"
-  },
-  {
-    "id": "ac9sfu01-t-020",
-    "curriculumCode": "AC9SFU01",
-    "bank": "test",
-    "skill": "overlapping classification",
-    "question": "Which animal has fins?",
-    "explanation": "Overlapping groups show both true features.",
-    "printable": true,
-    "type": "single",
-    "answers": [
-      "fish",
-      "dog",
-      "ant"
-    ],
-    "correct": 0,
-    "visual": "🦇"
-  },
-  {
-    "id": "ac9sfu01-t-021",
-    "curriculumCode": "AC9SFU01",
-    "bank": "test",
-    "skill": "find similarity",
-    "question": "What covers most of a bird's body?",
-    "explanation": "The feature can be seen on the outside.",
-    "printable": true,
-    "type": "single",
-    "answers": [
-      "feathers",
-      "scales",
-      "bark"
-    ],
-    "correct": 0,
-    "visual": "cat and dog"
-  },
-  {
-    "id": "ac9sfu01-t-022",
-    "curriculumCode": "AC9SFU01",
-    "bank": "test",
-    "skill": "identify plant food part",
-    "question": "Which part of a plant is usually green and flat?",
-    "explanation": "The apple is a fruit.",
-    "printable": true,
-    "type": "single",
-    "answers": [
-      "leaf",
-      "root",
-      "seed"
-    ],
-    "correct": 0,
-    "visual": "🍎"
-  },
-  {
-    "id": "ac9sfu01-t-023",
-    "curriculumCode": "AC9SFU01",
-    "bank": "test",
-    "skill": "state common pattern",
-    "question": "Which animal has a shell on the outside of its body?",
-    "explanation": "The shared features appear in every example.",
-    "printable": true,
-    "type": "single",
-    "answers": [
-      "turtle",
-      "rabbit",
-      "fish"
-    ],
-    "correct": 0,
-    "visual": "three birds all have feathers and beaks but different sizes"
-  },
-  {
-    "id": "ac9sfu01-t-024",
-    "curriculumCode": "AC9SFU01",
-    "bank": "test",
-    "skill": "sequence a feature sort",
-    "question": "Which feature can you see on a butterfly?",
-    "explanation": "A consistent sort starts with observation and a clear rule.",
-    "printable": true,
-    "type": "single",
-    "items": [
-      "choose one visible feature rule",
-      "place every item using the rule",
-      "check that each item fits",
-      "look closely at external features"
-    ],
-    "correct": 0,
-    "instruction": "Move the cards into the correct order.",
-    "answers": [
-      "wings",
-      "bones",
-      "thoughts"
-    ]
+    "visual": "fur: cat, rabbit, lizard",
+    "audioPrompt": "Which feature can you see on a butterfly?",
+    "structuredExplanation": {
+      "summary": "The item lacks the named feature."
+    }
   }
 ];
 window.quizQuestions = window.skillrTestQuestions;

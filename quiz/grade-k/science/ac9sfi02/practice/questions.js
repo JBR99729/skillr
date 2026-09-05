@@ -15,7 +15,11 @@ window.skillrPracticeQuestions = [
     ],
     "correct": 0,
     "visual": "🥽  ✅",
-    "id": "ac9sfi02-p-001"
+    "id": "ac9sfi02-p-001",
+    "audioPrompt": "Which child is investigating safely?",
+    "structuredExplanation": {
+      "summary": "Following instructions and using protection supports safety."
+    }
   },
   {
     "curriculumCode": "AC9SFI02",
@@ -32,7 +36,11 @@ window.skillrPracticeQuestions = [
     ],
     "correct": 0,
     "visual": "🐦 ♪  👂",
-    "id": "ac9sfi02-p-002"
+    "id": "ac9sfi02-p-002",
+    "audioPrompt": "Which sense notices a bird call?",
+    "structuredExplanation": {
+      "summary": "Hearing detects sound."
+    }
   },
   {
     "curriculumCode": "AC9SFI02",
@@ -49,7 +57,11 @@ window.skillrPracticeQuestions = [
     ],
     "correct": 0,
     "visual": "❓🥤  👅🚫",
-    "id": "ac9sfi02-p-003"
+    "id": "ac9sfi02-p-003",
+    "audioPrompt": "An unlabelled liquid is on the teacher's table. Which sense must not be used?",
+    "structuredExplanation": {
+      "summary": "Never taste an unknown substance."
+    }
   },
   {
     "curriculumCode": "AC9SFI02",
@@ -66,7 +78,11 @@ window.skillrPracticeQuestions = [
     ],
     "correct": 0,
     "visual": "🌿 🔍",
-    "id": "ac9sfi02-p-004"
+    "id": "ac9sfi02-p-004",
+    "audioPrompt": "Which tool lets you view tiny leaf details safely?",
+    "structuredExplanation": {
+      "summary": "A magnifying glass supports close visual observation."
+    }
   },
   {
     "curriculumCode": "AC9SFI02",
@@ -88,7 +104,11 @@ window.skillrPracticeQuestions = [
       "use it as shown",
       "throw it",
       "look at the Sun through it"
-    ]
+    ],
+    "audioPrompt": "A teacher asks you to use a magnifying glass. What should you do?",
+    "structuredExplanation": {
+      "summary": "Listen first, prepare protection, then begin."
+    }
   },
   {
     "curriculumCode": "AC9SFI02",
@@ -105,7 +125,11 @@ window.skillrPracticeQuestions = [
     ],
     "correct": 0,
     "visual": "🦋 🌼   👀",
-    "id": "ac9sfi02-p-006"
+    "id": "ac9sfi02-p-006",
+    "audioPrompt": "How should you observe a butterfly on a flower?",
+    "structuredExplanation": {
+      "summary": "Quiet distant observation avoids harming or disturbing it."
+    }
   },
   {
     "curriculumCode": "AC9SFI02",
@@ -122,7 +146,11 @@ window.skillrPracticeQuestions = [
     ],
     "correct": 0,
     "visual": "TEACHER ONLY",
-    "id": "ac9sfi02-p-007"
+    "id": "ac9sfi02-p-007",
+    "audioPrompt": "A container is labelled 'Teacher use only'. What should a child do?",
+    "structuredExplanation": {
+      "summary": "The label sets a clear adult-supervision rule."
+    }
   },
   {
     "curriculumCode": "AC9SFI02",
@@ -139,7 +167,11 @@ window.skillrPracticeQuestions = [
     ],
     "correct": 0,
     "visual": "children | rope ─ | habitat",
-    "id": "ac9sfi02-p-008"
+    "id": "ac9sfi02-p-008",
+    "audioPrompt": "A rope marks the safe viewing area. Where should the class stand?",
+    "structuredExplanation": {
+      "summary": "The rope marks the safe boundary."
+    }
   },
   {
     "curriculumCode": "AC9SFI02",
@@ -156,7 +188,11 @@ window.skillrPracticeQuestions = [
     ],
     "correct": 0,
     "visual": "🐌  ✏️",
-    "id": "ac9sfi02-p-009"
+    "id": "ac9sfi02-p-009",
+    "audioPrompt": "Which record can be made without disturbing the snail?",
+    "structuredExplanation": {
+      "summary": "A drawing records the observation without handling the animal."
+    }
   },
   {
     "curriculumCode": "AC9SFI02",
@@ -173,7 +209,11 @@ window.skillrPracticeQuestions = [
     ],
     "correct": 0,
     "visual": "▦  ✋  ▤",
-    "id": "ac9sfi02-p-010"
+    "id": "ac9sfi02-p-010",
+    "audioPrompt": "Which plan safely compares two sealed texture boards?",
+    "structuredExplanation": {
+      "summary": "Gentle approved touch is suitable for texture comparison."
+    }
   },
   {
     "curriculumCode": "AC9SFI02",
@@ -190,7 +230,11 @@ window.skillrPracticeQuestions = [
     ],
     "correct": 0,
     "visual": "🥤 ⚡   🎒 in path",
-    "id": "ac9sfi02-p-011"
+    "id": "ac9sfi02-p-011",
+    "audioPrompt": "You are comparing two toy cars. What should stay the same?",
+    "structuredExplanation": {
+      "summary": "Liquids near electricity and blocked walkways are hazards."
+    }
   },
   {
     "curriculumCode": "AC9SFI02",
@@ -207,7 +251,11 @@ window.skillrPracticeQuestions = [
     ],
     "correct": 0,
     "visual": "jar ❓",
-    "id": "ac9sfi02-p-012"
+    "id": "ac9sfi02-p-012",
+    "audioPrompt": "A child wants to smell an unknown liquid closely. What is the safe correction?",
+    "structuredExplanation": {
+      "summary": "Unknown liquids should remain closed until an adult directs the observation."
+    }
   },
   {
     "curriculumCode": "AC9SFI02",
@@ -224,7 +272,11 @@ window.skillrPracticeQuestions = [
     ],
     "correct": 0,
     "visual": "child | pond 🐸",
-    "id": "ac9sfi02-p-013"
+    "id": "ac9sfi02-p-013",
+    "audioPrompt": "Which action protects both the child and the frog?",
+    "structuredExplanation": {
+      "summary": "Staying at the edge avoids water danger and disturbance."
+    }
   },
   {
     "curriculumCode": "AC9SFI02",
@@ -241,7 +293,11 @@ window.skillrPracticeQuestions = [
     ],
     "correct": 0,
     "visual": "🍄 🌿 👅🚫",
-    "id": "ac9sfi02-p-014"
+    "id": "ac9sfi02-p-014",
+    "audioPrompt": "Kai says, 'If it is natural, it is safe to taste.' What is true?",
+    "structuredExplanation": {
+      "summary": "Natural does not mean safe."
+    }
   },
   {
     "curriculumCode": "AC9SFI02",
@@ -258,7 +314,11 @@ window.skillrPracticeQuestions = [
     ],
     "correct": 0,
     "visual": "path ── 🌿 🐞",
-    "id": "ac9sfi02-p-015"
+    "id": "ac9sfi02-p-015",
+    "audioPrompt": "Which action is safe during a garden observation?",
+    "structuredExplanation": {
+      "summary": "Staying on the path protects children and living things."
+    }
   },
   {
     "curriculumCode": "AC9SFI02",
@@ -275,7 +335,11 @@ window.skillrPracticeQuestions = [
     ],
     "correct": 0,
     "visual": "🌼  👁️",
-    "id": "ac9sfi02-p-016"
+    "id": "ac9sfi02-p-016",
+    "audioPrompt": "Which sense notices that a flower is yellow?",
+    "structuredExplanation": {
+      "summary": "Sight detects colour."
+    }
   },
   {
     "curriculumCode": "AC9SFI02",
@@ -292,7 +356,11 @@ window.skillrPracticeQuestions = [
     ],
     "correct": 0,
     "visual": "🌿  ✋🚫",
-    "id": "ac9sfi02-p-017"
+    "id": "ac9sfi02-p-017",
+    "audioPrompt": "A plant has a sign saying 'Do not touch'. What should you do?",
+    "structuredExplanation": {
+      "summary": "Safety instructions set the boundary for observation."
+    }
   },
   {
     "curriculumCode": "AC9SFI02",
@@ -309,7 +377,11 @@ window.skillrPracticeQuestions = [
     ],
     "correct": 0,
     "visual": "🐦 🌳 🔭",
-    "id": "ac9sfi02-p-018"
+    "id": "ac9sfi02-p-018",
+    "audioPrompt": "Which tool helps observe a bird without climbing the tree?",
+    "structuredExplanation": {
+      "summary": "Binoculars allow distant observation from the ground."
+    }
   },
   {
     "curriculumCode": "AC9SFI02",
@@ -331,7 +403,11 @@ window.skillrPracticeQuestions = [
       "the ramp",
       "everything changes",
       "the car colours must change"
-    ]
+    ],
+    "audioPrompt": "You are comparing two toy cars. What should stay the same?",
+    "structuredExplanation": {
+      "summary": "Careful carrying, calm use and proper return protect the tool and user."
+    }
   },
   {
     "curriculumCode": "AC9SFI02",
@@ -348,7 +424,11 @@ window.skillrPracticeQuestions = [
     ],
     "correct": 0,
     "visual": "🪵  🪲",
-    "id": "ac9sfi02-p-020"
+    "id": "ac9sfi02-p-020",
+    "audioPrompt": "How can you look under a log safely and gently?",
+    "structuredExplanation": {
+      "summary": "Adult guidance and replacing the habitat reduce disturbance."
+    }
   },
   {
     "curriculumCode": "AC9SFI02",
@@ -365,7 +445,11 @@ window.skillrPracticeQuestions = [
     ],
     "correct": 0,
     "visual": "🍄  ✋🚫",
-    "id": "ac9sfi02-p-021"
+    "id": "ac9sfi02-p-021",
+    "audioPrompt": "You find an unknown mushroom in the garden. What is safest?",
+    "structuredExplanation": {
+      "summary": "Unknown living things should be left alone and reported."
+    }
   },
   {
     "curriculumCode": "AC9SFI02",
@@ -382,7 +466,11 @@ window.skillrPracticeQuestions = [
     ],
     "correct": 0,
     "visual": "⚠️  △ △",
-    "id": "ac9sfi02-p-022"
+    "id": "ac9sfi02-p-022",
+    "audioPrompt": "The floor around a spill is marked with cones. What should you do?",
+    "structuredExplanation": {
+      "summary": "The marked area should be avoided."
+    }
   },
   {
     "curriculumCode": "AC9SFI02",
@@ -399,7 +487,11 @@ window.skillrPracticeQuestions = [
     ],
     "correct": 0,
     "visual": "🎙️  ↔  🔊",
-    "id": "ac9sfi02-p-023"
+    "id": "ac9sfi02-p-023",
+    "audioPrompt": "How can the class record a loud sound safely?",
+    "structuredExplanation": {
+      "summary": "Safe distance and volume protect hearing."
+    }
   },
   {
     "curriculumCode": "AC9SFI02",
@@ -416,558 +508,11 @@ window.skillrPracticeQuestions = [
     ],
     "correct": 0,
     "visual": "soft ▦ | rough ▥",
-    "id": "ac9sfi02-p-024"
-  },
-  {
-    "curriculumCode": "AC9SFI02",
-    "bank": "practice",
-    "skill": "spot hazards",
-    "question": "What should you do first in a class investigation?",
-    "explanation": "Running with glass and tasting unknown material are unsafe.",
-    "printable": true,
-    "type": "single",
-    "answers": [
-      "listen to the teacher's instructions",
-      "taste the materials",
-      "run with the equipment"
-    ],
-    "correct": 0,
-    "visual": "🏃 jar   👅❓",
-    "id": "ac9sfi02-p-025"
-  },
-  {
-    "curriculumCode": "AC9SFI02",
-    "bank": "practice",
-    "skill": "repair unsafe plan",
-    "question": "A child is about to chase a butterfly for a closer look. What should change?",
-    "explanation": "Quiet observation protects the animal and child.",
-    "printable": true,
-    "type": "single",
-    "answers": [
-      "Stop and observe quietly from a distance",
-      "Run faster",
-      "Catch it in bare hands"
-    ],
-    "correct": 0,
-    "visual": "🦋  🏃🚫",
-    "id": "ac9sfi02-p-026"
-  },
-  {
-    "curriculumCode": "AC9SFI02",
-    "bank": "practice",
-    "skill": "protect self and living things",
-    "question": "Which plan protects a bird nest and the class?",
-    "explanation": "Ground-level distant observation is safer for everyone.",
-    "printable": true,
-    "type": "single",
-    "answers": [
-      "Observe with binoculars from the ground",
-      "Climb the tree",
-      "touch the nest"
-    ],
-    "correct": 0,
-    "visual": "🔭  🌳🐦",
-    "id": "ac9sfi02-p-027"
-  },
-  {
-    "curriculumCode": "AC9SFI02",
-    "bank": "practice",
-    "skill": "correct misconception",
-    "question": "Zoe says safety rules stop science. What is correct?",
-    "explanation": "Good safety supports learning.",
-    "printable": true,
-    "type": "single",
-    "answers": [
-      "Safety rules let investigations happen with less risk",
-      "Rules remove all observations",
-      "Science needs unsafe actions"
-    ],
-    "correct": 0,
-    "id": "ac9sfi02-p-028"
-  },
-  {
-    "curriculumCode": "AC9SFI02",
-    "bank": "practice",
-    "skill": "safe or unsafe action",
-    "question": "Which action is safe with a magnifying glass?",
-    "explanation": "A magnifier should be used calmly and away from focused sunlight.",
-    "printable": true,
-    "type": "single",
-    "answers": [
-      "Use it to view a leaf away from direct sunlight",
-      "Focus sunlight onto skin",
-      "Run while looking through it"
-    ],
-    "correct": 0,
-    "visual": "🔍 🌿",
-    "id": "ac9sfi02-p-029"
-  },
-  {
-    "curriculumCode": "AC9SFI02",
-    "bank": "practice",
-    "skill": "match sense to observation",
-    "question": "With teacher approval, which sense notices that bark is rough?",
-    "explanation": "Approved touch can describe texture.",
-    "printable": true,
-    "type": "single",
-    "answers": [
-      "touch",
-      "hearing",
-      "taste"
-    ],
-    "correct": 0,
-    "visual": "🌳  ✋",
-    "id": "ac9sfi02-p-030"
-  },
-  {
-    "curriculumCode": "AC9SFI02",
-    "bank": "practice",
-    "skill": "sense not to use",
-    "question": "Steam is rising from a container. Which action is unsafe?",
-    "explanation": "Hot steam can burn; keep a safe distance.",
-    "printable": true,
-    "type": "single",
-    "answers": [
-      "Putting your face close to smell it",
-      "Looking from the marked line",
-      "Listening to the teacher"
-    ],
-    "correct": 0,
-    "visual": "♨️  line ─",
-    "id": "ac9sfi02-p-031"
-  },
-  {
-    "curriculumCode": "AC9SFI02",
-    "bank": "practice",
-    "skill": "choose safe tool",
-    "question": "Which tool helps record how many ants cross a line?",
-    "explanation": "A tally sheet records each crossing safely.",
-    "printable": true,
-    "type": "single",
-    "answers": [
-      "tally sheet",
-      "scissors",
-      "hot plate"
-    ],
-    "correct": 0,
-    "visual": "🐜 → |   tally ||||",
-    "id": "ac9sfi02-p-032"
-  },
-  {
-    "curriculumCode": "AC9SFI02",
-    "bank": "practice",
-    "skill": "follow safety instructions",
-    "question": "What should you do first in a class investigation?",
-    "explanation": "Understand the boundary before observing and recording.",
-    "printable": true,
-    "type": "single",
-    "items": [
-      "Record what you saw",
-      "Stay behind the marked line",
-      "Listen to the boundary rule"
-    ],
-    "correct": 0,
-    "instruction": "Use the arrows to put the cards in order.",
-    "id": "ac9sfi02-p-033",
-    "answers": [
-      "listen to the teacher's instructions",
-      "taste the materials",
-      "run with the equipment"
-    ]
-  },
-  {
-    "curriculumCode": "AC9SFI02",
-    "bank": "practice",
-    "skill": "ethical living thing observation",
-    "question": "Which plan protects a seedling during measurement?",
-    "explanation": "Measure without damaging the plant.",
-    "printable": true,
-    "type": "single",
-    "answers": [
-      "Place the ruler beside the stem without bending it",
-      "Pull the stem straight",
-      "Remove leaves to see better"
-    ],
-    "correct": 0,
-    "visual": "🌱 📏",
-    "id": "ac9sfi02-p-034"
-  },
-  {
-    "curriculumCode": "AC9SFI02",
-    "bank": "practice",
-    "skill": "adult supervision",
-    "question": "A tool has a cracked handle. What should you do?",
-    "explanation": "Damaged equipment should not be used.",
-    "printable": true,
-    "type": "single",
-    "answers": [
-      "Stop and tell the teacher",
-      "Use it quickly",
-      "Hide the crack"
-    ],
-    "correct": 0,
-    "visual": "tool ⚠️",
-    "id": "ac9sfi02-p-035"
-  },
-  {
-    "curriculumCode": "AC9SFI02",
-    "bank": "practice",
-    "skill": "respect boundaries",
-    "question": "A sign says 'Look only'. Which action follows the rule?",
-    "explanation": "Look-only means no handling.",
-    "printable": true,
-    "type": "single",
-    "answers": [
-      "Observe with your eyes and record what you see",
-      "Touch the display",
-      "Open the container"
-    ],
-    "correct": 0,
-    "visual": "LOOK ONLY 👁️",
-    "id": "ac9sfi02-p-036"
-  },
-  {
-    "curriculumCode": "AC9SFI02",
-    "bank": "practice",
-    "skill": "safe recording",
-    "question": "Which record suits leaf colour without picking the leaf?",
-    "explanation": "Colour can be recorded visually without damage.",
-    "printable": true,
-    "type": "single",
-    "answers": [
-      "a colour note or photograph",
-      "tearing off the leaf",
-      "tasting the leaf"
-    ],
-    "correct": 0,
-    "visual": "🌿 📷",
-    "id": "ac9sfi02-p-037"
-  },
-  {
-    "curriculumCode": "AC9SFI02",
-    "bank": "practice",
-    "skill": "safe texture comparison",
-    "question": "A sample is sharp. How should it be observed?",
-    "explanation": "Sharp samples require a safer method.",
-    "printable": true,
-    "type": "single",
-    "answers": [
-      "Do not touch it; follow the teacher's alternative viewing method",
-      "Press a finger onto it",
-      "Pass it quickly between children"
-    ],
-    "correct": 0,
-    "visual": "▲ sharp  ✋🚫",
-    "id": "ac9sfi02-p-038"
-  },
-  {
-    "curriculumCode": "AC9SFI02",
-    "bank": "practice",
-    "skill": "spot hazards",
-    "question": "What is a safe way to explore a leaf?",
-    "explanation": "Leaving the path and handling unknown berries are unsafe.",
-    "printable": true,
-    "type": "single",
-    "answers": [
-      "look and touch gently",
-      "taste it",
-      "rub it in your eyes"
-    ],
-    "correct": 0,
-    "visual": "path | berry ❓",
-    "id": "ac9sfi02-p-039"
-  },
-  {
-    "curriculumCode": "AC9SFI02",
-    "bank": "practice",
-    "skill": "repair unsafe plan",
-    "question": "A child carries a magnifier while running. What is the correction?",
-    "explanation": "Walking and careful carrying reduce accidents.",
-    "printable": true,
-    "type": "single",
-    "answers": [
-      "Walk and carry it carefully",
-      "Keep running but hold it higher",
-      "Throw it to a partner"
-    ],
-    "correct": 0,
-    "visual": "🔍  🚶",
-    "id": "ac9sfi02-p-040"
-  },
-  {
-    "curriculumCode": "AC9SFI02",
-    "bank": "practice",
-    "skill": "protect self and living things",
-    "question": "How should a rock habitat be checked?",
-    "explanation": "Adult guidance and replacement protect hands and habitat.",
-    "printable": true,
-    "type": "single",
-    "answers": [
-      "An adult carefully lifts and replaces the rock",
-      "Kick the rock",
-      "take the animals away"
-    ],
-    "correct": 0,
-    "visual": "🪨 🐜",
-    "id": "ac9sfi02-p-041"
-  },
-  {
-    "curriculumCode": "AC9SFI02",
-    "bank": "practice",
-    "skill": "correct misconception",
-    "question": "Ben says using more senses is always better. What is correct?",
-    "explanation": "The appropriate senses depend on safety and instructions.",
-    "printable": true,
-    "type": "single",
-    "answers": [
-      "Use only senses that are safe and approved for the situation",
-      "Always taste samples",
-      "Always touch living things"
-    ],
-    "correct": 0,
-    "visual": "👁️ 👂 👃 ✋ / 👅🚫",
-    "id": "ac9sfi02-p-042"
-  },
-  {
-    "curriculumCode": "AC9SFI02",
-    "bank": "practice",
-    "skill": "safe or unsafe action",
-    "question": "Which child uses the sound tool safely?",
-    "explanation": "Safe listening uses a comfortable volume and careful handling.",
-    "printable": true,
-    "type": "single",
-    "answers": [
-      "The child keeps the volume comfortable",
-      "The child holds the speaker against an ear",
-      "The child turns the volume to maximum"
-    ],
-    "correct": 0,
-    "visual": "🎧  🔉",
-    "id": "ac9sfi02-p-043"
-  },
-  {
-    "curriculumCode": "AC9SFI02",
-    "bank": "practice",
-    "skill": "match sense to observation",
-    "question": "Which sense notices the smell of crushed mint held safely nearby?",
-    "explanation": "Smell detects odours without tasting.",
-    "printable": true,
-    "type": "single",
-    "answers": [
-      "smell",
-      "hearing",
-      "taste"
-    ],
-    "correct": 0,
-    "visual": "🌿  👃",
-    "id": "ac9sfi02-p-044"
-  },
-  {
-    "curriculumCode": "AC9SFI02",
-    "bank": "practice",
-    "skill": "sense not to use",
-    "question": "A loud machine is operating behind a barrier. Which plan is safest?",
-    "explanation": "Barriers and hearing protection reduce risk.",
-    "printable": true,
-    "type": "single",
-    "answers": [
-      "Stay behind the barrier and follow the teacher's hearing-protection instruction",
-      "Put an ear beside the machine",
-      "Cross the barrier"
-    ],
-    "correct": 0,
-    "visual": "⚙️ | barrier | 🥽🎧",
-    "id": "ac9sfi02-p-045"
-  },
-  {
-    "curriculumCode": "AC9SFI02",
-    "bank": "practice",
-    "skill": "choose safe tool",
-    "question": "Which tool protects hands when the teacher approves handling a rough sample?",
-    "explanation": "Gloves can protect hands during approved handling.",
-    "printable": true,
-    "type": "single",
-    "answers": [
-      "protective gloves",
-      "a drinking straw",
-      "a toy sword"
-    ],
-    "correct": 0,
-    "visual": "🧤  ▦",
-    "id": "ac9sfi02-p-046"
-  },
-  {
-    "curriculumCode": "AC9SFI02",
-    "bank": "practice",
-    "skill": "follow safety instructions",
-    "question": "What is a safe way to explore a leaf?",
-    "explanation": "Report the spill and wait for adult direction.",
-    "printable": true,
-    "type": "single",
-    "items": [
-      "Wait away from the spill",
-      "Tell the teacher",
-      "Continue only when told it is safe"
-    ],
-    "correct": 0,
-    "instruction": "Use the arrows to put the cards in order.",
-    "id": "ac9sfi02-p-047",
-    "answers": [
-      "look and touch gently",
-      "taste it",
-      "rub it in your eyes"
-    ]
-  },
-  {
-    "curriculumCode": "AC9SFI02",
-    "bank": "practice",
-    "skill": "ethical living thing observation",
-    "question": "How should a class observe a bird nest?",
-    "explanation": "Distant observation protects birds and children.",
-    "printable": true,
-    "type": "single",
-    "answers": [
-      "Use binoculars from the approved area",
-      "Climb to the nest",
-      "Touch the eggs"
-    ],
-    "correct": 0,
-    "visual": "🔭   🌳🐦",
-    "id": "ac9sfi02-p-048"
-  },
-  {
-    "curriculumCode": "AC9SFI02",
-    "bank": "practice",
-    "skill": "adult supervision",
-    "question": "A sample has no label. Which action is correct?",
-    "explanation": "Unknown samples require adult identification and direction.",
-    "printable": true,
-    "type": "single",
-    "answers": [
-      "Leave it closed and ask the teacher",
-      "Open it to find out",
-      "Smell it closely"
-    ],
-    "correct": 0,
-    "visual": "jar ❓",
-    "id": "ac9sfi02-p-049"
-  },
-  {
-    "curriculumCode": "AC9SFI02",
-    "bank": "practice",
-    "skill": "respect boundaries",
-    "question": "A class is told to stay with a partner outdoors. Which action is correct?",
-    "explanation": "Partner and movement rules support safe fieldwork.",
-    "printable": true,
-    "type": "single",
-    "answers": [
-      "Keep your partner nearby and tell the teacher before moving areas",
-      "Wander alone",
-      "Hide behind bushes"
-    ],
-    "correct": 0,
-    "visual": "👧👦  together",
-    "id": "ac9sfi02-p-050"
-  },
-  {
-    "curriculumCode": "AC9SFI02",
-    "bank": "practice",
-    "skill": "safe recording",
-    "question": "How should you record the number of birds?",
-    "explanation": "A tally records counts without disturbing birds.",
-    "printable": true,
-    "type": "single",
-    "answers": [
-      "Use a tally while watching from the approved place",
-      "chase birds into one group",
-      "climb the tree"
-    ],
-    "correct": 0,
-    "visual": "🐦 ||||",
-    "id": "ac9sfi02-p-051"
-  },
-  {
-    "curriculumCode": "AC9SFI02",
-    "bank": "practice",
-    "skill": "safe texture comparison",
-    "question": "Which words describe texture without judging it?",
-    "explanation": "Smooth and rough are observable texture words.",
-    "printable": true,
-    "type": "single",
-    "answers": [
-      "smooth and rough",
-      "good and bad",
-      "nice and ugly"
-    ],
-    "correct": 0,
-    "visual": "smooth ▭ | rough ▥",
-    "id": "ac9sfi02-p-052"
-  },
-  {
-    "curriculumCode": "AC9SFI02",
-    "bank": "practice",
-    "skill": "spot hazards",
-    "question": "A teacher asks you to use a magnifying glass. What should you do?",
-    "explanation": "Damaged tools and trip hazards must be reported.",
-    "printable": true,
-    "type": "single",
-    "answers": [
-      "use it as shown",
-      "throw it",
-      "look at the Sun through it"
-    ],
-    "correct": 0,
-    "visual": "tool ⚠️   cord ─",
-    "id": "ac9sfi02-p-053"
-  },
-  {
-    "curriculumCode": "AC9SFI02",
-    "bank": "practice",
-    "skill": "repair unsafe plan",
-    "question": "Water spills near the investigation table. What should happen first?",
-    "explanation": "Reporting and isolating the spill is the safe first response.",
-    "printable": true,
-    "type": "single",
-    "answers": [
-      "Tell the teacher and keep others away",
-      "Ignore it",
-      "Cover it with books"
-    ],
-    "correct": 0,
-    "visual": "💧 ⚠️",
-    "id": "ac9sfi02-p-054"
-  },
-  {
-    "curriculumCode": "AC9SFI02",
-    "bank": "practice",
-    "skill": "protect self and living things",
-    "question": "Which action protects a plant and the observer?",
-    "explanation": "Non-destructive observation protects both plant and child.",
-    "printable": true,
-    "type": "single",
-    "answers": [
-      "Look and photograph without breaking stems",
-      "pull the plant up",
-      "taste its leaves"
-    ],
-    "correct": 0,
-    "visual": "🌿 📷",
-    "id": "ac9sfi02-p-055"
-  },
-  {
-    "curriculumCode": "AC9SFI02",
-    "bank": "practice",
-    "skill": "correct misconception",
-    "question": "Mia says a tool is safe if it worked yesterday. What is better?",
-    "explanation": "Tools and conditions should be checked each time.",
-    "printable": true,
-    "type": "single",
-    "answers": [
-      "Check the tool and follow today's instructions before use",
-      "Use damaged tools carefully",
-      "Skip teacher instructions"
-    ],
-    "correct": 0,
-    "id": "ac9sfi02-p-056"
+    "id": "ac9sfi02-p-024",
+    "audioPrompt": "The teacher gives fabric samples for touching. What should stay the same?",
+    "structuredExplanation": {
+      "summary": "The same safe action supports a fair comparison."
+    }
   }
 ];
+window.quizQuestions = window.skillrPracticeQuestions;

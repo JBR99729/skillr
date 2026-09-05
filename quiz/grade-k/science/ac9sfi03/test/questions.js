@@ -15,7 +15,11 @@ window.skillrTestQuestions = [
       "taste"
     ],
     "correct": 0,
-    "visual": "🐈 🐇 | 🐍 🐟"
+    "visual": "🐈 🐇 | 🐍 🐟",
+    "audioPrompt": "Which sense helps you notice a bell ringing?",
+    "structuredExplanation": {
+      "summary": "The headings match a visible feature."
+    }
   },
   {
     "id": "ac9sfi03-t-002",
@@ -32,7 +36,11 @@ window.skillrTestQuestions = [
       "smell"
     ],
     "correct": 0,
-    "visual": "smooth ||||\nrough ||||| |"
+    "visual": "smooth ||||\nrough ||||| |",
+    "audioPrompt": "Which sense helps you notice that a ball is red?",
+    "structuredExplanation": {
+      "summary": "Rough stones have the larger recorded count."
+    }
   },
   {
     "id": "ac9sfi03-t-003",
@@ -49,7 +57,11 @@ window.skillrTestQuestions = [
       "taste"
     ],
     "correct": 0,
-    "visual": "glass | wood | clear plastic"
+    "visual": "glass | wood | clear plastic",
+    "audioPrompt": "Which sense helps you notice rough bark?",
+    "structuredExplanation": {
+      "summary": "The observed property matches Transparent."
+    }
   },
   {
     "id": "ac9sfi03-t-004",
@@ -66,7 +78,11 @@ window.skillrTestQuestions = [
       "cup"
     ],
     "correct": 0,
-    "visual": "🐟 🐠 🐟"
+    "visual": "🐟 🐠 🐟",
+    "audioPrompt": "Which tool helps you see tiny details?",
+    "structuredExplanation": {
+      "summary": "All three show fins and scales."
+    }
   },
   {
     "id": "ac9sfi03-t-005",
@@ -83,7 +99,11 @@ window.skillrTestQuestions = [
       "watering can"
     ],
     "correct": 0,
-    "visual": "🏀 ↗ ↗ ↗ ↗ ↗ ↗"
+    "visual": "🏀 ↗ ↗ ↗ ↗ ↗ ↗",
+    "audioPrompt": "Which tool helps compare the length of two pencils?",
+    "structuredExplanation": {
+      "summary": "The record shows 6 bounces."
+    }
   },
   {
     "id": "ac9sfi03-t-006",
@@ -100,7 +120,11 @@ window.skillrTestQuestions = [
       "paintbrush"
     ],
     "correct": 0,
-    "visual": "feathers ✓✓✓ | wings ✓✓✓ | flies ✓✓✗"
+    "visual": "feathers ✓✓✓ | wings ✓✓✓ | flies ✓✓✗",
+    "audioPrompt": "Which tool helps check temperature?",
+    "structuredExplanation": {
+      "summary": "sparrow and duck only have the feature."
+    }
   },
   {
     "id": "ac9sfi03-t-007",
@@ -117,7 +141,11 @@ window.skillrTestQuestions = [
       "torch"
     ],
     "correct": 0,
-    "visual": "🦎×3 | 🐦×5"
+    "visual": "🦎×3 | 🐦×5",
+    "audioPrompt": "Which tool can help compare how heavy two objects are?",
+    "structuredExplanation": {
+      "summary": "A consistent one-to-one key is clear."
+    }
   },
   {
     "id": "ac9sfi03-t-008",
@@ -134,7 +162,11 @@ window.skillrTestQuestions = [
       "sight"
     ],
     "correct": 0,
-    "visual": "birds •••• | butterflies ••"
+    "visual": "birds •••• | butterflies ••",
+    "audioPrompt": "Which sense helps you notice the smell of a flower?",
+    "structuredExplanation": {
+      "summary": "The sentence compares the recorded counts."
+    }
   },
   {
     "id": "ac9sfi03-t-009",
@@ -151,7 +183,11 @@ window.skillrTestQuestions = [
       "taste"
     ],
     "correct": 0,
-    "visual": "ball—round—rolls | cube—flat—slides"
+    "visual": "ball—round—rolls | cube—flat—slides",
+    "audioPrompt": "Which sense helps you notice a bell ringing?",
+    "structuredExplanation": {
+      "summary": "The statement links the two columns without saying it is always true."
+    }
   },
   {
     "id": "ac9sfi03-t-010",
@@ -168,7 +204,11 @@ window.skillrTestQuestions = [
       "smell"
     ],
     "correct": 0,
-    "visual": "🦋 | 🐌 | 🐦"
+    "visual": "🦋 | 🐌 | 🐦",
+    "audioPrompt": "Which sense helps you notice that a ball is red?",
+    "structuredExplanation": {
+      "summary": "The item shares the observed feature of the Has wings column."
+    }
   },
   {
     "id": "ac9sfi03-t-011",
@@ -185,7 +225,11 @@ window.skillrTestQuestions = [
       "taste"
     ],
     "correct": 0,
-    "visual": "🚗 tile ? | carpet ?"
+    "visual": "🚗 tile ? | carpet ?",
+    "audioPrompt": "Which sense helps you notice rough bark?",
+    "structuredExplanation": {
+      "summary": "The comparison needs recorded observations."
+    }
   },
   {
     "id": "ac9sfi03-t-012",
@@ -208,7 +252,11 @@ window.skillrTestQuestions = [
       "magnifying glass",
       "ruler",
       "cup"
-    ]
+    ],
+    "audioPrompt": "Which tool helps you see tiny details?",
+    "structuredExplanation": {
+      "summary": "Headings give meaning before counts are compared."
+    }
   },
   {
     "id": "ac9sfi03-t-013",
@@ -225,7 +273,11 @@ window.skillrTestQuestions = [
       "watering can"
     ],
     "correct": 0,
-    "visual": "🦆 🐦 | 🐕 🐌"
+    "visual": "🦆 🐦 | 🐕 🐌",
+    "audioPrompt": "Which tool helps compare the length of two pencils?",
+    "structuredExplanation": {
+      "summary": "The headings match a visible feature."
+    }
   },
   {
     "id": "ac9sfi03-t-014",
@@ -242,7 +294,11 @@ window.skillrTestQuestions = [
       "paintbrush"
     ],
     "correct": 0,
-    "visual": "birds |||||\nbutterflies ||"
+    "visual": "birds |||||\nbutterflies ||",
+    "audioPrompt": "Which tool helps check temperature?",
+    "structuredExplanation": {
+      "summary": "Butterflies have the larger recorded count."
+    }
   },
   {
     "id": "ac9sfi03-t-015",
@@ -259,7 +315,11 @@ window.skillrTestQuestions = [
       "torch"
     ],
     "correct": 0,
-    "visual": "fabric | spoon | rubber band"
+    "visual": "fabric | spoon | rubber band",
+    "audioPrompt": "Which tool can help compare how heavy two objects are?",
+    "structuredExplanation": {
+      "summary": "The observed property matches Flexible."
+    }
   },
   {
     "id": "ac9sfi03-t-016",
@@ -276,149 +336,11 @@ window.skillrTestQuestions = [
       "sight"
     ],
     "correct": 0,
-    "visual": "🌹 🌼 🌻"
-  },
-  {
-    "id": "ac9sfi03-t-017",
-    "curriculumCode": "AC9SFI03",
-    "bank": "test",
-    "skill": "match number to observation",
-    "question": "Which sense helps you notice a bell ringing?",
-    "explanation": "The record shows 4 rolls.",
-    "printable": true,
-    "type": "single",
-    "answers": [
-      "hearing",
-      "sight",
-      "taste"
-    ],
-    "correct": 0,
-    "visual": "🚗 → → → →"
-  },
-  {
-    "id": "ac9sfi03-t-018",
-    "curriculumCode": "AC9SFI03",
-    "bank": "test",
-    "skill": "find exception",
-    "question": "Which sense helps you notice that a ball is red?",
-    "explanation": "rabbit only have the feature.",
-    "printable": true,
-    "type": "single",
-    "answers": [
-      "sight",
-      "hearing",
-      "smell"
-    ],
-    "correct": 0,
-    "visual": "fur ✓✓✓ | legs ✓✓✓ | long ears ✗✗✓"
-  },
-  {
-    "id": "ac9sfi03-t-019",
-    "curriculumCode": "AC9SFI03",
-    "bank": "test",
-    "skill": "trustworthy graph key",
-    "question": "Which sense helps you notice rough bark?",
-    "explanation": "A consistent one-to-one key is clear.",
-    "printable": true,
-    "type": "single",
-    "answers": [
-      "touch",
-      "hearing",
-      "taste"
-    ],
-    "correct": 0,
-    "visual": "🌼×2 | 🌿×4"
-  },
-  {
-    "id": "ac9sfi03-t-020",
-    "curriculumCode": "AC9SFI03",
-    "bank": "test",
-    "skill": "state evidence pattern",
-    "question": "Which tool helps you see tiny details?",
-    "explanation": "The sentence compares the recorded counts.",
-    "printable": true,
-    "type": "single",
-    "answers": [
-      "magnifying glass",
-      "ruler",
-      "cup"
-    ],
-    "correct": 0,
-    "visual": "rough ||||| | | smooth ||||"
-  },
-  {
-    "id": "ac9sfi03-t-021",
-    "curriculumCode": "AC9SFI03",
-    "bank": "test",
-    "skill": "connect two variables",
-    "question": "Which tool helps compare the length of two pencils?",
-    "explanation": "The statement links the two columns without saying it is always true.",
-    "printable": true,
-    "type": "single",
-    "answers": [
-      "ruler",
-      "thermometer",
-      "watering can"
-    ],
-    "correct": 0,
-    "visual": "fabric—soft—bends | stick—rigid—straight"
-  },
-  {
-    "id": "ac9sfi03-t-022",
-    "curriculumCode": "AC9SFI03",
-    "bank": "test",
-    "skill": "choose correct column",
-    "question": "Which tool helps check temperature?",
-    "explanation": "The item shares the observed feature of the Metal column.",
-    "printable": true,
-    "type": "single",
-    "answers": [
-      "thermometer",
-      "balance",
-      "paintbrush"
-    ],
-    "correct": 0,
-    "visual": "🔑 | 🧱 | 🥄"
-  },
-  {
-    "id": "ac9sfi03-t-023",
-    "curriculumCode": "AC9SFI03",
-    "bank": "test",
-    "skill": "identify missing evidence",
-    "question": "Which tool can help compare how heavy two objects are?",
-    "explanation": "The comparison needs recorded observations.",
-    "printable": true,
-    "type": "single",
-    "answers": [
-      "balance",
-      "magnifying glass",
-      "torch"
-    ],
-    "correct": 0,
-    "visual": "Day 1 ? | Day 5 ?"
-  },
-  {
-    "id": "ac9sfi03-t-024",
-    "curriculumCode": "AC9SFI03",
-    "bank": "test",
-    "skill": "sequence record and interpret",
-    "question": "Which sense helps you notice the smell of a flower?",
-    "explanation": "Headings give meaning before counts are compared.",
-    "printable": true,
-    "type": "single",
-    "items": [
-      "check each recorded mark",
-      "compare the groups",
-      "state the pattern",
-      "read the headings"
-    ],
-    "correct": 0,
-    "instruction": "Move the cards into the correct order.",
-    "answers": [
-      "smell",
-      "hearing",
-      "sight"
-    ]
+    "visual": "🌹 🌼 🌻",
+    "audioPrompt": "Which sense helps you notice the smell of a flower?",
+    "structuredExplanation": {
+      "summary": "All three show stem and petals."
+    }
   }
 ];
 window.quizQuestions = window.skillrTestQuestions;
