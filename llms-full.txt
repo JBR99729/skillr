@@ -4,6 +4,8 @@ SkillrHub is a free Australian Curriculum-aligned K-10 learning resource site fo
 
 Foundation/Kindergarten quality note: Foundation Maths, Science and English practice/test questions and daily drill questions have been reviewed for Foundation relevance, age-appropriate language, simple cognitive load, answer-choice clarity and visual-support needs. These resources are suitable as free supplementary practice for teachers, parents and students; they are not presented as a replacement for teacher judgement or classroom instruction.
 
+Year 1 quality note: Year 1 Maths, Science and English practice/test questions and daily drill questions have been reviewed for Year 1 relevance, age-appropriate language, simple direct wording, answer-choice clarity and curriculum alignment. These resources are suitable as free supplementary practice for teachers, parents and students; they are not presented as a replacement for teacher judgement or classroom instruction.
+
 
 ## AI Crawl Start Here
 
