@@ -1,0 +1,35 @@
+name: Validate Year 7 Science premium topic pages
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Validate committed static output
+        run: |
+          node scripts/validate_static_curriculum_architecture.mjs
+          python - <<'PY'
+          from pathlib import Path
+          expected = 18
+          pages = [p for p in Path('year7/science').glob('ac9s7*/index.html') if 'science-premium-layer:' in p.read_text(encoding='utf-8')]
+          assert len(pages) == expected, len(pages)
+          for p in pages:
+              text = p.read_text(encoding='utf-8')
+              for phrase in ('Key concept','Worked example','Common misconception','Exam tip','Retrieval question'):
+                  assert phrase in text, f'{p}: missing {phrase}'
+          images = [
+              'balanced-unbalanced-forces.webp','classification-tree.webp','earth-sun-moon-alignment.webp',
+              'food-web-energy-flow.webp','mixture-separation.webp','particle-states.webp',
+          ]
+          for name in images:
+              p = Path('assets/illustrations/science') / name
+              assert p.exists(), name
+              assert p.stat().st_size <= 60 * 1024, name
+          print('PASS: 18 static Year 7 Science pages and 6 lightweight WebPs')
+          PY

@@ -1,0 +1,616 @@
+[
+  {
+    "id": "ac9e10le07-p-001",
+    "curriculum_code": "AC9E10LE07",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "a_writer_or_speaker_can_use_voice_to_shape_using_terms_associated_with_literary_text_analysis_and_influence_how_an_audience_understands_the_text",
+    "question": "A Year 10 student is working with a text and needs to use a writer or speaker can use voice to shape using terms associated with literary text analysis and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "audio_prompt": "A Year 10 student is working with a text and needs to use a writer or speaker can use voice to shape using terms associated with literary text analysis and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "using terms associated with literary text analysis; for example, “stanza”, “figurative language”, “symbolism” and “soundtrack”, when evaluating aspects that are valued and that contain aesthetic qualities",
+        "is_correct": true
+      },
+      {
+        "text": "A feature name is enough to prove an interpretation",
+        "is_correct": false
+      },
+      {
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "The same rule and result apply to every situation without testing",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "using terms associated with literary text analysis; for example, “stanza”, “figurative language”, “symbolism” and “soundtrack”, when evaluating aspects that are valued and that contain aesthetic qualities",
+      "hint": "A writer or speaker can use voice to shape using terms associated with literary text analysis and influence how an audience understands the text."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
+  },
+  {
+    "id": "ac9e10le07-p-002",
+    "curriculum_code": "AC9E10LE07",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "a_writer_or_speaker_can_use_representation_to_shape_analysing_and_evaluating_the_use_of_literary_devices_and_influence_how_an_audience_understands_the_text",
+    "question": "A Year 10 student is working with a text and needs to use a writer or speaker can use representation to shape analysing and evaluating the use of literary devices and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "audio_prompt": "A Year 10 student is working with a text and needs to use a writer or speaker can use representation to shape analysing and evaluating the use of literary devices and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Effect means whether the student personally likes the text",
+        "is_correct": false
+      },
+      {
+        "text": "analysing and evaluating the use of literary devices; for example, commenting on the effect of symbolism in a text",
+        "is_correct": true
+      },
+      {
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "The same rule and result apply to every situation without testing",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "analysing and evaluating the use of literary devices; for example, commenting on the effect of symbolism in a text",
+      "hint": "A writer or speaker can use representation to shape analysing and evaluating the use of literary devices and influence how an audience understands the text."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
+  },
+  {
+    "id": "ac9e10le07-p-003",
+    "curriculum_code": "AC9E10LE07",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "a_writer_or_speaker_can_use_voice_to_shape_using_terms_associated_with_literary_text_analysis_and_influence_how_an_audience_understands_the_text",
+    "question": "A Year 10 student is working with a text and needs to use a writer or speaker can use voice to shape using terms associated with literary text analysis and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "audio_prompt": "A Year 10 student is working with a text and needs to use a writer or speaker can use voice to shape using terms associated with literary text analysis and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A feature name is enough to prove an interpretation",
+        "is_correct": false
+      },
+      {
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "using terms associated with literary text analysis; for example, “stanza”, “figurative language”, “symbolism” and “soundtrack”, when evaluating aspects that are valued and that contain aesthetic qualities",
+        "is_correct": true
+      },
+      {
+        "text": "The same rule and result apply to every situation without testing",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "using terms associated with literary text analysis; for example, “stanza”, “figurative language”, “symbolism” and “soundtrack”, when evaluating aspects that are valued and that contain aesthetic qualities",
+      "hint": "A writer or speaker can use voice to shape using terms associated with literary text analysis and influence how an audience understands the text."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
+  },
+  {
+    "id": "ac9e10le07-p-004",
+    "curriculum_code": "AC9E10LE07",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "a_writer_or_speaker_can_use_representation_to_shape_analysing_and_evaluating_the_use_of_literary_devices_and_influence_how_an_audience_understands_the_text",
+    "question": "A Year 10 student is working with a text and needs to use a writer or speaker can use representation to shape analysing and evaluating the use of literary devices and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "audio_prompt": "A Year 10 student is working with a text and needs to use a writer or speaker can use representation to shape analysing and evaluating the use of literary devices and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Effect means whether the student personally likes the text",
+        "is_correct": false
+      },
+      {
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "The same rule and result apply to every situation without testing",
+        "is_correct": false
+      },
+      {
+        "text": "analysing and evaluating the use of literary devices; for example, commenting on the effect of symbolism in a text",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "analysing and evaluating the use of literary devices; for example, commenting on the effect of symbolism in a text",
+      "hint": "A writer or speaker can use representation to shape analysing and evaluating the use of literary devices and influence how an audience understands the text."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
+  },
+  {
+    "id": "ac9e10le07-p-005",
+    "curriculum_code": "AC9E10LE07",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "a_writer_or_speaker_can_use_voice_to_shape_using_terms_associated_with_literary_text_analysis_and_influence_how_an_audience_understands_the_text",
+    "question": "What should you check when using a writer or speaker can use voice to shape using terms associated with literary text analysis and influence how an audience understands the text?",
+    "audio_prompt": "What should you check when using a writer or speaker can use voice to shape using terms associated with literary text analysis and influence how an audience understands the text?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "using terms associated with literary text analysis; for example, “stanza”, “figurative language”, “symbolism” and “soundtrack”, when evaluating aspects that are valued and that contain aesthetic qualities",
+        "is_correct": true
+      },
+      {
+        "text": "A feature name is enough to prove an interpretation",
+        "is_correct": false
+      },
+      {
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "The same rule and result apply to every situation without testing",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "using terms associated with literary text analysis; for example, “stanza”, “figurative language”, “symbolism” and “soundtrack”, when evaluating aspects that are valued and that contain aesthetic qualities",
+      "hint": "A writer or speaker can use voice to shape using terms associated with literary text analysis and influence how an audience understands the text."
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
+  },
+  {
+    "id": "ac9e10le07-p-006",
+    "curriculum_code": "AC9E10LE07",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "a_writer_or_speaker_can_use_representation_to_shape_analysing_and_evaluating_the_use_of_literary_devices_and_influence_how_an_audience_understands_the_text",
+    "question": "What should you check when using a writer or speaker can use representation to shape analysing and evaluating the use of literary devices and influence how an audience understands the text?",
+    "audio_prompt": "What should you check when using a writer or speaker can use representation to shape analysing and evaluating the use of literary devices and influence how an audience understands the text?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Effect means whether the student personally likes the text",
+        "is_correct": false
+      },
+      {
+        "text": "analysing and evaluating the use of literary devices; for example, commenting on the effect of symbolism in a text",
+        "is_correct": true
+      },
+      {
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "The same rule and result apply to every situation without testing",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "analysing and evaluating the use of literary devices; for example, commenting on the effect of symbolism in a text",
+      "hint": "A writer or speaker can use representation to shape analysing and evaluating the use of literary devices and influence how an audience understands the text."
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
+  },
+  {
+    "id": "ac9e10le07-p-007",
+    "curriculum_code": "AC9E10LE07",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "a_writer_or_speaker_can_use_voice_to_shape_using_terms_associated_with_literary_text_analysis_and_influence_how_an_audience_understands_the_text",
+    "question": "Which statement best explains a writer or speaker can use voice to shape using terms associated with literary text analysis and influence how an audience understands the text?",
+    "audio_prompt": "Which statement best explains a writer or speaker can use voice to shape using terms associated with literary text analysis and influence how an audience understands the text?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A feature name is enough to prove an interpretation",
+        "is_correct": false
+      },
+      {
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "using terms associated with literary text analysis; for example, “stanza”, “figurative language”, “symbolism” and “soundtrack”, when evaluating aspects that are valued and that contain aesthetic qualities",
+        "is_correct": true
+      },
+      {
+        "text": "The same rule and result apply to every situation without testing",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "using terms associated with literary text analysis; for example, “stanza”, “figurative language”, “symbolism” and “soundtrack”, when evaluating aspects that are valued and that contain aesthetic qualities",
+      "hint": "A writer or speaker can use voice to shape using terms associated with literary text analysis and influence how an audience understands the text."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
+  },
+  {
+    "id": "ac9e10le07-p-008",
+    "curriculum_code": "AC9E10LE07",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "a_writer_or_speaker_can_use_representation_to_shape_analysing_and_evaluating_the_use_of_literary_devices_and_influence_how_an_audience_understands_the_text",
+    "question": "Which statement best explains a writer or speaker can use representation to shape analysing and evaluating the use of literary devices and influence how an audience understands the text?",
+    "audio_prompt": "Which statement best explains a writer or speaker can use representation to shape analysing and evaluating the use of literary devices and influence how an audience understands the text?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Effect means whether the student personally likes the text",
+        "is_correct": false
+      },
+      {
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "The same rule and result apply to every situation without testing",
+        "is_correct": false
+      },
+      {
+        "text": "analysing and evaluating the use of literary devices; for example, commenting on the effect of symbolism in a text",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "analysing and evaluating the use of literary devices; for example, commenting on the effect of symbolism in a text",
+      "hint": "A writer or speaker can use representation to shape analysing and evaluating the use of literary devices and influence how an audience understands the text."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
+  },
+  {
+    "id": "ac9e10le07-t-001",
+    "curriculum_code": "AC9E10LE07",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "test",
+    "skill": "a_writer_or_speaker_can_use_voice_to_shape_using_terms_associated_with_literary_text_analysis_and_influence_how_an_audience_understands_the_text",
+    "question": "When would you use a writer or speaker can use voice to shape using terms associated with literary text analysis and influence how an audience understands the text?",
+    "audio_prompt": "When would you use a writer or speaker can use voice to shape using terms associated with literary text analysis and influence how an audience understands the text?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "using terms associated with literary text analysis; for example, “stanza”, “figurative language”, “symbolism” and “soundtrack”, when evaluating aspects that are valued and that contain aesthetic qualities",
+        "is_correct": true
+      },
+      {
+        "text": "A feature name is enough to prove an interpretation",
+        "is_correct": false
+      },
+      {
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "The same rule and result apply to every situation without testing",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "using terms associated with literary text analysis; for example, “stanza”, “figurative language”, “symbolism” and “soundtrack”, when evaluating aspects that are valued and that contain aesthetic qualities",
+      "hint": "A writer or speaker can use voice to shape using terms associated with literary text analysis and influence how an audience understands the text."
+    }
+  },
+  {
+    "id": "ac9e10le07-t-002",
+    "curriculum_code": "AC9E10LE07",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "test",
+    "skill": "a_writer_or_speaker_can_use_representation_to_shape_analysing_and_evaluating_the_use_of_literary_devices_and_influence_how_an_audience_understands_the_text",
+    "question": "When would you use a writer or speaker can use representation to shape analysing and evaluating the use of literary devices and influence how an audience understands the text?",
+    "audio_prompt": "When would you use a writer or speaker can use representation to shape analysing and evaluating the use of literary devices and influence how an audience understands the text?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Effect means whether the student personally likes the text",
+        "is_correct": false
+      },
+      {
+        "text": "analysing and evaluating the use of literary devices; for example, commenting on the effect of symbolism in a text",
+        "is_correct": true
+      },
+      {
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "The same rule and result apply to every situation without testing",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "analysing and evaluating the use of literary devices; for example, commenting on the effect of symbolism in a text",
+      "hint": "A writer or speaker can use representation to shape analysing and evaluating the use of literary devices and influence how an audience understands the text."
+    }
+  },
+  {
+    "id": "ac9e10le07-t-003",
+    "curriculum_code": "AC9E10LE07",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "test",
+    "skill": "a_writer_or_speaker_can_use_voice_to_shape_using_terms_associated_with_literary_text_analysis_and_influence_how_an_audience_understands_the_text",
+    "question": "A Year 10 student is working with a text and needs to use a writer or speaker can use voice to shape using terms associated with literary text analysis and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "audio_prompt": "A Year 10 student is working with a text and needs to use a writer or speaker can use voice to shape using terms associated with literary text analysis and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A feature name is enough to prove an interpretation",
+        "is_correct": false
+      },
+      {
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "using terms associated with literary text analysis; for example, “stanza”, “figurative language”, “symbolism” and “soundtrack”, when evaluating aspects that are valued and that contain aesthetic qualities",
+        "is_correct": true
+      },
+      {
+        "text": "The same rule and result apply to every situation without testing",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "using terms associated with literary text analysis; for example, “stanza”, “figurative language”, “symbolism” and “soundtrack”, when evaluating aspects that are valued and that contain aesthetic qualities",
+      "hint": "A writer or speaker can use voice to shape using terms associated with literary text analysis and influence how an audience understands the text."
+    }
+  },
+  {
+    "id": "ac9e10le07-t-004",
+    "curriculum_code": "AC9E10LE07",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "test",
+    "skill": "a_writer_or_speaker_can_use_representation_to_shape_analysing_and_evaluating_the_use_of_literary_devices_and_influence_how_an_audience_understands_the_text",
+    "question": "A Year 10 student is working with a text and needs to use a writer or speaker can use representation to shape analysing and evaluating the use of literary devices and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "audio_prompt": "A Year 10 student is working with a text and needs to use a writer or speaker can use representation to shape analysing and evaluating the use of literary devices and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Effect means whether the student personally likes the text",
+        "is_correct": false
+      },
+      {
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "The same rule and result apply to every situation without testing",
+        "is_correct": false
+      },
+      {
+        "text": "analysing and evaluating the use of literary devices; for example, commenting on the effect of symbolism in a text",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "analysing and evaluating the use of literary devices; for example, commenting on the effect of symbolism in a text",
+      "hint": "A writer or speaker can use representation to shape analysing and evaluating the use of literary devices and influence how an audience understands the text."
+    }
+  },
+  {
+    "id": "ac9e10le07-t-005",
+    "curriculum_code": "AC9E10LE07",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "test",
+    "skill": "a_writer_or_speaker_can_use_voice_to_shape_using_terms_associated_with_literary_text_analysis_and_influence_how_an_audience_understands_the_text",
+    "question": "A Year 10 student is working with a text and needs to use a writer or speaker can use voice to shape using terms associated with literary text analysis and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "audio_prompt": "A Year 10 student is working with a text and needs to use a writer or speaker can use voice to shape using terms associated with literary text analysis and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "using terms associated with literary text analysis; for example, “stanza”, “figurative language”, “symbolism” and “soundtrack”, when evaluating aspects that are valued and that contain aesthetic qualities",
+        "is_correct": true
+      },
+      {
+        "text": "A feature name is enough to prove an interpretation",
+        "is_correct": false
+      },
+      {
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "The same rule and result apply to every situation without testing",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "using terms associated with literary text analysis; for example, “stanza”, “figurative language”, “symbolism” and “soundtrack”, when evaluating aspects that are valued and that contain aesthetic qualities",
+      "hint": "A writer or speaker can use voice to shape using terms associated with literary text analysis and influence how an audience understands the text."
+    }
+  },
+  {
+    "id": "ac9e10le07-t-006",
+    "curriculum_code": "AC9E10LE07",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "test",
+    "skill": "a_writer_or_speaker_can_use_representation_to_shape_analysing_and_evaluating_the_use_of_literary_devices_and_influence_how_an_audience_understands_the_text",
+    "question": "A Year 10 student is working with a text and needs to use a writer or speaker can use representation to shape analysing and evaluating the use of literary devices and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "audio_prompt": "A Year 10 student is working with a text and needs to use a writer or speaker can use representation to shape analysing and evaluating the use of literary devices and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Effect means whether the student personally likes the text",
+        "is_correct": false
+      },
+      {
+        "text": "analysing and evaluating the use of literary devices; for example, commenting on the effect of symbolism in a text",
+        "is_correct": true
+      },
+      {
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "The same rule and result apply to every situation without testing",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "analysing and evaluating the use of literary devices; for example, commenting on the effect of symbolism in a text",
+      "hint": "A writer or speaker can use representation to shape analysing and evaluating the use of literary devices and influence how an audience understands the text."
+    }
+  },
+  {
+    "id": "ac9e10le07-t-007",
+    "curriculum_code": "AC9E10LE07",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "test",
+    "skill": "a_writer_or_speaker_can_use_voice_to_shape_using_terms_associated_with_literary_text_analysis_and_influence_how_an_audience_understands_the_text",
+    "question": "A Year 10 student is working with a text and needs to use a writer or speaker can use voice to shape using terms associated with literary text analysis and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "audio_prompt": "A Year 10 student is working with a text and needs to use a writer or speaker can use voice to shape using terms associated with literary text analysis and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A feature name is enough to prove an interpretation",
+        "is_correct": false
+      },
+      {
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "using terms associated with literary text analysis; for example, “stanza”, “figurative language”, “symbolism” and “soundtrack”, when evaluating aspects that are valued and that contain aesthetic qualities",
+        "is_correct": true
+      },
+      {
+        "text": "The same rule and result apply to every situation without testing",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "using terms associated with literary text analysis; for example, “stanza”, “figurative language”, “symbolism” and “soundtrack”, when evaluating aspects that are valued and that contain aesthetic qualities",
+      "hint": "A writer or speaker can use voice to shape using terms associated with literary text analysis and influence how an audience understands the text."
+    }
+  },
+  {
+    "id": "ac9e10le07-t-008",
+    "curriculum_code": "AC9E10LE07",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "test",
+    "skill": "a_writer_or_speaker_can_use_representation_to_shape_analysing_and_evaluating_the_use_of_literary_devices_and_influence_how_an_audience_understands_the_text",
+    "question": "A Year 10 student is working with a text and needs to use a writer or speaker can use representation to shape analysing and evaluating the use of literary devices and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "audio_prompt": "A Year 10 student is working with a text and needs to use a writer or speaker can use representation to shape analysing and evaluating the use of literary devices and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Effect means whether the student personally likes the text",
+        "is_correct": false
+      },
+      {
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "The same rule and result apply to every situation without testing",
+        "is_correct": false
+      },
+      {
+        "text": "analysing and evaluating the use of literary devices; for example, commenting on the effect of symbolism in a text",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "analysing and evaluating the use of literary devices; for example, commenting on the effect of symbolism in a text",
+      "hint": "A writer or speaker can use representation to shape analysing and evaluating the use of literary devices and influence how an audience understands the text."
+    }
+  }
+]

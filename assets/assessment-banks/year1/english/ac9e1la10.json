@@ -1,0 +1,1727 @@
+[
+  {
+    "id": "ac9e1la10-er2-p-001",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA10",
+    "bank": "practice",
+    "skill": "end punctuation and capitals for familiar proper nouns",
+    "question": "Which mark ends the direct question 'Where is my hat' ?",
+    "audio_prompt": "Which mark ends the direct question 'Where is my hat' ?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A question mark: ?",
+        "is_correct": true
+      },
+      {
+        "text": "A full stop: .",
+        "is_correct": false
+      },
+      {
+        "text": "A comma: ,",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A direct question asks for information and ends with a question mark.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 1,
+    "review": {
+      "version": "20260906-english-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/choose-the-right-end-mark",
+      "evidence_scope": "Representative related IXL task inspected; curriculum determines full coverage. See docs/question-bank-reviews/2026-09-06-year1-english-la06-la10.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1la10-er2-p-002",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA10",
+    "bank": "practice",
+    "skill": "end punctuation and capitals for familiar proper nouns",
+    "question": "Which version correctly ends a calm statement?",
+    "audio_prompt": "Which version correctly ends a calm statement?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The gate is open,",
+        "is_correct": false
+      },
+      {
+        "text": "The gate is open.",
+        "is_correct": true
+      },
+      {
+        "text": "The gate is open?",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A full stop closes this calm statement.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 2,
+    "review": {
+      "version": "20260906-english-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/choose-the-right-end-mark",
+      "evidence_scope": "Representative related IXL task inspected; curriculum determines full coverage. See docs/question-bank-reviews/2026-09-06-year1-english-la06-la10.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1la10-er2-p-003",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA10",
+    "bank": "practice",
+    "skill": "end punctuation and capitals for familiar proper nouns",
+    "question": "A child shouts in surprise. Which ending best shows that feeling?",
+    "audio_prompt": "A child shouts in surprise. Which ending best shows that feeling?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "What an enormous wave.",
+        "is_correct": false
+      },
+      {
+        "text": "What an enormous wave,",
+        "is_correct": false
+      },
+      {
+        "text": "What an enormous wave!",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "An exclamation mark can show strong surprise.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 3,
+    "review": {
+      "version": "20260906-english-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/choose-the-right-end-mark",
+      "evidence_scope": "Representative related IXL task inspected; curriculum determines full coverage. See docs/question-bank-reviews/2026-09-06-year1-english-la06-la10.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1la10-er2-p-004",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA10",
+    "bank": "practice",
+    "skill": "end punctuation and capitals for familiar proper nouns",
+    "question": "Which word needs a capital in 'We visit the park on tuesday'?",
+    "audio_prompt": "Which word needs a capital in 'We visit the park on tuesday'?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "tuesday",
+        "is_correct": true
+      },
+      {
+        "text": "visit",
+        "is_correct": false
+      },
+      {
+        "text": "on",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Tuesday is the name of a day and takes a capital letter.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 4,
+    "review": {
+      "version": "20260906-english-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/choose-the-right-end-mark",
+      "evidence_scope": "Representative related IXL task inspected; curriculum determines full coverage. See docs/question-bank-reviews/2026-09-06-year1-english-la06-la10.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1la10-er2-p-005",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA10",
+    "bank": "practice",
+    "skill": "end punctuation and capitals for familiar proper nouns",
+    "question": "Which spelling is correct for a girl's name?",
+    "audio_prompt": "Which spelling is correct for a girl's name?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "sOphie",
+        "is_correct": false
+      },
+      {
+        "text": "Sophie",
+        "is_correct": true
+      },
+      {
+        "text": "sophie",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A person's name begins with a capital letter.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 5,
+    "review": {
+      "version": "20260906-english-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/choose-the-right-end-mark",
+      "evidence_scope": "Representative related IXL task inspected; curriculum determines full coverage. See docs/question-bank-reviews/2026-09-06-year1-english-la06-la10.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1la10-er2-p-006",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA10",
+    "bank": "practice",
+    "skill": "end punctuation and capitals for familiar proper nouns",
+    "question": "Which sentence correctly writes the city's name?",
+    "audio_prompt": "Which sentence correctly writes the city's name?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "We drove to canberra.",
+        "is_correct": false
+      },
+      {
+        "text": "We drove to CANberra.",
+        "is_correct": false
+      },
+      {
+        "text": "We drove to Canberra.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The proper noun Canberra begins with a capital.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 6,
+    "review": {
+      "version": "20260906-english-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/choose-the-right-end-mark",
+      "evidence_scope": "Representative related IXL task inspected; curriculum determines full coverage. See docs/question-bank-reviews/2026-09-06-year1-english-la06-la10.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1la10-er2-p-007",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA10",
+    "bank": "practice",
+    "skill": "end punctuation and capitals for familiar proper nouns",
+    "question": "A dog's name is patch. Which version writes the name correctly?",
+    "audio_prompt": "A dog's name is patch. Which version writes the name correctly?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Patch",
+        "is_correct": true
+      },
+      {
+        "text": "patch",
+        "is_correct": false
+      },
+      {
+        "text": "pAtch",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A pet's name is a proper noun and begins with a capital.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 7,
+    "review": {
+      "version": "20260906-english-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/choose-the-right-end-mark",
+      "evidence_scope": "Representative related IXL task inspected; curriculum determines full coverage. See docs/question-bank-reviews/2026-09-06-year1-english-la06-la10.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1la10-er2-p-008",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA10",
+    "bank": "practice",
+    "skill": "end punctuation and capitals for familiar proper nouns",
+    "question": "Which mark finishes 'Do you want a turn' as a question?",
+    "audio_prompt": "Which mark finishes 'Do you want a turn' as a question?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": ",",
+        "is_correct": false
+      },
+      {
+        "text": "?",
+        "is_correct": true
+      },
+      {
+        "text": ".",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The sentence asks a direct question.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 8,
+    "review": {
+      "version": "20260906-english-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/choose-the-right-end-mark",
+      "evidence_scope": "Representative related IXL task inspected; curriculum determines full coverage. See docs/question-bank-reviews/2026-09-06-year1-english-la06-la10.md. No measured equivalence or IXL endorsement."
+    },
+    "audio_answers": [
+      "comma",
+      "question mark",
+      "full stop"
+    ]
+  },
+  {
+    "id": "ac9e1la10-er2-p-009",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA10",
+    "bank": "practice",
+    "skill": "end punctuation and capitals for familiar proper nouns",
+    "question": "Choose the correctly punctuated pair.",
+    "audio_prompt": "Choose the correctly punctuated pair.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "I have a kite? Where is yours.",
+        "is_correct": false
+      },
+      {
+        "text": "I have a kite, Where is yours,",
+        "is_correct": false
+      },
+      {
+        "text": "I have a kite. Where is yours?",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The statement ends with a full stop and the question with a question mark.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "apply",
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "sequence_priority": 9,
+    "review": {
+      "version": "20260906-english-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/choose-the-right-end-mark",
+      "evidence_scope": "Representative related IXL task inspected; curriculum determines full coverage. See docs/question-bank-reviews/2026-09-06-year1-english-la06-la10.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1la10-er2-p-010",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA10",
+    "bank": "practice",
+    "skill": "end punctuation and capitals for familiar proper nouns",
+    "question": "Which sentence correctly uses capitals for a day and a name?",
+    "audio_prompt": "Which sentence correctly uses capitals for a day and a name?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "On Friday, Mia visits us.",
+        "is_correct": true
+      },
+      {
+        "text": "On friday, Mia visits us.",
+        "is_correct": false
+      },
+      {
+        "text": "On Friday, mia visits us.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Friday and Mia are both names that need capitals.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "apply",
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "sequence_priority": 10,
+    "review": {
+      "version": "20260906-english-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/choose-the-right-end-mark",
+      "evidence_scope": "Representative related IXL task inspected; curriculum determines full coverage. See docs/question-bank-reviews/2026-09-06-year1-english-la06-la10.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1la10-er2-p-011",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA10",
+    "bank": "practice",
+    "skill": "end punctuation and capitals for familiar proper nouns",
+    "question": "Which word should start with a capital in 'My birthday is in august'?",
+    "audio_prompt": "Which word should start with a capital in 'My birthday is in august'?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "in",
+        "is_correct": false
+      },
+      {
+        "text": "august",
+        "is_correct": true
+      },
+      {
+        "text": "birthday",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "August names a particular month, so it begins with a capital letter.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "apply",
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "sequence_priority": 11,
+    "review": {
+      "version": "20260906-english-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/choose-the-right-end-mark",
+      "evidence_scope": "Representative related IXL task inspected; curriculum determines full coverage. See docs/question-bank-reviews/2026-09-06-year1-english-la06-la10.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1la10-er2-p-012",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA10",
+    "bank": "practice",
+    "skill": "end punctuation and capitals for familiar proper nouns",
+    "question": "Choose the correctly written sentence.",
+    "audio_prompt": "Choose the correctly written sentence.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "i can see Perth on the map.",
+        "is_correct": false
+      },
+      {
+        "text": "I can see perth on the map.",
+        "is_correct": false
+      },
+      {
+        "text": "I can see Perth on the map.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "I and the place name Perth need capitals.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "apply",
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "sequence_priority": 12,
+    "review": {
+      "version": "20260906-english-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/choose-the-right-end-mark",
+      "evidence_scope": "Representative related IXL task inspected; curriculum determines full coverage. See docs/question-bank-reviews/2026-09-06-year1-english-la06-la10.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1la10-er2-p-013",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA10",
+    "bank": "practice",
+    "skill": "end punctuation and capitals for familiar proper nouns",
+    "question": "A child asks for the location of a book. Which version fits?",
+    "audio_prompt": "A child asks for the location of a book. Which version fits?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Where is the book?",
+        "is_correct": true
+      },
+      {
+        "text": "Where is the book.",
+        "is_correct": false
+      },
+      {
+        "text": "Where is the book,",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The words ask a question, so use a question mark.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "apply",
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "sequence_priority": 13,
+    "review": {
+      "version": "20260906-english-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/choose-the-right-end-mark",
+      "evidence_scope": "Representative related IXL task inspected; curriculum determines full coverage. See docs/question-bank-reviews/2026-09-06-year1-english-la06-la10.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1la10-er2-p-014",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA10",
+    "bank": "practice",
+    "skill": "end punctuation and capitals for familiar proper nouns",
+    "question": "Which version shows that an ordinary animal word is not a pet's name?",
+    "audio_prompt": "Which version shows that an ordinary animal word is not a pet's name?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "My cat is called ruby.",
+        "is_correct": false
+      },
+      {
+        "text": "My cat is called Ruby.",
+        "is_correct": true
+      },
+      {
+        "text": "My Cat is called Ruby.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Cat is a common noun; Ruby is the pet's name.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "apply",
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "sequence_priority": 14,
+    "review": {
+      "version": "20260906-english-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/choose-the-right-end-mark",
+      "evidence_scope": "Representative related IXL task inspected; curriculum determines full coverage. See docs/question-bank-reviews/2026-09-06-year1-english-la06-la10.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1la10-er2-p-015",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA10",
+    "bank": "practice",
+    "skill": "end punctuation and capitals for familiar proper nouns",
+    "question": "A sign gives an urgent warning. Which punctuation best conveys urgency?",
+    "audio_prompt": "A sign gives an urgent warning. Which punctuation best conveys urgency?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Stop, A bike is coming,",
+        "is_correct": false
+      },
+      {
+        "text": "Stop? A bike is coming?",
+        "is_correct": false
+      },
+      {
+        "text": "Stop! A bike is coming!",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Exclamation marks suit the intended urgent warning here.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "apply",
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "sequence_priority": 15,
+    "review": {
+      "version": "20260906-english-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/choose-the-right-end-mark",
+      "evidence_scope": "Representative related IXL task inspected; curriculum determines full coverage. See docs/question-bank-reviews/2026-09-06-year1-english-la06-la10.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1la10-er2-p-016",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA10",
+    "bank": "practice",
+    "skill": "end punctuation and capitals for familiar proper nouns",
+    "question": "Which version correctly uses a capital for a country name?",
+    "audio_prompt": "Which version correctly uses a capital for a country name?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "We live in Australia.",
+        "is_correct": true
+      },
+      {
+        "text": "We live in australia.",
+        "is_correct": false
+      },
+      {
+        "text": "We Live in Australia.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Australia is a proper noun; live does not need a capital within the sentence.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "apply",
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "sequence_priority": 16,
+    "review": {
+      "version": "20260906-english-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/choose-the-right-end-mark",
+      "evidence_scope": "Representative related IXL task inspected; curriculum determines full coverage. See docs/question-bank-reviews/2026-09-06-year1-english-la06-la10.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1la10-er2-p-017",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA10",
+    "bank": "practice",
+    "skill": "end punctuation and capitals for familiar proper nouns",
+    "question": "'Is that your bag.' What single change fixes the ending?",
+    "audio_prompt": "'Is that your bag.' What single change fixes the ending?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Replace the full stop with a comma.",
+        "is_correct": false
+      },
+      {
+        "text": "Replace the full stop with a question mark.",
+        "is_correct": true
+      },
+      {
+        "text": "Add a capital to bag.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The sentence is a direct question.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "reason",
+    "difficulty": 3,
+    "difficulty_tier": "reason",
+    "sequence_priority": 17,
+    "review": {
+      "version": "20260906-english-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/choose-the-right-end-mark",
+      "evidence_scope": "Representative related IXL task inspected; curriculum determines full coverage. See docs/question-bank-reviews/2026-09-06-year1-english-la06-la10.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1la10-er2-p-018",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA10",
+    "bank": "practice",
+    "skill": "end punctuation and capitals for familiar proper nouns",
+    "question": "'I like the park? It has swings.' The first sentence is meant as a calm statement. What should change?",
+    "audio_prompt": "'I like the park? It has swings.' The first sentence is meant as a calm statement. What should change?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Use a comma after park and keep both capitals.",
+        "is_correct": false
+      },
+      {
+        "text": "Remove every mark.",
+        "is_correct": false
+      },
+      {
+        "text": "Use a full stop after park.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A full stop matches the intended statement and keeps the sentence boundary.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "reason",
+    "difficulty": 3,
+    "difficulty_tier": "reason",
+    "sequence_priority": 18,
+    "review": {
+      "version": "20260906-english-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/choose-the-right-end-mark",
+      "evidence_scope": "Representative related IXL task inspected; curriculum determines full coverage. See docs/question-bank-reviews/2026-09-06-year1-english-la06-la10.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1la10-er2-p-019",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA10",
+    "bank": "practice",
+    "skill": "end punctuation and capitals for familiar proper nouns",
+    "question": "Which version fixes all the capitals in 'on monday, zara visits sydney.'?",
+    "audio_prompt": "Which version fixes all the capitals in 'on monday, zara visits sydney.'?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "On Monday, Zara visits Sydney.",
+        "is_correct": true
+      },
+      {
+        "text": "On monday, Zara visits Sydney.",
+        "is_correct": false
+      },
+      {
+        "text": "On Monday, Zara visits sydney.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The first word, day, person's name and city all need capitals.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "reason",
+    "difficulty": 3,
+    "difficulty_tier": "reason",
+    "sequence_priority": 19,
+    "review": {
+      "version": "20260906-english-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/choose-the-right-end-mark",
+      "evidence_scope": "Representative related IXL task inspected; curriculum determines full coverage. See docs/question-bank-reviews/2026-09-06-year1-english-la06-la10.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1la10-er2-p-020",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA10",
+    "bank": "practice",
+    "skill": "end punctuation and capitals for familiar proper nouns",
+    "question": "Which pair uses the same words but changes a calm statement into a surprised reaction?",
+    "audio_prompt": "Which pair uses the same words but changes a calm statement into a surprised reaction?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "You won! / You won!",
+        "is_correct": false
+      },
+      {
+        "text": "You won. / You won!",
+        "is_correct": true
+      },
+      {
+        "text": "You won. / You won.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The exclamation mark changes the way the words are presented to the reader.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "reason",
+    "difficulty": 3,
+    "difficulty_tier": "reason",
+    "sequence_priority": 20,
+    "review": {
+      "version": "20260906-english-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/choose-the-right-end-mark",
+      "evidence_scope": "Representative related IXL task inspected; curriculum determines full coverage. See docs/question-bank-reviews/2026-09-06-year1-english-la06-la10.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1la10-er2-p-021",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA10",
+    "bank": "practice",
+    "skill": "end punctuation and capitals for familiar proper nouns",
+    "question": "'We will go in May.' Why is May capitalised here?",
+    "audio_prompt": "'We will go in May.' Why is May capitalised here?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is always the first word of a sentence.",
+        "is_correct": false
+      },
+      {
+        "text": "All three-letter words need capitals.",
+        "is_correct": false
+      },
+      {
+        "text": "It names a month.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "May is a proper name in this context.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "reason",
+    "difficulty": 3,
+    "difficulty_tier": "reason",
+    "sequence_priority": 21,
+    "review": {
+      "version": "20260906-english-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/choose-the-right-end-mark",
+      "evidence_scope": "Representative related IXL task inspected; curriculum determines full coverage. See docs/question-bank-reviews/2026-09-06-year1-english-la06-la10.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1la10-er2-p-022",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA10",
+    "bank": "practice",
+    "skill": "end punctuation and capitals for familiar proper nouns",
+    "question": "Which edit repairs the two sentence boundaries in 'The bell rang We ran inside'?",
+    "audio_prompt": "Which edit repairs the two sentence boundaries in 'The bell rang We ran inside'?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The bell rang. We ran inside.",
+        "is_correct": true
+      },
+      {
+        "text": "The bell. rang We ran inside.",
+        "is_correct": false
+      },
+      {
+        "text": "The bell rang We. ran inside.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The mark must come after the complete first idea and at the end of the second.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "reason",
+    "difficulty": 3,
+    "difficulty_tier": "reason",
+    "sequence_priority": 22,
+    "review": {
+      "version": "20260906-english-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/choose-the-right-end-mark",
+      "evidence_scope": "Representative related IXL task inspected; curriculum determines full coverage. See docs/question-bank-reviews/2026-09-06-year1-english-la06-la10.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1la10-er2-p-023",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA10",
+    "bank": "practice",
+    "skill": "end punctuation and capitals for familiar proper nouns",
+    "question": "A child writes 'My Friend Leo has a Dog.' Which capitals should become lowercase?",
+    "audio_prompt": "A child writes 'My Friend Leo has a Dog.' Which capitals should become lowercase?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Leo and Dog.",
+        "is_correct": false
+      },
+      {
+        "text": "Friend and Dog.",
+        "is_correct": true
+      },
+      {
+        "text": "My and Leo.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Friend and dog are common nouns here; My starts the sentence and Leo is a name.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "reason",
+    "difficulty": 3,
+    "difficulty_tier": "reason",
+    "sequence_priority": 23,
+    "review": {
+      "version": "20260906-english-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/choose-the-right-end-mark",
+      "evidence_scope": "Representative related IXL task inspected; curriculum determines full coverage. See docs/question-bank-reviews/2026-09-06-year1-english-la06-la10.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1la10-er2-p-024",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA10",
+    "bank": "practice",
+    "skill": "end punctuation and capitals for familiar proper nouns",
+    "question": "Which version preserves a question followed by an excited answer?",
+    "audio_prompt": "Which version preserves a question followed by an excited answer?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Did we win. Yes, we won?",
+        "is_correct": false
+      },
+      {
+        "text": "Did we win! Yes, we won,",
+        "is_correct": false
+      },
+      {
+        "text": "Did we win? Yes, we won!",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The marks distinguish the request for information from the excited response.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "reason",
+    "difficulty": 3,
+    "difficulty_tier": "reason",
+    "sequence_priority": 24,
+    "review": {
+      "version": "20260906-english-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/choose-the-right-end-mark",
+      "evidence_scope": "Representative related IXL task inspected; curriculum determines full coverage. See docs/question-bank-reviews/2026-09-06-year1-english-la06-la10.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1la10-er2-t-001",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA10",
+    "bank": "test",
+    "skill": "end punctuation and capitals for familiar proper nouns",
+    "question": "How should the direct question 'Who is at the door' end?",
+    "audio_prompt": "How should the direct question 'Who is at the door' end?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "With a question mark.",
+        "is_correct": true
+      },
+      {
+        "text": "With a full stop.",
+        "is_correct": false
+      },
+      {
+        "text": "With a comma.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Who is at the door asks for information.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "independent",
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 1,
+    "review": {
+      "version": "20260906-english-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/choose-the-right-end-mark",
+      "evidence_scope": "Representative related IXL task inspected; curriculum determines full coverage. See docs/question-bank-reviews/2026-09-06-year1-english-la06-la10.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1la10-er2-t-002",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA10",
+    "bank": "test",
+    "skill": "end punctuation and capitals for familiar proper nouns",
+    "question": "Which sentence ends correctly as a calm statement?",
+    "audio_prompt": "Which sentence ends correctly as a calm statement?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The river is deep,",
+        "is_correct": false
+      },
+      {
+        "text": "The river is deep.",
+        "is_correct": true
+      },
+      {
+        "text": "The river is deep?",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A full stop completes this statement.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "independent",
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 2,
+    "review": {
+      "version": "20260906-english-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/choose-the-right-end-mark",
+      "evidence_scope": "Representative related IXL task inspected; curriculum determines full coverage. See docs/question-bank-reviews/2026-09-06-year1-english-la06-la10.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1la10-er2-t-003",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA10",
+    "bank": "test",
+    "skill": "end punctuation and capitals for familiar proper nouns",
+    "question": "A child is amazed by a bright shooting star. Which version shows the intended amazement?",
+    "audio_prompt": "A child is amazed by a bright shooting star. Which version shows the intended amazement?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "What a brilliant star,",
+        "is_correct": false
+      },
+      {
+        "text": "What a brilliant star?",
+        "is_correct": false
+      },
+      {
+        "text": "What a brilliant star!",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The exclamation mark signals the strong reaction described.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "independent",
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 3,
+    "review": {
+      "version": "20260906-english-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/choose-the-right-end-mark",
+      "evidence_scope": "Representative related IXL task inspected; curriculum determines full coverage. See docs/question-bank-reviews/2026-09-06-year1-english-la06-la10.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1la10-er2-t-004",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA10",
+    "bank": "test",
+    "skill": "end punctuation and capitals for familiar proper nouns",
+    "question": "Which version correctly writes a person's name within a sentence?",
+    "audio_prompt": "Which version correctly writes a person's name within a sentence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "I sat beside Arjun.",
+        "is_correct": true
+      },
+      {
+        "text": "I sat beside arjun.",
+        "is_correct": false
+      },
+      {
+        "text": "I sat beside aRjun.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The name Arjun needs an initial capital.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "independent",
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 4,
+    "review": {
+      "version": "20260906-english-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/choose-the-right-end-mark",
+      "evidence_scope": "Representative related IXL task inspected; curriculum determines full coverage. See docs/question-bank-reviews/2026-09-06-year1-english-la06-la10.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1la10-er2-t-005",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA10",
+    "bank": "test",
+    "skill": "end punctuation and capitals for familiar proper nouns",
+    "question": "Choose the correctly written month name.",
+    "audio_prompt": "Choose the correctly written month name.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "sepTember",
+        "is_correct": false
+      },
+      {
+        "text": "September",
+        "is_correct": true
+      },
+      {
+        "text": "september",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Month names begin with capitals.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "independent",
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 5,
+    "review": {
+      "version": "20260906-english-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/choose-the-right-end-mark",
+      "evidence_scope": "Representative related IXL task inspected; curriculum determines full coverage. See docs/question-bank-reviews/2026-09-06-year1-english-la06-la10.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1la10-er2-t-006",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA10",
+    "bank": "test",
+    "skill": "end punctuation and capitals for familiar proper nouns",
+    "question": "Which sentence correctly writes the pet's name?",
+    "audio_prompt": "Which sentence correctly writes the pet's name?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Our Rabbit is called clover.",
+        "is_correct": false
+      },
+      {
+        "text": "Our rabbit is called clover.",
+        "is_correct": false
+      },
+      {
+        "text": "Our rabbit is called Clover.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Rabbit is a common noun, while Clover is this pet's name.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "independent",
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 6,
+    "review": {
+      "version": "20260906-english-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/choose-the-right-end-mark",
+      "evidence_scope": "Representative related IXL task inspected; curriculum determines full coverage. See docs/question-bank-reviews/2026-09-06-year1-english-la06-la10.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1la10-er2-t-007",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA10",
+    "bank": "test",
+    "skill": "end punctuation and capitals for familiar proper nouns",
+    "question": "Choose the correct capitals in this sentence.",
+    "audio_prompt": "Choose the correct capitals in this sentence.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "On Sunday, we fly to Hobart.",
+        "is_correct": true
+      },
+      {
+        "text": "On sunday, we fly to Hobart.",
+        "is_correct": false
+      },
+      {
+        "text": "On Sunday, we fly to hobart.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Both the day name and city name need capitals.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "independent",
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 7,
+    "review": {
+      "version": "20260906-english-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/choose-the-right-end-mark",
+      "evidence_scope": "Representative related IXL task inspected; curriculum determines full coverage. See docs/question-bank-reviews/2026-09-06-year1-english-la06-la10.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1la10-er2-t-008",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA10",
+    "bank": "test",
+    "skill": "end punctuation and capitals for familiar proper nouns",
+    "question": "Which version correctly writes the word I?",
+    "audio_prompt": "Which version correctly writes the word I?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Ben and i Made a boat.",
+        "is_correct": false
+      },
+      {
+        "text": "Ben and I made a boat.",
+        "is_correct": true
+      },
+      {
+        "text": "Ben and i made a boat.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The pronoun I is always written with a capital.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "independent",
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 8,
+    "review": {
+      "version": "20260906-english-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/choose-the-right-end-mark",
+      "evidence_scope": "Representative related IXL task inspected; curriculum determines full coverage. See docs/question-bank-reviews/2026-09-06-year1-english-la06-la10.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1la10-er2-t-009",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA10",
+    "bank": "test",
+    "skill": "end punctuation and capitals for familiar proper nouns",
+    "question": "'Can you hear the music.' Which edit fixes the punctuation?",
+    "audio_prompt": "'Can you hear the music.' Which edit fixes the punctuation?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Can you hear the music,",
+        "is_correct": false
+      },
+      {
+        "text": "Can you hear. the music",
+        "is_correct": false
+      },
+      {
+        "text": "Can you hear the music?",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The complete direct question needs a question mark at its end.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "independent",
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 9,
+    "review": {
+      "version": "20260906-english-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/choose-the-right-end-mark",
+      "evidence_scope": "Representative related IXL task inspected; curriculum determines full coverage. See docs/question-bank-reviews/2026-09-06-year1-english-la06-la10.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1la10-er2-t-010",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA10",
+    "bank": "test",
+    "skill": "end punctuation and capitals for familiar proper nouns",
+    "question": "A writer intends 'The show starts now' as a plain announcement. Which ending fits?",
+    "audio_prompt": "A writer intends 'The show starts now' as a plain announcement. Which ending fits?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The show starts now.",
+        "is_correct": true
+      },
+      {
+        "text": "The show starts now?",
+        "is_correct": false
+      },
+      {
+        "text": "The show starts now,",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A full stop fits a plain statement rather than a question.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "independent",
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 10,
+    "review": {
+      "version": "20260906-english-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/choose-the-right-end-mark",
+      "evidence_scope": "Representative related IXL task inspected; curriculum determines full coverage. See docs/question-bank-reviews/2026-09-06-year1-english-la06-la10.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1la10-er2-t-011",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA10",
+    "bank": "test",
+    "skill": "end punctuation and capitals for familiar proper nouns",
+    "question": "Which edit fixes the capital letters in 'in june, noah visits darwin.'?",
+    "audio_prompt": "Which edit fixes the capital letters in 'in june, noah visits darwin.'?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "In June, noah visits Darwin.",
+        "is_correct": false
+      },
+      {
+        "text": "In June, Noah visits Darwin.",
+        "is_correct": true
+      },
+      {
+        "text": "In june, Noah visits Darwin.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The sentence start and the month, person and place names need capitals.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "independent",
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 11,
+    "review": {
+      "version": "20260906-english-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/choose-the-right-end-mark",
+      "evidence_scope": "Representative related IXL task inspected; curriculum determines full coverage. See docs/question-bank-reviews/2026-09-06-year1-english-la06-la10.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1la10-er2-t-012",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA10",
+    "bank": "test",
+    "skill": "end punctuation and capitals for familiar proper nouns",
+    "question": "'We saw a Fox near Adelaide.' Which word has an unnecessary capital?",
+    "audio_prompt": "'We saw a Fox near Adelaide.' Which word has an unnecessary capital?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "We",
+        "is_correct": false
+      },
+      {
+        "text": "Adelaide",
+        "is_correct": false
+      },
+      {
+        "text": "Fox",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Fox names an ordinary animal here, not a named character or pet.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "independent",
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 12,
+    "review": {
+      "version": "20260906-english-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/choose-the-right-end-mark",
+      "evidence_scope": "Representative related IXL task inspected; curriculum determines full coverage. See docs/question-bank-reviews/2026-09-06-year1-english-la06-la10.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1la10-er2-t-013",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA10",
+    "bank": "test",
+    "skill": "end punctuation and capitals for familiar proper nouns",
+    "question": "Choose the correct marks for a question and a calm reply.",
+    "audio_prompt": "Choose the correct marks for a question and a calm reply.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Is it raining? The ground is dry.",
+        "is_correct": true
+      },
+      {
+        "text": "Is it raining. The ground is dry?",
+        "is_correct": false
+      },
+      {
+        "text": "Is it raining, The ground is dry,",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The question needs a question mark; the statement needs a full stop.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "independent",
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 13,
+    "review": {
+      "version": "20260906-english-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/choose-the-right-end-mark",
+      "evidence_scope": "Representative related IXL task inspected; curriculum determines full coverage. See docs/question-bank-reviews/2026-09-06-year1-english-la06-la10.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1la10-er2-t-014",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA10",
+    "bank": "test",
+    "skill": "end punctuation and capitals for familiar proper nouns",
+    "question": "'It is cold Put on your coat.' Which version shows two complete sentences?",
+    "audio_prompt": "'It is cold Put on your coat.' Which version shows two complete sentences?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is cold Put. on your coat.",
+        "is_correct": false
+      },
+      {
+        "text": "It is cold. Put on your coat.",
+        "is_correct": true
+      },
+      {
+        "text": "It is. cold Put on your coat.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Place the boundary after the complete first idea, not inside either sentence.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "independent",
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 14,
+    "review": {
+      "version": "20260906-english-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/choose-the-right-end-mark",
+      "evidence_scope": "Representative related IXL task inspected; curriculum determines full coverage. See docs/question-bank-reviews/2026-09-06-year1-english-la06-la10.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1la10-er2-t-015",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA10",
+    "bank": "test",
+    "skill": "end punctuation and capitals for familiar proper nouns",
+    "question": "Two versions say 'We found it.' and 'We found it!' What does the second ending suggest?",
+    "audio_prompt": "Two versions say 'We found it.' and 'We found it!' What does the second ending suggest?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "That the words ask where it is.",
+        "is_correct": false
+      },
+      {
+        "text": "That the sentence has no ending.",
+        "is_correct": false
+      },
+      {
+        "text": "More excitement or strong feeling.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "An exclamation mark can add a stronger reaction to the same words.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "independent",
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 15,
+    "review": {
+      "version": "20260906-english-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/choose-the-right-end-mark",
+      "evidence_scope": "Representative related IXL task inspected; curriculum determines full coverage. See docs/question-bank-reviews/2026-09-06-year1-english-la06-la10.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1la10-er2-t-016",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA10",
+    "bank": "test",
+    "skill": "end punctuation and capitals for familiar proper nouns",
+    "question": "Which sentence correctly separates a common place word from a place name?",
+    "audio_prompt": "Which sentence correctly separates a common place word from a place name?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The city of Brisbane is warm.",
+        "is_correct": true
+      },
+      {
+        "text": "The City of brisbane is warm.",
+        "is_correct": false
+      },
+      {
+        "text": "The city of brisbane is warm.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "City is a general word; Brisbane is the particular place name.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "independent",
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 16,
+    "review": {
+      "version": "20260906-english-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/choose-the-right-end-mark",
+      "evidence_scope": "Representative related IXL task inspected; curriculum determines full coverage. See docs/question-bank-reviews/2026-09-06-year1-english-la06-la10.md. No measured equivalence or IXL endorsement."
+    }
+  }
+]

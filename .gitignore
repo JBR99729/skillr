@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+tmp/
+
+# Playwright
+node_modules/
+/test-results/
+/playwright-report/
+/blob-report/
+/playwright/.cache/
+/playwright/.auth/
+
+# Generated on demand by scripts/build_curriculum_equivalents.mjs
+data/curriculum-equivalents.json

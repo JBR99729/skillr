@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-labelledby="title desc">
+<title id="title">Quick check for halves, quarters and eighths</title>
+<desc id="desc">Four classroom questions check equal sharing and fraction relationships.</desc>
+<style>
+  .title{font:700 47px Arial,sans-serif}.sub{font:700 29px Arial,sans-serif}.text{font:500 25px Arial,sans-serif}.small{font:500 20px Arial,sans-serif}.footer{font:700 18px Arial,sans-serif}.watermark{font:700 31px Arial,sans-serif;letter-spacing:4px}
+</style>
+<rect width="1200" height="675" fill="#f8fafc"/>
+<rect width="1200" height="82" fill="#173a72"/>
+<text x="52" y="54" fill="#fff" class="sub">SkillrHub • Year 2 Maths</text>
+<text x="1148" y="54" text-anchor="end" fill="#fff" class="small">7 / 7</text>
+<text x="60" y="150" fill="#173a72" class="title">Quick check</text>
+<rect x="70" y="205" width="1060" height="78" rx="18" fill="#eff6ff"/>
+<text x="105" y="255" fill="#0f172a" class="text">1. Share 16 counters into 2 equal groups. How many are in one-half?</text>
+<rect x="70" y="305" width="1060" height="78" rx="18" fill="#ecfdf5"/>
+<text x="105" y="355" fill="#0f172a" class="text">2. A strip has 4 equal parts. What is one part called?</text>
+<rect x="70" y="405" width="1060" height="78" rx="18" fill="#fff7ed"/>
+<text x="105" y="455" fill="#0f172a" class="text">3. Complete: one-eighth is half of ______.</text>
+<rect x="70" y="505" width="1060" height="78" rx="18" fill="#fef2f2"/>
+<text x="105" y="555" fill="#0f172a" class="text">4. Why do 2 unequal parts not show halves?</text>
+<text x="600" y="395" text-anchor="middle" fill="#173a72" opacity=".055" class="watermark">SKILLRHUB • SKILLRHUB</text>
+<rect y="620" width="1200" height="55" fill="#173a72"/>
+<text x="52" y="655" fill="#fff" class="footer">AC9M2N03 • SkillrHub • skillrhub.com</text>
+</svg>

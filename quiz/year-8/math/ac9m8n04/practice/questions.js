@@ -1,0 +1,48 @@
+"use strict";
+const rawAc9m8n04Practice = [
+  ["What is 5 + (−3)?", ["2", "−2", "8", "−8"], 0, "Adding −3 means move 3 units left from 5, giving 2.", "integer addition"],
+  ["What is −7 + 4?", ["−11", "−3", "3", "11"], 1, "Starting at −7 and adding 4 gives −3.", "integer addition"],
+  ["What is −12 − 5?", ["−17", "−7", "7", "17"], 0, "Subtracting 5 from −12 moves 5 more units left, giving −17.", "integer subtraction"],
+  ["What is 9 − (−6)?", ["3", "−3", "15", "−15"], 2, "Subtracting a negative is the same as adding: 9 − (−6) = 9 + 6 = 15.", "integer subtraction"],
+  ["What is −10 + (−10)?", ["−20", "0", "20", "−1"], 0, "Two negative numbers add to a larger negative: −10 + (−10) = −20.", "integer addition"],
+  ["What is 6 × (−2)?", ["−12", "12", "−4", "4"], 0, "A positive multiplied by a negative is negative: 6 × (−2) = −12.", "integer multiplication"],
+  ["What is (−8) × (−3)?", ["−24", "24", "−11", "11"], 1, "A negative multiplied by a negative is positive: (−8)(−3) = 24.", "integer multiplication"],
+  ["What is (−20) ÷ 5?", ["−4", "4", "−5", "5"], 0, "A negative divided by a positive is negative: −20 ÷ 5 = −4.", "integer division"],
+  ["What is 20 ÷ (−4)?", ["−5", "5", "−4", "4"], 0, "A positive divided by a negative is negative: 20 ÷ (−4) = −5.", "integer division"],
+  ["What is (−1)^4?", ["−1", "1", "4", "−4"], 1, "An even power of −1 equals 1.", "integer powers"],
+  ["What is (−1)^5?", ["−1", "1", "5", "−5"], 0, "An odd power of −1 equals −1.", "integer powers"],
+  ["Which sign pattern is correct?", ["(+) × (+) = −", "(+) × (−) = −", "(−) × (−) = −", "(−) × (+) = +"], 1, "A positive multiplied by a negative gives a negative result.", "sign patterns"],
+  ["Which result is positive?", ["(−7) × (−2)", "(−7) × 2", "7 × (−2)", "(−7) × (−1) × (−1)"], 0, "Two negative factors give a positive result: (−7)(−2) = 14.", "sign patterns"],
+  ["Which expression has result −9?", ["(−3) × (−3)", "(−3) × 3", "3 × 3", "3 × (−3) × (−1)"], 1, "(−3) × 3 = −9. The other options are positive.", "sign patterns"],
+  ["Which expression equals 1?", ["(−1)^2", "(−1)^3", "(−1)^5", "(−1)^7"], 0, "Only the even power gives 1; odd powers of −1 give −1.", "integer powers"],
+  ["What is 3/4 + 1/4?", ["1", "0.5", "0.75", "1.25"], 0, "The denominators are the same, so add numerators: 3/4 + 1/4 = 4/4 = 1.", "fraction addition"],
+  ["What is 5/6 − 1/6?", ["1", "0", "4/6", "2/3"], 3, "5/6 − 1/6 = 4/6, which simplifies to 2/3.", "fraction subtraction"],
+  ["What is 0.5 + (−0.2)?", ["0.3", "−0.3", "0.7", "−0.7"], 0, "0.5 − 0.2 = 0.3.", "decimal addition"],
+  ["What is 0.8 − 1.2?", ["−0.4", "0.4", "−2", "2"], 0, "Subtracting the larger number from the smaller gives −0.4.", "decimal subtraction"],
+  ["What is −3/5 + 1/5?", ["−4/5", "−2/5", "2/5", "4/5"], 1, "−3/5 + 1/5 = −2/5.", "fraction addition"],
+  ["What is 2/3 × (−3)?", ["−2", "2", "−1", "1"], 0, "2/3 × (−3) = −6/3 = −2.", "fraction multiplication"],
+  ["What is −4/7 ÷ 2/7?", ["−2", "2", "−1", "1"], 0, "Divide by multiplying by the reciprocal: −4/7 × 7/2 = −2.", "fraction division"],
+  ["What is 1.5 × (−2)?", ["−3", "3", "−1", "1"], 0, "A positive times a negative is negative, and 1.5 × 2 = 3.", "decimal multiplication"],
+  ["What is −0.4 ÷ 0.2?", ["−2", "2", "−0.2", "0.2"], 0, "−0.4 ÷ 0.2 = −2.", "decimal division"]
+];
+window.skillrPracticeQuestions = rawAc9m8n04Practice.map(([question, answers, correct, explanation, skill], index) => ({
+  id: `ac9m8n04-p-${String(index + 1).padStart(3, "0")}`,
+  curriculumCode: "AC9M8N04",
+  bank: "practice",
+  section: index < 5 ? "Integer addition and subtraction" : index < 15 ? "Integer multiplication, division and signs" : "Rational numbers",
+  sourceNumber: index + 1,
+  skill,
+  printable: true,
+  type: "single",
+  question,
+  audioPrompt: question,
+  visual: "",
+  visualHtml: "",
+  visualMeta: { type: "none", alt_text: "" },
+  answers,
+  correct,
+  explanation,
+  structuredExplanation: { summary: explanation, hint: "Track the sign first, then do the arithmetic." },
+  qualitySchema: "production-v1"
+}));
+window.quizQuestions = window.skillrPracticeQuestions;

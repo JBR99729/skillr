@@ -1,0 +1,403 @@
+{
+  "generatedAt": "2026-08-12T09:08:52.986Z",
+  "codes": {
+    "AC9MFN03": {
+      "practice": {
+        "count": 56,
+        "types": [
+          "number",
+          "single",
+          "multiple",
+          "order",
+          "true-false"
+        ],
+        "visualCount": 50,
+        "skillCount": 16
+      },
+      "test": {
+        "count": 24,
+        "types": [
+          "number",
+          "single",
+          "multiple",
+          "order",
+          "true-false"
+        ],
+        "visualCount": 22,
+        "skillCount": 16
+      },
+      "quiz": {
+        "count": 100,
+        "types": [
+          "number",
+          "single",
+          "multiple",
+          "order",
+          "true-false"
+        ],
+        "visualCount": 88,
+        "skillCount": 16
+      }
+    },
+    "AC9MFN04": {
+      "practice": {
+        "count": 56,
+        "types": [
+          "number",
+          "single",
+          "multiple",
+          "true-false",
+          "order"
+        ],
+        "visualCount": 36,
+        "skillCount": 16
+      },
+      "test": {
+        "count": 24,
+        "types": [
+          "number",
+          "single",
+          "multiple",
+          "true-false",
+          "order"
+        ],
+        "visualCount": 16,
+        "skillCount": 16
+      },
+      "quiz": {
+        "count": 100,
+        "types": [
+          "number",
+          "single",
+          "multiple",
+          "true-false",
+          "order"
+        ],
+        "visualCount": 63,
+        "skillCount": 16
+      }
+    },
+    "AC9MFN05": {
+      "practice": {
+        "count": 56,
+        "types": [
+          "number",
+          "single",
+          "true-false",
+          "multiple"
+        ],
+        "visualCount": 18,
+        "skillCount": 15
+      },
+      "test": {
+        "count": 24,
+        "types": [
+          "number",
+          "single",
+          "true-false",
+          "multiple"
+        ],
+        "visualCount": 8,
+        "skillCount": 15
+      },
+      "quiz": {
+        "count": 100,
+        "types": [
+          "number",
+          "single",
+          "true-false",
+          "multiple"
+        ],
+        "visualCount": 32,
+        "skillCount": 15
+      }
+    },
+    "AC9MFN06": {
+      "practice": {
+        "count": 56,
+        "types": [
+          "number",
+          "single",
+          "true-false",
+          "multiple",
+          "order"
+        ],
+        "visualCount": 19,
+        "skillCount": 16
+      },
+      "test": {
+        "count": 24,
+        "types": [
+          "number",
+          "single",
+          "true-false",
+          "multiple",
+          "order"
+        ],
+        "visualCount": 9,
+        "skillCount": 16
+      },
+      "quiz": {
+        "count": 100,
+        "types": [
+          "number",
+          "single",
+          "true-false",
+          "multiple",
+          "order"
+        ],
+        "visualCount": 33,
+        "skillCount": 16
+      }
+    },
+    "AC9MFA01": {
+      "practice": {
+        "count": 56,
+        "types": [
+          "single",
+          "true-false",
+          "order",
+          "number",
+          "multiple"
+        ],
+        "visualCount": 41,
+        "skillCount": 16
+      },
+      "test": {
+        "count": 24,
+        "types": [
+          "single",
+          "true-false",
+          "order",
+          "number",
+          "multiple"
+        ],
+        "visualCount": 17,
+        "skillCount": 16
+      },
+      "quiz": {
+        "count": 100,
+        "types": [
+          "single",
+          "true-false",
+          "order",
+          "number",
+          "multiple"
+        ],
+        "visualCount": 76,
+        "skillCount": 16
+      }
+    },
+    "AC9MFM01": {
+      "practice": {
+        "count": 56,
+        "types": [
+          "single",
+          "multiple",
+          "true-false"
+        ],
+        "visualCount": 4,
+        "skillCount": 16
+      },
+      "test": {
+        "count": 24,
+        "types": [
+          "single",
+          "multiple",
+          "true-false"
+        ],
+        "visualCount": 2,
+        "skillCount": 16
+      },
+      "quiz": {
+        "count": 100,
+        "types": [
+          "single",
+          "multiple",
+          "true-false"
+        ],
+        "visualCount": 7,
+        "skillCount": 16
+      }
+    },
+    "AC9MFM02": {
+      "practice": {
+        "count": 56,
+        "types": [
+          "single",
+          "true-false",
+          "order",
+          "multiple"
+        ],
+        "visualCount": 9,
+        "skillCount": 16
+      },
+      "test": {
+        "count": 24,
+        "types": [
+          "single",
+          "true-false",
+          "order",
+          "multiple"
+        ],
+        "visualCount": 3,
+        "skillCount": 16
+      },
+      "quiz": {
+        "count": 100,
+        "types": [
+          "single",
+          "true-false",
+          "order",
+          "multiple"
+        ],
+        "visualCount": 18,
+        "skillCount": 16
+      }
+    },
+    "AC9MFSP01": {
+      "practice": {
+        "count": 56,
+        "types": [
+          "single",
+          "number",
+          "true-false",
+          "multiple",
+          "order"
+        ],
+        "visualCount": 20,
+        "skillCount": 16
+      },
+      "test": {
+        "count": 24,
+        "types": [
+          "single",
+          "number",
+          "true-false",
+          "multiple",
+          "order"
+        ],
+        "visualCount": 10,
+        "skillCount": 16
+      },
+      "quiz": {
+        "count": 100,
+        "types": [
+          "single",
+          "number",
+          "true-false",
+          "multiple",
+          "order"
+        ],
+        "visualCount": 31,
+        "skillCount": 16
+      }
+    },
+    "AC9MFSP02": {
+      "practice": {
+        "count": 56,
+        "types": [
+          "single",
+          "order",
+          "multiple"
+        ],
+        "visualCount": 33,
+        "skillCount": 16
+      },
+      "test": {
+        "count": 24,
+        "types": [
+          "single",
+          "order",
+          "multiple"
+        ],
+        "visualCount": 15,
+        "skillCount": 16
+      },
+      "quiz": {
+        "count": 100,
+        "types": [
+          "single",
+          "order",
+          "multiple"
+        ],
+        "visualCount": 58,
+        "skillCount": 16
+      }
+    },
+    "AC9MFST01": {
+      "practice": {
+        "count": 56,
+        "types": [
+          "single",
+          "number",
+          "multiple",
+          "order"
+        ],
+        "visualCount": 36,
+        "skillCount": 16
+      },
+      "test": {
+        "count": 24,
+        "types": [
+          "single",
+          "number",
+          "multiple",
+          "order"
+        ],
+        "visualCount": 16,
+        "skillCount": 16
+      },
+      "quiz": {
+        "count": 100,
+        "types": [
+          "single",
+          "number",
+          "multiple",
+          "order"
+        ],
+        "visualCount": 63,
+        "skillCount": 16
+      }
+    }
+  },
+  "dailyDrillPages": [
+    "quiz/daily-drills/math/numbers-to-20/index.html",
+    "quiz/grade-k/daily-drills/math/numbers-to-20/index.html",
+    "quiz/daily-drills/math/addition-subtraction/index.html",
+    "quiz/grade-k/daily-drills/math/addition-subtraction/index.html",
+    "quiz/daily-drills/math/equal-groups-sharing/index.html",
+    "quiz/grade-k/daily-drills/math/equal-groups-sharing/index.html",
+    "quiz/daily-drills/math/repeating-patterns/index.html",
+    "quiz/grade-k/daily-drills/math/repeating-patterns/index.html",
+    "quiz/daily-drills/math/measurement-shapes-data/index.html",
+    "quiz/grade-k/daily-drills/math/measurement-shapes-data/index.html"
+  ],
+  "titleFiles": [
+    "foundation/maths/ac9mfa01-recognise-copy-and-continue-repeating-patterns-represented-in/index.html",
+    "foundation/maths/ac9mfm01-and-compare-attributes-of-objects-and-events-including-length/index.html",
+    "foundation/maths/ac9mfm02-sequence-days-of-the-week-and-times-of-the-day/index.html",
+    "foundation/maths/ac9mfn01-name-represent-and-order-numbers-including-zero-to-at-least/index.html",
+    "foundation/maths/ac9mfn02-and-name-the-number-of-objects-within-a-collection-up/index.html",
+    "foundation/maths/ac9mfn03-and-compare-collections-to-at-least-20-using-counting-and/index.html",
+    "foundation/maths/ac9mfn04-partition-and-combine-collections-up-to-10-using-part-part/index.html",
+    "foundation/maths/ac9mfn05-represent-practical-situations-involving-addition-subtraction/index.html",
+    "foundation/maths/ac9mfn06-represent-practical-situations-that-involve-equal-sharing-and/index.html",
+    "foundation/maths/ac9mfsp01-sort-name-and-create-familiar-shapes-recognise-and-describe/index.html",
+    "foundation/maths/ac9mfsp02-the-position-and-location-of-themselves-and-objects-in-relation/index.html",
+    "foundation/maths/ac9mfst01-collect-sort-and-compare-data-represented-by-objects-and-images/index.html",
+    "foundation/maths/ac9mfa01-recognise-copy-and-continue-repeating-patterns-represented-in/index.html",
+    "foundation/maths/ac9mfm01-and-compare-attributes-of-objects-and-events-including-length/index.html",
+    "foundation/maths/ac9mfm02-sequence-days-of-the-week-and-times-of-the-day/index.html",
+    "foundation/maths/ac9mfn01-name-represent-and-order-numbers-including-zero-to-at-least/index.html",
+    "foundation/maths/ac9mfn02-and-name-the-number-of-objects-within-a-collection-up/index.html",
+    "foundation/maths/ac9mfn03-and-compare-collections-to-at-least-20-using-counting-and/index.html",
+    "foundation/maths/ac9mfn04-partition-and-combine-collections-up-to-10-using-part-part/index.html",
+    "foundation/maths/ac9mfn05-represent-practical-situations-involving-addition-subtraction/index.html",
+    "foundation/maths/ac9mfn06-represent-practical-situations-that-involve-equal-sharing-and/index.html",
+    "foundation/maths/ac9mfsp01-sort-name-and-create-familiar-shapes-recognise-and-describe/index.html",
+    "foundation/maths/ac9mfsp02-the-position-and-location-of-themselves-and-objects-in-relation/index.html",
+    "foundation/maths/ac9mfst01-collect-sort-and-compare-data-represented-by-objects-and-images/index.html",
+    "foundation/maths/ac9mfsp02-the-position-and-location-of-themselves-and-objects-in-relation/index.html"
+  ]
+}

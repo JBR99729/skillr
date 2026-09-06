@@ -1,0 +1,40 @@
+.fixed-slide-viewer__stage::before {
+  content: "SKILLRHUB.COM";
+  position: absolute;
+  z-index: 20;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%) rotate(-24deg);
+  color: rgba(15, 46, 92, .15);
+  font: 900 clamp(2.4rem, 7vw, 6.8rem)/1 Arial, sans-serif;
+  letter-spacing: .12em;
+  white-space: nowrap;
+  pointer-events: none;
+  user-select: none;
+}
+.fixed-slide-viewer__stage::after {
+  content: "SkillrHub  •  Curriculum-aligned teacher resource  •  skillrhub.com";
+  position: absolute;
+  z-index: 21;
+  left: 18px;
+  right: 18px;
+  bottom: 14px;
+  padding: 8px 12px;
+  border-radius: 8px;
+  background: rgba(11, 31, 62, .88);
+  color: #fff;
+  font: 800 clamp(.72rem, 1.25vw, 1rem)/1.2 Arial, sans-serif;
+  letter-spacing: .025em;
+  text-align: center;
+  pointer-events: none;
+  user-select: none;
+  box-shadow: 0 2px 10px rgba(0,0,0,.18);
+}
+.fixed-slide-viewer__slide { position: relative; }
+.fixed-slide-viewer__slide svg,
+.fixed-slide-viewer__slide img { position: relative; z-index: 1; }
+@media (max-width:640px){
+  .fixed-slide-viewer__stage::before{font-size:clamp(1.7rem,8vw,3.4rem);}
+  .fixed-slide-viewer__stage::after{left:8px;right:8px;bottom:8px;padding:6px 8px;font-size:.68rem;}
+}
+@media print { .fixed-slide-viewer__stage::before,.fixed-slide-viewer__stage::after{display:none!important;} }

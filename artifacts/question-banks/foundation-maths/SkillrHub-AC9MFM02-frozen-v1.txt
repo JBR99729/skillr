@@ -1,0 +1,459 @@
+FOUNDATION MATHS — AC9MFM02
+Sequence days of the week and times of the day including morning, lunchtime, afternoon and night time, and connect them to familiar events and actions.
+
+Status: Frozen v1
+Note: Adult read-aloud support is expected for Foundation students.
+Production note: Keep this bank focused on daily and weekly sequencing only. Do not add seasons here; seasons are covered only in SkillrHub/internal AC9MFN07.
+
+PRACTICE QUESTIONS 1–24
+
+PRACTICE 1
+Which day comes after Monday?
+
+A. Sunday
+B. Tuesday
+C. Friday
+
+Answer: B
+Explanation: Tuesday comes after Monday.
+
+
+PRACTICE 2
+Which day comes before Thursday?
+
+A. Wednesday
+B. Friday
+C. Saturday
+
+Answer: A
+Explanation: Wednesday is the day before Thursday.
+
+
+PRACTICE 3
+Which day comes after Friday?
+
+A. Monday
+B. Thursday
+C. Saturday
+
+Answer: C
+Explanation: Saturday comes after Friday.
+
+
+PRACTICE 4
+Which order is correct?
+
+A. Monday, Tuesday, Wednesday
+B. Wednesday, Monday, Tuesday
+C. Tuesday, Friday, Thursday
+
+Answer: A
+Explanation: Monday, Tuesday, Wednesday is the correct sequence.
+
+
+PRACTICE 5
+Which order is correct?
+
+A. Sunday, Friday, Saturday
+B. Friday, Saturday, Sunday
+C. Saturday, Thursday, Friday
+
+Answer: B
+Explanation: Friday, Saturday, Sunday is the correct sequence.
+
+
+PRACTICE 6
+Today is Tuesday.
+What day is tomorrow?
+
+A. Monday
+B. Friday
+C. Wednesday
+
+Answer: C
+Explanation: Tomorrow is the day after today. Wednesday comes after Tuesday.
+
+
+PRACTICE 7
+Today is Sunday.
+What day was yesterday?
+
+A. Saturday
+B. Monday
+C. Thursday
+
+Answer: A
+Explanation: Yesterday was Saturday.
+
+
+PRACTICE 8
+Which days are usually school days?
+
+A. Monday to Friday
+B. Saturday and Sunday
+C. Sunday and Monday
+
+Answer: A
+Explanation: Monday to Friday are usually school days.
+
+
+PRACTICE 9
+Which days are weekend days?
+
+A. Tuesday and Wednesday
+B. Saturday and Sunday
+C. Monday and Friday
+
+Answer: B
+Explanation: Saturday and Sunday are weekend days.
+
+
+PRACTICE 10
+Which time of day usually comes first?
+
+A. Night time
+B. Afternoon
+C. Morning
+
+Answer: C
+Explanation: Morning usually comes first in the day.
+
+
+PRACTICE 11
+Which time of day comes after morning at school?
+
+A. Lunchtime
+B. Night time
+C. Bedtime
+
+Answer: A
+Explanation: Lunchtime comes after morning.
+
+
+PRACTICE 12
+Which time of day usually comes after lunchtime?
+
+A. Morning
+B. Afternoon
+C. Yesterday
+
+Answer: B
+Explanation: Afternoon usually comes after lunchtime.
+
+
+PRACTICE 13
+Which event usually happens in the morning?
+
+A. Going to sleep
+B. Eating breakfast
+C. Eating dinner
+
+Answer: B
+Explanation: Breakfast is usually eaten in the morning.
+
+
+PRACTICE 14
+Which event usually happens at lunchtime?
+
+A. Eating lunch
+B. Waking up
+C. Brushing teeth for bed
+
+Answer: A
+Explanation: Lunch is eaten at lunchtime.
+
+
+PRACTICE 15
+Which event usually happens at night time?
+
+A. Arriving at school
+B. Eating lunch
+C. Sleeping
+
+Answer: C
+Explanation: Sleeping usually happens at night time.
+
+
+PRACTICE 16
+Which order makes sense?
+
+A. Breakfast, lunch, dinner
+B. Dinner, breakfast, lunch
+C. Lunch, dinner, breakfast
+
+Answer: A
+Explanation: Breakfast usually comes before lunch, and lunch comes before dinner.
+
+
+PRACTICE 17
+Which order makes sense for getting ready for school?
+
+A. Go to school, wake up, get dressed
+B. Wake up, get dressed, go to school
+C. Eat dinner, wake up, go to school
+
+Answer: B
+Explanation: Children usually wake up, get dressed, then go to school.
+
+
+PRACTICE 18
+Which event usually happens after school?
+
+A. Going home
+B. Waking up
+C. Eating breakfast
+
+Answer: A
+Explanation: Going home usually happens after school.
+
+
+PRACTICE 19
+Which event usually happens before lunch at school?
+
+A. Going to bed
+B. Morning learning
+C. Sleeping all night
+
+Answer: B
+Explanation: Morning learning usually happens before lunch.
+
+
+PRACTICE 20
+The class reads a story, then packs away, then goes outside.
+What happens second?
+
+A. Reads a story
+B. Goes outside
+C. Packs away
+
+Answer: C
+Explanation: The second event is packing away.
+
+
+PRACTICE 21
+The class lines up, walks to the library, then sits on the mat.
+What happens first?
+
+A. Lines up
+B. Sits on the mat
+C. Walks to the library
+
+Answer: A
+Explanation: The first event is lining up.
+
+
+PRACTICE 22
+The child washes hands, eats lunch, then plays outside.
+What happens after washing hands?
+
+A. Plays outside
+B. Eats lunch
+C. Goes to sleep
+
+Answer: B
+Explanation: Eating lunch happens after washing hands.
+
+
+PRACTICE 23
+Which sentence is true?
+
+A. Tuesday comes after Monday.
+B. Monday comes after Wednesday.
+C. Friday comes before Thursday.
+
+Answer: A
+Explanation: Tuesday comes after Monday.
+
+
+PRACTICE 24
+Why do the days of the week make a pattern?
+
+A. They get bigger each day.
+B. They always stay on Monday.
+C. They repeat in the same order.
+
+Answer: C
+Explanation: The days repeat in the same order each week.
+
+
+TEST QUESTIONS 1–16
+
+TEST 1
+Which day comes after Wednesday?
+
+A. Tuesday
+B. Thursday
+C. Sunday
+
+Answer: B
+Explanation: Thursday comes after Wednesday.
+
+
+TEST 2
+Which day comes before Monday?
+
+A. Sunday
+B. Tuesday
+C. Friday
+
+Answer: A
+Explanation: Sunday comes before Monday in the weekly cycle.
+
+
+TEST 3
+Which day comes after Saturday?
+
+A. Friday
+B. Thursday
+C. Sunday
+
+Answer: C
+Explanation: Sunday comes after Saturday.
+
+
+TEST 4
+Which order is correct?
+
+A. Tuesday, Wednesday, Thursday
+B. Thursday, Tuesday, Wednesday
+C. Wednesday, Friday, Tuesday
+
+Answer: A
+Explanation: Tuesday, Wednesday, Thursday is the correct sequence.
+
+
+TEST 5
+Today is Friday.
+What day is tomorrow?
+
+A. Monday
+B. Saturday
+C. Thursday
+
+Answer: B
+Explanation: Saturday comes after Friday.
+
+
+TEST 6
+Today is Wednesday.
+What day was yesterday?
+
+A. Friday
+B. Sunday
+C. Tuesday
+
+Answer: C
+Explanation: Tuesday comes before Wednesday.
+
+
+TEST 7
+Which time of day usually comes before lunchtime?
+
+A. Morning
+B. Night time
+C. Afternoon
+
+Answer: A
+Explanation: Morning usually comes before lunchtime.
+
+
+TEST 8
+Which time of day usually comes after afternoon?
+
+A. Lunchtime
+B. Morning
+C. Night time
+
+Answer: C
+Explanation: Night time usually comes after afternoon.
+
+
+TEST 9
+Which event usually happens in the morning?
+
+A. Eating dinner
+B. Waking up
+C. Going to bed
+
+Answer: B
+Explanation: Waking up usually happens in the morning.
+
+
+TEST 10
+Which event usually happens at night time?
+
+A. Sleeping
+B. Starting school
+C. Eating lunch
+
+Answer: A
+Explanation: Sleeping usually happens at night time.
+
+
+TEST 11
+Which order makes sense?
+
+A. Lunch, breakfast, dinner
+B. Dinner, lunch, breakfast
+C. Breakfast, lunch, dinner
+
+Answer: C
+Explanation: Breakfast usually comes first, then lunch, then dinner.
+
+
+TEST 12
+Which order makes sense for a school day?
+
+A. Arrive at school, learn, go home
+B. Go home, arrive at school, learn
+C. Learn, go home, arrive at school
+
+Answer: A
+Explanation: Children usually arrive at school, learn, then go home.
+
+
+TEST 13
+The child puts on shoes, picks up a bag, then leaves home.
+What happens second?
+
+A. Leaves home
+B. Picks up a bag
+C. Puts on shoes
+
+Answer: B
+Explanation: Picking up the bag happens second.
+
+
+TEST 14
+The class sings, listens to a story, then has fruit break.
+What happens after singing?
+
+A. Has fruit break
+B. Goes home
+C. Listens to a story
+
+Answer: C
+Explanation: Listening to a story happens after singing.
+
+
+TEST 15
+Which sentence is true?
+
+A. Saturday and Sunday are weekend days.
+B. Tuesday and Wednesday are weekend days.
+C. Monday and Friday are always night time.
+
+Answer: A
+Explanation: Saturday and Sunday are weekend days.
+
+
+TEST 16
+Why is “Monday, Tuesday, Wednesday” a good order?
+
+A. Wednesday comes first.
+B. They are weekend days.
+C. The days are in sequence.
+
+Answer: C
+Explanation: Monday, Tuesday, Wednesday follows the correct day sequence.
+

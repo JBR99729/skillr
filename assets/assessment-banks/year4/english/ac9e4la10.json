@@ -1,0 +1,1682 @@
+[
+  {
+    "id": "AC9E4LA10-P-001",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA10",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "Framing, Placement and Salience in Images",
+    "question": "In designing a poster about protecting turtles, which option best demonstrates the skill?",
+    "audio_prompt": "In designing a poster about protecting turtles, which option best demonstrates the skill?",
+    "answers": [
+      {
+        "text": "Place a large, sharply focused turtle near the centre and keep the background less detailed.",
+        "is_correct": true
+      },
+      {
+        "text": "Make the turtle tiny in a crowded corner.",
+        "is_correct": false
+      },
+      {
+        "text": "Crop the turtle out and enlarge an unrelated bin.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Size, central placement and sharp focus make the turtle more salient.",
+      "hint": "Ask what the viewer will notice first and why."
+    }
+  },
+  {
+    "id": "AC9E4LA10-P-002",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA10",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "Framing, Placement and Salience in Images",
+    "question": "Which choice fits designing a poster about protecting turtles most accurately?",
+    "audio_prompt": "Which choice fits designing a poster about protecting turtles most accurately?",
+    "answers": [
+      {
+        "text": "Make the turtle tiny in a crowded corner.",
+        "is_correct": false
+      },
+      {
+        "text": "Place a large, sharply focused turtle near the centre and keep the background less detailed.",
+        "is_correct": true
+      },
+      {
+        "text": "Crop the turtle out and enlarge an unrelated bin.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Size, central placement and sharp focus make the turtle more salient.",
+      "hint": "Ask what the viewer will notice first and why."
+    }
+  },
+  {
+    "id": "AC9E4LA10-P-003",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA10",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "Framing, Placement and Salience in Images",
+    "question": "Which choice fits cropping a photo of a crowded beach for a news story most accurately?",
+    "audio_prompt": "Which choice fits cropping a photo of a crowded beach for a news story most accurately?",
+    "answers": [
+      {
+        "text": "Crop tightly around one empty patch so the beach looks deserted.",
+        "is_correct": false
+      },
+      {
+        "text": "Remove the shoreline so the location is unclear.",
+        "is_correct": false
+      },
+      {
+        "text": "Keep enough of the crowd and shoreline visible to show the scale of the scene.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Cropping can change the apparent meaning by including or excluding context.",
+      "hint": "Check what information disappears when the frame changes."
+    }
+  },
+  {
+    "id": "AC9E4LA10-P-004",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA10",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "Framing, Placement and Salience in Images",
+    "question": "Look closely at cropping a photo of a crowded beach for a news story. Which response or wording works best?",
+    "audio_prompt": "Look closely at cropping a photo of a crowded beach for a news story. Which response or wording works best?",
+    "answers": [
+      {
+        "text": "Keep enough of the crowd and shoreline visible to show the scale of the scene.",
+        "is_correct": true
+      },
+      {
+        "text": "Crop tightly around one empty patch so the beach looks deserted.",
+        "is_correct": false
+      },
+      {
+        "text": "Remove the shoreline so the location is unclear.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Cropping can change the apparent meaning by including or excluding context.",
+      "hint": "Check what information disappears when the frame changes."
+    }
+  },
+  {
+    "id": "AC9E4LA10-P-005",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA10",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "Framing, Placement and Salience in Images",
+    "question": "Look closely at showing a character as isolated in a film still. Which response or wording works best?",
+    "audio_prompt": "Look closely at showing a character as isolated in a film still. Which response or wording works best?",
+    "answers": [
+      {
+        "text": "Fill the frame with a close-up group selfie.",
+        "is_correct": false
+      },
+      {
+        "text": "Place the character small and alone near the edge of a wide empty frame.",
+        "is_correct": true
+      },
+      {
+        "text": "Put many bright objects around the character so isolation disappears.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Distance, empty space and edge placement can make the character appear isolated.",
+      "hint": "Consider how position and surrounding space shape the response."
+    }
+  },
+  {
+    "id": "AC9E4LA10-P-006",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA10",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "Framing, Placement and Salience in Images",
+    "question": "For showing a character as isolated in a film still, which option is the strongest match?",
+    "audio_prompt": "For showing a character as isolated in a film still, which option is the strongest match?",
+    "answers": [
+      {
+        "text": "Fill the frame with a close-up group selfie.",
+        "is_correct": false
+      },
+      {
+        "text": "Put many bright objects around the character so isolation disappears.",
+        "is_correct": false
+      },
+      {
+        "text": "Place the character small and alone near the edge of a wide empty frame.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Distance, empty space and edge placement can make the character appear isolated.",
+      "hint": "Consider how position and surrounding space shape the response."
+    }
+  },
+  {
+    "id": "AC9E4LA10-P-007",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA10",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "Framing, Placement and Salience in Images",
+    "question": "For making a warning symbol stand out on an information page, which option is the strongest match?",
+    "audio_prompt": "For making a warning symbol stand out on an information page, which option is the strongest match?",
+    "answers": [
+      {
+        "text": "Use strong contrast and place the symbol close to the safety message.",
+        "is_correct": true
+      },
+      {
+        "text": "Use the same pale colour as the background.",
+        "is_correct": false
+      },
+      {
+        "text": "Place the symbol far from the warning text among decorations.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Contrast and proximity increase salience and connect the symbol to the warning.",
+      "hint": "Look at colour, size, position and closeness to related words."
+    }
+  },
+  {
+    "id": "AC9E4LA10-P-008",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA10",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "Framing, Placement and Salience in Images",
+    "question": "Which example should you choose for making a warning symbol stand out on an information page?",
+    "audio_prompt": "Which example should you choose for making a warning symbol stand out on an information page?",
+    "answers": [
+      {
+        "text": "Use the same pale colour as the background.",
+        "is_correct": false
+      },
+      {
+        "text": "Use strong contrast and place the symbol close to the safety message.",
+        "is_correct": true
+      },
+      {
+        "text": "Place the symbol far from the warning text among decorations.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Contrast and proximity increase salience and connect the symbol to the warning.",
+      "hint": "Look at colour, size, position and closeness to related words."
+    }
+  },
+  {
+    "id": "AC9E4LA10-P-009",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA10",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "Framing, Placement and Salience in Images",
+    "question": "Which example should you choose for comparing two photographs of the same football match?",
+    "audio_prompt": "Which example should you choose for comparing two photographs of the same football match?",
+    "answers": [
+      {
+        "text": "Both photos must mean exactly the same because they show the same match.",
+        "is_correct": false
+      },
+      {
+        "text": "Only the camera brand changes the meaning.",
+        "is_correct": false
+      },
+      {
+        "text": "The close-up of the goalkeeper emphasises emotion, while the wide shot shows team positions.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Framing controls how much context is visible and therefore what the viewer focuses on.",
+      "hint": "Compare what each frame includes and leaves out."
+    }
+  },
+  {
+    "id": "AC9E4LA10-P-010",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA10",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "Framing, Placement and Salience in Images",
+    "question": "In comparing two photographs of the same football match, which option best demonstrates the skill?",
+    "audio_prompt": "In comparing two photographs of the same football match, which option best demonstrates the skill?",
+    "answers": [
+      {
+        "text": "The close-up of the goalkeeper emphasises emotion, while the wide shot shows team positions.",
+        "is_correct": true
+      },
+      {
+        "text": "Both photos must mean exactly the same because they show the same match.",
+        "is_correct": false
+      },
+      {
+        "text": "Only the camera brand changes the meaning.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Framing controls how much context is visible and therefore what the viewer focuses on.",
+      "hint": "Compare what each frame includes and leaves out."
+    }
+  },
+  {
+    "id": "AC9E4LA10-P-011",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA10",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "Framing, Placement and Salience in Images",
+    "question": "Why does “Place a large, sharply focused turtle near the centre and keep the background less detailed.” work well for designing a poster about protecting turtles?",
+    "audio_prompt": "Why does “Place a large, sharply focused turtle near the centre and keep the background less detailed.” work well for designing a poster about protecting turtles?",
+    "answers": [
+      {
+        "text": "Because “Make the turtle tiny in a crowded corner.” is always acceptable in this situation.",
+        "is_correct": false
+      },
+      {
+        "text": "Size, central placement and sharp focus make the turtle more salient.",
+        "is_correct": true
+      },
+      {
+        "text": "Because the longest or most complicated option must be correct.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Size, central placement and sharp focus make the turtle more salient.",
+      "hint": "Ask what the viewer will notice first and why."
+    }
+  },
+  {
+    "id": "AC9E4LA10-P-012",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA10",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "Framing, Placement and Salience in Images",
+    "question": "What makes “Place a large, sharply focused turtle near the centre and keep the background less detailed.” a better choice in designing a poster about protecting turtles?",
+    "audio_prompt": "What makes “Place a large, sharply focused turtle near the centre and keep the background less detailed.” a better choice in designing a poster about protecting turtles?",
+    "answers": [
+      {
+        "text": "Because “Make the turtle tiny in a crowded corner.” is always acceptable in this situation.",
+        "is_correct": false
+      },
+      {
+        "text": "Because the longest or most complicated option must be correct.",
+        "is_correct": false
+      },
+      {
+        "text": "Size, central placement and sharp focus make the turtle more salient.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Size, central placement and sharp focus make the turtle more salient.",
+      "hint": "Ask what the viewer will notice first and why."
+    }
+  },
+  {
+    "id": "AC9E4LA10-P-013",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA10",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "Framing, Placement and Salience in Images",
+    "question": "What makes “Keep enough of the crowd and shoreline visible to show the scale of the scene.” a better choice in cropping a photo of a crowded beach for a news story?",
+    "audio_prompt": "What makes “Keep enough of the crowd and shoreline visible to show the scale of the scene.” a better choice in cropping a photo of a crowded beach for a news story?",
+    "answers": [
+      {
+        "text": "Cropping can change the apparent meaning by including or excluding context.",
+        "is_correct": true
+      },
+      {
+        "text": "Because “Crop tightly around one empty patch so the beach looks deserted.” is always acceptable in this situation.",
+        "is_correct": false
+      },
+      {
+        "text": "Because the longest or most complicated option must be correct.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Cropping can change the apparent meaning by including or excluding context.",
+      "hint": "Check what information disappears when the frame changes."
+    }
+  },
+  {
+    "id": "AC9E4LA10-P-014",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA10",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "Framing, Placement and Salience in Images",
+    "question": "Which explanation best justifies “Keep enough of the crowd and shoreline visible to show the scale of the scene.” for cropping a photo of a crowded beach for a news story?",
+    "audio_prompt": "Which explanation best justifies “Keep enough of the crowd and shoreline visible to show the scale of the scene.” for cropping a photo of a crowded beach for a news story?",
+    "answers": [
+      {
+        "text": "Because “Crop tightly around one empty patch so the beach looks deserted.” is always acceptable in this situation.",
+        "is_correct": false
+      },
+      {
+        "text": "Cropping can change the apparent meaning by including or excluding context.",
+        "is_correct": true
+      },
+      {
+        "text": "Because the longest or most complicated option must be correct.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Cropping can change the apparent meaning by including or excluding context.",
+      "hint": "Check what information disappears when the frame changes."
+    }
+  },
+  {
+    "id": "AC9E4LA10-P-015",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA10",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "Framing, Placement and Salience in Images",
+    "question": "Which explanation best justifies “Place the character small and alone near the edge of a wide empty frame.” for showing a character as isolated in a film still?",
+    "audio_prompt": "Which explanation best justifies “Place the character small and alone near the edge of a wide empty frame.” for showing a character as isolated in a film still?",
+    "answers": [
+      {
+        "text": "Because “Fill the frame with a close-up group selfie.” is always acceptable in this situation.",
+        "is_correct": false
+      },
+      {
+        "text": "Because the longest or most complicated option must be correct.",
+        "is_correct": false
+      },
+      {
+        "text": "Distance, empty space and edge placement can make the character appear isolated.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Distance, empty space and edge placement can make the character appear isolated.",
+      "hint": "Consider how position and surrounding space shape the response."
+    }
+  },
+  {
+    "id": "AC9E4LA10-P-016",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA10",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "Framing, Placement and Salience in Images",
+    "question": "What should you notice about “Place the character small and alone near the edge of a wide empty frame.” in showing a character as isolated in a film still?",
+    "audio_prompt": "What should you notice about “Place the character small and alone near the edge of a wide empty frame.” in showing a character as isolated in a film still?",
+    "answers": [
+      {
+        "text": "Distance, empty space and edge placement can make the character appear isolated.",
+        "is_correct": true
+      },
+      {
+        "text": "Because “Fill the frame with a close-up group selfie.” is always acceptable in this situation.",
+        "is_correct": false
+      },
+      {
+        "text": "Because the longest or most complicated option must be correct.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Distance, empty space and edge placement can make the character appear isolated.",
+      "hint": "Consider how position and surrounding space shape the response."
+    }
+  },
+  {
+    "id": "AC9E4LA10-P-017",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA10",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "Framing, Placement and Salience in Images",
+    "question": "What should you notice about “Use strong contrast and place the symbol close to the safety message.” in making a warning symbol stand out on an information page?",
+    "audio_prompt": "What should you notice about “Use strong contrast and place the symbol close to the safety message.” in making a warning symbol stand out on an information page?",
+    "answers": [
+      {
+        "text": "Because “Use the same pale colour as the background.” is always acceptable in this situation.",
+        "is_correct": false
+      },
+      {
+        "text": "Contrast and proximity increase salience and connect the symbol to the warning.",
+        "is_correct": true
+      },
+      {
+        "text": "Because the longest or most complicated option must be correct.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Contrast and proximity increase salience and connect the symbol to the warning.",
+      "hint": "Look at colour, size, position and closeness to related words."
+    }
+  },
+  {
+    "id": "AC9E4LA10-P-018",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA10",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "Framing, Placement and Salience in Images",
+    "question": "Which reason explains why “Use strong contrast and place the symbol close to the safety message.” suits making a warning symbol stand out on an information page?",
+    "audio_prompt": "Which reason explains why “Use strong contrast and place the symbol close to the safety message.” suits making a warning symbol stand out on an information page?",
+    "answers": [
+      {
+        "text": "Because “Use the same pale colour as the background.” is always acceptable in this situation.",
+        "is_correct": false
+      },
+      {
+        "text": "Because the longest or most complicated option must be correct.",
+        "is_correct": false
+      },
+      {
+        "text": "Contrast and proximity increase salience and connect the symbol to the warning.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Contrast and proximity increase salience and connect the symbol to the warning.",
+      "hint": "Look at colour, size, position and closeness to related words."
+    }
+  },
+  {
+    "id": "AC9E4LA10-P-019",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA10",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "Framing, Placement and Salience in Images",
+    "question": "Which reason explains why “The close-up of the goalkeeper emphasises emotion, while the wide shot shows team positions.” suits comparing two photographs of the same football match?",
+    "audio_prompt": "Which reason explains why “The close-up of the goalkeeper emphasises emotion, while the wide shot shows team positions.” suits comparing two photographs of the same football match?",
+    "answers": [
+      {
+        "text": "Framing controls how much context is visible and therefore what the viewer focuses on.",
+        "is_correct": true
+      },
+      {
+        "text": "Because “Both photos must mean exactly the same because they show the same match.” is always acceptable in this situation.",
+        "is_correct": false
+      },
+      {
+        "text": "Because the longest or most complicated option must be correct.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Framing controls how much context is visible and therefore what the viewer focuses on.",
+      "hint": "Compare what each frame includes and leaves out."
+    }
+  },
+  {
+    "id": "AC9E4LA10-P-020",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA10",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "Framing, Placement and Salience in Images",
+    "question": "Why does “The close-up of the goalkeeper emphasises emotion, while the wide shot shows team positions.” work well for comparing two photographs of the same football match?",
+    "audio_prompt": "Why does “The close-up of the goalkeeper emphasises emotion, while the wide shot shows team positions.” work well for comparing two photographs of the same football match?",
+    "answers": [
+      {
+        "text": "Because “Both photos must mean exactly the same because they show the same match.” is always acceptable in this situation.",
+        "is_correct": false
+      },
+      {
+        "text": "Framing controls how much context is visible and therefore what the viewer focuses on.",
+        "is_correct": true
+      },
+      {
+        "text": "Because the longest or most complicated option must be correct.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Framing controls how much context is visible and therefore what the viewer focuses on.",
+      "hint": "Compare what each frame includes and leaves out."
+    }
+  },
+  {
+    "id": "AC9E4LA10-P-021",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA10",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "Framing, Placement and Salience in Images",
+    "question": "Which revision best fixes the problem in “Make the turtle tiny in a crowded corner.” for designing a poster about protecting turtles?",
+    "audio_prompt": "Which revision best fixes the problem in “Make the turtle tiny in a crowded corner.” for designing a poster about protecting turtles?",
+    "answers": [
+      {
+        "text": "Make the turtle tiny in a crowded corner.",
+        "is_correct": false
+      },
+      {
+        "text": "Crop the turtle out and enlarge an unrelated bin.",
+        "is_correct": false
+      },
+      {
+        "text": "Place a large, sharply focused turtle near the centre and keep the background less detailed.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Size, central placement and sharp focus make the turtle more salient. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Ask what the viewer will notice first and why."
+    }
+  },
+  {
+    "id": "AC9E4LA10-P-022",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA10",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "Framing, Placement and Salience in Images",
+    "question": "Compare the choices for designing a poster about protecting turtles. Which one avoids the mistake in “Make the turtle tiny in a crowded corner.”?",
+    "audio_prompt": "Compare the choices for designing a poster about protecting turtles. Which one avoids the mistake in “Make the turtle tiny in a crowded corner.”?",
+    "answers": [
+      {
+        "text": "Place a large, sharply focused turtle near the centre and keep the background less detailed.",
+        "is_correct": true
+      },
+      {
+        "text": "Make the turtle tiny in a crowded corner.",
+        "is_correct": false
+      },
+      {
+        "text": "Crop the turtle out and enlarge an unrelated bin.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Size, central placement and sharp focus make the turtle more salient. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Ask what the viewer will notice first and why."
+    }
+  },
+  {
+    "id": "AC9E4LA10-P-023",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA10",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "Framing, Placement and Salience in Images",
+    "question": "Compare the choices for cropping a photo of a crowded beach for a news story. Which one avoids the mistake in “Crop tightly around one empty patch so the beach looks deserted.”?",
+    "audio_prompt": "Compare the choices for cropping a photo of a crowded beach for a news story. Which one avoids the mistake in “Crop tightly around one empty patch so the beach looks deserted.”?",
+    "answers": [
+      {
+        "text": "Crop tightly around one empty patch so the beach looks deserted.",
+        "is_correct": false
+      },
+      {
+        "text": "Keep enough of the crowd and shoreline visible to show the scale of the scene.",
+        "is_correct": true
+      },
+      {
+        "text": "Remove the shoreline so the location is unclear.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Cropping can change the apparent meaning by including or excluding context. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Check what information disappears when the frame changes."
+    }
+  },
+  {
+    "id": "AC9E4LA10-P-024",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA10",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "Framing, Placement and Salience in Images",
+    "question": "If “Crop tightly around one empty patch so the beach looks deserted.” does not work in cropping a photo of a crowded beach for a news story, what should replace it?",
+    "audio_prompt": "If “Crop tightly around one empty patch so the beach looks deserted.” does not work in cropping a photo of a crowded beach for a news story, what should replace it?",
+    "answers": [
+      {
+        "text": "Crop tightly around one empty patch so the beach looks deserted.",
+        "is_correct": false
+      },
+      {
+        "text": "Remove the shoreline so the location is unclear.",
+        "is_correct": false
+      },
+      {
+        "text": "Keep enough of the crowd and shoreline visible to show the scale of the scene.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Cropping can change the apparent meaning by including or excluding context. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Check what information disappears when the frame changes."
+    }
+  },
+  {
+    "id": "AC9E4LA10-P-025",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA10",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "Framing, Placement and Salience in Images",
+    "question": "If “Fill the frame with a close-up group selfie.” does not work in showing a character as isolated in a film still, what should replace it?",
+    "audio_prompt": "If “Fill the frame with a close-up group selfie.” does not work in showing a character as isolated in a film still, what should replace it?",
+    "answers": [
+      {
+        "text": "Place the character small and alone near the edge of a wide empty frame.",
+        "is_correct": true
+      },
+      {
+        "text": "Fill the frame with a close-up group selfie.",
+        "is_correct": false
+      },
+      {
+        "text": "Put many bright objects around the character so isolation disappears.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Distance, empty space and edge placement can make the character appear isolated. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Consider how position and surrounding space shape the response."
+    }
+  },
+  {
+    "id": "AC9E4LA10-P-026",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA10",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "Framing, Placement and Salience in Images",
+    "question": "Which option corrects the meaning or form needed for showing a character as isolated in a film still?",
+    "audio_prompt": "Which option corrects the meaning or form needed for showing a character as isolated in a film still?",
+    "answers": [
+      {
+        "text": "Fill the frame with a close-up group selfie.",
+        "is_correct": false
+      },
+      {
+        "text": "Place the character small and alone near the edge of a wide empty frame.",
+        "is_correct": true
+      },
+      {
+        "text": "Put many bright objects around the character so isolation disappears.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Distance, empty space and edge placement can make the character appear isolated. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Consider how position and surrounding space shape the response."
+    }
+  },
+  {
+    "id": "AC9E4LA10-P-027",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA10",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "Framing, Placement and Salience in Images",
+    "question": "Which option corrects the meaning or form needed for making a warning symbol stand out on an information page?",
+    "audio_prompt": "Which option corrects the meaning or form needed for making a warning symbol stand out on an information page?",
+    "answers": [
+      {
+        "text": "Use the same pale colour as the background.",
+        "is_correct": false
+      },
+      {
+        "text": "Place the symbol far from the warning text among decorations.",
+        "is_correct": false
+      },
+      {
+        "text": "Use strong contrast and place the symbol close to the safety message.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Contrast and proximity increase salience and connect the symbol to the warning. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Look at colour, size, position and closeness to related words."
+    }
+  },
+  {
+    "id": "AC9E4LA10-P-028",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA10",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "Framing, Placement and Salience in Images",
+    "question": "Which choice is the clearest correction for making a warning symbol stand out on an information page?",
+    "audio_prompt": "Which choice is the clearest correction for making a warning symbol stand out on an information page?",
+    "answers": [
+      {
+        "text": "Use strong contrast and place the symbol close to the safety message.",
+        "is_correct": true
+      },
+      {
+        "text": "Use the same pale colour as the background.",
+        "is_correct": false
+      },
+      {
+        "text": "Place the symbol far from the warning text among decorations.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Contrast and proximity increase salience and connect the symbol to the warning. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Look at colour, size, position and closeness to related words."
+    }
+  },
+  {
+    "id": "AC9E4LA10-P-029",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA10",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "Framing, Placement and Salience in Images",
+    "question": "Which choice is the clearest correction for comparing two photographs of the same football match?",
+    "audio_prompt": "Which choice is the clearest correction for comparing two photographs of the same football match?",
+    "answers": [
+      {
+        "text": "Both photos must mean exactly the same because they show the same match.",
+        "is_correct": false
+      },
+      {
+        "text": "The close-up of the goalkeeper emphasises emotion, while the wide shot shows team positions.",
+        "is_correct": true
+      },
+      {
+        "text": "Only the camera brand changes the meaning.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Framing controls how much context is visible and therefore what the viewer focuses on. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Compare what each frame includes and leaves out."
+    }
+  },
+  {
+    "id": "AC9E4LA10-P-030",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA10",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "Framing, Placement and Salience in Images",
+    "question": "Which revision best fixes the problem in “Both photos must mean exactly the same because they show the same match.” for comparing two photographs of the same football match?",
+    "audio_prompt": "Which revision best fixes the problem in “Both photos must mean exactly the same because they show the same match.” for comparing two photographs of the same football match?",
+    "answers": [
+      {
+        "text": "Both photos must mean exactly the same because they show the same match.",
+        "is_correct": false
+      },
+      {
+        "text": "Only the camera brand changes the meaning.",
+        "is_correct": false
+      },
+      {
+        "text": "The close-up of the goalkeeper emphasises emotion, while the wide shot shows team positions.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Framing controls how much context is visible and therefore what the viewer focuses on. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Compare what each frame includes and leaves out."
+    }
+  },
+  {
+    "id": "AC9E4LA10-P-031",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA10",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Framing, Placement and Salience in Images",
+    "question": "You now need to handle designing a poster about protecting turtles independently. Which choice should you use?",
+    "audio_prompt": "You now need to handle designing a poster about protecting turtles independently. Which choice should you use?",
+    "answers": [
+      {
+        "text": "Place a large, sharply focused turtle near the centre and keep the background less detailed.",
+        "is_correct": true
+      },
+      {
+        "text": "Crop the turtle out and enlarge an unrelated bin.",
+        "is_correct": false
+      },
+      {
+        "text": "Make the turtle tiny in a crowded corner.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Size, central placement and sharp focus make the turtle more salient.",
+      "hint": "Ask what the viewer will notice first and why."
+    }
+  },
+  {
+    "id": "AC9E4LA10-P-032",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA10",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Framing, Placement and Salience in Images",
+    "question": "Apply the same idea to designing a poster about protecting turtles. Which option is best?",
+    "audio_prompt": "Apply the same idea to designing a poster about protecting turtles. Which option is best?",
+    "answers": [
+      {
+        "text": "Crop the turtle out and enlarge an unrelated bin.",
+        "is_correct": false
+      },
+      {
+        "text": "Place a large, sharply focused turtle near the centre and keep the background less detailed.",
+        "is_correct": true
+      },
+      {
+        "text": "Make the turtle tiny in a crowded corner.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Size, central placement and sharp focus make the turtle more salient.",
+      "hint": "Ask what the viewer will notice first and why."
+    }
+  },
+  {
+    "id": "AC9E4LA10-P-033",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA10",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Framing, Placement and Salience in Images",
+    "question": "Apply the same idea to cropping a photo of a crowded beach for a news story. Which option is best?",
+    "audio_prompt": "Apply the same idea to cropping a photo of a crowded beach for a news story. Which option is best?",
+    "answers": [
+      {
+        "text": "Remove the shoreline so the location is unclear.",
+        "is_correct": false
+      },
+      {
+        "text": "Crop tightly around one empty patch so the beach looks deserted.",
+        "is_correct": false
+      },
+      {
+        "text": "Keep enough of the crowd and shoreline visible to show the scale of the scene.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Cropping can change the apparent meaning by including or excluding context.",
+      "hint": "Check what information disappears when the frame changes."
+    }
+  },
+  {
+    "id": "AC9E4LA10-P-034",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA10",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Framing, Placement and Salience in Images",
+    "question": "Which decision would produce the clearest result in cropping a photo of a crowded beach for a news story?",
+    "audio_prompt": "Which decision would produce the clearest result in cropping a photo of a crowded beach for a news story?",
+    "answers": [
+      {
+        "text": "Keep enough of the crowd and shoreline visible to show the scale of the scene.",
+        "is_correct": true
+      },
+      {
+        "text": "Remove the shoreline so the location is unclear.",
+        "is_correct": false
+      },
+      {
+        "text": "Crop tightly around one empty patch so the beach looks deserted.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Cropping can change the apparent meaning by including or excluding context.",
+      "hint": "Check what information disappears when the frame changes."
+    }
+  },
+  {
+    "id": "AC9E4LA10-P-035",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA10",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Framing, Placement and Salience in Images",
+    "question": "Which decision would produce the clearest result in showing a character as isolated in a film still?",
+    "audio_prompt": "Which decision would produce the clearest result in showing a character as isolated in a film still?",
+    "answers": [
+      {
+        "text": "Put many bright objects around the character so isolation disappears.",
+        "is_correct": false
+      },
+      {
+        "text": "Place the character small and alone near the edge of a wide empty frame.",
+        "is_correct": true
+      },
+      {
+        "text": "Fill the frame with a close-up group selfie.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Distance, empty space and edge placement can make the character appear isolated.",
+      "hint": "Consider how position and surrounding space shape the response."
+    }
+  },
+  {
+    "id": "AC9E4LA10-P-036",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA10",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Framing, Placement and Salience in Images",
+    "question": "Choose the option that applies the skill correctly in showing a character as isolated in a film still.",
+    "audio_prompt": "Choose the option that applies the skill correctly in showing a character as isolated in a film still.",
+    "answers": [
+      {
+        "text": "Put many bright objects around the character so isolation disappears.",
+        "is_correct": false
+      },
+      {
+        "text": "Fill the frame with a close-up group selfie.",
+        "is_correct": false
+      },
+      {
+        "text": "Place the character small and alone near the edge of a wide empty frame.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Distance, empty space and edge placement can make the character appear isolated.",
+      "hint": "Consider how position and surrounding space shape the response."
+    }
+  },
+  {
+    "id": "AC9E4LA10-P-037",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA10",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Framing, Placement and Salience in Images",
+    "question": "Choose the option that applies the skill correctly in making a warning symbol stand out on an information page.",
+    "audio_prompt": "Choose the option that applies the skill correctly in making a warning symbol stand out on an information page.",
+    "answers": [
+      {
+        "text": "Use strong contrast and place the symbol close to the safety message.",
+        "is_correct": true
+      },
+      {
+        "text": "Place the symbol far from the warning text among decorations.",
+        "is_correct": false
+      },
+      {
+        "text": "Use the same pale colour as the background.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Contrast and proximity increase salience and connect the symbol to the warning.",
+      "hint": "Look at colour, size, position and closeness to related words."
+    }
+  },
+  {
+    "id": "AC9E4LA10-P-038",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA10",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Framing, Placement and Salience in Images",
+    "question": "What would be the most effective choice for making a warning symbol stand out on an information page?",
+    "audio_prompt": "What would be the most effective choice for making a warning symbol stand out on an information page?",
+    "answers": [
+      {
+        "text": "Place the symbol far from the warning text among decorations.",
+        "is_correct": false
+      },
+      {
+        "text": "Use strong contrast and place the symbol close to the safety message.",
+        "is_correct": true
+      },
+      {
+        "text": "Use the same pale colour as the background.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Contrast and proximity increase salience and connect the symbol to the warning.",
+      "hint": "Look at colour, size, position and closeness to related words."
+    }
+  },
+  {
+    "id": "AC9E4LA10-P-039",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA10",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Framing, Placement and Salience in Images",
+    "question": "What would be the most effective choice for comparing two photographs of the same football match?",
+    "audio_prompt": "What would be the most effective choice for comparing two photographs of the same football match?",
+    "answers": [
+      {
+        "text": "Only the camera brand changes the meaning.",
+        "is_correct": false
+      },
+      {
+        "text": "Both photos must mean exactly the same because they show the same match.",
+        "is_correct": false
+      },
+      {
+        "text": "The close-up of the goalkeeper emphasises emotion, while the wide shot shows team positions.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Framing controls how much context is visible and therefore what the viewer focuses on.",
+      "hint": "Compare what each frame includes and leaves out."
+    }
+  },
+  {
+    "id": "AC9E4LA10-P-040",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA10",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Framing, Placement and Salience in Images",
+    "question": "You now need to handle comparing two photographs of the same football match independently. Which choice should you use?",
+    "audio_prompt": "You now need to handle comparing two photographs of the same football match independently. Which choice should you use?",
+    "answers": [
+      {
+        "text": "The close-up of the goalkeeper emphasises emotion, while the wide shot shows team positions.",
+        "is_correct": true
+      },
+      {
+        "text": "Only the camera brand changes the meaning.",
+        "is_correct": false
+      },
+      {
+        "text": "Both photos must mean exactly the same because they show the same match.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Framing controls how much context is visible and therefore what the viewer focuses on.",
+      "hint": "Compare what each frame includes and leaves out."
+    }
+  },
+  {
+    "id": "AC9E4LA10-T-001",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA10",
+    "bank": "test",
+    "stage": "verify",
+    "skill": "Framing, Placement and Salience in Images",
+    "question": "New context: choosing a hero image for a wildlife webpage. Which option is correct?",
+    "audio_prompt": "New context: choosing a hero image for a wildlife webpage. Which option is correct?",
+    "answers": [
+      {
+        "text": "Use a tiny bilby hidden behind text.",
+        "is_correct": false
+      },
+      {
+        "text": "Use a clear image of the featured bilby with the animal larger than background details.",
+        "is_correct": true
+      },
+      {
+        "text": "Use an unrelated city traffic photo as the largest image.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The featured subject should be visually salient so the image supports the page topic.",
+      "hint": "The most noticeable element should connect to the main purpose."
+    }
+  },
+  {
+    "id": "AC9E4LA10-T-002",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA10",
+    "bank": "test",
+    "stage": "verify",
+    "skill": "Framing, Placement and Salience in Images",
+    "question": "What is the best choice for choosing a hero image for a wildlife webpage?",
+    "audio_prompt": "What is the best choice for choosing a hero image for a wildlife webpage?",
+    "answers": [
+      {
+        "text": "Use a tiny bilby hidden behind text.",
+        "is_correct": false
+      },
+      {
+        "text": "Use an unrelated city traffic photo as the largest image.",
+        "is_correct": false
+      },
+      {
+        "text": "Use a clear image of the featured bilby with the animal larger than background details.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The featured subject should be visually salient so the image supports the page topic.",
+      "hint": "The most noticeable element should connect to the main purpose."
+    }
+  },
+  {
+    "id": "AC9E4LA10-T-003",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA10",
+    "bank": "test",
+    "stage": "verify",
+    "skill": "Framing, Placement and Salience in Images",
+    "question": "Which explanation best supports “Use a clear image of the featured bilby with the animal larger than background details.” in choosing a hero image for a wildlife webpage?",
+    "audio_prompt": "Which explanation best supports “Use a clear image of the featured bilby with the animal larger than background details.” in choosing a hero image for a wildlife webpage?",
+    "answers": [
+      {
+        "text": "The featured subject should be visually salient so the image supports the page topic.",
+        "is_correct": true
+      },
+      {
+        "text": "Because “Use a tiny bilby hidden behind text.” is always a safe choice.",
+        "is_correct": false
+      },
+      {
+        "text": "Because surface appearance matters more than meaning.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The featured subject should be visually salient so the image supports the page topic.",
+      "hint": "The most noticeable element should connect to the main purpose."
+    }
+  },
+  {
+    "id": "AC9E4LA10-T-004",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA10",
+    "bank": "test",
+    "stage": "verify",
+    "skill": "Framing, Placement and Salience in Images",
+    "question": "Which clue should guide your decision in choosing a hero image for a wildlife webpage?",
+    "audio_prompt": "Which clue should guide your decision in choosing a hero image for a wildlife webpage?",
+    "answers": [
+      {
+        "text": "Choose the option with the most words.",
+        "is_correct": false
+      },
+      {
+        "text": "The most noticeable element should connect to the main purpose.",
+        "is_correct": true
+      },
+      {
+        "text": "Ignore the context and use the first familiar form.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The featured subject should be visually salient so the image supports the page topic.",
+      "hint": "The most noticeable element should connect to the main purpose."
+    }
+  },
+  {
+    "id": "AC9E4LA10-T-005",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA10",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "Framing, Placement and Salience in Images",
+    "question": "Which option would you reject first in choosing a hero image for a wildlife webpage?",
+    "audio_prompt": "Which option would you reject first in choosing a hero image for a wildlife webpage?",
+    "answers": [
+      {
+        "text": "Use a clear image of the featured bilby with the animal larger than background details.",
+        "is_correct": false
+      },
+      {
+        "text": "Use an unrelated city traffic photo as the largest image.",
+        "is_correct": false
+      },
+      {
+        "text": "Use a tiny bilby hidden behind text.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The rejected choice conflicts with the exact meaning, form or situation being tested. The featured subject should be visually salient so the image supports the page topic.",
+      "hint": "The most noticeable element should connect to the main purpose."
+    }
+  },
+  {
+    "id": "AC9E4LA10-T-006",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA10",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "Framing, Placement and Salience in Images",
+    "question": "Which correction should replace “Use a tiny bilby hidden behind text.” in choosing a hero image for a wildlife webpage?",
+    "audio_prompt": "Which correction should replace “Use a tiny bilby hidden behind text.” in choosing a hero image for a wildlife webpage?",
+    "answers": [
+      {
+        "text": "Use a clear image of the featured bilby with the animal larger than background details.",
+        "is_correct": true
+      },
+      {
+        "text": "Use a tiny bilby hidden behind text.",
+        "is_correct": false
+      },
+      {
+        "text": "Use an unrelated city traffic photo as the largest image.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The featured subject should be visually salient so the image supports the page topic.",
+      "hint": "The most noticeable element should connect to the main purpose."
+    }
+  },
+  {
+    "id": "AC9E4LA10-T-007",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA10",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "Framing, Placement and Salience in Images",
+    "question": "Apply the skill to choosing a hero image for a wildlife webpage: what should you choose?",
+    "audio_prompt": "Apply the skill to choosing a hero image for a wildlife webpage: what should you choose?",
+    "answers": [
+      {
+        "text": "Use a tiny bilby hidden behind text.",
+        "is_correct": false
+      },
+      {
+        "text": "Use a clear image of the featured bilby with the animal larger than background details.",
+        "is_correct": true
+      },
+      {
+        "text": "Use an unrelated city traffic photo as the largest image.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The featured subject should be visually salient so the image supports the page topic.",
+      "hint": "The most noticeable element should connect to the main purpose."
+    }
+  },
+  {
+    "id": "AC9E4LA10-T-008",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA10",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "Framing, Placement and Salience in Images",
+    "question": "Which final choice gives the clearest and most accurate result for choosing a hero image for a wildlife webpage?",
+    "audio_prompt": "Which final choice gives the clearest and most accurate result for choosing a hero image for a wildlife webpage?",
+    "answers": [
+      {
+        "text": "Use a tiny bilby hidden behind text.",
+        "is_correct": false
+      },
+      {
+        "text": "Use an unrelated city traffic photo as the largest image.",
+        "is_correct": false
+      },
+      {
+        "text": "Use a clear image of the featured bilby with the animal larger than background details.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The featured subject should be visually salient so the image supports the page topic.",
+      "hint": "The most noticeable element should connect to the main purpose."
+    }
+  },
+  {
+    "id": "AC9E4LA10-T-009",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA10",
+    "bank": "test",
+    "stage": "verify",
+    "skill": "Framing, Placement and Salience in Images",
+    "question": "New context: editing a video scene to create suspense. Which option is correct?",
+    "audio_prompt": "New context: editing a video scene to create suspense. Which option is correct?",
+    "answers": [
+      {
+        "text": "Begin with a wide dark corridor, then cut to a close-up of the slowly turning door handle.",
+        "is_correct": true
+      },
+      {
+        "text": "Show the solution immediately in a bright wide shot.",
+        "is_correct": false
+      },
+      {
+        "text": "Keep every object equally large and equally bright.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Changing framing and salience can guide attention and delay information to build suspense.",
+      "hint": "Track what the viewer is allowed to see at each moment."
+    }
+  },
+  {
+    "id": "AC9E4LA10-T-010",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA10",
+    "bank": "test",
+    "stage": "verify",
+    "skill": "Framing, Placement and Salience in Images",
+    "question": "What is the best choice for editing a video scene to create suspense?",
+    "audio_prompt": "What is the best choice for editing a video scene to create suspense?",
+    "answers": [
+      {
+        "text": "Show the solution immediately in a bright wide shot.",
+        "is_correct": false
+      },
+      {
+        "text": "Begin with a wide dark corridor, then cut to a close-up of the slowly turning door handle.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep every object equally large and equally bright.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Changing framing and salience can guide attention and delay information to build suspense.",
+      "hint": "Track what the viewer is allowed to see at each moment."
+    }
+  },
+  {
+    "id": "AC9E4LA10-T-011",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA10",
+    "bank": "test",
+    "stage": "verify",
+    "skill": "Framing, Placement and Salience in Images",
+    "question": "Which explanation best supports “Begin with a wide dark corridor, then cut to a close-up of the slowly turning door handle.” in editing a video scene to create suspense?",
+    "audio_prompt": "Which explanation best supports “Begin with a wide dark corridor, then cut to a close-up of the slowly turning door handle.” in editing a video scene to create suspense?",
+    "answers": [
+      {
+        "text": "Because “Show the solution immediately in a bright wide shot.” is always a safe choice.",
+        "is_correct": false
+      },
+      {
+        "text": "Because surface appearance matters more than meaning.",
+        "is_correct": false
+      },
+      {
+        "text": "Changing framing and salience can guide attention and delay information to build suspense.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Changing framing and salience can guide attention and delay information to build suspense.",
+      "hint": "Track what the viewer is allowed to see at each moment."
+    }
+  },
+  {
+    "id": "AC9E4LA10-T-012",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA10",
+    "bank": "test",
+    "stage": "verify",
+    "skill": "Framing, Placement and Salience in Images",
+    "question": "Which clue should guide your decision in editing a video scene to create suspense?",
+    "audio_prompt": "Which clue should guide your decision in editing a video scene to create suspense?",
+    "answers": [
+      {
+        "text": "Track what the viewer is allowed to see at each moment.",
+        "is_correct": true
+      },
+      {
+        "text": "Choose the option with the most words.",
+        "is_correct": false
+      },
+      {
+        "text": "Ignore the context and use the first familiar form.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Changing framing and salience can guide attention and delay information to build suspense.",
+      "hint": "Track what the viewer is allowed to see at each moment."
+    }
+  },
+  {
+    "id": "AC9E4LA10-T-013",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA10",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "Framing, Placement and Salience in Images",
+    "question": "Which option would you reject first in editing a video scene to create suspense?",
+    "audio_prompt": "Which option would you reject first in editing a video scene to create suspense?",
+    "answers": [
+      {
+        "text": "Begin with a wide dark corridor, then cut to a close-up of the slowly turning door handle.",
+        "is_correct": false
+      },
+      {
+        "text": "Show the solution immediately in a bright wide shot.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep every object equally large and equally bright.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The rejected choice conflicts with the exact meaning, form or situation being tested. Changing framing and salience can guide attention and delay information to build suspense.",
+      "hint": "Track what the viewer is allowed to see at each moment."
+    }
+  },
+  {
+    "id": "AC9E4LA10-T-014",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA10",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "Framing, Placement and Salience in Images",
+    "question": "Which correction should replace “Show the solution immediately in a bright wide shot.” in editing a video scene to create suspense?",
+    "audio_prompt": "Which correction should replace “Show the solution immediately in a bright wide shot.” in editing a video scene to create suspense?",
+    "answers": [
+      {
+        "text": "Show the solution immediately in a bright wide shot.",
+        "is_correct": false
+      },
+      {
+        "text": "Keep every object equally large and equally bright.",
+        "is_correct": false
+      },
+      {
+        "text": "Begin with a wide dark corridor, then cut to a close-up of the slowly turning door handle.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Changing framing and salience can guide attention and delay information to build suspense.",
+      "hint": "Track what the viewer is allowed to see at each moment."
+    }
+  },
+  {
+    "id": "AC9E4LA10-T-015",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA10",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "Framing, Placement and Salience in Images",
+    "question": "Apply the skill to editing a video scene to create suspense: what should you choose?",
+    "audio_prompt": "Apply the skill to editing a video scene to create suspense: what should you choose?",
+    "answers": [
+      {
+        "text": "Begin with a wide dark corridor, then cut to a close-up of the slowly turning door handle.",
+        "is_correct": true
+      },
+      {
+        "text": "Show the solution immediately in a bright wide shot.",
+        "is_correct": false
+      },
+      {
+        "text": "Keep every object equally large and equally bright.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Changing framing and salience can guide attention and delay information to build suspense.",
+      "hint": "Track what the viewer is allowed to see at each moment."
+    }
+  },
+  {
+    "id": "AC9E4LA10-T-016",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA10",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "Framing, Placement and Salience in Images",
+    "question": "Which final choice gives the clearest and most accurate result for editing a video scene to create suspense?",
+    "audio_prompt": "Which final choice gives the clearest and most accurate result for editing a video scene to create suspense?",
+    "answers": [
+      {
+        "text": "Show the solution immediately in a bright wide shot.",
+        "is_correct": false
+      },
+      {
+        "text": "Begin with a wide dark corridor, then cut to a close-up of the slowly turning door handle.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep every object equally large and equally bright.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Changing framing and salience can guide attention and delay information to build suspense.",
+      "hint": "Track what the viewer is allowed to see at each moment."
+    }
+  }
+]

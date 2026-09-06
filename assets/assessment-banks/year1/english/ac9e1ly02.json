@@ -1,0 +1,1722 @@
+[
+  {
+    "id": "ac9e1ly02-er4-p-001",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY02",
+    "bank": "practice",
+    "skill": "turn-taking, listening and relevant contributions",
+    "question": "Asha is halfway through explaining her idea. You have an idea too. What helps both ideas be heard?",
+    "audio_prompt": "Asha is halfway through explaining her idea. You have an idea too. What helps both ideas be heard?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Let Asha finish, then take your turn",
+        "is_correct": true
+      },
+      {
+        "text": "Say your idea over Asha's words",
+        "is_correct": false
+      },
+      {
+        "text": "Ask a friend to talk at the same time",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Waiting until Asha finishes lets you hear her whole idea before adding yours.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 1,
+    "review": {
+      "version": "20260906-english-review-4",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": null,
+      "evidence_scope": "No direct task mapped by IXL; official curriculum-led review. See docs/question-bank-reviews/2026-09-06-year1-english-ly01-ly05.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1ly02-er4-p-002",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY02",
+    "bank": "practice",
+    "skill": "turn-taking, listening and relevant contributions",
+    "question": "Ben says, 'My seed grew a leaf.' Which reply shows you listened to his news?",
+    "audio_prompt": "Ben says, 'My seed grew a leaf.' Which reply shows you listened to his news?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Did you lose your lunchbox?",
+        "is_correct": false
+      },
+      {
+        "text": "What does the new leaf look like?",
+        "is_correct": true
+      },
+      {
+        "text": "What is your favourite bus?",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The question follows Ben's news about the leaf and invites him to explain more.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 2,
+    "review": {
+      "version": "20260906-english-review-4",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": null,
+      "evidence_scope": "No direct task mapped by IXL; official curriculum-led review. See docs/question-bank-reviews/2026-09-06-year1-english-ly01-ly05.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1ly02-er4-p-003",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY02",
+    "bank": "practice",
+    "skill": "turn-taking, listening and relevant contributions",
+    "question": "Your partner says they cannot hear your answer. What is a useful change?",
+    "audio_prompt": "Your partner says they cannot hear your answer. What is a useful change?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Say the answer even faster",
+        "is_correct": false
+      },
+      {
+        "text": "Repeat it more quietly",
+        "is_correct": false
+      },
+      {
+        "text": "Speak a little louder and clearly",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Adjusting your volume and speaking clearly helps your partner hear the answer.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 3,
+    "review": {
+      "version": "20260906-english-review-4",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": null,
+      "evidence_scope": "No direct task mapped by IXL; official curriculum-led review. See docs/question-bank-reviews/2026-09-06-year1-english-ly01-ly05.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1ly02-er4-p-004",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY02",
+    "bank": "practice",
+    "skill": "turn-taking, listening and relevant contributions",
+    "question": "Lee says, 'Put it over there,' but you do not know which box he means. What could you ask?",
+    "audio_prompt": "Lee says, 'Put it over there,' but you do not know which box he means. What could you ask?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Which box do you mean?",
+        "is_correct": true
+      },
+      {
+        "text": "Why do you like boxes?",
+        "is_correct": false
+      },
+      {
+        "text": "Can we talk about lunch?",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Asking which box clears up the missing information needed to follow Lee's idea.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 4,
+    "review": {
+      "version": "20260906-english-review-4",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": null,
+      "evidence_scope": "No direct task mapped by IXL; official curriculum-led review. See docs/question-bank-reviews/2026-09-06-year1-english-ly01-ly05.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1ly02-er4-p-005",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY02",
+    "bank": "practice",
+    "skill": "turn-taking, listening and relevant contributions",
+    "question": "A group is choosing a game. You want to join the discussion. Which contribution gives an idea and a reason?",
+    "audio_prompt": "A group is choosing a game. You want to join the discussion. Which contribution gives an idea and a reason?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "I have a reason, but I will not say it.",
+        "is_correct": false
+      },
+      {
+        "text": "We could play tag because we have room to run.",
+        "is_correct": true
+      },
+      {
+        "text": "We could play something.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Naming a game and explaining why it suits the space helps the group consider it.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 5,
+    "review": {
+      "version": "20260906-english-review-4",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": null,
+      "evidence_scope": "No direct task mapped by IXL; official curriculum-led review. See docs/question-bank-reviews/2026-09-06-year1-english-ly01-ly05.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1ly02-er4-p-006",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY02",
+    "bank": "practice",
+    "skill": "turn-taking, listening and relevant contributions",
+    "question": "Kim says, 'I think the character is worried.' Which reply builds on her idea?",
+    "audio_prompt": "Kim says, 'I think the character is worried.' Which reply builds on her idea?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "I like doors in houses.",
+        "is_correct": false
+      },
+      {
+        "text": "The book has a green cover.",
+        "is_correct": false
+      },
+      {
+        "text": "I think so too, because he keeps checking the door.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The reply adds story evidence to Kim's idea rather than changing the subject.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 6,
+    "review": {
+      "version": "20260906-english-review-4",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": null,
+      "evidence_scope": "No direct task mapped by IXL; official curriculum-led review. See docs/question-bank-reviews/2026-09-06-year1-english-ly01-ly05.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1ly02-er4-p-007",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY02",
+    "bank": "practice",
+    "skill": "turn-taking, listening and relevant contributions",
+    "question": "A friend uses the word 'shelter' and you are unsure what it means. What could you say?",
+    "audio_prompt": "A friend uses the word 'shelter' and you are unsure what it means. What could you say?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "What does shelter mean here?",
+        "is_correct": true
+      },
+      {
+        "text": "I know every word already.",
+        "is_correct": false
+      },
+      {
+        "text": "Can you say an unrelated word?",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Asking about the unclear word helps you understand your friend's message.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 7,
+    "review": {
+      "version": "20260906-english-review-4",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": null,
+      "evidence_scope": "No direct task mapped by IXL; official curriculum-led review. See docs/question-bank-reviews/2026-09-06-year1-english-ly01-ly05.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1ly02-er4-p-008",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY02",
+    "bank": "practice",
+    "skill": "turn-taking, listening and relevant contributions",
+    "question": "You are explaining a drawing to one partner beside you. Which voice is most helpful?",
+    "audio_prompt": "You are explaining a drawing to one partner beside you. Which voice is most helpful?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A whisper your partner cannot hear",
+        "is_correct": false
+      },
+      {
+        "text": "A clear voice your partner can hear",
+        "is_correct": true
+      },
+      {
+        "text": "A shout meant for the whole playground",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The volume should suit the nearby listener so the explanation is easy to hear.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 8,
+    "review": {
+      "version": "20260906-english-review-4",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": null,
+      "evidence_scope": "No direct task mapped by IXL; official curriculum-led review. See docs/question-bank-reviews/2026-09-06-year1-english-ly01-ly05.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1ly02-er4-p-009",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY02",
+    "bank": "practice",
+    "skill": "turn-taking, listening and relevant contributions",
+    "question": "Noor says, 'The bridge fell because the blocks were too far apart.' Which reply checks your understanding?",
+    "audio_prompt": "Noor says, 'The bridge fell because the blocks were too far apart.' Which reply checks your understanding?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Do you mean the blocks were the wrong colour?",
+        "is_correct": false
+      },
+      {
+        "text": "Do you mean we should draw a bridge?",
+        "is_correct": false
+      },
+      {
+        "text": "Do you mean the gap between the blocks was too wide?",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Restating the idea as a question checks that you understood Noor's reason.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "apply",
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "sequence_priority": 9,
+    "review": {
+      "version": "20260906-english-review-4",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": null,
+      "evidence_scope": "No direct task mapped by IXL; official curriculum-led review. See docs/question-bank-reviews/2026-09-06-year1-english-ly01-ly05.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1ly02-er4-p-010",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY02",
+    "bank": "practice",
+    "skill": "turn-taking, listening and relevant contributions",
+    "question": "Your classmate says, 'We should water the plant.' You notice the soil is already wet. Which reply respectfully adds that information?",
+    "audio_prompt": "Your classmate says, 'We should water the plant.' You notice the soil is already wet. Which reply respectfully adds that information?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The soil feels wet. Could we check before adding more?",
+        "is_correct": true
+      },
+      {
+        "text": "You are wrong, so stop talking.",
+        "is_correct": false
+      },
+      {
+        "text": "Plants are interesting. My shoes are new.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The reply stays on the topic, shares evidence and invites the classmate to think with you.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "apply",
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "sequence_priority": 10,
+    "review": {
+      "version": "20260906-english-review-4",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": null,
+      "evidence_scope": "No direct task mapped by IXL; official curriculum-led review. See docs/question-bank-reviews/2026-09-06-year1-english-ly01-ly05.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1ly02-er4-p-011",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY02",
+    "bank": "practice",
+    "skill": "turn-taking, listening and relevant contributions",
+    "question": "Two children have spoken several times. One child is waiting to share. What could you say?",
+    "audio_prompt": "Two children have spoken several times. One child is waiting to share. What could you say?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "We can only hear from two people.",
+        "is_correct": false
+      },
+      {
+        "text": "We have heard our ideas. Would you like a turn?",
+        "is_correct": true
+      },
+      {
+        "text": "We should repeat our ideas again.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Inviting the waiting child creates space for another contribution without forcing them.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "apply",
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "sequence_priority": 11,
+    "review": {
+      "version": "20260906-english-review-4",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": null,
+      "evidence_scope": "No direct task mapped by IXL; official curriculum-led review. See docs/question-bank-reviews/2026-09-06-year1-english-ly01-ly05.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1ly02-er4-p-012",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY02",
+    "bank": "practice",
+    "skill": "turn-taking, listening and relevant contributions",
+    "question": "Your partner explains two steps too quickly for you to follow. What could you ask?",
+    "audio_prompt": "Your partner explains two steps too quickly for you to follow. What could you ask?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Could you add lots more steps now?",
+        "is_correct": false
+      },
+      {
+        "text": "Could you say them all at once?",
+        "is_correct": false
+      },
+      {
+        "text": "Could you say the steps more slowly?",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A slower repeat makes the sequence easier to understand and remember.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "apply",
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "sequence_priority": 12,
+    "review": {
+      "version": "20260906-english-review-4",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": null,
+      "evidence_scope": "No direct task mapped by IXL; official curriculum-led review. See docs/question-bank-reviews/2026-09-06-year1-english-ly01-ly05.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1ly02-er4-p-013",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY02",
+    "bank": "practice",
+    "skill": "turn-taking, listening and relevant contributions",
+    "question": "A friend says, 'I liked the ending because the lost bird got home.' Which question follows that idea?",
+    "audio_prompt": "A friend says, 'I liked the ending because the lost bird got home.' Which question follows that idea?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "What helped the bird find home?",
+        "is_correct": true
+      },
+      {
+        "text": "What did you have for breakfast?",
+        "is_correct": false
+      },
+      {
+        "text": "How many pencils are in your bag?",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The question connects directly with the ending your friend described.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "apply",
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "sequence_priority": 13,
+    "review": {
+      "version": "20260906-english-review-4",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": null,
+      "evidence_scope": "No direct task mapped by IXL; official curriculum-led review. See docs/question-bank-reviews/2026-09-06-year1-english-ly01-ly05.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1ly02-er4-p-014",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY02",
+    "bank": "practice",
+    "skill": "turn-taking, listening and relevant contributions",
+    "question": "You heard 'Bring a ... tomorrow' but missed the item. What is the best question?",
+    "audio_prompt": "You heard 'Bring a ... tomorrow' but missed the item. What is the best question?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Can I tell you about my pet?",
+        "is_correct": false
+      },
+      {
+        "text": "What do we need to bring tomorrow?",
+        "is_correct": true
+      },
+      {
+        "text": "Why is tomorrow after today?",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Asking for the missing item repairs the part of the message you did not hear.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "apply",
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "sequence_priority": 14,
+    "review": {
+      "version": "20260906-english-review-4",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": null,
+      "evidence_scope": "No direct task mapped by IXL; official curriculum-led review. See docs/question-bank-reviews/2026-09-06-year1-english-ly01-ly05.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1ly02-er4-p-015",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY02",
+    "bank": "practice",
+    "skill": "turn-taking, listening and relevant contributions",
+    "question": "During a discussion about making the playground cleaner, which idea stays on topic?",
+    "audio_prompt": "During a discussion about making the playground cleaner, which idea stays on topic?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "We could choose a new class song.",
+        "is_correct": false
+      },
+      {
+        "text": "We could count all our pencils.",
+        "is_correct": false
+      },
+      {
+        "text": "We could put a bin near the eating area.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A bin near where people eat addresses the group's question about playground litter.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "apply",
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "sequence_priority": 15,
+    "review": {
+      "version": "20260906-english-review-4",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": null,
+      "evidence_scope": "No direct task mapped by IXL; official curriculum-led review. See docs/question-bank-reviews/2026-09-06-year1-english-ly01-ly05.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1ly02-er4-p-016",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY02",
+    "bank": "practice",
+    "skill": "turn-taking, listening and relevant contributions",
+    "question": "Omar says, 'I think the bag is heavy because she is using both hands.' Which response adds another relevant clue?",
+    "audio_prompt": "Omar says, 'I think the bag is heavy because she is using both hands.' Which response adds another relevant clue?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "She is also leaning back as she lifts it.",
+        "is_correct": true
+      },
+      {
+        "text": "Her shirt has a stripe.",
+        "is_correct": false
+      },
+      {
+        "text": "I have a bag at home.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Leaning back while lifting supports the same idea about weight; shirt detail does not.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "apply",
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "sequence_priority": 16,
+    "review": {
+      "version": "20260906-english-review-4",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": null,
+      "evidence_scope": "No direct task mapped by IXL; official curriculum-led review. See docs/question-bank-reviews/2026-09-06-year1-english-ly01-ly05.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1ly02-er4-p-017",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY02",
+    "bank": "practice",
+    "skill": "turn-taking, listening and relevant contributions",
+    "question": "Pia says, 'Let's build a tall tower.' Sam says, 'Let's build a wide one so it stands.' What reply uses both ideas?",
+    "audio_prompt": "Pia says, 'Let's build a tall tower.' Sam says, 'Let's build a wide one so it stands.' What reply uses both ideas?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Let's stop building and name colours.",
+        "is_correct": false
+      },
+      {
+        "text": "Could we start with a wide base, then build upwards?",
+        "is_correct": true
+      },
+      {
+        "text": "Pia spoke first, so we cannot discuss Sam's idea.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A wide base and upward building combine the wish for height with the need for stability.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "reason",
+    "difficulty": 3,
+    "difficulty_tier": "reason",
+    "sequence_priority": 17,
+    "review": {
+      "version": "20260906-english-review-4",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": null,
+      "evidence_scope": "No direct task mapped by IXL; official curriculum-led review. See docs/question-bank-reviews/2026-09-06-year1-english-ly01-ly05.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1ly02-er4-p-018",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY02",
+    "bank": "practice",
+    "skill": "turn-taking, listening and relevant contributions",
+    "question": "A speaker says, 'I was nervous before the show, but happy afterwards.' Which reply shows you heard both parts?",
+    "audio_prompt": "A speaker says, 'I was nervous before the show, but happy afterwards.' Which reply shows you heard both parts?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "You were happy the whole time.",
+        "is_correct": false
+      },
+      {
+        "text": "You were nervous after the show too.",
+        "is_correct": false
+      },
+      {
+        "text": "Your feelings changed once the show was over.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The reply keeps the before-and-after change in the speaker's message.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "reason",
+    "difficulty": 3,
+    "difficulty_tier": "reason",
+    "sequence_priority": 18,
+    "review": {
+      "version": "20260906-english-review-4",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": null,
+      "evidence_scope": "No direct task mapped by IXL; official curriculum-led review. See docs/question-bank-reviews/2026-09-06-year1-english-ly01-ly05.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1ly02-er4-p-019",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY02",
+    "bank": "practice",
+    "skill": "turn-taking, listening and relevant contributions",
+    "question": "Your friend has finished giving directions, but you are unsure of the first turn. What helps most?",
+    "audio_prompt": "Your friend has finished giving directions, but you are unsure of the first turn. What helps most?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Repeat the turn you think you heard and ask if it is right",
+        "is_correct": true
+      },
+      {
+        "text": "Pretend you understood every step",
+        "is_correct": false
+      },
+      {
+        "text": "Ask a question about the friend's favourite place",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Checking the uncertain turn helps you use the directions accurately.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "reason",
+    "difficulty": 3,
+    "difficulty_tier": "reason",
+    "sequence_priority": 19,
+    "review": {
+      "version": "20260906-english-review-4",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": null,
+      "evidence_scope": "No direct task mapped by IXL; official curriculum-led review. See docs/question-bank-reviews/2026-09-06-year1-english-ly01-ly05.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1ly02-er4-p-020",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY02",
+    "bank": "practice",
+    "skill": "turn-taking, listening and relevant contributions",
+    "question": "A group is planning a class pet display. You disagree with using tiny writing. Which reply explains your concern?",
+    "audio_prompt": "A group is planning a class pet display. You disagree with using tiny writing. Which reply explains your concern?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Let's discuss what we ate yesterday.",
+        "is_correct": false
+      },
+      {
+        "text": "Could we use larger writing so visitors can read it?",
+        "is_correct": true
+      },
+      {
+        "text": "I do not like your idea and that is all.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A reason about visitors reading the display makes the disagreement useful and relevant.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "reason",
+    "difficulty": 3,
+    "difficulty_tier": "reason",
+    "sequence_priority": 20,
+    "review": {
+      "version": "20260906-english-review-4",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": null,
+      "evidence_scope": "No direct task mapped by IXL; official curriculum-led review. See docs/question-bank-reviews/2026-09-06-year1-english-ly01-ly05.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1ly02-er4-p-021",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY02",
+    "bank": "practice",
+    "skill": "turn-taking, listening and relevant contributions",
+    "question": "A child pauses to think during their turn. What can you do before jumping in?",
+    "audio_prompt": "A child pauses to think during their turn. What can you do before jumping in?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Finish the story for them straight away",
+        "is_correct": false
+      },
+      {
+        "text": "Start a new discussion with someone else",
+        "is_correct": false
+      },
+      {
+        "text": "Give them a moment to finish their thought",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A short thinking pause does not always mean the speaker has finished their turn.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "reason",
+    "difficulty": 3,
+    "difficulty_tier": "reason",
+    "sequence_priority": 21,
+    "review": {
+      "version": "20260906-english-review-4",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": null,
+      "evidence_scope": "No direct task mapped by IXL; official curriculum-led review. See docs/question-bank-reviews/2026-09-06-year1-english-ly01-ly05.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1ly02-er4-p-022",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY02",
+    "bank": "practice",
+    "skill": "turn-taking, listening and relevant contributions",
+    "question": "Mae says, 'I think the character is kind because she shares.' Which response adds a different view with evidence?",
+    "audio_prompt": "Mae says, 'I think the character is kind because she shares.' Which response adds a different view with evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "I think she is worried too, because she keeps looking for her brother.",
+        "is_correct": true
+      },
+      {
+        "text": "I have a different idea, so yours cannot count.",
+        "is_correct": false
+      },
+      {
+        "text": "I like the word character.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The reply contributes another supported idea while allowing Mae's view to be considered.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "reason",
+    "difficulty": 3,
+    "difficulty_tier": "reason",
+    "sequence_priority": 22,
+    "review": {
+      "version": "20260906-english-review-4",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": null,
+      "evidence_scope": "No direct task mapped by IXL; official curriculum-led review. See docs/question-bank-reviews/2026-09-06-year1-english-ly01-ly05.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1ly02-er4-p-023",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY02",
+    "bank": "practice",
+    "skill": "turn-taking, listening and relevant contributions",
+    "question": "Your partner asks you to repeat only the last step. What is the most helpful reply?",
+    "audio_prompt": "Your partner asks you to repeat only the last step. What is the most helpful reply?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Repeat only the first step louder",
+        "is_correct": false
+      },
+      {
+        "text": "Say the last step again clearly",
+        "is_correct": true
+      },
+      {
+        "text": "Start a new set of instructions",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Listening to the specific request helps you provide the information your partner needs.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "reason",
+    "difficulty": 3,
+    "difficulty_tier": "reason",
+    "sequence_priority": 23,
+    "review": {
+      "version": "20260906-english-review-4",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": null,
+      "evidence_scope": "No direct task mapped by IXL; official curriculum-led review. See docs/question-bank-reviews/2026-09-06-year1-english-ly01-ly05.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1ly02-er4-p-024",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY02",
+    "bank": "practice",
+    "skill": "turn-taking, listening and relevant contributions",
+    "question": "At the end of a discussion, Jo says, 'We agreed to make two signs and put them near the gate.' Which response checks the shared plan?",
+    "audio_prompt": "At the end of a discussion, Jo says, 'We agreed to make two signs and put them near the gate.' Which response checks the shared plan?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Yes, one sign in the classroom.",
+        "is_correct": false
+      },
+      {
+        "text": "Let's say all our ideas again without choosing.",
+        "is_correct": false
+      },
+      {
+        "text": "Yes, two signs near the gate. Who will make each one?",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The reply accurately restates the agreement and asks a useful next question.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "reason",
+    "difficulty": 3,
+    "difficulty_tier": "reason",
+    "sequence_priority": 24,
+    "review": {
+      "version": "20260906-english-review-4",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": null,
+      "evidence_scope": "No direct task mapped by IXL; official curriculum-led review. See docs/question-bank-reviews/2026-09-06-year1-english-ly01-ly05.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1ly02-er4-t-001",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY02",
+    "bank": "test",
+    "skill": "turn-taking, listening and relevant contributions",
+    "question": "Ella is explaining how her model works. You do not understand one part. What should you do when she pauses for questions?",
+    "audio_prompt": "Ella is explaining how her model works. You do not understand one part. What should you do when she pauses for questions?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Ask about the part you did not understand",
+        "is_correct": true
+      },
+      {
+        "text": "Ask about a different model you saw last week",
+        "is_correct": false
+      },
+      {
+        "text": "Repeat her last word without a question",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A focused question helps Ella explain the unclear part of her model.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "independent",
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 1,
+    "review": {
+      "version": "20260906-english-review-4",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": null,
+      "evidence_scope": "No direct task mapped by IXL; official curriculum-led review. See docs/question-bank-reviews/2026-09-06-year1-english-ly01-ly05.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1ly02-er4-t-002",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY02",
+    "bank": "test",
+    "skill": "turn-taking, listening and relevant contributions",
+    "question": "Max says, 'Our bus was late because a tree blocked the road.' Which reply follows his account?",
+    "audio_prompt": "Max says, 'Our bus was late because a tree blocked the road.' Which reply follows his account?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Do you prefer apples or pears?",
+        "is_correct": false
+      },
+      {
+        "text": "How did the bus get past the tree?",
+        "is_correct": true
+      },
+      {
+        "text": "What colour is your bedroom?",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The question connects with the problem in Max's account and asks what happened next.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "independent",
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 2,
+    "review": {
+      "version": "20260906-english-review-4",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": null,
+      "evidence_scope": "No direct task mapped by IXL; official curriculum-led review. See docs/question-bank-reviews/2026-09-06-year1-english-ly01-ly05.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1ly02-er4-t-003",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY02",
+    "bank": "test",
+    "skill": "turn-taking, listening and relevant contributions",
+    "question": "A classmate says your words are running together. What could help?",
+    "audio_prompt": "A classmate says your words are running together. What could help?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Speak as quickly as possible",
+        "is_correct": false
+      },
+      {
+        "text": "Turn away while speaking",
+        "is_correct": false
+      },
+      {
+        "text": "Slow down and leave small pauses between ideas",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A steadier pace and pauses make separate ideas easier for a listener to follow.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "independent",
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 3,
+    "review": {
+      "version": "20260906-english-review-4",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": null,
+      "evidence_scope": "No direct task mapped by IXL; official curriculum-led review. See docs/question-bank-reviews/2026-09-06-year1-english-ly01-ly05.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1ly02-er4-t-004",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY02",
+    "bank": "test",
+    "skill": "turn-taking, listening and relevant contributions",
+    "question": "A group is discussing lunch waste. Which question helps the group think about the problem?",
+    "audio_prompt": "A group is discussing lunch waste. Which question helps the group think about the problem?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Which food is being left most often?",
+        "is_correct": true
+      },
+      {
+        "text": "Which songs do we know?",
+        "is_correct": false
+      },
+      {
+        "text": "Which classroom has blue curtains?",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Knowing what is left can help the group plan a response to food waste.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "independent",
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 4,
+    "review": {
+      "version": "20260906-english-review-4",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": null,
+      "evidence_scope": "No direct task mapped by IXL; official curriculum-led review. See docs/question-bank-reviews/2026-09-06-year1-english-ly01-ly05.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1ly02-er4-t-005",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY02",
+    "bank": "test",
+    "skill": "turn-taking, listening and relevant contributions",
+    "question": "A partner says, 'Place the card beneath the book.' You are unsure about 'beneath'. Which question helps?",
+    "audio_prompt": "A partner says, 'Place the card beneath the book.' You are unsure about 'beneath'. Which question helps?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "How many books do you own?",
+        "is_correct": false
+      },
+      {
+        "text": "Does beneath mean under the book?",
+        "is_correct": true
+      },
+      {
+        "text": "Is the book your favourite?",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Checking the position word helps you carry out the partner's instruction.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "independent",
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 5,
+    "review": {
+      "version": "20260906-english-review-4",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": null,
+      "evidence_scope": "No direct task mapped by IXL; official curriculum-led review. See docs/question-bank-reviews/2026-09-06-year1-english-ly01-ly05.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1ly02-er4-t-006",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY02",
+    "bank": "test",
+    "skill": "turn-taking, listening and relevant contributions",
+    "question": "You want a turn after two friends finish speaking. Which response is suitable?",
+    "audio_prompt": "You want a turn after two friends finish speaking. Which response is suitable?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "I will speak while you are both speaking.",
+        "is_correct": false
+      },
+      {
+        "text": "I will tell a different group instead.",
+        "is_correct": false
+      },
+      {
+        "text": "May I add an idea now?",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Asking to add an idea after they finish supports orderly turn-taking.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "independent",
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 6,
+    "review": {
+      "version": "20260906-english-review-4",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": null,
+      "evidence_scope": "No direct task mapped by IXL; official curriculum-led review. See docs/question-bank-reviews/2026-09-06-year1-english-ly01-ly05.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1ly02-er4-t-007",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY02",
+    "bank": "test",
+    "skill": "turn-taking, listening and relevant contributions",
+    "question": "Tess says, 'The puppy might be hungry; it is sniffing the bowl.' Which reply adds relevant evidence?",
+    "audio_prompt": "Tess says, 'The puppy might be hungry; it is sniffing the bowl.' Which reply adds relevant evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The bowl looks empty too.",
+        "is_correct": true
+      },
+      {
+        "text": "The puppy has brown ears.",
+        "is_correct": false
+      },
+      {
+        "text": "I have seen a puppy before.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "An empty bowl supports the idea about hunger more directly than colour or past experience.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "independent",
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 7,
+    "review": {
+      "version": "20260906-english-review-4",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": null,
+      "evidence_scope": "No direct task mapped by IXL; official curriculum-led review. See docs/question-bank-reviews/2026-09-06-year1-english-ly01-ly05.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1ly02-er4-t-008",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY02",
+    "bank": "test",
+    "skill": "turn-taking, listening and relevant contributions",
+    "question": "Your group has chosen a game, but one child did not hear its name. What should you repeat?",
+    "audio_prompt": "Your group has chosen a game, but one child did not hear its name. What should you repeat?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Only the reason your first idea was best",
+        "is_correct": false
+      },
+      {
+        "text": "The name of the chosen game",
+        "is_correct": true
+      },
+      {
+        "text": "Every game you know",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Repeating the missing name helps the child join the agreed activity.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "independent",
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 8,
+    "review": {
+      "version": "20260906-english-review-4",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": null,
+      "evidence_scope": "No direct task mapped by IXL; official curriculum-led review. See docs/question-bank-reviews/2026-09-06-year1-english-ly01-ly05.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1ly02-er4-t-009",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY02",
+    "bank": "test",
+    "skill": "turn-taking, listening and relevant contributions",
+    "question": "A friend says, 'I prefer the first ending because it solves the problem.' You prefer the second. Which reply keeps the discussion useful?",
+    "audio_prompt": "A friend says, 'I prefer the first ending because it solves the problem.' You prefer the second. Which reply keeps the discussion useful?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "My choice is better because I chose it.",
+        "is_correct": false
+      },
+      {
+        "text": "We should stop discussing endings.",
+        "is_correct": false
+      },
+      {
+        "text": "I prefer the second because the characters solve it together.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Giving a reason related to the story lets both preferences be discussed.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "independent",
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 9,
+    "review": {
+      "version": "20260906-english-review-4",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": null,
+      "evidence_scope": "No direct task mapped by IXL; official curriculum-led review. See docs/question-bank-reviews/2026-09-06-year1-english-ly01-ly05.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1ly02-er4-t-010",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY02",
+    "bank": "test",
+    "skill": "turn-taking, listening and relevant contributions",
+    "question": "A speaker tells you, 'First I dug a hole, then I planted the seed.' Which response accurately checks the order?",
+    "audio_prompt": "A speaker tells you, 'First I dug a hole, then I planted the seed.' Which response accurately checks the order?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "So the hole came before the seed went in?",
+        "is_correct": true
+      },
+      {
+        "text": "So you planted the seed before digging?",
+        "is_correct": false
+      },
+      {
+        "text": "So you watered it before doing anything else?",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The response preserves the order actually given, without adding an unheard step.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "independent",
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 10,
+    "review": {
+      "version": "20260906-english-review-4",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": null,
+      "evidence_scope": "No direct task mapped by IXL; official curriculum-led review. See docs/question-bank-reviews/2026-09-06-year1-english-ly01-ly05.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1ly02-er4-t-011",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY02",
+    "bank": "test",
+    "skill": "turn-taking, listening and relevant contributions",
+    "question": "During a plan, a child says, 'That might not work in the rain.' Which question invites them to explain?",
+    "audio_prompt": "During a plan, a child says, 'That might not work in the rain.' Which question invites them to explain?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Can we ignore the weather?",
+        "is_correct": false
+      },
+      {
+        "text": "What part might be a problem in rain?",
+        "is_correct": true
+      },
+      {
+        "text": "Why do you always dislike plans?",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "An open, relevant question invites the child to explain the concern without blaming them.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "independent",
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 11,
+    "review": {
+      "version": "20260906-english-review-4",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": null,
+      "evidence_scope": "No direct task mapped by IXL; official curriculum-led review. See docs/question-bank-reviews/2026-09-06-year1-english-ly01-ly05.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1ly02-er4-t-012",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY02",
+    "bank": "test",
+    "skill": "turn-taking, listening and relevant contributions",
+    "question": "You are speaking clearly, but a nearby machine makes it hard to hear. What could help if your teacher agrees?",
+    "audio_prompt": "You are speaking clearly, but a nearby machine makes it hard to hear. What could help if your teacher agrees?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Speak faster to finish sooner",
+        "is_correct": false
+      },
+      {
+        "text": "Keep repeating at the same quiet volume",
+        "is_correct": false
+      },
+      {
+        "text": "Move together to a quieter place",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Reducing background noise can help communication when clear speech alone is not enough.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "independent",
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 12,
+    "review": {
+      "version": "20260906-english-review-4",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": null,
+      "evidence_scope": "No direct task mapped by IXL; official curriculum-led review. See docs/question-bank-reviews/2026-09-06-year1-english-ly01-ly05.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1ly02-er4-t-013",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY02",
+    "bank": "test",
+    "skill": "turn-taking, listening and relevant contributions",
+    "question": "A partner explains a game and asks, 'Does that make sense?' You understand how to start but not how to win. What should you say?",
+    "audio_prompt": "A partner explains a game and asks, 'Does that make sense?' You understand how to start but not how to win. What should you say?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "I understand the start. How do we win?",
+        "is_correct": true
+      },
+      {
+        "text": "Yes, I understand everything.",
+        "is_correct": false
+      },
+      {
+        "text": "Tell me about your favourite game instead.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Naming what you know and asking about the missing rule gives useful feedback.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "independent",
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 13,
+    "review": {
+      "version": "20260906-english-review-4",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": null,
+      "evidence_scope": "No direct task mapped by IXL; official curriculum-led review. See docs/question-bank-reviews/2026-09-06-year1-english-ly01-ly05.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1ly02-er4-t-014",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY02",
+    "bank": "test",
+    "skill": "turn-taking, listening and relevant contributions",
+    "question": "Your group needs a sign that is easy to carry and easy to read. Which suggestion responds to both needs?",
+    "audio_prompt": "Your group needs a sign that is easy to carry and easy to read. Which suggestion responds to both needs?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Use tiny words so we can fit more on it.",
+        "is_correct": false
+      },
+      {
+        "text": "Use a small light board with large clear words.",
+        "is_correct": true
+      },
+      {
+        "text": "Use the biggest heavy board we can find.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A light board helps carrying, while large clear words help reading.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "independent",
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 14,
+    "review": {
+      "version": "20260906-english-review-4",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": null,
+      "evidence_scope": "No direct task mapped by IXL; official curriculum-led review. See docs/question-bank-reviews/2026-09-06-year1-english-ly01-ly05.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1ly02-er4-t-015",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY02",
+    "bank": "test",
+    "skill": "turn-taking, listening and relevant contributions",
+    "question": "A friend says, 'I felt sad when my team lost, but we still had fun.' Which response best reflects the message?",
+    "audio_prompt": "A friend says, 'I felt sad when my team lost, but we still had fun.' Which response best reflects the message?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "You did not have any fun.",
+        "is_correct": false
+      },
+      {
+        "text": "You were pleased that your team lost.",
+        "is_correct": false
+      },
+      {
+        "text": "Losing felt sad, and there were fun parts too.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The response acknowledges both feelings instead of removing one part of the account.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "independent",
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 15,
+    "review": {
+      "version": "20260906-english-review-4",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": null,
+      "evidence_scope": "No direct task mapped by IXL; official curriculum-led review. See docs/question-bank-reviews/2026-09-06-year1-english-ly01-ly05.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1ly02-er4-t-016",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY02",
+    "bank": "test",
+    "skill": "turn-taking, listening and relevant contributions",
+    "question": "After a group discussion, two children remember different plans. What is a useful next step?",
+    "audio_prompt": "After a group discussion, two children remember different plans. What is a useful next step?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Ask the group to check and restate the agreed plan",
+        "is_correct": true
+      },
+      {
+        "text": "Choose the louder child's memory automatically",
+        "is_correct": false
+      },
+      {
+        "text": "Start the activity without checking",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Checking together resolves the mismatch and helps everyone act on the same plan.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "independent",
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 16,
+    "review": {
+      "version": "20260906-english-review-4",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": null,
+      "evidence_scope": "No direct task mapped by IXL; official curriculum-led review. See docs/question-bank-reviews/2026-09-06-year1-english-ly01-ly05.md. No measured equivalence or IXL endorsement."
+    }
+  }
+]

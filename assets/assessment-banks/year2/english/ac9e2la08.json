@@ -1,0 +1,2130 @@
+[
+  {
+    "id": "AC9E2LA08-P-001",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA08",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "read_a_cave_image_clue_direct",
+    "question": "Words: “Niko opened the door.” Picture: Niko holds a torch and the door opens into a dark cave. What does the picture add?",
+    "audio_prompt": "Words: “Niko opened the door.” Picture: Niko holds a torch and the door opens into a dark cave. What does the picture add?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Niko has just finished exploring and is closing the cave.",
+        "is_correct": false
+      },
+      {
+        "text": "Niko may be about to explore the dark cave.",
+        "is_correct": true
+      },
+      {
+        "text": "Niko is using the torch only to look at the door.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The torch and dark cave add setting and suggest an exploration not stated in the words.",
+      "hint": "Combine the direction of the open door with the place and object shown."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LA08-P-002",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA08",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "infer_worry_from_a_face_direct",
+    "question": "Words: “The race begins soon.” Picture: Jo has wide eyes and bites her lip. What feeling does the picture add?",
+    "audio_prompt": "Words: “The race begins soon.” Picture: Jo has wide eyes and bites her lip. What feeling does the picture add?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Jo feels excited and sure she will win.",
+        "is_correct": false
+      },
+      {
+        "text": "Jo feels surprised because the race is over.",
+        "is_correct": false
+      },
+      {
+        "text": "Jo feels worried about the race.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Wide eyes and a bitten lip are visual clues that Jo is worried.",
+      "hint": "Notice the face and body clues, then connect them to the coming event."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 2,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LA08-P-003",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA08",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "use_diagram_labels_direct",
+    "question": "A text says, “A seed begins to grow.” Its diagram labels root, shoot and seed coat. What does the diagram add?",
+    "audio_prompt": "A text says, “A seed begins to grow.” Its diagram labels root, shoot and seed coat. What does the diagram add?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "the names and places of the seed parts",
+        "is_correct": true
+      },
+      {
+        "text": "the order in which the three parts grow",
+        "is_correct": false
+      },
+      {
+        "text": "the size the whole plant will reach",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The labelled diagram adds specific information about parts and where they are.",
+      "hint": "Read what the labels point to, rather than guessing a sequence or future size."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 3,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LA08-P-004",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA08",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "follow_picture_order_direct",
+    "question": "A comic shows: 1 spill water, 2 get a cloth, 3 wipe the floor. What meaning do the pictures add?",
+    "audio_prompt": "A comic shows: 1 spill water, 2 get a cloth, 3 wipe the floor. What meaning do the pictures add?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "They show that getting the cloth caused the spill.",
+        "is_correct": false
+      },
+      {
+        "text": "They show the order used to clean the spill.",
+        "is_correct": true
+      },
+      {
+        "text": "They show the cleaning actions but not which comes first.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The numbered pictures make the sequence of actions clear.",
+      "hint": "Track the panel numbers and what changes from first to last."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 4,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LA08-P-005",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA08",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "add_a_storm_warning_direct",
+    "question": "Words: “We began our walk.” Picture: dark clouds gather above the track. What does the picture suggest?",
+    "audio_prompt": "Words: “We began our walk.” Picture: dark clouds gather above the track. What does the picture suggest?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The clouds show that night has already begun.",
+        "is_correct": false
+      },
+      {
+        "text": "The walkers will stay dry without changing their plan.",
+        "is_correct": false
+      },
+      {
+        "text": "A storm may make the walk difficult.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Dark clouds add a warning and support a prediction about a storm.",
+      "hint": "Use the weather clue to predict how it may affect the walk."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 5,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LA08-P-006",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA08",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "show_size_with_an_image_direct",
+    "question": "Words: “The boat reached the cliff.” Picture: a tiny boat sits directly below a huge cliff. What does the image add?",
+    "audio_prompt": "Words: “The boat reached the cliff.” Picture: a tiny boat sits directly below a huge cliff. What does the image add?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The cliff is much larger than the boat.",
+        "is_correct": true
+      },
+      {
+        "text": "The boat only looks smaller because it is far behind the cliff.",
+        "is_correct": false
+      },
+      {
+        "text": "The cliff and boat are about the same height.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The direct visual comparison shows the great scale of the cliff.",
+      "hint": "Compare the two objects where they meet in the same scene."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 6,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LA08-P-007",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA08",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "combine_words_and_expression_direct",
+    "question": "Mara says, “I'm fine.” The picture shows tears on her face and drooping shoulders. What do both clues suggest?",
+    "audio_prompt": "Mara says, “I'm fine.” The picture shows tears on her face and drooping shoulders. What do both clues suggest?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Mara is happy and crying with laughter.",
+        "is_correct": false
+      },
+      {
+        "text": "Mara may be sad even though she says she is fine.",
+        "is_correct": true
+      },
+      {
+        "text": "Mara is angry and wants to shout.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The image adds sadness that is different from the spoken words.",
+      "hint": "Use both the tears and body position, not the words alone."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 7,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LA08-P-008",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA08",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "find_a_hidden_pet_clue_direct",
+    "question": "Words: “We searched the bedroom for Pip the cat.” Picture: Pip's tail sticks out from under the bed. What does the picture add?",
+    "audio_prompt": "Words: “We searched the bedroom for Pip the cat.” Picture: Pip's tail sticks out from under the bed. What does the picture add?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Pip has left the house through the window.",
+        "is_correct": false
+      },
+      {
+        "text": "Pip is probably hiding on top of the bed.",
+        "is_correct": false
+      },
+      {
+        "text": "Pip is probably hiding under the bed.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The visible tail adds a clue to Pip's hidden location.",
+      "hint": "Notice the small detail the characters may not have seen yet."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 8,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LA08-P-009",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA08",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "build_a_gloomy_mood_direct",
+    "question": "Words: “The children waited for the bus.” Picture: grey rain covers an empty road. What mood does the image add?",
+    "audio_prompt": "Words: “The children waited for the bus.” Picture: grey rain covers an empty road. What mood does the image add?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The wait feels gloomy and lonely.",
+        "is_correct": true
+      },
+      {
+        "text": "The wait feels calm and cosy.",
+        "is_correct": false
+      },
+      {
+        "text": "The wait feels busy and cheerful.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The grey rain and empty road add a gloomy, lonely mood to the simple sentence.",
+      "hint": "Use the colours, weather and lack of other people as mood clues."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 9,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LA08-P-010",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA08",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "see_roots_below_the_soil_direct",
+    "question": "A plant text says, “Water helps the plant.” A cut-away diagram shows roots taking in water underground. What does the diagram add?",
+    "audio_prompt": "A plant text says, “Water helps the plant.” A cut-away diagram shows roots taking in water underground. What does the diagram add?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It shows that leaves pull water from the sky.",
+        "is_correct": false
+      },
+      {
+        "text": "It shows where the plant takes in the water.",
+        "is_correct": true
+      },
+      {
+        "text": "It shows that roots stay dry above the soil.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The cut-away view reveals the underground roots and their role.",
+      "hint": "Look at the part the diagram lets you see that is usually hidden."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 10,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LA08-P-011",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA08",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "read_a_cave_image_clue_explain",
+    "question": "Words: “Niko opened the door.” Picture: Niko holds a torch and the door opens into a dark cave. What does the picture add? Why is “Niko may be about to explore the dark cave.” the best answer?",
+    "audio_prompt": "Words: “Niko opened the door.” Picture: Niko holds a torch and the door opens into a dark cave. What does the picture add? Why is “Niko may be about to explore the dark cave.” the best answer?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is best only because it is longer than “Niko has just finished exploring and is closing the cave.”.",
+        "is_correct": false
+      },
+      {
+        "text": "It is best because the details in the situation do not matter.",
+        "is_correct": false
+      },
+      {
+        "text": "The torch and dark cave add setting and suggest an exploration not stated in the words.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The torch and dark cave add setting and suggest an exploration not stated in the words.",
+      "hint": "Combine the direction of the open door with the place and object shown."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 11,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LA08-P-012",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA08",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "infer_worry_from_a_face_explain",
+    "question": "Words: “The race begins soon.” Picture: Jo has wide eyes and bites her lip. What feeling does the picture add? Why is “Jo feels worried about the race.” the best answer?",
+    "audio_prompt": "Words: “The race begins soon.” Picture: Jo has wide eyes and bites her lip. What feeling does the picture add? Why is “Jo feels worried about the race.” the best answer?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Wide eyes and a bitten lip are visual clues that Jo is worried.",
+        "is_correct": true
+      },
+      {
+        "text": "It is best only because it is longer than “Jo feels excited and sure she will win.”.",
+        "is_correct": false
+      },
+      {
+        "text": "It is best because the details in the situation do not matter.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Wide eyes and a bitten lip are visual clues that Jo is worried.",
+      "hint": "Notice the face and body clues, then connect them to the coming event."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 12,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LA08-P-013",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA08",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "use_diagram_labels_explain",
+    "question": "A text says, “A seed begins to grow.” Its diagram labels root, shoot and seed coat. What does the diagram add? Why is “the names and places of the seed parts” the best answer?",
+    "audio_prompt": "A text says, “A seed begins to grow.” Its diagram labels root, shoot and seed coat. What does the diagram add? Why is “the names and places of the seed parts” the best answer?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is best only because it is longer than “the order in which the three parts grow”.",
+        "is_correct": false
+      },
+      {
+        "text": "The labelled diagram adds specific information about parts and where they are.",
+        "is_correct": true
+      },
+      {
+        "text": "It is best because the details in the situation do not matter.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The labelled diagram adds specific information about parts and where they are.",
+      "hint": "Read what the labels point to, rather than guessing a sequence or future size."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 13,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LA08-P-014",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA08",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "follow_picture_order_explain",
+    "question": "A comic shows: 1 spill water, 2 get a cloth, 3 wipe the floor. What meaning do the pictures add? Why is “They show the order used to clean the spill.” the best answer?",
+    "audio_prompt": "A comic shows: 1 spill water, 2 get a cloth, 3 wipe the floor. What meaning do the pictures add? Why is “They show the order used to clean the spill.” the best answer?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is best only because it is longer than “They show that getting the cloth caused the spill.”.",
+        "is_correct": false
+      },
+      {
+        "text": "It is best because the details in the situation do not matter.",
+        "is_correct": false
+      },
+      {
+        "text": "The numbered pictures make the sequence of actions clear.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The numbered pictures make the sequence of actions clear.",
+      "hint": "Track the panel numbers and what changes from first to last."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 14,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LA08-P-015",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA08",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "add_a_storm_warning_explain",
+    "question": "Words: “We began our walk.” Picture: dark clouds gather above the track. What does the picture suggest? Why is “A storm may make the walk difficult.” the best answer?",
+    "audio_prompt": "Words: “We began our walk.” Picture: dark clouds gather above the track. What does the picture suggest? Why is “A storm may make the walk difficult.” the best answer?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Dark clouds add a warning and support a prediction about a storm.",
+        "is_correct": true
+      },
+      {
+        "text": "It is best only because it is longer than “The clouds show that night has already begun.”.",
+        "is_correct": false
+      },
+      {
+        "text": "It is best because the details in the situation do not matter.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Dark clouds add a warning and support a prediction about a storm.",
+      "hint": "Use the weather clue to predict how it may affect the walk."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 15,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LA08-P-016",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA08",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "show_size_with_an_image_explain",
+    "question": "Words: “The boat reached the cliff.” Picture: a tiny boat sits directly below a huge cliff. What does the image add? Why is “The cliff is much larger than the boat.” the best answer?",
+    "audio_prompt": "Words: “The boat reached the cliff.” Picture: a tiny boat sits directly below a huge cliff. What does the image add? Why is “The cliff is much larger than the boat.” the best answer?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is best only because it is longer than “The boat only looks smaller because it is far behind the cliff.”.",
+        "is_correct": false
+      },
+      {
+        "text": "The direct visual comparison shows the great scale of the cliff.",
+        "is_correct": true
+      },
+      {
+        "text": "It is best because the details in the situation do not matter.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The direct visual comparison shows the great scale of the cliff.",
+      "hint": "Compare the two objects where they meet in the same scene."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 16,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LA08-P-017",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA08",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "combine_words_and_expression_explain",
+    "question": "Mara says, “I'm fine.” The picture shows tears on her face and drooping shoulders. What do both clues suggest? Why is “Mara may be sad even though she says she is fine.” the best answer?",
+    "audio_prompt": "Mara says, “I'm fine.” The picture shows tears on her face and drooping shoulders. What do both clues suggest? Why is “Mara may be sad even though she says she is fine.” the best answer?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is best only because it is longer than “Mara is happy and crying with laughter.”.",
+        "is_correct": false
+      },
+      {
+        "text": "It is best because the details in the situation do not matter.",
+        "is_correct": false
+      },
+      {
+        "text": "The image adds sadness that is different from the spoken words.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The image adds sadness that is different from the spoken words.",
+      "hint": "Use both the tears and body position, not the words alone."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 17,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LA08-P-018",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA08",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "find_a_hidden_pet_clue_explain",
+    "question": "Words: “We searched the bedroom for Pip the cat.” Picture: Pip's tail sticks out from under the bed. What does the picture add? Why is “Pip is probably hiding under the bed.” the best answer?",
+    "audio_prompt": "Words: “We searched the bedroom for Pip the cat.” Picture: Pip's tail sticks out from under the bed. What does the picture add? Why is “Pip is probably hiding under the bed.” the best answer?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The visible tail adds a clue to Pip's hidden location.",
+        "is_correct": true
+      },
+      {
+        "text": "It is best only because it is longer than “Pip has left the house through the window.”.",
+        "is_correct": false
+      },
+      {
+        "text": "It is best because the details in the situation do not matter.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The visible tail adds a clue to Pip's hidden location.",
+      "hint": "Notice the small detail the characters may not have seen yet."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 18,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LA08-P-019",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA08",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "build_a_gloomy_mood_explain",
+    "question": "Words: “The children waited for the bus.” Picture: grey rain covers an empty road. What mood does the image add? Why is “The wait feels gloomy and lonely.” the best answer?",
+    "audio_prompt": "Words: “The children waited for the bus.” Picture: grey rain covers an empty road. What mood does the image add? Why is “The wait feels gloomy and lonely.” the best answer?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is best only because it is longer than “The wait feels calm and cosy.”.",
+        "is_correct": false
+      },
+      {
+        "text": "The grey rain and empty road add a gloomy, lonely mood to the simple sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "It is best because the details in the situation do not matter.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The grey rain and empty road add a gloomy, lonely mood to the simple sentence.",
+      "hint": "Use the colours, weather and lack of other people as mood clues."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 19,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LA08-P-020",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA08",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "see_roots_below_the_soil_explain",
+    "question": "A plant text says, “Water helps the plant.” A cut-away diagram shows roots taking in water underground. What does the diagram add? Why is “It shows where the plant takes in the water.” the best answer?",
+    "audio_prompt": "A plant text says, “Water helps the plant.” A cut-away diagram shows roots taking in water underground. What does the diagram add? Why is “It shows where the plant takes in the water.” the best answer?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is best only because it is longer than “It shows that leaves pull water from the sky.”.",
+        "is_correct": false
+      },
+      {
+        "text": "It is best because the details in the situation do not matter.",
+        "is_correct": false
+      },
+      {
+        "text": "The cut-away view reveals the underground roots and their role.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The cut-away view reveals the underground roots and their role.",
+      "hint": "Look at the part the diagram lets you see that is usually hidden."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 20,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LA08-P-021",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA08",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "use_diagram_labels_discriminate",
+    "question": "A text says, “A seed begins to grow.” Its diagram labels root, shoot and seed coat. What does the diagram add? Which response is the clearest mix-up to avoid?",
+    "audio_prompt": "A text says, “A seed begins to grow.” Its diagram labels root, shoot and seed coat. What does the diagram add? Which response is the clearest mix-up to avoid?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "the order in which the three parts grow",
+        "is_correct": true
+      },
+      {
+        "text": "the names and places of the seed parts",
+        "is_correct": false
+      },
+      {
+        "text": "the size the whole plant will reach",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "“the order in which the three parts grow” is the mix-up to avoid. Read what the labels point to, rather than guessing a sequence or future size.",
+      "hint": "Read what the labels point to, rather than guessing a sequence or future size."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 21,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LA08-P-022",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA08",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "follow_picture_order_discriminate",
+    "question": "A comic shows: 1 spill water, 2 get a cloth, 3 wipe the floor. What meaning do the pictures add? Which response is the clearest mix-up to avoid?",
+    "audio_prompt": "A comic shows: 1 spill water, 2 get a cloth, 3 wipe the floor. What meaning do the pictures add? Which response is the clearest mix-up to avoid?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "They show the order used to clean the spill.",
+        "is_correct": false
+      },
+      {
+        "text": "They show that getting the cloth caused the spill.",
+        "is_correct": true
+      },
+      {
+        "text": "They show the cleaning actions but not which comes first.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "“They show that getting the cloth caused the spill.” is the mix-up to avoid. Track the panel numbers and what changes from first to last.",
+      "hint": "Track the panel numbers and what changes from first to last."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 22,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LA08-P-023",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA08",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "add_a_storm_warning_discriminate",
+    "question": "Words: “We began our walk.” Picture: dark clouds gather above the track. What does the picture suggest? Which response is the clearest mix-up to avoid?",
+    "audio_prompt": "Words: “We began our walk.” Picture: dark clouds gather above the track. What does the picture suggest? Which response is the clearest mix-up to avoid?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A storm may make the walk difficult.",
+        "is_correct": false
+      },
+      {
+        "text": "The walkers will stay dry without changing their plan.",
+        "is_correct": false
+      },
+      {
+        "text": "The clouds show that night has already begun.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "“The clouds show that night has already begun.” is the mix-up to avoid. Use the weather clue to predict how it may affect the walk.",
+      "hint": "Use the weather clue to predict how it may affect the walk."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 23,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LA08-P-024",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA08",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "show_size_with_an_image_discriminate",
+    "question": "Words: “The boat reached the cliff.” Picture: a tiny boat sits directly below a huge cliff. What does the image add? Which response is the clearest mix-up to avoid?",
+    "audio_prompt": "Words: “The boat reached the cliff.” Picture: a tiny boat sits directly below a huge cliff. What does the image add? Which response is the clearest mix-up to avoid?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The boat only looks smaller because it is far behind the cliff.",
+        "is_correct": true
+      },
+      {
+        "text": "The cliff is much larger than the boat.",
+        "is_correct": false
+      },
+      {
+        "text": "The cliff and boat are about the same height.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "“The boat only looks smaller because it is far behind the cliff.” is the mix-up to avoid. Compare the two objects where they meet in the same scene.",
+      "hint": "Compare the two objects where they meet in the same scene."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 24,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LA08-P-025",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA08",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "combine_words_and_expression_discriminate",
+    "question": "Mara says, “I'm fine.” The picture shows tears on her face and drooping shoulders. What do both clues suggest? Which response is the clearest mix-up to avoid?",
+    "audio_prompt": "Mara says, “I'm fine.” The picture shows tears on her face and drooping shoulders. What do both clues suggest? Which response is the clearest mix-up to avoid?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Mara may be sad even though she says she is fine.",
+        "is_correct": false
+      },
+      {
+        "text": "Mara is happy and crying with laughter.",
+        "is_correct": true
+      },
+      {
+        "text": "Mara is angry and wants to shout.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "“Mara is happy and crying with laughter.” is the mix-up to avoid. Use both the tears and body position, not the words alone.",
+      "hint": "Use both the tears and body position, not the words alone."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 25,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LA08-P-026",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA08",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "find_a_hidden_pet_clue_discriminate",
+    "question": "Words: “We searched the bedroom for Pip the cat.” Picture: Pip's tail sticks out from under the bed. What does the picture add? Which response is the clearest mix-up to avoid?",
+    "audio_prompt": "Words: “We searched the bedroom for Pip the cat.” Picture: Pip's tail sticks out from under the bed. What does the picture add? Which response is the clearest mix-up to avoid?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Pip is probably hiding under the bed.",
+        "is_correct": false
+      },
+      {
+        "text": "Pip is probably hiding on top of the bed.",
+        "is_correct": false
+      },
+      {
+        "text": "Pip has left the house through the window.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "“Pip has left the house through the window.” is the mix-up to avoid. Notice the small detail the characters may not have seen yet.",
+      "hint": "Notice the small detail the characters may not have seen yet."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 26,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LA08-P-027",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA08",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "build_a_gloomy_mood_discriminate",
+    "question": "Words: “The children waited for the bus.” Picture: grey rain covers an empty road. What mood does the image add? Which response is the clearest mix-up to avoid?",
+    "audio_prompt": "Words: “The children waited for the bus.” Picture: grey rain covers an empty road. What mood does the image add? Which response is the clearest mix-up to avoid?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The wait feels calm and cosy.",
+        "is_correct": true
+      },
+      {
+        "text": "The wait feels gloomy and lonely.",
+        "is_correct": false
+      },
+      {
+        "text": "The wait feels busy and cheerful.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "“The wait feels calm and cosy.” is the mix-up to avoid. Use the colours, weather and lack of other people as mood clues.",
+      "hint": "Use the colours, weather and lack of other people as mood clues."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 27,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LA08-P-028",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA08",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "see_roots_below_the_soil_discriminate",
+    "question": "A plant text says, “Water helps the plant.” A cut-away diagram shows roots taking in water underground. What does the diagram add? Which response is the clearest mix-up to avoid?",
+    "audio_prompt": "A plant text says, “Water helps the plant.” A cut-away diagram shows roots taking in water underground. What does the diagram add? Which response is the clearest mix-up to avoid?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It shows where the plant takes in the water.",
+        "is_correct": false
+      },
+      {
+        "text": "It shows that leaves pull water from the sky.",
+        "is_correct": true
+      },
+      {
+        "text": "It shows that roots stay dry above the soil.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "“It shows that leaves pull water from the sky.” is the mix-up to avoid. Look at the part the diagram lets you see that is usually hidden.",
+      "hint": "Look at the part the diagram lets you see that is usually hidden."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 28,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LA08-P-029",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA08",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "combine_action_and_speech_discriminate",
+    "question": "Words: “Lena held out the toy.” Picture: Lena smiles while a younger child reaches for it. What does the picture add? Which response is the clearest mix-up to avoid?",
+    "audio_prompt": "Words: “Lena held out the toy.” Picture: Lena smiles while a younger child reaches for it. What does the picture add? Which response is the clearest mix-up to avoid?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Lena is kindly sharing the toy.",
+        "is_correct": false
+      },
+      {
+        "text": "Lena is angry that the child is nearby.",
+        "is_correct": false
+      },
+      {
+        "text": "Lena is hiding the toy from the child.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "“Lena is hiding the toy from the child.” is the mix-up to avoid. Use facial expression and body position to explain the action.",
+      "hint": "Use facial expression and body position to explain the action."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 29,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LA08-P-030",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA08",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "compare_before_and_after_discriminate",
+    "question": "A report says, “The rain changed the creek.” Before-and-after photos show a narrow trickle, then deep fast water. What do the photos add? Which response is the clearest mix-up to avoid?",
+    "audio_prompt": "A report says, “The rain changed the creek.” Before-and-after photos show a narrow trickle, then deep fast water. What do the photos add? Which response is the clearest mix-up to avoid?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "They show that the creek dried up after the rain.",
+        "is_correct": true
+      },
+      {
+        "text": "They show how much higher and faster the creek became.",
+        "is_correct": false
+      },
+      {
+        "text": "They show no visible change in the creek.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "“They show that the creek dried up after the rain.” is the mix-up to avoid. Compare the water level and movement in both images.",
+      "hint": "Compare the water level and movement in both images."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 30,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LA08-P-031",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA08",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "use_diagram_labels_apply",
+    "question": "Use this clue: Read what the labels point to, rather than guessing a sequence or future size. A text says, “A seed begins to grow.” Its diagram labels root, shoot and seed coat. What does the diagram add?",
+    "audio_prompt": "Use this clue: Read what the labels point to, rather than guessing a sequence or future size. A text says, “A seed begins to grow.” Its diagram labels root, shoot and seed coat. What does the diagram add?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "the size the whole plant will reach",
+        "is_correct": false
+      },
+      {
+        "text": "the names and places of the seed parts",
+        "is_correct": true
+      },
+      {
+        "text": "the order in which the three parts grow",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The labelled diagram adds specific information about parts and where they are.",
+      "hint": "Use the clue first, then check which response fits the exact people, purpose, text or language feature in the example."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 31,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LA08-P-032",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA08",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "follow_picture_order_apply",
+    "question": "Use this clue: Track the panel numbers and what changes from first to last. A comic shows: 1 spill water, 2 get a cloth, 3 wipe the floor. What meaning do the pictures add?",
+    "audio_prompt": "Use this clue: Track the panel numbers and what changes from first to last. A comic shows: 1 spill water, 2 get a cloth, 3 wipe the floor. What meaning do the pictures add?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "They show the cleaning actions but not which comes first.",
+        "is_correct": false
+      },
+      {
+        "text": "They show that getting the cloth caused the spill.",
+        "is_correct": false
+      },
+      {
+        "text": "They show the order used to clean the spill.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The numbered pictures make the sequence of actions clear.",
+      "hint": "Use the clue first, then check which response fits the exact people, purpose, text or language feature in the example."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 32,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LA08-P-033",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA08",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "add_a_storm_warning_apply",
+    "question": "Use this clue: Use the weather clue to predict how it may affect the walk. Words: “We began our walk.” Picture: dark clouds gather above the track. What does the picture suggest?",
+    "audio_prompt": "Use this clue: Use the weather clue to predict how it may affect the walk. Words: “We began our walk.” Picture: dark clouds gather above the track. What does the picture suggest?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A storm may make the walk difficult.",
+        "is_correct": true
+      },
+      {
+        "text": "The walkers will stay dry without changing their plan.",
+        "is_correct": false
+      },
+      {
+        "text": "The clouds show that night has already begun.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Dark clouds add a warning and support a prediction about a storm.",
+      "hint": "Use the clue first, then check which response fits the exact people, purpose, text or language feature in the example."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 33,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LA08-P-034",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA08",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "show_size_with_an_image_apply",
+    "question": "Use this clue: Compare the two objects where they meet in the same scene. Words: “The boat reached the cliff.” Picture: a tiny boat sits directly below a huge cliff. What does the image add?",
+    "audio_prompt": "Use this clue: Compare the two objects where they meet in the same scene. Words: “The boat reached the cliff.” Picture: a tiny boat sits directly below a huge cliff. What does the image add?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The cliff and boat are about the same height.",
+        "is_correct": false
+      },
+      {
+        "text": "The cliff is much larger than the boat.",
+        "is_correct": true
+      },
+      {
+        "text": "The boat only looks smaller because it is far behind the cliff.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The direct visual comparison shows the great scale of the cliff.",
+      "hint": "Use the clue first, then check which response fits the exact people, purpose, text or language feature in the example."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 34,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LA08-P-035",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA08",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "combine_words_and_expression_apply",
+    "question": "Use this clue: Use both the tears and body position, not the words alone. Mara says, “I'm fine.” The picture shows tears on her face and drooping shoulders. What do both clues suggest?",
+    "audio_prompt": "Use this clue: Use both the tears and body position, not the words alone. Mara says, “I'm fine.” The picture shows tears on her face and drooping shoulders. What do both clues suggest?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Mara is angry and wants to shout.",
+        "is_correct": false
+      },
+      {
+        "text": "Mara is happy and crying with laughter.",
+        "is_correct": false
+      },
+      {
+        "text": "Mara may be sad even though she says she is fine.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The image adds sadness that is different from the spoken words.",
+      "hint": "Use the clue first, then check which response fits the exact people, purpose, text or language feature in the example."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 35,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LA08-P-036",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA08",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "find_a_hidden_pet_clue_apply",
+    "question": "Use this clue: Notice the small detail the characters may not have seen yet. Words: “We searched the bedroom for Pip the cat.” Picture: Pip's tail sticks out from under the bed. What does the picture add?",
+    "audio_prompt": "Use this clue: Notice the small detail the characters may not have seen yet. Words: “We searched the bedroom for Pip the cat.” Picture: Pip's tail sticks out from under the bed. What does the picture add?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Pip is probably hiding under the bed.",
+        "is_correct": true
+      },
+      {
+        "text": "Pip is probably hiding on top of the bed.",
+        "is_correct": false
+      },
+      {
+        "text": "Pip has left the house through the window.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The visible tail adds a clue to Pip's hidden location.",
+      "hint": "Use the clue first, then check which response fits the exact people, purpose, text or language feature in the example."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 36,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LA08-P-037",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA08",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "build_a_gloomy_mood_apply",
+    "question": "Use this clue: Use the colours, weather and lack of other people as mood clues. Words: “The children waited for the bus.” Picture: grey rain covers an empty road. What mood does the image add?",
+    "audio_prompt": "Use this clue: Use the colours, weather and lack of other people as mood clues. Words: “The children waited for the bus.” Picture: grey rain covers an empty road. What mood does the image add?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The wait feels busy and cheerful.",
+        "is_correct": false
+      },
+      {
+        "text": "The wait feels gloomy and lonely.",
+        "is_correct": true
+      },
+      {
+        "text": "The wait feels calm and cosy.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The grey rain and empty road add a gloomy, lonely mood to the simple sentence.",
+      "hint": "Use the clue first, then check which response fits the exact people, purpose, text or language feature in the example."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 37,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LA08-P-038",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA08",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "see_roots_below_the_soil_apply",
+    "question": "Use this clue: Look at the part the diagram lets you see that is usually hidden. A plant text says, “Water helps the plant.” A cut-away diagram shows roots taking in water underground. What does the diagram add?",
+    "audio_prompt": "Use this clue: Look at the part the diagram lets you see that is usually hidden. A plant text says, “Water helps the plant.” A cut-away diagram shows roots taking in water underground. What does the diagram add?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It shows that roots stay dry above the soil.",
+        "is_correct": false
+      },
+      {
+        "text": "It shows that leaves pull water from the sky.",
+        "is_correct": false
+      },
+      {
+        "text": "It shows where the plant takes in the water.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The cut-away view reveals the underground roots and their role.",
+      "hint": "Use the clue first, then check which response fits the exact people, purpose, text or language feature in the example."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 38,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LA08-P-039",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA08",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "combine_action_and_speech_apply",
+    "question": "Use this clue: Use facial expression and body position to explain the action. Words: “Lena held out the toy.” Picture: Lena smiles while a younger child reaches for it. What does the picture add?",
+    "audio_prompt": "Use this clue: Use facial expression and body position to explain the action. Words: “Lena held out the toy.” Picture: Lena smiles while a younger child reaches for it. What does the picture add?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Lena is kindly sharing the toy.",
+        "is_correct": true
+      },
+      {
+        "text": "Lena is angry that the child is nearby.",
+        "is_correct": false
+      },
+      {
+        "text": "Lena is hiding the toy from the child.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The smile and reaching hands show that the action is friendly sharing.",
+      "hint": "Use the clue first, then check which response fits the exact people, purpose, text or language feature in the example."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 39,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LA08-P-040",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA08",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "compare_before_and_after_apply",
+    "question": "Use this clue: Compare the water level and movement in both images. A report says, “The rain changed the creek.” Before-and-after photos show a narrow trickle, then deep fast water. What do the photos add?",
+    "audio_prompt": "Use this clue: Compare the water level and movement in both images. A report says, “The rain changed the creek.” Before-and-after photos show a narrow trickle, then deep fast water. What do the photos add?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "They show no visible change in the creek.",
+        "is_correct": false
+      },
+      {
+        "text": "They show how much higher and faster the creek became.",
+        "is_correct": true
+      },
+      {
+        "text": "They show that the creek dried up after the rain.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The paired photos make the size and movement of the change visible.",
+      "hint": "Use the clue first, then check which response fits the exact people, purpose, text or language feature in the example."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 40,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LA08-T-001",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA08",
+    "bank": "test",
+    "stage": "verify",
+    "skill": "use_a_trail_map_direct",
+    "question": "Words: “Follow the path to camp.” A map shows the path turning left at the river. What does the map add?",
+    "audio_prompt": "Words: “Follow the path to camp.” A map shows the path turning left at the river. What does the map add?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Turn right when you reach the river.",
+        "is_correct": false
+      },
+      {
+        "text": "Turn left when you reach the river.",
+        "is_correct": true
+      },
+      {
+        "text": "Turn left before you reach the river.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The map adds the direction and landmark that the words do not give.",
+      "hint": "Check both the arrow direction and where the turn happens."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 1,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LA08-T-002",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA08",
+    "bank": "test",
+    "stage": "verify",
+    "skill": "read_a_water_poster_direct",
+    "question": "A poster says “Save water!” beside a dripping tap and an empty dam. What does the image add?",
+    "audio_prompt": "A poster says “Save water!” beside a dripping tap and an empty dam. What does the image add?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It suggests a dripping tap cannot affect the water supply.",
+        "is_correct": false
+      },
+      {
+        "text": "It suggests the empty dam is sending water to the tap.",
+        "is_correct": false
+      },
+      {
+        "text": "It shows water being wasted and why saving it matters.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The dripping tap and empty dam make the need to save water clearer and more urgent.",
+      "hint": "Connect the wasted drops with the low water supply."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 2,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LA08-T-003",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA08",
+    "bank": "test",
+    "stage": "verify",
+    "skill": "see_what_the_reader_knows_direct",
+    "question": "In a story, Pip enters a hedge maze. An overhead picture shows the exit behind the next corner. What does the picture let the reader know?",
+    "audio_prompt": "In a story, Pip enters a hedge maze. An overhead picture shows the exit behind the next corner. What does the picture let the reader know?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Pip is close to the exit even if Pip cannot see it.",
+        "is_correct": true
+      },
+      {
+        "text": "Pip has already left the maze.",
+        "is_correct": false
+      },
+      {
+        "text": "The maze has no exit at all.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The overhead view gives the reader information hidden from the character.",
+      "hint": "Compare what is visible from above with what Pip can see inside the maze."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 3,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LA08-T-004",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA08",
+    "bank": "test",
+    "stage": "verify",
+    "skill": "interpret_a_class_chart_direct",
+    "question": "Words: “Each class collected cans.” A picture graph shows 2A has 8 cans, 2B has 12 and 2C has 9. What does the graph add?",
+    "audio_prompt": "Words: “Each class collected cans.” A picture graph shows 2A has 8 cans, 2B has 12 and 2C has 9. What does the graph add?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Every class collected exactly 12 cans.",
+        "is_correct": false
+      },
+      {
+        "text": "Class 2B collected the most cans.",
+        "is_correct": true
+      },
+      {
+        "text": "Class 2A collected more than 2B.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The graph adds amounts that allow the classes to be compared.",
+      "hint": "Read each value and find the largest one."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 4,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LA08-T-005",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA08",
+    "bank": "test",
+    "stage": "verify",
+    "skill": "notice_a_joking_contrast_direct",
+    "question": "Words: “What a tiny sandwich!” Picture: the child stands beside a sandwich taller than them. What meaning do they make together?",
+    "audio_prompt": "Words: “What a tiny sandwich!” Picture: the child stands beside a sandwich taller than them. What meaning do they make together?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The child is complaining that the sandwich is too small.",
+        "is_correct": false
+      },
+      {
+        "text": "The sandwich is ordinary-sized but drawn closer to the reader.",
+        "is_correct": false
+      },
+      {
+        "text": "The child is joking because the sandwich is enormous.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The child and sandwich are shown together, so tiny becomes humorous rather than literal.",
+      "hint": "Compare the describing word with the two sizes shown side by side."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 5,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LA08-T-006",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA08",
+    "bank": "test",
+    "stage": "verify",
+    "skill": "follow_a_folding_diagram_direct",
+    "question": "A craft step says, “Fold the paper.” The diagram shows the top corner folding down to the bottom corner. What does it add?",
+    "audio_prompt": "A craft step says, “Fold the paper.” The diagram shows the top corner folding down to the bottom corner. What does it add?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "the direction and exact corners for this fold",
+        "is_correct": true
+      },
+      {
+        "text": "which side of the paper should face up",
+        "is_correct": false
+      },
+      {
+        "text": "how many more folds come after this one",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The diagram makes the movement and meeting corners clear.",
+      "hint": "Use only the arrow and the starting and finishing points shown."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 6,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LA08-T-007",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA08",
+    "bank": "test",
+    "stage": "verify",
+    "skill": "notice_a_hopeful_clue_direct",
+    "question": "Words: “The lost cub walked on alone.” Picture: its mother is partly visible behind the next tree. What does the image add?",
+    "audio_prompt": "Words: “The lost cub walked on alone.” Picture: its mother is partly visible behind the next tree. What does the image add?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The cub is moving farther away from every animal.",
+        "is_correct": false
+      },
+      {
+        "text": "The cub may soon find its mother.",
+        "is_correct": true
+      },
+      {
+        "text": "The cub's mother has left the forest.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The partly hidden mother gives the reader a hopeful clue not known by the cub.",
+      "hint": "Look beyond the main character for information the words do not state."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 7,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LA08-T-008",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA08",
+    "bank": "test",
+    "stage": "verify",
+    "skill": "read_heat_arrows_direct",
+    "question": "A text says, “The ice began to change.” A diagram shows arrows from the sun to the ice and a puddle forming. What does it add?",
+    "audio_prompt": "A text says, “The ice began to change.” A diagram shows arrows from the sun to the ice and a puddle forming. What does it add?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The puddle freezes the sunlight into ice.",
+        "is_correct": false
+      },
+      {
+        "text": "The arrows show the ice moving closer to the sun.",
+        "is_correct": false
+      },
+      {
+        "text": "Sunlight warms the ice and helps it melt into water.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The arrows and puddle show the direction of heat and the change from ice to water.",
+      "hint": "Follow the arrows, then compare the ice with the puddle."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 8,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LA08-T-009",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA08",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "use_a_trail_map_test-reason",
+    "question": "Words: “Follow the path to camp.” A map shows the path turning left at the river. What does the map add? Which reason best supports the correct choice?",
+    "audio_prompt": "Words: “Follow the path to camp.” A map shows the path turning left at the river. What does the map add? Which reason best supports the correct choice?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The map adds the direction and landmark that the words do not give.",
+        "is_correct": true
+      },
+      {
+        "text": "The correct choice is simply the most formal-sounding option.",
+        "is_correct": false
+      },
+      {
+        "text": "The correct choice works even if the situation and audience are ignored.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The map adds the direction and landmark that the words do not give.",
+      "hint": "Check both the arrow direction and where the turn happens."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 9,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LA08-T-010",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA08",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "read_a_water_poster_test-reason",
+    "question": "A poster says “Save water!” beside a dripping tap and an empty dam. What does the image add? Which reason best supports the correct choice?",
+    "audio_prompt": "A poster says “Save water!” beside a dripping tap and an empty dam. What does the image add? Which reason best supports the correct choice?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The correct choice is simply the most formal-sounding option.",
+        "is_correct": false
+      },
+      {
+        "text": "The dripping tap and empty dam make the need to save water clearer and more urgent.",
+        "is_correct": true
+      },
+      {
+        "text": "The correct choice works even if the situation and audience are ignored.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The dripping tap and empty dam make the need to save water clearer and more urgent.",
+      "hint": "Connect the wasted drops with the low water supply."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 10,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LA08-T-011",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA08",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "see_what_the_reader_knows_test-reason",
+    "question": "In a story, Pip enters a hedge maze. An overhead picture shows the exit behind the next corner. What does the picture let the reader know? Which reason best supports the correct choice?",
+    "audio_prompt": "In a story, Pip enters a hedge maze. An overhead picture shows the exit behind the next corner. What does the picture let the reader know? Which reason best supports the correct choice?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The correct choice is simply the most formal-sounding option.",
+        "is_correct": false
+      },
+      {
+        "text": "The correct choice works even if the situation and audience are ignored.",
+        "is_correct": false
+      },
+      {
+        "text": "The overhead view gives the reader information hidden from the character.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The overhead view gives the reader information hidden from the character.",
+      "hint": "Compare what is visible from above with what Pip can see inside the maze."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 11,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LA08-T-012",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA08",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "interpret_a_class_chart_test-reason",
+    "question": "Words: “Each class collected cans.” A picture graph shows 2A has 8 cans, 2B has 12 and 2C has 9. What does the graph add? Which reason best supports the correct choice?",
+    "audio_prompt": "Words: “Each class collected cans.” A picture graph shows 2A has 8 cans, 2B has 12 and 2C has 9. What does the graph add? Which reason best supports the correct choice?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The graph adds amounts that allow the classes to be compared.",
+        "is_correct": true
+      },
+      {
+        "text": "The correct choice is simply the most formal-sounding option.",
+        "is_correct": false
+      },
+      {
+        "text": "The correct choice works even if the situation and audience are ignored.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The graph adds amounts that allow the classes to be compared.",
+      "hint": "Read each value and find the largest one."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 12,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LA08-T-013",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA08",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "notice_a_joking_contrast_test-reason",
+    "question": "Words: “What a tiny sandwich!” Picture: the child stands beside a sandwich taller than them. What meaning do they make together? Which reason best supports the correct choice?",
+    "audio_prompt": "Words: “What a tiny sandwich!” Picture: the child stands beside a sandwich taller than them. What meaning do they make together? Which reason best supports the correct choice?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The correct choice is simply the most formal-sounding option.",
+        "is_correct": false
+      },
+      {
+        "text": "The child and sandwich are shown together, so tiny becomes humorous rather than literal.",
+        "is_correct": true
+      },
+      {
+        "text": "The correct choice works even if the situation and audience are ignored.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The child and sandwich are shown together, so tiny becomes humorous rather than literal.",
+      "hint": "Compare the describing word with the two sizes shown side by side."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 13,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LA08-T-014",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA08",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "follow_a_folding_diagram_test-reason",
+    "question": "A craft step says, “Fold the paper.” The diagram shows the top corner folding down to the bottom corner. What does it add? Which reason best supports the correct choice?",
+    "audio_prompt": "A craft step says, “Fold the paper.” The diagram shows the top corner folding down to the bottom corner. What does it add? Which reason best supports the correct choice?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The correct choice is simply the most formal-sounding option.",
+        "is_correct": false
+      },
+      {
+        "text": "The correct choice works even if the situation and audience are ignored.",
+        "is_correct": false
+      },
+      {
+        "text": "The diagram makes the movement and meeting corners clear.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The diagram makes the movement and meeting corners clear.",
+      "hint": "Use only the arrow and the starting and finishing points shown."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 14,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LA08-T-015",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA08",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "notice_a_hopeful_clue_test-reason",
+    "question": "Words: “The lost cub walked on alone.” Picture: its mother is partly visible behind the next tree. What does the image add? Which reason best supports the correct choice?",
+    "audio_prompt": "Words: “The lost cub walked on alone.” Picture: its mother is partly visible behind the next tree. What does the image add? Which reason best supports the correct choice?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The partly hidden mother gives the reader a hopeful clue not known by the cub.",
+        "is_correct": true
+      },
+      {
+        "text": "The correct choice is simply the most formal-sounding option.",
+        "is_correct": false
+      },
+      {
+        "text": "The correct choice works even if the situation and audience are ignored.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The partly hidden mother gives the reader a hopeful clue not known by the cub.",
+      "hint": "Look beyond the main character for information the words do not state."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 15,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LA08-T-016",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA08",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "read_heat_arrows_test-reason",
+    "question": "A text says, “The ice began to change.” A diagram shows arrows from the sun to the ice and a puddle forming. What does it add? Which reason best supports the correct choice?",
+    "audio_prompt": "A text says, “The ice began to change.” A diagram shows arrows from the sun to the ice and a puddle forming. What does it add? Which reason best supports the correct choice?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The correct choice is simply the most formal-sounding option.",
+        "is_correct": false
+      },
+      {
+        "text": "The arrows and puddle show the direction of heat and the change from ice to water.",
+        "is_correct": true
+      },
+      {
+        "text": "The correct choice works even if the situation and audience are ignored.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The arrows and puddle show the direction of heat and the change from ice to water.",
+      "hint": "Follow the arrows, then compare the ice with the puddle."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 16,
+    "quality_schema": "student-facing-v3"
+  }
+]

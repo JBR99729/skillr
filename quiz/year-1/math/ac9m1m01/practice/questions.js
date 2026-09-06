@@ -1,0 +1,581 @@
+"use strict";
+// 20260906-y1-original-v1 - generated from the canonical Year 1 bank.
+window.skillrPracticeQuestions = [
+  {
+    "id": "AC9M1M01-P01",
+    "questionId": "P01",
+    "curriculumCode": "AC9M1M01",
+    "bank": "practice",
+    "bankVersion": "20260906-y1-original-v1",
+    "question": "Two strips start at the same place. Strip A ends before strip B. Which strip is longer?",
+    "explanation": "From the same starting point, the strip that reaches further is longer.",
+    "skill": "aligned endpoint comparison",
+    "responseType": "mcq",
+    "difficulty": 1,
+    "cognitiveDemand": "recognise",
+    "visualModel": {
+      "type": "bars",
+      "bars": [
+        {
+          "label": "A",
+          "units": 4
+        },
+        {
+          "label": "B",
+          "units": 7
+        }
+      ],
+      "caption": "Both objects start at the same place. Each block is the same length."
+    },
+    "acceptanceNote": "",
+    "printable": true,
+    "type": "single",
+    "answers": [
+      "They are the same length.",
+      "Strip A",
+      "Strip B"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "AC9M1M01-P02",
+    "questionId": "P02",
+    "curriculumCode": "AC9M1M01",
+    "bank": "practice",
+    "bankVersion": "20260906-y1-original-v1",
+    "question": "A balance has a stone on one side and a shell on the other. The stone side goes down. Which is heavier?",
+    "explanation": "The heavier side of a balance goes down.",
+    "skill": "balance comparison",
+    "responseType": "mcq",
+    "difficulty": 1,
+    "cognitiveDemand": "recognise",
+    "visualModel": null,
+    "acceptanceNote": "",
+    "printable": true,
+    "type": "single",
+    "answers": [
+      "They have the same mass.",
+      "The shell",
+      "The stone"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "AC9M1M01-P03",
+    "questionId": "P03",
+    "curriculumCode": "AC9M1M01",
+    "bank": "practice",
+    "bankVersion": "20260906-y1-original-v1",
+    "question": "Cup A is full of water. All its water is poured into empty cup B. Cup B is not full yet. Which cup holds more when full?",
+    "explanation": "Cup B holds all the water from A and still has room for more.",
+    "skill": "transfer capacity comparison",
+    "responseType": "mcq",
+    "difficulty": 2,
+    "cognitiveDemand": "apply",
+    "visualModel": null,
+    "acceptanceNote": "",
+    "printable": true,
+    "type": "single",
+    "answers": [
+      "Cup B",
+      "They hold the same amount.",
+      "Cup A"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "AC9M1M01-P04",
+    "questionId": "P04",
+    "curriculumCode": "AC9M1M01",
+    "bank": "practice",
+    "bankVersion": "20260906-y1-original-v1",
+    "question": "Two toy cars start moving together. Car A stops first. Car B keeps moving. Which car moves for a longer time?",
+    "explanation": "Car B keeps moving after car A stops.",
+    "skill": "common start duration comparison",
+    "responseType": "short_answer",
+    "difficulty": 1,
+    "cognitiveDemand": "recognise",
+    "visualModel": null,
+    "acceptanceNote": "Accept B or car B.",
+    "printable": true,
+    "type": "text",
+    "correct": "Car B",
+    "acceptedAnswers": [
+      "b",
+      "car b"
+    ],
+    "answerFormat": "plain"
+  },
+  {
+    "id": "AC9M1M01-P05",
+    "questionId": "P05",
+    "curriculumCode": "AC9M1M01",
+    "bank": "practice",
+    "bankVersion": "20260906-y1-original-v1",
+    "question": "A card is shorter than a pencil. A bookmark is longer than the same pencil. Which is longer: the card or the bookmark?",
+    "explanation": "The card is shorter than the pencil, but the bookmark is longer than it. So the bookmark is longer than the card.",
+    "skill": "compare lengths through common reference",
+    "responseType": "mcq",
+    "difficulty": 3,
+    "cognitiveDemand": "reason",
+    "visualModel": null,
+    "acceptanceNote": "",
+    "printable": true,
+    "type": "single",
+    "answers": [
+      "They are the same length.",
+      "The card",
+      "The bookmark"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "AC9M1M01-P06",
+    "questionId": "P06",
+    "curriculumCode": "AC9M1M01",
+    "bank": "practice",
+    "bankVersion": "20260906-y1-original-v1",
+    "question": "A lunch box is lighter than a bag. The bag is lighter than a basket. Which order goes from lightest to heaviest?",
+    "explanation": "The lunch box is lightest. The basket is heaviest.",
+    "skill": "mass ordering",
+    "responseType": "mcq",
+    "difficulty": 2,
+    "cognitiveDemand": "apply",
+    "visualModel": null,
+    "acceptanceNote": "",
+    "printable": true,
+    "type": "single",
+    "answers": [
+      "Basket, bag, lunch box",
+      "Bag, lunch box, basket",
+      "Lunch box, bag, basket"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "AC9M1M01-P07",
+    "questionId": "P07",
+    "curriculumCode": "AC9M1M01",
+    "bank": "practice",
+    "bankVersion": "20260906-y1-original-v1",
+    "question": "Fill each container using the same little cup.\nJug: 5 cupfuls\nBottle: 3 cupfuls\nWhich holds more?",
+    "explanation": "The jug takes more of the same cupfuls to fill.",
+    "skill": "capacity benchmark comparison",
+    "responseType": "mcq",
+    "difficulty": 2,
+    "cognitiveDemand": "apply",
+    "visualModel": {
+      "type": "table",
+      "headers": [
+        "Container",
+        "Cupfuls to fill"
+      ],
+      "rows": [
+        [
+          "Jug",
+          "5"
+        ],
+        [
+          "Bottle",
+          "3"
+        ]
+      ]
+    },
+    "acceptanceNote": "",
+    "printable": true,
+    "type": "single",
+    "answers": [
+      "The jug",
+      "They hold the same amount.",
+      "The bottle"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "AC9M1M01-P08",
+    "questionId": "P08",
+    "curriculumCode": "AC9M1M01",
+    "bank": "practice",
+    "bankVersion": "20260906-y1-original-v1",
+    "question": "Jo and Sam start together. Jo finishes a puzzle first. Sam finishes a drawing later. Which activity took less time?",
+    "explanation": "The puzzle finished first when both activities had the same start.",
+    "skill": "common start duration comparison",
+    "responseType": "short_answer",
+    "difficulty": 2,
+    "cognitiveDemand": "apply",
+    "visualModel": null,
+    "acceptanceNote": "Accept puzzle, Jo, or Jo’s puzzle.",
+    "printable": true,
+    "type": "text",
+    "correct": "The puzzle",
+    "acceptedAnswers": [
+      "puzzle",
+      "the puzzle",
+      "jo",
+      "jo's puzzle"
+    ],
+    "answerFormat": "plain"
+  },
+  {
+    "id": "AC9M1M01-P09",
+    "questionId": "P09",
+    "curriculumCode": "AC9M1M01",
+    "bank": "practice",
+    "bankVersion": "20260906-y1-original-v1",
+    "question": "Two pencils have their tips lined up. Their other ends also line up. What is true?",
+    "explanation": "Matching both ends shows that the pencils have equal lengths.",
+    "skill": "length equality check",
+    "responseType": "mcq",
+    "difficulty": 1,
+    "cognitiveDemand": "recognise",
+    "visualModel": null,
+    "acceptanceNote": "",
+    "printable": true,
+    "type": "single",
+    "answers": [
+      "One pencil must be longer.",
+      "We must weigh them.",
+      "They are the same length."
+    ],
+    "correct": 2
+  },
+  {
+    "id": "AC9M1M01-P10",
+    "questionId": "P10",
+    "curriculumCode": "AC9M1M01",
+    "bank": "practice",
+    "bankVersion": "20260906-y1-original-v1",
+    "question": "A big empty box and a small stone sit on a balance. The balance is level. What does this show?",
+    "explanation": "A level balance shows equal mass. Size alone does not tell us the mass.",
+    "skill": "mass evidence over appearance",
+    "responseType": "mcq",
+    "difficulty": 3,
+    "cognitiveDemand": "reason",
+    "visualModel": null,
+    "acceptanceNote": "",
+    "printable": true,
+    "type": "single",
+    "answers": [
+      "The stone is heavier because it is smaller.",
+      "They have the same mass.",
+      "The box is heavier because it is bigger."
+    ],
+    "correct": 1
+  },
+  {
+    "id": "AC9M1M01-P11",
+    "questionId": "P11",
+    "curriculumCode": "AC9M1M01",
+    "bank": "practice",
+    "bankVersion": "20260906-y1-original-v1",
+    "question": "A wide bowl and a tall jar each hold exactly 4 of the same cupfuls when full. What is true?",
+    "explanation": "Both hold the same number of equal cupfuls, so their capacities are equal.",
+    "skill": "capacity equality check",
+    "responseType": "mcq",
+    "difficulty": 3,
+    "cognitiveDemand": "reason",
+    "visualModel": null,
+    "acceptanceNote": "",
+    "printable": true,
+    "type": "single",
+    "answers": [
+      "They have the same capacity.",
+      "The bowl holds more because it is wider.",
+      "The jar holds more because it is taller."
+    ],
+    "correct": 0
+  },
+  {
+    "id": "AC9M1M01-P12",
+    "questionId": "P12",
+    "curriculumCode": "AC9M1M01",
+    "bank": "practice",
+    "bankVersion": "20260906-y1-original-v1",
+    "question": "Three races start together. The red car stops first, the blue car stops next, and the green car stops last. Put the colours in order from shortest to longest moving time.",
+    "explanation": "With the same start, the first car to stop moves for the shortest time.",
+    "skill": "duration ordering",
+    "responseType": "short_answer",
+    "difficulty": 2,
+    "cognitiveDemand": "apply",
+    "visualModel": null,
+    "acceptanceNote": "Accept the three colours or car names in this order.",
+    "printable": true,
+    "type": "text",
+    "correct": "Red, blue, green",
+    "acceptedAnswers": [
+      "red blue green",
+      "red car blue car green car"
+    ],
+    "answerFormat": "word-sequence"
+  },
+  {
+    "id": "AC9M1M01-P13",
+    "questionId": "P13",
+    "curriculumCode": "AC9M1M01",
+    "bank": "practice",
+    "bankVersion": "20260906-y1-original-v1",
+    "question": "A book and a drawer are in different rooms. How could you compare their lengths?",
+    "explanation": "A piece of string can carry the book’s length to the drawer for an indirect comparison.",
+    "skill": "choose indirect length method",
+    "responseType": "mcq",
+    "difficulty": 3,
+    "cognitiveDemand": "reason",
+    "visualModel": null,
+    "acceptanceNote": "",
+    "printable": true,
+    "type": "single",
+    "answers": [
+      "Guess from the book’s colour.",
+      "Use string to copy the book’s length, then compare the string with the drawer’s length.",
+      "Compare how heavy they are."
+    ],
+    "correct": 1
+  },
+  {
+    "id": "AC9M1M01-P14",
+    "questionId": "P14",
+    "curriculumCode": "AC9M1M01",
+    "bank": "practice",
+    "bankVersion": "20260906-y1-original-v1",
+    "question": "A toy and 3 equal blocks balance. A ball and 5 of the same blocks balance. Which is heavier?",
+    "explanation": "The ball balances more of the same blocks, so it is heavier.",
+    "skill": "indirect mass benchmark",
+    "responseType": "mcq",
+    "difficulty": 3,
+    "cognitiveDemand": "reason",
+    "visualModel": null,
+    "acceptanceNote": "",
+    "printable": true,
+    "type": "single",
+    "answers": [
+      "The ball",
+      "They have the same mass.",
+      "The toy"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "AC9M1M01-P15",
+    "questionId": "P15",
+    "curriculumCode": "AC9M1M01",
+    "bank": "practice",
+    "bankVersion": "20260906-y1-original-v1",
+    "question": "Container A holds more than B. Container C holds more than A. Which holds the most?",
+    "explanation": "C holds more than A, and A holds more than B.",
+    "skill": "indirect capacity ordering",
+    "responseType": "mcq",
+    "difficulty": 3,
+    "cognitiveDemand": "reason",
+    "visualModel": null,
+    "acceptanceNote": "",
+    "printable": true,
+    "type": "single",
+    "answers": [
+      "Container B",
+      "Container C",
+      "Container A"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "AC9M1M01-P16",
+    "questionId": "P16",
+    "curriculumCode": "AC9M1M01",
+    "bank": "practice",
+    "bankVersion": "20260906-y1-original-v1",
+    "question": "Two songs start together. Song A is still playing after song B ends. Which song is longer? Give a reason.",
+    "explanation": "When two songs start together, the one that ends later lasts longer.",
+    "skill": "justify duration comparison",
+    "responseType": "short_answer",
+    "difficulty": 3,
+    "cognitiveDemand": "reason",
+    "visualModel": null,
+    "acceptanceNote": "Accept A with a reason referring to its later finish or continued playing.",
+    "printable": true,
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "correct": "Song A, because it keeps playing after song B ends.",
+    "modelAnswer": "Song A, because it keeps playing after song B ends."
+  },
+  {
+    "id": "AC9M1M01-P17",
+    "questionId": "P17",
+    "curriculumCode": "AC9M1M01",
+    "bank": "practice",
+    "bankVersion": "20260906-y1-original-v1",
+    "question": "Two sticks lie on a table with their starting ends in different places. How can you compare their lengths fairly?",
+    "explanation": "Lining up the starting ends lets you compare how far each stick reaches.",
+    "skill": "repair direct length comparison",
+    "responseType": "mcq",
+    "difficulty": 3,
+    "cognitiveDemand": "reason",
+    "visualModel": null,
+    "acceptanceNote": "",
+    "printable": true,
+    "type": "single",
+    "answers": [
+      "Move the shorter-looking stick further forward.",
+      "Line up one end of each stick.",
+      "Compare their colours."
+    ],
+    "correct": 1
+  },
+  {
+    "id": "AC9M1M01-P18",
+    "questionId": "P18",
+    "curriculumCode": "AC9M1M01",
+    "bank": "practice",
+    "bankVersion": "20260906-y1-original-v1",
+    "question": "A teddy and a bag balance. The bag is heavier than a ball. Which is heavier: the teddy or the ball?",
+    "explanation": "The teddy has the same mass as the bag. The bag is heavier than the ball, so the teddy is too.",
+    "skill": "mass equality inference",
+    "responseType": "mcq",
+    "difficulty": 3,
+    "cognitiveDemand": "reason",
+    "visualModel": null,
+    "acceptanceNote": "",
+    "printable": true,
+    "type": "single",
+    "answers": [
+      "The teddy",
+      "They have the same mass.",
+      "The ball"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "AC9M1M01-P19",
+    "questionId": "P19",
+    "curriculumCode": "AC9M1M01",
+    "bank": "practice",
+    "bankVersion": "20260906-y1-original-v1",
+    "question": "A full bottle exactly fills an empty jug, with no water left over. What can you say?",
+    "explanation": "An exact transfer with no space or water left over shows equal capacities.",
+    "skill": "exact transfer equality",
+    "responseType": "mcq",
+    "difficulty": 2,
+    "cognitiveDemand": "apply",
+    "visualModel": null,
+    "acceptanceNote": "",
+    "printable": true,
+    "type": "single",
+    "answers": [
+      "The bottle and jug have the same capacity.",
+      "The jug has a greater capacity.",
+      "The bottle has a greater capacity."
+    ],
+    "correct": 0
+  },
+  {
+    "id": "AC9M1M01-P20",
+    "questionId": "P20",
+    "curriculumCode": "AC9M1M01",
+    "bank": "practice",
+    "bankVersion": "20260906-y1-original-v1",
+    "question": "Ribbon A is shorter than ribbon B. Ribbon C is longer than ribbon B. Write the ribbons from shortest to longest.",
+    "explanation": "A is shorter than B, and C is longer than B.",
+    "skill": "indirect length ordering",
+    "responseType": "short_answer",
+    "difficulty": 2,
+    "cognitiveDemand": "apply",
+    "visualModel": null,
+    "acceptanceNote": "Accept ribbon names in this order.",
+    "printable": true,
+    "type": "text",
+    "correct": "A, B, C",
+    "acceptedAnswers": [
+      "a b c",
+      "ribbon a ribbon b ribbon c"
+    ],
+    "answerFormat": "word-sequence"
+  },
+  {
+    "id": "AC9M1M01-P21",
+    "questionId": "P21",
+    "curriculumCode": "AC9M1M01",
+    "bank": "practice",
+    "bankVersion": "20260906-y1-original-v1",
+    "question": "Two paper spinners start and stop together. What is true about their spinning times?",
+    "explanation": "The same start and the same finish mean the spinning times are equal.",
+    "skill": "duration equality check",
+    "responseType": "mcq",
+    "difficulty": 1,
+    "cognitiveDemand": "recognise",
+    "visualModel": null,
+    "acceptanceNote": "",
+    "printable": true,
+    "type": "single",
+    "answers": [
+      "The larger spinner spins for longer.",
+      "The smaller spinner spins for longer.",
+      "They spin for the same time."
+    ],
+    "correct": 2
+  },
+  {
+    "id": "AC9M1M01-P22",
+    "questionId": "P22",
+    "curriculumCode": "AC9M1M01",
+    "bank": "practice",
+    "bankVersion": "20260906-y1-original-v1",
+    "question": "A rope reaches further than a stick when one end of each is lined up. Why is the rope longer?",
+    "explanation": "Length is compared by how far each object reaches from the same start.",
+    "skill": "justify length comparison",
+    "responseType": "mcq",
+    "difficulty": 3,
+    "cognitiveDemand": "reason",
+    "visualModel": null,
+    "acceptanceNote": "",
+    "printable": true,
+    "type": "single",
+    "answers": [
+      "It has a different colour.",
+      "Its far end reaches beyond the stick’s far end.",
+      "It is softer than the stick."
+    ],
+    "correct": 1
+  },
+  {
+    "id": "AC9M1M01-P23",
+    "questionId": "P23",
+    "curriculumCode": "AC9M1M01",
+    "bank": "practice",
+    "bankVersion": "20260906-y1-original-v1",
+    "question": "You pour water from a full cup into an empty pot. The pot fills while some water is still in the cup. Which holds less?",
+    "explanation": "The pot fills before all the cup’s water has been used, so it holds less.",
+    "skill": "overflow capacity reasoning",
+    "responseType": "mcq",
+    "difficulty": 3,
+    "cognitiveDemand": "reason",
+    "visualModel": null,
+    "acceptanceNote": "",
+    "printable": true,
+    "type": "single",
+    "answers": [
+      "They hold the same amount.",
+      "The pot",
+      "The cup"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "AC9M1M01-P24",
+    "questionId": "P24",
+    "curriculumCode": "AC9M1M01",
+    "bank": "practice",
+    "bankVersion": "20260906-y1-original-v1",
+    "question": "You have two bags and a balance. How could you find which bag is heavier?",
+    "explanation": "A balance compares mass directly. A level balance would show that the bags have the same mass.",
+    "skill": "design mass comparison",
+    "responseType": "short_answer",
+    "difficulty": 3,
+    "cognitiveDemand": "create",
+    "visualModel": null,
+    "acceptanceNote": "Accept placing a bag on each side and identifying the lower side as heavier; mentioning equal mass is optional.",
+    "printable": true,
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "correct": "Put one bag on each side of the balance. The side that goes down has the heavier bag.",
+    "modelAnswer": "Put one bag on each side of the balance. The side that goes down has the heavier bag."
+  }
+];

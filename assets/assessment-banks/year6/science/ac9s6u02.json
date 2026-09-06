@@ -1,0 +1,1322 @@
+[
+  {
+    "id": "ac9s6u02-p-001",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6U02",
+    "bank": "practice",
+    "skill": "solar system motions",
+    "question": "Which motion causes day and night on Earth?",
+    "audio_prompt": "Which motion causes day and night on Earth?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Earth rotating on its axis.",
+        "is_correct": true
+      },
+      {
+        "text": "Earth orbiting the Sun once a year.",
+        "is_correct": false
+      },
+      {
+        "text": "The Moon blocking sunlight every night.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Earth rotating on its axis.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
+  },
+  {
+    "id": "ac9s6u02-p-002",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6U02",
+    "bank": "practice",
+    "skill": "solar system motions",
+    "question": "Why do seasons occur on Earth?",
+    "audio_prompt": "Why do seasons occur on Earth?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Earth is much closer to the Sun in every country’s summer.",
+        "is_correct": false
+      },
+      {
+        "text": "Earth is tilted as it revolves around the Sun.",
+        "is_correct": true
+      },
+      {
+        "text": "The Sun turns off some of its heat in winter.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Earth is tilted as it revolves around the Sun.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
+  },
+  {
+    "id": "ac9s6u02-p-003",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6U02",
+    "bank": "practice",
+    "skill": "solar system motions",
+    "question": "A model shows Earth, Mars and Jupiter very close together. What should students remember?",
+    "audio_prompt": "A model shows Earth, Mars and Jupiter very close together. What should students remember?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The planets really touch each other.",
+        "is_correct": false
+      },
+      {
+        "text": "Jupiter is always between Earth and Mars.",
+        "is_correct": false
+      },
+      {
+        "text": "Most classroom diagrams are not drawn to scale.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Most classroom diagrams are not drawn to scale.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
+  },
+  {
+    "id": "ac9s6u02-p-004",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6U02",
+    "bank": "practice",
+    "skill": "solar system motions",
+    "question": "What does revolution mean in astronomy?",
+    "audio_prompt": "What does revolution mean in astronomy?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "One object moving around another object.",
+        "is_correct": true
+      },
+      {
+        "text": "An object spinning on its own axis.",
+        "is_correct": false
+      },
+      {
+        "text": "The Sun moving around Earth each day.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "One object moving around another object.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
+  },
+  {
+    "id": "ac9s6u02-p-005",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6U02",
+    "bank": "practice",
+    "skill": "solar system motions",
+    "question": "Why does Canberra have longer daylight in summer than winter?",
+    "audio_prompt": "Why does Canberra have longer daylight in summer than winter?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The Sun is smaller in winter.",
+        "is_correct": false
+      },
+      {
+        "text": "Its hemisphere is tilted more toward the Sun in summer.",
+        "is_correct": true
+      },
+      {
+        "text": "Earth stops rotating in winter.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Its hemisphere is tilted more toward the Sun in summer.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
+  },
+  {
+    "id": "ac9s6u02-p-006",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6U02",
+    "bank": "practice",
+    "skill": "solar system motions",
+    "question": "A student says the Moon makes day and night. What correction is best?",
+    "audio_prompt": "A student says the Moon makes day and night. What correction is best?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The Moon is the main source of daylight.",
+        "is_correct": false
+      },
+      {
+        "text": "Day and night happen because Earth changes size.",
+        "is_correct": false
+      },
+      {
+        "text": "Day and night happen because Earth rotates, while the Moon orbits Earth.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Day and night happen because Earth rotates, while the Moon orbits Earth.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
+  },
+  {
+    "id": "ac9s6u02-p-007",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6U02",
+    "bank": "practice",
+    "skill": "solar system motions",
+    "question": "Which observation is linked to Earth’s yearly revolution plus tilt?",
+    "audio_prompt": "Which observation is linked to Earth’s yearly revolution plus tilt?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Seasonal changes in daylight length.",
+        "is_correct": true
+      },
+      {
+        "text": "The Sun appearing to cross the sky each day.",
+        "is_correct": false
+      },
+      {
+        "text": "A torch making a shadow on a wall.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Seasonal changes in daylight length.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
+  },
+  {
+    "id": "ac9s6u02-p-008",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6U02",
+    "bank": "practice",
+    "skill": "solar system motions",
+    "question": "Why is gravity important in the solar system?",
+    "audio_prompt": "Why is gravity important in the solar system?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It makes planets produce their own light.",
+        "is_correct": false
+      },
+      {
+        "text": "It helps keep planets in orbit around the Sun.",
+        "is_correct": true
+      },
+      {
+        "text": "It stops Earth from rotating.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "It helps keep planets in orbit around the Sun.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
+  },
+  {
+    "id": "ac9s6u02-p-009",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6U02",
+    "bank": "practice",
+    "skill": "solar system motions",
+    "question": "Which motion causes day and night on Earth in a new class investigation?",
+    "audio_prompt": "Which motion causes day and night on Earth in a new class investigation?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Earth orbiting the Sun once a year.",
+        "is_correct": false
+      },
+      {
+        "text": "The Moon blocking sunlight every night.",
+        "is_correct": false
+      },
+      {
+        "text": "Earth rotating on its axis.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Earth rotating on its axis.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
+  },
+  {
+    "id": "ac9s6u02-p-010",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6U02",
+    "bank": "practice",
+    "skill": "solar system motions",
+    "question": "Why do seasons occur on Earth in a new class investigation?",
+    "audio_prompt": "Why do seasons occur on Earth in a new class investigation?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Earth is tilted as it revolves around the Sun.",
+        "is_correct": true
+      },
+      {
+        "text": "Earth is much closer to the Sun in every country’s summer.",
+        "is_correct": false
+      },
+      {
+        "text": "The Sun turns off some of its heat in winter.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Earth is tilted as it revolves around the Sun.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
+  },
+  {
+    "id": "ac9s6u02-p-011",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6U02",
+    "bank": "practice",
+    "skill": "solar system motions",
+    "question": "A model shows Earth, Mars and Jupiter very close together. What should students remember in a new class investigation?",
+    "audio_prompt": "A model shows Earth, Mars and Jupiter very close together. What should students remember in a new class investigation?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The planets really touch each other.",
+        "is_correct": false
+      },
+      {
+        "text": "Most classroom diagrams are not drawn to scale.",
+        "is_correct": true
+      },
+      {
+        "text": "Jupiter is always between Earth and Mars.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Most classroom diagrams are not drawn to scale.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
+  },
+  {
+    "id": "ac9s6u02-p-012",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6U02",
+    "bank": "practice",
+    "skill": "solar system motions",
+    "question": "What does revolution mean in astronomy in a new class investigation?",
+    "audio_prompt": "What does revolution mean in astronomy in a new class investigation?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "An object spinning on its own axis.",
+        "is_correct": false
+      },
+      {
+        "text": "The Sun moving around Earth each day.",
+        "is_correct": false
+      },
+      {
+        "text": "One object moving around another object.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "One object moving around another object.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
+  },
+  {
+    "id": "ac9s6u02-p-013",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6U02",
+    "bank": "practice",
+    "skill": "solar system motions",
+    "question": "Why does Canberra have longer daylight in summer than winter in a new class investigation?",
+    "audio_prompt": "Why does Canberra have longer daylight in summer than winter in a new class investigation?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Its hemisphere is tilted more toward the Sun in summer.",
+        "is_correct": true
+      },
+      {
+        "text": "The Sun is smaller in winter.",
+        "is_correct": false
+      },
+      {
+        "text": "Earth stops rotating in winter.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Its hemisphere is tilted more toward the Sun in summer.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
+  },
+  {
+    "id": "ac9s6u02-p-014",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6U02",
+    "bank": "practice",
+    "skill": "solar system motions",
+    "question": "A student says the Moon makes day and night. What correction is best in a new class investigation?",
+    "audio_prompt": "A student says the Moon makes day and night. What correction is best in a new class investigation?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The Moon is the main source of daylight.",
+        "is_correct": false
+      },
+      {
+        "text": "Day and night happen because Earth rotates, while the Moon orbits Earth.",
+        "is_correct": true
+      },
+      {
+        "text": "Day and night happen because Earth changes size.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Day and night happen because Earth rotates, while the Moon orbits Earth.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
+  },
+  {
+    "id": "ac9s6u02-p-015",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6U02",
+    "bank": "practice",
+    "skill": "solar system motions",
+    "question": "Which observation is linked to Earth’s yearly revolution plus tilt in a new class investigation?",
+    "audio_prompt": "Which observation is linked to Earth’s yearly revolution plus tilt in a new class investigation?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The Sun appearing to cross the sky each day.",
+        "is_correct": false
+      },
+      {
+        "text": "A torch making a shadow on a wall.",
+        "is_correct": false
+      },
+      {
+        "text": "Seasonal changes in daylight length.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Seasonal changes in daylight length.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
+  },
+  {
+    "id": "ac9s6u02-p-016",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6U02",
+    "bank": "practice",
+    "skill": "solar system motions",
+    "question": "Why is gravity important in the solar system in a new class investigation?",
+    "audio_prompt": "Why is gravity important in the solar system in a new class investigation?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It helps keep planets in orbit around the Sun.",
+        "is_correct": true
+      },
+      {
+        "text": "It makes planets produce their own light.",
+        "is_correct": false
+      },
+      {
+        "text": "It stops Earth from rotating.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "It helps keep planets in orbit around the Sun.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
+  },
+  {
+    "id": "ac9s6u02-p-017",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6U02",
+    "bank": "practice",
+    "skill": "solar system motions",
+    "question": "Which motion causes day and night on Earth after students review their evidence?",
+    "audio_prompt": "Which motion causes day and night on Earth after students review their evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Earth orbiting the Sun once a year.",
+        "is_correct": false
+      },
+      {
+        "text": "Earth rotating on its axis.",
+        "is_correct": true
+      },
+      {
+        "text": "The Moon blocking sunlight every night.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Earth rotating on its axis.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
+  },
+  {
+    "id": "ac9s6u02-p-018",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6U02",
+    "bank": "practice",
+    "skill": "solar system motions",
+    "question": "Why do seasons occur on Earth after students review their evidence?",
+    "audio_prompt": "Why do seasons occur on Earth after students review their evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Earth is much closer to the Sun in every country’s summer.",
+        "is_correct": false
+      },
+      {
+        "text": "The Sun turns off some of its heat in winter.",
+        "is_correct": false
+      },
+      {
+        "text": "Earth is tilted as it revolves around the Sun.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Earth is tilted as it revolves around the Sun.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
+  },
+  {
+    "id": "ac9s6u02-p-019",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6U02",
+    "bank": "practice",
+    "skill": "solar system motions",
+    "question": "A model shows Earth, Mars and Jupiter very close together. What should students remember after students review their evidence?",
+    "audio_prompt": "A model shows Earth, Mars and Jupiter very close together. What should students remember after students review their evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Most classroom diagrams are not drawn to scale.",
+        "is_correct": true
+      },
+      {
+        "text": "The planets really touch each other.",
+        "is_correct": false
+      },
+      {
+        "text": "Jupiter is always between Earth and Mars.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Most classroom diagrams are not drawn to scale.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
+  },
+  {
+    "id": "ac9s6u02-p-020",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6U02",
+    "bank": "practice",
+    "skill": "solar system motions",
+    "question": "What does revolution mean in astronomy after students review their evidence?",
+    "audio_prompt": "What does revolution mean in astronomy after students review their evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "An object spinning on its own axis.",
+        "is_correct": false
+      },
+      {
+        "text": "One object moving around another object.",
+        "is_correct": true
+      },
+      {
+        "text": "The Sun moving around Earth each day.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "One object moving around another object.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
+  },
+  {
+    "id": "ac9s6u02-p-021",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6U02",
+    "bank": "practice",
+    "skill": "solar system motions",
+    "question": "Why does Canberra have longer daylight in summer than winter after students review their evidence?",
+    "audio_prompt": "Why does Canberra have longer daylight in summer than winter after students review their evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The Sun is smaller in winter.",
+        "is_correct": false
+      },
+      {
+        "text": "Earth stops rotating in winter.",
+        "is_correct": false
+      },
+      {
+        "text": "Its hemisphere is tilted more toward the Sun in summer.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Its hemisphere is tilted more toward the Sun in summer.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
+  },
+  {
+    "id": "ac9s6u02-p-022",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6U02",
+    "bank": "practice",
+    "skill": "solar system motions",
+    "question": "A student says the Moon makes day and night. What correction is best after students review their evidence?",
+    "audio_prompt": "A student says the Moon makes day and night. What correction is best after students review their evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Day and night happen because Earth rotates, while the Moon orbits Earth.",
+        "is_correct": true
+      },
+      {
+        "text": "The Moon is the main source of daylight.",
+        "is_correct": false
+      },
+      {
+        "text": "Day and night happen because Earth changes size.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Day and night happen because Earth rotates, while the Moon orbits Earth.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
+  },
+  {
+    "id": "ac9s6u02-p-023",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6U02",
+    "bank": "practice",
+    "skill": "solar system motions",
+    "question": "Which observation is linked to Earth’s yearly revolution plus tilt after students review their evidence?",
+    "audio_prompt": "Which observation is linked to Earth’s yearly revolution plus tilt after students review their evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The Sun appearing to cross the sky each day.",
+        "is_correct": false
+      },
+      {
+        "text": "Seasonal changes in daylight length.",
+        "is_correct": true
+      },
+      {
+        "text": "A torch making a shadow on a wall.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Seasonal changes in daylight length.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
+  },
+  {
+    "id": "ac9s6u02-p-024",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6U02",
+    "bank": "practice",
+    "skill": "solar system motions",
+    "question": "Why is gravity important in the solar system after students review their evidence?",
+    "audio_prompt": "Why is gravity important in the solar system after students review their evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It makes planets produce their own light.",
+        "is_correct": false
+      },
+      {
+        "text": "It stops Earth from rotating.",
+        "is_correct": false
+      },
+      {
+        "text": "It helps keep planets in orbit around the Sun.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "It helps keep planets in orbit around the Sun.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
+  },
+  {
+    "id": "ac9s6u02-t-001",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6U02",
+    "bank": "test",
+    "skill": "solar system motions",
+    "question": "A different class checks the same science idea: Why is gravity important in the solar system?",
+    "audio_prompt": "A different class checks the same science idea: Why is gravity important in the solar system?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It helps keep planets in orbit around the Sun.",
+        "is_correct": true
+      },
+      {
+        "text": "It makes planets produce their own light.",
+        "is_correct": false
+      },
+      {
+        "text": "It stops Earth from rotating.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "It helps keep planets in orbit around the Sun.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
+  },
+  {
+    "id": "ac9s6u02-t-002",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6U02",
+    "bank": "test",
+    "skill": "solar system motions",
+    "question": "A different class checks the same science idea: Which observation is linked to Earth’s yearly revolution plus tilt?",
+    "audio_prompt": "A different class checks the same science idea: Which observation is linked to Earth’s yearly revolution plus tilt?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The Sun appearing to cross the sky each day.",
+        "is_correct": false
+      },
+      {
+        "text": "Seasonal changes in daylight length.",
+        "is_correct": true
+      },
+      {
+        "text": "A torch making a shadow on a wall.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Seasonal changes in daylight length.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
+  },
+  {
+    "id": "ac9s6u02-t-003",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6U02",
+    "bank": "test",
+    "skill": "solar system motions",
+    "question": "A different class checks the same science idea: A student says the Moon makes day and night. What correction is best?",
+    "audio_prompt": "A different class checks the same science idea: A student says the Moon makes day and night. What correction is best?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The Moon is the main source of daylight.",
+        "is_correct": false
+      },
+      {
+        "text": "Day and night happen because Earth changes size.",
+        "is_correct": false
+      },
+      {
+        "text": "Day and night happen because Earth rotates, while the Moon orbits Earth.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Day and night happen because Earth rotates, while the Moon orbits Earth.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
+  },
+  {
+    "id": "ac9s6u02-t-004",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6U02",
+    "bank": "test",
+    "skill": "solar system motions",
+    "question": "A different class checks the same science idea: Why does Canberra have longer daylight in summer than winter?",
+    "audio_prompt": "A different class checks the same science idea: Why does Canberra have longer daylight in summer than winter?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Its hemisphere is tilted more toward the Sun in summer.",
+        "is_correct": true
+      },
+      {
+        "text": "The Sun is smaller in winter.",
+        "is_correct": false
+      },
+      {
+        "text": "Earth stops rotating in winter.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Its hemisphere is tilted more toward the Sun in summer.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
+  },
+  {
+    "id": "ac9s6u02-t-005",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6U02",
+    "bank": "test",
+    "skill": "solar system motions",
+    "question": "A different class checks the same science idea: What does revolution mean in astronomy?",
+    "audio_prompt": "A different class checks the same science idea: What does revolution mean in astronomy?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "An object spinning on its own axis.",
+        "is_correct": false
+      },
+      {
+        "text": "One object moving around another object.",
+        "is_correct": true
+      },
+      {
+        "text": "The Sun moving around Earth each day.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "One object moving around another object.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
+  },
+  {
+    "id": "ac9s6u02-t-006",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6U02",
+    "bank": "test",
+    "skill": "solar system motions",
+    "question": "A different class checks the same science idea: A model shows Earth, Mars and Jupiter very close together. What should students remember?",
+    "audio_prompt": "A different class checks the same science idea: A model shows Earth, Mars and Jupiter very close together. What should students remember?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The planets really touch each other.",
+        "is_correct": false
+      },
+      {
+        "text": "Jupiter is always between Earth and Mars.",
+        "is_correct": false
+      },
+      {
+        "text": "Most classroom diagrams are not drawn to scale.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Most classroom diagrams are not drawn to scale.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
+  },
+  {
+    "id": "ac9s6u02-t-007",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6U02",
+    "bank": "test",
+    "skill": "solar system motions",
+    "question": "A different class checks the same science idea: Why do seasons occur on Earth?",
+    "audio_prompt": "A different class checks the same science idea: Why do seasons occur on Earth?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Earth is tilted as it revolves around the Sun.",
+        "is_correct": true
+      },
+      {
+        "text": "Earth is much closer to the Sun in every country’s summer.",
+        "is_correct": false
+      },
+      {
+        "text": "The Sun turns off some of its heat in winter.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Earth is tilted as it revolves around the Sun.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
+  },
+  {
+    "id": "ac9s6u02-t-008",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6U02",
+    "bank": "test",
+    "skill": "solar system motions",
+    "question": "A different class checks the same science idea: Which motion causes day and night on Earth?",
+    "audio_prompt": "A different class checks the same science idea: Which motion causes day and night on Earth?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Earth orbiting the Sun once a year.",
+        "is_correct": false
+      },
+      {
+        "text": "Earth rotating on its axis.",
+        "is_correct": true
+      },
+      {
+        "text": "The Moon blocking sunlight every night.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Earth rotating on its axis.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
+  },
+  {
+    "id": "ac9s6u02-t-009",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6U02",
+    "bank": "test",
+    "skill": "solar system motions",
+    "question": "A follow-up test asks: Why is gravity important in the solar system?",
+    "audio_prompt": "A follow-up test asks: Why is gravity important in the solar system?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It makes planets produce their own light.",
+        "is_correct": false
+      },
+      {
+        "text": "It stops Earth from rotating.",
+        "is_correct": false
+      },
+      {
+        "text": "It helps keep planets in orbit around the Sun.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "It helps keep planets in orbit around the Sun.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
+  },
+  {
+    "id": "ac9s6u02-t-010",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6U02",
+    "bank": "test",
+    "skill": "solar system motions",
+    "question": "A follow-up test asks: Which observation is linked to Earth’s yearly revolution plus tilt?",
+    "audio_prompt": "A follow-up test asks: Which observation is linked to Earth’s yearly revolution plus tilt?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Seasonal changes in daylight length.",
+        "is_correct": true
+      },
+      {
+        "text": "The Sun appearing to cross the sky each day.",
+        "is_correct": false
+      },
+      {
+        "text": "A torch making a shadow on a wall.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Seasonal changes in daylight length.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
+  },
+  {
+    "id": "ac9s6u02-t-011",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6U02",
+    "bank": "test",
+    "skill": "solar system motions",
+    "question": "A follow-up test asks: A student says the Moon makes day and night. What correction is best?",
+    "audio_prompt": "A follow-up test asks: A student says the Moon makes day and night. What correction is best?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The Moon is the main source of daylight.",
+        "is_correct": false
+      },
+      {
+        "text": "Day and night happen because Earth rotates, while the Moon orbits Earth.",
+        "is_correct": true
+      },
+      {
+        "text": "Day and night happen because Earth changes size.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Day and night happen because Earth rotates, while the Moon orbits Earth.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
+  },
+  {
+    "id": "ac9s6u02-t-012",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6U02",
+    "bank": "test",
+    "skill": "solar system motions",
+    "question": "A follow-up test asks: Why does Canberra have longer daylight in summer than winter?",
+    "audio_prompt": "A follow-up test asks: Why does Canberra have longer daylight in summer than winter?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The Sun is smaller in winter.",
+        "is_correct": false
+      },
+      {
+        "text": "Earth stops rotating in winter.",
+        "is_correct": false
+      },
+      {
+        "text": "Its hemisphere is tilted more toward the Sun in summer.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Its hemisphere is tilted more toward the Sun in summer.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
+  },
+  {
+    "id": "ac9s6u02-t-013",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6U02",
+    "bank": "test",
+    "skill": "solar system motions",
+    "question": "A follow-up test asks: What does revolution mean in astronomy?",
+    "audio_prompt": "A follow-up test asks: What does revolution mean in astronomy?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "One object moving around another object.",
+        "is_correct": true
+      },
+      {
+        "text": "An object spinning on its own axis.",
+        "is_correct": false
+      },
+      {
+        "text": "The Sun moving around Earth each day.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "One object moving around another object.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
+  },
+  {
+    "id": "ac9s6u02-t-014",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6U02",
+    "bank": "test",
+    "skill": "solar system motions",
+    "question": "A follow-up test asks: A model shows Earth, Mars and Jupiter very close together. What should students remember?",
+    "audio_prompt": "A follow-up test asks: A model shows Earth, Mars and Jupiter very close together. What should students remember?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The planets really touch each other.",
+        "is_correct": false
+      },
+      {
+        "text": "Most classroom diagrams are not drawn to scale.",
+        "is_correct": true
+      },
+      {
+        "text": "Jupiter is always between Earth and Mars.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Most classroom diagrams are not drawn to scale.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
+  },
+  {
+    "id": "ac9s6u02-t-015",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6U02",
+    "bank": "test",
+    "skill": "solar system motions",
+    "question": "A follow-up test asks: Why do seasons occur on Earth?",
+    "audio_prompt": "A follow-up test asks: Why do seasons occur on Earth?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Earth is much closer to the Sun in every country’s summer.",
+        "is_correct": false
+      },
+      {
+        "text": "The Sun turns off some of its heat in winter.",
+        "is_correct": false
+      },
+      {
+        "text": "Earth is tilted as it revolves around the Sun.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Earth is tilted as it revolves around the Sun.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
+  },
+  {
+    "id": "ac9s6u02-t-016",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6U02",
+    "bank": "test",
+    "skill": "solar system motions",
+    "question": "A follow-up test asks: Which motion causes day and night on Earth?",
+    "audio_prompt": "A follow-up test asks: Which motion causes day and night on Earth?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Earth rotating on its axis.",
+        "is_correct": true
+      },
+      {
+        "text": "Earth orbiting the Sun once a year.",
+        "is_correct": false
+      },
+      {
+        "text": "The Moon blocking sunlight every night.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Earth rotating on its axis.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
+  }
+]

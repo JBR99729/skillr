@@ -1,0 +1,2130 @@
+[
+  {
+    "id": "AC9E2LA07-P-001",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA07",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "describe_the_pictured_beetle_direct",
+    "question": "A picture shows one tiny beetle with black spots. Which noun group matches it best?",
+    "audio_prompt": "A picture shows one tiny beetle with black spots. Which noun group matches it best?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "the tiny spotted beetle",
+        "is_correct": true
+      },
+      {
+        "text": "the large spotted beetle",
+        "is_correct": false
+      },
+      {
+        "text": "the tiny plain beetle",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The article and adjectives add accurate details to the noun beetle.",
+      "hint": "Choose words that name the thing and match both its size and pattern."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LA07-P-002",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA07",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "build_a_boot_noun_group_direct",
+    "question": "A picture shows two muddy boots beside a door. Which noun group names them accurately?",
+    "audio_prompt": "A picture shows two muddy boots beside a door. Which noun group names them accurately?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The two clean boots",
+        "is_correct": false
+      },
+      {
+        "text": "The two muddy boots",
+        "is_correct": true
+      },
+      {
+        "text": "The muddy boot",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The, two and muddy expand the noun boots with useful matching details.",
+      "hint": "Check the number of boots and their condition."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 2,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LA07-P-003",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA07",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "choose_a_hopping_verb_group_direct",
+    "question": "The green frog is moving across the path now. Which two-word verb group tells what it is doing?",
+    "audio_prompt": "The green frog is moving across the path now. Which two-word verb group tells what it is doing?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "hopped",
+        "is_correct": false
+      },
+      {
+        "text": "the quick hop",
+        "is_correct": false
+      },
+      {
+        "text": "is hopping",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Is hopping is a two-word verb group that tells what the frog is doing.",
+      "hint": "Look for a helping word followed by an action word."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 3,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LA07-P-004",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA07",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "show_a_future_action_direct",
+    "question": "Our class plans to go to the farm tomorrow. Which verb group states that plan?",
+    "audio_prompt": "Our class plans to go to the farm tomorrow. Which verb group states that plan?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "will visit",
+        "is_correct": true
+      },
+      {
+        "text": "visited",
+        "is_correct": false
+      },
+      {
+        "text": "the farm visit",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Will visit is a verb group that shows an action planned for the future.",
+      "hint": "Choose two words that tell what the class plans to do."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 4,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LA07-P-005",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA07",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "improve_birds_fly_direct",
+    "question": "A picture shows bright green parrots in the air. Which sentence expands the noun and uses a verb group?",
+    "audio_prompt": "A picture shows bright green parrots in the air. Which sentence expands the noun and uses a verb group?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The green parrots fly above the trees.",
+        "is_correct": false
+      },
+      {
+        "text": "The bright green parrots are flying above the trees.",
+        "is_correct": true
+      },
+      {
+        "text": "The bright green parrots above the trees.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The noun group names and describes the birds; are flying shows the action.",
+      "hint": "Find both a detailed naming group and a complete two-word action group."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 5,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LA07-P-006",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA07",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "locate_the_whole_noun_group_direct",
+    "question": "In “The three smooth stones rolled downhill,” which words form the complete noun group?",
+    "audio_prompt": "In “The three smooth stones rolled downhill,” which words form the complete noun group?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "smooth stones rolled",
+        "is_correct": false
+      },
+      {
+        "text": "rolled downhill",
+        "is_correct": false
+      },
+      {
+        "text": "The three smooth stones",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The three smooth stones work together to identify and describe what rolled.",
+      "hint": "Start at the article and stop before the action word."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 6,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LA07-P-007",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA07",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "choose_useful_details_direct",
+    "question": "A writer saw a small wet puppy shivering. Which noun group gives accurate detail?",
+    "audio_prompt": "A writer saw a small wet puppy shivering. Which noun group gives accurate detail?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "the small wet puppy",
+        "is_correct": true
+      },
+      {
+        "text": "the small dry puppy",
+        "is_correct": false
+      },
+      {
+        "text": "the large wet puppy",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Small and wet help readers picture the puppy and fit the observed scene.",
+      "hint": "Use both size and condition clues from the context."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 7,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LA07-P-008",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA07",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "describe_a_rabbit_exactly_direct",
+    "question": "A picture shows one fluffy white rabbit. Which noun group matches the picture?",
+    "audio_prompt": "A picture shows one fluffy white rabbit. Which noun group matches the picture?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "a smooth white rabbit",
+        "is_correct": false
+      },
+      {
+        "text": "a fluffy white rabbit",
+        "is_correct": true
+      },
+      {
+        "text": "a fluffy grey rabbit",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A, fluffy and white expand rabbit with the visible details.",
+      "hint": "Choose the group that matches both texture and colour."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 8,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LA07-P-009",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA07",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "choose_a_shining_verb_group_direct",
+    "question": "The full moon gave light above the trees. Which two-word verb group tells what it was doing?",
+    "audio_prompt": "The full moon gave light above the trees. Which two-word verb group tells what it was doing?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "shone",
+        "is_correct": false
+      },
+      {
+        "text": "the shining moon",
+        "is_correct": false
+      },
+      {
+        "text": "was shining",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Was shining works together to tell what the moon was doing.",
+      "hint": "Find the helping word and action word, not a single verb or naming group."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 9,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LA07-P-010",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA07",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "build_a_precise_leaf_group_direct",
+    "question": "A child must collect the one large yellow leaf. Which label identifies it best?",
+    "audio_prompt": "A child must collect the one large yellow leaf. Which label identifies it best?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "the large yellow leaf",
+        "is_correct": true
+      },
+      {
+        "text": "a small yellow leaf",
+        "is_correct": false
+      },
+      {
+        "text": "the large green leaf",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Large and yellow distinguish the correct leaf from the close alternatives.",
+      "hint": "Use every clue needed to choose the exact object."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 10,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LA07-P-011",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA07",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "describe_the_pictured_beetle_explain",
+    "question": "A picture shows one tiny beetle with black spots. Which noun group matches it best? Why is “the tiny spotted beetle” the best answer?",
+    "audio_prompt": "A picture shows one tiny beetle with black spots. Which noun group matches it best? Why is “the tiny spotted beetle” the best answer?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is best only because it is longer than “the large spotted beetle”.",
+        "is_correct": false
+      },
+      {
+        "text": "The article and adjectives add accurate details to the noun beetle.",
+        "is_correct": true
+      },
+      {
+        "text": "It is best because the details in the situation do not matter.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The article and adjectives add accurate details to the noun beetle.",
+      "hint": "Choose words that name the thing and match both its size and pattern."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 11,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LA07-P-012",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA07",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "build_a_boot_noun_group_explain",
+    "question": "A picture shows two muddy boots beside a door. Which noun group names them accurately? Why is “The two muddy boots” the best answer?",
+    "audio_prompt": "A picture shows two muddy boots beside a door. Which noun group names them accurately? Why is “The two muddy boots” the best answer?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is best only because it is longer than “The two clean boots”.",
+        "is_correct": false
+      },
+      {
+        "text": "It is best because the details in the situation do not matter.",
+        "is_correct": false
+      },
+      {
+        "text": "The, two and muddy expand the noun boots with useful matching details.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The, two and muddy expand the noun boots with useful matching details.",
+      "hint": "Check the number of boots and their condition."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 12,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LA07-P-013",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA07",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "choose_a_hopping_verb_group_explain",
+    "question": "The green frog is moving across the path now. Which two-word verb group tells what it is doing? Why is “is hopping” the best answer?",
+    "audio_prompt": "The green frog is moving across the path now. Which two-word verb group tells what it is doing? Why is “is hopping” the best answer?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Is hopping is a two-word verb group that tells what the frog is doing.",
+        "is_correct": true
+      },
+      {
+        "text": "It is best only because it is longer than “hopped”.",
+        "is_correct": false
+      },
+      {
+        "text": "It is best because the details in the situation do not matter.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Is hopping is a two-word verb group that tells what the frog is doing.",
+      "hint": "Look for a helping word followed by an action word."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 13,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LA07-P-014",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA07",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "show_a_future_action_explain",
+    "question": "Our class plans to go to the farm tomorrow. Which verb group states that plan? Why is “will visit” the best answer?",
+    "audio_prompt": "Our class plans to go to the farm tomorrow. Which verb group states that plan? Why is “will visit” the best answer?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is best only because it is longer than “visited”.",
+        "is_correct": false
+      },
+      {
+        "text": "Will visit is a verb group that shows an action planned for the future.",
+        "is_correct": true
+      },
+      {
+        "text": "It is best because the details in the situation do not matter.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Will visit is a verb group that shows an action planned for the future.",
+      "hint": "Choose two words that tell what the class plans to do."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 14,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LA07-P-015",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA07",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "improve_birds_fly_explain",
+    "question": "A picture shows bright green parrots in the air. Which sentence expands the noun and uses a verb group? Why is “The bright green parrots are flying above the trees.” the best answer?",
+    "audio_prompt": "A picture shows bright green parrots in the air. Which sentence expands the noun and uses a verb group? Why is “The bright green parrots are flying above the trees.” the best answer?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is best only because it is longer than “The green parrots fly above the trees.”.",
+        "is_correct": false
+      },
+      {
+        "text": "It is best because the details in the situation do not matter.",
+        "is_correct": false
+      },
+      {
+        "text": "The noun group names and describes the birds; are flying shows the action.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The noun group names and describes the birds; are flying shows the action.",
+      "hint": "Find both a detailed naming group and a complete two-word action group."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 15,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LA07-P-016",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA07",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "locate_the_whole_noun_group_explain",
+    "question": "In “The three smooth stones rolled downhill,” which words form the complete noun group? Why is “The three smooth stones” the best answer?",
+    "audio_prompt": "In “The three smooth stones rolled downhill,” which words form the complete noun group? Why is “The three smooth stones” the best answer?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The three smooth stones work together to identify and describe what rolled.",
+        "is_correct": true
+      },
+      {
+        "text": "It is best only because it is longer than “smooth stones rolled”.",
+        "is_correct": false
+      },
+      {
+        "text": "It is best because the details in the situation do not matter.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The three smooth stones work together to identify and describe what rolled.",
+      "hint": "Start at the article and stop before the action word."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 16,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LA07-P-017",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA07",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "choose_useful_details_explain",
+    "question": "A writer saw a small wet puppy shivering. Which noun group gives accurate detail? Why is “the small wet puppy” the best answer?",
+    "audio_prompt": "A writer saw a small wet puppy shivering. Which noun group gives accurate detail? Why is “the small wet puppy” the best answer?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is best only because it is longer than “the small dry puppy”.",
+        "is_correct": false
+      },
+      {
+        "text": "Small and wet help readers picture the puppy and fit the observed scene.",
+        "is_correct": true
+      },
+      {
+        "text": "It is best because the details in the situation do not matter.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Small and wet help readers picture the puppy and fit the observed scene.",
+      "hint": "Use both size and condition clues from the context."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 17,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LA07-P-018",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA07",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "describe_a_rabbit_exactly_explain",
+    "question": "A picture shows one fluffy white rabbit. Which noun group matches the picture? Why is “a fluffy white rabbit” the best answer?",
+    "audio_prompt": "A picture shows one fluffy white rabbit. Which noun group matches the picture? Why is “a fluffy white rabbit” the best answer?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is best only because it is longer than “a smooth white rabbit”.",
+        "is_correct": false
+      },
+      {
+        "text": "It is best because the details in the situation do not matter.",
+        "is_correct": false
+      },
+      {
+        "text": "A, fluffy and white expand rabbit with the visible details.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A, fluffy and white expand rabbit with the visible details.",
+      "hint": "Choose the group that matches both texture and colour."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 18,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LA07-P-019",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA07",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "choose_a_shining_verb_group_explain",
+    "question": "The full moon gave light above the trees. Which two-word verb group tells what it was doing? Why is “was shining” the best answer?",
+    "audio_prompt": "The full moon gave light above the trees. Which two-word verb group tells what it was doing? Why is “was shining” the best answer?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Was shining works together to tell what the moon was doing.",
+        "is_correct": true
+      },
+      {
+        "text": "It is best only because it is longer than “shone”.",
+        "is_correct": false
+      },
+      {
+        "text": "It is best because the details in the situation do not matter.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Was shining works together to tell what the moon was doing.",
+      "hint": "Find the helping word and action word, not a single verb or naming group."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 19,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LA07-P-020",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA07",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "build_a_precise_leaf_group_explain",
+    "question": "A child must collect the one large yellow leaf. Which label identifies it best? Why is “the large yellow leaf” the best answer?",
+    "audio_prompt": "A child must collect the one large yellow leaf. Which label identifies it best? Why is “the large yellow leaf” the best answer?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is best only because it is longer than “a small yellow leaf”.",
+        "is_correct": false
+      },
+      {
+        "text": "Large and yellow distinguish the correct leaf from the close alternatives.",
+        "is_correct": true
+      },
+      {
+        "text": "It is best because the details in the situation do not matter.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Large and yellow distinguish the correct leaf from the close alternatives.",
+      "hint": "Use every clue needed to choose the exact object."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 20,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LA07-P-021",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA07",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "choose_a_hopping_verb_group_discriminate",
+    "question": "The green frog is moving across the path now. Which two-word verb group tells what it is doing? Which response is the clearest mix-up to avoid?",
+    "audio_prompt": "The green frog is moving across the path now. Which two-word verb group tells what it is doing? Which response is the clearest mix-up to avoid?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "is hopping",
+        "is_correct": false
+      },
+      {
+        "text": "the quick hop",
+        "is_correct": false
+      },
+      {
+        "text": "hopped",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "“hopped” is the mix-up to avoid. Look for a helping word followed by an action word.",
+      "hint": "Look for a helping word followed by an action word."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 21,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LA07-P-022",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA07",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "show_a_future_action_discriminate",
+    "question": "Our class plans to go to the farm tomorrow. Which verb group states that plan? Which response is the clearest mix-up to avoid?",
+    "audio_prompt": "Our class plans to go to the farm tomorrow. Which verb group states that plan? Which response is the clearest mix-up to avoid?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "visited",
+        "is_correct": true
+      },
+      {
+        "text": "will visit",
+        "is_correct": false
+      },
+      {
+        "text": "the farm visit",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "“visited” is the mix-up to avoid. Choose two words that tell what the class plans to do.",
+      "hint": "Choose two words that tell what the class plans to do."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 22,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LA07-P-023",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA07",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "improve_birds_fly_discriminate",
+    "question": "A picture shows bright green parrots in the air. Which sentence expands the noun and uses a verb group? Which response is the clearest mix-up to avoid?",
+    "audio_prompt": "A picture shows bright green parrots in the air. Which sentence expands the noun and uses a verb group? Which response is the clearest mix-up to avoid?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The bright green parrots are flying above the trees.",
+        "is_correct": false
+      },
+      {
+        "text": "The green parrots fly above the trees.",
+        "is_correct": true
+      },
+      {
+        "text": "The bright green parrots above the trees.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "“The green parrots fly above the trees.” is the mix-up to avoid. Find both a detailed naming group and a complete two-word action group.",
+      "hint": "Find both a detailed naming group and a complete two-word action group."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 23,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LA07-P-024",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA07",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "locate_the_whole_noun_group_discriminate",
+    "question": "In “The three smooth stones rolled downhill,” which words form the complete noun group? Which response is the clearest mix-up to avoid?",
+    "audio_prompt": "In “The three smooth stones rolled downhill,” which words form the complete noun group? Which response is the clearest mix-up to avoid?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The three smooth stones",
+        "is_correct": false
+      },
+      {
+        "text": "rolled downhill",
+        "is_correct": false
+      },
+      {
+        "text": "smooth stones rolled",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "“smooth stones rolled” is the mix-up to avoid. Start at the article and stop before the action word.",
+      "hint": "Start at the article and stop before the action word."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 24,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LA07-P-025",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA07",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "choose_useful_details_discriminate",
+    "question": "A writer saw a small wet puppy shivering. Which noun group gives accurate detail? Which response is the clearest mix-up to avoid?",
+    "audio_prompt": "A writer saw a small wet puppy shivering. Which noun group gives accurate detail? Which response is the clearest mix-up to avoid?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "the small dry puppy",
+        "is_correct": true
+      },
+      {
+        "text": "the small wet puppy",
+        "is_correct": false
+      },
+      {
+        "text": "the large wet puppy",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "“the small dry puppy” is the mix-up to avoid. Use both size and condition clues from the context.",
+      "hint": "Use both size and condition clues from the context."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 25,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LA07-P-026",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA07",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "describe_a_rabbit_exactly_discriminate",
+    "question": "A picture shows one fluffy white rabbit. Which noun group matches the picture? Which response is the clearest mix-up to avoid?",
+    "audio_prompt": "A picture shows one fluffy white rabbit. Which noun group matches the picture? Which response is the clearest mix-up to avoid?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "a fluffy white rabbit",
+        "is_correct": false
+      },
+      {
+        "text": "a smooth white rabbit",
+        "is_correct": true
+      },
+      {
+        "text": "a fluffy grey rabbit",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "“a smooth white rabbit” is the mix-up to avoid. Choose the group that matches both texture and colour.",
+      "hint": "Choose the group that matches both texture and colour."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 26,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LA07-P-027",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA07",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "choose_a_shining_verb_group_discriminate",
+    "question": "The full moon gave light above the trees. Which two-word verb group tells what it was doing? Which response is the clearest mix-up to avoid?",
+    "audio_prompt": "The full moon gave light above the trees. Which two-word verb group tells what it was doing? Which response is the clearest mix-up to avoid?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "was shining",
+        "is_correct": false
+      },
+      {
+        "text": "the shining moon",
+        "is_correct": false
+      },
+      {
+        "text": "shone",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "“shone” is the mix-up to avoid. Find the helping word and action word, not a single verb or naming group.",
+      "hint": "Find the helping word and action word, not a single verb or naming group."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 27,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LA07-P-028",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA07",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "build_a_precise_leaf_group_discriminate",
+    "question": "A child must collect the one large yellow leaf. Which label identifies it best? Which response is the clearest mix-up to avoid?",
+    "audio_prompt": "A child must collect the one large yellow leaf. Which label identifies it best? Which response is the clearest mix-up to avoid?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "a small yellow leaf",
+        "is_correct": true
+      },
+      {
+        "text": "the large yellow leaf",
+        "is_correct": false
+      },
+      {
+        "text": "the large green leaf",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "“a small yellow leaf” is the mix-up to avoid. Use every clue needed to choose the exact object.",
+      "hint": "Use every clue needed to choose the exact object."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 28,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LA07-P-029",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA07",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "expand_a_simple_train_sentence_discriminate",
+    "question": "A picture shows a long silver train entering a tunnel. Which sentence uses a matching noun group and verb group? Which response is the clearest mix-up to avoid?",
+    "audio_prompt": "A picture shows a long silver train entering a tunnel. Which sentence uses a matching noun group and verb group? Which response is the clearest mix-up to avoid?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The long silver train was moving through the tunnel.",
+        "is_correct": false
+      },
+      {
+        "text": "The short silver train was moving through the tunnel.",
+        "is_correct": true
+      },
+      {
+        "text": "The long silver train moved through the tunnel.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "“The short silver train was moving through the tunnel.” is the mix-up to avoid. Check the visible details and look for a helping word with the action.",
+      "hint": "Check the visible details and look for a helping word with the action."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 29,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LA07-P-030",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA07",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "find_a_future_verb_group_discriminate",
+    "question": "In “The two young singers will perform tonight,” which words form the complete verb group? Which response is the clearest mix-up to avoid?",
+    "audio_prompt": "In “The two young singers will perform tonight,” which words form the complete verb group? Which response is the clearest mix-up to avoid?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "will perform",
+        "is_correct": false
+      },
+      {
+        "text": "The two young singers",
+        "is_correct": false
+      },
+      {
+        "text": "perform",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "“perform” is the mix-up to avoid. Look for the helping word and the action word beside it.",
+      "hint": "Look for the helping word and the action word beside it."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 30,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LA07-P-031",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA07",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "choose_a_hopping_verb_group_apply",
+    "question": "Use this clue: Look for a helping word followed by an action word. The green frog is moving across the path now. Which two-word verb group tells what it is doing?",
+    "audio_prompt": "Use this clue: Look for a helping word followed by an action word. The green frog is moving across the path now. Which two-word verb group tells what it is doing?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "is hopping",
+        "is_correct": true
+      },
+      {
+        "text": "the quick hop",
+        "is_correct": false
+      },
+      {
+        "text": "hopped",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Is hopping is a two-word verb group that tells what the frog is doing.",
+      "hint": "Use the clue first, then check which response fits the exact people, purpose, text or language feature in the example."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 31,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LA07-P-032",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA07",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "show_a_future_action_apply",
+    "question": "Use this clue: Choose two words that tell what the class plans to do. Our class plans to go to the farm tomorrow. Which verb group states that plan?",
+    "audio_prompt": "Use this clue: Choose two words that tell what the class plans to do. Our class plans to go to the farm tomorrow. Which verb group states that plan?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "the farm visit",
+        "is_correct": false
+      },
+      {
+        "text": "will visit",
+        "is_correct": true
+      },
+      {
+        "text": "visited",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Will visit is a verb group that shows an action planned for the future.",
+      "hint": "Use the clue first, then check which response fits the exact people, purpose, text or language feature in the example."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 32,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LA07-P-033",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA07",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "improve_birds_fly_apply",
+    "question": "Use this clue: Find both a detailed naming group and a complete two-word action group. A picture shows bright green parrots in the air. Which sentence expands the noun and uses a verb group?",
+    "audio_prompt": "Use this clue: Find both a detailed naming group and a complete two-word action group. A picture shows bright green parrots in the air. Which sentence expands the noun and uses a verb group?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The bright green parrots above the trees.",
+        "is_correct": false
+      },
+      {
+        "text": "The green parrots fly above the trees.",
+        "is_correct": false
+      },
+      {
+        "text": "The bright green parrots are flying above the trees.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The noun group names and describes the birds; are flying shows the action.",
+      "hint": "Use the clue first, then check which response fits the exact people, purpose, text or language feature in the example."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 33,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LA07-P-034",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA07",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "locate_the_whole_noun_group_apply",
+    "question": "Use this clue: Start at the article and stop before the action word. In “The three smooth stones rolled downhill,” which words form the complete noun group?",
+    "audio_prompt": "Use this clue: Start at the article and stop before the action word. In “The three smooth stones rolled downhill,” which words form the complete noun group?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The three smooth stones",
+        "is_correct": true
+      },
+      {
+        "text": "rolled downhill",
+        "is_correct": false
+      },
+      {
+        "text": "smooth stones rolled",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The three smooth stones work together to identify and describe what rolled.",
+      "hint": "Use the clue first, then check which response fits the exact people, purpose, text or language feature in the example."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 34,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LA07-P-035",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA07",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "choose_useful_details_apply",
+    "question": "Use this clue: Use both size and condition clues from the context. A writer saw a small wet puppy shivering. Which noun group gives accurate detail?",
+    "audio_prompt": "Use this clue: Use both size and condition clues from the context. A writer saw a small wet puppy shivering. Which noun group gives accurate detail?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "the large wet puppy",
+        "is_correct": false
+      },
+      {
+        "text": "the small wet puppy",
+        "is_correct": true
+      },
+      {
+        "text": "the small dry puppy",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Small and wet help readers picture the puppy and fit the observed scene.",
+      "hint": "Use the clue first, then check which response fits the exact people, purpose, text or language feature in the example."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 35,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LA07-P-036",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA07",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "describe_a_rabbit_exactly_apply",
+    "question": "Use this clue: Choose the group that matches both texture and colour. A picture shows one fluffy white rabbit. Which noun group matches the picture?",
+    "audio_prompt": "Use this clue: Choose the group that matches both texture and colour. A picture shows one fluffy white rabbit. Which noun group matches the picture?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "a fluffy grey rabbit",
+        "is_correct": false
+      },
+      {
+        "text": "a smooth white rabbit",
+        "is_correct": false
+      },
+      {
+        "text": "a fluffy white rabbit",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A, fluffy and white expand rabbit with the visible details.",
+      "hint": "Use the clue first, then check which response fits the exact people, purpose, text or language feature in the example."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 36,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LA07-P-037",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA07",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "choose_a_shining_verb_group_apply",
+    "question": "Use this clue: Find the helping word and action word, not a single verb or naming group. The full moon gave light above the trees. Which two-word verb group tells what it was doing?",
+    "audio_prompt": "Use this clue: Find the helping word and action word, not a single verb or naming group. The full moon gave light above the trees. Which two-word verb group tells what it was doing?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "was shining",
+        "is_correct": true
+      },
+      {
+        "text": "the shining moon",
+        "is_correct": false
+      },
+      {
+        "text": "shone",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Was shining works together to tell what the moon was doing.",
+      "hint": "Use the clue first, then check which response fits the exact people, purpose, text or language feature in the example."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 37,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LA07-P-038",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA07",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "build_a_precise_leaf_group_apply",
+    "question": "Use this clue: Use every clue needed to choose the exact object. A child must collect the one large yellow leaf. Which label identifies it best?",
+    "audio_prompt": "Use this clue: Use every clue needed to choose the exact object. A child must collect the one large yellow leaf. Which label identifies it best?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "the large green leaf",
+        "is_correct": false
+      },
+      {
+        "text": "the large yellow leaf",
+        "is_correct": true
+      },
+      {
+        "text": "a small yellow leaf",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Large and yellow distinguish the correct leaf from the close alternatives.",
+      "hint": "Use the clue first, then check which response fits the exact people, purpose, text or language feature in the example."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 38,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LA07-P-039",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA07",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "expand_a_simple_train_sentence_apply",
+    "question": "Use this clue: Check the visible details and look for a helping word with the action. A picture shows a long silver train entering a tunnel. Which sentence uses a matching noun group and verb group?",
+    "audio_prompt": "Use this clue: Check the visible details and look for a helping word with the action. A picture shows a long silver train entering a tunnel. Which sentence uses a matching noun group and verb group?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The long silver train moved through the tunnel.",
+        "is_correct": false
+      },
+      {
+        "text": "The short silver train was moving through the tunnel.",
+        "is_correct": false
+      },
+      {
+        "text": "The long silver train was moving through the tunnel.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The noun group matches the train, and was moving forms the requested verb group.",
+      "hint": "Use the clue first, then check which response fits the exact people, purpose, text or language feature in the example."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 39,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LA07-P-040",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA07",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "find_a_future_verb_group_apply",
+    "question": "Use this clue: Look for the helping word and the action word beside it. In “The two young singers will perform tonight,” which words form the complete verb group?",
+    "audio_prompt": "Use this clue: Look for the helping word and the action word beside it. In “The two young singers will perform tonight,” which words form the complete verb group?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "will perform",
+        "is_correct": true
+      },
+      {
+        "text": "The two young singers",
+        "is_correct": false
+      },
+      {
+        "text": "perform",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Will perform works together to show the future action.",
+      "hint": "Use the clue first, then check which response fits the exact people, purpose, text or language feature in the example."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 40,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LA07-T-001",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA07",
+    "bank": "test",
+    "stage": "verify",
+    "skill": "build_a_wave_sentence_direct",
+    "question": "A picture shows two enormous grey waves crashing. Which sentence matches with a noun group and verb group?",
+    "audio_prompt": "A picture shows two enormous grey waves crashing. Which sentence matches with a noun group and verb group?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The two enormous grey waves were crashing onto the rocks.",
+        "is_correct": true
+      },
+      {
+        "text": "The two small grey waves were crashing onto the rocks.",
+        "is_correct": false
+      },
+      {
+        "text": "The two enormous grey waves crashed onto the rocks.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The expanded noun group matches the waves, and were crashing clearly expresses their action.",
+      "hint": "Check every pictured detail and look for a two-word verb group."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 1,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LA07-T-002",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA07",
+    "bank": "test",
+    "stage": "verify",
+    "skill": "find_the_finished_action_direct",
+    "question": "Mina completed her model before lunch. Which complete verb group can tell what she did?",
+    "audio_prompt": "Mina completed her model before lunch. Which complete verb group can tell what she did?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "finished",
+        "is_correct": false
+      },
+      {
+        "text": "has finished",
+        "is_correct": true
+      },
+      {
+        "text": "the finished model",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Has finished is a verb group telling what Mina completed.",
+      "hint": "Look for a helping word with the action word."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 2,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LA07-T-003",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA07",
+    "bank": "test",
+    "stage": "verify",
+    "skill": "select_an_exact_backpack_group_direct",
+    "question": "The lost bag is red and torn. Which noun group identifies it precisely?",
+    "audio_prompt": "The lost bag is red and torn. Which noun group identifies it precisely?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "the new red backpack",
+        "is_correct": false
+      },
+      {
+        "text": "the torn blue backpack",
+        "is_correct": false
+      },
+      {
+        "text": "the torn red backpack",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The adjectives torn and red point to the correct backpack.",
+      "hint": "Use both details that separate this bag from other bags."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 3,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LA07-T-004",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA07",
+    "bank": "test",
+    "stage": "verify",
+    "skill": "expand_dog_barked_direct",
+    "question": "Which edit gives accurate detail about a nervous brown dog that kept barking?",
+    "audio_prompt": "Which edit gives accurate detail about a nervous brown dog that kept barking?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The nervous brown dog was barking.",
+        "is_correct": true
+      },
+      {
+        "text": "The calm brown dog was barking.",
+        "is_correct": false
+      },
+      {
+        "text": "The nervous brown dog barked once.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The noun group describes the correct dog, and was barking expresses the continuing action.",
+      "hint": "Keep the given appearance, feeling and continuing action."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 4,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LA07-T-005",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA07",
+    "bank": "test",
+    "stage": "verify",
+    "skill": "track_a_landing_verb_group_direct",
+    "question": "In “The three silver planes have landed safely,” which words form the complete verb group?",
+    "audio_prompt": "In “The three silver planes have landed safely,” which words form the complete verb group?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "landed",
+        "is_correct": false
+      },
+      {
+        "text": "have landed",
+        "is_correct": true
+      },
+      {
+        "text": "The three silver planes",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Have landed works together to express what the planes have done.",
+      "hint": "Find the helping word and action word together."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 5,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LA07-T-006",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA07",
+    "bank": "test",
+    "stage": "verify",
+    "skill": "match_a_bridge_image_direct",
+    "question": "Which noun group best matches a picture of one crooked old bridge?",
+    "audio_prompt": "Which noun group best matches a picture of one crooked old bridge?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "the crooked new bridge",
+        "is_correct": false
+      },
+      {
+        "text": "the straight old bridge",
+        "is_correct": false
+      },
+      {
+        "text": "the crooked old bridge",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Crooked and old give accurate details about the noun bridge.",
+      "hint": "Choose the naming group whose describing words match every visible clue."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 6,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LA07-T-007",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA07",
+    "bank": "test",
+    "stage": "verify",
+    "skill": "describe_resting_hikers_direct",
+    "question": "Which sentence uses a matching noun group and a two-word verb group to show two tired young hikers resting?",
+    "audio_prompt": "Which sentence uses a matching noun group and a two-word verb group to show two tired young hikers resting?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The two tired young hikers were resting beside the track.",
+        "is_correct": true
+      },
+      {
+        "text": "The two energetic young hikers were resting beside the track.",
+        "is_correct": false
+      },
+      {
+        "text": "The two tired young hikers rested beside the track.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The noun group identifies the hikers and were resting tells their continuing action.",
+      "hint": "Check the hikers' details and look for a helping word with the action."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 7,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LA07-T-008",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA07",
+    "bank": "test",
+    "stage": "verify",
+    "skill": "replace_an_inaccurate_detail_direct",
+    "question": "A photo shows a smooth round pebble. Which noun group best replaces “the rough pebble”?",
+    "audio_prompt": "A photo shows a smooth round pebble. Which noun group best replaces “the rough pebble”?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "the rough round pebble",
+        "is_correct": false
+      },
+      {
+        "text": "the smooth round pebble",
+        "is_correct": true
+      },
+      {
+        "text": "the smooth square pebble",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Smooth and round accurately expand the noun pebble using the photo evidence.",
+      "hint": "Replace the inaccurate detail and include both visible features."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 8,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LA07-T-009",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA07",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "build_a_wave_sentence_test-reason",
+    "question": "A picture shows two enormous grey waves crashing. Which sentence matches with a noun group and verb group? Which reason best supports the correct choice?",
+    "audio_prompt": "A picture shows two enormous grey waves crashing. Which sentence matches with a noun group and verb group? Which reason best supports the correct choice?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The correct choice is simply the most formal-sounding option.",
+        "is_correct": false
+      },
+      {
+        "text": "The correct choice works even if the situation and audience are ignored.",
+        "is_correct": false
+      },
+      {
+        "text": "The expanded noun group matches the waves, and were crashing clearly expresses their action.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The expanded noun group matches the waves, and were crashing clearly expresses their action.",
+      "hint": "Check every pictured detail and look for a two-word verb group."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 9,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LA07-T-010",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA07",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "find_the_finished_action_test-reason",
+    "question": "Mina completed her model before lunch. Which complete verb group can tell what she did? Which reason best supports the correct choice?",
+    "audio_prompt": "Mina completed her model before lunch. Which complete verb group can tell what she did? Which reason best supports the correct choice?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Has finished is a verb group telling what Mina completed.",
+        "is_correct": true
+      },
+      {
+        "text": "The correct choice is simply the most formal-sounding option.",
+        "is_correct": false
+      },
+      {
+        "text": "The correct choice works even if the situation and audience are ignored.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Has finished is a verb group telling what Mina completed.",
+      "hint": "Look for a helping word with the action word."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 10,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LA07-T-011",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA07",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "select_an_exact_backpack_group_test-reason",
+    "question": "The lost bag is red and torn. Which noun group identifies it precisely? Which reason best supports the correct choice?",
+    "audio_prompt": "The lost bag is red and torn. Which noun group identifies it precisely? Which reason best supports the correct choice?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The correct choice is simply the most formal-sounding option.",
+        "is_correct": false
+      },
+      {
+        "text": "The adjectives torn and red point to the correct backpack.",
+        "is_correct": true
+      },
+      {
+        "text": "The correct choice works even if the situation and audience are ignored.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The adjectives torn and red point to the correct backpack.",
+      "hint": "Use both details that separate this bag from other bags."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 11,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LA07-T-012",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA07",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "expand_dog_barked_test-reason",
+    "question": "Which edit gives accurate detail about a nervous brown dog that kept barking? Which reason best supports the correct choice?",
+    "audio_prompt": "Which edit gives accurate detail about a nervous brown dog that kept barking? Which reason best supports the correct choice?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The correct choice is simply the most formal-sounding option.",
+        "is_correct": false
+      },
+      {
+        "text": "The correct choice works even if the situation and audience are ignored.",
+        "is_correct": false
+      },
+      {
+        "text": "The noun group describes the correct dog, and was barking expresses the continuing action.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The noun group describes the correct dog, and was barking expresses the continuing action.",
+      "hint": "Keep the given appearance, feeling and continuing action."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 12,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LA07-T-013",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA07",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "track_a_landing_verb_group_test-reason",
+    "question": "In “The three silver planes have landed safely,” which words form the complete verb group? Which reason best supports the correct choice?",
+    "audio_prompt": "In “The three silver planes have landed safely,” which words form the complete verb group? Which reason best supports the correct choice?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Have landed works together to express what the planes have done.",
+        "is_correct": true
+      },
+      {
+        "text": "The correct choice is simply the most formal-sounding option.",
+        "is_correct": false
+      },
+      {
+        "text": "The correct choice works even if the situation and audience are ignored.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Have landed works together to express what the planes have done.",
+      "hint": "Find the helping word and action word together."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 13,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LA07-T-014",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA07",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "match_a_bridge_image_test-reason",
+    "question": "Which noun group best matches a picture of one crooked old bridge? Which reason best supports the correct choice?",
+    "audio_prompt": "Which noun group best matches a picture of one crooked old bridge? Which reason best supports the correct choice?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The correct choice is simply the most formal-sounding option.",
+        "is_correct": false
+      },
+      {
+        "text": "Crooked and old give accurate details about the noun bridge.",
+        "is_correct": true
+      },
+      {
+        "text": "The correct choice works even if the situation and audience are ignored.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Crooked and old give accurate details about the noun bridge.",
+      "hint": "Choose the naming group whose describing words match every visible clue."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 14,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LA07-T-015",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA07",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "describe_resting_hikers_test-reason",
+    "question": "Which sentence uses a matching noun group and a two-word verb group to show two tired young hikers resting? Which reason best supports the correct choice?",
+    "audio_prompt": "Which sentence uses a matching noun group and a two-word verb group to show two tired young hikers resting? Which reason best supports the correct choice?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The correct choice is simply the most formal-sounding option.",
+        "is_correct": false
+      },
+      {
+        "text": "The correct choice works even if the situation and audience are ignored.",
+        "is_correct": false
+      },
+      {
+        "text": "The noun group identifies the hikers and were resting tells their continuing action.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The noun group identifies the hikers and were resting tells their continuing action.",
+      "hint": "Check the hikers' details and look for a helping word with the action."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 15,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LA07-T-016",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA07",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "replace_an_inaccurate_detail_test-reason",
+    "question": "A photo shows a smooth round pebble. Which noun group best replaces “the rough pebble”? Which reason best supports the correct choice?",
+    "audio_prompt": "A photo shows a smooth round pebble. Which noun group best replaces “the rough pebble”? Which reason best supports the correct choice?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Smooth and round accurately expand the noun pebble using the photo evidence.",
+        "is_correct": true
+      },
+      {
+        "text": "The correct choice is simply the most formal-sounding option.",
+        "is_correct": false
+      },
+      {
+        "text": "The correct choice works even if the situation and audience are ignored.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Smooth and round accurately expand the noun pebble using the photo evidence.",
+      "hint": "Replace the inaccurate detail and include both visible features."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 16,
+    "quality_schema": "student-facing-v3"
+  }
+]

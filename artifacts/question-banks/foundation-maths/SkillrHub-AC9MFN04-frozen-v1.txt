@@ -1,0 +1,463 @@
+SkillrHub Frozen Question Bank
+Foundation Maths — AC9MFN04
+Partition and combine collections up to 10
+
+Status: APPROVED FOR FREEZING by user review, with visual separation and wording edits applied.
+Version: frozen-v1
+
+Adult guidance: Read aloud. Children may use counters, fingers, drawings, or dot cards. The focus is seeing a whole collection split into two parts, or seeing two parts combined into one whole, up to 10. A vertical bar | separates the two parts of a collection.
+
+PRACTICE QUESTIONS 1–24
+
+P01. There are 5 counters. Some are red and some are blue.
+
+Red: ● ●
+Blue: ● ● ●
+
+Which shows the two parts?
+
+A. 2 and 3
+B. 3 and 3
+C. 5 and 2
+
+Answer: A
+Explanation: The collection is split into 2 red counters and 3 blue counters.
+
+P02. Look at the parts.
+
+Part A: ●
+Part B: ● ● ●
+
+How many counters altogether?
+
+A. 3
+B. 4
+C. 5
+
+Answer: B
+Explanation: One counter and three counters combine to make four.
+
+P03. Which parts make 6?
+
+A. 2 and 4
+B. 3 and 4
+C. 5 and 2
+
+Answer: A
+Explanation: Two and four combine to make six.
+
+P04. There are 7 counters altogether.
+
+Part A: ● ● ●
+Part B: ?
+
+How many counters are in Part B?
+
+A. 3
+B. 4
+C. 5
+
+Answer: B
+Explanation: Three and four make seven.
+
+P05. Which picture shows 4 and 2?
+
+A.
+● ● ● ● | ● ●
+
+B.
+● ● ● | ● ● ●
+
+C.
+● ● | ● ●
+
+Answer: A
+Explanation: Card A shows one part of 4 and one part of 2.
+
+P06. Which two parts make 5?
+
+A. 1 and 4
+B. 2 and 4
+C. 3 and 3
+
+Answer: A
+Explanation: One and four combine to make five.
+
+P07. There are 8 counters.
+
+● ● ● ● ● | ● ● ●
+
+Which way splits the group into two parts?
+
+A. 5 and 3
+B. 6 and 3
+C. 4 and 5
+
+Answer: A
+Explanation: The picture shows a part of five and a part of three.
+
+P08. Look at the whole.
+
+Whole: 9
+Part A: 5
+Part B: ?
+
+A. 3
+B. 4
+C. 5
+
+Answer: B
+Explanation: Five and four make nine.
+
+P09. Which number sentence matches the parts?
+
+● ● ● ● | ● ●
+
+A. 4 and 2 make 6
+B. 4 and 3 make 6
+C. 6 and 2 make 4
+
+Answer: A
+Explanation: The two parts are 4 and 2, and the whole is 6.
+
+P10. Which parts make 10?
+
+A. 5 and 5
+B. 5 and 4
+C. 6 and 5
+
+Answer: A
+Explanation: Five and five combine to make ten.
+
+P11. There are 6 counters altogether.
+
+● ● ● ● | ● ●
+
+Which sentence is true?
+
+A. 6 is 4 and 2
+B. 6 is 5 and 2
+C. 6 is 3 and 4
+
+Answer: A
+Explanation: The whole 6 is split into 4 and 2.
+
+P12. Which card shows 7 as 2 and 5?
+
+A.
+● ● | ● ● ● ● ●
+
+B.
+● ● ● | ● ● ● ●
+
+C.
+● ● ● ● | ● ●
+
+Answer: A
+Explanation: Card A shows 2 counters and 5 counters, which make 7.
+
+P13. Complete the parts.
+
+Whole: 8
+Part A: 6
+Part B: ?
+
+A. 1
+B. 2
+C. 3
+
+Answer: B
+Explanation: Six and two make eight.
+
+P14. Which parts make the same whole as 3 and 4?
+
+A. 5 and 2
+B. 5 and 3
+C. 4 and 4
+
+Answer: A
+Explanation: Three and four make seven. Five and two also make seven.
+
+P15. Challenge: Look at this collection split into three parts.
+
+● ● ● | ● ● | ●
+
+Which shows the parts?
+
+A. 3, 2 and 1
+B. 3 and 3
+C. 2 and 4
+
+Answer: A
+Explanation: The collection has three parts: 3, 2 and 1. Altogether they make 6. This is a challenge item; most questions use two parts.
+
+P16. Which two parts make 9?
+
+A. 4 and 5
+B. 4 and 4
+C. 5 and 5
+
+Answer: A
+Explanation: Four and five combine to make nine.
+
+P17. A child has 10 counters. They put 7 counters in one circle. How many counters go in the other circle?
+
+A. 2
+B. 3
+C. 4
+
+Answer: B
+Explanation: Seven and three make ten.
+
+P18. Which card shows 8 as 4 and 4?
+
+A.
+● ● ● ● | ● ● ● ●
+
+B.
+● ● ● ● ● | ● ● ●
+
+C.
+● ● ● | ● ● ● ●
+
+Answer: A
+Explanation: Card A shows 4 counters and 4 counters.
+
+P19. Which statement matches this part-part-whole picture?
+
+Part A: ● ● ● ● ●
+Part B: ● ● ●
+
+A. 5 and 3 make 8
+B. 5 and 2 make 8
+C. 3 and 3 make 8
+
+Answer: A
+Explanation: The two parts are 5 and 3. The whole is 8.
+
+P20. Whole: 7
+Part A: 1
+Part B: ?
+
+A. 5
+B. 6
+C. 7
+
+Answer: B
+Explanation: One and six make seven.
+
+P21. Which pair does not make 10?
+
+A. 6 and 4
+B. 8 and 2
+C. 7 and 2
+
+Answer: C
+Explanation: Seven and two make nine, not ten.
+
+P22. Which two parts make 4?
+
+A. 1 and 3
+B. 2 and 3
+C. 4 and 2
+
+Answer: A
+Explanation: One and three combine to make four.
+
+P23. The whole is 9. Which parts could show the whole?
+
+A. 6 and 3
+B. 6 and 4
+C. 5 and 5
+
+Answer: A
+Explanation: Six and three make nine.
+
+P24. Which number is missing?
+
+2 and ? make 8
+
+A. 4
+B. 5
+C. 6
+
+Answer: C
+Explanation: Two and six combine to make eight.
+
+TEST QUESTIONS 1–16
+
+T01. Look at the parts.
+
+Part A: ● ●
+Part B: ● ● ● ●
+
+How many counters altogether?
+
+A. 5
+B. 6
+C. 7
+
+Answer: B
+Explanation: Two and four combine to make six.
+
+T02. Which parts make 7?
+
+A. 3 and 4
+B. 3 and 5
+C. 4 and 4
+
+Answer: A
+Explanation: Three and four make seven.
+
+T03. Whole: 6
+Part A: 1
+Part B: ?
+
+A. 4
+B. 5
+C. 6
+
+Answer: B
+Explanation: One and five make six.
+
+T04. Which picture shows 5 and 4?
+
+A.
+● ● ● ● ● | ● ● ●
+
+B.
+● ● ● ● ● | ● ● ● ●
+
+C.
+● ● ● ● | ● ● ● ●
+
+Answer: B
+Explanation: Card B shows parts of 5 and 4.
+
+T05. Which two parts make 10?
+
+A. 6 and 4
+B. 6 and 3
+C. 5 and 4
+
+Answer: A
+Explanation: Six and four combine to make ten.
+
+T06. Whole: 8
+Part A: 3
+Part B: ?
+
+A. 4
+B. 5
+C. 6
+
+Answer: B
+Explanation: Three and five make eight.
+
+T07. Which number sentence matches the picture?
+
+● ● ● | ● ● ● ●
+
+A. 3 and 4 make 7
+B. 3 and 3 make 7
+C. 4 and 4 make 7
+
+Answer: A
+Explanation: The two parts are 3 and 4. The whole is 7.
+
+T08. Which card shows 9 as 5 and 4?
+
+A.
+● ● ● ● ● | ● ● ● ●
+
+B.
+● ● ● ● | ● ● ● ●
+
+C.
+● ● ● ● ● | ● ● ●
+
+Answer: A
+Explanation: Card A shows 5 counters and 4 counters.
+
+T09. Which pair makes the same whole as 2 and 5?
+
+A. 3 and 4
+B. 3 and 5
+C. 4 and 4
+
+Answer: A
+Explanation: Two and five make seven. Three and four also make seven.
+
+T10. Which pair does not make 8?
+
+A. 6 and 2
+B. 5 and 3
+C. 5 and 4
+
+Answer: C
+Explanation: Five and four make nine, not eight.
+
+T11. The whole is 10. One part is 2. What is the other part?
+
+A. 7
+B. 8
+C. 9
+
+Answer: B
+Explanation: Two and eight make ten.
+
+T12. Which statement is true?
+
+A. 4 and 4 make 8
+B. 4 and 5 make 8
+C. 5 and 5 make 8
+
+Answer: A
+Explanation: Four and four combine to make eight.
+
+T13. Look at the parts.
+
+● ● ● ● | ●
+
+Which whole do they make?
+
+A. 4
+B. 5
+C. 6
+
+Answer: B
+Explanation: Four and one make five.
+
+T14. Whole: 9
+Part A: 7
+Part B: ?
+
+A. 1
+B. 2
+C. 3
+
+Answer: B
+Explanation: Seven and two make nine.
+
+T15. Which parts could make 6?
+
+A. 5 and 1
+B. 5 and 2
+C. 6 and 1
+
+Answer: A
+Explanation: Five and one combine to make six.
+
+T16. Which answer gives a good reason?
+
+Whole: 8
+Parts: 5 and 3
+
+A. 5 and 3 combine to make 8.
+B. 5 is the same as 3.
+C. 8 is smaller than 5.
+
+Answer: A
+Explanation: The two parts, 5 and 3, combine to make the whole 8.
+
+Coverage: splitting collections up to 10 into parts; combining parts to find the whole; finding a missing part; recognising different partitions of the same whole; using part-part-whole reasoning with dots, numbers and simple statements.

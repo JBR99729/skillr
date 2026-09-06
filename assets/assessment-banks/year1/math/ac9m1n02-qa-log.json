@@ -1,0 +1,34 @@
+{
+  "curriculum_code": "AC9M1N02",
+  "scope": {
+    "practice": 56,
+    "test": 24,
+    "total": 80
+  },
+  "automated_fixes": {
+    "options_standardised_to_three": 80,
+    "explanations_split_into_summary_and_hint": 80,
+    "audio_prompts_added_for_system_tts": 80,
+    "visual_items_converted_to_svg_metadata": 27,
+    "answer_positions_rebalanced": 53
+  },
+  "internal_quality_scores": {
+    "minimum": 9,
+    "average": 9.4,
+    "below_9_count": 0
+  },
+  "flagged_for_awareness": [
+    {
+      "ids": [
+        "AC9M1N02-P-007",
+        "AC9M1N02-P-025",
+        "AC9M1N02-P-043",
+        "AC9M1N02-T-006",
+        "AC9M1N02-T-024"
+      ],
+      "reason": "Select-all items were rebuilt as single-answer questions whose correct option lists three equivalent partitions; this preserves the concept while meeting the three-option Year 1 interface standard."
+    }
+  ],
+  "manual_review_required": [],
+  "status": "ready_for_validation"
+}

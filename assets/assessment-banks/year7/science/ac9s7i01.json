@@ -1,0 +1,613 @@
+[
+  {
+    "id": "ac9s7i01-p-001",
+    "curriculum_code": "AC9S7I01",
+    "year_level": "Year 7",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "operationalise_a_variable",
+    "question": "A Year 7 student is investigating operationalise a variable. Which option is scientifically valid and best supported?",
+    "audio_prompt": "A Year 7 student is investigating operationalise a variable. Which option is scientifically valid and best supported?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "How does applied force affect acceleration when mass is controlled?",
+        "is_correct": true
+      },
+      {
+        "text": "Question contains desired answer",
+        "is_correct": false
+      },
+      {
+        "text": "Use neutral wording",
+        "is_correct": false
+      },
+      {
+        "text": "Question answerable through systematic evidence",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "How does applied force affect acceleration when mass is controlled?",
+      "hint": "Use neutral wording."
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
+  },
+  {
+    "id": "ac9s7i01-p-002",
+    "curriculum_code": "AC9S7I01",
+    "year_level": "Year 7",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "write_a_relationship_question",
+    "question": "A Year 7 student is investigating write a relationship question. Which option is scientifically valid and best supported?",
+    "audio_prompt": "A Year 7 student is investigating write a relationship question. Which option is scientifically valid and best supported?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Hypothesis cannot be challenged",
+        "is_correct": false
+      },
+      {
+        "text": "A hypothesis is not simply a prediction with ‘because’; it proposes a mechanism or relationship that evidence can support or challenge.",
+        "is_correct": true
+      },
+      {
+        "text": "Make a falsifiable relationship",
+        "is_correct": false
+      },
+      {
+        "text": "Question answerable through systematic evidence",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A hypothesis is not simply a prediction with ‘because’; it proposes a mechanism or relationship that evidence can support or challenge.",
+      "hint": "Make a falsifiable relationship."
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
+  },
+  {
+    "id": "ac9s7i01-p-003",
+    "curriculum_code": "AC9S7I01",
+    "year_level": "Year 7",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "distinguish_prediction_hypothesis",
+    "question": "A Year 7 student is investigating distinguish prediction hypothesis. Which option is scientifically valid and best supported?",
+    "audio_prompt": "A Year 7 student is investigating distinguish prediction hypothesis. Which option is scientifically valid and best supported?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Variable named but not measurable",
+        "is_correct": false
+      },
+      {
+        "text": "Define procedure and unit",
+        "is_correct": false
+      },
+      {
+        "text": "Vague concepts must be translated into observable procedures and units before a reproducible investigation can be planned.",
+        "is_correct": true
+      },
+      {
+        "text": "Question answerable through systematic evidence",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Vague concepts must be translated into observable procedures and units before a reproducible investigation can be planned.",
+      "hint": "Define procedure and unit."
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
+  },
+  {
+    "id": "ac9s7i01-p-004",
+    "curriculum_code": "AC9S7I01",
+    "year_level": "Year 7",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "name_controls",
+    "question": "A Year 7 student is investigating name controls. Which option is scientifically valid and best supported?",
+    "audio_prompt": "A Year 7 student is investigating name controls. Which option is scientifically valid and best supported?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Prediction rewritten after results",
+        "is_correct": false
+      },
+      {
+        "text": "Record it before testing",
+        "is_correct": false
+      },
+      {
+        "text": "Question answerable through systematic evidence",
+        "is_correct": false
+      },
+      {
+        "text": "An investigable question defines measurable variables; a prediction states an expected outcome; a hypothesis offers a testable explanatory relationship.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "An investigable question defines measurable variables; a prediction states an expected outcome; a hypothesis offers a testable explanatory relationship.",
+      "hint": "Record it before testing."
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
+  },
+  {
+    "id": "ac9s7i01-p-005",
+    "curriculum_code": "AC9S7I01",
+    "year_level": "Year 7",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "identify_falsifiable_evidence",
+    "question": "Which statement correctly identifies prediction in investigable questions, predictions and hypotheses?",
+    "audio_prompt": "Which statement correctly identifies prediction in investigable questions, predictions and hypotheses?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "How does applied force affect acceleration when mass is controlled?",
+        "is_correct": true
+      },
+      {
+        "text": "Question contains desired answer",
+        "is_correct": false
+      },
+      {
+        "text": "Use neutral wording",
+        "is_correct": false
+      },
+      {
+        "text": "Question answerable through systematic evidence",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "How does applied force affect acceleration when mass is controlled?",
+      "hint": "Use neutral wording."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
+  },
+  {
+    "id": "ac9s7i01-p-006",
+    "curriculum_code": "AC9S7I01",
+    "year_level": "Year 7",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "operationalise_a_variable",
+    "question": "Which choice best describes hypothesis in investigable questions, predictions and hypotheses?",
+    "audio_prompt": "Which choice best describes hypothesis in investigable questions, predictions and hypotheses?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Hypothesis cannot be challenged",
+        "is_correct": false
+      },
+      {
+        "text": "A hypothesis is not simply a prediction with ‘because’; it proposes a mechanism or relationship that evidence can support or challenge.",
+        "is_correct": true
+      },
+      {
+        "text": "Make a falsifiable relationship",
+        "is_correct": false
+      },
+      {
+        "text": "Question answerable through systematic evidence",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A hypothesis is not simply a prediction with ‘because’; it proposes a mechanism or relationship that evidence can support or challenge.",
+      "hint": "Make a falsifiable relationship."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
+  },
+  {
+    "id": "ac9s7i01-p-007",
+    "curriculum_code": "AC9S7I01",
+    "year_level": "Year 7",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "write_a_relationship_question",
+    "question": "What does correct use require for investigable question in investigable questions, predictions and hypotheses?",
+    "audio_prompt": "What does correct use require for investigable question in investigable questions, predictions and hypotheses?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Variable named but not measurable",
+        "is_correct": false
+      },
+      {
+        "text": "Define procedure and unit",
+        "is_correct": false
+      },
+      {
+        "text": "Vague concepts must be translated into observable procedures and units before a reproducible investigation can be planned.",
+        "is_correct": true
+      },
+      {
+        "text": "Question answerable through systematic evidence",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Vague concepts must be translated into observable procedures and units before a reproducible investigation can be planned.",
+      "hint": "Define procedure and unit."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
+  },
+  {
+    "id": "ac9s7i01-p-008",
+    "curriculum_code": "AC9S7I01",
+    "year_level": "Year 7",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "distinguish_prediction_hypothesis",
+    "question": "A Year 7 student is investigating distinguish prediction hypothesis. Which option is scientifically valid and best supported?",
+    "audio_prompt": "A Year 7 student is investigating distinguish prediction hypothesis. Which option is scientifically valid and best supported?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Prediction rewritten after results",
+        "is_correct": false
+      },
+      {
+        "text": "Record it before testing",
+        "is_correct": false
+      },
+      {
+        "text": "Question answerable through systematic evidence",
+        "is_correct": false
+      },
+      {
+        "text": "An investigable question defines measurable variables; a prediction states an expected outcome; a hypothesis offers a testable explanatory relationship.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "An investigable question defines measurable variables; a prediction states an expected outcome; a hypothesis offers a testable explanatory relationship.",
+      "hint": "Record it before testing."
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
+  },
+  {
+    "id": "ac9s7i01-t-001",
+    "curriculum_code": "AC9S7I01",
+    "year_level": "Year 7",
+    "subject": "science",
+    "bank": "test",
+    "skill": "name_controls",
+    "question": "A Year 7 student is investigating name controls. Which option is scientifically valid and best supported?",
+    "audio_prompt": "A Year 7 student is investigating name controls. Which option is scientifically valid and best supported?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "How does applied force affect acceleration when mass is controlled?",
+        "is_correct": true
+      },
+      {
+        "text": "Question contains desired answer",
+        "is_correct": false
+      },
+      {
+        "text": "Use neutral wording",
+        "is_correct": false
+      },
+      {
+        "text": "Question answerable through systematic evidence",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "How does applied force affect acceleration when mass is controlled?",
+      "hint": "Use neutral wording."
+    }
+  },
+  {
+    "id": "ac9s7i01-t-002",
+    "curriculum_code": "AC9S7I01",
+    "year_level": "Year 7",
+    "subject": "science",
+    "bank": "test",
+    "skill": "identify_falsifiable_evidence",
+    "question": "A Year 7 student is investigating identify falsifiable evidence. Which option is scientifically valid and best supported?",
+    "audio_prompt": "A Year 7 student is investigating identify falsifiable evidence. Which option is scientifically valid and best supported?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Hypothesis cannot be challenged",
+        "is_correct": false
+      },
+      {
+        "text": "A hypothesis is not simply a prediction with ‘because’; it proposes a mechanism or relationship that evidence can support or challenge.",
+        "is_correct": true
+      },
+      {
+        "text": "Make a falsifiable relationship",
+        "is_correct": false
+      },
+      {
+        "text": "Question answerable through systematic evidence",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A hypothesis is not simply a prediction with ‘because’; it proposes a mechanism or relationship that evidence can support or challenge.",
+      "hint": "Make a falsifiable relationship."
+    }
+  },
+  {
+    "id": "ac9s7i01-t-003",
+    "curriculum_code": "AC9S7I01",
+    "year_level": "Year 7",
+    "subject": "science",
+    "bank": "test",
+    "skill": "operationalise_a_variable",
+    "question": "A Year 7 student is investigating operationalise a variable. Which option is scientifically valid and best supported?",
+    "audio_prompt": "A Year 7 student is investigating operationalise a variable. Which option is scientifically valid and best supported?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Variable named but not measurable",
+        "is_correct": false
+      },
+      {
+        "text": "Define procedure and unit",
+        "is_correct": false
+      },
+      {
+        "text": "Vague concepts must be translated into observable procedures and units before a reproducible investigation can be planned.",
+        "is_correct": true
+      },
+      {
+        "text": "Question answerable through systematic evidence",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Vague concepts must be translated into observable procedures and units before a reproducible investigation can be planned.",
+      "hint": "Define procedure and unit."
+    }
+  },
+  {
+    "id": "ac9s7i01-t-004",
+    "curriculum_code": "AC9S7I01",
+    "year_level": "Year 7",
+    "subject": "science",
+    "bank": "test",
+    "skill": "write_a_relationship_question",
+    "question": "A Year 7 student is investigating write a relationship question. Which option is scientifically valid and best supported?",
+    "audio_prompt": "A Year 7 student is investigating write a relationship question. Which option is scientifically valid and best supported?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Prediction rewritten after results",
+        "is_correct": false
+      },
+      {
+        "text": "Record it before testing",
+        "is_correct": false
+      },
+      {
+        "text": "Question answerable through systematic evidence",
+        "is_correct": false
+      },
+      {
+        "text": "An investigable question defines measurable variables; a prediction states an expected outcome; a hypothesis offers a testable explanatory relationship.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "An investigable question defines measurable variables; a prediction states an expected outcome; a hypothesis offers a testable explanatory relationship.",
+      "hint": "Record it before testing."
+    }
+  },
+  {
+    "id": "ac9s7i01-t-005",
+    "curriculum_code": "AC9S7I01",
+    "year_level": "Year 7",
+    "subject": "science",
+    "bank": "test",
+    "skill": "distinguish_prediction_hypothesis",
+    "question": "What should be checked when applying distinguish prediction/hypothesis in investigable questions, predictions and hypotheses?",
+    "audio_prompt": "What should be checked when applying distinguish prediction/hypothesis in investigable questions, predictions and hypotheses?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "How does applied force affect acceleration when mass is controlled?",
+        "is_correct": true
+      },
+      {
+        "text": "Question contains desired answer",
+        "is_correct": false
+      },
+      {
+        "text": "Use neutral wording",
+        "is_correct": false
+      },
+      {
+        "text": "Question answerable through systematic evidence",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "How does applied force affect acceleration when mass is controlled?",
+      "hint": "Use neutral wording."
+    }
+  },
+  {
+    "id": "ac9s7i01-t-006",
+    "curriculum_code": "AC9S7I01",
+    "year_level": "Year 7",
+    "subject": "science",
+    "bank": "test",
+    "skill": "name_controls",
+    "question": "Which response best uses name controls in investigable questions, predictions and hypotheses?",
+    "audio_prompt": "Which response best uses name controls in investigable questions, predictions and hypotheses?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Hypothesis cannot be challenged",
+        "is_correct": false
+      },
+      {
+        "text": "A hypothesis is not simply a prediction with ‘because’; it proposes a mechanism or relationship that evidence can support or challenge.",
+        "is_correct": true
+      },
+      {
+        "text": "Make a falsifiable relationship",
+        "is_correct": false
+      },
+      {
+        "text": "Question answerable through systematic evidence",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A hypothesis is not simply a prediction with ‘because’; it proposes a mechanism or relationship that evidence can support or challenge.",
+      "hint": "Make a falsifiable relationship."
+    }
+  },
+  {
+    "id": "ac9s7i01-t-007",
+    "curriculum_code": "AC9S7I01",
+    "year_level": "Year 7",
+    "subject": "science",
+    "bank": "test",
+    "skill": "identify_falsifiable_evidence",
+    "question": "A Year 7 student is investigating identify falsifiable evidence. Which option is scientifically valid and best supported?",
+    "audio_prompt": "A Year 7 student is investigating identify falsifiable evidence. Which option is scientifically valid and best supported?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Variable named but not measurable",
+        "is_correct": false
+      },
+      {
+        "text": "Define procedure and unit",
+        "is_correct": false
+      },
+      {
+        "text": "Vague concepts must be translated into observable procedures and units before a reproducible investigation can be planned.",
+        "is_correct": true
+      },
+      {
+        "text": "Question answerable through systematic evidence",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Vague concepts must be translated into observable procedures and units before a reproducible investigation can be planned.",
+      "hint": "Define procedure and unit."
+    }
+  },
+  {
+    "id": "ac9s7i01-t-008",
+    "curriculum_code": "AC9S7I01",
+    "year_level": "Year 7",
+    "subject": "science",
+    "bank": "test",
+    "skill": "operationalise_a_variable",
+    "question": "A Year 7 student is investigating operationalise a variable. Which option is scientifically valid and best supported?",
+    "audio_prompt": "A Year 7 student is investigating operationalise a variable. Which option is scientifically valid and best supported?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Prediction rewritten after results",
+        "is_correct": false
+      },
+      {
+        "text": "Record it before testing",
+        "is_correct": false
+      },
+      {
+        "text": "Question answerable through systematic evidence",
+        "is_correct": false
+      },
+      {
+        "text": "An investigable question defines measurable variables; a prediction states an expected outcome; a hypothesis offers a testable explanatory relationship.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "An investigable question defines measurable variables; a prediction states an expected outcome; a hypothesis offers a testable explanatory relationship.",
+      "hint": "Record it before testing."
+    }
+  }
+]

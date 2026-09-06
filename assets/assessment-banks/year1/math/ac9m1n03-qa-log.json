@@ -1,0 +1,17 @@
+{
+  "curriculum_code": "AC9M1N03",
+  "source_counts": {
+    "practice": 56,
+    "test": 24
+  },
+  "output_items": 80,
+  "visual_items": 41,
+  "automated_quality_score": 9,
+  "fixes": [
+    "Converted all interactions to three-option Year 1 multiple choice.",
+    "Balanced correct positions separately across Practice and Test.",
+    "Added system read-aloud prompts, structured visual metadata, alt text, summaries and actionable hints.",
+    "Preserved unique authored contexts and retained existing counts above the 24/16 baseline."
+  ],
+  "flagged_for_awareness": []
+}

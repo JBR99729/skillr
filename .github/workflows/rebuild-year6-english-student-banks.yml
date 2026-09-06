@@ -1,0 +1,54 @@
+name: Rebuild Year 6 English student banks
+
+on:
+  push:
+    branches:
+      - qa/year6-english-student-facing
+    paths:
+      - scripts/build_year6_english_quality_banks.mjs
+      - assets/year6-english-data-la.js
+      - assets/year6-english-data-le.js
+      - assets/year6-english-data-ly.js
+      - .github/workflows/rebuild-year6-english-student-banks.yml
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  rebuild:
+    if: ${{ !contains(github.event.head_commit.message, '[skip year6-bank-rebuild]') }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout branch
+        uses: actions/checkout@v4
+        with:
+          ref: qa/year6-english-student-facing
+          fetch-depth: 0
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Rebuild all remaining Year 6 English banks
+        run: node scripts/build_year6_english_quality_banks.mjs
+
+      - name: Validate no teacher-facing stems remain
+        run: |
+          if grep -R -E "Which evidence would best show secure understanding|Which principle should guide a response|Which response plan best addresses|Which analytical move is strongest|Which approach best addresses this evaluation" quiz/year-6/english --include='questions.js' --include='practice-questions.js'; then
+            echo "Teacher-facing question stem remains in Year 6 English"
+            exit 1
+          fi
+
+      - name: Commit generated banks
+        run: |
+          if git diff --quiet; then
+            echo "No generated changes"
+            exit 0
+          fi
+          git config user.name "skillr-content-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add assets/assessment-banks/year6/english quiz/year-6/english
+          git commit -m "content: complete Year 6 English student-facing banks [skip year6-bank-rebuild]"
+          git push origin HEAD:qa/year6-english-student-facing

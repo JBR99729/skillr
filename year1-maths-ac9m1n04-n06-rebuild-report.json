@@ -1,0 +1,49 @@
+{
+  "standard": {
+    "practice": 28,
+    "test": 12,
+    "quiz": 50,
+    "totalPerCode": 90,
+    "qualityTarget": "8/10"
+  },
+  "codes": {
+    "AC9M1N04": {
+      "practice": 28,
+      "test": 12,
+      "quiz": 50,
+      "svgSupported": {
+        "practice": 27,
+        "test": 10,
+        "quiz": 8
+      },
+      "selfCheck": 0
+    },
+    "AC9M1N05": {
+      "practice": 28,
+      "test": 12,
+      "quiz": 50,
+      "svgSupported": {
+        "practice": 16,
+        "test": 5,
+        "quiz": 15
+      },
+      "selfCheck": 0
+    },
+    "AC9M1N06": {
+      "practice": 28,
+      "test": 12,
+      "quiz": 50,
+      "svgSupported": {
+        "practice": 19,
+        "test": 7,
+        "quiz": 20
+      },
+      "selfCheck": 0
+    }
+  },
+  "dailyDrillAdditions": {
+    "addition-subtraction-to-20": 24,
+    "skip-counting-equal-groups": 16,
+    "maths-vocabulary": 16
+  }
+}

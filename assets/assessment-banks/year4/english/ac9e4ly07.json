@@ -1,0 +1,1682 @@
+[
+  {
+    "id": "AC9E4LY07-P-001",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY07",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "Presentations",
+    "question": "In opening a talk about local frog habitats, which option best demonstrates the skill?",
+    "audio_prompt": "In opening a talk about local frog habitats, which option best demonstrates the skill?",
+    "answers": [
+      {
+        "text": "Um, frogs. I guess I will say stuff.",
+        "is_correct": false
+      },
+      {
+        "text": "I will begin with my final detail and never explain the topic.",
+        "is_correct": false
+      },
+      {
+        "text": "Today I will explain where local frogs live, what threatens them and how we can help.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A clear opening previews the topic and structure for the audience.",
+      "hint": "Tell listeners what they are about to learn."
+    }
+  },
+  {
+    "id": "AC9E4LY07-P-002",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY07",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "Presentations",
+    "question": "Which choice fits opening a talk about local frog habitats most accurately?",
+    "audio_prompt": "Which choice fits opening a talk about local frog habitats most accurately?",
+    "answers": [
+      {
+        "text": "Today I will explain where local frogs live, what threatens them and how we can help.",
+        "is_correct": true
+      },
+      {
+        "text": "Um, frogs. I guess I will say stuff.",
+        "is_correct": false
+      },
+      {
+        "text": "I will begin with my final detail and never explain the topic.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A clear opening previews the topic and structure for the audience.",
+      "hint": "Tell listeners what they are about to learn."
+    }
+  },
+  {
+    "id": "AC9E4LY07-P-003",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY07",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "Presentations",
+    "question": "Which choice fits supporting a claim in a presentation about litter most accurately?",
+    "audio_prompt": "Which choice fits supporting a claim in a presentation about litter most accurately?",
+    "answers": [
+      {
+        "text": "Say everyone knows litter is terrible.",
+        "is_correct": false
+      },
+      {
+        "text": "Use a council clean-up figure and explain how it supports the point about litter in local parks.",
+        "is_correct": true
+      },
+      {
+        "text": "Use an unrelated fact about rainfall.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Reliable, relevant evidence strengthens a claim when the link is explained.",
+      "hint": "Evidence must connect directly to the point."
+    }
+  },
+  {
+    "id": "AC9E4LY07-P-004",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY07",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "Presentations",
+    "question": "Look closely at supporting a claim in a presentation about litter. Which response or wording works best?",
+    "audio_prompt": "Look closely at supporting a claim in a presentation about litter. Which response or wording works best?",
+    "answers": [
+      {
+        "text": "Say everyone knows litter is terrible.",
+        "is_correct": false
+      },
+      {
+        "text": "Use an unrelated fact about rainfall.",
+        "is_correct": false
+      },
+      {
+        "text": "Use a council clean-up figure and explain how it supports the point about litter in local parks.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Reliable, relevant evidence strengthens a claim when the link is explained.",
+      "hint": "Evidence must connect directly to the point."
+    }
+  },
+  {
+    "id": "AC9E4LY07-P-005",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY07",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "Presentations",
+    "question": "Look closely at choosing language for a factual science presentation. Which response or wording works best?",
+    "audio_prompt": "Look closely at choosing language for a factual science presentation. Which response or wording works best?",
+    "answers": [
+      {
+        "text": "The water temperature increased by 4°C during the test.",
+        "is_correct": true
+      },
+      {
+        "text": "The water became super awesome hot.",
+        "is_correct": false
+      },
+      {
+        "text": "I feel the temperature was probably the best.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Objective language suits a factual report of measured results.",
+      "hint": "Match subjective or objective wording to the presentation purpose."
+    }
+  },
+  {
+    "id": "AC9E4LY07-P-006",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY07",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "Presentations",
+    "question": "For choosing language for a factual science presentation, which option is the strongest match?",
+    "audio_prompt": "For choosing language for a factual science presentation, which option is the strongest match?",
+    "answers": [
+      {
+        "text": "The water became super awesome hot.",
+        "is_correct": false
+      },
+      {
+        "text": "The water temperature increased by 4°C during the test.",
+        "is_correct": true
+      },
+      {
+        "text": "I feel the temperature was probably the best.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Objective language suits a factual report of measured results.",
+      "hint": "Match subjective or objective wording to the presentation purpose."
+    }
+  },
+  {
+    "id": "AC9E4LY07-P-007",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY07",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "Presentations",
+    "question": "For using a slide about the solar system, which option is the strongest match?",
+    "audio_prompt": "For using a slide about the solar system, which option is the strongest match?",
+    "answers": [
+      {
+        "text": "Fill the slide with tiny paragraphs and read every word.",
+        "is_correct": false
+      },
+      {
+        "text": "Use a decorative image that has no connection to the explanation.",
+        "is_correct": false
+      },
+      {
+        "text": "Show one clear labelled diagram while explaining the key relationships aloud.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A visual should extend or clarify the spoken message rather than compete with it.",
+      "hint": "Ask what the audience needs to see while listening."
+    }
+  },
+  {
+    "id": "AC9E4LY07-P-008",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY07",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "Presentations",
+    "question": "Which example should you choose for using a slide about the solar system?",
+    "audio_prompt": "Which example should you choose for using a slide about the solar system?",
+    "answers": [
+      {
+        "text": "Show one clear labelled diagram while explaining the key relationships aloud.",
+        "is_correct": true
+      },
+      {
+        "text": "Fill the slide with tiny paragraphs and read every word.",
+        "is_correct": false
+      },
+      {
+        "text": "Use a decorative image that has no connection to the explanation.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A visual should extend or clarify the spoken message rather than compete with it.",
+      "hint": "Ask what the audience needs to see while listening."
+    }
+  },
+  {
+    "id": "AC9E4LY07-P-009",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY07",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "Presentations",
+    "question": "Which example should you choose for speaking to a large assembly?",
+    "audio_prompt": "Which example should you choose for speaking to a large assembly?",
+    "answers": [
+      {
+        "text": "Rush quietly through every sentence.",
+        "is_correct": false
+      },
+      {
+        "text": "Use enough volume to be heard, a steady pace and pauses at key points.",
+        "is_correct": true
+      },
+      {
+        "text": "Shout every word at the same pitch.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Controlled volume, pace and pauses make meaning easier to follow.",
+      "hint": "Voice choices should support understanding, not simply make speech louder."
+    }
+  },
+  {
+    "id": "AC9E4LY07-P-010",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY07",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "Presentations",
+    "question": "In speaking to a large assembly, which option best demonstrates the skill?",
+    "audio_prompt": "In speaking to a large assembly, which option best demonstrates the skill?",
+    "answers": [
+      {
+        "text": "Rush quietly through every sentence.",
+        "is_correct": false
+      },
+      {
+        "text": "Shout every word at the same pitch.",
+        "is_correct": false
+      },
+      {
+        "text": "Use enough volume to be heard, a steady pace and pauses at key points.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Controlled volume, pace and pauses make meaning easier to follow.",
+      "hint": "Voice choices should support understanding, not simply make speech louder."
+    }
+  },
+  {
+    "id": "AC9E4LY07-P-011",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY07",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "Presentations",
+    "question": "Why does “Today I will explain where local frogs live, what threatens them and how we can help.” work well for opening a talk about local frog habitats?",
+    "audio_prompt": "Why does “Today I will explain where local frogs live, what threatens them and how we can help.” work well for opening a talk about local frog habitats?",
+    "answers": [
+      {
+        "text": "A clear opening previews the topic and structure for the audience.",
+        "is_correct": true
+      },
+      {
+        "text": "Because “Um, frogs. I guess I will say stuff.” is always acceptable in this situation.",
+        "is_correct": false
+      },
+      {
+        "text": "Because the longest or most complicated option must be correct.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A clear opening previews the topic and structure for the audience.",
+      "hint": "Tell listeners what they are about to learn."
+    }
+  },
+  {
+    "id": "AC9E4LY07-P-012",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY07",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "Presentations",
+    "question": "What makes “Today I will explain where local frogs live, what threatens them and how we can help.” a better choice in opening a talk about local frog habitats?",
+    "audio_prompt": "What makes “Today I will explain where local frogs live, what threatens them and how we can help.” a better choice in opening a talk about local frog habitats?",
+    "answers": [
+      {
+        "text": "Because “Um, frogs. I guess I will say stuff.” is always acceptable in this situation.",
+        "is_correct": false
+      },
+      {
+        "text": "A clear opening previews the topic and structure for the audience.",
+        "is_correct": true
+      },
+      {
+        "text": "Because the longest or most complicated option must be correct.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A clear opening previews the topic and structure for the audience.",
+      "hint": "Tell listeners what they are about to learn."
+    }
+  },
+  {
+    "id": "AC9E4LY07-P-013",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY07",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "Presentations",
+    "question": "What makes “Use a council clean-up figure and explain how it supports the point about litter in local parks.” a better choice in supporting a claim in a presentation about litter?",
+    "audio_prompt": "What makes “Use a council clean-up figure and explain how it supports the point about litter in local parks.” a better choice in supporting a claim in a presentation about litter?",
+    "answers": [
+      {
+        "text": "Because “Say everyone knows litter is terrible.” is always acceptable in this situation.",
+        "is_correct": false
+      },
+      {
+        "text": "Because the longest or most complicated option must be correct.",
+        "is_correct": false
+      },
+      {
+        "text": "Reliable, relevant evidence strengthens a claim when the link is explained.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Reliable, relevant evidence strengthens a claim when the link is explained.",
+      "hint": "Evidence must connect directly to the point."
+    }
+  },
+  {
+    "id": "AC9E4LY07-P-014",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY07",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "Presentations",
+    "question": "Which explanation best justifies “Use a council clean-up figure and explain how it supports the point about litter in local parks.” for supporting a claim in a presentation about litter?",
+    "audio_prompt": "Which explanation best justifies “Use a council clean-up figure and explain how it supports the point about litter in local parks.” for supporting a claim in a presentation about litter?",
+    "answers": [
+      {
+        "text": "Reliable, relevant evidence strengthens a claim when the link is explained.",
+        "is_correct": true
+      },
+      {
+        "text": "Because “Say everyone knows litter is terrible.” is always acceptable in this situation.",
+        "is_correct": false
+      },
+      {
+        "text": "Because the longest or most complicated option must be correct.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Reliable, relevant evidence strengthens a claim when the link is explained.",
+      "hint": "Evidence must connect directly to the point."
+    }
+  },
+  {
+    "id": "AC9E4LY07-P-015",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY07",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "Presentations",
+    "question": "Which explanation best justifies “The water temperature increased by 4°C during the test.” for choosing language for a factual science presentation?",
+    "audio_prompt": "Which explanation best justifies “The water temperature increased by 4°C during the test.” for choosing language for a factual science presentation?",
+    "answers": [
+      {
+        "text": "Because “The water became super awesome hot.” is always acceptable in this situation.",
+        "is_correct": false
+      },
+      {
+        "text": "Objective language suits a factual report of measured results.",
+        "is_correct": true
+      },
+      {
+        "text": "Because the longest or most complicated option must be correct.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Objective language suits a factual report of measured results.",
+      "hint": "Match subjective or objective wording to the presentation purpose."
+    }
+  },
+  {
+    "id": "AC9E4LY07-P-016",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY07",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "Presentations",
+    "question": "What should you notice about “The water temperature increased by 4°C during the test.” in choosing language for a factual science presentation?",
+    "audio_prompt": "What should you notice about “The water temperature increased by 4°C during the test.” in choosing language for a factual science presentation?",
+    "answers": [
+      {
+        "text": "Because “The water became super awesome hot.” is always acceptable in this situation.",
+        "is_correct": false
+      },
+      {
+        "text": "Because the longest or most complicated option must be correct.",
+        "is_correct": false
+      },
+      {
+        "text": "Objective language suits a factual report of measured results.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Objective language suits a factual report of measured results.",
+      "hint": "Match subjective or objective wording to the presentation purpose."
+    }
+  },
+  {
+    "id": "AC9E4LY07-P-017",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY07",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "Presentations",
+    "question": "What should you notice about “Show one clear labelled diagram while explaining the key relationships aloud.” in using a slide about the solar system?",
+    "audio_prompt": "What should you notice about “Show one clear labelled diagram while explaining the key relationships aloud.” in using a slide about the solar system?",
+    "answers": [
+      {
+        "text": "A visual should extend or clarify the spoken message rather than compete with it.",
+        "is_correct": true
+      },
+      {
+        "text": "Because “Fill the slide with tiny paragraphs and read every word.” is always acceptable in this situation.",
+        "is_correct": false
+      },
+      {
+        "text": "Because the longest or most complicated option must be correct.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A visual should extend or clarify the spoken message rather than compete with it.",
+      "hint": "Ask what the audience needs to see while listening."
+    }
+  },
+  {
+    "id": "AC9E4LY07-P-018",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY07",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "Presentations",
+    "question": "Which reason explains why “Show one clear labelled diagram while explaining the key relationships aloud.” suits using a slide about the solar system?",
+    "audio_prompt": "Which reason explains why “Show one clear labelled diagram while explaining the key relationships aloud.” suits using a slide about the solar system?",
+    "answers": [
+      {
+        "text": "Because “Fill the slide with tiny paragraphs and read every word.” is always acceptable in this situation.",
+        "is_correct": false
+      },
+      {
+        "text": "A visual should extend or clarify the spoken message rather than compete with it.",
+        "is_correct": true
+      },
+      {
+        "text": "Because the longest or most complicated option must be correct.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A visual should extend or clarify the spoken message rather than compete with it.",
+      "hint": "Ask what the audience needs to see while listening."
+    }
+  },
+  {
+    "id": "AC9E4LY07-P-019",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY07",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "Presentations",
+    "question": "Which reason explains why “Use enough volume to be heard, a steady pace and pauses at key points.” suits speaking to a large assembly?",
+    "audio_prompt": "Which reason explains why “Use enough volume to be heard, a steady pace and pauses at key points.” suits speaking to a large assembly?",
+    "answers": [
+      {
+        "text": "Because “Rush quietly through every sentence.” is always acceptable in this situation.",
+        "is_correct": false
+      },
+      {
+        "text": "Because the longest or most complicated option must be correct.",
+        "is_correct": false
+      },
+      {
+        "text": "Controlled volume, pace and pauses make meaning easier to follow.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Controlled volume, pace and pauses make meaning easier to follow.",
+      "hint": "Voice choices should support understanding, not simply make speech louder."
+    }
+  },
+  {
+    "id": "AC9E4LY07-P-020",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY07",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "Presentations",
+    "question": "Why does “Use enough volume to be heard, a steady pace and pauses at key points.” work well for speaking to a large assembly?",
+    "audio_prompt": "Why does “Use enough volume to be heard, a steady pace and pauses at key points.” work well for speaking to a large assembly?",
+    "answers": [
+      {
+        "text": "Controlled volume, pace and pauses make meaning easier to follow.",
+        "is_correct": true
+      },
+      {
+        "text": "Because “Rush quietly through every sentence.” is always acceptable in this situation.",
+        "is_correct": false
+      },
+      {
+        "text": "Because the longest or most complicated option must be correct.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Controlled volume, pace and pauses make meaning easier to follow.",
+      "hint": "Voice choices should support understanding, not simply make speech louder."
+    }
+  },
+  {
+    "id": "AC9E4LY07-P-021",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY07",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "Presentations",
+    "question": "Which revision best fixes the problem in “Um, frogs. I guess I will say stuff.” for opening a talk about local frog habitats?",
+    "audio_prompt": "Which revision best fixes the problem in “Um, frogs. I guess I will say stuff.” for opening a talk about local frog habitats?",
+    "answers": [
+      {
+        "text": "Um, frogs. I guess I will say stuff.",
+        "is_correct": false
+      },
+      {
+        "text": "Today I will explain where local frogs live, what threatens them and how we can help.",
+        "is_correct": true
+      },
+      {
+        "text": "I will begin with my final detail and never explain the topic.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A clear opening previews the topic and structure for the audience. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Tell listeners what they are about to learn."
+    }
+  },
+  {
+    "id": "AC9E4LY07-P-022",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY07",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "Presentations",
+    "question": "Compare the choices for opening a talk about local frog habitats. Which one avoids the mistake in “Um, frogs. I guess I will say stuff.”?",
+    "audio_prompt": "Compare the choices for opening a talk about local frog habitats. Which one avoids the mistake in “Um, frogs. I guess I will say stuff.”?",
+    "answers": [
+      {
+        "text": "Um, frogs. I guess I will say stuff.",
+        "is_correct": false
+      },
+      {
+        "text": "I will begin with my final detail and never explain the topic.",
+        "is_correct": false
+      },
+      {
+        "text": "Today I will explain where local frogs live, what threatens them and how we can help.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A clear opening previews the topic and structure for the audience. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Tell listeners what they are about to learn."
+    }
+  },
+  {
+    "id": "AC9E4LY07-P-023",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY07",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "Presentations",
+    "question": "Compare the choices for supporting a claim in a presentation about litter. Which one avoids the mistake in “Say everyone knows litter is terrible.”?",
+    "audio_prompt": "Compare the choices for supporting a claim in a presentation about litter. Which one avoids the mistake in “Say everyone knows litter is terrible.”?",
+    "answers": [
+      {
+        "text": "Use a council clean-up figure and explain how it supports the point about litter in local parks.",
+        "is_correct": true
+      },
+      {
+        "text": "Say everyone knows litter is terrible.",
+        "is_correct": false
+      },
+      {
+        "text": "Use an unrelated fact about rainfall.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Reliable, relevant evidence strengthens a claim when the link is explained. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Evidence must connect directly to the point."
+    }
+  },
+  {
+    "id": "AC9E4LY07-P-024",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY07",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "Presentations",
+    "question": "If “Say everyone knows litter is terrible.” does not work in supporting a claim in a presentation about litter, what should replace it?",
+    "audio_prompt": "If “Say everyone knows litter is terrible.” does not work in supporting a claim in a presentation about litter, what should replace it?",
+    "answers": [
+      {
+        "text": "Say everyone knows litter is terrible.",
+        "is_correct": false
+      },
+      {
+        "text": "Use a council clean-up figure and explain how it supports the point about litter in local parks.",
+        "is_correct": true
+      },
+      {
+        "text": "Use an unrelated fact about rainfall.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Reliable, relevant evidence strengthens a claim when the link is explained. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Evidence must connect directly to the point."
+    }
+  },
+  {
+    "id": "AC9E4LY07-P-025",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY07",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "Presentations",
+    "question": "If “The water became super awesome hot.” does not work in choosing language for a factual science presentation, what should replace it?",
+    "audio_prompt": "If “The water became super awesome hot.” does not work in choosing language for a factual science presentation, what should replace it?",
+    "answers": [
+      {
+        "text": "The water became super awesome hot.",
+        "is_correct": false
+      },
+      {
+        "text": "I feel the temperature was probably the best.",
+        "is_correct": false
+      },
+      {
+        "text": "The water temperature increased by 4°C during the test.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Objective language suits a factual report of measured results. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Match subjective or objective wording to the presentation purpose."
+    }
+  },
+  {
+    "id": "AC9E4LY07-P-026",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY07",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "Presentations",
+    "question": "Which option corrects the meaning or form needed for choosing language for a factual science presentation?",
+    "audio_prompt": "Which option corrects the meaning or form needed for choosing language for a factual science presentation?",
+    "answers": [
+      {
+        "text": "The water temperature increased by 4°C during the test.",
+        "is_correct": true
+      },
+      {
+        "text": "The water became super awesome hot.",
+        "is_correct": false
+      },
+      {
+        "text": "I feel the temperature was probably the best.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Objective language suits a factual report of measured results. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Match subjective or objective wording to the presentation purpose."
+    }
+  },
+  {
+    "id": "AC9E4LY07-P-027",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY07",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "Presentations",
+    "question": "Which option corrects the meaning or form needed for using a slide about the solar system?",
+    "audio_prompt": "Which option corrects the meaning or form needed for using a slide about the solar system?",
+    "answers": [
+      {
+        "text": "Fill the slide with tiny paragraphs and read every word.",
+        "is_correct": false
+      },
+      {
+        "text": "Show one clear labelled diagram while explaining the key relationships aloud.",
+        "is_correct": true
+      },
+      {
+        "text": "Use a decorative image that has no connection to the explanation.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A visual should extend or clarify the spoken message rather than compete with it. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Ask what the audience needs to see while listening."
+    }
+  },
+  {
+    "id": "AC9E4LY07-P-028",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY07",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "Presentations",
+    "question": "Which choice is the clearest correction for using a slide about the solar system?",
+    "audio_prompt": "Which choice is the clearest correction for using a slide about the solar system?",
+    "answers": [
+      {
+        "text": "Fill the slide with tiny paragraphs and read every word.",
+        "is_correct": false
+      },
+      {
+        "text": "Use a decorative image that has no connection to the explanation.",
+        "is_correct": false
+      },
+      {
+        "text": "Show one clear labelled diagram while explaining the key relationships aloud.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A visual should extend or clarify the spoken message rather than compete with it. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Ask what the audience needs to see while listening."
+    }
+  },
+  {
+    "id": "AC9E4LY07-P-029",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY07",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "Presentations",
+    "question": "Which choice is the clearest correction for speaking to a large assembly?",
+    "audio_prompt": "Which choice is the clearest correction for speaking to a large assembly?",
+    "answers": [
+      {
+        "text": "Use enough volume to be heard, a steady pace and pauses at key points.",
+        "is_correct": true
+      },
+      {
+        "text": "Rush quietly through every sentence.",
+        "is_correct": false
+      },
+      {
+        "text": "Shout every word at the same pitch.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Controlled volume, pace and pauses make meaning easier to follow. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Voice choices should support understanding, not simply make speech louder."
+    }
+  },
+  {
+    "id": "AC9E4LY07-P-030",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY07",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "Presentations",
+    "question": "Which revision best fixes the problem in “Rush quietly through every sentence.” for speaking to a large assembly?",
+    "audio_prompt": "Which revision best fixes the problem in “Rush quietly through every sentence.” for speaking to a large assembly?",
+    "answers": [
+      {
+        "text": "Rush quietly through every sentence.",
+        "is_correct": false
+      },
+      {
+        "text": "Use enough volume to be heard, a steady pace and pauses at key points.",
+        "is_correct": true
+      },
+      {
+        "text": "Shout every word at the same pitch.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Controlled volume, pace and pauses make meaning easier to follow. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Voice choices should support understanding, not simply make speech louder."
+    }
+  },
+  {
+    "id": "AC9E4LY07-P-031",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY07",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Presentations",
+    "question": "You now need to handle opening a talk about local frog habitats independently. Which choice should you use?",
+    "audio_prompt": "You now need to handle opening a talk about local frog habitats independently. Which choice should you use?",
+    "answers": [
+      {
+        "text": "I will begin with my final detail and never explain the topic.",
+        "is_correct": false
+      },
+      {
+        "text": "Um, frogs. I guess I will say stuff.",
+        "is_correct": false
+      },
+      {
+        "text": "Today I will explain where local frogs live, what threatens them and how we can help.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A clear opening previews the topic and structure for the audience.",
+      "hint": "Tell listeners what they are about to learn."
+    }
+  },
+  {
+    "id": "AC9E4LY07-P-032",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY07",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Presentations",
+    "question": "Apply the same idea to opening a talk about local frog habitats. Which option is best?",
+    "audio_prompt": "Apply the same idea to opening a talk about local frog habitats. Which option is best?",
+    "answers": [
+      {
+        "text": "Today I will explain where local frogs live, what threatens them and how we can help.",
+        "is_correct": true
+      },
+      {
+        "text": "I will begin with my final detail and never explain the topic.",
+        "is_correct": false
+      },
+      {
+        "text": "Um, frogs. I guess I will say stuff.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A clear opening previews the topic and structure for the audience.",
+      "hint": "Tell listeners what they are about to learn."
+    }
+  },
+  {
+    "id": "AC9E4LY07-P-033",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY07",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Presentations",
+    "question": "Apply the same idea to supporting a claim in a presentation about litter. Which option is best?",
+    "audio_prompt": "Apply the same idea to supporting a claim in a presentation about litter. Which option is best?",
+    "answers": [
+      {
+        "text": "Use an unrelated fact about rainfall.",
+        "is_correct": false
+      },
+      {
+        "text": "Use a council clean-up figure and explain how it supports the point about litter in local parks.",
+        "is_correct": true
+      },
+      {
+        "text": "Say everyone knows litter is terrible.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Reliable, relevant evidence strengthens a claim when the link is explained.",
+      "hint": "Evidence must connect directly to the point."
+    }
+  },
+  {
+    "id": "AC9E4LY07-P-034",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY07",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Presentations",
+    "question": "Which decision would produce the clearest result in supporting a claim in a presentation about litter?",
+    "audio_prompt": "Which decision would produce the clearest result in supporting a claim in a presentation about litter?",
+    "answers": [
+      {
+        "text": "Use an unrelated fact about rainfall.",
+        "is_correct": false
+      },
+      {
+        "text": "Say everyone knows litter is terrible.",
+        "is_correct": false
+      },
+      {
+        "text": "Use a council clean-up figure and explain how it supports the point about litter in local parks.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Reliable, relevant evidence strengthens a claim when the link is explained.",
+      "hint": "Evidence must connect directly to the point."
+    }
+  },
+  {
+    "id": "AC9E4LY07-P-035",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY07",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Presentations",
+    "question": "Which decision would produce the clearest result in choosing language for a factual science presentation?",
+    "audio_prompt": "Which decision would produce the clearest result in choosing language for a factual science presentation?",
+    "answers": [
+      {
+        "text": "The water temperature increased by 4°C during the test.",
+        "is_correct": true
+      },
+      {
+        "text": "I feel the temperature was probably the best.",
+        "is_correct": false
+      },
+      {
+        "text": "The water became super awesome hot.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Objective language suits a factual report of measured results.",
+      "hint": "Match subjective or objective wording to the presentation purpose."
+    }
+  },
+  {
+    "id": "AC9E4LY07-P-036",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY07",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Presentations",
+    "question": "Choose the option that applies the skill correctly in choosing language for a factual science presentation.",
+    "audio_prompt": "Choose the option that applies the skill correctly in choosing language for a factual science presentation.",
+    "answers": [
+      {
+        "text": "I feel the temperature was probably the best.",
+        "is_correct": false
+      },
+      {
+        "text": "The water temperature increased by 4°C during the test.",
+        "is_correct": true
+      },
+      {
+        "text": "The water became super awesome hot.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Objective language suits a factual report of measured results.",
+      "hint": "Match subjective or objective wording to the presentation purpose."
+    }
+  },
+  {
+    "id": "AC9E4LY07-P-037",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY07",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Presentations",
+    "question": "Choose the option that applies the skill correctly in using a slide about the solar system.",
+    "audio_prompt": "Choose the option that applies the skill correctly in using a slide about the solar system.",
+    "answers": [
+      {
+        "text": "Use a decorative image that has no connection to the explanation.",
+        "is_correct": false
+      },
+      {
+        "text": "Fill the slide with tiny paragraphs and read every word.",
+        "is_correct": false
+      },
+      {
+        "text": "Show one clear labelled diagram while explaining the key relationships aloud.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A visual should extend or clarify the spoken message rather than compete with it.",
+      "hint": "Ask what the audience needs to see while listening."
+    }
+  },
+  {
+    "id": "AC9E4LY07-P-038",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY07",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Presentations",
+    "question": "What would be the most effective choice for using a slide about the solar system?",
+    "audio_prompt": "What would be the most effective choice for using a slide about the solar system?",
+    "answers": [
+      {
+        "text": "Show one clear labelled diagram while explaining the key relationships aloud.",
+        "is_correct": true
+      },
+      {
+        "text": "Use a decorative image that has no connection to the explanation.",
+        "is_correct": false
+      },
+      {
+        "text": "Fill the slide with tiny paragraphs and read every word.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A visual should extend or clarify the spoken message rather than compete with it.",
+      "hint": "Ask what the audience needs to see while listening."
+    }
+  },
+  {
+    "id": "AC9E4LY07-P-039",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY07",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Presentations",
+    "question": "What would be the most effective choice for speaking to a large assembly?",
+    "audio_prompt": "What would be the most effective choice for speaking to a large assembly?",
+    "answers": [
+      {
+        "text": "Shout every word at the same pitch.",
+        "is_correct": false
+      },
+      {
+        "text": "Use enough volume to be heard, a steady pace and pauses at key points.",
+        "is_correct": true
+      },
+      {
+        "text": "Rush quietly through every sentence.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Controlled volume, pace and pauses make meaning easier to follow.",
+      "hint": "Voice choices should support understanding, not simply make speech louder."
+    }
+  },
+  {
+    "id": "AC9E4LY07-P-040",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY07",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Presentations",
+    "question": "You now need to handle speaking to a large assembly independently. Which choice should you use?",
+    "audio_prompt": "You now need to handle speaking to a large assembly independently. Which choice should you use?",
+    "answers": [
+      {
+        "text": "Shout every word at the same pitch.",
+        "is_correct": false
+      },
+      {
+        "text": "Rush quietly through every sentence.",
+        "is_correct": false
+      },
+      {
+        "text": "Use enough volume to be heard, a steady pace and pauses at key points.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Controlled volume, pace and pauses make meaning easier to follow.",
+      "hint": "Voice choices should support understanding, not simply make speech louder."
+    }
+  },
+  {
+    "id": "AC9E4LY07-T-001",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY07",
+    "bank": "test",
+    "stage": "verify",
+    "skill": "Presentations",
+    "question": "New context: presenting a recommendation to the school council. Which option is correct?",
+    "audio_prompt": "New context: presenting a recommendation to the school council. Which option is correct?",
+    "answers": [
+      {
+        "text": "State the recommendation, give two strong reasons with evidence, then finish with the action requested.",
+        "is_correct": true
+      },
+      {
+        "text": "List unrelated facts with no recommendation.",
+        "is_correct": false
+      },
+      {
+        "text": "Give the requested action before explaining the topic and never return to it.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A persuasive presentation needs a visible line from position to reasons to requested action.",
+      "hint": "Make the structure easy for listeners to follow."
+    }
+  },
+  {
+    "id": "AC9E4LY07-T-002",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY07",
+    "bank": "test",
+    "stage": "verify",
+    "skill": "Presentations",
+    "question": "What is the best choice for presenting a recommendation to the school council?",
+    "audio_prompt": "What is the best choice for presenting a recommendation to the school council?",
+    "answers": [
+      {
+        "text": "List unrelated facts with no recommendation.",
+        "is_correct": false
+      },
+      {
+        "text": "State the recommendation, give two strong reasons with evidence, then finish with the action requested.",
+        "is_correct": true
+      },
+      {
+        "text": "Give the requested action before explaining the topic and never return to it.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A persuasive presentation needs a visible line from position to reasons to requested action.",
+      "hint": "Make the structure easy for listeners to follow."
+    }
+  },
+  {
+    "id": "AC9E4LY07-T-003",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY07",
+    "bank": "test",
+    "stage": "verify",
+    "skill": "Presentations",
+    "question": "Which explanation best supports “State the recommendation, give two strong reasons with evidence, then finish with the action requested.” in presenting a recommendation to the school council?",
+    "audio_prompt": "Which explanation best supports “State the recommendation, give two strong reasons with evidence, then finish with the action requested.” in presenting a recommendation to the school council?",
+    "answers": [
+      {
+        "text": "Because “List unrelated facts with no recommendation.” is always a safe choice.",
+        "is_correct": false
+      },
+      {
+        "text": "Because surface appearance matters more than meaning.",
+        "is_correct": false
+      },
+      {
+        "text": "A persuasive presentation needs a visible line from position to reasons to requested action.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A persuasive presentation needs a visible line from position to reasons to requested action.",
+      "hint": "Make the structure easy for listeners to follow."
+    }
+  },
+  {
+    "id": "AC9E4LY07-T-004",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY07",
+    "bank": "test",
+    "stage": "verify",
+    "skill": "Presentations",
+    "question": "Which clue should guide your decision in presenting a recommendation to the school council?",
+    "audio_prompt": "Which clue should guide your decision in presenting a recommendation to the school council?",
+    "answers": [
+      {
+        "text": "Make the structure easy for listeners to follow.",
+        "is_correct": true
+      },
+      {
+        "text": "Choose the option with the most words.",
+        "is_correct": false
+      },
+      {
+        "text": "Ignore the context and use the first familiar form.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A persuasive presentation needs a visible line from position to reasons to requested action.",
+      "hint": "Make the structure easy for listeners to follow."
+    }
+  },
+  {
+    "id": "AC9E4LY07-T-005",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY07",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "Presentations",
+    "question": "Which option would you reject first in presenting a recommendation to the school council?",
+    "audio_prompt": "Which option would you reject first in presenting a recommendation to the school council?",
+    "answers": [
+      {
+        "text": "State the recommendation, give two strong reasons with evidence, then finish with the action requested.",
+        "is_correct": false
+      },
+      {
+        "text": "List unrelated facts with no recommendation.",
+        "is_correct": true
+      },
+      {
+        "text": "Give the requested action before explaining the topic and never return to it.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The rejected choice conflicts with the exact meaning, form or situation being tested. A persuasive presentation needs a visible line from position to reasons to requested action.",
+      "hint": "Make the structure easy for listeners to follow."
+    }
+  },
+  {
+    "id": "AC9E4LY07-T-006",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY07",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "Presentations",
+    "question": "Which correction should replace “List unrelated facts with no recommendation.” in presenting a recommendation to the school council?",
+    "audio_prompt": "Which correction should replace “List unrelated facts with no recommendation.” in presenting a recommendation to the school council?",
+    "answers": [
+      {
+        "text": "List unrelated facts with no recommendation.",
+        "is_correct": false
+      },
+      {
+        "text": "Give the requested action before explaining the topic and never return to it.",
+        "is_correct": false
+      },
+      {
+        "text": "State the recommendation, give two strong reasons with evidence, then finish with the action requested.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A persuasive presentation needs a visible line from position to reasons to requested action.",
+      "hint": "Make the structure easy for listeners to follow."
+    }
+  },
+  {
+    "id": "AC9E4LY07-T-007",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY07",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "Presentations",
+    "question": "Apply the skill to presenting a recommendation to the school council: what should you choose?",
+    "audio_prompt": "Apply the skill to presenting a recommendation to the school council: what should you choose?",
+    "answers": [
+      {
+        "text": "State the recommendation, give two strong reasons with evidence, then finish with the action requested.",
+        "is_correct": true
+      },
+      {
+        "text": "List unrelated facts with no recommendation.",
+        "is_correct": false
+      },
+      {
+        "text": "Give the requested action before explaining the topic and never return to it.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A persuasive presentation needs a visible line from position to reasons to requested action.",
+      "hint": "Make the structure easy for listeners to follow."
+    }
+  },
+  {
+    "id": "AC9E4LY07-T-008",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY07",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "Presentations",
+    "question": "Which final choice gives the clearest and most accurate result for presenting a recommendation to the school council?",
+    "audio_prompt": "Which final choice gives the clearest and most accurate result for presenting a recommendation to the school council?",
+    "answers": [
+      {
+        "text": "List unrelated facts with no recommendation.",
+        "is_correct": false
+      },
+      {
+        "text": "State the recommendation, give two strong reasons with evidence, then finish with the action requested.",
+        "is_correct": true
+      },
+      {
+        "text": "Give the requested action before explaining the topic and never return to it.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A persuasive presentation needs a visible line from position to reasons to requested action.",
+      "hint": "Make the structure easy for listeners to follow."
+    }
+  },
+  {
+    "id": "AC9E4LY07-T-009",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY07",
+    "bank": "test",
+    "stage": "verify",
+    "skill": "Presentations",
+    "question": "New context: answering a question after a presentation. Which option is correct?",
+    "audio_prompt": "New context: answering a question after a presentation. Which option is correct?",
+    "answers": [
+      {
+        "text": "Repeat the entire presentation regardless of the question.",
+        "is_correct": false
+      },
+      {
+        "text": "Guess confidently even when you do not know.",
+        "is_correct": false
+      },
+      {
+        "text": "Pause, answer the exact question and refer back to evidence from the talk if useful.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A focused response respects the audience and keeps the discussion connected to the presentation.",
+      "hint": "Listen for what is actually being asked."
+    }
+  },
+  {
+    "id": "AC9E4LY07-T-010",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY07",
+    "bank": "test",
+    "stage": "verify",
+    "skill": "Presentations",
+    "question": "What is the best choice for answering a question after a presentation?",
+    "audio_prompt": "What is the best choice for answering a question after a presentation?",
+    "answers": [
+      {
+        "text": "Pause, answer the exact question and refer back to evidence from the talk if useful.",
+        "is_correct": true
+      },
+      {
+        "text": "Repeat the entire presentation regardless of the question.",
+        "is_correct": false
+      },
+      {
+        "text": "Guess confidently even when you do not know.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A focused response respects the audience and keeps the discussion connected to the presentation.",
+      "hint": "Listen for what is actually being asked."
+    }
+  },
+  {
+    "id": "AC9E4LY07-T-011",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY07",
+    "bank": "test",
+    "stage": "verify",
+    "skill": "Presentations",
+    "question": "Which explanation best supports “Pause, answer the exact question and refer back to evidence from the talk if useful.” in answering a question after a presentation?",
+    "audio_prompt": "Which explanation best supports “Pause, answer the exact question and refer back to evidence from the talk if useful.” in answering a question after a presentation?",
+    "answers": [
+      {
+        "text": "Because “Repeat the entire presentation regardless of the question.” is always a safe choice.",
+        "is_correct": false
+      },
+      {
+        "text": "A focused response respects the audience and keeps the discussion connected to the presentation.",
+        "is_correct": true
+      },
+      {
+        "text": "Because surface appearance matters more than meaning.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A focused response respects the audience and keeps the discussion connected to the presentation.",
+      "hint": "Listen for what is actually being asked."
+    }
+  },
+  {
+    "id": "AC9E4LY07-T-012",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY07",
+    "bank": "test",
+    "stage": "verify",
+    "skill": "Presentations",
+    "question": "Which clue should guide your decision in answering a question after a presentation?",
+    "audio_prompt": "Which clue should guide your decision in answering a question after a presentation?",
+    "answers": [
+      {
+        "text": "Choose the option with the most words.",
+        "is_correct": false
+      },
+      {
+        "text": "Ignore the context and use the first familiar form.",
+        "is_correct": false
+      },
+      {
+        "text": "Listen for what is actually being asked.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A focused response respects the audience and keeps the discussion connected to the presentation.",
+      "hint": "Listen for what is actually being asked."
+    }
+  },
+  {
+    "id": "AC9E4LY07-T-013",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY07",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "Presentations",
+    "question": "Which option would you reject first in answering a question after a presentation?",
+    "audio_prompt": "Which option would you reject first in answering a question after a presentation?",
+    "answers": [
+      {
+        "text": "Repeat the entire presentation regardless of the question.",
+        "is_correct": true
+      },
+      {
+        "text": "Pause, answer the exact question and refer back to evidence from the talk if useful.",
+        "is_correct": false
+      },
+      {
+        "text": "Guess confidently even when you do not know.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The rejected choice conflicts with the exact meaning, form or situation being tested. A focused response respects the audience and keeps the discussion connected to the presentation.",
+      "hint": "Listen for what is actually being asked."
+    }
+  },
+  {
+    "id": "AC9E4LY07-T-014",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY07",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "Presentations",
+    "question": "Which correction should replace “Repeat the entire presentation regardless of the question.” in answering a question after a presentation?",
+    "audio_prompt": "Which correction should replace “Repeat the entire presentation regardless of the question.” in answering a question after a presentation?",
+    "answers": [
+      {
+        "text": "Repeat the entire presentation regardless of the question.",
+        "is_correct": false
+      },
+      {
+        "text": "Pause, answer the exact question and refer back to evidence from the talk if useful.",
+        "is_correct": true
+      },
+      {
+        "text": "Guess confidently even when you do not know.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A focused response respects the audience and keeps the discussion connected to the presentation.",
+      "hint": "Listen for what is actually being asked."
+    }
+  },
+  {
+    "id": "AC9E4LY07-T-015",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY07",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "Presentations",
+    "question": "Apply the skill to answering a question after a presentation: what should you choose?",
+    "audio_prompt": "Apply the skill to answering a question after a presentation: what should you choose?",
+    "answers": [
+      {
+        "text": "Repeat the entire presentation regardless of the question.",
+        "is_correct": false
+      },
+      {
+        "text": "Guess confidently even when you do not know.",
+        "is_correct": false
+      },
+      {
+        "text": "Pause, answer the exact question and refer back to evidence from the talk if useful.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A focused response respects the audience and keeps the discussion connected to the presentation.",
+      "hint": "Listen for what is actually being asked."
+    }
+  },
+  {
+    "id": "AC9E4LY07-T-016",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY07",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "Presentations",
+    "question": "Which final choice gives the clearest and most accurate result for answering a question after a presentation?",
+    "audio_prompt": "Which final choice gives the clearest and most accurate result for answering a question after a presentation?",
+    "answers": [
+      {
+        "text": "Pause, answer the exact question and refer back to evidence from the talk if useful.",
+        "is_correct": true
+      },
+      {
+        "text": "Repeat the entire presentation regardless of the question.",
+        "is_correct": false
+      },
+      {
+        "text": "Guess confidently even when you do not know.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A focused response respects the audience and keeps the discussion connected to the presentation.",
+      "hint": "Listen for what is actually being asked."
+    }
+  }
+]

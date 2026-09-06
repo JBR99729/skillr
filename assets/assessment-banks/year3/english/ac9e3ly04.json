@@ -1,0 +1,1682 @@
+[
+  {
+    "id": "AC9E3LY04-P-001",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LY04",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "Accurate and Fluent Reading",
+    "question": "While reading a passage about wombats, a sentence sounds wrong and does not make sense. What should the reader do?",
+    "audio_prompt": "While reading a passage about wombats, a sentence sounds wrong and does not make sense. What should the reader do?",
+    "answers": [
+      {
+        "text": "Keep going without checking",
+        "is_correct": false
+      },
+      {
+        "text": "Pause, reread and test a correction",
+        "is_correct": true
+      },
+      {
+        "text": "Replace the whole sentence with a guess",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Pause, reread and test a correction This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the wording, structure and context before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LY04-P-002",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LY04",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "Accurate and Fluent Reading",
+    "question": "While reading a passage about wombats, which three sources help a reader self-correct?",
+    "audio_prompt": "While reading a passage about wombats, which three sources help a reader self-correct?",
+    "answers": [
+      {
+        "text": "Page colour, book size and price",
+        "is_correct": false
+      },
+      {
+        "text": "Only the first letter",
+        "is_correct": false
+      },
+      {
+        "text": "Letter patterns, sentence grammar and meaning",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Letter patterns, sentence grammar and meaning This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the wording, structure and context before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LY04-P-003",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LY04",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "Accurate and Fluent Reading",
+    "question": "While reading a passage about wombats, a reader says 'The dogs runs'. Which clue signals a problem?",
+    "audio_prompt": "While reading a passage about wombats, a reader says 'The dogs runs'. Which clue signals a problem?",
+    "answers": [
+      {
+        "text": "The grammar does not agree",
+        "is_correct": true
+      },
+      {
+        "text": "The sentence is too short",
+        "is_correct": false
+      },
+      {
+        "text": "The word dogs has four letters",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The grammar does not agree This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the wording, structure and context before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LY04-P-004",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LY04",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "Accurate and Fluent Reading",
+    "question": "While reading a passage about wombats, a new word begins like transport and fits a sentence about buses. What should the reader do next?",
+    "audio_prompt": "While reading a passage about wombats, a new word begins like transport and fits a sentence about buses. What should the reader do next?",
+    "answers": [
+      {
+        "text": "Say the first sound only",
+        "is_correct": false
+      },
+      {
+        "text": "Blend the parts and check the whole word against meaning",
+        "is_correct": true
+      },
+      {
+        "text": "Skip every unfamiliar word",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Blend the parts and check the whole word against meaning This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the wording, structure and context before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LY04-P-005",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LY04",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "Accurate and Fluent Reading",
+    "question": "While reading a passage about wombats, what does fluent reading sound like?",
+    "audio_prompt": "While reading a passage about wombats, what does fluent reading sound like?",
+    "answers": [
+      {
+        "text": "Fast speech with no pauses",
+        "is_correct": false
+      },
+      {
+        "text": "Each word spoken separately at one speed",
+        "is_correct": false
+      },
+      {
+        "text": "Accurate words, meaningful phrasing and a suitable pace",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Accurate words, meaningful phrasing and a suitable pace This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the wording, structure and context before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LY04-P-006",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LY04",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "Accurate and Fluent Reading",
+    "question": "While reading a passage about wombats, why should readers reread after correcting a word?",
+    "audio_prompt": "While reading a passage about wombats, why should readers reread after correcting a word?",
+    "answers": [
+      {
+        "text": "To confirm the sentence now sounds right and makes sense",
+        "is_correct": true
+      },
+      {
+        "text": "To forget the correction",
+        "is_correct": false
+      },
+      {
+        "text": "To change another correct word",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "To confirm the sentence now sounds right and makes sense This explanation follows the relevant Year 3 English evidence.",
+      "hint": "Use the wording, structure and context before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LY04-P-007",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LY04",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "Accurate and Fluent Reading",
+    "question": "While reading a passage about wombats, a comma separates an opening phrase. How should it affect reading?",
+    "audio_prompt": "While reading a passage about wombats, a comma separates an opening phrase. How should it affect reading?",
+    "answers": [
+      {
+        "text": "Stop for a full minute",
+        "is_correct": false
+      },
+      {
+        "text": "Use a brief meaningful pause",
+        "is_correct": true
+      },
+      {
+        "text": "Ignore all phrasing",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Use a brief meaningful pause This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the wording, structure and context before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LY04-P-008",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LY04",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "Accurate and Fluent Reading",
+    "question": "While reading a passage about wombats, which action best monitors comprehension?",
+    "audio_prompt": "While reading a passage about wombats, which action best monitors comprehension?",
+    "answers": [
+      {
+        "text": "Finish quickly without thinking",
+        "is_correct": false
+      },
+      {
+        "text": "Memorise one isolated word",
+        "is_correct": false
+      },
+      {
+        "text": "Notice confusion and use text clues to repair understanding",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Notice confusion and use text clues to repair understanding This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the wording, structure and context before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LY04-P-009",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LY04",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "Accurate and Fluent Reading",
+    "question": "While reading instructions for a kite, a sentence sounds wrong and does not make sense. What should the reader do?",
+    "audio_prompt": "While reading instructions for a kite, a sentence sounds wrong and does not make sense. What should the reader do?",
+    "answers": [
+      {
+        "text": "Pause, reread and test a correction",
+        "is_correct": true
+      },
+      {
+        "text": "Keep going without checking",
+        "is_correct": false
+      },
+      {
+        "text": "Replace the whole sentence with a guess",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Pause, reread and test a correction This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the wording, structure and context before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LY04-P-010",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LY04",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "Accurate and Fluent Reading",
+    "question": "While reading instructions for a kite, which three sources help a reader self-correct?",
+    "audio_prompt": "While reading instructions for a kite, which three sources help a reader self-correct?",
+    "answers": [
+      {
+        "text": "Page colour, book size and price",
+        "is_correct": false
+      },
+      {
+        "text": "Letter patterns, sentence grammar and meaning",
+        "is_correct": true
+      },
+      {
+        "text": "Only the first letter",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Letter patterns, sentence grammar and meaning This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the wording, structure and context before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LY04-P-011",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LY04",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "Accurate and Fluent Reading",
+    "question": "Why is “The grammar does not agree” the best answer here? While reading instructions for a kite, a reader says 'The dogs runs'. Which clue signals a problem?",
+    "audio_prompt": "Why is “The grammar does not agree” the best answer here? While reading instructions for a kite, a reader says 'The dogs runs'. Which clue signals a problem?",
+    "answers": [
+      {
+        "text": "Because “The sentence is too short” sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Because the longest-looking option should always be chosen.",
+        "is_correct": false
+      },
+      {
+        "text": "The grammar does not agree This choice best fits the language, text or literacy evidence.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The grammar does not agree This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the wording, structure and context before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LY04-P-012",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LY04",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "Accurate and Fluent Reading",
+    "question": "Why is “Blend the parts and check the whole word against meaning” the best answer here? While reading instructions for a kite, a new word begins like transport and fits a sentence about buses. What should the reader do next?",
+    "audio_prompt": "Why is “Blend the parts and check the whole word against meaning” the best answer here? While reading instructions for a kite, a new word begins like transport and fits a sentence about buses. What should the reader do next?",
+    "answers": [
+      {
+        "text": "Blend the parts and check the whole word against meaning This choice best fits the language, text or literacy evidence.",
+        "is_correct": true
+      },
+      {
+        "text": "Because “Say the first sound only” sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Because the longest-looking option should always be chosen.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Blend the parts and check the whole word against meaning This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the wording, structure and context before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LY04-P-013",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LY04",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "Accurate and Fluent Reading",
+    "question": "Why is “Accurate words, meaningful phrasing and a suitable pace” the best answer here? While reading instructions for a kite, what does fluent reading sound like?",
+    "audio_prompt": "Why is “Accurate words, meaningful phrasing and a suitable pace” the best answer here? While reading instructions for a kite, what does fluent reading sound like?",
+    "answers": [
+      {
+        "text": "Because “Fast speech with no pauses” sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Accurate words, meaningful phrasing and a suitable pace This choice best fits the language, text or literacy evidence.",
+        "is_correct": true
+      },
+      {
+        "text": "Because the longest-looking option should always be chosen.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Accurate words, meaningful phrasing and a suitable pace This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the wording, structure and context before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LY04-P-014",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LY04",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "Accurate and Fluent Reading",
+    "question": "Why is “To confirm the sentence now sounds right and makes sense” the best answer here? While reading instructions for a kite, why should readers reread after correcting a word?",
+    "audio_prompt": "Why is “To confirm the sentence now sounds right and makes sense” the best answer here? While reading instructions for a kite, why should readers reread after correcting a word?",
+    "answers": [
+      {
+        "text": "Because “To forget the correction” sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Because the longest-looking option should always be chosen.",
+        "is_correct": false
+      },
+      {
+        "text": "To confirm the sentence now sounds right and makes sense This explanation follows the relevant Year 3 English evidence.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "To confirm the sentence now sounds right and makes sense This explanation follows the relevant Year 3 English evidence.",
+      "hint": "Use the wording, structure and context before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LY04-P-015",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LY04",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "Accurate and Fluent Reading",
+    "question": "Why is “Use a brief meaningful pause” the best answer here? While reading instructions for a kite, a comma separates an opening phrase. How should it affect reading?",
+    "audio_prompt": "Why is “Use a brief meaningful pause” the best answer here? While reading instructions for a kite, a comma separates an opening phrase. How should it affect reading?",
+    "answers": [
+      {
+        "text": "Use a brief meaningful pause This choice best fits the language, text or literacy evidence.",
+        "is_correct": true
+      },
+      {
+        "text": "Because “Stop for a full minute” sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Because the longest-looking option should always be chosen.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Use a brief meaningful pause This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the wording, structure and context before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LY04-P-016",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LY04",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "Accurate and Fluent Reading",
+    "question": "Why is “Notice confusion and use text clues to repair understanding” the best answer here? While reading instructions for a kite, which action best monitors comprehension?",
+    "audio_prompt": "Why is “Notice confusion and use text clues to repair understanding” the best answer here? While reading instructions for a kite, which action best monitors comprehension?",
+    "answers": [
+      {
+        "text": "Because “Finish quickly without thinking” sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Notice confusion and use text clues to repair understanding This choice best fits the language, text or literacy evidence.",
+        "is_correct": true
+      },
+      {
+        "text": "Because the longest-looking option should always be chosen.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Notice confusion and use text clues to repair understanding This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the wording, structure and context before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LY04-P-017",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LY04",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "Accurate and Fluent Reading",
+    "question": "Why is “Pause, reread and test a correction” the best answer here? While reading a story about a storm, a sentence sounds wrong and does not make sense. What should the reader do?",
+    "audio_prompt": "Why is “Pause, reread and test a correction” the best answer here? While reading a story about a storm, a sentence sounds wrong and does not make sense. What should the reader do?",
+    "answers": [
+      {
+        "text": "Because “Keep going without checking” sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Because the longest-looking option should always be chosen.",
+        "is_correct": false
+      },
+      {
+        "text": "Pause, reread and test a correction This choice best fits the language, text or literacy evidence.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Pause, reread and test a correction This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the wording, structure and context before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LY04-P-018",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LY04",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "Accurate and Fluent Reading",
+    "question": "Why is “Letter patterns, sentence grammar and meaning” the best answer here? While reading a story about a storm, which three sources help a reader self-correct?",
+    "audio_prompt": "Why is “Letter patterns, sentence grammar and meaning” the best answer here? While reading a story about a storm, which three sources help a reader self-correct?",
+    "answers": [
+      {
+        "text": "Letter patterns, sentence grammar and meaning This choice best fits the language, text or literacy evidence.",
+        "is_correct": true
+      },
+      {
+        "text": "Because “Page colour, book size and price” sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Because the longest-looking option should always be chosen.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Letter patterns, sentence grammar and meaning This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the wording, structure and context before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LY04-P-019",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LY04",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "Accurate and Fluent Reading",
+    "question": "Why is “The grammar does not agree” the best answer here? While reading a story about a storm, a reader says 'The dogs runs'. Which clue signals a problem?",
+    "audio_prompt": "Why is “The grammar does not agree” the best answer here? While reading a story about a storm, a reader says 'The dogs runs'. Which clue signals a problem?",
+    "answers": [
+      {
+        "text": "Because “The sentence is too short” sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "The grammar does not agree This choice best fits the language, text or literacy evidence.",
+        "is_correct": true
+      },
+      {
+        "text": "Because the longest-looking option should always be chosen.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The grammar does not agree This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the wording, structure and context before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LY04-P-020",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LY04",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "Accurate and Fluent Reading",
+    "question": "Why is “Blend the parts and check the whole word against meaning” the best answer here? While reading a story about a storm, a new word begins like transport and fits a sentence about buses. What should the reader do next?",
+    "audio_prompt": "Why is “Blend the parts and check the whole word against meaning” the best answer here? While reading a story about a storm, a new word begins like transport and fits a sentence about buses. What should the reader do next?",
+    "answers": [
+      {
+        "text": "Because “Say the first sound only” sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Because the longest-looking option should always be chosen.",
+        "is_correct": false
+      },
+      {
+        "text": "Blend the parts and check the whole word against meaning This choice best fits the language, text or literacy evidence.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Blend the parts and check the whole word against meaning This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the wording, structure and context before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LY04-P-021",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LY04",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "Accurate and Fluent Reading",
+    "question": "A student chooses “Keep going without checking” for this task: While reading a passage about wombats, a sentence sounds wrong and does not make sense. What should the reader do? What should they check?",
+    "audio_prompt": "A student chooses “Keep going without checking” for this task: While reading a passage about wombats, a sentence sounds wrong and does not make sense. What should the reader do? What should they check?",
+    "answers": [
+      {
+        "text": "Use the wording, structure and context before choosing.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep the answer because it uses a familiar word.",
+        "is_correct": false
+      },
+      {
+        "text": "Ignore the example and choose the remaining option.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Use the wording, structure and context before choosing. Pause, reread and test a correction This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
+    }
+  },
+  {
+    "id": "AC9E3LY04-P-022",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LY04",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "Accurate and Fluent Reading",
+    "question": "A student chooses “Page colour, book size and price” for this task: While reading a passage about wombats, which three sources help a reader self-correct? What should they check?",
+    "audio_prompt": "A student chooses “Page colour, book size and price” for this task: While reading a passage about wombats, which three sources help a reader self-correct? What should they check?",
+    "answers": [
+      {
+        "text": "Keep the answer because it uses a familiar word.",
+        "is_correct": false
+      },
+      {
+        "text": "Use the wording, structure and context before choosing.",
+        "is_correct": true
+      },
+      {
+        "text": "Ignore the example and choose the remaining option.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Use the wording, structure and context before choosing. Letter patterns, sentence grammar and meaning This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
+    }
+  },
+  {
+    "id": "AC9E3LY04-P-023",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LY04",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "Accurate and Fluent Reading",
+    "question": "A student chooses “The sentence is too short” for this task: While reading a passage about wombats, a reader says 'The dogs runs'. Which clue signals a problem? What should they check?",
+    "audio_prompt": "A student chooses “The sentence is too short” for this task: While reading a passage about wombats, a reader says 'The dogs runs'. Which clue signals a problem? What should they check?",
+    "answers": [
+      {
+        "text": "Keep the answer because it uses a familiar word.",
+        "is_correct": false
+      },
+      {
+        "text": "Ignore the example and choose the remaining option.",
+        "is_correct": false
+      },
+      {
+        "text": "Use the wording, structure and context before choosing.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Use the wording, structure and context before choosing. The grammar does not agree This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
+    }
+  },
+  {
+    "id": "AC9E3LY04-P-024",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LY04",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "Accurate and Fluent Reading",
+    "question": "A student chooses “Say the first sound only” for this task: While reading a passage about wombats, a new word begins like transport and fits a sentence about buses. What should the reader do next? What should they check?",
+    "audio_prompt": "A student chooses “Say the first sound only” for this task: While reading a passage about wombats, a new word begins like transport and fits a sentence about buses. What should the reader do next? What should they check?",
+    "answers": [
+      {
+        "text": "Use the wording, structure and context before choosing.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep the answer because it uses a familiar word.",
+        "is_correct": false
+      },
+      {
+        "text": "Ignore the example and choose the remaining option.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Use the wording, structure and context before choosing. Blend the parts and check the whole word against meaning This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
+    }
+  },
+  {
+    "id": "AC9E3LY04-P-025",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LY04",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "Accurate and Fluent Reading",
+    "question": "A student chooses “Fast speech with no pauses” for this task: While reading a passage about wombats, what does fluent reading sound like? What should they check?",
+    "audio_prompt": "A student chooses “Fast speech with no pauses” for this task: While reading a passage about wombats, what does fluent reading sound like? What should they check?",
+    "answers": [
+      {
+        "text": "Keep the answer because it uses a familiar word.",
+        "is_correct": false
+      },
+      {
+        "text": "Use the wording, structure and context before choosing.",
+        "is_correct": true
+      },
+      {
+        "text": "Ignore the example and choose the remaining option.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Use the wording, structure and context before choosing. Accurate words, meaningful phrasing and a suitable pace This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
+    }
+  },
+  {
+    "id": "AC9E3LY04-P-026",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LY04",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "Accurate and Fluent Reading",
+    "question": "A student chooses “To forget the correction” for this task: While reading a passage about wombats, why should readers reread after correcting a word? What should they check?",
+    "audio_prompt": "A student chooses “To forget the correction” for this task: While reading a passage about wombats, why should readers reread after correcting a word? What should they check?",
+    "answers": [
+      {
+        "text": "Keep the answer because it uses a familiar word.",
+        "is_correct": false
+      },
+      {
+        "text": "Ignore the example and choose the remaining option.",
+        "is_correct": false
+      },
+      {
+        "text": "Use the wording, structure and context before choosing.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Use the wording, structure and context before choosing. To confirm the sentence now sounds right and makes sense This explanation follows the relevant Year 3 English evidence.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
+    }
+  },
+  {
+    "id": "AC9E3LY04-P-027",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LY04",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "Accurate and Fluent Reading",
+    "question": "A student chooses “Stop for a full minute” for this task: While reading a passage about wombats, a comma separates an opening phrase. How should it affect reading? What should they check?",
+    "audio_prompt": "A student chooses “Stop for a full minute” for this task: While reading a passage about wombats, a comma separates an opening phrase. How should it affect reading? What should they check?",
+    "answers": [
+      {
+        "text": "Use the wording, structure and context before choosing.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep the answer because it uses a familiar word.",
+        "is_correct": false
+      },
+      {
+        "text": "Ignore the example and choose the remaining option.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Use the wording, structure and context before choosing. Use a brief meaningful pause This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
+    }
+  },
+  {
+    "id": "AC9E3LY04-P-028",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LY04",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "Accurate and Fluent Reading",
+    "question": "A student chooses “Finish quickly without thinking” for this task: While reading a passage about wombats, which action best monitors comprehension? What should they check?",
+    "audio_prompt": "A student chooses “Finish quickly without thinking” for this task: While reading a passage about wombats, which action best monitors comprehension? What should they check?",
+    "answers": [
+      {
+        "text": "Keep the answer because it uses a familiar word.",
+        "is_correct": false
+      },
+      {
+        "text": "Use the wording, structure and context before choosing.",
+        "is_correct": true
+      },
+      {
+        "text": "Ignore the example and choose the remaining option.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Use the wording, structure and context before choosing. Notice confusion and use text clues to repair understanding This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
+    }
+  },
+  {
+    "id": "AC9E3LY04-P-029",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LY04",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "Accurate and Fluent Reading",
+    "question": "A student chooses “Keep going without checking” for this task: While reading instructions for a kite, a sentence sounds wrong and does not make sense. What should the reader do? What should they check?",
+    "audio_prompt": "A student chooses “Keep going without checking” for this task: While reading instructions for a kite, a sentence sounds wrong and does not make sense. What should the reader do? What should they check?",
+    "answers": [
+      {
+        "text": "Keep the answer because it uses a familiar word.",
+        "is_correct": false
+      },
+      {
+        "text": "Ignore the example and choose the remaining option.",
+        "is_correct": false
+      },
+      {
+        "text": "Use the wording, structure and context before choosing.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Use the wording, structure and context before choosing. Pause, reread and test a correction This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
+    }
+  },
+  {
+    "id": "AC9E3LY04-P-030",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LY04",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "Accurate and Fluent Reading",
+    "question": "A student chooses “Page colour, book size and price” for this task: While reading instructions for a kite, which three sources help a reader self-correct? What should they check?",
+    "audio_prompt": "A student chooses “Page colour, book size and price” for this task: While reading instructions for a kite, which three sources help a reader self-correct? What should they check?",
+    "answers": [
+      {
+        "text": "Use the wording, structure and context before choosing.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep the answer because it uses a familiar word.",
+        "is_correct": false
+      },
+      {
+        "text": "Ignore the example and choose the remaining option.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Use the wording, structure and context before choosing. Letter patterns, sentence grammar and meaning This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
+    }
+  },
+  {
+    "id": "AC9E3LY04-P-031",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LY04",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Accurate and Fluent Reading",
+    "question": "While reading instructions for a kite, a comma separates an opening phrase. How should it affect reading?",
+    "audio_prompt": "While reading instructions for a kite, a comma separates an opening phrase. How should it affect reading?",
+    "answers": [
+      {
+        "text": "Stop for a full minute",
+        "is_correct": false
+      },
+      {
+        "text": "Use a brief meaningful pause",
+        "is_correct": true
+      },
+      {
+        "text": "Ignore all phrasing",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Use a brief meaningful pause This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the wording, structure and context before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LY04-P-032",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LY04",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Accurate and Fluent Reading",
+    "question": "While reading instructions for a kite, which action best monitors comprehension?",
+    "audio_prompt": "While reading instructions for a kite, which action best monitors comprehension?",
+    "answers": [
+      {
+        "text": "Finish quickly without thinking",
+        "is_correct": false
+      },
+      {
+        "text": "Memorise one isolated word",
+        "is_correct": false
+      },
+      {
+        "text": "Notice confusion and use text clues to repair understanding",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Notice confusion and use text clues to repair understanding This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the wording, structure and context before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LY04-P-033",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LY04",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Accurate and Fluent Reading",
+    "question": "While reading a story about a storm, a sentence sounds wrong and does not make sense. What should the reader do?",
+    "audio_prompt": "While reading a story about a storm, a sentence sounds wrong and does not make sense. What should the reader do?",
+    "answers": [
+      {
+        "text": "Pause, reread and test a correction",
+        "is_correct": true
+      },
+      {
+        "text": "Keep going without checking",
+        "is_correct": false
+      },
+      {
+        "text": "Replace the whole sentence with a guess",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Pause, reread and test a correction This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the wording, structure and context before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LY04-P-034",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LY04",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Accurate and Fluent Reading",
+    "question": "While reading a story about a storm, which three sources help a reader self-correct?",
+    "audio_prompt": "While reading a story about a storm, which three sources help a reader self-correct?",
+    "answers": [
+      {
+        "text": "Page colour, book size and price",
+        "is_correct": false
+      },
+      {
+        "text": "Letter patterns, sentence grammar and meaning",
+        "is_correct": true
+      },
+      {
+        "text": "Only the first letter",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Letter patterns, sentence grammar and meaning This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the wording, structure and context before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LY04-P-035",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LY04",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Accurate and Fluent Reading",
+    "question": "While reading a story about a storm, a reader says 'The dogs runs'. Which clue signals a problem?",
+    "audio_prompt": "While reading a story about a storm, a reader says 'The dogs runs'. Which clue signals a problem?",
+    "answers": [
+      {
+        "text": "The sentence is too short",
+        "is_correct": false
+      },
+      {
+        "text": "The word dogs has four letters",
+        "is_correct": false
+      },
+      {
+        "text": "The grammar does not agree",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The grammar does not agree This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the wording, structure and context before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LY04-P-036",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LY04",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Accurate and Fluent Reading",
+    "question": "While reading a story about a storm, a new word begins like transport and fits a sentence about buses. What should the reader do next?",
+    "audio_prompt": "While reading a story about a storm, a new word begins like transport and fits a sentence about buses. What should the reader do next?",
+    "answers": [
+      {
+        "text": "Blend the parts and check the whole word against meaning",
+        "is_correct": true
+      },
+      {
+        "text": "Say the first sound only",
+        "is_correct": false
+      },
+      {
+        "text": "Skip every unfamiliar word",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Blend the parts and check the whole word against meaning This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the wording, structure and context before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LY04-P-037",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LY04",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Accurate and Fluent Reading",
+    "question": "While reading a story about a storm, what does fluent reading sound like?",
+    "audio_prompt": "While reading a story about a storm, what does fluent reading sound like?",
+    "answers": [
+      {
+        "text": "Fast speech with no pauses",
+        "is_correct": false
+      },
+      {
+        "text": "Accurate words, meaningful phrasing and a suitable pace",
+        "is_correct": true
+      },
+      {
+        "text": "Each word spoken separately at one speed",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Accurate words, meaningful phrasing and a suitable pace This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the wording, structure and context before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LY04-P-038",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LY04",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Accurate and Fluent Reading",
+    "question": "While reading a story about a storm, why should readers reread after correcting a word?",
+    "audio_prompt": "While reading a story about a storm, why should readers reread after correcting a word?",
+    "answers": [
+      {
+        "text": "To forget the correction",
+        "is_correct": false
+      },
+      {
+        "text": "To change another correct word",
+        "is_correct": false
+      },
+      {
+        "text": "To confirm the sentence now sounds right and makes sense",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "To confirm the sentence now sounds right and makes sense This explanation follows the relevant Year 3 English evidence.",
+      "hint": "Use the wording, structure and context before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LY04-P-039",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LY04",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Accurate and Fluent Reading",
+    "question": "While reading a story about a storm, a comma separates an opening phrase. How should it affect reading?",
+    "audio_prompt": "While reading a story about a storm, a comma separates an opening phrase. How should it affect reading?",
+    "answers": [
+      {
+        "text": "Use a brief meaningful pause",
+        "is_correct": true
+      },
+      {
+        "text": "Stop for a full minute",
+        "is_correct": false
+      },
+      {
+        "text": "Ignore all phrasing",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Use a brief meaningful pause This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the wording, structure and context before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LY04-P-040",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LY04",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Accurate and Fluent Reading",
+    "question": "While reading a story about a storm, which action best monitors comprehension?",
+    "audio_prompt": "While reading a story about a storm, which action best monitors comprehension?",
+    "answers": [
+      {
+        "text": "Finish quickly without thinking",
+        "is_correct": false
+      },
+      {
+        "text": "Notice confusion and use text clues to repair understanding",
+        "is_correct": true
+      },
+      {
+        "text": "Memorise one isolated word",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Notice confusion and use text clues to repair understanding This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the wording, structure and context before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LY04-T-001",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LY04",
+    "bank": "test",
+    "stage": "verify",
+    "skill": "Accurate and Fluent Reading",
+    "question": "While reading a report about coral, a sentence sounds wrong and does not make sense. What should the reader do?",
+    "audio_prompt": "While reading a report about coral, a sentence sounds wrong and does not make sense. What should the reader do?",
+    "answers": [
+      {
+        "text": "Keep going without checking",
+        "is_correct": false
+      },
+      {
+        "text": "Replace the whole sentence with a guess",
+        "is_correct": false
+      },
+      {
+        "text": "Pause, reread and test a correction",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Pause, reread and test a correction This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the wording, structure and context before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LY04-T-002",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LY04",
+    "bank": "test",
+    "stage": "verify",
+    "skill": "Accurate and Fluent Reading",
+    "question": "While reading a report about coral, which three sources help a reader self-correct?",
+    "audio_prompt": "While reading a report about coral, which three sources help a reader self-correct?",
+    "answers": [
+      {
+        "text": "Letter patterns, sentence grammar and meaning",
+        "is_correct": true
+      },
+      {
+        "text": "Page colour, book size and price",
+        "is_correct": false
+      },
+      {
+        "text": "Only the first letter",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Letter patterns, sentence grammar and meaning This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the wording, structure and context before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LY04-T-003",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LY04",
+    "bank": "test",
+    "stage": "verify",
+    "skill": "Accurate and Fluent Reading",
+    "question": "While reading a report about coral, a reader says 'The dogs runs'. Which clue signals a problem?",
+    "audio_prompt": "While reading a report about coral, a reader says 'The dogs runs'. Which clue signals a problem?",
+    "answers": [
+      {
+        "text": "The sentence is too short",
+        "is_correct": false
+      },
+      {
+        "text": "The grammar does not agree",
+        "is_correct": true
+      },
+      {
+        "text": "The word dogs has four letters",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The grammar does not agree This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the wording, structure and context before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LY04-T-004",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LY04",
+    "bank": "test",
+    "stage": "verify",
+    "skill": "Accurate and Fluent Reading",
+    "question": "While reading a report about coral, a new word begins like transport and fits a sentence about buses. What should the reader do next?",
+    "audio_prompt": "While reading a report about coral, a new word begins like transport and fits a sentence about buses. What should the reader do next?",
+    "answers": [
+      {
+        "text": "Say the first sound only",
+        "is_correct": false
+      },
+      {
+        "text": "Skip every unfamiliar word",
+        "is_correct": false
+      },
+      {
+        "text": "Blend the parts and check the whole word against meaning",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Blend the parts and check the whole word against meaning This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the wording, structure and context before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LY04-T-005",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LY04",
+    "bank": "test",
+    "stage": "verify",
+    "skill": "Accurate and Fluent Reading",
+    "question": "While reading a report about coral, what does fluent reading sound like?",
+    "audio_prompt": "While reading a report about coral, what does fluent reading sound like?",
+    "answers": [
+      {
+        "text": "Accurate words, meaningful phrasing and a suitable pace",
+        "is_correct": true
+      },
+      {
+        "text": "Fast speech with no pauses",
+        "is_correct": false
+      },
+      {
+        "text": "Each word spoken separately at one speed",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Accurate words, meaningful phrasing and a suitable pace This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the wording, structure and context before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LY04-T-006",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LY04",
+    "bank": "test",
+    "stage": "verify",
+    "skill": "Accurate and Fluent Reading",
+    "question": "While reading a report about coral, why should readers reread after correcting a word?",
+    "audio_prompt": "While reading a report about coral, why should readers reread after correcting a word?",
+    "answers": [
+      {
+        "text": "To forget the correction",
+        "is_correct": false
+      },
+      {
+        "text": "To confirm the sentence now sounds right and makes sense",
+        "is_correct": true
+      },
+      {
+        "text": "To change another correct word",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "To confirm the sentence now sounds right and makes sense This explanation follows the relevant Year 3 English evidence.",
+      "hint": "Use the wording, structure and context before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LY04-T-007",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LY04",
+    "bank": "test",
+    "stage": "verify",
+    "skill": "Accurate and Fluent Reading",
+    "question": "While reading a report about coral, a comma separates an opening phrase. How should it affect reading?",
+    "audio_prompt": "While reading a report about coral, a comma separates an opening phrase. How should it affect reading?",
+    "answers": [
+      {
+        "text": "Stop for a full minute",
+        "is_correct": false
+      },
+      {
+        "text": "Ignore all phrasing",
+        "is_correct": false
+      },
+      {
+        "text": "Use a brief meaningful pause",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Use a brief meaningful pause This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the wording, structure and context before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LY04-T-008",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LY04",
+    "bank": "test",
+    "stage": "verify",
+    "skill": "Accurate and Fluent Reading",
+    "question": "While reading a report about coral, which action best monitors comprehension?",
+    "audio_prompt": "While reading a report about coral, which action best monitors comprehension?",
+    "answers": [
+      {
+        "text": "Notice confusion and use text clues to repair understanding",
+        "is_correct": true
+      },
+      {
+        "text": "Finish quickly without thinking",
+        "is_correct": false
+      },
+      {
+        "text": "Memorise one isolated word",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Notice confusion and use text clues to repair understanding This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the wording, structure and context before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LY04-T-009",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LY04",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "Accurate and Fluent Reading",
+    "question": "While reading a mystery at a museum, a sentence sounds wrong and does not make sense. What should the reader do?",
+    "audio_prompt": "While reading a mystery at a museum, a sentence sounds wrong and does not make sense. What should the reader do?",
+    "answers": [
+      {
+        "text": "Keep going without checking",
+        "is_correct": false
+      },
+      {
+        "text": "Pause, reread and test a correction",
+        "is_correct": true
+      },
+      {
+        "text": "Replace the whole sentence with a guess",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Pause, reread and test a correction This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the wording, structure and context before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LY04-T-010",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LY04",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "Accurate and Fluent Reading",
+    "question": "While reading a mystery at a museum, which three sources help a reader self-correct?",
+    "audio_prompt": "While reading a mystery at a museum, which three sources help a reader self-correct?",
+    "answers": [
+      {
+        "text": "Page colour, book size and price",
+        "is_correct": false
+      },
+      {
+        "text": "Only the first letter",
+        "is_correct": false
+      },
+      {
+        "text": "Letter patterns, sentence grammar and meaning",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Letter patterns, sentence grammar and meaning This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the wording, structure and context before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LY04-T-011",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LY04",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "Accurate and Fluent Reading",
+    "question": "While reading a mystery at a museum, a reader says 'The dogs runs'. Which clue signals a problem?",
+    "audio_prompt": "While reading a mystery at a museum, a reader says 'The dogs runs'. Which clue signals a problem?",
+    "answers": [
+      {
+        "text": "The grammar does not agree",
+        "is_correct": true
+      },
+      {
+        "text": "The sentence is too short",
+        "is_correct": false
+      },
+      {
+        "text": "The word dogs has four letters",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The grammar does not agree This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the wording, structure and context before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LY04-T-012",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LY04",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "Accurate and Fluent Reading",
+    "question": "While reading a mystery at a museum, a new word begins like transport and fits a sentence about buses. What should the reader do next?",
+    "audio_prompt": "While reading a mystery at a museum, a new word begins like transport and fits a sentence about buses. What should the reader do next?",
+    "answers": [
+      {
+        "text": "Say the first sound only",
+        "is_correct": false
+      },
+      {
+        "text": "Blend the parts and check the whole word against meaning",
+        "is_correct": true
+      },
+      {
+        "text": "Skip every unfamiliar word",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Blend the parts and check the whole word against meaning This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the wording, structure and context before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LY04-T-013",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LY04",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "Accurate and Fluent Reading",
+    "question": "While reading a mystery at a museum, what does fluent reading sound like?",
+    "audio_prompt": "While reading a mystery at a museum, what does fluent reading sound like?",
+    "answers": [
+      {
+        "text": "Fast speech with no pauses",
+        "is_correct": false
+      },
+      {
+        "text": "Each word spoken separately at one speed",
+        "is_correct": false
+      },
+      {
+        "text": "Accurate words, meaningful phrasing and a suitable pace",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Accurate words, meaningful phrasing and a suitable pace This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the wording, structure and context before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LY04-T-014",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LY04",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "Accurate and Fluent Reading",
+    "question": "While reading a mystery at a museum, why should readers reread after correcting a word?",
+    "audio_prompt": "While reading a mystery at a museum, why should readers reread after correcting a word?",
+    "answers": [
+      {
+        "text": "To confirm the sentence now sounds right and makes sense",
+        "is_correct": true
+      },
+      {
+        "text": "To forget the correction",
+        "is_correct": false
+      },
+      {
+        "text": "To change another correct word",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "To confirm the sentence now sounds right and makes sense This explanation follows the relevant Year 3 English evidence.",
+      "hint": "Use the wording, structure and context before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LY04-T-015",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LY04",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "Accurate and Fluent Reading",
+    "question": "While reading a mystery at a museum, a comma separates an opening phrase. How should it affect reading?",
+    "audio_prompt": "While reading a mystery at a museum, a comma separates an opening phrase. How should it affect reading?",
+    "answers": [
+      {
+        "text": "Stop for a full minute",
+        "is_correct": false
+      },
+      {
+        "text": "Use a brief meaningful pause",
+        "is_correct": true
+      },
+      {
+        "text": "Ignore all phrasing",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Use a brief meaningful pause This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the wording, structure and context before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LY04-T-016",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LY04",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "Accurate and Fluent Reading",
+    "question": "While reading a mystery at a museum, which action best monitors comprehension?",
+    "audio_prompt": "While reading a mystery at a museum, which action best monitors comprehension?",
+    "answers": [
+      {
+        "text": "Finish quickly without thinking",
+        "is_correct": false
+      },
+      {
+        "text": "Memorise one isolated word",
+        "is_correct": false
+      },
+      {
+        "text": "Notice confusion and use text clues to repair understanding",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Notice confusion and use text clues to repair understanding This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the wording, structure and context before choosing."
+    }
+  }
+]

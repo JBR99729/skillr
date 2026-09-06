@@ -1,0 +1,358 @@
+SKILLRHUB — AC9MFN01 — FROZEN BASELINE v1
+Foundation Maths: Numbers from 0 to 20
+Status: User approved for freezing in this conversation. AI-authored; not learner-tested. Supplied review does not establish independently verified teacher review. Not published to GitHub.
+Preservation rule: Keep approved question wording, options, answers and explanations unchanged unless the user explicitly approves a revision. Formatting converted to plain text; bold emphasis marked with **.
+Source: https://www.australiancurriculum.edu.au/resources/work-samples/mathematics/foundation/ws01-knowing-numbers
+
+PROJECT DECISIONS
+Author new questions for SkillrHub F–10 Maths, Science and English; exclude Foundation Science. Repository: JBR99729/skillr. Earlier inventory of 664 codes remains subject to full reconciliation against curriculum sources and active site records. Minimum 24 practice questions per code; increase only where needed for coverage. 16 separate test questions per code. Include answers and teaching explanations. Deliver TXT files. User conducts spot review; freeze approved sets. Meaningful variety, age-appropriate language, coverage planning and answer checks are required. Do not equate automated checks with human or learner testing. No publication authorised by this preservation request.
+
+ADULT GUIDANCE
+Read questions and number words aloud when needed. This assesses maths, not independent reading. Each ● represents one counter. Children may use counters or number cards.
+The counter rows are grouped dot displays, not actual ten-frames.
+
+PRACTICE QUESTIONS 1–24
+
+P01. A plate has no counters on it. Which number shows how many counters there are?
+A. 1
+B. 0
+C. 10
+Answer: B — 0
+Explanation: Zero means there are none.
+
+P02. Point to the number seven.
+A. 7
+B. 1
+C. 17
+Answer: A — 7
+Explanation: We write seven as 7. Seventeen is 17.
+
+P03. What is the name of 12?
+A. Twenty
+B. Two
+C. Twelve
+Answer: C — Twelve
+Explanation: The numeral 12 is read as twelve.
+
+P04. Which numeral means sixteen?
+A. 6
+B. 16
+C. 19
+Answer: B — 16
+Explanation: Sixteen is written 16. Six is written 6.
+
+P05. A number card shows 20. What should you say?
+A. Twelve
+B. Two
+C. Twenty
+Answer: C — Twenty
+Explanation: The numeral 20 is read as twenty.
+
+P06. Which numeral matches these counters?
+● ● ● ●
+A. 4
+B. 3
+C. 5
+Answer: A — 4
+Explanation: Touch each counter once: 1, 2, 3, 4. The collection represents 4.
+
+P07. Your number card says 6. Which collection matches it?
+A. ● ● ● ● ●
+B. ● ● ● ● ● ●
+C. ● ● ● ● ● ● ●
+Answer: B — Six counters
+Explanation: The matching collection has one counter for each count from 1 to 6.
+
+P08. Each row has five counters. Which numeral matches the whole collection?
+● ● ● ● ●
+● ● ● ● ●
+A. 5
+B. 15
+C. 10
+Answer: C — 10
+Explanation: Count both rows. The first ends at 5 and the second ends at 10.
+
+P09. Which collection represents 13?
+A.
+● ● ● ● ●
+● ● ● ● ●
+● ● ●
+B.
+● ● ● ● ●
+● ● ● ● ●
+● ●
+C.
+● ● ● ● ●
+● ● ● ● ●
+● ● ● ●
+Answer: A — The first collection
+Explanation: Its first two rows show 10 counters. Continue counting: 11, 12, 13.
+
+P10. These counters represent a number. Which number?
+● ● ● ● ●
+● ● ● ● ●
+● ● ● ● ●
+● ● ●
+A. 13
+B. 18
+C. 20
+Answer: B — 18
+Explanation: The three full rows reach 15. The last row takes the count to 18.
+
+P11. You need to show 20 with counters. Which arrangement should you make?
+A. Two rows with five counters in each row
+B. Three rows with five counters in each row
+C. Four rows with five counters in each row
+Answer: C — Four rows of five
+Explanation: Counting every counter in four full rows of five takes you to 20.
+
+P12. You have counted a collection correctly. The last number you said was eleven. Which card labels the collection?
+A. 11
+B. 1
+C. 12
+Answer: A — 11
+Explanation: Eleven is written 11, so that card matches the collection.
+
+P13. Start at zero and count forwards. Which number is missing?
+0, ___, 2, 3
+A. 0
+B. 1
+C. 4
+Answer: B — 1
+Explanation: The sequence begins 0, 1, 2, 3.
+
+P14. What comes immediately after 8 when counting forwards?
+A. 7
+B. 10
+C. 9
+Answer: C — 9
+Explanation: Say 7, 8, 9. Nine comes immediately after eight.
+
+P15. What comes immediately before 14?
+A. 13
+B. 15
+C. 12
+Answer: A — 13
+Explanation: The sequence is 12, 13, 14. Thirteen is immediately before fourteen.
+
+P16. Which number belongs in the gap?
+9, ___, 11
+A. 12
+B. 10
+C. 8
+Answer: B — 10
+Explanation: Ten sits between nine and eleven in the counting sequence.
+
+P17. Count backwards. Which number is missing?
+7, 6, ___, 4
+A. 7
+B. 3
+C. 5
+Answer: C — 5
+Explanation: Counting backwards gives 7, 6, 5, 4.
+
+P18. Start at 17. Count forwards two steps. Where do you finish?
+A. 19
+B. 18
+C. 20
+Answer: A — 19
+Explanation: After 17, the first step is 18 and the second is 19.
+
+P19. Which list goes from smallest to largest?
+A. 5, 2, 8
+B. 8, 5, 2
+C. 2, 5, 8
+Answer: C — 2, 5, 8
+Explanation: Two comes before five, and five comes before eight.
+
+P20. Put these cards in order from smallest to largest: 16, 11, 14.
+A. 11, 14, 16
+B. 11, 16, 14
+C. 16, 14, 11
+Answer: A — 11, 14, 16
+Explanation: In the counting sequence, eleven comes first, then fourteen, then sixteen.
+
+P21. Which list goes from largest to smallest?
+A. 0, 3, 9
+B. 9, 3, 0
+C. 3, 9, 0
+Answer: B — 9, 3, 0
+Explanation: Nine is the largest of these numbers. Zero is the smallest.
+
+P22. These cards are in order from smallest to largest:
+4, 8, 15, 20
+Where should 12 go?
+A. Before 4
+B. Between 4 and 8
+C. Between 8 and 15
+Answer: C — Between 8 and 15
+Explanation: Twelve comes after eight but before fifteen.
+
+P23. Someone counted:
+“Fourteen, fifteen, seventeen, eighteen.”
+Which number did they miss?
+A. Sixteen
+B. Thirteen
+C. Nineteen
+Answer: A — Sixteen
+Explanation: Sixteen belongs between fifteen and seventeen.
+
+P24. These cards should count backwards by one:
+20, 19, 18, **16**, 16
+Which number should replace the bold card?
+A. 15
+B. 17
+C. 19
+Answer: B — 17
+Explanation: The correct sequence is 20, 19, 18, 17, 16.
+
+TEST QUESTIONS 1–16
+Present without practice hints. Answers are included underneath for your review; hide them during a student attempt.
+
+T01. Which numeral means thirteen?
+A. 3
+B. 13
+C. 14
+Answer: B — 13
+Explanation: Thirteen is written 13.
+
+T02. What is the name of 15?
+A. Fifteen
+B. Five
+C. Fourteen
+Answer: A — Fifteen
+Explanation: The numeral 15 is read as fifteen.
+
+T03. Which numeral means nineteen?
+A. 9
+B. 16
+C. 19
+Answer: C — 19
+Explanation: Nineteen is written 19.
+
+T04. A card says 0. What should you put on the mat to match it?
+A. One counter
+B. No counters
+C. Ten counters
+Answer: B — No counters
+Explanation: Zero is represented by an empty collection.
+
+T05. Which numeral labels this collection?
+● ● ● ●
+● ● ● ●
+A. 4
+B. 9
+C. 8
+Answer: C — 8
+Explanation: Counting each counter once gives eight counters altogether.
+
+T06. Which collection matches the numeral 9?
+A.
+● ● ● ● ●
+● ● ● ●
+B.
+● ● ● ● ●
+● ● ●
+C.
+● ● ● ● ●
+● ● ● ● ●
+Answer: A — The first collection
+Explanation: The first collection has nine counters; the others have eight and ten.
+
+T07. Choose the numeral that matches all these counters.
+● ● ● ● ●
+● ● ● ● ●
+● ● ● ●
+A. 13
+B. 14
+C. 15
+Answer: B — 14
+Explanation: The collection has fourteen counters.
+
+T08. Which collection represents 17?
+A.
+● ● ● ● ●
+● ● ● ● ●
+● ●
+B.
+● ● ● ● ●
+● ● ● ● ●
+● ● ● ● ●
+●
+C.
+● ● ● ● ●
+● ● ● ● ●
+● ● ● ● ●
+● ●
+Answer: C — The third collection
+Explanation: The third collection has seventeen counters. The others have twelve and sixteen.
+
+T09. Which number is missing?
+10, 11, ___, 13
+A. 12
+B. 14
+C. 10
+Answer: A — 12
+Explanation: Twelve comes between eleven and thirteen.
+
+T10. Which number comes immediately before 20?
+A. 18
+B. 19
+C. 21
+Answer: B — 19
+Explanation: The counting sequence ends this section with 18, 19, 20.
+
+T11. Count backwards. Which number fills the gap?
+13, 12, ___, 10
+A. 14
+B. 9
+C. 11
+Answer: C — 11
+Explanation: The backwards sequence is 13, 12, 11, 10.
+
+T12. Start at 5. Count forwards three steps. Where do you finish?
+A. 8
+B. 7
+C. 9
+Answer: A — 8
+Explanation: The three steps are 6, 7 and 8.
+
+T13. Which list is ordered from smallest to largest?
+A. 10, 0, 1
+B. 0, 1, 10
+C. 1, 10, 0
+Answer: B — 0, 1, 10
+Explanation: Zero comes before one, and one comes before ten.
+
+T14. Which list goes from largest to smallest?
+A. 12, 17, 19
+B. 19, 12, 17
+C. 19, 17, 12
+Answer: C — 19, 17, 12
+Explanation: Nineteen is largest, then seventeen, then twelve.
+
+T15. These cards are ordered from smallest to largest:
+2, 6, 13, 18
+Where does 10 belong?
+A. Between 6 and 13
+B. Before 2
+C. Between 13 and 18
+Answer: A — Between 6 and 13
+Explanation: Ten comes after six but before thirteen.
+
+T16. These cards should count forwards by one:
+15, 16, **18**, 18, 19
+Which number should replace the bold card?
+A. 16
+B. 17
+C. 20
+Answer: B — 17
+Explanation: The correct sequence is 15, 16, 17, 18, 19.
+
+COVERAGE AND LIMITATIONS
+Coverage: number names and numerals; zero; numeral–collection matching; forward and backward sequences; before, after and between; ordering; missing-number and sequence-error tasks.
+These multiple-choice questions assess recognition and selection. Full coverage also needs children to say number names, write numerals, build collections and physically or digitally order cards. This MCQ snippet alone is not complete practical assessment of the code.
+
+REVIEW RECORD
+The user supplied a review approving all practice groups P01–P24 and test groups T01–T16, with status “Approved for Freezing”. The review praised clarity, age calibration, progression, number representations and curriculum alignment. It recommended pairing the MCQs with hands-on collection building and spoken number names. No question wording changes were requested. The assistant accepted the baseline without wording changes and clarified that the dot rows are not actual ten-frames and that user-supplied approval is not evidence of learner testing or independently verified teacher review.
+Next step: Continue with another Foundation Maths code when requested; preserve this baseline and save each subsequent approved set. Do not ask the user to repaste this question set.

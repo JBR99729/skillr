@@ -1,0 +1,610 @@
+[
+  {
+    "id": "ac9m10st01-p-001",
+    "curriculum_code": "AC9M10ST01",
+    "year_level": "Year 10",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "identify_potentially_misleading_data_representations_in_the_media_such_as_graphs_with_broken_axes",
+    "question": "A Year 10 student is solving a problem involving identify potentially misleading data representations in the media such as graphs with broken axes. Which option is mathematically valid?",
+    "audio_prompt": "A Year 10 student is solving a problem involving identify potentially misleading data representations in the media such as graphs with broken axes. Which option is mathematically valid?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "identifying potentially misleading data representations in the media such as graphs with broken axes and scales that do not start at zero or are nonlinear; recognising when data is not related to the claim, not representative of the population or is deliberately being used to mislead, or support a claim or biased point of view",
+        "is_correct": true
+      },
+      {
+        "text": "A display or sample is treated as proof of a stronger claim",
+        "is_correct": false
+      },
+      {
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "The same rule and result apply to every situation without testing",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "identifying potentially misleading data representations in the media such as graphs with broken axes and scales that do not start at zero or are nonlinear; recognising when data is not related to the claim, not representative of the population or is deliberately being used to mislead, or support a claim or biased point of view",
+      "hint": "Identify potentially misleading data representations in the media such as graphs with broken axes."
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
+  },
+  {
+    "id": "ac9m10st01-p-002",
+    "curriculum_code": "AC9M10ST01",
+    "year_level": "Year 10",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "explore_the_source_and_size_of_the_sample_from_which_the_data_was_collected_and_deciding_whether_the_sample_is_appropriately_representative_of_the_population",
+    "question": "A Year 10 student is solving a problem involving explore the source and size of the sample from which the data was collected and deciding whether the sample is appropriately representative of the population. Which option is mathematically valid?",
+    "audio_prompt": "A Year 10 student is solving a problem involving explore the source and size of the sample from which the data was collected and deciding whether the sample is appropriately representative of the population. Which option is mathematically valid?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The critiquing statistical reports model is copied without interpretation",
+        "is_correct": false
+      },
+      {
+        "text": "investigating the source and size of the sample from which the data was collected and deciding whether the sample is appropriately representative of the population",
+        "is_correct": true
+      },
+      {
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "The same rule and result apply to every situation without testing",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "investigating the source and size of the sample from which the data was collected and deciding whether the sample is appropriately representative of the population",
+      "hint": "Explore the source and size of the sample from which the data was collected and deciding whether the sample is appropriately representative of the population."
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
+  },
+  {
+    "id": "ac9m10st01-p-003",
+    "curriculum_code": "AC9M10ST01",
+    "year_level": "Year 10",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "explore_population_rates_and_discussing_potential_ethical_considerations_when_presenting_statistical_data_involving_infection_rates_and_the_number_of_cases_per_head_of_population",
+    "question": "A Year 10 student is solving a problem involving explore population rates and discussing potential ethical considerations when presenting statistical data involving infection rates and the number of cases per head of population. Which option is mathematically valid?",
+    "audio_prompt": "A Year 10 student is solving a problem involving explore population rates and discussing potential ethical considerations when presenting statistical data involving infection rates and the number of cases per head of population. Which option is mathematically valid?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The result is not verified",
+        "is_correct": false
+      },
+      {
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "investigating population rates and discussing potential ethical considerations when presenting statistical data involving infection rates, and the number of cases per head of population",
+        "is_correct": true
+      },
+      {
+        "text": "The same rule and result apply to every situation without testing",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "investigating population rates and discussing potential ethical considerations when presenting statistical data involving infection rates, and the number of cases per head of population",
+      "hint": "Explore population rates and discussing potential ethical considerations when presenting statistical data involving infection rates, and the number of cases per head of population."
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
+  },
+  {
+    "id": "ac9m10st01-p-004",
+    "curriculum_code": "AC9M10ST01",
+    "year_level": "Year 10",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "use_secondary_data_to_predict_the_number_of_people_likely_to_be_infected_with_a_strain_of_flu_or_experience_side_effects_with_a_certain_medication",
+    "question": "A Year 10 student is solving a problem involving use secondary data to predict the number of people likely to be infected with a strain of flu or experience side effects with a certain medication. Which option is mathematically valid?",
+    "audio_prompt": "A Year 10 student is solving a problem involving use secondary data to predict the number of people likely to be infected with a strain of flu or experience side effects with a certain medication. Which option is mathematically valid?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A display or sample is treated as proof of a stronger claim",
+        "is_correct": false
+      },
+      {
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "The same rule and result apply to every situation without testing",
+        "is_correct": false
+      },
+      {
+        "text": "using secondary data to predict the number of people likely to be infected with a strain of flu or experience side effects with a certain medication, discussing the ethical considerations of reporting of such data to the wider public, considering validity claims and samples sizes",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "using secondary data to predict the number of people likely to be infected with a strain of flu or experience side effects with a certain medication, discussing the ethical considerations of reporting of such data to the wider public, considering validity claims and samples sizes",
+      "hint": "Use secondary data to predict the number of people likely to be infected with a strain of flu or experience side effects with a certain medication."
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
+  },
+  {
+    "id": "ac9m10st01-p-005",
+    "curriculum_code": "AC9M10ST01",
+    "year_level": "Year 10",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "recognise_how_the_identification_of_bias_is_a_critical_aspect_of_machine_learning_and_deep_learning_because_biases_can_significantly_impact_the_fairness_accuracy",
+    "question": "A Year 10 student is solving a problem involving recognise how the identification of bias is a critical aspect of machine learning and deep learning because biases can significantly impact the fairness accuracy. Which option is mathematically valid?",
+    "audio_prompt": "A Year 10 student is solving a problem involving recognise how the identification of bias is a critical aspect of machine learning and deep learning because biases can significantly impact the fairness accuracy. Which option is mathematically valid?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "recognising how the identification of bias is a critical aspect of machine learning and deep learning because biases can significantly impact the fairness, accuracy and ethical implications of artificial intelligence systems",
+        "is_correct": true
+      },
+      {
+        "text": "The critiquing statistical reports model is copied without interpretation",
+        "is_correct": false
+      },
+      {
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "The same rule and result apply to every situation without testing",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "recognising how the identification of bias is a critical aspect of machine learning and deep learning because biases can significantly impact the fairness, accuracy and ethical implications of artificial intelligence systems",
+      "hint": "Recognise how the identification of bias is a critical aspect of machine learning and deep learning because biases can significantly impact the fairness, accuracy."
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
+  },
+  {
+    "id": "ac9m10st01-p-006",
+    "curriculum_code": "AC9M10ST01",
+    "year_level": "Year 10",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "use_the_concept_of_indigenous_data_sovereignty_to_critique_and_evaluate_the_australian_government_s_closing_the_gap_report",
+    "question": "A Year 10 student is solving a problem involving use the concept of indigenous data sovereignty to critique and evaluate the australian government s closing the gap report. Which option is mathematically valid?",
+    "audio_prompt": "A Year 10 student is solving a problem involving use the concept of indigenous data sovereignty to critique and evaluate the australian government s closing the gap report. Which option is mathematically valid?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The result is not verified",
+        "is_correct": false
+      },
+      {
+        "text": "using the concept of Indigenous data sovereignty to critique and evaluate the Australian Government’s “Closing the Gap” report",
+        "is_correct": true
+      },
+      {
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "The same rule and result apply to every situation without testing",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "using the concept of Indigenous data sovereignty to critique and evaluate the Australian Government’s “Closing the Gap” report",
+      "hint": "Use the concept of Indigenous data sovereignty to critique and evaluate the Australian Government’s “Closing the Gap” report."
+    },
+    "difficulty": 4,
+    "sequence_priority": 2
+  },
+  {
+    "id": "ac9m10st01-p-007",
+    "curriculum_code": "AC9M10ST01",
+    "year_level": "Year 10",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "identify_potentially_misleading_data_representations_in_the_media_such_as_graphs_with_broken_axes",
+    "question": "A Year 10 student is solving a problem involving identify potentially misleading data representations in the media such as graphs with broken axes. Which option is mathematically valid?",
+    "audio_prompt": "A Year 10 student is solving a problem involving identify potentially misleading data representations in the media such as graphs with broken axes. Which option is mathematically valid?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A display or sample is treated as proof of a stronger claim",
+        "is_correct": false
+      },
+      {
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "identifying potentially misleading data representations in the media such as graphs with broken axes and scales that do not start at zero or are nonlinear; recognising when data is not related to the claim, not representative of the population or is deliberately being used to mislead, or support a claim or biased point of view",
+        "is_correct": true
+      },
+      {
+        "text": "The same rule and result apply to every situation without testing",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "identifying potentially misleading data representations in the media such as graphs with broken axes and scales that do not start at zero or are nonlinear; recognising when data is not related to the claim, not representative of the population or is deliberately being used to mislead, or support a claim or biased point of view",
+      "hint": "Identify potentially misleading data representations in the media such as graphs with broken axes."
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
+  },
+  {
+    "id": "ac9m10st01-p-008",
+    "curriculum_code": "AC9M10ST01",
+    "year_level": "Year 10",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "explore_the_source_and_size_of_the_sample_from_which_the_data_was_collected_and_deciding_whether_the_sample_is_appropriately_representative_of_the_population",
+    "question": "A Year 10 student is solving a problem involving explore the source and size of the sample from which the data was collected and deciding whether the sample is appropriately representative of the population. Which option is mathematically valid?",
+    "audio_prompt": "A Year 10 student is solving a problem involving explore the source and size of the sample from which the data was collected and deciding whether the sample is appropriately representative of the population. Which option is mathematically valid?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The critiquing statistical reports model is copied without interpretation",
+        "is_correct": false
+      },
+      {
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "The same rule and result apply to every situation without testing",
+        "is_correct": false
+      },
+      {
+        "text": "investigating the source and size of the sample from which the data was collected and deciding whether the sample is appropriately representative of the population",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "investigating the source and size of the sample from which the data was collected and deciding whether the sample is appropriately representative of the population",
+      "hint": "Explore the source and size of the sample from which the data was collected and deciding whether the sample is appropriately representative of the population."
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
+  },
+  {
+    "id": "ac9m10st01-t-001",
+    "curriculum_code": "AC9M10ST01",
+    "year_level": "Year 10",
+    "subject": "math",
+    "bank": "test",
+    "skill": "explore_population_rates_and_discussing_potential_ethical_considerations_when_presenting_statistical_data_involving_infection_rates_and_the_number_of_cases_per_head_of_population",
+    "question": "A Year 10 student is solving a problem involving explore population rates and discussing potential ethical considerations when presenting statistical data involving infection rates and the number of cases per head of population. Which option is mathematically valid?",
+    "audio_prompt": "A Year 10 student is solving a problem involving explore population rates and discussing potential ethical considerations when presenting statistical data involving infection rates and the number of cases per head of population. Which option is mathematically valid?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "investigating population rates and discussing potential ethical considerations when presenting statistical data involving infection rates, and the number of cases per head of population",
+        "is_correct": true
+      },
+      {
+        "text": "The result is not verified",
+        "is_correct": false
+      },
+      {
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "The same rule and result apply to every situation without testing",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "investigating population rates and discussing potential ethical considerations when presenting statistical data involving infection rates, and the number of cases per head of population",
+      "hint": "Explore population rates and discussing potential ethical considerations when presenting statistical data involving infection rates, and the number of cases per head of population."
+    }
+  },
+  {
+    "id": "ac9m10st01-t-002",
+    "curriculum_code": "AC9M10ST01",
+    "year_level": "Year 10",
+    "subject": "math",
+    "bank": "test",
+    "skill": "use_secondary_data_to_predict_the_number_of_people_likely_to_be_infected_with_a_strain_of_flu_or_experience_side_effects_with_a_certain_medication",
+    "question": "A Year 10 student is solving a problem involving use secondary data to predict the number of people likely to be infected with a strain of flu or experience side effects with a certain medication. Which option is mathematically valid?",
+    "audio_prompt": "A Year 10 student is solving a problem involving use secondary data to predict the number of people likely to be infected with a strain of flu or experience side effects with a certain medication. Which option is mathematically valid?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A display or sample is treated as proof of a stronger claim",
+        "is_correct": false
+      },
+      {
+        "text": "using secondary data to predict the number of people likely to be infected with a strain of flu or experience side effects with a certain medication, discussing the ethical considerations of reporting of such data to the wider public, considering validity claims and samples sizes",
+        "is_correct": true
+      },
+      {
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "The same rule and result apply to every situation without testing",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "using secondary data to predict the number of people likely to be infected with a strain of flu or experience side effects with a certain medication, discussing the ethical considerations of reporting of such data to the wider public, considering validity claims and samples sizes",
+      "hint": "Use secondary data to predict the number of people likely to be infected with a strain of flu or experience side effects with a certain medication."
+    }
+  },
+  {
+    "id": "ac9m10st01-t-003",
+    "curriculum_code": "AC9M10ST01",
+    "year_level": "Year 10",
+    "subject": "math",
+    "bank": "test",
+    "skill": "recognise_how_the_identification_of_bias_is_a_critical_aspect_of_machine_learning_and_deep_learning_because_biases_can_significantly_impact_the_fairness_accuracy",
+    "question": "A Year 10 student is solving a problem involving recognise how the identification of bias is a critical aspect of machine learning and deep learning because biases can significantly impact the fairness accuracy. Which option is mathematically valid?",
+    "audio_prompt": "A Year 10 student is solving a problem involving recognise how the identification of bias is a critical aspect of machine learning and deep learning because biases can significantly impact the fairness accuracy. Which option is mathematically valid?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The critiquing statistical reports model is copied without interpretation",
+        "is_correct": false
+      },
+      {
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "recognising how the identification of bias is a critical aspect of machine learning and deep learning because biases can significantly impact the fairness, accuracy and ethical implications of artificial intelligence systems",
+        "is_correct": true
+      },
+      {
+        "text": "The same rule and result apply to every situation without testing",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "recognising how the identification of bias is a critical aspect of machine learning and deep learning because biases can significantly impact the fairness, accuracy and ethical implications of artificial intelligence systems",
+      "hint": "Recognise how the identification of bias is a critical aspect of machine learning and deep learning because biases can significantly impact the fairness, accuracy."
+    }
+  },
+  {
+    "id": "ac9m10st01-t-004",
+    "curriculum_code": "AC9M10ST01",
+    "year_level": "Year 10",
+    "subject": "math",
+    "bank": "test",
+    "skill": "use_the_concept_of_indigenous_data_sovereignty_to_critique_and_evaluate_the_australian_government_s_closing_the_gap_report",
+    "question": "A Year 10 student is solving a problem involving use the concept of indigenous data sovereignty to critique and evaluate the australian government s closing the gap report. Which option is mathematically valid?",
+    "audio_prompt": "A Year 10 student is solving a problem involving use the concept of indigenous data sovereignty to critique and evaluate the australian government s closing the gap report. Which option is mathematically valid?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The result is not verified",
+        "is_correct": false
+      },
+      {
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "The same rule and result apply to every situation without testing",
+        "is_correct": false
+      },
+      {
+        "text": "using the concept of Indigenous data sovereignty to critique and evaluate the Australian Government’s “Closing the Gap” report",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "using the concept of Indigenous data sovereignty to critique and evaluate the Australian Government’s “Closing the Gap” report",
+      "hint": "Use the concept of Indigenous data sovereignty to critique and evaluate the Australian Government’s “Closing the Gap” report."
+    }
+  },
+  {
+    "id": "ac9m10st01-t-005",
+    "curriculum_code": "AC9M10ST01",
+    "year_level": "Year 10",
+    "subject": "math",
+    "bank": "test",
+    "skill": "identify_potentially_misleading_data_representations_in_the_media_such_as_graphs_with_broken_axes",
+    "question": "Which response correctly uses identify potentially misleading data representations in the media such as graphs with broken axes?",
+    "audio_prompt": "Which response correctly uses identify potentially misleading data representations in the media such as graphs with broken axes?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "identifying potentially misleading data representations in the media such as graphs with broken axes and scales that do not start at zero or are nonlinear; recognising when data is not related to the claim, not representative of the population or is deliberately being used to mislead, or support a claim or biased point of view",
+        "is_correct": true
+      },
+      {
+        "text": "A display or sample is treated as proof of a stronger claim",
+        "is_correct": false
+      },
+      {
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "The same rule and result apply to every situation without testing",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "identifying potentially misleading data representations in the media such as graphs with broken axes and scales that do not start at zero or are nonlinear; recognising when data is not related to the claim, not representative of the population or is deliberately being used to mislead, or support a claim or biased point of view",
+      "hint": "Identify potentially misleading data representations in the media such as graphs with broken axes."
+    }
+  },
+  {
+    "id": "ac9m10st01-t-006",
+    "curriculum_code": "AC9M10ST01",
+    "year_level": "Year 10",
+    "subject": "math",
+    "bank": "test",
+    "skill": "explore_the_source_and_size_of_the_sample_from_which_the_data_was_collected_and_deciding_whether_the_sample_is_appropriately_representative_of_the_population",
+    "question": "Which response correctly uses explore the source and size of the sample from which the data was collected and deciding whether the sample is appropriately representative of the population?",
+    "audio_prompt": "Which response correctly uses explore the source and size of the sample from which the data was collected and deciding whether the sample is appropriately representative of the population?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The critiquing statistical reports model is copied without interpretation",
+        "is_correct": false
+      },
+      {
+        "text": "investigating the source and size of the sample from which the data was collected and deciding whether the sample is appropriately representative of the population",
+        "is_correct": true
+      },
+      {
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "The same rule and result apply to every situation without testing",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "investigating the source and size of the sample from which the data was collected and deciding whether the sample is appropriately representative of the population",
+      "hint": "Explore the source and size of the sample from which the data was collected and deciding whether the sample is appropriately representative of the population."
+    }
+  },
+  {
+    "id": "ac9m10st01-t-007",
+    "curriculum_code": "AC9M10ST01",
+    "year_level": "Year 10",
+    "subject": "math",
+    "bank": "test",
+    "skill": "explore_population_rates_and_discussing_potential_ethical_considerations_when_presenting_statistical_data_involving_infection_rates_and_the_number_of_cases_per_head_of_population",
+    "question": "Which response correctly uses explore population rates and discussing potential ethical considerations when presenting statistical data involving infection rates, and the number of cases per head of population?",
+    "audio_prompt": "Which response correctly uses explore population rates and discussing potential ethical considerations when presenting statistical data involving infection rates, and the number of cases per head of population?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The result is not verified",
+        "is_correct": false
+      },
+      {
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "investigating population rates and discussing potential ethical considerations when presenting statistical data involving infection rates, and the number of cases per head of population",
+        "is_correct": true
+      },
+      {
+        "text": "The same rule and result apply to every situation without testing",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "investigating population rates and discussing potential ethical considerations when presenting statistical data involving infection rates, and the number of cases per head of population",
+      "hint": "Explore population rates and discussing potential ethical considerations when presenting statistical data involving infection rates, and the number of cases per head of population."
+    }
+  },
+  {
+    "id": "ac9m10st01-t-008",
+    "curriculum_code": "AC9M10ST01",
+    "year_level": "Year 10",
+    "subject": "math",
+    "bank": "test",
+    "skill": "use_secondary_data_to_predict_the_number_of_people_likely_to_be_infected_with_a_strain_of_flu_or_experience_side_effects_with_a_certain_medication",
+    "question": "Which response correctly uses use secondary data to predict the number of people likely to be infected with a strain of flu or experience side effects with a certain medication?",
+    "audio_prompt": "Which response correctly uses use secondary data to predict the number of people likely to be infected with a strain of flu or experience side effects with a certain medication?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A display or sample is treated as proof of a stronger claim",
+        "is_correct": false
+      },
+      {
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "The same rule and result apply to every situation without testing",
+        "is_correct": false
+      },
+      {
+        "text": "using secondary data to predict the number of people likely to be infected with a strain of flu or experience side effects with a certain medication, discussing the ethical considerations of reporting of such data to the wider public, considering validity claims and samples sizes",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "using secondary data to predict the number of people likely to be infected with a strain of flu or experience side effects with a certain medication, discussing the ethical considerations of reporting of such data to the wider public, considering validity claims and samples sizes",
+      "hint": "Use secondary data to predict the number of people likely to be infected with a strain of flu or experience side effects with a certain medication."
+    }
+  }
+]

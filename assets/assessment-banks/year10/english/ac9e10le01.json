@@ -1,0 +1,616 @@
+[
+  {
+    "id": "ac9e10le01-p-001",
+    "curriculum_code": "AC9E10LE01",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "a_writer_or_speaker_can_use_voice_to_shape_analysing_the_ways_in_which_cultural_stories_may_be_retold_and_adapted_across_a_range_of_contexts_and_influence_how_an_audience_understands_the_text",
+    "question": "A Year 10 student is working with a text and needs to use a writer or speaker can use voice to shape analysing the ways in which cultural stories may be retold and adapted across a range of contexts and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "audio_prompt": "A Year 10 student is working with a text and needs to use a writer or speaker can use voice to shape analysing the ways in which cultural stories may be retold and adapted across a range of contexts and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "analysing the ways in which cultural stories may be retold and adapted across a range of contexts, such as the story of the “anti-hero”, and evaluating how the “anti-hero” reflects the context",
+        "is_correct": true
+      },
+      {
+        "text": "A feature name is enough to prove an interpretation",
+        "is_correct": false
+      },
+      {
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "The same rule and result apply to every situation without testing",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "analysing the ways in which cultural stories may be retold and adapted across a range of contexts, such as the story of the “anti-hero”, and evaluating how the “anti-hero” reflects the context",
+      "hint": "A writer or speaker can use voice to shape analysing the ways in which cultural stories may be retold and adapted across a range of contexts and influence how an audience understands the text."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
+  },
+  {
+    "id": "ac9e10le01-p-002",
+    "curriculum_code": "AC9E10LE01",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "a_writer_or_speaker_can_use_representation_to_shape_analysing_how_stories_written_by_first_nations_australian_authors_contemporise_or_modernise_traditional_stories_and_evaluating_the_responses_of_contemporary_audiences_and_influence_how_an_audience_understands_the_text",
+    "question": "A Year 10 student is working with a text and needs to use a writer or speaker can use representation to shape analysing how stories written by first nations australian authors contemporise or modernise traditional stories and evaluating the responses of contemporary audiences and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "audio_prompt": "A Year 10 student is working with a text and needs to use a writer or speaker can use representation to shape analysing how stories written by first nations australian authors contemporise or modernise traditional stories and evaluating the responses of contemporary audiences and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Effect means whether the student personally likes the text",
+        "is_correct": false
+      },
+      {
+        "text": "analysing how stories written by First Nations Australian authors contemporise or modernise traditional stories and evaluating the responses of contemporary audiences",
+        "is_correct": true
+      },
+      {
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "The same rule and result apply to every situation without testing",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "analysing how stories written by First Nations Australian authors contemporise or modernise traditional stories and evaluating the responses of contemporary audiences",
+      "hint": "A writer or speaker can use representation to shape analysing how stories written by first nations australian authors contemporise or modernise traditional stories and evaluating the responses of contemporary audiences and influence how an audience understands the text."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
+  },
+  {
+    "id": "ac9e10le01-p-003",
+    "curriculum_code": "AC9E10LE01",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "a_writer_or_speaker_can_use_text_choice_to_shape_analysing_how_humour_is_used_to_represent_the_underdog_in_australian_texts_and_evaluating_how_the_underdog_reflects_the_context_and_influence_how_an_audience_understands_the_text",
+    "question": "A Year 10 student is working with a text and needs to use a writer or speaker can use text choice to shape analysing how humour is used to represent the underdog in australian texts and evaluating how the underdog reflects the context and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "audio_prompt": "A Year 10 student is working with a text and needs to use a writer or speaker can use text choice to shape analysing how humour is used to represent the underdog in australian texts and evaluating how the underdog reflects the context and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A feature name is enough to prove an interpretation",
+        "is_correct": false
+      },
+      {
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "analysing how humour is used to represent the underdog in Australian texts and evaluating how the underdog reflects the context",
+        "is_correct": true
+      },
+      {
+        "text": "The same rule and result apply to every situation without testing",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "analysing how humour is used to represent the underdog in Australian texts and evaluating how the underdog reflects the context",
+      "hint": "A writer or speaker can use text choice to shape analysing how humour is used to represent the underdog in australian texts and evaluating how the underdog reflects the context and influence how an audience understands the text."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
+  },
+  {
+    "id": "ac9e10le01-p-004",
+    "curriculum_code": "AC9E10LE01",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "a_writer_or_speaker_can_use_voice_to_shape_analysing_the_ways_in_which_cultural_stories_may_be_retold_and_adapted_across_a_range_of_contexts_and_influence_how_an_audience_understands_the_text",
+    "question": "A Year 10 student is working with a text and needs to use a writer or speaker can use voice to shape analysing the ways in which cultural stories may be retold and adapted across a range of contexts and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "audio_prompt": "A Year 10 student is working with a text and needs to use a writer or speaker can use voice to shape analysing the ways in which cultural stories may be retold and adapted across a range of contexts and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Effect means whether the student personally likes the text",
+        "is_correct": false
+      },
+      {
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "The same rule and result apply to every situation without testing",
+        "is_correct": false
+      },
+      {
+        "text": "analysing the ways in which cultural stories may be retold and adapted across a range of contexts, such as the story of the “anti-hero”, and evaluating how the “anti-hero” reflects the context",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "analysing the ways in which cultural stories may be retold and adapted across a range of contexts, such as the story of the “anti-hero”, and evaluating how the “anti-hero” reflects the context",
+      "hint": "A writer or speaker can use voice to shape analysing the ways in which cultural stories may be retold and adapted across a range of contexts and influence how an audience understands the text."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
+  },
+  {
+    "id": "ac9e10le01-p-005",
+    "curriculum_code": "AC9E10LE01",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "a_writer_or_speaker_can_use_representation_to_shape_analysing_how_stories_written_by_first_nations_australian_authors_contemporise_or_modernise_traditional_stories_and_evaluating_the_responses_of_contemporary_audiences_and_influence_how_an_audience_understands_the_text",
+    "question": "A Year 10 student is working with a text and needs to use a writer or speaker can use representation to shape analysing how stories written by first nations australian authors contemporise or modernise traditional stories and evaluating the responses of contemporary audiences and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "audio_prompt": "A Year 10 student is working with a text and needs to use a writer or speaker can use representation to shape analysing how stories written by first nations australian authors contemporise or modernise traditional stories and evaluating the responses of contemporary audiences and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "analysing how stories written by First Nations Australian authors contemporise or modernise traditional stories and evaluating the responses of contemporary audiences",
+        "is_correct": true
+      },
+      {
+        "text": "A feature name is enough to prove an interpretation",
+        "is_correct": false
+      },
+      {
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "The same rule and result apply to every situation without testing",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "analysing how stories written by First Nations Australian authors contemporise or modernise traditional stories and evaluating the responses of contemporary audiences",
+      "hint": "A writer or speaker can use representation to shape analysing how stories written by first nations australian authors contemporise or modernise traditional stories and evaluating the responses of contemporary audiences and influence how an audience understands the text."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
+  },
+  {
+    "id": "ac9e10le01-p-006",
+    "curriculum_code": "AC9E10LE01",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "a_writer_or_speaker_can_use_text_choice_to_shape_analysing_how_humour_is_used_to_represent_the_underdog_in_australian_texts_and_evaluating_how_the_underdog_reflects_the_context_and_influence_how_an_audience_understands_the_text",
+    "question": "A Year 10 student is working with a text and needs to use a writer or speaker can use text choice to shape analysing how humour is used to represent the underdog in australian texts and evaluating how the underdog reflects the context and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "audio_prompt": "A Year 10 student is working with a text and needs to use a writer or speaker can use text choice to shape analysing how humour is used to represent the underdog in australian texts and evaluating how the underdog reflects the context and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Effect means whether the student personally likes the text",
+        "is_correct": false
+      },
+      {
+        "text": "analysing how humour is used to represent the underdog in Australian texts and evaluating how the underdog reflects the context",
+        "is_correct": true
+      },
+      {
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "The same rule and result apply to every situation without testing",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "analysing how humour is used to represent the underdog in Australian texts and evaluating how the underdog reflects the context",
+      "hint": "A writer or speaker can use text choice to shape analysing how humour is used to represent the underdog in australian texts and evaluating how the underdog reflects the context and influence how an audience understands the text."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
+  },
+  {
+    "id": "ac9e10le01-p-007",
+    "curriculum_code": "AC9E10LE01",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "a_writer_or_speaker_can_use_voice_to_shape_analysing_the_ways_in_which_cultural_stories_may_be_retold_and_adapted_across_a_range_of_contexts_and_influence_how_an_audience_understands_the_text",
+    "question": "What should you check when using a writer or speaker can use voice to shape analysing the ways in which cultural stories may be retold and adapted across a range of contexts and influence how an audience understands the text?",
+    "audio_prompt": "What should you check when using a writer or speaker can use voice to shape analysing the ways in which cultural stories may be retold and adapted across a range of contexts and influence how an audience understands the text?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A feature name is enough to prove an interpretation",
+        "is_correct": false
+      },
+      {
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "analysing the ways in which cultural stories may be retold and adapted across a range of contexts, such as the story of the “anti-hero”, and evaluating how the “anti-hero” reflects the context",
+        "is_correct": true
+      },
+      {
+        "text": "The same rule and result apply to every situation without testing",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "analysing the ways in which cultural stories may be retold and adapted across a range of contexts, such as the story of the “anti-hero”, and evaluating how the “anti-hero” reflects the context",
+      "hint": "A writer or speaker can use voice to shape analysing the ways in which cultural stories may be retold and adapted across a range of contexts and influence how an audience understands the text."
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
+  },
+  {
+    "id": "ac9e10le01-p-008",
+    "curriculum_code": "AC9E10LE01",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "a_writer_or_speaker_can_use_representation_to_shape_analysing_how_stories_written_by_first_nations_australian_authors_contemporise_or_modernise_traditional_stories_and_evaluating_the_responses_of_contemporary_audiences_and_influence_how_an_audience_understands_the_text",
+    "question": "What should you check when using a writer or speaker can use representation to shape analysing how stories written by first nations australian authors contemporise or modernise traditional stories and evaluating the responses of contemporary audiences and influence how an audience understands the text?",
+    "audio_prompt": "What should you check when using a writer or speaker can use representation to shape analysing how stories written by first nations australian authors contemporise or modernise traditional stories and evaluating the responses of contemporary audiences and influence how an audience understands the text?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Effect means whether the student personally likes the text",
+        "is_correct": false
+      },
+      {
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "The same rule and result apply to every situation without testing",
+        "is_correct": false
+      },
+      {
+        "text": "analysing how stories written by First Nations Australian authors contemporise or modernise traditional stories and evaluating the responses of contemporary audiences",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "analysing how stories written by First Nations Australian authors contemporise or modernise traditional stories and evaluating the responses of contemporary audiences",
+      "hint": "A writer or speaker can use representation to shape analysing how stories written by first nations australian authors contemporise or modernise traditional stories and evaluating the responses of contemporary audiences and influence how an audience understands the text."
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
+  },
+  {
+    "id": "ac9e10le01-t-001",
+    "curriculum_code": "AC9E10LE01",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "test",
+    "skill": "a_writer_or_speaker_can_use_text_choice_to_shape_analysing_how_humour_is_used_to_represent_the_underdog_in_australian_texts_and_evaluating_how_the_underdog_reflects_the_context_and_influence_how_an_audience_understands_the_text",
+    "question": "Which response correctly uses a writer or speaker can use text choice to shape analysing how humour is used to represent the underdog in australian texts and evaluating how the underdog reflects the context and influence how an audience understands the text?",
+    "audio_prompt": "Which response correctly uses a writer or speaker can use text choice to shape analysing how humour is used to represent the underdog in australian texts and evaluating how the underdog reflects the context and influence how an audience understands the text?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "analysing how humour is used to represent the underdog in Australian texts and evaluating how the underdog reflects the context",
+        "is_correct": true
+      },
+      {
+        "text": "A feature name is enough to prove an interpretation",
+        "is_correct": false
+      },
+      {
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "The same rule and result apply to every situation without testing",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "analysing how humour is used to represent the underdog in Australian texts and evaluating how the underdog reflects the context",
+      "hint": "A writer or speaker can use text choice to shape analysing how humour is used to represent the underdog in australian texts and evaluating how the underdog reflects the context and influence how an audience understands the text."
+    }
+  },
+  {
+    "id": "ac9e10le01-t-002",
+    "curriculum_code": "AC9E10LE01",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "test",
+    "skill": "a_writer_or_speaker_can_use_voice_to_shape_analysing_the_ways_in_which_cultural_stories_may_be_retold_and_adapted_across_a_range_of_contexts_and_influence_how_an_audience_understands_the_text",
+    "question": "A Year 10 student is working with a text and needs to use a writer or speaker can use voice to shape analysing the ways in which cultural stories may be retold and adapted across a range of contexts and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "audio_prompt": "A Year 10 student is working with a text and needs to use a writer or speaker can use voice to shape analysing the ways in which cultural stories may be retold and adapted across a range of contexts and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Effect means whether the student personally likes the text",
+        "is_correct": false
+      },
+      {
+        "text": "analysing the ways in which cultural stories may be retold and adapted across a range of contexts, such as the story of the “anti-hero”, and evaluating how the “anti-hero” reflects the context",
+        "is_correct": true
+      },
+      {
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "The same rule and result apply to every situation without testing",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "analysing the ways in which cultural stories may be retold and adapted across a range of contexts, such as the story of the “anti-hero”, and evaluating how the “anti-hero” reflects the context",
+      "hint": "A writer or speaker can use voice to shape analysing the ways in which cultural stories may be retold and adapted across a range of contexts and influence how an audience understands the text."
+    }
+  },
+  {
+    "id": "ac9e10le01-t-003",
+    "curriculum_code": "AC9E10LE01",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "test",
+    "skill": "a_writer_or_speaker_can_use_representation_to_shape_analysing_how_stories_written_by_first_nations_australian_authors_contemporise_or_modernise_traditional_stories_and_evaluating_the_responses_of_contemporary_audiences_and_influence_how_an_audience_understands_the_text",
+    "question": "A Year 10 student is working with a text and needs to use a writer or speaker can use representation to shape analysing how stories written by first nations australian authors contemporise or modernise traditional stories and evaluating the responses of contemporary audiences and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "audio_prompt": "A Year 10 student is working with a text and needs to use a writer or speaker can use representation to shape analysing how stories written by first nations australian authors contemporise or modernise traditional stories and evaluating the responses of contemporary audiences and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A feature name is enough to prove an interpretation",
+        "is_correct": false
+      },
+      {
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "analysing how stories written by First Nations Australian authors contemporise or modernise traditional stories and evaluating the responses of contemporary audiences",
+        "is_correct": true
+      },
+      {
+        "text": "The same rule and result apply to every situation without testing",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "analysing how stories written by First Nations Australian authors contemporise or modernise traditional stories and evaluating the responses of contemporary audiences",
+      "hint": "A writer or speaker can use representation to shape analysing how stories written by first nations australian authors contemporise or modernise traditional stories and evaluating the responses of contemporary audiences and influence how an audience understands the text."
+    }
+  },
+  {
+    "id": "ac9e10le01-t-004",
+    "curriculum_code": "AC9E10LE01",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "test",
+    "skill": "a_writer_or_speaker_can_use_text_choice_to_shape_analysing_how_humour_is_used_to_represent_the_underdog_in_australian_texts_and_evaluating_how_the_underdog_reflects_the_context_and_influence_how_an_audience_understands_the_text",
+    "question": "A Year 10 student is working with a text and needs to use a writer or speaker can use text choice to shape analysing how humour is used to represent the underdog in australian texts and evaluating how the underdog reflects the context and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "audio_prompt": "A Year 10 student is working with a text and needs to use a writer or speaker can use text choice to shape analysing how humour is used to represent the underdog in australian texts and evaluating how the underdog reflects the context and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Effect means whether the student personally likes the text",
+        "is_correct": false
+      },
+      {
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "The same rule and result apply to every situation without testing",
+        "is_correct": false
+      },
+      {
+        "text": "analysing how humour is used to represent the underdog in Australian texts and evaluating how the underdog reflects the context",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "analysing how humour is used to represent the underdog in Australian texts and evaluating how the underdog reflects the context",
+      "hint": "A writer or speaker can use text choice to shape analysing how humour is used to represent the underdog in australian texts and evaluating how the underdog reflects the context and influence how an audience understands the text."
+    }
+  },
+  {
+    "id": "ac9e10le01-t-005",
+    "curriculum_code": "AC9E10LE01",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "test",
+    "skill": "a_writer_or_speaker_can_use_voice_to_shape_analysing_the_ways_in_which_cultural_stories_may_be_retold_and_adapted_across_a_range_of_contexts_and_influence_how_an_audience_understands_the_text",
+    "question": "When would you use a writer or speaker can use voice to shape analysing the ways in which cultural stories may be retold and adapted across a range of contexts and influence how an audience understands the text?",
+    "audio_prompt": "When would you use a writer or speaker can use voice to shape analysing the ways in which cultural stories may be retold and adapted across a range of contexts and influence how an audience understands the text?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "analysing the ways in which cultural stories may be retold and adapted across a range of contexts, such as the story of the “anti-hero”, and evaluating how the “anti-hero” reflects the context",
+        "is_correct": true
+      },
+      {
+        "text": "A feature name is enough to prove an interpretation",
+        "is_correct": false
+      },
+      {
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "The same rule and result apply to every situation without testing",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "analysing the ways in which cultural stories may be retold and adapted across a range of contexts, such as the story of the “anti-hero”, and evaluating how the “anti-hero” reflects the context",
+      "hint": "A writer or speaker can use voice to shape analysing the ways in which cultural stories may be retold and adapted across a range of contexts and influence how an audience understands the text."
+    }
+  },
+  {
+    "id": "ac9e10le01-t-006",
+    "curriculum_code": "AC9E10LE01",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "test",
+    "skill": "a_writer_or_speaker_can_use_representation_to_shape_analysing_how_stories_written_by_first_nations_australian_authors_contemporise_or_modernise_traditional_stories_and_evaluating_the_responses_of_contemporary_audiences_and_influence_how_an_audience_understands_the_text",
+    "question": "When would you use a writer or speaker can use representation to shape analysing how stories written by first nations australian authors contemporise or modernise traditional stories and evaluating the responses of contemporary audiences and influence how an audience understands the text?",
+    "audio_prompt": "When would you use a writer or speaker can use representation to shape analysing how stories written by first nations australian authors contemporise or modernise traditional stories and evaluating the responses of contemporary audiences and influence how an audience understands the text?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Effect means whether the student personally likes the text",
+        "is_correct": false
+      },
+      {
+        "text": "analysing how stories written by First Nations Australian authors contemporise or modernise traditional stories and evaluating the responses of contemporary audiences",
+        "is_correct": true
+      },
+      {
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "The same rule and result apply to every situation without testing",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "analysing how stories written by First Nations Australian authors contemporise or modernise traditional stories and evaluating the responses of contemporary audiences",
+      "hint": "A writer or speaker can use representation to shape analysing how stories written by first nations australian authors contemporise or modernise traditional stories and evaluating the responses of contemporary audiences and influence how an audience understands the text."
+    }
+  },
+  {
+    "id": "ac9e10le01-t-007",
+    "curriculum_code": "AC9E10LE01",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "test",
+    "skill": "a_writer_or_speaker_can_use_text_choice_to_shape_analysing_how_humour_is_used_to_represent_the_underdog_in_australian_texts_and_evaluating_how_the_underdog_reflects_the_context_and_influence_how_an_audience_understands_the_text",
+    "question": "When would you use a writer or speaker can use text choice to shape analysing how humour is used to represent the underdog in australian texts and evaluating how the underdog reflects the context and influence how an audience understands the text?",
+    "audio_prompt": "When would you use a writer or speaker can use text choice to shape analysing how humour is used to represent the underdog in australian texts and evaluating how the underdog reflects the context and influence how an audience understands the text?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A feature name is enough to prove an interpretation",
+        "is_correct": false
+      },
+      {
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "analysing how humour is used to represent the underdog in Australian texts and evaluating how the underdog reflects the context",
+        "is_correct": true
+      },
+      {
+        "text": "The same rule and result apply to every situation without testing",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "analysing how humour is used to represent the underdog in Australian texts and evaluating how the underdog reflects the context",
+      "hint": "A writer or speaker can use text choice to shape analysing how humour is used to represent the underdog in australian texts and evaluating how the underdog reflects the context and influence how an audience understands the text."
+    }
+  },
+  {
+    "id": "ac9e10le01-t-008",
+    "curriculum_code": "AC9E10LE01",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "test",
+    "skill": "a_writer_or_speaker_can_use_voice_to_shape_analysing_the_ways_in_which_cultural_stories_may_be_retold_and_adapted_across_a_range_of_contexts_and_influence_how_an_audience_understands_the_text",
+    "question": "A Year 10 student is working with a text and needs to use a writer or speaker can use voice to shape analysing the ways in which cultural stories may be retold and adapted across a range of contexts and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "audio_prompt": "A Year 10 student is working with a text and needs to use a writer or speaker can use voice to shape analysing the ways in which cultural stories may be retold and adapted across a range of contexts and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Effect means whether the student personally likes the text",
+        "is_correct": false
+      },
+      {
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "The same rule and result apply to every situation without testing",
+        "is_correct": false
+      },
+      {
+        "text": "analysing the ways in which cultural stories may be retold and adapted across a range of contexts, such as the story of the “anti-hero”, and evaluating how the “anti-hero” reflects the context",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "analysing the ways in which cultural stories may be retold and adapted across a range of contexts, such as the story of the “anti-hero”, and evaluating how the “anti-hero” reflects the context",
+      "hint": "A writer or speaker can use voice to shape analysing the ways in which cultural stories may be retold and adapted across a range of contexts and influence how an audience understands the text."
+    }
+  }
+]

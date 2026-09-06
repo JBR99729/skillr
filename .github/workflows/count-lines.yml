@@ -1,0 +1,33 @@
+name: Count repository lines
+
+on:
+  push:
+    paths:
+      - '.github/workflows/count-lines.yml'
+      - 'analytics/line-count-trigger.txt'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  count:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: Install cloc
+        run: sudo apt-get update -qq && sudo apt-get install -y cloc >/dev/null
+
+      - name: Count lines
+        run: |
+          cloc . \
+            --exclude-dir=.git,node_modules,vendor,dist,build,coverage \
+            --by-file-by-lang \
+            --csv \
+            --out=cloc.csv
+          echo '=== CLOC SUMMARY ==='
+          cloc . \
+            --exclude-dir=.git,node_modules,vendor,dist,build,coverage

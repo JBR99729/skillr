@@ -1,0 +1,1722 @@
+[
+  {
+    "id": "ac9e1ly03-er4-p-001",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY03",
+    "bank": "practice",
+    "skill": "comparing imaginative, informative and persuasive texts",
+    "question": "Text A: 'The rabbit put on a crown and ruled the moon.' Text B: 'Rabbits have long ears.' Which gives information about real rabbits?",
+    "audio_prompt": "Text A: 'The rabbit put on a crown and ruled the moon.' Text B: 'Rabbits have long ears.' Which gives information about real rabbits?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "B",
+        "is_correct": true
+      },
+      {
+        "text": "A",
+        "is_correct": false
+      },
+      {
+        "text": "Both describe a real rabbit's body",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "B states a body feature, while A tells an impossible imagined event.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 1,
+    "review": {
+      "version": "20260906-english-review-4",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/which-could-happen-in-real-life",
+      "evidence_scope": "Representative related IXL task inspected; curriculum determines full coverage. See docs/question-bank-reviews/2026-09-06-year1-english-ly01-ly05.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1ly03-er4-p-002",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY03",
+    "bank": "practice",
+    "skill": "comparing imaginative, informative and persuasive texts",
+    "question": "Read: 'Try the red swing. It is the most fun!' Is this mainly a story, information or persuasion?",
+    "audio_prompt": "Read: 'Try the red swing. It is the most fun!' Is this mainly a story, information or persuasion?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Information about how swings are made",
+        "is_correct": false
+      },
+      {
+        "text": "Persuasion",
+        "is_correct": true
+      },
+      {
+        "text": "A story",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The writer tries to influence a choice by recommending the swing.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 2,
+    "review": {
+      "version": "20260906-english-review-4",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/which-could-happen-in-real-life",
+      "evidence_scope": "Representative related IXL task inspected; curriculum determines full coverage. See docs/question-bank-reviews/2026-09-06-year1-english-ly01-ly05.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1ly03-er4-p-003",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY03",
+    "bank": "practice",
+    "skill": "comparing imaginative, informative and persuasive texts",
+    "question": "Text A: 'A turtle carries a shell.' Text B: 'A turtle hired a taxi to the stars.' Which contains an event that could not happen in real life?",
+    "audio_prompt": "Text A: 'A turtle carries a shell.' Text B: 'A turtle hired a taxi to the stars.' Which contains an event that could not happen in real life?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A",
+        "is_correct": false
+      },
+      {
+        "text": "Neither",
+        "is_correct": false
+      },
+      {
+        "text": "B",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Hiring a taxi to the stars gives the turtle an impossible story action.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 3,
+    "review": {
+      "version": "20260906-english-review-4",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/which-could-happen-in-real-life",
+      "evidence_scope": "Representative related IXL task inspected; curriculum determines full coverage. See docs/question-bank-reviews/2026-09-06-year1-english-ly01-ly05.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1ly03-er4-p-004",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY03",
+    "bank": "practice",
+    "skill": "comparing imaginative, informative and persuasive texts",
+    "question": "Read: 'Lena packed a bag, missed the bus and ran to the next stop.' What makes this an imaginative story excerpt?",
+    "audio_prompt": "Read: 'Lena packed a bag, missed the bus and ran to the next stop.' What makes this an imaginative story excerpt?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It follows a character through events",
+        "is_correct": true
+      },
+      {
+        "text": "It lists facts about bus engines",
+        "is_correct": false
+      },
+      {
+        "text": "It asks readers to use the bus",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A story can contain realistic events; it does not need magic to be imaginative.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 4,
+    "review": {
+      "version": "20260906-english-review-4",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/which-could-happen-in-real-life",
+      "evidence_scope": "Representative related IXL task inspected; curriculum determines full coverage. See docs/question-bank-reviews/2026-09-06-year1-english-ly01-ly05.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1ly03-er4-p-005",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY03",
+    "bank": "practice",
+    "skill": "comparing imaginative, informative and persuasive texts",
+    "question": "Text A: 'Bees have six legs.' Text B: 'Plant flowers to help bees.' How are they different?",
+    "audio_prompt": "Text A: 'Bees have six legs.' Text B: 'Plant flowers to help bees.' How are they different?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Both tell the same story",
+        "is_correct": false
+      },
+      {
+        "text": "A gives a fact; B asks for an action",
+        "is_correct": true
+      },
+      {
+        "text": "A asks for an action; B tells an adventure",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The first gives information, while the second encourages readers to do something.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 5,
+    "review": {
+      "version": "20260906-english-review-4",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/which-could-happen-in-real-life",
+      "evidence_scope": "Representative related IXL task inspected; curriculum determines full coverage. See docs/question-bank-reviews/2026-09-06-year1-english-ly01-ly05.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1ly03-er4-p-006",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY03",
+    "bank": "practice",
+    "skill": "comparing imaginative, informative and persuasive texts",
+    "question": "Read: 'The sock jumped out of the drawer and asked for breakfast.' Which clue shows imagination?",
+    "audio_prompt": "Read: 'The sock jumped out of the drawer and asked for breakfast.' Which clue shows imagination?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The sentence mentions a drawer",
+        "is_correct": false
+      },
+      {
+        "text": "Breakfast happens in the morning",
+        "is_correct": false
+      },
+      {
+        "text": "A sock acts and speaks like a person",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A talking, jumping sock is an invented character, unlike an ordinary sock.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 6,
+    "review": {
+      "version": "20260906-english-review-4",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/which-could-happen-in-real-life",
+      "evidence_scope": "Representative related IXL task inspected; curriculum determines full coverage. See docs/question-bank-reviews/2026-09-06-year1-english-ly01-ly05.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1ly03-er4-p-007",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY03",
+    "bank": "practice",
+    "skill": "comparing imaginative, informative and persuasive texts",
+    "question": "Text A: 'The duck waddled to the pond.' Text B: 'The duck turned the pond into jelly with a spell.' Which event could happen in real life?",
+    "audio_prompt": "Text A: 'The duck waddled to the pond.' Text B: 'The duck turned the pond into jelly with a spell.' Which event could happen in real life?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A",
+        "is_correct": true
+      },
+      {
+        "text": "B",
+        "is_correct": false
+      },
+      {
+        "text": "Both",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A duck can walk to a pond; casting a spell is a fantasy event.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 7,
+    "review": {
+      "version": "20260906-english-review-4",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/which-could-happen-in-real-life",
+      "evidence_scope": "Representative related IXL task inspected; curriculum determines full coverage. See docs/question-bank-reviews/2026-09-06-year1-english-ly01-ly05.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1ly03-er4-p-008",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY03",
+    "bank": "practice",
+    "skill": "comparing imaginative, informative and persuasive texts",
+    "question": "Read: 'A ramp is a sloping surface.' What kind of sentence is this?",
+    "audio_prompt": "Read: 'A ramp is a sloping surface.' What kind of sentence is this?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A story problem and ending",
+        "is_correct": false
+      },
+      {
+        "text": "An informative statement",
+        "is_correct": true
+      },
+      {
+        "text": "A request to choose a ramp",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The sentence explains what a ramp is rather than narrating events or urging a choice.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 8,
+    "review": {
+      "version": "20260906-english-review-4",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/which-could-happen-in-real-life",
+      "evidence_scope": "Representative related IXL task inspected; curriculum determines full coverage. See docs/question-bank-reviews/2026-09-06-year1-english-ly01-ly05.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1ly03-er4-p-009",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY03",
+    "bank": "practice",
+    "skill": "comparing imaginative, informative and persuasive texts",
+    "question": "Text A: 'Our sunflower is taller than the fence.' Text B: 'Grow sunflowers; their bright flowers make the garden cheerful.' What does B do that A does not?",
+    "audio_prompt": "Text A: 'Our sunflower is taller than the fence.' Text B: 'Grow sunflowers; their bright flowers make the garden cheerful.' What does B do that A does not?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Mentions a kind of plant",
+        "is_correct": false
+      },
+      {
+        "text": "Describes something in a garden",
+        "is_correct": false
+      },
+      {
+        "text": "Encourages the reader to grow something",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "B uses a request and a positive reason to encourage planting.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "apply",
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "sequence_priority": 9,
+    "review": {
+      "version": "20260906-english-review-4",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/which-could-happen-in-real-life",
+      "evidence_scope": "Representative related IXL task inspected; curriculum determines full coverage. See docs/question-bank-reviews/2026-09-06-year1-english-ly01-ly05.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1ly03-er4-p-010",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY03",
+    "bank": "practice",
+    "skill": "comparing imaginative, informative and persuasive texts",
+    "question": "Text A: 'The fox crept towards the basket.' Text B: 'Foxes eat many kinds of food.' What do both texts include?",
+    "audio_prompt": "Text A: 'The fox crept towards the basket.' Text B: 'Foxes eat many kinds of food.' What do both texts include?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A fox or foxes as the topic",
+        "is_correct": true
+      },
+      {
+        "text": "An instruction to feed a fox",
+        "is_correct": false
+      },
+      {
+        "text": "An impossible event",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Both concern foxes, but one follows a story action and the other gives information.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "apply",
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "sequence_priority": 10,
+    "review": {
+      "version": "20260906-english-review-4",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/which-could-happen-in-real-life",
+      "evidence_scope": "Representative related IXL task inspected; curriculum determines full coverage. See docs/question-bank-reviews/2026-09-06-year1-english-ly01-ly05.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1ly03-er4-p-011",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY03",
+    "bank": "practice",
+    "skill": "comparing imaginative, informative and persuasive texts",
+    "question": "Text A: 'The lost robot asked a tree for directions.' Text B: 'Choose this robot toy; it can dance.' How do their purposes differ?",
+    "audio_prompt": "Text A: 'The lost robot asked a tree for directions.' Text B: 'Choose this robot toy; it can dance.' How do their purposes differ?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Both mainly explain how real robots are built",
+        "is_correct": false
+      },
+      {
+        "text": "A tells a story; B encourages a choice",
+        "is_correct": true
+      },
+      {
+        "text": "A gives directions; B lists tree facts",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The first presents an imagined event, while the second promotes a toy.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "apply",
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "sequence_priority": 11,
+    "review": {
+      "version": "20260906-english-review-4",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/which-could-happen-in-real-life",
+      "evidence_scope": "Representative related IXL task inspected; curriculum determines full coverage. See docs/question-bank-reviews/2026-09-06-year1-english-ly01-ly05.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1ly03-er4-p-012",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY03",
+    "bank": "practice",
+    "skill": "comparing imaginative, informative and persuasive texts",
+    "question": "Text A: 'Rain filled the bucket.' Text B: 'A cloud came down and carried the bucket home.' Which difference is correct?",
+    "audio_prompt": "Text A: 'Rain filled the bucket.' Text B: 'A cloud came down and carried the bucket home.' Which difference is correct?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A must be false because it mentions rain",
+        "is_correct": false
+      },
+      {
+        "text": "Both describe ordinary cloud behaviour",
+        "is_correct": false
+      },
+      {
+        "text": "A could happen; B includes an impossible action",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Rain can collect in a bucket, but a cloud cannot carry a bucket home.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "apply",
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "sequence_priority": 12,
+    "review": {
+      "version": "20260906-english-review-4",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/which-could-happen-in-real-life",
+      "evidence_scope": "Representative related IXL task inspected; curriculum determines full coverage. See docs/question-bank-reviews/2026-09-06-year1-english-ly01-ly05.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1ly03-er4-p-013",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY03",
+    "bank": "practice",
+    "skill": "comparing imaginative, informative and persuasive texts",
+    "question": "A story and a fact page both mention a whale. Which detail is most likely from the fact page?",
+    "audio_prompt": "A story and a fact page both mention a whale. Which detail is most likely from the fact page?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Whales breathe air.",
+        "is_correct": true
+      },
+      {
+        "text": "The whale offered the sailor a cup of tea.",
+        "is_correct": false
+      },
+      {
+        "text": "The whale became king of the beach.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Breathing air is information about real whales; the other details personify one.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "apply",
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "sequence_priority": 13,
+    "review": {
+      "version": "20260906-english-review-4",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/which-could-happen-in-real-life",
+      "evidence_scope": "Representative related IXL task inspected; curriculum determines full coverage. See docs/question-bank-reviews/2026-09-06-year1-english-ly01-ly05.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1ly03-er4-p-014",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY03",
+    "bank": "practice",
+    "skill": "comparing imaginative, informative and persuasive texts",
+    "question": "Text A: 'Mia waited for her turn, then climbed the ladder.' Text B: 'Please wait your turn so everyone gets a go.' Which is persuasive?",
+    "audio_prompt": "Text A: 'Mia waited for her turn, then climbed the ladder.' Text B: 'Please wait your turn so everyone gets a go.' Which is persuasive?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Both, because both mention turns",
+        "is_correct": false
+      },
+      {
+        "text": "B, because it asks readers to act and gives a reason",
+        "is_correct": true
+      },
+      {
+        "text": "A, because it has a named character",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The second directs the reader's behaviour, whereas the first recounts a character's actions.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "apply",
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "sequence_priority": 14,
+    "review": {
+      "version": "20260906-english-review-4",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/which-could-happen-in-real-life",
+      "evidence_scope": "Representative related IXL task inspected; curriculum determines full coverage. See docs/question-bank-reviews/2026-09-06-year1-english-ly01-ly05.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1ly03-er4-p-015",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY03",
+    "bank": "practice",
+    "skill": "comparing imaginative, informative and persuasive texts",
+    "question": "Text A: 'A seed sprouted beside the path.' Text B: 'A seed sang until the sun woke up.' What is a similarity?",
+    "audio_prompt": "Text A: 'A seed sprouted beside the path.' Text B: 'A seed sang until the sun woke up.' What is a similarity?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Both tell a real action seeds can do",
+        "is_correct": false
+      },
+      {
+        "text": "Both ask the reader to plant seeds",
+        "is_correct": false
+      },
+      {
+        "text": "Both are about a seed",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Both share a topic, though the singing seed belongs to an imagined event.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "apply",
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "sequence_priority": 15,
+    "review": {
+      "version": "20260906-english-review-4",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/which-could-happen-in-real-life",
+      "evidence_scope": "Representative related IXL task inspected; curriculum determines full coverage. See docs/question-bank-reviews/2026-09-06-year1-english-ly01-ly05.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1ly03-er4-p-016",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY03",
+    "bank": "practice",
+    "skill": "comparing imaginative, informative and persuasive texts",
+    "question": "Read: 'Pick the shady table. It will keep our lunch out of the sun.' Which feature makes this persuasive?",
+    "audio_prompt": "Read: 'Pick the shady table. It will keep our lunch out of the sun.' Which feature makes this persuasive?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A choice is supported by a reason",
+        "is_correct": true
+      },
+      {
+        "text": "It gives a character a magical power",
+        "is_correct": false
+      },
+      {
+        "text": "It lists every part of a table",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The request to pick a table and its benefit work together to influence a decision.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "apply",
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "sequence_priority": 16,
+    "review": {
+      "version": "20260906-english-review-4",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/which-could-happen-in-real-life",
+      "evidence_scope": "Representative related IXL task inspected; curriculum determines full coverage. See docs/question-bank-reviews/2026-09-06-year1-english-ly01-ly05.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1ly03-er4-p-017",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY03",
+    "bank": "practice",
+    "skill": "comparing imaginative, informative and persuasive texts",
+    "question": "A child says, 'All stories have things that cannot happen.' Which example shows that this is not always true?",
+    "audio_prompt": "A child says, 'All stories have things that cannot happen.' Which example shows that this is not always true?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A poster asking people to wear hats",
+        "is_correct": false
+      },
+      {
+        "text": "An invented story about a child losing a hat",
+        "is_correct": true
+      },
+      {
+        "text": "A list of facts about hats",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "An author can invent believable characters and events without using fantasy.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "reason",
+    "difficulty": 3,
+    "difficulty_tier": "reason",
+    "sequence_priority": 17,
+    "review": {
+      "version": "20260906-english-review-4",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/which-could-happen-in-real-life",
+      "evidence_scope": "Representative related IXL task inspected; curriculum determines full coverage. See docs/question-bank-reviews/2026-09-06-year1-english-ly01-ly05.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1ly03-er4-p-018",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY03",
+    "bank": "practice",
+    "skill": "comparing imaginative, informative and persuasive texts",
+    "question": "Text A: 'Dogs need water.' Text B: 'Please fill the dog's bowl; dogs need water.' What is the best comparison?",
+    "audio_prompt": "Text A: 'Dogs need water.' Text B: 'Please fill the dog's bowl; dogs need water.' What is the best comparison?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Only A mentions what dogs need",
+        "is_correct": false
+      },
+      {
+        "text": "B must be a story because it is longer",
+        "is_correct": false
+      },
+      {
+        "text": "Both use information, but B uses it to support a request",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A fact can be used in a persuasive message to explain why an action matters.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "reason",
+    "difficulty": 3,
+    "difficulty_tier": "reason",
+    "sequence_priority": 18,
+    "review": {
+      "version": "20260906-english-review-4",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/which-could-happen-in-real-life",
+      "evidence_scope": "Representative related IXL task inspected; curriculum determines full coverage. See docs/question-bank-reviews/2026-09-06-year1-english-ly01-ly05.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1ly03-er4-p-019",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY03",
+    "bank": "practice",
+    "skill": "comparing imaginative, informative and persuasive texts",
+    "question": "Text A tells a snail's journey to find its home. Text B describes a snail's shell and body. What should you compare to tell their types apart?",
+    "audio_prompt": "Text A tells a snail's journey to find its home. Text B describes a snail's shell and body. What should you compare to tell their types apart?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Whether the text follows events or explains features",
+        "is_correct": true
+      },
+      {
+        "text": "Whether the word snail appears",
+        "is_correct": false
+      },
+      {
+        "text": "Whether both texts have full stops",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Story events and explanations serve different purposes even when topic and punctuation match.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "reason",
+    "difficulty": 3,
+    "difficulty_tier": "reason",
+    "sequence_priority": 19,
+    "review": {
+      "version": "20260906-english-review-4",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/which-could-happen-in-real-life",
+      "evidence_scope": "Representative related IXL task inspected; curriculum determines full coverage. See docs/question-bank-reviews/2026-09-06-year1-english-ly01-ly05.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1ly03-er4-p-020",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY03",
+    "bank": "practice",
+    "skill": "comparing imaginative, informative and persuasive texts",
+    "question": "Read: 'Visit the pond! You may see frogs and waterbirds.' Why is this more than just a list of pond animals?",
+    "audio_prompt": "Read: 'Visit the pond! You may see frogs and waterbirds.' Why is this more than just a list of pond animals?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It contains no information at all",
+        "is_correct": false
+      },
+      {
+        "text": "It invites the reader to visit",
+        "is_correct": true
+      },
+      {
+        "text": "It names two kinds of animals",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The invitation is persuasive, and the possible sightings support it with information.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "reason",
+    "difficulty": 3,
+    "difficulty_tier": "reason",
+    "sequence_priority": 20,
+    "review": {
+      "version": "20260906-english-review-4",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/which-could-happen-in-real-life",
+      "evidence_scope": "Representative related IXL task inspected; curriculum determines full coverage. See docs/question-bank-reviews/2026-09-06-year1-english-ly01-ly05.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1ly03-er4-p-021",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY03",
+    "bank": "practice",
+    "skill": "comparing imaginative, informative and persuasive texts",
+    "question": "Text A: 'Kai rode his bike to the shop.' Text B: 'Bikes have wheels that turn.' Can A still be an invented story even though the event is possible?",
+    "audio_prompt": "Text A: 'Kai rode his bike to the shop.' Text B: 'Bikes have wheels that turn.' Can A still be an invented story even though the event is possible?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "No, every possible event must be a fact report",
+        "is_correct": false
+      },
+      {
+        "text": "No, stories must have talking objects",
+        "is_correct": false
+      },
+      {
+        "text": "Yes, believable events can be invented",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Whether an event is possible does not tell us whether the author invented it.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "reason",
+    "difficulty": 3,
+    "difficulty_tier": "reason",
+    "sequence_priority": 21,
+    "review": {
+      "version": "20260906-english-review-4",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/which-could-happen-in-real-life",
+      "evidence_scope": "Representative related IXL task inspected; curriculum determines full coverage. See docs/question-bank-reviews/2026-09-06-year1-english-ly01-ly05.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1ly03-er4-p-022",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY03",
+    "bank": "practice",
+    "skill": "comparing imaginative, informative and persuasive texts",
+    "question": "A story and an advertisement both say 'delicious berries'. What else would help identify the advertisement?",
+    "audio_prompt": "A story and an advertisement both say 'delicious berries'. What else would help identify the advertisement?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It asks readers to buy the berries",
+        "is_correct": true
+      },
+      {
+        "text": "It uses a describing word",
+        "is_correct": false
+      },
+      {
+        "text": "It mentions food",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Describing words can occur in both types; the buying request reveals persuasion.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "reason",
+    "difficulty": 3,
+    "difficulty_tier": "reason",
+    "sequence_priority": 22,
+    "review": {
+      "version": "20260906-english-review-4",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/which-could-happen-in-real-life",
+      "evidence_scope": "Representative related IXL task inspected; curriculum determines full coverage. See docs/question-bank-reviews/2026-09-06-year1-english-ly01-ly05.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1ly03-er4-p-023",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY03",
+    "bank": "practice",
+    "skill": "comparing imaginative, informative and persuasive texts",
+    "question": "Text A: 'The moon followed Ellie home and slept in her pocket.' Text B: 'The moon can be seen in the night sky.' Which comparison uses evidence?",
+    "audio_prompt": "Text A: 'The moon followed Ellie home and slept in her pocket.' Text B: 'The moon can be seen in the night sky.' Which comparison uses evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A is information because it mentions the moon",
+        "is_correct": false
+      },
+      {
+        "text": "A gives the moon an impossible action; B gives information",
+        "is_correct": true
+      },
+      {
+        "text": "Both give instructions for looking at the moon",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The moon in a pocket is fantasy, whereas seeing it in the sky is factual information.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "reason",
+    "difficulty": 3,
+    "difficulty_tier": "reason",
+    "sequence_priority": 23,
+    "review": {
+      "version": "20260906-english-review-4",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/which-could-happen-in-real-life",
+      "evidence_scope": "Representative related IXL task inspected; curriculum determines full coverage. See docs/question-bank-reviews/2026-09-06-year1-english-ly01-ly05.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1ly03-er4-p-024",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY03",
+    "bank": "practice",
+    "skill": "comparing imaginative, informative and persuasive texts",
+    "question": "A text starts with facts about birds and ends 'Please keep their nesting area quiet.' What is the best description?",
+    "audio_prompt": "A text starts with facts about birds and ends 'Please keep their nesting area quiet.' What is the best description?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It cannot have more than one purpose",
+        "is_correct": false
+      },
+      {
+        "text": "It must be a story because birds appear in it",
+        "is_correct": false
+      },
+      {
+        "text": "It gives information and uses it to support an action",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Texts can combine information with persuasion, as this fact-and-request structure does.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "reason",
+    "difficulty": 3,
+    "difficulty_tier": "reason",
+    "sequence_priority": 24,
+    "review": {
+      "version": "20260906-english-review-4",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/which-could-happen-in-real-life",
+      "evidence_scope": "Representative related IXL task inspected; curriculum determines full coverage. See docs/question-bank-reviews/2026-09-06-year1-english-ly01-ly05.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1ly03-er4-t-001",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY03",
+    "bank": "test",
+    "skill": "comparing imaginative, informative and persuasive texts",
+    "question": "Text A: 'The chair flew to the seaside.' Text B: 'The chair stood beside the desk.' Which event could happen in real life?",
+    "audio_prompt": "Text A: 'The chair flew to the seaside.' Text B: 'The chair stood beside the desk.' Which event could happen in real life?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "B",
+        "is_correct": true
+      },
+      {
+        "text": "A",
+        "is_correct": false
+      },
+      {
+        "text": "Neither",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A chair can stand beside a desk, but cannot fly itself to the seaside.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "independent",
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 1,
+    "review": {
+      "version": "20260906-english-review-4",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/which-could-happen-in-real-life",
+      "evidence_scope": "Representative related IXL task inspected; curriculum determines full coverage. See docs/question-bank-reviews/2026-09-06-year1-english-ly01-ly05.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1ly03-er4-t-002",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY03",
+    "bank": "test",
+    "skill": "comparing imaginative, informative and persuasive texts",
+    "question": "Read: 'Choose our class song. Its chorus is easy to learn.' What is its main purpose?",
+    "audio_prompt": "Read: 'Choose our class song. Its chorus is easy to learn.' What is its main purpose?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Explain how sound travels",
+        "is_correct": false
+      },
+      {
+        "text": "Persuade someone to choose the song",
+        "is_correct": true
+      },
+      {
+        "text": "Tell a story about a singer",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The recommendation and supporting reason aim to influence a choice.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "independent",
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 2,
+    "review": {
+      "version": "20260906-english-review-4",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/which-could-happen-in-real-life",
+      "evidence_scope": "Representative related IXL task inspected; curriculum determines full coverage. See docs/question-bank-reviews/2026-09-06-year1-english-ly01-ly05.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1ly03-er4-t-003",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY03",
+    "bank": "test",
+    "skill": "comparing imaginative, informative and persuasive texts",
+    "question": "Text A: 'Ants have six legs.' Text B: 'An ant opened a shop for elephants.' Which gives information about real ants?",
+    "audio_prompt": "Text A: 'Ants have six legs.' Text B: 'An ant opened a shop for elephants.' Which gives information about real ants?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "B",
+        "is_correct": false
+      },
+      {
+        "text": "Both",
+        "is_correct": false
+      },
+      {
+        "text": "A",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Six legs is a real ant feature, while the shop event is imagined.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "independent",
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 3,
+    "review": {
+      "version": "20260906-english-review-4",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/which-could-happen-in-real-life",
+      "evidence_scope": "Representative related IXL task inspected; curriculum determines full coverage. See docs/question-bank-reviews/2026-09-06-year1-english-ly01-ly05.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1ly03-er4-t-004",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY03",
+    "bank": "test",
+    "skill": "comparing imaginative, informative and persuasive texts",
+    "question": "Read: 'Jin dropped his ticket. He searched his pockets, then found it under the seat.' Why is this a story excerpt?",
+    "audio_prompt": "Read: 'Jin dropped his ticket. He searched his pockets, then found it under the seat.' Why is this a story excerpt?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A character faces and solves a problem",
+        "is_correct": true
+      },
+      {
+        "text": "It asks readers to buy tickets",
+        "is_correct": false
+      },
+      {
+        "text": "It lists facts about seats",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The linked events create a small problem and resolution for the character.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "independent",
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 4,
+    "review": {
+      "version": "20260906-english-review-4",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/which-could-happen-in-real-life",
+      "evidence_scope": "Representative related IXL task inspected; curriculum determines full coverage. See docs/question-bank-reviews/2026-09-06-year1-english-ly01-ly05.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1ly03-er4-t-005",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY03",
+    "bank": "test",
+    "skill": "comparing imaginative, informative and persuasive texts",
+    "question": "Text A: 'The beach has sand and rocks.' Text B: 'Let's visit the beach; we can explore the rock pools.' Which asks for an action?",
+    "audio_prompt": "Text A: 'The beach has sand and rocks.' Text B: 'Let's visit the beach; we can explore the rock pools.' Which asks for an action?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Neither",
+        "is_correct": false
+      },
+      {
+        "text": "B",
+        "is_correct": true
+      },
+      {
+        "text": "A",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Let's visit proposes an action and the rock pools provide a reason.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "independent",
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 5,
+    "review": {
+      "version": "20260906-english-review-4",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/which-could-happen-in-real-life",
+      "evidence_scope": "Representative related IXL task inspected; curriculum determines full coverage. See docs/question-bank-reviews/2026-09-06-year1-english-ly01-ly05.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1ly03-er4-t-006",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY03",
+    "bank": "test",
+    "skill": "comparing imaginative, informative and persuasive texts",
+    "question": "A story and a fact page are both about frogs. Which detail would clearly belong to fantasy?",
+    "audio_prompt": "A story and a fact page are both about frogs. Which detail would clearly belong to fantasy?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A frog sat on a wet leaf.",
+        "is_correct": false
+      },
+      {
+        "text": "A frog jumped into a pond.",
+        "is_correct": false
+      },
+      {
+        "text": "A frog knitted a jumper for the moon.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Knitting for the moon gives the frog an impossible human-like story action.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "independent",
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 6,
+    "review": {
+      "version": "20260906-english-review-4",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/which-could-happen-in-real-life",
+      "evidence_scope": "Representative related IXL task inspected; curriculum determines full coverage. See docs/question-bank-reviews/2026-09-06-year1-english-ly01-ly05.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1ly03-er4-t-007",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY03",
+    "bank": "test",
+    "skill": "comparing imaginative, informative and persuasive texts",
+    "question": "Text A: 'The tree swayed in the wind.' Text B: 'The tree pulled on boots and marched away.' Which comparison is correct?",
+    "audio_prompt": "Text A: 'The tree swayed in the wind.' Text B: 'The tree pulled on boots and marched away.' Which comparison is correct?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A could happen; B is an imagined impossible event",
+        "is_correct": true
+      },
+      {
+        "text": "Both show ordinary things trees do",
+        "is_correct": false
+      },
+      {
+        "text": "A is persuasive because it mentions wind",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Wind can move branches, but a tree cannot put on boots and walk away.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "independent",
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 7,
+    "review": {
+      "version": "20260906-english-review-4",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/which-could-happen-in-real-life",
+      "evidence_scope": "Representative related IXL task inspected; curriculum determines full coverage. See docs/question-bank-reviews/2026-09-06-year1-english-ly01-ly05.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1ly03-er4-t-008",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY03",
+    "bank": "test",
+    "skill": "comparing imaginative, informative and persuasive texts",
+    "question": "Read: 'A calendar shows days and months.' Is this mainly informative or persuasive?",
+    "audio_prompt": "Read: 'A calendar shows days and months.' Is this mainly informative or persuasive?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A story, because a calendar is a character",
+        "is_correct": false
+      },
+      {
+        "text": "Informative, because it explains what a calendar shows",
+        "is_correct": true
+      },
+      {
+        "text": "Persuasive, because it tells us to buy one",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The sentence supplies information without asking for a choice or following a character.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "independent",
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 8,
+    "review": {
+      "version": "20260906-english-review-4",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/which-could-happen-in-real-life",
+      "evidence_scope": "Representative related IXL task inspected; curriculum determines full coverage. See docs/question-bank-reviews/2026-09-06-year1-english-ly01-ly05.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1ly03-er4-t-009",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY03",
+    "bank": "test",
+    "skill": "comparing imaginative, informative and persuasive texts",
+    "question": "Text A: 'Save water; turn off the tap while you brush.' Text B: 'A tap controls the flow of water.' What do both mention?",
+    "audio_prompt": "Text A: 'Save water; turn off the tap while you brush.' Text B: 'A tap controls the flow of water.' What do both mention?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A character solving a problem",
+        "is_correct": false
+      },
+      {
+        "text": "A request to turn off the tap",
+        "is_correct": false
+      },
+      {
+        "text": "Water and a tap",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The topic overlaps, but only A asks readers to take an action.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "independent",
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 9,
+    "review": {
+      "version": "20260906-english-review-4",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/which-could-happen-in-real-life",
+      "evidence_scope": "Representative related IXL task inspected; curriculum determines full coverage. See docs/question-bank-reviews/2026-09-06-year1-english-ly01-ly05.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1ly03-er4-t-010",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY03",
+    "bank": "test",
+    "skill": "comparing imaginative, informative and persuasive texts",
+    "question": "A child says a text must be a fact page because it includes the true fact 'Birds have feathers.' What should they check?",
+    "audio_prompt": "A child says a text must be a fact page because it includes the true fact 'Birds have feathers.' What should they check?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "What the whole text is doing",
+        "is_correct": true
+      },
+      {
+        "text": "Whether feathers is a long word",
+        "is_correct": false
+      },
+      {
+        "text": "Whether the text is printed in black",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A true fact may appear in a story or persuasive text, so the whole purpose matters.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "independent",
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 10,
+    "review": {
+      "version": "20260906-english-review-4",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/which-could-happen-in-real-life",
+      "evidence_scope": "Representative related IXL task inspected; curriculum determines full coverage. See docs/question-bank-reviews/2026-09-06-year1-english-ly01-ly05.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1ly03-er4-t-011",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY03",
+    "bank": "test",
+    "skill": "comparing imaginative, informative and persuasive texts",
+    "question": "Text A: 'The kitten curled up in a basket.' Text B: 'Adopt this kitten; it needs a home.' How are they different?",
+    "audio_prompt": "Text A: 'The kitten curled up in a basket.' Text B: 'Adopt this kitten; it needs a home.' How are they different?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Both ask readers to adopt the kitten",
+        "is_correct": false
+      },
+      {
+        "text": "A describes an event; B encourages an action",
+        "is_correct": true
+      },
+      {
+        "text": "A explains kitten anatomy; B tells a magical story",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Only the second addresses the reader with a request and supporting reason.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "independent",
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 11,
+    "review": {
+      "version": "20260906-english-review-4",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/which-could-happen-in-real-life",
+      "evidence_scope": "Representative related IXL task inspected; curriculum determines full coverage. See docs/question-bank-reviews/2026-09-06-year1-english-ly01-ly05.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1ly03-er4-t-012",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY03",
+    "bank": "test",
+    "skill": "comparing imaginative, informative and persuasive texts",
+    "question": "An invented story is set in a real town. Does that alone make it an informative report?",
+    "audio_prompt": "An invented story is set in a real town. Does that alone make it an informative report?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Yes, real places can only appear in reports",
+        "is_correct": false
+      },
+      {
+        "text": "Yes, any text naming a town is factual",
+        "is_correct": false
+      },
+      {
+        "text": "No, invented events can happen in a real setting",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The setting can be real while characters or events are invented by the author.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "independent",
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 12,
+    "review": {
+      "version": "20260906-english-review-4",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/which-could-happen-in-real-life",
+      "evidence_scope": "Representative related IXL task inspected; curriculum determines full coverage. See docs/question-bank-reviews/2026-09-06-year1-english-ly01-ly05.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1ly03-er4-t-013",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY03",
+    "bank": "test",
+    "skill": "comparing imaginative, informative and persuasive texts",
+    "question": "Text A lists facts about a garden. Text B tells an adventure in that garden. Which similarity is supported?",
+    "audio_prompt": "Text A lists facts about a garden. Text B tells an adventure in that garden. Which similarity is supported?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Both use the garden as their topic or setting",
+        "is_correct": true
+      },
+      {
+        "text": "Both must have the same purpose",
+        "is_correct": false
+      },
+      {
+        "text": "Both must ask readers to plant flowers",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Texts can share a place while using it for different purposes.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "independent",
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 13,
+    "review": {
+      "version": "20260906-english-review-4",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/which-could-happen-in-real-life",
+      "evidence_scope": "Representative related IXL task inspected; curriculum determines full coverage. See docs/question-bank-reviews/2026-09-06-year1-english-ly01-ly05.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1ly03-er4-t-014",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY03",
+    "bank": "test",
+    "skill": "comparing imaginative, informative and persuasive texts",
+    "question": "Read: 'Walk to school if you can. Walking gives you exercise.' How does the information help the writer?",
+    "audio_prompt": "Read: 'Walk to school if you can. Walking gives you exercise.' How does the information help the writer?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It tells the reader the exact route",
+        "is_correct": false
+      },
+      {
+        "text": "It gives a reason for the suggested action",
+        "is_correct": true
+      },
+      {
+        "text": "It changes the text into a fantasy story",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The exercise benefit supports the request to walk, making the message persuasive.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "independent",
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 14,
+    "review": {
+      "version": "20260906-english-review-4",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/which-could-happen-in-real-life",
+      "evidence_scope": "Representative related IXL task inspected; curriculum determines full coverage. See docs/question-bank-reviews/2026-09-06-year1-english-ly01-ly05.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1ly03-er4-t-015",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY03",
+    "bank": "test",
+    "skill": "comparing imaginative, informative and persuasive texts",
+    "question": "Text A: 'A little boat wished it could climb a mountain.' Text B: 'Boats float on water.' Which clue best separates them?",
+    "audio_prompt": "Text A: 'A little boat wished it could climb a mountain.' Text B: 'Boats float on water.' Which clue best separates them?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A and B both mention boats",
+        "is_correct": false
+      },
+      {
+        "text": "Both contain a short sentence",
+        "is_correct": false
+      },
+      {
+        "text": "A gives a boat thoughts; B states information",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Giving an object thoughts is an imaginative feature, unlike the general fact in B.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "independent",
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 15,
+    "review": {
+      "version": "20260906-english-review-4",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/which-could-happen-in-real-life",
+      "evidence_scope": "Representative related IXL task inspected; curriculum determines full coverage. See docs/question-bank-reviews/2026-09-06-year1-english-ly01-ly05.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1ly03-er4-t-016",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY03",
+    "bank": "test",
+    "skill": "comparing imaginative, informative and persuasive texts",
+    "question": "Two texts both have pictures and short sentences. One explains spiders; one asks readers to protect them. What shows the difference in purpose?",
+    "audio_prompt": "Two texts both have pictures and short sentences. One explains spiders; one asks readers to protect them. What shows the difference in purpose?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Explaining features compared with encouraging an action",
+        "is_correct": true
+      },
+      {
+        "text": "The presence of pictures",
+        "is_correct": false
+      },
+      {
+        "text": "The use of short sentences",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Format can be shared; what the words explain or ask reveals the difference.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "independent",
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 16,
+    "review": {
+      "version": "20260906-english-review-4",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/which-could-happen-in-real-life",
+      "evidence_scope": "Representative related IXL task inspected; curriculum determines full coverage. See docs/question-bank-reviews/2026-09-06-year1-english-ly01-ly05.md. No measured equivalence or IXL endorsement."
+    }
+  }
+]

@@ -1,0 +1,79 @@
+name: Refresh sitemaps
+
+# Manual rebuild marker: 2026-08-29 curated Google/Search Console sitemap cleanup
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '20 16 * * *'
+  push:
+    branches: [main]
+    paths:
+      - 'scripts/generate_sitemap.py'
+      - 'scripts/prepare_google_sitemap.py'
+      - 'scripts/tidy_sitemap_html.py'
+      - 'scripts/validate_sitemap_index_quality.py'
+      - 'scripts/validate_google_sitemap_submission.py'
+      - '.github/workflows/refresh-sitemaps.yml'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: refresh-sitemaps
+  cancel-in-progress: true
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout current main
+        uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Generate sitemap files
+        run: python3 scripts/generate_sitemap.py
+
+      - name: Prepare Google crawl-priority sitemap
+        run: python3 scripts/prepare_google_sitemap.py
+
+      - name: Tidy human sitemap
+        run: python3 scripts/tidy_sitemap_html.py
+
+      - name: Validate sitemap index quality
+        run: python3 scripts/validate_sitemap_index_quality.py
+
+      - name: Validate Search Console submission set
+        run: python3 scripts/validate_google_sitemap_submission.py
+
+      - name: Validate sitemap XML
+        run: |
+          python3 - <<'PY'
+          import glob
+          import xml.etree.ElementTree as ET
+          files = ['sitemap.xml'] + sorted(glob.glob('sitemap-*.xml'))
+          for filename in files:
+              ET.parse(filename)
+          print(f'Validated {len(files)} XML sitemap files')
+          PY
+
+      - name: Check generated diff
+        run: git diff --check
+
+      - name: Commit refreshed sitemap files
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add -A -- sitemap.xml ':(glob)sitemap-*.xml' sitemap.html assets/site-search-index.json
+          if git diff --cached --quiet; then
+            echo 'Sitemaps already current.'
+            exit 0
+          fi
+          git commit -m 'Refresh crawl-priority sitemaps'
+          git push origin HEAD:main

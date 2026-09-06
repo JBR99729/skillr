@@ -1,0 +1,32 @@
+{
+  "year": 5,
+  "subject": "Science",
+  "standard": "connected-topic-module-v1",
+  "status": "implemented-and-validated",
+  "codeCount": 12,
+  "deliverables": {
+    "topicPages": 12,
+    "coreTeacherSlides": 48,
+    "topicPractice1Sheets": 12,
+    "topicPractice2Sheets": 12,
+    "practiceQuestions": 108,
+    "tierTotals": { "warmUp": 36, "core": 48, "challenge": 24 }
+  },
+  "worksheetPartition": {
+    "topic-practice-1": "5 questions per code: 3 Warm-Up and 2 Core",
+    "topic-practice-2": "4 questions per code: 2 Core and 2 Challenge",
+    "result": "PASS: all nine canonical questions occur exactly once across the pair, with sheet-local answer keys"
+  },
+  "preservedContent": [
+    "Australian Curriculum descriptions and elaborations",
+    "international curriculum mappings and official references",
+    "legacy teacher-slide PDFs",
+    "authored visual models, application models, activities and misconceptions",
+    "optional application and mixed-mastery extensions",
+    "Practice, Test, Quick Read, report-issue and navigation links"
+  ],
+  "commercialMasterGate": "PASS: brand-neutral skillr-commercial-master-v1 data exposes stable curriculum metadata, four structured slides, nine keyed questions and two keyed sheets; public SkillrHub branding remains renderer-only",
+  "alignmentGate": "PASS 12/12: each worksheet pair covers its exact topic concept, vocabulary, misconception correction and both worked models without untaught targets",
+  "presentationQA": "PASS: horizontal desktop/print choices, narrow-screen wrapping, accessible contrast, code-specific visuals and alt text, A4 landscape output, logo, stable direct query routes and cache-v4 rollout",
+  "validation": "PASS 12/12: 108 questions with concrete answers, explanatory summaries and actionable hints; exact 5/4 partition; four slide roles; links, syntax and formatting checks"
+}

@@ -1,0 +1,90 @@
+{
+  "generatedAt": "2026-08-12",
+  "codes": {
+    "AC9SFH01": {
+      "practice": {
+        "count": 56,
+        "types": [
+          "single"
+        ],
+        "visualCount": 54,
+        "skillCount": 14,
+        "uniqueIds": 56,
+        "uniquePrompts": 56,
+        "selfCheckCount": 0
+      },
+      "test": {
+        "count": 24,
+        "types": [
+          "single"
+        ],
+        "visualCount": 24,
+        "skillCount": 12,
+        "uniqueIds": 24,
+        "uniquePrompts": 24,
+        "selfCheckCount": 0
+      },
+      "practiceTestPromptOverlap": 0
+    },
+    "AC9SFI01": {
+      "practice": {
+        "count": 56,
+        "types": [
+          "order",
+          "single"
+        ],
+        "visualCount": 47,
+        "skillCount": 14,
+        "uniqueIds": 56,
+        "uniquePrompts": 56,
+        "selfCheckCount": 0
+      },
+      "test": {
+        "count": 24,
+        "types": [
+          "order",
+          "single"
+        ],
+        "visualCount": 21,
+        "skillCount": 12,
+        "uniqueIds": 24,
+        "uniquePrompts": 24,
+        "selfCheckCount": 0
+      },
+      "practiceTestPromptOverlap": 0
+    },
+    "AC9SFI02": {
+      "practice": {
+        "count": 56,
+        "types": [
+          "multiple",
+          "order",
+          "single"
+        ],
+        "visualCount": 50,
+        "skillCount": 14,
+        "uniqueIds": 56,
+        "uniquePrompts": 56,
+        "selfCheckCount": 0
+      },
+      "test": {
+        "count": 24,
+        "types": [
+          "multiple",
+          "order",
+          "single"
+        ],
+        "visualCount": 22,
+        "skillCount": 12,
+        "uniqueIds": 24,
+        "uniquePrompts": 24,
+        "selfCheckCount": 0
+      },
+      "practiceTestPromptOverlap": 0
+    }
+  },
+  "dailyDrillExtensions": {
+    "scientific-inquiry": 48,
+    "science-vocabulary": 24
+  }
+}

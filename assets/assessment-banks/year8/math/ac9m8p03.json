@@ -1,0 +1,610 @@
+[
+  {
+    "id": "ac9m8p03-p-001",
+    "curriculum_code": "AC9M8P03",
+    "year_level": "Year 8",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "use_digital_tools_including_generative_artificial_intelligence_to_conduct_probability_simulations_involving_compound_events",
+    "question": "A Year 8 student is solving a problem involving use digital tools including generative artificial intelligence to conduct probability simulations involving compound events. Which option is mathematically valid?",
+    "audio_prompt": "A Year 8 student is solving a problem involving use digital tools including generative artificial intelligence to conduct probability simulations involving compound events. Which option is mathematically valid?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "using digital tools, including generative artificial intelligence, to conduct probability simulations involving compound events",
+        "is_correct": true
+      },
+      {
+        "text": "The sample space or dependency changes without being noticed",
+        "is_correct": false
+      },
+      {
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "The same rule and result apply to every situation without testing",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "using digital tools, including generative artificial intelligence, to conduct probability simulations involving compound events",
+      "hint": "Use digital tools, including generative artificial intelligence, to conduct probability simulations involving compound events."
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
+  },
+  {
+    "id": "ac9m8p03-p-002",
+    "curriculum_code": "AC9M8P03",
+    "year_level": "Year 8",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "use_a_random_number_generator_and_digital_tools_including_generative_artificial_intelligence_to_simulate_rolling_2_dice_and_calculating_the_difference_between_them",
+    "question": "A Year 8 student is solving a problem involving use a random number generator and digital tools including generative artificial intelligence to simulate rolling 2 dice and calculating the difference between them. Which option is mathematically valid?",
+    "audio_prompt": "A Year 8 student is solving a problem involving use a random number generator and digital tools including generative artificial intelligence to simulate rolling 2 dice and calculating the difference between them. Which option is mathematically valid?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The compound chance experiments and simulations model is copied without interpretation",
+        "is_correct": false
+      },
+      {
+        "text": "using a random number generator and digital tools, including generative artificial intelligence, to simulate rolling 2 dice and calculating the difference between them, investigating what difference is likely to occur more often",
+        "is_correct": true
+      },
+      {
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "The same rule and result apply to every situation without testing",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "using a random number generator and digital tools, including generative artificial intelligence, to simulate rolling 2 dice and calculating the difference between them, investigating what difference is likely to occur more often",
+      "hint": "Use a random number generator and digital tools, including generative artificial intelligence, to simulate rolling 2 dice and calculating the difference between them."
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
+  },
+  {
+    "id": "ac9m8p03-p-003",
+    "curriculum_code": "AC9M8P03",
+    "year_level": "Year 8",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "use_online_simulation_software_to_conduct_probability_simulations_to_determine_in_the_long_run_if_events_are_complementary",
+    "question": "A Year 8 student is solving a problem involving use online simulation software to conduct probability simulations to determine in the long run if events are complementary. Which option is mathematically valid?",
+    "audio_prompt": "A Year 8 student is solving a problem involving use online simulation software to conduct probability simulations to determine in the long run if events are complementary. Which option is mathematically valid?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The result is not verified",
+        "is_correct": false
+      },
+      {
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "using online simulation software to conduct probability simulations to determine in the long run if events are complementary",
+        "is_correct": true
+      },
+      {
+        "text": "The same rule and result apply to every situation without testing",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "using online simulation software to conduct probability simulations to determine in the long run if events are complementary",
+      "hint": "Use online simulation software to conduct probability simulations to determine in the long run if events are complementary."
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
+  },
+  {
+    "id": "ac9m8p03-p-004",
+    "curriculum_code": "AC9M8P03",
+    "year_level": "Year 8",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "use_digital_tools_including_generative_artificial_intelligence_to_conduct_probability_simulations_involving_compound_events",
+    "question": "A Year 8 student is solving a problem involving use digital tools including generative artificial intelligence to conduct probability simulations involving compound events. Which option is mathematically valid?",
+    "audio_prompt": "A Year 8 student is solving a problem involving use digital tools including generative artificial intelligence to conduct probability simulations involving compound events. Which option is mathematically valid?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The sample space or dependency changes without being noticed",
+        "is_correct": false
+      },
+      {
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "The same rule and result apply to every situation without testing",
+        "is_correct": false
+      },
+      {
+        "text": "using digital tools, including generative artificial intelligence, to conduct probability simulations involving compound events",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "using digital tools, including generative artificial intelligence, to conduct probability simulations involving compound events",
+      "hint": "Use digital tools, including generative artificial intelligence, to conduct probability simulations involving compound events."
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
+  },
+  {
+    "id": "ac9m8p03-p-005",
+    "curriculum_code": "AC9M8P03",
+    "year_level": "Year 8",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "use_a_random_number_generator_and_digital_tools_including_generative_artificial_intelligence_to_simulate_rolling_2_dice_and_calculating_the_difference_between_them",
+    "question": "A Year 8 student is solving a problem involving use a random number generator and digital tools including generative artificial intelligence to simulate rolling 2 dice and calculating the difference between them. Which option is mathematically valid?",
+    "audio_prompt": "A Year 8 student is solving a problem involving use a random number generator and digital tools including generative artificial intelligence to simulate rolling 2 dice and calculating the difference between them. Which option is mathematically valid?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "using a random number generator and digital tools, including generative artificial intelligence, to simulate rolling 2 dice and calculating the difference between them, investigating what difference is likely to occur more often",
+        "is_correct": true
+      },
+      {
+        "text": "The compound chance experiments and simulations model is copied without interpretation",
+        "is_correct": false
+      },
+      {
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "The same rule and result apply to every situation without testing",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "using a random number generator and digital tools, including generative artificial intelligence, to simulate rolling 2 dice and calculating the difference between them, investigating what difference is likely to occur more often",
+      "hint": "Use a random number generator and digital tools, including generative artificial intelligence, to simulate rolling 2 dice and calculating the difference between them."
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
+  },
+  {
+    "id": "ac9m8p03-p-006",
+    "curriculum_code": "AC9M8P03",
+    "year_level": "Year 8",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "use_online_simulation_software_to_conduct_probability_simulations_to_determine_in_the_long_run_if_events_are_complementary",
+    "question": "A Year 8 student is solving a problem involving use online simulation software to conduct probability simulations to determine in the long run if events are complementary. Which option is mathematically valid?",
+    "audio_prompt": "A Year 8 student is solving a problem involving use online simulation software to conduct probability simulations to determine in the long run if events are complementary. Which option is mathematically valid?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The result is not verified",
+        "is_correct": false
+      },
+      {
+        "text": "using online simulation software to conduct probability simulations to determine in the long run if events are complementary",
+        "is_correct": true
+      },
+      {
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "The same rule and result apply to every situation without testing",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "using online simulation software to conduct probability simulations to determine in the long run if events are complementary",
+      "hint": "Use online simulation software to conduct probability simulations to determine in the long run if events are complementary."
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
+  },
+  {
+    "id": "ac9m8p03-p-007",
+    "curriculum_code": "AC9M8P03",
+    "year_level": "Year 8",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "use_digital_tools_including_generative_artificial_intelligence_to_conduct_probability_simulations_involving_compound_events",
+    "question": "What should you check when using use digital tools, including generative artificial intelligence, to conduct probability simulations involving compound events?",
+    "audio_prompt": "What should you check when using use digital tools, including generative artificial intelligence, to conduct probability simulations involving compound events?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The sample space or dependency changes without being noticed",
+        "is_correct": false
+      },
+      {
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "using digital tools, including generative artificial intelligence, to conduct probability simulations involving compound events",
+        "is_correct": true
+      },
+      {
+        "text": "The same rule and result apply to every situation without testing",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "using digital tools, including generative artificial intelligence, to conduct probability simulations involving compound events",
+      "hint": "Use digital tools, including generative artificial intelligence, to conduct probability simulations involving compound events."
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
+  },
+  {
+    "id": "ac9m8p03-p-008",
+    "curriculum_code": "AC9M8P03",
+    "year_level": "Year 8",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "use_a_random_number_generator_and_digital_tools_including_generative_artificial_intelligence_to_simulate_rolling_2_dice_and_calculating_the_difference_between_them",
+    "question": "What should you check when using use a random number generator and digital tools, including generative artificial intelligence, to simulate rolling 2 dice and calculating the difference between them?",
+    "audio_prompt": "What should you check when using use a random number generator and digital tools, including generative artificial intelligence, to simulate rolling 2 dice and calculating the difference between them?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The compound chance experiments and simulations model is copied without interpretation",
+        "is_correct": false
+      },
+      {
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "The same rule and result apply to every situation without testing",
+        "is_correct": false
+      },
+      {
+        "text": "using a random number generator and digital tools, including generative artificial intelligence, to simulate rolling 2 dice and calculating the difference between them, investigating what difference is likely to occur more often",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "using a random number generator and digital tools, including generative artificial intelligence, to simulate rolling 2 dice and calculating the difference between them, investigating what difference is likely to occur more often",
+      "hint": "Use a random number generator and digital tools, including generative artificial intelligence, to simulate rolling 2 dice and calculating the difference between them."
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
+  },
+  {
+    "id": "ac9m8p03-t-001",
+    "curriculum_code": "AC9M8P03",
+    "year_level": "Year 8",
+    "subject": "math",
+    "bank": "test",
+    "skill": "use_online_simulation_software_to_conduct_probability_simulations_to_determine_in_the_long_run_if_events_are_complementary",
+    "question": "Which response correctly uses use online simulation software to conduct probability simulations to determine in the long run if events are complementary?",
+    "audio_prompt": "Which response correctly uses use online simulation software to conduct probability simulations to determine in the long run if events are complementary?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "using online simulation software to conduct probability simulations to determine in the long run if events are complementary",
+        "is_correct": true
+      },
+      {
+        "text": "The result is not verified",
+        "is_correct": false
+      },
+      {
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "The same rule and result apply to every situation without testing",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "using online simulation software to conduct probability simulations to determine in the long run if events are complementary",
+      "hint": "Use online simulation software to conduct probability simulations to determine in the long run if events are complementary."
+    }
+  },
+  {
+    "id": "ac9m8p03-t-002",
+    "curriculum_code": "AC9M8P03",
+    "year_level": "Year 8",
+    "subject": "math",
+    "bank": "test",
+    "skill": "use_digital_tools_including_generative_artificial_intelligence_to_conduct_probability_simulations_involving_compound_events",
+    "question": "A Year 8 student is solving a problem involving use digital tools including generative artificial intelligence to conduct probability simulations involving compound events. Which option is mathematically valid?",
+    "audio_prompt": "A Year 8 student is solving a problem involving use digital tools including generative artificial intelligence to conduct probability simulations involving compound events. Which option is mathematically valid?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The sample space or dependency changes without being noticed",
+        "is_correct": false
+      },
+      {
+        "text": "using digital tools, including generative artificial intelligence, to conduct probability simulations involving compound events",
+        "is_correct": true
+      },
+      {
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "The same rule and result apply to every situation without testing",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "using digital tools, including generative artificial intelligence, to conduct probability simulations involving compound events",
+      "hint": "Use digital tools, including generative artificial intelligence, to conduct probability simulations involving compound events."
+    }
+  },
+  {
+    "id": "ac9m8p03-t-003",
+    "curriculum_code": "AC9M8P03",
+    "year_level": "Year 8",
+    "subject": "math",
+    "bank": "test",
+    "skill": "use_a_random_number_generator_and_digital_tools_including_generative_artificial_intelligence_to_simulate_rolling_2_dice_and_calculating_the_difference_between_them",
+    "question": "A Year 8 student is solving a problem involving use a random number generator and digital tools including generative artificial intelligence to simulate rolling 2 dice and calculating the difference between them. Which option is mathematically valid?",
+    "audio_prompt": "A Year 8 student is solving a problem involving use a random number generator and digital tools including generative artificial intelligence to simulate rolling 2 dice and calculating the difference between them. Which option is mathematically valid?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The compound chance experiments and simulations model is copied without interpretation",
+        "is_correct": false
+      },
+      {
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "using a random number generator and digital tools, including generative artificial intelligence, to simulate rolling 2 dice and calculating the difference between them, investigating what difference is likely to occur more often",
+        "is_correct": true
+      },
+      {
+        "text": "The same rule and result apply to every situation without testing",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "using a random number generator and digital tools, including generative artificial intelligence, to simulate rolling 2 dice and calculating the difference between them, investigating what difference is likely to occur more often",
+      "hint": "Use a random number generator and digital tools, including generative artificial intelligence, to simulate rolling 2 dice and calculating the difference between them."
+    }
+  },
+  {
+    "id": "ac9m8p03-t-004",
+    "curriculum_code": "AC9M8P03",
+    "year_level": "Year 8",
+    "subject": "math",
+    "bank": "test",
+    "skill": "use_online_simulation_software_to_conduct_probability_simulations_to_determine_in_the_long_run_if_events_are_complementary",
+    "question": "A Year 8 student is solving a problem involving use online simulation software to conduct probability simulations to determine in the long run if events are complementary. Which option is mathematically valid?",
+    "audio_prompt": "A Year 8 student is solving a problem involving use online simulation software to conduct probability simulations to determine in the long run if events are complementary. Which option is mathematically valid?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The result is not verified",
+        "is_correct": false
+      },
+      {
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "The same rule and result apply to every situation without testing",
+        "is_correct": false
+      },
+      {
+        "text": "using online simulation software to conduct probability simulations to determine in the long run if events are complementary",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "using online simulation software to conduct probability simulations to determine in the long run if events are complementary",
+      "hint": "Use online simulation software to conduct probability simulations to determine in the long run if events are complementary."
+    }
+  },
+  {
+    "id": "ac9m8p03-t-005",
+    "curriculum_code": "AC9M8P03",
+    "year_level": "Year 8",
+    "subject": "math",
+    "bank": "test",
+    "skill": "use_digital_tools_including_generative_artificial_intelligence_to_conduct_probability_simulations_involving_compound_events",
+    "question": "When would you use use digital tools, including generative artificial intelligence, to conduct probability simulations involving compound events?",
+    "audio_prompt": "When would you use use digital tools, including generative artificial intelligence, to conduct probability simulations involving compound events?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "using digital tools, including generative artificial intelligence, to conduct probability simulations involving compound events",
+        "is_correct": true
+      },
+      {
+        "text": "The sample space or dependency changes without being noticed",
+        "is_correct": false
+      },
+      {
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "The same rule and result apply to every situation without testing",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "using digital tools, including generative artificial intelligence, to conduct probability simulations involving compound events",
+      "hint": "Use digital tools, including generative artificial intelligence, to conduct probability simulations involving compound events."
+    }
+  },
+  {
+    "id": "ac9m8p03-t-006",
+    "curriculum_code": "AC9M8P03",
+    "year_level": "Year 8",
+    "subject": "math",
+    "bank": "test",
+    "skill": "use_a_random_number_generator_and_digital_tools_including_generative_artificial_intelligence_to_simulate_rolling_2_dice_and_calculating_the_difference_between_them",
+    "question": "When would you use use a random number generator and digital tools, including generative artificial intelligence, to simulate rolling 2 dice and calculating the difference between them?",
+    "audio_prompt": "When would you use use a random number generator and digital tools, including generative artificial intelligence, to simulate rolling 2 dice and calculating the difference between them?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The compound chance experiments and simulations model is copied without interpretation",
+        "is_correct": false
+      },
+      {
+        "text": "using a random number generator and digital tools, including generative artificial intelligence, to simulate rolling 2 dice and calculating the difference between them, investigating what difference is likely to occur more often",
+        "is_correct": true
+      },
+      {
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "The same rule and result apply to every situation without testing",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "using a random number generator and digital tools, including generative artificial intelligence, to simulate rolling 2 dice and calculating the difference between them, investigating what difference is likely to occur more often",
+      "hint": "Use a random number generator and digital tools, including generative artificial intelligence, to simulate rolling 2 dice and calculating the difference between them."
+    }
+  },
+  {
+    "id": "ac9m8p03-t-007",
+    "curriculum_code": "AC9M8P03",
+    "year_level": "Year 8",
+    "subject": "math",
+    "bank": "test",
+    "skill": "use_online_simulation_software_to_conduct_probability_simulations_to_determine_in_the_long_run_if_events_are_complementary",
+    "question": "When would you use use online simulation software to conduct probability simulations to determine in the long run if events are complementary?",
+    "audio_prompt": "When would you use use online simulation software to conduct probability simulations to determine in the long run if events are complementary?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The result is not verified",
+        "is_correct": false
+      },
+      {
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "using online simulation software to conduct probability simulations to determine in the long run if events are complementary",
+        "is_correct": true
+      },
+      {
+        "text": "The same rule and result apply to every situation without testing",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "using online simulation software to conduct probability simulations to determine in the long run if events are complementary",
+      "hint": "Use online simulation software to conduct probability simulations to determine in the long run if events are complementary."
+    }
+  },
+  {
+    "id": "ac9m8p03-t-008",
+    "curriculum_code": "AC9M8P03",
+    "year_level": "Year 8",
+    "subject": "math",
+    "bank": "test",
+    "skill": "use_digital_tools_including_generative_artificial_intelligence_to_conduct_probability_simulations_involving_compound_events",
+    "question": "A Year 8 student is solving a problem involving use digital tools including generative artificial intelligence to conduct probability simulations involving compound events. Which option is mathematically valid?",
+    "audio_prompt": "A Year 8 student is solving a problem involving use digital tools including generative artificial intelligence to conduct probability simulations involving compound events. Which option is mathematically valid?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The sample space or dependency changes without being noticed",
+        "is_correct": false
+      },
+      {
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "The same rule and result apply to every situation without testing",
+        "is_correct": false
+      },
+      {
+        "text": "using digital tools, including generative artificial intelligence, to conduct probability simulations involving compound events",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "using digital tools, including generative artificial intelligence, to conduct probability simulations involving compound events",
+      "hint": "Use digital tools, including generative artificial intelligence, to conduct probability simulations involving compound events."
+    }
+  }
+]

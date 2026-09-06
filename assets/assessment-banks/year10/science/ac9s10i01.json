@@ -1,0 +1,610 @@
+[
+  {
+    "id": "ac9s10i01-p-001",
+    "curriculum_code": "AC9S10I01",
+    "year_level": "Year 10",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "use_how_a_tested_hypothesis_may_lead_to_further_predictions_to_make_the_role_of_observation_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
+    "question": "A Year 10 student is investigating use how a tested hypothesis may lead to further predictions to make the role of observation visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
+    "audio_prompt": "A Year 10 student is investigating use how a tested hypothesis may lead to further predictions to make the role of observation visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "discussing how a tested hypothesis may lead to further predictions and testing to determine if the prediction is supported",
+        "is_correct": true
+      },
+      {
+        "text": "A prediction and hypothesis are identical",
+        "is_correct": false
+      },
+      {
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "The same rule and result apply to every situation without testing",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "discussing how a tested hypothesis may lead to further predictions and testing to determine if the prediction is supported",
+      "hint": "Use how a tested hypothesis may lead to further predictions to make the role of observation visible and connect the evidence to the unit’s central explanation."
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
+  },
+  {
+    "id": "ac9s10i01-p-002",
+    "curriculum_code": "AC9S10I01",
+    "year_level": "Year 10",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "use_hypotheses_about_the_role_of_human_activity_in_changes_to_make_the_role_of_question_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
+    "question": "A Year 10 student is investigating use hypotheses about the role of human activity in changes to make the role of question visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
+    "audio_prompt": "A Year 10 student is investigating use hypotheses about the role of human activity in changes to make the role of question visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A testable question must always be causal",
+        "is_correct": false
+      },
+      {
+        "text": "developing hypotheses about the role of human activity in changes to climate and investigating these using secondary data",
+        "is_correct": true
+      },
+      {
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "The same rule and result apply to every situation without testing",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "developing hypotheses about the role of human activity in changes to climate and investigating these using secondary data",
+      "hint": "Use hypotheses about the role of human activity in changes to make the role of question visible and connect the evidence to the unit’s central explanation."
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
+  },
+  {
+    "id": "ac9s10i01-p-003",
+    "curriculum_code": "AC9S10I01",
+    "year_level": "Year 10",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "use_a_change_in_the_frequency_of_extreme_weather_events_to_make_the_role_of_variables_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
+    "question": "A Year 10 student is investigating use a change in the frequency of extreme weather events to make the role of variables visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
+    "audio_prompt": "A Year 10 student is investigating use a change in the frequency of extreme weather events to make the role of variables visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A prediction and hypothesis are identical",
+        "is_correct": false
+      },
+      {
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "observing a change in the frequency of extreme weather events and hypothesising causes from scientific models, such as: ‘If the El Niño weather pattern occurs more frequently then there will be more droughts due to decreased rainfall’",
+        "is_correct": true
+      },
+      {
+        "text": "The same rule and result apply to every situation without testing",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "observing a change in the frequency of extreme weather events and hypothesising causes from scientific models, such as: ‘If the El Niño weather pattern occurs more frequently then there will be more droughts due to decreased rainfall’",
+      "hint": "Use a change in the frequency of extreme weather events to make the role of variables visible and connect the evidence to the unit’s central explanation."
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
+  },
+  {
+    "id": "ac9s10i01-p-004",
+    "curriculum_code": "AC9S10I01",
+    "year_level": "Year 10",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "use_asking_questions_about_the_relationship_between_crash_impact_force_to_make_the_role_of_hypothesis_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
+    "question": "A Year 10 student is investigating use asking questions about the relationship between crash impact force to make the role of hypothesis visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
+    "audio_prompt": "A Year 10 student is investigating use asking questions about the relationship between crash impact force to make the role of hypothesis visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A testable question must always be causal",
+        "is_correct": false
+      },
+      {
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "The same rule and result apply to every situation without testing",
+        "is_correct": false
+      },
+      {
+        "text": "asking questions about the relationship between crash impact force and speed and developing a hypothesis which can then be tested",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "asking questions about the relationship between crash impact force and speed and developing a hypothesis which can then be tested",
+      "hint": "Use asking questions about the relationship between crash impact force to make the role of hypothesis visible and connect the evidence to the unit’s central explanation."
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
+  },
+  {
+    "id": "ac9s10i01-p-005",
+    "curriculum_code": "AC9S10I01",
+    "year_level": "Year 10",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "use_how_changing_the_surface_area_concentration_and_temperature_affects_to_make_the_role_of_model_based_prediction_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
+    "question": "A Year 10 student is investigating use how changing the surface area concentration and temperature affects to make the role of model based prediction visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
+    "audio_prompt": "A Year 10 student is investigating use how changing the surface area concentration and temperature affects to make the role of model based prediction visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "observing how changing the surface area, concentration and temperature affects the rate of a chemical reaction and developing reasoned predictions",
+        "is_correct": true
+      },
+      {
+        "text": "A prediction and hypothesis are identical",
+        "is_correct": false
+      },
+      {
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "The same rule and result apply to every situation without testing",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "observing how changing the surface area, concentration and temperature affects the rate of a chemical reaction and developing reasoned predictions",
+      "hint": "Use how changing the surface area, concentration and temperature affects to make the role of model-based prediction visible and connect the evidence to the unit’s central explanation."
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
+  },
+  {
+    "id": "ac9s10i01-p-006",
+    "curriculum_code": "AC9S10I01",
+    "year_level": "Year 10",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "use_how_a_tested_hypothesis_may_lead_to_further_predictions_to_make_the_role_of_observation_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
+    "question": "A Year 10 student is investigating use how a tested hypothesis may lead to further predictions to make the role of observation visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
+    "audio_prompt": "A Year 10 student is investigating use how a tested hypothesis may lead to further predictions to make the role of observation visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A testable question must always be causal",
+        "is_correct": false
+      },
+      {
+        "text": "discussing how a tested hypothesis may lead to further predictions and testing to determine if the prediction is supported",
+        "is_correct": true
+      },
+      {
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "The same rule and result apply to every situation without testing",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "discussing how a tested hypothesis may lead to further predictions and testing to determine if the prediction is supported",
+      "hint": "Use how a tested hypothesis may lead to further predictions to make the role of observation visible and connect the evidence to the unit’s central explanation."
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
+  },
+  {
+    "id": "ac9s10i01-p-007",
+    "curriculum_code": "AC9S10I01",
+    "year_level": "Year 10",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "use_hypotheses_about_the_role_of_human_activity_in_changes_to_make_the_role_of_question_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
+    "question": "A Year 10 student is investigating use hypotheses about the role of human activity in changes to make the role of question visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
+    "audio_prompt": "A Year 10 student is investigating use hypotheses about the role of human activity in changes to make the role of question visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A prediction and hypothesis are identical",
+        "is_correct": false
+      },
+      {
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "developing hypotheses about the role of human activity in changes to climate and investigating these using secondary data",
+        "is_correct": true
+      },
+      {
+        "text": "The same rule and result apply to every situation without testing",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "developing hypotheses about the role of human activity in changes to climate and investigating these using secondary data",
+      "hint": "Use hypotheses about the role of human activity in changes to make the role of question visible and connect the evidence to the unit’s central explanation."
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
+  },
+  {
+    "id": "ac9s10i01-p-008",
+    "curriculum_code": "AC9S10I01",
+    "year_level": "Year 10",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "use_a_change_in_the_frequency_of_extreme_weather_events_to_make_the_role_of_variables_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
+    "question": "A Year 10 student is investigating use a change in the frequency of extreme weather events to make the role of variables visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
+    "audio_prompt": "A Year 10 student is investigating use a change in the frequency of extreme weather events to make the role of variables visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A testable question must always be causal",
+        "is_correct": false
+      },
+      {
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "The same rule and result apply to every situation without testing",
+        "is_correct": false
+      },
+      {
+        "text": "observing a change in the frequency of extreme weather events and hypothesising causes from scientific models, such as: ‘If the El Niño weather pattern occurs more frequently then there will be more droughts due to decreased rainfall’",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "observing a change in the frequency of extreme weather events and hypothesising causes from scientific models, such as: ‘If the El Niño weather pattern occurs more frequently then there will be more droughts due to decreased rainfall’",
+      "hint": "Use a change in the frequency of extreme weather events to make the role of variables visible and connect the evidence to the unit’s central explanation."
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
+  },
+  {
+    "id": "ac9s10i01-t-001",
+    "curriculum_code": "AC9S10I01",
+    "year_level": "Year 10",
+    "subject": "science",
+    "bank": "test",
+    "skill": "use_asking_questions_about_the_relationship_between_crash_impact_force_to_make_the_role_of_hypothesis_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
+    "question": "A Year 10 student is investigating use asking questions about the relationship between crash impact force to make the role of hypothesis visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
+    "audio_prompt": "A Year 10 student is investigating use asking questions about the relationship between crash impact force to make the role of hypothesis visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "asking questions about the relationship between crash impact force and speed and developing a hypothesis which can then be tested",
+        "is_correct": true
+      },
+      {
+        "text": "A prediction and hypothesis are identical",
+        "is_correct": false
+      },
+      {
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "The same rule and result apply to every situation without testing",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "asking questions about the relationship between crash impact force and speed and developing a hypothesis which can then be tested",
+      "hint": "Use asking questions about the relationship between crash impact force to make the role of hypothesis visible and connect the evidence to the unit’s central explanation."
+    }
+  },
+  {
+    "id": "ac9s10i01-t-002",
+    "curriculum_code": "AC9S10I01",
+    "year_level": "Year 10",
+    "subject": "science",
+    "bank": "test",
+    "skill": "use_how_changing_the_surface_area_concentration_and_temperature_affects_to_make_the_role_of_model_based_prediction_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
+    "question": "A Year 10 student is investigating use how changing the surface area concentration and temperature affects to make the role of model based prediction visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
+    "audio_prompt": "A Year 10 student is investigating use how changing the surface area concentration and temperature affects to make the role of model based prediction visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A testable question must always be causal",
+        "is_correct": false
+      },
+      {
+        "text": "observing how changing the surface area, concentration and temperature affects the rate of a chemical reaction and developing reasoned predictions",
+        "is_correct": true
+      },
+      {
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "The same rule and result apply to every situation without testing",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "observing how changing the surface area, concentration and temperature affects the rate of a chemical reaction and developing reasoned predictions",
+      "hint": "Use how changing the surface area, concentration and temperature affects to make the role of model-based prediction visible and connect the evidence to the unit’s central explanation."
+    }
+  },
+  {
+    "id": "ac9s10i01-t-003",
+    "curriculum_code": "AC9S10I01",
+    "year_level": "Year 10",
+    "subject": "science",
+    "bank": "test",
+    "skill": "use_how_a_tested_hypothesis_may_lead_to_further_predictions_to_make_the_role_of_observation_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
+    "question": "Which response correctly uses use how a tested hypothesis may lead to further predictions to make the role of observation visible and connect the evidence to the unit’s central explanation?",
+    "audio_prompt": "Which response correctly uses use how a tested hypothesis may lead to further predictions to make the role of observation visible and connect the evidence to the unit’s central explanation?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A prediction and hypothesis are identical",
+        "is_correct": false
+      },
+      {
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "discussing how a tested hypothesis may lead to further predictions and testing to determine if the prediction is supported",
+        "is_correct": true
+      },
+      {
+        "text": "The same rule and result apply to every situation without testing",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "discussing how a tested hypothesis may lead to further predictions and testing to determine if the prediction is supported",
+      "hint": "Use how a tested hypothesis may lead to further predictions to make the role of observation visible and connect the evidence to the unit’s central explanation."
+    }
+  },
+  {
+    "id": "ac9s10i01-t-004",
+    "curriculum_code": "AC9S10I01",
+    "year_level": "Year 10",
+    "subject": "science",
+    "bank": "test",
+    "skill": "use_hypotheses_about_the_role_of_human_activity_in_changes_to_make_the_role_of_question_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
+    "question": "Which response correctly uses use hypotheses about the role of human activity in changes to make the role of question visible and connect the evidence to the unit’s central explanation?",
+    "audio_prompt": "Which response correctly uses use hypotheses about the role of human activity in changes to make the role of question visible and connect the evidence to the unit’s central explanation?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A testable question must always be causal",
+        "is_correct": false
+      },
+      {
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "The same rule and result apply to every situation without testing",
+        "is_correct": false
+      },
+      {
+        "text": "developing hypotheses about the role of human activity in changes to climate and investigating these using secondary data",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "developing hypotheses about the role of human activity in changes to climate and investigating these using secondary data",
+      "hint": "Use hypotheses about the role of human activity in changes to make the role of question visible and connect the evidence to the unit’s central explanation."
+    }
+  },
+  {
+    "id": "ac9s10i01-t-005",
+    "curriculum_code": "AC9S10I01",
+    "year_level": "Year 10",
+    "subject": "science",
+    "bank": "test",
+    "skill": "use_a_change_in_the_frequency_of_extreme_weather_events_to_make_the_role_of_variables_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
+    "question": "Which response correctly uses use a change in the frequency of extreme weather events to make the role of variables visible and connect the evidence to the unit’s central explanation?",
+    "audio_prompt": "Which response correctly uses use a change in the frequency of extreme weather events to make the role of variables visible and connect the evidence to the unit’s central explanation?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "observing a change in the frequency of extreme weather events and hypothesising causes from scientific models, such as: ‘If the El Niño weather pattern occurs more frequently then there will be more droughts due to decreased rainfall’",
+        "is_correct": true
+      },
+      {
+        "text": "A prediction and hypothesis are identical",
+        "is_correct": false
+      },
+      {
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "The same rule and result apply to every situation without testing",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "observing a change in the frequency of extreme weather events and hypothesising causes from scientific models, such as: ‘If the El Niño weather pattern occurs more frequently then there will be more droughts due to decreased rainfall’",
+      "hint": "Use a change in the frequency of extreme weather events to make the role of variables visible and connect the evidence to the unit’s central explanation."
+    }
+  },
+  {
+    "id": "ac9s10i01-t-006",
+    "curriculum_code": "AC9S10I01",
+    "year_level": "Year 10",
+    "subject": "science",
+    "bank": "test",
+    "skill": "use_asking_questions_about_the_relationship_between_crash_impact_force_to_make_the_role_of_hypothesis_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
+    "question": "Which response correctly uses use asking questions about the relationship between crash impact force to make the role of hypothesis visible and connect the evidence to the unit’s central explanation?",
+    "audio_prompt": "Which response correctly uses use asking questions about the relationship between crash impact force to make the role of hypothesis visible and connect the evidence to the unit’s central explanation?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A testable question must always be causal",
+        "is_correct": false
+      },
+      {
+        "text": "asking questions about the relationship between crash impact force and speed and developing a hypothesis which can then be tested",
+        "is_correct": true
+      },
+      {
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "The same rule and result apply to every situation without testing",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "asking questions about the relationship between crash impact force and speed and developing a hypothesis which can then be tested",
+      "hint": "Use asking questions about the relationship between crash impact force to make the role of hypothesis visible and connect the evidence to the unit’s central explanation."
+    }
+  },
+  {
+    "id": "ac9s10i01-t-007",
+    "curriculum_code": "AC9S10I01",
+    "year_level": "Year 10",
+    "subject": "science",
+    "bank": "test",
+    "skill": "use_how_changing_the_surface_area_concentration_and_temperature_affects_to_make_the_role_of_model_based_prediction_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
+    "question": "Which response correctly uses use how changing the surface area, concentration and temperature affects to make the role of model-based prediction visible and connect the evidence to the unit’s central explanation?",
+    "audio_prompt": "Which response correctly uses use how changing the surface area, concentration and temperature affects to make the role of model-based prediction visible and connect the evidence to the unit’s central explanation?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A prediction and hypothesis are identical",
+        "is_correct": false
+      },
+      {
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "observing how changing the surface area, concentration and temperature affects the rate of a chemical reaction and developing reasoned predictions",
+        "is_correct": true
+      },
+      {
+        "text": "The same rule and result apply to every situation without testing",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "observing how changing the surface area, concentration and temperature affects the rate of a chemical reaction and developing reasoned predictions",
+      "hint": "Use how changing the surface area, concentration and temperature affects to make the role of model-based prediction visible and connect the evidence to the unit’s central explanation."
+    }
+  },
+  {
+    "id": "ac9s10i01-t-008",
+    "curriculum_code": "AC9S10I01",
+    "year_level": "Year 10",
+    "subject": "science",
+    "bank": "test",
+    "skill": "use_how_a_tested_hypothesis_may_lead_to_further_predictions_to_make_the_role_of_observation_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
+    "question": "A Year 10 student is investigating use how a tested hypothesis may lead to further predictions to make the role of observation visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
+    "audio_prompt": "A Year 10 student is investigating use how a tested hypothesis may lead to further predictions to make the role of observation visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A testable question must always be causal",
+        "is_correct": false
+      },
+      {
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "The same rule and result apply to every situation without testing",
+        "is_correct": false
+      },
+      {
+        "text": "discussing how a tested hypothesis may lead to further predictions and testing to determine if the prediction is supported",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "discussing how a tested hypothesis may lead to further predictions and testing to determine if the prediction is supported",
+      "hint": "Use how a tested hypothesis may lead to further predictions to make the role of observation visible and connect the evidence to the unit’s central explanation."
+    }
+  }
+]

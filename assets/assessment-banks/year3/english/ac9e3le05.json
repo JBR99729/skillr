@@ -1,0 +1,1682 @@
+[
+  {
+    "id": "AC9E3LE05-P-001",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LE05",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "Creating and Editing Imaginative Texts",
+    "question": "While planning a mystery in a lighthouse, which order gives the clearest simple plot?",
+    "audio_prompt": "While planning a mystery in a lighthouse, which order gives the clearest simple plot?",
+    "answers": [
+      {
+        "text": "Introduce the situation, create a problem, attempt a solution, show the result",
+        "is_correct": true
+      },
+      {
+        "text": "Show the result, remove the problem, introduce nobody",
+        "is_correct": false
+      },
+      {
+        "text": "List settings without an event",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Introduce the situation, create a problem, attempt a solution, show the result This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the story details and reader effect before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LE05-P-002",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LE05",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "Creating and Editing Imaginative Texts",
+    "question": "While planning a mystery in a lighthouse, which detail makes a character more developed?",
+    "audio_prompt": "While planning a mystery in a lighthouse, which detail makes a character more developed?",
+    "answers": [
+      {
+        "text": "A first name only",
+        "is_correct": false
+      },
+      {
+        "text": "A goal and a fear that affect choices",
+        "is_correct": true
+      },
+      {
+        "text": "The page number",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A goal and a fear that affect choices This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the story details and reader effect before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LE05-P-003",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LE05",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "Creating and Editing Imaginative Texts",
+    "question": "While planning a mystery in a lighthouse, which opening creates a vivid setting?",
+    "audio_prompt": "While planning a mystery in a lighthouse, which opening creates a vivid setting?",
+    "answers": [
+      {
+        "text": "There was a place",
+        "is_correct": false
+      },
+      {
+        "text": "The story starts now",
+        "is_correct": false
+      },
+      {
+        "text": "Salt wind rattled the lighthouse windows",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Salt wind rattled the lighthouse windows This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the story details and reader effect before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LE05-P-004",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LE05",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "Creating and Editing Imaginative Texts",
+    "question": "While planning a mystery in a lighthouse, which event creates a useful story problem?",
+    "audio_prompt": "While planning a mystery in a lighthouse, which event creates a useful story problem?",
+    "answers": [
+      {
+        "text": "The only map blows into the river",
+        "is_correct": true
+      },
+      {
+        "text": "A bag is blue",
+        "is_correct": false
+      },
+      {
+        "text": "Everyone finishes immediately",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The only map blows into the river This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the story details and reader effect before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LE05-P-005",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LE05",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "Creating and Editing Imaginative Texts",
+    "question": "While planning a mystery in a lighthouse, how can a writer adapt a literary model appropriately?",
+    "audio_prompt": "While planning a mystery in a lighthouse, how can a writer adapt a literary model appropriately?",
+    "answers": [
+      {
+        "text": "Copy every sentence and name",
+        "is_correct": false
+      },
+      {
+        "text": "Reuse a structure but create new characters, events and language",
+        "is_correct": true
+      },
+      {
+        "text": "Change only the title",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Reuse a structure but create new characters, events and language This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the story details and reader effect before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LE05-P-006",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LE05",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "Creating and Editing Imaginative Texts",
+    "question": "While planning a mystery in a lighthouse, which edit would strengthen a draft with no clear ending?",
+    "audio_prompt": "While planning a mystery in a lighthouse, which edit would strengthen a draft with no clear ending?",
+    "answers": [
+      {
+        "text": "Add an unrelated object",
+        "is_correct": false
+      },
+      {
+        "text": "Delete the main event",
+        "is_correct": false
+      },
+      {
+        "text": "Show how the character's final choice resolves or changes the problem",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Show how the character's final choice resolves or changes the problem This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the story details and reader effect before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LE05-P-007",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LE05",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "Creating and Editing Imaginative Texts",
+    "question": "While planning a mystery in a lighthouse, what is the purpose of dialogue in a scene?",
+    "audio_prompt": "While planning a mystery in a lighthouse, what is the purpose of dialogue in a scene?",
+    "answers": [
+      {
+        "text": "To reveal speech, relationships or character reactions",
+        "is_correct": true
+      },
+      {
+        "text": "To label every setting",
+        "is_correct": false
+      },
+      {
+        "text": "To replace all action",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "To reveal speech, relationships or character reactions This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the story details and reader effect before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LE05-P-008",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LE05",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "Creating and Editing Imaginative Texts",
+    "question": "While planning a mystery in a lighthouse, which revision best builds reader interest?",
+    "audio_prompt": "While planning a mystery in a lighthouse, which revision best builds reader interest?",
+    "answers": [
+      {
+        "text": "Repeat the opening three times",
+        "is_correct": false
+      },
+      {
+        "text": "Add precise setting clues and make the character's decision matter",
+        "is_correct": true
+      },
+      {
+        "text": "Remove the problem",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Add precise setting clues and make the character's decision matter This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the story details and reader effect before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LE05-P-009",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LE05",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "Creating and Editing Imaginative Texts",
+    "question": "While drafting an adventure in a rainforest, which order gives the clearest simple plot?",
+    "audio_prompt": "While drafting an adventure in a rainforest, which order gives the clearest simple plot?",
+    "answers": [
+      {
+        "text": "Show the result, remove the problem, introduce nobody",
+        "is_correct": false
+      },
+      {
+        "text": "List settings without an event",
+        "is_correct": false
+      },
+      {
+        "text": "Introduce the situation, create a problem, attempt a solution, show the result",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Introduce the situation, create a problem, attempt a solution, show the result This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the story details and reader effect before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LE05-P-010",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LE05",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "Creating and Editing Imaginative Texts",
+    "question": "While drafting an adventure in a rainforest, which detail makes a character more developed?",
+    "audio_prompt": "While drafting an adventure in a rainforest, which detail makes a character more developed?",
+    "answers": [
+      {
+        "text": "A goal and a fear that affect choices",
+        "is_correct": true
+      },
+      {
+        "text": "A first name only",
+        "is_correct": false
+      },
+      {
+        "text": "The page number",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A goal and a fear that affect choices This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the story details and reader effect before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LE05-P-011",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LE05",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "Creating and Editing Imaginative Texts",
+    "question": "Why is “Salt wind rattled the lighthouse windows” the best answer here? While drafting an adventure in a rainforest, which opening creates a vivid setting?",
+    "audio_prompt": "Why is “Salt wind rattled the lighthouse windows” the best answer here? While drafting an adventure in a rainforest, which opening creates a vivid setting?",
+    "answers": [
+      {
+        "text": "Because “There was a place” sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Salt wind rattled the lighthouse windows This choice best fits the language, text or literacy evidence.",
+        "is_correct": true
+      },
+      {
+        "text": "Because the longest-looking option should always be chosen.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Salt wind rattled the lighthouse windows This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the story details and reader effect before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LE05-P-012",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LE05",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "Creating and Editing Imaginative Texts",
+    "question": "Why is “The only map blows into the river” the best answer here? While drafting an adventure in a rainforest, which event creates a useful story problem?",
+    "audio_prompt": "Why is “The only map blows into the river” the best answer here? While drafting an adventure in a rainforest, which event creates a useful story problem?",
+    "answers": [
+      {
+        "text": "Because “A bag is blue” sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Because the longest-looking option should always be chosen.",
+        "is_correct": false
+      },
+      {
+        "text": "The only map blows into the river This choice best fits the language, text or literacy evidence.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The only map blows into the river This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the story details and reader effect before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LE05-P-013",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LE05",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "Creating and Editing Imaginative Texts",
+    "question": "Why is “Reuse a structure but create new characters, events and language” the best answer here? While drafting an adventure in a rainforest, how can a writer adapt a literary model appropriately?",
+    "audio_prompt": "Why is “Reuse a structure but create new characters, events and language” the best answer here? While drafting an adventure in a rainforest, how can a writer adapt a literary model appropriately?",
+    "answers": [
+      {
+        "text": "Reuse a structure but create new characters, events and language This choice best fits the language, text or literacy evidence.",
+        "is_correct": true
+      },
+      {
+        "text": "Because “Copy every sentence and name” sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Because the longest-looking option should always be chosen.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Reuse a structure but create new characters, events and language This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the story details and reader effect before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LE05-P-014",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LE05",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "Creating and Editing Imaginative Texts",
+    "question": "Why is “Show how the character's final choice resolves or changes the problem” the best answer here? While drafting an adventure in a rainforest, which edit would strengthen a draft with no clear ending?",
+    "audio_prompt": "Why is “Show how the character's final choice resolves or changes the problem” the best answer here? While drafting an adventure in a rainforest, which edit would strengthen a draft with no clear ending?",
+    "answers": [
+      {
+        "text": "Because “Add an unrelated object” sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Show how the character's final choice resolves or changes the problem This choice best fits the language, text or literacy evidence.",
+        "is_correct": true
+      },
+      {
+        "text": "Because the longest-looking option should always be chosen.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Show how the character's final choice resolves or changes the problem This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the story details and reader effect before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LE05-P-015",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LE05",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "Creating and Editing Imaginative Texts",
+    "question": "Why is “To reveal speech, relationships or character reactions” the best answer here? While drafting an adventure in a rainforest, what is the purpose of dialogue in a scene?",
+    "audio_prompt": "Why is “To reveal speech, relationships or character reactions” the best answer here? While drafting an adventure in a rainforest, what is the purpose of dialogue in a scene?",
+    "answers": [
+      {
+        "text": "Because “To label every setting” sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Because the longest-looking option should always be chosen.",
+        "is_correct": false
+      },
+      {
+        "text": "To reveal speech, relationships or character reactions This choice best fits the language, text or literacy evidence.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "To reveal speech, relationships or character reactions This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the story details and reader effect before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LE05-P-016",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LE05",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "Creating and Editing Imaginative Texts",
+    "question": "Why is “Add precise setting clues and make the character's decision matter” the best answer here? While drafting an adventure in a rainforest, which revision best builds reader interest?",
+    "audio_prompt": "Why is “Add precise setting clues and make the character's decision matter” the best answer here? While drafting an adventure in a rainforest, which revision best builds reader interest?",
+    "answers": [
+      {
+        "text": "Add precise setting clues and make the character's decision matter This choice best fits the language, text or literacy evidence.",
+        "is_correct": true
+      },
+      {
+        "text": "Because “Repeat the opening three times” sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Because the longest-looking option should always be chosen.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Add precise setting clues and make the character's decision matter This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the story details and reader effect before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LE05-P-017",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LE05",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "Creating and Editing Imaginative Texts",
+    "question": "Why is “Introduce the situation, create a problem, attempt a solution, show the result” the best answer here? While editing a tale about a tiny robot, which order gives the clearest simple plot?",
+    "audio_prompt": "Why is “Introduce the situation, create a problem, attempt a solution, show the result” the best answer here? While editing a tale about a tiny robot, which order gives the clearest simple plot?",
+    "answers": [
+      {
+        "text": "Because “Show the result, remove the problem, introduce nobody” sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Introduce the situation, create a problem, attempt a solution, show the result This choice best fits the language, text or literacy evidence.",
+        "is_correct": true
+      },
+      {
+        "text": "Because the longest-looking option should always be chosen.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Introduce the situation, create a problem, attempt a solution, show the result This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the story details and reader effect before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LE05-P-018",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LE05",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "Creating and Editing Imaginative Texts",
+    "question": "Why is “A goal and a fear that affect choices” the best answer here? While editing a tale about a tiny robot, which detail makes a character more developed?",
+    "audio_prompt": "Why is “A goal and a fear that affect choices” the best answer here? While editing a tale about a tiny robot, which detail makes a character more developed?",
+    "answers": [
+      {
+        "text": "Because “A first name only” sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Because the longest-looking option should always be chosen.",
+        "is_correct": false
+      },
+      {
+        "text": "A goal and a fear that affect choices This choice best fits the language, text or literacy evidence.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A goal and a fear that affect choices This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the story details and reader effect before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LE05-P-019",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LE05",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "Creating and Editing Imaginative Texts",
+    "question": "Why is “Salt wind rattled the lighthouse windows” the best answer here? While editing a tale about a tiny robot, which opening creates a vivid setting?",
+    "audio_prompt": "Why is “Salt wind rattled the lighthouse windows” the best answer here? While editing a tale about a tiny robot, which opening creates a vivid setting?",
+    "answers": [
+      {
+        "text": "Salt wind rattled the lighthouse windows This choice best fits the language, text or literacy evidence.",
+        "is_correct": true
+      },
+      {
+        "text": "Because “There was a place” sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Because the longest-looking option should always be chosen.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Salt wind rattled the lighthouse windows This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the story details and reader effect before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LE05-P-020",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LE05",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "Creating and Editing Imaginative Texts",
+    "question": "Why is “The only map blows into the river” the best answer here? While editing a tale about a tiny robot, which event creates a useful story problem?",
+    "audio_prompt": "Why is “The only map blows into the river” the best answer here? While editing a tale about a tiny robot, which event creates a useful story problem?",
+    "answers": [
+      {
+        "text": "Because “A bag is blue” sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "The only map blows into the river This choice best fits the language, text or literacy evidence.",
+        "is_correct": true
+      },
+      {
+        "text": "Because the longest-looking option should always be chosen.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The only map blows into the river This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the story details and reader effect before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LE05-P-021",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LE05",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "Creating and Editing Imaginative Texts",
+    "question": "A student chooses “Show the result, remove the problem, introduce nobody” for this task: While planning a mystery in a lighthouse, which order gives the clearest simple plot? What should they check?",
+    "audio_prompt": "A student chooses “Show the result, remove the problem, introduce nobody” for this task: While planning a mystery in a lighthouse, which order gives the clearest simple plot? What should they check?",
+    "answers": [
+      {
+        "text": "Keep the answer because it uses a familiar word.",
+        "is_correct": false
+      },
+      {
+        "text": "Ignore the example and choose the remaining option.",
+        "is_correct": false
+      },
+      {
+        "text": "Use the story details and reader effect before choosing.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Use the story details and reader effect before choosing. Introduce the situation, create a problem, attempt a solution, show the result This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
+    }
+  },
+  {
+    "id": "AC9E3LE05-P-022",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LE05",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "Creating and Editing Imaginative Texts",
+    "question": "A student chooses “A first name only” for this task: While planning a mystery in a lighthouse, which detail makes a character more developed? What should they check?",
+    "audio_prompt": "A student chooses “A first name only” for this task: While planning a mystery in a lighthouse, which detail makes a character more developed? What should they check?",
+    "answers": [
+      {
+        "text": "Use the story details and reader effect before choosing.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep the answer because it uses a familiar word.",
+        "is_correct": false
+      },
+      {
+        "text": "Ignore the example and choose the remaining option.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Use the story details and reader effect before choosing. A goal and a fear that affect choices This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
+    }
+  },
+  {
+    "id": "AC9E3LE05-P-023",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LE05",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "Creating and Editing Imaginative Texts",
+    "question": "A student chooses “There was a place” for this task: While planning a mystery in a lighthouse, which opening creates a vivid setting? What should they check?",
+    "audio_prompt": "A student chooses “There was a place” for this task: While planning a mystery in a lighthouse, which opening creates a vivid setting? What should they check?",
+    "answers": [
+      {
+        "text": "Keep the answer because it uses a familiar word.",
+        "is_correct": false
+      },
+      {
+        "text": "Use the story details and reader effect before choosing.",
+        "is_correct": true
+      },
+      {
+        "text": "Ignore the example and choose the remaining option.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Use the story details and reader effect before choosing. Salt wind rattled the lighthouse windows This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
+    }
+  },
+  {
+    "id": "AC9E3LE05-P-024",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LE05",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "Creating and Editing Imaginative Texts",
+    "question": "A student chooses “A bag is blue” for this task: While planning a mystery in a lighthouse, which event creates a useful story problem? What should they check?",
+    "audio_prompt": "A student chooses “A bag is blue” for this task: While planning a mystery in a lighthouse, which event creates a useful story problem? What should they check?",
+    "answers": [
+      {
+        "text": "Keep the answer because it uses a familiar word.",
+        "is_correct": false
+      },
+      {
+        "text": "Ignore the example and choose the remaining option.",
+        "is_correct": false
+      },
+      {
+        "text": "Use the story details and reader effect before choosing.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Use the story details and reader effect before choosing. The only map blows into the river This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
+    }
+  },
+  {
+    "id": "AC9E3LE05-P-025",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LE05",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "Creating and Editing Imaginative Texts",
+    "question": "A student chooses “Copy every sentence and name” for this task: While planning a mystery in a lighthouse, how can a writer adapt a literary model appropriately? What should they check?",
+    "audio_prompt": "A student chooses “Copy every sentence and name” for this task: While planning a mystery in a lighthouse, how can a writer adapt a literary model appropriately? What should they check?",
+    "answers": [
+      {
+        "text": "Use the story details and reader effect before choosing.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep the answer because it uses a familiar word.",
+        "is_correct": false
+      },
+      {
+        "text": "Ignore the example and choose the remaining option.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Use the story details and reader effect before choosing. Reuse a structure but create new characters, events and language This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
+    }
+  },
+  {
+    "id": "AC9E3LE05-P-026",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LE05",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "Creating and Editing Imaginative Texts",
+    "question": "A student chooses “Add an unrelated object” for this task: While planning a mystery in a lighthouse, which edit would strengthen a draft with no clear ending? What should they check?",
+    "audio_prompt": "A student chooses “Add an unrelated object” for this task: While planning a mystery in a lighthouse, which edit would strengthen a draft with no clear ending? What should they check?",
+    "answers": [
+      {
+        "text": "Keep the answer because it uses a familiar word.",
+        "is_correct": false
+      },
+      {
+        "text": "Use the story details and reader effect before choosing.",
+        "is_correct": true
+      },
+      {
+        "text": "Ignore the example and choose the remaining option.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Use the story details and reader effect before choosing. Show how the character's final choice resolves or changes the problem This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
+    }
+  },
+  {
+    "id": "AC9E3LE05-P-027",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LE05",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "Creating and Editing Imaginative Texts",
+    "question": "A student chooses “To label every setting” for this task: While planning a mystery in a lighthouse, what is the purpose of dialogue in a scene? What should they check?",
+    "audio_prompt": "A student chooses “To label every setting” for this task: While planning a mystery in a lighthouse, what is the purpose of dialogue in a scene? What should they check?",
+    "answers": [
+      {
+        "text": "Keep the answer because it uses a familiar word.",
+        "is_correct": false
+      },
+      {
+        "text": "Ignore the example and choose the remaining option.",
+        "is_correct": false
+      },
+      {
+        "text": "Use the story details and reader effect before choosing.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Use the story details and reader effect before choosing. To reveal speech, relationships or character reactions This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
+    }
+  },
+  {
+    "id": "AC9E3LE05-P-028",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LE05",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "Creating and Editing Imaginative Texts",
+    "question": "A student chooses “Repeat the opening three times” for this task: While planning a mystery in a lighthouse, which revision best builds reader interest? What should they check?",
+    "audio_prompt": "A student chooses “Repeat the opening three times” for this task: While planning a mystery in a lighthouse, which revision best builds reader interest? What should they check?",
+    "answers": [
+      {
+        "text": "Use the story details and reader effect before choosing.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep the answer because it uses a familiar word.",
+        "is_correct": false
+      },
+      {
+        "text": "Ignore the example and choose the remaining option.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Use the story details and reader effect before choosing. Add precise setting clues and make the character's decision matter This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
+    }
+  },
+  {
+    "id": "AC9E3LE05-P-029",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LE05",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "Creating and Editing Imaginative Texts",
+    "question": "A student chooses “Show the result, remove the problem, introduce nobody” for this task: While drafting an adventure in a rainforest, which order gives the clearest simple plot? What should they check?",
+    "audio_prompt": "A student chooses “Show the result, remove the problem, introduce nobody” for this task: While drafting an adventure in a rainforest, which order gives the clearest simple plot? What should they check?",
+    "answers": [
+      {
+        "text": "Keep the answer because it uses a familiar word.",
+        "is_correct": false
+      },
+      {
+        "text": "Use the story details and reader effect before choosing.",
+        "is_correct": true
+      },
+      {
+        "text": "Ignore the example and choose the remaining option.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Use the story details and reader effect before choosing. Introduce the situation, create a problem, attempt a solution, show the result This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
+    }
+  },
+  {
+    "id": "AC9E3LE05-P-030",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LE05",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "Creating and Editing Imaginative Texts",
+    "question": "A student chooses “A first name only” for this task: While drafting an adventure in a rainforest, which detail makes a character more developed? What should they check?",
+    "audio_prompt": "A student chooses “A first name only” for this task: While drafting an adventure in a rainforest, which detail makes a character more developed? What should they check?",
+    "answers": [
+      {
+        "text": "Keep the answer because it uses a familiar word.",
+        "is_correct": false
+      },
+      {
+        "text": "Ignore the example and choose the remaining option.",
+        "is_correct": false
+      },
+      {
+        "text": "Use the story details and reader effect before choosing.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Use the story details and reader effect before choosing. A goal and a fear that affect choices This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
+    }
+  },
+  {
+    "id": "AC9E3LE05-P-031",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LE05",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Creating and Editing Imaginative Texts",
+    "question": "While drafting an adventure in a rainforest, what is the purpose of dialogue in a scene?",
+    "audio_prompt": "While drafting an adventure in a rainforest, what is the purpose of dialogue in a scene?",
+    "answers": [
+      {
+        "text": "To reveal speech, relationships or character reactions",
+        "is_correct": true
+      },
+      {
+        "text": "To label every setting",
+        "is_correct": false
+      },
+      {
+        "text": "To replace all action",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "To reveal speech, relationships or character reactions This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the story details and reader effect before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LE05-P-032",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LE05",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Creating and Editing Imaginative Texts",
+    "question": "While drafting an adventure in a rainforest, which revision best builds reader interest?",
+    "audio_prompt": "While drafting an adventure in a rainforest, which revision best builds reader interest?",
+    "answers": [
+      {
+        "text": "Repeat the opening three times",
+        "is_correct": false
+      },
+      {
+        "text": "Add precise setting clues and make the character's decision matter",
+        "is_correct": true
+      },
+      {
+        "text": "Remove the problem",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Add precise setting clues and make the character's decision matter This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the story details and reader effect before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LE05-P-033",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LE05",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Creating and Editing Imaginative Texts",
+    "question": "While editing a tale about a tiny robot, which order gives the clearest simple plot?",
+    "audio_prompt": "While editing a tale about a tiny robot, which order gives the clearest simple plot?",
+    "answers": [
+      {
+        "text": "Show the result, remove the problem, introduce nobody",
+        "is_correct": false
+      },
+      {
+        "text": "List settings without an event",
+        "is_correct": false
+      },
+      {
+        "text": "Introduce the situation, create a problem, attempt a solution, show the result",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Introduce the situation, create a problem, attempt a solution, show the result This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the story details and reader effect before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LE05-P-034",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LE05",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Creating and Editing Imaginative Texts",
+    "question": "While editing a tale about a tiny robot, which detail makes a character more developed?",
+    "audio_prompt": "While editing a tale about a tiny robot, which detail makes a character more developed?",
+    "answers": [
+      {
+        "text": "A goal and a fear that affect choices",
+        "is_correct": true
+      },
+      {
+        "text": "A first name only",
+        "is_correct": false
+      },
+      {
+        "text": "The page number",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A goal and a fear that affect choices This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the story details and reader effect before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LE05-P-035",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LE05",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Creating and Editing Imaginative Texts",
+    "question": "While editing a tale about a tiny robot, which opening creates a vivid setting?",
+    "audio_prompt": "While editing a tale about a tiny robot, which opening creates a vivid setting?",
+    "answers": [
+      {
+        "text": "There was a place",
+        "is_correct": false
+      },
+      {
+        "text": "Salt wind rattled the lighthouse windows",
+        "is_correct": true
+      },
+      {
+        "text": "The story starts now",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Salt wind rattled the lighthouse windows This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the story details and reader effect before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LE05-P-036",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LE05",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Creating and Editing Imaginative Texts",
+    "question": "While editing a tale about a tiny robot, which event creates a useful story problem?",
+    "audio_prompt": "While editing a tale about a tiny robot, which event creates a useful story problem?",
+    "answers": [
+      {
+        "text": "A bag is blue",
+        "is_correct": false
+      },
+      {
+        "text": "Everyone finishes immediately",
+        "is_correct": false
+      },
+      {
+        "text": "The only map blows into the river",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The only map blows into the river This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the story details and reader effect before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LE05-P-037",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LE05",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Creating and Editing Imaginative Texts",
+    "question": "While editing a tale about a tiny robot, how can a writer adapt a literary model appropriately?",
+    "audio_prompt": "While editing a tale about a tiny robot, how can a writer adapt a literary model appropriately?",
+    "answers": [
+      {
+        "text": "Reuse a structure but create new characters, events and language",
+        "is_correct": true
+      },
+      {
+        "text": "Copy every sentence and name",
+        "is_correct": false
+      },
+      {
+        "text": "Change only the title",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Reuse a structure but create new characters, events and language This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the story details and reader effect before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LE05-P-038",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LE05",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Creating and Editing Imaginative Texts",
+    "question": "While editing a tale about a tiny robot, which edit would strengthen a draft with no clear ending?",
+    "audio_prompt": "While editing a tale about a tiny robot, which edit would strengthen a draft with no clear ending?",
+    "answers": [
+      {
+        "text": "Add an unrelated object",
+        "is_correct": false
+      },
+      {
+        "text": "Show how the character's final choice resolves or changes the problem",
+        "is_correct": true
+      },
+      {
+        "text": "Delete the main event",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Show how the character's final choice resolves or changes the problem This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the story details and reader effect before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LE05-P-039",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LE05",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Creating and Editing Imaginative Texts",
+    "question": "While editing a tale about a tiny robot, what is the purpose of dialogue in a scene?",
+    "audio_prompt": "While editing a tale about a tiny robot, what is the purpose of dialogue in a scene?",
+    "answers": [
+      {
+        "text": "To label every setting",
+        "is_correct": false
+      },
+      {
+        "text": "To replace all action",
+        "is_correct": false
+      },
+      {
+        "text": "To reveal speech, relationships or character reactions",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "To reveal speech, relationships or character reactions This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the story details and reader effect before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LE05-P-040",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LE05",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Creating and Editing Imaginative Texts",
+    "question": "While editing a tale about a tiny robot, which revision best builds reader interest?",
+    "audio_prompt": "While editing a tale about a tiny robot, which revision best builds reader interest?",
+    "answers": [
+      {
+        "text": "Add precise setting clues and make the character's decision matter",
+        "is_correct": true
+      },
+      {
+        "text": "Repeat the opening three times",
+        "is_correct": false
+      },
+      {
+        "text": "Remove the problem",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Add precise setting clues and make the character's decision matter This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the story details and reader effect before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LE05-T-001",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LE05",
+    "bank": "test",
+    "stage": "verify",
+    "skill": "Creating and Editing Imaginative Texts",
+    "question": "While planning a story beneath the ocean, which order gives the clearest simple plot?",
+    "audio_prompt": "While planning a story beneath the ocean, which order gives the clearest simple plot?",
+    "answers": [
+      {
+        "text": "Show the result, remove the problem, introduce nobody",
+        "is_correct": false
+      },
+      {
+        "text": "Introduce the situation, create a problem, attempt a solution, show the result",
+        "is_correct": true
+      },
+      {
+        "text": "List settings without an event",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Introduce the situation, create a problem, attempt a solution, show the result This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the story details and reader effect before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LE05-T-002",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LE05",
+    "bank": "test",
+    "stage": "verify",
+    "skill": "Creating and Editing Imaginative Texts",
+    "question": "While planning a story beneath the ocean, which detail makes a character more developed?",
+    "audio_prompt": "While planning a story beneath the ocean, which detail makes a character more developed?",
+    "answers": [
+      {
+        "text": "A first name only",
+        "is_correct": false
+      },
+      {
+        "text": "The page number",
+        "is_correct": false
+      },
+      {
+        "text": "A goal and a fear that affect choices",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A goal and a fear that affect choices This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the story details and reader effect before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LE05-T-003",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LE05",
+    "bank": "test",
+    "stage": "verify",
+    "skill": "Creating and Editing Imaginative Texts",
+    "question": "While planning a story beneath the ocean, which opening creates a vivid setting?",
+    "audio_prompt": "While planning a story beneath the ocean, which opening creates a vivid setting?",
+    "answers": [
+      {
+        "text": "Salt wind rattled the lighthouse windows",
+        "is_correct": true
+      },
+      {
+        "text": "There was a place",
+        "is_correct": false
+      },
+      {
+        "text": "The story starts now",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Salt wind rattled the lighthouse windows This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the story details and reader effect before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LE05-T-004",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LE05",
+    "bank": "test",
+    "stage": "verify",
+    "skill": "Creating and Editing Imaginative Texts",
+    "question": "While planning a story beneath the ocean, which event creates a useful story problem?",
+    "audio_prompt": "While planning a story beneath the ocean, which event creates a useful story problem?",
+    "answers": [
+      {
+        "text": "A bag is blue",
+        "is_correct": false
+      },
+      {
+        "text": "The only map blows into the river",
+        "is_correct": true
+      },
+      {
+        "text": "Everyone finishes immediately",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The only map blows into the river This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the story details and reader effect before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LE05-T-005",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LE05",
+    "bank": "test",
+    "stage": "verify",
+    "skill": "Creating and Editing Imaginative Texts",
+    "question": "While planning a story beneath the ocean, how can a writer adapt a literary model appropriately?",
+    "audio_prompt": "While planning a story beneath the ocean, how can a writer adapt a literary model appropriately?",
+    "answers": [
+      {
+        "text": "Copy every sentence and name",
+        "is_correct": false
+      },
+      {
+        "text": "Change only the title",
+        "is_correct": false
+      },
+      {
+        "text": "Reuse a structure but create new characters, events and language",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Reuse a structure but create new characters, events and language This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the story details and reader effect before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LE05-T-006",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LE05",
+    "bank": "test",
+    "stage": "verify",
+    "skill": "Creating and Editing Imaginative Texts",
+    "question": "While planning a story beneath the ocean, which edit would strengthen a draft with no clear ending?",
+    "audio_prompt": "While planning a story beneath the ocean, which edit would strengthen a draft with no clear ending?",
+    "answers": [
+      {
+        "text": "Show how the character's final choice resolves or changes the problem",
+        "is_correct": true
+      },
+      {
+        "text": "Add an unrelated object",
+        "is_correct": false
+      },
+      {
+        "text": "Delete the main event",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Show how the character's final choice resolves or changes the problem This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the story details and reader effect before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LE05-T-007",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LE05",
+    "bank": "test",
+    "stage": "verify",
+    "skill": "Creating and Editing Imaginative Texts",
+    "question": "While planning a story beneath the ocean, what is the purpose of dialogue in a scene?",
+    "audio_prompt": "While planning a story beneath the ocean, what is the purpose of dialogue in a scene?",
+    "answers": [
+      {
+        "text": "To label every setting",
+        "is_correct": false
+      },
+      {
+        "text": "To reveal speech, relationships or character reactions",
+        "is_correct": true
+      },
+      {
+        "text": "To replace all action",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "To reveal speech, relationships or character reactions This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the story details and reader effect before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LE05-T-008",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LE05",
+    "bank": "test",
+    "stage": "verify",
+    "skill": "Creating and Editing Imaginative Texts",
+    "question": "While planning a story beneath the ocean, which revision best builds reader interest?",
+    "audio_prompt": "While planning a story beneath the ocean, which revision best builds reader interest?",
+    "answers": [
+      {
+        "text": "Repeat the opening three times",
+        "is_correct": false
+      },
+      {
+        "text": "Remove the problem",
+        "is_correct": false
+      },
+      {
+        "text": "Add precise setting clues and make the character's decision matter",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Add precise setting clues and make the character's decision matter This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the story details and reader effect before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LE05-T-009",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LE05",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "Creating and Editing Imaginative Texts",
+    "question": "While revising a tale in a floating city, which order gives the clearest simple plot?",
+    "audio_prompt": "While revising a tale in a floating city, which order gives the clearest simple plot?",
+    "answers": [
+      {
+        "text": "Introduce the situation, create a problem, attempt a solution, show the result",
+        "is_correct": true
+      },
+      {
+        "text": "Show the result, remove the problem, introduce nobody",
+        "is_correct": false
+      },
+      {
+        "text": "List settings without an event",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Introduce the situation, create a problem, attempt a solution, show the result This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the story details and reader effect before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LE05-T-010",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LE05",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "Creating and Editing Imaginative Texts",
+    "question": "While revising a tale in a floating city, which detail makes a character more developed?",
+    "audio_prompt": "While revising a tale in a floating city, which detail makes a character more developed?",
+    "answers": [
+      {
+        "text": "A first name only",
+        "is_correct": false
+      },
+      {
+        "text": "A goal and a fear that affect choices",
+        "is_correct": true
+      },
+      {
+        "text": "The page number",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A goal and a fear that affect choices This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the story details and reader effect before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LE05-T-011",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LE05",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "Creating and Editing Imaginative Texts",
+    "question": "While revising a tale in a floating city, which opening creates a vivid setting?",
+    "audio_prompt": "While revising a tale in a floating city, which opening creates a vivid setting?",
+    "answers": [
+      {
+        "text": "There was a place",
+        "is_correct": false
+      },
+      {
+        "text": "The story starts now",
+        "is_correct": false
+      },
+      {
+        "text": "Salt wind rattled the lighthouse windows",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Salt wind rattled the lighthouse windows This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the story details and reader effect before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LE05-T-012",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LE05",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "Creating and Editing Imaginative Texts",
+    "question": "While revising a tale in a floating city, which event creates a useful story problem?",
+    "audio_prompt": "While revising a tale in a floating city, which event creates a useful story problem?",
+    "answers": [
+      {
+        "text": "The only map blows into the river",
+        "is_correct": true
+      },
+      {
+        "text": "A bag is blue",
+        "is_correct": false
+      },
+      {
+        "text": "Everyone finishes immediately",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The only map blows into the river This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the story details and reader effect before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LE05-T-013",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LE05",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "Creating and Editing Imaginative Texts",
+    "question": "While revising a tale in a floating city, how can a writer adapt a literary model appropriately?",
+    "audio_prompt": "While revising a tale in a floating city, how can a writer adapt a literary model appropriately?",
+    "answers": [
+      {
+        "text": "Copy every sentence and name",
+        "is_correct": false
+      },
+      {
+        "text": "Reuse a structure but create new characters, events and language",
+        "is_correct": true
+      },
+      {
+        "text": "Change only the title",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Reuse a structure but create new characters, events and language This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the story details and reader effect before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LE05-T-014",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LE05",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "Creating and Editing Imaginative Texts",
+    "question": "While revising a tale in a floating city, which edit would strengthen a draft with no clear ending?",
+    "audio_prompt": "While revising a tale in a floating city, which edit would strengthen a draft with no clear ending?",
+    "answers": [
+      {
+        "text": "Add an unrelated object",
+        "is_correct": false
+      },
+      {
+        "text": "Delete the main event",
+        "is_correct": false
+      },
+      {
+        "text": "Show how the character's final choice resolves or changes the problem",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Show how the character's final choice resolves or changes the problem This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the story details and reader effect before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LE05-T-015",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LE05",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "Creating and Editing Imaginative Texts",
+    "question": "While revising a tale in a floating city, what is the purpose of dialogue in a scene?",
+    "audio_prompt": "While revising a tale in a floating city, what is the purpose of dialogue in a scene?",
+    "answers": [
+      {
+        "text": "To reveal speech, relationships or character reactions",
+        "is_correct": true
+      },
+      {
+        "text": "To label every setting",
+        "is_correct": false
+      },
+      {
+        "text": "To replace all action",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "To reveal speech, relationships or character reactions This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the story details and reader effect before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LE05-T-016",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LE05",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "Creating and Editing Imaginative Texts",
+    "question": "While revising a tale in a floating city, which revision best builds reader interest?",
+    "audio_prompt": "While revising a tale in a floating city, which revision best builds reader interest?",
+    "answers": [
+      {
+        "text": "Repeat the opening three times",
+        "is_correct": false
+      },
+      {
+        "text": "Add precise setting clues and make the character's decision matter",
+        "is_correct": true
+      },
+      {
+        "text": "Remove the problem",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Add precise setting clues and make the character's decision matter This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the story details and reader effect before choosing."
+    }
+  }
+]

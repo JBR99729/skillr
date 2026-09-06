@@ -1,0 +1,1418 @@
+[
+  {
+    "id": "AC9S8I06-P-001",
+    "subject": "science",
+    "year_level": "Year 8",
+    "curriculum_code": "AC9S8I06",
+    "bank": "practice",
+    "skill": "evaluation_method",
+    "question": "During a class investigation, students observe: A lamp-heating test claims light intensity alone changed solar output, but cell temperature also rose. How should the conclusion be revised?",
+    "audio_prompt": "During a class investigation, students observe: A lamp-heating test claims light intensity alone changed solar output, but cell temperature also rose. How should the conclusion be revised?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i06.svg#ac9s8i06-p-001",
+      "alt_text": "Test the Method and the Claim observation card stating: A lamp-heating test claims light intensity alone changed solar output, but cell temperature also rose."
+    },
+    "answers": [
+      {
+        "text": "State that output rose under the combined conditions and repeat while monitoring or controlling temperature",
+        "is_correct": true
+      },
+      {
+        "text": "Keep the causal claim because the result matched the prediction",
+        "is_correct": false
+      },
+      {
+        "text": "Call the issue human error without explaining its effect",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A confounding variable narrows the supported claim and guides a specific follow-up.",
+      "hint": "Name the uncontrolled variable and how to test its influence."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
+  },
+  {
+    "id": "AC9S8I06-P-002",
+    "subject": "science",
+    "year_level": "Year 8",
+    "curriculum_code": "AC9S8I06",
+    "bank": "practice",
+    "skill": "evaluation_assumption",
+    "question": "During a museum evidence display, students observe: A balance reads every standard mass 0.50 grams too high. What type of problem is this and what is its effect?",
+    "audio_prompt": "During a museum evidence display, students observe: A balance reads every standard mass 0.50 grams too high. What type of problem is this and what is its effect?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i06.svg#ac9s8i06-p-002",
+      "alt_text": "Test the Method and the Claim observation card stating: A balance reads every standard mass 0.50 grams too high."
+    },
+    "answers": [
+      {
+        "text": "Random error makes values equally likely to be high or low",
+        "is_correct": false
+      },
+      {
+        "text": "A systematic calibration error shifts all mass readings upward",
+        "is_correct": true
+      },
+      {
+        "text": "The repeated offset increases confidence that the readings are accurate",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A consistent calibration offset is systematic and biases every measurement in one direction.",
+      "hint": "The same error direction occurs each time."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
+  },
+  {
+    "id": "AC9S8I06-P-003",
+    "subject": "science",
+    "year_level": "Year 8",
+    "curriculum_code": "AC9S8I06",
+    "bank": "practice",
+    "skill": "evaluation_source_of_error",
+    "question": "During a field-team briefing, students observe: Two well-controlled studies report opposite effects of the same material. What is the strongest evaluation?",
+    "audio_prompt": "During a field-team briefing, students observe: Two well-controlled studies report opposite effects of the same material. What is the strongest evaluation?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i06.svg#ac9s8i06-p-003",
+      "alt_text": "Test the Method and the Claim observation card stating: Two well-controlled studies report opposite effects of the same material."
+    },
+    "answers": [
+      {
+        "text": "Keep only the study that matches the preferred claim",
+        "is_correct": false
+      },
+      {
+        "text": "Average the written conclusions without examining evidence",
+        "is_correct": false
+      },
+      {
+        "text": "Compare methods, samples and uncertainty, then seek replication before choosing a broad conclusion",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Conflicting evidence should be investigated through study quality, context and replication.",
+      "hint": "Look for reasons the studies could differ before resolving the conflict."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
+  },
+  {
+    "id": "AC9S8I06-P-004",
+    "subject": "science",
+    "year_level": "Year 8",
+    "curriculum_code": "AC9S8I06",
+    "bank": "practice",
+    "skill": "evaluation_evidence_conflict",
+    "question": "During a laboratory notebook, students observe: A medicine trial includes six volunteers with no comparison group. Which limitation most affects the claim that the medicine caused improvement?",
+    "audio_prompt": "During a laboratory notebook, students observe: A medicine trial includes six volunteers with no comparison group. Which limitation most affects the claim that the medicine caused improvement?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i06.svg#ac9s8i06-p-004",
+      "alt_text": "Test the Method and the Claim observation card stating: A medicine trial includes six volunteers with no comparison group."
+    },
+    "answers": [
+      {
+        "text": "Without a suitable comparison group, recovery or placebo effects cannot be separated from treatment effect",
+        "is_correct": true
+      },
+      {
+        "text": "Six volunteers guarantee the result applies to everyone",
+        "is_correct": false
+      },
+      {
+        "text": "The medicine name is not technical enough",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A comparison group helps distinguish treatment effects from other causes of change.",
+      "hint": "Ask what would have happened without the treatment."
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
+  },
+  {
+    "id": "AC9S8I06-P-005",
+    "subject": "science",
+    "year_level": "Year 8",
+    "curriculum_code": "AC9S8I06",
+    "bank": "practice",
+    "skill": "evaluation_conclusion_and_next_question",
+    "question": "During a community science meeting, students observe: A temperature probe gives closely grouped readings that are all two degrees above a calibrated reference. How should its performance be described?",
+    "audio_prompt": "During a community science meeting, students observe: A temperature probe gives closely grouped readings that are all two degrees above a calibrated reference. How should its performance be described?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i06.svg#ac9s8i06-p-005",
+      "alt_text": "Test the Method and the Claim observation card stating: A temperature probe gives closely grouped readings that are all two degrees above a calibrated reference."
+    },
+    "answers": [
+      {
+        "text": "It is accurate because the readings agree with one another",
+        "is_correct": false
+      },
+      {
+        "text": "It is precise in these repeats but inaccurate because of a systematic offset",
+        "is_correct": true
+      },
+      {
+        "text": "It is neither precise nor accurate because digital probes cannot be calibrated",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Precision is repeatability; accuracy is closeness to an accepted value.",
+      "hint": "Separate agreement among readings from agreement with the reference."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
+  },
+  {
+    "id": "AC9S8I06-P-006",
+    "subject": "science",
+    "year_level": "Year 8",
+    "curriculum_code": "AC9S8I06",
+    "bank": "practice",
+    "skill": "evaluation_method",
+    "question": "During a digital model review, students observe: A class concludes a fertiliser has no effect because p equals 0.08 in a small noisy sample. Which evaluation is appropriately cautious?",
+    "audio_prompt": "During a digital model review, students observe: A class concludes a fertiliser has no effect because p equals 0.08 in a small noisy sample. Which evaluation is appropriately cautious?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i06.svg#ac9s8i06-p-006",
+      "alt_text": "Test the Method and the Claim observation card stating: A class concludes a fertiliser has no effect because p equals 0.08 in a small noisy sample."
+    },
+    "answers": [
+      {
+        "text": "The result proves the fertiliser can never affect plants",
+        "is_correct": false
+      },
+      {
+        "text": "A p-value states the percentage of plants that responded",
+        "is_correct": false
+      },
+      {
+        "text": "The study did not provide strong evidence of an effect, but uncertainty and low power mean no effect was not proven",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Failure to find strong evidence is not proof that an effect is absent.",
+      "hint": "Distinguish ‘not detected’ from ‘does not exist’."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
+  },
+  {
+    "id": "AC9S8I06-P-007",
+    "subject": "science",
+    "year_level": "Year 8",
+    "curriculum_code": "AC9S8I06",
+    "bank": "practice",
+    "skill": "evaluation_assumption",
+    "question": "During a student research poster, students observe: A method measures water loss only on one unusually windy afternoon. Which improvement addresses representativeness?",
+    "audio_prompt": "During a student research poster, students observe: A method measures water loss only on one unusually windy afternoon. Which improvement addresses representativeness?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i06.svg#ac9s8i06-p-007",
+      "alt_text": "Test the Method and the Claim observation card stating: A method measures water loss only on one unusually windy afternoon."
+    },
+    "answers": [
+      {
+        "text": "Repeat across multiple days and conditions using the same defined method",
+        "is_correct": true
+      },
+      {
+        "text": "Record the windy result to more decimal places",
+        "is_correct": false
+      },
+      {
+        "text": "Repeat the calculation on the same single reading",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Sampling across relevant conditions tests whether a result represents the wider pattern.",
+      "hint": "Gather new observations, not extra arithmetic on one observation."
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
+  },
+  {
+    "id": "AC9S8I06-P-008",
+    "subject": "science",
+    "year_level": "Year 8",
+    "curriculum_code": "AC9S8I06",
+    "bank": "practice",
+    "skill": "evaluation_source_of_error",
+    "question": "During an engineering design check, students observe: An insulation study uses a thermometer touching the metal cup wall. Which specific error and improvement are relevant?",
+    "audio_prompt": "During an engineering design check, students observe: An insulation study uses a thermometer touching the metal cup wall. Which specific error and improvement are relevant?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i06.svg#ac9s8i06-p-008",
+      "alt_text": "Test the Method and the Claim observation card stating: An insulation study uses a thermometer touching the metal cup wall."
+    },
+    "answers": [
+      {
+        "text": "Human error occurred, so replace every student",
+        "is_correct": false
+      },
+      {
+        "text": "Wall contact may measure cup temperature; suspend the probe centrally at a fixed depth",
+        "is_correct": true
+      },
+      {
+        "text": "Use a brighter-coloured thermometer to improve accuracy",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Evaluation identifies the mechanism of error and a targeted procedural correction.",
+      "hint": "Consider what the probe is actually touching."
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
+  },
+  {
+    "id": "AC9S8I06-P-009",
+    "subject": "science",
+    "year_level": "Year 8",
+    "curriculum_code": "AC9S8I06",
+    "bank": "practice",
+    "skill": "evaluation_evidence_conflict",
+    "question": "During a data-team discussion, students observe: A model accurately predicts low-speed motion but fails near very high speeds. Which conclusion about the model is sound?",
+    "audio_prompt": "During a data-team discussion, students observe: A model accurately predicts low-speed motion but fails near very high speeds. Which conclusion about the model is sound?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i06.svg#ac9s8i06-p-009",
+      "alt_text": "Test the Method and the Claim observation card stating: A model accurately predicts low-speed motion but fails near very high speeds."
+    },
+    "answers": [
+      {
+        "text": "One failure makes every earlier prediction worthless",
+        "is_correct": false
+      },
+      {
+        "text": "A successful model must be a literal copy of reality",
+        "is_correct": false
+      },
+      {
+        "text": "It remains useful within its tested domain, but its limits must be stated and another model may be needed outside it",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Models are evaluated against purpose, domain and known limitations.",
+      "hint": "A limitation can restrict use without removing all value."
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
+  },
+  {
+    "id": "AC9S8I06-P-010",
+    "subject": "science",
+    "year_level": "Year 8",
+    "curriculum_code": "AC9S8I06",
+    "bank": "practice",
+    "skill": "evaluation_conclusion_and_next_question",
+    "question": "During a school science report, students observe: A study finds microplastic particles in all five sampled fish from one estuary. Which unanswered question is the best next step?",
+    "audio_prompt": "During a school science report, students observe: A study finds microplastic particles in all five sampled fish from one estuary. Which unanswered question is the best next step?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i06.svg#ac9s8i06-p-010",
+      "alt_text": "Test the Method and the Claim observation card stating: A study finds microplastic particles in all five sampled fish from one estuary."
+    },
+    "answers": [
+      {
+        "text": "How do particle levels vary among species, seasons and multiple estuaries using larger samples?",
+        "is_correct": true
+      },
+      {
+        "text": "Why do all fish in the world contain exactly the same amount?",
+        "is_correct": false
+      },
+      {
+        "text": "How can the five results be used to avoid further sampling?",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A follow-up targets sample size, variation and generalisability revealed by the first study.",
+      "hint": "Test whether the local finding holds across more organisms and places."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
+  },
+  {
+    "id": "AC9S8I06-P-011",
+    "subject": "science",
+    "year_level": "Year 8",
+    "curriculum_code": "AC9S8I06",
+    "bank": "practice",
+    "skill": "evaluation_method",
+    "question": "During a council evidence summary, students observe: A conclusion from study 11 says water temperature alone caused dissolving time, although sugar mass, grain size, water volume and stirring were not all controlled. Which evaluation best tests the claim? Use the water temperature and sugar dissolving time evidence.",
+    "audio_prompt": "During a council evidence summary, students observe: A conclusion from study 11 says water temperature alone caused dissolving time, although sugar mass, grain size, water volume and stirring were not all controlled. Which evaluation best tests the claim? Use the water temperature and sugar dissolving time evidence.",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i06.svg#ac9s8i06-p-011",
+      "alt_text": "Test the Method and the Claim observation card stating: A conclusion from study 11 says water temperature alone caused dissolving time, although sugar mass, grain size, water volume and stirring were not all controlled."
+    },
+    "answers": [
+      {
+        "text": "For water temperature and sugar dissolving time: Accept the claim because its wording sounds confident",
+        "is_correct": false
+      },
+      {
+        "text": "For water temperature and sugar dissolving time: Identify how an uncontrolled condition could affect dissolving time, narrow the conclusion, and repeat while controlling or measuring it",
+        "is_correct": true
+      },
+      {
+        "text": "For water temperature and sugar dissolving time: Label every limitation human error without linking it to dissolving time",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Evaluation links a specific limitation in water temperature and sugar dissolving time to its effect and a targeted improvement. This conclusion concerns water temperature and sugar dissolving time.",
+      "hint": "Name which uncontrolled condition could also change dissolving time. Apply this to water temperature and sugar dissolving time."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
+  },
+  {
+    "id": "AC9S8I06-P-012",
+    "subject": "science",
+    "year_level": "Year 8",
+    "curriculum_code": "AC9S8I06",
+    "bank": "practice",
+    "skill": "evaluation_assumption",
+    "question": "During a peer-review conversation, students observe: A conclusion from study 12 says ramp angle alone caused travel time, although car, surface, distance and release method were not all controlled. Which evaluation best tests the claim? Use the ramp angle and toy-car travel time evidence.",
+    "audio_prompt": "During a peer-review conversation, students observe: A conclusion from study 12 says ramp angle alone caused travel time, although car, surface, distance and release method were not all controlled. Which evaluation best tests the claim? Use the ramp angle and toy-car travel time evidence.",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i06.svg#ac9s8i06-p-012",
+      "alt_text": "Test the Method and the Claim observation card stating: A conclusion from study 12 says ramp angle alone caused travel time, although car, surface, distance and release method were not all controlled."
+    },
+    "answers": [
+      {
+        "text": "For ramp angle and toy-car travel time: Accept the claim because its wording sounds confident",
+        "is_correct": false
+      },
+      {
+        "text": "For ramp angle and toy-car travel time: Label every limitation human error without linking it to travel time",
+        "is_correct": false
+      },
+      {
+        "text": "For ramp angle and toy-car travel time: Identify how an uncontrolled condition could affect travel time, narrow the conclusion, and repeat while controlling or measuring it",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Evaluation links a specific limitation in ramp angle and toy-car travel time to its effect and a targeted improvement. This conclusion concerns ramp angle and toy-car travel time.",
+      "hint": "Name which uncontrolled condition could also change travel time. Apply this to ramp angle and toy-car travel time."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
+  },
+  {
+    "id": "AC9S8I06-P-013",
+    "subject": "science",
+    "year_level": "Year 8",
+    "curriculum_code": "AC9S8I06",
+    "bank": "practice",
+    "skill": "evaluation_source_of_error",
+    "question": "During an environmental monitoring project, students observe: A conclusion from study 13 says light intensity alone caused bubbles per minute, although pondweed length, water and temperature were not all controlled. Which evaluation best tests the claim? Use the light intensity and pondweed bubble rate evidence.",
+    "audio_prompt": "During an environmental monitoring project, students observe: A conclusion from study 13 says light intensity alone caused bubbles per minute, although pondweed length, water and temperature were not all controlled. Which evaluation best tests the claim? Use the light intensity and pondweed bubble rate evidence.",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i06.svg#ac9s8i06-p-013",
+      "alt_text": "Test the Method and the Claim observation card stating: A conclusion from study 13 says light intensity alone caused bubbles per minute, although pondweed length, water and temperature were not all controlled."
+    },
+    "answers": [
+      {
+        "text": "For light intensity and pondweed bubble rate: Identify how an uncontrolled condition could affect bubbles per minute, narrow the conclusion, and repeat while controlling or measuring it",
+        "is_correct": true
+      },
+      {
+        "text": "For light intensity and pondweed bubble rate: Accept the claim because its wording sounds confident",
+        "is_correct": false
+      },
+      {
+        "text": "For light intensity and pondweed bubble rate: Label every limitation human error without linking it to bubbles per minute",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Evaluation links a specific limitation in light intensity and pondweed bubble rate to its effect and a targeted improvement. This conclusion concerns light intensity and pondweed bubble rate.",
+      "hint": "Name which uncontrolled condition could also change bubbles per minute. Apply this to light intensity and pondweed bubble rate."
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
+  },
+  {
+    "id": "AC9S8I06-P-014",
+    "subject": "science",
+    "year_level": "Year 8",
+    "curriculum_code": "AC9S8I06",
+    "bank": "practice",
+    "skill": "evaluation_evidence_conflict",
+    "question": "During a medical research case, students observe: A conclusion from study 14 says soil type alone caused height after 14 days, although seed variety, water, pot and light were not all controlled. Which evaluation best tests the claim? Use the soil type and bean-seedling height evidence.",
+    "audio_prompt": "During a medical research case, students observe: A conclusion from study 14 says soil type alone caused height after 14 days, although seed variety, water, pot and light were not all controlled. Which evaluation best tests the claim? Use the soil type and bean-seedling height evidence.",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i06.svg#ac9s8i06-p-014",
+      "alt_text": "Test the Method and the Claim observation card stating: A conclusion from study 14 says soil type alone caused height after 14 days, although seed variety, water, pot and light were not all controlled."
+    },
+    "answers": [
+      {
+        "text": "For soil type and bean-seedling height: Accept the claim because its wording sounds confident",
+        "is_correct": false
+      },
+      {
+        "text": "For soil type and bean-seedling height: Identify how an uncontrolled condition could affect height after 14 days, narrow the conclusion, and repeat while controlling or measuring it",
+        "is_correct": true
+      },
+      {
+        "text": "For soil type and bean-seedling height: Label every limitation human error without linking it to height after 14 days",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Evaluation links a specific limitation in soil type and bean-seedling height to its effect and a targeted improvement. This conclusion concerns soil type and bean-seedling height.",
+      "hint": "Name which uncontrolled condition could also change height after 14 days. Apply this to soil type and bean-seedling height."
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
+  },
+  {
+    "id": "AC9S8I06-P-015",
+    "subject": "science",
+    "year_level": "Year 8",
+    "curriculum_code": "AC9S8I06",
+    "bank": "practice",
+    "skill": "evaluation_conclusion_and_next_question",
+    "question": "During a science-news fact check, students observe: A conclusion from study 15 says wire length alone caused current, although wire material, thickness, voltage and temperature were not all controlled. Which evaluation best tests the claim? Use the wire length and electrical current evidence.",
+    "audio_prompt": "During a science-news fact check, students observe: A conclusion from study 15 says wire length alone caused current, although wire material, thickness, voltage and temperature were not all controlled. Which evaluation best tests the claim? Use the wire length and electrical current evidence.",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i06.svg#ac9s8i06-p-015",
+      "alt_text": "Test the Method and the Claim observation card stating: A conclusion from study 15 says wire length alone caused current, although wire material, thickness, voltage and temperature were not all controlled."
+    },
+    "answers": [
+      {
+        "text": "For wire length and electrical current: Accept the claim because its wording sounds confident",
+        "is_correct": false
+      },
+      {
+        "text": "For wire length and electrical current: Label every limitation human error without linking it to current",
+        "is_correct": false
+      },
+      {
+        "text": "For wire length and electrical current: Identify how an uncontrolled condition could affect current, narrow the conclusion, and repeat while controlling or measuring it",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Evaluation links a specific limitation in wire length and electrical current to its effect and a targeted improvement. This conclusion concerns wire length and electrical current.",
+      "hint": "Name which uncontrolled condition could also change current. Apply this to wire length and electrical current."
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
+  },
+  {
+    "id": "AC9S8I06-P-016",
+    "subject": "science",
+    "year_level": "Year 8",
+    "curriculum_code": "AC9S8I06",
+    "bank": "practice",
+    "skill": "evaluation_method",
+    "question": "During a classroom model test, students observe: A conclusion from study 16 says exercise duration alone caused recovery time, although participant, intensity and measurement method were not all controlled. Which evaluation best tests the claim? Use the exercise duration and pulse recovery evidence.",
+    "audio_prompt": "During a classroom model test, students observe: A conclusion from study 16 says exercise duration alone caused recovery time, although participant, intensity and measurement method were not all controlled. Which evaluation best tests the claim? Use the exercise duration and pulse recovery evidence.",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i06.svg#ac9s8i06-p-016",
+      "alt_text": "Test the Method and the Claim observation card stating: A conclusion from study 16 says exercise duration alone caused recovery time, although participant, intensity and measurement method were not all controlled."
+    },
+    "answers": [
+      {
+        "text": "For exercise duration and pulse recovery: Identify how an uncontrolled condition could affect recovery time, narrow the conclusion, and repeat while controlling or measuring it",
+        "is_correct": true
+      },
+      {
+        "text": "For exercise duration and pulse recovery: Accept the claim because its wording sounds confident",
+        "is_correct": false
+      },
+      {
+        "text": "For exercise duration and pulse recovery: Label every limitation human error without linking it to recovery time",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Evaluation links a specific limitation in exercise duration and pulse recovery to its effect and a targeted improvement. This conclusion concerns exercise duration and pulse recovery.",
+      "hint": "Name which uncontrolled condition could also change recovery time. Apply this to exercise duration and pulse recovery."
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
+  },
+  {
+    "id": "AC9S8I06-P-017",
+    "subject": "science",
+    "year_level": "Year 8",
+    "curriculum_code": "AC9S8I06",
+    "bank": "practice",
+    "skill": "evaluation_assumption",
+    "question": "During a regional planning workshop, students observe: A conclusion from study 17 says salt concentration alone caused floating height, although egg, water volume, container and temperature were not all controlled. Which evaluation best tests the claim? Use the salt concentration and egg buoyancy evidence.",
+    "audio_prompt": "During a regional planning workshop, students observe: A conclusion from study 17 says salt concentration alone caused floating height, although egg, water volume, container and temperature were not all controlled. Which evaluation best tests the claim? Use the salt concentration and egg buoyancy evidence.",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i06.svg#ac9s8i06-p-017",
+      "alt_text": "Test the Method and the Claim observation card stating: A conclusion from study 17 says salt concentration alone caused floating height, although egg, water volume, container and temperature were not all controlled."
+    },
+    "answers": [
+      {
+        "text": "For salt concentration and egg buoyancy: Accept the claim because its wording sounds confident",
+        "is_correct": false
+      },
+      {
+        "text": "For salt concentration and egg buoyancy: Identify how an uncontrolled condition could affect floating height, narrow the conclusion, and repeat while controlling or measuring it",
+        "is_correct": true
+      },
+      {
+        "text": "For salt concentration and egg buoyancy: Label every limitation human error without linking it to floating height",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Evaluation links a specific limitation in salt concentration and egg buoyancy to its effect and a targeted improvement. This conclusion concerns salt concentration and egg buoyancy.",
+      "hint": "Name which uncontrolled condition could also change floating height. Apply this to salt concentration and egg buoyancy."
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
+  },
+  {
+    "id": "AC9S8I06-P-018",
+    "subject": "science",
+    "year_level": "Year 8",
+    "curriculum_code": "AC9S8I06",
+    "bank": "practice",
+    "skill": "evaluation_source_of_error",
+    "question": "During an equipment selection task, students observe: A conclusion from study 18 says insulation material alone caused temperature loss, although cup, water volume, starting temperature and time were not all controlled. Which evaluation best tests the claim? Use the insulation material and cooling evidence.",
+    "audio_prompt": "During an equipment selection task, students observe: A conclusion from study 18 says insulation material alone caused temperature loss, although cup, water volume, starting temperature and time were not all controlled. Which evaluation best tests the claim? Use the insulation material and cooling evidence.",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i06.svg#ac9s8i06-p-018",
+      "alt_text": "Test the Method and the Claim observation card stating: A conclusion from study 18 says insulation material alone caused temperature loss, although cup, water volume, starting temperature and time were not all controlled."
+    },
+    "answers": [
+      {
+        "text": "For insulation material and cooling: Accept the claim because its wording sounds confident",
+        "is_correct": false
+      },
+      {
+        "text": "For insulation material and cooling: Label every limitation human error without linking it to temperature loss",
+        "is_correct": false
+      },
+      {
+        "text": "For insulation material and cooling: Identify how an uncontrolled condition could affect temperature loss, narrow the conclusion, and repeat while controlling or measuring it",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Evaluation links a specific limitation in insulation material and cooling to its effect and a targeted improvement. This conclusion concerns insulation material and cooling.",
+      "hint": "Name which uncontrolled condition could also change temperature loss. Apply this to insulation material and cooling."
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
+  },
+  {
+    "id": "AC9S8I06-P-019",
+    "subject": "science",
+    "year_level": "Year 8",
+    "curriculum_code": "AC9S8I06",
+    "bank": "practice",
+    "skill": "evaluation_evidence_conflict",
+    "question": "During a public information draft, students observe: A conclusion from study 19 says exposed surface area alone caused mass of water lost, although water volume, temperature, airflow and time were not all controlled. Which evaluation best tests the claim? Use the surface area and evaporation evidence.",
+    "audio_prompt": "During a public information draft, students observe: A conclusion from study 19 says exposed surface area alone caused mass of water lost, although water volume, temperature, airflow and time were not all controlled. Which evaluation best tests the claim? Use the surface area and evaporation evidence.",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i06.svg#ac9s8i06-p-019",
+      "alt_text": "Test the Method and the Claim observation card stating: A conclusion from study 19 says exposed surface area alone caused mass of water lost, although water volume, temperature, airflow and time were not all controlled."
+    },
+    "answers": [
+      {
+        "text": "For surface area and evaporation: Identify how an uncontrolled condition could affect mass of water lost, narrow the conclusion, and repeat while controlling or measuring it",
+        "is_correct": true
+      },
+      {
+        "text": "For surface area and evaporation: Accept the claim because its wording sounds confident",
+        "is_correct": false
+      },
+      {
+        "text": "For surface area and evaporation: Label every limitation human error without linking it to mass of water lost",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Evaluation links a specific limitation in surface area and evaporation to its effect and a targeted improvement. This conclusion concerns surface area and evaporation.",
+      "hint": "Name which uncontrolled condition could also change mass of water lost. Apply this to surface area and evaporation."
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
+  },
+  {
+    "id": "AC9S8I06-P-020",
+    "subject": "science",
+    "year_level": "Year 8",
+    "curriculum_code": "AC9S8I06",
+    "bank": "practice",
+    "skill": "evaluation_conclusion_and_next_question",
+    "question": "During an independent replication study, students observe: A conclusion from study 20 says pH alone caused time to digest starch, although enzyme amount, starch concentration and temperature were not all controlled. Which evaluation best tests the claim? Use the pH and amylase activity evidence.",
+    "audio_prompt": "During an independent replication study, students observe: A conclusion from study 20 says pH alone caused time to digest starch, although enzyme amount, starch concentration and temperature were not all controlled. Which evaluation best tests the claim? Use the pH and amylase activity evidence.",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i06.svg#ac9s8i06-p-020",
+      "alt_text": "Test the Method and the Claim observation card stating: A conclusion from study 20 says pH alone caused time to digest starch, although enzyme amount, starch concentration and temperature were not all controlled."
+    },
+    "answers": [
+      {
+        "text": "For pH and amylase activity: Accept the claim because its wording sounds confident",
+        "is_correct": false
+      },
+      {
+        "text": "For pH and amylase activity: Identify how an uncontrolled condition could affect time to digest starch, narrow the conclusion, and repeat while controlling or measuring it",
+        "is_correct": true
+      },
+      {
+        "text": "For pH and amylase activity: Label every limitation human error without linking it to time to digest starch",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Evaluation links a specific limitation in pH and amylase activity to its effect and a targeted improvement. This conclusion concerns pH and amylase activity.",
+      "hint": "Name which uncontrolled condition could also change time to digest starch. Apply this to pH and amylase activity."
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
+  },
+  {
+    "id": "AC9S8I06-P-021",
+    "subject": "science",
+    "year_level": "Year 8",
+    "curriculum_code": "AC9S8I06",
+    "bank": "practice",
+    "skill": "evaluation_method",
+    "question": "During a risk-assessment meeting, students observe: A conclusion from study 21 says drop height alone caused crater diameter, although ball, sand depth and release position were not all controlled. Which evaluation best tests the claim? Use the drop height and crater diameter evidence.",
+    "audio_prompt": "During a risk-assessment meeting, students observe: A conclusion from study 21 says drop height alone caused crater diameter, although ball, sand depth and release position were not all controlled. Which evaluation best tests the claim? Use the drop height and crater diameter evidence.",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i06.svg#ac9s8i06-p-021",
+      "alt_text": "Test the Method and the Claim observation card stating: A conclusion from study 21 says drop height alone caused crater diameter, although ball, sand depth and release position were not all controlled."
+    },
+    "answers": [
+      {
+        "text": "For drop height and crater diameter: Accept the claim because its wording sounds confident",
+        "is_correct": false
+      },
+      {
+        "text": "For drop height and crater diameter: Label every limitation human error without linking it to crater diameter",
+        "is_correct": false
+      },
+      {
+        "text": "For drop height and crater diameter: Identify how an uncontrolled condition could affect crater diameter, narrow the conclusion, and repeat while controlling or measuring it",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Evaluation links a specific limitation in drop height and crater diameter to its effect and a targeted improvement. This conclusion concerns drop height and crater diameter.",
+      "hint": "Name which uncontrolled condition could also change crater diameter. Apply this to drop height and crater diameter."
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
+  },
+  {
+    "id": "AC9S8I06-P-022",
+    "subject": "science",
+    "year_level": "Year 8",
+    "curriculum_code": "AC9S8I06",
+    "bank": "practice",
+    "skill": "evaluation_assumption",
+    "question": "During a graph interpretation task, students observe: A conclusion from study 22 says fertiliser concentration alone caused change in frond number, although starting fronds, light, water and time were not all controlled. Which evaluation best tests the claim? Use the fertiliser concentration and duckweed growth evidence.",
+    "audio_prompt": "During a graph interpretation task, students observe: A conclusion from study 22 says fertiliser concentration alone caused change in frond number, although starting fronds, light, water and time were not all controlled. Which evaluation best tests the claim? Use the fertiliser concentration and duckweed growth evidence.",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i06.svg#ac9s8i06-p-022",
+      "alt_text": "Test the Method and the Claim observation card stating: A conclusion from study 22 says fertiliser concentration alone caused change in frond number, although starting fronds, light, water and time were not all controlled."
+    },
+    "answers": [
+      {
+        "text": "For fertiliser concentration and duckweed growth: Identify how an uncontrolled condition could affect change in frond number, narrow the conclusion, and repeat while controlling or measuring it",
+        "is_correct": true
+      },
+      {
+        "text": "For fertiliser concentration and duckweed growth: Accept the claim because its wording sounds confident",
+        "is_correct": false
+      },
+      {
+        "text": "For fertiliser concentration and duckweed growth: Label every limitation human error without linking it to change in frond number",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Evaluation links a specific limitation in fertiliser concentration and duckweed growth to its effect and a targeted improvement. This conclusion concerns fertiliser concentration and duckweed growth.",
+      "hint": "Name which uncontrolled condition could also change change in frond number. Apply this to fertiliser concentration and duckweed growth."
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
+  },
+  {
+    "id": "AC9S8I06-P-023",
+    "subject": "science",
+    "year_level": "Year 8",
+    "curriculum_code": "AC9S8I06",
+    "bank": "practice",
+    "skill": "evaluation_source_of_error",
+    "question": "During a claim-evidence-reasoning response, students observe: A conclusion from study 23 says blade length alone caused rotations per minute, although paper, blade number, fan distance and airflow were not all controlled. Which evaluation best tests the claim? Use the blade length and paper-turbine rotation evidence.",
+    "audio_prompt": "During a claim-evidence-reasoning response, students observe: A conclusion from study 23 says blade length alone caused rotations per minute, although paper, blade number, fan distance and airflow were not all controlled. Which evaluation best tests the claim? Use the blade length and paper-turbine rotation evidence.",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i06.svg#ac9s8i06-p-023",
+      "alt_text": "Test the Method and the Claim observation card stating: A conclusion from study 23 says blade length alone caused rotations per minute, although paper, blade number, fan distance and airflow were not all controlled."
+    },
+    "answers": [
+      {
+        "text": "For blade length and paper-turbine rotation: Accept the claim because its wording sounds confident",
+        "is_correct": false
+      },
+      {
+        "text": "For blade length and paper-turbine rotation: Identify how an uncontrolled condition could affect rotations per minute, narrow the conclusion, and repeat while controlling or measuring it",
+        "is_correct": true
+      },
+      {
+        "text": "For blade length and paper-turbine rotation: Label every limitation human error without linking it to rotations per minute",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Evaluation links a specific limitation in blade length and paper-turbine rotation to its effect and a targeted improvement. This conclusion concerns blade length and paper-turbine rotation.",
+      "hint": "Name which uncontrolled condition could also change rotations per minute. Apply this to blade length and paper-turbine rotation."
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
+  },
+  {
+    "id": "AC9S8I06-P-024",
+    "subject": "science",
+    "year_level": "Year 8",
+    "curriculum_code": "AC9S8I06",
+    "bank": "practice",
+    "skill": "evaluation_evidence_conflict",
+    "question": "During a scientific-method audit, students observe: A conclusion from study 24 says detergent concentration alone caused drops held on a coin, although dropper, coin, drop height and water volume were not all controlled. Which evaluation best tests the claim? Use the detergent concentration and surface tension evidence.",
+    "audio_prompt": "During a scientific-method audit, students observe: A conclusion from study 24 says detergent concentration alone caused drops held on a coin, although dropper, coin, drop height and water volume were not all controlled. Which evaluation best tests the claim? Use the detergent concentration and surface tension evidence.",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i06.svg#ac9s8i06-p-024",
+      "alt_text": "Test the Method and the Claim observation card stating: A conclusion from study 24 says detergent concentration alone caused drops held on a coin, although dropper, coin, drop height and water volume were not all controlled."
+    },
+    "answers": [
+      {
+        "text": "For detergent concentration and surface tension: Accept the claim because its wording sounds confident",
+        "is_correct": false
+      },
+      {
+        "text": "For detergent concentration and surface tension: Label every limitation human error without linking it to drops held on a coin",
+        "is_correct": false
+      },
+      {
+        "text": "For detergent concentration and surface tension: Identify how an uncontrolled condition could affect drops held on a coin, narrow the conclusion, and repeat while controlling or measuring it",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Evaluation links a specific limitation in detergent concentration and surface tension to its effect and a targeted improvement. This conclusion concerns detergent concentration and surface tension.",
+      "hint": "Name which uncontrolled condition could also change drops held on a coin. Apply this to detergent concentration and surface tension."
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
+  },
+  {
+    "id": "AC9S8I06-T-001",
+    "subject": "science",
+    "year_level": "Year 8",
+    "curriculum_code": "AC9S8I06",
+    "bank": "test",
+    "skill": "evaluation_conclusion_and_next_question",
+    "question": "During the new research proposal, students observe: A conclusion from study 25 says speaker frequency alone caused reported pitch, although volume, speaker, room and listener procedure were not all controlled. Which evaluation best tests the claim? Use the sound frequency and perceived pitch evidence.",
+    "audio_prompt": "During the new research proposal, students observe: A conclusion from study 25 says speaker frequency alone caused reported pitch, although volume, speaker, room and listener procedure were not all controlled. Which evaluation best tests the claim? Use the sound frequency and perceived pitch evidence.",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i06.svg#ac9s8i06-t-001",
+      "alt_text": "Test the Method and the Claim observation card stating: A conclusion from study 25 says speaker frequency alone caused reported pitch, although volume, speaker, room and listener procedure were not all controlled."
+    },
+    "answers": [
+      {
+        "text": "For sound frequency and perceived pitch: Identify how an uncontrolled condition could affect reported pitch, narrow the conclusion, and repeat while controlling or measuring it",
+        "is_correct": true
+      },
+      {
+        "text": "For sound frequency and perceived pitch: Accept the claim because its wording sounds confident",
+        "is_correct": false
+      },
+      {
+        "text": "For sound frequency and perceived pitch: Label every limitation human error without linking it to reported pitch",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Evaluation links a specific limitation in sound frequency and perceived pitch to its effect and a targeted improvement. This conclusion concerns sound frequency and perceived pitch.",
+      "hint": "Name which uncontrolled condition could also change reported pitch. Apply this to sound frequency and perceived pitch."
+    }
+  },
+  {
+    "id": "AC9S8I06-T-002",
+    "subject": "science",
+    "year_level": "Year 8",
+    "curriculum_code": "AC9S8I06",
+    "bank": "test",
+    "skill": "evaluation_method",
+    "question": "During the cross-school data comparison, students observe: A conclusion from study 26 says acid concentration alone caused gas volume per minute, although carbonate mass, surface area and temperature were not all controlled. Which evaluation best tests the claim? Use the acid concentration and reaction rate evidence.",
+    "audio_prompt": "During the cross-school data comparison, students observe: A conclusion from study 26 says acid concentration alone caused gas volume per minute, although carbonate mass, surface area and temperature were not all controlled. Which evaluation best tests the claim? Use the acid concentration and reaction rate evidence.",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i06.svg#ac9s8i06-t-002",
+      "alt_text": "Test the Method and the Claim observation card stating: A conclusion from study 26 says acid concentration alone caused gas volume per minute, although carbonate mass, surface area and temperature were not all controlled."
+    },
+    "answers": [
+      {
+        "text": "For acid concentration and reaction rate: Accept the claim because its wording sounds confident",
+        "is_correct": false
+      },
+      {
+        "text": "For acid concentration and reaction rate: Identify how an uncontrolled condition could affect gas volume per minute, narrow the conclusion, and repeat while controlling or measuring it",
+        "is_correct": true
+      },
+      {
+        "text": "For acid concentration and reaction rate: Label every limitation human error without linking it to gas volume per minute",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Evaluation links a specific limitation in acid concentration and reaction rate to its effect and a targeted improvement. This conclusion concerns acid concentration and reaction rate.",
+      "hint": "Name which uncontrolled condition could also change gas volume per minute. Apply this to acid concentration and reaction rate."
+    }
+  },
+  {
+    "id": "AC9S8I06-T-003",
+    "subject": "science",
+    "year_level": "Year 8",
+    "curriculum_code": "AC9S8I06",
+    "bank": "test",
+    "skill": "evaluation_assumption",
+    "question": "During the technology evaluation panel, students observe: A conclusion from study 27 says percentage shade cover alone caused soil moisture after six hours, although soil mass, container, starting water and airflow were not all controlled. Which evaluation best tests the claim? Use the shade cover and soil moisture evidence.",
+    "audio_prompt": "During the technology evaluation panel, students observe: A conclusion from study 27 says percentage shade cover alone caused soil moisture after six hours, although soil mass, container, starting water and airflow were not all controlled. Which evaluation best tests the claim? Use the shade cover and soil moisture evidence.",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i06.svg#ac9s8i06-t-003",
+      "alt_text": "Test the Method and the Claim observation card stating: A conclusion from study 27 says percentage shade cover alone caused soil moisture after six hours, although soil mass, container, starting water and airflow were not all controlled."
+    },
+    "answers": [
+      {
+        "text": "For shade cover and soil moisture: Accept the claim because its wording sounds confident",
+        "is_correct": false
+      },
+      {
+        "text": "For shade cover and soil moisture: Label every limitation human error without linking it to soil moisture after six hours",
+        "is_correct": false
+      },
+      {
+        "text": "For shade cover and soil moisture: Identify how an uncontrolled condition could affect soil moisture after six hours, narrow the conclusion, and repeat while controlling or measuring it",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Evaluation links a specific limitation in shade cover and soil moisture to its effect and a targeted improvement. This conclusion concerns shade cover and soil moisture.",
+      "hint": "Name which uncontrolled condition could also change soil moisture after six hours. Apply this to shade cover and soil moisture."
+    }
+  },
+  {
+    "id": "AC9S8I06-T-004",
+    "subject": "science",
+    "year_level": "Year 8",
+    "curriculum_code": "AC9S8I06",
+    "bank": "test",
+    "skill": "evaluation_source_of_error",
+    "question": "During the science exhibition caption, students observe: A conclusion from study 28 says magnet separation alone caused force reading, although magnets, alignment and measurement device were not all controlled. Which evaluation best tests the claim? Use the magnet distance and force evidence.",
+    "audio_prompt": "During the science exhibition caption, students observe: A conclusion from study 28 says magnet separation alone caused force reading, although magnets, alignment and measurement device were not all controlled. Which evaluation best tests the claim? Use the magnet distance and force evidence.",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i06.svg#ac9s8i06-t-004",
+      "alt_text": "Test the Method and the Claim observation card stating: A conclusion from study 28 says magnet separation alone caused force reading, although magnets, alignment and measurement device were not all controlled."
+    },
+    "answers": [
+      {
+        "text": "For magnet distance and force: Identify how an uncontrolled condition could affect force reading, narrow the conclusion, and repeat while controlling or measuring it",
+        "is_correct": true
+      },
+      {
+        "text": "For magnet distance and force: Accept the claim because its wording sounds confident",
+        "is_correct": false
+      },
+      {
+        "text": "For magnet distance and force: Label every limitation human error without linking it to force reading",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Evaluation links a specific limitation in magnet distance and force to its effect and a targeted improvement. This conclusion concerns magnet distance and force.",
+      "hint": "Name which uncontrolled condition could also change force reading. Apply this to magnet distance and force."
+    }
+  },
+  {
+    "id": "AC9S8I06-T-005",
+    "subject": "science",
+    "year_level": "Year 8",
+    "curriculum_code": "AC9S8I06",
+    "bank": "test",
+    "skill": "evaluation_evidence_conflict",
+    "question": "During the policy evidence hearing, students observe: A conclusion from study 29 says water depth alone caused wave travel time, although tray, wave source, distance and water temperature were not all controlled. Which evaluation best tests the claim? Use the water depth and wave speed evidence.",
+    "audio_prompt": "During the policy evidence hearing, students observe: A conclusion from study 29 says water depth alone caused wave travel time, although tray, wave source, distance and water temperature were not all controlled. Which evaluation best tests the claim? Use the water depth and wave speed evidence.",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i06.svg#ac9s8i06-t-005",
+      "alt_text": "Test the Method and the Claim observation card stating: A conclusion from study 29 says water depth alone caused wave travel time, although tray, wave source, distance and water temperature were not all controlled."
+    },
+    "answers": [
+      {
+        "text": "For water depth and wave speed: Accept the claim because its wording sounds confident",
+        "is_correct": false
+      },
+      {
+        "text": "For water depth and wave speed: Identify how an uncontrolled condition could affect wave travel time, narrow the conclusion, and repeat while controlling or measuring it",
+        "is_correct": true
+      },
+      {
+        "text": "For water depth and wave speed: Label every limitation human error without linking it to wave travel time",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Evaluation links a specific limitation in water depth and wave speed to its effect and a targeted improvement. This conclusion concerns water depth and wave speed.",
+      "hint": "Name which uncontrolled condition could also change wave travel time. Apply this to water depth and wave speed."
+    }
+  },
+  {
+    "id": "AC9S8I06-T-006",
+    "subject": "science",
+    "year_level": "Year 8",
+    "curriculum_code": "AC9S8I06",
+    "bank": "test",
+    "skill": "evaluation_conclusion_and_next_question",
+    "question": "During the controlled follow-up investigation, students observe: A conclusion from study 30 says antibiotic concentration alone caused inhibition-zone diameter, although bacterial strain, agar, disc size and incubation were not all controlled. Which evaluation best tests the claim? Use the antibiotic concentration and inhibition zone evidence.",
+    "audio_prompt": "During the controlled follow-up investigation, students observe: A conclusion from study 30 says antibiotic concentration alone caused inhibition-zone diameter, although bacterial strain, agar, disc size and incubation were not all controlled. Which evaluation best tests the claim? Use the antibiotic concentration and inhibition zone evidence.",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i06.svg#ac9s8i06-t-006",
+      "alt_text": "Test the Method and the Claim observation card stating: A conclusion from study 30 says antibiotic concentration alone caused inhibition-zone diameter, although bacterial strain, agar, disc size and incubation were not all controlled."
+    },
+    "answers": [
+      {
+        "text": "For antibiotic concentration and inhibition zone: Accept the claim because its wording sounds confident",
+        "is_correct": false
+      },
+      {
+        "text": "For antibiotic concentration and inhibition zone: Label every limitation human error without linking it to inhibition-zone diameter",
+        "is_correct": false
+      },
+      {
+        "text": "For antibiotic concentration and inhibition zone: Identify how an uncontrolled condition could affect inhibition-zone diameter, narrow the conclusion, and repeat while controlling or measuring it",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Evaluation links a specific limitation in antibiotic concentration and inhibition zone to its effect and a targeted improvement. This conclusion concerns antibiotic concentration and inhibition zone.",
+      "hint": "Name which uncontrolled condition could also change inhibition-zone diameter. Apply this to antibiotic concentration and inhibition zone."
+    }
+  },
+  {
+    "id": "AC9S8I06-T-007",
+    "subject": "science",
+    "year_level": "Year 8",
+    "curriculum_code": "AC9S8I06",
+    "bank": "test",
+    "skill": "evaluation_method",
+    "question": "During the model limitations review, students observe: A conclusion from study 31 says ripeness stage alone caused titration volume, although fruit variety, sample mass and extraction method were not all controlled. Which evaluation best tests the claim? Use the fruit ripeness and vitamin C evidence.",
+    "audio_prompt": "During the model limitations review, students observe: A conclusion from study 31 says ripeness stage alone caused titration volume, although fruit variety, sample mass and extraction method were not all controlled. Which evaluation best tests the claim? Use the fruit ripeness and vitamin C evidence.",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i06.svg#ac9s8i06-t-007",
+      "alt_text": "Test the Method and the Claim observation card stating: A conclusion from study 31 says ripeness stage alone caused titration volume, although fruit variety, sample mass and extraction method were not all controlled."
+    },
+    "answers": [
+      {
+        "text": "For fruit ripeness and vitamin C: Identify how an uncontrolled condition could affect titration volume, narrow the conclusion, and repeat while controlling or measuring it",
+        "is_correct": true
+      },
+      {
+        "text": "For fruit ripeness and vitamin C: Accept the claim because its wording sounds confident",
+        "is_correct": false
+      },
+      {
+        "text": "For fruit ripeness and vitamin C: Label every limitation human error without linking it to titration volume",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Evaluation links a specific limitation in fruit ripeness and vitamin C to its effect and a targeted improvement. This conclusion concerns fruit ripeness and vitamin C.",
+      "hint": "Name which uncontrolled condition could also change titration volume. Apply this to fruit ripeness and vitamin C."
+    }
+  },
+  {
+    "id": "AC9S8I06-T-008",
+    "subject": "science",
+    "year_level": "Year 8",
+    "curriculum_code": "AC9S8I06",
+    "bank": "test",
+    "skill": "evaluation_assumption",
+    "question": "During the ethics committee discussion, students observe: A conclusion from study 32 says roof colour alone caused inside temperature rise, although house model, lamp distance, material and time were not all controlled. Which evaluation best tests the claim? Use the roof colour and model-house temperature evidence.",
+    "audio_prompt": "During the ethics committee discussion, students observe: A conclusion from study 32 says roof colour alone caused inside temperature rise, although house model, lamp distance, material and time were not all controlled. Which evaluation best tests the claim? Use the roof colour and model-house temperature evidence.",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i06.svg#ac9s8i06-t-008",
+      "alt_text": "Test the Method and the Claim observation card stating: A conclusion from study 32 says roof colour alone caused inside temperature rise, although house model, lamp distance, material and time were not all controlled."
+    },
+    "answers": [
+      {
+        "text": "For roof colour and model-house temperature: Accept the claim because its wording sounds confident",
+        "is_correct": false
+      },
+      {
+        "text": "For roof colour and model-house temperature: Identify how an uncontrolled condition could affect inside temperature rise, narrow the conclusion, and repeat while controlling or measuring it",
+        "is_correct": true
+      },
+      {
+        "text": "For roof colour and model-house temperature: Label every limitation human error without linking it to inside temperature rise",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Evaluation links a specific limitation in roof colour and model-house temperature to its effect and a targeted improvement. This conclusion concerns roof colour and model-house temperature.",
+      "hint": "Name which uncontrolled condition could also change inside temperature rise. Apply this to roof colour and model-house temperature."
+    }
+  },
+  {
+    "id": "AC9S8I06-T-009",
+    "subject": "science",
+    "year_level": "Year 8",
+    "curriculum_code": "AC9S8I06",
+    "bank": "test",
+    "skill": "evaluation_source_of_error",
+    "question": "During the coastal field station report, students observe: A conclusion from study 33 says salt concentration alone caused germination percentage, although seed type, seed number, temperature and time were not all controlled. Which evaluation best tests the claim? Use the salinity and seed germination evidence.",
+    "audio_prompt": "During the coastal field station report, students observe: A conclusion from study 33 says salt concentration alone caused germination percentage, although seed type, seed number, temperature and time were not all controlled. Which evaluation best tests the claim? Use the salinity and seed germination evidence.",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i06.svg#ac9s8i06-t-009",
+      "alt_text": "Test the Method and the Claim observation card stating: A conclusion from study 33 says salt concentration alone caused germination percentage, although seed type, seed number, temperature and time were not all controlled."
+    },
+    "answers": [
+      {
+        "text": "For salinity and seed germination: Accept the claim because its wording sounds confident",
+        "is_correct": false
+      },
+      {
+        "text": "For salinity and seed germination: Label every limitation human error without linking it to germination percentage",
+        "is_correct": false
+      },
+      {
+        "text": "For salinity and seed germination: Identify how an uncontrolled condition could affect germination percentage, narrow the conclusion, and repeat while controlling or measuring it",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Evaluation links a specific limitation in salinity and seed germination to its effect and a targeted improvement. This conclusion concerns salinity and seed germination.",
+      "hint": "Name which uncontrolled condition could also change germination percentage. Apply this to salinity and seed germination."
+    }
+  },
+  {
+    "id": "AC9S8I06-T-010",
+    "subject": "science",
+    "year_level": "Year 8",
+    "curriculum_code": "AC9S8I06",
+    "bank": "test",
+    "skill": "evaluation_evidence_conflict",
+    "question": "During the renewable-energy trial, students observe: A conclusion from study 34 says applied load alone caused bridge deflection, although bridge design, material, span and load position were not all controlled. Which evaluation best tests the claim? Use the load and bridge deflection evidence.",
+    "audio_prompt": "During the renewable-energy trial, students observe: A conclusion from study 34 says applied load alone caused bridge deflection, although bridge design, material, span and load position were not all controlled. Which evaluation best tests the claim? Use the load and bridge deflection evidence.",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i06.svg#ac9s8i06-t-010",
+      "alt_text": "Test the Method and the Claim observation card stating: A conclusion from study 34 says applied load alone caused bridge deflection, although bridge design, material, span and load position were not all controlled."
+    },
+    "answers": [
+      {
+        "text": "For load and bridge deflection: Identify how an uncontrolled condition could affect bridge deflection, narrow the conclusion, and repeat while controlling or measuring it",
+        "is_correct": true
+      },
+      {
+        "text": "For load and bridge deflection: Accept the claim because its wording sounds confident",
+        "is_correct": false
+      },
+      {
+        "text": "For load and bridge deflection: Label every limitation human error without linking it to bridge deflection",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Evaluation links a specific limitation in load and bridge deflection to its effect and a targeted improvement. This conclusion concerns load and bridge deflection.",
+      "hint": "Name which uncontrolled condition could also change bridge deflection. Apply this to load and bridge deflection."
+    }
+  },
+  {
+    "id": "AC9S8I06-T-011",
+    "subject": "science",
+    "year_level": "Year 8",
+    "curriculum_code": "AC9S8I06",
+    "bank": "test",
+    "skill": "evaluation_conclusion_and_next_question",
+    "question": "During the hospital innovation briefing, students observe: A conclusion from study 35 says wind speed alone caused plant mass loss, although plant species, leaf area, light, temperature and time were not all controlled. Which evaluation best tests the claim? Use the wind speed and transpiration evidence.",
+    "audio_prompt": "During the hospital innovation briefing, students observe: A conclusion from study 35 says wind speed alone caused plant mass loss, although plant species, leaf area, light, temperature and time were not all controlled. Which evaluation best tests the claim? Use the wind speed and transpiration evidence.",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i06.svg#ac9s8i06-t-011",
+      "alt_text": "Test the Method and the Claim observation card stating: A conclusion from study 35 says wind speed alone caused plant mass loss, although plant species, leaf area, light, temperature and time were not all controlled."
+    },
+    "answers": [
+      {
+        "text": "For wind speed and transpiration: Accept the claim because its wording sounds confident",
+        "is_correct": false
+      },
+      {
+        "text": "For wind speed and transpiration: Identify how an uncontrolled condition could affect plant mass loss, narrow the conclusion, and repeat while controlling or measuring it",
+        "is_correct": true
+      },
+      {
+        "text": "For wind speed and transpiration: Label every limitation human error without linking it to plant mass loss",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Evaluation links a specific limitation in wind speed and transpiration to its effect and a targeted improvement. This conclusion concerns wind speed and transpiration.",
+      "hint": "Name which uncontrolled condition could also change plant mass loss. Apply this to wind speed and transpiration."
+    }
+  },
+  {
+    "id": "AC9S8I06-T-012",
+    "subject": "science",
+    "year_level": "Year 8",
+    "curriculum_code": "AC9S8I06",
+    "bank": "test",
+    "skill": "evaluation_method",
+    "question": "During the geological survey update, students observe: A conclusion from study 36 says solute particle size alone caused dissolving time, although solute mass, water volume, temperature and stirring were not all controlled. Which evaluation best tests the claim? Use the particle size and dissolving evidence.",
+    "audio_prompt": "During the geological survey update, students observe: A conclusion from study 36 says solute particle size alone caused dissolving time, although solute mass, water volume, temperature and stirring were not all controlled. Which evaluation best tests the claim? Use the particle size and dissolving evidence.",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i06.svg#ac9s8i06-t-012",
+      "alt_text": "Test the Method and the Claim observation card stating: A conclusion from study 36 says solute particle size alone caused dissolving time, although solute mass, water volume, temperature and stirring were not all controlled."
+    },
+    "answers": [
+      {
+        "text": "For particle size and dissolving: Accept the claim because its wording sounds confident",
+        "is_correct": false
+      },
+      {
+        "text": "For particle size and dissolving: Label every limitation human error without linking it to dissolving time",
+        "is_correct": false
+      },
+      {
+        "text": "For particle size and dissolving: Identify how an uncontrolled condition could affect dissolving time, narrow the conclusion, and repeat while controlling or measuring it",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Evaluation links a specific limitation in particle size and dissolving to its effect and a targeted improvement. This conclusion concerns particle size and dissolving.",
+      "hint": "Name which uncontrolled condition could also change dissolving time. Apply this to particle size and dissolving."
+    }
+  },
+  {
+    "id": "AC9S8I06-T-013",
+    "subject": "science",
+    "year_level": "Year 8",
+    "curriculum_code": "AC9S8I06",
+    "bank": "test",
+    "skill": "evaluation_assumption",
+    "question": "During the materials-testing laboratory, students observe: A conclusion from study 37 says string length alone caused period, although bob mass, release angle and timing method were not all controlled. Which evaluation best tests the claim? Use the string length and pendulum period evidence.",
+    "audio_prompt": "During the materials-testing laboratory, students observe: A conclusion from study 37 says string length alone caused period, although bob mass, release angle and timing method were not all controlled. Which evaluation best tests the claim? Use the string length and pendulum period evidence.",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i06.svg#ac9s8i06-t-013",
+      "alt_text": "Test the Method and the Claim observation card stating: A conclusion from study 37 says string length alone caused period, although bob mass, release angle and timing method were not all controlled."
+    },
+    "answers": [
+      {
+        "text": "For string length and pendulum period: Identify how an uncontrolled condition could affect period, narrow the conclusion, and repeat while controlling or measuring it",
+        "is_correct": true
+      },
+      {
+        "text": "For string length and pendulum period: Accept the claim because its wording sounds confident",
+        "is_correct": false
+      },
+      {
+        "text": "For string length and pendulum period: Label every limitation human error without linking it to period",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Evaluation links a specific limitation in string length and pendulum period to its effect and a targeted improvement. This conclusion concerns string length and pendulum period.",
+      "hint": "Name which uncontrolled condition could also change period. Apply this to string length and pendulum period."
+    }
+  },
+  {
+    "id": "AC9S8I06-T-014",
+    "subject": "science",
+    "year_level": "Year 8",
+    "curriculum_code": "AC9S8I06",
+    "bank": "test",
+    "skill": "evaluation_source_of_error",
+    "question": "During the documentary planning session, students observe: A conclusion from study 38 says battery temperature alone caused motor rotations per minute, although battery type, motor, circuit and load were not all controlled. Which evaluation best tests the claim? Use the battery temperature and motor speed evidence.",
+    "audio_prompt": "During the documentary planning session, students observe: A conclusion from study 38 says battery temperature alone caused motor rotations per minute, although battery type, motor, circuit and load were not all controlled. Which evaluation best tests the claim? Use the battery temperature and motor speed evidence.",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i06.svg#ac9s8i06-t-014",
+      "alt_text": "Test the Method and the Claim observation card stating: A conclusion from study 38 says battery temperature alone caused motor rotations per minute, although battery type, motor, circuit and load were not all controlled."
+    },
+    "answers": [
+      {
+        "text": "For battery temperature and motor speed: Accept the claim because its wording sounds confident",
+        "is_correct": false
+      },
+      {
+        "text": "For battery temperature and motor speed: Identify how an uncontrolled condition could affect motor rotations per minute, narrow the conclusion, and repeat while controlling or measuring it",
+        "is_correct": true
+      },
+      {
+        "text": "For battery temperature and motor speed: Label every limitation human error without linking it to motor rotations per minute",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Evaluation links a specific limitation in battery temperature and motor speed to its effect and a targeted improvement. This conclusion concerns battery temperature and motor speed.",
+      "hint": "Name which uncontrolled condition could also change motor rotations per minute. Apply this to battery temperature and motor speed."
+    }
+  },
+  {
+    "id": "AC9S8I06-T-015",
+    "subject": "science",
+    "year_level": "Year 8",
+    "curriculum_code": "AC9S8I06",
+    "bank": "test",
+    "skill": "evaluation_evidence_conflict",
+    "question": "During the national data-set review, students observe: A conclusion from study 39 says stream velocity alone caused largest transported grain, although channel width, water depth and sediment mixture were not all controlled. Which evaluation best tests the claim? Use the stream velocity and sediment size evidence.",
+    "audio_prompt": "During the national data-set review, students observe: A conclusion from study 39 says stream velocity alone caused largest transported grain, although channel width, water depth and sediment mixture were not all controlled. Which evaluation best tests the claim? Use the stream velocity and sediment size evidence.",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i06.svg#ac9s8i06-t-015",
+      "alt_text": "Test the Method and the Claim observation card stating: A conclusion from study 39 says stream velocity alone caused largest transported grain, although channel width, water depth and sediment mixture were not all controlled."
+    },
+    "answers": [
+      {
+        "text": "For stream velocity and sediment size: Accept the claim because its wording sounds confident",
+        "is_correct": false
+      },
+      {
+        "text": "For stream velocity and sediment size: Label every limitation human error without linking it to largest transported grain",
+        "is_correct": false
+      },
+      {
+        "text": "For stream velocity and sediment size: Identify how an uncontrolled condition could affect largest transported grain, narrow the conclusion, and repeat while controlling or measuring it",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Evaluation links a specific limitation in stream velocity and sediment size to its effect and a targeted improvement. This conclusion concerns stream velocity and sediment size.",
+      "hint": "Name which uncontrolled condition could also change largest transported grain. Apply this to stream velocity and sediment size."
+    }
+  },
+  {
+    "id": "AC9S8I06-T-016",
+    "subject": "science",
+    "year_level": "Year 8",
+    "curriculum_code": "AC9S8I06",
+    "bank": "test",
+    "skill": "evaluation_conclusion_and_next_question",
+    "question": "During the final evidence conference, students observe: A conclusion from study 40 says leaf area exposed alone caused oxygen production rate, although plant species, light intensity, carbon dioxide and temperature were not all controlled. Which evaluation best tests the claim? Use the leaf area and photosynthesis evidence.",
+    "audio_prompt": "During the final evidence conference, students observe: A conclusion from study 40 says leaf area exposed alone caused oxygen production rate, although plant species, light intensity, carbon dioxide and temperature were not all controlled. Which evaluation best tests the claim? Use the leaf area and photosynthesis evidence.",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i06.svg#ac9s8i06-t-016",
+      "alt_text": "Test the Method and the Claim observation card stating: A conclusion from study 40 says leaf area exposed alone caused oxygen production rate, although plant species, light intensity, carbon dioxide and temperature were not all controlled."
+    },
+    "answers": [
+      {
+        "text": "For leaf area and photosynthesis: Identify how an uncontrolled condition could affect oxygen production rate, narrow the conclusion, and repeat while controlling or measuring it",
+        "is_correct": true
+      },
+      {
+        "text": "For leaf area and photosynthesis: Accept the claim because its wording sounds confident",
+        "is_correct": false
+      },
+      {
+        "text": "For leaf area and photosynthesis: Label every limitation human error without linking it to oxygen production rate",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Evaluation links a specific limitation in leaf area and photosynthesis to its effect and a targeted improvement. This conclusion concerns leaf area and photosynthesis.",
+      "hint": "Name which uncontrolled condition could also change oxygen production rate. Apply this to leaf area and photosynthesis."
+    }
+  }
+]

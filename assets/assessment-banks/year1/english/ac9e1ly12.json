@@ -1,0 +1,1722 @@
+[
+  {
+    "id": "ac9e1ly12-er6-p-001",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY12",
+    "bank": "practice",
+    "skill": "letters with different sounds and vowel sounds in syllables",
+    "question": "Say 'hat' and 'hate'. What happens to the sound represented by a?",
+    "audio_prompt": "Say 'hat' and 'hate'. What happens to the sound represented by a?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 1,
+    "explanation": {
+      "summary": "The a represents a short vowel in hat and a long vowel in hate; one letter can represent different sounds.",
+      "hint": "Say the words and check the whole example."
+    },
+    "review": {
+      "version": "20260906-english-review-6",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/sort-short-and-long-vowel-words",
+      "evidence_scope": "Representative IXL task inspected; response format and curriculum coverage are documented in docs/question-bank-reviews/2026-09-06-year1-english-ly11-ly15.md. No measured equivalence or endorsement."
+    },
+    "answers": [
+      {
+        "text": "It is different in the two words.",
+        "is_correct": true
+      },
+      {
+        "text": "It is the same in both words.",
+        "is_correct": false
+      },
+      {
+        "text": "There is no vowel sound in hate.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "id": "ac9e1ly12-er6-p-002",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY12",
+    "bank": "practice",
+    "skill": "letters with different sounds and vowel sounds in syllables",
+    "question": "Say 'kit' and 'kite'. Which word has the long i sound?",
+    "audio_prompt": "Say 'kit' and 'kite'. Which word has the long i sound?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 2,
+    "explanation": {
+      "summary": "The vowel in kite says the letter name i, unlike the short vowel in kit.",
+      "hint": "Say the words and check the whole example."
+    },
+    "review": {
+      "version": "20260906-english-review-6",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/sort-short-and-long-vowel-words",
+      "evidence_scope": "Representative IXL task inspected; response format and curriculum coverage are documented in docs/question-bank-reviews/2026-09-06-year1-english-ly11-ly15.md. No measured equivalence or endorsement."
+    },
+    "answers": [
+      {
+        "text": "Both have a short i sound.",
+        "is_correct": false
+      },
+      {
+        "text": "kite",
+        "is_correct": true
+      },
+      {
+        "text": "kit",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "id": "ac9e1ly12-er6-p-003",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY12",
+    "bank": "practice",
+    "skill": "letters with different sounds and vowel sounds in syllables",
+    "question": "Read 'hop' and 'hope'. Does the letter o represent the same sound in both?",
+    "audio_prompt": "Read 'hop' and 'hope'. Does the letter o represent the same sound in both?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 3,
+    "explanation": {
+      "summary": "The same printed o represents different vowel sounds in this pair.",
+      "hint": "Say the words and check the whole example."
+    },
+    "review": {
+      "version": "20260906-english-review-6",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/sort-short-and-long-vowel-words",
+      "evidence_scope": "Representative IXL task inspected; response format and curriculum coverage are documented in docs/question-bank-reviews/2026-09-06-year1-english-ly11-ly15.md. No measured equivalence or endorsement."
+    },
+    "answers": [
+      {
+        "text": "Yes, both have short o.",
+        "is_correct": false
+      },
+      {
+        "text": "Neither word has a vowel sound.",
+        "is_correct": false
+      },
+      {
+        "text": "No, hop has short o and hope has long o.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2
+  },
+  {
+    "id": "ac9e1ly12-er6-p-004",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY12",
+    "bank": "practice",
+    "skill": "letters with different sounds and vowel sounds in syllables",
+    "question": "Say 'cut' and 'cute'. What is different?",
+    "audio_prompt": "Say 'cut' and 'cute'. What is different?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 4,
+    "explanation": {
+      "summary": "The consonants stay the same while u represents different vowel sounds.",
+      "hint": "Say the words and check the whole example."
+    },
+    "review": {
+      "version": "20260906-english-review-6",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/sort-short-and-long-vowel-words",
+      "evidence_scope": "Representative IXL task inspected; response format and curriculum coverage are documented in docs/question-bank-reviews/2026-09-06-year1-english-ly11-ly15.md. No measured equivalence or endorsement."
+    },
+    "answers": [
+      {
+        "text": "The vowel sound represented by u",
+        "is_correct": true
+      },
+      {
+        "text": "The first consonant sound",
+        "is_correct": false
+      },
+      {
+        "text": "The last consonant sound",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "id": "ac9e1ly12-er6-p-005",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY12",
+    "bank": "practice",
+    "skill": "letters with different sounds and vowel sounds in syllables",
+    "question": "Say 'me' and 'met'. Which word has the long e sound?",
+    "audio_prompt": "Say 'me' and 'met'. Which word has the long e sound?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 5,
+    "explanation": {
+      "summary": "The e in me has the letter-name sound; met has the short e vowel.",
+      "hint": "Say the words and check the whole example."
+    },
+    "review": {
+      "version": "20260906-english-review-6",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/sort-short-and-long-vowel-words",
+      "evidence_scope": "Representative IXL task inspected; response format and curriculum coverage are documented in docs/question-bank-reviews/2026-09-06-year1-english-ly11-ly15.md. No measured equivalence or endorsement."
+    },
+    "answers": [
+      {
+        "text": "Neither word",
+        "is_correct": false
+      },
+      {
+        "text": "me",
+        "is_correct": true
+      },
+      {
+        "text": "met",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "id": "ac9e1ly12-er6-p-006",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY12",
+    "bank": "practice",
+    "skill": "letters with different sounds and vowel sounds in syllables",
+    "question": "Say 'sun-set' as two spoken beats. How many syllables are there?",
+    "audio_prompt": "Say 'sun-set' as two spoken beats. How many syllables are there?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 6,
+    "explanation": {
+      "summary": "Sunset has two syllables, and each spoken beat contains a vowel sound.",
+      "hint": "Say the words and check the whole example."
+    },
+    "review": {
+      "version": "20260906-english-review-6",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/sort-short-and-long-vowel-words",
+      "evidence_scope": "Representative IXL task inspected; response format and curriculum coverage are documented in docs/question-bank-reviews/2026-09-06-year1-english-ly11-ly15.md. No measured equivalence or endorsement."
+    },
+    "answers": [
+      {
+        "text": "1",
+        "is_correct": false
+      },
+      {
+        "text": "3",
+        "is_correct": false
+      },
+      {
+        "text": "2",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2
+  },
+  {
+    "id": "ac9e1ly12-er6-p-007",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY12",
+    "bank": "practice",
+    "skill": "letters with different sounds and vowel sounds in syllables",
+    "question": "Say 'rain'. How many syllables do you hear?",
+    "audio_prompt": "Say 'rain'. How many syllables do you hear?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 7,
+    "explanation": {
+      "summary": "Rain has one vowel sound and one syllable even though ai uses two vowel letters.",
+      "hint": "Say the words and check the whole example."
+    },
+    "review": {
+      "version": "20260906-english-review-6",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/sort-short-and-long-vowel-words",
+      "evidence_scope": "Representative IXL task inspected; response format and curriculum coverage are documented in docs/question-bank-reviews/2026-09-06-year1-english-ly11-ly15.md. No measured equivalence or endorsement."
+    },
+    "answers": [
+      {
+        "text": "1",
+        "is_correct": true
+      },
+      {
+        "text": "2",
+        "is_correct": false
+      },
+      {
+        "text": "4",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "id": "ac9e1ly12-er6-p-008",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY12",
+    "bank": "practice",
+    "skill": "letters with different sounds and vowel sounds in syllables",
+    "question": "Say 'cat'. What sound does the letter a represent here?",
+    "audio_prompt": "Say 'cat'. What sound does the letter a represent here?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 8,
+    "explanation": {
+      "summary": "The a represents the short vowel in the middle, not the initial consonant or long a.",
+      "hint": "Say the words and check the whole example."
+    },
+    "review": {
+      "version": "20260906-english-review-6",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/sort-short-and-long-vowel-words",
+      "evidence_scope": "Representative IXL task inspected; response format and curriculum coverage are documented in docs/question-bank-reviews/2026-09-06-year1-english-ly11-ly15.md. No measured equivalence or endorsement."
+    },
+    "answers": [
+      {
+        "text": "The first sound in cat",
+        "is_correct": false
+      },
+      {
+        "text": "The short vowel heard in bag",
+        "is_correct": true
+      },
+      {
+        "text": "The long vowel heard in day",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "id": "ac9e1ly12-er6-p-009",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY12",
+    "bank": "practice",
+    "skill": "letters with different sounds and vowel sounds in syllables",
+    "question": "Say 'can' and 'cent'. What can you notice about c?",
+    "audio_prompt": "Say 'can' and 'cent'. What can you notice about c?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "stage": "apply",
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "sequence_priority": 9,
+    "explanation": {
+      "summary": "C represents /k/ in can and /s/ in cent, so the letter has more than one sound.",
+      "hint": "Say the words and check the whole example."
+    },
+    "review": {
+      "version": "20260906-english-review-6",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/sort-short-and-long-vowel-words",
+      "evidence_scope": "Representative IXL task inspected; response format and curriculum coverage are documented in docs/question-bank-reviews/2026-09-06-year1-english-ly11-ly15.md. No measured equivalence or endorsement."
+    },
+    "answers": [
+      {
+        "text": "It is silent in both words.",
+        "is_correct": false
+      },
+      {
+        "text": "It always represents the sound in can.",
+        "is_correct": false
+      },
+      {
+        "text": "It represents different sounds.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2
+  },
+  {
+    "id": "ac9e1ly12-er6-p-010",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY12",
+    "bank": "practice",
+    "skill": "letters with different sounds and vowel sounds in syllables",
+    "question": "Say 'goat' and 'giant'. What happens to the sound represented by g?",
+    "audio_prompt": "Say 'goat' and 'giant'. What happens to the sound represented by g?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "stage": "apply",
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "sequence_priority": 10,
+    "explanation": {
+      "summary": "The g has a hard sound in goat and a different, soft sound in giant.",
+      "hint": "Say the words and check the whole example."
+    },
+    "review": {
+      "version": "20260906-english-review-6",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/sort-short-and-long-vowel-words",
+      "evidence_scope": "Representative IXL task inspected; response format and curriculum coverage are documented in docs/question-bank-reviews/2026-09-06-year1-english-ly11-ly15.md. No measured equivalence or endorsement."
+    },
+    "answers": [
+      {
+        "text": "It changes from the sound in go to the sound in jam.",
+        "is_correct": true
+      },
+      {
+        "text": "It has the same sound in both words.",
+        "is_correct": false
+      },
+      {
+        "text": "It is a vowel sound in both words.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "id": "ac9e1ly12-er6-p-011",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY12",
+    "bank": "practice",
+    "skill": "letters with different sounds and vowel sounds in syllables",
+    "question": "Say 'dog' and 'robot'. In which word is the first o long?",
+    "audio_prompt": "Say 'dog' and 'robot'. In which word is the first o long?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "stage": "apply",
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "sequence_priority": 11,
+    "explanation": {
+      "summary": "The first syllable of robot has long o, while dog has short o in usual Australian pronunciation.",
+      "hint": "Say the words and check the whole example."
+    },
+    "review": {
+      "version": "20260906-english-review-6",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/sort-short-and-long-vowel-words",
+      "evidence_scope": "Representative IXL task inspected; response format and curriculum coverage are documented in docs/question-bank-reviews/2026-09-06-year1-english-ly11-ly15.md. No measured equivalence or endorsement."
+    },
+    "answers": [
+      {
+        "text": "Both",
+        "is_correct": false
+      },
+      {
+        "text": "robot",
+        "is_correct": true
+      },
+      {
+        "text": "dog",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "id": "ac9e1ly12-er6-p-012",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY12",
+    "bank": "practice",
+    "skill": "letters with different sounds and vowel sounds in syllables",
+    "question": "Say 'ba-sic' slowly. Why does each of these two syllables count as a spoken beat?",
+    "audio_prompt": "Say 'ba-sic' slowly. Why does each of these two syllables count as a spoken beat?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "stage": "apply",
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "sequence_priority": 12,
+    "explanation": {
+      "summary": "The vowel sound forms the centre of each syllable; letter totals can vary.",
+      "hint": "Say the words and check the whole example."
+    },
+    "review": {
+      "version": "20260906-english-review-6",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/sort-short-and-long-vowel-words",
+      "evidence_scope": "Representative IXL task inspected; response format and curriculum coverage are documented in docs/question-bank-reviews/2026-09-06-year1-english-ly11-ly15.md. No measured equivalence or endorsement."
+    },
+    "answers": [
+      {
+        "text": "Each contains exactly three letters.",
+        "is_correct": false
+      },
+      {
+        "text": "Each must begin with b.",
+        "is_correct": false
+      },
+      {
+        "text": "Each contains a vowel sound.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2
+  },
+  {
+    "id": "ac9e1ly12-er6-p-013",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY12",
+    "bank": "practice",
+    "skill": "letters with different sounds and vowel sounds in syllables",
+    "question": "A child says 'boat has two syllables because it has o and a'. What is the best correction?",
+    "audio_prompt": "A child says 'boat has two syllables because it has o and a'. What is the best correction?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "stage": "apply",
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "sequence_priority": 13,
+    "explanation": {
+      "summary": "Count the vowel sounds you hear, not the printed vowel letters.",
+      "hint": "Say the words and check the whole example."
+    },
+    "review": {
+      "version": "20260906-english-review-6",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/sort-short-and-long-vowel-words",
+      "evidence_scope": "Representative IXL task inspected; response format and curriculum coverage are documented in docs/question-bank-reviews/2026-09-06-year1-english-ly11-ly15.md. No measured equivalence or endorsement."
+    },
+    "answers": [
+      {
+        "text": "The oa represents one vowel sound, so boat has one syllable.",
+        "is_correct": true
+      },
+      {
+        "text": "Every vowel letter must make a separate syllable.",
+        "is_correct": false
+      },
+      {
+        "text": "Boat has no syllables because the vowels touch.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "id": "ac9e1ly12-er6-p-014",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY12",
+    "bank": "practice",
+    "skill": "letters with different sounds and vowel sounds in syllables",
+    "question": "Say 'pic-nic'. Which part contains a vowel sound?",
+    "audio_prompt": "Say 'pic-nic'. Which part contains a vowel sound?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "stage": "apply",
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "sequence_priority": 14,
+    "explanation": {
+      "summary": "Both syllables contain a short i vowel sound, so each can form a spoken beat.",
+      "hint": "Say the words and check the whole example."
+    },
+    "review": {
+      "version": "20260906-english-review-6",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/sort-short-and-long-vowel-words",
+      "evidence_scope": "Representative IXL task inspected; response format and curriculum coverage are documented in docs/question-bank-reviews/2026-09-06-year1-english-ly11-ly15.md. No measured equivalence or endorsement."
+    },
+    "answers": [
+      {
+        "text": "Only nic",
+        "is_correct": false
+      },
+      {
+        "text": "Both pic and nic",
+        "is_correct": true
+      },
+      {
+        "text": "Only pic",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "id": "ac9e1ly12-er6-p-015",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY12",
+    "bank": "practice",
+    "skill": "letters with different sounds and vowel sounds in syllables",
+    "question": "Say 'he' and 'hen'. What does this show about e?",
+    "audio_prompt": "Say 'he' and 'hen'. What does this show about e?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "stage": "apply",
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "sequence_priority": 15,
+    "explanation": {
+      "summary": "E represents long e in he and short e in hen.",
+      "hint": "Say the words and check the whole example."
+    },
+    "review": {
+      "version": "20260906-english-review-6",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/sort-short-and-long-vowel-words",
+      "evidence_scope": "Representative IXL task inspected; response format and curriculum coverage are documented in docs/question-bank-reviews/2026-09-06-year1-english-ly11-ly15.md. No measured equivalence or endorsement."
+    },
+    "answers": [
+      {
+        "text": "The letter e is always silent.",
+        "is_correct": false
+      },
+      {
+        "text": "Two different letters are needed for the two sounds.",
+        "is_correct": false
+      },
+      {
+        "text": "The same letter can represent long and short vowel sounds.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2
+  },
+  {
+    "id": "ac9e1ly12-er6-p-016",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY12",
+    "bank": "practice",
+    "skill": "letters with different sounds and vowel sounds in syllables",
+    "question": "Read 'sit', 'time' and 'pig'. Which word has a different vowel sound from the other two?",
+    "audio_prompt": "Read 'sit', 'time' and 'pig'. Which word has a different vowel sound from the other two?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "stage": "apply",
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "sequence_priority": 16,
+    "explanation": {
+      "summary": "Time has long i; sit and pig have short i. Compare the sounds rather than just the printed i.",
+      "hint": "Say the words and check the whole example."
+    },
+    "review": {
+      "version": "20260906-english-review-6",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/sort-short-and-long-vowel-words",
+      "evidence_scope": "Representative IXL task inspected; response format and curriculum coverage are documented in docs/question-bank-reviews/2026-09-06-year1-english-ly11-ly15.md. No measured equivalence or endorsement."
+    },
+    "answers": [
+      {
+        "text": "time",
+        "is_correct": true
+      },
+      {
+        "text": "sit",
+        "is_correct": false
+      },
+      {
+        "text": "pig",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "id": "ac9e1ly12-er6-p-017",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY12",
+    "bank": "practice",
+    "skill": "letters with different sounds and vowel sounds in syllables",
+    "question": "Say 'cake'. A child gives a separate beat to the final e. What should they check?",
+    "audio_prompt": "Say 'cake'. A child gives a separate beat to the final e. What should they check?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "stage": "reason",
+    "difficulty": 3,
+    "difficulty_tier": "reason",
+    "sequence_priority": 17,
+    "explanation": {
+      "summary": "The final e in cake is silent; the word has one vowel sound and one syllable.",
+      "hint": "Say the words and check the whole example."
+    },
+    "review": {
+      "version": "20260906-english-review-6",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/sort-short-and-long-vowel-words",
+      "evidence_scope": "Representative IXL task inspected; response format and curriculum coverage are documented in docs/question-bank-reviews/2026-09-06-year1-english-ly11-ly15.md. No measured equivalence or endorsement."
+    },
+    "answers": [
+      {
+        "text": "Whether cake starts with c",
+        "is_correct": false
+      },
+      {
+        "text": "Whether that e has a separate spoken vowel sound",
+        "is_correct": true
+      },
+      {
+        "text": "Whether e is printed in the word",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "id": "ac9e1ly12-er6-p-018",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY12",
+    "bank": "practice",
+    "skill": "letters with different sounds and vowel sounds in syllables",
+    "question": "Say 'rabbit'. Why can it have two syllables even though it names one animal?",
+    "audio_prompt": "Say 'rabbit'. Why can it have two syllables even though it names one animal?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "stage": "reason",
+    "difficulty": 3,
+    "difficulty_tier": "reason",
+    "sequence_priority": 18,
+    "explanation": {
+      "summary": "The two vowel sounds give rabbit two spoken beats, regardless of what it names.",
+      "hint": "Say the words and check the whole example."
+    },
+    "review": {
+      "version": "20260906-english-review-6",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/sort-short-and-long-vowel-words",
+      "evidence_scope": "Representative IXL task inspected; response format and curriculum coverage are documented in docs/question-bank-reviews/2026-09-06-year1-english-ly11-ly15.md. No measured equivalence or endorsement."
+    },
+    "answers": [
+      {
+        "text": "Every animal name has two syllables.",
+        "is_correct": false
+      },
+      {
+        "text": "The number of syllables counts the animals.",
+        "is_correct": false
+      },
+      {
+        "text": "Syllables are spoken beats within words.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2
+  },
+  {
+    "id": "ac9e1ly12-er6-p-019",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY12",
+    "bank": "practice",
+    "skill": "letters with different sounds and vowel sounds in syllables",
+    "question": "Read 'cat' and 'city'. Which claim is supported by the c in these words?",
+    "audio_prompt": "Read 'cat' and 'city'. Which claim is supported by the c in these words?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "stage": "reason",
+    "difficulty": 3,
+    "difficulty_tier": "reason",
+    "sequence_priority": 19,
+    "explanation": {
+      "summary": "The c represents /k/ in cat and /s/ in city, so sound variation is not limited to vowels.",
+      "hint": "Say the words and check the whole example."
+    },
+    "review": {
+      "version": "20260906-english-review-6",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/sort-short-and-long-vowel-words",
+      "evidence_scope": "Representative IXL task inspected; response format and curriculum coverage are documented in docs/question-bank-reviews/2026-09-06-year1-english-ly11-ly15.md. No measured equivalence or endorsement."
+    },
+    "answers": [
+      {
+        "text": "A consonant letter can represent more than one sound.",
+        "is_correct": true
+      },
+      {
+        "text": "Only vowel letters can change sounds.",
+        "is_correct": false
+      },
+      {
+        "text": "C always has the sound in cat.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "id": "ac9e1ly12-er6-p-020",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY12",
+    "bank": "practice",
+    "skill": "letters with different sounds and vowel sounds in syllables",
+    "question": "Say 'seed' and 'sunset'. Which statement compares their syllables correctly?",
+    "audio_prompt": "Say 'seed' and 'sunset'. Which statement compares their syllables correctly?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "stage": "reason",
+    "difficulty": 3,
+    "difficulty_tier": "reason",
+    "sequence_priority": 20,
+    "explanation": {
+      "summary": "The ee in seed represents one vowel sound, whereas sunset has two spoken syllables.",
+      "hint": "Say the words and check the whole example."
+    },
+    "review": {
+      "version": "20260906-english-review-6",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/sort-short-and-long-vowel-words",
+      "evidence_scope": "Representative IXL task inspected; response format and curriculum coverage are documented in docs/question-bank-reviews/2026-09-06-year1-english-ly11-ly15.md. No measured equivalence or endorsement."
+    },
+    "answers": [
+      {
+        "text": "Seed has more syllables because ee is a pair.",
+        "is_correct": false
+      },
+      {
+        "text": "Seed has one vowel sound; sunset has two.",
+        "is_correct": true
+      },
+      {
+        "text": "Both have two syllables because both have two vowel letters.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "id": "ac9e1ly12-er6-p-021",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY12",
+    "bank": "practice",
+    "skill": "letters with different sounds and vowel sounds in syllables",
+    "question": "A child sorts 'go' with 'got' because both have o. What should they listen for when sorting by sound?",
+    "audio_prompt": "A child sorts 'go' with 'got' because both have o. What should they listen for when sorting by sound?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "stage": "reason",
+    "difficulty": 3,
+    "difficulty_tier": "reason",
+    "sequence_priority": 21,
+    "explanation": {
+      "summary": "Go has long o and got has short o, so a shared letter does not ensure a shared sound.",
+      "hint": "Say the words and check the whole example."
+    },
+    "review": {
+      "version": "20260906-english-review-6",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/sort-short-and-long-vowel-words",
+      "evidence_scope": "Representative IXL task inspected; response format and curriculum coverage are documented in docs/question-bank-reviews/2026-09-06-year1-english-ly11-ly15.md. No measured equivalence or endorsement."
+    },
+    "answers": [
+      {
+        "text": "Whether both words begin with g",
+        "is_correct": false
+      },
+      {
+        "text": "Whether both words are short on the page",
+        "is_correct": false
+      },
+      {
+        "text": "Whether o sounds long or short in each word",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2
+  },
+  {
+    "id": "ac9e1ly12-er6-p-022",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY12",
+    "bank": "practice",
+    "skill": "letters with different sounds and vowel sounds in syllables",
+    "question": "Say 'music' as 'mu-sic'. What must be present in both spoken parts?",
+    "audio_prompt": "Say 'music' as 'mu-sic'. What must be present in both spoken parts?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "stage": "reason",
+    "difficulty": 3,
+    "difficulty_tier": "reason",
+    "sequence_priority": 22,
+    "explanation": {
+      "summary": "Each syllable needs a vowel sound, but the two sounds and consonant counts need not match.",
+      "hint": "Say the words and check the whole example."
+    },
+    "review": {
+      "version": "20260906-english-review-6",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/sort-short-and-long-vowel-words",
+      "evidence_scope": "Representative IXL task inspected; response format and curriculum coverage are documented in docs/question-bank-reviews/2026-09-06-year1-english-ly11-ly15.md. No measured equivalence or endorsement."
+    },
+    "answers": [
+      {
+        "text": "A vowel sound",
+        "is_correct": true
+      },
+      {
+        "text": "The same number of consonants",
+        "is_correct": false
+      },
+      {
+        "text": "The same vowel sound",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "id": "ac9e1ly12-er6-p-023",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY12",
+    "bank": "practice",
+    "skill": "letters with different sounds and vowel sounds in syllables",
+    "question": "Say 'thin' and 'thunder'. Which word has more syllables?",
+    "audio_prompt": "Say 'thin' and 'thunder'. Which word has more syllables?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "stage": "reason",
+    "difficulty": 3,
+    "difficulty_tier": "reason",
+    "sequence_priority": 23,
+    "explanation": {
+      "summary": "Thin has one vowel sound centre; thunder has two spoken beats in normal pronunciation.",
+      "hint": "Say the words and check the whole example."
+    },
+    "review": {
+      "version": "20260906-english-review-6",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/sort-short-and-long-vowel-words",
+      "evidence_scope": "Representative IXL task inspected; response format and curriculum coverage are documented in docs/question-bank-reviews/2026-09-06-year1-english-ly11-ly15.md. No measured equivalence or endorsement."
+    },
+    "answers": [
+      {
+        "text": "They have the same number.",
+        "is_correct": false
+      },
+      {
+        "text": "thunder",
+        "is_correct": true
+      },
+      {
+        "text": "thin",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "id": "ac9e1ly12-er6-p-024",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY12",
+    "bank": "practice",
+    "skill": "letters with different sounds and vowel sounds in syllables",
+    "question": "Read 'a' in 'acorn' and 'apple'. Which explanation fits?",
+    "audio_prompt": "Read 'a' in 'acorn' and 'apple'. Which explanation fits?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "stage": "reason",
+    "difficulty": 3,
+    "difficulty_tier": "reason",
+    "sequence_priority": 24,
+    "explanation": {
+      "summary": "The initial a is long in acorn and short in apple, showing the letter's sound can vary.",
+      "hint": "Say the words and check the whole example."
+    },
+    "review": {
+      "version": "20260906-english-review-6",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/sort-short-and-long-vowel-words",
+      "evidence_scope": "Representative IXL task inspected; response format and curriculum coverage are documented in docs/question-bank-reviews/2026-09-06-year1-english-ly11-ly15.md. No measured equivalence or endorsement."
+    },
+    "answers": [
+      {
+        "text": "A has to sound the same whenever it begins a word.",
+        "is_correct": false
+      },
+      {
+        "text": "Only the last letter controls every sound.",
+        "is_correct": false
+      },
+      {
+        "text": "A can represent different sounds in different words.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2
+  },
+  {
+    "id": "ac9e1ly12-er6-t-001",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY12",
+    "bank": "test",
+    "skill": "letters with different sounds and vowel sounds in syllables",
+    "question": "Say 'mad' and 'made'. Which word has a long a sound?",
+    "audio_prompt": "Say 'mad' and 'made'. Which word has a long a sound?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "stage": "independent",
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 1,
+    "explanation": {
+      "summary": "Made has the letter-name a sound, while mad has short a.",
+      "hint": "Say the words and check the whole example."
+    },
+    "review": {
+      "version": "20260906-english-review-6",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/sort-short-and-long-vowel-words",
+      "evidence_scope": "Representative IXL task inspected; response format and curriculum coverage are documented in docs/question-bank-reviews/2026-09-06-year1-english-ly11-ly15.md. No measured equivalence or endorsement."
+    },
+    "answers": [
+      {
+        "text": "made",
+        "is_correct": true
+      },
+      {
+        "text": "mad",
+        "is_correct": false
+      },
+      {
+        "text": "Neither",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "id": "ac9e1ly12-er6-t-002",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY12",
+    "bank": "test",
+    "skill": "letters with different sounds and vowel sounds in syllables",
+    "question": "Say 'rid' and 'ride'. What changes?",
+    "audio_prompt": "Say 'rid' and 'ride'. What changes?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "stage": "independent",
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 2,
+    "explanation": {
+      "summary": "The consonants remain /r/ and /d/, while i has short and long sounds.",
+      "hint": "Say the words and check the whole example."
+    },
+    "review": {
+      "version": "20260906-english-review-6",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/sort-short-and-long-vowel-words",
+      "evidence_scope": "Representative IXL task inspected; response format and curriculum coverage are documented in docs/question-bank-reviews/2026-09-06-year1-english-ly11-ly15.md. No measured equivalence or endorsement."
+    },
+    "answers": [
+      {
+        "text": "The final consonant sound",
+        "is_correct": false
+      },
+      {
+        "text": "The vowel sound represented by i",
+        "is_correct": true
+      },
+      {
+        "text": "The first consonant sound",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "id": "ac9e1ly12-er6-t-003",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY12",
+    "bank": "test",
+    "skill": "letters with different sounds and vowel sounds in syllables",
+    "question": "Say 'not' and 'note'. Which statement is correct?",
+    "audio_prompt": "Say 'not' and 'note'. Which statement is correct?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "stage": "independent",
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 3,
+    "explanation": {
+      "summary": "Not has short o and note has long o; both are one-syllable words.",
+      "hint": "Say the words and check the whole example."
+    },
+    "review": {
+      "version": "20260906-english-review-6",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/sort-short-and-long-vowel-words",
+      "evidence_scope": "Representative IXL task inspected; response format and curriculum coverage are documented in docs/question-bank-reviews/2026-09-06-year1-english-ly11-ly15.md. No measured equivalence or endorsement."
+    },
+    "answers": [
+      {
+        "text": "O is silent in both words.",
+        "is_correct": false
+      },
+      {
+        "text": "Both words contain two syllables.",
+        "is_correct": false
+      },
+      {
+        "text": "O has different sounds in the two words.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2
+  },
+  {
+    "id": "ac9e1ly12-er6-t-004",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY12",
+    "bank": "test",
+    "skill": "letters with different sounds and vowel sounds in syllables",
+    "question": "Say 'us' and 'use' as in 'I use a pen'. Which letter represents a different vowel sound?",
+    "audio_prompt": "Say 'us' and 'use' as in 'I use a pen'. Which letter represents a different vowel sound?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "stage": "independent",
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 4,
+    "explanation": {
+      "summary": "U represents the short vowel in us and a long u sound in use.",
+      "hint": "Say the words and check the whole example."
+    },
+    "review": {
+      "version": "20260906-english-review-6",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/sort-short-and-long-vowel-words",
+      "evidence_scope": "Representative IXL task inspected; response format and curriculum coverage are documented in docs/question-bank-reviews/2026-09-06-year1-english-ly11-ly15.md. No measured equivalence or endorsement."
+    },
+    "answers": [
+      {
+        "text": "u",
+        "is_correct": true
+      },
+      {
+        "text": "s",
+        "is_correct": false
+      },
+      {
+        "text": "Both are vowel letters.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "id": "ac9e1ly12-er6-t-005",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY12",
+    "bank": "test",
+    "skill": "letters with different sounds and vowel sounds in syllables",
+    "question": "Say 'we' and 'wet'. Which has the short e sound?",
+    "audio_prompt": "Say 'we' and 'wet'. Which has the short e sound?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "stage": "independent",
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 5,
+    "explanation": {
+      "summary": "Wet has the short vowel, whereas e in we says its letter name.",
+      "hint": "Say the words and check the whole example."
+    },
+    "review": {
+      "version": "20260906-english-review-6",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/sort-short-and-long-vowel-words",
+      "evidence_scope": "Representative IXL task inspected; response format and curriculum coverage are documented in docs/question-bank-reviews/2026-09-06-year1-english-ly11-ly15.md. No measured equivalence or endorsement."
+    },
+    "answers": [
+      {
+        "text": "Both",
+        "is_correct": false
+      },
+      {
+        "text": "wet",
+        "is_correct": true
+      },
+      {
+        "text": "we",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "id": "ac9e1ly12-er6-t-006",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY12",
+    "bank": "test",
+    "skill": "letters with different sounds and vowel sounds in syllables",
+    "question": "Say 'nap-kin'. How many vowel sound centres do these spoken beats have altogether?",
+    "audio_prompt": "Say 'nap-kin'. How many vowel sound centres do these spoken beats have altogether?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "stage": "independent",
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 6,
+    "explanation": {
+      "summary": "Each of the two syllables has a vowel sound, giving two vowel sound centres.",
+      "hint": "Say the words and check the whole example."
+    },
+    "review": {
+      "version": "20260906-english-review-6",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/sort-short-and-long-vowel-words",
+      "evidence_scope": "Representative IXL task inspected; response format and curriculum coverage are documented in docs/question-bank-reviews/2026-09-06-year1-english-ly11-ly15.md. No measured equivalence or endorsement."
+    },
+    "answers": [
+      {
+        "text": "1",
+        "is_correct": false
+      },
+      {
+        "text": "4",
+        "is_correct": false
+      },
+      {
+        "text": "2",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2
+  },
+  {
+    "id": "ac9e1ly12-er6-t-007",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY12",
+    "bank": "test",
+    "skill": "letters with different sounds and vowel sounds in syllables",
+    "question": "Say 'coat'. Does seeing o and a mean you should clap twice?",
+    "audio_prompt": "Say 'coat'. Does seeing o and a mean you should clap twice?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "stage": "independent",
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 7,
+    "explanation": {
+      "summary": "Coat has one spoken beat because oa works together to represent one vowel sound.",
+      "hint": "Say the words and check the whole example."
+    },
+    "review": {
+      "version": "20260906-english-review-6",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/sort-short-and-long-vowel-words",
+      "evidence_scope": "Representative IXL task inspected; response format and curriculum coverage are documented in docs/question-bank-reviews/2026-09-06-year1-english-ly11-ly15.md. No measured equivalence or endorsement."
+    },
+    "answers": [
+      {
+        "text": "No, oa represents one vowel sound here.",
+        "is_correct": true
+      },
+      {
+        "text": "Yes, each printed vowel always adds a syllable.",
+        "is_correct": false
+      },
+      {
+        "text": "No, words with c cannot have syllables.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "id": "ac9e1ly12-er6-t-008",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY12",
+    "bank": "test",
+    "skill": "letters with different sounds and vowel sounds in syllables",
+    "question": "Say 'cup' and 'ice'. What do their c letters show?",
+    "audio_prompt": "Say 'cup' and 'ice'. What do their c letters show?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "stage": "independent",
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 8,
+    "explanation": {
+      "summary": "C represents /k/ in cup and /s/ in ice; its position alone is not the whole rule.",
+      "hint": "Say the words and check the whole example."
+    },
+    "review": {
+      "version": "20260906-english-review-6",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/sort-short-and-long-vowel-words",
+      "evidence_scope": "Representative IXL task inspected; response format and curriculum coverage are documented in docs/question-bank-reviews/2026-09-06-year1-english-ly11-ly15.md. No measured equivalence or endorsement."
+    },
+    "answers": [
+      {
+        "text": "C is silent whenever it ends a word.",
+        "is_correct": false
+      },
+      {
+        "text": "C can represent two different consonant sounds.",
+        "is_correct": true
+      },
+      {
+        "text": "C always represents the first sound in cup.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "id": "ac9e1ly12-er6-t-009",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY12",
+    "bank": "test",
+    "skill": "letters with different sounds and vowel sounds in syllables",
+    "question": "Say 'gum' and 'gem'. Is g pronounced the same way?",
+    "audio_prompt": "Say 'gum' and 'gem'. Is g pronounced the same way?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "stage": "independent",
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 9,
+    "explanation": {
+      "summary": "The g in gum is hard, while the g in gem represents the sound heard in jam.",
+      "hint": "Say the words and check the whole example."
+    },
+    "review": {
+      "version": "20260906-english-review-6",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/sort-short-and-long-vowel-words",
+      "evidence_scope": "Representative IXL task inspected; response format and curriculum coverage are documented in docs/question-bank-reviews/2026-09-06-year1-english-ly11-ly15.md. No measured equivalence or endorsement."
+    },
+    "answers": [
+      {
+        "text": "Yes, g always has one sound.",
+        "is_correct": false
+      },
+      {
+        "text": "There is no g sound in either word.",
+        "is_correct": false
+      },
+      {
+        "text": "No, it represents different consonant sounds.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2
+  },
+  {
+    "id": "ac9e1ly12-er6-t-010",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY12",
+    "bank": "test",
+    "skill": "letters with different sounds and vowel sounds in syllables",
+    "question": "Say 'mail' and 'magnet'. Which word has two syllables?",
+    "audio_prompt": "Say 'mail' and 'magnet'. Which word has two syllables?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "stage": "independent",
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 10,
+    "explanation": {
+      "summary": "Magnet has two vowel sound centres; mail has one despite its two vowel letters.",
+      "hint": "Say the words and check the whole example."
+    },
+    "review": {
+      "version": "20260906-english-review-6",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/sort-short-and-long-vowel-words",
+      "evidence_scope": "Representative IXL task inspected; response format and curriculum coverage are documented in docs/question-bank-reviews/2026-09-06-year1-english-ly11-ly15.md. No measured equivalence or endorsement."
+    },
+    "answers": [
+      {
+        "text": "magnet",
+        "is_correct": true
+      },
+      {
+        "text": "mail",
+        "is_correct": false
+      },
+      {
+        "text": "Both",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "id": "ac9e1ly12-er6-t-011",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY12",
+    "bank": "test",
+    "skill": "letters with different sounds and vowel sounds in syllables",
+    "question": "A child counts five letters in 'train' and says it has five syllables. What should they count instead?",
+    "audio_prompt": "A child counts five letters in 'train' and says it has five syllables. What should they count instead?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "stage": "independent",
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 11,
+    "explanation": {
+      "summary": "Train has one vowel sound and one syllable; a letter count measures something different.",
+      "hint": "Say the words and check the whole example."
+    },
+    "review": {
+      "version": "20260906-english-review-6",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/sort-short-and-long-vowel-words",
+      "evidence_scope": "Representative IXL task inspected; response format and curriculum coverage are documented in docs/question-bank-reviews/2026-09-06-year1-english-ly11-ly15.md. No measured equivalence or endorsement."
+    },
+    "answers": [
+      {
+        "text": "The spaces inside each letter",
+        "is_correct": false
+      },
+      {
+        "text": "The spoken beats with vowel sounds",
+        "is_correct": true
+      },
+      {
+        "text": "The number of consonant letters only",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "id": "ac9e1ly12-er6-t-012",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY12",
+    "bank": "test",
+    "skill": "letters with different sounds and vowel sounds in syllables",
+    "question": "Say 'open' as 'o-pen'. What can you say about its two syllables?",
+    "audio_prompt": "Say 'open' as 'o-pen'. What can you say about its two syllables?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "stage": "independent",
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 12,
+    "explanation": {
+      "summary": "The first syllable has long o and the second has a vowel sound too, giving two beats.",
+      "hint": "Say the words and check the whole example."
+    },
+    "review": {
+      "version": "20260906-english-review-6",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/sort-short-and-long-vowel-words",
+      "evidence_scope": "Representative IXL task inspected; response format and curriculum coverage are documented in docs/question-bank-reviews/2026-09-06-year1-english-ly11-ly15.md. No measured equivalence or endorsement."
+    },
+    "answers": [
+      {
+        "text": "Only the first can contain a vowel sound.",
+        "is_correct": false
+      },
+      {
+        "text": "Each must contain two vowel sounds.",
+        "is_correct": false
+      },
+      {
+        "text": "Both contain a vowel sound.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2
+  },
+  {
+    "id": "ac9e1ly12-er6-t-013",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY12",
+    "bank": "test",
+    "skill": "letters with different sounds and vowel sounds in syllables",
+    "question": "Say 'home'. Why is it one syllable despite two vowel letters?",
+    "audio_prompt": "Say 'home'. Why is it one syllable despite two vowel letters?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "stage": "independent",
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 13,
+    "explanation": {
+      "summary": "Home has one spoken vowel sound; its silent final e is not another beat.",
+      "hint": "Say the words and check the whole example."
+    },
+    "review": {
+      "version": "20260906-english-review-6",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/sort-short-and-long-vowel-words",
+      "evidence_scope": "Representative IXL task inspected; response format and curriculum coverage are documented in docs/question-bank-reviews/2026-09-06-year1-english-ly11-ly15.md. No measured equivalence or endorsement."
+    },
+    "answers": [
+      {
+        "text": "The final e does not make a separate vowel sound.",
+        "is_correct": true
+      },
+      {
+        "text": "The h removes all vowel sounds.",
+        "is_correct": false
+      },
+      {
+        "text": "Every four-letter word has one syllable.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "id": "ac9e1ly12-er6-t-014",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY12",
+    "bank": "test",
+    "skill": "letters with different sounds and vowel sounds in syllables",
+    "question": "Read 'bag', 'late' and 'cap'. Which has a different a sound from the other two?",
+    "audio_prompt": "Read 'bag', 'late' and 'cap'. Which has a different a sound from the other two?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "stage": "independent",
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 14,
+    "explanation": {
+      "summary": "Late has long a, while bag and cap have short a.",
+      "hint": "Say the words and check the whole example."
+    },
+    "review": {
+      "version": "20260906-english-review-6",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/sort-short-and-long-vowel-words",
+      "evidence_scope": "Representative IXL task inspected; response format and curriculum coverage are documented in docs/question-bank-reviews/2026-09-06-year1-english-ly11-ly15.md. No measured equivalence or endorsement."
+    },
+    "answers": [
+      {
+        "text": "cap",
+        "is_correct": false
+      },
+      {
+        "text": "late",
+        "is_correct": true
+      },
+      {
+        "text": "bag",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "id": "ac9e1ly12-er6-t-015",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY12",
+    "bank": "test",
+    "skill": "letters with different sounds and vowel sounds in syllables",
+    "question": "Say 'red' and 'relay'. What do the first e sounds show?",
+    "audio_prompt": "Say 'red' and 'relay'. What do the first e sounds show?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "stage": "independent",
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 15,
+    "explanation": {
+      "summary": "Red has short e; the first syllable of relay has long e in the usual pronunciation.",
+      "hint": "Say the words and check the whole example."
+    },
+    "review": {
+      "version": "20260906-english-review-6",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/sort-short-and-long-vowel-words",
+      "evidence_scope": "Representative IXL task inspected; response format and curriculum coverage are documented in docs/question-bank-reviews/2026-09-06-year1-english-ly11-ly15.md. No measured equivalence or endorsement."
+    },
+    "answers": [
+      {
+        "text": "E must be silent at the beginning of a syllable.",
+        "is_correct": false
+      },
+      {
+        "text": "Both words have the same number of syllables.",
+        "is_correct": false
+      },
+      {
+        "text": "The same letter can represent different vowel sounds.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2
+  },
+  {
+    "id": "ac9e1ly12-er6-t-016",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY12",
+    "bank": "test",
+    "skill": "letters with different sounds and vowel sounds in syllables",
+    "question": "Say 'raincoat'. A child counts four vowel letters and predicts four syllables. What is correct?",
+    "audio_prompt": "Say 'raincoat'. A child counts four vowel letters and predicts four syllables. What is correct?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "stage": "independent",
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 16,
+    "explanation": {
+      "summary": "Each vowel pair represents one sound, so the two parts give two spoken beats.",
+      "hint": "Say the words and check the whole example."
+    },
+    "review": {
+      "version": "20260906-english-review-6",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/sort-short-and-long-vowel-words",
+      "evidence_scope": "Representative IXL task inspected; response format and curriculum coverage are documented in docs/question-bank-reviews/2026-09-06-year1-english-ly11-ly15.md. No measured equivalence or endorsement."
+    },
+    "answers": [
+      {
+        "text": "It has two spoken syllables, rain and coat.",
+        "is_correct": true
+      },
+      {
+        "text": "It must have four syllables.",
+        "is_correct": false
+      },
+      {
+        "text": "It cannot have syllables because it is a compound word.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0
+  }
+]

@@ -1,0 +1,68 @@
+name: Apply F-10 Facebook feedback cards
+
+on:
+  pull_request:
+    types: [opened, synchronize, reopened, ready_for_review]
+    paths:
+      - 'scripts/apply_f10_facebook_feedback.py'
+      - 'scripts/validate_static_curriculum_architecture.mjs'
+      - '.github/workflows/apply-f10-facebook-feedback.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  apply-and-verify:
+    if: github.event_name == 'workflow_dispatch' || github.event.pull_request.head.repo.full_name == github.repository
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.head_ref || github.ref_name }}
+          fetch-depth: 0
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+
+      - name: Syntax-check generator
+        run: python -m py_compile scripts/apply_f10_facebook_feedback.py
+
+      - name: Materialise feedback cards into canonical topic pages
+        run: python scripts/apply_f10_facebook_feedback.py
+
+      - name: Guard generated diff
+        run: git diff --check
+
+      - name: Commit generated topic-page cards
+        shell: bash
+        run: |
+          git add foundation year1 year2 year3 year4 year5 year6 year7 year8 year9 year10
+          if git diff --cached --quiet; then
+            echo 'No generated topic-page changes to commit.'
+            exit 0
+          fi
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git commit -m 'Add Facebook feedback card to F-10 topic pages'
+
+      - name: Verify every canonical topic page has exactly one safe card
+        run: python scripts/apply_f10_facebook_feedback.py --check
+
+      - name: Preserve static curriculum architecture guard
+        run: node scripts/validate_static_curriculum_architecture.mjs
+
+      - name: Push generated topic-page commit
+        shell: bash
+        run: |
+          if git log -1 --pretty=%an | grep -q 'github-actions\[bot\]'; then
+            git push origin HEAD:${{ github.head_ref || github.ref_name }}
+          else
+            echo 'No generated commit to push.'
+          fi

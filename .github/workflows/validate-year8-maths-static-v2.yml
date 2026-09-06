@@ -1,0 +1,45 @@
+name: Validate Year 8 Maths static v2
+
+on:
+  pull_request:
+    paths:
+      - 'year8/maths/**'
+      - 'year8/curriculum/maths/**'
+      - 'assets/year8-maths-topic-v2.css'
+      - 'scripts/year8_maths_static_v2_manifest.mjs'
+      - 'scripts/validate_year8_maths_static_v2.mjs'
+      - '.github/workflows/validate-year8-maths-static-v2.yml'
+  push:
+    branches: [main]
+    paths:
+      - 'year8/maths/**'
+      - 'year8/curriculum/maths/**'
+      - 'assets/year8-maths-topic-v2.css'
+      - 'scripts/year8_maths_static_v2_manifest.mjs'
+      - 'scripts/validate_year8_maths_static_v2.mjs'
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Year 8 Maths authored batch gate
+        run: node scripts/validate_year8_maths_static_v2.mjs
+      - name: Locked 16-section F-10 learning order
+        run: node scripts/validate_f10_topic_learning_order.mjs
+      - name: Global topic action contract
+        run: node scripts/validate_f10_topic_layout_contract.mjs
+      - name: Validate static curriculum architecture
+        run: node scripts/validate_static_curriculum_architecture.mjs
+      - name: Audit static Teacher Slides
+        run: node scripts/audit_static_teacher_slides.mjs
+      - name: Sitewide zero-runtime curriculum audit
+        run: node scripts/audit_static_curriculum_site.mjs --fail-on-runtime-topics --json=artifacts/year8-maths-static-audit.json

@@ -1,0 +1,40 @@
+.curriculum-skill-hub .curriculum-hero{padding:clamp(24px,4vw,42px)}
+.curriculum-skill-hub .curriculum-hero h1{max-width:18ch;font-size:clamp(2rem,5vw,3.5rem);line-height:1.05}
+.curriculum-skill-hub .curriculum-hero__lead{max-width:62ch}
+.curriculum-skill-intro{display:grid;grid-template-columns:minmax(0,1fr) auto;gap:20px;align-items:center}
+.curriculum-skill-intro h2{margin:0 0 6px}.curriculum-skill-intro p{margin:0;color:#53657d}
+.strand-jump-list{display:flex;flex-wrap:wrap;gap:8px;justify-content:flex-end}
+.strand-jump-list a{display:inline-flex;min-height:42px;align-items:center;padding:8px 13px;border:1px solid #cbd8ea;border-radius:999px;background:#fff;color:#173968;font-weight:800;text-decoration:none}
+.strand-jump-list a:hover,.strand-jump-list a:focus-visible{border-color:#2457d6;background:#eef5ff;outline:3px solid rgba(36,87,214,.16);outline-offset:2px}
+.curriculum-skill-groups{display:grid;gap:28px}
+.curriculum-skill-group{scroll-margin-top:24px}
+.curriculum-skill-group__header{display:flex;align-items:end;justify-content:space-between;gap:18px;margin-bottom:12px;padding:0 2px}
+.curriculum-skill-group__header h2{margin:0;color:#173968;font-size:clamp(1.45rem,3vw,2rem)}
+.curriculum-skill-count{flex:0 0 auto;padding:5px 9px;border-radius:999px;background:#eaf1ff;color:#2457d6;font-size:.78rem;font-weight:900;text-transform:uppercase;letter-spacing:.04em}
+.curriculum-skill-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px}
+.curriculum-skill-hub .curriculum-unit-card{min-height:0;display:flex;flex-direction:column;padding:20px;border:1px solid #d8e2ef;border-radius:16px;background:#fff;box-shadow:0 6px 20px rgba(23,57,104,.055)}
+.curriculum-skill-hub .curriculum-unit-card:hover{border-color:#b8cbea;box-shadow:0 10px 28px rgba(23,57,104,.09);transform:translateY(-1px)}
+.skill-card-topline{display:flex;align-items:center;justify-content:space-between;gap:10px}
+.curriculum-skill-hub .curriculum-badge{font-size:.75rem;letter-spacing:.05em}
+.skill-strand{margin:0;color:#64748b!important;font-size:.75rem!important;font-weight:900!important;text-transform:uppercase;letter-spacing:.06em;text-align:right}
+.curriculum-skill-hub .curriculum-unit-card h3{margin:14px 0 7px;color:#173968;font-size:clamp(1.16rem,2vw,1.4rem);line-height:1.24}
+.skill-summary{margin:0 0 14px;color:#364152!important;font-size:.96rem!important;line-height:1.5}
+.skill-example{display:flex;align-items:start;gap:10px;margin:0 0 16px;padding:10px 12px;border-left:4px solid #2457d6;border-radius:8px;background:#f4f8ff;color:#173968!important;font-size:.88rem!important;font-weight:750;line-height:1.45}
+.skill-example strong{color:#2457d6}
+.skill-card-actions{display:grid;grid-template-columns:minmax(0,1fr) minmax(132px,.55fr);gap:8px;margin-top:auto}
+.skill-card-actions>a,.resource-menu>summary{min-height:44px;display:flex;align-items:center;justify-content:center;padding:9px 12px;border-radius:9px;font-weight:850;text-decoration:none}
+.skill-card-actions>a{border:1px solid #2457d6;background:#2457d6;color:#fff}
+.skill-card-actions>a:hover,.skill-card-actions>a:focus-visible{background:#173968;border-color:#173968;outline:3px solid rgba(36,87,214,.18);outline-offset:2px}
+.resource-menu{position:relative;margin:0;border:0;background:transparent}
+.resource-menu>summary{cursor:pointer;list-style:none;border:1px solid #cbd8ea;background:#fff;color:#173968}
+.resource-menu>summary::-webkit-details-marker,.official-wording>summary::-webkit-details-marker{display:none}
+.resource-menu>summary::after{content:"+";margin-left:7px;color:#2457d6;font-size:1.1rem}.resource-menu[open]>summary::after{content:"−"}
+.resource-menu__links{display:grid;grid-template-columns:1fr 1fr;gap:6px;margin-top:7px;padding:8px;border:1px solid #d8e2ef;border-radius:10px;background:#f8fafc}
+.resource-menu__links a{min-height:38px;display:flex;align-items:center;padding:7px 9px;border-radius:7px;background:#fff;color:#173968;font-size:.82rem;font-weight:800;text-decoration:none}
+.resource-menu__links a:hover,.resource-menu__links a:focus-visible{background:#eaf1ff;outline:2px solid #b8cbea}
+.official-wording{margin-top:12px;border-top:1px solid #e4eaf2}.official-wording>summary{cursor:pointer;list-style:none;padding:11px 2px 0;color:#53657d;font-size:.8rem;font-weight:800}
+.official-wording>summary::after{content:"  +";color:#2457d6}.official-wording[open]>summary::after{content:"  −"}
+.official-wording p{margin:9px 0 0;padding:11px;border-radius:8px;background:#f7f9fc;color:#53657d!important;font-size:.83rem!important;line-height:1.45}
+@media(max-width:800px){.curriculum-skill-intro{grid-template-columns:1fr}.strand-jump-list{justify-content:flex-start}.curriculum-skill-grid{grid-template-columns:1fr}}
+@media(max-width:480px){.curriculum-skill-hub .curriculum-page{padding:10px}.curriculum-skill-hub .curriculum-panel{padding:14px}.curriculum-skill-hub .curriculum-unit-card{padding:16px}.strand-jump-list{display:grid;grid-template-columns:repeat(2,minmax(0,1fr))}.strand-jump-list a{justify-content:center;text-align:center}.curriculum-skill-group__header{align-items:start;flex-direction:column;gap:6px}.skill-card-actions{grid-template-columns:1fr}.resource-menu__links{grid-template-columns:1fr}}
+@media print{.strand-jump-list,.skill-card-actions{display:none}.official-wording>summary{display:none}.official-wording p{display:block}.curriculum-skill-grid{grid-template-columns:repeat(2,1fr)}}

@@ -1,0 +1,2320 @@
+[
+  {
+    "id": "AC9E2LA10-P-001",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA10",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "edit_a_puppy_title_direct",
+    "question": "Which version is the correctly capitalised story title?",
+    "audio_prompt": "Which version is the correctly capitalised story title?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The Lost Puppy",
+        "is_correct": true
+      },
+      {
+        "text": "the lost puppy",
+        "is_correct": false
+      },
+      {
+        "text": "The lost puppy",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The important words Lost and Puppy begin with capitals, as does the first word The.",
+      "hint": "In this title style, capitalise the first and important words."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1,
+    "quality_schema": "student-facing-v3",
+    "audio_answers": [
+      "Capital words: The, Lost, Puppy. There are no commas. The text reads: The Lost Puppy",
+      "There are no capital words. There are no commas. The text reads: the lost puppy",
+      "Capital words: The. There are no commas. The text reads: The lost puppy"
+    ]
+  },
+  {
+    "id": "AC9E2LA10-P-002",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA10",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "punctuate_a_fruit_list_direct",
+    "question": "Which sentence separates the fruit clearly?",
+    "audio_prompt": "Which sentence separates the fruit clearly?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "We bought apples pears and grapes.",
+        "is_correct": false
+      },
+      {
+        "text": "We bought apples, pears and grapes.",
+        "is_correct": true
+      },
+      {
+        "text": "We, bought, apples pears and grapes.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Commas separate apples and pears from the next list item; and introduces the final item.",
+      "hint": "Find the three things being listed and place commas between them."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 2,
+    "quality_schema": "student-facing-v3",
+    "audio_answers": [
+      "Capital words: We. There are no commas. The text ends with a full stop. The text reads: We bought apples pears and grapes.",
+      "Capital words: We. Commas come after: apples. The text ends with a full stop. The text reads: We bought apples, pears and grapes.",
+      "Capital words: We. Commas come after: We, bought. The text ends with a full stop. The text reads: We, bought, apples pears and grapes."
+    ]
+  },
+  {
+    "id": "AC9E2LA10-P-003",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA10",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "edit_a_moon_title_direct",
+    "question": "Which title uses capitals correctly?",
+    "audio_prompt": "Which title uses capitals correctly?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "a trip to the moon",
+        "is_correct": false
+      },
+      {
+        "text": "A trip To The moon",
+        "is_correct": false
+      },
+      {
+        "text": "A Trip to the Moon",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A, Trip and Moon are capitalised; the small joining words to and the stay lower-case in this style.",
+      "hint": "Capitalise the first and important title words, not every small joining word."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 3,
+    "quality_schema": "student-facing-v3",
+    "audio_answers": [
+      "There are no capital words. There are no commas. The text reads: a trip to the moon",
+      "Capital words: A, To, The. There are no commas. The text reads: A trip To The moon",
+      "Capital words: A, Trip, Moon. There are no commas. The text reads: A Trip to the Moon"
+    ]
+  },
+  {
+    "id": "AC9E2LA10-P-004",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA10",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "punctuate_packed_items_direct",
+    "question": "Which sentence correctly lists four things in the bag?",
+    "audio_prompt": "Which sentence correctly lists four things in the bag?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "We packed hats, water, snacks and towels.",
+        "is_correct": true
+      },
+      {
+        "text": "We packed hats water snacks and towels.",
+        "is_correct": false
+      },
+      {
+        "text": "We packed, hats, water snacks and towels.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The commas show where hats, water and snacks end before the final item towels.",
+      "hint": "Say each item separately and put commas between the listed items."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 4,
+    "quality_schema": "student-facing-v3",
+    "audio_answers": [
+      "Capital words: We. Commas come after: hats, water. The text ends with a full stop. The text reads: We packed hats, water, snacks and towels.",
+      "Capital words: We. There are no commas. The text ends with a full stop. The text reads: We packed hats water snacks and towels.",
+      "Capital words: We. Commas come after: packed, hats. The text ends with a full stop. The text reads: We packed, hats, water snacks and towels."
+    ]
+  },
+  {
+    "id": "AC9E2LA10-P-005",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA10",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "edit_title_and_list_direct",
+    "question": "Which line correctly shows a title followed by a three-item animal list?",
+    "audio_prompt": "Which line correctly shows a title followed by a three-item animal list?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "farmyard friends — cows ducks and goats",
+        "is_correct": false
+      },
+      {
+        "text": "Farmyard Friends — cows, ducks and goats",
+        "is_correct": true
+      },
+      {
+        "text": "Farmyard friends — cows, ducks, and, goats",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The title's important words use capitals, and commas separate the animal items.",
+      "hint": "Check title capitals first, then check only the list for commas."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 5,
+    "quality_schema": "student-facing-v3",
+    "audio_answers": [
+      "There are no capital words. There are no commas. There is a dash between the title and the list. The text reads: farmyard friends — cows ducks and goats",
+      "Capital words: Farmyard, Friends. Commas come after: cows. There is a dash between the title and the list. The text reads: Farmyard Friends — cows, ducks and goats",
+      "Capital words: Farmyard. Commas come after: cows, ducks, and. There is a dash between the title and the list. The text reads: Farmyard friends — cows, ducks, and, goats"
+    ]
+  },
+  {
+    "id": "AC9E2LA10-P-006",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA10",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "separate_classroom_tools_direct",
+    "question": "Which sentence uses commas only where they are needed for the list?",
+    "audio_prompt": "Which sentence uses commas only where they are needed for the list?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "On, the desk, were pencils rulers and glue.",
+        "is_correct": false
+      },
+      {
+        "text": "On the desk were pencils rulers, and glue.",
+        "is_correct": false
+      },
+      {
+        "text": "On the desk were pencils, rulers and glue.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The comma separates pencils from rulers; and introduces the last item glue.",
+      "hint": "Do not place commas after ordinary sentence words—use them between list items."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 6,
+    "quality_schema": "student-facing-v3",
+    "audio_answers": [
+      "Capital words: On. Commas come after: On, desk. The text ends with a full stop. The text reads: On, the desk, were pencils rulers and glue.",
+      "Capital words: On. Commas come after: rulers. The text ends with a full stop. The text reads: On the desk were pencils rulers, and glue.",
+      "Capital words: On. Commas come after: pencils. The text ends with a full stop. The text reads: On the desk were pencils, rulers and glue."
+    ]
+  },
+  {
+    "id": "AC9E2LA10-P-007",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA10",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "capitalise_a_reef_title_direct",
+    "question": "A student writes the report title “life on the reef”. Which edit is best?",
+    "audio_prompt": "A student writes the report title “life on the reef”. Which edit is best?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Life on the Reef",
+        "is_correct": true
+      },
+      {
+        "text": "life on the reef",
+        "is_correct": false
+      },
+      {
+        "text": "Life On The reef",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Life and Reef are important title words and begin with capitals; on and the remain lower-case.",
+      "hint": "Look for the first word and the main topic word."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 7,
+    "quality_schema": "student-facing-v3",
+    "audio_answers": [
+      "Capital words: Life, Reef. There are no commas. The text reads: Life on the Reef",
+      "There are no capital words. There are no commas. The text reads: life on the reef",
+      "Capital words: Life, On, The. There are no commas. The text reads: Life On The reef"
+    ]
+  },
+  {
+    "id": "AC9E2LA10-P-008",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA10",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "punctuate_a_team_list_direct",
+    "question": "Which sentence clearly lists the four team members?",
+    "audio_prompt": "Which sentence clearly lists the four team members?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Our team has Ava Ben Kai and Mia.",
+        "is_correct": false
+      },
+      {
+        "text": "Our team has Ava, Ben, Kai and Mia.",
+        "is_correct": true
+      },
+      {
+        "text": "Our, team has Ava, Ben Kai, and Mia.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Commas separate Ava, Ben and Kai before the final name Mia.",
+      "hint": "Treat each name as one item in the list."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 8,
+    "quality_schema": "student-facing-v3",
+    "audio_answers": [
+      "Capital words: Our, Ava, Ben, Kai, Mia. There are no commas. The text ends with a full stop. The text reads: Our team has Ava Ben Kai and Mia.",
+      "Capital words: Our, Ava, Ben, Kai, Mia. Commas come after: Ava, Ben. The text ends with a full stop. The text reads: Our team has Ava, Ben, Kai and Mia.",
+      "Capital words: Our, Ava, Ben, Kai, Mia. Commas come after: Our, Ava, Kai. The text ends with a full stop. The text reads: Our, team has Ava, Ben Kai, and Mia."
+    ]
+  },
+  {
+    "id": "AC9E2LA10-P-009",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA10",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "edit_a_train_title_direct",
+    "question": "Which version is the correctly capitalised book title?",
+    "audio_prompt": "Which version is the correctly capitalised book title?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "the night train",
+        "is_correct": false
+      },
+      {
+        "text": "The night train",
+        "is_correct": false
+      },
+      {
+        "text": "The Night Train",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The first word and the important words Night and Train begin with capitals.",
+      "hint": "Capitalise the first word and the main meaning words."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 9,
+    "quality_schema": "student-facing-v3",
+    "audio_answers": [
+      "There are no capital words. There are no commas. The text reads: the night train",
+      "Capital words: The. There are no commas. The text reads: The night train",
+      "Capital words: The, Night, Train. There are no commas. The text reads: The Night Train"
+    ]
+  },
+  {
+    "id": "AC9E2LA10-P-010",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA10",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "separate_activity_phrases_direct",
+    "question": "Which sentence correctly lists three things the class will do?",
+    "audio_prompt": "Which sentence correctly lists three things the class will do?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "We will sketch birds, label plants and photograph insects.",
+        "is_correct": true
+      },
+      {
+        "text": "We will sketch birds label plants and photograph insects.",
+        "is_correct": false
+      },
+      {
+        "text": "We will, sketch birds, label plants, and photograph insects.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The comma separates the first full activity from the second, and and introduces the last.",
+      "hint": "Keep each action and its object together as one list item."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 10,
+    "quality_schema": "student-facing-v3",
+    "audio_answers": [
+      "Capital words: We. Commas come after: birds. The text ends with a full stop. The text reads: We will sketch birds, label plants and photograph insects.",
+      "Capital words: We. There are no commas. The text ends with a full stop. The text reads: We will sketch birds label plants and photograph insects.",
+      "Capital words: We. Commas come after: will, birds, plants. The text ends with a full stop. The text reads: We will, sketch birds, label plants, and photograph insects."
+    ]
+  },
+  {
+    "id": "AC9E2LA10-P-011",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA10",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "edit_a_puppy_title_explain",
+    "question": "Which version is the correctly capitalised story title? Why is “The Lost Puppy” the best answer?",
+    "audio_prompt": "Which version is the correctly capitalised story title? Why is “The Lost Puppy” the best answer?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is best only because it is longer than “the lost puppy”.",
+        "is_correct": false
+      },
+      {
+        "text": "The important words Lost and Puppy begin with capitals, as does the first word The.",
+        "is_correct": true
+      },
+      {
+        "text": "It is best because the details in the situation do not matter.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The important words Lost and Puppy begin with capitals, as does the first word The.",
+      "hint": "In this title style, capitalise the first and important words."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 11,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LA10-P-012",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA10",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "punctuate_a_fruit_list_explain",
+    "question": "Which sentence separates the fruit clearly? Why is “We bought apples, pears and grapes.” the best answer?",
+    "audio_prompt": "Which sentence separates the fruit clearly? Why is “We bought apples, pears and grapes.” the best answer?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is best only because it is longer than “We bought apples pears and grapes.”.",
+        "is_correct": false
+      },
+      {
+        "text": "It is best because the details in the situation do not matter.",
+        "is_correct": false
+      },
+      {
+        "text": "Commas separate apples and pears from the next list item; and introduces the final item.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Commas separate apples and pears from the next list item; and introduces the final item.",
+      "hint": "Find the three things being listed and place commas between them."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 12,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LA10-P-013",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA10",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "edit_a_moon_title_explain",
+    "question": "Which title uses capitals correctly? Why is “A Trip to the Moon” the best answer?",
+    "audio_prompt": "Which title uses capitals correctly? Why is “A Trip to the Moon” the best answer?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A, Trip and Moon are capitalised; the small joining words to and the stay lower-case in this style.",
+        "is_correct": true
+      },
+      {
+        "text": "It is best only because it is longer than “a trip to the moon”.",
+        "is_correct": false
+      },
+      {
+        "text": "It is best because the details in the situation do not matter.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A, Trip and Moon are capitalised; the small joining words to and the stay lower-case in this style.",
+      "hint": "Capitalise the first and important title words, not every small joining word."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 13,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LA10-P-014",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA10",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "punctuate_packed_items_explain",
+    "question": "Which sentence correctly lists four things in the bag? Why is “We packed hats, water, snacks and towels.” the best answer?",
+    "audio_prompt": "Which sentence correctly lists four things in the bag? Why is “We packed hats, water, snacks and towels.” the best answer?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is best only because it is longer than “We packed hats water snacks and towels.”.",
+        "is_correct": false
+      },
+      {
+        "text": "The commas show where hats, water and snacks end before the final item towels.",
+        "is_correct": true
+      },
+      {
+        "text": "It is best because the details in the situation do not matter.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The commas show where hats, water and snacks end before the final item towels.",
+      "hint": "Say each item separately and put commas between the listed items."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 14,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LA10-P-015",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA10",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "edit_title_and_list_explain",
+    "question": "Which line correctly shows a title followed by a three-item animal list? Why is “Farmyard Friends — cows, ducks and goats” the best answer?",
+    "audio_prompt": "Which line correctly shows a title followed by a three-item animal list? Why is “Farmyard Friends — cows, ducks and goats” the best answer?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is best only because it is longer than “farmyard friends — cows ducks and goats”.",
+        "is_correct": false
+      },
+      {
+        "text": "It is best because the details in the situation do not matter.",
+        "is_correct": false
+      },
+      {
+        "text": "The title's important words use capitals, and commas separate the animal items.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The title's important words use capitals, and commas separate the animal items.",
+      "hint": "Check title capitals first, then check only the list for commas."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 15,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LA10-P-016",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA10",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "separate_classroom_tools_explain",
+    "question": "Which sentence uses commas only where they are needed for the list? Why is “On the desk were pencils, rulers and glue.” the best answer?",
+    "audio_prompt": "Which sentence uses commas only where they are needed for the list? Why is “On the desk were pencils, rulers and glue.” the best answer?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The comma separates pencils from rulers; and introduces the last item glue.",
+        "is_correct": true
+      },
+      {
+        "text": "It is best only because it is longer than “On, the desk, were pencils rulers and glue.”.",
+        "is_correct": false
+      },
+      {
+        "text": "It is best because the details in the situation do not matter.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The comma separates pencils from rulers; and introduces the last item glue.",
+      "hint": "Do not place commas after ordinary sentence words—use them between list items."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 16,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LA10-P-017",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA10",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "capitalise_a_reef_title_explain",
+    "question": "A student writes the report title “life on the reef”. Which edit is best? Why is “Life on the Reef” the best answer?",
+    "audio_prompt": "A student writes the report title “life on the reef”. Which edit is best? Why is “Life on the Reef” the best answer?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is best only because it is longer than “life on the reef”.",
+        "is_correct": false
+      },
+      {
+        "text": "Life and Reef are important title words and begin with capitals; on and the remain lower-case.",
+        "is_correct": true
+      },
+      {
+        "text": "It is best because the details in the situation do not matter.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Life and Reef are important title words and begin with capitals; on and the remain lower-case.",
+      "hint": "Look for the first word and the main topic word."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 17,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LA10-P-018",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA10",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "punctuate_a_team_list_explain",
+    "question": "Which sentence clearly lists the four team members? Why is “Our team has Ava, Ben, Kai and Mia.” the best answer?",
+    "audio_prompt": "Which sentence clearly lists the four team members? Why is “Our team has Ava, Ben, Kai and Mia.” the best answer?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is best only because it is longer than “Our team has Ava Ben Kai and Mia.”.",
+        "is_correct": false
+      },
+      {
+        "text": "It is best because the details in the situation do not matter.",
+        "is_correct": false
+      },
+      {
+        "text": "Commas separate Ava, Ben and Kai before the final name Mia.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Commas separate Ava, Ben and Kai before the final name Mia.",
+      "hint": "Treat each name as one item in the list."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 18,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LA10-P-019",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA10",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "edit_a_train_title_explain",
+    "question": "Which version is the correctly capitalised book title? Why is “The Night Train” the best answer?",
+    "audio_prompt": "Which version is the correctly capitalised book title? Why is “The Night Train” the best answer?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The first word and the important words Night and Train begin with capitals.",
+        "is_correct": true
+      },
+      {
+        "text": "It is best only because it is longer than “the night train”.",
+        "is_correct": false
+      },
+      {
+        "text": "It is best because the details in the situation do not matter.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The first word and the important words Night and Train begin with capitals.",
+      "hint": "Capitalise the first word and the main meaning words."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 19,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LA10-P-020",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA10",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "separate_activity_phrases_explain",
+    "question": "Which sentence correctly lists three things the class will do? Why is “We will sketch birds, label plants and photograph insects.” the best answer?",
+    "audio_prompt": "Which sentence correctly lists three things the class will do? Why is “We will sketch birds, label plants and photograph insects.” the best answer?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is best only because it is longer than “We will sketch birds label plants and photograph insects.”.",
+        "is_correct": false
+      },
+      {
+        "text": "The comma separates the first full activity from the second, and and introduces the last.",
+        "is_correct": true
+      },
+      {
+        "text": "It is best because the details in the situation do not matter.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The comma separates the first full activity from the second, and and introduces the last.",
+      "hint": "Keep each action and its object together as one list item."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 20,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LA10-P-021",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA10",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "edit_a_moon_title_discriminate",
+    "question": "Which title uses capitals correctly? Which response is the clearest mix-up to avoid?",
+    "audio_prompt": "Which title uses capitals correctly? Which response is the clearest mix-up to avoid?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A Trip to the Moon",
+        "is_correct": false
+      },
+      {
+        "text": "A trip To The moon",
+        "is_correct": false
+      },
+      {
+        "text": "a trip to the moon",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "“a trip to the moon” is the mix-up to avoid. Capitalise the first and important title words, not every small joining word.",
+      "hint": "Capitalise the first and important title words, not every small joining word."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 21,
+    "quality_schema": "student-facing-v3",
+    "audio_answers": [
+      "Capital words: A, Trip, Moon. There are no commas. The text reads: A Trip to the Moon",
+      "Capital words: A, To, The. There are no commas. The text reads: A trip To The moon",
+      "There are no capital words. There are no commas. The text reads: a trip to the moon"
+    ]
+  },
+  {
+    "id": "AC9E2LA10-P-022",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA10",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "punctuate_packed_items_discriminate",
+    "question": "Which sentence correctly lists four things in the bag? Which response is the clearest mix-up to avoid?",
+    "audio_prompt": "Which sentence correctly lists four things in the bag? Which response is the clearest mix-up to avoid?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "We packed hats water snacks and towels.",
+        "is_correct": true
+      },
+      {
+        "text": "We packed hats, water, snacks and towels.",
+        "is_correct": false
+      },
+      {
+        "text": "We packed, hats, water snacks and towels.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "“We packed hats water snacks and towels.” is the mix-up to avoid. Say each item separately and put commas between the listed items.",
+      "hint": "Say each item separately and put commas between the listed items."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 22,
+    "quality_schema": "student-facing-v3",
+    "audio_answers": [
+      "Capital words: We. There are no commas. The text ends with a full stop. The text reads: We packed hats water snacks and towels.",
+      "Capital words: We. Commas come after: hats, water. The text ends with a full stop. The text reads: We packed hats, water, snacks and towels.",
+      "Capital words: We. Commas come after: packed, hats. The text ends with a full stop. The text reads: We packed, hats, water snacks and towels."
+    ]
+  },
+  {
+    "id": "AC9E2LA10-P-023",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA10",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "edit_title_and_list_discriminate",
+    "question": "Which line correctly shows a title followed by a three-item animal list? Which response is the clearest mix-up to avoid?",
+    "audio_prompt": "Which line correctly shows a title followed by a three-item animal list? Which response is the clearest mix-up to avoid?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Farmyard Friends — cows, ducks and goats",
+        "is_correct": false
+      },
+      {
+        "text": "farmyard friends — cows ducks and goats",
+        "is_correct": true
+      },
+      {
+        "text": "Farmyard friends — cows, ducks, and, goats",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "“farmyard friends — cows ducks and goats” is the mix-up to avoid. Check title capitals first, then check only the list for commas.",
+      "hint": "Check title capitals first, then check only the list for commas."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 23,
+    "quality_schema": "student-facing-v3",
+    "audio_answers": [
+      "Capital words: Farmyard, Friends. Commas come after: cows. There is a dash between the title and the list. The text reads: Farmyard Friends — cows, ducks and goats",
+      "There are no capital words. There are no commas. There is a dash between the title and the list. The text reads: farmyard friends — cows ducks and goats",
+      "Capital words: Farmyard. Commas come after: cows, ducks, and. There is a dash between the title and the list. The text reads: Farmyard friends — cows, ducks, and, goats"
+    ]
+  },
+  {
+    "id": "AC9E2LA10-P-024",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA10",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "separate_classroom_tools_discriminate",
+    "question": "Which sentence uses commas only where they are needed for the list? Which response is the clearest mix-up to avoid?",
+    "audio_prompt": "Which sentence uses commas only where they are needed for the list? Which response is the clearest mix-up to avoid?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "On the desk were pencils, rulers and glue.",
+        "is_correct": false
+      },
+      {
+        "text": "On the desk were pencils rulers, and glue.",
+        "is_correct": false
+      },
+      {
+        "text": "On, the desk, were pencils rulers and glue.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "“On, the desk, were pencils rulers and glue.” is the mix-up to avoid. Do not place commas after ordinary sentence words—use them between list items.",
+      "hint": "Do not place commas after ordinary sentence words—use them between list items."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 24,
+    "quality_schema": "student-facing-v3",
+    "audio_answers": [
+      "Capital words: On. Commas come after: pencils. The text ends with a full stop. The text reads: On the desk were pencils, rulers and glue.",
+      "Capital words: On. Commas come after: rulers. The text ends with a full stop. The text reads: On the desk were pencils rulers, and glue.",
+      "Capital words: On. Commas come after: On, desk. The text ends with a full stop. The text reads: On, the desk, were pencils rulers and glue."
+    ]
+  },
+  {
+    "id": "AC9E2LA10-P-025",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA10",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "capitalise_a_reef_title_discriminate",
+    "question": "A student writes the report title “life on the reef”. Which edit is best? Which response is the clearest mix-up to avoid?",
+    "audio_prompt": "A student writes the report title “life on the reef”. Which edit is best? Which response is the clearest mix-up to avoid?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "life on the reef",
+        "is_correct": true
+      },
+      {
+        "text": "Life on the Reef",
+        "is_correct": false
+      },
+      {
+        "text": "Life On The reef",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "“life on the reef” is the mix-up to avoid. Look for the first word and the main topic word.",
+      "hint": "Look for the first word and the main topic word."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 25,
+    "quality_schema": "student-facing-v3",
+    "audio_answers": [
+      "There are no capital words. There are no commas. The text reads: life on the reef",
+      "Capital words: Life, Reef. There are no commas. The text reads: Life on the Reef",
+      "Capital words: Life, On, The. There are no commas. The text reads: Life On The reef"
+    ]
+  },
+  {
+    "id": "AC9E2LA10-P-026",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA10",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "punctuate_a_team_list_discriminate",
+    "question": "Which sentence clearly lists the four team members? Which response is the clearest mix-up to avoid?",
+    "audio_prompt": "Which sentence clearly lists the four team members? Which response is the clearest mix-up to avoid?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Our team has Ava, Ben, Kai and Mia.",
+        "is_correct": false
+      },
+      {
+        "text": "Our team has Ava Ben Kai and Mia.",
+        "is_correct": true
+      },
+      {
+        "text": "Our, team has Ava, Ben Kai, and Mia.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "“Our team has Ava Ben Kai and Mia.” is the mix-up to avoid. Treat each name as one item in the list.",
+      "hint": "Treat each name as one item in the list."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 26,
+    "quality_schema": "student-facing-v3",
+    "audio_answers": [
+      "Capital words: Our, Ava, Ben, Kai, Mia. Commas come after: Ava, Ben. The text ends with a full stop. The text reads: Our team has Ava, Ben, Kai and Mia.",
+      "Capital words: Our, Ava, Ben, Kai, Mia. There are no commas. The text ends with a full stop. The text reads: Our team has Ava Ben Kai and Mia.",
+      "Capital words: Our, Ava, Ben, Kai, Mia. Commas come after: Our, Ava, Kai. The text ends with a full stop. The text reads: Our, team has Ava, Ben Kai, and Mia."
+    ]
+  },
+  {
+    "id": "AC9E2LA10-P-027",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA10",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "edit_a_train_title_discriminate",
+    "question": "Which version is the correctly capitalised book title? Which response is the clearest mix-up to avoid?",
+    "audio_prompt": "Which version is the correctly capitalised book title? Which response is the clearest mix-up to avoid?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The Night Train",
+        "is_correct": false
+      },
+      {
+        "text": "The night train",
+        "is_correct": false
+      },
+      {
+        "text": "the night train",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "“the night train” is the mix-up to avoid. Capitalise the first word and the main meaning words.",
+      "hint": "Capitalise the first word and the main meaning words."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 27,
+    "quality_schema": "student-facing-v3",
+    "audio_answers": [
+      "Capital words: The, Night, Train. There are no commas. The text reads: The Night Train",
+      "Capital words: The. There are no commas. The text reads: The night train",
+      "There are no capital words. There are no commas. The text reads: the night train"
+    ]
+  },
+  {
+    "id": "AC9E2LA10-P-028",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA10",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "separate_activity_phrases_discriminate",
+    "question": "Which sentence correctly lists three things the class will do? Which response is the clearest mix-up to avoid?",
+    "audio_prompt": "Which sentence correctly lists three things the class will do? Which response is the clearest mix-up to avoid?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "We will sketch birds label plants and photograph insects.",
+        "is_correct": true
+      },
+      {
+        "text": "We will sketch birds, label plants and photograph insects.",
+        "is_correct": false
+      },
+      {
+        "text": "We will, sketch birds, label plants, and photograph insects.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "“We will sketch birds label plants and photograph insects.” is the mix-up to avoid. Keep each action and its object together as one list item.",
+      "hint": "Keep each action and its object together as one list item."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 28,
+    "quality_schema": "student-facing-v3",
+    "audio_answers": [
+      "Capital words: We. There are no commas. The text ends with a full stop. The text reads: We will sketch birds label plants and photograph insects.",
+      "Capital words: We. Commas come after: birds. The text ends with a full stop. The text reads: We will sketch birds, label plants and photograph insects.",
+      "Capital words: We. Commas come after: will, birds, plants. The text ends with a full stop. The text reads: We will, sketch birds, label plants, and photograph insects."
+    ]
+  },
+  {
+    "id": "AC9E2LA10-P-029",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA10",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "capitalise_a_dragon_title_discriminate",
+    "question": "Which version correctly capitalises the sea-dragon title? Which response is the clearest mix-up to avoid?",
+    "audio_prompt": "Which version correctly capitalises the sea-dragon title? Which response is the clearest mix-up to avoid?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Sam and the Sea Dragon",
+        "is_correct": false
+      },
+      {
+        "text": "sam and the sea dragon",
+        "is_correct": true
+      },
+      {
+        "text": "Sam And The sea Dragon",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "“sam and the sea dragon” is the mix-up to avoid. Keep small joining words lower-case unless they begin the title.",
+      "hint": "Keep small joining words lower-case unless they begin the title."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 29,
+    "quality_schema": "student-facing-v3",
+    "audio_answers": [
+      "Capital words: Sam, Sea, Dragon. There are no commas. The text reads: Sam and the Sea Dragon",
+      "There are no capital words. There are no commas. The text reads: sam and the sea dragon",
+      "Capital words: Sam, And, The, Dragon. There are no commas. The text reads: Sam And The sea Dragon"
+    ]
+  },
+  {
+    "id": "AC9E2LA10-P-030",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA10",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "punctuate_five_supplies_discriminate",
+    "question": "Which sentence correctly lists five art supplies? Which response is the clearest mix-up to avoid?",
+    "audio_prompt": "Which sentence correctly lists five art supplies? Which response is the clearest mix-up to avoid?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Bring paper, paint, brushes, tape and string.",
+        "is_correct": false
+      },
+      {
+        "text": "Bring paper, paint brushes, tape and, string.",
+        "is_correct": false
+      },
+      {
+        "text": "Bring paper paint brushes tape and string.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "“Bring paper paint brushes tape and string.” is the mix-up to avoid. Count the five separate things and mark the gaps between them.",
+      "hint": "Count the five separate things and mark the gaps between them."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 30,
+    "quality_schema": "student-facing-v3",
+    "audio_answers": [
+      "Capital words: Bring. Commas come after: paper, paint, brushes. The text ends with a full stop. The text reads: Bring paper, paint, brushes, tape and string.",
+      "Capital words: Bring. Commas come after: paper, brushes, and. The text ends with a full stop. The text reads: Bring paper, paint brushes, tape and, string.",
+      "Capital words: Bring. There are no commas. The text ends with a full stop. The text reads: Bring paper paint brushes tape and string."
+    ]
+  },
+  {
+    "id": "AC9E2LA10-P-031",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA10",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "edit_a_moon_title_apply",
+    "question": "Use this clue: Capitalise the first and important title words, not every small joining word. Which title uses capitals correctly?",
+    "audio_prompt": "Use this clue: Capitalise the first and important title words, not every small joining word. Which title uses capitals correctly?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A Trip to the Moon",
+        "is_correct": true
+      },
+      {
+        "text": "A trip To The moon",
+        "is_correct": false
+      },
+      {
+        "text": "a trip to the moon",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A, Trip and Moon are capitalised; the small joining words to and the stay lower-case in this style.",
+      "hint": "Use the clue first, then check which response fits the exact people, purpose, text or language feature in the example."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 31,
+    "quality_schema": "student-facing-v3",
+    "audio_answers": [
+      "Capital words: A, Trip, Moon. There are no commas. The text reads: A Trip to the Moon",
+      "Capital words: A, To, The. There are no commas. The text reads: A trip To The moon",
+      "There are no capital words. There are no commas. The text reads: a trip to the moon"
+    ]
+  },
+  {
+    "id": "AC9E2LA10-P-032",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA10",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "punctuate_packed_items_apply",
+    "question": "Use this clue: Say each item separately and put commas between the listed items. Which sentence correctly lists four things in the bag?",
+    "audio_prompt": "Use this clue: Say each item separately and put commas between the listed items. Which sentence correctly lists four things in the bag?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "We packed, hats, water snacks and towels.",
+        "is_correct": false
+      },
+      {
+        "text": "We packed hats, water, snacks and towels.",
+        "is_correct": true
+      },
+      {
+        "text": "We packed hats water snacks and towels.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The commas show where hats, water and snacks end before the final item towels.",
+      "hint": "Use the clue first, then check which response fits the exact people, purpose, text or language feature in the example."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 32,
+    "quality_schema": "student-facing-v3",
+    "audio_answers": [
+      "Capital words: We. Commas come after: packed, hats. The text ends with a full stop. The text reads: We packed, hats, water snacks and towels.",
+      "Capital words: We. Commas come after: hats, water. The text ends with a full stop. The text reads: We packed hats, water, snacks and towels.",
+      "Capital words: We. There are no commas. The text ends with a full stop. The text reads: We packed hats water snacks and towels."
+    ]
+  },
+  {
+    "id": "AC9E2LA10-P-033",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA10",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "edit_title_and_list_apply",
+    "question": "Use this clue: Check title capitals first, then check only the list for commas. Which line correctly shows a title followed by a three-item animal list?",
+    "audio_prompt": "Use this clue: Check title capitals first, then check only the list for commas. Which line correctly shows a title followed by a three-item animal list?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Farmyard friends — cows, ducks, and, goats",
+        "is_correct": false
+      },
+      {
+        "text": "farmyard friends — cows ducks and goats",
+        "is_correct": false
+      },
+      {
+        "text": "Farmyard Friends — cows, ducks and goats",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The title's important words use capitals, and commas separate the animal items.",
+      "hint": "Use the clue first, then check which response fits the exact people, purpose, text or language feature in the example."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 33,
+    "quality_schema": "student-facing-v3",
+    "audio_answers": [
+      "Capital words: Farmyard. Commas come after: cows, ducks, and. There is a dash between the title and the list. The text reads: Farmyard friends — cows, ducks, and, goats",
+      "There are no capital words. There are no commas. There is a dash between the title and the list. The text reads: farmyard friends — cows ducks and goats",
+      "Capital words: Farmyard, Friends. Commas come after: cows. There is a dash between the title and the list. The text reads: Farmyard Friends — cows, ducks and goats"
+    ]
+  },
+  {
+    "id": "AC9E2LA10-P-034",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA10",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "separate_classroom_tools_apply",
+    "question": "Use this clue: Do not place commas after ordinary sentence words—use them between list items. Which sentence uses commas only where they are needed for the list?",
+    "audio_prompt": "Use this clue: Do not place commas after ordinary sentence words—use them between list items. Which sentence uses commas only where they are needed for the list?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "On the desk were pencils, rulers and glue.",
+        "is_correct": true
+      },
+      {
+        "text": "On the desk were pencils rulers, and glue.",
+        "is_correct": false
+      },
+      {
+        "text": "On, the desk, were pencils rulers and glue.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The comma separates pencils from rulers; and introduces the last item glue.",
+      "hint": "Use the clue first, then check which response fits the exact people, purpose, text or language feature in the example."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 34,
+    "quality_schema": "student-facing-v3",
+    "audio_answers": [
+      "Capital words: On. Commas come after: pencils. The text ends with a full stop. The text reads: On the desk were pencils, rulers and glue.",
+      "Capital words: On. Commas come after: rulers. The text ends with a full stop. The text reads: On the desk were pencils rulers, and glue.",
+      "Capital words: On. Commas come after: On, desk. The text ends with a full stop. The text reads: On, the desk, were pencils rulers and glue."
+    ]
+  },
+  {
+    "id": "AC9E2LA10-P-035",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA10",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "capitalise_a_reef_title_apply",
+    "question": "Use this clue: Look for the first word and the main topic word. A student writes the report title “life on the reef”. Which edit is best?",
+    "audio_prompt": "Use this clue: Look for the first word and the main topic word. A student writes the report title “life on the reef”. Which edit is best?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Life On The reef",
+        "is_correct": false
+      },
+      {
+        "text": "Life on the Reef",
+        "is_correct": true
+      },
+      {
+        "text": "life on the reef",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Life and Reef are important title words and begin with capitals; on and the remain lower-case.",
+      "hint": "Use the clue first, then check which response fits the exact people, purpose, text or language feature in the example."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 35,
+    "quality_schema": "student-facing-v3",
+    "audio_answers": [
+      "Capital words: Life, On, The. There are no commas. The text reads: Life On The reef",
+      "Capital words: Life, Reef. There are no commas. The text reads: Life on the Reef",
+      "There are no capital words. There are no commas. The text reads: life on the reef"
+    ]
+  },
+  {
+    "id": "AC9E2LA10-P-036",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA10",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "punctuate_a_team_list_apply",
+    "question": "Use this clue: Treat each name as one item in the list. Which sentence clearly lists the four team members?",
+    "audio_prompt": "Use this clue: Treat each name as one item in the list. Which sentence clearly lists the four team members?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Our, team has Ava, Ben Kai, and Mia.",
+        "is_correct": false
+      },
+      {
+        "text": "Our team has Ava Ben Kai and Mia.",
+        "is_correct": false
+      },
+      {
+        "text": "Our team has Ava, Ben, Kai and Mia.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Commas separate Ava, Ben and Kai before the final name Mia.",
+      "hint": "Use the clue first, then check which response fits the exact people, purpose, text or language feature in the example."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 36,
+    "quality_schema": "student-facing-v3",
+    "audio_answers": [
+      "Capital words: Our, Ava, Ben, Kai, Mia. Commas come after: Our, Ava, Kai. The text ends with a full stop. The text reads: Our, team has Ava, Ben Kai, and Mia.",
+      "Capital words: Our, Ava, Ben, Kai, Mia. There are no commas. The text ends with a full stop. The text reads: Our team has Ava Ben Kai and Mia.",
+      "Capital words: Our, Ava, Ben, Kai, Mia. Commas come after: Ava, Ben. The text ends with a full stop. The text reads: Our team has Ava, Ben, Kai and Mia."
+    ]
+  },
+  {
+    "id": "AC9E2LA10-P-037",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA10",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "edit_a_train_title_apply",
+    "question": "Use this clue: Capitalise the first word and the main meaning words. Which version is the correctly capitalised book title?",
+    "audio_prompt": "Use this clue: Capitalise the first word and the main meaning words. Which version is the correctly capitalised book title?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The Night Train",
+        "is_correct": true
+      },
+      {
+        "text": "The night train",
+        "is_correct": false
+      },
+      {
+        "text": "the night train",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The first word and the important words Night and Train begin with capitals.",
+      "hint": "Use the clue first, then check which response fits the exact people, purpose, text or language feature in the example."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 37,
+    "quality_schema": "student-facing-v3",
+    "audio_answers": [
+      "Capital words: The, Night, Train. There are no commas. The text reads: The Night Train",
+      "Capital words: The. There are no commas. The text reads: The night train",
+      "There are no capital words. There are no commas. The text reads: the night train"
+    ]
+  },
+  {
+    "id": "AC9E2LA10-P-038",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA10",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "separate_activity_phrases_apply",
+    "question": "Use this clue: Keep each action and its object together as one list item. Which sentence correctly lists three things the class will do?",
+    "audio_prompt": "Use this clue: Keep each action and its object together as one list item. Which sentence correctly lists three things the class will do?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "We will, sketch birds, label plants, and photograph insects.",
+        "is_correct": false
+      },
+      {
+        "text": "We will sketch birds, label plants and photograph insects.",
+        "is_correct": true
+      },
+      {
+        "text": "We will sketch birds label plants and photograph insects.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The comma separates the first full activity from the second, and and introduces the last.",
+      "hint": "Use the clue first, then check which response fits the exact people, purpose, text or language feature in the example."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 38,
+    "quality_schema": "student-facing-v3",
+    "audio_answers": [
+      "Capital words: We. Commas come after: will, birds, plants. The text ends with a full stop. The text reads: We will, sketch birds, label plants, and photograph insects.",
+      "Capital words: We. Commas come after: birds. The text ends with a full stop. The text reads: We will sketch birds, label plants and photograph insects.",
+      "Capital words: We. There are no commas. The text ends with a full stop. The text reads: We will sketch birds label plants and photograph insects."
+    ]
+  },
+  {
+    "id": "AC9E2LA10-P-039",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA10",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "capitalise_a_dragon_title_apply",
+    "question": "Use this clue: Keep small joining words lower-case unless they begin the title. Which version correctly capitalises the sea-dragon title?",
+    "audio_prompt": "Use this clue: Keep small joining words lower-case unless they begin the title. Which version correctly capitalises the sea-dragon title?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Sam And The sea Dragon",
+        "is_correct": false
+      },
+      {
+        "text": "sam and the sea dragon",
+        "is_correct": false
+      },
+      {
+        "text": "Sam and the Sea Dragon",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Sam, Sea and Dragon are important title words; and and the stay lower-case.",
+      "hint": "Use the clue first, then check which response fits the exact people, purpose, text or language feature in the example."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 39,
+    "quality_schema": "student-facing-v3",
+    "audio_answers": [
+      "Capital words: Sam, And, The, Dragon. There are no commas. The text reads: Sam And The sea Dragon",
+      "There are no capital words. There are no commas. The text reads: sam and the sea dragon",
+      "Capital words: Sam, Sea, Dragon. There are no commas. The text reads: Sam and the Sea Dragon"
+    ]
+  },
+  {
+    "id": "AC9E2LA10-P-040",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA10",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "punctuate_five_supplies_apply",
+    "question": "Use this clue: Count the five separate things and mark the gaps between them. Which sentence correctly lists five art supplies?",
+    "audio_prompt": "Use this clue: Count the five separate things and mark the gaps between them. Which sentence correctly lists five art supplies?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Bring paper, paint, brushes, tape and string.",
+        "is_correct": true
+      },
+      {
+        "text": "Bring paper, paint brushes, tape and, string.",
+        "is_correct": false
+      },
+      {
+        "text": "Bring paper paint brushes tape and string.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Commas separate the first four supply items before and introduces string.",
+      "hint": "Use the clue first, then check which response fits the exact people, purpose, text or language feature in the example."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 40,
+    "quality_schema": "student-facing-v3",
+    "audio_answers": [
+      "Capital words: Bring. Commas come after: paper, paint, brushes. The text ends with a full stop. The text reads: Bring paper, paint, brushes, tape and string.",
+      "Capital words: Bring. Commas come after: paper, brushes, and. The text ends with a full stop. The text reads: Bring paper, paint brushes, tape and, string.",
+      "Capital words: Bring. There are no commas. The text ends with a full stop. The text reads: Bring paper paint brushes tape and string."
+    ]
+  },
+  {
+    "id": "AC9E2LA10-T-001",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA10",
+    "bank": "test",
+    "stage": "verify",
+    "skill": "edit_a_bridge_title_direct",
+    "question": "Which version is the correctly capitalised mystery title?",
+    "audio_prompt": "Which version is the correctly capitalised mystery title?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Under the Old Bridge",
+        "is_correct": true
+      },
+      {
+        "text": "under the old bridge",
+        "is_correct": false
+      },
+      {
+        "text": "Under The old bridge",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Under, Old and Bridge are important title words and begin with capitals in this style.",
+      "hint": "Capitalise the opening and main meaning words while keeping the small word the lower-case."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 1,
+    "quality_schema": "student-facing-v3",
+    "audio_answers": [
+      "Capital words: Under, Old, Bridge. There are no commas. The text reads: Under the Old Bridge",
+      "There are no capital words. There are no commas. The text reads: under the old bridge",
+      "Capital words: Under, The. There are no commas. The text reads: Under The old bridge"
+    ]
+  },
+  {
+    "id": "AC9E2LA10-T-002",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA10",
+    "bank": "test",
+    "stage": "verify",
+    "skill": "list_investigation_materials_direct",
+    "question": "Which sentence correctly lists the science materials?",
+    "audio_prompt": "Which sentence correctly lists the science materials?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "We need a cup soil seeds and water.",
+        "is_correct": false
+      },
+      {
+        "text": "We need a cup, soil, seeds and water.",
+        "is_correct": true
+      },
+      {
+        "text": "We need, a cup, soil seeds, and water.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Commas separate cup, soil and seeds before the final item water.",
+      "hint": "Identify each separate material, then punctuate the gaps between items."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 2,
+    "quality_schema": "student-facing-v3",
+    "audio_answers": [
+      "Capital words: We. There are no commas. The text ends with a full stop. The text reads: We need a cup soil seeds and water.",
+      "Capital words: We. Commas come after: cup, soil. The text ends with a full stop. The text reads: We need a cup, soil, seeds and water.",
+      "Capital words: We. Commas come after: need, cup, seeds. The text ends with a full stop. The text reads: We need, a cup, soil seeds, and water."
+    ]
+  },
+  {
+    "id": "AC9E2LA10-T-003",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA10",
+    "bank": "test",
+    "stage": "verify",
+    "skill": "list_party_activities_direct",
+    "question": "Which invitation sentence shows three activities clearly?",
+    "audio_prompt": "Which invitation sentence shows three activities clearly?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "We will play games make masks and sing songs.",
+        "is_correct": false
+      },
+      {
+        "text": "We will, play games, make masks, and sing songs.",
+        "is_correct": false
+      },
+      {
+        "text": "We will play games, make masks and sing songs.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A comma separates the first activity from the second, and and introduces the final activity.",
+      "hint": "Treat each whole activity as one list item."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 3,
+    "quality_schema": "student-facing-v3",
+    "audio_answers": [
+      "Capital words: We. There are no commas. The text ends with a full stop. The text reads: We will play games make masks and sing songs.",
+      "Capital words: We. Commas come after: will, games, masks. The text ends with a full stop. The text reads: We will, play games, make masks, and sing songs.",
+      "Capital words: We. Commas come after: games. The text ends with a full stop. The text reads: We will play games, make masks and sing songs."
+    ]
+  },
+  {
+    "id": "AC9E2LA10-T-004",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA10",
+    "bank": "test",
+    "stage": "verify",
+    "skill": "edit_a_red_centre_title_direct",
+    "question": "Which title is capitalised correctly?",
+    "audio_prompt": "Which title is capitalised correctly?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Journey to the Red Centre",
+        "is_correct": true
+      },
+      {
+        "text": "journey to the red centre",
+        "is_correct": false
+      },
+      {
+        "text": "Journey To The red Centre",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Journey, Red and Centre are important title words; to and the stay lower-case in this style.",
+      "hint": "Find the main topic words and avoid capitalising every short joining word."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 4,
+    "quality_schema": "student-facing-v3",
+    "audio_answers": [
+      "Capital words: Journey, Red, Centre. There are no commas. The text reads: Journey to the Red Centre",
+      "There are no capital words. There are no commas. The text reads: journey to the red centre",
+      "Capital words: Journey, To, The, Centre. There are no commas. The text reads: Journey To The red Centre"
+    ]
+  },
+  {
+    "id": "AC9E2LA10-T-005",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA10",
+    "bank": "test",
+    "stage": "verify",
+    "skill": "finish_a_market_list_direct",
+    "question": "Which complete sentence punctuates the list correctly?",
+    "audio_prompt": "Which complete sentence punctuates the list correctly?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "We saw bread cheese flowers and honey at the market.",
+        "is_correct": false
+      },
+      {
+        "text": "We saw bread, cheese, flowers and honey at the market.",
+        "is_correct": true
+      },
+      {
+        "text": "We saw, bread, cheese flowers, and honey at the market.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The list commas separate bread, cheese, flowers and honey; the sentence ends with a full stop.",
+      "hint": "Focus on the four things seen and keep commas between those items."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 5,
+    "quality_schema": "student-facing-v3",
+    "audio_answers": [
+      "Capital words: We. There are no commas. The text ends with a full stop. The text reads: We saw bread cheese flowers and honey at the market.",
+      "Capital words: We. Commas come after: bread, cheese. The text ends with a full stop. The text reads: We saw bread, cheese, flowers and honey at the market.",
+      "Capital words: We. Commas come after: saw, bread, flowers. The text ends with a full stop. The text reads: We saw, bread, cheese flowers, and honey at the market."
+    ]
+  },
+  {
+    "id": "AC9E2LA10-T-006",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA10",
+    "bank": "test",
+    "stage": "verify",
+    "skill": "edit_a_farm_title_and_list_direct",
+    "question": "Which line correctly edits “my weekend at the farm” and its animal list?",
+    "audio_prompt": "Which line correctly edits “my weekend at the farm” and its animal list?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "my weekend at the farm — horses sheep hens and pigs",
+        "is_correct": false
+      },
+      {
+        "text": "My weekend At The farm — horses, sheep hens, and pigs",
+        "is_correct": false
+      },
+      {
+        "text": "My Weekend at the Farm — horses, sheep, hens and pigs",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Important title words use capitals, while commas separate the four animals.",
+      "hint": "Check the title and list as two separate editing jobs."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 6,
+    "quality_schema": "student-facing-v3",
+    "audio_answers": [
+      "There are no capital words. There are no commas. There is a dash between the title and the list. The text reads: my weekend at the farm — horses sheep hens and pigs",
+      "Capital words: My, At, The. Commas come after: horses, hens. There is a dash between the title and the list. The text reads: My weekend At The farm — horses, sheep hens, and pigs",
+      "Capital words: My, Weekend, Farm. Commas come after: horses, sheep. There is a dash between the title and the list. The text reads: My Weekend at the Farm — horses, sheep, hens and pigs"
+    ]
+  },
+  {
+    "id": "AC9E2LA10-T-007",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA10",
+    "bank": "test",
+    "stage": "verify",
+    "skill": "edit_a_river_title_direct",
+    "question": "Which version is the correctly capitalised adventure title?",
+    "audio_prompt": "Which version is the correctly capitalised adventure title?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Across the Wide River",
+        "is_correct": true
+      },
+      {
+        "text": "across the wide river",
+        "is_correct": false
+      },
+      {
+        "text": "Across The wide River",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Across, Wide and River are important title words; the stays lower-case.",
+      "hint": "Capitalise the first and main meaning words, not every small word."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 7,
+    "quality_schema": "student-facing-v3",
+    "audio_answers": [
+      "Capital words: Across, Wide, River. There are no commas. The text reads: Across the Wide River",
+      "There are no capital words. There are no commas. The text reads: across the wide river",
+      "Capital words: Across, The, River. There are no commas. The text reads: Across The wide River"
+    ]
+  },
+  {
+    "id": "AC9E2LA10-T-008",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA10",
+    "bank": "test",
+    "stage": "verify",
+    "skill": "list_flag_colours_direct",
+    "question": "Which sentence correctly separates the three colours?",
+    "audio_prompt": "Which sentence correctly separates the three colours?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The flag is red white and blue.",
+        "is_correct": false
+      },
+      {
+        "text": "The flag is red, white and blue.",
+        "is_correct": true
+      },
+      {
+        "text": "The flag, is red, white, and blue.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A comma separates red from white, and and introduces the final colour blue.",
+      "hint": "The list begins after is, so place punctuation between the colours only."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 8,
+    "quality_schema": "student-facing-v3",
+    "audio_answers": [
+      "Capital words: The. There are no commas. The text ends with a full stop. The text reads: The flag is red white and blue.",
+      "Capital words: The. Commas come after: red. The text ends with a full stop. The text reads: The flag is red, white and blue.",
+      "Capital words: The. Commas come after: flag, red, white. The text ends with a full stop. The text reads: The flag, is red, white, and blue."
+    ]
+  },
+  {
+    "id": "AC9E2LA10-T-009",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA10",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "edit_a_bridge_title_test-reason",
+    "question": "Which version is the correctly capitalised mystery title? Which reason best supports the correct choice?",
+    "audio_prompt": "Which version is the correctly capitalised mystery title? Which reason best supports the correct choice?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The correct choice is simply the most formal-sounding option.",
+        "is_correct": false
+      },
+      {
+        "text": "The correct choice works even if the situation and audience are ignored.",
+        "is_correct": false
+      },
+      {
+        "text": "Under, Old and Bridge are important title words and begin with capitals in this style.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Under, Old and Bridge are important title words and begin with capitals in this style.",
+      "hint": "Capitalise the opening and main meaning words while keeping the small word the lower-case."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 9,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LA10-T-010",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA10",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "list_investigation_materials_test-reason",
+    "question": "Which sentence correctly lists the science materials? Which reason best supports the correct choice?",
+    "audio_prompt": "Which sentence correctly lists the science materials? Which reason best supports the correct choice?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Commas separate cup, soil and seeds before the final item water.",
+        "is_correct": true
+      },
+      {
+        "text": "The correct choice is simply the most formal-sounding option.",
+        "is_correct": false
+      },
+      {
+        "text": "The correct choice works even if the situation and audience are ignored.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Commas separate cup, soil and seeds before the final item water.",
+      "hint": "Identify each separate material, then punctuate the gaps between items."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 10,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LA10-T-011",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA10",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "list_party_activities_test-reason",
+    "question": "Which invitation sentence shows three activities clearly? Which reason best supports the correct choice?",
+    "audio_prompt": "Which invitation sentence shows three activities clearly? Which reason best supports the correct choice?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The correct choice is simply the most formal-sounding option.",
+        "is_correct": false
+      },
+      {
+        "text": "A comma separates the first activity from the second, and and introduces the final activity.",
+        "is_correct": true
+      },
+      {
+        "text": "The correct choice works even if the situation and audience are ignored.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A comma separates the first activity from the second, and and introduces the final activity.",
+      "hint": "Treat each whole activity as one list item."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 11,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LA10-T-012",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA10",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "edit_a_red_centre_title_test-reason",
+    "question": "Which title is capitalised correctly? Which reason best supports the correct choice?",
+    "audio_prompt": "Which title is capitalised correctly? Which reason best supports the correct choice?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The correct choice is simply the most formal-sounding option.",
+        "is_correct": false
+      },
+      {
+        "text": "The correct choice works even if the situation and audience are ignored.",
+        "is_correct": false
+      },
+      {
+        "text": "Journey, Red and Centre are important title words; to and the stay lower-case in this style.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Journey, Red and Centre are important title words; to and the stay lower-case in this style.",
+      "hint": "Find the main topic words and avoid capitalising every short joining word."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 12,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LA10-T-013",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA10",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "finish_a_market_list_test-reason",
+    "question": "Which complete sentence punctuates the list correctly? Which reason best supports the correct choice?",
+    "audio_prompt": "Which complete sentence punctuates the list correctly? Which reason best supports the correct choice?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The list commas separate bread, cheese, flowers and honey; the sentence ends with a full stop.",
+        "is_correct": true
+      },
+      {
+        "text": "The correct choice is simply the most formal-sounding option.",
+        "is_correct": false
+      },
+      {
+        "text": "The correct choice works even if the situation and audience are ignored.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The list commas separate bread, cheese, flowers and honey; the sentence ends with a full stop.",
+      "hint": "Focus on the four things seen and keep commas between those items."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 13,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LA10-T-014",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA10",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "edit_a_farm_title_and_list_test-reason",
+    "question": "Which line correctly edits “my weekend at the farm” and its animal list? Which reason best supports the correct choice?",
+    "audio_prompt": "Which line correctly edits “my weekend at the farm” and its animal list? Which reason best supports the correct choice?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The correct choice is simply the most formal-sounding option.",
+        "is_correct": false
+      },
+      {
+        "text": "Important title words use capitals, while commas separate the four animals.",
+        "is_correct": true
+      },
+      {
+        "text": "The correct choice works even if the situation and audience are ignored.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Important title words use capitals, while commas separate the four animals.",
+      "hint": "Check the title and list as two separate editing jobs."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 14,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LA10-T-015",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA10",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "edit_a_river_title_test-reason",
+    "question": "Which version is the correctly capitalised adventure title? Which reason best supports the correct choice?",
+    "audio_prompt": "Which version is the correctly capitalised adventure title? Which reason best supports the correct choice?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The correct choice is simply the most formal-sounding option.",
+        "is_correct": false
+      },
+      {
+        "text": "The correct choice works even if the situation and audience are ignored.",
+        "is_correct": false
+      },
+      {
+        "text": "Across, Wide and River are important title words; the stays lower-case.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Across, Wide and River are important title words; the stays lower-case.",
+      "hint": "Capitalise the first and main meaning words, not every small word."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 15,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LA10-T-016",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA10",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "list_flag_colours_test-reason",
+    "question": "Which sentence correctly separates the three colours? Which reason best supports the correct choice?",
+    "audio_prompt": "Which sentence correctly separates the three colours? Which reason best supports the correct choice?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A comma separates red from white, and and introduces the final colour blue.",
+        "is_correct": true
+      },
+      {
+        "text": "The correct choice is simply the most formal-sounding option.",
+        "is_correct": false
+      },
+      {
+        "text": "The correct choice works even if the situation and audience are ignored.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A comma separates red from white, and and introduces the final colour blue.",
+      "hint": "The list begins after is, so place punctuation between the colours only."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 16,
+    "quality_schema": "student-facing-v3"
+  }
+]

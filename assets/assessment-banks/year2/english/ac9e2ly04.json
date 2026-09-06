@@ -1,0 +1,2130 @@
+[
+  {
+    "id": "AC9E2LY04-P-001",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY04",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "phrase_a_sentence_direct",
+    "question": "Which reading sounds natural for the sentence ‘After lunch the class planted six seedlings’ ?",
+    "audio_prompt": "Which reading sounds natural for the sentence ‘After lunch the class planted six seedlings’ ?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Pause briefly after lunch, then read the rest as one smooth idea.",
+        "is_correct": true
+      },
+      {
+        "text": "Pause after After, then pause again after the class.",
+        "is_correct": false
+      },
+      {
+        "text": "Pause after planted, separating the action from six seedlings.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A brief pause after the opening time phrase keeps the rest of the idea together.",
+      "hint": "Keep words together when they tell who acted and what they did."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LY04-P-002",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY04",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "use_a_comma_direct",
+    "question": "How should a reader treat the comma in ‘Before the rain, we packed the tent’ ?",
+    "audio_prompt": "How should a reader treat the comma in ‘Before the rain, we packed the tent’ ?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Use a full-stop pause after rain, as if the idea has ended.",
+        "is_correct": false
+      },
+      {
+        "text": "Make a short pause after rain, then continue smoothly.",
+        "is_correct": true
+      },
+      {
+        "text": "Read straight through rain without marking the phrase break.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A comma often guides a brief pause between meaningful parts.",
+      "hint": "Use punctuation to shape phrasing without breaking the meaning."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 2,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LY04-P-003",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY04",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "monitor_meaning_direct",
+    "question": "A reader says, ‘The rabbit sailed on a carrot,’ but the printed word is nibbled. What should the reader do?",
+    "audio_prompt": "A reader says, ‘The rabbit sailed on a carrot,’ but the printed word is nibbled. What should the reader do?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Keep reading and hope the next sentence makes sailed fit.",
+        "is_correct": false
+      },
+      {
+        "text": "Change sailed to hopped because it makes sense, without checking the letters.",
+        "is_correct": false
+      },
+      {
+        "text": "Stop, reread and check the letters and sentence meaning.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Rereading and checking print plus meaning helps repair the misread word.",
+      "hint": "A correction must fit both the letters and the sentence."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 3,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LY04-P-004",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY04",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "check_a_vowel_pattern_direct",
+    "question": "The sentence says, ‘We sailed the boat.’ A reader first says boot for boat. Which clue helps correct it?",
+    "audio_prompt": "The sentence says, ‘We sailed the boat.’ A reader first says boot for boat. Which clue helps correct it?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The oa pattern and the meaning of sailing both point to boat.",
+        "is_correct": true
+      },
+      {
+        "text": "The picture alone proves every word.",
+        "is_correct": false
+      },
+      {
+        "text": "Any word beginning with b will fit.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The letters oa and the sentence meaning work together to confirm boat.",
+      "hint": "Check the whole grapheme pattern as well as meaning."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 4,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LY04-P-005",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY04",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "fluency_is_not_racing_direct",
+    "question": "Taj reads very fast, skips three words and cannot explain the sentence. What should he improve first?",
+    "audio_prompt": "Taj reads very fast, skips three words and cannot explain the sentence. What should he improve first?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "speed, even if more words are missed",
+        "is_correct": false
+      },
+      {
+        "text": "accuracy, phrasing and attention to meaning",
+        "is_correct": true
+      },
+      {
+        "text": "volume, while ignoring the printed words",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Fluent reading combines accurate words, meaningful phrasing and understanding.",
+      "hint": "Fast reading is not useful when words or meaning are lost."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 5,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LY04-P-006",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY04",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "read_dialogue_with_expression_direct",
+    "question": "The character calls, ‘Wait for me!’ Which reading best matches the punctuation and meaning?",
+    "audio_prompt": "The character calls, ‘Wait for me!’ Which reading best matches the punctuation and meaning?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Use a quiet, calm tone because the line is short.",
+        "is_correct": false
+      },
+      {
+        "text": "Use an excited tone but pause after each word as separate ideas.",
+        "is_correct": false
+      },
+      {
+        "text": "Use an urgent tone with clear emphasis on wait.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "An urgent tone and emphasis communicate the character's call.",
+      "hint": "Let the words and punctuation guide the voice."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 6,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LY04-P-007",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY04",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "self_correct_independently_direct",
+    "question": "A reader notices ‘The puppy chased its tail’ does not match what she said. What is the best next action?",
+    "audio_prompt": "A reader notices ‘The puppy chased its tail’ does not match what she said. What is the best next action?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Go back, reread the sentence and fix the mismatched word.",
+        "is_correct": true
+      },
+      {
+        "text": "Check only the picture and change the word without rereading.",
+        "is_correct": false
+      },
+      {
+        "text": "Keep reading and wait to see whether someone corrects it later.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Returning to the print and repairing the error shows self-correction.",
+      "hint": "Strong readers respond when what they say does not make sense."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 7,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LY04-P-008",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY04",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "use_a_full_stop_direct",
+    "question": "How should a reader respond to the full stop in ‘The bell rang. Everyone lined up.’ ?",
+    "audio_prompt": "How should a reader respond to the full stop in ‘The bell rang. Everyone lined up.’ ?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Use only a tiny comma pause and run the ideas together.",
+        "is_correct": false
+      },
+      {
+        "text": "Finish the first idea, pause, then begin the next sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "Pause after rang, then restart from The bell rang again.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The full stop marks the end of one complete idea before the next begins.",
+      "hint": "Let sentence-ending punctuation guide a natural pause."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 8,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LY04-P-009",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY04",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "decode_a_longer_word_direct",
+    "question": "A reader meets shimmered. Which approach uses word knowledge well?",
+    "audio_prompt": "A reader meets shimmered. Which approach uses word knowledge well?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Use the first letters sh and guess shivered.",
+        "is_correct": false
+      },
+      {
+        "text": "Read shimmer but leave off ed because the base is familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Read the known part shimmer, then add the ending ed.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Recognising the base and suffix reduces the longer word into useful parts.",
+      "hint": "Look for a familiar word inside the longer form."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 9,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LY04-P-010",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY04",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "read_character_speech_direct",
+    "question": "The line says, ‘I found it,’ whispered Chen. Which reading suits the dialogue tag?",
+    "audio_prompt": "The line says, ‘I found it,’ whispered Chen. Which reading suits the dialogue tag?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Use a quiet voice while keeping the words clear.",
+        "is_correct": true
+      },
+      {
+        "text": "Use a loud, excited voice because Chen found something.",
+        "is_correct": false
+      },
+      {
+        "text": "Use a normal speaking voice because dialogue tags do not guide volume.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The verb whispered guides a quiet but understandable delivery.",
+      "hint": "Use the dialogue tag to choose tone and volume."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 10,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LY04-P-011",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY04",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "phrase_a_sentence_explain",
+    "question": "Which reading sounds natural for the sentence ‘After lunch the class planted six seedlings’ ? Why is “Pause briefly after lunch, then read the rest as one smooth idea.” the best answer?",
+    "audio_prompt": "Which reading sounds natural for the sentence ‘After lunch the class planted six seedlings’ ? Why is “Pause briefly after lunch, then read the rest as one smooth idea.” the best answer?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is best only because it is longer than “Pause after After, then pause again after the class.”.",
+        "is_correct": false
+      },
+      {
+        "text": "A brief pause after the opening time phrase keeps the rest of the idea together.",
+        "is_correct": true
+      },
+      {
+        "text": "It is best because the details in the situation do not matter.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A brief pause after the opening time phrase keeps the rest of the idea together.",
+      "hint": "Keep words together when they tell who acted and what they did."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 11,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LY04-P-012",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY04",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "use_a_comma_explain",
+    "question": "How should a reader treat the comma in ‘Before the rain, we packed the tent’ ? Why is “Make a short pause after rain, then continue smoothly.” the best answer?",
+    "audio_prompt": "How should a reader treat the comma in ‘Before the rain, we packed the tent’ ? Why is “Make a short pause after rain, then continue smoothly.” the best answer?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is best only because it is longer than “Use a full-stop pause after rain, as if the idea has ended.”.",
+        "is_correct": false
+      },
+      {
+        "text": "It is best because the details in the situation do not matter.",
+        "is_correct": false
+      },
+      {
+        "text": "A comma often guides a brief pause between meaningful parts.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A comma often guides a brief pause between meaningful parts.",
+      "hint": "Use punctuation to shape phrasing without breaking the meaning."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 12,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LY04-P-013",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY04",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "monitor_meaning_explain",
+    "question": "A reader says, ‘The rabbit sailed on a carrot,’ but the printed word is nibbled. What should the reader do? Why is “Stop, reread and check the letters and sentence meaning.” the best answer?",
+    "audio_prompt": "A reader says, ‘The rabbit sailed on a carrot,’ but the printed word is nibbled. What should the reader do? Why is “Stop, reread and check the letters and sentence meaning.” the best answer?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Rereading and checking print plus meaning helps repair the misread word.",
+        "is_correct": true
+      },
+      {
+        "text": "It is best only because it is longer than “Keep reading and hope the next sentence makes sailed fit.”.",
+        "is_correct": false
+      },
+      {
+        "text": "It is best because the details in the situation do not matter.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Rereading and checking print plus meaning helps repair the misread word.",
+      "hint": "A correction must fit both the letters and the sentence."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 13,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LY04-P-014",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY04",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "check_a_vowel_pattern_explain",
+    "question": "The sentence says, ‘We sailed the boat.’ A reader first says boot for boat. Which clue helps correct it? Why is “The oa pattern and the meaning of sailing both point to boat.” the best answer?",
+    "audio_prompt": "The sentence says, ‘We sailed the boat.’ A reader first says boot for boat. Which clue helps correct it? Why is “The oa pattern and the meaning of sailing both point to boat.” the best answer?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is best only because it is longer than “The picture alone proves every word.”.",
+        "is_correct": false
+      },
+      {
+        "text": "The letters oa and the sentence meaning work together to confirm boat.",
+        "is_correct": true
+      },
+      {
+        "text": "It is best because the details in the situation do not matter.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The letters oa and the sentence meaning work together to confirm boat.",
+      "hint": "Check the whole grapheme pattern as well as meaning."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 14,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LY04-P-015",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY04",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "fluency_is_not_racing_explain",
+    "question": "Taj reads very fast, skips three words and cannot explain the sentence. What should he improve first? Why is “accuracy, phrasing and attention to meaning” the best answer?",
+    "audio_prompt": "Taj reads very fast, skips three words and cannot explain the sentence. What should he improve first? Why is “accuracy, phrasing and attention to meaning” the best answer?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is best only because it is longer than “speed, even if more words are missed”.",
+        "is_correct": false
+      },
+      {
+        "text": "It is best because the details in the situation do not matter.",
+        "is_correct": false
+      },
+      {
+        "text": "Fluent reading combines accurate words, meaningful phrasing and understanding.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Fluent reading combines accurate words, meaningful phrasing and understanding.",
+      "hint": "Fast reading is not useful when words or meaning are lost."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 15,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LY04-P-016",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY04",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "read_dialogue_with_expression_explain",
+    "question": "The character calls, ‘Wait for me!’ Which reading best matches the punctuation and meaning? Why is “Use an urgent tone with clear emphasis on wait.” the best answer?",
+    "audio_prompt": "The character calls, ‘Wait for me!’ Which reading best matches the punctuation and meaning? Why is “Use an urgent tone with clear emphasis on wait.” the best answer?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "An urgent tone and emphasis communicate the character's call.",
+        "is_correct": true
+      },
+      {
+        "text": "It is best only because it is longer than “Use a quiet, calm tone because the line is short.”.",
+        "is_correct": false
+      },
+      {
+        "text": "It is best because the details in the situation do not matter.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "An urgent tone and emphasis communicate the character's call.",
+      "hint": "Let the words and punctuation guide the voice."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 16,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LY04-P-017",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY04",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "self_correct_independently_explain",
+    "question": "A reader notices ‘The puppy chased its tail’ does not match what she said. What is the best next action? Why is “Go back, reread the sentence and fix the mismatched word.” the best answer?",
+    "audio_prompt": "A reader notices ‘The puppy chased its tail’ does not match what she said. What is the best next action? Why is “Go back, reread the sentence and fix the mismatched word.” the best answer?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is best only because it is longer than “Check only the picture and change the word without rereading.”.",
+        "is_correct": false
+      },
+      {
+        "text": "Returning to the print and repairing the error shows self-correction.",
+        "is_correct": true
+      },
+      {
+        "text": "It is best because the details in the situation do not matter.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Returning to the print and repairing the error shows self-correction.",
+      "hint": "Strong readers respond when what they say does not make sense."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 17,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LY04-P-018",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY04",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "use_a_full_stop_explain",
+    "question": "How should a reader respond to the full stop in ‘The bell rang. Everyone lined up.’ ? Why is “Finish the first idea, pause, then begin the next sentence.” the best answer?",
+    "audio_prompt": "How should a reader respond to the full stop in ‘The bell rang. Everyone lined up.’ ? Why is “Finish the first idea, pause, then begin the next sentence.” the best answer?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is best only because it is longer than “Use only a tiny comma pause and run the ideas together.”.",
+        "is_correct": false
+      },
+      {
+        "text": "It is best because the details in the situation do not matter.",
+        "is_correct": false
+      },
+      {
+        "text": "The full stop marks the end of one complete idea before the next begins.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The full stop marks the end of one complete idea before the next begins.",
+      "hint": "Let sentence-ending punctuation guide a natural pause."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 18,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LY04-P-019",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY04",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "decode_a_longer_word_explain",
+    "question": "A reader meets shimmered. Which approach uses word knowledge well? Why is “Read the known part shimmer, then add the ending ed.” the best answer?",
+    "audio_prompt": "A reader meets shimmered. Which approach uses word knowledge well? Why is “Read the known part shimmer, then add the ending ed.” the best answer?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Recognising the base and suffix reduces the longer word into useful parts.",
+        "is_correct": true
+      },
+      {
+        "text": "It is best only because it is longer than “Use the first letters sh and guess shivered.”.",
+        "is_correct": false
+      },
+      {
+        "text": "It is best because the details in the situation do not matter.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Recognising the base and suffix reduces the longer word into useful parts.",
+      "hint": "Look for a familiar word inside the longer form."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 19,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LY04-P-020",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY04",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "read_character_speech_explain",
+    "question": "The line says, ‘I found it,’ whispered Chen. Which reading suits the dialogue tag? Why is “Use a quiet voice while keeping the words clear.” the best answer?",
+    "audio_prompt": "The line says, ‘I found it,’ whispered Chen. Which reading suits the dialogue tag? Why is “Use a quiet voice while keeping the words clear.” the best answer?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is best only because it is longer than “Use a loud, excited voice because Chen found something.”.",
+        "is_correct": false
+      },
+      {
+        "text": "The verb whispered guides a quiet but understandable delivery.",
+        "is_correct": true
+      },
+      {
+        "text": "It is best because the details in the situation do not matter.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The verb whispered guides a quiet but understandable delivery.",
+      "hint": "Use the dialogue tag to choose tone and volume."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 20,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LY04-P-021",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY04",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "monitor_meaning_discriminate",
+    "question": "A reader says, ‘The rabbit sailed on a carrot,’ but the printed word is nibbled. What should the reader do? Which response is the clearest mix-up to avoid?",
+    "audio_prompt": "A reader says, ‘The rabbit sailed on a carrot,’ but the printed word is nibbled. What should the reader do? Which response is the clearest mix-up to avoid?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Stop, reread and check the letters and sentence meaning.",
+        "is_correct": false
+      },
+      {
+        "text": "Change sailed to hopped because it makes sense, without checking the letters.",
+        "is_correct": false
+      },
+      {
+        "text": "Keep reading and hope the next sentence makes sailed fit.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "“Keep reading and hope the next sentence makes sailed fit.” is the mix-up to avoid. A correction must fit both the letters and the sentence.",
+      "hint": "A correction must fit both the letters and the sentence."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 21,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LY04-P-022",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY04",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "check_a_vowel_pattern_discriminate",
+    "question": "The sentence says, ‘We sailed the boat.’ A reader first says boot for boat. Which clue helps correct it? Which response is the clearest mix-up to avoid?",
+    "audio_prompt": "The sentence says, ‘We sailed the boat.’ A reader first says boot for boat. Which clue helps correct it? Which response is the clearest mix-up to avoid?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The picture alone proves every word.",
+        "is_correct": true
+      },
+      {
+        "text": "The oa pattern and the meaning of sailing both point to boat.",
+        "is_correct": false
+      },
+      {
+        "text": "Any word beginning with b will fit.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "“The picture alone proves every word.” is the mix-up to avoid. Check the whole grapheme pattern as well as meaning.",
+      "hint": "Check the whole grapheme pattern as well as meaning."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 22,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LY04-P-023",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY04",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "fluency_is_not_racing_discriminate",
+    "question": "Taj reads very fast, skips three words and cannot explain the sentence. What should he improve first? Which response is the clearest mix-up to avoid?",
+    "audio_prompt": "Taj reads very fast, skips three words and cannot explain the sentence. What should he improve first? Which response is the clearest mix-up to avoid?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "accuracy, phrasing and attention to meaning",
+        "is_correct": false
+      },
+      {
+        "text": "speed, even if more words are missed",
+        "is_correct": true
+      },
+      {
+        "text": "volume, while ignoring the printed words",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "“speed, even if more words are missed” is the mix-up to avoid. Fast reading is not useful when words or meaning are lost.",
+      "hint": "Fast reading is not useful when words or meaning are lost."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 23,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LY04-P-024",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY04",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "read_dialogue_with_expression_discriminate",
+    "question": "The character calls, ‘Wait for me!’ Which reading best matches the punctuation and meaning? Which response is the clearest mix-up to avoid?",
+    "audio_prompt": "The character calls, ‘Wait for me!’ Which reading best matches the punctuation and meaning? Which response is the clearest mix-up to avoid?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Use an urgent tone with clear emphasis on wait.",
+        "is_correct": false
+      },
+      {
+        "text": "Use an excited tone but pause after each word as separate ideas.",
+        "is_correct": false
+      },
+      {
+        "text": "Use a quiet, calm tone because the line is short.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "“Use a quiet, calm tone because the line is short.” is the mix-up to avoid. Let the words and punctuation guide the voice.",
+      "hint": "Let the words and punctuation guide the voice."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 24,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LY04-P-025",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY04",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "self_correct_independently_discriminate",
+    "question": "A reader notices ‘The puppy chased its tail’ does not match what she said. What is the best next action? Which response is the clearest mix-up to avoid?",
+    "audio_prompt": "A reader notices ‘The puppy chased its tail’ does not match what she said. What is the best next action? Which response is the clearest mix-up to avoid?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Check only the picture and change the word without rereading.",
+        "is_correct": true
+      },
+      {
+        "text": "Go back, reread the sentence and fix the mismatched word.",
+        "is_correct": false
+      },
+      {
+        "text": "Keep reading and wait to see whether someone corrects it later.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "“Check only the picture and change the word without rereading.” is the mix-up to avoid. Strong readers respond when what they say does not make sense.",
+      "hint": "Strong readers respond when what they say does not make sense."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 25,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LY04-P-026",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY04",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "use_a_full_stop_discriminate",
+    "question": "How should a reader respond to the full stop in ‘The bell rang. Everyone lined up.’ ? Which response is the clearest mix-up to avoid?",
+    "audio_prompt": "How should a reader respond to the full stop in ‘The bell rang. Everyone lined up.’ ? Which response is the clearest mix-up to avoid?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Finish the first idea, pause, then begin the next sentence.",
+        "is_correct": false
+      },
+      {
+        "text": "Use only a tiny comma pause and run the ideas together.",
+        "is_correct": true
+      },
+      {
+        "text": "Pause after rang, then restart from The bell rang again.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "“Use only a tiny comma pause and run the ideas together.” is the mix-up to avoid. Let sentence-ending punctuation guide a natural pause.",
+      "hint": "Let sentence-ending punctuation guide a natural pause."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 26,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LY04-P-027",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY04",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "decode_a_longer_word_discriminate",
+    "question": "A reader meets shimmered. Which approach uses word knowledge well? Which response is the clearest mix-up to avoid?",
+    "audio_prompt": "A reader meets shimmered. Which approach uses word knowledge well? Which response is the clearest mix-up to avoid?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Read the known part shimmer, then add the ending ed.",
+        "is_correct": false
+      },
+      {
+        "text": "Read shimmer but leave off ed because the base is familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Use the first letters sh and guess shivered.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "“Use the first letters sh and guess shivered.” is the mix-up to avoid. Look for a familiar word inside the longer form.",
+      "hint": "Look for a familiar word inside the longer form."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 27,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LY04-P-028",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY04",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "read_character_speech_discriminate",
+    "question": "The line says, ‘I found it,’ whispered Chen. Which reading suits the dialogue tag? Which response is the clearest mix-up to avoid?",
+    "audio_prompt": "The line says, ‘I found it,’ whispered Chen. Which reading suits the dialogue tag? Which response is the clearest mix-up to avoid?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Use a loud, excited voice because Chen found something.",
+        "is_correct": true
+      },
+      {
+        "text": "Use a quiet voice while keeping the words clear.",
+        "is_correct": false
+      },
+      {
+        "text": "Use a normal speaking voice because dialogue tags do not guide volume.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "“Use a loud, excited voice because Chen found something.” is the mix-up to avoid. Use the dialogue tag to choose tone and volume.",
+      "hint": "Use the dialogue tag to choose tone and volume."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 28,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LY04-P-029",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY04",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "check_two_possible_words_discriminate",
+    "question": "A reader says, ‘We followed the forest train,’ but the printed word is trail. What should the reader compare? Which response is the clearest mix-up to avoid?",
+    "audio_prompt": "A reader says, ‘We followed the forest train,’ but the printed word is trail. What should the reader compare? Which response is the clearest mix-up to avoid?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "the final letter and which word makes sense in the sentence",
+        "is_correct": false
+      },
+      {
+        "text": "only the shared first letters in trail and train",
+        "is_correct": true
+      },
+      {
+        "text": "only which object appears in the nearby picture",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "“only the shared first letters in trail and train” is the mix-up to avoid. Use complete print information and context together.",
+      "hint": "Use complete print information and context together."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 29,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LY04-P-030",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY04",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "phrase_a_list_discriminate",
+    "question": "How should ‘We packed hats, water and maps’ be phrased? Which response is the clearest mix-up to avoid?",
+    "audio_prompt": "How should ‘We packed hats, water and maps’ be phrased? Which response is the clearest mix-up to avoid?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Keep each listed item clear, with brief pauses at the comma and before the last item.",
+        "is_correct": false
+      },
+      {
+        "text": "Treat the whole list as one phrase with no change at the comma.",
+        "is_correct": false
+      },
+      {
+        "text": "Pause after hats but run water and maps into one unclear item.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "“Pause after hats but run water and maps into one unclear item.” is the mix-up to avoid. Use list punctuation to group rather than chop the sentence.",
+      "hint": "Use list punctuation to group rather than chop the sentence."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 30,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LY04-P-031",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY04",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "monitor_meaning_apply",
+    "question": "Use this clue: A correction must fit both the letters and the sentence. A reader says, ‘The rabbit sailed on a carrot,’ but the printed word is nibbled. What should the reader do?",
+    "audio_prompt": "Use this clue: A correction must fit both the letters and the sentence. A reader says, ‘The rabbit sailed on a carrot,’ but the printed word is nibbled. What should the reader do?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Stop, reread and check the letters and sentence meaning.",
+        "is_correct": true
+      },
+      {
+        "text": "Change sailed to hopped because it makes sense, without checking the letters.",
+        "is_correct": false
+      },
+      {
+        "text": "Keep reading and hope the next sentence makes sailed fit.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Rereading and checking print plus meaning helps repair the misread word.",
+      "hint": "Use the clue first, then check which response fits the exact people, purpose, text or language feature in the example."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 31,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LY04-P-032",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY04",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "check_a_vowel_pattern_apply",
+    "question": "Use this clue: Check the whole grapheme pattern as well as meaning. The sentence says, ‘We sailed the boat.’ A reader first says boot for boat. Which clue helps correct it?",
+    "audio_prompt": "Use this clue: Check the whole grapheme pattern as well as meaning. The sentence says, ‘We sailed the boat.’ A reader first says boot for boat. Which clue helps correct it?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Any word beginning with b will fit.",
+        "is_correct": false
+      },
+      {
+        "text": "The oa pattern and the meaning of sailing both point to boat.",
+        "is_correct": true
+      },
+      {
+        "text": "The picture alone proves every word.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The letters oa and the sentence meaning work together to confirm boat.",
+      "hint": "Use the clue first, then check which response fits the exact people, purpose, text or language feature in the example."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 32,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LY04-P-033",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY04",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "fluency_is_not_racing_apply",
+    "question": "Use this clue: Fast reading is not useful when words or meaning are lost. Taj reads very fast, skips three words and cannot explain the sentence. What should he improve first?",
+    "audio_prompt": "Use this clue: Fast reading is not useful when words or meaning are lost. Taj reads very fast, skips three words and cannot explain the sentence. What should he improve first?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "volume, while ignoring the printed words",
+        "is_correct": false
+      },
+      {
+        "text": "speed, even if more words are missed",
+        "is_correct": false
+      },
+      {
+        "text": "accuracy, phrasing and attention to meaning",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Fluent reading combines accurate words, meaningful phrasing and understanding.",
+      "hint": "Use the clue first, then check which response fits the exact people, purpose, text or language feature in the example."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 33,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LY04-P-034",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY04",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "read_dialogue_with_expression_apply",
+    "question": "Use this clue: Let the words and punctuation guide the voice. The character calls, ‘Wait for me!’ Which reading best matches the punctuation and meaning?",
+    "audio_prompt": "Use this clue: Let the words and punctuation guide the voice. The character calls, ‘Wait for me!’ Which reading best matches the punctuation and meaning?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Use an urgent tone with clear emphasis on wait.",
+        "is_correct": true
+      },
+      {
+        "text": "Use an excited tone but pause after each word as separate ideas.",
+        "is_correct": false
+      },
+      {
+        "text": "Use a quiet, calm tone because the line is short.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "An urgent tone and emphasis communicate the character's call.",
+      "hint": "Use the clue first, then check which response fits the exact people, purpose, text or language feature in the example."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 34,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LY04-P-035",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY04",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "self_correct_independently_apply",
+    "question": "Use this clue: Strong readers respond when what they say does not make sense. A reader notices ‘The puppy chased its tail’ does not match what she said. What is the best next action?",
+    "audio_prompt": "Use this clue: Strong readers respond when what they say does not make sense. A reader notices ‘The puppy chased its tail’ does not match what she said. What is the best next action?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Keep reading and wait to see whether someone corrects it later.",
+        "is_correct": false
+      },
+      {
+        "text": "Go back, reread the sentence and fix the mismatched word.",
+        "is_correct": true
+      },
+      {
+        "text": "Check only the picture and change the word without rereading.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Returning to the print and repairing the error shows self-correction.",
+      "hint": "Use the clue first, then check which response fits the exact people, purpose, text or language feature in the example."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 35,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LY04-P-036",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY04",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "use_a_full_stop_apply",
+    "question": "Use this clue: Let sentence-ending punctuation guide a natural pause. How should a reader respond to the full stop in ‘The bell rang. Everyone lined up.’ ?",
+    "audio_prompt": "Use this clue: Let sentence-ending punctuation guide a natural pause. How should a reader respond to the full stop in ‘The bell rang. Everyone lined up.’ ?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Pause after rang, then restart from The bell rang again.",
+        "is_correct": false
+      },
+      {
+        "text": "Use only a tiny comma pause and run the ideas together.",
+        "is_correct": false
+      },
+      {
+        "text": "Finish the first idea, pause, then begin the next sentence.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The full stop marks the end of one complete idea before the next begins.",
+      "hint": "Use the clue first, then check which response fits the exact people, purpose, text or language feature in the example."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 36,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LY04-P-037",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY04",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "decode_a_longer_word_apply",
+    "question": "Use this clue: Look for a familiar word inside the longer form. A reader meets shimmered. Which approach uses word knowledge well?",
+    "audio_prompt": "Use this clue: Look for a familiar word inside the longer form. A reader meets shimmered. Which approach uses word knowledge well?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Read the known part shimmer, then add the ending ed.",
+        "is_correct": true
+      },
+      {
+        "text": "Read shimmer but leave off ed because the base is familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Use the first letters sh and guess shivered.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Recognising the base and suffix reduces the longer word into useful parts.",
+      "hint": "Use the clue first, then check which response fits the exact people, purpose, text or language feature in the example."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 37,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LY04-P-038",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY04",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "read_character_speech_apply",
+    "question": "Use this clue: Use the dialogue tag to choose tone and volume. The line says, ‘I found it,’ whispered Chen. Which reading suits the dialogue tag?",
+    "audio_prompt": "Use this clue: Use the dialogue tag to choose tone and volume. The line says, ‘I found it,’ whispered Chen. Which reading suits the dialogue tag?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Use a normal speaking voice because dialogue tags do not guide volume.",
+        "is_correct": false
+      },
+      {
+        "text": "Use a quiet voice while keeping the words clear.",
+        "is_correct": true
+      },
+      {
+        "text": "Use a loud, excited voice because Chen found something.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The verb whispered guides a quiet but understandable delivery.",
+      "hint": "Use the clue first, then check which response fits the exact people, purpose, text or language feature in the example."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 38,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LY04-P-039",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY04",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "check_two_possible_words_apply",
+    "question": "Use this clue: Use complete print information and context together. A reader says, ‘We followed the forest train,’ but the printed word is trail. What should the reader compare?",
+    "audio_prompt": "Use this clue: Use complete print information and context together. A reader says, ‘We followed the forest train,’ but the printed word is trail. What should the reader compare?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "only which object appears in the nearby picture",
+        "is_correct": false
+      },
+      {
+        "text": "only the shared first letters in trail and train",
+        "is_correct": false
+      },
+      {
+        "text": "the final letter and which word makes sense in the sentence",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The final letter plus sentence meaning distinguish trail from train.",
+      "hint": "Use the clue first, then check which response fits the exact people, purpose, text or language feature in the example."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 39,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LY04-P-040",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY04",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "phrase_a_list_apply",
+    "question": "Use this clue: Use list punctuation to group rather than chop the sentence. How should ‘We packed hats, water and maps’ be phrased?",
+    "audio_prompt": "Use this clue: Use list punctuation to group rather than chop the sentence. How should ‘We packed hats, water and maps’ be phrased?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Keep each listed item clear, with brief pauses at the comma and before the last item.",
+        "is_correct": true
+      },
+      {
+        "text": "Treat the whole list as one phrase with no change at the comma.",
+        "is_correct": false
+      },
+      {
+        "text": "Pause after hats but run water and maps into one unclear item.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Natural brief pauses help listeners hear the separate items.",
+      "hint": "Use the clue first, then check which response fits the exact people, purpose, text or language feature in the example."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 40,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LY04-T-001",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY04",
+    "bank": "test",
+    "stage": "verify",
+    "skill": "test_question_punctuation_direct",
+    "question": "How should ‘Where did the silver key go?’ be read?",
+    "audio_prompt": "How should ‘Where did the silver key go?’ be read?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "as one smooth question with the voice lifting naturally at the end",
+        "is_correct": true
+      },
+      {
+        "text": "as a flat statement with the voice dropping at the end",
+        "is_correct": false
+      },
+      {
+        "text": "as a question that pauses after key and rushes the final word",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The question mark and sentence meaning guide a natural questioning tone.",
+      "hint": "Identify the sentence type before choosing the voice."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 1,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LY04-T-002",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY04",
+    "bank": "test",
+    "stage": "verify",
+    "skill": "test_choose_phrase_breaks_direct",
+    "question": "Which reading sounds natural for ‘Under the old bridge, two ducks rested quietly’ ?",
+    "audio_prompt": "Which reading sounds natural for ‘Under the old bridge, two ducks rested quietly’ ?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Pause after Under, then pause again after two.",
+        "is_correct": false
+      },
+      {
+        "text": "Pause briefly after bridge, then read two ducks rested quietly together.",
+        "is_correct": true
+      },
+      {
+        "text": "Pause after old and after rested, breaking both ideas apart.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The opening place phrase stays together before a brief pause and the main idea.",
+      "hint": "Keep words together when they form one chunk of meaning."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 2,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LY04-T-003",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY04",
+    "bank": "test",
+    "stage": "verify",
+    "skill": "test_repair_with_context_direct",
+    "question": "A reader says, ‘The horse ate fresh house.’ Which word should be checked first?",
+    "audio_prompt": "A reader says, ‘The horse ate fresh house.’ Which word should be checked first?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "the, because it is the shortest word in the sentence",
+        "is_correct": false
+      },
+      {
+        "text": "horse, because the first content word should be checked first",
+        "is_correct": false
+      },
+      {
+        "text": "house, because it does not fit the sentence meaning",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "House makes the sentence nonsensical and may be a misreading of grass.",
+      "hint": "Notice the word that breaks the meaning, then check its letters."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 3,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LY04-T-004",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY04",
+    "bank": "test",
+    "stage": "verify",
+    "skill": "test_suitable_pace_direct",
+    "question": "A passage explains three steps for a science test. Which pace best supports listeners?",
+    "audio_prompt": "A passage explains three steps for a science test. Which pace best supports listeners?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "steady enough for each step to be understood",
+        "is_correct": true
+      },
+      {
+        "text": "so fast that step words run together",
+        "is_correct": false
+      },
+      {
+        "text": "so slow that every sound is separated from its word",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A steady pace helps the audience follow ordered information.",
+      "hint": "Match pace to clarity and the purpose of the passage."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 4,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LY04-T-005",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY04",
+    "bank": "test",
+    "stage": "verify",
+    "skill": "test_use_word_parts_direct",
+    "question": "A reader knows play and sees played. What can help read the longer word accurately?",
+    "audio_prompt": "A reader knows play and sees played. What can help read the longer word accurately?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Use the picture to guess played without checking all its letters.",
+        "is_correct": false
+      },
+      {
+        "text": "Read the known base play, then add the ending ed.",
+        "is_correct": true
+      },
+      {
+        "text": "Read the familiar base play and treat ed as a silent ending.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Recognising the base and ending supports accurate word reading.",
+      "hint": "Look for familiar word parts before guessing."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 5,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LY04-T-006",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY04",
+    "bank": "test",
+    "stage": "verify",
+    "skill": "test_repeated_reading_direct",
+    "question": "On a second reading, Mia fixes two errors and groups the words more smoothly. What does this show?",
+    "audio_prompt": "On a second reading, Mia fixes two errors and groups the words more smoothly. What does this show?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Her reading improved only because the second attempt was faster.",
+        "is_correct": false
+      },
+      {
+        "text": "Her phrasing improved, but correcting word errors is not part of fluency.",
+        "is_correct": false
+      },
+      {
+        "text": "Her accuracy and phrasing have improved.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Correcting errors and improving phrasing are signs of stronger fluency.",
+      "hint": "Compare the quality of the two readings, not just their speed."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 6,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LY04-T-007",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY04",
+    "bank": "test",
+    "stage": "verify",
+    "skill": "test_repair_a_final_consonant_direct",
+    "question": "A reader says, ‘The coat kept the fire warm,’ but the printed word is coal. Which check confirms the correction?",
+    "audio_prompt": "A reader says, ‘The coat kept the fire warm,’ but the printed word is coal. Which check confirms the correction?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Coal ends with l, and coal can keep a fire warm.",
+        "is_correct": true
+      },
+      {
+        "text": "Coat and coal begin with co, so either word must be correct.",
+        "is_correct": false
+      },
+      {
+        "text": "The fire picture decides the word without checking its final letter.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The final consonant and sentence meaning together confirm coal.",
+      "hint": "Check the part of the word that differs and test it in context."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 7,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LY04-T-008",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY04",
+    "bank": "test",
+    "stage": "verify",
+    "skill": "test_perform_a_suspense_line_direct",
+    "question": "The text says, ‘Slowly, the handle began to turn ...’ Which delivery best builds the meaning?",
+    "audio_prompt": "The text says, ‘Slowly, the handle began to turn ...’ Which delivery best builds the meaning?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Read slowly at first, then rush through began to turn.",
+        "is_correct": false
+      },
+      {
+        "text": "Read at a controlled slower pace and pause at the ending.",
+        "is_correct": true
+      },
+      {
+        "text": "Use an even, cheerful tone while pausing only after slowly.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A slower pace and final pause support the suspense created by the words.",
+      "hint": "Match pace and pause to the mood of the sentence."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 8,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LY04-T-009",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY04",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "test_question_punctuation_test-reason",
+    "question": "How should ‘Where did the silver key go?’ be read? Which reason best supports the correct choice?",
+    "audio_prompt": "How should ‘Where did the silver key go?’ be read? Which reason best supports the correct choice?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The correct choice is simply the most formal-sounding option.",
+        "is_correct": false
+      },
+      {
+        "text": "The correct choice works even if the situation and audience are ignored.",
+        "is_correct": false
+      },
+      {
+        "text": "The question mark and sentence meaning guide a natural questioning tone.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The question mark and sentence meaning guide a natural questioning tone.",
+      "hint": "Identify the sentence type before choosing the voice."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 9,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LY04-T-010",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY04",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "test_choose_phrase_breaks_test-reason",
+    "question": "Which reading sounds natural for ‘Under the old bridge, two ducks rested quietly’ ? Which reason best supports the correct choice?",
+    "audio_prompt": "Which reading sounds natural for ‘Under the old bridge, two ducks rested quietly’ ? Which reason best supports the correct choice?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The opening place phrase stays together before a brief pause and the main idea.",
+        "is_correct": true
+      },
+      {
+        "text": "The correct choice is simply the most formal-sounding option.",
+        "is_correct": false
+      },
+      {
+        "text": "The correct choice works even if the situation and audience are ignored.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The opening place phrase stays together before a brief pause and the main idea.",
+      "hint": "Keep words together when they form one chunk of meaning."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 10,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LY04-T-011",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY04",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "test_repair_with_context_test-reason",
+    "question": "A reader says, ‘The horse ate fresh house.’ Which word should be checked first? Which reason best supports the correct choice?",
+    "audio_prompt": "A reader says, ‘The horse ate fresh house.’ Which word should be checked first? Which reason best supports the correct choice?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The correct choice is simply the most formal-sounding option.",
+        "is_correct": false
+      },
+      {
+        "text": "House makes the sentence nonsensical and may be a misreading of grass.",
+        "is_correct": true
+      },
+      {
+        "text": "The correct choice works even if the situation and audience are ignored.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "House makes the sentence nonsensical and may be a misreading of grass.",
+      "hint": "Notice the word that breaks the meaning, then check its letters."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 11,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LY04-T-012",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY04",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "test_suitable_pace_test-reason",
+    "question": "A passage explains three steps for a science test. Which pace best supports listeners? Which reason best supports the correct choice?",
+    "audio_prompt": "A passage explains three steps for a science test. Which pace best supports listeners? Which reason best supports the correct choice?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The correct choice is simply the most formal-sounding option.",
+        "is_correct": false
+      },
+      {
+        "text": "The correct choice works even if the situation and audience are ignored.",
+        "is_correct": false
+      },
+      {
+        "text": "A steady pace helps the audience follow ordered information.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A steady pace helps the audience follow ordered information.",
+      "hint": "Match pace to clarity and the purpose of the passage."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 12,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LY04-T-013",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY04",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "test_use_word_parts_test-reason",
+    "question": "A reader knows play and sees played. What can help read the longer word accurately? Which reason best supports the correct choice?",
+    "audio_prompt": "A reader knows play and sees played. What can help read the longer word accurately? Which reason best supports the correct choice?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Recognising the base and ending supports accurate word reading.",
+        "is_correct": true
+      },
+      {
+        "text": "The correct choice is simply the most formal-sounding option.",
+        "is_correct": false
+      },
+      {
+        "text": "The correct choice works even if the situation and audience are ignored.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Recognising the base and ending supports accurate word reading.",
+      "hint": "Look for familiar word parts before guessing."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 13,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LY04-T-014",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY04",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "test_repeated_reading_test-reason",
+    "question": "On a second reading, Mia fixes two errors and groups the words more smoothly. What does this show? Which reason best supports the correct choice?",
+    "audio_prompt": "On a second reading, Mia fixes two errors and groups the words more smoothly. What does this show? Which reason best supports the correct choice?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The correct choice is simply the most formal-sounding option.",
+        "is_correct": false
+      },
+      {
+        "text": "Correcting errors and improving phrasing are signs of stronger fluency.",
+        "is_correct": true
+      },
+      {
+        "text": "The correct choice works even if the situation and audience are ignored.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Correcting errors and improving phrasing are signs of stronger fluency.",
+      "hint": "Compare the quality of the two readings, not just their speed."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 14,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LY04-T-015",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY04",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "test_repair_a_final_consonant_test-reason",
+    "question": "A reader says, ‘The coat kept the fire warm,’ but the printed word is coal. Which check confirms the correction? Which reason best supports the correct choice?",
+    "audio_prompt": "A reader says, ‘The coat kept the fire warm,’ but the printed word is coal. Which check confirms the correction? Which reason best supports the correct choice?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The correct choice is simply the most formal-sounding option.",
+        "is_correct": false
+      },
+      {
+        "text": "The correct choice works even if the situation and audience are ignored.",
+        "is_correct": false
+      },
+      {
+        "text": "The final consonant and sentence meaning together confirm coal.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The final consonant and sentence meaning together confirm coal.",
+      "hint": "Check the part of the word that differs and test it in context."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 15,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LY04-T-016",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY04",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "test_perform_a_suspense_line_test-reason",
+    "question": "The text says, ‘Slowly, the handle began to turn ...’ Which delivery best builds the meaning? Which reason best supports the correct choice?",
+    "audio_prompt": "The text says, ‘Slowly, the handle began to turn ...’ Which delivery best builds the meaning? Which reason best supports the correct choice?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A slower pace and final pause support the suspense created by the words.",
+        "is_correct": true
+      },
+      {
+        "text": "The correct choice is simply the most formal-sounding option.",
+        "is_correct": false
+      },
+      {
+        "text": "The correct choice works even if the situation and audience are ignored.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A slower pace and final pause support the suspense created by the words.",
+      "hint": "Match pace and pause to the mood of the sentence."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 16,
+    "quality_schema": "student-facing-v3"
+  }
+]

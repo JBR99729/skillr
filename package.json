@@ -1,0 +1,26 @@
+{
+  "name": "skillr",
+  "version": "1.0.0",
+  "description": "This repo includes automatic sitemap generation based on tracked HTML pages.",
+  "main": "pwa-register.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JBR99729/skillr.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/JBR99729/skillr/issues"
+  },
+  "homepage": "https://github.com/JBR99729/skillr#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.62.1",
+    "@types/node": "^26.2.0"
+  }
+}

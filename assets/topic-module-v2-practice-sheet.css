@@ -1,0 +1,21 @@
+body{margin:0;background:#e9eff7;color:#203047;font:14px/1.35 Inter,system-ui,sans-serif}.tmv2-sheet-shell{max-width:900px;margin:auto}.tmv2-screen-nav{display:flex;flex-wrap:wrap;gap:8px;align-items:center;padding:12px}.tmv2-screen-nav a,.tmv2-screen-nav button{border:0;border-radius:8px;padding:9px 12px;background:#173968;color:#fff;text-decoration:none;font-weight:850;cursor:pointer}.tmv2-screen-nav .tmv2-sheet-tab{background:#dce9fb;color:#173968}.tmv2-screen-nav .tmv2-sheet-tab[aria-current="page"]{background:#2457d6;color:#fff;box-shadow:0 0 0 2px #fff,0 0 0 4px #2457d6}.tmv2-paper{margin:0 0 18px;padding:15mm;min-height:250mm;background:#fff;border:1px solid #cbd9ec;box-shadow:0 8px 24px #17396818}.tmv2-paper>header{border-bottom:3px solid #2457d6}.tmv2-paper>header div{display:flex;align-items:center;gap:9px;font-size:1.2rem}.tmv2-paper>header strong{color:#2457d6}.tmv2-paper>header span{color:#173968}.tmv2-paper h1{margin:.35rem 0}.tmv2-topic-title{font-weight:750;color:#49627f}.tmv2-tier{break-inside:avoid}.tmv2-tier h2{padding:5px 8px;background:#eaf2ff;color:#173968;border-left:5px solid #2457d6;font-size:1rem}.tmv2-tier article{break-inside:avoid}.tmv2-tier h3{font-size:.9rem;margin:8px 0 3px}.tmv2-options{display:flex;align-items:stretch;gap:8px;margin:5px 0 2px}.tmv2-options>span{display:flex;align-items:center;gap:5px;min-width:0;flex:1;padding:5px 7px;border:1px solid #b9c8db;border-radius:6px}.tmv2-option-marker{display:inline-grid;place-items:center;flex:0 0 20px;height:20px;border:1px solid #6d819a;border-radius:50%;font-weight:800}.tmv2-lines{height:22px;border-bottom:1px solid #8191a5}.tmv2-tier:nth-of-type(4) .tmv2-lines{height:38px}.tmv2-answer-key{break-before:page}.tmv2-answer-key article{break-inside:avoid;border-bottom:1px solid #dce5ef;padding:5px 0}.tmv2-answer-key h3,.tmv2-answer-key p{font-size:.82rem;margin:3px 0}.tmv2-paper footer{margin-top:14px;padding-top:7px;border-top:1px solid #2457d6;color:#49627f;font-weight:750}@media(max-width:620px){.tmv2-options{flex-wrap:wrap}.tmv2-options>span{flex-basis:45%}}@media print{body{background:#fff}.tmv2-screen-nav{display:none}.tmv2-sheet-shell{max-width:none}.tmv2-paper{margin:0;border:0;box-shadow:none;page-break-after:always}.tmv2-options{display:flex;flex-wrap:nowrap}@page{size:A4;margin:0}}
+
+/* Tier sections may flow across pages, but each question stays intact. */
+.tmv2-tier{break-inside:auto}
+.tmv2-tier h2{break-after:avoid}
+.tmv2-lines{height:12mm;border:0;background:repeating-linear-gradient(to bottom,transparent 0,transparent 6.5mm,#a9b5c4 6.7mm,#a9b5c4 6.9mm)}
+.tmv2-tier:nth-of-type(2) .tmv2-lines{height:22mm}
+.tmv2-tier:nth-of-type(3) .tmv2-lines{height:36mm}
+.tmv2-tier[data-tier="1"] .tmv2-lines{height:12mm}
+.tmv2-tier[data-tier="2"] .tmv2-lines{height:22mm}
+.tmv2-tier[data-tier="3"] .tmv2-lines{height:36mm}
+.tmv2-answer-key{break-before:page;page-break-before:always}
+.tmv2-paper .footer-nav{display:flex;flex-wrap:wrap;gap:6px 12px;max-width:100%}
+.tmv2-paper .footer-nav a{white-space:normal}
+@media print{
+  .tmv2-paper{padding:12mm 14mm;min-height:0;overflow:visible}
+  .tmv2-answer-key{break-before:page;page-break-before:always}
+  .tmv2-answer-key article{break-inside:avoid;page-break-inside:avoid}
+  .tmv2-paper:last-child{page-break-after:auto}
+  .tmv2-paper .footer-nav,.tmv2-paper .skillr-footer-tools{display:none!important}
+}

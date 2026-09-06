@@ -1,0 +1,30 @@
+name: Validate Year 1 Maths static topic pages
+
+on:
+  pull_request:
+    paths:
+      - 'year1/maths/**'
+      - 'quiz/year-1/math/**'
+      - 'assets/curriculum.css'
+      - 'scripts/validate_year1_maths_static_topic_pages.mjs'
+      - '.github/workflows/validate-year1-maths-static-topic-pages.yml'
+  push:
+    branches: [ main ]
+    paths:
+      - 'year1/maths/**'
+      - 'quiz/year-1/math/**'
+      - 'assets/curriculum.css'
+      - 'scripts/validate_year1_maths_static_topic_pages.mjs'
+      - '.github/workflows/validate-year1-maths-static-topic-pages.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Validate Year 1 Maths static topic pages
+        run: node scripts/validate_year1_maths_static_topic_pages.mjs

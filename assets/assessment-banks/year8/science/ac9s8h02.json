@@ -1,0 +1,1418 @@
+[
+  {
+    "id": "AC9S8H02-P-001",
+    "subject": "science",
+    "year_level": "Year 8",
+    "curriculum_code": "AC9S8H02",
+    "bank": "practice",
+    "skill": "perspective_world_view",
+    "question": "During a class investigation, students observe: Aboriginal fire practitioners use detailed knowledge of season, wind, plants and Country when planning cool burns. What is the strongest reason to include practitioners in fire research?",
+    "audio_prompt": "During a class investigation, students observe: Aboriginal fire practitioners use detailed knowledge of season, wind, plants and Country when planning cool burns. What is the strongest reason to include practitioners in fire research?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year8/science/ac9s8h02.svg#ac9s8h02-p-001",
+      "alt_text": "World Views Shape Scientific Knowledge observation card stating: Aboriginal fire practitioners use detailed knowledge of season, wind, plants and Country when planning cool burns."
+    },
+    "answers": [
+      {
+        "text": "Their place-based knowledge can shape useful questions, methods and interpretation",
+        "is_correct": true
+      },
+      {
+        "text": "Cultural knowledge should be used only after scientists finish the research",
+        "is_correct": false
+      },
+      {
+        "text": "One fire practice can be copied unchanged to every ecosystem",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Respectful collaboration can connect long-term place-based knowledge with scientific investigation.",
+      "hint": "Consider who holds relevant knowledge of that Country."
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
+  },
+  {
+    "id": "AC9S8H02-P-002",
+    "subject": "science",
+    "year_level": "Year 8",
+    "curriculum_code": "AC9S8H02",
+    "bank": "practice",
+    "skill": "perspective_question_and_priority",
+    "question": "During a museum evidence display, students observe: Researchers want to publish knowledge that Traditional Owners identify as culturally restricted. What should the researchers do?",
+    "audio_prompt": "During a museum evidence display, students observe: Researchers want to publish knowledge that Traditional Owners identify as culturally restricted. What should the researchers do?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year8/science/ac9s8h02.svg#ac9s8h02-p-002",
+      "alt_text": "World Views Shape Scientific Knowledge observation card stating: Researchers want to publish knowledge that Traditional Owners identify as culturally restricted."
+    },
+    "answers": [
+      {
+        "text": "Publish it because all information collected by researchers is public",
+        "is_correct": false
+      },
+      {
+        "text": "Follow permissions and cultural protocols, including limits on recording or sharing",
+        "is_correct": true
+      },
+      {
+        "text": "Remove the Traditional Owners' names and publish it without asking",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Ethical collaboration respects Indigenous Cultural and Intellectual Property and community authority.",
+      "hint": "Consent covers how knowledge is used, not only how it is collected."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
+  },
+  {
+    "id": "AC9S8H02-P-003",
+    "subject": "science",
+    "year_level": "Year 8",
+    "curriculum_code": "AC9S8H02",
+    "bank": "practice",
+    "skill": "perspective_knowledge_practice",
+    "question": "During a field-team briefing, students observe: Engineers test why flexible bamboo buildings have survived repeated earthquakes in one region. How can cultural experience contribute to the investigation?",
+    "audio_prompt": "During a field-team briefing, students observe: Engineers test why flexible bamboo buildings have survived repeated earthquakes in one region. How can cultural experience contribute to the investigation?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year8/science/ac9s8h02.svg#ac9s8h02-p-003",
+      "alt_text": "World Views Shape Scientific Knowledge observation card stating: Engineers test why flexible bamboo buildings have survived repeated earthquakes in one region."
+    },
+    "answers": [
+      {
+        "text": "Traditional designs need no testing because age proves every claim",
+        "is_correct": false
+      },
+      {
+        "text": "Engineering tests make the cultural source irrelevant",
+        "is_correct": false
+      },
+      {
+        "text": "Long-term building practice can identify designs worth testing and explain local constraints",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Established practice can guide scientific questions while testing examines mechanisms and limits.",
+      "hint": "Value both the knowledge source and the evidence from testing."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
+  },
+  {
+    "id": "AC9S8H02-P-004",
+    "subject": "science",
+    "year_level": "Year 8",
+    "curriculum_code": "AC9S8H02",
+    "bank": "practice",
+    "skill": "perspective_collaboration",
+    "question": "During a laboratory notebook, students observe: A medical study recruits only adults from one city, although the treatment will be used nationally. How could researchers' assumptions affect the knowledge produced?",
+    "audio_prompt": "During a laboratory notebook, students observe: A medical study recruits only adults from one city, although the treatment will be used nationally. How could researchers' assumptions affect the knowledge produced?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year8/science/ac9s8h02.svg#ac9s8h02-p-004",
+      "alt_text": "World Views Shape Scientific Knowledge observation card stating: A medical study recruits only adults from one city, although the treatment will be used nationally."
+    },
+    "answers": [
+      {
+        "text": "The narrow sample may overlook responses in groups not represented",
+        "is_correct": true
+      },
+      {
+        "text": "A city sample automatically represents every population",
+        "is_correct": false
+      },
+      {
+        "text": "Including more perspectives would make measurement impossible",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Who is included in research affects how confidently findings apply to different people.",
+      "hint": "Compare the sample with the population affected."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
+  },
+  {
+    "id": "AC9S8H02-P-005",
+    "subject": "science",
+    "year_level": "Year 8",
+    "curriculum_code": "AC9S8H02",
+    "bank": "practice",
+    "skill": "perspective_recognition_and_bias",
+    "question": "During a community science meeting, students observe: Two communities rank water research priorities differently: one prioritises farm yield and the other river health. What does this show about science priorities?",
+    "audio_prompt": "During a community science meeting, students observe: Two communities rank water research priorities differently: one prioritises farm yield and the other river health. What does this show about science priorities?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year8/science/ac9s8h02.svg#ac9s8h02-p-005",
+      "alt_text": "World Views Shape Scientific Knowledge observation card stating: Two communities rank water research priorities differently: one prioritises farm yield and the other river health."
+    },
+    "answers": [
+      {
+        "text": "Only one community can understand water scientifically",
+        "is_correct": false
+      },
+      {
+        "text": "Values and lived needs can influence which scientific questions receive attention",
+        "is_correct": true
+      },
+      {
+        "text": "Evidence is unnecessary whenever communities hold different values",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "World views can shape research priorities while evidence remains necessary to answer questions.",
+      "hint": "Distinguish choosing a question from testing an answer."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
+  },
+  {
+    "id": "AC9S8H02-P-006",
+    "subject": "science",
+    "year_level": "Year 8",
+    "curriculum_code": "AC9S8H02",
+    "bank": "practice",
+    "skill": "perspective_world_view",
+    "question": "During a digital model review, students observe: A museum label credits a plant medicine discovery only to a laboratory, although local knowledge guided the search. Which revision is most appropriate?",
+    "audio_prompt": "During a digital model review, students observe: A museum label credits a plant medicine discovery only to a laboratory, although local knowledge guided the search. Which revision is most appropriate?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year8/science/ac9s8h02.svg#ac9s8h02-p-006",
+      "alt_text": "World Views Shape Scientific Knowledge observation card stating: A museum label credits a plant medicine discovery only to a laboratory, although local knowledge guided the search."
+    },
+    "answers": [
+      {
+        "text": "Credit only the laboratory because written data is the only knowledge",
+        "is_correct": false
+      },
+      {
+        "text": "Remove all scientific testing so the accounts cannot disagree",
+        "is_correct": false
+      },
+      {
+        "text": "Acknowledge the knowledge holders and explain both their contribution and the laboratory tests",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Accurate accounts recognise distinct contributions and do not erase the cultural source.",
+      "hint": "Ask whose knowledge made the investigation possible."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
+  },
+  {
+    "id": "AC9S8H02-P-007",
+    "subject": "science",
+    "year_level": "Year 8",
+    "curriculum_code": "AC9S8H02",
+    "bank": "practice",
+    "skill": "perspective_question_and_priority",
+    "question": "During a student research poster, students observe: A research team consults community representatives only after its data collection is complete. How could the collaboration be improved?",
+    "audio_prompt": "During a student research poster, students observe: A research team consults community representatives only after its data collection is complete. How could the collaboration be improved?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year8/science/ac9s8h02.svg#ac9s8h02-p-007",
+      "alt_text": "World Views Shape Scientific Knowledge observation card stating: A research team consults community representatives only after its data collection is complete."
+    },
+    "answers": [
+      {
+        "text": "Involve appropriate knowledge holders early in setting questions, methods and permissions",
+        "is_correct": true
+      },
+      {
+        "text": "Ask the community only to promote the final conclusions",
+        "is_correct": false
+      },
+      {
+        "text": "Avoid community input because it may change the research question",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Early, continuing participation supports relevant questions, ethical methods and shared interpretation.",
+      "hint": "Meaningful collaboration begins before conclusions are written."
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
+  },
+  {
+    "id": "AC9S8H02-P-008",
+    "subject": "science",
+    "year_level": "Year 8",
+    "curriculum_code": "AC9S8H02",
+    "bank": "practice",
+    "skill": "perspective_knowledge_practice",
+    "question": "During an engineering design check, students observe: Weather knowledge from generations of local observation predicts a seasonal change, while regional instruments provide recent measurements. How should the two knowledge sources be used?",
+    "audio_prompt": "During an engineering design check, students observe: Weather knowledge from generations of local observation predicts a seasonal change, while regional instruments provide recent measurements. How should the two knowledge sources be used?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year8/science/ac9s8h02.svg#ac9s8h02-p-008",
+      "alt_text": "World Views Shape Scientific Knowledge observation card stating: Weather knowledge from generations of local observation predicts a seasonal change, while regional instruments provide recent measurements."
+    },
+    "answers": [
+      {
+        "text": "Assume instrument data always makes long-term local observation worthless",
+        "is_correct": false
+      },
+      {
+        "text": "Compare their scales and methods, looking for agreement, differences and complementary evidence",
+        "is_correct": true
+      },
+      {
+        "text": "Treat every claim as equally supported without examining how it was obtained",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Knowledge practices can complement each other when their evidence, scale and limitations are examined.",
+      "hint": "Compare rather than automatically ranking or equating."
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
+  },
+  {
+    "id": "AC9S8H02-P-009",
+    "subject": "science",
+    "year_level": "Year 8",
+    "curriculum_code": "AC9S8H02",
+    "bank": "practice",
+    "skill": "perspective_collaboration",
+    "question": "During a data-team discussion, students observe: A facial-recognition system performs less accurately for groups underrepresented in its training data. How did human decisions shape this technical result?",
+    "audio_prompt": "During a data-team discussion, students observe: A facial-recognition system performs less accurately for groups underrepresented in its training data. How did human decisions shape this technical result?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year8/science/ac9s8h02.svg#ac9s8h02-p-009",
+      "alt_text": "World Views Shape Scientific Knowledge observation card stating: A facial-recognition system performs less accurately for groups underrepresented in its training data."
+    },
+    "answers": [
+      {
+        "text": "Computer systems cannot reflect human assumptions",
+        "is_correct": false
+      },
+      {
+        "text": "The underrepresented groups must have used the system incorrectly",
+        "is_correct": false
+      },
+      {
+        "text": "Choices about whose data to collect created bias in the system's performance",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Decisions about data and design can embed social assumptions in scientific technologies.",
+      "hint": "Trace the error pattern back to the training sample."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
+  },
+  {
+    "id": "AC9S8H02-P-010",
+    "subject": "science",
+    "year_level": "Year 8",
+    "curriculum_code": "AC9S8H02",
+    "bank": "practice",
+    "skill": "perspective_recognition_and_bias",
+    "question": "During a school science report, students observe: Researchers translate one cultural category into a scientific database but the translation loses important distinctions. What is the best response?",
+    "audio_prompt": "During a school science report, students observe: Researchers translate one cultural category into a scientific database but the translation loses important distinctions. What is the best response?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year8/science/ac9s8h02.svg#ac9s8h02-p-010",
+      "alt_text": "World Views Shape Scientific Knowledge observation card stating: Researchers translate one cultural category into a scientific database but the translation loses important distinctions."
+    },
+    "answers": [
+      {
+        "text": "Work with knowledge holders to preserve meaning and record the limits of the translation",
+        "is_correct": true
+      },
+      {
+        "text": "Force every category into the database without noting changes",
+        "is_correct": false
+      },
+      {
+        "text": "Claim the cultural categories are wrong because they do not match the database",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Cross-knowledge collaboration requires careful translation, attribution and acknowledgement of limits.",
+      "hint": "A shared label should not erase the original meaning."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
+  },
+  {
+    "id": "AC9S8H02-P-011",
+    "subject": "science",
+    "year_level": "Year 8",
+    "curriculum_code": "AC9S8H02",
+    "bank": "practice",
+    "skill": "perspective_world_view",
+    "question": "During a council evidence summary, students observe: Island fishers track currents through cloud, bird and swell patterns. How can collaboration improve an ocean study?",
+    "audio_prompt": "During a council evidence summary, students observe: Island fishers track currents through cloud, bird and swell patterns. How can collaboration improve an ocean study?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year8/science/ac9s8h02.svg#ac9s8h02-p-011",
+      "alt_text": "World Views Shape Scientific Knowledge observation card stating: Island fishers track currents through cloud, bird and swell patterns."
+    },
+    "answers": [
+      {
+        "text": "Replace the knowledge with a single buoy reading",
+        "is_correct": false
+      },
+      {
+        "text": "Use holders' guidance with permission to choose sites and interpret linked indicators",
+        "is_correct": true
+      },
+      {
+        "text": "Publish protected routes without consent",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Use holders' guidance with permission to choose sites and interpret linked indicators",
+      "hint": "Consider expertise, permission and scale."
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
+  },
+  {
+    "id": "AC9S8H02-P-012",
+    "subject": "science",
+    "year_level": "Year 8",
+    "curriculum_code": "AC9S8H02",
+    "bank": "practice",
+    "skill": "perspective_question_and_priority",
+    "question": "During a peer-review conversation, students observe: A plant survey uses only common English names and merges several locally distinct species. What could be lost?",
+    "audio_prompt": "During a peer-review conversation, students observe: A plant survey uses only common English names and merges several locally distinct species. What could be lost?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year8/science/ac9s8h02.svg#ac9s8h02-p-012",
+      "alt_text": "World Views Shape Scientific Knowledge observation card stating: A plant survey uses only common English names and merges several locally distinct species."
+    },
+    "answers": [
+      {
+        "text": "Scientific names become illegal",
+        "is_correct": false
+      },
+      {
+        "text": "Every local name must describe the same species",
+        "is_correct": false
+      },
+      {
+        "text": "Ecological distinctions encoded in local classification",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Ecological distinctions encoded in local classification",
+      "hint": "Ask what information the categories preserve."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
+  },
+  {
+    "id": "AC9S8H02-P-013",
+    "subject": "science",
+    "year_level": "Year 8",
+    "curriculum_code": "AC9S8H02",
+    "bank": "practice",
+    "skill": "perspective_knowledge_practice",
+    "question": "During an environmental monitoring project, students observe: A research grant prioritises profitable crops over staple foods important to remote communities. What shaped the research agenda?",
+    "audio_prompt": "During an environmental monitoring project, students observe: A research grant prioritises profitable crops over staple foods important to remote communities. What shaped the research agenda?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year8/science/ac9s8h02.svg#ac9s8h02-p-013",
+      "alt_text": "World Views Shape Scientific Knowledge observation card stating: A research grant prioritises profitable crops over staple foods important to remote communities."
+    },
+    "answers": [
+      {
+        "text": "Economic and institutional values influenced which problem received resources",
+        "is_correct": true
+      },
+      {
+        "text": "Evidence proved staple foods cannot be studied",
+        "is_correct": false
+      },
+      {
+        "text": "Scientists have no role in selecting questions",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Economic and institutional values influenced which problem received resources",
+      "hint": "Separate priority-setting from evidence testing."
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
+  },
+  {
+    "id": "AC9S8H02-P-014",
+    "subject": "science",
+    "year_level": "Year 8",
+    "curriculum_code": "AC9S8H02",
+    "bank": "practice",
+    "skill": "perspective_collaboration",
+    "question": "During a medical research case, students observe: Women were excluded from early drug trials. What limitation can follow?",
+    "audio_prompt": "During a medical research case, students observe: Women were excluded from early drug trials. What limitation can follow?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year8/science/ac9s8h02.svg#ac9s8h02-p-014",
+      "alt_text": "World Views Shape Scientific Knowledge observation card stating: Women were excluded from early drug trials."
+    },
+    "answers": [
+      {
+        "text": "Male results always predict female results exactly",
+        "is_correct": false
+      },
+      {
+        "text": "Dose and side-effect knowledge may not apply reliably to women",
+        "is_correct": true
+      },
+      {
+        "text": "Including women would remove all variation",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Dose and side-effect knowledge may not apply reliably to women",
+      "hint": "Compare participants with intended users."
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
+  },
+  {
+    "id": "AC9S8H02-P-015",
+    "subject": "science",
+    "year_level": "Year 8",
+    "curriculum_code": "AC9S8H02",
+    "bank": "practice",
+    "skill": "perspective_recognition_and_bias",
+    "question": "During a science-news fact check, students observe: A citizen-science app requires expensive phones. How might its design shape knowledge?",
+    "audio_prompt": "During a science-news fact check, students observe: A citizen-science app requires expensive phones. How might its design shape knowledge?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year8/science/ac9s8h02.svg#ac9s8h02-p-015",
+      "alt_text": "World Views Shape Scientific Knowledge observation card stating: A citizen-science app requires expensive phones."
+    },
+    "answers": [
+      {
+        "text": "Phone cost changes the species being observed",
+        "is_correct": false
+      },
+      {
+        "text": "Digital data cannot be biased",
+        "is_correct": false
+      },
+      {
+        "text": "Observations may overrepresent people and places with device access",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Observations may overrepresent people and places with device access",
+      "hint": "Identify who is able to contribute."
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
+  },
+  {
+    "id": "AC9S8H02-P-016",
+    "subject": "science",
+    "year_level": "Year 8",
+    "curriculum_code": "AC9S8H02",
+    "bank": "practice",
+    "skill": "perspective_world_view",
+    "question": "During a classroom model test, students observe: A Western seasonal calendar uses four fixed seasons where a local Indigenous calendar identifies six ecological seasons. What can researchers learn?",
+    "audio_prompt": "During a classroom model test, students observe: A Western seasonal calendar uses four fixed seasons where a local Indigenous calendar identifies six ecological seasons. What can researchers learn?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year8/science/ac9s8h02.svg#ac9s8h02-p-016",
+      "alt_text": "World Views Shape Scientific Knowledge observation card stating: A Western seasonal calendar uses four fixed seasons where a local Indigenous calendar identifies six ecological seasons."
+    },
+    "answers": [
+      {
+        "text": "Locally observed indicators may better guide timing for that Country",
+        "is_correct": true
+      },
+      {
+        "text": "One calendar must be universally correct",
+        "is_correct": false
+      },
+      {
+        "text": "Cultural calendars do not involve systematic observation",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Locally observed indicators may better guide timing for that Country",
+      "hint": "Relate categories to place-based evidence."
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
+  },
+  {
+    "id": "AC9S8H02-P-017",
+    "subject": "science",
+    "year_level": "Year 8",
+    "curriculum_code": "AC9S8H02",
+    "bank": "practice",
+    "skill": "perspective_question_and_priority",
+    "question": "During a regional planning workshop, students observe: Traditional Owners request co-authorship after guiding sampling and interpretation. What response recognises contribution?",
+    "audio_prompt": "During a regional planning workshop, students observe: Traditional Owners request co-authorship after guiding sampling and interpretation. What response recognises contribution?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year8/science/ac9s8h02.svg#ac9s8h02-p-017",
+      "alt_text": "World Views Shape Scientific Knowledge observation card stating: Traditional Owners request co-authorship after guiding sampling and interpretation."
+    },
+    "answers": [
+      {
+        "text": "List them only as study subjects",
+        "is_correct": false
+      },
+      {
+        "text": "Agree authorship roles and attribution through transparent collaboration",
+        "is_correct": true
+      },
+      {
+        "text": "Remove their interpretation from the report",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Agree authorship roles and attribution through transparent collaboration",
+      "hint": "Match credit to intellectual contribution."
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
+  },
+  {
+    "id": "AC9S8H02-P-018",
+    "subject": "science",
+    "year_level": "Year 8",
+    "curriculum_code": "AC9S8H02",
+    "bank": "practice",
+    "skill": "perspective_knowledge_practice",
+    "question": "During an equipment selection task, students observe: A conservation plan separates people from a landscape managed culturally for generations. Which assumption should be examined?",
+    "audio_prompt": "During an equipment selection task, students observe: A conservation plan separates people from a landscape managed culturally for generations. Which assumption should be examined?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year8/science/ac9s8h02.svg#ac9s8h02-p-018",
+      "alt_text": "World Views Shape Scientific Knowledge observation card stating: A conservation plan separates people from a landscape managed culturally for generations."
+    },
+    "answers": [
+      {
+        "text": "That management practices can never affect ecosystems",
+        "is_correct": false
+      },
+      {
+        "text": "That conservation requires no evidence",
+        "is_correct": false
+      },
+      {
+        "text": "That ecological health always requires excluding human stewardship",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "That ecological health always requires excluding human stewardship",
+      "hint": "Question the human-nature separation in the plan."
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
+  },
+  {
+    "id": "AC9S8H02-P-019",
+    "subject": "science",
+    "year_level": "Year 8",
+    "curriculum_code": "AC9S8H02",
+    "bank": "practice",
+    "skill": "perspective_collaboration",
+    "question": "During a public information draft, students observe: Researchers record oral knowledge but judge it unreliable only because it is not written. What bias is present?",
+    "audio_prompt": "During a public information draft, students observe: Researchers record oral knowledge but judge it unreliable only because it is not written. What bias is present?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year8/science/ac9s8h02.svg#ac9s8h02-p-019",
+      "alt_text": "World Views Shape Scientific Knowledge observation card stating: Researchers record oral knowledge but judge it unreliable only because it is not written."
+    },
+    "answers": [
+      {
+        "text": "They privilege one form of recording without evaluating the knowledge's methods and evidence",
+        "is_correct": true
+      },
+      {
+        "text": "Oral transmission guarantees perfect accuracy",
+        "is_correct": false
+      },
+      {
+        "text": "Written sources never require checking",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "They privilege one form of recording without evaluating the knowledge's methods and evidence",
+      "hint": "Evaluate reliability, not format alone."
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
+  },
+  {
+    "id": "AC9S8H02-P-020",
+    "subject": "science",
+    "year_level": "Year 8",
+    "curriculum_code": "AC9S8H02",
+    "bank": "practice",
+    "skill": "perspective_recognition_and_bias",
+    "question": "During an independent replication study, students observe: A disease definition is based on symptoms common in one population. How may world view affect diagnosis elsewhere?",
+    "audio_prompt": "During an independent replication study, students observe: A disease definition is based on symptoms common in one population. How may world view affect diagnosis elsewhere?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year8/science/ac9s8h02.svg#ac9s8h02-p-020",
+      "alt_text": "World Views Shape Scientific Knowledge observation card stating: A disease definition is based on symptoms common in one population."
+    },
+    "answers": [
+      {
+        "text": "Disease biology changes whenever language changes",
+        "is_correct": false
+      },
+      {
+        "text": "The chosen norm may miss different symptom patterns or expressions",
+        "is_correct": true
+      },
+      {
+        "text": "Definitions cannot influence medical practice",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The chosen norm may miss different symptom patterns or expressions",
+      "hint": "Check who established the diagnostic norm."
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
+  },
+  {
+    "id": "AC9S8H02-P-021",
+    "subject": "science",
+    "year_level": "Year 8",
+    "curriculum_code": "AC9S8H02",
+    "bank": "practice",
+    "skill": "perspective_world_view",
+    "question": "During a risk-assessment meeting, students observe: A community measures river health using culturally important species while an agency uses nutrient levels. What is a productive approach?",
+    "audio_prompt": "During a risk-assessment meeting, students observe: A community measures river health using culturally important species while an agency uses nutrient levels. What is a productive approach?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year8/science/ac9s8h02.svg#ac9s8h02-p-021",
+      "alt_text": "World Views Shape Scientific Knowledge observation card stating: A community measures river health using culturally important species while an agency uses nutrient levels."
+    },
+    "answers": [
+      {
+        "text": "Discard species observations because only chemicals matter",
+        "is_correct": false
+      },
+      {
+        "text": "Combine numbers without explaining what either indicates",
+        "is_correct": false
+      },
+      {
+        "text": "Investigate relationships between both indicator sets and their purposes",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Investigate relationships between both indicator sets and their purposes",
+      "hint": "Compare what each measure reveals."
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
+  },
+  {
+    "id": "AC9S8H02-P-022",
+    "subject": "science",
+    "year_level": "Year 8",
+    "curriculum_code": "AC9S8H02",
+    "bank": "practice",
+    "skill": "perspective_question_and_priority",
+    "question": "During a graph interpretation task, students observe: A drone survey is proposed over a sacred site. What must scientific planning include?",
+    "audio_prompt": "During a graph interpretation task, students observe: A drone survey is proposed over a sacred site. What must scientific planning include?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year8/science/ac9s8h02.svg#ac9s8h02-p-022",
+      "alt_text": "World Views Shape Scientific Knowledge observation card stating: A drone survey is proposed over a sacred site."
+    },
+    "answers": [
+      {
+        "text": "Traditional Owner permission, cultural restrictions and alternative methods",
+        "is_correct": true
+      },
+      {
+        "text": "Only aviation approval",
+        "is_correct": false
+      },
+      {
+        "text": "Assurance that images will be public",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Traditional Owner permission, cultural restrictions and alternative methods",
+      "hint": "Technical capability does not replace cultural authority."
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
+  },
+  {
+    "id": "AC9S8H02-P-023",
+    "subject": "science",
+    "year_level": "Year 8",
+    "curriculum_code": "AC9S8H02",
+    "bank": "practice",
+    "skill": "perspective_knowledge_practice",
+    "question": "During a claim-evidence-reasoning response, students observe: A language has precise terms for stages of sea-ice formation. How can these terms contribute scientifically?",
+    "audio_prompt": "During a claim-evidence-reasoning response, students observe: A language has precise terms for stages of sea-ice formation. How can these terms contribute scientifically?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year8/science/ac9s8h02.svg#ac9s8h02-p-023",
+      "alt_text": "World Views Shape Scientific Knowledge observation card stating: A language has precise terms for stages of sea-ice formation."
+    },
+    "answers": [
+      {
+        "text": "Translation must collapse all stages into 'ice'",
+        "is_correct": false
+      },
+      {
+        "text": "They can identify observable distinctions useful for monitoring change",
+        "is_correct": true
+      },
+      {
+        "text": "Vocabulary creates sea ice conditions",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "They can identify observable distinctions useful for monitoring change",
+      "hint": "Treat fine categories as testable observational knowledge."
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
+  },
+  {
+    "id": "AC9S8H02-P-024",
+    "subject": "science",
+    "year_level": "Year 8",
+    "curriculum_code": "AC9S8H02",
+    "bank": "practice",
+    "skill": "perspective_collaboration",
+    "question": "During a scientific-method audit, students observe: An algorithm labels emotional expression using one culture's facial norms. What risk follows?",
+    "audio_prompt": "During a scientific-method audit, students observe: An algorithm labels emotional expression using one culture's facial norms. What risk follows?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year8/science/ac9s8h02.svg#ac9s8h02-p-024",
+      "alt_text": "World Views Shape Scientific Knowledge observation card stating: An algorithm labels emotional expression using one culture's facial norms."
+    },
+    "answers": [
+      {
+        "text": "Algorithms become culturally neutral after coding",
+        "is_correct": false
+      },
+      {
+        "text": "Faces have no measurable features",
+        "is_correct": false
+      },
+      {
+        "text": "It may misclassify people whose expressions follow different conventions",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "It may misclassify people whose expressions follow different conventions",
+      "hint": "Examine whose norms define the labels."
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
+  },
+  {
+    "id": "AC9S8H02-T-001",
+    "subject": "science",
+    "year_level": "Year 8",
+    "curriculum_code": "AC9S8H02",
+    "bank": "test",
+    "skill": "perspective_recognition_and_bias",
+    "question": "During the new research proposal, students observe: A flood model excludes informal settlements because official maps omit them. How does institutional data shape the result?",
+    "audio_prompt": "During the new research proposal, students observe: A flood model excludes informal settlements because official maps omit them. How does institutional data shape the result?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year8/science/ac9s8h02.svg#ac9s8h02-t-001",
+      "alt_text": "World Views Shape Scientific Knowledge observation card stating: A flood model excludes informal settlements because official maps omit them."
+    },
+    "answers": [
+      {
+        "text": "Risk to unrecorded communities becomes invisible in predictions",
+        "is_correct": true
+      },
+      {
+        "text": "Unmapped homes cannot flood",
+        "is_correct": false
+      },
+      {
+        "text": "Adding settlements would change rainfall",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Risk to unrecorded communities becomes invisible in predictions",
+      "hint": "Look for absences created before modelling."
+    }
+  },
+  {
+    "id": "AC9S8H02-T-002",
+    "subject": "science",
+    "year_level": "Year 8",
+    "curriculum_code": "AC9S8H02",
+    "bank": "test",
+    "skill": "perspective_world_view",
+    "question": "During the cross-school data comparison, students observe: A local community asks research to focus on safe drinking water while visiting scientists prefer rare insects. What would shared priority-setting involve?",
+    "audio_prompt": "During the cross-school data comparison, students observe: A local community asks research to focus on safe drinking water while visiting scientists prefer rare insects. What would shared priority-setting involve?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year8/science/ac9s8h02.svg#ac9s8h02-t-002",
+      "alt_text": "World Views Shape Scientific Knowledge observation card stating: A local community asks research to focus on safe drinking water while visiting scientists prefer rare insects."
+    },
+    "answers": [
+      {
+        "text": "Scientists choose because communities cannot value evidence",
+        "is_correct": false
+      },
+      {
+        "text": "Negotiate questions that respect community needs and scientific goals",
+        "is_correct": true
+      },
+      {
+        "text": "Study only the easiest topic",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Negotiate questions that respect community needs and scientific goals",
+      "hint": "Meaningful partnership shares decisions."
+    }
+  },
+  {
+    "id": "AC9S8H02-T-003",
+    "subject": "science",
+    "year_level": "Year 8",
+    "curriculum_code": "AC9S8H02",
+    "bank": "test",
+    "skill": "perspective_question_and_priority",
+    "question": "During the technology evaluation panel, students observe: Researchers patent a product derived from shared medicinal knowledge. Which ethical issue is central?",
+    "audio_prompt": "During the technology evaluation panel, students observe: Researchers patent a product derived from shared medicinal knowledge. Which ethical issue is central?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year8/science/ac9s8h02.svg#ac9s8h02-t-003",
+      "alt_text": "World Views Shape Scientific Knowledge observation card stating: Researchers patent a product derived from shared medicinal knowledge."
+    },
+    "answers": [
+      {
+        "text": "Whether the patent document uses enough diagrams",
+        "is_correct": false
+      },
+      {
+        "text": "Whether laboratory equipment was expensive",
+        "is_correct": false
+      },
+      {
+        "text": "Consent, attribution and fair benefit-sharing with knowledge holders",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Consent, attribution and fair benefit-sharing with knowledge holders",
+      "hint": "Trace ownership and benefits."
+    }
+  },
+  {
+    "id": "AC9S8H02-T-004",
+    "subject": "science",
+    "year_level": "Year 8",
+    "curriculum_code": "AC9S8H02",
+    "bank": "test",
+    "skill": "perspective_knowledge_practice",
+    "question": "During the science exhibition caption, students observe: A textbook depicts scientific progress only through European men. How can this framing affect knowledge?",
+    "audio_prompt": "During the science exhibition caption, students observe: A textbook depicts scientific progress only through European men. How can this framing affect knowledge?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year8/science/ac9s8h02.svg#ac9s8h02-t-004",
+      "alt_text": "World Views Shape Scientific Knowledge observation card stating: A textbook depicts scientific progress only through European men."
+    },
+    "answers": [
+      {
+        "text": "It erases contributors and narrows students' view of who produces science",
+        "is_correct": true
+      },
+      {
+        "text": "It makes the described experiments invalid",
+        "is_correct": false
+      },
+      {
+        "text": "Adding contributors changes experimental results",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "It erases contributors and narrows students' view of who produces science",
+      "hint": "Distinguish historical framing from result validity."
+    }
+  },
+  {
+    "id": "AC9S8H02-T-005",
+    "subject": "science",
+    "year_level": "Year 8",
+    "curriculum_code": "AC9S8H02",
+    "bank": "test",
+    "skill": "perspective_collaboration",
+    "question": "During the policy evidence hearing, students observe: Pastoral observations and satellite images disagree about pasture condition. What should the team do?",
+    "audio_prompt": "During the policy evidence hearing, students observe: Pastoral observations and satellite images disagree about pasture condition. What should the team do?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year8/science/ac9s8h02.svg#ac9s8h02-t-005",
+      "alt_text": "World Views Shape Scientific Knowledge observation card stating: Pastoral observations and satellite images disagree about pasture condition."
+    },
+    "answers": [
+      {
+        "text": "Assume the satellite is correct at every scale",
+        "is_correct": false
+      },
+      {
+        "text": "Compare timing, scale and definitions, then investigate the mismatch together",
+        "is_correct": true
+      },
+      {
+        "text": "Average an image with an opinion numerically",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Compare timing, scale and definitions, then investigate the mismatch together",
+      "hint": "Check whether sources measure the same thing."
+    }
+  },
+  {
+    "id": "AC9S8H02-T-006",
+    "subject": "science",
+    "year_level": "Year 8",
+    "curriculum_code": "AC9S8H02",
+    "bank": "test",
+    "skill": "perspective_recognition_and_bias",
+    "question": "During the controlled follow-up investigation, students observe: A hearing invites technical experts but no residents exposed to pollution. What evidence may be missed?",
+    "audio_prompt": "During the controlled follow-up investigation, students observe: A hearing invites technical experts but no residents exposed to pollution. What evidence may be missed?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year8/science/ac9s8h02.svg#ac9s8h02-t-006",
+      "alt_text": "World Views Shape Scientific Knowledge observation card stating: A hearing invites technical experts but no residents exposed to pollution."
+    },
+    "answers": [
+      {
+        "text": "Residents automatically know chemical concentrations exactly",
+        "is_correct": false
+      },
+      {
+        "text": "Experts cannot measure pollution",
+        "is_correct": false
+      },
+      {
+        "text": "Place-specific exposure patterns and lived impacts that can guide measurement",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Place-specific exposure patterns and lived impacts that can guide measurement",
+      "hint": "Include relevant experiential and technical evidence."
+    }
+  },
+  {
+    "id": "AC9S8H02-T-007",
+    "subject": "science",
+    "year_level": "Year 8",
+    "curriculum_code": "AC9S8H02",
+    "bank": "test",
+    "skill": "perspective_world_view",
+    "question": "During the model limitations review, students observe: A laboratory translates 'health' only as absence of disease, while a community includes connection to land and family. Why does the definition matter?",
+    "audio_prompt": "During the model limitations review, students observe: A laboratory translates 'health' only as absence of disease, while a community includes connection to land and family. Why does the definition matter?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year8/science/ac9s8h02.svg#ac9s8h02-t-007",
+      "alt_text": "World Views Shape Scientific Knowledge observation card stating: A laboratory translates 'health' only as absence of disease, while a community includes connection to land and family."
+    },
+    "answers": [
+      {
+        "text": "It changes which outcomes the study measures and values",
+        "is_correct": true
+      },
+      {
+        "text": "Definitions cannot affect data collection",
+        "is_correct": false
+      },
+      {
+        "text": "Only laboratory definitions are testable",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "It changes which outcomes the study measures and values",
+      "hint": "Trace the concept into chosen measures."
+    }
+  },
+  {
+    "id": "AC9S8H02-T-008",
+    "subject": "science",
+    "year_level": "Year 8",
+    "curriculum_code": "AC9S8H02",
+    "bank": "test",
+    "skill": "perspective_question_and_priority",
+    "question": "During the ethics committee discussion, students observe: A seed project stores samples without agreements about future use. What should be established?",
+    "audio_prompt": "During the ethics committee discussion, students observe: A seed project stores samples without agreements about future use. What should be established?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year8/science/ac9s8h02.svg#ac9s8h02-t-008",
+      "alt_text": "World Views Shape Scientific Knowledge observation card stating: A seed project stores samples without agreements about future use."
+    },
+    "answers": [
+      {
+        "text": "Ownership transfers automatically to the freezer operator",
+        "is_correct": false
+      },
+      {
+        "text": "Ongoing consent, governance, access and benefit-sharing conditions",
+        "is_correct": true
+      },
+      {
+        "text": "Future uses need no review",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Ongoing consent, governance, access and benefit-sharing conditions",
+      "hint": "Plan governance beyond initial collection."
+    }
+  },
+  {
+    "id": "AC9S8H02-T-009",
+    "subject": "science",
+    "year_level": "Year 8",
+    "curriculum_code": "AC9S8H02",
+    "bank": "test",
+    "skill": "perspective_knowledge_practice",
+    "question": "During the coastal field station report, students observe: School science examples show technology only as modern electronics. What world-view assumption is hidden?",
+    "audio_prompt": "During the coastal field station report, students observe: School science examples show technology only as modern electronics. What world-view assumption is hidden?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year8/science/ac9s8h02.svg#ac9s8h02-t-009",
+      "alt_text": "World Views Shape Scientific Knowledge observation card stating: School science examples show technology only as modern electronics."
+    },
+    "answers": [
+      {
+        "text": "Electronics are not technologies",
+        "is_correct": false
+      },
+      {
+        "text": "Older practices require no scientific knowledge",
+        "is_correct": false
+      },
+      {
+        "text": "Technology is being narrowly defined and may exclude sophisticated material and ecological practices",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Technology is being narrowly defined and may exclude sophisticated material and ecological practices",
+      "hint": "Examine what counts as technology."
+    }
+  },
+  {
+    "id": "AC9S8H02-T-010",
+    "subject": "science",
+    "year_level": "Year 8",
+    "curriculum_code": "AC9S8H02",
+    "bank": "test",
+    "skill": "perspective_collaboration",
+    "question": "During the renewable-energy trial, students observe: A survey asks households to select one fixed family structure. How might design affect findings?",
+    "audio_prompt": "During the renewable-energy trial, students observe: A survey asks households to select one fixed family structure. How might design affect findings?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year8/science/ac9s8h02.svg#ac9s8h02-t-010",
+      "alt_text": "World Views Shape Scientific Knowledge observation card stating: A survey asks households to select one fixed family structure."
+    },
+    "answers": [
+      {
+        "text": "People outside the assumed categories may be misrepresented or omitted",
+        "is_correct": true
+      },
+      {
+        "text": "Fixed categories eliminate sampling error",
+        "is_correct": false
+      },
+      {
+        "text": "Family structure cannot influence health research",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "People outside the assumed categories may be misrepresented or omitted",
+      "hint": "Question assumptions embedded in response options."
+    }
+  },
+  {
+    "id": "AC9S8H02-T-011",
+    "subject": "science",
+    "year_level": "Year 8",
+    "curriculum_code": "AC9S8H02",
+    "bank": "test",
+    "skill": "perspective_recognition_and_bias",
+    "question": "During the hospital innovation briefing, students observe: A reef study schedules fieldwork without consulting customary access rules. What is the likely consequence?",
+    "audio_prompt": "During the hospital innovation briefing, students observe: A reef study schedules fieldwork without consulting customary access rules. What is the likely consequence?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year8/science/ac9s8h02.svg#ac9s8h02-t-011",
+      "alt_text": "World Views Shape Scientific Knowledge observation card stating: A reef study schedules fieldwork without consulting customary access rules."
+    },
+    "answers": [
+      {
+        "text": "Customary rules alter ocean chemistry",
+        "is_correct": false
+      },
+      {
+        "text": "The work may breach protocols and lose guidance about suitable places and times",
+        "is_correct": true
+      },
+      {
+        "text": "A permit erases all other responsibilities",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The work may breach protocols and lose guidance about suitable places and times",
+      "hint": "Legal access and ethical cultural access differ."
+    }
+  },
+  {
+    "id": "AC9S8H02-T-012",
+    "subject": "science",
+    "year_level": "Year 8",
+    "curriculum_code": "AC9S8H02",
+    "bank": "test",
+    "skill": "perspective_world_view",
+    "question": "During the geological survey update, students observe: Researchers return final results but not data interpretations to a partner community. What would reciprocity require?",
+    "audio_prompt": "During the geological survey update, students observe: Researchers return final results but not data interpretations to a partner community. What would reciprocity require?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year8/science/ac9s8h02.svg#ac9s8h02-t-012",
+      "alt_text": "World Views Shape Scientific Knowledge observation card stating: Researchers return final results but not data interpretations to a partner community."
+    },
+    "answers": [
+      {
+        "text": "Keep all outputs technical to preserve authority",
+        "is_correct": false
+      },
+      {
+        "text": "Return only equipment receipts",
+        "is_correct": false
+      },
+      {
+        "text": "Share accessible findings and involve partners in interpreting implications",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Share accessible findings and involve partners in interpreting implications",
+      "hint": "Collaboration continues through interpretation and benefit."
+    }
+  },
+  {
+    "id": "AC9S8H02-T-013",
+    "subject": "science",
+    "year_level": "Year 8",
+    "curriculum_code": "AC9S8H02",
+    "bank": "test",
+    "skill": "perspective_question_and_priority",
+    "question": "During the materials-testing laboratory, students observe: An AI language tool has little training data from small language communities. What outcome is predictable?",
+    "audio_prompt": "During the materials-testing laboratory, students observe: An AI language tool has little training data from small language communities. What outcome is predictable?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year8/science/ac9s8h02.svg#ac9s8h02-t-013",
+      "alt_text": "World Views Shape Scientific Knowledge observation card stating: An AI language tool has little training data from small language communities."
+    },
+    "answers": [
+      {
+        "text": "It will likely perform less reliably for those languages",
+        "is_correct": true
+      },
+      {
+        "text": "Small languages are scientifically simpler",
+        "is_correct": false
+      },
+      {
+        "text": "All models perform equally without data",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "It will likely perform less reliably for those languages",
+      "hint": "Link representation to model performance."
+    }
+  },
+  {
+    "id": "AC9S8H02-T-014",
+    "subject": "science",
+    "year_level": "Year 8",
+    "curriculum_code": "AC9S8H02",
+    "bank": "test",
+    "skill": "perspective_knowledge_practice",
+    "question": "During the documentary planning session, students observe: A scientist assumes land is unused because it lacks permanent buildings. Which perspective is overlooked?",
+    "audio_prompt": "During the documentary planning session, students observe: A scientist assumes land is unused because it lacks permanent buildings. Which perspective is overlooked?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year8/science/ac9s8h02.svg#ac9s8h02-t-014",
+      "alt_text": "World Views Shape Scientific Knowledge observation card stating: A scientist assumes land is unused because it lacks permanent buildings."
+    },
+    "answers": [
+      {
+        "text": "Only buildings provide evidence of land use",
+        "is_correct": false
+      },
+      {
+        "text": "Seasonal cultural use and stewardship may leave different visible signs",
+        "is_correct": true
+      },
+      {
+        "text": "Cultural use prevents ecological study",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Seasonal cultural use and stewardship may leave different visible signs",
+      "hint": "Look beyond one definition of occupation."
+    }
+  },
+  {
+    "id": "AC9S8H02-T-015",
+    "subject": "science",
+    "year_level": "Year 8",
+    "curriculum_code": "AC9S8H02",
+    "bank": "test",
+    "skill": "perspective_collaboration",
+    "question": "During the national data-set review, students observe: Community monitors choose sampling points near places used for food gathering. What value does this add?",
+    "audio_prompt": "During the national data-set review, students observe: Community monitors choose sampling points near places used for food gathering. What value does this add?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year8/science/ac9s8h02.svg#ac9s8h02-t-015",
+      "alt_text": "World Views Shape Scientific Knowledge observation card stating: Community monitors choose sampling points near places used for food gathering."
+    },
+    "answers": [
+      {
+        "text": "It makes all other sampling sites invalid",
+        "is_correct": false
+      },
+      {
+        "text": "Values cannot guide scientifically valid site choice",
+        "is_correct": false
+      },
+      {
+        "text": "It targets exposure and ecological changes important to community decisions",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "It targets exposure and ecological changes important to community decisions",
+      "hint": "Site relevance and sound measurement can coexist."
+    }
+  },
+  {
+    "id": "AC9S8H02-T-016",
+    "subject": "science",
+    "year_level": "Year 8",
+    "curriculum_code": "AC9S8H02",
+    "bank": "test",
+    "skill": "perspective_recognition_and_bias",
+    "question": "During the final evidence conference, students observe: A collaboration finds two knowledge systems use different explanations for the same pattern. What is a respectful scientific response?",
+    "audio_prompt": "During the final evidence conference, students observe: A collaboration finds two knowledge systems use different explanations for the same pattern. What is a respectful scientific response?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year8/science/ac9s8h02.svg#ac9s8h02-t-016",
+      "alt_text": "World Views Shape Scientific Knowledge observation card stating: A collaboration finds two knowledge systems use different explanations for the same pattern."
+    },
+    "answers": [
+      {
+        "text": "Clarify meanings, evidence and limits without forcing false equivalence or automatic dismissal",
+        "is_correct": true
+      },
+      {
+        "text": "Declare both explanations identical",
+        "is_correct": false
+      },
+      {
+        "text": "Rank them by the researchers' cultural familiarity",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Clarify meanings, evidence and limits without forcing false equivalence or automatic dismissal",
+      "hint": "Compare carefully and preserve distinctions."
+    }
+  }
+]

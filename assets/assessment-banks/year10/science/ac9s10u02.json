@@ -1,0 +1,610 @@
+[
+  {
+    "id": "ac9s10u02-p-001",
+    "curriculum_code": "AC9S10U02",
+    "year_level": "Year 10",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "use_processes_involved_in_natural_selection_to_make_the_role_of_heritable_variation_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
+    "question": "A Year 10 student is investigating use processes involved in natural selection to make the role of heritable variation visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
+    "audio_prompt": "A Year 10 student is investigating use processes involved in natural selection to make the role of heritable variation visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "outlining processes involved in natural selection including variation, isolation and selection",
+        "is_correct": true
+      },
+      {
+        "text": "Individuals evolve because they need to",
+        "is_correct": false
+      },
+      {
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "The same rule and result apply to every situation without testing",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "outlining processes involved in natural selection including variation, isolation and selection",
+      "hint": "Use processes involved in natural selection to make the role of heritable variation visible and connect the evidence to the unit’s central explanation."
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
+  },
+  {
+    "id": "ac9s10u02-p-002",
+    "curriculum_code": "AC9S10U02",
+    "year_level": "Year 10",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "use_biodiversity_as_a_function_of_evolution_to_make_the_role_of_selection_pressure_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
+    "question": "A Year 10 student is investigating use biodiversity as a function of evolution to make the role of selection pressure visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
+    "audio_prompt": "A Year 10 student is investigating use biodiversity as a function of evolution to make the role of selection pressure visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Natural selection is random",
+        "is_correct": false
+      },
+      {
+        "text": "examining biodiversity as a function of evolution",
+        "is_correct": true
+      },
+      {
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "The same rule and result apply to every situation without testing",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "examining biodiversity as a function of evolution",
+      "hint": "Use biodiversity as a function of evolution to make the role of selection pressure visible and connect the evidence to the unit’s central explanation."
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
+  },
+  {
+    "id": "ac9s10u02-p-003",
+    "curriculum_code": "AC9S10U02",
+    "year_level": "Year 10",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "use_evidence_for_the_theory_of_evolution_by_natural_selection_to_make_the_role_of_survival_and_reproduction_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
+    "question": "A Year 10 student is investigating use evidence for the theory of evolution by natural selection to make the role of survival and reproduction visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
+    "audio_prompt": "A Year 10 student is investigating use evidence for the theory of evolution by natural selection to make the role of survival and reproduction visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Individuals evolve because they need to",
+        "is_correct": false
+      },
+      {
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "analysing evidence for the theory of evolution by natural selection including the fossil record, chemical and anatomical similarities, and geographical distribution of species",
+        "is_correct": true
+      },
+      {
+        "text": "The same rule and result apply to every situation without testing",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "analysing evidence for the theory of evolution by natural selection including the fossil record, chemical and anatomical similarities, and geographical distribution of species",
+      "hint": "Use evidence for the theory of evolution by natural selection to make the role of survival and reproduction visible and connect the evidence to the unit’s central explanation."
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
+  },
+  {
+    "id": "ac9s10u02-p-004",
+    "curriculum_code": "AC9S10U02",
+    "year_level": "Year 10",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "use_changes_caused_by_natural_selection_in_a_particular_population_to_make_the_role_of_population_change_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
+    "question": "A Year 10 student is investigating use changes caused by natural selection in a particular population to make the role of population change visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
+    "audio_prompt": "A Year 10 student is investigating use changes caused by natural selection in a particular population to make the role of population change visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Natural selection is random",
+        "is_correct": false
+      },
+      {
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "The same rule and result apply to every situation without testing",
+        "is_correct": false
+      },
+      {
+        "text": "investigating changes caused by natural selection in a particular population as a result of a specified selection pressure such as artificial selection in breeding for desired characteristics",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "investigating changes caused by natural selection in a particular population as a result of a specified selection pressure such as artificial selection in breeding for desired characteristics",
+      "hint": "Use changes caused by natural selection in a particular population to make the role of population change visible and connect the evidence to the unit’s central explanation."
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
+  },
+  {
+    "id": "ac9s10u02-p-005",
+    "curriculum_code": "AC9S10U02",
+    "year_level": "Year 10",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "use_genetic_characteristics_to_survival_and_reproductive_rates_to_make_the_role_of_multiple_evidence_lines_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
+    "question": "A Year 10 student is investigating use genetic characteristics to survival and reproductive rates to make the role of multiple evidence lines visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
+    "audio_prompt": "A Year 10 student is investigating use genetic characteristics to survival and reproductive rates to make the role of multiple evidence lines visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "relating genetic characteristics to survival and reproductive rates",
+        "is_correct": true
+      },
+      {
+        "text": "Individuals evolve because they need to",
+        "is_correct": false
+      },
+      {
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "The same rule and result apply to every situation without testing",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "relating genetic characteristics to survival and reproductive rates",
+      "hint": "Use genetic characteristics to survival and reproductive rates to make the role of multiple evidence lines visible and connect the evidence to the unit’s central explanation."
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
+  },
+  {
+    "id": "ac9s10u02-p-006",
+    "curriculum_code": "AC9S10U02",
+    "year_level": "Year 10",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "use_some_of_the_structural_and_physiological_adaptations_of_first_to_make_the_role_of_heritable_variation_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
+    "question": "A Year 10 student is investigating use some of the structural and physiological adaptations of first to make the role of heritable variation visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
+    "audio_prompt": "A Year 10 student is investigating use some of the structural and physiological adaptations of first to make the role of heritable variation visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Natural selection is random",
+        "is_correct": false
+      },
+      {
+        "text": "investigating some of the structural and physiological adaptations of First Nations Australians to the Australian environment",
+        "is_correct": true
+      },
+      {
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "The same rule and result apply to every situation without testing",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "investigating some of the structural and physiological adaptations of First Nations Australians to the Australian environment",
+      "hint": "Use some of the structural and physiological adaptations of First to make the role of heritable variation visible and connect the evidence to the unit’s central explanation."
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
+  },
+  {
+    "id": "ac9s10u02-p-007",
+    "curriculum_code": "AC9S10U02",
+    "year_level": "Year 10",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "use_processes_involved_in_natural_selection_to_make_the_role_of_heritable_variation_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
+    "question": "A Year 10 student is investigating use processes involved in natural selection to make the role of heritable variation visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
+    "audio_prompt": "A Year 10 student is investigating use processes involved in natural selection to make the role of heritable variation visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Individuals evolve because they need to",
+        "is_correct": false
+      },
+      {
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "outlining processes involved in natural selection including variation, isolation and selection",
+        "is_correct": true
+      },
+      {
+        "text": "The same rule and result apply to every situation without testing",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "outlining processes involved in natural selection including variation, isolation and selection",
+      "hint": "Use processes involved in natural selection to make the role of heritable variation visible and connect the evidence to the unit’s central explanation."
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
+  },
+  {
+    "id": "ac9s10u02-p-008",
+    "curriculum_code": "AC9S10U02",
+    "year_level": "Year 10",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "use_biodiversity_as_a_function_of_evolution_to_make_the_role_of_selection_pressure_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
+    "question": "A Year 10 student is investigating use biodiversity as a function of evolution to make the role of selection pressure visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
+    "audio_prompt": "A Year 10 student is investigating use biodiversity as a function of evolution to make the role of selection pressure visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Natural selection is random",
+        "is_correct": false
+      },
+      {
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "The same rule and result apply to every situation without testing",
+        "is_correct": false
+      },
+      {
+        "text": "examining biodiversity as a function of evolution",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "examining biodiversity as a function of evolution",
+      "hint": "Use biodiversity as a function of evolution to make the role of selection pressure visible and connect the evidence to the unit’s central explanation."
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
+  },
+  {
+    "id": "ac9s10u02-t-001",
+    "curriculum_code": "AC9S10U02",
+    "year_level": "Year 10",
+    "subject": "science",
+    "bank": "test",
+    "skill": "use_evidence_for_the_theory_of_evolution_by_natural_selection_to_make_the_role_of_survival_and_reproduction_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
+    "question": "A Year 10 student is investigating use evidence for the theory of evolution by natural selection to make the role of survival and reproduction visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
+    "audio_prompt": "A Year 10 student is investigating use evidence for the theory of evolution by natural selection to make the role of survival and reproduction visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "analysing evidence for the theory of evolution by natural selection including the fossil record, chemical and anatomical similarities, and geographical distribution of species",
+        "is_correct": true
+      },
+      {
+        "text": "Individuals evolve because they need to",
+        "is_correct": false
+      },
+      {
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "The same rule and result apply to every situation without testing",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "analysing evidence for the theory of evolution by natural selection including the fossil record, chemical and anatomical similarities, and geographical distribution of species",
+      "hint": "Use evidence for the theory of evolution by natural selection to make the role of survival and reproduction visible and connect the evidence to the unit’s central explanation."
+    }
+  },
+  {
+    "id": "ac9s10u02-t-002",
+    "curriculum_code": "AC9S10U02",
+    "year_level": "Year 10",
+    "subject": "science",
+    "bank": "test",
+    "skill": "use_changes_caused_by_natural_selection_in_a_particular_population_to_make_the_role_of_population_change_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
+    "question": "A Year 10 student is investigating use changes caused by natural selection in a particular population to make the role of population change visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
+    "audio_prompt": "A Year 10 student is investigating use changes caused by natural selection in a particular population to make the role of population change visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Natural selection is random",
+        "is_correct": false
+      },
+      {
+        "text": "investigating changes caused by natural selection in a particular population as a result of a specified selection pressure such as artificial selection in breeding for desired characteristics",
+        "is_correct": true
+      },
+      {
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "The same rule and result apply to every situation without testing",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "investigating changes caused by natural selection in a particular population as a result of a specified selection pressure such as artificial selection in breeding for desired characteristics",
+      "hint": "Use changes caused by natural selection in a particular population to make the role of population change visible and connect the evidence to the unit’s central explanation."
+    }
+  },
+  {
+    "id": "ac9s10u02-t-003",
+    "curriculum_code": "AC9S10U02",
+    "year_level": "Year 10",
+    "subject": "science",
+    "bank": "test",
+    "skill": "use_genetic_characteristics_to_survival_and_reproductive_rates_to_make_the_role_of_multiple_evidence_lines_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
+    "question": "A Year 10 student is investigating use genetic characteristics to survival and reproductive rates to make the role of multiple evidence lines visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
+    "audio_prompt": "A Year 10 student is investigating use genetic characteristics to survival and reproductive rates to make the role of multiple evidence lines visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Individuals evolve because they need to",
+        "is_correct": false
+      },
+      {
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "relating genetic characteristics to survival and reproductive rates",
+        "is_correct": true
+      },
+      {
+        "text": "The same rule and result apply to every situation without testing",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "relating genetic characteristics to survival and reproductive rates",
+      "hint": "Use genetic characteristics to survival and reproductive rates to make the role of multiple evidence lines visible and connect the evidence to the unit’s central explanation."
+    }
+  },
+  {
+    "id": "ac9s10u02-t-004",
+    "curriculum_code": "AC9S10U02",
+    "year_level": "Year 10",
+    "subject": "science",
+    "bank": "test",
+    "skill": "use_some_of_the_structural_and_physiological_adaptations_of_first_to_make_the_role_of_heritable_variation_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
+    "question": "A Year 10 student is investigating use some of the structural and physiological adaptations of first to make the role of heritable variation visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
+    "audio_prompt": "A Year 10 student is investigating use some of the structural and physiological adaptations of first to make the role of heritable variation visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Natural selection is random",
+        "is_correct": false
+      },
+      {
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "The same rule and result apply to every situation without testing",
+        "is_correct": false
+      },
+      {
+        "text": "investigating some of the structural and physiological adaptations of First Nations Australians to the Australian environment",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "investigating some of the structural and physiological adaptations of First Nations Australians to the Australian environment",
+      "hint": "Use some of the structural and physiological adaptations of First to make the role of heritable variation visible and connect the evidence to the unit’s central explanation."
+    }
+  },
+  {
+    "id": "ac9s10u02-t-005",
+    "curriculum_code": "AC9S10U02",
+    "year_level": "Year 10",
+    "subject": "science",
+    "bank": "test",
+    "skill": "use_processes_involved_in_natural_selection_to_make_the_role_of_heritable_variation_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
+    "question": "Which response correctly uses use processes involved in natural selection to make the role of heritable variation visible and connect the evidence to the unit’s central explanation?",
+    "audio_prompt": "Which response correctly uses use processes involved in natural selection to make the role of heritable variation visible and connect the evidence to the unit’s central explanation?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "outlining processes involved in natural selection including variation, isolation and selection",
+        "is_correct": true
+      },
+      {
+        "text": "Individuals evolve because they need to",
+        "is_correct": false
+      },
+      {
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "The same rule and result apply to every situation without testing",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "outlining processes involved in natural selection including variation, isolation and selection",
+      "hint": "Use processes involved in natural selection to make the role of heritable variation visible and connect the evidence to the unit’s central explanation."
+    }
+  },
+  {
+    "id": "ac9s10u02-t-006",
+    "curriculum_code": "AC9S10U02",
+    "year_level": "Year 10",
+    "subject": "science",
+    "bank": "test",
+    "skill": "use_biodiversity_as_a_function_of_evolution_to_make_the_role_of_selection_pressure_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
+    "question": "Which response correctly uses use biodiversity as a function of evolution to make the role of selection pressure visible and connect the evidence to the unit’s central explanation?",
+    "audio_prompt": "Which response correctly uses use biodiversity as a function of evolution to make the role of selection pressure visible and connect the evidence to the unit’s central explanation?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Natural selection is random",
+        "is_correct": false
+      },
+      {
+        "text": "examining biodiversity as a function of evolution",
+        "is_correct": true
+      },
+      {
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "The same rule and result apply to every situation without testing",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "examining biodiversity as a function of evolution",
+      "hint": "Use biodiversity as a function of evolution to make the role of selection pressure visible and connect the evidence to the unit’s central explanation."
+    }
+  },
+  {
+    "id": "ac9s10u02-t-007",
+    "curriculum_code": "AC9S10U02",
+    "year_level": "Year 10",
+    "subject": "science",
+    "bank": "test",
+    "skill": "use_evidence_for_the_theory_of_evolution_by_natural_selection_to_make_the_role_of_survival_and_reproduction_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
+    "question": "Which response correctly uses use evidence for the theory of evolution by natural selection to make the role of survival and reproduction visible and connect the evidence to the unit’s central explanation?",
+    "audio_prompt": "Which response correctly uses use evidence for the theory of evolution by natural selection to make the role of survival and reproduction visible and connect the evidence to the unit’s central explanation?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Individuals evolve because they need to",
+        "is_correct": false
+      },
+      {
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "analysing evidence for the theory of evolution by natural selection including the fossil record, chemical and anatomical similarities, and geographical distribution of species",
+        "is_correct": true
+      },
+      {
+        "text": "The same rule and result apply to every situation without testing",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "analysing evidence for the theory of evolution by natural selection including the fossil record, chemical and anatomical similarities, and geographical distribution of species",
+      "hint": "Use evidence for the theory of evolution by natural selection to make the role of survival and reproduction visible and connect the evidence to the unit’s central explanation."
+    }
+  },
+  {
+    "id": "ac9s10u02-t-008",
+    "curriculum_code": "AC9S10U02",
+    "year_level": "Year 10",
+    "subject": "science",
+    "bank": "test",
+    "skill": "use_changes_caused_by_natural_selection_in_a_particular_population_to_make_the_role_of_population_change_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
+    "question": "Which response correctly uses use changes caused by natural selection in a particular population to make the role of population change visible and connect the evidence to the unit’s central explanation?",
+    "audio_prompt": "Which response correctly uses use changes caused by natural selection in a particular population to make the role of population change visible and connect the evidence to the unit’s central explanation?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Natural selection is random",
+        "is_correct": false
+      },
+      {
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "The same rule and result apply to every situation without testing",
+        "is_correct": false
+      },
+      {
+        "text": "investigating changes caused by natural selection in a particular population as a result of a specified selection pressure such as artificial selection in breeding for desired characteristics",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "investigating changes caused by natural selection in a particular population as a result of a specified selection pressure such as artificial selection in breeding for desired characteristics",
+      "hint": "Use changes caused by natural selection in a particular population to make the role of population change visible and connect the evidence to the unit’s central explanation."
+    }
+  }
+]

@@ -1,0 +1,136 @@
+{
+  "codes": {
+    "AC9SFI03": {
+      "practice": {
+        "count": 56,
+        "types": [
+          "multiple",
+          "order",
+          "single"
+        ],
+        "visualCount": 52,
+        "skillCount": 14
+      },
+      "test": {
+        "count": 24,
+        "types": [
+          "order",
+          "single"
+        ],
+        "visualCount": 22,
+        "skillCount": 12
+      }
+    },
+    "AC9SFI04": {
+      "practice": {
+        "count": 56,
+        "types": [
+          "order",
+          "single"
+        ],
+        "visualCount": 52,
+        "skillCount": 14
+      },
+      "test": {
+        "count": 24,
+        "types": [
+          "order",
+          "single"
+        ],
+        "visualCount": 22,
+        "skillCount": 12
+      }
+    },
+    "AC9SFI05": {
+      "practice": {
+        "count": 56,
+        "types": [
+          "order",
+          "single"
+        ],
+        "visualCount": 52,
+        "skillCount": 14
+      },
+      "test": {
+        "count": 24,
+        "types": [
+          "order",
+          "single"
+        ],
+        "visualCount": 22,
+        "skillCount": 12
+      }
+    },
+    "AC9SFU01": {
+      "practice": {
+        "count": 56,
+        "types": [
+          "multiple",
+          "single"
+        ],
+        "visualCount": 56,
+        "skillCount": 14
+      },
+      "test": {
+        "count": 24,
+        "types": [
+          "multiple",
+          "order",
+          "single"
+        ],
+        "visualCount": 22,
+        "skillCount": 12
+      }
+    },
+    "AC9SFU02": {
+      "practice": {
+        "count": 56,
+        "types": [
+          "multiple",
+          "order",
+          "single"
+        ],
+        "visualCount": 52,
+        "skillCount": 14
+      },
+      "test": {
+        "count": 24,
+        "types": [
+          "multiple",
+          "order",
+          "single"
+        ],
+        "visualCount": 22,
+        "skillCount": 12
+      }
+    },
+    "AC9SFU03": {
+      "practice": {
+        "count": 56,
+        "types": [
+          "multiple",
+          "order",
+          "single"
+        ],
+        "visualCount": 52,
+        "skillCount": 14
+      },
+      "test": {
+        "count": 24,
+        "types": [
+          "order",
+          "single"
+        ],
+        "visualCount": 22,
+        "skillCount": 12
+      }
+    }
+  },
+  "dailyDrills": {
+    "scientific-inquiry": 48,
+    "science-vocabulary": 24,
+    "living-things-earth": 32,
+    "materials-forces-energy": 48,
+    "science-technology-society": 16
+  }
+}

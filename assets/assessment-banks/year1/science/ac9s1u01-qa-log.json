@@ -1,0 +1,14 @@
+{
+  "curriculum_code": "AC9S1U01",
+  "practice": 24,
+  "test": 16,
+  "items": 40,
+  "automated_quality_score": 9,
+  "fixes": [
+    "Replaced the 8-item response-only banks with 40 unique, auto-marked Year 1 items.",
+    "Used separate Practice and Test contexts.",
+    "Added balanced three-option choices based on plausible misconceptions.",
+    "Added system read-aloud prompts, SVG visual metadata, accessibility text, summaries and hints."
+  ],
+  "flagged_for_awareness": []
+}

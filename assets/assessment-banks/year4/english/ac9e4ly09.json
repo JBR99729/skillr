@@ -1,0 +1,1682 @@
+[
+  {
+    "id": "AC9E4LY09-P-001",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY09",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "Morphology and Multisyllabic Words",
+    "question": "In working out “unhelpful”, which option best demonstrates the skill?",
+    "audio_prompt": "In working out “unhelpful”, which option best demonstrates the skill?",
+    "answers": [
+      {
+        "text": "Guess from the first two letters only.",
+        "is_correct": false
+      },
+      {
+        "text": "Break it into un- + help + -ful and use the parts to understand “not helpful”.",
+        "is_correct": true
+      },
+      {
+        "text": "Treat unhelpful as unrelated to help.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Recognising prefix, base word and suffix supports both decoding and meaning.",
+      "hint": "Look for a known base word inside the longer word."
+    }
+  },
+  {
+    "id": "AC9E4LY09-P-002",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY09",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "Morphology and Multisyllabic Words",
+    "question": "Which choice fits working out “unhelpful” most accurately?",
+    "audio_prompt": "Which choice fits working out “unhelpful” most accurately?",
+    "answers": [
+      {
+        "text": "Guess from the first two letters only.",
+        "is_correct": false
+      },
+      {
+        "text": "Treat unhelpful as unrelated to help.",
+        "is_correct": false
+      },
+      {
+        "text": "Break it into un- + help + -ful and use the parts to understand “not helpful”.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Recognising prefix, base word and suffix supports both decoding and meaning.",
+      "hint": "Look for a known base word inside the longer word."
+    }
+  },
+  {
+    "id": "AC9E4LY09-P-003",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY09",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "Morphology and Multisyllabic Words",
+    "question": "Which choice fits spelling “careless” most accurately?",
+    "audio_prompt": "Which choice fits spelling “careless” most accurately?",
+    "answers": [
+      {
+        "text": "Use care + -less, keeping the base word care before adding the suffix.",
+        "is_correct": true
+      },
+      {
+        "text": "Spell it carless because the unstressed vowel seems quiet.",
+        "is_correct": false
+      },
+      {
+        "text": "Spell it careluss by sound alone.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Morphological knowledge protects the spelling of the meaningful base even when sounds are reduced.",
+      "hint": "Think about the base word before the suffix."
+    }
+  },
+  {
+    "id": "AC9E4LY09-P-004",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY09",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "Morphology and Multisyllabic Words",
+    "question": "Look closely at spelling “careless”. Which response or wording works best?",
+    "audio_prompt": "Look closely at spelling “careless”. Which response or wording works best?",
+    "answers": [
+      {
+        "text": "Spell it carless because the unstressed vowel seems quiet.",
+        "is_correct": false
+      },
+      {
+        "text": "Use care + -less, keeping the base word care before adding the suffix.",
+        "is_correct": true
+      },
+      {
+        "text": "Spell it careluss by sound alone.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Morphological knowledge protects the spelling of the meaningful base even when sounds are reduced.",
+      "hint": "Think about the base word before the suffix."
+    }
+  },
+  {
+    "id": "AC9E4LY09-P-005",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY09",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "Morphology and Multisyllabic Words",
+    "question": "Look closely at reading “information”. Which response or wording works best?",
+    "audio_prompt": "Look closely at reading “information”. Which response or wording works best?",
+    "answers": [
+      {
+        "text": "Sound out the whole word as one long unit without checking meaning.",
+        "is_correct": false
+      },
+      {
+        "text": "Skip the unstressed syllable completely.",
+        "is_correct": false
+      },
+      {
+        "text": "Chunk the word into manageable syllables and connect inform + -ation to meaning.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Syllable chunking and morphology can work together in long words.",
+      "hint": "Find both pronounceable chunks and meaningful parts."
+    }
+  },
+  {
+    "id": "AC9E4LY09-P-006",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY09",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "Morphology and Multisyllabic Words",
+    "question": "For reading “information”, which option is the strongest match?",
+    "audio_prompt": "For reading “information”, which option is the strongest match?",
+    "answers": [
+      {
+        "text": "Chunk the word into manageable syllables and connect inform + -ation to meaning.",
+        "is_correct": true
+      },
+      {
+        "text": "Sound out the whole word as one long unit without checking meaning.",
+        "is_correct": false
+      },
+      {
+        "text": "Skip the unstressed syllable completely.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Syllable chunking and morphology can work together in long words.",
+      "hint": "Find both pronounceable chunks and meaningful parts."
+    }
+  },
+  {
+    "id": "AC9E4LY09-P-007",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY09",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "Morphology and Multisyllabic Words",
+    "question": "For spelling “disagreement”, which option is the strongest match?",
+    "audio_prompt": "For spelling “disagreement”, which option is the strongest match?",
+    "answers": [
+      {
+        "text": "Spell it disagreemint only from the weak final vowel.",
+        "is_correct": false
+      },
+      {
+        "text": "Build it from dis- + agree + -ment.",
+        "is_correct": true
+      },
+      {
+        "text": "Remove agree because the prefix changes the whole word.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The known morphemes preserve spelling even when an unstressed vowel is hard to hear.",
+      "hint": "Write the meaningful parts you know."
+    }
+  },
+  {
+    "id": "AC9E4LY09-P-008",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY09",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "Morphology and Multisyllabic Words",
+    "question": "Which example should you choose for spelling “disagreement”?",
+    "audio_prompt": "Which example should you choose for spelling “disagreement”?",
+    "answers": [
+      {
+        "text": "Spell it disagreemint only from the weak final vowel.",
+        "is_correct": false
+      },
+      {
+        "text": "Remove agree because the prefix changes the whole word.",
+        "is_correct": false
+      },
+      {
+        "text": "Build it from dis- + agree + -ment.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The known morphemes preserve spelling even when an unstressed vowel is hard to hear.",
+      "hint": "Write the meaningful parts you know."
+    }
+  },
+  {
+    "id": "AC9E4LY09-P-009",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY09",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "Morphology and Multisyllabic Words",
+    "question": "Which example should you choose for working out “reappearance”?",
+    "audio_prompt": "Which example should you choose for working out “reappearance”?",
+    "answers": [
+      {
+        "text": "Recognise re- + appear + -ance and connect the word to appearing again.",
+        "is_correct": true
+      },
+      {
+        "text": "Assume re- always means wrong.",
+        "is_correct": false
+      },
+      {
+        "text": "Treat the word as having no connection to appear.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Prefixes and suffixes provide clues to both pronunciation and meaning.",
+      "hint": "Start with the base word and then add each affix meaning."
+    }
+  },
+  {
+    "id": "AC9E4LY09-P-010",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY09",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "Morphology and Multisyllabic Words",
+    "question": "In working out “reappearance”, which option best demonstrates the skill?",
+    "audio_prompt": "In working out “reappearance”, which option best demonstrates the skill?",
+    "answers": [
+      {
+        "text": "Assume re- always means wrong.",
+        "is_correct": false
+      },
+      {
+        "text": "Recognise re- + appear + -ance and connect the word to appearing again.",
+        "is_correct": true
+      },
+      {
+        "text": "Treat the word as having no connection to appear.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Prefixes and suffixes provide clues to both pronunciation and meaning.",
+      "hint": "Start with the base word and then add each affix meaning."
+    }
+  },
+  {
+    "id": "AC9E4LY09-P-011",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY09",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "Morphology and Multisyllabic Words",
+    "question": "Why does “Break it into un- + help + -ful and use the parts to understand “not helpful”.” work well for working out “unhelpful”?",
+    "audio_prompt": "Why does “Break it into un- + help + -ful and use the parts to understand “not helpful”.” work well for working out “unhelpful”?",
+    "answers": [
+      {
+        "text": "Because “Guess from the first two letters only.” is always acceptable in this situation.",
+        "is_correct": false
+      },
+      {
+        "text": "Because the longest or most complicated option must be correct.",
+        "is_correct": false
+      },
+      {
+        "text": "Recognising prefix, base word and suffix supports both decoding and meaning.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Recognising prefix, base word and suffix supports both decoding and meaning.",
+      "hint": "Look for a known base word inside the longer word."
+    }
+  },
+  {
+    "id": "AC9E4LY09-P-012",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY09",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "Morphology and Multisyllabic Words",
+    "question": "What makes “Break it into un- + help + -ful and use the parts to understand “not helpful”.” a better choice in working out “unhelpful”?",
+    "audio_prompt": "What makes “Break it into un- + help + -ful and use the parts to understand “not helpful”.” a better choice in working out “unhelpful”?",
+    "answers": [
+      {
+        "text": "Recognising prefix, base word and suffix supports both decoding and meaning.",
+        "is_correct": true
+      },
+      {
+        "text": "Because “Guess from the first two letters only.” is always acceptable in this situation.",
+        "is_correct": false
+      },
+      {
+        "text": "Because the longest or most complicated option must be correct.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Recognising prefix, base word and suffix supports both decoding and meaning.",
+      "hint": "Look for a known base word inside the longer word."
+    }
+  },
+  {
+    "id": "AC9E4LY09-P-013",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY09",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "Morphology and Multisyllabic Words",
+    "question": "What makes “Use care + -less, keeping the base word care before adding the suffix.” a better choice in spelling “careless”?",
+    "audio_prompt": "What makes “Use care + -less, keeping the base word care before adding the suffix.” a better choice in spelling “careless”?",
+    "answers": [
+      {
+        "text": "Because “Spell it carless because the unstressed vowel seems quiet.” is always acceptable in this situation.",
+        "is_correct": false
+      },
+      {
+        "text": "Morphological knowledge protects the spelling of the meaningful base even when sounds are reduced.",
+        "is_correct": true
+      },
+      {
+        "text": "Because the longest or most complicated option must be correct.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Morphological knowledge protects the spelling of the meaningful base even when sounds are reduced.",
+      "hint": "Think about the base word before the suffix."
+    }
+  },
+  {
+    "id": "AC9E4LY09-P-014",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY09",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "Morphology and Multisyllabic Words",
+    "question": "Which explanation best justifies “Use care + -less, keeping the base word care before adding the suffix.” for spelling “careless”?",
+    "audio_prompt": "Which explanation best justifies “Use care + -less, keeping the base word care before adding the suffix.” for spelling “careless”?",
+    "answers": [
+      {
+        "text": "Because “Spell it carless because the unstressed vowel seems quiet.” is always acceptable in this situation.",
+        "is_correct": false
+      },
+      {
+        "text": "Because the longest or most complicated option must be correct.",
+        "is_correct": false
+      },
+      {
+        "text": "Morphological knowledge protects the spelling of the meaningful base even when sounds are reduced.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Morphological knowledge protects the spelling of the meaningful base even when sounds are reduced.",
+      "hint": "Think about the base word before the suffix."
+    }
+  },
+  {
+    "id": "AC9E4LY09-P-015",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY09",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "Morphology and Multisyllabic Words",
+    "question": "Which explanation best justifies “Chunk the word into manageable syllables and connect inform + -ation to meaning.” for reading “information”?",
+    "audio_prompt": "Which explanation best justifies “Chunk the word into manageable syllables and connect inform + -ation to meaning.” for reading “information”?",
+    "answers": [
+      {
+        "text": "Syllable chunking and morphology can work together in long words.",
+        "is_correct": true
+      },
+      {
+        "text": "Because “Sound out the whole word as one long unit without checking meaning.” is always acceptable in this situation.",
+        "is_correct": false
+      },
+      {
+        "text": "Because the longest or most complicated option must be correct.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Syllable chunking and morphology can work together in long words.",
+      "hint": "Find both pronounceable chunks and meaningful parts."
+    }
+  },
+  {
+    "id": "AC9E4LY09-P-016",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY09",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "Morphology and Multisyllabic Words",
+    "question": "What should you notice about “Chunk the word into manageable syllables and connect inform + -ation to meaning.” in reading “information”?",
+    "audio_prompt": "What should you notice about “Chunk the word into manageable syllables and connect inform + -ation to meaning.” in reading “information”?",
+    "answers": [
+      {
+        "text": "Because “Sound out the whole word as one long unit without checking meaning.” is always acceptable in this situation.",
+        "is_correct": false
+      },
+      {
+        "text": "Syllable chunking and morphology can work together in long words.",
+        "is_correct": true
+      },
+      {
+        "text": "Because the longest or most complicated option must be correct.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Syllable chunking and morphology can work together in long words.",
+      "hint": "Find both pronounceable chunks and meaningful parts."
+    }
+  },
+  {
+    "id": "AC9E4LY09-P-017",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY09",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "Morphology and Multisyllabic Words",
+    "question": "What should you notice about “Build it from dis- + agree + -ment.” in spelling “disagreement”?",
+    "audio_prompt": "What should you notice about “Build it from dis- + agree + -ment.” in spelling “disagreement”?",
+    "answers": [
+      {
+        "text": "Because “Spell it disagreemint only from the weak final vowel.” is always acceptable in this situation.",
+        "is_correct": false
+      },
+      {
+        "text": "Because the longest or most complicated option must be correct.",
+        "is_correct": false
+      },
+      {
+        "text": "The known morphemes preserve spelling even when an unstressed vowel is hard to hear.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The known morphemes preserve spelling even when an unstressed vowel is hard to hear.",
+      "hint": "Write the meaningful parts you know."
+    }
+  },
+  {
+    "id": "AC9E4LY09-P-018",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY09",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "Morphology and Multisyllabic Words",
+    "question": "Which reason explains why “Build it from dis- + agree + -ment.” suits spelling “disagreement”?",
+    "audio_prompt": "Which reason explains why “Build it from dis- + agree + -ment.” suits spelling “disagreement”?",
+    "answers": [
+      {
+        "text": "The known morphemes preserve spelling even when an unstressed vowel is hard to hear.",
+        "is_correct": true
+      },
+      {
+        "text": "Because “Spell it disagreemint only from the weak final vowel.” is always acceptable in this situation.",
+        "is_correct": false
+      },
+      {
+        "text": "Because the longest or most complicated option must be correct.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The known morphemes preserve spelling even when an unstressed vowel is hard to hear.",
+      "hint": "Write the meaningful parts you know."
+    }
+  },
+  {
+    "id": "AC9E4LY09-P-019",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY09",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "Morphology and Multisyllabic Words",
+    "question": "Which reason explains why “Recognise re- + appear + -ance and connect the word to appearing again.” suits working out “reappearance”?",
+    "audio_prompt": "Which reason explains why “Recognise re- + appear + -ance and connect the word to appearing again.” suits working out “reappearance”?",
+    "answers": [
+      {
+        "text": "Because “Assume re- always means wrong.” is always acceptable in this situation.",
+        "is_correct": false
+      },
+      {
+        "text": "Prefixes and suffixes provide clues to both pronunciation and meaning.",
+        "is_correct": true
+      },
+      {
+        "text": "Because the longest or most complicated option must be correct.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Prefixes and suffixes provide clues to both pronunciation and meaning.",
+      "hint": "Start with the base word and then add each affix meaning."
+    }
+  },
+  {
+    "id": "AC9E4LY09-P-020",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY09",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "Morphology and Multisyllabic Words",
+    "question": "Why does “Recognise re- + appear + -ance and connect the word to appearing again.” work well for working out “reappearance”?",
+    "audio_prompt": "Why does “Recognise re- + appear + -ance and connect the word to appearing again.” work well for working out “reappearance”?",
+    "answers": [
+      {
+        "text": "Because “Assume re- always means wrong.” is always acceptable in this situation.",
+        "is_correct": false
+      },
+      {
+        "text": "Because the longest or most complicated option must be correct.",
+        "is_correct": false
+      },
+      {
+        "text": "Prefixes and suffixes provide clues to both pronunciation and meaning.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Prefixes and suffixes provide clues to both pronunciation and meaning.",
+      "hint": "Start with the base word and then add each affix meaning."
+    }
+  },
+  {
+    "id": "AC9E4LY09-P-021",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY09",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "Morphology and Multisyllabic Words",
+    "question": "Which revision best fixes the problem in “Guess from the first two letters only.” for working out “unhelpful”?",
+    "audio_prompt": "Which revision best fixes the problem in “Guess from the first two letters only.” for working out “unhelpful”?",
+    "answers": [
+      {
+        "text": "Break it into un- + help + -ful and use the parts to understand “not helpful”.",
+        "is_correct": true
+      },
+      {
+        "text": "Guess from the first two letters only.",
+        "is_correct": false
+      },
+      {
+        "text": "Treat unhelpful as unrelated to help.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Recognising prefix, base word and suffix supports both decoding and meaning. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Look for a known base word inside the longer word."
+    }
+  },
+  {
+    "id": "AC9E4LY09-P-022",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY09",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "Morphology and Multisyllabic Words",
+    "question": "Compare the choices for working out “unhelpful”. Which one avoids the mistake in “Guess from the first two letters only.”?",
+    "audio_prompt": "Compare the choices for working out “unhelpful”. Which one avoids the mistake in “Guess from the first two letters only.”?",
+    "answers": [
+      {
+        "text": "Guess from the first two letters only.",
+        "is_correct": false
+      },
+      {
+        "text": "Break it into un- + help + -ful and use the parts to understand “not helpful”.",
+        "is_correct": true
+      },
+      {
+        "text": "Treat unhelpful as unrelated to help.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Recognising prefix, base word and suffix supports both decoding and meaning. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Look for a known base word inside the longer word."
+    }
+  },
+  {
+    "id": "AC9E4LY09-P-023",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY09",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "Morphology and Multisyllabic Words",
+    "question": "Compare the choices for spelling “careless”. Which one avoids the mistake in “Spell it carless because the unstressed vowel seems quiet.”?",
+    "audio_prompt": "Compare the choices for spelling “careless”. Which one avoids the mistake in “Spell it carless because the unstressed vowel seems quiet.”?",
+    "answers": [
+      {
+        "text": "Spell it carless because the unstressed vowel seems quiet.",
+        "is_correct": false
+      },
+      {
+        "text": "Spell it careluss by sound alone.",
+        "is_correct": false
+      },
+      {
+        "text": "Use care + -less, keeping the base word care before adding the suffix.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Morphological knowledge protects the spelling of the meaningful base even when sounds are reduced. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Think about the base word before the suffix."
+    }
+  },
+  {
+    "id": "AC9E4LY09-P-024",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY09",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "Morphology and Multisyllabic Words",
+    "question": "If “Spell it carless because the unstressed vowel seems quiet.” does not work in spelling “careless”, what should replace it?",
+    "audio_prompt": "If “Spell it carless because the unstressed vowel seems quiet.” does not work in spelling “careless”, what should replace it?",
+    "answers": [
+      {
+        "text": "Use care + -less, keeping the base word care before adding the suffix.",
+        "is_correct": true
+      },
+      {
+        "text": "Spell it carless because the unstressed vowel seems quiet.",
+        "is_correct": false
+      },
+      {
+        "text": "Spell it careluss by sound alone.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Morphological knowledge protects the spelling of the meaningful base even when sounds are reduced. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Think about the base word before the suffix."
+    }
+  },
+  {
+    "id": "AC9E4LY09-P-025",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY09",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "Morphology and Multisyllabic Words",
+    "question": "If “Sound out the whole word as one long unit without checking meaning.” does not work in reading “information”, what should replace it?",
+    "audio_prompt": "If “Sound out the whole word as one long unit without checking meaning.” does not work in reading “information”, what should replace it?",
+    "answers": [
+      {
+        "text": "Sound out the whole word as one long unit without checking meaning.",
+        "is_correct": false
+      },
+      {
+        "text": "Chunk the word into manageable syllables and connect inform + -ation to meaning.",
+        "is_correct": true
+      },
+      {
+        "text": "Skip the unstressed syllable completely.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Syllable chunking and morphology can work together in long words. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Find both pronounceable chunks and meaningful parts."
+    }
+  },
+  {
+    "id": "AC9E4LY09-P-026",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY09",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "Morphology and Multisyllabic Words",
+    "question": "Which option corrects the meaning or form needed for reading “information”?",
+    "audio_prompt": "Which option corrects the meaning or form needed for reading “information”?",
+    "answers": [
+      {
+        "text": "Sound out the whole word as one long unit without checking meaning.",
+        "is_correct": false
+      },
+      {
+        "text": "Skip the unstressed syllable completely.",
+        "is_correct": false
+      },
+      {
+        "text": "Chunk the word into manageable syllables and connect inform + -ation to meaning.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Syllable chunking and morphology can work together in long words. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Find both pronounceable chunks and meaningful parts."
+    }
+  },
+  {
+    "id": "AC9E4LY09-P-027",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY09",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "Morphology and Multisyllabic Words",
+    "question": "Which option corrects the meaning or form needed for spelling “disagreement”?",
+    "audio_prompt": "Which option corrects the meaning or form needed for spelling “disagreement”?",
+    "answers": [
+      {
+        "text": "Build it from dis- + agree + -ment.",
+        "is_correct": true
+      },
+      {
+        "text": "Spell it disagreemint only from the weak final vowel.",
+        "is_correct": false
+      },
+      {
+        "text": "Remove agree because the prefix changes the whole word.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The known morphemes preserve spelling even when an unstressed vowel is hard to hear. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Write the meaningful parts you know."
+    }
+  },
+  {
+    "id": "AC9E4LY09-P-028",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY09",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "Morphology and Multisyllabic Words",
+    "question": "Which choice is the clearest correction for spelling “disagreement”?",
+    "audio_prompt": "Which choice is the clearest correction for spelling “disagreement”?",
+    "answers": [
+      {
+        "text": "Spell it disagreemint only from the weak final vowel.",
+        "is_correct": false
+      },
+      {
+        "text": "Build it from dis- + agree + -ment.",
+        "is_correct": true
+      },
+      {
+        "text": "Remove agree because the prefix changes the whole word.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The known morphemes preserve spelling even when an unstressed vowel is hard to hear. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Write the meaningful parts you know."
+    }
+  },
+  {
+    "id": "AC9E4LY09-P-029",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY09",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "Morphology and Multisyllabic Words",
+    "question": "Which choice is the clearest correction for working out “reappearance”?",
+    "audio_prompt": "Which choice is the clearest correction for working out “reappearance”?",
+    "answers": [
+      {
+        "text": "Assume re- always means wrong.",
+        "is_correct": false
+      },
+      {
+        "text": "Treat the word as having no connection to appear.",
+        "is_correct": false
+      },
+      {
+        "text": "Recognise re- + appear + -ance and connect the word to appearing again.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Prefixes and suffixes provide clues to both pronunciation and meaning. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Start with the base word and then add each affix meaning."
+    }
+  },
+  {
+    "id": "AC9E4LY09-P-030",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY09",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "Morphology and Multisyllabic Words",
+    "question": "Which revision best fixes the problem in “Assume re- always means wrong.” for working out “reappearance”?",
+    "audio_prompt": "Which revision best fixes the problem in “Assume re- always means wrong.” for working out “reappearance”?",
+    "answers": [
+      {
+        "text": "Recognise re- + appear + -ance and connect the word to appearing again.",
+        "is_correct": true
+      },
+      {
+        "text": "Assume re- always means wrong.",
+        "is_correct": false
+      },
+      {
+        "text": "Treat the word as having no connection to appear.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Prefixes and suffixes provide clues to both pronunciation and meaning. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Start with the base word and then add each affix meaning."
+    }
+  },
+  {
+    "id": "AC9E4LY09-P-031",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY09",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Morphology and Multisyllabic Words",
+    "question": "You now need to handle working out “unhelpful” independently. Which choice should you use?",
+    "audio_prompt": "You now need to handle working out “unhelpful” independently. Which choice should you use?",
+    "answers": [
+      {
+        "text": "Treat unhelpful as unrelated to help.",
+        "is_correct": false
+      },
+      {
+        "text": "Break it into un- + help + -ful and use the parts to understand “not helpful”.",
+        "is_correct": true
+      },
+      {
+        "text": "Guess from the first two letters only.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Recognising prefix, base word and suffix supports both decoding and meaning.",
+      "hint": "Look for a known base word inside the longer word."
+    }
+  },
+  {
+    "id": "AC9E4LY09-P-032",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY09",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Morphology and Multisyllabic Words",
+    "question": "Apply the same idea to working out “unhelpful”. Which option is best?",
+    "audio_prompt": "Apply the same idea to working out “unhelpful”. Which option is best?",
+    "answers": [
+      {
+        "text": "Treat unhelpful as unrelated to help.",
+        "is_correct": false
+      },
+      {
+        "text": "Guess from the first two letters only.",
+        "is_correct": false
+      },
+      {
+        "text": "Break it into un- + help + -ful and use the parts to understand “not helpful”.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Recognising prefix, base word and suffix supports both decoding and meaning.",
+      "hint": "Look for a known base word inside the longer word."
+    }
+  },
+  {
+    "id": "AC9E4LY09-P-033",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY09",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Morphology and Multisyllabic Words",
+    "question": "Apply the same idea to spelling “careless”. Which option is best?",
+    "audio_prompt": "Apply the same idea to spelling “careless”. Which option is best?",
+    "answers": [
+      {
+        "text": "Use care + -less, keeping the base word care before adding the suffix.",
+        "is_correct": true
+      },
+      {
+        "text": "Spell it careluss by sound alone.",
+        "is_correct": false
+      },
+      {
+        "text": "Spell it carless because the unstressed vowel seems quiet.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Morphological knowledge protects the spelling of the meaningful base even when sounds are reduced.",
+      "hint": "Think about the base word before the suffix."
+    }
+  },
+  {
+    "id": "AC9E4LY09-P-034",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY09",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Morphology and Multisyllabic Words",
+    "question": "Which decision would produce the clearest result in spelling “careless”?",
+    "audio_prompt": "Which decision would produce the clearest result in spelling “careless”?",
+    "answers": [
+      {
+        "text": "Spell it careluss by sound alone.",
+        "is_correct": false
+      },
+      {
+        "text": "Use care + -less, keeping the base word care before adding the suffix.",
+        "is_correct": true
+      },
+      {
+        "text": "Spell it carless because the unstressed vowel seems quiet.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Morphological knowledge protects the spelling of the meaningful base even when sounds are reduced.",
+      "hint": "Think about the base word before the suffix."
+    }
+  },
+  {
+    "id": "AC9E4LY09-P-035",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY09",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Morphology and Multisyllabic Words",
+    "question": "Which decision would produce the clearest result in reading “information”?",
+    "audio_prompt": "Which decision would produce the clearest result in reading “information”?",
+    "answers": [
+      {
+        "text": "Skip the unstressed syllable completely.",
+        "is_correct": false
+      },
+      {
+        "text": "Sound out the whole word as one long unit without checking meaning.",
+        "is_correct": false
+      },
+      {
+        "text": "Chunk the word into manageable syllables and connect inform + -ation to meaning.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Syllable chunking and morphology can work together in long words.",
+      "hint": "Find both pronounceable chunks and meaningful parts."
+    }
+  },
+  {
+    "id": "AC9E4LY09-P-036",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY09",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Morphology and Multisyllabic Words",
+    "question": "Choose the option that applies the skill correctly in reading “information”.",
+    "audio_prompt": "Choose the option that applies the skill correctly in reading “information”.",
+    "answers": [
+      {
+        "text": "Chunk the word into manageable syllables and connect inform + -ation to meaning.",
+        "is_correct": true
+      },
+      {
+        "text": "Skip the unstressed syllable completely.",
+        "is_correct": false
+      },
+      {
+        "text": "Sound out the whole word as one long unit without checking meaning.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Syllable chunking and morphology can work together in long words.",
+      "hint": "Find both pronounceable chunks and meaningful parts."
+    }
+  },
+  {
+    "id": "AC9E4LY09-P-037",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY09",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Morphology and Multisyllabic Words",
+    "question": "Choose the option that applies the skill correctly in spelling “disagreement”.",
+    "audio_prompt": "Choose the option that applies the skill correctly in spelling “disagreement”.",
+    "answers": [
+      {
+        "text": "Remove agree because the prefix changes the whole word.",
+        "is_correct": false
+      },
+      {
+        "text": "Build it from dis- + agree + -ment.",
+        "is_correct": true
+      },
+      {
+        "text": "Spell it disagreemint only from the weak final vowel.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The known morphemes preserve spelling even when an unstressed vowel is hard to hear.",
+      "hint": "Write the meaningful parts you know."
+    }
+  },
+  {
+    "id": "AC9E4LY09-P-038",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY09",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Morphology and Multisyllabic Words",
+    "question": "What would be the most effective choice for spelling “disagreement”?",
+    "audio_prompt": "What would be the most effective choice for spelling “disagreement”?",
+    "answers": [
+      {
+        "text": "Remove agree because the prefix changes the whole word.",
+        "is_correct": false
+      },
+      {
+        "text": "Spell it disagreemint only from the weak final vowel.",
+        "is_correct": false
+      },
+      {
+        "text": "Build it from dis- + agree + -ment.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The known morphemes preserve spelling even when an unstressed vowel is hard to hear.",
+      "hint": "Write the meaningful parts you know."
+    }
+  },
+  {
+    "id": "AC9E4LY09-P-039",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY09",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Morphology and Multisyllabic Words",
+    "question": "What would be the most effective choice for working out “reappearance”?",
+    "audio_prompt": "What would be the most effective choice for working out “reappearance”?",
+    "answers": [
+      {
+        "text": "Recognise re- + appear + -ance and connect the word to appearing again.",
+        "is_correct": true
+      },
+      {
+        "text": "Treat the word as having no connection to appear.",
+        "is_correct": false
+      },
+      {
+        "text": "Assume re- always means wrong.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Prefixes and suffixes provide clues to both pronunciation and meaning.",
+      "hint": "Start with the base word and then add each affix meaning."
+    }
+  },
+  {
+    "id": "AC9E4LY09-P-040",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY09",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Morphology and Multisyllabic Words",
+    "question": "You now need to handle working out “reappearance” independently. Which choice should you use?",
+    "audio_prompt": "You now need to handle working out “reappearance” independently. Which choice should you use?",
+    "answers": [
+      {
+        "text": "Treat the word as having no connection to appear.",
+        "is_correct": false
+      },
+      {
+        "text": "Recognise re- + appear + -ance and connect the word to appearing again.",
+        "is_correct": true
+      },
+      {
+        "text": "Assume re- always means wrong.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Prefixes and suffixes provide clues to both pronunciation and meaning.",
+      "hint": "Start with the base word and then add each affix meaning."
+    }
+  },
+  {
+    "id": "AC9E4LY09-T-001",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY09",
+    "bank": "test",
+    "stage": "verify",
+    "skill": "Morphology and Multisyllabic Words",
+    "question": "New context: reading “environmental”. Which option is correct?",
+    "audio_prompt": "New context: reading “environmental”. Which option is correct?",
+    "answers": [
+      {
+        "text": "Guess the word from the picture only.",
+        "is_correct": false
+      },
+      {
+        "text": "Ignore the final suffix and pronounce every vowel strongly.",
+        "is_correct": false
+      },
+      {
+        "text": "Use syllables en-vi-ron-men-tal and recognise environment + -al.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Long words often become easier when readers combine syllable knowledge with a familiar base and suffix.",
+      "hint": "Do not rely on one strategy alone."
+    }
+  },
+  {
+    "id": "AC9E4LY09-T-002",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY09",
+    "bank": "test",
+    "stage": "verify",
+    "skill": "Morphology and Multisyllabic Words",
+    "question": "What is the best choice for reading “environmental”?",
+    "audio_prompt": "What is the best choice for reading “environmental”?",
+    "answers": [
+      {
+        "text": "Use syllables en-vi-ron-men-tal and recognise environment + -al.",
+        "is_correct": true
+      },
+      {
+        "text": "Guess the word from the picture only.",
+        "is_correct": false
+      },
+      {
+        "text": "Ignore the final suffix and pronounce every vowel strongly.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Long words often become easier when readers combine syllable knowledge with a familiar base and suffix.",
+      "hint": "Do not rely on one strategy alone."
+    }
+  },
+  {
+    "id": "AC9E4LY09-T-003",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY09",
+    "bank": "test",
+    "stage": "verify",
+    "skill": "Morphology and Multisyllabic Words",
+    "question": "Which explanation best supports “Use syllables en-vi-ron-men-tal and recognise environment + -al.” in reading “environmental”?",
+    "audio_prompt": "Which explanation best supports “Use syllables en-vi-ron-men-tal and recognise environment + -al.” in reading “environmental”?",
+    "answers": [
+      {
+        "text": "Because “Guess the word from the picture only.” is always a safe choice.",
+        "is_correct": false
+      },
+      {
+        "text": "Long words often become easier when readers combine syllable knowledge with a familiar base and suffix.",
+        "is_correct": true
+      },
+      {
+        "text": "Because surface appearance matters more than meaning.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Long words often become easier when readers combine syllable knowledge with a familiar base and suffix.",
+      "hint": "Do not rely on one strategy alone."
+    }
+  },
+  {
+    "id": "AC9E4LY09-T-004",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY09",
+    "bank": "test",
+    "stage": "verify",
+    "skill": "Morphology and Multisyllabic Words",
+    "question": "Which clue should guide your decision in reading “environmental”?",
+    "audio_prompt": "Which clue should guide your decision in reading “environmental”?",
+    "answers": [
+      {
+        "text": "Choose the option with the most words.",
+        "is_correct": false
+      },
+      {
+        "text": "Ignore the context and use the first familiar form.",
+        "is_correct": false
+      },
+      {
+        "text": "Do not rely on one strategy alone.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Long words often become easier when readers combine syllable knowledge with a familiar base and suffix.",
+      "hint": "Do not rely on one strategy alone."
+    }
+  },
+  {
+    "id": "AC9E4LY09-T-005",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY09",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "Morphology and Multisyllabic Words",
+    "question": "Which option would you reject first in reading “environmental”?",
+    "audio_prompt": "Which option would you reject first in reading “environmental”?",
+    "answers": [
+      {
+        "text": "Guess the word from the picture only.",
+        "is_correct": true
+      },
+      {
+        "text": "Use syllables en-vi-ron-men-tal and recognise environment + -al.",
+        "is_correct": false
+      },
+      {
+        "text": "Ignore the final suffix and pronounce every vowel strongly.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The rejected choice conflicts with the exact meaning, form or situation being tested. Long words often become easier when readers combine syllable knowledge with a familiar base and suffix.",
+      "hint": "Do not rely on one strategy alone."
+    }
+  },
+  {
+    "id": "AC9E4LY09-T-006",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY09",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "Morphology and Multisyllabic Words",
+    "question": "Which correction should replace “Guess the word from the picture only.” in reading “environmental”?",
+    "audio_prompt": "Which correction should replace “Guess the word from the picture only.” in reading “environmental”?",
+    "answers": [
+      {
+        "text": "Guess the word from the picture only.",
+        "is_correct": false
+      },
+      {
+        "text": "Use syllables en-vi-ron-men-tal and recognise environment + -al.",
+        "is_correct": true
+      },
+      {
+        "text": "Ignore the final suffix and pronounce every vowel strongly.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Long words often become easier when readers combine syllable knowledge with a familiar base and suffix.",
+      "hint": "Do not rely on one strategy alone."
+    }
+  },
+  {
+    "id": "AC9E4LY09-T-007",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY09",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "Morphology and Multisyllabic Words",
+    "question": "Apply the skill to reading “environmental”: what should you choose?",
+    "audio_prompt": "Apply the skill to reading “environmental”: what should you choose?",
+    "answers": [
+      {
+        "text": "Guess the word from the picture only.",
+        "is_correct": false
+      },
+      {
+        "text": "Ignore the final suffix and pronounce every vowel strongly.",
+        "is_correct": false
+      },
+      {
+        "text": "Use syllables en-vi-ron-men-tal and recognise environment + -al.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Long words often become easier when readers combine syllable knowledge with a familiar base and suffix.",
+      "hint": "Do not rely on one strategy alone."
+    }
+  },
+  {
+    "id": "AC9E4LY09-T-008",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY09",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "Morphology and Multisyllabic Words",
+    "question": "Which final choice gives the clearest and most accurate result for reading “environmental”?",
+    "audio_prompt": "Which final choice gives the clearest and most accurate result for reading “environmental”?",
+    "answers": [
+      {
+        "text": "Use syllables en-vi-ron-men-tal and recognise environment + -al.",
+        "is_correct": true
+      },
+      {
+        "text": "Guess the word from the picture only.",
+        "is_correct": false
+      },
+      {
+        "text": "Ignore the final suffix and pronounce every vowel strongly.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Long words often become easier when readers combine syllable knowledge with a familiar base and suffix.",
+      "hint": "Do not rely on one strategy alone."
+    }
+  },
+  {
+    "id": "AC9E4LY09-T-009",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY09",
+    "bank": "test",
+    "stage": "verify",
+    "skill": "Morphology and Multisyllabic Words",
+    "question": "New context: spelling “musician”. Which option is correct?",
+    "audio_prompt": "New context: spelling “musician”. Which option is correct?",
+    "answers": [
+      {
+        "text": "Spell it muzishun only from the sounds.",
+        "is_correct": false
+      },
+      {
+        "text": "Connect music to musician and remember the -cian ending used in this word family.",
+        "is_correct": true
+      },
+      {
+        "text": "Drop the link to music because the pronunciation changes.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Word families and morphemes explain spellings that are not fully predictable from sound alone.",
+      "hint": "Ask which known word is inside the longer word."
+    }
+  },
+  {
+    "id": "AC9E4LY09-T-010",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY09",
+    "bank": "test",
+    "stage": "verify",
+    "skill": "Morphology and Multisyllabic Words",
+    "question": "What is the best choice for spelling “musician”?",
+    "audio_prompt": "What is the best choice for spelling “musician”?",
+    "answers": [
+      {
+        "text": "Spell it muzishun only from the sounds.",
+        "is_correct": false
+      },
+      {
+        "text": "Drop the link to music because the pronunciation changes.",
+        "is_correct": false
+      },
+      {
+        "text": "Connect music to musician and remember the -cian ending used in this word family.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Word families and morphemes explain spellings that are not fully predictable from sound alone.",
+      "hint": "Ask which known word is inside the longer word."
+    }
+  },
+  {
+    "id": "AC9E4LY09-T-011",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY09",
+    "bank": "test",
+    "stage": "verify",
+    "skill": "Morphology and Multisyllabic Words",
+    "question": "Which explanation best supports “Connect music to musician and remember the -cian ending used in this word family.” in spelling “musician”?",
+    "audio_prompt": "Which explanation best supports “Connect music to musician and remember the -cian ending used in this word family.” in spelling “musician”?",
+    "answers": [
+      {
+        "text": "Word families and morphemes explain spellings that are not fully predictable from sound alone.",
+        "is_correct": true
+      },
+      {
+        "text": "Because “Spell it muzishun only from the sounds.” is always a safe choice.",
+        "is_correct": false
+      },
+      {
+        "text": "Because surface appearance matters more than meaning.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Word families and morphemes explain spellings that are not fully predictable from sound alone.",
+      "hint": "Ask which known word is inside the longer word."
+    }
+  },
+  {
+    "id": "AC9E4LY09-T-012",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY09",
+    "bank": "test",
+    "stage": "verify",
+    "skill": "Morphology and Multisyllabic Words",
+    "question": "Which clue should guide your decision in spelling “musician”?",
+    "audio_prompt": "Which clue should guide your decision in spelling “musician”?",
+    "answers": [
+      {
+        "text": "Choose the option with the most words.",
+        "is_correct": false
+      },
+      {
+        "text": "Ask which known word is inside the longer word.",
+        "is_correct": true
+      },
+      {
+        "text": "Ignore the context and use the first familiar form.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Word families and morphemes explain spellings that are not fully predictable from sound alone.",
+      "hint": "Ask which known word is inside the longer word."
+    }
+  },
+  {
+    "id": "AC9E4LY09-T-013",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY09",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "Morphology and Multisyllabic Words",
+    "question": "Which option would you reject first in spelling “musician”?",
+    "audio_prompt": "Which option would you reject first in spelling “musician”?",
+    "answers": [
+      {
+        "text": "Connect music to musician and remember the -cian ending used in this word family.",
+        "is_correct": false
+      },
+      {
+        "text": "Drop the link to music because the pronunciation changes.",
+        "is_correct": false
+      },
+      {
+        "text": "Spell it muzishun only from the sounds.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The rejected choice conflicts with the exact meaning, form or situation being tested. Word families and morphemes explain spellings that are not fully predictable from sound alone.",
+      "hint": "Ask which known word is inside the longer word."
+    }
+  },
+  {
+    "id": "AC9E4LY09-T-014",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY09",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "Morphology and Multisyllabic Words",
+    "question": "Which correction should replace “Spell it muzishun only from the sounds.” in spelling “musician”?",
+    "audio_prompt": "Which correction should replace “Spell it muzishun only from the sounds.” in spelling “musician”?",
+    "answers": [
+      {
+        "text": "Connect music to musician and remember the -cian ending used in this word family.",
+        "is_correct": true
+      },
+      {
+        "text": "Spell it muzishun only from the sounds.",
+        "is_correct": false
+      },
+      {
+        "text": "Drop the link to music because the pronunciation changes.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Word families and morphemes explain spellings that are not fully predictable from sound alone.",
+      "hint": "Ask which known word is inside the longer word."
+    }
+  },
+  {
+    "id": "AC9E4LY09-T-015",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY09",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "Morphology and Multisyllabic Words",
+    "question": "Apply the skill to spelling “musician”: what should you choose?",
+    "audio_prompt": "Apply the skill to spelling “musician”: what should you choose?",
+    "answers": [
+      {
+        "text": "Spell it muzishun only from the sounds.",
+        "is_correct": false
+      },
+      {
+        "text": "Connect music to musician and remember the -cian ending used in this word family.",
+        "is_correct": true
+      },
+      {
+        "text": "Drop the link to music because the pronunciation changes.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Word families and morphemes explain spellings that are not fully predictable from sound alone.",
+      "hint": "Ask which known word is inside the longer word."
+    }
+  },
+  {
+    "id": "AC9E4LY09-T-016",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY09",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "Morphology and Multisyllabic Words",
+    "question": "Which final choice gives the clearest and most accurate result for spelling “musician”?",
+    "audio_prompt": "Which final choice gives the clearest and most accurate result for spelling “musician”?",
+    "answers": [
+      {
+        "text": "Spell it muzishun only from the sounds.",
+        "is_correct": false
+      },
+      {
+        "text": "Drop the link to music because the pronunciation changes.",
+        "is_correct": false
+      },
+      {
+        "text": "Connect music to musician and remember the -cian ending used in this word family.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Word families and morphemes explain spellings that are not fully predictable from sound alone.",
+      "hint": "Ask which known word is inside the longer word."
+    }
+  }
+]

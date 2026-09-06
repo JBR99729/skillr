@@ -1,0 +1,1682 @@
+[
+  {
+    "id": "AC9E4LA07-P-001",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA07",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "Quoted and Reported Speech",
+    "question": "In quoting the coach after a netball game, which option best demonstrates the skill?",
+    "audio_prompt": "In quoting the coach after a netball game, which option best demonstrates the skill?",
+    "answers": [
+      {
+        "text": "The coach said, “We kept trying until the final whistle.”",
+        "is_correct": true
+      },
+      {
+        "text": "The coach said that “we kept trying until the final whistle”.",
+        "is_correct": false
+      },
+      {
+        "text": "The coach we kept trying until the final whistle.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Quotation marks show the coach’s exact spoken words.",
+      "hint": "Use quotation marks only when the wording is presented as the speaker’s exact words."
+    }
+  },
+  {
+    "id": "AC9E4LA07-P-002",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA07",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "Quoted and Reported Speech",
+    "question": "Which choice fits quoting the coach after a netball game most accurately?",
+    "audio_prompt": "Which choice fits quoting the coach after a netball game most accurately?",
+    "answers": [
+      {
+        "text": "The coach said that “we kept trying until the final whistle”.",
+        "is_correct": false
+      },
+      {
+        "text": "The coach said, “We kept trying until the final whistle.”",
+        "is_correct": true
+      },
+      {
+        "text": "The coach we kept trying until the final whistle.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Quotation marks show the coach’s exact spoken words.",
+      "hint": "Use quotation marks only when the wording is presented as the speaker’s exact words."
+    }
+  },
+  {
+    "id": "AC9E4LA07-P-003",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA07",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "Quoted and Reported Speech",
+    "question": "Which choice fits reporting what the coach said without quoting most accurately?",
+    "audio_prompt": "Which choice fits reporting what the coach said without quoting most accurately?",
+    "answers": [
+      {
+        "text": "The coach said, “that the team had kept trying”.",
+        "is_correct": false
+      },
+      {
+        "text": "“The coach said that the team kept trying.”",
+        "is_correct": false
+      },
+      {
+        "text": "The coach said that the team had kept trying until the final whistle.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Reported speech retells the message without quotation marks and may adjust pronouns or tense.",
+      "hint": "Check whether the sentence gives exact words or reports the idea."
+    }
+  },
+  {
+    "id": "AC9E4LA07-P-004",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA07",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "Quoted and Reported Speech",
+    "question": "Look closely at reporting what the coach said without quoting. Which response or wording works best?",
+    "audio_prompt": "Look closely at reporting what the coach said without quoting. Which response or wording works best?",
+    "answers": [
+      {
+        "text": "The coach said that the team had kept trying until the final whistle.",
+        "is_correct": true
+      },
+      {
+        "text": "The coach said, “that the team had kept trying”.",
+        "is_correct": false
+      },
+      {
+        "text": "“The coach said that the team kept trying.”",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Reported speech retells the message without quotation marks and may adjust pronouns or tense.",
+      "hint": "Check whether the sentence gives exact words or reports the idea."
+    }
+  },
+  {
+    "id": "AC9E4LA07-P-005",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA07",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "Quoted and Reported Speech",
+    "question": "Look closely at turning “I will bring my hat tomorrow,” Mia said, into reported speech. Which response or wording works best?",
+    "audio_prompt": "Look closely at turning “I will bring my hat tomorrow,” Mia said, into reported speech. Which response or wording works best?",
+    "answers": [
+      {
+        "text": "Mia said that I will bring my hat tomorrow.",
+        "is_correct": false
+      },
+      {
+        "text": "Mia said that she would bring her hat the next day.",
+        "is_correct": true
+      },
+      {
+        "text": "Mia said, she would bring her hat tomorrow.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Reported speech changes I to she and tomorrow to the next day because the viewpoint and time reference shift.",
+      "hint": "Track pronouns, tense and time words when the speaker’s words are retold."
+    }
+  },
+  {
+    "id": "AC9E4LA07-P-006",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA07",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "Quoted and Reported Speech",
+    "question": "For turning “I will bring my hat tomorrow,” Mia said, into reported speech, which option is the strongest match?",
+    "audio_prompt": "For turning “I will bring my hat tomorrow,” Mia said, into reported speech, which option is the strongest match?",
+    "answers": [
+      {
+        "text": "Mia said that I will bring my hat tomorrow.",
+        "is_correct": false
+      },
+      {
+        "text": "Mia said, she would bring her hat tomorrow.",
+        "is_correct": false
+      },
+      {
+        "text": "Mia said that she would bring her hat the next day.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Reported speech changes I to she and tomorrow to the next day because the viewpoint and time reference shift.",
+      "hint": "Track pronouns, tense and time words when the speaker’s words are retold."
+    }
+  },
+  {
+    "id": "AC9E4LA07-P-007",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA07",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "Quoted and Reported Speech",
+    "question": "For choosing a reporting verb for a strong promise, which option is the strongest match?",
+    "audio_prompt": "For choosing a reporting verb for a strong promise, which option is the strongest match?",
+    "answers": [
+      {
+        "text": "Luca promised that he would return the library book.",
+        "is_correct": true
+      },
+      {
+        "text": "Luca whispered that he would return it, even though the sentence is about a promise.",
+        "is_correct": false
+      },
+      {
+        "text": "Luca happened the library book.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Promised tells the reader what kind of speech act Luca made, not just that he spoke.",
+      "hint": "Choose a reporting verb that matches the meaning of the original speech."
+    }
+  },
+  {
+    "id": "AC9E4LA07-P-008",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA07",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "Quoted and Reported Speech",
+    "question": "Which example should you choose for choosing a reporting verb for a strong promise?",
+    "audio_prompt": "Which example should you choose for choosing a reporting verb for a strong promise?",
+    "answers": [
+      {
+        "text": "Luca whispered that he would return it, even though the sentence is about a promise.",
+        "is_correct": false
+      },
+      {
+        "text": "Luca promised that he would return the library book.",
+        "is_correct": true
+      },
+      {
+        "text": "Luca happened the library book.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Promised tells the reader what kind of speech act Luca made, not just that he spoke.",
+      "hint": "Choose a reporting verb that matches the meaning of the original speech."
+    }
+  },
+  {
+    "id": "AC9E4LA07-P-009",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA07",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "Quoted and Reported Speech",
+    "question": "Which example should you choose for using a quotation in a school news report?",
+    "audio_prompt": "Which example should you choose for using a quotation in a school news report?",
+    "answers": [
+      {
+        "text": "Asha said the new garden gives us “a cooler place” without showing whether those were her exact words.",
+        "is_correct": false
+      },
+      {
+        "text": "The new garden Asha said cooler place.",
+        "is_correct": false
+      },
+      {
+        "text": "Asha said, “The new garden gives us a cooler place to read.”",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A direct quotation should preserve the speaker’s wording and clearly identify who spoke.",
+      "hint": "Check that the quoted words are exact and the speaker is named."
+    }
+  },
+  {
+    "id": "AC9E4LA07-P-010",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA07",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "Quoted and Reported Speech",
+    "question": "In using a quotation in a school news report, which option best demonstrates the skill?",
+    "audio_prompt": "In using a quotation in a school news report, which option best demonstrates the skill?",
+    "answers": [
+      {
+        "text": "Asha said, “The new garden gives us a cooler place to read.”",
+        "is_correct": true
+      },
+      {
+        "text": "Asha said the new garden gives us “a cooler place” without showing whether those were her exact words.",
+        "is_correct": false
+      },
+      {
+        "text": "The new garden Asha said cooler place.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A direct quotation should preserve the speaker’s wording and clearly identify who spoke.",
+      "hint": "Check that the quoted words are exact and the speaker is named."
+    }
+  },
+  {
+    "id": "AC9E4LA07-P-011",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA07",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "Quoted and Reported Speech",
+    "question": "Why does “The coach said, “We kept trying until the final whistle.”” work well for quoting the coach after a netball game?",
+    "audio_prompt": "Why does “The coach said, “We kept trying until the final whistle.”” work well for quoting the coach after a netball game?",
+    "answers": [
+      {
+        "text": "Because “The coach said that “we kept trying until the final whistle”.” is always acceptable in this situation.",
+        "is_correct": false
+      },
+      {
+        "text": "Quotation marks show the coach’s exact spoken words.",
+        "is_correct": true
+      },
+      {
+        "text": "Because the longest or most complicated option must be correct.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Quotation marks show the coach’s exact spoken words.",
+      "hint": "Use quotation marks only when the wording is presented as the speaker’s exact words."
+    }
+  },
+  {
+    "id": "AC9E4LA07-P-012",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA07",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "Quoted and Reported Speech",
+    "question": "What makes “The coach said, “We kept trying until the final whistle.”” a better choice in quoting the coach after a netball game?",
+    "audio_prompt": "What makes “The coach said, “We kept trying until the final whistle.”” a better choice in quoting the coach after a netball game?",
+    "answers": [
+      {
+        "text": "Because “The coach said that “we kept trying until the final whistle”.” is always acceptable in this situation.",
+        "is_correct": false
+      },
+      {
+        "text": "Because the longest or most complicated option must be correct.",
+        "is_correct": false
+      },
+      {
+        "text": "Quotation marks show the coach’s exact spoken words.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Quotation marks show the coach’s exact spoken words.",
+      "hint": "Use quotation marks only when the wording is presented as the speaker’s exact words."
+    }
+  },
+  {
+    "id": "AC9E4LA07-P-013",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA07",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "Quoted and Reported Speech",
+    "question": "What makes “The coach said that the team had kept trying until the final whistle.” a better choice in reporting what the coach said without quoting?",
+    "audio_prompt": "What makes “The coach said that the team had kept trying until the final whistle.” a better choice in reporting what the coach said without quoting?",
+    "answers": [
+      {
+        "text": "Reported speech retells the message without quotation marks and may adjust pronouns or tense.",
+        "is_correct": true
+      },
+      {
+        "text": "Because “The coach said, “that the team had kept trying”.” is always acceptable in this situation.",
+        "is_correct": false
+      },
+      {
+        "text": "Because the longest or most complicated option must be correct.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Reported speech retells the message without quotation marks and may adjust pronouns or tense.",
+      "hint": "Check whether the sentence gives exact words or reports the idea."
+    }
+  },
+  {
+    "id": "AC9E4LA07-P-014",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA07",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "Quoted and Reported Speech",
+    "question": "Which explanation best justifies “The coach said that the team had kept trying until the final whistle.” for reporting what the coach said without quoting?",
+    "audio_prompt": "Which explanation best justifies “The coach said that the team had kept trying until the final whistle.” for reporting what the coach said without quoting?",
+    "answers": [
+      {
+        "text": "Because “The coach said, “that the team had kept trying”.” is always acceptable in this situation.",
+        "is_correct": false
+      },
+      {
+        "text": "Reported speech retells the message without quotation marks and may adjust pronouns or tense.",
+        "is_correct": true
+      },
+      {
+        "text": "Because the longest or most complicated option must be correct.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Reported speech retells the message without quotation marks and may adjust pronouns or tense.",
+      "hint": "Check whether the sentence gives exact words or reports the idea."
+    }
+  },
+  {
+    "id": "AC9E4LA07-P-015",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA07",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "Quoted and Reported Speech",
+    "question": "Which explanation best justifies “Mia said that she would bring her hat the next day.” for turning “I will bring my hat tomorrow,” Mia said, into reported speech?",
+    "audio_prompt": "Which explanation best justifies “Mia said that she would bring her hat the next day.” for turning “I will bring my hat tomorrow,” Mia said, into reported speech?",
+    "answers": [
+      {
+        "text": "Because “Mia said that I will bring my hat tomorrow.” is always acceptable in this situation.",
+        "is_correct": false
+      },
+      {
+        "text": "Because the longest or most complicated option must be correct.",
+        "is_correct": false
+      },
+      {
+        "text": "Reported speech changes I to she and tomorrow to the next day because the viewpoint and time reference shift.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Reported speech changes I to she and tomorrow to the next day because the viewpoint and time reference shift.",
+      "hint": "Track pronouns, tense and time words when the speaker’s words are retold."
+    }
+  },
+  {
+    "id": "AC9E4LA07-P-016",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA07",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "Quoted and Reported Speech",
+    "question": "What should you notice about “Mia said that she would bring her hat the next day.” in turning “I will bring my hat tomorrow,” Mia said, into reported speech?",
+    "audio_prompt": "What should you notice about “Mia said that she would bring her hat the next day.” in turning “I will bring my hat tomorrow,” Mia said, into reported speech?",
+    "answers": [
+      {
+        "text": "Reported speech changes I to she and tomorrow to the next day because the viewpoint and time reference shift.",
+        "is_correct": true
+      },
+      {
+        "text": "Because “Mia said that I will bring my hat tomorrow.” is always acceptable in this situation.",
+        "is_correct": false
+      },
+      {
+        "text": "Because the longest or most complicated option must be correct.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Reported speech changes I to she and tomorrow to the next day because the viewpoint and time reference shift.",
+      "hint": "Track pronouns, tense and time words when the speaker’s words are retold."
+    }
+  },
+  {
+    "id": "AC9E4LA07-P-017",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA07",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "Quoted and Reported Speech",
+    "question": "What should you notice about “Luca promised that he would return the library book.” in choosing a reporting verb for a strong promise?",
+    "audio_prompt": "What should you notice about “Luca promised that he would return the library book.” in choosing a reporting verb for a strong promise?",
+    "answers": [
+      {
+        "text": "Because “Luca whispered that he would return it, even though the sentence is about a promise.” is always acceptable in this situation.",
+        "is_correct": false
+      },
+      {
+        "text": "Promised tells the reader what kind of speech act Luca made, not just that he spoke.",
+        "is_correct": true
+      },
+      {
+        "text": "Because the longest or most complicated option must be correct.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Promised tells the reader what kind of speech act Luca made, not just that he spoke.",
+      "hint": "Choose a reporting verb that matches the meaning of the original speech."
+    }
+  },
+  {
+    "id": "AC9E4LA07-P-018",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA07",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "Quoted and Reported Speech",
+    "question": "Which reason explains why “Luca promised that he would return the library book.” suits choosing a reporting verb for a strong promise?",
+    "audio_prompt": "Which reason explains why “Luca promised that he would return the library book.” suits choosing a reporting verb for a strong promise?",
+    "answers": [
+      {
+        "text": "Because “Luca whispered that he would return it, even though the sentence is about a promise.” is always acceptable in this situation.",
+        "is_correct": false
+      },
+      {
+        "text": "Because the longest or most complicated option must be correct.",
+        "is_correct": false
+      },
+      {
+        "text": "Promised tells the reader what kind of speech act Luca made, not just that he spoke.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Promised tells the reader what kind of speech act Luca made, not just that he spoke.",
+      "hint": "Choose a reporting verb that matches the meaning of the original speech."
+    }
+  },
+  {
+    "id": "AC9E4LA07-P-019",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA07",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "Quoted and Reported Speech",
+    "question": "Which reason explains why “Asha said, “The new garden gives us a cooler place to read.”” suits using a quotation in a school news report?",
+    "audio_prompt": "Which reason explains why “Asha said, “The new garden gives us a cooler place to read.”” suits using a quotation in a school news report?",
+    "answers": [
+      {
+        "text": "A direct quotation should preserve the speaker’s wording and clearly identify who spoke.",
+        "is_correct": true
+      },
+      {
+        "text": "Because “Asha said the new garden gives us “a cooler place” without showing whether those were her exact words.” is always acceptable in this situation.",
+        "is_correct": false
+      },
+      {
+        "text": "Because the longest or most complicated option must be correct.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A direct quotation should preserve the speaker’s wording and clearly identify who spoke.",
+      "hint": "Check that the quoted words are exact and the speaker is named."
+    }
+  },
+  {
+    "id": "AC9E4LA07-P-020",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA07",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "Quoted and Reported Speech",
+    "question": "Why does “Asha said, “The new garden gives us a cooler place to read.”” work well for using a quotation in a school news report?",
+    "audio_prompt": "Why does “Asha said, “The new garden gives us a cooler place to read.”” work well for using a quotation in a school news report?",
+    "answers": [
+      {
+        "text": "Because “Asha said the new garden gives us “a cooler place” without showing whether those were her exact words.” is always acceptable in this situation.",
+        "is_correct": false
+      },
+      {
+        "text": "A direct quotation should preserve the speaker’s wording and clearly identify who spoke.",
+        "is_correct": true
+      },
+      {
+        "text": "Because the longest or most complicated option must be correct.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A direct quotation should preserve the speaker’s wording and clearly identify who spoke.",
+      "hint": "Check that the quoted words are exact and the speaker is named."
+    }
+  },
+  {
+    "id": "AC9E4LA07-P-021",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA07",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "Quoted and Reported Speech",
+    "question": "Which revision best fixes the problem in “The coach said that “we kept trying until the final whistle”.” for quoting the coach after a netball game?",
+    "audio_prompt": "Which revision best fixes the problem in “The coach said that “we kept trying until the final whistle”.” for quoting the coach after a netball game?",
+    "answers": [
+      {
+        "text": "The coach said that “we kept trying until the final whistle”.",
+        "is_correct": false
+      },
+      {
+        "text": "The coach we kept trying until the final whistle.",
+        "is_correct": false
+      },
+      {
+        "text": "The coach said, “We kept trying until the final whistle.”",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Quotation marks show the coach’s exact spoken words. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Use quotation marks only when the wording is presented as the speaker’s exact words."
+    }
+  },
+  {
+    "id": "AC9E4LA07-P-022",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA07",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "Quoted and Reported Speech",
+    "question": "Compare the choices for quoting the coach after a netball game. Which one avoids the mistake in “The coach said that “we kept trying until the final whistle”.”?",
+    "audio_prompt": "Compare the choices for quoting the coach after a netball game. Which one avoids the mistake in “The coach said that “we kept trying until the final whistle”.”?",
+    "answers": [
+      {
+        "text": "The coach said, “We kept trying until the final whistle.”",
+        "is_correct": true
+      },
+      {
+        "text": "The coach said that “we kept trying until the final whistle”.",
+        "is_correct": false
+      },
+      {
+        "text": "The coach we kept trying until the final whistle.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Quotation marks show the coach’s exact spoken words. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Use quotation marks only when the wording is presented as the speaker’s exact words."
+    }
+  },
+  {
+    "id": "AC9E4LA07-P-023",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA07",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "Quoted and Reported Speech",
+    "question": "Compare the choices for reporting what the coach said without quoting. Which one avoids the mistake in “The coach said, “that the team had kept trying”.”?",
+    "audio_prompt": "Compare the choices for reporting what the coach said without quoting. Which one avoids the mistake in “The coach said, “that the team had kept trying”.”?",
+    "answers": [
+      {
+        "text": "The coach said, “that the team had kept trying”.",
+        "is_correct": false
+      },
+      {
+        "text": "The coach said that the team had kept trying until the final whistle.",
+        "is_correct": true
+      },
+      {
+        "text": "“The coach said that the team kept trying.”",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Reported speech retells the message without quotation marks and may adjust pronouns or tense. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Check whether the sentence gives exact words or reports the idea."
+    }
+  },
+  {
+    "id": "AC9E4LA07-P-024",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA07",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "Quoted and Reported Speech",
+    "question": "If “The coach said, “that the team had kept trying”.” does not work in reporting what the coach said without quoting, what should replace it?",
+    "audio_prompt": "If “The coach said, “that the team had kept trying”.” does not work in reporting what the coach said without quoting, what should replace it?",
+    "answers": [
+      {
+        "text": "The coach said, “that the team had kept trying”.",
+        "is_correct": false
+      },
+      {
+        "text": "“The coach said that the team kept trying.”",
+        "is_correct": false
+      },
+      {
+        "text": "The coach said that the team had kept trying until the final whistle.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Reported speech retells the message without quotation marks and may adjust pronouns or tense. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Check whether the sentence gives exact words or reports the idea."
+    }
+  },
+  {
+    "id": "AC9E4LA07-P-025",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA07",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "Quoted and Reported Speech",
+    "question": "If “Mia said that I will bring my hat tomorrow.” does not work in turning “I will bring my hat tomorrow,” Mia said, into reported speech, what should replace it?",
+    "audio_prompt": "If “Mia said that I will bring my hat tomorrow.” does not work in turning “I will bring my hat tomorrow,” Mia said, into reported speech, what should replace it?",
+    "answers": [
+      {
+        "text": "Mia said that she would bring her hat the next day.",
+        "is_correct": true
+      },
+      {
+        "text": "Mia said that I will bring my hat tomorrow.",
+        "is_correct": false
+      },
+      {
+        "text": "Mia said, she would bring her hat tomorrow.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Reported speech changes I to she and tomorrow to the next day because the viewpoint and time reference shift. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Track pronouns, tense and time words when the speaker’s words are retold."
+    }
+  },
+  {
+    "id": "AC9E4LA07-P-026",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA07",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "Quoted and Reported Speech",
+    "question": "Which option corrects the meaning or form needed for turning “I will bring my hat tomorrow,” Mia said, into reported speech?",
+    "audio_prompt": "Which option corrects the meaning or form needed for turning “I will bring my hat tomorrow,” Mia said, into reported speech?",
+    "answers": [
+      {
+        "text": "Mia said that I will bring my hat tomorrow.",
+        "is_correct": false
+      },
+      {
+        "text": "Mia said that she would bring her hat the next day.",
+        "is_correct": true
+      },
+      {
+        "text": "Mia said, she would bring her hat tomorrow.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Reported speech changes I to she and tomorrow to the next day because the viewpoint and time reference shift. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Track pronouns, tense and time words when the speaker’s words are retold."
+    }
+  },
+  {
+    "id": "AC9E4LA07-P-027",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA07",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "Quoted and Reported Speech",
+    "question": "Which option corrects the meaning or form needed for choosing a reporting verb for a strong promise?",
+    "audio_prompt": "Which option corrects the meaning or form needed for choosing a reporting verb for a strong promise?",
+    "answers": [
+      {
+        "text": "Luca whispered that he would return it, even though the sentence is about a promise.",
+        "is_correct": false
+      },
+      {
+        "text": "Luca happened the library book.",
+        "is_correct": false
+      },
+      {
+        "text": "Luca promised that he would return the library book.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Promised tells the reader what kind of speech act Luca made, not just that he spoke. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Choose a reporting verb that matches the meaning of the original speech."
+    }
+  },
+  {
+    "id": "AC9E4LA07-P-028",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA07",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "Quoted and Reported Speech",
+    "question": "Which choice is the clearest correction for choosing a reporting verb for a strong promise?",
+    "audio_prompt": "Which choice is the clearest correction for choosing a reporting verb for a strong promise?",
+    "answers": [
+      {
+        "text": "Luca promised that he would return the library book.",
+        "is_correct": true
+      },
+      {
+        "text": "Luca whispered that he would return it, even though the sentence is about a promise.",
+        "is_correct": false
+      },
+      {
+        "text": "Luca happened the library book.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Promised tells the reader what kind of speech act Luca made, not just that he spoke. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Choose a reporting verb that matches the meaning of the original speech."
+    }
+  },
+  {
+    "id": "AC9E4LA07-P-029",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA07",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "Quoted and Reported Speech",
+    "question": "Which choice is the clearest correction for using a quotation in a school news report?",
+    "audio_prompt": "Which choice is the clearest correction for using a quotation in a school news report?",
+    "answers": [
+      {
+        "text": "Asha said the new garden gives us “a cooler place” without showing whether those were her exact words.",
+        "is_correct": false
+      },
+      {
+        "text": "Asha said, “The new garden gives us a cooler place to read.”",
+        "is_correct": true
+      },
+      {
+        "text": "The new garden Asha said cooler place.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A direct quotation should preserve the speaker’s wording and clearly identify who spoke. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Check that the quoted words are exact and the speaker is named."
+    }
+  },
+  {
+    "id": "AC9E4LA07-P-030",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA07",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "Quoted and Reported Speech",
+    "question": "Which revision best fixes the problem in “Asha said the new garden gives us “a cooler place” without showing whether those were her exact words.” for using a quotation in a school news report?",
+    "audio_prompt": "Which revision best fixes the problem in “Asha said the new garden gives us “a cooler place” without showing whether those were her exact words.” for using a quotation in a school news report?",
+    "answers": [
+      {
+        "text": "Asha said the new garden gives us “a cooler place” without showing whether those were her exact words.",
+        "is_correct": false
+      },
+      {
+        "text": "The new garden Asha said cooler place.",
+        "is_correct": false
+      },
+      {
+        "text": "Asha said, “The new garden gives us a cooler place to read.”",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A direct quotation should preserve the speaker’s wording and clearly identify who spoke. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Check that the quoted words are exact and the speaker is named."
+    }
+  },
+  {
+    "id": "AC9E4LA07-P-031",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA07",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Quoted and Reported Speech",
+    "question": "You now need to handle quoting the coach after a netball game independently. Which choice should you use?",
+    "audio_prompt": "You now need to handle quoting the coach after a netball game independently. Which choice should you use?",
+    "answers": [
+      {
+        "text": "The coach said, “We kept trying until the final whistle.”",
+        "is_correct": true
+      },
+      {
+        "text": "The coach we kept trying until the final whistle.",
+        "is_correct": false
+      },
+      {
+        "text": "The coach said that “we kept trying until the final whistle”.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Quotation marks show the coach’s exact spoken words.",
+      "hint": "Use quotation marks only when the wording is presented as the speaker’s exact words."
+    }
+  },
+  {
+    "id": "AC9E4LA07-P-032",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA07",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Quoted and Reported Speech",
+    "question": "Apply the same idea to quoting the coach after a netball game. Which option is best?",
+    "audio_prompt": "Apply the same idea to quoting the coach after a netball game. Which option is best?",
+    "answers": [
+      {
+        "text": "The coach we kept trying until the final whistle.",
+        "is_correct": false
+      },
+      {
+        "text": "The coach said, “We kept trying until the final whistle.”",
+        "is_correct": true
+      },
+      {
+        "text": "The coach said that “we kept trying until the final whistle”.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Quotation marks show the coach’s exact spoken words.",
+      "hint": "Use quotation marks only when the wording is presented as the speaker’s exact words."
+    }
+  },
+  {
+    "id": "AC9E4LA07-P-033",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA07",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Quoted and Reported Speech",
+    "question": "Apply the same idea to reporting what the coach said without quoting. Which option is best?",
+    "audio_prompt": "Apply the same idea to reporting what the coach said without quoting. Which option is best?",
+    "answers": [
+      {
+        "text": "“The coach said that the team kept trying.”",
+        "is_correct": false
+      },
+      {
+        "text": "The coach said, “that the team had kept trying”.",
+        "is_correct": false
+      },
+      {
+        "text": "The coach said that the team had kept trying until the final whistle.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Reported speech retells the message without quotation marks and may adjust pronouns or tense.",
+      "hint": "Check whether the sentence gives exact words or reports the idea."
+    }
+  },
+  {
+    "id": "AC9E4LA07-P-034",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA07",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Quoted and Reported Speech",
+    "question": "Which decision would produce the clearest result in reporting what the coach said without quoting?",
+    "audio_prompt": "Which decision would produce the clearest result in reporting what the coach said without quoting?",
+    "answers": [
+      {
+        "text": "The coach said that the team had kept trying until the final whistle.",
+        "is_correct": true
+      },
+      {
+        "text": "“The coach said that the team kept trying.”",
+        "is_correct": false
+      },
+      {
+        "text": "The coach said, “that the team had kept trying”.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Reported speech retells the message without quotation marks and may adjust pronouns or tense.",
+      "hint": "Check whether the sentence gives exact words or reports the idea."
+    }
+  },
+  {
+    "id": "AC9E4LA07-P-035",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA07",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Quoted and Reported Speech",
+    "question": "Which decision would produce the clearest result in turning “I will bring my hat tomorrow,” Mia said, into reported speech?",
+    "audio_prompt": "Which decision would produce the clearest result in turning “I will bring my hat tomorrow,” Mia said, into reported speech?",
+    "answers": [
+      {
+        "text": "Mia said, she would bring her hat tomorrow.",
+        "is_correct": false
+      },
+      {
+        "text": "Mia said that she would bring her hat the next day.",
+        "is_correct": true
+      },
+      {
+        "text": "Mia said that I will bring my hat tomorrow.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Reported speech changes I to she and tomorrow to the next day because the viewpoint and time reference shift.",
+      "hint": "Track pronouns, tense and time words when the speaker’s words are retold."
+    }
+  },
+  {
+    "id": "AC9E4LA07-P-036",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA07",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Quoted and Reported Speech",
+    "question": "Choose the option that applies the skill correctly in turning “I will bring my hat tomorrow,” Mia said, into reported speech.",
+    "audio_prompt": "Choose the option that applies the skill correctly in turning “I will bring my hat tomorrow,” Mia said, into reported speech.",
+    "answers": [
+      {
+        "text": "Mia said, she would bring her hat tomorrow.",
+        "is_correct": false
+      },
+      {
+        "text": "Mia said that I will bring my hat tomorrow.",
+        "is_correct": false
+      },
+      {
+        "text": "Mia said that she would bring her hat the next day.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Reported speech changes I to she and tomorrow to the next day because the viewpoint and time reference shift.",
+      "hint": "Track pronouns, tense and time words when the speaker’s words are retold."
+    }
+  },
+  {
+    "id": "AC9E4LA07-P-037",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA07",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Quoted and Reported Speech",
+    "question": "Choose the option that applies the skill correctly in choosing a reporting verb for a strong promise.",
+    "audio_prompt": "Choose the option that applies the skill correctly in choosing a reporting verb for a strong promise.",
+    "answers": [
+      {
+        "text": "Luca promised that he would return the library book.",
+        "is_correct": true
+      },
+      {
+        "text": "Luca happened the library book.",
+        "is_correct": false
+      },
+      {
+        "text": "Luca whispered that he would return it, even though the sentence is about a promise.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Promised tells the reader what kind of speech act Luca made, not just that he spoke.",
+      "hint": "Choose a reporting verb that matches the meaning of the original speech."
+    }
+  },
+  {
+    "id": "AC9E4LA07-P-038",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA07",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Quoted and Reported Speech",
+    "question": "What would be the most effective choice for choosing a reporting verb for a strong promise?",
+    "audio_prompt": "What would be the most effective choice for choosing a reporting verb for a strong promise?",
+    "answers": [
+      {
+        "text": "Luca happened the library book.",
+        "is_correct": false
+      },
+      {
+        "text": "Luca promised that he would return the library book.",
+        "is_correct": true
+      },
+      {
+        "text": "Luca whispered that he would return it, even though the sentence is about a promise.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Promised tells the reader what kind of speech act Luca made, not just that he spoke.",
+      "hint": "Choose a reporting verb that matches the meaning of the original speech."
+    }
+  },
+  {
+    "id": "AC9E4LA07-P-039",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA07",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Quoted and Reported Speech",
+    "question": "What would be the most effective choice for using a quotation in a school news report?",
+    "audio_prompt": "What would be the most effective choice for using a quotation in a school news report?",
+    "answers": [
+      {
+        "text": "The new garden Asha said cooler place.",
+        "is_correct": false
+      },
+      {
+        "text": "Asha said the new garden gives us “a cooler place” without showing whether those were her exact words.",
+        "is_correct": false
+      },
+      {
+        "text": "Asha said, “The new garden gives us a cooler place to read.”",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A direct quotation should preserve the speaker’s wording and clearly identify who spoke.",
+      "hint": "Check that the quoted words are exact and the speaker is named."
+    }
+  },
+  {
+    "id": "AC9E4LA07-P-040",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA07",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Quoted and Reported Speech",
+    "question": "You now need to handle using a quotation in a school news report independently. Which choice should you use?",
+    "audio_prompt": "You now need to handle using a quotation in a school news report independently. Which choice should you use?",
+    "answers": [
+      {
+        "text": "Asha said, “The new garden gives us a cooler place to read.”",
+        "is_correct": true
+      },
+      {
+        "text": "The new garden Asha said cooler place.",
+        "is_correct": false
+      },
+      {
+        "text": "Asha said the new garden gives us “a cooler place” without showing whether those were her exact words.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A direct quotation should preserve the speaker’s wording and clearly identify who spoke.",
+      "hint": "Check that the quoted words are exact and the speaker is named."
+    }
+  },
+  {
+    "id": "AC9E4LA07-T-001",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA07",
+    "bank": "test",
+    "stage": "verify",
+    "skill": "Quoted and Reported Speech",
+    "question": "New context: summarising a scientist’s explanation. Which option is correct?",
+    "audio_prompt": "New context: summarising a scientist’s explanation. Which option is correct?",
+    "answers": [
+      {
+        "text": "Dr Chen, “the frog population had increased after the wet summer”.",
+        "is_correct": false
+      },
+      {
+        "text": "Dr Chen explained that the frog population had increased after the wet summer.",
+        "is_correct": true
+      },
+      {
+        "text": "Dr Chen explained “that the frog population”.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Reported speech is useful when the writer wants the information rather than every exact word.",
+      "hint": "Notice that reported speech normally has no quotation marks around the message."
+    }
+  },
+  {
+    "id": "AC9E4LA07-T-002",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA07",
+    "bank": "test",
+    "stage": "verify",
+    "skill": "Quoted and Reported Speech",
+    "question": "What is the best choice for summarising a scientist’s explanation?",
+    "audio_prompt": "What is the best choice for summarising a scientist’s explanation?",
+    "answers": [
+      {
+        "text": "Dr Chen, “the frog population had increased after the wet summer”.",
+        "is_correct": false
+      },
+      {
+        "text": "Dr Chen explained “that the frog population”.",
+        "is_correct": false
+      },
+      {
+        "text": "Dr Chen explained that the frog population had increased after the wet summer.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Reported speech is useful when the writer wants the information rather than every exact word.",
+      "hint": "Notice that reported speech normally has no quotation marks around the message."
+    }
+  },
+  {
+    "id": "AC9E4LA07-T-003",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA07",
+    "bank": "test",
+    "stage": "verify",
+    "skill": "Quoted and Reported Speech",
+    "question": "Which explanation best supports “Dr Chen explained that the frog population had increased after the wet summer.” in summarising a scientist’s explanation?",
+    "audio_prompt": "Which explanation best supports “Dr Chen explained that the frog population had increased after the wet summer.” in summarising a scientist’s explanation?",
+    "answers": [
+      {
+        "text": "Reported speech is useful when the writer wants the information rather than every exact word.",
+        "is_correct": true
+      },
+      {
+        "text": "Because “Dr Chen, “the frog population had increased after the wet summer”.” is always a safe choice.",
+        "is_correct": false
+      },
+      {
+        "text": "Because surface appearance matters more than meaning.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Reported speech is useful when the writer wants the information rather than every exact word.",
+      "hint": "Notice that reported speech normally has no quotation marks around the message."
+    }
+  },
+  {
+    "id": "AC9E4LA07-T-004",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA07",
+    "bank": "test",
+    "stage": "verify",
+    "skill": "Quoted and Reported Speech",
+    "question": "Which clue should guide your decision in summarising a scientist’s explanation?",
+    "audio_prompt": "Which clue should guide your decision in summarising a scientist’s explanation?",
+    "answers": [
+      {
+        "text": "Choose the option with the most words.",
+        "is_correct": false
+      },
+      {
+        "text": "Notice that reported speech normally has no quotation marks around the message.",
+        "is_correct": true
+      },
+      {
+        "text": "Ignore the context and use the first familiar form.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Reported speech is useful when the writer wants the information rather than every exact word.",
+      "hint": "Notice that reported speech normally has no quotation marks around the message."
+    }
+  },
+  {
+    "id": "AC9E4LA07-T-005",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA07",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "Quoted and Reported Speech",
+    "question": "Which option would you reject first in summarising a scientist’s explanation?",
+    "audio_prompt": "Which option would you reject first in summarising a scientist’s explanation?",
+    "answers": [
+      {
+        "text": "Dr Chen explained that the frog population had increased after the wet summer.",
+        "is_correct": false
+      },
+      {
+        "text": "Dr Chen explained “that the frog population”.",
+        "is_correct": false
+      },
+      {
+        "text": "Dr Chen, “the frog population had increased after the wet summer”.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The rejected choice conflicts with the exact meaning, form or situation being tested. Reported speech is useful when the writer wants the information rather than every exact word.",
+      "hint": "Notice that reported speech normally has no quotation marks around the message."
+    }
+  },
+  {
+    "id": "AC9E4LA07-T-006",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA07",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "Quoted and Reported Speech",
+    "question": "Which correction should replace “Dr Chen, “the frog population had increased after the wet summer”.” in summarising a scientist’s explanation?",
+    "audio_prompt": "Which correction should replace “Dr Chen, “the frog population had increased after the wet summer”.” in summarising a scientist’s explanation?",
+    "answers": [
+      {
+        "text": "Dr Chen explained that the frog population had increased after the wet summer.",
+        "is_correct": true
+      },
+      {
+        "text": "Dr Chen, “the frog population had increased after the wet summer”.",
+        "is_correct": false
+      },
+      {
+        "text": "Dr Chen explained “that the frog population”.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Reported speech is useful when the writer wants the information rather than every exact word.",
+      "hint": "Notice that reported speech normally has no quotation marks around the message."
+    }
+  },
+  {
+    "id": "AC9E4LA07-T-007",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA07",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "Quoted and Reported Speech",
+    "question": "Apply the skill to summarising a scientist’s explanation: what should you choose?",
+    "audio_prompt": "Apply the skill to summarising a scientist’s explanation: what should you choose?",
+    "answers": [
+      {
+        "text": "Dr Chen, “the frog population had increased after the wet summer”.",
+        "is_correct": false
+      },
+      {
+        "text": "Dr Chen explained that the frog population had increased after the wet summer.",
+        "is_correct": true
+      },
+      {
+        "text": "Dr Chen explained “that the frog population”.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Reported speech is useful when the writer wants the information rather than every exact word.",
+      "hint": "Notice that reported speech normally has no quotation marks around the message."
+    }
+  },
+  {
+    "id": "AC9E4LA07-T-008",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA07",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "Quoted and Reported Speech",
+    "question": "Which final choice gives the clearest and most accurate result for summarising a scientist’s explanation?",
+    "audio_prompt": "Which final choice gives the clearest and most accurate result for summarising a scientist’s explanation?",
+    "answers": [
+      {
+        "text": "Dr Chen, “the frog population had increased after the wet summer”.",
+        "is_correct": false
+      },
+      {
+        "text": "Dr Chen explained “that the frog population”.",
+        "is_correct": false
+      },
+      {
+        "text": "Dr Chen explained that the frog population had increased after the wet summer.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Reported speech is useful when the writer wants the information rather than every exact word.",
+      "hint": "Notice that reported speech normally has no quotation marks around the message."
+    }
+  },
+  {
+    "id": "AC9E4LA07-T-009",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA07",
+    "bank": "test",
+    "stage": "verify",
+    "skill": "Quoted and Reported Speech",
+    "question": "New context: changing a direct question into reported speech. Which option is correct?",
+    "audio_prompt": "New context: changing a direct question into reported speech. Which option is correct?",
+    "answers": [
+      {
+        "text": "Noah asked whether the bus would arrive soon.",
+        "is_correct": true
+      },
+      {
+        "text": "Noah asked, “whether the bus would arrive soon”.",
+        "is_correct": false
+      },
+      {
+        "text": "Noah asked whether will the bus arrive soon?",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A reported question changes the word order and removes quotation marks around the reported message.",
+      "hint": "Do not keep direct-question word order when reporting the question."
+    }
+  },
+  {
+    "id": "AC9E4LA07-T-010",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA07",
+    "bank": "test",
+    "stage": "verify",
+    "skill": "Quoted and Reported Speech",
+    "question": "What is the best choice for changing a direct question into reported speech?",
+    "audio_prompt": "What is the best choice for changing a direct question into reported speech?",
+    "answers": [
+      {
+        "text": "Noah asked, “whether the bus would arrive soon”.",
+        "is_correct": false
+      },
+      {
+        "text": "Noah asked whether the bus would arrive soon.",
+        "is_correct": true
+      },
+      {
+        "text": "Noah asked whether will the bus arrive soon?",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A reported question changes the word order and removes quotation marks around the reported message.",
+      "hint": "Do not keep direct-question word order when reporting the question."
+    }
+  },
+  {
+    "id": "AC9E4LA07-T-011",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA07",
+    "bank": "test",
+    "stage": "verify",
+    "skill": "Quoted and Reported Speech",
+    "question": "Which explanation best supports “Noah asked whether the bus would arrive soon.” in changing a direct question into reported speech?",
+    "audio_prompt": "Which explanation best supports “Noah asked whether the bus would arrive soon.” in changing a direct question into reported speech?",
+    "answers": [
+      {
+        "text": "Because “Noah asked, “whether the bus would arrive soon”.” is always a safe choice.",
+        "is_correct": false
+      },
+      {
+        "text": "Because surface appearance matters more than meaning.",
+        "is_correct": false
+      },
+      {
+        "text": "A reported question changes the word order and removes quotation marks around the reported message.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A reported question changes the word order and removes quotation marks around the reported message.",
+      "hint": "Do not keep direct-question word order when reporting the question."
+    }
+  },
+  {
+    "id": "AC9E4LA07-T-012",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA07",
+    "bank": "test",
+    "stage": "verify",
+    "skill": "Quoted and Reported Speech",
+    "question": "Which clue should guide your decision in changing a direct question into reported speech?",
+    "audio_prompt": "Which clue should guide your decision in changing a direct question into reported speech?",
+    "answers": [
+      {
+        "text": "Do not keep direct-question word order when reporting the question.",
+        "is_correct": true
+      },
+      {
+        "text": "Choose the option with the most words.",
+        "is_correct": false
+      },
+      {
+        "text": "Ignore the context and use the first familiar form.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A reported question changes the word order and removes quotation marks around the reported message.",
+      "hint": "Do not keep direct-question word order when reporting the question."
+    }
+  },
+  {
+    "id": "AC9E4LA07-T-013",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA07",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "Quoted and Reported Speech",
+    "question": "Which option would you reject first in changing a direct question into reported speech?",
+    "audio_prompt": "Which option would you reject first in changing a direct question into reported speech?",
+    "answers": [
+      {
+        "text": "Noah asked whether the bus would arrive soon.",
+        "is_correct": false
+      },
+      {
+        "text": "Noah asked, “whether the bus would arrive soon”.",
+        "is_correct": true
+      },
+      {
+        "text": "Noah asked whether will the bus arrive soon?",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The rejected choice conflicts with the exact meaning, form or situation being tested. A reported question changes the word order and removes quotation marks around the reported message.",
+      "hint": "Do not keep direct-question word order when reporting the question."
+    }
+  },
+  {
+    "id": "AC9E4LA07-T-014",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA07",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "Quoted and Reported Speech",
+    "question": "Which correction should replace “Noah asked, “whether the bus would arrive soon”.” in changing a direct question into reported speech?",
+    "audio_prompt": "Which correction should replace “Noah asked, “whether the bus would arrive soon”.” in changing a direct question into reported speech?",
+    "answers": [
+      {
+        "text": "Noah asked, “whether the bus would arrive soon”.",
+        "is_correct": false
+      },
+      {
+        "text": "Noah asked whether will the bus arrive soon?",
+        "is_correct": false
+      },
+      {
+        "text": "Noah asked whether the bus would arrive soon.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A reported question changes the word order and removes quotation marks around the reported message.",
+      "hint": "Do not keep direct-question word order when reporting the question."
+    }
+  },
+  {
+    "id": "AC9E4LA07-T-015",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA07",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "Quoted and Reported Speech",
+    "question": "Apply the skill to changing a direct question into reported speech: what should you choose?",
+    "audio_prompt": "Apply the skill to changing a direct question into reported speech: what should you choose?",
+    "answers": [
+      {
+        "text": "Noah asked whether the bus would arrive soon.",
+        "is_correct": true
+      },
+      {
+        "text": "Noah asked, “whether the bus would arrive soon”.",
+        "is_correct": false
+      },
+      {
+        "text": "Noah asked whether will the bus arrive soon?",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A reported question changes the word order and removes quotation marks around the reported message.",
+      "hint": "Do not keep direct-question word order when reporting the question."
+    }
+  },
+  {
+    "id": "AC9E4LA07-T-016",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA07",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "Quoted and Reported Speech",
+    "question": "Which final choice gives the clearest and most accurate result for changing a direct question into reported speech?",
+    "audio_prompt": "Which final choice gives the clearest and most accurate result for changing a direct question into reported speech?",
+    "answers": [
+      {
+        "text": "Noah asked, “whether the bus would arrive soon”.",
+        "is_correct": false
+      },
+      {
+        "text": "Noah asked whether the bus would arrive soon.",
+        "is_correct": true
+      },
+      {
+        "text": "Noah asked whether will the bus arrive soon?",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A reported question changes the word order and removes quotation marks around the reported message.",
+      "hint": "Do not keep direct-question word order when reporting the question."
+    }
+  }
+]

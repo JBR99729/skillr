@@ -1,0 +1,610 @@
+[
+  {
+    "id": "ac9s10h03-p-001",
+    "curriculum_code": "AC9S10H03",
+    "year_level": "Year 10",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "use_agricultural_practices_have_changed_to_include_widespread_use_to_make_the_role_of_evidence_strength_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
+    "question": "A Year 10 student is investigating use agricultural practices have changed to include widespread use to make the role of evidence strength visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
+    "audio_prompt": "A Year 10 student is investigating use agricultural practices have changed to include widespread use to make the role of evidence strength visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "investigating why agricultural practices have changed to include widespread use of genetically engineered crops",
+        "is_correct": true
+      },
+      {
+        "text": "Strong evidence guarantees rapid adoption",
+        "is_correct": false
+      },
+      {
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "The same rule and result apply to every situation without testing",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "investigating why agricultural practices have changed to include widespread use of genetically engineered crops",
+      "hint": "Use agricultural practices have changed to include widespread use to make the role of evidence strength visible and connect the evidence to the unit’s central explanation."
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
+  },
+  {
+    "id": "ac9s10h03-p-002",
+    "curriculum_code": "AC9S10H03",
+    "year_level": "Year 10",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "use_statistics_to_compare_bicycle_or_electric_scooter_injuries_sustained_to_make_the_role_of_benefit_and_risk_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
+    "question": "A Year 10 student is investigating use statistics to compare bicycle or electric scooter injuries sustained to make the role of benefit and risk visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
+    "audio_prompt": "A Year 10 student is investigating use statistics to compare bicycle or electric scooter injuries sustained to make the role of benefit and risk visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Low adoption proves the science is weak",
+        "is_correct": false
+      },
+      {
+        "text": "examining statistics to compare bicycle or electric scooter injuries sustained by riders with and without helmets and relating these to helmet wearing requirements",
+        "is_correct": true
+      },
+      {
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "The same rule and result apply to every situation without testing",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "examining statistics to compare bicycle or electric scooter injuries sustained by riders with and without helmets and relating these to helmet wearing requirements",
+      "hint": "Use statistics to compare bicycle or electric scooter injuries sustained to make the role of benefit and risk visible and connect the evidence to the unit’s central explanation."
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
+  },
+  {
+    "id": "ac9s10h03-p-003",
+    "curriculum_code": "AC9S10H03",
+    "year_level": "Year 10",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "use_examples_of_the_application_of_genetic_screening_and_reasons_to_make_the_role_of_trust_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
+    "question": "A Year 10 student is investigating use examples of the application of genetic screening and reasons to make the role of trust visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
+    "audio_prompt": "A Year 10 student is investigating use examples of the application of genetic screening and reasons to make the role of trust visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Strong evidence guarantees rapid adoption",
+        "is_correct": false
+      },
+      {
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "discussing examples of the application of genetic screening and reasons for the adoption of the practice by groups in society",
+        "is_correct": true
+      },
+      {
+        "text": "The same rule and result apply to every situation without testing",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "discussing examples of the application of genetic screening and reasons for the adoption of the practice by groups in society",
+      "hint": "Use examples of the application of genetic screening and reasons to make the role of trust visible and connect the evidence to the unit’s central explanation."
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
+  },
+  {
+    "id": "ac9s10h03-p-004",
+    "curriculum_code": "AC9S10H03",
+    "year_level": "Year 10",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "use_climate_change_models_used_by_scientists_are_contested_to_make_the_role_of_access_and_cost_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
+    "question": "A Year 10 student is investigating use climate change models used by scientists are contested to make the role of access and cost visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
+    "audio_prompt": "A Year 10 student is investigating use climate change models used by scientists are contested to make the role of access and cost visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Low adoption proves the science is weak",
+        "is_correct": false
+      },
+      {
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "The same rule and result apply to every situation without testing",
+        "is_correct": false
+      },
+      {
+        "text": "examining why climate change models used by scientists are contested by some people in society",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "examining why climate change models used by scientists are contested by some people in society",
+      "hint": "Use climate change models used by scientists are contested to make the role of access and cost visible and connect the evidence to the unit’s central explanation."
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
+  },
+  {
+    "id": "ac9s10h03-p-005",
+    "curriculum_code": "AC9S10H03",
+    "year_level": "Year 10",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "use_citizen_science_projects_to_make_the_role_of_values_and_policy_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
+    "question": "A Year 10 student is investigating use citizen science projects to make the role of values and policy visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
+    "audio_prompt": "A Year 10 student is investigating use citizen science projects to make the role of values and policy visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "discussing citizen science projects such as the GLOBE Project or others of local relevance and examining why people would choose to be involved",
+        "is_correct": true
+      },
+      {
+        "text": "Strong evidence guarantees rapid adoption",
+        "is_correct": false
+      },
+      {
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "The same rule and result apply to every situation without testing",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "discussing citizen science projects such as the GLOBE Project or others of local relevance and examining why people would choose to be involved",
+      "hint": "Use citizen science projects to make the role of values and policy visible and connect the evidence to the unit’s central explanation."
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
+  },
+  {
+    "id": "ac9s10h03-p-006",
+    "curriculum_code": "AC9S10H03",
+    "year_level": "Year 10",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "use_how_the_traditional_ecological_knowledges_of_first_nations_australians_to_make_the_role_of_evidence_strength_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
+    "question": "A Year 10 student is investigating use how the traditional ecological knowledges of first nations australians to make the role of evidence strength visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
+    "audio_prompt": "A Year 10 student is investigating use how the traditional ecological knowledges of first nations australians to make the role of evidence strength visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Low adoption proves the science is weak",
+        "is_correct": false
+      },
+      {
+        "text": "considering how the traditional ecological knowledges of First Nations Australians are being reaffirmed by modern science and how these practices are being used by Traditional Owners in carbon farming initiatives",
+        "is_correct": true
+      },
+      {
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "The same rule and result apply to every situation without testing",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "considering how the traditional ecological knowledges of First Nations Australians are being reaffirmed by modern science and how these practices are being used by Traditional Owners in carbon farming initiatives",
+      "hint": "Use how the traditional ecological knowledges of First Nations Australians to make the role of evidence strength visible and connect the evidence to the unit’s central explanation."
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
+  },
+  {
+    "id": "ac9s10h03-p-007",
+    "curriculum_code": "AC9S10H03",
+    "year_level": "Year 10",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "use_agricultural_practices_have_changed_to_include_widespread_use_to_make_the_role_of_evidence_strength_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
+    "question": "A Year 10 student is investigating use agricultural practices have changed to include widespread use to make the role of evidence strength visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
+    "audio_prompt": "A Year 10 student is investigating use agricultural practices have changed to include widespread use to make the role of evidence strength visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Strong evidence guarantees rapid adoption",
+        "is_correct": false
+      },
+      {
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "investigating why agricultural practices have changed to include widespread use of genetically engineered crops",
+        "is_correct": true
+      },
+      {
+        "text": "The same rule and result apply to every situation without testing",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "investigating why agricultural practices have changed to include widespread use of genetically engineered crops",
+      "hint": "Use agricultural practices have changed to include widespread use to make the role of evidence strength visible and connect the evidence to the unit’s central explanation."
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
+  },
+  {
+    "id": "ac9s10h03-p-008",
+    "curriculum_code": "AC9S10H03",
+    "year_level": "Year 10",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "use_statistics_to_compare_bicycle_or_electric_scooter_injuries_sustained_to_make_the_role_of_benefit_and_risk_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
+    "question": "A Year 10 student is investigating use statistics to compare bicycle or electric scooter injuries sustained to make the role of benefit and risk visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
+    "audio_prompt": "A Year 10 student is investigating use statistics to compare bicycle or electric scooter injuries sustained to make the role of benefit and risk visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Low adoption proves the science is weak",
+        "is_correct": false
+      },
+      {
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "The same rule and result apply to every situation without testing",
+        "is_correct": false
+      },
+      {
+        "text": "examining statistics to compare bicycle or electric scooter injuries sustained by riders with and without helmets and relating these to helmet wearing requirements",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "examining statistics to compare bicycle or electric scooter injuries sustained by riders with and without helmets and relating these to helmet wearing requirements",
+      "hint": "Use statistics to compare bicycle or electric scooter injuries sustained to make the role of benefit and risk visible and connect the evidence to the unit’s central explanation."
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
+  },
+  {
+    "id": "ac9s10h03-t-001",
+    "curriculum_code": "AC9S10H03",
+    "year_level": "Year 10",
+    "subject": "science",
+    "bank": "test",
+    "skill": "use_examples_of_the_application_of_genetic_screening_and_reasons_to_make_the_role_of_trust_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
+    "question": "A Year 10 student is investigating use examples of the application of genetic screening and reasons to make the role of trust visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
+    "audio_prompt": "A Year 10 student is investigating use examples of the application of genetic screening and reasons to make the role of trust visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "discussing examples of the application of genetic screening and reasons for the adoption of the practice by groups in society",
+        "is_correct": true
+      },
+      {
+        "text": "Strong evidence guarantees rapid adoption",
+        "is_correct": false
+      },
+      {
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "The same rule and result apply to every situation without testing",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "discussing examples of the application of genetic screening and reasons for the adoption of the practice by groups in society",
+      "hint": "Use examples of the application of genetic screening and reasons to make the role of trust visible and connect the evidence to the unit’s central explanation."
+    }
+  },
+  {
+    "id": "ac9s10h03-t-002",
+    "curriculum_code": "AC9S10H03",
+    "year_level": "Year 10",
+    "subject": "science",
+    "bank": "test",
+    "skill": "use_climate_change_models_used_by_scientists_are_contested_to_make_the_role_of_access_and_cost_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
+    "question": "A Year 10 student is investigating use climate change models used by scientists are contested to make the role of access and cost visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
+    "audio_prompt": "A Year 10 student is investigating use climate change models used by scientists are contested to make the role of access and cost visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Low adoption proves the science is weak",
+        "is_correct": false
+      },
+      {
+        "text": "examining why climate change models used by scientists are contested by some people in society",
+        "is_correct": true
+      },
+      {
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "The same rule and result apply to every situation without testing",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "examining why climate change models used by scientists are contested by some people in society",
+      "hint": "Use climate change models used by scientists are contested to make the role of access and cost visible and connect the evidence to the unit’s central explanation."
+    }
+  },
+  {
+    "id": "ac9s10h03-t-003",
+    "curriculum_code": "AC9S10H03",
+    "year_level": "Year 10",
+    "subject": "science",
+    "bank": "test",
+    "skill": "use_citizen_science_projects_to_make_the_role_of_values_and_policy_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
+    "question": "A Year 10 student is investigating use citizen science projects to make the role of values and policy visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
+    "audio_prompt": "A Year 10 student is investigating use citizen science projects to make the role of values and policy visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Strong evidence guarantees rapid adoption",
+        "is_correct": false
+      },
+      {
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "discussing citizen science projects such as the GLOBE Project or others of local relevance and examining why people would choose to be involved",
+        "is_correct": true
+      },
+      {
+        "text": "The same rule and result apply to every situation without testing",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "discussing citizen science projects such as the GLOBE Project or others of local relevance and examining why people would choose to be involved",
+      "hint": "Use citizen science projects to make the role of values and policy visible and connect the evidence to the unit’s central explanation."
+    }
+  },
+  {
+    "id": "ac9s10h03-t-004",
+    "curriculum_code": "AC9S10H03",
+    "year_level": "Year 10",
+    "subject": "science",
+    "bank": "test",
+    "skill": "use_how_the_traditional_ecological_knowledges_of_first_nations_australians_to_make_the_role_of_evidence_strength_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
+    "question": "A Year 10 student is investigating use how the traditional ecological knowledges of first nations australians to make the role of evidence strength visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
+    "audio_prompt": "A Year 10 student is investigating use how the traditional ecological knowledges of first nations australians to make the role of evidence strength visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Low adoption proves the science is weak",
+        "is_correct": false
+      },
+      {
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "The same rule and result apply to every situation without testing",
+        "is_correct": false
+      },
+      {
+        "text": "considering how the traditional ecological knowledges of First Nations Australians are being reaffirmed by modern science and how these practices are being used by Traditional Owners in carbon farming initiatives",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "considering how the traditional ecological knowledges of First Nations Australians are being reaffirmed by modern science and how these practices are being used by Traditional Owners in carbon farming initiatives",
+      "hint": "Use how the traditional ecological knowledges of First Nations Australians to make the role of evidence strength visible and connect the evidence to the unit’s central explanation."
+    }
+  },
+  {
+    "id": "ac9s10h03-t-005",
+    "curriculum_code": "AC9S10H03",
+    "year_level": "Year 10",
+    "subject": "science",
+    "bank": "test",
+    "skill": "use_agricultural_practices_have_changed_to_include_widespread_use_to_make_the_role_of_evidence_strength_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
+    "question": "Which response correctly uses use agricultural practices have changed to include widespread use to make the role of evidence strength visible and connect the evidence to the unit’s central explanation?",
+    "audio_prompt": "Which response correctly uses use agricultural practices have changed to include widespread use to make the role of evidence strength visible and connect the evidence to the unit’s central explanation?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "investigating why agricultural practices have changed to include widespread use of genetically engineered crops",
+        "is_correct": true
+      },
+      {
+        "text": "Strong evidence guarantees rapid adoption",
+        "is_correct": false
+      },
+      {
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "The same rule and result apply to every situation without testing",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "investigating why agricultural practices have changed to include widespread use of genetically engineered crops",
+      "hint": "Use agricultural practices have changed to include widespread use to make the role of evidence strength visible and connect the evidence to the unit’s central explanation."
+    }
+  },
+  {
+    "id": "ac9s10h03-t-006",
+    "curriculum_code": "AC9S10H03",
+    "year_level": "Year 10",
+    "subject": "science",
+    "bank": "test",
+    "skill": "use_statistics_to_compare_bicycle_or_electric_scooter_injuries_sustained_to_make_the_role_of_benefit_and_risk_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
+    "question": "Which response correctly uses use statistics to compare bicycle or electric scooter injuries sustained to make the role of benefit and risk visible and connect the evidence to the unit’s central explanation?",
+    "audio_prompt": "Which response correctly uses use statistics to compare bicycle or electric scooter injuries sustained to make the role of benefit and risk visible and connect the evidence to the unit’s central explanation?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Low adoption proves the science is weak",
+        "is_correct": false
+      },
+      {
+        "text": "examining statistics to compare bicycle or electric scooter injuries sustained by riders with and without helmets and relating these to helmet wearing requirements",
+        "is_correct": true
+      },
+      {
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "The same rule and result apply to every situation without testing",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "examining statistics to compare bicycle or electric scooter injuries sustained by riders with and without helmets and relating these to helmet wearing requirements",
+      "hint": "Use statistics to compare bicycle or electric scooter injuries sustained to make the role of benefit and risk visible and connect the evidence to the unit’s central explanation."
+    }
+  },
+  {
+    "id": "ac9s10h03-t-007",
+    "curriculum_code": "AC9S10H03",
+    "year_level": "Year 10",
+    "subject": "science",
+    "bank": "test",
+    "skill": "use_examples_of_the_application_of_genetic_screening_and_reasons_to_make_the_role_of_trust_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
+    "question": "Which response correctly uses use examples of the application of genetic screening and reasons to make the role of trust visible and connect the evidence to the unit’s central explanation?",
+    "audio_prompt": "Which response correctly uses use examples of the application of genetic screening and reasons to make the role of trust visible and connect the evidence to the unit’s central explanation?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Strong evidence guarantees rapid adoption",
+        "is_correct": false
+      },
+      {
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "discussing examples of the application of genetic screening and reasons for the adoption of the practice by groups in society",
+        "is_correct": true
+      },
+      {
+        "text": "The same rule and result apply to every situation without testing",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "discussing examples of the application of genetic screening and reasons for the adoption of the practice by groups in society",
+      "hint": "Use examples of the application of genetic screening and reasons to make the role of trust visible and connect the evidence to the unit’s central explanation."
+    }
+  },
+  {
+    "id": "ac9s10h03-t-008",
+    "curriculum_code": "AC9S10H03",
+    "year_level": "Year 10",
+    "subject": "science",
+    "bank": "test",
+    "skill": "use_climate_change_models_used_by_scientists_are_contested_to_make_the_role_of_access_and_cost_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
+    "question": "Which response correctly uses use climate change models used by scientists are contested to make the role of access and cost visible and connect the evidence to the unit’s central explanation?",
+    "audio_prompt": "Which response correctly uses use climate change models used by scientists are contested to make the role of access and cost visible and connect the evidence to the unit’s central explanation?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Low adoption proves the science is weak",
+        "is_correct": false
+      },
+      {
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "The same rule and result apply to every situation without testing",
+        "is_correct": false
+      },
+      {
+        "text": "examining why climate change models used by scientists are contested by some people in society",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "examining why climate change models used by scientists are contested by some people in society",
+      "hint": "Use climate change models used by scientists are contested to make the role of access and cost visible and connect the evidence to the unit’s central explanation."
+    }
+  }
+]

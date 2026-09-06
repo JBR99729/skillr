@@ -1,0 +1,613 @@
+[
+  {
+    "id": "ac9s7u03-p-001",
+    "curriculum_code": "AC9S7U03",
+    "year_level": "Year 7",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "explain_a_crescent_phase",
+    "question": "A Year 7 student is investigating explain a crescent phase. Which option is scientifically valid and best supported?",
+    "audio_prompt": "A Year 7 student is investigating explain a crescent phase. Which option is scientifically valid and best supported?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A solar eclipse requires the Moon between Sun and Earth near a node of its tilted orbit",
+        "is_correct": true
+      },
+      {
+        "text": "Phases caused by Earth’s shadow",
+        "is_correct": false
+      },
+      {
+        "text": "Only lunar eclipses use Earth’s shadow",
+        "is_correct": false
+      },
+      {
+        "text": "Visible fraction of the Moon’s sunlit half",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A solar eclipse requires the Moon between Sun and Earth near a node of its tilted orbit",
+      "hint": "Only lunar eclipses use Earth’s shadow."
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
+  },
+  {
+    "id": "ac9s7u03-p-002",
+    "curriculum_code": "AC9S7U03",
+    "year_level": "Year 7",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "distinguish_eclipse_types",
+    "question": "A Year 7 student is investigating distinguish eclipse types. Which option is scientifically valid and best supported?",
+    "audio_prompt": "A Year 7 student is investigating distinguish eclipse types. Which option is scientifically valid and best supported?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Seasons caused by changing Earth–Sun distance",
+        "is_correct": false
+      },
+      {
+        "text": "Half the Moon is illuminated by the Sun at nearly all times; phases describe how much of that lit half is visible from Earth.",
+        "is_correct": true
+      },
+      {
+        "text": "Axial tilt changes Sun angle and day length",
+        "is_correct": false
+      },
+      {
+        "text": "Visible fraction of the Moon’s sunlit half",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Half the Moon is illuminated by the Sun at nearly all times; phases describe how much of that lit half is visible from Earth.",
+      "hint": "Axial tilt changes Sun angle and day length."
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
+  },
+  {
+    "id": "ac9s7u03-p-003",
+    "curriculum_code": "AC9S7U03",
+    "year_level": "Year 7",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "explain_seasons_with_tilt",
+    "question": "A Year 7 student is investigating explain seasons with tilt. Which option is scientifically valid and best supported?",
+    "audio_prompt": "A Year 7 student is investigating explain seasons with tilt. Which option is scientifically valid and best supported?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Every new/full Moon creates eclipse",
+        "is_correct": false
+      },
+      {
+        "text": "The Moon’s orbital plane is tilted",
+        "is_correct": false
+      },
+      {
+        "text": "Use scale cautiously: classroom models exaggerate object size and compress distances. State which relationship the model preserves.",
+        "is_correct": true
+      },
+      {
+        "text": "Visible fraction of the Moon’s sunlit half",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Use scale cautiously: classroom models exaggerate object size and compress distances. State which relationship the model preserves.",
+      "hint": "The Moon’s orbital plane is tilted."
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
+  },
+  {
+    "id": "ac9s7u03-p-004",
+    "curriculum_code": "AC9S7U03",
+    "year_level": "Year 7",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "use_relative_positions",
+    "question": "A Year 7 student is investigating use relative positions. Which option is scientifically valid and best supported?",
+    "audio_prompt": "A Year 7 student is investigating use relative positions. Which option is scientifically valid and best supported?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Model size treated as scale",
+        "is_correct": false
+      },
+      {
+        "text": "Most classroom models preserve geometry, not true distances",
+        "is_correct": false
+      },
+      {
+        "text": "Visible fraction of the Moon’s sunlit half",
+        "is_correct": false
+      },
+      {
+        "text": "Observable cycles arise from changing relative positions, illumination and viewing geometry—not from objects producing changing amounts of light.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Observable cycles arise from changing relative positions, illumination and viewing geometry—not from objects producing changing amounts of light.",
+      "hint": "Most classroom models preserve geometry, not true distances."
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
+  },
+  {
+    "id": "ac9s7u03-p-005",
+    "curriculum_code": "AC9S7U03",
+    "year_level": "Year 7",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "state_model_limitations",
+    "question": "Which statement correctly identifies eclipse in earth–sun–moon cycles?",
+    "audio_prompt": "Which statement correctly identifies eclipse in earth–sun–moon cycles?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A solar eclipse requires the Moon between Sun and Earth near a node of its tilted orbit",
+        "is_correct": true
+      },
+      {
+        "text": "Phases caused by Earth’s shadow",
+        "is_correct": false
+      },
+      {
+        "text": "Only lunar eclipses use Earth’s shadow",
+        "is_correct": false
+      },
+      {
+        "text": "Visible fraction of the Moon’s sunlit half",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A solar eclipse requires the Moon between Sun and Earth near a node of its tilted orbit",
+      "hint": "Only lunar eclipses use Earth’s shadow."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
+  },
+  {
+    "id": "ac9s7u03-p-006",
+    "curriculum_code": "AC9S7U03",
+    "year_level": "Year 7",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "explain_a_crescent_phase",
+    "question": "Which choice best describes axial tilt in earth–sun–moon cycles?",
+    "audio_prompt": "Which choice best describes axial tilt in earth–sun–moon cycles?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Seasons caused by changing Earth–Sun distance",
+        "is_correct": false
+      },
+      {
+        "text": "Half the Moon is illuminated by the Sun at nearly all times; phases describe how much of that lit half is visible from Earth.",
+        "is_correct": true
+      },
+      {
+        "text": "Axial tilt changes Sun angle and day length",
+        "is_correct": false
+      },
+      {
+        "text": "Visible fraction of the Moon’s sunlit half",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Half the Moon is illuminated by the Sun at nearly all times; phases describe how much of that lit half is visible from Earth.",
+      "hint": "Axial tilt changes Sun angle and day length."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
+  },
+  {
+    "id": "ac9s7u03-p-007",
+    "curriculum_code": "AC9S7U03",
+    "year_level": "Year 7",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "distinguish_eclipse_types",
+    "question": "What does correct use require for lunar phase in earth–sun–moon cycles?",
+    "audio_prompt": "What does correct use require for lunar phase in earth–sun–moon cycles?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Every new/full Moon creates eclipse",
+        "is_correct": false
+      },
+      {
+        "text": "The Moon’s orbital plane is tilted",
+        "is_correct": false
+      },
+      {
+        "text": "Use scale cautiously: classroom models exaggerate object size and compress distances. State which relationship the model preserves.",
+        "is_correct": true
+      },
+      {
+        "text": "Visible fraction of the Moon’s sunlit half",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Use scale cautiously: classroom models exaggerate object size and compress distances. State which relationship the model preserves.",
+      "hint": "The Moon’s orbital plane is tilted."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
+  },
+  {
+    "id": "ac9s7u03-p-008",
+    "curriculum_code": "AC9S7U03",
+    "year_level": "Year 7",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "explain_seasons_with_tilt",
+    "question": "A Year 7 student is investigating explain seasons with tilt. Which option is scientifically valid and best supported?",
+    "audio_prompt": "A Year 7 student is investigating explain seasons with tilt. Which option is scientifically valid and best supported?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Model size treated as scale",
+        "is_correct": false
+      },
+      {
+        "text": "Most classroom models preserve geometry, not true distances",
+        "is_correct": false
+      },
+      {
+        "text": "Visible fraction of the Moon’s sunlit half",
+        "is_correct": false
+      },
+      {
+        "text": "Observable cycles arise from changing relative positions, illumination and viewing geometry—not from objects producing changing amounts of light.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Observable cycles arise from changing relative positions, illumination and viewing geometry—not from objects producing changing amounts of light.",
+      "hint": "Most classroom models preserve geometry, not true distances."
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
+  },
+  {
+    "id": "ac9s7u03-t-001",
+    "curriculum_code": "AC9S7U03",
+    "year_level": "Year 7",
+    "subject": "science",
+    "bank": "test",
+    "skill": "use_relative_positions",
+    "question": "A Year 7 student is investigating use relative positions. Which option is scientifically valid and best supported?",
+    "audio_prompt": "A Year 7 student is investigating use relative positions. Which option is scientifically valid and best supported?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A solar eclipse requires the Moon between Sun and Earth near a node of its tilted orbit",
+        "is_correct": true
+      },
+      {
+        "text": "Phases caused by Earth’s shadow",
+        "is_correct": false
+      },
+      {
+        "text": "Only lunar eclipses use Earth’s shadow",
+        "is_correct": false
+      },
+      {
+        "text": "Visible fraction of the Moon’s sunlit half",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A solar eclipse requires the Moon between Sun and Earth near a node of its tilted orbit",
+      "hint": "Only lunar eclipses use Earth’s shadow."
+    }
+  },
+  {
+    "id": "ac9s7u03-t-002",
+    "curriculum_code": "AC9S7U03",
+    "year_level": "Year 7",
+    "subject": "science",
+    "bank": "test",
+    "skill": "state_model_limitations",
+    "question": "A Year 7 student is investigating state model limitations. Which option is scientifically valid and best supported?",
+    "audio_prompt": "A Year 7 student is investigating state model limitations. Which option is scientifically valid and best supported?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Seasons caused by changing Earth–Sun distance",
+        "is_correct": false
+      },
+      {
+        "text": "Half the Moon is illuminated by the Sun at nearly all times; phases describe how much of that lit half is visible from Earth.",
+        "is_correct": true
+      },
+      {
+        "text": "Axial tilt changes Sun angle and day length",
+        "is_correct": false
+      },
+      {
+        "text": "Visible fraction of the Moon’s sunlit half",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Half the Moon is illuminated by the Sun at nearly all times; phases describe how much of that lit half is visible from Earth.",
+      "hint": "Axial tilt changes Sun angle and day length."
+    }
+  },
+  {
+    "id": "ac9s7u03-t-003",
+    "curriculum_code": "AC9S7U03",
+    "year_level": "Year 7",
+    "subject": "science",
+    "bank": "test",
+    "skill": "explain_a_crescent_phase",
+    "question": "A Year 7 student is investigating explain a crescent phase. Which option is scientifically valid and best supported?",
+    "audio_prompt": "A Year 7 student is investigating explain a crescent phase. Which option is scientifically valid and best supported?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Every new/full Moon creates eclipse",
+        "is_correct": false
+      },
+      {
+        "text": "The Moon’s orbital plane is tilted",
+        "is_correct": false
+      },
+      {
+        "text": "Use scale cautiously: classroom models exaggerate object size and compress distances. State which relationship the model preserves.",
+        "is_correct": true
+      },
+      {
+        "text": "Visible fraction of the Moon’s sunlit half",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Use scale cautiously: classroom models exaggerate object size and compress distances. State which relationship the model preserves.",
+      "hint": "The Moon’s orbital plane is tilted."
+    }
+  },
+  {
+    "id": "ac9s7u03-t-004",
+    "curriculum_code": "AC9S7U03",
+    "year_level": "Year 7",
+    "subject": "science",
+    "bank": "test",
+    "skill": "distinguish_eclipse_types",
+    "question": "A Year 7 student is investigating distinguish eclipse types. Which option is scientifically valid and best supported?",
+    "audio_prompt": "A Year 7 student is investigating distinguish eclipse types. Which option is scientifically valid and best supported?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Model size treated as scale",
+        "is_correct": false
+      },
+      {
+        "text": "Most classroom models preserve geometry, not true distances",
+        "is_correct": false
+      },
+      {
+        "text": "Visible fraction of the Moon’s sunlit half",
+        "is_correct": false
+      },
+      {
+        "text": "Observable cycles arise from changing relative positions, illumination and viewing geometry—not from objects producing changing amounts of light.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Observable cycles arise from changing relative positions, illumination and viewing geometry—not from objects producing changing amounts of light.",
+      "hint": "Most classroom models preserve geometry, not true distances."
+    }
+  },
+  {
+    "id": "ac9s7u03-t-005",
+    "curriculum_code": "AC9S7U03",
+    "year_level": "Year 7",
+    "subject": "science",
+    "bank": "test",
+    "skill": "explain_seasons_with_tilt",
+    "question": "What should be checked when applying explain seasons with tilt in earth–sun–moon cycles?",
+    "audio_prompt": "What should be checked when applying explain seasons with tilt in earth–sun–moon cycles?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A solar eclipse requires the Moon between Sun and Earth near a node of its tilted orbit",
+        "is_correct": true
+      },
+      {
+        "text": "Phases caused by Earth’s shadow",
+        "is_correct": false
+      },
+      {
+        "text": "Only lunar eclipses use Earth’s shadow",
+        "is_correct": false
+      },
+      {
+        "text": "Visible fraction of the Moon’s sunlit half",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A solar eclipse requires the Moon between Sun and Earth near a node of its tilted orbit",
+      "hint": "Only lunar eclipses use Earth’s shadow."
+    }
+  },
+  {
+    "id": "ac9s7u03-t-006",
+    "curriculum_code": "AC9S7U03",
+    "year_level": "Year 7",
+    "subject": "science",
+    "bank": "test",
+    "skill": "use_relative_positions",
+    "question": "Which response best uses use relative positions in earth–sun–moon cycles?",
+    "audio_prompt": "Which response best uses use relative positions in earth–sun–moon cycles?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Seasons caused by changing Earth–Sun distance",
+        "is_correct": false
+      },
+      {
+        "text": "Half the Moon is illuminated by the Sun at nearly all times; phases describe how much of that lit half is visible from Earth.",
+        "is_correct": true
+      },
+      {
+        "text": "Axial tilt changes Sun angle and day length",
+        "is_correct": false
+      },
+      {
+        "text": "Visible fraction of the Moon’s sunlit half",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Half the Moon is illuminated by the Sun at nearly all times; phases describe how much of that lit half is visible from Earth.",
+      "hint": "Axial tilt changes Sun angle and day length."
+    }
+  },
+  {
+    "id": "ac9s7u03-t-007",
+    "curriculum_code": "AC9S7U03",
+    "year_level": "Year 7",
+    "subject": "science",
+    "bank": "test",
+    "skill": "state_model_limitations",
+    "question": "A Year 7 student is investigating state model limitations. Which option is scientifically valid and best supported?",
+    "audio_prompt": "A Year 7 student is investigating state model limitations. Which option is scientifically valid and best supported?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Every new/full Moon creates eclipse",
+        "is_correct": false
+      },
+      {
+        "text": "The Moon’s orbital plane is tilted",
+        "is_correct": false
+      },
+      {
+        "text": "Use scale cautiously: classroom models exaggerate object size and compress distances. State which relationship the model preserves.",
+        "is_correct": true
+      },
+      {
+        "text": "Visible fraction of the Moon’s sunlit half",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Use scale cautiously: classroom models exaggerate object size and compress distances. State which relationship the model preserves.",
+      "hint": "The Moon’s orbital plane is tilted."
+    }
+  },
+  {
+    "id": "ac9s7u03-t-008",
+    "curriculum_code": "AC9S7U03",
+    "year_level": "Year 7",
+    "subject": "science",
+    "bank": "test",
+    "skill": "explain_a_crescent_phase",
+    "question": "A Year 7 student is investigating explain a crescent phase. Which option is scientifically valid and best supported?",
+    "audio_prompt": "A Year 7 student is investigating explain a crescent phase. Which option is scientifically valid and best supported?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Model size treated as scale",
+        "is_correct": false
+      },
+      {
+        "text": "Most classroom models preserve geometry, not true distances",
+        "is_correct": false
+      },
+      {
+        "text": "Visible fraction of the Moon’s sunlit half",
+        "is_correct": false
+      },
+      {
+        "text": "Observable cycles arise from changing relative positions, illumination and viewing geometry—not from objects producing changing amounts of light.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Observable cycles arise from changing relative positions, illumination and viewing geometry—not from objects producing changing amounts of light.",
+      "hint": "Most classroom models preserve geometry, not true distances."
+    }
+  }
+]

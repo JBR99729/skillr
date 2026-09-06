@@ -1,0 +1,1682 @@
+[
+  {
+    "id": "AC9E4LY01-P-001",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY01",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "Texts Across Time",
+    "question": "In comparing an old printed train timetable with a current transport app, which option best demonstrates the skill?",
+    "audio_prompt": "In comparing an old printed train timetable with a current transport app, which option best demonstrates the skill?",
+    "answers": [
+      {
+        "text": "They have completely different purposes because one is digital.",
+        "is_correct": false
+      },
+      {
+        "text": "The old timetable is automatically less accurate in every detail.",
+        "is_correct": false
+      },
+      {
+        "text": "Both help travellers plan journeys, but the app can update delays instantly and offer route choices.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The purpose is similar, while technology changes how current information can be presented and updated.",
+      "hint": "Compare purpose first, then how context or technology changes the text."
+    }
+  },
+  {
+    "id": "AC9E4LY01-P-002",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY01",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "Texts Across Time",
+    "question": "Which choice fits comparing an old printed train timetable with a current transport app most accurately?",
+    "audio_prompt": "Which choice fits comparing an old printed train timetable with a current transport app most accurately?",
+    "answers": [
+      {
+        "text": "Both help travellers plan journeys, but the app can update delays instantly and offer route choices.",
+        "is_correct": true
+      },
+      {
+        "text": "They have completely different purposes because one is digital.",
+        "is_correct": false
+      },
+      {
+        "text": "The old timetable is automatically less accurate in every detail.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The purpose is similar, while technology changes how current information can be presented and updated.",
+      "hint": "Compare purpose first, then how context or technology changes the text."
+    }
+  },
+  {
+    "id": "AC9E4LY01-P-003",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY01",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "Texts Across Time",
+    "question": "Which choice fits comparing a wartime letter with a present-day video message between family members most accurately?",
+    "audio_prompt": "Which choice fits comparing a wartime letter with a present-day video message between family members most accurately?",
+    "answers": [
+      {
+        "text": "They cannot be compared because one has moving images.",
+        "is_correct": false
+      },
+      {
+        "text": "Both maintain family connection, but the speed, privacy and amount of visual information differ.",
+        "is_correct": true
+      },
+      {
+        "text": "The video message proves modern families care more.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Communication technologies change how relationships can be represented without changing the basic purpose of staying connected.",
+      "hint": "Avoid judging people; compare what the medium allows."
+    }
+  },
+  {
+    "id": "AC9E4LY01-P-004",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY01",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "Texts Across Time",
+    "question": "Look closely at comparing a wartime letter with a present-day video message between family members. Which response or wording works best?",
+    "audio_prompt": "Look closely at comparing a wartime letter with a present-day video message between family members. Which response or wording works best?",
+    "answers": [
+      {
+        "text": "They cannot be compared because one has moving images.",
+        "is_correct": false
+      },
+      {
+        "text": "The video message proves modern families care more.",
+        "is_correct": false
+      },
+      {
+        "text": "Both maintain family connection, but the speed, privacy and amount of visual information differ.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Communication technologies change how relationships can be represented without changing the basic purpose of staying connected.",
+      "hint": "Avoid judging people; compare what the medium allows."
+    }
+  },
+  {
+    "id": "AC9E4LY01-P-005",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY01",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "Texts Across Time",
+    "question": "Look closely at comparing an old newspaper sports report with a live online match blog. Which response or wording works best?",
+    "audio_prompt": "Look closely at comparing an old newspaper sports report with a live online match blog. Which response or wording works best?",
+    "answers": [
+      {
+        "text": "Both inform audiences about the game, but the live blog updates events as they happen.",
+        "is_correct": true
+      },
+      {
+        "text": "Only the online text has an audience.",
+        "is_correct": false
+      },
+      {
+        "text": "The old report cannot contain facts.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Publication timing and technology affect immediacy and structure.",
+      "hint": "Notice when the audience receives the information."
+    }
+  },
+  {
+    "id": "AC9E4LY01-P-006",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY01",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "Texts Across Time",
+    "question": "For comparing an old newspaper sports report with a live online match blog, which option is the strongest match?",
+    "audio_prompt": "For comparing an old newspaper sports report with a live online match blog, which option is the strongest match?",
+    "answers": [
+      {
+        "text": "Only the online text has an audience.",
+        "is_correct": false
+      },
+      {
+        "text": "Both inform audiences about the game, but the live blog updates events as they happen.",
+        "is_correct": true
+      },
+      {
+        "text": "The old report cannot contain facts.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Publication timing and technology affect immediacy and structure.",
+      "hint": "Notice when the audience receives the information."
+    }
+  },
+  {
+    "id": "AC9E4LY01-P-007",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY01",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "Texts Across Time",
+    "question": "For comparing a historical tourism poster with a current tourism webpage, which option is the strongest match?",
+    "audio_prompt": "For comparing a historical tourism poster with a current tourism webpage, which option is the strongest match?",
+    "answers": [
+      {
+        "text": "The poster is not persuasive because it is old.",
+        "is_correct": false
+      },
+      {
+        "text": "The webpage has no visual design.",
+        "is_correct": false
+      },
+      {
+        "text": "Both persuade people to visit, but the webpage can use video, links and booking tools.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Similar persuasive purposes can be achieved with different available technologies.",
+      "hint": "Compare the purpose and the resources each medium uses."
+    }
+  },
+  {
+    "id": "AC9E4LY01-P-008",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY01",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "Texts Across Time",
+    "question": "Which example should you choose for comparing a historical tourism poster with a current tourism webpage?",
+    "audio_prompt": "Which example should you choose for comparing a historical tourism poster with a current tourism webpage?",
+    "answers": [
+      {
+        "text": "Both persuade people to visit, but the webpage can use video, links and booking tools.",
+        "is_correct": true
+      },
+      {
+        "text": "The poster is not persuasive because it is old.",
+        "is_correct": false
+      },
+      {
+        "text": "The webpage has no visual design.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Similar persuasive purposes can be achieved with different available technologies.",
+      "hint": "Compare the purpose and the resources each medium uses."
+    }
+  },
+  {
+    "id": "AC9E4LY01-P-009",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY01",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "Texts Across Time",
+    "question": "Which example should you choose for comparing an old school rule notice with a current parent portal message?",
+    "audio_prompt": "Which example should you choose for comparing an old school rule notice with a current parent portal message?",
+    "answers": [
+      {
+        "text": "The old notice has no purpose.",
+        "is_correct": false
+      },
+      {
+        "text": "Both communicate expectations, but the portal can link to more information and receive responses.",
+        "is_correct": true
+      },
+      {
+        "text": "Digital messages always use informal language.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Technology can change interaction and navigation while the underlying informative purpose remains.",
+      "hint": "Look at what readers can do with each text."
+    }
+  },
+  {
+    "id": "AC9E4LY01-P-010",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY01",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "Texts Across Time",
+    "question": "In comparing an old school rule notice with a current parent portal message, which option best demonstrates the skill?",
+    "audio_prompt": "In comparing an old school rule notice with a current parent portal message, which option best demonstrates the skill?",
+    "answers": [
+      {
+        "text": "The old notice has no purpose.",
+        "is_correct": false
+      },
+      {
+        "text": "Digital messages always use informal language.",
+        "is_correct": false
+      },
+      {
+        "text": "Both communicate expectations, but the portal can link to more information and receive responses.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Technology can change interaction and navigation while the underlying informative purpose remains.",
+      "hint": "Look at what readers can do with each text."
+    }
+  },
+  {
+    "id": "AC9E4LY01-P-011",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY01",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "Texts Across Time",
+    "question": "Why does “Both help travellers plan journeys, but the app can update delays instantly and offer route choices.” work well for comparing an old printed train timetable with a current transport app?",
+    "audio_prompt": "Why does “Both help travellers plan journeys, but the app can update delays instantly and offer route choices.” work well for comparing an old printed train timetable with a current transport app?",
+    "answers": [
+      {
+        "text": "The purpose is similar, while technology changes how current information can be presented and updated.",
+        "is_correct": true
+      },
+      {
+        "text": "Because “They have completely different purposes because one is digital.” is always acceptable in this situation.",
+        "is_correct": false
+      },
+      {
+        "text": "Because the longest or most complicated option must be correct.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The purpose is similar, while technology changes how current information can be presented and updated.",
+      "hint": "Compare purpose first, then how context or technology changes the text."
+    }
+  },
+  {
+    "id": "AC9E4LY01-P-012",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY01",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "Texts Across Time",
+    "question": "What makes “Both help travellers plan journeys, but the app can update delays instantly and offer route choices.” a better choice in comparing an old printed train timetable with a current transport app?",
+    "audio_prompt": "What makes “Both help travellers plan journeys, but the app can update delays instantly and offer route choices.” a better choice in comparing an old printed train timetable with a current transport app?",
+    "answers": [
+      {
+        "text": "Because “They have completely different purposes because one is digital.” is always acceptable in this situation.",
+        "is_correct": false
+      },
+      {
+        "text": "The purpose is similar, while technology changes how current information can be presented and updated.",
+        "is_correct": true
+      },
+      {
+        "text": "Because the longest or most complicated option must be correct.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The purpose is similar, while technology changes how current information can be presented and updated.",
+      "hint": "Compare purpose first, then how context or technology changes the text."
+    }
+  },
+  {
+    "id": "AC9E4LY01-P-013",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY01",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "Texts Across Time",
+    "question": "What makes “Both maintain family connection, but the speed, privacy and amount of visual information differ.” a better choice in comparing a wartime letter with a present-day video message between family members?",
+    "audio_prompt": "What makes “Both maintain family connection, but the speed, privacy and amount of visual information differ.” a better choice in comparing a wartime letter with a present-day video message between family members?",
+    "answers": [
+      {
+        "text": "Because “They cannot be compared because one has moving images.” is always acceptable in this situation.",
+        "is_correct": false
+      },
+      {
+        "text": "Because the longest or most complicated option must be correct.",
+        "is_correct": false
+      },
+      {
+        "text": "Communication technologies change how relationships can be represented without changing the basic purpose of staying connected.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Communication technologies change how relationships can be represented without changing the basic purpose of staying connected.",
+      "hint": "Avoid judging people; compare what the medium allows."
+    }
+  },
+  {
+    "id": "AC9E4LY01-P-014",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY01",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "Texts Across Time",
+    "question": "Which explanation best justifies “Both maintain family connection, but the speed, privacy and amount of visual information differ.” for comparing a wartime letter with a present-day video message between family members?",
+    "audio_prompt": "Which explanation best justifies “Both maintain family connection, but the speed, privacy and amount of visual information differ.” for comparing a wartime letter with a present-day video message between family members?",
+    "answers": [
+      {
+        "text": "Communication technologies change how relationships can be represented without changing the basic purpose of staying connected.",
+        "is_correct": true
+      },
+      {
+        "text": "Because “They cannot be compared because one has moving images.” is always acceptable in this situation.",
+        "is_correct": false
+      },
+      {
+        "text": "Because the longest or most complicated option must be correct.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Communication technologies change how relationships can be represented without changing the basic purpose of staying connected.",
+      "hint": "Avoid judging people; compare what the medium allows."
+    }
+  },
+  {
+    "id": "AC9E4LY01-P-015",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY01",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "Texts Across Time",
+    "question": "Which explanation best justifies “Both inform audiences about the game, but the live blog updates events as they happen.” for comparing an old newspaper sports report with a live online match blog?",
+    "audio_prompt": "Which explanation best justifies “Both inform audiences about the game, but the live blog updates events as they happen.” for comparing an old newspaper sports report with a live online match blog?",
+    "answers": [
+      {
+        "text": "Because “Only the online text has an audience.” is always acceptable in this situation.",
+        "is_correct": false
+      },
+      {
+        "text": "Publication timing and technology affect immediacy and structure.",
+        "is_correct": true
+      },
+      {
+        "text": "Because the longest or most complicated option must be correct.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Publication timing and technology affect immediacy and structure.",
+      "hint": "Notice when the audience receives the information."
+    }
+  },
+  {
+    "id": "AC9E4LY01-P-016",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY01",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "Texts Across Time",
+    "question": "What should you notice about “Both inform audiences about the game, but the live blog updates events as they happen.” in comparing an old newspaper sports report with a live online match blog?",
+    "audio_prompt": "What should you notice about “Both inform audiences about the game, but the live blog updates events as they happen.” in comparing an old newspaper sports report with a live online match blog?",
+    "answers": [
+      {
+        "text": "Because “Only the online text has an audience.” is always acceptable in this situation.",
+        "is_correct": false
+      },
+      {
+        "text": "Because the longest or most complicated option must be correct.",
+        "is_correct": false
+      },
+      {
+        "text": "Publication timing and technology affect immediacy and structure.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Publication timing and technology affect immediacy and structure.",
+      "hint": "Notice when the audience receives the information."
+    }
+  },
+  {
+    "id": "AC9E4LY01-P-017",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY01",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "Texts Across Time",
+    "question": "What should you notice about “Both persuade people to visit, but the webpage can use video, links and booking tools.” in comparing a historical tourism poster with a current tourism webpage?",
+    "audio_prompt": "What should you notice about “Both persuade people to visit, but the webpage can use video, links and booking tools.” in comparing a historical tourism poster with a current tourism webpage?",
+    "answers": [
+      {
+        "text": "Similar persuasive purposes can be achieved with different available technologies.",
+        "is_correct": true
+      },
+      {
+        "text": "Because “The poster is not persuasive because it is old.” is always acceptable in this situation.",
+        "is_correct": false
+      },
+      {
+        "text": "Because the longest or most complicated option must be correct.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Similar persuasive purposes can be achieved with different available technologies.",
+      "hint": "Compare the purpose and the resources each medium uses."
+    }
+  },
+  {
+    "id": "AC9E4LY01-P-018",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY01",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "Texts Across Time",
+    "question": "Which reason explains why “Both persuade people to visit, but the webpage can use video, links and booking tools.” suits comparing a historical tourism poster with a current tourism webpage?",
+    "audio_prompt": "Which reason explains why “Both persuade people to visit, but the webpage can use video, links and booking tools.” suits comparing a historical tourism poster with a current tourism webpage?",
+    "answers": [
+      {
+        "text": "Because “The poster is not persuasive because it is old.” is always acceptable in this situation.",
+        "is_correct": false
+      },
+      {
+        "text": "Similar persuasive purposes can be achieved with different available technologies.",
+        "is_correct": true
+      },
+      {
+        "text": "Because the longest or most complicated option must be correct.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Similar persuasive purposes can be achieved with different available technologies.",
+      "hint": "Compare the purpose and the resources each medium uses."
+    }
+  },
+  {
+    "id": "AC9E4LY01-P-019",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY01",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "Texts Across Time",
+    "question": "Which reason explains why “Both communicate expectations, but the portal can link to more information and receive responses.” suits comparing an old school rule notice with a current parent portal message?",
+    "audio_prompt": "Which reason explains why “Both communicate expectations, but the portal can link to more information and receive responses.” suits comparing an old school rule notice with a current parent portal message?",
+    "answers": [
+      {
+        "text": "Because “The old notice has no purpose.” is always acceptable in this situation.",
+        "is_correct": false
+      },
+      {
+        "text": "Because the longest or most complicated option must be correct.",
+        "is_correct": false
+      },
+      {
+        "text": "Technology can change interaction and navigation while the underlying informative purpose remains.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Technology can change interaction and navigation while the underlying informative purpose remains.",
+      "hint": "Look at what readers can do with each text."
+    }
+  },
+  {
+    "id": "AC9E4LY01-P-020",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY01",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "Texts Across Time",
+    "question": "Why does “Both communicate expectations, but the portal can link to more information and receive responses.” work well for comparing an old school rule notice with a current parent portal message?",
+    "audio_prompt": "Why does “Both communicate expectations, but the portal can link to more information and receive responses.” work well for comparing an old school rule notice with a current parent portal message?",
+    "answers": [
+      {
+        "text": "Technology can change interaction and navigation while the underlying informative purpose remains.",
+        "is_correct": true
+      },
+      {
+        "text": "Because “The old notice has no purpose.” is always acceptable in this situation.",
+        "is_correct": false
+      },
+      {
+        "text": "Because the longest or most complicated option must be correct.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Technology can change interaction and navigation while the underlying informative purpose remains.",
+      "hint": "Look at what readers can do with each text."
+    }
+  },
+  {
+    "id": "AC9E4LY01-P-021",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY01",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "Texts Across Time",
+    "question": "Which revision best fixes the problem in “They have completely different purposes because one is digital.” for comparing an old printed train timetable with a current transport app?",
+    "audio_prompt": "Which revision best fixes the problem in “They have completely different purposes because one is digital.” for comparing an old printed train timetable with a current transport app?",
+    "answers": [
+      {
+        "text": "They have completely different purposes because one is digital.",
+        "is_correct": false
+      },
+      {
+        "text": "Both help travellers plan journeys, but the app can update delays instantly and offer route choices.",
+        "is_correct": true
+      },
+      {
+        "text": "The old timetable is automatically less accurate in every detail.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The purpose is similar, while technology changes how current information can be presented and updated. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Compare purpose first, then how context or technology changes the text."
+    }
+  },
+  {
+    "id": "AC9E4LY01-P-022",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY01",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "Texts Across Time",
+    "question": "Compare the choices for comparing an old printed train timetable with a current transport app. Which one avoids the mistake in “They have completely different purposes because one is digital.”?",
+    "audio_prompt": "Compare the choices for comparing an old printed train timetable with a current transport app. Which one avoids the mistake in “They have completely different purposes because one is digital.”?",
+    "answers": [
+      {
+        "text": "They have completely different purposes because one is digital.",
+        "is_correct": false
+      },
+      {
+        "text": "The old timetable is automatically less accurate in every detail.",
+        "is_correct": false
+      },
+      {
+        "text": "Both help travellers plan journeys, but the app can update delays instantly and offer route choices.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The purpose is similar, while technology changes how current information can be presented and updated. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Compare purpose first, then how context or technology changes the text."
+    }
+  },
+  {
+    "id": "AC9E4LY01-P-023",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY01",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "Texts Across Time",
+    "question": "Compare the choices for comparing a wartime letter with a present-day video message between family members. Which one avoids the mistake in “They cannot be compared because one has moving images.”?",
+    "audio_prompt": "Compare the choices for comparing a wartime letter with a present-day video message between family members. Which one avoids the mistake in “They cannot be compared because one has moving images.”?",
+    "answers": [
+      {
+        "text": "Both maintain family connection, but the speed, privacy and amount of visual information differ.",
+        "is_correct": true
+      },
+      {
+        "text": "They cannot be compared because one has moving images.",
+        "is_correct": false
+      },
+      {
+        "text": "The video message proves modern families care more.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Communication technologies change how relationships can be represented without changing the basic purpose of staying connected. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Avoid judging people; compare what the medium allows."
+    }
+  },
+  {
+    "id": "AC9E4LY01-P-024",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY01",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "Texts Across Time",
+    "question": "If “They cannot be compared because one has moving images.” does not work in comparing a wartime letter with a present-day video message between family members, what should replace it?",
+    "audio_prompt": "If “They cannot be compared because one has moving images.” does not work in comparing a wartime letter with a present-day video message between family members, what should replace it?",
+    "answers": [
+      {
+        "text": "They cannot be compared because one has moving images.",
+        "is_correct": false
+      },
+      {
+        "text": "Both maintain family connection, but the speed, privacy and amount of visual information differ.",
+        "is_correct": true
+      },
+      {
+        "text": "The video message proves modern families care more.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Communication technologies change how relationships can be represented without changing the basic purpose of staying connected. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Avoid judging people; compare what the medium allows."
+    }
+  },
+  {
+    "id": "AC9E4LY01-P-025",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY01",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "Texts Across Time",
+    "question": "If “Only the online text has an audience.” does not work in comparing an old newspaper sports report with a live online match blog, what should replace it?",
+    "audio_prompt": "If “Only the online text has an audience.” does not work in comparing an old newspaper sports report with a live online match blog, what should replace it?",
+    "answers": [
+      {
+        "text": "Only the online text has an audience.",
+        "is_correct": false
+      },
+      {
+        "text": "The old report cannot contain facts.",
+        "is_correct": false
+      },
+      {
+        "text": "Both inform audiences about the game, but the live blog updates events as they happen.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Publication timing and technology affect immediacy and structure. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Notice when the audience receives the information."
+    }
+  },
+  {
+    "id": "AC9E4LY01-P-026",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY01",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "Texts Across Time",
+    "question": "Which option corrects the meaning or form needed for comparing an old newspaper sports report with a live online match blog?",
+    "audio_prompt": "Which option corrects the meaning or form needed for comparing an old newspaper sports report with a live online match blog?",
+    "answers": [
+      {
+        "text": "Both inform audiences about the game, but the live blog updates events as they happen.",
+        "is_correct": true
+      },
+      {
+        "text": "Only the online text has an audience.",
+        "is_correct": false
+      },
+      {
+        "text": "The old report cannot contain facts.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Publication timing and technology affect immediacy and structure. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Notice when the audience receives the information."
+    }
+  },
+  {
+    "id": "AC9E4LY01-P-027",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY01",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "Texts Across Time",
+    "question": "Which option corrects the meaning or form needed for comparing a historical tourism poster with a current tourism webpage?",
+    "audio_prompt": "Which option corrects the meaning or form needed for comparing a historical tourism poster with a current tourism webpage?",
+    "answers": [
+      {
+        "text": "The poster is not persuasive because it is old.",
+        "is_correct": false
+      },
+      {
+        "text": "Both persuade people to visit, but the webpage can use video, links and booking tools.",
+        "is_correct": true
+      },
+      {
+        "text": "The webpage has no visual design.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Similar persuasive purposes can be achieved with different available technologies. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Compare the purpose and the resources each medium uses."
+    }
+  },
+  {
+    "id": "AC9E4LY01-P-028",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY01",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "Texts Across Time",
+    "question": "Which choice is the clearest correction for comparing a historical tourism poster with a current tourism webpage?",
+    "audio_prompt": "Which choice is the clearest correction for comparing a historical tourism poster with a current tourism webpage?",
+    "answers": [
+      {
+        "text": "The poster is not persuasive because it is old.",
+        "is_correct": false
+      },
+      {
+        "text": "The webpage has no visual design.",
+        "is_correct": false
+      },
+      {
+        "text": "Both persuade people to visit, but the webpage can use video, links and booking tools.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Similar persuasive purposes can be achieved with different available technologies. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Compare the purpose and the resources each medium uses."
+    }
+  },
+  {
+    "id": "AC9E4LY01-P-029",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY01",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "Texts Across Time",
+    "question": "Which choice is the clearest correction for comparing an old school rule notice with a current parent portal message?",
+    "audio_prompt": "Which choice is the clearest correction for comparing an old school rule notice with a current parent portal message?",
+    "answers": [
+      {
+        "text": "Both communicate expectations, but the portal can link to more information and receive responses.",
+        "is_correct": true
+      },
+      {
+        "text": "The old notice has no purpose.",
+        "is_correct": false
+      },
+      {
+        "text": "Digital messages always use informal language.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Technology can change interaction and navigation while the underlying informative purpose remains. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Look at what readers can do with each text."
+    }
+  },
+  {
+    "id": "AC9E4LY01-P-030",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY01",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "Texts Across Time",
+    "question": "Which revision best fixes the problem in “The old notice has no purpose.” for comparing an old school rule notice with a current parent portal message?",
+    "audio_prompt": "Which revision best fixes the problem in “The old notice has no purpose.” for comparing an old school rule notice with a current parent portal message?",
+    "answers": [
+      {
+        "text": "The old notice has no purpose.",
+        "is_correct": false
+      },
+      {
+        "text": "Both communicate expectations, but the portal can link to more information and receive responses.",
+        "is_correct": true
+      },
+      {
+        "text": "Digital messages always use informal language.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Technology can change interaction and navigation while the underlying informative purpose remains. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Look at what readers can do with each text."
+    }
+  },
+  {
+    "id": "AC9E4LY01-P-031",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY01",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Texts Across Time",
+    "question": "You now need to handle comparing an old printed train timetable with a current transport app independently. Which choice should you use?",
+    "audio_prompt": "You now need to handle comparing an old printed train timetable with a current transport app independently. Which choice should you use?",
+    "answers": [
+      {
+        "text": "The old timetable is automatically less accurate in every detail.",
+        "is_correct": false
+      },
+      {
+        "text": "They have completely different purposes because one is digital.",
+        "is_correct": false
+      },
+      {
+        "text": "Both help travellers plan journeys, but the app can update delays instantly and offer route choices.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The purpose is similar, while technology changes how current information can be presented and updated.",
+      "hint": "Compare purpose first, then how context or technology changes the text."
+    }
+  },
+  {
+    "id": "AC9E4LY01-P-032",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY01",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Texts Across Time",
+    "question": "Apply the same idea to comparing an old printed train timetable with a current transport app. Which option is best?",
+    "audio_prompt": "Apply the same idea to comparing an old printed train timetable with a current transport app. Which option is best?",
+    "answers": [
+      {
+        "text": "Both help travellers plan journeys, but the app can update delays instantly and offer route choices.",
+        "is_correct": true
+      },
+      {
+        "text": "The old timetable is automatically less accurate in every detail.",
+        "is_correct": false
+      },
+      {
+        "text": "They have completely different purposes because one is digital.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The purpose is similar, while technology changes how current information can be presented and updated.",
+      "hint": "Compare purpose first, then how context or technology changes the text."
+    }
+  },
+  {
+    "id": "AC9E4LY01-P-033",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY01",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Texts Across Time",
+    "question": "Apply the same idea to comparing a wartime letter with a present-day video message between family members. Which option is best?",
+    "audio_prompt": "Apply the same idea to comparing a wartime letter with a present-day video message between family members. Which option is best?",
+    "answers": [
+      {
+        "text": "The video message proves modern families care more.",
+        "is_correct": false
+      },
+      {
+        "text": "Both maintain family connection, but the speed, privacy and amount of visual information differ.",
+        "is_correct": true
+      },
+      {
+        "text": "They cannot be compared because one has moving images.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Communication technologies change how relationships can be represented without changing the basic purpose of staying connected.",
+      "hint": "Avoid judging people; compare what the medium allows."
+    }
+  },
+  {
+    "id": "AC9E4LY01-P-034",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY01",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Texts Across Time",
+    "question": "Which decision would produce the clearest result in comparing a wartime letter with a present-day video message between family members?",
+    "audio_prompt": "Which decision would produce the clearest result in comparing a wartime letter with a present-day video message between family members?",
+    "answers": [
+      {
+        "text": "The video message proves modern families care more.",
+        "is_correct": false
+      },
+      {
+        "text": "They cannot be compared because one has moving images.",
+        "is_correct": false
+      },
+      {
+        "text": "Both maintain family connection, but the speed, privacy and amount of visual information differ.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Communication technologies change how relationships can be represented without changing the basic purpose of staying connected.",
+      "hint": "Avoid judging people; compare what the medium allows."
+    }
+  },
+  {
+    "id": "AC9E4LY01-P-035",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY01",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Texts Across Time",
+    "question": "Which decision would produce the clearest result in comparing an old newspaper sports report with a live online match blog?",
+    "audio_prompt": "Which decision would produce the clearest result in comparing an old newspaper sports report with a live online match blog?",
+    "answers": [
+      {
+        "text": "Both inform audiences about the game, but the live blog updates events as they happen.",
+        "is_correct": true
+      },
+      {
+        "text": "The old report cannot contain facts.",
+        "is_correct": false
+      },
+      {
+        "text": "Only the online text has an audience.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Publication timing and technology affect immediacy and structure.",
+      "hint": "Notice when the audience receives the information."
+    }
+  },
+  {
+    "id": "AC9E4LY01-P-036",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY01",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Texts Across Time",
+    "question": "Choose the option that applies the skill correctly in comparing an old newspaper sports report with a live online match blog.",
+    "audio_prompt": "Choose the option that applies the skill correctly in comparing an old newspaper sports report with a live online match blog.",
+    "answers": [
+      {
+        "text": "The old report cannot contain facts.",
+        "is_correct": false
+      },
+      {
+        "text": "Both inform audiences about the game, but the live blog updates events as they happen.",
+        "is_correct": true
+      },
+      {
+        "text": "Only the online text has an audience.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Publication timing and technology affect immediacy and structure.",
+      "hint": "Notice when the audience receives the information."
+    }
+  },
+  {
+    "id": "AC9E4LY01-P-037",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY01",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Texts Across Time",
+    "question": "Choose the option that applies the skill correctly in comparing a historical tourism poster with a current tourism webpage.",
+    "audio_prompt": "Choose the option that applies the skill correctly in comparing a historical tourism poster with a current tourism webpage.",
+    "answers": [
+      {
+        "text": "The webpage has no visual design.",
+        "is_correct": false
+      },
+      {
+        "text": "The poster is not persuasive because it is old.",
+        "is_correct": false
+      },
+      {
+        "text": "Both persuade people to visit, but the webpage can use video, links and booking tools.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Similar persuasive purposes can be achieved with different available technologies.",
+      "hint": "Compare the purpose and the resources each medium uses."
+    }
+  },
+  {
+    "id": "AC9E4LY01-P-038",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY01",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Texts Across Time",
+    "question": "What would be the most effective choice for comparing a historical tourism poster with a current tourism webpage?",
+    "audio_prompt": "What would be the most effective choice for comparing a historical tourism poster with a current tourism webpage?",
+    "answers": [
+      {
+        "text": "Both persuade people to visit, but the webpage can use video, links and booking tools.",
+        "is_correct": true
+      },
+      {
+        "text": "The webpage has no visual design.",
+        "is_correct": false
+      },
+      {
+        "text": "The poster is not persuasive because it is old.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Similar persuasive purposes can be achieved with different available technologies.",
+      "hint": "Compare the purpose and the resources each medium uses."
+    }
+  },
+  {
+    "id": "AC9E4LY01-P-039",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY01",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Texts Across Time",
+    "question": "What would be the most effective choice for comparing an old school rule notice with a current parent portal message?",
+    "audio_prompt": "What would be the most effective choice for comparing an old school rule notice with a current parent portal message?",
+    "answers": [
+      {
+        "text": "Digital messages always use informal language.",
+        "is_correct": false
+      },
+      {
+        "text": "Both communicate expectations, but the portal can link to more information and receive responses.",
+        "is_correct": true
+      },
+      {
+        "text": "The old notice has no purpose.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Technology can change interaction and navigation while the underlying informative purpose remains.",
+      "hint": "Look at what readers can do with each text."
+    }
+  },
+  {
+    "id": "AC9E4LY01-P-040",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY01",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Texts Across Time",
+    "question": "You now need to handle comparing an old school rule notice with a current parent portal message independently. Which choice should you use?",
+    "audio_prompt": "You now need to handle comparing an old school rule notice with a current parent portal message independently. Which choice should you use?",
+    "answers": [
+      {
+        "text": "Digital messages always use informal language.",
+        "is_correct": false
+      },
+      {
+        "text": "The old notice has no purpose.",
+        "is_correct": false
+      },
+      {
+        "text": "Both communicate expectations, but the portal can link to more information and receive responses.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Technology can change interaction and navigation while the underlying informative purpose remains.",
+      "hint": "Look at what readers can do with each text."
+    }
+  },
+  {
+    "id": "AC9E4LY01-T-001",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY01",
+    "bank": "test",
+    "stage": "verify",
+    "skill": "Texts Across Time",
+    "question": "New context: comparing a printed emergency leaflet with a current emergency alert. Which option is correct?",
+    "audio_prompt": "New context: comparing a printed emergency leaflet with a current emergency alert. Which option is correct?",
+    "answers": [
+      {
+        "text": "Both give safety instructions, but the alert can be sent quickly to people in a specific area.",
+        "is_correct": true
+      },
+      {
+        "text": "The leaflet cannot contain urgent information.",
+        "is_correct": false
+      },
+      {
+        "text": "The alert needs no clear wording because it is digital.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Historical and technological context affects delivery, not the need for clear safety information.",
+      "hint": "Separate delivery method from purpose."
+    }
+  },
+  {
+    "id": "AC9E4LY01-T-002",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY01",
+    "bank": "test",
+    "stage": "verify",
+    "skill": "Texts Across Time",
+    "question": "What is the best choice for comparing a printed emergency leaflet with a current emergency alert?",
+    "audio_prompt": "What is the best choice for comparing a printed emergency leaflet with a current emergency alert?",
+    "answers": [
+      {
+        "text": "The leaflet cannot contain urgent information.",
+        "is_correct": false
+      },
+      {
+        "text": "Both give safety instructions, but the alert can be sent quickly to people in a specific area.",
+        "is_correct": true
+      },
+      {
+        "text": "The alert needs no clear wording because it is digital.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Historical and technological context affects delivery, not the need for clear safety information.",
+      "hint": "Separate delivery method from purpose."
+    }
+  },
+  {
+    "id": "AC9E4LY01-T-003",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY01",
+    "bank": "test",
+    "stage": "verify",
+    "skill": "Texts Across Time",
+    "question": "Which explanation best supports “Both give safety instructions, but the alert can be sent quickly to people in a specific area.” in comparing a printed emergency leaflet with a current emergency alert?",
+    "audio_prompt": "Which explanation best supports “Both give safety instructions, but the alert can be sent quickly to people in a specific area.” in comparing a printed emergency leaflet with a current emergency alert?",
+    "answers": [
+      {
+        "text": "Because “The leaflet cannot contain urgent information.” is always a safe choice.",
+        "is_correct": false
+      },
+      {
+        "text": "Because surface appearance matters more than meaning.",
+        "is_correct": false
+      },
+      {
+        "text": "Historical and technological context affects delivery, not the need for clear safety information.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Historical and technological context affects delivery, not the need for clear safety information.",
+      "hint": "Separate delivery method from purpose."
+    }
+  },
+  {
+    "id": "AC9E4LY01-T-004",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY01",
+    "bank": "test",
+    "stage": "verify",
+    "skill": "Texts Across Time",
+    "question": "Which clue should guide your decision in comparing a printed emergency leaflet with a current emergency alert?",
+    "audio_prompt": "Which clue should guide your decision in comparing a printed emergency leaflet with a current emergency alert?",
+    "answers": [
+      {
+        "text": "Separate delivery method from purpose.",
+        "is_correct": true
+      },
+      {
+        "text": "Choose the option with the most words.",
+        "is_correct": false
+      },
+      {
+        "text": "Ignore the context and use the first familiar form.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Historical and technological context affects delivery, not the need for clear safety information.",
+      "hint": "Separate delivery method from purpose."
+    }
+  },
+  {
+    "id": "AC9E4LY01-T-005",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY01",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "Texts Across Time",
+    "question": "Which option would you reject first in comparing a printed emergency leaflet with a current emergency alert?",
+    "audio_prompt": "Which option would you reject first in comparing a printed emergency leaflet with a current emergency alert?",
+    "answers": [
+      {
+        "text": "Both give safety instructions, but the alert can be sent quickly to people in a specific area.",
+        "is_correct": false
+      },
+      {
+        "text": "The leaflet cannot contain urgent information.",
+        "is_correct": true
+      },
+      {
+        "text": "The alert needs no clear wording because it is digital.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The rejected choice conflicts with the exact meaning, form or situation being tested. Historical and technological context affects delivery, not the need for clear safety information.",
+      "hint": "Separate delivery method from purpose."
+    }
+  },
+  {
+    "id": "AC9E4LY01-T-006",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY01",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "Texts Across Time",
+    "question": "Which correction should replace “The leaflet cannot contain urgent information.” in comparing a printed emergency leaflet with a current emergency alert?",
+    "audio_prompt": "Which correction should replace “The leaflet cannot contain urgent information.” in comparing a printed emergency leaflet with a current emergency alert?",
+    "answers": [
+      {
+        "text": "The leaflet cannot contain urgent information.",
+        "is_correct": false
+      },
+      {
+        "text": "The alert needs no clear wording because it is digital.",
+        "is_correct": false
+      },
+      {
+        "text": "Both give safety instructions, but the alert can be sent quickly to people in a specific area.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Historical and technological context affects delivery, not the need for clear safety information.",
+      "hint": "Separate delivery method from purpose."
+    }
+  },
+  {
+    "id": "AC9E4LY01-T-007",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY01",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "Texts Across Time",
+    "question": "Apply the skill to comparing a printed emergency leaflet with a current emergency alert: what should you choose?",
+    "audio_prompt": "Apply the skill to comparing a printed emergency leaflet with a current emergency alert: what should you choose?",
+    "answers": [
+      {
+        "text": "Both give safety instructions, but the alert can be sent quickly to people in a specific area.",
+        "is_correct": true
+      },
+      {
+        "text": "The leaflet cannot contain urgent information.",
+        "is_correct": false
+      },
+      {
+        "text": "The alert needs no clear wording because it is digital.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Historical and technological context affects delivery, not the need for clear safety information.",
+      "hint": "Separate delivery method from purpose."
+    }
+  },
+  {
+    "id": "AC9E4LY01-T-008",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY01",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "Texts Across Time",
+    "question": "Which final choice gives the clearest and most accurate result for comparing a printed emergency leaflet with a current emergency alert?",
+    "audio_prompt": "Which final choice gives the clearest and most accurate result for comparing a printed emergency leaflet with a current emergency alert?",
+    "answers": [
+      {
+        "text": "The leaflet cannot contain urgent information.",
+        "is_correct": false
+      },
+      {
+        "text": "Both give safety instructions, but the alert can be sent quickly to people in a specific area.",
+        "is_correct": true
+      },
+      {
+        "text": "The alert needs no clear wording because it is digital.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Historical and technological context affects delivery, not the need for clear safety information.",
+      "hint": "Separate delivery method from purpose."
+    }
+  },
+  {
+    "id": "AC9E4LY01-T-009",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY01",
+    "bank": "test",
+    "stage": "verify",
+    "skill": "Texts Across Time",
+    "question": "New context: comparing an early wildlife field guide with a modern interactive species guide. Which option is correct?",
+    "audio_prompt": "New context: comparing an early wildlife field guide with a modern interactive species guide. Which option is correct?",
+    "answers": [
+      {
+        "text": "The field guide and app have unrelated audiences.",
+        "is_correct": false
+      },
+      {
+        "text": "Only the app can use scientific vocabulary.",
+        "is_correct": false
+      },
+      {
+        "text": "Both help identify species, but the interactive guide can include calls, zoomable images and updated maps.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "New technology can extend how similar information is represented and accessed.",
+      "hint": "Compare shared purpose and changed features."
+    }
+  },
+  {
+    "id": "AC9E4LY01-T-010",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY01",
+    "bank": "test",
+    "stage": "verify",
+    "skill": "Texts Across Time",
+    "question": "What is the best choice for comparing an early wildlife field guide with a modern interactive species guide?",
+    "audio_prompt": "What is the best choice for comparing an early wildlife field guide with a modern interactive species guide?",
+    "answers": [
+      {
+        "text": "Both help identify species, but the interactive guide can include calls, zoomable images and updated maps.",
+        "is_correct": true
+      },
+      {
+        "text": "The field guide and app have unrelated audiences.",
+        "is_correct": false
+      },
+      {
+        "text": "Only the app can use scientific vocabulary.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "New technology can extend how similar information is represented and accessed.",
+      "hint": "Compare shared purpose and changed features."
+    }
+  },
+  {
+    "id": "AC9E4LY01-T-011",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY01",
+    "bank": "test",
+    "stage": "verify",
+    "skill": "Texts Across Time",
+    "question": "Which explanation best supports “Both help identify species, but the interactive guide can include calls, zoomable images and updated maps.” in comparing an early wildlife field guide with a modern interactive species guide?",
+    "audio_prompt": "Which explanation best supports “Both help identify species, but the interactive guide can include calls, zoomable images and updated maps.” in comparing an early wildlife field guide with a modern interactive species guide?",
+    "answers": [
+      {
+        "text": "Because “The field guide and app have unrelated audiences.” is always a safe choice.",
+        "is_correct": false
+      },
+      {
+        "text": "New technology can extend how similar information is represented and accessed.",
+        "is_correct": true
+      },
+      {
+        "text": "Because surface appearance matters more than meaning.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "New technology can extend how similar information is represented and accessed.",
+      "hint": "Compare shared purpose and changed features."
+    }
+  },
+  {
+    "id": "AC9E4LY01-T-012",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY01",
+    "bank": "test",
+    "stage": "verify",
+    "skill": "Texts Across Time",
+    "question": "Which clue should guide your decision in comparing an early wildlife field guide with a modern interactive species guide?",
+    "audio_prompt": "Which clue should guide your decision in comparing an early wildlife field guide with a modern interactive species guide?",
+    "answers": [
+      {
+        "text": "Choose the option with the most words.",
+        "is_correct": false
+      },
+      {
+        "text": "Ignore the context and use the first familiar form.",
+        "is_correct": false
+      },
+      {
+        "text": "Compare shared purpose and changed features.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "New technology can extend how similar information is represented and accessed.",
+      "hint": "Compare shared purpose and changed features."
+    }
+  },
+  {
+    "id": "AC9E4LY01-T-013",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY01",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "Texts Across Time",
+    "question": "Which option would you reject first in comparing an early wildlife field guide with a modern interactive species guide?",
+    "audio_prompt": "Which option would you reject first in comparing an early wildlife field guide with a modern interactive species guide?",
+    "answers": [
+      {
+        "text": "The field guide and app have unrelated audiences.",
+        "is_correct": true
+      },
+      {
+        "text": "Both help identify species, but the interactive guide can include calls, zoomable images and updated maps.",
+        "is_correct": false
+      },
+      {
+        "text": "Only the app can use scientific vocabulary.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The rejected choice conflicts with the exact meaning, form or situation being tested. New technology can extend how similar information is represented and accessed.",
+      "hint": "Compare shared purpose and changed features."
+    }
+  },
+  {
+    "id": "AC9E4LY01-T-014",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY01",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "Texts Across Time",
+    "question": "Which correction should replace “The field guide and app have unrelated audiences.” in comparing an early wildlife field guide with a modern interactive species guide?",
+    "audio_prompt": "Which correction should replace “The field guide and app have unrelated audiences.” in comparing an early wildlife field guide with a modern interactive species guide?",
+    "answers": [
+      {
+        "text": "The field guide and app have unrelated audiences.",
+        "is_correct": false
+      },
+      {
+        "text": "Both help identify species, but the interactive guide can include calls, zoomable images and updated maps.",
+        "is_correct": true
+      },
+      {
+        "text": "Only the app can use scientific vocabulary.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "New technology can extend how similar information is represented and accessed.",
+      "hint": "Compare shared purpose and changed features."
+    }
+  },
+  {
+    "id": "AC9E4LY01-T-015",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY01",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "Texts Across Time",
+    "question": "Apply the skill to comparing an early wildlife field guide with a modern interactive species guide: what should you choose?",
+    "audio_prompt": "Apply the skill to comparing an early wildlife field guide with a modern interactive species guide: what should you choose?",
+    "answers": [
+      {
+        "text": "The field guide and app have unrelated audiences.",
+        "is_correct": false
+      },
+      {
+        "text": "Only the app can use scientific vocabulary.",
+        "is_correct": false
+      },
+      {
+        "text": "Both help identify species, but the interactive guide can include calls, zoomable images and updated maps.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "New technology can extend how similar information is represented and accessed.",
+      "hint": "Compare shared purpose and changed features."
+    }
+  },
+  {
+    "id": "AC9E4LY01-T-016",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY01",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "Texts Across Time",
+    "question": "Which final choice gives the clearest and most accurate result for comparing an early wildlife field guide with a modern interactive species guide?",
+    "audio_prompt": "Which final choice gives the clearest and most accurate result for comparing an early wildlife field guide with a modern interactive species guide?",
+    "answers": [
+      {
+        "text": "Both help identify species, but the interactive guide can include calls, zoomable images and updated maps.",
+        "is_correct": true
+      },
+      {
+        "text": "The field guide and app have unrelated audiences.",
+        "is_correct": false
+      },
+      {
+        "text": "Only the app can use scientific vocabulary.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "New technology can extend how similar information is represented and accessed.",
+      "hint": "Compare shared purpose and changed features."
+    }
+  }
+]

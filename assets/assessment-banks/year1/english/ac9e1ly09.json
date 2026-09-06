@@ -1,0 +1,1402 @@
+[
+  {
+    "id": "ac9e1ly09-er5-p-001",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY09",
+    "bank": "practice",
+    "skill": "segmenting spoken phonemes including clusters",
+    "question": "Grown-up: keep the screen out of the child's view. Say 'cat' normally. Ask the child to say every sound separately, moving one counter for each sound.",
+    "audio_prompt": "Grown-up: keep the screen out of the child's view. Say 'cat' normally. Ask the child to say every sound separately, moving one counter for each sound.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 1,
+    "explanation": {
+      "summary": "Three phonemes: /k/ /a/ /t/. Accept the short vowel in cat. Count speech sounds, not letter names; the child should segment before hearing this model.",
+      "hint": "Complete the task before comparing your response with the guidance."
+    },
+    "review": {
+      "version": "20260906-english-review-5",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/does-the-word-start-with-a-consonant-blend",
+      "evidence_scope": "Representative related IXL task inspected where mapped; official curriculum sets the performance requirement. See docs/question-bank-reviews/2026-09-06-year1-english-ly06-ly10.md. No measured equivalence or endorsement."
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "Three phonemes: /k/ /a/ /t/. Accept the short vowel in cat. Count speech sounds, not letter names; the child should segment before hearing this model.",
+    "acceptance_note": "Three phonemes: /k/ /a/ /t/. Accept the short vowel in cat. Count speech sounds, not letter names; the child should segment before hearing this model.",
+    "response_instructions": "Complete the spoken task with a grown-up, who will check the response. Do not use letter names in place of speech sounds.",
+    "completion_label": "I have completed the task with a grown-up."
+  },
+  {
+    "id": "ac9e1ly09-er5-p-002",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY09",
+    "bank": "practice",
+    "skill": "segmenting spoken phonemes including clusters",
+    "question": "Grown-up: keep the screen out of the child's view. Say 'map'. Ask the child to stretch it into its separate sounds in order.",
+    "audio_prompt": "Grown-up: keep the screen out of the child's view. Say 'map'. Ask the child to stretch it into its separate sounds in order.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 2,
+    "explanation": {
+      "summary": "Three phonemes: /m/ /a/ /p/. Listen for all three in order without added 'uh' sounds after the consonants.",
+      "hint": "Complete the task before comparing your response with the guidance."
+    },
+    "review": {
+      "version": "20260906-english-review-5",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/does-the-word-start-with-a-consonant-blend",
+      "evidence_scope": "Representative related IXL task inspected where mapped; official curriculum sets the performance requirement. See docs/question-bank-reviews/2026-09-06-year1-english-ly06-ly10.md. No measured equivalence or endorsement."
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "Three phonemes: /m/ /a/ /p/. Listen for all three in order without added 'uh' sounds after the consonants.",
+    "acceptance_note": "Three phonemes: /m/ /a/ /p/. Listen for all three in order without added 'uh' sounds after the consonants.",
+    "response_instructions": "Complete the spoken task with a grown-up, who will check the response. Do not use letter names in place of speech sounds.",
+    "completion_label": "I have completed the task with a grown-up."
+  },
+  {
+    "id": "ac9e1ly09-er5-p-003",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY09",
+    "bank": "practice",
+    "skill": "segmenting spoken phonemes including clusters",
+    "question": "Grown-up: keep the screen out of the child's view. Say 'fish'. Ask the child to say each sound and count them with fingers.",
+    "audio_prompt": "Grown-up: keep the screen out of the child's view. Say 'fish'. Ask the child to say each sound and count them with fingers.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 3,
+    "explanation": {
+      "summary": "Three phonemes: /f/ /i/ /sh/. The final sh is one sound; four printed letters do not mean four phonemes.",
+      "hint": "Complete the task before comparing your response with the guidance."
+    },
+    "review": {
+      "version": "20260906-english-review-5",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/does-the-word-start-with-a-consonant-blend",
+      "evidence_scope": "Representative related IXL task inspected where mapped; official curriculum sets the performance requirement. See docs/question-bank-reviews/2026-09-06-year1-english-ly06-ly10.md. No measured equivalence or endorsement."
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "Three phonemes: /f/ /i/ /sh/. The final sh is one sound; four printed letters do not mean four phonemes.",
+    "acceptance_note": "Three phonemes: /f/ /i/ /sh/. The final sh is one sound; four printed letters do not mean four phonemes.",
+    "response_instructions": "Complete the spoken task with a grown-up, who will check the response. Do not use letter names in place of speech sounds.",
+    "completion_label": "I have completed the task with a grown-up."
+  },
+  {
+    "id": "ac9e1ly09-er5-p-004",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY09",
+    "bank": "practice",
+    "skill": "segmenting spoken phonemes including clusters",
+    "question": "Grown-up: keep the screen out of the child's view. Say 'ship'. Ask the child to move a counter for each separate sound they say.",
+    "audio_prompt": "Grown-up: keep the screen out of the child's view. Say 'ship'. Ask the child to move a counter for each separate sound they say.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 4,
+    "explanation": {
+      "summary": "Three phonemes: /sh/ /i/ /p/. The first sound is one continuous sh sound, not separate s and h sounds.",
+      "hint": "Complete the task before comparing your response with the guidance."
+    },
+    "review": {
+      "version": "20260906-english-review-5",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/does-the-word-start-with-a-consonant-blend",
+      "evidence_scope": "Representative related IXL task inspected where mapped; official curriculum sets the performance requirement. See docs/question-bank-reviews/2026-09-06-year1-english-ly06-ly10.md. No measured equivalence or endorsement."
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "Three phonemes: /sh/ /i/ /p/. The first sound is one continuous sh sound, not separate s and h sounds.",
+    "acceptance_note": "Three phonemes: /sh/ /i/ /p/. The first sound is one continuous sh sound, not separate s and h sounds.",
+    "response_instructions": "Complete the spoken task with a grown-up, who will check the response. Do not use letter names in place of speech sounds.",
+    "completion_label": "I have completed the task with a grown-up."
+  },
+  {
+    "id": "ac9e1ly09-er5-p-005",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY09",
+    "bank": "practice",
+    "skill": "segmenting spoken phonemes including clusters",
+    "question": "Grown-up: keep the screen out of the child's view. Say 'sock'. Ask the child to say its sounds slowly and separately.",
+    "audio_prompt": "Grown-up: keep the screen out of the child's view. Say 'sock'. Ask the child to say its sounds slowly and separately.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 5,
+    "explanation": {
+      "summary": "Three phonemes: /s/ /o/ /k/. The ending ck represents one sound. Accept the child's usual Australian short o pronunciation.",
+      "hint": "Complete the task before comparing your response with the guidance."
+    },
+    "review": {
+      "version": "20260906-english-review-5",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/does-the-word-start-with-a-consonant-blend",
+      "evidence_scope": "Representative related IXL task inspected where mapped; official curriculum sets the performance requirement. See docs/question-bank-reviews/2026-09-06-year1-english-ly06-ly10.md. No measured equivalence or endorsement."
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "Three phonemes: /s/ /o/ /k/. The ending ck represents one sound. Accept the child's usual Australian short o pronunciation.",
+    "acceptance_note": "Three phonemes: /s/ /o/ /k/. The ending ck represents one sound. Accept the child's usual Australian short o pronunciation.",
+    "response_instructions": "Complete the spoken task with a grown-up, who will check the response. Do not use letter names in place of speech sounds.",
+    "completion_label": "I have completed the task with a grown-up."
+  },
+  {
+    "id": "ac9e1ly09-er5-p-006",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY09",
+    "bank": "practice",
+    "skill": "segmenting spoken phonemes including clusters",
+    "question": "Grown-up: keep the screen out of the child's view. Say 'duck'. Ask for all the sounds in order, with one tap for each.",
+    "audio_prompt": "Grown-up: keep the screen out of the child's view. Say 'duck'. Ask for all the sounds in order, with one tap for each.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 6,
+    "explanation": {
+      "summary": "Three phonemes: /d/ /u/ /k/. The short vowel is the one in duck; the ending has one /k/ sound.",
+      "hint": "Complete the task before comparing your response with the guidance."
+    },
+    "review": {
+      "version": "20260906-english-review-5",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/does-the-word-start-with-a-consonant-blend",
+      "evidence_scope": "Representative related IXL task inspected where mapped; official curriculum sets the performance requirement. See docs/question-bank-reviews/2026-09-06-year1-english-ly06-ly10.md. No measured equivalence or endorsement."
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "Three phonemes: /d/ /u/ /k/. The short vowel is the one in duck; the ending has one /k/ sound.",
+    "acceptance_note": "Three phonemes: /d/ /u/ /k/. The short vowel is the one in duck; the ending has one /k/ sound.",
+    "response_instructions": "Complete the spoken task with a grown-up, who will check the response. Do not use letter names in place of speech sounds.",
+    "completion_label": "I have completed the task with a grown-up."
+  },
+  {
+    "id": "ac9e1ly09-er5-p-007",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY09",
+    "bank": "practice",
+    "skill": "segmenting spoken phonemes including clusters",
+    "question": "Grown-up: keep the screen out of the child's view. Say 'bell'. Ask the child to separate the sounds without naming letters.",
+    "audio_prompt": "Grown-up: keep the screen out of the child's view. Say 'bell'. Ask the child to separate the sounds without naming letters.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 7,
+    "explanation": {
+      "summary": "Three phonemes: /b/ /e/ /l/. The double written l represents one final speech sound.",
+      "hint": "Complete the task before comparing your response with the guidance."
+    },
+    "review": {
+      "version": "20260906-english-review-5",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/does-the-word-start-with-a-consonant-blend",
+      "evidence_scope": "Representative related IXL task inspected where mapped; official curriculum sets the performance requirement. See docs/question-bank-reviews/2026-09-06-year1-english-ly06-ly10.md. No measured equivalence or endorsement."
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "Three phonemes: /b/ /e/ /l/. The double written l represents one final speech sound.",
+    "acceptance_note": "Three phonemes: /b/ /e/ /l/. The double written l represents one final speech sound.",
+    "response_instructions": "Complete the spoken task with a grown-up, who will check the response. Do not use letter names in place of speech sounds.",
+    "completion_label": "I have completed the task with a grown-up."
+  },
+  {
+    "id": "ac9e1ly09-er5-p-008",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY09",
+    "bank": "practice",
+    "skill": "segmenting spoken phonemes including clusters",
+    "question": "Grown-up: keep the screen out of the child's view. Say 'ring'. Ask the child to say each sound and move a counter for each.",
+    "audio_prompt": "Grown-up: keep the screen out of the child's view. Say 'ring'. Ask the child to say each sound and move a counter for each.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 8,
+    "explanation": {
+      "summary": "Three phonemes: /r/ /i/ /ng/. The final ng is one sound, not a separate n then g in ordinary ring.",
+      "hint": "Complete the task before comparing your response with the guidance."
+    },
+    "review": {
+      "version": "20260906-english-review-5",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/does-the-word-start-with-a-consonant-blend",
+      "evidence_scope": "Representative related IXL task inspected where mapped; official curriculum sets the performance requirement. See docs/question-bank-reviews/2026-09-06-year1-english-ly06-ly10.md. No measured equivalence or endorsement."
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "Three phonemes: /r/ /i/ /ng/. The final ng is one sound, not a separate n then g in ordinary ring.",
+    "acceptance_note": "Three phonemes: /r/ /i/ /ng/. The final ng is one sound, not a separate n then g in ordinary ring.",
+    "response_instructions": "Complete the spoken task with a grown-up, who will check the response. Do not use letter names in place of speech sounds.",
+    "completion_label": "I have completed the task with a grown-up."
+  },
+  {
+    "id": "ac9e1ly09-er5-p-009",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY09",
+    "bank": "practice",
+    "skill": "segmenting spoken phonemes including clusters",
+    "question": "Grown-up: keep the screen out of the child's view. Say 'stop'. Ask the child to say every sound, keeping the two beginning consonant sounds separate.",
+    "audio_prompt": "Grown-up: keep the screen out of the child's view. Say 'stop'. Ask the child to say every sound, keeping the two beginning consonant sounds separate.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "stage": "apply",
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "sequence_priority": 9,
+    "explanation": {
+      "summary": "Four phonemes: /s/ /t/ /o/ /p/. Listen for both /s/ and /t/, not a single combined 'st' count.",
+      "hint": "Complete the task before comparing your response with the guidance."
+    },
+    "review": {
+      "version": "20260906-english-review-5",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/does-the-word-start-with-a-consonant-blend",
+      "evidence_scope": "Representative related IXL task inspected where mapped; official curriculum sets the performance requirement. See docs/question-bank-reviews/2026-09-06-year1-english-ly06-ly10.md. No measured equivalence or endorsement."
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "Four phonemes: /s/ /t/ /o/ /p/. Listen for both /s/ and /t/, not a single combined 'st' count.",
+    "acceptance_note": "Four phonemes: /s/ /t/ /o/ /p/. Listen for both /s/ and /t/, not a single combined 'st' count.",
+    "response_instructions": "Complete the spoken task with a grown-up, who will check the response. Do not use letter names in place of speech sounds.",
+    "completion_label": "I have completed the task with a grown-up."
+  },
+  {
+    "id": "ac9e1ly09-er5-p-010",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY09",
+    "bank": "practice",
+    "skill": "segmenting spoken phonemes including clusters",
+    "question": "Grown-up: keep the screen out of the child's view. Say 'flag'. Ask the child to segment the whole word and count the sounds.",
+    "audio_prompt": "Grown-up: keep the screen out of the child's view. Say 'flag'. Ask the child to segment the whole word and count the sounds.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "stage": "apply",
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "sequence_priority": 10,
+    "explanation": {
+      "summary": "Four phonemes: /f/ /l/ /a/ /g/. Both consonants in fl must be heard separately before the vowel.",
+      "hint": "Complete the task before comparing your response with the guidance."
+    },
+    "review": {
+      "version": "20260906-english-review-5",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/does-the-word-start-with-a-consonant-blend",
+      "evidence_scope": "Representative related IXL task inspected where mapped; official curriculum sets the performance requirement. See docs/question-bank-reviews/2026-09-06-year1-english-ly06-ly10.md. No measured equivalence or endorsement."
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "Four phonemes: /f/ /l/ /a/ /g/. Both consonants in fl must be heard separately before the vowel.",
+    "acceptance_note": "Four phonemes: /f/ /l/ /a/ /g/. Both consonants in fl must be heard separately before the vowel.",
+    "response_instructions": "Complete the spoken task with a grown-up, who will check the response. Do not use letter names in place of speech sounds.",
+    "completion_label": "I have completed the task with a grown-up."
+  },
+  {
+    "id": "ac9e1ly09-er5-p-011",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY09",
+    "bank": "practice",
+    "skill": "segmenting spoken phonemes including clusters",
+    "question": "Grown-up: keep the screen out of the child's view. Say 'drum'. Ask the child to say the sounds in order, slowly enough to hear the beginning blend.",
+    "audio_prompt": "Grown-up: keep the screen out of the child's view. Say 'drum'. Ask the child to say the sounds in order, slowly enough to hear the beginning blend.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "stage": "apply",
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "sequence_priority": 11,
+    "explanation": {
+      "summary": "Four phonemes: /d/ /r/ /u/ /m/ in the taught segmentation. Accept natural local pronunciation; do not add extra vowels between consonants.",
+      "hint": "Complete the task before comparing your response with the guidance."
+    },
+    "review": {
+      "version": "20260906-english-review-5",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/does-the-word-start-with-a-consonant-blend",
+      "evidence_scope": "Representative related IXL task inspected where mapped; official curriculum sets the performance requirement. See docs/question-bank-reviews/2026-09-06-year1-english-ly06-ly10.md. No measured equivalence or endorsement."
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "Four phonemes: /d/ /r/ /u/ /m/ in the taught segmentation. Accept natural local pronunciation; do not add extra vowels between consonants.",
+    "acceptance_note": "Four phonemes: /d/ /r/ /u/ /m/ in the taught segmentation. Accept natural local pronunciation; do not add extra vowels between consonants.",
+    "response_instructions": "Complete the spoken task with a grown-up, who will check the response. Do not use letter names in place of speech sounds.",
+    "completion_label": "I have completed the task with a grown-up."
+  },
+  {
+    "id": "ac9e1ly09-er5-p-012",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY09",
+    "bank": "practice",
+    "skill": "segmenting spoken phonemes including clusters",
+    "question": "Grown-up: keep the screen out of the child's view. Say 'nest'. Ask the child to separate all the sounds, especially at the end.",
+    "audio_prompt": "Grown-up: keep the screen out of the child's view. Say 'nest'. Ask the child to separate all the sounds, especially at the end.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "stage": "apply",
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "sequence_priority": 12,
+    "explanation": {
+      "summary": "Four phonemes: /n/ /e/ /s/ /t/. The final cluster contributes two distinct sounds in the segmentation.",
+      "hint": "Complete the task before comparing your response with the guidance."
+    },
+    "review": {
+      "version": "20260906-english-review-5",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/does-the-word-start-with-a-consonant-blend",
+      "evidence_scope": "Representative related IXL task inspected where mapped; official curriculum sets the performance requirement. See docs/question-bank-reviews/2026-09-06-year1-english-ly06-ly10.md. No measured equivalence or endorsement."
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "Four phonemes: /n/ /e/ /s/ /t/. The final cluster contributes two distinct sounds in the segmentation.",
+    "acceptance_note": "Four phonemes: /n/ /e/ /s/ /t/. The final cluster contributes two distinct sounds in the segmentation.",
+    "response_instructions": "Complete the spoken task with a grown-up, who will check the response. Do not use letter names in place of speech sounds.",
+    "completion_label": "I have completed the task with a grown-up."
+  },
+  {
+    "id": "ac9e1ly09-er5-p-013",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY09",
+    "bank": "practice",
+    "skill": "segmenting spoken phonemes including clusters",
+    "question": "Grown-up: keep the screen out of the child's view. Say 'hand'. Ask the child to move one counter for each sound they say.",
+    "audio_prompt": "Grown-up: keep the screen out of the child's view. Say 'hand'. Ask the child to move one counter for each sound they say.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "stage": "apply",
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "sequence_priority": 13,
+    "explanation": {
+      "summary": "Four phonemes: /h/ /a/ /n/ /d/. Check that the final /d/ is included rather than stopping at /n/.",
+      "hint": "Complete the task before comparing your response with the guidance."
+    },
+    "review": {
+      "version": "20260906-english-review-5",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/does-the-word-start-with-a-consonant-blend",
+      "evidence_scope": "Representative related IXL task inspected where mapped; official curriculum sets the performance requirement. See docs/question-bank-reviews/2026-09-06-year1-english-ly06-ly10.md. No measured equivalence or endorsement."
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "Four phonemes: /h/ /a/ /n/ /d/. Check that the final /d/ is included rather than stopping at /n/.",
+    "acceptance_note": "Four phonemes: /h/ /a/ /n/ /d/. Check that the final /d/ is included rather than stopping at /n/.",
+    "response_instructions": "Complete the spoken task with a grown-up, who will check the response. Do not use letter names in place of speech sounds.",
+    "completion_label": "I have completed the task with a grown-up."
+  },
+  {
+    "id": "ac9e1ly09-er5-p-014",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY09",
+    "bank": "practice",
+    "skill": "segmenting spoken phonemes including clusters",
+    "question": "Grown-up: keep the screen out of the child's view. Say 'milk'. Ask the child to say each sound in order.",
+    "audio_prompt": "Grown-up: keep the screen out of the child's view. Say 'milk'. Ask the child to say each sound in order.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "stage": "apply",
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "sequence_priority": 14,
+    "explanation": {
+      "summary": "Four phonemes: /m/ /i/ /l/ /k/. Listen for both ending consonants; accept the learner's accent without treating an accent feature as a disorder.",
+      "hint": "Complete the task before comparing your response with the guidance."
+    },
+    "review": {
+      "version": "20260906-english-review-5",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/does-the-word-start-with-a-consonant-blend",
+      "evidence_scope": "Representative related IXL task inspected where mapped; official curriculum sets the performance requirement. See docs/question-bank-reviews/2026-09-06-year1-english-ly06-ly10.md. No measured equivalence or endorsement."
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "Four phonemes: /m/ /i/ /l/ /k/. Listen for both ending consonants; accept the learner's accent without treating an accent feature as a disorder.",
+    "acceptance_note": "Four phonemes: /m/ /i/ /l/ /k/. Listen for both ending consonants; accept the learner's accent without treating an accent feature as a disorder.",
+    "response_instructions": "Complete the spoken task with a grown-up, who will check the response. Do not use letter names in place of speech sounds.",
+    "completion_label": "I have completed the task with a grown-up."
+  },
+  {
+    "id": "ac9e1ly09-er5-p-015",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY09",
+    "bank": "practice",
+    "skill": "segmenting spoken phonemes including clusters",
+    "question": "Grown-up: keep the screen out of the child's view. Say 'tent'. Ask the child to tap for each sound and say them separately.",
+    "audio_prompt": "Grown-up: keep the screen out of the child's view. Say 'tent'. Ask the child to tap for each sound and say them separately.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "stage": "apply",
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "sequence_priority": 15,
+    "explanation": {
+      "summary": "Four phonemes: /t/ /e/ /n/ /t/. The first and last sounds are both /t/, but occur in different positions and each counts.",
+      "hint": "Complete the task before comparing your response with the guidance."
+    },
+    "review": {
+      "version": "20260906-english-review-5",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/does-the-word-start-with-a-consonant-blend",
+      "evidence_scope": "Representative related IXL task inspected where mapped; official curriculum sets the performance requirement. See docs/question-bank-reviews/2026-09-06-year1-english-ly06-ly10.md. No measured equivalence or endorsement."
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "Four phonemes: /t/ /e/ /n/ /t/. The first and last sounds are both /t/, but occur in different positions and each counts.",
+    "acceptance_note": "Four phonemes: /t/ /e/ /n/ /t/. The first and last sounds are both /t/, but occur in different positions and each counts.",
+    "response_instructions": "Complete the spoken task with a grown-up, who will check the response. Do not use letter names in place of speech sounds.",
+    "completion_label": "I have completed the task with a grown-up."
+  },
+  {
+    "id": "ac9e1ly09-er5-p-016",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY09",
+    "bank": "practice",
+    "skill": "segmenting spoken phonemes including clusters",
+    "question": "Grown-up: keep the screen out of the child's view. Say 'frog'. Ask the child to segment the whole word, keeping the beginning sounds separate.",
+    "audio_prompt": "Grown-up: keep the screen out of the child's view. Say 'frog'. Ask the child to segment the whole word, keeping the beginning sounds separate.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "stage": "apply",
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "sequence_priority": 16,
+    "explanation": {
+      "summary": "Four phonemes: /f/ /r/ /o/ /g/. Both /f/ and /r/ belong before the vowel; check that neither is omitted.",
+      "hint": "Complete the task before comparing your response with the guidance."
+    },
+    "review": {
+      "version": "20260906-english-review-5",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/does-the-word-start-with-a-consonant-blend",
+      "evidence_scope": "Representative related IXL task inspected where mapped; official curriculum sets the performance requirement. See docs/question-bank-reviews/2026-09-06-year1-english-ly06-ly10.md. No measured equivalence or endorsement."
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "Four phonemes: /f/ /r/ /o/ /g/. Both /f/ and /r/ belong before the vowel; check that neither is omitted.",
+    "acceptance_note": "Four phonemes: /f/ /r/ /o/ /g/. Both /f/ and /r/ belong before the vowel; check that neither is omitted.",
+    "response_instructions": "Complete the spoken task with a grown-up, who will check the response. Do not use letter names in place of speech sounds.",
+    "completion_label": "I have completed the task with a grown-up."
+  },
+  {
+    "id": "ac9e1ly09-er5-p-017",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY09",
+    "bank": "practice",
+    "skill": "segmenting spoken phonemes including clusters",
+    "question": "Grown-up: keep the screen out of the child's view. Say 'pin' and then 'spin'. Ask the child to segment both and tell which has an extra sound.",
+    "audio_prompt": "Grown-up: keep the screen out of the child's view. Say 'pin' and then 'spin'. Ask the child to segment both and tell which has an extra sound.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "stage": "reason",
+    "difficulty": 3,
+    "difficulty_tier": "reason",
+    "sequence_priority": 17,
+    "explanation": {
+      "summary": "Pin: /p/ /i/ /n/ (3). Spin: /s/ /p/ /i/ /n/ (4). Spin has the additional initial /s/ sound.",
+      "hint": "Complete the task before comparing your response with the guidance."
+    },
+    "review": {
+      "version": "20260906-english-review-5",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/does-the-word-start-with-a-consonant-blend",
+      "evidence_scope": "Representative related IXL task inspected where mapped; official curriculum sets the performance requirement. See docs/question-bank-reviews/2026-09-06-year1-english-ly06-ly10.md. No measured equivalence or endorsement."
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "Pin: /p/ /i/ /n/ (3). Spin: /s/ /p/ /i/ /n/ (4). Spin has the additional initial /s/ sound.",
+    "acceptance_note": "Pin: /p/ /i/ /n/ (3). Spin: /s/ /p/ /i/ /n/ (4). Spin has the additional initial /s/ sound.",
+    "response_instructions": "Complete the spoken task with a grown-up, who will check the response. Do not use letter names in place of speech sounds.",
+    "completion_label": "I have completed the task with a grown-up."
+  },
+  {
+    "id": "ac9e1ly09-er5-p-018",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY09",
+    "bank": "practice",
+    "skill": "segmenting spoken phonemes including clusters",
+    "question": "Grown-up: keep the screen out of the child's view. Say 'lip' and then 'slip'. Ask for every sound in both words, using separate rows of counters.",
+    "audio_prompt": "Grown-up: keep the screen out of the child's view. Say 'lip' and then 'slip'. Ask for every sound in both words, using separate rows of counters.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "stage": "reason",
+    "difficulty": 3,
+    "difficulty_tier": "reason",
+    "sequence_priority": 18,
+    "explanation": {
+      "summary": "Lip: /l/ /i/ /p/ (3). Slip: /s/ /l/ /i/ /p/ (4). Check the full segmentation rather than just a correct total.",
+      "hint": "Complete the task before comparing your response with the guidance."
+    },
+    "review": {
+      "version": "20260906-english-review-5",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/does-the-word-start-with-a-consonant-blend",
+      "evidence_scope": "Representative related IXL task inspected where mapped; official curriculum sets the performance requirement. See docs/question-bank-reviews/2026-09-06-year1-english-ly06-ly10.md. No measured equivalence or endorsement."
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "Lip: /l/ /i/ /p/ (3). Slip: /s/ /l/ /i/ /p/ (4). Check the full segmentation rather than just a correct total.",
+    "acceptance_note": "Lip: /l/ /i/ /p/ (3). Slip: /s/ /l/ /i/ /p/ (4). Check the full segmentation rather than just a correct total.",
+    "response_instructions": "Complete the spoken task with a grown-up, who will check the response. Do not use letter names in place of speech sounds.",
+    "completion_label": "I have completed the task with a grown-up."
+  },
+  {
+    "id": "ac9e1ly09-er5-p-019",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY09",
+    "bank": "practice",
+    "skill": "segmenting spoken phonemes including clusters",
+    "question": "Grown-up: keep the screen out of the child's view. Say 'stamp'. Ask the child to segment the word, paying attention to both ends.",
+    "audio_prompt": "Grown-up: keep the screen out of the child's view. Say 'stamp'. Ask the child to segment the word, paying attention to both ends.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "stage": "reason",
+    "difficulty": 3,
+    "difficulty_tier": "reason",
+    "sequence_priority": 19,
+    "explanation": {
+      "summary": "Five phonemes: /s/ /t/ /a/ /m/ /p/. There are two beginning consonants and two ending consonants around the vowel.",
+      "hint": "Complete the task before comparing your response with the guidance."
+    },
+    "review": {
+      "version": "20260906-english-review-5",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/does-the-word-start-with-a-consonant-blend",
+      "evidence_scope": "Representative related IXL task inspected where mapped; official curriculum sets the performance requirement. See docs/question-bank-reviews/2026-09-06-year1-english-ly06-ly10.md. No measured equivalence or endorsement."
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "Five phonemes: /s/ /t/ /a/ /m/ /p/. There are two beginning consonants and two ending consonants around the vowel.",
+    "acceptance_note": "Five phonemes: /s/ /t/ /a/ /m/ /p/. There are two beginning consonants and two ending consonants around the vowel.",
+    "response_instructions": "Complete the spoken task with a grown-up, who will check the response. Do not use letter names in place of speech sounds.",
+    "completion_label": "I have completed the task with a grown-up."
+  },
+  {
+    "id": "ac9e1ly09-er5-p-020",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY09",
+    "bank": "practice",
+    "skill": "segmenting spoken phonemes including clusters",
+    "question": "Grown-up: keep the screen out of the child's view. Say 'split'. Ask the child to separate every beginning sound, then finish the word's sounds.",
+    "audio_prompt": "Grown-up: keep the screen out of the child's view. Say 'split'. Ask the child to separate every beginning sound, then finish the word's sounds.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "stage": "reason",
+    "difficulty": 3,
+    "difficulty_tier": "reason",
+    "sequence_priority": 20,
+    "explanation": {
+      "summary": "Five phonemes: /s/ /p/ /l/ /i/ /t/. All three initial cluster sounds should be represented separately.",
+      "hint": "Complete the task before comparing your response with the guidance."
+    },
+    "review": {
+      "version": "20260906-english-review-5",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/does-the-word-start-with-a-consonant-blend",
+      "evidence_scope": "Representative related IXL task inspected where mapped; official curriculum sets the performance requirement. See docs/question-bank-reviews/2026-09-06-year1-english-ly06-ly10.md. No measured equivalence or endorsement."
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "Five phonemes: /s/ /p/ /l/ /i/ /t/. All three initial cluster sounds should be represented separately.",
+    "acceptance_note": "Five phonemes: /s/ /p/ /l/ /i/ /t/. All three initial cluster sounds should be represented separately.",
+    "response_instructions": "Complete the spoken task with a grown-up, who will check the response. Do not use letter names in place of speech sounds.",
+    "completion_label": "I have completed the task with a grown-up."
+  },
+  {
+    "id": "ac9e1ly09-er5-p-021",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY09",
+    "bank": "practice",
+    "skill": "segmenting spoken phonemes including clusters",
+    "question": "Grown-up: keep the screen out of the child's view. Say 'spring'. Ask the child to segment it and count the sounds.",
+    "audio_prompt": "Grown-up: keep the screen out of the child's view. Say 'spring'. Ask the child to segment it and count the sounds.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "stage": "reason",
+    "difficulty": 3,
+    "difficulty_tier": "reason",
+    "sequence_priority": 21,
+    "explanation": {
+      "summary": "Five phonemes: /s/ /p/ /r/ /i/ /ng/. The three beginning consonants are separate sounds; the final ng is one sound.",
+      "hint": "Complete the task before comparing your response with the guidance."
+    },
+    "review": {
+      "version": "20260906-english-review-5",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/does-the-word-start-with-a-consonant-blend",
+      "evidence_scope": "Representative related IXL task inspected where mapped; official curriculum sets the performance requirement. See docs/question-bank-reviews/2026-09-06-year1-english-ly06-ly10.md. No measured equivalence or endorsement."
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "Five phonemes: /s/ /p/ /r/ /i/ /ng/. The three beginning consonants are separate sounds; the final ng is one sound.",
+    "acceptance_note": "Five phonemes: /s/ /p/ /r/ /i/ /ng/. The three beginning consonants are separate sounds; the final ng is one sound.",
+    "response_instructions": "Complete the spoken task with a grown-up, who will check the response. Do not use letter names in place of speech sounds.",
+    "completion_label": "I have completed the task with a grown-up."
+  },
+  {
+    "id": "ac9e1ly09-er5-p-022",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY09",
+    "bank": "practice",
+    "skill": "segmenting spoken phonemes including clusters",
+    "question": "Grown-up: keep the screen out of the child's view. Say 'best'. A puppet counts only /b/ /e/ /s/. Ask the child to segment the whole word and show the missing sound.",
+    "audio_prompt": "Grown-up: keep the screen out of the child's view. Say 'best'. A puppet counts only /b/ /e/ /s/. Ask the child to segment the whole word and show the missing sound.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "stage": "reason",
+    "difficulty": 3,
+    "difficulty_tier": "reason",
+    "sequence_priority": 22,
+    "explanation": {
+      "summary": "Four phonemes: /b/ /e/ /s/ /t/. The puppet omitted the final /t/; the child should say the complete sequence.",
+      "hint": "Complete the task before comparing your response with the guidance."
+    },
+    "review": {
+      "version": "20260906-english-review-5",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/does-the-word-start-with-a-consonant-blend",
+      "evidence_scope": "Representative related IXL task inspected where mapped; official curriculum sets the performance requirement. See docs/question-bank-reviews/2026-09-06-year1-english-ly06-ly10.md. No measured equivalence or endorsement."
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "Four phonemes: /b/ /e/ /s/ /t/. The puppet omitted the final /t/; the child should say the complete sequence.",
+    "acceptance_note": "Four phonemes: /b/ /e/ /s/ /t/. The puppet omitted the final /t/; the child should say the complete sequence.",
+    "response_instructions": "Complete the spoken task with a grown-up, who will check the response. Do not use letter names in place of speech sounds.",
+    "completion_label": "I have completed the task with a grown-up."
+  },
+  {
+    "id": "ac9e1ly09-er5-p-023",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY09",
+    "bank": "practice",
+    "skill": "segmenting spoken phonemes including clusters",
+    "question": "Grown-up: keep the screen out of the child's view. Say 'shop' and 'spot'. Ask the child to segment both and explain why they need different numbers of counters.",
+    "audio_prompt": "Grown-up: keep the screen out of the child's view. Say 'shop' and 'spot'. Ask the child to segment both and explain why they need different numbers of counters.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "stage": "reason",
+    "difficulty": 3,
+    "difficulty_tier": "reason",
+    "sequence_priority": 23,
+    "explanation": {
+      "summary": "Shop: /sh/ /o/ /p/ (3). Spot: /s/ /p/ /o/ /t/ (4). Sh is one speech sound while the starting cluster in spot contains two.",
+      "hint": "Complete the task before comparing your response with the guidance."
+    },
+    "review": {
+      "version": "20260906-english-review-5",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/does-the-word-start-with-a-consonant-blend",
+      "evidence_scope": "Representative related IXL task inspected where mapped; official curriculum sets the performance requirement. See docs/question-bank-reviews/2026-09-06-year1-english-ly06-ly10.md. No measured equivalence or endorsement."
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "Shop: /sh/ /o/ /p/ (3). Spot: /s/ /p/ /o/ /t/ (4). Sh is one speech sound while the starting cluster in spot contains two.",
+    "acceptance_note": "Shop: /sh/ /o/ /p/ (3). Spot: /s/ /p/ /o/ /t/ (4). Sh is one speech sound while the starting cluster in spot contains two.",
+    "response_instructions": "Complete the spoken task with a grown-up, who will check the response. Do not use letter names in place of speech sounds.",
+    "completion_label": "I have completed the task with a grown-up."
+  },
+  {
+    "id": "ac9e1ly09-er5-p-024",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY09",
+    "bank": "practice",
+    "skill": "segmenting spoken phonemes including clusters",
+    "question": "Grown-up: keep the screen out of the child's view. Say 'crisp'. Ask for all the sounds, then ask the child to repeat the ending sounds on their own.",
+    "audio_prompt": "Grown-up: keep the screen out of the child's view. Say 'crisp'. Ask for all the sounds, then ask the child to repeat the ending sounds on their own.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "stage": "reason",
+    "difficulty": 3,
+    "difficulty_tier": "reason",
+    "sequence_priority": 24,
+    "explanation": {
+      "summary": "Five phonemes: /k/ /r/ /i/ /s/ /p/. The ending sequence is /s/ /p/; check it is not counted as a single sound.",
+      "hint": "Complete the task before comparing your response with the guidance."
+    },
+    "review": {
+      "version": "20260906-english-review-5",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/does-the-word-start-with-a-consonant-blend",
+      "evidence_scope": "Representative related IXL task inspected where mapped; official curriculum sets the performance requirement. See docs/question-bank-reviews/2026-09-06-year1-english-ly06-ly10.md. No measured equivalence or endorsement."
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "Five phonemes: /k/ /r/ /i/ /s/ /p/. The ending sequence is /s/ /p/; check it is not counted as a single sound.",
+    "acceptance_note": "Five phonemes: /k/ /r/ /i/ /s/ /p/. The ending sequence is /s/ /p/; check it is not counted as a single sound.",
+    "response_instructions": "Complete the spoken task with a grown-up, who will check the response. Do not use letter names in place of speech sounds.",
+    "completion_label": "I have completed the task with a grown-up."
+  },
+  {
+    "id": "ac9e1ly09-er5-t-001",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY09",
+    "bank": "test",
+    "skill": "segmenting spoken phonemes including clusters",
+    "question": "Grown-up: keep the screen out of the child's view. Say 'jam'. Ask the child to say every sound separately.",
+    "audio_prompt": "Grown-up: keep the screen out of the child's view. Say 'jam'. Ask the child to say every sound separately.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "stage": "independent",
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 1,
+    "explanation": {
+      "summary": "Three phonemes: /j/ /a/ /m/. The initial sound in jam is treated as one phoneme in the taught segmentation.",
+      "hint": "Complete the task before comparing your response with the guidance."
+    },
+    "review": {
+      "version": "20260906-english-review-5",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/does-the-word-start-with-a-consonant-blend",
+      "evidence_scope": "Representative related IXL task inspected where mapped; official curriculum sets the performance requirement. See docs/question-bank-reviews/2026-09-06-year1-english-ly06-ly10.md. No measured equivalence or endorsement."
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "Three phonemes: /j/ /a/ /m/. The initial sound in jam is treated as one phoneme in the taught segmentation.",
+    "acceptance_note": "Three phonemes: /j/ /a/ /m/. The initial sound in jam is treated as one phoneme in the taught segmentation.",
+    "response_instructions": "Complete the spoken task with a grown-up, who will check the response. Do not use letter names in place of speech sounds.",
+    "completion_label": "I have completed the task with a grown-up."
+  },
+  {
+    "id": "ac9e1ly09-er5-t-002",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY09",
+    "bank": "test",
+    "skill": "segmenting spoken phonemes including clusters",
+    "question": "Grown-up: keep the screen out of the child's view. Say 'web'. Ask for the separate sounds in order, using one counter each.",
+    "audio_prompt": "Grown-up: keep the screen out of the child's view. Say 'web'. Ask for the separate sounds in order, using one counter each.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "stage": "independent",
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 2,
+    "explanation": {
+      "summary": "Three phonemes: /w/ /e/ /b/. All sounds should be included in order without substituting letter names.",
+      "hint": "Complete the task before comparing your response with the guidance."
+    },
+    "review": {
+      "version": "20260906-english-review-5",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/does-the-word-start-with-a-consonant-blend",
+      "evidence_scope": "Representative related IXL task inspected where mapped; official curriculum sets the performance requirement. See docs/question-bank-reviews/2026-09-06-year1-english-ly06-ly10.md. No measured equivalence or endorsement."
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "Three phonemes: /w/ /e/ /b/. All sounds should be included in order without substituting letter names.",
+    "acceptance_note": "Three phonemes: /w/ /e/ /b/. All sounds should be included in order without substituting letter names.",
+    "response_instructions": "Complete the spoken task with a grown-up, who will check the response. Do not use letter names in place of speech sounds.",
+    "completion_label": "I have completed the task with a grown-up."
+  },
+  {
+    "id": "ac9e1ly09-er5-t-003",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY09",
+    "bank": "test",
+    "skill": "segmenting spoken phonemes including clusters",
+    "question": "Grown-up: keep the screen out of the child's view. Say 'chin'. Ask the child to segment the word and count its sounds.",
+    "audio_prompt": "Grown-up: keep the screen out of the child's view. Say 'chin'. Ask the child to segment the word and count its sounds.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "stage": "independent",
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 3,
+    "explanation": {
+      "summary": "Three phonemes: /ch/ /i/ /n/. Ch is one speech sound in chin, despite being written with two letters.",
+      "hint": "Complete the task before comparing your response with the guidance."
+    },
+    "review": {
+      "version": "20260906-english-review-5",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/does-the-word-start-with-a-consonant-blend",
+      "evidence_scope": "Representative related IXL task inspected where mapped; official curriculum sets the performance requirement. See docs/question-bank-reviews/2026-09-06-year1-english-ly06-ly10.md. No measured equivalence or endorsement."
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "Three phonemes: /ch/ /i/ /n/. Ch is one speech sound in chin, despite being written with two letters.",
+    "acceptance_note": "Three phonemes: /ch/ /i/ /n/. Ch is one speech sound in chin, despite being written with two letters.",
+    "response_instructions": "Complete the spoken task with a grown-up, who will check the response. Do not use letter names in place of speech sounds.",
+    "completion_label": "I have completed the task with a grown-up."
+  },
+  {
+    "id": "ac9e1ly09-er5-t-004",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY09",
+    "bank": "test",
+    "skill": "segmenting spoken phonemes including clusters",
+    "question": "Grown-up: keep the screen out of the child's view. Say 'thin'. Ask the child to say the separate sounds.",
+    "audio_prompt": "Grown-up: keep the screen out of the child's view. Say 'thin'. Ask the child to say the separate sounds.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "stage": "independent",
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 4,
+    "explanation": {
+      "summary": "Three phonemes: /th/ /i/ /n/. Use the unvoiced th heard in thin as one sound, not a t sound followed by h.",
+      "hint": "Complete the task before comparing your response with the guidance."
+    },
+    "review": {
+      "version": "20260906-english-review-5",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/does-the-word-start-with-a-consonant-blend",
+      "evidence_scope": "Representative related IXL task inspected where mapped; official curriculum sets the performance requirement. See docs/question-bank-reviews/2026-09-06-year1-english-ly06-ly10.md. No measured equivalence or endorsement."
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "Three phonemes: /th/ /i/ /n/. Use the unvoiced th heard in thin as one sound, not a t sound followed by h.",
+    "acceptance_note": "Three phonemes: /th/ /i/ /n/. Use the unvoiced th heard in thin as one sound, not a t sound followed by h.",
+    "response_instructions": "Complete the spoken task with a grown-up, who will check the response. Do not use letter names in place of speech sounds.",
+    "completion_label": "I have completed the task with a grown-up."
+  },
+  {
+    "id": "ac9e1ly09-er5-t-005",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY09",
+    "bank": "test",
+    "skill": "segmenting spoken phonemes including clusters",
+    "question": "Grown-up: keep the screen out of the child's view. Say 'step'. Ask the child to segment the whole word, keeping the initial sounds separate.",
+    "audio_prompt": "Grown-up: keep the screen out of the child's view. Say 'step'. Ask the child to segment the whole word, keeping the initial sounds separate.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "stage": "independent",
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 5,
+    "explanation": {
+      "summary": "Four phonemes: /s/ /t/ /e/ /p/. Both initial consonants need their own sound and counter.",
+      "hint": "Complete the task before comparing your response with the guidance."
+    },
+    "review": {
+      "version": "20260906-english-review-5",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/does-the-word-start-with-a-consonant-blend",
+      "evidence_scope": "Representative related IXL task inspected where mapped; official curriculum sets the performance requirement. See docs/question-bank-reviews/2026-09-06-year1-english-ly06-ly10.md. No measured equivalence or endorsement."
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "Four phonemes: /s/ /t/ /e/ /p/. Both initial consonants need their own sound and counter.",
+    "acceptance_note": "Four phonemes: /s/ /t/ /e/ /p/. Both initial consonants need their own sound and counter.",
+    "response_instructions": "Complete the spoken task with a grown-up, who will check the response. Do not use letter names in place of speech sounds.",
+    "completion_label": "I have completed the task with a grown-up."
+  },
+  {
+    "id": "ac9e1ly09-er5-t-006",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY09",
+    "bank": "test",
+    "skill": "segmenting spoken phonemes including clusters",
+    "question": "Grown-up: keep the screen out of the child's view. Say 'plug'. Ask for all the sounds in order.",
+    "audio_prompt": "Grown-up: keep the screen out of the child's view. Say 'plug'. Ask for all the sounds in order.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "stage": "independent",
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 6,
+    "explanation": {
+      "summary": "Four phonemes: /p/ /l/ /u/ /g/. Check that the beginning /l/ remains present when the word is segmented.",
+      "hint": "Complete the task before comparing your response with the guidance."
+    },
+    "review": {
+      "version": "20260906-english-review-5",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/does-the-word-start-with-a-consonant-blend",
+      "evidence_scope": "Representative related IXL task inspected where mapped; official curriculum sets the performance requirement. See docs/question-bank-reviews/2026-09-06-year1-english-ly06-ly10.md. No measured equivalence or endorsement."
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "Four phonemes: /p/ /l/ /u/ /g/. Check that the beginning /l/ remains present when the word is segmented.",
+    "acceptance_note": "Four phonemes: /p/ /l/ /u/ /g/. Check that the beginning /l/ remains present when the word is segmented.",
+    "response_instructions": "Complete the spoken task with a grown-up, who will check the response. Do not use letter names in place of speech sounds.",
+    "completion_label": "I have completed the task with a grown-up."
+  },
+  {
+    "id": "ac9e1ly09-er5-t-007",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY09",
+    "bank": "test",
+    "skill": "segmenting spoken phonemes including clusters",
+    "question": "Grown-up: keep the screen out of the child's view. Say 'belt'. Ask the child to separate the sounds, including the ending.",
+    "audio_prompt": "Grown-up: keep the screen out of the child's view. Say 'belt'. Ask the child to separate the sounds, including the ending.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "stage": "independent",
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 7,
+    "explanation": {
+      "summary": "Four phonemes: /b/ /e/ /l/ /t/. Both /l/ and /t/ should be heard at the end.",
+      "hint": "Complete the task before comparing your response with the guidance."
+    },
+    "review": {
+      "version": "20260906-english-review-5",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/does-the-word-start-with-a-consonant-blend",
+      "evidence_scope": "Representative related IXL task inspected where mapped; official curriculum sets the performance requirement. See docs/question-bank-reviews/2026-09-06-year1-english-ly06-ly10.md. No measured equivalence or endorsement."
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "Four phonemes: /b/ /e/ /l/ /t/. Both /l/ and /t/ should be heard at the end.",
+    "acceptance_note": "Four phonemes: /b/ /e/ /l/ /t/. Both /l/ and /t/ should be heard at the end.",
+    "response_instructions": "Complete the spoken task with a grown-up, who will check the response. Do not use letter names in place of speech sounds.",
+    "completion_label": "I have completed the task with a grown-up."
+  },
+  {
+    "id": "ac9e1ly09-er5-t-008",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY09",
+    "bank": "test",
+    "skill": "segmenting spoken phonemes including clusters",
+    "question": "Grown-up: keep the screen out of the child's view. Say 'lamp'. Ask the child to move a counter for each spoken sound.",
+    "audio_prompt": "Grown-up: keep the screen out of the child's view. Say 'lamp'. Ask the child to move a counter for each spoken sound.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "stage": "independent",
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 8,
+    "explanation": {
+      "summary": "Four phonemes: /l/ /a/ /m/ /p/. The final /p/ counts separately from /m/.",
+      "hint": "Complete the task before comparing your response with the guidance."
+    },
+    "review": {
+      "version": "20260906-english-review-5",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/does-the-word-start-with-a-consonant-blend",
+      "evidence_scope": "Representative related IXL task inspected where mapped; official curriculum sets the performance requirement. See docs/question-bank-reviews/2026-09-06-year1-english-ly06-ly10.md. No measured equivalence or endorsement."
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "Four phonemes: /l/ /a/ /m/ /p/. The final /p/ counts separately from /m/.",
+    "acceptance_note": "Four phonemes: /l/ /a/ /m/ /p/. The final /p/ counts separately from /m/.",
+    "response_instructions": "Complete the spoken task with a grown-up, who will check the response. Do not use letter names in place of speech sounds.",
+    "completion_label": "I have completed the task with a grown-up."
+  },
+  {
+    "id": "ac9e1ly09-er5-t-009",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY09",
+    "bank": "test",
+    "skill": "segmenting spoken phonemes including clusters",
+    "question": "Grown-up: keep the screen out of the child's view. Say 'clap'. Ask the child to say every sound slowly.",
+    "audio_prompt": "Grown-up: keep the screen out of the child's view. Say 'clap'. Ask the child to say every sound slowly.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "stage": "independent",
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 9,
+    "explanation": {
+      "summary": "Four phonemes: /k/ /l/ /a/ /p/. The beginning cluster has two sounds rather than one combined count.",
+      "hint": "Complete the task before comparing your response with the guidance."
+    },
+    "review": {
+      "version": "20260906-english-review-5",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/does-the-word-start-with-a-consonant-blend",
+      "evidence_scope": "Representative related IXL task inspected where mapped; official curriculum sets the performance requirement. See docs/question-bank-reviews/2026-09-06-year1-english-ly06-ly10.md. No measured equivalence or endorsement."
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "Four phonemes: /k/ /l/ /a/ /p/. The beginning cluster has two sounds rather than one combined count.",
+    "acceptance_note": "Four phonemes: /k/ /l/ /a/ /p/. The beginning cluster has two sounds rather than one combined count.",
+    "response_instructions": "Complete the spoken task with a grown-up, who will check the response. Do not use letter names in place of speech sounds.",
+    "completion_label": "I have completed the task with a grown-up."
+  },
+  {
+    "id": "ac9e1ly09-er5-t-010",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY09",
+    "bank": "test",
+    "skill": "segmenting spoken phonemes including clusters",
+    "question": "Grown-up: keep the screen out of the child's view. Say 'desk'. Ask the child to segment the word and repeat just the last two sounds.",
+    "audio_prompt": "Grown-up: keep the screen out of the child's view. Say 'desk'. Ask the child to segment the word and repeat just the last two sounds.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "stage": "independent",
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 10,
+    "explanation": {
+      "summary": "Four phonemes: /d/ /e/ /s/ /k/. The last two sounds are /s/ /k/ in that order.",
+      "hint": "Complete the task before comparing your response with the guidance."
+    },
+    "review": {
+      "version": "20260906-english-review-5",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/does-the-word-start-with-a-consonant-blend",
+      "evidence_scope": "Representative related IXL task inspected where mapped; official curriculum sets the performance requirement. See docs/question-bank-reviews/2026-09-06-year1-english-ly06-ly10.md. No measured equivalence or endorsement."
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "Four phonemes: /d/ /e/ /s/ /k/. The last two sounds are /s/ /k/ in that order.",
+    "acceptance_note": "Four phonemes: /d/ /e/ /s/ /k/. The last two sounds are /s/ /k/ in that order.",
+    "response_instructions": "Complete the spoken task with a grown-up, who will check the response. Do not use letter names in place of speech sounds.",
+    "completion_label": "I have completed the task with a grown-up."
+  },
+  {
+    "id": "ac9e1ly09-er5-t-011",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY09",
+    "bank": "test",
+    "skill": "segmenting spoken phonemes including clusters",
+    "question": "Grown-up: keep the screen out of the child's view. Say 'top' and then 'stomp'. Ask the child to segment both words with counters.",
+    "audio_prompt": "Grown-up: keep the screen out of the child's view. Say 'top' and then 'stomp'. Ask the child to segment both words with counters.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "stage": "independent",
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 11,
+    "explanation": {
+      "summary": "Top: /t/ /o/ /p/ (3). Stomp: /s/ /t/ /o/ /m/ /p/ (5). Check both full sequences, including /s/ and /m/ in stomp.",
+      "hint": "Complete the task before comparing your response with the guidance."
+    },
+    "review": {
+      "version": "20260906-english-review-5",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/does-the-word-start-with-a-consonant-blend",
+      "evidence_scope": "Representative related IXL task inspected where mapped; official curriculum sets the performance requirement. See docs/question-bank-reviews/2026-09-06-year1-english-ly06-ly10.md. No measured equivalence or endorsement."
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "Top: /t/ /o/ /p/ (3). Stomp: /s/ /t/ /o/ /m/ /p/ (5). Check both full sequences, including /s/ and /m/ in stomp.",
+    "acceptance_note": "Top: /t/ /o/ /p/ (3). Stomp: /s/ /t/ /o/ /m/ /p/ (5). Check both full sequences, including /s/ and /m/ in stomp.",
+    "response_instructions": "Complete the spoken task with a grown-up, who will check the response. Do not use letter names in place of speech sounds.",
+    "completion_label": "I have completed the task with a grown-up."
+  },
+  {
+    "id": "ac9e1ly09-er5-t-012",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY09",
+    "bank": "test",
+    "skill": "segmenting spoken phonemes including clusters",
+    "question": "Grown-up: keep the screen out of the child's view. Say 'glad'. A puppet says only /g/ /a/ /d/. Ask the child to say all the sounds and identify what was missed.",
+    "audio_prompt": "Grown-up: keep the screen out of the child's view. Say 'glad'. A puppet says only /g/ /a/ /d/. Ask the child to say all the sounds and identify what was missed.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "stage": "independent",
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 12,
+    "explanation": {
+      "summary": "Four phonemes: /g/ /l/ /a/ /d/. The missing sound is /l/ after the initial /g/.",
+      "hint": "Complete the task before comparing your response with the guidance."
+    },
+    "review": {
+      "version": "20260906-english-review-5",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/does-the-word-start-with-a-consonant-blend",
+      "evidence_scope": "Representative related IXL task inspected where mapped; official curriculum sets the performance requirement. See docs/question-bank-reviews/2026-09-06-year1-english-ly06-ly10.md. No measured equivalence or endorsement."
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "Four phonemes: /g/ /l/ /a/ /d/. The missing sound is /l/ after the initial /g/.",
+    "acceptance_note": "Four phonemes: /g/ /l/ /a/ /d/. The missing sound is /l/ after the initial /g/.",
+    "response_instructions": "Complete the spoken task with a grown-up, who will check the response. Do not use letter names in place of speech sounds.",
+    "completion_label": "I have completed the task with a grown-up."
+  },
+  {
+    "id": "ac9e1ly09-er5-t-013",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY09",
+    "bank": "test",
+    "skill": "segmenting spoken phonemes including clusters",
+    "question": "Grown-up: keep the screen out of the child's view. Say 'string'. Ask the child to say all the sounds and count them.",
+    "audio_prompt": "Grown-up: keep the screen out of the child's view. Say 'string'. Ask the child to say all the sounds and count them.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "stage": "independent",
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 13,
+    "explanation": {
+      "summary": "Five phonemes: /s/ /t/ /r/ /i/ /ng/. Separate the three initial sounds while keeping the final ng as one phoneme.",
+      "hint": "Complete the task before comparing your response with the guidance."
+    },
+    "review": {
+      "version": "20260906-english-review-5",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/does-the-word-start-with-a-consonant-blend",
+      "evidence_scope": "Representative related IXL task inspected where mapped; official curriculum sets the performance requirement. See docs/question-bank-reviews/2026-09-06-year1-english-ly06-ly10.md. No measured equivalence or endorsement."
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "Five phonemes: /s/ /t/ /r/ /i/ /ng/. Separate the three initial sounds while keeping the final ng as one phoneme.",
+    "acceptance_note": "Five phonemes: /s/ /t/ /r/ /i/ /ng/. Separate the three initial sounds while keeping the final ng as one phoneme.",
+    "response_instructions": "Complete the spoken task with a grown-up, who will check the response. Do not use letter names in place of speech sounds.",
+    "completion_label": "I have completed the task with a grown-up."
+  },
+  {
+    "id": "ac9e1ly09-er5-t-014",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY09",
+    "bank": "test",
+    "skill": "segmenting spoken phonemes including clusters",
+    "question": "Grown-up: keep the screen out of the child's view. Say 'spent'. Ask the child to segment it, checking the sounds at both ends.",
+    "audio_prompt": "Grown-up: keep the screen out of the child's view. Say 'spent'. Ask the child to segment it, checking the sounds at both ends.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "stage": "independent",
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 14,
+    "explanation": {
+      "summary": "Five phonemes: /s/ /p/ /e/ /n/ /t/. Check both initial and final cluster sounds are represented.",
+      "hint": "Complete the task before comparing your response with the guidance."
+    },
+    "review": {
+      "version": "20260906-english-review-5",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/does-the-word-start-with-a-consonant-blend",
+      "evidence_scope": "Representative related IXL task inspected where mapped; official curriculum sets the performance requirement. See docs/question-bank-reviews/2026-09-06-year1-english-ly06-ly10.md. No measured equivalence or endorsement."
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "Five phonemes: /s/ /p/ /e/ /n/ /t/. Check both initial and final cluster sounds are represented.",
+    "acceptance_note": "Five phonemes: /s/ /p/ /e/ /n/ /t/. Check both initial and final cluster sounds are represented.",
+    "response_instructions": "Complete the spoken task with a grown-up, who will check the response. Do not use letter names in place of speech sounds.",
+    "completion_label": "I have completed the task with a grown-up."
+  },
+  {
+    "id": "ac9e1ly09-er5-t-015",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY09",
+    "bank": "test",
+    "skill": "segmenting spoken phonemes including clusters",
+    "question": "Grown-up: keep the screen out of the child's view. Say 'wing' and 'wind'. Ask the child to segment each and compare the number of sounds.",
+    "audio_prompt": "Grown-up: keep the screen out of the child's view. Say 'wing' and 'wind'. Ask the child to segment each and compare the number of sounds.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "stage": "independent",
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 15,
+    "explanation": {
+      "summary": "Wing: /w/ /i/ /ng/ (3). Wind, as in blowing air: /w/ /i/ /n/ /d/ (4). Say wind with its short vowel to avoid the other pronunciation.",
+      "hint": "Complete the task before comparing your response with the guidance."
+    },
+    "review": {
+      "version": "20260906-english-review-5",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/does-the-word-start-with-a-consonant-blend",
+      "evidence_scope": "Representative related IXL task inspected where mapped; official curriculum sets the performance requirement. See docs/question-bank-reviews/2026-09-06-year1-english-ly06-ly10.md. No measured equivalence or endorsement."
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "Wing: /w/ /i/ /ng/ (3). Wind, as in blowing air: /w/ /i/ /n/ /d/ (4). Say wind with its short vowel to avoid the other pronunciation.",
+    "acceptance_note": "Wing: /w/ /i/ /ng/ (3). Wind, as in blowing air: /w/ /i/ /n/ /d/ (4). Say wind with its short vowel to avoid the other pronunciation.",
+    "response_instructions": "Complete the spoken task with a grown-up, who will check the response. Do not use letter names in place of speech sounds.",
+    "completion_label": "I have completed the task with a grown-up."
+  },
+  {
+    "id": "ac9e1ly09-er5-t-016",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY09",
+    "bank": "test",
+    "skill": "segmenting spoken phonemes including clusters",
+    "question": "Grown-up: keep the screen out of the child's view. Say 'smell'. Ask for every sound, then ask whether its ending needs one counter or two.",
+    "audio_prompt": "Grown-up: keep the screen out of the child's view. Say 'smell'. Ask for every sound, then ask whether its ending needs one counter or two.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "stage": "independent",
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 16,
+    "explanation": {
+      "summary": "Four phonemes: /s/ /m/ /e/ /l/. The final /l/ is one sound even though the written word has two l letters; do not show the spelling first.",
+      "hint": "Complete the task before comparing your response with the guidance."
+    },
+    "review": {
+      "version": "20260906-english-review-5",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/does-the-word-start-with-a-consonant-blend",
+      "evidence_scope": "Representative related IXL task inspected where mapped; official curriculum sets the performance requirement. See docs/question-bank-reviews/2026-09-06-year1-english-ly06-ly10.md. No measured equivalence or endorsement."
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "Four phonemes: /s/ /m/ /e/ /l/. The final /l/ is one sound even though the written word has two l letters; do not show the spelling first.",
+    "acceptance_note": "Four phonemes: /s/ /m/ /e/ /l/. The final /l/ is one sound even though the written word has two l letters; do not show the spelling first.",
+    "response_instructions": "Complete the spoken task with a grown-up, who will check the response. Do not use letter names in place of speech sounds.",
+    "completion_label": "I have completed the task with a grown-up."
+  }
+]

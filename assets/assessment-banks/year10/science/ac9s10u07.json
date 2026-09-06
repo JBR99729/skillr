@@ -1,0 +1,610 @@
+[
+  {
+    "id": "ac9s10u07-p-001",
+    "curriculum_code": "AC9S10U07",
+    "year_level": "Year 10",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "use_representing_synthesis_decomposition_and_displacement_reactions_using_a_variety_to_make_the_role_of_synthesis_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
+    "question": "A Year 10 student is investigating use representing synthesis decomposition and displacement reactions using a variety to make the role of synthesis visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
+    "audio_prompt": "A Year 10 student is investigating use representing synthesis decomposition and displacement reactions using a variety to make the role of synthesis visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "defining and representing synthesis, decomposition and displacement reactions using a variety of formats such as molecular models, diagrams, and word and balanced symbolic equations",
+        "is_correct": true
+      },
+      {
+        "text": "A catalyst increases the amount of product",
+        "is_correct": false
+      },
+      {
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "The same rule and result apply to every situation without testing",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "defining and representing synthesis, decomposition and displacement reactions using a variety of formats such as molecular models, diagrams, and word and balanced symbolic equations",
+      "hint": "Use representing synthesis, decomposition and displacement reactions using a variety to make the role of synthesis visible and connect the evidence to the unit’s central explanation."
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
+  },
+  {
+    "id": "ac9s10u07-p-002",
+    "curriculum_code": "AC9S10U07",
+    "year_level": "Year 10",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "use_reaction_type_and_predicting_the_products_to_make_the_role_of_decomposition_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
+    "question": "A Year 10 student is investigating use reaction type and predicting the products to make the role of decomposition visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
+    "audio_prompt": "A Year 10 student is investigating use reaction type and predicting the products to make the role of decomposition visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Hotter particles become larger",
+        "is_correct": false
+      },
+      {
+        "text": "identifying reaction type and predicting the products",
+        "is_correct": true
+      },
+      {
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "The same rule and result apply to every situation without testing",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "identifying reaction type and predicting the products",
+      "hint": "Use reaction type and predicting the products to make the role of decomposition visible and connect the evidence to the unit’s central explanation."
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
+  },
+  {
+    "id": "ac9s10u07-p-003",
+    "curriculum_code": "AC9S10U07",
+    "year_level": "Year 10",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "use_synthesis_reactions_to_make_the_role_of_displacement_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
+    "question": "A Year 10 student is investigating use synthesis reactions to make the role of displacement visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
+    "audio_prompt": "A Year 10 student is investigating use synthesis reactions to make the role of displacement visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A catalyst increases the amount of product",
+        "is_correct": false
+      },
+      {
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "investigating synthesis reactions such as reaction of metals with oxygen, formation of water and sodium chloride; decomposition reactions such as those used to extract metals; and displacement reactions such as metal and acid, neutralisation and precipitation",
+        "is_correct": true
+      },
+      {
+        "text": "The same rule and result apply to every situation without testing",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "investigating synthesis reactions such as reaction of metals with oxygen, formation of water and sodium chloride; decomposition reactions such as those used to extract metals; and displacement reactions such as metal and acid, neutralisation and precipitation",
+      "hint": "Use synthesis reactions to make the role of displacement visible and connect the evidence to the unit’s central explanation."
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
+  },
+  {
+    "id": "ac9s10u07-p-004",
+    "curriculum_code": "AC9S10U07",
+    "year_level": "Year 10",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "use_the_effect_of_a_range_of_factors_to_make_the_role_of_collision_model_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
+    "question": "A Year 10 student is investigating use the effect of a range of factors to make the role of collision model visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
+    "audio_prompt": "A Year 10 student is investigating use the effect of a range of factors to make the role of collision model visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Hotter particles become larger",
+        "is_correct": false
+      },
+      {
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "The same rule and result apply to every situation without testing",
+        "is_correct": false
+      },
+      {
+        "text": "investigating the effect of a range of factors, such as temperature, concentration, surface area and catalysts, on the rate of chemical reactions",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "investigating the effect of a range of factors, such as temperature, concentration, surface area and catalysts, on the rate of chemical reactions",
+      "hint": "Use the effect of a range of factors to make the role of collision model visible and connect the evidence to the unit’s central explanation."
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
+  },
+  {
+    "id": "ac9s10u07-p-005",
+    "curriculum_code": "AC9S10U07",
+    "year_level": "Year 10",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "use_chemical_reactions_employed_by_first_nations_australians_to_make_the_role_of_temperature_concentration_surface_area_and_catalyst_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
+    "question": "A Year 10 student is investigating use chemical reactions employed by first nations australians to make the role of temperature concentration surface area and catalyst visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
+    "audio_prompt": "A Year 10 student is investigating use chemical reactions employed by first nations australians to make the role of temperature concentration surface area and catalyst visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "investigating chemical reactions employed by First Nations Australians in the production of substances such as acids and ethanol",
+        "is_correct": true
+      },
+      {
+        "text": "A catalyst increases the amount of product",
+        "is_correct": false
+      },
+      {
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "The same rule and result apply to every situation without testing",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "investigating chemical reactions employed by First Nations Australians in the production of substances such as acids and ethanol",
+      "hint": "Use chemical reactions employed by First Nations Australians to make the role of temperature, concentration, surface area and catalyst visible and connect the evidence to the unit’s central explanation."
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
+  },
+  {
+    "id": "ac9s10u07-p-006",
+    "curriculum_code": "AC9S10U07",
+    "year_level": "Year 10",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "use_some_of_the_chemical_reactions_and_methods_employed_to_make_the_role_of_synthesis_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
+    "question": "A Year 10 student is investigating use some of the chemical reactions and methods employed to make the role of synthesis visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
+    "audio_prompt": "A Year 10 student is investigating use some of the chemical reactions and methods employed to make the role of synthesis visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Hotter particles become larger",
+        "is_correct": false
+      },
+      {
+        "text": "investigating some of the chemical reactions and methods employed by First Nations Australians to convert toxic plants into edible food products",
+        "is_correct": true
+      },
+      {
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "The same rule and result apply to every situation without testing",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "investigating some of the chemical reactions and methods employed by First Nations Australians to convert toxic plants into edible food products",
+      "hint": "Use some of the chemical reactions and methods employed to make the role of synthesis visible and connect the evidence to the unit’s central explanation."
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
+  },
+  {
+    "id": "ac9s10u07-p-007",
+    "curriculum_code": "AC9S10U07",
+    "year_level": "Year 10",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "use_reactions_that_are_used_to_produce_a_range_to_make_the_role_of_decomposition_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
+    "question": "A Year 10 student is investigating use reactions that are used to produce a range to make the role of decomposition visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
+    "audio_prompt": "A Year 10 student is investigating use reactions that are used to produce a range to make the role of decomposition visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A catalyst increases the amount of product",
+        "is_correct": false
+      },
+      {
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "examining reactions that are used to produce a range of useful products",
+        "is_correct": true
+      },
+      {
+        "text": "The same rule and result apply to every situation without testing",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "examining reactions that are used to produce a range of useful products",
+      "hint": "Use reactions that are used to produce a range to make the role of decomposition visible and connect the evidence to the unit’s central explanation."
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
+  },
+  {
+    "id": "ac9s10u07-p-008",
+    "curriculum_code": "AC9S10U07",
+    "year_level": "Year 10",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "use_representing_synthesis_decomposition_and_displacement_reactions_using_a_variety_to_make_the_role_of_synthesis_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
+    "question": "A Year 10 student is investigating use representing synthesis decomposition and displacement reactions using a variety to make the role of synthesis visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
+    "audio_prompt": "A Year 10 student is investigating use representing synthesis decomposition and displacement reactions using a variety to make the role of synthesis visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Hotter particles become larger",
+        "is_correct": false
+      },
+      {
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "The same rule and result apply to every situation without testing",
+        "is_correct": false
+      },
+      {
+        "text": "defining and representing synthesis, decomposition and displacement reactions using a variety of formats such as molecular models, diagrams, and word and balanced symbolic equations",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "defining and representing synthesis, decomposition and displacement reactions using a variety of formats such as molecular models, diagrams, and word and balanced symbolic equations",
+      "hint": "Use representing synthesis, decomposition and displacement reactions using a variety to make the role of synthesis visible and connect the evidence to the unit’s central explanation."
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
+  },
+  {
+    "id": "ac9s10u07-t-001",
+    "curriculum_code": "AC9S10U07",
+    "year_level": "Year 10",
+    "subject": "science",
+    "bank": "test",
+    "skill": "use_reaction_type_and_predicting_the_products_to_make_the_role_of_decomposition_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
+    "question": "A Year 10 student is investigating use reaction type and predicting the products to make the role of decomposition visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
+    "audio_prompt": "A Year 10 student is investigating use reaction type and predicting the products to make the role of decomposition visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "identifying reaction type and predicting the products",
+        "is_correct": true
+      },
+      {
+        "text": "A catalyst increases the amount of product",
+        "is_correct": false
+      },
+      {
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "The same rule and result apply to every situation without testing",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "identifying reaction type and predicting the products",
+      "hint": "Use reaction type and predicting the products to make the role of decomposition visible and connect the evidence to the unit’s central explanation."
+    }
+  },
+  {
+    "id": "ac9s10u07-t-002",
+    "curriculum_code": "AC9S10U07",
+    "year_level": "Year 10",
+    "subject": "science",
+    "bank": "test",
+    "skill": "use_synthesis_reactions_to_make_the_role_of_displacement_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
+    "question": "A Year 10 student is investigating use synthesis reactions to make the role of displacement visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
+    "audio_prompt": "A Year 10 student is investigating use synthesis reactions to make the role of displacement visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Hotter particles become larger",
+        "is_correct": false
+      },
+      {
+        "text": "investigating synthesis reactions such as reaction of metals with oxygen, formation of water and sodium chloride; decomposition reactions such as those used to extract metals; and displacement reactions such as metal and acid, neutralisation and precipitation",
+        "is_correct": true
+      },
+      {
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "The same rule and result apply to every situation without testing",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "investigating synthesis reactions such as reaction of metals with oxygen, formation of water and sodium chloride; decomposition reactions such as those used to extract metals; and displacement reactions such as metal and acid, neutralisation and precipitation",
+      "hint": "Use synthesis reactions to make the role of displacement visible and connect the evidence to the unit’s central explanation."
+    }
+  },
+  {
+    "id": "ac9s10u07-t-003",
+    "curriculum_code": "AC9S10U07",
+    "year_level": "Year 10",
+    "subject": "science",
+    "bank": "test",
+    "skill": "use_the_effect_of_a_range_of_factors_to_make_the_role_of_collision_model_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
+    "question": "A Year 10 student is investigating use the effect of a range of factors to make the role of collision model visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
+    "audio_prompt": "A Year 10 student is investigating use the effect of a range of factors to make the role of collision model visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A catalyst increases the amount of product",
+        "is_correct": false
+      },
+      {
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "investigating the effect of a range of factors, such as temperature, concentration, surface area and catalysts, on the rate of chemical reactions",
+        "is_correct": true
+      },
+      {
+        "text": "The same rule and result apply to every situation without testing",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "investigating the effect of a range of factors, such as temperature, concentration, surface area and catalysts, on the rate of chemical reactions",
+      "hint": "Use the effect of a range of factors to make the role of collision model visible and connect the evidence to the unit’s central explanation."
+    }
+  },
+  {
+    "id": "ac9s10u07-t-004",
+    "curriculum_code": "AC9S10U07",
+    "year_level": "Year 10",
+    "subject": "science",
+    "bank": "test",
+    "skill": "use_chemical_reactions_employed_by_first_nations_australians_to_make_the_role_of_temperature_concentration_surface_area_and_catalyst_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
+    "question": "A Year 10 student is investigating use chemical reactions employed by first nations australians to make the role of temperature concentration surface area and catalyst visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
+    "audio_prompt": "A Year 10 student is investigating use chemical reactions employed by first nations australians to make the role of temperature concentration surface area and catalyst visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Hotter particles become larger",
+        "is_correct": false
+      },
+      {
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "The same rule and result apply to every situation without testing",
+        "is_correct": false
+      },
+      {
+        "text": "investigating chemical reactions employed by First Nations Australians in the production of substances such as acids and ethanol",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "investigating chemical reactions employed by First Nations Australians in the production of substances such as acids and ethanol",
+      "hint": "Use chemical reactions employed by First Nations Australians to make the role of temperature, concentration, surface area and catalyst visible and connect the evidence to the unit’s central explanation."
+    }
+  },
+  {
+    "id": "ac9s10u07-t-005",
+    "curriculum_code": "AC9S10U07",
+    "year_level": "Year 10",
+    "subject": "science",
+    "bank": "test",
+    "skill": "use_some_of_the_chemical_reactions_and_methods_employed_to_make_the_role_of_synthesis_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
+    "question": "A Year 10 student is investigating use some of the chemical reactions and methods employed to make the role of synthesis visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
+    "audio_prompt": "A Year 10 student is investigating use some of the chemical reactions and methods employed to make the role of synthesis visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "investigating some of the chemical reactions and methods employed by First Nations Australians to convert toxic plants into edible food products",
+        "is_correct": true
+      },
+      {
+        "text": "A catalyst increases the amount of product",
+        "is_correct": false
+      },
+      {
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "The same rule and result apply to every situation without testing",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "investigating some of the chemical reactions and methods employed by First Nations Australians to convert toxic plants into edible food products",
+      "hint": "Use some of the chemical reactions and methods employed to make the role of synthesis visible and connect the evidence to the unit’s central explanation."
+    }
+  },
+  {
+    "id": "ac9s10u07-t-006",
+    "curriculum_code": "AC9S10U07",
+    "year_level": "Year 10",
+    "subject": "science",
+    "bank": "test",
+    "skill": "use_reactions_that_are_used_to_produce_a_range_to_make_the_role_of_decomposition_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
+    "question": "A Year 10 student is investigating use reactions that are used to produce a range to make the role of decomposition visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
+    "audio_prompt": "A Year 10 student is investigating use reactions that are used to produce a range to make the role of decomposition visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Hotter particles become larger",
+        "is_correct": false
+      },
+      {
+        "text": "examining reactions that are used to produce a range of useful products",
+        "is_correct": true
+      },
+      {
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "The same rule and result apply to every situation without testing",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "examining reactions that are used to produce a range of useful products",
+      "hint": "Use reactions that are used to produce a range to make the role of decomposition visible and connect the evidence to the unit’s central explanation."
+    }
+  },
+  {
+    "id": "ac9s10u07-t-007",
+    "curriculum_code": "AC9S10U07",
+    "year_level": "Year 10",
+    "subject": "science",
+    "bank": "test",
+    "skill": "use_representing_synthesis_decomposition_and_displacement_reactions_using_a_variety_to_make_the_role_of_synthesis_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
+    "question": "Which response correctly uses use representing synthesis, decomposition and displacement reactions using a variety to make the role of synthesis visible and connect the evidence to the unit’s central explanation?",
+    "audio_prompt": "Which response correctly uses use representing synthesis, decomposition and displacement reactions using a variety to make the role of synthesis visible and connect the evidence to the unit’s central explanation?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A catalyst increases the amount of product",
+        "is_correct": false
+      },
+      {
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "defining and representing synthesis, decomposition and displacement reactions using a variety of formats such as molecular models, diagrams, and word and balanced symbolic equations",
+        "is_correct": true
+      },
+      {
+        "text": "The same rule and result apply to every situation without testing",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "defining and representing synthesis, decomposition and displacement reactions using a variety of formats such as molecular models, diagrams, and word and balanced symbolic equations",
+      "hint": "Use representing synthesis, decomposition and displacement reactions using a variety to make the role of synthesis visible and connect the evidence to the unit’s central explanation."
+    }
+  },
+  {
+    "id": "ac9s10u07-t-008",
+    "curriculum_code": "AC9S10U07",
+    "year_level": "Year 10",
+    "subject": "science",
+    "bank": "test",
+    "skill": "use_reaction_type_and_predicting_the_products_to_make_the_role_of_decomposition_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
+    "question": "Which response correctly uses use reaction type and predicting the products to make the role of decomposition visible and connect the evidence to the unit’s central explanation?",
+    "audio_prompt": "Which response correctly uses use reaction type and predicting the products to make the role of decomposition visible and connect the evidence to the unit’s central explanation?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Hotter particles become larger",
+        "is_correct": false
+      },
+      {
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "The same rule and result apply to every situation without testing",
+        "is_correct": false
+      },
+      {
+        "text": "identifying reaction type and predicting the products",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "identifying reaction type and predicting the products",
+      "hint": "Use reaction type and predicting the products to make the role of decomposition visible and connect the evidence to the unit’s central explanation."
+    }
+  }
+]

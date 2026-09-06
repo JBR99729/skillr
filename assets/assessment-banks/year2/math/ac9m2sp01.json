@@ -1,0 +1,1684 @@
+[
+  {
+    "id": "AC9M2SP01-P-001",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2SP01",
+    "bank": "practice",
+    "skill": "count_sides",
+    "question": "How many straight sides does this shape have?",
+    "audio_prompt": "How many straight sides does this shape have?",
+    "visual": {
+      "type": "svg",
+      "alt_text": "An irregular closed polygon with five straight sides.",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2sp01.svg?v=20260906-year2-pending-release#ac9m2sp01-p-001"
+    },
+    "answers": [
+      {
+        "text": "4",
+        "is_correct": false
+      },
+      {
+        "text": "5",
+        "is_correct": true
+      },
+      {
+        "text": "6",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Trace its boundary once and count each of the five segments.",
+      "hint": "Use the information in the question and check each step."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 1,
+    "review": {
+      "status": "editorially-reviewed",
+      "version": "20260906-year2-pending-release",
+      "evidence_scope": "See 2026-09-06-year2-public-ixl-sweep.md. Original questions; worked examples and representative entry tasks reviewed, not exhaustive adaptive progression."
+    }
+  },
+  {
+    "id": "AC9M2SP01-P-002",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2SP01",
+    "bank": "practice",
+    "skill": "name",
+    "question": "Which name fits this shape?",
+    "audio_prompt": "Which name fits this shape?",
+    "visual": {
+      "type": "svg",
+      "alt_text": "An irregular six-sided polygon.",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2sp01.svg?v=20260906-year2-pending-release#ac9m2sp01-p-002"
+    },
+    "answers": [
+      {
+        "text": "Hexagon",
+        "is_correct": true
+      },
+      {
+        "text": "Pentagon",
+        "is_correct": false
+      },
+      {
+        "text": "Triangle",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A hexagon has six straight sides, including when its sides are unequal.",
+      "hint": "Use the information in the question and check each step."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 2,
+    "review": {
+      "status": "editorially-reviewed",
+      "version": "20260906-year2-pending-release",
+      "evidence_scope": "See 2026-09-06-year2-public-ixl-sweep.md. Original questions; worked examples and representative entry tasks reviewed, not exhaustive adaptive progression."
+    }
+  },
+  {
+    "id": "AC9M2SP01-P-003",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2SP01",
+    "bank": "practice",
+    "skill": "curved",
+    "question": "Which statement describes both shapes?",
+    "audio_prompt": "Which statement describes both shapes?",
+    "visual": {
+      "type": "svg",
+      "alt_text": "A is a circle; B is an oval. Both have entirely curved boundaries.",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2sp01.svg?v=20260906-year2-pending-release#ac9m2sp01-p-003"
+    },
+    "answers": [
+      {
+        "text": "They each have four straight sides",
+        "is_correct": false
+      },
+      {
+        "text": "They each have three corners",
+        "is_correct": false
+      },
+      {
+        "text": "They have no straight sides",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A circle and an oval both have entirely curved boundaries.",
+      "hint": "Use the information in the question and check each step."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 3,
+    "review": {
+      "status": "editorially-reviewed",
+      "version": "20260906-year2-pending-release",
+      "evidence_scope": "See 2026-09-06-year2-public-ixl-sweep.md. Original questions; worked examples and representative entry tasks reviewed, not exhaustive adaptive progression."
+    }
+  },
+  {
+    "id": "AC9M2SP01-P-004",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2SP01",
+    "bank": "practice",
+    "skill": "mixed_boundary",
+    "question": "How is this shape’s boundary made?",
+    "audio_prompt": "How is this shape’s boundary made?",
+    "visual": {
+      "type": "svg",
+      "alt_text": "Semicircle with a curved arc above one horizontal straight boundary.",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2sp01.svg?v=20260906-year2-pending-release#ac9m2sp01-p-004"
+    },
+    "answers": [
+      {
+        "text": "Only straight parts",
+        "is_correct": false
+      },
+      {
+        "text": "Two straight parts and no curve",
+        "is_correct": false
+      },
+      {
+        "text": "One curved part and one straight part",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The semicircle has an arc and a straight diameter.",
+      "hint": "Use the information in the question and check each step."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 4,
+    "review": {
+      "status": "editorially-reviewed",
+      "version": "20260906-year2-pending-release",
+      "evidence_scope": "See 2026-09-06-year2-public-ixl-sweep.md. Original questions; worked examples and representative entry tasks reviewed, not exhaustive adaptive progression."
+    }
+  },
+  {
+    "id": "AC9M2SP01-P-005",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2SP01",
+    "bank": "practice",
+    "skill": "opposite",
+    "question": "Which labelled side is opposite side A?",
+    "audio_prompt": "Which labelled side is opposite side A?",
+    "visual": {
+      "type": "svg",
+      "alt_text": "Rectangle: top side A, right B, bottom C, left D.",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2sp01.svg?v=20260906-year2-pending-release#ac9m2sp01-p-005"
+    },
+    "answers": [
+      {
+        "text": "B",
+        "is_correct": false
+      },
+      {
+        "text": "C",
+        "is_correct": true
+      },
+      {
+        "text": "D",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "C faces A across the rectangle and shares no endpoint with it.",
+      "hint": "Use the information in the question and check each step."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 5,
+    "review": {
+      "status": "editorially-reviewed",
+      "version": "20260906-year2-pending-release",
+      "evidence_scope": "See 2026-09-06-year2-public-ixl-sweep.md. Original questions; worked examples and representative entry tasks reviewed, not exhaustive adaptive progression."
+    }
+  },
+  {
+    "id": "AC9M2SP01-P-006",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2SP01",
+    "bank": "practice",
+    "skill": "adjacent",
+    "question": "Which pair meets at a corner?",
+    "audio_prompt": "Which pair meets at a corner?",
+    "visual": {
+      "type": "svg",
+      "alt_text": "Rectangle: top side A, right B, bottom C, left D.",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2sp01.svg?v=20260906-year2-pending-release#ac9m2sp01-p-006"
+    },
+    "answers": [
+      {
+        "text": "A and B",
+        "is_correct": true
+      },
+      {
+        "text": "A and C",
+        "is_correct": false
+      },
+      {
+        "text": "B and D",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Top A meets right B at the top-right corner.",
+      "hint": "Use the information in the question and check each step."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 6,
+    "review": {
+      "status": "editorially-reviewed",
+      "version": "20260906-year2-pending-release",
+      "evidence_scope": "See 2026-09-06-year2-public-ixl-sweep.md. Original questions; worked examples and representative entry tasks reviewed, not exhaustive adaptive progression."
+    }
+  },
+  {
+    "id": "AC9M2SP01-P-007",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2SP01",
+    "bank": "practice",
+    "skill": "parallel_definition",
+    "question": "What does “parallel” mean for two straight sides?",
+    "audio_prompt": "What does “parallel” mean for two straight sides?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "They must touch at a corner",
+        "is_correct": false
+      },
+      {
+        "text": "Their lines stay the same distance apart and do not meet",
+        "is_correct": true
+      },
+      {
+        "text": "They must have different colours",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Parallel sides lie on lines that do not converge or cross.",
+      "hint": "Use the information in the question and check each step."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 7,
+    "review": {
+      "status": "editorially-reviewed",
+      "version": "20260906-year2-pending-release",
+      "evidence_scope": "See 2026-09-06-year2-public-ixl-sweep.md. Original questions; worked examples and representative entry tasks reviewed, not exhaustive adaptive progression."
+    }
+  },
+  {
+    "id": "AC9M2SP01-P-008",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2SP01",
+    "bank": "practice",
+    "skill": "parallel_rect",
+    "question": "Which pair of sides is parallel?",
+    "audio_prompt": "Which pair of sides is parallel?",
+    "visual": {
+      "type": "svg",
+      "alt_text": "Rectangle: top side A, right B, bottom C, left D.",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2sp01.svg?v=20260906-year2-pending-release#ac9m2sp01-p-008"
+    },
+    "answers": [
+      {
+        "text": "A and B",
+        "is_correct": false
+      },
+      {
+        "text": "C and D",
+        "is_correct": false
+      },
+      {
+        "text": "B and D",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The left and right sides remain the same distance apart.",
+      "hint": "Use the information in the question and check each step."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 8,
+    "review": {
+      "status": "editorially-reviewed",
+      "version": "20260906-year2-pending-release",
+      "evidence_scope": "See 2026-09-06-year2-public-ixl-sweep.md. Original questions; worked examples and representative entry tasks reviewed, not exhaustive adaptive progression."
+    }
+  },
+  {
+    "id": "AC9M2SP01-P-009",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2SP01",
+    "bank": "practice",
+    "skill": "rotation",
+    "question": "The square has been turned. What shape is it now?",
+    "audio_prompt": "The square has been turned. What shape is it now?",
+    "visual": {
+      "type": "svg",
+      "alt_text": "A square rotated so one corner points upwards.",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2sp01.svg?v=20260906-year2-pending-release#ac9m2sp01-p-009"
+    },
+    "answers": [
+      {
+        "text": "A square",
+        "is_correct": true
+      },
+      {
+        "text": "A triangle",
+        "is_correct": false
+      },
+      {
+        "text": "A pentagon",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Turning does not change its four equal sides or square corners.",
+      "hint": "Use the information in the question and check each step."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "sequence_priority": 9,
+    "review": {
+      "status": "editorially-reviewed",
+      "version": "20260906-year2-pending-release",
+      "evidence_scope": "See 2026-09-06-year2-public-ixl-sweep.md. Original questions; worked examples and representative entry tasks reviewed, not exhaustive adaptive progression."
+    }
+  },
+  {
+    "id": "AC9M2SP01-P-010",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2SP01",
+    "bank": "practice",
+    "skill": "triangle_variation",
+    "question": "Is this a triangle even though its sides have different lengths?",
+    "audio_prompt": "Is this a triangle even though its sides have different lengths?",
+    "visual": {
+      "type": "svg",
+      "alt_text": "Scalene triangle, three straight sides of different lengths.",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2sp01.svg?v=20260906-year2-pending-release#ac9m2sp01-p-010"
+    },
+    "answers": [
+      {
+        "text": "Yes; it has three straight sides",
+        "is_correct": true
+      },
+      {
+        "text": "No; triangles need three equal sides",
+        "is_correct": false
+      },
+      {
+        "text": "No; triangles must point straight up",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Triangles are defined by three straight sides, not equal side lengths.",
+      "hint": "Use the information in the question and check each step."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "sequence_priority": 10,
+    "review": {
+      "status": "editorially-reviewed",
+      "version": "20260906-year2-pending-release",
+      "evidence_scope": "See 2026-09-06-year2-public-ixl-sweep.md. Original questions; worked examples and representative entry tasks reviewed, not exhaustive adaptive progression."
+    }
+  },
+  {
+    "id": "AC9M2SP01-P-011",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2SP01",
+    "bank": "practice",
+    "skill": "classify_four",
+    "question": "Which two shapes belong in a group labelled “four straight sides”?",
+    "audio_prompt": "Which two shapes belong in a group labelled “four straight sides”?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Triangle and circle",
+        "is_correct": false
+      },
+      {
+        "text": "Pentagon and oval",
+        "is_correct": false
+      },
+      {
+        "text": "Rectangle and square",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Rectangles and squares each have four straight sides.",
+      "hint": "Use the information in the question and check each step."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "sequence_priority": 11,
+    "review": {
+      "status": "editorially-reviewed",
+      "version": "20260906-year2-pending-release",
+      "evidence_scope": "See 2026-09-06-year2-public-ixl-sweep.md. Original questions; worked examples and representative entry tasks reviewed, not exhaustive adaptive progression."
+    }
+  },
+  {
+    "id": "AC9M2SP01-P-012",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2SP01",
+    "bank": "practice",
+    "skill": "open_shape",
+    "question": "Why is this not a closed four-sided shape?",
+    "audio_prompt": "Why is this not a closed four-sided shape?",
+    "visual": {
+      "type": "svg",
+      "alt_text": "Three connected straight segments, open at the bottom.",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2sp01.svg?v=20260906-year2-pending-release#ac9m2sp01-p-012"
+    },
+    "answers": [
+      {
+        "text": "The lines are straight",
+        "is_correct": false
+      },
+      {
+        "text": "The bottom side is missing",
+        "is_correct": true
+      },
+      {
+        "text": "It is too large",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Its boundary is open; a fourth side is needed to close it.",
+      "hint": "Use the information in the question and check each step."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "sequence_priority": 12,
+    "review": {
+      "status": "editorially-reviewed",
+      "version": "20260906-year2-pending-release",
+      "evidence_scope": "See 2026-09-06-year2-public-ixl-sweep.md. Original questions; worked examples and representative entry tasks reviewed, not exhaustive adaptive progression."
+    }
+  },
+  {
+    "id": "AC9M2SP01-P-013",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2SP01",
+    "bank": "practice",
+    "skill": "opposite_not_equal",
+    "question": "Does “opposite sides” always mean “sides of equal length”?",
+    "audio_prompt": "Does “opposite sides” always mean “sides of equal length”?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Yes; the words mean the same thing",
+        "is_correct": false
+      },
+      {
+        "text": "Yes; all shapes have equal sides",
+        "is_correct": false
+      },
+      {
+        "text": "No; it describes their positions",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Opposite refers to facing across a shape; it does not by itself specify length.",
+      "hint": "Use the information in the question and check each step."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "sequence_priority": 13,
+    "review": {
+      "status": "editorially-reviewed",
+      "version": "20260906-year2-pending-release",
+      "evidence_scope": "See 2026-09-06-year2-public-ixl-sweep.md. Original questions; worked examples and representative entry tasks reviewed, not exhaustive adaptive progression."
+    }
+  },
+  {
+    "id": "AC9M2SP01-P-014",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2SP01",
+    "bank": "practice",
+    "skill": "trapezium",
+    "question": "Which sides of this shape are parallel?",
+    "audio_prompt": "Which sides of this shape are parallel?",
+    "visual": {
+      "type": "svg",
+      "alt_text": "Trapezium with horizontal top and bottom parallel; sloping left and right sides.",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2sp01.svg?v=20260906-year2-pending-release#ac9m2sp01-p-014"
+    },
+    "answers": [
+      {
+        "text": "The top and bottom",
+        "is_correct": true
+      },
+      {
+        "text": "The left and right",
+        "is_correct": false
+      },
+      {
+        "text": "The top and left",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The horizontal top and bottom remain the same distance apart.",
+      "hint": "Use the information in the question and check each step."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "sequence_priority": 14,
+    "review": {
+      "status": "editorially-reviewed",
+      "version": "20260906-year2-pending-release",
+      "evidence_scope": "See 2026-09-06-year2-public-ixl-sweep.md. Original questions; worked examples and representative entry tasks reviewed, not exhaustive adaptive progression."
+    }
+  },
+  {
+    "id": "AC9M2SP01-P-015",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2SP01",
+    "bank": "practice",
+    "skill": "slanted_parallel",
+    "question": "Are these sloping lines parallel?",
+    "audio_prompt": "Are these sloping lines parallel?",
+    "visual": {
+      "type": "svg",
+      "alt_text": "Two slanted parallel straight segments of equal direction.",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2sp01.svg?v=20260906-year2-pending-release#ac9m2sp01-p-015"
+    },
+    "answers": [
+      {
+        "text": "No; only horizontal lines can be parallel",
+        "is_correct": false
+      },
+      {
+        "text": "Yes; they keep the same direction and separation",
+        "is_correct": true
+      },
+      {
+        "text": "No; sloping lines always cross",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Parallel lines can slope; they need not be horizontal or vertical.",
+      "hint": "Use the information in the question and check each step."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "sequence_priority": 15,
+    "review": {
+      "status": "editorially-reviewed",
+      "version": "20260906-year2-pending-release",
+      "evidence_scope": "See 2026-09-06-year2-public-ixl-sweep.md. Original questions; worked examples and representative entry tasks reviewed, not exhaustive adaptive progression."
+    }
+  },
+  {
+    "id": "AC9M2SP01-P-016",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2SP01",
+    "bank": "practice",
+    "skill": "crossing",
+    "question": "Why are these lines not parallel?",
+    "audio_prompt": "Why are these lines not parallel?",
+    "visual": {
+      "type": "svg",
+      "alt_text": "Two straight lines crossing in the middle.",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2sp01.svg?v=20260906-year2-pending-release#ac9m2sp01-p-016"
+    },
+    "answers": [
+      {
+        "text": "They are both straight",
+        "is_correct": false
+      },
+      {
+        "text": "They cross",
+        "is_correct": true
+      },
+      {
+        "text": "They are the same colour",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Parallel lines never meet, but these intersect.",
+      "hint": "Use the information in the question and check each step."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "sequence_priority": 16,
+    "review": {
+      "status": "editorially-reviewed",
+      "version": "20260906-year2-pending-release",
+      "evidence_scope": "See 2026-09-06-year2-public-ixl-sweep.md. Original questions; worked examples and representative entry tasks reviewed, not exhaustive adaptive progression."
+    }
+  },
+  {
+    "id": "AC9M2SP01-P-017",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2SP01",
+    "bank": "practice",
+    "skill": "concave_count",
+    "question": "An inward corner appears in this shape. How many straight sides are there?",
+    "audio_prompt": "An inward corner appears in this shape. How many straight sides are there?",
+    "visual": {
+      "type": "svg",
+      "alt_text": "Closed concave polygon with five straight sides, including two meeting at an inward corner.",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2sp01.svg?v=20260906-year2-pending-release#ac9m2sp01-p-017"
+    },
+    "answers": [
+      {
+        "text": "5",
+        "is_correct": true
+      },
+      {
+        "text": "4",
+        "is_correct": false
+      },
+      {
+        "text": "6",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Count both sides forming the inward corner; the boundary has five segments.",
+      "hint": "Use the information in the question and check each step."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "reason",
+    "sequence_priority": 17,
+    "review": {
+      "status": "editorially-reviewed",
+      "version": "20260906-year2-pending-release",
+      "evidence_scope": "See 2026-09-06-year2-public-ixl-sweep.md. Original questions; worked examples and representative entry tasks reviewed, not exhaustive adaptive progression."
+    }
+  },
+  {
+    "id": "AC9M2SP01-P-018",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2SP01",
+    "bank": "practice",
+    "skill": "compare_sides",
+    "question": "How many more sides does a hexagon have than a triangle?",
+    "audio_prompt": "How many more sides does a hexagon have than a triangle?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "2",
+        "is_correct": false
+      },
+      {
+        "text": "9",
+        "is_correct": false
+      },
+      {
+        "text": "3",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A hexagon has 6 and a triangle 3; the difference is 3.",
+      "hint": "Use the information in the question and check each step."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "reason",
+    "sequence_priority": 18,
+    "review": {
+      "status": "editorially-reviewed",
+      "version": "20260906-year2-pending-release",
+      "evidence_scope": "See 2026-09-06-year2-public-ixl-sweep.md. Original questions; worked examples and representative entry tasks reviewed, not exhaustive adaptive progression."
+    }
+  },
+  {
+    "id": "AC9M2SP01-P-019",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2SP01",
+    "bank": "practice",
+    "skill": "not_appearance",
+    "question": "A small blue pentagon and a large yellow pentagon are put together. Which property explains the grouping?",
+    "audio_prompt": "A small blue pentagon and a large yellow pentagon are put together. Which property explains the grouping?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Both have five straight sides",
+        "is_correct": true
+      },
+      {
+        "text": "Both have the same size",
+        "is_correct": false
+      },
+      {
+        "text": "Both have the same colour",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Side count stays five despite colour and size changes.",
+      "hint": "Use the information in the question and check each step."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "reason",
+    "sequence_priority": 19,
+    "review": {
+      "status": "editorially-reviewed",
+      "version": "20260906-year2-pending-release",
+      "evidence_scope": "See 2026-09-06-year2-public-ixl-sweep.md. Original questions; worked examples and representative entry tasks reviewed, not exhaustive adaptive progression."
+    }
+  },
+  {
+    "id": "AC9M2SP01-P-020",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2SP01",
+    "bank": "practice",
+    "skill": "square_rectangle",
+    "question": "A group includes all shapes with four square corners. Can a square belong with non-square rectangles?",
+    "audio_prompt": "A group includes all shapes with four square corners. Can a square belong with non-square rectangles?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "No; a square has no corners",
+        "is_correct": false
+      },
+      {
+        "text": "Yes; squares also have four square corners",
+        "is_correct": true
+      },
+      {
+        "text": "No; a square has only three sides",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A square meets the stated property, even though its sides are all equal.",
+      "hint": "Use the information in the question and check each step."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "reason",
+    "sequence_priority": 20,
+    "review": {
+      "status": "editorially-reviewed",
+      "version": "20260906-year2-pending-release",
+      "evidence_scope": "See 2026-09-06-year2-public-ixl-sweep.md. Original questions; worked examples and representative entry tasks reviewed, not exhaustive adaptive progression."
+    }
+  },
+  {
+    "id": "AC9M2SP01-P-021",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2SP01",
+    "bank": "practice",
+    "skill": "curved_group",
+    "question": "Which shape belongs in a “has a curved part” group with a circle?",
+    "audio_prompt": "Which shape belongs in a “has a curved part” group with a circle?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A triangle",
+        "is_correct": false
+      },
+      {
+        "text": "A hexagon",
+        "is_correct": false
+      },
+      {
+        "text": "A semicircle",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A semicircle has a curved arc as part of its boundary.",
+      "hint": "Use the information in the question and check each step."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "reason",
+    "sequence_priority": 21,
+    "review": {
+      "status": "editorially-reviewed",
+      "version": "20260906-year2-pending-release",
+      "evidence_scope": "See 2026-09-06-year2-public-ixl-sweep.md. Original questions; worked examples and representative entry tasks reviewed, not exhaustive adaptive progression."
+    }
+  },
+  {
+    "id": "AC9M2SP01-P-022",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2SP01",
+    "bank": "practice",
+    "skill": "all_four_not_square",
+    "question": "A shape has four straight sides. Is that enough information to call it a square?",
+    "audio_prompt": "A shape has four straight sides. Is that enough information to call it a square?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Yes; every four-sided shape is a square",
+        "is_correct": false
+      },
+      {
+        "text": "Yes; its colour decides",
+        "is_correct": false
+      },
+      {
+        "text": "No; other four-sided shapes exist",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Four sides alone do not establish equal lengths and square corners.",
+      "hint": "Use the information in the question and check each step."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "reason",
+    "sequence_priority": 22,
+    "review": {
+      "status": "editorially-reviewed",
+      "version": "20260906-year2-pending-release",
+      "evidence_scope": "See 2026-09-06-year2-public-ixl-sweep.md. Original questions; worked examples and representative entry tasks reviewed, not exhaustive adaptive progression."
+    }
+  },
+  {
+    "id": "AC9M2SP01-P-023",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2SP01",
+    "bank": "practice",
+    "skill": "draw_classify",
+    "question": "Draw two different closed shapes with four straight sides. Label a pair of opposite sides on each.",
+    "audio_prompt": "Draw two different closed shapes with four straight sides. Label a pair of opposite sides on each.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Needs revision",
+        "is_correct": false
+      },
+      {
+        "text": "Completed response",
+        "is_correct": true
+      },
+      {
+        "text": "Not attempted",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Two distinct quadrilaterals with correctly identified opposite sides.",
+      "hint": "Accept rotated or irregular shapes. Opposite sides must not share a corner; do not require both drawings to be rectangles."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "reason",
+    "sequence_priority": 23,
+    "review": {
+      "status": "editorially-reviewed",
+      "version": "20260906-year2-pending-release",
+      "evidence_scope": "See 2026-09-06-year2-public-ixl-sweep.md. Original questions; worked examples and representative entry tasks reviewed, not exhaustive adaptive progression."
+    },
+    "grading_mode": "adult-review",
+    "model_answer": "Two distinct quadrilaterals with correctly identified opposite sides.",
+    "acceptance_note": "Accept rotated or irregular shapes. Opposite sides must not share a corner; do not require both drawings to be rectangles.",
+    "response_instructions": "Complete the task on paper or with materials, then ask an adult to check it.",
+    "completion_label": "Ready for adult review"
+  },
+  {
+    "id": "AC9M2SP01-P-024",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2SP01",
+    "bank": "practice",
+    "skill": "sort_explain",
+    "question": "Draw a circle, a triangle and a semicircle. Sort them into “has a curved part” and “only straight sides”. Explain your groups.",
+    "audio_prompt": "Draw a circle, a triangle and a semicircle. Sort them into “has a curved part” and “only straight sides”. Explain your groups.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Completed response",
+        "is_correct": true
+      },
+      {
+        "text": "Needs revision",
+        "is_correct": false
+      },
+      {
+        "text": "Not attempted",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Circle and semicircle in curved-part group; triangle in only-straight group.",
+      "hint": "Check the semicircle is included in the curved group even though it also has a straight boundary."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "reason",
+    "sequence_priority": 24,
+    "review": {
+      "status": "editorially-reviewed",
+      "version": "20260906-year2-pending-release",
+      "evidence_scope": "See 2026-09-06-year2-public-ixl-sweep.md. Original questions; worked examples and representative entry tasks reviewed, not exhaustive adaptive progression."
+    },
+    "grading_mode": "adult-review",
+    "model_answer": "Circle and semicircle in curved-part group; triangle in only-straight group.",
+    "acceptance_note": "Check the semicircle is included in the curved group even though it also has a straight boundary.",
+    "response_instructions": "Complete the task on paper or with materials, then ask an adult to check it.",
+    "completion_label": "Ready for adult review"
+  },
+  {
+    "id": "AC9M2SP01-T-001",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2SP01",
+    "bank": "test",
+    "skill": "count",
+    "question": "Count every straight edge of this shape. How many are there?",
+    "audio_prompt": "Count every straight edge of this shape. How many are there?",
+    "visual": {
+      "type": "svg",
+      "alt_text": "An irregular six-sided polygon.",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2sp01.svg?v=20260906-year2-pending-release#ac9m2sp01-t-001"
+    },
+    "answers": [
+      {
+        "text": "5",
+        "is_correct": false
+      },
+      {
+        "text": "7",
+        "is_correct": false
+      },
+      {
+        "text": "6",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Tracing all the boundary segments gives six.",
+      "hint": "Use the information in the question and check each step."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 1,
+    "review": {
+      "status": "editorially-reviewed",
+      "version": "20260906-year2-pending-release",
+      "evidence_scope": "See 2026-09-06-year2-public-ixl-sweep.md. Original questions; worked examples and representative entry tasks reviewed, not exhaustive adaptive progression."
+    }
+  },
+  {
+    "id": "AC9M2SP01-T-002",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2SP01",
+    "bank": "test",
+    "skill": "concave_name",
+    "question": "What is this closed five-sided shape called?",
+    "audio_prompt": "What is this closed five-sided shape called?",
+    "visual": {
+      "type": "svg",
+      "alt_text": "Closed concave polygon with five straight sides, including two meeting at an inward corner.",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2sp01.svg?v=20260906-year2-pending-release#ac9m2sp01-t-002"
+    },
+    "answers": [
+      {
+        "text": "A pentagon",
+        "is_correct": true
+      },
+      {
+        "text": "A hexagon",
+        "is_correct": false
+      },
+      {
+        "text": "A triangle",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A five-sided polygon is a pentagon even with an inward corner.",
+      "hint": "Use the information in the question and check each step."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 2,
+    "review": {
+      "status": "editorially-reviewed",
+      "version": "20260906-year2-pending-release",
+      "evidence_scope": "See 2026-09-06-year2-public-ixl-sweep.md. Original questions; worked examples and representative entry tasks reviewed, not exhaustive adaptive progression."
+    }
+  },
+  {
+    "id": "AC9M2SP01-T-003",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2SP01",
+    "bank": "test",
+    "skill": "opposite",
+    "question": "Which side is opposite D?",
+    "audio_prompt": "Which side is opposite D?",
+    "visual": {
+      "type": "svg",
+      "alt_text": "Rectangle: top side A, right B, bottom C, left D.",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2sp01.svg?v=20260906-year2-pending-release#ac9m2sp01-t-003"
+    },
+    "answers": [
+      {
+        "text": "A",
+        "is_correct": false
+      },
+      {
+        "text": "B",
+        "is_correct": true
+      },
+      {
+        "text": "C",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The right side B is across from left side D.",
+      "hint": "Use the information in the question and check each step."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 3,
+    "review": {
+      "status": "editorially-reviewed",
+      "version": "20260906-year2-pending-release",
+      "evidence_scope": "See 2026-09-06-year2-public-ixl-sweep.md. Original questions; worked examples and representative entry tasks reviewed, not exhaustive adaptive progression."
+    }
+  },
+  {
+    "id": "AC9M2SP01-T-004",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2SP01",
+    "bank": "test",
+    "skill": "parallel",
+    "question": "Which sides of the rectangle are parallel to A?",
+    "audio_prompt": "Which sides of the rectangle are parallel to A?",
+    "visual": {
+      "type": "svg",
+      "alt_text": "Rectangle: top side A, right B, bottom C, left D.",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2sp01.svg?v=20260906-year2-pending-release#ac9m2sp01-t-004"
+    },
+    "answers": [
+      {
+        "text": "B and D",
+        "is_correct": false
+      },
+      {
+        "text": "C only",
+        "is_correct": true
+      },
+      {
+        "text": "Every other side",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Only C runs in the same direction without meeting A.",
+      "hint": "Use the information in the question and check each step."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 4,
+    "review": {
+      "status": "editorially-reviewed",
+      "version": "20260906-year2-pending-release",
+      "evidence_scope": "See 2026-09-06-year2-public-ixl-sweep.md. Original questions; worked examples and representative entry tasks reviewed, not exhaustive adaptive progression."
+    }
+  },
+  {
+    "id": "AC9M2SP01-T-005",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2SP01",
+    "bank": "test",
+    "skill": "curved_straight",
+    "question": "Which description fits the semicircle?",
+    "audio_prompt": "Which description fits the semicircle?",
+    "visual": {
+      "type": "svg",
+      "alt_text": "Semicircle with a curved arc above one horizontal straight boundary.",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2sp01.svg?v=20260906-year2-pending-release#ac9m2sp01-t-005"
+    },
+    "answers": [
+      {
+        "text": "It has three straight sides",
+        "is_correct": false
+      },
+      {
+        "text": "It has only a curved boundary",
+        "is_correct": false
+      },
+      {
+        "text": "It has both a curve and a straight boundary",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Its arc is curved and its diameter is straight.",
+      "hint": "Use the information in the question and check each step."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 5,
+    "review": {
+      "status": "editorially-reviewed",
+      "version": "20260906-year2-pending-release",
+      "evidence_scope": "See 2026-09-06-year2-public-ixl-sweep.md. Original questions; worked examples and representative entry tasks reviewed, not exhaustive adaptive progression."
+    }
+  },
+  {
+    "id": "AC9M2SP01-T-006",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2SP01",
+    "bank": "test",
+    "skill": "turned_square",
+    "question": "Why does this turned shape still belong in the square group?",
+    "audio_prompt": "Why does this turned shape still belong in the square group?",
+    "visual": {
+      "type": "svg",
+      "alt_text": "A square rotated so one corner points upwards.",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2sp01.svg?v=20260906-year2-pending-release#ac9m2sp01-t-006"
+    },
+    "answers": [
+      {
+        "text": "Its side lengths and corners have not changed",
+        "is_correct": true
+      },
+      {
+        "text": "Its top corner creates a fifth side",
+        "is_correct": false
+      },
+      {
+        "text": "Its colour makes it a square",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Rotation changes orientation but preserves the shape’s properties.",
+      "hint": "Use the information in the question and check each step."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 6,
+    "review": {
+      "status": "editorially-reviewed",
+      "version": "20260906-year2-pending-release",
+      "evidence_scope": "See 2026-09-06-year2-public-ixl-sweep.md. Original questions; worked examples and representative entry tasks reviewed, not exhaustive adaptive progression."
+    }
+  },
+  {
+    "id": "AC9M2SP01-T-007",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2SP01",
+    "bank": "test",
+    "skill": "triangle",
+    "question": "Which fact is enough to identify a simple closed polygon as a triangle?",
+    "audio_prompt": "Which fact is enough to identify a simple closed polygon as a triangle?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It has exactly three straight sides",
+        "is_correct": true
+      },
+      {
+        "text": "It is blue",
+        "is_correct": false
+      },
+      {
+        "text": "It has two equal sides",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Three straight sides define a triangle.",
+      "hint": "Use the information in the question and check each step."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "sequence_priority": 7,
+    "review": {
+      "status": "editorially-reviewed",
+      "version": "20260906-year2-pending-release",
+      "evidence_scope": "See 2026-09-06-year2-public-ixl-sweep.md. Original questions; worked examples and representative entry tasks reviewed, not exhaustive adaptive progression."
+    }
+  },
+  {
+    "id": "AC9M2SP01-T-008",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2SP01",
+    "bank": "test",
+    "skill": "parallel_sloping",
+    "question": "Two slanted sides lie on lines that never meet and stay equally far apart. What are they?",
+    "audio_prompt": "Two slanted sides lie on lines that never meet and stay equally far apart. What are they?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Curved",
+        "is_correct": false
+      },
+      {
+        "text": "Crossing",
+        "is_correct": false
+      },
+      {
+        "text": "Parallel",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Parallel describes this constant separation.",
+      "hint": "Use the information in the question and check each step."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "sequence_priority": 8,
+    "review": {
+      "status": "editorially-reviewed",
+      "version": "20260906-year2-pending-release",
+      "evidence_scope": "See 2026-09-06-year2-public-ixl-sweep.md. Original questions; worked examples and representative entry tasks reviewed, not exhaustive adaptive progression."
+    }
+  },
+  {
+    "id": "AC9M2SP01-T-009",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2SP01",
+    "bank": "test",
+    "skill": "classify",
+    "question": "A rectangle, trapezium and square are grouped together. Which label fits them all?",
+    "audio_prompt": "A rectangle, trapezium and square are grouped together. Which label fits them all?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "All sides equal",
+        "is_correct": false
+      },
+      {
+        "text": "Four straight sides",
+        "is_correct": true
+      },
+      {
+        "text": "Curved boundary",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "All three are quadrilaterals, but their side lengths can differ.",
+      "hint": "Use the information in the question and check each step."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "sequence_priority": 9,
+    "review": {
+      "status": "editorially-reviewed",
+      "version": "20260906-year2-pending-release",
+      "evidence_scope": "See 2026-09-06-year2-public-ixl-sweep.md. Original questions; worked examples and representative entry tasks reviewed, not exhaustive adaptive progression."
+    }
+  },
+  {
+    "id": "AC9M2SP01-T-010",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2SP01",
+    "bank": "test",
+    "skill": "compare",
+    "question": "How many fewer sides does a pentagon have than an octagon?",
+    "audio_prompt": "How many fewer sides does a pentagon have than an octagon?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "3",
+        "is_correct": true
+      },
+      {
+        "text": "2",
+        "is_correct": false
+      },
+      {
+        "text": "13",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "An octagon has 8 sides and a pentagon 5; 8 minus 5 is 3.",
+      "hint": "Use the information in the question and check each step."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "sequence_priority": 10,
+    "review": {
+      "status": "editorially-reviewed",
+      "version": "20260906-year2-pending-release",
+      "evidence_scope": "See 2026-09-06-year2-public-ixl-sweep.md. Original questions; worked examples and representative entry tasks reviewed, not exhaustive adaptive progression."
+    }
+  },
+  {
+    "id": "AC9M2SP01-T-011",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2SP01",
+    "bank": "test",
+    "skill": "opposite_meaning",
+    "question": "Which description identifies opposite sides of a quadrilateral?",
+    "audio_prompt": "Which description identifies opposite sides of a quadrilateral?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "They meet at one corner",
+        "is_correct": false
+      },
+      {
+        "text": "They face across the shape without sharing a corner",
+        "is_correct": true
+      },
+      {
+        "text": "They must form a curve",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Opposite sides do not touch at a vertex.",
+      "hint": "Use the information in the question and check each step."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "sequence_priority": 11,
+    "review": {
+      "status": "editorially-reviewed",
+      "version": "20260906-year2-pending-release",
+      "evidence_scope": "See 2026-09-06-year2-public-ixl-sweep.md. Original questions; worked examples and representative entry tasks reviewed, not exhaustive adaptive progression."
+    }
+  },
+  {
+    "id": "AC9M2SP01-T-012",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2SP01",
+    "bank": "test",
+    "skill": "sorting_error",
+    "question": "An oval was put in a group labelled “only straight sides”. What should happen?",
+    "audio_prompt": "An oval was put in a group labelled “only straight sides”. What should happen?",
+    "visual": {
+      "type": "svg",
+      "alt_text": "A is a circle; B is an oval. Both have entirely curved boundaries.",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2sp01.svg?v=20260906-year2-pending-release#ac9m2sp01-t-012"
+    },
+    "answers": [
+      {
+        "text": "Leave it because it is closed",
+        "is_correct": false
+      },
+      {
+        "text": "Add corners to its name",
+        "is_correct": false
+      },
+      {
+        "text": "Move it to a curved-boundary group",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "An oval’s boundary is curved.",
+      "hint": "Use the information in the question and check each step."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "sequence_priority": 12,
+    "review": {
+      "status": "editorially-reviewed",
+      "version": "20260906-year2-pending-release",
+      "evidence_scope": "See 2026-09-06-year2-public-ixl-sweep.md. Original questions; worked examples and representative entry tasks reviewed, not exhaustive adaptive progression."
+    }
+  },
+  {
+    "id": "AC9M2SP01-T-013",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2SP01",
+    "bank": "test",
+    "skill": "closure",
+    "question": "Which change closes this drawing to make a quadrilateral?",
+    "audio_prompt": "Which change closes this drawing to make a quadrilateral?",
+    "visual": {
+      "type": "svg",
+      "alt_text": "Three connected straight segments, open at the bottom.",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2sp01.svg?v=20260906-year2-pending-release#ac9m2sp01-t-013"
+    },
+    "answers": [
+      {
+        "text": "Add a dot in the middle",
+        "is_correct": false
+      },
+      {
+        "text": "Lengthen only the top side",
+        "is_correct": false
+      },
+      {
+        "text": "Join the two bottom endpoints with one straight side",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Joining the free endpoints creates the missing fourth boundary segment.",
+      "hint": "Use the information in the question and check each step."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "reason",
+    "sequence_priority": 13,
+    "review": {
+      "status": "editorially-reviewed",
+      "version": "20260906-year2-pending-release",
+      "evidence_scope": "See 2026-09-06-year2-public-ixl-sweep.md. Original questions; worked examples and representative entry tasks reviewed, not exhaustive adaptive progression."
+    }
+  },
+  {
+    "id": "AC9M2SP01-T-014",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2SP01",
+    "bank": "test",
+    "skill": "size",
+    "question": "A hexagon is made twice as large without changing its outline. How many sides does it have?",
+    "audio_prompt": "A hexagon is made twice as large without changing its outline. How many sides does it have?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "6",
+        "is_correct": true
+      },
+      {
+        "text": "12",
+        "is_correct": false
+      },
+      {
+        "text": "3",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Enlargement changes size, not the number of sides.",
+      "hint": "Use the information in the question and check each step."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "reason",
+    "sequence_priority": 14,
+    "review": {
+      "status": "editorially-reviewed",
+      "version": "20260906-year2-pending-release",
+      "evidence_scope": "See 2026-09-06-year2-public-ixl-sweep.md. Original questions; worked examples and representative entry tasks reviewed, not exhaustive adaptive progression."
+    }
+  },
+  {
+    "id": "AC9M2SP01-T-015",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2SP01",
+    "bank": "test",
+    "skill": "draw_opposites",
+    "question": "Draw a non-square rectangle. Label one pair of parallel sides and one pair of sides that meet.",
+    "audio_prompt": "Draw a non-square rectangle. Label one pair of parallel sides and one pair of sides that meet.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Needs revision",
+        "is_correct": false
+      },
+      {
+        "text": "Completed response",
+        "is_correct": true
+      },
+      {
+        "text": "Not attempted",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Opposite sides labelled parallel; adjacent sides labelled as meeting.",
+      "hint": "Check the two relationships on the learner’s own rectangle."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "reason",
+    "sequence_priority": 15,
+    "review": {
+      "status": "editorially-reviewed",
+      "version": "20260906-year2-pending-release",
+      "evidence_scope": "See 2026-09-06-year2-public-ixl-sweep.md. Original questions; worked examples and representative entry tasks reviewed, not exhaustive adaptive progression."
+    },
+    "grading_mode": "adult-review",
+    "model_answer": "Opposite sides labelled parallel; adjacent sides labelled as meeting.",
+    "acceptance_note": "Check the two relationships on the learner’s own rectangle.",
+    "response_instructions": "Complete the task on paper or with materials, then ask an adult to check it.",
+    "completion_label": "Ready for adult review"
+  },
+  {
+    "id": "AC9M2SP01-T-016",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2SP01",
+    "bank": "test",
+    "skill": "classify_explain",
+    "question": "Draw a five-sided shape and a six-sided shape. Name them and explain how you distinguished them.",
+    "audio_prompt": "Draw a five-sided shape and a six-sided shape. Name them and explain how you distinguished them.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Completed response",
+        "is_correct": true
+      },
+      {
+        "text": "Needs revision",
+        "is_correct": false
+      },
+      {
+        "text": "Not attempted",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Pentagon has five straight sides; hexagon has six.",
+      "hint": "Accept irregular closed shapes with correct counts and names; equal sides are not required."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "reason",
+    "sequence_priority": 16,
+    "review": {
+      "status": "editorially-reviewed",
+      "version": "20260906-year2-pending-release",
+      "evidence_scope": "See 2026-09-06-year2-public-ixl-sweep.md. Original questions; worked examples and representative entry tasks reviewed, not exhaustive adaptive progression."
+    },
+    "grading_mode": "adult-review",
+    "model_answer": "Pentagon has five straight sides; hexagon has six.",
+    "acceptance_note": "Accept irregular closed shapes with correct counts and names; equal sides are not required.",
+    "response_instructions": "Complete the task on paper or with materials, then ask an adult to check it.",
+    "completion_label": "Ready for adult review"
+  }
+]

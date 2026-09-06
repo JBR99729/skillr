@@ -1,0 +1,40 @@
+In 'The ducks paddle', which word tells the action?|paddle|ducks|The|Paddle tells what the ducks do, so it is a verb here.
+Which word names a place?|library|sleepy|hurry|Library names a place; sleepy describes and hurry can name an action in a command.
+In 'A soft blanket covered me', which word describes the blanket?|soft|covered|me|Soft tells a quality of the blanket, so it is an adjective.
+'Leah has a kite. She flies it.' Who does She refer to?|Leah|the kite|a new person|She replaces Leah's name in the second sentence.
+In 'We arrived yesterday', which word tells when?|yesterday|arrived|We|Yesterday adds a time detail to arrived.
+In 'The puppy waited outside', which word tells where?|outside|puppy|waited|Outside tells the place where the puppy waited.
+In 'He spoke softly', which word tells how he spoke?|softly|He|spoke|Softly describes the manner of speaking.
+In 'The child feels tired', which word is the verb?|feels|child|tired|Feels expresses a state; verbs are not limited to actions we can see.
+Which word names the thing carried in 'The girl carried a basket'?|basket|carried|a|Basket is a noun naming the carried object.
+Replace the repeated name: 'Omar waved. Omar smiled.'|Omar waved. He smiled.|Omar waved. It smiled.|Omar waved. We smiled.|He refers back to the single person Omar in this context.
+Which word completes the action in 'The fish ___ through the water'?|swims|silver|quiet|Swims is a verb that tells what the fish does.
+Choose a describing word for 'The ___ path was hard to walk on'.|rocky|walked|slowly|Rocky describes the path; slowly would describe how an action happens.
+In 'The bright moon shone', what job does bright do?|Describes the moon.|Names the action.|Replaces the word moon.|Bright is an adjective giving a quality of the moon.
+Which sentence uses quickly to tell how an action happens?|The rabbit hopped quickly.|The quickly rabbit.|Quickly is the rabbit's name.|Quickly adds a manner detail to hopped.
+'Ava and Ben planted seeds. They watered them.' What does them refer to?|the seeds|Ava and Ben|the watering cans|Them refers to what was planted and then watered: the seeds.
+In 'The soup smells delicious', which pair is the verb and the describing word?|smells; delicious|soup; smells|The; soup|Smells is the verb linking soup to its quality; delicious describes it.
+Compare 'The fast horse ran' and 'The horse ran fast'. What does fast describe in the second sentence?|How the horse ran.|Which thing is called a horse.|When the horse ran.|In the second sentence fast modifies the running, rather than describing the noun directly.
+In 'We will play tomorrow', changing tomorrow to today changes which detail?|When the playing happens.|Who is playing.|How many games exist.|Both words give time information, but they name different times.
+A child underlines blue as the action in 'The blue car stopped'. Which word should replace it?|stopped|car|The|Stopped is the verb; blue is an adjective describing the car.
+'The dog chased the ball. It rolled away.' What does It most likely replace?|the ball|the dog|both the dog and ball|Rolling away most naturally describes the ball in this context.
+Which change adds a quality to the noun in 'A bird sang'?|A cheerful bird sang.|A bird sang loudly.|A bird sang yesterday.|Cheerful describes bird; loudly and yesterday add details to sang.
+Which change adds how to 'The child walked'?|The child walked carefully.|The careful child walked.|The child walked today.|Carefully describes the manner of walking; careful describes the child, and today gives time.
+In 'The farmer works nearby', which words are a person noun and a place detail?|farmer; nearby|works; farmer|nearby; The|Farmer names a person; nearby tells where the working happens.
+A child says verbs always mean moving. Which sentence shows a verb expressing a state instead?|The baby is hungry.|The baby crawls.|The baby kicks.|Is links the baby to a state, hungry, without describing movement.
+In 'The leaves rustle', which word is the verb?|rustle|leaves|The|Rustle tells what the leaves do.
+Which word names a person?|dentist|smooth|quietly|Dentist is a noun for a person who cares for teeth.
+In 'A narrow bridge crossed the stream', which word describes the bridge?|narrow|crossed|stream|Narrow describes a quality of the bridge.
+'Mila found a shell. She put it in her pocket.' What does it refer to?|the shell|Mila|the pocket|It stands for the object Mila found: the shell.
+In 'We practised earlier', which word gives a time detail?|earlier|practised|We|Earlier tells when the practice happened.
+In 'The children waited indoors', which word gives a place detail?|indoors|children|waited|Indoors tells where the children waited.
+In 'The drummer tapped gently', what does gently tell us?|How the drummer tapped.|What the drum is called.|Who owns the drum.|Gently describes the manner of the tapping.
+In 'The milk seems cold', which word is the verb?|seems|milk|cold|Seems links milk with its apparent state or quality.
+Choose the noun naming an object in 'The baker washed a tray'.|tray|washed|a|Tray names the object being washed.
+'Two birds landed. They pecked at seeds.' What does They replace?|Two birds|seeds|a single nest|They refers back to the two birds as the doers of the next action.
+Which word completes 'The kitten ___ beneath the chair' with an action?|hides|fluffy|quietly|Hides supplies the verb; fluffy is descriptive and quietly needs an action to modify.
+Which sentence uses an adjective to describe a noun?|The shiny button fell.|The button fell noisily.|The button fell yesterday.|Shiny describes button; noisily and yesterday describe aspects of falling.
+Compare 'a slow walk' with 'walk slowly'. What does slowly tell us?|How to walk.|The name of a place.|Who is walking.|Slowly adds manner to the action walk.
+You change 'The fox waited outside' to 'The fox waited patiently'. Which kind of detail changes?|A where detail becomes a how detail.|A person noun becomes an animal noun.|A verb becomes a pronoun.|Outside gives place; patiently gives manner.
+'The twins packed their coats. They hung them by the door.' Which pairing is correct?|They: the twins. Them: the coats.|They: the coats. Them: the twins.|Both words refer to the door.|Pronouns connect the second sentence to the people and objects already named.
+A child marks sleepy as the verb in 'The dog is sleepy'. Which correction is right?|Is is the verb; sleepy describes the dog.|Dog is the verb; is names a place.|The is the verb; sleepy names an action.|Is expresses the state link, while sleepy supplies the description.

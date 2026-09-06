@@ -1,0 +1,1322 @@
+[
+  {
+    "id": "ac9s6u04-p-001",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6U04",
+    "bank": "practice",
+    "skill": "material changes",
+    "question": "Ice melts on a plate and later freezes again. What type of change is this?",
+    "audio_prompt": "Ice melts on a plate and later freezes again. What type of change is this?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A reversible change of state.",
+        "is_correct": true
+      },
+      {
+        "text": "An irreversible chemical change.",
+        "is_correct": false
+      },
+      {
+        "text": "A new substance forming.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A reversible change of state.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
+  },
+  {
+    "id": "ac9s6u04-p-002",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6U04",
+    "bank": "practice",
+    "skill": "material changes",
+    "question": "Toast burns and turns black. Why is this usually irreversible?",
+    "audio_prompt": "Toast burns and turns black. Why is this usually irreversible?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The bread simply changed position.",
+        "is_correct": false
+      },
+      {
+        "text": "New substances with different properties form.",
+        "is_correct": true
+      },
+      {
+        "text": "Cooling it will turn it back into fresh bread.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "New substances with different properties form.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
+  },
+  {
+    "id": "ac9s6u04-p-003",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6U04",
+    "bank": "practice",
+    "skill": "material changes",
+    "question": "Salt dissolves in water. What happened to the salt?",
+    "audio_prompt": "Salt dissolves in water. What happened to the salt?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It stopped existing.",
+        "is_correct": false
+      },
+      {
+        "text": "It changed into oxygen gas.",
+        "is_correct": false
+      },
+      {
+        "text": "Its particles spread through the water; it did not disappear.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Its particles spread through the water; it did not disappear.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
+  },
+  {
+    "id": "ac9s6u04-p-004",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6U04",
+    "bank": "practice",
+    "skill": "material changes",
+    "question": "Which process could recover salt from salty water?",
+    "audio_prompt": "Which process could recover salt from salty water?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Evaporation.",
+        "is_correct": true
+      },
+      {
+        "text": "Burning the water.",
+        "is_correct": false
+      },
+      {
+        "text": "Adding food colouring.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Evaporation.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
+  },
+  {
+    "id": "ac9s6u04-p-005",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6U04",
+    "bank": "practice",
+    "skill": "material changes",
+    "question": "Why do bubbles alone not prove a chemical change?",
+    "audio_prompt": "Why do bubbles alone not prove a chemical change?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Bubbles always mean rusting.",
+        "is_correct": false
+      },
+      {
+        "text": "Bubbles can also come from boiling or trapped air.",
+        "is_correct": true
+      },
+      {
+        "text": "Bubbles prove the material vanished.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Bubbles can also come from boiling or trapped air.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
+  },
+  {
+    "id": "ac9s6u04-p-006",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6U04",
+    "bank": "practice",
+    "skill": "material changes",
+    "question": "Steel wool rusts after being damp for days. What evidence supports a new substance?",
+    "audio_prompt": "Steel wool rusts after being damp for days. What evidence supports a new substance?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The steel is moved to another bench.",
+        "is_correct": false
+      },
+      {
+        "text": "The steel is weighed once before the test.",
+        "is_correct": false
+      },
+      {
+        "text": "A reddish-brown material with different properties appears.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A reddish-brown material with different properties appears.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
+  },
+  {
+    "id": "ac9s6u04-p-007",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6U04",
+    "bank": "practice",
+    "skill": "material changes",
+    "question": "Wax melts near heat and solidifies when cooled. What is the best classification?",
+    "audio_prompt": "Wax melts near heat and solidifies when cooled. What is the best classification?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Reversible physical change.",
+        "is_correct": true
+      },
+      {
+        "text": "Irreversible chemical change.",
+        "is_correct": false
+      },
+      {
+        "text": "Dissolving into a solution.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Reversible physical change.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
+  },
+  {
+    "id": "ac9s6u04-p-008",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6U04",
+    "bank": "practice",
+    "skill": "material changes",
+    "question": "A cake batter becomes a baked cake. Why is reversing it not practical?",
+    "audio_prompt": "A cake batter becomes a baked cake. Why is reversing it not practical?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is only a change of container.",
+        "is_correct": false
+      },
+      {
+        "text": "Cooking produces new materials and structure.",
+        "is_correct": true
+      },
+      {
+        "text": "It can be undone by cooling overnight.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Cooking produces new materials and structure.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
+  },
+  {
+    "id": "ac9s6u04-p-009",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6U04",
+    "bank": "practice",
+    "skill": "material changes",
+    "question": "Ice melts on a plate and later freezes again. What type of change is this in a new class investigation?",
+    "audio_prompt": "Ice melts on a plate and later freezes again. What type of change is this in a new class investigation?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "An irreversible chemical change.",
+        "is_correct": false
+      },
+      {
+        "text": "A new substance forming.",
+        "is_correct": false
+      },
+      {
+        "text": "A reversible change of state.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A reversible change of state.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
+  },
+  {
+    "id": "ac9s6u04-p-010",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6U04",
+    "bank": "practice",
+    "skill": "material changes",
+    "question": "Toast burns and turns black. Why is this usually irreversible in a new class investigation?",
+    "audio_prompt": "Toast burns and turns black. Why is this usually irreversible in a new class investigation?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "New substances with different properties form.",
+        "is_correct": true
+      },
+      {
+        "text": "The bread simply changed position.",
+        "is_correct": false
+      },
+      {
+        "text": "Cooling it will turn it back into fresh bread.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "New substances with different properties form.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
+  },
+  {
+    "id": "ac9s6u04-p-011",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6U04",
+    "bank": "practice",
+    "skill": "material changes",
+    "question": "Salt dissolves in water. What happened to the salt in a new class investigation?",
+    "audio_prompt": "Salt dissolves in water. What happened to the salt in a new class investigation?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It stopped existing.",
+        "is_correct": false
+      },
+      {
+        "text": "Its particles spread through the water; it did not disappear.",
+        "is_correct": true
+      },
+      {
+        "text": "It changed into oxygen gas.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Its particles spread through the water; it did not disappear.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
+  },
+  {
+    "id": "ac9s6u04-p-012",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6U04",
+    "bank": "practice",
+    "skill": "material changes",
+    "question": "Which process could recover salt from salty water in a new class investigation?",
+    "audio_prompt": "Which process could recover salt from salty water in a new class investigation?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Burning the water.",
+        "is_correct": false
+      },
+      {
+        "text": "Adding food colouring.",
+        "is_correct": false
+      },
+      {
+        "text": "Evaporation.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Evaporation.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
+  },
+  {
+    "id": "ac9s6u04-p-013",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6U04",
+    "bank": "practice",
+    "skill": "material changes",
+    "question": "Why do bubbles alone not prove a chemical change in a new class investigation?",
+    "audio_prompt": "Why do bubbles alone not prove a chemical change in a new class investigation?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Bubbles can also come from boiling or trapped air.",
+        "is_correct": true
+      },
+      {
+        "text": "Bubbles always mean rusting.",
+        "is_correct": false
+      },
+      {
+        "text": "Bubbles prove the material vanished.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Bubbles can also come from boiling or trapped air.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
+  },
+  {
+    "id": "ac9s6u04-p-014",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6U04",
+    "bank": "practice",
+    "skill": "material changes",
+    "question": "Steel wool rusts after being damp for days. What evidence supports a new substance in a new class investigation?",
+    "audio_prompt": "Steel wool rusts after being damp for days. What evidence supports a new substance in a new class investigation?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The steel is moved to another bench.",
+        "is_correct": false
+      },
+      {
+        "text": "A reddish-brown material with different properties appears.",
+        "is_correct": true
+      },
+      {
+        "text": "The steel is weighed once before the test.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A reddish-brown material with different properties appears.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
+  },
+  {
+    "id": "ac9s6u04-p-015",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6U04",
+    "bank": "practice",
+    "skill": "material changes",
+    "question": "Wax melts near heat and solidifies when cooled. What is the best classification in a new class investigation?",
+    "audio_prompt": "Wax melts near heat and solidifies when cooled. What is the best classification in a new class investigation?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Irreversible chemical change.",
+        "is_correct": false
+      },
+      {
+        "text": "Dissolving into a solution.",
+        "is_correct": false
+      },
+      {
+        "text": "Reversible physical change.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Reversible physical change.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
+  },
+  {
+    "id": "ac9s6u04-p-016",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6U04",
+    "bank": "practice",
+    "skill": "material changes",
+    "question": "A cake batter becomes a baked cake. Why is reversing it not practical in a new class investigation?",
+    "audio_prompt": "A cake batter becomes a baked cake. Why is reversing it not practical in a new class investigation?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Cooking produces new materials and structure.",
+        "is_correct": true
+      },
+      {
+        "text": "It is only a change of container.",
+        "is_correct": false
+      },
+      {
+        "text": "It can be undone by cooling overnight.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Cooking produces new materials and structure.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
+  },
+  {
+    "id": "ac9s6u04-p-017",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6U04",
+    "bank": "practice",
+    "skill": "material changes",
+    "question": "Ice melts on a plate and later freezes again. What type of change is this after students review their evidence?",
+    "audio_prompt": "Ice melts on a plate and later freezes again. What type of change is this after students review their evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "An irreversible chemical change.",
+        "is_correct": false
+      },
+      {
+        "text": "A reversible change of state.",
+        "is_correct": true
+      },
+      {
+        "text": "A new substance forming.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A reversible change of state.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
+  },
+  {
+    "id": "ac9s6u04-p-018",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6U04",
+    "bank": "practice",
+    "skill": "material changes",
+    "question": "Toast burns and turns black. Why is this usually irreversible after students review their evidence?",
+    "audio_prompt": "Toast burns and turns black. Why is this usually irreversible after students review their evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The bread simply changed position.",
+        "is_correct": false
+      },
+      {
+        "text": "Cooling it will turn it back into fresh bread.",
+        "is_correct": false
+      },
+      {
+        "text": "New substances with different properties form.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "New substances with different properties form.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
+  },
+  {
+    "id": "ac9s6u04-p-019",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6U04",
+    "bank": "practice",
+    "skill": "material changes",
+    "question": "Salt dissolves in water. What happened to the salt after students review their evidence?",
+    "audio_prompt": "Salt dissolves in water. What happened to the salt after students review their evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Its particles spread through the water; it did not disappear.",
+        "is_correct": true
+      },
+      {
+        "text": "It stopped existing.",
+        "is_correct": false
+      },
+      {
+        "text": "It changed into oxygen gas.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Its particles spread through the water; it did not disappear.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
+  },
+  {
+    "id": "ac9s6u04-p-020",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6U04",
+    "bank": "practice",
+    "skill": "material changes",
+    "question": "Which process could recover salt from salty water after students review their evidence?",
+    "audio_prompt": "Which process could recover salt from salty water after students review their evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Burning the water.",
+        "is_correct": false
+      },
+      {
+        "text": "Evaporation.",
+        "is_correct": true
+      },
+      {
+        "text": "Adding food colouring.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Evaporation.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
+  },
+  {
+    "id": "ac9s6u04-p-021",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6U04",
+    "bank": "practice",
+    "skill": "material changes",
+    "question": "Why do bubbles alone not prove a chemical change after students review their evidence?",
+    "audio_prompt": "Why do bubbles alone not prove a chemical change after students review their evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Bubbles always mean rusting.",
+        "is_correct": false
+      },
+      {
+        "text": "Bubbles prove the material vanished.",
+        "is_correct": false
+      },
+      {
+        "text": "Bubbles can also come from boiling or trapped air.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Bubbles can also come from boiling or trapped air.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
+  },
+  {
+    "id": "ac9s6u04-p-022",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6U04",
+    "bank": "practice",
+    "skill": "material changes",
+    "question": "Steel wool rusts after being damp for days. What evidence supports a new substance after students review their evidence?",
+    "audio_prompt": "Steel wool rusts after being damp for days. What evidence supports a new substance after students review their evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A reddish-brown material with different properties appears.",
+        "is_correct": true
+      },
+      {
+        "text": "The steel is moved to another bench.",
+        "is_correct": false
+      },
+      {
+        "text": "The steel is weighed once before the test.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A reddish-brown material with different properties appears.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
+  },
+  {
+    "id": "ac9s6u04-p-023",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6U04",
+    "bank": "practice",
+    "skill": "material changes",
+    "question": "Wax melts near heat and solidifies when cooled. What is the best classification after students review their evidence?",
+    "audio_prompt": "Wax melts near heat and solidifies when cooled. What is the best classification after students review their evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Irreversible chemical change.",
+        "is_correct": false
+      },
+      {
+        "text": "Reversible physical change.",
+        "is_correct": true
+      },
+      {
+        "text": "Dissolving into a solution.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Reversible physical change.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
+  },
+  {
+    "id": "ac9s6u04-p-024",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6U04",
+    "bank": "practice",
+    "skill": "material changes",
+    "question": "A cake batter becomes a baked cake. Why is reversing it not practical after students review their evidence?",
+    "audio_prompt": "A cake batter becomes a baked cake. Why is reversing it not practical after students review their evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is only a change of container.",
+        "is_correct": false
+      },
+      {
+        "text": "It can be undone by cooling overnight.",
+        "is_correct": false
+      },
+      {
+        "text": "Cooking produces new materials and structure.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Cooking produces new materials and structure.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
+  },
+  {
+    "id": "ac9s6u04-t-001",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6U04",
+    "bank": "test",
+    "skill": "material changes",
+    "question": "A different class checks the same science idea: A cake batter becomes a baked cake. Why is reversing it not practical?",
+    "audio_prompt": "A different class checks the same science idea: A cake batter becomes a baked cake. Why is reversing it not practical?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Cooking produces new materials and structure.",
+        "is_correct": true
+      },
+      {
+        "text": "It is only a change of container.",
+        "is_correct": false
+      },
+      {
+        "text": "It can be undone by cooling overnight.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Cooking produces new materials and structure.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
+  },
+  {
+    "id": "ac9s6u04-t-002",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6U04",
+    "bank": "test",
+    "skill": "material changes",
+    "question": "A different class checks the same science idea: Wax melts near heat and solidifies when cooled. What is the best classification?",
+    "audio_prompt": "A different class checks the same science idea: Wax melts near heat and solidifies when cooled. What is the best classification?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Irreversible chemical change.",
+        "is_correct": false
+      },
+      {
+        "text": "Reversible physical change.",
+        "is_correct": true
+      },
+      {
+        "text": "Dissolving into a solution.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Reversible physical change.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
+  },
+  {
+    "id": "ac9s6u04-t-003",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6U04",
+    "bank": "test",
+    "skill": "material changes",
+    "question": "A different class checks the same science idea: Steel wool rusts after being damp for days. What evidence supports a new substance?",
+    "audio_prompt": "A different class checks the same science idea: Steel wool rusts after being damp for days. What evidence supports a new substance?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The steel is moved to another bench.",
+        "is_correct": false
+      },
+      {
+        "text": "The steel is weighed once before the test.",
+        "is_correct": false
+      },
+      {
+        "text": "A reddish-brown material with different properties appears.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A reddish-brown material with different properties appears.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
+  },
+  {
+    "id": "ac9s6u04-t-004",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6U04",
+    "bank": "test",
+    "skill": "material changes",
+    "question": "A different class checks the same science idea: Why do bubbles alone not prove a chemical change?",
+    "audio_prompt": "A different class checks the same science idea: Why do bubbles alone not prove a chemical change?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Bubbles can also come from boiling or trapped air.",
+        "is_correct": true
+      },
+      {
+        "text": "Bubbles always mean rusting.",
+        "is_correct": false
+      },
+      {
+        "text": "Bubbles prove the material vanished.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Bubbles can also come from boiling or trapped air.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
+  },
+  {
+    "id": "ac9s6u04-t-005",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6U04",
+    "bank": "test",
+    "skill": "material changes",
+    "question": "A different class checks the same science idea: Which process could recover salt from salty water?",
+    "audio_prompt": "A different class checks the same science idea: Which process could recover salt from salty water?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Burning the water.",
+        "is_correct": false
+      },
+      {
+        "text": "Evaporation.",
+        "is_correct": true
+      },
+      {
+        "text": "Adding food colouring.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Evaporation.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
+  },
+  {
+    "id": "ac9s6u04-t-006",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6U04",
+    "bank": "test",
+    "skill": "material changes",
+    "question": "A different class checks the same science idea: Salt dissolves in water. What happened to the salt?",
+    "audio_prompt": "A different class checks the same science idea: Salt dissolves in water. What happened to the salt?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It stopped existing.",
+        "is_correct": false
+      },
+      {
+        "text": "It changed into oxygen gas.",
+        "is_correct": false
+      },
+      {
+        "text": "Its particles spread through the water; it did not disappear.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Its particles spread through the water; it did not disappear.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
+  },
+  {
+    "id": "ac9s6u04-t-007",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6U04",
+    "bank": "test",
+    "skill": "material changes",
+    "question": "A different class checks the same science idea: Toast burns and turns black. Why is this usually irreversible?",
+    "audio_prompt": "A different class checks the same science idea: Toast burns and turns black. Why is this usually irreversible?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "New substances with different properties form.",
+        "is_correct": true
+      },
+      {
+        "text": "The bread simply changed position.",
+        "is_correct": false
+      },
+      {
+        "text": "Cooling it will turn it back into fresh bread.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "New substances with different properties form.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
+  },
+  {
+    "id": "ac9s6u04-t-008",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6U04",
+    "bank": "test",
+    "skill": "material changes",
+    "question": "A different class checks the same science idea: Ice melts on a plate and later freezes again. What type of change is this?",
+    "audio_prompt": "A different class checks the same science idea: Ice melts on a plate and later freezes again. What type of change is this?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "An irreversible chemical change.",
+        "is_correct": false
+      },
+      {
+        "text": "A reversible change of state.",
+        "is_correct": true
+      },
+      {
+        "text": "A new substance forming.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A reversible change of state.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
+  },
+  {
+    "id": "ac9s6u04-t-009",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6U04",
+    "bank": "test",
+    "skill": "material changes",
+    "question": "A follow-up test asks: A cake batter becomes a baked cake. Why is reversing it not practical?",
+    "audio_prompt": "A follow-up test asks: A cake batter becomes a baked cake. Why is reversing it not practical?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is only a change of container.",
+        "is_correct": false
+      },
+      {
+        "text": "It can be undone by cooling overnight.",
+        "is_correct": false
+      },
+      {
+        "text": "Cooking produces new materials and structure.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Cooking produces new materials and structure.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
+  },
+  {
+    "id": "ac9s6u04-t-010",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6U04",
+    "bank": "test",
+    "skill": "material changes",
+    "question": "A follow-up test asks: Wax melts near heat and solidifies when cooled. What is the best classification?",
+    "audio_prompt": "A follow-up test asks: Wax melts near heat and solidifies when cooled. What is the best classification?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Reversible physical change.",
+        "is_correct": true
+      },
+      {
+        "text": "Irreversible chemical change.",
+        "is_correct": false
+      },
+      {
+        "text": "Dissolving into a solution.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Reversible physical change.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
+  },
+  {
+    "id": "ac9s6u04-t-011",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6U04",
+    "bank": "test",
+    "skill": "material changes",
+    "question": "A follow-up test asks: Steel wool rusts after being damp for days. What evidence supports a new substance?",
+    "audio_prompt": "A follow-up test asks: Steel wool rusts after being damp for days. What evidence supports a new substance?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The steel is moved to another bench.",
+        "is_correct": false
+      },
+      {
+        "text": "A reddish-brown material with different properties appears.",
+        "is_correct": true
+      },
+      {
+        "text": "The steel is weighed once before the test.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A reddish-brown material with different properties appears.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
+  },
+  {
+    "id": "ac9s6u04-t-012",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6U04",
+    "bank": "test",
+    "skill": "material changes",
+    "question": "A follow-up test asks: Why do bubbles alone not prove a chemical change?",
+    "audio_prompt": "A follow-up test asks: Why do bubbles alone not prove a chemical change?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Bubbles always mean rusting.",
+        "is_correct": false
+      },
+      {
+        "text": "Bubbles prove the material vanished.",
+        "is_correct": false
+      },
+      {
+        "text": "Bubbles can also come from boiling or trapped air.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Bubbles can also come from boiling or trapped air.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
+  },
+  {
+    "id": "ac9s6u04-t-013",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6U04",
+    "bank": "test",
+    "skill": "material changes",
+    "question": "A follow-up test asks: Which process could recover salt from salty water?",
+    "audio_prompt": "A follow-up test asks: Which process could recover salt from salty water?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Evaporation.",
+        "is_correct": true
+      },
+      {
+        "text": "Burning the water.",
+        "is_correct": false
+      },
+      {
+        "text": "Adding food colouring.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Evaporation.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
+  },
+  {
+    "id": "ac9s6u04-t-014",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6U04",
+    "bank": "test",
+    "skill": "material changes",
+    "question": "A follow-up test asks: Salt dissolves in water. What happened to the salt?",
+    "audio_prompt": "A follow-up test asks: Salt dissolves in water. What happened to the salt?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It stopped existing.",
+        "is_correct": false
+      },
+      {
+        "text": "Its particles spread through the water; it did not disappear.",
+        "is_correct": true
+      },
+      {
+        "text": "It changed into oxygen gas.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Its particles spread through the water; it did not disappear.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
+  },
+  {
+    "id": "ac9s6u04-t-015",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6U04",
+    "bank": "test",
+    "skill": "material changes",
+    "question": "A follow-up test asks: Toast burns and turns black. Why is this usually irreversible?",
+    "audio_prompt": "A follow-up test asks: Toast burns and turns black. Why is this usually irreversible?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The bread simply changed position.",
+        "is_correct": false
+      },
+      {
+        "text": "Cooling it will turn it back into fresh bread.",
+        "is_correct": false
+      },
+      {
+        "text": "New substances with different properties form.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "New substances with different properties form.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
+  },
+  {
+    "id": "ac9s6u04-t-016",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6U04",
+    "bank": "test",
+    "skill": "material changes",
+    "question": "A follow-up test asks: Ice melts on a plate and later freezes again. What type of change is this?",
+    "audio_prompt": "A follow-up test asks: Ice melts on a plate and later freezes again. What type of change is this?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A reversible change of state.",
+        "is_correct": true
+      },
+      {
+        "text": "An irreversible chemical change.",
+        "is_correct": false
+      },
+      {
+        "text": "A new substance forming.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A reversible change of state.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
+  }
+]

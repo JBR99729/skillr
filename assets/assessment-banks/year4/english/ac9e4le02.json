@@ -1,0 +1,1682 @@
+[
+  {
+    "id": "AC9E4LE02-P-001",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE02",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "Responding to Literature",
+    "question": "In a story that begins with the ending and then returns to earlier events, which option best demonstrates the skill?",
+    "audio_prompt": "In a story that begins with the ending and then returns to earlier events, which option best demonstrates the skill?",
+    "answers": [
+      {
+        "text": "The story has no structure because time changes.",
+        "is_correct": false
+      },
+      {
+        "text": "The flashback makes me curious about how the characters reached the opening moment.",
+        "is_correct": true
+      },
+      {
+        "text": "The only effect is that the text becomes longer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A flashback changes the order of events and can create curiosity by withholding causes.",
+      "hint": "Name the feature and connect it to your response."
+    }
+  },
+  {
+    "id": "AC9E4LE02-P-002",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE02",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "Responding to Literature",
+    "question": "Which choice fits a story that begins with the ending and then returns to earlier events most accurately?",
+    "audio_prompt": "Which choice fits a story that begins with the ending and then returns to earlier events most accurately?",
+    "answers": [
+      {
+        "text": "The story has no structure because time changes.",
+        "is_correct": false
+      },
+      {
+        "text": "The only effect is that the text becomes longer.",
+        "is_correct": false
+      },
+      {
+        "text": "The flashback makes me curious about how the characters reached the opening moment.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A flashback changes the order of events and can create curiosity by withholding causes.",
+      "hint": "Name the feature and connect it to your response."
+    }
+  },
+  {
+    "id": "AC9E4LE02-P-003",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE02",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "Responding to Literature",
+    "question": "Which choice fits a scene using short sentences during a chase most accurately?",
+    "audio_prompt": "Which choice fits a scene using short sentences during a chase most accurately?",
+    "answers": [
+      {
+        "text": "The short sentences speed the pace and increase tension.",
+        "is_correct": true
+      },
+      {
+        "text": "Short sentences always make a scene calm.",
+        "is_correct": false
+      },
+      {
+        "text": "Sentence length never affects a reader.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Rapid sentence boundaries can make action feel urgent.",
+      "hint": "Explain how the language choice changes pace or feeling."
+    }
+  },
+  {
+    "id": "AC9E4LE02-P-004",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE02",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "Responding to Literature",
+    "question": "Look closely at a scene using short sentences during a chase. Which response or wording works best?",
+    "audio_prompt": "Look closely at a scene using short sentences during a chase. Which response or wording works best?",
+    "answers": [
+      {
+        "text": "Short sentences always make a scene calm.",
+        "is_correct": false
+      },
+      {
+        "text": "The short sentences speed the pace and increase tension.",
+        "is_correct": true
+      },
+      {
+        "text": "Sentence length never affects a reader.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Rapid sentence boundaries can make action feel urgent.",
+      "hint": "Explain how the language choice changes pace or feeling."
+    }
+  },
+  {
+    "id": "AC9E4LE02-P-005",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE02",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "Responding to Literature",
+    "question": "Look closely at a poem repeating the words “still we wait”. Which response or wording works best?",
+    "audio_prompt": "Look closely at a poem repeating the words “still we wait”. Which response or wording works best?",
+    "answers": [
+      {
+        "text": "The repeated words have no effect because they are the same.",
+        "is_correct": false
+      },
+      {
+        "text": "Repetition only fixes spelling.",
+        "is_correct": false
+      },
+      {
+        "text": "The repetition emphasises patience and makes the waiting feel important.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Repeated wording can foreground an idea and create rhythm.",
+      "hint": "Ask why the writer wants the reader to notice these words again."
+    }
+  },
+  {
+    "id": "AC9E4LE02-P-006",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE02",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "Responding to Literature",
+    "question": "For a poem repeating the words “still we wait”, which option is the strongest match?",
+    "audio_prompt": "For a poem repeating the words “still we wait”, which option is the strongest match?",
+    "answers": [
+      {
+        "text": "The repetition emphasises patience and makes the waiting feel important.",
+        "is_correct": true
+      },
+      {
+        "text": "The repeated words have no effect because they are the same.",
+        "is_correct": false
+      },
+      {
+        "text": "Repetition only fixes spelling.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Repeated wording can foreground an idea and create rhythm.",
+      "hint": "Ask why the writer wants the reader to notice these words again."
+    }
+  },
+  {
+    "id": "AC9E4LE02-P-007",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE02",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "Responding to Literature",
+    "question": "For a story resolving its main conflict in the final paragraph, which option is the strongest match?",
+    "audio_prompt": "For a story resolving its main conflict in the final paragraph, which option is the strongest match?",
+    "answers": [
+      {
+        "text": "The resolution creates the complication.",
+        "is_correct": false
+      },
+      {
+        "text": "The resolution gives a sense of closure because the central problem is settled.",
+        "is_correct": true
+      },
+      {
+        "text": "A resolution is only the title.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The resolution stage shows what happens to the central problem.",
+      "hint": "Link the structural stage to the feeling it creates."
+    }
+  },
+  {
+    "id": "AC9E4LE02-P-008",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE02",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "Responding to Literature",
+    "question": "Which example should you choose for a story resolving its main conflict in the final paragraph?",
+    "audio_prompt": "Which example should you choose for a story resolving its main conflict in the final paragraph?",
+    "answers": [
+      {
+        "text": "The resolution creates the complication.",
+        "is_correct": false
+      },
+      {
+        "text": "A resolution is only the title.",
+        "is_correct": false
+      },
+      {
+        "text": "The resolution gives a sense of closure because the central problem is settled.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The resolution stage shows what happens to the central problem.",
+      "hint": "Link the structural stage to the feeling it creates."
+    }
+  },
+  {
+    "id": "AC9E4LE02-P-009",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE02",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "Responding to Literature",
+    "question": "Which example should you choose for a paragraph describing a dark, silent house before a character enters?",
+    "audio_prompt": "Which example should you choose for a paragraph describing a dark, silent house before a character enters?",
+    "answers": [
+      {
+        "text": "The sensory details create an uneasy mood before anything happens.",
+        "is_correct": true
+      },
+      {
+        "text": "The description proves the house is dangerous.",
+        "is_correct": false
+      },
+      {
+        "text": "Description cannot influence mood.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Language can prepare a reader emotionally without proving what will happen.",
+      "hint": "Separate the effect on the reader from a claim that the text has not established."
+    }
+  },
+  {
+    "id": "AC9E4LE02-P-010",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE02",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "Responding to Literature",
+    "question": "In a paragraph describing a dark, silent house before a character enters, which option best demonstrates the skill?",
+    "audio_prompt": "In a paragraph describing a dark, silent house before a character enters, which option best demonstrates the skill?",
+    "answers": [
+      {
+        "text": "The description proves the house is dangerous.",
+        "is_correct": false
+      },
+      {
+        "text": "The sensory details create an uneasy mood before anything happens.",
+        "is_correct": true
+      },
+      {
+        "text": "Description cannot influence mood.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Language can prepare a reader emotionally without proving what will happen.",
+      "hint": "Separate the effect on the reader from a claim that the text has not established."
+    }
+  },
+  {
+    "id": "AC9E4LE02-P-011",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE02",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "Responding to Literature",
+    "question": "Why does “The flashback makes me curious about how the characters reached the opening moment.” work well for a story that begins with the ending and then returns to earlier events?",
+    "audio_prompt": "Why does “The flashback makes me curious about how the characters reached the opening moment.” work well for a story that begins with the ending and then returns to earlier events?",
+    "answers": [
+      {
+        "text": "Because “The story has no structure because time changes.” is always acceptable in this situation.",
+        "is_correct": false
+      },
+      {
+        "text": "Because the longest or most complicated option must be correct.",
+        "is_correct": false
+      },
+      {
+        "text": "A flashback changes the order of events and can create curiosity by withholding causes.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A flashback changes the order of events and can create curiosity by withholding causes.",
+      "hint": "Name the feature and connect it to your response."
+    }
+  },
+  {
+    "id": "AC9E4LE02-P-012",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE02",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "Responding to Literature",
+    "question": "What makes “The flashback makes me curious about how the characters reached the opening moment.” a better choice in a story that begins with the ending and then returns to earlier events?",
+    "audio_prompt": "What makes “The flashback makes me curious about how the characters reached the opening moment.” a better choice in a story that begins with the ending and then returns to earlier events?",
+    "answers": [
+      {
+        "text": "A flashback changes the order of events and can create curiosity by withholding causes.",
+        "is_correct": true
+      },
+      {
+        "text": "Because “The story has no structure because time changes.” is always acceptable in this situation.",
+        "is_correct": false
+      },
+      {
+        "text": "Because the longest or most complicated option must be correct.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A flashback changes the order of events and can create curiosity by withholding causes.",
+      "hint": "Name the feature and connect it to your response."
+    }
+  },
+  {
+    "id": "AC9E4LE02-P-013",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE02",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "Responding to Literature",
+    "question": "What makes “The short sentences speed the pace and increase tension.” a better choice in a scene using short sentences during a chase?",
+    "audio_prompt": "What makes “The short sentences speed the pace and increase tension.” a better choice in a scene using short sentences during a chase?",
+    "answers": [
+      {
+        "text": "Because “Short sentences always make a scene calm.” is always acceptable in this situation.",
+        "is_correct": false
+      },
+      {
+        "text": "Rapid sentence boundaries can make action feel urgent.",
+        "is_correct": true
+      },
+      {
+        "text": "Because the longest or most complicated option must be correct.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Rapid sentence boundaries can make action feel urgent.",
+      "hint": "Explain how the language choice changes pace or feeling."
+    }
+  },
+  {
+    "id": "AC9E4LE02-P-014",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE02",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "Responding to Literature",
+    "question": "Which explanation best justifies “The short sentences speed the pace and increase tension.” for a scene using short sentences during a chase?",
+    "audio_prompt": "Which explanation best justifies “The short sentences speed the pace and increase tension.” for a scene using short sentences during a chase?",
+    "answers": [
+      {
+        "text": "Because “Short sentences always make a scene calm.” is always acceptable in this situation.",
+        "is_correct": false
+      },
+      {
+        "text": "Because the longest or most complicated option must be correct.",
+        "is_correct": false
+      },
+      {
+        "text": "Rapid sentence boundaries can make action feel urgent.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Rapid sentence boundaries can make action feel urgent.",
+      "hint": "Explain how the language choice changes pace or feeling."
+    }
+  },
+  {
+    "id": "AC9E4LE02-P-015",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE02",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "Responding to Literature",
+    "question": "Which explanation best justifies “The repetition emphasises patience and makes the waiting feel important.” for a poem repeating the words “still we wait”?",
+    "audio_prompt": "Which explanation best justifies “The repetition emphasises patience and makes the waiting feel important.” for a poem repeating the words “still we wait”?",
+    "answers": [
+      {
+        "text": "Repeated wording can foreground an idea and create rhythm.",
+        "is_correct": true
+      },
+      {
+        "text": "Because “The repeated words have no effect because they are the same.” is always acceptable in this situation.",
+        "is_correct": false
+      },
+      {
+        "text": "Because the longest or most complicated option must be correct.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Repeated wording can foreground an idea and create rhythm.",
+      "hint": "Ask why the writer wants the reader to notice these words again."
+    }
+  },
+  {
+    "id": "AC9E4LE02-P-016",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE02",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "Responding to Literature",
+    "question": "What should you notice about “The repetition emphasises patience and makes the waiting feel important.” in a poem repeating the words “still we wait”?",
+    "audio_prompt": "What should you notice about “The repetition emphasises patience and makes the waiting feel important.” in a poem repeating the words “still we wait”?",
+    "answers": [
+      {
+        "text": "Because “The repeated words have no effect because they are the same.” is always acceptable in this situation.",
+        "is_correct": false
+      },
+      {
+        "text": "Repeated wording can foreground an idea and create rhythm.",
+        "is_correct": true
+      },
+      {
+        "text": "Because the longest or most complicated option must be correct.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Repeated wording can foreground an idea and create rhythm.",
+      "hint": "Ask why the writer wants the reader to notice these words again."
+    }
+  },
+  {
+    "id": "AC9E4LE02-P-017",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE02",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "Responding to Literature",
+    "question": "What should you notice about “The resolution gives a sense of closure because the central problem is settled.” in a story resolving its main conflict in the final paragraph?",
+    "audio_prompt": "What should you notice about “The resolution gives a sense of closure because the central problem is settled.” in a story resolving its main conflict in the final paragraph?",
+    "answers": [
+      {
+        "text": "Because “The resolution creates the complication.” is always acceptable in this situation.",
+        "is_correct": false
+      },
+      {
+        "text": "Because the longest or most complicated option must be correct.",
+        "is_correct": false
+      },
+      {
+        "text": "The resolution stage shows what happens to the central problem.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The resolution stage shows what happens to the central problem.",
+      "hint": "Link the structural stage to the feeling it creates."
+    }
+  },
+  {
+    "id": "AC9E4LE02-P-018",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE02",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "Responding to Literature",
+    "question": "Which reason explains why “The resolution gives a sense of closure because the central problem is settled.” suits a story resolving its main conflict in the final paragraph?",
+    "audio_prompt": "Which reason explains why “The resolution gives a sense of closure because the central problem is settled.” suits a story resolving its main conflict in the final paragraph?",
+    "answers": [
+      {
+        "text": "The resolution stage shows what happens to the central problem.",
+        "is_correct": true
+      },
+      {
+        "text": "Because “The resolution creates the complication.” is always acceptable in this situation.",
+        "is_correct": false
+      },
+      {
+        "text": "Because the longest or most complicated option must be correct.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The resolution stage shows what happens to the central problem.",
+      "hint": "Link the structural stage to the feeling it creates."
+    }
+  },
+  {
+    "id": "AC9E4LE02-P-019",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE02",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "Responding to Literature",
+    "question": "Which reason explains why “The sensory details create an uneasy mood before anything happens.” suits a paragraph describing a dark, silent house before a character enters?",
+    "audio_prompt": "Which reason explains why “The sensory details create an uneasy mood before anything happens.” suits a paragraph describing a dark, silent house before a character enters?",
+    "answers": [
+      {
+        "text": "Because “The description proves the house is dangerous.” is always acceptable in this situation.",
+        "is_correct": false
+      },
+      {
+        "text": "Language can prepare a reader emotionally without proving what will happen.",
+        "is_correct": true
+      },
+      {
+        "text": "Because the longest or most complicated option must be correct.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Language can prepare a reader emotionally without proving what will happen.",
+      "hint": "Separate the effect on the reader from a claim that the text has not established."
+    }
+  },
+  {
+    "id": "AC9E4LE02-P-020",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE02",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "Responding to Literature",
+    "question": "Why does “The sensory details create an uneasy mood before anything happens.” work well for a paragraph describing a dark, silent house before a character enters?",
+    "audio_prompt": "Why does “The sensory details create an uneasy mood before anything happens.” work well for a paragraph describing a dark, silent house before a character enters?",
+    "answers": [
+      {
+        "text": "Because “The description proves the house is dangerous.” is always acceptable in this situation.",
+        "is_correct": false
+      },
+      {
+        "text": "Because the longest or most complicated option must be correct.",
+        "is_correct": false
+      },
+      {
+        "text": "Language can prepare a reader emotionally without proving what will happen.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Language can prepare a reader emotionally without proving what will happen.",
+      "hint": "Separate the effect on the reader from a claim that the text has not established."
+    }
+  },
+  {
+    "id": "AC9E4LE02-P-021",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE02",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "Responding to Literature",
+    "question": "Which revision best fixes the problem in “The story has no structure because time changes.” for a story that begins with the ending and then returns to earlier events?",
+    "audio_prompt": "Which revision best fixes the problem in “The story has no structure because time changes.” for a story that begins with the ending and then returns to earlier events?",
+    "answers": [
+      {
+        "text": "The flashback makes me curious about how the characters reached the opening moment.",
+        "is_correct": true
+      },
+      {
+        "text": "The story has no structure because time changes.",
+        "is_correct": false
+      },
+      {
+        "text": "The only effect is that the text becomes longer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A flashback changes the order of events and can create curiosity by withholding causes. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Name the feature and connect it to your response."
+    }
+  },
+  {
+    "id": "AC9E4LE02-P-022",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE02",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "Responding to Literature",
+    "question": "Compare the choices for a story that begins with the ending and then returns to earlier events. Which one avoids the mistake in “The story has no structure because time changes.”?",
+    "audio_prompt": "Compare the choices for a story that begins with the ending and then returns to earlier events. Which one avoids the mistake in “The story has no structure because time changes.”?",
+    "answers": [
+      {
+        "text": "The story has no structure because time changes.",
+        "is_correct": false
+      },
+      {
+        "text": "The flashback makes me curious about how the characters reached the opening moment.",
+        "is_correct": true
+      },
+      {
+        "text": "The only effect is that the text becomes longer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A flashback changes the order of events and can create curiosity by withholding causes. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Name the feature and connect it to your response."
+    }
+  },
+  {
+    "id": "AC9E4LE02-P-023",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE02",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "Responding to Literature",
+    "question": "Compare the choices for a scene using short sentences during a chase. Which one avoids the mistake in “Short sentences always make a scene calm.”?",
+    "audio_prompt": "Compare the choices for a scene using short sentences during a chase. Which one avoids the mistake in “Short sentences always make a scene calm.”?",
+    "answers": [
+      {
+        "text": "Short sentences always make a scene calm.",
+        "is_correct": false
+      },
+      {
+        "text": "Sentence length never affects a reader.",
+        "is_correct": false
+      },
+      {
+        "text": "The short sentences speed the pace and increase tension.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Rapid sentence boundaries can make action feel urgent. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Explain how the language choice changes pace or feeling."
+    }
+  },
+  {
+    "id": "AC9E4LE02-P-024",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE02",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "Responding to Literature",
+    "question": "If “Short sentences always make a scene calm.” does not work in a scene using short sentences during a chase, what should replace it?",
+    "audio_prompt": "If “Short sentences always make a scene calm.” does not work in a scene using short sentences during a chase, what should replace it?",
+    "answers": [
+      {
+        "text": "The short sentences speed the pace and increase tension.",
+        "is_correct": true
+      },
+      {
+        "text": "Short sentences always make a scene calm.",
+        "is_correct": false
+      },
+      {
+        "text": "Sentence length never affects a reader.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Rapid sentence boundaries can make action feel urgent. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Explain how the language choice changes pace or feeling."
+    }
+  },
+  {
+    "id": "AC9E4LE02-P-025",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE02",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "Responding to Literature",
+    "question": "If “The repeated words have no effect because they are the same.” does not work in a poem repeating the words “still we wait”, what should replace it?",
+    "audio_prompt": "If “The repeated words have no effect because they are the same.” does not work in a poem repeating the words “still we wait”, what should replace it?",
+    "answers": [
+      {
+        "text": "The repeated words have no effect because they are the same.",
+        "is_correct": false
+      },
+      {
+        "text": "The repetition emphasises patience and makes the waiting feel important.",
+        "is_correct": true
+      },
+      {
+        "text": "Repetition only fixes spelling.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Repeated wording can foreground an idea and create rhythm. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Ask why the writer wants the reader to notice these words again."
+    }
+  },
+  {
+    "id": "AC9E4LE02-P-026",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE02",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "Responding to Literature",
+    "question": "Which option corrects the meaning or form needed for a poem repeating the words “still we wait”?",
+    "audio_prompt": "Which option corrects the meaning or form needed for a poem repeating the words “still we wait”?",
+    "answers": [
+      {
+        "text": "The repeated words have no effect because they are the same.",
+        "is_correct": false
+      },
+      {
+        "text": "Repetition only fixes spelling.",
+        "is_correct": false
+      },
+      {
+        "text": "The repetition emphasises patience and makes the waiting feel important.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Repeated wording can foreground an idea and create rhythm. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Ask why the writer wants the reader to notice these words again."
+    }
+  },
+  {
+    "id": "AC9E4LE02-P-027",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE02",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "Responding to Literature",
+    "question": "Which option corrects the meaning or form needed for a story resolving its main conflict in the final paragraph?",
+    "audio_prompt": "Which option corrects the meaning or form needed for a story resolving its main conflict in the final paragraph?",
+    "answers": [
+      {
+        "text": "The resolution gives a sense of closure because the central problem is settled.",
+        "is_correct": true
+      },
+      {
+        "text": "The resolution creates the complication.",
+        "is_correct": false
+      },
+      {
+        "text": "A resolution is only the title.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The resolution stage shows what happens to the central problem. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Link the structural stage to the feeling it creates."
+    }
+  },
+  {
+    "id": "AC9E4LE02-P-028",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE02",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "Responding to Literature",
+    "question": "Which choice is the clearest correction for a story resolving its main conflict in the final paragraph?",
+    "audio_prompt": "Which choice is the clearest correction for a story resolving its main conflict in the final paragraph?",
+    "answers": [
+      {
+        "text": "The resolution creates the complication.",
+        "is_correct": false
+      },
+      {
+        "text": "The resolution gives a sense of closure because the central problem is settled.",
+        "is_correct": true
+      },
+      {
+        "text": "A resolution is only the title.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The resolution stage shows what happens to the central problem. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Link the structural stage to the feeling it creates."
+    }
+  },
+  {
+    "id": "AC9E4LE02-P-029",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE02",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "Responding to Literature",
+    "question": "Which choice is the clearest correction for a paragraph describing a dark, silent house before a character enters?",
+    "audio_prompt": "Which choice is the clearest correction for a paragraph describing a dark, silent house before a character enters?",
+    "answers": [
+      {
+        "text": "The description proves the house is dangerous.",
+        "is_correct": false
+      },
+      {
+        "text": "Description cannot influence mood.",
+        "is_correct": false
+      },
+      {
+        "text": "The sensory details create an uneasy mood before anything happens.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Language can prepare a reader emotionally without proving what will happen. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Separate the effect on the reader from a claim that the text has not established."
+    }
+  },
+  {
+    "id": "AC9E4LE02-P-030",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE02",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "Responding to Literature",
+    "question": "Which revision best fixes the problem in “The description proves the house is dangerous.” for a paragraph describing a dark, silent house before a character enters?",
+    "audio_prompt": "Which revision best fixes the problem in “The description proves the house is dangerous.” for a paragraph describing a dark, silent house before a character enters?",
+    "answers": [
+      {
+        "text": "The sensory details create an uneasy mood before anything happens.",
+        "is_correct": true
+      },
+      {
+        "text": "The description proves the house is dangerous.",
+        "is_correct": false
+      },
+      {
+        "text": "Description cannot influence mood.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Language can prepare a reader emotionally without proving what will happen. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Separate the effect on the reader from a claim that the text has not established."
+    }
+  },
+  {
+    "id": "AC9E4LE02-P-031",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE02",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Responding to Literature",
+    "question": "You now need to handle a story that begins with the ending and then returns to earlier events independently. Which choice should you use?",
+    "audio_prompt": "You now need to handle a story that begins with the ending and then returns to earlier events independently. Which choice should you use?",
+    "answers": [
+      {
+        "text": "The only effect is that the text becomes longer.",
+        "is_correct": false
+      },
+      {
+        "text": "The flashback makes me curious about how the characters reached the opening moment.",
+        "is_correct": true
+      },
+      {
+        "text": "The story has no structure because time changes.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A flashback changes the order of events and can create curiosity by withholding causes.",
+      "hint": "Name the feature and connect it to your response."
+    }
+  },
+  {
+    "id": "AC9E4LE02-P-032",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE02",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Responding to Literature",
+    "question": "Apply the same idea to a story that begins with the ending and then returns to earlier events. Which option is best?",
+    "audio_prompt": "Apply the same idea to a story that begins with the ending and then returns to earlier events. Which option is best?",
+    "answers": [
+      {
+        "text": "The only effect is that the text becomes longer.",
+        "is_correct": false
+      },
+      {
+        "text": "The story has no structure because time changes.",
+        "is_correct": false
+      },
+      {
+        "text": "The flashback makes me curious about how the characters reached the opening moment.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A flashback changes the order of events and can create curiosity by withholding causes.",
+      "hint": "Name the feature and connect it to your response."
+    }
+  },
+  {
+    "id": "AC9E4LE02-P-033",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE02",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Responding to Literature",
+    "question": "Apply the same idea to a scene using short sentences during a chase. Which option is best?",
+    "audio_prompt": "Apply the same idea to a scene using short sentences during a chase. Which option is best?",
+    "answers": [
+      {
+        "text": "The short sentences speed the pace and increase tension.",
+        "is_correct": true
+      },
+      {
+        "text": "Sentence length never affects a reader.",
+        "is_correct": false
+      },
+      {
+        "text": "Short sentences always make a scene calm.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Rapid sentence boundaries can make action feel urgent.",
+      "hint": "Explain how the language choice changes pace or feeling."
+    }
+  },
+  {
+    "id": "AC9E4LE02-P-034",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE02",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Responding to Literature",
+    "question": "Which decision would produce the clearest result in a scene using short sentences during a chase?",
+    "audio_prompt": "Which decision would produce the clearest result in a scene using short sentences during a chase?",
+    "answers": [
+      {
+        "text": "Sentence length never affects a reader.",
+        "is_correct": false
+      },
+      {
+        "text": "The short sentences speed the pace and increase tension.",
+        "is_correct": true
+      },
+      {
+        "text": "Short sentences always make a scene calm.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Rapid sentence boundaries can make action feel urgent.",
+      "hint": "Explain how the language choice changes pace or feeling."
+    }
+  },
+  {
+    "id": "AC9E4LE02-P-035",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE02",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Responding to Literature",
+    "question": "Which decision would produce the clearest result in a poem repeating the words “still we wait”?",
+    "audio_prompt": "Which decision would produce the clearest result in a poem repeating the words “still we wait”?",
+    "answers": [
+      {
+        "text": "Repetition only fixes spelling.",
+        "is_correct": false
+      },
+      {
+        "text": "The repeated words have no effect because they are the same.",
+        "is_correct": false
+      },
+      {
+        "text": "The repetition emphasises patience and makes the waiting feel important.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Repeated wording can foreground an idea and create rhythm.",
+      "hint": "Ask why the writer wants the reader to notice these words again."
+    }
+  },
+  {
+    "id": "AC9E4LE02-P-036",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE02",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Responding to Literature",
+    "question": "Choose the option that applies the skill correctly in a poem repeating the words “still we wait”.",
+    "audio_prompt": "Choose the option that applies the skill correctly in a poem repeating the words “still we wait”.",
+    "answers": [
+      {
+        "text": "The repetition emphasises patience and makes the waiting feel important.",
+        "is_correct": true
+      },
+      {
+        "text": "Repetition only fixes spelling.",
+        "is_correct": false
+      },
+      {
+        "text": "The repeated words have no effect because they are the same.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Repeated wording can foreground an idea and create rhythm.",
+      "hint": "Ask why the writer wants the reader to notice these words again."
+    }
+  },
+  {
+    "id": "AC9E4LE02-P-037",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE02",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Responding to Literature",
+    "question": "Choose the option that applies the skill correctly in a story resolving its main conflict in the final paragraph.",
+    "audio_prompt": "Choose the option that applies the skill correctly in a story resolving its main conflict in the final paragraph.",
+    "answers": [
+      {
+        "text": "A resolution is only the title.",
+        "is_correct": false
+      },
+      {
+        "text": "The resolution gives a sense of closure because the central problem is settled.",
+        "is_correct": true
+      },
+      {
+        "text": "The resolution creates the complication.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The resolution stage shows what happens to the central problem.",
+      "hint": "Link the structural stage to the feeling it creates."
+    }
+  },
+  {
+    "id": "AC9E4LE02-P-038",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE02",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Responding to Literature",
+    "question": "What would be the most effective choice for a story resolving its main conflict in the final paragraph?",
+    "audio_prompt": "What would be the most effective choice for a story resolving its main conflict in the final paragraph?",
+    "answers": [
+      {
+        "text": "A resolution is only the title.",
+        "is_correct": false
+      },
+      {
+        "text": "The resolution creates the complication.",
+        "is_correct": false
+      },
+      {
+        "text": "The resolution gives a sense of closure because the central problem is settled.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The resolution stage shows what happens to the central problem.",
+      "hint": "Link the structural stage to the feeling it creates."
+    }
+  },
+  {
+    "id": "AC9E4LE02-P-039",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE02",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Responding to Literature",
+    "question": "What would be the most effective choice for a paragraph describing a dark, silent house before a character enters?",
+    "audio_prompt": "What would be the most effective choice for a paragraph describing a dark, silent house before a character enters?",
+    "answers": [
+      {
+        "text": "The sensory details create an uneasy mood before anything happens.",
+        "is_correct": true
+      },
+      {
+        "text": "Description cannot influence mood.",
+        "is_correct": false
+      },
+      {
+        "text": "The description proves the house is dangerous.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Language can prepare a reader emotionally without proving what will happen.",
+      "hint": "Separate the effect on the reader from a claim that the text has not established."
+    }
+  },
+  {
+    "id": "AC9E4LE02-P-040",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE02",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Responding to Literature",
+    "question": "You now need to handle a paragraph describing a dark, silent house before a character enters independently. Which choice should you use?",
+    "audio_prompt": "You now need to handle a paragraph describing a dark, silent house before a character enters independently. Which choice should you use?",
+    "answers": [
+      {
+        "text": "Description cannot influence mood.",
+        "is_correct": false
+      },
+      {
+        "text": "The sensory details create an uneasy mood before anything happens.",
+        "is_correct": true
+      },
+      {
+        "text": "The description proves the house is dangerous.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Language can prepare a reader emotionally without proving what will happen.",
+      "hint": "Separate the effect on the reader from a claim that the text has not established."
+    }
+  },
+  {
+    "id": "AC9E4LE02-T-001",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE02",
+    "bank": "test",
+    "stage": "verify",
+    "skill": "Responding to Literature",
+    "question": "New context: dialogue interrupted by dashes and unfinished sentences. Which option is correct?",
+    "audio_prompt": "New context: dialogue interrupted by dashes and unfinished sentences. Which option is correct?",
+    "answers": [
+      {
+        "text": "The punctuation means the characters are singing.",
+        "is_correct": false
+      },
+      {
+        "text": "The dialogue is objective factual reporting.",
+        "is_correct": false
+      },
+      {
+        "text": "The broken dialogue suggests hesitation or stress and makes the exchange feel tense.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Interrupted speech can reveal emotion and alter the rhythm of the scene.",
+      "hint": "Use a precise literary term, then explain its effect."
+    }
+  },
+  {
+    "id": "AC9E4LE02-T-002",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE02",
+    "bank": "test",
+    "stage": "verify",
+    "skill": "Responding to Literature",
+    "question": "What is the best choice for dialogue interrupted by dashes and unfinished sentences?",
+    "audio_prompt": "What is the best choice for dialogue interrupted by dashes and unfinished sentences?",
+    "answers": [
+      {
+        "text": "The broken dialogue suggests hesitation or stress and makes the exchange feel tense.",
+        "is_correct": true
+      },
+      {
+        "text": "The punctuation means the characters are singing.",
+        "is_correct": false
+      },
+      {
+        "text": "The dialogue is objective factual reporting.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Interrupted speech can reveal emotion and alter the rhythm of the scene.",
+      "hint": "Use a precise literary term, then explain its effect."
+    }
+  },
+  {
+    "id": "AC9E4LE02-T-003",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE02",
+    "bank": "test",
+    "stage": "verify",
+    "skill": "Responding to Literature",
+    "question": "Which explanation best supports “The broken dialogue suggests hesitation or stress and makes the exchange feel tense.” in dialogue interrupted by dashes and unfinished sentences?",
+    "audio_prompt": "Which explanation best supports “The broken dialogue suggests hesitation or stress and makes the exchange feel tense.” in dialogue interrupted by dashes and unfinished sentences?",
+    "answers": [
+      {
+        "text": "Because “The punctuation means the characters are singing.” is always a safe choice.",
+        "is_correct": false
+      },
+      {
+        "text": "Interrupted speech can reveal emotion and alter the rhythm of the scene.",
+        "is_correct": true
+      },
+      {
+        "text": "Because surface appearance matters more than meaning.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Interrupted speech can reveal emotion and alter the rhythm of the scene.",
+      "hint": "Use a precise literary term, then explain its effect."
+    }
+  },
+  {
+    "id": "AC9E4LE02-T-004",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE02",
+    "bank": "test",
+    "stage": "verify",
+    "skill": "Responding to Literature",
+    "question": "Which clue should guide your decision in dialogue interrupted by dashes and unfinished sentences?",
+    "audio_prompt": "Which clue should guide your decision in dialogue interrupted by dashes and unfinished sentences?",
+    "answers": [
+      {
+        "text": "Choose the option with the most words.",
+        "is_correct": false
+      },
+      {
+        "text": "Ignore the context and use the first familiar form.",
+        "is_correct": false
+      },
+      {
+        "text": "Use a precise literary term, then explain its effect.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Interrupted speech can reveal emotion and alter the rhythm of the scene.",
+      "hint": "Use a precise literary term, then explain its effect."
+    }
+  },
+  {
+    "id": "AC9E4LE02-T-005",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE02",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "Responding to Literature",
+    "question": "Which option would you reject first in dialogue interrupted by dashes and unfinished sentences?",
+    "audio_prompt": "Which option would you reject first in dialogue interrupted by dashes and unfinished sentences?",
+    "answers": [
+      {
+        "text": "The punctuation means the characters are singing.",
+        "is_correct": true
+      },
+      {
+        "text": "The broken dialogue suggests hesitation or stress and makes the exchange feel tense.",
+        "is_correct": false
+      },
+      {
+        "text": "The dialogue is objective factual reporting.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The rejected choice conflicts with the exact meaning, form or situation being tested. Interrupted speech can reveal emotion and alter the rhythm of the scene.",
+      "hint": "Use a precise literary term, then explain its effect."
+    }
+  },
+  {
+    "id": "AC9E4LE02-T-006",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE02",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "Responding to Literature",
+    "question": "Which correction should replace “The punctuation means the characters are singing.” in dialogue interrupted by dashes and unfinished sentences?",
+    "audio_prompt": "Which correction should replace “The punctuation means the characters are singing.” in dialogue interrupted by dashes and unfinished sentences?",
+    "answers": [
+      {
+        "text": "The punctuation means the characters are singing.",
+        "is_correct": false
+      },
+      {
+        "text": "The broken dialogue suggests hesitation or stress and makes the exchange feel tense.",
+        "is_correct": true
+      },
+      {
+        "text": "The dialogue is objective factual reporting.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Interrupted speech can reveal emotion and alter the rhythm of the scene.",
+      "hint": "Use a precise literary term, then explain its effect."
+    }
+  },
+  {
+    "id": "AC9E4LE02-T-007",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE02",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "Responding to Literature",
+    "question": "Apply the skill to dialogue interrupted by dashes and unfinished sentences: what should you choose?",
+    "audio_prompt": "Apply the skill to dialogue interrupted by dashes and unfinished sentences: what should you choose?",
+    "answers": [
+      {
+        "text": "The punctuation means the characters are singing.",
+        "is_correct": false
+      },
+      {
+        "text": "The dialogue is objective factual reporting.",
+        "is_correct": false
+      },
+      {
+        "text": "The broken dialogue suggests hesitation or stress and makes the exchange feel tense.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Interrupted speech can reveal emotion and alter the rhythm of the scene.",
+      "hint": "Use a precise literary term, then explain its effect."
+    }
+  },
+  {
+    "id": "AC9E4LE02-T-008",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE02",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "Responding to Literature",
+    "question": "Which final choice gives the clearest and most accurate result for dialogue interrupted by dashes and unfinished sentences?",
+    "audio_prompt": "Which final choice gives the clearest and most accurate result for dialogue interrupted by dashes and unfinished sentences?",
+    "answers": [
+      {
+        "text": "The broken dialogue suggests hesitation or stress and makes the exchange feel tense.",
+        "is_correct": true
+      },
+      {
+        "text": "The punctuation means the characters are singing.",
+        "is_correct": false
+      },
+      {
+        "text": "The dialogue is objective factual reporting.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Interrupted speech can reveal emotion and alter the rhythm of the scene.",
+      "hint": "Use a precise literary term, then explain its effect."
+    }
+  },
+  {
+    "id": "AC9E4LE02-T-009",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE02",
+    "bank": "test",
+    "stage": "verify",
+    "skill": "Responding to Literature",
+    "question": "New context: a chapter ending just as a door begins to open. Which option is correct?",
+    "audio_prompt": "New context: a chapter ending just as a door begins to open. Which option is correct?",
+    "answers": [
+      {
+        "text": "The ending fully resolves every question.",
+        "is_correct": false
+      },
+      {
+        "text": "The cliffhanger delays the answer and encourages the reader to continue.",
+        "is_correct": true
+      },
+      {
+        "text": "The door has no structural role because it is an object.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A cliffhanger withholds an outcome at a key point to build anticipation.",
+      "hint": "Focus on what information is deliberately delayed."
+    }
+  },
+  {
+    "id": "AC9E4LE02-T-010",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE02",
+    "bank": "test",
+    "stage": "verify",
+    "skill": "Responding to Literature",
+    "question": "What is the best choice for a chapter ending just as a door begins to open?",
+    "audio_prompt": "What is the best choice for a chapter ending just as a door begins to open?",
+    "answers": [
+      {
+        "text": "The ending fully resolves every question.",
+        "is_correct": false
+      },
+      {
+        "text": "The door has no structural role because it is an object.",
+        "is_correct": false
+      },
+      {
+        "text": "The cliffhanger delays the answer and encourages the reader to continue.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A cliffhanger withholds an outcome at a key point to build anticipation.",
+      "hint": "Focus on what information is deliberately delayed."
+    }
+  },
+  {
+    "id": "AC9E4LE02-T-011",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE02",
+    "bank": "test",
+    "stage": "verify",
+    "skill": "Responding to Literature",
+    "question": "Which explanation best supports “The cliffhanger delays the answer and encourages the reader to continue.” in a chapter ending just as a door begins to open?",
+    "audio_prompt": "Which explanation best supports “The cliffhanger delays the answer and encourages the reader to continue.” in a chapter ending just as a door begins to open?",
+    "answers": [
+      {
+        "text": "A cliffhanger withholds an outcome at a key point to build anticipation.",
+        "is_correct": true
+      },
+      {
+        "text": "Because “The ending fully resolves every question.” is always a safe choice.",
+        "is_correct": false
+      },
+      {
+        "text": "Because surface appearance matters more than meaning.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A cliffhanger withholds an outcome at a key point to build anticipation.",
+      "hint": "Focus on what information is deliberately delayed."
+    }
+  },
+  {
+    "id": "AC9E4LE02-T-012",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE02",
+    "bank": "test",
+    "stage": "verify",
+    "skill": "Responding to Literature",
+    "question": "Which clue should guide your decision in a chapter ending just as a door begins to open?",
+    "audio_prompt": "Which clue should guide your decision in a chapter ending just as a door begins to open?",
+    "answers": [
+      {
+        "text": "Choose the option with the most words.",
+        "is_correct": false
+      },
+      {
+        "text": "Focus on what information is deliberately delayed.",
+        "is_correct": true
+      },
+      {
+        "text": "Ignore the context and use the first familiar form.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A cliffhanger withholds an outcome at a key point to build anticipation.",
+      "hint": "Focus on what information is deliberately delayed."
+    }
+  },
+  {
+    "id": "AC9E4LE02-T-013",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE02",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "Responding to Literature",
+    "question": "Which option would you reject first in a chapter ending just as a door begins to open?",
+    "audio_prompt": "Which option would you reject first in a chapter ending just as a door begins to open?",
+    "answers": [
+      {
+        "text": "The cliffhanger delays the answer and encourages the reader to continue.",
+        "is_correct": false
+      },
+      {
+        "text": "The door has no structural role because it is an object.",
+        "is_correct": false
+      },
+      {
+        "text": "The ending fully resolves every question.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The rejected choice conflicts with the exact meaning, form or situation being tested. A cliffhanger withholds an outcome at a key point to build anticipation.",
+      "hint": "Focus on what information is deliberately delayed."
+    }
+  },
+  {
+    "id": "AC9E4LE02-T-014",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE02",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "Responding to Literature",
+    "question": "Which correction should replace “The ending fully resolves every question.” in a chapter ending just as a door begins to open?",
+    "audio_prompt": "Which correction should replace “The ending fully resolves every question.” in a chapter ending just as a door begins to open?",
+    "answers": [
+      {
+        "text": "The cliffhanger delays the answer and encourages the reader to continue.",
+        "is_correct": true
+      },
+      {
+        "text": "The ending fully resolves every question.",
+        "is_correct": false
+      },
+      {
+        "text": "The door has no structural role because it is an object.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A cliffhanger withholds an outcome at a key point to build anticipation.",
+      "hint": "Focus on what information is deliberately delayed."
+    }
+  },
+  {
+    "id": "AC9E4LE02-T-015",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE02",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "Responding to Literature",
+    "question": "Apply the skill to a chapter ending just as a door begins to open: what should you choose?",
+    "audio_prompt": "Apply the skill to a chapter ending just as a door begins to open: what should you choose?",
+    "answers": [
+      {
+        "text": "The ending fully resolves every question.",
+        "is_correct": false
+      },
+      {
+        "text": "The cliffhanger delays the answer and encourages the reader to continue.",
+        "is_correct": true
+      },
+      {
+        "text": "The door has no structural role because it is an object.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A cliffhanger withholds an outcome at a key point to build anticipation.",
+      "hint": "Focus on what information is deliberately delayed."
+    }
+  },
+  {
+    "id": "AC9E4LE02-T-016",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE02",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "Responding to Literature",
+    "question": "Which final choice gives the clearest and most accurate result for a chapter ending just as a door begins to open?",
+    "audio_prompt": "Which final choice gives the clearest and most accurate result for a chapter ending just as a door begins to open?",
+    "answers": [
+      {
+        "text": "The ending fully resolves every question.",
+        "is_correct": false
+      },
+      {
+        "text": "The door has no structural role because it is an object.",
+        "is_correct": false
+      },
+      {
+        "text": "The cliffhanger delays the answer and encourages the reader to continue.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A cliffhanger withholds an outcome at a key point to build anticipation.",
+      "hint": "Focus on what information is deliberately delayed."
+    }
+  }
+]

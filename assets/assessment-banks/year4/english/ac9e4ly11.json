@@ -1,0 +1,1682 @@
+[
+  {
+    "id": "AC9E4LY11-P-001",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY11",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "High-Frequency Words and Homophones",
+    "question": "In completing “_____ going to the pool after lunch.”, which option best demonstrates the skill?",
+    "audio_prompt": "In completing “_____ going to the pool after lunch.”, which option best demonstrates the skill?",
+    "answers": [
+      {
+        "text": "They’re",
+        "is_correct": true
+      },
+      {
+        "text": "Their",
+        "is_correct": false
+      },
+      {
+        "text": "There",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "They’re means they are and fits before the verb going.",
+      "hint": "Expand the contraction to test whether it fits."
+    }
+  },
+  {
+    "id": "AC9E4LY11-P-002",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY11",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "High-Frequency Words and Homophones",
+    "question": "Which choice fits completing “_____ going to the pool after lunch.” most accurately?",
+    "audio_prompt": "Which choice fits completing “_____ going to the pool after lunch.” most accurately?",
+    "answers": [
+      {
+        "text": "Their",
+        "is_correct": false
+      },
+      {
+        "text": "They’re",
+        "is_correct": true
+      },
+      {
+        "text": "There",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "They’re means they are and fits before the verb going.",
+      "hint": "Expand the contraction to test whether it fits."
+    }
+  },
+  {
+    "id": "AC9E4LY11-P-003",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY11",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "High-Frequency Words and Homophones",
+    "question": "Which choice fits completing “Please put the bags over _____.” most accurately?",
+    "audio_prompt": "Which choice fits completing “Please put the bags over _____.” most accurately?",
+    "answers": [
+      {
+        "text": "their",
+        "is_correct": false
+      },
+      {
+        "text": "they’re",
+        "is_correct": false
+      },
+      {
+        "text": "there",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "There refers to a place, which matches where the bags should go.",
+      "hint": "Decide whether the sentence needs a place, ownership or they are."
+    }
+  },
+  {
+    "id": "AC9E4LY11-P-004",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY11",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "High-Frequency Words and Homophones",
+    "question": "Look closely at completing “Please put the bags over _____.”. Which response or wording works best?",
+    "audio_prompt": "Look closely at completing “Please put the bags over _____.”. Which response or wording works best?",
+    "answers": [
+      {
+        "text": "there",
+        "is_correct": true
+      },
+      {
+        "text": "their",
+        "is_correct": false
+      },
+      {
+        "text": "they’re",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "There refers to a place, which matches where the bags should go.",
+      "hint": "Decide whether the sentence needs a place, ownership or they are."
+    }
+  },
+  {
+    "id": "AC9E4LY11-P-005",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY11",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "High-Frequency Words and Homophones",
+    "question": "Look closely at completing “The players packed _____ uniforms.”. Which response or wording works best?",
+    "audio_prompt": "Look closely at completing “The players packed _____ uniforms.”. Which response or wording works best?",
+    "answers": [
+      {
+        "text": "there",
+        "is_correct": false
+      },
+      {
+        "text": "their",
+        "is_correct": true
+      },
+      {
+        "text": "they’re",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Their is the possessive form showing that the uniforms belong to the players.",
+      "hint": "Look for a noun that is owned by someone."
+    }
+  },
+  {
+    "id": "AC9E4LY11-P-006",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY11",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "High-Frequency Words and Homophones",
+    "question": "For completing “The players packed _____ uniforms.”, which option is the strongest match?",
+    "audio_prompt": "For completing “The players packed _____ uniforms.”, which option is the strongest match?",
+    "answers": [
+      {
+        "text": "there",
+        "is_correct": false
+      },
+      {
+        "text": "they’re",
+        "is_correct": false
+      },
+      {
+        "text": "their",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Their is the possessive form showing that the uniforms belong to the players.",
+      "hint": "Look for a noun that is owned by someone."
+    }
+  },
+  {
+    "id": "AC9E4LY11-P-007",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY11",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "High-Frequency Words and Homophones",
+    "question": "For completing “I can _____ the kookaburras calling.”, which option is the strongest match?",
+    "audio_prompt": "For completing “I can _____ the kookaburras calling.”, which option is the strongest match?",
+    "answers": [
+      {
+        "text": "hear",
+        "is_correct": true
+      },
+      {
+        "text": "here",
+        "is_correct": false
+      },
+      {
+        "text": "he’re",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Hear is the verb meaning perceive sound.",
+      "hint": "Use sentence grammar and meaning, not just pronunciation."
+    }
+  },
+  {
+    "id": "AC9E4LY11-P-008",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY11",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "High-Frequency Words and Homophones",
+    "question": "Which example should you choose for completing “I can _____ the kookaburras calling.”?",
+    "audio_prompt": "Which example should you choose for completing “I can _____ the kookaburras calling.”?",
+    "answers": [
+      {
+        "text": "here",
+        "is_correct": false
+      },
+      {
+        "text": "hear",
+        "is_correct": true
+      },
+      {
+        "text": "he’re",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Hear is the verb meaning perceive sound.",
+      "hint": "Use sentence grammar and meaning, not just pronunciation."
+    }
+  },
+  {
+    "id": "AC9E4LY11-P-009",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY11",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "High-Frequency Words and Homophones",
+    "question": "Which example should you choose for completing “Come and sit _____ beside me.”?",
+    "audio_prompt": "Which example should you choose for completing “Come and sit _____ beside me.”?",
+    "answers": [
+      {
+        "text": "hear",
+        "is_correct": false
+      },
+      {
+        "text": "heer",
+        "is_correct": false
+      },
+      {
+        "text": "here",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Here refers to this place.",
+      "hint": "Ask whether the word names a place or an action involving sound."
+    }
+  },
+  {
+    "id": "AC9E4LY11-P-010",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY11",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "High-Frequency Words and Homophones",
+    "question": "In completing “Come and sit _____ beside me.”, which option best demonstrates the skill?",
+    "audio_prompt": "In completing “Come and sit _____ beside me.”, which option best demonstrates the skill?",
+    "answers": [
+      {
+        "text": "here",
+        "is_correct": true
+      },
+      {
+        "text": "hear",
+        "is_correct": false
+      },
+      {
+        "text": "heer",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Here refers to this place.",
+      "hint": "Ask whether the word names a place or an action involving sound."
+    }
+  },
+  {
+    "id": "AC9E4LY11-P-011",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY11",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "High-Frequency Words and Homophones",
+    "question": "Why does “They’re” work well for completing “_____ going to the pool after lunch.”?",
+    "audio_prompt": "Why does “They’re” work well for completing “_____ going to the pool after lunch.”?",
+    "answers": [
+      {
+        "text": "Because “Their” is always acceptable in this situation.",
+        "is_correct": false
+      },
+      {
+        "text": "They’re means they are and fits before the verb going.",
+        "is_correct": true
+      },
+      {
+        "text": "Because the longest or most complicated option must be correct.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "They’re means they are and fits before the verb going.",
+      "hint": "Expand the contraction to test whether it fits."
+    }
+  },
+  {
+    "id": "AC9E4LY11-P-012",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY11",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "High-Frequency Words and Homophones",
+    "question": "What makes “They’re” a better choice in completing “_____ going to the pool after lunch.”?",
+    "audio_prompt": "What makes “They’re” a better choice in completing “_____ going to the pool after lunch.”?",
+    "answers": [
+      {
+        "text": "Because “Their” is always acceptable in this situation.",
+        "is_correct": false
+      },
+      {
+        "text": "Because the longest or most complicated option must be correct.",
+        "is_correct": false
+      },
+      {
+        "text": "They’re means they are and fits before the verb going.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "They’re means they are and fits before the verb going.",
+      "hint": "Expand the contraction to test whether it fits."
+    }
+  },
+  {
+    "id": "AC9E4LY11-P-013",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY11",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "High-Frequency Words and Homophones",
+    "question": "What makes “there” a better choice in completing “Please put the bags over _____.”?",
+    "audio_prompt": "What makes “there” a better choice in completing “Please put the bags over _____.”?",
+    "answers": [
+      {
+        "text": "There refers to a place, which matches where the bags should go.",
+        "is_correct": true
+      },
+      {
+        "text": "Because “their” is always acceptable in this situation.",
+        "is_correct": false
+      },
+      {
+        "text": "Because the longest or most complicated option must be correct.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "There refers to a place, which matches where the bags should go.",
+      "hint": "Decide whether the sentence needs a place, ownership or they are."
+    }
+  },
+  {
+    "id": "AC9E4LY11-P-014",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY11",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "High-Frequency Words and Homophones",
+    "question": "Which explanation best justifies “there” for completing “Please put the bags over _____.”?",
+    "audio_prompt": "Which explanation best justifies “there” for completing “Please put the bags over _____.”?",
+    "answers": [
+      {
+        "text": "Because “their” is always acceptable in this situation.",
+        "is_correct": false
+      },
+      {
+        "text": "There refers to a place, which matches where the bags should go.",
+        "is_correct": true
+      },
+      {
+        "text": "Because the longest or most complicated option must be correct.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "There refers to a place, which matches where the bags should go.",
+      "hint": "Decide whether the sentence needs a place, ownership or they are."
+    }
+  },
+  {
+    "id": "AC9E4LY11-P-015",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY11",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "High-Frequency Words and Homophones",
+    "question": "Which explanation best justifies “their” for completing “The players packed _____ uniforms.”?",
+    "audio_prompt": "Which explanation best justifies “their” for completing “The players packed _____ uniforms.”?",
+    "answers": [
+      {
+        "text": "Because “there” is always acceptable in this situation.",
+        "is_correct": false
+      },
+      {
+        "text": "Because the longest or most complicated option must be correct.",
+        "is_correct": false
+      },
+      {
+        "text": "Their is the possessive form showing that the uniforms belong to the players.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Their is the possessive form showing that the uniforms belong to the players.",
+      "hint": "Look for a noun that is owned by someone."
+    }
+  },
+  {
+    "id": "AC9E4LY11-P-016",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY11",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "High-Frequency Words and Homophones",
+    "question": "What should you notice about “their” in completing “The players packed _____ uniforms.”?",
+    "audio_prompt": "What should you notice about “their” in completing “The players packed _____ uniforms.”?",
+    "answers": [
+      {
+        "text": "Their is the possessive form showing that the uniforms belong to the players.",
+        "is_correct": true
+      },
+      {
+        "text": "Because “there” is always acceptable in this situation.",
+        "is_correct": false
+      },
+      {
+        "text": "Because the longest or most complicated option must be correct.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Their is the possessive form showing that the uniforms belong to the players.",
+      "hint": "Look for a noun that is owned by someone."
+    }
+  },
+  {
+    "id": "AC9E4LY11-P-017",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY11",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "High-Frequency Words and Homophones",
+    "question": "What should you notice about “hear” in completing “I can _____ the kookaburras calling.”?",
+    "audio_prompt": "What should you notice about “hear” in completing “I can _____ the kookaburras calling.”?",
+    "answers": [
+      {
+        "text": "Because “here” is always acceptable in this situation.",
+        "is_correct": false
+      },
+      {
+        "text": "Hear is the verb meaning perceive sound.",
+        "is_correct": true
+      },
+      {
+        "text": "Because the longest or most complicated option must be correct.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Hear is the verb meaning perceive sound.",
+      "hint": "Use sentence grammar and meaning, not just pronunciation."
+    }
+  },
+  {
+    "id": "AC9E4LY11-P-018",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY11",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "High-Frequency Words and Homophones",
+    "question": "Which reason explains why “hear” suits completing “I can _____ the kookaburras calling.”?",
+    "audio_prompt": "Which reason explains why “hear” suits completing “I can _____ the kookaburras calling.”?",
+    "answers": [
+      {
+        "text": "Because “here” is always acceptable in this situation.",
+        "is_correct": false
+      },
+      {
+        "text": "Because the longest or most complicated option must be correct.",
+        "is_correct": false
+      },
+      {
+        "text": "Hear is the verb meaning perceive sound.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Hear is the verb meaning perceive sound.",
+      "hint": "Use sentence grammar and meaning, not just pronunciation."
+    }
+  },
+  {
+    "id": "AC9E4LY11-P-019",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY11",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "High-Frequency Words and Homophones",
+    "question": "Which reason explains why “here” suits completing “Come and sit _____ beside me.”?",
+    "audio_prompt": "Which reason explains why “here” suits completing “Come and sit _____ beside me.”?",
+    "answers": [
+      {
+        "text": "Here refers to this place.",
+        "is_correct": true
+      },
+      {
+        "text": "Because “hear” is always acceptable in this situation.",
+        "is_correct": false
+      },
+      {
+        "text": "Because the longest or most complicated option must be correct.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Here refers to this place.",
+      "hint": "Ask whether the word names a place or an action involving sound."
+    }
+  },
+  {
+    "id": "AC9E4LY11-P-020",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY11",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "High-Frequency Words and Homophones",
+    "question": "Why does “here” work well for completing “Come and sit _____ beside me.”?",
+    "audio_prompt": "Why does “here” work well for completing “Come and sit _____ beside me.”?",
+    "answers": [
+      {
+        "text": "Because “hear” is always acceptable in this situation.",
+        "is_correct": false
+      },
+      {
+        "text": "Here refers to this place.",
+        "is_correct": true
+      },
+      {
+        "text": "Because the longest or most complicated option must be correct.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Here refers to this place.",
+      "hint": "Ask whether the word names a place or an action involving sound."
+    }
+  },
+  {
+    "id": "AC9E4LY11-P-021",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY11",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "High-Frequency Words and Homophones",
+    "question": "Which revision best fixes the problem in “Their” for completing “_____ going to the pool after lunch.”?",
+    "audio_prompt": "Which revision best fixes the problem in “Their” for completing “_____ going to the pool after lunch.”?",
+    "answers": [
+      {
+        "text": "Their",
+        "is_correct": false
+      },
+      {
+        "text": "There",
+        "is_correct": false
+      },
+      {
+        "text": "They’re",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "They’re means they are and fits before the verb going. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Expand the contraction to test whether it fits."
+    }
+  },
+  {
+    "id": "AC9E4LY11-P-022",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY11",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "High-Frequency Words and Homophones",
+    "question": "Compare the choices for completing “_____ going to the pool after lunch.”. Which one avoids the mistake in “Their”?",
+    "audio_prompt": "Compare the choices for completing “_____ going to the pool after lunch.”. Which one avoids the mistake in “Their”?",
+    "answers": [
+      {
+        "text": "They’re",
+        "is_correct": true
+      },
+      {
+        "text": "Their",
+        "is_correct": false
+      },
+      {
+        "text": "There",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "They’re means they are and fits before the verb going. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Expand the contraction to test whether it fits."
+    }
+  },
+  {
+    "id": "AC9E4LY11-P-023",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY11",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "High-Frequency Words and Homophones",
+    "question": "Compare the choices for completing “Please put the bags over _____.”. Which one avoids the mistake in “their”?",
+    "audio_prompt": "Compare the choices for completing “Please put the bags over _____.”. Which one avoids the mistake in “their”?",
+    "answers": [
+      {
+        "text": "their",
+        "is_correct": false
+      },
+      {
+        "text": "there",
+        "is_correct": true
+      },
+      {
+        "text": "they’re",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "There refers to a place, which matches where the bags should go. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Decide whether the sentence needs a place, ownership or they are."
+    }
+  },
+  {
+    "id": "AC9E4LY11-P-024",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY11",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "High-Frequency Words and Homophones",
+    "question": "If “their” does not work in completing “Please put the bags over _____.”, what should replace it?",
+    "audio_prompt": "If “their” does not work in completing “Please put the bags over _____.”, what should replace it?",
+    "answers": [
+      {
+        "text": "their",
+        "is_correct": false
+      },
+      {
+        "text": "they’re",
+        "is_correct": false
+      },
+      {
+        "text": "there",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "There refers to a place, which matches where the bags should go. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Decide whether the sentence needs a place, ownership or they are."
+    }
+  },
+  {
+    "id": "AC9E4LY11-P-025",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY11",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "High-Frequency Words and Homophones",
+    "question": "If “there” does not work in completing “The players packed _____ uniforms.”, what should replace it?",
+    "audio_prompt": "If “there” does not work in completing “The players packed _____ uniforms.”, what should replace it?",
+    "answers": [
+      {
+        "text": "their",
+        "is_correct": true
+      },
+      {
+        "text": "there",
+        "is_correct": false
+      },
+      {
+        "text": "they’re",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Their is the possessive form showing that the uniforms belong to the players. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Look for a noun that is owned by someone."
+    }
+  },
+  {
+    "id": "AC9E4LY11-P-026",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY11",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "High-Frequency Words and Homophones",
+    "question": "Which option corrects the meaning or form needed for completing “The players packed _____ uniforms.”?",
+    "audio_prompt": "Which option corrects the meaning or form needed for completing “The players packed _____ uniforms.”?",
+    "answers": [
+      {
+        "text": "there",
+        "is_correct": false
+      },
+      {
+        "text": "their",
+        "is_correct": true
+      },
+      {
+        "text": "they’re",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Their is the possessive form showing that the uniforms belong to the players. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Look for a noun that is owned by someone."
+    }
+  },
+  {
+    "id": "AC9E4LY11-P-027",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY11",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "High-Frequency Words and Homophones",
+    "question": "Which option corrects the meaning or form needed for completing “I can _____ the kookaburras calling.”?",
+    "audio_prompt": "Which option corrects the meaning or form needed for completing “I can _____ the kookaburras calling.”?",
+    "answers": [
+      {
+        "text": "here",
+        "is_correct": false
+      },
+      {
+        "text": "he’re",
+        "is_correct": false
+      },
+      {
+        "text": "hear",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Hear is the verb meaning perceive sound. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Use sentence grammar and meaning, not just pronunciation."
+    }
+  },
+  {
+    "id": "AC9E4LY11-P-028",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY11",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "High-Frequency Words and Homophones",
+    "question": "Which choice is the clearest correction for completing “I can _____ the kookaburras calling.”?",
+    "audio_prompt": "Which choice is the clearest correction for completing “I can _____ the kookaburras calling.”?",
+    "answers": [
+      {
+        "text": "hear",
+        "is_correct": true
+      },
+      {
+        "text": "here",
+        "is_correct": false
+      },
+      {
+        "text": "he’re",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Hear is the verb meaning perceive sound. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Use sentence grammar and meaning, not just pronunciation."
+    }
+  },
+  {
+    "id": "AC9E4LY11-P-029",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY11",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "High-Frequency Words and Homophones",
+    "question": "Which choice is the clearest correction for completing “Come and sit _____ beside me.”?",
+    "audio_prompt": "Which choice is the clearest correction for completing “Come and sit _____ beside me.”?",
+    "answers": [
+      {
+        "text": "hear",
+        "is_correct": false
+      },
+      {
+        "text": "here",
+        "is_correct": true
+      },
+      {
+        "text": "heer",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Here refers to this place. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Ask whether the word names a place or an action involving sound."
+    }
+  },
+  {
+    "id": "AC9E4LY11-P-030",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY11",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "High-Frequency Words and Homophones",
+    "question": "Which revision best fixes the problem in “hear” for completing “Come and sit _____ beside me.”?",
+    "audio_prompt": "Which revision best fixes the problem in “hear” for completing “Come and sit _____ beside me.”?",
+    "answers": [
+      {
+        "text": "hear",
+        "is_correct": false
+      },
+      {
+        "text": "heer",
+        "is_correct": false
+      },
+      {
+        "text": "here",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Here refers to this place. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Ask whether the word names a place or an action involving sound."
+    }
+  },
+  {
+    "id": "AC9E4LY11-P-031",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY11",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "High-Frequency Words and Homophones",
+    "question": "You now need to handle completing “_____ going to the pool after lunch.” independently. Which choice should you use?",
+    "audio_prompt": "You now need to handle completing “_____ going to the pool after lunch.” independently. Which choice should you use?",
+    "answers": [
+      {
+        "text": "They’re",
+        "is_correct": true
+      },
+      {
+        "text": "There",
+        "is_correct": false
+      },
+      {
+        "text": "Their",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "They’re means they are and fits before the verb going.",
+      "hint": "Expand the contraction to test whether it fits."
+    }
+  },
+  {
+    "id": "AC9E4LY11-P-032",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY11",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "High-Frequency Words and Homophones",
+    "question": "Apply the same idea to completing “_____ going to the pool after lunch.”. Which option is best?",
+    "audio_prompt": "Apply the same idea to completing “_____ going to the pool after lunch.”. Which option is best?",
+    "answers": [
+      {
+        "text": "There",
+        "is_correct": false
+      },
+      {
+        "text": "They’re",
+        "is_correct": true
+      },
+      {
+        "text": "Their",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "They’re means they are and fits before the verb going.",
+      "hint": "Expand the contraction to test whether it fits."
+    }
+  },
+  {
+    "id": "AC9E4LY11-P-033",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY11",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "High-Frequency Words and Homophones",
+    "question": "Apply the same idea to completing “Please put the bags over _____.”. Which option is best?",
+    "audio_prompt": "Apply the same idea to completing “Please put the bags over _____.”. Which option is best?",
+    "answers": [
+      {
+        "text": "they’re",
+        "is_correct": false
+      },
+      {
+        "text": "their",
+        "is_correct": false
+      },
+      {
+        "text": "there",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "There refers to a place, which matches where the bags should go.",
+      "hint": "Decide whether the sentence needs a place, ownership or they are."
+    }
+  },
+  {
+    "id": "AC9E4LY11-P-034",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY11",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "High-Frequency Words and Homophones",
+    "question": "Which decision would produce the clearest result in completing “Please put the bags over _____.”?",
+    "audio_prompt": "Which decision would produce the clearest result in completing “Please put the bags over _____.”?",
+    "answers": [
+      {
+        "text": "there",
+        "is_correct": true
+      },
+      {
+        "text": "they’re",
+        "is_correct": false
+      },
+      {
+        "text": "their",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "There refers to a place, which matches where the bags should go.",
+      "hint": "Decide whether the sentence needs a place, ownership or they are."
+    }
+  },
+  {
+    "id": "AC9E4LY11-P-035",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY11",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "High-Frequency Words and Homophones",
+    "question": "Which decision would produce the clearest result in completing “The players packed _____ uniforms.”?",
+    "audio_prompt": "Which decision would produce the clearest result in completing “The players packed _____ uniforms.”?",
+    "answers": [
+      {
+        "text": "they’re",
+        "is_correct": false
+      },
+      {
+        "text": "their",
+        "is_correct": true
+      },
+      {
+        "text": "there",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Their is the possessive form showing that the uniforms belong to the players.",
+      "hint": "Look for a noun that is owned by someone."
+    }
+  },
+  {
+    "id": "AC9E4LY11-P-036",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY11",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "High-Frequency Words and Homophones",
+    "question": "Choose the option that applies the skill correctly in completing “The players packed _____ uniforms.”.",
+    "audio_prompt": "Choose the option that applies the skill correctly in completing “The players packed _____ uniforms.”.",
+    "answers": [
+      {
+        "text": "they’re",
+        "is_correct": false
+      },
+      {
+        "text": "there",
+        "is_correct": false
+      },
+      {
+        "text": "their",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Their is the possessive form showing that the uniforms belong to the players.",
+      "hint": "Look for a noun that is owned by someone."
+    }
+  },
+  {
+    "id": "AC9E4LY11-P-037",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY11",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "High-Frequency Words and Homophones",
+    "question": "Choose the option that applies the skill correctly in completing “I can _____ the kookaburras calling.”.",
+    "audio_prompt": "Choose the option that applies the skill correctly in completing “I can _____ the kookaburras calling.”.",
+    "answers": [
+      {
+        "text": "hear",
+        "is_correct": true
+      },
+      {
+        "text": "he’re",
+        "is_correct": false
+      },
+      {
+        "text": "here",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Hear is the verb meaning perceive sound.",
+      "hint": "Use sentence grammar and meaning, not just pronunciation."
+    }
+  },
+  {
+    "id": "AC9E4LY11-P-038",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY11",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "High-Frequency Words and Homophones",
+    "question": "What would be the most effective choice for completing “I can _____ the kookaburras calling.”?",
+    "audio_prompt": "What would be the most effective choice for completing “I can _____ the kookaburras calling.”?",
+    "answers": [
+      {
+        "text": "he’re",
+        "is_correct": false
+      },
+      {
+        "text": "hear",
+        "is_correct": true
+      },
+      {
+        "text": "here",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Hear is the verb meaning perceive sound.",
+      "hint": "Use sentence grammar and meaning, not just pronunciation."
+    }
+  },
+  {
+    "id": "AC9E4LY11-P-039",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY11",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "High-Frequency Words and Homophones",
+    "question": "What would be the most effective choice for completing “Come and sit _____ beside me.”?",
+    "audio_prompt": "What would be the most effective choice for completing “Come and sit _____ beside me.”?",
+    "answers": [
+      {
+        "text": "heer",
+        "is_correct": false
+      },
+      {
+        "text": "hear",
+        "is_correct": false
+      },
+      {
+        "text": "here",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Here refers to this place.",
+      "hint": "Ask whether the word names a place or an action involving sound."
+    }
+  },
+  {
+    "id": "AC9E4LY11-P-040",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY11",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "High-Frequency Words and Homophones",
+    "question": "You now need to handle completing “Come and sit _____ beside me.” independently. Which choice should you use?",
+    "audio_prompt": "You now need to handle completing “Come and sit _____ beside me.” independently. Which choice should you use?",
+    "answers": [
+      {
+        "text": "here",
+        "is_correct": true
+      },
+      {
+        "text": "heer",
+        "is_correct": false
+      },
+      {
+        "text": "hear",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Here refers to this place.",
+      "hint": "Ask whether the word names a place or an action involving sound."
+    }
+  },
+  {
+    "id": "AC9E4LY11-T-001",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY11",
+    "bank": "test",
+    "stage": "verify",
+    "skill": "High-Frequency Words and Homophones",
+    "question": "New context: completing “The dog wagged _____ tail.”. Which option is correct?",
+    "audio_prompt": "New context: completing “The dog wagged _____ tail.”. Which option is correct?",
+    "answers": [
+      {
+        "text": "it’s",
+        "is_correct": false
+      },
+      {
+        "text": "its",
+        "is_correct": true
+      },
+      {
+        "text": "its’",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Its shows possession, while it’s means it is or it has.",
+      "hint": "Expand it’s to it is and see whether that makes sense."
+    }
+  },
+  {
+    "id": "AC9E4LY11-T-002",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY11",
+    "bank": "test",
+    "stage": "verify",
+    "skill": "High-Frequency Words and Homophones",
+    "question": "What is the best choice for completing “The dog wagged _____ tail.”?",
+    "audio_prompt": "What is the best choice for completing “The dog wagged _____ tail.”?",
+    "answers": [
+      {
+        "text": "it’s",
+        "is_correct": false
+      },
+      {
+        "text": "its’",
+        "is_correct": false
+      },
+      {
+        "text": "its",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Its shows possession, while it’s means it is or it has.",
+      "hint": "Expand it’s to it is and see whether that makes sense."
+    }
+  },
+  {
+    "id": "AC9E4LY11-T-003",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY11",
+    "bank": "test",
+    "stage": "verify",
+    "skill": "High-Frequency Words and Homophones",
+    "question": "Which explanation best supports “its” in completing “The dog wagged _____ tail.”?",
+    "audio_prompt": "Which explanation best supports “its” in completing “The dog wagged _____ tail.”?",
+    "answers": [
+      {
+        "text": "Its shows possession, while it’s means it is or it has.",
+        "is_correct": true
+      },
+      {
+        "text": "Because “it’s” is always a safe choice.",
+        "is_correct": false
+      },
+      {
+        "text": "Because surface appearance matters more than meaning.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Its shows possession, while it’s means it is or it has.",
+      "hint": "Expand it’s to it is and see whether that makes sense."
+    }
+  },
+  {
+    "id": "AC9E4LY11-T-004",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY11",
+    "bank": "test",
+    "stage": "verify",
+    "skill": "High-Frequency Words and Homophones",
+    "question": "Which clue should guide your decision in completing “The dog wagged _____ tail.”?",
+    "audio_prompt": "Which clue should guide your decision in completing “The dog wagged _____ tail.”?",
+    "answers": [
+      {
+        "text": "Choose the option with the most words.",
+        "is_correct": false
+      },
+      {
+        "text": "Expand it’s to it is and see whether that makes sense.",
+        "is_correct": true
+      },
+      {
+        "text": "Ignore the context and use the first familiar form.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Its shows possession, while it’s means it is or it has.",
+      "hint": "Expand it’s to it is and see whether that makes sense."
+    }
+  },
+  {
+    "id": "AC9E4LY11-T-005",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY11",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "High-Frequency Words and Homophones",
+    "question": "Which option would you reject first in completing “The dog wagged _____ tail.”?",
+    "audio_prompt": "Which option would you reject first in completing “The dog wagged _____ tail.”?",
+    "answers": [
+      {
+        "text": "its",
+        "is_correct": false
+      },
+      {
+        "text": "its’",
+        "is_correct": false
+      },
+      {
+        "text": "it’s",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The rejected choice conflicts with the exact meaning, form or situation being tested. Its shows possession, while it’s means it is or it has.",
+      "hint": "Expand it’s to it is and see whether that makes sense."
+    }
+  },
+  {
+    "id": "AC9E4LY11-T-006",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY11",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "High-Frequency Words and Homophones",
+    "question": "Which correction should replace “it’s” in completing “The dog wagged _____ tail.”?",
+    "audio_prompt": "Which correction should replace “it’s” in completing “The dog wagged _____ tail.”?",
+    "answers": [
+      {
+        "text": "its",
+        "is_correct": true
+      },
+      {
+        "text": "it’s",
+        "is_correct": false
+      },
+      {
+        "text": "its’",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Its shows possession, while it’s means it is or it has.",
+      "hint": "Expand it’s to it is and see whether that makes sense."
+    }
+  },
+  {
+    "id": "AC9E4LY11-T-007",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY11",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "High-Frequency Words and Homophones",
+    "question": "Apply the skill to completing “The dog wagged _____ tail.”: what should you choose?",
+    "audio_prompt": "Apply the skill to completing “The dog wagged _____ tail.”: what should you choose?",
+    "answers": [
+      {
+        "text": "it’s",
+        "is_correct": false
+      },
+      {
+        "text": "its",
+        "is_correct": true
+      },
+      {
+        "text": "its’",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Its shows possession, while it’s means it is or it has.",
+      "hint": "Expand it’s to it is and see whether that makes sense."
+    }
+  },
+  {
+    "id": "AC9E4LY11-T-008",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY11",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "High-Frequency Words and Homophones",
+    "question": "Which final choice gives the clearest and most accurate result for completing “The dog wagged _____ tail.”?",
+    "audio_prompt": "Which final choice gives the clearest and most accurate result for completing “The dog wagged _____ tail.”?",
+    "answers": [
+      {
+        "text": "it’s",
+        "is_correct": false
+      },
+      {
+        "text": "its’",
+        "is_correct": false
+      },
+      {
+        "text": "its",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Its shows possession, while it’s means it is or it has.",
+      "hint": "Expand it’s to it is and see whether that makes sense."
+    }
+  },
+  {
+    "id": "AC9E4LY11-T-009",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY11",
+    "bank": "test",
+    "stage": "verify",
+    "skill": "High-Frequency Words and Homophones",
+    "question": "New context: completing “_____ been raining since breakfast.”. Which option is correct?",
+    "audio_prompt": "New context: completing “_____ been raining since breakfast.”. Which option is correct?",
+    "answers": [
+      {
+        "text": "It’s",
+        "is_correct": true
+      },
+      {
+        "text": "Its",
+        "is_correct": false
+      },
+      {
+        "text": "Its’",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "It’s is the contraction of it has in this sentence.",
+      "hint": "Try expanding the contraction before choosing the spelling."
+    }
+  },
+  {
+    "id": "AC9E4LY11-T-010",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY11",
+    "bank": "test",
+    "stage": "verify",
+    "skill": "High-Frequency Words and Homophones",
+    "question": "What is the best choice for completing “_____ been raining since breakfast.”?",
+    "audio_prompt": "What is the best choice for completing “_____ been raining since breakfast.”?",
+    "answers": [
+      {
+        "text": "Its",
+        "is_correct": false
+      },
+      {
+        "text": "It’s",
+        "is_correct": true
+      },
+      {
+        "text": "Its’",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "It’s is the contraction of it has in this sentence.",
+      "hint": "Try expanding the contraction before choosing the spelling."
+    }
+  },
+  {
+    "id": "AC9E4LY11-T-011",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY11",
+    "bank": "test",
+    "stage": "verify",
+    "skill": "High-Frequency Words and Homophones",
+    "question": "Which explanation best supports “It’s” in completing “_____ been raining since breakfast.”?",
+    "audio_prompt": "Which explanation best supports “It’s” in completing “_____ been raining since breakfast.”?",
+    "answers": [
+      {
+        "text": "Because “Its” is always a safe choice.",
+        "is_correct": false
+      },
+      {
+        "text": "Because surface appearance matters more than meaning.",
+        "is_correct": false
+      },
+      {
+        "text": "It’s is the contraction of it has in this sentence.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "It’s is the contraction of it has in this sentence.",
+      "hint": "Try expanding the contraction before choosing the spelling."
+    }
+  },
+  {
+    "id": "AC9E4LY11-T-012",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY11",
+    "bank": "test",
+    "stage": "verify",
+    "skill": "High-Frequency Words and Homophones",
+    "question": "Which clue should guide your decision in completing “_____ been raining since breakfast.”?",
+    "audio_prompt": "Which clue should guide your decision in completing “_____ been raining since breakfast.”?",
+    "answers": [
+      {
+        "text": "Try expanding the contraction before choosing the spelling.",
+        "is_correct": true
+      },
+      {
+        "text": "Choose the option with the most words.",
+        "is_correct": false
+      },
+      {
+        "text": "Ignore the context and use the first familiar form.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "It’s is the contraction of it has in this sentence.",
+      "hint": "Try expanding the contraction before choosing the spelling."
+    }
+  },
+  {
+    "id": "AC9E4LY11-T-013",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY11",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "High-Frequency Words and Homophones",
+    "question": "Which option would you reject first in completing “_____ been raining since breakfast.”?",
+    "audio_prompt": "Which option would you reject first in completing “_____ been raining since breakfast.”?",
+    "answers": [
+      {
+        "text": "It’s",
+        "is_correct": false
+      },
+      {
+        "text": "Its",
+        "is_correct": true
+      },
+      {
+        "text": "Its’",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The rejected choice conflicts with the exact meaning, form or situation being tested. It’s is the contraction of it has in this sentence.",
+      "hint": "Try expanding the contraction before choosing the spelling."
+    }
+  },
+  {
+    "id": "AC9E4LY11-T-014",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY11",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "High-Frequency Words and Homophones",
+    "question": "Which correction should replace “Its” in completing “_____ been raining since breakfast.”?",
+    "audio_prompt": "Which correction should replace “Its” in completing “_____ been raining since breakfast.”?",
+    "answers": [
+      {
+        "text": "Its",
+        "is_correct": false
+      },
+      {
+        "text": "Its’",
+        "is_correct": false
+      },
+      {
+        "text": "It’s",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "It’s is the contraction of it has in this sentence.",
+      "hint": "Try expanding the contraction before choosing the spelling."
+    }
+  },
+  {
+    "id": "AC9E4LY11-T-015",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY11",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "High-Frequency Words and Homophones",
+    "question": "Apply the skill to completing “_____ been raining since breakfast.”: what should you choose?",
+    "audio_prompt": "Apply the skill to completing “_____ been raining since breakfast.”: what should you choose?",
+    "answers": [
+      {
+        "text": "It’s",
+        "is_correct": true
+      },
+      {
+        "text": "Its",
+        "is_correct": false
+      },
+      {
+        "text": "Its’",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "It’s is the contraction of it has in this sentence.",
+      "hint": "Try expanding the contraction before choosing the spelling."
+    }
+  },
+  {
+    "id": "AC9E4LY11-T-016",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY11",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "High-Frequency Words and Homophones",
+    "question": "Which final choice gives the clearest and most accurate result for completing “_____ been raining since breakfast.”?",
+    "audio_prompt": "Which final choice gives the clearest and most accurate result for completing “_____ been raining since breakfast.”?",
+    "answers": [
+      {
+        "text": "Its",
+        "is_correct": false
+      },
+      {
+        "text": "It’s",
+        "is_correct": true
+      },
+      {
+        "text": "Its’",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "It’s is the contraction of it has in this sentence.",
+      "hint": "Try expanding the contraction before choosing the spelling."
+    }
+  }
+]

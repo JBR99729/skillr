@@ -1,0 +1,1322 @@
+[
+  {
+    "id": "ac9s6h01-p-001",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6H01",
+    "bank": "practice",
+    "skill": "science collaboration",
+    "question": "Why do ecologists, engineers and computer scientists work together on remote habitat monitoring?",
+    "audio_prompt": "Why do ecologists, engineers and computer scientists work together on remote habitat monitoring?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Different expertise helps collect, process and interpret better evidence.",
+        "is_correct": true
+      },
+      {
+        "text": "One scientist must do every job alone.",
+        "is_correct": false
+      },
+      {
+        "text": "Collaboration means nobody checks the method.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Different expertise helps collect, process and interpret better evidence.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
+  },
+  {
+    "id": "ac9s6h01-p-002",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6H01",
+    "bank": "practice",
+    "skill": "science collaboration",
+    "question": "A new sensor gives surprising readings. What should the team do first?",
+    "audio_prompt": "A new sensor gives surprising readings. What should the team do first?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Accept the data because new technology is always accurate.",
+        "is_correct": false
+      },
+      {
+        "text": "Test and compare the sensor readings before trusting them.",
+        "is_correct": true
+      },
+      {
+        "text": "Delete older data automatically.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Test and compare the sensor readings before trusting them.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
+  },
+  {
+    "id": "ac9s6h01-p-003",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6H01",
+    "bank": "practice",
+    "skill": "science collaboration",
+    "question": "How can repeating another group’s investigation help science?",
+    "audio_prompt": "How can repeating another group’s investigation help science?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It proves the first group cheated.",
+        "is_correct": false
+      },
+      {
+        "text": "It makes methods unnecessary.",
+        "is_correct": false
+      },
+      {
+        "text": "It checks whether the finding is reliable.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "It checks whether the finding is reliable.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
+  },
+  {
+    "id": "ac9s6h01-p-004",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6H01",
+    "bank": "practice",
+    "skill": "science collaboration",
+    "question": "Why are shared databases useful in large environmental studies?",
+    "audio_prompt": "Why are shared databases useful in large environmental studies?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Many observations can reveal patterns across places and time.",
+        "is_correct": true
+      },
+      {
+        "text": "They remove the need for careful measurements.",
+        "is_correct": false
+      },
+      {
+        "text": "They make all scientists agree immediately.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Many observations can reveal patterns across places and time.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
+  },
+  {
+    "id": "ac9s6h01-p-005",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6H01",
+    "bank": "practice",
+    "skill": "science collaboration",
+    "question": "A report credits one famous scientist for a discovery made by a team. What is missing?",
+    "audio_prompt": "A report credits one famous scientist for a discovery made by a team. What is missing?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A longer title only.",
+        "is_correct": false
+      },
+      {
+        "text": "The contribution of collaborators and earlier work.",
+        "is_correct": true
+      },
+      {
+        "text": "A claim that technology did all the thinking.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The contribution of collaborators and earlier work.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
+  },
+  {
+    "id": "ac9s6h01-p-006",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6H01",
+    "bank": "practice",
+    "skill": "science collaboration",
+    "question": "Why can critique improve scientific work?",
+    "audio_prompt": "Why can critique improve scientific work?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It means rejecting every result.",
+        "is_correct": false
+      },
+      {
+        "text": "It replaces evidence with opinions.",
+        "is_correct": false
+      },
+      {
+        "text": "It helps find weaknesses in evidence, methods or explanations.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "It helps find weaknesses in evidence, methods or explanations.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
+  },
+  {
+    "id": "ac9s6h01-p-007",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6H01",
+    "bank": "practice",
+    "skill": "science collaboration",
+    "question": "Which example shows science building on earlier work?",
+    "audio_prompt": "Which example shows science building on earlier work?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A team improves a water-quality test using a method published last year.",
+        "is_correct": true
+      },
+      {
+        "text": "A student copies results without checking them.",
+        "is_correct": false
+      },
+      {
+        "text": "A group ignores all previous measurements.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A team improves a water-quality test using a method published last year.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
+  },
+  {
+    "id": "ac9s6h01-p-008",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6H01",
+    "bank": "practice",
+    "skill": "science collaboration",
+    "question": "Why does collaboration not mean automatic agreement?",
+    "audio_prompt": "Why does collaboration not mean automatic agreement?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Everyone must choose the same answer before testing.",
+        "is_correct": false
+      },
+      {
+        "text": "Scientists still compare evidence and challenge explanations.",
+        "is_correct": true
+      },
+      {
+        "text": "The oldest scientist decides the result.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Scientists still compare evidence and challenge explanations.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
+  },
+  {
+    "id": "ac9s6h01-p-009",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6H01",
+    "bank": "practice",
+    "skill": "science collaboration",
+    "question": "Why do ecologists, engineers and computer scientists work together on remote habitat monitoring in a new class investigation?",
+    "audio_prompt": "Why do ecologists, engineers and computer scientists work together on remote habitat monitoring in a new class investigation?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "One scientist must do every job alone.",
+        "is_correct": false
+      },
+      {
+        "text": "Collaboration means nobody checks the method.",
+        "is_correct": false
+      },
+      {
+        "text": "Different expertise helps collect, process and interpret better evidence.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Different expertise helps collect, process and interpret better evidence.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
+  },
+  {
+    "id": "ac9s6h01-p-010",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6H01",
+    "bank": "practice",
+    "skill": "science collaboration",
+    "question": "A new sensor gives surprising readings. What should the team do first in a new class investigation?",
+    "audio_prompt": "A new sensor gives surprising readings. What should the team do first in a new class investigation?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Test and compare the sensor readings before trusting them.",
+        "is_correct": true
+      },
+      {
+        "text": "Accept the data because new technology is always accurate.",
+        "is_correct": false
+      },
+      {
+        "text": "Delete older data automatically.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Test and compare the sensor readings before trusting them.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
+  },
+  {
+    "id": "ac9s6h01-p-011",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6H01",
+    "bank": "practice",
+    "skill": "science collaboration",
+    "question": "How can repeating another group’s investigation help science in a new class investigation?",
+    "audio_prompt": "How can repeating another group’s investigation help science in a new class investigation?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It proves the first group cheated.",
+        "is_correct": false
+      },
+      {
+        "text": "It checks whether the finding is reliable.",
+        "is_correct": true
+      },
+      {
+        "text": "It makes methods unnecessary.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "It checks whether the finding is reliable.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
+  },
+  {
+    "id": "ac9s6h01-p-012",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6H01",
+    "bank": "practice",
+    "skill": "science collaboration",
+    "question": "Why are shared databases useful in large environmental studies in a new class investigation?",
+    "audio_prompt": "Why are shared databases useful in large environmental studies in a new class investigation?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "They remove the need for careful measurements.",
+        "is_correct": false
+      },
+      {
+        "text": "They make all scientists agree immediately.",
+        "is_correct": false
+      },
+      {
+        "text": "Many observations can reveal patterns across places and time.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Many observations can reveal patterns across places and time.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
+  },
+  {
+    "id": "ac9s6h01-p-013",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6H01",
+    "bank": "practice",
+    "skill": "science collaboration",
+    "question": "A report credits one famous scientist for a discovery made by a team. What is missing in a new class investigation?",
+    "audio_prompt": "A report credits one famous scientist for a discovery made by a team. What is missing in a new class investigation?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The contribution of collaborators and earlier work.",
+        "is_correct": true
+      },
+      {
+        "text": "A longer title only.",
+        "is_correct": false
+      },
+      {
+        "text": "A claim that technology did all the thinking.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The contribution of collaborators and earlier work.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
+  },
+  {
+    "id": "ac9s6h01-p-014",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6H01",
+    "bank": "practice",
+    "skill": "science collaboration",
+    "question": "Why can critique improve scientific work in a new class investigation?",
+    "audio_prompt": "Why can critique improve scientific work in a new class investigation?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It means rejecting every result.",
+        "is_correct": false
+      },
+      {
+        "text": "It helps find weaknesses in evidence, methods or explanations.",
+        "is_correct": true
+      },
+      {
+        "text": "It replaces evidence with opinions.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "It helps find weaknesses in evidence, methods or explanations.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
+  },
+  {
+    "id": "ac9s6h01-p-015",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6H01",
+    "bank": "practice",
+    "skill": "science collaboration",
+    "question": "Which example shows science building on earlier work in a new class investigation?",
+    "audio_prompt": "Which example shows science building on earlier work in a new class investigation?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A student copies results without checking them.",
+        "is_correct": false
+      },
+      {
+        "text": "A group ignores all previous measurements.",
+        "is_correct": false
+      },
+      {
+        "text": "A team improves a water-quality test using a method published last year.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A team improves a water-quality test using a method published last year.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
+  },
+  {
+    "id": "ac9s6h01-p-016",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6H01",
+    "bank": "practice",
+    "skill": "science collaboration",
+    "question": "Why does collaboration not mean automatic agreement in a new class investigation?",
+    "audio_prompt": "Why does collaboration not mean automatic agreement in a new class investigation?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Scientists still compare evidence and challenge explanations.",
+        "is_correct": true
+      },
+      {
+        "text": "Everyone must choose the same answer before testing.",
+        "is_correct": false
+      },
+      {
+        "text": "The oldest scientist decides the result.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Scientists still compare evidence and challenge explanations.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
+  },
+  {
+    "id": "ac9s6h01-p-017",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6H01",
+    "bank": "practice",
+    "skill": "science collaboration",
+    "question": "Why do ecologists, engineers and computer scientists work together on remote habitat monitoring after students review their evidence?",
+    "audio_prompt": "Why do ecologists, engineers and computer scientists work together on remote habitat monitoring after students review their evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "One scientist must do every job alone.",
+        "is_correct": false
+      },
+      {
+        "text": "Different expertise helps collect, process and interpret better evidence.",
+        "is_correct": true
+      },
+      {
+        "text": "Collaboration means nobody checks the method.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Different expertise helps collect, process and interpret better evidence.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
+  },
+  {
+    "id": "ac9s6h01-p-018",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6H01",
+    "bank": "practice",
+    "skill": "science collaboration",
+    "question": "A new sensor gives surprising readings. What should the team do first after students review their evidence?",
+    "audio_prompt": "A new sensor gives surprising readings. What should the team do first after students review their evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Accept the data because new technology is always accurate.",
+        "is_correct": false
+      },
+      {
+        "text": "Delete older data automatically.",
+        "is_correct": false
+      },
+      {
+        "text": "Test and compare the sensor readings before trusting them.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Test and compare the sensor readings before trusting them.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
+  },
+  {
+    "id": "ac9s6h01-p-019",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6H01",
+    "bank": "practice",
+    "skill": "science collaboration",
+    "question": "How can repeating another group’s investigation help science after students review their evidence?",
+    "audio_prompt": "How can repeating another group’s investigation help science after students review their evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It checks whether the finding is reliable.",
+        "is_correct": true
+      },
+      {
+        "text": "It proves the first group cheated.",
+        "is_correct": false
+      },
+      {
+        "text": "It makes methods unnecessary.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "It checks whether the finding is reliable.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
+  },
+  {
+    "id": "ac9s6h01-p-020",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6H01",
+    "bank": "practice",
+    "skill": "science collaboration",
+    "question": "Why are shared databases useful in large environmental studies after students review their evidence?",
+    "audio_prompt": "Why are shared databases useful in large environmental studies after students review their evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "They remove the need for careful measurements.",
+        "is_correct": false
+      },
+      {
+        "text": "Many observations can reveal patterns across places and time.",
+        "is_correct": true
+      },
+      {
+        "text": "They make all scientists agree immediately.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Many observations can reveal patterns across places and time.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
+  },
+  {
+    "id": "ac9s6h01-p-021",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6H01",
+    "bank": "practice",
+    "skill": "science collaboration",
+    "question": "A report credits one famous scientist for a discovery made by a team. What is missing after students review their evidence?",
+    "audio_prompt": "A report credits one famous scientist for a discovery made by a team. What is missing after students review their evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A longer title only.",
+        "is_correct": false
+      },
+      {
+        "text": "A claim that technology did all the thinking.",
+        "is_correct": false
+      },
+      {
+        "text": "The contribution of collaborators and earlier work.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The contribution of collaborators and earlier work.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
+  },
+  {
+    "id": "ac9s6h01-p-022",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6H01",
+    "bank": "practice",
+    "skill": "science collaboration",
+    "question": "Why can critique improve scientific work after students review their evidence?",
+    "audio_prompt": "Why can critique improve scientific work after students review their evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It helps find weaknesses in evidence, methods or explanations.",
+        "is_correct": true
+      },
+      {
+        "text": "It means rejecting every result.",
+        "is_correct": false
+      },
+      {
+        "text": "It replaces evidence with opinions.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "It helps find weaknesses in evidence, methods or explanations.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
+  },
+  {
+    "id": "ac9s6h01-p-023",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6H01",
+    "bank": "practice",
+    "skill": "science collaboration",
+    "question": "Which example shows science building on earlier work after students review their evidence?",
+    "audio_prompt": "Which example shows science building on earlier work after students review their evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A student copies results without checking them.",
+        "is_correct": false
+      },
+      {
+        "text": "A team improves a water-quality test using a method published last year.",
+        "is_correct": true
+      },
+      {
+        "text": "A group ignores all previous measurements.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A team improves a water-quality test using a method published last year.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
+  },
+  {
+    "id": "ac9s6h01-p-024",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6H01",
+    "bank": "practice",
+    "skill": "science collaboration",
+    "question": "Why does collaboration not mean automatic agreement after students review their evidence?",
+    "audio_prompt": "Why does collaboration not mean automatic agreement after students review their evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Everyone must choose the same answer before testing.",
+        "is_correct": false
+      },
+      {
+        "text": "The oldest scientist decides the result.",
+        "is_correct": false
+      },
+      {
+        "text": "Scientists still compare evidence and challenge explanations.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Scientists still compare evidence and challenge explanations.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
+  },
+  {
+    "id": "ac9s6h01-t-001",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6H01",
+    "bank": "test",
+    "skill": "science collaboration",
+    "question": "A different class checks the same science idea: Why does collaboration not mean automatic agreement?",
+    "audio_prompt": "A different class checks the same science idea: Why does collaboration not mean automatic agreement?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Scientists still compare evidence and challenge explanations.",
+        "is_correct": true
+      },
+      {
+        "text": "Everyone must choose the same answer before testing.",
+        "is_correct": false
+      },
+      {
+        "text": "The oldest scientist decides the result.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Scientists still compare evidence and challenge explanations.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
+  },
+  {
+    "id": "ac9s6h01-t-002",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6H01",
+    "bank": "test",
+    "skill": "science collaboration",
+    "question": "A different class checks the same science idea: Which example shows science building on earlier work?",
+    "audio_prompt": "A different class checks the same science idea: Which example shows science building on earlier work?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A student copies results without checking them.",
+        "is_correct": false
+      },
+      {
+        "text": "A team improves a water-quality test using a method published last year.",
+        "is_correct": true
+      },
+      {
+        "text": "A group ignores all previous measurements.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A team improves a water-quality test using a method published last year.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
+  },
+  {
+    "id": "ac9s6h01-t-003",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6H01",
+    "bank": "test",
+    "skill": "science collaboration",
+    "question": "A different class checks the same science idea: Why can critique improve scientific work?",
+    "audio_prompt": "A different class checks the same science idea: Why can critique improve scientific work?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It means rejecting every result.",
+        "is_correct": false
+      },
+      {
+        "text": "It replaces evidence with opinions.",
+        "is_correct": false
+      },
+      {
+        "text": "It helps find weaknesses in evidence, methods or explanations.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "It helps find weaknesses in evidence, methods or explanations.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
+  },
+  {
+    "id": "ac9s6h01-t-004",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6H01",
+    "bank": "test",
+    "skill": "science collaboration",
+    "question": "A different class checks the same science idea: A report credits one famous scientist for a discovery made by a team. What is missing?",
+    "audio_prompt": "A different class checks the same science idea: A report credits one famous scientist for a discovery made by a team. What is missing?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The contribution of collaborators and earlier work.",
+        "is_correct": true
+      },
+      {
+        "text": "A longer title only.",
+        "is_correct": false
+      },
+      {
+        "text": "A claim that technology did all the thinking.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The contribution of collaborators and earlier work.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
+  },
+  {
+    "id": "ac9s6h01-t-005",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6H01",
+    "bank": "test",
+    "skill": "science collaboration",
+    "question": "A different class checks the same science idea: Why are shared databases useful in large environmental studies?",
+    "audio_prompt": "A different class checks the same science idea: Why are shared databases useful in large environmental studies?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "They remove the need for careful measurements.",
+        "is_correct": false
+      },
+      {
+        "text": "Many observations can reveal patterns across places and time.",
+        "is_correct": true
+      },
+      {
+        "text": "They make all scientists agree immediately.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Many observations can reveal patterns across places and time.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
+  },
+  {
+    "id": "ac9s6h01-t-006",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6H01",
+    "bank": "test",
+    "skill": "science collaboration",
+    "question": "A different class checks the same science idea: How can repeating another group’s investigation help science?",
+    "audio_prompt": "A different class checks the same science idea: How can repeating another group’s investigation help science?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It proves the first group cheated.",
+        "is_correct": false
+      },
+      {
+        "text": "It makes methods unnecessary.",
+        "is_correct": false
+      },
+      {
+        "text": "It checks whether the finding is reliable.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "It checks whether the finding is reliable.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
+  },
+  {
+    "id": "ac9s6h01-t-007",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6H01",
+    "bank": "test",
+    "skill": "science collaboration",
+    "question": "A different class checks the same science idea: A new sensor gives surprising readings. What should the team do first?",
+    "audio_prompt": "A different class checks the same science idea: A new sensor gives surprising readings. What should the team do first?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Test and compare the sensor readings before trusting them.",
+        "is_correct": true
+      },
+      {
+        "text": "Accept the data because new technology is always accurate.",
+        "is_correct": false
+      },
+      {
+        "text": "Delete older data automatically.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Test and compare the sensor readings before trusting them.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
+  },
+  {
+    "id": "ac9s6h01-t-008",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6H01",
+    "bank": "test",
+    "skill": "science collaboration",
+    "question": "A different class checks the same science idea: Why do ecologists, engineers and computer scientists work together on remote habitat monitoring?",
+    "audio_prompt": "A different class checks the same science idea: Why do ecologists, engineers and computer scientists work together on remote habitat monitoring?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "One scientist must do every job alone.",
+        "is_correct": false
+      },
+      {
+        "text": "Different expertise helps collect, process and interpret better evidence.",
+        "is_correct": true
+      },
+      {
+        "text": "Collaboration means nobody checks the method.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Different expertise helps collect, process and interpret better evidence.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
+  },
+  {
+    "id": "ac9s6h01-t-009",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6H01",
+    "bank": "test",
+    "skill": "science collaboration",
+    "question": "A follow-up test asks: Why does collaboration not mean automatic agreement?",
+    "audio_prompt": "A follow-up test asks: Why does collaboration not mean automatic agreement?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Everyone must choose the same answer before testing.",
+        "is_correct": false
+      },
+      {
+        "text": "The oldest scientist decides the result.",
+        "is_correct": false
+      },
+      {
+        "text": "Scientists still compare evidence and challenge explanations.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Scientists still compare evidence and challenge explanations.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
+  },
+  {
+    "id": "ac9s6h01-t-010",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6H01",
+    "bank": "test",
+    "skill": "science collaboration",
+    "question": "A follow-up test asks: Which example shows science building on earlier work?",
+    "audio_prompt": "A follow-up test asks: Which example shows science building on earlier work?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A team improves a water-quality test using a method published last year.",
+        "is_correct": true
+      },
+      {
+        "text": "A student copies results without checking them.",
+        "is_correct": false
+      },
+      {
+        "text": "A group ignores all previous measurements.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A team improves a water-quality test using a method published last year.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
+  },
+  {
+    "id": "ac9s6h01-t-011",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6H01",
+    "bank": "test",
+    "skill": "science collaboration",
+    "question": "A follow-up test asks: Why can critique improve scientific work?",
+    "audio_prompt": "A follow-up test asks: Why can critique improve scientific work?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It means rejecting every result.",
+        "is_correct": false
+      },
+      {
+        "text": "It helps find weaknesses in evidence, methods or explanations.",
+        "is_correct": true
+      },
+      {
+        "text": "It replaces evidence with opinions.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "It helps find weaknesses in evidence, methods or explanations.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
+  },
+  {
+    "id": "ac9s6h01-t-012",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6H01",
+    "bank": "test",
+    "skill": "science collaboration",
+    "question": "A follow-up test asks: A report credits one famous scientist for a discovery made by a team. What is missing?",
+    "audio_prompt": "A follow-up test asks: A report credits one famous scientist for a discovery made by a team. What is missing?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A longer title only.",
+        "is_correct": false
+      },
+      {
+        "text": "A claim that technology did all the thinking.",
+        "is_correct": false
+      },
+      {
+        "text": "The contribution of collaborators and earlier work.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The contribution of collaborators and earlier work.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
+  },
+  {
+    "id": "ac9s6h01-t-013",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6H01",
+    "bank": "test",
+    "skill": "science collaboration",
+    "question": "A follow-up test asks: Why are shared databases useful in large environmental studies?",
+    "audio_prompt": "A follow-up test asks: Why are shared databases useful in large environmental studies?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Many observations can reveal patterns across places and time.",
+        "is_correct": true
+      },
+      {
+        "text": "They remove the need for careful measurements.",
+        "is_correct": false
+      },
+      {
+        "text": "They make all scientists agree immediately.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Many observations can reveal patterns across places and time.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
+  },
+  {
+    "id": "ac9s6h01-t-014",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6H01",
+    "bank": "test",
+    "skill": "science collaboration",
+    "question": "A follow-up test asks: How can repeating another group’s investigation help science?",
+    "audio_prompt": "A follow-up test asks: How can repeating another group’s investigation help science?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It proves the first group cheated.",
+        "is_correct": false
+      },
+      {
+        "text": "It checks whether the finding is reliable.",
+        "is_correct": true
+      },
+      {
+        "text": "It makes methods unnecessary.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "It checks whether the finding is reliable.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
+  },
+  {
+    "id": "ac9s6h01-t-015",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6H01",
+    "bank": "test",
+    "skill": "science collaboration",
+    "question": "A follow-up test asks: A new sensor gives surprising readings. What should the team do first?",
+    "audio_prompt": "A follow-up test asks: A new sensor gives surprising readings. What should the team do first?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Accept the data because new technology is always accurate.",
+        "is_correct": false
+      },
+      {
+        "text": "Delete older data automatically.",
+        "is_correct": false
+      },
+      {
+        "text": "Test and compare the sensor readings before trusting them.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Test and compare the sensor readings before trusting them.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
+  },
+  {
+    "id": "ac9s6h01-t-016",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6H01",
+    "bank": "test",
+    "skill": "science collaboration",
+    "question": "A follow-up test asks: Why do ecologists, engineers and computer scientists work together on remote habitat monitoring?",
+    "audio_prompt": "A follow-up test asks: Why do ecologists, engineers and computer scientists work together on remote habitat monitoring?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Different expertise helps collect, process and interpret better evidence.",
+        "is_correct": true
+      },
+      {
+        "text": "One scientist must do every job alone.",
+        "is_correct": false
+      },
+      {
+        "text": "Collaboration means nobody checks the method.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Different expertise helps collect, process and interpret better evidence.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
+  }
+]

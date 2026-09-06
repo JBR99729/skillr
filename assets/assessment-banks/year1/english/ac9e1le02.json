@@ -1,0 +1,1722 @@
+[
+  {
+    "id": "ac9e1le02-er3-p-001",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LE02",
+    "bank": "practice",
+    "skill": "connecting literary responses with personal experiences",
+    "question": "A story child feels nervous on the first day at a club. Eli remembers feeling nervous at swimming lessons. What connects them?",
+    "audio_prompt": "A story child feels nervous on the first day at a club. Eli remembers feeling nervous at swimming lessons. What connects them?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Both faced something new with nervous feelings.",
+        "is_correct": true
+      },
+      {
+        "text": "Both attended the same club.",
+        "is_correct": false
+      },
+      {
+        "text": "Both had the same teacher.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The connection is the similar experience and feeling, not an identical place.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 1,
+    "review": {
+      "version": "20260906-english-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": null,
+      "evidence_scope": "No direct task mapped by IXL; official curriculum-led review. See docs/question-bank-reviews/2026-09-06-year1-english-le01-le05.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1le02-er3-p-002",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LE02",
+    "bank": "practice",
+    "skill": "connecting literary responses with personal experiences",
+    "question": "A story dog loses a favourite ball. May says, 'I felt upset when I lost my drawing.' What is her connection?",
+    "audio_prompt": "A story dog loses a favourite ball. May says, 'I felt upset when I lost my drawing.' What is her connection?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Making a drawing of a dog.",
+        "is_correct": false
+      },
+      {
+        "text": "Losing something valued.",
+        "is_correct": true
+      },
+      {
+        "text": "Owning the same kind of ball.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The objects differ, but both experiences involve losing something important.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 2,
+    "review": {
+      "version": "20260906-english-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": null,
+      "evidence_scope": "No direct task mapped by IXL; official curriculum-led review. See docs/question-bank-reviews/2026-09-06-year1-english-le01-le05.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1le02-er3-p-003",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LE02",
+    "bank": "practice",
+    "skill": "connecting literary responses with personal experiences",
+    "question": "A poem describes enjoying rain. Sam prefers sunny days. Which response links his experience honestly?",
+    "audio_prompt": "A poem describes enjoying rain. Sam prefers sunny days. Which response links his experience honestly?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "I must say I love rain because the poem does.",
+        "is_correct": false
+      },
+      {
+        "text": "I cannot respond because I prefer different weather.",
+        "is_correct": false
+      },
+      {
+        "text": "The poem enjoys rain, but I prefer sun because I can ride outside.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A different experience can still form a meaningful response to a text.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 3,
+    "review": {
+      "version": "20260906-english-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": null,
+      "evidence_scope": "No direct task mapped by IXL; official curriculum-led review. See docs/question-bank-reviews/2026-09-06-year1-english-le01-le05.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1le02-er3-p-004",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LE02",
+    "bank": "practice",
+    "skill": "connecting literary responses with personal experiences",
+    "question": "A character helps a new neighbour carry bags. Which memory is most closely connected?",
+    "audio_prompt": "A character helps a new neighbour carry bags. Which memory is most closely connected?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Helping someone with a difficult job.",
+        "is_correct": true
+      },
+      {
+        "text": "Counting the bags in a shop window.",
+        "is_correct": false
+      },
+      {
+        "text": "Reading the word neighbour on a sign.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The shared act of helping is a stronger connection than a surface word match.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 4,
+    "review": {
+      "version": "20260906-english-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": null,
+      "evidence_scope": "No direct task mapped by IXL; official curriculum-led review. See docs/question-bank-reviews/2026-09-06-year1-english-le01-le05.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1le02-er3-p-005",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LE02",
+    "bank": "practice",
+    "skill": "connecting literary responses with personal experiences",
+    "question": "A story child waits a long time for a turn. Which response connects with that event?",
+    "audio_prompt": "A story child waits a long time for a turn. Which response connects with that event?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The word turn has four letters.",
+        "is_correct": false
+      },
+      {
+        "text": "I remember waiting for the swing and feeling impatient.",
+        "is_correct": true
+      },
+      {
+        "text": "My swing is painted green.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The first response connects an experience and feeling to the event.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 5,
+    "review": {
+      "version": "20260906-english-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": null,
+      "evidence_scope": "No direct task mapped by IXL; official curriculum-led review. See docs/question-bank-reviews/2026-09-06-year1-english-le01-le05.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1le02-er3-p-006",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LE02",
+    "bank": "practice",
+    "skill": "connecting literary responses with personal experiences",
+    "question": "A character is pleased after finishing a hard puzzle. Noor remembers learning to tie her shoes. What is similar?",
+    "audio_prompt": "A character is pleased after finishing a hard puzzle. Noor remembers learning to tie her shoes. What is similar?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Doing exactly the same task.",
+        "is_correct": false
+      },
+      {
+        "text": "Using the same puzzle pieces.",
+        "is_correct": false
+      },
+      {
+        "text": "Feeling proud after learning something difficult.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Different tasks can lead to the same sense of achievement.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 6,
+    "review": {
+      "version": "20260906-english-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": null,
+      "evidence_scope": "No direct task mapped by IXL; official curriculum-led review. See docs/question-bank-reviews/2026-09-06-year1-english-le01-le05.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1le02-er3-p-007",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LE02",
+    "bank": "practice",
+    "skill": "connecting literary responses with personal experiences",
+    "question": "A story takes place at the beach. A reader has never visited a beach. Which response can still connect?",
+    "audio_prompt": "A story takes place at the beach. A reader has never visited a beach. Which response can still connect?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "I have played with sand at school, so I can imagine part of it.",
+        "is_correct": true
+      },
+      {
+        "text": "I must invent a beach holiday and say it happened.",
+        "is_correct": false
+      },
+      {
+        "text": "Only people who visited a beach can understand any part.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A related experience can help without pretending to have an identical one.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 7,
+    "review": {
+      "version": "20260906-english-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": null,
+      "evidence_scope": "No direct task mapped by IXL; official curriculum-led review. See docs/question-bank-reviews/2026-09-06-year1-english-le01-le05.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1le02-er3-p-008",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LE02",
+    "bank": "practice",
+    "skill": "connecting literary responses with personal experiences",
+    "question": "A character misses a friend who moves away. Which memory best helps a reader connect?",
+    "audio_prompt": "A character misses a friend who moves away. Which memory best helps a reader connect?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Seeing a moving van without caring who used it.",
+        "is_correct": false
+      },
+      {
+        "text": "Missing a cousin after a visit ends.",
+        "is_correct": true
+      },
+      {
+        "text": "Choosing a new pencil colour.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Missing someone is the shared experience that helps explain the feeling.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 8,
+    "review": {
+      "version": "20260906-english-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": null,
+      "evidence_scope": "No direct task mapped by IXL; official curriculum-led review. See docs/question-bank-reviews/2026-09-06-year1-english-le01-le05.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1le02-er3-p-009",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LE02",
+    "bank": "practice",
+    "skill": "connecting literary responses with personal experiences",
+    "question": "'Little Bear hid before singing, then joined the song.' Which response connects a change of feeling?",
+    "audio_prompt": "'Little Bear hid before singing, then joined the song.' Which response connects a change of feeling?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "I have seen a picture of a bear.",
+        "is_correct": false
+      },
+      {
+        "text": "Songs sometimes have words.",
+        "is_correct": false
+      },
+      {
+        "text": "I was shy at first in class, then joined when I felt ready.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The response connects the movement from hesitation to participation.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "apply",
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "sequence_priority": 9,
+    "review": {
+      "version": "20260906-english-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": null,
+      "evidence_scope": "No direct task mapped by IXL; official curriculum-led review. See docs/question-bank-reviews/2026-09-06-year1-english-le01-le05.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1le02-er3-p-010",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LE02",
+    "bank": "practice",
+    "skill": "connecting literary responses with personal experiences",
+    "question": "A poem makes Jo think of walks with her grandad. Which detail would make her response clearer?",
+    "audio_prompt": "A poem makes Jo think of walks with her grandad. Which detail would make her response clearer?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The poem's crunchy leaves remind me of our autumn walks.",
+        "is_correct": true
+      },
+      {
+        "text": "The poem reminds me of something.",
+        "is_correct": false
+      },
+      {
+        "text": "I know what a poem is.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Naming both the text detail and the memory makes the link clear.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "apply",
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "sequence_priority": 10,
+    "review": {
+      "version": "20260906-english-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": null,
+      "evidence_scope": "No direct task mapped by IXL; official curriculum-led review. See docs/question-bank-reviews/2026-09-06-year1-english-le01-le05.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1le02-er3-p-011",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LE02",
+    "bank": "practice",
+    "skill": "connecting literary responses with personal experiences",
+    "question": "A child in a story enjoys busy parties. Finn prefers quiet gatherings. Which response makes a valid difference?",
+    "audio_prompt": "A child in a story enjoys busy parties. Finn prefers quiet gatherings. Which response makes a valid difference?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "I must have the same preference to discuss the story.",
+        "is_correct": false
+      },
+      {
+        "text": "The character likes a crowd; I enjoy fewer people because it is quieter.",
+        "is_correct": true
+      },
+      {
+        "text": "The character's feeling must be wrong.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Readers can explain differences without rejecting another response.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "apply",
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "sequence_priority": 11,
+    "review": {
+      "version": "20260906-english-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": null,
+      "evidence_scope": "No direct task mapped by IXL; official curriculum-led review. See docs/question-bank-reviews/2026-09-06-year1-english-le01-le05.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1le02-er3-p-012",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LE02",
+    "bank": "practice",
+    "skill": "connecting literary responses with personal experiences",
+    "question": "A character shares a warm coat with a sibling. Which connection goes beyond matching the word coat?",
+    "audio_prompt": "A character shares a warm coat with a sibling. Which connection goes beyond matching the word coat?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "I saw the word coat on a label.",
+        "is_correct": false
+      },
+      {
+        "text": "My coat has four buttons.",
+        "is_correct": false
+      },
+      {
+        "text": "I shared my lunch when my friend forgot theirs.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Sharing something needed is the meaningful link across different objects.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "apply",
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "sequence_priority": 12,
+    "review": {
+      "version": "20260906-english-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": null,
+      "evidence_scope": "No direct task mapped by IXL; official curriculum-led review. See docs/question-bank-reviews/2026-09-06-year1-english-le01-le05.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1le02-er3-p-013",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LE02",
+    "bank": "practice",
+    "skill": "connecting literary responses with personal experiences",
+    "question": "A story child feels worried before a race. A reader says, 'I know that feeling.' Which addition explains the connection?",
+    "audio_prompt": "A story child feels worried before a race. A reader says, 'I know that feeling.' Which addition explains the connection?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "I felt worried before my first class talk.",
+        "is_correct": true
+      },
+      {
+        "text": "The race is a noun.",
+        "is_correct": false
+      },
+      {
+        "text": "Stories can have titles.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The added personal example identifies a similar feeling in another situation.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "apply",
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "sequence_priority": 13,
+    "review": {
+      "version": "20260906-english-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": null,
+      "evidence_scope": "No direct task mapped by IXL; official curriculum-led review. See docs/question-bank-reviews/2026-09-06-year1-english-le01-le05.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1le02-er3-p-014",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LE02",
+    "bank": "practice",
+    "skill": "connecting literary responses with personal experiences",
+    "question": "A reader laughs at a clumsy dragon; another worries it will get hurt. What can they discuss?",
+    "audio_prompt": "A reader laughs at a clumsy dragon; another worries it will get hurt. What can they discuss?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Why every reader must laugh.",
+        "is_correct": false
+      },
+      {
+        "text": "Which story details led to their different responses.",
+        "is_correct": true
+      },
+      {
+        "text": "Which reader is allowed to have feelings.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Different reactions can be discussed using evidence from the text.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "apply",
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "sequence_priority": 14,
+    "review": {
+      "version": "20260906-english-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": null,
+      "evidence_scope": "No direct task mapped by IXL; official curriculum-led review. See docs/question-bank-reviews/2026-09-06-year1-english-le01-le05.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1le02-er3-p-015",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LE02",
+    "bank": "practice",
+    "skill": "connecting literary responses with personal experiences",
+    "question": "A story character repairs a torn kite. Which memory could help connect with the character's effort?",
+    "audio_prompt": "A story character repairs a torn kite. Which memory could help connect with the character's effort?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Watching a kite far away without knowing its owner.",
+        "is_correct": false
+      },
+      {
+        "text": "Choosing a word that rhymes with kite.",
+        "is_correct": false
+      },
+      {
+        "text": "Trying several times to fix a broken model.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The shared effort to repair something gives a meaningful connection.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "apply",
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "sequence_priority": 15,
+    "review": {
+      "version": "20260906-english-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": null,
+      "evidence_scope": "No direct task mapped by IXL; official curriculum-led review. See docs/question-bank-reviews/2026-09-06-year1-english-le01-le05.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1le02-er3-p-016",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LE02",
+    "bank": "practice",
+    "skill": "connecting literary responses with personal experiences",
+    "question": "A child says a lonely character reminds them of being left out of a game. What does this connection help explain?",
+    "audio_prompt": "A child says a lonely character reminds them of being left out of a game. What does this connection help explain?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Why the child understands the lonely feeling.",
+        "is_correct": true
+      },
+      {
+        "text": "Where the character lives exactly.",
+        "is_correct": false
+      },
+      {
+        "text": "What every reader has experienced.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A personal memory can help interpret one feeling without proving facts about everyone.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "apply",
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "sequence_priority": 16,
+    "review": {
+      "version": "20260906-english-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": null,
+      "evidence_scope": "No direct task mapped by IXL; official curriculum-led review. See docs/question-bank-reviews/2026-09-06-year1-english-le01-le05.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1le02-er3-p-017",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LE02",
+    "bank": "practice",
+    "skill": "connecting literary responses with personal experiences",
+    "question": "A story says a child is excited to move house. A reader felt sad when moving. Which response uses both text and experience?",
+    "audio_prompt": "A story says a child is excited to move house. A reader felt sad when moving. Which response uses both text and experience?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The character must secretly feel exactly as I did.",
+        "is_correct": false
+      },
+      {
+        "text": "The character feels excited, but I felt sad to leave friends.",
+        "is_correct": true
+      },
+      {
+        "text": "Moving always makes everyone sad, so the story is wrong.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A reader can compare contrasting feelings without changing the text's evidence.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "reason",
+    "difficulty": 3,
+    "difficulty_tier": "reason",
+    "sequence_priority": 17,
+    "review": {
+      "version": "20260906-english-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": null,
+      "evidence_scope": "No direct task mapped by IXL; official curriculum-led review. See docs/question-bank-reviews/2026-09-06-year1-english-le01-le05.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1le02-er3-p-018",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LE02",
+    "bank": "practice",
+    "skill": "connecting literary responses with personal experiences",
+    "question": "A poem mentions a barking dog. Ava remembers her dog comforting her when ill. Which detail should she check before claiming the poem is about comfort?",
+    "audio_prompt": "A poem mentions a barking dog. Ava remembers her dog comforting her when ill. Which detail should she check before claiming the poem is about comfort?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Whether the poem has the word dog at all.",
+        "is_correct": false
+      },
+      {
+        "text": "Whether her memory is important to her.",
+        "is_correct": false
+      },
+      {
+        "text": "Whether the poem gives any clue about comfort.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A memory can be meaningful without proving the poem shares every part of it.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "reason",
+    "difficulty": 3,
+    "difficulty_tier": "reason",
+    "sequence_priority": 18,
+    "review": {
+      "version": "20260906-english-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": null,
+      "evidence_scope": "No direct task mapped by IXL; official curriculum-led review. See docs/question-bank-reviews/2026-09-06-year1-english-le01-le05.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1le02-er3-p-019",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LE02",
+    "bank": "practice",
+    "skill": "connecting literary responses with personal experiences",
+    "question": "A reader says, 'This story reminds me of my birthday.' What question would help make the connection clearer?",
+    "audio_prompt": "A reader says, 'This story reminds me of my birthday.' What question would help make the connection clearer?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Which event or feeling in the story reminds you of it?",
+        "is_correct": true
+      },
+      {
+        "text": "How many letters are in birthday?",
+        "is_correct": false
+      },
+      {
+        "text": "Can you repeat the title louder?",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The question asks for the connection between text and experience.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "reason",
+    "difficulty": 3,
+    "difficulty_tier": "reason",
+    "sequence_priority": 19,
+    "review": {
+      "version": "20260906-english-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": null,
+      "evidence_scope": "No direct task mapped by IXL; official curriculum-led review. See docs/question-bank-reviews/2026-09-06-year1-english-le01-le05.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1le02-er3-p-020",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LE02",
+    "bank": "practice",
+    "skill": "connecting literary responses with personal experiences",
+    "question": "A character chooses to ask for help. A reader remembers solving a problem alone. Which response compares the experiences?",
+    "audio_prompt": "A character chooses to ask for help. A reader remembers solving a problem alone. Which response compares the experiences?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Only one of us was allowed to try.",
+        "is_correct": false
+      },
+      {
+        "text": "The character asked someone; I tried alone, but both of us wanted to solve a problem.",
+        "is_correct": true
+      },
+      {
+        "text": "We did exactly the same thing.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The response notices both a difference in method and a shared goal.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "reason",
+    "difficulty": 3,
+    "difficulty_tier": "reason",
+    "sequence_priority": 20,
+    "review": {
+      "version": "20260906-english-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": null,
+      "evidence_scope": "No direct task mapped by IXL; official curriculum-led review. See docs/question-bank-reviews/2026-09-06-year1-english-le01-le05.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1le02-er3-p-021",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LE02",
+    "bank": "practice",
+    "skill": "connecting literary responses with personal experiences",
+    "question": "Two children connect a lost-pet story with different memories: a missing toy and a delayed family member. What could both memories share?",
+    "audio_prompt": "Two children connect a lost-pet story with different memories: a missing toy and a delayed family member. What could both memories share?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The exact same missing animal.",
+        "is_correct": false
+      },
+      {
+        "text": "The same location and date.",
+        "is_correct": false
+      },
+      {
+        "text": "Worry while waiting to find someone or something.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The emotional connection can be similar even when the events differ.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "reason",
+    "difficulty": 3,
+    "difficulty_tier": "reason",
+    "sequence_priority": 21,
+    "review": {
+      "version": "20260906-english-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": null,
+      "evidence_scope": "No direct task mapped by IXL; official curriculum-led review. See docs/question-bank-reviews/2026-09-06-year1-english-le01-le05.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1le02-er3-p-022",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LE02",
+    "bank": "practice",
+    "skill": "connecting literary responses with personal experiences",
+    "question": "A story child forgives a friend. Which response links an experience and explains its relevance?",
+    "audio_prompt": "A story child forgives a friend. Which response links an experience and explains its relevance?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "I forgave my friend after an accident, so I understand wanting to stay friends.",
+        "is_correct": true
+      },
+      {
+        "text": "I have a friend whose name starts with F.",
+        "is_correct": false
+      },
+      {
+        "text": "Forgive is a long word.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The first response makes the relationship between memory and story explicit.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "reason",
+    "difficulty": 3,
+    "difficulty_tier": "reason",
+    "sequence_priority": 22,
+    "review": {
+      "version": "20260906-english-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": null,
+      "evidence_scope": "No direct task mapped by IXL; official curriculum-led review. See docs/question-bank-reviews/2026-09-06-year1-english-le01-le05.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1le02-er3-p-023",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LE02",
+    "bank": "practice",
+    "skill": "connecting literary responses with personal experiences",
+    "question": "A reader has never camped but remembers hearing strange sounds in a dark room. How might that help with a night-camping story?",
+    "audio_prompt": "A reader has never camped but remembers hearing strange sounds in a dark room. How might that help with a night-camping story?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It means every outdoor sound is dangerous.",
+        "is_correct": false
+      },
+      {
+        "text": "It may help them imagine uncertainty in the dark.",
+        "is_correct": true
+      },
+      {
+        "text": "It proves they have slept in the same tent.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A related sensory experience can support imagination without establishing identical events.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "reason",
+    "difficulty": 3,
+    "difficulty_tier": "reason",
+    "sequence_priority": 23,
+    "review": {
+      "version": "20260906-english-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": null,
+      "evidence_scope": "No direct task mapped by IXL; official curriculum-led review. See docs/question-bank-reviews/2026-09-06-year1-english-le01-le05.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1le02-er3-p-024",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LE02",
+    "bank": "practice",
+    "skill": "connecting literary responses with personal experiences",
+    "question": "A reader says, 'The hero is selfish because I dislike sharing.' What should they reconsider?",
+    "audio_prompt": "A reader says, 'The hero is selfish because I dislike sharing.' What should they reconsider?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Personal preferences always prove character traits.",
+        "is_correct": false
+      },
+      {
+        "text": "A reader cannot mention any personal experience.",
+        "is_correct": false
+      },
+      {
+        "text": "Their own preference does not establish what the hero is like.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Character claims need story evidence; personal responses and textual facts are different.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "reason",
+    "difficulty": 3,
+    "difficulty_tier": "reason",
+    "sequence_priority": 24,
+    "review": {
+      "version": "20260906-english-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": null,
+      "evidence_scope": "No direct task mapped by IXL; official curriculum-led review. See docs/question-bank-reviews/2026-09-06-year1-english-le01-le05.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1le02-er3-t-001",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LE02",
+    "bank": "test",
+    "skill": "connecting literary responses with personal experiences",
+    "question": "A story child feels proud after learning to skate. Mei remembers reading her first book alone. What connects them?",
+    "audio_prompt": "A story child feels proud after learning to skate. Mei remembers reading her first book alone. What connects them?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Succeeding after learning a skill.",
+        "is_correct": true
+      },
+      {
+        "text": "Using exactly the same equipment.",
+        "is_correct": false
+      },
+      {
+        "text": "Being in the same place.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The shared achievement connects different activities.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "independent",
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 1,
+    "review": {
+      "version": "20260906-english-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": null,
+      "evidence_scope": "No direct task mapped by IXL; official curriculum-led review. See docs/question-bank-reviews/2026-09-06-year1-english-le01-le05.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1le02-er3-t-002",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LE02",
+    "bank": "test",
+    "skill": "connecting literary responses with personal experiences",
+    "question": "A poem describes a quiet garden. Luis remembers sitting peacefully under a tree. What kind of link is this?",
+    "audio_prompt": "A poem describes a quiet garden. Luis remembers sitting peacefully under a tree. What kind of link is this?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A match between two identical gardens.",
+        "is_correct": false
+      },
+      {
+        "text": "A similar calm experience.",
+        "is_correct": true
+      },
+      {
+        "text": "Proof that the poem describes Luis.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The memory supports a response to the poem's calm setting.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "independent",
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 2,
+    "review": {
+      "version": "20260906-english-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": null,
+      "evidence_scope": "No direct task mapped by IXL; official curriculum-led review. See docs/question-bank-reviews/2026-09-06-year1-english-le01-le05.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1le02-er3-t-003",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LE02",
+    "bank": "test",
+    "skill": "connecting literary responses with personal experiences",
+    "question": "A character dislikes a noisy parade. A reader loves parades. Which response is useful?",
+    "audio_prompt": "A character dislikes a noisy parade. A reader loves parades. Which response is useful?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The character cannot dislike something I like.",
+        "is_correct": false
+      },
+      {
+        "text": "I will change the character's words to match mine.",
+        "is_correct": false
+      },
+      {
+        "text": "I enjoy the music, but I can see why the noise bothers the character.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The reader can explain a difference while recognising the character's experience.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "independent",
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 3,
+    "review": {
+      "version": "20260906-english-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": null,
+      "evidence_scope": "No direct task mapped by IXL; official curriculum-led review. See docs/question-bank-reviews/2026-09-06-year1-english-le01-le05.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1le02-er3-t-004",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LE02",
+    "bank": "test",
+    "skill": "connecting literary responses with personal experiences",
+    "question": "A story child finds a lost hat and feels relieved. Which memory is closest?",
+    "audio_prompt": "A story child finds a lost hat and feels relieved. Which memory is closest?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Finding a missing library book after searching.",
+        "is_correct": true
+      },
+      {
+        "text": "Buying a book that was never lost.",
+        "is_correct": false
+      },
+      {
+        "text": "Counting all the hats in a picture.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The search and relief provide the meaningful connection.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "independent",
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 4,
+    "review": {
+      "version": "20260906-english-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": null,
+      "evidence_scope": "No direct task mapped by IXL; official curriculum-led review. See docs/question-bank-reviews/2026-09-06-year1-english-le01-le05.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1le02-er3-t-005",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LE02",
+    "bank": "test",
+    "skill": "connecting literary responses with personal experiences",
+    "question": "A character struggles to make a new friend. Which response gives a related experience?",
+    "audio_prompt": "A character struggles to make a new friend. Which response gives a related experience?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Friend is a word I can spell.",
+        "is_correct": false
+      },
+      {
+        "text": "I felt unsure when I joined a new team.",
+        "is_correct": true
+      },
+      {
+        "text": "My team has blue shirts.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Joining a new group can involve a similar social uncertainty.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "independent",
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 5,
+    "review": {
+      "version": "20260906-english-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": null,
+      "evidence_scope": "No direct task mapped by IXL; official curriculum-led review. See docs/question-bank-reviews/2026-09-06-year1-english-le01-le05.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1le02-er3-t-006",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LE02",
+    "bank": "test",
+    "skill": "connecting literary responses with personal experiences",
+    "question": "A reader has never seen snow. Which response honestly makes a connection to a snowy poem?",
+    "audio_prompt": "A reader has never seen snow. Which response honestly makes a connection to a snowy poem?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "I have played in snow because the poem says so.",
+        "is_correct": false
+      },
+      {
+        "text": "There is nothing I can discuss at all.",
+        "is_correct": false
+      },
+      {
+        "text": "I remember cold mornings, though I have not touched snow.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A related experience can help while acknowledging what is unfamiliar.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "independent",
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 6,
+    "review": {
+      "version": "20260906-english-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": null,
+      "evidence_scope": "No direct task mapped by IXL; official curriculum-led review. See docs/question-bank-reviews/2026-09-06-year1-english-le01-le05.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1le02-er3-t-007",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LE02",
+    "bank": "test",
+    "skill": "connecting literary responses with personal experiences",
+    "question": "A character is disappointed when a trip is cancelled. Which memory best connects?",
+    "audio_prompt": "A character is disappointed when a trip is cancelled. Which memory best connects?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Feeling let down when an expected visit did not happen.",
+        "is_correct": true
+      },
+      {
+        "text": "Looking at a calendar with no plans.",
+        "is_correct": false
+      },
+      {
+        "text": "Learning the word trip.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Both experiences involve an anticipated event not happening.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "independent",
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 7,
+    "review": {
+      "version": "20260906-english-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": null,
+      "evidence_scope": "No direct task mapped by IXL; official curriculum-led review. See docs/question-bank-reviews/2026-09-06-year1-english-le01-le05.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1le02-er3-t-008",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LE02",
+    "bank": "test",
+    "skill": "connecting literary responses with personal experiences",
+    "question": "A story child shares a secret with a trusted friend. What memory could help a reader connect?",
+    "audio_prompt": "A story child shares a secret with a trusted friend. What memory could help a reader connect?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Reading the word secret backwards.",
+        "is_correct": false
+      },
+      {
+        "text": "Feeling safe telling a trusted person something important.",
+        "is_correct": true
+      },
+      {
+        "text": "Counting how many people are in a room.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The connection concerns trust, not just the presence of people or words.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "independent",
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 8,
+    "review": {
+      "version": "20260906-english-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": null,
+      "evidence_scope": "No direct task mapped by IXL; official curriculum-led review. See docs/question-bank-reviews/2026-09-06-year1-english-le01-le05.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1le02-er3-t-009",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LE02",
+    "bank": "test",
+    "skill": "connecting literary responses with personal experiences",
+    "question": "Two readers react differently to a surprise ending. One is pleased; one is puzzled. What can help their discussion?",
+    "audio_prompt": "Two readers react differently to a surprise ending. One is pleased; one is puzzled. What can help their discussion?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Decide everyone must feel pleased.",
+        "is_correct": false
+      },
+      {
+        "text": "Ignore the ending and compare pencils.",
+        "is_correct": false
+      },
+      {
+        "text": "Explain which ending details shaped each response.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Evidence helps readers explain different responses constructively.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "independent",
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 9,
+    "review": {
+      "version": "20260906-english-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": null,
+      "evidence_scope": "No direct task mapped by IXL; official curriculum-led review. See docs/question-bank-reviews/2026-09-06-year1-english-le01-le05.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1le02-er3-t-010",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LE02",
+    "bank": "test",
+    "skill": "connecting literary responses with personal experiences",
+    "question": "A reader says, 'The boat story reminds me of learning to ride.' What could make that connection meaningful?",
+    "audio_prompt": "A reader says, 'The boat story reminds me of learning to ride.' What could make that connection meaningful?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Both involved trying something that felt difficult at first.",
+        "is_correct": true
+      },
+      {
+        "text": "Boats and bikes are exactly the same.",
+        "is_correct": false
+      },
+      {
+        "text": "The story must have included a bicycle.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A shared challenge can connect unlike activities.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "independent",
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 10,
+    "review": {
+      "version": "20260906-english-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": null,
+      "evidence_scope": "No direct task mapped by IXL; official curriculum-led review. See docs/question-bank-reviews/2026-09-06-year1-english-le01-le05.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1le02-er3-t-011",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LE02",
+    "bank": "test",
+    "skill": "connecting literary responses with personal experiences",
+    "question": "A poem's repeated footsteps remind Hana of walking home in rain. Which response makes the link explicit?",
+    "audio_prompt": "A poem's repeated footsteps remind Hana of walking home in rain. Which response makes the link explicit?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "I walked somewhere once.",
+        "is_correct": false
+      },
+      {
+        "text": "The repeated steps remind me of my shoes splashing on the way home.",
+        "is_correct": true
+      },
+      {
+        "text": "This poem is a poem.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The response names a feature in the text and a related memory.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "independent",
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 11,
+    "review": {
+      "version": "20260906-english-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": null,
+      "evidence_scope": "No direct task mapped by IXL; official curriculum-led review. See docs/question-bank-reviews/2026-09-06-year1-english-le01-le05.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1le02-er3-t-012",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LE02",
+    "bank": "test",
+    "skill": "connecting literary responses with personal experiences",
+    "question": "A character chooses to stay home, but a reader likes going out. Which response avoids assuming everyone is the same?",
+    "audio_prompt": "A character chooses to stay home, but a reader likes going out. Which response avoids assuming everyone is the same?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Nobody can enjoy staying home.",
+        "is_correct": false
+      },
+      {
+        "text": "The story must say the character went out.",
+        "is_correct": false
+      },
+      {
+        "text": "I would choose differently, but the character may enjoy quiet time.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Personal choices can differ while both remain understandable.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "independent",
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 12,
+    "review": {
+      "version": "20260906-english-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": null,
+      "evidence_scope": "No direct task mapped by IXL; official curriculum-led review. See docs/question-bank-reviews/2026-09-06-year1-english-le01-le05.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1le02-er3-t-013",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LE02",
+    "bank": "test",
+    "skill": "connecting literary responses with personal experiences",
+    "question": "A reader remembers being frightened by thunder. A story shows a child enjoying the storm. What should the reader preserve when responding?",
+    "audio_prompt": "A reader remembers being frightened by thunder. A story shows a child enjoying the storm. What should the reader preserve when responding?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The story child's stated enjoyment and their own different feeling.",
+        "is_correct": true
+      },
+      {
+        "text": "Only their own feeling, replacing the character's.",
+        "is_correct": false
+      },
+      {
+        "text": "The idea that all storms cause one identical feeling.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A connection can compare a difference without rewriting the text.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "independent",
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 13,
+    "review": {
+      "version": "20260906-english-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": null,
+      "evidence_scope": "No direct task mapped by IXL; official curriculum-led review. See docs/question-bank-reviews/2026-09-06-year1-english-le01-le05.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1le02-er3-t-014",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LE02",
+    "bank": "test",
+    "skill": "connecting literary responses with personal experiences",
+    "question": "A child connects a kind character with their helpful aunt. Which detail best supports the connection?",
+    "audio_prompt": "A child connects a kind character with their helpful aunt. Which detail best supports the connection?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Both have names with letters.",
+        "is_correct": false
+      },
+      {
+        "text": "Both notice when someone needs help and offer it.",
+        "is_correct": true
+      },
+      {
+        "text": "Both are mentioned in sentences.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The shared behaviour makes the connection specific and relevant.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "independent",
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 14,
+    "review": {
+      "version": "20260906-english-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": null,
+      "evidence_scope": "No direct task mapped by IXL; official curriculum-led review. See docs/question-bank-reviews/2026-09-06-year1-english-le01-le05.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1le02-er3-t-015",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LE02",
+    "bank": "test",
+    "skill": "connecting literary responses with personal experiences",
+    "question": "A reader shares a memory that has the same colour as a story object but no similar event or feeling. How could they strengthen the response?",
+    "audio_prompt": "A reader shares a memory that has the same colour as a story object but no similar event or feeling. How could they strengthen the response?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Repeat the colour without adding a link.",
+        "is_correct": false
+      },
+      {
+        "text": "Claim the author wrote about their own life.",
+        "is_correct": false
+      },
+      {
+        "text": "Explain how the object or event connects to what they experienced.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A meaningful connection explains why a detail matters to the experience.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "independent",
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 15,
+    "review": {
+      "version": "20260906-english-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": null,
+      "evidence_scope": "No direct task mapped by IXL; official curriculum-led review. See docs/question-bank-reviews/2026-09-06-year1-english-le01-le05.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1le02-er3-t-016",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LE02",
+    "bank": "test",
+    "skill": "connecting literary responses with personal experiences",
+    "question": "A friend does not want to share a private memory during story discussion. What response still allows participation?",
+    "audio_prompt": "A friend does not want to share a private memory during story discussion. What response still allows participation?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "They can discuss the character or share a non-private connection.",
+        "is_correct": true
+      },
+      {
+        "text": "They must reveal the memory to understand the story.",
+        "is_correct": false
+      },
+      {
+        "text": "They cannot respond to literature at all.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Readers can participate without disclosing personal information they wish to keep private.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "independent",
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 16,
+    "review": {
+      "version": "20260906-english-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": null,
+      "evidence_scope": "No direct task mapped by IXL; official curriculum-led review. See docs/question-bank-reviews/2026-09-06-year1-english-le01-le05.md. No measured equivalence or IXL endorsement."
+    }
+  }
+]
