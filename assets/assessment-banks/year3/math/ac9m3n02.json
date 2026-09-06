@@ -5,13 +5,13 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3N02",
     "bank": "practice",
-    "skill": "fractions",
-    "question": "At the trading station, one whole is split into 2 equal parts. What is one part called?",
-    "audio_prompt": "At the trading station, one whole is split into 2 equal parts. What is one part called?",
+    "skill": "unit_area",
+    "question": "The strip is split into 2 equal parts. What fraction is blue?",
+    "audio_prompt": "The strip is split into 2 equal parts. What fraction is blue?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n02.svg#ac9m3n02-p-001",
-      "alt_text": "At the trading station: One whole divided into 2 equal parts with 1 shaded."
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n02-reviewed.svg#ac9m3n02-p-001",
+      "alt_text": "A strip divided into 2 equal parts with one blue."
     },
     "answers": [
       {
@@ -25,16 +25,18 @@
       {
         "text": "1/3",
         "is_correct": false
+      },
+      {
+        "text": "1/4",
+        "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "One of 2 equal parts is 1/2.",
-      "hint": "The denominator counts equal parts in the whole."
+      "summary": "One of 2 equal parts is blue, so it is 1/2.",
+      "hint": "Count all equal parts before counting the blue part."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty": 1
   },
   {
     "id": "AC9M3N02-P-002",
@@ -42,596 +44,13 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3N02",
     "bank": "practice",
-    "skill": "fractions",
-    "question": "At the trading station, which fraction describes 1 of 2 equal parts shaded?",
-    "audio_prompt": "At the trading station, which fraction describes 1 of 2 equal parts shaded?",
+    "skill": "multiple_area",
+    "question": "What fraction of this 4-part strip is blue?",
+    "audio_prompt": "What fraction of this 4-part strip is blue?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n02.svg#ac9m3n02-p-002",
-      "alt_text": "At the trading station: One whole divided into 2 equal parts with 1 shaded."
-    },
-    "answers": [
-      {
-        "text": "2/1",
-        "is_correct": false
-      },
-      {
-        "text": "1/3",
-        "is_correct": false
-      },
-      {
-        "text": "1/2",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "1 selected parts out of 2 equal parts is 1/2.",
-      "hint": "Count shaded parts, then all equal parts."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
-  },
-  {
-    "id": "AC9M3N02-P-003",
-    "subject": "math",
-    "year_level": "Year 3",
-    "curriculum_code": "AC9M3N02",
-    "bank": "practice",
-    "skill": "fractions",
-    "question": "At the trading station, how many halves make one whole?",
-    "audio_prompt": "At the trading station, how many halves make one whole?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n02.svg#ac9m3n02-p-003",
-      "alt_text": "At the trading station: One whole divided into 2 equal parts with 2 shaded."
-    },
-    "answers": [
-      {
-        "text": "2",
-        "is_correct": true
-      },
-      {
-        "text": "1",
-        "is_correct": false
-      },
-      {
-        "text": "3",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "2/2 is one whole.",
-      "hint": "The denominator tells how many equal parts complete the whole."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
-  },
-  {
-    "id": "AC9M3N02-P-004",
-    "subject": "math",
-    "year_level": "Year 3",
-    "curriculum_code": "AC9M3N02",
-    "bank": "practice",
-    "skill": "fractions",
-    "question": "At the trading station, what completes 1/2 to make one whole?",
-    "audio_prompt": "At the trading station, what completes 1/2 to make one whole?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n02.svg#ac9m3n02-p-004",
-      "alt_text": "At the trading station: One whole divided into 2 equal parts with 1 shaded."
-    },
-    "answers": [
-      {
-        "text": "2/2",
-        "is_correct": false
-      },
-      {
-        "text": "1/2",
-        "is_correct": true
-      },
-      {
-        "text": "1/3",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "1/2 + 1/2 = 2/2, or one whole.",
-      "hint": "Count the unshaded equal parts."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
-  },
-  {
-    "id": "AC9M3N02-P-005",
-    "subject": "math",
-    "year_level": "Year 3",
-    "curriculum_code": "AC9M3N02",
-    "bank": "practice",
-    "skill": "fractions",
-    "question": "At the trading station, which statement about 1/2 is correct?",
-    "audio_prompt": "At the trading station, which statement about 1/2 is correct?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n02.svg#ac9m3n02-p-005",
-      "alt_text": "At the trading station: One whole divided into 2 equal parts with 1 shaded."
-    },
-    "answers": [
-      {
-        "text": "2 of 1 parts are selected",
-        "is_correct": false
-      },
-      {
-        "text": "1 unequal parts are selected",
-        "is_correct": false
-      },
-      {
-        "text": "1 of 2 equal parts are selected",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "A fraction names selected equal parts of one whole.",
-      "hint": "The numerator is selected parts; the denominator is all equal parts."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
-  },
-  {
-    "id": "AC9M3N02-P-006",
-    "subject": "math",
-    "year_level": "Year 3",
-    "curriculum_code": "AC9M3N02",
-    "bank": "practice",
-    "skill": "equal_fraction_parts",
-    "question": "At the trading station, can 2 different-sized pieces be called equal fraction parts?",
-    "audio_prompt": "At the trading station, can 2 different-sized pieces be called equal fraction parts?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n02.svg#ac9m3n02-p-006",
-      "alt_text": "At the trading station: 2 visibly unequal pieces of one whole."
-    },
-    "answers": [
-      {
-        "text": "No, the pieces must be equal",
-        "is_correct": true
-      },
-      {
-        "text": "Yes, only the number of pieces matters",
-        "is_correct": false
-      },
-      {
-        "text": "Yes, if one piece is very large",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Fraction parts of one whole must be equal in size.",
-      "hint": "Compare the sizes, not only the count."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
-  },
-  {
-    "id": "AC9M3N02-P-007",
-    "subject": "math",
-    "year_level": "Year 3",
-    "curriculum_code": "AC9M3N02",
-    "bank": "practice",
-    "skill": "fractions",
-    "question": "At the trading station, which sum makes one whole?",
-    "audio_prompt": "At the trading station, which sum makes one whole?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n02.svg#ac9m3n02-p-007",
-      "alt_text": "At the trading station: One whole divided into 2 equal parts with 2 shaded."
-    },
-    "answers": [
-      {
-        "text": "1/2 + 1/3",
-        "is_correct": false
-      },
-      {
-        "text": "1/2 + 1/2",
-        "is_correct": true
-      },
-      {
-        "text": "1/2 + 2/2",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "The numerators total 2 while the equal parts keep denominator 2.",
-      "hint": "Use parts of the same size and count until you have 2."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
-  },
-  {
-    "id": "AC9M3N02-P-008",
-    "subject": "math",
-    "year_level": "Year 3",
-    "curriculum_code": "AC9M3N02",
-    "bank": "practice",
-    "skill": "fractions",
-    "question": "At the trading station, a student writes 1/2 + 1/2 = 2/4. What is the mistake?",
-    "audio_prompt": "At the trading station, a student writes 1/2 + 1/2 = 2/4. What is the mistake?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n02.svg#ac9m3n02-p-008",
-      "alt_text": "At the trading station: One whole divided into 2 equal parts with 2 shaded."
-    },
-    "answers": [
-      {
-        "text": "The numerator should stay 1",
-        "is_correct": false
-      },
-      {
-        "text": "Fractions cannot make a whole",
-        "is_correct": false
-      },
-      {
-        "text": "The denominator should stay 2",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "When equal-sized parts are combined, count the parts and keep their size: 2/2=1.",
-      "hint": "Do not add denominators when the parts have the same denominator."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9M3N02-P-009",
-    "subject": "math",
-    "year_level": "Year 3",
-    "curriculum_code": "AC9M3N02",
-    "bank": "practice",
-    "skill": "fractions",
-    "question": "With base-ten blocks, one whole is split into 3 equal parts. What is one part called?",
-    "audio_prompt": "With base-ten blocks, one whole is split into 3 equal parts. What is one part called?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n02.svg#ac9m3n02-p-009",
-      "alt_text": "With base-ten blocks: One whole divided into 3 equal parts with 1 shaded."
-    },
-    "answers": [
-      {
-        "text": "1/3",
-        "is_correct": true
-      },
-      {
-        "text": "3/1",
-        "is_correct": false
-      },
-      {
-        "text": "1/4",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "One of 3 equal parts is 1/3.",
-      "hint": "The denominator counts equal parts in the whole."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
-  },
-  {
-    "id": "AC9M3N02-P-010",
-    "subject": "math",
-    "year_level": "Year 3",
-    "curriculum_code": "AC9M3N02",
-    "bank": "practice",
-    "skill": "fractions",
-    "question": "With base-ten blocks, which fraction describes 2 of 3 equal parts shaded?",
-    "audio_prompt": "With base-ten blocks, which fraction describes 2 of 3 equal parts shaded?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n02.svg#ac9m3n02-p-010",
-      "alt_text": "With base-ten blocks: One whole divided into 3 equal parts with 2 shaded."
-    },
-    "answers": [
-      {
-        "text": "3/2",
-        "is_correct": false
-      },
-      {
-        "text": "2/3",
-        "is_correct": true
-      },
-      {
-        "text": "2/4",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "2 selected parts out of 3 equal parts is 2/3.",
-      "hint": "Count shaded parts, then all equal parts."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9M3N02-P-011",
-    "subject": "math",
-    "year_level": "Year 3",
-    "curriculum_code": "AC9M3N02",
-    "bank": "practice",
-    "skill": "fractions",
-    "question": "With base-ten blocks, how many thirds make one whole?",
-    "audio_prompt": "With base-ten blocks, how many thirds make one whole?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n02.svg#ac9m3n02-p-011",
-      "alt_text": "With base-ten blocks: One whole divided into 3 equal parts with 3 shaded."
-    },
-    "answers": [
-      {
-        "text": "2",
-        "is_correct": false
-      },
-      {
-        "text": "4",
-        "is_correct": false
-      },
-      {
-        "text": "3",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "3/3 is one whole.",
-      "hint": "The denominator tells how many equal parts complete the whole."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9M3N02-P-012",
-    "subject": "math",
-    "year_level": "Year 3",
-    "curriculum_code": "AC9M3N02",
-    "bank": "practice",
-    "skill": "fractions",
-    "question": "With base-ten blocks, what completes 2/3 to make one whole?",
-    "audio_prompt": "With base-ten blocks, what completes 2/3 to make one whole?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n02.svg#ac9m3n02-p-012",
-      "alt_text": "With base-ten blocks: One whole divided into 3 equal parts with 2 shaded."
-    },
-    "answers": [
-      {
-        "text": "1/3",
-        "is_correct": true
-      },
-      {
-        "text": "3/3",
-        "is_correct": false
-      },
-      {
-        "text": "1/4",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "2/3 + 1/3 = 3/3, or one whole.",
-      "hint": "Count the unshaded equal parts."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9M3N02-P-013",
-    "subject": "math",
-    "year_level": "Year 3",
-    "curriculum_code": "AC9M3N02",
-    "bank": "practice",
-    "skill": "fractions",
-    "question": "With base-ten blocks, which statement about 2/3 is correct?",
-    "audio_prompt": "With base-ten blocks, which statement about 2/3 is correct?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n02.svg#ac9m3n02-p-013",
-      "alt_text": "With base-ten blocks: One whole divided into 3 equal parts with 2 shaded."
-    },
-    "answers": [
-      {
-        "text": "3 of 2 parts are selected",
-        "is_correct": false
-      },
-      {
-        "text": "2 of 3 equal parts are selected",
-        "is_correct": true
-      },
-      {
-        "text": "2 unequal parts are selected",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "A fraction names selected equal parts of one whole.",
-      "hint": "The numerator is selected parts; the denominator is all equal parts."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9M3N02-P-014",
-    "subject": "math",
-    "year_level": "Year 3",
-    "curriculum_code": "AC9M3N02",
-    "bank": "practice",
-    "skill": "equal_fraction_parts",
-    "question": "With base-ten blocks, can 3 different-sized pieces be called equal fraction parts?",
-    "audio_prompt": "With base-ten blocks, can 3 different-sized pieces be called equal fraction parts?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n02.svg#ac9m3n02-p-014",
-      "alt_text": "With base-ten blocks: 3 visibly unequal pieces of one whole."
-    },
-    "answers": [
-      {
-        "text": "Yes, only the number of pieces matters",
-        "is_correct": false
-      },
-      {
-        "text": "Yes, if one piece is very large",
-        "is_correct": false
-      },
-      {
-        "text": "No, the pieces must be equal",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Fraction parts of one whole must be equal in size.",
-      "hint": "Compare the sizes, not only the count."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9M3N02-P-015",
-    "subject": "math",
-    "year_level": "Year 3",
-    "curriculum_code": "AC9M3N02",
-    "bank": "practice",
-    "skill": "fractions",
-    "question": "With base-ten blocks, which sum makes one whole?",
-    "audio_prompt": "With base-ten blocks, which sum makes one whole?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n02.svg#ac9m3n02-p-015",
-      "alt_text": "With base-ten blocks: One whole divided into 3 equal parts with 3 shaded."
-    },
-    "answers": [
-      {
-        "text": "2/3 + 1/3",
-        "is_correct": true
-      },
-      {
-        "text": "2/3 + 1/4",
-        "is_correct": false
-      },
-      {
-        "text": "2/3 + 2/3",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "The numerators total 3 while the equal parts keep denominator 3.",
-      "hint": "Use parts of the same size and count until you have 3."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9M3N02-P-016",
-    "subject": "math",
-    "year_level": "Year 3",
-    "curriculum_code": "AC9M3N02",
-    "bank": "practice",
-    "skill": "fractions",
-    "question": "With base-ten blocks, a student writes 2/3 + 1/3 = 3/6. What is the mistake?",
-    "audio_prompt": "With base-ten blocks, a student writes 2/3 + 1/3 = 3/6. What is the mistake?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n02.svg#ac9m3n02-p-016",
-      "alt_text": "With base-ten blocks: One whole divided into 3 equal parts with 3 shaded."
-    },
-    "answers": [
-      {
-        "text": "The numerator should stay 2",
-        "is_correct": false
-      },
-      {
-        "text": "The denominator should stay 3",
-        "is_correct": true
-      },
-      {
-        "text": "Fractions cannot make a whole",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "When equal-sized parts are combined, count the parts and keep their size: 3/3=1.",
-      "hint": "Do not add denominators when the parts have the same denominator."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9M3N02-P-017",
-    "subject": "math",
-    "year_level": "Year 3",
-    "curriculum_code": "AC9M3N02",
-    "bank": "practice",
-    "skill": "fractions",
-    "question": "In the place-value game, one whole is split into 4 equal parts. What is one part called?",
-    "audio_prompt": "In the place-value game, one whole is split into 4 equal parts. What is one part called?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n02.svg#ac9m3n02-p-017",
-      "alt_text": "In the place-value game: One whole divided into 4 equal parts with 1 shaded."
-    },
-    "answers": [
-      {
-        "text": "4/1",
-        "is_correct": false
-      },
-      {
-        "text": "1/5",
-        "is_correct": false
-      },
-      {
-        "text": "1/4",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "One of 4 equal parts is 1/4.",
-      "hint": "The denominator counts equal parts in the whole."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9M3N02-P-018",
-    "subject": "math",
-    "year_level": "Year 3",
-    "curriculum_code": "AC9M3N02",
-    "bank": "practice",
-    "skill": "fractions",
-    "question": "In the place-value game, which fraction describes 3 of 4 equal parts shaded?",
-    "audio_prompt": "In the place-value game, which fraction describes 3 of 4 equal parts shaded?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n02.svg#ac9m3n02-p-018",
-      "alt_text": "In the place-value game: One whole divided into 4 equal parts with 3 shaded."
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n02-reviewed.svg#ac9m3n02-p-002",
+      "alt_text": "3 blue parts in a strip of 4 equal parts."
     },
     "answers": [
       {
@@ -645,65 +64,32 @@
       {
         "text": "3/5",
         "is_correct": false
+      },
+      {
+        "text": "4/4",
+        "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "3 selected parts out of 4 equal parts is 3/4.",
-      "hint": "Count shaded parts, then all equal parts."
+      "summary": "There are 4 equal parts and 3 are blue: 3/4.",
+      "hint": "The denominator describes the whole strip."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 1
   },
   {
-    "id": "AC9M3N02-P-019",
+    "id": "AC9M3N02-P-003",
     "subject": "math",
     "year_level": "Year 3",
     "curriculum_code": "AC9M3N02",
     "bank": "practice",
-    "skill": "fractions",
-    "question": "In the place-value game, how many quarters make one whole?",
-    "audio_prompt": "In the place-value game, how many quarters make one whole?",
+    "skill": "number_line",
+    "question": "The intervals between 0 and 1 are equal. Which fraction is at P on this 4-interval line?",
+    "audio_prompt": "The intervals between 0 and 1 are equal. Which fraction is at P on this 4-interval line?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n02.svg#ac9m3n02-p-019",
-      "alt_text": "In the place-value game: One whole divided into 4 equal parts with 4 shaded."
-    },
-    "answers": [
-      {
-        "text": "3",
-        "is_correct": false
-      },
-      {
-        "text": "4",
-        "is_correct": true
-      },
-      {
-        "text": "5",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "4/4 is one whole.",
-      "hint": "The denominator tells how many equal parts complete the whole."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9M3N02-P-020",
-    "subject": "math",
-    "year_level": "Year 3",
-    "curriculum_code": "AC9M3N02",
-    "bank": "practice",
-    "skill": "fractions",
-    "question": "In the place-value game, what completes 3/4 to make one whole?",
-    "audio_prompt": "In the place-value game, what completes 3/4 to make one whole?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n02.svg#ac9m3n02-p-020",
-      "alt_text": "In the place-value game: One whole divided into 4 equal parts with 3 shaded."
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n02-reviewed.svg#ac9m3n02-p-003",
+      "alt_text": "0 to 1 divided into 4 equal intervals; P is 3 intervals from 0."
     },
     "answers": [
       {
@@ -711,21 +97,663 @@
         "is_correct": false
       },
       {
-        "text": "1/5",
+        "text": "3/5",
+        "is_correct": false
+      },
+      {
+        "text": "4/3",
+        "is_correct": false
+      },
+      {
+        "text": "3/4",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "The whole has 4 intervals. P is 3 intervals from zero, so P is 3/4.",
+      "hint": "Count spaces, not tick marks."
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "AC9M3N02-P-004",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3N02",
+    "bank": "practice",
+    "skill": "unit_collection",
+    "question": "6 counters are shared equally into 2 groups. How many counters are in 1/2 of the collection?",
+    "audio_prompt": "6 counters are shared equally into 2 groups. How many counters are in 1/2 of the collection?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "6",
+        "is_correct": false
+      },
+      {
+        "text": "5",
+        "is_correct": false
+      },
+      {
+        "text": "3",
+        "is_correct": true
+      },
+      {
+        "text": "4",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "6 ÷ 2 = 3. One equal group is 1/2 of the collection.",
+      "hint": "Divide the total by the denominator."
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "AC9M3N02-P-005",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3N02",
+    "bank": "practice",
+    "skill": "multiple_collection",
+    "question": "A tray has 20 seedlings. A gardener plants 3/4 of them. How many seedlings are planted?",
+    "audio_prompt": "A tray has 20 seedlings. A gardener plants 3/4 of them. How many seedlings are planted?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "5",
+        "is_correct": false
+      },
+      {
+        "text": "15",
+        "is_correct": true
+      },
+      {
+        "text": "17",
+        "is_correct": false
+      },
+      {
+        "text": "3",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "One 4th is 20 ÷ 4 = 5 seedlings. 3 such groups contain 3 × 5 = 15.",
+      "hint": "Find one fractional group, then count the required groups."
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "AC9M3N02-P-006",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3N02",
+    "bank": "practice",
+    "skill": "complete_whole",
+    "question": "A ribbon is 1/2 blue. The rest will be yellow. What fraction must be yellow?",
+    "audio_prompt": "A ribbon is 1/2 blue. The rest will be yellow. What fraction must be yellow?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n02-reviewed.svg#ac9m3n02-p-006",
+      "alt_text": "1 of 2 equal ribbon sections are blue; the rest are white."
+    },
+    "answers": [
+      {
+        "text": "1/2",
+        "is_correct": true
+      },
+      {
+        "text": "1/3",
+        "is_correct": false
+      },
+      {
+        "text": "2/1",
+        "is_correct": false
+      },
+      {
+        "text": "2/3",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A whole is 2/2. There are 1 of its 2 equal parts left.",
+      "hint": "Keep the same denominator when finding the missing parts."
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "AC9M3N02-P-007",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3N02",
+    "bank": "practice",
+    "skill": "unit_iteration",
+    "question": "How many pieces of length 1/4 metre join to make exactly 1 metre?",
+    "audio_prompt": "How many pieces of length 1/4 metre join to make exactly 1 metre?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "3",
+        "is_correct": false
+      },
+      {
+        "text": "5",
+        "is_correct": false
+      },
+      {
+        "text": "1",
+        "is_correct": false
+      },
+      {
+        "text": "4",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "4 copies of 1/4 make 4/4, which is one whole.",
+      "hint": "The denominator tells how many equal pieces make a whole."
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "AC9M3N02-P-008",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3N02",
+    "bank": "practice",
+    "skill": "fraction_language",
+    "question": "Which fraction means three quarters?",
+    "audio_prompt": "Which fraction means three quarters?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "4/3",
+        "is_correct": false
+      },
+      {
+        "text": "1/4",
+        "is_correct": false
+      },
+      {
+        "text": "3/4",
+        "is_correct": true
+      },
+      {
+        "text": "3/5",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The first number counts the parts; the fraction name tells the number of equal parts in one whole.",
+      "hint": "Say the numerator first and the name of the parts second."
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "AC9M3N02-P-009",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3N02",
+    "bank": "practice",
+    "skill": "equal_parts_reason",
+    "question": "A student cuts a sheet into 3 unequal pieces and labels each piece 1/3. What needs correcting?",
+    "audio_prompt": "A student cuts a sheet into 3 unequal pieces and labels each piece 1/3. What needs correcting?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "Each piece must be labelled 3/1.",
+        "is_correct": false
+      },
+      {
+        "text": "The pieces must have equal areas.",
+        "is_correct": true
+      },
+      {
+        "text": "Only the number of pieces matters.",
+        "is_correct": false
+      },
+      {
+        "text": "All pieces must be circles.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "To name each piece 1/3, the whole must be divided into 3 equal areas. The shape of each piece need not be identical.",
+      "hint": "A fraction describes equal shares, not just a count of pieces."
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "AC9M3N02-P-010",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3N02",
+    "bank": "practice",
+    "skill": "combine_three_parts",
+    "question": "A whole strip has 3 equal parts. 1/3 is blue and 1/3 is yellow. What fraction is still white?",
+    "audio_prompt": "A whole strip has 3 equal parts. 1/3 is blue and 1/3 is yellow. What fraction is still white?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n02-reviewed.svg#ac9m3n02-p-010",
+      "alt_text": "3 equal parts: 1 blue, one yellow and 1 white."
+    },
+    "answers": [
+      {
+        "text": "1/3",
+        "is_correct": true
+      },
+      {
+        "text": "1/4",
+        "is_correct": false
+      },
+      {
+        "text": "2/3",
+        "is_correct": false
+      },
+      {
+        "text": "3/1",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "1 + 1 = 2 parts are coloured. 3 − 2 = 1 parts remain, so 1/3 is white.",
+      "hint": "Combine the coloured parts, then complete the whole."
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "AC9M3N02-P-011",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3N02",
+    "bank": "practice",
+    "skill": "reconstruct_whole",
+    "question": "2 equal pieces together make 2/4 of a paper strip. How many of these pieces make the entire strip?",
+    "audio_prompt": "2 equal pieces together make 2/4 of a paper strip. How many of these pieces make the entire strip?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "2",
+        "is_correct": false
+      },
+      {
+        "text": "6",
+        "is_correct": false
+      },
+      {
+        "text": "5",
+        "is_correct": false
+      },
+      {
+        "text": "4",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Each piece is 1/4, so the full strip needs 4 pieces.",
+      "hint": "Use the size of one piece, not only how many are shown."
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "AC9M3N02-P-012",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3N02",
+    "bank": "practice",
+    "skill": "fraction_sum",
+    "question": "Complete the number sentence: 2/5 + ? = 1.",
+    "audio_prompt": "Complete the number sentence: 2/5 + ? = 1.",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "3/6",
+        "is_correct": false
+      },
+      {
+        "text": "5/3",
+        "is_correct": false
+      },
+      {
+        "text": "3/5",
+        "is_correct": true
+      },
+      {
+        "text": "2/5",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "One whole is 5/5. The missing number of equal parts is 5 − 2 = 3.",
+      "hint": "The sizes of the fractional parts stay the same."
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "AC9M3N02-P-013",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3N02",
+    "bank": "practice",
+    "skill": "set_representation",
+    "question": "There are 4 shapes: 1 triangles and 3 circles. What fraction of the shapes are triangles?",
+    "audio_prompt": "There are 4 shapes: 1 triangles and 3 circles. What fraction of the shapes are triangles?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "1/3",
         "is_correct": false
       },
       {
         "text": "1/4",
         "is_correct": true
+      },
+      {
+        "text": "3/4",
+        "is_correct": false
+      },
+      {
+        "text": "4/1",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Triangles are 1 of all 4 shapes, so the fraction is 1/4.",
+      "hint": "The whole includes both types of shape."
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "AC9M3N02-P-014",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3N02",
+    "bank": "practice",
+    "skill": "numerator_meaning",
+    "question": "An equal-part model shows 2/3. What does the 2 tell you?",
+    "audio_prompt": "An equal-part model shows 2/3. What does the 2 tell you?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "2 equal parts are selected.",
+        "is_correct": true
+      },
+      {
+        "text": "One whole has 2 equal parts.",
+        "is_correct": false
+      },
+      {
+        "text": "Each part contains 2 wholes.",
+        "is_correct": false
+      },
+      {
+        "text": "2 parts are always unselected.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The numerator 2 counts the selected parts. The denominator 3 counts the equal parts in the whole.",
+      "hint": "Separate the number of selected parts from the total number of parts."
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "AC9M3N02-P-015",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3N02",
+    "bank": "practice",
+    "skill": "fraction_length",
+    "question": "A 20 cm strip is cut into 5 equal pieces. How long is each 1/5 piece?",
+    "audio_prompt": "A 20 cm strip is cut into 5 equal pieces. How long is each 1/5 piece?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "15",
+        "is_correct": false
+      },
+      {
+        "text": "20",
+        "is_correct": false
+      },
+      {
+        "text": "6",
+        "is_correct": false
+      },
+      {
+        "text": "4",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "20 ÷ 5 = 4, so each fractional piece is 4 cm long.",
+      "hint": "Share the whole length equally."
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "AC9M3N02-P-016",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3N02",
+    "bank": "practice",
+    "skill": "whole_completion_reason",
+    "question": "A student says 3/4 + 1/4 = 4/8. Which correction is right?",
+    "audio_prompt": "A student says 3/4 + 1/4 = 4/8. Which correction is right?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "The sum is 4/16.",
+        "is_correct": false
+      },
+      {
+        "text": "The sum is 1/4.",
+        "is_correct": false
+      },
+      {
+        "text": "The sum is 4/4, or 1.",
+        "is_correct": true
+      },
+      {
+        "text": "The fractions cannot make a whole.",
+        "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "3/4 + 1/4 = 4/4, or one whole.",
-      "hint": "Count the unshaded equal parts."
+      "summary": "The parts are still 4ths. Combining 3 and 1 parts makes all 4 parts of the original whole.",
+      "hint": "Adding parts does not cut the whole into smaller parts."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 3
+  },
+  {
+    "id": "AC9M3N02-P-017",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3N02",
+    "bank": "practice",
+    "skill": "unit_area",
+    "question": "The strip is split into 3 equal parts. What fraction is blue?",
+    "audio_prompt": "The strip is split into 3 equal parts. What fraction is blue?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n02-reviewed.svg#ac9m3n02-p-017",
+      "alt_text": "A strip divided into 3 equal parts with one blue."
+    },
+    "answers": [
+      {
+        "text": "3/1",
+        "is_correct": false
+      },
+      {
+        "text": "1/3",
+        "is_correct": true
+      },
+      {
+        "text": "1/4",
+        "is_correct": false
+      },
+      {
+        "text": "1/5",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "One of 3 equal parts is blue, so it is 1/3.",
+      "hint": "Count all equal parts before counting the blue part."
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "AC9M3N02-P-018",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3N02",
+    "bank": "practice",
+    "skill": "multiple_area",
+    "question": "What fraction of this 3-part strip is blue?",
+    "audio_prompt": "What fraction of this 3-part strip is blue?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n02-reviewed.svg#ac9m3n02-p-018",
+      "alt_text": "2 blue parts in a strip of 3 equal parts."
+    },
+    "answers": [
+      {
+        "text": "2/3",
+        "is_correct": true
+      },
+      {
+        "text": "3/2",
+        "is_correct": false
+      },
+      {
+        "text": "2/4",
+        "is_correct": false
+      },
+      {
+        "text": "3/3",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "There are 3 equal parts and 2 are blue: 2/3.",
+      "hint": "The denominator describes the whole strip."
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "AC9M3N02-P-019",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3N02",
+    "bank": "practice",
+    "skill": "number_line",
+    "question": "The intervals between 0 and 1 are equal. Which fraction is at P on this 5-interval line?",
+    "audio_prompt": "The intervals between 0 and 1 are equal. Which fraction is at P on this 5-interval line?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n02-reviewed.svg#ac9m3n02-p-019",
+      "alt_text": "0 to 1 divided into 5 equal intervals; P is 2 intervals from 0."
+    },
+    "answers": [
+      {
+        "text": "3/5",
+        "is_correct": false
+      },
+      {
+        "text": "2/6",
+        "is_correct": false
+      },
+      {
+        "text": "5/2",
+        "is_correct": false
+      },
+      {
+        "text": "2/5",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "The whole has 5 intervals. P is 2 intervals from zero, so P is 2/5.",
+      "hint": "Count spaces, not tick marks."
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "AC9M3N02-P-020",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3N02",
+    "bank": "practice",
+    "skill": "unit_collection",
+    "question": "12 counters are shared equally into 3 groups. How many counters are in 1/3 of the collection?",
+    "audio_prompt": "12 counters are shared equally into 3 groups. How many counters are in 1/3 of the collection?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "12",
+        "is_correct": false
+      },
+      {
+        "text": "6",
+        "is_correct": false
+      },
+      {
+        "text": "4",
+        "is_correct": true
+      },
+      {
+        "text": "5",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "12 ÷ 3 = 4. One equal group is 1/3 of the collection.",
+      "hint": "Divide the total by the denominator."
+    },
+    "difficulty": 2
   },
   {
     "id": "AC9M3N02-P-021",
@@ -733,35 +761,36 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3N02",
     "bank": "practice",
-    "skill": "fractions",
-    "question": "In the place-value game, which statement about 3/4 is correct?",
-    "audio_prompt": "In the place-value game, which statement about 3/4 is correct?",
+    "skill": "multiple_collection",
+    "question": "A tray has 25 seedlings. A gardener plants 2/5 of them. How many seedlings are planted?",
+    "audio_prompt": "A tray has 25 seedlings. A gardener plants 2/5 of them. How many seedlings are planted?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n02.svg#ac9m3n02-p-021",
-      "alt_text": "In the place-value game: One whole divided into 4 equal parts with 3 shaded."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "3 of 4 equal parts are selected",
+        "text": "5",
+        "is_correct": false
+      },
+      {
+        "text": "10",
         "is_correct": true
       },
       {
-        "text": "4 of 3 parts are selected",
+        "text": "23",
         "is_correct": false
       },
       {
-        "text": "3 unequal parts are selected",
+        "text": "2",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "A fraction names selected equal parts of one whole.",
-      "hint": "The numerator is selected parts; the denominator is all equal parts."
+      "summary": "One 5th is 25 ÷ 5 = 5 seedlings. 2 such groups contain 2 × 5 = 10.",
+      "hint": "Find one fractional group, then count the required groups."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 3
   },
   {
     "id": "AC9M3N02-P-022",
@@ -769,35 +798,38 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3N02",
     "bank": "practice",
-    "skill": "equal_fraction_parts",
-    "question": "In the place-value game, can 4 different-sized pieces be called quarters?",
-    "audio_prompt": "In the place-value game, can 4 different-sized pieces be called quarters?",
+    "skill": "complete_whole",
+    "question": "A ribbon is 2/3 blue. The rest will be yellow. What fraction must be yellow?",
+    "audio_prompt": "A ribbon is 2/3 blue. The rest will be yellow. What fraction must be yellow?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n02.svg#ac9m3n02-p-022",
-      "alt_text": "In the place-value game: 4 visibly unequal pieces of one whole."
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n02-reviewed.svg#ac9m3n02-p-022",
+      "alt_text": "2 of 3 equal ribbon sections are blue; the rest are white."
     },
     "answers": [
       {
-        "text": "Yes, only the number of pieces matters",
-        "is_correct": false
-      },
-      {
-        "text": "No, the pieces must be equal",
+        "text": "1/3",
         "is_correct": true
       },
       {
-        "text": "Yes, if one piece is very large",
+        "text": "2/3",
+        "is_correct": false
+      },
+      {
+        "text": "1/4",
+        "is_correct": false
+      },
+      {
+        "text": "3/1",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Fraction parts of one whole must be equal in size.",
-      "hint": "Compare the sizes, not only the count."
+      "summary": "A whole is 3/3. There are 1 of its 3 equal parts left.",
+      "hint": "Keep the same denominator when finding the missing parts."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 2
   },
   {
     "id": "AC9M3N02-P-023",
@@ -805,159 +837,13 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3N02",
     "bank": "practice",
-    "skill": "fractions",
-    "question": "In the place-value game, which sum makes one whole?",
-    "audio_prompt": "In the place-value game, which sum makes one whole?",
+    "skill": "unit_iteration",
+    "question": "How many pieces of length 1/5 metre join to make exactly 1 metre?",
+    "audio_prompt": "How many pieces of length 1/5 metre join to make exactly 1 metre?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n02.svg#ac9m3n02-p-023",
-      "alt_text": "In the place-value game: One whole divided into 4 equal parts with 4 shaded."
+      "type": "none"
     },
     "answers": [
-      {
-        "text": "3/4 + 1/5",
-        "is_correct": false
-      },
-      {
-        "text": "3/4 + 2/4",
-        "is_correct": false
-      },
-      {
-        "text": "3/4 + 1/4",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "The numerators total 4 while the equal parts keep denominator 4.",
-      "hint": "Use parts of the same size and count until you have 4."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9M3N02-P-024",
-    "subject": "math",
-    "year_level": "Year 3",
-    "curriculum_code": "AC9M3N02",
-    "bank": "practice",
-    "skill": "fractions",
-    "question": "In the place-value game, a student writes 3/4 + 1/4 = 4/8. What is the mistake?",
-    "audio_prompt": "In the place-value game, a student writes 3/4 + 1/4 = 4/8. What is the mistake?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n02.svg#ac9m3n02-p-024",
-      "alt_text": "In the place-value game: One whole divided into 4 equal parts with 4 shaded."
-    },
-    "answers": [
-      {
-        "text": "The denominator should stay 4",
-        "is_correct": true
-      },
-      {
-        "text": "The numerator should stay 3",
-        "is_correct": false
-      },
-      {
-        "text": "Fractions cannot make a whole",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "When equal-sized parts are combined, count the parts and keep their size: 4/4=1.",
-      "hint": "Do not add denominators when the parts have the same denominator."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9M3N02-T-001",
-    "subject": "math",
-    "year_level": "Year 3",
-    "curriculum_code": "AC9M3N02",
-    "bank": "test",
-    "skill": "fractions",
-    "question": "At the number table, one whole is split into 5 equal parts. What is one part called?",
-    "audio_prompt": "At the number table, one whole is split into 5 equal parts. What is one part called?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n02.svg#ac9m3n02-t-001",
-      "alt_text": "At the number table: One whole divided into 5 equal parts with 1 shaded."
-    },
-    "answers": [
-      {
-        "text": "5/1",
-        "is_correct": false
-      },
-      {
-        "text": "1/5",
-        "is_correct": true
-      },
-      {
-        "text": "1/6",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "One of 5 equal parts is 1/5.",
-      "hint": "The denominator counts equal parts in the whole."
-    }
-  },
-  {
-    "id": "AC9M3N02-T-002",
-    "subject": "math",
-    "year_level": "Year 3",
-    "curriculum_code": "AC9M3N02",
-    "bank": "test",
-    "skill": "fractions",
-    "question": "At the number table, which fraction describes 1 of 5 equal parts shaded?",
-    "audio_prompt": "At the number table, which fraction describes 1 of 5 equal parts shaded?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n02.svg#ac9m3n02-t-002",
-      "alt_text": "At the number table: One whole divided into 5 equal parts with 1 shaded."
-    },
-    "answers": [
-      {
-        "text": "5/1",
-        "is_correct": false
-      },
-      {
-        "text": "1/6",
-        "is_correct": false
-      },
-      {
-        "text": "1/5",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "1 selected parts out of 5 equal parts is 1/5.",
-      "hint": "Count shaded parts, then all equal parts."
-    }
-  },
-  {
-    "id": "AC9M3N02-T-003",
-    "subject": "math",
-    "year_level": "Year 3",
-    "curriculum_code": "AC9M3N02",
-    "bank": "test",
-    "skill": "fractions",
-    "question": "At the number table, how many fifths make one whole?",
-    "audio_prompt": "At the number table, how many fifths make one whole?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n02.svg#ac9m3n02-t-003",
-      "alt_text": "At the number table: One whole divided into 5 equal parts with 5 shaded."
-    },
-    "answers": [
-      {
-        "text": "5",
-        "is_correct": true
-      },
       {
         "text": "4",
         "is_correct": false
@@ -965,31 +851,42 @@
       {
         "text": "6",
         "is_correct": false
+      },
+      {
+        "text": "1",
+        "is_correct": false
+      },
+      {
+        "text": "5",
+        "is_correct": true
       }
     ],
-    "correct_index": 0,
+    "correct_index": 3,
     "explanation": {
-      "summary": "5/5 is one whole.",
-      "hint": "The denominator tells how many equal parts complete the whole."
-    }
+      "summary": "5 copies of 1/5 make 5/5, which is one whole.",
+      "hint": "The denominator tells how many equal pieces make a whole."
+    },
+    "difficulty": 1
   },
   {
-    "id": "AC9M3N02-T-004",
+    "id": "AC9M3N02-P-024",
     "subject": "math",
     "year_level": "Year 3",
     "curriculum_code": "AC9M3N02",
-    "bank": "test",
-    "skill": "fractions",
-    "question": "At the number table, what completes 1/5 to make one whole?",
-    "audio_prompt": "At the number table, what completes 1/5 to make one whole?",
+    "bank": "practice",
+    "skill": "fraction_language",
+    "question": "Which fraction means four fifths?",
+    "audio_prompt": "Which fraction means four fifths?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n02.svg#ac9m3n02-t-004",
-      "alt_text": "At the number table: One whole divided into 5 equal parts with 1 shaded."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "5/5",
+        "text": "5/4",
+        "is_correct": false
+      },
+      {
+        "text": "1/5",
         "is_correct": false
       },
       {
@@ -997,233 +894,556 @@
         "is_correct": true
       },
       {
-        "text": "4/6",
+        "text": "4/10",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The first number counts the parts; the fraction name tells the number of equal parts in one whole.",
+      "hint": "Say the numerator first and the name of the parts second."
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "AC9M3N02-P-025",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3N02",
+    "bank": "practice",
+    "skill": "equal_parts_reason",
+    "question": "A student cuts a sheet into 4 unequal pieces and labels each piece 1/4. What needs correcting?",
+    "audio_prompt": "A student cuts a sheet into 4 unequal pieces and labels each piece 1/4. What needs correcting?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "Each piece must be labelled 4/1.",
+        "is_correct": false
+      },
+      {
+        "text": "The pieces must have equal areas.",
+        "is_correct": true
+      },
+      {
+        "text": "Only the number of pieces matters.",
+        "is_correct": false
+      },
+      {
+        "text": "All pieces must be circles.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "1/5 + 4/5 = 5/5, or one whole.",
-      "hint": "Count the unshaded equal parts."
-    }
+      "summary": "To name each piece 1/4, the whole must be divided into 4 equal areas. The shape of each piece need not be identical.",
+      "hint": "A fraction describes equal shares, not just a count of pieces."
+    },
+    "difficulty": 2
   },
   {
-    "id": "AC9M3N02-T-005",
+    "id": "AC9M3N02-P-026",
     "subject": "math",
     "year_level": "Year 3",
     "curriculum_code": "AC9M3N02",
-    "bank": "test",
-    "skill": "fractions",
-    "question": "At the number table, which statement about 1/5 is correct?",
-    "audio_prompt": "At the number table, which statement about 1/5 is correct?",
+    "bank": "practice",
+    "skill": "combine_three_parts",
+    "question": "A whole strip has 5 equal parts. 2/5 is blue and 1/5 is yellow. What fraction is still white?",
+    "audio_prompt": "A whole strip has 5 equal parts. 2/5 is blue and 1/5 is yellow. What fraction is still white?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n02.svg#ac9m3n02-t-005",
-      "alt_text": "At the number table: One whole divided into 5 equal parts with 1 shaded."
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n02-reviewed.svg#ac9m3n02-p-026",
+      "alt_text": "5 equal parts: 2 blue, one yellow and 2 white."
     },
     "answers": [
       {
-        "text": "5 of 1 parts are selected",
-        "is_correct": false
-      },
-      {
-        "text": "1 unequal parts are selected",
-        "is_correct": false
-      },
-      {
-        "text": "1 of 5 equal parts are selected",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "A fraction names selected equal parts of one whole.",
-      "hint": "The numerator is selected parts; the denominator is all equal parts."
-    }
-  },
-  {
-    "id": "AC9M3N02-T-006",
-    "subject": "math",
-    "year_level": "Year 3",
-    "curriculum_code": "AC9M3N02",
-    "bank": "test",
-    "skill": "equal_fraction_parts",
-    "question": "At the number table, can 5 different-sized pieces be called equal fraction parts?",
-    "audio_prompt": "At the number table, can 5 different-sized pieces be called equal fraction parts?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n02.svg#ac9m3n02-t-006",
-      "alt_text": "At the number table: 5 visibly unequal pieces of one whole."
-    },
-    "answers": [
-      {
-        "text": "No, the pieces must be equal",
+        "text": "2/5",
         "is_correct": true
       },
       {
-        "text": "Yes, only the number of pieces matters",
+        "text": "2/6",
         "is_correct": false
       },
       {
-        "text": "Yes, if one piece is very large",
+        "text": "3/5",
+        "is_correct": false
+      },
+      {
+        "text": "5/2",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Fraction parts of one whole must be equal in size.",
-      "hint": "Compare the sizes, not only the count."
-    }
+      "summary": "2 + 1 = 3 parts are coloured. 5 − 3 = 2 parts remain, so 2/5 is white.",
+      "hint": "Combine the coloured parts, then complete the whole."
+    },
+    "difficulty": 3
   },
   {
-    "id": "AC9M3N02-T-007",
+    "id": "AC9M3N02-P-027",
     "subject": "math",
     "year_level": "Year 3",
     "curriculum_code": "AC9M3N02",
-    "bank": "test",
-    "skill": "fractions",
-    "question": "At the number table, which sum makes one whole?",
-    "audio_prompt": "At the number table, which sum makes one whole?",
+    "bank": "practice",
+    "skill": "reconstruct_whole",
+    "question": "2 equal pieces together make 2/3 of a paper strip. How many of these pieces make the entire strip?",
+    "audio_prompt": "2 equal pieces together make 2/3 of a paper strip. How many of these pieces make the entire strip?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n02.svg#ac9m3n02-t-007",
-      "alt_text": "At the number table: One whole divided into 5 equal parts with 5 shaded."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "1/5 + 4/6",
+        "text": "2",
         "is_correct": false
       },
       {
-        "text": "1/5 + 4/5",
+        "text": "5",
+        "is_correct": false
+      },
+      {
+        "text": "4",
+        "is_correct": false
+      },
+      {
+        "text": "3",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Each piece is 1/3, so the full strip needs 3 pieces.",
+      "hint": "Use the size of one piece, not only how many are shown."
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "AC9M3N02-P-028",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3N02",
+    "bank": "practice",
+    "skill": "fraction_sum",
+    "question": "Complete the number sentence: 3/10 + ? = 1.",
+    "audio_prompt": "Complete the number sentence: 3/10 + ? = 1.",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "7/11",
+        "is_correct": false
+      },
+      {
+        "text": "10/7",
+        "is_correct": false
+      },
+      {
+        "text": "7/10",
         "is_correct": true
       },
       {
-        "text": "1/5 + 5/5",
+        "text": "3/10",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "One whole is 10/10. The missing number of equal parts is 10 − 3 = 7.",
+      "hint": "The sizes of the fractional parts stay the same."
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "AC9M3N02-P-029",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3N02",
+    "bank": "practice",
+    "skill": "set_representation",
+    "question": "There are 5 shapes: 2 triangles and 3 circles. What fraction of the shapes are triangles?",
+    "audio_prompt": "There are 5 shapes: 2 triangles and 3 circles. What fraction of the shapes are triangles?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "2/3",
+        "is_correct": false
+      },
+      {
+        "text": "2/5",
+        "is_correct": true
+      },
+      {
+        "text": "3/5",
+        "is_correct": false
+      },
+      {
+        "text": "5/2",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "The numerators total 5 while the equal parts keep denominator 5.",
-      "hint": "Use parts of the same size and count until you have 5."
-    }
+      "summary": "Triangles are 2 of all 5 shapes, so the fraction is 2/5.",
+      "hint": "The whole includes both types of shape."
+    },
+    "difficulty": 1
   },
   {
-    "id": "AC9M3N02-T-008",
+    "id": "AC9M3N02-P-030",
     "subject": "math",
     "year_level": "Year 3",
     "curriculum_code": "AC9M3N02",
-    "bank": "test",
-    "skill": "fractions",
-    "question": "At the number table, a student writes 1/5 + 4/5 = 5/10. What is the mistake?",
-    "audio_prompt": "At the number table, a student writes 1/5 + 4/5 = 5/10. What is the mistake?",
+    "bank": "practice",
+    "skill": "numerator_meaning",
+    "question": "An equal-part model shows 3/4. What does the 3 tell you?",
+    "audio_prompt": "An equal-part model shows 3/4. What does the 3 tell you?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n02.svg#ac9m3n02-t-008",
-      "alt_text": "At the number table: One whole divided into 5 equal parts with 5 shaded."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "The numerator should stay 1",
-        "is_correct": false
-      },
-      {
-        "text": "Fractions cannot make a whole",
-        "is_correct": false
-      },
-      {
-        "text": "The denominator should stay 5",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "When equal-sized parts are combined, count the parts and keep their size: 5/5=1.",
-      "hint": "Do not add denominators when the parts have the same denominator."
-    }
-  },
-  {
-    "id": "AC9M3N02-T-009",
-    "subject": "math",
-    "year_level": "Year 3",
-    "curriculum_code": "AC9M3N02",
-    "bank": "test",
-    "skill": "fractions",
-    "question": "During the regrouping challenge, one whole is split into 10 equal parts. What is one part called?",
-    "audio_prompt": "During the regrouping challenge, one whole is split into 10 equal parts. What is one part called?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n02.svg#ac9m3n02-t-009",
-      "alt_text": "During the regrouping challenge: One whole divided into 10 equal parts with 1 shaded."
-    },
-    "answers": [
-      {
-        "text": "1/10",
+        "text": "3 equal parts are selected.",
         "is_correct": true
       },
       {
-        "text": "10/1",
+        "text": "One whole has 3 equal parts.",
         "is_correct": false
       },
       {
-        "text": "1/11",
+        "text": "Each part contains 3 wholes.",
+        "is_correct": false
+      },
+      {
+        "text": "3 parts are always unselected.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "One of 10 equal parts is 1/10.",
-      "hint": "The denominator counts equal parts in the whole."
-    }
+      "summary": "The numerator 3 counts the selected parts. The denominator 4 counts the equal parts in the whole.",
+      "hint": "Separate the number of selected parts from the total number of parts."
+    },
+    "difficulty": 2
   },
   {
-    "id": "AC9M3N02-T-010",
+    "id": "AC9M3N02-P-031",
     "subject": "math",
     "year_level": "Year 3",
     "curriculum_code": "AC9M3N02",
-    "bank": "test",
-    "skill": "fractions",
-    "question": "During the regrouping challenge, which fraction describes 2 of 10 equal parts shaded?",
-    "audio_prompt": "During the regrouping challenge, which fraction describes 2 of 10 equal parts shaded?",
+    "bank": "practice",
+    "skill": "fraction_length",
+    "question": "A 15 cm strip is cut into 3 equal pieces. How long is each 1/3 piece?",
+    "audio_prompt": "A 15 cm strip is cut into 3 equal pieces. How long is each 1/3 piece?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n02.svg#ac9m3n02-t-010",
-      "alt_text": "During the regrouping challenge: One whole divided into 10 equal parts with 2 shaded."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "10/2",
+        "text": "12",
         "is_correct": false
       },
       {
-        "text": "2/10",
+        "text": "15",
+        "is_correct": false
+      },
+      {
+        "text": "4",
+        "is_correct": false
+      },
+      {
+        "text": "5",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "15 ÷ 3 = 5, so each fractional piece is 5 cm long.",
+      "hint": "Share the whole length equally."
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "AC9M3N02-P-032",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3N02",
+    "bank": "practice",
+    "skill": "whole_completion_reason",
+    "question": "A student says 4/5 + 1/5 = 5/10. Which correction is right?",
+    "audio_prompt": "A student says 4/5 + 1/5 = 5/10. Which correction is right?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "The sum is 5/25.",
+        "is_correct": false
+      },
+      {
+        "text": "The sum is 1/5.",
+        "is_correct": false
+      },
+      {
+        "text": "The sum is 5/5, or 1.",
         "is_correct": true
       },
       {
-        "text": "2/11",
+        "text": "The fractions cannot make a whole.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The parts are still 5ths. Combining 4 and 1 parts makes all 5 parts of the original whole.",
+      "hint": "Adding parts does not cut the whole into smaller parts."
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "AC9M3N02-P-033",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3N02",
+    "bank": "practice",
+    "skill": "unit_area",
+    "question": "The strip is split into 5 equal parts. What fraction is blue?",
+    "audio_prompt": "The strip is split into 5 equal parts. What fraction is blue?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n02-reviewed.svg#ac9m3n02-p-033",
+      "alt_text": "A strip divided into 5 equal parts with one blue."
+    },
+    "answers": [
+      {
+        "text": "5/1",
+        "is_correct": false
+      },
+      {
+        "text": "1/5",
+        "is_correct": true
+      },
+      {
+        "text": "1/6",
+        "is_correct": false
+      },
+      {
+        "text": "1/7",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "2 selected parts out of 10 equal parts is 2/10.",
-      "hint": "Count shaded parts, then all equal parts."
-    }
+      "summary": "One of 5 equal parts is blue, so it is 1/5.",
+      "hint": "Count all equal parts before counting the blue part."
+    },
+    "difficulty": 1
   },
   {
-    "id": "AC9M3N02-T-011",
+    "id": "AC9M3N02-P-034",
     "subject": "math",
     "year_level": "Year 3",
     "curriculum_code": "AC9M3N02",
-    "bank": "test",
-    "skill": "fractions",
-    "question": "During the regrouping challenge, how many tenths make one whole?",
-    "audio_prompt": "During the regrouping challenge, how many tenths make one whole?",
+    "bank": "practice",
+    "skill": "multiple_area",
+    "question": "What fraction of this 5-part strip is blue?",
+    "audio_prompt": "What fraction of this 5-part strip is blue?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n02.svg#ac9m3n02-t-011",
-      "alt_text": "During the regrouping challenge: One whole divided into 10 equal parts with 10 shaded."
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n02-reviewed.svg#ac9m3n02-p-034",
+      "alt_text": "3 blue parts in a strip of 5 equal parts."
+    },
+    "answers": [
+      {
+        "text": "3/5",
+        "is_correct": true
+      },
+      {
+        "text": "5/3",
+        "is_correct": false
+      },
+      {
+        "text": "3/6",
+        "is_correct": false
+      },
+      {
+        "text": "4/5",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "There are 5 equal parts and 3 are blue: 3/5.",
+      "hint": "The denominator describes the whole strip."
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "AC9M3N02-P-035",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3N02",
+    "bank": "practice",
+    "skill": "number_line",
+    "question": "The intervals between 0 and 1 are equal. Which fraction is at P on this 10-interval line?",
+    "audio_prompt": "The intervals between 0 and 1 are equal. Which fraction is at P on this 10-interval line?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n02-reviewed.svg#ac9m3n02-p-035",
+      "alt_text": "0 to 1 divided into 10 equal intervals; P is 6 intervals from 0."
+    },
+    "answers": [
+      {
+        "text": "7/10",
+        "is_correct": false
+      },
+      {
+        "text": "6/11",
+        "is_correct": false
+      },
+      {
+        "text": "10/6",
+        "is_correct": false
+      },
+      {
+        "text": "6/10",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "The whole has 10 intervals. P is 6 intervals from zero, so P is 6/10.",
+      "hint": "Count spaces, not tick marks."
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "AC9M3N02-P-036",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3N02",
+    "bank": "practice",
+    "skill": "unit_collection",
+    "question": "25 counters are shared equally into 5 groups. How many counters are in 1/5 of the collection?",
+    "audio_prompt": "25 counters are shared equally into 5 groups. How many counters are in 1/5 of the collection?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "25",
+        "is_correct": false
+      },
+      {
+        "text": "7",
+        "is_correct": false
+      },
+      {
+        "text": "5",
+        "is_correct": true
+      },
+      {
+        "text": "6",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "25 ÷ 5 = 5. One equal group is 1/5 of the collection.",
+      "hint": "Divide the total by the denominator."
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "AC9M3N02-P-037",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3N02",
+    "bank": "practice",
+    "skill": "multiple_collection",
+    "question": "A tray has 50 seedlings. A gardener plants 6/10 of them. How many seedlings are planted?",
+    "audio_prompt": "A tray has 50 seedlings. A gardener plants 6/10 of them. How many seedlings are planted?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "5",
+        "is_correct": false
+      },
+      {
+        "text": "30",
+        "is_correct": true
+      },
+      {
+        "text": "44",
+        "is_correct": false
+      },
+      {
+        "text": "6",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "One 10th is 50 ÷ 10 = 5 seedlings. 6 such groups contain 6 × 5 = 30.",
+      "hint": "Find one fractional group, then count the required groups."
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "AC9M3N02-P-038",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3N02",
+    "bank": "practice",
+    "skill": "complete_whole",
+    "question": "A ribbon is 3/5 blue. The rest will be yellow. What fraction must be yellow?",
+    "audio_prompt": "A ribbon is 3/5 blue. The rest will be yellow. What fraction must be yellow?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n02-reviewed.svg#ac9m3n02-p-038",
+      "alt_text": "3 of 5 equal ribbon sections are blue; the rest are white."
+    },
+    "answers": [
+      {
+        "text": "2/5",
+        "is_correct": true
+      },
+      {
+        "text": "3/5",
+        "is_correct": false
+      },
+      {
+        "text": "2/6",
+        "is_correct": false
+      },
+      {
+        "text": "5/2",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A whole is 5/5. There are 2 of its 5 equal parts left.",
+      "hint": "Keep the same denominator when finding the missing parts."
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "AC9M3N02-P-039",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3N02",
+    "bank": "practice",
+    "skill": "unit_iteration",
+    "question": "How many pieces of length 1/10 metre join to make exactly 1 metre?",
+    "audio_prompt": "How many pieces of length 1/10 metre join to make exactly 1 metre?",
+    "visual": {
+      "type": "none"
     },
     "answers": [
       {
@@ -1235,15 +1455,772 @@
         "is_correct": false
       },
       {
+        "text": "1",
+        "is_correct": false
+      },
+      {
         "text": "10",
         "is_correct": true
       }
     ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "10 copies of 1/10 make 10/10, which is one whole.",
+      "hint": "The denominator tells how many equal pieces make a whole."
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "AC9M3N02-P-040",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3N02",
+    "bank": "practice",
+    "skill": "fraction_language",
+    "question": "Which fraction means seven tenths?",
+    "audio_prompt": "Which fraction means seven tenths?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "10/7",
+        "is_correct": false
+      },
+      {
+        "text": "1/10",
+        "is_correct": false
+      },
+      {
+        "text": "7/10",
+        "is_correct": true
+      },
+      {
+        "text": "7/9",
+        "is_correct": false
+      }
+    ],
     "correct_index": 2,
     "explanation": {
-      "summary": "10/10 is one whole.",
-      "hint": "The denominator tells how many equal parts complete the whole."
-    }
+      "summary": "The first number counts the parts; the fraction name tells the number of equal parts in one whole.",
+      "hint": "Say the numerator first and the name of the parts second."
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "AC9M3N02-P-041",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3N02",
+    "bank": "practice",
+    "skill": "equal_parts_reason",
+    "question": "A student cuts a sheet into 5 unequal pieces and labels each piece 1/5. What needs correcting?",
+    "audio_prompt": "A student cuts a sheet into 5 unequal pieces and labels each piece 1/5. What needs correcting?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "Each piece must be labelled 5/1.",
+        "is_correct": false
+      },
+      {
+        "text": "The pieces must have equal areas.",
+        "is_correct": true
+      },
+      {
+        "text": "Only the number of pieces matters.",
+        "is_correct": false
+      },
+      {
+        "text": "All pieces must be circles.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "To name each piece 1/5, the whole must be divided into 5 equal areas. The shape of each piece need not be identical.",
+      "hint": "A fraction describes equal shares, not just a count of pieces."
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "AC9M3N02-P-042",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3N02",
+    "bank": "practice",
+    "skill": "combine_three_parts",
+    "question": "A whole strip has 10 equal parts. 3/10 is blue and 1/10 is yellow. What fraction is still white?",
+    "audio_prompt": "A whole strip has 10 equal parts. 3/10 is blue and 1/10 is yellow. What fraction is still white?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n02-reviewed.svg#ac9m3n02-p-042",
+      "alt_text": "10 equal parts: 3 blue, one yellow and 6 white."
+    },
+    "answers": [
+      {
+        "text": "6/10",
+        "is_correct": true
+      },
+      {
+        "text": "6/11",
+        "is_correct": false
+      },
+      {
+        "text": "4/10",
+        "is_correct": false
+      },
+      {
+        "text": "10/6",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "3 + 1 = 4 parts are coloured. 10 − 4 = 6 parts remain, so 6/10 is white.",
+      "hint": "Combine the coloured parts, then complete the whole."
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "AC9M3N02-P-043",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3N02",
+    "bank": "practice",
+    "skill": "reconstruct_whole",
+    "question": "3 equal pieces together make 3/5 of a paper strip. How many of these pieces make the entire strip?",
+    "audio_prompt": "3 equal pieces together make 3/5 of a paper strip. How many of these pieces make the entire strip?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "3",
+        "is_correct": false
+      },
+      {
+        "text": "8",
+        "is_correct": false
+      },
+      {
+        "text": "6",
+        "is_correct": false
+      },
+      {
+        "text": "5",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Each piece is 1/5, so the full strip needs 5 pieces.",
+      "hint": "Use the size of one piece, not only how many are shown."
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "AC9M3N02-P-044",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3N02",
+    "bank": "practice",
+    "skill": "fraction_sum",
+    "question": "Complete the number sentence: 1/4 + ? = 1.",
+    "audio_prompt": "Complete the number sentence: 1/4 + ? = 1.",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "3/5",
+        "is_correct": false
+      },
+      {
+        "text": "4/3",
+        "is_correct": false
+      },
+      {
+        "text": "3/4",
+        "is_correct": true
+      },
+      {
+        "text": "1/4",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "One whole is 4/4. The missing number of equal parts is 4 − 1 = 3.",
+      "hint": "The sizes of the fractional parts stay the same."
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "AC9M3N02-P-045",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3N02",
+    "bank": "practice",
+    "skill": "set_representation",
+    "question": "There are 10 shapes: 4 triangles and 6 circles. What fraction of the shapes are triangles?",
+    "audio_prompt": "There are 10 shapes: 4 triangles and 6 circles. What fraction of the shapes are triangles?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "4/6",
+        "is_correct": false
+      },
+      {
+        "text": "4/10",
+        "is_correct": true
+      },
+      {
+        "text": "6/10",
+        "is_correct": false
+      },
+      {
+        "text": "10/4",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Triangles are 4 of all 10 shapes, so the fraction is 4/10.",
+      "hint": "The whole includes both types of shape."
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "AC9M3N02-P-046",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3N02",
+    "bank": "practice",
+    "skill": "numerator_meaning",
+    "question": "An equal-part model shows 4/5. What does the 4 tell you?",
+    "audio_prompt": "An equal-part model shows 4/5. What does the 4 tell you?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "4 equal parts are selected.",
+        "is_correct": true
+      },
+      {
+        "text": "One whole has 4 equal parts.",
+        "is_correct": false
+      },
+      {
+        "text": "Each part contains 4 wholes.",
+        "is_correct": false
+      },
+      {
+        "text": "4 parts are always unselected.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The numerator 4 counts the selected parts. The denominator 5 counts the equal parts in the whole.",
+      "hint": "Separate the number of selected parts from the total number of parts."
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "AC9M3N02-P-047",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3N02",
+    "bank": "practice",
+    "skill": "fraction_length",
+    "question": "A 12 cm strip is cut into 4 equal pieces. How long is each 1/4 piece?",
+    "audio_prompt": "A 12 cm strip is cut into 4 equal pieces. How long is each 1/4 piece?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "8",
+        "is_correct": false
+      },
+      {
+        "text": "12",
+        "is_correct": false
+      },
+      {
+        "text": "5",
+        "is_correct": false
+      },
+      {
+        "text": "3",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "12 ÷ 4 = 3, so each fractional piece is 3 cm long.",
+      "hint": "Share the whole length equally."
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "AC9M3N02-P-048",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3N02",
+    "bank": "practice",
+    "skill": "whole_completion_reason",
+    "question": "A student says 7/10 + 3/10 = 10/20. Which correction is right?",
+    "audio_prompt": "A student says 7/10 + 3/10 = 10/20. Which correction is right?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "The sum is 10/100.",
+        "is_correct": false
+      },
+      {
+        "text": "The sum is 1/10.",
+        "is_correct": false
+      },
+      {
+        "text": "The sum is 10/10, or 1.",
+        "is_correct": true
+      },
+      {
+        "text": "The fractions cannot make a whole.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The parts are still 10ths. Combining 7 and 3 parts makes all 10 parts of the original whole.",
+      "hint": "Adding parts does not cut the whole into smaller parts."
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "AC9M3N02-T-001",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3N02",
+    "bank": "test",
+    "skill": "unit_area",
+    "question": "The strip is split into 10 equal parts. What fraction is blue?",
+    "audio_prompt": "The strip is split into 10 equal parts. What fraction is blue?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n02-reviewed.svg#ac9m3n02-t-001",
+      "alt_text": "A strip divided into 10 equal parts with one blue."
+    },
+    "answers": [
+      {
+        "text": "10/1",
+        "is_correct": false
+      },
+      {
+        "text": "1/10",
+        "is_correct": true
+      },
+      {
+        "text": "1/11",
+        "is_correct": false
+      },
+      {
+        "text": "1/12",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "One of 10 equal parts is blue, so it is 1/10.",
+      "hint": "Count all equal parts before counting the blue part."
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "AC9M3N02-T-002",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3N02",
+    "bank": "test",
+    "skill": "multiple_area",
+    "question": "What fraction of this 10-part strip is blue?",
+    "audio_prompt": "What fraction of this 10-part strip is blue?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n02-reviewed.svg#ac9m3n02-t-002",
+      "alt_text": "7 blue parts in a strip of 10 equal parts."
+    },
+    "answers": [
+      {
+        "text": "7/10",
+        "is_correct": true
+      },
+      {
+        "text": "10/7",
+        "is_correct": false
+      },
+      {
+        "text": "7/11",
+        "is_correct": false
+      },
+      {
+        "text": "8/10",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "There are 10 equal parts and 7 are blue: 7/10.",
+      "hint": "The denominator describes the whole strip."
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "AC9M3N02-T-003",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3N02",
+    "bank": "test",
+    "skill": "number_line",
+    "question": "The intervals between 0 and 1 are equal. Which fraction is at P on this 3-interval line?",
+    "audio_prompt": "The intervals between 0 and 1 are equal. Which fraction is at P on this 3-interval line?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n02-reviewed.svg#ac9m3n02-t-003",
+      "alt_text": "0 to 1 divided into 3 equal intervals; P is 2 intervals from 0."
+    },
+    "answers": [
+      {
+        "text": "3/3",
+        "is_correct": false
+      },
+      {
+        "text": "2/4",
+        "is_correct": false
+      },
+      {
+        "text": "3/2",
+        "is_correct": false
+      },
+      {
+        "text": "2/3",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "The whole has 3 intervals. P is 2 intervals from zero, so P is 2/3.",
+      "hint": "Count spaces, not tick marks."
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "AC9M3N02-T-004",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3N02",
+    "bank": "test",
+    "skill": "unit_collection",
+    "question": "20 counters are shared equally into 10 groups. How many counters are in 1/10 of the collection?",
+    "audio_prompt": "20 counters are shared equally into 10 groups. How many counters are in 1/10 of the collection?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "20",
+        "is_correct": false
+      },
+      {
+        "text": "4",
+        "is_correct": false
+      },
+      {
+        "text": "2",
+        "is_correct": true
+      },
+      {
+        "text": "3",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "20 ÷ 10 = 2. One equal group is 1/10 of the collection.",
+      "hint": "Divide the total by the denominator."
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "AC9M3N02-T-005",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3N02",
+    "bank": "test",
+    "skill": "multiple_collection",
+    "question": "A tray has 15 seedlings. A gardener plants 2/3 of them. How many seedlings are planted?",
+    "audio_prompt": "A tray has 15 seedlings. A gardener plants 2/3 of them. How many seedlings are planted?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "5",
+        "is_correct": false
+      },
+      {
+        "text": "10",
+        "is_correct": true
+      },
+      {
+        "text": "13",
+        "is_correct": false
+      },
+      {
+        "text": "2",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "One 3th is 15 ÷ 3 = 5 seedlings. 2 such groups contain 2 × 5 = 10.",
+      "hint": "Find one fractional group, then count the required groups."
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "AC9M3N02-T-006",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3N02",
+    "bank": "test",
+    "skill": "complete_whole",
+    "question": "A ribbon is 7/10 blue. The rest will be yellow. What fraction must be yellow?",
+    "audio_prompt": "A ribbon is 7/10 blue. The rest will be yellow. What fraction must be yellow?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n02-reviewed.svg#ac9m3n02-t-006",
+      "alt_text": "7 of 10 equal ribbon sections are blue; the rest are white."
+    },
+    "answers": [
+      {
+        "text": "3/10",
+        "is_correct": true
+      },
+      {
+        "text": "7/10",
+        "is_correct": false
+      },
+      {
+        "text": "3/11",
+        "is_correct": false
+      },
+      {
+        "text": "10/3",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A whole is 10/10. There are 3 of its 10 equal parts left.",
+      "hint": "Keep the same denominator when finding the missing parts."
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "AC9M3N02-T-007",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3N02",
+    "bank": "test",
+    "skill": "unit_iteration",
+    "question": "How many pieces of length 1/3 metre join to make exactly 1 metre?",
+    "audio_prompt": "How many pieces of length 1/3 metre join to make exactly 1 metre?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "2",
+        "is_correct": false
+      },
+      {
+        "text": "4",
+        "is_correct": false
+      },
+      {
+        "text": "1",
+        "is_correct": false
+      },
+      {
+        "text": "3",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "3 copies of 1/3 make 3/3, which is one whole.",
+      "hint": "The denominator tells how many equal pieces make a whole."
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "AC9M3N02-T-008",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3N02",
+    "bank": "test",
+    "skill": "fraction_language",
+    "question": "Which fraction means two thirds?",
+    "audio_prompt": "Which fraction means two thirds?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "3/2",
+        "is_correct": false
+      },
+      {
+        "text": "1/3",
+        "is_correct": false
+      },
+      {
+        "text": "2/3",
+        "is_correct": true
+      },
+      {
+        "text": "2/5",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The first number counts the parts; the fraction name tells the number of equal parts in one whole.",
+      "hint": "Say the numerator first and the name of the parts second."
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "AC9M3N02-T-009",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3N02",
+    "bank": "test",
+    "skill": "equal_parts_reason",
+    "question": "A student cuts a sheet into 10 unequal pieces and labels each piece 1/10. What needs correcting?",
+    "audio_prompt": "A student cuts a sheet into 10 unequal pieces and labels each piece 1/10. What needs correcting?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "Each piece must be labelled 10/1.",
+        "is_correct": false
+      },
+      {
+        "text": "The pieces must have equal areas.",
+        "is_correct": true
+      },
+      {
+        "text": "Only the number of pieces matters.",
+        "is_correct": false
+      },
+      {
+        "text": "All pieces must be circles.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "To name each piece 1/10, the whole must be divided into 10 equal areas. The shape of each piece need not be identical.",
+      "hint": "A fraction describes equal shares, not just a count of pieces."
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "AC9M3N02-T-010",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3N02",
+    "bank": "test",
+    "skill": "combine_three_parts",
+    "question": "A whole strip has 10 equal parts. 4/10 is blue and 1/10 is yellow. What fraction is still white?",
+    "audio_prompt": "A whole strip has 10 equal parts. 4/10 is blue and 1/10 is yellow. What fraction is still white?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n02-reviewed.svg#ac9m3n02-t-010",
+      "alt_text": "10 equal parts: 4 blue, one yellow and 5 white."
+    },
+    "answers": [
+      {
+        "text": "5/10",
+        "is_correct": true
+      },
+      {
+        "text": "5/11",
+        "is_correct": false
+      },
+      {
+        "text": "6/10",
+        "is_correct": false
+      },
+      {
+        "text": "10/5",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "4 + 1 = 5 parts are coloured. 10 − 5 = 5 parts remain, so 5/10 is white.",
+      "hint": "Combine the coloured parts, then complete the whole."
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "AC9M3N02-T-011",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3N02",
+    "bank": "test",
+    "skill": "reconstruct_whole",
+    "question": "8 equal pieces together make 8/10 of a paper strip. How many of these pieces make the entire strip?",
+    "audio_prompt": "8 equal pieces together make 8/10 of a paper strip. How many of these pieces make the entire strip?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "8",
+        "is_correct": false
+      },
+      {
+        "text": "18",
+        "is_correct": false
+      },
+      {
+        "text": "11",
+        "is_correct": false
+      },
+      {
+        "text": "10",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Each piece is 1/10, so the full strip needs 10 pieces.",
+      "hint": "Use the size of one piece, not only how many are shown."
+    },
+    "difficulty": 2
   },
   {
     "id": "AC9M3N02-T-012",
@@ -1251,33 +2228,36 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3N02",
     "bank": "test",
-    "skill": "fractions",
-    "question": "During the regrouping challenge, what completes 2/10 to make one whole?",
-    "audio_prompt": "During the regrouping challenge, what completes 2/10 to make one whole?",
+    "skill": "fraction_sum",
+    "question": "Complete the number sentence: 1/3 + ? = 1.",
+    "audio_prompt": "Complete the number sentence: 1/3 + ? = 1.",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n02.svg#ac9m3n02-t-012",
-      "alt_text": "During the regrouping challenge: One whole divided into 10 equal parts with 2 shaded."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "8/10",
+        "text": "2/4",
+        "is_correct": false
+      },
+      {
+        "text": "3/2",
+        "is_correct": false
+      },
+      {
+        "text": "2/3",
         "is_correct": true
       },
       {
-        "text": "10/10",
-        "is_correct": false
-      },
-      {
-        "text": "8/11",
+        "text": "1/3",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "2/10 + 8/10 = 10/10, or one whole.",
-      "hint": "Count the unshaded equal parts."
-    }
+      "summary": "One whole is 3/3. The missing number of equal parts is 3 − 1 = 2.",
+      "hint": "The sizes of the fractional parts stay the same."
+    },
+    "difficulty": 2
   },
   {
     "id": "AC9M3N02-T-013",
@@ -1285,33 +2265,36 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3N02",
     "bank": "test",
-    "skill": "fractions",
-    "question": "During the regrouping challenge, which statement about 2/10 is correct?",
-    "audio_prompt": "During the regrouping challenge, which statement about 2/10 is correct?",
+    "skill": "set_representation",
+    "question": "There are 3 shapes: 1 triangles and 2 circles. What fraction of the shapes are triangles?",
+    "audio_prompt": "There are 3 shapes: 1 triangles and 2 circles. What fraction of the shapes are triangles?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n02.svg#ac9m3n02-t-013",
-      "alt_text": "During the regrouping challenge: One whole divided into 10 equal parts with 2 shaded."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "10 of 2 parts are selected",
+        "text": "1/2",
         "is_correct": false
       },
       {
-        "text": "2 of 10 equal parts are selected",
+        "text": "1/3",
         "is_correct": true
       },
       {
-        "text": "2 unequal parts are selected",
+        "text": "2/3",
+        "is_correct": false
+      },
+      {
+        "text": "3/1",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "A fraction names selected equal parts of one whole.",
-      "hint": "The numerator is selected parts; the denominator is all equal parts."
-    }
+      "summary": "Triangles are 1 of all 3 shapes, so the fraction is 1/3.",
+      "hint": "The whole includes both types of shape."
+    },
+    "difficulty": 1
   },
   {
     "id": "AC9M3N02-T-014",
@@ -1319,33 +2302,36 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3N02",
     "bank": "test",
-    "skill": "equal_fraction_parts",
-    "question": "During the regrouping challenge, can 10 different-sized pieces be called equal fraction parts?",
-    "audio_prompt": "During the regrouping challenge, can 10 different-sized pieces be called equal fraction parts?",
+    "skill": "numerator_meaning",
+    "question": "An equal-part model shows 9/10. What does the 9 tell you?",
+    "audio_prompt": "An equal-part model shows 9/10. What does the 9 tell you?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n02.svg#ac9m3n02-t-014",
-      "alt_text": "During the regrouping challenge: 10 visibly unequal pieces of one whole."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "Yes, only the number of pieces matters",
-        "is_correct": false
-      },
-      {
-        "text": "Yes, if one piece is very large",
-        "is_correct": false
-      },
-      {
-        "text": "No, the pieces must be equal",
+        "text": "9 equal parts are selected.",
         "is_correct": true
+      },
+      {
+        "text": "One whole has 9 equal parts.",
+        "is_correct": false
+      },
+      {
+        "text": "Each part contains 9 wholes.",
+        "is_correct": false
+      },
+      {
+        "text": "9 parts are always unselected.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Fraction parts of one whole must be equal in size.",
-      "hint": "Compare the sizes, not only the count."
-    }
+      "summary": "The numerator 9 counts the selected parts. The denominator 10 counts the equal parts in the whole.",
+      "hint": "Separate the number of selected parts from the total number of parts."
+    },
+    "difficulty": 2
   },
   {
     "id": "AC9M3N02-T-015",
@@ -1353,33 +2339,36 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3N02",
     "bank": "test",
-    "skill": "fractions",
-    "question": "During the regrouping challenge, which sum makes one whole?",
-    "audio_prompt": "During the regrouping challenge, which sum makes one whole?",
+    "skill": "fraction_length",
+    "question": "A 30 cm strip is cut into 10 equal pieces. How long is each 1/10 piece?",
+    "audio_prompt": "A 30 cm strip is cut into 10 equal pieces. How long is each 1/10 piece?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n02.svg#ac9m3n02-t-015",
-      "alt_text": "During the regrouping challenge: One whole divided into 10 equal parts with 10 shaded."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "2/10 + 8/10",
+        "text": "20",
+        "is_correct": false
+      },
+      {
+        "text": "30",
+        "is_correct": false
+      },
+      {
+        "text": "11",
+        "is_correct": false
+      },
+      {
+        "text": "3",
         "is_correct": true
-      },
-      {
-        "text": "2/10 + 8/11",
-        "is_correct": false
-      },
-      {
-        "text": "2/10 + 9/10",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 3,
     "explanation": {
-      "summary": "The numerators total 10 while the equal parts keep denominator 10.",
-      "hint": "Use parts of the same size and count until you have 10."
-    }
+      "summary": "30 ÷ 10 = 3, so each fractional piece is 3 cm long.",
+      "hint": "Share the whole length equally."
+    },
+    "difficulty": 2
   },
   {
     "id": "AC9M3N02-T-016",
@@ -1387,32 +2376,35 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3N02",
     "bank": "test",
-    "skill": "fractions",
-    "question": "During the regrouping challenge, a student writes 2/10 + 8/10 = 10/20. What is the mistake?",
-    "audio_prompt": "During the regrouping challenge, a student writes 2/10 + 8/10 = 10/20. What is the mistake?",
+    "skill": "whole_completion_reason",
+    "question": "A student says 2/3 + 1/3 = 3/6. Which correction is right?",
+    "audio_prompt": "A student says 2/3 + 1/3 = 3/6. Which correction is right?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n02.svg#ac9m3n02-t-016",
-      "alt_text": "During the regrouping challenge: One whole divided into 10 equal parts with 10 shaded."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "The numerator should stay 2",
+        "text": "The sum is 3/9.",
         "is_correct": false
       },
       {
-        "text": "The denominator should stay 10",
+        "text": "The sum is 1/3.",
+        "is_correct": false
+      },
+      {
+        "text": "The sum is 3/3, or 1.",
         "is_correct": true
       },
       {
-        "text": "Fractions cannot make a whole",
+        "text": "The fractions cannot make a whole.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "When equal-sized parts are combined, count the parts and keep their size: 10/10=1.",
-      "hint": "Do not add denominators when the parts have the same denominator."
-    }
+      "summary": "The parts are still 3ths. Combining 2 and 1 parts makes all 3 parts of the original whole.",
+      "hint": "Adding parts does not cut the whole into smaller parts."
+    },
+    "difficulty": 3
   }
 ]

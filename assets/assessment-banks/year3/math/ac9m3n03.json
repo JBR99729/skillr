@@ -5,36 +5,36 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3N03",
     "bank": "practice",
-    "skill": "add_three_digit_numbers",
-    "question": "With a pizza, what is 236 + 47?",
-    "audio_prompt": "With a pizza, what is 236 + 47?",
+    "skill": "add_partition",
+    "question": "Work out 32 + 46 by splitting 46 into place-value parts.",
+    "audio_prompt": "Work out 32 + 46 by splitting 46 into place-value parts.",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n03.svg#ac9m3n03-p-001",
-      "alt_text": "With a pizza: 236 plus 47 shown for calculation."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "273",
+        "text": "68",
         "is_correct": false
       },
       {
-        "text": "383",
+        "text": "88",
         "is_correct": false
       },
       {
-        "text": "283",
+        "text": "78",
         "is_correct": true
+      },
+      {
+        "text": "77",
+        "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "236+47=283.",
-      "hint": "Partition 47 into tens and ones."
+      "summary": "Split 46 into 40 + 6. Then 32 + 40 = 72; 72 + 6 = 78.",
+      "hint": "Add hundreds, then tens, then ones."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty": 1
   },
   {
     "id": "AC9M3N03-P-002",
@@ -42,36 +42,36 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3N03",
     "bank": "practice",
-    "skill": "subtract_three_digit_numbers",
-    "question": "With a pizza, what is 236 − 47?",
-    "audio_prompt": "With a pizza, what is 236 − 47?",
+    "skill": "subtract_regroup",
+    "question": "Calculate 86 − 39. Regroup if needed.",
+    "audio_prompt": "Calculate 86 − 39. Regroup if needed.",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n03.svg#ac9m3n03-p-002",
-      "alt_text": "With a pizza: 236 minus 47 shown for calculation."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "189",
+        "text": "57",
+        "is_correct": false
+      },
+      {
+        "text": "47",
         "is_correct": true
       },
       {
-        "text": "199",
+        "text": "37",
         "is_correct": false
       },
       {
-        "text": "188",
+        "text": "49",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "236−47=189.",
-      "hint": "Subtract tens, then ones, regrouping if needed."
+      "summary": "Rename 86 as 0 hundreds, 7 tens and 16 ones. Subtract 0 hundreds, 3 tens and 9 ones to leave 47. Check: 47 + 39 = 86.",
+      "hint": "Check your difference with addition."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty": 2
   },
   {
     "id": "AC9M3N03-P-003",
@@ -79,36 +79,36 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3N03",
     "bank": "practice",
-    "skill": "partition_addend",
-    "question": "With a pizza, which partition helps calculate 236 + 47?",
-    "audio_prompt": "With a pizza, which partition helps calculate 236 + 47?",
+    "skill": "add_compensation",
+    "question": "Which calculation keeps the value of 164 + 29?",
+    "audio_prompt": "Which calculation keeps the value of 164 + 29?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n03.svg#ac9m3n03-p-003",
-      "alt_text": "With a pizza: 47 partitioned into tens and ones."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "236 + 7 + 7",
-        "is_correct": false
-      },
-      {
-        "text": "236 + 40 + 7",
+        "text": "164 + 30 − 1",
         "is_correct": true
       },
       {
-        "text": "236 + 470",
+        "text": "164 + 30 + 1",
+        "is_correct": false
+      },
+      {
+        "text": "164 − 30 + 1",
+        "is_correct": false
+      },
+      {
+        "text": "164 + 30",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Splitting 47 into tens and ones preserves its value.",
-      "hint": "Check that the parts recombine to 47."
+      "summary": "30 is 1 more than 29. Add it, then subtract the extra 1.",
+      "hint": "Undo the extra amount you added."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty": 2
   },
   {
     "id": "AC9M3N03-P-004",
@@ -116,36 +116,36 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3N03",
     "bank": "practice",
-    "skill": "check_subtraction_inverse",
-    "question": "With a pizza, which addition checks 236 − 47 = 189?",
-    "audio_prompt": "With a pizza, which addition checks 236 − 47 = 189?",
+    "skill": "subtract_compensation",
+    "question": "To find 143 − 59, first subtract 60. What must you do next?",
+    "audio_prompt": "To find 143 − 59, first subtract 60. What must you do next?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n03.svg#ac9m3n03-p-004",
-      "alt_text": "With a pizza: A subtraction fact ready to check with addition."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "236 + 47 = 189",
+        "text": "Subtract 1.",
         "is_correct": false
       },
       {
-        "text": "189 − 47 = 236",
+        "text": "Add 60.",
         "is_correct": false
       },
       {
-        "text": "189 + 47 = 236",
+        "text": "Make no adjustment.",
+        "is_correct": false
+      },
+      {
+        "text": "Add 1.",
         "is_correct": true
       }
     ],
-    "correct_index": 2,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Addition reverses subtraction, so 189+47=236.",
-      "hint": "Use the answer and the amount subtracted."
+      "summary": "Subtracting 60 removes 1 too much. Add 1 back to get 84.",
+      "hint": "Did the first step remove too much or too little?"
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty": 2
   },
   {
     "id": "AC9M3N03-P-005",
@@ -153,36 +153,36 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3N03",
     "bank": "practice",
-    "skill": "estimate_sum",
-    "question": "With a pizza, what is the best estimate for 236 + 47?",
-    "audio_prompt": "With a pizza, what is the best estimate for 236 + 47?",
+    "skill": "regroup_ones",
+    "question": "In 258 + 176, the ones add to 14. After exchanging 10 ones for a ten, how many ones remain?",
+    "audio_prompt": "In 258 + 176, the ones add to 14. After exchanging 10 ones for a ten, how many ones remain?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n03.svg#ac9m3n03-p-005",
-      "alt_text": "With a pizza: Both addends rounded to nearby tens."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "290",
+        "text": "14",
+        "is_correct": false
+      },
+      {
+        "text": "5",
+        "is_correct": false
+      },
+      {
+        "text": "4",
         "is_correct": true
       },
       {
-        "text": "200",
-        "is_correct": false
-      },
-      {
-        "text": "483",
+        "text": "3",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Rounding both numbers to nearby tens gives a sensible estimate.",
-      "hint": "Round each number before adding."
+      "summary": "8 + 6 = 14. This is 1 ten and 4 ones.",
+      "hint": "Separate one group of ten from the ones total."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty": 1
   },
   {
     "id": "AC9M3N03-P-006",
@@ -190,36 +190,38 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3N03",
     "bank": "practice",
-    "skill": "use_compensation_addition",
-    "question": "With a pizza, which strategy efficiently solves 237 + 99?",
-    "audio_prompt": "With a pizza, which strategy efficiently solves 237 + 99?",
+    "skill": "rename_across_zero",
+    "question": "Which renaming of 302 lets you subtract 178 by place value?",
+    "audio_prompt": "Which renaming of 302 lets you subtract 178 by place value?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n03.svg#ac9m3n03-p-006",
-      "alt_text": "With a pizza: An addition calculation using 99 near 100."
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n03-reviewed.svg#ac9m3n03-p-006",
+      "alt_text": "Place-value chart for 302: 3 hundreds, 0 tens and 2 ones."
     },
     "answers": [
       {
-        "text": "Add 90, then subtract 9",
+        "text": "3 hundreds, 9 tens, 12 ones",
         "is_correct": false
       },
       {
-        "text": "Add 100, then subtract 1",
+        "text": "2 hundreds, 9 tens, 12 ones",
         "is_correct": true
       },
       {
-        "text": "Subtract 100, then add 1",
+        "text": "2 hundreds, 0 tens, 12 ones",
+        "is_correct": false
+      },
+      {
+        "text": "2 hundreds, 10 tens, 12 ones",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "99 is 1 less than 100, so compensate after adding 100.",
-      "hint": "Use the friendly number 100."
+      "summary": "Exchange one hundred for 10 tens, then one of those tens for 10 ones. The total remains 302.",
+      "hint": "Every exchange must preserve the original number."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty": 3
   },
   {
     "id": "AC9M3N03-P-007",
@@ -227,36 +229,36 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3N03",
     "bank": "practice",
-    "skill": "apply_addition_context",
-    "question": "With a pizza, a library has 236 books and receives 47 more. How many books are there now?",
-    "audio_prompt": "With a pizza, a library has 236 books and receives 47 more. How many books are there now?",
+    "skill": "missing_partial_sum",
+    "question": "Finish this addition path: 235 + 100 = 335; then + 40 = ?; then + 6.",
+    "audio_prompt": "Finish this addition path: 235 + 100 = 335; then + 40 = ?; then + 6.",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n03.svg#ac9m3n03-p-007",
-      "alt_text": "With a pizza: Two book groups containing 236 and 47 books."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "189",
-        "is_correct": false
-      },
-      {
-        "text": "293",
-        "is_correct": false
-      },
-      {
-        "text": "283",
+        "text": "375",
         "is_correct": true
+      },
+      {
+        "text": "381",
+        "is_correct": false
+      },
+      {
+        "text": "385",
+        "is_correct": false
+      },
+      {
+        "text": "335",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Receiving more books means add: 236+47=283.",
-      "hint": "Decide whether the amount grows or decreases."
+      "summary": "335 + 40 = 375. The final ones step happens afterwards.",
+      "hint": "Find the value at the requested step, before adding ones."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty": 2
   },
   {
     "id": "AC9M3N03-P-008",
@@ -264,35 +266,36 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3N03",
     "bank": "practice",
-    "skill": "check_calculation_reasonableness",
-    "question": "With a pizza, sam says 236 − 47 = 283. What shows the answer is unreasonable?",
-    "audio_prompt": "With a pizza, sam says 236 − 47 = 283. What shows the answer is unreasonable?",
+    "skill": "missing_subtraction_step",
+    "question": "Subtract 138 from 274 in parts. After subtracting 100 and then 30, what number do you have before subtracting 8?",
+    "audio_prompt": "Subtract 138 from 274 in parts. After subtracting 100 and then 30, what number do you have before subtracting 8?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n03.svg#ac9m3n03-p-008",
-      "alt_text": "With a pizza: A subtraction calculation beside an incorrectly larger answer."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "Subtraction should make the starting number smaller",
+        "text": "136",
+        "is_correct": false
+      },
+      {
+        "text": "174",
+        "is_correct": false
+      },
+      {
+        "text": "154",
+        "is_correct": false
+      },
+      {
+        "text": "144",
         "is_correct": true
-      },
-      {
-        "text": "Every answer must be even",
-        "is_correct": false
-      },
-      {
-        "text": "Subtraction always makes zero",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 3,
     "explanation": {
-      "summary": "236−47 must be less than 236; the correct result is 189.",
-      "hint": "Compare the result with the starting number."
+      "summary": "274 − 100 = 174; 174 − 30 = 144. There are still 8 ones to subtract.",
+      "hint": "Follow only the first two jumps."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 2
   },
   {
     "id": "AC9M3N03-P-009",
@@ -300,36 +303,36 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3N03",
     "bank": "practice",
-    "skill": "add_three_digit_numbers",
-    "question": "With a wrap, what is 307 + 60?",
-    "audio_prompt": "With a wrap, what is 307 + 60?",
+    "skill": "rearrange_sum",
+    "question": "Move 2 from 46 to 198. Which easier sum equals 198 + 46?",
+    "audio_prompt": "Move 2 from 46 to 198. Which easier sum equals 198 + 46?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n03.svg#ac9m3n03-p-009",
-      "alt_text": "With a wrap: 307 plus 60 shown for calculation."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "357",
+        "text": "200 + 48",
         "is_correct": false
       },
       {
-        "text": "367",
+        "text": "196 + 44",
+        "is_correct": false
+      },
+      {
+        "text": "200 + 44",
         "is_correct": true
       },
       {
-        "text": "467",
+        "text": "200 + 46",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "307+60=367.",
-      "hint": "Partition 60 into tens and ones."
+      "summary": "One addend grows by 2; the other shrinks by 2. The total stays 244.",
+      "hint": "Transfer the amount; do not add it twice."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty": 3
   },
   {
     "id": "AC9M3N03-P-010",
@@ -337,35 +340,36 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3N03",
     "bank": "practice",
-    "skill": "subtract_three_digit_numbers",
-    "question": "With a wrap, what is 307 − 60?",
-    "audio_prompt": "With a wrap, what is 307 − 60?",
+    "skill": "constant_difference",
+    "question": "Add 2 to both numbers in 352 − 198. Which subtraction has the same answer?",
+    "audio_prompt": "Add 2 to both numbers in 352 − 198. Which subtraction has the same answer?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n03.svg#ac9m3n03-p-010",
-      "alt_text": "With a wrap: 307 minus 60 shown for calculation."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "257",
+        "text": "350 − 200",
         "is_correct": false
       },
       {
-        "text": "246",
-        "is_correct": false
-      },
-      {
-        "text": "247",
+        "text": "354 − 200",
         "is_correct": true
+      },
+      {
+        "text": "354 − 196",
+        "is_correct": false
+      },
+      {
+        "text": "352 − 200",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "307−60=247.",
-      "hint": "Subtract tens, then ones, regrouping if needed."
+      "summary": "Moving both numbers up by 2 keeps their distance unchanged: 154.",
+      "hint": "Equal changes to both numbers preserve a difference."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 3
   },
   {
     "id": "AC9M3N03-P-011",
@@ -373,555 +377,15 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3N03",
     "bank": "practice",
-    "skill": "partition_addend",
-    "question": "With a wrap, which partition helps calculate 307 + 60?",
-    "audio_prompt": "With a wrap, which partition helps calculate 307 + 60?",
+    "skill": "diagnose_addition",
+    "question": "A student calculates 246 + 137 = 373, forgetting the ten made by adding the ones. What is the correct total?",
+    "audio_prompt": "A student calculates 246 + 137 = 373, forgetting the ten made by adding the ones. What is the correct total?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n03.svg#ac9m3n03-p-011",
-      "alt_text": "With a wrap: 60 partitioned into tens and ones."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "307 + 60 + 0",
-        "is_correct": true
-      },
-      {
-        "text": "307 + 0 + 0",
-        "is_correct": false
-      },
-      {
-        "text": "307 + 600",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Splitting 60 into tens and ones preserves its value.",
-      "hint": "Check that the parts recombine to 60."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9M3N03-P-012",
-    "subject": "math",
-    "year_level": "Year 3",
-    "curriculum_code": "AC9M3N03",
-    "bank": "practice",
-    "skill": "check_subtraction_inverse",
-    "question": "With a wrap, which addition checks 307 − 60 = 247?",
-    "audio_prompt": "With a wrap, which addition checks 307 − 60 = 247?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n03.svg#ac9m3n03-p-012",
-      "alt_text": "With a wrap: A subtraction fact ready to check with addition."
-    },
-    "answers": [
-      {
-        "text": "307 + 60 = 247",
-        "is_correct": false
-      },
-      {
-        "text": "247 + 60 = 307",
-        "is_correct": true
-      },
-      {
-        "text": "247 − 60 = 307",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Addition reverses subtraction, so 247+60=307.",
-      "hint": "Use the answer and the amount subtracted."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9M3N03-P-013",
-    "subject": "math",
-    "year_level": "Year 3",
-    "curriculum_code": "AC9M3N03",
-    "bank": "practice",
-    "skill": "estimate_sum",
-    "question": "With a wrap, what is the best estimate for 307 + 60?",
-    "audio_prompt": "With a wrap, what is the best estimate for 307 + 60?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n03.svg#ac9m3n03-p-013",
-      "alt_text": "With a wrap: Both addends rounded to nearby tens."
-    },
-    "answers": [
-      {
-        "text": "300",
-        "is_correct": false
-      },
-      {
-        "text": "567",
-        "is_correct": false
-      },
-      {
-        "text": "370",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Rounding both numbers to nearby tens gives a sensible estimate.",
-      "hint": "Round each number before adding."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9M3N03-P-014",
-    "subject": "math",
-    "year_level": "Year 3",
-    "curriculum_code": "AC9M3N03",
-    "bank": "practice",
-    "skill": "use_compensation_addition",
-    "question": "With a wrap, which strategy efficiently solves 308 + 99?",
-    "audio_prompt": "With a wrap, which strategy efficiently solves 308 + 99?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n03.svg#ac9m3n03-p-014",
-      "alt_text": "With a wrap: An addition calculation using 99 near 100."
-    },
-    "answers": [
-      {
-        "text": "Add 100, then subtract 1",
-        "is_correct": true
-      },
-      {
-        "text": "Add 90, then subtract 9",
-        "is_correct": false
-      },
-      {
-        "text": "Subtract 100, then add 1",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "99 is 1 less than 100, so compensate after adding 100.",
-      "hint": "Use the friendly number 100."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9M3N03-P-015",
-    "subject": "math",
-    "year_level": "Year 3",
-    "curriculum_code": "AC9M3N03",
-    "bank": "practice",
-    "skill": "apply_addition_context",
-    "question": "With a wrap, a library has 307 books and receives 60 more. How many books are there now?",
-    "audio_prompt": "With a wrap, a library has 307 books and receives 60 more. How many books are there now?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n03.svg#ac9m3n03-p-015",
-      "alt_text": "With a wrap: Two book groups containing 307 and 60 books."
-    },
-    "answers": [
-      {
-        "text": "247",
-        "is_correct": false
-      },
-      {
-        "text": "367",
-        "is_correct": true
-      },
-      {
-        "text": "377",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Receiving more books means add: 307+60=367.",
-      "hint": "Decide whether the amount grows or decreases."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9M3N03-P-016",
-    "subject": "math",
-    "year_level": "Year 3",
-    "curriculum_code": "AC9M3N03",
-    "bank": "practice",
-    "skill": "check_calculation_reasonableness",
-    "question": "With a wrap, sam says 307 − 60 = 367. What shows the answer is unreasonable?",
-    "audio_prompt": "With a wrap, sam says 307 − 60 = 367. What shows the answer is unreasonable?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n03.svg#ac9m3n03-p-016",
-      "alt_text": "With a wrap: A subtraction calculation beside an incorrectly larger answer."
-    },
-    "answers": [
-      {
-        "text": "Every answer must be even",
-        "is_correct": false
-      },
-      {
-        "text": "Subtraction always makes zero",
-        "is_correct": false
-      },
-      {
-        "text": "Subtraction should make the starting number smaller",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "307−60 must be less than 307; the correct result is 247.",
-      "hint": "Compare the result with the starting number."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9M3N03-P-017",
-    "subject": "math",
-    "year_level": "Year 3",
-    "curriculum_code": "AC9M3N03",
-    "bank": "practice",
-    "skill": "add_three_digit_numbers",
-    "question": "With a melon, what is 378 + 73?",
-    "audio_prompt": "With a melon, what is 378 + 73?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n03.svg#ac9m3n03-p-017",
-      "alt_text": "With a melon: 378 plus 73 shown for calculation."
-    },
-    "answers": [
-      {
-        "text": "451",
-        "is_correct": true
-      },
-      {
-        "text": "441",
-        "is_correct": false
-      },
-      {
-        "text": "551",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "378+73=451.",
-      "hint": "Partition 73 into tens and ones."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9M3N03-P-018",
-    "subject": "math",
-    "year_level": "Year 3",
-    "curriculum_code": "AC9M3N03",
-    "bank": "practice",
-    "skill": "subtract_three_digit_numbers",
-    "question": "With a melon, what is 378 − 73?",
-    "audio_prompt": "With a melon, what is 378 − 73?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n03.svg#ac9m3n03-p-018",
-      "alt_text": "With a melon: 378 minus 73 shown for calculation."
-    },
-    "answers": [
-      {
-        "text": "315",
-        "is_correct": false
-      },
-      {
-        "text": "305",
-        "is_correct": true
-      },
-      {
-        "text": "304",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "378−73=305.",
-      "hint": "Subtract tens, then ones, regrouping if needed."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9M3N03-P-019",
-    "subject": "math",
-    "year_level": "Year 3",
-    "curriculum_code": "AC9M3N03",
-    "bank": "practice",
-    "skill": "partition_addend",
-    "question": "With a melon, which partition helps calculate 378 + 73?",
-    "audio_prompt": "With a melon, which partition helps calculate 378 + 73?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n03.svg#ac9m3n03-p-019",
-      "alt_text": "With a melon: 73 partitioned into tens and ones."
-    },
-    "answers": [
-      {
-        "text": "378 + 3 + 3",
-        "is_correct": false
-      },
-      {
-        "text": "378 + 730",
-        "is_correct": false
-      },
-      {
-        "text": "378 + 70 + 3",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Splitting 73 into tens and ones preserves its value.",
-      "hint": "Check that the parts recombine to 73."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9M3N03-P-020",
-    "subject": "math",
-    "year_level": "Year 3",
-    "curriculum_code": "AC9M3N03",
-    "bank": "practice",
-    "skill": "check_subtraction_inverse",
-    "question": "With a melon, which addition checks 378 − 73 = 305?",
-    "audio_prompt": "With a melon, which addition checks 378 − 73 = 305?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n03.svg#ac9m3n03-p-020",
-      "alt_text": "With a melon: A subtraction fact ready to check with addition."
-    },
-    "answers": [
-      {
-        "text": "305 + 73 = 378",
-        "is_correct": true
-      },
-      {
-        "text": "378 + 73 = 305",
-        "is_correct": false
-      },
-      {
-        "text": "305 − 73 = 378",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Addition reverses subtraction, so 305+73=378.",
-      "hint": "Use the answer and the amount subtracted."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9M3N03-P-021",
-    "subject": "math",
-    "year_level": "Year 3",
-    "curriculum_code": "AC9M3N03",
-    "bank": "practice",
-    "skill": "estimate_sum",
-    "question": "With a melon, what is the best estimate for 378 + 73?",
-    "audio_prompt": "With a melon, what is the best estimate for 378 + 73?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n03.svg#ac9m3n03-p-021",
-      "alt_text": "With a melon: Both addends rounded to nearby tens."
-    },
-    "answers": [
-      {
-        "text": "400",
-        "is_correct": false
-      },
-      {
-        "text": "450",
-        "is_correct": true
-      },
-      {
-        "text": "651",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Rounding both numbers to nearby tens gives a sensible estimate.",
-      "hint": "Round each number before adding."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9M3N03-P-022",
-    "subject": "math",
-    "year_level": "Year 3",
-    "curriculum_code": "AC9M3N03",
-    "bank": "practice",
-    "skill": "use_compensation_addition",
-    "question": "With a melon, which strategy efficiently solves 379 + 99?",
-    "audio_prompt": "With a melon, which strategy efficiently solves 379 + 99?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n03.svg#ac9m3n03-p-022",
-      "alt_text": "With a melon: An addition calculation using 99 near 100."
-    },
-    "answers": [
-      {
-        "text": "Add 90, then subtract 9",
-        "is_correct": false
-      },
-      {
-        "text": "Subtract 100, then add 1",
-        "is_correct": false
-      },
-      {
-        "text": "Add 100, then subtract 1",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "99 is 1 less than 100, so compensate after adding 100.",
-      "hint": "Use the friendly number 100."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9M3N03-P-023",
-    "subject": "math",
-    "year_level": "Year 3",
-    "curriculum_code": "AC9M3N03",
-    "bank": "practice",
-    "skill": "apply_addition_context",
-    "question": "With a melon, a library has 378 books and receives 73 more. How many books are there now?",
-    "audio_prompt": "With a melon, a library has 378 books and receives 73 more. How many books are there now?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n03.svg#ac9m3n03-p-023",
-      "alt_text": "With a melon: Two book groups containing 378 and 73 books."
-    },
-    "answers": [
-      {
-        "text": "451",
-        "is_correct": true
-      },
-      {
-        "text": "305",
-        "is_correct": false
-      },
-      {
-        "text": "461",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Receiving more books means add: 378+73=451.",
-      "hint": "Decide whether the amount grows or decreases."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9M3N03-P-024",
-    "subject": "math",
-    "year_level": "Year 3",
-    "curriculum_code": "AC9M3N03",
-    "bank": "practice",
-    "skill": "check_calculation_reasonableness",
-    "question": "With a melon, sam says 378 − 73 = 451. What shows the answer is unreasonable?",
-    "audio_prompt": "With a melon, sam says 378 − 73 = 451. What shows the answer is unreasonable?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n03.svg#ac9m3n03-p-024",
-      "alt_text": "With a melon: A subtraction calculation beside an incorrectly larger answer."
-    },
-    "answers": [
-      {
-        "text": "Every answer must be even",
-        "is_correct": false
-      },
-      {
-        "text": "Subtraction should make the starting number smaller",
-        "is_correct": true
-      },
-      {
-        "text": "Subtraction always makes zero",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "378−73 must be less than 378; the correct result is 305.",
-      "hint": "Compare the result with the starting number."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9M3N03-T-001",
-    "subject": "math",
-    "year_level": "Year 3",
-    "curriculum_code": "AC9M3N03",
-    "bank": "test",
-    "skill": "add_three_digit_numbers",
-    "question": "With a cake, what is 449 + 86?",
-    "audio_prompt": "With a cake, what is 449 + 86?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n03.svg#ac9m3n03-t-001",
-      "alt_text": "With a cake: 449 plus 86 shown for calculation."
-    },
-    "answers": [
-      {
-        "text": "525",
-        "is_correct": false
-      },
-      {
-        "text": "635",
-        "is_correct": false
-      },
-      {
-        "text": "535",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "449+86=535.",
-      "hint": "Partition 86 into tens and ones."
-    }
-  },
-  {
-    "id": "AC9M3N03-T-002",
-    "subject": "math",
-    "year_level": "Year 3",
-    "curriculum_code": "AC9M3N03",
-    "bank": "test",
-    "skill": "subtract_three_digit_numbers",
-    "question": "With a cake, what is 449 − 86?",
-    "audio_prompt": "With a cake, what is 449 − 86?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n03.svg#ac9m3n03-t-002",
-      "alt_text": "With a cake: 449 minus 86 shown for calculation."
-    },
-    "answers": [
-      {
-        "text": "363",
+        "text": "383",
         "is_correct": true
       },
       {
@@ -929,15 +393,1467 @@
         "is_correct": false
       },
       {
-        "text": "362",
+        "text": "393",
+        "is_correct": false
+      },
+      {
+        "text": "382",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "449−86=363.",
-      "hint": "Subtract tens, then ones, regrouping if needed."
-    }
+      "summary": "The ones make an extra ten. Include it in the tens total: 246 + 137 = 383.",
+      "hint": "A group of 10 ones belongs in the tens column."
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "AC9M3N03-P-012",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3N03",
+    "bank": "practice",
+    "skill": "missing_addend",
+    "question": "? + 156 = 324. What is the missing number?",
+    "audio_prompt": "? + 156 = 324. What is the missing number?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "480",
+        "is_correct": false
+      },
+      {
+        "text": "178",
+        "is_correct": false
+      },
+      {
+        "text": "158",
+        "is_correct": false
+      },
+      {
+        "text": "168",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "The missing part is 324 − 156 = 168. Adding it back gives 324.",
+      "hint": "Use the whole and known part to find the unknown part."
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "AC9M3N03-P-013",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3N03",
+    "bank": "practice",
+    "skill": "missing_subtrahend",
+    "question": "263 − ? = 145. How much was subtracted?",
+    "audio_prompt": "263 − ? = 145. How much was subtracted?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "408",
+        "is_correct": false
+      },
+      {
+        "text": "218",
+        "is_correct": false
+      },
+      {
+        "text": "118",
+        "is_correct": true
+      },
+      {
+        "text": "108",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The removed part is 263 − 145 = 118. Check 145 + 118 = 263.",
+      "hint": "Find the gap between the starting and ending values."
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "AC9M3N03-P-014",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3N03",
+    "bank": "practice",
+    "skill": "combine_context",
+    "question": "The library has 145 books on one trolley and 238 on another. How many books are on the two trolleys altogether?",
+    "audio_prompt": "The library has 145 books on one trolley and 238 on another. How many books are on the two trolleys altogether?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "373",
+        "is_correct": false
+      },
+      {
+        "text": "383",
+        "is_correct": true
+      },
+      {
+        "text": "483",
+        "is_correct": false
+      },
+      {
+        "text": "93",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Combine the two quantities: 145 + 238 = 383.",
+      "hint": "Partition one quantity and add its parts."
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "AC9M3N03-P-015",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3N03",
+    "bank": "practice",
+    "skill": "difference_context",
+    "question": "A hall has 315 seats. 178 seats are occupied. How many seats are empty?",
+    "audio_prompt": "A hall has 315 seats. 178 seats are occupied. How many seats are empty?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "137",
+        "is_correct": true
+      },
+      {
+        "text": "147",
+        "is_correct": false
+      },
+      {
+        "text": "237",
+        "is_correct": false
+      },
+      {
+        "text": "493",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Rename 315 as 2 hundreds, 10 tens and 15 ones. Subtract 1 hundreds, 7 tens and 8 ones to leave 137. Check: 137 + 178 = 315.",
+      "hint": "Regroup across an empty place if needed."
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "AC9M3N03-P-016",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3N03",
+    "bank": "practice",
+    "skill": "inverse_check",
+    "question": "Which addition checks that 283 − 159 = 124?",
+    "audio_prompt": "Which addition checks that 283 − 159 = 124?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "283 + 159 = 442",
+        "is_correct": false
+      },
+      {
+        "text": "124 + 283 = 407",
+        "is_correct": false
+      },
+      {
+        "text": "124 + 10 = 134",
+        "is_correct": false
+      },
+      {
+        "text": "124 + 159 = 283",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "The remaining part and removed part must rebuild the starting whole: 124 + 159 = 283.",
+      "hint": "Check that both parts recombine to the original number."
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "AC9M3N03-P-017",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3N03",
+    "bank": "practice",
+    "skill": "add_partition",
+    "question": "Work out 168 + 57 by splitting 57 into place-value parts.",
+    "audio_prompt": "Work out 168 + 57 by splitting 57 into place-value parts.",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "215",
+        "is_correct": false
+      },
+      {
+        "text": "235",
+        "is_correct": false
+      },
+      {
+        "text": "225",
+        "is_correct": true
+      },
+      {
+        "text": "224",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Split 57 into 50 + 7. Then 168 + 50 = 218; 218 + 7 = 225.",
+      "hint": "Add hundreds, then tens, then ones."
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "AC9M3N03-P-018",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3N03",
+    "bank": "practice",
+    "skill": "subtract_regroup",
+    "question": "Calculate 253 − 78. Regroup if needed.",
+    "audio_prompt": "Calculate 253 − 78. Regroup if needed.",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "185",
+        "is_correct": false
+      },
+      {
+        "text": "175",
+        "is_correct": true
+      },
+      {
+        "text": "165",
+        "is_correct": false
+      },
+      {
+        "text": "177",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Rename 253 as 1 hundreds, 14 tens and 13 ones. Subtract 0 hundreds, 7 tens and 8 ones to leave 175. Check: 175 + 78 = 253.",
+      "hint": "Check your difference with addition."
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "AC9M3N03-P-019",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3N03",
+    "bank": "practice",
+    "skill": "add_compensation",
+    "question": "Which calculation keeps the value of 275 + 48?",
+    "audio_prompt": "Which calculation keeps the value of 275 + 48?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "275 + 50 − 2",
+        "is_correct": true
+      },
+      {
+        "text": "275 + 50 + 2",
+        "is_correct": false
+      },
+      {
+        "text": "275 − 50 + 2",
+        "is_correct": false
+      },
+      {
+        "text": "275 + 50",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "50 is 2 more than 48. Add it, then subtract the extra 2.",
+      "hint": "Undo the extra amount you added."
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "AC9M3N03-P-020",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3N03",
+    "bank": "practice",
+    "skill": "subtract_compensation",
+    "question": "To find 326 − 98, first subtract 100. What must you do next?",
+    "audio_prompt": "To find 326 − 98, first subtract 100. What must you do next?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "Subtract 2.",
+        "is_correct": false
+      },
+      {
+        "text": "Add 100.",
+        "is_correct": false
+      },
+      {
+        "text": "Make no adjustment.",
+        "is_correct": false
+      },
+      {
+        "text": "Add 2.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Subtracting 100 removes 2 too much. Add 2 back to get 228.",
+      "hint": "Did the first step remove too much or too little?"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "AC9M3N03-P-021",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3N03",
+    "bank": "practice",
+    "skill": "regroup_ones",
+    "question": "In 367 + 258, the ones add to 15. After exchanging 10 ones for a ten, how many ones remain?",
+    "audio_prompt": "In 367 + 258, the ones add to 15. After exchanging 10 ones for a ten, how many ones remain?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "15",
+        "is_correct": false
+      },
+      {
+        "text": "6",
+        "is_correct": false
+      },
+      {
+        "text": "5",
+        "is_correct": true
+      },
+      {
+        "text": "4",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "7 + 8 = 15. This is 1 ten and 5 ones.",
+      "hint": "Separate one group of ten from the ones total."
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "AC9M3N03-P-022",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3N03",
+    "bank": "practice",
+    "skill": "rename_across_zero",
+    "question": "Which renaming of 405 lets you subtract 267 by place value?",
+    "audio_prompt": "Which renaming of 405 lets you subtract 267 by place value?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n03-reviewed.svg#ac9m3n03-p-022",
+      "alt_text": "Place-value chart for 405: 4 hundreds, 0 tens and 5 ones."
+    },
+    "answers": [
+      {
+        "text": "4 hundreds, 9 tens, 15 ones",
+        "is_correct": false
+      },
+      {
+        "text": "3 hundreds, 9 tens, 15 ones",
+        "is_correct": true
+      },
+      {
+        "text": "3 hundreds, 0 tens, 15 ones",
+        "is_correct": false
+      },
+      {
+        "text": "3 hundreds, 10 tens, 15 ones",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Exchange one hundred for 10 tens, then one of those tens for 10 ones. The total remains 405.",
+      "hint": "Every exchange must preserve the original number."
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "AC9M3N03-P-023",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3N03",
+    "bank": "practice",
+    "skill": "missing_partial_sum",
+    "question": "Finish this addition path: 362 + 200 = 562; then + 70 = ?; then + 5.",
+    "audio_prompt": "Finish this addition path: 362 + 200 = 562; then + 70 = ?; then + 5.",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "632",
+        "is_correct": true
+      },
+      {
+        "text": "637",
+        "is_correct": false
+      },
+      {
+        "text": "642",
+        "is_correct": false
+      },
+      {
+        "text": "562",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "562 + 70 = 632. The final ones step happens afterwards.",
+      "hint": "Find the value at the requested step, before adding ones."
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "AC9M3N03-P-024",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3N03",
+    "bank": "practice",
+    "skill": "missing_subtraction_step",
+    "question": "Subtract 247 from 463 in parts. After subtracting 200 and then 40, what number do you have before subtracting 7?",
+    "audio_prompt": "Subtract 247 from 463 in parts. After subtracting 200 and then 40, what number do you have before subtracting 7?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "216",
+        "is_correct": false
+      },
+      {
+        "text": "263",
+        "is_correct": false
+      },
+      {
+        "text": "233",
+        "is_correct": false
+      },
+      {
+        "text": "223",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "463 − 200 = 263; 263 − 40 = 223. There are still 7 ones to subtract.",
+      "hint": "Follow only the first two jumps."
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "AC9M3N03-P-025",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3N03",
+    "bank": "practice",
+    "skill": "rearrange_sum",
+    "question": "Move 3 from 85 to 297. Which easier sum equals 297 + 85?",
+    "audio_prompt": "Move 3 from 85 to 297. Which easier sum equals 297 + 85?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "300 + 88",
+        "is_correct": false
+      },
+      {
+        "text": "294 + 82",
+        "is_correct": false
+      },
+      {
+        "text": "300 + 82",
+        "is_correct": true
+      },
+      {
+        "text": "300 + 85",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "One addend grows by 3; the other shrinks by 3. The total stays 382.",
+      "hint": "Transfer the amount; do not add it twice."
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "AC9M3N03-P-026",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3N03",
+    "bank": "practice",
+    "skill": "constant_difference",
+    "question": "Add 3 to both numbers in 461 − 297. Which subtraction has the same answer?",
+    "audio_prompt": "Add 3 to both numbers in 461 − 297. Which subtraction has the same answer?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "458 − 300",
+        "is_correct": false
+      },
+      {
+        "text": "464 − 300",
+        "is_correct": true
+      },
+      {
+        "text": "464 − 294",
+        "is_correct": false
+      },
+      {
+        "text": "461 − 300",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Moving both numbers up by 3 keeps their distance unchanged: 164.",
+      "hint": "Equal changes to both numbers preserve a difference."
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "AC9M3N03-P-027",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3N03",
+    "bank": "practice",
+    "skill": "diagnose_addition",
+    "question": "A student calculates 358 + 264 = 612, forgetting the ten made by adding the ones. What is the correct total?",
+    "audio_prompt": "A student calculates 358 + 264 = 612, forgetting the ten made by adding the ones. What is the correct total?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "622",
+        "is_correct": true
+      },
+      {
+        "text": "612",
+        "is_correct": false
+      },
+      {
+        "text": "632",
+        "is_correct": false
+      },
+      {
+        "text": "621",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The ones make an extra ten. Include it in the tens total: 358 + 264 = 622.",
+      "hint": "A group of 10 ones belongs in the tens column."
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "AC9M3N03-P-028",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3N03",
+    "bank": "practice",
+    "skill": "missing_addend",
+    "question": "? + 237 = 452. What is the missing number?",
+    "audio_prompt": "? + 237 = 452. What is the missing number?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "689",
+        "is_correct": false
+      },
+      {
+        "text": "225",
+        "is_correct": false
+      },
+      {
+        "text": "205",
+        "is_correct": false
+      },
+      {
+        "text": "215",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "The missing part is 452 − 237 = 215. Adding it back gives 452.",
+      "hint": "Use the whole and known part to find the unknown part."
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "AC9M3N03-P-029",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3N03",
+    "bank": "practice",
+    "skill": "missing_subtrahend",
+    "question": "428 − ? = 176. How much was subtracted?",
+    "audio_prompt": "428 − ? = 176. How much was subtracted?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "604",
+        "is_correct": false
+      },
+      {
+        "text": "352",
+        "is_correct": false
+      },
+      {
+        "text": "252",
+        "is_correct": true
+      },
+      {
+        "text": "242",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The removed part is 428 − 176 = 252. Check 176 + 252 = 428.",
+      "hint": "Find the gap between the starting and ending values."
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "AC9M3N03-P-030",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3N03",
+    "bank": "practice",
+    "skill": "combine_context",
+    "question": "The library has 276 books on one trolley and 157 on another. How many books are on the two trolleys altogether?",
+    "audio_prompt": "The library has 276 books on one trolley and 157 on another. How many books are on the two trolleys altogether?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "423",
+        "is_correct": false
+      },
+      {
+        "text": "433",
+        "is_correct": true
+      },
+      {
+        "text": "533",
+        "is_correct": false
+      },
+      {
+        "text": "119",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Combine the two quantities: 276 + 157 = 433.",
+      "hint": "Partition one quantity and add its parts."
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "AC9M3N03-P-031",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3N03",
+    "bank": "practice",
+    "skill": "difference_context",
+    "question": "A hall has 504 seats. 267 seats are occupied. How many seats are empty?",
+    "audio_prompt": "A hall has 504 seats. 267 seats are occupied. How many seats are empty?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "237",
+        "is_correct": true
+      },
+      {
+        "text": "247",
+        "is_correct": false
+      },
+      {
+        "text": "337",
+        "is_correct": false
+      },
+      {
+        "text": "771",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Rename 504 as 4 hundreds, 9 tens and 14 ones. Subtract 2 hundreds, 6 tens and 7 ones to leave 237. Check: 237 + 267 = 504.",
+      "hint": "Regroup across an empty place if needed."
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "AC9M3N03-P-032",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3N03",
+    "bank": "practice",
+    "skill": "inverse_check",
+    "question": "Which addition checks that 461 − 278 = 183?",
+    "audio_prompt": "Which addition checks that 461 − 278 = 183?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "461 + 278 = 739",
+        "is_correct": false
+      },
+      {
+        "text": "183 + 461 = 644",
+        "is_correct": false
+      },
+      {
+        "text": "183 + 10 = 193",
+        "is_correct": false
+      },
+      {
+        "text": "183 + 278 = 461",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "The remaining part and removed part must rebuild the starting whole: 183 + 278 = 461.",
+      "hint": "Check that both parts recombine to the original number."
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "AC9M3N03-P-033",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3N03",
+    "bank": "practice",
+    "skill": "add_partition",
+    "question": "Work out 286 + 135 by splitting 135 into place-value parts.",
+    "audio_prompt": "Work out 286 + 135 by splitting 135 into place-value parts.",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "411",
+        "is_correct": false
+      },
+      {
+        "text": "431",
+        "is_correct": false
+      },
+      {
+        "text": "421",
+        "is_correct": true
+      },
+      {
+        "text": "420",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Split 135 into 100 + 30 + 5. Then 286 + 100 = 386; 386 + 30 = 416; 416 + 5 = 421.",
+      "hint": "Add hundreds, then tens, then ones."
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "AC9M3N03-P-034",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3N03",
+    "bank": "practice",
+    "skill": "subtract_regroup",
+    "question": "Calculate 402 − 157. Regroup if needed.",
+    "audio_prompt": "Calculate 402 − 157. Regroup if needed.",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "255",
+        "is_correct": false
+      },
+      {
+        "text": "245",
+        "is_correct": true
+      },
+      {
+        "text": "235",
+        "is_correct": false
+      },
+      {
+        "text": "247",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Rename 402 as 3 hundreds, 9 tens and 12 ones. Subtract 1 hundreds, 5 tens and 7 ones to leave 245. Check: 245 + 157 = 402.",
+      "hint": "Check your difference with addition."
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "AC9M3N03-P-035",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3N03",
+    "bank": "practice",
+    "skill": "add_compensation",
+    "question": "Which calculation keeps the value of 386 + 97?",
+    "audio_prompt": "Which calculation keeps the value of 386 + 97?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "386 + 100 − 3",
+        "is_correct": true
+      },
+      {
+        "text": "386 + 100 + 3",
+        "is_correct": false
+      },
+      {
+        "text": "386 − 100 + 3",
+        "is_correct": false
+      },
+      {
+        "text": "386 + 100",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "100 is 3 more than 97. Add it, then subtract the extra 3.",
+      "hint": "Undo the extra amount you added."
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "AC9M3N03-P-036",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3N03",
+    "bank": "practice",
+    "skill": "subtract_compensation",
+    "question": "To find 504 − 197, first subtract 200. What must you do next?",
+    "audio_prompt": "To find 504 − 197, first subtract 200. What must you do next?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "Subtract 3.",
+        "is_correct": false
+      },
+      {
+        "text": "Add 200.",
+        "is_correct": false
+      },
+      {
+        "text": "Make no adjustment.",
+        "is_correct": false
+      },
+      {
+        "text": "Add 3.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Subtracting 200 removes 3 too much. Add 3 back to get 307.",
+      "hint": "Did the first step remove too much or too little?"
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "AC9M3N03-P-037",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3N03",
+    "bank": "practice",
+    "skill": "regroup_ones",
+    "question": "In 486 + 347, the ones add to 13. After exchanging 10 ones for a ten, how many ones remain?",
+    "audio_prompt": "In 486 + 347, the ones add to 13. After exchanging 10 ones for a ten, how many ones remain?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "13",
+        "is_correct": false
+      },
+      {
+        "text": "4",
+        "is_correct": false
+      },
+      {
+        "text": "3",
+        "is_correct": true
+      },
+      {
+        "text": "2",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "6 + 7 = 13. This is 1 ten and 3 ones.",
+      "hint": "Separate one group of ten from the ones total."
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "AC9M3N03-P-038",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3N03",
+    "bank": "practice",
+    "skill": "rename_across_zero",
+    "question": "Which renaming of 600 lets you subtract 248 by place value?",
+    "audio_prompt": "Which renaming of 600 lets you subtract 248 by place value?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n03-reviewed.svg#ac9m3n03-p-038",
+      "alt_text": "Place-value chart for 600: 6 hundreds, 0 tens and 0 ones."
+    },
+    "answers": [
+      {
+        "text": "6 hundreds, 9 tens, 10 ones",
+        "is_correct": false
+      },
+      {
+        "text": "5 hundreds, 9 tens, 10 ones",
+        "is_correct": true
+      },
+      {
+        "text": "5 hundreds, 0 tens, 10 ones",
+        "is_correct": false
+      },
+      {
+        "text": "5 hundreds, 10 tens, 10 ones",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Exchange one hundred for 10 tens, then one of those tens for 10 ones. The total remains 600.",
+      "hint": "Every exchange must preserve the original number."
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "AC9M3N03-P-039",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3N03",
+    "bank": "practice",
+    "skill": "missing_partial_sum",
+    "question": "Finish this addition path: 418 + 200 = 618; then + 60 = ?; then + 3.",
+    "audio_prompt": "Finish this addition path: 418 + 200 = 618; then + 60 = ?; then + 3.",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "678",
+        "is_correct": true
+      },
+      {
+        "text": "681",
+        "is_correct": false
+      },
+      {
+        "text": "688",
+        "is_correct": false
+      },
+      {
+        "text": "618",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "618 + 60 = 678. The final ones step happens afterwards.",
+      "hint": "Find the value at the requested step, before adding ones."
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "AC9M3N03-P-040",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3N03",
+    "bank": "practice",
+    "skill": "missing_subtraction_step",
+    "question": "Subtract 286 from 635 in parts. After subtracting 200 and then 80, what number do you have before subtracting 6?",
+    "audio_prompt": "Subtract 286 from 635 in parts. After subtracting 200 and then 80, what number do you have before subtracting 6?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "349",
+        "is_correct": false
+      },
+      {
+        "text": "435",
+        "is_correct": false
+      },
+      {
+        "text": "365",
+        "is_correct": false
+      },
+      {
+        "text": "355",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "635 − 200 = 435; 435 − 80 = 355. There are still 6 ones to subtract.",
+      "hint": "Follow only the first two jumps."
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "AC9M3N03-P-041",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3N03",
+    "bank": "practice",
+    "skill": "rearrange_sum",
+    "question": "Move 1 from 164 to 399. Which easier sum equals 399 + 164?",
+    "audio_prompt": "Move 1 from 164 to 399. Which easier sum equals 399 + 164?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "400 + 165",
+        "is_correct": false
+      },
+      {
+        "text": "398 + 163",
+        "is_correct": false
+      },
+      {
+        "text": "400 + 163",
+        "is_correct": true
+      },
+      {
+        "text": "400 + 164",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "One addend grows by 1; the other shrinks by 1. The total stays 563.",
+      "hint": "Transfer the amount; do not add it twice."
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "AC9M3N03-P-042",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3N03",
+    "bank": "practice",
+    "skill": "constant_difference",
+    "question": "Add 2 to both numbers in 625 − 398. Which subtraction has the same answer?",
+    "audio_prompt": "Add 2 to both numbers in 625 − 398. Which subtraction has the same answer?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "623 − 400",
+        "is_correct": false
+      },
+      {
+        "text": "627 − 400",
+        "is_correct": true
+      },
+      {
+        "text": "627 − 396",
+        "is_correct": false
+      },
+      {
+        "text": "625 − 400",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Moving both numbers up by 2 keeps their distance unchanged: 227.",
+      "hint": "Equal changes to both numbers preserve a difference."
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "AC9M3N03-P-043",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3N03",
+    "bank": "practice",
+    "skill": "diagnose_addition",
+    "question": "A student calculates 475 + 186 = 651, forgetting the ten made by adding the ones. What is the correct total?",
+    "audio_prompt": "A student calculates 475 + 186 = 651, forgetting the ten made by adding the ones. What is the correct total?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "661",
+        "is_correct": true
+      },
+      {
+        "text": "651",
+        "is_correct": false
+      },
+      {
+        "text": "671",
+        "is_correct": false
+      },
+      {
+        "text": "660",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The ones make an extra ten. Include it in the tens total: 475 + 186 = 661.",
+      "hint": "A group of 10 ones belongs in the tens column."
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "AC9M3N03-P-044",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3N03",
+    "bank": "practice",
+    "skill": "missing_addend",
+    "question": "? + 285 = 613. What is the missing number?",
+    "audio_prompt": "? + 285 = 613. What is the missing number?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "898",
+        "is_correct": false
+      },
+      {
+        "text": "338",
+        "is_correct": false
+      },
+      {
+        "text": "318",
+        "is_correct": false
+      },
+      {
+        "text": "328",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "The missing part is 613 − 285 = 328. Adding it back gives 613.",
+      "hint": "Use the whole and known part to find the unknown part."
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "AC9M3N03-P-045",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3N03",
+    "bank": "practice",
+    "skill": "missing_subtrahend",
+    "question": "562 − ? = 238. How much was subtracted?",
+    "audio_prompt": "562 − ? = 238. How much was subtracted?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "800",
+        "is_correct": false
+      },
+      {
+        "text": "424",
+        "is_correct": false
+      },
+      {
+        "text": "324",
+        "is_correct": true
+      },
+      {
+        "text": "314",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The removed part is 562 − 238 = 324. Check 238 + 324 = 562.",
+      "hint": "Find the gap between the starting and ending values."
+    },
+    "difficulty": 3
+  },
+  {
+    "id": "AC9M3N03-P-046",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3N03",
+    "bank": "practice",
+    "skill": "combine_context",
+    "question": "The library has 389 books on one trolley and 246 on another. How many books are on the two trolleys altogether?",
+    "audio_prompt": "The library has 389 books on one trolley and 246 on another. How many books are on the two trolleys altogether?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "625",
+        "is_correct": false
+      },
+      {
+        "text": "635",
+        "is_correct": true
+      },
+      {
+        "text": "735",
+        "is_correct": false
+      },
+      {
+        "text": "143",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Combine the two quantities: 389 + 246 = 635.",
+      "hint": "Partition one quantity and add its parts."
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "AC9M3N03-P-047",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3N03",
+    "bank": "practice",
+    "skill": "difference_context",
+    "question": "A hall has 620 seats. 385 seats are occupied. How many seats are empty?",
+    "audio_prompt": "A hall has 620 seats. 385 seats are occupied. How many seats are empty?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "235",
+        "is_correct": true
+      },
+      {
+        "text": "245",
+        "is_correct": false
+      },
+      {
+        "text": "335",
+        "is_correct": false
+      },
+      {
+        "text": "1005",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Rename 620 as 5 hundreds, 11 tens and 10 ones. Subtract 3 hundreds, 8 tens and 5 ones to leave 235. Check: 235 + 385 = 620.",
+      "hint": "Regroup across an empty place if needed."
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "AC9M3N03-P-048",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3N03",
+    "bank": "practice",
+    "skill": "inverse_check",
+    "question": "Which addition checks that 537 − 286 = 251?",
+    "audio_prompt": "Which addition checks that 537 − 286 = 251?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "537 + 286 = 823",
+        "is_correct": false
+      },
+      {
+        "text": "251 + 537 = 788",
+        "is_correct": false
+      },
+      {
+        "text": "251 + 10 = 261",
+        "is_correct": false
+      },
+      {
+        "text": "251 + 286 = 537",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "The remaining part and removed part must rebuild the starting whole: 251 + 286 = 537.",
+      "hint": "Check that both parts recombine to the original number."
+    },
+    "difficulty": 2
+  },
+  {
+    "id": "AC9M3N03-T-001",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3N03",
+    "bank": "test",
+    "skill": "add_partition",
+    "question": "Work out 357 + 268 by splitting 268 into place-value parts.",
+    "audio_prompt": "Work out 357 + 268 by splitting 268 into place-value parts.",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "615",
+        "is_correct": false
+      },
+      {
+        "text": "635",
+        "is_correct": false
+      },
+      {
+        "text": "625",
+        "is_correct": true
+      },
+      {
+        "text": "624",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Split 268 into 200 + 60 + 8. Then 357 + 200 = 557; 557 + 60 = 617; 617 + 8 = 625.",
+      "hint": "Add hundreds, then tens, then ones."
+    },
+    "difficulty": 1
+  },
+  {
+    "id": "AC9M3N03-T-002",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3N03",
+    "bank": "test",
+    "skill": "subtract_regroup",
+    "question": "Calculate 610 − 284. Regroup if needed.",
+    "audio_prompt": "Calculate 610 − 284. Regroup if needed.",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "336",
+        "is_correct": false
+      },
+      {
+        "text": "326",
+        "is_correct": true
+      },
+      {
+        "text": "316",
+        "is_correct": false
+      },
+      {
+        "text": "328",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Rename 610 as 5 hundreds, 10 tens and 10 ones. Subtract 2 hundreds, 8 tens and 4 ones to leave 326. Check: 326 + 284 = 610.",
+      "hint": "Check your difference with addition."
+    },
+    "difficulty": 2
   },
   {
     "id": "AC9M3N03-T-003",
@@ -945,33 +1861,36 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3N03",
     "bank": "test",
-    "skill": "partition_addend",
-    "question": "With a cake, which partition helps calculate 449 + 86?",
-    "audio_prompt": "With a cake, which partition helps calculate 449 + 86?",
+    "skill": "add_compensation",
+    "question": "Which calculation keeps the value of 458 + 198?",
+    "audio_prompt": "Which calculation keeps the value of 458 + 198?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n03.svg#ac9m3n03-t-003",
-      "alt_text": "With a cake: 86 partitioned into tens and ones."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "449 + 6 + 6",
-        "is_correct": false
-      },
-      {
-        "text": "449 + 80 + 6",
+        "text": "458 + 200 − 2",
         "is_correct": true
       },
       {
-        "text": "449 + 860",
+        "text": "458 + 200 + 2",
+        "is_correct": false
+      },
+      {
+        "text": "458 − 200 + 2",
+        "is_correct": false
+      },
+      {
+        "text": "458 + 200",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Splitting 86 into tens and ones preserves its value.",
-      "hint": "Check that the parts recombine to 86."
-    }
+      "summary": "200 is 2 more than 198. Add it, then subtract the extra 2.",
+      "hint": "Undo the extra amount you added."
+    },
+    "difficulty": 2
   },
   {
     "id": "AC9M3N03-T-004",
@@ -979,33 +1898,36 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3N03",
     "bank": "test",
-    "skill": "check_subtraction_inverse",
-    "question": "With a cake, which addition checks 449 − 86 = 363?",
-    "audio_prompt": "With a cake, which addition checks 449 − 86 = 363?",
+    "skill": "subtract_compensation",
+    "question": "To find 732 − 298, first subtract 300. What must you do next?",
+    "audio_prompt": "To find 732 − 298, first subtract 300. What must you do next?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n03.svg#ac9m3n03-t-004",
-      "alt_text": "With a cake: A subtraction fact ready to check with addition."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "449 + 86 = 363",
+        "text": "Subtract 2.",
         "is_correct": false
       },
       {
-        "text": "363 − 86 = 449",
+        "text": "Add 300.",
         "is_correct": false
       },
       {
-        "text": "363 + 86 = 449",
+        "text": "Make no adjustment.",
+        "is_correct": false
+      },
+      {
+        "text": "Add 2.",
         "is_correct": true
       }
     ],
-    "correct_index": 2,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Addition reverses subtraction, so 363+86=449.",
-      "hint": "Use the answer and the amount subtracted."
-    }
+      "summary": "Subtracting 300 removes 2 too much. Add 2 back to get 434.",
+      "hint": "Did the first step remove too much or too little?"
+    },
+    "difficulty": 2
   },
   {
     "id": "AC9M3N03-T-005",
@@ -1013,33 +1935,36 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3N03",
     "bank": "test",
-    "skill": "estimate_sum",
-    "question": "With a cake, what is the best estimate for 449 + 86?",
-    "audio_prompt": "With a cake, what is the best estimate for 449 + 86?",
+    "skill": "regroup_ones",
+    "question": "In 579 + 286, the ones add to 15. After exchanging 10 ones for a ten, how many ones remain?",
+    "audio_prompt": "In 579 + 286, the ones add to 15. After exchanging 10 ones for a ten, how many ones remain?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n03.svg#ac9m3n03-t-005",
-      "alt_text": "With a cake: Both addends rounded to nearby tens."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "540",
+        "text": "15",
+        "is_correct": false
+      },
+      {
+        "text": "6",
+        "is_correct": false
+      },
+      {
+        "text": "5",
         "is_correct": true
       },
       {
-        "text": "400",
-        "is_correct": false
-      },
-      {
-        "text": "735",
+        "text": "4",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Rounding both numbers to nearby tens gives a sensible estimate.",
-      "hint": "Round each number before adding."
-    }
+      "summary": "9 + 6 = 15. This is 1 ten and 5 ones.",
+      "hint": "Separate one group of ten from the ones total."
+    },
+    "difficulty": 1
   },
   {
     "id": "AC9M3N03-T-006",
@@ -1047,33 +1972,38 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3N03",
     "bank": "test",
-    "skill": "use_compensation_addition",
-    "question": "With a cake, which strategy efficiently solves 450 + 99?",
-    "audio_prompt": "With a cake, which strategy efficiently solves 450 + 99?",
+    "skill": "rename_across_zero",
+    "question": "Which renaming of 704 lets you subtract 386 by place value?",
+    "audio_prompt": "Which renaming of 704 lets you subtract 386 by place value?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n03.svg#ac9m3n03-t-006",
-      "alt_text": "With a cake: An addition calculation using 99 near 100."
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n03-reviewed.svg#ac9m3n03-t-006",
+      "alt_text": "Place-value chart for 704: 7 hundreds, 0 tens and 4 ones."
     },
     "answers": [
       {
-        "text": "Add 90, then subtract 9",
+        "text": "7 hundreds, 9 tens, 14 ones",
         "is_correct": false
       },
       {
-        "text": "Add 100, then subtract 1",
+        "text": "6 hundreds, 9 tens, 14 ones",
         "is_correct": true
       },
       {
-        "text": "Subtract 100, then add 1",
+        "text": "6 hundreds, 0 tens, 14 ones",
+        "is_correct": false
+      },
+      {
+        "text": "6 hundreds, 10 tens, 14 ones",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "99 is 1 less than 100, so compensate after adding 100.",
-      "hint": "Use the friendly number 100."
-    }
+      "summary": "Exchange one hundred for 10 tens, then one of those tens for 10 ones. The total remains 704.",
+      "hint": "Every exchange must preserve the original number."
+    },
+    "difficulty": 3
   },
   {
     "id": "AC9M3N03-T-007",
@@ -1081,33 +2011,36 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3N03",
     "bank": "test",
-    "skill": "apply_addition_context",
-    "question": "With a cake, a library has 449 books and receives 86 more. How many books are there now?",
-    "audio_prompt": "With a cake, a library has 449 books and receives 86 more. How many books are there now?",
+    "skill": "missing_partial_sum",
+    "question": "Finish this addition path: 547 + 100 = 647; then + 80 = ?; then + 6.",
+    "audio_prompt": "Finish this addition path: 547 + 100 = 647; then + 80 = ?; then + 6.",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n03.svg#ac9m3n03-t-007",
-      "alt_text": "With a cake: Two book groups containing 449 and 86 books."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "363",
-        "is_correct": false
-      },
-      {
-        "text": "545",
-        "is_correct": false
-      },
-      {
-        "text": "535",
+        "text": "727",
         "is_correct": true
+      },
+      {
+        "text": "733",
+        "is_correct": false
+      },
+      {
+        "text": "737",
+        "is_correct": false
+      },
+      {
+        "text": "647",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Receiving more books means add: 449+86=535.",
-      "hint": "Decide whether the amount grows or decreases."
-    }
+      "summary": "647 + 80 = 727. The final ones step happens afterwards.",
+      "hint": "Find the value at the requested step, before adding ones."
+    },
+    "difficulty": 2
   },
   {
     "id": "AC9M3N03-T-008",
@@ -1115,33 +2048,36 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3N03",
     "bank": "test",
-    "skill": "check_calculation_reasonableness",
-    "question": "With a cake, sam says 449 − 86 = 535. What shows the answer is unreasonable?",
-    "audio_prompt": "With a cake, sam says 449 − 86 = 535. What shows the answer is unreasonable?",
+    "skill": "missing_subtraction_step",
+    "question": "Subtract 354 from 821 in parts. After subtracting 300 and then 50, what number do you have before subtracting 4?",
+    "audio_prompt": "Subtract 354 from 821 in parts. After subtracting 300 and then 50, what number do you have before subtracting 4?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n03.svg#ac9m3n03-t-008",
-      "alt_text": "With a cake: A subtraction calculation beside an incorrectly larger answer."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "Subtraction should make the starting number smaller",
+        "text": "467",
+        "is_correct": false
+      },
+      {
+        "text": "521",
+        "is_correct": false
+      },
+      {
+        "text": "481",
+        "is_correct": false
+      },
+      {
+        "text": "471",
         "is_correct": true
-      },
-      {
-        "text": "Every answer must be even",
-        "is_correct": false
-      },
-      {
-        "text": "Subtraction always makes zero",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 3,
     "explanation": {
-      "summary": "449−86 must be less than 449; the correct result is 363.",
-      "hint": "Compare the result with the starting number."
-    }
+      "summary": "821 − 300 = 521; 521 − 50 = 471. There are still 4 ones to subtract.",
+      "hint": "Follow only the first two jumps."
+    },
+    "difficulty": 2
   },
   {
     "id": "AC9M3N03-T-009",
@@ -1149,33 +2085,36 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3N03",
     "bank": "test",
-    "skill": "add_three_digit_numbers",
-    "question": "With a pancake, what is 520 + 99?",
-    "audio_prompt": "With a pancake, what is 520 + 99?",
+    "skill": "rearrange_sum",
+    "question": "Move 4 from 237 to 496. Which easier sum equals 496 + 237?",
+    "audio_prompt": "Move 4 from 237 to 496. Which easier sum equals 496 + 237?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n03.svg#ac9m3n03-t-009",
-      "alt_text": "With a pancake: 520 plus 99 shown for calculation."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "609",
+        "text": "500 + 241",
         "is_correct": false
       },
       {
-        "text": "619",
+        "text": "492 + 233",
+        "is_correct": false
+      },
+      {
+        "text": "500 + 233",
         "is_correct": true
       },
       {
-        "text": "719",
+        "text": "500 + 237",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "520+99=619.",
-      "hint": "Partition 99 into tens and ones."
-    }
+      "summary": "One addend grows by 4; the other shrinks by 4. The total stays 733.",
+      "hint": "Transfer the amount; do not add it twice."
+    },
+    "difficulty": 3
   },
   {
     "id": "AC9M3N03-T-010",
@@ -1183,33 +2122,36 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3N03",
     "bank": "test",
-    "skill": "subtract_three_digit_numbers",
-    "question": "With a pancake, what is 520 − 99?",
-    "audio_prompt": "With a pancake, what is 520 − 99?",
+    "skill": "constant_difference",
+    "question": "Add 4 to both numbers in 743 − 496. Which subtraction has the same answer?",
+    "audio_prompt": "Add 4 to both numbers in 743 − 496. Which subtraction has the same answer?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n03.svg#ac9m3n03-t-010",
-      "alt_text": "With a pancake: 520 minus 99 shown for calculation."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "431",
+        "text": "739 − 500",
         "is_correct": false
       },
       {
-        "text": "420",
-        "is_correct": false
-      },
-      {
-        "text": "421",
+        "text": "747 − 500",
         "is_correct": true
+      },
+      {
+        "text": "747 − 492",
+        "is_correct": false
+      },
+      {
+        "text": "743 − 500",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "520−99=421.",
-      "hint": "Subtract tens, then ones, regrouping if needed."
-    }
+      "summary": "Moving both numbers up by 4 keeps their distance unchanged: 247.",
+      "hint": "Equal changes to both numbers preserve a difference."
+    },
+    "difficulty": 3
   },
   {
     "id": "AC9M3N03-T-011",
@@ -1217,33 +2159,36 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3N03",
     "bank": "test",
-    "skill": "partition_addend",
-    "question": "With a pancake, which partition helps calculate 520 + 99?",
-    "audio_prompt": "With a pancake, which partition helps calculate 520 + 99?",
+    "skill": "diagnose_addition",
+    "question": "A student calculates 687 + 158 = 835, forgetting the ten made by adding the ones. What is the correct total?",
+    "audio_prompt": "A student calculates 687 + 158 = 835, forgetting the ten made by adding the ones. What is the correct total?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n03.svg#ac9m3n03-t-011",
-      "alt_text": "With a pancake: 99 partitioned into tens and ones."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "520 + 90 + 9",
+        "text": "845",
         "is_correct": true
       },
       {
-        "text": "520 + 9 + 9",
+        "text": "835",
         "is_correct": false
       },
       {
-        "text": "520 + 990",
+        "text": "855",
+        "is_correct": false
+      },
+      {
+        "text": "844",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Splitting 99 into tens and ones preserves its value.",
-      "hint": "Check that the parts recombine to 99."
-    }
+      "summary": "The ones make an extra ten. Include it in the tens total: 687 + 158 = 845.",
+      "hint": "A group of 10 ones belongs in the tens column."
+    },
+    "difficulty": 2
   },
   {
     "id": "AC9M3N03-T-012",
@@ -1251,33 +2196,36 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3N03",
     "bank": "test",
-    "skill": "check_subtraction_inverse",
-    "question": "With a pancake, which addition checks 520 − 99 = 421?",
-    "audio_prompt": "With a pancake, which addition checks 520 − 99 = 421?",
+    "skill": "missing_addend",
+    "question": "? + 368 = 741. What is the missing number?",
+    "audio_prompt": "? + 368 = 741. What is the missing number?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n03.svg#ac9m3n03-t-012",
-      "alt_text": "With a pancake: A subtraction fact ready to check with addition."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "520 + 99 = 421",
+        "text": "1109",
         "is_correct": false
       },
       {
-        "text": "421 + 99 = 520",
+        "text": "383",
+        "is_correct": false
+      },
+      {
+        "text": "363",
+        "is_correct": false
+      },
+      {
+        "text": "373",
         "is_correct": true
-      },
-      {
-        "text": "421 − 99 = 520",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Addition reverses subtraction, so 421+99=520.",
-      "hint": "Use the answer and the amount subtracted."
-    }
+      "summary": "The missing part is 741 − 368 = 373. Adding it back gives 741.",
+      "hint": "Use the whole and known part to find the unknown part."
+    },
+    "difficulty": 2
   },
   {
     "id": "AC9M3N03-T-013",
@@ -1285,33 +2233,36 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3N03",
     "bank": "test",
-    "skill": "estimate_sum",
-    "question": "With a pancake, what is the best estimate for 520 + 99?",
-    "audio_prompt": "With a pancake, what is the best estimate for 520 + 99?",
+    "skill": "missing_subtrahend",
+    "question": "704 − ? = 359. How much was subtracted?",
+    "audio_prompt": "704 − ? = 359. How much was subtracted?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n03.svg#ac9m3n03-t-013",
-      "alt_text": "With a pancake: Both addends rounded to nearby tens."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "500",
+        "text": "1063",
         "is_correct": false
       },
       {
-        "text": "819",
+        "text": "445",
         "is_correct": false
       },
       {
-        "text": "620",
+        "text": "345",
         "is_correct": true
+      },
+      {
+        "text": "335",
+        "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Rounding both numbers to nearby tens gives a sensible estimate.",
-      "hint": "Round each number before adding."
-    }
+      "summary": "The removed part is 704 − 359 = 345. Check 359 + 345 = 704.",
+      "hint": "Find the gap between the starting and ending values."
+    },
+    "difficulty": 3
   },
   {
     "id": "AC9M3N03-T-014",
@@ -1319,33 +2270,36 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3N03",
     "bank": "test",
-    "skill": "use_compensation_addition",
-    "question": "With a pancake, which strategy efficiently solves 521 + 99?",
-    "audio_prompt": "With a pancake, which strategy efficiently solves 521 + 99?",
+    "skill": "combine_context",
+    "question": "The library has 467 books on one trolley and 285 on another. How many books are on the two trolleys altogether?",
+    "audio_prompt": "The library has 467 books on one trolley and 285 on another. How many books are on the two trolleys altogether?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n03.svg#ac9m3n03-t-014",
-      "alt_text": "With a pancake: An addition calculation using 99 near 100."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "Add 100, then subtract 1",
+        "text": "742",
+        "is_correct": false
+      },
+      {
+        "text": "752",
         "is_correct": true
       },
       {
-        "text": "Add 90, then subtract 9",
+        "text": "852",
         "is_correct": false
       },
       {
-        "text": "Subtract 100, then add 1",
+        "text": "182",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "99 is 1 less than 100, so compensate after adding 100.",
-      "hint": "Use the friendly number 100."
-    }
+      "summary": "Combine the two quantities: 467 + 285 = 752.",
+      "hint": "Partition one quantity and add its parts."
+    },
+    "difficulty": 2
   },
   {
     "id": "AC9M3N03-T-015",
@@ -1353,33 +2307,36 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3N03",
     "bank": "test",
-    "skill": "apply_addition_context",
-    "question": "With a pancake, a library has 520 books and receives 99 more. How many books are there now?",
-    "audio_prompt": "With a pancake, a library has 520 books and receives 99 more. How many books are there now?",
+    "skill": "difference_context",
+    "question": "A hall has 803 seats. 456 seats are occupied. How many seats are empty?",
+    "audio_prompt": "A hall has 803 seats. 456 seats are occupied. How many seats are empty?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n03.svg#ac9m3n03-t-015",
-      "alt_text": "With a pancake: Two book groups containing 520 and 99 books."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "421",
-        "is_correct": false
-      },
-      {
-        "text": "619",
+        "text": "347",
         "is_correct": true
       },
       {
-        "text": "629",
+        "text": "357",
+        "is_correct": false
+      },
+      {
+        "text": "447",
+        "is_correct": false
+      },
+      {
+        "text": "1259",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Receiving more books means add: 520+99=619.",
-      "hint": "Decide whether the amount grows or decreases."
-    }
+      "summary": "Rename 803 as 7 hundreds, 9 tens and 13 ones. Subtract 4 hundreds, 5 tens and 6 ones to leave 347. Check: 347 + 456 = 803.",
+      "hint": "Regroup across an empty place if needed."
+    },
+    "difficulty": 2
   },
   {
     "id": "AC9M3N03-T-016",
@@ -1387,32 +2344,35 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3N03",
     "bank": "test",
-    "skill": "check_calculation_reasonableness",
-    "question": "With a pancake, sam says 520 − 99 = 619. What shows the answer is unreasonable?",
-    "audio_prompt": "With a pancake, sam says 520 − 99 = 619. What shows the answer is unreasonable?",
+    "skill": "inverse_check",
+    "question": "Which addition checks that 724 − 458 = 266?",
+    "audio_prompt": "Which addition checks that 724 − 458 = 266?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n03.svg#ac9m3n03-t-016",
-      "alt_text": "With a pancake: A subtraction calculation beside an incorrectly larger answer."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "Every answer must be even",
+        "text": "724 + 458 = 1182",
         "is_correct": false
       },
       {
-        "text": "Subtraction always makes zero",
+        "text": "266 + 724 = 990",
         "is_correct": false
       },
       {
-        "text": "Subtraction should make the starting number smaller",
+        "text": "266 + 10 = 276",
+        "is_correct": false
+      },
+      {
+        "text": "266 + 458 = 724",
         "is_correct": true
       }
     ],
-    "correct_index": 2,
+    "correct_index": 3,
     "explanation": {
-      "summary": "520−99 must be less than 520; the correct result is 421.",
-      "hint": "Compare the result with the starting number."
-    }
+      "summary": "The remaining part and removed part must rebuild the starting whole: 266 + 458 = 724.",
+      "hint": "Check that both parts recombine to the original number."
+    },
+    "difficulty": 2
   }
 ]

@@ -4,28 +4,30 @@ window.skillrTestQuestions = [
     "id": "ac9m3n02-t-001",
     "curriculumCode": "AC9M3N02",
     "bank": "test",
-    "skill": "fractions",
+    "skill": "unit area",
     "printable": true,
     "type": "single",
-    "question": "At the number table, one whole is split into 5 equal parts. What is one part called?",
-    "audioPrompt": "At the number table, one whole is split into 5 equal parts. What is one part called?",
-    "visual": "At the number table: One whole divided into 5 equal parts with 1 shaded.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the number table: One whole divided into 5 equal parts with 1 shaded.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3n02.svg#ac9m3n02-t-001\"></use></svg>",
+    "question": "The strip is split into 10 equal parts. What fraction is blue?",
+    "audioPrompt": "The strip is split into 10 equal parts. What fraction is blue?",
+    "visual": "A strip divided into 10 equal parts with one blue.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A strip divided into 10 equal parts with one blue.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3n02-reviewed.svg#ac9m3n02-t-001\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n02.svg#ac9m3n02-t-001",
-      "alt_text": "At the number table: One whole divided into 5 equal parts with 1 shaded."
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n02-reviewed.svg#ac9m3n02-t-001",
+      "alt_text": "A strip divided into 10 equal parts with one blue."
     },
     "answers": [
-      "5/1",
-      "1/5",
-      "1/6"
+      "10/1",
+      "1/10",
+      "1/11",
+      "1/12"
     ],
+    "difficulty": 1,
     "correct": 1,
-    "explanation": "One of 5 equal parts is 1/5.\nHint: The denominator counts equal parts in the whole.",
+    "explanation": "One of 10 equal parts is blue, so it is 1/10.\nHint: Count all equal parts before counting the blue part.",
     "structuredExplanation": {
-      "summary": "One of 5 equal parts is 1/5.",
-      "hint": "The denominator counts equal parts in the whole."
+      "summary": "One of 10 equal parts is blue, so it is 1/10.",
+      "hint": "Count all equal parts before counting the blue part."
     },
     "qualitySchema": "production-v1"
   },
@@ -33,28 +35,30 @@ window.skillrTestQuestions = [
     "id": "ac9m3n02-t-002",
     "curriculumCode": "AC9M3N02",
     "bank": "test",
-    "skill": "fractions",
+    "skill": "multiple area",
     "printable": true,
     "type": "single",
-    "question": "At the number table, which fraction describes 1 of 5 equal parts shaded?",
-    "audioPrompt": "At the number table, which fraction describes 1 of 5 equal parts shaded?",
-    "visual": "At the number table: One whole divided into 5 equal parts with 1 shaded.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the number table: One whole divided into 5 equal parts with 1 shaded.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3n02.svg#ac9m3n02-t-002\"></use></svg>",
+    "question": "What fraction of this 10-part strip is blue?",
+    "audioPrompt": "What fraction of this 10-part strip is blue?",
+    "visual": "7 blue parts in a strip of 10 equal parts.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"7 blue parts in a strip of 10 equal parts.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3n02-reviewed.svg#ac9m3n02-t-002\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n02.svg#ac9m3n02-t-002",
-      "alt_text": "At the number table: One whole divided into 5 equal parts with 1 shaded."
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n02-reviewed.svg#ac9m3n02-t-002",
+      "alt_text": "7 blue parts in a strip of 10 equal parts."
     },
     "answers": [
-      "5/1",
-      "1/6",
-      "1/5"
+      "7/10",
+      "10/7",
+      "7/11",
+      "8/10"
     ],
-    "correct": 2,
-    "explanation": "1 selected parts out of 5 equal parts is 1/5.\nHint: Count shaded parts, then all equal parts.",
+    "difficulty": 1,
+    "correct": 0,
+    "explanation": "There are 10 equal parts and 7 are blue: 7/10.\nHint: The denominator describes the whole strip.",
     "structuredExplanation": {
-      "summary": "1 selected parts out of 5 equal parts is 1/5.",
-      "hint": "Count shaded parts, then all equal parts."
+      "summary": "There are 10 equal parts and 7 are blue: 7/10.",
+      "hint": "The denominator describes the whole strip."
     },
     "qualitySchema": "production-v1"
   },
@@ -62,28 +66,30 @@ window.skillrTestQuestions = [
     "id": "ac9m3n02-t-003",
     "curriculumCode": "AC9M3N02",
     "bank": "test",
-    "skill": "fractions",
+    "skill": "number line",
     "printable": true,
     "type": "single",
-    "question": "At the number table, how many fifths make one whole?",
-    "audioPrompt": "At the number table, how many fifths make one whole?",
-    "visual": "At the number table: One whole divided into 5 equal parts with 5 shaded.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the number table: One whole divided into 5 equal parts with 5 shaded.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3n02.svg#ac9m3n02-t-003\"></use></svg>",
+    "question": "The intervals between 0 and 1 are equal. Which fraction is at P on this 3-interval line?",
+    "audioPrompt": "The intervals between 0 and 1 are equal. Which fraction is at P on this 3-interval line?",
+    "visual": "0 to 1 divided into 3 equal intervals; P is 2 intervals from 0.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"0 to 1 divided into 3 equal intervals; P is 2 intervals from 0.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3n02-reviewed.svg#ac9m3n02-t-003\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n02.svg#ac9m3n02-t-003",
-      "alt_text": "At the number table: One whole divided into 5 equal parts with 5 shaded."
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n02-reviewed.svg#ac9m3n02-t-003",
+      "alt_text": "0 to 1 divided into 3 equal intervals; P is 2 intervals from 0."
     },
     "answers": [
-      "5",
-      "4",
-      "6"
+      "3/3",
+      "2/4",
+      "3/2",
+      "2/3"
     ],
-    "correct": 0,
-    "explanation": "5/5 is one whole.\nHint: The denominator tells how many equal parts complete the whole.",
+    "difficulty": 2,
+    "correct": 3,
+    "explanation": "The whole has 3 intervals. P is 2 intervals from zero, so P is 2/3.\nHint: Count spaces, not tick marks.",
     "structuredExplanation": {
-      "summary": "5/5 is one whole.",
-      "hint": "The denominator tells how many equal parts complete the whole."
+      "summary": "The whole has 3 intervals. P is 2 intervals from zero, so P is 2/3.",
+      "hint": "Count spaces, not tick marks."
     },
     "qualitySchema": "production-v1"
   },
@@ -91,28 +97,28 @@ window.skillrTestQuestions = [
     "id": "ac9m3n02-t-004",
     "curriculumCode": "AC9M3N02",
     "bank": "test",
-    "skill": "fractions",
+    "skill": "unit collection",
     "printable": true,
     "type": "single",
-    "question": "At the number table, what completes 1/5 to make one whole?",
-    "audioPrompt": "At the number table, what completes 1/5 to make one whole?",
-    "visual": "At the number table: One whole divided into 5 equal parts with 1 shaded.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the number table: One whole divided into 5 equal parts with 1 shaded.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3n02.svg#ac9m3n02-t-004\"></use></svg>",
+    "question": "20 counters are shared equally into 10 groups. How many counters are in 1/10 of the collection?",
+    "audioPrompt": "20 counters are shared equally into 10 groups. How many counters are in 1/10 of the collection?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n02.svg#ac9m3n02-t-004",
-      "alt_text": "At the number table: One whole divided into 5 equal parts with 1 shaded."
+      "type": "none"
     },
     "answers": [
-      "5/5",
-      "4/5",
-      "4/6"
+      "20",
+      "4",
+      "2",
+      "3"
     ],
-    "correct": 1,
-    "explanation": "1/5 + 4/5 = 5/5, or one whole.\nHint: Count the unshaded equal parts.",
+    "difficulty": 2,
+    "correct": 2,
+    "explanation": "20 ÷ 10 = 2. One equal group is 1/10 of the collection.\nHint: Divide the total by the denominator.",
     "structuredExplanation": {
-      "summary": "1/5 + 4/5 = 5/5, or one whole.",
-      "hint": "Count the unshaded equal parts."
+      "summary": "20 ÷ 10 = 2. One equal group is 1/10 of the collection.",
+      "hint": "Divide the total by the denominator."
     },
     "qualitySchema": "production-v1"
   },
@@ -120,28 +126,28 @@ window.skillrTestQuestions = [
     "id": "ac9m3n02-t-005",
     "curriculumCode": "AC9M3N02",
     "bank": "test",
-    "skill": "fractions",
+    "skill": "multiple collection",
     "printable": true,
     "type": "single",
-    "question": "At the number table, which statement about 1/5 is correct?",
-    "audioPrompt": "At the number table, which statement about 1/5 is correct?",
-    "visual": "At the number table: One whole divided into 5 equal parts with 1 shaded.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the number table: One whole divided into 5 equal parts with 1 shaded.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3n02.svg#ac9m3n02-t-005\"></use></svg>",
+    "question": "A tray has 15 seedlings. A gardener plants 2/3 of them. How many seedlings are planted?",
+    "audioPrompt": "A tray has 15 seedlings. A gardener plants 2/3 of them. How many seedlings are planted?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n02.svg#ac9m3n02-t-005",
-      "alt_text": "At the number table: One whole divided into 5 equal parts with 1 shaded."
+      "type": "none"
     },
     "answers": [
-      "5 of 1 parts are selected",
-      "1 unequal parts are selected",
-      "1 of 5 equal parts are selected"
+      "5",
+      "10",
+      "13",
+      "2"
     ],
-    "correct": 2,
-    "explanation": "A fraction names selected equal parts of one whole.\nHint: The numerator is selected parts; the denominator is all equal parts.",
+    "difficulty": 3,
+    "correct": 1,
+    "explanation": "One 3th is 15 ÷ 3 = 5 seedlings. 2 such groups contain 2 × 5 = 10.\nHint: Find one fractional group, then count the required groups.",
     "structuredExplanation": {
-      "summary": "A fraction names selected equal parts of one whole.",
-      "hint": "The numerator is selected parts; the denominator is all equal parts."
+      "summary": "One 3th is 15 ÷ 3 = 5 seedlings. 2 such groups contain 2 × 5 = 10.",
+      "hint": "Find one fractional group, then count the required groups."
     },
     "qualitySchema": "production-v1"
   },
@@ -149,28 +155,30 @@ window.skillrTestQuestions = [
     "id": "ac9m3n02-t-006",
     "curriculumCode": "AC9M3N02",
     "bank": "test",
-    "skill": "equal fraction parts",
+    "skill": "complete whole",
     "printable": true,
     "type": "single",
-    "question": "At the number table, can 5 different-sized pieces be called equal fraction parts?",
-    "audioPrompt": "At the number table, can 5 different-sized pieces be called equal fraction parts?",
-    "visual": "At the number table: 5 visibly unequal pieces of one whole.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the number table: 5 visibly unequal pieces of one whole.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3n02.svg#ac9m3n02-t-006\"></use></svg>",
+    "question": "A ribbon is 7/10 blue. The rest will be yellow. What fraction must be yellow?",
+    "audioPrompt": "A ribbon is 7/10 blue. The rest will be yellow. What fraction must be yellow?",
+    "visual": "7 of 10 equal ribbon sections are blue; the rest are white.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"7 of 10 equal ribbon sections are blue; the rest are white.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3n02-reviewed.svg#ac9m3n02-t-006\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n02.svg#ac9m3n02-t-006",
-      "alt_text": "At the number table: 5 visibly unequal pieces of one whole."
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n02-reviewed.svg#ac9m3n02-t-006",
+      "alt_text": "7 of 10 equal ribbon sections are blue; the rest are white."
     },
     "answers": [
-      "No, the pieces must be equal",
-      "Yes, only the number of pieces matters",
-      "Yes, if one piece is very large"
+      "3/10",
+      "7/10",
+      "3/11",
+      "10/3"
     ],
+    "difficulty": 2,
     "correct": 0,
-    "explanation": "Fraction parts of one whole must be equal in size.\nHint: Compare the sizes, not only the count.",
+    "explanation": "A whole is 10/10. There are 3 of its 10 equal parts left.\nHint: Keep the same denominator when finding the missing parts.",
     "structuredExplanation": {
-      "summary": "Fraction parts of one whole must be equal in size.",
-      "hint": "Compare the sizes, not only the count."
+      "summary": "A whole is 10/10. There are 3 of its 10 equal parts left.",
+      "hint": "Keep the same denominator when finding the missing parts."
     },
     "qualitySchema": "production-v1"
   },
@@ -178,28 +186,28 @@ window.skillrTestQuestions = [
     "id": "ac9m3n02-t-007",
     "curriculumCode": "AC9M3N02",
     "bank": "test",
-    "skill": "fractions",
+    "skill": "unit iteration",
     "printable": true,
     "type": "single",
-    "question": "At the number table, which sum makes one whole?",
-    "audioPrompt": "At the number table, which sum makes one whole?",
-    "visual": "At the number table: One whole divided into 5 equal parts with 5 shaded.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the number table: One whole divided into 5 equal parts with 5 shaded.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3n02.svg#ac9m3n02-t-007\"></use></svg>",
+    "question": "How many pieces of length 1/3 metre join to make exactly 1 metre?",
+    "audioPrompt": "How many pieces of length 1/3 metre join to make exactly 1 metre?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n02.svg#ac9m3n02-t-007",
-      "alt_text": "At the number table: One whole divided into 5 equal parts with 5 shaded."
+      "type": "none"
     },
     "answers": [
-      "1/5 + 4/6",
-      "1/5 + 4/5",
-      "1/5 + 5/5"
+      "2",
+      "4",
+      "1",
+      "3"
     ],
-    "correct": 1,
-    "explanation": "The numerators total 5 while the equal parts keep denominator 5.\nHint: Use parts of the same size and count until you have 5.",
+    "difficulty": 1,
+    "correct": 3,
+    "explanation": "3 copies of 1/3 make 3/3, which is one whole.\nHint: The denominator tells how many equal pieces make a whole.",
     "structuredExplanation": {
-      "summary": "The numerators total 5 while the equal parts keep denominator 5.",
-      "hint": "Use parts of the same size and count until you have 5."
+      "summary": "3 copies of 1/3 make 3/3, which is one whole.",
+      "hint": "The denominator tells how many equal pieces make a whole."
     },
     "qualitySchema": "production-v1"
   },
@@ -207,28 +215,28 @@ window.skillrTestQuestions = [
     "id": "ac9m3n02-t-008",
     "curriculumCode": "AC9M3N02",
     "bank": "test",
-    "skill": "fractions",
+    "skill": "fraction language",
     "printable": true,
     "type": "single",
-    "question": "At the number table, a student writes 1/5 + 4/5 = 5/10. What is the mistake?",
-    "audioPrompt": "At the number table, a student writes 1/5 + 4/5 = 5/10. What is the mistake?",
-    "visual": "At the number table: One whole divided into 5 equal parts with 5 shaded.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the number table: One whole divided into 5 equal parts with 5 shaded.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3n02.svg#ac9m3n02-t-008\"></use></svg>",
+    "question": "Which fraction means two thirds?",
+    "audioPrompt": "Which fraction means two thirds?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n02.svg#ac9m3n02-t-008",
-      "alt_text": "At the number table: One whole divided into 5 equal parts with 5 shaded."
+      "type": "none"
     },
     "answers": [
-      "The numerator should stay 1",
-      "Fractions cannot make a whole",
-      "The denominator should stay 5"
+      "3/2",
+      "1/3",
+      "2/3",
+      "2/5"
     ],
+    "difficulty": 1,
     "correct": 2,
-    "explanation": "When equal-sized parts are combined, count the parts and keep their size: 5/5=1.\nHint: Do not add denominators when the parts have the same denominator.",
+    "explanation": "The first number counts the parts; the fraction name tells the number of equal parts in one whole.\nHint: Say the numerator first and the name of the parts second.",
     "structuredExplanation": {
-      "summary": "When equal-sized parts are combined, count the parts and keep their size: 5/5=1.",
-      "hint": "Do not add denominators when the parts have the same denominator."
+      "summary": "The first number counts the parts; the fraction name tells the number of equal parts in one whole.",
+      "hint": "Say the numerator first and the name of the parts second."
     },
     "qualitySchema": "production-v1"
   },
@@ -236,28 +244,28 @@ window.skillrTestQuestions = [
     "id": "ac9m3n02-t-009",
     "curriculumCode": "AC9M3N02",
     "bank": "test",
-    "skill": "fractions",
+    "skill": "equal parts reason",
     "printable": true,
     "type": "single",
-    "question": "During the regrouping challenge, one whole is split into 10 equal parts. What is one part called?",
-    "audioPrompt": "During the regrouping challenge, one whole is split into 10 equal parts. What is one part called?",
-    "visual": "During the regrouping challenge: One whole divided into 10 equal parts with 1 shaded.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During the regrouping challenge: One whole divided into 10 equal parts with 1 shaded.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3n02.svg#ac9m3n02-t-009\"></use></svg>",
+    "question": "A student cuts a sheet into 10 unequal pieces and labels each piece 1/10. What needs correcting?",
+    "audioPrompt": "A student cuts a sheet into 10 unequal pieces and labels each piece 1/10. What needs correcting?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n02.svg#ac9m3n02-t-009",
-      "alt_text": "During the regrouping challenge: One whole divided into 10 equal parts with 1 shaded."
+      "type": "none"
     },
     "answers": [
-      "1/10",
-      "10/1",
-      "1/11"
+      "Each piece must be labelled 10/1.",
+      "The pieces must have equal areas.",
+      "Only the number of pieces matters.",
+      "All pieces must be circles."
     ],
-    "correct": 0,
-    "explanation": "One of 10 equal parts is 1/10.\nHint: The denominator counts equal parts in the whole.",
+    "difficulty": 2,
+    "correct": 1,
+    "explanation": "To name each piece 1/10, the whole must be divided into 10 equal areas. The shape of each piece need not be identical.\nHint: A fraction describes equal shares, not just a count of pieces.",
     "structuredExplanation": {
-      "summary": "One of 10 equal parts is 1/10.",
-      "hint": "The denominator counts equal parts in the whole."
+      "summary": "To name each piece 1/10, the whole must be divided into 10 equal areas. The shape of each piece need not be identical.",
+      "hint": "A fraction describes equal shares, not just a count of pieces."
     },
     "qualitySchema": "production-v1"
   },
@@ -265,28 +273,30 @@ window.skillrTestQuestions = [
     "id": "ac9m3n02-t-010",
     "curriculumCode": "AC9M3N02",
     "bank": "test",
-    "skill": "fractions",
+    "skill": "combine three parts",
     "printable": true,
     "type": "single",
-    "question": "During the regrouping challenge, which fraction describes 2 of 10 equal parts shaded?",
-    "audioPrompt": "During the regrouping challenge, which fraction describes 2 of 10 equal parts shaded?",
-    "visual": "During the regrouping challenge: One whole divided into 10 equal parts with 2 shaded.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During the regrouping challenge: One whole divided into 10 equal parts with 2 shaded.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3n02.svg#ac9m3n02-t-010\"></use></svg>",
+    "question": "A whole strip has 10 equal parts. 4/10 is blue and 1/10 is yellow. What fraction is still white?",
+    "audioPrompt": "A whole strip has 10 equal parts. 4/10 is blue and 1/10 is yellow. What fraction is still white?",
+    "visual": "10 equal parts: 4 blue, one yellow and 5 white.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"10 equal parts: 4 blue, one yellow and 5 white.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3n02-reviewed.svg#ac9m3n02-t-010\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n02.svg#ac9m3n02-t-010",
-      "alt_text": "During the regrouping challenge: One whole divided into 10 equal parts with 2 shaded."
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n02-reviewed.svg#ac9m3n02-t-010",
+      "alt_text": "10 equal parts: 4 blue, one yellow and 5 white."
     },
     "answers": [
-      "10/2",
-      "2/10",
-      "2/11"
+      "5/10",
+      "5/11",
+      "6/10",
+      "10/5"
     ],
-    "correct": 1,
-    "explanation": "2 selected parts out of 10 equal parts is 2/10.\nHint: Count shaded parts, then all equal parts.",
+    "difficulty": 3,
+    "correct": 0,
+    "explanation": "4 + 1 = 5 parts are coloured. 10 − 5 = 5 parts remain, so 5/10 is white.\nHint: Combine the coloured parts, then complete the whole.",
     "structuredExplanation": {
-      "summary": "2 selected parts out of 10 equal parts is 2/10.",
-      "hint": "Count shaded parts, then all equal parts."
+      "summary": "4 + 1 = 5 parts are coloured. 10 − 5 = 5 parts remain, so 5/10 is white.",
+      "hint": "Combine the coloured parts, then complete the whole."
     },
     "qualitySchema": "production-v1"
   },
@@ -294,28 +304,28 @@ window.skillrTestQuestions = [
     "id": "ac9m3n02-t-011",
     "curriculumCode": "AC9M3N02",
     "bank": "test",
-    "skill": "fractions",
+    "skill": "reconstruct whole",
     "printable": true,
     "type": "single",
-    "question": "During the regrouping challenge, how many tenths make one whole?",
-    "audioPrompt": "During the regrouping challenge, how many tenths make one whole?",
-    "visual": "During the regrouping challenge: One whole divided into 10 equal parts with 10 shaded.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During the regrouping challenge: One whole divided into 10 equal parts with 10 shaded.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3n02.svg#ac9m3n02-t-011\"></use></svg>",
+    "question": "8 equal pieces together make 8/10 of a paper strip. How many of these pieces make the entire strip?",
+    "audioPrompt": "8 equal pieces together make 8/10 of a paper strip. How many of these pieces make the entire strip?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n02.svg#ac9m3n02-t-011",
-      "alt_text": "During the regrouping challenge: One whole divided into 10 equal parts with 10 shaded."
+      "type": "none"
     },
     "answers": [
-      "9",
+      "8",
+      "18",
       "11",
       "10"
     ],
-    "correct": 2,
-    "explanation": "10/10 is one whole.\nHint: The denominator tells how many equal parts complete the whole.",
+    "difficulty": 2,
+    "correct": 3,
+    "explanation": "Each piece is 1/10, so the full strip needs 10 pieces.\nHint: Use the size of one piece, not only how many are shown.",
     "structuredExplanation": {
-      "summary": "10/10 is one whole.",
-      "hint": "The denominator tells how many equal parts complete the whole."
+      "summary": "Each piece is 1/10, so the full strip needs 10 pieces.",
+      "hint": "Use the size of one piece, not only how many are shown."
     },
     "qualitySchema": "production-v1"
   },
@@ -323,28 +333,28 @@ window.skillrTestQuestions = [
     "id": "ac9m3n02-t-012",
     "curriculumCode": "AC9M3N02",
     "bank": "test",
-    "skill": "fractions",
+    "skill": "fraction sum",
     "printable": true,
     "type": "single",
-    "question": "During the regrouping challenge, what completes 2/10 to make one whole?",
-    "audioPrompt": "During the regrouping challenge, what completes 2/10 to make one whole?",
-    "visual": "During the regrouping challenge: One whole divided into 10 equal parts with 2 shaded.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During the regrouping challenge: One whole divided into 10 equal parts with 2 shaded.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3n02.svg#ac9m3n02-t-012\"></use></svg>",
+    "question": "Complete the number sentence: 1/3 + ? = 1.",
+    "audioPrompt": "Complete the number sentence: 1/3 + ? = 1.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n02.svg#ac9m3n02-t-012",
-      "alt_text": "During the regrouping challenge: One whole divided into 10 equal parts with 2 shaded."
+      "type": "none"
     },
     "answers": [
-      "8/10",
-      "10/10",
-      "8/11"
+      "2/4",
+      "3/2",
+      "2/3",
+      "1/3"
     ],
-    "correct": 0,
-    "explanation": "2/10 + 8/10 = 10/10, or one whole.\nHint: Count the unshaded equal parts.",
+    "difficulty": 2,
+    "correct": 2,
+    "explanation": "One whole is 3/3. The missing number of equal parts is 3 − 1 = 2.\nHint: The sizes of the fractional parts stay the same.",
     "structuredExplanation": {
-      "summary": "2/10 + 8/10 = 10/10, or one whole.",
-      "hint": "Count the unshaded equal parts."
+      "summary": "One whole is 3/3. The missing number of equal parts is 3 − 1 = 2.",
+      "hint": "The sizes of the fractional parts stay the same."
     },
     "qualitySchema": "production-v1"
   },
@@ -352,28 +362,28 @@ window.skillrTestQuestions = [
     "id": "ac9m3n02-t-013",
     "curriculumCode": "AC9M3N02",
     "bank": "test",
-    "skill": "fractions",
+    "skill": "set representation",
     "printable": true,
     "type": "single",
-    "question": "During the regrouping challenge, which statement about 2/10 is correct?",
-    "audioPrompt": "During the regrouping challenge, which statement about 2/10 is correct?",
-    "visual": "During the regrouping challenge: One whole divided into 10 equal parts with 2 shaded.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During the regrouping challenge: One whole divided into 10 equal parts with 2 shaded.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3n02.svg#ac9m3n02-t-013\"></use></svg>",
+    "question": "There are 3 shapes: 1 triangles and 2 circles. What fraction of the shapes are triangles?",
+    "audioPrompt": "There are 3 shapes: 1 triangles and 2 circles. What fraction of the shapes are triangles?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n02.svg#ac9m3n02-t-013",
-      "alt_text": "During the regrouping challenge: One whole divided into 10 equal parts with 2 shaded."
+      "type": "none"
     },
     "answers": [
-      "10 of 2 parts are selected",
-      "2 of 10 equal parts are selected",
-      "2 unequal parts are selected"
+      "1/2",
+      "1/3",
+      "2/3",
+      "3/1"
     ],
+    "difficulty": 1,
     "correct": 1,
-    "explanation": "A fraction names selected equal parts of one whole.\nHint: The numerator is selected parts; the denominator is all equal parts.",
+    "explanation": "Triangles are 1 of all 3 shapes, so the fraction is 1/3.\nHint: The whole includes both types of shape.",
     "structuredExplanation": {
-      "summary": "A fraction names selected equal parts of one whole.",
-      "hint": "The numerator is selected parts; the denominator is all equal parts."
+      "summary": "Triangles are 1 of all 3 shapes, so the fraction is 1/3.",
+      "hint": "The whole includes both types of shape."
     },
     "qualitySchema": "production-v1"
   },
@@ -381,28 +391,28 @@ window.skillrTestQuestions = [
     "id": "ac9m3n02-t-014",
     "curriculumCode": "AC9M3N02",
     "bank": "test",
-    "skill": "equal fraction parts",
+    "skill": "numerator meaning",
     "printable": true,
     "type": "single",
-    "question": "During the regrouping challenge, can 10 different-sized pieces be called equal fraction parts?",
-    "audioPrompt": "During the regrouping challenge, can 10 different-sized pieces be called equal fraction parts?",
-    "visual": "During the regrouping challenge: 10 visibly unequal pieces of one whole.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During the regrouping challenge: 10 visibly unequal pieces of one whole.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3n02.svg#ac9m3n02-t-014\"></use></svg>",
+    "question": "An equal-part model shows 9/10. What does the 9 tell you?",
+    "audioPrompt": "An equal-part model shows 9/10. What does the 9 tell you?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n02.svg#ac9m3n02-t-014",
-      "alt_text": "During the regrouping challenge: 10 visibly unequal pieces of one whole."
+      "type": "none"
     },
     "answers": [
-      "Yes, only the number of pieces matters",
-      "Yes, if one piece is very large",
-      "No, the pieces must be equal"
+      "9 equal parts are selected.",
+      "One whole has 9 equal parts.",
+      "Each part contains 9 wholes.",
+      "9 parts are always unselected."
     ],
-    "correct": 2,
-    "explanation": "Fraction parts of one whole must be equal in size.\nHint: Compare the sizes, not only the count.",
+    "difficulty": 2,
+    "correct": 0,
+    "explanation": "The numerator 9 counts the selected parts. The denominator 10 counts the equal parts in the whole.\nHint: Separate the number of selected parts from the total number of parts.",
     "structuredExplanation": {
-      "summary": "Fraction parts of one whole must be equal in size.",
-      "hint": "Compare the sizes, not only the count."
+      "summary": "The numerator 9 counts the selected parts. The denominator 10 counts the equal parts in the whole.",
+      "hint": "Separate the number of selected parts from the total number of parts."
     },
     "qualitySchema": "production-v1"
   },
@@ -410,28 +420,28 @@ window.skillrTestQuestions = [
     "id": "ac9m3n02-t-015",
     "curriculumCode": "AC9M3N02",
     "bank": "test",
-    "skill": "fractions",
+    "skill": "fraction length",
     "printable": true,
     "type": "single",
-    "question": "During the regrouping challenge, which sum makes one whole?",
-    "audioPrompt": "During the regrouping challenge, which sum makes one whole?",
-    "visual": "During the regrouping challenge: One whole divided into 10 equal parts with 10 shaded.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During the regrouping challenge: One whole divided into 10 equal parts with 10 shaded.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3n02.svg#ac9m3n02-t-015\"></use></svg>",
+    "question": "A 30 cm strip is cut into 10 equal pieces. How long is each 1/10 piece?",
+    "audioPrompt": "A 30 cm strip is cut into 10 equal pieces. How long is each 1/10 piece?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n02.svg#ac9m3n02-t-015",
-      "alt_text": "During the regrouping challenge: One whole divided into 10 equal parts with 10 shaded."
+      "type": "none"
     },
     "answers": [
-      "2/10 + 8/10",
-      "2/10 + 8/11",
-      "2/10 + 9/10"
+      "20",
+      "30",
+      "11",
+      "3"
     ],
-    "correct": 0,
-    "explanation": "The numerators total 10 while the equal parts keep denominator 10.\nHint: Use parts of the same size and count until you have 10.",
+    "difficulty": 2,
+    "correct": 3,
+    "explanation": "30 ÷ 10 = 3, so each fractional piece is 3 cm long.\nHint: Share the whole length equally.",
     "structuredExplanation": {
-      "summary": "The numerators total 10 while the equal parts keep denominator 10.",
-      "hint": "Use parts of the same size and count until you have 10."
+      "summary": "30 ÷ 10 = 3, so each fractional piece is 3 cm long.",
+      "hint": "Share the whole length equally."
     },
     "qualitySchema": "production-v1"
   },
@@ -439,28 +449,28 @@ window.skillrTestQuestions = [
     "id": "ac9m3n02-t-016",
     "curriculumCode": "AC9M3N02",
     "bank": "test",
-    "skill": "fractions",
+    "skill": "whole completion reason",
     "printable": true,
     "type": "single",
-    "question": "During the regrouping challenge, a student writes 2/10 + 8/10 = 10/20. What is the mistake?",
-    "audioPrompt": "During the regrouping challenge, a student writes 2/10 + 8/10 = 10/20. What is the mistake?",
-    "visual": "During the regrouping challenge: One whole divided into 10 equal parts with 10 shaded.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During the regrouping challenge: One whole divided into 10 equal parts with 10 shaded.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3n02.svg#ac9m3n02-t-016\"></use></svg>",
+    "question": "A student says 2/3 + 1/3 = 3/6. Which correction is right?",
+    "audioPrompt": "A student says 2/3 + 1/3 = 3/6. Which correction is right?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n02.svg#ac9m3n02-t-016",
-      "alt_text": "During the regrouping challenge: One whole divided into 10 equal parts with 10 shaded."
+      "type": "none"
     },
     "answers": [
-      "The numerator should stay 2",
-      "The denominator should stay 10",
-      "Fractions cannot make a whole"
+      "The sum is 3/9.",
+      "The sum is 1/3.",
+      "The sum is 3/3, or 1.",
+      "The fractions cannot make a whole."
     ],
-    "correct": 1,
-    "explanation": "When equal-sized parts are combined, count the parts and keep their size: 10/10=1.\nHint: Do not add denominators when the parts have the same denominator.",
+    "difficulty": 3,
+    "correct": 2,
+    "explanation": "The parts are still 3ths. Combining 2 and 1 parts makes all 3 parts of the original whole.\nHint: Adding parts does not cut the whole into smaller parts.",
     "structuredExplanation": {
-      "summary": "When equal-sized parts are combined, count the parts and keep their size: 10/10=1.",
-      "hint": "Do not add denominators when the parts have the same denominator."
+      "summary": "The parts are still 3ths. Combining 2 and 1 parts makes all 3 parts of the original whole.",
+      "hint": "Adding parts does not cut the whole into smaller parts."
     },
     "qualitySchema": "production-v1"
   }

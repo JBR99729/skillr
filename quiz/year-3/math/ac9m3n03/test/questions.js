@@ -4,28 +4,28 @@ window.skillrTestQuestions = [
     "id": "ac9m3n03-t-001",
     "curriculumCode": "AC9M3N03",
     "bank": "test",
-    "skill": "add three digit numbers",
+    "skill": "add partition",
     "printable": true,
     "type": "single",
-    "question": "With a cake, what is 449 + 86?",
-    "audioPrompt": "With a cake, what is 449 + 86?",
-    "visual": "With a cake: 449 plus 86 shown for calculation.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"With a cake: 449 plus 86 shown for calculation.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3n03.svg#ac9m3n03-t-001\"></use></svg>",
+    "question": "Work out 357 + 268 by splitting 268 into place-value parts.",
+    "audioPrompt": "Work out 357 + 268 by splitting 268 into place-value parts.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n03.svg#ac9m3n03-t-001",
-      "alt_text": "With a cake: 449 plus 86 shown for calculation."
+      "type": "none"
     },
     "answers": [
-      "525",
+      "615",
       "635",
-      "535"
+      "625",
+      "624"
     ],
+    "difficulty": 1,
     "correct": 2,
-    "explanation": "449+86=535.\nHint: Partition 86 into tens and ones.",
+    "explanation": "Split 268 into 200 + 60 + 8. Then 357 + 200 = 557; 557 + 60 = 617; 617 + 8 = 625.\nHint: Add hundreds, then tens, then ones.",
     "structuredExplanation": {
-      "summary": "449+86=535.",
-      "hint": "Partition 86 into tens and ones."
+      "summary": "Split 268 into 200 + 60 + 8. Then 357 + 200 = 557; 557 + 60 = 617; 617 + 8 = 625.",
+      "hint": "Add hundreds, then tens, then ones."
     },
     "qualitySchema": "production-v1"
   },
@@ -33,28 +33,28 @@ window.skillrTestQuestions = [
     "id": "ac9m3n03-t-002",
     "curriculumCode": "AC9M3N03",
     "bank": "test",
-    "skill": "subtract three digit numbers",
+    "skill": "subtract regroup",
     "printable": true,
     "type": "single",
-    "question": "With a cake, what is 449 − 86?",
-    "audioPrompt": "With a cake, what is 449 − 86?",
-    "visual": "With a cake: 449 minus 86 shown for calculation.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"With a cake: 449 minus 86 shown for calculation.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3n03.svg#ac9m3n03-t-002\"></use></svg>",
+    "question": "Calculate 610 − 284. Regroup if needed.",
+    "audioPrompt": "Calculate 610 − 284. Regroup if needed.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n03.svg#ac9m3n03-t-002",
-      "alt_text": "With a cake: 449 minus 86 shown for calculation."
+      "type": "none"
     },
     "answers": [
-      "363",
-      "373",
-      "362"
+      "336",
+      "326",
+      "316",
+      "328"
     ],
-    "correct": 0,
-    "explanation": "449−86=363.\nHint: Subtract tens, then ones, regrouping if needed.",
+    "difficulty": 2,
+    "correct": 1,
+    "explanation": "Rename 610 as 5 hundreds, 10 tens and 10 ones. Subtract 2 hundreds, 8 tens and 4 ones to leave 326. Check: 326 + 284 = 610.\nHint: Check your difference with addition.",
     "structuredExplanation": {
-      "summary": "449−86=363.",
-      "hint": "Subtract tens, then ones, regrouping if needed."
+      "summary": "Rename 610 as 5 hundreds, 10 tens and 10 ones. Subtract 2 hundreds, 8 tens and 4 ones to leave 326. Check: 326 + 284 = 610.",
+      "hint": "Check your difference with addition."
     },
     "qualitySchema": "production-v1"
   },
@@ -62,28 +62,28 @@ window.skillrTestQuestions = [
     "id": "ac9m3n03-t-003",
     "curriculumCode": "AC9M3N03",
     "bank": "test",
-    "skill": "partition addend",
+    "skill": "add compensation",
     "printable": true,
     "type": "single",
-    "question": "With a cake, which partition helps calculate 449 + 86?",
-    "audioPrompt": "With a cake, which partition helps calculate 449 + 86?",
-    "visual": "With a cake: 86 partitioned into tens and ones.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"With a cake: 86 partitioned into tens and ones.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3n03.svg#ac9m3n03-t-003\"></use></svg>",
+    "question": "Which calculation keeps the value of 458 + 198?",
+    "audioPrompt": "Which calculation keeps the value of 458 + 198?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n03.svg#ac9m3n03-t-003",
-      "alt_text": "With a cake: 86 partitioned into tens and ones."
+      "type": "none"
     },
     "answers": [
-      "449 + 6 + 6",
-      "449 + 80 + 6",
-      "449 + 860"
+      "458 + 200 − 2",
+      "458 + 200 + 2",
+      "458 − 200 + 2",
+      "458 + 200"
     ],
-    "correct": 1,
-    "explanation": "Splitting 86 into tens and ones preserves its value.\nHint: Check that the parts recombine to 86.",
+    "difficulty": 2,
+    "correct": 0,
+    "explanation": "200 is 2 more than 198. Add it, then subtract the extra 2.\nHint: Undo the extra amount you added.",
     "structuredExplanation": {
-      "summary": "Splitting 86 into tens and ones preserves its value.",
-      "hint": "Check that the parts recombine to 86."
+      "summary": "200 is 2 more than 198. Add it, then subtract the extra 2.",
+      "hint": "Undo the extra amount you added."
     },
     "qualitySchema": "production-v1"
   },
@@ -91,28 +91,28 @@ window.skillrTestQuestions = [
     "id": "ac9m3n03-t-004",
     "curriculumCode": "AC9M3N03",
     "bank": "test",
-    "skill": "check subtraction inverse",
+    "skill": "subtract compensation",
     "printable": true,
     "type": "single",
-    "question": "With a cake, which addition checks 449 − 86 = 363?",
-    "audioPrompt": "With a cake, which addition checks 449 − 86 = 363?",
-    "visual": "With a cake: A subtraction fact ready to check with addition.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"With a cake: A subtraction fact ready to check with addition.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3n03.svg#ac9m3n03-t-004\"></use></svg>",
+    "question": "To find 732 − 298, first subtract 300. What must you do next?",
+    "audioPrompt": "To find 732 − 298, first subtract 300. What must you do next?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n03.svg#ac9m3n03-t-004",
-      "alt_text": "With a cake: A subtraction fact ready to check with addition."
+      "type": "none"
     },
     "answers": [
-      "449 + 86 = 363",
-      "363 − 86 = 449",
-      "363 + 86 = 449"
+      "Subtract 2.",
+      "Add 300.",
+      "Make no adjustment.",
+      "Add 2."
     ],
-    "correct": 2,
-    "explanation": "Addition reverses subtraction, so 363+86=449.\nHint: Use the answer and the amount subtracted.",
+    "difficulty": 2,
+    "correct": 3,
+    "explanation": "Subtracting 300 removes 2 too much. Add 2 back to get 434.\nHint: Did the first step remove too much or too little?",
     "structuredExplanation": {
-      "summary": "Addition reverses subtraction, so 363+86=449.",
-      "hint": "Use the answer and the amount subtracted."
+      "summary": "Subtracting 300 removes 2 too much. Add 2 back to get 434.",
+      "hint": "Did the first step remove too much or too little?"
     },
     "qualitySchema": "production-v1"
   },
@@ -120,28 +120,28 @@ window.skillrTestQuestions = [
     "id": "ac9m3n03-t-005",
     "curriculumCode": "AC9M3N03",
     "bank": "test",
-    "skill": "estimate sum",
+    "skill": "regroup ones",
     "printable": true,
     "type": "single",
-    "question": "With a cake, what is the best estimate for 449 + 86?",
-    "audioPrompt": "With a cake, what is the best estimate for 449 + 86?",
-    "visual": "With a cake: Both addends rounded to nearby tens.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"With a cake: Both addends rounded to nearby tens.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3n03.svg#ac9m3n03-t-005\"></use></svg>",
+    "question": "In 579 + 286, the ones add to 15. After exchanging 10 ones for a ten, how many ones remain?",
+    "audioPrompt": "In 579 + 286, the ones add to 15. After exchanging 10 ones for a ten, how many ones remain?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n03.svg#ac9m3n03-t-005",
-      "alt_text": "With a cake: Both addends rounded to nearby tens."
+      "type": "none"
     },
     "answers": [
-      "540",
-      "400",
-      "735"
+      "15",
+      "6",
+      "5",
+      "4"
     ],
-    "correct": 0,
-    "explanation": "Rounding both numbers to nearby tens gives a sensible estimate.\nHint: Round each number before adding.",
+    "difficulty": 1,
+    "correct": 2,
+    "explanation": "9 + 6 = 15. This is 1 ten and 5 ones.\nHint: Separate one group of ten from the ones total.",
     "structuredExplanation": {
-      "summary": "Rounding both numbers to nearby tens gives a sensible estimate.",
-      "hint": "Round each number before adding."
+      "summary": "9 + 6 = 15. This is 1 ten and 5 ones.",
+      "hint": "Separate one group of ten from the ones total."
     },
     "qualitySchema": "production-v1"
   },
@@ -149,28 +149,30 @@ window.skillrTestQuestions = [
     "id": "ac9m3n03-t-006",
     "curriculumCode": "AC9M3N03",
     "bank": "test",
-    "skill": "use compensation addition",
+    "skill": "rename across zero",
     "printable": true,
     "type": "single",
-    "question": "With a cake, which strategy efficiently solves 450 + 99?",
-    "audioPrompt": "With a cake, which strategy efficiently solves 450 + 99?",
-    "visual": "With a cake: An addition calculation using 99 near 100.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"With a cake: An addition calculation using 99 near 100.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3n03.svg#ac9m3n03-t-006\"></use></svg>",
+    "question": "Which renaming of 704 lets you subtract 386 by place value?",
+    "audioPrompt": "Which renaming of 704 lets you subtract 386 by place value?",
+    "visual": "Place-value chart for 704: 7 hundreds, 0 tens and 4 ones.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Place-value chart for 704: 7 hundreds, 0 tens and 4 ones.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3n03-reviewed.svg#ac9m3n03-t-006\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n03.svg#ac9m3n03-t-006",
-      "alt_text": "With a cake: An addition calculation using 99 near 100."
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n03-reviewed.svg#ac9m3n03-t-006",
+      "alt_text": "Place-value chart for 704: 7 hundreds, 0 tens and 4 ones."
     },
     "answers": [
-      "Add 90, then subtract 9",
-      "Add 100, then subtract 1",
-      "Subtract 100, then add 1"
+      "7 hundreds, 9 tens, 14 ones",
+      "6 hundreds, 9 tens, 14 ones",
+      "6 hundreds, 0 tens, 14 ones",
+      "6 hundreds, 10 tens, 14 ones"
     ],
+    "difficulty": 3,
     "correct": 1,
-    "explanation": "99 is 1 less than 100, so compensate after adding 100.\nHint: Use the friendly number 100.",
+    "explanation": "Exchange one hundred for 10 tens, then one of those tens for 10 ones. The total remains 704.\nHint: Every exchange must preserve the original number.",
     "structuredExplanation": {
-      "summary": "99 is 1 less than 100, so compensate after adding 100.",
-      "hint": "Use the friendly number 100."
+      "summary": "Exchange one hundred for 10 tens, then one of those tens for 10 ones. The total remains 704.",
+      "hint": "Every exchange must preserve the original number."
     },
     "qualitySchema": "production-v1"
   },
@@ -178,28 +180,28 @@ window.skillrTestQuestions = [
     "id": "ac9m3n03-t-007",
     "curriculumCode": "AC9M3N03",
     "bank": "test",
-    "skill": "apply addition context",
+    "skill": "missing partial sum",
     "printable": true,
     "type": "single",
-    "question": "With a cake, a library has 449 books and receives 86 more. How many books are there now?",
-    "audioPrompt": "With a cake, a library has 449 books and receives 86 more. How many books are there now?",
-    "visual": "With a cake: Two book groups containing 449 and 86 books.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"With a cake: Two book groups containing 449 and 86 books.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3n03.svg#ac9m3n03-t-007\"></use></svg>",
+    "question": "Finish this addition path: 547 + 100 = 647; then + 80 = ?; then + 6.",
+    "audioPrompt": "Finish this addition path: 547 + 100 = 647; then + 80 = ?; then + 6.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n03.svg#ac9m3n03-t-007",
-      "alt_text": "With a cake: Two book groups containing 449 and 86 books."
+      "type": "none"
     },
     "answers": [
-      "363",
-      "545",
-      "535"
+      "727",
+      "733",
+      "737",
+      "647"
     ],
-    "correct": 2,
-    "explanation": "Receiving more books means add: 449+86=535.\nHint: Decide whether the amount grows or decreases.",
+    "difficulty": 2,
+    "correct": 0,
+    "explanation": "647 + 80 = 727. The final ones step happens afterwards.\nHint: Find the value at the requested step, before adding ones.",
     "structuredExplanation": {
-      "summary": "Receiving more books means add: 449+86=535.",
-      "hint": "Decide whether the amount grows or decreases."
+      "summary": "647 + 80 = 727. The final ones step happens afterwards.",
+      "hint": "Find the value at the requested step, before adding ones."
     },
     "qualitySchema": "production-v1"
   },
@@ -207,28 +209,28 @@ window.skillrTestQuestions = [
     "id": "ac9m3n03-t-008",
     "curriculumCode": "AC9M3N03",
     "bank": "test",
-    "skill": "check calculation reasonableness",
+    "skill": "missing subtraction step",
     "printable": true,
     "type": "single",
-    "question": "With a cake, sam says 449 − 86 = 535. What shows the answer is unreasonable?",
-    "audioPrompt": "With a cake, sam says 449 − 86 = 535. What shows the answer is unreasonable?",
-    "visual": "With a cake: A subtraction calculation beside an incorrectly larger answer.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"With a cake: A subtraction calculation beside an incorrectly larger answer.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3n03.svg#ac9m3n03-t-008\"></use></svg>",
+    "question": "Subtract 354 from 821 in parts. After subtracting 300 and then 50, what number do you have before subtracting 4?",
+    "audioPrompt": "Subtract 354 from 821 in parts. After subtracting 300 and then 50, what number do you have before subtracting 4?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n03.svg#ac9m3n03-t-008",
-      "alt_text": "With a cake: A subtraction calculation beside an incorrectly larger answer."
+      "type": "none"
     },
     "answers": [
-      "Subtraction should make the starting number smaller",
-      "Every answer must be even",
-      "Subtraction always makes zero"
+      "467",
+      "521",
+      "481",
+      "471"
     ],
-    "correct": 0,
-    "explanation": "449−86 must be less than 449; the correct result is 363.\nHint: Compare the result with the starting number.",
+    "difficulty": 2,
+    "correct": 3,
+    "explanation": "821 − 300 = 521; 521 − 50 = 471. There are still 4 ones to subtract.\nHint: Follow only the first two jumps.",
     "structuredExplanation": {
-      "summary": "449−86 must be less than 449; the correct result is 363.",
-      "hint": "Compare the result with the starting number."
+      "summary": "821 − 300 = 521; 521 − 50 = 471. There are still 4 ones to subtract.",
+      "hint": "Follow only the first two jumps."
     },
     "qualitySchema": "production-v1"
   },
@@ -236,28 +238,28 @@ window.skillrTestQuestions = [
     "id": "ac9m3n03-t-009",
     "curriculumCode": "AC9M3N03",
     "bank": "test",
-    "skill": "add three digit numbers",
+    "skill": "rearrange sum",
     "printable": true,
     "type": "single",
-    "question": "With a pancake, what is 520 + 99?",
-    "audioPrompt": "With a pancake, what is 520 + 99?",
-    "visual": "With a pancake: 520 plus 99 shown for calculation.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"With a pancake: 520 plus 99 shown for calculation.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3n03.svg#ac9m3n03-t-009\"></use></svg>",
+    "question": "Move 4 from 237 to 496. Which easier sum equals 496 + 237?",
+    "audioPrompt": "Move 4 from 237 to 496. Which easier sum equals 496 + 237?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n03.svg#ac9m3n03-t-009",
-      "alt_text": "With a pancake: 520 plus 99 shown for calculation."
+      "type": "none"
     },
     "answers": [
-      "609",
-      "619",
-      "719"
+      "500 + 241",
+      "492 + 233",
+      "500 + 233",
+      "500 + 237"
     ],
-    "correct": 1,
-    "explanation": "520+99=619.\nHint: Partition 99 into tens and ones.",
+    "difficulty": 3,
+    "correct": 2,
+    "explanation": "One addend grows by 4; the other shrinks by 4. The total stays 733.\nHint: Transfer the amount; do not add it twice.",
     "structuredExplanation": {
-      "summary": "520+99=619.",
-      "hint": "Partition 99 into tens and ones."
+      "summary": "One addend grows by 4; the other shrinks by 4. The total stays 733.",
+      "hint": "Transfer the amount; do not add it twice."
     },
     "qualitySchema": "production-v1"
   },
@@ -265,28 +267,28 @@ window.skillrTestQuestions = [
     "id": "ac9m3n03-t-010",
     "curriculumCode": "AC9M3N03",
     "bank": "test",
-    "skill": "subtract three digit numbers",
+    "skill": "constant difference",
     "printable": true,
     "type": "single",
-    "question": "With a pancake, what is 520 − 99?",
-    "audioPrompt": "With a pancake, what is 520 − 99?",
-    "visual": "With a pancake: 520 minus 99 shown for calculation.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"With a pancake: 520 minus 99 shown for calculation.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3n03.svg#ac9m3n03-t-010\"></use></svg>",
+    "question": "Add 4 to both numbers in 743 − 496. Which subtraction has the same answer?",
+    "audioPrompt": "Add 4 to both numbers in 743 − 496. Which subtraction has the same answer?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n03.svg#ac9m3n03-t-010",
-      "alt_text": "With a pancake: 520 minus 99 shown for calculation."
+      "type": "none"
     },
     "answers": [
-      "431",
-      "420",
-      "421"
+      "739 − 500",
+      "747 − 500",
+      "747 − 492",
+      "743 − 500"
     ],
-    "correct": 2,
-    "explanation": "520−99=421.\nHint: Subtract tens, then ones, regrouping if needed.",
+    "difficulty": 3,
+    "correct": 1,
+    "explanation": "Moving both numbers up by 4 keeps their distance unchanged: 247.\nHint: Equal changes to both numbers preserve a difference.",
     "structuredExplanation": {
-      "summary": "520−99=421.",
-      "hint": "Subtract tens, then ones, regrouping if needed."
+      "summary": "Moving both numbers up by 4 keeps their distance unchanged: 247.",
+      "hint": "Equal changes to both numbers preserve a difference."
     },
     "qualitySchema": "production-v1"
   },
@@ -294,28 +296,28 @@ window.skillrTestQuestions = [
     "id": "ac9m3n03-t-011",
     "curriculumCode": "AC9M3N03",
     "bank": "test",
-    "skill": "partition addend",
+    "skill": "diagnose addition",
     "printable": true,
     "type": "single",
-    "question": "With a pancake, which partition helps calculate 520 + 99?",
-    "audioPrompt": "With a pancake, which partition helps calculate 520 + 99?",
-    "visual": "With a pancake: 99 partitioned into tens and ones.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"With a pancake: 99 partitioned into tens and ones.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3n03.svg#ac9m3n03-t-011\"></use></svg>",
+    "question": "A student calculates 687 + 158 = 835, forgetting the ten made by adding the ones. What is the correct total?",
+    "audioPrompt": "A student calculates 687 + 158 = 835, forgetting the ten made by adding the ones. What is the correct total?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n03.svg#ac9m3n03-t-011",
-      "alt_text": "With a pancake: 99 partitioned into tens and ones."
+      "type": "none"
     },
     "answers": [
-      "520 + 90 + 9",
-      "520 + 9 + 9",
-      "520 + 990"
+      "845",
+      "835",
+      "855",
+      "844"
     ],
+    "difficulty": 2,
     "correct": 0,
-    "explanation": "Splitting 99 into tens and ones preserves its value.\nHint: Check that the parts recombine to 99.",
+    "explanation": "The ones make an extra ten. Include it in the tens total: 687 + 158 = 845.\nHint: A group of 10 ones belongs in the tens column.",
     "structuredExplanation": {
-      "summary": "Splitting 99 into tens and ones preserves its value.",
-      "hint": "Check that the parts recombine to 99."
+      "summary": "The ones make an extra ten. Include it in the tens total: 687 + 158 = 845.",
+      "hint": "A group of 10 ones belongs in the tens column."
     },
     "qualitySchema": "production-v1"
   },
@@ -323,28 +325,28 @@ window.skillrTestQuestions = [
     "id": "ac9m3n03-t-012",
     "curriculumCode": "AC9M3N03",
     "bank": "test",
-    "skill": "check subtraction inverse",
+    "skill": "missing addend",
     "printable": true,
     "type": "single",
-    "question": "With a pancake, which addition checks 520 − 99 = 421?",
-    "audioPrompt": "With a pancake, which addition checks 520 − 99 = 421?",
-    "visual": "With a pancake: A subtraction fact ready to check with addition.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"With a pancake: A subtraction fact ready to check with addition.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3n03.svg#ac9m3n03-t-012\"></use></svg>",
+    "question": "? + 368 = 741. What is the missing number?",
+    "audioPrompt": "? + 368 = 741. What is the missing number?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n03.svg#ac9m3n03-t-012",
-      "alt_text": "With a pancake: A subtraction fact ready to check with addition."
+      "type": "none"
     },
     "answers": [
-      "520 + 99 = 421",
-      "421 + 99 = 520",
-      "421 − 99 = 520"
+      "1109",
+      "383",
+      "363",
+      "373"
     ],
-    "correct": 1,
-    "explanation": "Addition reverses subtraction, so 421+99=520.\nHint: Use the answer and the amount subtracted.",
+    "difficulty": 2,
+    "correct": 3,
+    "explanation": "The missing part is 741 − 368 = 373. Adding it back gives 741.\nHint: Use the whole and known part to find the unknown part.",
     "structuredExplanation": {
-      "summary": "Addition reverses subtraction, so 421+99=520.",
-      "hint": "Use the answer and the amount subtracted."
+      "summary": "The missing part is 741 − 368 = 373. Adding it back gives 741.",
+      "hint": "Use the whole and known part to find the unknown part."
     },
     "qualitySchema": "production-v1"
   },
@@ -352,28 +354,28 @@ window.skillrTestQuestions = [
     "id": "ac9m3n03-t-013",
     "curriculumCode": "AC9M3N03",
     "bank": "test",
-    "skill": "estimate sum",
+    "skill": "missing subtrahend",
     "printable": true,
     "type": "single",
-    "question": "With a pancake, what is the best estimate for 520 + 99?",
-    "audioPrompt": "With a pancake, what is the best estimate for 520 + 99?",
-    "visual": "With a pancake: Both addends rounded to nearby tens.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"With a pancake: Both addends rounded to nearby tens.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3n03.svg#ac9m3n03-t-013\"></use></svg>",
+    "question": "704 − ? = 359. How much was subtracted?",
+    "audioPrompt": "704 − ? = 359. How much was subtracted?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n03.svg#ac9m3n03-t-013",
-      "alt_text": "With a pancake: Both addends rounded to nearby tens."
+      "type": "none"
     },
     "answers": [
-      "500",
-      "819",
-      "620"
+      "1063",
+      "445",
+      "345",
+      "335"
     ],
+    "difficulty": 3,
     "correct": 2,
-    "explanation": "Rounding both numbers to nearby tens gives a sensible estimate.\nHint: Round each number before adding.",
+    "explanation": "The removed part is 704 − 359 = 345. Check 359 + 345 = 704.\nHint: Find the gap between the starting and ending values.",
     "structuredExplanation": {
-      "summary": "Rounding both numbers to nearby tens gives a sensible estimate.",
-      "hint": "Round each number before adding."
+      "summary": "The removed part is 704 − 359 = 345. Check 359 + 345 = 704.",
+      "hint": "Find the gap between the starting and ending values."
     },
     "qualitySchema": "production-v1"
   },
@@ -381,28 +383,28 @@ window.skillrTestQuestions = [
     "id": "ac9m3n03-t-014",
     "curriculumCode": "AC9M3N03",
     "bank": "test",
-    "skill": "use compensation addition",
+    "skill": "combine context",
     "printable": true,
     "type": "single",
-    "question": "With a pancake, which strategy efficiently solves 521 + 99?",
-    "audioPrompt": "With a pancake, which strategy efficiently solves 521 + 99?",
-    "visual": "With a pancake: An addition calculation using 99 near 100.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"With a pancake: An addition calculation using 99 near 100.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3n03.svg#ac9m3n03-t-014\"></use></svg>",
+    "question": "The library has 467 books on one trolley and 285 on another. How many books are on the two trolleys altogether?",
+    "audioPrompt": "The library has 467 books on one trolley and 285 on another. How many books are on the two trolleys altogether?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n03.svg#ac9m3n03-t-014",
-      "alt_text": "With a pancake: An addition calculation using 99 near 100."
+      "type": "none"
     },
     "answers": [
-      "Add 100, then subtract 1",
-      "Add 90, then subtract 9",
-      "Subtract 100, then add 1"
+      "742",
+      "752",
+      "852",
+      "182"
     ],
-    "correct": 0,
-    "explanation": "99 is 1 less than 100, so compensate after adding 100.\nHint: Use the friendly number 100.",
+    "difficulty": 2,
+    "correct": 1,
+    "explanation": "Combine the two quantities: 467 + 285 = 752.\nHint: Partition one quantity and add its parts.",
     "structuredExplanation": {
-      "summary": "99 is 1 less than 100, so compensate after adding 100.",
-      "hint": "Use the friendly number 100."
+      "summary": "Combine the two quantities: 467 + 285 = 752.",
+      "hint": "Partition one quantity and add its parts."
     },
     "qualitySchema": "production-v1"
   },
@@ -410,28 +412,28 @@ window.skillrTestQuestions = [
     "id": "ac9m3n03-t-015",
     "curriculumCode": "AC9M3N03",
     "bank": "test",
-    "skill": "apply addition context",
+    "skill": "difference context",
     "printable": true,
     "type": "single",
-    "question": "With a pancake, a library has 520 books and receives 99 more. How many books are there now?",
-    "audioPrompt": "With a pancake, a library has 520 books and receives 99 more. How many books are there now?",
-    "visual": "With a pancake: Two book groups containing 520 and 99 books.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"With a pancake: Two book groups containing 520 and 99 books.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3n03.svg#ac9m3n03-t-015\"></use></svg>",
+    "question": "A hall has 803 seats. 456 seats are occupied. How many seats are empty?",
+    "audioPrompt": "A hall has 803 seats. 456 seats are occupied. How many seats are empty?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n03.svg#ac9m3n03-t-015",
-      "alt_text": "With a pancake: Two book groups containing 520 and 99 books."
+      "type": "none"
     },
     "answers": [
-      "421",
-      "619",
-      "629"
+      "347",
+      "357",
+      "447",
+      "1259"
     ],
-    "correct": 1,
-    "explanation": "Receiving more books means add: 520+99=619.\nHint: Decide whether the amount grows or decreases.",
+    "difficulty": 2,
+    "correct": 0,
+    "explanation": "Rename 803 as 7 hundreds, 9 tens and 13 ones. Subtract 4 hundreds, 5 tens and 6 ones to leave 347. Check: 347 + 456 = 803.\nHint: Regroup across an empty place if needed.",
     "structuredExplanation": {
-      "summary": "Receiving more books means add: 520+99=619.",
-      "hint": "Decide whether the amount grows or decreases."
+      "summary": "Rename 803 as 7 hundreds, 9 tens and 13 ones. Subtract 4 hundreds, 5 tens and 6 ones to leave 347. Check: 347 + 456 = 803.",
+      "hint": "Regroup across an empty place if needed."
     },
     "qualitySchema": "production-v1"
   },
@@ -439,28 +441,28 @@ window.skillrTestQuestions = [
     "id": "ac9m3n03-t-016",
     "curriculumCode": "AC9M3N03",
     "bank": "test",
-    "skill": "check calculation reasonableness",
+    "skill": "inverse check",
     "printable": true,
     "type": "single",
-    "question": "With a pancake, sam says 520 − 99 = 619. What shows the answer is unreasonable?",
-    "audioPrompt": "With a pancake, sam says 520 − 99 = 619. What shows the answer is unreasonable?",
-    "visual": "With a pancake: A subtraction calculation beside an incorrectly larger answer.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"With a pancake: A subtraction calculation beside an incorrectly larger answer.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3n03.svg#ac9m3n03-t-016\"></use></svg>",
+    "question": "Which addition checks that 724 − 458 = 266?",
+    "audioPrompt": "Which addition checks that 724 − 458 = 266?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n03.svg#ac9m3n03-t-016",
-      "alt_text": "With a pancake: A subtraction calculation beside an incorrectly larger answer."
+      "type": "none"
     },
     "answers": [
-      "Every answer must be even",
-      "Subtraction always makes zero",
-      "Subtraction should make the starting number smaller"
+      "724 + 458 = 1182",
+      "266 + 724 = 990",
+      "266 + 10 = 276",
+      "266 + 458 = 724"
     ],
-    "correct": 2,
-    "explanation": "520−99 must be less than 520; the correct result is 421.\nHint: Compare the result with the starting number.",
+    "difficulty": 2,
+    "correct": 3,
+    "explanation": "The remaining part and removed part must rebuild the starting whole: 266 + 458 = 724.\nHint: Check that both parts recombine to the original number.",
     "structuredExplanation": {
-      "summary": "520−99 must be less than 520; the correct result is 421.",
-      "hint": "Compare the result with the starting number."
+      "summary": "The remaining part and removed part must rebuild the starting whole: 266 + 458 = 724.",
+      "hint": "Check that both parts recombine to the original number."
     },
     "qualitySchema": "production-v1"
   }
