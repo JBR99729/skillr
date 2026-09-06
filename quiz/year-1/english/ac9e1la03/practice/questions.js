@@ -1,14 +1,14 @@
 "use strict";
 window.skillrPracticeQuestions = [
   {
-    "id": "ac9e1la03-p-001",
+    "id": "ac9e1la03-er1-p-001",
     "curriculumCode": "AC9E1LA03",
     "bank": "practice",
-    "skill": "explore how texts are organised according to their purpose, such as to recount, narrate, express opinion, inform, report and explain",
+    "skill": "text organisation matched to purpose",
     "printable": true,
     "type": "single",
-    "question": "Read: “First we mixed the flour. Then we baked the cake.” What kind of text is this?",
-    "audioPrompt": "Read: “First we mixed the flour. Then we baked the cake.” What kind of text is this?",
+    "question": "'Yesterday we visited the farm. First we fed hens. Then we saw the lambs.' What is this text doing?",
+    "audioPrompt": "'Yesterday we visited the farm. First we fed hens. Then we saw the lambs.' What is this text doing?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -16,269 +16,61 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "an opinion",
-      "a made-up story",
-      "a recount"
+      "Retelling events in order.",
+      "Explaining why hens lay eggs.",
+      "Giving an opinion about farms."
     ],
-    "correct": 2,
-    "explanation": "a recount is the best answer.",
-    "structuredExplanation": {
-      "summary": "a recount is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
     "difficulty": 1,
     "difficultyTier": "recognise",
-    "sequencePriority": 1
-  },
-  {
-    "id": "ac9e1la03-p-002",
-    "curriculumCode": "AC9E1LA03",
-    "bank": "practice",
-    "skill": "explore how texts are organised according to their purpose, such as to recount, narrate, express opinion, inform, report and explain",
-    "printable": true,
-    "type": "single",
-    "question": "Read: “A dog needs food and water. It is a living thing.” What is this text for?",
-    "audioPrompt": "Read: “A dog needs food and water. It is a living thing.” What is this text for?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "to tell a joke",
-      "to give facts",
-      "to give an order"
-    ],
-    "correct": 1,
-    "explanation": "to give facts is the best answer.",
-    "structuredExplanation": {
-      "summary": "to give facts is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 2
-  },
-  {
-    "id": "ac9e1la03-p-003",
-    "curriculumCode": "AC9E1LA03",
-    "bank": "practice",
-    "skill": "explore how texts are organised according to their purpose, such as to recount, narrate, express opinion, inform, report and explain",
-    "printable": true,
-    "type": "single",
-    "question": "Read: “I think the farm is best because it is fun.” What does this text give?",
-    "audioPrompt": "Read: “I think the farm is best because it is fun.” What does this text give?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "a greeting",
-      "an opinion",
-      "a recipe"
-    ],
-    "correct": 1,
-    "explanation": "an opinion is the best answer.",
-    "structuredExplanation": {
-      "summary": "an opinion is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 3
-  },
-  {
-    "id": "ac9e1la03-p-004",
-    "curriculumCode": "AC9E1LA03",
-    "bank": "practice",
-    "skill": "explore how texts are organised according to their purpose, such as to recount, narrate, express opinion, inform, report and explain",
-    "printable": true,
-    "type": "single",
-    "question": "Read: “The tiny fox flew to the moon.” What kind of text is this?",
-    "audioPrompt": "Read: “The tiny fox flew to the moon.” What kind of text is this?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "a fact report",
-      "a made-up story",
-      "a list"
-    ],
-    "correct": 1,
-    "explanation": "a made-up story is the best answer.",
-    "structuredExplanation": {
-      "summary": "a made-up story is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 4
-  },
-  {
-    "id": "ac9e1la03-p-005",
-    "curriculumCode": "AC9E1LA03",
-    "bank": "practice",
-    "skill": "explore how texts are organised according to their purpose, such as to recount, narrate, express opinion, inform, report and explain",
-    "printable": true,
-    "type": "single",
-    "question": "Which text would have steps and numbered instructions?",
-    "audioPrompt": "Which text would have steps and numbered instructions?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "a story",
-      "a how-to text",
-      "a poem"
-    ],
-    "correct": 1,
-    "explanation": "a how-to text is the best answer.",
-    "structuredExplanation": {
-      "summary": "a how-to text is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 5
-  },
-  {
-    "id": "ac9e1la03-p-006",
-    "curriculumCode": "AC9E1LA03",
-    "bank": "practice",
-    "skill": "explore how texts are organised according to their purpose, such as to recount, narrate, express opinion, inform, report and explain",
-    "printable": true,
-    "type": "single",
-    "question": "Which text often has characters and a problem?",
-    "audioPrompt": "Which text often has characters and a problem?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "a fact list",
-      "a label",
-      "a story"
-    ],
-    "correct": 2,
-    "explanation": "a story is the best answer.",
-    "structuredExplanation": {
-      "summary": "a story is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 6
-  },
-  {
-    "id": "ac9e1la03-p-007",
-    "curriculumCode": "AC9E1LA03",
-    "bank": "practice",
-    "skill": "explore how texts are organised according to their purpose, such as to recount, narrate, express opinion, inform, report and explain",
-    "printable": true,
-    "type": "single",
-    "question": "Read: “Rain falls from clouds.” Is this fact or opinion?",
-    "audioPrompt": "Read: “Rain falls from clouds.” Is this fact or opinion?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "opinion",
-      "fact",
-      "question"
-    ],
-    "correct": 1,
-    "explanation": "fact is the best answer.",
-    "structuredExplanation": {
-      "summary": "fact is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 7
-  },
-  {
-    "id": "ac9e1la03-p-008",
-    "curriculumCode": "AC9E1LA03",
-    "bank": "practice",
-    "skill": "explore how texts are organised according to their purpose, such as to recount, narrate, express opinion, inform, report and explain",
-    "printable": true,
-    "type": "single",
-    "question": "Read: “Please choose our new map. It is the best!” What is the writer trying to do?",
-    "audioPrompt": "Read: “Please choose our new map. It is the best!” What is the writer trying to do?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "tell a story",
-      "persuade",
-      "give directions"
-    ],
-    "correct": 1,
-    "explanation": "persuade is the best answer.",
-    "structuredExplanation": {
-      "summary": "persuade is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 8
-  },
-  {
-    "id": "ac9e1la03-p-009",
-    "curriculumCode": "AC9E1LA03",
-    "bank": "practice",
-    "skill": "explore how texts are organised according to their purpose, such as to recount, narrate, express opinion, inform, report and explain",
-    "printable": true,
-    "type": "single",
-    "question": "Read: “First we mixed the flour. Then we baked the cake.” What kind of text is this?",
-    "audioPrompt": "Read: “First we mixed the flour. Then we baked the cake.” What kind of text is this?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "a recount",
-      "a made-up story",
-      "an opinion"
-    ],
+    "sequencePriority": 1,
     "correct": 0,
-    "explanation": "a recount is the best answer.",
+    "explanation": "Yesterday, first and then organise a recount of what happened.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "a recount is the best answer."
+      "summary": "Yesterday, first and then organise a recount of what happened.",
+      "hint": "Read the whole example and check what the question asks."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1la03-er1-p-002",
+    "curriculumCode": "AC9E1LA03",
+    "bank": "practice",
+    "skill": "text organisation matched to purpose",
+    "printable": true,
+    "type": "single",
+    "question": "'Bees are insects. They have six legs and two antennae.' What is the main purpose?",
+    "audioPrompt": "'Bees are insects. They have six legs and two antennae.' What is the main purpose?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "To say bees are the best pets.",
+      "To give information about bees.",
+      "To tell an adventure about a bee."
+    ],
     "difficulty": 1,
     "difficultyTier": "recognise",
-    "sequencePriority": 9
+    "sequencePriority": 2,
+    "correct": 1,
+    "explanation": "The text presents facts rather than a plot or preference.\nHint: Read the whole example and check what the question asks.",
+    "structuredExplanation": {
+      "summary": "The text presents facts rather than a plot or preference.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1la03-p-010",
+    "id": "ac9e1la03-er1-p-003",
     "curriculumCode": "AC9E1LA03",
     "bank": "practice",
-    "skill": "explore how texts are organised according to their purpose, such as to recount, narrate, express opinion, inform, report and explain",
+    "skill": "text organisation matched to purpose",
     "printable": true,
     "type": "single",
-    "question": "Read: “A fox needs food and water. It is a living thing.” What is this text for?",
-    "audioPrompt": "Read: “A fox needs food and water. It is a living thing.” What is this text for?",
+    "question": "'I think our class should grow herbs because we could use them in cooking.' What comes after the opinion?",
+    "audioPrompt": "'I think our class should grow herbs because we could use them in cooking.' What comes after the opinion?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -286,29 +78,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "to give an order",
-      "to tell a joke",
-      "to give facts"
+      "An event that happened yesterday.",
+      "A list of herb colours.",
+      "A reason supporting it."
     ],
-    "correct": 2,
-    "explanation": "to give facts is the best answer.",
-    "structuredExplanation": {
-      "summary": "to give facts is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
     "difficulty": 1,
     "difficultyTier": "recognise",
-    "sequencePriority": 10
+    "sequencePriority": 3,
+    "correct": 2,
+    "explanation": "Because introduces a reason for the suggested class activity.\nHint: Read the whole example and check what the question asks.",
+    "structuredExplanation": {
+      "summary": "Because introduces a reason for the suggested class activity.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1la03-p-011",
+    "id": "ac9e1la03-er1-p-004",
     "curriculumCode": "AC9E1LA03",
     "bank": "practice",
-    "skill": "explore how texts are organised according to their purpose, such as to recount, narrate, express opinion, inform, report and explain",
+    "skill": "text organisation matched to purpose",
     "printable": true,
     "type": "single",
-    "question": "Read: “I think the zoo is best because it is fun.” What does this text give?",
-    "audioPrompt": "Read: “I think the zoo is best because it is fun.” What does this text give?",
+    "question": "'A little fox lost its way. It followed a song and found its den.' How is this story organised?",
+    "audioPrompt": "'A little fox lost its way. It followed a song and found its den.' How is this story organised?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -316,29 +109,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "a recipe",
-      "an opinion",
-      "a greeting"
+      "A problem followed by a solution.",
+      "Facts grouped under animal headings.",
+      "A choice followed by a price."
     ],
-    "correct": 1,
-    "explanation": "an opinion is the best answer.",
-    "structuredExplanation": {
-      "summary": "an opinion is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
     "difficulty": 1,
     "difficultyTier": "recognise",
-    "sequencePriority": 11
+    "sequencePriority": 4,
+    "correct": 0,
+    "explanation": "Being lost is the problem; finding the den resolves it.\nHint: Read the whole example and check what the question asks.",
+    "structuredExplanation": {
+      "summary": "Being lost is the problem; finding the den resolves it.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1la03-p-012",
+    "id": "ac9e1la03-er1-p-005",
     "curriculumCode": "AC9E1LA03",
     "bank": "practice",
-    "skill": "explore how texts are organised according to their purpose, such as to recount, narrate, express opinion, inform, report and explain",
+    "skill": "text organisation matched to purpose",
     "printable": true,
     "type": "single",
-    "question": "Read: “The tiny duck flew to the moon.” What kind of text is this?",
-    "audioPrompt": "Read: “The tiny duck flew to the moon.” What kind of text is this?",
+    "question": "'We put ice in a warm room. It melted because the room was warm.' What does because help the text explain?",
+    "audioPrompt": "'We put ice in a warm room. It melted because the room was warm.' What does because help the text explain?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -346,29 +140,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "a made-up story",
-      "a fact report",
-      "a list"
+      "Which room is the largest.",
+      "Why the ice melted.",
+      "Who bought the ice."
     ],
-    "correct": 0,
-    "explanation": "a made-up story is the best answer.",
-    "structuredExplanation": {
-      "summary": "a made-up story is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
     "difficulty": 1,
     "difficultyTier": "recognise",
-    "sequencePriority": 12
+    "sequencePriority": 5,
+    "correct": 1,
+    "explanation": "Because connects an event with its cause.\nHint: Read the whole example and check what the question asks.",
+    "structuredExplanation": {
+      "summary": "Because connects an event with its cause.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1la03-p-013",
+    "id": "ac9e1la03-er1-p-006",
     "curriculumCode": "AC9E1LA03",
     "bank": "practice",
-    "skill": "explore how texts are organised according to their purpose, such as to recount, narrate, express opinion, inform, report and explain",
+    "skill": "text organisation matched to purpose",
     "printable": true,
     "type": "single",
-    "question": "Which text would have steps and numbered instructions?",
-    "audioPrompt": "Which text would have steps and numbered instructions?",
+    "question": "A report has headings 'Body', 'Food' and 'Home'. What do these headings do?",
+    "audioPrompt": "A report has headings 'Body', 'Food' and 'Home'. What do these headings do?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -376,29 +171,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "a poem",
-      "a story",
-      "a how-to text"
+      "Put a character's adventure in time order.",
+      "Rank foods from best to worst.",
+      "Group facts about different parts of a topic."
     ],
-    "correct": 2,
-    "explanation": "a how-to text is the best answer.",
-    "structuredExplanation": {
-      "summary": "a how-to text is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
     "difficulty": 1,
     "difficultyTier": "recognise",
-    "sequencePriority": 13
+    "sequencePriority": 6,
+    "correct": 2,
+    "explanation": "Each heading gathers a related set of facts.\nHint: Read the whole example and check what the question asks.",
+    "structuredExplanation": {
+      "summary": "Each heading gathers a related set of facts.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1la03-p-014",
+    "id": "ac9e1la03-er1-p-007",
     "curriculumCode": "AC9E1LA03",
     "bank": "practice",
-    "skill": "explore how texts are organised according to their purpose, such as to recount, narrate, express opinion, inform, report and explain",
+    "skill": "text organisation matched to purpose",
     "printable": true,
     "type": "single",
-    "question": "Which text often has characters and a problem?",
-    "audioPrompt": "Which text often has characters and a problem?",
+    "question": "Which opening best begins a recount of a class walk?",
+    "audioPrompt": "Which opening best begins a recount of a class walk?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -406,29 +202,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "a label",
-      "a story",
-      "a fact list"
+      "This morning our class walked to the creek.",
+      "Creeks carry flowing water.",
+      "Everyone should visit a creek."
     ],
-    "correct": 1,
-    "explanation": "a story is the best answer.",
-    "structuredExplanation": {
-      "summary": "a story is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
     "difficulty": 1,
     "difficultyTier": "recognise",
-    "sequencePriority": 14
+    "sequencePriority": 7,
+    "correct": 0,
+    "explanation": "A recount begins by setting up an event that happened.\nHint: Read the whole example and check what the question asks.",
+    "structuredExplanation": {
+      "summary": "A recount begins by setting up an event that happened.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1la03-p-015",
+    "id": "ac9e1la03-er1-p-008",
     "curriculumCode": "AC9E1LA03",
     "bank": "practice",
-    "skill": "explore how texts are organised according to their purpose, such as to recount, narrate, express opinion, inform, report and explain",
+    "skill": "text organisation matched to purpose",
     "printable": true,
     "type": "single",
-    "question": "Read: “Rain falls from clouds.” Is this fact or opinion?",
-    "audioPrompt": "Read: “Rain falls from clouds.” Is this fact or opinion?",
+    "question": "Which sentence best ends an opinion about keeping a reading corner?",
+    "audioPrompt": "Which sentence best ends an opinion about keeping a reading corner?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -436,29 +233,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "fact",
-      "opinion",
-      "question"
+      "Some books have hard covers.",
+      "That is why I think we should keep it.",
+      "First we opened the classroom door."
     ],
-    "correct": 0,
-    "explanation": "fact is the best answer.",
-    "structuredExplanation": {
-      "summary": "fact is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
     "difficulty": 1,
     "difficultyTier": "recognise",
-    "sequencePriority": 15
+    "sequencePriority": 8,
+    "correct": 1,
+    "explanation": "The ending returns to the opinion being supported.\nHint: Read the whole example and check what the question asks.",
+    "structuredExplanation": {
+      "summary": "The ending returns to the opinion being supported.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1la03-p-016",
+    "id": "ac9e1la03-er1-p-009",
     "curriculumCode": "AC9E1LA03",
     "bank": "practice",
-    "skill": "explore how texts are organised according to their purpose, such as to recount, narrate, express opinion, inform, report and explain",
+    "skill": "text organisation matched to purpose",
     "printable": true,
     "type": "single",
-    "question": "Read: “Please choose our new cup. It is the best!” What is the writer trying to do?",
-    "audioPrompt": "Read: “Please choose our new cup. It is the best!” What is the writer trying to do?",
+    "question": "'First we mixed the batter. ___ we poured it into the pan.' Which word keeps this recount in order?",
+    "audioPrompt": "'First we mixed the batter. ___ we poured it into the pan.' Which word keeps this recount in order?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -466,59 +264,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "tell a story",
-      "give directions",
-      "persuade"
+      "Before",
+      "Never",
+      "Then"
     ],
-    "correct": 2,
-    "explanation": "persuade is the best answer.",
-    "structuredExplanation": {
-      "summary": "persuade is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 16
-  },
-  {
-    "id": "ac9e1la03-p-017",
-    "curriculumCode": "AC9E1LA03",
-    "bank": "practice",
-    "skill": "explore how texts are organised according to their purpose, such as to recount, narrate, express opinion, inform, report and explain",
-    "printable": true,
-    "type": "single",
-    "question": "Read: “First we mixed the flour. Then we baked the cake.” What kind of text is this?",
-    "audioPrompt": "Read: “First we mixed the flour. Then we baked the cake.” What kind of text is this?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "a made-up story",
-      "an opinion",
-      "a recount"
-    ],
-    "correct": 2,
-    "explanation": "a recount is the best answer.",
-    "structuredExplanation": {
-      "summary": "a recount is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
     "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 17
+    "difficultyTier": "apply",
+    "sequencePriority": 9,
+    "correct": 2,
+    "explanation": "Then signals the next event after mixing.\nHint: Read the whole example and check what the question asks.",
+    "structuredExplanation": {
+      "summary": "Then signals the next event after mixing.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1la03-p-018",
+    "id": "ac9e1la03-er1-p-010",
     "curriculumCode": "AC9E1LA03",
     "bank": "practice",
-    "skill": "explore how texts are organised according to their purpose, such as to recount, narrate, express opinion, inform, report and explain",
+    "skill": "text organisation matched to purpose",
     "printable": true,
     "type": "single",
-    "question": "Read: “A duck needs food and water. It is a living thing.” What is this text for?",
-    "audioPrompt": "Read: “A duck needs food and water. It is a living thing.” What is this text for?",
+    "question": "A story begins with a rabbit's kite caught in a tree. Which ending solves that problem?",
+    "audioPrompt": "A story begins with a rabbit's kite caught in a tree. Which ending solves that problem?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -526,29 +295,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "to give facts",
-      "to give an order",
-      "to tell a joke"
+      "A tall friend lifts the kite down.",
+      "The rabbit notices the sky is blue.",
+      "Kites come in many shapes."
     ],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 10,
     "correct": 0,
-    "explanation": "to give facts is the best answer.",
+    "explanation": "Retrieving the kite resolves the problem introduced at the start.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "to give facts is the best answer."
+      "summary": "Retrieving the kite resolves the problem introduced at the start.",
+      "hint": "Read the whole example and check what the question asks."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 18
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1la03-p-019",
+    "id": "ac9e1la03-er1-p-011",
     "curriculumCode": "AC9E1LA03",
     "bank": "practice",
-    "skill": "explore how texts are organised according to their purpose, such as to recount, narrate, express opinion, inform, report and explain",
+    "skill": "text organisation matched to purpose",
     "printable": true,
     "type": "single",
-    "question": "Read: “I think the school is best because it is fun.” What does this text give?",
-    "audioPrompt": "Read: “I think the school is best because it is fun.” What does this text give?",
+    "question": "You are writing an animal report. Which sentence belongs under 'Food'?",
+    "audioPrompt": "You are writing an animal report. Which sentence belongs under 'Food'?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -556,29 +326,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "a greeting",
-      "an opinion",
-      "a recipe"
+      "The possum has a furry tail.",
+      "The possum eats leaves and fruit.",
+      "The possum sleeps in a tree hollow."
     ],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 11,
     "correct": 1,
-    "explanation": "an opinion is the best answer.",
+    "explanation": "This fact is about what the animal eats.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "an opinion is the best answer."
+      "summary": "This fact is about what the animal eats.",
+      "hint": "Read the whole example and check what the question asks."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 19
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1la03-p-020",
+    "id": "ac9e1la03-er1-p-012",
     "curriculumCode": "AC9E1LA03",
     "bank": "practice",
-    "skill": "explore how texts are organised according to their purpose, such as to recount, narrate, express opinion, inform, report and explain",
+    "skill": "text organisation matched to purpose",
     "printable": true,
     "type": "single",
-    "question": "Read: “The tiny goat flew to the moon.” What kind of text is this?",
-    "audioPrompt": "Read: “The tiny goat flew to the moon.” What kind of text is this?",
+    "question": "A text explains why a wet towel becomes dry. Which sentence fits its purpose?",
+    "audioPrompt": "A text explains why a wet towel becomes dry. Which sentence fits its purpose?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -586,29 +357,61 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "a made-up story",
-      "a list",
-      "a fact report"
+      "This towel is my favourite colour.",
+      "Yesterday I carried a towel to the beach.",
+      "Water slowly leaves the towel and goes into the air."
     ],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 12,
+    "correct": 2,
+    "explanation": "The first sentence explains the change rather than giving an opinion or recount.\nHint: Read the whole example and check what the question asks.",
+    "structuredExplanation": {
+      "summary": "The first sentence explains the change rather than giving an opinion or recount.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1la03-er1-p-013",
+    "curriculumCode": "AC9E1LA03",
+    "bank": "practice",
+    "skill": "text organisation matched to purpose",
+    "printable": true,
+    "type": "single",
+    "question": "'I think skipping is a good playground activity.' Which sentence should follow to support the opinion?",
+    "audioPrompt": "'I think skipping is a good playground activity.' Which sentence should follow to support the opinion?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "It gives us a way to exercise and have fun.",
+      "Skipping begins with the letter s.",
+      "Yesterday I left my rope at home."
+    ],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 13,
     "correct": 0,
-    "explanation": "a made-up story is the best answer.",
+    "explanation": "The benefits support the view that skipping is a good activity.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "a made-up story is the best answer."
+      "summary": "The benefits support the view that skipping is a good activity.",
+      "hint": "Read the whole example and check what the question asks."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 20
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1la03-p-021",
+    "id": "ac9e1la03-er1-p-014",
     "curriculumCode": "AC9E1LA03",
     "bank": "practice",
-    "skill": "explore how texts are organised according to their purpose, such as to recount, narrate, express opinion, inform, report and explain",
+    "skill": "text organisation matched to purpose",
     "printable": true,
     "type": "single",
-    "question": "Which text would have steps and numbered instructions?",
-    "audioPrompt": "Which text would have steps and numbered instructions?",
+    "question": "A recount says: 'At last we reached home.' Where does this sentence fit best?",
+    "audioPrompt": "A recount says: 'At last we reached home.' Where does this sentence fit best?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -616,29 +419,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "a poem",
-      "a how-to text",
-      "a story"
+      "Under a heading about animal food.",
+      "After the events of the trip.",
+      "Before anyone sets off."
     ],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 14,
     "correct": 1,
-    "explanation": "a how-to text is the best answer.",
+    "explanation": "At last signals the end of the sequence.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "a how-to text is the best answer."
+      "summary": "At last signals the end of the sequence.",
+      "hint": "Read the whole example and check what the question asks."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 21
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1la03-p-022",
+    "id": "ac9e1la03-er1-p-015",
     "curriculumCode": "AC9E1LA03",
     "bank": "practice",
-    "skill": "explore how texts are organised according to their purpose, such as to recount, narrate, express opinion, inform, report and explain",
+    "skill": "text organisation matched to purpose",
     "printable": true,
     "type": "single",
-    "question": "Which text often has characters and a problem?",
-    "audioPrompt": "Which text often has characters and a problem?",
+    "question": "Which pair shows two different ways to organise a text about a garden?",
+    "audioPrompt": "Which pair shows two different ways to organise a text about a garden?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -646,29 +450,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "a label",
-      "a fact list",
-      "a story"
+      "Two reports with the same headings.",
+      "Two recounts with only the names changed.",
+      "A recount in time order; a report grouped by plant facts."
     ],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 15,
     "correct": 2,
-    "explanation": "a story is the best answer.",
+    "explanation": "The first pair uses different structures for different purposes.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "a story is the best answer."
+      "summary": "The first pair uses different structures for different purposes.",
+      "hint": "Read the whole example and check what the question asks."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 22
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1la03-p-023",
+    "id": "ac9e1la03-er1-p-016",
     "curriculumCode": "AC9E1LA03",
     "bank": "practice",
-    "skill": "explore how texts are organised according to their purpose, such as to recount, narrate, express opinion, inform, report and explain",
+    "skill": "text organisation matched to purpose",
     "printable": true,
     "type": "single",
-    "question": "Read and choose: Read: “Rain falls from clouds.” Is this fact or opinion?",
-    "audioPrompt": "Read and choose: Read: “Rain falls from clouds.” Is this fact or opinion?",
+    "question": "A story says a bear wants to cross a stream, but the bridge is broken. What part of the story is this?",
+    "audioPrompt": "A story says a bear wants to cross a stream, but the bridge is broken. What part of the story is this?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -676,179 +481,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "opinion",
-      "fact",
-      "question"
+      "The problem the bear needs to solve.",
+      "A final solution to the problem.",
+      "A heading that groups facts."
     ],
-    "correct": 1,
-    "explanation": "fact is the best answer.",
-    "structuredExplanation": {
-      "summary": "fact is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
     "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 23
-  },
-  {
-    "id": "ac9e1la03-p-024",
-    "curriculumCode": "AC9E1LA03",
-    "bank": "practice",
-    "skill": "explore how texts are organised according to their purpose, such as to recount, narrate, express opinion, inform, report and explain",
-    "printable": true,
-    "type": "single",
-    "question": "Read: “Please choose our new kite. It is the best!” What is the writer trying to do?",
-    "audioPrompt": "Read: “Please choose our new kite. It is the best!” What is the writer trying to do?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "tell a story",
-      "persuade",
-      "give directions"
-    ],
-    "correct": 1,
-    "explanation": "persuade is the best answer.",
-    "structuredExplanation": {
-      "summary": "persuade is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 24
-  },
-  {
-    "id": "ac9e1la03-p-025",
-    "curriculumCode": "AC9E1LA03",
-    "bank": "practice",
-    "skill": "explore how texts are organised according to their purpose, such as to recount, narrate, express opinion, inform, report and explain",
-    "printable": true,
-    "type": "single",
-    "question": "Read and choose: Read: “First we mixed the flour. Then we baked the cake.” What kind of text is this?",
-    "audioPrompt": "Read and choose: Read: “First we mixed the flour. Then we baked the cake.” What kind of text is this?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "an opinion",
-      "a made-up story",
-      "a recount"
-    ],
-    "correct": 2,
-    "explanation": "a recount is the best answer.",
-    "structuredExplanation": {
-      "summary": "a recount is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 25
-  },
-  {
-    "id": "ac9e1la03-p-026",
-    "curriculumCode": "AC9E1LA03",
-    "bank": "practice",
-    "skill": "explore how texts are organised according to their purpose, such as to recount, narrate, express opinion, inform, report and explain",
-    "printable": true,
-    "type": "single",
-    "question": "Read: “A goat needs food and water. It is a living thing.” What is this text for?",
-    "audioPrompt": "Read: “A goat needs food and water. It is a living thing.” What is this text for?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "to tell a joke",
-      "to give facts",
-      "to give an order"
-    ],
-    "correct": 1,
-    "explanation": "to give facts is the best answer.",
-    "structuredExplanation": {
-      "summary": "to give facts is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 26
-  },
-  {
-    "id": "ac9e1la03-p-027",
-    "curriculumCode": "AC9E1LA03",
-    "bank": "practice",
-    "skill": "explore how texts are organised according to their purpose, such as to recount, narrate, express opinion, inform, report and explain",
-    "printable": true,
-    "type": "single",
-    "question": "Read: “I think the shop is best because it is fun.” What does this text give?",
-    "audioPrompt": "Read: “I think the shop is best because it is fun.” What does this text give?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "a recipe",
-      "a greeting",
-      "an opinion"
-    ],
-    "correct": 2,
-    "explanation": "an opinion is the best answer.",
-    "structuredExplanation": {
-      "summary": "an opinion is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 27
-  },
-  {
-    "id": "ac9e1la03-p-028",
-    "curriculumCode": "AC9E1LA03",
-    "bank": "practice",
-    "skill": "explore how texts are organised according to their purpose, such as to recount, narrate, express opinion, inform, report and explain",
-    "printable": true,
-    "type": "single",
-    "question": "Read: “The tiny dog flew to the moon.” What kind of text is this?",
-    "audioPrompt": "Read: “The tiny dog flew to the moon.” What kind of text is this?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "a made-up story",
-      "a list",
-      "a fact report"
-    ],
+    "difficultyTier": "apply",
+    "sequencePriority": 16,
     "correct": 0,
-    "explanation": "a made-up story is the best answer.",
+    "explanation": "The broken bridge prevents the bear from reaching its goal.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "a made-up story is the best answer."
+      "summary": "The broken bridge prevents the bear from reaching its goal.",
+      "hint": "Read the whole example and check what the question asks."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 28
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1la03-p-029",
+    "id": "ac9e1la03-er1-p-017",
     "curriculumCode": "AC9E1LA03",
     "bank": "practice",
-    "skill": "explore how texts are organised according to their purpose, such as to recount, narrate, express opinion, inform, report and explain",
+    "skill": "text organisation matched to purpose",
     "printable": true,
     "type": "single",
-    "question": "Read and choose: Which text would have steps and numbered instructions?",
-    "audioPrompt": "Read and choose: Which text would have steps and numbered instructions?",
+    "question": "'Our pet is a rabbit. Rabbits have long ears. Our rabbit ate a leaf yesterday. Rabbits eat plants.' Which sentence interrupts the general animal facts?",
+    "audioPrompt": "'Our pet is a rabbit. Rabbits have long ears. Our rabbit ate a leaf yesterday. Rabbits eat plants.' Which sentence interrupts the general animal facts?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -856,59 +512,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "a poem",
-      "a story",
-      "a how-to text"
+      "Rabbits eat plants.",
+      "Our rabbit ate a leaf yesterday.",
+      "Rabbits have long ears."
     ],
-    "correct": 2,
-    "explanation": "a how-to text is the best answer.",
-    "structuredExplanation": {
-      "summary": "a how-to text is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 29
-  },
-  {
-    "id": "ac9e1la03-p-030",
-    "curriculumCode": "AC9E1LA03",
-    "bank": "practice",
-    "skill": "explore how texts are organised according to their purpose, such as to recount, narrate, express opinion, inform, report and explain",
-    "printable": true,
-    "type": "single",
-    "question": "Read and choose: Which text often has characters and a problem?",
-    "audioPrompt": "Read and choose: Which text often has characters and a problem?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "a label",
-      "a story",
-      "a fact list"
-    ],
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 17,
     "correct": 1,
-    "explanation": "a story is the best answer.",
+    "explanation": "A single event about one rabbit shifts from general information towards a recount.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "a story is the best answer."
+      "summary": "A single event about one rabbit shifts from general information towards a recount.",
+      "hint": "Read the whole example and check what the question asks."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 30
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1la03-p-031",
+    "id": "ac9e1la03-er1-p-018",
     "curriculumCode": "AC9E1LA03",
     "bank": "practice",
-    "skill": "explore how texts are organised according to their purpose, such as to recount, narrate, express opinion, inform, report and explain",
+    "skill": "text organisation matched to purpose",
     "printable": true,
     "type": "single",
-    "question": "Read: “Rain falls from clouds.” Is this fact or opinion?",
-    "audioPrompt": "Read: “Rain falls from clouds.” Is this fact or opinion?",
+    "question": "A writer wants to explain why a ball rolled downhill. Which plan fits?",
+    "audioPrompt": "A writer wants to explain why a ball rolled downhill. Which plan fits?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -916,29 +543,61 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "fact",
-      "question",
-      "opinion"
+      "State that balls are best, then give reasons to buy one.",
+      "List yesterday's games in time order.",
+      "Describe the slope, then explain how it made the ball roll."
     ],
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 18,
+    "correct": 2,
+    "explanation": "An explanation connects the event with what caused it.\nHint: Read the whole example and check what the question asks.",
+    "structuredExplanation": {
+      "summary": "An explanation connects the event with what caused it.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1la03-er1-p-019",
+    "curriculumCode": "AC9E1LA03",
+    "bank": "practice",
+    "skill": "text organisation matched to purpose",
+    "printable": true,
+    "type": "single",
+    "question": "A story has a problem and a solution, but no beginning. What should the writer add first?",
+    "audioPrompt": "A story has a problem and a solution, but no beginning. What should the writer add first?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Who the story is about and where it starts.",
+      "A list of all words that rhyme.",
+      "An opinion about the best ending."
+    ],
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 19,
     "correct": 0,
-    "explanation": "fact is the best answer.",
+    "explanation": "Introducing character and setting helps the reader follow the later problem.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "fact is the best answer."
+      "summary": "Introducing character and setting helps the reader follow the later problem.",
+      "hint": "Read the whole example and check what the question asks."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 31
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1la03-p-032",
+    "id": "ac9e1la03-er1-p-020",
     "curriculumCode": "AC9E1LA03",
     "bank": "practice",
-    "skill": "explore how texts are organised according to their purpose, such as to recount, narrate, express opinion, inform, report and explain",
+    "skill": "text organisation matched to purpose",
     "printable": true,
     "type": "single",
-    "question": "Read: “Please choose our new hat. It is the best!” What is the writer trying to do?",
-    "audioPrompt": "Read: “Please choose our new hat. It is the best!” What is the writer trying to do?",
+    "question": "Read: 'We need a shady seat. A tree gives shade, so a seat beneath it would help.' How is this short opinion organised?",
+    "audioPrompt": "Read: 'We need a shady seat. A tree gives shade, so a seat beneath it would help.' How is this short opinion organised?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -946,59 +605,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "tell a story",
-      "give directions",
-      "persuade"
+      "A sequence of yesterday's events.",
+      "A need followed by a supporting reason and suggestion.",
+      "Three unrelated facts about furniture."
     ],
-    "correct": 2,
-    "explanation": "persuade is the best answer.",
-    "structuredExplanation": {
-      "summary": "persuade is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 32
-  },
-  {
-    "id": "ac9e1la03-p-033",
-    "curriculumCode": "AC9E1LA03",
-    "bank": "practice",
-    "skill": "explore how texts are organised according to their purpose, such as to recount, narrate, express opinion, inform, report and explain",
-    "printable": true,
-    "type": "single",
-    "question": "Read: “First we mixed the flour. Then we baked the cake.” What kind of text is this?",
-    "audioPrompt": "Read: “First we mixed the flour. Then we baked the cake.” What kind of text is this?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "a made-up story",
-      "a recount",
-      "an opinion"
-    ],
-    "correct": 1,
-    "explanation": "a recount is the best answer.",
-    "structuredExplanation": {
-      "summary": "a recount is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
     "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 33
+    "difficultyTier": "reason",
+    "sequencePriority": 20,
+    "correct": 1,
+    "explanation": "The reason about shade supports where the seat should go.\nHint: Read the whole example and check what the question asks.",
+    "structuredExplanation": {
+      "summary": "The reason about shade supports where the seat should go.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1la03-p-034",
+    "id": "ac9e1la03-er1-p-021",
     "curriculumCode": "AC9E1LA03",
     "bank": "practice",
-    "skill": "explore how texts are organised according to their purpose, such as to recount, narrate, express opinion, inform, report and explain",
+    "skill": "text organisation matched to purpose",
     "printable": true,
     "type": "single",
-    "question": "Read: “A dog needs food and water. It is a living thing.” What is this text for?",
-    "audioPrompt": "Read: “A dog needs food and water. It is a living thing.” What is this text for?",
+    "question": "A report about frogs has sections on bodies, food and habitats. Where should 'Frogs catch small insects' go?",
+    "audioPrompt": "A report about frogs has sections on bodies, food and habitats. Where should 'Frogs catch small insects' go?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -1006,29 +636,61 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "to give facts",
-      "to give an order",
-      "to tell a joke"
+      "In the bodies section.",
+      "In a list of story characters.",
+      "In the food section."
     ],
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 21,
+    "correct": 2,
+    "explanation": "Catching insects describes feeding, so it belongs with food facts.\nHint: Read the whole example and check what the question asks.",
+    "structuredExplanation": {
+      "summary": "Catching insects describes feeding, so it belongs with food facts.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1la03-er1-p-022",
+    "curriculumCode": "AC9E1LA03",
+    "bank": "practice",
+    "skill": "text organisation matched to purpose",
+    "printable": true,
+    "type": "single",
+    "question": "A recount jumps from arriving home to boarding the bus at the start. What change would make it easier to follow?",
+    "audioPrompt": "A recount jumps from arriving home to boarding the bus at the start. What change would make it easier to follow?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Put the bus journey before arriving home.",
+      "Remove every time word.",
+      "Add an unrelated animal fact."
+    ],
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 22,
     "correct": 0,
-    "explanation": "to give facts is the best answer.",
+    "explanation": "Recounts are easier to follow when events are presented in their actual order.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "to give facts is the best answer."
+      "summary": "Recounts are easier to follow when events are presented in their actual order.",
+      "hint": "Read the whole example and check what the question asks."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 34
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1la03-p-035",
+    "id": "ac9e1la03-er1-p-023",
     "curriculumCode": "AC9E1LA03",
     "bank": "practice",
-    "skill": "explore how texts are organised according to their purpose, such as to recount, narrate, express opinion, inform, report and explain",
+    "skill": "text organisation matched to purpose",
     "printable": true,
     "type": "single",
-    "question": "Read: “I think the camp is best because it is fun.” What does this text give?",
-    "audioPrompt": "Read: “I think the camp is best because it is fun.” What does this text give?",
+    "question": "Two texts begin 'The seed opened.' One tells a made-up seed adventure. The other explains how a seed sprouts. What should differ?",
+    "audioPrompt": "Two texts begin 'The seed opened.' One tells a made-up seed adventure. The other explains how a seed sprouts. What should differ?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -1036,29 +698,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "a greeting",
-      "an opinion",
-      "a recipe"
+      "Both must end with the writer's favourite plant.",
+      "The adventure develops a plot; the explanation connects steps and causes.",
+      "Both must give the seed a talking friend."
     ],
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 23,
     "correct": 1,
-    "explanation": "an opinion is the best answer.",
+    "explanation": "The purpose determines how the rest of each text develops.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "an opinion is the best answer."
+      "summary": "The purpose determines how the rest of each text develops.",
+      "hint": "Read the whole example and check what the question asks."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 35
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1la03-p-036",
+    "id": "ac9e1la03-er1-p-024",
     "curriculumCode": "AC9E1LA03",
     "bank": "practice",
-    "skill": "explore how texts are organised according to their purpose, such as to recount, narrate, express opinion, inform, report and explain",
+    "skill": "text organisation matched to purpose",
     "printable": true,
     "type": "single",
-    "question": "Read: “The tiny fox flew to the moon.” What kind of text is this?",
-    "audioPrompt": "Read: “The tiny fox flew to the moon.” What kind of text is this?",
+    "question": "A paragraph says: 'I like winter. First, my dog ran away. Frogs have wet skin.' Why is it hard to follow?",
+    "audioPrompt": "A paragraph says: 'I like winter. First, my dog ran away. Frogs have wet skin.' Why is it hard to follow?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -1066,378 +729,20 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "a list",
-      "a made-up story",
-      "a fact report"
+      "Every sentence is too long to read.",
+      "All three sentences explain the same idea.",
+      "The sentences change topic and purpose without a clear connection."
     ],
-    "correct": 1,
-    "explanation": "a made-up story is the best answer.",
-    "structuredExplanation": {
-      "summary": "a made-up story is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
     "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 36
-  },
-  {
-    "id": "ac9e1la03-p-037",
-    "curriculumCode": "AC9E1LA03",
-    "bank": "practice",
-    "skill": "explore how texts are organised according to their purpose, such as to recount, narrate, express opinion, inform, report and explain",
-    "printable": true,
-    "type": "single",
-    "question": "Which text would have steps and numbered instructions?",
-    "audioPrompt": "Which text would have steps and numbered instructions?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "a how-to text",
-      "a story",
-      "a poem"
-    ],
-    "correct": 0,
-    "explanation": "a how-to text is the best answer.",
-    "structuredExplanation": {
-      "summary": "a how-to text is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 37
-  },
-  {
-    "id": "ac9e1la03-p-038",
-    "curriculumCode": "AC9E1LA03",
-    "bank": "practice",
-    "skill": "explore how texts are organised according to their purpose, such as to recount, narrate, express opinion, inform, report and explain",
-    "printable": true,
-    "type": "single",
-    "question": "Which text often has characters and a problem?",
-    "audioPrompt": "Which text often has characters and a problem?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "a fact list",
-      "a story",
-      "a label"
-    ],
-    "correct": 1,
-    "explanation": "a story is the best answer.",
-    "structuredExplanation": {
-      "summary": "a story is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 38
-  },
-  {
-    "id": "ac9e1la03-p-039",
-    "curriculumCode": "AC9E1LA03",
-    "bank": "practice",
-    "skill": "explore how texts are organised according to their purpose, such as to recount, narrate, express opinion, inform, report and explain",
-    "printable": true,
-    "type": "single",
-    "question": "Read: “Rain falls from clouds.” Is this fact or opinion?",
-    "audioPrompt": "Read: “Rain falls from clouds.” Is this fact or opinion?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "question",
-      "opinion",
-      "fact"
-    ],
+    "difficultyTier": "reason",
+    "sequencePriority": 24,
     "correct": 2,
-    "explanation": "fact is the best answer.",
+    "explanation": "The text does not develop one recount, opinion or information topic coherently.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "fact is the best answer."
+      "summary": "The text does not develop one recount, opinion or information topic coherently.",
+      "hint": "Read the whole example and check what the question asks."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 39
-  },
-  {
-    "id": "ac9e1la03-p-040",
-    "curriculumCode": "AC9E1LA03",
-    "bank": "practice",
-    "skill": "explore how texts are organised according to their purpose, such as to recount, narrate, express opinion, inform, report and explain",
-    "printable": true,
-    "type": "single",
-    "question": "Read: “Please choose our new book. It is the best!” What is the writer trying to do?",
-    "audioPrompt": "Read: “Please choose our new book. It is the best!” What is the writer trying to do?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "tell a story",
-      "persuade",
-      "give directions"
-    ],
-    "correct": 1,
-    "explanation": "persuade is the best answer.",
-    "structuredExplanation": {
-      "summary": "persuade is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 40
-  },
-  {
-    "id": "ac9e1la03-p-041",
-    "curriculumCode": "AC9E1LA03",
-    "bank": "practice",
-    "skill": "explore how texts are organised according to their purpose, such as to recount, narrate, express opinion, inform, report and explain",
-    "printable": true,
-    "type": "single",
-    "question": "Look and choose: Read: “First we mixed the flour. Then we baked the cake.” What kind of text is this?",
-    "audioPrompt": "Look and choose: Read: “First we mixed the flour. Then we baked the cake.” What kind of text is this?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "an opinion",
-      "a made-up story",
-      "a recount"
-    ],
-    "correct": 2,
-    "explanation": "a recount is the best answer.",
-    "structuredExplanation": {
-      "summary": "a recount is the best answer."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 41,
-    "qualitySchema": "reviewed-year1-english-v1"
-  },
-  {
-    "id": "ac9e1la03-p-042",
-    "curriculumCode": "AC9E1LA03",
-    "bank": "practice",
-    "skill": "explore how texts are organised according to their purpose, such as to recount, narrate, express opinion, inform, report and explain",
-    "printable": true,
-    "type": "single",
-    "question": "Read: “A fox needs food and water. It is a living thing.” What is this text for?",
-    "audioPrompt": "Read: “A fox needs food and water. It is a living thing.” What is this text for?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "to tell a joke",
-      "to give an order",
-      "to give facts"
-    ],
-    "correct": 2,
-    "explanation": "to give facts is the best answer.",
-    "structuredExplanation": {
-      "summary": "to give facts is the best answer."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 42,
-    "qualitySchema": "reviewed-year1-english-v1"
-  },
-  {
-    "id": "ac9e1la03-p-043",
-    "curriculumCode": "AC9E1LA03",
-    "bank": "practice",
-    "skill": "explore how texts are organised according to their purpose, such as to recount, narrate, express opinion, inform, report and explain",
-    "printable": true,
-    "type": "single",
-    "question": "Read: “I think the beach is best because it is fun.” What does this text give?",
-    "audioPrompt": "Read: “I think the beach is best because it is fun.” What does this text give?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "an opinion",
-      "a greeting",
-      "a recipe"
-    ],
-    "correct": 0,
-    "explanation": "an opinion is the best answer.",
-    "structuredExplanation": {
-      "summary": "an opinion is the best answer."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 43,
-    "qualitySchema": "reviewed-year1-english-v1"
-  },
-  {
-    "id": "ac9e1la03-p-044",
-    "curriculumCode": "AC9E1LA03",
-    "bank": "practice",
-    "skill": "explore how texts are organised according to their purpose, such as to recount, narrate, express opinion, inform, report and explain",
-    "printable": true,
-    "type": "single",
-    "question": "Read: “The tiny duck flew to the moon.” What kind of text is this?",
-    "audioPrompt": "Read: “The tiny duck flew to the moon.” What kind of text is this?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "a fact report",
-      "a list",
-      "a made-up story"
-    ],
-    "correct": 2,
-    "explanation": "a made-up story is the best answer.",
-    "structuredExplanation": {
-      "summary": "a made-up story is the best answer."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 44,
-    "qualitySchema": "reviewed-year1-english-v1"
-  },
-  {
-    "id": "ac9e1la03-p-045",
-    "curriculumCode": "AC9E1LA03",
-    "bank": "practice",
-    "skill": "explore how texts are organised according to their purpose, such as to recount, narrate, express opinion, inform, report and explain",
-    "printable": true,
-    "type": "single",
-    "question": "Read and choose: Which text would have steps and numbered instructions?",
-    "audioPrompt": "Read and choose: Which text would have steps and numbered instructions?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "a how-to text",
-      "a story",
-      "a poem"
-    ],
-    "correct": 0,
-    "explanation": "a how-to text is the best answer.",
-    "structuredExplanation": {
-      "summary": "a how-to text is the best answer."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 45,
-    "qualitySchema": "reviewed-year1-english-v1"
-  },
-  {
-    "id": "ac9e1la03-p-046",
-    "curriculumCode": "AC9E1LA03",
-    "bank": "practice",
-    "skill": "explore how texts are organised according to their purpose, such as to recount, narrate, express opinion, inform, report and explain",
-    "printable": true,
-    "type": "single",
-    "question": "Read and choose: Which text often has characters and a problem?",
-    "audioPrompt": "Read and choose: Which text often has characters and a problem?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "a label",
-      "a fact list",
-      "a story"
-    ],
-    "correct": 2,
-    "explanation": "a story is the best answer.",
-    "structuredExplanation": {
-      "summary": "a story is the best answer."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 46,
-    "qualitySchema": "reviewed-year1-english-v1"
-  },
-  {
-    "id": "ac9e1la03-p-047",
-    "curriculumCode": "AC9E1LA03",
-    "bank": "practice",
-    "skill": "explore how texts are organised according to their purpose, such as to recount, narrate, express opinion, inform, report and explain",
-    "printable": true,
-    "type": "single",
-    "question": "Read: “Rain falls from clouds.” Is this fact or opinion?",
-    "audioPrompt": "Read: “Rain falls from clouds.” Is this fact or opinion?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "question",
-      "fact",
-      "opinion"
-    ],
-    "correct": 1,
-    "explanation": "fact is the best answer.",
-    "structuredExplanation": {
-      "summary": "fact is the best answer."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 47,
-    "qualitySchema": "reviewed-year1-english-v1"
-  },
-  {
-    "id": "ac9e1la03-p-048",
-    "curriculumCode": "AC9E1LA03",
-    "bank": "practice",
-    "skill": "explore how texts are organised according to their purpose, such as to recount, narrate, express opinion, inform, report and explain",
-    "printable": true,
-    "type": "single",
-    "question": "Read: “Please choose our new sock. It is the best!” What is the writer trying to do?",
-    "audioPrompt": "Read: “Please choose our new sock. It is the best!” What is the writer trying to do?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "give directions",
-      "tell a story",
-      "persuade"
-    ],
-    "correct": 2,
-    "explanation": "persuade is the best answer.",
-    "structuredExplanation": {
-      "summary": "persuade is the best answer."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 48,
-    "qualitySchema": "reviewed-year1-english-v1"
+    "qualitySchema": "production-v1"
   }
 ];
+window.quizQuestions = window.skillrPracticeQuestions;

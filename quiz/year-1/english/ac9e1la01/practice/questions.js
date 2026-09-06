@@ -1,14 +1,14 @@
 "use strict";
 window.skillrPracticeQuestions = [
   {
-    "id": "ac9e1la01-p-001",
+    "id": "ac9e1la01-er1-p-001",
     "curriculumCode": "AC9E1LA01",
     "bank": "practice",
-    "skill": "understand how language, facial expressions and gestures are used to interact with others when asking for and providing information, making offers, exclaiming, requesting and giving commands",
+    "skill": "language, facial expressions and gestures in interactions",
     "printable": true,
     "type": "single",
-    "question": "Mia says, “May I use your hat, please?” What is Mia doing?",
-    "audioPrompt": "Mia says, “May I use your hat, please?” What is Mia doing?",
+    "question": "You need to know where the library is. What could you ask?",
+    "audioPrompt": "You need to know where the library is. What could you ask?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -16,269 +16,61 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "giving news",
-      "giving an order",
-      "asking politely"
+      "Where is the library?",
+      "The library is open.",
+      "Please open the library."
     ],
-    "correct": 2,
-    "explanation": "asking politely is the best answer.",
-    "structuredExplanation": {
-      "summary": "asking politely is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
     "difficulty": 1,
     "difficultyTier": "recognise",
-    "sequencePriority": 1
-  },
-  {
-    "id": "ac9e1la01-p-002",
-    "curriculumCode": "AC9E1LA01",
-    "bank": "practice",
-    "skill": "understand how language, facial expressions and gestures are used to interact with others when asking for and providing information, making offers, exclaiming, requesting and giving commands",
-    "printable": true,
-    "type": "single",
-    "question": "Ben points to the door and says, “Please come in.” What does Ben want?",
-    "audioPrompt": "Ben points to the door and says, “Please come in.” What does Ben want?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "sit down",
-      "come in",
-      "run away"
-    ],
-    "correct": 1,
-    "explanation": "come in is the best answer.",
-    "structuredExplanation": {
-      "summary": "come in is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 2
-  },
-  {
-    "id": "ac9e1la01-p-003",
-    "curriculumCode": "AC9E1LA01",
-    "bank": "practice",
-    "skill": "understand how language, facial expressions and gestures are used to interact with others when asking for and providing information, making offers, exclaiming, requesting and giving commands",
-    "printable": true,
-    "type": "single",
-    "question": "Sam smiles and says, “I can help you.” What is Sam doing?",
-    "audioPrompt": "Sam smiles and says, “I can help you.” What is Sam doing?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "giving an order",
-      "offering help",
-      "asking a question"
-    ],
-    "correct": 1,
-    "explanation": "offering help is the best answer.",
-    "structuredExplanation": {
-      "summary": "offering help is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 3
-  },
-  {
-    "id": "ac9e1la01-p-004",
-    "curriculumCode": "AC9E1LA01",
-    "bank": "practice",
-    "skill": "understand how language, facial expressions and gestures are used to interact with others when asking for and providing information, making offers, exclaiming, requesting and giving commands",
-    "printable": true,
-    "type": "single",
-    "question": "Kim asks, “Where is my book?” Which answer gives information?",
-    "audioPrompt": "Kim asks, “Where is my book?” Which answer gives information?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Please find it!",
-      "It is by the kite.",
-      "Wow!"
-    ],
-    "correct": 1,
-    "explanation": "It is by the kite. is the best answer.",
-    "structuredExplanation": {
-      "summary": "It is by the kite. is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 4
-  },
-  {
-    "id": "ac9e1la01-p-005",
-    "curriculumCode": "AC9E1LA01",
-    "bank": "practice",
-    "skill": "understand how language, facial expressions and gestures are used to interact with others when asking for and providing information, making offers, exclaiming, requesting and giving commands",
-    "printable": true,
-    "type": "single",
-    "question": "Ava says, “Wow! That frog can jump!” What does the exclamation mark show?",
-    "audioPrompt": "Ava says, “Wow! That frog can jump!” What does the exclamation mark show?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "a quiet question",
-      "a strong feeling",
-      "a list"
-    ],
-    "correct": 1,
-    "explanation": "a strong feeling is the best answer.",
-    "structuredExplanation": {
-      "summary": "a strong feeling is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 5
-  },
-  {
-    "id": "ac9e1la01-p-006",
-    "curriculumCode": "AC9E1LA01",
-    "bank": "practice",
-    "skill": "understand how language, facial expressions and gestures are used to interact with others when asking for and providing information, making offers, exclaiming, requesting and giving commands",
-    "printable": true,
-    "type": "single",
-    "question": "Which words are a kind request for the kite?",
-    "audioPrompt": "Which words are a kind request for the kite?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "The kite is red.",
-      "Give me the kite!",
-      "Please pass the kite."
-    ],
-    "correct": 2,
-    "explanation": "Please pass the kite. is the best answer.",
-    "structuredExplanation": {
-      "summary": "Please pass the kite. is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 6
-  },
-  {
-    "id": "ac9e1la01-p-007",
-    "curriculumCode": "AC9E1LA01",
-    "bank": "practice",
-    "skill": "understand how language, facial expressions and gestures are used to interact with others when asking for and providing information, making offers, exclaiming, requesting and giving commands",
-    "printable": true,
-    "type": "single",
-    "question": "Zoe nods while Ben speaks. What does the nod show?",
-    "audioPrompt": "Zoe nods while Ben speaks. What does the nod show?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Go away.",
-      "I am listening.",
-      "I am asleep."
-    ],
-    "correct": 1,
-    "explanation": "I am listening. is the best answer.",
-    "structuredExplanation": {
-      "summary": "I am listening. is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 7
-  },
-  {
-    "id": "ac9e1la01-p-008",
-    "curriculumCode": "AC9E1LA01",
-    "bank": "practice",
-    "skill": "understand how language, facial expressions and gestures are used to interact with others when asking for and providing information, making offers, exclaiming, requesting and giving commands",
-    "printable": true,
-    "type": "single",
-    "question": "Max says, “Stop!” with a firm voice. What is Max giving?",
-    "audioPrompt": "Max says, “Stop!” with a firm voice. What is Max giving?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "an offer",
-      "a command",
-      "a question"
-    ],
-    "correct": 1,
-    "explanation": "a command is the best answer.",
-    "structuredExplanation": {
-      "summary": "a command is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 8
-  },
-  {
-    "id": "ac9e1la01-p-009",
-    "curriculumCode": "AC9E1LA01",
-    "bank": "practice",
-    "skill": "understand how language, facial expressions and gestures are used to interact with others when asking for and providing information, making offers, exclaiming, requesting and giving commands",
-    "printable": true,
-    "type": "single",
-    "question": "Ben says, “May I use your book, please?” What is Ben doing?",
-    "audioPrompt": "Ben says, “May I use your book, please?” What is Ben doing?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "asking politely",
-      "giving an order",
-      "giving news"
-    ],
+    "sequencePriority": 1,
     "correct": 0,
-    "explanation": "asking politely is the best answer.",
+    "explanation": "Where asks for information about a place.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "asking politely is the best answer."
+      "summary": "Where asks for information about a place.",
+      "hint": "Read the whole example and check what the question asks."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1la01-er1-p-002",
+    "curriculumCode": "AC9E1LA01",
+    "bank": "practice",
+    "skill": "language, facial expressions and gestures in interactions",
+    "printable": true,
+    "type": "single",
+    "question": "A friend drops a stack of books. Which words offer help?",
+    "audioPrompt": "A friend drops a stack of books. Which words offer help?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Why are those books there?",
+      "Would you like me to carry some?",
+      "Can you carry my books?"
+    ],
     "difficulty": 1,
     "difficultyTier": "recognise",
-    "sequencePriority": 9
+    "sequencePriority": 2,
+    "correct": 1,
+    "explanation": "An offer says what you are willing to do for someone else.\nHint: Read the whole example and check what the question asks.",
+    "structuredExplanation": {
+      "summary": "An offer says what you are willing to do for someone else.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1la01-p-010",
+    "id": "ac9e1la01-er1-p-003",
     "curriculumCode": "AC9E1LA01",
     "bank": "practice",
-    "skill": "understand how language, facial expressions and gestures are used to interact with others when asking for and providing information, making offers, exclaiming, requesting and giving commands",
+    "skill": "language, facial expressions and gestures in interactions",
     "printable": true,
     "type": "single",
-    "question": "Sam points to the door and says, “Please come in.” What does Sam want?",
-    "audioPrompt": "Sam points to the door and says, “Please come in.” What does Sam want?",
+    "question": "A coach says, 'Stand behind the line.' What is the coach doing?",
+    "audioPrompt": "A coach says, 'Stand behind the line.' What is the coach doing?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -286,29 +78,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "run away",
-      "sit down",
-      "come in"
+      "Asking where the line is.",
+      "Offering to draw a line.",
+      "Giving an instruction."
     ],
-    "correct": 2,
-    "explanation": "come in is the best answer.",
-    "structuredExplanation": {
-      "summary": "come in is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
     "difficulty": 1,
     "difficultyTier": "recognise",
-    "sequencePriority": 10
+    "sequencePriority": 3,
+    "correct": 2,
+    "explanation": "The words tell the players what to do.\nHint: Read the whole example and check what the question asks.",
+    "structuredExplanation": {
+      "summary": "The words tell the players what to do.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1la01-p-011",
+    "id": "ac9e1la01-er1-p-004",
     "curriculumCode": "AC9E1LA01",
     "bank": "practice",
-    "skill": "understand how language, facial expressions and gestures are used to interact with others when asking for and providing information, making offers, exclaiming, requesting and giving commands",
+    "skill": "language, facial expressions and gestures in interactions",
     "printable": true,
     "type": "single",
-    "question": "Kim smiles and says, “I can help you.” What is Kim doing?",
-    "audioPrompt": "Kim smiles and says, “I can help you.” What is Kim doing?",
+    "question": "A child sees a huge rainbow and says, 'Wow, look at those colours!' What do the words show?",
+    "audioPrompt": "A child sees a huge rainbow and says, 'Wow, look at those colours!' What do the words show?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -316,29 +109,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "asking a question",
-      "offering help",
-      "giving an order"
+      "Surprise and excitement.",
+      "A request to borrow colours.",
+      "An answer about the time."
     ],
-    "correct": 1,
-    "explanation": "offering help is the best answer.",
-    "structuredExplanation": {
-      "summary": "offering help is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
     "difficulty": 1,
     "difficultyTier": "recognise",
-    "sequencePriority": 11
+    "sequencePriority": 4,
+    "correct": 0,
+    "explanation": "Wow and the exclamation express a strong reaction.\nHint: Read the whole example and check what the question asks.",
+    "structuredExplanation": {
+      "summary": "Wow and the exclamation express a strong reaction.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1la01-p-012",
+    "id": "ac9e1la01-er1-p-005",
     "curriculumCode": "AC9E1LA01",
     "bank": "practice",
-    "skill": "understand how language, facial expressions and gestures are used to interact with others when asking for and providing information, making offers, exclaiming, requesting and giving commands",
+    "skill": "language, facial expressions and gestures in interactions",
     "printable": true,
     "type": "single",
-    "question": "Ava asks, “Where is my sock?” Which answer gives information?",
-    "audioPrompt": "Ava asks, “Where is my sock?” Which answer gives information?",
+    "question": "'What time does the bus leave?' Which reply provides the information asked for?",
+    "audioPrompt": "'What time does the bus leave?' Which reply provides the information asked for?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -346,29 +140,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "It is by the kite.",
-      "Please find it!",
-      "Wow!"
+      "It is a yellow bus.",
+      "It leaves at nine.",
+      "It stops by the gate."
     ],
-    "correct": 0,
-    "explanation": "It is by the kite. is the best answer.",
-    "structuredExplanation": {
-      "summary": "It is by the kite. is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
     "difficulty": 1,
     "difficultyTier": "recognise",
-    "sequencePriority": 12
+    "sequencePriority": 5,
+    "correct": 1,
+    "explanation": "The question asks when, so the reply needs a time.\nHint: Read the whole example and check what the question asks.",
+    "structuredExplanation": {
+      "summary": "The question asks when, so the reply needs a time.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1la01-p-013",
+    "id": "ac9e1la01-er1-p-006",
     "curriculumCode": "AC9E1LA01",
     "bank": "practice",
-    "skill": "understand how language, facial expressions and gestures are used to interact with others when asking for and providing information, making offers, exclaiming, requesting and giving commands",
+    "skill": "language, facial expressions and gestures in interactions",
     "printable": true,
     "type": "single",
-    "question": "Leo says, “Wow! That fish can jump!” What does the exclamation mark show?",
-    "audioPrompt": "Leo says, “Wow! That fish can jump!” What does the exclamation mark show?",
+    "question": "You would like a turn with the paintbrush. Which words make a request?",
+    "audioPrompt": "You would like a turn with the paintbrush. Which words make a request?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -376,29 +171,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "a list",
-      "a quiet question",
-      "a strong feeling"
+      "I have finished painting.",
+      "Would you like my brush?",
+      "May I use it when you finish?"
     ],
-    "correct": 2,
-    "explanation": "a strong feeling is the best answer.",
-    "structuredExplanation": {
-      "summary": "a strong feeling is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
     "difficulty": 1,
     "difficultyTier": "recognise",
-    "sequencePriority": 13
+    "sequencePriority": 6,
+    "correct": 2,
+    "explanation": "A request asks another person to let you do or have something.\nHint: Read the whole example and check what the question asks.",
+    "structuredExplanation": {
+      "summary": "A request asks another person to let you do or have something.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1la01-p-014",
+    "id": "ac9e1la01-er1-p-007",
     "curriculumCode": "AC9E1LA01",
     "bank": "practice",
-    "skill": "understand how language, facial expressions and gestures are used to interact with others when asking for and providing information, making offers, exclaiming, requesting and giving commands",
+    "skill": "language, facial expressions and gestures in interactions",
     "printable": true,
     "type": "single",
-    "question": "Which words are a kind request for the hat?",
-    "audioPrompt": "Which words are a kind request for the hat?",
+    "question": "A child points to an empty chair and says, 'You can sit here.' What does pointing help show?",
+    "audioPrompt": "A child points to an empty chair and says, 'You can sit here.' What does pointing help show?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -406,29 +202,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Give me the hat!",
-      "Please pass the hat.",
-      "The hat is red."
+      "Which seat is being offered.",
+      "When the visitor arrived.",
+      "Why the chair was made."
     ],
-    "correct": 1,
-    "explanation": "Please pass the hat. is the best answer.",
-    "structuredExplanation": {
-      "summary": "Please pass the hat. is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
     "difficulty": 1,
     "difficultyTier": "recognise",
-    "sequencePriority": 14
+    "sequencePriority": 7,
+    "correct": 0,
+    "explanation": "The gesture gives a clear location for here.\nHint: Read the whole example and check what the question asks.",
+    "structuredExplanation": {
+      "summary": "The gesture gives a clear location for here.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1la01-p-015",
+    "id": "ac9e1la01-er1-p-008",
     "curriculumCode": "AC9E1LA01",
     "bank": "practice",
-    "skill": "understand how language, facial expressions and gestures are used to interact with others when asking for and providing information, making offers, exclaiming, requesting and giving commands",
+    "skill": "language, facial expressions and gestures in interactions",
     "printable": true,
     "type": "single",
-    "question": "Max nods while Sam speaks. What does the nod show?",
-    "audioPrompt": "Max nods while Sam speaks. What does the nod show?",
+    "question": "A friend asks, 'Did you enjoy the play?' You smile and say, 'Yes!' How do the words and expression work together?",
+    "audioPrompt": "A friend asks, 'Did you enjoy the play?' You smile and say, 'Yes!' How do the words and expression work together?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -436,29 +233,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "I am listening.",
-      "Go away.",
-      "I am asleep."
+      "The smile asks a new question.",
+      "Both show that you enjoyed it.",
+      "The smile changes yes to no."
     ],
-    "correct": 0,
-    "explanation": "I am listening. is the best answer.",
-    "structuredExplanation": {
-      "summary": "I am listening. is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
     "difficulty": 1,
     "difficultyTier": "recognise",
-    "sequencePriority": 15
+    "sequencePriority": 8,
+    "correct": 1,
+    "explanation": "In this situation, the smile supports the spoken answer.\nHint: Read the whole example and check what the question asks.",
+    "structuredExplanation": {
+      "summary": "In this situation, the smile supports the spoken answer.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1la01-p-016",
+    "id": "ac9e1la01-er1-p-009",
     "curriculumCode": "AC9E1LA01",
     "bank": "practice",
-    "skill": "understand how language, facial expressions and gestures are used to interact with others when asking for and providing information, making offers, exclaiming, requesting and giving commands",
+    "skill": "language, facial expressions and gestures in interactions",
     "printable": true,
     "type": "single",
-    "question": "Mia says, “Stop!” with a firm voice. What is Mia giving?",
-    "audioPrompt": "Mia says, “Stop!” with a firm voice. What is Mia giving?",
+    "question": "A librarian asks, 'Which book are you returning?' Which answer is most useful?",
+    "audioPrompt": "A librarian asks, 'Which book are you returning?' Which answer is most useful?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -466,59 +264,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "an offer",
-      "a question",
-      "a command"
+      "I return books each week.",
+      "I enjoyed reading at home.",
+      "The book about frogs."
     ],
-    "correct": 2,
-    "explanation": "a command is the best answer.",
-    "structuredExplanation": {
-      "summary": "a command is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 16
-  },
-  {
-    "id": "ac9e1la01-p-017",
-    "curriculumCode": "AC9E1LA01",
-    "bank": "practice",
-    "skill": "understand how language, facial expressions and gestures are used to interact with others when asking for and providing information, making offers, exclaiming, requesting and giving commands",
-    "printable": true,
-    "type": "single",
-    "question": "Sam says, “May I use your sock, please?” What is Sam doing?",
-    "audioPrompt": "Sam says, “May I use your sock, please?” What is Sam doing?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "giving an order",
-      "giving news",
-      "asking politely"
-    ],
-    "correct": 2,
-    "explanation": "asking politely is the best answer.",
-    "structuredExplanation": {
-      "summary": "asking politely is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
     "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 17
+    "difficultyTier": "apply",
+    "sequencePriority": 9,
+    "correct": 2,
+    "explanation": "Which asks you to identify the particular book.\nHint: Read the whole example and check what the question asks.",
+    "structuredExplanation": {
+      "summary": "Which asks you to identify the particular book.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1la01-p-018",
+    "id": "ac9e1la01-er1-p-010",
     "curriculumCode": "AC9E1LA01",
     "bank": "practice",
-    "skill": "understand how language, facial expressions and gestures are used to interact with others when asking for and providing information, making offers, exclaiming, requesting and giving commands",
+    "skill": "language, facial expressions and gestures in interactions",
     "printable": true,
     "type": "single",
-    "question": "Kim points to the door and says, “Please come in.” What does Kim want?",
-    "audioPrompt": "Kim points to the door and says, “Please come in.” What does Kim want?",
+    "question": "'Can I help you zip your bag?' Who is offering to help?",
+    "audioPrompt": "'Can I help you zip your bag?' Who is offering to help?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -526,29 +295,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "come in",
-      "run away",
-      "sit down"
+      "The person who says the words.",
+      "The person holding the bag.",
+      "Both people are asking for help."
     ],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 10,
     "correct": 0,
-    "explanation": "come in is the best answer.",
+    "explanation": "Can I help offers the speaker's help to the listener.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "come in is the best answer."
+      "summary": "Can I help offers the speaker's help to the listener.",
+      "hint": "Read the whole example and check what the question asks."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 18
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1la01-p-019",
+    "id": "ac9e1la01-er1-p-011",
     "curriculumCode": "AC9E1LA01",
     "bank": "practice",
-    "skill": "understand how language, facial expressions and gestures are used to interact with others when asking for and providing information, making offers, exclaiming, requesting and giving commands",
+    "skill": "language, facial expressions and gestures in interactions",
     "printable": true,
     "type": "single",
-    "question": "Ava smiles and says, “I can help you.” What is Ava doing?",
-    "audioPrompt": "Ava smiles and says, “I can help you.” What is Ava doing?",
+    "question": "You want someone to pass the glue. Which sentence asks them politely to act?",
+    "audioPrompt": "You want someone to pass the glue. Which sentence asks them politely to act?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -556,29 +326,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "giving an order",
-      "offering help",
-      "asking a question"
+      "I used the glue yesterday.",
+      "Could you pass the glue, please?",
+      "The glue is beside your hand."
     ],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 11,
     "correct": 1,
-    "explanation": "offering help is the best answer.",
+    "explanation": "The first sentence makes the requested action clear.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "offering help is the best answer."
+      "summary": "The first sentence makes the requested action clear.",
+      "hint": "Read the whole example and check what the question asks."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 19
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1la01-p-020",
+    "id": "ac9e1la01-er1-p-012",
     "curriculumCode": "AC9E1LA01",
     "bank": "practice",
-    "skill": "understand how language, facial expressions and gestures are used to interact with others when asking for and providing information, making offers, exclaiming, requesting and giving commands",
+    "skill": "language, facial expressions and gestures in interactions",
     "printable": true,
     "type": "single",
-    "question": "Leo asks, “Where is my bag?” Which answer gives information?",
-    "audioPrompt": "Leo asks, “Where is my bag?” Which answer gives information?",
+    "question": "A friend says, 'Come over here,' but you cannot tell where. What would make the message clearer?",
+    "audioPrompt": "A friend says, 'Come over here,' but you cannot tell where. What would make the message clearer?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -586,29 +357,61 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "It is by the kite.",
-      "Wow!",
-      "Please find it!"
+      "Say the same words more quietly.",
+      "Describe what they ate for lunch.",
+      "Point to the place they mean."
     ],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 12,
+    "correct": 2,
+    "explanation": "Pointing can show the location that here refers to.\nHint: Read the whole example and check what the question asks.",
+    "structuredExplanation": {
+      "summary": "Pointing can show the location that here refers to.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1la01-er1-p-013",
+    "curriculumCode": "AC9E1LA01",
+    "bank": "practice",
+    "skill": "language, facial expressions and gestures in interactions",
+    "printable": true,
+    "type": "single",
+    "question": "A teacher holds up a hand and says, 'Wait.' How do the gesture and word work together?",
+    "audioPrompt": "A teacher holds up a hand and says, 'Wait.' How do the gesture and word work together?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Both tell the class to pause.",
+      "The hand tells the class to hurry.",
+      "The word asks who raised a hand."
+    ],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 13,
     "correct": 0,
-    "explanation": "It is by the kite. is the best answer.",
+    "explanation": "The gesture supports the instruction to stop for a moment.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "It is by the kite. is the best answer."
+      "summary": "The gesture supports the instruction to stop for a moment.",
+      "hint": "Read the whole example and check what the question asks."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 20
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1la01-p-021",
+    "id": "ac9e1la01-er1-p-014",
     "curriculumCode": "AC9E1LA01",
     "bank": "practice",
-    "skill": "understand how language, facial expressions and gestures are used to interact with others when asking for and providing information, making offers, exclaiming, requesting and giving commands",
+    "skill": "language, facial expressions and gestures in interactions",
     "printable": true,
     "type": "single",
-    "question": "Zoe says, “Wow! That cat can jump!” What does the exclamation mark show?",
-    "audioPrompt": "Zoe says, “Wow! That cat can jump!” What does the exclamation mark show?",
+    "question": "'Please tell me how you made that tower.' What does the speaker want?",
+    "audioPrompt": "'Please tell me how you made that tower.' What does the speaker want?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -616,29 +419,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "a list",
-      "a strong feeling",
-      "a quiet question"
+      "An offer to lend more blocks.",
+      "Information about the method.",
+      "Permission to knock it down."
     ],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 14,
     "correct": 1,
-    "explanation": "a strong feeling is the best answer.",
+    "explanation": "How asks about the way something was done.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "a strong feeling is the best answer."
+      "summary": "How asks about the way something was done.",
+      "hint": "Read the whole example and check what the question asks."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 21
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1la01-p-022",
+    "id": "ac9e1la01-er1-p-015",
     "curriculumCode": "AC9E1LA01",
     "bank": "practice",
-    "skill": "understand how language, facial expressions and gestures are used to interact with others when asking for and providing information, making offers, exclaiming, requesting and giving commands",
+    "skill": "language, facial expressions and gestures in interactions",
     "printable": true,
     "type": "single",
-    "question": "Which words are a kind request for the book?",
-    "audioPrompt": "Which words are a kind request for the book?",
+    "question": "A child is far across the playground. You need to get their attention. Which choice fits?",
+    "audioPrompt": "A child is far across the playground. You need to get their attention. Which choice fits?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -646,29 +450,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Give me the book!",
-      "The book is red.",
-      "Please pass the book."
+      "Whisper their name into your sleeve.",
+      "Point at your own shoes silently.",
+      "Call their name clearly and wave."
     ],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 15,
     "correct": 2,
-    "explanation": "Please pass the book. is the best answer.",
+    "explanation": "A clear call and wave are easier to notice from a distance.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "Please pass the book. is the best answer."
+      "summary": "A clear call and wave are easier to notice from a distance.",
+      "hint": "Read the whole example and check what the question asks."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 22
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1la01-p-023",
+    "id": "ac9e1la01-er1-p-016",
     "curriculumCode": "AC9E1LA01",
     "bank": "practice",
-    "skill": "understand how language, facial expressions and gestures are used to interact with others when asking for and providing information, making offers, exclaiming, requesting and giving commands",
+    "skill": "language, facial expressions and gestures in interactions",
     "printable": true,
     "type": "single",
-    "question": "Mia nods while Kim speaks. What does the nod show?",
-    "audioPrompt": "Mia nods while Kim speaks. What does the nod show?",
+    "question": "A baby is asleep nearby. How could you ask for your blanket?",
+    "audioPrompt": "A baby is asleep nearby. How could you ask for your blanket?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -676,179 +481,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Go away.",
-      "I am listening.",
-      "I am asleep."
+      "Speak softly: 'Please pass my blanket.'",
+      "Shout: 'PLEASE PASS MY BLANKET!'",
+      "Say loudly: 'What a blanket!'"
     ],
-    "correct": 1,
-    "explanation": "I am listening. is the best answer.",
-    "structuredExplanation": {
-      "summary": "I am listening. is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
     "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 23
-  },
-  {
-    "id": "ac9e1la01-p-024",
-    "curriculumCode": "AC9E1LA01",
-    "bank": "practice",
-    "skill": "understand how language, facial expressions and gestures are used to interact with others when asking for and providing information, making offers, exclaiming, requesting and giving commands",
-    "printable": true,
-    "type": "single",
-    "question": "Ben says, “Stop!” with a firm voice. What is Ben giving?",
-    "audioPrompt": "Ben says, “Stop!” with a firm voice. What is Ben giving?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "an offer",
-      "a command",
-      "a question"
-    ],
-    "correct": 1,
-    "explanation": "a command is the best answer.",
-    "structuredExplanation": {
-      "summary": "a command is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 24
-  },
-  {
-    "id": "ac9e1la01-p-025",
-    "curriculumCode": "AC9E1LA01",
-    "bank": "practice",
-    "skill": "understand how language, facial expressions and gestures are used to interact with others when asking for and providing information, making offers, exclaiming, requesting and giving commands",
-    "printable": true,
-    "type": "single",
-    "question": "Kim says, “May I use your bag, please?” What is Kim doing?",
-    "audioPrompt": "Kim says, “May I use your bag, please?” What is Kim doing?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "giving news",
-      "giving an order",
-      "asking politely"
-    ],
-    "correct": 2,
-    "explanation": "asking politely is the best answer.",
-    "structuredExplanation": {
-      "summary": "asking politely is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 25
-  },
-  {
-    "id": "ac9e1la01-p-026",
-    "curriculumCode": "AC9E1LA01",
-    "bank": "practice",
-    "skill": "understand how language, facial expressions and gestures are used to interact with others when asking for and providing information, making offers, exclaiming, requesting and giving commands",
-    "printable": true,
-    "type": "single",
-    "question": "Ava points to the door and says, “Please come in.” What does Ava want?",
-    "audioPrompt": "Ava points to the door and says, “Please come in.” What does Ava want?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "sit down",
-      "come in",
-      "run away"
-    ],
-    "correct": 1,
-    "explanation": "come in is the best answer.",
-    "structuredExplanation": {
-      "summary": "come in is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 26
-  },
-  {
-    "id": "ac9e1la01-p-027",
-    "curriculumCode": "AC9E1LA01",
-    "bank": "practice",
-    "skill": "understand how language, facial expressions and gestures are used to interact with others when asking for and providing information, making offers, exclaiming, requesting and giving commands",
-    "printable": true,
-    "type": "single",
-    "question": "Leo smiles and says, “I can help you.” What is Leo doing?",
-    "audioPrompt": "Leo smiles and says, “I can help you.” What is Leo doing?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "asking a question",
-      "giving an order",
-      "offering help"
-    ],
-    "correct": 2,
-    "explanation": "offering help is the best answer.",
-    "structuredExplanation": {
-      "summary": "offering help is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 27
-  },
-  {
-    "id": "ac9e1la01-p-028",
-    "curriculumCode": "AC9E1LA01",
-    "bank": "practice",
-    "skill": "understand how language, facial expressions and gestures are used to interact with others when asking for and providing information, making offers, exclaiming, requesting and giving commands",
-    "printable": true,
-    "type": "single",
-    "question": "Zoe asks, “Where is my ball?” Which answer gives information?",
-    "audioPrompt": "Zoe asks, “Where is my ball?” Which answer gives information?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "It is by the kite.",
-      "Wow!",
-      "Please find it!"
-    ],
+    "difficultyTier": "apply",
+    "sequencePriority": 16,
     "correct": 0,
-    "explanation": "It is by the kite. is the best answer.",
+    "explanation": "A soft, clear request suits the quiet setting.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "It is by the kite. is the best answer."
+      "summary": "A soft, clear request suits the quiet setting.",
+      "hint": "Read the whole example and check what the question asks."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 28
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1la01-p-029",
+    "id": "ac9e1la01-er1-p-017",
     "curriculumCode": "AC9E1LA01",
     "bank": "practice",
-    "skill": "understand how language, facial expressions and gestures are used to interact with others when asking for and providing information, making offers, exclaiming, requesting and giving commands",
+    "skill": "language, facial expressions and gestures in interactions",
     "printable": true,
     "type": "single",
-    "question": "Max says, “Wow! That hen can jump!” What does the exclamation mark show?",
-    "audioPrompt": "Max says, “Wow! That hen can jump!” What does the exclamation mark show?",
+    "question": "One child says, 'Can I carry your lunchbox?' Another says, 'Can you carry mine?' How are the messages different?",
+    "audioPrompt": "One child says, 'Can I carry your lunchbox?' Another says, 'Can you carry mine?' How are the messages different?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -856,59 +512,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "a list",
-      "a quiet question",
-      "a strong feeling"
+      "Both ask where the lunchboxes are.",
+      "The first offers help; the second asks for help.",
+      "Both offer to carry the other person's lunchbox."
     ],
-    "correct": 2,
-    "explanation": "a strong feeling is the best answer.",
-    "structuredExplanation": {
-      "summary": "a strong feeling is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 29
-  },
-  {
-    "id": "ac9e1la01-p-030",
-    "curriculumCode": "AC9E1LA01",
-    "bank": "practice",
-    "skill": "understand how language, facial expressions and gestures are used to interact with others when asking for and providing information, making offers, exclaiming, requesting and giving commands",
-    "printable": true,
-    "type": "single",
-    "question": "Which words are a kind request for the sock?",
-    "audioPrompt": "Which words are a kind request for the sock?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Give me the sock!",
-      "Please pass the sock.",
-      "The sock is red."
-    ],
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 17,
     "correct": 1,
-    "explanation": "Please pass the sock. is the best answer.",
+    "explanation": "Changing I to you changes who is being asked to do the carrying.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "Please pass the sock. is the best answer."
+      "summary": "Changing I to you changes who is being asked to do the carrying.",
+      "hint": "Read the whole example and check what the question asks."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 30
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1la01-p-031",
+    "id": "ac9e1la01-er1-p-018",
     "curriculumCode": "AC9E1LA01",
     "bank": "practice",
-    "skill": "understand how language, facial expressions and gestures are used to interact with others when asking for and providing information, making offers, exclaiming, requesting and giving commands",
+    "skill": "language, facial expressions and gestures in interactions",
     "printable": true,
     "type": "single",
-    "question": "Ben nods while Ava speaks. What does the nod show?",
-    "audioPrompt": "Ben nods while Ava speaks. What does the nod show?",
+    "question": "A visitor looks puzzled after you say, 'Put it there.' What is the clearest repair?",
+    "audioPrompt": "A visitor looks puzzled after you say, 'Put it there.' What is the clearest repair?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -916,29 +543,61 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "I am listening.",
-      "I am asleep.",
-      "Go away."
+      "Repeat there without pointing.",
+      "Tell the visitor to guess.",
+      "Name the object and point to its place."
     ],
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 18,
+    "correct": 2,
+    "explanation": "Naming the object and location removes the missing information.\nHint: Read the whole example and check what the question asks.",
+    "structuredExplanation": {
+      "summary": "Naming the object and location removes the missing information.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1la01-er1-p-019",
+    "curriculumCode": "AC9E1LA01",
+    "bank": "practice",
+    "skill": "language, facial expressions and gestures in interactions",
+    "printable": true,
+    "type": "single",
+    "question": "Your friend says, 'I'm fine,' but is crying. What could you say to check what they mean?",
+    "audioPrompt": "Your friend says, 'I'm fine,' but is crying. What could you say to check what they mean?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "You look upset. Would you like to talk?",
+      "You said fine, so you must be happy.",
+      "Stop crying because you said fine."
+    ],
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 19,
     "correct": 0,
-    "explanation": "I am listening. is the best answer.",
+    "explanation": "Words and facial expression may give different clues; a question checks rather than assumes.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "I am listening. is the best answer."
+      "summary": "Words and facial expression may give different clues; a question checks rather than assumes.",
+      "hint": "Read the whole example and check what the question asks."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 31
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1la01-p-032",
+    "id": "ac9e1la01-er1-p-020",
     "curriculumCode": "AC9E1LA01",
     "bank": "practice",
-    "skill": "understand how language, facial expressions and gestures are used to interact with others when asking for and providing information, making offers, exclaiming, requesting and giving commands",
+    "skill": "language, facial expressions and gestures in interactions",
     "printable": true,
     "type": "single",
-    "question": "Sam says, “Stop!” with a firm voice. What is Sam giving?",
-    "audioPrompt": "Sam says, “Stop!” with a firm voice. What is Sam giving?",
+    "question": "A teacher says, 'Could you close the door, please?' Is the teacher mainly testing whether you can close doors?",
+    "audioPrompt": "A teacher says, 'Could you close the door, please?' Is the teacher mainly testing whether you can close doors?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -946,59 +605,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "an offer",
-      "a question",
-      "a command"
+      "No; the teacher is offering to close it for you.",
+      "No; the teacher is politely asking for an action.",
+      "Yes; the teacher wants a yes-or-no answer only."
     ],
-    "correct": 2,
-    "explanation": "a command is the best answer.",
-    "structuredExplanation": {
-      "summary": "a command is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 32
-  },
-  {
-    "id": "ac9e1la01-p-033",
-    "curriculumCode": "AC9E1LA01",
-    "bank": "practice",
-    "skill": "understand how language, facial expressions and gestures are used to interact with others when asking for and providing information, making offers, exclaiming, requesting and giving commands",
-    "printable": true,
-    "type": "single",
-    "question": "Ava says, “May I use your ball, please?” What is Ava doing?",
-    "audioPrompt": "Ava says, “May I use your ball, please?” What is Ava doing?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "giving an order",
-      "asking politely",
-      "giving news"
-    ],
-    "correct": 1,
-    "explanation": "asking politely is the best answer.",
-    "structuredExplanation": {
-      "summary": "asking politely is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
     "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 33
+    "difficultyTier": "reason",
+    "sequencePriority": 20,
+    "correct": 1,
+    "explanation": "A sentence shaped like a question can function as a polite request.\nHint: Read the whole example and check what the question asks.",
+    "structuredExplanation": {
+      "summary": "A sentence shaped like a question can function as a polite request.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1la01-p-034",
+    "id": "ac9e1la01-er1-p-021",
     "curriculumCode": "AC9E1LA01",
     "bank": "practice",
-    "skill": "understand how language, facial expressions and gestures are used to interact with others when asking for and providing information, making offers, exclaiming, requesting and giving commands",
+    "skill": "language, facial expressions and gestures in interactions",
     "printable": true,
     "type": "single",
-    "question": "Leo points to the door and says, “Please come in.” What does Leo want?",
-    "audioPrompt": "Leo points to the door and says, “Please come in.” What does Leo want?",
+    "question": "'Where did you put the ball?' 'After lunch.' Why does this reply not answer the question?",
+    "audioPrompt": "'Where did you put the ball?' 'After lunch.' Why does this reply not answer the question?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -1006,29 +636,61 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "come in",
-      "run away",
-      "sit down"
+      "It gives a place instead of a time.",
+      "It tells how the ball looks.",
+      "It gives a time instead of a place."
     ],
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 21,
+    "correct": 2,
+    "explanation": "Where asks for a location; after lunch answers when.\nHint: Read the whole example and check what the question asks.",
+    "structuredExplanation": {
+      "summary": "Where asks for a location; after lunch answers when.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1la01-er1-p-022",
+    "curriculumCode": "AC9E1LA01",
+    "bank": "practice",
+    "skill": "language, facial expressions and gestures in interactions",
+    "printable": true,
+    "type": "single",
+    "question": "You say, 'Would you like a turn?' Your friend nods and reaches for the game. What do the clues suggest?",
+    "audioPrompt": "You say, 'Would you like a turn?' Your friend nods and reaches for the game. What do the clues suggest?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "They are accepting your offer.",
+      "They are asking you to hide the game.",
+      "They are telling you the game is broken."
+    ],
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 22,
     "correct": 0,
-    "explanation": "come in is the best answer.",
+    "explanation": "The nod and reaching action support acceptance in this context.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "come in is the best answer."
+      "summary": "The nod and reaching action support acceptance in this context.",
+      "hint": "Read the whole example and check what the question asks."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 34
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1la01-p-035",
+    "id": "ac9e1la01-er1-p-023",
     "curriculumCode": "AC9E1LA01",
     "bank": "practice",
-    "skill": "understand how language, facial expressions and gestures are used to interact with others when asking for and providing information, making offers, exclaiming, requesting and giving commands",
+    "skill": "language, facial expressions and gestures in interactions",
     "printable": true,
     "type": "single",
-    "question": "Zoe smiles and says, “I can help you.” What is Zoe doing?",
-    "audioPrompt": "Zoe smiles and says, “I can help you.” What is Zoe doing?",
+    "question": "A child whispers, 'Help, my finger is stuck.' Why should you listen to the words as well as the quiet voice?",
+    "audioPrompt": "A child whispers, 'Help, my finger is stuck.' Why should you listen to the words as well as the quiet voice?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -1036,29 +698,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "giving an order",
-      "offering help",
-      "asking a question"
+      "Whispering always means the words are a joke.",
+      "A quiet voice can still make an urgent request.",
+      "Only a loud voice can ask for help."
     ],
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 23,
     "correct": 1,
-    "explanation": "offering help is the best answer.",
+    "explanation": "Volume alone does not tell you how serious a message is.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "offering help is the best answer."
+      "summary": "Volume alone does not tell you how serious a message is.",
+      "hint": "Read the whole example and check what the question asks."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 35
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1la01-p-036",
+    "id": "ac9e1la01-er1-p-024",
     "curriculumCode": "AC9E1LA01",
     "bank": "practice",
-    "skill": "understand how language, facial expressions and gestures are used to interact with others when asking for and providing information, making offers, exclaiming, requesting and giving commands",
+    "skill": "language, facial expressions and gestures in interactions",
     "printable": true,
     "type": "single",
-    "question": "Max asks, “Where is my map?” Which answer gives information?",
-    "audioPrompt": "Max asks, “Where is my map?” Which answer gives information?",
+    "question": "'What a tall tower!' and 'How tall is the tower?' How do their purposes differ?",
+    "audioPrompt": "'What a tall tower!' and 'How tall is the tower?' How do their purposes differ?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -1066,378 +729,20 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Wow!",
-      "It is by the kite.",
-      "Please find it!"
+      "Both ask someone to measure the tower.",
+      "One offers help; the other gives an instruction.",
+      "One reacts with surprise; the other asks for information."
     ],
-    "correct": 1,
-    "explanation": "It is by the kite. is the best answer.",
-    "structuredExplanation": {
-      "summary": "It is by the kite. is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
     "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 36
-  },
-  {
-    "id": "ac9e1la01-p-037",
-    "curriculumCode": "AC9E1LA01",
-    "bank": "practice",
-    "skill": "understand how language, facial expressions and gestures are used to interact with others when asking for and providing information, making offers, exclaiming, requesting and giving commands",
-    "printable": true,
-    "type": "single",
-    "question": "Mia says, “Wow! That frog can jump!” What does the exclamation mark show?",
-    "audioPrompt": "Mia says, “Wow! That frog can jump!” What does the exclamation mark show?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "a strong feeling",
-      "a quiet question",
-      "a list"
-    ],
-    "correct": 0,
-    "explanation": "a strong feeling is the best answer.",
-    "structuredExplanation": {
-      "summary": "a strong feeling is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 37
-  },
-  {
-    "id": "ac9e1la01-p-038",
-    "curriculumCode": "AC9E1LA01",
-    "bank": "practice",
-    "skill": "understand how language, facial expressions and gestures are used to interact with others when asking for and providing information, making offers, exclaiming, requesting and giving commands",
-    "printable": true,
-    "type": "single",
-    "question": "Which words are a kind request for the bag?",
-    "audioPrompt": "Which words are a kind request for the bag?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "The bag is red.",
-      "Please pass the bag.",
-      "Give me the bag!"
-    ],
-    "correct": 1,
-    "explanation": "Please pass the bag. is the best answer.",
-    "structuredExplanation": {
-      "summary": "Please pass the bag. is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 38
-  },
-  {
-    "id": "ac9e1la01-p-039",
-    "curriculumCode": "AC9E1LA01",
-    "bank": "practice",
-    "skill": "understand how language, facial expressions and gestures are used to interact with others when asking for and providing information, making offers, exclaiming, requesting and giving commands",
-    "printable": true,
-    "type": "single",
-    "question": "Sam nods while Leo speaks. What does the nod show?",
-    "audioPrompt": "Sam nods while Leo speaks. What does the nod show?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "I am asleep.",
-      "Go away.",
-      "I am listening."
-    ],
+    "difficultyTier": "reason",
+    "sequencePriority": 24,
     "correct": 2,
-    "explanation": "I am listening. is the best answer.",
+    "explanation": "An exclamation reacts, while the how question seeks an answer.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "I am listening. is the best answer."
+      "summary": "An exclamation reacts, while the how question seeks an answer.",
+      "hint": "Read the whole example and check what the question asks."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 39
-  },
-  {
-    "id": "ac9e1la01-p-040",
-    "curriculumCode": "AC9E1LA01",
-    "bank": "practice",
-    "skill": "understand how language, facial expressions and gestures are used to interact with others when asking for and providing information, making offers, exclaiming, requesting and giving commands",
-    "printable": true,
-    "type": "single",
-    "question": "Kim says, “Stop!” with a firm voice. What is Kim giving?",
-    "audioPrompt": "Kim says, “Stop!” with a firm voice. What is Kim giving?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "an offer",
-      "a command",
-      "a question"
-    ],
-    "correct": 1,
-    "explanation": "a command is the best answer.",
-    "structuredExplanation": {
-      "summary": "a command is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 40
-  },
-  {
-    "id": "ac9e1la01-p-041",
-    "curriculumCode": "AC9E1LA01",
-    "bank": "practice",
-    "skill": "understand how language, facial expressions and gestures are used to interact with others when asking for and providing information, making offers, exclaiming, requesting and giving commands",
-    "printable": true,
-    "type": "single",
-    "question": "Leo says, “May I use your map, please?” What is Leo doing?",
-    "audioPrompt": "Leo says, “May I use your map, please?” What is Leo doing?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "giving news",
-      "giving an order",
-      "asking politely"
-    ],
-    "correct": 2,
-    "explanation": "asking politely is the best answer.",
-    "structuredExplanation": {
-      "summary": "asking politely is the best answer."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 41,
-    "qualitySchema": "reviewed-year1-english-v1"
-  },
-  {
-    "id": "ac9e1la01-p-042",
-    "curriculumCode": "AC9E1LA01",
-    "bank": "practice",
-    "skill": "understand how language, facial expressions and gestures are used to interact with others when asking for and providing information, making offers, exclaiming, requesting and giving commands",
-    "printable": true,
-    "type": "single",
-    "question": "Zoe points to the door and says, “Please come in.” What does Zoe want?",
-    "audioPrompt": "Zoe points to the door and says, “Please come in.” What does Zoe want?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "sit down",
-      "run away",
-      "come in"
-    ],
-    "correct": 2,
-    "explanation": "come in is the best answer.",
-    "structuredExplanation": {
-      "summary": "come in is the best answer."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 42,
-    "qualitySchema": "reviewed-year1-english-v1"
-  },
-  {
-    "id": "ac9e1la01-p-043",
-    "curriculumCode": "AC9E1LA01",
-    "bank": "practice",
-    "skill": "understand how language, facial expressions and gestures are used to interact with others when asking for and providing information, making offers, exclaiming, requesting and giving commands",
-    "printable": true,
-    "type": "single",
-    "question": "Max smiles and says, “I can help you.” What is Max doing?",
-    "audioPrompt": "Max smiles and says, “I can help you.” What is Max doing?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "offering help",
-      "giving an order",
-      "asking a question"
-    ],
-    "correct": 0,
-    "explanation": "offering help is the best answer.",
-    "structuredExplanation": {
-      "summary": "offering help is the best answer."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 43,
-    "qualitySchema": "reviewed-year1-english-v1"
-  },
-  {
-    "id": "ac9e1la01-p-044",
-    "curriculumCode": "AC9E1LA01",
-    "bank": "practice",
-    "skill": "understand how language, facial expressions and gestures are used to interact with others when asking for and providing information, making offers, exclaiming, requesting and giving commands",
-    "printable": true,
-    "type": "single",
-    "question": "Mia asks, “Where is my cup?” Which answer gives information?",
-    "audioPrompt": "Mia asks, “Where is my cup?” Which answer gives information?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Please find it!",
-      "Wow!",
-      "It is by the kite."
-    ],
-    "correct": 2,
-    "explanation": "It is by the kite. is the best answer.",
-    "structuredExplanation": {
-      "summary": "It is by the kite. is the best answer."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 44,
-    "qualitySchema": "reviewed-year1-english-v1"
-  },
-  {
-    "id": "ac9e1la01-p-045",
-    "curriculumCode": "AC9E1LA01",
-    "bank": "practice",
-    "skill": "understand how language, facial expressions and gestures are used to interact with others when asking for and providing information, making offers, exclaiming, requesting and giving commands",
-    "printable": true,
-    "type": "single",
-    "question": "Ben says, “Wow! That fish can jump!” What does the exclamation mark show?",
-    "audioPrompt": "Ben says, “Wow! That fish can jump!” What does the exclamation mark show?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "a strong feeling",
-      "a quiet question",
-      "a list"
-    ],
-    "correct": 0,
-    "explanation": "a strong feeling is the best answer.",
-    "structuredExplanation": {
-      "summary": "a strong feeling is the best answer."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 45,
-    "qualitySchema": "reviewed-year1-english-v1"
-  },
-  {
-    "id": "ac9e1la01-p-046",
-    "curriculumCode": "AC9E1LA01",
-    "bank": "practice",
-    "skill": "understand how language, facial expressions and gestures are used to interact with others when asking for and providing information, making offers, exclaiming, requesting and giving commands",
-    "printable": true,
-    "type": "single",
-    "question": "Which words are a kind request for the ball?",
-    "audioPrompt": "Which words are a kind request for the ball?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Give me the ball!",
-      "The ball is red.",
-      "Please pass the ball."
-    ],
-    "correct": 2,
-    "explanation": "Please pass the ball. is the best answer.",
-    "structuredExplanation": {
-      "summary": "Please pass the ball. is the best answer."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 46,
-    "qualitySchema": "reviewed-year1-english-v1"
-  },
-  {
-    "id": "ac9e1la01-p-047",
-    "curriculumCode": "AC9E1LA01",
-    "bank": "practice",
-    "skill": "understand how language, facial expressions and gestures are used to interact with others when asking for and providing information, making offers, exclaiming, requesting and giving commands",
-    "printable": true,
-    "type": "single",
-    "question": "Kim nods while Zoe speaks. What does the nod show?",
-    "audioPrompt": "Kim nods while Zoe speaks. What does the nod show?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "I am asleep.",
-      "I am listening.",
-      "Go away."
-    ],
-    "correct": 1,
-    "explanation": "I am listening. is the best answer.",
-    "structuredExplanation": {
-      "summary": "I am listening. is the best answer."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 47,
-    "qualitySchema": "reviewed-year1-english-v1"
-  },
-  {
-    "id": "ac9e1la01-p-048",
-    "curriculumCode": "AC9E1LA01",
-    "bank": "practice",
-    "skill": "understand how language, facial expressions and gestures are used to interact with others when asking for and providing information, making offers, exclaiming, requesting and giving commands",
-    "printable": true,
-    "type": "single",
-    "question": "Ava says, “Stop!” with a firm voice. What is Ava giving?",
-    "audioPrompt": "Ava says, “Stop!” with a firm voice. What is Ava giving?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "a question",
-      "an offer",
-      "a command"
-    ],
-    "correct": 2,
-    "explanation": "a command is the best answer.",
-    "structuredExplanation": {
-      "summary": "a command is the best answer."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 48,
-    "qualitySchema": "reviewed-year1-english-v1"
+    "qualitySchema": "production-v1"
   }
 ];
+window.quizQuestions = window.skillrPracticeQuestions;

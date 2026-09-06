@@ -1,0 +1,37 @@
+name: Validate reviewed Year 1 English banks
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'assets/assessment-banks/year1/english/ac9e1la0[12345].json'
+      - 'quiz/year-1/english/ac9e1la0[12345]/**'
+      - 'scripts/year1_english_ixl_review/**'
+      - 'scripts/validate-year1-english-review.cjs'
+      - 'scripts/validate_year1_english_student_facing.mjs'
+      - '.github/workflows/validate-year1-english-reviewed-banks.yml'
+  pull_request:
+    paths:
+      - 'assets/assessment-banks/year1/english/ac9e1la0[12345].json'
+      - 'quiz/year-1/english/ac9e1la0[12345]/**'
+      - 'scripts/year1_english_ixl_review/**'
+      - 'scripts/validate-year1-english-review.cjs'
+      - 'scripts/validate_year1_english_student_facing.mjs'
+      - '.github/workflows/validate-year1-english-reviewed-banks.yml'
+permissions:
+  contents: read
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Install test-only DOM dependency
+        run: npm install --prefix "$RUNNER_TEMP/english-bank-qa" --no-audit --no-fund jsdom@26.1.0
+      - name: Check reviewed Practice and Test journeys
+        run: NODE_PATH="$RUNNER_TEMP/english-bank-qa/node_modules" node scripts/validate-year1-english-review.cjs
+      - name: Check Year 1 English and review ledger
+        run: |
+          node scripts/validate_year1_english_student_facing.mjs
+          node scripts/update_content_verification_status.mjs --check
