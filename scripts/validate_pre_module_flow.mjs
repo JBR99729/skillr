@@ -51,6 +51,12 @@ function validateConfiguration(configuration) {
   for (const mode of modes) {
     assert(Number.isInteger(expectedQuestionCounts?.[mode]) && expectedQuestionCounts[mode] > 0, `${label}: ${mode} question count must be a positive integer`);
   }
+  for (const [code, counts] of Object.entries(configuration.expectedQuestionCountsByCode || {})) {
+    assert(codes.includes(code), `${label}: question count override uses uncovered code ${code}`);
+    for (const mode of modes) {
+      assert(Number.isInteger(counts?.[mode]) && counts[mode] > 0, `${label}: ${code} ${mode} question count must be a positive integer`);
+    }
+  }
   assert(Array.isArray(mobileChecks) && mobileChecks.length === 2, `${label}: exactly two representative mobile checks are required`);
   for (const check of mobileChecks) {
     assert(codes.includes(check.code), `${label}: mobile check uses uncovered code ${check.code}`);
@@ -679,7 +685,7 @@ export async function validatePreModuleFlow(configuration) {
           origin: staticServer.origin,
           records,
           routePrefix,
-          expectedQuestionCounts,
+          expectedQuestionCounts: configuration.expectedQuestionCountsByCode?.[check.code] || expectedQuestionCounts,
           ...check
         });
         const pairKey = `${check.code}:${check.label === "desktop" ? "desktop" : check.label}`;
