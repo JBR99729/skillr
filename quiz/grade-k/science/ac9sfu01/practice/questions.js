@@ -17,8 +17,13 @@ window.skillrPracticeQuestions = [
     "correct": 0,
     "audioPrompt": "A child looks at a plant. Which part is usually green and flat?",
     "structuredExplanation": {
-      "summary": "A leaf is an external plant part that is often green and flat."
-    }
+      "summary": "A leaf is an external plant part that is often green and flat.",
+      "hint": "Use the observation in the question and check every answer choice."
+    },
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 1,
+    "qualitySchema": "foundation-science-ixl-standard-v1"
   },
   {
     "id": "ac9sfu01-p-002",
@@ -37,8 +42,13 @@ window.skillrPracticeQuestions = [
     "correct": 1,
     "audioPrompt": "A bird, a butterfly and a bat are different animals. What outside feature do they all have?",
     "structuredExplanation": {
-      "summary": "They can be grouped together because all three have wings."
-    }
+      "summary": "They can be grouped together because all three have wings.",
+      "hint": "Use the observation in the question and check every answer choice."
+    },
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 2,
+    "qualitySchema": "foundation-science-ixl-standard-v1"
   },
   {
     "id": "ac9sfu01-p-003",
@@ -57,28 +67,38 @@ window.skillrPracticeQuestions = [
     "correct": 2,
     "audioPrompt": "A goldfish has small, overlapping pieces covering its body. What are these called?",
     "structuredExplanation": {
-      "summary": "These pieces are scales, an outside covering of the goldfish."
-    }
+      "summary": "These pieces are scales, an outside covering of the goldfish.",
+      "hint": "Use the observation in the question and check every answer choice."
+    },
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 3,
+    "qualitySchema": "foundation-science-ixl-standard-v1"
   },
   {
     "id": "ac9sfu01-p-004",
     "curriculumCode": "AC9SFU01",
     "bank": "practice",
-    "skill": "observe plant features",
-    "question": "Which feature belongs to a plant, not an animal?",
-    "explanation": "A stem is an external plant part. Tails and claws are animal features.",
+    "skill": "compare human and animal external features",
+    "question": "A child and a dog both have eyes and legs. Which outside feature belongs to the child but not the dog?",
+    "explanation": "The child has hands with fingers. The dog has paws and a fur-covered tail instead.",
     "printable": true,
     "type": "single",
     "answers": [
-      "Stem",
-      "Tail",
-      "Claw"
+      "Hands with fingers",
+      "Four paws",
+      "A fur-covered tail"
     ],
     "correct": 0,
-    "audioPrompt": "Which feature belongs to a plant, not an animal?",
+    "audioPrompt": "A child and a dog both have eyes and legs. Which outside feature belongs to the child but not the dog?",
     "structuredExplanation": {
-      "summary": "A stem is an external plant part. Tails and claws are animal features."
-    }
+      "summary": "The child has hands with fingers. The dog has paws and a fur-covered tail instead.",
+      "hint": "Compare only features that can be seen on the outside."
+    },
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 4,
+    "qualitySchema": "foundation-science-ixl-standard-v1"
   },
   {
     "id": "ac9sfu01-p-005",
@@ -97,8 +117,13 @@ window.skillrPracticeQuestions = [
     "correct": 1,
     "audioPrompt": "A rabbit has long ears. Which group could it go in?",
     "structuredExplanation": {
-      "summary": "Long ears are an observable feature, so the rabbit can be grouped with animals that have long ears."
-    }
+      "summary": "Long ears are an observable feature, so the rabbit can be grouped with animals that have long ears.",
+      "hint": "Use the observation in the question and check every answer choice."
+    },
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 5,
+    "qualitySchema": "foundation-science-ixl-standard-v1"
   },
   {
     "id": "ac9sfu01-p-006",
@@ -117,8 +142,13 @@ window.skillrPracticeQuestions = [
     "correct": 1,
     "audioPrompt": "A child observes a wattle plant with yellow flower balls. Which feature is the child noticing?",
     "structuredExplanation": {
-      "summary": "The yellow balls are groups of tiny flowers, an outside plant feature."
-    }
+      "summary": "The yellow balls are groups of tiny flowers, an outside plant feature.",
+      "hint": "Use the observation in the question and check every answer choice."
+    },
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 6,
+    "qualitySchema": "foundation-science-ixl-standard-v1"
   },
   {
     "id": "ac9sfu01-p-007",
@@ -137,28 +167,38 @@ window.skillrPracticeQuestions = [
     "correct": 0,
     "audioPrompt": "A child groups a duck and a chicken together. Which shared feature could they use?",
     "structuredExplanation": {
-      "summary": "Ducks and chickens both have feathers."
-    }
+      "summary": "Ducks and chickens both have feathers.",
+      "hint": "Use the observation in the question and check every answer choice."
+    },
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 7,
+    "qualitySchema": "foundation-science-ixl-standard-v1"
   },
   {
     "id": "ac9sfu01-p-008",
     "curriculumCode": "AC9SFU01",
     "bank": "practice",
-    "skill": "group by observable features",
-    "question": "A child finds an empty snail shell and a crab shell at the beach. Which feature could group them together?",
-    "explanation": "Both shells are hard outside coverings that can be observed.",
+    "skill": "group animals by observable features",
+    "question": "A living crab and a living snail can be grouped together. Which outside feature supports this group?",
+    "explanation": "Both animals have a hard covering that can be observed on the outside of their bodies.",
     "printable": true,
     "type": "single",
     "answers": [
-      "Hard outside covering",
-      "Green leaves",
-      "Soft feathers"
+      "A hard outer covering",
+      "Soft feathers",
+      "Green leaves"
     ],
     "correct": 0,
-    "audioPrompt": "A child finds an empty snail shell and a crab shell at the beach. Which feature could group them together?",
+    "audioPrompt": "A living crab and a living snail can be grouped together. Which outside feature supports this group?",
     "structuredExplanation": {
-      "summary": "Both shells are hard outside coverings that can be observed."
-    }
+      "summary": "Both animals have a hard covering that can be observed on the outside of their bodies.",
+      "hint": "Look for one visible feature shared by both animals."
+    },
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 8,
+    "qualitySchema": "foundation-science-ixl-standard-v1"
   },
   {
     "id": "ac9sfu01-p-009",
@@ -177,8 +217,13 @@ window.skillrPracticeQuestions = [
     "correct": 1,
     "audioPrompt": "A child describes tree bark as rough. What does rough describe?",
     "structuredExplanation": {
-      "summary": "Rough describes the texture of the bark, an outside feature of the tree."
-    }
+      "summary": "Rough describes the texture of the bark, an outside feature of the tree.",
+      "hint": "Use the observation in the question and check every answer choice."
+    },
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 9,
+    "qualitySchema": "foundation-science-ixl-standard-v1"
   },
   {
     "id": "ac9sfu01-p-010",
@@ -197,8 +242,13 @@ window.skillrPracticeQuestions = [
     "correct": 2,
     "audioPrompt": "Which two animals could be grouped because they both have fur?",
     "structuredExplanation": {
-      "summary": "Cats and dogs commonly have fur on the outside of their bodies."
-    }
+      "summary": "Cats and dogs commonly have fur on the outside of their bodies.",
+      "hint": "Use the observation in the question and check every answer choice."
+    },
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 10,
+    "qualitySchema": "foundation-science-ixl-standard-v1"
   },
   {
     "id": "ac9sfu01-p-011",
@@ -217,8 +267,13 @@ window.skillrPracticeQuestions = [
     "correct": 1,
     "audioPrompt": "A child compares two leaves. One is long and thin, and one is round. What feature can the child compare?",
     "structuredExplanation": {
-      "summary": "The child is comparing the shapes of the leaves, an outside plant feature."
-    }
+      "summary": "The child is comparing the shapes of the leaves, an outside plant feature.",
+      "hint": "Use the observation in the question and check every answer choice."
+    },
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 11,
+    "qualitySchema": "foundation-science-ixl-standard-v1"
   },
   {
     "id": "ac9sfu01-p-012",
@@ -237,8 +292,13 @@ window.skillrPracticeQuestions = [
     "correct": 0,
     "audioPrompt": "An insect has two thin feelers on its head. What outside feature are these?",
     "structuredExplanation": {
-      "summary": "Antennae are outside features on many insects."
-    }
+      "summary": "Antennae are outside features on many insects.",
+      "hint": "Use the observation in the question and check every answer choice."
+    },
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 12,
+    "qualitySchema": "foundation-science-ixl-standard-v1"
   },
   {
     "id": "ac9sfu01-p-013",
@@ -257,28 +317,38 @@ window.skillrPracticeQuestions = [
     "correct": 0,
     "audioPrompt": "A child groups animals into 'has legs' and 'no legs'. Which animal belongs in the 'no legs' group?",
     "structuredExplanation": {
-      "summary": "A snake does not have legs, so it fits the observable group 'no legs'."
-    }
+      "summary": "A snake does not have legs, so it fits the observable group 'no legs'.",
+      "hint": "Use the observation in the question and check every answer choice."
+    },
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 13,
+    "qualitySchema": "foundation-science-ixl-standard-v1"
   },
   {
     "id": "ac9sfu01-p-014",
     "curriculumCode": "AC9SFU01",
     "bank": "practice",
-    "skill": "group by observable features",
-    "question": "Which feature could help group a gum tree and a rose bush together?",
-    "explanation": "Both are plants with leaves, an external feature that can be observed.",
+    "skill": "group plants by observable features",
+    "question": "Which group contains only plants with leaves?",
+    "explanation": "A gum tree, fern and rose bush are all plants with observable leaves.",
     "printable": true,
     "type": "single",
     "answers": [
-      "They both have paws.",
-      "They both have feathers.",
-      "They both have leaves."
+      "Gum tree, lizard and rose bush",
+      "Fern, butterfly and gum tree",
+      "Gum tree, fern and rose bush"
     ],
     "correct": 2,
-    "audioPrompt": "Which feature could help group a gum tree and a rose bush together?",
+    "audioPrompt": "Which group contains only plants with leaves?",
     "structuredExplanation": {
-      "summary": "Both are plants with leaves, an external feature that can be observed."
-    }
+      "summary": "A gum tree, fern and rose bush are all plants with observable leaves.",
+      "hint": "Check every member of the group against the same rule."
+    },
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 14,
+    "qualitySchema": "foundation-science-ixl-standard-v1"
   },
   {
     "id": "ac9sfu01-p-015",
@@ -297,8 +367,13 @@ window.skillrPracticeQuestions = [
     "correct": 1,
     "audioPrompt": "A child looks without touching. One stem has sharp points; another is smooth. Which feature could sort them?",
     "structuredExplanation": {
-      "summary": "The child can group the stems by the sharp points they see, without touching them."
-    }
+      "summary": "The child can group the stems by the sharp points they see, without touching them.",
+      "hint": "Use the observation in the question and check every answer choice."
+    },
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 15,
+    "qualitySchema": "foundation-science-ixl-standard-v1"
   },
   {
     "id": "ac9sfu01-p-016",
@@ -317,8 +392,13 @@ window.skillrPracticeQuestions = [
     "correct": 0,
     "audioPrompt": "Which feature should a child look for when sorting plants into 'has flowers' and 'no flowers'?",
     "structuredExplanation": {
-      "summary": "Flowers are the feature used for this plant sorting rule."
-    }
+      "summary": "Flowers are the feature used for this plant sorting rule.",
+      "hint": "Use the observation in the question and check every answer choice."
+    },
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 16,
+    "qualitySchema": "foundation-science-ixl-standard-v1"
   },
   {
     "id": "ac9sfu01-p-017",
@@ -337,8 +417,13 @@ window.skillrPracticeQuestions = [
     "correct": 2,
     "audioPrompt": "A child says, 'This animal has four legs and a tail.' What is the child describing?",
     "structuredExplanation": {
-      "summary": "Legs and a tail are features on the outside of an animal."
-    }
+      "summary": "Legs and a tail are features on the outside of an animal.",
+      "hint": "Use the observation in the question and check every answer choice."
+    },
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 17,
+    "qualitySchema": "foundation-science-ixl-standard-v1"
   },
   {
     "id": "ac9sfu01-p-018",
@@ -357,8 +442,13 @@ window.skillrPracticeQuestions = [
     "correct": 2,
     "audioPrompt": "Which pair could be grouped because both have wings?",
     "structuredExplanation": {
-      "summary": "A butterfly and a bird both have wings."
-    }
+      "summary": "A butterfly and a bird both have wings.",
+      "hint": "Use the observation in the question and check every answer choice."
+    },
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 18,
+    "qualitySchema": "foundation-science-ixl-standard-v1"
   },
   {
     "id": "ac9sfu01-p-019",
@@ -377,8 +467,13 @@ window.skillrPracticeQuestions = [
     "correct": 0,
     "audioPrompt": "A child observes a butterfly and an ant. Which feature helps group them as insects?",
     "structuredExplanation": {
-      "summary": "Adult insects have six legs, an observable animal feature."
-    }
+      "summary": "Adult insects have six legs, an observable animal feature.",
+      "hint": "Use the observation in the question and check every answer choice."
+    },
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 19,
+    "qualitySchema": "foundation-science-ixl-standard-v1"
   },
   {
     "id": "ac9sfu01-p-020",
@@ -397,8 +492,13 @@ window.skillrPracticeQuestions = [
     "correct": 2,
     "audioPrompt": "A child compares two leaves. Which observation compares their size?",
     "structuredExplanation": {
-      "summary": "Longer compares the size of the two leaves, an observable feature."
-    }
+      "summary": "Longer compares the size of the two leaves, an observable feature.",
+      "hint": "Use the observation in the question and check every answer choice."
+    },
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 20,
+    "qualitySchema": "foundation-science-ixl-standard-v1"
   },
   {
     "id": "ac9sfu01-p-021",
@@ -417,48 +517,63 @@ window.skillrPracticeQuestions = [
     "correct": 2,
     "audioPrompt": "A child wants to sort animals by body covering. Which choices match body coverings?",
     "structuredExplanation": {
-      "summary": "Fur, feathers and scales are observable body coverings."
-    }
+      "summary": "Fur, feathers and scales are observable body coverings.",
+      "hint": "Use the observation in the question and check every answer choice."
+    },
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 21,
+    "qualitySchema": "foundation-science-ixl-standard-v1"
   },
   {
     "id": "ac9sfu01-p-022",
     "curriculumCode": "AC9SFU01",
     "bank": "practice",
-    "skill": "observe plant features",
-    "question": "Which plant part is usually below the soil and helps hold the plant in place?",
-    "explanation": "Roots are plant parts that are usually below the soil and help hold the plant in place.",
+    "skill": "identify foods as plant parts",
+    "question": "A carrot is pulled from the soil. Which plant part is the carrot?",
+    "explanation": "The part of a carrot plant that we usually eat is its enlarged root.",
     "printable": true,
     "type": "single",
     "answers": [
-      "Wing",
+      "Leaf",
       "Root",
-      "Tail"
+      "Flower"
     ],
     "correct": 1,
-    "audioPrompt": "Which plant part is usually below the soil and helps hold the plant in place?",
+    "audioPrompt": "A carrot is pulled from the soil. Which plant part is the carrot?",
     "structuredExplanation": {
-      "summary": "Roots are plant parts that are usually below the soil and help hold the plant in place."
-    }
+      "summary": "The part of a carrot plant that we usually eat is its enlarged root.",
+      "hint": "Think about where the carrot grows on the plant."
+    },
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 22,
+    "qualitySchema": "foundation-science-ixl-standard-v1"
   },
   {
     "id": "ac9sfu01-p-023",
     "curriculumCode": "AC9SFU01",
     "bank": "practice",
-    "skill": "observe animal features",
-    "question": "A child sees whiskers on a cat's face. Which feature did the child notice?",
-    "explanation": "Whiskers are external animal features.",
+    "skill": "compare human and animal external features",
+    "question": "A child compares their face with a cat's face. Which outside feature do both have?",
+    "explanation": "Both the child and the cat have visible eyes. Whiskers and pointed furry ears belong to the cat.",
     "printable": true,
     "type": "single",
     "answers": [
-      "A plant part",
-      "An outside animal feature",
-      "A bird feather"
+      "Whiskers",
+      "Eyes",
+      "Pointed furry ears"
     ],
     "correct": 1,
-    "audioPrompt": "A child sees whiskers on a cat's face. Which feature did the child notice?",
+    "audioPrompt": "A child compares their face with a cat's face. Which outside feature do both have?",
     "structuredExplanation": {
-      "summary": "Whiskers are external animal features."
-    }
+      "summary": "Both the child and the cat have visible eyes. Whiskers and pointed furry ears belong to the cat.",
+      "hint": "Choose a feature visible on both faces."
+    },
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 23,
+    "qualitySchema": "foundation-science-ixl-standard-v1"
   },
   {
     "id": "ac9sfu01-p-024",
@@ -477,7 +592,12 @@ window.skillrPracticeQuestions = [
     "correct": 2,
     "audioPrompt": "Which question would help sort leaves by size?",
     "structuredExplanation": {
-      "summary": "Width can be observed and used to sort leaves by size."
-    }
+      "summary": "Width can be observed and used to sort leaves by size.",
+      "hint": "Use the observation in the question and check every answer choice."
+    },
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 24,
+    "qualitySchema": "foundation-science-ixl-standard-v1"
   }
 ];

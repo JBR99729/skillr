@@ -4,9 +4,9 @@ window.skillrTestQuestions = [
     "id": "ac9sfu03-t-001",
     "curriculumCode": "AC9SFU03",
     "bank": "test",
-    "skill": "objects and materials",
-    "question": "A bowl is made from glass. Which word names its material?",
-    "explanation": "Glass is the material.",
+    "skill": "distinguish material, object and property",
+    "question": "A round bowl is made from glass. Which word names the material?",
+    "explanation": "Glass is the material, bowl is the object and round describes its shape.",
     "printable": true,
     "type": "single",
     "answers": [
@@ -15,10 +15,15 @@ window.skillrTestQuestions = [
       "Round"
     ],
     "correct": 1,
-    "audioPrompt": "A bowl is made from glass. Which word names its material?",
+    "audioPrompt": "A round bowl is made from glass. Which word names the material?",
     "structuredExplanation": {
-      "summary": "Glass is the material."
-    }
+      "summary": "Glass is the material, bowl is the object and round describes its shape.",
+      "hint": "Ask what the object is made from."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 1,
+    "qualitySchema": "foundation-science-ixl-standard-v1"
   },
   {
     "id": "ac9sfu03-t-002",
@@ -26,7 +31,7 @@ window.skillrTestQuestions = [
     "bank": "test",
     "skill": "observable material properties",
     "question": "A bag has a fabric body and plastic clips. Which part is plastic?",
-    "explanation": "The clips are the plastic parts.",
+    "explanation": "The bag description identifies the clips as plastic and the body as fabric, so the clips are the plastic parts.",
     "printable": true,
     "type": "single",
     "answers": [
@@ -37,8 +42,13 @@ window.skillrTestQuestions = [
     "correct": 2,
     "audioPrompt": "A bag has a fabric body and plastic clips. Which part is plastic?",
     "structuredExplanation": {
-      "summary": "The clips are the plastic parts."
-    }
+      "summary": "The bag description identifies the clips as plastic and the body as fabric, so the clips are the plastic parts.",
+      "hint": "Use the observation in the question and check every answer choice."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 2,
+    "qualitySchema": "foundation-science-ixl-standard-v1"
   },
   {
     "id": "ac9sfu03-t-003",
@@ -57,8 +67,13 @@ window.skillrTestQuestions = [
     "correct": 0,
     "audioPrompt": "A sample has tiny raised bumps. Which word describes its texture?",
     "structuredExplanation": {
-      "summary": "Bumpy describes how the surface feels."
-    }
+      "summary": "Bumpy describes how the surface feels.",
+      "hint": "Use the observation in the question and check every answer choice."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 3,
+    "qualitySchema": "foundation-science-ixl-standard-v1"
   },
   {
     "id": "ac9sfu03-t-004",
@@ -66,7 +81,7 @@ window.skillrTestQuestions = [
     "bank": "test",
     "skill": "flexible and stiff materials",
     "question": "A ribbon bends easily around a tube. Which property does it show?",
-    "explanation": "A flexible material bends easily.",
+    "explanation": "The ribbon can bend around the tube without staying rigid, which shows that its material is flexible.",
     "printable": true,
     "type": "single",
     "answers": [
@@ -77,8 +92,13 @@ window.skillrTestQuestions = [
     "correct": 0,
     "audioPrompt": "A ribbon bends easily around a tube. Which property does it show?",
     "structuredExplanation": {
-      "summary": "A flexible material bends easily."
-    }
+      "summary": "The ribbon can bend around the tube without staying rigid, which shows that its material is flexible.",
+      "hint": "Use the observation in the question and check every answer choice."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 4,
+    "qualitySchema": "foundation-science-ixl-standard-v1"
   },
   {
     "id": "ac9sfu03-t-005",
@@ -86,7 +106,7 @@ window.skillrTestQuestions = [
     "bank": "test",
     "skill": "objects and materials",
     "question": "Which pair can be grouped by the same material?",
-    "explanation": "The key and bell are both metal.",
+    "explanation": "The key and bell can be grouped together because both objects are made from the same material: metal.",
     "printable": true,
     "type": "single",
     "answers": [
@@ -97,28 +117,38 @@ window.skillrTestQuestions = [
     "correct": 2,
     "audioPrompt": "Which pair can be grouped by the same material?",
     "structuredExplanation": {
-      "summary": "The key and bell are both metal."
-    }
+      "summary": "The key and bell can be grouped together because both objects are made from the same material: metal.",
+      "hint": "Use the observation in the question and check every answer choice."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 5,
+    "qualitySchema": "foundation-science-ixl-standard-v1"
   },
   {
     "id": "ac9sfu03-t-006",
     "curriculumCode": "AC9SFU03",
     "bank": "test",
-    "skill": "texture of materials",
-    "question": "A child cannot see a toy through cardboard. What did they notice?",
-    "explanation": "The cardboard does not allow a clear view.",
+    "skill": "describe whether a material is see-through",
+    "question": "A child cannot see a toy through a cardboard sheet. Which property did the child observe?",
+    "explanation": "The observation shows that cardboard is not see-through; it blocks the view of the toy.",
     "printable": true,
     "type": "single",
     "answers": [
-      "It stretches",
-      "It blocks the view",
-      "It feels soft"
+      "It stretches easily.",
+      "It blocks a clear view.",
+      "It feels soft."
     ],
     "correct": 1,
-    "audioPrompt": "A child cannot see a toy through cardboard. What did they notice?",
+    "audioPrompt": "A child cannot see a toy through a cardboard sheet. Which property did the child observe?",
     "structuredExplanation": {
-      "summary": "The cardboard does not allow a clear view."
-    }
+      "summary": "The observation shows that cardboard is not see-through; it blocks the view of the toy.",
+      "hint": "Use only the evidence about seeing through the sheet."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 6,
+    "qualitySchema": "foundation-science-ixl-standard-v1"
   },
   {
     "id": "ac9sfu03-t-007",
@@ -137,8 +167,13 @@ window.skillrTestQuestions = [
     "correct": 2,
     "audioPrompt": "A dry cotton cloth touches a spill and water spreads in. Which property is shown?",
     "structuredExplanation": {
-      "summary": "The cloth takes water into the material."
-    }
+      "summary": "The cloth takes water into the material.",
+      "hint": "Use the observation in the question and check every answer choice."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 7,
+    "qualitySchema": "foundation-science-ixl-standard-v1"
   },
   {
     "id": "ac9sfu03-t-008",
@@ -157,8 +192,13 @@ window.skillrTestQuestions = [
     "correct": 0,
     "audioPrompt": "A child gently presses a wooden block and a soft sponge. The wooden block is harder to squash. Which word describes the wooden block?",
     "structuredExplanation": {
-      "summary": "Hard materials are not easy to squash when gently pressed."
-    }
+      "summary": "Hard materials are not easy to squash when gently pressed.",
+      "hint": "Use the observation in the question and check every answer choice."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 8,
+    "qualitySchema": "foundation-science-ixl-standard-v1"
   },
   {
     "id": "ac9sfu03-t-009",
@@ -177,8 +217,13 @@ window.skillrTestQuestions = [
     "correct": 1,
     "audioPrompt": "A brush has a wooden handle and plastic bristles. How many materials are named?",
     "structuredExplanation": {
-      "summary": "Wood and plastic are two materials."
-    }
+      "summary": "Wood and plastic are two materials.",
+      "hint": "Use the observation in the question and check every answer choice."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 9,
+    "qualitySchema": "foundation-science-ixl-standard-v1"
   },
   {
     "id": "ac9sfu03-t-010",
@@ -197,28 +242,38 @@ window.skillrTestQuestions = [
     "correct": 1,
     "audioPrompt": "A strip becomes longer when gently pulled. Which property is observed?",
     "structuredExplanation": {
-      "summary": "Stretchiness describes lengthening when pulled."
-    }
+      "summary": "Stretchiness describes lengthening when pulled.",
+      "hint": "Use the observation in the question and check every answer choice."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 10,
+    "qualitySchema": "foundation-science-ixl-standard-v1"
   },
   {
     "id": "ac9sfu03-t-011",
     "curriculumCode": "AC9SFU03",
     "bank": "test",
-    "skill": "observable material properties",
-    "question": "A glass jar and glass marble have different shapes. Which shared feature is named?",
-    "explanation": "The jar and marble are both described as glass.",
+    "skill": "classify objects by material",
+    "question": "A glass jar and a glass marble have different shapes. Why can they be grouped together?",
+    "explanation": "The objects have different shapes and uses, but they share the material glass.",
     "printable": true,
     "type": "single",
     "answers": [
-      "Their material",
-      "Their shape",
-      "Their use"
+      "Both are made from glass.",
+      "Both have the same shape.",
+      "Both are used for the same purpose."
     ],
     "correct": 0,
-    "audioPrompt": "A glass jar and glass marble have different shapes. Which shared feature is named?",
+    "audioPrompt": "A glass jar and a glass marble have different shapes. Why can they be grouped together?",
     "structuredExplanation": {
-      "summary": "The jar and marble are both described as glass."
-    }
+      "summary": "The objects have different shapes and uses, but they share the material glass.",
+      "hint": "Apply the material rule to both objects."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 11,
+    "qualitySchema": "foundation-science-ixl-standard-v1"
   },
   {
     "id": "ac9sfu03-t-012",
@@ -237,8 +292,13 @@ window.skillrTestQuestions = [
     "correct": 2,
     "audioPrompt": "A sample is smooth and silver. Which word describes texture?",
     "structuredExplanation": {
-      "summary": "Smooth describes the surface texture."
-    }
+      "summary": "Smooth describes the surface texture.",
+      "hint": "Use the observation in the question and check every answer choice."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 12,
+    "qualitySchema": "foundation-science-ixl-standard-v1"
   },
   {
     "id": "ac9sfu03-t-013",
@@ -246,7 +306,7 @@ window.skillrTestQuestions = [
     "bank": "test",
     "skill": "flexible and stiff materials",
     "question": "Which sample belongs in a group that bends easily?",
-    "explanation": "The flexible strip bends easily.",
+    "explanation": "A flexible strip bends easily, while a rigid tile and a stiff board resist bending.",
     "printable": true,
     "type": "single",
     "answers": [
@@ -257,28 +317,38 @@ window.skillrTestQuestions = [
     "correct": 0,
     "audioPrompt": "Which sample belongs in a group that bends easily?",
     "structuredExplanation": {
-      "summary": "The flexible strip bends easily."
-    }
+      "summary": "A flexible strip bends easily, while a rigid tile and a stiff board resist bending.",
+      "hint": "Use the observation in the question and check every answer choice."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 13,
+    "qualitySchema": "foundation-science-ixl-standard-v1"
   },
   {
     "id": "ac9sfu03-t-014",
     "curriculumCode": "AC9SFU03",
     "bank": "test",
-    "skill": "texture of materials",
-    "question": "A child compares a clear ruler and a wooden ruler. Which one is see-through?",
-    "explanation": "A clear ruler lets the child see through it.",
+    "skill": "compare transparent and opaque materials",
+    "question": "A clear plastic ruler and a wooden ruler are held over some writing. Which result shows the plastic is see-through?",
+    "explanation": "A see-through material allows the writing behind it to remain visible.",
     "printable": true,
     "type": "single",
     "answers": [
-      "Wooden ruler",
-      "Both rulers",
-      "Clear ruler"
+      "The wooden ruler hides the writing.",
+      "Both rulers are the same length.",
+      "The writing can be seen through the plastic ruler."
     ],
     "correct": 2,
-    "audioPrompt": "A child compares a clear ruler and a wooden ruler. Which one is see-through?",
+    "audioPrompt": "A clear plastic ruler and a wooden ruler are held over some writing. Which result shows the plastic is see-through?",
     "structuredExplanation": {
-      "summary": "A clear ruler lets the child see through it."
-    }
+      "summary": "A see-through material allows the writing behind it to remain visible.",
+      "hint": "Look for direct evidence that light and an image pass through."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 14,
+    "qualitySchema": "foundation-science-ixl-standard-v1"
   },
   {
     "id": "ac9sfu03-t-015",
@@ -286,7 +356,7 @@ window.skillrTestQuestions = [
     "bank": "test",
     "skill": "observable material properties",
     "question": "To compare two materials by colour, what should a child do?",
-    "explanation": "Colour is observed using sight.",
+    "explanation": "Colour is an observable property seen with the eyes, so the child should look at both materials.",
     "printable": true,
     "type": "single",
     "answers": [
@@ -297,8 +367,13 @@ window.skillrTestQuestions = [
     "correct": 1,
     "audioPrompt": "To compare two materials by colour, what should a child do?",
     "structuredExplanation": {
-      "summary": "Colour is observed using sight."
-    }
+      "summary": "Colour is an observable property seen with the eyes, so the child should look at both materials.",
+      "hint": "Use the observation in the question and check every answer choice."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 15,
+    "qualitySchema": "foundation-science-ixl-standard-v1"
   },
   {
     "id": "ac9sfu03-t-016",
@@ -317,7 +392,13 @@ window.skillrTestQuestions = [
     "correct": 2,
     "audioPrompt": "A red plastic button and a blue plastic button are sorted by material. Where do they belong?",
     "structuredExplanation": {
-      "summary": "Both are plastic even though the colours differ."
-    }
+      "summary": "Both are plastic even though the colours differ.",
+      "hint": "Use the observation in the question and check every answer choice."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 16,
+    "qualitySchema": "foundation-science-ixl-standard-v1"
   }
 ];
+window.skillrExamQuestions = window.skillrTestQuestions;
