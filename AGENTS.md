@@ -2,6 +2,18 @@
 
 ## Current operating mode: stability / QA freeze
 
+### Content verification badge release condition
+
+When publishing a reviewed production bank, use the review-aware publisher:
+
+`node scripts/publish_production_question_bank.mjs PATH_TO_BANK.json --reviewed`
+
+If a code was published through a specialised script, immediately run:
+
+`node scripts/update_content_verification_status.mjs --record CURRICULUM_CODE`
+
+The command is the required review ledger update. It refuses to record a code unless both published question files exist. A year-and-subject badge activates only when every code listed on that subject's curriculum hub is recorded as reviewed. Commit the ledger and all generated About, Editorial Standards, subject-hub, `ai-index.json`, `llms.txt` and `llms-full.txt` changes with the final code release. Never add or claim a verified badge manually. Run `node scripts/update_content_verification_status.mjs --check` before publishing any verification-status change.
+
 Until the owner explicitly lifts this freeze, do **not** add new product features or perform broad curriculum rebuilds. Work is limited to QA, bug fixes, SEO/indexability fixes, accessibility fixes, factual/content corrections, and changes driven by real user, teacher or parent feedback.
 
 Individual curriculum-code maintenance is allowed. A request to fix or improve one curriculum code, or a clearly named small set of curriculum codes, must stay scoped to those codes and must not be expanded into a site-wide rewrite.
