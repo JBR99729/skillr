@@ -7,24 +7,21 @@ window.skillrPracticeQuestions = [
     "skill": "physical changes to materials",
     "printable": true,
     "type": "single",
-    "question": "A paper strip changes from straight to curved without tearing. What action changed it?",
-    "audioPrompt": "A paper strip changes from straight to curved without tearing. What action changed it?",
+    "question": "A straight strip of card is made into a curve without being torn. Which action changed it?",
+    "audioPrompt": "A straight strip of card is made into a curve without being torn. Which action changed it?",
     "visual": "",
     "answers": [
-      "bending",
-      "melting",
-      "orbiting"
+      "breaking",
+      "stretching",
+      "bending"
     ],
-    "correct": 0,
-    "explanation": "Bending changes direction or shape.",
+    "correct": 2,
+    "explanation": "Bending changes the direction or shape of the strip without separating it into pieces.",
     "structuredExplanation": {
-      "summary": "Bending changes direction or shape."
+      "summary": "Bending changes the direction or shape of the strip without separating it into pieces."
     },
-    "stage": "recognise",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
     "sequencePriority": 1,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
+    "qualitySchema": "skillr-reviewed-y2-science-v2"
   },
   {
     "id": "ac9s2u03-p-002",
@@ -33,24 +30,21 @@ window.skillrPracticeQuestions = [
     "skill": "physical changes to materials",
     "printable": true,
     "type": "single",
-    "question": "A soft clay rope is turned around itself. What action is this?",
-    "audioPrompt": "A soft clay rope is turned around itself. What action is this?",
+    "question": "A child holds both ends of a cloth strip and turns them in opposite directions. What action is this?",
+    "audioPrompt": "A child holds both ends of a cloth strip and turns them in opposite directions. What action is this?",
     "visual": "",
     "answers": [
-      "freezing",
       "twisting",
-      "shining"
+      "flattening",
+      "cutting"
     ],
-    "correct": 1,
-    "explanation": "Twisting turns parts around each other.",
+    "correct": 0,
+    "explanation": "Twisting turns parts of an object around relative to one another.",
     "structuredExplanation": {
-      "summary": "Twisting turns parts around each other."
+      "summary": "Twisting turns parts of an object around relative to one another."
     },
-    "stage": "recognise",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
     "sequencePriority": 2,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
+    "qualitySchema": "skillr-reviewed-y2-science-v2"
   },
   {
     "id": "ac9s2u03-p-003",
@@ -59,24 +53,21 @@ window.skillrPracticeQuestions = [
     "skill": "physical changes to materials",
     "printable": true,
     "type": "single",
-    "question": "An elastic band becomes longer when pulled. What action caused this?",
-    "audioPrompt": "An elastic band becomes longer when pulled. What action caused this?",
+    "question": "A rubber band becomes longer as its ends are pulled apart. What action is shown?",
+    "audioPrompt": "A rubber band becomes longer as its ends are pulled apart. What action is shown?",
     "visual": "",
     "answers": [
-      "striking",
-      "cooling",
-      "stretching"
+      "folding",
+      "stretching",
+      "crushing"
     ],
-    "correct": 2,
-    "explanation": "Stretching increases length.",
+    "correct": 1,
+    "explanation": "Stretching increases the band’s length while it is being pulled.",
     "structuredExplanation": {
-      "summary": "Stretching increases length."
+      "summary": "Stretching increases the band’s length while it is being pulled."
     },
-    "stage": "recognise",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
     "sequencePriority": 3,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
+    "qualitySchema": "skillr-reviewed-y2-science-v2"
   },
   {
     "id": "ac9s2u03-p-004",
@@ -85,24 +76,21 @@ window.skillrPracticeQuestions = [
     "skill": "physical changes to materials",
     "printable": true,
     "type": "single",
-    "question": "A chalk stick becomes several smaller pieces. What action occurred?",
-    "audioPrompt": "A chalk stick becomes several smaller pieces. What action occurred?",
+    "question": "A dry chalk stick snaps into three pieces. Which change has happened?",
+    "audioPrompt": "A dry chalk stick snaps into three pieces. Which change has happened?",
     "visual": "",
     "answers": [
-      "breaking",
-      "reflecting",
-      "orbiting"
+      "stretching into a longer piece",
+      "breaking into smaller pieces",
+      "bending into a loop"
     ],
-    "correct": 0,
-    "explanation": "Breaking makes smaller pieces.",
+    "correct": 1,
+    "explanation": "The one stick has separated into smaller pieces of chalk.",
     "structuredExplanation": {
-      "summary": "Breaking makes smaller pieces."
+      "summary": "The one stick has separated into smaller pieces of chalk."
     },
-    "stage": "recognise",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
     "sequencePriority": 4,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
+    "qualitySchema": "skillr-reviewed-y2-science-v2"
   },
   {
     "id": "ac9s2u03-p-005",
@@ -111,24 +99,21 @@ window.skillrPracticeQuestions = [
     "skill": "physical changes to materials",
     "printable": true,
     "type": "single",
-    "question": "After paper is folded, what material is it?",
-    "audioPrompt": "After paper is folded, what material is it?",
+    "question": "A sheet of paper is folded into a fan. What is the fan made of?",
+    "audioPrompt": "A sheet of paper is folded into a fan. What is the fan made of?",
     "visual": "",
     "answers": [
-      "glass",
-      "paper",
-      "metal"
+      "a new material called fan",
+      "a different material at each fold",
+      "paper"
     ],
-    "correct": 1,
-    "explanation": "Changing shape doesn't change paper into a new material.",
+    "correct": 2,
+    "explanation": "Folding changes the paper’s shape, not what material it is.",
     "structuredExplanation": {
-      "summary": "Changing shape doesn't change paper into a new material."
+      "summary": "Folding changes the paper’s shape, not what material it is."
     },
-    "stage": "recognise",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
     "sequencePriority": 5,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
+    "qualitySchema": "skillr-reviewed-y2-science-v2"
   },
   {
     "id": "ac9s2u03-p-006",
@@ -137,24 +122,21 @@ window.skillrPracticeQuestions = [
     "skill": "physical changes to materials",
     "printable": true,
     "type": "single",
-    "question": "A clay ball is rolled into a snake shape. What stayed the same?",
-    "audioPrompt": "A clay ball is rolled into a snake shape. What stayed the same?",
+    "question": "A ball of modelling clay is pressed flat. Which description is correct?",
+    "audioPrompt": "A ball of modelling clay is pressed flat. Which description is correct?",
     "visual": "",
     "answers": [
-      "the length stayed equal",
-      "the shape stayed round",
-      "the material is still clay"
+      "Its shape changes; it is still clay.",
+      "Its material changes; its shape stays the same.",
+      "Its shape and material must both stay the same."
     ],
-    "correct": 2,
-    "explanation": "The shape changed but the material did not.",
+    "correct": 0,
+    "explanation": "Pressing changes the shape while the material remains clay.",
     "structuredExplanation": {
-      "summary": "The shape changed but the material did not."
+      "summary": "Pressing changes the shape while the material remains clay."
     },
-    "stage": "recognise",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
     "sequencePriority": 6,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
+    "qualitySchema": "skillr-reviewed-y2-science-v2"
   },
   {
     "id": "ac9s2u03-p-007",
@@ -163,24 +145,21 @@ window.skillrPracticeQuestions = [
     "skill": "physical changes to materials",
     "printable": true,
     "type": "single",
-    "question": "Aluminium foil is crumpled into a ball. Which statement is true?",
-    "audioPrompt": "Aluminium foil is crumpled into a ball. Which statement is true?",
+    "question": "One piece of foil is crumpled into a ball. What has changed?",
+    "audioPrompt": "One piece of foil is crumpled into a ball. What has changed?",
     "visual": "",
     "answers": [
-      "no physical change happened",
-      "it became water",
-      "it is still aluminium foil"
+      "the kind of metal it is",
+      "the number of materials it contains",
+      "its shape"
     ],
     "correct": 2,
-    "explanation": "Crumpling changes shape, not composition.",
+    "explanation": "Crumpling changes the foil’s shape without making a new material.",
     "structuredExplanation": {
-      "summary": "Crumpling changes shape, not composition."
+      "summary": "Crumpling changes the foil’s shape without making a new material."
     },
-    "stage": "recognise",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
     "sequencePriority": 7,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
+    "qualitySchema": "skillr-reviewed-y2-science-v2"
   },
   {
     "id": "ac9s2u03-p-008",
@@ -189,24 +168,21 @@ window.skillrPracticeQuestions = [
     "skill": "physical changes to materials",
     "printable": true,
     "type": "single",
-    "question": "A sheet is cut into four pieces. What changed?",
-    "audioPrompt": "A sheet is cut into four pieces. What changed?",
+    "question": "A cracker is broken into crumbs. What are the crumbs?",
+    "audioPrompt": "A cracker is broken into crumbs. What are the crumbs?",
     "visual": "",
     "answers": [
-      "its size and number of pieces",
-      "it became alive",
-      "its material became plastic"
+      "a new material made by breaking",
+      "smaller pieces of the cracker",
+      "the same-sized cracker as before"
     ],
-    "correct": 0,
-    "explanation": "Cutting changes size and arrangement.",
+    "correct": 1,
+    "explanation": "Breaking changes the size and number of pieces, not the material they are made from.",
     "structuredExplanation": {
-      "summary": "Cutting changes size and arrangement."
+      "summary": "Breaking changes the size and number of pieces, not the material they are made from."
     },
-    "stage": "recognise",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
     "sequencePriority": 8,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
+    "qualitySchema": "skillr-reviewed-y2-science-v2"
   },
   {
     "id": "ac9s2u03-p-009",
@@ -215,24 +191,21 @@ window.skillrPracticeQuestions = [
     "skill": "physical changes to materials",
     "printable": true,
     "type": "single",
-    "question": "Which record best shows a physical change?",
-    "audioPrompt": "Which record best shows a physical change?",
+    "question": "Which action could make a straight, soft wire into a hook without cutting it?",
+    "audioPrompt": "Which action could make a straight, soft wire into a hook without cutting it?",
     "visual": "",
     "answers": [
-      "an unlabelled guess",
-      "a favourite-colour list",
-      "a labelled before-and-after picture"
+      "bending it",
+      "breaking it into short pieces",
+      "stretching a rubber band beside it"
     ],
-    "correct": 2,
-    "explanation": "Before-and-after evidence shows the observable effect.",
+    "correct": 0,
+    "explanation": "Bending the wire can make a hook while keeping it in one piece.",
     "structuredExplanation": {
-      "summary": "Before-and-after evidence shows the observable effect."
+      "summary": "Bending the wire can make a hook while keeping it in one piece."
     },
-    "stage": "recognise",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
     "sequencePriority": 9,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
+    "qualitySchema": "skillr-reviewed-y2-science-v2"
   },
   {
     "id": "ac9s2u03-p-010",
@@ -241,24 +214,21 @@ window.skillrPracticeQuestions = [
     "skill": "physical changes to materials",
     "printable": true,
     "type": "single",
-    "question": "Which sentence correctly names an action and its effect?",
-    "audioPrompt": "Which sentence correctly names an action and its effect?",
+    "question": "A ribbon needs a spiral shape. Which action should a child try?",
+    "audioPrompt": "A ribbon needs a spiral shape. Which action should a child try?",
     "visual": "",
     "answers": [
-      "Longer stretched the action",
-      "Stretching made the band longer",
-      "Paper made bending disappear"
+      "twist it",
+      "cut it into squares",
+      "press it flat without turning it"
     ],
-    "correct": 1,
-    "explanation": "It clearly links the action to an observable change.",
+    "correct": 0,
+    "explanation": "Twisting turns the ribbon along its length to form a spiral.",
     "structuredExplanation": {
-      "summary": "It clearly links the action to an observable change."
+      "summary": "Twisting turns the ribbon along its length to form a spiral."
     },
-    "stage": "recognise",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
     "sequencePriority": 10,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
+    "qualitySchema": "skillr-reviewed-y2-science-v2"
   },
   {
     "id": "ac9s2u03-p-011",
@@ -267,24 +237,21 @@ window.skillrPracticeQuestions = [
     "skill": "physical changes to materials",
     "printable": true,
     "type": "single",
-    "question": "A soft craft wire is curved into a circle. What changed?",
-    "audioPrompt": "A soft craft wire is curved into a circle. What changed?",
+    "question": "A whole sheet of paper becomes four separate rectangles after cutting. What stayed the same?",
+    "audioPrompt": "A whole sheet of paper becomes four separate rectangles after cutting. What stayed the same?",
     "visual": "",
     "answers": [
-      "its shape",
-      "its composition became water",
-      "it stopped being wire"
+      "the number of pieces",
+      "the size of each piece",
+      "the material of the pieces"
     ],
-    "correct": 0,
-    "explanation": "The wire remains the same material.",
+    "correct": 2,
+    "explanation": "Cutting changes size and number of pieces, but each piece remains paper.",
     "structuredExplanation": {
-      "summary": "The wire remains the same material."
+      "summary": "Cutting changes size and number of pieces, but each piece remains paper."
     },
-    "stage": "recognise",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
     "sequencePriority": 11,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
+    "qualitySchema": "skillr-reviewed-y2-science-v2"
   },
   {
     "id": "ac9s2u03-p-012",
@@ -293,24 +260,21 @@ window.skillrPracticeQuestions = [
     "skill": "physical changes to materials",
     "printable": true,
     "type": "single",
-    "question": "A damp cloth is turned tightly to squeeze out water. Which action is used?",
-    "audioPrompt": "A damp cloth is turned tightly to squeeze out water. Which action is used?",
+    "question": "A rubber band is gently stretched and then released. It returns to its earlier length. What does this show?",
+    "audioPrompt": "A rubber band is gently stretched and then released. It returns to its earlier length. What does this show?",
     "visual": "",
     "answers": [
-      "shining",
-      "ringing",
-      "twisting"
+      "Every stretched material stays longer.",
+      "This shape change can be undone.",
+      "Stretching always makes a new material."
     ],
-    "correct": 2,
-    "explanation": "The cloth is turned around itself.",
+    "correct": 1,
+    "explanation": "This band returns to its earlier shape when the pull is removed.",
     "structuredExplanation": {
-      "summary": "The cloth is turned around itself."
+      "summary": "This band returns to its earlier shape when the pull is removed."
     },
-    "stage": "recognise",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
     "sequencePriority": 12,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
+    "qualitySchema": "skillr-reviewed-y2-science-v2"
   },
   {
     "id": "ac9s2u03-p-013",
@@ -319,24 +283,21 @@ window.skillrPracticeQuestions = [
     "skill": "physical changes to materials",
     "printable": true,
     "type": "single",
-    "question": "A sock opening is pulled wider and then released. What property allowed this?",
-    "audioPrompt": "A sock opening is pulled wider and then released. What property allowed this?",
+    "question": "A sheet of paper has been torn. Placing its pieces together does not make them join by themselves. Is it still a physical change?",
+    "audioPrompt": "A sheet of paper has been torn. Placing its pieces together does not make them join by themselves. Is it still a physical change?",
     "visual": "",
     "answers": [
-      "it could make sunlight",
-      "it was a planet",
-      "it could stretch"
+      "Yes; the pieces are still paper.",
+      "No; all physical changes undo themselves.",
+      "No; torn paper is a new material."
     ],
-    "correct": 2,
-    "explanation": "Stretchy materials can change size when pulled.",
+    "correct": 0,
+    "explanation": "A physical change need not be easy to undo; the paper remains the same material.",
     "structuredExplanation": {
-      "summary": "Stretchy materials can change size when pulled."
+      "summary": "A physical change need not be easy to undo; the paper remains the same material."
     },
-    "stage": "recognise",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
     "sequencePriority": 13,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
+    "qualitySchema": "skillr-reviewed-y2-science-v2"
   },
   {
     "id": "ac9s2u03-p-014",
@@ -345,24 +306,21 @@ window.skillrPracticeQuestions = [
     "skill": "physical changes to materials",
     "printable": true,
     "type": "single",
-    "question": "A biscuit snaps into two pieces. Which observation is accurate?",
-    "audioPrompt": "A biscuit snaps into two pieces. Which observation is accurate?",
+    "question": "A sponge is squeezed, then springs back. Which record describes what happened?",
+    "audioPrompt": "A sponge is squeezed, then springs back. Which record describes what happened?",
     "visual": "",
     "answers": [
-      "it became two new materials",
-      "nothing changed",
-      "the pieces are still biscuit"
+      "more pieces while squeezed, fewer pieces when released",
+      "thinner while squeezed, thicker again when released",
+      "a new material while squeezed, sponge again when released"
     ],
-    "correct": 2,
-    "explanation": "Breaking changed size, not the material type.",
+    "correct": 1,
+    "explanation": "Squeezing changes the sponge’s shape temporarily.",
     "structuredExplanation": {
-      "summary": "Breaking changed size, not the material type."
+      "summary": "Squeezing changes the sponge’s shape temporarily."
     },
-    "stage": "recognise",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
     "sequencePriority": 14,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
+    "qualitySchema": "skillr-reviewed-y2-science-v2"
   },
   {
     "id": "ac9s2u03-p-015",
@@ -371,24 +329,21 @@ window.skillrPracticeQuestions = [
     "skill": "physical changes to materials",
     "printable": true,
     "type": "single",
-    "question": "What is a physical change?",
-    "audioPrompt": "What is a physical change?",
+    "question": "Two equal clay balls are used. One stays round; the other is rolled into a long rope. None is lost. Which statement is correct?",
+    "audioPrompt": "Two equal clay balls are used. One stays round; the other is rolled into a long rope. None is lost. Which statement is correct?",
     "visual": "",
     "answers": [
-      "a change to shape or size while the material stays the same",
-      "a movement around the Sun",
-      "only a colour word"
+      "The longer shape must contain more clay.",
+      "The round shape must contain more clay.",
+      "They still contain the same amount of clay."
     ],
-    "correct": 0,
-    "explanation": "This curriculum idea focuses on observable shape or size changes.",
+    "correct": 2,
+    "explanation": "Changing shape does not add or remove clay.",
     "structuredExplanation": {
-      "summary": "This curriculum idea focuses on observable shape or size changes."
+      "summary": "Changing shape does not add or remove clay."
     },
-    "stage": "recognise",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
     "sequencePriority": 15,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
+    "qualitySchema": "skillr-reviewed-y2-science-v2"
   },
   {
     "id": "ac9s2u03-p-016",
@@ -397,24 +352,21 @@ window.skillrPracticeQuestions = [
     "skill": "physical changes to materials",
     "printable": true,
     "type": "single",
-    "question": "In this topic, material composition means —",
-    "audioPrompt": "In this topic, material composition means —",
+    "question": "A child bends a plastic ruler gently, then lets go. It straightens. Which pair describes the action and result?",
+    "audioPrompt": "A child bends a plastic ruler gently, then lets go. It straightens. Which pair describes the action and result?",
     "visual": "",
     "answers": [
-      "where the Sun appears",
-      "what material an object is made from",
-      "the object's favourite use"
+      "breaking; separate pieces",
+      "twisting; a permanent spiral",
+      "bending; a temporary curve"
     ],
-    "correct": 1,
-    "explanation": "Composition describes what the material is.",
+    "correct": 2,
+    "explanation": "The ruler curves under the bend and returns when released.",
     "structuredExplanation": {
-      "summary": "Composition describes what the material is."
+      "summary": "The ruler curves under the bend and returns when released."
     },
-    "stage": "recognise",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
     "sequencePriority": 16,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
+    "qualitySchema": "skillr-reviewed-y2-science-v2"
   },
   {
     "id": "ac9s2u03-p-017",
@@ -423,24 +375,21 @@ window.skillrPracticeQuestions = [
     "skill": "physical changes to materials",
     "printable": true,
     "type": "single",
-    "question": "A folded paper is opened flat again. What does this show?",
-    "audioPrompt": "A folded paper is opened flat again. What does this show?",
+    "question": "A test record says: fabric strip, twists easily; wooden block, does not twist by hand. Which item should be chosen for a twisted decoration?",
+    "audioPrompt": "A test record says: fabric strip, twists easily; wooden block, does not twist by hand. Which item should be chosen for a twisted decoration?",
     "visual": "",
     "answers": [
-      "some physical changes can be reversed",
-      "paper always becomes new material",
-      "folding is not a change"
+      "the fabric strip",
+      "the wooden block",
+      "either, because all materials twist equally"
     ],
     "correct": 0,
-    "explanation": "The shape can be changed back.",
+    "explanation": "The observed fabric strip can be twisted for the intended shape.",
     "structuredExplanation": {
-      "summary": "The shape can be changed back."
+      "summary": "The observed fabric strip can be twisted for the intended shape."
     },
-    "stage": "apply",
-    "difficulty": 2,
-    "difficultyTier": "apply",
     "sequencePriority": 17,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
+    "qualitySchema": "skillr-reviewed-y2-science-v2"
   },
   {
     "id": "ac9s2u03-p-018",
@@ -449,24 +398,21 @@ window.skillrPracticeQuestions = [
     "skill": "physical changes to materials",
     "printable": true,
     "type": "single",
-    "question": "A paper sheet is torn. Which statement is best?",
-    "audioPrompt": "A paper sheet is torn. Which statement is best?",
+    "question": "In a gentle pull test, an elastic strip gets longer but a cotton string shows no clear change. What do the results show?",
+    "audioPrompt": "In a gentle pull test, an elastic strip gets longer but a cotton string shows no clear change. What do the results show?",
     "visual": "",
     "answers": [
-      "it has not changed at all",
-      "it becomes glass",
-      "it stays paper but cannot easily become one whole sheet again"
+      "Every material stretches equally.",
+      "These two items respond differently to the pull.",
+      "The string must have changed into another material."
     ],
-    "correct": 2,
-    "explanation": "A physical change need not be easy to reverse.",
+    "correct": 1,
+    "explanation": "Different items can change by different amounts under similar actions.",
     "structuredExplanation": {
-      "summary": "A physical change need not be easy to reverse."
+      "summary": "Different items can change by different amounts under similar actions."
     },
-    "stage": "apply",
-    "difficulty": 2,
-    "difficultyTier": "apply",
     "sequencePriority": 18,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
+    "qualitySchema": "skillr-reviewed-y2-science-v2"
   },
   {
     "id": "ac9s2u03-p-019",
@@ -475,24 +421,21 @@ window.skillrPracticeQuestions = [
     "skill": "physical changes to materials",
     "printable": true,
     "type": "single",
-    "question": "How is bending different from breaking?",
-    "audioPrompt": "How is bending different from breaking?",
+    "question": "A thin card strip bends into an arch. A thick card block stays straight under the same gentle push. What could explain the difference?",
+    "audioPrompt": "A thin card strip bends into an arch. A thick card block stays straight under the same gentle push. What could explain the difference?",
     "visual": "",
     "answers": [
-      "bending makes new material",
-      "breaking never changes size",
-      "bending keeps one piece; breaking makes pieces"
+      "Card can never bend.",
+      "The pieces have different thicknesses.",
+      "The thin strip has stopped being card."
     ],
-    "correct": 2,
-    "explanation": "The effects on shape and number of pieces differ.",
+    "correct": 1,
+    "explanation": "The form and thickness of an item can affect how easily it bends.",
     "structuredExplanation": {
-      "summary": "The effects on shape and number of pieces differ."
+      "summary": "The form and thickness of an item can affect how easily it bends."
     },
-    "stage": "apply",
-    "difficulty": 2,
-    "difficultyTier": "apply",
     "sequencePriority": 19,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
+    "qualitySchema": "skillr-reviewed-y2-science-v2"
   },
   {
     "id": "ac9s2u03-p-020",
@@ -501,24 +444,21 @@ window.skillrPracticeQuestions = [
     "skill": "physical changes to materials",
     "printable": true,
     "type": "single",
-    "question": "Paper and thin plastic are bent with the same gentle action. Why compare them?",
-    "audioPrompt": "Paper and thin plastic are bent with the same gentle action. Why compare them?",
+    "question": "A clay piece is first stretched into a rope, then twisted. Which order describes the changes?",
+    "audioPrompt": "A clay piece is first stretched into a rope, then twisted. Which order describes the changes?",
     "visual": "",
     "answers": [
-      "to measure sound only",
-      "materials may respond differently",
-      "to prove they become identical"
+      "longer, then twisted",
+      "smaller separate pieces, then flat",
+      "twisted, then longer"
     ],
-    "correct": 1,
-    "explanation": "The same action can have different effects.",
+    "correct": 0,
+    "explanation": "Stretching makes the rope longer before twisting changes its form.",
     "structuredExplanation": {
-      "summary": "The same action can have different effects."
+      "summary": "Stretching makes the rope longer before twisting changes its form."
     },
-    "stage": "apply",
-    "difficulty": 2,
-    "difficultyTier": "apply",
     "sequencePriority": 20,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
+    "qualitySchema": "skillr-reviewed-y2-science-v2"
   },
   {
     "id": "ac9s2u03-p-021",
@@ -527,24 +467,21 @@ window.skillrPracticeQuestions = [
     "skill": "physical changes to materials",
     "printable": true,
     "type": "single",
-    "question": "Which object is most suitable for testing stretching?",
-    "audioPrompt": "Which object is most suitable for testing stretching?",
+    "question": "A strip of paper is twisted. A second strip is torn in half. Which result belongs only to the torn strip?",
+    "audioPrompt": "A strip of paper is twisted. A second strip is torn in half. Which result belongs only to the torn strip?",
     "visual": "",
     "answers": [
-      "a glass marble",
-      "an elastic band",
-      "a ceramic plate"
+      "It is still made of paper.",
+      "Its appearance changes.",
+      "It becomes two separate pieces."
     ],
-    "correct": 1,
-    "explanation": "Elastic bands visibly lengthen under a safe pull.",
+    "correct": 2,
+    "explanation": "Both actions change appearance, but tearing separates the strip into pieces.",
     "structuredExplanation": {
-      "summary": "Elastic bands visibly lengthen under a safe pull."
+      "summary": "Both actions change appearance, but tearing separates the strip into pieces."
     },
-    "stage": "apply",
-    "difficulty": 2,
-    "difficultyTier": "apply",
     "sequencePriority": 21,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
+    "qualitySchema": "skillr-reviewed-y2-science-v2"
   },
   {
     "id": "ac9s2u03-p-022",
@@ -553,24 +490,21 @@ window.skillrPracticeQuestions = [
     "skill": "physical changes to materials",
     "printable": true,
     "type": "single",
-    "question": "Which material can usually be bent safely by hand?",
-    "audioPrompt": "Which material can usually be bent safely by hand?",
+    "question": "A child says, 'If an object's shape changes, its material must change too.' Which example shows this is wrong?",
+    "audioPrompt": "A child says, 'If an object's shape changes, its material must change too.' Which example shows this is wrong?",
     "visual": "",
     "answers": [
-      "a pipe cleaner",
-      "a glass cup",
-      "a sharp blade"
+      "A pencil is replaced with a rubber.",
+      "A bent metal paperclip is still metal.",
+      "A wooden block is swapped for a clay ball."
     ],
-    "correct": 0,
-    "explanation": "A pipe cleaner is flexible and suitable for a safe test.",
+    "correct": 1,
+    "explanation": "The paperclip changes shape while remaining the same material.",
     "structuredExplanation": {
-      "summary": "A pipe cleaner is flexible and suitable for a safe test."
+      "summary": "The paperclip changes shape while remaining the same material."
     },
-    "stage": "apply",
-    "difficulty": 2,
-    "difficultyTier": "apply",
     "sequencePriority": 22,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
+    "qualitySchema": "skillr-reviewed-y2-science-v2"
   },
   {
     "id": "ac9s2u03-p-023",
@@ -579,24 +513,21 @@ window.skillrPracticeQuestions = [
     "skill": "physical changes to materials",
     "printable": true,
     "type": "single",
-    "question": "What should happen before breaking a classroom sample?",
-    "audioPrompt": "What should happen before breaking a classroom sample?",
+    "question": "A cardboard tube is cut lengthways and opened into a sheet. Which statement is supported?",
+    "audioPrompt": "A cardboard tube is cut lengthways and opened into a sheet. Which statement is supported?",
     "visual": "",
     "answers": [
-      "point pieces at a friend",
-      "use only teacher-approved safe material",
-      "taste the sample"
+      "It has become plastic because it is flat.",
+      "No change occurred because it is still cardboard.",
+      "It has a different shape but is still cardboard."
     ],
-    "correct": 1,
-    "explanation": "Safety must be checked before applying force.",
+    "correct": 2,
+    "explanation": "A physical change can alter shape without changing material.",
     "structuredExplanation": {
-      "summary": "Safety must be checked before applying force."
+      "summary": "A physical change can alter shape without changing material."
     },
-    "stage": "apply",
-    "difficulty": 2,
-    "difficultyTier": "apply",
     "sequencePriority": 23,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
+    "qualitySchema": "skillr-reviewed-y2-science-v2"
   },
   {
     "id": "ac9s2u03-p-024",
@@ -605,647 +536,21 @@ window.skillrPracticeQuestions = [
     "skill": "physical changes to materials",
     "printable": true,
     "type": "single",
-    "question": "To compare how two paper types bend, what should be the same?",
-    "audioPrompt": "To compare how two paper types bend, what should be the same?",
+    "question": "A child wants smaller pieces of a modelling-clay rope. Which action achieves that while keeping the material the same?",
+    "audioPrompt": "A child wants smaller pieces of a modelling-clay rope. Which action achieves that while keeping the material the same?",
     "visual": "",
     "answers": [
-      "the size of each strip and bending action",
-      "every feature including paper type",
-      "the result chosen first"
+      "break it into sections",
+      "bend the whole rope into a circle",
+      "twist the whole rope into a spiral"
     ],
     "correct": 0,
-    "explanation": "Keeping conditions similar makes the comparison fair.",
+    "explanation": "Breaking separates the clay into smaller pieces; bending or twisting alone keeps it together.",
     "structuredExplanation": {
-      "summary": "Keeping conditions similar makes the comparison fair."
+      "summary": "Breaking separates the clay into smaller pieces; bending or twisting alone keeps it together."
     },
-    "stage": "apply",
-    "difficulty": 2,
-    "difficultyTier": "apply",
     "sequencePriority": 24,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
-  },
-  {
-    "id": "ac9s2u03-p-025",
-    "curriculumCode": "AC9S2U03",
-    "bank": "practice",
-    "skill": "physical changes to materials",
-    "printable": true,
-    "type": "single",
-    "question": "Clay is flattened. Which properties can be checked before and after?",
-    "audioPrompt": "Clay is flattened. Which properties can be checked before and after?",
-    "visual": "",
-    "answers": [
-      "planet and star type",
-      "shape and thickness",
-      "pitch and volume only"
-    ],
-    "correct": 1,
-    "explanation": "Shape and thickness are observable material features.",
-    "structuredExplanation": {
-      "summary": "Shape and thickness are observable material features."
-    },
-    "stage": "apply",
-    "difficulty": 2,
-    "difficultyTier": "apply",
-    "sequencePriority": 25,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
-  },
-  {
-    "id": "ac9s2u03-p-026",
-    "curriculumCode": "AC9S2U03",
-    "bank": "practice",
-    "skill": "physical changes to materials",
-    "printable": true,
-    "type": "single",
-    "question": "Chalk is crushed to powder. What has happened?",
-    "audioPrompt": "Chalk is crushed to powder. What has happened?",
-    "visual": "",
-    "answers": [
-      "it became flour",
-      "it became a liquid",
-      "it became smaller pieces of chalk"
-    ],
-    "correct": 2,
-    "explanation": "Powder contains very small pieces of the same material.",
-    "structuredExplanation": {
-      "summary": "Powder contains very small pieces of the same material."
-    },
-    "stage": "apply",
-    "difficulty": 2,
-    "difficultyTier": "apply",
-    "sequencePriority": 26,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
-  },
-  {
-    "id": "ac9s2u03-p-027",
-    "curriculumCode": "AC9S2U03",
-    "bank": "practice",
-    "skill": "physical changes to materials",
-    "printable": true,
-    "type": "single",
-    "question": "A pencil is sharpened and wood shavings appear. What changed physically?",
-    "audioPrompt": "A pencil is sharpened and wood shavings appear. What changed physically?",
-    "visual": "",
-    "answers": [
-      "nothing was removed",
-      "some wood became smaller pieces",
-      "the pencil became a star"
-    ],
-    "correct": 1,
-    "explanation": "Sharpening changes size and shape.",
-    "structuredExplanation": {
-      "summary": "Sharpening changes size and shape."
-    },
-    "stage": "apply",
-    "difficulty": 2,
-    "difficultyTier": "apply",
-    "sequencePriority": 27,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
-  },
-  {
-    "id": "ac9s2u03-p-028",
-    "curriculumCode": "AC9S2U03",
-    "bank": "practice",
-    "skill": "physical changes to materials",
-    "printable": true,
-    "type": "single",
-    "question": "Dough is pressed into a flat disc. Which effect is visible?",
-    "audioPrompt": "Dough is pressed into a flat disc. Which effect is visible?",
-    "visual": "",
-    "answers": [
-      "its material vanishes",
-      "it becomes flatter and wider",
-      "it becomes metal"
-    ],
-    "correct": 1,
-    "explanation": "Pressing changes shape and dimensions.",
-    "structuredExplanation": {
-      "summary": "Pressing changes shape and dimensions."
-    },
-    "stage": "apply",
-    "difficulty": 2,
-    "difficultyTier": "apply",
-    "sequencePriority": 28,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
-  },
-  {
-    "id": "ac9s2u03-p-029",
-    "curriculumCode": "AC9S2U03",
-    "bank": "practice",
-    "skill": "physical changes to materials",
-    "printable": true,
-    "type": "single",
-    "question": "A clay block is rolled into a long cylinder. What is the strongest evidence of change?",
-    "audioPrompt": "A clay block is rolled into a long cylinder. What is the strongest evidence of change?",
-    "visual": "",
-    "answers": [
-      "a before-and-after length comparison",
-      "the child's opinion",
-      "the table colour"
-    ],
-    "correct": 0,
-    "explanation": "Length can be observed and compared.",
-    "structuredExplanation": {
-      "summary": "Length can be observed and compared."
-    },
-    "stage": "apply",
-    "difficulty": 2,
-    "difficultyTier": "apply",
-    "sequencePriority": 29,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
-  },
-  {
-    "id": "ac9s2u03-p-030",
-    "curriculumCode": "AC9S2U03",
-    "bank": "practice",
-    "skill": "physical changes to materials",
-    "printable": true,
-    "type": "single",
-    "question": "Sam says a clay star is a new material because it was once a ball. What is correct?",
-    "audioPrompt": "Sam says a clay star is a new material because it was once a ball. What is correct?",
-    "visual": "",
-    "answers": [
-      "the ball was metal",
-      "both shapes are clay",
-      "every new shape is a new material"
-    ],
-    "correct": 1,
-    "explanation": "Shape and composition are different ideas.",
-    "structuredExplanation": {
-      "summary": "Shape and composition are different ideas."
-    },
-    "stage": "apply",
-    "difficulty": 2,
-    "difficultyTier": "apply",
-    "sequencePriority": 30,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
-  },
-  {
-    "id": "ac9s2u03-p-031",
-    "curriculumCode": "AC9S2U03",
-    "bank": "practice",
-    "skill": "physical changes to materials",
-    "printable": true,
-    "type": "single",
-    "question": "Which group contains only physical changes?",
-    "audioPrompt": "Which group contains only physical changes?",
-    "visual": "",
-    "answers": [
-      "fold paper, twist clay, stretch elastic",
-      "orbit Earth, reflect moonlight",
-      "hear music, see a star"
-    ],
-    "correct": 0,
-    "explanation": "Each correct example changes form while retaining material.",
-    "structuredExplanation": {
-      "summary": "Each correct example changes form while retaining material."
-    },
-    "stage": "apply",
-    "difficulty": 2,
-    "difficultyTier": "apply",
-    "sequencePriority": 31,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
-  },
-  {
-    "id": "ac9s2u03-p-032",
-    "curriculumCode": "AC9S2U03",
-    "bank": "practice",
-    "skill": "physical changes to materials",
-    "printable": true,
-    "type": "single",
-    "question": "Why might a maker bend cardboard?",
-    "audioPrompt": "Why might a maker bend cardboard?",
-    "visual": "",
-    "answers": [
-      "to make sunlight",
-      "to turn it into steel",
-      "to change its shape for a useful form"
-    ],
-    "correct": 2,
-    "explanation": "Physical changes help materials suit purposes.",
-    "structuredExplanation": {
-      "summary": "Physical changes help materials suit purposes."
-    },
-    "stage": "apply",
-    "difficulty": 2,
-    "difficultyTier": "apply",
-    "sequencePriority": 32,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
-  },
-  {
-    "id": "ac9s2u03-p-033",
-    "curriculumCode": "AC9S2U03",
-    "bank": "practice",
-    "skill": "physical changes to materials",
-    "printable": true,
-    "type": "single",
-    "question": "A sheet of foil is pressed around a toy to copy its outline. What makes foil useful here?",
-    "audioPrompt": "A sheet of foil is pressed around a toy to copy its outline. What makes foil useful here?",
-    "visual": "",
-    "answers": [
-      "It can be reshaped",
-      "It turns into the toy's material",
-      "It cannot bend"
-    ],
-    "correct": 0,
-    "explanation": "Foil can keep a changed shape while remaining foil.",
-    "structuredExplanation": {
-      "summary": "Foil can keep a changed shape while remaining foil."
-    },
-    "stage": "reason",
-    "difficulty": 3,
-    "difficultyTier": "reason",
-    "sequencePriority": 33,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
-  },
-  {
-    "id": "ac9s2u03-p-034",
-    "curriculumCode": "AC9S2U03",
-    "bank": "practice",
-    "skill": "physical changes to materials",
-    "printable": true,
-    "type": "single",
-    "question": "A dough ring is pulled until it becomes a longer oval. What happened to its shape?",
-    "audioPrompt": "A dough ring is pulled until it becomes a longer oval. What happened to its shape?",
-    "visual": "",
-    "answers": [
-      "It became a different material",
-      "It did not change at all",
-      "It became longer in the pulling direction"
-    ],
-    "correct": 2,
-    "explanation": "Pulling can stretch and reshape soft dough.",
-    "structuredExplanation": {
-      "summary": "Pulling can stretch and reshape soft dough."
-    },
-    "stage": "reason",
-    "difficulty": 3,
-    "difficultyTier": "reason",
-    "sequencePriority": 34,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
-  },
-  {
-    "id": "ac9s2u03-p-035",
-    "curriculumCode": "AC9S2U03",
-    "bank": "practice",
-    "skill": "physical changes to materials",
-    "printable": true,
-    "type": "single",
-    "question": "A child cuts a circle from card. What are the circle and leftover sheet made from?",
-    "audioPrompt": "A child cuts a circle from card. What are the circle and leftover sheet made from?",
-    "visual": "",
-    "answers": [
-      "Two new materials",
-      "The same card",
-      "Liquid paper"
-    ],
-    "correct": 1,
-    "explanation": "Cutting changes the pieces' shapes but they remain card.",
-    "structuredExplanation": {
-      "summary": "Cutting changes the pieces' shapes but they remain card."
-    },
-    "stage": "reason",
-    "difficulty": 3,
-    "difficultyTier": "reason",
-    "sequencePriority": 35,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
-  },
-  {
-    "id": "ac9s2u03-p-036",
-    "curriculumCode": "AC9S2U03",
-    "bank": "practice",
-    "skill": "physical changes to materials",
-    "printable": true,
-    "type": "single",
-    "question": "A thin strip is bent into a hook to hang a decoration. Why bend the strip?",
-    "audioPrompt": "A thin strip is bent into a hook to hang a decoration. Why bend the strip?",
-    "visual": "",
-    "answers": [
-      "To remove all its material",
-      "To make it a new substance",
-      "To make a shape suited to the job"
-    ],
-    "correct": 2,
-    "explanation": "Changing shape can make a material useful for a particular purpose.",
-    "structuredExplanation": {
-      "summary": "Changing shape can make a material useful for a particular purpose."
-    },
-    "stage": "reason",
-    "difficulty": 3,
-    "difficultyTier": "reason",
-    "sequencePriority": 36,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
-  },
-  {
-    "id": "ac9s2u03-p-037",
-    "curriculumCode": "AC9S2U03",
-    "bank": "practice",
-    "skill": "physical changes to materials",
-    "printable": true,
-    "type": "single",
-    "question": "A dry twig snaps while a soft stem bends under a gentle push. What differs?",
-    "audioPrompt": "A dry twig snaps while a soft stem bends under a gentle push. What differs?",
-    "visual": "",
-    "answers": [
-      "Whether either object has a shape",
-      "Whether the child can see them",
-      "How the materials respond to the push"
-    ],
-    "correct": 2,
-    "explanation": "Some materials break while others bend under a similar action.",
-    "structuredExplanation": {
-      "summary": "Some materials break while others bend under a similar action."
-    },
-    "stage": "reason",
-    "difficulty": 3,
-    "difficultyTier": "reason",
-    "sequencePriority": 37,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
-  },
-  {
-    "id": "ac9s2u03-p-038",
-    "curriculumCode": "AC9S2U03",
-    "bank": "practice",
-    "skill": "physical changes to materials",
-    "printable": true,
-    "type": "single",
-    "question": "A flat clay piece is curled into a bowl with raised sides. Which change helps it hold beads?",
-    "audioPrompt": "A flat clay piece is curled into a bowl with raised sides. Which change helps it hold beads?",
-    "visual": "",
-    "answers": [
-      "Its new bowl shape",
-      "Its new metal material",
-      "Its new colour alone"
-    ],
-    "correct": 0,
-    "explanation": "Reshaping clay into a bowl creates sides that can hold objects.",
-    "structuredExplanation": {
-      "summary": "Reshaping clay into a bowl creates sides that can hold objects."
-    },
-    "stage": "reason",
-    "difficulty": 3,
-    "difficultyTier": "reason",
-    "sequencePriority": 38,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
-  },
-  {
-    "id": "ac9s2u03-p-039",
-    "curriculumCode": "AC9S2U03",
-    "bank": "practice",
-    "skill": "physical changes to materials",
-    "printable": true,
-    "type": "single",
-    "question": "A sponge is compressed under a small block. It becomes tall again when the block is removed. What does this show?",
-    "audioPrompt": "A sponge is compressed under a small block. It becomes tall again when the block is removed. What does this show?",
-    "visual": "",
-    "answers": [
-      "The shape change can be mostly undone",
-      "The sponge became a new substance",
-      "The sponge never changed shape"
-    ],
-    "correct": 0,
-    "explanation": "Some materials spring back when a pushing force is removed.",
-    "structuredExplanation": {
-      "summary": "Some materials spring back when a pushing force is removed."
-    },
-    "stage": "reason",
-    "difficulty": 3,
-    "difficultyTier": "reason",
-    "sequencePriority": 39,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
-  },
-  {
-    "id": "ac9s2u03-p-040",
-    "curriculumCode": "AC9S2U03",
-    "bank": "practice",
-    "skill": "physical changes to materials",
-    "printable": true,
-    "type": "single",
-    "question": "A long paper chain is cut between two links. What changed?",
-    "audioPrompt": "A long paper chain is cut between two links. What changed?",
-    "visual": "",
-    "answers": [
-      "The paper became metal",
-      "There are now two shorter chains",
-      "All the links disappeared"
-    ],
-    "correct": 1,
-    "explanation": "Cutting changes the arrangement and length, while the links remain paper.",
-    "structuredExplanation": {
-      "summary": "Cutting changes the arrangement and length, while the links remain paper."
-    },
-    "stage": "reason",
-    "difficulty": 3,
-    "difficultyTier": "reason",
-    "sequencePriority": 40,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
-  },
-  {
-    "id": "ac9s2u03-p-041",
-    "curriculumCode": "AC9S2U03",
-    "bank": "practice",
-    "skill": "physical changes to materials",
-    "printable": true,
-    "type": "single",
-    "question": "A strip of wool is pulled gently but does not get noticeably longer. What was observed?",
-    "audioPrompt": "A strip of wool is pulled gently but does not get noticeably longer. What was observed?",
-    "visual": "",
-    "answers": [
-      "It changed into metal",
-      "Pulling always doubles length",
-      "It did not stretch much in this test"
-    ],
-    "correct": 2,
-    "explanation": "Some materials stretch little under a gentle pull.",
-    "structuredExplanation": {
-      "summary": "Some materials stretch little under a gentle pull."
-    },
-    "stage": "reason",
-    "difficulty": 3,
-    "difficultyTier": "reason",
-    "sequencePriority": 41,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
-  },
-  {
-    "id": "ac9s2u03-p-042",
-    "curriculumCode": "AC9S2U03",
-    "bank": "practice",
-    "skill": "physical changes to materials",
-    "printable": true,
-    "type": "single",
-    "question": "A clay tile has a hole pressed through it. What changed?",
-    "audioPrompt": "A clay tile has a hole pressed through it. What changed?",
-    "visual": "",
-    "answers": [
-      "Its material became wood",
-      "It became a liquid",
-      "Its shape, with an opening added"
-    ],
-    "correct": 2,
-    "explanation": "Making an opening changes the shape while the clay remains clay.",
-    "structuredExplanation": {
-      "summary": "Making an opening changes the shape while the clay remains clay."
-    },
-    "stage": "reason",
-    "difficulty": 3,
-    "difficultyTier": "reason",
-    "sequencePriority": 42,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
-  },
-  {
-    "id": "ac9s2u03-p-043",
-    "curriculumCode": "AC9S2U03",
-    "bank": "practice",
-    "skill": "physical changes to materials",
-    "printable": true,
-    "type": "single",
-    "question": "A cardboard box is opened along its folds and laid flat. What stayed the same?",
-    "audioPrompt": "A cardboard box is opened along its folds and laid flat. What stayed the same?",
-    "visual": "",
-    "answers": [
-      "It still has the same box shape",
-      "It is still cardboard",
-      "It is now made of cloth"
-    ],
-    "correct": 1,
-    "explanation": "Unfolding changes the form but not the material.",
-    "structuredExplanation": {
-      "summary": "Unfolding changes the form but not the material."
-    },
-    "stage": "reason",
-    "difficulty": 3,
-    "difficultyTier": "reason",
-    "sequencePriority": 43,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
-  },
-  {
-    "id": "ac9s2u03-p-044",
-    "curriculumCode": "AC9S2U03",
-    "bank": "practice",
-    "skill": "physical changes to materials",
-    "printable": true,
-    "type": "single",
-    "question": "A paper strip is twisted, while another is bent into an arch. What is different?",
-    "audioPrompt": "A paper strip is twisted, while another is bent into an arch. What is different?",
-    "visual": "",
-    "answers": [
-      "The paper has become two new materials",
-      "The actions used to change their shapes",
-      "Only one strip is still paper"
-    ],
-    "correct": 1,
-    "explanation": "Twisting and bending change shape in different ways.",
-    "structuredExplanation": {
-      "summary": "Twisting and bending change shape in different ways."
-    },
-    "stage": "reason",
-    "difficulty": 3,
-    "difficultyTier": "reason",
-    "sequencePriority": 44,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
-  },
-  {
-    "id": "ac9s2u03-p-045",
-    "curriculumCode": "AC9S2U03",
-    "bank": "practice",
-    "skill": "physical changes to materials",
-    "printable": true,
-    "type": "single",
-    "question": "A soft ball of dough is divided equally into four pieces. What can be observed?",
-    "audioPrompt": "A soft ball of dough is divided equally into four pieces. What can be observed?",
-    "visual": "",
-    "answers": [
-      "Four smaller pieces of the same dough",
-      "Four different materials",
-      "No dough remains"
-    ],
-    "correct": 0,
-    "explanation": "Dividing changes the number and size of pieces, not what they are made from.",
-    "structuredExplanation": {
-      "summary": "Dividing changes the number and size of pieces, not what they are made from."
-    },
-    "stage": "reason",
-    "difficulty": 3,
-    "difficultyTier": "reason",
-    "sequencePriority": 45,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
-  },
-  {
-    "id": "ac9s2u03-p-046",
-    "curriculumCode": "AC9S2U03",
-    "bank": "practice",
-    "skill": "physical changes to materials",
-    "printable": true,
-    "type": "single",
-    "question": "A craft maker twists plant fibres into cord. What is the purpose of the twisting?",
-    "audioPrompt": "A craft maker twists plant fibres into cord. What is the purpose of the twisting?",
-    "visual": "",
-    "answers": [
-      "To turn fibres into metal",
-      "To join and shape fibres into a useful cord",
-      "To make the fibres disappear"
-    ],
-    "correct": 1,
-    "explanation": "Twisting can change the arrangement of fibres for a useful purpose.",
-    "structuredExplanation": {
-      "summary": "Twisting can change the arrangement of fibres for a useful purpose."
-    },
-    "stage": "reason",
-    "difficulty": 3,
-    "difficultyTier": "reason",
-    "sequencePriority": 46,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
-  },
-  {
-    "id": "ac9s2u03-p-047",
-    "curriculumCode": "AC9S2U03",
-    "bank": "practice",
-    "skill": "physical changes to materials",
-    "printable": true,
-    "type": "single",
-    "question": "A paper strip tears when pulled, but a fabric strip stays whole. What does this show?",
-    "audioPrompt": "A paper strip tears when pulled, but a fabric strip stays whole. What does this show?",
-    "visual": "",
-    "answers": [
-      "Materials can respond differently to a pull",
-      "Every pull changes the material type",
-      "Paper cannot change shape"
-    ],
-    "correct": 0,
-    "explanation": "The same kind of action can have different effects on materials.",
-    "structuredExplanation": {
-      "summary": "The same kind of action can have different effects on materials."
-    },
-    "stage": "reason",
-    "difficulty": 3,
-    "difficultyTier": "reason",
-    "sequencePriority": 47,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
-  },
-  {
-    "id": "ac9s2u03-p-048",
-    "curriculumCode": "AC9S2U03",
-    "bank": "practice",
-    "skill": "physical changes to materials",
-    "printable": true,
-    "type": "single",
-    "question": "A sculptor adds dents to clay using a blunt tool. What evidence shows the physical change?",
-    "audioPrompt": "A sculptor adds dents to clay using a blunt tool. What evidence shows the physical change?",
-    "visual": "",
-    "answers": [
-      "The surface has new hollows",
-      "The clay has become plastic",
-      "The clay is now a star"
-    ],
-    "correct": 0,
-    "explanation": "Dents change the surface shape while the material remains clay.",
-    "structuredExplanation": {
-      "summary": "Dents change the surface shape while the material remains clay."
-    },
-    "stage": "reason",
-    "difficulty": 3,
-    "difficultyTier": "reason",
-    "sequencePriority": 48,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
+    "qualitySchema": "skillr-reviewed-y2-science-v2"
   }
 ];
+window.quizQuestions = window.skillrPracticeQuestions;

@@ -7,24 +7,21 @@ window.skillrPracticeQuestions = [
     "skill": "science in daily life and evidence-based predictions",
     "printable": true,
     "type": "single",
-    "question": "Which activity uses science to keep food safe?",
-    "audioPrompt": "Which activity uses science to keep food safe?",
+    "question": "A gardener feels that the soil is dry before deciding to water. How is science helping?",
+    "audioPrompt": "A gardener feels that the soil is dry before deciding to water. How is science helping?",
     "visual": "",
     "answers": [
-      "leaving milk in sunlight",
-      "guessing whether it is cold",
-      "putting milk in a refrigerator"
+      "An observation guides plant care.",
+      "A favourite colour decides the amount of water.",
+      "Water is added without checking the plant."
     ],
-    "correct": 2,
-    "explanation": "Cooling slows changes that can spoil food.",
+    "correct": 0,
+    "explanation": "Checking soil gives information that helps the gardener decide what to do.",
     "structuredExplanation": {
-      "summary": "Cooling slows changes that can spoil food."
+      "summary": "Checking soil gives information that helps the gardener decide what to do."
     },
-    "stage": "recognise",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
     "sequencePriority": 1,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
+    "qualitySchema": "skillr-reviewed-y2-science-v2"
   },
   {
     "id": "ac9s2h01-p-002",
@@ -33,24 +30,21 @@ window.skillrPracticeQuestions = [
     "skill": "science in daily life and evidence-based predictions",
     "printable": true,
     "type": "single",
-    "question": "Dark clouds have brought rain on three afternoons. What is a sensible prediction today?",
-    "audioPrompt": "Dark clouds have brought rain on three afternoons. What is a sensible prediction today?",
+    "question": "A family compares two fabrics. Water passes through one but rolls off the other. Which should they choose for a rain cover?",
+    "audioPrompt": "A family compares two fabrics. Water passes through one but rolls off the other. Which should they choose for a rain cover?",
     "visual": "",
     "answers": [
-      "rain is impossible",
-      "clouds are made by umbrellas",
-      "rain may occur again"
+      "the fabric that lets water pass through",
+      "the fabric that sheds water",
+      "whichever fabric has the brightest colour"
     ],
-    "correct": 2,
-    "explanation": "A repeated weather pattern can support a cautious prediction.",
+    "correct": 1,
+    "explanation": "Testing how the fabrics handle water helps the family choose a useful cover.",
     "structuredExplanation": {
-      "summary": "A repeated weather pattern can support a cautious prediction."
+      "summary": "Testing how the fabrics handle water helps the family choose a useful cover."
     },
-    "stage": "recognise",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
     "sequencePriority": 2,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
+    "qualitySchema": "skillr-reviewed-y2-science-v2"
   },
   {
     "id": "ac9s2h01-p-003",
@@ -59,24 +53,21 @@ window.skillrPracticeQuestions = [
     "skill": "science in daily life and evidence-based predictions",
     "printable": true,
     "type": "single",
-    "question": "A gardener checks dry soil before watering. How is science being used?",
-    "audioPrompt": "A gardener checks dry soil before watering. How is science being used?",
+    "question": "A drummer wants a quieter sound for a small room. Which knowledge helps?",
+    "audioPrompt": "A drummer wants a quieter sound for a small room. Which knowledge helps?",
     "visual": "",
     "answers": [
-      "soil colour proves plant age",
-      "observation guides a decision",
-      "water is added randomly"
+      "Faster beats always make softer sounds.",
+      "A darker drum always makes softer sounds.",
+      "Gentler taps usually make softer sounds."
     ],
-    "correct": 1,
-    "explanation": "The gardener uses visible evidence.",
+    "correct": 2,
+    "explanation": "Knowledge about the effect of striking force helps the drummer control loudness.",
     "structuredExplanation": {
-      "summary": "The gardener uses visible evidence."
+      "summary": "Knowledge about the effect of striking force helps the drummer control loudness."
     },
-    "stage": "recognise",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
     "sequencePriority": 3,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
+    "qualitySchema": "skillr-reviewed-y2-science-v2"
   },
   {
     "id": "ac9s2h01-p-004",
@@ -85,24 +76,21 @@ window.skillrPracticeQuestions = [
     "skill": "science in daily life and evidence-based predictions",
     "printable": true,
     "type": "single",
-    "question": "Why does a cook use a timer?",
-    "audioPrompt": "Why does a cook use a timer?",
+    "question": "A builder tests a roof model with water before using the design. Why is the test useful?",
+    "audioPrompt": "A builder tests a roof model with water before using the design. Why is the test useful?",
     "visual": "",
     "answers": [
-      "to make heat disappear",
-      "to change food into metal",
-      "to measure cooking time consistently"
+      "It proves no building will ever leak.",
+      "It tells which colour everyone prefers.",
+      "It can reveal where water leaks through."
     ],
     "correct": 2,
-    "explanation": "Measurement helps people cook safely and consistently.",
+    "explanation": "A practical test gives evidence that can improve a design.",
     "structuredExplanation": {
-      "summary": "Measurement helps people cook safely and consistently."
+      "summary": "A practical test gives evidence that can improve a design."
     },
-    "stage": "recognise",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
     "sequencePriority": 4,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
+    "qualitySchema": "skillr-reviewed-y2-science-v2"
   },
   {
     "id": "ac9s2h01-p-005",
@@ -111,24 +99,21 @@ window.skillrPracticeQuestions = [
     "skill": "science in daily life and evidence-based predictions",
     "printable": true,
     "type": "single",
-    "question": "A forecast says a cold front is arriving. Which one uses science?",
-    "audioPrompt": "A forecast says a cold front is arriving. Which one uses science?",
+    "question": "A parent puts cold groceries in a cool bag for the trip home. Which property makes the bag useful?",
+    "audioPrompt": "A parent puts cold groceries in a cool bag for the trip home. Which property makes the bag useful?",
     "visual": "",
     "answers": [
-      "take a warm jacket",
-      "ignore the forecast",
-      "wear wet clothes"
+      "It makes the outside air colder.",
+      "It slows heat entering from warm surroundings.",
+      "It changes every food into ice."
     ],
-    "correct": 0,
-    "explanation": "Forecast evidence helps people prepare.",
+    "correct": 1,
+    "explanation": "The bag slows heat transfer, helping the groceries stay cool.",
     "structuredExplanation": {
-      "summary": "Forecast evidence helps people prepare."
+      "summary": "The bag slows heat transfer, helping the groceries stay cool."
     },
-    "stage": "recognise",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
     "sequencePriority": 5,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
+    "qualitySchema": "skillr-reviewed-y2-science-v2"
   },
   {
     "id": "ac9s2h01-p-006",
@@ -137,24 +122,21 @@ window.skillrPracticeQuestions = [
     "skill": "science in daily life and evidence-based predictions",
     "printable": true,
     "type": "single",
-    "question": "How does science help make a bicycle helmet useful?",
-    "audioPrompt": "How does science help make a bicycle helmet useful?",
+    "question": "A gardener's records show seedlings near the bright window grew better than those in a dark corner. Where should similar new seedlings be placed?",
+    "audioPrompt": "A gardener's records show seedlings near the bright window grew better than those in a dark corner. Where should similar new seedlings be placed?",
     "visual": "",
     "answers": [
-      "every material protects equally",
-      "materials are tested for protection",
-      "helmets are chosen by magic"
+      "near the bright window",
+      "in the dark corner",
+      "in either spot because the records do not matter"
     ],
-    "correct": 1,
-    "explanation": "Testing helps designers choose protective shapes and materials.",
+    "correct": 0,
+    "explanation": "The gardener uses earlier growth observations to choose a suitable place.",
     "structuredExplanation": {
-      "summary": "Testing helps designers choose protective shapes and materials."
+      "summary": "The gardener uses earlier growth observations to choose a suitable place."
     },
-    "stage": "recognise",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
     "sequencePriority": 6,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
+    "qualitySchema": "skillr-reviewed-y2-science-v2"
   },
   {
     "id": "ac9s2h01-p-007",
@@ -163,24 +145,21 @@ window.skillrPracticeQuestions = [
     "skill": "science in daily life and evidence-based predictions",
     "printable": true,
     "type": "single",
-    "question": "A playground is hottest where there is no shade. What action follows the evidence?",
-    "audioPrompt": "A playground is hottest where there is no shade. What action follows the evidence?",
+    "question": "A path has become slippery after rain several times. Rain is falling again. What should a walker predict?",
+    "audioPrompt": "A path has become slippery after rain several times. Rain is falling again. What should a walker predict?",
     "visual": "",
     "answers": [
-      "add shade where people play",
-      "paint a random number",
-      "claim temperature never changes"
+      "The path must stay dry this time.",
+      "The path may be slippery again.",
+      "Every nearby path will feel exactly the same."
     ],
-    "correct": 0,
-    "explanation": "Temperature patterns guide safer design.",
+    "correct": 1,
+    "explanation": "Past observations support a cautious prediction about this path.",
     "structuredExplanation": {
-      "summary": "Temperature patterns guide safer design."
+      "summary": "Past observations support a cautious prediction about this path."
     },
-    "stage": "recognise",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
     "sequencePriority": 7,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
+    "qualitySchema": "skillr-reviewed-y2-science-v2"
   },
   {
     "id": "ac9s2h01-p-008",
@@ -189,24 +168,21 @@ window.skillrPracticeQuestions = [
     "skill": "science in daily life and evidence-based predictions",
     "printable": true,
     "type": "single",
-    "question": "Traffic lights use a repeating sequence. What helps people predict the next signal?",
-    "audioPrompt": "Traffic lights use a repeating sequence. What helps people predict the next signal?",
+    "question": "Three tests show this paper towel soaks up more water than this plastic sheet. Which should a child choose to wipe a spill?",
+    "audioPrompt": "Three tests show this paper towel soaks up more water than this plastic sheet. Which should a child choose to wipe a spill?",
     "visual": "",
     "answers": [
-      "the observed colour pattern",
-      "the driver's name",
-      "a random guess"
+      "the paper towel",
+      "the plastic sheet",
+      "either because they absorbed equally"
     ],
     "correct": 0,
-    "explanation": "A known sequence supports prediction.",
+    "explanation": "The repeated results help the child choose the material that absorbs water.",
     "structuredExplanation": {
-      "summary": "A known sequence supports prediction."
+      "summary": "The repeated results help the child choose the material that absorbs water."
     },
-    "stage": "recognise",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
     "sequencePriority": 8,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
+    "qualitySchema": "skillr-reviewed-y2-science-v2"
   },
   {
     "id": "ac9s2h01-p-009",
@@ -215,24 +191,21 @@ window.skillrPracticeQuestions = [
     "skill": "science in daily life and evidence-based predictions",
     "printable": true,
     "type": "single",
-    "question": "Why are some medicines kept in a cool place?",
-    "audioPrompt": "Why are some medicines kept in a cool place?",
+    "question": "A farmer studies rainfall records before planning when to water a crop. What is the purpose?",
+    "audioPrompt": "A farmer studies rainfall records before planning when to water a crop. What is the purpose?",
     "visual": "",
     "answers": [
-      "scientific instructions protect their quality",
-      "all liquids must freeze",
-      "cold labels look nicer"
+      "to decide which month has the nicest name",
+      "to make future rain certain",
+      "to use weather patterns to plan watering"
     ],
-    "correct": 0,
-    "explanation": "Science informs safe storage conditions.",
+    "correct": 2,
+    "explanation": "Rainfall records provide evidence for planning, though future weather is not guaranteed.",
     "structuredExplanation": {
-      "summary": "Science informs safe storage conditions."
+      "summary": "Rainfall records provide evidence for planning, though future weather is not guaranteed."
     },
-    "stage": "recognise",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
     "sequencePriority": 9,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
+    "qualitySchema": "skillr-reviewed-y2-science-v2"
   },
   {
     "id": "ac9s2h01-p-010",
@@ -241,24 +214,21 @@ window.skillrPracticeQuestions = [
     "skill": "science in daily life and evidence-based predictions",
     "printable": true,
     "type": "single",
-    "question": "How does science support handwashing before eating?",
-    "audioPrompt": "How does science support handwashing before eating?",
+    "question": "A child says, 'I predict the ice will melt because it melted in this warm room before.' What supports the prediction?",
+    "audioPrompt": "A child says, 'I predict the ice will melt because it melted in this warm room before.' What supports the prediction?",
     "visual": "",
     "answers": [
-      "water makes hands invisible",
-      "soap changes skin into plastic",
-      "washing removes dirt and many germs"
+      "a wish for a cold drink",
+      "the colour of the ice tray",
+      "a previous observation in similar conditions"
     ],
     "correct": 2,
-    "explanation": "Evidence shows washing supports hygiene.",
+    "explanation": "A scientific prediction uses relevant experience or evidence.",
     "structuredExplanation": {
-      "summary": "Evidence shows washing supports hygiene."
+      "summary": "A scientific prediction uses relevant experience or evidence."
     },
-    "stage": "recognise",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
     "sequencePriority": 10,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
+    "qualitySchema": "skillr-reviewed-y2-science-v2"
   },
   {
     "id": "ac9s2h01-p-011",
@@ -267,24 +237,21 @@ window.skillrPracticeQuestions = [
     "skill": "science in daily life and evidence-based predictions",
     "printable": true,
     "type": "single",
-    "question": "Which tool helps people measure air temperature?",
-    "audioPrompt": "Which tool helps people measure air temperature?",
+    "question": "A school records that this metal slide feels hotter in sun than in shade. How can staff use the finding?",
+    "audioPrompt": "A school records that this metal slide feels hotter in sun than in shade. How can staff use the finding?",
     "visual": "",
     "answers": [
-      "ruler for sound",
-      "thermometer",
-      "magnifying mirror"
+      "Provide shade and check the slide before play.",
+      "Assume every sunny surface is safe.",
+      "Choose play times only by the slide's colour."
     ],
-    "correct": 1,
-    "explanation": "A thermometer provides temperature data.",
+    "correct": 0,
+    "explanation": "Observations about heating help staff make safer decisions.",
     "structuredExplanation": {
-      "summary": "A thermometer provides temperature data."
+      "summary": "Observations about heating help staff make safer decisions."
     },
-    "stage": "recognise",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
     "sequencePriority": 11,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
+    "qualitySchema": "skillr-reviewed-y2-science-v2"
   },
   {
     "id": "ac9s2h01-p-012",
@@ -293,24 +260,21 @@ window.skillrPracticeQuestions = [
     "skill": "science in daily life and evidence-based predictions",
     "printable": true,
     "type": "single",
-    "question": "Which daily tool keeps food cool?",
-    "audioPrompt": "Which daily tool keeps food cool?",
+    "question": "A tailor needs cloth that stretches for a sleeve cuff. What would help them choose?",
+    "audioPrompt": "A tailor needs cloth that stretches for a sleeve cuff. What would help them choose?",
     "visual": "",
     "answers": [
-      "toaster",
-      "refrigerator",
-      "pencil case"
+      "count the letters in the fabric names",
+      "compare how sample fabrics stretch",
+      "choose the first fabric without checking"
     ],
     "correct": 1,
-    "explanation": "A refrigerator transfers heat away to keep food cool.",
+    "explanation": "Testing samples gives evidence about which cloth suits the purpose.",
     "structuredExplanation": {
-      "summary": "A refrigerator transfers heat away to keep food cool."
+      "summary": "Testing samples gives evidence about which cloth suits the purpose."
     },
-    "stage": "recognise",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
     "sequencePriority": 12,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
+    "qualitySchema": "skillr-reviewed-y2-science-v2"
   },
   {
     "id": "ac9s2h01-p-013",
@@ -319,24 +283,21 @@ window.skillrPracticeQuestions = [
     "skill": "science in daily life and evidence-based predictions",
     "printable": true,
     "type": "single",
-    "question": "A prediction is scientific when it is based on —",
-    "audioPrompt": "A prediction is scientific when it is based on —",
+    "question": "A musician finds that shortening a string's vibrating part makes a higher note. How can this pattern help?",
+    "audioPrompt": "A musician finds that shortening a string's vibrating part makes a higher note. How can this pattern help?",
     "visual": "",
     "answers": [
-      "observations or a pattern",
-      "a wish",
-      "the longest answer"
+      "It helps the musician choose notes.",
+      "It tells the musician which stage colour to choose.",
+      "It means every string must play the same note."
     ],
     "correct": 0,
-    "explanation": "Evidence separates a prediction from a random guess.",
+    "explanation": "The musician uses the link between vibrating length and pitch to control sound.",
     "structuredExplanation": {
-      "summary": "Evidence separates a prediction from a random guess."
+      "summary": "The musician uses the link between vibrating length and pitch to control sound."
     },
-    "stage": "recognise",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
     "sequencePriority": 13,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
+    "qualitySchema": "skillr-reviewed-y2-science-v2"
   },
   {
     "id": "ac9s2h01-p-014",
@@ -345,24 +306,21 @@ window.skillrPracticeQuestions = [
     "skill": "science in daily life and evidence-based predictions",
     "printable": true,
     "type": "single",
-    "question": "After predicting rain, what should a child do next?",
-    "audioPrompt": "After predicting rain, what should a child do next?",
+    "question": "A weather forecaster uses cloud, wind and rain records. What are these records used for?",
+    "audioPrompt": "A weather forecaster uses cloud, wind and rain records. What are these records used for?",
     "visual": "",
     "answers": [
-      "change the prediction secretly",
-      "claim it rained without looking",
-      "observe and record what happens"
+      "choosing favourite weather",
+      "making the same weather happen every day",
+      "predicting likely weather"
     ],
     "correct": 2,
-    "explanation": "Checking compares the prediction with the outcome.",
+    "explanation": "Recorded observations help forecasters make evidence-based predictions.",
     "structuredExplanation": {
-      "summary": "Checking compares the prediction with the outcome."
+      "summary": "Recorded observations help forecasters make evidence-based predictions."
     },
-    "stage": "recognise",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
     "sequencePriority": 14,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
+    "qualitySchema": "skillr-reviewed-y2-science-v2"
   },
   {
     "id": "ac9s2h01-p-015",
@@ -371,24 +329,21 @@ window.skillrPracticeQuestions = [
     "skill": "science in daily life and evidence-based predictions",
     "printable": true,
     "type": "single",
-    "question": "A farmer uses rainfall records before planting. What is the record used for?",
-    "audioPrompt": "A farmer uses rainfall records before planting. What is the record used for?",
+    "question": "A gardener's diary says: soil under mulch stayed damp longer on several hot days. What is a reasonable prediction for another similar day?",
+    "audioPrompt": "A gardener's diary says: soil under mulch stayed damp longer on several hot days. What is a reasonable prediction for another similar day?",
     "visual": "",
     "answers": [
-      "to avoid all observation",
-      "to guide a prediction and decision",
-      "to change seeds into rocks"
+      "Mulched soil will never need water.",
+      "Mulched soil may stay damp longer again.",
+      "Uncovered soil must stay wetter."
     ],
     "correct": 1,
-    "explanation": "Past data can guide future choices.",
+    "explanation": "The repeated pattern supports a likely result, not a promise that watering is never needed.",
     "structuredExplanation": {
-      "summary": "Past data can guide future choices."
+      "summary": "The repeated pattern supports a likely result, not a promise that watering is never needed."
     },
-    "stage": "recognise",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
     "sequencePriority": 15,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
+    "qualitySchema": "skillr-reviewed-y2-science-v2"
   },
   {
     "id": "ac9s2h01-p-016",
@@ -397,24 +352,21 @@ window.skillrPracticeQuestions = [
     "skill": "science in daily life and evidence-based predictions",
     "printable": true,
     "type": "single",
-    "question": "Why do fire services use weather measurements?",
-    "audioPrompt": "Why do fire services use weather measurements?",
+    "question": "A child uses a tested folding method to make a paper box. How is scientific knowledge useful?",
+    "audioPrompt": "A child uses a tested folding method to make a paper box. How is scientific knowledge useful?",
     "visual": "",
     "answers": [
-      "to guess without evidence",
-      "to estimate changing fire danger",
-      "to choose truck colours"
+      "It proves paper becomes a new material when folded.",
+      "It helps change the paper's shape for a purpose.",
+      "It means the box will hold any weight."
     ],
     "correct": 1,
-    "explanation": "Temperature, wind and dryness help assess risk.",
+    "explanation": "Knowing how paper responds to folding helps make a useful shape.",
     "structuredExplanation": {
-      "summary": "Temperature, wind and dryness help assess risk."
+      "summary": "Knowing how paper responds to folding helps make a useful shape."
     },
-    "stage": "recognise",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
     "sequencePriority": 16,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
+    "qualitySchema": "skillr-reviewed-y2-science-v2"
   },
   {
     "id": "ac9s2h01-p-017",
@@ -423,24 +375,21 @@ window.skillrPracticeQuestions = [
     "skill": "science in daily life and evidence-based predictions",
     "printable": true,
     "type": "single",
-    "question": "A high UV forecast leads a family to use hats and shade. This is —",
-    "audioPrompt": "A high UV forecast leads a family to use hats and shade. This is —",
+    "question": "A playground team tries two surfaces. In several tests, one becomes less slippery when wet. Which evidence should guide the surface choice?",
+    "audioPrompt": "A playground team tries two surfaces. In several tests, one becomes less slippery when wet. Which evidence should guide the surface choice?",
     "visual": "",
     "answers": [
-      "a random colour choice",
-      "proof the Sun is a planet",
-      "science guiding a safety choice"
+      "the order the samples arrived",
+      "the longest surface name",
+      "the repeated wet-surface test results"
     ],
     "correct": 2,
-    "explanation": "Forecast information supports protection.",
+    "explanation": "Relevant repeated tests help people choose materials for daily use.",
     "structuredExplanation": {
-      "summary": "Forecast information supports protection."
+      "summary": "Relevant repeated tests help people choose materials for daily use."
     },
-    "stage": "apply",
-    "difficulty": 2,
-    "difficultyTier": "apply",
     "sequencePriority": 17,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
+    "qualitySchema": "skillr-reviewed-y2-science-v2"
   },
   {
     "id": "ac9s2h01-p-018",
@@ -449,24 +398,21 @@ window.skillrPracticeQuestions = [
     "skill": "science in daily life and evidence-based predictions",
     "printable": true,
     "type": "single",
-    "question": "Why might a builder compare waterproof materials?",
-    "audioPrompt": "Why might a builder compare waterproof materials?",
+    "question": "A gardener plans to move a plant into stronger light because similar plants grew well there. Which sentence is a prediction?",
+    "audioPrompt": "A gardener plans to move a plant into stronger light because similar plants grew well there. Which sentence is a prediction?",
     "visual": "",
     "answers": [
-      "to make rain stop",
-      "to prove all materials are identical",
-      "to choose material suited to rain"
+      "The plant may grow better in the brighter place.",
+      "I moved the pot this morning.",
+      "The pot has a crack."
     ],
-    "correct": 2,
-    "explanation": "Property tests help meet a practical need.",
+    "correct": 0,
+    "explanation": "A prediction states a possible future result supported here by earlier plant growth.",
     "structuredExplanation": {
-      "summary": "Property tests help meet a practical need."
+      "summary": "A prediction states a possible future result supported here by earlier plant growth."
     },
-    "stage": "apply",
-    "difficulty": 2,
-    "difficultyTier": "apply",
     "sequencePriority": 18,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
+    "qualitySchema": "skillr-reviewed-y2-science-v2"
   },
   {
     "id": "ac9s2h01-p-019",
@@ -475,24 +421,21 @@ window.skillrPracticeQuestions = [
     "skill": "science in daily life and evidence-based predictions",
     "printable": true,
     "type": "single",
-    "question": "Why does a dentist recommend brushing teeth?",
-    "audioPrompt": "Why does a dentist recommend brushing teeth?",
+    "question": "Some First Nations Australians use knowledge of star patterns to help find their way. What daily need does this knowledge support?",
+    "audioPrompt": "Some First Nations Australians use knowledge of star patterns to help find their way. What daily need does this knowledge support?",
     "visual": "",
     "answers": [
-      "evidence shows it removes food and plaque",
-      "because brushes predict weather",
-      "only because toothpaste is coloured"
+      "choosing the loudest instrument",
+      "measuring how much cloth stretches",
+      "navigation during journeys"
     ],
-    "correct": 0,
-    "explanation": "Health advice is based on observations and research.",
+    "correct": 2,
+    "explanation": "Knowledge of the sky can help people navigate across land and sea.",
     "structuredExplanation": {
-      "summary": "Health advice is based on observations and research."
+      "summary": "Knowledge of the sky can help people navigate across land and sea."
     },
-    "stage": "apply",
-    "difficulty": 2,
-    "difficultyTier": "apply",
     "sequencePriority": 19,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
+    "qualitySchema": "skillr-reviewed-y2-science-v2"
   },
   {
     "id": "ac9s2h01-p-020",
@@ -501,24 +444,21 @@ window.skillrPracticeQuestions = [
     "skill": "science in daily life and evidence-based predictions",
     "printable": true,
     "type": "single",
-    "question": "A water bowl empties faster on hot days. What prediction fits the pattern?",
-    "audioPrompt": "A water bowl empties faster on hot days. What prediction fits the pattern?",
+    "question": "An astronomer studies many records of a comet's visits. What might a repeating pattern help predict?",
+    "audioPrompt": "An astronomer studies many records of a comet's visits. What might a repeating pattern help predict?",
     "visual": "",
     "answers": [
-      "hot days stop evaporation",
-      "the pet may need water checked more often",
-      "water will turn solid"
+      "which colour telescope people will buy",
+      "when the comet may appear again",
+      "the weather in every town that night"
     ],
     "correct": 1,
-    "explanation": "Repeated observations guide care.",
+    "explanation": "Past appearances can help astronomers predict a future appearance.",
     "structuredExplanation": {
-      "summary": "Repeated observations guide care."
+      "summary": "Past appearances can help astronomers predict a future appearance."
     },
-    "stage": "apply",
-    "difficulty": 2,
-    "difficultyTier": "apply",
     "sequencePriority": 20,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
+    "qualitySchema": "skillr-reviewed-y2-science-v2"
   },
   {
     "id": "ac9s2h01-p-021",
@@ -527,24 +467,21 @@ window.skillrPracticeQuestions = [
     "skill": "science in daily life and evidence-based predictions",
     "printable": true,
     "type": "single",
-    "question": "Why switch off an unused light?",
-    "audioPrompt": "Why switch off an unused light?",
+    "question": "A gardener predicts seeds will sprout in about a week. They usually did so in similar soil and weather. What should the gardener do if these seeds take longer?",
+    "audioPrompt": "A gardener predicts seeds will sprout in about a week. They usually did so in similar soil and weather. What should the gardener do if these seeds take longer?",
     "visual": "",
     "answers": [
-      "to reduce electrical energy use",
-      "to change glass into wood",
-      "to make the room orbit"
+      "Check the conditions and update the prediction.",
+      "Change the record to say they sprouted on time.",
+      "Decide observations are never useful."
     ],
     "correct": 0,
-    "explanation": "Scientific understanding supports energy choices.",
+    "explanation": "New observations can improve a prediction; living things do not always follow an exact timetable.",
     "structuredExplanation": {
-      "summary": "Scientific understanding supports energy choices."
+      "summary": "New observations can improve a prediction; living things do not always follow an exact timetable."
     },
-    "stage": "apply",
-    "difficulty": 2,
-    "difficultyTier": "apply",
     "sequencePriority": 21,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
+    "qualitySchema": "skillr-reviewed-y2-science-v2"
   },
   {
     "id": "ac9s2h01-p-022",
@@ -553,24 +490,21 @@ window.skillrPracticeQuestions = [
     "skill": "science in daily life and evidence-based predictions",
     "printable": true,
     "type": "single",
-    "question": "Why are items sorted by material before recycling?",
-    "audioPrompt": "Why are items sorted by material before recycling?",
+    "question": "A cyclist notices a tyre loses air again soon after pumping. How can this repeated observation help?",
+    "audioPrompt": "A cyclist notices a tyre loses air again soon after pumping. How can this repeated observation help?",
     "visual": "",
     "answers": [
-      "all materials are the same",
-      "colour is the only property",
-      "different materials need different processing"
+      "It suggests checking for a leak.",
+      "It proves the bicycle's colour is wrong.",
+      "It shows all tyres always lose air immediately."
     ],
-    "correct": 2,
-    "explanation": "Material knowledge guides the process.",
+    "correct": 0,
+    "explanation": "A repeated loss of air gives a useful clue when solving an everyday problem.",
     "structuredExplanation": {
-      "summary": "Material knowledge guides the process."
+      "summary": "A repeated loss of air gives a useful clue when solving an everyday problem."
     },
-    "stage": "apply",
-    "difficulty": 2,
-    "difficultyTier": "apply",
     "sequencePriority": 22,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
+    "qualitySchema": "skillr-reviewed-y2-science-v2"
   },
   {
     "id": "ac9s2h01-p-023",
@@ -579,24 +513,21 @@ window.skillrPracticeQuestions = [
     "skill": "science in daily life and evidence-based predictions",
     "printable": true,
     "type": "single",
-    "question": "Why might a weather prediction be wrong?",
-    "audioPrompt": "Why might a weather prediction be wrong?",
+    "question": "A family wants washing to dry sooner. Tests on similar days show a breezy spot dries it faster than a sheltered spot. What choice uses this evidence?",
+    "audioPrompt": "A family wants washing to dry sooner. Tests on similar days show a breezy spot dries it faster than a sheltered spot. What choice uses this evidence?",
     "visual": "",
     "answers": [
-      "patterns suggest outcomes but don't guarantee them",
-      "clouds always lie",
-      "measurements change the past"
+      "hang it in the sheltered spot",
+      "choose a spot only by fence colour",
+      "hang it in the breezy spot"
     ],
-    "correct": 0,
-    "explanation": "Predictions are evidence-based possibilities, not certainties.",
+    "correct": 2,
+    "explanation": "The observed drying pattern helps the family choose a useful place.",
     "structuredExplanation": {
-      "summary": "Predictions are evidence-based possibilities, not certainties."
+      "summary": "The observed drying pattern helps the family choose a useful place."
     },
-    "stage": "apply",
-    "difficulty": 2,
-    "difficultyTier": "apply",
     "sequencePriority": 23,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
+    "qualitySchema": "skillr-reviewed-y2-science-v2"
   },
   {
     "id": "ac9s2h01-p-024",
@@ -605,647 +536,21 @@ window.skillrPracticeQuestions = [
     "skill": "science in daily life and evidence-based predictions",
     "printable": true,
     "type": "single",
-    "question": "Why is one hot day not enough to prove every tomorrow will be hot?",
-    "audioPrompt": "Why is one hot day not enough to prove every tomorrow will be hot?",
+    "question": "A forecast says rain is likely during a picnic. The family packs a rain cover, but no rain falls. Was using the forecast pointless?",
+    "audioPrompt": "A forecast says rain is likely during a picnic. The family packs a rain cover, but no rain falls. Was using the forecast pointless?",
     "visual": "",
     "answers": [
-      "one observation proves everything",
-      "temperature cannot be measured",
-      "a pattern needs repeated observations"
+      "Yes; a useful prediction must always come true.",
+      "No; it helped them prepare for a likely event.",
+      "Yes; preparing can stop rain from falling."
     ],
-    "correct": 2,
-    "explanation": "More evidence is needed before claiming a pattern.",
+    "correct": 1,
+    "explanation": "A prediction can guide sensible preparation without being certain.",
     "structuredExplanation": {
-      "summary": "More evidence is needed before claiming a pattern."
+      "summary": "A prediction can guide sensible preparation without being certain."
     },
-    "stage": "apply",
-    "difficulty": 2,
-    "difficultyTier": "apply",
     "sequencePriority": 24,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
-  },
-  {
-    "id": "ac9s2h01-p-025",
-    "curriculumCode": "AC9S2H01",
-    "bank": "practice",
-    "skill": "science in daily life and evidence-based predictions",
-    "printable": true,
-    "type": "single",
-    "question": "Why do communities test drinking water?",
-    "audioPrompt": "Why do communities test drinking water?",
-    "visual": "",
-    "answers": [
-      "to choose its favourite colour",
-      "to make it louder",
-      "to check whether it is safe"
-    ],
-    "correct": 2,
-    "explanation": "Tests provide evidence about water quality.",
-    "structuredExplanation": {
-      "summary": "Tests provide evidence about water quality."
-    },
-    "stage": "apply",
-    "difficulty": 2,
-    "difficultyTier": "apply",
-    "sequencePriority": 25,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
-  },
-  {
-    "id": "ac9s2h01-p-026",
-    "curriculumCode": "AC9S2H01",
-    "bank": "practice",
-    "skill": "science in daily life and evidence-based predictions",
-    "printable": true,
-    "type": "single",
-    "question": "A nurse measures temperature rather than touching a forehead only. Why?",
-    "audioPrompt": "A nurse measures temperature rather than touching a forehead only. Why?",
-    "visual": "",
-    "answers": [
-      "numbers cure illness",
-      "a tool gives a comparable measurement",
-      "touch can never observe anything"
-    ],
-    "correct": 1,
-    "explanation": "Measurements support clearer decisions.",
-    "structuredExplanation": {
-      "summary": "Measurements support clearer decisions."
-    },
-    "stage": "apply",
-    "difficulty": 2,
-    "difficultyTier": "apply",
-    "sequencePriority": 26,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
-  },
-  {
-    "id": "ac9s2h01-p-027",
-    "curriculumCode": "AC9S2H01",
-    "bank": "practice",
-    "skill": "science in daily life and evidence-based predictions",
-    "printable": true,
-    "type": "single",
-    "question": "Why are tyres tested on wet surfaces?",
-    "audioPrompt": "Why are tyres tested on wet surfaces?",
-    "visual": "",
-    "answers": [
-      "to choose a logo",
-      "to check grip in rainy conditions",
-      "to prove rubber is water"
-    ],
-    "correct": 1,
-    "explanation": "Testing helps designers improve safety.",
-    "structuredExplanation": {
-      "summary": "Testing helps designers improve safety."
-    },
-    "stage": "apply",
-    "difficulty": 2,
-    "difficultyTier": "apply",
-    "sequencePriority": 27,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
-  },
-  {
-    "id": "ac9s2h01-p-028",
-    "curriculumCode": "AC9S2H01",
-    "bank": "practice",
-    "skill": "science in daily life and evidence-based predictions",
-    "printable": true,
-    "type": "single",
-    "question": "Several winter mornings are cold. Which prediction is reasonable?",
-    "audioPrompt": "Several winter mornings are cold. Which prediction is reasonable?",
-    "visual": "",
-    "answers": [
-      "another winter morning may also be cold",
-      "cold is a material",
-      "every winter day is identical"
-    ],
-    "correct": 0,
-    "explanation": "Seasonal experience can support a cautious prediction.",
-    "structuredExplanation": {
-      "summary": "Seasonal experience can support a cautious prediction."
-    },
-    "stage": "apply",
-    "difficulty": 2,
-    "difficultyTier": "apply",
-    "sequencePriority": 28,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
-  },
-  {
-    "id": "ac9s2h01-p-029",
-    "curriculumCode": "AC9S2H01",
-    "bank": "practice",
-    "skill": "science in daily life and evidence-based predictions",
-    "printable": true,
-    "type": "single",
-    "question": "Which person uses science in daily work?",
-    "audioPrompt": "Which person uses science in daily work?",
-    "visual": "",
-    "answers": [
-      "a person refusing all evidence",
-      "someone changing results",
-      "a mechanic testing why a machine stopped"
-    ],
-    "correct": 2,
-    "explanation": "Many jobs use observation and testing.",
-    "structuredExplanation": {
-      "summary": "Many jobs use observation and testing."
-    },
-    "stage": "apply",
-    "difficulty": 2,
-    "difficultyTier": "apply",
-    "sequencePriority": 29,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
-  },
-  {
-    "id": "ac9s2h01-p-030",
-    "curriculumCode": "AC9S2H01",
-    "bank": "practice",
-    "skill": "science in daily life and evidence-based predictions",
-    "printable": true,
-    "type": "single",
-    "question": "Which one uses stronger evidence?",
-    "audioPrompt": "Which one uses stronger evidence?",
-    "visual": "",
-    "answers": [
-      "ignore dark clouds and radar",
-      "take one because blue is lucky",
-      "take an umbrella after checking rain radar"
-    ],
-    "correct": 2,
-    "explanation": "Several relevant observations strengthen a decision.",
-    "structuredExplanation": {
-      "summary": "Several relevant observations strengthen a decision."
-    },
-    "stage": "apply",
-    "difficulty": 2,
-    "difficultyTier": "apply",
-    "sequencePriority": 30,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
-  },
-  {
-    "id": "ac9s2h01-p-031",
-    "curriculumCode": "AC9S2H01",
-    "bank": "practice",
-    "skill": "science in daily life and evidence-based predictions",
-    "printable": true,
-    "type": "single",
-    "question": "Which wording is scientifically careful?",
-    "audioPrompt": "Which wording is scientifically careful?",
-    "visual": "",
-    "answers": [
-      "It may happen because this pattern repeated",
-      "It will happen with no reason",
-      "Evidence is never needed"
-    ],
-    "correct": 0,
-    "explanation": "May recognises that predictions are not guarantees.",
-    "structuredExplanation": {
-      "summary": "May recognises that predictions are not guarantees."
-    },
-    "stage": "apply",
-    "difficulty": 2,
-    "difficultyTier": "apply",
-    "sequencePriority": 31,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
-  },
-  {
-    "id": "ac9s2h01-p-032",
-    "curriculumCode": "AC9S2H01",
-    "bank": "practice",
-    "skill": "science in daily life and evidence-based predictions",
-    "printable": true,
-    "type": "single",
-    "question": "Where do people use science ideas?",
-    "audioPrompt": "Where do people use science ideas?",
-    "visual": "",
-    "answers": [
-      "daily decisions cannot use evidence",
-      "science happens only in laboratories",
-      "science is used at home, school and in communities"
-    ],
-    "correct": 2,
-    "explanation": "Science supports many ordinary choices and solutions.",
-    "structuredExplanation": {
-      "summary": "Science supports many ordinary choices and solutions."
-    },
-    "stage": "apply",
-    "difficulty": 2,
-    "difficultyTier": "apply",
-    "sequencePriority": 32,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
-  },
-  {
-    "id": "ac9s2h01-p-033",
-    "curriculumCode": "AC9S2H01",
-    "bank": "practice",
-    "skill": "science in daily life and evidence-based predictions",
-    "printable": true,
-    "type": "single",
-    "question": "A family checks the weather forecast before hanging washing outside. How is science helping?",
-    "audioPrompt": "A family checks the weather forecast before hanging washing outside. How is science helping?",
-    "visual": "",
-    "answers": [
-      "It uses observations and patterns to guide a decision",
-      "It makes the clothes dry without sunlight",
-      "It guarantees the weather cannot change"
-    ],
-    "correct": 0,
-    "explanation": "Weather forecasts use collected observations and patterns to make useful predictions.",
-    "structuredExplanation": {
-      "summary": "Weather forecasts use collected observations and patterns to make useful predictions."
-    },
-    "stage": "reason",
-    "difficulty": 3,
-    "difficultyTier": "reason",
-    "sequencePriority": 33,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
-  },
-  {
-    "id": "ac9s2h01-p-034",
-    "curriculumCode": "AC9S2H01",
-    "bank": "practice",
-    "skill": "science in daily life and evidence-based predictions",
-    "printable": true,
-    "type": "single",
-    "question": "A baker uses a timer so muffins cook for the same length of time each batch. Why is this useful?",
-    "audioPrompt": "A baker uses a timer so muffins cook for the same length of time each batch. Why is this useful?",
-    "visual": "",
-    "answers": [
-      "It makes every muffin exactly the same size",
-      "It helps keep the cooking process consistent",
-      "It changes the oven into a measuring tool"
-    ],
-    "correct": 1,
-    "explanation": "Timers help people measure and repeat a process consistently.",
-    "structuredExplanation": {
-      "summary": "Timers help people measure and repeat a process consistently."
-    },
-    "stage": "reason",
-    "difficulty": 3,
-    "difficultyTier": "reason",
-    "sequencePriority": 34,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
-  },
-  {
-    "id": "ac9s2h01-p-035",
-    "curriculumCode": "AC9S2H01",
-    "bank": "practice",
-    "skill": "science in daily life and evidence-based predictions",
-    "printable": true,
-    "type": "single",
-    "question": "A gardener notices seedlings near a sunny window grow toward the light. What could the gardener do with this observation?",
-    "audioPrompt": "A gardener notices seedlings near a sunny window grow toward the light. What could the gardener do with this observation?",
-    "visual": "",
-    "answers": [
-      "Assume every plant grows at exactly the same speed",
-      "Keep the plants in complete darkness",
-      "Move pots regularly so plants receive light more evenly"
-    ],
-    "correct": 2,
-    "explanation": "Observations can guide practical actions such as changing where plants are placed.",
-    "structuredExplanation": {
-      "summary": "Observations can guide practical actions such as changing where plants are placed."
-    },
-    "stage": "reason",
-    "difficulty": 3,
-    "difficultyTier": "reason",
-    "sequencePriority": 35,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
-  },
-  {
-    "id": "ac9s2h01-p-036",
-    "curriculumCode": "AC9S2H01",
-    "bank": "practice",
-    "skill": "science in daily life and evidence-based predictions",
-    "printable": true,
-    "type": "single",
-    "question": "A cyclist sees dark clouds and checks a rain radar before leaving. Which part is scientific?",
-    "audioPrompt": "A cyclist sees dark clouds and checks a rain radar before leaving. Which part is scientific?",
-    "visual": "",
-    "answers": [
-      "Using current observations to judge whether rain is likely",
-      "Choosing the brightest helmet",
-      "Guessing without checking anything"
-    ],
-    "correct": 0,
-    "explanation": "Science can use current weather evidence to support everyday decisions.",
-    "structuredExplanation": {
-      "summary": "Science can use current weather evidence to support everyday decisions."
-    },
-    "stage": "reason",
-    "difficulty": 3,
-    "difficultyTier": "reason",
-    "sequencePriority": 36,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
-  },
-  {
-    "id": "ac9s2h01-p-037",
-    "curriculumCode": "AC9S2H01",
-    "bank": "practice",
-    "skill": "science in daily life and evidence-based predictions",
-    "printable": true,
-    "type": "single",
-    "question": "A nurse measures a patient’s temperature twice. Why repeat the measurement?",
-    "audioPrompt": "A nurse measures a patient’s temperature twice. Why repeat the measurement?",
-    "visual": "",
-    "answers": [
-      "To make the thermometer warmer",
-      "To check whether the reading is consistent",
-      "To guarantee the patient feels better"
-    ],
-    "correct": 1,
-    "explanation": "Repeating a measurement can check whether a result is reliable.",
-    "structuredExplanation": {
-      "summary": "Repeating a measurement can check whether a result is reliable."
-    },
-    "stage": "reason",
-    "difficulty": 3,
-    "difficultyTier": "reason",
-    "sequencePriority": 37,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
-  },
-  {
-    "id": "ac9s2h01-p-038",
-    "curriculumCode": "AC9S2H01",
-    "bank": "practice",
-    "skill": "science in daily life and evidence-based predictions",
-    "printable": true,
-    "type": "single",
-    "question": "A class sees that puddles usually shrink on warm sunny days. Which prediction best uses that pattern?",
-    "audioPrompt": "A class sees that puddles usually shrink on warm sunny days. Which prediction best uses that pattern?",
-    "visual": "",
-    "answers": [
-      "A puddle may shrink again on another warm sunny day",
-      "Every puddle will disappear in one minute",
-      "Rain can never occur after sunshine"
-    ],
-    "correct": 0,
-    "explanation": "A sensible prediction stays close to the repeated pattern that was observed.",
-    "structuredExplanation": {
-      "summary": "A sensible prediction stays close to the repeated pattern that was observed."
-    },
-    "stage": "reason",
-    "difficulty": 3,
-    "difficultyTier": "reason",
-    "sequencePriority": 38,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
-  },
-  {
-    "id": "ac9s2h01-p-039",
-    "curriculumCode": "AC9S2H01",
-    "bank": "practice",
-    "skill": "science in daily life and evidence-based predictions",
-    "printable": true,
-    "type": "single",
-    "question": "A pet owner records how much water a dog drinks each hot day. What can the record help reveal?",
-    "audioPrompt": "A pet owner records how much water a dog drinks each hot day. What can the record help reveal?",
-    "visual": "",
-    "answers": [
-      "Whether there is a pattern between hotter days and water use",
-      "Whether water has stopped being a liquid",
-      "Exactly what every dog will do"
-    ],
-    "correct": 0,
-    "explanation": "Records collected over time can reveal useful patterns.",
-    "structuredExplanation": {
-      "summary": "Records collected over time can reveal useful patterns."
-    },
-    "stage": "reason",
-    "difficulty": 3,
-    "difficultyTier": "reason",
-    "sequencePriority": 39,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
-  },
-  {
-    "id": "ac9s2h01-p-040",
-    "curriculumCode": "AC9S2H01",
-    "bank": "practice",
-    "skill": "science in daily life and evidence-based predictions",
-    "printable": true,
-    "type": "single",
-    "question": "A mechanic listens to an unusual bicycle-chain sound before checking the chain. What science skill is being used first?",
-    "audioPrompt": "A mechanic listens to an unusual bicycle-chain sound before checking the chain. What science skill is being used first?",
-    "visual": "",
-    "answers": [
-      "Making an observation",
-      "Ignoring evidence",
-      "Changing the result"
-    ],
-    "correct": 0,
-    "explanation": "Listening carefully is an observation that can guide what to investigate next.",
-    "structuredExplanation": {
-      "summary": "Listening carefully is an observation that can guide what to investigate next."
-    },
-    "stage": "reason",
-    "difficulty": 3,
-    "difficultyTier": "reason",
-    "sequencePriority": 40,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
-  },
-  {
-    "id": "ac9s2h01-p-041",
-    "curriculumCode": "AC9S2H01",
-    "bank": "practice",
-    "skill": "science in daily life and evidence-based predictions",
-    "printable": true,
-    "type": "single",
-    "question": "A rain gauge fills each week. Who could use its readings to plan a school garden?",
-    "audioPrompt": "A rain gauge fills each week. Who could use its readings to plan a school garden?",
-    "visual": "",
-    "answers": [
-      "The person choosing pencil colours",
-      "The person counting library books",
-      "The person deciding when to water"
-    ],
-    "correct": 2,
-    "explanation": "Rain measurements help gardeners decide whether extra water is needed.",
-    "structuredExplanation": {
-      "summary": "Rain measurements help gardeners decide whether extra water is needed."
-    },
-    "stage": "reason",
-    "difficulty": 3,
-    "difficultyTier": "reason",
-    "sequencePriority": 41,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
-  },
-  {
-    "id": "ac9s2h01-p-042",
-    "curriculumCode": "AC9S2H01",
-    "bank": "practice",
-    "skill": "science in daily life and evidence-based predictions",
-    "printable": true,
-    "type": "single",
-    "question": "A shoemaker tests soles on a smooth floor. What useful feature is being checked?",
-    "audioPrompt": "A shoemaker tests soles on a smooth floor. What useful feature is being checked?",
-    "visual": "",
-    "answers": [
-      "How well the soles grip",
-      "How loudly the laces rustle",
-      "How bright the shoe box is"
-    ],
-    "correct": 0,
-    "explanation": "Testing grip helps a shoemaker choose soles that reduce slipping.",
-    "structuredExplanation": {
-      "summary": "Testing grip helps a shoemaker choose soles that reduce slipping."
-    },
-    "stage": "reason",
-    "difficulty": 3,
-    "difficultyTier": "reason",
-    "sequencePriority": 42,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
-  },
-  {
-    "id": "ac9s2h01-p-043",
-    "curriculumCode": "AC9S2H01",
-    "bank": "practice",
-    "skill": "science in daily life and evidence-based predictions",
-    "printable": true,
-    "type": "single",
-    "question": "A beach closes after water tests find pollution. What guided this decision?",
-    "audioPrompt": "A beach closes after water tests find pollution. What guided this decision?",
-    "visual": "",
-    "answers": [
-      "The colour of the beach sign",
-      "The number of beach umbrellas",
-      "Evidence from the water tests"
-    ],
-    "correct": 2,
-    "explanation": "Test results can guide decisions that protect people.",
-    "structuredExplanation": {
-      "summary": "Test results can guide decisions that protect people."
-    },
-    "stage": "reason",
-    "difficulty": 3,
-    "difficultyTier": "reason",
-    "sequencePriority": 43,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
-  },
-  {
-    "id": "ac9s2h01-p-044",
-    "curriculumCode": "AC9S2H01",
-    "bank": "practice",
-    "skill": "science in daily life and evidence-based predictions",
-    "printable": true,
-    "type": "single",
-    "question": "A school bell is hard to hear in the far classroom. What could staff investigate?",
-    "audioPrompt": "A school bell is hard to hear in the far classroom. What could staff investigate?",
-    "visual": "",
-    "answers": [
-      "Which desk is the oldest",
-      "Where the bell can be heard clearly",
-      "How many windows are painted blue"
-    ],
-    "correct": 1,
-    "explanation": "Checking sound in different places can help improve a warning system.",
-    "structuredExplanation": {
-      "summary": "Checking sound in different places can help improve a warning system."
-    },
-    "stage": "reason",
-    "difficulty": 3,
-    "difficultyTier": "reason",
-    "sequencePriority": 44,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
-  },
-  {
-    "id": "ac9s2h01-p-045",
-    "curriculumCode": "AC9S2H01",
-    "bank": "practice",
-    "skill": "science in daily life and evidence-based predictions",
-    "printable": true,
-    "type": "single",
-    "question": "A worker tests handles before choosing one for a hot pan. What would be useful to find out?",
-    "audioPrompt": "A worker tests handles before choosing one for a hot pan. What would be useful to find out?",
-    "visual": "",
-    "answers": [
-      "Which handle has the longest name",
-      "Which handle stays cooler",
-      "Which handle matches a plate"
-    ],
-    "correct": 1,
-    "explanation": "Testing materials helps people choose a handle that is safer to hold.",
-    "structuredExplanation": {
-      "summary": "Testing materials helps people choose a handle that is safer to hold."
-    },
-    "stage": "reason",
-    "difficulty": 3,
-    "difficultyTier": "reason",
-    "sequencePriority": 45,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
-  },
-  {
-    "id": "ac9s2h01-p-046",
-    "curriculumCode": "AC9S2H01",
-    "bank": "practice",
-    "skill": "science in daily life and evidence-based predictions",
-    "printable": true,
-    "type": "single",
-    "question": "A gardener sees frost on the same exposed bed on several cold mornings. What might help protect new plants there?",
-    "audioPrompt": "A gardener sees frost on the same exposed bed on several cold mornings. What might help protect new plants there?",
-    "visual": "",
-    "answers": [
-      "Watering their leaves with paint",
-      "Covering them before another frosty night",
-      "Moving them there after frost appears"
-    ],
-    "correct": 1,
-    "explanation": "A repeated frost pattern helps the gardener plan protection in advance.",
-    "structuredExplanation": {
-      "summary": "A repeated frost pattern helps the gardener plan protection in advance."
-    },
-    "stage": "reason",
-    "difficulty": 3,
-    "difficultyTier": "reason",
-    "sequencePriority": 46,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
-  },
-  {
-    "id": "ac9s2h01-p-047",
-    "curriculumCode": "AC9S2H01",
-    "bank": "practice",
-    "skill": "science in daily life and evidence-based predictions",
-    "printable": true,
-    "type": "single",
-    "question": "A lifeguard checks tide information before a beach activity. What can this help predict?",
-    "audioPrompt": "A lifeguard checks tide information before a beach activity. What can this help predict?",
-    "visual": "",
-    "answers": [
-      "The names of tomorrow's swimmers",
-      "How the water level may change",
-      "The colour of every shell"
-    ],
-    "correct": 1,
-    "explanation": "Tide records show repeating changes in water level.",
-    "structuredExplanation": {
-      "summary": "Tide records show repeating changes in water level."
-    },
-    "stage": "reason",
-    "difficulty": 3,
-    "difficultyTier": "reason",
-    "sequencePriority": 47,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
-  },
-  {
-    "id": "ac9s2h01-p-048",
-    "curriculumCode": "AC9S2H01",
-    "bank": "practice",
-    "skill": "science in daily life and evidence-based predictions",
-    "printable": true,
-    "type": "single",
-    "question": "An optician tests a child's sight before choosing glasses. Why test first?",
-    "audioPrompt": "An optician tests a child's sight before choosing glasses. Why test first?",
-    "visual": "",
-    "answers": [
-      "To choose the brightest case",
-      "To find out what help the child needs",
-      "To make every child use the same lenses"
-    ],
-    "correct": 1,
-    "explanation": "Observations from a sight test guide the choice of lenses.",
-    "structuredExplanation": {
-      "summary": "Observations from a sight test guide the choice of lenses."
-    },
-    "stage": "reason",
-    "difficulty": 3,
-    "difficultyTier": "reason",
-    "sequencePriority": 48,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
+    "qualitySchema": "skillr-reviewed-y2-science-v2"
   }
 ];
+window.quizQuestions = window.skillrPracticeQuestions;
