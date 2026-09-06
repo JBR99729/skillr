@@ -7,9 +7,12 @@ const {JSDOM, VirtualConsole} = require('jsdom');
 const root = path.resolve(__dirname, '..');
 const read = p => fs.readFileSync(path.join(root,p),'utf8');
 const tick = () => new Promise(r=>setImmediate(r));
-let rendered = 0;
+const batch2 = process.argv.includes('--batch2');
+const codes = batch2 ? ['ac9s1h01','ac9s1i01','ac9s1i02'] : ['ac9s1u01','ac9s1u02','ac9s1u03'];
+const tag = batch2 ? 'r2' : 'r1';
+let rendered = 0, visualCount = 0;
 (async()=>{
- for(const code of ['ac9s1u01','ac9s1u02','ac9s1u03']) {
+ for(const code of codes) {
   const canonical=JSON.parse(read(`assets/assessment-banks/year1/science/${code}.json`));
   assert.equal(canonical.length,40);
   assert.equal(new Set(canonical.map(q=>q.question)).size,40);
@@ -19,9 +22,9 @@ let rendered = 0;
    const cfg=JSON.parse(html.match(/window.quizConfig=(\{.*?\});/s)[1]);
    const source=canonical.filter(q=>q.bank===mode);
    assert.equal(source.length,mode==='practice'?24:16);
-   assert(cfg.resultStorageKey.endsWith('ScienceR1'));
+   assert(cfg.resultStorageKey.endsWith(batch2 ? 'ScienceR2' : 'ScienceR1'));
    for(const page of ['result','review']) assert(read(route+page+'/index.html').includes(cfg.resultStorageKey));
-   assert(html.includes('questions.js?v=20260906-science-r1'));
+   assert(html.includes('questions.js?v=20260906-science-'+tag));
    const sandbox={window:{}};vm.runInNewContext(read(route+'questions.js'),sandbox);
    const live=sandbox.window.quizQuestions;
    assert.equal(live.length,source.length);
@@ -32,6 +35,7 @@ let rendered = 0;
     assert.equal(q.answers.filter(a=>a.is_correct).length,1);
     assert.equal(new Set(published.answers).size,3);
     if(q.visual.type==='svg') {
+     visualCount++;
      const [asset,symbol]=q.visual.asset_path.slice(1).split('#');
      const doc=new JSDOM(read(asset),{contentType:'image/svg+xml'}).window.document;
      assert(doc.getElementById(symbol),q.id);
@@ -73,12 +77,12 @@ let rendered = 0;
     await tick();
     const result=JSON.parse(w.sessionStorage.getItem(cfg.resultStorageKey));
     assert.equal(result.score,cfg.maxQuestions);assert.equal(result.total,cfg.maxQuestions);
-    assert(result.answers.every(a=>a.questionId.includes('-r1-')));
+    assert(result.answers.every(a=>a.questionId.includes('-'+tag+'-')));
     saved=Object.fromEntries(Array.from({length:w.localStorage.length},(_,i)=>{const k=w.localStorage.key(i);return[k,w.localStorage.getItem(k)];}));
     assert.deepEqual(errors,[]);dom.window.close();
    }
    assert.equal(seen.size,source.length,code+' '+mode+' coverage');
   }
  }
- console.log(`PASS: 120 source questions; 24 visual assets; ${rendered} answers through 15 real-runtime attempts; complete bank coverage; scoring, answer shuffle, rotation, and result-key isolation.`);
+ console.log(`PASS: 120 source questions; ${visualCount} visual assets; ${rendered} answers through 15 real-runtime attempts; complete bank coverage; scoring, answer shuffle, rotation, and result-key isolation.`);
 })().catch(e=>{console.error(e);process.exitCode=1;});

@@ -1,483 +1,751 @@
 "use strict";
 window.skillrPracticeQuestions = [
   {
-    "id": "ac9s1i02-p-001",
+    "id": "ac9s1i02-r2-p-001",
     "curriculumCode": "AC9S1I02",
     "bank": "practice",
-    "skill": "follow safe procedures",
-    "question": "You test ice melting. What is safe?",
-    "explanation": "Watching without touching is a safe way to observe melting.",
+    "skill": "safe procedures to investigate questions and test predictions",
     "printable": true,
     "type": "single",
+    "question": "The class will test which cloth soaks up more water. What should happen before using the materials?",
+    "audioPrompt": "The class will test which cloth soaks up more water. What should happen before using the materials?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "Watch without touching",
-      "Throw the ice",
-      "Taste the ice"
+      "listen to the steps and check the work area",
+      "pour the water and then ask what to do",
+      "start with whichever cloth is nearest"
     ],
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 1,
     "correct": 0,
-    "audioPrompt": "You test ice melting. What is safe?",
+    "explanation": "The class needs to understand the procedure and prepare the area before beginning.\nHint: Look for the observation that supports your answer.",
     "structuredExplanation": {
-      "summary": "Watching without touching is a safe way to observe melting."
-    }
+      "summary": "The class needs to understand the procedure and prepare the area before beginning.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9s1i02-p-002",
+    "id": "ac9s1i02-r2-p-002",
     "curriculumCode": "AC9S1I02",
     "bank": "practice",
-    "skill": "investigate safely",
-    "question": "You find unknown berries. What should you do?",
-    "explanation": "Unknown berries should not be touched or tasted without adult help.",
+    "skill": "safe procedures to investigate questions and test predictions",
     "printable": true,
     "type": "single",
+    "question": "A car test needs a clear rolling lane. Where should the observers stand?",
+    "audioPrompt": "A car test needs a clear rolling lane. Where should the observers stand?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "Eat one",
-      "Ask an adult first",
-      "Hide them"
+      "on the starting line",
+      "beside the lane",
+      "across the end of the lane"
     ],
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 2,
     "correct": 1,
-    "audioPrompt": "You find unknown berries. What should you do?",
+    "explanation": "Standing beside the lane keeps observers clear of moving cars.\nHint: Look for the observation that supports your answer.",
     "structuredExplanation": {
-      "summary": "Unknown berries should not be touched or tasted without adult help."
-    }
+      "summary": "Standing beside the lane keeps observers clear of moving cars.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9s1i02-p-003",
+    "id": "ac9s1i02-r2-p-003",
     "curriculumCode": "AC9S1I02",
     "bank": "practice",
-    "skill": "follow safe procedures",
-    "question": "You test a toy car ramp. What keeps hands safe?",
-    "explanation": "Keeping hands clear helps prevent fingers being hurt.",
+    "skill": "safe procedures to investigate questions and test predictions",
     "printable": true,
     "type": "single",
+    "question": "The teacher says to use five drops on each paper sample. What should a child do?",
+    "audioPrompt": "The teacher says to use five drops on each paper sample. What should a child do?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "Put fingers under wheels",
-      "Push friends",
-      "Keep hands clear"
+      "empty the dropper onto one sample",
+      "add drops until one sample looks darker",
+      "count five drops onto each sample"
     ],
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 3,
     "correct": 2,
-    "audioPrompt": "You test a toy car ramp. What keeps hands safe?",
+    "explanation": "Following the specified amount carries out the planned comparison.\nHint: Look for the observation that supports your answer.",
     "structuredExplanation": {
-      "summary": "Keeping hands clear helps prevent fingers being hurt."
-    }
+      "summary": "Following the specified amount carries out the planned comparison.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9s1i02-p-004",
+    "id": "ac9s1i02-r2-p-004",
     "curriculumCode": "AC9S1I02",
     "bank": "practice",
-    "skill": "investigate safely",
-    "question": "You smell a flower. What should you do first?",
-    "explanation": "Asking first helps make the investigation safe.",
+    "skill": "safe procedures to investigate questions and test predictions",
     "printable": true,
     "type": "single",
+    "question": "A child notices a crack in a container before a water test. What should happen?",
+    "audioPrompt": "A child notices a crack in a container before a water test. What should happen?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "Ask an adult first",
-      "Pull it apart",
-      "Taste it"
+      "tell the teacher and get a suitable container",
+      "fill it first to see how much it holds",
+      "cover the crack by holding it tightly"
     ],
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 4,
     "correct": 0,
-    "audioPrompt": "You smell a flower. What should you do first?",
+    "explanation": "Damaged equipment should be checked and replaced by the adult before use.\nHint: Look for the observation that supports your answer.",
     "structuredExplanation": {
-      "summary": "Asking first helps make the investigation safe."
-    }
+      "summary": "Damaged equipment should be checked and replaced by the adult before use.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9s1i02-p-005",
+    "id": "ac9s1i02-r2-p-005",
     "curriculumCode": "AC9S1I02",
     "bank": "practice",
-    "skill": "follow safe procedures",
-    "question": "You compare loud shakers. What is safe?",
-    "explanation": "Shaking gently protects ears and keeps the test fair.",
+    "skill": "safe procedures to investigate questions and test predictions",
     "printable": true,
     "type": "single",
+    "question": "The class will observe an insect outside. Which action allows observation without disturbing it?",
+    "audioPrompt": "The class will observe an insect outside. Which action allows observation without disturbing it?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "Shake near ears",
-      "Shake gently",
-      "Throw the shaker"
+      "hold it still between fingers",
+      "watch where it is, without touching",
+      "move it repeatedly for a better view"
     ],
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 5,
     "correct": 1,
-    "audioPrompt": "You compare loud shakers. What is safe?",
+    "explanation": "Watching without handling allows observation while reducing harm.\nHint: Look for the observation that supports your answer.",
     "structuredExplanation": {
-      "summary": "Shaking gently protects ears and keeps the test fair."
-    }
+      "summary": "Watching without handling allows observation while reducing harm.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9s1i02-p-006",
+    "id": "ac9s1i02-r2-p-006",
     "curriculumCode": "AC9S1I02",
     "bank": "practice",
-    "skill": "investigate safely",
-    "question": "You observe a worm. What should you do?",
-    "explanation": "Watching quietly keeps the living thing safe.",
+    "skill": "safe procedures to investigate questions and test predictions",
     "printable": true,
     "type": "single",
+    "question": "A table has water materials and a plugged-in device. What should happen before the water test?",
+    "audioPrompt": "A table has water materials and a plugged-in device. What should happen before the water test?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "Poke it",
-      "Take it home",
-      "Watch quietly"
+      "pour carefully beside the device",
+      "cover the device with a cloth and begin",
+      "ask the adult to arrange a separate safe water area"
     ],
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 6,
     "correct": 2,
-    "audioPrompt": "You observe a worm. What should you do?",
+    "explanation": "The adult should separate water work from electrical equipment before the test begins.\nHint: Look for the observation that supports your answer.",
     "structuredExplanation": {
-      "summary": "Watching quietly keeps the living thing safe."
-    }
+      "summary": "The adult should separate water work from electrical equipment before the test begins.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9s1i02-p-007",
+    "id": "ac9s1i02-r2-p-007",
     "curriculumCode": "AC9S1I02",
     "bank": "practice",
-    "skill": "follow safe procedures",
-    "question": "You test wet and dry sand. What is safe?",
-    "explanation": "A scoop helps children investigate without unsafe contact.",
+    "skill": "safe procedures to investigate questions and test predictions",
     "printable": true,
     "type": "single",
+    "question": "A child does not understand the next instruction. What should they do?",
+    "audioPrompt": "A child does not understand the next instruction. What should they do?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "Use a small scoop",
-      "Rub sand in eyes",
-      "Taste the sand"
+      "ask the teacher before continuing",
+      "guess the next step",
+      "copy a different group's test"
     ],
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 7,
     "correct": 0,
-    "audioPrompt": "You test wet and dry sand. What is safe?",
+    "explanation": "Asking prevents an unclear instruction from leading to the wrong or unsafe procedure.\nHint: Look for the observation that supports your answer.",
     "structuredExplanation": {
-      "summary": "A scoop helps children investigate without unsafe contact."
-    }
+      "summary": "Asking prevents an unclear instruction from leading to the wrong or unsafe procedure.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9s1i02-p-008",
+    "id": "ac9s1i02-r2-p-008",
     "curriculumCode": "AC9S1I02",
     "bank": "practice",
-    "skill": "follow safe procedures",
-    "question": "You use a magnifying glass. What is safe?",
-    "explanation": "Looking at leaves is safe; never look at the Sun through a magnifier.",
+    "skill": "safe procedures to investigate questions and test predictions",
     "printable": true,
     "type": "single",
+    "question": "An instruction says, 'Put the tray on the table, then add water.' Which step comes first?",
+    "audioPrompt": "An instruction says, 'Put the tray on the table, then add water.' Which step comes first?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "Look at the sun",
-      "Look at leaves",
-      "Hit the glass"
+      "carry the filled tray around the room",
+      "place the tray on the table",
+      "add water while carrying the tray"
     ],
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 8,
     "correct": 1,
-    "audioPrompt": "You use a magnifying glass. What is safe?",
+    "explanation": "Setting up the tray first follows the instructed sequence and helps contain water.\nHint: Look for the observation that supports your answer.",
     "structuredExplanation": {
-      "summary": "Looking at leaves is safe; never look at the Sun through a magnifier."
-    }
+      "summary": "Setting up the tray first follows the instructed sequence and helps contain water.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9s1i02-p-009",
+    "id": "ac9s1i02-r2-p-009",
     "curriculumCode": "AC9S1I02",
     "bank": "practice",
-    "skill": "investigate safely",
-    "question": "You test if paper floats. What should you use?",
-    "explanation": "A shallow tray is safer than hot water or a stove.",
+    "skill": "safe procedures to investigate questions and test predictions",
     "printable": true,
     "type": "single",
+    "question": "Read the step cards. What belongs between setting up the tray and recording the result?",
+    "audioPrompt": "Read the step cards. What belongs between setting up the tray and recording the result?",
+    "visual": "First: Set up paper in the tray. Next: ?. Last: Record what happened to the paper.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"First: Set up paper in the tray. Next: ?. Last: Record what happened to the paper.\"><use href=\"/assets/assessment-visuals/year1/science/ixl-review-2/ac9s1i02-09.svg#model\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "alt_text": "First: Set up paper in the tray. Next: ?. Last: Record what happened to the paper.",
+      "asset_path": "/assets/assessment-visuals/year1/science/ixl-review-2/ac9s1i02-09.svg#model"
+    },
     "answers": [
-      "Boiling water",
-      "A hot stove",
-      "A shallow tray"
+      "put all the materials away",
+      "change the test question",
+      "add the instructed drops"
     ],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 9,
     "correct": 2,
-    "audioPrompt": "You test if paper floats. What should you use?",
+    "explanation": "The water must be added before its effect can be observed and recorded.\nHint: Look for the observation that supports your answer.",
     "structuredExplanation": {
-      "summary": "A shallow tray is safer than hot water or a stove."
-    }
+      "summary": "The water must be added before its effect can be observed and recorded.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9s1i02-p-010",
+    "id": "ac9s1i02-r2-p-010",
     "curriculumCode": "AC9S1I02",
     "bank": "practice",
-    "skill": "investigate safely",
-    "question": "You spill water. What should you do?",
-    "explanation": "Telling the teacher helps keep everyone safe.",
+    "skill": "safe procedures to investigate questions and test predictions",
     "printable": true,
     "type": "single",
+    "question": "A ball test is ready, but a bag lies across the lane. What should happen next?",
+    "audioPrompt": "A ball test is ready, but a bag lies across the lane. What should happen next?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "Tell the teacher",
-      "Run through it",
-      "Ignore it"
+      "clear the lane before rolling",
+      "roll around the bag without changing the plan",
+      "move the bag after the ball reaches it"
     ],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 10,
     "correct": 0,
-    "audioPrompt": "You spill water. What should you do?",
+    "explanation": "The planned lane needs to be clear before the trial begins.\nHint: Look for the observation that supports your answer.",
     "structuredExplanation": {
-      "summary": "Telling the teacher helps keep everyone safe."
-    }
+      "summary": "The planned lane needs to be clear before the trial begins.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9s1i02-p-011",
+    "id": "ac9s1i02-r2-p-011",
     "curriculumCode": "AC9S1I02",
     "bank": "practice",
-    "skill": "make investigations fair",
-    "question": "You test seed growth. What is fair?",
-    "explanation": "Giving the same water makes the test safer and fairer.",
+    "skill": "safe procedures to investigate questions and test predictions",
     "printable": true,
     "type": "single",
+    "question": "A child will observe a leaf with a magnifier. Which setup is suitable?",
+    "audioPrompt": "A child will observe a leaf with a magnifier. Which setup is suitable?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "Hide one seed",
-      "Give each seed the same water",
-      "Step on one pot"
+      "use the magnifier to focus sunlight on the leaf",
+      "place the leaf on the table and follow the adult's instructions",
+      "walk around while holding leaf and magnifier"
     ],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 11,
     "correct": 1,
-    "audioPrompt": "You test seed growth. What is fair?",
+    "explanation": "A stable, instructed setup supports observation without concentrating sunlight.\nHint: Look for the observation that supports your answer.",
     "structuredExplanation": {
-      "summary": "Giving the same water makes the test safer and fairer."
-    }
+      "summary": "A stable, instructed setup supports observation without concentrating sunlight.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9s1i02-p-012",
+    "id": "ac9s1i02-r2-p-012",
     "curriculumCode": "AC9S1I02",
     "bank": "practice",
-    "skill": "follow safe procedures",
-    "question": "You hear a strange sound outside. What is safe?",
-    "explanation": "Staying with the group is a safe investigation procedure.",
+    "skill": "safe procedures to investigate questions and test predictions",
     "printable": true,
     "type": "single",
+    "question": "The plan says to roll one ball at a time. Why should children wait for the lane to clear?",
+    "audioPrompt": "The plan says to roll one ball at a time. Why should children wait for the lane to clear?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "Run alone",
-      "Climb the fence",
-      "Stay with the group"
+      "to make every ball travel equally far",
+      "to ensure the second ball is heavier",
+      "to avoid balls and people crossing the trial"
     ],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 12,
     "correct": 2,
-    "audioPrompt": "You hear a strange sound outside. What is safe?",
+    "explanation": "A clear lane makes each trial safer and easier to observe.\nHint: Look for the observation that supports your answer.",
     "structuredExplanation": {
-      "summary": "Staying with the group is a safe investigation procedure."
-    }
+      "summary": "A clear lane makes each trial safer and easier to observe.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9s1i02-p-013",
+    "id": "ac9s1i02-r2-p-013",
     "curriculumCode": "AC9S1I02",
     "bank": "practice",
-    "skill": "use investigation tools safely",
-    "question": "You test a magnet. What should stay away?",
-    "explanation": "Magnets can affect some devices and cards.",
+    "skill": "safe procedures to investigate questions and test predictions",
     "printable": true,
     "type": "single",
+    "question": "A water spill reaches the floor during a test. What should the class do first?",
+    "audioPrompt": "A water spill reaches the floor during a test. What should the class do first?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "Phones and cards",
-      "Paper clips",
-      "Plastic buttons"
+      "stop, keep clear and tell the adult",
+      "finish the remaining trials first",
+      "step over it while carrying more water"
     ],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 13,
     "correct": 0,
-    "audioPrompt": "You test a magnet. What should stay away?",
+    "explanation": "The spill should be dealt with before the investigation continues.\nHint: Look for the observation that supports your answer.",
     "structuredExplanation": {
-      "summary": "Magnets can affect some devices and cards."
-    }
+      "summary": "The spill should be dealt with before the investigation continues.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9s1i02-p-014",
+    "id": "ac9s1i02-r2-p-014",
     "curriculumCode": "AC9S1I02",
     "bank": "practice",
-    "skill": "investigate safely",
-    "question": "You compare leaf textures. What should you do?",
-    "explanation": "Gentle touching protects the leaves and the child.",
+    "skill": "safe procedures to investigate questions and test predictions",
     "printable": true,
     "type": "single",
+    "question": "A teacher provides a sealed pond-water sample. How should children observe it?",
+    "audioPrompt": "A teacher provides a sealed pond-water sample. How should children observe it?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "Crush every leaf",
-      "Touch gently",
-      "Put leaves in mouth"
+      "pour it onto their hands",
+      "look through the container as instructed",
+      "open it to smell the water closely"
     ],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 14,
     "correct": 1,
-    "audioPrompt": "You compare leaf textures. What should you do?",
+    "explanation": "The sealed sample allows observation without unnecessary contact with unknown water.\nHint: Look for the observation that supports your answer.",
     "structuredExplanation": {
-      "summary": "Gentle touching protects the leaves and the child."
-    }
+      "summary": "The sealed sample allows observation without unnecessary contact with unknown water.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9s1i02-p-015",
+    "id": "ac9s1i02-r2-p-015",
     "curriculumCode": "AC9S1I02",
     "bank": "practice",
-    "skill": "follow safe procedures",
-    "question": "You test a ball bounce. What is safe?",
-    "explanation": "Clear space helps prevent accidents.",
+    "skill": "safe procedures to investigate questions and test predictions",
     "printable": true,
     "type": "single",
+    "question": "The class asks which paper stays driest under two covers. Which procedure tests that question?",
+    "audioPrompt": "The class asks which paper stays driest under two covers. Which procedure tests that question?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "Throw at faces",
-      "Stand on chairs",
-      "Bounce in clear space"
+      "look only at the covers' colours",
+      "pour water onto the covers without any paper",
+      "put paper under each cover and add the instructed water"
     ],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 15,
     "correct": 2,
-    "audioPrompt": "You test a ball bounce. What is safe?",
+    "explanation": "The paper underneath is needed to observe the outcome in the question.\nHint: Look for the observation that supports your answer.",
     "structuredExplanation": {
-      "summary": "Clear space helps prevent accidents."
-    }
+      "summary": "The paper underneath is needed to observe the outcome in the question.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9s1i02-p-016",
+    "id": "ac9s1i02-r2-p-016",
     "curriculumCode": "AC9S1I02",
     "bank": "practice",
-    "skill": "investigate safely",
-    "question": "You see a hot cup. What should you do?",
-    "explanation": "Hot objects need adult help.",
+    "skill": "safe procedures to investigate questions and test predictions",
     "printable": true,
     "type": "single",
+    "question": "A child finishes observing worms in an adult-prepared damp tray. What should happen next?",
+    "audioPrompt": "A child finishes observing worms in an adult-prepared damp tray. What should happen next?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "Tell an adult",
-      "Grab it",
-      "Taste it"
+      "follow the adult's plan to return them carefully",
+      "leave the tray in sunlight until tomorrow",
+      "keep moving the worms for extra pictures"
     ],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 16,
     "correct": 0,
-    "audioPrompt": "You see a hot cup. What should you do?",
+    "explanation": "The procedure should include care for living things after the observation.\nHint: Look for the observation that supports your answer.",
     "structuredExplanation": {
-      "summary": "Hot objects need adult help."
-    }
+      "summary": "The procedure should include care for living things after the observation.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9s1i02-p-017",
+    "id": "ac9s1i02-r2-p-017",
     "curriculumCode": "AC9S1I02",
     "bank": "practice",
-    "skill": "follow safe procedures",
-    "question": "You compare two liquids. What is safe?",
-    "explanation": "Unknown liquids should not be tasted.",
+    "skill": "safe procedures to investigate questions and test predictions",
     "printable": true,
     "type": "single",
+    "question": "Read the car-test plan. Which step is missing before the next roll?",
+    "audioPrompt": "Read the car-test plan. Which step is missing before the next roll?",
+    "visual": "First: Check lane; release the car. Next: Observe and mark its stopping place. Before another roll: ?.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"First: Check lane; release the car. Next: Observe and mark its stopping place. Before another roll: ?.\"><use href=\"/assets/assessment-visuals/year1/science/ixl-review-2/ac9s1i02-17.svg#model\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "alt_text": "First: Check lane; release the car. Next: Observe and mark its stopping place. Before another roll: ?.",
+      "asset_path": "/assets/assessment-visuals/year1/science/ixl-review-2/ac9s1i02-17.svg#model"
+    },
     "answers": [
-      "Smell closely",
-      "Do not taste them",
-      "Drink a little"
+      "change the question after each roll",
+      "retrieve the car when the lane is clear",
+      "send another car while someone retrieves the first"
     ],
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 17,
     "correct": 1,
-    "audioPrompt": "You compare two liquids. What is safe?",
+    "explanation": "Waiting for a clear lane protects the person retrieving the car and prepares the next trial.\nHint: Look for the observation that supports your answer.",
     "structuredExplanation": {
-      "summary": "Unknown liquids should not be tasted."
-    }
+      "summary": "Waiting for a clear lane protects the person retrieving the car and prepares the next trial.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9s1i02-p-018",
+    "id": "ac9s1i02-r2-p-018",
     "curriculumCode": "AC9S1I02",
     "bank": "practice",
-    "skill": "investigate safely",
-    "question": "You test shadows outside. What should you remember?",
-    "explanation": "Looking at the Sun can hurt eyes.",
+    "skill": "safe procedures to investigate questions and test predictions",
     "printable": true,
     "type": "single",
+    "question": "A class compares gentle sounds made by objects. Which plan fits the task safely?",
+    "audioPrompt": "A class compares gentle sounds made by objects. Which plan fits the task safely?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "Look at the Sun",
-      "Run away",
-      "Never look at the Sun"
+      "hold each object beside a classmate's ear",
+      "make the loudest sound possible first",
+      "make gentle sounds away from ears"
     ],
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 18,
     "correct": 2,
-    "audioPrompt": "You test shadows outside. What should you remember?",
+    "explanation": "Gentle sounds at a suitable distance allow comparison without unnecessary loudness near ears.\nHint: Look for the observation that supports your answer.",
     "structuredExplanation": {
-      "summary": "Looking at the Sun can hurt eyes."
-    }
+      "summary": "Gentle sounds at a suitable distance allow comparison without unnecessary loudness near ears.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9s1i02-p-019",
+    "id": "ac9s1i02-r2-p-019",
     "curriculumCode": "AC9S1I02",
     "bank": "practice",
-    "skill": "follow safe procedures",
-    "question": "You record plant changes. What is safe?",
-    "explanation": "Drawing records observations without harming the plant.",
+    "skill": "safe procedures to investigate questions and test predictions",
     "printable": true,
     "type": "single",
+    "question": "The instruction says to stop after ten drops. A child wants to add more to get a different result. What should they do?",
+    "audioPrompt": "The instruction says to stop after ten drops. A child wants to add more to get a different result. What should they do?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "Draw what you see",
-      "Pull up the plant",
-      "Break the stem"
+      "stop at ten and ask before changing the plan",
+      "add more without telling the group",
+      "write ten even after adding extra drops"
     ],
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 19,
     "correct": 0,
-    "audioPrompt": "You record plant changes. What is safe?",
+    "explanation": "Following and honestly recording the procedure keeps the test meaningful.\nHint: Look for the observation that supports your answer.",
     "structuredExplanation": {
-      "summary": "Drawing records observations without harming the plant."
-    }
+      "summary": "Following and honestly recording the procedure keeps the test meaningful.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9s1i02-p-020",
+    "id": "ac9s1i02-r2-p-020",
     "curriculumCode": "AC9S1I02",
     "bank": "practice",
-    "skill": "investigate safely",
-    "question": "You test toy cars. What should you share?",
-    "explanation": "Taking turns keeps the investigation safe and fair.",
+    "skill": "safe procedures to investigate questions and test predictions",
     "printable": true,
     "type": "single",
+    "question": "A teacher marks a safe spot for observing shadows. Children cannot see the shadow well there. What should they do?",
+    "audioPrompt": "A teacher marks a safe spot for observing shadows. Children cannot see the shadow well there. What should they do?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "One car only",
-      "Take turns",
-      "Push others away"
+      "look directly at the Sun instead",
+      "ask for help finding another safe viewing spot",
+      "move into the car park by themselves"
     ],
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 20,
     "correct": 1,
-    "audioPrompt": "You test toy cars. What should you share?",
+    "explanation": "The plan can be adjusted with adult guidance while keeping the observation safe.\nHint: Look for the observation that supports your answer.",
     "structuredExplanation": {
-      "summary": "Taking turns keeps the investigation safe and fair."
-    }
+      "summary": "The plan can be adjusted with adult guidance while keeping the observation safe.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9s1i02-p-021",
+    "id": "ac9s1i02-r2-p-021",
     "curriculumCode": "AC9S1I02",
     "bank": "practice",
-    "skill": "use investigation tools safely",
-    "question": "You want to use a new tool. What comes first?",
-    "explanation": "Asking first helps make tool use safe.",
+    "skill": "safe procedures to investigate questions and test predictions",
     "printable": true,
     "type": "single",
+    "question": "A group wants to test which ramp sends a car farther. Which complete plan is suitable?",
+    "audioPrompt": "A group wants to test which ramp sends a car farther. Which complete plan is suitable?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "Run with it",
-      "Hide it",
-      "Ask an adult first"
+      "release first, clear the lane later, then mark the start",
+      "clear the lane, pack away the ramps, then guess the distance",
+      "set up a clear lane, release as instructed, mark the stopping place"
     ],
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 21,
     "correct": 2,
-    "audioPrompt": "You want to use a new tool. What comes first?",
+    "explanation": "The suitable sequence prepares the area, performs the test and observes the relevant outcome.\nHint: Look for the observation that supports your answer.",
     "structuredExplanation": {
-      "summary": "Asking first helps make tool use safe."
-    }
+      "summary": "The suitable sequence prepares the area, performs the test and observes the relevant outcome.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9s1i02-p-022",
+    "id": "ac9s1i02-r2-p-022",
     "curriculumCode": "AC9S1I02",
     "bank": "practice",
-    "skill": "follow safe procedures",
-    "question": "You test soil outside. What is safe?",
-    "explanation": "A small scoop keeps outdoor soil testing safer and controlled.",
+    "skill": "safe procedures to investigate questions and test predictions",
     "printable": true,
     "type": "single",
+    "question": "A child is told to keep a fan's guard in place during a paper test. The paper does not move. What next?",
+    "audioPrompt": "A child is told to keep a fan's guard in place during a paper test. The paper does not move. What next?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "Use a small scoop",
-      "Throw mud at friends",
-      "Taste the soil"
+      "ask the adult how to adjust the setup safely",
+      "remove the guard to get closer",
+      "push fingers through the guard"
     ],
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 22,
     "correct": 0,
-    "audioPrompt": "You test soil outside. What is safe?",
+    "explanation": "A result that is hard to see is a reason to seek help, not remove a safety feature.\nHint: Look for the observation that supports your answer.",
     "structuredExplanation": {
-      "summary": "A small scoop keeps outdoor soil testing safer and controlled."
-    }
+      "summary": "A result that is hard to see is a reason to seek help, not remove a safety feature.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9s1i02-p-023",
+    "id": "ac9s1i02-r2-p-023",
     "curriculumCode": "AC9S1I02",
     "bank": "practice",
-    "skill": "follow safe procedures",
-    "question": "You roll marbles on a track. What is safe?",
-    "explanation": "Keeping hands clear helps prevent injuries.",
+    "skill": "safe procedures to investigate questions and test predictions",
     "printable": true,
     "type": "single",
+    "question": "Read the water-test cards. Which step needs changing before the class starts?",
+    "audioPrompt": "Read the water-test cards. Which step needs changing before the class starts?",
+    "visual": "Planned location: Beside a plugged-in device. Planned equipment: Tray, paper and cups of water. Planned action: Pour water onto paper in the tray.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Planned location: Beside a plugged-in device. Planned equipment: Tray, paper and cups of water. Planned action: Pour water onto paper in the tray.\"><use href=\"/assets/assessment-visuals/year1/science/ixl-review-2/ac9s1i02-23.svg#model\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "alt_text": "Planned location: Beside a plugged-in device. Planned equipment: Tray, paper and cups of water. Planned action: Pour water onto paper in the tray.",
+      "asset_path": "/assets/assessment-visuals/year1/science/ixl-review-2/ac9s1i02-23.svg#model"
+    },
     "answers": [
-      "Put marbles in your mouth",
-      "Keep hands clear",
-      "Throw marbles"
+      "remove the tray but keep the same location",
+      "move the water work away from electrical equipment",
+      "leave the tray beside the device and pour slowly"
     ],
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 23,
     "correct": 1,
-    "audioPrompt": "You roll marbles on a track. What is safe?",
+    "explanation": "Changing the location addresses the hazard; pouring slowly or removing the tray does not.\nHint: Look for the observation that supports your answer.",
     "structuredExplanation": {
-      "summary": "Keeping hands clear helps prevent injuries."
-    }
+      "summary": "Changing the location addresses the hazard; pouring slowly or removing the tray does not.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9s1i02-p-024",
+    "id": "ac9s1i02-r2-p-024",
     "curriculumCode": "AC9S1I02",
     "bank": "practice",
-    "skill": "follow safe procedures",
-    "question": "You test outside in the sun. What helps safety?",
-    "explanation": "A hat helps with sun safety.",
+    "skill": "safe procedures to investigate questions and test predictions",
     "printable": true,
     "type": "single",
+    "question": "A class follows a plan to test whether a cover keeps a toy dry. Rain starts during the outdoor setup. What should they do?",
+    "audioPrompt": "A class follows a plan to test whether a cover keeps a toy dry. Rain starts during the outdoor setup. What should they do?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "Look at the Sun",
-      "Drink no water",
-      "Wear a hat"
+      "keep going because plans can never change",
+      "collect all materials while running",
+      "pause and ask the adult how to continue safely"
     ],
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 24,
     "correct": 2,
-    "audioPrompt": "You test outside in the sun. What helps safety?",
+    "explanation": "Safe procedures can be adjusted with guidance when conditions change.\nHint: Look for the observation that supports your answer.",
     "structuredExplanation": {
-      "summary": "A hat helps with sun safety."
-    }
+      "summary": "Safe procedures can be adjusted with guidance when conditions change.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "qualitySchema": "production-v1"
   }
 ];
+window.quizQuestions = window.skillrPracticeQuestions;

@@ -1,14 +1,14 @@
 "use strict";
 window.skillrPracticeQuestions = [
   {
-    "id": "ac9s1i01-p-001",
+    "id": "ac9s1i01-r2-p-001",
     "curriculumCode": "AC9S1I01",
     "bank": "practice",
-    "skill": "questions, patterns and predictions",
+    "skill": "questions about patterns and experience-based predictions",
     "printable": true,
     "type": "single",
-    "question": "Which question could be explored by watching two puddles?",
-    "audioPrompt": "Which question could be explored by watching two puddles?",
+    "question": "One puddle is in sunlight and one is in shade. Which question explores drying?",
+    "audioPrompt": "One puddle is in sunlight and one is in shade. Which question explores drying?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -16,32 +16,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Which puddle dries first?",
-      "Why is water important?",
-      "Which puddle is happier?",
-      "Are puddles beautiful?"
+      "Which puddle will dry first?",
+      "Which puddle is wider now?",
+      "How many puddles are there?"
     ],
-    "correct": 0,
-    "explanation": "A useful science question can be checked by observing or measuring.\nHint: Choose what you could actually watch.",
-    "structuredExplanation": {
-      "summary": "A useful science question can be checked by observing or measuring.",
-      "hint": "Choose what you could actually watch."
-    },
-    "stage": "recognise",
     "difficulty": 1,
     "difficultyTier": "recognise",
     "sequencePriority": 1,
-    "qualitySchema": "skillr-actual-v6"
+    "correct": 0,
+    "explanation": "The first question explores a possible difference in drying, rather than just the current size or count.\nHint: Look for the observation that supports your answer.",
+    "structuredExplanation": {
+      "summary": "The first question explores a possible difference in drying, rather than just the current size or count.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9s1i01-p-002",
+    "id": "ac9s1i01-r2-p-002",
     "curriculumCode": "AC9S1I01",
     "bank": "practice",
-    "skill": "questions, patterns and predictions",
+    "skill": "questions about patterns and experience-based predictions",
     "printable": true,
     "type": "single",
-    "question": "Which sentence is a prediction?",
-    "audioPrompt": "Which sentence is a prediction?",
+    "question": "A sponge and cloth will be tested with water. Which is a prediction?",
+    "audioPrompt": "A sponge and cloth will be tested with water. Which is a prediction?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -49,32 +47,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "I think the sunny leaf will dry first.",
-      "The leaf dried at 2 pm.",
-      "The leaf is green.",
-      "The leaf is wet."
+      "The cloth is beside the bowl.",
+      "The sponge may hold more water.",
+      "The sponge is dry now."
     ],
-    "correct": 0,
-    "explanation": "A prediction says what you expect before the result is known.\nHint: Look for what may happen next.",
-    "structuredExplanation": {
-      "summary": "A prediction says what you expect before the result is known.",
-      "hint": "Look for what may happen next."
-    },
-    "stage": "recognise",
     "difficulty": 1,
     "difficultyTier": "recognise",
     "sequencePriority": 2,
-    "qualitySchema": "skillr-actual-v6"
+    "correct": 1,
+    "explanation": "A prediction describes an expected result before the test.\nHint: Look for the observation that supports your answer.",
+    "structuredExplanation": {
+      "summary": "A prediction describes an expected result before the test.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9s1i01-p-003",
+    "id": "ac9s1i01-r2-p-003",
     "curriculumCode": "AC9S1I01",
     "bank": "practice",
-    "skill": "questions, patterns and predictions",
+    "skill": "questions about patterns and experience-based predictions",
     "printable": true,
     "type": "single",
-    "question": "Which question is focused enough to test with two toy cars?",
-    "audioPrompt": "Which question is focused enough to test with two toy cars?",
+    "question": "A toy car rolled farther after a stronger push yesterday. What might happen with a stronger push today?",
+    "audioPrompt": "A toy car rolled farther after a stronger push yesterday. What might happen with a stronger push today?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -82,32 +78,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Why do wheels exist?",
-      "What happens to toys?",
-      "Are cars fun?",
-      "Which car rolls farther down the same ramp?"
+      "It must roll exactly the same distance.",
+      "It cannot move after a stronger push.",
+      "It may roll farther again."
     ],
-    "correct": 3,
-    "explanation": "The question names what will be compared and what will be observed.\nHint: Could you answer it with the two cars and ramp?",
-    "structuredExplanation": {
-      "summary": "The question names what will be compared and what will be observed.",
-      "hint": "Could you answer it with the two cars and ramp?"
-    },
-    "stage": "recognise",
     "difficulty": 1,
     "difficultyTier": "recognise",
     "sequencePriority": 3,
-    "qualitySchema": "skillr-actual-v6"
+    "correct": 2,
+    "explanation": "Relevant past experience supports the prediction, without fixing an exact distance.\nHint: Look for the observation that supports your answer.",
+    "structuredExplanation": {
+      "summary": "Relevant past experience supports the prediction, without fixing an exact distance.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9s1i01-p-004",
+    "id": "ac9s1i01-r2-p-004",
     "curriculumCode": "AC9S1I01",
     "bank": "practice",
-    "skill": "questions, patterns and predictions",
+    "skill": "questions about patterns and experience-based predictions",
     "printable": true,
     "type": "single",
-    "question": "A child predicts that the larger paper boat will hold more counters. Which word shows it is about the future?",
-    "audioPrompt": "A child predicts that the larger paper boat will hold more counters. Which word shows it is about the future?",
+    "question": "A plant near a window leaned towards it. Which question follows from that observation?",
+    "audioPrompt": "A plant near a window leaned towards it. Which question follows from that observation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -115,32 +109,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "counters",
-      "larger",
-      "paper",
-      "will"
+      "Will another plant there lean towards the window?",
+      "How many windows are in the room?",
+      "What colour is the window frame?"
     ],
-    "correct": 3,
-    "explanation": "“Will” signals an expected result that has not happened yet.\nHint: Find the future word.",
-    "structuredExplanation": {
-      "summary": "“Will” signals an expected result that has not happened yet.",
-      "hint": "Find the future word."
-    },
-    "stage": "recognise",
     "difficulty": 1,
     "difficultyTier": "recognise",
     "sequencePriority": 4,
-    "qualitySchema": "skillr-actual-v6"
+    "correct": 0,
+    "explanation": "The first question explores whether the observed growth direction happens again.\nHint: Look for the observation that supports your answer.",
+    "structuredExplanation": {
+      "summary": "The first question explores whether the observed growth direction happens again.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9s1i01-p-005",
+    "id": "ac9s1i01-r2-p-005",
     "curriculumCode": "AC9S1I01",
     "bank": "practice",
-    "skill": "questions, patterns and predictions",
+    "skill": "questions about patterns and experience-based predictions",
     "printable": true,
     "type": "single",
-    "question": "Which reason best supports “The ice in sun may melt first”?",
-    "audioPrompt": "Which reason best supports “The ice in sun may melt first”?",
+    "question": "A child used a sponge to soak up a spill yesterday. Which reason supports predicting it will soak up water today?",
+    "audioPrompt": "A child used a sponge to soak up a spill yesterday. Which reason supports predicting it will soak up water today?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -148,32 +140,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Ice near a sunny window melted quickly yesterday.",
-      "Yellow is my favourite colour.",
-      "The tray is square.",
-      "My friend chose sun."
+      "It has a square shape.",
+      "It soaked up water before.",
+      "It is beside a dry bowl."
     ],
-    "correct": 0,
-    "explanation": "The reason uses relevant past experience about melting.\nHint: Which reason is about ice and warmth?",
-    "structuredExplanation": {
-      "summary": "The reason uses relevant past experience about melting.",
-      "hint": "Which reason is about ice and warmth?"
-    },
-    "stage": "recognise",
     "difficulty": 1,
     "difficultyTier": "recognise",
     "sequencePriority": 5,
-    "qualitySchema": "skillr-actual-v6"
+    "correct": 1,
+    "explanation": "The earlier water-soaking experience is directly relevant to the prediction.\nHint: Look for the observation that supports your answer.",
+    "structuredExplanation": {
+      "summary": "The earlier water-soaking experience is directly relevant to the prediction.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9s1i01-p-006",
+    "id": "ac9s1i01-r2-p-006",
     "curriculumCode": "AC9S1I01",
     "bank": "practice",
-    "skill": "questions, patterns and predictions",
+    "skill": "questions about patterns and experience-based predictions",
     "printable": true,
     "type": "single",
-    "question": "Which question could be answered by counting?",
-    "audioPrompt": "Which question could be answered by counting?",
+    "question": "Two balls will be rolled down a ramp. Which question focuses on their travel?",
+    "audioPrompt": "Two balls will be rolled down a ramp. Which question focuses on their travel?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -181,32 +171,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Why are bees nice?",
-      "Which flower is prettiest?",
-      "Do bees have feelings?",
-      "How many bees visit each flower patch in five minutes?"
+      "Which ball is heavier before rolling?",
+      "Which ball has the brighter colour?",
+      "Which ball will roll farther?"
     ],
-    "correct": 3,
-    "explanation": "Visits can be counted during a set time.\nHint: Look for something measurable.",
-    "structuredExplanation": {
-      "summary": "Visits can be counted during a set time.",
-      "hint": "Look for something measurable."
-    },
-    "stage": "recognise",
     "difficulty": 1,
     "difficultyTier": "recognise",
     "sequencePriority": 6,
-    "qualitySchema": "skillr-actual-v6"
+    "correct": 2,
+    "explanation": "The question asks about the motion the children will observe.\nHint: Look for the observation that supports your answer.",
+    "structuredExplanation": {
+      "summary": "The question asks about the motion the children will observe.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9s1i01-p-007",
+    "id": "ac9s1i01-r2-p-007",
     "curriculumCode": "AC9S1I01",
     "bank": "practice",
-    "skill": "questions, patterns and predictions",
+    "skill": "questions about patterns and experience-based predictions",
     "printable": true,
     "type": "single",
-    "question": "Before testing two towels, which belongs in the prediction box?",
-    "audioPrompt": "Before testing two towels, which belongs in the prediction box?",
+    "question": "Before testing a paper bridge, a child says, 'It may hold two counters.' What is this?",
+    "audioPrompt": "Before testing a paper bridge, a child says, 'It may hold two counters.' What is this?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -214,32 +202,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Both towels are dry now.",
-      "The bowl is blue.",
-      "Towel A absorbed 12 drops.",
-      "I think towel B will absorb more water."
+      "a prediction",
+      "a result already measured",
+      "a description of its colour"
     ],
-    "correct": 3,
-    "explanation": "The prediction gives an expected result before testing.\nHint: What has not happened yet?",
-    "structuredExplanation": {
-      "summary": "The prediction gives an expected result before testing.",
-      "hint": "What has not happened yet?"
-    },
-    "stage": "recognise",
     "difficulty": 1,
     "difficultyTier": "recognise",
     "sequencePriority": 7,
-    "qualitySchema": "skillr-actual-v6"
+    "correct": 0,
+    "explanation": "The child is saying what they expect before testing.\nHint: Look for the observation that supports your answer.",
+    "structuredExplanation": {
+      "summary": "The child is saying what they expect before testing.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9s1i01-p-008",
+    "id": "ac9s1i01-r2-p-008",
     "curriculumCode": "AC9S1I01",
     "bank": "practice",
-    "skill": "questions, patterns and predictions",
+    "skill": "questions about patterns and experience-based predictions",
     "printable": true,
     "type": "single",
-    "question": "Which is an experience-based reason?",
-    "audioPrompt": "Which is an experience-based reason?",
+    "question": "A child saw ants beside a tree and on a path. Which question compares those places?",
+    "audioPrompt": "A child saw ants beside a tree and on a path. Which question compares those places?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -247,65 +233,62 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The sponge has six letters.",
-      "I think the sponge will soak up more because I have used one to wipe spills.",
-      "I think sponge because seven is lucky.",
-      "I like yellow."
+      "How long is the path?",
+      "Where will we see more ants?",
+      "How tall is the tree?"
     ],
-    "correct": 1,
-    "explanation": "Relevant experience can support a prediction.\nHint: Which reason connects to soaking water?",
-    "structuredExplanation": {
-      "summary": "Relevant experience can support a prediction.",
-      "hint": "Which reason connects to soaking water?"
-    },
-    "stage": "recognise",
     "difficulty": 1,
     "difficultyTier": "recognise",
     "sequencePriority": 8,
-    "qualitySchema": "skillr-actual-v6"
+    "correct": 1,
+    "explanation": "The question compares ant numbers in the two observed places.\nHint: Look for the observation that supports your answer.",
+    "structuredExplanation": {
+      "summary": "The question compares ant numbers in the two observed places.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9s1i01-p-009",
+    "id": "ac9s1i01-r2-p-009",
     "curriculumCode": "AC9S1I01",
     "bank": "practice",
-    "skill": "questions, patterns and predictions",
+    "skill": "questions about patterns and experience-based predictions",
     "printable": true,
     "type": "single",
-    "question": "Which question matches this result: “The seed beside the window sprouted first”?",
-    "audioPrompt": "Which question matches this result: “The seed beside the window sprouted first”?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "Read the car record. Which prediction fits another similar trial?",
+    "audioPrompt": "Read the car record. Which prediction fits another similar trial?",
+    "visual": "Trial 1, same car and floor: Stronger push: farther travel. Trial 2, same car and floor: Stronger push: farther travel.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Trial 1, same car and floor: Stronger push: farther travel. Trial 2, same car and floor: Stronger push: farther travel.\"><use href=\"/assets/assessment-visuals/year1/science/ixl-review-2/ac9s1i01-09.svg#model\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "alt_text": "Trial 1, same car and floor: Stronger push: farther travel. Trial 2, same car and floor: Stronger push: farther travel.",
+      "asset_path": "/assets/assessment-visuals/year1/science/ixl-review-2/ac9s1i01-09.svg#model"
     },
     "answers": [
-      "Which seed will sprout first?",
-      "What colour are the pots?",
-      "How many windows are there?",
-      "Which seed looks nicest?"
+      "The gentle push may send the car farther.",
+      "Both pushes may send the car equally far.",
+      "The stronger push may send the car farther."
     ],
-    "correct": 0,
-    "explanation": "The result answers a question about which seed sprouted first.\nHint: Match the result to the outcome.",
-    "structuredExplanation": {
-      "summary": "The result answers a question about which seed sprouted first.",
-      "hint": "Match the result to the outcome."
-    },
-    "stage": "recognise",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
+    "difficulty": 2,
+    "difficultyTier": "apply",
     "sequencePriority": 9,
-    "qualitySchema": "skillr-actual-v6"
+    "correct": 2,
+    "explanation": "The prediction follows the pattern in the recorded trials.\nHint: Look for the observation that supports your answer.",
+    "structuredExplanation": {
+      "summary": "The prediction follows the pattern in the recorded trials.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9s1i01-p-010",
+    "id": "ac9s1i01-r2-p-010",
     "curriculumCode": "AC9S1I01",
     "bank": "practice",
-    "skill": "questions, patterns and predictions",
+    "skill": "questions about patterns and experience-based predictions",
     "printable": true,
     "type": "single",
-    "question": "Which sentence is NOT a prediction?",
-    "audioPrompt": "Which sentence is NOT a prediction?",
+    "question": "One wet sock dried faster outside than inside yesterday. Which question could explore that relationship again?",
+    "audioPrompt": "One wet sock dried faster outside than inside yesterday. Which question could explore that relationship again?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -313,32 +296,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The sunny ice may melt first.",
-      "The red car travelled 90 cm.",
-      "The watered seed might sprout first.",
-      "The smooth ball may roll farther."
+      "Will the outside sock dry first again?",
+      "Which sock has more stripes?",
+      "How many pegs are on the line?"
     ],
-    "correct": 1,
-    "explanation": "“Travelled 90 cm” reports a completed observation.\nHint: Which event already happened?",
-    "structuredExplanation": {
-      "summary": "“Travelled 90 cm” reports a completed observation.",
-      "hint": "Which event already happened?"
-    },
-    "stage": "recognise",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
+    "difficulty": 2,
+    "difficultyTier": "apply",
     "sequencePriority": 10,
-    "qualitySchema": "skillr-actual-v6"
+    "correct": 0,
+    "explanation": "The question follows the observed relationship between place and drying.\nHint: Look for the observation that supports your answer.",
+    "structuredExplanation": {
+      "summary": "The question follows the observed relationship between place and drying.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9s1i01-p-011",
+    "id": "ac9s1i01-r2-p-011",
     "curriculumCode": "AC9S1I01",
     "bank": "practice",
-    "skill": "questions, patterns and predictions",
+    "skill": "questions about patterns and experience-based predictions",
     "printable": true,
     "type": "single",
-    "question": "Why is “What happens?” too broad for a science investigation?",
-    "audioPrompt": "Why is “What happens?” too broad for a science investigation?",
+    "question": "A child asks, 'Which towel holds more water?' Which prediction answers that question?",
+    "audioPrompt": "A child asks, 'Which towel holds more water?' Which prediction answers that question?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -346,32 +327,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "It is too short.",
-      "It needs a longer word.",
-      "It does not say what object or change to observe.",
-      "Science questions cannot use “what”."
+      "Towel A may look darker than Towel B.",
+      "Towel A may hold more than Towel B.",
+      "Towel A may be longer than Towel B."
     ],
-    "correct": 2,
-    "explanation": "A focused question makes the observation or comparison clear.\nHint: What would you actually watch?",
-    "structuredExplanation": {
-      "summary": "A focused question makes the observation or comparison clear.",
-      "hint": "What would you actually watch?"
-    },
-    "stage": "explain",
     "difficulty": 2,
-    "difficultyTier": "explain",
+    "difficultyTier": "apply",
     "sequencePriority": 11,
-    "qualitySchema": "skillr-actual-v6"
+    "correct": 1,
+    "explanation": "Only the first prediction focuses on how much water the towels hold.\nHint: Look for the observation that supports your answer.",
+    "structuredExplanation": {
+      "summary": "Only the first prediction focuses on how much water the towels hold.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9s1i01-p-012",
+    "id": "ac9s1i01-r2-p-012",
     "curriculumCode": "AC9S1I01",
     "bank": "practice",
-    "skill": "questions, patterns and predictions",
+    "skill": "questions about patterns and experience-based predictions",
     "printable": true,
     "type": "single",
-    "question": "Why make a prediction before testing?",
-    "audioPrompt": "Why make a prediction before testing?",
+    "question": "An ice cube melted sooner in a warm place last time. Which reason supports a new prediction about melting?",
+    "audioPrompt": "An ice cube melted sooner in a warm place last time. Which reason supports a new prediction about melting?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -379,32 +358,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "So you can change the result later.",
-      "So it is always correct.",
-      "So you record your expectation before seeing the result.",
-      "So you can skip observations."
+      "The new tray is a different colour.",
+      "The child likes the warmer place.",
+      "The earlier ice melted sooner in warmth."
     ],
-    "correct": 2,
-    "explanation": "Predictions are expectations made before evidence is collected.\nHint: Prediction first, result later.",
-    "structuredExplanation": {
-      "summary": "Predictions are expectations made before evidence is collected.",
-      "hint": "Prediction first, result later."
-    },
-    "stage": "explain",
     "difficulty": 2,
-    "difficultyTier": "explain",
+    "difficultyTier": "apply",
     "sequencePriority": 12,
-    "qualitySchema": "skillr-actual-v6"
+    "correct": 2,
+    "explanation": "The past melting observation supports the prediction; preference does not.\nHint: Look for the observation that supports your answer.",
+    "structuredExplanation": {
+      "summary": "The past melting observation supports the prediction; preference does not.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9s1i01-p-013",
+    "id": "ac9s1i01-r2-p-013",
     "curriculumCode": "AC9S1I01",
     "bank": "practice",
-    "skill": "questions, patterns and predictions",
+    "skill": "questions about patterns and experience-based predictions",
     "printable": true,
     "type": "single",
-    "question": "Why is “The blue car will win because blue is lucky” a weak prediction reason?",
-    "audioPrompt": "Why is “The blue car will win because blue is lucky” a weak prediction reason?",
+    "question": "A class sees a flag moving on windy days but hanging still on calm days. Which question explores the pattern?",
+    "audioPrompt": "A class sees a flag moving on windy days but hanging still on calm days. Which question explores the pattern?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -412,32 +389,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Blue cars cannot move.",
-      "Luck is not relevant evidence about rolling.",
-      "Predictions need no reasons.",
-      "Blue is never allowed in science."
+      "Will the flag move more when the wind is stronger?",
+      "How many colours are on the flag?",
+      "How tall is the flagpole?"
     ],
-    "correct": 1,
-    "explanation": "A useful reason should connect to the outcome being predicted.\nHint: Does colour luck explain rolling distance?",
-    "structuredExplanation": {
-      "summary": "A useful reason should connect to the outcome being predicted.",
-      "hint": "Does colour luck explain rolling distance?"
-    },
-    "stage": "explain",
     "difficulty": 2,
-    "difficultyTier": "explain",
+    "difficultyTier": "apply",
     "sequencePriority": 13,
-    "qualitySchema": "skillr-actual-v6"
+    "correct": 0,
+    "explanation": "The question investigates the observed relationship between wind and movement.\nHint: Look for the observation that supports your answer.",
+    "structuredExplanation": {
+      "summary": "The question investigates the observed relationship between wind and movement.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9s1i01-p-014",
+    "id": "ac9s1i01-r2-p-014",
     "curriculumCode": "AC9S1I01",
     "bank": "practice",
-    "skill": "questions, patterns and predictions",
+    "skill": "questions about patterns and experience-based predictions",
     "printable": true,
     "type": "single",
-    "question": "Why is “Which fabric keeps the toy driest?” clearer than “Which fabric is best?”",
-    "audioPrompt": "Why is “Which fabric keeps the toy driest?” clearer than “Which fabric is best?”",
+    "question": "A child says, 'This cover will be better.' Which prediction is clearer for a rain test?",
+    "audioPrompt": "A child says, 'This cover will be better.' Which prediction is clearer for a rain test?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -445,32 +420,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "It has more letters.",
-      "Fabric cannot be tested.",
-      "“Best” always means dry.",
-      "“Driest” names the result to observe."
+      "This cover may look very nice.",
+      "This cover may keep the paper underneath drier.",
+      "This cover may be the best one."
     ],
-    "correct": 3,
-    "explanation": "Clear investigation questions specify what success means.\nHint: Best at what?",
-    "structuredExplanation": {
-      "summary": "Clear investigation questions specify what success means.",
-      "hint": "Best at what?"
-    },
-    "stage": "explain",
     "difficulty": 2,
-    "difficultyTier": "explain",
+    "difficultyTier": "apply",
     "sequencePriority": 14,
-    "qualitySchema": "skillr-actual-v6"
+    "correct": 1,
+    "explanation": "The clearer prediction names an outcome that can be observed: how dry the paper stays.\nHint: Look for the observation that supports your answer.",
+    "structuredExplanation": {
+      "summary": "The clearer prediction names an outcome that can be observed: how dry the paper stays.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9s1i01-p-015",
+    "id": "ac9s1i01-r2-p-015",
     "curriculumCode": "AC9S1I01",
     "bank": "practice",
-    "skill": "questions, patterns and predictions",
+    "skill": "questions about patterns and experience-based predictions",
     "printable": true,
     "type": "single",
-    "question": "What evidence would check “The plant by the window will grow taller”?",
-    "audioPrompt": "What evidence would check “The plant by the window will grow taller”?",
+    "question": "Birds visited a feeder after seed was added on several mornings. What might happen after seed is added tomorrow?",
+    "audioPrompt": "Birds visited a feeder after seed was added on several mornings. What might happen after seed is added tomorrow?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -478,32 +451,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The child’s favourite plant",
-      "The number of windows",
-      "The plant’s height over time",
-      "The pot colour"
+      "Exactly the same birds must visit.",
+      "Birds will stay there all day for certain.",
+      "Birds may visit the feeder again."
     ],
-    "correct": 2,
-    "explanation": "Height measurements directly test a prediction about growing taller.\nHint: Measure the thing named in the prediction.",
-    "structuredExplanation": {
-      "summary": "Height measurements directly test a prediction about growing taller.",
-      "hint": "Measure the thing named in the prediction."
-    },
-    "stage": "explain",
     "difficulty": 2,
-    "difficultyTier": "explain",
+    "difficultyTier": "apply",
     "sequencePriority": 15,
-    "qualitySchema": "skillr-actual-v6"
+    "correct": 2,
+    "explanation": "The observations support possible visits, not their exact identity or duration.\nHint: Look for the observation that supports your answer.",
+    "structuredExplanation": {
+      "summary": "The observations support possible visits, not their exact identity or duration.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9s1i01-p-016",
+    "id": "ac9s1i01-r2-p-016",
     "curriculumCode": "AC9S1I01",
     "bank": "practice",
-    "skill": "questions, patterns and predictions",
+    "skill": "questions about patterns and experience-based predictions",
     "printable": true,
     "type": "single",
-    "question": "Why can a wrong prediction still help us learn?",
-    "audioPrompt": "Why can a wrong prediction still help us learn?",
+    "question": "Two leaves will be placed in sun and shade. Which statement belongs BEFORE the test?",
+    "audioPrompt": "Two leaves will be placed in sun and shade. Which statement belongs BEFORE the test?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -511,65 +482,62 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Science only uses correct guesses.",
-      "We can compare it with the result and update our idea.",
-      "Wrong predictions must be erased.",
-      "It means the test failed."
+      "The sunny leaf may dry faster.",
+      "The sunny leaf dried first today.",
+      "Both leaves stayed wet in today's test."
     ],
-    "correct": 1,
-    "explanation": "Science checks expectations against evidence.\nHint: What can the result teach you?",
-    "structuredExplanation": {
-      "summary": "Science checks expectations against evidence.",
-      "hint": "What can the result teach you?"
-    },
-    "stage": "explain",
     "difficulty": 2,
-    "difficultyTier": "explain",
+    "difficultyTier": "apply",
     "sequencePriority": 16,
-    "qualitySchema": "skillr-actual-v6"
+    "correct": 0,
+    "explanation": "Only the first statement is an expectation; the others report completed results.\nHint: Look for the observation that supports your answer.",
+    "structuredExplanation": {
+      "summary": "Only the first statement is an expectation; the others report completed results.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9s1i01-p-017",
+    "id": "ac9s1i01-r2-p-017",
     "curriculumCode": "AC9S1I01",
     "bank": "practice",
-    "skill": "questions, patterns and predictions",
+    "skill": "questions about patterns and experience-based predictions",
     "printable": true,
     "type": "single",
-    "question": "Why count ants in both places when asking “Which place has more ants?”",
-    "audioPrompt": "Why count ants in both places when asking “Which place has more ants?”",
-    "visual": "",
-    "visualHtml": "",
+    "question": "Read the seedling record. Which question explores the observed difference?",
+    "audioPrompt": "Read the seedling record. Which question explores the observed difference?",
+    "visual": "First week: More growth in Place A than B. Second week: More growth in Place A than B.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"First week: More growth in Place A than B. Second week: More growth in Place A than B.\"><use href=\"/assets/assessment-visuals/year1/science/ixl-review-2/ac9s1i01-17.svg#model\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "alt_text": "First week: More growth in Place A than B. Second week: More growth in Place A than B.",
+      "asset_path": "/assets/assessment-visuals/year1/science/ixl-review-2/ac9s1i01-17.svg#model"
     },
     "answers": [
-      "A comparison needs evidence from both places.",
-      "Ants only appear in pairs.",
-      "One count proves both places.",
-      "The larger place wins automatically."
+      "How many children like seedlings?",
+      "Will seedlings grow more in Place A again?",
+      "Which pot colour do we prefer?"
     ],
-    "correct": 0,
-    "explanation": "Both sides of a comparison need observations.\nHint: What information is needed from each place?",
-    "structuredExplanation": {
-      "summary": "Both sides of a comparison need observations.",
-      "hint": "What information is needed from each place?"
-    },
-    "stage": "explain",
-    "difficulty": 2,
-    "difficultyTier": "explain",
+    "difficulty": 3,
+    "difficultyTier": "reason",
     "sequencePriority": 17,
-    "qualitySchema": "skillr-actual-v6"
+    "correct": 1,
+    "explanation": "The question follows the growth difference shown in the record.\nHint: Look for the observation that supports your answer.",
+    "structuredExplanation": {
+      "summary": "The question follows the growth difference shown in the record.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9s1i01-p-018",
+    "id": "ac9s1i01-r2-p-018",
     "curriculumCode": "AC9S1I01",
     "bank": "practice",
-    "skill": "questions, patterns and predictions",
+    "skill": "questions about patterns and experience-based predictions",
     "printable": true,
     "type": "single",
-    "question": "Why is “The sponge will be better” a weak prediction?",
-    "audioPrompt": "Why is “The sponge will be better” a weak prediction?",
+    "question": "A child predicts that cloth will absorb more water because it is softer. Which past experience gives more direct support?",
+    "audioPrompt": "A child predicts that cloth will absorb more water because it is softer. Which past experience gives more direct support?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -577,32 +545,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Sponges cannot be compared.",
-      "Predictions must use numbers.",
-      "The word sponge is too long.",
-      "It does not say what “better” means."
+      "The cloth felt soft yesterday.",
+      "The cloth was folded neatly yesterday.",
+      "The same cloth soaked up a larger spill before."
     ],
-    "correct": 3,
-    "explanation": "A prediction should state an observable result such as absorbing more drops.\nHint: Better at what?",
-    "structuredExplanation": {
-      "summary": "A prediction should state an observable result such as absorbing more drops.",
-      "hint": "Better at what?"
-    },
-    "stage": "explain",
-    "difficulty": 2,
-    "difficultyTier": "explain",
+    "difficulty": 3,
+    "difficultyTier": "reason",
     "sequencePriority": 18,
-    "qualitySchema": "skillr-actual-v6"
+    "correct": 2,
+    "explanation": "Experience with absorbing water is more directly relevant than softness or folding alone.\nHint: Look for the observation that supports your answer.",
+    "structuredExplanation": {
+      "summary": "Experience with absorbing water is more directly relevant than softness or folding alone.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9s1i01-p-019",
+    "id": "ac9s1i01-r2-p-019",
     "curriculumCode": "AC9S1I01",
     "bank": "practice",
-    "skill": "questions, patterns and predictions",
+    "skill": "questions about patterns and experience-based predictions",
     "printable": true,
     "type": "single",
-    "question": "Why does “The sunny cube will melt first” match “Which ice cube melts first?”?",
-    "audioPrompt": "Why does “The sunny cube will melt first” match “Which ice cube melts first?”?",
+    "question": "A ball bounced high on a hard floor and low on a mat. Which prediction uses both observations?",
+    "audioPrompt": "A ball bounced high on a hard floor and low on a mat. Which prediction uses both observations?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -610,32 +576,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "One is about plants.",
-      "They ask different outcomes.",
-      "Both focus on melting time.",
-      "Both mention colour."
+      "It may bounce higher on the floor than on the mat.",
+      "It may bounce higher on the mat than on the floor.",
+      "It may bounce equally high on the two surfaces."
     ],
-    "correct": 2,
-    "explanation": "Question and prediction should focus on the same outcome.\nHint: Same comparison, same result.",
-    "structuredExplanation": {
-      "summary": "Question and prediction should focus on the same outcome.",
-      "hint": "Same comparison, same result."
-    },
-    "stage": "explain",
-    "difficulty": 2,
-    "difficultyTier": "explain",
+    "difficulty": 3,
+    "difficultyTier": "reason",
     "sequencePriority": 19,
-    "qualitySchema": "skillr-actual-v6"
+    "correct": 0,
+    "explanation": "The prediction preserves the observed comparison without claiming the mat prevents all bouncing.\nHint: Look for the observation that supports your answer.",
+    "structuredExplanation": {
+      "summary": "The prediction preserves the observed comparison without claiming the mat prevents all bouncing.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9s1i01-p-020",
+    "id": "ac9s1i01-r2-p-020",
     "curriculumCode": "AC9S1I01",
     "bank": "practice",
-    "skill": "questions, patterns and predictions",
+    "skill": "questions about patterns and experience-based predictions",
     "printable": true,
     "type": "single",
-    "question": "Why should a prediction use “may” or “might” when evidence is limited?",
-    "audioPrompt": "Why should a prediction use “may” or “might” when evidence is limited?",
+    "question": "A class sees more worms in damp soil than dry soil. Which question explores the pattern?",
+    "audioPrompt": "A class sees more worms in damp soil than dry soil. Which question explores the pattern?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -643,65 +607,62 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Because may means already happened.",
-      "Because a prediction is not a guarantee.",
-      "Because “will” is never English.",
-      "Because evidence is useless."
+      "Which patch has the darkest bucket beside it?",
+      "Will we find more worms in another damp patch than a dry patch?",
+      "Which patch is closest to the gate?"
     ],
-    "correct": 1,
-    "explanation": "Cautious language shows that the expected outcome still needs checking.\nHint: Prediction is not promise.",
-    "structuredExplanation": {
-      "summary": "Cautious language shows that the expected outcome still needs checking.",
-      "hint": "Prediction is not promise."
-    },
-    "stage": "explain",
-    "difficulty": 2,
-    "difficultyTier": "explain",
+    "difficulty": 3,
+    "difficultyTier": "reason",
     "sequencePriority": 20,
-    "qualitySchema": "skillr-actual-v6"
+    "correct": 1,
+    "explanation": "The question tests whether the damp-soil pattern occurs in other patches.\nHint: Look for the observation that supports your answer.",
+    "structuredExplanation": {
+      "summary": "The question tests whether the damp-soil pattern occurs in other patches.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9s1i01-p-021",
+    "id": "ac9s1i01-r2-p-021",
     "curriculumCode": "AC9S1I01",
     "bank": "practice",
-    "skill": "questions, patterns and predictions",
+    "skill": "questions about patterns and experience-based predictions",
     "printable": true,
     "type": "single",
-    "question": "Which pair correctly shows prediction then observation?",
-    "audioPrompt": "Which pair correctly shows prediction then observation?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "Read the wind record. Which prediction is best supported?",
+    "audioPrompt": "Read the wind record. Which prediction is best supported?",
+    "visual": "Gentle breeze: Spinner turned slowly. Stronger breeze: Spinner turned faster.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Gentle breeze: Spinner turned slowly. Stronger breeze: Spinner turned faster.\"><use href=\"/assets/assessment-visuals/year1/science/ixl-review-2/ac9s1i01-21.svg#model\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "alt_text": "Gentle breeze: Spinner turned slowly. Stronger breeze: Spinner turned faster.",
+      "asset_path": "/assets/assessment-visuals/year1/science/ixl-review-2/ac9s1i01-21.svg#model"
     },
     "answers": [
-      "“It may roll farther.” → “It rolled 80 cm.”",
-      "“It rolled 80 cm.” → “It may roll farther.”",
-      "“It is red.” → “I like it.”",
-      "“It is round.” → “Round is nice.”"
+      "The spinner may turn faster in a gentle breeze.",
+      "The spinner may turn equally fast in both breezes.",
+      "The paper spinner may turn faster in a stronger breeze."
     ],
-    "correct": 0,
-    "explanation": "Expectation comes before testing; observation reports what happened.\nHint: Before, then after.",
-    "structuredExplanation": {
-      "summary": "Expectation comes before testing; observation reports what happened.",
-      "hint": "Before, then after."
-    },
-    "stage": "discriminate",
-    "difficulty": 2,
-    "difficultyTier": "discriminate",
+    "difficulty": 3,
+    "difficultyTier": "reason",
     "sequencePriority": 21,
-    "qualitySchema": "skillr-actual-v6"
+    "correct": 2,
+    "explanation": "The prediction follows the observed difference between the two conditions.\nHint: Look for the observation that supports your answer.",
+    "structuredExplanation": {
+      "summary": "The prediction follows the observed difference between the two conditions.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9s1i01-p-022",
+    "id": "ac9s1i01-r2-p-022",
     "curriculumCode": "AC9S1I01",
     "bank": "practice",
-    "skill": "questions, patterns and predictions",
+    "skill": "questions about patterns and experience-based predictions",
     "printable": true,
     "type": "single",
-    "question": "Which question is most investigable with two ramps?",
-    "audioPrompt": "Which question is most investigable with two ramps?",
+    "question": "A child predicts that a folded paper bridge will hold more counters than a flat one. Which reason is most relevant?",
+    "audioPrompt": "A child predicts that a folded paper bridge will hold more counters than a flat one. Which reason is most relevant?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -709,32 +670,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Why are ramps useful?",
-      "Which ramp looks coolest?",
-      "Are ramps better than stairs?",
-      "Which ramp lets the same car travel farther?"
+      "A folded bridge held more counters in an earlier test.",
+      "The folded bridge took longer to make.",
+      "The child prefers folded paper."
     ],
-    "correct": 3,
-    "explanation": "Distance travelled can be compared using the same car.\nHint: Could you measure the answer?",
-    "structuredExplanation": {
-      "summary": "Distance travelled can be compared using the same car.",
-      "hint": "Could you measure the answer?"
-    },
-    "stage": "discriminate",
-    "difficulty": 2,
-    "difficultyTier": "discriminate",
+    "difficulty": 3,
+    "difficultyTier": "reason",
     "sequencePriority": 22,
-    "qualitySchema": "skillr-actual-v6"
+    "correct": 0,
+    "explanation": "An earlier strength test is relevant evidence about holding counters.\nHint: Look for the observation that supports your answer.",
+    "structuredExplanation": {
+      "summary": "An earlier strength test is relevant evidence about holding counters.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9s1i01-p-023",
+    "id": "ac9s1i01-r2-p-023",
     "curriculumCode": "AC9S1I01",
     "bank": "practice",
-    "skill": "questions, patterns and predictions",
+    "skill": "questions about patterns and experience-based predictions",
     "printable": true,
     "type": "single",
-    "question": "Which prediction is too vague to check?",
-    "audioPrompt": "Which prediction is too vague to check?",
+    "question": "A child wants to explore whether leaves collect more water on a broad surface. Which question fits?",
+    "audioPrompt": "A child wants to explore whether leaves collect more water on a broad surface. Which question fits?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -742,32 +701,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The smooth ramp may let the car travel farther.",
-      "The sunny cube may melt first.",
-      "The sponge will be better.",
-      "The seed with water may sprout first."
+      "Which leaf is closest to the tap?",
+      "Will a broad leaf catch more drops than a narrow leaf?",
+      "Which leaf has the longest stem?"
     ],
-    "correct": 2,
-    "explanation": "“Better” does not name an observable result.\nHint: Better how?",
-    "structuredExplanation": {
-      "summary": "“Better” does not name an observable result.",
-      "hint": "Better how?"
-    },
-    "stage": "discriminate",
-    "difficulty": 2,
-    "difficultyTier": "discriminate",
+    "difficulty": 3,
+    "difficultyTier": "reason",
     "sequencePriority": 23,
-    "qualitySchema": "skillr-actual-v6"
+    "correct": 1,
+    "explanation": "The first question directly explores the proposed relationship.\nHint: Look for the observation that supports your answer.",
+    "structuredExplanation": {
+      "summary": "The first question directly explores the proposed relationship.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9s1i01-p-024",
+    "id": "ac9s1i01-r2-p-024",
     "curriculumCode": "AC9S1I01",
     "bank": "practice",
-    "skill": "questions, patterns and predictions",
+    "skill": "questions about patterns and experience-based predictions",
     "printable": true,
     "type": "single",
-    "question": "Question: “Which ball bounces higher?” Which evidence matters most?",
-    "audioPrompt": "Question: “Which ball bounces higher?” Which evidence matters most?",
+    "question": "A child asks which toy boat will carry more counters before sinking. Which prediction stays focused?",
+    "audioPrompt": "A child asks which toy boat will carry more counters before sinking. Which prediction stays focused?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -775,549 +732,20 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Child’s name",
-      "Bounce height",
-      "Ball colour",
-      "Basket size"
+      "Boat B may look brighter than Boat A.",
+      "Boat B may have a longer name than Boat A.",
+      "Boat B may carry more counters than Boat A."
     ],
-    "correct": 1,
-    "explanation": "Bounce height directly answers the question.\nHint: Measure the outcome in the question.",
-    "structuredExplanation": {
-      "summary": "Bounce height directly answers the question.",
-      "hint": "Measure the outcome in the question."
-    },
-    "stage": "discriminate",
-    "difficulty": 2,
-    "difficultyTier": "discriminate",
+    "difficulty": 3,
+    "difficultyTier": "reason",
     "sequencePriority": 24,
-    "qualitySchema": "skillr-actual-v6"
-  },
-  {
-    "id": "ac9s1i01-p-025",
-    "curriculumCode": "AC9S1I01",
-    "bank": "practice",
-    "skill": "questions, patterns and predictions",
-    "printable": true,
-    "type": "single",
-    "question": "Which reason best supports “The shaded ice may melt more slowly”?",
-    "audioPrompt": "Which reason best supports “The shaded ice may melt more slowly”?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Ice kept in cooler places stayed frozen longer before.",
-      "Shade is my favourite place.",
-      "The tree is green.",
-      "Ice is square."
-    ],
-    "correct": 0,
-    "explanation": "Relevant experience links cooler conditions to slower melting.\nHint: Which reason is about melting?",
-    "structuredExplanation": {
-      "summary": "Relevant experience links cooler conditions to slower melting.",
-      "hint": "Which reason is about melting?"
-    },
-    "stage": "discriminate",
-    "difficulty": 2,
-    "difficultyTier": "discriminate",
-    "sequencePriority": 25,
-    "qualitySchema": "skillr-actual-v6"
-  },
-  {
-    "id": "ac9s1i01-p-026",
-    "curriculumCode": "AC9S1I01",
-    "bank": "practice",
-    "skill": "questions, patterns and predictions",
-    "printable": true,
-    "type": "single",
-    "question": "Which prediction does NOT match “Which material keeps water out?”?",
-    "audioPrompt": "Which prediction does NOT match “Which material keeps water out?”?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Plastic may keep more water out than paper.",
-      "Foil might keep the toy drier.",
-      "Waxed paper may stop more water.",
-      "The striped fabric will look nicest."
-    ],
-    "correct": 3,
-    "explanation": "Looking nicest changes the topic from water resistance to appearance.\nHint: Which answer is about something else?",
-    "structuredExplanation": {
-      "summary": "Looking nicest changes the topic from water resistance to appearance.",
-      "hint": "Which answer is about something else?"
-    },
-    "stage": "discriminate",
-    "difficulty": 2,
-    "difficultyTier": "discriminate",
-    "sequencePriority": 26,
-    "qualitySchema": "skillr-actual-v6"
-  },
-  {
-    "id": "ac9s1i01-p-027",
-    "curriculumCode": "AC9S1I01",
-    "bank": "practice",
-    "skill": "questions, patterns and predictions",
-    "printable": true,
-    "type": "single",
-    "question": "Which statement fixes “A prediction is what happened”?",
-    "audioPrompt": "Which statement fixes “A prediction is what happened”?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Prediction comes after.",
-      "Observation is a guess.",
-      "A prediction is expected before; an observation is noticed during or after.",
-      "Prediction and observation are the same."
-    ],
     "correct": 2,
-    "explanation": "Timing separates prediction from observation.\nHint: Expected versus observed.",
+    "explanation": "The prediction names the outcome in the question: counters carried before sinking.\nHint: Look for the observation that supports your answer.",
     "structuredExplanation": {
-      "summary": "Timing separates prediction from observation.",
-      "hint": "Expected versus observed."
+      "summary": "The prediction names the outcome in the question: counters carried before sinking.",
+      "hint": "Look for the observation that supports your answer."
     },
-    "stage": "discriminate",
-    "difficulty": 2,
-    "difficultyTier": "discriminate",
-    "sequencePriority": 27,
-    "qualitySchema": "skillr-actual-v6"
-  },
-  {
-    "id": "ac9s1i01-p-028",
-    "curriculumCode": "AC9S1I01",
-    "bank": "practice",
-    "skill": "questions, patterns and predictions",
-    "printable": true,
-    "type": "single",
-    "question": "Which paper-plane question is fairest?",
-    "audioPrompt": "Which paper-plane question is fairest?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Why do planes fly?",
-      "Which plane travels farther when both start from the same line?",
-      "Whose plane is coolest?",
-      "Which child is better?"
-    ],
-    "correct": 1,
-    "explanation": "Using the same start makes the distance comparison clearer.\nHint: Same start, compare distance.",
-    "structuredExplanation": {
-      "summary": "Using the same start makes the distance comparison clearer.",
-      "hint": "Same start, compare distance."
-    },
-    "stage": "discriminate",
-    "difficulty": 2,
-    "difficultyTier": "discriminate",
-    "sequencePriority": 28,
-    "qualitySchema": "skillr-actual-v6"
-  },
-  {
-    "id": "ac9s1i01-p-029",
-    "curriculumCode": "AC9S1I01",
-    "bank": "practice",
-    "skill": "questions, patterns and predictions",
-    "printable": true,
-    "type": "single",
-    "question": "Which evidence would NOT help “Which soil has more worms?”?",
-    "audioPrompt": "Which evidence would NOT help “Which soil has more worms?”?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Bucket colour",
-      "Worm count in soil A",
-      "Worm count in soil B",
-      "Comparison of the counts"
-    ],
-    "correct": 0,
-    "explanation": "Bucket colour is unrelated to worm number.\nHint: Stay focused on worms.",
-    "structuredExplanation": {
-      "summary": "Bucket colour is unrelated to worm number.",
-      "hint": "Stay focused on worms."
-    },
-    "stage": "discriminate",
-    "difficulty": 2,
-    "difficultyTier": "discriminate",
-    "sequencePriority": 29,
-    "qualitySchema": "skillr-actual-v6"
-  },
-  {
-    "id": "ac9s1i01-p-030",
-    "curriculumCode": "AC9S1I01",
-    "bank": "practice",
-    "skill": "questions, patterns and predictions",
-    "printable": true,
-    "type": "single",
-    "question": "A result does not match the prediction. What should happen?",
-    "audioPrompt": "A result does not match the prediction. What should happen?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Change the result.",
-      "Hide the result.",
-      "Repeat only until the prediction wins.",
-      "Record the real result and compare it honestly."
-    ],
-    "correct": 3,
-    "explanation": "Scientific records keep evidence even when it surprises us.\nHint: Evidence comes first.",
-    "structuredExplanation": {
-      "summary": "Scientific records keep evidence even when it surprises us.",
-      "hint": "Evidence comes first."
-    },
-    "stage": "discriminate",
-    "difficulty": 2,
-    "difficultyTier": "discriminate",
-    "sequencePriority": 30,
-    "qualitySchema": "skillr-actual-v6"
-  },
-  {
-    "id": "ac9s1i01-p-031",
-    "curriculumCode": "AC9S1I01",
-    "bank": "practice",
-    "skill": "questions, patterns and predictions",
-    "printable": true,
-    "type": "single",
-    "question": "Which question best tests whether seeds sprout sooner in light or dark?",
-    "audioPrompt": "Which question best tests whether seeds sprout sooner in light or dark?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Why is darkness dark?",
-      "Do plants like classrooms?",
-      "Which seeds sprout first: those in light or those in dark?",
-      "Are seeds interesting?"
-    ],
-    "correct": 2,
-    "explanation": "The question names two conditions and an observable outcome.\nHint: What changes, and what will you watch?",
-    "structuredExplanation": {
-      "summary": "The question names two conditions and an observable outcome.",
-      "hint": "What changes, and what will you watch?"
-    },
-    "stage": "apply",
-    "difficulty": 3,
-    "difficultyTier": "apply",
-    "sequencePriority": 31,
-    "qualitySchema": "skillr-actual-v6"
-  },
-  {
-    "id": "ac9s1i01-p-032",
-    "curriculumCode": "AC9S1I01",
-    "bank": "practice",
-    "skill": "questions, patterns and predictions",
-    "printable": true,
-    "type": "single",
-    "question": "Which prediction for that seed test is strongest?",
-    "audioPrompt": "Which prediction for that seed test is strongest?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "The pots are brown.",
-      "Seeds in light may sprout first because seeds near my window sprouted well before.",
-      "Light is prettier.",
-      "Something will happen."
-    ],
-    "correct": 1,
-    "explanation": "It states an expected result and gives relevant experience.\nHint: Result + useful reason.",
-    "structuredExplanation": {
-      "summary": "It states an expected result and gives relevant experience.",
-      "hint": "Result + useful reason."
-    },
-    "stage": "apply",
-    "difficulty": 3,
-    "difficultyTier": "apply",
-    "sequencePriority": 32,
-    "qualitySchema": "skillr-actual-v6"
-  },
-  {
-    "id": "ac9s1i01-p-033",
-    "curriculumCode": "AC9S1I01",
-    "bank": "practice",
-    "skill": "questions, patterns and predictions",
-    "printable": true,
-    "type": "single",
-    "question": "To test smooth versus rough surfaces for sliding, what should be recorded?",
-    "audioPrompt": "To test smooth versus rough surfaces for sliding, what should be recorded?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "How far the block travels on each surface",
-      "Surface colour",
-      "Number of children watching",
-      "Favourite surface"
-    ],
-    "correct": 0,
-    "explanation": "Distance travelled answers the question.\nHint: Record the compared outcome.",
-    "structuredExplanation": {
-      "summary": "Distance travelled answers the question.",
-      "hint": "Record the compared outcome."
-    },
-    "stage": "apply",
-    "difficulty": 3,
-    "difficultyTier": "apply",
-    "sequencePriority": 33,
-    "qualitySchema": "skillr-actual-v6"
-  },
-  {
-    "id": "ac9s1i01-p-034",
-    "curriculumCode": "AC9S1I01",
-    "bank": "practice",
-    "skill": "questions, patterns and predictions",
-    "printable": true,
-    "type": "single",
-    "question": "Ava says, “The metal spoon will feel colder because metal spoons at home often feel cold.” What is the prediction?",
-    "audioPrompt": "Ava says, “The metal spoon will feel colder because metal spoons at home often feel cold.” What is the prediction?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Metal spoons at home",
-      "because",
-      "often",
-      "The metal spoon will feel colder."
-    ],
-    "correct": 3,
-    "explanation": "The first part states the expected outcome.\nHint: What does Ava think will happen?",
-    "structuredExplanation": {
-      "summary": "The first part states the expected outcome.",
-      "hint": "What does Ava think will happen?"
-    },
-    "stage": "apply",
-    "difficulty": 3,
-    "difficultyTier": "apply",
-    "sequencePriority": 34,
-    "qualitySchema": "skillr-actual-v6"
-  },
-  {
-    "id": "ac9s1i01-p-035",
-    "curriculumCode": "AC9S1I01",
-    "bank": "practice",
-    "skill": "questions, patterns and predictions",
-    "printable": true,
-    "type": "single",
-    "question": "How should a class test which feeder gets more bird visits?",
-    "audioPrompt": "How should a class test which feeder gets more bird visits?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Vote on the nicest feeder.",
-      "Count seeds only.",
-      "Watch both feeders for the same time and count visits.",
-      "Watch only the favourite feeder."
-    ],
-    "correct": 2,
-    "explanation": "Equal observation time gives comparable evidence.\nHint: Both feeders need the same chance.",
-    "structuredExplanation": {
-      "summary": "Equal observation time gives comparable evidence.",
-      "hint": "Both feeders need the same chance."
-    },
-    "stage": "apply",
-    "difficulty": 3,
-    "difficultyTier": "apply",
-    "sequencePriority": 35,
-    "qualitySchema": "skillr-actual-v6"
-  },
-  {
-    "id": "ac9s1i01-p-036",
-    "curriculumCode": "AC9S1I01",
-    "bank": "practice",
-    "skill": "questions, patterns and predictions",
-    "printable": true,
-    "type": "single",
-    "question": "Prediction: “Sponge will absorb more.” Result: paper towel absorbed more. Best conclusion?",
-    "audioPrompt": "Prediction: “Sponge will absorb more.” Result: paper towel absorbed more. Best conclusion?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Predictions are useless.",
-      "The prediction was not supported in this test; paper towel absorbed more.",
-      "The sponge won because it was predicted.",
-      "Hide the result."
-    ],
-    "correct": 1,
-    "explanation": "The conclusion should compare the prediction with the observed evidence.\nHint: What actually happened?",
-    "structuredExplanation": {
-      "summary": "The conclusion should compare the prediction with the observed evidence.",
-      "hint": "What actually happened?"
-    },
-    "stage": "apply",
-    "difficulty": 3,
-    "difficultyTier": "apply",
-    "sequencePriority": 36,
-    "qualitySchema": "skillr-actual-v6"
-  },
-  {
-    "id": "ac9s1i01-p-037",
-    "curriculumCode": "AC9S1I01",
-    "bank": "practice",
-    "skill": "questions, patterns and predictions",
-    "printable": true,
-    "type": "single",
-    "question": "Which prediction can be checked in class?",
-    "audioPrompt": "Which prediction can be checked in class?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Ice on a warm windowsill may melt before ice in cool shade.",
-      "The happier ice will melt first.",
-      "Winter is better.",
-      "Ice is beautiful."
-    ],
-    "correct": 0,
-    "explanation": "Melting under two conditions can be observed.\nHint: Can you test it safely?",
-    "structuredExplanation": {
-      "summary": "Melting under two conditions can be observed.",
-      "hint": "Can you test it safely?"
-    },
-    "stage": "apply",
-    "difficulty": 3,
-    "difficultyTier": "apply",
-    "sequencePriority": 37,
-    "qualitySchema": "skillr-actual-v6"
-  },
-  {
-    "id": "ac9s1i01-p-038",
-    "curriculumCode": "AC9S1I01",
-    "bank": "practice",
-    "skill": "questions, patterns and predictions",
-    "printable": true,
-    "type": "single",
-    "question": "Which question and prediction match?",
-    "audioPrompt": "Which question and prediction match?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "“Which cover is prettiest?” + “Plastic keeps water out.”",
-      "“What is plastic?” + “Paper is white.”",
-      "“Is water wet?” + “The toy is blue.”",
-      "“Which cover keeps the toy driest?” + “Plastic may keep it drier than paper.”"
-    ],
-    "correct": 3,
-    "explanation": "Both parts focus on keeping the toy dry.\nHint: Same outcome in both.",
-    "structuredExplanation": {
-      "summary": "Both parts focus on keeping the toy dry.",
-      "hint": "Same outcome in both."
-    },
-    "stage": "apply",
-    "difficulty": 3,
-    "difficultyTier": "apply",
-    "sequencePriority": 38,
-    "qualitySchema": "skillr-actual-v6"
-  },
-  {
-    "id": "ac9s1i01-p-039",
-    "curriculumCode": "AC9S1I01",
-    "bank": "practice",
-    "skill": "questions, patterns and predictions",
-    "printable": true,
-    "type": "single",
-    "question": "More ants were near a tree than a path today. Which next prediction is sensible?",
-    "audioPrompt": "More ants were near a tree than a path today. Which next prediction is sensible?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Trees create ants.",
-      "Ants hate all paths.",
-      "We may count more ants near the tree again tomorrow.",
-      "There will always be exactly five ants."
-    ],
-    "correct": 2,
-    "explanation": "The prediction uses the observation cautiously.\nHint: Do not turn one result into always.",
-    "structuredExplanation": {
-      "summary": "The prediction uses the observation cautiously.",
-      "hint": "Do not turn one result into always."
-    },
-    "stage": "apply",
-    "difficulty": 3,
-    "difficultyTier": "apply",
-    "sequencePriority": 39,
-    "qualitySchema": "skillr-actual-v6"
-  },
-  {
-    "id": "ac9s1i01-p-040",
-    "curriculumCode": "AC9S1I01",
-    "bank": "practice",
-    "skill": "questions, patterns and predictions",
-    "printable": true,
-    "type": "single",
-    "question": "Which investigation has question, prediction and evidence all matched?",
-    "audioPrompt": "Which investigation has question, prediction and evidence all matched?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Which ice melts first? → ice is cold → vote for favourite.",
-      "Which ball rolls farther? → round ball may roll farther → measure each distance.",
-      "Which towel absorbs more? → blue is pretty → count windows.",
-      "Which seed sprouts first? → pots are brown → measure table."
-    ],
-    "correct": 1,
-    "explanation": "All parts of the first investigation focus on the same outcome.\nHint: Question, prediction, evidence must line up.",
-    "structuredExplanation": {
-      "summary": "All parts of the first investigation focus on the same outcome.",
-      "hint": "Question, prediction, evidence must line up."
-    },
-    "stage": "apply",
-    "difficulty": 3,
-    "difficultyTier": "apply",
-    "sequencePriority": 40,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "production-v1"
   }
 ];
+window.quizQuestions = window.skillrPracticeQuestions;

@@ -1,2730 +1,1687 @@
 [
   {
-    "id": "ac9s1i01-p-001",
-    "curriculumCode": "AC9S1I01",
+    "id": "ac9s1i01-r2-p-001",
+    "curriculum_code": "AC9S1I01",
+    "year_level": "Year 1",
+    "subject": "science",
     "bank": "practice",
-    "skill": "questions, patterns and predictions",
-    "printable": true,
-    "type": "single",
-    "question": "Which question could be explored by watching two puddles?",
-    "audioPrompt": "Which question could be explored by watching two puddles?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "skill": "questions about patterns and experience-based predictions",
+    "question": "One puddle is in sunlight and one is in shade. Which question explores drying?",
+    "audio_prompt": "One puddle is in sunlight and one is in shade. Which question explores drying?",
     "answers": [
       {
-        "text": "Which puddle dries first?",
+        "text": "Which puddle will dry first?",
         "is_correct": true
       },
       {
-        "text": "Why is water important?",
+        "text": "Which puddle is wider now?",
         "is_correct": false
       },
       {
-        "text": "Which puddle is happier?",
-        "is_correct": false
-      },
-      {
-        "text": "Are puddles beautiful?",
+        "text": "How many puddles are there?",
         "is_correct": false
       }
     ],
-    "correct": 0,
-    "explanation": "A useful science question can be checked by observing or measuring.\nHint: Choose what you could actually watch.",
-    "structuredExplanation": {
-      "summary": "A useful science question can be checked by observing or measuring.",
-      "hint": "Choose what you could actually watch."
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The first question explores a possible difference in drying, rather than just the current size or count.",
+      "hint": "Look for the observation that supports your answer."
     },
-    "stage": "recognise",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 1,
-    "qualitySchema": "skillr-actual-v6",
+    "difficulty_tier": "recognise",
+    "sequence_priority": 1,
+    "review": {
+      "version": "20260906-science-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/science/year-1/investigate-pushes-and-pulls",
+      "evidence_scope": "Representative observed questions; see docs/question-bank-reviews/2026-09-06-year1-science-h01-i01-i02.md. Not an IXL endorsement or measured equivalence."
+    }
+  },
+  {
+    "id": "ac9s1i01-r2-p-002",
     "curriculum_code": "AC9S1I01",
     "year_level": "Year 1",
     "subject": "science",
-    "correct_index": 0
-  },
-  {
-    "id": "ac9s1i01-p-002",
-    "curriculumCode": "AC9S1I01",
     "bank": "practice",
-    "skill": "questions, patterns and predictions",
-    "printable": true,
-    "type": "single",
-    "question": "Which sentence is a prediction?",
-    "audioPrompt": "Which sentence is a prediction?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "skill": "questions about patterns and experience-based predictions",
+    "question": "A sponge and cloth will be tested with water. Which is a prediction?",
+    "audio_prompt": "A sponge and cloth will be tested with water. Which is a prediction?",
     "answers": [
       {
-        "text": "I think the sunny leaf will dry first.",
+        "text": "The cloth is beside the bowl.",
+        "is_correct": false
+      },
+      {
+        "text": "The sponge may hold more water.",
         "is_correct": true
       },
       {
-        "text": "The leaf dried at 2 pm.",
-        "is_correct": false
-      },
-      {
-        "text": "The leaf is green.",
-        "is_correct": false
-      },
-      {
-        "text": "The leaf is wet.",
+        "text": "The sponge is dry now.",
         "is_correct": false
       }
     ],
-    "correct": 0,
-    "explanation": "A prediction says what you expect before the result is known.\nHint: Look for what may happen next.",
-    "structuredExplanation": {
-      "summary": "A prediction says what you expect before the result is known.",
-      "hint": "Look for what may happen next."
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A prediction describes an expected result before the test.",
+      "hint": "Look for the observation that supports your answer."
     },
-    "stage": "recognise",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 2,
-    "qualitySchema": "skillr-actual-v6",
+    "difficulty_tier": "recognise",
+    "sequence_priority": 2,
+    "review": {
+      "version": "20260906-science-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/science/year-1/investigate-pushes-and-pulls",
+      "evidence_scope": "Representative observed questions; see docs/question-bank-reviews/2026-09-06-year1-science-h01-i01-i02.md. Not an IXL endorsement or measured equivalence."
+    }
+  },
+  {
+    "id": "ac9s1i01-r2-p-003",
     "curriculum_code": "AC9S1I01",
     "year_level": "Year 1",
     "subject": "science",
-    "correct_index": 0
-  },
-  {
-    "id": "ac9s1i01-p-003",
-    "curriculumCode": "AC9S1I01",
     "bank": "practice",
-    "skill": "questions, patterns and predictions",
-    "printable": true,
-    "type": "single",
-    "question": "Which question is focused enough to test with two toy cars?",
-    "audioPrompt": "Which question is focused enough to test with two toy cars?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "skill": "questions about patterns and experience-based predictions",
+    "question": "A toy car rolled farther after a stronger push yesterday. What might happen with a stronger push today?",
+    "audio_prompt": "A toy car rolled farther after a stronger push yesterday. What might happen with a stronger push today?",
     "answers": [
       {
-        "text": "Why do wheels exist?",
+        "text": "It must roll exactly the same distance.",
         "is_correct": false
       },
       {
-        "text": "What happens to toys?",
+        "text": "It cannot move after a stronger push.",
         "is_correct": false
       },
       {
-        "text": "Are cars fun?",
-        "is_correct": false
-      },
-      {
-        "text": "Which car rolls farther down the same ramp?",
+        "text": "It may roll farther again.",
         "is_correct": true
       }
     ],
-    "correct": 3,
-    "explanation": "The question names what will be compared and what will be observed.\nHint: Could you answer it with the two cars and ramp?",
-    "structuredExplanation": {
-      "summary": "The question names what will be compared and what will be observed.",
-      "hint": "Could you answer it with the two cars and ramp?"
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Relevant past experience supports the prediction, without fixing an exact distance.",
+      "hint": "Look for the observation that supports your answer."
     },
-    "stage": "recognise",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 3,
-    "qualitySchema": "skillr-actual-v6",
+    "difficulty_tier": "recognise",
+    "sequence_priority": 3,
+    "review": {
+      "version": "20260906-science-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/science/year-1/investigate-pushes-and-pulls",
+      "evidence_scope": "Representative observed questions; see docs/question-bank-reviews/2026-09-06-year1-science-h01-i01-i02.md. Not an IXL endorsement or measured equivalence."
+    }
+  },
+  {
+    "id": "ac9s1i01-r2-p-004",
     "curriculum_code": "AC9S1I01",
     "year_level": "Year 1",
     "subject": "science",
-    "correct_index": 3
-  },
-  {
-    "id": "ac9s1i01-p-004",
-    "curriculumCode": "AC9S1I01",
     "bank": "practice",
-    "skill": "questions, patterns and predictions",
-    "printable": true,
-    "type": "single",
-    "question": "A child predicts that the larger paper boat will hold more counters. Which word shows it is about the future?",
-    "audioPrompt": "A child predicts that the larger paper boat will hold more counters. Which word shows it is about the future?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
+    "skill": "questions about patterns and experience-based predictions",
+    "question": "A plant near a window leaned towards it. Which question follows from that observation?",
+    "audio_prompt": "A plant near a window leaned towards it. Which question follows from that observation?",
+    "answers": [
+      {
+        "text": "Will another plant there lean towards the window?",
+        "is_correct": true
+      },
+      {
+        "text": "How many windows are in the room?",
+        "is_correct": false
+      },
+      {
+        "text": "What colour is the window frame?",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The first question explores whether the observed growth direction happens again.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "visual": {
       "type": "none",
       "alt_text": ""
     },
-    "answers": [
-      {
-        "text": "counters",
-        "is_correct": false
-      },
-      {
-        "text": "larger",
-        "is_correct": false
-      },
-      {
-        "text": "paper",
-        "is_correct": false
-      },
-      {
-        "text": "will",
-        "is_correct": true
-      }
-    ],
-    "correct": 3,
-    "explanation": "“Will” signals an expected result that has not happened yet.\nHint: Find the future word.",
-    "structuredExplanation": {
-      "summary": "“Will” signals an expected result that has not happened yet.",
-      "hint": "Find the future word."
-    },
-    "stage": "recognise",
     "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 4,
-    "qualitySchema": "skillr-actual-v6",
+    "difficulty_tier": "recognise",
+    "sequence_priority": 4,
+    "review": {
+      "version": "20260906-science-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/science/year-1/investigate-pushes-and-pulls",
+      "evidence_scope": "Representative observed questions; see docs/question-bank-reviews/2026-09-06-year1-science-h01-i01-i02.md. Not an IXL endorsement or measured equivalence."
+    }
+  },
+  {
+    "id": "ac9s1i01-r2-p-005",
     "curriculum_code": "AC9S1I01",
     "year_level": "Year 1",
     "subject": "science",
-    "correct_index": 3
-  },
-  {
-    "id": "ac9s1i01-p-005",
-    "curriculumCode": "AC9S1I01",
     "bank": "practice",
-    "skill": "questions, patterns and predictions",
-    "printable": true,
-    "type": "single",
-    "question": "Which reason best supports “The ice in sun may melt first”?",
-    "audioPrompt": "Which reason best supports “The ice in sun may melt first”?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "skill": "questions about patterns and experience-based predictions",
+    "question": "A child used a sponge to soak up a spill yesterday. Which reason supports predicting it will soak up water today?",
+    "audio_prompt": "A child used a sponge to soak up a spill yesterday. Which reason supports predicting it will soak up water today?",
     "answers": [
       {
-        "text": "Ice near a sunny window melted quickly yesterday.",
+        "text": "It has a square shape.",
+        "is_correct": false
+      },
+      {
+        "text": "It soaked up water before.",
         "is_correct": true
       },
       {
-        "text": "Yellow is my favourite colour.",
-        "is_correct": false
-      },
-      {
-        "text": "The tray is square.",
-        "is_correct": false
-      },
-      {
-        "text": "My friend chose sun.",
+        "text": "It is beside a dry bowl.",
         "is_correct": false
       }
     ],
-    "correct": 0,
-    "explanation": "The reason uses relevant past experience about melting.\nHint: Which reason is about ice and warmth?",
-    "structuredExplanation": {
-      "summary": "The reason uses relevant past experience about melting.",
-      "hint": "Which reason is about ice and warmth?"
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The earlier water-soaking experience is directly relevant to the prediction.",
+      "hint": "Look for the observation that supports your answer."
     },
-    "stage": "recognise",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 5,
-    "qualitySchema": "skillr-actual-v6",
+    "difficulty_tier": "recognise",
+    "sequence_priority": 5,
+    "review": {
+      "version": "20260906-science-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/science/year-1/investigate-pushes-and-pulls",
+      "evidence_scope": "Representative observed questions; see docs/question-bank-reviews/2026-09-06-year1-science-h01-i01-i02.md. Not an IXL endorsement or measured equivalence."
+    }
+  },
+  {
+    "id": "ac9s1i01-r2-p-006",
     "curriculum_code": "AC9S1I01",
     "year_level": "Year 1",
     "subject": "science",
-    "correct_index": 0
-  },
-  {
-    "id": "ac9s1i01-p-006",
-    "curriculumCode": "AC9S1I01",
     "bank": "practice",
-    "skill": "questions, patterns and predictions",
-    "printable": true,
-    "type": "single",
-    "question": "Which question could be answered by counting?",
-    "audioPrompt": "Which question could be answered by counting?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "skill": "questions about patterns and experience-based predictions",
+    "question": "Two balls will be rolled down a ramp. Which question focuses on their travel?",
+    "audio_prompt": "Two balls will be rolled down a ramp. Which question focuses on their travel?",
     "answers": [
       {
-        "text": "Why are bees nice?",
+        "text": "Which ball is heavier before rolling?",
         "is_correct": false
       },
       {
-        "text": "Which flower is prettiest?",
+        "text": "Which ball has the brighter colour?",
         "is_correct": false
       },
       {
-        "text": "Do bees have feelings?",
-        "is_correct": false
-      },
-      {
-        "text": "How many bees visit each flower patch in five minutes?",
+        "text": "Which ball will roll farther?",
         "is_correct": true
       }
     ],
-    "correct": 3,
-    "explanation": "Visits can be counted during a set time.\nHint: Look for something measurable.",
-    "structuredExplanation": {
-      "summary": "Visits can be counted during a set time.",
-      "hint": "Look for something measurable."
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The question asks about the motion the children will observe.",
+      "hint": "Look for the observation that supports your answer."
     },
-    "stage": "recognise",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 6,
-    "qualitySchema": "skillr-actual-v6",
+    "difficulty_tier": "recognise",
+    "sequence_priority": 6,
+    "review": {
+      "version": "20260906-science-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/science/year-1/investigate-pushes-and-pulls",
+      "evidence_scope": "Representative observed questions; see docs/question-bank-reviews/2026-09-06-year1-science-h01-i01-i02.md. Not an IXL endorsement or measured equivalence."
+    }
+  },
+  {
+    "id": "ac9s1i01-r2-p-007",
     "curriculum_code": "AC9S1I01",
     "year_level": "Year 1",
     "subject": "science",
-    "correct_index": 3
-  },
-  {
-    "id": "ac9s1i01-p-007",
-    "curriculumCode": "AC9S1I01",
     "bank": "practice",
-    "skill": "questions, patterns and predictions",
-    "printable": true,
-    "type": "single",
-    "question": "Before testing two towels, which belongs in the prediction box?",
-    "audioPrompt": "Before testing two towels, which belongs in the prediction box?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
+    "skill": "questions about patterns and experience-based predictions",
+    "question": "Before testing a paper bridge, a child says, 'It may hold two counters.' What is this?",
+    "audio_prompt": "Before testing a paper bridge, a child says, 'It may hold two counters.' What is this?",
+    "answers": [
+      {
+        "text": "a prediction",
+        "is_correct": true
+      },
+      {
+        "text": "a result already measured",
+        "is_correct": false
+      },
+      {
+        "text": "a description of its colour",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The child is saying what they expect before testing.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "visual": {
       "type": "none",
       "alt_text": ""
     },
-    "answers": [
-      {
-        "text": "Both towels are dry now.",
-        "is_correct": false
-      },
-      {
-        "text": "The bowl is blue.",
-        "is_correct": false
-      },
-      {
-        "text": "Towel A absorbed 12 drops.",
-        "is_correct": false
-      },
-      {
-        "text": "I think towel B will absorb more water.",
-        "is_correct": true
-      }
-    ],
-    "correct": 3,
-    "explanation": "The prediction gives an expected result before testing.\nHint: What has not happened yet?",
-    "structuredExplanation": {
-      "summary": "The prediction gives an expected result before testing.",
-      "hint": "What has not happened yet?"
-    },
-    "stage": "recognise",
     "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 7,
-    "qualitySchema": "skillr-actual-v6",
+    "difficulty_tier": "recognise",
+    "sequence_priority": 7,
+    "review": {
+      "version": "20260906-science-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/science/year-1/investigate-pushes-and-pulls",
+      "evidence_scope": "Representative observed questions; see docs/question-bank-reviews/2026-09-06-year1-science-h01-i01-i02.md. Not an IXL endorsement or measured equivalence."
+    }
+  },
+  {
+    "id": "ac9s1i01-r2-p-008",
     "curriculum_code": "AC9S1I01",
     "year_level": "Year 1",
     "subject": "science",
-    "correct_index": 3
-  },
-  {
-    "id": "ac9s1i01-p-008",
-    "curriculumCode": "AC9S1I01",
     "bank": "practice",
-    "skill": "questions, patterns and predictions",
-    "printable": true,
-    "type": "single",
-    "question": "Which is an experience-based reason?",
-    "audioPrompt": "Which is an experience-based reason?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "skill": "questions about patterns and experience-based predictions",
+    "question": "A child saw ants beside a tree and on a path. Which question compares those places?",
+    "audio_prompt": "A child saw ants beside a tree and on a path. Which question compares those places?",
     "answers": [
       {
-        "text": "The sponge has six letters.",
+        "text": "How long is the path?",
         "is_correct": false
       },
       {
-        "text": "I think the sponge will soak up more because I have used one to wipe spills.",
+        "text": "Where will we see more ants?",
         "is_correct": true
       },
       {
-        "text": "I think sponge because seven is lucky.",
-        "is_correct": false
-      },
-      {
-        "text": "I like yellow.",
+        "text": "How tall is the tree?",
         "is_correct": false
       }
     ],
-    "correct": 1,
-    "explanation": "Relevant experience can support a prediction.\nHint: Which reason connects to soaking water?",
-    "structuredExplanation": {
-      "summary": "Relevant experience can support a prediction.",
-      "hint": "Which reason connects to soaking water?"
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The question compares ant numbers in the two observed places.",
+      "hint": "Look for the observation that supports your answer."
     },
-    "stage": "recognise",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 8,
-    "qualitySchema": "skillr-actual-v6",
+    "difficulty_tier": "recognise",
+    "sequence_priority": 8,
+    "review": {
+      "version": "20260906-science-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/science/year-1/investigate-pushes-and-pulls",
+      "evidence_scope": "Representative observed questions; see docs/question-bank-reviews/2026-09-06-year1-science-h01-i01-i02.md. Not an IXL endorsement or measured equivalence."
+    }
+  },
+  {
+    "id": "ac9s1i01-r2-p-009",
     "curriculum_code": "AC9S1I01",
     "year_level": "Year 1",
     "subject": "science",
-    "correct_index": 1
-  },
-  {
-    "id": "ac9s1i01-p-009",
-    "curriculumCode": "AC9S1I01",
     "bank": "practice",
-    "skill": "questions, patterns and predictions",
-    "printable": true,
-    "type": "single",
-    "question": "Which question matches this result: “The seed beside the window sprouted first”?",
-    "audioPrompt": "Which question matches this result: “The seed beside the window sprouted first”?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "skill": "questions about patterns and experience-based predictions",
+    "question": "Read the car record. Which prediction fits another similar trial?",
+    "audio_prompt": "Read the car record. Which prediction fits another similar trial?",
     "answers": [
       {
-        "text": "Which seed will sprout first?",
+        "text": "The gentle push may send the car farther.",
+        "is_correct": false
+      },
+      {
+        "text": "Both pushes may send the car equally far.",
+        "is_correct": false
+      },
+      {
+        "text": "The stronger push may send the car farther.",
         "is_correct": true
-      },
-      {
-        "text": "What colour are the pots?",
-        "is_correct": false
-      },
-      {
-        "text": "How many windows are there?",
-        "is_correct": false
-      },
-      {
-        "text": "Which seed looks nicest?",
-        "is_correct": false
       }
     ],
-    "correct": 0,
-    "explanation": "The result answers a question about which seed sprouted first.\nHint: Match the result to the outcome.",
-    "structuredExplanation": {
-      "summary": "The result answers a question about which seed sprouted first.",
-      "hint": "Match the result to the outcome."
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The prediction follows the pattern in the recorded trials.",
+      "hint": "Look for the observation that supports your answer."
     },
-    "stage": "recognise",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 9,
-    "qualitySchema": "skillr-actual-v6",
-    "curriculum_code": "AC9S1I01",
-    "year_level": "Year 1",
-    "subject": "science",
-    "correct_index": 0
-  },
-  {
-    "id": "ac9s1i01-p-010",
-    "curriculumCode": "AC9S1I01",
-    "bank": "practice",
-    "skill": "questions, patterns and predictions",
-    "printable": true,
-    "type": "single",
-    "question": "Which sentence is NOT a prediction?",
-    "audioPrompt": "Which sentence is NOT a prediction?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+    "visual": {
+      "type": "svg",
+      "alt_text": "Trial 1, same car and floor: Stronger push: farther travel. Trial 2, same car and floor: Stronger push: farther travel.",
+      "asset_path": "/assets/assessment-visuals/year1/science/ixl-review-2/ac9s1i01-09.svg#model"
     },
-    "answers": [
-      {
-        "text": "The sunny ice may melt first.",
-        "is_correct": false
-      },
-      {
-        "text": "The red car travelled 90 cm.",
-        "is_correct": true
-      },
-      {
-        "text": "The watered seed might sprout first.",
-        "is_correct": false
-      },
-      {
-        "text": "The smooth ball may roll farther.",
-        "is_correct": false
-      }
-    ],
-    "correct": 1,
-    "explanation": "“Travelled 90 cm” reports a completed observation.\nHint: Which event already happened?",
-    "structuredExplanation": {
-      "summary": "“Travelled 90 cm” reports a completed observation.",
-      "hint": "Which event already happened?"
-    },
-    "stage": "recognise",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 10,
-    "qualitySchema": "skillr-actual-v6",
-    "curriculum_code": "AC9S1I01",
-    "year_level": "Year 1",
-    "subject": "science",
-    "correct_index": 1
-  },
-  {
-    "id": "ac9s1i01-p-011",
-    "curriculumCode": "AC9S1I01",
-    "bank": "practice",
-    "skill": "questions, patterns and predictions",
-    "printable": true,
-    "type": "single",
-    "question": "Why is “What happens?” too broad for a science investigation?",
-    "audioPrompt": "Why is “What happens?” too broad for a science investigation?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "It is too short.",
-        "is_correct": false
-      },
-      {
-        "text": "It needs a longer word.",
-        "is_correct": false
-      },
-      {
-        "text": "It does not say what object or change to observe.",
-        "is_correct": true
-      },
-      {
-        "text": "Science questions cannot use “what”.",
-        "is_correct": false
-      }
-    ],
-    "correct": 2,
-    "explanation": "A focused question makes the observation or comparison clear.\nHint: What would you actually watch?",
-    "structuredExplanation": {
-      "summary": "A focused question makes the observation or comparison clear.",
-      "hint": "What would you actually watch?"
-    },
-    "stage": "explain",
     "difficulty": 2,
-    "difficultyTier": "explain",
-    "sequencePriority": 11,
-    "qualitySchema": "skillr-actual-v6",
+    "difficulty_tier": "apply",
+    "sequence_priority": 9,
+    "review": {
+      "version": "20260906-science-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/science/year-1/investigate-pushes-and-pulls",
+      "evidence_scope": "Representative observed questions; see docs/question-bank-reviews/2026-09-06-year1-science-h01-i01-i02.md. Not an IXL endorsement or measured equivalence."
+    }
+  },
+  {
+    "id": "ac9s1i01-r2-p-010",
     "curriculum_code": "AC9S1I01",
     "year_level": "Year 1",
     "subject": "science",
-    "correct_index": 2
-  },
-  {
-    "id": "ac9s1i01-p-012",
-    "curriculumCode": "AC9S1I01",
     "bank": "practice",
-    "skill": "questions, patterns and predictions",
-    "printable": true,
-    "type": "single",
-    "question": "Why make a prediction before testing?",
-    "audioPrompt": "Why make a prediction before testing?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "skill": "questions about patterns and experience-based predictions",
+    "question": "One wet sock dried faster outside than inside yesterday. Which question could explore that relationship again?",
+    "audio_prompt": "One wet sock dried faster outside than inside yesterday. Which question could explore that relationship again?",
     "answers": [
       {
-        "text": "So you can change the result later.",
-        "is_correct": false
-      },
-      {
-        "text": "So it is always correct.",
-        "is_correct": false
-      },
-      {
-        "text": "So you record your expectation before seeing the result.",
+        "text": "Will the outside sock dry first again?",
         "is_correct": true
       },
       {
-        "text": "So you can skip observations.",
+        "text": "Which sock has more stripes?",
+        "is_correct": false
+      },
+      {
+        "text": "How many pegs are on the line?",
         "is_correct": false
       }
     ],
-    "correct": 2,
-    "explanation": "Predictions are expectations made before evidence is collected.\nHint: Prediction first, result later.",
-    "structuredExplanation": {
-      "summary": "Predictions are expectations made before evidence is collected.",
-      "hint": "Prediction first, result later."
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The question follows the observed relationship between place and drying.",
+      "hint": "Look for the observation that supports your answer."
     },
-    "stage": "explain",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "difficulty": 2,
-    "difficultyTier": "explain",
-    "sequencePriority": 12,
-    "qualitySchema": "skillr-actual-v6",
+    "difficulty_tier": "apply",
+    "sequence_priority": 10,
+    "review": {
+      "version": "20260906-science-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/science/year-1/investigate-pushes-and-pulls",
+      "evidence_scope": "Representative observed questions; see docs/question-bank-reviews/2026-09-06-year1-science-h01-i01-i02.md. Not an IXL endorsement or measured equivalence."
+    }
+  },
+  {
+    "id": "ac9s1i01-r2-p-011",
     "curriculum_code": "AC9S1I01",
     "year_level": "Year 1",
     "subject": "science",
-    "correct_index": 2
-  },
-  {
-    "id": "ac9s1i01-p-013",
-    "curriculumCode": "AC9S1I01",
     "bank": "practice",
-    "skill": "questions, patterns and predictions",
-    "printable": true,
-    "type": "single",
-    "question": "Why is “The blue car will win because blue is lucky” a weak prediction reason?",
-    "audioPrompt": "Why is “The blue car will win because blue is lucky” a weak prediction reason?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "skill": "questions about patterns and experience-based predictions",
+    "question": "A child asks, 'Which towel holds more water?' Which prediction answers that question?",
+    "audio_prompt": "A child asks, 'Which towel holds more water?' Which prediction answers that question?",
     "answers": [
       {
-        "text": "Blue cars cannot move.",
+        "text": "Towel A may look darker than Towel B.",
         "is_correct": false
       },
       {
-        "text": "Luck is not relevant evidence about rolling.",
+        "text": "Towel A may hold more than Towel B.",
         "is_correct": true
       },
       {
-        "text": "Predictions need no reasons.",
-        "is_correct": false
-      },
-      {
-        "text": "Blue is never allowed in science.",
+        "text": "Towel A may be longer than Towel B.",
         "is_correct": false
       }
     ],
-    "correct": 1,
-    "explanation": "A useful reason should connect to the outcome being predicted.\nHint: Does colour luck explain rolling distance?",
-    "structuredExplanation": {
-      "summary": "A useful reason should connect to the outcome being predicted.",
-      "hint": "Does colour luck explain rolling distance?"
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Only the first prediction focuses on how much water the towels hold.",
+      "hint": "Look for the observation that supports your answer."
     },
-    "stage": "explain",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "difficulty": 2,
-    "difficultyTier": "explain",
-    "sequencePriority": 13,
-    "qualitySchema": "skillr-actual-v6",
+    "difficulty_tier": "apply",
+    "sequence_priority": 11,
+    "review": {
+      "version": "20260906-science-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/science/year-1/investigate-pushes-and-pulls",
+      "evidence_scope": "Representative observed questions; see docs/question-bank-reviews/2026-09-06-year1-science-h01-i01-i02.md. Not an IXL endorsement or measured equivalence."
+    }
+  },
+  {
+    "id": "ac9s1i01-r2-p-012",
     "curriculum_code": "AC9S1I01",
     "year_level": "Year 1",
     "subject": "science",
-    "correct_index": 1
-  },
-  {
-    "id": "ac9s1i01-p-014",
-    "curriculumCode": "AC9S1I01",
     "bank": "practice",
-    "skill": "questions, patterns and predictions",
-    "printable": true,
-    "type": "single",
-    "question": "Why is “Which fabric keeps the toy driest?” clearer than “Which fabric is best?”",
-    "audioPrompt": "Why is “Which fabric keeps the toy driest?” clearer than “Which fabric is best?”",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "skill": "questions about patterns and experience-based predictions",
+    "question": "An ice cube melted sooner in a warm place last time. Which reason supports a new prediction about melting?",
+    "audio_prompt": "An ice cube melted sooner in a warm place last time. Which reason supports a new prediction about melting?",
     "answers": [
       {
-        "text": "It has more letters.",
+        "text": "The new tray is a different colour.",
         "is_correct": false
       },
       {
-        "text": "Fabric cannot be tested.",
+        "text": "The child likes the warmer place.",
         "is_correct": false
       },
       {
-        "text": "“Best” always means dry.",
-        "is_correct": false
-      },
-      {
-        "text": "“Driest” names the result to observe.",
+        "text": "The earlier ice melted sooner in warmth.",
         "is_correct": true
       }
     ],
-    "correct": 3,
-    "explanation": "Clear investigation questions specify what success means.\nHint: Best at what?",
-    "structuredExplanation": {
-      "summary": "Clear investigation questions specify what success means.",
-      "hint": "Best at what?"
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The past melting observation supports the prediction; preference does not.",
+      "hint": "Look for the observation that supports your answer."
     },
-    "stage": "explain",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "difficulty": 2,
-    "difficultyTier": "explain",
-    "sequencePriority": 14,
-    "qualitySchema": "skillr-actual-v6",
+    "difficulty_tier": "apply",
+    "sequence_priority": 12,
+    "review": {
+      "version": "20260906-science-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/science/year-1/investigate-pushes-and-pulls",
+      "evidence_scope": "Representative observed questions; see docs/question-bank-reviews/2026-09-06-year1-science-h01-i01-i02.md. Not an IXL endorsement or measured equivalence."
+    }
+  },
+  {
+    "id": "ac9s1i01-r2-p-013",
     "curriculum_code": "AC9S1I01",
     "year_level": "Year 1",
     "subject": "science",
-    "correct_index": 3
-  },
-  {
-    "id": "ac9s1i01-p-015",
-    "curriculumCode": "AC9S1I01",
     "bank": "practice",
-    "skill": "questions, patterns and predictions",
-    "printable": true,
-    "type": "single",
-    "question": "What evidence would check “The plant by the window will grow taller”?",
-    "audioPrompt": "What evidence would check “The plant by the window will grow taller”?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "skill": "questions about patterns and experience-based predictions",
+    "question": "A class sees a flag moving on windy days but hanging still on calm days. Which question explores the pattern?",
+    "audio_prompt": "A class sees a flag moving on windy days but hanging still on calm days. Which question explores the pattern?",
     "answers": [
       {
-        "text": "The child’s favourite plant",
-        "is_correct": false
-      },
-      {
-        "text": "The number of windows",
-        "is_correct": false
-      },
-      {
-        "text": "The plant’s height over time",
+        "text": "Will the flag move more when the wind is stronger?",
         "is_correct": true
       },
       {
-        "text": "The pot colour",
+        "text": "How many colours are on the flag?",
+        "is_correct": false
+      },
+      {
+        "text": "How tall is the flagpole?",
         "is_correct": false
       }
     ],
-    "correct": 2,
-    "explanation": "Height measurements directly test a prediction about growing taller.\nHint: Measure the thing named in the prediction.",
-    "structuredExplanation": {
-      "summary": "Height measurements directly test a prediction about growing taller.",
-      "hint": "Measure the thing named in the prediction."
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The question investigates the observed relationship between wind and movement.",
+      "hint": "Look for the observation that supports your answer."
     },
-    "stage": "explain",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "difficulty": 2,
-    "difficultyTier": "explain",
-    "sequencePriority": 15,
-    "qualitySchema": "skillr-actual-v6",
+    "difficulty_tier": "apply",
+    "sequence_priority": 13,
+    "review": {
+      "version": "20260906-science-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/science/year-1/investigate-pushes-and-pulls",
+      "evidence_scope": "Representative observed questions; see docs/question-bank-reviews/2026-09-06-year1-science-h01-i01-i02.md. Not an IXL endorsement or measured equivalence."
+    }
+  },
+  {
+    "id": "ac9s1i01-r2-p-014",
     "curriculum_code": "AC9S1I01",
     "year_level": "Year 1",
     "subject": "science",
-    "correct_index": 2
-  },
-  {
-    "id": "ac9s1i01-p-016",
-    "curriculumCode": "AC9S1I01",
     "bank": "practice",
-    "skill": "questions, patterns and predictions",
-    "printable": true,
-    "type": "single",
-    "question": "Why can a wrong prediction still help us learn?",
-    "audioPrompt": "Why can a wrong prediction still help us learn?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "skill": "questions about patterns and experience-based predictions",
+    "question": "A child says, 'This cover will be better.' Which prediction is clearer for a rain test?",
+    "audio_prompt": "A child says, 'This cover will be better.' Which prediction is clearer for a rain test?",
     "answers": [
       {
-        "text": "Science only uses correct guesses.",
+        "text": "This cover may look very nice.",
         "is_correct": false
       },
       {
-        "text": "We can compare it with the result and update our idea.",
+        "text": "This cover may keep the paper underneath drier.",
         "is_correct": true
       },
       {
-        "text": "Wrong predictions must be erased.",
-        "is_correct": false
-      },
-      {
-        "text": "It means the test failed.",
+        "text": "This cover may be the best one.",
         "is_correct": false
       }
     ],
-    "correct": 1,
-    "explanation": "Science checks expectations against evidence.\nHint: What can the result teach you?",
-    "structuredExplanation": {
-      "summary": "Science checks expectations against evidence.",
-      "hint": "What can the result teach you?"
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The clearer prediction names an outcome that can be observed: how dry the paper stays.",
+      "hint": "Look for the observation that supports your answer."
     },
-    "stage": "explain",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "difficulty": 2,
-    "difficultyTier": "explain",
-    "sequencePriority": 16,
-    "qualitySchema": "skillr-actual-v6",
+    "difficulty_tier": "apply",
+    "sequence_priority": 14,
+    "review": {
+      "version": "20260906-science-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/science/year-1/investigate-pushes-and-pulls",
+      "evidence_scope": "Representative observed questions; see docs/question-bank-reviews/2026-09-06-year1-science-h01-i01-i02.md. Not an IXL endorsement or measured equivalence."
+    }
+  },
+  {
+    "id": "ac9s1i01-r2-p-015",
     "curriculum_code": "AC9S1I01",
     "year_level": "Year 1",
     "subject": "science",
-    "correct_index": 1
-  },
-  {
-    "id": "ac9s1i01-p-017",
-    "curriculumCode": "AC9S1I01",
     "bank": "practice",
-    "skill": "questions, patterns and predictions",
-    "printable": true,
-    "type": "single",
-    "question": "Why count ants in both places when asking “Which place has more ants?”",
-    "audioPrompt": "Why count ants in both places when asking “Which place has more ants?”",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
+    "skill": "questions about patterns and experience-based predictions",
+    "question": "Birds visited a feeder after seed was added on several mornings. What might happen after seed is added tomorrow?",
+    "audio_prompt": "Birds visited a feeder after seed was added on several mornings. What might happen after seed is added tomorrow?",
+    "answers": [
+      {
+        "text": "Exactly the same birds must visit.",
+        "is_correct": false
+      },
+      {
+        "text": "Birds will stay there all day for certain.",
+        "is_correct": false
+      },
+      {
+        "text": "Birds may visit the feeder again.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The observations support possible visits, not their exact identity or duration.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "visual": {
       "type": "none",
       "alt_text": ""
     },
-    "answers": [
-      {
-        "text": "A comparison needs evidence from both places.",
-        "is_correct": true
-      },
-      {
-        "text": "Ants only appear in pairs.",
-        "is_correct": false
-      },
-      {
-        "text": "One count proves both places.",
-        "is_correct": false
-      },
-      {
-        "text": "The larger place wins automatically.",
-        "is_correct": false
-      }
-    ],
-    "correct": 0,
-    "explanation": "Both sides of a comparison need observations.\nHint: What information is needed from each place?",
-    "structuredExplanation": {
-      "summary": "Both sides of a comparison need observations.",
-      "hint": "What information is needed from each place?"
-    },
-    "stage": "explain",
     "difficulty": 2,
-    "difficultyTier": "explain",
-    "sequencePriority": 17,
-    "qualitySchema": "skillr-actual-v6",
+    "difficulty_tier": "apply",
+    "sequence_priority": 15,
+    "review": {
+      "version": "20260906-science-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/science/year-1/investigate-pushes-and-pulls",
+      "evidence_scope": "Representative observed questions; see docs/question-bank-reviews/2026-09-06-year1-science-h01-i01-i02.md. Not an IXL endorsement or measured equivalence."
+    }
+  },
+  {
+    "id": "ac9s1i01-r2-p-016",
     "curriculum_code": "AC9S1I01",
     "year_level": "Year 1",
     "subject": "science",
-    "correct_index": 0
-  },
-  {
-    "id": "ac9s1i01-p-018",
-    "curriculumCode": "AC9S1I01",
     "bank": "practice",
-    "skill": "questions, patterns and predictions",
-    "printable": true,
-    "type": "single",
-    "question": "Why is “The sponge will be better” a weak prediction?",
-    "audioPrompt": "Why is “The sponge will be better” a weak prediction?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
+    "skill": "questions about patterns and experience-based predictions",
+    "question": "Two leaves will be placed in sun and shade. Which statement belongs BEFORE the test?",
+    "audio_prompt": "Two leaves will be placed in sun and shade. Which statement belongs BEFORE the test?",
+    "answers": [
+      {
+        "text": "The sunny leaf may dry faster.",
+        "is_correct": true
+      },
+      {
+        "text": "The sunny leaf dried first today.",
+        "is_correct": false
+      },
+      {
+        "text": "Both leaves stayed wet in today's test.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Only the first statement is an expectation; the others report completed results.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "visual": {
       "type": "none",
       "alt_text": ""
     },
-    "answers": [
-      {
-        "text": "Sponges cannot be compared.",
-        "is_correct": false
-      },
-      {
-        "text": "Predictions must use numbers.",
-        "is_correct": false
-      },
-      {
-        "text": "The word sponge is too long.",
-        "is_correct": false
-      },
-      {
-        "text": "It does not say what “better” means.",
-        "is_correct": true
-      }
-    ],
-    "correct": 3,
-    "explanation": "A prediction should state an observable result such as absorbing more drops.\nHint: Better at what?",
-    "structuredExplanation": {
-      "summary": "A prediction should state an observable result such as absorbing more drops.",
-      "hint": "Better at what?"
-    },
-    "stage": "explain",
     "difficulty": 2,
-    "difficultyTier": "explain",
-    "sequencePriority": 18,
-    "qualitySchema": "skillr-actual-v6",
+    "difficulty_tier": "apply",
+    "sequence_priority": 16,
+    "review": {
+      "version": "20260906-science-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/science/year-1/investigate-pushes-and-pulls",
+      "evidence_scope": "Representative observed questions; see docs/question-bank-reviews/2026-09-06-year1-science-h01-i01-i02.md. Not an IXL endorsement or measured equivalence."
+    }
+  },
+  {
+    "id": "ac9s1i01-r2-p-017",
     "curriculum_code": "AC9S1I01",
     "year_level": "Year 1",
     "subject": "science",
-    "correct_index": 3
-  },
-  {
-    "id": "ac9s1i01-p-019",
-    "curriculumCode": "AC9S1I01",
     "bank": "practice",
-    "skill": "questions, patterns and predictions",
-    "printable": true,
-    "type": "single",
-    "question": "Why does “The sunny cube will melt first” match “Which ice cube melts first?”?",
-    "audioPrompt": "Why does “The sunny cube will melt first” match “Which ice cube melts first?”?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "skill": "questions about patterns and experience-based predictions",
+    "question": "Read the seedling record. Which question explores the observed difference?",
+    "audio_prompt": "Read the seedling record. Which question explores the observed difference?",
     "answers": [
       {
-        "text": "One is about plants.",
+        "text": "How many children like seedlings?",
         "is_correct": false
       },
       {
-        "text": "They ask different outcomes.",
-        "is_correct": false
-      },
-      {
-        "text": "Both focus on melting time.",
+        "text": "Will seedlings grow more in Place A again?",
         "is_correct": true
       },
       {
-        "text": "Both mention colour.",
+        "text": "Which pot colour do we prefer?",
         "is_correct": false
       }
     ],
-    "correct": 2,
-    "explanation": "Question and prediction should focus on the same outcome.\nHint: Same comparison, same result.",
-    "structuredExplanation": {
-      "summary": "Question and prediction should focus on the same outcome.",
-      "hint": "Same comparison, same result."
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The question follows the growth difference shown in the record.",
+      "hint": "Look for the observation that supports your answer."
     },
-    "stage": "explain",
-    "difficulty": 2,
-    "difficultyTier": "explain",
-    "sequencePriority": 19,
-    "qualitySchema": "skillr-actual-v6",
-    "curriculum_code": "AC9S1I01",
-    "year_level": "Year 1",
-    "subject": "science",
-    "correct_index": 2
-  },
-  {
-    "id": "ac9s1i01-p-020",
-    "curriculumCode": "AC9S1I01",
-    "bank": "practice",
-    "skill": "questions, patterns and predictions",
-    "printable": true,
-    "type": "single",
-    "question": "Why should a prediction use “may” or “might” when evidence is limited?",
-    "audioPrompt": "Why should a prediction use “may” or “might” when evidence is limited?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+    "visual": {
+      "type": "svg",
+      "alt_text": "First week: More growth in Place A than B. Second week: More growth in Place A than B.",
+      "asset_path": "/assets/assessment-visuals/year1/science/ixl-review-2/ac9s1i01-17.svg#model"
     },
-    "answers": [
-      {
-        "text": "Because may means already happened.",
-        "is_correct": false
-      },
-      {
-        "text": "Because a prediction is not a guarantee.",
-        "is_correct": true
-      },
-      {
-        "text": "Because “will” is never English.",
-        "is_correct": false
-      },
-      {
-        "text": "Because evidence is useless.",
-        "is_correct": false
-      }
-    ],
-    "correct": 1,
-    "explanation": "Cautious language shows that the expected outcome still needs checking.\nHint: Prediction is not promise.",
-    "structuredExplanation": {
-      "summary": "Cautious language shows that the expected outcome still needs checking.",
-      "hint": "Prediction is not promise."
-    },
-    "stage": "explain",
-    "difficulty": 2,
-    "difficultyTier": "explain",
-    "sequencePriority": 20,
-    "qualitySchema": "skillr-actual-v6",
-    "curriculum_code": "AC9S1I01",
-    "year_level": "Year 1",
-    "subject": "science",
-    "correct_index": 1
-  },
-  {
-    "id": "ac9s1i01-p-021",
-    "curriculumCode": "AC9S1I01",
-    "bank": "practice",
-    "skill": "questions, patterns and predictions",
-    "printable": true,
-    "type": "single",
-    "question": "Which pair correctly shows prediction then observation?",
-    "audioPrompt": "Which pair correctly shows prediction then observation?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "“It may roll farther.” → “It rolled 80 cm.”",
-        "is_correct": true
-      },
-      {
-        "text": "“It rolled 80 cm.” → “It may roll farther.”",
-        "is_correct": false
-      },
-      {
-        "text": "“It is red.” → “I like it.”",
-        "is_correct": false
-      },
-      {
-        "text": "“It is round.” → “Round is nice.”",
-        "is_correct": false
-      }
-    ],
-    "correct": 0,
-    "explanation": "Expectation comes before testing; observation reports what happened.\nHint: Before, then after.",
-    "structuredExplanation": {
-      "summary": "Expectation comes before testing; observation reports what happened.",
-      "hint": "Before, then after."
-    },
-    "stage": "discriminate",
-    "difficulty": 2,
-    "difficultyTier": "discriminate",
-    "sequencePriority": 21,
-    "qualitySchema": "skillr-actual-v6",
-    "curriculum_code": "AC9S1I01",
-    "year_level": "Year 1",
-    "subject": "science",
-    "correct_index": 0
-  },
-  {
-    "id": "ac9s1i01-p-022",
-    "curriculumCode": "AC9S1I01",
-    "bank": "practice",
-    "skill": "questions, patterns and predictions",
-    "printable": true,
-    "type": "single",
-    "question": "Which question is most investigable with two ramps?",
-    "audioPrompt": "Which question is most investigable with two ramps?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Why are ramps useful?",
-        "is_correct": false
-      },
-      {
-        "text": "Which ramp looks coolest?",
-        "is_correct": false
-      },
-      {
-        "text": "Are ramps better than stairs?",
-        "is_correct": false
-      },
-      {
-        "text": "Which ramp lets the same car travel farther?",
-        "is_correct": true
-      }
-    ],
-    "correct": 3,
-    "explanation": "Distance travelled can be compared using the same car.\nHint: Could you measure the answer?",
-    "structuredExplanation": {
-      "summary": "Distance travelled can be compared using the same car.",
-      "hint": "Could you measure the answer?"
-    },
-    "stage": "discriminate",
-    "difficulty": 2,
-    "difficultyTier": "discriminate",
-    "sequencePriority": 22,
-    "qualitySchema": "skillr-actual-v6",
-    "curriculum_code": "AC9S1I01",
-    "year_level": "Year 1",
-    "subject": "science",
-    "correct_index": 3
-  },
-  {
-    "id": "ac9s1i01-p-023",
-    "curriculumCode": "AC9S1I01",
-    "bank": "practice",
-    "skill": "questions, patterns and predictions",
-    "printable": true,
-    "type": "single",
-    "question": "Which prediction is too vague to check?",
-    "audioPrompt": "Which prediction is too vague to check?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "The smooth ramp may let the car travel farther.",
-        "is_correct": false
-      },
-      {
-        "text": "The sunny cube may melt first.",
-        "is_correct": false
-      },
-      {
-        "text": "The sponge will be better.",
-        "is_correct": true
-      },
-      {
-        "text": "The seed with water may sprout first.",
-        "is_correct": false
-      }
-    ],
-    "correct": 2,
-    "explanation": "“Better” does not name an observable result.\nHint: Better how?",
-    "structuredExplanation": {
-      "summary": "“Better” does not name an observable result.",
-      "hint": "Better how?"
-    },
-    "stage": "discriminate",
-    "difficulty": 2,
-    "difficultyTier": "discriminate",
-    "sequencePriority": 23,
-    "qualitySchema": "skillr-actual-v6",
-    "curriculum_code": "AC9S1I01",
-    "year_level": "Year 1",
-    "subject": "science",
-    "correct_index": 2
-  },
-  {
-    "id": "ac9s1i01-p-024",
-    "curriculumCode": "AC9S1I01",
-    "bank": "practice",
-    "skill": "questions, patterns and predictions",
-    "printable": true,
-    "type": "single",
-    "question": "Question: “Which ball bounces higher?” Which evidence matters most?",
-    "audioPrompt": "Question: “Which ball bounces higher?” Which evidence matters most?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Child’s name",
-        "is_correct": false
-      },
-      {
-        "text": "Bounce height",
-        "is_correct": true
-      },
-      {
-        "text": "Ball colour",
-        "is_correct": false
-      },
-      {
-        "text": "Basket size",
-        "is_correct": false
-      }
-    ],
-    "correct": 1,
-    "explanation": "Bounce height directly answers the question.\nHint: Measure the outcome in the question.",
-    "structuredExplanation": {
-      "summary": "Bounce height directly answers the question.",
-      "hint": "Measure the outcome in the question."
-    },
-    "stage": "discriminate",
-    "difficulty": 2,
-    "difficultyTier": "discriminate",
-    "sequencePriority": 24,
-    "qualitySchema": "skillr-actual-v6",
-    "curriculum_code": "AC9S1I01",
-    "year_level": "Year 1",
-    "subject": "science",
-    "correct_index": 1
-  },
-  {
-    "id": "ac9s1i01-p-025",
-    "curriculumCode": "AC9S1I01",
-    "bank": "practice",
-    "skill": "questions, patterns and predictions",
-    "printable": true,
-    "type": "single",
-    "question": "Which reason best supports “The shaded ice may melt more slowly”?",
-    "audioPrompt": "Which reason best supports “The shaded ice may melt more slowly”?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Ice kept in cooler places stayed frozen longer before.",
-        "is_correct": true
-      },
-      {
-        "text": "Shade is my favourite place.",
-        "is_correct": false
-      },
-      {
-        "text": "The tree is green.",
-        "is_correct": false
-      },
-      {
-        "text": "Ice is square.",
-        "is_correct": false
-      }
-    ],
-    "correct": 0,
-    "explanation": "Relevant experience links cooler conditions to slower melting.\nHint: Which reason is about melting?",
-    "structuredExplanation": {
-      "summary": "Relevant experience links cooler conditions to slower melting.",
-      "hint": "Which reason is about melting?"
-    },
-    "stage": "discriminate",
-    "difficulty": 2,
-    "difficultyTier": "discriminate",
-    "sequencePriority": 25,
-    "qualitySchema": "skillr-actual-v6",
-    "curriculum_code": "AC9S1I01",
-    "year_level": "Year 1",
-    "subject": "science",
-    "correct_index": 0
-  },
-  {
-    "id": "ac9s1i01-p-026",
-    "curriculumCode": "AC9S1I01",
-    "bank": "practice",
-    "skill": "questions, patterns and predictions",
-    "printable": true,
-    "type": "single",
-    "question": "Which prediction does NOT match “Which material keeps water out?”?",
-    "audioPrompt": "Which prediction does NOT match “Which material keeps water out?”?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Plastic may keep more water out than paper.",
-        "is_correct": false
-      },
-      {
-        "text": "Foil might keep the toy drier.",
-        "is_correct": false
-      },
-      {
-        "text": "Waxed paper may stop more water.",
-        "is_correct": false
-      },
-      {
-        "text": "The striped fabric will look nicest.",
-        "is_correct": true
-      }
-    ],
-    "correct": 3,
-    "explanation": "Looking nicest changes the topic from water resistance to appearance.\nHint: Which answer is about something else?",
-    "structuredExplanation": {
-      "summary": "Looking nicest changes the topic from water resistance to appearance.",
-      "hint": "Which answer is about something else?"
-    },
-    "stage": "discriminate",
-    "difficulty": 2,
-    "difficultyTier": "discriminate",
-    "sequencePriority": 26,
-    "qualitySchema": "skillr-actual-v6",
-    "curriculum_code": "AC9S1I01",
-    "year_level": "Year 1",
-    "subject": "science",
-    "correct_index": 3
-  },
-  {
-    "id": "ac9s1i01-p-027",
-    "curriculumCode": "AC9S1I01",
-    "bank": "practice",
-    "skill": "questions, patterns and predictions",
-    "printable": true,
-    "type": "single",
-    "question": "Which statement fixes “A prediction is what happened”?",
-    "audioPrompt": "Which statement fixes “A prediction is what happened”?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Prediction comes after.",
-        "is_correct": false
-      },
-      {
-        "text": "Observation is a guess.",
-        "is_correct": false
-      },
-      {
-        "text": "A prediction is expected before; an observation is noticed during or after.",
-        "is_correct": true
-      },
-      {
-        "text": "Prediction and observation are the same.",
-        "is_correct": false
-      }
-    ],
-    "correct": 2,
-    "explanation": "Timing separates prediction from observation.\nHint: Expected versus observed.",
-    "structuredExplanation": {
-      "summary": "Timing separates prediction from observation.",
-      "hint": "Expected versus observed."
-    },
-    "stage": "discriminate",
-    "difficulty": 2,
-    "difficultyTier": "discriminate",
-    "sequencePriority": 27,
-    "qualitySchema": "skillr-actual-v6",
-    "curriculum_code": "AC9S1I01",
-    "year_level": "Year 1",
-    "subject": "science",
-    "correct_index": 2
-  },
-  {
-    "id": "ac9s1i01-p-028",
-    "curriculumCode": "AC9S1I01",
-    "bank": "practice",
-    "skill": "questions, patterns and predictions",
-    "printable": true,
-    "type": "single",
-    "question": "Which paper-plane question is fairest?",
-    "audioPrompt": "Which paper-plane question is fairest?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Why do planes fly?",
-        "is_correct": false
-      },
-      {
-        "text": "Which plane travels farther when both start from the same line?",
-        "is_correct": true
-      },
-      {
-        "text": "Whose plane is coolest?",
-        "is_correct": false
-      },
-      {
-        "text": "Which child is better?",
-        "is_correct": false
-      }
-    ],
-    "correct": 1,
-    "explanation": "Using the same start makes the distance comparison clearer.\nHint: Same start, compare distance.",
-    "structuredExplanation": {
-      "summary": "Using the same start makes the distance comparison clearer.",
-      "hint": "Same start, compare distance."
-    },
-    "stage": "discriminate",
-    "difficulty": 2,
-    "difficultyTier": "discriminate",
-    "sequencePriority": 28,
-    "qualitySchema": "skillr-actual-v6",
-    "curriculum_code": "AC9S1I01",
-    "year_level": "Year 1",
-    "subject": "science",
-    "correct_index": 1
-  },
-  {
-    "id": "ac9s1i01-p-029",
-    "curriculumCode": "AC9S1I01",
-    "bank": "practice",
-    "skill": "questions, patterns and predictions",
-    "printable": true,
-    "type": "single",
-    "question": "Which evidence would NOT help “Which soil has more worms?”?",
-    "audioPrompt": "Which evidence would NOT help “Which soil has more worms?”?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Bucket colour",
-        "is_correct": true
-      },
-      {
-        "text": "Worm count in soil A",
-        "is_correct": false
-      },
-      {
-        "text": "Worm count in soil B",
-        "is_correct": false
-      },
-      {
-        "text": "Comparison of the counts",
-        "is_correct": false
-      }
-    ],
-    "correct": 0,
-    "explanation": "Bucket colour is unrelated to worm number.\nHint: Stay focused on worms.",
-    "structuredExplanation": {
-      "summary": "Bucket colour is unrelated to worm number.",
-      "hint": "Stay focused on worms."
-    },
-    "stage": "discriminate",
-    "difficulty": 2,
-    "difficultyTier": "discriminate",
-    "sequencePriority": 29,
-    "qualitySchema": "skillr-actual-v6",
-    "curriculum_code": "AC9S1I01",
-    "year_level": "Year 1",
-    "subject": "science",
-    "correct_index": 0
-  },
-  {
-    "id": "ac9s1i01-p-030",
-    "curriculumCode": "AC9S1I01",
-    "bank": "practice",
-    "skill": "questions, patterns and predictions",
-    "printable": true,
-    "type": "single",
-    "question": "A result does not match the prediction. What should happen?",
-    "audioPrompt": "A result does not match the prediction. What should happen?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Change the result.",
-        "is_correct": false
-      },
-      {
-        "text": "Hide the result.",
-        "is_correct": false
-      },
-      {
-        "text": "Repeat only until the prediction wins.",
-        "is_correct": false
-      },
-      {
-        "text": "Record the real result and compare it honestly.",
-        "is_correct": true
-      }
-    ],
-    "correct": 3,
-    "explanation": "Scientific records keep evidence even when it surprises us.\nHint: Evidence comes first.",
-    "structuredExplanation": {
-      "summary": "Scientific records keep evidence even when it surprises us.",
-      "hint": "Evidence comes first."
-    },
-    "stage": "discriminate",
-    "difficulty": 2,
-    "difficultyTier": "discriminate",
-    "sequencePriority": 30,
-    "qualitySchema": "skillr-actual-v6",
-    "curriculum_code": "AC9S1I01",
-    "year_level": "Year 1",
-    "subject": "science",
-    "correct_index": 3
-  },
-  {
-    "id": "ac9s1i01-p-031",
-    "curriculumCode": "AC9S1I01",
-    "bank": "practice",
-    "skill": "questions, patterns and predictions",
-    "printable": true,
-    "type": "single",
-    "question": "Which question best tests whether seeds sprout sooner in light or dark?",
-    "audioPrompt": "Which question best tests whether seeds sprout sooner in light or dark?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Why is darkness dark?",
-        "is_correct": false
-      },
-      {
-        "text": "Do plants like classrooms?",
-        "is_correct": false
-      },
-      {
-        "text": "Which seeds sprout first: those in light or those in dark?",
-        "is_correct": true
-      },
-      {
-        "text": "Are seeds interesting?",
-        "is_correct": false
-      }
-    ],
-    "correct": 2,
-    "explanation": "The question names two conditions and an observable outcome.\nHint: What changes, and what will you watch?",
-    "structuredExplanation": {
-      "summary": "The question names two conditions and an observable outcome.",
-      "hint": "What changes, and what will you watch?"
-    },
-    "stage": "apply",
     "difficulty": 3,
-    "difficultyTier": "apply",
-    "sequencePriority": 31,
-    "qualitySchema": "skillr-actual-v6",
+    "difficulty_tier": "reason",
+    "sequence_priority": 17,
+    "review": {
+      "version": "20260906-science-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/science/year-1/investigate-pushes-and-pulls",
+      "evidence_scope": "Representative observed questions; see docs/question-bank-reviews/2026-09-06-year1-science-h01-i01-i02.md. Not an IXL endorsement or measured equivalence."
+    }
+  },
+  {
+    "id": "ac9s1i01-r2-p-018",
     "curriculum_code": "AC9S1I01",
     "year_level": "Year 1",
     "subject": "science",
-    "correct_index": 2
-  },
-  {
-    "id": "ac9s1i01-p-032",
-    "curriculumCode": "AC9S1I01",
     "bank": "practice",
-    "skill": "questions, patterns and predictions",
-    "printable": true,
-    "type": "single",
-    "question": "Which prediction for that seed test is strongest?",
-    "audioPrompt": "Which prediction for that seed test is strongest?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "skill": "questions about patterns and experience-based predictions",
+    "question": "A child predicts that cloth will absorb more water because it is softer. Which past experience gives more direct support?",
+    "audio_prompt": "A child predicts that cloth will absorb more water because it is softer. Which past experience gives more direct support?",
     "answers": [
       {
-        "text": "The pots are brown.",
+        "text": "The cloth felt soft yesterday.",
         "is_correct": false
       },
       {
-        "text": "Seeds in light may sprout first because seeds near my window sprouted well before.",
-        "is_correct": true
-      },
-      {
-        "text": "Light is prettier.",
+        "text": "The cloth was folded neatly yesterday.",
         "is_correct": false
       },
       {
-        "text": "Something will happen.",
-        "is_correct": false
-      }
-    ],
-    "correct": 1,
-    "explanation": "It states an expected result and gives relevant experience.\nHint: Result + useful reason.",
-    "structuredExplanation": {
-      "summary": "It states an expected result and gives relevant experience.",
-      "hint": "Result + useful reason."
-    },
-    "stage": "apply",
-    "difficulty": 3,
-    "difficultyTier": "apply",
-    "sequencePriority": 32,
-    "qualitySchema": "skillr-actual-v6",
-    "curriculum_code": "AC9S1I01",
-    "year_level": "Year 1",
-    "subject": "science",
-    "correct_index": 1
-  },
-  {
-    "id": "ac9s1i01-p-033",
-    "curriculumCode": "AC9S1I01",
-    "bank": "practice",
-    "skill": "questions, patterns and predictions",
-    "printable": true,
-    "type": "single",
-    "question": "To test smooth versus rough surfaces for sliding, what should be recorded?",
-    "audioPrompt": "To test smooth versus rough surfaces for sliding, what should be recorded?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "How far the block travels on each surface",
-        "is_correct": true
-      },
-      {
-        "text": "Surface colour",
-        "is_correct": false
-      },
-      {
-        "text": "Number of children watching",
-        "is_correct": false
-      },
-      {
-        "text": "Favourite surface",
-        "is_correct": false
-      }
-    ],
-    "correct": 0,
-    "explanation": "Distance travelled answers the question.\nHint: Record the compared outcome.",
-    "structuredExplanation": {
-      "summary": "Distance travelled answers the question.",
-      "hint": "Record the compared outcome."
-    },
-    "stage": "apply",
-    "difficulty": 3,
-    "difficultyTier": "apply",
-    "sequencePriority": 33,
-    "qualitySchema": "skillr-actual-v6",
-    "curriculum_code": "AC9S1I01",
-    "year_level": "Year 1",
-    "subject": "science",
-    "correct_index": 0
-  },
-  {
-    "id": "ac9s1i01-p-034",
-    "curriculumCode": "AC9S1I01",
-    "bank": "practice",
-    "skill": "questions, patterns and predictions",
-    "printable": true,
-    "type": "single",
-    "question": "Ava says, “The metal spoon will feel colder because metal spoons at home often feel cold.” What is the prediction?",
-    "audioPrompt": "Ava says, “The metal spoon will feel colder because metal spoons at home often feel cold.” What is the prediction?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Metal spoons at home",
-        "is_correct": false
-      },
-      {
-        "text": "because",
-        "is_correct": false
-      },
-      {
-        "text": "often",
-        "is_correct": false
-      },
-      {
-        "text": "The metal spoon will feel colder.",
+        "text": "The same cloth soaked up a larger spill before.",
         "is_correct": true
       }
     ],
-    "correct": 3,
-    "explanation": "The first part states the expected outcome.\nHint: What does Ava think will happen?",
-    "structuredExplanation": {
-      "summary": "The first part states the expected outcome.",
-      "hint": "What does Ava think will happen?"
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Experience with absorbing water is more directly relevant than softness or folding alone.",
+      "hint": "Look for the observation that supports your answer."
     },
-    "stage": "apply",
-    "difficulty": 3,
-    "difficultyTier": "apply",
-    "sequencePriority": 34,
-    "qualitySchema": "skillr-actual-v6",
-    "curriculum_code": "AC9S1I01",
-    "year_level": "Year 1",
-    "subject": "science",
-    "correct_index": 3
-  },
-  {
-    "id": "ac9s1i01-p-035",
-    "curriculumCode": "AC9S1I01",
-    "bank": "practice",
-    "skill": "questions, patterns and predictions",
-    "printable": true,
-    "type": "single",
-    "question": "How should a class test which feeder gets more bird visits?",
-    "audioPrompt": "How should a class test which feeder gets more bird visits?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
+    "visual": {
       "type": "none",
       "alt_text": ""
     },
-    "answers": [
-      {
-        "text": "Vote on the nicest feeder.",
-        "is_correct": false
-      },
-      {
-        "text": "Count seeds only.",
-        "is_correct": false
-      },
-      {
-        "text": "Watch both feeders for the same time and count visits.",
-        "is_correct": true
-      },
-      {
-        "text": "Watch only the favourite feeder.",
-        "is_correct": false
-      }
-    ],
-    "correct": 2,
-    "explanation": "Equal observation time gives comparable evidence.\nHint: Both feeders need the same chance.",
-    "structuredExplanation": {
-      "summary": "Equal observation time gives comparable evidence.",
-      "hint": "Both feeders need the same chance."
-    },
-    "stage": "apply",
     "difficulty": 3,
-    "difficultyTier": "apply",
-    "sequencePriority": 35,
-    "qualitySchema": "skillr-actual-v6",
+    "difficulty_tier": "reason",
+    "sequence_priority": 18,
+    "review": {
+      "version": "20260906-science-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/science/year-1/investigate-pushes-and-pulls",
+      "evidence_scope": "Representative observed questions; see docs/question-bank-reviews/2026-09-06-year1-science-h01-i01-i02.md. Not an IXL endorsement or measured equivalence."
+    }
+  },
+  {
+    "id": "ac9s1i01-r2-p-019",
     "curriculum_code": "AC9S1I01",
     "year_level": "Year 1",
     "subject": "science",
-    "correct_index": 2
-  },
-  {
-    "id": "ac9s1i01-p-036",
-    "curriculumCode": "AC9S1I01",
     "bank": "practice",
-    "skill": "questions, patterns and predictions",
-    "printable": true,
-    "type": "single",
-    "question": "Prediction: “Sponge will absorb more.” Result: paper towel absorbed more. Best conclusion?",
-    "audioPrompt": "Prediction: “Sponge will absorb more.” Result: paper towel absorbed more. Best conclusion?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
+    "skill": "questions about patterns and experience-based predictions",
+    "question": "A ball bounced high on a hard floor and low on a mat. Which prediction uses both observations?",
+    "audio_prompt": "A ball bounced high on a hard floor and low on a mat. Which prediction uses both observations?",
+    "answers": [
+      {
+        "text": "It may bounce higher on the floor than on the mat.",
+        "is_correct": true
+      },
+      {
+        "text": "It may bounce higher on the mat than on the floor.",
+        "is_correct": false
+      },
+      {
+        "text": "It may bounce equally high on the two surfaces.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The prediction preserves the observed comparison without claiming the mat prevents all bouncing.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "visual": {
       "type": "none",
       "alt_text": ""
     },
-    "answers": [
-      {
-        "text": "Predictions are useless.",
-        "is_correct": false
-      },
-      {
-        "text": "The prediction was not supported in this test; paper towel absorbed more.",
-        "is_correct": true
-      },
-      {
-        "text": "The sponge won because it was predicted.",
-        "is_correct": false
-      },
-      {
-        "text": "Hide the result.",
-        "is_correct": false
-      }
-    ],
-    "correct": 1,
-    "explanation": "The conclusion should compare the prediction with the observed evidence.\nHint: What actually happened?",
-    "structuredExplanation": {
-      "summary": "The conclusion should compare the prediction with the observed evidence.",
-      "hint": "What actually happened?"
-    },
-    "stage": "apply",
     "difficulty": 3,
-    "difficultyTier": "apply",
-    "sequencePriority": 36,
-    "qualitySchema": "skillr-actual-v6",
+    "difficulty_tier": "reason",
+    "sequence_priority": 19,
+    "review": {
+      "version": "20260906-science-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/science/year-1/investigate-pushes-and-pulls",
+      "evidence_scope": "Representative observed questions; see docs/question-bank-reviews/2026-09-06-year1-science-h01-i01-i02.md. Not an IXL endorsement or measured equivalence."
+    }
+  },
+  {
+    "id": "ac9s1i01-r2-p-020",
     "curriculum_code": "AC9S1I01",
     "year_level": "Year 1",
     "subject": "science",
-    "correct_index": 1
-  },
-  {
-    "id": "ac9s1i01-p-037",
-    "curriculumCode": "AC9S1I01",
     "bank": "practice",
-    "skill": "questions, patterns and predictions",
-    "printable": true,
-    "type": "single",
-    "question": "Which prediction can be checked in class?",
-    "audioPrompt": "Which prediction can be checked in class?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
+    "skill": "questions about patterns and experience-based predictions",
+    "question": "A class sees more worms in damp soil than dry soil. Which question explores the pattern?",
+    "audio_prompt": "A class sees more worms in damp soil than dry soil. Which question explores the pattern?",
+    "answers": [
+      {
+        "text": "Which patch has the darkest bucket beside it?",
+        "is_correct": false
+      },
+      {
+        "text": "Will we find more worms in another damp patch than a dry patch?",
+        "is_correct": true
+      },
+      {
+        "text": "Which patch is closest to the gate?",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The question tests whether the damp-soil pattern occurs in other patches.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "visual": {
       "type": "none",
       "alt_text": ""
     },
-    "answers": [
-      {
-        "text": "Ice on a warm windowsill may melt before ice in cool shade.",
-        "is_correct": true
-      },
-      {
-        "text": "The happier ice will melt first.",
-        "is_correct": false
-      },
-      {
-        "text": "Winter is better.",
-        "is_correct": false
-      },
-      {
-        "text": "Ice is beautiful.",
-        "is_correct": false
-      }
-    ],
-    "correct": 0,
-    "explanation": "Melting under two conditions can be observed.\nHint: Can you test it safely?",
-    "structuredExplanation": {
-      "summary": "Melting under two conditions can be observed.",
-      "hint": "Can you test it safely?"
-    },
-    "stage": "apply",
     "difficulty": 3,
-    "difficultyTier": "apply",
-    "sequencePriority": 37,
-    "qualitySchema": "skillr-actual-v6",
+    "difficulty_tier": "reason",
+    "sequence_priority": 20,
+    "review": {
+      "version": "20260906-science-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/science/year-1/investigate-pushes-and-pulls",
+      "evidence_scope": "Representative observed questions; see docs/question-bank-reviews/2026-09-06-year1-science-h01-i01-i02.md. Not an IXL endorsement or measured equivalence."
+    }
+  },
+  {
+    "id": "ac9s1i01-r2-p-021",
     "curriculum_code": "AC9S1I01",
     "year_level": "Year 1",
     "subject": "science",
-    "correct_index": 0
+    "bank": "practice",
+    "skill": "questions about patterns and experience-based predictions",
+    "question": "Read the wind record. Which prediction is best supported?",
+    "audio_prompt": "Read the wind record. Which prediction is best supported?",
+    "answers": [
+      {
+        "text": "The spinner may turn faster in a gentle breeze.",
+        "is_correct": false
+      },
+      {
+        "text": "The spinner may turn equally fast in both breezes.",
+        "is_correct": false
+      },
+      {
+        "text": "The paper spinner may turn faster in a stronger breeze.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The prediction follows the observed difference between the two conditions.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "visual": {
+      "type": "svg",
+      "alt_text": "Gentle breeze: Spinner turned slowly. Stronger breeze: Spinner turned faster.",
+      "asset_path": "/assets/assessment-visuals/year1/science/ixl-review-2/ac9s1i01-21.svg#model"
+    },
+    "difficulty": 3,
+    "difficulty_tier": "reason",
+    "sequence_priority": 21,
+    "review": {
+      "version": "20260906-science-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/science/year-1/investigate-pushes-and-pulls",
+      "evidence_scope": "Representative observed questions; see docs/question-bank-reviews/2026-09-06-year1-science-h01-i01-i02.md. Not an IXL endorsement or measured equivalence."
+    }
   },
   {
-    "id": "ac9s1i01-p-038",
-    "curriculumCode": "AC9S1I01",
+    "id": "ac9s1i01-r2-p-022",
+    "curriculum_code": "AC9S1I01",
+    "year_level": "Year 1",
+    "subject": "science",
     "bank": "practice",
-    "skill": "questions, patterns and predictions",
-    "printable": true,
-    "type": "single",
-    "question": "Which question and prediction match?",
-    "audioPrompt": "Which question and prediction match?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
+    "skill": "questions about patterns and experience-based predictions",
+    "question": "A child predicts that a folded paper bridge will hold more counters than a flat one. Which reason is most relevant?",
+    "audio_prompt": "A child predicts that a folded paper bridge will hold more counters than a flat one. Which reason is most relevant?",
+    "answers": [
+      {
+        "text": "A folded bridge held more counters in an earlier test.",
+        "is_correct": true
+      },
+      {
+        "text": "The folded bridge took longer to make.",
+        "is_correct": false
+      },
+      {
+        "text": "The child prefers folded paper.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "An earlier strength test is relevant evidence about holding counters.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "visual": {
       "type": "none",
       "alt_text": ""
     },
-    "answers": [
-      {
-        "text": "“Which cover is prettiest?” + “Plastic keeps water out.”",
-        "is_correct": false
-      },
-      {
-        "text": "“What is plastic?” + “Paper is white.”",
-        "is_correct": false
-      },
-      {
-        "text": "“Is water wet?” + “The toy is blue.”",
-        "is_correct": false
-      },
-      {
-        "text": "“Which cover keeps the toy driest?” + “Plastic may keep it drier than paper.”",
-        "is_correct": true
-      }
-    ],
-    "correct": 3,
-    "explanation": "Both parts focus on keeping the toy dry.\nHint: Same outcome in both.",
-    "structuredExplanation": {
-      "summary": "Both parts focus on keeping the toy dry.",
-      "hint": "Same outcome in both."
-    },
-    "stage": "apply",
     "difficulty": 3,
-    "difficultyTier": "apply",
-    "sequencePriority": 38,
-    "qualitySchema": "skillr-actual-v6",
+    "difficulty_tier": "reason",
+    "sequence_priority": 22,
+    "review": {
+      "version": "20260906-science-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/science/year-1/investigate-pushes-and-pulls",
+      "evidence_scope": "Representative observed questions; see docs/question-bank-reviews/2026-09-06-year1-science-h01-i01-i02.md. Not an IXL endorsement or measured equivalence."
+    }
+  },
+  {
+    "id": "ac9s1i01-r2-p-023",
     "curriculum_code": "AC9S1I01",
     "year_level": "Year 1",
     "subject": "science",
-    "correct_index": 3
-  },
-  {
-    "id": "ac9s1i01-p-039",
-    "curriculumCode": "AC9S1I01",
     "bank": "practice",
-    "skill": "questions, patterns and predictions",
-    "printable": true,
-    "type": "single",
-    "question": "More ants were near a tree than a path today. Which next prediction is sensible?",
-    "audioPrompt": "More ants were near a tree than a path today. Which next prediction is sensible?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
+    "skill": "questions about patterns and experience-based predictions",
+    "question": "A child wants to explore whether leaves collect more water on a broad surface. Which question fits?",
+    "audio_prompt": "A child wants to explore whether leaves collect more water on a broad surface. Which question fits?",
+    "answers": [
+      {
+        "text": "Which leaf is closest to the tap?",
+        "is_correct": false
+      },
+      {
+        "text": "Will a broad leaf catch more drops than a narrow leaf?",
+        "is_correct": true
+      },
+      {
+        "text": "Which leaf has the longest stem?",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The first question directly explores the proposed relationship.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "visual": {
       "type": "none",
       "alt_text": ""
     },
-    "answers": [
-      {
-        "text": "Trees create ants.",
-        "is_correct": false
-      },
-      {
-        "text": "Ants hate all paths.",
-        "is_correct": false
-      },
-      {
-        "text": "We may count more ants near the tree again tomorrow.",
-        "is_correct": true
-      },
-      {
-        "text": "There will always be exactly five ants.",
-        "is_correct": false
-      }
-    ],
-    "correct": 2,
-    "explanation": "The prediction uses the observation cautiously.\nHint: Do not turn one result into always.",
-    "structuredExplanation": {
-      "summary": "The prediction uses the observation cautiously.",
-      "hint": "Do not turn one result into always."
-    },
-    "stage": "apply",
     "difficulty": 3,
-    "difficultyTier": "apply",
-    "sequencePriority": 39,
-    "qualitySchema": "skillr-actual-v6",
+    "difficulty_tier": "reason",
+    "sequence_priority": 23,
+    "review": {
+      "version": "20260906-science-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/science/year-1/investigate-pushes-and-pulls",
+      "evidence_scope": "Representative observed questions; see docs/question-bank-reviews/2026-09-06-year1-science-h01-i01-i02.md. Not an IXL endorsement or measured equivalence."
+    }
+  },
+  {
+    "id": "ac9s1i01-r2-p-024",
     "curriculum_code": "AC9S1I01",
     "year_level": "Year 1",
     "subject": "science",
-    "correct_index": 2
-  },
-  {
-    "id": "ac9s1i01-p-040",
-    "curriculumCode": "AC9S1I01",
     "bank": "practice",
-    "skill": "questions, patterns and predictions",
-    "printable": true,
-    "type": "single",
-    "question": "Which investigation has question, prediction and evidence all matched?",
-    "audioPrompt": "Which investigation has question, prediction and evidence all matched?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
+    "skill": "questions about patterns and experience-based predictions",
+    "question": "A child asks which toy boat will carry more counters before sinking. Which prediction stays focused?",
+    "audio_prompt": "A child asks which toy boat will carry more counters before sinking. Which prediction stays focused?",
+    "answers": [
+      {
+        "text": "Boat B may look brighter than Boat A.",
+        "is_correct": false
+      },
+      {
+        "text": "Boat B may have a longer name than Boat A.",
+        "is_correct": false
+      },
+      {
+        "text": "Boat B may carry more counters than Boat A.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The prediction names the outcome in the question: counters carried before sinking.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "visual": {
       "type": "none",
       "alt_text": ""
     },
-    "answers": [
-      {
-        "text": "Which ice melts first? → ice is cold → vote for favourite.",
-        "is_correct": false
-      },
-      {
-        "text": "Which ball rolls farther? → round ball may roll farther → measure each distance.",
-        "is_correct": true
-      },
-      {
-        "text": "Which towel absorbs more? → blue is pretty → count windows.",
-        "is_correct": false
-      },
-      {
-        "text": "Which seed sprouts first? → pots are brown → measure table.",
-        "is_correct": false
-      }
-    ],
-    "correct": 1,
-    "explanation": "All parts of the first investigation focus on the same outcome.\nHint: Question, prediction, evidence must line up.",
-    "structuredExplanation": {
-      "summary": "All parts of the first investigation focus on the same outcome.",
-      "hint": "Question, prediction, evidence must line up."
-    },
-    "stage": "apply",
     "difficulty": 3,
-    "difficultyTier": "apply",
-    "sequencePriority": 40,
-    "qualitySchema": "skillr-actual-v6",
+    "difficulty_tier": "reason",
+    "sequence_priority": 24,
+    "review": {
+      "version": "20260906-science-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/science/year-1/investigate-pushes-and-pulls",
+      "evidence_scope": "Representative observed questions; see docs/question-bank-reviews/2026-09-06-year1-science-h01-i01-i02.md. Not an IXL endorsement or measured equivalence."
+    }
+  },
+  {
+    "id": "ac9s1i01-r2-t-001",
     "curriculum_code": "AC9S1I01",
     "year_level": "Year 1",
     "subject": "science",
-    "correct_index": 1
-  },
-  {
-    "id": "ac9s1i01-t-001",
-    "curriculumCode": "AC9S1I01",
     "bank": "test",
-    "skill": "questions, patterns and predictions",
-    "printable": true,
-    "type": "single",
-    "question": "Two channels carry water across sand. Which question can be investigated by watching them?",
-    "audioPrompt": "Two channels carry water across sand. Which question can be investigated by watching them?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
+    "skill": "questions about patterns and experience-based predictions",
+    "question": "Two cloths will be used to wipe water. Which question compares how well they soak it up?",
+    "audio_prompt": "Two cloths will be used to wipe water. Which question compares how well they soak it up?",
+    "answers": [
+      {
+        "text": "Which cloth will soak up more water?",
+        "is_correct": true
+      },
+      {
+        "text": "Which cloth is longer now?",
+        "is_correct": false
+      },
+      {
+        "text": "Which cloth has more stripes?",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The question asks about absorbing water, which is the planned comparison.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "visual": {
       "type": "none",
       "alt_text": ""
     },
-    "answers": [
-      {
-        "text": "Why is the ocean beautiful?",
-        "is_correct": false
-      },
-      {
-        "text": "Which channel is happier?",
-        "is_correct": false
-      },
-      {
-        "text": "Is sand the best material?",
-        "is_correct": false
-      },
-      {
-        "text": "Which channel carries water farther before soaking in?",
-        "is_correct": true
-      }
-    ],
-    "correct": 3,
-    "explanation": "The first asks about an observable distance.\nHint: Choose what can be watched or measured.",
-    "structuredExplanation": {
-      "summary": "The first asks about an observable distance.",
-      "hint": "Choose what can be watched or measured."
-    },
     "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 1,
-    "qualitySchema": "skillr-actual-v6",
-    "curriculum_code": "AC9S1I01",
-    "year_level": "Year 1",
-    "subject": "science",
-    "correct_index": 3
+    "difficulty_tier": "independent",
+    "sequence_priority": 1,
+    "review": {
+      "version": "20260906-science-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/science/year-1/investigate-pushes-and-pulls",
+      "evidence_scope": "Representative observed questions; see docs/question-bank-reviews/2026-09-06-year1-science-h01-i01-i02.md. Not an IXL endorsement or measured equivalence."
+    }
   },
   {
-    "id": "ac9s1i01-t-002",
-    "curriculumCode": "AC9S1I01",
-    "bank": "test",
-    "skill": "questions, patterns and predictions",
-    "printable": true,
-    "type": "single",
-    "question": "Before placing leaves in sun and shade, which sentence is a prediction?",
-    "audioPrompt": "Before placing leaves in sun and shade, which sentence is a prediction?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "The sunny leaf dried first.",
-        "is_correct": false
-      },
-      {
-        "text": "The shade is beside the fence.",
-        "is_correct": false
-      },
-      {
-        "text": "I think the sunny leaf will dry faster.",
-        "is_correct": true
-      },
-      {
-        "text": "The leaves are green.",
-        "is_correct": false
-      }
-    ],
-    "correct": 2,
-    "explanation": "It states an expected result before testing.\nHint: Future result.",
-    "structuredExplanation": {
-      "summary": "It states an expected result before testing.",
-      "hint": "Future result."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 2,
-    "qualitySchema": "skillr-actual-v6",
+    "id": "ac9s1i01-r2-t-002",
     "curriculum_code": "AC9S1I01",
     "year_level": "Year 1",
     "subject": "science",
-    "correct_index": 2
+    "bank": "test",
+    "skill": "questions about patterns and experience-based predictions",
+    "question": "Before rolling a ball, a child says, 'It may reach the tape.' What is the child giving?",
+    "audio_prompt": "Before rolling a ball, a child says, 'It may reach the tape.' What is the child giving?",
+    "answers": [
+      {
+        "text": "a past observation",
+        "is_correct": false
+      },
+      {
+        "text": "a prediction",
+        "is_correct": true
+      },
+      {
+        "text": "a measured result",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The child is describing an expected outcome before the roll.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 2,
+    "review": {
+      "version": "20260906-science-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/science/year-1/investigate-pushes-and-pulls",
+      "evidence_scope": "Representative observed questions; see docs/question-bank-reviews/2026-09-06-year1-science-h01-i01-i02.md. Not an IXL endorsement or measured equivalence."
+    }
   },
   {
-    "id": "ac9s1i01-t-003",
-    "curriculumCode": "AC9S1I01",
-    "bank": "test",
-    "skill": "questions, patterns and predictions",
-    "printable": true,
-    "type": "single",
-    "question": "A wet sock dried quickly on the clothesline yesterday. Which reason can support “It may dry quickly outside today”?",
-    "audioPrompt": "A wet sock dried quickly on the clothesline yesterday. Which reason can support “It may dry quickly outside today”?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "The peg is red.",
-        "is_correct": false
-      },
-      {
-        "text": "Yesterday’s outdoor drying is relevant experience.",
-        "is_correct": true
-      },
-      {
-        "text": "The sock is blue.",
-        "is_correct": false
-      },
-      {
-        "text": "Tuesday is lucky.",
-        "is_correct": false
-      }
-    ],
-    "correct": 1,
-    "explanation": "The previous drying experience relates directly to the prediction.\nHint: Use relevant past evidence.",
-    "structuredExplanation": {
-      "summary": "The previous drying experience relates directly to the prediction.",
-      "hint": "Use relevant past evidence."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 3,
-    "qualitySchema": "skillr-actual-v6",
+    "id": "ac9s1i01-r2-t-003",
     "curriculum_code": "AC9S1I01",
     "year_level": "Year 1",
     "subject": "science",
-    "correct_index": 1
+    "bank": "test",
+    "skill": "questions about patterns and experience-based predictions",
+    "question": "A paper fan moved farther in a stronger breeze yesterday. Which prediction uses that experience?",
+    "audio_prompt": "A paper fan moved farther in a stronger breeze yesterday. Which prediction uses that experience?",
+    "answers": [
+      {
+        "text": "It may move farther in a gentle breeze instead.",
+        "is_correct": false
+      },
+      {
+        "text": "It may move equally far in the two breezes.",
+        "is_correct": false
+      },
+      {
+        "text": "It may move farther in a stronger breeze again.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The prediction matches the earlier relationship without making an absolute rule.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 3,
+    "review": {
+      "version": "20260906-science-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/science/year-1/investigate-pushes-and-pulls",
+      "evidence_scope": "Representative observed questions; see docs/question-bank-reviews/2026-09-06-year1-science-h01-i01-i02.md. Not an IXL endorsement or measured equivalence."
+    }
   },
   {
-    "id": "ac9s1i01-t-004",
-    "curriculumCode": "AC9S1I01",
-    "bank": "test",
-    "skill": "questions, patterns and predictions",
-    "printable": true,
-    "type": "single",
-    "question": "Which question could be answered by counting shell visits by hermit crabs?",
-    "audioPrompt": "Which question could be answered by counting shell visits by hermit crabs?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Which shell is entered most often?",
-        "is_correct": true
-      },
-      {
-        "text": "Why are crabs funny?",
-        "is_correct": false
-      },
-      {
-        "text": "Which shell is nicest?",
-        "is_correct": false
-      },
-      {
-        "text": "Do shells have feelings?",
-        "is_correct": false
-      }
-    ],
-    "correct": 0,
-    "explanation": "Entries can be observed and counted.\nHint: Look for countable evidence.",
-    "structuredExplanation": {
-      "summary": "Entries can be observed and counted.",
-      "hint": "Look for countable evidence."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 4,
-    "qualitySchema": "skillr-actual-v6",
+    "id": "ac9s1i01-r2-t-004",
     "curriculum_code": "AC9S1I01",
     "year_level": "Year 1",
     "subject": "science",
-    "correct_index": 0
+    "bank": "test",
+    "skill": "questions about patterns and experience-based predictions",
+    "question": "Read the puddle record. Which question explores its pattern?",
+    "audio_prompt": "Read the puddle record. Which question explores its pattern?",
+    "answers": [
+      {
+        "text": "Will the sunny puddle dry first on another similar day?",
+        "is_correct": true
+      },
+      {
+        "text": "Which puddle has the nicest shape?",
+        "is_correct": false
+      },
+      {
+        "text": "How many shoes are near the puddles?",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The question explores the recorded relationship between place and drying.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "visual": {
+      "type": "svg",
+      "alt_text": "First similar day: Sunny puddle dried first. Second similar day: Sunny puddle dried first.",
+      "asset_path": "/assets/assessment-visuals/year1/science/ixl-review-2/ac9s1i01-28.svg#model"
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 4,
+    "review": {
+      "version": "20260906-science-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/science/year-1/investigate-pushes-and-pulls",
+      "evidence_scope": "Representative observed questions; see docs/question-bank-reviews/2026-09-06-year1-science-h01-i01-i02.md. Not an IXL endorsement or measured equivalence."
+    }
   },
   {
-    "id": "ac9s1i01-t-005",
-    "curriculumCode": "AC9S1I01",
-    "bank": "test",
-    "skill": "questions, patterns and predictions",
-    "printable": true,
-    "type": "single",
-    "question": "A child asks which paper towel holds more water. Which prediction matches?",
-    "audioPrompt": "A child asks which paper towel holds more water. Which prediction matches?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Towel B looks brighter.",
-        "is_correct": false
-      },
-      {
-        "text": "Water is clear.",
-        "is_correct": false
-      },
-      {
-        "text": "The table is wet.",
-        "is_correct": false
-      },
-      {
-        "text": "Towel B may hold more water than towel A.",
-        "is_correct": true
-      }
-    ],
-    "correct": 3,
-    "explanation": "The prediction addresses the same water-holding outcome.\nHint: Same question, same outcome.",
-    "structuredExplanation": {
-      "summary": "The prediction addresses the same water-holding outcome.",
-      "hint": "Same question, same outcome."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 5,
-    "qualitySchema": "skillr-actual-v6",
+    "id": "ac9s1i01-r2-t-005",
     "curriculum_code": "AC9S1I01",
     "year_level": "Year 1",
     "subject": "science",
-    "correct_index": 3
+    "bank": "test",
+    "skill": "questions about patterns and experience-based predictions",
+    "question": "A child predicts that an umbrella cover will keep paper dry. Which reason is relevant?",
+    "audio_prompt": "A child predicts that an umbrella cover will keep paper dry. Which reason is relevant?",
+    "answers": [
+      {
+        "text": "The child likes the cover's colour.",
+        "is_correct": false
+      },
+      {
+        "text": "The cover kept water out in a previous test.",
+        "is_correct": true
+      },
+      {
+        "text": "The cover has a long name.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Experience with keeping water out supports the prediction.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 5,
+    "review": {
+      "version": "20260906-science-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/science/year-1/investigate-pushes-and-pulls",
+      "evidence_scope": "Representative observed questions; see docs/question-bank-reviews/2026-09-06-year1-science-h01-i01-i02.md. Not an IXL endorsement or measured equivalence."
+    }
   },
   {
-    "id": "ac9s1i01-t-006",
-    "curriculumCode": "AC9S1I01",
-    "bank": "test",
-    "skill": "questions, patterns and predictions",
-    "printable": true,
-    "type": "single",
-    "question": "Which result would challenge “The smooth ball will roll farther”?",
-    "audioPrompt": "Which result would challenge “The smooth ball will roll farther”?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "The ramp is wooden.",
-        "is_correct": false
-      },
-      {
-        "text": "Both balls are round.",
-        "is_correct": false
-      },
-      {
-        "text": "The rough ball travels farther in the test.",
-        "is_correct": true
-      },
-      {
-        "text": "The smooth ball is red.",
-        "is_correct": false
-      }
-    ],
-    "correct": 2,
-    "explanation": "A contrary rolling-distance result would not support the prediction.\nHint: Compare the predicted and observed outcome.",
-    "structuredExplanation": {
-      "summary": "A contrary rolling-distance result would not support the prediction.",
-      "hint": "Compare the predicted and observed outcome."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 6,
-    "qualitySchema": "skillr-actual-v6",
+    "id": "ac9s1i01-r2-t-006",
     "curriculum_code": "AC9S1I01",
     "year_level": "Year 1",
     "subject": "science",
-    "correct_index": 2
+    "bank": "test",
+    "skill": "questions about patterns and experience-based predictions",
+    "question": "A class asks which ramp lets a car travel farther. Which prediction matches?",
+    "audio_prompt": "A class asks which ramp lets a car travel farther. Which prediction matches?",
+    "answers": [
+      {
+        "text": "The higher ramp may look brighter.",
+        "is_correct": false
+      },
+      {
+        "text": "The higher ramp may have more tape.",
+        "is_correct": false
+      },
+      {
+        "text": "The higher ramp may let it travel farther.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The prediction addresses travel, the outcome being explored.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 6,
+    "review": {
+      "version": "20260906-science-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/science/year-1/investigate-pushes-and-pulls",
+      "evidence_scope": "Representative observed questions; see docs/question-bank-reviews/2026-09-06-year1-science-h01-i01-i02.md. Not an IXL endorsement or measured equivalence."
+    }
   },
   {
-    "id": "ac9s1i01-t-007",
-    "curriculumCode": "AC9S1I01",
-    "bank": "test",
-    "skill": "questions, patterns and predictions",
-    "printable": true,
-    "type": "single",
-    "question": "Why should two plant pots be watched for the same number of days?",
-    "audioPrompt": "Why should two plant pots be watched for the same number of days?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "So no measuring is needed.",
-        "is_correct": false
-      },
-      {
-        "text": "So their growth observations can be compared fairly.",
-        "is_correct": true
-      },
-      {
-        "text": "So they become the same colour.",
-        "is_correct": false
-      },
-      {
-        "text": "So both must grow equally.",
-        "is_correct": false
-      }
-    ],
-    "correct": 1,
-    "explanation": "Equal observation time makes the comparison clearer.\nHint: Keep the comparison conditions alike.",
-    "structuredExplanation": {
-      "summary": "Equal observation time makes the comparison clearer.",
-      "hint": "Keep the comparison conditions alike."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 7,
-    "qualitySchema": "skillr-actual-v6",
+    "id": "ac9s1i01-r2-t-007",
     "curriculum_code": "AC9S1I01",
     "year_level": "Year 1",
     "subject": "science",
-    "correct_index": 1
+    "bank": "test",
+    "skill": "questions about patterns and experience-based predictions",
+    "question": "A child says, 'The sponge will be good.' What needs to be made clearer for a water test?",
+    "audio_prompt": "A child says, 'The sponge will be good.' What needs to be made clearer for a water test?",
+    "answers": [
+      {
+        "text": "what the sponge is expected to do with the water",
+        "is_correct": true
+      },
+      {
+        "text": "the child's favourite colour",
+        "is_correct": false
+      },
+      {
+        "text": "the name of the classroom",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A useful prediction names the expected observable outcome.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 7,
+    "review": {
+      "version": "20260906-science-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/science/year-1/investigate-pushes-and-pulls",
+      "evidence_scope": "Representative observed questions; see docs/question-bank-reviews/2026-09-06-year1-science-h01-i01-i02.md. Not an IXL endorsement or measured equivalence."
+    }
   },
   {
-    "id": "ac9s1i01-t-008",
-    "curriculumCode": "AC9S1I01",
-    "bank": "test",
-    "skill": "questions, patterns and predictions",
-    "printable": true,
-    "type": "single",
-    "question": "Which is a weak reason for predicting one magnet will pick up more clips?",
-    "audioPrompt": "Which is a weak reason for predicting one magnet will pick up more clips?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "It is my favourite colour.",
-        "is_correct": true
-      },
-      {
-        "text": "It picked up more clips yesterday.",
-        "is_correct": false
-      },
-      {
-        "text": "It is the same magnet that worked strongly before.",
-        "is_correct": false
-      },
-      {
-        "text": "Past tests showed it collected more clips.",
-        "is_correct": false
-      }
-    ],
-    "correct": 0,
-    "explanation": "Favourite colour is not evidence about magnetic performance.\nHint: Relevant evidence only.",
-    "structuredExplanation": {
-      "summary": "Favourite colour is not evidence about magnetic performance.",
-      "hint": "Relevant evidence only."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 8,
-    "qualitySchema": "skillr-actual-v6",
+    "id": "ac9s1i01-r2-t-008",
     "curriculum_code": "AC9S1I01",
     "year_level": "Year 1",
     "subject": "science",
-    "correct_index": 0
+    "bank": "test",
+    "skill": "questions about patterns and experience-based predictions",
+    "question": "Bees were seen at flower patch A more often than patch B on several visits. What might the class predict?",
+    "audio_prompt": "Bees were seen at flower patch A more often than patch B on several visits. What might the class predict?",
+    "answers": [
+      {
+        "text": "They can never see a bee at B.",
+        "is_correct": false
+      },
+      {
+        "text": "They may see more bees at A next time.",
+        "is_correct": true
+      },
+      {
+        "text": "They must see exactly five bees at A.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The repeated comparison supports a cautious prediction about the next visit.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 8,
+    "review": {
+      "version": "20260906-science-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/science/year-1/investigate-pushes-and-pulls",
+      "evidence_scope": "Representative observed questions; see docs/question-bank-reviews/2026-09-06-year1-science-h01-i01-i02.md. Not an IXL endorsement or measured equivalence."
+    }
   },
   {
-    "id": "ac9s1i01-t-009",
-    "curriculumCode": "AC9S1I01",
-    "bank": "test",
-    "skill": "questions, patterns and predictions",
-    "printable": true,
-    "type": "single",
-    "question": "A child predicts the sunny puddle will dry first. What evidence should they collect?",
-    "audioPrompt": "A child predicts the sunny puddle will dry first. What evidence should they collect?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "The colour of nearby shoes.",
-        "is_correct": false
-      },
-      {
-        "text": "How many clouds are drawn in a book.",
-        "is_correct": false
-      },
-      {
-        "text": "Which puddle looks nicer.",
-        "is_correct": false
-      },
-      {
-        "text": "How long each puddle takes to dry.",
-        "is_correct": true
-      }
-    ],
-    "correct": 3,
-    "explanation": "Drying time directly checks the prediction.\nHint: Measure the outcome.",
-    "structuredExplanation": {
-      "summary": "Drying time directly checks the prediction.",
-      "hint": "Measure the outcome."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 9,
-    "qualitySchema": "skillr-actual-v6",
+    "id": "ac9s1i01-r2-t-009",
     "curriculum_code": "AC9S1I01",
     "year_level": "Year 1",
     "subject": "science",
-    "correct_index": 3
+    "bank": "test",
+    "skill": "questions about patterns and experience-based predictions",
+    "question": "A child wants to explore whether a mat changes a ball's bounce. Which question fits?",
+    "audio_prompt": "A child wants to explore whether a mat changes a ball's bounce. Which question fits?",
+    "answers": [
+      {
+        "text": "What colour is the mat?",
+        "is_correct": false
+      },
+      {
+        "text": "Who put the mat on the floor?",
+        "is_correct": false
+      },
+      {
+        "text": "Will the ball bounce differently on the mat and floor?",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The question compares the ball's bounce under the two conditions.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 9,
+    "review": {
+      "version": "20260906-science-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/science/year-1/investigate-pushes-and-pulls",
+      "evidence_scope": "Representative observed questions; see docs/question-bank-reviews/2026-09-06-year1-science-h01-i01-i02.md. Not an IXL endorsement or measured equivalence."
+    }
   },
   {
-    "id": "ac9s1i01-t-010",
-    "curriculumCode": "AC9S1I01",
-    "bank": "test",
-    "skill": "questions, patterns and predictions",
-    "printable": true,
-    "type": "single",
-    "question": "Which statement is an observation rather than a prediction?",
-    "audioPrompt": "Which statement is an observation rather than a prediction?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "I think the red balloon will win.",
-        "is_correct": false
-      },
-      {
-        "text": "It might reach the wall.",
-        "is_correct": false
-      },
-      {
-        "text": "The balloon moved 2 metres.",
-        "is_correct": true
-      },
-      {
-        "text": "The balloon may move farther with a stronger fan.",
-        "is_correct": false
-      }
-    ],
-    "correct": 2,
-    "explanation": "The first reports what already happened.\nHint: Past result.",
-    "structuredExplanation": {
-      "summary": "The first reports what already happened.",
-      "hint": "Past result."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 10,
-    "qualitySchema": "skillr-actual-v6",
+    "id": "ac9s1i01-r2-t-010",
     "curriculum_code": "AC9S1I01",
     "year_level": "Year 1",
     "subject": "science",
-    "correct_index": 2
+    "bank": "test",
+    "skill": "questions about patterns and experience-based predictions",
+    "question": "Which statement predicts a result rather than reporting one?",
+    "audio_prompt": "Which statement predicts a result rather than reporting one?",
+    "answers": [
+      {
+        "text": "The clay may become flatter when pressed.",
+        "is_correct": true
+      },
+      {
+        "text": "The clay became flatter when pressed.",
+        "is_correct": false
+      },
+      {
+        "text": "The clay is flat on the table now.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The word 'may' here describes an expected future change, while the other statements report observations.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 10,
+    "review": {
+      "version": "20260906-science-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/science/year-1/investigate-pushes-and-pulls",
+      "evidence_scope": "Representative observed questions; see docs/question-bank-reviews/2026-09-06-year1-science-h01-i01-i02.md. Not an IXL endorsement or measured equivalence."
+    }
   },
   {
-    "id": "ac9s1i01-t-011",
-    "curriculumCode": "AC9S1I01",
-    "bank": "test",
-    "skill": "questions, patterns and predictions",
-    "printable": true,
-    "type": "single",
-    "question": "A marble test gives a different result than expected. What should be recorded?",
-    "audioPrompt": "A marble test gives a different result than expected. What should be recorded?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Nothing.",
-        "is_correct": false
-      },
-      {
-        "text": "The actual distance the marble travelled.",
-        "is_correct": true
-      },
-      {
-        "text": "Only the prediction.",
-        "is_correct": false
-      },
-      {
-        "text": "A changed distance that fits the guess.",
-        "is_correct": false
-      }
-    ],
-    "correct": 1,
-    "explanation": "Real evidence should be kept even when unexpected.\nHint: Record what happened.",
-    "structuredExplanation": {
-      "summary": "Real evidence should be kept even when unexpected.",
-      "hint": "Record what happened."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 11,
-    "qualitySchema": "skillr-actual-v6",
+    "id": "ac9s1i01-r2-t-011",
     "curriculum_code": "AC9S1I01",
     "year_level": "Year 1",
     "subject": "science",
-    "correct_index": 1
+    "bank": "test",
+    "skill": "questions about patterns and experience-based predictions",
+    "question": "Read the boat record. Which prediction uses the earlier tests?",
+    "audio_prompt": "Read the boat record. Which prediction uses the earlier tests?",
+    "answers": [
+      {
+        "text": "Both boats may hold the same number next time.",
+        "is_correct": false
+      },
+      {
+        "text": "Boat A may hold more counters again.",
+        "is_correct": true
+      },
+      {
+        "text": "Boat B may hold more counters next time.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The record shows Boat A held more in both earlier comparisons.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "visual": {
+      "type": "svg",
+      "alt_text": "Test 1: Boat A held more counters. Test 2: Boat A held more counters.",
+      "asset_path": "/assets/assessment-visuals/year1/science/ixl-review-2/ac9s1i01-35.svg#model"
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 11,
+    "review": {
+      "version": "20260906-science-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/science/year-1/investigate-pushes-and-pulls",
+      "evidence_scope": "Representative observed questions; see docs/question-bank-reviews/2026-09-06-year1-science-h01-i01-i02.md. Not an IXL endorsement or measured equivalence."
+    }
   },
   {
-    "id": "ac9s1i01-t-012",
-    "curriculumCode": "AC9S1I01",
-    "bank": "test",
-    "skill": "questions, patterns and predictions",
-    "printable": true,
-    "type": "single",
-    "question": "Which question is too vague for a simple test?",
-    "audioPrompt": "Which question is too vague for a simple test?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Which material is best?",
-        "is_correct": true
-      },
-      {
-        "text": "Which material bends most under the same weight?",
-        "is_correct": false
-      },
-      {
-        "text": "Which cup holds more water?",
-        "is_correct": false
-      },
-      {
-        "text": "Which ball rolls farthest?",
-        "is_correct": false
-      }
-    ],
-    "correct": 0,
-    "explanation": "“Best” does not name what feature to compare.\nHint: Best at what?",
-    "structuredExplanation": {
-      "summary": "“Best” does not name what feature to compare.",
-      "hint": "Best at what?"
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 12,
-    "qualitySchema": "skillr-actual-v6",
+    "id": "ac9s1i01-r2-t-012",
     "curriculum_code": "AC9S1I01",
     "year_level": "Year 1",
     "subject": "science",
-    "correct_index": 0
+    "bank": "test",
+    "skill": "questions about patterns and experience-based predictions",
+    "question": "A child predicts a shady spot will keep ice longer. Which experience supports this?",
+    "audio_prompt": "A child predicts a shady spot will keep ice longer. Which experience supports this?",
+    "answers": [
+      {
+        "text": "The shady spot is beside a tall fence.",
+        "is_correct": false
+      },
+      {
+        "text": "The child likes sitting in shade.",
+        "is_correct": false
+      },
+      {
+        "text": "Ice lasted longer in a cooler spot before.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The earlier melting experience is the relevant reason.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 12,
+    "review": {
+      "version": "20260906-science-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/science/year-1/investigate-pushes-and-pulls",
+      "evidence_scope": "Representative observed questions; see docs/question-bank-reviews/2026-09-06-year1-science-h01-i01-i02.md. Not an IXL endorsement or measured equivalence."
+    }
   },
   {
-    "id": "ac9s1i01-t-013",
-    "curriculumCode": "AC9S1I01",
-    "bank": "test",
-    "skill": "questions, patterns and predictions",
-    "printable": true,
-    "type": "single",
-    "question": "A child sees birds visit a feeder after seed is added on four mornings. Which prediction is cautious?",
-    "audioPrompt": "A child sees birds visit a feeder after seed is added on four mornings. Which prediction is cautious?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Birds must visit forever.",
-        "is_correct": false
-      },
-      {
-        "text": "Exactly four birds will arrive.",
-        "is_correct": false
-      },
-      {
-        "text": "Seed creates birds.",
-        "is_correct": false
-      },
-      {
-        "text": "Birds may visit again after seed is added tomorrow.",
-        "is_correct": true
-      }
-    ],
-    "correct": 3,
-    "explanation": "The repeated pattern supports a cautious expectation.\nHint: May, not must.",
-    "structuredExplanation": {
-      "summary": "The repeated pattern supports a cautious expectation.",
-      "hint": "May, not must."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 13,
-    "qualitySchema": "skillr-actual-v6",
+    "id": "ac9s1i01-r2-t-013",
     "curriculum_code": "AC9S1I01",
     "year_level": "Year 1",
     "subject": "science",
-    "correct_index": 3
+    "bank": "test",
+    "skill": "questions about patterns and experience-based predictions",
+    "question": "A class notices soil under leaf cover stays damp longer. Which question follows?",
+    "audio_prompt": "A class notices soil under leaf cover stays damp longer. Which question follows?",
+    "answers": [
+      {
+        "text": "Will soil under another leaf cover stay damp longer too?",
+        "is_correct": true
+      },
+      {
+        "text": "How many letters are in 'leaves'?",
+        "is_correct": false
+      },
+      {
+        "text": "Which child likes gardening most?",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The question explores whether the observed relationship repeats.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 13,
+    "review": {
+      "version": "20260906-science-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/science/year-1/investigate-pushes-and-pulls",
+      "evidence_scope": "Representative observed questions; see docs/question-bank-reviews/2026-09-06-year1-science-h01-i01-i02.md. Not an IXL endorsement or measured equivalence."
+    }
   },
   {
-    "id": "ac9s1i01-t-014",
-    "curriculumCode": "AC9S1I01",
-    "bank": "test",
-    "skill": "questions, patterns and predictions",
-    "printable": true,
-    "type": "single",
-    "question": "Which plan best tests whether warm water dissolves sugar faster than cool water?",
-    "audioPrompt": "Which plan best tests whether warm water dissolves sugar faster than cool water?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Choose the prettier cup.",
-        "is_correct": false
-      },
-      {
-        "text": "Taste only one cup.",
-        "is_correct": false
-      },
-      {
-        "text": "Use equal sugar amounts and compare dissolving time in warm and cool water.",
-        "is_correct": true
-      },
-      {
-        "text": "Use different sugar amounts and guess.",
-        "is_correct": false
-      }
-    ],
-    "correct": 2,
-    "explanation": "The plan focuses on the compared condition and outcome.\nHint: Keep other things alike.",
-    "structuredExplanation": {
-      "summary": "The plan focuses on the compared condition and outcome.",
-      "hint": "Keep other things alike."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 14,
-    "qualitySchema": "skillr-actual-v6",
+    "id": "ac9s1i01-r2-t-014",
     "curriculum_code": "AC9S1I01",
     "year_level": "Year 1",
     "subject": "science",
-    "correct_index": 2
+    "bank": "test",
+    "skill": "questions about patterns and experience-based predictions",
+    "question": "A child asks which paper bridge holds more blocks. Which prediction answers it?",
+    "audio_prompt": "A child asks which paper bridge holds more blocks. Which prediction answers it?",
+    "answers": [
+      {
+        "text": "The folded bridge may take longer to fold.",
+        "is_correct": false
+      },
+      {
+        "text": "The folded bridge may hold more blocks.",
+        "is_correct": true
+      },
+      {
+        "text": "The folded bridge may be a different colour.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Only the first prediction addresses the number of blocks held.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 14,
+    "review": {
+      "version": "20260906-science-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/science/year-1/investigate-pushes-and-pulls",
+      "evidence_scope": "Representative observed questions; see docs/question-bank-reviews/2026-09-06-year1-science-h01-i01-i02.md. Not an IXL endorsement or measured equivalence."
+    }
   },
   {
-    "id": "ac9s1i01-t-015",
-    "curriculumCode": "AC9S1I01",
-    "bank": "test",
-    "skill": "questions, patterns and predictions",
-    "printable": true,
-    "type": "single",
-    "question": "Question: “Which toy car travels farther?” Prediction: “Car A may travel farther.” What evidence is needed?",
-    "audioPrompt": "Question: “Which toy car travels farther?” Prediction: “Car A may travel farther.” What evidence is needed?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Number of wheels drawn on the box.",
-        "is_correct": false
-      },
-      {
-        "text": "Distance travelled by both cars.",
-        "is_correct": true
-      },
-      {
-        "text": "Car colours.",
-        "is_correct": false
-      },
-      {
-        "text": "Child’s favourite car.",
-        "is_correct": false
-      }
-    ],
-    "correct": 1,
-    "explanation": "Distances from both cars directly test the prediction.\nHint: Measure both sides.",
-    "structuredExplanation": {
-      "summary": "Distances from both cars directly test the prediction.",
-      "hint": "Measure both sides."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 15,
-    "qualitySchema": "skillr-actual-v6",
+    "id": "ac9s1i01-r2-t-015",
     "curriculum_code": "AC9S1I01",
     "year_level": "Year 1",
     "subject": "science",
-    "correct_index": 1
+    "bank": "test",
+    "skill": "questions about patterns and experience-based predictions",
+    "question": "A child has one observation of a plant leaning towards light. What is a suitable prediction?",
+    "audio_prompt": "A child has one observation of a plant leaning towards light. What is a suitable prediction?",
+    "answers": [
+      {
+        "text": "Every plant must lean exactly the same amount.",
+        "is_correct": false
+      },
+      {
+        "text": "Plants can only grow beside this window.",
+        "is_correct": false
+      },
+      {
+        "text": "Another plant may lean towards the light too.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "One observation can suggest an expectation, but cannot prove an exact rule for all plants.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 15,
+    "review": {
+      "version": "20260906-science-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/science/year-1/investigate-pushes-and-pulls",
+      "evidence_scope": "Representative observed questions; see docs/question-bank-reviews/2026-09-06-year1-science-h01-i01-i02.md. Not an IXL endorsement or measured equivalence."
+    }
   },
   {
-    "id": "ac9s1i01-t-016",
-    "curriculumCode": "AC9S1I01",
-    "bank": "test",
-    "skill": "questions, patterns and predictions",
-    "printable": true,
-    "type": "single",
-    "question": "Which conclusion uses evidence honestly?",
-    "audioPrompt": "Which conclusion uses evidence honestly?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "My prediction was not supported because the shaded ice melted first in this test.",
-        "is_correct": true
-      },
-      {
-        "text": "My prediction was right even though the result was opposite.",
-        "is_correct": false
-      },
-      {
-        "text": "I changed the result to fit.",
-        "is_correct": false
-      },
-      {
-        "text": "Unexpected results do not count.",
-        "is_correct": false
-      }
-    ],
-    "correct": 0,
-    "explanation": "A conclusion should match the observed result.\nHint: What did the evidence show?",
-    "structuredExplanation": {
-      "summary": "A conclusion should match the observed result.",
-      "hint": "What did the evidence show?"
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 16,
-    "qualitySchema": "skillr-actual-v6",
+    "id": "ac9s1i01-r2-t-016",
     "curriculum_code": "AC9S1I01",
     "year_level": "Year 1",
     "subject": "science",
-    "correct_index": 0
+    "bank": "test",
+    "skill": "questions about patterns and experience-based predictions",
+    "question": "A test will compare how far two cars roll. Which question and prediction belong together?",
+    "audio_prompt": "A test will compare how far two cars roll. Which question and prediction belong together?",
+    "answers": [
+      {
+        "text": "Which goes farther? Car A may go farther.",
+        "is_correct": true
+      },
+      {
+        "text": "Which goes farther? Car A has four wheels.",
+        "is_correct": false
+      },
+      {
+        "text": "Which goes farther? Car A is red now.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The first pair links a question to an expected outcome. The other endings describe present features.",
+      "hint": "Look for the observation that supports your answer."
+    },
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 16,
+    "review": {
+      "version": "20260906-science-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/science/year-1/investigate-pushes-and-pulls",
+      "evidence_scope": "Representative observed questions; see docs/question-bank-reviews/2026-09-06-year1-science-h01-i01-i02.md. Not an IXL endorsement or measured equivalence."
+    }
   }
 ]
