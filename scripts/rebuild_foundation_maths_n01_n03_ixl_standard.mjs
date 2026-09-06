@@ -123,6 +123,13 @@ function item(code, bank, index, detail) {
     difficultyTier: bank === "test" ? "independent" : index < 18 ? "recognise" : index < 42 ? "apply" : "reason",
     sequencePriority: index + 1,
     qualitySchema: "foundation-maths-ixl-standard-v1",
+    editorialReview: {
+      status: "reviewed",
+      date: "2026-09-06",
+      method: "ACARA descriptor mapped against actual IXL Foundation skill-page examples and representative questions",
+      evidence: "docs/foundation-maths-n01-n03-question-bank-ixl-standard-2026-09-06.md",
+      originality: "Original SkillrHub wording and visuals; IXL used only for instructional structure and cognitive-load benchmarking.",
+    },
   };
 }
 
@@ -429,7 +436,7 @@ function n03Detail(seed, bank) {
 }
 
 function buildBank(code, bank) {
-  const target = bank === "practice" ? 56 : 24;
+  const target = bank === "practice" ? 24 : 16;
   const detailFor = code === "AC9MFN01" ? n01Detail : code === "AC9MFN02" ? n02Detail : n03Detail;
   const start = bank === "test" ? 101 : 0;
   return Array.from({ length: target }, (_, index) => item(code, bank, index, detailFor(start + index, bank)));
@@ -442,7 +449,7 @@ function writeQuestionFile(file, variable, items) {
 
 function validate(code, practice, test) {
   const errors = [];
-  for (const [bank, items, expected] of [["practice", practice, 56], ["test", test, 24]]) {
+  for (const [bank, items, expected] of [["practice", practice, 24], ["test", test, 16]]) {
     if (items.length !== expected) errors.push(`${code} ${bank}: expected ${expected}, got ${items.length}`);
     const positions = [0, 0, 0];
     const seen = new Set();
@@ -492,15 +499,41 @@ fs.writeFileSync(
   [
     "# Foundation Maths AC9MFN01-AC9MFN03 question-bank review",
     "",
-    "Updated the live Practice and Test banks for the first three Foundation Maths number codes.",
+    "Updated the live Practice and Test banks for the first three Foundation Maths number codes after inspecting official ACARA v9 wording and actual IXL Foundation Maths skill pages. Each code now has exactly 24 Practice and 16 separate Test questions.",
     "",
-    "## IXL benchmark",
+    "## Official ACARA v9 descriptors and coverage",
     "",
-    "- AC9MFN01 now follows early-number IXL-style progression: next/before numbers, missing numbers, zero, numeral-name matching, ten-frame teen numbers and ordering to 20.",
-    "- AC9MFN02 now targets quick recognition to 5 using dot patterns, five-frames, dice-style arrangements, same-quantity checks and small more/fewer comparisons.",
-    "- AC9MFN03 now targets count-and-compare reasoning to 20: scattered collections, two ten-frames, more/fewer/equal, one-to-one matching, cardinality and counting-error diagnosis.",
+    "| Code | Official descriptor | Assessable components covered |",
+    "| --- | --- | --- |",
+    "| AC9MFN01 | name, represent and order numbers including zero to at least 20, using physical and virtual materials and numerals | number names; numerals; zero; quantities to 20; ten-frame representations; before/after/between; ordering and comparison within 20 |",
+    "| AC9MFN02 | recognise and name the number of objects within a collection up to 5 using subitising | instant recognition to 5; dot, five-frame and familiar arrangements; same quantity in different arrangements; distinguishing subitising from recounting; small more/fewer reasoning within 5 |",
+    "| AC9MFN03 | quantify and compare collections to at least 20 using counting and explain or demonstrate reasoning | counting each object once; cardinality; rows, scattered groups and ten-frames; more/fewer/same by matching and counting; comparison language; explaining counting or comparison errors |",
     "",
-    "All wording is original. The aim is to match the level, clarity, short stems and misconception-based distractors of IXL without copying IXL questions.",
+    "## IXL skill-page evidence",
+    "",
+    "The Foundation IXL catalogue was used only to find relevant strands. The following actual skill pages were opened and their visible worked example/question/explanation patterns were inspected.",
+    "",
+    "| ACARA code | IXL skill pages inspected | What the examples/questions demonstrated |",
+    "| --- | --- | --- |",
+    "| AC9MFN01 | https://au.ixl.com/maths/foundation/identify-numbers-up-to-20; https://au.ixl.com/maths/foundation/names-of-numbers-up-to-20; https://au.ixl.com/maths/foundation/count-pictures-up-to-20; https://au.ixl.com/maths/foundation/count-on-ten-frames-up-to-20; https://au.ixl.com/maths/foundation/represent-numbers-up-to-20; https://au.ixl.com/maths/foundation/number-lines-up-to-20; https://au.ixl.com/maths/foundation/before-after-and-between-up-to-20; https://au.ixl.com/maths/foundation/put-numbers-up-to-20-in-order | Short directions such as pick, type and put in order; nearby-number distractors; numeral-word matching; visual collections; ten-frame teen models; number-line gaps; before/after/between reasoning; smallest-to-largest ordering with explanation by counting order. |",
+    "| AC9MFN02 | https://au.ixl.com/maths/foundation/count-dots-0-to-5; https://au.ixl.com/maths/foundation/count-on-ten-frames-up-to-5; https://au.ixl.com/maths/foundation/count-scattered-shapes-up-to-5 | Very low reading load; visible quantities to 5; dot, five-frame and scattered arrangements; answer choices near the correct count; explanations that name the count and support quick recognition. |",
+    "| AC9MFN03 | https://au.ixl.com/maths/foundation/fewer-more-and-same; https://au.ixl.com/maths/foundation/fewer-and-more-compare-by-counting; https://au.ixl.com/maths/foundation/more-than-less-than-or-equal-to-compare-by-counting-up-to-20; https://au.ixl.com/maths/foundation/compare-numbers-up-to-20 | Matching pairs before counting, then counting both groups and comparing; more/fewer/same language; comparing totals to 20; misconception-aware feedback for unequal pairs and for treating larger-looking groups as larger quantities. |",
+    "",
+    "IXL content outside these descriptors, including formal addition/subtraction, ordinal numbers, place-value beyond 20 and unrelated games, was excluded from this batch.",
+    "",
+    "## Alignment decisions",
+    "",
+    "- AC9MFN01 combines numeral recognition, number names, zero, visual quantities, ten-frames, number lines, before/after/between and order tasks so the descriptor is not reduced to rote counting.",
+    "- AC9MFN02 focuses on quick small-quantity recognition. Some questions still allow counting visually, but the explanations emphasise seeing structured parts or a full frame rather than counting every object.",
+    "- AC9MFN03 uses both matching and counting approaches, then asks for more, fewer, same, greater, less and simple error reasoning.",
+    "- Practice progresses from recognition to application and reasoning. Test questions independently sample the descriptor and do not repeat Practice stems.",
+    "- Correct-answer positions are balanced as evenly as possible across three options.",
+    "",
+    "## Originality and limitations",
+    "",
+    "No IXL wording, names, answer choices, illustrations, media or question sequence was copied. SkillrHub uses original classroom contexts, original text visuals and original explanations while matching the inspected instructional structures and cognitive load.",
+    "",
+    "Some IXL visual media are not fully represented in text extraction, so the review used the visible worked-example text and page structure where screenshots were unnecessary. SkillrHub questions use text and simple symbolic visuals suitable for the existing quiz and printable routes.",
     "",
   ].join("\n")
 );

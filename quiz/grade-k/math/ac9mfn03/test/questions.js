@@ -23,7 +23,14 @@ window.skillrTestQuestions = [
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 1,
-    "qualitySchema": "foundation-maths-ixl-standard-v1"
+    "qualitySchema": "foundation-maths-ixl-standard-v1",
+    "editorialReview": {
+      "status": "reviewed",
+      "date": "2026-09-06",
+      "method": "ACARA descriptor mapped against actual IXL Foundation skill-page examples and representative questions",
+      "evidence": "docs/foundation-maths-n01-n03-question-bank-ixl-standard-2026-09-06.md",
+      "originality": "Original SkillrHub wording and visuals; IXL used only for instructional structure and cognitive-load benchmarking."
+    }
   },
   {
     "id": "ac9mfn03-t-002",
@@ -48,7 +55,14 @@ window.skillrTestQuestions = [
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 2,
-    "qualitySchema": "foundation-maths-ixl-standard-v1"
+    "qualitySchema": "foundation-maths-ixl-standard-v1",
+    "editorialReview": {
+      "status": "reviewed",
+      "date": "2026-09-06",
+      "method": "ACARA descriptor mapped against actual IXL Foundation skill-page examples and representative questions",
+      "evidence": "docs/foundation-maths-n01-n03-question-bank-ixl-standard-2026-09-06.md",
+      "originality": "Original SkillrHub wording and visuals; IXL used only for instructional structure and cognitive-load benchmarking."
+    }
   },
   {
     "id": "ac9mfn03-t-003",
@@ -73,7 +87,14 @@ window.skillrTestQuestions = [
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 3,
-    "qualitySchema": "foundation-maths-ixl-standard-v1"
+    "qualitySchema": "foundation-maths-ixl-standard-v1",
+    "editorialReview": {
+      "status": "reviewed",
+      "date": "2026-09-06",
+      "method": "ACARA descriptor mapped against actual IXL Foundation skill-page examples and representative questions",
+      "evidence": "docs/foundation-maths-n01-n03-question-bank-ixl-standard-2026-09-06.md",
+      "originality": "Original SkillrHub wording and visuals; IXL used only for instructional structure and cognitive-load benchmarking."
+    }
   },
   {
     "id": "ac9mfn03-t-004",
@@ -98,7 +119,14 @@ window.skillrTestQuestions = [
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 4,
-    "qualitySchema": "foundation-maths-ixl-standard-v1"
+    "qualitySchema": "foundation-maths-ixl-standard-v1",
+    "editorialReview": {
+      "status": "reviewed",
+      "date": "2026-09-06",
+      "method": "ACARA descriptor mapped against actual IXL Foundation skill-page examples and representative questions",
+      "evidence": "docs/foundation-maths-n01-n03-question-bank-ixl-standard-2026-09-06.md",
+      "originality": "Original SkillrHub wording and visuals; IXL used only for instructional structure and cognitive-load benchmarking."
+    }
   },
   {
     "id": "ac9mfn03-t-005",
@@ -123,7 +151,14 @@ window.skillrTestQuestions = [
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 5,
-    "qualitySchema": "foundation-maths-ixl-standard-v1"
+    "qualitySchema": "foundation-maths-ixl-standard-v1",
+    "editorialReview": {
+      "status": "reviewed",
+      "date": "2026-09-06",
+      "method": "ACARA descriptor mapped against actual IXL Foundation skill-page examples and representative questions",
+      "evidence": "docs/foundation-maths-n01-n03-question-bank-ixl-standard-2026-09-06.md",
+      "originality": "Original SkillrHub wording and visuals; IXL used only for instructional structure and cognitive-load benchmarking."
+    }
   },
   {
     "id": "ac9mfn03-t-006",
@@ -148,7 +183,14 @@ window.skillrTestQuestions = [
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 6,
-    "qualitySchema": "foundation-maths-ixl-standard-v1"
+    "qualitySchema": "foundation-maths-ixl-standard-v1",
+    "editorialReview": {
+      "status": "reviewed",
+      "date": "2026-09-06",
+      "method": "ACARA descriptor mapped against actual IXL Foundation skill-page examples and representative questions",
+      "evidence": "docs/foundation-maths-n01-n03-question-bank-ixl-standard-2026-09-06.md",
+      "originality": "Original SkillrHub wording and visuals; IXL used only for instructional structure and cognitive-load benchmarking."
+    }
   },
   {
     "id": "ac9mfn03-t-007",
@@ -173,7 +215,14 @@ window.skillrTestQuestions = [
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 7,
-    "qualitySchema": "foundation-maths-ixl-standard-v1"
+    "qualitySchema": "foundation-maths-ixl-standard-v1",
+    "editorialReview": {
+      "status": "reviewed",
+      "date": "2026-09-06",
+      "method": "ACARA descriptor mapped against actual IXL Foundation skill-page examples and representative questions",
+      "evidence": "docs/foundation-maths-n01-n03-question-bank-ixl-standard-2026-09-06.md",
+      "originality": "Original SkillrHub wording and visuals; IXL used only for instructional structure and cognitive-load benchmarking."
+    }
   },
   {
     "id": "ac9mfn03-t-008",
@@ -198,7 +247,14 @@ window.skillrTestQuestions = [
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 8,
-    "qualitySchema": "foundation-maths-ixl-standard-v1"
+    "qualitySchema": "foundation-maths-ixl-standard-v1",
+    "editorialReview": {
+      "status": "reviewed",
+      "date": "2026-09-06",
+      "method": "ACARA descriptor mapped against actual IXL Foundation skill-page examples and representative questions",
+      "evidence": "docs/foundation-maths-n01-n03-question-bank-ixl-standard-2026-09-06.md",
+      "originality": "Original SkillrHub wording and visuals; IXL used only for instructional structure and cognitive-load benchmarking."
+    }
   },
   {
     "id": "ac9mfn03-t-009",
@@ -223,7 +279,14 @@ window.skillrTestQuestions = [
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 9,
-    "qualitySchema": "foundation-maths-ixl-standard-v1"
+    "qualitySchema": "foundation-maths-ixl-standard-v1",
+    "editorialReview": {
+      "status": "reviewed",
+      "date": "2026-09-06",
+      "method": "ACARA descriptor mapped against actual IXL Foundation skill-page examples and representative questions",
+      "evidence": "docs/foundation-maths-n01-n03-question-bank-ixl-standard-2026-09-06.md",
+      "originality": "Original SkillrHub wording and visuals; IXL used only for instructional structure and cognitive-load benchmarking."
+    }
   },
   {
     "id": "ac9mfn03-t-010",
@@ -248,7 +311,14 @@ window.skillrTestQuestions = [
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 10,
-    "qualitySchema": "foundation-maths-ixl-standard-v1"
+    "qualitySchema": "foundation-maths-ixl-standard-v1",
+    "editorialReview": {
+      "status": "reviewed",
+      "date": "2026-09-06",
+      "method": "ACARA descriptor mapped against actual IXL Foundation skill-page examples and representative questions",
+      "evidence": "docs/foundation-maths-n01-n03-question-bank-ixl-standard-2026-09-06.md",
+      "originality": "Original SkillrHub wording and visuals; IXL used only for instructional structure and cognitive-load benchmarking."
+    }
   },
   {
     "id": "ac9mfn03-t-011",
@@ -273,7 +343,14 @@ window.skillrTestQuestions = [
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 11,
-    "qualitySchema": "foundation-maths-ixl-standard-v1"
+    "qualitySchema": "foundation-maths-ixl-standard-v1",
+    "editorialReview": {
+      "status": "reviewed",
+      "date": "2026-09-06",
+      "method": "ACARA descriptor mapped against actual IXL Foundation skill-page examples and representative questions",
+      "evidence": "docs/foundation-maths-n01-n03-question-bank-ixl-standard-2026-09-06.md",
+      "originality": "Original SkillrHub wording and visuals; IXL used only for instructional structure and cognitive-load benchmarking."
+    }
   },
   {
     "id": "ac9mfn03-t-012",
@@ -298,7 +375,14 @@ window.skillrTestQuestions = [
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 12,
-    "qualitySchema": "foundation-maths-ixl-standard-v1"
+    "qualitySchema": "foundation-maths-ixl-standard-v1",
+    "editorialReview": {
+      "status": "reviewed",
+      "date": "2026-09-06",
+      "method": "ACARA descriptor mapped against actual IXL Foundation skill-page examples and representative questions",
+      "evidence": "docs/foundation-maths-n01-n03-question-bank-ixl-standard-2026-09-06.md",
+      "originality": "Original SkillrHub wording and visuals; IXL used only for instructional structure and cognitive-load benchmarking."
+    }
   },
   {
     "id": "ac9mfn03-t-013",
@@ -323,7 +407,14 @@ window.skillrTestQuestions = [
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 13,
-    "qualitySchema": "foundation-maths-ixl-standard-v1"
+    "qualitySchema": "foundation-maths-ixl-standard-v1",
+    "editorialReview": {
+      "status": "reviewed",
+      "date": "2026-09-06",
+      "method": "ACARA descriptor mapped against actual IXL Foundation skill-page examples and representative questions",
+      "evidence": "docs/foundation-maths-n01-n03-question-bank-ixl-standard-2026-09-06.md",
+      "originality": "Original SkillrHub wording and visuals; IXL used only for instructional structure and cognitive-load benchmarking."
+    }
   },
   {
     "id": "ac9mfn03-t-014",
@@ -348,7 +439,14 @@ window.skillrTestQuestions = [
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 14,
-    "qualitySchema": "foundation-maths-ixl-standard-v1"
+    "qualitySchema": "foundation-maths-ixl-standard-v1",
+    "editorialReview": {
+      "status": "reviewed",
+      "date": "2026-09-06",
+      "method": "ACARA descriptor mapped against actual IXL Foundation skill-page examples and representative questions",
+      "evidence": "docs/foundation-maths-n01-n03-question-bank-ixl-standard-2026-09-06.md",
+      "originality": "Original SkillrHub wording and visuals; IXL used only for instructional structure and cognitive-load benchmarking."
+    }
   },
   {
     "id": "ac9mfn03-t-015",
@@ -373,7 +471,14 @@ window.skillrTestQuestions = [
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 15,
-    "qualitySchema": "foundation-maths-ixl-standard-v1"
+    "qualitySchema": "foundation-maths-ixl-standard-v1",
+    "editorialReview": {
+      "status": "reviewed",
+      "date": "2026-09-06",
+      "method": "ACARA descriptor mapped against actual IXL Foundation skill-page examples and representative questions",
+      "evidence": "docs/foundation-maths-n01-n03-question-bank-ixl-standard-2026-09-06.md",
+      "originality": "Original SkillrHub wording and visuals; IXL used only for instructional structure and cognitive-load benchmarking."
+    }
   },
   {
     "id": "ac9mfn03-t-016",
@@ -398,206 +503,13 @@ window.skillrTestQuestions = [
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 16,
-    "qualitySchema": "foundation-maths-ixl-standard-v1"
-  },
-  {
-    "id": "ac9mfn03-t-017",
-    "curriculumCode": "AC9MFN03",
-    "bank": "test",
-    "skill": "one-to-one matching",
-    "question": "Independent check: Check 118: 9 children each need one star. There are 8. Are there enough?",
-    "visual": "Children: ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲\nItems:    ● ● ● ● ● ● ● ●",
-    "explanation": "There are 8 items for 9 children, so one child would miss out.",
-    "printable": true,
-    "type": "single",
-    "answers": [
-      "Yes",
-      "No",
-      "Cannot tell"
-    ],
-    "correct": 1,
-    "structuredExplanation": {
-      "summary": "There are 8 items for 9 children, so one child would miss out.",
-      "hint": "Pair one item with one child and look for leftovers."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 17,
-    "qualitySchema": "foundation-maths-ixl-standard-v1"
-  },
-  {
-    "id": "ac9mfn03-t-018",
-    "curriculumCode": "AC9MFN03",
-    "bank": "test",
-    "skill": "cardinality after counting",
-    "question": "Independent check: Check 119: Ava points to each bead once and says 16 last. What does 16 tell us?",
-    "visual": "● ● ●\n ● ● ● ●\n  ● ● ● ● ●\n● ● ● ●",
-    "explanation": "The last number said tells the total number of objects in the collection.",
-    "printable": true,
-    "type": "single",
-    "answers": [
-      "Start counting again",
-      "The objects changed",
-      "There are 16"
-    ],
-    "correct": 2,
-    "structuredExplanation": {
-      "summary": "The last number said tells the total number of objects in the collection.",
-      "hint": "This is the counting idea called cardinality."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 18,
-    "qualitySchema": "foundation-maths-ixl-standard-v1"
-  },
-  {
-    "id": "ac9mfn03-t-019",
-    "curriculumCode": "AC9MFN03",
-    "bank": "test",
-    "skill": "explain a counting mistake",
-    "question": "Independent check: Check 120: Leo counts this collection but skips one object. What will happen to the count?",
-    "visual": "■ ■ ■ ■ ■ ■\n ■ ■ ■\n  ■ ■",
-    "explanation": "Skipping an object makes the count too small because one object was not included.",
-    "printable": true,
-    "type": "single",
-    "answers": [
-      "The count will be too small",
-      "The count will be too large",
-      "The count will stay correct"
-    ],
-    "correct": 0,
-    "structuredExplanation": {
-      "summary": "Skipping an object makes the count too small because one object was not included.",
-      "hint": "Every object needs exactly one count word."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 19,
-    "qualitySchema": "foundation-maths-ixl-standard-v1"
-  },
-  {
-    "id": "ac9mfn03-t-020",
-    "curriculumCode": "AC9MFN03",
-    "bank": "test",
-    "skill": "count a collection to 20",
-    "question": "Independent check: Sam counts the tiles in Check 121. How many are there?",
-    "visual": "▲ ▲ ▲ ▲ ▲\n ▲",
-    "explanation": "Counting each object once gives 6.",
-    "printable": true,
-    "type": "single",
-    "answers": [
-      "5",
-      "6",
-      "7"
-    ],
-    "correct": 1,
-    "structuredExplanation": {
-      "summary": "Counting each object once gives 6.",
-      "hint": "Track the objects so none are skipped or counted twice."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 20,
-    "qualitySchema": "foundation-maths-ixl-standard-v1"
-  },
-  {
-    "id": "ac9mfn03-t-021",
-    "curriculumCode": "AC9MFN03",
-    "bank": "test",
-    "skill": "ten-frame counting to 20",
-    "question": "Independent check: Lina uses two ten-frames in Check 122. How many counters are shown?",
-    "visual": "● ● ● ● ●\n● ● ● ● ●\n● ● ● ● ●\n● ○ ○ ○ ○",
-    "explanation": "The frames show 10 on the first frame and 6 on the second, making 16.",
-    "printable": true,
-    "type": "single",
-    "answers": [
-      "14",
-      "17",
-      "16"
-    ],
-    "correct": 2,
-    "structuredExplanation": {
-      "summary": "The frames show 10 on the first frame and 6 on the second, making 16.",
-      "hint": "Count the full ten first, then the extra counters."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 21,
-    "qualitySchema": "foundation-maths-ixl-standard-v1"
-  },
-  {
-    "id": "ac9mfn03-t-022",
-    "curriculumCode": "AC9MFN03",
-    "bank": "test",
-    "skill": "compare more by counting",
-    "question": "Independent check: Kai compares two collections in Check 123. Which collection has more?",
-    "visual": "A: ● ● ● ● ● ● ●\nB: ■ ■ ■ ■ ■ ■ ■ ■ ■ ■",
-    "explanation": "Collection B has 10; Collection A has 7. 10 is more than 7.",
-    "printable": true,
-    "type": "single",
-    "answers": [
-      "B",
-      "A",
-      "They are equal"
-    ],
-    "correct": 0,
-    "structuredExplanation": {
-      "summary": "Collection B has 10; Collection A has 7. 10 is more than 7.",
-      "hint": "Count both collections, then compare the totals."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 22,
-    "qualitySchema": "foundation-maths-ixl-standard-v1"
-  },
-  {
-    "id": "ac9mfn03-t-023",
-    "curriculumCode": "AC9MFN03",
-    "bank": "test",
-    "skill": "compare fewer by counting",
-    "question": "Independent check: Omar compares two collections in Check 124. Which collection has fewer?",
-    "visual": "A: ● ● ● ● ● ● ● ● ● ● ● ●\nB: ■ ■ ■ ■ ■ ■ ■ ■ ■ ■",
-    "explanation": "Collection B has 10; Collection A has 12. 10 is fewer than 12.",
-    "printable": true,
-    "type": "single",
-    "answers": [
-      "A",
-      "B",
-      "They are equal"
-    ],
-    "correct": 1,
-    "structuredExplanation": {
-      "summary": "Collection B has 10; Collection A has 12. 10 is fewer than 12.",
-      "hint": "Fewer means the smaller total."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 23,
-    "qualitySchema": "foundation-maths-ixl-standard-v1"
-  },
-  {
-    "id": "ac9mfn03-t-024",
-    "curriculumCode": "AC9MFN03",
-    "bank": "test",
-    "skill": "equal collections despite arrangement",
-    "question": "Independent check: Ivy checks two arrangements in Check 125. Which statement is true?",
-    "visual": "A: ● ● ● ● ● ● ● ● ● ● ●\nB: ■ ■ ■ ■ ■ ■\n ■ ■ ■\n  ■ ■",
-    "explanation": "Both collections have 11. Spacing and arrangement do not change the quantity.",
-    "printable": true,
-    "type": "single",
-    "answers": [
-      "A has more",
-      "B has more",
-      "They are equal"
-    ],
-    "correct": 2,
-    "structuredExplanation": {
-      "summary": "Both collections have 11. Spacing and arrangement do not change the quantity.",
-      "hint": "Compare the totals, not the space used."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 24,
-    "qualitySchema": "foundation-maths-ixl-standard-v1"
+    "qualitySchema": "foundation-maths-ixl-standard-v1",
+    "editorialReview": {
+      "status": "reviewed",
+      "date": "2026-09-06",
+      "method": "ACARA descriptor mapped against actual IXL Foundation skill-page examples and representative questions",
+      "evidence": "docs/foundation-maths-n01-n03-question-bank-ixl-standard-2026-09-06.md",
+      "originality": "Original SkillrHub wording and visuals; IXL used only for instructional structure and cognitive-load benchmarking."
+    }
   }
 ];
