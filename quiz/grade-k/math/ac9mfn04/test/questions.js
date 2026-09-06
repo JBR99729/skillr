@@ -4,390 +4,512 @@ window.skillrTestQuestions = [
     "id": "ac9mfn04-t-001",
     "curriculumCode": "AC9MFN04",
     "bank": "test",
-    "skill": "combine visible parts",
+    "skill": "spot total-part confusion",
     "printable": true,
-    "type": "number",
-    "question": "How many counters are in the whole?",
-    "visual": "●   ■",
-    "correct": "2",
-    "tolerance": 0,
-    "placeholder": "Type the number",
-    "explanation": "1 and 1 combine to make 2.",
-    "modelAnswer": "2"
+    "type": "single",
+    "question": "Mia says 6 and 1 make 6. What is the mistake?",
+    "visual": "",
+    "answers": [
+      "The parts make 6",
+      "The parts make 7",
+      "The parts cannot be counted"
+    ],
+    "correct": 1,
+    "explanation": "A whole is found by combining both parts: 6 + 1 = 7.",
+    "structuredExplanation": {
+      "summary": "A whole is found by combining both parts: 6 + 1 = 7.",
+      "hint": "Do not stop after counting only the larger part."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 1,
+    "qualitySchema": "foundation-maths-ixl-standard-v1",
+    "editorialReview": {
+      "status": "reviewed",
+      "date": "2026-09-06",
+      "method": "ACARA descriptor mapped against actual IXL skill-page examples and representative questions",
+      "evidence": "docs/foundation-maths-n04-n06-question-bank-ixl-standard-2026-09-06.md",
+      "originality": "Original SkillrHub wording and visuals; IXL used only for instructional structure and cognitive-load benchmarking."
+    }
   },
   {
     "id": "ac9mfn04-t-002",
     "curriculumCode": "AC9MFN04",
     "bank": "test",
-    "skill": "find hidden part",
+    "skill": "recognise ten partition",
     "printable": true,
-    "type": "number",
-    "question": "There are 8 counters altogether. 6 are outside the cup. How many are hidden?",
-    "visual": "Outside: ● ● ● ● ● ●   Cup: [ ? ]",
-    "correct": "2",
-    "tolerance": 0,
-    "placeholder": "Type the number",
-    "explanation": "6 and 2 make 8.",
-    "modelAnswer": "2"
+    "type": "single",
+    "question": "Noah's ten-frame has 2 filled spaces and 8 empty spaces. How many spaces are in the whole frame?",
+    "visual": "● ● ○ ○ ○ ○ ○ ○ ○ ○",
+    "answers": [
+      "2",
+      "8",
+      "10"
+    ],
+    "correct": 2,
+    "explanation": "The filled and empty spaces are parts of one ten-frame, and the whole frame has 10 spaces.",
+    "structuredExplanation": {
+      "summary": "The filled and empty spaces are parts of one ten-frame, and the whole frame has 10 spaces.",
+      "hint": "The empty spaces still belong to the whole frame."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 2,
+    "qualitySchema": "foundation-maths-ixl-standard-v1",
+    "editorialReview": {
+      "status": "reviewed",
+      "date": "2026-09-06",
+      "method": "ACARA descriptor mapped against actual IXL skill-page examples and representative questions",
+      "evidence": "docs/foundation-maths-n04-n06-question-bank-ixl-standard-2026-09-06.md",
+      "originality": "Original SkillrHub wording and visuals; IXL used only for instructional structure and cognitive-load benchmarking."
+    }
   },
   {
     "id": "ac9mfn04-t-003",
     "curriculumCode": "AC9MFN04",
     "bank": "test",
-    "skill": "recognise partition",
+    "skill": "match parts to whole",
     "printable": true,
     "type": "single",
-    "question": "Which pair is a correct way to split 10?",
+    "question": "Ava has 4 stars in all. 3 are on the mat and the rest are in a cup. How many are in the cup?",
+    "visual": "Blue: ▲ ▲ ▲\nYellow: ?",
     "answers": [
-      "5 and 5",
-      "5 and 6",
-      "10 and 5"
+      "1",
+      "3",
+      "4"
     ],
     "correct": 0,
-    "explanation": "5+5=10."
+    "explanation": "3 and 1 combine to make 4. The missing part is 1.",
+    "structuredExplanation": {
+      "summary": "3 and 1 combine to make 4. The missing part is 1.",
+      "hint": "Keep the whole the same and find the part that is missing."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 3,
+    "qualitySchema": "foundation-maths-ixl-standard-v1",
+    "editorialReview": {
+      "status": "reviewed",
+      "date": "2026-09-06",
+      "method": "ACARA descriptor mapped against actual IXL skill-page examples and representative questions",
+      "evidence": "docs/foundation-maths-n04-n06-question-bank-ixl-standard-2026-09-06.md",
+      "originality": "Original SkillrHub wording and visuals; IXL used only for instructional structure and cognitive-load benchmarking."
+    }
   },
   {
     "id": "ac9mfn04-t-004",
     "curriculumCode": "AC9MFN04",
     "bank": "test",
-    "skill": "five-frame parts",
+    "skill": "choose partition statement",
     "printable": true,
     "type": "single",
-    "question": "The five-frame has 4 filled spaces and 1 empty spaces. Which whole does the frame show?",
-    "visual": "● ● ● ● ○",
+    "question": "Which sentence matches Leo's buttons?",
+    "visual": "◆ ◆ ◆   ★ ★ ★ ★ ★ ★",
     "answers": [
-      "5",
-      "4",
-      "6"
+      "9 is 3 and 9",
+      "9 is 3 and 6",
+      "9 is 6 and 9"
     ],
-    "correct": 0,
-    "explanation": "Filled and empty spaces are parts of one five-frame with 5 spaces."
+    "correct": 1,
+    "explanation": "The picture has 3 in one part and 6 in the other part, making 9 altogether.",
+    "structuredExplanation": {
+      "summary": "The picture has 3 in one part and 6 in the other part, making 9 altogether.",
+      "hint": "Count each colour, then name the whole."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 4,
+    "qualitySchema": "foundation-maths-ixl-standard-v1",
+    "editorialReview": {
+      "status": "reviewed",
+      "date": "2026-09-06",
+      "method": "ACARA descriptor mapped against actual IXL skill-page examples and representative questions",
+      "evidence": "docs/foundation-maths-n04-n06-question-bank-ixl-standard-2026-09-06.md",
+      "originality": "Original SkillrHub wording and visuals; IXL used only for instructional structure and cognitive-load benchmarking."
+    }
   },
   {
     "id": "ac9mfn04-t-005",
     "curriculumCode": "AC9MFN04",
     "bank": "test",
-    "skill": "ten-frame part whole",
+    "skill": "complete addition sentence",
     "printable": true,
-    "type": "number",
-    "question": "A ten-frame shows 7 filled spaces, then 3 more counters are added beside it. How many altogether?",
-    "visual": "● ● ● ● ●\n● ● ○ ○ ○\nExtra: ■ ■ ■",
-    "correct": "10",
-    "tolerance": 0,
-    "placeholder": "Type the number",
-    "explanation": "7+3=10.",
-    "modelAnswer": "10"
+    "type": "single",
+    "question": "Zoe splits 8 beads into two parts. Complete the number sentence: 8 = 2 + __",
+    "visual": "Whole: ● ● ● ● ● ● ● ●\nPart shown: ■ ■",
+    "answers": [
+      "2",
+      "8",
+      "6"
+    ],
+    "correct": 2,
+    "explanation": "8 is made from 2 and 6, so 8 = 2 + 6.",
+    "structuredExplanation": {
+      "summary": "8 is made from 2 and 6, so 8 = 2 + 6.",
+      "hint": "Ask what must be added to the shown part."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 5,
+    "qualitySchema": "foundation-maths-ixl-standard-v1",
+    "editorialReview": {
+      "status": "reviewed",
+      "date": "2026-09-06",
+      "method": "ACARA descriptor mapped against actual IXL skill-page examples and representative questions",
+      "evidence": "docs/foundation-maths-n04-n06-question-bank-ixl-standard-2026-09-06.md",
+      "originality": "Original SkillrHub wording and visuals; IXL used only for instructional structure and cognitive-load benchmarking."
+    }
   },
   {
     "id": "ac9mfn04-t-006",
     "curriculumCode": "AC9MFN04",
     "bank": "test",
-    "skill": "different partitions same whole",
+    "skill": "make the same whole another way",
     "printable": true,
     "type": "single",
-    "question": "There are 5 counters. 2 are red. How many are blue?",
+    "question": "Sam made 6 using 1 and 5. Which pair is another way to make 6?",
+    "visual": "1 + 5 = 6",
     "answers": [
-      "3",
-      "2",
-      "4"
+      "0 and 6",
+      "1 and 6",
+      "6 and 1"
     ],
     "correct": 0,
-    "explanation": "Both selected pairs have a total of 6."
+    "explanation": "0 and 6 also have a total of 6.",
+    "structuredExplanation": {
+      "summary": "0 and 6 also have a total of 6.",
+      "hint": "Both parts together must still equal the same whole."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 6,
+    "qualitySchema": "foundation-maths-ixl-standard-v1",
+    "editorialReview": {
+      "status": "reviewed",
+      "date": "2026-09-06",
+      "method": "ACARA descriptor mapped against actual IXL skill-page examples and representative questions",
+      "evidence": "docs/foundation-maths-n04-n06-question-bank-ixl-standard-2026-09-06.md",
+      "originality": "Original SkillrHub wording and visuals; IXL used only for instructional structure and cognitive-load benchmarking."
+    }
   },
   {
     "id": "ac9mfn04-t-007",
     "curriculumCode": "AC9MFN04",
     "bank": "test",
-    "skill": "match model to statement",
+    "skill": "spot total-part confusion",
     "printable": true,
     "type": "single",
-    "question": "There are 6 counters. 2 are red. How many are blue?",
-    "visual": "● ● ●   ■ ■ ■ ■",
+    "question": "Lina says 4 and 1 make 4. What is the mistake?",
+    "visual": "",
     "answers": [
-      "4",
-      "3",
-      "5"
+      "The parts make 4",
+      "The parts make 5",
+      "The parts cannot be counted"
     ],
-    "correct": 0,
-    "explanation": "The visible parts contain 3 and 4; together they make 7."
+    "correct": 1,
+    "explanation": "A whole is found by combining both parts: 4 + 1 = 5.",
+    "structuredExplanation": {
+      "summary": "A whole is found by combining both parts: 4 + 1 = 5.",
+      "hint": "Do not stop after counting only the larger part."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 7,
+    "qualitySchema": "foundation-maths-ixl-standard-v1",
+    "editorialReview": {
+      "status": "reviewed",
+      "date": "2026-09-06",
+      "method": "ACARA descriptor mapped against actual IXL skill-page examples and representative questions",
+      "evidence": "docs/foundation-maths-n04-n06-question-bank-ixl-standard-2026-09-06.md",
+      "originality": "Original SkillrHub wording and visuals; IXL used only for instructional structure and cognitive-load benchmarking."
+    }
   },
   {
     "id": "ac9mfn04-t-008",
     "curriculumCode": "AC9MFN04",
     "bank": "test",
-    "skill": "reverse parts",
+    "skill": "recognise ten partition",
     "printable": true,
-    "type": "true-false",
-    "question": "5 and 3 make 8, so 3 and 5 also make 8.",
-    "visual": "● ● ● ● ● + ■ ■ ■\n■ ■ ■ + ● ● ● ● ●",
+    "type": "single",
+    "question": "Kai's ten-frame has 6 filled spaces and 4 empty spaces. How many spaces are in the whole frame?",
+    "visual": "● ● ● ● ● ● ○ ○ ○ ○",
     "answers": [
-      "True",
-      "False"
+      "6",
+      "4",
+      "10"
     ],
-    "correct": 0,
-    "explanation": "Changing the order of the parts does not change the whole."
+    "correct": 2,
+    "explanation": "The filled and empty spaces are parts of one ten-frame, and the whole frame has 10 spaces.",
+    "structuredExplanation": {
+      "summary": "The filled and empty spaces are parts of one ten-frame, and the whole frame has 10 spaces.",
+      "hint": "The empty spaces still belong to the whole frame."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 8,
+    "qualitySchema": "foundation-maths-ixl-standard-v1",
+    "editorialReview": {
+      "status": "reviewed",
+      "date": "2026-09-06",
+      "method": "ACARA descriptor mapped against actual IXL skill-page examples and representative questions",
+      "evidence": "docs/foundation-maths-n04-n06-question-bank-ixl-standard-2026-09-06.md",
+      "originality": "Original SkillrHub wording and visuals; IXL used only for instructional structure and cognitive-load benchmarking."
+    }
   },
   {
     "id": "ac9mfn04-t-009",
     "curriculumCode": "AC9MFN04",
     "bank": "test",
-    "skill": "identify incorrect partition",
+    "skill": "match parts to whole",
     "printable": true,
     "type": "single",
-    "question": "Mia says 1 and 9 make 9. What is correct?",
+    "question": "Mia has 9 counters in all. 1 are on the mat and the rest are in a cup. How many are in the cup?",
+    "visual": "Blue: ◆\nYellow: ?",
     "answers": [
-      "The parts make 10, not 9",
-      "The claim is correct",
-      "Parts never make a whole"
+      "8",
+      "1",
+      "9"
     ],
     "correct": 0,
-    "explanation": "1+9=10."
+    "explanation": "1 and 8 combine to make 9. The missing part is 8.",
+    "structuredExplanation": {
+      "summary": "1 and 8 combine to make 9. The missing part is 8.",
+      "hint": "Keep the whole the same and find the part that is missing."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 9,
+    "qualitySchema": "foundation-maths-ixl-standard-v1",
+    "editorialReview": {
+      "status": "reviewed",
+      "date": "2026-09-06",
+      "method": "ACARA descriptor mapped against actual IXL skill-page examples and representative questions",
+      "evidence": "docs/foundation-maths-n04-n06-question-bank-ixl-standard-2026-09-06.md",
+      "originality": "Original SkillrHub wording and visuals; IXL used only for instructional structure and cognitive-load benchmarking."
+    }
   },
   {
     "id": "ac9mfn04-t-010",
     "curriculumCode": "AC9MFN04",
     "bank": "test",
-    "skill": "covered counters",
+    "skill": "choose partition statement",
     "printable": true,
     "type": "single",
-    "question": "10 counters are on a mat. A card covers some. 7 can be seen. How many are covered?",
-    "visual": "Seen: ● ● ● ● ● ● ●   Covered: [ ? ]",
+    "question": "Which sentence matches Noah's shells?",
+    "visual": "★ ★ ★   ● ● ● ●",
     "answers": [
-      "3",
-      "7",
-      "10"
+      "7 is 3 and 7",
+      "7 is 3 and 4",
+      "7 is 4 and 7"
     ],
-    "correct": 0,
-    "explanation": "7+3=10."
+    "correct": 1,
+    "explanation": "The picture has 3 in one part and 4 in the other part, making 7 altogether.",
+    "structuredExplanation": {
+      "summary": "The picture has 3 in one part and 4 in the other part, making 7 altogether.",
+      "hint": "Count each colour, then name the whole."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 10,
+    "qualitySchema": "foundation-maths-ixl-standard-v1",
+    "editorialReview": {
+      "status": "reviewed",
+      "date": "2026-09-06",
+      "method": "ACARA descriptor mapped against actual IXL skill-page examples and representative questions",
+      "evidence": "docs/foundation-maths-n04-n06-question-bank-ixl-standard-2026-09-06.md",
+      "originality": "Original SkillrHub wording and visuals; IXL used only for instructional structure and cognitive-load benchmarking."
+    }
   },
   {
     "id": "ac9mfn04-t-011",
     "curriculumCode": "AC9MFN04",
     "bank": "test",
-    "skill": "equal and unequal partitions",
+    "skill": "complete addition sentence",
     "printable": true,
     "type": "single",
-    "question": "There are 7 counters. 3 are red. How many are blue?",
+    "question": "Ava splits 6 stars into two parts. Complete the number sentence: 6 = 2 + __",
+    "visual": "Whole: ● ● ● ● ● ●\nPart shown: ■ ■",
     "answers": [
-      "4",
-      "3",
-      "5"
+      "2",
+      "6",
+      "4"
     ],
-    "correct": 0,
-    "explanation": "The parts must combine to the stated whole."
+    "correct": 2,
+    "explanation": "6 is made from 2 and 4, so 6 = 2 + 4.",
+    "structuredExplanation": {
+      "summary": "6 is made from 2 and 4, so 6 = 2 + 4.",
+      "hint": "Ask what must be added to the shown part."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 11,
+    "qualitySchema": "foundation-maths-ixl-standard-v1",
+    "editorialReview": {
+      "status": "reviewed",
+      "date": "2026-09-06",
+      "method": "ACARA descriptor mapped against actual IXL skill-page examples and representative questions",
+      "evidence": "docs/foundation-maths-n04-n06-question-bank-ixl-standard-2026-09-06.md",
+      "originality": "Original SkillrHub wording and visuals; IXL used only for instructional structure and cognitive-load benchmarking."
+    }
   },
   {
     "id": "ac9mfn04-t-012",
     "curriculumCode": "AC9MFN04",
     "bank": "test",
-    "skill": "build part whole statement",
+    "skill": "make the same whole another way",
     "printable": true,
     "type": "single",
-    "question": "There are 8 counters. 4 are red. How many are blue?",
-    "items": [
-      "6 is the whole",
-      "2 is one part",
-      "4 is the other part"
+    "question": "Leo made 4 using 3 and 1. Which pair is another way to make 4?",
+    "visual": "3 + 1 = 4",
+    "answers": [
+      "2 and 2",
+      "3 and 2",
+      "4 and 3"
     ],
     "correct": 0,
-    "instruction": "Use the arrows to put them in order.",
-    "explanation": "The two parts combine to make the whole.",
-    "answers": [
-      "4",
-      "3",
-      "5"
-    ]
+    "explanation": "2 and 2 also have a total of 4.",
+    "structuredExplanation": {
+      "summary": "2 and 2 also have a total of 4.",
+      "hint": "Both parts together must still equal the same whole."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 12,
+    "qualitySchema": "foundation-maths-ixl-standard-v1",
+    "editorialReview": {
+      "status": "reviewed",
+      "date": "2026-09-06",
+      "method": "ACARA descriptor mapped against actual IXL skill-page examples and representative questions",
+      "evidence": "docs/foundation-maths-n04-n06-question-bank-ixl-standard-2026-09-06.md",
+      "originality": "Original SkillrHub wording and visuals; IXL used only for instructional structure and cognitive-load benchmarking."
+    }
   },
   {
     "id": "ac9mfn04-t-013",
     "curriculumCode": "AC9MFN04",
     "bank": "test",
-    "skill": "same partition rearranged",
+    "skill": "spot total-part confusion",
     "printable": true,
     "type": "single",
-    "question": "There are 9 counters. 5 are red. How many are blue?",
-    "visual": "● ● ●   ■ ■ ■ ■\n● ● ●\n■ ■ ■\n  ■",
+    "question": "Zoe says 1 and 9 make 9. What is the mistake?",
+    "visual": "",
     "answers": [
-      "4",
-      "3",
-      "5"
+      "The parts make 1",
+      "The parts make 10",
+      "The parts cannot be counted"
     ],
-    "correct": 0,
-    "explanation": "Rearranging the same parts does not change the total."
+    "correct": 1,
+    "explanation": "A whole is found by combining both parts: 1 + 9 = 10.",
+    "structuredExplanation": {
+      "summary": "A whole is found by combining both parts: 1 + 9 = 10.",
+      "hint": "Do not stop after counting only the larger part."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 13,
+    "qualitySchema": "foundation-maths-ixl-standard-v1",
+    "editorialReview": {
+      "status": "reviewed",
+      "date": "2026-09-06",
+      "method": "ACARA descriptor mapped against actual IXL skill-page examples and representative questions",
+      "evidence": "docs/foundation-maths-n04-n06-question-bank-ixl-standard-2026-09-06.md",
+      "originality": "Original SkillrHub wording and visuals; IXL used only for instructional structure and cognitive-load benchmarking."
+    }
   },
   {
     "id": "ac9mfn04-t-014",
     "curriculumCode": "AC9MFN04",
     "bank": "test",
-    "skill": "finger partition",
+    "skill": "recognise ten partition",
     "printable": true,
-    "type": "number",
-    "question": "2 fingers are up and 3 are folded. How many fingers are on the hand altogether?",
-    "visual": "Up: | |   Folded: _ _ _",
-    "correct": "5",
-    "tolerance": 0,
-    "placeholder": "Type the number",
-    "explanation": "Up and folded fingers are two parts of the same five-finger hand.",
-    "modelAnswer": "5"
+    "type": "single",
+    "question": "Sam's ten-frame has 6 filled spaces and 4 empty spaces. How many spaces are in the whole frame?",
+    "visual": "● ● ● ● ● ● ○ ○ ○ ○",
+    "answers": [
+      "6",
+      "4",
+      "10"
+    ],
+    "correct": 2,
+    "explanation": "The filled and empty spaces are parts of one ten-frame, and the whole frame has 10 spaces.",
+    "structuredExplanation": {
+      "summary": "The filled and empty spaces are parts of one ten-frame, and the whole frame has 10 spaces.",
+      "hint": "The empty spaces still belong to the whole frame."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 14,
+    "qualitySchema": "foundation-maths-ixl-standard-v1",
+    "editorialReview": {
+      "status": "reviewed",
+      "date": "2026-09-06",
+      "method": "ACARA descriptor mapped against actual IXL skill-page examples and representative questions",
+      "evidence": "docs/foundation-maths-n04-n06-question-bank-ixl-standard-2026-09-06.md",
+      "originality": "Original SkillrHub wording and visuals; IXL used only for instructional structure and cognitive-load benchmarking."
+    }
   },
   {
     "id": "ac9mfn04-t-015",
     "curriculumCode": "AC9MFN04",
     "bank": "test",
-    "skill": "whole versus part misconception",
+    "skill": "match parts to whole",
     "printable": true,
     "type": "single",
-    "question": "There are 6 counters. 2 are red. How many are blue?",
-    "visual": "● ● ● ● ● ● ● ●   ■ ■",
+    "question": "Lina has 7 blocks in all. 1 are on the mat and the rest are in a cup. How many are in the cup?",
+    "visual": "Blue: ★\nYellow: ?",
     "answers": [
-      "4",
-      "3",
-      "5"
+      "6",
+      "1",
+      "7"
     ],
     "correct": 0,
-    "explanation": "The whole is the total of both parts."
+    "explanation": "1 and 6 combine to make 7. The missing part is 6.",
+    "structuredExplanation": {
+      "summary": "1 and 6 combine to make 7. The missing part is 6.",
+      "hint": "Keep the whole the same and find the part that is missing."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 15,
+    "qualitySchema": "foundation-maths-ixl-standard-v1",
+    "editorialReview": {
+      "status": "reviewed",
+      "date": "2026-09-06",
+      "method": "ACARA descriptor mapped against actual IXL skill-page examples and representative questions",
+      "evidence": "docs/foundation-maths-n04-n06-question-bank-ixl-standard-2026-09-06.md",
+      "originality": "Original SkillrHub wording and visuals; IXL used only for instructional structure and cognitive-load benchmarking."
+    }
   },
   {
     "id": "ac9mfn04-t-016",
     "curriculumCode": "AC9MFN04",
     "bank": "test",
-    "skill": "choose equivalent descriptions",
+    "skill": "choose partition statement",
     "printable": true,
     "type": "single",
-    "question": "There are 7 counters. 2 are red. How many are blue?",
-    "answers": [
-      "5",
-      "4",
-      "6"
-    ],
-    "correct": 0,
-    "explanation": "Reversing the two parts keeps the same total."
-  },
-  {
-    "id": "ac9mfn04-t-017",
-    "curriculumCode": "AC9MFN04",
-    "bank": "test",
-    "skill": "combine visible parts",
-    "printable": true,
-    "type": "number",
-    "question": "How many counters are in the whole?",
-    "visual": "● ●   ■ ■ ■",
-    "correct": "5",
-    "tolerance": 0,
-    "placeholder": "Type the number",
-    "explanation": "2 and 3 combine to make 5.",
-    "modelAnswer": "5"
-  },
-  {
-    "id": "ac9mfn04-t-018",
-    "curriculumCode": "AC9MFN04",
-    "bank": "test",
-    "skill": "find hidden part",
-    "printable": true,
-    "type": "number",
-    "question": "There are 6 counters altogether. 3 are outside the cup. How many are hidden?",
-    "visual": "Outside: ● ● ●   Cup: [ ? ]",
-    "correct": "3",
-    "tolerance": 0,
-    "placeholder": "Type the number",
-    "explanation": "3 and 3 make 6.",
-    "modelAnswer": "3"
-  },
-  {
-    "id": "ac9mfn04-t-019",
-    "curriculumCode": "AC9MFN04",
-    "bank": "test",
-    "skill": "recognise partition",
-    "printable": true,
-    "type": "single",
-    "question": "Which pair is a correct way to split 5?",
-    "answers": [
-      "3 and 2",
-      "3 and 3",
-      "5 and 2"
-    ],
-    "correct": 0,
-    "explanation": "3+2=5."
-  },
-  {
-    "id": "ac9mfn04-t-020",
-    "curriculumCode": "AC9MFN04",
-    "bank": "test",
-    "skill": "five-frame parts",
-    "printable": true,
-    "type": "single",
-    "question": "The five-frame has 4 filled spaces and 1 empty spaces. Which whole does the frame show?",
-    "visual": "● ● ● ● ○",
-    "answers": [
-      "5",
-      "4",
-      "6"
-    ],
-    "correct": 0,
-    "explanation": "Filled and empty spaces are parts of one five-frame with 5 spaces."
-  },
-  {
-    "id": "ac9mfn04-t-021",
-    "curriculumCode": "AC9MFN04",
-    "bank": "test",
-    "skill": "ten-frame part whole",
-    "printable": true,
-    "type": "number",
-    "question": "A ten-frame shows 1 filled spaces, then 5 more counters are added beside it. How many altogether?",
-    "visual": "● ○ ○ ○ ○\n○ ○ ○ ○ ○\nExtra: ■ ■ ■ ■ ■",
-    "correct": "6",
-    "tolerance": 0,
-    "placeholder": "Type the number",
-    "explanation": "1+5=6.",
-    "modelAnswer": "6"
-  },
-  {
-    "id": "ac9mfn04-t-022",
-    "curriculumCode": "AC9MFN04",
-    "bank": "test",
-    "skill": "different partitions same whole",
-    "printable": true,
-    "type": "single",
-    "question": "There are 5 counters. 2 are red. How many are blue?",
-    "answers": [
-      "3",
-      "2",
-      "4"
-    ],
-    "correct": 0,
-    "explanation": "Both selected pairs have a total of 7."
-  },
-  {
-    "id": "ac9mfn04-t-023",
-    "curriculumCode": "AC9MFN04",
-    "bank": "test",
-    "skill": "match model to statement",
-    "printable": true,
-    "type": "single",
-    "question": "There are 6 counters. 2 are red. How many are blue?",
+    "question": "Which sentence matches Kai's tiles?",
     "visual": "● ● ●   ■ ■",
     "answers": [
-      "4",
-      "3",
-      "5"
+      "5 is 3 and 5",
+      "5 is 3 and 2",
+      "5 is 2 and 5"
     ],
-    "correct": 0,
-    "explanation": "The visible parts contain 3 and 2; together they make 5."
-  },
-  {
-    "id": "ac9mfn04-t-024",
-    "curriculumCode": "AC9MFN04",
-    "bank": "test",
-    "skill": "reverse parts",
-    "printable": true,
-    "type": "true-false",
-    "question": "4 and 2 make 6, so 2 and 4 also make 6.",
-    "visual": "● ● ● ● + ■ ■\n■ ■ + ● ● ● ●",
-    "answers": [
-      "True",
-      "False"
-    ],
-    "correct": 0,
-    "explanation": "Changing the order of the parts does not change the whole."
+    "correct": 1,
+    "explanation": "The picture has 3 in one part and 2 in the other part, making 5 altogether.",
+    "structuredExplanation": {
+      "summary": "The picture has 3 in one part and 2 in the other part, making 5 altogether.",
+      "hint": "Count each colour, then name the whole."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 16,
+    "qualitySchema": "foundation-maths-ixl-standard-v1",
+    "editorialReview": {
+      "status": "reviewed",
+      "date": "2026-09-06",
+      "method": "ACARA descriptor mapped against actual IXL skill-page examples and representative questions",
+      "evidence": "docs/foundation-maths-n04-n06-question-bank-ixl-standard-2026-09-06.md",
+      "originality": "Original SkillrHub wording and visuals; IXL used only for instructional structure and cognitive-load benchmarking."
+    }
   }
 ];

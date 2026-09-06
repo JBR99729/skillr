@@ -4,399 +4,512 @@ window.skillrTestQuestions = [
     "id": "ac9mfn06-t-001",
     "curriculumCode": "AC9MFN06",
     "bank": "test",
-    "skill": "fair sharing",
+    "skill": "spot unequal sharing",
     "printable": true,
-    "type": "number",
-    "question": "Share 4 counters equally between 4 children. How many does each child get?",
-    "visual": "● ● ● ●\nChildren: ▲ ▲ ▲ ▲",
-    "correct": "1",
-    "tolerance": 0,
-    "placeholder": "Type the number",
-    "explanation": "Deal one at a time. Each child receives 1.",
-    "modelAnswer": "1"
+    "type": "single",
+    "question": "Mia wants every child to receive the same number of counters. Which sharing is fair?",
+    "visual": "",
+    "answers": [
+      "1, 1, 1",
+      "2, 1, 0",
+      "4, 0, 0"
+    ],
+    "correct": 0,
+    "explanation": "A fair share gives the same number to each group.",
+    "structuredExplanation": {
+      "summary": "A fair share gives the same number to each group.",
+      "hint": "Equal means every share has the same number."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 1,
+    "qualitySchema": "foundation-maths-ixl-standard-v1",
+    "editorialReview": {
+      "status": "reviewed",
+      "date": "2026-09-06",
+      "method": "ACARA descriptor mapped against actual IXL skill-page examples and representative questions",
+      "evidence": "docs/foundation-maths-n04-n06-question-bank-ixl-standard-2026-09-06.md",
+      "originality": "Original SkillrHub wording and visuals; IXL used only for instructional structure and cognitive-load benchmarking."
+    }
   },
   {
     "id": "ac9mfn06-t-002",
     "curriculumCode": "AC9MFN06",
     "bank": "test",
-    "skill": "recognise fair share",
+    "skill": "sharing versus grouping",
     "printable": true,
     "type": "single",
-    "question": "[Show A: two groups of 2 counters. Show B: one group of 2 and one group of 3.] Which shows equal groups?",
+    "question": "Which sentence describes Noah's equal-group model?",
+    "visual": "[ ★ ★ ★ ★ ]   [ ★ ★ ★ ★ ]",
     "answers": [
-      "[ ● ● ]   [ ● ● ]",
-      "[ ● ● ● ]   [ ● ● ● ]",
-      "[ ● ● ] [ ]"
+      "4 equal groups of 2",
+      "2 equal groups of 4",
+      "8 equal groups of 4"
     ],
-    "correct": 0,
-    "explanation": "A fair share has the same number in every group and uses all 4 objects."
+    "correct": 1,
+    "explanation": "The model shows 2 groups, with 4 in each group.",
+    "structuredExplanation": {
+      "summary": "The model shows 2 groups, with 4 in each group.",
+      "hint": "Say the number of groups first, then the number in each group."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 2,
+    "qualitySchema": "foundation-maths-ixl-standard-v1",
+    "editorialReview": {
+      "status": "reviewed",
+      "date": "2026-09-06",
+      "method": "ACARA descriptor mapped against actual IXL skill-page examples and representative questions",
+      "evidence": "docs/foundation-maths-n04-n06-question-bank-ixl-standard-2026-09-06.md",
+      "originality": "Original SkillrHub wording and visuals; IXL used only for instructional structure and cognitive-load benchmarking."
+    }
   },
   {
     "id": "ac9mfn06-t-003",
     "curriculumCode": "AC9MFN06",
     "bank": "test",
-    "skill": "count group total",
+    "skill": "fair sharing",
     "printable": true,
     "type": "single",
-    "question": "Share 12 counters equally between 4 children. How many counters does each child get?",
-    "visual": "[ ● ● ● ]   [ ● ● ● ]   [ ● ● ● ]   [ ● ● ● ]",
-    "correct": 0,
-    "tolerance": 0,
-    "placeholder": "Type the number",
-    "explanation": "4 equal groups of 3 contain 12.",
+    "question": "Ava shares 12 beads equally between 3 children. How many beads does each child get?",
+    "visual": "● ● ● ● ● ● ● ● ● ● ● ●\nChildren: ▲ ▲ ▲",
     "answers": [
       "3",
-      "2",
+      "12",
       "4"
-    ]
+    ],
+    "correct": 2,
+    "explanation": "Fair sharing gives the same amount to each child. 12 counters shared between 3 children gives 4 each.",
+    "structuredExplanation": {
+      "summary": "Fair sharing gives the same amount to each child. 12 counters shared between 3 children gives 4 each.",
+      "hint": "Deal one counter to each child in turn."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 3,
+    "qualitySchema": "foundation-maths-ixl-standard-v1",
+    "editorialReview": {
+      "status": "reviewed",
+      "date": "2026-09-06",
+      "method": "ACARA descriptor mapped against actual IXL skill-page examples and representative questions",
+      "evidence": "docs/foundation-maths-n04-n06-question-bank-ixl-standard-2026-09-06.md",
+      "originality": "Original SkillrHub wording and visuals; IXL used only for instructional structure and cognitive-load benchmarking."
+    }
   },
   {
     "id": "ac9mfn06-t-004",
     "curriculumCode": "AC9MFN06",
     "bank": "test",
-    "skill": "count number of groups",
+    "skill": "count equal groups",
     "printable": true,
     "type": "single",
-    "question": "Make groups of 1 using 2 counters. How many equal groups can you make?",
-    "visual": "[ ■ ■ ■ ■ ]   [ ■ ■ ■ ■ ]   [ ■ ■ ■ ■ ]   [ ■ ■ ■ ■ ]   [ ■ ■ ■ ■ ]",
-    "correct": 0,
-    "tolerance": 0,
-    "placeholder": "Type the number",
-    "explanation": "Count groups of 4: there are 5.",
+    "question": "Leo makes equal groups of stars. How many equal groups are shown?",
+    "visual": "[ ■ ■ ■ ]   [ ■ ■ ■ ]   [ ■ ■ ■ ]   [ ■ ■ ■ ]",
     "answers": [
-      "2",
-      "1",
-      "3"
-    ]
+      "4",
+      "3",
+      "12"
+    ],
+    "correct": 0,
+    "explanation": "There are 4 groups, and each group has 3 objects.",
+    "structuredExplanation": {
+      "summary": "There are 4 groups, and each group has 3 objects.",
+      "hint": "Count the groups, not every object."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 4,
+    "qualitySchema": "foundation-maths-ixl-standard-v1",
+    "editorialReview": {
+      "status": "reviewed",
+      "date": "2026-09-06",
+      "method": "ACARA descriptor mapped against actual IXL skill-page examples and representative questions",
+      "evidence": "docs/foundation-maths-n04-n06-question-bank-ixl-standard-2026-09-06.md",
+      "originality": "Original SkillrHub wording and visuals; IXL used only for instructional structure and cognitive-load benchmarking."
+    }
   },
   {
     "id": "ac9mfn06-t-005",
     "curriculumCode": "AC9MFN06",
     "bank": "test",
-    "skill": "equal or unequal",
+    "skill": "objects in each group",
     "printable": true,
     "type": "single",
-    "question": "Are the two groups equal?",
-    "visual": "A: [ ● ● ]\nB: [ ● ● ]",
+    "question": "Zoe checks that each group is equal. How many counters are in each group?",
+    "visual": "[ ◆ ◆ ◆ ]   [ ◆ ◆ ◆ ]   [ ◆ ◆ ◆ ]",
     "answers": [
-      "Yes, both groups have 2",
-      "Yes, because both use circles",
-      "No, equal groups must be empty"
+      "9",
+      "3",
+      "4"
     ],
-    "correct": 0,
-    "explanation": "Each group contains 2."
+    "correct": 1,
+    "explanation": "Each bracket has 3 objects, so 3 objects are in each equal group.",
+    "structuredExplanation": {
+      "summary": "Each bracket has 3 objects, so 3 objects are in each equal group.",
+      "hint": "Count just one group when all groups are equal."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 5,
+    "qualitySchema": "foundation-maths-ixl-standard-v1",
+    "editorialReview": {
+      "status": "reviewed",
+      "date": "2026-09-06",
+      "method": "ACARA descriptor mapped against actual IXL skill-page examples and representative questions",
+      "evidence": "docs/foundation-maths-n04-n06-question-bank-ixl-standard-2026-09-06.md",
+      "originality": "Original SkillrHub wording and visuals; IXL used only for instructional structure and cognitive-load benchmarking."
+    }
   },
   {
     "id": "ac9mfn06-t-006",
     "curriculumCode": "AC9MFN06",
     "bank": "test",
-    "skill": "fair sharing method",
+    "skill": "make groups of a fixed size",
     "printable": true,
     "type": "single",
-    "question": "Which action is best for sharing fairly?",
+    "question": "Put 8 blocks into groups of 2. How many equal groups can you make?",
+    "visual": "[ ● ● ]   [ ● ● ]   [ ● ● ]   [ ● ● ]",
     "answers": [
-      "Give one object to each group in turn",
-      "Give everything to the first group",
-      "Guess without checking"
+      "2",
+      "8",
+      "4"
     ],
-    "correct": 0,
-    "explanation": "Dealing one at a time helps keep shares equal."
+    "correct": 2,
+    "explanation": "8 buttons can be arranged as 4 equal groups of 2.",
+    "structuredExplanation": {
+      "summary": "8 buttons can be arranged as 4 equal groups of 2.",
+      "hint": "The group size is fixed, so count how many groups are made."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 6,
+    "qualitySchema": "foundation-maths-ixl-standard-v1",
+    "editorialReview": {
+      "status": "reviewed",
+      "date": "2026-09-06",
+      "method": "ACARA descriptor mapped against actual IXL skill-page examples and representative questions",
+      "evidence": "docs/foundation-maths-n04-n06-question-bank-ixl-standard-2026-09-06.md",
+      "originality": "Original SkillrHub wording and visuals; IXL used only for instructional structure and cognitive-load benchmarking."
+    }
   },
   {
     "id": "ac9mfn06-t-007",
     "curriculumCode": "AC9MFN06",
     "bank": "test",
-    "skill": "can share exactly",
+    "skill": "spot unequal sharing",
     "printable": true,
     "type": "single",
-    "question": "Can 12 objects be shared equally between 4 children with none left?",
+    "question": "Lina wants every child to receive the same number of beads. Which sharing is fair?",
+    "visual": "",
     "answers": [
-      "Yes",
-      "Only if the objects are the same colour",
-      "Always"
+      "2, 2",
+      "3, 2, 1",
+      "4, 0, 0"
     ],
     "correct": 0,
-    "explanation": "12 divides into equal shares."
+    "explanation": "A fair share gives the same number to each group.",
+    "structuredExplanation": {
+      "summary": "A fair share gives the same number to each group.",
+      "hint": "Equal means every share has the same number."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 7,
+    "qualitySchema": "foundation-maths-ixl-standard-v1",
+    "editorialReview": {
+      "status": "reviewed",
+      "date": "2026-09-06",
+      "method": "ACARA descriptor mapped against actual IXL skill-page examples and representative questions",
+      "evidence": "docs/foundation-maths-n04-n06-question-bank-ixl-standard-2026-09-06.md",
+      "originality": "Original SkillrHub wording and visuals; IXL used only for instructional structure and cognitive-load benchmarking."
+    }
   },
   {
     "id": "ac9mfn06-t-008",
     "curriculumCode": "AC9MFN06",
     "bank": "test",
-    "skill": "spot unfair share",
+    "skill": "sharing versus grouping",
     "printable": true,
     "type": "single",
-    "question": "9 counters should be shared among 3 children. Which share is unfair?",
+    "question": "Which sentence describes Kai's equal-group model?",
+    "visual": "[ ★ ]   [ ★ ]   [ ★ ]",
     "answers": [
-      "2, 3, 4",
-      "3, 3, 3",
-      "Deal one at a time"
+      "1 equal groups of 3",
+      "3 equal groups of 1",
+      "0"
     ],
-    "correct": 0,
-    "explanation": "The amounts 2, 3, 4 are not equal."
+    "correct": 1,
+    "explanation": "The model shows 3 groups, with 1 in each group.",
+    "structuredExplanation": {
+      "summary": "The model shows 3 groups, with 1 in each group.",
+      "hint": "Say the number of groups first, then the number in each group."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 8,
+    "qualitySchema": "foundation-maths-ixl-standard-v1",
+    "editorialReview": {
+      "status": "reviewed",
+      "date": "2026-09-06",
+      "method": "ACARA descriptor mapped against actual IXL skill-page examples and representative questions",
+      "evidence": "docs/foundation-maths-n04-n06-question-bank-ixl-standard-2026-09-06.md",
+      "originality": "Original SkillrHub wording and visuals; IXL used only for instructional structure and cognitive-load benchmarking."
+    }
   },
   {
     "id": "ac9mfn06-t-009",
     "curriculumCode": "AC9MFN06",
     "bank": "test",
-    "skill": "sharing versus grouping",
+    "skill": "fair sharing",
     "printable": true,
     "type": "single",
-    "question": "Share 2 counters equally between 2 children. How many counters does each child get?",
+    "question": "Mia shares 2 counters equally between 2 children. How many counters does each child get?",
+    "visual": "● ●\nChildren: ▲ ▲",
     "answers": [
-      "1",
+      "2",
       "0",
-      "2"
+      "1"
     ],
-    "correct": 0,
-    "explanation": "Sharing asks how many each recipient gets."
+    "correct": 2,
+    "explanation": "Fair sharing gives the same amount to each child. 2 counters shared between 2 children gives 1 each.",
+    "structuredExplanation": {
+      "summary": "Fair sharing gives the same amount to each child. 2 counters shared between 2 children gives 1 each.",
+      "hint": "Deal one counter to each child in turn."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 9,
+    "qualitySchema": "foundation-maths-ixl-standard-v1",
+    "editorialReview": {
+      "status": "reviewed",
+      "date": "2026-09-06",
+      "method": "ACARA descriptor mapped against actual IXL skill-page examples and representative questions",
+      "evidence": "docs/foundation-maths-n04-n06-question-bank-ixl-standard-2026-09-06.md",
+      "originality": "Original SkillrHub wording and visuals; IXL used only for instructional structure and cognitive-load benchmarking."
+    }
   },
   {
     "id": "ac9mfn06-t-010",
     "curriculumCode": "AC9MFN06",
     "bank": "test",
-    "skill": "grouping versus sharing",
+    "skill": "count equal groups",
     "printable": true,
     "type": "single",
-    "question": "Make groups of 2 using 6 counters. How many equal groups can you make?",
+    "question": "Noah makes equal groups of blocks. How many equal groups are shown?",
+    "visual": "[ ■ ■ ■ ■ ]   [ ■ ■ ■ ■ ]   [ ■ ■ ■ ■ ]",
     "answers": [
       "3",
-      "2",
-      "4"
+      "4",
+      "12"
     ],
     "correct": 0,
-    "explanation": "Grouping fixes the group size and asks for the number of groups."
+    "explanation": "There are 3 groups, and each group has 4 objects.",
+    "structuredExplanation": {
+      "summary": "There are 3 groups, and each group has 4 objects.",
+      "hint": "Count the groups, not every object."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 10,
+    "qualitySchema": "foundation-maths-ixl-standard-v1",
+    "editorialReview": {
+      "status": "reviewed",
+      "date": "2026-09-06",
+      "method": "ACARA descriptor mapped against actual IXL skill-page examples and representative questions",
+      "evidence": "docs/foundation-maths-n04-n06-question-bank-ixl-standard-2026-09-06.md",
+      "originality": "Original SkillrHub wording and visuals; IXL used only for instructional structure and cognitive-load benchmarking."
+    }
   },
   {
     "id": "ac9mfn06-t-011",
     "curriculumCode": "AC9MFN06",
     "bank": "test",
-    "skill": "use all objects",
+    "skill": "objects in each group",
     "printable": true,
     "type": "single",
-    "question": "Share 12 counters equally between 4 children. How many counters does each child get?",
-    "visual": "[ ● ● ]   [ ● ● ]   [ ● ● ]",
+    "question": "Ava checks that each group is equal. How many beads are in each group?",
+    "visual": "[ ◆ ◆ ◆ ◆ ]   [ ◆ ◆ ◆ ◆ ]   [ ◆ ◆ ◆ ◆ ]   [ ◆ ◆ ◆ ◆ ]",
     "answers": [
-      "3",
-      "2",
-      "4"
+      "16",
+      "4",
+      "5"
     ],
-    "correct": 0,
-    "explanation": "3 groups of 2 total 6."
+    "correct": 1,
+    "explanation": "Each bracket has 4 objects, so 4 objects are in each equal group.",
+    "structuredExplanation": {
+      "summary": "Each bracket has 4 objects, so 4 objects are in each equal group.",
+      "hint": "Count just one group when all groups are equal."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 11,
+    "qualitySchema": "foundation-maths-ixl-standard-v1",
+    "editorialReview": {
+      "status": "reviewed",
+      "date": "2026-09-06",
+      "method": "ACARA descriptor mapped against actual IXL skill-page examples and representative questions",
+      "evidence": "docs/foundation-maths-n04-n06-question-bank-ixl-standard-2026-09-06.md",
+      "originality": "Original SkillrHub wording and visuals; IXL used only for instructional structure and cognitive-load benchmarking."
+    }
   },
   {
     "id": "ac9mfn06-t-012",
     "curriculumCode": "AC9MFN06",
     "bank": "test",
-    "skill": "leftover reasoning",
+    "skill": "make groups of a fixed size",
     "printable": true,
     "type": "single",
-    "question": "10 counters are put into 3 equal groups. What happens?",
+    "question": "Put 6 stars into groups of 3. How many equal groups can you make?",
+    "visual": "[ ● ● ● ]   [ ● ● ● ]",
     "answers": [
-      "1 counter is left over",
-      "Every group gets one extra",
-      "No counters are used"
+      "3",
+      "6",
+      "2"
     ],
-    "correct": 0,
-    "explanation": "9 can be shared equally; one remains."
+    "correct": 2,
+    "explanation": "6 buttons can be arranged as 2 equal groups of 3.",
+    "structuredExplanation": {
+      "summary": "6 buttons can be arranged as 2 equal groups of 3.",
+      "hint": "The group size is fixed, so count how many groups are made."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 12,
+    "qualitySchema": "foundation-maths-ixl-standard-v1",
+    "editorialReview": {
+      "status": "reviewed",
+      "date": "2026-09-06",
+      "method": "ACARA descriptor mapped against actual IXL skill-page examples and representative questions",
+      "evidence": "docs/foundation-maths-n04-n06-question-bank-ixl-standard-2026-09-06.md",
+      "originality": "Original SkillrHub wording and visuals; IXL used only for instructional structure and cognitive-load benchmarking."
+    }
   },
   {
     "id": "ac9mfn06-t-013",
     "curriculumCode": "AC9MFN06",
     "bank": "test",
-    "skill": "select equal groups",
+    "skill": "spot unequal sharing",
     "printable": true,
     "type": "single",
-    "question": "Share 6 counters equally between 3 children. How many counters does each child get?",
+    "question": "Zoe wants every child to receive the same number of counters. Which sharing is fair?",
+    "visual": "",
     "answers": [
-      "2",
-      "1",
-      "3"
+      "3, 3, 3",
+      "4, 3, 2",
+      "12, 0, 0"
     ],
     "correct": 0,
-    "explanation": "In each selected arrangement, every group has the same size."
+    "explanation": "A fair share gives the same number to each group.",
+    "structuredExplanation": {
+      "summary": "A fair share gives the same number to each group.",
+      "hint": "Equal means every share has the same number."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 13,
+    "qualitySchema": "foundation-maths-ixl-standard-v1",
+    "editorialReview": {
+      "status": "reviewed",
+      "date": "2026-09-06",
+      "method": "ACARA descriptor mapped against actual IXL skill-page examples and representative questions",
+      "evidence": "docs/foundation-maths-n04-n06-question-bank-ixl-standard-2026-09-06.md",
+      "originality": "Original SkillrHub wording and visuals; IXL used only for instructional structure and cognitive-load benchmarking."
+    }
   },
   {
     "id": "ac9mfn06-t-014",
     "curriculumCode": "AC9MFN06",
     "bank": "test",
-    "skill": "fair dealing sequence",
+    "skill": "sharing versus grouping",
     "printable": true,
     "type": "single",
-    "question": "Make groups of 3 using 12 counters. How many equal groups can you make?",
-    "items": [
-      "Check the groups are equal",
-      "Give one object to each group",
-      "Repeat until all 4 objects are used"
-    ],
-    "correct": 0,
-    "instruction": "Use the arrows to put them in order.",
-    "explanation": "Deal in turns, use all objects, then check.",
+    "question": "Which sentence describes Sam's equal-group model?",
+    "visual": "[ ★ ★ ]   [ ★ ★ ]",
     "answers": [
-      "4",
-      "3",
-      "5"
-    ]
+      "4 equal groups of 2",
+      "2 equal groups of 2",
+      "0"
+    ],
+    "correct": 1,
+    "explanation": "The model shows 2 groups, with 2 in each group.",
+    "structuredExplanation": {
+      "summary": "The model shows 2 groups, with 2 in each group.",
+      "hint": "Say the number of groups first, then the number in each group."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 14,
+    "qualitySchema": "foundation-maths-ixl-standard-v1",
+    "editorialReview": {
+      "status": "reviewed",
+      "date": "2026-09-06",
+      "method": "ACARA descriptor mapped against actual IXL skill-page examples and representative questions",
+      "evidence": "docs/foundation-maths-n04-n06-question-bank-ixl-standard-2026-09-06.md",
+      "originality": "Original SkillrHub wording and visuals; IXL used only for instructional structure and cognitive-load benchmarking."
+    }
   },
   {
     "id": "ac9mfn06-t-015",
     "curriculumCode": "AC9MFN06",
     "bank": "test",
-    "skill": "misconception group count",
+    "skill": "fair sharing",
     "printable": true,
     "type": "single",
-    "question": "Lina sees 3 groups of 3 and says the total is 6. What is correct?",
+    "question": "Lina shares 6 beads equally between 3 children. How many beads does each child get?",
+    "visual": "● ● ● ● ● ●\nChildren: ▲ ▲ ▲",
     "answers": [
-      "Count every object: the total is 9",
-      "Add the group count and group size every time",
-      "Only count one group"
+      "3",
+      "6",
+      "2"
     ],
-    "correct": 0,
-    "explanation": "Equal groups must be counted across all groups."
+    "correct": 2,
+    "explanation": "Fair sharing gives the same amount to each child. 6 counters shared between 3 children gives 2 each.",
+    "structuredExplanation": {
+      "summary": "Fair sharing gives the same amount to each child. 6 counters shared between 3 children gives 2 each.",
+      "hint": "Deal one counter to each child in turn."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 15,
+    "qualitySchema": "foundation-maths-ixl-standard-v1",
+    "editorialReview": {
+      "status": "reviewed",
+      "date": "2026-09-06",
+      "method": "ACARA descriptor mapped against actual IXL skill-page examples and representative questions",
+      "evidence": "docs/foundation-maths-n04-n06-question-bank-ixl-standard-2026-09-06.md",
+      "originality": "Original SkillrHub wording and visuals; IXL used only for instructional structure and cognitive-load benchmarking."
+    }
   },
   {
     "id": "ac9mfn06-t-016",
     "curriculumCode": "AC9MFN06",
     "bank": "test",
-    "skill": "fairness reasoning",
+    "skill": "count equal groups",
     "printable": true,
     "type": "single",
-    "question": "Three children receive 3, 3 and 3 stickers. Why is the share fair?",
+    "question": "Kai makes equal groups of stars. How many equal groups are shown?",
+    "visual": "[ ■ ]   [ ■ ]   [ ■ ]   [ ■ ]",
     "answers": [
-      "Everyone receives the same number",
-      "The stickers are colourful",
-      "The first child was served first"
+      "4",
+      "1",
+      "5"
     ],
     "correct": 0,
-    "explanation": "Fair sharing means equal amounts."
-  },
-  {
-    "id": "ac9mfn06-t-017",
-    "curriculumCode": "AC9MFN06",
-    "bank": "test",
-    "skill": "fair sharing",
-    "printable": true,
-    "type": "number",
-    "question": "Share 2 counters equally between 2 children. How many does each child get?",
-    "visual": "● ●\nChildren: ▲ ▲",
-    "correct": "1",
-    "tolerance": 0,
-    "placeholder": "Type the number",
-    "explanation": "Deal one at a time. Each child receives 1.",
-    "modelAnswer": "1"
-  },
-  {
-    "id": "ac9mfn06-t-018",
-    "curriculumCode": "AC9MFN06",
-    "bank": "test",
-    "skill": "recognise fair share",
-    "printable": true,
-    "type": "single",
-    "question": "[Show A: two groups of 2 counters. Show B: one group of 2 and one group of 3.] Which shows equal groups?",
-    "answers": [
-      "[ ● ● ● ]   [ ● ● ● ]   [ ● ● ● ]",
-      "[ ● ● ● ● ]   [ ● ● ● ● ]   [ ● ● ● ● ]",
-      "[ ● ● ● ]   [ ● ● ● ] [ ]"
-    ],
-    "correct": 0,
-    "explanation": "A fair share has the same number in every group and uses all 9 objects."
-  },
-  {
-    "id": "ac9mfn06-t-019",
-    "curriculumCode": "AC9MFN06",
-    "bank": "test",
-    "skill": "count group total",
-    "printable": true,
-    "type": "single",
-    "question": "Share 12 counters equally between 4 children. How many counters does each child get?",
-    "visual": "[ ● ● ● ● ]   [ ● ● ● ● ]   [ ● ● ● ● ]   [ ● ● ● ● ]",
-    "correct": 0,
-    "tolerance": 0,
-    "placeholder": "Type the number",
-    "explanation": "4 equal groups of 4 contain 16.",
-    "answers": [
-      "3",
-      "2",
-      "4"
-    ]
-  },
-  {
-    "id": "ac9mfn06-t-020",
-    "curriculumCode": "AC9MFN06",
-    "bank": "test",
-    "skill": "count number of groups",
-    "printable": true,
-    "type": "number",
-    "question": "10 buttons are put into groups of 2. How many groups are made?",
-    "visual": "[ ■ ■ ]   [ ■ ■ ]   [ ■ ■ ]   [ ■ ■ ]   [ ■ ■ ]",
-    "correct": "5",
-    "tolerance": 0,
-    "placeholder": "Type the number",
-    "explanation": "Count groups of 2: there are 5.",
-    "modelAnswer": "5"
-  },
-  {
-    "id": "ac9mfn06-t-021",
-    "curriculumCode": "AC9MFN06",
-    "bank": "test",
-    "skill": "equal or unequal",
-    "printable": true,
-    "type": "single",
-    "question": "Are the two groups equal?",
-    "visual": "A: [ ● ● ● ]\nB: [ ● ● ● ]",
-    "answers": [
-      "Yes, both groups have 3",
-      "Yes, because both use circles",
-      "No, equal groups must be empty"
-    ],
-    "correct": 0,
-    "explanation": "Each group contains 3."
-  },
-  {
-    "id": "ac9mfn06-t-022",
-    "curriculumCode": "AC9MFN06",
-    "bank": "test",
-    "skill": "fair sharing method",
-    "printable": true,
-    "type": "single",
-    "question": "Which action is best for sharing fairly?",
-    "answers": [
-      "Give one object to each group in turn",
-      "Give everything to the first group",
-      "Guess without checking"
-    ],
-    "correct": 0,
-    "explanation": "Dealing one at a time helps keep shares equal."
-  },
-  {
-    "id": "ac9mfn06-t-023",
-    "curriculumCode": "AC9MFN06",
-    "bank": "test",
-    "skill": "can share exactly",
-    "printable": true,
-    "type": "single",
-    "question": "Can 4 objects be shared equally between 4 children with none left?",
-    "answers": [
-      "Yes",
-      "Only if the objects are the same colour",
-      "Always"
-    ],
-    "correct": 0,
-    "explanation": "4 divides into equal shares."
-  },
-  {
-    "id": "ac9mfn06-t-024",
-    "curriculumCode": "AC9MFN06",
-    "bank": "test",
-    "skill": "spot unfair share",
-    "printable": true,
-    "type": "single",
-    "question": "9 counters should be shared among 3 children. Which share is unfair?",
-    "answers": [
-      "2, 3, 4",
-      "3, 3, 3",
-      "Deal one at a time"
-    ],
-    "correct": 0,
-    "explanation": "The amounts 2, 3, 4 are not equal."
+    "explanation": "There are 4 groups, and each group has 1 objects.",
+    "structuredExplanation": {
+      "summary": "There are 4 groups, and each group has 1 objects.",
+      "hint": "Count the groups, not every object."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 16,
+    "qualitySchema": "foundation-maths-ixl-standard-v1",
+    "editorialReview": {
+      "status": "reviewed",
+      "date": "2026-09-06",
+      "method": "ACARA descriptor mapped against actual IXL skill-page examples and representative questions",
+      "evidence": "docs/foundation-maths-n04-n06-question-bank-ixl-standard-2026-09-06.md",
+      "originality": "Original SkillrHub wording and visuals; IXL used only for instructional structure and cognitive-load benchmarking."
+    }
   }
 ];
