@@ -384,7 +384,7 @@ window.SkillrDailyCatalog = {
           "slug": "numbers-place-value-to-120",
           "title": "Number and Place Value to 120",
           "kind": "number",
-          "summary": "Read, order and partition numbers to at least 120.",
+          "summary": "Read and order numbers to 120; partition one- and two-digit numbers.",
           "bullets": [
             "read and write numbers",
             "tens and ones",
