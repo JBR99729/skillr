@@ -4,28 +4,31 @@ window.skillrTestQuestions = [
     "id": "ac9m2m02-t-001",
     "curriculumCode": "AC9M2M02",
     "bank": "test",
-    "skill": "recognise half in measure",
+    "skill": "recognise half",
     "printable": true,
     "type": "single",
-    "question": "In the garden, which picture would show one half of the garden bed?",
-    "audioPrompt": "In the garden, which picture would show one half of the garden bed?",
-    "visual": "In the garden: One garden bed divided into 2 equal parts with 1 part shaded.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In the garden: One garden bed divided into 2 equal parts with 1 part shaded.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2m02.svg#ac9m2m02-t-001\"></use></svg>",
+    "question": "A square napkin is divided into two equal rectangles. One rectangle is coloured. What fraction is coloured?",
+    "audioPrompt": "A square napkin is divided into two equal rectangles. One rectangle is coloured. What fraction is coloured?",
+    "visual": "A square napkin has two equal horizontal sections, one coloured.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A square napkin has two equal horizontal sections, one coloured.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2m02.svg?v=20260906-year2-pending-release#ac9m2m02-t-001\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m02.svg#ac9m2m02-t-001",
-      "alt_text": "In the garden: One garden bed divided into 2 equal parts with 1 part shaded."
+      "alt_text": "A square napkin has two equal horizontal sections, one coloured.",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m02.svg?v=20260906-year2-pending-release#ac9m2m02-t-001"
     },
     "answers": [
-      "1 of 3 equal parts shaded",
-      "1 of 2 equal parts shaded",
-      "1 of 2 unequal parts shaded"
+      "One quarter",
+      "One eighth",
+      "One half"
     ],
-    "correct": 1,
-    "explanation": "One half is one of 2 equal parts of the same whole.\nHint: Check the number of parts and whether they are equal.",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 1,
+    "correct": 2,
+    "explanation": "One of 2 equal parts is one half of the whole napkin.\nHint: Include the uncoloured part when counting the whole.",
     "structuredExplanation": {
-      "summary": "One half is one of 2 equal parts of the same whole.",
-      "hint": "Check the number of parts and whether they are equal."
+      "summary": "One of 2 equal parts is one half of the whole napkin.",
+      "hint": "Include the uncoloured part when counting the whole."
     },
     "qualitySchema": "production-v1"
   },
@@ -33,28 +36,31 @@ window.skillrTestQuestions = [
     "id": "ac9m2m02-t-002",
     "curriculumCode": "AC9M2M02",
     "bank": "test",
-    "skill": "recognise quarter in measure",
+    "skill": "recognise quarter",
     "printable": true,
     "type": "single",
-    "question": "In the garden, the garden bed is cut into 4 equal pieces. What is one piece called?",
-    "audioPrompt": "In the garden, the garden bed is cut into 4 equal pieces. What is one piece called?",
-    "visual": "In the garden: One garden bed divided into 4 equal parts with 1 part shaded.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In the garden: One garden bed divided into 4 equal parts with 1 part shaded.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2m02.svg#ac9m2m02-t-002\"></use></svg>",
+    "question": "The garden plan is split into the equal sections shown. What fraction is the coloured flower bed?",
+    "audioPrompt": "The garden plan is split into the equal sections shown. What fraction is the coloured flower bed?",
+    "visual": "A rectangular garden plan has four equal strips, one coloured.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A rectangular garden plan has four equal strips, one coloured.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2m02.svg?v=20260906-year2-pending-release#ac9m2m02-t-002\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m02.svg#ac9m2m02-t-002",
-      "alt_text": "In the garden: One garden bed divided into 4 equal parts with 1 part shaded."
+      "alt_text": "A rectangular garden plan has four equal strips, one coloured.",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m02.svg?v=20260906-year2-pending-release#ac9m2m02-t-002"
     },
     "answers": [
-      "One half",
+      "One quarter",
       "One eighth",
-      "One quarter"
+      "One half"
     ],
-    "correct": 2,
-    "explanation": "One of 4 equal parts is one quarter.\nHint: The fraction name tells how many equal parts make the whole.",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 2,
+    "correct": 0,
+    "explanation": "The coloured bed is one of 4 equal parts of the whole garden plan.\nHint: Count all the equal sections.",
     "structuredExplanation": {
-      "summary": "One of 4 equal parts is one quarter.",
-      "hint": "The fraction name tells how many equal parts make the whole."
+      "summary": "The coloured bed is one of 4 equal parts of the whole garden plan.",
+      "hint": "Count all the equal sections."
     },
     "qualitySchema": "production-v1"
   },
@@ -62,28 +68,30 @@ window.skillrTestQuestions = [
     "id": "ac9m2m02-t-003",
     "curriculumCode": "AC9M2M02",
     "bank": "test",
-    "skill": "compose eighths",
+    "skill": "recognise eighth",
     "printable": true,
     "type": "single",
-    "question": "In the garden, how many eighths make one whole garden bed?",
-    "audioPrompt": "In the garden, how many eighths make one whole garden bed?",
-    "visual": "In the garden: One garden bed divided into 8 equal parts.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In the garden: One garden bed divided into 8 equal parts.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2m02.svg#ac9m2m02-t-003\"></use></svg>",
+    "question": "A rectangular snack is cut into 8 equal pieces. One piece is packed for lunch. What fraction of the whole snack is packed?",
+    "audioPrompt": "A rectangular snack is cut into 8 equal pieces. One piece is packed for lunch. What fraction of the whole snack is packed?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m02.svg#ac9m2m02-t-003",
-      "alt_text": "In the garden: One garden bed divided into 8 equal parts."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "8",
-      "4",
-      "2"
+      "One quarter",
+      "One eighth",
+      "One half"
     ],
-    "correct": 0,
-    "explanation": "Eight one-eighth parts join to make one whole.\nHint: Count all the equal pieces in the whole.",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 3,
+    "correct": 1,
+    "explanation": "One of 8 equal pieces is one eighth of the snack.\nHint: Name one equal part of a whole divided into eight.",
     "structuredExplanation": {
-      "summary": "Eight one-eighth parts join to make one whole.",
-      "hint": "Count all the equal pieces in the whole."
+      "summary": "One of 8 equal pieces is one eighth of the snack.",
+      "hint": "Name one equal part of a whole divided into eight."
     },
     "qualitySchema": "production-v1"
   },
@@ -91,28 +99,30 @@ window.skillrTestQuestions = [
     "id": "ac9m2m02-t-004",
     "curriculumCode": "AC9M2M02",
     "bank": "test",
-    "skill": "compare fraction units",
+    "skill": "equal sharing",
     "printable": true,
     "type": "single",
-    "question": "In the garden, which is smaller: one quarter or one eighth of the same garden bed?",
-    "audioPrompt": "In the garden, which is smaller: one quarter or one eighth of the same garden bed?",
-    "visual": "In the garden: The same-size garden bed shown once in quarters and once in eighths.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In the garden: The same-size garden bed shown once in quarters and once in eighths.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2m02.svg#ac9m2m02-t-004\"></use></svg>",
+    "question": "Which cut gives two people half of one sandwich each?",
+    "audioPrompt": "Which cut gives two people half of one sandwich each?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m02.svg#ac9m2m02-t-004",
-      "alt_text": "In the garden: The same-size garden bed shown once in quarters and once in eighths."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "One quarter",
-      "One eighth",
-      "They are the same size"
+      "A cut making 1 large and 1 small piece",
+      "A cut making 2 equal-sized pieces",
+      "A cut taking off one small corner"
     ],
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 4,
     "correct": 1,
-    "explanation": "When the same whole is split into more equal parts, each part is smaller.\nHint: Compare 4 equal cuts with 8 equal cuts.",
+    "explanation": "Each half must be the same-sized part of the whole sandwich.\nHint: Two pieces alone do not guarantee halves.",
     "structuredExplanation": {
-      "summary": "When the same whole is split into more equal parts, each part is smaller.",
-      "hint": "Compare 4 equal cuts with 8 equal cuts."
+      "summary": "Each half must be the same-sized part of the whole sandwich.",
+      "hint": "Two pieces alone do not guarantee halves."
     },
     "qualitySchema": "production-v1"
   },
@@ -120,28 +130,30 @@ window.skillrTestQuestions = [
     "id": "ac9m2m02-t-005",
     "curriculumCode": "AC9M2M02",
     "bank": "test",
-    "skill": "connect fraction to time",
+    "skill": "event quarter",
     "printable": true,
     "type": "single",
-    "question": "In the garden, a timer shows half an hour. How many equal half-hours make one hour?",
-    "audioPrompt": "In the garden, a timer shows half an hour. How many equal half-hours make one hour?",
-    "visual": "In the garden: One hour bar divided into 2 equal half-hour parts.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In the garden: One hour bar divided into 2 equal half-hour parts.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2m02.svg#ac9m2m02-t-005\"></use></svg>",
+    "question": "A practice session has 4 activities that last equally long. What fraction of the total activity time is the first activity?",
+    "audioPrompt": "A practice session has 4 activities that last equally long. What fraction of the total activity time is the first activity?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m02.svg#ac9m2m02-t-005",
-      "alt_text": "In the garden: One hour bar divided into 2 equal half-hour parts."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "4",
-      "8",
-      "2"
+      "One half",
+      "One eighth",
+      "One quarter"
     ],
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 5,
     "correct": 2,
-    "explanation": "Two half-hours join to make one whole hour.\nHint: Think of an hour split into 2 equal time parts.",
+    "explanation": "The activity uses one of 4 equal durations.\nHint: Use the equal time, not the activity’s name.",
     "structuredExplanation": {
-      "summary": "Two half-hours join to make one whole hour.",
-      "hint": "Think of an hour split into 2 equal time parts."
+      "summary": "The activity uses one of 4 equal durations.",
+      "hint": "Use the equal time, not the activity’s name."
     },
     "qualitySchema": "production-v1"
   },
@@ -149,28 +161,30 @@ window.skillrTestQuestions = [
     "id": "ac9m2m02-t-006",
     "curriculumCode": "AC9M2M02",
     "bank": "test",
-    "skill": "connect fraction to turn",
+    "skill": "event eighth",
     "printable": true,
     "type": "single",
-    "question": "In the garden, a full turn is split into 4 equal turns. What is each turn?",
-    "audioPrompt": "In the garden, a full turn is split into 4 equal turns. What is each turn?",
-    "visual": "In the garden: An arrow making one quarter of a full turn from north to east.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In the garden: An arrow making one quarter of a full turn from north to east.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2m02.svg#ac9m2m02-t-006\"></use></svg>",
+    "question": "Eight equally long songs make up a concert. After one song, what fraction of the singing time has passed?",
+    "audioPrompt": "Eight equally long songs make up a concert. After one song, what fraction of the singing time has passed?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m02.svg#ac9m2m02-t-006",
-      "alt_text": "In the garden: An arrow making one quarter of a full turn from north to east."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "A quarter turn",
-      "A half turn",
-      "An eighth turn"
+      "One eighth",
+      "One quarter",
+      "One half"
     ],
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 6,
     "correct": 0,
-    "explanation": "Four equal quarter turns make one full turn.\nHint: The whole turn is divided into 4 equal parts.",
+    "explanation": "One of 8 equal song durations is one eighth of the singing time.\nHint: Count equal-duration parts of the concert.",
     "structuredExplanation": {
-      "summary": "Four equal quarter turns make one full turn.",
-      "hint": "The whole turn is divided into 4 equal parts."
+      "summary": "One of 8 equal song durations is one eighth of the singing time.",
+      "hint": "Count equal-duration parts of the concert."
     },
     "qualitySchema": "production-v1"
   },
@@ -178,28 +192,30 @@ window.skillrTestQuestions = [
     "id": "ac9m2m02-t-007",
     "curriculumCode": "AC9M2M02",
     "bank": "test",
-    "skill": "identify equal quarters",
+    "skill": "quarter hour meaning",
     "printable": true,
     "type": "single",
-    "question": "In the garden, which sharing shows quarters of one garden bed?",
-    "audioPrompt": "In the garden, which sharing shows quarters of one garden bed?",
-    "visual": "In the garden: One garden bed divided into 4 equal sections.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In the garden: One garden bed divided into 4 equal sections.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2m02.svg#ac9m2m02-t-007\"></use></svg>",
+    "question": "A timer divides one hour into 4 equal stretches. What is one stretch called?",
+    "audioPrompt": "A timer divides one hour into 4 equal stretches. What is one stretch called?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m02.svg#ac9m2m02-t-007",
-      "alt_text": "In the garden: One garden bed divided into 4 equal sections."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "4 different-sized shares",
-      "4 equal shares",
-      "2 equal shares"
+      "A quarter of an hour",
+      "Half an hour",
+      "An eighth of an hour"
     ],
-    "correct": 1,
-    "explanation": "Quarters must be 4 equal parts of one whole.\nHint: Count the shares, then check they are equal.",
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 7,
+    "correct": 0,
+    "explanation": "A quarter of an hour is one of 4 equal durations making up the hour.\nHint: The whole time is one hour.",
     "structuredExplanation": {
-      "summary": "Quarters must be 4 equal parts of one whole.",
-      "hint": "Count the shares, then check they are equal."
+      "summary": "A quarter of an hour is one of 4 equal durations making up the hour.",
+      "hint": "The whole time is one hour."
     },
     "qualitySchema": "production-v1"
   },
@@ -207,28 +223,30 @@ window.skillrTestQuestions = [
     "id": "ac9m2m02-t-008",
     "curriculumCode": "AC9M2M02",
     "bank": "test",
-    "skill": "make eighths by halving",
+    "skill": "representation quarter",
     "printable": true,
     "type": "single",
-    "question": "In the garden, the garden bed is folded in half three times. How many equal parts are made?",
-    "audioPrompt": "In the garden, the garden bed is folded in half three times. How many equal parts are made?",
-    "visual": "In the garden: One garden bed divided into 8 equal parts after three halvings.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In the garden: One garden bed divided into 8 equal parts after three halvings.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2m02.svg#ac9m2m02-t-008\"></use></svg>",
+    "question": "A border has 8 equal panels. How many panels should be painted to show one quarter of the border?",
+    "audioPrompt": "A border has 8 equal panels. How many panels should be painted to show one quarter of the border?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m02.svg#ac9m2m02-t-008",
-      "alt_text": "In the garden: One garden bed divided into 8 equal parts after three halvings."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "6",
-      "4",
-      "8"
+      "1 panel",
+      "4 panels",
+      "2 panels"
     ],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 8,
     "correct": 2,
-    "explanation": "Repeated halving makes 2, then 4, then 8 equal parts.\nHint: Double the number of parts after every fold.",
+    "explanation": "Four equal groups of 2 panels make all 8 panels, so one group is one quarter.\nHint: Share the panels into four equal groups.",
     "structuredExplanation": {
-      "summary": "Repeated halving makes 2, then 4, then 8 equal parts.",
-      "hint": "Double the number of parts after every fold."
+      "summary": "Four equal groups of 2 panels make all 8 panels, so one group is one quarter.",
+      "hint": "Share the panels into four equal groups."
     },
     "qualitySchema": "production-v1"
   },
@@ -236,28 +254,30 @@ window.skillrTestQuestions = [
     "id": "ac9m2m02-t-009",
     "curriculumCode": "AC9M2M02",
     "bank": "test",
-    "skill": "recognise half in measure",
+    "skill": "representation half",
     "printable": true,
     "type": "single",
-    "question": "At the playdough table, which picture would show one half of the playdough slab?",
-    "audioPrompt": "At the playdough table, which picture would show one half of the playdough slab?",
-    "visual": "At the playdough table: One playdough slab divided into 2 equal parts with 1 part shaded.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the playdough table: One playdough slab divided into 2 equal parts with 1 part shaded.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2m02.svg#ac9m2m02-t-009\"></use></svg>",
+    "question": "A swimming practice has 8 equal lengths. After how many lengths is half the distance finished?",
+    "audioPrompt": "A swimming practice has 8 equal lengths. After how many lengths is half the distance finished?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m02.svg#ac9m2m02-t-009",
-      "alt_text": "At the playdough table: One playdough slab divided into 2 equal parts with 1 part shaded."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "1 of 2 equal parts shaded",
-      "1 of 3 equal parts shaded",
-      "1 of 2 unequal parts shaded"
+      "2 lengths",
+      "4 lengths",
+      "6 lengths"
     ],
-    "correct": 0,
-    "explanation": "One half is one of 2 equal parts of the same whole.\nHint: Check the number of parts and whether they are equal.",
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 9,
+    "correct": 1,
+    "explanation": "Four equal lengths are half of eight; four lengths remain.\nHint: Half the distance is equal to the distance left.",
     "structuredExplanation": {
-      "summary": "One half is one of 2 equal parts of the same whole.",
-      "hint": "Check the number of parts and whether they are equal."
+      "summary": "Four equal lengths are half of eight; four lengths remain.",
+      "hint": "Half the distance is equal to the distance left."
     },
     "qualitySchema": "production-v1"
   },
@@ -265,28 +285,30 @@ window.skillrTestQuestions = [
     "id": "ac9m2m02-t-010",
     "curriculumCode": "AC9M2M02",
     "bank": "test",
-    "skill": "recognise quarter in measure",
+    "skill": "halves alternative",
     "printable": true,
     "type": "single",
-    "question": "At the playdough table, the playdough slab is cut into 4 equal pieces. What is one piece called?",
-    "audioPrompt": "At the playdough table, the playdough slab is cut into 4 equal pieces. What is one piece called?",
-    "visual": "At the playdough table: One playdough slab divided into 4 equal parts with 1 part shaded.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the playdough table: One playdough slab divided into 4 equal parts with 1 part shaded.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2m02.svg#ac9m2m02-t-010\"></use></svg>",
+    "question": "A square is cut diagonally into 2 matching triangles. Can one triangle represent half a square?",
+    "audioPrompt": "A square is cut diagonally into 2 matching triangles. Can one triangle represent half a square?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m02.svg#ac9m2m02-t-010",
-      "alt_text": "At the playdough table: One playdough slab divided into 4 equal parts with 1 part shaded."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "One half",
-      "One quarter",
-      "One eighth"
+      "Yes; the triangles cover equal areas",
+      "No; halves must be rectangles",
+      "No; triangles only show quarters"
     ],
-    "correct": 1,
-    "explanation": "One of 4 equal parts is one quarter.\nHint: The fraction name tells how many equal parts make the whole.",
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 10,
+    "correct": 0,
+    "explanation": "The two matching triangles together make the square, so each is one half.\nHint: The shape of a part does not decide its fraction.",
     "structuredExplanation": {
-      "summary": "One of 4 equal parts is one quarter.",
-      "hint": "The fraction name tells how many equal parts make the whole."
+      "summary": "The two matching triangles together make the square, so each is one half.",
+      "hint": "The shape of a part does not decide its fraction."
     },
     "qualitySchema": "production-v1"
   },
@@ -294,28 +316,30 @@ window.skillrTestQuestions = [
     "id": "ac9m2m02-t-011",
     "curriculumCode": "AC9M2M02",
     "bank": "test",
-    "skill": "compose eighths",
+    "skill": "fractions require equal time",
     "printable": true,
     "type": "single",
-    "question": "At the playdough table, how many eighths make one whole playdough slab?",
-    "audioPrompt": "At the playdough table, how many eighths make one whole playdough slab?",
-    "visual": "At the playdough table: One playdough slab divided into 8 equal parts.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the playdough table: One playdough slab divided into 8 equal parts.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2m02.svg#ac9m2m02-t-011\"></use></svg>",
+    "question": "A trip has 8 stages with very different journey times. Is the first stage necessarily one eighth of the trip’s time?",
+    "audioPrompt": "A trip has 8 stages with very different journey times. Is the first stage necessarily one eighth of the trip’s time?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m02.svg#ac9m2m02-t-011",
-      "alt_text": "At the playdough table: One playdough slab divided into 8 equal parts."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "4",
-      "2",
-      "8"
+      "Yes; it is one of 8 stages",
+      "No; the times are not equal",
+      "Yes; it happens first"
     ],
-    "correct": 2,
-    "explanation": "Eight one-eighth parts join to make one whole.\nHint: Count all the equal pieces in the whole.",
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 11,
+    "correct": 1,
+    "explanation": "With unequal stage times, counting one stage out of eight does not tell us what fraction of the total time it takes.\nHint: Check whether the measured parts are equal.",
     "structuredExplanation": {
-      "summary": "Eight one-eighth parts join to make one whole.",
-      "hint": "Count all the equal pieces in the whole."
+      "summary": "With unequal stage times, counting one stage out of eight does not tell us what fraction of the total time it takes.",
+      "hint": "Check whether the measured parts are equal."
     },
     "qualitySchema": "production-v1"
   },
@@ -323,28 +347,30 @@ window.skillrTestQuestions = [
     "id": "ac9m2m02-t-012",
     "curriculumCode": "AC9M2M02",
     "bank": "test",
-    "skill": "compare fraction units",
+    "skill": "compare same whole",
     "printable": true,
     "type": "single",
-    "question": "At the playdough table, which is smaller: one quarter or one eighth of the same playdough slab?",
-    "audioPrompt": "At the playdough table, which is smaller: one quarter or one eighth of the same playdough slab?",
-    "visual": "At the playdough table: The same-size playdough slab shown once in quarters and once in eighths.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the playdough table: The same-size playdough slab shown once in quarters and once in eighths.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2m02.svg#ac9m2m02-t-012\"></use></svg>",
+    "question": "The same sheet can be cut into equal halves or equal quarters. Which cut makes smaller pieces?",
+    "audioPrompt": "The same sheet can be cut into equal halves or equal quarters. Which cut makes smaller pieces?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m02.svg#ac9m2m02-t-012",
-      "alt_text": "At the playdough table: The same-size playdough slab shown once in quarters and once in eighths."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "One eighth",
-      "One quarter",
-      "They are the same size"
+      "Halves",
+      "Both make pieces of the same size",
+      "Quarters"
     ],
-    "correct": 0,
-    "explanation": "When the same whole is split into more equal parts, each part is smaller.\nHint: Compare 4 equal cuts with 8 equal cuts.",
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 12,
+    "correct": 2,
+    "explanation": "Four equal parts of the same sheet are smaller than two equal parts.\nHint: The whole sheet stays the same size.",
     "structuredExplanation": {
-      "summary": "When the same whole is split into more equal parts, each part is smaller.",
-      "hint": "Compare 4 equal cuts with 8 equal cuts."
+      "summary": "Four equal parts of the same sheet are smaller than two equal parts.",
+      "hint": "The whole sheet stays the same size."
     },
     "qualitySchema": "production-v1"
   },
@@ -352,28 +378,31 @@ window.skillrTestQuestions = [
     "id": "ac9m2m02-t-013",
     "curriculumCode": "AC9M2M02",
     "bank": "test",
-    "skill": "connect fraction to time",
+    "skill": "capacity quarter",
     "printable": true,
     "type": "single",
-    "question": "At the playdough table, a timer shows half an hour. How many equal half-hours make one hour?",
-    "audioPrompt": "At the playdough table, a timer shows half an hour. How many equal half-hours make one hour?",
-    "visual": "At the playdough table: One hour bar divided into 2 equal half-hour parts.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the playdough table: One hour bar divided into 2 equal half-hour parts.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2m02.svg#ac9m2m02-t-013\"></use></svg>",
+    "question": "A straight-sided tank has a uniform width and depth. Its height is marked into 4 equal sections. The lowest section is full of water. What fraction of the tank’s capacity is filled?",
+    "audioPrompt": "A straight-sided tank has a uniform width and depth. Its height is marked into 4 equal sections. The lowest section is full of water. What fraction of the tank’s capacity is filled?",
+    "visual": "A uniform tank is marked into four equal-height sections; water fills the lowest section.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A uniform tank is marked into four equal-height sections; water fills the lowest section.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2m02.svg?v=20260906-year2-pending-release#ac9m2m02-t-013\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m02.svg#ac9m2m02-t-013",
-      "alt_text": "At the playdough table: One hour bar divided into 2 equal half-hour parts."
+      "alt_text": "A uniform tank is marked into four equal-height sections; water fills the lowest section.",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m02.svg?v=20260906-year2-pending-release#ac9m2m02-t-013"
     },
     "answers": [
-      "4",
-      "2",
-      "8"
+      "One half",
+      "One eighth",
+      "One quarter"
     ],
-    "correct": 1,
-    "explanation": "Two half-hours join to make one whole hour.\nHint: Think of an hour split into 2 equal time parts.",
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 13,
+    "correct": 2,
+    "explanation": "The 4 equal-height sections have equal capacities because the tank’s width and depth stay the same. One is filled.\nHint: One of four equal amounts is filled.",
     "structuredExplanation": {
-      "summary": "Two half-hours join to make one whole hour.",
-      "hint": "Think of an hour split into 2 equal time parts."
+      "summary": "The 4 equal-height sections have equal capacities because the tank’s width and depth stay the same. One is filled.",
+      "hint": "One of four equal amounts is filled."
     },
     "qualitySchema": "production-v1"
   },
@@ -381,28 +410,30 @@ window.skillrTestQuestions = [
     "id": "ac9m2m02-t-014",
     "curriculumCode": "AC9M2M02",
     "bank": "test",
-    "skill": "connect fraction to turn",
+    "skill": "whole from eighths",
     "printable": true,
     "type": "single",
-    "question": "At the playdough table, a full turn is split into 4 equal turns. What is each turn?",
-    "audioPrompt": "At the playdough table, a full turn is split into 4 equal turns. What is each turn?",
-    "visual": "At the playdough table: An arrow making one quarter of a full turn from north to east.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the playdough table: An arrow making one quarter of a full turn from north to east.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2m02.svg#ac9m2m02-t-014\"></use></svg>",
+    "question": "A whole bread roll is cut into 8 equal pieces. Seven pieces are on a plate. How many more eighths are needed to complete the roll?",
+    "audioPrompt": "A whole bread roll is cut into 8 equal pieces. Seven pieces are on a plate. How many more eighths are needed to complete the roll?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m02.svg#ac9m2m02-t-014",
-      "alt_text": "At the playdough table: An arrow making one quarter of a full turn from north to east."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "A half turn",
-      "An eighth turn",
-      "A quarter turn"
+      "1 eighth",
+      "2 eighths",
+      "4 eighths"
     ],
-    "correct": 2,
-    "explanation": "Four equal quarter turns make one full turn.\nHint: The whole turn is divided into 4 equal parts.",
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 14,
+    "correct": 0,
+    "explanation": "Eight eighths make the roll. Seven are present, so one more is needed.\nHint: Count the missing equal part.",
     "structuredExplanation": {
-      "summary": "Four equal quarter turns make one full turn.",
-      "hint": "The whole turn is divided into 4 equal parts."
+      "summary": "Eight eighths make the roll. Seven are present, so one more is needed.",
+      "hint": "Count the missing equal part."
     },
     "qualitySchema": "production-v1"
   },
@@ -410,28 +441,30 @@ window.skillrTestQuestions = [
     "id": "ac9m2m02-t-015",
     "curriculumCode": "AC9M2M02",
     "bank": "test",
-    "skill": "identify equal quarters",
+    "skill": "equal parts not count only",
     "printable": true,
     "type": "single",
-    "question": "At the playdough table, which sharing shows quarters of one playdough slab?",
-    "audioPrompt": "At the playdough table, which sharing shows quarters of one playdough slab?",
-    "visual": "At the playdough table: One playdough slab divided into 4 equal sections.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the playdough table: One playdough slab divided into 4 equal sections.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2m02.svg#ac9m2m02-t-015\"></use></svg>",
+    "question": "A paper model has 4 parts. What must you check before labelling each part a quarter?",
+    "audioPrompt": "A paper model has 4 parts. What must you check before labelling each part a quarter?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m02.svg#ac9m2m02-t-015",
-      "alt_text": "At the playdough table: One playdough slab divided into 4 equal sections."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "4 equal shares",
-      "4 different-sized shares",
-      "2 equal shares"
+      "All 4 parts have different colours",
+      "All 4 parts cover equal amounts of the paper",
+      "All 4 parts have names"
     ],
-    "correct": 0,
-    "explanation": "Quarters must be 4 equal parts of one whole.\nHint: Count the shares, then check they are equal.",
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 15,
+    "correct": 1,
+    "explanation": "Each quarter must be one of 4 equal-area parts of the original paper.\nHint: The number of parts is only part of the check.",
     "structuredExplanation": {
-      "summary": "Quarters must be 4 equal parts of one whole.",
-      "hint": "Count the shares, then check they are equal."
+      "summary": "Each quarter must be one of 4 equal-area parts of the original paper.",
+      "hint": "The number of parts is only part of the check."
     },
     "qualitySchema": "production-v1"
   },
@@ -439,28 +472,36 @@ window.skillrTestQuestions = [
     "id": "ac9m2m02-t-016",
     "curriculumCode": "AC9M2M02",
     "bank": "test",
-    "skill": "make eighths by halving",
+    "skill": "represent eighth object",
     "printable": true,
-    "type": "single",
-    "question": "At the playdough table, the playdough slab is folded in half three times. How many equal parts are made?",
-    "audioPrompt": "At the playdough table, the playdough slab is folded in half three times. How many equal parts are made?",
-    "visual": "At the playdough table: One playdough slab divided into 8 equal parts after three halvings.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the playdough table: One playdough slab divided into 8 equal parts after three halvings.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2m02.svg#ac9m2m02-t-016\"></use></svg>",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "One whole rectangle split into 8 equal-area parts, with exactly one part coloured and labelled “one eighth”.",
+    "acceptanceNote": "Accept eight equal strips, a 2-by-4 grid or another valid equal-area partition. Check that the whole bar is represented.",
+    "responseInstructions": "Draw and label your answer on paper, then ask an adult to check it.",
+    "completionLabel": "Ready for adult review",
+    "question": "Draw one rectangular fruit bar. Divide the whole bar into eighths and colour one portion. Label that portion.",
+    "audioPrompt": "Draw one rectangular fruit bar. Divide the whole bar into eighths and colour one portion. Label that portion.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m02.svg#ac9m2m02-t-016",
-      "alt_text": "At the playdough table: One playdough slab divided into 8 equal parts after three halvings."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "6",
-      "8",
-      "4"
+      "Completed response",
+      "Needs revision",
+      "Not attempted"
     ],
-    "correct": 1,
-    "explanation": "Repeated halving makes 2, then 4, then 8 equal parts.\nHint: Double the number of parts after every fold.",
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 16,
+    "correct": "One whole rectangle split into 8 equal-area parts, with exactly one part coloured and labelled “one eighth”.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
-      "summary": "Repeated halving makes 2, then 4, then 8 equal parts.",
-      "hint": "Double the number of parts after every fold."
+      "summary": "One whole rectangle split into 8 equal-area parts, with exactly one part coloured and labelled “one eighth”.",
+      "hint": "Accept eight equal strips, a 2-by-4 grid or another valid equal-area partition. Check that the whole bar is represented."
     },
     "qualitySchema": "production-v1"
   }

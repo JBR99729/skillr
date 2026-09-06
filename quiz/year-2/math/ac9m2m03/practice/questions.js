@@ -4,31 +4,31 @@ window.skillrPracticeQuestions = [
     "id": "ac9m2m03-p-001",
     "curriculumCode": "AC9M2M03",
     "bank": "practice",
-    "skill": "find date one week later",
+    "skill": "date",
     "printable": true,
     "type": "single",
-    "question": "On the class calendar, the class visit is on the 2nd. What date is one week later?",
-    "audioPrompt": "On the class calendar, the class visit is on the 2nd. What date is one week later?",
-    "visual": "On the class calendar: Calendar with the 2nd and 9th highlighted one week apart.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"On the class calendar: Calendar with the 2nd and 9th highlighted one week apart.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2m03.svg#ac9m2m03-p-001\"></use></svg>",
+    "question": "Use the September calendar. What day of the week is 10 September?",
+    "audioPrompt": "Use the September calendar. What day of the week is 10 September?",
+    "visual": "September 2026 calendar, Monday-first; highlighted dates: .",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"September 2026 calendar, Monday-first; highlighted dates: .\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2m03.svg?v=20260906-year2-pending-release#ac9m2m03-p-001\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m03.svg#ac9m2m03-p-001",
-      "alt_text": "On the class calendar: Calendar with the 2nd and 9th highlighted one week apart."
+      "alt_text": "September 2026 calendar, Monday-first; highlighted dates: .",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m03.svg?v=20260906-year2-pending-release#ac9m2m03-p-001"
     },
     "answers": [
-      "8th",
-      "10th",
-      "9th"
+      "Wednesday",
+      "Thursday",
+      "Friday"
     ],
     "difficulty": 1,
-    "difficultyTier": "confidence",
+    "difficultyTier": "recognise",
     "sequencePriority": 1,
-    "correct": 2,
-    "explanation": "One week is 7 days, so 2 + 7 = 9.\nHint: Move down one full week on the calendar.",
+    "correct": 1,
+    "explanation": "Find 10 and follow its column to Thursday.\nHint: Use the information in the question and check each step.",
     "structuredExplanation": {
-      "summary": "One week is 7 days, so 2 + 7 = 9.",
-      "hint": "Move down one full week on the calendar."
+      "summary": "Find 10 and follow its column to Thursday.",
+      "hint": "Use the information in the question and check each step."
     },
     "qualitySchema": "production-v1"
   },
@@ -36,31 +36,31 @@ window.skillrPracticeQuestions = [
     "id": "ac9m2m03-p-002",
     "curriculumCode": "AC9M2M03",
     "bank": "practice",
-    "skill": "count days between dates",
+    "skill": "date",
     "printable": true,
     "type": "single",
-    "question": "On the class calendar, how many days are between the 2nd and the 5th?",
-    "audioPrompt": "On the class calendar, how many days are between the 2nd and the 5th?",
-    "visual": "On the class calendar: Calendar with the 2nd and 5th highlighted.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"On the class calendar: Calendar with the 2nd and 5th highlighted.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2m03.svg#ac9m2m03-p-002\"></use></svg>",
+    "question": "What is the date of the first Monday in September?",
+    "audioPrompt": "What is the date of the first Monday in September?",
+    "visual": "September 2026 calendar, Monday-first; highlighted dates: .",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"September 2026 calendar, Monday-first; highlighted dates: .\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2m03.svg?v=20260906-year2-pending-release#ac9m2m03-p-002\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m03.svg#ac9m2m03-p-002",
-      "alt_text": "On the class calendar: Calendar with the 2nd and 5th highlighted."
+      "alt_text": "September 2026 calendar, Monday-first; highlighted dates: .",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m03.svg?v=20260906-year2-pending-release#ac9m2m03-p-002"
     },
     "answers": [
-      "3",
-      "4",
-      "2"
+      "7 September",
+      "1 September",
+      "14 September"
     ],
     "difficulty": 1,
-    "difficultyTier": "confidence",
-    "sequencePriority": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 2,
     "correct": 0,
-    "explanation": "Count the jumps after the 2nd: there are 3 days to the 5th.\nHint: Do not count the starting date as a jump.",
+    "explanation": "The first date in the Monday column is 7.\nHint: Use the information in the question and check each step.",
     "structuredExplanation": {
-      "summary": "Count the jumps after the 2nd: there are 3 days to the 5th.",
-      "hint": "Do not count the starting date as a jump."
+      "summary": "The first date in the Monday column is 7.",
+      "hint": "Use the information in the question and check each step."
     },
     "qualitySchema": "production-v1"
   },
@@ -68,31 +68,31 @@ window.skillrPracticeQuestions = [
     "id": "ac9m2m03-p-003",
     "curriculumCode": "AC9M2M03",
     "bank": "practice",
-    "skill": "move forward on week",
+    "skill": "month length",
     "printable": true,
     "type": "single",
-    "question": "On the class calendar, today is Monday. What day is 3 days later?",
-    "audioPrompt": "On the class calendar, today is Monday. What day is 3 days later?",
-    "visual": "On the class calendar: A row of weekday cards starting on Monday with 3 forward jumps.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"On the class calendar: A row of weekday cards starting on Monday with 3 forward jumps.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2m03.svg#ac9m2m03-p-003\"></use></svg>",
+    "question": "How many days are in the month shown?",
+    "audioPrompt": "How many days are in the month shown?",
+    "visual": "September 2026 calendar, Monday-first; highlighted dates: .",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"September 2026 calendar, Monday-first; highlighted dates: .\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2m03.svg?v=20260906-year2-pending-release#ac9m2m03-p-003\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m03.svg#ac9m2m03-p-003",
-      "alt_text": "On the class calendar: A row of weekday cards starting on Monday with 3 forward jumps."
+      "alt_text": "September 2026 calendar, Monday-first; highlighted dates: .",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m03.svg?v=20260906-year2-pending-release#ac9m2m03-p-003"
     },
     "answers": [
-      "Tuesday",
-      "Thursday",
-      "Friday"
+      "31",
+      "28",
+      "30"
     ],
     "difficulty": 1,
-    "difficultyTier": "confidence",
-    "sequencePriority": 1,
-    "correct": 1,
-    "explanation": "Move forward 3 days from Monday.\nHint: Use one jump for each day.",
+    "difficultyTier": "recognise",
+    "sequencePriority": 3,
+    "correct": 2,
+    "explanation": "The final numbered date in September is 30.\nHint: Use the information in the question and check each step.",
     "structuredExplanation": {
-      "summary": "Move forward 3 days from Monday.",
-      "hint": "Use one jump for each day."
+      "summary": "The final numbered date in September is 30.",
+      "hint": "Use the information in the question and check each step."
     },
     "qualitySchema": "production-v1"
   },
@@ -100,31 +100,31 @@ window.skillrPracticeQuestions = [
     "id": "ac9m2m03-p-004",
     "curriculumCode": "AC9M2M03",
     "bank": "practice",
-    "skill": "distinguish date and day",
+    "skill": "weekday wrap",
     "printable": true,
     "type": "single",
-    "question": "On the class calendar, which is a date?",
-    "audioPrompt": "On the class calendar, which is a date?",
-    "visual": "On the class calendar: May calendar with the 5th highlighted.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"On the class calendar: May calendar with the 5th highlighted.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2m03.svg#ac9m2m03-p-004\"></use></svg>",
+    "question": "On this calendar, what date comes immediately after Sunday 6 September?",
+    "audioPrompt": "On this calendar, what date comes immediately after Sunday 6 September?",
+    "visual": "September 2026 calendar, Monday-first; highlighted dates: .",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"September 2026 calendar, Monday-first; highlighted dates: .\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2m03.svg?v=20260906-year2-pending-release#ac9m2m03-p-004\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m03.svg#ac9m2m03-p-004",
-      "alt_text": "On the class calendar: May calendar with the 5th highlighted."
+      "alt_text": "September 2026 calendar, Monday-first; highlighted dates: .",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m03.svg?v=20260906-year2-pending-release#ac9m2m03-p-004"
     },
     "answers": [
-      "Thursday",
-      "After lunch",
-      "5th of May"
+      "Sunday 13 September",
+      "Monday 14 September",
+      "Monday 7 September"
     ],
     "difficulty": 1,
-    "difficultyTier": "confidence",
-    "sequencePriority": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 4,
     "correct": 2,
-    "explanation": "A date gives a number and a month: 5th of May.\nHint: A day name is not a full date.",
+    "explanation": "Move forward one date, wrapping to the next row.\nHint: Use the information in the question and check each step.",
     "structuredExplanation": {
-      "summary": "A date gives a number and a month: 5th of May.",
-      "hint": "A day name is not a full date."
+      "summary": "Move forward one date, wrapping to the next row.",
+      "hint": "Use the information in the question and check each step."
     },
     "qualitySchema": "production-v1"
   },
@@ -132,31 +132,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m2m03-p-005",
     "curriculumCode": "AC9M2M03",
     "bank": "practice",
-    "skill": "solve calendar event problem",
+    "skill": "date not weekday",
     "printable": true,
     "type": "single",
-    "question": "On the class calendar, the library day is the 2nd. Sports day is 3 days later. What is the sports date?",
-    "audioPrompt": "On the class calendar, the library day is the 2nd. Sports day is 3 days later. What is the sports date?",
-    "visual": "On the class calendar: Calendar with library day on the 2nd and sports day on the 5th.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"On the class calendar: Calendar with library day on the 2nd and sports day on the 5th.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2m03.svg#ac9m2m03-p-005\"></use></svg>",
+    "question": "Which note gives a date, rather than only a weekday or a month?",
+    "audioPrompt": "Which note gives a date, rather than only a weekday or a month?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m03.svg#ac9m2m03-p-005",
-      "alt_text": "On the class calendar: Calendar with library day on the 2nd and sports day on the 5th."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "5th",
-      "6th",
-      "4th"
+      "Monday",
+      "12 October",
+      "October"
     ],
     "difficulty": 1,
-    "difficultyTier": "confidence",
-    "sequencePriority": 1,
-    "correct": 0,
-    "explanation": "Starting after the 2nd, count 3 jumps to reach the 5th.\nHint: Put your finger on the start, then move once for each day.",
+    "difficultyTier": "recognise",
+    "sequencePriority": 5,
+    "correct": 1,
+    "explanation": "A date identifies a numbered day within a named month.\nHint: Use the information in the question and check each step.",
     "structuredExplanation": {
-      "summary": "Starting after the 2nd, count 3 jumps to reach the 5th.",
-      "hint": "Put your finger on the start, then move once for each day."
+      "summary": "A date identifies a numbered day within a named month.",
+      "hint": "Use the information in the question and check each step."
     },
     "qualitySchema": "production-v1"
   },
@@ -164,31 +163,31 @@ window.skillrPracticeQuestions = [
     "id": "ac9m2m03-p-006",
     "curriculumCode": "AC9M2M03",
     "bank": "practice",
-    "skill": "choose calendar counting method",
+    "skill": "week",
     "printable": true,
     "type": "single",
-    "question": "On the class calendar, which method correctly counts days from the 2nd to the 5th?",
-    "audioPrompt": "On the class calendar, which method correctly counts days from the 2nd to the 5th?",
-    "visual": "On the class calendar: Calendar showing 3 jumps between two highlighted dates.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"On the class calendar: Calendar showing 3 jumps between two highlighted dates.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2m03.svg#ac9m2m03-p-006\"></use></svg>",
+    "question": "A lesson is on 9 September. Use the calendar to find the date one week later.",
+    "audioPrompt": "A lesson is on 9 September. Use the calendar to find the date one week later.",
+    "visual": "September 2026 calendar, Monday-first; highlighted dates: .",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"September 2026 calendar, Monday-first; highlighted dates: .\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2m03.svg?v=20260906-year2-pending-release#ac9m2m03-p-006\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m03.svg#ac9m2m03-p-006",
-      "alt_text": "On the class calendar: Calendar showing 3 jumps between two highlighted dates."
+      "alt_text": "September 2026 calendar, Monday-first; highlighted dates: .",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m03.svg?v=20260906-year2-pending-release#ac9m2m03-p-006"
     },
     "answers": [
-      "Count the 2nd as jump 1",
-      "Start after the 2nd and count 3 jumps",
-      "Count backwards from the 2nd"
+      "16 September",
+      "10 September",
+      "15 September"
     ],
     "difficulty": 1,
-    "difficultyTier": "confidence",
-    "sequencePriority": 1,
-    "correct": 1,
-    "explanation": "Days between dates are counted as jumps after the starting date.\nHint: Trace the spaces from one date to the next.",
+    "difficultyTier": "recognise",
+    "sequencePriority": 6,
+    "correct": 0,
+    "explanation": "A week is 7 days. Move down one row in the same weekday column.\nHint: Use the information in the question and check each step.",
     "structuredExplanation": {
-      "summary": "Days between dates are counted as jumps after the starting date.",
-      "hint": "Trace the spaces from one date to the next."
+      "summary": "A week is 7 days. Move down one row in the same weekday column.",
+      "hint": "Use the information in the question and check each step."
     },
     "qualitySchema": "production-v1"
   },
@@ -196,31 +195,31 @@ window.skillrPracticeQuestions = [
     "id": "ac9m2m03-p-007",
     "curriculumCode": "AC9M2M03",
     "bank": "practice",
-    "skill": "find date one week before",
+    "skill": "back week",
     "printable": true,
     "type": "single",
-    "question": "On the class calendar, a camp starts on the 9th. What date was one week before?",
-    "audioPrompt": "On the class calendar, a camp starts on the 9th. What date was one week before?",
-    "visual": "On the class calendar: Calendar with two dates one week apart, ending on the 9th.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"On the class calendar: Calendar with two dates one week apart, ending on the 9th.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2m03.svg#ac9m2m03-p-007\"></use></svg>",
+    "question": "A show is on 24 September. Rehearsal is one week earlier. What is its date?",
+    "audioPrompt": "A show is on 24 September. Rehearsal is one week earlier. What is its date?",
+    "visual": "September 2026 calendar, Monday-first; highlighted dates: .",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"September 2026 calendar, Monday-first; highlighted dates: .\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2m03.svg?v=20260906-year2-pending-release#ac9m2m03-p-007\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m03.svg#ac9m2m03-p-007",
-      "alt_text": "On the class calendar: Calendar with two dates one week apart, ending on the 9th."
+      "alt_text": "September 2026 calendar, Monday-first; highlighted dates: .",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m03.svg?v=20260906-year2-pending-release#ac9m2m03-p-007"
     },
     "answers": [
-      "3rd",
-      "8th",
-      "2nd"
+      "23 September",
+      "17 September",
+      "31 September"
     ],
     "difficulty": 1,
-    "difficultyTier": "confidence",
-    "sequencePriority": 1,
-    "correct": 2,
-    "explanation": "One week before means move back 7 days, to the 2nd.\nHint: Move up one row on the calendar.",
+    "difficultyTier": "recognise",
+    "sequencePriority": 7,
+    "correct": 1,
+    "explanation": "Move back 7 days: 24 minus 7 is 17.\nHint: Use the information in the question and check each step.",
     "structuredExplanation": {
-      "summary": "One week before means move back 7 days, to the 2nd.",
-      "hint": "Move up one row on the calendar."
+      "summary": "Move back 7 days: 24 minus 7 is 17.",
+      "hint": "Use the information in the question and check each step."
     },
     "qualitySchema": "production-v1"
   },
@@ -228,31 +227,31 @@ window.skillrPracticeQuestions = [
     "id": "ac9m2m03-p-008",
     "curriculumCode": "AC9M2M03",
     "bank": "practice",
-    "skill": "identify next calendar day",
+    "skill": "interval",
     "printable": true,
     "type": "single",
-    "question": "On the class calendar, the 5th is a Friday. What day is the 6th?",
-    "audioPrompt": "On the class calendar, the 5th is a Friday. What day is the 6th?",
-    "visual": "On the class calendar: Two neighbouring calendar dates, the 5th and 6th.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"On the class calendar: Two neighbouring calendar dates, the 5th and 6th.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2m03.svg#ac9m2m03-p-008\"></use></svg>",
+    "question": "A seed is planted on 3 September and sprouts on 7 September. How many days later is that?",
+    "audioPrompt": "A seed is planted on 3 September and sprouts on 7 September. How many days later is that?",
+    "visual": "September 2026 calendar, Monday-first; highlighted dates: .",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"September 2026 calendar, Monday-first; highlighted dates: .\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2m03.svg?v=20260906-year2-pending-release#ac9m2m03-p-008\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m03.svg#ac9m2m03-p-008",
-      "alt_text": "On the class calendar: Two neighbouring calendar dates, the 5th and 6th."
+      "alt_text": "September 2026 calendar, Monday-first; highlighted dates: .",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m03.svg?v=20260906-year2-pending-release#ac9m2m03-p-008"
     },
     "answers": [
-      "Saturday",
-      "Thursday",
-      "Friday"
+      "5 days",
+      "3 days",
+      "4 days"
     ],
     "difficulty": 1,
-    "difficultyTier": "confidence",
-    "sequencePriority": 1,
-    "correct": 0,
-    "explanation": "The day after Friday is Saturday.\nHint: Move one day forward in the weekday order.",
+    "difficultyTier": "recognise",
+    "sequencePriority": 8,
+    "correct": 2,
+    "explanation": "Count four day changes: 3 to 4, 5, 6 and 7.\nHint: Use the information in the question and check each step.",
     "structuredExplanation": {
-      "summary": "The day after Friday is Saturday.",
-      "hint": "Move one day forward in the weekday order."
+      "summary": "Count four day changes: 3 to 4, 5, 6 and 7.",
+      "hint": "Use the information in the question and check each step."
     },
     "qualitySchema": "production-v1"
   },
@@ -260,30 +259,31 @@ window.skillrPracticeQuestions = [
     "id": "ac9m2m03-p-009",
     "curriculumCode": "AC9M2M03",
     "bank": "practice",
-    "skill": "find date one week later",
+    "skill": "forward",
     "printable": true,
     "type": "single",
-    "question": "For library week, the class visit is on the 4th. What date is one week later?",
-    "audioPrompt": "For library week, the class visit is on the 4th. What date is one week later?",
-    "visual": "For library week: Calendar with the 4th and 11th highlighted one week apart.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"For library week: Calendar with the 4th and 11th highlighted one week apart.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2m03.svg#ac9m2m03-p-009\"></use></svg>",
+    "question": "A book is borrowed on 18 September and is due 5 days later. What is the due date?",
+    "audioPrompt": "A book is borrowed on 18 September and is due 5 days later. What is the due date?",
+    "visual": "September 2026 calendar, Monday-first; highlighted dates: .",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"September 2026 calendar, Monday-first; highlighted dates: .\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2m03.svg?v=20260906-year2-pending-release#ac9m2m03-p-009\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m03.svg#ac9m2m03-p-009",
-      "alt_text": "For library week: Calendar with the 4th and 11th highlighted one week apart."
+      "alt_text": "September 2026 calendar, Monday-first; highlighted dates: .",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m03.svg?v=20260906-year2-pending-release#ac9m2m03-p-009"
     },
     "answers": [
-      "10th",
-      "11th",
-      "12th"
+      "23 September",
+      "22 September",
+      "24 September"
     ],
-    "difficulty": 3,
-    "sequencePriority": 2,
-    "correct": 1,
-    "explanation": "One week is 7 days, so 4 + 7 = 11.\nHint: Move down one full week on the calendar.",
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 9,
+    "correct": 0,
+    "explanation": "Count the next five dates: 19, 20, 21, 22, 23.\nHint: Use the information in the question and check each step.",
     "structuredExplanation": {
-      "summary": "One week is 7 days, so 4 + 7 = 11.",
-      "hint": "Move down one full week on the calendar."
+      "summary": "Count the next five dates: 19, 20, 21, 22, 23.",
+      "hint": "Use the information in the question and check each step."
     },
     "qualitySchema": "production-v1"
   },
@@ -291,30 +291,31 @@ window.skillrPracticeQuestions = [
     "id": "ac9m2m03-p-010",
     "curriculumCode": "AC9M2M03",
     "bank": "practice",
-    "skill": "count days between dates",
+    "skill": "backward",
     "printable": true,
     "type": "single",
-    "question": "For library week, how many days are between the 4th and the 8th?",
-    "audioPrompt": "For library week, how many days are between the 4th and the 8th?",
-    "visual": "For library week: Calendar with the 4th and 8th highlighted.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"For library week: Calendar with the 4th and 8th highlighted.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2m03.svg#ac9m2m03-p-010\"></use></svg>",
+    "question": "A trip is on 15 October. Forms are due 3 days before. What date is that?",
+    "audioPrompt": "A trip is on 15 October. Forms are due 3 days before. What date is that?",
+    "visual": "October 2026 calendar, Monday-first; highlighted dates: .",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"October 2026 calendar, Monday-first; highlighted dates: .\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2m03.svg?v=20260906-year2-pending-release#ac9m2m03-p-010\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m03.svg#ac9m2m03-p-010",
-      "alt_text": "For library week: Calendar with the 4th and 8th highlighted."
+      "alt_text": "October 2026 calendar, Monday-first; highlighted dates: .",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m03.svg?v=20260906-year2-pending-release#ac9m2m03-p-010"
     },
     "answers": [
-      "5",
-      "3",
-      "4"
+      "12 October",
+      "18 October",
+      "13 October"
     ],
-    "difficulty": 3,
-    "sequencePriority": 2,
-    "correct": 2,
-    "explanation": "Count the jumps after the 4th: there are 4 days to the 8th.\nHint: Do not count the starting date as a jump.",
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 10,
+    "correct": 0,
+    "explanation": "Count backwards from 15: 14, 13, 12.\nHint: Use the information in the question and check each step.",
     "structuredExplanation": {
-      "summary": "Count the jumps after the 4th: there are 4 days to the 8th.",
-      "hint": "Do not count the starting date as a jump."
+      "summary": "Count backwards from 15: 14, 13, 12.",
+      "hint": "Use the information in the question and check each step."
     },
     "qualitySchema": "production-v1"
   },
@@ -322,30 +323,31 @@ window.skillrPracticeQuestions = [
     "id": "ac9m2m03-p-011",
     "curriculumCode": "AC9M2M03",
     "bank": "practice",
-    "skill": "move forward on week",
+    "skill": "count start",
     "printable": true,
     "type": "single",
-    "question": "For library week, today is Monday. What day is 4 days later?",
-    "audioPrompt": "For library week, today is Monday. What day is 4 days later?",
-    "visual": "For library week: A row of weekday cards starting on Monday with 4 forward jumps.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"For library week: A row of weekday cards starting on Monday with 4 forward jumps.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2m03.svg#ac9m2m03-p-011\"></use></svg>",
+    "question": "A child counts 8, 9, 10, 11 and says 8 to 11 September is 4 days later. What needs changing?",
+    "audioPrompt": "A child counts 8, 9, 10, 11 and says 8 to 11 September is 4 days later. What needs changing?",
+    "visual": "September 2026 calendar, Monday-first; highlighted dates: .",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"September 2026 calendar, Monday-first; highlighted dates: .\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2m03.svg?v=20260906-year2-pending-release#ac9m2m03-p-011\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m03.svg#ac9m2m03-p-011",
-      "alt_text": "For library week: A row of weekday cards starting on Monday with 4 forward jumps."
+      "alt_text": "September 2026 calendar, Monday-first; highlighted dates: .",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m03.svg?v=20260906-year2-pending-release#ac9m2m03-p-011"
     },
     "answers": [
-      "Friday",
-      "Wednesday",
-      "Saturday"
+      "Count the starting date twice",
+      "Leave out both the start and finish",
+      "Do not count the starting date as a day passed"
     ],
-    "difficulty": 3,
-    "sequencePriority": 2,
-    "correct": 0,
-    "explanation": "Move forward 4 days from Monday.\nHint: Use one jump for each day.",
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 11,
+    "correct": 2,
+    "explanation": "Only three day changes occur between the same time on the 8th and 11th.\nHint: Use the information in the question and check each step.",
     "structuredExplanation": {
-      "summary": "Move forward 4 days from Monday.",
-      "hint": "Use one jump for each day."
+      "summary": "Only three day changes occur between the same time on the 8th and 11th.",
+      "hint": "Use the information in the question and check each step."
     },
     "qualitySchema": "production-v1"
   },
@@ -353,30 +355,31 @@ window.skillrPracticeQuestions = [
     "id": "ac9m2m03-p-012",
     "curriculumCode": "AC9M2M03",
     "bank": "practice",
-    "skill": "distinguish date and day",
+    "skill": "events",
     "printable": true,
     "type": "single",
-    "question": "For library week, which is a date?",
-    "audioPrompt": "For library week, which is a date?",
-    "visual": "For library week: May calendar with the 8th highlighted.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"For library week: May calendar with the 8th highlighted.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2m03.svg#ac9m2m03-p-012\"></use></svg>",
+    "question": "The highlighted dates are a picnic on 8 September and a concert on 19 September. How many days after the picnic is the concert?",
+    "audioPrompt": "The highlighted dates are a picnic on 8 September and a concert on 19 September. How many days after the picnic is the concert?",
+    "visual": "September 2026 calendar, Monday-first; highlighted dates: 8, 19.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"September 2026 calendar, Monday-first; highlighted dates: 8, 19.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2m03.svg?v=20260906-year2-pending-release#ac9m2m03-p-012\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m03.svg#ac9m2m03-p-012",
-      "alt_text": "For library week: May calendar with the 8th highlighted."
+      "alt_text": "September 2026 calendar, Monday-first; highlighted dates: 8, 19.",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m03.svg?v=20260906-year2-pending-release#ac9m2m03-p-012"
     },
     "answers": [
-      "Thursday",
-      "8th of May",
-      "After lunch"
+      "12 days",
+      "11 days",
+      "10 days"
     ],
-    "difficulty": 3,
-    "sequencePriority": 2,
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 12,
     "correct": 1,
-    "explanation": "A date gives a number and a month: 8th of May.\nHint: A day name is not a full date.",
+    "explanation": "19 minus 8 is 11 day changes.\nHint: Use the information in the question and check each step.",
     "structuredExplanation": {
-      "summary": "A date gives a number and a month: 8th of May.",
-      "hint": "A day name is not a full date."
+      "summary": "19 minus 8 is 11 day changes.",
+      "hint": "Use the information in the question and check each step."
     },
     "qualitySchema": "production-v1"
   },
@@ -384,30 +387,31 @@ window.skillrPracticeQuestions = [
     "id": "ac9m2m03-p-013",
     "curriculumCode": "AC9M2M03",
     "bank": "practice",
-    "skill": "solve calendar event problem",
+    "skill": "month boundary",
     "printable": true,
     "type": "single",
-    "question": "For library week, the library day is the 4th. Sports day is 4 days later. What is the sports date?",
-    "audioPrompt": "For library week, the library day is the 4th. Sports day is 4 days later. What is the sports date?",
-    "visual": "For library week: Calendar with library day on the 4th and sports day on the 8th.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"For library week: Calendar with library day on the 4th and sports day on the 8th.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2m03.svg#ac9m2m03-p-013\"></use></svg>",
+    "question": "September ends on the 30th. What date is 2 days after 29 September?",
+    "audioPrompt": "September ends on the 30th. What date is 2 days after 29 September?",
+    "visual": "September 2026 calendar, Monday-first; highlighted dates: .",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"September 2026 calendar, Monday-first; highlighted dates: .\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2m03.svg?v=20260906-year2-pending-release#ac9m2m03-p-013\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m03.svg#ac9m2m03-p-013",
-      "alt_text": "For library week: Calendar with library day on the 4th and sports day on the 8th."
+      "alt_text": "September 2026 calendar, Monday-first; highlighted dates: .",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m03.svg?v=20260906-year2-pending-release#ac9m2m03-p-013"
     },
     "answers": [
-      "9th",
-      "7th",
-      "8th"
+      "31 September",
+      "2 October",
+      "1 October"
     ],
-    "difficulty": 3,
-    "sequencePriority": 2,
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 13,
     "correct": 2,
-    "explanation": "Starting after the 4th, count 4 jumps to reach the 8th.\nHint: Put your finger on the start, then move once for each day.",
+    "explanation": "The next dates are 30 September, then 1 October.\nHint: Use the information in the question and check each step.",
     "structuredExplanation": {
-      "summary": "Starting after the 4th, count 4 jumps to reach the 8th.",
-      "hint": "Put your finger on the start, then move once for each day."
+      "summary": "The next dates are 30 September, then 1 October.",
+      "hint": "Use the information in the question and check each step."
     },
     "qualitySchema": "production-v1"
   },
@@ -415,30 +419,31 @@ window.skillrPracticeQuestions = [
     "id": "ac9m2m03-p-014",
     "curriculumCode": "AC9M2M03",
     "bank": "practice",
-    "skill": "choose calendar counting method",
+    "skill": "previous month",
     "printable": true,
     "type": "single",
-    "question": "For library week, which method correctly counts days from the 4th to the 8th?",
-    "audioPrompt": "For library week, which method correctly counts days from the 4th to the 8th?",
-    "visual": "For library week: Calendar showing 4 jumps between two highlighted dates.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"For library week: Calendar showing 4 jumps between two highlighted dates.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2m03.svg#ac9m2m03-p-014\"></use></svg>",
+    "question": "October begins after September ends on the 30th. What date is 3 days before 2 October?",
+    "audioPrompt": "October begins after September ends on the 30th. What date is 3 days before 2 October?",
+    "visual": "October 2026 calendar, Monday-first; highlighted dates: .",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"October 2026 calendar, Monday-first; highlighted dates: .\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2m03.svg?v=20260906-year2-pending-release#ac9m2m03-p-014\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m03.svg#ac9m2m03-p-014",
-      "alt_text": "For library week: Calendar showing 4 jumps between two highlighted dates."
+      "alt_text": "October 2026 calendar, Monday-first; highlighted dates: .",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m03.svg?v=20260906-year2-pending-release#ac9m2m03-p-014"
     },
     "answers": [
-      "Start after the 4th and count 4 jumps",
-      "Count the 4th as jump 1",
-      "Count backwards from the 4th"
+      "29 September",
+      "30 September",
+      "28 September"
     ],
-    "difficulty": 3,
-    "sequencePriority": 2,
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 14,
     "correct": 0,
-    "explanation": "Days between dates are counted as jumps after the starting date.\nHint: Trace the spaces from one date to the next.",
+    "explanation": "Go back to 1 October, 30 September, then 29 September.\nHint: Use the information in the question and check each step.",
     "structuredExplanation": {
-      "summary": "Days between dates are counted as jumps after the starting date.",
-      "hint": "Trace the spaces from one date to the next."
+      "summary": "Go back to 1 October, 30 September, then 29 September.",
+      "hint": "Use the information in the question and check each step."
     },
     "qualitySchema": "production-v1"
   },
@@ -446,30 +451,31 @@ window.skillrPracticeQuestions = [
     "id": "ac9m2m03-p-015",
     "curriculumCode": "AC9M2M03",
     "bank": "practice",
-    "skill": "find date one week before",
+    "skill": "two weeks",
     "printable": true,
     "type": "single",
-    "question": "For library week, a camp starts on the 11th. What date was one week before?",
-    "audioPrompt": "For library week, a camp starts on the 11th. What date was one week before?",
-    "visual": "For library week: Calendar with two dates one week apart, ending on the 11th.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"For library week: Calendar with two dates one week apart, ending on the 11th.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2m03.svg#ac9m2m03-p-015\"></use></svg>",
+    "question": "A club meets every second Tuesday. It meets on 1 September. What is its next meeting date?",
+    "audioPrompt": "A club meets every second Tuesday. It meets on 1 September. What is its next meeting date?",
+    "visual": "September 2026 calendar, Monday-first; highlighted dates: .",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"September 2026 calendar, Monday-first; highlighted dates: .\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2m03.svg?v=20260906-year2-pending-release#ac9m2m03-p-015\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m03.svg#ac9m2m03-p-015",
-      "alt_text": "For library week: Calendar with two dates one week apart, ending on the 11th."
+      "alt_text": "September 2026 calendar, Monday-first; highlighted dates: .",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m03.svg?v=20260906-year2-pending-release#ac9m2m03-p-015"
     },
     "answers": [
-      "5th",
-      "4th",
-      "10th"
+      "8 September",
+      "15 September",
+      "14 September"
     ],
-    "difficulty": 3,
-    "sequencePriority": 2,
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 15,
     "correct": 1,
-    "explanation": "One week before means move back 7 days, to the 4th.\nHint: Move up one row on the calendar.",
+    "explanation": "Every second Tuesday means two weeks later, or 14 days.\nHint: Use the information in the question and check each step.",
     "structuredExplanation": {
-      "summary": "One week before means move back 7 days, to the 4th.",
-      "hint": "Move up one row on the calendar."
+      "summary": "Every second Tuesday means two weeks later, or 14 days.",
+      "hint": "Use the information in the question and check each step."
     },
     "qualitySchema": "production-v1"
   },
@@ -477,30 +483,31 @@ window.skillrPracticeQuestions = [
     "id": "ac9m2m03-p-016",
     "curriculumCode": "AC9M2M03",
     "bank": "practice",
-    "skill": "identify next calendar day",
+    "skill": "last weekday",
     "printable": true,
     "type": "single",
-    "question": "For library week, the 8th is a Friday. What day is the 9th?",
-    "audioPrompt": "For library week, the 8th is a Friday. What day is the 9th?",
-    "visual": "For library week: Two neighbouring calendar dates, the 8th and 9th.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"For library week: Two neighbouring calendar dates, the 8th and 9th.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2m03.svg#ac9m2m03-p-016\"></use></svg>",
+    "question": "Use the October calendar. What is the date of the last Saturday?",
+    "audioPrompt": "Use the October calendar. What is the date of the last Saturday?",
+    "visual": "October 2026 calendar, Monday-first; highlighted dates: .",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"October 2026 calendar, Monday-first; highlighted dates: .\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2m03.svg?v=20260906-year2-pending-release#ac9m2m03-p-016\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m03.svg#ac9m2m03-p-016",
-      "alt_text": "For library week: Two neighbouring calendar dates, the 8th and 9th."
+      "alt_text": "October 2026 calendar, Monday-first; highlighted dates: .",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m03.svg?v=20260906-year2-pending-release#ac9m2m03-p-016"
     },
     "answers": [
-      "Thursday",
-      "Friday",
-      "Saturday"
+      "24 October",
+      "31 October",
+      "30 October"
     ],
-    "difficulty": 3,
-    "sequencePriority": 2,
-    "correct": 2,
-    "explanation": "The day after Friday is Saturday.\nHint: Move one day forward in the weekday order.",
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 16,
+    "correct": 1,
+    "explanation": "The last numbered cell in the Saturday column is 31.\nHint: Use the information in the question and check each step.",
     "structuredExplanation": {
-      "summary": "The day after Friday is Saturday.",
-      "hint": "Move one day forward in the weekday order."
+      "summary": "The last numbered cell in the Saturday column is 31.",
+      "hint": "Use the information in the question and check each step."
     },
     "qualitySchema": "production-v1"
   },
@@ -508,30 +515,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m2m03-p-017",
     "curriculumCode": "AC9M2M03",
     "bank": "practice",
-    "skill": "find date one week later",
+    "skill": "same day",
     "printable": true,
     "type": "single",
-    "question": "Before the school visit, the class visit is on the 6th. What date is one week later?",
-    "audioPrompt": "Before the school visit, the class visit is on the 6th. What date is one week later?",
-    "visual": "Before the school visit: Calendar with the 6th and 13th highlighted one week apart.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Before the school visit: Calendar with the 6th and 13th highlighted one week apart.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2m03.svg#ac9m2m03-p-017\"></use></svg>",
+    "question": "Two events happen on 21 September. How many days apart are their dates?",
+    "audioPrompt": "Two events happen on 21 September. How many days apart are their dates?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m03.svg#ac9m2m03-p-017",
-      "alt_text": "Before the school visit: Calendar with the 6th and 13th highlighted one week apart."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "13th",
-      "12th",
-      "14th"
+      "0 days",
+      "1 day",
+      "2 days"
     ],
     "difficulty": 3,
-    "sequencePriority": 2,
+    "difficultyTier": "reason",
+    "sequencePriority": 17,
     "correct": 0,
-    "explanation": "One week is 7 days, so 6 + 7 = 13.\nHint: Move down one full week on the calendar.",
+    "explanation": "Their dates are the same, so no calendar day separates them.\nHint: Use the information in the question and check each step.",
     "structuredExplanation": {
-      "summary": "One week is 7 days, so 6 + 7 = 13.",
-      "hint": "Move down one full week on the calendar."
+      "summary": "Their dates are the same, so no calendar day separates them.",
+      "hint": "Use the information in the question and check each step."
     },
     "qualitySchema": "production-v1"
   },
@@ -539,30 +546,31 @@ window.skillrPracticeQuestions = [
     "id": "ac9m2m03-p-018",
     "curriculumCode": "AC9M2M03",
     "bank": "practice",
-    "skill": "count days between dates",
+    "skill": "week boundary",
     "printable": true,
     "type": "single",
-    "question": "Before the school visit, how many days are between the 6th and the 11th?",
-    "audioPrompt": "Before the school visit, how many days are between the 6th and the 11th?",
-    "visual": "Before the school visit: Calendar with the 6th and 11th highlighted.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Before the school visit: Calendar with the 6th and 11th highlighted.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2m03.svg#ac9m2m03-p-018\"></use></svg>",
+    "question": "What day is 4 days after Friday 11 September?",
+    "audioPrompt": "What day is 4 days after Friday 11 September?",
+    "visual": "September 2026 calendar, Monday-first; highlighted dates: .",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"September 2026 calendar, Monday-first; highlighted dates: .\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2m03.svg?v=20260906-year2-pending-release#ac9m2m03-p-018\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m03.svg#ac9m2m03-p-018",
-      "alt_text": "Before the school visit: Calendar with the 6th and 11th highlighted."
+      "alt_text": "September 2026 calendar, Monday-first; highlighted dates: .",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m03.svg?v=20260906-year2-pending-release#ac9m2m03-p-018"
     },
     "answers": [
-      "6",
-      "5",
-      "4"
+      "Monday",
+      "Wednesday",
+      "Tuesday"
     ],
     "difficulty": 3,
-    "sequencePriority": 2,
-    "correct": 1,
-    "explanation": "Count the jumps after the 6th: there are 5 days to the 11th.\nHint: Do not count the starting date as a jump.",
+    "difficultyTier": "reason",
+    "sequencePriority": 18,
+    "correct": 2,
+    "explanation": "Count Saturday, Sunday, Monday, Tuesday.\nHint: Use the information in the question and check each step.",
     "structuredExplanation": {
-      "summary": "Count the jumps after the 6th: there are 5 days to the 11th.",
-      "hint": "Do not count the starting date as a jump."
+      "summary": "Count Saturday, Sunday, Monday, Tuesday.",
+      "hint": "Use the information in the question and check each step."
     },
     "qualitySchema": "production-v1"
   },
@@ -570,30 +578,31 @@ window.skillrPracticeQuestions = [
     "id": "ac9m2m03-p-019",
     "curriculumCode": "AC9M2M03",
     "bank": "practice",
-    "skill": "move forward on week",
+    "skill": "february",
     "printable": true,
     "type": "single",
-    "question": "Before the school visit, today is Monday. What day is 5 days later?",
-    "audioPrompt": "Before the school visit, today is Monday. What day is 5 days later?",
-    "visual": "Before the school visit: A row of weekday cards starting on Monday with 5 forward jumps.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Before the school visit: A row of weekday cards starting on Monday with 5 forward jumps.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2m03.svg#ac9m2m03-p-019\"></use></svg>",
+    "question": "Use this February calendar. What date follows 28 February?",
+    "audioPrompt": "Use this February calendar. What date follows 28 February?",
+    "visual": "February 2027 calendar, Monday-first; highlighted dates: .",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"February 2027 calendar, Monday-first; highlighted dates: .\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2m03.svg?v=20260906-year2-pending-release#ac9m2m03-p-019\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m03.svg#ac9m2m03-p-019",
-      "alt_text": "Before the school visit: A row of weekday cards starting on Monday with 5 forward jumps."
+      "alt_text": "February 2027 calendar, Monday-first; highlighted dates: .",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m03.svg?v=20260906-year2-pending-release#ac9m2m03-p-019"
     },
     "answers": [
-      "Thursday",
-      "Sunday",
-      "Saturday"
+      "1 March",
+      "29 February",
+      "1 April"
     ],
     "difficulty": 3,
-    "sequencePriority": 2,
-    "correct": 2,
-    "explanation": "Move forward 5 days from Monday.\nHint: Use one jump for each day.",
+    "difficultyTier": "reason",
+    "sequencePriority": 19,
+    "correct": 0,
+    "explanation": "This displayed February ends at 28; the next month is March.\nHint: Use the information in the question and check each step.",
     "structuredExplanation": {
-      "summary": "Move forward 5 days from Monday.",
-      "hint": "Use one jump for each day."
+      "summary": "This displayed February ends at 28; the next month is March.",
+      "hint": "Use the information in the question and check each step."
     },
     "qualitySchema": "production-v1"
   },
@@ -601,30 +610,31 @@ window.skillrPracticeQuestions = [
     "id": "ac9m2m03-p-020",
     "curriculumCode": "AC9M2M03",
     "bank": "practice",
-    "skill": "distinguish date and day",
+    "skill": "compare intervals",
     "printable": true,
     "type": "single",
-    "question": "Before the school visit, which is a date?",
-    "audioPrompt": "Before the school visit, which is a date?",
-    "visual": "Before the school visit: May calendar with the 11th highlighted.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Before the school visit: May calendar with the 11th highlighted.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2m03.svg#ac9m2m03-p-020\"></use></svg>",
+    "question": "Which wait is longer: 2 to 6 September, or 20 to 26 September?",
+    "audioPrompt": "Which wait is longer: 2 to 6 September, or 20 to 26 September?",
+    "visual": "September 2026 calendar, Monday-first; highlighted dates: .",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"September 2026 calendar, Monday-first; highlighted dates: .\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2m03.svg?v=20260906-year2-pending-release#ac9m2m03-p-020\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m03.svg#ac9m2m03-p-020",
-      "alt_text": "Before the school visit: May calendar with the 11th highlighted."
+      "alt_text": "September 2026 calendar, Monday-first; highlighted dates: .",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m03.svg?v=20260906-year2-pending-release#ac9m2m03-p-020"
     },
     "answers": [
-      "11th of May",
-      "Thursday",
-      "After lunch"
+      "2 to 6 September",
+      "20 to 26 September",
+      "The waits are equal"
     ],
     "difficulty": 3,
-    "sequencePriority": 2,
-    "correct": 0,
-    "explanation": "A date gives a number and a month: 11th of May.\nHint: A day name is not a full date.",
+    "difficultyTier": "reason",
+    "sequencePriority": 20,
+    "correct": 1,
+    "explanation": "The waits are 4 and 6 days. Six days is longer.\nHint: Use the information in the question and check each step.",
     "structuredExplanation": {
-      "summary": "A date gives a number and a month: 11th of May.",
-      "hint": "A day name is not a full date."
+      "summary": "The waits are 4 and 6 days. Six days is longer.",
+      "hint": "Use the information in the question and check each step."
     },
     "qualitySchema": "production-v1"
   },
@@ -632,30 +642,31 @@ window.skillrPracticeQuestions = [
     "id": "ac9m2m03-p-021",
     "curriculumCode": "AC9M2M03",
     "bank": "practice",
-    "skill": "solve calendar event problem",
+    "skill": "cross month interval",
     "printable": true,
     "type": "single",
-    "question": "Before the school visit, the library day is the 6th. Sports day is 5 days later. What is the sports date?",
-    "audioPrompt": "Before the school visit, the library day is the 6th. Sports day is 5 days later. What is the sports date?",
-    "visual": "Before the school visit: Calendar with library day on the 6th and sports day on the 11th.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Before the school visit: Calendar with library day on the 6th and sports day on the 11th.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2m03.svg#ac9m2m03-p-021\"></use></svg>",
+    "question": "A visit starts on 29 April and ends on 2 May. April has 30 days. How many days later is the end date?",
+    "audioPrompt": "A visit starts on 29 April and ends on 2 May. April has 30 days. How many days later is the end date?",
+    "visual": "April 2027 calendar, Monday-first; highlighted dates: .",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"April 2027 calendar, Monday-first; highlighted dates: .\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2m03.svg?v=20260906-year2-pending-release#ac9m2m03-p-021\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m03.svg#ac9m2m03-p-021",
-      "alt_text": "Before the school visit: Calendar with library day on the 6th and sports day on the 11th."
+      "alt_text": "April 2027 calendar, Monday-first; highlighted dates: .",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m03.svg?v=20260906-year2-pending-release#ac9m2m03-p-021"
     },
     "answers": [
-      "12th",
-      "11th",
-      "10th"
+      "4 days",
+      "2 days",
+      "3 days"
     ],
     "difficulty": 3,
-    "sequencePriority": 2,
-    "correct": 1,
-    "explanation": "Starting after the 6th, count 5 jumps to reach the 11th.\nHint: Put your finger on the start, then move once for each day.",
+    "difficultyTier": "reason",
+    "sequencePriority": 21,
+    "correct": 2,
+    "explanation": "Count 30 April, 1 May and 2 May: three day changes.\nHint: Use the information in the question and check each step.",
     "structuredExplanation": {
-      "summary": "Starting after the 6th, count 5 jumps to reach the 11th.",
-      "hint": "Put your finger on the start, then move once for each day."
+      "summary": "Count 30 April, 1 May and 2 May: three day changes.",
+      "hint": "Use the information in the question and check each step."
     },
     "qualitySchema": "production-v1"
   },
@@ -663,30 +674,31 @@ window.skillrPracticeQuestions = [
     "id": "ac9m2m03-p-022",
     "curriculumCode": "AC9M2M03",
     "bank": "practice",
-    "skill": "choose calendar counting method",
+    "skill": "same column",
     "printable": true,
     "type": "single",
-    "question": "Before the school visit, which method correctly counts days from the 6th to the 11th?",
-    "audioPrompt": "Before the school visit, which method correctly counts days from the 6th to the 11th?",
-    "visual": "Before the school visit: Calendar showing 5 jumps between two highlighted dates.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Before the school visit: Calendar showing 5 jumps between two highlighted dates.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2m03.svg#ac9m2m03-p-022\"></use></svg>",
+    "question": "Why are 7 September and 14 September in the same calendar column?",
+    "audioPrompt": "Why are 7 September and 14 September in the same calendar column?",
+    "visual": "September 2026 calendar, Monday-first; highlighted dates: .",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"September 2026 calendar, Monday-first; highlighted dates: .\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2m03.svg?v=20260906-year2-pending-release#ac9m2m03-p-022\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m03.svg#ac9m2m03-p-022",
-      "alt_text": "Before the school visit: Calendar showing 5 jumps between two highlighted dates."
+      "alt_text": "September 2026 calendar, Monday-first; highlighted dates: .",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m03.svg?v=20260906-year2-pending-release#ac9m2m03-p-022"
     },
     "answers": [
-      "Count the 6th as jump 1",
-      "Count backwards from the 6th",
-      "Start after the 6th and count 5 jumps"
+      "They are consecutive days",
+      "They are in different months",
+      "They are the same weekday, one week apart"
     ],
     "difficulty": 3,
-    "sequencePriority": 2,
+    "difficultyTier": "reason",
+    "sequencePriority": 22,
     "correct": 2,
-    "explanation": "Days between dates are counted as jumps after the starting date.\nHint: Trace the spaces from one date to the next.",
+    "explanation": "Each column keeps the same weekday; moving down one row adds 7 days.\nHint: Use the information in the question and check each step.",
     "structuredExplanation": {
-      "summary": "Days between dates are counted as jumps after the starting date.",
-      "hint": "Trace the spaces from one date to the next."
+      "summary": "Each column keeps the same weekday; moving down one row adds 7 days.",
+      "hint": "Use the information in the question and check each step."
     },
     "qualitySchema": "production-v1"
   },
@@ -694,30 +706,37 @@ window.skillrPracticeQuestions = [
     "id": "ac9m2m03-p-023",
     "curriculumCode": "AC9M2M03",
     "bank": "practice",
-    "skill": "find date one week before",
+    "skill": "mark events",
     "printable": true,
-    "type": "single",
-    "question": "Before the school visit, a camp starts on the 13th. What date was one week before?",
-    "audioPrompt": "Before the school visit, a camp starts on the 13th. What date was one week before?",
-    "visual": "Before the school visit: Calendar with two dates one week apart, ending on the 13th.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Before the school visit: Calendar with two dates one week apart, ending on the 13th.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2m03.svg#ac9m2m03-p-023\"></use></svg>",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Mark 4 September and 10 September.",
+    "acceptanceNote": "Check six day changes from the first marked date, not six dates including the start.",
+    "responseInstructions": "Complete the task on paper or with materials, then ask an adult to check it.",
+    "completionLabel": "Ready for adult review",
+    "question": "Copy the September calendar. Mark a class walk on 4 September and a second walk 6 days later. Label both dates.",
+    "audioPrompt": "Copy the September calendar. Mark a class walk on 4 September and a second walk 6 days later. Label both dates.",
+    "visual": "September 2026 calendar, Monday-first; highlighted dates: .",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"September 2026 calendar, Monday-first; highlighted dates: .\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2m03.svg?v=20260906-year2-pending-release#ac9m2m03-p-023\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m03.svg#ac9m2m03-p-023",
-      "alt_text": "Before the school visit: Calendar with two dates one week apart, ending on the 13th."
+      "alt_text": "September 2026 calendar, Monday-first; highlighted dates: .",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m03.svg?v=20260906-year2-pending-release#ac9m2m03-p-023"
     },
     "answers": [
-      "6th",
-      "7th",
-      "12th"
+      "Needs revision",
+      "Completed response",
+      "Not attempted"
     ],
     "difficulty": 3,
-    "sequencePriority": 2,
-    "correct": 0,
-    "explanation": "One week before means move back 7 days, to the 6th.\nHint: Move up one row on the calendar.",
+    "difficultyTier": "reason",
+    "sequencePriority": 23,
+    "correct": "Mark 4 September and 10 September.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
-      "summary": "One week before means move back 7 days, to the 6th.",
-      "hint": "Move up one row on the calendar."
+      "summary": "Mark 4 September and 10 September.",
+      "hint": "Check six day changes from the first marked date, not six dates including the start."
     },
     "qualitySchema": "production-v1"
   },
@@ -725,702 +744,37 @@ window.skillrPracticeQuestions = [
     "id": "ac9m2m03-p-024",
     "curriculumCode": "AC9M2M03",
     "bank": "practice",
-    "skill": "identify next calendar day",
+    "skill": "explain interval",
     "printable": true,
-    "type": "single",
-    "question": "Before the school visit, the 11th is a Friday. What day is the 12th?",
-    "audioPrompt": "Before the school visit, the 11th is a Friday. What day is the 12th?",
-    "visual": "Before the school visit: Two neighbouring calendar dates, the 11th and 12th.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Before the school visit: Two neighbouring calendar dates, the 11th and 12th.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2m03.svg#ac9m2m03-p-024\"></use></svg>",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Four days pass: 27 to 28 to 29 to 30 to 31.",
+    "acceptanceNote": "Accept four one-day jumps or a correct subtraction with the two dates identified.",
+    "responseInstructions": "Complete the task on paper or with materials, then ask an adult to check it.",
+    "completionLabel": "Ready for adult review",
+    "question": "Use the October calendar to show how many days pass from 27 October to 31 October. Draw jumps or explain your counting.",
+    "audioPrompt": "Use the October calendar to show how many days pass from 27 October to 31 October. Draw jumps or explain your counting.",
+    "visual": "October 2026 calendar, Monday-first; highlighted dates: .",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"October 2026 calendar, Monday-first; highlighted dates: .\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2m03.svg?v=20260906-year2-pending-release#ac9m2m03-p-024\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m03.svg#ac9m2m03-p-024",
-      "alt_text": "Before the school visit: Two neighbouring calendar dates, the 11th and 12th."
+      "alt_text": "October 2026 calendar, Monday-first; highlighted dates: .",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m03.svg?v=20260906-year2-pending-release#ac9m2m03-p-024"
     },
     "answers": [
-      "Thursday",
-      "Saturday",
-      "Friday"
+      "Completed response",
+      "Needs revision",
+      "Not attempted"
     ],
     "difficulty": 3,
-    "sequencePriority": 2,
-    "correct": 1,
-    "explanation": "The day after Friday is Saturday.\nHint: Move one day forward in the weekday order.",
+    "difficultyTier": "reason",
+    "sequencePriority": 24,
+    "correct": "Four days pass: 27 to 28 to 29 to 30 to 31.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
-      "summary": "The day after Friday is Saturday.",
-      "hint": "Move one day forward in the weekday order."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m2m03-p-025",
-    "curriculumCode": "AC9M2M03",
-    "bank": "practice",
-    "skill": "at the school garden today is",
-    "printable": true,
-    "type": "single",
-    "question": "At the school garden, today is Monday. What day is tomorrow?",
-    "audioPrompt": "At the school garden, today is Monday. What day is tomorrow?",
-    "visual": "At the school garden, today is Monday. What day is tomorrow?",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": "At the school garden, today is Monday. What day is tomorrow?"
-    },
-    "answers": [
-      "Tuesday",
-      "Wednesday",
-      "Sunday"
-    ],
-    "correct": 0,
-    "explanation": "Count one day at a time on the calendar.\nHint: Use the information in the question to check your answer.",
-    "structuredExplanation": {
-      "summary": "Count one day at a time on the calendar.",
-      "hint": "Use the information in the question to check your answer."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m2m03-p-026",
-    "curriculumCode": "AC9M2M03",
-    "bank": "practice",
-    "skill": "during maths groups today is tuesday",
-    "printable": true,
-    "type": "single",
-    "question": "During maths groups, today is Tuesday. What day was yesterday?",
-    "audioPrompt": "During maths groups, today is Tuesday. What day was yesterday?",
-    "visual": "During maths groups, today is Tuesday. What day was yesterday?",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": "During maths groups, today is Tuesday. What day was yesterday?"
-    },
-    "answers": [
-      "Wednesday",
-      "Sunday",
-      "Monday"
-    ],
-    "correct": 2,
-    "explanation": "Count one day at a time on the calendar.\nHint: Use the information in the question to check your answer.",
-    "structuredExplanation": {
-      "summary": "Count one day at a time on the calendar.",
-      "hint": "Use the information in the question to check your answer."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m2m03-p-027",
-    "curriculumCode": "AC9M2M03",
-    "bank": "practice",
-    "skill": "at the art table an event",
-    "printable": true,
-    "type": "single",
-    "question": "At the art table, an event is on the 12th. What date is 3 days later?",
-    "audioPrompt": "At the art table, an event is on the 12th. What date is 3 days later?",
-    "visual": "At the art table, an event is on the 12th. What date is 3 days later?",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": "At the art table, an event is on the 12th. What date is 3 days later?"
-    },
-    "answers": [
-      "16th",
-      "15th",
-      "14th"
-    ],
-    "correct": 1,
-    "explanation": "Count one day at a time on the calendar.\nHint: Use the information in the question to check your answer.",
-    "structuredExplanation": {
-      "summary": "Count one day at a time on the calendar.",
-      "hint": "Use the information in the question to check your answer."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m2m03-p-028",
-    "curriculumCode": "AC9M2M03",
-    "bank": "practice",
-    "skill": "in the playground today is thursday",
-    "printable": true,
-    "type": "single",
-    "question": "In the playground, today is Thursday. What day is tomorrow?",
-    "audioPrompt": "In the playground, today is Thursday. What day is tomorrow?",
-    "visual": "In the playground, today is Thursday. What day is tomorrow?",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": "In the playground, today is Thursday. What day is tomorrow?"
-    },
-    "answers": [
-      "Friday",
-      "Saturday",
-      "Wednesday"
-    ],
-    "correct": 0,
-    "explanation": "Count one day at a time on the calendar.\nHint: Use the information in the question to check your answer.",
-    "structuredExplanation": {
-      "summary": "Count one day at a time on the calendar.",
-      "hint": "Use the information in the question to check your answer."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m2m03-p-029",
-    "curriculumCode": "AC9M2M03",
-    "bank": "practice",
-    "skill": "at the library today is friday",
-    "printable": true,
-    "type": "single",
-    "question": "At the library, today is Friday. What day was yesterday?",
-    "audioPrompt": "At the library, today is Friday. What day was yesterday?",
-    "visual": "At the library, today is Friday. What day was yesterday?",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": "At the library, today is Friday. What day was yesterday?"
-    },
-    "answers": [
-      "Saturday",
-      "Wednesday",
-      "Thursday"
-    ],
-    "correct": 2,
-    "explanation": "Count one day at a time on the calendar.\nHint: Use the information in the question to check your answer.",
-    "structuredExplanation": {
-      "summary": "Count one day at a time on the calendar.",
-      "hint": "Use the information in the question to check your answer."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m2m03-p-030",
-    "curriculumCode": "AC9M2M03",
-    "bank": "practice",
-    "skill": "during sport an event is on",
-    "printable": true,
-    "type": "single",
-    "question": "During sport, an event is on the 15th. What date is 3 days later?",
-    "audioPrompt": "During sport, an event is on the 15th. What date is 3 days later?",
-    "visual": "During sport, an event is on the 15th. What date is 3 days later?",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": "During sport, an event is on the 15th. What date is 3 days later?"
-    },
-    "answers": [
-      "19th",
-      "18th",
-      "17th"
-    ],
-    "correct": 1,
-    "explanation": "Count one day at a time on the calendar.\nHint: Use the information in the question to check your answer.",
-    "structuredExplanation": {
-      "summary": "Count one day at a time on the calendar.",
-      "hint": "Use the information in the question to check your answer."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m2m03-p-031",
-    "curriculumCode": "AC9M2M03",
-    "bank": "practice",
-    "skill": "at the class shop today is",
-    "printable": true,
-    "type": "single",
-    "question": "At the class shop, today is Sunday. What day is tomorrow?",
-    "audioPrompt": "At the class shop, today is Sunday. What day is tomorrow?",
-    "visual": "At the class shop, today is Sunday. What day is tomorrow?",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": "At the class shop, today is Sunday. What day is tomorrow?"
-    },
-    "answers": [
-      "Monday",
-      "Tuesday",
-      "Saturday"
-    ],
-    "correct": 0,
-    "explanation": "Count one day at a time on the calendar.\nHint: Use the information in the question to check your answer.",
-    "structuredExplanation": {
-      "summary": "Count one day at a time on the calendar.",
-      "hint": "Use the information in the question to check your answer."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m2m03-p-032",
-    "curriculumCode": "AC9M2M03",
-    "bank": "practice",
-    "skill": "on the picnic rug today is",
-    "printable": true,
-    "type": "single",
-    "question": "On the picnic rug, today is Monday. What day was yesterday?",
-    "audioPrompt": "On the picnic rug, today is Monday. What day was yesterday?",
-    "visual": "On the picnic rug, today is Monday. What day was yesterday?",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": "On the picnic rug, today is Monday. What day was yesterday?"
-    },
-    "answers": [
-      "Tuesday",
-      "Saturday",
-      "Sunday"
-    ],
-    "correct": 2,
-    "explanation": "Count one day at a time on the calendar.\nHint: Use the information in the question to check your answer.",
-    "structuredExplanation": {
-      "summary": "Count one day at a time on the calendar.",
-      "hint": "Use the information in the question to check your answer."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m2m03-p-033",
-    "curriculumCode": "AC9M2M03",
-    "bank": "practice",
-    "skill": "at the block table an event",
-    "printable": true,
-    "type": "single",
-    "question": "At the block table, an event is on the 11th. What date is 3 days later?",
-    "audioPrompt": "At the block table, an event is on the 11th. What date is 3 days later?",
-    "visual": "At the block table, an event is on the 11th. What date is 3 days later?",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": "At the block table, an event is on the 11th. What date is 3 days later?"
-    },
-    "answers": [
-      "15th",
-      "14th",
-      "13th"
-    ],
-    "correct": 1,
-    "explanation": "Count one day at a time on the calendar.\nHint: Use the information in the question to check your answer.",
-    "structuredExplanation": {
-      "summary": "Count one day at a time on the calendar.",
-      "hint": "Use the information in the question to check your answer."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m2m03-p-034",
-    "curriculumCode": "AC9M2M03",
-    "bank": "practice",
-    "skill": "in the lunch area today is",
-    "printable": true,
-    "type": "single",
-    "question": "In the lunch area, today is Wednesday. What day is tomorrow?",
-    "audioPrompt": "In the lunch area, today is Wednesday. What day is tomorrow?",
-    "visual": "In the lunch area, today is Wednesday. What day is tomorrow?",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": "In the lunch area, today is Wednesday. What day is tomorrow?"
-    },
-    "answers": [
-      "Thursday",
-      "Friday",
-      "Tuesday"
-    ],
-    "correct": 0,
-    "explanation": "Count one day at a time on the calendar.\nHint: Use the information in the question to check your answer.",
-    "structuredExplanation": {
-      "summary": "Count one day at a time on the calendar.",
-      "hint": "Use the information in the question to check your answer."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m2m03-p-035",
-    "curriculumCode": "AC9M2M03",
-    "bank": "practice",
-    "skill": "at the science table today is",
-    "printable": true,
-    "type": "single",
-    "question": "At the science table, today is Thursday. What day was yesterday?",
-    "audioPrompt": "At the science table, today is Thursday. What day was yesterday?",
-    "visual": "At the science table, today is Thursday. What day was yesterday?",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": "At the science table, today is Thursday. What day was yesterday?"
-    },
-    "answers": [
-      "Friday",
-      "Tuesday",
-      "Wednesday"
-    ],
-    "correct": 2,
-    "explanation": "Count one day at a time on the calendar.\nHint: Use the information in the question to check your answer.",
-    "structuredExplanation": {
-      "summary": "Count one day at a time on the calendar.",
-      "hint": "Use the information in the question to check your answer."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m2m03-p-036",
-    "curriculumCode": "AC9M2M03",
-    "bank": "practice",
-    "skill": "during a card game an event",
-    "printable": true,
-    "type": "single",
-    "question": "During a card game, an event is on the 14th. What date is 3 days later?",
-    "audioPrompt": "During a card game, an event is on the 14th. What date is 3 days later?",
-    "visual": "During a card game, an event is on the 14th. What date is 3 days later?",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": "During a card game, an event is on the 14th. What date is 3 days later?"
-    },
-    "answers": [
-      "18th",
-      "17th",
-      "16th"
-    ],
-    "correct": 1,
-    "explanation": "Count one day at a time on the calendar.\nHint: Use the information in the question to check your answer.",
-    "structuredExplanation": {
-      "summary": "Count one day at a time on the calendar.",
-      "hint": "Use the information in the question to check your answer."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m2m03-p-037",
-    "curriculumCode": "AC9M2M03",
-    "bank": "practice",
-    "skill": "at the school garden today is",
-    "printable": true,
-    "type": "single",
-    "question": "At the school garden, today is Saturday. What day is tomorrow?",
-    "audioPrompt": "At the school garden, today is Saturday. What day is tomorrow?",
-    "visual": "At the school garden, today is Saturday. What day is tomorrow?",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": "At the school garden, today is Saturday. What day is tomorrow?"
-    },
-    "answers": [
-      "Sunday",
-      "Monday",
-      "Friday"
-    ],
-    "correct": 0,
-    "explanation": "Count one day at a time on the calendar.\nHint: Use the information in the question to check your answer.",
-    "structuredExplanation": {
-      "summary": "Count one day at a time on the calendar.",
-      "hint": "Use the information in the question to check your answer."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m2m03-p-038",
-    "curriculumCode": "AC9M2M03",
-    "bank": "practice",
-    "skill": "during maths groups today is sunday",
-    "printable": true,
-    "type": "single",
-    "question": "During maths groups, today is Sunday. What day was yesterday?",
-    "audioPrompt": "During maths groups, today is Sunday. What day was yesterday?",
-    "visual": "During maths groups, today is Sunday. What day was yesterday?",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": "During maths groups, today is Sunday. What day was yesterday?"
-    },
-    "answers": [
-      "Monday",
-      "Friday",
-      "Saturday"
-    ],
-    "correct": 2,
-    "explanation": "Count one day at a time on the calendar.\nHint: Use the information in the question to check your answer.",
-    "structuredExplanation": {
-      "summary": "Count one day at a time on the calendar.",
-      "hint": "Use the information in the question to check your answer."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m2m03-p-039",
-    "curriculumCode": "AC9M2M03",
-    "bank": "practice",
-    "skill": "at the art table an event",
-    "printable": true,
-    "type": "single",
-    "question": "At the art table, an event is on the 10th. What date is 3 days later?",
-    "audioPrompt": "At the art table, an event is on the 10th. What date is 3 days later?",
-    "visual": "At the art table, an event is on the 10th. What date is 3 days later?",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": "At the art table, an event is on the 10th. What date is 3 days later?"
-    },
-    "answers": [
-      "14th",
-      "13th",
-      "12th"
-    ],
-    "correct": 1,
-    "explanation": "Count one day at a time on the calendar.\nHint: Use the information in the question to check your answer.",
-    "structuredExplanation": {
-      "summary": "Count one day at a time on the calendar.",
-      "hint": "Use the information in the question to check your answer."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m2m03-p-040",
-    "curriculumCode": "AC9M2M03",
-    "bank": "practice",
-    "skill": "in the playground today is tuesday",
-    "printable": true,
-    "type": "single",
-    "question": "In the playground, today is Tuesday. What day is tomorrow?",
-    "audioPrompt": "In the playground, today is Tuesday. What day is tomorrow?",
-    "visual": "In the playground, today is Tuesday. What day is tomorrow?",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": "In the playground, today is Tuesday. What day is tomorrow?"
-    },
-    "answers": [
-      "Wednesday",
-      "Thursday",
-      "Monday"
-    ],
-    "correct": 0,
-    "explanation": "Count one day at a time on the calendar.\nHint: Use the information in the question to check your answer.",
-    "structuredExplanation": {
-      "summary": "Count one day at a time on the calendar.",
-      "hint": "Use the information in the question to check your answer."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m2m03-p-041",
-    "curriculumCode": "AC9M2M03",
-    "bank": "practice",
-    "skill": "at the library today is wednesday",
-    "printable": true,
-    "type": "single",
-    "question": "At the library, today is Wednesday. What day was yesterday?",
-    "audioPrompt": "At the library, today is Wednesday. What day was yesterday?",
-    "visual": "At the library, today is Wednesday. What day was yesterday?",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": "At the library, today is Wednesday. What day was yesterday?"
-    },
-    "answers": [
-      "Thursday",
-      "Monday",
-      "Tuesday"
-    ],
-    "correct": 2,
-    "explanation": "Count one day at a time on the calendar.\nHint: Use the information in the question to check your answer.",
-    "structuredExplanation": {
-      "summary": "Count one day at a time on the calendar.",
-      "hint": "Use the information in the question to check your answer."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m2m03-p-042",
-    "curriculumCode": "AC9M2M03",
-    "bank": "practice",
-    "skill": "during sport an event is on",
-    "printable": true,
-    "type": "single",
-    "question": "During sport, an event is on the 13th. What date is 3 days later?",
-    "audioPrompt": "During sport, an event is on the 13th. What date is 3 days later?",
-    "visual": "During sport, an event is on the 13th. What date is 3 days later?",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": "During sport, an event is on the 13th. What date is 3 days later?"
-    },
-    "answers": [
-      "17th",
-      "16th",
-      "15th"
-    ],
-    "correct": 1,
-    "explanation": "Count one day at a time on the calendar.\nHint: Use the information in the question to check your answer.",
-    "structuredExplanation": {
-      "summary": "Count one day at a time on the calendar.",
-      "hint": "Use the information in the question to check your answer."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m2m03-p-043",
-    "curriculumCode": "AC9M2M03",
-    "bank": "practice",
-    "skill": "at the class shop today is",
-    "printable": true,
-    "type": "single",
-    "question": "At the class shop, today is Friday. What day is tomorrow?",
-    "audioPrompt": "At the class shop, today is Friday. What day is tomorrow?",
-    "visual": "At the class shop, today is Friday. What day is tomorrow?",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": "At the class shop, today is Friday. What day is tomorrow?"
-    },
-    "answers": [
-      "Saturday",
-      "Sunday",
-      "Thursday"
-    ],
-    "correct": 0,
-    "explanation": "Count one day at a time on the calendar.\nHint: Use the information in the question to check your answer.",
-    "structuredExplanation": {
-      "summary": "Count one day at a time on the calendar.",
-      "hint": "Use the information in the question to check your answer."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m2m03-p-044",
-    "curriculumCode": "AC9M2M03",
-    "bank": "practice",
-    "skill": "on the picnic rug today is",
-    "printable": true,
-    "type": "single",
-    "question": "On the picnic rug, today is Saturday. What day was yesterday?",
-    "audioPrompt": "On the picnic rug, today is Saturday. What day was yesterday?",
-    "visual": "On the picnic rug, today is Saturday. What day was yesterday?",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": "On the picnic rug, today is Saturday. What day was yesterday?"
-    },
-    "answers": [
-      "Sunday",
-      "Thursday",
-      "Friday"
-    ],
-    "correct": 2,
-    "explanation": "Count one day at a time on the calendar.\nHint: Use the information in the question to check your answer.",
-    "structuredExplanation": {
-      "summary": "Count one day at a time on the calendar.",
-      "hint": "Use the information in the question to check your answer."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m2m03-p-045",
-    "curriculumCode": "AC9M2M03",
-    "bank": "practice",
-    "skill": "at the block table an event",
-    "printable": true,
-    "type": "single",
-    "question": "At the block table, an event is on the 16th. What date is 3 days later?",
-    "audioPrompt": "At the block table, an event is on the 16th. What date is 3 days later?",
-    "visual": "At the block table, an event is on the 16th. What date is 3 days later?",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": "At the block table, an event is on the 16th. What date is 3 days later?"
-    },
-    "answers": [
-      "20th",
-      "19th",
-      "18th"
-    ],
-    "correct": 1,
-    "explanation": "Count one day at a time on the calendar.\nHint: Use the information in the question to check your answer.",
-    "structuredExplanation": {
-      "summary": "Count one day at a time on the calendar.",
-      "hint": "Use the information in the question to check your answer."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m2m03-p-046",
-    "curriculumCode": "AC9M2M03",
-    "bank": "practice",
-    "skill": "in the lunch area today is",
-    "printable": true,
-    "type": "single",
-    "question": "In the lunch area, today is Monday. What day is tomorrow?",
-    "audioPrompt": "In the lunch area, today is Monday. What day is tomorrow?",
-    "visual": "In the lunch area, today is Monday. What day is tomorrow?",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": "In the lunch area, today is Monday. What day is tomorrow?"
-    },
-    "answers": [
-      "Tuesday",
-      "Wednesday",
-      "Sunday"
-    ],
-    "correct": 0,
-    "explanation": "Count one day at a time on the calendar.\nHint: Use the information in the question to check your answer.",
-    "structuredExplanation": {
-      "summary": "Count one day at a time on the calendar.",
-      "hint": "Use the information in the question to check your answer."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m2m03-p-047",
-    "curriculumCode": "AC9M2M03",
-    "bank": "practice",
-    "skill": "at the science table today is",
-    "printable": true,
-    "type": "single",
-    "question": "At the science table, today is Tuesday. What day was yesterday?",
-    "audioPrompt": "At the science table, today is Tuesday. What day was yesterday?",
-    "visual": "At the science table, today is Tuesday. What day was yesterday?",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": "At the science table, today is Tuesday. What day was yesterday?"
-    },
-    "answers": [
-      "Wednesday",
-      "Sunday",
-      "Monday"
-    ],
-    "correct": 2,
-    "explanation": "Count one day at a time on the calendar.\nHint: Use the information in the question to check your answer.",
-    "structuredExplanation": {
-      "summary": "Count one day at a time on the calendar.",
-      "hint": "Use the information in the question to check your answer."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m2m03-p-048",
-    "curriculumCode": "AC9M2M03",
-    "bank": "practice",
-    "skill": "during a card game an event",
-    "printable": true,
-    "type": "single",
-    "question": "During a card game, an event is on the 12th. What date is 3 days later?",
-    "audioPrompt": "During a card game, an event is on the 12th. What date is 3 days later?",
-    "visual": "During a card game, an event is on the 12th. What date is 3 days later?",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": "During a card game, an event is on the 12th. What date is 3 days later?"
-    },
-    "answers": [
-      "16th",
-      "15th",
-      "14th"
-    ],
-    "correct": 1,
-    "explanation": "Count one day at a time on the calendar.\nHint: Use the information in the question to check your answer.",
-    "structuredExplanation": {
-      "summary": "Count one day at a time on the calendar.",
-      "hint": "Use the information in the question to check your answer."
+      "summary": "Four days pass: 27 to 28 to 29 to 30 to 31.",
+      "hint": "Accept four one-day jumps or a correct subtraction with the two dates identified."
     },
     "qualitySchema": "production-v1"
   }

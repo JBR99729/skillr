@@ -4,28 +4,31 @@ window.skillrTestQuestions = [
     "id": "ac9m2st02-t-001",
     "curriculumCode": "AC9M2ST02",
     "bank": "test",
-    "skill": "read greatest category from graph",
+    "skill": "read",
     "printable": true,
     "type": "single",
-    "question": "On the weather graph, which category has the most weather votes?",
-    "audioPrompt": "On the weather graph, which category has the most weather votes?",
-    "visual": "On the weather graph: Bar graph for weather: A 5, B 11, C 8.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"On the weather graph: Bar graph for weather: A 5, B 11, C 8.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2st02.svg#ac9m2st02-t-001\"></use></svg>",
+    "question": "Which colour received the fewest votes?",
+    "audioPrompt": "Which colour received the fewest votes?",
+    "visual": "Bar graph: Red 5, Blue 2, Gold 5; count scale in ones.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Bar graph: Red 5, Blue 2, Gold 5; count scale in ones.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2st02.svg?v=20260906-year2-pending-release#ac9m2st02-t-001\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2st02.svg#ac9m2st02-t-001",
-      "alt_text": "On the weather graph: Bar graph for weather: A 5, B 11, C 8."
+      "alt_text": "Bar graph: Red 5, Blue 2, Gold 5; count scale in ones.",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2st02.svg?v=20260906-year2-pending-release#ac9m2st02-t-001"
     },
     "answers": [
-      "sunny",
-      "cloudy",
-      "rainy"
+      "Red",
+      "Gold",
+      "Blue"
     ],
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 1,
     "correct": 2,
-    "explanation": "Category rainy has the tallest bar and the greatest count, 11.\nHint: Compare the top of each bar.",
+    "explanation": "Blue has 2; Red and Gold each have 5.\nHint: Use the information in the question and check each step.",
     "structuredExplanation": {
-      "summary": "Category rainy has the tallest bar and the greatest count, 11.",
-      "hint": "Compare the top of each bar."
+      "summary": "Blue has 2; Red and Gold each have 5.",
+      "hint": "Use the information in the question and check each step."
     },
     "qualitySchema": "production-v1"
   },
@@ -33,28 +36,31 @@ window.skillrTestQuestions = [
     "id": "ac9m2st02-t-002",
     "curriculumCode": "AC9M2ST02",
     "bank": "test",
-    "skill": "read least category from graph",
+    "skill": "tie",
     "printable": true,
     "type": "single",
-    "question": "On the weather graph, which category has the fewest weather votes?",
-    "audioPrompt": "On the weather graph, which category has the fewest weather votes?",
-    "visual": "On the weather graph: Bar graph for weather: A 5, B 11, C 8.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"On the weather graph: Bar graph for weather: A 5, B 11, C 8.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2st02.svg#ac9m2st02-t-002\"></use></svg>",
+    "question": "Which statement is supported by the picture graph?",
+    "audioPrompt": "Which statement is supported by the picture graph?",
+    "visual": "Picture graph: Red 5 circles, Blue 2, Gold 5; one circle is one vote.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Picture graph: Red 5 circles, Blue 2, Gold 5; one circle is one vote.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2st02.svg?v=20260906-year2-pending-release#ac9m2st02-t-002\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2st02.svg#ac9m2st02-t-002",
-      "alt_text": "On the weather graph: Bar graph for weather: A 5, B 11, C 8."
+      "alt_text": "Picture graph: Red 5 circles, Blue 2, Gold 5; one circle is one vote.",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2st02.svg?v=20260906-year2-pending-release#ac9m2st02-t-002"
     },
     "answers": [
-      "sunny",
-      "rainy",
-      "cloudy"
+      "Red and Gold have equal votes",
+      "Blue has the most votes",
+      "Gold has fewer votes than Red"
     ],
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 2,
     "correct": 0,
-    "explanation": "Category sunny has the shortest bar and the smallest count, 5.\nHint: Find the bar that reaches the lowest number.",
+    "explanation": "The Red and Gold rows each contain five vote symbols.\nHint: Use the information in the question and check each step.",
     "structuredExplanation": {
-      "summary": "Category sunny has the shortest bar and the smallest count, 5.",
-      "hint": "Find the bar that reaches the lowest number."
+      "summary": "The Red and Gold rows each contain five vote symbols.",
+      "hint": "Use the information in the question and check each step."
     },
     "qualitySchema": "production-v1"
   },
@@ -62,28 +68,31 @@ window.skillrTestQuestions = [
     "id": "ac9m2st02-t-003",
     "curriculumCode": "AC9M2ST02",
     "bank": "test",
-    "skill": "compare graph categories",
+    "skill": "sum",
     "printable": true,
     "type": "single",
-    "question": "On the weather graph, how many more votes does rainy have than sunny?",
-    "audioPrompt": "On the weather graph, how many more votes does rainy have than sunny?",
-    "visual": "On the weather graph: Bar graph with sunny at 5 and rainy at 11.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"On the weather graph: Bar graph with sunny at 5 and rainy at 11.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2st02.svg#ac9m2st02-t-003\"></use></svg>",
+    "question": "How many votes were cast?",
+    "audioPrompt": "How many votes were cast?",
+    "visual": "Table: Red 5, Blue 2, Gold 5 votes.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Table: Red 5, Blue 2, Gold 5 votes.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2st02.svg?v=20260906-year2-pending-release#ac9m2st02-t-003\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2st02.svg#ac9m2st02-t-003",
-      "alt_text": "On the weather graph: Bar graph with sunny at 5 and rainy at 11."
+      "alt_text": "Table: Red 5, Blue 2, Gold 5 votes.",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2st02.svg?v=20260906-year2-pending-release#ac9m2st02-t-003"
     },
     "answers": [
-      "16",
-      "6",
+      "10",
+      "12",
       "7"
     ],
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 3,
     "correct": 1,
-    "explanation": "Find the difference: 11 − 5 = 6.\nHint: Start at sunny's height and count up to rainy's height.",
+    "explanation": "Five plus two plus five is twelve.\nHint: Use the information in the question and check each step.",
     "structuredExplanation": {
-      "summary": "Find the difference: 11 − 5 = 6.",
-      "hint": "Start at sunny's height and count up to rainy's height."
+      "summary": "Five plus two plus five is twelve.",
+      "hint": "Use the information in the question and check each step."
     },
     "qualitySchema": "production-v1"
   },
@@ -91,28 +100,31 @@ window.skillrTestQuestions = [
     "id": "ac9m2st02-t-004",
     "curriculumCode": "AC9M2ST02",
     "bank": "test",
-    "skill": "preserve data across displays",
+    "skill": "difference",
     "printable": true,
     "type": "single",
-    "question": "On the weather graph, what must stay the same when this table is changed into a graph?",
-    "audioPrompt": "On the weather graph, what must stay the same when this table is changed into a graph?",
-    "visual": "On the weather graph: A table and bar graph both showing counts 5, 11, 8.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"On the weather graph: A table and bar graph both showing counts 5, 11, 8.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2st02.svg#ac9m2st02-t-004\"></use></svg>",
+    "question": "How many more votes did Gold receive than Blue?",
+    "audioPrompt": "How many more votes did Gold receive than Blue?",
+    "visual": "Bar graph: Red 5, Blue 2, Gold 5; count scale in ones.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Bar graph: Red 5, Blue 2, Gold 5; count scale in ones.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2st02.svg?v=20260906-year2-pending-release#ac9m2st02-t-004\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2st02.svg#ac9m2st02-t-004",
-      "alt_text": "On the weather graph: A table and bar graph both showing counts 5, 11, 8."
+      "alt_text": "Bar graph: Red 5, Blue 2, Gold 5; count scale in ones.",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2st02.svg?v=20260906-year2-pending-release#ac9m2st02-t-004"
     },
     "answers": [
-      "the bar colours only",
-      "the order of the alphabet",
-      "the category counts"
+      "7",
+      "3",
+      "2"
     ],
-    "correct": 2,
-    "explanation": "A new display must represent the same data values.\nHint: Check every graph bar against its table count.",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 4,
+    "correct": 1,
+    "explanation": "Five minus two is three.\nHint: Use the information in the question and check each step.",
     "structuredExplanation": {
-      "summary": "A new display must represent the same data values.",
-      "hint": "Check every graph bar against its table count."
+      "summary": "Five minus two is three.",
+      "hint": "Use the information in the question and check each step."
     },
     "qualitySchema": "production-v1"
   },
@@ -120,28 +132,31 @@ window.skillrTestQuestions = [
     "id": "ac9m2st02-t-005",
     "curriculumCode": "AC9M2ST02",
     "bank": "test",
-    "skill": "explain graph labels",
+    "skill": "convert",
     "printable": true,
     "type": "single",
-    "question": "On the weather graph, why does a graph need category labels?",
-    "audioPrompt": "On the weather graph, why does a graph need category labels?",
-    "visual": "On the weather graph: A labelled graph for categories A, B and C.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"On the weather graph: A labelled graph for categories A, B and C.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2st02.svg#ac9m2st02-t-005\"></use></svg>",
+    "question": "How many symbols belong in the Blue row of a one-symbol-per-vote graph?",
+    "audioPrompt": "How many symbols belong in the Blue row of a one-symbol-per-vote graph?",
+    "visual": "Table: Red 5, Blue 2, Gold 5 votes.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Table: Red 5, Blue 2, Gold 5 votes.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2st02.svg?v=20260906-year2-pending-release#ac9m2st02-t-005\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2st02.svg#ac9m2st02-t-005",
-      "alt_text": "On the weather graph: A labelled graph for categories A, B and C."
+      "alt_text": "Table: Red 5, Blue 2, Gold 5 votes.",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2st02.svg?v=20260906-year2-pending-release#ac9m2st02-t-005"
     },
     "answers": [
-      "to show what each bar represents",
-      "to make every bar equal",
-      "to change the data totals"
+      "5",
+      "12",
+      "2"
     ],
-    "correct": 0,
-    "explanation": "Labels connect each bar or picture to its category.\nHint: Without labels, you cannot tell what is being counted.",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 5,
+    "correct": 2,
+    "explanation": "The table records two Blue votes.\nHint: Use the information in the question and check each step.",
     "structuredExplanation": {
-      "summary": "Labels connect each bar or picture to its category.",
-      "hint": "Without labels, you cannot tell what is being counted."
+      "summary": "The table records two Blue votes.",
+      "hint": "Use the information in the question and check each step."
     },
     "qualitySchema": "production-v1"
   },
@@ -149,28 +164,31 @@ window.skillrTestQuestions = [
     "id": "ac9m2st02-t-006",
     "curriculumCode": "AC9M2ST02",
     "bank": "test",
-    "skill": "choose data display",
+    "skill": "category order",
     "printable": true,
     "type": "single",
-    "question": "On the weather graph, which display makes it easy to compare three category counts?",
-    "audioPrompt": "On the weather graph, which display makes it easy to compare three category counts?",
-    "visual": "On the weather graph: A labelled bar graph with three side-by-side bars.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"On the weather graph: A labelled bar graph with three side-by-side bars.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2st02.svg#ac9m2st02-t-006\"></use></svg>",
+    "question": "A second graph lists Gold, Red, Blue with counts 5, 5, 2. Does it match this table?",
+    "audioPrompt": "A second graph lists Gold, Red, Blue with counts 5, 5, 2. Does it match this table?",
+    "visual": "Table: Red 5, Blue 2, Gold 5 votes.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Table: Red 5, Blue 2, Gold 5 votes.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2st02.svg?v=20260906-year2-pending-release#ac9m2st02-t-006\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2st02.svg#ac9m2st02-t-006",
-      "alt_text": "On the weather graph: A labelled bar graph with three side-by-side bars."
+      "alt_text": "Table: Red 5, Blue 2, Gold 5 votes.",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2st02.svg?v=20260906-year2-pending-release#ac9m2st02-t-006"
     },
     "answers": [
-      "an unlabelled picture",
-      "a labelled bar graph",
-      "a clock face"
+      "Yes; each colour keeps its count",
+      "No; Gold must be last",
+      "No; equal counts cannot be graphed"
     ],
-    "correct": 1,
-    "explanation": "A labelled bar graph places the category amounts side by side.\nHint: Choose a display where the heights and labels can be compared.",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 6,
+    "correct": 0,
+    "explanation": "Different category order does not alter the data.\nHint: Use the information in the question and check each step.",
     "structuredExplanation": {
-      "summary": "A labelled bar graph places the category amounts side by side.",
-      "hint": "Choose a display where the heights and labels can be compared."
+      "summary": "Different category order does not alter the data.",
+      "hint": "Use the information in the question and check each step."
     },
     "qualitySchema": "production-v1"
   },
@@ -178,28 +196,31 @@ window.skillrTestQuestions = [
     "id": "ac9m2st02-t-007",
     "curriculumCode": "AC9M2ST02",
     "bank": "test",
-    "skill": "interpret picture graph key",
+    "skill": "graph features",
     "printable": true,
     "type": "single",
-    "question": "On the weather graph, a picture graph uses one star for one vote. How many votes do 8 stars show?",
-    "audioPrompt": "On the weather graph, a picture graph uses one star for one vote. How many votes do 8 stars show?",
-    "visual": "On the weather graph: Picture graph key says one star equals one vote, with 8 stars shown.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"On the weather graph: Picture graph key says one star equals one vote, with 8 stars shown.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2st02.svg#ac9m2st02-t-007\"></use></svg>",
+    "question": "Which feature tells you that each picture represents one vote?",
+    "audioPrompt": "Which feature tells you that each picture represents one vote?",
+    "visual": "Picture graph: Red 5 circles, Blue 2, Gold 5; one circle is one vote.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Picture graph: Red 5 circles, Blue 2, Gold 5; one circle is one vote.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2st02.svg?v=20260906-year2-pending-release#ac9m2st02-t-007\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2st02.svg#ac9m2st02-t-007",
-      "alt_text": "On the weather graph: Picture graph key says one star equals one vote, with 8 stars shown."
+      "alt_text": "Picture graph: Red 5 circles, Blue 2, Gold 5; one circle is one vote.",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2st02.svg?v=20260906-year2-pending-release#ac9m2st02-t-007"
     },
     "answers": [
-      "9",
-      "16",
-      "8"
+      "The key",
+      "The title alone",
+      "The number of rows"
     ],
-    "correct": 2,
-    "explanation": "When one picture equals one vote, 8 stars represent 8 votes.\nHint: Check the key before counting the pictures.",
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 7,
+    "correct": 0,
+    "explanation": "A key specifies the value of a symbol.\nHint: Use the information in the question and check each step.",
     "structuredExplanation": {
-      "summary": "When one picture equals one vote, 8 stars represent 8 votes.",
-      "hint": "Check the key before counting the pictures."
+      "summary": "A key specifies the value of a symbol.",
+      "hint": "Use the information in the question and check each step."
     },
     "qualitySchema": "production-v1"
   },
@@ -207,28 +228,31 @@ window.skillrTestQuestions = [
     "id": "ac9m2st02-t-008",
     "curriculumCode": "AC9M2ST02",
     "bank": "test",
-    "skill": "identify graph data error",
+    "skill": "add vote",
     "printable": true,
     "type": "single",
-    "question": "On the weather graph, the table says sunny has 5 votes, but the graph shows 6. What is wrong?",
-    "audioPrompt": "On the weather graph, the table says sunny has 5 votes, but the graph shows 6. What is wrong?",
-    "visual": "On the weather graph: Table shows sunny equals 5, while graph shows sunny equals 6.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"On the weather graph: Table shows sunny equals 5, while graph shows sunny equals 6.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2st02.svg#ac9m2st02-t-008\"></use></svg>",
+    "question": "One additional vote is recorded for Blue. Which new set of counts is correct?",
+    "audioPrompt": "One additional vote is recorded for Blue. Which new set of counts is correct?",
+    "visual": "Table: Red 5, Blue 2, Gold 5 votes.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Table: Red 5, Blue 2, Gold 5 votes.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2st02.svg?v=20260906-year2-pending-release#ac9m2st02-t-008\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2st02.svg#ac9m2st02-t-008",
-      "alt_text": "On the weather graph: Table shows sunny equals 5, while graph shows sunny equals 6."
+      "alt_text": "Table: Red 5, Blue 2, Gold 5 votes.",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2st02.svg?v=20260906-year2-pending-release#ac9m2st02-t-008"
     },
     "answers": [
-      "the graph count doesn't match the table",
-      "the graph uses a blue bar",
-      "the table has a heading"
+      "Red 6; Blue 3; Gold 6",
+      "Red 5; Blue 1; Gold 5",
+      "Red 5; Blue 3; Gold 5"
     ],
-    "correct": 0,
-    "explanation": "The graph must show 5 for sunny, the same as the source table.\nHint: Compare one category at a time across both displays.",
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 8,
+    "correct": 2,
+    "explanation": "Add one only to Blue’s count of two.\nHint: Use the information in the question and check each step.",
     "structuredExplanation": {
-      "summary": "The graph must show 5 for sunny, the same as the source table.",
-      "hint": "Compare one category at a time across both displays."
+      "summary": "Add one only to Blue’s count of two.",
+      "hint": "Use the information in the question and check each step."
     },
     "qualitySchema": "production-v1"
   },
@@ -236,28 +260,31 @@ window.skillrTestQuestions = [
     "id": "ac9m2st02-t-009",
     "curriculumCode": "AC9M2ST02",
     "bank": "test",
-    "skill": "read greatest category from graph",
+    "skill": "graph error",
     "printable": true,
     "type": "single",
-    "question": "On the books graph, which category has the most books votes?",
-    "audioPrompt": "On the books graph, which category has the most books votes?",
-    "visual": "On the books graph: Bar graph for books: A 6, B 12, C 9.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"On the books graph: Bar graph for books: A 6, B 12, C 9.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2st02.svg#ac9m2st02-t-009\"></use></svg>",
+    "question": "A bar graph made from this table has heights Red 5, Blue 5, Gold 2. What is wrong?",
+    "audioPrompt": "A bar graph made from this table has heights Red 5, Blue 5, Gold 2. What is wrong?",
+    "visual": "Table: Red 5, Blue 2, Gold 5 votes.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Table: Red 5, Blue 2, Gold 5 votes.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2st02.svg?v=20260906-year2-pending-release#ac9m2st02-t-009\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2st02.svg#ac9m2st02-t-009",
-      "alt_text": "On the books graph: Bar graph for books: A 6, B 12, C 9."
+      "alt_text": "Table: Red 5, Blue 2, Gold 5 votes.",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2st02.svg?v=20260906-year2-pending-release#ac9m2st02-t-009"
     },
     "answers": [
-      "funny",
-      "animal",
-      "facts"
+      "Red needs a height of 2",
+      "Blue and Gold have the wrong heights",
+      "The total must be 15"
     ],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 9,
     "correct": 1,
-    "explanation": "Category animal has the tallest bar and the greatest count, 12.\nHint: Compare the top of each bar.",
+    "explanation": "Blue should be 2 and Gold should be 5.\nHint: Use the information in the question and check each step.",
     "structuredExplanation": {
-      "summary": "Category animal has the tallest bar and the greatest count, 12.",
-      "hint": "Compare the top of each bar."
+      "summary": "Blue should be 2 and Gold should be 5.",
+      "hint": "Use the information in the question and check each step."
     },
     "qualitySchema": "production-v1"
   },
@@ -265,28 +292,30 @@ window.skillrTestQuestions = [
     "id": "ac9m2st02-t-010",
     "curriculumCode": "AC9M2ST02",
     "bank": "test",
-    "skill": "read least category from graph",
+    "skill": "fair symbols",
     "printable": true,
     "type": "single",
-    "question": "On the books graph, which category has the fewest books votes?",
-    "audioPrompt": "On the books graph, which category has the fewest books votes?",
-    "visual": "On the books graph: Bar graph for books: A 6, B 12, C 9.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"On the books graph: Bar graph for books: A 6, B 12, C 9.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2st02.svg#ac9m2st02-t-010\"></use></svg>",
+    "question": "Red has five small symbols and Gold five very large symbols, each worth one vote. What is true?",
+    "audioPrompt": "Red has five small symbols and Gold five very large symbols, each worth one vote. What is true?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2st02.svg#ac9m2st02-t-010",
-      "alt_text": "On the books graph: Bar graph for books: A 6, B 12, C 9."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "animal",
-      "facts",
-      "funny"
+      "Their counts are equal, but the sizes may mislead",
+      "Gold must have more votes",
+      "Red must have more votes"
     ],
-    "correct": 2,
-    "explanation": "Category funny has the shortest bar and the smallest count, 6.\nHint: Find the bar that reaches the lowest number.",
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 10,
+    "correct": 0,
+    "explanation": "Five one-vote symbols represent five votes whatever their size; consistent size is clearer.\nHint: Use the information in the question and check each step.",
     "structuredExplanation": {
-      "summary": "Category funny has the shortest bar and the smallest count, 6.",
-      "hint": "Find the bar that reaches the lowest number."
+      "summary": "Five one-vote symbols represent five votes whatever their size; consistent size is clearer.",
+      "hint": "Use the information in the question and check each step."
     },
     "qualitySchema": "production-v1"
   },
@@ -294,28 +323,30 @@ window.skillrTestQuestions = [
     "id": "ac9m2st02-t-011",
     "curriculumCode": "AC9M2ST02",
     "bank": "test",
-    "skill": "compare graph categories",
+    "skill": "common feature",
     "printable": true,
     "type": "single",
-    "question": "On the books graph, how many more votes does animal have than funny?",
-    "audioPrompt": "On the books graph, how many more votes does animal have than funny?",
-    "visual": "On the books graph: Bar graph with funny at 6 and animal at 12.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"On the books graph: Bar graph with funny at 6 and animal at 12.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2st02.svg#ac9m2st02-t-011\"></use></svg>",
+    "question": "Which feature should a table and graph of the same colour survey both preserve?",
+    "audioPrompt": "Which feature should a table and graph of the same colour survey both preserve?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2st02.svg#ac9m2st02-t-011",
-      "alt_text": "On the books graph: Bar graph with funny at 6 and animal at 12."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "6",
-      "18",
-      "7"
+      "The same type of border",
+      "Each colour’s number of votes",
+      "The same height on the page"
     ],
-    "correct": 0,
-    "explanation": "Find the difference: 12 − 6 = 6.\nHint: Start at funny's height and count up to animal's height.",
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 11,
+    "correct": 1,
+    "explanation": "Changing representation must not change category counts.\nHint: Use the information in the question and check each step.",
     "structuredExplanation": {
-      "summary": "Find the difference: 12 − 6 = 6.",
-      "hint": "Start at funny's height and count up to animal's height."
+      "summary": "Changing representation must not change category counts.",
+      "hint": "Use the information in the question and check each step."
     },
     "qualitySchema": "production-v1"
   },
@@ -323,28 +354,31 @@ window.skillrTestQuestions = [
     "id": "ac9m2st02-t-012",
     "curriculumCode": "AC9M2ST02",
     "bank": "test",
-    "skill": "preserve data across displays",
+    "skill": "conclusion",
     "printable": true,
     "type": "single",
-    "question": "On the books graph, what must stay the same when this table is changed into a graph?",
-    "audioPrompt": "On the books graph, what must stay the same when this table is changed into a graph?",
-    "visual": "On the books graph: A table and bar graph both showing counts 6, 12, 9.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"On the books graph: A table and bar graph both showing counts 6, 12, 9.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2st02.svg#ac9m2st02-t-012\"></use></svg>",
+    "question": "Can this graph tell which colour every child in the whole school prefers?",
+    "audioPrompt": "Can this graph tell which colour every child in the whole school prefers?",
+    "visual": "Bar graph: Red 5, Blue 2, Gold 5; count scale in ones.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Bar graph: Red 5, Blue 2, Gold 5; count scale in ones.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2st02.svg?v=20260906-year2-pending-release#ac9m2st02-t-012\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2st02.svg#ac9m2st02-t-012",
-      "alt_text": "On the books graph: A table and bar graph both showing counts 6, 12, 9."
+      "alt_text": "Bar graph: Red 5, Blue 2, Gold 5; count scale in ones.",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2st02.svg?v=20260906-year2-pending-release#ac9m2st02-t-012"
     },
     "answers": [
-      "the bar colours only",
-      "the category counts",
-      "the order of the alphabet"
+      "Yes; every survey includes the whole school",
+      "Yes; a tall bar proves everyone agrees",
+      "No; it shows only the recorded survey votes"
     ],
-    "correct": 1,
-    "explanation": "A new display must represent the same data values.\nHint: Check every graph bar against its table count.",
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 12,
+    "correct": 2,
+    "explanation": "Do not claim the data represent people who were not included.\nHint: Use the information in the question and check each step.",
     "structuredExplanation": {
-      "summary": "A new display must represent the same data values.",
-      "hint": "Check every graph bar against its table count."
+      "summary": "Do not claim the data represent people who were not included.",
+      "hint": "Use the information in the question and check each step."
     },
     "qualitySchema": "production-v1"
   },
@@ -352,28 +386,30 @@ window.skillrTestQuestions = [
     "id": "ac9m2st02-t-013",
     "curriculumCode": "AC9M2ST02",
     "bank": "test",
-    "skill": "explain graph labels",
+    "skill": "software check",
     "printable": true,
     "type": "single",
-    "question": "On the books graph, why does a graph need category labels?",
-    "audioPrompt": "On the books graph, why does a graph need category labels?",
-    "visual": "On the books graph: A labelled graph for categories A, B and C.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"On the books graph: A labelled graph for categories A, B and C.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2st02.svg#ac9m2st02-t-013\"></use></svg>",
+    "question": "A graphing tool draws a bar to 4 although its source table says 5. What should you do?",
+    "audioPrompt": "A graphing tool draws a bar to 4 although its source table says 5. What should you do?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2st02.svg#ac9m2st02-t-013",
-      "alt_text": "On the books graph: A labelled graph for categories A, B and C."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "to make every bar equal",
-      "to change the data totals",
-      "to show what each bar represents"
+      "Change the source count to 4 without checking",
+      "Hide the axis numbers",
+      "Correct the graph to match the source count"
     ],
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 13,
     "correct": 2,
-    "explanation": "Labels connect each bar or picture to its category.\nHint: Without labels, you cannot tell what is being counted.",
+    "explanation": "The display must represent the recorded data accurately.\nHint: Use the information in the question and check each step.",
     "structuredExplanation": {
-      "summary": "Labels connect each bar or picture to its category.",
-      "hint": "Without labels, you cannot tell what is being counted."
+      "summary": "The display must represent the recorded data accurately.",
+      "hint": "Use the information in the question and check each step."
     },
     "qualitySchema": "production-v1"
   },
@@ -381,28 +417,37 @@ window.skillrTestQuestions = [
     "id": "ac9m2st02-t-014",
     "curriculumCode": "AC9M2ST02",
     "bank": "test",
-    "skill": "choose data display",
+    "skill": "draw graph",
     "printable": true,
-    "type": "single",
-    "question": "On the books graph, which display makes it easy to compare three category counts?",
-    "audioPrompt": "On the books graph, which display makes it easy to compare three category counts?",
-    "visual": "On the books graph: A labelled bar graph with three side-by-side bars.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"On the books graph: A labelled bar graph with three side-by-side bars.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2st02.svg#ac9m2st02-t-014\"></use></svg>",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Red 5, Blue 2, Gold 5 equal-sized symbols; one symbol means one vote.",
+    "acceptanceNote": "Check exact counts and a stated one-to-one key.",
+    "responseInstructions": "Complete the task on paper or with materials, then ask an adult to check it.",
+    "completionLabel": "Ready for adult review",
+    "question": "Create a picture graph from this table, including a title, labels and key.",
+    "audioPrompt": "Create a picture graph from this table, including a title, labels and key.",
+    "visual": "Table: Red 5, Blue 2, Gold 5 votes.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Table: Red 5, Blue 2, Gold 5 votes.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2st02.svg?v=20260906-year2-pending-release#ac9m2st02-t-014\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2st02.svg#ac9m2st02-t-014",
-      "alt_text": "On the books graph: A labelled bar graph with three side-by-side bars."
+      "alt_text": "Table: Red 5, Blue 2, Gold 5 votes.",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2st02.svg?v=20260906-year2-pending-release#ac9m2st02-t-014"
     },
     "answers": [
-      "a labelled bar graph",
-      "an unlabelled picture",
-      "a clock face"
+      "Completed response",
+      "Needs revision",
+      "Not attempted"
     ],
-    "correct": 0,
-    "explanation": "A labelled bar graph places the category amounts side by side.\nHint: Choose a display where the heights and labels can be compared.",
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 14,
+    "correct": "Red 5, Blue 2, Gold 5 equal-sized symbols; one symbol means one vote.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
-      "summary": "A labelled bar graph places the category amounts side by side.",
-      "hint": "Choose a display where the heights and labels can be compared."
+      "summary": "Red 5, Blue 2, Gold 5 equal-sized symbols; one symbol means one vote.",
+      "hint": "Check exact counts and a stated one-to-one key."
     },
     "qualitySchema": "production-v1"
   },
@@ -410,28 +455,37 @@ window.skillrTestQuestions = [
     "id": "ac9m2st02-t-015",
     "curriculumCode": "AC9M2ST02",
     "bank": "test",
-    "skill": "interpret picture graph key",
+    "skill": "bar from picture",
     "printable": true,
-    "type": "single",
-    "question": "On the books graph, a picture graph uses one star for one vote. How many votes do 9 stars show?",
-    "audioPrompt": "On the books graph, a picture graph uses one star for one vote. How many votes do 9 stars show?",
-    "visual": "On the books graph: Picture graph key says one star equals one vote, with 9 stars shown.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"On the books graph: Picture graph key says one star equals one vote, with 9 stars shown.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2st02.svg#ac9m2st02-t-015\"></use></svg>",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Red, Blue, Gold bars with counts 5, 2, 5, a uniform count scale beginning at zero and labels.",
+    "acceptanceNote": "Require the category counts to match the source; accept horizontal or vertical bars.",
+    "responseInstructions": "Complete the task on paper or with materials, then ask an adult to check it.",
+    "completionLabel": "Ready for adult review",
+    "question": "Create a bar graph from this picture graph, on paper or using software.",
+    "audioPrompt": "Create a bar graph from this picture graph, on paper or using software.",
+    "visual": "Picture graph: Red 5 circles, Blue 2, Gold 5; one circle is one vote.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Picture graph: Red 5 circles, Blue 2, Gold 5; one circle is one vote.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2st02.svg?v=20260906-year2-pending-release#ac9m2st02-t-015\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2st02.svg#ac9m2st02-t-015",
-      "alt_text": "On the books graph: Picture graph key says one star equals one vote, with 9 stars shown."
+      "alt_text": "Picture graph: Red 5 circles, Blue 2, Gold 5; one circle is one vote.",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2st02.svg?v=20260906-year2-pending-release#ac9m2st02-t-015"
     },
     "answers": [
-      "10",
-      "9",
-      "18"
+      "Needs revision",
+      "Completed response",
+      "Not attempted"
     ],
-    "correct": 1,
-    "explanation": "When one picture equals one vote, 9 stars represent 9 votes.\nHint: Check the key before counting the pictures.",
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 15,
+    "correct": "Red, Blue, Gold bars with counts 5, 2, 5, a uniform count scale beginning at zero and labels.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
-      "summary": "When one picture equals one vote, 9 stars represent 9 votes.",
-      "hint": "Check the key before counting the pictures."
+      "summary": "Red, Blue, Gold bars with counts 5, 2, 5, a uniform count scale beginning at zero and labels.",
+      "hint": "Require the category counts to match the source; accept horizontal or vertical bars."
     },
     "qualitySchema": "production-v1"
   },
@@ -439,28 +493,36 @@ window.skillrTestQuestions = [
     "id": "ac9m2st02-t-016",
     "curriculumCode": "AC9M2ST02",
     "bank": "test",
-    "skill": "identify graph data error",
+    "skill": "compare",
     "printable": true,
-    "type": "single",
-    "question": "On the books graph, the table says funny has 6 votes, but the graph shows 7. What is wrong?",
-    "audioPrompt": "On the books graph, the table says funny has 6 votes, but the graph shows 7. What is wrong?",
-    "visual": "On the books graph: Table shows funny equals 6, while graph shows funny equals 7.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"On the books graph: Table shows funny equals 6, while graph shows funny equals 7.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2st02.svg#ac9m2st02-t-016\"></use></svg>",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Both show Red and Gold tied and Blue lowest. One uses bar lengths/heights; the other repeats symbols.",
+    "acceptanceNote": "Accept another valid shared data fact and a genuine representational difference.",
+    "responseInstructions": "Complete the task on paper or with materials, then ask an adult to check it.",
+    "completionLabel": "Ready for adult review",
+    "question": "Compare a bar graph and picture graph of Red 5, Blue 2, Gold 5. Give one similarity and one difference.",
+    "audioPrompt": "Compare a bar graph and picture graph of Red 5, Blue 2, Gold 5. Give one similarity and one difference.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2st02.svg#ac9m2st02-t-016",
-      "alt_text": "On the books graph: Table shows funny equals 6, while graph shows funny equals 7."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "the graph uses a blue bar",
-      "the table has a heading",
-      "the graph count doesn't match the table"
+      "Completed response",
+      "Needs revision",
+      "Not attempted"
     ],
-    "correct": 2,
-    "explanation": "The graph must show 6 for funny, the same as the source table.\nHint: Compare one category at a time across both displays.",
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 16,
+    "correct": "Both show Red and Gold tied and Blue lowest. One uses bar lengths/heights; the other repeats symbols.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
-      "summary": "The graph must show 6 for funny, the same as the source table.",
-      "hint": "Compare one category at a time across both displays."
+      "summary": "Both show Red and Gold tied and Blue lowest. One uses bar lengths/heights; the other repeats symbols.",
+      "hint": "Accept another valid shared data fact and a genuine representational difference."
     },
     "qualitySchema": "production-v1"
   }

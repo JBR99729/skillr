@@ -4,28 +4,31 @@ window.skillrTestQuestions = [
     "id": "ac9m2m03-t-001",
     "curriculumCode": "AC9M2M03",
     "bank": "test",
-    "skill": "find date one week later",
+    "skill": "weekday",
     "printable": true,
     "type": "single",
-    "question": "For sports week, the class visit is on the 8th. What date is one week later?",
-    "audioPrompt": "For sports week, the class visit is on the 8th. What date is one week later?",
-    "visual": "For sports week: Calendar with the 8th and 15th highlighted one week apart.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"For sports week: Calendar with the 8th and 15th highlighted one week apart.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2m03.svg#ac9m2m03-t-001\"></use></svg>",
+    "question": "Use the May calendar. What weekday is 12 May?",
+    "audioPrompt": "Use the May calendar. What weekday is 12 May?",
+    "visual": "May 2027 calendar, Monday-first; highlighted dates: .",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"May 2027 calendar, Monday-first; highlighted dates: .\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2m03.svg?v=20260906-year2-pending-release#ac9m2m03-t-001\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m03.svg#ac9m2m03-t-001",
-      "alt_text": "For sports week: Calendar with the 8th and 15th highlighted one week apart."
+      "alt_text": "May 2027 calendar, Monday-first; highlighted dates: .",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m03.svg?v=20260906-year2-pending-release#ac9m2m03-t-001"
     },
     "answers": [
-      "14th",
-      "16th",
-      "15th"
+      "Tuesday",
+      "Thursday",
+      "Wednesday"
     ],
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 1,
     "correct": 2,
-    "explanation": "One week is 7 days, so 8 + 7 = 15.\nHint: Move down one full week on the calendar.",
+    "explanation": "The 12th is in the Wednesday column.\nHint: Use the information in the question and check each step.",
     "structuredExplanation": {
-      "summary": "One week is 7 days, so 8 + 7 = 15.",
-      "hint": "Move down one full week on the calendar."
+      "summary": "The 12th is in the Wednesday column.",
+      "hint": "Use the information in the question and check each step."
     },
     "qualitySchema": "production-v1"
   },
@@ -33,28 +36,31 @@ window.skillrTestQuestions = [
     "id": "ac9m2m03-t-002",
     "curriculumCode": "AC9M2M03",
     "bank": "test",
-    "skill": "count days between dates",
+    "skill": "date",
     "printable": true,
     "type": "single",
-    "question": "For sports week, how many days are between the 8th and the 14th?",
-    "audioPrompt": "For sports week, how many days are between the 8th and the 14th?",
-    "visual": "For sports week: Calendar with the 8th and 14th highlighted.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"For sports week: Calendar with the 8th and 14th highlighted.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2m03.svg#ac9m2m03-t-002\"></use></svg>",
+    "question": "What is the date of the second Sunday in May?",
+    "audioPrompt": "What is the date of the second Sunday in May?",
+    "visual": "May 2027 calendar, Monday-first; highlighted dates: .",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"May 2027 calendar, Monday-first; highlighted dates: .\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2m03.svg?v=20260906-year2-pending-release#ac9m2m03-t-002\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m03.svg#ac9m2m03-t-002",
-      "alt_text": "For sports week: Calendar with the 8th and 14th highlighted."
+      "alt_text": "May 2027 calendar, Monday-first; highlighted dates: .",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m03.svg?v=20260906-year2-pending-release#ac9m2m03-t-002"
     },
     "answers": [
-      "6",
-      "7",
-      "5"
+      "9 May",
+      "2 May",
+      "16 May"
     ],
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 2,
     "correct": 0,
-    "explanation": "Count the jumps after the 8th: there are 6 days to the 14th.\nHint: Do not count the starting date as a jump.",
+    "explanation": "The Sundays begin with 2, then 9.\nHint: Use the information in the question and check each step.",
     "structuredExplanation": {
-      "summary": "Count the jumps after the 8th: there are 6 days to the 14th.",
-      "hint": "Do not count the starting date as a jump."
+      "summary": "The Sundays begin with 2, then 9.",
+      "hint": "Use the information in the question and check each step."
     },
     "qualitySchema": "production-v1"
   },
@@ -62,28 +68,31 @@ window.skillrTestQuestions = [
     "id": "ac9m2m03-t-003",
     "curriculumCode": "AC9M2M03",
     "bank": "test",
-    "skill": "move forward on week",
+    "skill": "month end",
     "printable": true,
     "type": "single",
-    "question": "For sports week, today is Monday. What day is 6 days later?",
-    "audioPrompt": "For sports week, today is Monday. What day is 6 days later?",
-    "visual": "For sports week: A row of weekday cards starting on Monday with 6 forward jumps.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"For sports week: A row of weekday cards starting on Monday with 6 forward jumps.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2m03.svg#ac9m2m03-t-003\"></use></svg>",
+    "question": "Use the June calendar. What is the final date of the month?",
+    "audioPrompt": "Use the June calendar. What is the final date of the month?",
+    "visual": "June 2027 calendar, Monday-first; highlighted dates: .",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"June 2027 calendar, Monday-first; highlighted dates: .\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2m03.svg?v=20260906-year2-pending-release#ac9m2m03-t-003\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m03.svg#ac9m2m03-t-003",
-      "alt_text": "For sports week: A row of weekday cards starting on Monday with 6 forward jumps."
+      "alt_text": "June 2027 calendar, Monday-first; highlighted dates: .",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m03.svg?v=20260906-year2-pending-release#ac9m2m03-t-003"
     },
     "answers": [
-      "Friday",
-      "Sunday",
-      "Monday"
+      "31 June",
+      "30 June",
+      "29 June"
     ],
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 3,
     "correct": 1,
-    "explanation": "Move forward 6 days from Monday.\nHint: Use one jump for each day.",
+    "explanation": "The calendar ends at 30.\nHint: Use the information in the question and check each step.",
     "structuredExplanation": {
-      "summary": "Move forward 6 days from Monday.",
-      "hint": "Use one jump for each day."
+      "summary": "The calendar ends at 30.",
+      "hint": "Use the information in the question and check each step."
     },
     "qualitySchema": "production-v1"
   },
@@ -91,28 +100,31 @@ window.skillrTestQuestions = [
     "id": "ac9m2m03-t-004",
     "curriculumCode": "AC9M2M03",
     "bank": "test",
-    "skill": "distinguish date and day",
+    "skill": "forward week",
     "printable": true,
     "type": "single",
-    "question": "For sports week, which is a date?",
-    "audioPrompt": "For sports week, which is a date?",
-    "visual": "For sports week: May calendar with the 14th highlighted.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"For sports week: May calendar with the 14th highlighted.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2m03.svg#ac9m2m03-t-004\"></use></svg>",
+    "question": "Swimming is on 6 May. What date is the next lesson, exactly one week later?",
+    "audioPrompt": "Swimming is on 6 May. What date is the next lesson, exactly one week later?",
+    "visual": "May 2027 calendar, Monday-first; highlighted dates: .",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"May 2027 calendar, Monday-first; highlighted dates: .\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2m03.svg?v=20260906-year2-pending-release#ac9m2m03-t-004\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m03.svg#ac9m2m03-t-004",
-      "alt_text": "For sports week: May calendar with the 14th highlighted."
+      "alt_text": "May 2027 calendar, Monday-first; highlighted dates: .",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m03.svg?v=20260906-year2-pending-release#ac9m2m03-t-004"
     },
     "answers": [
-      "Thursday",
-      "After lunch",
-      "14th of May"
+      "12 May",
+      "13 May",
+      "14 May"
     ],
-    "correct": 2,
-    "explanation": "A date gives a number and a month: 14th of May.\nHint: A day name is not a full date.",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 4,
+    "correct": 1,
+    "explanation": "Seven days after 6 May is 13 May.\nHint: Use the information in the question and check each step.",
     "structuredExplanation": {
-      "summary": "A date gives a number and a month: 14th of May.",
-      "hint": "A day name is not a full date."
+      "summary": "Seven days after 6 May is 13 May.",
+      "hint": "Use the information in the question and check each step."
     },
     "qualitySchema": "production-v1"
   },
@@ -120,28 +132,31 @@ window.skillrTestQuestions = [
     "id": "ac9m2m03-t-005",
     "curriculumCode": "AC9M2M03",
     "bank": "test",
-    "skill": "solve calendar event problem",
+    "skill": "elapsed",
     "printable": true,
     "type": "single",
-    "question": "For sports week, the library day is the 8th. Sports day is 6 days later. What is the sports date?",
-    "audioPrompt": "For sports week, the library day is the 8th. Sports day is 6 days later. What is the sports date?",
-    "visual": "For sports week: Calendar with library day on the 8th and sports day on the 14th.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"For sports week: Calendar with library day on the 8th and sports day on the 14th.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2m03.svg#ac9m2m03-t-005\"></use></svg>",
+    "question": "A model is started on 11 June and finished on 16 June. How many days later is it finished?",
+    "audioPrompt": "A model is started on 11 June and finished on 16 June. How many days later is it finished?",
+    "visual": "June 2027 calendar, Monday-first; highlighted dates: .",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"June 2027 calendar, Monday-first; highlighted dates: .\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2m03.svg?v=20260906-year2-pending-release#ac9m2m03-t-005\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m03.svg#ac9m2m03-t-005",
-      "alt_text": "For sports week: Calendar with library day on the 8th and sports day on the 14th."
+      "alt_text": "June 2027 calendar, Monday-first; highlighted dates: .",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m03.svg?v=20260906-year2-pending-release#ac9m2m03-t-005"
     },
     "answers": [
-      "14th",
-      "15th",
-      "13th"
+      "6 days",
+      "4 days",
+      "5 days"
     ],
-    "correct": 0,
-    "explanation": "Starting after the 8th, count 6 jumps to reach the 14th.\nHint: Put your finger on the start, then move once for each day.",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 5,
+    "correct": 2,
+    "explanation": "There are five one-day moves from the 11th to the 16th.\nHint: Use the information in the question and check each step.",
     "structuredExplanation": {
-      "summary": "Starting after the 8th, count 6 jumps to reach the 14th.",
-      "hint": "Put your finger on the start, then move once for each day."
+      "summary": "There are five one-day moves from the 11th to the 16th.",
+      "hint": "Use the information in the question and check each step."
     },
     "qualitySchema": "production-v1"
   },
@@ -149,28 +164,31 @@ window.skillrTestQuestions = [
     "id": "ac9m2m03-t-006",
     "curriculumCode": "AC9M2M03",
     "bank": "test",
-    "skill": "choose calendar counting method",
+    "skill": "backward",
     "printable": true,
     "type": "single",
-    "question": "For sports week, which method correctly counts days from the 8th to the 14th?",
-    "audioPrompt": "For sports week, which method correctly counts days from the 8th to the 14th?",
-    "visual": "For sports week: Calendar showing 6 jumps between two highlighted dates.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"For sports week: Calendar showing 6 jumps between two highlighted dates.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2m03.svg#ac9m2m03-t-006\"></use></svg>",
+    "question": "Tickets must be collected 4 days before 20 May. What is the collection date?",
+    "audioPrompt": "Tickets must be collected 4 days before 20 May. What is the collection date?",
+    "visual": "May 2027 calendar, Monday-first; highlighted dates: .",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"May 2027 calendar, Monday-first; highlighted dates: .\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2m03.svg?v=20260906-year2-pending-release#ac9m2m03-t-006\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m03.svg#ac9m2m03-t-006",
-      "alt_text": "For sports week: Calendar showing 6 jumps between two highlighted dates."
+      "alt_text": "May 2027 calendar, Monday-first; highlighted dates: .",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m03.svg?v=20260906-year2-pending-release#ac9m2m03-t-006"
     },
     "answers": [
-      "Count the 8th as jump 1",
-      "Start after the 8th and count 6 jumps",
-      "Count backwards from the 8th"
+      "16 May",
+      "17 May",
+      "24 May"
     ],
-    "correct": 1,
-    "explanation": "Days between dates are counted as jumps after the starting date.\nHint: Trace the spaces from one date to the next.",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 6,
+    "correct": 0,
+    "explanation": "Count back four days from the 20th to the 16th.\nHint: Use the information in the question and check each step.",
     "structuredExplanation": {
-      "summary": "Days between dates are counted as jumps after the starting date.",
-      "hint": "Trace the spaces from one date to the next."
+      "summary": "Count back four days from the 20th to the 16th.",
+      "hint": "Use the information in the question and check each step."
     },
     "qualitySchema": "production-v1"
   },
@@ -178,28 +196,31 @@ window.skillrTestQuestions = [
     "id": "ac9m2m03-t-007",
     "curriculumCode": "AC9M2M03",
     "bank": "test",
-    "skill": "find date one week before",
+    "skill": "across row",
     "printable": true,
     "type": "single",
-    "question": "For sports week, a camp starts on the 15th. What date was one week before?",
-    "audioPrompt": "For sports week, a camp starts on the 15th. What date was one week before?",
-    "visual": "For sports week: Calendar with two dates one week apart, ending on the 15th.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"For sports week: Calendar with two dates one week apart, ending on the 15th.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2m03.svg#ac9m2m03-t-007\"></use></svg>",
+    "question": "What date is 3 days after Friday 7 May?",
+    "audioPrompt": "What date is 3 days after Friday 7 May?",
+    "visual": "May 2027 calendar, Monday-first; highlighted dates: .",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"May 2027 calendar, Monday-first; highlighted dates: .\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2m03.svg?v=20260906-year2-pending-release#ac9m2m03-t-007\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m03.svg#ac9m2m03-t-007",
-      "alt_text": "For sports week: Calendar with two dates one week apart, ending on the 15th."
+      "alt_text": "May 2027 calendar, Monday-first; highlighted dates: .",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m03.svg?v=20260906-year2-pending-release#ac9m2m03-t-007"
     },
     "answers": [
-      "9th",
-      "14th",
-      "8th"
+      "Monday 10 May",
+      "Sunday 9 May",
+      "Monday 17 May"
     ],
-    "correct": 2,
-    "explanation": "One week before means move back 7 days, to the 8th.\nHint: Move up one row on the calendar.",
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 7,
+    "correct": 0,
+    "explanation": "The three following days are Saturday 8, Sunday 9 and Monday 10.\nHint: Use the information in the question and check each step.",
     "structuredExplanation": {
-      "summary": "One week before means move back 7 days, to the 8th.",
-      "hint": "Move up one row on the calendar."
+      "summary": "The three following days are Saturday 8, Sunday 9 and Monday 10.",
+      "hint": "Use the information in the question and check each step."
     },
     "qualitySchema": "production-v1"
   },
@@ -207,28 +228,31 @@ window.skillrTestQuestions = [
     "id": "ac9m2m03-t-008",
     "curriculumCode": "AC9M2M03",
     "bank": "test",
-    "skill": "identify next calendar day",
+    "skill": "cross month",
     "printable": true,
     "type": "single",
-    "question": "For sports week, the 14th is a Friday. What day is the 15th?",
-    "audioPrompt": "For sports week, the 14th is a Friday. What day is the 15th?",
-    "visual": "For sports week: Two neighbouring calendar dates, the 14th and 15th.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"For sports week: Two neighbouring calendar dates, the 14th and 15th.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2m03.svg#ac9m2m03-t-008\"></use></svg>",
+    "question": "June has 30 days. A parcel arrives 4 days after 28 June. What is the arrival date?",
+    "audioPrompt": "June has 30 days. A parcel arrives 4 days after 28 June. What is the arrival date?",
+    "visual": "June 2027 calendar, Monday-first; highlighted dates: .",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"June 2027 calendar, Monday-first; highlighted dates: .\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2m03.svg?v=20260906-year2-pending-release#ac9m2m03-t-008\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m03.svg#ac9m2m03-t-008",
-      "alt_text": "For sports week: Two neighbouring calendar dates, the 14th and 15th."
+      "alt_text": "June 2027 calendar, Monday-first; highlighted dates: .",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m03.svg?v=20260906-year2-pending-release#ac9m2m03-t-008"
     },
     "answers": [
-      "Saturday",
-      "Thursday",
-      "Friday"
+      "1 July",
+      "32 June",
+      "2 July"
     ],
-    "correct": 0,
-    "explanation": "The day after Friday is Saturday.\nHint: Move one day forward in the weekday order.",
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 8,
+    "correct": 2,
+    "explanation": "Count 29 June, 30 June, 1 July, 2 July.\nHint: Use the information in the question and check each step.",
     "structuredExplanation": {
-      "summary": "The day after Friday is Saturday.",
-      "hint": "Move one day forward in the weekday order."
+      "summary": "Count 29 June, 30 June, 1 July, 2 July.",
+      "hint": "Use the information in the question and check each step."
     },
     "qualitySchema": "production-v1"
   },
@@ -236,28 +260,31 @@ window.skillrTestQuestions = [
     "id": "ac9m2m03-t-009",
     "curriculumCode": "AC9M2M03",
     "bank": "test",
-    "skill": "find date one week later",
+    "skill": "previous month",
     "printable": true,
     "type": "single",
-    "question": "On the camp calendar, the class visit is on the 10th. What date is one week later?",
-    "audioPrompt": "On the camp calendar, the class visit is on the 10th. What date is one week later?",
-    "visual": "On the camp calendar: Calendar with the 10th and 17th highlighted one week apart.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"On the camp calendar: Calendar with the 10th and 17th highlighted one week apart.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2m03.svg#ac9m2m03-t-009\"></use></svg>",
+    "question": "What date is the day before 1 June? Use the May calendar.",
+    "audioPrompt": "What date is the day before 1 June? Use the May calendar.",
+    "visual": "May 2027 calendar, Monday-first; highlighted dates: .",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"May 2027 calendar, Monday-first; highlighted dates: .\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2m03.svg?v=20260906-year2-pending-release#ac9m2m03-t-009\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m03.svg#ac9m2m03-t-009",
-      "alt_text": "On the camp calendar: Calendar with the 10th and 17th highlighted one week apart."
+      "alt_text": "May 2027 calendar, Monday-first; highlighted dates: .",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m03.svg?v=20260906-year2-pending-release#ac9m2m03-t-009"
     },
     "answers": [
-      "16th",
-      "17th",
-      "18th"
+      "30 May",
+      "31 May",
+      "1 May"
     ],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 9,
     "correct": 1,
-    "explanation": "One week is 7 days, so 10 + 7 = 17.\nHint: Move down one full week on the calendar.",
+    "explanation": "May ends at 31, immediately before June begins.\nHint: Use the information in the question and check each step.",
     "structuredExplanation": {
-      "summary": "One week is 7 days, so 10 + 7 = 17.",
-      "hint": "Move down one full week on the calendar."
+      "summary": "May ends at 31, immediately before June begins.",
+      "hint": "Use the information in the question and check each step."
     },
     "qualitySchema": "production-v1"
   },
@@ -265,28 +292,31 @@ window.skillrTestQuestions = [
     "id": "ac9m2m03-t-010",
     "curriculumCode": "AC9M2M03",
     "bank": "test",
-    "skill": "count days between dates",
+    "skill": "two weeks",
     "printable": true,
     "type": "single",
-    "question": "On the camp calendar, how many days are between the 10th and the 13th?",
-    "audioPrompt": "On the camp calendar, how many days are between the 10th and the 13th?",
-    "visual": "On the camp calendar: Calendar with the 10th and 13th highlighted.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"On the camp calendar: Calendar with the 10th and 13th highlighted.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2m03.svg#ac9m2m03-t-010\"></use></svg>",
+    "question": "A fortnight is two weeks. What date is a fortnight after 5 May?",
+    "audioPrompt": "A fortnight is two weeks. What date is a fortnight after 5 May?",
+    "visual": "May 2027 calendar, Monday-first; highlighted dates: .",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"May 2027 calendar, Monday-first; highlighted dates: .\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2m03.svg?v=20260906-year2-pending-release#ac9m2m03-t-010\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m03.svg#ac9m2m03-t-010",
-      "alt_text": "On the camp calendar: Calendar with the 10th and 13th highlighted."
+      "alt_text": "May 2027 calendar, Monday-first; highlighted dates: .",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m03.svg?v=20260906-year2-pending-release#ac9m2m03-t-010"
     },
     "answers": [
-      "4",
-      "2",
-      "3"
+      "19 May",
+      "12 May",
+      "15 May"
     ],
-    "correct": 2,
-    "explanation": "Count the jumps after the 10th: there are 3 days to the 13th.\nHint: Do not count the starting date as a jump.",
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 10,
+    "correct": 0,
+    "explanation": "Two weeks is 14 days; 5 plus 14 is 19.\nHint: Use the information in the question and check each step.",
     "structuredExplanation": {
-      "summary": "Count the jumps after the 10th: there are 3 days to the 13th.",
-      "hint": "Do not count the starting date as a jump."
+      "summary": "Two weeks is 14 days; 5 plus 14 is 19.",
+      "hint": "Use the information in the question and check each step."
     },
     "qualitySchema": "production-v1"
   },
@@ -294,28 +324,31 @@ window.skillrTestQuestions = [
     "id": "ac9m2m03-t-011",
     "curriculumCode": "AC9M2M03",
     "bank": "test",
-    "skill": "move forward on week",
+    "skill": "interval error",
     "printable": true,
     "type": "single",
-    "question": "On the camp calendar, today is Monday. What day is 3 days later?",
-    "audioPrompt": "On the camp calendar, today is Monday. What day is 3 days later?",
-    "visual": "On the camp calendar: A row of weekday cards starting on Monday with 3 forward jumps.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"On the camp calendar: A row of weekday cards starting on Monday with 3 forward jumps.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2m03.svg#ac9m2m03-t-011\"></use></svg>",
+    "question": "A note says 17 June to 20 June is 2 days because only 18 and 19 lie inside. What is the correct elapsed time?",
+    "audioPrompt": "A note says 17 June to 20 June is 2 days because only 18 and 19 lie inside. What is the correct elapsed time?",
+    "visual": "June 2027 calendar, Monday-first; highlighted dates: .",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"June 2027 calendar, Monday-first; highlighted dates: .\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2m03.svg?v=20260906-year2-pending-release#ac9m2m03-t-011\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m03.svg#ac9m2m03-t-011",
-      "alt_text": "On the camp calendar: A row of weekday cards starting on Monday with 3 forward jumps."
+      "alt_text": "June 2027 calendar, Monday-first; highlighted dates: .",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m03.svg?v=20260906-year2-pending-release#ac9m2m03-t-011"
     },
     "answers": [
-      "Thursday",
-      "Tuesday",
-      "Friday"
+      "2 days",
+      "3 days",
+      "4 days"
     ],
-    "correct": 0,
-    "explanation": "Move forward 3 days from Monday.\nHint: Use one jump for each day.",
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 11,
+    "correct": 1,
+    "explanation": "Count day changes, including the change that reaches 20 June.\nHint: Use the information in the question and check each step.",
     "structuredExplanation": {
-      "summary": "Move forward 3 days from Monday.",
-      "hint": "Use one jump for each day."
+      "summary": "Count day changes, including the change that reaches 20 June.",
+      "hint": "Use the information in the question and check each step."
     },
     "qualitySchema": "production-v1"
   },
@@ -323,28 +356,31 @@ window.skillrTestQuestions = [
     "id": "ac9m2m03-t-012",
     "curriculumCode": "AC9M2M03",
     "bank": "test",
-    "skill": "distinguish date and day",
+    "skill": "compare dates",
     "printable": true,
     "type": "single",
-    "question": "On the camp calendar, which is a date?",
-    "audioPrompt": "On the camp calendar, which is a date?",
-    "visual": "On the camp calendar: May calendar with the 13th highlighted.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"On the camp calendar: May calendar with the 13th highlighted.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2m03.svg#ac9m2m03-t-012\"></use></svg>",
+    "question": "Which happens first: a visit on 31 May or a game on 1 June?",
+    "audioPrompt": "Which happens first: a visit on 31 May or a game on 1 June?",
+    "visual": "May 2027 calendar, Monday-first; highlighted dates: .",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"May 2027 calendar, Monday-first; highlighted dates: .\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2m03.svg?v=20260906-year2-pending-release#ac9m2m03-t-012\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m03.svg#ac9m2m03-t-012",
-      "alt_text": "On the camp calendar: May calendar with the 13th highlighted."
+      "alt_text": "May 2027 calendar, Monday-first; highlighted dates: .",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m03.svg?v=20260906-year2-pending-release#ac9m2m03-t-012"
     },
     "answers": [
-      "Thursday",
-      "13th of May",
-      "After lunch"
+      "The game on 1 June",
+      "They are on the same date",
+      "The visit on 31 May"
     ],
-    "correct": 1,
-    "explanation": "A date gives a number and a month: 13th of May.\nHint: A day name is not a full date.",
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 12,
+    "correct": 2,
+    "explanation": "Month order matters: the last day of May comes before the first day of June.\nHint: Use the information in the question and check each step.",
     "structuredExplanation": {
-      "summary": "A date gives a number and a month: 13th of May.",
-      "hint": "A day name is not a full date."
+      "summary": "Month order matters: the last day of May comes before the first day of June.",
+      "hint": "Use the information in the question and check each step."
     },
     "qualitySchema": "production-v1"
   },
@@ -352,28 +388,31 @@ window.skillrTestQuestions = [
     "id": "ac9m2m03-t-013",
     "curriculumCode": "AC9M2M03",
     "bank": "test",
-    "skill": "solve calendar event problem",
+    "skill": "repeated weekday",
     "printable": true,
     "type": "single",
-    "question": "On the camp calendar, the library day is the 10th. Sports day is 3 days later. What is the sports date?",
-    "audioPrompt": "On the camp calendar, the library day is the 10th. Sports day is 3 days later. What is the sports date?",
-    "visual": "On the camp calendar: Calendar with library day on the 10th and sports day on the 13th.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"On the camp calendar: Calendar with library day on the 10th and sports day on the 13th.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2m03.svg#ac9m2m03-t-013\"></use></svg>",
+    "question": "How many Saturdays are shown in May?",
+    "audioPrompt": "How many Saturdays are shown in May?",
+    "visual": "May 2027 calendar, Monday-first; highlighted dates: .",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"May 2027 calendar, Monday-first; highlighted dates: .\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2m03.svg?v=20260906-year2-pending-release#ac9m2m03-t-013\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m03.svg#ac9m2m03-t-013",
-      "alt_text": "On the camp calendar: Calendar with library day on the 10th and sports day on the 13th."
+      "alt_text": "May 2027 calendar, Monday-first; highlighted dates: .",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m03.svg?v=20260906-year2-pending-release#ac9m2m03-t-013"
     },
     "answers": [
-      "14th",
-      "12th",
-      "13th"
+      "4",
+      "6",
+      "5"
     ],
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 13,
     "correct": 2,
-    "explanation": "Starting after the 10th, count 3 jumps to reach the 13th.\nHint: Put your finger on the start, then move once for each day.",
+    "explanation": "They are 1, 8, 15, 22 and 29.\nHint: Use the information in the question and check each step.",
     "structuredExplanation": {
-      "summary": "Starting after the 10th, count 3 jumps to reach the 13th.",
-      "hint": "Put your finger on the start, then move once for each day."
+      "summary": "They are 1, 8, 15, 22 and 29.",
+      "hint": "Use the information in the question and check each step."
     },
     "qualitySchema": "production-v1"
   },
@@ -381,28 +420,31 @@ window.skillrTestQuestions = [
     "id": "ac9m2m03-t-014",
     "curriculumCode": "AC9M2M03",
     "bank": "test",
-    "skill": "choose calendar counting method",
+    "skill": "longer wait",
     "printable": true,
     "type": "single",
-    "question": "On the camp calendar, which method correctly counts days from the 10th to the 13th?",
-    "audioPrompt": "On the camp calendar, which method correctly counts days from the 10th to the 13th?",
-    "visual": "On the camp calendar: Calendar showing 3 jumps between two highlighted dates.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"On the camp calendar: Calendar showing 3 jumps between two highlighted dates.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2m03.svg#ac9m2m03-t-014\"></use></svg>",
+    "question": "Which pair of June dates is exactly 8 days apart?",
+    "audioPrompt": "Which pair of June dates is exactly 8 days apart?",
+    "visual": "June 2027 calendar, Monday-first; highlighted dates: .",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"June 2027 calendar, Monday-first; highlighted dates: .\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2m03.svg?v=20260906-year2-pending-release#ac9m2m03-t-014\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m03.svg#ac9m2m03-t-014",
-      "alt_text": "On the camp calendar: Calendar showing 3 jumps between two highlighted dates."
+      "alt_text": "June 2027 calendar, Monday-first; highlighted dates: .",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m03.svg?v=20260906-year2-pending-release#ac9m2m03-t-014"
     },
     "answers": [
-      "Start after the 10th and count 3 jumps",
-      "Count the 10th as jump 1",
-      "Count backwards from the 10th"
+      "9 June and 17 June",
+      "9 June and 16 June",
+      "9 June and 18 June"
     ],
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 14,
     "correct": 0,
-    "explanation": "Days between dates are counted as jumps after the starting date.\nHint: Trace the spaces from one date to the next.",
+    "explanation": "17 minus 9 is 8.\nHint: Use the information in the question and check each step.",
     "structuredExplanation": {
-      "summary": "Days between dates are counted as jumps after the starting date.",
-      "hint": "Trace the spaces from one date to the next."
+      "summary": "17 minus 9 is 8.",
+      "hint": "Use the information in the question and check each step."
     },
     "qualitySchema": "production-v1"
   },
@@ -410,28 +452,37 @@ window.skillrTestQuestions = [
     "id": "ac9m2m03-t-015",
     "curriculumCode": "AC9M2M03",
     "bank": "test",
-    "skill": "find date one week before",
+    "skill": "identify and mark",
     "printable": true,
-    "type": "single",
-    "question": "On the camp calendar, a camp starts on the 17th. What date was one week before?",
-    "audioPrompt": "On the camp calendar, a camp starts on the 17th. What date was one week before?",
-    "visual": "On the camp calendar: Calendar with two dates one week apart, ending on the 17th.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"On the camp calendar: Calendar with two dates one week apart, ending on the 17th.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2m03.svg#ac9m2m03-t-015\"></use></svg>",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Monday 31 May 2027.",
+    "acceptanceNote": "Check the final occupied cell in the Monday column and the month/year heading.",
+    "responseInstructions": "Complete the task on paper or with materials, then ask an adult to check it.",
+    "completionLabel": "Ready for adult review",
+    "question": "On a copy of the May calendar, mark the last Monday. Write its full date.",
+    "audioPrompt": "On a copy of the May calendar, mark the last Monday. Write its full date.",
+    "visual": "May 2027 calendar, Monday-first; highlighted dates: .",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"May 2027 calendar, Monday-first; highlighted dates: .\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2m03.svg?v=20260906-year2-pending-release#ac9m2m03-t-015\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m03.svg#ac9m2m03-t-015",
-      "alt_text": "On the camp calendar: Calendar with two dates one week apart, ending on the 17th."
+      "alt_text": "May 2027 calendar, Monday-first; highlighted dates: .",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m03.svg?v=20260906-year2-pending-release#ac9m2m03-t-015"
     },
     "answers": [
-      "11th",
-      "10th",
-      "16th"
+      "Needs revision",
+      "Completed response",
+      "Not attempted"
     ],
-    "correct": 1,
-    "explanation": "One week before means move back 7 days, to the 10th.\nHint: Move up one row on the calendar.",
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 15,
+    "correct": "Monday 31 May 2027.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
-      "summary": "One week before means move back 7 days, to the 10th.",
-      "hint": "Move up one row on the calendar."
+      "summary": "Monday 31 May 2027.",
+      "hint": "Check the final occupied cell in the Monday column and the month/year heading."
     },
     "qualitySchema": "production-v1"
   },
@@ -439,28 +490,37 @@ window.skillrTestQuestions = [
     "id": "ac9m2m03-t-016",
     "curriculumCode": "AC9M2M03",
     "bank": "test",
-    "skill": "identify next calendar day",
+    "skill": "boundary explanation",
     "printable": true,
-    "type": "single",
-    "question": "On the camp calendar, the 13th is a Friday. What day is the 14th?",
-    "audioPrompt": "On the camp calendar, the 13th is a Friday. What day is the 14th?",
-    "visual": "On the camp calendar: Two neighbouring calendar dates, the 13th and 14th.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"On the camp calendar: Two neighbouring calendar dates, the 13th and 14th.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2m03.svg#ac9m2m03-t-016\"></use></svg>",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Six days pass: 28, 29, 30 June, then 1, 2, 3 July.",
+    "acceptanceNote": "Accept six day changes shown in words, a calendar extension or jumps.",
+    "responseInstructions": "Complete the task on paper or with materials, then ask an adult to check it.",
+    "completionLabel": "Ready for adult review",
+    "question": "June has 30 days. Show how many days pass from 27 June to 3 July.",
+    "audioPrompt": "June has 30 days. Show how many days pass from 27 June to 3 July.",
+    "visual": "June 2027 calendar, Monday-first; highlighted dates: .",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"June 2027 calendar, Monday-first; highlighted dates: .\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2m03.svg?v=20260906-year2-pending-release#ac9m2m03-t-016\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m03.svg#ac9m2m03-t-016",
-      "alt_text": "On the camp calendar: Two neighbouring calendar dates, the 13th and 14th."
+      "alt_text": "June 2027 calendar, Monday-first; highlighted dates: .",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m03.svg?v=20260906-year2-pending-release#ac9m2m03-t-016"
     },
     "answers": [
-      "Thursday",
-      "Friday",
-      "Saturday"
+      "Completed response",
+      "Needs revision",
+      "Not attempted"
     ],
-    "correct": 2,
-    "explanation": "The day after Friday is Saturday.\nHint: Move one day forward in the weekday order.",
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 16,
+    "correct": "Six days pass: 28, 29, 30 June, then 1, 2, 3 July.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
-      "summary": "The day after Friday is Saturday.",
-      "hint": "Move one day forward in the weekday order."
+      "summary": "Six days pass: 28, 29, 30 June, then 1, 2, 3 July.",
+      "hint": "Accept six day changes shown in words, a calendar extension or jumps."
     },
     "qualitySchema": "production-v1"
   }

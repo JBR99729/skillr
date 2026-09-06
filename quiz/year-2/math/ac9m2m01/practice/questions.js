@@ -4,31 +4,31 @@ window.skillrPracticeQuestions = [
     "id": "ac9m2m01-p-001",
     "curriculumCode": "AC9M2M01",
     "bank": "practice",
-    "skill": "compare length",
+    "skill": "length compare",
     "printable": true,
     "type": "single",
-    "question": "At the art table, a pencil is 4 paperclips long. A brush is 7 paperclips long. Which is longer?",
-    "audioPrompt": "At the art table, a pencil is 4 paperclips long. A brush is 7 paperclips long. Which is longer?",
-    "visual": "At the art table: A pencil measuring 4 paperclips and a brush measuring 7 paperclips.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the art table: A pencil measuring 4 paperclips and a brush measuring 7 paperclips.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2m01.svg#ac9m2m01-p-001\"></use></svg>",
+    "question": "Which strip is longer?",
+    "audioPrompt": "Which strip is longer?",
+    "visual": "Two strips share a left endpoint; A extends farther right than B.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Two strips share a left endpoint; A extends farther right than B.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2m01.svg?v=20260906-year2-pending-release#ac9m2m01-p-001\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m01.svg#ac9m2m01-p-001",
-      "alt_text": "At the art table: A pencil measuring 4 paperclips and a brush measuring 7 paperclips."
+      "alt_text": "Two strips share a left endpoint; A extends farther right than B.",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m01.svg?v=20260906-year2-pending-release#ac9m2m01-p-001"
     },
     "answers": [
-      "The brush",
-      "The pencil",
-      "They are the same length"
+      "B",
+      "A",
+      "They have equal length"
     ],
     "difficulty": 1,
-    "difficultyTier": "confidence",
+    "difficultyTier": "recognise",
     "sequencePriority": 1,
-    "correct": 0,
-    "explanation": "The brush measures 7 paperclips and the pencil measures 4. 7 is greater than 4.\nHint: Compare the number of equal paperclips.",
+    "correct": 1,
+    "explanation": "Their left ends line up; A extends farther at the other end.\nHint: Use the information in the question and check each step.",
     "structuredExplanation": {
-      "summary": "The brush measures 7 paperclips and the pencil measures 4. 7 is greater than 4.",
-      "hint": "Compare the number of equal paperclips."
+      "summary": "Their left ends line up; A extends farther at the other end.",
+      "hint": "Use the information in the question and check each step."
     },
     "qualitySchema": "production-v1"
   },
@@ -36,31 +36,31 @@ window.skillrPracticeQuestions = [
     "id": "ac9m2m01-p-002",
     "curriculumCode": "AC9M2M01",
     "bank": "practice",
-    "skill": "measure with uniform units",
+    "skill": "measure length",
     "printable": true,
     "type": "single",
-    "question": "At the art table, which is the fair way to measure a book with blocks?",
-    "audioPrompt": "At the art table, which is the fair way to measure a book with blocks?",
-    "visual": "At the art table: Equal blocks placed end to end along a book with no gaps or overlaps.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the art table: Equal blocks placed end to end along a book with no gaps or overlaps.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2m01.svg#ac9m2m01-p-002\"></use></svg>",
+    "question": "How long is the ribbon in these tile units?",
+    "audioPrompt": "How long is the ribbon in these tile units?",
+    "visual": "Ribbon aligned with six equal touching tiles.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Ribbon aligned with six equal touching tiles.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2m01.svg?v=20260906-year2-pending-release#ac9m2m01-p-002\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m01.svg#ac9m2m01-p-002",
-      "alt_text": "At the art table: Equal blocks placed end to end along a book with no gaps or overlaps."
+      "alt_text": "Ribbon aligned with six equal touching tiles.",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m01.svg?v=20260906-year2-pending-release#ac9m2m01-p-002"
     },
     "answers": [
-      "Use big and small blocks together",
-      "Use equal blocks with no gaps",
-      "Leave gaps between the blocks"
+      "6 tiles",
+      "5 tiles",
+      "7 tiles"
     ],
     "difficulty": 1,
-    "difficultyTier": "confidence",
-    "sequencePriority": 1,
-    "correct": 1,
-    "explanation": "Equal blocks placed end to end give a fair measure.\nHint: Check that every unit is the same size and touches the next one.",
+    "difficultyTier": "recognise",
+    "sequencePriority": 2,
+    "correct": 0,
+    "explanation": "Six equal tiles touch end to end and cover the ribbon.\nHint: Use the information in the question and check each step.",
     "structuredExplanation": {
-      "summary": "Equal blocks placed end to end give a fair measure.",
-      "hint": "Check that every unit is the same size and touches the next one."
+      "summary": "Six equal tiles touch end to end and cover the ribbon.",
+      "hint": "Use the information in the question and check each step."
     },
     "qualitySchema": "production-v1"
   },
@@ -68,31 +68,31 @@ window.skillrPracticeQuestions = [
     "id": "ac9m2m01-p-003",
     "curriculumCode": "AC9M2M01",
     "bank": "practice",
-    "skill": "compare capacity",
+    "skill": "height difference",
     "printable": true,
     "type": "single",
-    "question": "At the art table, a jug holds 7 cups. A bottle holds 4 cups. Which holds more?",
-    "audioPrompt": "At the art table, a jug holds 7 cups. A bottle holds 4 cups. Which holds more?",
-    "visual": "At the art table: A jug labelled 7 cups and a bottle labelled 4 cups.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the art table: A jug labelled 7 cups and a bottle labelled 4 cups.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2m01.svg#ac9m2m01-p-003\"></use></svg>",
+    "question": "How many blocks taller is tower B than tower A?",
+    "audioPrompt": "How many blocks taller is tower B than tower A?",
+    "visual": "Tower A is three equal blocks high; B is five of the same blocks high, with bases aligned.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Tower A is three equal blocks high; B is five of the same blocks high, with bases aligned.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2m01.svg?v=20260906-year2-pending-release#ac9m2m01-p-003\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m01.svg#ac9m2m01-p-003",
-      "alt_text": "At the art table: A jug labelled 7 cups and a bottle labelled 4 cups."
+      "alt_text": "Tower A is three equal blocks high; B is five of the same blocks high, with bases aligned.",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m01.svg?v=20260906-year2-pending-release#ac9m2m01-p-003"
     },
     "answers": [
-      "The bottle",
-      "They hold the same amount",
-      "The jug"
+      "3 blocks",
+      "5 blocks",
+      "2 blocks"
     ],
     "difficulty": 1,
-    "difficultyTier": "confidence",
-    "sequencePriority": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 3,
     "correct": 2,
-    "explanation": "The jug holds 7 cups, which is more than 4 cups.\nHint: Capacity tells how much a container can hold. Compare the cup counts.",
+    "explanation": "B has 5 blocks and A has 3; the difference is 2.\nHint: Use the information in the question and check each step.",
     "structuredExplanation": {
-      "summary": "The jug holds 7 cups, which is more than 4 cups.",
-      "hint": "Capacity tells how much a container can hold. Compare the cup counts."
+      "summary": "B has 5 blocks and A has 3; the difference is 2.",
+      "hint": "Use the information in the question and check each step."
     },
     "qualitySchema": "production-v1"
   },
@@ -100,31 +100,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m2m01-p-004",
     "curriculumCode": "AC9M2M01",
     "bank": "practice",
-    "skill": "compare mass",
+    "skill": "capacity measure",
     "printable": true,
     "type": "single",
-    "question": "At the art table, a lunchbox balances with 7 cubes. An apple balances with 4 cubes. Which is heavier?",
-    "audioPrompt": "At the art table, a lunchbox balances with 7 cubes. An apple balances with 4 cubes. Which is heavier?",
-    "visual": "At the art table: A lunchbox with a mass of 7 cubes and an apple with a mass of 4 cubes.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the art table: A lunchbox with a mass of 7 cubes and an apple with a mass of 4 cubes.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2m01.svg#ac9m2m01-p-004\"></use></svg>",
+    "question": "Four full cups fill an empty pot exactly. Every cup holds the same amount. What is the pot’s capacity?",
+    "audioPrompt": "Four full cups fill an empty pot exactly. Every cup holds the same amount. What is the pot’s capacity?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m01.svg#ac9m2m01-p-004",
-      "alt_text": "At the art table: A lunchbox with a mass of 7 cubes and an apple with a mass of 4 cubes."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "The lunchbox",
-      "The apple",
-      "They have the same mass"
+      "1 cupful",
+      "5 cupfuls",
+      "4 cupfuls"
     ],
     "difficulty": 1,
-    "difficultyTier": "confidence",
-    "sequencePriority": 1,
-    "correct": 0,
-    "explanation": "The lunchbox needs 7 equal cubes to balance, so it has more mass than the apple with 4.\nHint: The heavier object balances with more of the same cubes.",
+    "difficultyTier": "recognise",
+    "sequencePriority": 4,
+    "correct": 2,
+    "explanation": "The pot holds four of the chosen full-cup units.\nHint: Use the information in the question and check each step.",
     "structuredExplanation": {
-      "summary": "The lunchbox needs 7 equal cubes to balance, so it has more mass than the apple with 4.",
-      "hint": "The heavier object balances with more of the same cubes."
+      "summary": "The pot holds four of the chosen full-cup units.",
+      "hint": "Use the information in the question and check each step."
     },
     "qualitySchema": "production-v1"
   },
@@ -132,31 +131,31 @@ window.skillrPracticeQuestions = [
     "id": "ac9m2m01-p-005",
     "curriculumCode": "AC9M2M01",
     "bank": "practice",
-    "skill": "choose informal unit",
+    "skill": "mass measure",
     "printable": true,
     "type": "single",
-    "question": "At the art table, you need to measure a tiny button. Which unit will give the most accurate answer?",
-    "audioPrompt": "At the art table, you need to measure a tiny button. Which unit will give the most accurate answer?",
-    "visual": "At the art table: A tiny button beside small beads and large books.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the art table: A tiny button beside small beads and large books.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2m01.svg#ac9m2m01-p-005\"></use></svg>",
+    "question": "What mass does the level balance show for the parcel?",
+    "audioPrompt": "What mass does the level balance show for the parcel?",
+    "visual": "Level balance with one parcel on the left and five equal-mass counters on the right.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Level balance with one parcel on the left and five equal-mass counters on the right.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2m01.svg?v=20260906-year2-pending-release#ac9m2m01-p-005\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m01.svg#ac9m2m01-p-005",
-      "alt_text": "At the art table: A tiny button beside small beads and large books."
+      "alt_text": "Level balance with one parcel on the left and five equal-mass counters on the right.",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m01.svg?v=20260906-year2-pending-release#ac9m2m01-p-005"
     },
     "answers": [
-      "Large books",
-      "Small beads",
-      "A mix of beads and books"
+      "4 counter units",
+      "5 counter units",
+      "6 counter units"
     ],
     "difficulty": 1,
-    "difficultyTier": "confidence",
-    "sequencePriority": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 5,
     "correct": 1,
-    "explanation": "Small equal beads fit the tiny length more closely.\nHint: Choose a unit that is smaller than the object and can repeat without gaps.",
+    "explanation": "A level balance shows equal masses on its two sides.\nHint: Use the information in the question and check each step.",
     "structuredExplanation": {
-      "summary": "Small equal beads fit the tiny length more closely.",
-      "hint": "Choose a unit that is smaller than the object and can repeat without gaps."
+      "summary": "A level balance shows equal masses on its two sides.",
+      "hint": "Use the information in the question and check each step."
     },
     "qualitySchema": "production-v1"
   },
@@ -164,31 +163,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m2m01-p-006",
     "curriculumCode": "AC9M2M01",
     "bank": "practice",
-    "skill": "explain unit size",
+    "skill": "length conservation",
     "printable": true,
     "type": "single",
-    "question": "At the art table, Sam measures one ribbon with cubes. Lee uses tiny counters. Why are the counts different?",
-    "audioPrompt": "At the art table, Sam measures one ribbon with cubes. Lee uses tiny counters. Why are the counts different?",
-    "visual": "At the art table: The same ribbon measured with 7 large cubes and 10 small counters.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the art table: The same ribbon measured with 7 large cubes and 10 small counters.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2m01.svg#ac9m2m01-p-006\"></use></svg>",
+    "question": "Two cords each measure 8 identical sticks long. One cord is moved to another table without stretching. What happens to its length?",
+    "audioPrompt": "Two cords each measure 8 identical sticks long. One cord is moved to another table without stretching. What happens to its length?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m01.svg#ac9m2m01-p-006",
-      "alt_text": "At the art table: The same ribbon measured with 7 large cubes and 10 small counters."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "The ribbon changed length",
-      "Lee counted backwards",
-      "The units are different sizes"
+      "It stays 8 sticks long",
+      "It becomes longer",
+      "It becomes shorter"
     ],
     "difficulty": 1,
-    "difficultyTier": "confidence",
-    "sequencePriority": 1,
-    "correct": 2,
-    "explanation": "Smaller units are needed more times, so the count can be larger.\nHint: The object stays the same. Compare the size of each measuring unit.",
+    "difficultyTier": "recognise",
+    "sequencePriority": 6,
+    "correct": 0,
+    "explanation": "Moving an object does not change its length.\nHint: Use the information in the question and check each step.",
     "structuredExplanation": {
-      "summary": "Smaller units are needed more times, so the count can be larger.",
-      "hint": "The object stays the same. Compare the size of each measuring unit."
+      "summary": "Moving an object does not change its length.",
+      "hint": "Use the information in the question and check each step."
     },
     "qualitySchema": "production-v1"
   },
@@ -196,30 +194,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m2m01-p-007",
     "curriculumCode": "AC9M2M01",
     "bank": "practice",
-    "skill": "select mass tool",
+    "skill": "gaps",
     "printable": true,
     "type": "single",
-    "question": "At the art table, which tool helps compare how heavy two classroom objects are?",
-    "audioPrompt": "At the art table, which tool helps compare how heavy two classroom objects are?",
-    "visual": "At the art table: A balance scale with one object on each side.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the art table: A balance scale with one object on each side.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2m01.svg#ac9m2m01-p-007\"></use></svg>",
+    "question": "A child leaves gaps between five measuring tiles. How should the measurement be repaired?",
+    "audioPrompt": "A child leaves gaps between five measuring tiles. How should the measurement be repaired?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m01.svg#ac9m2m01-p-007",
-      "alt_text": "At the art table: A balance scale with one object on each side."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "A balance scale",
-      "A calendar",
-      "A measuring cup"
+      "Count the gaps as extra tiles",
+      "Slide the tiles together and measure again",
+      "Keep the gaps and use the same count"
     ],
-    "difficulty": 3,
-    "sequencePriority": 2,
-    "correct": 0,
-    "explanation": "A balance scale compares mass by showing which side is heavier.\nHint: Think about a tool with two sides that can tip.",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 7,
+    "correct": 1,
+    "explanation": "Tiles must touch without gaps to measure length in tile units.\nHint: Use the information in the question and check each step.",
     "structuredExplanation": {
-      "summary": "A balance scale compares mass by showing which side is heavier.",
-      "hint": "Think about a tool with two sides that can tip."
+      "summary": "Tiles must touch without gaps to measure length in tile units.",
+      "hint": "Use the information in the question and check each step."
     },
     "qualitySchema": "production-v1"
   },
@@ -227,31 +225,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m2m01-p-008",
     "curriculumCode": "AC9M2M01",
     "bank": "practice",
-    "skill": "identify measurement error",
+    "skill": "overlaps",
     "printable": true,
     "type": "single",
-    "question": "At the art table, a row of 4 tiles has one gap between two tiles. Is 4 tiles a fair length measure?",
-    "audioPrompt": "At the art table, a row of 4 tiles has one gap between two tiles. Is 4 tiles a fair length measure?",
-    "visual": "At the art table: A row of equal tiles with a visible gap between the middle tiles.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the art table: A row of equal tiles with a visible gap between the middle tiles.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2m01.svg#ac9m2m01-p-008\"></use></svg>",
+    "question": "Which row gives a fair measurement from one end of a strip to the other?",
+    "audioPrompt": "Which row gives a fair measurement from one end of a strip to the other?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m01.svg#ac9m2m01-p-008",
-      "alt_text": "At the art table: A row of equal tiles with a visible gap between the middle tiles."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Yes, gaps don't matter",
-      "No, the gap makes it unfair",
-      "Yes, because all tiles are colourful"
+      "Equal tiles overlapping",
+      "Mixed-size tiles with gaps",
+      "Equal tiles touching without overlap"
     ],
     "difficulty": 1,
-    "difficultyTier": "confidence",
-    "sequencePriority": 1,
-    "correct": 1,
-    "explanation": "A gap leaves part of the length unmeasured, so the result is not fair.\nHint: Units must touch end to end.",
+    "difficultyTier": "recognise",
+    "sequencePriority": 8,
+    "correct": 2,
+    "explanation": "A row of uniform units must cover the length without missing or double-counting parts.\nHint: Use the information in the question and check each step.",
     "structuredExplanation": {
-      "summary": "A gap leaves part of the length unmeasured, so the result is not fair.",
-      "hint": "Units must touch end to end."
+      "summary": "A row of uniform units must cover the length without missing or double-counting parts.",
+      "hint": "Use the information in the question and check each step."
     },
     "qualitySchema": "production-v1"
   },
@@ -259,31 +256,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m2m01-p-009",
     "curriculumCode": "AC9M2M01",
     "bank": "practice",
-    "skill": "compare length",
+    "skill": "capacity unit",
     "printable": true,
     "type": "single",
-    "question": "In the reading corner, a pencil is 5 paperclips long. A brush is 8 paperclips long. Which is longer?",
-    "audioPrompt": "In the reading corner, a pencil is 5 paperclips long. A brush is 8 paperclips long. Which is longer?",
-    "visual": "In the reading corner: A pencil measuring 5 paperclips and a brush measuring 8 paperclips.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In the reading corner: A pencil measuring 5 paperclips and a brush measuring 8 paperclips.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2m01.svg#ac9m2m01-p-009\"></use></svg>",
+    "question": "Which is a useful way to measure a jug’s capacity with a small cup?",
+    "audioPrompt": "Which is a useful way to measure a jug’s capacity with a small cup?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m01.svg#ac9m2m01-p-009",
-      "alt_text": "In the reading corner: A pencil measuring 5 paperclips and a brush measuring 8 paperclips."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "The pencil",
-      "They are the same length",
-      "The brush"
+      "Count equal full cupfuls that fill it",
+      "Count cups filled to different levels",
+      "Count how tall the cup looks"
     ],
-    "difficulty": 1,
-    "difficultyTier": "confidence",
-    "sequencePriority": 1,
-    "correct": 2,
-    "explanation": "The brush measures 8 paperclips and the pencil measures 5. 8 is greater than 5.\nHint: Compare the number of equal paperclips.",
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 9,
+    "correct": 0,
+    "explanation": "Each unit must contain the same amount.\nHint: Use the information in the question and check each step.",
     "structuredExplanation": {
-      "summary": "The brush measures 8 paperclips and the pencil measures 5. 8 is greater than 5.",
-      "hint": "Compare the number of equal paperclips."
+      "summary": "Each unit must contain the same amount.",
+      "hint": "Use the information in the question and check each step."
     },
     "qualitySchema": "production-v1"
   },
@@ -291,30 +287,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m2m01-p-010",
     "curriculumCode": "AC9M2M01",
     "bank": "practice",
-    "skill": "measure with uniform units",
+    "skill": "mass unit",
     "printable": true,
     "type": "single",
-    "question": "In the reading corner, which is the fair way to measure a book with blocks?",
-    "audioPrompt": "In the reading corner, which is the fair way to measure a book with blocks?",
-    "visual": "In the reading corner: Equal blocks placed end to end along a book with no gaps or overlaps.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In the reading corner: Equal blocks placed end to end along a book with no gaps or overlaps.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2m01.svg#ac9m2m01-p-010\"></use></svg>",
+    "question": "Which set is suitable for measuring mass on a balance?",
+    "audioPrompt": "Which set is suitable for measuring mass on a balance?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m01.svg#ac9m2m01-p-010",
-      "alt_text": "In the reading corner: Equal blocks placed end to end along a book with no gaps or overlaps."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Use equal blocks with no gaps",
-      "Use big and small blocks together",
-      "Leave gaps between the blocks"
+      "Counters all of the same mass",
+      "A mixture of heavy and light counters",
+      "Counters chosen only for their colour"
     ],
-    "difficulty": 3,
-    "sequencePriority": 2,
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 10,
     "correct": 0,
-    "explanation": "Equal blocks placed end to end give a fair measure.\nHint: Check that every unit is the same size and touches the next one.",
+    "explanation": "Uniform mass units are needed for the count to be meaningful.\nHint: Use the information in the question and check each step.",
     "structuredExplanation": {
-      "summary": "Equal blocks placed end to end give a fair measure.",
-      "hint": "Check that every unit is the same size and touches the next one."
+      "summary": "Uniform mass units are needed for the count to be meaningful.",
+      "hint": "Use the information in the question and check each step."
     },
     "qualitySchema": "production-v1"
   },
@@ -322,30 +318,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m2m01-p-011",
     "curriculumCode": "AC9M2M01",
     "bank": "practice",
-    "skill": "compare capacity",
+    "skill": "capacity difference",
     "printable": true,
     "type": "single",
-    "question": "In the reading corner, a jug holds 8 cups. A bottle holds 5 cups. Which holds more?",
-    "audioPrompt": "In the reading corner, a jug holds 8 cups. A bottle holds 5 cups. Which holds more?",
-    "visual": "In the reading corner: A jug labelled 8 cups and a bottle labelled 5 cups.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In the reading corner: A jug labelled 8 cups and a bottle labelled 5 cups.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2m01.svg#ac9m2m01-p-011\"></use></svg>",
+    "question": "A teapot holds 6 cupfuls and a saucepan 9 of the same cupfuls. How much more does the saucepan hold?",
+    "audioPrompt": "A teapot holds 6 cupfuls and a saucepan 9 of the same cupfuls. How much more does the saucepan hold?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m01.svg#ac9m2m01-p-011",
-      "alt_text": "In the reading corner: A jug labelled 8 cups and a bottle labelled 5 cups."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "The bottle",
-      "The jug",
-      "They hold the same amount"
+      "15 cupfuls",
+      "2 cupfuls",
+      "3 cupfuls"
     ],
-    "difficulty": 3,
-    "sequencePriority": 2,
-    "correct": 1,
-    "explanation": "The jug holds 8 cups, which is more than 5 cups.\nHint: Capacity tells how much a container can hold. Compare the cup counts.",
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 11,
+    "correct": 2,
+    "explanation": "Nine minus six is three equal cup units.\nHint: Use the information in the question and check each step.",
     "structuredExplanation": {
-      "summary": "The jug holds 8 cups, which is more than 5 cups.",
-      "hint": "Capacity tells how much a container can hold. Compare the cup counts."
+      "summary": "Nine minus six is three equal cup units.",
+      "hint": "Use the information in the question and check each step."
     },
     "qualitySchema": "production-v1"
   },
@@ -353,30 +349,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m2m01-p-012",
     "curriculumCode": "AC9M2M01",
     "bank": "practice",
-    "skill": "compare mass",
+    "skill": "order mass",
     "printable": true,
     "type": "single",
-    "question": "In the reading corner, a lunchbox balances with 8 cubes. An apple balances with 5 cubes. Which is heavier?",
-    "audioPrompt": "In the reading corner, a lunchbox balances with 8 cubes. An apple balances with 5 cubes. Which is heavier?",
-    "visual": "In the reading corner: A lunchbox with a mass of 8 cubes and an apple with a mass of 5 cubes.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In the reading corner: A lunchbox with a mass of 8 cubes and an apple with a mass of 5 cubes.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2m01.svg#ac9m2m01-p-012\"></use></svg>",
+    "question": "A shell balances 4 cubes, a toy 6 cubes and a stone 7 cubes. All cubes have equal mass. Which order is lightest to heaviest?",
+    "audioPrompt": "A shell balances 4 cubes, a toy 6 cubes and a stone 7 cubes. All cubes have equal mass. Which order is lightest to heaviest?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m01.svg#ac9m2m01-p-012",
-      "alt_text": "In the reading corner: A lunchbox with a mass of 8 cubes and an apple with a mass of 5 cubes."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "The apple",
-      "They have the same mass",
-      "The lunchbox"
+      "Stone, toy, shell",
+      "Shell, toy, stone",
+      "Toy, shell, stone"
     ],
-    "difficulty": 3,
-    "sequencePriority": 2,
-    "correct": 2,
-    "explanation": "The lunchbox needs 8 equal cubes to balance, so it has more mass than the apple with 5.\nHint: The heavier object balances with more of the same cubes.",
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 12,
+    "correct": 1,
+    "explanation": "With the same mass unit, compare counts: 4, then 6, then 7.\nHint: Use the information in the question and check each step.",
     "structuredExplanation": {
-      "summary": "The lunchbox needs 8 equal cubes to balance, so it has more mass than the apple with 5.",
-      "hint": "The heavier object balances with more of the same cubes."
+      "summary": "With the same mass unit, compare counts: 4, then 6, then 7.",
+      "hint": "Use the information in the question and check each step."
     },
     "qualitySchema": "production-v1"
   },
@@ -384,30 +380,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m2m01-p-013",
     "curriculumCode": "AC9M2M01",
     "bank": "practice",
-    "skill": "choose informal unit",
+    "skill": "length difference",
     "printable": true,
     "type": "single",
-    "question": "In the reading corner, you need to measure a tiny button. Which unit will give the most accurate answer?",
-    "audioPrompt": "In the reading corner, you need to measure a tiny button. Which unit will give the most accurate answer?",
-    "visual": "In the reading corner: A tiny button beside small beads and large books.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In the reading corner: A tiny button beside small beads and large books.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2m01.svg#ac9m2m01-p-013\"></use></svg>",
+    "question": "A bookmark is 9 small sticks long and an envelope 6 of the same sticks long. What is the difference?",
+    "audioPrompt": "A bookmark is 9 small sticks long and an envelope 6 of the same sticks long. What is the difference?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m01.svg#ac9m2m01-p-013",
-      "alt_text": "In the reading corner: A tiny button beside small beads and large books."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Small beads",
-      "Large books",
-      "A mix of beads and books"
+      "15 sticks",
+      "2 sticks",
+      "3 sticks"
     ],
-    "difficulty": 3,
-    "sequencePriority": 2,
-    "correct": 0,
-    "explanation": "Small equal beads fit the tiny length more closely.\nHint: Choose a unit that is smaller than the object and can repeat without gaps.",
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 13,
+    "correct": 2,
+    "explanation": "Subtract six equal units from nine.\nHint: Use the information in the question and check each step.",
     "structuredExplanation": {
-      "summary": "Small equal beads fit the tiny length more closely.",
-      "hint": "Choose a unit that is smaller than the object and can repeat without gaps."
+      "summary": "Subtract six equal units from nine.",
+      "hint": "Use the information in the question and check each step."
     },
     "qualitySchema": "production-v1"
   },
@@ -415,30 +411,31 @@ window.skillrPracticeQuestions = [
     "id": "ac9m2m01-p-014",
     "curriculumCode": "AC9M2M01",
     "bank": "practice",
-    "skill": "explain unit size",
+    "skill": "unit size",
     "printable": true,
     "type": "single",
-    "question": "In the reading corner, Sam measures one ribbon with cubes. Lee uses tiny counters. Why are the counts different?",
-    "audioPrompt": "In the reading corner, Sam measures one ribbon with cubes. Lee uses tiny counters. Why are the counts different?",
-    "visual": "In the reading corner: The same ribbon measured with 8 large cubes and 11 small counters.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In the reading corner: The same ribbon measured with 8 large cubes and 11 small counters.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2m01.svg#ac9m2m01-p-014\"></use></svg>",
+    "question": "Both rows cover the same length. Which row uses smaller tiles?",
+    "audioPrompt": "Both rows cover the same length. Which row uses smaller tiles?",
+    "visual": "The same total length is covered by four large tiles in row A and eight smaller tiles in row B.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"The same total length is covered by four large tiles in row A and eight smaller tiles in row B.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2m01.svg?v=20260906-year2-pending-release#ac9m2m01-p-014\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m01.svg#ac9m2m01-p-014",
-      "alt_text": "In the reading corner: The same ribbon measured with 8 large cubes and 11 small counters."
+      "alt_text": "The same total length is covered by four large tiles in row A and eight smaller tiles in row B.",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m01.svg?v=20260906-year2-pending-release#ac9m2m01-p-014"
     },
     "answers": [
-      "The ribbon changed length",
-      "The units are different sizes",
-      "Lee counted backwards"
+      "B",
+      "A",
+      "Both use the same tile size"
     ],
-    "difficulty": 3,
-    "sequencePriority": 2,
-    "correct": 1,
-    "explanation": "Smaller units are needed more times, so the count can be larger.\nHint: The object stays the same. Compare the size of each measuring unit.",
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 14,
+    "correct": 0,
+    "explanation": "Eight tiles fit where only four larger tiles fit.\nHint: Use the information in the question and check each step.",
     "structuredExplanation": {
-      "summary": "Smaller units are needed more times, so the count can be larger.",
-      "hint": "The object stays the same. Compare the size of each measuring unit."
+      "summary": "Eight tiles fit where only four larger tiles fit.",
+      "hint": "Use the information in the question and check each step."
     },
     "qualitySchema": "production-v1"
   },
@@ -446,30 +443,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m2m01-p-015",
     "curriculumCode": "AC9M2M01",
     "bank": "practice",
-    "skill": "select mass tool",
+    "skill": "unfair comparison",
     "printable": true,
     "type": "single",
-    "question": "In the reading corner, which tool helps compare how heavy two classroom objects are?",
-    "audioPrompt": "In the reading corner, which tool helps compare how heavy two classroom objects are?",
-    "visual": "In the reading corner: A balance scale with one object on each side.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In the reading corner: A balance scale with one object on each side.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2m01.svg#ac9m2m01-p-015\"></use></svg>",
+    "question": "A mat measures 7 large tiles long. A shelf measures 9 small tiles long. Can the counts alone tell which is longer?",
+    "audioPrompt": "A mat measures 7 large tiles long. A shelf measures 9 small tiles long. Can the counts alone tell which is longer?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m01.svg#ac9m2m01-p-015",
-      "alt_text": "In the reading corner: A balance scale with one object on each side."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "A calendar",
-      "A measuring cup",
-      "A balance scale"
+      "Yes; the shelf must be longer",
+      "No; the units differ",
+      "Yes; the mat must be longer"
     ],
-    "difficulty": 3,
-    "sequencePriority": 2,
-    "correct": 2,
-    "explanation": "A balance scale compares mass by showing which side is heavier.\nHint: Think about a tool with two sides that can tip.",
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 15,
+    "correct": 1,
+    "explanation": "Compare using the same-sized units before comparing the counts.\nHint: Use the information in the question and check each step.",
     "structuredExplanation": {
-      "summary": "A balance scale compares mass by showing which side is heavier.",
-      "hint": "Think about a tool with two sides that can tip."
+      "summary": "Compare using the same-sized units before comparing the counts.",
+      "hint": "Use the information in the question and check each step."
     },
     "qualitySchema": "production-v1"
   },
@@ -477,30 +474,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m2m01-p-016",
     "curriculumCode": "AC9M2M01",
     "bank": "practice",
-    "skill": "identify measurement error",
+    "skill": "smaller length unit",
     "printable": true,
     "type": "single",
-    "question": "In the reading corner, a row of 5 tiles has one gap between two tiles. Is 5 tiles a fair length measure?",
-    "audioPrompt": "In the reading corner, a row of 5 tiles has one gap between two tiles. Is 5 tiles a fair length measure?",
-    "visual": "In the reading corner: A row of equal tiles with a visible gap between the middle tiles.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In the reading corner: A row of equal tiles with a visible gap between the middle tiles.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2m01.svg#ac9m2m01-p-016\"></use></svg>",
+    "question": "A strip is a little longer than 3 large tiles. How can you measure it more closely using whole units?",
+    "audioPrompt": "A strip is a little longer than 3 large tiles. How can you measure it more closely using whole units?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m01.svg#ac9m2m01-p-016",
-      "alt_text": "In the reading corner: A row of equal tiles with a visible gap between the middle tiles."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "No, the gap makes it unfair",
-      "Yes, gaps don't matter",
-      "Yes, because all tiles are colourful"
+      "Round up without measuring",
+      "Use smaller equal tiles",
+      "Mix large and small tiles and count them all alike"
     ],
-    "difficulty": 3,
-    "sequencePriority": 2,
-    "correct": 0,
-    "explanation": "A gap leaves part of the length unmeasured, so the result is not fair.\nHint: Units must touch end to end.",
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 16,
+    "correct": 1,
+    "explanation": "Smaller uniform units can measure the remaining length more closely.\nHint: Use the information in the question and check each step.",
     "structuredExplanation": {
-      "summary": "A gap leaves part of the length unmeasured, so the result is not fair.",
-      "hint": "Units must touch end to end."
+      "summary": "Smaller uniform units can measure the remaining length more closely.",
+      "hint": "Use the information in the question and check each step."
     },
     "qualitySchema": "production-v1"
   },
@@ -508,30 +505,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m2m01-p-017",
     "curriculumCode": "AC9M2M01",
     "bank": "practice",
-    "skill": "compare length",
+    "skill": "smaller capacity unit",
     "printable": true,
     "type": "single",
-    "question": "At the water station, a pencil is 6 paperclips long. A brush is 9 paperclips long. Which is longer?",
-    "audioPrompt": "At the water station, a pencil is 6 paperclips long. A brush is 9 paperclips long. Which is longer?",
-    "visual": "At the water station: A pencil measuring 6 paperclips and a brush measuring 9 paperclips.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the water station: A pencil measuring 6 paperclips and a brush measuring 9 paperclips.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2m01.svg#ac9m2m01-p-017\"></use></svg>",
+    "question": "A bottle holds 2 full cupfuls and part of another. How could you measure its capacity more closely in whole units?",
+    "audioPrompt": "A bottle holds 2 full cupfuls and part of another. How could you measure its capacity more closely in whole units?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m01.svg#ac9m2m01-p-017",
-      "alt_text": "At the water station: A pencil measuring 6 paperclips and a brush measuring 9 paperclips."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "The pencil",
-      "The brush",
-      "They are the same length"
+      "Remeasure with equal full spoonfuls",
+      "Count the partly filled cup as a full cup",
+      "Use a different-sized cup for each pour"
     ],
     "difficulty": 3,
-    "sequencePriority": 2,
-    "correct": 1,
-    "explanation": "The brush measures 9 paperclips and the pencil measures 6. 9 is greater than 6.\nHint: Compare the number of equal paperclips.",
+    "difficultyTier": "reason",
+    "sequencePriority": 17,
+    "correct": 0,
+    "explanation": "A smaller uniform unit can describe the amount more precisely.\nHint: Use the information in the question and check each step.",
     "structuredExplanation": {
-      "summary": "The brush measures 9 paperclips and the pencil measures 6. 9 is greater than 6.",
-      "hint": "Compare the number of equal paperclips."
+      "summary": "A smaller uniform unit can describe the amount more precisely.",
+      "hint": "Use the information in the question and check each step."
     },
     "qualitySchema": "production-v1"
   },
@@ -539,30 +536,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m2m01-p-018",
     "curriculumCode": "AC9M2M01",
     "bank": "practice",
-    "skill": "measure with uniform units",
+    "skill": "smaller mass unit",
     "printable": true,
     "type": "single",
-    "question": "At the water station, which is the fair way to measure a book with blocks?",
-    "audioPrompt": "At the water station, which is the fair way to measure a book with blocks?",
-    "visual": "At the water station: Equal blocks placed end to end along a book with no gaps or overlaps.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the water station: Equal blocks placed end to end along a book with no gaps or overlaps.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2m01.svg#ac9m2m01-p-018\"></use></svg>",
+    "question": "A toy is heavier than 3 large blocks but lighter than 4. How could its mass be measured more closely?",
+    "audioPrompt": "A toy is heavier than 3 large blocks but lighter than 4. How could its mass be measured more closely?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m01.svg#ac9m2m01-p-018",
-      "alt_text": "At the water station: Equal blocks placed end to end along a book with no gaps or overlaps."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Use big and small blocks together",
-      "Leave gaps between the blocks",
-      "Use equal blocks with no gaps"
+      "Use larger blocks",
+      "Use any mixture of counters and count them equally",
+      "Use smaller equal-mass counters"
     ],
     "difficulty": 3,
-    "sequencePriority": 2,
+    "difficultyTier": "reason",
+    "sequencePriority": 18,
     "correct": 2,
-    "explanation": "Equal blocks placed end to end give a fair measure.\nHint: Check that every unit is the same size and touches the next one.",
+    "explanation": "Smaller mass units make a finer comparison on the balance.\nHint: Use the information in the question and check each step.",
     "structuredExplanation": {
-      "summary": "Equal blocks placed end to end give a fair measure.",
-      "hint": "Check that every unit is the same size and touches the next one."
+      "summary": "Smaller mass units make a finer comparison on the balance.",
+      "hint": "Use the information in the question and check each step."
     },
     "qualitySchema": "production-v1"
   },
@@ -570,30 +567,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m2m01-p-019",
     "curriculumCode": "AC9M2M01",
     "bank": "practice",
-    "skill": "compare capacity",
+    "skill": "capacity not height",
     "printable": true,
     "type": "single",
-    "question": "At the water station, a jug holds 9 cups. A bottle holds 6 cups. Which holds more?",
-    "audioPrompt": "At the water station, a jug holds 9 cups. A bottle holds 6 cups. Which holds more?",
-    "visual": "At the water station: A jug labelled 9 cups and a bottle labelled 6 cups.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the water station: A jug labelled 9 cups and a bottle labelled 6 cups.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2m01.svg#ac9m2m01-p-019\"></use></svg>",
+    "question": "A tall narrow bottle and a short wide bottle each hold 5 of the same cupfuls. Which has greater capacity?",
+    "audioPrompt": "A tall narrow bottle and a short wide bottle each hold 5 of the same cupfuls. Which has greater capacity?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m01.svg#ac9m2m01-p-019",
-      "alt_text": "At the water station: A jug labelled 9 cups and a bottle labelled 6 cups."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "The jug",
-      "The bottle",
-      "They hold the same amount"
+      "Neither; their capacities are equal",
+      "The taller bottle",
+      "The wider bottle"
     ],
     "difficulty": 3,
-    "sequencePriority": 2,
+    "difficultyTier": "reason",
+    "sequencePriority": 19,
     "correct": 0,
-    "explanation": "The jug holds 9 cups, which is more than 6 cups.\nHint: Capacity tells how much a container can hold. Compare the cup counts.",
+    "explanation": "Their measured capacities are equal despite different shapes.\nHint: Use the information in the question and check each step.",
     "structuredExplanation": {
-      "summary": "The jug holds 9 cups, which is more than 6 cups.",
-      "hint": "Capacity tells how much a container can hold. Compare the cup counts."
+      "summary": "Their measured capacities are equal despite different shapes.",
+      "hint": "Use the information in the question and check each step."
     },
     "qualitySchema": "production-v1"
   },
@@ -601,30 +598,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m2m01-p-020",
     "curriculumCode": "AC9M2M01",
     "bank": "practice",
-    "skill": "compare mass",
+    "skill": "mass not size",
     "printable": true,
     "type": "single",
-    "question": "At the water station, a lunchbox balances with 9 cubes. An apple balances with 6 cubes. Which is heavier?",
-    "audioPrompt": "At the water station, a lunchbox balances with 9 cubes. An apple balances with 6 cubes. Which is heavier?",
-    "visual": "At the water station: A lunchbox with a mass of 9 cubes and an apple with a mass of 6 cubes.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the water station: A lunchbox with a mass of 9 cubes and an apple with a mass of 6 cubes.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2m01.svg#ac9m2m01-p-020\"></use></svg>",
+    "question": "A large empty box balances 2 cubes. A small metal toy balances 8 identical cubes. Which is heavier?",
+    "audioPrompt": "A large empty box balances 2 cubes. A small metal toy balances 8 identical cubes. Which is heavier?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m01.svg#ac9m2m01-p-020",
-      "alt_text": "At the water station: A lunchbox with a mass of 9 cubes and an apple with a mass of 6 cubes."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "The apple",
-      "The lunchbox",
-      "They have the same mass"
+      "The empty box",
+      "The metal toy",
+      "They have equal mass"
     ],
     "difficulty": 3,
-    "sequencePriority": 2,
+    "difficultyTier": "reason",
+    "sequencePriority": 20,
     "correct": 1,
-    "explanation": "The lunchbox needs 9 equal cubes to balance, so it has more mass than the apple with 6.\nHint: The heavier object balances with more of the same cubes.",
+    "explanation": "The toy balances more of the same mass units, regardless of its size.\nHint: Use the information in the question and check each step.",
     "structuredExplanation": {
-      "summary": "The lunchbox needs 9 equal cubes to balance, so it has more mass than the apple with 6.",
-      "hint": "The heavier object balances with more of the same cubes."
+      "summary": "The toy balances more of the same mass units, regardless of its size.",
+      "hint": "Use the information in the question and check each step."
     },
     "qualitySchema": "production-v1"
   },
@@ -632,30 +629,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m2m01-p-021",
     "curriculumCode": "AC9M2M01",
     "bank": "practice",
-    "skill": "choose informal unit",
+    "skill": "same units",
     "printable": true,
     "type": "single",
-    "question": "At the water station, you need to measure a tiny button. Which unit will give the most accurate answer?",
-    "audioPrompt": "At the water station, you need to measure a tiny button. Which unit will give the most accurate answer?",
-    "visual": "At the water station: A tiny button beside small beads and large books.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the water station: A tiny button beside small beads and large books.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2m01.svg#ac9m2m01-p-021\"></use></svg>",
+    "question": "Two children use different-sized footsteps to measure a path and get different counts. How can they compare fairly?",
+    "audioPrompt": "Two children use different-sized footsteps to measure a path and get different counts. How can they compare fairly?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m01.svg#ac9m2m01-p-021",
-      "alt_text": "At the water station: A tiny button beside small beads and large books."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Large books",
-      "A mix of beads and books",
-      "Small beads"
+      "Use their original counts as if the units match",
+      "Choose the larger count automatically",
+      "Both measure with the same stick length"
     ],
     "difficulty": 3,
-    "sequencePriority": 2,
+    "difficultyTier": "reason",
+    "sequencePriority": 21,
     "correct": 2,
-    "explanation": "Small equal beads fit the tiny length more closely.\nHint: Choose a unit that is smaller than the object and can repeat without gaps.",
+    "explanation": "Using one common length unit makes the counts comparable.\nHint: Use the information in the question and check each step.",
     "structuredExplanation": {
-      "summary": "Small equal beads fit the tiny length more closely.",
-      "hint": "Choose a unit that is smaller than the object and can repeat without gaps."
+      "summary": "Using one common length unit makes the counts comparable.",
+      "hint": "Use the information in the question and check each step."
     },
     "qualitySchema": "production-v1"
   },
@@ -663,30 +660,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m2m01-p-022",
     "curriculumCode": "AC9M2M01",
     "bank": "practice",
-    "skill": "explain unit size",
+    "skill": "spill",
     "printable": true,
     "type": "single",
-    "question": "At the water station, Sam measures one ribbon with cubes. Lee uses tiny counters. Why are the counts different?",
-    "audioPrompt": "At the water station, Sam measures one ribbon with cubes. Lee uses tiny counters. Why are the counts different?",
-    "visual": "At the water station: The same ribbon measured with 9 large cubes and 12 small counters.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the water station: The same ribbon measured with 9 large cubes and 12 small counters.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2m01.svg#ac9m2m01-p-022\"></use></svg>",
+    "question": "Seven cupfuls are poured towards a bowl, but some water spills outside. Does this reliably measure the bowl’s capacity?",
+    "audioPrompt": "Seven cupfuls are poured towards a bowl, but some water spills outside. Does this reliably measure the bowl’s capacity?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m01.svg#ac9m2m01-p-022",
-      "alt_text": "At the water station: The same ribbon measured with 9 large cubes and 12 small counters."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "The units are different sizes",
-      "The ribbon changed length",
-      "Lee counted backwards"
+      "Yes; count every pour regardless of spills",
+      "Yes; add one extra cup to the count",
+      "No; repeat without spilling"
     ],
     "difficulty": 3,
-    "sequencePriority": 2,
-    "correct": 0,
-    "explanation": "Smaller units are needed more times, so the count can be larger.\nHint: The object stays the same. Compare the size of each measuring unit.",
+    "difficultyTier": "reason",
+    "sequencePriority": 22,
+    "correct": 2,
+    "explanation": "Some of the counted water did not enter the bowl.\nHint: Use the information in the question and check each step.",
     "structuredExplanation": {
-      "summary": "Smaller units are needed more times, so the count can be larger.",
-      "hint": "The object stays the same. Compare the size of each measuring unit."
+      "summary": "Some of the counted water did not enter the bowl.",
+      "hint": "Use the information in the question and check each step."
     },
     "qualitySchema": "production-v1"
   },
@@ -694,30 +691,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m2m01-p-023",
     "curriculumCode": "AC9M2M01",
     "bank": "practice",
-    "skill": "select mass tool",
+    "skill": "mixed mass",
     "printable": true,
     "type": "single",
-    "question": "At the water station, which tool helps compare how heavy two classroom objects are?",
-    "audioPrompt": "At the water station, which tool helps compare how heavy two classroom objects are?",
-    "visual": "At the water station: A balance scale with one object on each side.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the water station: A balance scale with one object on each side.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2m01.svg#ac9m2m01-p-023\"></use></svg>",
+    "question": "A balance holds six counters: three light and three heavy. Can its mass be described as six equal counter units?",
+    "audioPrompt": "A balance holds six counters: three light and three heavy. Can its mass be described as six equal counter units?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m01.svg#ac9m2m01-p-023",
-      "alt_text": "At the water station: A balance scale with one object on each side."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "A calendar",
-      "A balance scale",
-      "A measuring cup"
+      "Yes; any six counters are equal units",
+      "No; the counters are not uniform mass units",
+      "Yes; only the number matters"
     ],
     "difficulty": 3,
-    "sequencePriority": 2,
+    "difficultyTier": "reason",
+    "sequencePriority": 23,
     "correct": 1,
-    "explanation": "A balance scale compares mass by showing which side is heavier.\nHint: Think about a tool with two sides that can tip.",
+    "explanation": "Counting unlike masses as equal units gives a misleading measurement.\nHint: Use the information in the question and check each step.",
     "structuredExplanation": {
-      "summary": "A balance scale compares mass by showing which side is heavier.",
-      "hint": "Think about a tool with two sides that can tip."
+      "summary": "Counting unlike masses as equal units gives a misleading measurement.",
+      "hint": "Use the information in the question and check each step."
     },
     "qualitySchema": "production-v1"
   },
@@ -725,702 +722,36 @@ window.skillrPracticeQuestions = [
     "id": "ac9m2m01-p-024",
     "curriculumCode": "AC9M2M01",
     "bank": "practice",
-    "skill": "identify measurement error",
+    "skill": "measure compare",
     "printable": true,
-    "type": "single",
-    "question": "At the water station, a row of 6 tiles has one gap between two tiles. Is 6 tiles a fair length measure?",
-    "audioPrompt": "At the water station, a row of 6 tiles has one gap between two tiles. Is 6 tiles a fair length measure?",
-    "visual": "At the water station: A row of equal tiles with a visible gap between the middle tiles.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the water station: A row of equal tiles with a visible gap between the middle tiles.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2m01.svg#ac9m2m01-p-024\"></use></svg>",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Two actual measurements made with a uniform unit, with a comparison consistent with the counts.",
+    "acceptanceNote": "Check alignment, no gaps/overlaps and a stated unit. If a unit does not fit closely, use a smaller uniform unit or describe the remainder.",
+    "responseInstructions": "Complete the task on paper or with materials, then ask an adult to check it.",
+    "completionLabel": "Ready for adult review",
+    "question": "Measure two safe objects using the same small informal length unit. Record both counts and compare the lengths.",
+    "audioPrompt": "Measure two safe objects using the same small informal length unit. Record both counts and compare the lengths.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m01.svg#ac9m2m01-p-024",
-      "alt_text": "At the water station: A row of equal tiles with a visible gap between the middle tiles."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Yes, gaps don't matter",
-      "Yes, because all tiles are colourful",
-      "No, the gap makes it unfair"
+      "Completed response",
+      "Needs revision",
+      "Not attempted"
     ],
     "difficulty": 3,
-    "sequencePriority": 2,
-    "correct": 2,
-    "explanation": "A gap leaves part of the length unmeasured, so the result is not fair.\nHint: Units must touch end to end.",
+    "difficultyTier": "reason",
+    "sequencePriority": 24,
+    "correct": "Two actual measurements made with a uniform unit, with a comparison consistent with the counts.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
-      "summary": "A gap leaves part of the length unmeasured, so the result is not fair.",
-      "hint": "Units must touch end to end."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m2m01-p-025",
-    "curriculumCode": "AC9M2M01",
-    "bank": "practice",
-    "skill": "at the school garden which unit",
-    "printable": true,
-    "type": "single",
-    "question": "At the school garden, which unit is best for measuring a pencil?",
-    "audioPrompt": "At the school garden, which unit is best for measuring a pencil?",
-    "visual": "At the school garden, which unit is best for measuring a pencil?",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": "At the school garden, which unit is best for measuring a pencil?"
-    },
-    "answers": [
-      "centimetres",
-      "litres",
-      "kilograms"
-    ],
-    "correct": 0,
-    "explanation": "Choose the unit or object that matches the measure.\nHint: Use the information in the question to check your answer.",
-    "structuredExplanation": {
-      "summary": "Choose the unit or object that matches the measure.",
-      "hint": "Use the information in the question to check your answer."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m2m01-p-026",
-    "curriculumCode": "AC9M2M01",
-    "bank": "practice",
-    "skill": "during maths groups which object is",
-    "printable": true,
-    "type": "single",
-    "question": "During maths groups, which object is heavier?",
-    "audioPrompt": "During maths groups, which object is heavier?",
-    "visual": "During maths groups, which object is heavier?",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": "During maths groups, which object is heavier?"
-    },
-    "answers": [
-      "feather",
-      "paper clip",
-      "brick"
-    ],
-    "correct": 2,
-    "explanation": "Choose the unit or object that matches the measure.\nHint: Use the information in the question to check your answer.",
-    "structuredExplanation": {
-      "summary": "Choose the unit or object that matches the measure.",
-      "hint": "Use the information in the question to check your answer."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m2m01-p-027",
-    "curriculumCode": "AC9M2M01",
-    "bank": "practice",
-    "skill": "at the art table a ribbon",
-    "printable": true,
-    "type": "single",
-    "question": "At the art table, a ribbon is 14 cm long. Which measure matches?",
-    "audioPrompt": "At the art table, a ribbon is 14 cm long. Which measure matches?",
-    "visual": "At the art table, a ribbon is 14 cm long. Which measure matches?",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": "At the art table, a ribbon is 14 cm long. Which measure matches?"
-    },
-    "answers": [
-      "14 L",
-      "14 cm",
-      "14 kg"
-    ],
-    "correct": 1,
-    "explanation": "Choose the unit or object that matches the measure.\nHint: Use the information in the question to check your answer.",
-    "structuredExplanation": {
-      "summary": "Choose the unit or object that matches the measure.",
-      "hint": "Use the information in the question to check your answer."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m2m01-p-028",
-    "curriculumCode": "AC9M2M01",
-    "bank": "practice",
-    "skill": "in the playground which unit is",
-    "printable": true,
-    "type": "single",
-    "question": "In the playground, which unit is best for measuring a pencil?",
-    "audioPrompt": "In the playground, which unit is best for measuring a pencil?",
-    "visual": "In the playground, which unit is best for measuring a pencil?",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": "In the playground, which unit is best for measuring a pencil?"
-    },
-    "answers": [
-      "centimetres",
-      "litres",
-      "kilograms"
-    ],
-    "correct": 0,
-    "explanation": "Choose the unit or object that matches the measure.\nHint: Use the information in the question to check your answer.",
-    "structuredExplanation": {
-      "summary": "Choose the unit or object that matches the measure.",
-      "hint": "Use the information in the question to check your answer."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m2m01-p-029",
-    "curriculumCode": "AC9M2M01",
-    "bank": "practice",
-    "skill": "at the library which object is",
-    "printable": true,
-    "type": "single",
-    "question": "At the library, which object is heavier?",
-    "audioPrompt": "At the library, which object is heavier?",
-    "visual": "At the library, which object is heavier?",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": "At the library, which object is heavier?"
-    },
-    "answers": [
-      "feather",
-      "paper clip",
-      "brick"
-    ],
-    "correct": 2,
-    "explanation": "Choose the unit or object that matches the measure.\nHint: Use the information in the question to check your answer.",
-    "structuredExplanation": {
-      "summary": "Choose the unit or object that matches the measure.",
-      "hint": "Use the information in the question to check your answer."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m2m01-p-030",
-    "curriculumCode": "AC9M2M01",
-    "bank": "practice",
-    "skill": "during sport a ribbon is 17",
-    "printable": true,
-    "type": "single",
-    "question": "During sport, a ribbon is 17 cm long. Which measure matches?",
-    "audioPrompt": "During sport, a ribbon is 17 cm long. Which measure matches?",
-    "visual": "During sport, a ribbon is 17 cm long. Which measure matches?",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": "During sport, a ribbon is 17 cm long. Which measure matches?"
-    },
-    "answers": [
-      "17 L",
-      "17 cm",
-      "17 kg"
-    ],
-    "correct": 1,
-    "explanation": "Choose the unit or object that matches the measure.\nHint: Use the information in the question to check your answer.",
-    "structuredExplanation": {
-      "summary": "Choose the unit or object that matches the measure.",
-      "hint": "Use the information in the question to check your answer."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m2m01-p-031",
-    "curriculumCode": "AC9M2M01",
-    "bank": "practice",
-    "skill": "at the class shop which unit",
-    "printable": true,
-    "type": "single",
-    "question": "At the class shop, which unit is best for measuring a pencil?",
-    "audioPrompt": "At the class shop, which unit is best for measuring a pencil?",
-    "visual": "At the class shop, which unit is best for measuring a pencil?",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": "At the class shop, which unit is best for measuring a pencil?"
-    },
-    "answers": [
-      "centimetres",
-      "litres",
-      "kilograms"
-    ],
-    "correct": 0,
-    "explanation": "Choose the unit or object that matches the measure.\nHint: Use the information in the question to check your answer.",
-    "structuredExplanation": {
-      "summary": "Choose the unit or object that matches the measure.",
-      "hint": "Use the information in the question to check your answer."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m2m01-p-032",
-    "curriculumCode": "AC9M2M01",
-    "bank": "practice",
-    "skill": "on the picnic rug which object",
-    "printable": true,
-    "type": "single",
-    "question": "On the picnic rug, which object is heavier?",
-    "audioPrompt": "On the picnic rug, which object is heavier?",
-    "visual": "On the picnic rug, which object is heavier?",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": "On the picnic rug, which object is heavier?"
-    },
-    "answers": [
-      "feather",
-      "paper clip",
-      "brick"
-    ],
-    "correct": 2,
-    "explanation": "Choose the unit or object that matches the measure.\nHint: Use the information in the question to check your answer.",
-    "structuredExplanation": {
-      "summary": "Choose the unit or object that matches the measure.",
-      "hint": "Use the information in the question to check your answer."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m2m01-p-033",
-    "curriculumCode": "AC9M2M01",
-    "bank": "practice",
-    "skill": "at the block table a ribbon",
-    "printable": true,
-    "type": "single",
-    "question": "At the block table, a ribbon is 20 cm long. Which measure matches?",
-    "audioPrompt": "At the block table, a ribbon is 20 cm long. Which measure matches?",
-    "visual": "At the block table, a ribbon is 20 cm long. Which measure matches?",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": "At the block table, a ribbon is 20 cm long. Which measure matches?"
-    },
-    "answers": [
-      "20 L",
-      "20 cm",
-      "20 kg"
-    ],
-    "correct": 1,
-    "explanation": "Choose the unit or object that matches the measure.\nHint: Use the information in the question to check your answer.",
-    "structuredExplanation": {
-      "summary": "Choose the unit or object that matches the measure.",
-      "hint": "Use the information in the question to check your answer."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m2m01-p-034",
-    "curriculumCode": "AC9M2M01",
-    "bank": "practice",
-    "skill": "in the lunch area which unit",
-    "printable": true,
-    "type": "single",
-    "question": "In the lunch area, which unit is best for measuring a pencil?",
-    "audioPrompt": "In the lunch area, which unit is best for measuring a pencil?",
-    "visual": "In the lunch area, which unit is best for measuring a pencil?",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": "In the lunch area, which unit is best for measuring a pencil?"
-    },
-    "answers": [
-      "centimetres",
-      "litres",
-      "kilograms"
-    ],
-    "correct": 0,
-    "explanation": "Choose the unit or object that matches the measure.\nHint: Use the information in the question to check your answer.",
-    "structuredExplanation": {
-      "summary": "Choose the unit or object that matches the measure.",
-      "hint": "Use the information in the question to check your answer."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m2m01-p-035",
-    "curriculumCode": "AC9M2M01",
-    "bank": "practice",
-    "skill": "at the science table which object",
-    "printable": true,
-    "type": "single",
-    "question": "At the science table, which object is heavier?",
-    "audioPrompt": "At the science table, which object is heavier?",
-    "visual": "At the science table, which object is heavier?",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": "At the science table, which object is heavier?"
-    },
-    "answers": [
-      "feather",
-      "paper clip",
-      "brick"
-    ],
-    "correct": 2,
-    "explanation": "Choose the unit or object that matches the measure.\nHint: Use the information in the question to check your answer.",
-    "structuredExplanation": {
-      "summary": "Choose the unit or object that matches the measure.",
-      "hint": "Use the information in the question to check your answer."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m2m01-p-036",
-    "curriculumCode": "AC9M2M01",
-    "bank": "practice",
-    "skill": "during a card game a ribbon",
-    "printable": true,
-    "type": "single",
-    "question": "During a card game, a ribbon is 23 cm long. Which measure matches?",
-    "audioPrompt": "During a card game, a ribbon is 23 cm long. Which measure matches?",
-    "visual": "During a card game, a ribbon is 23 cm long. Which measure matches?",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": "During a card game, a ribbon is 23 cm long. Which measure matches?"
-    },
-    "answers": [
-      "23 L",
-      "23 cm",
-      "23 kg"
-    ],
-    "correct": 1,
-    "explanation": "Choose the unit or object that matches the measure.\nHint: Use the information in the question to check your answer.",
-    "structuredExplanation": {
-      "summary": "Choose the unit or object that matches the measure.",
-      "hint": "Use the information in the question to check your answer."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m2m01-p-037",
-    "curriculumCode": "AC9M2M01",
-    "bank": "practice",
-    "skill": "at the school garden which unit",
-    "printable": true,
-    "type": "single",
-    "question": "At the school garden, which unit is best for measuring a pencil?",
-    "audioPrompt": "At the school garden, which unit is best for measuring a pencil?",
-    "visual": "At the school garden, which unit is best for measuring a pencil?",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": "At the school garden, which unit is best for measuring a pencil?"
-    },
-    "answers": [
-      "centimetres",
-      "litres",
-      "kilograms"
-    ],
-    "correct": 0,
-    "explanation": "Choose the unit or object that matches the measure.\nHint: Use the information in the question to check your answer.",
-    "structuredExplanation": {
-      "summary": "Choose the unit or object that matches the measure.",
-      "hint": "Use the information in the question to check your answer."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m2m01-p-038",
-    "curriculumCode": "AC9M2M01",
-    "bank": "practice",
-    "skill": "during maths groups which object is",
-    "printable": true,
-    "type": "single",
-    "question": "During maths groups, which object is heavier?",
-    "audioPrompt": "During maths groups, which object is heavier?",
-    "visual": "During maths groups, which object is heavier?",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": "During maths groups, which object is heavier?"
-    },
-    "answers": [
-      "feather",
-      "paper clip",
-      "brick"
-    ],
-    "correct": 2,
-    "explanation": "Choose the unit or object that matches the measure.\nHint: Use the information in the question to check your answer.",
-    "structuredExplanation": {
-      "summary": "Choose the unit or object that matches the measure.",
-      "hint": "Use the information in the question to check your answer."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m2m01-p-039",
-    "curriculumCode": "AC9M2M01",
-    "bank": "practice",
-    "skill": "at the art table a ribbon",
-    "printable": true,
-    "type": "single",
-    "question": "At the art table, a ribbon is 26 cm long. Which measure matches?",
-    "audioPrompt": "At the art table, a ribbon is 26 cm long. Which measure matches?",
-    "visual": "At the art table, a ribbon is 26 cm long. Which measure matches?",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": "At the art table, a ribbon is 26 cm long. Which measure matches?"
-    },
-    "answers": [
-      "26 L",
-      "26 cm",
-      "26 kg"
-    ],
-    "correct": 1,
-    "explanation": "Choose the unit or object that matches the measure.\nHint: Use the information in the question to check your answer.",
-    "structuredExplanation": {
-      "summary": "Choose the unit or object that matches the measure.",
-      "hint": "Use the information in the question to check your answer."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m2m01-p-040",
-    "curriculumCode": "AC9M2M01",
-    "bank": "practice",
-    "skill": "in the playground which unit is",
-    "printable": true,
-    "type": "single",
-    "question": "In the playground, which unit is best for measuring a pencil?",
-    "audioPrompt": "In the playground, which unit is best for measuring a pencil?",
-    "visual": "In the playground, which unit is best for measuring a pencil?",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": "In the playground, which unit is best for measuring a pencil?"
-    },
-    "answers": [
-      "centimetres",
-      "litres",
-      "kilograms"
-    ],
-    "correct": 0,
-    "explanation": "Choose the unit or object that matches the measure.\nHint: Use the information in the question to check your answer.",
-    "structuredExplanation": {
-      "summary": "Choose the unit or object that matches the measure.",
-      "hint": "Use the information in the question to check your answer."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m2m01-p-041",
-    "curriculumCode": "AC9M2M01",
-    "bank": "practice",
-    "skill": "at the library which object is",
-    "printable": true,
-    "type": "single",
-    "question": "At the library, which object is heavier?",
-    "audioPrompt": "At the library, which object is heavier?",
-    "visual": "At the library, which object is heavier?",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": "At the library, which object is heavier?"
-    },
-    "answers": [
-      "feather",
-      "paper clip",
-      "brick"
-    ],
-    "correct": 2,
-    "explanation": "Choose the unit or object that matches the measure.\nHint: Use the information in the question to check your answer.",
-    "structuredExplanation": {
-      "summary": "Choose the unit or object that matches the measure.",
-      "hint": "Use the information in the question to check your answer."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m2m01-p-042",
-    "curriculumCode": "AC9M2M01",
-    "bank": "practice",
-    "skill": "during sport a ribbon is 29",
-    "printable": true,
-    "type": "single",
-    "question": "During sport, a ribbon is 29 cm long. Which measure matches?",
-    "audioPrompt": "During sport, a ribbon is 29 cm long. Which measure matches?",
-    "visual": "During sport, a ribbon is 29 cm long. Which measure matches?",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": "During sport, a ribbon is 29 cm long. Which measure matches?"
-    },
-    "answers": [
-      "29 L",
-      "29 cm",
-      "29 kg"
-    ],
-    "correct": 1,
-    "explanation": "Choose the unit or object that matches the measure.\nHint: Use the information in the question to check your answer.",
-    "structuredExplanation": {
-      "summary": "Choose the unit or object that matches the measure.",
-      "hint": "Use the information in the question to check your answer."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m2m01-p-043",
-    "curriculumCode": "AC9M2M01",
-    "bank": "practice",
-    "skill": "at the class shop which unit",
-    "printable": true,
-    "type": "single",
-    "question": "At the class shop, which unit is best for measuring a pencil?",
-    "audioPrompt": "At the class shop, which unit is best for measuring a pencil?",
-    "visual": "At the class shop, which unit is best for measuring a pencil?",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": "At the class shop, which unit is best for measuring a pencil?"
-    },
-    "answers": [
-      "centimetres",
-      "litres",
-      "kilograms"
-    ],
-    "correct": 0,
-    "explanation": "Choose the unit or object that matches the measure.\nHint: Use the information in the question to check your answer.",
-    "structuredExplanation": {
-      "summary": "Choose the unit or object that matches the measure.",
-      "hint": "Use the information in the question to check your answer."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m2m01-p-044",
-    "curriculumCode": "AC9M2M01",
-    "bank": "practice",
-    "skill": "on the picnic rug which object",
-    "printable": true,
-    "type": "single",
-    "question": "On the picnic rug, which object is heavier?",
-    "audioPrompt": "On the picnic rug, which object is heavier?",
-    "visual": "On the picnic rug, which object is heavier?",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": "On the picnic rug, which object is heavier?"
-    },
-    "answers": [
-      "feather",
-      "paper clip",
-      "brick"
-    ],
-    "correct": 2,
-    "explanation": "Choose the unit or object that matches the measure.\nHint: Use the information in the question to check your answer.",
-    "structuredExplanation": {
-      "summary": "Choose the unit or object that matches the measure.",
-      "hint": "Use the information in the question to check your answer."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m2m01-p-045",
-    "curriculumCode": "AC9M2M01",
-    "bank": "practice",
-    "skill": "at the block table a ribbon",
-    "printable": true,
-    "type": "single",
-    "question": "At the block table, a ribbon is 32 cm long. Which measure matches?",
-    "audioPrompt": "At the block table, a ribbon is 32 cm long. Which measure matches?",
-    "visual": "At the block table, a ribbon is 32 cm long. Which measure matches?",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": "At the block table, a ribbon is 32 cm long. Which measure matches?"
-    },
-    "answers": [
-      "32 L",
-      "32 cm",
-      "32 kg"
-    ],
-    "correct": 1,
-    "explanation": "Choose the unit or object that matches the measure.\nHint: Use the information in the question to check your answer.",
-    "structuredExplanation": {
-      "summary": "Choose the unit or object that matches the measure.",
-      "hint": "Use the information in the question to check your answer."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m2m01-p-046",
-    "curriculumCode": "AC9M2M01",
-    "bank": "practice",
-    "skill": "in the lunch area which unit",
-    "printable": true,
-    "type": "single",
-    "question": "In the lunch area, which unit is best for measuring a pencil?",
-    "audioPrompt": "In the lunch area, which unit is best for measuring a pencil?",
-    "visual": "In the lunch area, which unit is best for measuring a pencil?",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": "In the lunch area, which unit is best for measuring a pencil?"
-    },
-    "answers": [
-      "centimetres",
-      "litres",
-      "kilograms"
-    ],
-    "correct": 0,
-    "explanation": "Choose the unit or object that matches the measure.\nHint: Use the information in the question to check your answer.",
-    "structuredExplanation": {
-      "summary": "Choose the unit or object that matches the measure.",
-      "hint": "Use the information in the question to check your answer."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m2m01-p-047",
-    "curriculumCode": "AC9M2M01",
-    "bank": "practice",
-    "skill": "at the science table which object",
-    "printable": true,
-    "type": "single",
-    "question": "At the science table, which object is heavier?",
-    "audioPrompt": "At the science table, which object is heavier?",
-    "visual": "At the science table, which object is heavier?",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": "At the science table, which object is heavier?"
-    },
-    "answers": [
-      "feather",
-      "paper clip",
-      "brick"
-    ],
-    "correct": 2,
-    "explanation": "Choose the unit or object that matches the measure.\nHint: Use the information in the question to check your answer.",
-    "structuredExplanation": {
-      "summary": "Choose the unit or object that matches the measure.",
-      "hint": "Use the information in the question to check your answer."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m2m01-p-048",
-    "curriculumCode": "AC9M2M01",
-    "bank": "practice",
-    "skill": "during a card game a ribbon",
-    "printable": true,
-    "type": "single",
-    "question": "During a card game, a ribbon is 35 cm long. Which measure matches?",
-    "audioPrompt": "During a card game, a ribbon is 35 cm long. Which measure matches?",
-    "visual": "During a card game, a ribbon is 35 cm long. Which measure matches?",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": "During a card game, a ribbon is 35 cm long. Which measure matches?"
-    },
-    "answers": [
-      "35 L",
-      "35 cm",
-      "35 kg"
-    ],
-    "correct": 1,
-    "explanation": "Choose the unit or object that matches the measure.\nHint: Use the information in the question to check your answer.",
-    "structuredExplanation": {
-      "summary": "Choose the unit or object that matches the measure.",
-      "hint": "Use the information in the question to check your answer."
+      "summary": "Two actual measurements made with a uniform unit, with a comparison consistent with the counts.",
+      "hint": "Check alignment, no gaps/overlaps and a stated unit. If a unit does not fit closely, use a smaller uniform unit or describe the remainder."
     },
     "qualitySchema": "production-v1"
   }

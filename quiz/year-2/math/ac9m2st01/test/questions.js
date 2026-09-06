@@ -4,28 +4,30 @@ window.skillrTestQuestions = [
     "id": "ac9m2st01-t-001",
     "curriculumCode": "AC9M2ST01",
     "bank": "test",
-    "skill": "ask categorical survey question",
+    "skill": "survey",
     "printable": true,
     "type": "single",
-    "question": "In the pet survey, which question would collect data about type of pet?",
-    "audioPrompt": "In the pet survey, which question would collect data about type of pet?",
-    "visual": "In the pet survey: Three category bars ready to record answers about type of pet.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In the pet survey: Three category bars ready to record answers about type of pet.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2st01.svg#ac9m2st01-t-001\"></use></svg>",
+    "question": "Which question would help choose a class fruit snack?",
+    "audioPrompt": "Which question would help choose a class fruit snack?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2st01.svg#ac9m2st01-t-001",
-      "alt_text": "In the pet survey: Three category bars ready to record answers about type of pet."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "How old is the school building?",
-      "What is your type of pet?",
-      "Can you draw any picture?"
+      "What is your shoe size?",
+      "How many pencils are in your bag?",
+      "Which fruit would you choose for our snack?"
     ],
-    "correct": 1,
-    "explanation": "The question asks every person for one category about type of pet.\nHint: Choose a question whose answers can be sorted into named groups.",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 1,
+    "correct": 2,
+    "explanation": "The responses should name preferred fruits.\nHint: Use the information in the question and check each step.",
     "structuredExplanation": {
-      "summary": "The question asks every person for one category about type of pet.",
-      "hint": "Choose a question whose answers can be sorted into named groups."
+      "summary": "The responses should name preferred fruits.",
+      "hint": "Use the information in the question and check each step."
     },
     "qualitySchema": "production-v1"
   },
@@ -33,28 +35,30 @@ window.skillrTestQuestions = [
     "id": "ac9m2st01-t-002",
     "curriculumCode": "AC9M2ST01",
     "bank": "test",
-    "skill": "recognise categorical data",
+    "skill": "observation method",
     "printable": true,
     "type": "single",
-    "question": "In the pet survey, a class records cats, dogs and fish. What kind of data are these?",
-    "audioPrompt": "In the pet survey, a class records cats, dogs and fish. What kind of data are these?",
-    "visual": "In the pet survey: A table with the categories cats, dogs, fish.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In the pet survey: A table with the categories cats, dogs, fish.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2st01.svg#ac9m2st01-t-002\"></use></svg>",
+    "question": "You want to know the kinds of leaves in a tray. How should you collect the data?",
+    "audioPrompt": "You want to know the kinds of leaves in a tray. How should you collect the data?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2st01.svg#ac9m2st01-t-002",
-      "alt_text": "In the pet survey: A table with the categories cats, dogs, fish."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "length measurements",
-      "times on a clock",
-      "categories"
+      "Look at each leaf and record its kind",
+      "Ask which leaf is prettiest",
+      "Count children in the room"
     ],
-    "correct": 2,
-    "explanation": "The answers belong to named groups, so they are categories.\nHint: Ask whether the answers are names or measurements.",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 2,
+    "correct": 0,
+    "explanation": "The data concern the actual leaves, so observe them.\nHint: Use the information in the question and check each step.",
     "structuredExplanation": {
-      "summary": "The answers belong to named groups, so they are categories.",
-      "hint": "Ask whether the answers are names or measurements."
+      "summary": "The data concern the actual leaves, so observe them.",
+      "hint": "Use the information in the question and check each step."
     },
     "qualitySchema": "production-v1"
   },
@@ -62,28 +66,30 @@ window.skillrTestQuestions = [
     "id": "ac9m2st01-t-003",
     "curriculumCode": "AC9M2ST01",
     "bank": "test",
-    "skill": "collect data accurately",
+    "skill": "list to counts",
     "printable": true,
     "type": "single",
-    "question": "In the pet survey, why should each student's answer be counted once?",
-    "audioPrompt": "In the pet survey, why should each student's answer be counted once?",
-    "visual": "In the pet survey: A checklist with one tick beside each student's response.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In the pet survey: A checklist with one tick beside each student's response.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2st01.svg#ac9m2st01-t-003\"></use></svg>",
+    "question": "A colour log reads: yellow, purple, yellow, yellow, purple, purple, yellow. Which count table fits?",
+    "audioPrompt": "A colour log reads: yellow, purple, yellow, yellow, purple, purple, yellow. Which count table fits?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2st01.svg#ac9m2st01-t-003",
-      "alt_text": "In the pet survey: A checklist with one tick beside each student's response."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "so the totals are accurate",
-      "so every total is the same",
-      "so the survey has no labels"
+      "Yellow 3; purple 4",
+      "Yellow 4; purple 3",
+      "Yellow 7; purple 0"
     ],
-    "correct": 0,
-    "explanation": "Counting each response once keeps the category totals correct.\nHint: Imagine what happens if one answer is marked twice.",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 3,
+    "correct": 1,
+    "explanation": "The seven entries contain four yellow and three purple results.\nHint: Use the information in the question and check each step.",
     "structuredExplanation": {
-      "summary": "Counting each response once keeps the category totals correct.",
-      "hint": "Imagine what happens if one answer is marked twice."
+      "summary": "The seven entries contain four yellow and three purple results.",
+      "hint": "Use the information in the question and check each step."
     },
     "qualitySchema": "production-v1"
   },
@@ -91,28 +97,30 @@ window.skillrTestQuestions = [
     "id": "ac9m2st01-t-004",
     "curriculumCode": "AC9M2ST01",
     "bank": "test",
-    "skill": "record categories in table",
+    "skill": "category",
     "printable": true,
     "type": "single",
-    "question": "In the pet survey, which table correctly records 5 cats, 9 dogs and 4 fish?",
-    "audioPrompt": "In the pet survey, which table correctly records 5 cats, 9 dogs and 4 fish?",
-    "visual": "In the pet survey: Data display with cats 5, dogs 9 and fish 4.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In the pet survey: Data display with cats 5, dogs 9 and fish 4.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2st01.svg#ac9m2st01-t-004\"></use></svg>",
+    "question": "A toy survey is grouped as vehicle, animal or building toy. A toy bus belongs in which group?",
+    "audioPrompt": "A toy survey is grouped as vehicle, animal or building toy. A toy bus belongs in which group?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2st01.svg#ac9m2st01-t-004",
-      "alt_text": "In the pet survey: Data display with cats 5, dogs 9 and fish 4."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "cats 6, dogs 9, fish 4",
-      "cats 5, dogs 9, fish 4",
-      "cats 5, dogs 9, fish 5"
+      "Animal",
+      "Vehicle",
+      "Building toy"
     ],
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 4,
     "correct": 1,
-    "explanation": "Each category is matched to its correct count.\nHint: Read across one row at a time.",
+    "explanation": "A bus is a vehicle, so it belongs in that category.\nHint: Use the information in the question and check each step.",
     "structuredExplanation": {
-      "summary": "Each category is matched to its correct count.",
-      "hint": "Read across one row at a time."
+      "summary": "A bus is a vehicle, so it belongs in that category.",
+      "hint": "Use the information in the question and check each step."
     },
     "qualitySchema": "production-v1"
   },
@@ -120,28 +128,30 @@ window.skillrTestQuestions = [
     "id": "ac9m2st01-t-005",
     "curriculumCode": "AC9M2ST01",
     "bank": "test",
-    "skill": "identify most frequent category",
+    "skill": "zero",
     "printable": true,
     "type": "single",
-    "question": "In the pet survey, which category has the most responses?",
-    "audioPrompt": "In the pet survey, which category has the most responses?",
-    "visual": "In the pet survey: cats has 5, dogs has 9 and fish has 4 responses.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In the pet survey: cats has 5, dogs has 9 and fish has 4 responses.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2st01.svg#ac9m2st01-t-005\"></use></svg>",
+    "question": "A tally sheet has no marks in the orange row. What count should be entered?",
+    "audioPrompt": "A tally sheet has no marks in the orange row. What count should be entered?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2st01.svg#ac9m2st01-t-005",
-      "alt_text": "In the pet survey: cats has 5, dogs has 9 and fish has 4 responses."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "cats",
-      "fish",
-      "dogs"
+      "5",
+      "1",
+      "0"
     ],
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 5,
     "correct": 2,
-    "explanation": "The dogs category has the largest count.\nHint: Compare the heights or the count numbers.",
+    "explanation": "No recorded observations means a count of zero.\nHint: Use the information in the question and check each step.",
     "structuredExplanation": {
-      "summary": "The dogs category has the largest count.",
-      "hint": "Compare the heights or the count numbers."
+      "summary": "No recorded observations means a count of zero.",
+      "hint": "Use the information in the question and check each step."
     },
     "qualitySchema": "production-v1"
   },
@@ -149,28 +159,30 @@ window.skillrTestQuestions = [
     "id": "ac9m2st01-t-006",
     "curriculumCode": "AC9M2ST01",
     "bank": "test",
-    "skill": "choose nonoverlapping categories",
+    "skill": "duplicate",
     "printable": true,
     "type": "single",
-    "question": "In the pet survey, which categories are clear and don't overlap for a pet survey?",
-    "audioPrompt": "In the pet survey, which categories are clear and don't overlap for a pet survey?",
-    "visual": "In the pet survey: Three labelled boxes: cat, dog and fish.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In the pet survey: Three labelled boxes: cat, dog and fish.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2st01.svg#ac9m2st01-t-006\"></use></svg>",
+    "question": "One survey slip was entered twice. What should happen to the count for that answer?",
+    "audioPrompt": "One survey slip was entered twice. What should happen to the count for that answer?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2st01.svg#ac9m2st01-t-006",
-      "alt_text": "In the pet survey: Three labelled boxes: cat, dog and fish."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "cat, dog, fish",
-      "small, cute, dog",
-      "pet, animal, cat"
+      "Reduce it by 1",
+      "Increase it by 1",
+      "Reduce every category by 1"
     ],
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 6,
     "correct": 0,
-    "explanation": "Cat, dog and fish are distinct groups, so each pet has one clear place.\nHint: Avoid categories where one answer could fit more than one group.",
+    "explanation": "Remove only the duplicate entry.\nHint: Use the information in the question and check each step.",
     "structuredExplanation": {
-      "summary": "Cat, dog and fish are distinct groups, so each pet has one clear place.",
-      "hint": "Avoid categories where one answer could fit more than one group."
+      "summary": "Remove only the duplicate entry.",
+      "hint": "Use the information in the question and check each step."
     },
     "qualitySchema": "production-v1"
   },
@@ -178,28 +190,30 @@ window.skillrTestQuestions = [
     "id": "ac9m2st01-t-007",
     "curriculumCode": "AC9M2ST01",
     "bank": "test",
-    "skill": "select data collection method",
+    "skill": "total check",
     "printable": true,
     "type": "single",
-    "question": "In the pet survey, which method could collect data about birds visiting the playground?",
-    "audioPrompt": "In the pet survey, which method could collect data about birds visiting the playground?",
-    "visual": "In the pet survey: A bird observation sheet with tally marks.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In the pet survey: A bird observation sheet with tally marks.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2st01.svg#ac9m2st01-t-007\"></use></svg>",
+    "question": "Eight people answer once each. A table contains counts 4, 3 and 2. What does the total show?",
+    "audioPrompt": "Eight people answer once each. A table contains counts 4, 3 and 2. What does the total show?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2st01.svg#ac9m2st01-t-007",
-      "alt_text": "In the pet survey: A bird observation sheet with tally marks."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "guess by guessing",
-      "observe and tally each bird",
-      "measure one desk"
+      "There is at least one recording error",
+      "The table must be correct",
+      "One person did not answer"
     ],
-    "correct": 1,
-    "explanation": "Observation and tally marks record each bird that visits.\nHint: Choose a method that directly watches the thing being counted.",
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 7,
+    "correct": 0,
+    "explanation": "The table totals 9, but only eight responses should have been recorded.\nHint: Use the information in the question and check each step.",
     "structuredExplanation": {
-      "summary": "Observation and tally marks record each bird that visits.",
-      "hint": "Choose a method that directly watches the thing being counted."
+      "summary": "The table totals 9, but only eight responses should have been recorded.",
+      "hint": "Use the information in the question and check each step."
     },
     "qualitySchema": "production-v1"
   },
@@ -207,28 +221,30 @@ window.skillrTestQuestions = [
     "id": "ac9m2st01-t-008",
     "curriculumCode": "AC9M2ST01",
     "bank": "test",
-    "skill": "answer question from table",
+    "skill": "digital category",
     "printable": true,
     "type": "single",
-    "question": "In the pet survey, cats has 5 responses and dogs has 9. How many responses altogether?",
-    "audioPrompt": "In the pet survey, cats has 5 responses and dogs has 9. How many responses altogether?",
-    "visual": "In the pet survey: A data display showing cats with 5 and dogs with 9.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In the pet survey: A data display showing cats with 5 and dogs with 9.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2st01.svg#ac9m2st01-t-008\"></use></svg>",
+    "question": "You are making a digital table about lunch containers. Which column labels are useful?",
+    "audioPrompt": "You are making a digital table about lunch containers. Which column labels are useful?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2st01.svg#ac9m2st01-t-008",
-      "alt_text": "In the pet survey: A data display showing cats with 5 and dogs with 9."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "4",
-      "15",
-      "14"
+      "Favourite colour; Age",
+      "Name; Height",
+      "Container type; Number"
     ],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 8,
     "correct": 2,
-    "explanation": "Add the two category counts: 5 + 9 = 14.\nHint: Altogether means combine both counts.",
+    "explanation": "The labels identify the categories and their counts.\nHint: Use the information in the question and check each step.",
     "structuredExplanation": {
-      "summary": "Add the two category counts: 5 + 9 = 14.",
-      "hint": "Altogether means combine both counts."
+      "summary": "The labels identify the categories and their counts.",
+      "hint": "Use the information in the question and check each step."
     },
     "qualitySchema": "production-v1"
   },
@@ -236,28 +252,30 @@ window.skillrTestQuestions = [
     "id": "ac9m2st01-t-009",
     "curriculumCode": "AC9M2ST01",
     "bank": "test",
-    "skill": "ask categorical survey question",
+    "skill": "experiment data",
     "printable": true,
     "type": "single",
-    "question": "In the story survey, which question would collect data about favourite story type?",
-    "audioPrompt": "In the story survey, which question would collect data about favourite story type?",
-    "visual": "In the story survey: Three category bars ready to record answers about favourite story type.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In the story survey: Three category bars ready to record answers about favourite story type.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2st01.svg#ac9m2st01-t-009\"></use></svg>",
+    "question": "You spin a colour spinner repeatedly. Which list records the results you are investigating?",
+    "audioPrompt": "You spin a colour spinner repeatedly. Which list records the results you are investigating?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2st01.svg#ac9m2st01-t-009",
-      "alt_text": "In the story survey: Three category bars ready to record answers about favourite story type."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "What is your favourite story type?",
-      "How old is the school building?",
-      "Can you draw any picture?"
+      "Fast, slow, fast, slow",
+      "Blue, red, blue, yellow",
+      "Monday, Tuesday, Wednesday"
     ],
-    "correct": 0,
-    "explanation": "The question asks every person for one category about favourite story type.\nHint: Choose a question whose answers can be sorted into named groups.",
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 9,
+    "correct": 1,
+    "explanation": "Colour outcomes are the categories of interest.\nHint: Use the information in the question and check each step.",
     "structuredExplanation": {
-      "summary": "The question asks every person for one category about favourite story type.",
-      "hint": "Choose a question whose answers can be sorted into named groups."
+      "summary": "Colour outcomes are the categories of interest.",
+      "hint": "Use the information in the question and check each step."
     },
     "qualitySchema": "production-v1"
   },
@@ -265,28 +283,30 @@ window.skillrTestQuestions = [
     "id": "ac9m2st01-t-010",
     "curriculumCode": "AC9M2ST01",
     "bank": "test",
-    "skill": "recognise categorical data",
+    "skill": "clear choices",
     "printable": true,
     "type": "single",
-    "question": "In the story survey, a class records funny, animal and facts. What kind of data are these?",
-    "audioPrompt": "In the story survey, a class records funny, animal and facts. What kind of data are these?",
-    "visual": "In the story survey: A table with the categories funny, animal, facts.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In the story survey: A table with the categories funny, animal, facts.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2st01.svg#ac9m2st01-t-010\"></use></svg>",
+    "question": "Each child chooses one main way to school. Which rule avoids counting a child in several travel categories?",
+    "audioPrompt": "Each child chooses one main way to school. Which rule avoids counting a child in several travel categories?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2st01.svg#ac9m2st01-t-010",
-      "alt_text": "In the story survey: A table with the categories funny, animal, facts."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "length measurements",
-      "categories",
-      "times on a clock"
+      "Record the way used for the longest part of the trip",
+      "Count every way used as a separate child",
+      "Choose the category with the smallest total"
     ],
-    "correct": 1,
-    "explanation": "The answers belong to named groups, so they are categories.\nHint: Ask whether the answers are names or measurements.",
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 10,
+    "correct": 0,
+    "explanation": "A clear rule gives each child one main category.\nHint: Use the information in the question and check each step.",
     "structuredExplanation": {
-      "summary": "The answers belong to named groups, so they are categories.",
-      "hint": "Ask whether the answers are names or measurements."
+      "summary": "A clear rule gives each child one main category.",
+      "hint": "Use the information in the question and check each step."
     },
     "qualitySchema": "production-v1"
   },
@@ -294,28 +314,30 @@ window.skillrTestQuestions = [
     "id": "ac9m2st01-t-011",
     "curriculumCode": "AC9M2ST01",
     "bank": "test",
-    "skill": "collect data accurately",
+    "skill": "repair",
     "printable": true,
     "type": "single",
-    "question": "In the story survey, why should each student's answer be counted once?",
-    "audioPrompt": "In the story survey, why should each student's answer be counted once?",
-    "visual": "In the story survey: A checklist with one tick beside each student's response.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In the story survey: A checklist with one tick beside each student's response.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2st01.svg#ac9m2st01-t-011\"></use></svg>",
+    "question": "A table says triangles 5 and circles 2. One circle was placed in the triangle group. What are the corrected counts?",
+    "audioPrompt": "A table says triangles 5 and circles 2. One circle was placed in the triangle group. What are the corrected counts?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2st01.svg#ac9m2st01-t-011",
-      "alt_text": "In the story survey: A checklist with one tick beside each student's response."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "so every total is the same",
-      "so the survey has no labels",
-      "so the totals are accurate"
+      "Triangles 6; circles 1",
+      "Triangles 4; circles 3",
+      "Triangles 5; circles 3"
     ],
-    "correct": 2,
-    "explanation": "Counting each response once keeps the category totals correct.\nHint: Imagine what happens if one answer is marked twice.",
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 11,
+    "correct": 1,
+    "explanation": "Transfer one record from triangles to circles; the total remains 7.\nHint: Use the information in the question and check each step.",
     "structuredExplanation": {
-      "summary": "Counting each response once keeps the category totals correct.",
-      "hint": "Imagine what happens if one answer is marked twice."
+      "summary": "Transfer one record from triangles to circles; the total remains 7.",
+      "hint": "Use the information in the question and check each step."
     },
     "qualitySchema": "production-v1"
   },
@@ -323,28 +345,30 @@ window.skillrTestQuestions = [
     "id": "ac9m2st01-t-012",
     "curriculumCode": "AC9M2ST01",
     "bank": "test",
-    "skill": "record categories in table",
+    "skill": "relevance",
     "printable": true,
     "type": "single",
-    "question": "In the story survey, which table correctly records 6 funny, 10 animal and 3 facts?",
-    "audioPrompt": "In the story survey, which table correctly records 6 funny, 10 animal and 3 facts?",
-    "visual": "In the story survey: Data display with funny 6, animal 10 and facts 3.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In the story survey: Data display with funny 6, animal 10 and facts 3.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2st01.svg#ac9m2st01-t-012\"></use></svg>",
+    "question": "A survey asks for a favourite season. Which answer needs clarification before recording?",
+    "audioPrompt": "A survey asks for a favourite season. Which answer needs clarification before recording?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2st01.svg#ac9m2st01-t-012",
-      "alt_text": "In the story survey: Data display with funny 6, animal 10 and facts 3."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "funny 6, animal 10, facts 3",
-      "funny 7, animal 10, facts 3",
-      "funny 6, animal 10, facts 4"
+      "“Winter”",
+      "“Spring”",
+      "“I like swimming”"
     ],
-    "correct": 0,
-    "explanation": "Each category is matched to its correct count.\nHint: Read across one row at a time.",
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 12,
+    "correct": 2,
+    "explanation": "Swimming names an activity, not a season; ask which season the person means.\nHint: Use the information in the question and check each step.",
     "structuredExplanation": {
-      "summary": "Each category is matched to its correct count.",
-      "hint": "Read across one row at a time."
+      "summary": "Swimming names an activity, not a season; ask which season the person means.",
+      "hint": "Use the information in the question and check each step."
     },
     "qualitySchema": "production-v1"
   },
@@ -352,28 +376,30 @@ window.skillrTestQuestions = [
     "id": "ac9m2st01-t-013",
     "curriculumCode": "AC9M2ST01",
     "bank": "test",
-    "skill": "identify most frequent category",
+    "skill": "source check",
     "printable": true,
     "type": "single",
-    "question": "In the story survey, which category has the most responses?",
-    "audioPrompt": "In the story survey, which category has the most responses?",
-    "visual": "In the story survey: funny has 6, animal has 10 and facts has 3 responses.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In the story survey: funny has 6, animal has 10 and facts has 3 responses.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2st01.svg#ac9m2st01-t-013\"></use></svg>",
+    "question": "A friend disagrees with your table count. What is the best evidence to check?",
+    "audioPrompt": "A friend disagrees with your table count. What is the best evidence to check?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2st01.svg#ac9m2st01-t-013",
-      "alt_text": "In the story survey: funny has 6, animal has 10 and facts has 3 responses."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "funny",
-      "animal",
-      "facts"
+      "Which category you prefer",
+      "The colour of the table heading",
+      "The original recorded answers"
     ],
-    "correct": 1,
-    "explanation": "The animal category has the largest count.\nHint: Compare the heights or the count numbers.",
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 13,
+    "correct": 2,
+    "explanation": "The source records determine the counts.\nHint: Use the information in the question and check each step.",
     "structuredExplanation": {
-      "summary": "The animal category has the largest count.",
-      "hint": "Compare the heights or the count numbers."
+      "summary": "The source records determine the counts.",
+      "hint": "Use the information in the question and check each step."
     },
     "qualitySchema": "production-v1"
   },
@@ -381,28 +407,36 @@ window.skillrTestQuestions = [
     "id": "ac9m2st01-t-014",
     "curriculumCode": "AC9M2ST01",
     "bank": "test",
-    "skill": "choose nonoverlapping categories",
+    "skill": "record list",
     "printable": true,
-    "type": "single",
-    "question": "In the story survey, which categories are clear and don't overlap for a pet survey?",
-    "audioPrompt": "In the story survey, which categories are clear and don't overlap for a pet survey?",
-    "visual": "In the story survey: Three labelled boxes: cat, dog and fish.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In the story survey: Three labelled boxes: cat, dog and fish.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2st01.svg#ac9m2st01-t-014\"></use></svg>",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Train 3; bus 2; walk 3.",
+    "acceptanceNote": "Require the three category labels and correct counts; total 8.",
+    "responseInstructions": "Complete the task on paper or with materials, then ask an adult to check it.",
+    "completionLabel": "Ready for adult review",
+    "question": "Sort these responses into a labelled table: train, bus, train, walk, bus, train, walk, walk.",
+    "audioPrompt": "Sort these responses into a labelled table: train, bus, train, walk, bus, train, walk, walk.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2st01.svg#ac9m2st01-t-014",
-      "alt_text": "In the story survey: Three labelled boxes: cat, dog and fish."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "small, cute, dog",
-      "pet, animal, cat",
-      "cat, dog, fish"
+      "Completed response",
+      "Needs revision",
+      "Not attempted"
     ],
-    "correct": 2,
-    "explanation": "Cat, dog and fish are distinct groups, so each pet has one clear place.\nHint: Avoid categories where one answer could fit more than one group.",
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 14,
+    "correct": "Train 3; bus 2; walk 3.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
-      "summary": "Cat, dog and fish are distinct groups, so each pet has one clear place.",
-      "hint": "Avoid categories where one answer could fit more than one group."
+      "summary": "Train 3; bus 2; walk 3.",
+      "hint": "Require the three category labels and correct counts; total 8."
     },
     "qualitySchema": "production-v1"
   },
@@ -410,28 +444,36 @@ window.skillrTestQuestions = [
     "id": "ac9m2st01-t-015",
     "curriculumCode": "AC9M2ST01",
     "bank": "test",
-    "skill": "select data collection method",
+    "skill": "design collect",
     "printable": true,
-    "type": "single",
-    "question": "In the story survey, which method could collect data about birds visiting the playground?",
-    "audioPrompt": "In the story survey, which method could collect data about birds visiting the playground?",
-    "visual": "In the story survey: A bird observation sheet with tally marks.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In the story survey: A bird observation sheet with tally marks.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2st01.svg#ac9m2st01-t-015\"></use></svg>",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "A stated pair of categories, actual observations and matching labelled totals.",
+    "acceptanceNote": "Accept any actual counts. Verify the table against the observations; adult may help identify a safe collection.",
+    "responseInstructions": "Complete the task on paper or with materials, then ask an adult to check it.",
+    "completionLabel": "Ready for adult review",
+    "question": "Choose two types of safe classroom objects to count. Observe them, record a list or tally and make a count table.",
+    "audioPrompt": "Choose two types of safe classroom objects to count. Observe them, record a list or tally and make a count table.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2st01.svg#ac9m2st01-t-015",
-      "alt_text": "In the story survey: A bird observation sheet with tally marks."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "observe and tally each bird",
-      "guess by guessing",
-      "measure one desk"
+      "Needs revision",
+      "Completed response",
+      "Not attempted"
     ],
-    "correct": 0,
-    "explanation": "Observation and tally marks record each bird that visits.\nHint: Choose a method that directly watches the thing being counted.",
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 15,
+    "correct": "A stated pair of categories, actual observations and matching labelled totals.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
-      "summary": "Observation and tally marks record each bird that visits.",
-      "hint": "Choose a method that directly watches the thing being counted."
+      "summary": "A stated pair of categories, actual observations and matching labelled totals.",
+      "hint": "Accept any actual counts. Verify the table against the observations; adult may help identify a safe collection."
     },
     "qualitySchema": "production-v1"
   },
@@ -439,28 +481,36 @@ window.skillrTestQuestions = [
     "id": "ac9m2st01-t-016",
     "curriculumCode": "AC9M2ST01",
     "bank": "test",
-    "skill": "answer question from table",
+    "skill": "digital record",
     "printable": true,
-    "type": "single",
-    "question": "In the story survey, funny has 6 responses and animal has 10. How many responses altogether?",
-    "audioPrompt": "In the story survey, funny has 6 responses and animal has 10. How many responses altogether?",
-    "visual": "In the story survey: A data display showing funny with 6 and animal with 10.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In the story survey: A data display showing funny with 6 and animal with 10.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2st01.svg#ac9m2st01-t-016\"></use></svg>",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Four actual results; two named categories with totals that add to 4, placed under category/count headings.",
+    "acceptanceNote": "Check the sequence against totals. A labelled drawing is acceptable if no device is available.",
+    "responseInstructions": "Complete the task on paper or with materials, then ask an adult to check it.",
+    "completionLabel": "Ready for adult review",
+    "question": "Record four coin or paper-counter tosses. Show how you would enter the two category totals into a digital table, using a device or a labelled drawing.",
+    "audioPrompt": "Record four coin or paper-counter tosses. Show how you would enter the two category totals into a digital table, using a device or a labelled drawing.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2st01.svg#ac9m2st01-t-016",
-      "alt_text": "In the story survey: A data display showing funny with 6 and animal with 10."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "4",
-      "16",
-      "17"
+      "Completed response",
+      "Needs revision",
+      "Not attempted"
     ],
-    "correct": 1,
-    "explanation": "Add the two category counts: 6 + 10 = 16.\nHint: Altogether means combine both counts.",
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 16,
+    "correct": "Four actual results; two named categories with totals that add to 4, placed under category/count headings.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
-      "summary": "Add the two category counts: 6 + 10 = 16.",
-      "hint": "Altogether means combine both counts."
+      "summary": "Four actual results; two named categories with totals that add to 4, placed under category/count headings.",
+      "hint": "Check the sequence against totals. A labelled drawing is acceptable if no device is available."
     },
     "qualitySchema": "production-v1"
   }

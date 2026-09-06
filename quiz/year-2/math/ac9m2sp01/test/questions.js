@@ -4,28 +4,31 @@ window.skillrTestQuestions = [
     "id": "ac9m2sp01-t-001",
     "curriculumCode": "AC9M2SP01",
     "bank": "test",
-    "skill": "classify by number of sides",
+    "skill": "count",
     "printable": true,
     "type": "single",
-    "question": "During the sorting game, which shape has 5 straight sides?",
-    "audioPrompt": "During the sorting game, which shape has 5 straight sides?",
-    "visual": "During the sorting game: A pentagon, a triangle and a circle shown for comparison.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During the sorting game: A pentagon, a triangle and a circle shown for comparison.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2sp01.svg#ac9m2sp01-t-001\"></use></svg>",
+    "question": "Count every straight edge of this shape. How many are there?",
+    "audioPrompt": "Count every straight edge of this shape. How many are there?",
+    "visual": "An irregular six-sided polygon.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"An irregular six-sided polygon.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2sp01.svg?v=20260906-year2-pending-release#ac9m2sp01-t-001\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2sp01.svg#ac9m2sp01-t-001",
-      "alt_text": "During the sorting game: A pentagon, a triangle and a circle shown for comparison."
+      "alt_text": "An irregular six-sided polygon.",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2sp01.svg?v=20260906-year2-pending-release#ac9m2sp01-t-001"
     },
     "answers": [
-      "triangle",
-      "circle",
-      "pentagon"
+      "5",
+      "7",
+      "6"
     ],
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 1,
     "correct": 2,
-    "explanation": "A pentagon has 5 straight sides.\nHint: Trace the boundary and count each straight side once.",
+    "explanation": "Tracing all the boundary segments gives six.\nHint: Use the information in the question and check each step.",
     "structuredExplanation": {
-      "summary": "A pentagon has 5 straight sides.",
-      "hint": "Trace the boundary and count each straight side once."
+      "summary": "Tracing all the boundary segments gives six.",
+      "hint": "Use the information in the question and check each step."
     },
     "qualitySchema": "production-v1"
   },
@@ -33,28 +36,31 @@ window.skillrTestQuestions = [
     "id": "ac9m2sp01-t-002",
     "curriculumCode": "AC9M2SP01",
     "bank": "test",
-    "skill": "classify curved boundary",
+    "skill": "concave name",
     "printable": true,
     "type": "single",
-    "question": "During the sorting game, which shape has no straight sides?",
-    "audioPrompt": "During the sorting game, which shape has no straight sides?",
-    "visual": "During the sorting game: A triangle, rectangle and circle. The circle has a curved boundary.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During the sorting game: A triangle, rectangle and circle. The circle has a curved boundary.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2sp01.svg#ac9m2sp01-t-002\"></use></svg>",
+    "question": "What is this closed five-sided shape called?",
+    "audioPrompt": "What is this closed five-sided shape called?",
+    "visual": "Closed concave polygon with five straight sides, including two meeting at an inward corner.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Closed concave polygon with five straight sides, including two meeting at an inward corner.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2sp01.svg?v=20260906-year2-pending-release#ac9m2sp01-t-002\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2sp01.svg#ac9m2sp01-t-002",
-      "alt_text": "During the sorting game: A triangle, rectangle and circle. The circle has a curved boundary."
+      "alt_text": "Closed concave polygon with five straight sides, including two meeting at an inward corner.",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2sp01.svg?v=20260906-year2-pending-release#ac9m2sp01-t-002"
     },
     "answers": [
-      "circle",
-      "triangle",
-      "rectangle"
+      "A pentagon",
+      "A hexagon",
+      "A triangle"
     ],
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 2,
     "correct": 0,
-    "explanation": "A circle has one curved boundary and no straight sides.\nHint: Trace around each shape and feel for straight edges.",
+    "explanation": "A five-sided polygon is a pentagon even with an inward corner.\nHint: Use the information in the question and check each step.",
     "structuredExplanation": {
-      "summary": "A circle has one curved boundary and no straight sides.",
-      "hint": "Trace around each shape and feel for straight edges."
+      "summary": "A five-sided polygon is a pentagon even with an inward corner.",
+      "hint": "Use the information in the question and check each step."
     },
     "qualitySchema": "production-v1"
   },
@@ -62,28 +68,31 @@ window.skillrTestQuestions = [
     "id": "ac9m2sp01-t-003",
     "curriculumCode": "AC9M2SP01",
     "bank": "test",
-    "skill": "recognise rotated shape",
+    "skill": "opposite",
     "printable": true,
     "type": "single",
-    "question": "During the sorting game, a pentagon is turned sideways. What shape is it now?",
-    "audioPrompt": "During the sorting game, a pentagon is turned sideways. What shape is it now?",
-    "visual": "During the sorting game: A pentagon shown in a rotated position.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During the sorting game: A pentagon shown in a rotated position.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2sp01.svg#ac9m2sp01-t-003\"></use></svg>",
+    "question": "Which side is opposite D?",
+    "audioPrompt": "Which side is opposite D?",
+    "visual": "Rectangle: top side A, right B, bottom C, left D.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Rectangle: top side A, right B, bottom C, left D.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2sp01.svg?v=20260906-year2-pending-release#ac9m2sp01-t-003\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2sp01.svg#ac9m2sp01-t-003",
-      "alt_text": "During the sorting game: A pentagon shown in a rotated position."
+      "alt_text": "Rectangle: top side A, right B, bottom C, left D.",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2sp01.svg?v=20260906-year2-pending-release#ac9m2sp01-t-003"
     },
     "answers": [
-      "circle",
-      "pentagon",
-      "triangle"
+      "A",
+      "B",
+      "C"
     ],
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 3,
     "correct": 1,
-    "explanation": "Turning a shape does not change its sides or corners, so it is still a pentagon.\nHint: Count the features instead of judging the direction it points.",
+    "explanation": "The right side B is across from left side D.\nHint: Use the information in the question and check each step.",
     "structuredExplanation": {
-      "summary": "Turning a shape does not change its sides or corners, so it is still a pentagon.",
-      "hint": "Count the features instead of judging the direction it points."
+      "summary": "The right side B is across from left side D.",
+      "hint": "Use the information in the question and check each step."
     },
     "qualitySchema": "production-v1"
   },
@@ -91,28 +100,31 @@ window.skillrTestQuestions = [
     "id": "ac9m2sp01-t-004",
     "curriculumCode": "AC9M2SP01",
     "bank": "test",
-    "skill": "use parallel language",
+    "skill": "parallel",
     "printable": true,
     "type": "single",
-    "question": "During the sorting game, which word describes two lines that stay the same distance apart?",
-    "audioPrompt": "During the sorting game, which word describes two lines that stay the same distance apart?",
-    "visual": "During the sorting game: Two straight horizontal lines that remain the same distance apart.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During the sorting game: Two straight horizontal lines that remain the same distance apart.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2sp01.svg#ac9m2sp01-t-004\"></use></svg>",
+    "question": "Which sides of the rectangle are parallel to A?",
+    "audioPrompt": "Which sides of the rectangle are parallel to A?",
+    "visual": "Rectangle: top side A, right B, bottom C, left D.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Rectangle: top side A, right B, bottom C, left D.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2sp01.svg?v=20260906-year2-pending-release#ac9m2sp01-t-004\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2sp01.svg#ac9m2sp01-t-004",
-      "alt_text": "During the sorting game: Two straight horizontal lines that remain the same distance apart."
+      "alt_text": "Rectangle: top side A, right B, bottom C, left D.",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2sp01.svg?v=20260906-year2-pending-release#ac9m2sp01-t-004"
     },
     "answers": [
-      "curved",
-      "opposite",
-      "parallel"
+      "B and D",
+      "C only",
+      "Every other side"
     ],
-    "correct": 2,
-    "explanation": "Parallel lines remain the same distance apart and do not meet.\nHint: Think of straight train tracks.",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 4,
+    "correct": 1,
+    "explanation": "Only C runs in the same direction without meeting A.\nHint: Use the information in the question and check each step.",
     "structuredExplanation": {
-      "summary": "Parallel lines remain the same distance apart and do not meet.",
-      "hint": "Think of straight train tracks."
+      "summary": "Only C runs in the same direction without meeting A.",
+      "hint": "Use the information in the question and check each step."
     },
     "qualitySchema": "production-v1"
   },
@@ -120,28 +132,31 @@ window.skillrTestQuestions = [
     "id": "ac9m2sp01-t-005",
     "curriculumCode": "AC9M2SP01",
     "bank": "test",
-    "skill": "identify opposite sides",
+    "skill": "curved straight",
     "printable": true,
     "type": "single",
-    "question": "During the sorting game, which sides of a rectangle face each other across the shape?",
-    "audioPrompt": "During the sorting game, which sides of a rectangle face each other across the shape?",
-    "visual": "During the sorting game: A rectangle with its top and bottom opposite sides highlighted.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During the sorting game: A rectangle with its top and bottom opposite sides highlighted.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2sp01.svg#ac9m2sp01-t-005\"></use></svg>",
+    "question": "Which description fits the semicircle?",
+    "audioPrompt": "Which description fits the semicircle?",
+    "visual": "Semicircle with a curved arc above one horizontal straight boundary.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Semicircle with a curved arc above one horizontal straight boundary.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2sp01.svg?v=20260906-year2-pending-release#ac9m2sp01-t-005\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2sp01.svg#ac9m2sp01-t-005",
-      "alt_text": "During the sorting game: A rectangle with its top and bottom opposite sides highlighted."
+      "alt_text": "Semicircle with a curved arc above one horizontal straight boundary.",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2sp01.svg?v=20260906-year2-pending-release#ac9m2sp01-t-005"
     },
     "answers": [
-      "opposite sides",
-      "curved sides",
-      "one single side"
+      "It has three straight sides",
+      "It has only a curved boundary",
+      "It has both a curve and a straight boundary"
     ],
-    "correct": 0,
-    "explanation": "Opposite sides are across from each other and do not share a corner.\nHint: Point to one side, then look directly across the shape.",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 5,
+    "correct": 2,
+    "explanation": "Its arc is curved and its diameter is straight.\nHint: Use the information in the question and check each step.",
     "structuredExplanation": {
-      "summary": "Opposite sides are across from each other and do not share a corner.",
-      "hint": "Point to one side, then look directly across the shape."
+      "summary": "Its arc is curved and its diameter is straight.",
+      "hint": "Use the information in the question and check each step."
     },
     "qualitySchema": "production-v1"
   },
@@ -149,28 +164,31 @@ window.skillrTestQuestions = [
     "id": "ac9m2sp01-t-006",
     "curriculumCode": "AC9M2SP01",
     "bank": "test",
-    "skill": "describe rectangle features",
+    "skill": "turned square",
     "printable": true,
     "type": "single",
-    "question": "During the sorting game, which statement is true about a rectangle?",
-    "audioPrompt": "During the sorting game, which statement is true about a rectangle?",
-    "visual": "During the sorting game: A rectangle with four straight sides clearly outlined.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During the sorting game: A rectangle with four straight sides clearly outlined.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2sp01.svg#ac9m2sp01-t-006\"></use></svg>",
+    "question": "Why does this turned shape still belong in the square group?",
+    "audioPrompt": "Why does this turned shape still belong in the square group?",
+    "visual": "A square rotated so one corner points upwards.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A square rotated so one corner points upwards.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2sp01.svg?v=20260906-year2-pending-release#ac9m2sp01-t-006\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2sp01.svg#ac9m2sp01-t-006",
-      "alt_text": "During the sorting game: A rectangle with four straight sides clearly outlined."
+      "alt_text": "A square rotated so one corner points upwards.",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2sp01.svg?v=20260906-year2-pending-release#ac9m2sp01-t-006"
     },
     "answers": [
-      "It has 3 straight sides",
-      "It has 4 straight sides",
-      "It has only a curved boundary"
+      "Its side lengths and corners have not changed",
+      "Its top corner creates a fifth side",
+      "Its colour makes it a square"
     ],
-    "correct": 1,
-    "explanation": "A rectangle has 4 straight sides and 4 corners.\nHint: Count the sides instead of using the shape's size or position.",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 6,
+    "correct": 0,
+    "explanation": "Rotation changes orientation but preserves the shape’s properties.\nHint: Use the information in the question and check each step.",
     "structuredExplanation": {
-      "summary": "A rectangle has 4 straight sides and 4 corners.",
-      "hint": "Count the sides instead of using the shape's size or position."
+      "summary": "Rotation changes orientation but preserves the shape’s properties.",
+      "hint": "Use the information in the question and check each step."
     },
     "qualitySchema": "production-v1"
   },
@@ -178,28 +196,30 @@ window.skillrTestQuestions = [
     "id": "ac9m2sp01-t-007",
     "curriculumCode": "AC9M2SP01",
     "bank": "test",
-    "skill": "classify shapes by shared feature",
+    "skill": "triangle",
     "printable": true,
     "type": "single",
-    "question": "During the sorting game, which two shapes belong together because both have 4 straight sides?",
-    "audioPrompt": "During the sorting game, which two shapes belong together because both have 4 straight sides?",
-    "visual": "During the sorting game: A square, rectangle and circle ready to be sorted by number of straight sides.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During the sorting game: A square, rectangle and circle ready to be sorted by number of straight sides.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2sp01.svg#ac9m2sp01-t-007\"></use></svg>",
+    "question": "Which fact is enough to identify a simple closed polygon as a triangle?",
+    "audioPrompt": "Which fact is enough to identify a simple closed polygon as a triangle?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2sp01.svg#ac9m2sp01-t-007",
-      "alt_text": "During the sorting game: A square, rectangle and circle ready to be sorted by number of straight sides."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "triangle and circle",
-      "circle and hexagon",
-      "square and rectangle"
+      "It has exactly three straight sides",
+      "It is blue",
+      "It has two equal sides"
     ],
-    "correct": 2,
-    "explanation": "Both a square and a rectangle have 4 straight sides.\nHint: Choose one feature and check it on both shapes.",
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 7,
+    "correct": 0,
+    "explanation": "Three straight sides define a triangle.\nHint: Use the information in the question and check each step.",
     "structuredExplanation": {
-      "summary": "Both a square and a rectangle have 4 straight sides.",
-      "hint": "Choose one feature and check it on both shapes."
+      "summary": "Three straight sides define a triangle.",
+      "hint": "Use the information in the question and check each step."
     },
     "qualitySchema": "production-v1"
   },
@@ -207,28 +227,30 @@ window.skillrTestQuestions = [
     "id": "ac9m2sp01-t-008",
     "curriculumCode": "AC9M2SP01",
     "bank": "test",
-    "skill": "justify shape classification",
+    "skill": "parallel sloping",
     "printable": true,
     "type": "single",
-    "question": "During the sorting game, why is a circle not in the straight-sided shape group?",
-    "audioPrompt": "During the sorting game, why is a circle not in the straight-sided shape group?",
-    "visual": "During the sorting game: A circle beside a group of straight-sided polygons.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During the sorting game: A circle beside a group of straight-sided polygons.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2sp01.svg#ac9m2sp01-t-008\"></use></svg>",
+    "question": "Two slanted sides lie on lines that never meet and stay equally far apart. What are they?",
+    "audioPrompt": "Two slanted sides lie on lines that never meet and stay equally far apart. What are they?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2sp01.svg#ac9m2sp01-t-008",
-      "alt_text": "During the sorting game: A circle beside a group of straight-sided polygons."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Its boundary is curved",
-      "It is too small",
-      "It is facing the wrong way"
+      "Curved",
+      "Crossing",
+      "Parallel"
     ],
-    "correct": 0,
-    "explanation": "A circle has a curved boundary, unlike polygons with straight sides.\nHint: Use a visible feature, not colour, size or direction.",
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 8,
+    "correct": 2,
+    "explanation": "Parallel describes this constant separation.\nHint: Use the information in the question and check each step.",
     "structuredExplanation": {
-      "summary": "A circle has a curved boundary, unlike polygons with straight sides.",
-      "hint": "Use a visible feature, not colour, size or direction."
+      "summary": "Parallel describes this constant separation.",
+      "hint": "Use the information in the question and check each step."
     },
     "qualitySchema": "production-v1"
   },
@@ -236,28 +258,30 @@ window.skillrTestQuestions = [
     "id": "ac9m2sp01-t-009",
     "curriculumCode": "AC9M2SP01",
     "bank": "test",
-    "skill": "classify by number of sides",
+    "skill": "classify",
     "printable": true,
     "type": "single",
-    "question": "At the art station, which shape has 8 straight sides?",
-    "audioPrompt": "At the art station, which shape has 8 straight sides?",
-    "visual": "At the art station: A octagon, a triangle and a circle shown for comparison.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the art station: A octagon, a triangle and a circle shown for comparison.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2sp01.svg#ac9m2sp01-t-009\"></use></svg>",
+    "question": "A rectangle, trapezium and square are grouped together. Which label fits them all?",
+    "audioPrompt": "A rectangle, trapezium and square are grouped together. Which label fits them all?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2sp01.svg#ac9m2sp01-t-009",
-      "alt_text": "At the art station: A octagon, a triangle and a circle shown for comparison."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "triangle",
-      "octagon",
-      "circle"
+      "All sides equal",
+      "Four straight sides",
+      "Curved boundary"
     ],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 9,
     "correct": 1,
-    "explanation": "A octagon has 8 straight sides.\nHint: Trace the boundary and count each straight side once.",
+    "explanation": "All three are quadrilaterals, but their side lengths can differ.\nHint: Use the information in the question and check each step.",
     "structuredExplanation": {
-      "summary": "A octagon has 8 straight sides.",
-      "hint": "Trace the boundary and count each straight side once."
+      "summary": "All three are quadrilaterals, but their side lengths can differ.",
+      "hint": "Use the information in the question and check each step."
     },
     "qualitySchema": "production-v1"
   },
@@ -265,28 +289,30 @@ window.skillrTestQuestions = [
     "id": "ac9m2sp01-t-010",
     "curriculumCode": "AC9M2SP01",
     "bank": "test",
-    "skill": "classify curved boundary",
+    "skill": "compare",
     "printable": true,
     "type": "single",
-    "question": "At the art station, which shape has no straight sides?",
-    "audioPrompt": "At the art station, which shape has no straight sides?",
-    "visual": "At the art station: A triangle, rectangle and circle. The circle has a curved boundary.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the art station: A triangle, rectangle and circle. The circle has a curved boundary.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2sp01.svg#ac9m2sp01-t-010\"></use></svg>",
+    "question": "How many fewer sides does a pentagon have than an octagon?",
+    "audioPrompt": "How many fewer sides does a pentagon have than an octagon?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2sp01.svg#ac9m2sp01-t-010",
-      "alt_text": "At the art station: A triangle, rectangle and circle. The circle has a curved boundary."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "triangle",
-      "rectangle",
-      "circle"
+      "3",
+      "2",
+      "13"
     ],
-    "correct": 2,
-    "explanation": "A circle has one curved boundary and no straight sides.\nHint: Trace around each shape and feel for straight edges.",
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 10,
+    "correct": 0,
+    "explanation": "An octagon has 8 sides and a pentagon 5; 8 minus 5 is 3.\nHint: Use the information in the question and check each step.",
     "structuredExplanation": {
-      "summary": "A circle has one curved boundary and no straight sides.",
-      "hint": "Trace around each shape and feel for straight edges."
+      "summary": "An octagon has 8 sides and a pentagon 5; 8 minus 5 is 3.",
+      "hint": "Use the information in the question and check each step."
     },
     "qualitySchema": "production-v1"
   },
@@ -294,28 +320,30 @@ window.skillrTestQuestions = [
     "id": "ac9m2sp01-t-011",
     "curriculumCode": "AC9M2SP01",
     "bank": "test",
-    "skill": "recognise rotated shape",
+    "skill": "opposite meaning",
     "printable": true,
     "type": "single",
-    "question": "At the art station, a octagon is turned sideways. What shape is it now?",
-    "audioPrompt": "At the art station, a octagon is turned sideways. What shape is it now?",
-    "visual": "At the art station: A octagon shown in a rotated position.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the art station: A octagon shown in a rotated position.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2sp01.svg#ac9m2sp01-t-011\"></use></svg>",
+    "question": "Which description identifies opposite sides of a quadrilateral?",
+    "audioPrompt": "Which description identifies opposite sides of a quadrilateral?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2sp01.svg#ac9m2sp01-t-011",
-      "alt_text": "At the art station: A octagon shown in a rotated position."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "octagon",
-      "circle",
-      "triangle"
+      "They meet at one corner",
+      "They face across the shape without sharing a corner",
+      "They must form a curve"
     ],
-    "correct": 0,
-    "explanation": "Turning a shape does not change its sides or corners, so it is still a octagon.\nHint: Count the features instead of judging the direction it points.",
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 11,
+    "correct": 1,
+    "explanation": "Opposite sides do not touch at a vertex.\nHint: Use the information in the question and check each step.",
     "structuredExplanation": {
-      "summary": "Turning a shape does not change its sides or corners, so it is still a octagon.",
-      "hint": "Count the features instead of judging the direction it points."
+      "summary": "Opposite sides do not touch at a vertex.",
+      "hint": "Use the information in the question and check each step."
     },
     "qualitySchema": "production-v1"
   },
@@ -323,28 +351,31 @@ window.skillrTestQuestions = [
     "id": "ac9m2sp01-t-012",
     "curriculumCode": "AC9M2SP01",
     "bank": "test",
-    "skill": "use parallel language",
+    "skill": "sorting error",
     "printable": true,
     "type": "single",
-    "question": "At the art station, which word describes two lines that stay the same distance apart?",
-    "audioPrompt": "At the art station, which word describes two lines that stay the same distance apart?",
-    "visual": "At the art station: Two straight horizontal lines that remain the same distance apart.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the art station: Two straight horizontal lines that remain the same distance apart.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2sp01.svg#ac9m2sp01-t-012\"></use></svg>",
+    "question": "An oval was put in a group labelled “only straight sides”. What should happen?",
+    "audioPrompt": "An oval was put in a group labelled “only straight sides”. What should happen?",
+    "visual": "A is a circle; B is an oval. Both have entirely curved boundaries.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A is a circle; B is an oval. Both have entirely curved boundaries.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2sp01.svg?v=20260906-year2-pending-release#ac9m2sp01-t-012\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2sp01.svg#ac9m2sp01-t-012",
-      "alt_text": "At the art station: Two straight horizontal lines that remain the same distance apart."
+      "alt_text": "A is a circle; B is an oval. Both have entirely curved boundaries.",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2sp01.svg?v=20260906-year2-pending-release#ac9m2sp01-t-012"
     },
     "answers": [
-      "curved",
-      "parallel",
-      "opposite"
+      "Leave it because it is closed",
+      "Add corners to its name",
+      "Move it to a curved-boundary group"
     ],
-    "correct": 1,
-    "explanation": "Parallel lines remain the same distance apart and do not meet.\nHint: Think of straight train tracks.",
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 12,
+    "correct": 2,
+    "explanation": "An oval’s boundary is curved.\nHint: Use the information in the question and check each step.",
     "structuredExplanation": {
-      "summary": "Parallel lines remain the same distance apart and do not meet.",
-      "hint": "Think of straight train tracks."
+      "summary": "An oval’s boundary is curved.",
+      "hint": "Use the information in the question and check each step."
     },
     "qualitySchema": "production-v1"
   },
@@ -352,28 +383,31 @@ window.skillrTestQuestions = [
     "id": "ac9m2sp01-t-013",
     "curriculumCode": "AC9M2SP01",
     "bank": "test",
-    "skill": "identify opposite sides",
+    "skill": "closure",
     "printable": true,
     "type": "single",
-    "question": "At the art station, which sides of a rectangle face each other across the shape?",
-    "audioPrompt": "At the art station, which sides of a rectangle face each other across the shape?",
-    "visual": "At the art station: A rectangle with its top and bottom opposite sides highlighted.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the art station: A rectangle with its top and bottom opposite sides highlighted.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2sp01.svg#ac9m2sp01-t-013\"></use></svg>",
+    "question": "Which change closes this drawing to make a quadrilateral?",
+    "audioPrompt": "Which change closes this drawing to make a quadrilateral?",
+    "visual": "Three connected straight segments, open at the bottom.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three connected straight segments, open at the bottom.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2sp01.svg?v=20260906-year2-pending-release#ac9m2sp01-t-013\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2sp01.svg#ac9m2sp01-t-013",
-      "alt_text": "At the art station: A rectangle with its top and bottom opposite sides highlighted."
+      "alt_text": "Three connected straight segments, open at the bottom.",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2sp01.svg?v=20260906-year2-pending-release#ac9m2sp01-t-013"
     },
     "answers": [
-      "curved sides",
-      "one single side",
-      "opposite sides"
+      "Add a dot in the middle",
+      "Lengthen only the top side",
+      "Join the two bottom endpoints with one straight side"
     ],
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 13,
     "correct": 2,
-    "explanation": "Opposite sides are across from each other and do not share a corner.\nHint: Point to one side, then look directly across the shape.",
+    "explanation": "Joining the free endpoints creates the missing fourth boundary segment.\nHint: Use the information in the question and check each step.",
     "structuredExplanation": {
-      "summary": "Opposite sides are across from each other and do not share a corner.",
-      "hint": "Point to one side, then look directly across the shape."
+      "summary": "Joining the free endpoints creates the missing fourth boundary segment.",
+      "hint": "Use the information in the question and check each step."
     },
     "qualitySchema": "production-v1"
   },
@@ -381,28 +415,30 @@ window.skillrTestQuestions = [
     "id": "ac9m2sp01-t-014",
     "curriculumCode": "AC9M2SP01",
     "bank": "test",
-    "skill": "describe rectangle features",
+    "skill": "size",
     "printable": true,
     "type": "single",
-    "question": "At the art station, which statement is true about a rectangle?",
-    "audioPrompt": "At the art station, which statement is true about a rectangle?",
-    "visual": "At the art station: A rectangle with four straight sides clearly outlined.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the art station: A rectangle with four straight sides clearly outlined.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2sp01.svg#ac9m2sp01-t-014\"></use></svg>",
+    "question": "A hexagon is made twice as large without changing its outline. How many sides does it have?",
+    "audioPrompt": "A hexagon is made twice as large without changing its outline. How many sides does it have?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2sp01.svg#ac9m2sp01-t-014",
-      "alt_text": "At the art station: A rectangle with four straight sides clearly outlined."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "It has 4 straight sides",
-      "It has 3 straight sides",
-      "It has only a curved boundary"
+      "6",
+      "12",
+      "3"
     ],
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 14,
     "correct": 0,
-    "explanation": "A rectangle has 4 straight sides and 4 corners.\nHint: Count the sides instead of using the shape's size or position.",
+    "explanation": "Enlargement changes size, not the number of sides.\nHint: Use the information in the question and check each step.",
     "structuredExplanation": {
-      "summary": "A rectangle has 4 straight sides and 4 corners.",
-      "hint": "Count the sides instead of using the shape's size or position."
+      "summary": "Enlargement changes size, not the number of sides.",
+      "hint": "Use the information in the question and check each step."
     },
     "qualitySchema": "production-v1"
   },
@@ -410,28 +446,36 @@ window.skillrTestQuestions = [
     "id": "ac9m2sp01-t-015",
     "curriculumCode": "AC9M2SP01",
     "bank": "test",
-    "skill": "classify shapes by shared feature",
+    "skill": "draw opposites",
     "printable": true,
-    "type": "single",
-    "question": "At the art station, which two shapes belong together because both have 4 straight sides?",
-    "audioPrompt": "At the art station, which two shapes belong together because both have 4 straight sides?",
-    "visual": "At the art station: A square, rectangle and circle ready to be sorted by number of straight sides.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the art station: A square, rectangle and circle ready to be sorted by number of straight sides.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2sp01.svg#ac9m2sp01-t-015\"></use></svg>",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Opposite sides labelled parallel; adjacent sides labelled as meeting.",
+    "acceptanceNote": "Check the two relationships on the learner’s own rectangle.",
+    "responseInstructions": "Complete the task on paper or with materials, then ask an adult to check it.",
+    "completionLabel": "Ready for adult review",
+    "question": "Draw a non-square rectangle. Label one pair of parallel sides and one pair of sides that meet.",
+    "audioPrompt": "Draw a non-square rectangle. Label one pair of parallel sides and one pair of sides that meet.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2sp01.svg#ac9m2sp01-t-015",
-      "alt_text": "At the art station: A square, rectangle and circle ready to be sorted by number of straight sides."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "triangle and circle",
-      "square and rectangle",
-      "circle and hexagon"
+      "Needs revision",
+      "Completed response",
+      "Not attempted"
     ],
-    "correct": 1,
-    "explanation": "Both a square and a rectangle have 4 straight sides.\nHint: Choose one feature and check it on both shapes.",
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 15,
+    "correct": "Opposite sides labelled parallel; adjacent sides labelled as meeting.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
-      "summary": "Both a square and a rectangle have 4 straight sides.",
-      "hint": "Choose one feature and check it on both shapes."
+      "summary": "Opposite sides labelled parallel; adjacent sides labelled as meeting.",
+      "hint": "Check the two relationships on the learner’s own rectangle."
     },
     "qualitySchema": "production-v1"
   },
@@ -439,28 +483,36 @@ window.skillrTestQuestions = [
     "id": "ac9m2sp01-t-016",
     "curriculumCode": "AC9M2SP01",
     "bank": "test",
-    "skill": "justify shape classification",
+    "skill": "classify explain",
     "printable": true,
-    "type": "single",
-    "question": "At the art station, why is a circle not in the straight-sided shape group?",
-    "audioPrompt": "At the art station, why is a circle not in the straight-sided shape group?",
-    "visual": "At the art station: A circle beside a group of straight-sided polygons.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the art station: A circle beside a group of straight-sided polygons.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2sp01.svg#ac9m2sp01-t-016\"></use></svg>",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Pentagon has five straight sides; hexagon has six.",
+    "acceptanceNote": "Accept irregular closed shapes with correct counts and names; equal sides are not required.",
+    "responseInstructions": "Complete the task on paper or with materials, then ask an adult to check it.",
+    "completionLabel": "Ready for adult review",
+    "question": "Draw a five-sided shape and a six-sided shape. Name them and explain how you distinguished them.",
+    "audioPrompt": "Draw a five-sided shape and a six-sided shape. Name them and explain how you distinguished them.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2sp01.svg#ac9m2sp01-t-016",
-      "alt_text": "At the art station: A circle beside a group of straight-sided polygons."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "It is too small",
-      "It is facing the wrong way",
-      "Its boundary is curved"
+      "Completed response",
+      "Needs revision",
+      "Not attempted"
     ],
-    "correct": 2,
-    "explanation": "A circle has a curved boundary, unlike polygons with straight sides.\nHint: Use a visible feature, not colour, size or direction.",
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 16,
+    "correct": "Pentagon has five straight sides; hexagon has six.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
-      "summary": "A circle has a curved boundary, unlike polygons with straight sides.",
-      "hint": "Use a visible feature, not colour, size or direction."
+      "summary": "Pentagon has five straight sides; hexagon has six.",
+      "hint": "Accept irregular closed shapes with correct counts and names; equal sides are not required."
     },
     "qualitySchema": "production-v1"
   }

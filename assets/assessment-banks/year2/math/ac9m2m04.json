@@ -5,36 +5,41 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2M04",
     "bank": "practice",
-    "skill": "read_analog_time",
+    "skill": "whole_hour",
+    "question": "Read the clock. What time is shown?",
+    "audio_prompt": "Read the clock. What time is shown?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m04.svg#ac9m2m04-p-001",
-      "alt_text": "Before recess: Analog clock showing 2 o'clock."
+      "alt_text": "Analogue clock: short hand at the position for 4:00; long hand at 12.",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m04.svg?v=20260906-year2-pending-release#ac9m2m04-p-001"
     },
-    "question": "Before recess, what time does the clock show?",
-    "audio_prompt": "Before recess, what time does the clock show?",
     "answers": [
       {
-        "text": "2 o'clock",
+        "text": "12:20",
+        "is_correct": false
+      },
+      {
+        "text": "4:00",
         "is_correct": true
       },
       {
-        "text": "half past 2",
-        "is_correct": false
-      },
-      {
-        "text": "quarter past 2",
+        "text": "4:30",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "The minute hand shows o'clock, so the time is 2 o'clock.",
-      "hint": "Check the long minute hand first, then the short hour hand."
+      "summary": "The short hand points to 4 and the long hand to 12, so it is four o’clock.",
+      "hint": "Use the information in the question and check each step."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 1,
+    "review": {
+      "status": "editorially-reviewed",
+      "version": "20260906-year2-pending-release",
+      "evidence_scope": "See 2026-09-06-year2-public-ixl-sweep.md. Original questions; worked examples and representative entry tasks reviewed, not exhaustive adaptive progression."
+    }
   },
   {
     "id": "AC9M2M04-P-002",
@@ -42,36 +47,41 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2M04",
     "bank": "practice",
-    "skill": "read_analog_time",
+    "skill": "hand_roles",
+    "question": "Which hand shows the minutes on this clock?",
+    "audio_prompt": "Which hand shows the minutes on this clock?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m04.svg#ac9m2m04-p-002",
-      "alt_text": "Before recess: Analog clock showing quarter past 2."
+      "alt_text": "Analogue clock: short hand at the position for 8:15; long hand at 3.",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m04.svg?v=20260906-year2-pending-release#ac9m2m04-p-002"
     },
-    "question": "Before recess, what time does the clock show?",
-    "audio_prompt": "Before recess, what time does the clock show?",
     "answers": [
       {
-        "text": "quarter to 2",
-        "is_correct": false
-      },
-      {
-        "text": "quarter past 2",
+        "text": "The longer blue hand",
         "is_correct": true
       },
       {
-        "text": "half past 2",
+        "text": "The shorter dark hand",
+        "is_correct": false
+      },
+      {
+        "text": "Both hands show only hours",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "The minute hand shows quarter past, so the time is quarter past 2.",
-      "hint": "Check the long minute hand first, then the short hour hand."
+      "summary": "The longer hand shows minutes; the shorter hand shows the hour.",
+      "hint": "Use the information in the question and check each step."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 2,
+    "review": {
+      "status": "editorially-reviewed",
+      "version": "20260906-year2-pending-release",
+      "evidence_scope": "See 2026-09-06-year2-public-ixl-sweep.md. Original questions; worked examples and representative entry tasks reviewed, not exhaustive adaptive progression."
+    }
   },
   {
     "id": "AC9M2M04-P-003",
@@ -79,36 +89,41 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2M04",
     "bank": "practice",
-    "skill": "read_analog_time",
+    "skill": "half_hour",
+    "question": "Which time matches this clock?",
+    "audio_prompt": "Which time matches this clock?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m04.svg#ac9m2m04-p-003",
-      "alt_text": "Before recess: Analog clock showing half past 2."
+      "alt_text": "Analogue clock: short hand at the position for 2:30; long hand at 6.",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m04.svg?v=20260906-year2-pending-release#ac9m2m04-p-003"
     },
-    "question": "Before recess, what time does the clock show?",
-    "audio_prompt": "Before recess, what time does the clock show?",
     "answers": [
       {
-        "text": "2 o'clock",
+        "text": "Half past 3",
         "is_correct": false
       },
       {
-        "text": "quarter to 2",
+        "text": "2 o’clock",
         "is_correct": false
       },
       {
-        "text": "half past 2",
+        "text": "Half past 2",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "The minute hand shows half past, so the time is half past 2.",
-      "hint": "Check the long minute hand first, then the short hour hand."
+      "summary": "The short hand is halfway from 2 to 3 and the long hand points to 6.",
+      "hint": "Use the information in the question and check each step."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 3,
+    "review": {
+      "status": "editorially-reviewed",
+      "version": "20260906-year2-pending-release",
+      "evidence_scope": "See 2026-09-06-year2-public-ixl-sweep.md. Original questions; worked examples and representative entry tasks reviewed, not exhaustive adaptive progression."
+    }
   },
   {
     "id": "AC9M2M04-P-004",
@@ -116,36 +131,41 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2M04",
     "bank": "practice",
-    "skill": "read_analog_time",
+    "skill": "quarter_past",
+    "question": "Read the clock in words.",
+    "audio_prompt": "Read the clock in words.",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m04.svg#ac9m2m04-p-004",
-      "alt_text": "Before recess: Analog clock showing quarter to 3."
+      "alt_text": "Analogue clock: short hand at the position for 7:15; long hand at 3.",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m04.svg?v=20260906-year2-pending-release#ac9m2m04-p-004"
     },
-    "question": "Before recess, what time does the clock show?",
-    "audio_prompt": "Before recess, what time does the clock show?",
     "answers": [
       {
-        "text": "quarter to 3",
+        "text": "Quarter to 7",
+        "is_correct": false
+      },
+      {
+        "text": "Half past 7",
+        "is_correct": false
+      },
+      {
+        "text": "Quarter past 7",
         "is_correct": true
-      },
-      {
-        "text": "quarter past 2",
-        "is_correct": false
-      },
-      {
-        "text": "quarter to 2",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "The minute hand shows quarter to, so the time is quarter to 3.",
-      "hint": "Check the long minute hand first, then the short hour hand."
+      "summary": "The long hand at 3 shows a quarter-hour after 7.",
+      "hint": "Use the information in the question and check each step."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 4,
+    "review": {
+      "status": "editorially-reviewed",
+      "version": "20260906-year2-pending-release",
+      "evidence_scope": "See 2026-09-06-year2-public-ixl-sweep.md. Original questions; worked examples and representative entry tasks reviewed, not exhaustive adaptive progression."
+    }
   },
   {
     "id": "AC9M2M04-P-005",
@@ -153,36 +173,41 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2M04",
     "bank": "practice",
-    "skill": "locate_half_hour_minute_hand",
+    "skill": "quarter_to",
+    "question": "Which time is shown on this clock?",
+    "audio_prompt": "Which time is shown on this clock?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m04.svg#ac9m2m04-p-005",
-      "alt_text": "Before recess: Analog clock showing half past 2, with the minute hand on 6."
+      "alt_text": "Analogue clock: short hand at the position for 5:45; long hand at 9.",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m04.svg?v=20260906-year2-pending-release#ac9m2m04-p-005"
     },
-    "question": "Before recess, where does the minute hand point at half past 2?",
-    "audio_prompt": "Before recess, where does the minute hand point at half past 2?",
     "answers": [
       {
-        "text": "3",
+        "text": "Quarter past 5",
         "is_correct": false
       },
       {
-        "text": "6",
+        "text": "Quarter to 6",
         "is_correct": true
       },
       {
-        "text": "12",
+        "text": "Quarter to 5",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "At half past, 30 minutes have passed, so the minute hand points to 6.",
-      "hint": "Halfway around the clock face lands on 6."
+      "summary": "The long hand at 9 leaves a quarter-hour until 6; the short hand is approaching 6.",
+      "hint": "Use the information in the question and check each step."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 5,
+    "review": {
+      "status": "editorially-reviewed",
+      "version": "20260906-year2-pending-release",
+      "evidence_scope": "See 2026-09-06-year2-public-ixl-sweep.md. Original questions; worked examples and representative entry tasks reviewed, not exhaustive adaptive progression."
+    }
   },
   {
     "id": "AC9M2M04-P-006",
@@ -190,36 +215,41 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2M04",
     "bank": "practice",
-    "skill": "locate_quarter_past_hand",
+    "skill": "digital_match",
+    "question": "Choose the digital time for this clock.",
+    "audio_prompt": "Choose the digital time for this clock.",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m04.svg#ac9m2m04-p-006",
-      "alt_text": "Before recess: Analog clock showing quarter past 2, with the minute hand on 3."
+      "alt_text": "Analogue clock: short hand at the position for 9:30; long hand at 6.",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m04.svg?v=20260906-year2-pending-release#ac9m2m04-p-006"
     },
-    "question": "Before recess, where does the minute hand point at quarter past 2?",
-    "audio_prompt": "Before recess, where does the minute hand point at quarter past 2?",
     "answers": [
       {
-        "text": "6",
-        "is_correct": false
-      },
-      {
-        "text": "9",
-        "is_correct": false
-      },
-      {
-        "text": "3",
+        "text": "9:30",
         "is_correct": true
+      },
+      {
+        "text": "9:06",
+        "is_correct": false
+      },
+      {
+        "text": "10:30",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "A quarter of the way around the clock is 15 minutes, at the 3.",
-      "hint": "Start at 12 and move one quarter-turn clockwise."
+      "summary": "The long hand at 6 means 30 minutes, not 6 minutes. The hour already passed is 9.",
+      "hint": "Use the information in the question and check each step."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 6,
+    "review": {
+      "status": "editorially-reviewed",
+      "version": "20260906-year2-pending-release",
+      "evidence_scope": "See 2026-09-06-year2-public-ixl-sweep.md. Original questions; worked examples and representative entry tasks reviewed, not exhaustive adaptive progression."
+    }
   },
   {
     "id": "AC9M2M04-P-007",
@@ -227,36 +257,41 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2M04",
     "bank": "practice",
-    "skill": "read_quarter_to",
+    "skill": "quarter_digital",
+    "question": "What digital time matches the hands?",
+    "audio_prompt": "What digital time matches the hands?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m04.svg#ac9m2m04-p-007",
-      "alt_text": "Before recess: Analog clock showing quarter to 3."
+      "alt_text": "Analogue clock: short hand at the position for 11:15; long hand at 3.",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m04.svg?v=20260906-year2-pending-release#ac9m2m04-p-007"
     },
-    "question": "Before recess, the minute hand points to 9 and the hour hand is nearly at 3. What time is it?",
-    "audio_prompt": "Before recess, the minute hand points to 9 and the hour hand is nearly at 3. What time is it?",
     "answers": [
       {
-        "text": "quarter to 3",
+        "text": "11:03",
+        "is_correct": false
+      },
+      {
+        "text": "11:15",
         "is_correct": true
       },
       {
-        "text": "quarter past 2",
-        "is_correct": false
-      },
-      {
-        "text": "half past 2",
+        "text": "3:55",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "The 9 means quarter to the next hour, which is 3.",
-      "hint": "When the minute hand is on 9, name the hour that is coming next."
+      "summary": "The long hand at 3 means 15 minutes; the short hand is just past 11.",
+      "hint": "Use the information in the question and check each step."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 7,
+    "review": {
+      "status": "editorially-reviewed",
+      "version": "20260906-year2-pending-release",
+      "evidence_scope": "See 2026-09-06-year2-public-ixl-sweep.md. Original questions; worked examples and representative entry tasks reviewed, not exhaustive adaptive progression."
+    }
   },
   {
     "id": "AC9M2M04-P-008",
@@ -264,36 +299,41 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2M04",
     "bank": "practice",
-    "skill": "distinguish_clock_hands",
+    "skill": "twelve",
+    "question": "Both hands point to 12. What is the time?",
+    "audio_prompt": "Both hands point to 12. What is the time?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m04.svg#ac9m2m04-p-008",
-      "alt_text": "Before recess: Analog clock with a long minute hand and a shorter hour hand."
+      "alt_text": "Analogue clock: short hand at the position for 12:00; long hand at 12.",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m04.svg?v=20260906-year2-pending-release#ac9m2m04-p-008"
     },
-    "question": "Before recess, which clock hand tells whether it is o'clock, half past or quarter past?",
-    "audio_prompt": "Before recess, which clock hand tells whether it is o'clock, half past or quarter past?",
     "answers": [
       {
-        "text": "The hour hand only",
+        "text": "Half past 12",
         "is_correct": false
       },
       {
-        "text": "The minute hand",
+        "text": "Quarter to 12",
+        "is_correct": false
+      },
+      {
+        "text": "12 o’clock",
         "is_correct": true
-      },
-      {
-        "text": "The second hand",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "The long minute hand shows how far the hour has passed.",
-      "hint": "Look for the hand that points to 12, 3, 6 or 9 for these times."
+      "summary": "At twelve o’clock both hands point to 12.",
+      "hint": "Use the information in the question and check each step."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 8,
+    "review": {
+      "status": "editorially-reviewed",
+      "version": "20260906-year2-pending-release",
+      "evidence_scope": "See 2026-09-06-year2-public-ixl-sweep.md. Original questions; worked examples and representative entry tasks reviewed, not exhaustive adaptive progression."
+    }
   },
   {
     "id": "AC9M2M04-P-009",
@@ -301,35 +341,40 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2M04",
     "bank": "practice",
-    "skill": "read_analog_time",
+    "skill": "hour_between",
+    "question": "At half past 8, where should the short hand be?",
+    "audio_prompt": "At half past 8, where should the short hand be?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m04.svg#ac9m2m04-p-009",
-      "alt_text": "At reading time: Analog clock showing 3 o'clock."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "At reading time, what time does the clock show?",
-    "audio_prompt": "At reading time, what time does the clock show?",
     "answers": [
       {
-        "text": "half past 3",
-        "is_correct": false
-      },
-      {
-        "text": "quarter past 3",
-        "is_correct": false
-      },
-      {
-        "text": "3 o'clock",
+        "text": "Halfway between 8 and 9",
         "is_correct": true
+      },
+      {
+        "text": "Exactly on 8",
+        "is_correct": false
+      },
+      {
+        "text": "Exactly on 9",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "The minute hand shows o'clock, so the time is 3 o'clock.",
-      "hint": "Check the long minute hand first, then the short hour hand."
+      "summary": "The hour hand moves steadily and is halfway to the next hour at half past.",
+      "hint": "Use the information in the question and check each step."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "sequence_priority": 9,
+    "review": {
+      "status": "editorially-reviewed",
+      "version": "20260906-year2-pending-release",
+      "evidence_scope": "See 2026-09-06-year2-public-ixl-sweep.md. Original questions; worked examples and representative entry tasks reviewed, not exhaustive adaptive progression."
+    }
   },
   {
     "id": "AC9M2M04-P-010",
@@ -337,35 +382,40 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2M04",
     "bank": "practice",
-    "skill": "read_analog_time",
+    "skill": "minute_position",
+    "question": "At quarter past 10, which number does the long hand point to?",
+    "audio_prompt": "At quarter past 10, which number does the long hand point to?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m04.svg#ac9m2m04-p-010",
-      "alt_text": "At reading time: Analog clock showing quarter past 3."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "At reading time, what time does the clock show?",
-    "audio_prompt": "At reading time, what time does the clock show?",
     "answers": [
       {
-        "text": "quarter past 3",
+        "text": "3",
         "is_correct": true
       },
       {
-        "text": "quarter to 3",
+        "text": "10",
         "is_correct": false
       },
       {
-        "text": "half past 3",
+        "text": "6",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "The minute hand shows quarter past, so the time is quarter past 3.",
-      "hint": "Check the long minute hand first, then the short hour hand."
+      "summary": "A quarter-hour is 15 minutes, shown by the long hand at 3.",
+      "hint": "Use the information in the question and check each step."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "sequence_priority": 10,
+    "review": {
+      "status": "editorially-reviewed",
+      "version": "20260906-year2-pending-release",
+      "evidence_scope": "See 2026-09-06-year2-public-ixl-sweep.md. Original questions; worked examples and representative entry tasks reviewed, not exhaustive adaptive progression."
+    }
   },
   {
     "id": "AC9M2M04-P-011",
@@ -373,35 +423,41 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2M04",
     "bank": "practice",
-    "skill": "read_analog_time",
+    "skill": "quarter_to_hour",
+    "question": "Read this clock. Which hour comes next?",
+    "audio_prompt": "Read this clock. Which hour comes next?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m04.svg#ac9m2m04-p-011",
-      "alt_text": "At reading time: Analog clock showing half past 3."
+      "alt_text": "Analogue clock: short hand at the position for 12:45; long hand at 9.",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m04.svg?v=20260906-year2-pending-release#ac9m2m04-p-011"
     },
-    "question": "At reading time, what time does the clock show?",
-    "audio_prompt": "At reading time, what time does the clock show?",
     "answers": [
       {
-        "text": "3 o'clock",
+        "text": "12 o’clock",
         "is_correct": false
       },
       {
-        "text": "half past 3",
+        "text": "2 o’clock",
+        "is_correct": false
+      },
+      {
+        "text": "1 o’clock",
         "is_correct": true
-      },
-      {
-        "text": "quarter to 3",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "The minute hand shows half past, so the time is half past 3.",
-      "hint": "Check the long minute hand first, then the short hour hand."
+      "summary": "It is 12:45; the short hand is approaching 1.",
+      "hint": "Use the information in the question and check each step."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "sequence_priority": 11,
+    "review": {
+      "status": "editorially-reviewed",
+      "version": "20260906-year2-pending-release",
+      "evidence_scope": "See 2026-09-06-year2-public-ixl-sweep.md. Original questions; worked examples and representative entry tasks reviewed, not exhaustive adaptive progression."
+    }
   },
   {
     "id": "AC9M2M04-P-012",
@@ -409,35 +465,41 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2M04",
     "bank": "practice",
-    "skill": "read_analog_time",
+    "skill": "midnight_no_context",
+    "question": "This clock shows 6:00. Can its hands alone tell you whether it is morning or evening?",
+    "audio_prompt": "This clock shows 6:00. Can its hands alone tell you whether it is morning or evening?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m04.svg#ac9m2m04-p-012",
-      "alt_text": "At reading time: Analog clock showing quarter to 4."
+      "alt_text": "Analogue clock: short hand at the position for 6:00; long hand at 12.",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m04.svg?v=20260906-year2-pending-release#ac9m2m04-p-012"
     },
-    "question": "At reading time, what time does the clock show?",
-    "audio_prompt": "At reading time, what time does the clock show?",
     "answers": [
       {
-        "text": "quarter past 3",
+        "text": "Yes; morning uses the long hand",
         "is_correct": false
       },
       {
-        "text": "quarter to 3",
-        "is_correct": false
-      },
-      {
-        "text": "quarter to 4",
+        "text": "No; the hands look the same at both times",
         "is_correct": true
+      },
+      {
+        "text": "Yes; evening puts the short hand on 12",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "The minute hand shows quarter to, so the time is quarter to 4.",
-      "hint": "Check the long minute hand first, then the short hour hand."
+      "summary": "An ordinary 12-hour clock repeats the same hand positions twice each day.",
+      "hint": "Use the information in the question and check each step."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "sequence_priority": 12,
+    "review": {
+      "status": "editorially-reviewed",
+      "version": "20260906-year2-pending-release",
+      "evidence_scope": "See 2026-09-06-year2-public-ixl-sweep.md. Original questions; worked examples and representative entry tasks reviewed, not exhaustive adaptive progression."
+    }
   },
   {
     "id": "AC9M2M04-P-013",
@@ -445,35 +507,41 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2M04",
     "bank": "practice",
-    "skill": "locate_half_hour_minute_hand",
+    "skill": "read_quarter_to",
+    "question": "A child calls this “quarter to 10”. What should they say?",
+    "audio_prompt": "A child calls this “quarter to 10”. What should they say?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m04.svg#ac9m2m04-p-013",
-      "alt_text": "At reading time: Analog clock showing half past 3, with the minute hand on 6."
+      "alt_text": "Analogue clock: short hand at the position for 10:45; long hand at 9.",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m04.svg?v=20260906-year2-pending-release#ac9m2m04-p-013"
     },
-    "question": "At reading time, where does the minute hand point at half past 3?",
-    "audio_prompt": "At reading time, where does the minute hand point at half past 3?",
     "answers": [
       {
-        "text": "6",
+        "text": "Quarter past 10",
+        "is_correct": false
+      },
+      {
+        "text": "Half past 10",
+        "is_correct": false
+      },
+      {
+        "text": "Quarter to 11",
         "is_correct": true
-      },
-      {
-        "text": "3",
-        "is_correct": false
-      },
-      {
-        "text": "12",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "At half past, 30 minutes have passed, so the minute hand points to 6.",
-      "hint": "Halfway around the clock face lands on 6."
+      "summary": "The short hand is between 10 and 11, nearly at 11. Quarter to names the next hour.",
+      "hint": "Use the information in the question and check each step."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "sequence_priority": 13,
+    "review": {
+      "status": "editorially-reviewed",
+      "version": "20260906-year2-pending-release",
+      "evidence_scope": "See 2026-09-06-year2-public-ixl-sweep.md. Original questions; worked examples and representative entry tasks reviewed, not exhaustive adaptive progression."
+    }
   },
   {
     "id": "AC9M2M04-P-014",
@@ -481,35 +549,40 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2M04",
     "bank": "practice",
-    "skill": "locate_quarter_past_hand",
+    "skill": "minutes_not_numeral",
+    "question": "Why does the long hand at 6 mean half past?",
+    "audio_prompt": "Why does the long hand at 6 mean half past?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m04.svg#ac9m2m04-p-014",
-      "alt_text": "At reading time: Analog clock showing quarter past 3, with the minute hand on 3."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "At reading time, where does the minute hand point at quarter past 3?",
-    "audio_prompt": "At reading time, where does the minute hand point at quarter past 3?",
     "answers": [
       {
-        "text": "6",
-        "is_correct": false
-      },
-      {
-        "text": "3",
+        "text": "It has travelled halfway round the clock",
         "is_correct": true
       },
       {
-        "text": "9",
+        "text": "It means 6 minutes have passed",
+        "is_correct": false
+      },
+      {
+        "text": "The short hand has reached the next hour",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "A quarter of the way around the clock is 15 minutes, at the 3.",
-      "hint": "Start at 12 and move one quarter-turn clockwise."
+      "summary": "Half a circle is half an hour, or 30 minutes.",
+      "hint": "Use the information in the question and check each step."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "sequence_priority": 14,
+    "review": {
+      "status": "editorially-reviewed",
+      "version": "20260906-year2-pending-release",
+      "evidence_scope": "See 2026-09-06-year2-public-ixl-sweep.md. Original questions; worked examples and representative entry tasks reviewed, not exhaustive adaptive progression."
+    }
   },
   {
     "id": "AC9M2M04-P-015",
@@ -517,35 +590,40 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2M04",
     "bank": "practice",
-    "skill": "read_quarter_to",
+    "skill": "same_words",
+    "question": "Which phrase means 3:45?",
+    "audio_prompt": "Which phrase means 3:45?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m04.svg#ac9m2m04-p-015",
-      "alt_text": "At reading time: Analog clock showing quarter to 4."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "At reading time, the minute hand points to 9 and the hour hand is nearly at 4. What time is it?",
-    "audio_prompt": "At reading time, the minute hand points to 9 and the hour hand is nearly at 4. What time is it?",
     "answers": [
       {
-        "text": "quarter past 3",
+        "text": "Quarter past 3",
         "is_correct": false
       },
       {
-        "text": "half past 3",
-        "is_correct": false
-      },
-      {
-        "text": "quarter to 4",
+        "text": "Quarter to 4",
         "is_correct": true
+      },
+      {
+        "text": "Quarter to 3",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "The 9 means quarter to the next hour, which is 4.",
-      "hint": "When the minute hand is on 9, name the hour that is coming next."
+      "summary": "At 3:45, a quarter-hour remains until 4 o’clock.",
+      "hint": "Use the information in the question and check each step."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "sequence_priority": 15,
+    "review": {
+      "status": "editorially-reviewed",
+      "version": "20260906-year2-pending-release",
+      "evidence_scope": "See 2026-09-06-year2-public-ixl-sweep.md. Original questions; worked examples and representative entry tasks reviewed, not exhaustive adaptive progression."
+    }
   },
   {
     "id": "AC9M2M04-P-016",
@@ -553,35 +631,40 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2M04",
     "bank": "practice",
-    "skill": "distinguish_clock_hands",
+    "skill": "hour_not_nearest",
+    "question": "The short hand is between 7 and 8, nearer 8. The long hand is on 9. What time is it?",
+    "audio_prompt": "The short hand is between 7 and 8, nearer 8. The long hand is on 9. What time is it?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m04.svg#ac9m2m04-p-016",
-      "alt_text": "At reading time: Analog clock with a long minute hand and a shorter hour hand."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "At reading time, which clock hand tells whether it is o'clock, half past or quarter past?",
-    "audio_prompt": "At reading time, which clock hand tells whether it is o'clock, half past or quarter past?",
     "answers": [
       {
-        "text": "The minute hand",
+        "text": "8:45",
+        "is_correct": false
+      },
+      {
+        "text": "7:45",
         "is_correct": true
       },
       {
-        "text": "The hour hand only",
-        "is_correct": false
-      },
-      {
-        "text": "The second hand",
+        "text": "7:15",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "The long minute hand shows how far the hour has passed.",
-      "hint": "Look for the hand that points to 12, 3, 6 or 9 for these times."
+      "summary": "The hour hand has not reached 8. The long hand at 9 shows 45 minutes after 7.",
+      "hint": "Use the information in the question and check each step."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "sequence_priority": 16,
+    "review": {
+      "status": "editorially-reviewed",
+      "version": "20260906-year2-pending-release",
+      "evidence_scope": "See 2026-09-06-year2-public-ixl-sweep.md. Original questions; worked examples and representative entry tasks reviewed, not exhaustive adaptive progression."
+    }
   },
   {
     "id": "AC9M2M04-P-017",
@@ -589,35 +672,41 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2M04",
     "bank": "practice",
-    "skill": "read_analog_time",
+    "skill": "read_half_twelve",
+    "question": "Read the clock.",
+    "audio_prompt": "Read the clock.",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m04.svg#ac9m2m04-p-017",
-      "alt_text": "Before lunch: Analog clock showing 4 o'clock."
+      "alt_text": "Analogue clock: short hand at the position for 12:30; long hand at 6.",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m04.svg?v=20260906-year2-pending-release#ac9m2m04-p-017"
     },
-    "question": "Before lunch, what time does the clock show?",
-    "audio_prompt": "Before lunch, what time does the clock show?",
     "answers": [
       {
-        "text": "half past 4",
-        "is_correct": false
-      },
-      {
-        "text": "4 o'clock",
+        "text": "Half past 12",
         "is_correct": true
       },
       {
-        "text": "quarter past 4",
+        "text": "Half past 1",
+        "is_correct": false
+      },
+      {
+        "text": "12 o’clock",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "The minute hand shows o'clock, so the time is 4 o'clock.",
-      "hint": "Check the long minute hand first, then the short hour hand."
+      "summary": "The short hand is halfway between 12 and 1, so the hour already passed is 12.",
+      "hint": "Use the information in the question and check each step."
     },
     "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty_tier": "reason",
+    "sequence_priority": 17,
+    "review": {
+      "status": "editorially-reviewed",
+      "version": "20260906-year2-pending-release",
+      "evidence_scope": "See 2026-09-06-year2-public-ixl-sweep.md. Original questions; worked examples and representative entry tasks reviewed, not exhaustive adaptive progression."
+    }
   },
   {
     "id": "AC9M2M04-P-018",
@@ -625,35 +714,41 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2M04",
     "bank": "practice",
-    "skill": "read_analog_time",
+    "skill": "select_words",
+    "question": "Which label belongs under this clock?",
+    "audio_prompt": "Which label belongs under this clock?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m04.svg#ac9m2m04-p-018",
-      "alt_text": "Before lunch: Analog clock showing quarter past 4."
+      "alt_text": "Analogue clock: short hand at the position for 1:15; long hand at 3.",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m04.svg?v=20260906-year2-pending-release#ac9m2m04-p-018"
     },
-    "question": "Before lunch, what time does the clock show?",
-    "audio_prompt": "Before lunch, what time does the clock show?",
     "answers": [
       {
-        "text": "quarter to 4",
+        "text": "Quarter to 1",
         "is_correct": false
       },
       {
-        "text": "half past 4",
+        "text": "Half past 1",
         "is_correct": false
       },
       {
-        "text": "quarter past 4",
+        "text": "Quarter past 1",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "The minute hand shows quarter past, so the time is quarter past 4.",
-      "hint": "Check the long minute hand first, then the short hour hand."
+      "summary": "The short hand is just after 1 and the long hand at 3 shows a quarter past.",
+      "hint": "Use the information in the question and check each step."
     },
     "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty_tier": "reason",
+    "sequence_priority": 18,
+    "review": {
+      "status": "editorially-reviewed",
+      "version": "20260906-year2-pending-release",
+      "evidence_scope": "See 2026-09-06-year2-public-ixl-sweep.md. Original questions; worked examples and representative entry tasks reviewed, not exhaustive adaptive progression."
+    }
   },
   {
     "id": "AC9M2M04-P-019",
@@ -661,35 +756,40 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2M04",
     "bank": "practice",
-    "skill": "read_analog_time",
+    "skill": "quarter_fraction",
+    "question": "The long hand moves from 12 to 3. What fraction of an hour passes?",
+    "audio_prompt": "The long hand moves from 12 to 3. What fraction of an hour passes?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m04.svg#ac9m2m04-p-019",
-      "alt_text": "Before lunch: Analog clock showing half past 4."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "Before lunch, what time does the clock show?",
-    "audio_prompt": "Before lunch, what time does the clock show?",
     "answers": [
       {
-        "text": "half past 4",
+        "text": "One quarter",
         "is_correct": true
       },
       {
-        "text": "4 o'clock",
+        "text": "One half",
         "is_correct": false
       },
       {
-        "text": "quarter to 4",
+        "text": "One whole",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "The minute hand shows half past, so the time is half past 4.",
-      "hint": "Check the long minute hand first, then the short hour hand."
+      "summary": "The long hand moves through one of four equal quarters of its circle.",
+      "hint": "Use the information in the question and check each step."
     },
     "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty_tier": "reason",
+    "sequence_priority": 19,
+    "review": {
+      "status": "editorially-reviewed",
+      "version": "20260906-year2-pending-release",
+      "evidence_scope": "See 2026-09-06-year2-public-ixl-sweep.md. Original questions; worked examples and representative entry tasks reviewed, not exhaustive adaptive progression."
+    }
   },
   {
     "id": "AC9M2M04-P-020",
@@ -697,35 +797,40 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2M04",
     "bank": "practice",
-    "skill": "read_analog_time",
+    "skill": "repair_hands",
+    "question": "A drawing labelled 4:30 has its long hand on 6 and short hand exactly on 4. What needs fixing?",
+    "audio_prompt": "A drawing labelled 4:30 has its long hand on 6 and short hand exactly on 4. What needs fixing?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m04.svg#ac9m2m04-p-020",
-      "alt_text": "Before lunch: Analog clock showing quarter to 5."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "Before lunch, what time does the clock show?",
-    "audio_prompt": "Before lunch, what time does the clock show?",
     "answers": [
       {
-        "text": "quarter past 4",
+        "text": "Move the long hand to 3",
         "is_correct": false
       },
       {
-        "text": "quarter to 5",
+        "text": "Move the short hand halfway towards 5",
         "is_correct": true
       },
       {
-        "text": "quarter to 4",
+        "text": "Move the short hand to 6",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "The minute hand shows quarter to, so the time is quarter to 5.",
-      "hint": "Check the long minute hand first, then the short hour hand."
+      "summary": "At half past, the hour hand must also have moved half the distance to the next hour.",
+      "hint": "Use the information in the question and check each step."
     },
     "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty_tier": "reason",
+    "sequence_priority": 20,
+    "review": {
+      "status": "editorially-reviewed",
+      "version": "20260906-year2-pending-release",
+      "evidence_scope": "See 2026-09-06-year2-public-ixl-sweep.md. Original questions; worked examples and representative entry tasks reviewed, not exhaustive adaptive progression."
+    }
   },
   {
     "id": "AC9M2M04-P-021",
@@ -733,35 +838,40 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2M04",
     "bank": "practice",
-    "skill": "locate_half_hour_minute_hand",
+    "skill": "read_reverse_roles",
+    "question": "A clock has its short hand at 3 and long hand at 12. A child says 12:15. What is the time?",
+    "audio_prompt": "A clock has its short hand at 3 and long hand at 12. A child says 12:15. What is the time?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m04.svg#ac9m2m04-p-021",
-      "alt_text": "Before lunch: Analog clock showing half past 4, with the minute hand on 6."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "Before lunch, where does the minute hand point at half past 4?",
-    "audio_prompt": "Before lunch, where does the minute hand point at half past 4?",
     "answers": [
       {
-        "text": "3",
+        "text": "12:03",
         "is_correct": false
       },
       {
-        "text": "12",
+        "text": "3:15",
         "is_correct": false
       },
       {
-        "text": "6",
+        "text": "3:00",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "At half past, 30 minutes have passed, so the minute hand points to 6.",
-      "hint": "Halfway around the clock face lands on 6."
+      "summary": "The short hand gives the hour, 3; the long hand at 12 gives zero minutes.",
+      "hint": "Use the information in the question and check each step."
     },
     "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty_tier": "reason",
+    "sequence_priority": 21,
+    "review": {
+      "status": "editorially-reviewed",
+      "version": "20260906-year2-pending-release",
+      "evidence_scope": "See 2026-09-06-year2-public-ixl-sweep.md. Original questions; worked examples and representative entry tasks reviewed, not exhaustive adaptive progression."
+    }
   },
   {
     "id": "AC9M2M04-P-022",
@@ -769,35 +879,41 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2M04",
     "bank": "practice",
-    "skill": "locate_quarter_past_hand",
+    "skill": "read_near_twelve",
+    "question": "What time does this clock show?",
+    "audio_prompt": "What time does this clock show?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m04.svg#ac9m2m04-p-022",
-      "alt_text": "Before lunch: Analog clock showing quarter past 4, with the minute hand on 3."
+      "alt_text": "Analogue clock: short hand at the position for 11:45; long hand at 9.",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m04.svg?v=20260906-year2-pending-release#ac9m2m04-p-022"
     },
-    "question": "Before lunch, where does the minute hand point at quarter past 4?",
-    "audio_prompt": "Before lunch, where does the minute hand point at quarter past 4?",
     "answers": [
       {
-        "text": "3",
+        "text": "Quarter past 11",
+        "is_correct": false
+      },
+      {
+        "text": "Quarter to 11",
+        "is_correct": false
+      },
+      {
+        "text": "Quarter to 12",
         "is_correct": true
-      },
-      {
-        "text": "6",
-        "is_correct": false
-      },
-      {
-        "text": "9",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "A quarter of the way around the clock is 15 minutes, at the 3.",
-      "hint": "Start at 12 and move one quarter-turn clockwise."
+      "summary": "The long hand at 9 and short hand approaching 12 show 11:45.",
+      "hint": "Use the information in the question and check each step."
     },
     "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty_tier": "reason",
+    "sequence_priority": 22,
+    "review": {
+      "status": "editorially-reviewed",
+      "version": "20260906-year2-pending-release",
+      "evidence_scope": "See 2026-09-06-year2-public-ixl-sweep.md. Original questions; worked examples and representative entry tasks reviewed, not exhaustive adaptive progression."
+    }
   },
   {
     "id": "AC9M2M04-P-023",
@@ -805,35 +921,45 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2M04",
     "bank": "practice",
-    "skill": "read_quarter_to",
+    "skill": "draw_half",
+    "question": "Draw an analogue clock showing half past 5. Use hands of different lengths.",
+    "audio_prompt": "Draw an analogue clock showing half past 5. Use hands of different lengths.",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m04.svg#ac9m2m04-p-023",
-      "alt_text": "Before lunch: Analog clock showing quarter to 5."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "Before lunch, the minute hand points to 9 and the hour hand is nearly at 5. What time is it?",
-    "audio_prompt": "Before lunch, the minute hand points to 9 and the hour hand is nearly at 5. What time is it?",
     "answers": [
       {
-        "text": "quarter past 4",
+        "text": "Needs revision",
         "is_correct": false
       },
       {
-        "text": "quarter to 5",
+        "text": "Completed response",
         "is_correct": true
       },
       {
-        "text": "half past 4",
+        "text": "Not attempted",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "The 9 means quarter to the next hour, which is 5.",
-      "hint": "When the minute hand is on 9, name the hour that is coming next."
+      "summary": "Long hand at 6; short hand halfway between 5 and 6.",
+      "hint": "Accept a clear numbered clock with these positions; the hour hand must not remain exactly on 5."
     },
     "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty_tier": "reason",
+    "sequence_priority": 23,
+    "review": {
+      "status": "editorially-reviewed",
+      "version": "20260906-year2-pending-release",
+      "evidence_scope": "See 2026-09-06-year2-public-ixl-sweep.md. Original questions; worked examples and representative entry tasks reviewed, not exhaustive adaptive progression."
+    },
+    "grading_mode": "adult-review",
+    "model_answer": "Long hand at 6; short hand halfway between 5 and 6.",
+    "acceptance_note": "Accept a clear numbered clock with these positions; the hour hand must not remain exactly on 5.",
+    "response_instructions": "Complete the task on paper or with materials, then ask an adult to check it.",
+    "completion_label": "Ready for adult review"
   },
   {
     "id": "AC9M2M04-P-024",
@@ -841,827 +967,46 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2M04",
     "bank": "practice",
-    "skill": "distinguish_clock_hands",
+    "skill": "explain_reading",
+    "question": "Read this clock aloud or write its time. Explain what each hand tells you.",
+    "audio_prompt": "Read this clock aloud or write its time. Explain what each hand tells you.",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m04.svg#ac9m2m04-p-024",
-      "alt_text": "Before lunch: Analog clock with a long minute hand and a shorter hour hand."
+      "alt_text": "Analogue clock: short hand at the position for 2:45; long hand at 9.",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m04.svg?v=20260906-year2-pending-release#ac9m2m04-p-024"
     },
-    "question": "Before lunch, which clock hand tells whether it is o'clock, half past or quarter past?",
-    "audio_prompt": "Before lunch, which clock hand tells whether it is o'clock, half past or quarter past?",
     "answers": [
       {
-        "text": "The hour hand only",
-        "is_correct": false
-      },
-      {
-        "text": "The second hand",
-        "is_correct": false
-      },
-      {
-        "text": "The minute hand",
+        "text": "Completed response",
         "is_correct": true
+      },
+      {
+        "text": "Needs revision",
+        "is_correct": false
+      },
+      {
+        "text": "Not attempted",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "The long minute hand shows how far the hour has passed.",
-      "hint": "Look for the hand that points to 12, 3, 6 or 9 for these times."
+      "summary": "Quarter to 3, or 2:45. Long hand at 9; short hand between 2 and 3, approaching 3.",
+      "hint": "Accept either time form with both hand roles correctly explained."
     },
     "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9M2M04-P-025",
-    "subject": "math",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9M2M04",
-    "bank": "practice",
-    "skill": "at_the_school_garden_the_time",
-    "visual": {
-      "type": "none",
-      "alt_text": "At the school garden, the time is quarter past 1. Where is the minute hand?"
+    "difficulty_tier": "reason",
+    "sequence_priority": 24,
+    "review": {
+      "status": "editorially-reviewed",
+      "version": "20260906-year2-pending-release",
+      "evidence_scope": "See 2026-09-06-year2-public-ixl-sweep.md. Original questions; worked examples and representative entry tasks reviewed, not exhaustive adaptive progression."
     },
-    "question": "At the school garden, the time is quarter past 1. Where is the minute hand?",
-    "audio_prompt": "At the school garden, the time is quarter past 1. Where is the minute hand?",
-    "answers": [
-      {
-        "text": "3",
-        "is_correct": true
-      },
-      {
-        "text": "6",
-        "is_correct": false
-      },
-      {
-        "text": "9",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "The minute hand shows quarter past, half past or quarter to.",
-      "hint": "Use the information in the question to check your answer."
-    }
-  },
-  {
-    "id": "AC9M2M04-P-026",
-    "subject": "math",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9M2M04",
-    "bank": "practice",
-    "skill": "during_maths_groups_the_time_is",
-    "visual": {
-      "type": "none",
-      "alt_text": "During maths groups, the time is half past 2. Where is the minute hand?"
-    },
-    "question": "During maths groups, the time is half past 2. Where is the minute hand?",
-    "audio_prompt": "During maths groups, the time is half past 2. Where is the minute hand?",
-    "answers": [
-      {
-        "text": "3",
-        "is_correct": false
-      },
-      {
-        "text": "12",
-        "is_correct": false
-      },
-      {
-        "text": "6",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "The minute hand shows quarter past, half past or quarter to.",
-      "hint": "Use the information in the question to check your answer."
-    }
-  },
-  {
-    "id": "AC9M2M04-P-027",
-    "subject": "math",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9M2M04",
-    "bank": "practice",
-    "skill": "at_the_art_table_the_time",
-    "visual": {
-      "type": "none",
-      "alt_text": "At the art table, the time is quarter to 3. Where is the minute hand?"
-    },
-    "question": "At the art table, the time is quarter to 3. Where is the minute hand?",
-    "audio_prompt": "At the art table, the time is quarter to 3. Where is the minute hand?",
-    "answers": [
-      {
-        "text": "6",
-        "is_correct": false
-      },
-      {
-        "text": "9",
-        "is_correct": true
-      },
-      {
-        "text": "3",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "The minute hand shows quarter past, half past or quarter to.",
-      "hint": "Use the information in the question to check your answer."
-    }
-  },
-  {
-    "id": "AC9M2M04-P-028",
-    "subject": "math",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9M2M04",
-    "bank": "practice",
-    "skill": "in_the_playground_the_time_is",
-    "visual": {
-      "type": "none",
-      "alt_text": "In the playground, the time is quarter past 4. Where is the minute hand?"
-    },
-    "question": "In the playground, the time is quarter past 4. Where is the minute hand?",
-    "audio_prompt": "In the playground, the time is quarter past 4. Where is the minute hand?",
-    "answers": [
-      {
-        "text": "3",
-        "is_correct": true
-      },
-      {
-        "text": "6",
-        "is_correct": false
-      },
-      {
-        "text": "9",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "The minute hand shows quarter past, half past or quarter to.",
-      "hint": "Use the information in the question to check your answer."
-    }
-  },
-  {
-    "id": "AC9M2M04-P-029",
-    "subject": "math",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9M2M04",
-    "bank": "practice",
-    "skill": "at_the_library_the_time_is",
-    "visual": {
-      "type": "none",
-      "alt_text": "At the library, the time is half past 5. Where is the minute hand?"
-    },
-    "question": "At the library, the time is half past 5. Where is the minute hand?",
-    "audio_prompt": "At the library, the time is half past 5. Where is the minute hand?",
-    "answers": [
-      {
-        "text": "3",
-        "is_correct": false
-      },
-      {
-        "text": "12",
-        "is_correct": false
-      },
-      {
-        "text": "6",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "The minute hand shows quarter past, half past or quarter to.",
-      "hint": "Use the information in the question to check your answer."
-    }
-  },
-  {
-    "id": "AC9M2M04-P-030",
-    "subject": "math",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9M2M04",
-    "bank": "practice",
-    "skill": "during_sport_the_time_is_quarter",
-    "visual": {
-      "type": "none",
-      "alt_text": "During sport, the time is quarter to 6. Where is the minute hand?"
-    },
-    "question": "During sport, the time is quarter to 6. Where is the minute hand?",
-    "audio_prompt": "During sport, the time is quarter to 6. Where is the minute hand?",
-    "answers": [
-      {
-        "text": "6",
-        "is_correct": false
-      },
-      {
-        "text": "9",
-        "is_correct": true
-      },
-      {
-        "text": "3",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "The minute hand shows quarter past, half past or quarter to.",
-      "hint": "Use the information in the question to check your answer."
-    }
-  },
-  {
-    "id": "AC9M2M04-P-031",
-    "subject": "math",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9M2M04",
-    "bank": "practice",
-    "skill": "at_the_class_shop_the_time",
-    "visual": {
-      "type": "none",
-      "alt_text": "At the class shop, the time is quarter past 7. Where is the minute hand?"
-    },
-    "question": "At the class shop, the time is quarter past 7. Where is the minute hand?",
-    "audio_prompt": "At the class shop, the time is quarter past 7. Where is the minute hand?",
-    "answers": [
-      {
-        "text": "3",
-        "is_correct": true
-      },
-      {
-        "text": "6",
-        "is_correct": false
-      },
-      {
-        "text": "9",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "The minute hand shows quarter past, half past or quarter to.",
-      "hint": "Use the information in the question to check your answer."
-    }
-  },
-  {
-    "id": "AC9M2M04-P-032",
-    "subject": "math",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9M2M04",
-    "bank": "practice",
-    "skill": "on_the_picnic_rug_the_time",
-    "visual": {
-      "type": "none",
-      "alt_text": "On the picnic rug, the time is half past 8. Where is the minute hand?"
-    },
-    "question": "On the picnic rug, the time is half past 8. Where is the minute hand?",
-    "audio_prompt": "On the picnic rug, the time is half past 8. Where is the minute hand?",
-    "answers": [
-      {
-        "text": "3",
-        "is_correct": false
-      },
-      {
-        "text": "12",
-        "is_correct": false
-      },
-      {
-        "text": "6",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "The minute hand shows quarter past, half past or quarter to.",
-      "hint": "Use the information in the question to check your answer."
-    }
-  },
-  {
-    "id": "AC9M2M04-P-033",
-    "subject": "math",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9M2M04",
-    "bank": "practice",
-    "skill": "at_the_block_table_the_time",
-    "visual": {
-      "type": "none",
-      "alt_text": "At the block table, the time is quarter to 9. Where is the minute hand?"
-    },
-    "question": "At the block table, the time is quarter to 9. Where is the minute hand?",
-    "audio_prompt": "At the block table, the time is quarter to 9. Where is the minute hand?",
-    "answers": [
-      {
-        "text": "6",
-        "is_correct": false
-      },
-      {
-        "text": "9",
-        "is_correct": true
-      },
-      {
-        "text": "3",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "The minute hand shows quarter past, half past or quarter to.",
-      "hint": "Use the information in the question to check your answer."
-    }
-  },
-  {
-    "id": "AC9M2M04-P-034",
-    "subject": "math",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9M2M04",
-    "bank": "practice",
-    "skill": "in_the_lunch_area_the_time",
-    "visual": {
-      "type": "none",
-      "alt_text": "In the lunch area, the time is quarter past 10. Where is the minute hand?"
-    },
-    "question": "In the lunch area, the time is quarter past 10. Where is the minute hand?",
-    "audio_prompt": "In the lunch area, the time is quarter past 10. Where is the minute hand?",
-    "answers": [
-      {
-        "text": "3",
-        "is_correct": true
-      },
-      {
-        "text": "6",
-        "is_correct": false
-      },
-      {
-        "text": "9",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "The minute hand shows quarter past, half past or quarter to.",
-      "hint": "Use the information in the question to check your answer."
-    }
-  },
-  {
-    "id": "AC9M2M04-P-035",
-    "subject": "math",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9M2M04",
-    "bank": "practice",
-    "skill": "at_the_science_table_the_time",
-    "visual": {
-      "type": "none",
-      "alt_text": "At the science table, the time is half past 11. Where is the minute hand?"
-    },
-    "question": "At the science table, the time is half past 11. Where is the minute hand?",
-    "audio_prompt": "At the science table, the time is half past 11. Where is the minute hand?",
-    "answers": [
-      {
-        "text": "3",
-        "is_correct": false
-      },
-      {
-        "text": "12",
-        "is_correct": false
-      },
-      {
-        "text": "6",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "The minute hand shows quarter past, half past or quarter to.",
-      "hint": "Use the information in the question to check your answer."
-    }
-  },
-  {
-    "id": "AC9M2M04-P-036",
-    "subject": "math",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9M2M04",
-    "bank": "practice",
-    "skill": "during_a_card_game_the_time",
-    "visual": {
-      "type": "none",
-      "alt_text": "During a card game, the time is quarter to 12. Where is the minute hand?"
-    },
-    "question": "During a card game, the time is quarter to 12. Where is the minute hand?",
-    "audio_prompt": "During a card game, the time is quarter to 12. Where is the minute hand?",
-    "answers": [
-      {
-        "text": "6",
-        "is_correct": false
-      },
-      {
-        "text": "9",
-        "is_correct": true
-      },
-      {
-        "text": "3",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "The minute hand shows quarter past, half past or quarter to.",
-      "hint": "Use the information in the question to check your answer."
-    }
-  },
-  {
-    "id": "AC9M2M04-P-037",
-    "subject": "math",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9M2M04",
-    "bank": "practice",
-    "skill": "at_the_school_garden_the_time",
-    "visual": {
-      "type": "none",
-      "alt_text": "At the school garden, the time is quarter past 1. Where is the minute hand?"
-    },
-    "question": "At the school garden, the time is quarter past 1. Where is the minute hand?",
-    "audio_prompt": "At the school garden, the time is quarter past 1. Where is the minute hand?",
-    "answers": [
-      {
-        "text": "3",
-        "is_correct": true
-      },
-      {
-        "text": "6",
-        "is_correct": false
-      },
-      {
-        "text": "9",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "The minute hand shows quarter past, half past or quarter to.",
-      "hint": "Use the information in the question to check your answer."
-    }
-  },
-  {
-    "id": "AC9M2M04-P-038",
-    "subject": "math",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9M2M04",
-    "bank": "practice",
-    "skill": "during_maths_groups_the_time_is",
-    "visual": {
-      "type": "none",
-      "alt_text": "During maths groups, the time is half past 2. Where is the minute hand?"
-    },
-    "question": "During maths groups, the time is half past 2. Where is the minute hand?",
-    "audio_prompt": "During maths groups, the time is half past 2. Where is the minute hand?",
-    "answers": [
-      {
-        "text": "3",
-        "is_correct": false
-      },
-      {
-        "text": "12",
-        "is_correct": false
-      },
-      {
-        "text": "6",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "The minute hand shows quarter past, half past or quarter to.",
-      "hint": "Use the information in the question to check your answer."
-    }
-  },
-  {
-    "id": "AC9M2M04-P-039",
-    "subject": "math",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9M2M04",
-    "bank": "practice",
-    "skill": "at_the_art_table_the_time",
-    "visual": {
-      "type": "none",
-      "alt_text": "At the art table, the time is quarter to 3. Where is the minute hand?"
-    },
-    "question": "At the art table, the time is quarter to 3. Where is the minute hand?",
-    "audio_prompt": "At the art table, the time is quarter to 3. Where is the minute hand?",
-    "answers": [
-      {
-        "text": "6",
-        "is_correct": false
-      },
-      {
-        "text": "9",
-        "is_correct": true
-      },
-      {
-        "text": "3",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "The minute hand shows quarter past, half past or quarter to.",
-      "hint": "Use the information in the question to check your answer."
-    }
-  },
-  {
-    "id": "AC9M2M04-P-040",
-    "subject": "math",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9M2M04",
-    "bank": "practice",
-    "skill": "in_the_playground_the_time_is",
-    "visual": {
-      "type": "none",
-      "alt_text": "In the playground, the time is quarter past 4. Where is the minute hand?"
-    },
-    "question": "In the playground, the time is quarter past 4. Where is the minute hand?",
-    "audio_prompt": "In the playground, the time is quarter past 4. Where is the minute hand?",
-    "answers": [
-      {
-        "text": "3",
-        "is_correct": true
-      },
-      {
-        "text": "6",
-        "is_correct": false
-      },
-      {
-        "text": "9",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "The minute hand shows quarter past, half past or quarter to.",
-      "hint": "Use the information in the question to check your answer."
-    }
-  },
-  {
-    "id": "AC9M2M04-P-041",
-    "subject": "math",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9M2M04",
-    "bank": "practice",
-    "skill": "at_the_library_the_time_is",
-    "visual": {
-      "type": "none",
-      "alt_text": "At the library, the time is half past 5. Where is the minute hand?"
-    },
-    "question": "At the library, the time is half past 5. Where is the minute hand?",
-    "audio_prompt": "At the library, the time is half past 5. Where is the minute hand?",
-    "answers": [
-      {
-        "text": "3",
-        "is_correct": false
-      },
-      {
-        "text": "12",
-        "is_correct": false
-      },
-      {
-        "text": "6",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "The minute hand shows quarter past, half past or quarter to.",
-      "hint": "Use the information in the question to check your answer."
-    }
-  },
-  {
-    "id": "AC9M2M04-P-042",
-    "subject": "math",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9M2M04",
-    "bank": "practice",
-    "skill": "during_sport_the_time_is_quarter",
-    "visual": {
-      "type": "none",
-      "alt_text": "During sport, the time is quarter to 6. Where is the minute hand?"
-    },
-    "question": "During sport, the time is quarter to 6. Where is the minute hand?",
-    "audio_prompt": "During sport, the time is quarter to 6. Where is the minute hand?",
-    "answers": [
-      {
-        "text": "6",
-        "is_correct": false
-      },
-      {
-        "text": "9",
-        "is_correct": true
-      },
-      {
-        "text": "3",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "The minute hand shows quarter past, half past or quarter to.",
-      "hint": "Use the information in the question to check your answer."
-    }
-  },
-  {
-    "id": "AC9M2M04-P-043",
-    "subject": "math",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9M2M04",
-    "bank": "practice",
-    "skill": "at_the_class_shop_the_time",
-    "visual": {
-      "type": "none",
-      "alt_text": "At the class shop, the time is quarter past 7. Where is the minute hand?"
-    },
-    "question": "At the class shop, the time is quarter past 7. Where is the minute hand?",
-    "audio_prompt": "At the class shop, the time is quarter past 7. Where is the minute hand?",
-    "answers": [
-      {
-        "text": "3",
-        "is_correct": true
-      },
-      {
-        "text": "6",
-        "is_correct": false
-      },
-      {
-        "text": "9",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "The minute hand shows quarter past, half past or quarter to.",
-      "hint": "Use the information in the question to check your answer."
-    }
-  },
-  {
-    "id": "AC9M2M04-P-044",
-    "subject": "math",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9M2M04",
-    "bank": "practice",
-    "skill": "on_the_picnic_rug_the_time",
-    "visual": {
-      "type": "none",
-      "alt_text": "On the picnic rug, the time is half past 8. Where is the minute hand?"
-    },
-    "question": "On the picnic rug, the time is half past 8. Where is the minute hand?",
-    "audio_prompt": "On the picnic rug, the time is half past 8. Where is the minute hand?",
-    "answers": [
-      {
-        "text": "3",
-        "is_correct": false
-      },
-      {
-        "text": "12",
-        "is_correct": false
-      },
-      {
-        "text": "6",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "The minute hand shows quarter past, half past or quarter to.",
-      "hint": "Use the information in the question to check your answer."
-    }
-  },
-  {
-    "id": "AC9M2M04-P-045",
-    "subject": "math",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9M2M04",
-    "bank": "practice",
-    "skill": "at_the_block_table_the_time",
-    "visual": {
-      "type": "none",
-      "alt_text": "At the block table, the time is quarter to 9. Where is the minute hand?"
-    },
-    "question": "At the block table, the time is quarter to 9. Where is the minute hand?",
-    "audio_prompt": "At the block table, the time is quarter to 9. Where is the minute hand?",
-    "answers": [
-      {
-        "text": "6",
-        "is_correct": false
-      },
-      {
-        "text": "9",
-        "is_correct": true
-      },
-      {
-        "text": "3",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "The minute hand shows quarter past, half past or quarter to.",
-      "hint": "Use the information in the question to check your answer."
-    }
-  },
-  {
-    "id": "AC9M2M04-P-046",
-    "subject": "math",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9M2M04",
-    "bank": "practice",
-    "skill": "in_the_lunch_area_the_time",
-    "visual": {
-      "type": "none",
-      "alt_text": "In the lunch area, the time is quarter past 10. Where is the minute hand?"
-    },
-    "question": "In the lunch area, the time is quarter past 10. Where is the minute hand?",
-    "audio_prompt": "In the lunch area, the time is quarter past 10. Where is the minute hand?",
-    "answers": [
-      {
-        "text": "3",
-        "is_correct": true
-      },
-      {
-        "text": "6",
-        "is_correct": false
-      },
-      {
-        "text": "9",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "The minute hand shows quarter past, half past or quarter to.",
-      "hint": "Use the information in the question to check your answer."
-    }
-  },
-  {
-    "id": "AC9M2M04-P-047",
-    "subject": "math",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9M2M04",
-    "bank": "practice",
-    "skill": "at_the_science_table_the_time",
-    "visual": {
-      "type": "none",
-      "alt_text": "At the science table, the time is half past 11. Where is the minute hand?"
-    },
-    "question": "At the science table, the time is half past 11. Where is the minute hand?",
-    "audio_prompt": "At the science table, the time is half past 11. Where is the minute hand?",
-    "answers": [
-      {
-        "text": "3",
-        "is_correct": false
-      },
-      {
-        "text": "12",
-        "is_correct": false
-      },
-      {
-        "text": "6",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "The minute hand shows quarter past, half past or quarter to.",
-      "hint": "Use the information in the question to check your answer."
-    }
-  },
-  {
-    "id": "AC9M2M04-P-048",
-    "subject": "math",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9M2M04",
-    "bank": "practice",
-    "skill": "during_a_card_game_the_time",
-    "visual": {
-      "type": "none",
-      "alt_text": "During a card game, the time is quarter to 12. Where is the minute hand?"
-    },
-    "question": "During a card game, the time is quarter to 12. Where is the minute hand?",
-    "audio_prompt": "During a card game, the time is quarter to 12. Where is the minute hand?",
-    "answers": [
-      {
-        "text": "6",
-        "is_correct": false
-      },
-      {
-        "text": "9",
-        "is_correct": true
-      },
-      {
-        "text": "3",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "The minute hand shows quarter past, half past or quarter to.",
-      "hint": "Use the information in the question to check your answer."
-    }
+    "grading_mode": "adult-review",
+    "model_answer": "Quarter to 3, or 2:45. Long hand at 9; short hand between 2 and 3, approaching 3.",
+    "acceptance_note": "Accept either time form with both hand roles correctly explained.",
+    "response_instructions": "Complete the task on paper or with materials, then ask an adult to check it.",
+    "completion_label": "Ready for adult review"
   },
   {
     "id": "AC9M2M04-T-001",
@@ -1669,32 +1014,40 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2M04",
     "bank": "test",
-    "skill": "read_analog_time",
+    "skill": "whole",
+    "question": "What is the time on this clock?",
+    "audio_prompt": "What is the time on this clock?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m04.svg#ac9m2m04-t-001",
-      "alt_text": "At sport time: Analog clock showing 5 o'clock."
+      "alt_text": "Analogue clock: short hand at the position for 8:00; long hand at 12.",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m04.svg?v=20260906-year2-pending-release#ac9m2m04-t-001"
     },
-    "question": "At sport time, what time does the clock show?",
-    "audio_prompt": "At sport time, what time does the clock show?",
     "answers": [
       {
-        "text": "5 o'clock",
+        "text": "12:40",
+        "is_correct": false
+      },
+      {
+        "text": "8:30",
+        "is_correct": false
+      },
+      {
+        "text": "8:00",
         "is_correct": true
-      },
-      {
-        "text": "half past 5",
-        "is_correct": false
-      },
-      {
-        "text": "quarter past 5",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "The minute hand shows o'clock, so the time is 5 o'clock.",
-      "hint": "Check the long minute hand first, then the short hour hand."
+      "summary": "The short hand is at 8; the long hand is at 12.",
+      "hint": "Use the information in the question and check each step."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 1,
+    "review": {
+      "status": "editorially-reviewed",
+      "version": "20260906-year2-pending-release",
+      "evidence_scope": "See 2026-09-06-year2-public-ixl-sweep.md. Original questions; worked examples and representative entry tasks reviewed, not exhaustive adaptive progression."
     }
   },
   {
@@ -1703,32 +1056,40 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2M04",
     "bank": "test",
-    "skill": "read_analog_time",
+    "skill": "half",
+    "question": "Which label matches the clock?",
+    "audio_prompt": "Which label matches the clock?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m04.svg#ac9m2m04-t-002",
-      "alt_text": "At sport time: Analog clock showing quarter past 5."
+      "alt_text": "Analogue clock: short hand at the position for 6:30; long hand at 6.",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m04.svg?v=20260906-year2-pending-release#ac9m2m04-t-002"
     },
-    "question": "At sport time, what time does the clock show?",
-    "audio_prompt": "At sport time, what time does the clock show?",
     "answers": [
       {
-        "text": "quarter to 5",
-        "is_correct": false
-      },
-      {
-        "text": "quarter past 5",
+        "text": "Half past 6",
         "is_correct": true
       },
       {
-        "text": "half past 5",
+        "text": "Half past 7",
+        "is_correct": false
+      },
+      {
+        "text": "6 o’clock",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "The minute hand shows quarter past, so the time is quarter past 5.",
-      "hint": "Check the long minute hand first, then the short hour hand."
+      "summary": "The short hand is halfway from 6 to 7; the long hand is at 6.",
+      "hint": "Use the information in the question and check each step."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 2,
+    "review": {
+      "status": "editorially-reviewed",
+      "version": "20260906-year2-pending-release",
+      "evidence_scope": "See 2026-09-06-year2-public-ixl-sweep.md. Original questions; worked examples and representative entry tasks reviewed, not exhaustive adaptive progression."
     }
   },
   {
@@ -1737,32 +1098,40 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2M04",
     "bank": "test",
-    "skill": "read_analog_time",
+    "skill": "past",
+    "question": "Read the clock in words.",
+    "audio_prompt": "Read the clock in words.",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m04.svg#ac9m2m04-t-003",
-      "alt_text": "At sport time: Analog clock showing half past 5."
+      "alt_text": "Analogue clock: short hand at the position for 4:15; long hand at 3.",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m04.svg?v=20260906-year2-pending-release#ac9m2m04-t-003"
     },
-    "question": "At sport time, what time does the clock show?",
-    "audio_prompt": "At sport time, what time does the clock show?",
     "answers": [
       {
-        "text": "5 o'clock",
+        "text": "Quarter to 4",
         "is_correct": false
       },
       {
-        "text": "quarter to 5",
-        "is_correct": false
-      },
-      {
-        "text": "half past 5",
+        "text": "Quarter past 4",
         "is_correct": true
+      },
+      {
+        "text": "Quarter past 3",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "The minute hand shows half past, so the time is half past 5.",
-      "hint": "Check the long minute hand first, then the short hour hand."
+      "summary": "The long hand is at 3 and the short hand is just past 4.",
+      "hint": "Use the information in the question and check each step."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 3,
+    "review": {
+      "status": "editorially-reviewed",
+      "version": "20260906-year2-pending-release",
+      "evidence_scope": "See 2026-09-06-year2-public-ixl-sweep.md. Original questions; worked examples and representative entry tasks reviewed, not exhaustive adaptive progression."
     }
   },
   {
@@ -1771,32 +1140,40 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2M04",
     "bank": "test",
-    "skill": "read_analog_time",
+    "skill": "to",
+    "question": "Which phrase describes this clock?",
+    "audio_prompt": "Which phrase describes this clock?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m04.svg#ac9m2m04-t-004",
-      "alt_text": "At sport time: Analog clock showing quarter to 6."
+      "alt_text": "Analogue clock: short hand at the position for 8:45; long hand at 9.",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m04.svg?v=20260906-year2-pending-release#ac9m2m04-t-004"
     },
-    "question": "At sport time, what time does the clock show?",
-    "audio_prompt": "At sport time, what time does the clock show?",
     "answers": [
       {
-        "text": "quarter to 6",
+        "text": "Quarter past 8",
+        "is_correct": false
+      },
+      {
+        "text": "Quarter to 9",
         "is_correct": true
       },
       {
-        "text": "quarter past 5",
-        "is_correct": false
-      },
-      {
-        "text": "quarter to 5",
+        "text": "Quarter to 8",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "The minute hand shows quarter to, so the time is quarter to 6.",
-      "hint": "Check the long minute hand first, then the short hour hand."
+      "summary": "The next hour is 9, with a quarter-hour still to go.",
+      "hint": "Use the information in the question and check each step."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 4,
+    "review": {
+      "status": "editorially-reviewed",
+      "version": "20260906-year2-pending-release",
+      "evidence_scope": "See 2026-09-06-year2-public-ixl-sweep.md. Original questions; worked examples and representative entry tasks reviewed, not exhaustive adaptive progression."
     }
   },
   {
@@ -1805,32 +1182,40 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2M04",
     "bank": "test",
-    "skill": "locate_half_hour_minute_hand",
+    "skill": "digital",
+    "question": "Which digital time shows the same time?",
+    "audio_prompt": "Which digital time shows the same time?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m04.svg#ac9m2m04-t-005",
-      "alt_text": "At sport time: Analog clock showing half past 5, with the minute hand on 6."
+      "alt_text": "Analogue clock: short hand at the position for 10:30; long hand at 6.",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m04.svg?v=20260906-year2-pending-release#ac9m2m04-t-005"
     },
-    "question": "At sport time, where does the minute hand point at half past 5?",
-    "audio_prompt": "At sport time, where does the minute hand point at half past 5?",
     "answers": [
       {
-        "text": "3",
+        "text": "10:06",
         "is_correct": false
       },
       {
-        "text": "6",
+        "text": "11:30",
+        "is_correct": false
+      },
+      {
+        "text": "10:30",
         "is_correct": true
-      },
-      {
-        "text": "12",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "At half past, 30 minutes have passed, so the minute hand points to 6.",
-      "hint": "Halfway around the clock face lands on 6."
+      "summary": "The hour already passed is 10 and the minute hand shows 30.",
+      "hint": "Use the information in the question and check each step."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 5,
+    "review": {
+      "status": "editorially-reviewed",
+      "version": "20260906-year2-pending-release",
+      "evidence_scope": "See 2026-09-06-year2-public-ixl-sweep.md. Original questions; worked examples and representative entry tasks reviewed, not exhaustive adaptive progression."
     }
   },
   {
@@ -1839,32 +1224,40 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2M04",
     "bank": "test",
-    "skill": "locate_quarter_past_hand",
+    "skill": "twelve_past",
+    "question": "What time is shown?",
+    "audio_prompt": "What time is shown?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m04.svg#ac9m2m04-t-006",
-      "alt_text": "At sport time: Analog clock showing quarter past 5, with the minute hand on 3."
+      "alt_text": "Analogue clock: short hand at the position for 12:15; long hand at 3.",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m04.svg?v=20260906-year2-pending-release#ac9m2m04-t-006"
     },
-    "question": "At sport time, where does the minute hand point at quarter past 5?",
-    "audio_prompt": "At sport time, where does the minute hand point at quarter past 5?",
     "answers": [
       {
-        "text": "6",
-        "is_correct": false
-      },
-      {
-        "text": "9",
-        "is_correct": false
-      },
-      {
-        "text": "3",
+        "text": "12:15",
         "is_correct": true
+      },
+      {
+        "text": "1:15",
+        "is_correct": false
+      },
+      {
+        "text": "12:03",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "A quarter of the way around the clock is 15 minutes, at the 3.",
-      "hint": "Start at 12 and move one quarter-turn clockwise."
+      "summary": "The short hand is just past 12; the long hand at 3 means 15 minutes.",
+      "hint": "Use the information in the question and check each step."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 6,
+    "review": {
+      "status": "editorially-reviewed",
+      "version": "20260906-year2-pending-release",
+      "evidence_scope": "See 2026-09-06-year2-public-ixl-sweep.md. Original questions; worked examples and representative entry tasks reviewed, not exhaustive adaptive progression."
     }
   },
   {
@@ -1873,32 +1266,39 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2M04",
     "bank": "test",
-    "skill": "read_quarter_to",
+    "skill": "hour_position",
+    "question": "At quarter to 5, where is the short hand?",
+    "audio_prompt": "At quarter to 5, where is the short hand?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m04.svg#ac9m2m04-t-007",
-      "alt_text": "At sport time: Analog clock showing quarter to 6."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "At sport time, the minute hand points to 9 and the hour hand is nearly at 6. What time is it?",
-    "audio_prompt": "At sport time, the minute hand points to 9 and the hour hand is nearly at 6. What time is it?",
     "answers": [
       {
-        "text": "quarter to 6",
+        "text": "Between 4 and 5, nearer 5",
         "is_correct": true
       },
       {
-        "text": "quarter past 5",
+        "text": "Exactly on 5",
         "is_correct": false
       },
       {
-        "text": "half past 5",
+        "text": "Between 5 and 6",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "The 9 means quarter to the next hour, which is 6.",
-      "hint": "When the minute hand is on 9, name the hour that is coming next."
+      "summary": "Quarter to 5 is 4:45; the hour hand approaches 5.",
+      "hint": "Use the information in the question and check each step."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "sequence_priority": 7,
+    "review": {
+      "status": "editorially-reviewed",
+      "version": "20260906-year2-pending-release",
+      "evidence_scope": "See 2026-09-06-year2-public-ixl-sweep.md. Original questions; worked examples and representative entry tasks reviewed, not exhaustive adaptive progression."
     }
   },
   {
@@ -1907,32 +1307,39 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2M04",
     "bank": "test",
-    "skill": "distinguish_clock_hands",
+    "skill": "minute_role",
+    "question": "At 7:30, which number does the long hand point to?",
+    "audio_prompt": "At 7:30, which number does the long hand point to?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m04.svg#ac9m2m04-t-008",
-      "alt_text": "At sport time: Analog clock with a long minute hand and a shorter hour hand."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "At sport time, which clock hand tells whether it is o'clock, half past or quarter past?",
-    "audio_prompt": "At sport time, which clock hand tells whether it is o'clock, half past or quarter past?",
     "answers": [
       {
-        "text": "The hour hand only",
+        "text": "7",
         "is_correct": false
       },
       {
-        "text": "The minute hand",
+        "text": "3",
+        "is_correct": false
+      },
+      {
+        "text": "6",
         "is_correct": true
-      },
-      {
-        "text": "The second hand",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "The long minute hand shows how far the hour has passed.",
-      "hint": "Look for the hand that points to 12, 3, 6 or 9 for these times."
+      "summary": "Thirty minutes is halfway round from 12 to 6.",
+      "hint": "Use the information in the question and check each step."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "sequence_priority": 8,
+    "review": {
+      "status": "editorially-reviewed",
+      "version": "20260906-year2-pending-release",
+      "evidence_scope": "See 2026-09-06-year2-public-ixl-sweep.md. Original questions; worked examples and representative entry tasks reviewed, not exhaustive adaptive progression."
     }
   },
   {
@@ -1941,32 +1348,40 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2M04",
     "bank": "test",
-    "skill": "read_analog_time",
+    "skill": "read_to",
+    "question": "A child says this clock is 4:45. What is the correct reading?",
+    "audio_prompt": "A child says this clock is 4:45. What is the correct reading?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m04.svg#ac9m2m04-t-009",
-      "alt_text": "At home time: Analog clock showing 6 o'clock."
+      "alt_text": "Analogue clock: short hand at the position for 3:45; long hand at 9.",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m04.svg?v=20260906-year2-pending-release#ac9m2m04-t-009"
     },
-    "question": "At home time, what time does the clock show?",
-    "audio_prompt": "At home time, what time does the clock show?",
     "answers": [
       {
-        "text": "half past 6",
+        "text": "4:15",
         "is_correct": false
       },
       {
-        "text": "quarter past 6",
-        "is_correct": false
-      },
-      {
-        "text": "6 o'clock",
+        "text": "3:45",
         "is_correct": true
+      },
+      {
+        "text": "3:30",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "The minute hand shows o'clock, so the time is 6 o'clock.",
-      "hint": "Check the long minute hand first, then the short hour hand."
+      "summary": "The short hand has passed 3 but not reached 4; the long hand is at 9.",
+      "hint": "Use the information in the question and check each step."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "sequence_priority": 9,
+    "review": {
+      "status": "editorially-reviewed",
+      "version": "20260906-year2-pending-release",
+      "evidence_scope": "See 2026-09-06-year2-public-ixl-sweep.md. Original questions; worked examples and representative entry tasks reviewed, not exhaustive adaptive progression."
     }
   },
   {
@@ -1975,32 +1390,39 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2M04",
     "bank": "test",
-    "skill": "read_analog_time",
+    "skill": "matching_phrase",
+    "question": "Which time means quarter past 9?",
+    "audio_prompt": "Which time means quarter past 9?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m04.svg#ac9m2m04-t-010",
-      "alt_text": "At home time: Analog clock showing quarter past 6."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "At home time, what time does the clock show?",
-    "audio_prompt": "At home time, what time does the clock show?",
     "answers": [
       {
-        "text": "quarter past 6",
+        "text": "9:15",
         "is_correct": true
       },
       {
-        "text": "quarter to 6",
+        "text": "9:45",
         "is_correct": false
       },
       {
-        "text": "half past 6",
+        "text": "9:30",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "The minute hand shows quarter past, so the time is quarter past 6.",
-      "hint": "Check the long minute hand first, then the short hour hand."
+      "summary": "A quarter-hour after 9 is 15 minutes after 9.",
+      "hint": "Use the information in the question and check each step."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "sequence_priority": 10,
+    "review": {
+      "status": "editorially-reviewed",
+      "version": "20260906-year2-pending-release",
+      "evidence_scope": "See 2026-09-06-year2-public-ixl-sweep.md. Original questions; worked examples and representative entry tasks reviewed, not exhaustive adaptive progression."
     }
   },
   {
@@ -2009,32 +1431,39 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2M04",
     "bank": "test",
-    "skill": "read_analog_time",
+    "skill": "whole_or_half",
+    "question": "How do the minute hands differ at 2:00 and 2:30?",
+    "audio_prompt": "How do the minute hands differ at 2:00 and 2:30?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m04.svg#ac9m2m04-t-011",
-      "alt_text": "At home time: Analog clock showing half past 6."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "At home time, what time does the clock show?",
-    "audio_prompt": "At home time, what time does the clock show?",
     "answers": [
       {
-        "text": "6 o'clock",
+        "text": "They point to 2 and 3",
         "is_correct": false
       },
       {
-        "text": "half past 6",
+        "text": "They point to 12 and 6",
         "is_correct": true
       },
       {
-        "text": "quarter to 6",
+        "text": "They both point to 2",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "The minute hand shows half past, so the time is half past 6.",
-      "hint": "Check the long minute hand first, then the short hour hand."
+      "summary": "Zero minutes is shown at 12; thirty minutes is shown at 6.",
+      "hint": "Use the information in the question and check each step."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "sequence_priority": 11,
+    "review": {
+      "status": "editorially-reviewed",
+      "version": "20260906-year2-pending-release",
+      "evidence_scope": "See 2026-09-06-year2-public-ixl-sweep.md. Original questions; worked examples and representative entry tasks reviewed, not exhaustive adaptive progression."
     }
   },
   {
@@ -2043,32 +1472,40 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2M04",
     "bank": "test",
-    "skill": "read_analog_time",
+    "skill": "boundary_to",
+    "question": "This clock is a quarter-hour before which whole hour?",
+    "audio_prompt": "This clock is a quarter-hour before which whole hour?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m04.svg#ac9m2m04-t-012",
-      "alt_text": "At home time: Analog clock showing quarter to 7."
+      "alt_text": "Analogue clock: short hand at the position for 6:45; long hand at 9.",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m04.svg?v=20260906-year2-pending-release#ac9m2m04-t-012"
     },
-    "question": "At home time, what time does the clock show?",
-    "audio_prompt": "At home time, what time does the clock show?",
     "answers": [
       {
-        "text": "quarter past 6",
+        "text": "6 o’clock",
         "is_correct": false
       },
       {
-        "text": "quarter to 6",
+        "text": "8 o’clock",
         "is_correct": false
       },
       {
-        "text": "quarter to 7",
+        "text": "7 o’clock",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "The minute hand shows quarter to, so the time is quarter to 7.",
-      "hint": "Check the long minute hand first, then the short hour hand."
+      "summary": "It shows 6:45, which is quarter to 7.",
+      "hint": "Use the information in the question and check each step."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "sequence_priority": 12,
+    "review": {
+      "status": "editorially-reviewed",
+      "version": "20260906-year2-pending-release",
+      "evidence_scope": "See 2026-09-06-year2-public-ixl-sweep.md. Original questions; worked examples and representative entry tasks reviewed, not exhaustive adaptive progression."
     }
   },
   {
@@ -2077,32 +1514,39 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2M04",
     "bank": "test",
-    "skill": "locate_half_hour_minute_hand",
+    "skill": "explain_minutes",
+    "question": "A learner reads the long hand on 3 as 3 minutes. What should they use for a quarter-past time?",
+    "audio_prompt": "A learner reads the long hand on 3 as 3 minutes. What should they use for a quarter-past time?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m04.svg#ac9m2m04-t-013",
-      "alt_text": "At home time: Analog clock showing half past 6, with the minute hand on 6."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "At home time, where does the minute hand point at half past 6?",
-    "audio_prompt": "At home time, where does the minute hand point at half past 6?",
     "answers": [
       {
-        "text": "6",
+        "text": "30 minutes",
+        "is_correct": false
+      },
+      {
+        "text": "45 minutes",
+        "is_correct": false
+      },
+      {
+        "text": "15 minutes",
         "is_correct": true
-      },
-      {
-        "text": "3",
-        "is_correct": false
-      },
-      {
-        "text": "12",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "At half past, 30 minutes have passed, so the minute hand points to 6.",
-      "hint": "Halfway around the clock face lands on 6."
+      "summary": "The numeral 3 marks a quarter of the minute hand’s full journey.",
+      "hint": "Use the information in the question and check each step."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "reason",
+    "sequence_priority": 13,
+    "review": {
+      "status": "editorially-reviewed",
+      "version": "20260906-year2-pending-release",
+      "evidence_scope": "See 2026-09-06-year2-public-ixl-sweep.md. Original questions; worked examples and representative entry tasks reviewed, not exhaustive adaptive progression."
     }
   },
   {
@@ -2111,32 +1555,39 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2M04",
     "bank": "test",
-    "skill": "locate_quarter_past_hand",
+    "skill": "draw_error",
+    "question": "A clock labelled 11:15 has the long hand at 3. Which short-hand position is correct?",
+    "audio_prompt": "A clock labelled 11:15 has the long hand at 3. Which short-hand position is correct?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m04.svg#ac9m2m04-t-014",
-      "alt_text": "At home time: Analog clock showing quarter past 6, with the minute hand on 3."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "At home time, where does the minute hand point at quarter past 6?",
-    "audio_prompt": "At home time, where does the minute hand point at quarter past 6?",
     "answers": [
       {
-        "text": "6",
-        "is_correct": false
-      },
-      {
-        "text": "3",
+        "text": "A little past 11",
         "is_correct": true
       },
       {
-        "text": "9",
+        "text": "Exactly on 3",
+        "is_correct": false
+      },
+      {
+        "text": "Halfway between 11 and 12",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "A quarter of the way around the clock is 15 minutes, at the 3.",
-      "hint": "Start at 12 and move one quarter-turn clockwise."
+      "summary": "At quarter past, the hour hand has moved a quarter of the way to the next numeral.",
+      "hint": "Use the information in the question and check each step."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "reason",
+    "sequence_priority": 14,
+    "review": {
+      "status": "editorially-reviewed",
+      "version": "20260906-year2-pending-release",
+      "evidence_scope": "See 2026-09-06-year2-public-ixl-sweep.md. Original questions; worked examples and representative entry tasks reviewed, not exhaustive adaptive progression."
     }
   },
   {
@@ -2145,33 +1596,46 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2M04",
     "bank": "test",
-    "skill": "read_quarter_to",
+    "skill": "read_explain",
+    "question": "Write the time shown and explain why the hour is not 6.",
+    "audio_prompt": "Write the time shown and explain why the hour is not 6.",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m04.svg#ac9m2m04-t-015",
-      "alt_text": "At home time: Analog clock showing quarter to 7."
+      "alt_text": "Analogue clock: short hand at the position for 5:30; long hand at 6.",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m04.svg?v=20260906-year2-pending-release#ac9m2m04-t-015"
     },
-    "question": "At home time, the minute hand points to 9 and the hour hand is nearly at 7. What time is it?",
-    "audio_prompt": "At home time, the minute hand points to 9 and the hour hand is nearly at 7. What time is it?",
     "answers": [
       {
-        "text": "quarter past 6",
+        "text": "Needs revision",
         "is_correct": false
       },
       {
-        "text": "half past 6",
-        "is_correct": false
-      },
-      {
-        "text": "quarter to 7",
+        "text": "Completed response",
         "is_correct": true
+      },
+      {
+        "text": "Not attempted",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "The 9 means quarter to the next hour, which is 7.",
-      "hint": "When the minute hand is on 9, name the hour that is coming next."
-    }
+      "summary": "5:30, or half past 5. The short hand is between 5 and 6 and has not reached 6.",
+      "hint": "Require the correct time and a valid explanation using the hour hand."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "reason",
+    "sequence_priority": 15,
+    "review": {
+      "status": "editorially-reviewed",
+      "version": "20260906-year2-pending-release",
+      "evidence_scope": "See 2026-09-06-year2-public-ixl-sweep.md. Original questions; worked examples and representative entry tasks reviewed, not exhaustive adaptive progression."
+    },
+    "grading_mode": "adult-review",
+    "model_answer": "5:30, or half past 5. The short hand is between 5 and 6 and has not reached 6.",
+    "acceptance_note": "Require the correct time and a valid explanation using the hour hand.",
+    "response_instructions": "Complete the task on paper or with materials, then ask an adult to check it.",
+    "completion_label": "Ready for adult review"
   },
   {
     "id": "AC9M2M04-T-016",
@@ -2179,32 +1643,44 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2M04",
     "bank": "test",
-    "skill": "distinguish_clock_hands",
+    "skill": "draw_quarter_to",
+    "question": "Draw a clock showing quarter to 2. Explain the long hand’s position.",
+    "audio_prompt": "Draw a clock showing quarter to 2. Explain the long hand’s position.",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m04.svg#ac9m2m04-t-016",
-      "alt_text": "At home time: Analog clock with a long minute hand and a shorter hour hand."
+      "type": "none",
+      "alt_text": ""
     },
-    "question": "At home time, which clock hand tells whether it is o'clock, half past or quarter past?",
-    "audio_prompt": "At home time, which clock hand tells whether it is o'clock, half past or quarter past?",
     "answers": [
       {
-        "text": "The minute hand",
+        "text": "Completed response",
         "is_correct": true
       },
       {
-        "text": "The hour hand only",
+        "text": "Needs revision",
         "is_correct": false
       },
       {
-        "text": "The second hand",
+        "text": "Not attempted",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "The long minute hand shows how far the hour has passed.",
-      "hint": "Look for the hand that points to 12, 3, 6 or 9 for these times."
-    }
+      "summary": "Long hand at 9; short hand between 1 and 2, nearer 2. The time is 1:45.",
+      "hint": "Check both hands. Accept an explanation that one quarter-hour remains until 2."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "reason",
+    "sequence_priority": 16,
+    "review": {
+      "status": "editorially-reviewed",
+      "version": "20260906-year2-pending-release",
+      "evidence_scope": "See 2026-09-06-year2-public-ixl-sweep.md. Original questions; worked examples and representative entry tasks reviewed, not exhaustive adaptive progression."
+    },
+    "grading_mode": "adult-review",
+    "model_answer": "Long hand at 9; short hand between 1 and 2, nearer 2. The time is 1:45.",
+    "acceptance_note": "Check both hands. Accept an explanation that one quarter-hour remains until 2.",
+    "response_instructions": "Complete the task on paper or with materials, then ask an adult to check it.",
+    "completion_label": "Ready for adult review"
   }
 ]

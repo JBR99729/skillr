@@ -4,31 +4,31 @@ window.skillrPracticeQuestions = [
     "id": "ac9m2m02-p-001",
     "curriculumCode": "AC9M2M02",
     "bank": "practice",
-    "skill": "recognise half in measure",
+    "skill": "half of object",
     "printable": true,
     "type": "single",
-    "question": "At lunch, which picture would show one half of the sandwich?",
-    "audioPrompt": "At lunch, which picture would show one half of the sandwich?",
-    "visual": "At lunch: One sandwich divided into 2 equal parts with 1 part shaded.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At lunch: One sandwich divided into 2 equal parts with 1 part shaded.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2m02.svg#ac9m2m02-p-001\"></use></svg>",
+    "question": "The sandwich is divided along its diagonal. What fraction is the coloured piece?",
+    "audioPrompt": "The sandwich is divided along its diagonal. What fraction is the coloured piece?",
+    "visual": "A square sandwich is divided diagonally into two matching triangles, with one coloured.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A square sandwich is divided diagonally into two matching triangles, with one coloured.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2m02.svg?v=20260906-year2-pending-release#ac9m2m02-p-001\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m02.svg#ac9m2m02-p-001",
-      "alt_text": "At lunch: One sandwich divided into 2 equal parts with 1 part shaded."
+      "alt_text": "A square sandwich is divided diagonally into two matching triangles, with one coloured.",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m02.svg?v=20260906-year2-pending-release#ac9m2m02-p-001"
     },
     "answers": [
-      "1 of 3 equal parts shaded",
-      "1 of 2 equal parts shaded",
-      "1 of 2 unequal parts shaded"
+      "One quarter",
+      "One half",
+      "One eighth"
     ],
     "difficulty": 1,
-    "difficultyTier": "confidence",
+    "difficultyTier": "recognise",
     "sequencePriority": 1,
     "correct": 1,
-    "explanation": "One half is one of 2 equal parts of the same whole.\nHint: Check the number of parts and whether they are equal.",
+    "explanation": "The diagonal divides the square sandwich into 2 equal-sized pieces. One piece is one half.\nHint: Look at the number of equal parts in the whole.",
     "structuredExplanation": {
-      "summary": "One half is one of 2 equal parts of the same whole.",
-      "hint": "Check the number of parts and whether they are equal."
+      "summary": "The diagonal divides the square sandwich into 2 equal-sized pieces. One piece is one half.",
+      "hint": "Look at the number of equal parts in the whole."
     },
     "qualitySchema": "production-v1"
   },
@@ -36,31 +36,31 @@ window.skillrPracticeQuestions = [
     "id": "ac9m2m02-p-002",
     "curriculumCode": "AC9M2M02",
     "bank": "practice",
-    "skill": "recognise quarter in measure",
+    "skill": "quarter of shape",
     "printable": true,
     "type": "single",
-    "question": "At lunch, the sandwich is cut into 4 equal pieces. What is one piece called?",
-    "audioPrompt": "At lunch, the sandwich is cut into 4 equal pieces. What is one piece called?",
-    "visual": "At lunch: One sandwich divided into 4 equal parts with 1 part shaded.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At lunch: One sandwich divided into 4 equal parts with 1 part shaded.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2m02.svg#ac9m2m02-p-002\"></use></svg>",
+    "question": "The square tile has 4 equal sections. What fraction of the tile is coloured?",
+    "audioPrompt": "The square tile has 4 equal sections. What fraction of the tile is coloured?",
+    "visual": "A square has four equal square sections, one coloured.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A square has four equal square sections, one coloured.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2m02.svg?v=20260906-year2-pending-release#ac9m2m02-p-002\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m02.svg#ac9m2m02-p-002",
-      "alt_text": "At lunch: One sandwich divided into 4 equal parts with 1 part shaded."
+      "alt_text": "A square has four equal square sections, one coloured.",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m02.svg?v=20260906-year2-pending-release#ac9m2m02-p-002"
     },
     "answers": [
+      "One quarter",
       "One half",
-      "One eighth",
-      "One quarter"
+      "One eighth"
     ],
     "difficulty": 1,
-    "difficultyTier": "confidence",
-    "sequencePriority": 1,
-    "correct": 2,
-    "explanation": "One of 4 equal parts is one quarter.\nHint: The fraction name tells how many equal parts make the whole.",
+    "difficultyTier": "recognise",
+    "sequencePriority": 2,
+    "correct": 0,
+    "explanation": "One of the 4 equal sections is coloured, so it is one quarter.\nHint: Count the equal sections, including the uncoloured ones.",
     "structuredExplanation": {
-      "summary": "One of 4 equal parts is one quarter.",
-      "hint": "The fraction name tells how many equal parts make the whole."
+      "summary": "One of the 4 equal sections is coloured, so it is one quarter.",
+      "hint": "Count the equal sections, including the uncoloured ones."
     },
     "qualitySchema": "production-v1"
   },
@@ -68,31 +68,31 @@ window.skillrPracticeQuestions = [
     "id": "ac9m2m02-p-003",
     "curriculumCode": "AC9M2M02",
     "bank": "practice",
-    "skill": "compose eighths",
+    "skill": "eighth of object",
     "printable": true,
     "type": "single",
-    "question": "At lunch, how many eighths make one whole sandwich?",
-    "audioPrompt": "At lunch, how many eighths make one whole sandwich?",
-    "visual": "At lunch: One sandwich divided into 8 equal parts.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At lunch: One sandwich divided into 8 equal parts.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2m02.svg#ac9m2m02-p-003\"></use></svg>",
+    "question": "A fruit bar is divided into the equal pieces shown. What fraction is one coloured piece?",
+    "audioPrompt": "A fruit bar is divided into the equal pieces shown. What fraction is one coloured piece?",
+    "visual": "A rectangular fruit bar has two rows of four equal pieces, one coloured.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A rectangular fruit bar has two rows of four equal pieces, one coloured.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2m02.svg?v=20260906-year2-pending-release#ac9m2m02-p-003\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m02.svg#ac9m2m02-p-003",
-      "alt_text": "At lunch: One sandwich divided into 8 equal parts."
+      "alt_text": "A rectangular fruit bar has two rows of four equal pieces, one coloured.",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m02.svg?v=20260906-year2-pending-release#ac9m2m02-p-003"
     },
     "answers": [
-      "8",
-      "4",
-      "2"
+      "One quarter",
+      "One half",
+      "One eighth"
     ],
     "difficulty": 1,
-    "difficultyTier": "confidence",
-    "sequencePriority": 1,
-    "correct": 0,
-    "explanation": "Eight one-eighth parts join to make one whole.\nHint: Count all the equal pieces in the whole.",
+    "difficultyTier": "recognise",
+    "sequencePriority": 3,
+    "correct": 2,
+    "explanation": "The whole bar has 8 equal pieces. Each piece is one eighth.\nHint: Count all the equal pieces in the bar.",
     "structuredExplanation": {
-      "summary": "Eight one-eighth parts join to make one whole.",
-      "hint": "Count all the equal pieces in the whole."
+      "summary": "The whole bar has 8 equal pieces. Each piece is one eighth.",
+      "hint": "Count all the equal pieces in the bar."
     },
     "qualitySchema": "production-v1"
   },
@@ -100,31 +100,31 @@ window.skillrPracticeQuestions = [
     "id": "ac9m2m02-p-004",
     "curriculumCode": "AC9M2M02",
     "bank": "practice",
-    "skill": "compare fraction units",
+    "skill": "equal parts error",
     "printable": true,
     "type": "single",
-    "question": "At lunch, which is smaller: one quarter or one eighth of the same sandwich?",
-    "audioPrompt": "At lunch, which is smaller: one quarter or one eighth of the same sandwich?",
-    "visual": "At lunch: The same-size sandwich shown once in quarters and once in eighths.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At lunch: The same-size sandwich shown once in quarters and once in eighths.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2m02.svg#ac9m2m02-p-004\"></use></svg>",
+    "question": "A cake is cut into the 4 pieces shown. Are all the pieces quarters?",
+    "audioPrompt": "A cake is cut into the 4 pieces shown. Are all the pieces quarters?",
+    "visual": "A rectangular cake has four strips with widths in the ratio 1, 1, 2 and 4.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A rectangular cake has four strips with widths in the ratio 1, 1, 2 and 4.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2m02.svg?v=20260906-year2-pending-release#ac9m2m02-p-004\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m02.svg#ac9m2m02-p-004",
-      "alt_text": "At lunch: The same-size sandwich shown once in quarters and once in eighths."
+      "alt_text": "A rectangular cake has four strips with widths in the ratio 1, 1, 2 and 4.",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m02.svg?v=20260906-year2-pending-release#ac9m2m02-p-004"
     },
     "answers": [
-      "One quarter",
-      "One eighth",
-      "They are the same size"
+      "Yes; any 4 pieces are quarters",
+      "No; quarters need 8 pieces",
+      "No; the pieces are not equal in size"
     ],
     "difficulty": 1,
-    "difficultyTier": "confidence",
-    "sequencePriority": 1,
-    "correct": 1,
-    "explanation": "When the same whole is split into more equal parts, each part is smaller.\nHint: Compare 4 equal cuts with 8 equal cuts.",
+    "difficultyTier": "recognise",
+    "sequencePriority": 4,
+    "correct": 2,
+    "explanation": "Four pieces are quarters only when they are equal-sized parts of the same whole.\nHint: Compare the widths of these pieces.",
     "structuredExplanation": {
-      "summary": "When the same whole is split into more equal parts, each part is smaller.",
-      "hint": "Compare 4 equal cuts with 8 equal cuts."
+      "summary": "Four pieces are quarters only when they are equal-sized parts of the same whole.",
+      "hint": "Compare the widths of these pieces."
     },
     "qualitySchema": "production-v1"
   },
@@ -132,31 +132,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m2m02-p-005",
     "curriculumCode": "AC9M2M02",
     "bank": "practice",
-    "skill": "connect fraction to time",
+    "skill": "make halves",
     "printable": true,
     "type": "single",
-    "question": "At lunch, a timer shows half an hour. How many equal half-hours make one hour?",
-    "audioPrompt": "At lunch, a timer shows half an hour. How many equal half-hours make one hour?",
-    "visual": "At lunch: One hour bar divided into 2 equal half-hour parts.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At lunch: One hour bar divided into 2 equal half-hour parts.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2m02.svg#ac9m2m02-p-005\"></use></svg>",
+    "question": "You fold a rectangular card to make 2 equal parts. Where should the fold go?",
+    "audioPrompt": "You fold a rectangular card to make 2 equal parts. Where should the fold go?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m02.svg#ac9m2m02-p-005",
-      "alt_text": "At lunch: One hour bar divided into 2 equal half-hour parts."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "4",
-      "8",
-      "2"
+      "Very close to one edge",
+      "Through the middle, with opposite edges meeting",
+      "Anywhere, as long as there is one fold"
     ],
     "difficulty": 1,
-    "difficultyTier": "confidence",
-    "sequencePriority": 1,
-    "correct": 2,
-    "explanation": "Two half-hours join to make one whole hour.\nHint: Think of an hour split into 2 equal time parts.",
+    "difficultyTier": "recognise",
+    "sequencePriority": 5,
+    "correct": 1,
+    "explanation": "Bringing opposite edges together makes a fold through the middle and two matching halves.\nHint: Both parts must cover the same amount of card.",
     "structuredExplanation": {
-      "summary": "Two half-hours join to make one whole hour.",
-      "hint": "Think of an hour split into 2 equal time parts."
+      "summary": "Bringing opposite edges together makes a fold through the middle and two matching halves.",
+      "hint": "Both parts must cover the same amount of card."
     },
     "qualitySchema": "production-v1"
   },
@@ -164,31 +163,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m2m02-p-006",
     "curriculumCode": "AC9M2M02",
     "bank": "practice",
-    "skill": "connect fraction to turn",
+    "skill": "common use quarters",
     "printable": true,
     "type": "single",
-    "question": "At lunch, a full turn is split into 4 equal turns. What is each turn?",
-    "audioPrompt": "At lunch, a full turn is split into 4 equal turns. What is each turn?",
-    "visual": "At lunch: An arrow making one quarter of a full turn from north to east.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At lunch: An arrow making one quarter of a full turn from north to east.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2m02.svg#ac9m2m02-p-006\"></use></svg>",
+    "question": "Four people share one flatbread equally, with none left over. What fraction of the flatbread does each receive?",
+    "audioPrompt": "Four people share one flatbread equally, with none left over. What fraction of the flatbread does each receive?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m02.svg#ac9m2m02-p-006",
-      "alt_text": "At lunch: An arrow making one quarter of a full turn from north to east."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "A quarter turn",
-      "A half turn",
-      "An eighth turn"
+      "One quarter",
+      "One half",
+      "One eighth"
     ],
     "difficulty": 1,
-    "difficultyTier": "confidence",
-    "sequencePriority": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 6,
     "correct": 0,
-    "explanation": "Four equal quarter turns make one full turn.\nHint: The whole turn is divided into 4 equal parts.",
+    "explanation": "Each person receives one of 4 equal shares of the whole flatbread.\nHint: The whole is one flatbread.",
     "structuredExplanation": {
-      "summary": "Four equal quarter turns make one full turn.",
-      "hint": "The whole turn is divided into 4 equal parts."
+      "summary": "Each person receives one of 4 equal shares of the whole flatbread.",
+      "hint": "The whole is one flatbread."
     },
     "qualitySchema": "production-v1"
   },
@@ -196,31 +194,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m2m02-p-007",
     "curriculumCode": "AC9M2M02",
     "bank": "practice",
-    "skill": "identify equal quarters",
+    "skill": "common use eighths",
     "printable": true,
     "type": "single",
-    "question": "At lunch, which sharing shows quarters of one sandwich?",
-    "audioPrompt": "At lunch, which sharing shows quarters of one sandwich?",
-    "visual": "At lunch: One sandwich divided into 4 equal sections.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At lunch: One sandwich divided into 4 equal sections.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2m02.svg#ac9m2m02-p-007\"></use></svg>",
+    "question": "One tray of slice is cut into 8 equal portions for 8 people. What does “one eighth” mean here?",
+    "audioPrompt": "One tray of slice is cut into 8 equal portions for 8 people. What does “one eighth” mean here?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m02.svg#ac9m2m02-p-007",
-      "alt_text": "At lunch: One sandwich divided into 4 equal sections."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "4 different-sized shares",
-      "4 equal shares",
-      "2 equal shares"
+      "All 8 portions together",
+      "One person’s portion",
+      "Any 2 portions together"
     ],
     "difficulty": 1,
-    "difficultyTier": "confidence",
-    "sequencePriority": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 7,
     "correct": 1,
-    "explanation": "Quarters must be 4 equal parts of one whole.\nHint: Count the shares, then check they are equal.",
+    "explanation": "One eighth is one of the tray’s 8 equal portions. All 8 portions make the whole tray.\nHint: Identify the whole before naming a part.",
     "structuredExplanation": {
-      "summary": "Quarters must be 4 equal parts of one whole.",
-      "hint": "Count the shares, then check they are equal."
+      "summary": "One eighth is one of the tray’s 8 equal portions. All 8 portions make the whole tray.",
+      "hint": "Identify the whole before naming a part."
     },
     "qualitySchema": "production-v1"
   },
@@ -228,31 +225,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m2m02-p-008",
     "curriculumCode": "AC9M2M02",
     "bank": "practice",
-    "skill": "make eighths by halving",
+    "skill": "half hour meaning",
     "printable": true,
     "type": "single",
-    "question": "At lunch, the sandwich is folded in half three times. How many equal parts are made?",
-    "audioPrompt": "At lunch, the sandwich is folded in half three times. How many equal parts are made?",
-    "visual": "At lunch: One sandwich divided into 8 equal parts after three halvings.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At lunch: One sandwich divided into 8 equal parts after three halvings.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2m02.svg#ac9m2m02-p-008\"></use></svg>",
+    "question": "A music session lasts one hour. A break begins halfway through. What fraction of the hour has passed?",
+    "audioPrompt": "A music session lasts one hour. A break begins halfway through. What fraction of the hour has passed?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m02.svg#ac9m2m02-p-008",
-      "alt_text": "At lunch: One sandwich divided into 8 equal parts after three halvings."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "6",
-      "4",
-      "8"
+      "One quarter",
+      "One eighth",
+      "One half"
     ],
     "difficulty": 1,
-    "difficultyTier": "confidence",
-    "sequencePriority": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 8,
     "correct": 2,
-    "explanation": "Repeated halving makes 2, then 4, then 8 equal parts.\nHint: Double the number of parts after every fold.",
+    "explanation": "Halfway divides the hour into 2 equal durations. One has passed and one remains.\nHint: Think of two equal parts of the session.",
     "structuredExplanation": {
-      "summary": "Repeated halving makes 2, then 4, then 8 equal parts.",
-      "hint": "Double the number of parts after every fold."
+      "summary": "Halfway divides the hour into 2 equal durations. One has passed and one remains.",
+      "hint": "Think of two equal parts of the session."
     },
     "qualitySchema": "production-v1"
   },
@@ -260,30 +256,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m2m02-p-009",
     "curriculumCode": "AC9M2M02",
     "bank": "practice",
-    "skill": "recognise half in measure",
+    "skill": "quarter event",
     "printable": true,
     "type": "single",
-    "question": "At the paper table, which picture would show one half of the paper square?",
-    "audioPrompt": "At the paper table, which picture would show one half of the paper square?",
-    "visual": "At the paper table: One paper square divided into 2 equal parts with 1 part shaded.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the paper table: One paper square divided into 2 equal parts with 1 part shaded.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2m02.svg#ac9m2m02-p-009\"></use></svg>",
+    "question": "A game has 4 periods of equal length. What fraction of the playing time is one period?",
+    "audioPrompt": "A game has 4 periods of equal length. What fraction of the playing time is one period?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m02.svg#ac9m2m02-p-009",
-      "alt_text": "At the paper table: One paper square divided into 2 equal parts with 1 part shaded."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "1 of 2 equal parts shaded",
-      "1 of 3 equal parts shaded",
-      "1 of 2 unequal parts shaded"
+      "One quarter",
+      "One half",
+      "One eighth"
     ],
-    "difficulty": 3,
-    "sequencePriority": 2,
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 9,
     "correct": 0,
-    "explanation": "One half is one of 2 equal parts of the same whole.\nHint: Check the number of parts and whether they are equal.",
+    "explanation": "One period is one of 4 equal parts of the total playing time.\nHint: The periods must last equally long.",
     "structuredExplanation": {
-      "summary": "One half is one of 2 equal parts of the same whole.",
-      "hint": "Check the number of parts and whether they are equal."
+      "summary": "One period is one of 4 equal parts of the total playing time.",
+      "hint": "The periods must last equally long."
     },
     "qualitySchema": "production-v1"
   },
@@ -291,30 +287,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m2m02-p-010",
     "curriculumCode": "AC9M2M02",
     "bank": "practice",
-    "skill": "recognise quarter in measure",
+    "skill": "eighth event",
     "printable": true,
     "type": "single",
-    "question": "At the paper table, the paper square is cut into 4 equal pieces. What is one piece called?",
-    "audioPrompt": "At the paper table, the paper square is cut into 4 equal pieces. What is one piece called?",
-    "visual": "At the paper table: One paper square divided into 4 equal parts with 1 part shaded.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the paper table: One paper square divided into 4 equal parts with 1 part shaded.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2m02.svg#ac9m2m02-p-010\"></use></svg>",
+    "question": "A dance routine has 8 sections that take equal time. One section is finished. What fraction of the routine’s time is finished?",
+    "audioPrompt": "A dance routine has 8 sections that take equal time. One section is finished. What fraction of the routine’s time is finished?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m02.svg#ac9m2m02-p-010",
-      "alt_text": "At the paper table: One paper square divided into 4 equal parts with 1 part shaded."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "One half",
+      "One eighth",
       "One quarter",
-      "One eighth"
+      "One half"
     ],
-    "difficulty": 3,
-    "sequencePriority": 2,
-    "correct": 1,
-    "explanation": "One of 4 equal parts is one quarter.\nHint: The fraction name tells how many equal parts make the whole.",
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 10,
+    "correct": 0,
+    "explanation": "One completed section out of 8 equal-duration sections is one eighth of the total time.\nHint: Count equal durations, not the number of different movements.",
     "structuredExplanation": {
-      "summary": "One of 4 equal parts is one quarter.",
-      "hint": "The fraction name tells how many equal parts make the whole."
+      "summary": "One completed section out of 8 equal-duration sections is one eighth of the total time.",
+      "hint": "Count equal durations, not the number of different movements."
     },
     "qualitySchema": "production-v1"
   },
@@ -322,30 +318,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m2m02-p-011",
     "curriculumCode": "AC9M2M02",
     "bank": "practice",
-    "skill": "compose eighths",
+    "skill": "represent half in quarters",
     "printable": true,
     "type": "single",
-    "question": "At the paper table, how many eighths make one whole paper square?",
-    "audioPrompt": "At the paper table, how many eighths make one whole paper square?",
-    "visual": "At the paper table: One paper square divided into 8 equal parts.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the paper table: One paper square divided into 8 equal parts.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2m02.svg#ac9m2m02-p-011\"></use></svg>",
+    "question": "One ribbon is marked into 4 equal lengths. How many of these lengths should be coloured to show half the ribbon?",
+    "audioPrompt": "One ribbon is marked into 4 equal lengths. How many of these lengths should be coloured to show half the ribbon?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m02.svg#ac9m2m02-p-011",
-      "alt_text": "At the paper table: One paper square divided into 8 equal parts."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "4",
-      "2",
-      "8"
+      "1 length",
+      "4 lengths",
+      "2 lengths"
     ],
-    "difficulty": 3,
-    "sequencePriority": 2,
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 11,
     "correct": 2,
-    "explanation": "Eight one-eighth parts join to make one whole.\nHint: Count all the equal pieces in the whole.",
+    "explanation": "Two quarter-lengths cover half of the ribbon, leaving two quarter-lengths uncoloured.\nHint: Make two equal groups of the four lengths.",
     "structuredExplanation": {
-      "summary": "Eight one-eighth parts join to make one whole.",
-      "hint": "Count all the equal pieces in the whole."
+      "summary": "Two quarter-lengths cover half of the ribbon, leaving two quarter-lengths uncoloured.",
+      "hint": "Make two equal groups of the four lengths."
     },
     "qualitySchema": "production-v1"
   },
@@ -353,30 +349,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m2m02-p-012",
     "curriculumCode": "AC9M2M02",
     "bank": "practice",
-    "skill": "compare fraction units",
+    "skill": "represent quarter in eighths",
     "printable": true,
     "type": "single",
-    "question": "At the paper table, which is smaller: one quarter or one eighth of the same paper square?",
-    "audioPrompt": "At the paper table, which is smaller: one quarter or one eighth of the same paper square?",
-    "visual": "At the paper table: The same-size paper square shown once in quarters and once in eighths.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the paper table: The same-size paper square shown once in quarters and once in eighths.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2m02.svg#ac9m2m02-p-012\"></use></svg>",
+    "question": "One chocolate bar has 8 equal squares. How many squares make one quarter of the bar?",
+    "audioPrompt": "One chocolate bar has 8 equal squares. How many squares make one quarter of the bar?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m02.svg#ac9m2m02-p-012",
-      "alt_text": "At the paper table: The same-size paper square shown once in quarters and once in eighths."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "One eighth",
-      "One quarter",
-      "They are the same size"
+      "4 squares",
+      "2 squares",
+      "1 square"
     ],
-    "difficulty": 3,
-    "sequencePriority": 2,
-    "correct": 0,
-    "explanation": "When the same whole is split into more equal parts, each part is smaller.\nHint: Compare 4 equal cuts with 8 equal cuts.",
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 12,
+    "correct": 1,
+    "explanation": "Divide the 8 squares into 4 equal groups. Each group has 2 squares and is one quarter.\nHint: Make four equal shares of the whole bar.",
     "structuredExplanation": {
-      "summary": "When the same whole is split into more equal parts, each part is smaller.",
-      "hint": "Compare 4 equal cuts with 8 equal cuts."
+      "summary": "Divide the 8 squares into 4 equal groups. Each group has 2 squares and is one quarter.",
+      "hint": "Make four equal shares of the whole bar."
     },
     "qualitySchema": "production-v1"
   },
@@ -384,30 +380,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m2m02-p-013",
     "curriculumCode": "AC9M2M02",
     "bank": "practice",
-    "skill": "connect fraction to time",
+    "skill": "represent half in eighths",
     "printable": true,
     "type": "single",
-    "question": "At the paper table, a timer shows half an hour. How many equal half-hours make one hour?",
-    "audioPrompt": "At the paper table, a timer shows half an hour. How many equal half-hours make one hour?",
-    "visual": "At the paper table: One hour bar divided into 2 equal half-hour parts.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the paper table: One hour bar divided into 2 equal half-hour parts.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2m02.svg#ac9m2m02-p-013\"></use></svg>",
+    "question": "A walking route is split into 8 equal lengths. How many lengths take you halfway along the route?",
+    "audioPrompt": "A walking route is split into 8 equal lengths. How many lengths take you halfway along the route?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m02.svg#ac9m2m02-p-013",
-      "alt_text": "At the paper table: One hour bar divided into 2 equal half-hour parts."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "4",
-      "2",
-      "8"
+      "2 lengths",
+      "8 lengths",
+      "4 lengths"
     ],
-    "difficulty": 3,
-    "sequencePriority": 2,
-    "correct": 1,
-    "explanation": "Two half-hours join to make one whole hour.\nHint: Think of an hour split into 2 equal time parts.",
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 13,
+    "correct": 2,
+    "explanation": "Four of the 8 equal lengths make half the route. Four equal lengths remain.\nHint: Halfway leaves the same distance still to walk.",
     "structuredExplanation": {
-      "summary": "Two half-hours join to make one whole hour.",
-      "hint": "Think of an hour split into 2 equal time parts."
+      "summary": "Four of the 8 equal lengths make half the route. Four equal lengths remain.",
+      "hint": "Halfway leaves the same distance still to walk."
     },
     "qualitySchema": "production-v1"
   },
@@ -415,30 +411,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m2m02-p-014",
     "curriculumCode": "AC9M2M02",
     "bank": "practice",
-    "skill": "connect fraction to turn",
+    "skill": "make eighths",
     "printable": true,
     "type": "single",
-    "question": "At the paper table, a full turn is split into 4 equal turns. What is each turn?",
-    "audioPrompt": "At the paper table, a full turn is split into 4 equal turns. What is each turn?",
-    "visual": "At the paper table: An arrow making one quarter of a full turn from north to east.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the paper table: An arrow making one quarter of a full turn from north to east.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2m02.svg#ac9m2m02-p-014\"></use></svg>",
+    "question": "A paper strip already has 4 equal sections. How can you turn it into eighths?",
+    "audioPrompt": "A paper strip already has 4 equal sections. How can you turn it into eighths?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m02.svg#ac9m2m02-p-014",
-      "alt_text": "At the paper table: An arrow making one quarter of a full turn from north to east."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "A half turn",
-      "An eighth turn",
-      "A quarter turn"
+      "Divide every section into 2 equal parts",
+      "Divide just one section into 2 parts",
+      "Erase all but one dividing line"
     ],
-    "difficulty": 3,
-    "sequencePriority": 2,
-    "correct": 2,
-    "explanation": "Four equal quarter turns make one full turn.\nHint: The whole turn is divided into 4 equal parts.",
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 14,
+    "correct": 0,
+    "explanation": "Splitting each of the 4 equal sections in half makes 8 equal parts of the original strip.\nHint: Every section needs the same change.",
     "structuredExplanation": {
-      "summary": "Four equal quarter turns make one full turn.",
-      "hint": "The whole turn is divided into 4 equal parts."
+      "summary": "Splitting each of the 4 equal sections in half makes 8 equal parts of the original strip.",
+      "hint": "Every section needs the same change."
     },
     "qualitySchema": "production-v1"
   },
@@ -446,30 +442,31 @@ window.skillrPracticeQuestions = [
     "id": "ac9m2m02-p-015",
     "curriculumCode": "AC9M2M02",
     "bank": "practice",
-    "skill": "identify equal quarters",
+    "skill": "different halves",
     "printable": true,
     "type": "single",
-    "question": "At the paper table, which sharing shows quarters of one paper square?",
-    "audioPrompt": "At the paper table, which sharing shows quarters of one paper square?",
-    "visual": "At the paper table: One paper square divided into 4 equal sections.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the paper table: One paper square divided into 4 equal sections.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2m02.svg#ac9m2m02-p-015\"></use></svg>",
+    "question": "Each card has one coloured part. Which cards show one half coloured?",
+    "audioPrompt": "Each card has one coloured part. Which cards show one half coloured?",
+    "visual": "Card A is split vertically into two equal rectangles, one coloured. Card B is split diagonally into two equal triangles, one coloured.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Card A is split vertically into two equal rectangles, one coloured. Card B is split diagonally into two equal triangles, one coloured.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2m02.svg?v=20260906-year2-pending-release#ac9m2m02-p-015\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m02.svg#ac9m2m02-p-015",
-      "alt_text": "At the paper table: One paper square divided into 4 equal sections."
+      "alt_text": "Card A is split vertically into two equal rectangles, one coloured. Card B is split diagonally into two equal triangles, one coloured.",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m02.svg?v=20260906-year2-pending-release#ac9m2m02-p-015"
     },
     "answers": [
-      "4 equal shares",
-      "4 different-sized shares",
-      "2 equal shares"
+      "Only A",
+      "Both A and B",
+      "Only B"
     ],
-    "difficulty": 3,
-    "sequencePriority": 2,
-    "correct": 0,
-    "explanation": "Quarters must be 4 equal parts of one whole.\nHint: Count the shares, then check they are equal.",
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 15,
+    "correct": 1,
+    "explanation": "A is divided vertically and B diagonally. Each division makes 2 equal-area parts, with one coloured.\nHint: Halves can have different shapes.",
     "structuredExplanation": {
-      "summary": "Quarters must be 4 equal parts of one whole.",
-      "hint": "Count the shares, then check they are equal."
+      "summary": "A is divided vertically and B diagonally. Each division makes 2 equal-area parts, with one coloured.",
+      "hint": "Halves can have different shapes."
     },
     "qualitySchema": "production-v1"
   },
@@ -477,30 +474,31 @@ window.skillrPracticeQuestions = [
     "id": "ac9m2m02-p-016",
     "curriculumCode": "AC9M2M02",
     "bank": "practice",
-    "skill": "make eighths by halving",
+    "skill": "different quarters",
     "printable": true,
     "type": "single",
-    "question": "At the paper table, the paper square is folded in half three times. How many equal parts are made?",
-    "audioPrompt": "At the paper table, the paper square is folded in half three times. How many equal parts are made?",
-    "visual": "At the paper table: One paper square divided into 8 equal parts after three halvings.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the paper table: One paper square divided into 8 equal parts after three halvings.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2m02.svg#ac9m2m02-p-016\"></use></svg>",
+    "question": "Two identical mats are divided differently. A has 4 equal strips; B has 4 equal rectangles in two rows. Is one part of either mat a quarter?",
+    "audioPrompt": "Two identical mats are divided differently. A has 4 equal strips; B has 4 equal rectangles in two rows. Is one part of either mat a quarter?",
+    "visual": "Identical rectangular mats: A has four equal vertical strips, B a two-by-two grid of equal rectangles. One part is coloured in each.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Identical rectangular mats: A has four equal vertical strips, B a two-by-two grid of equal rectangles. One part is coloured in each.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2m02.svg?v=20260906-year2-pending-release#ac9m2m02-p-016\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m02.svg#ac9m2m02-p-016",
-      "alt_text": "At the paper table: One paper square divided into 8 equal parts after three halvings."
+      "alt_text": "Identical rectangular mats: A has four equal vertical strips, B a two-by-two grid of equal rectangles. One part is coloured in each.",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m02.svg?v=20260906-year2-pending-release#ac9m2m02-p-016"
     },
     "answers": [
-      "6",
-      "8",
-      "4"
+      "Only A, because quarters must be strips",
+      "Yes; both mats have 4 equal-sized parts",
+      "Only B, because quarters must be in two rows"
     ],
-    "difficulty": 3,
-    "sequencePriority": 2,
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 16,
     "correct": 1,
-    "explanation": "Repeated halving makes 2, then 4, then 8 equal parts.\nHint: Double the number of parts after every fold.",
+    "explanation": "Quarters describe 4 equal parts of a whole, not one particular shape of part.\nHint: Check equal size and the number of parts.",
     "structuredExplanation": {
-      "summary": "Repeated halving makes 2, then 4, then 8 equal parts.",
-      "hint": "Double the number of parts after every fold."
+      "summary": "Quarters describe 4 equal parts of a whole, not one particular shape of part.",
+      "hint": "Check equal size and the number of parts."
     },
     "qualitySchema": "production-v1"
   },
@@ -508,30 +506,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m2m02-p-017",
     "curriculumCode": "AC9M2M02",
     "bank": "practice",
-    "skill": "recognise half in measure",
+    "skill": "event equality",
     "printable": true,
     "type": "single",
-    "question": "With a fruit bar, which picture would show one half of the fruit bar?",
-    "audioPrompt": "With a fruit bar, which picture would show one half of the fruit bar?",
-    "visual": "With a fruit bar: One fruit bar divided into 2 equal parts with 1 part shaded.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"With a fruit bar: One fruit bar divided into 2 equal parts with 1 part shaded.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2m02.svg#ac9m2m02-p-017\"></use></svg>",
+    "question": "A show has 4 acts, but one act lasts much longer than the others. Is every act one quarter of the show’s time?",
+    "audioPrompt": "A show has 4 acts, but one act lasts much longer than the others. Is every act one quarter of the show’s time?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m02.svg#ac9m2m02-p-017",
-      "alt_text": "With a fruit bar: One fruit bar divided into 2 equal parts with 1 part shaded."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "1 of 3 equal parts shaded",
-      "1 of 2 unequal parts shaded",
-      "1 of 2 equal parts shaded"
+      "No; the acts do not take equal time",
+      "Yes; there are 4 acts",
+      "Yes; every act has a name"
     ],
     "difficulty": 3,
-    "sequencePriority": 2,
-    "correct": 2,
-    "explanation": "One half is one of 2 equal parts of the same whole.\nHint: Check the number of parts and whether they are equal.",
+    "difficultyTier": "reason",
+    "sequencePriority": 17,
+    "correct": 0,
+    "explanation": "Four named stages are not quarters of the time unless their durations are equal.\nHint: Equal fractions of time need equal durations.",
     "structuredExplanation": {
-      "summary": "One half is one of 2 equal parts of the same whole.",
-      "hint": "Check the number of parts and whether they are equal."
+      "summary": "Four named stages are not quarters of the time unless their durations are equal.",
+      "hint": "Equal fractions of time need equal durations."
     },
     "qualitySchema": "production-v1"
   },
@@ -539,30 +537,31 @@ window.skillrPracticeQuestions = [
     "id": "ac9m2m02-p-018",
     "curriculumCode": "AC9M2M02",
     "bank": "practice",
-    "skill": "recognise quarter in measure",
+    "skill": "capacity half",
     "printable": true,
     "type": "single",
-    "question": "With a fruit bar, the fruit bar is cut into 4 equal pieces. What is one piece called?",
-    "audioPrompt": "With a fruit bar, the fruit bar is cut into 4 equal pieces. What is one piece called?",
-    "visual": "With a fruit bar: One fruit bar divided into 4 equal parts with 1 part shaded.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"With a fruit bar: One fruit bar divided into 4 equal parts with 1 part shaded.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2m02.svg#ac9m2m02-p-018\"></use></svg>",
+    "question": "A straight-sided container has the same width and depth from bottom to top. It is filled to the middle line. What fraction of its capacity is filled?",
+    "audioPrompt": "A straight-sided container has the same width and depth from bottom to top. It is filled to the middle line. What fraction of its capacity is filled?",
+    "visual": "A uniform straight-sided container is filled to the middle of its height.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A uniform straight-sided container is filled to the middle of its height.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2m02.svg?v=20260906-year2-pending-release#ac9m2m02-p-018\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m02.svg#ac9m2m02-p-018",
-      "alt_text": "With a fruit bar: One fruit bar divided into 4 equal parts with 1 part shaded."
+      "alt_text": "A uniform straight-sided container is filled to the middle of its height.",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m02.svg?v=20260906-year2-pending-release#ac9m2m02-p-018"
     },
     "answers": [
       "One quarter",
-      "One half",
-      "One eighth"
+      "One eighth",
+      "One half"
     ],
     "difficulty": 3,
-    "sequencePriority": 2,
-    "correct": 0,
-    "explanation": "One of 4 equal parts is one quarter.\nHint: The fraction name tells how many equal parts make the whole.",
+    "difficultyTier": "reason",
+    "sequencePriority": 18,
+    "correct": 2,
+    "explanation": "Because the width and depth stay the same, the middle line splits the capacity into 2 equal amounts.\nHint: The container has the same shape all the way up.",
     "structuredExplanation": {
-      "summary": "One of 4 equal parts is one quarter.",
-      "hint": "The fraction name tells how many equal parts make the whole."
+      "summary": "Because the width and depth stay the same, the middle line splits the capacity into 2 equal amounts.",
+      "hint": "The container has the same shape all the way up."
     },
     "qualitySchema": "production-v1"
   },
@@ -570,30 +569,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m2m02-p-019",
     "curriculumCode": "AC9M2M02",
     "bank": "practice",
-    "skill": "compose eighths",
+    "skill": "same whole comparison",
     "printable": true,
     "type": "single",
-    "question": "With a fruit bar, how many eighths make one whole fruit bar?",
-    "audioPrompt": "With a fruit bar, how many eighths make one whole fruit bar?",
-    "visual": "With a fruit bar: One fruit bar divided into 8 equal parts.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"With a fruit bar: One fruit bar divided into 8 equal parts.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2m02.svg#ac9m2m02-p-019\"></use></svg>",
+    "question": "Which is the smaller portion of the same loaf: one quarter or one eighth?",
+    "audioPrompt": "Which is the smaller portion of the same loaf: one quarter or one eighth?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m02.svg#ac9m2m02-p-019",
-      "alt_text": "With a fruit bar: One fruit bar divided into 8 equal parts."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "4",
-      "8",
-      "2"
+      "One eighth",
+      "One quarter",
+      "They are equal"
     ],
     "difficulty": 3,
-    "sequencePriority": 2,
-    "correct": 1,
-    "explanation": "Eight one-eighth parts join to make one whole.\nHint: Count all the equal pieces in the whole.",
+    "difficultyTier": "reason",
+    "sequencePriority": 19,
+    "correct": 0,
+    "explanation": "Sharing the same loaf into 8 equal portions makes smaller portions than sharing it into 4.\nHint: Keep the whole loaf the same.",
     "structuredExplanation": {
-      "summary": "Eight one-eighth parts join to make one whole.",
-      "hint": "Count all the equal pieces in the whole."
+      "summary": "Sharing the same loaf into 8 equal portions makes smaller portions than sharing it into 4.",
+      "hint": "Keep the whole loaf the same."
     },
     "qualitySchema": "production-v1"
   },
@@ -601,30 +600,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m2m02-p-020",
     "curriculumCode": "AC9M2M02",
     "bank": "practice",
-    "skill": "compare fraction units",
+    "skill": "different wholes",
     "printable": true,
     "type": "single",
-    "question": "With a fruit bar, which is smaller: one quarter or one eighth of the same fruit bar?",
-    "audioPrompt": "With a fruit bar, which is smaller: one quarter or one eighth of the same fruit bar?",
-    "visual": "With a fruit bar: The same-size fruit bar shown once in quarters and once in eighths.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"With a fruit bar: The same-size fruit bar shown once in quarters and once in eighths.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2m02.svg#ac9m2m02-p-020\"></use></svg>",
+    "question": "A half of a small cake and a half of a much larger cake are served. Must the pieces be the same size?",
+    "audioPrompt": "A half of a small cake and a half of a much larger cake are served. Must the pieces be the same size?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m02.svg#ac9m2m02-p-020",
-      "alt_text": "With a fruit bar: The same-size fruit bar shown once in quarters and once in eighths."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "One quarter",
-      "They are the same size",
-      "One eighth"
+      "Yes; all halves are the same size",
+      "No; the whole cakes are different sizes",
+      "Yes; cutting always makes equal pieces across different cakes"
     ],
     "difficulty": 3,
-    "sequencePriority": 2,
-    "correct": 2,
-    "explanation": "When the same whole is split into more equal parts, each part is smaller.\nHint: Compare 4 equal cuts with 8 equal cuts.",
+    "difficultyTier": "reason",
+    "sequencePriority": 20,
+    "correct": 1,
+    "explanation": "A half depends on the size of its whole. Half of the larger cake can be larger.\nHint: Ask which whole each half belongs to.",
     "structuredExplanation": {
-      "summary": "When the same whole is split into more equal parts, each part is smaller.",
-      "hint": "Compare 4 equal cuts with 8 equal cuts."
+      "summary": "A half depends on the size of its whole. Half of the larger cake can be larger.",
+      "hint": "Ask which whole each half belongs to."
     },
     "qualitySchema": "production-v1"
   },
@@ -632,30 +631,31 @@ window.skillrPracticeQuestions = [
     "id": "ac9m2m02-p-021",
     "curriculumCode": "AC9M2M02",
     "bank": "practice",
-    "skill": "connect fraction to time",
+    "skill": "read event model",
     "printable": true,
     "type": "single",
-    "question": "With a fruit bar, a timer shows half an hour. How many equal half-hours make one hour?",
-    "audioPrompt": "With a fruit bar, a timer shows half an hour. How many equal half-hours make one hour?",
-    "visual": "With a fruit bar: One hour bar divided into 2 equal half-hour parts.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"With a fruit bar: One hour bar divided into 2 equal half-hour parts.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2m02.svg#ac9m2m02-p-021\"></use></svg>",
+    "question": "The strip represents a game divided into 4 equal playing periods. The coloured periods are finished. What fraction of playing time is finished?",
+    "audioPrompt": "The strip represents a game divided into 4 equal playing periods. The coloured periods are finished. What fraction of playing time is finished?",
+    "visual": "One game is represented by four equal sections; the first two are coloured.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"One game is represented by four equal sections; the first two are coloured.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2m02.svg?v=20260906-year2-pending-release#ac9m2m02-p-021\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m02.svg#ac9m2m02-p-021",
-      "alt_text": "With a fruit bar: One hour bar divided into 2 equal half-hour parts."
+      "alt_text": "One game is represented by four equal sections; the first two are coloured.",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m02.svg?v=20260906-year2-pending-release#ac9m2m02-p-021"
     },
     "answers": [
-      "2",
-      "4",
-      "8"
+      "One quarter",
+      "One eighth",
+      "One half"
     ],
     "difficulty": 3,
-    "sequencePriority": 2,
-    "correct": 0,
-    "explanation": "Two half-hours join to make one whole hour.\nHint: Think of an hour split into 2 equal time parts.",
+    "difficultyTier": "reason",
+    "sequencePriority": 21,
+    "correct": 2,
+    "explanation": "Two of 4 equal periods are finished. Two quarters make one half.\nHint: Compare the finished time with the time still to play.",
     "structuredExplanation": {
-      "summary": "Two half-hours join to make one whole hour.",
-      "hint": "Think of an hour split into 2 equal time parts."
+      "summary": "Two of 4 equal periods are finished. Two quarters make one half.",
+      "hint": "Compare the finished time with the time still to play."
     },
     "qualitySchema": "production-v1"
   },
@@ -663,30 +663,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m2m02-p-022",
     "curriculumCode": "AC9M2M02",
     "bank": "practice",
-    "skill": "connect fraction to turn",
+    "skill": "repair eighth claim",
     "printable": true,
     "type": "single",
-    "question": "With a fruit bar, a full turn is split into 4 equal turns. What is each turn?",
-    "audioPrompt": "With a fruit bar, a full turn is split into 4 equal turns. What is each turn?",
-    "visual": "With a fruit bar: An arrow making one quarter of a full turn from north to east.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"With a fruit bar: An arrow making one quarter of a full turn from north to east.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2m02.svg#ac9m2m02-p-022\"></use></svg>",
+    "question": "A pizza has 8 slices, but one slice is much bigger than the others. Why can’t every slice be called one eighth?",
+    "audioPrompt": "A pizza has 8 slices, but one slice is much bigger than the others. Why can’t every slice be called one eighth?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m02.svg#ac9m2m02-p-022",
-      "alt_text": "With a fruit bar: An arrow making one quarter of a full turn from north to east."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "A half turn",
-      "A quarter turn",
-      "An eighth turn"
+      "A pizza cannot have eighths",
+      "Eighths must be square",
+      "Eighths must be equal portions of the whole pizza"
     ],
     "difficulty": 3,
-    "sequencePriority": 2,
-    "correct": 1,
-    "explanation": "Four equal quarter turns make one full turn.\nHint: The whole turn is divided into 4 equal parts.",
+    "difficultyTier": "reason",
+    "sequencePriority": 22,
+    "correct": 2,
+    "explanation": "Counting 8 slices is not enough: all 8 must be equal portions for each to be one eighth.\nHint: Check the sizes as well as the count.",
     "structuredExplanation": {
-      "summary": "Four equal quarter turns make one full turn.",
-      "hint": "The whole turn is divided into 4 equal parts."
+      "summary": "Counting 8 slices is not enough: all 8 must be equal portions for each to be one eighth.",
+      "hint": "Check the sizes as well as the count."
     },
     "qualitySchema": "production-v1"
   },
@@ -694,30 +694,36 @@ window.skillrPracticeQuestions = [
     "id": "ac9m2m02-p-023",
     "curriculumCode": "AC9M2M02",
     "bank": "practice",
-    "skill": "identify equal quarters",
+    "skill": "represent halves quarters",
     "printable": true,
-    "type": "single",
-    "question": "With a fruit bar, which sharing shows quarters of one fruit bar?",
-    "audioPrompt": "With a fruit bar, which sharing shows quarters of one fruit bar?",
-    "visual": "With a fruit bar: One fruit bar divided into 4 equal sections.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"With a fruit bar: One fruit bar divided into 4 equal sections.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2m02.svg#ac9m2m02-p-023\"></use></svg>",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Each flag represents one whole. The first has 2 equal parts with 1 coloured; the second has 4 equal parts with 1 coloured.",
+    "acceptanceNote": "Accept different valid partitions. Require equal-area parts, exactly one part coloured in each flag and labels “half” and “quarter”.",
+    "responseInstructions": "Draw and label your answer on paper, then ask an adult to check it.",
+    "completionLabel": "Ready for adult review",
+    "question": "Draw two identical rectangular flags. Divide one into halves and colour one half. Divide the other into quarters and colour one quarter.",
+    "audioPrompt": "Draw two identical rectangular flags. Divide one into halves and colour one half. Divide the other into quarters and colour one quarter.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m02.svg#ac9m2m02-p-023",
-      "alt_text": "With a fruit bar: One fruit bar divided into 4 equal sections."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "4 different-sized shares",
-      "2 equal shares",
-      "4 equal shares"
+      "Needs revision",
+      "Completed response",
+      "Not attempted"
     ],
     "difficulty": 3,
-    "sequencePriority": 2,
-    "correct": 2,
-    "explanation": "Quarters must be 4 equal parts of one whole.\nHint: Count the shares, then check they are equal.",
+    "difficultyTier": "reason",
+    "sequencePriority": 23,
+    "correct": "Each flag represents one whole. The first has 2 equal parts with 1 coloured; the second has 4 equal parts with 1 coloured.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
-      "summary": "Quarters must be 4 equal parts of one whole.",
-      "hint": "Count the shares, then check they are equal."
+      "summary": "Each flag represents one whole. The first has 2 equal parts with 1 coloured; the second has 4 equal parts with 1 coloured.",
+      "hint": "Accept different valid partitions. Require equal-area parts, exactly one part coloured in each flag and labels “half” and “quarter”."
     },
     "qualitySchema": "production-v1"
   },
@@ -725,702 +731,36 @@ window.skillrPracticeQuestions = [
     "id": "ac9m2m02-p-024",
     "curriculumCode": "AC9M2M02",
     "bank": "practice",
-    "skill": "make eighths by halving",
+    "skill": "represent eighth event",
     "printable": true,
-    "type": "single",
-    "question": "With a fruit bar, the fruit bar is folded in half three times. How many equal parts are made?",
-    "audioPrompt": "With a fruit bar, the fruit bar is folded in half three times. How many equal parts are made?",
-    "visual": "With a fruit bar: One fruit bar divided into 8 equal parts after three halvings.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"With a fruit bar: One fruit bar divided into 8 equal parts after three halvings.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2m02.svg#ac9m2m02-p-024\"></use></svg>",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "A whole strip divided into 8 equal sections, with the first section identified as one eighth of the performance’s time.",
+    "acceptanceNote": "Require eight equal sections and one eighth correctly marked. Do not require minutes or fraction symbols.",
+    "responseInstructions": "Draw and label your answer on paper, then ask an adult to check it.",
+    "completionLabel": "Ready for adult review",
+    "question": "Draw a strip to represent a performance with 8 stages that take equal time. Mark the end of the first stage and label the time used.",
+    "audioPrompt": "Draw a strip to represent a performance with 8 stages that take equal time. Mark the end of the first stage and label the time used.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m02.svg#ac9m2m02-p-024",
-      "alt_text": "With a fruit bar: One fruit bar divided into 8 equal parts after three halvings."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "8",
-      "6",
-      "4"
+      "Completed response",
+      "Needs revision",
+      "Not attempted"
     ],
     "difficulty": 3,
-    "sequencePriority": 2,
-    "correct": 0,
-    "explanation": "Repeated halving makes 2, then 4, then 8 equal parts.\nHint: Double the number of parts after every fold.",
+    "difficultyTier": "reason",
+    "sequencePriority": 24,
+    "correct": "A whole strip divided into 8 equal sections, with the first section identified as one eighth of the performance’s time.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
-      "summary": "Repeated halving makes 2, then 4, then 8 equal parts.",
-      "hint": "Double the number of parts after every fold."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m2m02-p-025",
-    "curriculumCode": "AC9M2M02",
-    "bank": "practice",
-    "skill": "at the school garden a sandwich",
-    "printable": true,
-    "type": "single",
-    "question": "At the school garden, a sandwich is cut into 4 equal pieces. What is each piece?",
-    "audioPrompt": "At the school garden, a sandwich is cut into 4 equal pieces. What is each piece?",
-    "visual": "At the school garden, a sandwich is cut into 4 equal pieces. What is each piece?",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": "At the school garden, a sandwich is cut into 4 equal pieces. What is each piece?"
-    },
-    "answers": [
-      "one quarter",
-      "one half",
-      "one eighth"
-    ],
-    "correct": 0,
-    "explanation": "Equal parts must be the same size.\nHint: Use the information in the question to check your answer.",
-    "structuredExplanation": {
-      "summary": "Equal parts must be the same size.",
-      "hint": "Use the information in the question to check your answer."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m2m02-p-026",
-    "curriculumCode": "AC9M2M02",
-    "bank": "practice",
-    "skill": "during maths groups one half is",
-    "printable": true,
-    "type": "single",
-    "question": "During maths groups, one half is split into 2 equal pieces. What size is each new piece?",
-    "audioPrompt": "During maths groups, one half is split into 2 equal pieces. What size is each new piece?",
-    "visual": "During maths groups, one half is split into 2 equal pieces. What size is each new piece?",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": "During maths groups, one half is split into 2 equal pieces. What size is each new piece?"
-    },
-    "answers": [
-      "one half",
-      "one whole",
-      "one quarter"
-    ],
-    "correct": 2,
-    "explanation": "Equal parts must be the same size.\nHint: Use the information in the question to check your answer.",
-    "structuredExplanation": {
-      "summary": "Equal parts must be the same size.",
-      "hint": "Use the information in the question to check your answer."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m2m02-p-027",
-    "curriculumCode": "AC9M2M02",
-    "bank": "practice",
-    "skill": "at the art table a bottle",
-    "printable": true,
-    "type": "single",
-    "question": "At the art table, a bottle is half full. Which means the same?",
-    "audioPrompt": "At the art table, a bottle is half full. Which means the same?",
-    "visual": "At the art table, a bottle is half full. Which means the same?",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": "At the art table, a bottle is half full. Which means the same?"
-    },
-    "answers": [
-      "1 eighth full",
-      "2 quarters full",
-      "4 quarters full"
-    ],
-    "correct": 1,
-    "explanation": "Equal parts must be the same size.\nHint: Use the information in the question to check your answer.",
-    "structuredExplanation": {
-      "summary": "Equal parts must be the same size.",
-      "hint": "Use the information in the question to check your answer."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m2m02-p-028",
-    "curriculumCode": "AC9M2M02",
-    "bank": "practice",
-    "skill": "in the playground a sandwich is",
-    "printable": true,
-    "type": "single",
-    "question": "In the playground, a sandwich is cut into 4 equal pieces. What is each piece?",
-    "audioPrompt": "In the playground, a sandwich is cut into 4 equal pieces. What is each piece?",
-    "visual": "In the playground, a sandwich is cut into 4 equal pieces. What is each piece?",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": "In the playground, a sandwich is cut into 4 equal pieces. What is each piece?"
-    },
-    "answers": [
-      "one quarter",
-      "one half",
-      "one eighth"
-    ],
-    "correct": 0,
-    "explanation": "Equal parts must be the same size.\nHint: Use the information in the question to check your answer.",
-    "structuredExplanation": {
-      "summary": "Equal parts must be the same size.",
-      "hint": "Use the information in the question to check your answer."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m2m02-p-029",
-    "curriculumCode": "AC9M2M02",
-    "bank": "practice",
-    "skill": "at the library one half is",
-    "printable": true,
-    "type": "single",
-    "question": "At the library, one half is split into 2 equal pieces. What size is each new piece?",
-    "audioPrompt": "At the library, one half is split into 2 equal pieces. What size is each new piece?",
-    "visual": "At the library, one half is split into 2 equal pieces. What size is each new piece?",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": "At the library, one half is split into 2 equal pieces. What size is each new piece?"
-    },
-    "answers": [
-      "one half",
-      "one whole",
-      "one quarter"
-    ],
-    "correct": 2,
-    "explanation": "Equal parts must be the same size.\nHint: Use the information in the question to check your answer.",
-    "structuredExplanation": {
-      "summary": "Equal parts must be the same size.",
-      "hint": "Use the information in the question to check your answer."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m2m02-p-030",
-    "curriculumCode": "AC9M2M02",
-    "bank": "practice",
-    "skill": "during sport a bottle is half",
-    "printable": true,
-    "type": "single",
-    "question": "During sport, a bottle is half full. Which means the same?",
-    "audioPrompt": "During sport, a bottle is half full. Which means the same?",
-    "visual": "During sport, a bottle is half full. Which means the same?",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": "During sport, a bottle is half full. Which means the same?"
-    },
-    "answers": [
-      "1 eighth full",
-      "2 quarters full",
-      "4 quarters full"
-    ],
-    "correct": 1,
-    "explanation": "Equal parts must be the same size.\nHint: Use the information in the question to check your answer.",
-    "structuredExplanation": {
-      "summary": "Equal parts must be the same size.",
-      "hint": "Use the information in the question to check your answer."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m2m02-p-031",
-    "curriculumCode": "AC9M2M02",
-    "bank": "practice",
-    "skill": "at the class shop a sandwich",
-    "printable": true,
-    "type": "single",
-    "question": "At the class shop, a sandwich is cut into 4 equal pieces. What is each piece?",
-    "audioPrompt": "At the class shop, a sandwich is cut into 4 equal pieces. What is each piece?",
-    "visual": "At the class shop, a sandwich is cut into 4 equal pieces. What is each piece?",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": "At the class shop, a sandwich is cut into 4 equal pieces. What is each piece?"
-    },
-    "answers": [
-      "one quarter",
-      "one half",
-      "one eighth"
-    ],
-    "correct": 0,
-    "explanation": "Equal parts must be the same size.\nHint: Use the information in the question to check your answer.",
-    "structuredExplanation": {
-      "summary": "Equal parts must be the same size.",
-      "hint": "Use the information in the question to check your answer."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m2m02-p-032",
-    "curriculumCode": "AC9M2M02",
-    "bank": "practice",
-    "skill": "on the picnic rug one half",
-    "printable": true,
-    "type": "single",
-    "question": "On the picnic rug, one half is split into 2 equal pieces. What size is each new piece?",
-    "audioPrompt": "On the picnic rug, one half is split into 2 equal pieces. What size is each new piece?",
-    "visual": "On the picnic rug, one half is split into 2 equal pieces. What size is each new piece?",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": "On the picnic rug, one half is split into 2 equal pieces. What size is each new piece?"
-    },
-    "answers": [
-      "one half",
-      "one whole",
-      "one quarter"
-    ],
-    "correct": 2,
-    "explanation": "Equal parts must be the same size.\nHint: Use the information in the question to check your answer.",
-    "structuredExplanation": {
-      "summary": "Equal parts must be the same size.",
-      "hint": "Use the information in the question to check your answer."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m2m02-p-033",
-    "curriculumCode": "AC9M2M02",
-    "bank": "practice",
-    "skill": "at the block table a bottle",
-    "printable": true,
-    "type": "single",
-    "question": "At the block table, a bottle is half full. Which means the same?",
-    "audioPrompt": "At the block table, a bottle is half full. Which means the same?",
-    "visual": "At the block table, a bottle is half full. Which means the same?",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": "At the block table, a bottle is half full. Which means the same?"
-    },
-    "answers": [
-      "1 eighth full",
-      "2 quarters full",
-      "4 quarters full"
-    ],
-    "correct": 1,
-    "explanation": "Equal parts must be the same size.\nHint: Use the information in the question to check your answer.",
-    "structuredExplanation": {
-      "summary": "Equal parts must be the same size.",
-      "hint": "Use the information in the question to check your answer."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m2m02-p-034",
-    "curriculumCode": "AC9M2M02",
-    "bank": "practice",
-    "skill": "in the lunch area a sandwich",
-    "printable": true,
-    "type": "single",
-    "question": "In the lunch area, a sandwich is cut into 4 equal pieces. What is each piece?",
-    "audioPrompt": "In the lunch area, a sandwich is cut into 4 equal pieces. What is each piece?",
-    "visual": "In the lunch area, a sandwich is cut into 4 equal pieces. What is each piece?",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": "In the lunch area, a sandwich is cut into 4 equal pieces. What is each piece?"
-    },
-    "answers": [
-      "one quarter",
-      "one half",
-      "one eighth"
-    ],
-    "correct": 0,
-    "explanation": "Equal parts must be the same size.\nHint: Use the information in the question to check your answer.",
-    "structuredExplanation": {
-      "summary": "Equal parts must be the same size.",
-      "hint": "Use the information in the question to check your answer."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m2m02-p-035",
-    "curriculumCode": "AC9M2M02",
-    "bank": "practice",
-    "skill": "at the science table one half",
-    "printable": true,
-    "type": "single",
-    "question": "At the science table, one half is split into 2 equal pieces. What size is each new piece?",
-    "audioPrompt": "At the science table, one half is split into 2 equal pieces. What size is each new piece?",
-    "visual": "At the science table, one half is split into 2 equal pieces. What size is each new piece?",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": "At the science table, one half is split into 2 equal pieces. What size is each new piece?"
-    },
-    "answers": [
-      "one half",
-      "one whole",
-      "one quarter"
-    ],
-    "correct": 2,
-    "explanation": "Equal parts must be the same size.\nHint: Use the information in the question to check your answer.",
-    "structuredExplanation": {
-      "summary": "Equal parts must be the same size.",
-      "hint": "Use the information in the question to check your answer."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m2m02-p-036",
-    "curriculumCode": "AC9M2M02",
-    "bank": "practice",
-    "skill": "during a card game a bottle",
-    "printable": true,
-    "type": "single",
-    "question": "During a card game, a bottle is half full. Which means the same?",
-    "audioPrompt": "During a card game, a bottle is half full. Which means the same?",
-    "visual": "During a card game, a bottle is half full. Which means the same?",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": "During a card game, a bottle is half full. Which means the same?"
-    },
-    "answers": [
-      "1 eighth full",
-      "2 quarters full",
-      "4 quarters full"
-    ],
-    "correct": 1,
-    "explanation": "Equal parts must be the same size.\nHint: Use the information in the question to check your answer.",
-    "structuredExplanation": {
-      "summary": "Equal parts must be the same size.",
-      "hint": "Use the information in the question to check your answer."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m2m02-p-037",
-    "curriculumCode": "AC9M2M02",
-    "bank": "practice",
-    "skill": "at the school garden a sandwich",
-    "printable": true,
-    "type": "single",
-    "question": "At the school garden, a sandwich is cut into 4 equal pieces. What is each piece?",
-    "audioPrompt": "At the school garden, a sandwich is cut into 4 equal pieces. What is each piece?",
-    "visual": "At the school garden, a sandwich is cut into 4 equal pieces. What is each piece?",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": "At the school garden, a sandwich is cut into 4 equal pieces. What is each piece?"
-    },
-    "answers": [
-      "one quarter",
-      "one half",
-      "one eighth"
-    ],
-    "correct": 0,
-    "explanation": "Equal parts must be the same size.\nHint: Use the information in the question to check your answer.",
-    "structuredExplanation": {
-      "summary": "Equal parts must be the same size.",
-      "hint": "Use the information in the question to check your answer."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m2m02-p-038",
-    "curriculumCode": "AC9M2M02",
-    "bank": "practice",
-    "skill": "during maths groups one half is",
-    "printable": true,
-    "type": "single",
-    "question": "During maths groups, one half is split into 2 equal pieces. What size is each new piece?",
-    "audioPrompt": "During maths groups, one half is split into 2 equal pieces. What size is each new piece?",
-    "visual": "During maths groups, one half is split into 2 equal pieces. What size is each new piece?",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": "During maths groups, one half is split into 2 equal pieces. What size is each new piece?"
-    },
-    "answers": [
-      "one half",
-      "one whole",
-      "one quarter"
-    ],
-    "correct": 2,
-    "explanation": "Equal parts must be the same size.\nHint: Use the information in the question to check your answer.",
-    "structuredExplanation": {
-      "summary": "Equal parts must be the same size.",
-      "hint": "Use the information in the question to check your answer."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m2m02-p-039",
-    "curriculumCode": "AC9M2M02",
-    "bank": "practice",
-    "skill": "at the art table a bottle",
-    "printable": true,
-    "type": "single",
-    "question": "At the art table, a bottle is half full. Which means the same?",
-    "audioPrompt": "At the art table, a bottle is half full. Which means the same?",
-    "visual": "At the art table, a bottle is half full. Which means the same?",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": "At the art table, a bottle is half full. Which means the same?"
-    },
-    "answers": [
-      "1 eighth full",
-      "2 quarters full",
-      "4 quarters full"
-    ],
-    "correct": 1,
-    "explanation": "Equal parts must be the same size.\nHint: Use the information in the question to check your answer.",
-    "structuredExplanation": {
-      "summary": "Equal parts must be the same size.",
-      "hint": "Use the information in the question to check your answer."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m2m02-p-040",
-    "curriculumCode": "AC9M2M02",
-    "bank": "practice",
-    "skill": "in the playground a sandwich is",
-    "printable": true,
-    "type": "single",
-    "question": "In the playground, a sandwich is cut into 4 equal pieces. What is each piece?",
-    "audioPrompt": "In the playground, a sandwich is cut into 4 equal pieces. What is each piece?",
-    "visual": "In the playground, a sandwich is cut into 4 equal pieces. What is each piece?",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": "In the playground, a sandwich is cut into 4 equal pieces. What is each piece?"
-    },
-    "answers": [
-      "one quarter",
-      "one half",
-      "one eighth"
-    ],
-    "correct": 0,
-    "explanation": "Equal parts must be the same size.\nHint: Use the information in the question to check your answer.",
-    "structuredExplanation": {
-      "summary": "Equal parts must be the same size.",
-      "hint": "Use the information in the question to check your answer."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m2m02-p-041",
-    "curriculumCode": "AC9M2M02",
-    "bank": "practice",
-    "skill": "at the library one half is",
-    "printable": true,
-    "type": "single",
-    "question": "At the library, one half is split into 2 equal pieces. What size is each new piece?",
-    "audioPrompt": "At the library, one half is split into 2 equal pieces. What size is each new piece?",
-    "visual": "At the library, one half is split into 2 equal pieces. What size is each new piece?",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": "At the library, one half is split into 2 equal pieces. What size is each new piece?"
-    },
-    "answers": [
-      "one half",
-      "one whole",
-      "one quarter"
-    ],
-    "correct": 2,
-    "explanation": "Equal parts must be the same size.\nHint: Use the information in the question to check your answer.",
-    "structuredExplanation": {
-      "summary": "Equal parts must be the same size.",
-      "hint": "Use the information in the question to check your answer."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m2m02-p-042",
-    "curriculumCode": "AC9M2M02",
-    "bank": "practice",
-    "skill": "during sport a bottle is half",
-    "printable": true,
-    "type": "single",
-    "question": "During sport, a bottle is half full. Which means the same?",
-    "audioPrompt": "During sport, a bottle is half full. Which means the same?",
-    "visual": "During sport, a bottle is half full. Which means the same?",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": "During sport, a bottle is half full. Which means the same?"
-    },
-    "answers": [
-      "1 eighth full",
-      "2 quarters full",
-      "4 quarters full"
-    ],
-    "correct": 1,
-    "explanation": "Equal parts must be the same size.\nHint: Use the information in the question to check your answer.",
-    "structuredExplanation": {
-      "summary": "Equal parts must be the same size.",
-      "hint": "Use the information in the question to check your answer."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m2m02-p-043",
-    "curriculumCode": "AC9M2M02",
-    "bank": "practice",
-    "skill": "at the class shop a sandwich",
-    "printable": true,
-    "type": "single",
-    "question": "At the class shop, a sandwich is cut into 4 equal pieces. What is each piece?",
-    "audioPrompt": "At the class shop, a sandwich is cut into 4 equal pieces. What is each piece?",
-    "visual": "At the class shop, a sandwich is cut into 4 equal pieces. What is each piece?",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": "At the class shop, a sandwich is cut into 4 equal pieces. What is each piece?"
-    },
-    "answers": [
-      "one quarter",
-      "one half",
-      "one eighth"
-    ],
-    "correct": 0,
-    "explanation": "Equal parts must be the same size.\nHint: Use the information in the question to check your answer.",
-    "structuredExplanation": {
-      "summary": "Equal parts must be the same size.",
-      "hint": "Use the information in the question to check your answer."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m2m02-p-044",
-    "curriculumCode": "AC9M2M02",
-    "bank": "practice",
-    "skill": "on the picnic rug one half",
-    "printable": true,
-    "type": "single",
-    "question": "On the picnic rug, one half is split into 2 equal pieces. What size is each new piece?",
-    "audioPrompt": "On the picnic rug, one half is split into 2 equal pieces. What size is each new piece?",
-    "visual": "On the picnic rug, one half is split into 2 equal pieces. What size is each new piece?",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": "On the picnic rug, one half is split into 2 equal pieces. What size is each new piece?"
-    },
-    "answers": [
-      "one half",
-      "one whole",
-      "one quarter"
-    ],
-    "correct": 2,
-    "explanation": "Equal parts must be the same size.\nHint: Use the information in the question to check your answer.",
-    "structuredExplanation": {
-      "summary": "Equal parts must be the same size.",
-      "hint": "Use the information in the question to check your answer."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m2m02-p-045",
-    "curriculumCode": "AC9M2M02",
-    "bank": "practice",
-    "skill": "at the block table a bottle",
-    "printable": true,
-    "type": "single",
-    "question": "At the block table, a bottle is half full. Which means the same?",
-    "audioPrompt": "At the block table, a bottle is half full. Which means the same?",
-    "visual": "At the block table, a bottle is half full. Which means the same?",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": "At the block table, a bottle is half full. Which means the same?"
-    },
-    "answers": [
-      "1 eighth full",
-      "2 quarters full",
-      "4 quarters full"
-    ],
-    "correct": 1,
-    "explanation": "Equal parts must be the same size.\nHint: Use the information in the question to check your answer.",
-    "structuredExplanation": {
-      "summary": "Equal parts must be the same size.",
-      "hint": "Use the information in the question to check your answer."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m2m02-p-046",
-    "curriculumCode": "AC9M2M02",
-    "bank": "practice",
-    "skill": "in the lunch area a sandwich",
-    "printable": true,
-    "type": "single",
-    "question": "In the lunch area, a sandwich is cut into 4 equal pieces. What is each piece?",
-    "audioPrompt": "In the lunch area, a sandwich is cut into 4 equal pieces. What is each piece?",
-    "visual": "In the lunch area, a sandwich is cut into 4 equal pieces. What is each piece?",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": "In the lunch area, a sandwich is cut into 4 equal pieces. What is each piece?"
-    },
-    "answers": [
-      "one quarter",
-      "one half",
-      "one eighth"
-    ],
-    "correct": 0,
-    "explanation": "Equal parts must be the same size.\nHint: Use the information in the question to check your answer.",
-    "structuredExplanation": {
-      "summary": "Equal parts must be the same size.",
-      "hint": "Use the information in the question to check your answer."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m2m02-p-047",
-    "curriculumCode": "AC9M2M02",
-    "bank": "practice",
-    "skill": "at the science table one half",
-    "printable": true,
-    "type": "single",
-    "question": "At the science table, one half is split into 2 equal pieces. What size is each new piece?",
-    "audioPrompt": "At the science table, one half is split into 2 equal pieces. What size is each new piece?",
-    "visual": "At the science table, one half is split into 2 equal pieces. What size is each new piece?",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": "At the science table, one half is split into 2 equal pieces. What size is each new piece?"
-    },
-    "answers": [
-      "one half",
-      "one whole",
-      "one quarter"
-    ],
-    "correct": 2,
-    "explanation": "Equal parts must be the same size.\nHint: Use the information in the question to check your answer.",
-    "structuredExplanation": {
-      "summary": "Equal parts must be the same size.",
-      "hint": "Use the information in the question to check your answer."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m2m02-p-048",
-    "curriculumCode": "AC9M2M02",
-    "bank": "practice",
-    "skill": "during a card game a bottle",
-    "printable": true,
-    "type": "single",
-    "question": "During a card game, a bottle is half full. Which means the same?",
-    "audioPrompt": "During a card game, a bottle is half full. Which means the same?",
-    "visual": "During a card game, a bottle is half full. Which means the same?",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": "During a card game, a bottle is half full. Which means the same?"
-    },
-    "answers": [
-      "1 eighth full",
-      "2 quarters full",
-      "4 quarters full"
-    ],
-    "correct": 1,
-    "explanation": "Equal parts must be the same size.\nHint: Use the information in the question to check your answer.",
-    "structuredExplanation": {
-      "summary": "Equal parts must be the same size.",
-      "hint": "Use the information in the question to check your answer."
+      "summary": "A whole strip divided into 8 equal sections, with the first section identified as one eighth of the performance’s time.",
+      "hint": "Require eight equal sections and one eighth correctly marked. Do not require minutes or fraction symbols."
     },
     "qualitySchema": "production-v1"
   }

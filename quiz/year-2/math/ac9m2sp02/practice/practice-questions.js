@@ -4,31 +4,31 @@ window.skillrPracticeQuestions = [
     "id": "ac9m2sp02-p-001",
     "curriculumCode": "AC9M2SP02",
     "bank": "practice",
-    "skill": "locate position using landmark",
+    "skill": "locate",
     "printable": true,
     "type": "single",
-    "question": "On the classroom map, the library is above the canteen on the map. Where is the library?",
-    "audioPrompt": "On the classroom map, the library is above the canteen on the map. Where is the library?",
-    "visual": "On the classroom map: Simple map with the library one grid square above the canteen.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"On the classroom map: Simple map with the library one grid square above the canteen.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2sp02.svg#ac9m2sp02-p-001\"></use></svg>",
+    "question": "Which place is in the top-left square?",
+    "audioPrompt": "Which place is in the top-left square?",
+    "visual": "Four-by-four playground grid. Rows from top: Gate, Tree, Slide, Tap; Bench, Pond, Sand, Shed; Path, Flowers, Table, Bin; Door, Mat, Steps, Wall.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Four-by-four playground grid. Rows from top: Gate, Tree, Slide, Tap; Bench, Pond, Sand, Shed; Path, Flowers, Table, Bin; Door, Mat, Steps, Wall.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2sp02.svg?v=20260906-year2-pending-release#ac9m2sp02-p-001\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2sp02.svg#ac9m2sp02-p-001",
-      "alt_text": "On the classroom map: Simple map with the library one grid square above the canteen."
+      "alt_text": "Four-by-four playground grid. Rows from top: Gate, Tree, Slide, Tap; Bench, Pond, Sand, Shed; Path, Flowers, Table, Bin; Door, Mat, Steps, Wall.",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2sp02.svg?v=20260906-year2-pending-release#ac9m2sp02-p-001"
     },
     "answers": [
-      "above the canteen",
-      "below the canteen",
-      "inside the canteen"
+      "Door",
+      "Gate",
+      "Tap"
     ],
     "difficulty": 1,
-    "difficultyTier": "confidence",
+    "difficultyTier": "recognise",
     "sequencePriority": 1,
-    "correct": 0,
-    "explanation": "The library is higher on the map, so it is above the canteen.\nHint: Find the canteen first, then look directly higher.",
+    "correct": 1,
+    "explanation": "The top row and leftmost column meet at Gate.\nHint: Use the information in the question and check each step.",
     "structuredExplanation": {
-      "summary": "The library is higher on the map, so it is above the canteen.",
-      "hint": "Find the canteen first, then look directly higher."
+      "summary": "The top row and leftmost column meet at Gate.",
+      "hint": "Use the information in the question and check each step."
     },
     "qualitySchema": "production-v1"
   },
@@ -36,31 +36,31 @@ window.skillrPracticeQuestions = [
     "id": "ac9m2sp02-p-002",
     "curriculumCode": "AC9M2SP02",
     "bank": "practice",
-    "skill": "follow horizontal path",
+    "skill": "relative",
     "printable": true,
     "type": "single",
-    "question": "On the classroom map, start at the orange dot. Move 2 squares right. Where do you finish?",
-    "audioPrompt": "On the classroom map, start at the orange dot. Move 2 squares right. Where do you finish?",
-    "visual": "On the classroom map: Grid map with an orange start dot and a path moving 2 squares right.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"On the classroom map: Grid map with an orange start dot and a path moving 2 squares right.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2sp02.svg#ac9m2sp02-p-002\"></use></svg>",
+    "question": "Which place is directly below Tree?",
+    "audioPrompt": "Which place is directly below Tree?",
+    "visual": "Four-by-four playground grid. Rows from top: Gate, Tree, Slide, Tap; Bench, Pond, Sand, Shed; Path, Flowers, Table, Bin; Door, Mat, Steps, Wall.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Four-by-four playground grid. Rows from top: Gate, Tree, Slide, Tap; Bench, Pond, Sand, Shed; Path, Flowers, Table, Bin; Door, Mat, Steps, Wall.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2sp02.svg?v=20260906-year2-pending-release#ac9m2sp02-p-002\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2sp02.svg#ac9m2sp02-p-002",
-      "alt_text": "On the classroom map: Grid map with an orange start dot and a path moving 2 squares right."
+      "alt_text": "Four-by-four playground grid. Rows from top: Gate, Tree, Slide, Tap; Bench, Pond, Sand, Shed; Path, Flowers, Table, Bin; Door, Mat, Steps, Wall.",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2sp02.svg?v=20260906-year2-pending-release#ac9m2sp02-p-002"
     },
     "answers": [
-      "2 squares to the left",
-      "2 squares to the right",
-      "2 squares up"
+      "Pond",
+      "Slide",
+      "Flowers"
     ],
     "difficulty": 1,
-    "difficultyTier": "confidence",
-    "sequencePriority": 1,
-    "correct": 1,
-    "explanation": "Moving right keeps the same row and increases the column by 2.\nHint: Face the top of the map, then move toward your right hand.",
+    "difficultyTier": "recognise",
+    "sequencePriority": 2,
+    "correct": 0,
+    "explanation": "Move one square down from Tree to Pond.\nHint: Use the information in the question and check each step.",
     "structuredExplanation": {
-      "summary": "Moving right keeps the same row and increases the column by 2.",
-      "hint": "Face the top of the map, then move toward your right hand."
+      "summary": "Move one square down from Tree to Pond.",
+      "hint": "Use the information in the question and check each step."
     },
     "qualitySchema": "production-v1"
   },
@@ -68,31 +68,31 @@ window.skillrPracticeQuestions = [
     "id": "ac9m2sp02-p-003",
     "curriculumCode": "AC9M2SP02",
     "bank": "practice",
-    "skill": "follow multi step path",
+    "skill": "between",
     "printable": true,
     "type": "single",
-    "question": "On the classroom map, start at the orange dot. Move 1 square down, then 2 squares right. Which path is correct?",
-    "audioPrompt": "On the classroom map, start at the orange dot. Move 1 square down, then 2 squares right. Which path is correct?",
-    "visual": "On the classroom map: Grid map with a path moving down one square and then right two squares.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"On the classroom map: Grid map with a path moving down one square and then right two squares.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2sp02.svg#ac9m2sp02-p-003\"></use></svg>",
+    "question": "Which place is between Flowers and Bin in their row?",
+    "audioPrompt": "Which place is between Flowers and Bin in their row?",
+    "visual": "Four-by-four playground grid. Rows from top: Gate, Tree, Slide, Tap; Bench, Pond, Sand, Shed; Path, Flowers, Table, Bin; Door, Mat, Steps, Wall.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Four-by-four playground grid. Rows from top: Gate, Tree, Slide, Tap; Bench, Pond, Sand, Shed; Path, Flowers, Table, Bin; Door, Mat, Steps, Wall.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2sp02.svg?v=20260906-year2-pending-release#ac9m2sp02-p-003\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2sp02.svg#ac9m2sp02-p-003",
-      "alt_text": "On the classroom map: Grid map with a path moving down one square and then right two squares."
+      "alt_text": "Four-by-four playground grid. Rows from top: Gate, Tree, Slide, Tap; Bench, Pond, Sand, Shed; Path, Flowers, Table, Bin; Door, Mat, Steps, Wall.",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2sp02.svg?v=20260906-year2-pending-release#ac9m2sp02-p-003"
     },
     "answers": [
-      "right 1, then down 2",
-      "up 1, then left 2",
-      "down 1, then right 2"
+      "Sand",
+      "Steps",
+      "Table"
     ],
     "difficulty": 1,
-    "difficultyTier": "confidence",
-    "sequencePriority": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 3,
     "correct": 2,
-    "explanation": "Directions must be followed in order: down 1 first, then right 2.\nHint: Do one instruction at a time and mark each stop.",
+    "explanation": "The row reads Path, Flowers, Table, Bin.\nHint: Use the information in the question and check each step.",
     "structuredExplanation": {
-      "summary": "Directions must be followed in order: down 1 first, then right 2.",
-      "hint": "Do one instruction at a time and mark each stop."
+      "summary": "The row reads Path, Flowers, Table, Bin.",
+      "hint": "Use the information in the question and check each step."
     },
     "qualitySchema": "production-v1"
   },
@@ -100,31 +100,31 @@ window.skillrPracticeQuestions = [
     "id": "ac9m2sp02-p-004",
     "curriculumCode": "AC9M2SP02",
     "bank": "practice",
-    "skill": "use between position word",
+    "skill": "right",
     "printable": true,
     "type": "single",
-    "question": "On the classroom map, the tree is between the slide and the bench. Which object is in the middle?",
-    "audioPrompt": "On the classroom map, the tree is between the slide and the bench. Which object is in the middle?",
-    "visual": "On the classroom map: A slide, tree and bench arranged in that order.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"On the classroom map: A slide, tree and bench arranged in that order.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2sp02.svg#ac9m2sp02-p-004\"></use></svg>",
+    "question": "Which place is immediately to the right of Pond?",
+    "audioPrompt": "Which place is immediately to the right of Pond?",
+    "visual": "Four-by-four playground grid. Rows from top: Gate, Tree, Slide, Tap; Bench, Pond, Sand, Shed; Path, Flowers, Table, Bin; Door, Mat, Steps, Wall.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Four-by-four playground grid. Rows from top: Gate, Tree, Slide, Tap; Bench, Pond, Sand, Shed; Path, Flowers, Table, Bin; Door, Mat, Steps, Wall.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2sp02.svg?v=20260906-year2-pending-release#ac9m2sp02-p-004\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2sp02.svg#ac9m2sp02-p-004",
-      "alt_text": "On the classroom map: A slide, tree and bench arranged in that order."
+      "alt_text": "Four-by-four playground grid. Rows from top: Gate, Tree, Slide, Tap; Bench, Pond, Sand, Shed; Path, Flowers, Table, Bin; Door, Mat, Steps, Wall.",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2sp02.svg?v=20260906-year2-pending-release#ac9m2sp02-p-004"
     },
     "answers": [
-      "the tree",
-      "the slide",
-      "the bench"
+      "Bench",
+      "Flowers",
+      "Sand"
     ],
     "difficulty": 1,
-    "difficultyTier": "confidence",
-    "sequencePriority": 1,
-    "correct": 0,
-    "explanation": "Between means in the middle of two landmarks.\nHint: Name the object with one landmark on each side.",
+    "difficultyTier": "recognise",
+    "sequencePriority": 4,
+    "correct": 2,
+    "explanation": "In the second row, Sand is one square right of Pond.\nHint: Use the information in the question and check each step.",
     "structuredExplanation": {
-      "summary": "Between means in the middle of two landmarks.",
-      "hint": "Name the object with one landmark on each side."
+      "summary": "In the second row, Sand is one square right of Pond.",
+      "hint": "Use the information in the question and check each step."
     },
     "qualitySchema": "production-v1"
   },
@@ -132,31 +132,31 @@ window.skillrPracticeQuestions = [
     "id": "ac9m2sp02-p-005",
     "curriculumCode": "AC9M2SP02",
     "bank": "practice",
-    "skill": "interpret map view",
+    "skill": "single move",
     "printable": true,
     "type": "single",
-    "question": "On the classroom map, what does a classroom map show?",
-    "audioPrompt": "On the classroom map, what does a classroom map show?",
-    "visual": "On the classroom map: Top-down classroom map with desks shown as rectangles on a grid.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"On the classroom map: Top-down classroom map with desks shown as rectangles on a grid.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2sp02.svg#ac9m2sp02-p-005\"></use></svg>",
+    "question": "Start at Gate and move 2 squares right. Where do you arrive?",
+    "audioPrompt": "Start at Gate and move 2 squares right. Where do you arrive?",
+    "visual": "Four-by-four playground grid. Rows from top: Gate, Tree, Slide, Tap; Bench, Pond, Sand, Shed; Path, Flowers, Table, Bin; Door, Mat, Steps, Wall.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Four-by-four playground grid. Rows from top: Gate, Tree, Slide, Tap; Bench, Pond, Sand, Shed; Path, Flowers, Table, Bin; Door, Mat, Steps, Wall.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2sp02.svg?v=20260906-year2-pending-release#ac9m2sp02-p-005\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2sp02.svg#ac9m2sp02-p-005",
-      "alt_text": "On the classroom map: Top-down classroom map with desks shown as rectangles on a grid."
+      "alt_text": "Four-by-four playground grid. Rows from top: Gate, Tree, Slide, Tap; Bench, Pond, Sand, Shed; Path, Flowers, Table, Bin; Door, Mat, Steps, Wall.",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2sp02.svg?v=20260906-year2-pending-release#ac9m2sp02-p-005"
     },
     "answers": [
-      "how heavy the furniture is",
-      "where things are from above",
-      "what time the class starts"
+      "Tree",
+      "Slide",
+      "Tap"
     ],
     "difficulty": 1,
-    "difficultyTier": "confidence",
-    "sequencePriority": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 5,
     "correct": 1,
-    "explanation": "A map is a two-dimensional view that shows positions from above.\nHint: Imagine looking down at the room from the ceiling.",
+    "explanation": "Gate to Tree is one step; Tree to Slide is the second.\nHint: Use the information in the question and check each step.",
     "structuredExplanation": {
-      "summary": "A map is a two-dimensional view that shows positions from above.",
-      "hint": "Imagine looking down at the room from the ceiling."
+      "summary": "Gate to Tree is one step; Tree to Slide is the second.",
+      "hint": "Use the information in the question and check each step."
     },
     "qualitySchema": "production-v1"
   },
@@ -164,31 +164,31 @@ window.skillrPracticeQuestions = [
     "id": "ac9m2sp02-p-006",
     "curriculumCode": "AC9M2SP02",
     "bank": "practice",
-    "skill": "choose precise direction",
+    "skill": "down move",
     "printable": true,
     "type": "single",
-    "question": "On the classroom map, which direction tells someone exactly where to go?",
-    "audioPrompt": "On the classroom map, which direction tells someone exactly where to go?",
-    "visual": "On the classroom map: Grid path moving two squares up from a start dot to a door.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"On the classroom map: Grid path moving two squares up from a start dot to a door.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2sp02.svg#ac9m2sp02-p-006\"></use></svg>",
+    "question": "Start at Tap and move 3 squares down. Where do you finish?",
+    "audioPrompt": "Start at Tap and move 3 squares down. Where do you finish?",
+    "visual": "Four-by-four playground grid. Rows from top: Gate, Tree, Slide, Tap; Bench, Pond, Sand, Shed; Path, Flowers, Table, Bin; Door, Mat, Steps, Wall.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Four-by-four playground grid. Rows from top: Gate, Tree, Slide, Tap; Bench, Pond, Sand, Shed; Path, Flowers, Table, Bin; Door, Mat, Steps, Wall.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2sp02.svg?v=20260906-year2-pending-release#ac9m2sp02-p-006\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2sp02.svg#ac9m2sp02-p-006",
-      "alt_text": "On the classroom map: Grid path moving two squares up from a start dot to a door."
+      "alt_text": "Four-by-four playground grid. Rows from top: Gate, Tree, Slide, Tap; Bench, Pond, Sand, Shed; Path, Flowers, Table, Bin; Door, Mat, Steps, Wall.",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2sp02.svg?v=20260906-year2-pending-release#ac9m2sp02-p-006"
     },
     "answers": [
-      "Go over there",
-      "Move somewhere near the wall",
-      "Walk 2 squares up to the door"
+      "Wall",
+      "Bin",
+      "Shed"
     ],
     "difficulty": 1,
-    "difficultyTier": "confidence",
-    "sequencePriority": 1,
-    "correct": 2,
-    "explanation": "The first direction gives a distance, direction and landmark.\nHint: A useful direction should tell how far and which way.",
+    "difficultyTier": "recognise",
+    "sequencePriority": 6,
+    "correct": 0,
+    "explanation": "Follow Tap, Shed, Bin, Wall: three moves.\nHint: Use the information in the question and check each step.",
     "structuredExplanation": {
-      "summary": "The first direction gives a distance, direction and landmark.",
-      "hint": "A useful direction should tell how far and which way."
+      "summary": "Follow Tap, Shed, Bin, Wall: three moves.",
+      "hint": "Use the information in the question and check each step."
     },
     "qualitySchema": "production-v1"
   },
@@ -196,31 +196,31 @@ window.skillrPracticeQuestions = [
     "id": "ac9m2sp02-p-007",
     "curriculumCode": "AC9M2SP02",
     "bank": "practice",
-    "skill": "describe path endpoint",
+    "skill": "path",
     "printable": true,
     "type": "single",
-    "question": "On the classroom map, a robot follows: right 1, down 1, right 1. How many squares right of the start does it finish?",
-    "audioPrompt": "On the classroom map, a robot follows: right 1, down 1, right 1. How many squares right of the start does it finish?",
-    "visual": "On the classroom map: Grid path moving right, down, then right from the start.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"On the classroom map: Grid path moving right, down, then right from the start.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2sp02.svg#ac9m2sp02-p-007\"></use></svg>",
+    "question": "Start at Door. Move 2 right, then 1 up. Where are you?",
+    "audioPrompt": "Start at Door. Move 2 right, then 1 up. Where are you?",
+    "visual": "Four-by-four playground grid. Rows from top: Gate, Tree, Slide, Tap; Bench, Pond, Sand, Shed; Path, Flowers, Table, Bin; Door, Mat, Steps, Wall.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Four-by-four playground grid. Rows from top: Gate, Tree, Slide, Tap; Bench, Pond, Sand, Shed; Path, Flowers, Table, Bin; Door, Mat, Steps, Wall.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2sp02.svg?v=20260906-year2-pending-release#ac9m2sp02-p-007\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2sp02.svg#ac9m2sp02-p-007",
-      "alt_text": "On the classroom map: Grid path moving right, down, then right from the start."
+      "alt_text": "Four-by-four playground grid. Rows from top: Gate, Tree, Slide, Tap; Bench, Pond, Sand, Shed; Path, Flowers, Table, Bin; Door, Mat, Steps, Wall.",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2sp02.svg?v=20260906-year2-pending-release#ac9m2sp02-p-007"
     },
     "answers": [
-      "2",
-      "1",
-      "3"
+      "Sand",
+      "Table",
+      "Steps"
     ],
     "difficulty": 1,
-    "difficultyTier": "confidence",
-    "sequencePriority": 1,
-    "correct": 0,
-    "explanation": "The robot makes two right moves, so it finishes 2 squares to the right.\nHint: Track horizontal and vertical moves separately.",
+    "difficultyTier": "recognise",
+    "sequencePriority": 7,
+    "correct": 1,
+    "explanation": "Two right reaches Steps; one up reaches Table.\nHint: Use the information in the question and check each step.",
     "structuredExplanation": {
-      "summary": "The robot makes two right moves, so it finishes 2 squares to the right.",
-      "hint": "Track horizontal and vertical moves separately."
+      "summary": "Two right reaches Steps; one up reaches Table.",
+      "hint": "Use the information in the question and check each step."
     },
     "qualitySchema": "production-v1"
   },
@@ -228,31 +228,31 @@ window.skillrPracticeQuestions = [
     "id": "ac9m2sp02-p-008",
     "curriculumCode": "AC9M2SP02",
     "bank": "practice",
-    "skill": "explain path order",
+    "skill": "left path",
     "printable": true,
     "type": "single",
-    "question": "On the classroom map, why must map directions be followed in order?",
-    "audioPrompt": "On the classroom map, why must map directions be followed in order?",
-    "visual": "On the classroom map: Two grid pathways with the same moves in different orders and different routes.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"On the classroom map: Two grid pathways with the same moves in different orders and different routes.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2sp02.svg#ac9m2sp02-p-008\"></use></svg>",
+    "question": "Start at Shed. Move 1 down, then 2 left. Where do you finish?",
+    "audioPrompt": "Start at Shed. Move 1 down, then 2 left. Where do you finish?",
+    "visual": "Four-by-four playground grid. Rows from top: Gate, Tree, Slide, Tap; Bench, Pond, Sand, Shed; Path, Flowers, Table, Bin; Door, Mat, Steps, Wall.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Four-by-four playground grid. Rows from top: Gate, Tree, Slide, Tap; Bench, Pond, Sand, Shed; Path, Flowers, Table, Bin; Door, Mat, Steps, Wall.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2sp02.svg?v=20260906-year2-pending-release#ac9m2sp02-p-008\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2sp02.svg#ac9m2sp02-p-008",
-      "alt_text": "On the classroom map: Two grid pathways with the same moves in different orders and different routes."
+      "alt_text": "Four-by-four playground grid. Rows from top: Gate, Tree, Slide, Tap; Bench, Pond, Sand, Shed; Path, Flowers, Table, Bin; Door, Mat, Steps, Wall.",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2sp02.svg?v=20260906-year2-pending-release#ac9m2sp02-p-008"
     },
     "answers": [
-      "The map changes colour",
-      "A different order can end at a different place",
-      "The landmarks disappear"
+      "Path",
+      "Table",
+      "Flowers"
     ],
     "difficulty": 1,
-    "difficultyTier": "confidence",
-    "sequencePriority": 1,
-    "correct": 1,
-    "explanation": "Changing the order can change the pathway and finishing position.\nHint: Try swapping the first two moves on the grid.",
+    "difficultyTier": "recognise",
+    "sequencePriority": 8,
+    "correct": 2,
+    "explanation": "Shed to Bin, then Table, then Flowers.\nHint: Use the information in the question and check each step.",
     "structuredExplanation": {
-      "summary": "Changing the order can change the pathway and finishing position.",
-      "hint": "Try swapping the first two moves on the grid."
+      "summary": "Shed to Bin, then Table, then Flowers.",
+      "hint": "Use the information in the question and check each step."
     },
     "qualitySchema": "production-v1"
   },
@@ -260,30 +260,31 @@ window.skillrPracticeQuestions = [
     "id": "ac9m2sp02-p-009",
     "curriculumCode": "AC9M2SP02",
     "bank": "practice",
-    "skill": "locate position using landmark",
+    "skill": "instruction",
     "printable": true,
     "type": "single",
-    "question": "On the playground map, the library is above the canteen on the map. Where is the library?",
-    "audioPrompt": "On the playground map, the library is above the canteen on the map. Where is the library?",
-    "visual": "On the playground map: Simple map with the library one grid square above the canteen.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"On the playground map: Simple map with the library one grid square above the canteen.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2sp02.svg#ac9m2sp02-p-009\"></use></svg>",
+    "question": "Which instruction takes you from Pond to Tree?",
+    "audioPrompt": "Which instruction takes you from Pond to Tree?",
+    "visual": "Four-by-four playground grid. Rows from top: Gate, Tree, Slide, Tap; Bench, Pond, Sand, Shed; Path, Flowers, Table, Bin; Door, Mat, Steps, Wall.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Four-by-four playground grid. Rows from top: Gate, Tree, Slide, Tap; Bench, Pond, Sand, Shed; Path, Flowers, Table, Bin; Door, Mat, Steps, Wall.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2sp02.svg?v=20260906-year2-pending-release#ac9m2sp02-p-009\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2sp02.svg#ac9m2sp02-p-009",
-      "alt_text": "On the playground map: Simple map with the library one grid square above the canteen."
+      "alt_text": "Four-by-four playground grid. Rows from top: Gate, Tree, Slide, Tap; Bench, Pond, Sand, Shed; Path, Flowers, Table, Bin; Door, Mat, Steps, Wall.",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2sp02.svg?v=20260906-year2-pending-release#ac9m2sp02-p-009"
     },
     "answers": [
-      "below the canteen",
-      "inside the canteen",
-      "above the canteen"
+      "Move 1 square up",
+      "Move 1 square left",
+      "Move 2 squares up"
     ],
-    "difficulty": 3,
-    "sequencePriority": 2,
-    "correct": 2,
-    "explanation": "The library is higher on the map, so it is above the canteen.\nHint: Find the canteen first, then look directly higher.",
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 9,
+    "correct": 0,
+    "explanation": "Tree is directly above Pond.\nHint: Use the information in the question and check each step.",
     "structuredExplanation": {
-      "summary": "The library is higher on the map, so it is above the canteen.",
-      "hint": "Find the canteen first, then look directly higher."
+      "summary": "Tree is directly above Pond.",
+      "hint": "Use the information in the question and check each step."
     },
     "qualitySchema": "production-v1"
   },
@@ -291,30 +292,31 @@ window.skillrPracticeQuestions = [
     "id": "ac9m2sp02-p-010",
     "curriculumCode": "AC9M2SP02",
     "bank": "practice",
-    "skill": "follow horizontal path",
+    "skill": "two step route",
     "printable": true,
     "type": "single",
-    "question": "On the playground map, start at the orange dot. Move 2 squares right. Where do you finish?",
-    "audioPrompt": "On the playground map, start at the orange dot. Move 2 squares right. Where do you finish?",
-    "visual": "On the playground map: Grid map with an orange start dot and a path moving 2 squares right.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"On the playground map: Grid map with an orange start dot and a path moving 2 squares right.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2sp02.svg#ac9m2sp02-p-010\"></use></svg>",
+    "question": "Which route takes you from Gate to Sand?",
+    "audioPrompt": "Which route takes you from Gate to Sand?",
+    "visual": "Four-by-four playground grid. Rows from top: Gate, Tree, Slide, Tap; Bench, Pond, Sand, Shed; Path, Flowers, Table, Bin; Door, Mat, Steps, Wall.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Four-by-four playground grid. Rows from top: Gate, Tree, Slide, Tap; Bench, Pond, Sand, Shed; Path, Flowers, Table, Bin; Door, Mat, Steps, Wall.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2sp02.svg?v=20260906-year2-pending-release#ac9m2sp02-p-010\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2sp02.svg#ac9m2sp02-p-010",
-      "alt_text": "On the playground map: Grid map with an orange start dot and a path moving 2 squares right."
+      "alt_text": "Four-by-four playground grid. Rows from top: Gate, Tree, Slide, Tap; Bench, Pond, Sand, Shed; Path, Flowers, Table, Bin; Door, Mat, Steps, Wall.",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2sp02.svg?v=20260906-year2-pending-release#ac9m2sp02-p-010"
     },
     "answers": [
-      "2 squares to the right",
-      "2 squares to the left",
-      "2 squares up"
+      "2 right, then 1 down",
+      "1 right, then 2 down",
+      "2 down, then 1 left"
     ],
-    "difficulty": 3,
-    "sequencePriority": 2,
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 10,
     "correct": 0,
-    "explanation": "Moving right keeps the same row and increases the column by 2.\nHint: Face the top of the map, then move toward your right hand.",
+    "explanation": "Two right reaches Slide; one down reaches Sand.\nHint: Use the information in the question and check each step.",
     "structuredExplanation": {
-      "summary": "Moving right keeps the same row and increases the column by 2.",
-      "hint": "Face the top of the map, then move toward your right hand."
+      "summary": "Two right reaches Slide; one down reaches Sand.",
+      "hint": "Use the information in the question and check each step."
     },
     "qualitySchema": "production-v1"
   },
@@ -322,30 +324,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m2sp02-p-011",
     "curriculumCode": "AC9M2SP02",
     "bank": "practice",
-    "skill": "follow multi step path",
+    "skill": "start matters",
     "printable": true,
     "type": "single",
-    "question": "On the playground map, start at the orange dot. Move 1 square down, then 2 squares right. Which path is correct?",
-    "audioPrompt": "On the playground map, start at the orange dot. Move 1 square down, then 2 squares right. Which path is correct?",
-    "visual": "On the playground map: Grid map with a path moving down one square and then right two squares.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"On the playground map: Grid map with a path moving down one square and then right two squares.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2sp02.svg#ac9m2sp02-p-011\"></use></svg>",
+    "question": "You follow “1 square right”. What else must you know to find the destination?",
+    "audioPrompt": "You follow “1 square right”. What else must you know to find the destination?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2sp02.svg#ac9m2sp02-p-011",
-      "alt_text": "On the playground map: Grid map with a path moving down one square and then right two squares."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "right 1, then down 2",
-      "down 1, then right 2",
-      "up 1, then left 2"
+      "The colour of the page",
+      "The time of day",
+      "The starting square"
     ],
-    "difficulty": 3,
-    "sequencePriority": 2,
-    "correct": 1,
-    "explanation": "Directions must be followed in order: down 1 first, then right 2.\nHint: Do one instruction at a time and mark each stop.",
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 11,
+    "correct": 2,
+    "explanation": "The same move leads to different destinations from different starts.\nHint: Use the information in the question and check each step.",
     "structuredExplanation": {
-      "summary": "Directions must be followed in order: down 1 first, then right 2.",
-      "hint": "Do one instruction at a time and mark each stop."
+      "summary": "The same move leads to different destinations from different starts.",
+      "hint": "Use the information in the question and check each step."
     },
     "qualitySchema": "production-v1"
   },
@@ -353,30 +355,31 @@ window.skillrPracticeQuestions = [
     "id": "ac9m2sp02-p-012",
     "curriculumCode": "AC9M2SP02",
     "bank": "practice",
-    "skill": "use between position word",
+    "skill": "count moves",
     "printable": true,
     "type": "single",
-    "question": "On the playground map, the tree is between the slide and the bench. Which object is in the middle?",
-    "audioPrompt": "On the playground map, the tree is between the slide and the bench. Which object is in the middle?",
-    "visual": "On the playground map: A slide, tree and bench arranged in that order.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"On the playground map: A slide, tree and bench arranged in that order.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2sp02.svg#ac9m2sp02-p-012\"></use></svg>",
+    "question": "From Path, follow 1 right, 1 up, 1 right. How many moves do you make?",
+    "audioPrompt": "From Path, follow 1 right, 1 up, 1 right. How many moves do you make?",
+    "visual": "Four-by-four playground grid. Rows from top: Gate, Tree, Slide, Tap; Bench, Pond, Sand, Shed; Path, Flowers, Table, Bin; Door, Mat, Steps, Wall.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Four-by-four playground grid. Rows from top: Gate, Tree, Slide, Tap; Bench, Pond, Sand, Shed; Path, Flowers, Table, Bin; Door, Mat, Steps, Wall.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2sp02.svg?v=20260906-year2-pending-release#ac9m2sp02-p-012\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2sp02.svg#ac9m2sp02-p-012",
-      "alt_text": "On the playground map: A slide, tree and bench arranged in that order."
+      "alt_text": "Four-by-four playground grid. Rows from top: Gate, Tree, Slide, Tap; Bench, Pond, Sand, Shed; Path, Flowers, Table, Bin; Door, Mat, Steps, Wall.",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2sp02.svg?v=20260906-year2-pending-release#ac9m2sp02-p-012"
     },
     "answers": [
-      "the slide",
-      "the bench",
-      "the tree"
+      "2",
+      "3",
+      "4"
     ],
-    "difficulty": 3,
-    "sequencePriority": 2,
-    "correct": 2,
-    "explanation": "Between means in the middle of two landmarks.\nHint: Name the object with one landmark on each side.",
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 12,
+    "correct": 1,
+    "explanation": "There are three one-square moves.\nHint: Use the information in the question and check each step.",
     "structuredExplanation": {
-      "summary": "Between means in the middle of two landmarks.",
-      "hint": "Name the object with one landmark on each side."
+      "summary": "There are three one-square moves.",
+      "hint": "Use the information in the question and check each step."
     },
     "qualitySchema": "production-v1"
   },
@@ -384,30 +387,31 @@ window.skillrPracticeQuestions = [
     "id": "ac9m2sp02-p-013",
     "curriculumCode": "AC9M2SP02",
     "bank": "practice",
-    "skill": "interpret map view",
+    "skill": "trace",
     "printable": true,
     "type": "single",
-    "question": "On the playground map, what does a classroom map show?",
-    "audioPrompt": "On the playground map, what does a classroom map show?",
-    "visual": "On the playground map: Top-down classroom map with desks shown as rectangles on a grid.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"On the playground map: Top-down classroom map with desks shown as rectangles on a grid.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2sp02.svg#ac9m2sp02-p-013\"></use></svg>",
+    "question": "From Path, follow 1 right, 1 up, 1 right. Which place do you pass through second, after leaving Path?",
+    "audioPrompt": "From Path, follow 1 right, 1 up, 1 right. Which place do you pass through second, after leaving Path?",
+    "visual": "Four-by-four playground grid. Rows from top: Gate, Tree, Slide, Tap; Bench, Pond, Sand, Shed; Path, Flowers, Table, Bin; Door, Mat, Steps, Wall.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Four-by-four playground grid. Rows from top: Gate, Tree, Slide, Tap; Bench, Pond, Sand, Shed; Path, Flowers, Table, Bin; Door, Mat, Steps, Wall.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2sp02.svg?v=20260906-year2-pending-release#ac9m2sp02-p-013\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2sp02.svg#ac9m2sp02-p-013",
-      "alt_text": "On the playground map: Top-down classroom map with desks shown as rectangles on a grid."
+      "alt_text": "Four-by-four playground grid. Rows from top: Gate, Tree, Slide, Tap; Bench, Pond, Sand, Shed; Path, Flowers, Table, Bin; Door, Mat, Steps, Wall.",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2sp02.svg?v=20260906-year2-pending-release#ac9m2sp02-p-013"
     },
     "answers": [
-      "where things are from above",
-      "how heavy the furniture is",
-      "what time the class starts"
+      "Flowers",
+      "Sand",
+      "Pond"
     ],
-    "difficulty": 3,
-    "sequencePriority": 2,
-    "correct": 0,
-    "explanation": "A map is a two-dimensional view that shows positions from above.\nHint: Imagine looking down at the room from the ceiling.",
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 13,
+    "correct": 2,
+    "explanation": "The successive places are Flowers, Pond and Sand.\nHint: Use the information in the question and check each step.",
     "structuredExplanation": {
-      "summary": "A map is a two-dimensional view that shows positions from above.",
-      "hint": "Imagine looking down at the room from the ceiling."
+      "summary": "The successive places are Flowers, Pond and Sand.",
+      "hint": "Use the information in the question and check each step."
     },
     "qualitySchema": "production-v1"
   },
@@ -415,30 +419,31 @@ window.skillrPracticeQuestions = [
     "id": "ac9m2sp02-p-014",
     "curriculumCode": "AC9M2SP02",
     "bank": "practice",
-    "skill": "choose precise direction",
+    "skill": "reverse",
     "printable": true,
     "type": "single",
-    "question": "On the playground map, which direction tells someone exactly where to go?",
-    "audioPrompt": "On the playground map, which direction tells someone exactly where to go?",
-    "visual": "On the playground map: Grid path moving two squares up from a start dot to a door.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"On the playground map: Grid path moving two squares up from a start dot to a door.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2sp02.svg#ac9m2sp02-p-014\"></use></svg>",
+    "question": "You travel from Mat to Flowers by moving up once. How do you return?",
+    "audioPrompt": "You travel from Mat to Flowers by moving up once. How do you return?",
+    "visual": "Four-by-four playground grid. Rows from top: Gate, Tree, Slide, Tap; Bench, Pond, Sand, Shed; Path, Flowers, Table, Bin; Door, Mat, Steps, Wall.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Four-by-four playground grid. Rows from top: Gate, Tree, Slide, Tap; Bench, Pond, Sand, Shed; Path, Flowers, Table, Bin; Door, Mat, Steps, Wall.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2sp02.svg?v=20260906-year2-pending-release#ac9m2sp02-p-014\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2sp02.svg#ac9m2sp02-p-014",
-      "alt_text": "On the playground map: Grid path moving two squares up from a start dot to a door."
+      "alt_text": "Four-by-four playground grid. Rows from top: Gate, Tree, Slide, Tap; Bench, Pond, Sand, Shed; Path, Flowers, Table, Bin; Door, Mat, Steps, Wall.",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2sp02.svg?v=20260906-year2-pending-release#ac9m2sp02-p-014"
     },
     "answers": [
-      "Go over there",
-      "Walk 2 squares up to the door",
-      "Move somewhere near the wall"
+      "Move down once",
+      "Move up once",
+      "Move left once"
     ],
-    "difficulty": 3,
-    "sequencePriority": 2,
-    "correct": 1,
-    "explanation": "The first direction gives a distance, direction and landmark.\nHint: A useful direction should tell how far and which way.",
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 14,
+    "correct": 0,
+    "explanation": "Reverse the upward move with a downward move.\nHint: Use the information in the question and check each step.",
     "structuredExplanation": {
-      "summary": "The first direction gives a distance, direction and landmark.",
-      "hint": "A useful direction should tell how far and which way."
+      "summary": "Reverse the upward move with a downward move.",
+      "hint": "Use the information in the question and check each step."
     },
     "qualitySchema": "production-v1"
   },
@@ -446,30 +451,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m2sp02-p-015",
     "curriculumCode": "AC9M2SP02",
     "bank": "practice",
-    "skill": "describe path endpoint",
+    "skill": "reverse sequence",
     "printable": true,
     "type": "single",
-    "question": "On the playground map, a robot follows: right 1, down 1, right 1. How many squares right of the start does it finish?",
-    "audioPrompt": "On the playground map, a robot follows: right 1, down 1, right 1. How many squares right of the start does it finish?",
-    "visual": "On the playground map: Grid path moving right, down, then right from the start.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"On the playground map: Grid path moving right, down, then right from the start.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2sp02.svg#ac9m2sp02-p-015\"></use></svg>",
+    "question": "A route goes 2 right, then 1 up. Which route retraces it from the finish?",
+    "audioPrompt": "A route goes 2 right, then 1 up. Which route retraces it from the finish?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2sp02.svg#ac9m2sp02-p-015",
-      "alt_text": "On the playground map: Grid path moving right, down, then right from the start."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "1",
-      "3",
-      "2"
+      "2 left, then 1 down",
+      "1 down, then 2 left",
+      "2 right, then 1 down"
     ],
-    "difficulty": 3,
-    "sequencePriority": 2,
-    "correct": 2,
-    "explanation": "The robot makes two right moves, so it finishes 2 squares to the right.\nHint: Track horizontal and vertical moves separately.",
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 15,
+    "correct": 1,
+    "explanation": "Undo the last move first, then undo the earlier rightward moves.\nHint: Use the information in the question and check each step.",
     "structuredExplanation": {
-      "summary": "The robot makes two right moves, so it finishes 2 squares to the right.",
-      "hint": "Track horizontal and vertical moves separately."
+      "summary": "Undo the last move first, then undo the earlier rightward moves.",
+      "hint": "Use the information in the question and check each step."
     },
     "qualitySchema": "production-v1"
   },
@@ -477,30 +482,31 @@ window.skillrPracticeQuestions = [
     "id": "ac9m2sp02-p-016",
     "curriculumCode": "AC9M2SP02",
     "bank": "practice",
-    "skill": "explain path order",
+    "skill": "obstacle",
     "printable": true,
     "type": "single",
-    "question": "On the playground map, why must map directions be followed in order?",
-    "audioPrompt": "On the playground map, why must map directions be followed in order?",
-    "visual": "On the playground map: Two grid pathways with the same moves in different orders and different routes.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"On the playground map: Two grid pathways with the same moves in different orders and different routes.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2sp02.svg#ac9m2sp02-p-016\"></use></svg>",
+    "question": "The Pond square is closed. Which route gets from Bench to Sand without entering Pond?",
+    "audioPrompt": "The Pond square is closed. Which route gets from Bench to Sand without entering Pond?",
+    "visual": "Four-by-four playground grid. Rows from top: Gate, Tree, Slide, Tap; Bench, Pond, Sand, Shed; Path, Flowers, Table, Bin; Door, Mat, Steps, Wall.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Four-by-four playground grid. Rows from top: Gate, Tree, Slide, Tap; Bench, Pond, Sand, Shed; Path, Flowers, Table, Bin; Door, Mat, Steps, Wall.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2sp02.svg?v=20260906-year2-pending-release#ac9m2sp02-p-016\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2sp02.svg#ac9m2sp02-p-016",
-      "alt_text": "On the playground map: Two grid pathways with the same moves in different orders and different routes."
+      "alt_text": "Four-by-four playground grid. Rows from top: Gate, Tree, Slide, Tap; Bench, Pond, Sand, Shed; Path, Flowers, Table, Bin; Door, Mat, Steps, Wall.",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2sp02.svg?v=20260906-year2-pending-release#ac9m2sp02-p-016"
     },
     "answers": [
-      "A different order can end at a different place",
-      "The map changes colour",
-      "The landmarks disappear"
+      "2 right",
+      "1 up, 2 right, 1 down",
+      "1 right, 1 up, 1 right, 1 down"
     ],
-    "difficulty": 3,
-    "sequencePriority": 2,
-    "correct": 0,
-    "explanation": "Changing the order can change the pathway and finishing position.\nHint: Try swapping the first two moves on the grid.",
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 16,
+    "correct": 1,
+    "explanation": "The first route goes through Gate, Tree and Slide, avoiding Pond.\nHint: Use the information in the question and check each step.",
     "structuredExplanation": {
-      "summary": "Changing the order can change the pathway and finishing position.",
-      "hint": "Try swapping the first two moves on the grid."
+      "summary": "The first route goes through Gate, Tree and Slide, avoiding Pond.",
+      "hint": "Use the information in the question and check each step."
     },
     "qualitySchema": "production-v1"
   },
@@ -508,30 +514,31 @@ window.skillrPracticeQuestions = [
     "id": "ac9m2sp02-p-017",
     "curriculumCode": "AC9M2SP02",
     "bank": "practice",
-    "skill": "locate position using landmark",
+    "skill": "same finish",
     "printable": true,
     "type": "single",
-    "question": "In the robot grid, the library is above the canteen on the map. Where is the library?",
-    "audioPrompt": "In the robot grid, the library is above the canteen on the map. Where is the library?",
-    "visual": "In the robot grid: Simple map with the library one grid square above the canteen.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In the robot grid: Simple map with the library one grid square above the canteen.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2sp02.svg#ac9m2sp02-p-017\"></use></svg>",
+    "question": "From Gate, compare “2 right then 1 down” with “1 down then 2 right”. Do they end at the same place if all squares are open?",
+    "audioPrompt": "From Gate, compare “2 right then 1 down” with “1 down then 2 right”. Do they end at the same place if all squares are open?",
+    "visual": "Four-by-four playground grid. Rows from top: Gate, Tree, Slide, Tap; Bench, Pond, Sand, Shed; Path, Flowers, Table, Bin; Door, Mat, Steps, Wall.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Four-by-four playground grid. Rows from top: Gate, Tree, Slide, Tap; Bench, Pond, Sand, Shed; Path, Flowers, Table, Bin; Door, Mat, Steps, Wall.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2sp02.svg?v=20260906-year2-pending-release#ac9m2sp02-p-017\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2sp02.svg#ac9m2sp02-p-017",
-      "alt_text": "In the robot grid: Simple map with the library one grid square above the canteen."
+      "alt_text": "Four-by-four playground grid. Rows from top: Gate, Tree, Slide, Tap; Bench, Pond, Sand, Shed; Path, Flowers, Table, Bin; Door, Mat, Steps, Wall.",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2sp02.svg?v=20260906-year2-pending-release#ac9m2sp02-p-017"
     },
     "answers": [
-      "below the canteen",
-      "above the canteen",
-      "inside the canteen"
+      "Yes; both finish at Sand",
+      "No; one finishes at Pond",
+      "No; changing order always changes the finish"
     ],
     "difficulty": 3,
-    "sequencePriority": 2,
-    "correct": 1,
-    "explanation": "The library is higher on the map, so it is above the canteen.\nHint: Find the canteen first, then look directly higher.",
+    "difficultyTier": "reason",
+    "sequencePriority": 17,
+    "correct": 0,
+    "explanation": "Both routes make the same total moves right and down, though they pass different places.\nHint: Use the information in the question and check each step.",
     "structuredExplanation": {
-      "summary": "The library is higher on the map, so it is above the canteen.",
-      "hint": "Find the canteen first, then look directly higher."
+      "summary": "Both routes make the same total moves right and down, though they pass different places.",
+      "hint": "Use the information in the question and check each step."
     },
     "qualitySchema": "production-v1"
   },
@@ -539,30 +546,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m2sp02-p-018",
     "curriculumCode": "AC9M2SP02",
     "bank": "practice",
-    "skill": "follow horizontal path",
+    "skill": "map view",
     "printable": true,
     "type": "single",
-    "question": "In the robot grid, start at the orange dot. Move 2 squares right. Where do you finish?",
-    "audioPrompt": "In the robot grid, start at the orange dot. Move 2 squares right. Where do you finish?",
-    "visual": "In the robot grid: Grid map with an orange start dot and a path moving 2 squares right.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In the robot grid: Grid map with an orange start dot and a path moving 2 squares right.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2sp02.svg#ac9m2sp02-p-018\"></use></svg>",
+    "question": "A plan shows where tables and doors are from above. What does it help you do?",
+    "audioPrompt": "A plan shows where tables and doors are from above. What does it help you do?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2sp02.svg#ac9m2sp02-p-018",
-      "alt_text": "In the robot grid: Grid map with an orange start dot and a path moving 2 squares right."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "2 squares to the left",
-      "2 squares up",
-      "2 squares to the right"
+      "Know the exact colour of the ceiling",
+      "Find the age of every table",
+      "Locate places and follow routes"
     ],
     "difficulty": 3,
-    "sequencePriority": 2,
+    "difficultyTier": "reason",
+    "sequencePriority": 18,
     "correct": 2,
-    "explanation": "Moving right keeps the same row and increases the column by 2.\nHint: Face the top of the map, then move toward your right hand.",
+    "explanation": "A plan represents positions within the space.\nHint: Use the information in the question and check each step.",
     "structuredExplanation": {
-      "summary": "Moving right keeps the same row and increases the column by 2.",
-      "hint": "Face the top of the map, then move toward your right hand."
+      "summary": "A plan represents positions within the space.",
+      "hint": "Use the information in the question and check each step."
     },
     "qualitySchema": "production-v1"
   },
@@ -570,30 +577,31 @@ window.skillrPracticeQuestions = [
     "id": "ac9m2sp02-p-019",
     "curriculumCode": "AC9M2SP02",
     "bank": "practice",
-    "skill": "follow multi step path",
+    "skill": "boundary",
     "printable": true,
     "type": "single",
-    "question": "In the robot grid, start at the orange dot. Move 1 square down, then 2 squares right. Which path is correct?",
-    "audioPrompt": "In the robot grid, start at the orange dot. Move 1 square down, then 2 squares right. Which path is correct?",
-    "visual": "In the robot grid: Grid map with a path moving down one square and then right two squares.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In the robot grid: Grid map with a path moving down one square and then right two squares.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2sp02.svg#ac9m2sp02-p-019\"></use></svg>",
+    "question": "Start at Tap. Can you move 1 square right and remain inside this plan?",
+    "audioPrompt": "Start at Tap. Can you move 1 square right and remain inside this plan?",
+    "visual": "Four-by-four playground grid. Rows from top: Gate, Tree, Slide, Tap; Bench, Pond, Sand, Shed; Path, Flowers, Table, Bin; Door, Mat, Steps, Wall.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Four-by-four playground grid. Rows from top: Gate, Tree, Slide, Tap; Bench, Pond, Sand, Shed; Path, Flowers, Table, Bin; Door, Mat, Steps, Wall.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2sp02.svg?v=20260906-year2-pending-release#ac9m2sp02-p-019\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2sp02.svg#ac9m2sp02-p-019",
-      "alt_text": "In the robot grid: Grid map with a path moving down one square and then right two squares."
+      "alt_text": "Four-by-four playground grid. Rows from top: Gate, Tree, Slide, Tap; Bench, Pond, Sand, Shed; Path, Flowers, Table, Bin; Door, Mat, Steps, Wall.",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2sp02.svg?v=20260906-year2-pending-release#ac9m2sp02-p-019"
     },
     "answers": [
-      "down 1, then right 2",
-      "right 1, then down 2",
-      "up 1, then left 2"
+      "No; Tap is at the right edge",
+      "Yes; you reach Gate",
+      "Yes; you reach Shed"
     ],
     "difficulty": 3,
-    "sequencePriority": 2,
+    "difficultyTier": "reason",
+    "sequencePriority": 19,
     "correct": 0,
-    "explanation": "Directions must be followed in order: down 1 first, then right 2.\nHint: Do one instruction at a time and mark each stop.",
+    "explanation": "There is no square to the right of Tap.\nHint: Use the information in the question and check each step.",
     "structuredExplanation": {
-      "summary": "Directions must be followed in order: down 1 first, then right 2.",
-      "hint": "Do one instruction at a time and mark each stop."
+      "summary": "There is no square to the right of Tap.",
+      "hint": "Use the information in the question and check each step."
     },
     "qualitySchema": "production-v1"
   },
@@ -601,110 +609,17 @@ window.skillrPracticeQuestions = [
     "id": "ac9m2sp02-p-020",
     "curriculumCode": "AC9M2SP02",
     "bank": "practice",
-    "skill": "use between position word",
+    "skill": "missing move",
     "printable": true,
     "type": "single",
-    "question": "In the robot grid, the tree is between the slide and the bench. Which object is in the middle?",
-    "audioPrompt": "In the robot grid, the tree is between the slide and the bench. Which object is in the middle?",
-    "visual": "In the robot grid: A slide, tree and bench arranged in that order.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In the robot grid: A slide, tree and bench arranged in that order.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2sp02.svg#ac9m2sp02-p-020\"></use></svg>",
+    "question": "Start at Gate. Move 1 down, then ___ right to reach Sand. How many squares go in the gap?",
+    "audioPrompt": "Start at Gate. Move 1 down, then ___ right to reach Sand. How many squares go in the gap?",
+    "visual": "Four-by-four playground grid. Rows from top: Gate, Tree, Slide, Tap; Bench, Pond, Sand, Shed; Path, Flowers, Table, Bin; Door, Mat, Steps, Wall.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Four-by-four playground grid. Rows from top: Gate, Tree, Slide, Tap; Bench, Pond, Sand, Shed; Path, Flowers, Table, Bin; Door, Mat, Steps, Wall.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2sp02.svg?v=20260906-year2-pending-release#ac9m2sp02-p-020\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2sp02.svg#ac9m2sp02-p-020",
-      "alt_text": "In the robot grid: A slide, tree and bench arranged in that order."
-    },
-    "answers": [
-      "the slide",
-      "the tree",
-      "the bench"
-    ],
-    "difficulty": 3,
-    "sequencePriority": 2,
-    "correct": 1,
-    "explanation": "Between means in the middle of two landmarks.\nHint: Name the object with one landmark on each side.",
-    "structuredExplanation": {
-      "summary": "Between means in the middle of two landmarks.",
-      "hint": "Name the object with one landmark on each side."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m2sp02-p-021",
-    "curriculumCode": "AC9M2SP02",
-    "bank": "practice",
-    "skill": "interpret map view",
-    "printable": true,
-    "type": "single",
-    "question": "In the robot grid, what does a classroom map show?",
-    "audioPrompt": "In the robot grid, what does a classroom map show?",
-    "visual": "In the robot grid: Top-down classroom map with desks shown as rectangles on a grid.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In the robot grid: Top-down classroom map with desks shown as rectangles on a grid.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2sp02.svg#ac9m2sp02-p-021\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2sp02.svg#ac9m2sp02-p-021",
-      "alt_text": "In the robot grid: Top-down classroom map with desks shown as rectangles on a grid."
-    },
-    "answers": [
-      "how heavy the furniture is",
-      "what time the class starts",
-      "where things are from above"
-    ],
-    "difficulty": 3,
-    "sequencePriority": 2,
-    "correct": 2,
-    "explanation": "A map is a two-dimensional view that shows positions from above.\nHint: Imagine looking down at the room from the ceiling.",
-    "structuredExplanation": {
-      "summary": "A map is a two-dimensional view that shows positions from above.",
-      "hint": "Imagine looking down at the room from the ceiling."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m2sp02-p-022",
-    "curriculumCode": "AC9M2SP02",
-    "bank": "practice",
-    "skill": "choose precise direction",
-    "printable": true,
-    "type": "single",
-    "question": "In the robot grid, which direction tells someone exactly where to go?",
-    "audioPrompt": "In the robot grid, which direction tells someone exactly where to go?",
-    "visual": "In the robot grid: Grid path moving two squares up from a start dot to a door.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In the robot grid: Grid path moving two squares up from a start dot to a door.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2sp02.svg#ac9m2sp02-p-022\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2sp02.svg#ac9m2sp02-p-022",
-      "alt_text": "In the robot grid: Grid path moving two squares up from a start dot to a door."
-    },
-    "answers": [
-      "Walk 2 squares up to the door",
-      "Go over there",
-      "Move somewhere near the wall"
-    ],
-    "difficulty": 3,
-    "sequencePriority": 2,
-    "correct": 0,
-    "explanation": "The first direction gives a distance, direction and landmark.\nHint: A useful direction should tell how far and which way.",
-    "structuredExplanation": {
-      "summary": "The first direction gives a distance, direction and landmark.",
-      "hint": "A useful direction should tell how far and which way."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m2sp02-p-023",
-    "curriculumCode": "AC9M2SP02",
-    "bank": "practice",
-    "skill": "describe path endpoint",
-    "printable": true,
-    "type": "single",
-    "question": "In the robot grid, a robot follows: right 1, down 1, right 1. How many squares right of the start does it finish?",
-    "audioPrompt": "In the robot grid, a robot follows: right 1, down 1, right 1. How many squares right of the start does it finish?",
-    "visual": "In the robot grid: Grid path moving right, down, then right from the start.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In the robot grid: Grid path moving right, down, then right from the start.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2sp02.svg#ac9m2sp02-p-023\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2sp02.svg#ac9m2sp02-p-023",
-      "alt_text": "In the robot grid: Grid path moving right, down, then right from the start."
+      "alt_text": "Four-by-four playground grid. Rows from top: Gate, Tree, Slide, Tap; Bench, Pond, Sand, Shed; Path, Flowers, Table, Bin; Door, Mat, Steps, Wall.",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2sp02.svg?v=20260906-year2-pending-release#ac9m2sp02-p-020"
     },
     "answers": [
       "1",
@@ -712,12 +627,120 @@ window.skillrPracticeQuestions = [
       "3"
     ],
     "difficulty": 3,
-    "sequencePriority": 2,
+    "difficultyTier": "reason",
+    "sequencePriority": 20,
     "correct": 1,
-    "explanation": "The robot makes two right moves, so it finishes 2 squares to the right.\nHint: Track horizontal and vertical moves separately.",
+    "explanation": "From Bench, two rightward moves pass Pond and reach Sand.\nHint: Use the information in the question and check each step.",
     "structuredExplanation": {
-      "summary": "The robot makes two right moves, so it finishes 2 squares to the right.",
-      "hint": "Track horizontal and vertical moves separately."
+      "summary": "From Bench, two rightward moves pass Pond and reach Sand.",
+      "hint": "Use the information in the question and check each step."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m2sp02-p-021",
+    "curriculumCode": "AC9M2SP02",
+    "bank": "practice",
+    "skill": "relative not facing",
+    "printable": true,
+    "type": "single",
+    "question": "The plan says “move right on the page”. Should the direction change when a toy turns to face another way?",
+    "audioPrompt": "The plan says “move right on the page”. Should the direction change when a toy turns to face another way?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Yes; it always follows the toy’s face",
+      "Yes; it becomes up",
+      "No; page-right stays the same"
+    ],
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 21,
+    "correct": 2,
+    "explanation": "These directions use the fixed page, not the toy’s changing orientation.\nHint: Use the information in the question and check each step.",
+    "structuredExplanation": {
+      "summary": "These directions use the fixed page, not the toy’s changing orientation.",
+      "hint": "Use the information in the question and check each step."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m2sp02-p-022",
+    "curriculumCode": "AC9M2SP02",
+    "bank": "practice",
+    "skill": "trace route",
+    "printable": true,
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Any valid connected route within the grid from Door to Tap, with matching directions.",
+    "acceptanceNote": "One example is 3 up, then 3 right. Check the learner’s actual route rather than requiring that example.",
+    "responseInstructions": "Complete the task on paper or with materials, then ask an adult to check it.",
+    "completionLabel": "Ready for adult review",
+    "question": "Copy the plan and draw a route from Door to Tap. Use only up/down/left/right moves and write your instructions.",
+    "audioPrompt": "Copy the plan and draw a route from Door to Tap. Use only up/down/left/right moves and write your instructions.",
+    "visual": "Four-by-four playground grid. Rows from top: Gate, Tree, Slide, Tap; Bench, Pond, Sand, Shed; Path, Flowers, Table, Bin; Door, Mat, Steps, Wall.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Four-by-four playground grid. Rows from top: Gate, Tree, Slide, Tap; Bench, Pond, Sand, Shed; Path, Flowers, Table, Bin; Door, Mat, Steps, Wall.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2sp02.svg?v=20260906-year2-pending-release#ac9m2sp02-p-022\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "alt_text": "Four-by-four playground grid. Rows from top: Gate, Tree, Slide, Tap; Bench, Pond, Sand, Shed; Path, Flowers, Table, Bin; Door, Mat, Steps, Wall.",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2sp02.svg?v=20260906-year2-pending-release#ac9m2sp02-p-022"
+    },
+    "answers": [
+      "Needs revision",
+      "Not attempted",
+      "Completed response"
+    ],
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 22,
+    "correct": "Any valid connected route within the grid from Door to Tap, with matching directions.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
+    "structuredExplanation": {
+      "summary": "Any valid connected route within the grid from Door to Tap, with matching directions.",
+      "hint": "One example is 3 up, then 3 right. Check the learner’s actual route rather than requiring that example."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m2sp02-p-023",
+    "curriculumCode": "AC9M2SP02",
+    "bank": "practice",
+    "skill": "avoid pond",
+    "printable": true,
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "For example, up 1, right 2, down 1.",
+    "acceptanceNote": "Accept any valid route remaining inside the grid and never entering Pond; directions must match.",
+    "responseInstructions": "Complete the task on paper or with materials, then ask an adult to check it.",
+    "completionLabel": "Ready for adult review",
+    "question": "Draw a route from Bench to Sand that avoids Pond. Write each move in order.",
+    "audioPrompt": "Draw a route from Bench to Sand that avoids Pond. Write each move in order.",
+    "visual": "Four-by-four playground grid. Rows from top: Gate, Tree, Slide, Tap; Bench, Pond, Sand, Shed; Path, Flowers, Table, Bin; Door, Mat, Steps, Wall.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Four-by-four playground grid. Rows from top: Gate, Tree, Slide, Tap; Bench, Pond, Sand, Shed; Path, Flowers, Table, Bin; Door, Mat, Steps, Wall.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2sp02.svg?v=20260906-year2-pending-release#ac9m2sp02-p-023\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "alt_text": "Four-by-four playground grid. Rows from top: Gate, Tree, Slide, Tap; Bench, Pond, Sand, Shed; Path, Flowers, Table, Bin; Door, Mat, Steps, Wall.",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2sp02.svg?v=20260906-year2-pending-release#ac9m2sp02-p-023"
+    },
+    "answers": [
+      "Needs revision",
+      "Completed response",
+      "Not attempted"
+    ],
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 23,
+    "correct": "For example, up 1, right 2, down 1.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
+    "structuredExplanation": {
+      "summary": "For example, up 1, right 2, down 1.",
+      "hint": "Accept any valid route remaining inside the grid and never entering Pond; directions must match."
     },
     "qualitySchema": "production-v1"
   },
@@ -725,702 +748,36 @@ window.skillrPracticeQuestions = [
     "id": "ac9m2sp02-p-024",
     "curriculumCode": "AC9M2SP02",
     "bank": "practice",
-    "skill": "explain path order",
+    "skill": "familiar plan",
     "printable": true,
-    "type": "single",
-    "question": "In the robot grid, why must map directions be followed in order?",
-    "audioPrompt": "In the robot grid, why must map directions be followed in order?",
-    "visual": "In the robot grid: Two grid pathways with the same moves in different orders and different routes.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In the robot grid: Two grid pathways with the same moves in different orders and different routes.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2sp02.svg#ac9m2sp02-p-024\"></use></svg>",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "A recognisable overhead arrangement with named positions and a route whose directions match the drawing.",
+    "acceptanceNote": "Adult checks the chosen familiar space and the consistency of directions; artistic detail is not assessed.",
+    "responseInstructions": "Complete the task on paper or with materials, then ask an adult to check it.",
+    "completionLabel": "Ready for adult review",
+    "question": "Draw a simple plan of a familiar room with a door and two named objects. Mark a route from the door to one object and describe it.",
+    "audioPrompt": "Draw a simple plan of a familiar room with a door and two named objects. Mark a route from the door to one object and describe it.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2sp02.svg#ac9m2sp02-p-024",
-      "alt_text": "In the robot grid: Two grid pathways with the same moves in different orders and different routes."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "The map changes colour",
-      "The landmarks disappear",
-      "A different order can end at a different place"
+      "Completed response",
+      "Needs revision",
+      "Not attempted"
     ],
     "difficulty": 3,
-    "sequencePriority": 2,
-    "correct": 2,
-    "explanation": "Changing the order can change the pathway and finishing position.\nHint: Try swapping the first two moves on the grid.",
+    "difficultyTier": "reason",
+    "sequencePriority": 24,
+    "correct": "A recognisable overhead arrangement with named positions and a route whose directions match the drawing.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
-      "summary": "Changing the order can change the pathway and finishing position.",
-      "hint": "Try swapping the first two moves on the grid."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m2sp02-p-025",
-    "curriculumCode": "AC9M2SP02",
-    "bank": "practice",
-    "skill": "at the school garden move 2",
-    "printable": true,
-    "type": "single",
-    "question": "At the school garden, move 2 squares right then 1 square up. Which path matches?",
-    "audioPrompt": "At the school garden, move 2 squares right then 1 square up. Which path matches?",
-    "visual": "At the school garden, move 2 squares right then 1 square up. Which path matches?",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": "At the school garden, move 2 squares right then 1 square up. Which path matches?"
-    },
-    "answers": [
-      "right 2, up 1",
-      "up 2, right 1",
-      "left 2, up 1"
-    ],
-    "correct": 0,
-    "explanation": "Position words and ordered steps help describe location.\nHint: Use the information in the question to check your answer.",
-    "structuredExplanation": {
-      "summary": "Position words and ordered steps help describe location.",
-      "hint": "Use the information in the question to check your answer."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m2sp02-p-026",
-    "curriculumCode": "AC9M2SP02",
-    "bank": "practice",
-    "skill": "during maths groups which instruction is",
-    "printable": true,
-    "type": "single",
-    "question": "During maths groups, which instruction is clearest?",
-    "audioPrompt": "During maths groups, which instruction is clearest?",
-    "visual": "During maths groups, which instruction is clearest?",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": "During maths groups, which instruction is clearest?"
-    },
-    "answers": [
-      "go there",
-      "move a bit",
-      "walk 3 steps left"
-    ],
-    "correct": 2,
-    "explanation": "Position words and ordered steps help describe location.\nHint: Use the information in the question to check your answer.",
-    "structuredExplanation": {
-      "summary": "Position words and ordered steps help describe location.",
-      "hint": "Use the information in the question to check your answer."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m2sp02-p-027",
-    "curriculumCode": "AC9M2SP02",
-    "bank": "practice",
-    "skill": "at the art table a toy",
-    "printable": true,
-    "type": "single",
-    "question": "At the art table, a toy is under the table. Where is it?",
-    "audioPrompt": "At the art table, a toy is under the table. Where is it?",
-    "visual": "At the art table, a toy is under the table. Where is it?",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": "At the art table, a toy is under the table. Where is it?"
-    },
-    "answers": [
-      "inside the table",
-      "below the table",
-      "above the table"
-    ],
-    "correct": 1,
-    "explanation": "Position words and ordered steps help describe location.\nHint: Use the information in the question to check your answer.",
-    "structuredExplanation": {
-      "summary": "Position words and ordered steps help describe location.",
-      "hint": "Use the information in the question to check your answer."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m2sp02-p-028",
-    "curriculumCode": "AC9M2SP02",
-    "bank": "practice",
-    "skill": "in the playground move 2 squares",
-    "printable": true,
-    "type": "single",
-    "question": "In the playground, move 2 squares right then 1 square up. Which path matches?",
-    "audioPrompt": "In the playground, move 2 squares right then 1 square up. Which path matches?",
-    "visual": "In the playground, move 2 squares right then 1 square up. Which path matches?",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": "In the playground, move 2 squares right then 1 square up. Which path matches?"
-    },
-    "answers": [
-      "right 2, up 1",
-      "up 2, right 1",
-      "left 2, up 1"
-    ],
-    "correct": 0,
-    "explanation": "Position words and ordered steps help describe location.\nHint: Use the information in the question to check your answer.",
-    "structuredExplanation": {
-      "summary": "Position words and ordered steps help describe location.",
-      "hint": "Use the information in the question to check your answer."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m2sp02-p-029",
-    "curriculumCode": "AC9M2SP02",
-    "bank": "practice",
-    "skill": "at the library which instruction is",
-    "printable": true,
-    "type": "single",
-    "question": "At the library, which instruction is clearest?",
-    "audioPrompt": "At the library, which instruction is clearest?",
-    "visual": "At the library, which instruction is clearest?",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": "At the library, which instruction is clearest?"
-    },
-    "answers": [
-      "go there",
-      "move a bit",
-      "walk 3 steps left"
-    ],
-    "correct": 2,
-    "explanation": "Position words and ordered steps help describe location.\nHint: Use the information in the question to check your answer.",
-    "structuredExplanation": {
-      "summary": "Position words and ordered steps help describe location.",
-      "hint": "Use the information in the question to check your answer."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m2sp02-p-030",
-    "curriculumCode": "AC9M2SP02",
-    "bank": "practice",
-    "skill": "during sport a toy is under",
-    "printable": true,
-    "type": "single",
-    "question": "During sport, a toy is under the table. Where is it?",
-    "audioPrompt": "During sport, a toy is under the table. Where is it?",
-    "visual": "During sport, a toy is under the table. Where is it?",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": "During sport, a toy is under the table. Where is it?"
-    },
-    "answers": [
-      "inside the table",
-      "below the table",
-      "above the table"
-    ],
-    "correct": 1,
-    "explanation": "Position words and ordered steps help describe location.\nHint: Use the information in the question to check your answer.",
-    "structuredExplanation": {
-      "summary": "Position words and ordered steps help describe location.",
-      "hint": "Use the information in the question to check your answer."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m2sp02-p-031",
-    "curriculumCode": "AC9M2SP02",
-    "bank": "practice",
-    "skill": "at the class shop move 2",
-    "printable": true,
-    "type": "single",
-    "question": "At the class shop, move 2 squares right then 1 square up. Which path matches?",
-    "audioPrompt": "At the class shop, move 2 squares right then 1 square up. Which path matches?",
-    "visual": "At the class shop, move 2 squares right then 1 square up. Which path matches?",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": "At the class shop, move 2 squares right then 1 square up. Which path matches?"
-    },
-    "answers": [
-      "right 2, up 1",
-      "up 2, right 1",
-      "left 2, up 1"
-    ],
-    "correct": 0,
-    "explanation": "Position words and ordered steps help describe location.\nHint: Use the information in the question to check your answer.",
-    "structuredExplanation": {
-      "summary": "Position words and ordered steps help describe location.",
-      "hint": "Use the information in the question to check your answer."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m2sp02-p-032",
-    "curriculumCode": "AC9M2SP02",
-    "bank": "practice",
-    "skill": "on the picnic rug which instruction",
-    "printable": true,
-    "type": "single",
-    "question": "On the picnic rug, which instruction is clearest?",
-    "audioPrompt": "On the picnic rug, which instruction is clearest?",
-    "visual": "On the picnic rug, which instruction is clearest?",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": "On the picnic rug, which instruction is clearest?"
-    },
-    "answers": [
-      "go there",
-      "move a bit",
-      "walk 3 steps left"
-    ],
-    "correct": 2,
-    "explanation": "Position words and ordered steps help describe location.\nHint: Use the information in the question to check your answer.",
-    "structuredExplanation": {
-      "summary": "Position words and ordered steps help describe location.",
-      "hint": "Use the information in the question to check your answer."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m2sp02-p-033",
-    "curriculumCode": "AC9M2SP02",
-    "bank": "practice",
-    "skill": "at the block table a toy",
-    "printable": true,
-    "type": "single",
-    "question": "At the block table, a toy is under the table. Where is it?",
-    "audioPrompt": "At the block table, a toy is under the table. Where is it?",
-    "visual": "At the block table, a toy is under the table. Where is it?",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": "At the block table, a toy is under the table. Where is it?"
-    },
-    "answers": [
-      "inside the table",
-      "below the table",
-      "above the table"
-    ],
-    "correct": 1,
-    "explanation": "Position words and ordered steps help describe location.\nHint: Use the information in the question to check your answer.",
-    "structuredExplanation": {
-      "summary": "Position words and ordered steps help describe location.",
-      "hint": "Use the information in the question to check your answer."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m2sp02-p-034",
-    "curriculumCode": "AC9M2SP02",
-    "bank": "practice",
-    "skill": "in the lunch area move 2",
-    "printable": true,
-    "type": "single",
-    "question": "In the lunch area, move 2 squares right then 1 square up. Which path matches?",
-    "audioPrompt": "In the lunch area, move 2 squares right then 1 square up. Which path matches?",
-    "visual": "In the lunch area, move 2 squares right then 1 square up. Which path matches?",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": "In the lunch area, move 2 squares right then 1 square up. Which path matches?"
-    },
-    "answers": [
-      "right 2, up 1",
-      "up 2, right 1",
-      "left 2, up 1"
-    ],
-    "correct": 0,
-    "explanation": "Position words and ordered steps help describe location.\nHint: Use the information in the question to check your answer.",
-    "structuredExplanation": {
-      "summary": "Position words and ordered steps help describe location.",
-      "hint": "Use the information in the question to check your answer."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m2sp02-p-035",
-    "curriculumCode": "AC9M2SP02",
-    "bank": "practice",
-    "skill": "at the science table which instruction",
-    "printable": true,
-    "type": "single",
-    "question": "At the science table, which instruction is clearest?",
-    "audioPrompt": "At the science table, which instruction is clearest?",
-    "visual": "At the science table, which instruction is clearest?",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": "At the science table, which instruction is clearest?"
-    },
-    "answers": [
-      "go there",
-      "move a bit",
-      "walk 3 steps left"
-    ],
-    "correct": 2,
-    "explanation": "Position words and ordered steps help describe location.\nHint: Use the information in the question to check your answer.",
-    "structuredExplanation": {
-      "summary": "Position words and ordered steps help describe location.",
-      "hint": "Use the information in the question to check your answer."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m2sp02-p-036",
-    "curriculumCode": "AC9M2SP02",
-    "bank": "practice",
-    "skill": "during a card game a toy",
-    "printable": true,
-    "type": "single",
-    "question": "During a card game, a toy is under the table. Where is it?",
-    "audioPrompt": "During a card game, a toy is under the table. Where is it?",
-    "visual": "During a card game, a toy is under the table. Where is it?",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": "During a card game, a toy is under the table. Where is it?"
-    },
-    "answers": [
-      "inside the table",
-      "below the table",
-      "above the table"
-    ],
-    "correct": 1,
-    "explanation": "Position words and ordered steps help describe location.\nHint: Use the information in the question to check your answer.",
-    "structuredExplanation": {
-      "summary": "Position words and ordered steps help describe location.",
-      "hint": "Use the information in the question to check your answer."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m2sp02-p-037",
-    "curriculumCode": "AC9M2SP02",
-    "bank": "practice",
-    "skill": "at the school garden move 2",
-    "printable": true,
-    "type": "single",
-    "question": "At the school garden, move 2 squares right then 1 square up. Which path matches?",
-    "audioPrompt": "At the school garden, move 2 squares right then 1 square up. Which path matches?",
-    "visual": "At the school garden, move 2 squares right then 1 square up. Which path matches?",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": "At the school garden, move 2 squares right then 1 square up. Which path matches?"
-    },
-    "answers": [
-      "right 2, up 1",
-      "up 2, right 1",
-      "left 2, up 1"
-    ],
-    "correct": 0,
-    "explanation": "Position words and ordered steps help describe location.\nHint: Use the information in the question to check your answer.",
-    "structuredExplanation": {
-      "summary": "Position words and ordered steps help describe location.",
-      "hint": "Use the information in the question to check your answer."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m2sp02-p-038",
-    "curriculumCode": "AC9M2SP02",
-    "bank": "practice",
-    "skill": "during maths groups which instruction is",
-    "printable": true,
-    "type": "single",
-    "question": "During maths groups, which instruction is clearest?",
-    "audioPrompt": "During maths groups, which instruction is clearest?",
-    "visual": "During maths groups, which instruction is clearest?",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": "During maths groups, which instruction is clearest?"
-    },
-    "answers": [
-      "go there",
-      "move a bit",
-      "walk 3 steps left"
-    ],
-    "correct": 2,
-    "explanation": "Position words and ordered steps help describe location.\nHint: Use the information in the question to check your answer.",
-    "structuredExplanation": {
-      "summary": "Position words and ordered steps help describe location.",
-      "hint": "Use the information in the question to check your answer."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m2sp02-p-039",
-    "curriculumCode": "AC9M2SP02",
-    "bank": "practice",
-    "skill": "at the art table a toy",
-    "printable": true,
-    "type": "single",
-    "question": "At the art table, a toy is under the table. Where is it?",
-    "audioPrompt": "At the art table, a toy is under the table. Where is it?",
-    "visual": "At the art table, a toy is under the table. Where is it?",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": "At the art table, a toy is under the table. Where is it?"
-    },
-    "answers": [
-      "inside the table",
-      "below the table",
-      "above the table"
-    ],
-    "correct": 1,
-    "explanation": "Position words and ordered steps help describe location.\nHint: Use the information in the question to check your answer.",
-    "structuredExplanation": {
-      "summary": "Position words and ordered steps help describe location.",
-      "hint": "Use the information in the question to check your answer."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m2sp02-p-040",
-    "curriculumCode": "AC9M2SP02",
-    "bank": "practice",
-    "skill": "in the playground move 2 squares",
-    "printable": true,
-    "type": "single",
-    "question": "In the playground, move 2 squares right then 1 square up. Which path matches?",
-    "audioPrompt": "In the playground, move 2 squares right then 1 square up. Which path matches?",
-    "visual": "In the playground, move 2 squares right then 1 square up. Which path matches?",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": "In the playground, move 2 squares right then 1 square up. Which path matches?"
-    },
-    "answers": [
-      "right 2, up 1",
-      "up 2, right 1",
-      "left 2, up 1"
-    ],
-    "correct": 0,
-    "explanation": "Position words and ordered steps help describe location.\nHint: Use the information in the question to check your answer.",
-    "structuredExplanation": {
-      "summary": "Position words and ordered steps help describe location.",
-      "hint": "Use the information in the question to check your answer."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m2sp02-p-041",
-    "curriculumCode": "AC9M2SP02",
-    "bank": "practice",
-    "skill": "at the library which instruction is",
-    "printable": true,
-    "type": "single",
-    "question": "At the library, which instruction is clearest?",
-    "audioPrompt": "At the library, which instruction is clearest?",
-    "visual": "At the library, which instruction is clearest?",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": "At the library, which instruction is clearest?"
-    },
-    "answers": [
-      "go there",
-      "move a bit",
-      "walk 3 steps left"
-    ],
-    "correct": 2,
-    "explanation": "Position words and ordered steps help describe location.\nHint: Use the information in the question to check your answer.",
-    "structuredExplanation": {
-      "summary": "Position words and ordered steps help describe location.",
-      "hint": "Use the information in the question to check your answer."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m2sp02-p-042",
-    "curriculumCode": "AC9M2SP02",
-    "bank": "practice",
-    "skill": "during sport a toy is under",
-    "printable": true,
-    "type": "single",
-    "question": "During sport, a toy is under the table. Where is it?",
-    "audioPrompt": "During sport, a toy is under the table. Where is it?",
-    "visual": "During sport, a toy is under the table. Where is it?",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": "During sport, a toy is under the table. Where is it?"
-    },
-    "answers": [
-      "inside the table",
-      "below the table",
-      "above the table"
-    ],
-    "correct": 1,
-    "explanation": "Position words and ordered steps help describe location.\nHint: Use the information in the question to check your answer.",
-    "structuredExplanation": {
-      "summary": "Position words and ordered steps help describe location.",
-      "hint": "Use the information in the question to check your answer."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m2sp02-p-043",
-    "curriculumCode": "AC9M2SP02",
-    "bank": "practice",
-    "skill": "at the class shop move 2",
-    "printable": true,
-    "type": "single",
-    "question": "At the class shop, move 2 squares right then 1 square up. Which path matches?",
-    "audioPrompt": "At the class shop, move 2 squares right then 1 square up. Which path matches?",
-    "visual": "At the class shop, move 2 squares right then 1 square up. Which path matches?",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": "At the class shop, move 2 squares right then 1 square up. Which path matches?"
-    },
-    "answers": [
-      "right 2, up 1",
-      "up 2, right 1",
-      "left 2, up 1"
-    ],
-    "correct": 0,
-    "explanation": "Position words and ordered steps help describe location.\nHint: Use the information in the question to check your answer.",
-    "structuredExplanation": {
-      "summary": "Position words and ordered steps help describe location.",
-      "hint": "Use the information in the question to check your answer."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m2sp02-p-044",
-    "curriculumCode": "AC9M2SP02",
-    "bank": "practice",
-    "skill": "on the picnic rug which instruction",
-    "printable": true,
-    "type": "single",
-    "question": "On the picnic rug, which instruction is clearest?",
-    "audioPrompt": "On the picnic rug, which instruction is clearest?",
-    "visual": "On the picnic rug, which instruction is clearest?",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": "On the picnic rug, which instruction is clearest?"
-    },
-    "answers": [
-      "go there",
-      "move a bit",
-      "walk 3 steps left"
-    ],
-    "correct": 2,
-    "explanation": "Position words and ordered steps help describe location.\nHint: Use the information in the question to check your answer.",
-    "structuredExplanation": {
-      "summary": "Position words and ordered steps help describe location.",
-      "hint": "Use the information in the question to check your answer."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m2sp02-p-045",
-    "curriculumCode": "AC9M2SP02",
-    "bank": "practice",
-    "skill": "at the block table a toy",
-    "printable": true,
-    "type": "single",
-    "question": "At the block table, a toy is under the table. Where is it?",
-    "audioPrompt": "At the block table, a toy is under the table. Where is it?",
-    "visual": "At the block table, a toy is under the table. Where is it?",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": "At the block table, a toy is under the table. Where is it?"
-    },
-    "answers": [
-      "inside the table",
-      "below the table",
-      "above the table"
-    ],
-    "correct": 1,
-    "explanation": "Position words and ordered steps help describe location.\nHint: Use the information in the question to check your answer.",
-    "structuredExplanation": {
-      "summary": "Position words and ordered steps help describe location.",
-      "hint": "Use the information in the question to check your answer."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m2sp02-p-046",
-    "curriculumCode": "AC9M2SP02",
-    "bank": "practice",
-    "skill": "in the lunch area move 2",
-    "printable": true,
-    "type": "single",
-    "question": "In the lunch area, move 2 squares right then 1 square up. Which path matches?",
-    "audioPrompt": "In the lunch area, move 2 squares right then 1 square up. Which path matches?",
-    "visual": "In the lunch area, move 2 squares right then 1 square up. Which path matches?",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": "In the lunch area, move 2 squares right then 1 square up. Which path matches?"
-    },
-    "answers": [
-      "right 2, up 1",
-      "up 2, right 1",
-      "left 2, up 1"
-    ],
-    "correct": 0,
-    "explanation": "Position words and ordered steps help describe location.\nHint: Use the information in the question to check your answer.",
-    "structuredExplanation": {
-      "summary": "Position words and ordered steps help describe location.",
-      "hint": "Use the information in the question to check your answer."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m2sp02-p-047",
-    "curriculumCode": "AC9M2SP02",
-    "bank": "practice",
-    "skill": "at the science table which instruction",
-    "printable": true,
-    "type": "single",
-    "question": "At the science table, which instruction is clearest?",
-    "audioPrompt": "At the science table, which instruction is clearest?",
-    "visual": "At the science table, which instruction is clearest?",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": "At the science table, which instruction is clearest?"
-    },
-    "answers": [
-      "go there",
-      "move a bit",
-      "walk 3 steps left"
-    ],
-    "correct": 2,
-    "explanation": "Position words and ordered steps help describe location.\nHint: Use the information in the question to check your answer.",
-    "structuredExplanation": {
-      "summary": "Position words and ordered steps help describe location.",
-      "hint": "Use the information in the question to check your answer."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m2sp02-p-048",
-    "curriculumCode": "AC9M2SP02",
-    "bank": "practice",
-    "skill": "during a card game a toy",
-    "printable": true,
-    "type": "single",
-    "question": "During a card game, a toy is under the table. Where is it?",
-    "audioPrompt": "During a card game, a toy is under the table. Where is it?",
-    "visual": "During a card game, a toy is under the table. Where is it?",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": "During a card game, a toy is under the table. Where is it?"
-    },
-    "answers": [
-      "inside the table",
-      "below the table",
-      "above the table"
-    ],
-    "correct": 1,
-    "explanation": "Position words and ordered steps help describe location.\nHint: Use the information in the question to check your answer.",
-    "structuredExplanation": {
-      "summary": "Position words and ordered steps help describe location.",
-      "hint": "Use the information in the question to check your answer."
+      "summary": "A recognisable overhead arrangement with named positions and a route whose directions match the drawing.",
+      "hint": "Adult checks the chosen familiar space and the consistency of directions; artistic detail is not assessed."
     },
     "qualitySchema": "production-v1"
   }

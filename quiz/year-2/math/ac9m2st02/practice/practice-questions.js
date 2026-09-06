@@ -4,31 +4,31 @@ window.skillrPracticeQuestions = [
     "id": "ac9m2st02-p-001",
     "curriculumCode": "AC9M2ST02",
     "bank": "practice",
-    "skill": "read greatest category from graph",
+    "skill": "read bar",
     "printable": true,
     "type": "single",
-    "question": "On the fruit graph, which category has the most fruit votes?",
-    "audioPrompt": "On the fruit graph, which category has the most fruit votes?",
-    "visual": "On the fruit graph: Bar graph for fruit: A 2, B 8, C 5.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"On the fruit graph: Bar graph for fruit: A 2, B 8, C 5.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2st02.svg#ac9m2st02-p-001\"></use></svg>",
+    "question": "Which game received the most votes?",
+    "audioPrompt": "Which game received the most votes?",
+    "visual": "Bar graph: Catch 3, Tag 6, Skip 2; count scale 0 to 8 in ones.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Bar graph: Catch 3, Tag 6, Skip 2; count scale 0 to 8 in ones.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2st02.svg?v=20260906-year2-pending-release#ac9m2st02-p-001\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2st02.svg#ac9m2st02-p-001",
-      "alt_text": "On the fruit graph: Bar graph for fruit: A 2, B 8, C 5."
+      "alt_text": "Bar graph: Catch 3, Tag 6, Skip 2; count scale 0 to 8 in ones.",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2st02.svg?v=20260906-year2-pending-release#ac9m2st02-p-001"
     },
     "answers": [
-      "apples",
-      "oranges",
-      "bananas"
+      "Catch",
+      "Tag",
+      "Skip"
     ],
     "difficulty": 1,
-    "difficultyTier": "confidence",
+    "difficultyTier": "recognise",
     "sequencePriority": 1,
-    "correct": 2,
-    "explanation": "Category bananas has the tallest bar and the greatest count, 8.\nHint: Compare the top of each bar.",
+    "correct": 1,
+    "explanation": "The Tag bar reaches 6, higher than the other bars.\nHint: Use the information in the question and check each step.",
     "structuredExplanation": {
-      "summary": "Category bananas has the tallest bar and the greatest count, 8.",
-      "hint": "Compare the top of each bar."
+      "summary": "The Tag bar reaches 6, higher than the other bars.",
+      "hint": "Use the information in the question and check each step."
     },
     "qualitySchema": "production-v1"
   },
@@ -36,31 +36,31 @@ window.skillrPracticeQuestions = [
     "id": "ac9m2st02-p-002",
     "curriculumCode": "AC9M2ST02",
     "bank": "practice",
-    "skill": "read least category from graph",
+    "skill": "read picture",
     "printable": true,
     "type": "single",
-    "question": "On the fruit graph, which category has the fewest fruit votes?",
-    "audioPrompt": "On the fruit graph, which category has the fewest fruit votes?",
-    "visual": "On the fruit graph: Bar graph for fruit: A 2, B 8, C 5.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"On the fruit graph: Bar graph for fruit: A 2, B 8, C 5.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2st02.svg#ac9m2st02-p-002\"></use></svg>",
+    "question": "How many votes did Skip receive?",
+    "audioPrompt": "How many votes did Skip receive?",
+    "visual": "Picture graph: Catch 3 circles, Tag 6, Skip 2; one circle is one vote.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Picture graph: Catch 3 circles, Tag 6, Skip 2; one circle is one vote.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2st02.svg?v=20260906-year2-pending-release#ac9m2st02-p-002\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2st02.svg#ac9m2st02-p-002",
-      "alt_text": "On the fruit graph: Bar graph for fruit: A 2, B 8, C 5."
+      "alt_text": "Picture graph: Catch 3 circles, Tag 6, Skip 2; one circle is one vote.",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2st02.svg?v=20260906-year2-pending-release#ac9m2st02-p-002"
     },
     "answers": [
-      "apples",
-      "bananas",
-      "oranges"
+      "2",
+      "3",
+      "6"
     ],
     "difficulty": 1,
-    "difficultyTier": "confidence",
-    "sequencePriority": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 2,
     "correct": 0,
-    "explanation": "Category apples has the shortest bar and the smallest count, 2.\nHint: Find the bar that reaches the lowest number.",
+    "explanation": "The Skip row has two circles and the key makes each circle one vote.\nHint: Use the information in the question and check each step.",
     "structuredExplanation": {
-      "summary": "Category apples has the shortest bar and the smallest count, 2.",
-      "hint": "Find the bar that reaches the lowest number."
+      "summary": "The Skip row has two circles and the key makes each circle one vote.",
+      "hint": "Use the information in the question and check each step."
     },
     "qualitySchema": "production-v1"
   },
@@ -68,31 +68,31 @@ window.skillrPracticeQuestions = [
     "id": "ac9m2st02-p-003",
     "curriculumCode": "AC9M2ST02",
     "bank": "practice",
-    "skill": "compare graph categories",
+    "skill": "table to graph",
     "printable": true,
     "type": "single",
-    "question": "On the fruit graph, how many more votes does bananas have than apples?",
-    "audioPrompt": "On the fruit graph, how many more votes does bananas have than apples?",
-    "visual": "On the fruit graph: Bar graph with apples at 2 and bananas at 8.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"On the fruit graph: Bar graph with apples at 2 and bananas at 8.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2st02.svg#ac9m2st02-p-003\"></use></svg>",
+    "question": "A graph is made from this table. How high should its Catch bar reach?",
+    "audioPrompt": "A graph is made from this table. How high should its Catch bar reach?",
+    "visual": "Table: Catch 3, Tag 6, Skip 2 votes.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Table: Catch 3, Tag 6, Skip 2 votes.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2st02.svg?v=20260906-year2-pending-release#ac9m2st02-p-003\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2st02.svg#ac9m2st02-p-003",
-      "alt_text": "On the fruit graph: Bar graph with apples at 2 and bananas at 8."
+      "alt_text": "Table: Catch 3, Tag 6, Skip 2 votes.",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2st02.svg?v=20260906-year2-pending-release#ac9m2st02-p-003"
     },
     "answers": [
-      "10",
       "6",
-      "7"
+      "2",
+      "3"
     ],
     "difficulty": 1,
-    "difficultyTier": "confidence",
-    "sequencePriority": 1,
-    "correct": 1,
-    "explanation": "Find the difference: 8 − 2 = 6.\nHint: Start at apples's height and count up to bananas's height.",
+    "difficultyTier": "recognise",
+    "sequencePriority": 3,
+    "correct": 2,
+    "explanation": "The Catch row records three votes.\nHint: Use the information in the question and check each step.",
     "structuredExplanation": {
-      "summary": "Find the difference: 8 − 2 = 6.",
-      "hint": "Start at apples's height and count up to bananas's height."
+      "summary": "The Catch row records three votes.",
+      "hint": "Use the information in the question and check each step."
     },
     "qualitySchema": "production-v1"
   },
@@ -100,31 +100,31 @@ window.skillrPracticeQuestions = [
     "id": "ac9m2st02-p-004",
     "curriculumCode": "AC9M2ST02",
     "bank": "practice",
-    "skill": "preserve data across displays",
+    "skill": "key",
     "printable": true,
     "type": "single",
-    "question": "On the fruit graph, what must stay the same when this table is changed into a graph?",
-    "audioPrompt": "On the fruit graph, what must stay the same when this table is changed into a graph?",
-    "visual": "On the fruit graph: A table and bar graph both showing counts 2, 8, 5.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"On the fruit graph: A table and bar graph both showing counts 2, 8, 5.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2st02.svg#ac9m2st02-p-004\"></use></svg>",
+    "question": "What does one circle mean in this picture graph?",
+    "audioPrompt": "What does one circle mean in this picture graph?",
+    "visual": "Picture graph: Catch 3 circles, Tag 6, Skip 2; one circle is one vote.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Picture graph: Catch 3 circles, Tag 6, Skip 2; one circle is one vote.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2st02.svg?v=20260906-year2-pending-release#ac9m2st02-p-004\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2st02.svg#ac9m2st02-p-004",
-      "alt_text": "On the fruit graph: A table and bar graph both showing counts 2, 8, 5."
+      "alt_text": "Picture graph: Catch 3 circles, Tag 6, Skip 2; one circle is one vote.",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2st02.svg?v=20260906-year2-pending-release#ac9m2st02-p-004"
     },
     "answers": [
-      "the bar colours only",
-      "the order of the alphabet",
-      "the category counts"
+      "One game",
+      "One child in every category",
+      "One vote"
     ],
     "difficulty": 1,
-    "difficultyTier": "confidence",
-    "sequencePriority": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 4,
     "correct": 2,
-    "explanation": "A new display must represent the same data values.\nHint: Check every graph bar against its table count.",
+    "explanation": "The key assigns one vote to each circle.\nHint: Use the information in the question and check each step.",
     "structuredExplanation": {
-      "summary": "A new display must represent the same data values.",
-      "hint": "Check every graph bar against its table count."
+      "summary": "The key assigns one vote to each circle.",
+      "hint": "Use the information in the question and check each step."
     },
     "qualitySchema": "production-v1"
   },
@@ -132,31 +132,31 @@ window.skillrPracticeQuestions = [
     "id": "ac9m2st02-p-005",
     "curriculumCode": "AC9M2ST02",
     "bank": "practice",
-    "skill": "explain graph labels",
+    "skill": "difference",
     "printable": true,
     "type": "single",
-    "question": "On the fruit graph, why does a graph need category labels?",
-    "audioPrompt": "On the fruit graph, why does a graph need category labels?",
-    "visual": "On the fruit graph: A labelled graph for categories A, B and C.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"On the fruit graph: A labelled graph for categories A, B and C.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2st02.svg#ac9m2st02-p-005\"></use></svg>",
+    "question": "How many more votes did Tag receive than Catch?",
+    "audioPrompt": "How many more votes did Tag receive than Catch?",
+    "visual": "Bar graph: Catch 3, Tag 6, Skip 2; count scale 0 to 8 in ones.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Bar graph: Catch 3, Tag 6, Skip 2; count scale 0 to 8 in ones.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2st02.svg?v=20260906-year2-pending-release#ac9m2st02-p-005\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2st02.svg#ac9m2st02-p-005",
-      "alt_text": "On the fruit graph: A labelled graph for categories A, B and C."
+      "alt_text": "Bar graph: Catch 3, Tag 6, Skip 2; count scale 0 to 8 in ones.",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2st02.svg?v=20260906-year2-pending-release#ac9m2st02-p-005"
     },
     "answers": [
-      "to show what each bar represents",
-      "to make every bar equal",
-      "to change the data totals"
+      "9",
+      "3",
+      "2"
     ],
     "difficulty": 1,
-    "difficultyTier": "confidence",
-    "sequencePriority": 1,
-    "correct": 0,
-    "explanation": "Labels connect each bar or picture to its category.\nHint: Without labels, you cannot tell what is being counted.",
+    "difficultyTier": "recognise",
+    "sequencePriority": 5,
+    "correct": 1,
+    "explanation": "Read 6 and 3, then subtract: 6 minus 3 is 3.\nHint: Use the information in the question and check each step.",
     "structuredExplanation": {
-      "summary": "Labels connect each bar or picture to its category.",
-      "hint": "Without labels, you cannot tell what is being counted."
+      "summary": "Read 6 and 3, then subtract: 6 minus 3 is 3.",
+      "hint": "Use the information in the question and check each step."
     },
     "qualitySchema": "production-v1"
   },
@@ -164,30 +164,31 @@ window.skillrPracticeQuestions = [
     "id": "ac9m2st02-p-006",
     "curriculumCode": "AC9M2ST02",
     "bank": "practice",
-    "skill": "choose data display",
+    "skill": "total",
     "printable": true,
     "type": "single",
-    "question": "On the fruit graph, which display makes it easy to compare three category counts?",
-    "audioPrompt": "On the fruit graph, which display makes it easy to compare three category counts?",
-    "visual": "On the fruit graph: A labelled bar graph with three side-by-side bars.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"On the fruit graph: A labelled bar graph with three side-by-side bars.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2st02.svg#ac9m2st02-p-006\"></use></svg>",
+    "question": "How many votes are represented altogether?",
+    "audioPrompt": "How many votes are represented altogether?",
+    "visual": "Table: Catch 3, Tag 6, Skip 2 votes.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Table: Catch 3, Tag 6, Skip 2 votes.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2st02.svg?v=20260906-year2-pending-release#ac9m2st02-p-006\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2st02.svg#ac9m2st02-p-006",
-      "alt_text": "On the fruit graph: A labelled bar graph with three side-by-side bars."
+      "alt_text": "Table: Catch 3, Tag 6, Skip 2 votes.",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2st02.svg?v=20260906-year2-pending-release#ac9m2st02-p-006"
     },
     "answers": [
-      "an unlabelled picture",
-      "a labelled bar graph",
-      "a clock face"
+      "11",
+      "9",
+      "6"
     ],
-    "difficulty": 3,
-    "sequencePriority": 2,
-    "correct": 1,
-    "explanation": "A labelled bar graph places the category amounts side by side.\nHint: Choose a display where the heights and labels can be compared.",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 6,
+    "correct": 0,
+    "explanation": "Add all category counts: 3 plus 6 plus 2 is 11.\nHint: Use the information in the question and check each step.",
     "structuredExplanation": {
-      "summary": "A labelled bar graph places the category amounts side by side.",
-      "hint": "Choose a display where the heights and labels can be compared."
+      "summary": "Add all category counts: 3 plus 6 plus 2 is 11.",
+      "hint": "Use the information in the question and check each step."
     },
     "qualitySchema": "production-v1"
   },
@@ -195,31 +196,31 @@ window.skillrPracticeQuestions = [
     "id": "ac9m2st02-p-007",
     "curriculumCode": "AC9M2ST02",
     "bank": "practice",
-    "skill": "interpret picture graph key",
+    "skill": "labels",
     "printable": true,
     "type": "single",
-    "question": "On the fruit graph, a picture graph uses one star for one vote. How many votes do 5 stars show?",
-    "audioPrompt": "On the fruit graph, a picture graph uses one star for one vote. How many votes do 5 stars show?",
-    "visual": "On the fruit graph: Picture graph key says one star equals one vote, with 5 stars shown.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"On the fruit graph: Picture graph key says one star equals one vote, with 5 stars shown.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2st02.svg#ac9m2st02-p-007\"></use></svg>",
+    "question": "What do the labels Catch, Tag and Skip tell you?",
+    "audioPrompt": "What do the labels Catch, Tag and Skip tell you?",
+    "visual": "Bar graph: Catch 3, Tag 6, Skip 2; count scale 0 to 8 in ones.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Bar graph: Catch 3, Tag 6, Skip 2; count scale 0 to 8 in ones.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2st02.svg?v=20260906-year2-pending-release#ac9m2st02-p-007\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2st02.svg#ac9m2st02-p-007",
-      "alt_text": "On the fruit graph: Picture graph key says one star equals one vote, with 5 stars shown."
+      "alt_text": "Bar graph: Catch 3, Tag 6, Skip 2; count scale 0 to 8 in ones.",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2st02.svg?v=20260906-year2-pending-release#ac9m2st02-p-007"
     },
     "answers": [
-      "6",
-      "10",
-      "5"
+      "How many centimetres tall the graph is",
+      "Which game each bar represents",
+      "When the games were played"
     ],
     "difficulty": 1,
-    "difficultyTier": "confidence",
-    "sequencePriority": 1,
-    "correct": 2,
-    "explanation": "When one picture equals one vote, 5 stars represent 5 votes.\nHint: Check the key before counting the pictures.",
+    "difficultyTier": "recognise",
+    "sequencePriority": 7,
+    "correct": 1,
+    "explanation": "Category labels connect each bar to its game.\nHint: Use the information in the question and check each step.",
     "structuredExplanation": {
-      "summary": "When one picture equals one vote, 5 stars represent 5 votes.",
-      "hint": "Check the key before counting the pictures."
+      "summary": "Category labels connect each bar to its game.",
+      "hint": "Use the information in the question and check each step."
     },
     "qualitySchema": "production-v1"
   },
@@ -227,31 +228,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m2st02-p-008",
     "curriculumCode": "AC9M2ST02",
     "bank": "practice",
-    "skill": "identify graph data error",
+    "skill": "zero",
     "printable": true,
     "type": "single",
-    "question": "On the fruit graph, the table says apples has 2 votes, but the graph shows 3. What is wrong?",
-    "audioPrompt": "On the fruit graph, the table says apples has 2 votes, but the graph shows 3. What is wrong?",
-    "visual": "On the fruit graph: Table shows apples equals 2, while graph shows apples equals 3.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"On the fruit graph: Table shows apples equals 2, while graph shows apples equals 3.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2st02.svg#ac9m2st02-p-008\"></use></svg>",
+    "question": "A fourth game receives no votes. How should a picture graph record it?",
+    "audioPrompt": "A fourth game receives no votes. How should a picture graph record it?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2st02.svg#ac9m2st02-p-008",
-      "alt_text": "On the fruit graph: Table shows apples equals 2, while graph shows apples equals 3."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "the graph count doesn't match the table",
-      "the graph uses a blue bar",
-      "the table has a heading"
+      "Put one symbol there to show the label",
+      "Copy the largest row",
+      "Label its row and put no vote symbols in it"
     ],
     "difficulty": 1,
-    "difficultyTier": "confidence",
-    "sequencePriority": 1,
-    "correct": 0,
-    "explanation": "The graph must show 2 for apples, the same as the source table.\nHint: Compare one category at a time across both displays.",
+    "difficultyTier": "recognise",
+    "sequencePriority": 8,
+    "correct": 2,
+    "explanation": "A zero category has a label but no count symbols.\nHint: Use the information in the question and check each step.",
     "structuredExplanation": {
-      "summary": "The graph must show 2 for apples, the same as the source table.",
-      "hint": "Compare one category at a time across both displays."
+      "summary": "A zero category has a label but no count symbols.",
+      "hint": "Use the information in the question and check each step."
     },
     "qualitySchema": "production-v1"
   },
@@ -259,31 +259,31 @@ window.skillrPracticeQuestions = [
     "id": "ac9m2st02-p-009",
     "curriculumCode": "AC9M2ST02",
     "bank": "practice",
-    "skill": "read greatest category from graph",
+    "skill": "same data",
     "printable": true,
     "type": "single",
-    "question": "On the pet graph, which category has the most pets votes?",
-    "audioPrompt": "On the pet graph, which category has the most pets votes?",
-    "visual": "On the pet graph: Bar graph for pets: A 3, B 9, C 6.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"On the pet graph: Bar graph for pets: A 3, B 9, C 6.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2st02.svg#ac9m2st02-p-009\"></use></svg>",
+    "question": "The table says Catch 3, Tag 6, Skip 2. This graph is meant to show the same data. What needs fixing?",
+    "audioPrompt": "The table says Catch 3, Tag 6, Skip 2. This graph is meant to show the same data. What needs fixing?",
+    "visual": "Bar graph: Catch 6, Tag 3, Skip 2; scale in ones.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Bar graph: Catch 6, Tag 3, Skip 2; scale in ones.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2st02.svg?v=20260906-year2-pending-release#ac9m2st02-p-009\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2st02.svg#ac9m2st02-p-009",
-      "alt_text": "On the pet graph: Bar graph for pets: A 3, B 9, C 6."
+      "alt_text": "Bar graph: Catch 6, Tag 3, Skip 2; scale in ones.",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2st02.svg?v=20260906-year2-pending-release#ac9m2st02-p-009"
     },
     "answers": [
-      "cats",
-      "dogs",
-      "fish"
+      "The Catch and Tag bar heights are swapped",
+      "The Skip bar should be removed",
+      "Every bar should reach 6"
     ],
-    "difficulty": 1,
-    "difficultyTier": "confidence",
-    "sequencePriority": 1,
-    "correct": 1,
-    "explanation": "Category dogs has the tallest bar and the greatest count, 9.\nHint: Compare the top of each bar.",
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 9,
+    "correct": 0,
+    "explanation": "The displayed bars assign 6 to Catch and 3 to Tag, reversing those two counts.\nHint: Use the information in the question and check each step.",
     "structuredExplanation": {
-      "summary": "Category dogs has the tallest bar and the greatest count, 9.",
-      "hint": "Compare the top of each bar."
+      "summary": "The displayed bars assign 6 to Catch and 3 to Tag, reversing those two counts.",
+      "hint": "Use the information in the question and check each step."
     },
     "qualitySchema": "production-v1"
   },
@@ -291,30 +291,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m2st02-p-010",
     "curriculumCode": "AC9M2ST02",
     "bank": "practice",
-    "skill": "read least category from graph",
+    "skill": "different forms",
     "printable": true,
     "type": "single",
-    "question": "On the pet graph, which category has the fewest pets votes?",
-    "audioPrompt": "On the pet graph, which category has the fewest pets votes?",
-    "visual": "On the pet graph: Bar graph for pets: A 3, B 9, C 6.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"On the pet graph: Bar graph for pets: A 3, B 9, C 6.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2st02.svg#ac9m2st02-p-010\"></use></svg>",
+    "question": "A bar graph and picture graph both show Catch 3, Tag 6, Skip 2. What do they share?",
+    "audioPrompt": "A bar graph and picture graph both show Catch 3, Tag 6, Skip 2. What do they share?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2st02.svg#ac9m2st02-p-010",
-      "alt_text": "On the pet graph: Bar graph for pets: A 3, B 9, C 6."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "dogs",
-      "fish",
-      "cats"
+      "The count for each game",
+      "The shape of every mark",
+      "The same way of drawing each vote"
     ],
-    "difficulty": 3,
-    "sequencePriority": 2,
-    "correct": 2,
-    "explanation": "Category cats has the shortest bar and the smallest count, 3.\nHint: Find the bar that reaches the lowest number.",
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 10,
+    "correct": 0,
+    "explanation": "They represent the same category counts using different visual forms.\nHint: Use the information in the question and check each step.",
     "structuredExplanation": {
-      "summary": "Category cats has the shortest bar and the smallest count, 3.",
-      "hint": "Find the bar that reaches the lowest number."
+      "summary": "They represent the same category counts using different visual forms.",
+      "hint": "Use the information in the question and check each step."
     },
     "qualitySchema": "production-v1"
   },
@@ -322,30 +322,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m2st02-p-011",
     "curriculumCode": "AC9M2ST02",
     "bank": "practice",
-    "skill": "compare graph categories",
+    "skill": "distinct feature",
     "printable": true,
     "type": "single",
-    "question": "On the pet graph, how many more votes does dogs have than cats?",
-    "audioPrompt": "On the pet graph, how many more votes does dogs have than cats?",
-    "visual": "On the pet graph: Bar graph with cats at 3 and dogs at 9.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"On the pet graph: Bar graph with cats at 3 and dogs at 9.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2st02.svg#ac9m2st02-p-011\"></use></svg>",
+    "question": "How does a one-to-one picture graph differ from a bar graph?",
+    "audioPrompt": "How does a one-to-one picture graph differ from a bar graph?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2st02.svg#ac9m2st02-p-011",
-      "alt_text": "On the pet graph: Bar graph with cats at 3 and dogs at 9."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "6",
-      "12",
-      "7"
+      "It cannot show category names",
+      "It must have different totals",
+      "It uses a separate symbol for each vote"
     ],
-    "difficulty": 3,
-    "sequencePriority": 2,
-    "correct": 0,
-    "explanation": "Find the difference: 9 − 3 = 6.\nHint: Start at cats's height and count up to dogs's height.",
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 11,
+    "correct": 2,
+    "explanation": "A picture graph uses repeated symbols; a bar represents quantity by its length or height.\nHint: Use the information in the question and check each step.",
     "structuredExplanation": {
-      "summary": "Find the difference: 9 − 3 = 6.",
-      "hint": "Start at cats's height and count up to dogs's height."
+      "summary": "A picture graph uses repeated symbols; a bar represents quantity by its length or height.",
+      "hint": "Use the information in the question and check each step."
     },
     "qualitySchema": "production-v1"
   },
@@ -353,30 +353,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m2st02-p-012",
     "curriculumCode": "AC9M2ST02",
     "bank": "practice",
-    "skill": "preserve data across displays",
+    "skill": "order",
     "printable": true,
     "type": "single",
-    "question": "On the pet graph, what must stay the same when this table is changed into a graph?",
-    "audioPrompt": "On the pet graph, what must stay the same when this table is changed into a graph?",
-    "visual": "On the pet graph: A table and bar graph both showing counts 3, 9, 6.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"On the pet graph: A table and bar graph both showing counts 3, 9, 6.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2st02.svg#ac9m2st02-p-012\"></use></svg>",
+    "question": "Two graphs list the same games in different orders. Can both represent the same votes?",
+    "audioPrompt": "Two graphs list the same games in different orders. Can both represent the same votes?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2st02.svg#ac9m2st02-p-012",
-      "alt_text": "On the pet graph: A table and bar graph both showing counts 3, 9, 6."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "the bar colours only",
-      "the category counts",
-      "the order of the alphabet"
+      "No, category order changes the votes",
+      "Yes, if each game keeps its correct count",
+      "Only if every count is equal"
     ],
-    "difficulty": 3,
-    "sequencePriority": 2,
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 12,
     "correct": 1,
-    "explanation": "A new display must represent the same data values.\nHint: Check every graph bar against its table count.",
+    "explanation": "Compare labels with counts, not only the positions of bars.\nHint: Use the information in the question and check each step.",
     "structuredExplanation": {
-      "summary": "A new display must represent the same data values.",
-      "hint": "Check every graph bar against its table count."
+      "summary": "Compare labels with counts, not only the positions of bars.",
+      "hint": "Use the information in the question and check each step."
     },
     "qualitySchema": "production-v1"
   },
@@ -384,30 +384,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m2st02-p-013",
     "curriculumCode": "AC9M2ST02",
     "bank": "practice",
-    "skill": "explain graph labels",
+    "skill": "equal icons",
     "printable": true,
     "type": "single",
-    "question": "On the pet graph, why does a graph need category labels?",
-    "audioPrompt": "On the pet graph, why does a graph need category labels?",
-    "visual": "On the pet graph: A labelled graph for categories A, B and C.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"On the pet graph: A labelled graph for categories A, B and C.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2st02.svg#ac9m2st02-p-013\"></use></svg>",
+    "question": "Why should vote symbols have the same size and spacing?",
+    "audioPrompt": "Why should vote symbols have the same size and spacing?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2st02.svg#ac9m2st02-p-013",
-      "alt_text": "On the pet graph: A labelled graph for categories A, B and C."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "to make every bar equal",
-      "to change the data totals",
-      "to show what each bar represents"
+      "So every category gets the same count",
+      "So the title can be left out",
+      "So rows can be compared fairly"
     ],
-    "difficulty": 3,
-    "sequencePriority": 2,
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 13,
     "correct": 2,
-    "explanation": "Labels connect each bar or picture to its category.\nHint: Without labels, you cannot tell what is being counted.",
+    "explanation": "Unequal symbol sizes or gaps can make equal counts look different.\nHint: Use the information in the question and check each step.",
     "structuredExplanation": {
-      "summary": "Labels connect each bar or picture to its category.",
-      "hint": "Without labels, you cannot tell what is being counted."
+      "summary": "Unequal symbol sizes or gaps can make equal counts look different.",
+      "hint": "Use the information in the question and check each step."
     },
     "qualitySchema": "production-v1"
   },
@@ -415,30 +415,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m2st02-p-014",
     "curriculumCode": "AC9M2ST02",
     "bank": "practice",
-    "skill": "choose data display",
+    "skill": "baseline",
     "printable": true,
     "type": "single",
-    "question": "On the pet graph, which display makes it easy to compare three category counts?",
-    "audioPrompt": "On the pet graph, which display makes it easy to compare three category counts?",
-    "visual": "On the pet graph: A labelled bar graph with three side-by-side bars.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"On the pet graph: A labelled bar graph with three side-by-side bars.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2st02.svg#ac9m2st02-p-014\"></use></svg>",
+    "question": "A count bar graph starts every bar from zero. Why is that useful?",
+    "audioPrompt": "A count bar graph starts every bar from zero. Why is that useful?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2st02.svg#ac9m2st02-p-014",
-      "alt_text": "On the pet graph: A labelled bar graph with three side-by-side bars."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "a labelled bar graph",
-      "an unlabelled picture",
-      "a clock face"
+      "Bar heights can be compared from the same starting point",
+      "It makes every vote equal zero",
+      "It removes the need for category labels"
     ],
-    "difficulty": 3,
-    "sequencePriority": 2,
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 14,
     "correct": 0,
-    "explanation": "A labelled bar graph places the category amounts side by side.\nHint: Choose a display where the heights and labels can be compared.",
+    "explanation": "A shared zero baseline makes heights reflect counts fairly.\nHint: Use the information in the question and check each step.",
     "structuredExplanation": {
-      "summary": "A labelled bar graph places the category amounts side by side.",
-      "hint": "Choose a display where the heights and labels can be compared."
+      "summary": "A shared zero baseline makes heights reflect counts fairly.",
+      "hint": "Use the information in the question and check each step."
     },
     "qualitySchema": "production-v1"
   },
@@ -446,30 +446,31 @@ window.skillrPracticeQuestions = [
     "id": "ac9m2st02-p-015",
     "curriculumCode": "AC9M2ST02",
     "bank": "practice",
-    "skill": "interpret picture graph key",
+    "skill": "update",
     "printable": true,
     "type": "single",
-    "question": "On the pet graph, a picture graph uses one star for one vote. How many votes do 6 stars show?",
-    "audioPrompt": "On the pet graph, a picture graph uses one star for one vote. How many votes do 6 stars show?",
-    "visual": "On the pet graph: Picture graph key says one star equals one vote, with 6 stars shown.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"On the pet graph: Picture graph key says one star equals one vote, with 6 stars shown.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2st02.svg#ac9m2st02-p-015\"></use></svg>",
+    "question": "One more person votes for Skip. What should change in the picture graph?",
+    "audioPrompt": "One more person votes for Skip. What should change in the picture graph?",
+    "visual": "Picture graph: Catch 3 circles, Tag 6, Skip 2; one circle is one vote.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Picture graph: Catch 3 circles, Tag 6, Skip 2; one circle is one vote.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2st02.svg?v=20260906-year2-pending-release#ac9m2st02-p-015\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2st02.svg#ac9m2st02-p-015",
-      "alt_text": "On the pet graph: Picture graph key says one star equals one vote, with 6 stars shown."
+      "alt_text": "Picture graph: Catch 3 circles, Tag 6, Skip 2; one circle is one vote.",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2st02.svg?v=20260906-year2-pending-release#ac9m2st02-p-015"
     },
     "answers": [
-      "7",
-      "6",
-      "12"
+      "Add one circle to every row",
+      "Add one circle to Skip",
+      "Remove one circle from Tag"
     ],
-    "difficulty": 3,
-    "sequencePriority": 2,
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 15,
     "correct": 1,
-    "explanation": "When one picture equals one vote, 6 stars represent 6 votes.\nHint: Check the key before counting the pictures.",
+    "explanation": "Only Skip gains a vote. Its count changes from 2 to 3.\nHint: Use the information in the question and check each step.",
     "structuredExplanation": {
-      "summary": "When one picture equals one vote, 6 stars represent 6 votes.",
-      "hint": "Check the key before counting the pictures."
+      "summary": "Only Skip gains a vote. Its count changes from 2 to 3.",
+      "hint": "Use the information in the question and check each step."
     },
     "qualitySchema": "production-v1"
   },
@@ -477,30 +478,31 @@ window.skillrPracticeQuestions = [
     "id": "ac9m2st02-p-016",
     "curriculumCode": "AC9M2ST02",
     "bank": "practice",
-    "skill": "identify graph data error",
+    "skill": "two categories",
     "printable": true,
     "type": "single",
-    "question": "On the pet graph, the table says cats has 3 votes, but the graph shows 4. What is wrong?",
-    "audioPrompt": "On the pet graph, the table says cats has 3 votes, but the graph shows 4. What is wrong?",
-    "visual": "On the pet graph: Table shows cats equals 3, while graph shows cats equals 4.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"On the pet graph: Table shows cats equals 3, while graph shows cats equals 4.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2st02.svg#ac9m2st02-p-016\"></use></svg>",
+    "question": "How many votes did Catch and Skip receive together?",
+    "audioPrompt": "How many votes did Catch and Skip receive together?",
+    "visual": "Bar graph: Catch 3, Tag 6, Skip 2; count scale 0 to 8 in ones.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Bar graph: Catch 3, Tag 6, Skip 2; count scale 0 to 8 in ones.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2st02.svg?v=20260906-year2-pending-release#ac9m2st02-p-016\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2st02.svg#ac9m2st02-p-016",
-      "alt_text": "On the pet graph: Table shows cats equals 3, while graph shows cats equals 4."
+      "alt_text": "Bar graph: Catch 3, Tag 6, Skip 2; count scale 0 to 8 in ones.",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2st02.svg?v=20260906-year2-pending-release#ac9m2st02-p-016"
     },
     "answers": [
-      "the graph uses a blue bar",
-      "the table has a heading",
-      "the graph count doesn't match the table"
+      "9",
+      "5",
+      "8"
     ],
-    "difficulty": 3,
-    "sequencePriority": 2,
-    "correct": 2,
-    "explanation": "The graph must show 3 for cats, the same as the source table.\nHint: Compare one category at a time across both displays.",
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 16,
+    "correct": 1,
+    "explanation": "Catch has 3 and Skip has 2; together they have 5.\nHint: Use the information in the question and check each step.",
     "structuredExplanation": {
-      "summary": "The graph must show 3 for cats, the same as the source table.",
-      "hint": "Compare one category at a time across both displays."
+      "summary": "Catch has 3 and Skip has 2; together they have 5.",
+      "hint": "Use the information in the question and check each step."
     },
     "qualitySchema": "production-v1"
   },
@@ -508,30 +510,31 @@ window.skillrPracticeQuestions = [
     "id": "ac9m2st02-p-017",
     "curriculumCode": "AC9M2ST02",
     "bank": "practice",
-    "skill": "read greatest category from graph",
+    "skill": "misread key",
     "printable": true,
     "type": "single",
-    "question": "On the games graph, which category has the most games votes?",
-    "audioPrompt": "On the games graph, which category has the most games votes?",
-    "visual": "On the games graph: Bar graph for games: A 4, B 10, C 7.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"On the games graph: Bar graph for games: A 4, B 10, C 7.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2st02.svg#ac9m2st02-p-017\"></use></svg>",
+    "question": "A child counts the circle in the key as another vote. What should they do?",
+    "audioPrompt": "A child counts the circle in the key as another vote. What should they do?",
+    "visual": "Picture graph: Catch 3 circles, Tag 6, Skip 2; one circle is one vote.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Picture graph: Catch 3 circles, Tag 6, Skip 2; one circle is one vote.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2st02.svg?v=20260906-year2-pending-release#ac9m2st02-p-017\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2st02.svg#ac9m2st02-p-017",
-      "alt_text": "On the games graph: Bar graph for games: A 4, B 10, C 7."
+      "alt_text": "Picture graph: Catch 3 circles, Tag 6, Skip 2; one circle is one vote.",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2st02.svg?v=20260906-year2-pending-release#ac9m2st02-p-017"
     },
     "answers": [
-      "swings",
-      "chase",
-      "ball"
+      "Count only circles in the category rows",
+      "Count the title as a vote too",
+      "Ignore every circle"
     ],
     "difficulty": 3,
-    "sequencePriority": 2,
+    "difficultyTier": "reason",
+    "sequencePriority": 17,
     "correct": 0,
-    "explanation": "Category swings has the tallest bar and the greatest count, 10.\nHint: Compare the top of each bar.",
+    "explanation": "The key explains the symbols; its example is not part of the data.\nHint: Use the information in the question and check each step.",
     "structuredExplanation": {
-      "summary": "Category swings has the tallest bar and the greatest count, 10.",
-      "hint": "Compare the top of each bar."
+      "summary": "The key explains the symbols; its example is not part of the data.",
+      "hint": "Use the information in the question and check each step."
     },
     "qualitySchema": "production-v1"
   },
@@ -539,30 +542,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m2st02-p-018",
     "curriculumCode": "AC9M2ST02",
     "bank": "practice",
-    "skill": "read least category from graph",
+    "skill": "title",
     "printable": true,
     "type": "single",
-    "question": "On the games graph, which category has the fewest games votes?",
-    "audioPrompt": "On the games graph, which category has the fewest games votes?",
-    "visual": "On the games graph: Bar graph for games: A 4, B 10, C 7.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"On the games graph: Bar graph for games: A 4, B 10, C 7.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2st02.svg#ac9m2st02-p-018\"></use></svg>",
+    "question": "Which title matches a graph of children’s votes for Catch, Tag and Skip?",
+    "audioPrompt": "Which title matches a graph of children’s votes for Catch, Tag and Skip?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2st02.svg#ac9m2st02-p-018",
-      "alt_text": "On the games graph: Bar graph for games: A 4, B 10, C 7."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "swings",
-      "chase",
-      "ball"
+      "Number of rainy days",
+      "Lengths of pencils",
+      "Favourite playground game"
     ],
     "difficulty": 3,
-    "sequencePriority": 2,
-    "correct": 1,
-    "explanation": "Category chase has the shortest bar and the smallest count, 4.\nHint: Find the bar that reaches the lowest number.",
+    "difficultyTier": "reason",
+    "sequencePriority": 18,
+    "correct": 2,
+    "explanation": "The title should identify the question the data answer.\nHint: Use the information in the question and check each step.",
     "structuredExplanation": {
-      "summary": "Category chase has the shortest bar and the smallest count, 4.",
-      "hint": "Find the bar that reaches the lowest number."
+      "summary": "The title should identify the question the data answer.",
+      "hint": "Use the information in the question and check each step."
     },
     "qualitySchema": "production-v1"
   },
@@ -570,30 +573,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m2st02-p-019",
     "curriculumCode": "AC9M2ST02",
     "bank": "practice",
-    "skill": "compare graph categories",
+    "skill": "digital creation",
     "printable": true,
     "type": "single",
-    "question": "On the games graph, how many more votes does swings have than chase?",
-    "audioPrompt": "On the games graph, how many more votes does swings have than chase?",
-    "visual": "On the games graph: Bar graph with chase at 4 and swings at 10.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"On the games graph: Bar graph with chase at 4 and swings at 10.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2st02.svg#ac9m2st02-p-019\"></use></svg>",
+    "question": "A digital graph swaps category names but leaves their counts in place. What should you check?",
+    "audioPrompt": "A digital graph swaps category names but leaves their counts in place. What should you check?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2st02.svg#ac9m2st02-p-019",
-      "alt_text": "On the games graph: Bar graph with chase at 4 and swings at 10."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "14",
-      "7",
-      "6"
+      "That each count remains linked to the correct category",
+      "Only the graph colour",
+      "Only the title size"
     ],
     "difficulty": 3,
-    "sequencePriority": 2,
-    "correct": 2,
-    "explanation": "Find the difference: 10 − 4 = 6.\nHint: Start at chase's height and count up to swings's height.",
+    "difficultyTier": "reason",
+    "sequencePriority": 19,
+    "correct": 0,
+    "explanation": "Correct category-count pairing matters even when software makes the graph.\nHint: Use the information in the question and check each step.",
     "structuredExplanation": {
-      "summary": "Find the difference: 10 − 4 = 6.",
-      "hint": "Start at chase's height and count up to swings's height."
+      "summary": "Correct category-count pairing matters even when software makes the graph.",
+      "hint": "Use the information in the question and check each step."
     },
     "qualitySchema": "production-v1"
   },
@@ -601,30 +604,31 @@ window.skillrPracticeQuestions = [
     "id": "ac9m2st02-p-020",
     "curriculumCode": "AC9M2ST02",
     "bank": "practice",
-    "skill": "preserve data across displays",
+    "skill": "evidence limit",
     "printable": true,
     "type": "single",
-    "question": "On the games graph, what must stay the same when this table is changed into a graph?",
-    "audioPrompt": "On the games graph, what must stay the same when this table is changed into a graph?",
-    "visual": "On the games graph: A table and bar graph both showing counts 4, 10, 7.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"On the games graph: A table and bar graph both showing counts 4, 10, 7.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2st02.svg#ac9m2st02-p-020\"></use></svg>",
+    "question": "Does this graph tell us why Tag was chosen most often?",
+    "audioPrompt": "Does this graph tell us why Tag was chosen most often?",
+    "visual": "Bar graph: Catch 3, Tag 6, Skip 2; count scale 0 to 8 in ones.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Bar graph: Catch 3, Tag 6, Skip 2; count scale 0 to 8 in ones.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2st02.svg?v=20260906-year2-pending-release#ac9m2st02-p-020\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2st02.svg#ac9m2st02-p-020",
-      "alt_text": "On the games graph: A table and bar graph both showing counts 4, 10, 7."
+      "alt_text": "Bar graph: Catch 3, Tag 6, Skip 2; count scale 0 to 8 in ones.",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2st02.svg?v=20260906-year2-pending-release#ac9m2st02-p-020"
     },
     "answers": [
-      "the category counts",
-      "the bar colours only",
-      "the order of the alphabet"
+      "Yes; it proves Tag is easiest",
+      "No; it records how many votes, not the reasons",
+      "Yes; it tells every child’s reason"
     ],
     "difficulty": 3,
-    "sequencePriority": 2,
-    "correct": 0,
-    "explanation": "A new display must represent the same data values.\nHint: Check every graph bar against its table count.",
+    "difficultyTier": "reason",
+    "sequencePriority": 20,
+    "correct": 1,
+    "explanation": "The graph shows counts; reasons were not included in these data.\nHint: Use the information in the question and check each step.",
     "structuredExplanation": {
-      "summary": "A new display must represent the same data values.",
-      "hint": "Check every graph bar against its table count."
+      "summary": "The graph shows counts; reasons were not included in these data.",
+      "hint": "Use the information in the question and check each step."
     },
     "qualitySchema": "production-v1"
   },
@@ -632,30 +636,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m2st02-p-021",
     "curriculumCode": "AC9M2ST02",
     "bank": "practice",
-    "skill": "explain graph labels",
+    "skill": "same total not enough",
     "printable": true,
     "type": "single",
-    "question": "On the games graph, why does a graph need category labels?",
-    "audioPrompt": "On the games graph, why does a graph need category labels?",
-    "visual": "On the games graph: A labelled graph for categories A, B and C.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"On the games graph: A labelled graph for categories A, B and C.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2st02.svg#ac9m2st02-p-021\"></use></svg>",
+    "question": "Two graphs have 11 votes altogether. Must they show the same results for each game?",
+    "audioPrompt": "Two graphs have 11 votes altogether. Must they show the same results for each game?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2st02.svg#ac9m2st02-p-021",
-      "alt_text": "On the games graph: A labelled graph for categories A, B and C."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "to make every bar equal",
-      "to show what each bar represents",
-      "to change the data totals"
+      "Yes; equal totals prove all counts match",
+      "Yes; all graphs have equal categories",
+      "No; the category counts could differ"
     ],
     "difficulty": 3,
-    "sequencePriority": 2,
-    "correct": 1,
-    "explanation": "Labels connect each bar or picture to its category.\nHint: Without labels, you cannot tell what is being counted.",
+    "difficultyTier": "reason",
+    "sequencePriority": 21,
+    "correct": 2,
+    "explanation": "The same total can be split among categories in different ways.\nHint: Use the information in the question and check each step.",
     "structuredExplanation": {
-      "summary": "Labels connect each bar or picture to its category.",
-      "hint": "Without labels, you cannot tell what is being counted."
+      "summary": "The same total can be split among categories in different ways.",
+      "hint": "Use the information in the question and check each step."
     },
     "qualitySchema": "production-v1"
   },
@@ -663,30 +667,37 @@ window.skillrPracticeQuestions = [
     "id": "ac9m2st02-p-022",
     "curriculumCode": "AC9M2ST02",
     "bank": "practice",
-    "skill": "choose data display",
+    "skill": "create picture",
     "printable": true,
-    "type": "single",
-    "question": "On the games graph, which display makes it easy to compare three category counts?",
-    "audioPrompt": "On the games graph, which display makes it easy to compare three category counts?",
-    "visual": "On the games graph: A labelled bar graph with three side-by-side bars.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"On the games graph: A labelled bar graph with three side-by-side bars.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2st02.svg#ac9m2st02-p-022\"></use></svg>",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Catch 3 symbols; Tag 6; Skip 2, with equal-sized symbols and a key meaning one vote each.",
+    "acceptanceNote": "Check all category counts and readable labels, title and key. Accept another consistent symbol.",
+    "responseInstructions": "Complete the task on paper or with materials, then ask an adult to check it.",
+    "completionLabel": "Ready for adult review",
+    "question": "Use the table to draw a picture graph. Include a title, all three game labels and a one-vote key.",
+    "audioPrompt": "Use the table to draw a picture graph. Include a title, all three game labels and a one-vote key.",
+    "visual": "Table: Catch 3, Tag 6, Skip 2 votes.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Table: Catch 3, Tag 6, Skip 2 votes.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2st02.svg?v=20260906-year2-pending-release#ac9m2st02-p-022\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2st02.svg#ac9m2st02-p-022",
-      "alt_text": "On the games graph: A labelled bar graph with three side-by-side bars."
+      "alt_text": "Table: Catch 3, Tag 6, Skip 2 votes.",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2st02.svg?v=20260906-year2-pending-release#ac9m2st02-p-022"
     },
     "answers": [
-      "an unlabelled picture",
-      "a clock face",
-      "a labelled bar graph"
+      "Needs revision",
+      "Not attempted",
+      "Completed response"
     ],
     "difficulty": 3,
-    "sequencePriority": 2,
-    "correct": 2,
-    "explanation": "A labelled bar graph places the category amounts side by side.\nHint: Choose a display where the heights and labels can be compared.",
+    "difficultyTier": "reason",
+    "sequencePriority": 22,
+    "correct": "Catch 3 symbols; Tag 6; Skip 2, with equal-sized symbols and a key meaning one vote each.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
-      "summary": "A labelled bar graph places the category amounts side by side.",
-      "hint": "Choose a display where the heights and labels can be compared."
+      "summary": "Catch 3 symbols; Tag 6; Skip 2, with equal-sized symbols and a key meaning one vote each.",
+      "hint": "Check all category counts and readable labels, title and key. Accept another consistent symbol."
     },
     "qualitySchema": "production-v1"
   },
@@ -694,30 +705,37 @@ window.skillrPracticeQuestions = [
     "id": "ac9m2st02-p-023",
     "curriculumCode": "AC9M2ST02",
     "bank": "practice",
-    "skill": "interpret picture graph key",
+    "skill": "create compare",
     "printable": true,
-    "type": "single",
-    "question": "On the games graph, a picture graph uses one star for one vote. How many votes do 7 stars show?",
-    "audioPrompt": "On the games graph, a picture graph uses one star for one vote. How many votes do 7 stars show?",
-    "visual": "On the games graph: Picture graph key says one star equals one vote, with 7 stars shown.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"On the games graph: Picture graph key says one star equals one vote, with 7 stars shown.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2st02.svg#ac9m2st02-p-023\"></use></svg>",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Bars at 3, 6 and 2 from zero, labelled Catch, Tag, Skip. Bar heights replace repeated vote symbols.",
+    "acceptanceNote": "Check uniform scale, shared baseline and correct counts. Paper is acceptable if software is unavailable.",
+    "responseInstructions": "Complete the task on paper or with materials, then ask an adult to check it.",
+    "completionLabel": "Ready for adult review",
+    "question": "Use the table to draw a bar graph, using graphing software with adult help if available. Explain one difference between your bar graph and a picture graph of the same votes.",
+    "audioPrompt": "Use the table to draw a bar graph, using graphing software with adult help if available. Explain one difference between your bar graph and a picture graph of the same votes.",
+    "visual": "Table: Catch 3, Tag 6, Skip 2 votes.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Table: Catch 3, Tag 6, Skip 2 votes.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2st02.svg?v=20260906-year2-pending-release#ac9m2st02-p-023\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2st02.svg#ac9m2st02-p-023",
-      "alt_text": "On the games graph: Picture graph key says one star equals one vote, with 7 stars shown."
+      "alt_text": "Table: Catch 3, Tag 6, Skip 2 votes.",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2st02.svg?v=20260906-year2-pending-release#ac9m2st02-p-023"
     },
     "answers": [
-      "7",
-      "8",
-      "14"
+      "Needs revision",
+      "Completed response",
+      "Not attempted"
     ],
     "difficulty": 3,
-    "sequencePriority": 2,
-    "correct": 0,
-    "explanation": "When one picture equals one vote, 7 stars represent 7 votes.\nHint: Check the key before counting the pictures.",
+    "difficultyTier": "reason",
+    "sequencePriority": 23,
+    "correct": "Bars at 3, 6 and 2 from zero, labelled Catch, Tag, Skip. Bar heights replace repeated vote symbols.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
-      "summary": "When one picture equals one vote, 7 stars represent 7 votes.",
-      "hint": "Check the key before counting the pictures."
+      "summary": "Bars at 3, 6 and 2 from zero, labelled Catch, Tag, Skip. Bar heights replace repeated vote symbols.",
+      "hint": "Check uniform scale, shared baseline and correct counts. Paper is acceptable if software is unavailable."
     },
     "qualitySchema": "production-v1"
   },
@@ -725,702 +743,37 @@ window.skillrPracticeQuestions = [
     "id": "ac9m2st02-p-024",
     "curriculumCode": "AC9M2ST02",
     "bank": "practice",
-    "skill": "identify graph data error",
+    "skill": "compare representations",
     "printable": true,
-    "type": "single",
-    "question": "On the games graph, the table says chase has 4 votes, but the graph shows 5. What is wrong?",
-    "audioPrompt": "On the games graph, the table says chase has 4 votes, but the graph shows 5. What is wrong?",
-    "visual": "On the games graph: Table shows chase equals 4, while graph shows chase equals 5.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"On the games graph: Table shows chase equals 4, while graph shows chase equals 5.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2st02.svg#ac9m2st02-p-024\"></use></svg>",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Catch 3, Tag 6, Skip 2. For example, Tag has the most votes in both.",
+    "acceptanceNote": "Check every converted count and a true shared fact.",
+    "responseInstructions": "Complete the task on paper or with materials, then ask an adult to check it.",
+    "completionLabel": "Ready for adult review",
+    "question": "Make a simple count table from this picture graph. State one fact that stays the same in both displays.",
+    "audioPrompt": "Make a simple count table from this picture graph. State one fact that stays the same in both displays.",
+    "visual": "Picture graph: Catch 3 circles, Tag 6, Skip 2; one circle is one vote.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Picture graph: Catch 3 circles, Tag 6, Skip 2; one circle is one vote.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2st02.svg?v=20260906-year2-pending-release#ac9m2st02-p-024\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2st02.svg#ac9m2st02-p-024",
-      "alt_text": "On the games graph: Table shows chase equals 4, while graph shows chase equals 5."
+      "alt_text": "Picture graph: Catch 3 circles, Tag 6, Skip 2; one circle is one vote.",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2st02.svg?v=20260906-year2-pending-release#ac9m2st02-p-024"
     },
     "answers": [
-      "the graph uses a blue bar",
-      "the graph count doesn't match the table",
-      "the table has a heading"
+      "Completed response",
+      "Needs revision",
+      "Not attempted"
     ],
     "difficulty": 3,
-    "sequencePriority": 2,
-    "correct": 1,
-    "explanation": "The graph must show 4 for chase, the same as the source table.\nHint: Compare one category at a time across both displays.",
+    "difficultyTier": "reason",
+    "sequencePriority": 24,
+    "correct": "Catch 3, Tag 6, Skip 2. For example, Tag has the most votes in both.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
-      "summary": "The graph must show 4 for chase, the same as the source table.",
-      "hint": "Compare one category at a time across both displays."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m2st02-p-025",
-    "curriculumCode": "AC9M2ST02",
-    "bank": "practice",
-    "skill": "at the school garden a picture",
-    "printable": true,
-    "type": "single",
-    "question": "At the school garden, a picture graph shows 4 stars for cats. How many votes is that?",
-    "audioPrompt": "At the school garden, a picture graph shows 4 stars for cats. How many votes is that?",
-    "visual": "At the school garden, a picture graph shows 4 stars for cats. How many votes is that?",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": "At the school garden, a picture graph shows 4 stars for cats. How many votes is that?"
-    },
-    "answers": [
-      "4",
-      "5",
-      "8"
-    ],
-    "correct": 0,
-    "explanation": "Read the graph labels and count carefully.\nHint: Use the information in the question to check your answer.",
-    "structuredExplanation": {
-      "summary": "Read the graph labels and count carefully.",
-      "hint": "Use the information in the question to check your answer."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m2st02-p-026",
-    "curriculumCode": "AC9M2ST02",
-    "bank": "practice",
-    "skill": "during maths groups which graph needs",
-    "printable": true,
-    "type": "single",
-    "question": "During maths groups, which graph needs labels?",
-    "audioPrompt": "During maths groups, which graph needs labels?",
-    "visual": "During maths groups, which graph needs labels?",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": "During maths groups, which graph needs labels?"
-    },
-    "answers": [
-      "labelled graph",
-      "clear title",
-      "unlabelled graph"
-    ],
-    "correct": 2,
-    "explanation": "Read the graph labels and count carefully.\nHint: Use the information in the question to check your answer.",
-    "structuredExplanation": {
-      "summary": "Read the graph labels and count carefully.",
-      "hint": "Use the information in the question to check your answer."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m2st02-p-027",
-    "curriculumCode": "AC9M2ST02",
-    "bank": "practice",
-    "skill": "at the art table dogs have",
-    "printable": true,
-    "type": "single",
-    "question": "At the art table, dogs have 6 votes and cats have 8. Which has more?",
-    "audioPrompt": "At the art table, dogs have 6 votes and cats have 8. Which has more?",
-    "visual": "At the art table, dogs have 6 votes and cats have 8. Which has more?",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": "At the art table, dogs have 6 votes and cats have 8. Which has more?"
-    },
-    "answers": [
-      "same",
-      "cats",
-      "dogs"
-    ],
-    "correct": 1,
-    "explanation": "Read the graph labels and count carefully.\nHint: Use the information in the question to check your answer.",
-    "structuredExplanation": {
-      "summary": "Read the graph labels and count carefully.",
-      "hint": "Use the information in the question to check your answer."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m2st02-p-028",
-    "curriculumCode": "AC9M2ST02",
-    "bank": "practice",
-    "skill": "in the playground a picture graph",
-    "printable": true,
-    "type": "single",
-    "question": "In the playground, a picture graph shows 7 stars for cats. How many votes is that?",
-    "audioPrompt": "In the playground, a picture graph shows 7 stars for cats. How many votes is that?",
-    "visual": "In the playground, a picture graph shows 7 stars for cats. How many votes is that?",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": "In the playground, a picture graph shows 7 stars for cats. How many votes is that?"
-    },
-    "answers": [
-      "7",
-      "8",
-      "14"
-    ],
-    "correct": 0,
-    "explanation": "Read the graph labels and count carefully.\nHint: Use the information in the question to check your answer.",
-    "structuredExplanation": {
-      "summary": "Read the graph labels and count carefully.",
-      "hint": "Use the information in the question to check your answer."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m2st02-p-029",
-    "curriculumCode": "AC9M2ST02",
-    "bank": "practice",
-    "skill": "at the library which graph needs",
-    "printable": true,
-    "type": "single",
-    "question": "At the library, which graph needs labels?",
-    "audioPrompt": "At the library, which graph needs labels?",
-    "visual": "At the library, which graph needs labels?",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": "At the library, which graph needs labels?"
-    },
-    "answers": [
-      "labelled graph",
-      "clear title",
-      "unlabelled graph"
-    ],
-    "correct": 2,
-    "explanation": "Read the graph labels and count carefully.\nHint: Use the information in the question to check your answer.",
-    "structuredExplanation": {
-      "summary": "Read the graph labels and count carefully.",
-      "hint": "Use the information in the question to check your answer."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m2st02-p-030",
-    "curriculumCode": "AC9M2ST02",
-    "bank": "practice",
-    "skill": "during sport dogs have 9 votes",
-    "printable": true,
-    "type": "single",
-    "question": "During sport, dogs have 9 votes and cats have 11. Which has more?",
-    "audioPrompt": "During sport, dogs have 9 votes and cats have 11. Which has more?",
-    "visual": "During sport, dogs have 9 votes and cats have 11. Which has more?",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": "During sport, dogs have 9 votes and cats have 11. Which has more?"
-    },
-    "answers": [
-      "same",
-      "cats",
-      "dogs"
-    ],
-    "correct": 1,
-    "explanation": "Read the graph labels and count carefully.\nHint: Use the information in the question to check your answer.",
-    "structuredExplanation": {
-      "summary": "Read the graph labels and count carefully.",
-      "hint": "Use the information in the question to check your answer."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m2st02-p-031",
-    "curriculumCode": "AC9M2ST02",
-    "bank": "practice",
-    "skill": "at the class shop a picture",
-    "printable": true,
-    "type": "single",
-    "question": "At the class shop, a picture graph shows 10 stars for cats. How many votes is that?",
-    "audioPrompt": "At the class shop, a picture graph shows 10 stars for cats. How many votes is that?",
-    "visual": "At the class shop, a picture graph shows 10 stars for cats. How many votes is that?",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": "At the class shop, a picture graph shows 10 stars for cats. How many votes is that?"
-    },
-    "answers": [
-      "10",
-      "11",
-      "20"
-    ],
-    "correct": 0,
-    "explanation": "Read the graph labels and count carefully.\nHint: Use the information in the question to check your answer.",
-    "structuredExplanation": {
-      "summary": "Read the graph labels and count carefully.",
-      "hint": "Use the information in the question to check your answer."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m2st02-p-032",
-    "curriculumCode": "AC9M2ST02",
-    "bank": "practice",
-    "skill": "on the picnic rug which graph",
-    "printable": true,
-    "type": "single",
-    "question": "On the picnic rug, which graph needs labels?",
-    "audioPrompt": "On the picnic rug, which graph needs labels?",
-    "visual": "On the picnic rug, which graph needs labels?",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": "On the picnic rug, which graph needs labels?"
-    },
-    "answers": [
-      "labelled graph",
-      "clear title",
-      "unlabelled graph"
-    ],
-    "correct": 2,
-    "explanation": "Read the graph labels and count carefully.\nHint: Use the information in the question to check your answer.",
-    "structuredExplanation": {
-      "summary": "Read the graph labels and count carefully.",
-      "hint": "Use the information in the question to check your answer."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m2st02-p-033",
-    "curriculumCode": "AC9M2ST02",
-    "bank": "practice",
-    "skill": "at the block table dogs have",
-    "printable": true,
-    "type": "single",
-    "question": "At the block table, dogs have 12 votes and cats have 14. Which has more?",
-    "audioPrompt": "At the block table, dogs have 12 votes and cats have 14. Which has more?",
-    "visual": "At the block table, dogs have 12 votes and cats have 14. Which has more?",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": "At the block table, dogs have 12 votes and cats have 14. Which has more?"
-    },
-    "answers": [
-      "same",
-      "cats",
-      "dogs"
-    ],
-    "correct": 1,
-    "explanation": "Read the graph labels and count carefully.\nHint: Use the information in the question to check your answer.",
-    "structuredExplanation": {
-      "summary": "Read the graph labels and count carefully.",
-      "hint": "Use the information in the question to check your answer."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m2st02-p-034",
-    "curriculumCode": "AC9M2ST02",
-    "bank": "practice",
-    "skill": "in the lunch area a picture",
-    "printable": true,
-    "type": "single",
-    "question": "In the lunch area, a picture graph shows 4 stars for cats. How many votes is that?",
-    "audioPrompt": "In the lunch area, a picture graph shows 4 stars for cats. How many votes is that?",
-    "visual": "In the lunch area, a picture graph shows 4 stars for cats. How many votes is that?",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": "In the lunch area, a picture graph shows 4 stars for cats. How many votes is that?"
-    },
-    "answers": [
-      "4",
-      "5",
-      "8"
-    ],
-    "correct": 0,
-    "explanation": "Read the graph labels and count carefully.\nHint: Use the information in the question to check your answer.",
-    "structuredExplanation": {
-      "summary": "Read the graph labels and count carefully.",
-      "hint": "Use the information in the question to check your answer."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m2st02-p-035",
-    "curriculumCode": "AC9M2ST02",
-    "bank": "practice",
-    "skill": "at the science table which graph",
-    "printable": true,
-    "type": "single",
-    "question": "At the science table, which graph needs labels?",
-    "audioPrompt": "At the science table, which graph needs labels?",
-    "visual": "At the science table, which graph needs labels?",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": "At the science table, which graph needs labels?"
-    },
-    "answers": [
-      "labelled graph",
-      "clear title",
-      "unlabelled graph"
-    ],
-    "correct": 2,
-    "explanation": "Read the graph labels and count carefully.\nHint: Use the information in the question to check your answer.",
-    "structuredExplanation": {
-      "summary": "Read the graph labels and count carefully.",
-      "hint": "Use the information in the question to check your answer."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m2st02-p-036",
-    "curriculumCode": "AC9M2ST02",
-    "bank": "practice",
-    "skill": "during a card game dogs have",
-    "printable": true,
-    "type": "single",
-    "question": "During a card game, dogs have 6 votes and cats have 8. Which has more?",
-    "audioPrompt": "During a card game, dogs have 6 votes and cats have 8. Which has more?",
-    "visual": "During a card game, dogs have 6 votes and cats have 8. Which has more?",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": "During a card game, dogs have 6 votes and cats have 8. Which has more?"
-    },
-    "answers": [
-      "same",
-      "cats",
-      "dogs"
-    ],
-    "correct": 1,
-    "explanation": "Read the graph labels and count carefully.\nHint: Use the information in the question to check your answer.",
-    "structuredExplanation": {
-      "summary": "Read the graph labels and count carefully.",
-      "hint": "Use the information in the question to check your answer."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m2st02-p-037",
-    "curriculumCode": "AC9M2ST02",
-    "bank": "practice",
-    "skill": "at the school garden a picture",
-    "printable": true,
-    "type": "single",
-    "question": "At the school garden, a picture graph shows 7 stars for cats. How many votes is that?",
-    "audioPrompt": "At the school garden, a picture graph shows 7 stars for cats. How many votes is that?",
-    "visual": "At the school garden, a picture graph shows 7 stars for cats. How many votes is that?",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": "At the school garden, a picture graph shows 7 stars for cats. How many votes is that?"
-    },
-    "answers": [
-      "7",
-      "8",
-      "14"
-    ],
-    "correct": 0,
-    "explanation": "Read the graph labels and count carefully.\nHint: Use the information in the question to check your answer.",
-    "structuredExplanation": {
-      "summary": "Read the graph labels and count carefully.",
-      "hint": "Use the information in the question to check your answer."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m2st02-p-038",
-    "curriculumCode": "AC9M2ST02",
-    "bank": "practice",
-    "skill": "during maths groups which graph needs",
-    "printable": true,
-    "type": "single",
-    "question": "During maths groups, which graph needs labels?",
-    "audioPrompt": "During maths groups, which graph needs labels?",
-    "visual": "During maths groups, which graph needs labels?",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": "During maths groups, which graph needs labels?"
-    },
-    "answers": [
-      "labelled graph",
-      "clear title",
-      "unlabelled graph"
-    ],
-    "correct": 2,
-    "explanation": "Read the graph labels and count carefully.\nHint: Use the information in the question to check your answer.",
-    "structuredExplanation": {
-      "summary": "Read the graph labels and count carefully.",
-      "hint": "Use the information in the question to check your answer."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m2st02-p-039",
-    "curriculumCode": "AC9M2ST02",
-    "bank": "practice",
-    "skill": "at the art table dogs have",
-    "printable": true,
-    "type": "single",
-    "question": "At the art table, dogs have 9 votes and cats have 11. Which has more?",
-    "audioPrompt": "At the art table, dogs have 9 votes and cats have 11. Which has more?",
-    "visual": "At the art table, dogs have 9 votes and cats have 11. Which has more?",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": "At the art table, dogs have 9 votes and cats have 11. Which has more?"
-    },
-    "answers": [
-      "same",
-      "cats",
-      "dogs"
-    ],
-    "correct": 1,
-    "explanation": "Read the graph labels and count carefully.\nHint: Use the information in the question to check your answer.",
-    "structuredExplanation": {
-      "summary": "Read the graph labels and count carefully.",
-      "hint": "Use the information in the question to check your answer."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m2st02-p-040",
-    "curriculumCode": "AC9M2ST02",
-    "bank": "practice",
-    "skill": "in the playground a picture graph",
-    "printable": true,
-    "type": "single",
-    "question": "In the playground, a picture graph shows 10 stars for cats. How many votes is that?",
-    "audioPrompt": "In the playground, a picture graph shows 10 stars for cats. How many votes is that?",
-    "visual": "In the playground, a picture graph shows 10 stars for cats. How many votes is that?",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": "In the playground, a picture graph shows 10 stars for cats. How many votes is that?"
-    },
-    "answers": [
-      "10",
-      "11",
-      "20"
-    ],
-    "correct": 0,
-    "explanation": "Read the graph labels and count carefully.\nHint: Use the information in the question to check your answer.",
-    "structuredExplanation": {
-      "summary": "Read the graph labels and count carefully.",
-      "hint": "Use the information in the question to check your answer."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m2st02-p-041",
-    "curriculumCode": "AC9M2ST02",
-    "bank": "practice",
-    "skill": "at the library which graph needs",
-    "printable": true,
-    "type": "single",
-    "question": "At the library, which graph needs labels?",
-    "audioPrompt": "At the library, which graph needs labels?",
-    "visual": "At the library, which graph needs labels?",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": "At the library, which graph needs labels?"
-    },
-    "answers": [
-      "labelled graph",
-      "clear title",
-      "unlabelled graph"
-    ],
-    "correct": 2,
-    "explanation": "Read the graph labels and count carefully.\nHint: Use the information in the question to check your answer.",
-    "structuredExplanation": {
-      "summary": "Read the graph labels and count carefully.",
-      "hint": "Use the information in the question to check your answer."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m2st02-p-042",
-    "curriculumCode": "AC9M2ST02",
-    "bank": "practice",
-    "skill": "during sport dogs have 12 votes",
-    "printable": true,
-    "type": "single",
-    "question": "During sport, dogs have 12 votes and cats have 14. Which has more?",
-    "audioPrompt": "During sport, dogs have 12 votes and cats have 14. Which has more?",
-    "visual": "During sport, dogs have 12 votes and cats have 14. Which has more?",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": "During sport, dogs have 12 votes and cats have 14. Which has more?"
-    },
-    "answers": [
-      "same",
-      "cats",
-      "dogs"
-    ],
-    "correct": 1,
-    "explanation": "Read the graph labels and count carefully.\nHint: Use the information in the question to check your answer.",
-    "structuredExplanation": {
-      "summary": "Read the graph labels and count carefully.",
-      "hint": "Use the information in the question to check your answer."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m2st02-p-043",
-    "curriculumCode": "AC9M2ST02",
-    "bank": "practice",
-    "skill": "at the class shop a picture",
-    "printable": true,
-    "type": "single",
-    "question": "At the class shop, a picture graph shows 4 stars for cats. How many votes is that?",
-    "audioPrompt": "At the class shop, a picture graph shows 4 stars for cats. How many votes is that?",
-    "visual": "At the class shop, a picture graph shows 4 stars for cats. How many votes is that?",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": "At the class shop, a picture graph shows 4 stars for cats. How many votes is that?"
-    },
-    "answers": [
-      "4",
-      "5",
-      "8"
-    ],
-    "correct": 0,
-    "explanation": "Read the graph labels and count carefully.\nHint: Use the information in the question to check your answer.",
-    "structuredExplanation": {
-      "summary": "Read the graph labels and count carefully.",
-      "hint": "Use the information in the question to check your answer."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m2st02-p-044",
-    "curriculumCode": "AC9M2ST02",
-    "bank": "practice",
-    "skill": "on the picnic rug which graph",
-    "printable": true,
-    "type": "single",
-    "question": "On the picnic rug, which graph needs labels?",
-    "audioPrompt": "On the picnic rug, which graph needs labels?",
-    "visual": "On the picnic rug, which graph needs labels?",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": "On the picnic rug, which graph needs labels?"
-    },
-    "answers": [
-      "labelled graph",
-      "clear title",
-      "unlabelled graph"
-    ],
-    "correct": 2,
-    "explanation": "Read the graph labels and count carefully.\nHint: Use the information in the question to check your answer.",
-    "structuredExplanation": {
-      "summary": "Read the graph labels and count carefully.",
-      "hint": "Use the information in the question to check your answer."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m2st02-p-045",
-    "curriculumCode": "AC9M2ST02",
-    "bank": "practice",
-    "skill": "at the block table dogs have",
-    "printable": true,
-    "type": "single",
-    "question": "At the block table, dogs have 6 votes and cats have 8. Which has more?",
-    "audioPrompt": "At the block table, dogs have 6 votes and cats have 8. Which has more?",
-    "visual": "At the block table, dogs have 6 votes and cats have 8. Which has more?",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": "At the block table, dogs have 6 votes and cats have 8. Which has more?"
-    },
-    "answers": [
-      "same",
-      "cats",
-      "dogs"
-    ],
-    "correct": 1,
-    "explanation": "Read the graph labels and count carefully.\nHint: Use the information in the question to check your answer.",
-    "structuredExplanation": {
-      "summary": "Read the graph labels and count carefully.",
-      "hint": "Use the information in the question to check your answer."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m2st02-p-046",
-    "curriculumCode": "AC9M2ST02",
-    "bank": "practice",
-    "skill": "in the lunch area a picture",
-    "printable": true,
-    "type": "single",
-    "question": "In the lunch area, a picture graph shows 7 stars for cats. How many votes is that?",
-    "audioPrompt": "In the lunch area, a picture graph shows 7 stars for cats. How many votes is that?",
-    "visual": "In the lunch area, a picture graph shows 7 stars for cats. How many votes is that?",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": "In the lunch area, a picture graph shows 7 stars for cats. How many votes is that?"
-    },
-    "answers": [
-      "7",
-      "8",
-      "14"
-    ],
-    "correct": 0,
-    "explanation": "Read the graph labels and count carefully.\nHint: Use the information in the question to check your answer.",
-    "structuredExplanation": {
-      "summary": "Read the graph labels and count carefully.",
-      "hint": "Use the information in the question to check your answer."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m2st02-p-047",
-    "curriculumCode": "AC9M2ST02",
-    "bank": "practice",
-    "skill": "at the science table which graph",
-    "printable": true,
-    "type": "single",
-    "question": "At the science table, which graph needs labels?",
-    "audioPrompt": "At the science table, which graph needs labels?",
-    "visual": "At the science table, which graph needs labels?",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": "At the science table, which graph needs labels?"
-    },
-    "answers": [
-      "labelled graph",
-      "clear title",
-      "unlabelled graph"
-    ],
-    "correct": 2,
-    "explanation": "Read the graph labels and count carefully.\nHint: Use the information in the question to check your answer.",
-    "structuredExplanation": {
-      "summary": "Read the graph labels and count carefully.",
-      "hint": "Use the information in the question to check your answer."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m2st02-p-048",
-    "curriculumCode": "AC9M2ST02",
-    "bank": "practice",
-    "skill": "during a card game dogs have",
-    "printable": true,
-    "type": "single",
-    "question": "During a card game, dogs have 9 votes and cats have 11. Which has more?",
-    "audioPrompt": "During a card game, dogs have 9 votes and cats have 11. Which has more?",
-    "visual": "During a card game, dogs have 9 votes and cats have 11. Which has more?",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": "During a card game, dogs have 9 votes and cats have 11. Which has more?"
-    },
-    "answers": [
-      "same",
-      "cats",
-      "dogs"
-    ],
-    "correct": 1,
-    "explanation": "Read the graph labels and count carefully.\nHint: Use the information in the question to check your answer.",
-    "structuredExplanation": {
-      "summary": "Read the graph labels and count carefully.",
-      "hint": "Use the information in the question to check your answer."
+      "summary": "Catch 3, Tag 6, Skip 2. For example, Tag has the most votes in both.",
+      "hint": "Check every converted count and a true shared fact."
     },
     "qualitySchema": "production-v1"
   }
