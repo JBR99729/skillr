@@ -1,12 +1,12 @@
 "use strict";
 
 /* =========================================================
-   SKILLRHUB WORKSHEET PDF - DIRECT PDF v16
+   SKILLRHUB WORKSHEET PDF - DIRECT PDF v18
    File path: /quiz/assets/worksheet-pdf.js
 
    IMPORTANT
    - Direct jsPDF drawing only. No html2canvas/html2pdf capture.
-   - Exactly one US Letter page.
+   - Uses as many US Letter pages as needed; never clips question text.
    - Creates a worksheet using the page's configured question count.
    - Future practice/exam pages can provide a dedicated worksheet bank.
    - Replaces the PDF button node during setup so stale listeners
@@ -14,7 +14,7 @@
    ========================================================= */
 
 (() => {
-  const VERSION = "17";
+  const VERSION = "18";
   const JSPDF_URL =
     "https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js";
 
@@ -44,7 +44,7 @@
   const NOTE_FILL = [246, 248, 255];
   const NOTE_BORDER = [205, 217, 246];
 
-  // Keep every minus/dash passed to jsPDF inside Helvetica's safe ASCII set.
+  // Normalise common punctuation and damaged encodings before printing.
   // The first two patterns also repair common UTF-8 mojibake forms of U+2212.
   const MOJIBAKE_MINUS = /\u00E2(?:\u02C6\u2019|\u0088\u0092)/g;
   const MINUS_OR_DASH = /[\u2010-\u2015\u2212\uFE58\uFE63\uFF0D]/g;
@@ -355,484 +355,198 @@
     return map;
   }
 
-  function drawWatermark(doc, pageW, pageH) {
+  let fontFilesPromise;
+  async function loadPrintFonts(doc) {
+    fontFilesPromise ||= Promise.all(["DejaVuSans.ttf", "DejaVuSans-Bold.ttf"].map(async (file) => {
+      const response = await fetch(`/quiz/assets/fonts/${file}`, { credentials: "same-origin" });
+      if (!response.ok) throw new Error("The worksheet font could not load. Please try again.");
+      const bytes = new Uint8Array(await response.arrayBuffer());
+      let binary = "";
+      for (let offset = 0; offset < bytes.length; offset += 8192) binary += String.fromCharCode(...bytes.subarray(offset, offset + 8192));
+      return { file, data: btoa(binary) };
+    })).catch((error) => { fontFilesPromise = null; throw error; });
+    const files = await fontFilesPromise;
+    files.forEach(({file, data}, index) => {
+      doc.addFileToVFS(file, data);
+      doc.addFont(file, "Worksheet", index ? "bold" : "normal");
+    });
+  }
+
+  // Resolve authored SVG symbols before rasterising: an SVG loaded as an image
+  // cannot reliably fetch a separate <use> file. Never print its alt text as a
+  // substitute: alt text may reveal the answer to a visual question.
+  const svgSources = new Map();
+  async function printableSvg(markup) {
+    const xml = new DOMParser().parseFromString(markup, "image/svg+xml");
+    const svg = xml.documentElement;
+    if (svg.localName !== "svg" || xml.querySelector("parsererror")) throw new Error("A worksheet diagram could not be read.");
+    svg.setAttribute("xmlns", "http://www.w3.org/2000/svg");
+    for (const use of [...svg.querySelectorAll("use")]) {
+      const href = use.getAttribute("href") || use.getAttribute("xlink:href") || "";
+      const split = href.lastIndexOf("#");
+      if (split < 0) throw new Error("A worksheet diagram reference is incomplete.");
+      const source = href.slice(0, split), id = href.slice(split + 1);
+      let owner = xml;
+      if (source) {
+        if (!svgSources.has(source)) svgSources.set(source, fetch(source, { credentials: "same-origin" }).then(async response => {
+          if (!response.ok) throw new Error("A worksheet diagram could not load. Please try again.");
+          return new DOMParser().parseFromString(await response.text(), "image/svg+xml");
+        }).catch(error => { svgSources.delete(source); throw error; }));
+        owner = await svgSources.get(source);
+      }
+      const symbol = owner.getElementById(id);
+      if (!symbol) throw new Error("A worksheet diagram is missing its labelled shape.");
+      const nested = xml.createElementNS("http://www.w3.org/2000/svg", "svg");
+      for (const attribute of ["x", "y", "width", "height", "transform"]) {
+        if (use.hasAttribute(attribute)) nested.setAttribute(attribute, use.getAttribute(attribute));
+      }
+      if (symbol.hasAttribute("viewBox")) nested.setAttribute("viewBox", symbol.getAttribute("viewBox"));
+      for (const child of [...symbol.childNodes]) nested.appendChild(xml.importNode(child, true));
+      use.replaceWith(nested);
+    }
+    const view = (svg.getAttribute("viewBox") || "0 0 640 300").split(/[ ,]+/).map(Number);
+    svg.setAttribute("width", String(view[2] || 640));
+    svg.setAttribute("height", String(view[3] || 300));
+    return new XMLSerializer().serializeToString(svg);
+  }
+
+  async function rasteriseSvg(markup) {
+    const svg = await printableSvg(markup);
+    const objectUrl = URL.createObjectURL(new Blob([svg], { type: "image/svg+xml;charset=utf-8" }));
     try {
-      doc.saveGraphicsState();
-      if (doc.GState && doc.setGState) {
-        doc.setGState(new doc.GState({ opacity: 0.045 }));
+      const picture = new Image();
+      await new Promise((resolve, reject) => { picture.onload = resolve; picture.onerror = () => reject(new Error("A worksheet diagram could not render.")); picture.src = objectUrl; });
+      const canvas = document.createElement("canvas");
+      const scale = Math.min(3, 1600 / Math.max(picture.naturalWidth, 1));
+      canvas.width = Math.ceil(picture.naturalWidth * scale);
+      canvas.height = Math.ceil(picture.naturalHeight * scale);
+      const context = canvas.getContext("2d");
+      context.fillStyle = "#ffffff"; context.fillRect(0, 0, canvas.width, canvas.height);
+      context.drawImage(picture, 0, 0, canvas.width, canvas.height);
+      return canvas.toDataURL("image/png");
+    } finally { URL.revokeObjectURL(objectUrl); }
+  }
+
+  async function loadQuestionVisuals(questions) {
+    const result = new Map();
+    await Promise.all(questions.map(async (question) => {
+      let data;
+      if (question.visualHtml && /^\s*<svg\b/.test(question.visualHtml)) data = await rasteriseSvg(question.visualHtml);
+      else if (question.image) {
+        if (/\.svg(?:[?#]|$)/i.test(question.image)) {
+          const response = await fetch(question.image, {credentials:"same-origin"});
+          if (!response.ok) throw new Error("A worksheet image could not load.");
+          data = await rasteriseSvg(await response.text());
+        } else data = await imageToDataUrl(question.image);
+        if (!data) throw new Error("A worksheet image could not load. Please try again.");
       }
-      doc.setFont("helvetica", "bold");
-      doc.setFontSize(44);
-      setText(doc, BLUE);
-      doc.text("SkillrHub.com", pageW / 2, pageH / 2 + 8, {
-        align: "center",
-        angle: 32
-      });
-      doc.restoreGraphicsState();
-    } catch {
-      // Watermark is decorative; never allow it to break the worksheet.
-    }
+      if (data) result.set(question, data);
+    }));
+    return result;
   }
 
-  function drawHeader(doc, pageW, margin, printableCount, logoDataUrl) {
-    const right = pageW - margin;
-    let brandX = margin;
-
-    if (logoDataUrl) {
-      try {
-        const props = doc.getImageProperties(logoDataUrl);
-        const logoSize = 12.5;
-        const scale = Math.min(logoSize / props.width, logoSize / props.height);
-        const width = props.width * scale;
-        const height = props.height * scale;
-        const format = String(props.fileType || "PNG").toUpperCase();
-
-        doc.addImage(
-          logoDataUrl,
-          format,
-          margin,
-          4.5,
-          width,
-          height,
-          undefined,
-          "FAST"
-        );
-        brandX = margin + width + 3.2;
-      } catch {
-        brandX = margin;
-      }
-    }
-
-    doc.setFont("helvetica", "bold");
-    doc.setFontSize(20);
-    setText(doc, BLUE);
-    doc.text(BRAND, brandX, 11.5);
-
-    doc.setFontSize(12.5);
-    setText(doc, TEXT);
-    const titleLines = wrap(doc, getTitle(), 120).slice(0, 2);
-    doc.text(titleLines, margin, 18.5);
-
-    doc.setFontSize(8.3);
-    setText(doc, MUTED);
-    doc.text(normaliseText(getEyebrow()).toUpperCase(), margin, 27.2);
-
-    doc.setFontSize(11.5);
-    setText(doc, BLUE);
-    doc.text(WEBSITE, right, 11.5, { align: "right" });
-
-    doc.setFont("helvetica", "normal");
-    doc.setFontSize(8.2);
-    setText(doc, MUTED);
-    doc.text(`${printableCount}-question printable worksheet`, right, 18.3, {
-      align: "right"
-    });
-
-    const skillCode = getSkillCode();
-
-    if (skillCode) {
-      doc.text(`Skill code: ${skillCode}`, right, 23.5, {
-        align: "right"
-      });
-    }
-
-    setDraw(doc, BLUE);
-    doc.setLineWidth(0.5);
-    doc.line(margin, 30.2, right, 30.2);
-
-    doc.setFont("helvetica", "bold");
-    doc.setFontSize(9.2);
-    setText(doc, TEXT);
-    doc.text("Name: __________________________", margin, 36.7);
-    doc.text("Date: ______________", right, 36.7, { align: "right" });
-
-    const noteY = 40.2;
-    const noteH = 18.2;
-    setFill(doc, NOTE_FILL);
-    setDraw(doc, NOTE_BORDER);
-    doc.setLineWidth(0.25);
-    doc.roundedRect(margin, noteY, pageW - 2 * margin, noteH, 1.7, 1.7, "FD");
-
-    doc.setFont("helvetica", "bold");
-    doc.setFontSize(8.6);
-    setText(doc, BLUE);
-    doc.text("For mastery", margin + 2.8, noteY + 4.4);
-
-    doc.setFont("helvetica", "normal");
-    doc.setFontSize(8.4);
-    setText(doc, TEXT);
-    const note =
-      `Use this printable sheet for independent classroom or home practice. It contains ${printableCount} paper-friendly questions from the same unit bank used in Practice and Test.`;
-    const noteLines = wrap(doc, note, pageW - 2 * margin - 5.6).slice(0, 3);
-    doc.text(noteLines, margin + 2.8, noteY + 8.8);
-
-    return noteY + noteH + 4.0;
-  }
-
-  function drawQuestionImage(doc, dataUrl, x, y, width, availableH) {
-    if (!dataUrl || availableH < 7) return y;
-
-    try {
-      const props = doc.getImageProperties(dataUrl);
-      const maxW = Math.min(width * 0.38, 42);
-      const maxH = Math.min(availableH, 16);
-      const scale = Math.min(maxW / props.width, maxH / props.height);
-      const w = props.width * scale;
-      const h = props.height * scale;
-      const format = String(props.fileType || "PNG").toUpperCase();
-      doc.addImage(
-        dataUrl,
-        format,
-        x + (width - w) / 2,
-        y,
-        w,
-        h,
-        undefined,
-        "FAST"
-      );
-      return y + h + 0.8;
-    } catch {
-      return y;
-    }
-  }
-
-  function drawVisual(doc, visual, x, y, width, availableH) {
-    if (!visual || availableH < 4) return y;
-
-    const lines = String(visual)
-      .split(/\n+/)
-      .map((line) => line.trim())
-      .filter(Boolean)
-      .slice(0, 3);
-
-    const lineH = 6.0;
-    const maxLines = Math.max(1, Math.floor(availableH / lineH));
-
-    lines.slice(0, maxLines).forEach((rawLine) => {
-      const dotMatches = rawLine.match(/[●•]/g);
-
-      if (dotMatches?.length) {
-        const label = normaliseText(rawLine.replace(/[●•]/g, "").replace(/\s+/g, " "));
-        doc.setFont("helvetica", "bold");
-        doc.setFontSize(11);
-        setText(doc, TEXT);
-
-        const labelW = label ? doc.getTextWidth(label) : 0;
-        const dotDiameter = 4.2;
-        const dotGap = 2.2;
-        const dotsW = dotMatches.length * dotDiameter +
-          Math.max(0, dotMatches.length - 1) * dotGap;
-        const gapAfterLabel = label ? 4 : 0;
-        const totalW = labelW + gapAfterLabel + dotsW;
-        let cursorX = x + (width - totalW) / 2;
-
-        if (label) {
-          doc.text(label, cursorX, y);
-          cursorX += labelW + gapAfterLabel;
-        }
-
-        setFill(doc, TEXT);
-        for (let i = 0; i < dotMatches.length; i += 1) {
-          doc.circle(cursorX + dotDiameter / 2, y - 1.3, dotDiameter / 2, "F");
-          cursorX += dotDiameter + dotGap;
-        }
-      } else {
-        doc.setFont("helvetica", "bold");
-        doc.setFontSize(16.5);
-        setText(doc, TEXT);
-        doc.text(normaliseText(rawLine), x + width / 2, y, { align: "center" });
-      }
-
-      y += lineH;
-    });
-
-    return y + 0.5;
-  }
-
-  function drawOptions(doc, question, x, y, width, availableH) {
+  function answerFor(question) {
     const type = question.type || "single";
-    const answers = (question.answers || []).map(optionText).filter(Boolean);
-    if (!answers.length) return y;
-
-    doc.setFont("helvetica", "normal");
-    doc.setFontSize(10.8);
-    setText(doc, TEXT);
-
-    const labels = answers.map((answer, i) =>
-      `${String.fromCharCode(65 + i)}. ${answer}`
-    );
-
-    // Pack options across rows, but never shrink the font to make them fit.
-    const rows = [];
-    let current = "";
-    labels.forEach((label) => {
-      const test = current ? `${current}     ${label}` : label;
-      if (!current || doc.getTextWidth(test) <= width) {
-        current = test;
-      } else {
-        rows.push(current);
-        current = label;
-      }
-    });
-    if (current) rows.push(current);
-
-    const lineH = 4.4;
-    const maxRows = Math.max(1, Math.floor(availableH / lineH));
-    rows.slice(0, maxRows).forEach((row) => {
-      doc.text(row, x, y);
-      y += lineH;
-    });
-
-    return y;
-  }
-
-  function drawAnswerLine(doc, x, y, width) {
-    setDraw(doc, MUTED);
-    doc.setLineWidth(0.28);
-    doc.line(x, y, x + width, y);
-    return y + 1.5;
-  }
-
-  function drawOrder(doc, question, x, y, width, availableH) {
-    const items = (question.items || []).map(itemText).filter(Boolean);
-    const text = items.join("  -  ");
-    const boxH = Math.min(8.5, Math.max(6.8, availableH - 3));
-
-    setFill(doc, [248, 250, 253]);
-    setDraw(doc, LINE);
-    doc.setLineWidth(0.25);
-    doc.roundedRect(x, y, width, boxH, 1.4, 1.4, "FD");
-
-    doc.setFont("helvetica", "normal");
-    doc.setFontSize(9.4);
-    setText(doc, TEXT);
-    const lines = wrap(doc, text, width - 4).slice(0, 2);
-    doc.text(lines, x + 2, y + 3.5);
-
-    return drawAnswerLine(doc, x, y + boxH + 1.5, width);
-  }
-
-  function drawFillBlank(doc, question, x, y, width) {
-    const template = normaliseText(question.template || "{{blank}}")
-      .replace(/\{\{blank\}\}/g, "____________");
-
-    doc.setFont("helvetica", "normal");
-    doc.setFontSize(10.2);
-    setText(doc, TEXT);
-    const lines = wrap(doc, template, width).slice(0, 2);
-    doc.text(lines, x, y);
-    return y + Math.max(1, lines.length) * 4.4;
-  }
-
-  function drawDragImage(doc, question, x, y, width, availableH) {
-    const categories = (question.categories || [])
-      .map((c) => normaliseText(c.label || c.id || ""))
-      .filter(Boolean)
-      .join(" / ");
-
-    if (categories) {
-      doc.setFont("helvetica", "bold");
-      doc.setFontSize(9);
-      setText(doc, MUTED);
-      doc.text(`Groups: ${categories}`, x, y);
-      y += 4.2;
+    const answers = question.answers || [];
+    const correct = question.correct;
+    const choice = index => Number.isInteger(index) && index >= 0 && index < answers.length ? `${String.fromCharCode(65 + index)}. ${optionText(answers[index])}` : "";
+    if (["single", "true-false"].includes(type)) return choice(correct);
+    if (type === "multiple" && Array.isArray(correct)) return correct.map(choice).filter(Boolean).join("; ");
+    if (type === "order" || type === "drag-drop") {
+      if (!Array.isArray(correct)) return "";
+      return correct.map(value => itemText((question.items || []).find(item => typeof item === "object" && item.id === value) || value)).join(" → ");
     }
-
-    doc.setFont("helvetica", "normal");
-    doc.setFontSize(9.5);
-    setText(doc, TEXT);
-    const labels = (question.items || [])
-      .map((item) => itemText(item))
-      .filter(Boolean)
-      .map((label) => `${label}: ______`)
-      .join("     ");
-
-    const lines = wrap(doc, labels, width).slice(
-      0,
-      Math.max(1, Math.floor(Math.max(4, availableH - 4) / 4.2))
-    );
-    doc.text(lines, x, y);
-    return y + lines.length * 4.2;
-  }
-
-  function drawQuestion(doc, question, index, x, top, width, blockH, imageMap) {
-    const numberW = 7.5;
-    const bodyX = x + numberW;
-    const bodyW = width - numberW;
-    const bottom = top + blockH - 1.2;
-
-    doc.setFont("helvetica", "bold");
-    doc.setFontSize(12.2);
-    setText(doc, TEXT);
-    doc.text(`${index + 1}.`, x, top + 4.4);
-
-    const qLines = wrap(doc, question.question || "", bodyW).slice(0, 2);
-    doc.text(qLines, bodyX, top + 4.4);
-
-    let y = top + 4.4 + Math.max(1, qLines.length) * 4.8 + 0.6;
-    let remaining = Math.max(3, bottom - y);
-
-    if (question.image && imageMap.get(question.image) && remaining > 7) {
-      y = drawQuestionImage(
-        doc,
-        imageMap.get(question.image),
-        bodyX,
-        y,
-        bodyW,
-        Math.min(remaining, 16)
-      );
-      remaining = Math.max(3, bottom - y);
+    if (type === "drag-image") {
+      if (!correct || Array.isArray(correct) || typeof correct !== "object") return "";
+      return (question.items || []).map(item => {
+        const category = (question.categories || []).find(group => group.id === correct[item.id]);
+        return category ? `${itemText(item)}: ${optionText(category)}` : "";
+      }).filter(Boolean).join("; ");
     }
-
-    if (question.visual && remaining > 4) {
-      y = drawVisual(
-        doc,
-        question.visual,
-        bodyX,
-        y,
-        bodyW,
-        Math.min(remaining, 12)
-      );
-      remaining = Math.max(3, bottom - y);
-    }
-
-    const type = question.type || "single";
-
-    if (type === "single" || type === "true-false" || type === "multiple") {
-      if (type === "multiple") {
-        doc.setFont("helvetica", "bold");
-        doc.setFontSize(8.8);
-        setText(doc, MUTED);
-        doc.text("Select all correct answers.", bodyX, y);
-        y += 3.8;
-      }
-
-      drawOptions(doc, question, bodyX, y, bodyW, remaining);
-    } else if (type === "fill-blank") {
-      drawFillBlank(doc, question, bodyX, y, bodyW);
-    } else if (type === "order" || type === "drag-drop") {
-      drawOrder(doc, question, bodyX, y, bodyW, remaining);
-    } else if (type === "drag-image") {
-      drawDragImage(doc, question, bodyX, y, bodyW, remaining);
-    } else {
-      doc.setFont("helvetica", "normal");
-      doc.setFontSize(10.5);
-      setText(doc, TEXT);
-      doc.text("Answer:", bodyX, y + 1.5);
-      drawAnswerLine(
-        doc,
-        bodyX + 15,
-        Math.min(bottom - 1.5, y + 1.5),
-        Math.max(35, bodyW * 0.6)
-      );
-    }
-
-    setDraw(doc, LINE);
-    doc.setLineWidth(0.2);
-    doc.line(x, top + blockH, x + width, top + blockH);
-  }
-
-  function drawFooter(doc, pageW, pageH, margin) {
-    const y = pageH - 8;
-    setDraw(doc, LINE);
-    doc.setLineWidth(0.25);
-    doc.line(margin, y - 5, pageW - margin, y - 5);
-
-    doc.setFont("helvetica", "bold");
-    doc.setFontSize(8.2);
-    setText(doc, MUTED);
-    doc.text(`${BRAND} - Free learning resources`, margin, y);
-
-    doc.setFontSize(10.2);
-    setText(doc, BLUE);
-    doc.text(WEBSITE, pageW / 2, y, { align: "center" });
-
-    doc.setFontSize(8.2);
-    setText(doc, MUTED);
-    doc.text("Page 1 of 1", pageW - margin, y, { align: "right" });
+    if (question.modelAnswer) return normaliseText(question.modelAnswer);
+    if (Array.isArray(question.acceptedAnswers)) return question.acceptedAnswers.map(normaliseText).join(" / ");
+    return (typeof correct === "string" || typeof correct === "number") ? normaliseText(correct) : "";
   }
 
   async function createPdf(questions) {
     const JsPDF = await loadJsPdf();
-    const doc = new JsPDF({
-      orientation: "portrait",
-      unit: "mm",
-      format: "letter",
-      compress: true,
-      putOnlyUsedFonts: true
-    });
-
-    // Metadata makes it easy to confirm that the direct generator is active.
-    try {
-      doc.setProperties({
-        title: `${getTitle()} - Worksheet`,
-        subject: `SkillrHub direct worksheet PDF v${VERSION}`,
-        author: BRAND,
-        creator: `SkillrHub worksheet-pdf.js v${VERSION}`
-      });
-    } catch {}
-
-    const pageW = doc.internal.pageSize.getWidth();
-    const pageH = doc.internal.pageSize.getHeight();
-    const margin = 10;
-
-    drawWatermark(doc, pageW, pageH);
-
-    const [imageMap, logoDataUrl] = await Promise.all([
-      preloadImages(questions),
-      imageToDataUrl("/icons/icon-512.png")
-        .then((dataUrl) => dataUrl || imageToDataUrl("/icons/apple-touch-icon.png")),
-    ]);
-    const contentTop = drawHeader(
-      doc,
-      pageW,
-      margin,
-      questions.length,
-      logoDataUrl
-    );
-    const scoreY = pageH - 22.5;
-    const contentBottom = scoreY - 5;
-    const contentWidth = pageW - 2 * margin;
-    const available = contentBottom - contentTop;
-
-    // Equal-height rows use the entire printable area. This prevents the
-    // "small text with a quarter page empty" problem.
-    const blockH = available / questions.length;
-
+    const doc = new JsPDF({ orientation:"portrait", unit:"mm", format:"letter", compress:true, putOnlyUsedFonts:true });
+    await loadPrintFonts(doc);
+    const images = await loadQuestionVisuals(questions);
+    doc.setProperties({ title:`${getTitle()} - Worksheet and answer guide`, subject:`SkillrHub direct worksheet PDF v${VERSION}`, author:BRAND, creator:`SkillrHub worksheet-pdf.js v${VERSION}` });
+    const pageW = doc.internal.pageSize.getWidth(), pageH = doc.internal.pageSize.getHeight();
+    const margin = 15, width = pageW - margin * 2, bottom = pageH - 20;
+    let y = 20, section = "Worksheet", activeQuestion = "";
+    const font = (size = 12, bold = false, color = TEXT) => { doc.setFont("Worksheet", bold ? "bold" : "normal"); doc.setFontSize(size); setText(doc, color); };
+    function newPage() {
+      doc.addPage(); y = 17;
+      font(9, true, BLUE); doc.text(`${BRAND} · ${getSkillCode()} · ${section}${activeQuestion ? " · " + activeQuestion + " continued" : ""}`, margin, y);
+      setDraw(doc, LINE); doc.line(margin, y + 3, pageW - margin, y + 3); y += 12;
+    }
+    function ensure(height) { if (y + height > bottom) newPage(); }
+    function paragraph(text, {size=12, bold=false, indent=0, after=3, color=TEXT} = {}) {
+      font(size, bold, color);
+      const lines = wrap(doc, text, width - indent), lineHeight = size * 0.3528 * 1.4;
+      for (const line of lines) { ensure(lineHeight); font(size, bold, color); doc.text(line, margin + indent, y); y += lineHeight; }
+      y += after;
+    }
+    function writingLines(count = 2) {
+      for (let i = 0; i < count; i++) { ensure(9); setDraw(doc, LINE); doc.setLineWidth(0.2); doc.line(margin, y + 5, pageW - margin, y + 5); y += 9; }
+    }
+    paragraph(BRAND, {size:22,bold:true,color:BLUE});
+    paragraph(getTitle(), {size:16,bold:true});
+    paragraph(`${getEyebrow()} · ${getSkillCode()}`, {size:10,color:MUTED});
+    paragraph("Name: __________________________   Date: ______________", {size:11,after:5});
+    paragraph(`Complete ${questions.length} questions. Show working or explain your choice where useful. Try the questions before using the separate answer guide.`, {size:10,after:7});
     questions.forEach((question, index) => {
-      drawQuestion(
-        doc,
-        question,
-        index,
-        margin,
-        contentTop + index * blockH,
-        contentWidth,
-        blockH,
-        imageMap
-      );
+      activeQuestion = "";
+      const stem = `${index + 1}. ${question.question || ""}`;
+      font(12,true);
+      const stemHeight = wrap(doc,stem,width).length * 5.93;
+      ensure(Math.min(stemHeight + (images.has(question) ? 60 : 28), bottom - 35));
+      activeQuestion = `Question ${index + 1}`;
+      paragraph(stem, {bold:true});
+      const picture = images.get(question);
+      if (picture) {
+        const props = doc.getImageProperties(picture);
+        const scale = Math.min(width / props.width, 75 / props.height);
+        const imageW = props.width * scale, imageH = props.height * scale;
+        ensure(imageH + 5); doc.addImage(picture, props.fileType || "PNG", margin + (width-imageW)/2, y, imageW, imageH); y += imageH + 5;
+      } else if (question.visual && normaliseText(question.visual) !== normaliseText(question.question)) {
+        paragraph(question.visual, {size:12,indent:4});
+      }
+      const type = question.type || "single";
+      if (["single","true-false","multiple"].includes(type)) {
+        if (type === "multiple") paragraph("Select all correct answers.", {size:10,bold:true});
+        (question.answers || []).forEach((answer, option) => paragraph(`${String.fromCharCode(65+option)}. ${optionText(answer)}`, {indent:5,after:1}));
+        writingLines(1);
+      } else if (type === "fill-blank") {
+        paragraph((question.template || "{{blank}}").replace(/\{\{blank\}\}/g,"____________")); writingLines(1);
+      } else if (type === "order" || type === "drag-drop") {
+        paragraph("Put these in order: " + (question.items || []).map(itemText).join(" · ")); writingLines(2);
+      } else if (type === "drag-image") {
+        paragraph("Groups: " + (question.categories || []).map(optionText).join(" / "));
+        (question.items || []).forEach(item => paragraph(`${itemText(item)}: ____________________`));
+      } else writingLines(type === "self-check" ? 4 : 2);
+      y += 7;
     });
-
-    doc.setFont("helvetica", "bold");
-    doc.setFontSize(10.5);
-    setText(doc, TEXT);
-    doc.text(`Score: ______ / ${questions.length}`, margin, scoreY);
-
-    doc.setFont("helvetica", "normal");
-    doc.setFontSize(8.2);
-    setText(doc, MUTED);
-    doc.text(
-      "Interactive questions from this set are completed online at www.skillrhub.com.",
-      margin,
-      scoreY + 5.2
-    );
-
-    drawFooter(doc, pageW, pageH, margin);
-
-    const safeName = getTitle()
-      .replace(/[^a-z0-9]+/gi, "-")
-      .replace(/^-+|-+$/g, "")
-      .toLowerCase() || "skillrhub-worksheet";
-
+    activeQuestion = "";
+    section = "Answer guide"; newPage();
+    paragraph("Answer guide", {size:18,bold:true,color:BLUE});
+    paragraph("These answers match this worksheet's question order. Use an error to choose what to practise next.", {size:10,after:6});
+    questions.forEach((question, index) => {
+      activeQuestion = ""; ensure(26); activeQuestion = `Answer ${index + 1}`;
+      const answer = answerFor(question);
+      paragraph(`${index + 1}. ${answer || "Check this response with your teacher; no answer is supplied in this question bank."}`, {bold:true});
+      const explanation = question.explanation || question.structuredExplanation?.summary;
+      if (explanation && normaliseText(explanation) !== normaliseText(answer)) paragraph(explanation, {size:11,after:6});
+    });
+    const pages = doc.getNumberOfPages();
+    for (let page = 1; page <= pages; page++) {
+      doc.setPage(page); setDraw(doc, LINE); doc.line(margin, pageH-15, pageW-margin, pageH-15);
+      font(9,false,MUTED); doc.text(WEBSITE, margin, pageH-9); doc.text(`Page ${page} of ${pages}`, pageW-margin, pageH-9, {align:"right"});
+    }
+    const safeName = getTitle().replace(/[^a-z0-9]+/gi,"-").replace(/^-+|-+$/g,"").toLowerCase() || "skillrhub-worksheet";
     doc.save(`${safeName}-worksheet.pdf`);
   }
 
@@ -856,7 +570,7 @@
       await createPdf(questions);
     } catch (error) {
       console.error(`SkillrHub direct PDF v${VERSION} failed:`, error);
-      alert("The PDF could not be created. Please refresh the page and try again.");
+      alert(error?.message || "The PDF could not be created. Please refresh the page and try again.");
     } finally {
       if (button) {
         button.disabled = false;
