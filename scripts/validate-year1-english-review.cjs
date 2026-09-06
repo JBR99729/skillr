@@ -23,6 +23,7 @@ let rendered = 0, visualCount = 0;
   for(const mode of ['practice','test']) {
    const route=`quiz/year-1/english/${code}/${mode}/`;
    const html=read(route+'index.html');
+   assert(!/40-question practice bank|40 progressive curriculum-aligned/.test(html),'Stale bank count');
    const cfg=JSON.parse(html.match(/window.quizConfig=(\{.*?\});/s)[1]);
    const source=canonical.filter(q=>q.bank===mode);
    assert.equal(source.length,mode==='practice'?24:16);
