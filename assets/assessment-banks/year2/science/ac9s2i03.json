@@ -6,24 +6,21 @@
     "skill": "observing, measuring and recording",
     "printable": true,
     "type": "single",
-    "question": "Which sentence records what a child can see?",
-    "audioPrompt": "Which sentence records what a child can see?",
+    "question": "A child sees two holes in a leaf. Which note records the observation?",
+    "audioPrompt": "A child sees two holes in a leaf. Which note records the observation?",
     "visual": "",
     "answers": [
-      "The leaf has five holes",
-      "The leaf is worried",
-      "The leaf will grow because I hope so"
+      "The leaf has two holes.",
+      "An insect definitely made the holes.",
+      "The leaf is the best one in the garden."
     ],
     "correct": 0,
-    "explanation": "Colour, shape and number are directly observable.",
+    "explanation": "The number of visible holes is an observation; their cause would need more evidence.",
     "structuredExplanation": {
-      "summary": "Colour, shape and number are directly observable."
+      "summary": "The number of visible holes is an observation; their cause would need more evidence."
     },
-    "stage": "recognise",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
     "sequencePriority": 1,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
+    "qualitySchema": "skillr-reviewed-y2-science-v2"
   },
   {
     "id": "ac9s2i03-p-002",
@@ -32,24 +29,21 @@
     "skill": "observing, measuring and recording",
     "printable": true,
     "type": "single",
-    "question": "A shadow is 7 blocks long. What was used?",
-    "audioPrompt": "A shadow is 7 blocks long. What was used?",
+    "question": "A shadow reaches across six equal blocks placed end to end. Which record is complete?",
+    "audioPrompt": "A shadow reaches across six equal blocks placed end to end. Which record is complete?",
     "visual": "",
     "answers": [
-      "a temperature scale",
-      "an informal measurement",
-      "a prediction only"
+      "Shadow length: 6 blocks.",
+      "Shadow length: 6.",
+      "Shadow length: very good."
     ],
-    "correct": 1,
-    "explanation": "Equal blocks can compare length without standard units.",
+    "correct": 0,
+    "explanation": "A useful measurement states both the number and the unit used.",
     "structuredExplanation": {
-      "summary": "Equal blocks can compare length without standard units."
+      "summary": "A useful measurement states both the number and the unit used."
     },
-    "stage": "recognise",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
     "sequencePriority": 2,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
+    "qualitySchema": "skillr-reviewed-y2-science-v2"
   },
   {
     "id": "ac9s2i03-p-003",
@@ -58,24 +52,21 @@
     "skill": "observing, measuring and recording",
     "printable": true,
     "type": "single",
-    "question": "Which record gives useful evidence about seedlings?",
-    "audioPrompt": "Which record gives useful evidence about seedlings?",
+    "question": "How should equal cubes be placed to measure a small clay rope's length?",
+    "audioPrompt": "How should equal cubes be placed to measure a small clay rope's length?",
     "visual": "",
     "answers": [
-      "green is my favourite",
-      "plants are always happy",
-      "4 of 6 seedlings have two leaves"
+      "in a pile beside the rope",
+      "end to end from one end of the rope, with no gaps",
+      "with large spaces between them"
     ],
-    "correct": 2,
-    "explanation": "Counts make an observation precise.",
+    "correct": 1,
+    "explanation": "Units should cover the length continuously so the count represents the length.",
     "structuredExplanation": {
-      "summary": "Counts make an observation precise."
+      "summary": "Units should cover the length continuously so the count represents the length."
     },
-    "stage": "recognise",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
     "sequencePriority": 3,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
+    "qualitySchema": "skillr-reviewed-y2-science-v2"
   },
   {
     "id": "ac9s2i03-p-004",
@@ -84,24 +75,21 @@
     "skill": "observing, measuring and recording",
     "printable": true,
     "type": "single",
-    "question": "What makes a science drawing useful?",
-    "audioPrompt": "What makes a science drawing useful?",
+    "question": "A child uses some small and some large blocks to measure two strips. What would improve the measurements?",
+    "audioPrompt": "A child uses some small and some large blocks to measure two strips. What would improve the measurements?",
     "visual": "",
     "answers": [
-      "no date or title is used",
-      "decorations cover the object",
-      "labels point to observed features"
+      "Choose a different block size for every count.",
+      "Use the same-sized blocks for both strips.",
+      "Leave out the unit names."
     ],
-    "correct": 2,
-    "explanation": "Labels connect words to visible evidence.",
+    "correct": 1,
+    "explanation": "Consistent units allow the recorded lengths to be compared meaningfully.",
     "structuredExplanation": {
-      "summary": "Labels connect words to visible evidence."
+      "summary": "Consistent units allow the recorded lengths to be compared meaningfully."
     },
-    "stage": "recognise",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
     "sequencePriority": 4,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
+    "qualitySchema": "skillr-reviewed-y2-science-v2"
   },
   {
     "id": "ac9s2i03-p-005",
@@ -110,24 +98,21 @@
     "skill": "observing, measuring and recording",
     "printable": true,
     "type": "single",
-    "question": "Why add a date to a sky observation?",
-    "audioPrompt": "Why add a date to a sky observation?",
+    "question": "A drum makes a low, soft sound. Which note records both features?",
+    "audioPrompt": "A drum makes a low, soft sound. Which note records both features?",
     "visual": "",
     "answers": [
-      "to make the Moon move",
-      "to guarantee a pattern",
-      "to show when the observation was made"
+      "low and soft",
+      "high and loud",
+      "soft, so it must be high"
     ],
-    "correct": 2,
-    "explanation": "Dates allow observations over time to be ordered.",
+    "correct": 0,
+    "explanation": "Pitch and loudness are separate observed features; both can be recorded.",
     "structuredExplanation": {
-      "summary": "Dates allow observations over time to be ordered."
+      "summary": "Pitch and loudness are separate observed features; both can be recorded."
     },
-    "stage": "recognise",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
     "sequencePriority": 5,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
+    "qualitySchema": "skillr-reviewed-y2-science-v2"
   },
   {
     "id": "ac9s2i03-p-006",
@@ -136,24 +121,21 @@
     "skill": "observing, measuring and recording",
     "printable": true,
     "type": "single",
-    "question": "Why observe a shadow from the same marked place?",
-    "audioPrompt": "Why observe a shadow from the same marked place?",
+    "question": "A child wants to keep a record of a shaker's sound. Which tool is most suitable?",
+    "audioPrompt": "A child wants to keep a record of a shaker's sound. Which tool is most suitable?",
     "visual": "",
     "answers": [
-      "all results become equal",
-      "the shadow becomes fixed",
-      "comparisons are clearer"
+      "a still camera alone",
+      "a torch",
+      "an audio recorder"
     ],
     "correct": 2,
-    "explanation": "A consistent viewpoint reduces confusing differences.",
+    "explanation": "An audio recording preserves a sound for listening again.",
     "structuredExplanation": {
-      "summary": "A consistent viewpoint reduces confusing differences."
+      "summary": "An audio recording preserves a sound for listening again."
     },
-    "stage": "recognise",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
     "sequencePriority": 6,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
+    "qualitySchema": "skillr-reviewed-y2-science-v2"
   },
   {
     "id": "ac9s2i03-p-007",
@@ -162,24 +144,21 @@
     "skill": "observing, measuring and recording",
     "printable": true,
     "type": "single",
-    "question": "Which tool records temperature?",
-    "audioPrompt": "Which tool records temperature?",
+    "question": "A band changes shape quickly when released. Which tool could record its movement for replay?",
+    "audioPrompt": "A band changes shape quickly when released. Which tool could record its movement for replay?",
     "visual": "",
     "answers": [
-      "a thermometer",
-      "a paintbrush",
-      "a sound recorder"
+      "a still photograph of the band before release",
+      "a video camera",
+      "a list of band colours"
     ],
-    "correct": 0,
-    "explanation": "A thermometer measures temperature.",
+    "correct": 1,
+    "explanation": "Video records movement over time and can be replayed.",
     "structuredExplanation": {
-      "summary": "A thermometer measures temperature."
+      "summary": "Video records movement over time and can be replayed."
     },
-    "stage": "recognise",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
     "sequencePriority": 7,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
+    "qualitySchema": "skillr-reviewed-y2-science-v2"
   },
   {
     "id": "ac9s2i03-p-008",
@@ -188,24 +167,21 @@
     "skill": "observing, measuring and recording",
     "printable": true,
     "type": "single",
-    "question": "When is a photograph useful in science?",
-    "audioPrompt": "When is a photograph useful in science?",
+    "question": "A child draws a seedling on Monday and Friday. What labels make the records more useful?",
+    "audioPrompt": "A child draws a seedling on Monday and Friday. What labels make the records more useful?",
     "visual": "",
     "answers": [
-      "when it captures an observable change",
-      "when no label is needed",
-      "when it replaces every measurement"
+      "only the artist's favourite colour",
+      "the date and plant name on each drawing",
+      "the same made-up height on both drawings"
     ],
-    "correct": 0,
-    "explanation": "A photo preserves visible evidence for comparison.",
+    "correct": 1,
+    "explanation": "Dates and a plant identifier connect each observation to its time and subject.",
     "structuredExplanation": {
-      "summary": "A photo preserves visible evidence for comparison."
+      "summary": "Dates and a plant identifier connect each observation to its time and subject."
     },
-    "stage": "recognise",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
     "sequencePriority": 8,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
+    "qualitySchema": "skillr-reviewed-y2-science-v2"
   },
   {
     "id": "ac9s2i03-p-009",
@@ -214,24 +190,21 @@
     "skill": "observing, measuring and recording",
     "printable": true,
     "type": "single",
-    "question": "Which digital tool could record a sound for comparison?",
-    "audioPrompt": "Which digital tool could record a sound for comparison?",
+    "question": "A table has columns 'Material' and 'After twisting'. Cloth becomes twisted without tearing. Which entry belongs in the second column?",
+    "audioPrompt": "A table has columns 'Material' and 'After twisting'. Cloth becomes twisted without tearing. Which entry belongs in the second column?",
     "visual": "",
     "answers": [
-      "a microphone or tablet recorder",
-      "a cup",
-      "a ruler"
+      "cloth",
+      "tomorrow",
+      "twisted; no tear"
     ],
-    "correct": 0,
-    "explanation": "A recording lets sounds be replayed and compared.",
+    "correct": 2,
+    "explanation": "The second column needs the observed result, not the material name or a future time.",
     "structuredExplanation": {
-      "summary": "A recording lets sounds be replayed and compared."
+      "summary": "The second column needs the observed result, not the material name or a future time."
     },
-    "stage": "recognise",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
     "sequencePriority": 9,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
+    "qualitySchema": "skillr-reviewed-y2-science-v2"
   },
   {
     "id": "ac9s2i03-p-010",
@@ -240,24 +213,21 @@
     "skill": "observing, measuring and recording",
     "printable": true,
     "type": "single",
-    "question": "A plant is 6 cubes tall. Where should this go?",
-    "audioPrompt": "A plant is 6 cubes tall. Where should this go?",
+    "question": "A child measures a paper strip as five paperclips long, then writes '5 centimetres'. What should be corrected?",
+    "audioPrompt": "A child measures a paper strip as five paperclips long, then writes '5 centimetres'. What should be corrected?",
     "visual": "",
     "answers": [
-      "in a favourite-colour box",
-      "outside the data table",
-      "in the row for that plant and height column"
+      "Write '5 paperclips'.",
+      "Change the number to 50.",
+      "Leave it because all units mean the same thing."
     ],
-    "correct": 2,
-    "explanation": "The value belongs beside the item measured.",
+    "correct": 0,
+    "explanation": "The record must name the unit actually used.",
     "structuredExplanation": {
-      "summary": "The value belongs beside the item measured."
+      "summary": "The record must name the unit actually used."
     },
-    "stage": "recognise",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
     "sequencePriority": 10,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
+    "qualitySchema": "skillr-reviewed-y2-science-v2"
   },
   {
     "id": "ac9s2i03-p-011",
@@ -266,24 +236,21 @@
     "skill": "observing, measuring and recording",
     "printable": true,
     "type": "single",
-    "question": "Which note is an observation?",
-    "audioPrompt": "Which note is an observation?",
+    "question": "The sky is cloudy and the Moon cannot be seen during a planned observation. What should the child record?",
+    "audioPrompt": "The sky is cloudy and the Moon cannot be seen during a planned observation. What should the child record?",
     "visual": "",
     "answers": [
-      "The band moved back and forth",
-      "The band is the best",
-      "The band will always be loud"
+      "Moon count: zero everywhere.",
+      "A made-up Moon shape.",
+      "Cloudy; Moon not seen at this time."
     ],
-    "correct": 0,
-    "explanation": "Back-and-forth movement can be seen.",
+    "correct": 2,
+    "explanation": "An honest record includes what could and could not be observed.",
     "structuredExplanation": {
-      "summary": "Back-and-forth movement can be seen."
+      "summary": "An honest record includes what could and could not be observed."
     },
-    "stage": "recognise",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
     "sequencePriority": 11,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
+    "qualitySchema": "skillr-reviewed-y2-science-v2"
   },
   {
     "id": "ac9s2i03-p-012",
@@ -292,24 +259,21 @@
     "skill": "observing, measuring and recording",
     "printable": true,
     "type": "single",
-    "question": "A puddle is measured at 9 am and 11 am. What should be recorded?",
-    "audioPrompt": "A puddle is measured at 9 am and 11 am. What should be recorded?",
+    "question": "A photo shows a plant, but its label is outside the frame. Which addition helps identify the observation?",
+    "audioPrompt": "A photo shows a plant, but its label is outside the frame. Which addition helps identify the observation?",
     "visual": "",
     "answers": [
-      "its size at each time",
-      "only the expected answer",
-      "a changed first result"
+      "a decorative border only",
+      "a title saying 'Nice picture'",
+      "a caption naming the plant and date"
     ],
-    "correct": 0,
-    "explanation": "Two timed measurements show change.",
+    "correct": 2,
+    "explanation": "A caption identifies what was observed and when.",
     "structuredExplanation": {
-      "summary": "Two timed measurements show change."
+      "summary": "A caption identifies what was observed and when."
     },
-    "stage": "recognise",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
     "sequencePriority": 12,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
+    "qualitySchema": "skillr-reviewed-y2-science-v2"
   },
   {
     "id": "ac9s2i03-p-013",
@@ -318,24 +282,21 @@
     "skill": "observing, measuring and recording",
     "printable": true,
     "type": "single",
-    "question": "Which tool best records a slow plant change?",
-    "audioPrompt": "Which tool best records a slow plant change?",
+    "question": "A soft strip is four equal cubes long before pulling and six cubes long while gently pulled. Which record is accurate?",
+    "audioPrompt": "A soft strip is four equal cubes long before pulling and six cubes long while gently pulled. Which record is accurate?",
     "visual": "",
     "answers": [
-      "an alarm sound",
-      "dated photographs",
-      "a calculator with no data"
+      "before: 6 cubes; during pull: 4 cubes",
+      "before and during pull: 4 cubes",
+      "before: 4 cubes; during pull: 6 cubes"
     ],
-    "correct": 1,
-    "explanation": "Dated photos preserve visible stages.",
+    "correct": 2,
+    "explanation": "The record preserves each measurement beside the correct condition.",
     "structuredExplanation": {
-      "summary": "Dated photos preserve visible stages."
+      "summary": "The record preserves each measurement beside the correct condition."
     },
-    "stage": "recognise",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
     "sequencePriority": 13,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
+    "qualitySchema": "skillr-reviewed-y2-science-v2"
   },
   {
     "id": "ac9s2i03-p-014",
@@ -344,24 +305,21 @@
     "skill": "observing, measuring and recording",
     "printable": true,
     "type": "single",
-    "question": "Why write ‘8 blocks’ rather than only ‘8’?",
-    "audioPrompt": "Why write ‘8 blocks’ rather than only ‘8’?",
+    "question": "A child hears three short taps and one long scraping sound. Which note preserves the sequence?",
+    "audioPrompt": "A child hears three short taps and one long scraping sound. Which note preserves the sequence?",
     "visual": "",
     "answers": [
-      "the unit tells what the number means",
-      "units make every answer correct",
-      "8 is a colour"
+      "tap, tap, tap, long scrape",
+      "long scrape, tap, tap, tap",
+      "four identical taps"
     ],
     "correct": 0,
-    "explanation": "A measurement needs its unit.",
+    "explanation": "A sequence record should keep the sounds in the order actually heard.",
     "structuredExplanation": {
-      "summary": "A measurement needs its unit."
+      "summary": "A sequence record should keep the sounds in the order actually heard."
     },
-    "stage": "recognise",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
     "sequencePriority": 14,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
+    "qualitySchema": "skillr-reviewed-y2-science-v2"
   },
   {
     "id": "ac9s2i03-p-015",
@@ -370,24 +328,21 @@
     "skill": "observing, measuring and recording",
     "printable": true,
     "type": "single",
-    "question": "Which is a careful colour record?",
-    "audioPrompt": "Which is a careful colour record?",
+    "question": "A class observes a pole's shadow at 9 am and 1 pm. What should be written beside each drawing?",
+    "audioPrompt": "A class observes a pole's shadow at 9 am and 1 pm. What should be written beside each drawing?",
     "visual": "",
     "answers": [
-      "brown means stronger",
-      "Sample A is pale brown; Sample B is dark brown",
-      "one is better"
+      "a guessed time for tomorrow",
+      "only the pole's favourite name",
+      "the observation time"
     ],
-    "correct": 1,
-    "explanation": "The record describes visible colour without opinion.",
+    "correct": 2,
+    "explanation": "Time labels make it possible to identify and compare the observations later.",
     "structuredExplanation": {
-      "summary": "The record describes visible colour without opinion."
+      "summary": "Time labels make it possible to identify and compare the observations later."
     },
-    "stage": "recognise",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
     "sequencePriority": 15,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
+    "qualitySchema": "skillr-reviewed-y2-science-v2"
   },
   {
     "id": "ac9s2i03-p-016",
@@ -396,24 +351,21 @@
     "skill": "observing, measuring and recording",
     "printable": true,
     "type": "single",
-    "question": "Which note describes shape?",
-    "audioPrompt": "Which note describes shape?",
+    "question": "A child measures a path with steps. What must the record say so someone else knows the informal unit?",
+    "audioPrompt": "A child measures a path with steps. What must the record say so someone else knows the informal unit?",
     "visual": "",
     "answers": [
-      "the Moon must be near",
-      "the Moon looks curved like a crescent",
-      "the Moon feels happy"
+      "Path length: 12 metres.",
+      "Path length: 12 of my steps.",
+      "Path length: 12, with no other detail."
     ],
     "correct": 1,
-    "explanation": "Crescent describes an observed outline.",
+    "explanation": "Steps are informal units and should not be labelled as a formal unit that was not measured.",
     "structuredExplanation": {
-      "summary": "Crescent describes an observed outline."
+      "summary": "Steps are informal units and should not be labelled as a formal unit that was not measured."
     },
-    "stage": "recognise",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
     "sequencePriority": 16,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
+    "qualitySchema": "skillr-reviewed-y2-science-v2"
   },
   {
     "id": "ac9s2i03-p-017",
@@ -422,24 +374,21 @@
     "skill": "observing, measuring and recording",
     "printable": true,
     "type": "single",
-    "question": "How can approved fabric texture be recorded?",
-    "audioPrompt": "How can approved fabric texture be recorded?",
+    "question": "A photo makes a white cloud look purple because a colour filter was used. What should the child save as the observation record?",
+    "audioPrompt": "A photo makes a white cloud look purple because a colour filter was used. What should the child save as the observation record?",
     "visual": "",
     "answers": [
-      "good or bad",
-      "friendly or unfriendly",
-      "smooth, rough or bumpy"
+      "only the purple filtered version",
+      "a drawing copied from a different day's sky",
+      "the unfiltered photo showing the observed colour"
     ],
     "correct": 2,
-    "explanation": "Texture words describe a surface observation.",
+    "explanation": "Observation records should preserve the observed features rather than alter them for effect.",
     "structuredExplanation": {
-      "summary": "Texture words describe a surface observation."
+      "summary": "Observation records should preserve the observed features rather than alter them for effect."
     },
-    "stage": "apply",
-    "difficulty": 2,
-    "difficultyTier": "apply",
     "sequencePriority": 17,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
+    "qualitySchema": "skillr-reviewed-y2-science-v2"
   },
   {
     "id": "ac9s2i03-p-018",
@@ -448,24 +397,21 @@
     "skill": "observing, measuring and recording",
     "printable": true,
     "type": "single",
-    "question": "What record best shows folded paper changing?",
-    "audioPrompt": "What record best shows folded paper changing?",
+    "question": "A bending test produces a small crack in one card strip. Which drawing is most useful?",
+    "audioPrompt": "A bending test produces a small crack in one card strip. Which drawing is most useful?",
     "visual": "",
     "answers": [
-      "a favourite paper list",
-      "labelled before-and-after images",
-      "one picture after only"
+      "a drawing showing and labelling the crack",
+      "a perfect uncracked strip copied from the start",
+      "a decorated strip with the crack left out"
     ],
-    "correct": 1,
-    "explanation": "Two stages reveal what changed.",
+    "correct": 0,
+    "explanation": "A useful science drawing records relevant details, including unexpected changes.",
     "structuredExplanation": {
-      "summary": "Two stages reveal what changed."
+      "summary": "A useful science drawing records relevant details, including unexpected changes."
     },
-    "stage": "apply",
-    "difficulty": 2,
-    "difficultyTier": "apply",
     "sequencePriority": 18,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
+    "qualitySchema": "skillr-reviewed-y2-science-v2"
   },
   {
     "id": "ac9s2i03-p-019",
@@ -474,24 +420,21 @@
     "skill": "observing, measuring and recording",
     "printable": true,
     "type": "single",
-    "question": "What can zooming a photo help a child observe?",
-    "audioPrompt": "What can zooming a photo help a child observe?",
+    "question": "A cup takes four full scoops to fill using the same small scoop. Which note describes its capacity in the unit used?",
+    "audioPrompt": "A cup takes four full scoops to fill using the same small scoop. Which note describes its capacity in the unit used?",
     "visual": "",
     "answers": [
-      "future results",
-      "small visible surface details",
-      "a hidden answer"
+      "Capacity: 4 spoon lengths.",
+      "Capacity: 4 scoops.",
+      "Capacity: 4 drops."
     ],
     "correct": 1,
-    "explanation": "Zoom can enlarge recorded visible details.",
+    "explanation": "The number of equal scoops records the amount needed to fill the cup.",
     "structuredExplanation": {
-      "summary": "Zoom can enlarge recorded visible details."
+      "summary": "The number of equal scoops records the amount needed to fill the cup."
     },
-    "stage": "apply",
-    "difficulty": 2,
-    "difficultyTier": "apply",
     "sequencePriority": 19,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
+    "qualitySchema": "skillr-reviewed-y2-science-v2"
   },
   {
     "id": "ac9s2i03-p-020",
@@ -500,24 +443,21 @@
     "skill": "observing, measuring and recording",
     "printable": true,
     "type": "single",
-    "question": "Why might a child record a spoken observation?",
-    "audioPrompt": "Why might a child record a spoken observation?",
+    "question": "A child cannot tell whether a very faint sound has stopped. Which record is most honest?",
+    "audioPrompt": "A child cannot tell whether a very faint sound has stopped. Which record is most honest?",
     "visual": "",
     "answers": [
-      "to save details when writing is difficult",
-      "to change the sample",
-      "to avoid observing"
+      "Too faint to tell whether it continued.",
+      "It definitely continued for ten more minutes.",
+      "It stopped at the exact time I wanted."
     ],
     "correct": 0,
-    "explanation": "Digital audio can preserve a clear description.",
+    "explanation": "A record should include uncertainty instead of inventing a precise observation.",
     "structuredExplanation": {
-      "summary": "Digital audio can preserve a clear description."
+      "summary": "A record should include uncertainty instead of inventing a precise observation."
     },
-    "stage": "apply",
-    "difficulty": 2,
-    "difficultyTier": "apply",
     "sequencePriority": 20,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
+    "qualitySchema": "skillr-reviewed-y2-science-v2"
   },
   {
     "id": "ac9s2i03-p-021",
@@ -525,25 +465,21 @@
     "bank": "practice",
     "skill": "observing, measuring and recording",
     "printable": true,
-    "type": "single",
-    "question": "What should happen if a result differs from the prediction?",
-    "audioPrompt": "What should happen if a result differs from the prediction?",
+    "type": "self-check",
+    "question": "Look at a clean paper sheet. Fold it once and open it. Draw or describe two features you can observe after opening it. Keep observations separate from guesses.",
+    "audioPrompt": "Look at a clean paper sheet. Fold it once and open it. Draw or describe two features you can observe after opening it. Keep observations separate from guesses.",
     "visual": "",
-    "answers": [
-      "hide the result",
-      "record the result as observed",
-      "change it to match"
-    ],
-    "correct": 1,
-    "explanation": "Science records evidence honestly.",
+    "answers": [],
+    "correct": "Example: There is one crease across the sheet. The paper is still in one piece.",
+    "explanation": "Adult check: compare the response with the actual paper. Accept any two accurate observable features; do not require these example features if the child's sheet differs.",
     "structuredExplanation": {
-      "summary": "Science records evidence honestly."
+      "summary": "Adult check: compare the response with the actual paper. Accept any two accurate observable features; do not require these example features if the child's sheet differs."
     },
-    "stage": "apply",
-    "difficulty": 2,
-    "difficultyTier": "apply",
     "sequencePriority": 21,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
+    "qualitySchema": "skillr-reviewed-y2-science-v2",
+    "gradingMode": "adult-review",
+    "modelAnswer": "Example: There is one crease across the sheet. The paper is still in one piece.",
+    "acceptanceNote": "Adult check: compare the response with the actual paper. Accept any two accurate observable features; do not require these example features if the child's sheet differs."
   },
   {
     "id": "ac9s2i03-p-022",
@@ -551,25 +487,21 @@
     "bank": "practice",
     "skill": "observing, measuring and recording",
     "printable": true,
-    "type": "single",
-    "question": "Why use the same-sized cubes each time?",
-    "audioPrompt": "Why use the same-sized cubes each time?",
+    "type": "self-check",
+    "question": "Use equal blocks or paperclips to measure a small paper strip. Place the units end to end without gaps. Record the length and name the unit you used.",
+    "audioPrompt": "Use equal blocks or paperclips to measure a small paper strip. Place the units end to end without gaps. Record the length and name the unit you used.",
     "visual": "",
-    "answers": [
-      "different cubes always total the same",
-      "cube size is unimportant",
-      "lengths can be compared fairly"
-    ],
-    "correct": 2,
-    "explanation": "Equal informal units make measurements comparable.",
+    "answers": [],
+    "correct": "Answers vary. Example: The strip is 5 paperclips long, or about 5 and a half paperclips if an extra partial unit is visible.",
+    "explanation": "Adult check: watch the placement and counting. Accept an accurate whole-unit measurement or sensible approximate description of a partial unit. Require the unit name; there is no fixed numerical answer.",
     "structuredExplanation": {
-      "summary": "Equal informal units make measurements comparable."
+      "summary": "Adult check: watch the placement and counting. Accept an accurate whole-unit measurement or sensible approximate description of a partial unit. Require the unit name; there is no fixed numerical answer."
     },
-    "stage": "apply",
-    "difficulty": 2,
-    "difficultyTier": "apply",
     "sequencePriority": 22,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
+    "qualitySchema": "skillr-reviewed-y2-science-v2",
+    "gradingMode": "adult-review",
+    "modelAnswer": "Answers vary. Example: The strip is 5 paperclips long, or about 5 and a half paperclips if an extra partial unit is visible.",
+    "acceptanceNote": "Adult check: watch the placement and counting. Accept an accurate whole-unit measurement or sensible approximate description of a partial unit. Require the unit name; there is no fixed numerical answer."
   },
   {
     "id": "ac9s2i03-p-023",
@@ -577,25 +509,21 @@
     "bank": "practice",
     "skill": "observing, measuring and recording",
     "printable": true,
-    "type": "single",
-    "question": "Which note is most useful?",
-    "audioPrompt": "Which note is most useful?",
+    "type": "self-check",
+    "question": "Observe one safe, teacher-approved object before and after a gentle bend or squeeze. Complete this record: Object: __. Before: __. After: __.",
+    "audioPrompt": "Observe one safe, teacher-approved object before and after a gentle bend or squeeze. Complete this record: Object: __. Before: __. After: __.",
     "visual": "",
-    "answers": [
-      "ice is nice",
-      "The ice piece became half as wide after 10 minutes",
-      "I knew the answer"
-    ],
-    "correct": 1,
-    "explanation": "Specific time and size detail improve the record.",
+    "answers": [],
+    "correct": "Example: Object: sponge. Before: thick and rectangular. After a squeeze: thinner with dents where my fingers pressed.",
+    "explanation": "Adult check: require the object's identity and two accurate records linked to the correct stage. Use the actual object and observations when judging the response.",
     "structuredExplanation": {
-      "summary": "Specific time and size detail improve the record."
+      "summary": "Adult check: require the object's identity and two accurate records linked to the correct stage. Use the actual object and observations when judging the response."
     },
-    "stage": "apply",
-    "difficulty": 2,
-    "difficultyTier": "apply",
     "sequencePriority": 23,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
+    "qualitySchema": "skillr-reviewed-y2-science-v2",
+    "gradingMode": "adult-review",
+    "modelAnswer": "Example: Object: sponge. Before: thick and rectangular. After a squeeze: thinner with dents where my fingers pressed.",
+    "acceptanceNote": "Adult check: require the object's identity and two accurate records linked to the correct stage. Use the actual object and observations when judging the response."
   },
   {
     "id": "ac9s2i03-p-024",
@@ -603,649 +531,21 @@
     "bank": "practice",
     "skill": "observing, measuring and recording",
     "printable": true,
-    "type": "single",
-    "question": "Which sentence is an inference rather than direct observation?",
-    "audioPrompt": "Which sentence is an inference rather than direct observation?",
+    "type": "self-check",
+    "question": "With an adult, make a short audio recording of two gentle claps followed by one finger tap on a table. Label the recording with the date and the sounds. Play it back to check the record.",
+    "audioPrompt": "With an adult, make a short audio recording of two gentle claps followed by one finger tap on a table. Label the recording with the date and the sounds. Play it back to check the record.",
     "visual": "",
-    "answers": [
-      "There are three tracks",
-      "The ground is wet",
-      "The animal may have walked here"
-    ],
-    "correct": 2,
-    "explanation": "An inference explains evidence; it is not directly seen.",
+    "answers": [],
+    "correct": "The saved, labelled recording preserves clap, clap, tap in order, and the child checks it by replaying it.",
+    "explanation": "Adult check: require appropriate use of the audio tool, a useful label and a replay check. If no recorder is available, mark the digital-tool task not attempted rather than claiming a written substitute demonstrates recording.",
     "structuredExplanation": {
-      "summary": "An inference explains evidence; it is not directly seen."
+      "summary": "Adult check: require appropriate use of the audio tool, a useful label and a replay check. If no recorder is available, mark the digital-tool task not attempted rather than claiming a written substitute demonstrates recording."
     },
-    "stage": "apply",
-    "difficulty": 2,
-    "difficultyTier": "apply",
     "sequencePriority": 24,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
-  },
-  {
-    "id": "ac9s2i03-p-025",
-    "curriculumCode": "AC9S2I03",
-    "bank": "practice",
-    "skill": "observing, measuring and recording",
-    "printable": true,
-    "type": "single",
-    "question": "Why title a diagram?",
-    "audioPrompt": "Why title a diagram?",
-    "visual": "",
-    "answers": [
-      "to decorate the page only",
-      "to state what the record shows",
-      "to replace labels"
-    ],
-    "correct": 1,
-    "explanation": "A title identifies the observation or model.",
-    "structuredExplanation": {
-      "summary": "A title identifies the observation or model."
-    },
-    "stage": "apply",
-    "difficulty": 2,
-    "difficultyTier": "apply",
-    "sequencePriority": 25,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
-  },
-  {
-    "id": "ac9s2i03-p-026",
-    "curriculumCode": "AC9S2I03",
-    "bank": "practice",
-    "skill": "observing, measuring and recording",
-    "printable": true,
-    "type": "single",
-    "question": "What do headings do in a table?",
-    "audioPrompt": "What do headings do in a table?",
-    "visual": "",
-    "answers": [
-      "make every value identical",
-      "name what each column records",
-      "remove the need for data"
-    ],
-    "correct": 1,
-    "explanation": "Headings give values meaning.",
-    "structuredExplanation": {
-      "summary": "Headings give values meaning."
-    },
-    "stage": "apply",
-    "difficulty": 2,
-    "difficultyTier": "apply",
-    "sequencePriority": 26,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
-  },
-  {
-    "id": "ac9s2i03-p-027",
-    "curriculumCode": "AC9S2I03",
-    "bank": "practice",
-    "skill": "observing, measuring and recording",
-    "printable": true,
-    "type": "single",
-    "question": "How should a tablet be used near water samples?",
-    "audioPrompt": "How should a tablet be used near water samples?",
-    "visual": "",
-    "answers": [
-      "kept dry and handled using class rules",
-      "balanced on a cup",
-      "used with wet hands"
-    ],
-    "correct": 0,
-    "explanation": "Safe device handling protects people and equipment.",
-    "structuredExplanation": {
-      "summary": "Safe device handling protects people and equipment."
-    },
-    "stage": "apply",
-    "difficulty": 2,
-    "difficultyTier": "apply",
-    "sequencePriority": 27,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
-  },
-  {
-    "id": "ac9s2i03-p-028",
-    "curriculumCode": "AC9S2I03",
-    "bank": "practice",
-    "skill": "observing, measuring and recording",
-    "printable": true,
-    "type": "single",
-    "question": "A drawing is larger than the real seed. What should be clear?",
-    "audioPrompt": "A drawing is larger than the real seed. What should be clear?",
-    "visual": "",
-    "answers": [
-      "size never matters",
-      "it is an enlarged scientific drawing",
-      "the seed grew instantly"
-    ],
-    "correct": 1,
-    "explanation": "Scientific drawings may enlarge detail but should not mislead.",
-    "structuredExplanation": {
-      "summary": "Scientific drawings may enlarge detail but should not mislead."
-    },
-    "stage": "apply",
-    "difficulty": 2,
-    "difficultyTier": "apply",
-    "sequencePriority": 28,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
-  },
-  {
-    "id": "ac9s2i03-p-029",
-    "curriculumCode": "AC9S2I03",
-    "bank": "practice",
-    "skill": "observing, measuring and recording",
-    "printable": true,
-    "type": "single",
-    "question": "Which senses are normally safe for observing approved objects?",
-    "audioPrompt": "Which senses are normally safe for observing approved objects?",
-    "visual": "",
-    "answers": [
-      "taste every sample",
-      "sight, hearing and approved gentle touch",
-      "smell unknown substances closely"
-    ],
-    "correct": 1,
-    "explanation": "Senses are used only within safe procedures.",
-    "structuredExplanation": {
-      "summary": "Senses are used only within safe procedures."
-    },
-    "stage": "apply",
-    "difficulty": 2,
-    "difficultyTier": "apply",
-    "sequencePriority": 29,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
-  },
-  {
-    "id": "ac9s2i03-p-030",
-    "curriculumCode": "AC9S2I03",
-    "bank": "practice",
-    "skill": "observing, measuring and recording",
-    "printable": true,
-    "type": "single",
-    "question": "Two children record different lengths. What should they check?",
-    "audioPrompt": "Two children record different lengths. What should they check?",
-    "visual": "",
-    "answers": [
-      "whose answer is prettier",
-      "whether they used the same unit and start point",
-      "which child is older"
-    ],
-    "correct": 1,
-    "explanation": "Method differences can explain measurement differences.",
-    "structuredExplanation": {
-      "summary": "Method differences can explain measurement differences."
-    },
-    "stage": "apply",
-    "difficulty": 2,
-    "difficultyTier": "apply",
-    "sequencePriority": 30,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
-  },
-  {
-    "id": "ac9s2i03-p-031",
-    "curriculumCode": "AC9S2I03",
-    "bank": "practice",
-    "skill": "observing, measuring and recording",
-    "printable": true,
-    "type": "single",
-    "question": "Why record soon after observing?",
-    "audioPrompt": "Why record soon after observing?",
-    "visual": "",
-    "answers": [
-      "details are less likely to be forgotten",
-      "time makes all data equal",
-      "records are predictions"
-    ],
-    "correct": 0,
-    "explanation": "Prompt recording improves accuracy.",
-    "structuredExplanation": {
-      "summary": "Prompt recording improves accuracy."
-    },
-    "stage": "apply",
-    "difficulty": 2,
-    "difficultyTier": "apply",
-    "sequencePriority": 31,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
-  },
-  {
-    "id": "ac9s2i03-p-032",
-    "curriculumCode": "AC9S2I03",
-    "bank": "practice",
-    "skill": "observing, measuring and recording",
-    "printable": true,
-    "type": "single",
-    "question": "What is a scientific observation?",
-    "audioPrompt": "What is a scientific observation?",
-    "visual": "",
-    "answers": [
-      "a guess with no reason",
-      "information noticed and recorded using senses or tools",
-      "a favourite opinion"
-    ],
-    "correct": 1,
-    "explanation": "Observations describe evidence gathered safely.",
-    "structuredExplanation": {
-      "summary": "Observations describe evidence gathered safely."
-    },
-    "stage": "apply",
-    "difficulty": 2,
-    "difficultyTier": "apply",
-    "sequencePriority": 32,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
-  },
-  {
-    "id": "ac9s2i03-p-033",
-    "curriculumCode": "AC9S2I03",
-    "bank": "practice",
-    "skill": "observing, measuring and recording",
-    "printable": true,
-    "type": "single",
-    "question": "A leaf is 9 connecting cubes long. Which record is most useful?",
-    "audioPrompt": "A leaf is 9 connecting cubes long. Which record is most useful?",
-    "visual": "",
-    "answers": [
-      "The leaf is probably old",
-      "The leaf is nice",
-      "Leaf length: 9 cubes"
-    ],
-    "correct": 2,
-    "explanation": "A useful record states the observed feature and measurement.",
-    "structuredExplanation": {
-      "summary": "A useful record states the observed feature and measurement."
-    },
-    "stage": "reason",
-    "difficulty": 3,
-    "difficultyTier": "reason",
-    "sequencePriority": 33,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
-  },
-  {
-    "id": "ac9s2i03-p-034",
-    "curriculumCode": "AC9S2I03",
-    "bank": "practice",
-    "skill": "observing, measuring and recording",
-    "printable": true,
-    "type": "single",
-    "question": "Why add a date to repeated Moon drawings?",
-    "audioPrompt": "Why add a date to repeated Moon drawings?",
-    "visual": "",
-    "answers": [
-      "It shows when each observation was made",
-      "It changes the Moon shape",
-      "It makes the drawing larger"
-    ],
-    "correct": 0,
-    "explanation": "Dates help place observations in order over time.",
-    "structuredExplanation": {
-      "summary": "Dates help place observations in order over time."
-    },
-    "stage": "reason",
-    "difficulty": 3,
-    "difficultyTier": "reason",
-    "sequencePriority": 34,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
-  },
-  {
-    "id": "ac9s2i03-p-035",
-    "curriculumCode": "AC9S2I03",
-    "bank": "practice",
-    "skill": "observing, measuring and recording",
-    "printable": true,
-    "type": "single",
-    "question": "A child hears three loud taps and two soft taps. What could be recorded?",
-    "audioPrompt": "A child hears three loud taps and two soft taps. What could be recorded?",
-    "visual": "",
-    "answers": [
-      "The number and loudness of the taps heard",
-      "What the child hoped to hear",
-      "A result from tomorrow"
-    ],
-    "correct": 0,
-    "explanation": "Records should describe what was actually observed.",
-    "structuredExplanation": {
-      "summary": "Records should describe what was actually observed."
-    },
-    "stage": "reason",
-    "difficulty": 3,
-    "difficultyTier": "reason",
-    "sequencePriority": 35,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
-  },
-  {
-    "id": "ac9s2i03-p-036",
-    "curriculumCode": "AC9S2I03",
-    "bank": "practice",
-    "skill": "observing, measuring and recording",
-    "printable": true,
-    "type": "single",
-    "question": "Which tool is suitable for measuring the length of a classroom object in informal units?",
-    "audioPrompt": "Which tool is suitable for measuring the length of a classroom object in informal units?",
-    "visual": "",
-    "answers": [
-      "A thermometer",
-      "A cup of water",
-      "Equal-sized connecting cubes placed end to end"
-    ],
-    "correct": 2,
-    "explanation": "Equal units can be repeated along a length to compare size.",
-    "structuredExplanation": {
-      "summary": "Equal units can be repeated along a length to compare size."
-    },
-    "stage": "reason",
-    "difficulty": 3,
-    "difficultyTier": "reason",
-    "sequencePriority": 36,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
-  },
-  {
-    "id": "ac9s2i03-p-037",
-    "curriculumCode": "AC9S2I03",
-    "bank": "practice",
-    "skill": "observing, measuring and recording",
-    "printable": true,
-    "type": "single",
-    "question": "A class watches a shadow at 9 am and noon. What two details could they record?",
-    "audioPrompt": "A class watches a shadow at 9 am and noon. What two details could they record?",
-    "visual": "",
-    "answers": [
-      "Only the pole colour",
-      "A guess about tomorrow",
-      "Its direction and length at each time"
-    ],
-    "correct": 2,
-    "explanation": "Direction and length are observable shadow features.",
-    "structuredExplanation": {
-      "summary": "Direction and length are observable shadow features."
-    },
-    "stage": "reason",
-    "difficulty": 3,
-    "difficultyTier": "reason",
-    "sequencePriority": 37,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
-  },
-  {
-    "id": "ac9s2i03-p-038",
-    "curriculumCode": "AC9S2I03",
-    "bank": "practice",
-    "skill": "observing, measuring and recording",
-    "printable": true,
-    "type": "single",
-    "question": "Why should students write a measurement as soon as they take it?",
-    "audioPrompt": "Why should students write a measurement as soon as they take it?",
-    "visual": "",
-    "answers": [
-      "It changes the measurement",
-      "It reduces the chance of forgetting or mixing up the value",
-      "It makes the object bigger"
-    ],
-    "correct": 1,
-    "explanation": "Prompt recording helps keep observations accurate.",
-    "structuredExplanation": {
-      "summary": "Prompt recording helps keep observations accurate."
-    },
-    "stage": "reason",
-    "difficulty": 3,
-    "difficultyTier": "reason",
-    "sequencePriority": 38,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
-  },
-  {
-    "id": "ac9s2i03-p-039",
-    "curriculumCode": "AC9S2I03",
-    "bank": "practice",
-    "skill": "observing, measuring and recording",
-    "printable": true,
-    "type": "single",
-    "question": "A student writes “The water felt warmer” but also has a thermometer. What record is stronger?",
-    "audioPrompt": "A student writes “The water felt warmer” but also has a thermometer. What record is stronger?",
-    "visual": "",
-    "answers": [
-      "A prediction made later",
-      "A drawing of the cup colour only",
-      "The thermometer reading with its unit"
-    ],
-    "correct": 2,
-    "explanation": "A measured value is more precise than a vague description when a suitable tool is available.",
-    "structuredExplanation": {
-      "summary": "A measured value is more precise than a vague description when a suitable tool is available."
-    },
-    "stage": "reason",
-    "difficulty": 3,
-    "difficultyTier": "reason",
-    "sequencePriority": 39,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
-  },
-  {
-    "id": "ac9s2i03-p-040",
-    "curriculumCode": "AC9S2I03",
-    "bank": "practice",
-    "skill": "observing, measuring and recording",
-    "printable": true,
-    "type": "single",
-    "question": "Which note is an observation rather than an explanation?",
-    "audioPrompt": "Which note is an observation rather than an explanation?",
-    "visual": "",
-    "answers": [
-      "The sound will definitely be louder tomorrow",
-      "The sound happened because all objects want to sing",
-      "The rubber band moved back and forth quickly"
-    ],
-    "correct": 2,
-    "explanation": "An observation describes what was seen, heard or measured.",
-    "structuredExplanation": {
-      "summary": "An observation describes what was seen, heard or measured."
-    },
-    "stage": "reason",
-    "difficulty": 3,
-    "difficultyTier": "reason",
-    "sequencePriority": 40,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
-  },
-  {
-    "id": "ac9s2i03-p-041",
-    "curriculumCode": "AC9S2I03",
-    "bank": "practice",
-    "skill": "observing, measuring and recording",
-    "printable": true,
-    "type": "single",
-    "question": "A balance tips down on the side holding a pine cone. The other side holds a leaf. What can be recorded?",
-    "audioPrompt": "A balance tips down on the side holding a pine cone. The other side holds a leaf. What can be recorded?",
-    "visual": "",
-    "answers": [
-      "The leaf is heavier than the pine cone",
-      "The pine cone is heavier than the leaf",
-      "Both have the same mass"
-    ],
-    "correct": 1,
-    "explanation": "The lower side of a balance holds the heavier load.",
-    "structuredExplanation": {
-      "summary": "The lower side of a balance holds the heavier load."
-    },
-    "stage": "reason",
-    "difficulty": 3,
-    "difficultyTier": "reason",
-    "sequencePriority": 41,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
-  },
-  {
-    "id": "ac9s2i03-p-042",
-    "curriculumCode": "AC9S2I03",
-    "bank": "practice",
-    "skill": "observing, measuring and recording",
-    "printable": true,
-    "type": "single",
-    "question": "A child measures a stick with blocks but leaves gaps. What needs fixing?",
-    "audioPrompt": "A child measures a stick with blocks but leaves gaps. What needs fixing?",
-    "visual": "",
-    "answers": [
-      "Use a larger notebook",
-      "Count each gap as a block",
-      "Place the blocks end to end without gaps"
-    ],
-    "correct": 2,
-    "explanation": "Gaps add space that is not part of the measuring units.",
-    "structuredExplanation": {
-      "summary": "Gaps add space that is not part of the measuring units."
-    },
-    "stage": "reason",
-    "difficulty": 3,
-    "difficultyTier": "reason",
-    "sequencePriority": 42,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
-  },
-  {
-    "id": "ac9s2i03-p-043",
-    "curriculumCode": "AC9S2I03",
-    "bank": "practice",
-    "skill": "observing, measuring and recording",
-    "printable": true,
-    "type": "single",
-    "question": "A class counts birds for five minutes. A bird cannot be identified. What should the record say?",
-    "audioPrompt": "A class counts birds for five minutes. A bird cannot be identified. What should the record say?",
-    "visual": "",
-    "answers": [
-      "One unidentified bird was seen",
-      "No bird was seen",
-      "It was definitely a magpie"
-    ],
-    "correct": 0,
-    "explanation": "An honest record can state what was seen and what remains unknown.",
-    "structuredExplanation": {
-      "summary": "An honest record can state what was seen and what remains unknown."
-    },
-    "stage": "reason",
-    "difficulty": 3,
-    "difficultyTier": "reason",
-    "sequencePriority": 43,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
-  },
-  {
-    "id": "ac9s2i03-p-044",
-    "curriculumCode": "AC9S2I03",
-    "bank": "practice",
-    "skill": "observing, measuring and recording",
-    "printable": true,
-    "type": "single",
-    "question": "A tablet video shows a spinner falling. How could replaying it help?",
-    "audioPrompt": "A tablet video shows a spinner falling. How could replaying it help?",
-    "visual": "",
-    "answers": [
-      "Let children check the movement again",
-      "Make the spinner fall more slowly in real life",
-      "Change the original result"
-    ],
-    "correct": 0,
-    "explanation": "A video preserves visible details for another look.",
-    "structuredExplanation": {
-      "summary": "A video preserves visible details for another look."
-    },
-    "stage": "reason",
-    "difficulty": 3,
-    "difficultyTier": "reason",
-    "sequencePriority": 44,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
-  },
-  {
-    "id": "ac9s2i03-p-045",
-    "curriculumCode": "AC9S2I03",
-    "bank": "practice",
-    "skill": "observing, measuring and recording",
-    "printable": true,
-    "type": "single",
-    "question": "Three equal scoops fill a small pot with sand. Which note records the amount?",
-    "audioPrompt": "Three equal scoops fill a small pot with sand. Which note records the amount?",
-    "visual": "",
-    "answers": [
-      "Pot is nice",
-      "Sand will fill every pot",
-      "Pot holds 3 scoops of sand"
-    ],
-    "correct": 2,
-    "explanation": "The note includes the measured amount and the informal unit.",
-    "structuredExplanation": {
-      "summary": "The note includes the measured amount and the informal unit."
-    },
-    "stage": "reason",
-    "difficulty": 3,
-    "difficultyTier": "reason",
-    "sequencePriority": 45,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
-  },
-  {
-    "id": "ac9s2i03-p-046",
-    "curriculumCode": "AC9S2I03",
-    "bank": "practice",
-    "skill": "observing, measuring and recording",
-    "printable": true,
-    "type": "single",
-    "question": "A magnifier shows tiny hairs on a leaf. What should the drawing include?",
-    "audioPrompt": "A magnifier shows tiny hairs on a leaf. What should the drawing include?",
-    "visual": "",
-    "answers": [
-      "The hairs in the places they were seen",
-      "Hairs all over every leaf",
-      "Only the child's favourite colour"
-    ],
-    "correct": 0,
-    "explanation": "A scientific drawing records observed details.",
-    "structuredExplanation": {
-      "summary": "A scientific drawing records observed details."
-    },
-    "stage": "reason",
-    "difficulty": 3,
-    "difficultyTier": "reason",
-    "sequencePriority": 46,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
-  },
-  {
-    "id": "ac9s2i03-p-047",
-    "curriculumCode": "AC9S2I03",
-    "bank": "practice",
-    "skill": "observing, measuring and recording",
-    "printable": true,
-    "type": "single",
-    "question": "A child cannot see the Moon because of clouds. What is an accurate note?",
-    "audioPrompt": "A child cannot see the Moon because of clouds. What is an accurate note?",
-    "visual": "",
-    "answers": [
-      "Cloudy: Moon not visible from here",
-      "The Moon has disappeared from space",
-      "The Moon is full today"
-    ],
-    "correct": 0,
-    "explanation": "The note records the viewing conditions without inventing a Moon shape.",
-    "structuredExplanation": {
-      "summary": "The note records the viewing conditions without inventing a Moon shape."
-    },
-    "stage": "reason",
-    "difficulty": 3,
-    "difficultyTier": "reason",
-    "sequencePriority": 47,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
-  },
-  {
-    "id": "ac9s2i03-p-048",
-    "curriculumCode": "AC9S2I03",
-    "bank": "practice",
-    "skill": "observing, measuring and recording",
-    "printable": true,
-    "type": "single",
-    "question": "A pebble sinks and a cork floats in a tub. What should be recorded for each object?",
-    "audioPrompt": "A pebble sinks and a cork floats in a tub. What should be recorded for each object?",
-    "visual": "",
-    "answers": [
-      "Only the water colour",
-      "The same result for both objects",
-      "Its name and whether it floated or sank"
-    ],
-    "correct": 2,
-    "explanation": "Matching an object with its observation keeps the record useful.",
-    "structuredExplanation": {
-      "summary": "Matching an object with its observation keeps the record useful."
-    },
-    "stage": "reason",
-    "difficulty": 3,
-    "difficultyTier": "reason",
-    "sequencePriority": 48,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
+    "qualitySchema": "skillr-reviewed-y2-science-v2",
+    "gradingMode": "adult-review",
+    "modelAnswer": "The saved, labelled recording preserves clap, clap, tap in order, and the child checks it by replaying it.",
+    "acceptanceNote": "Adult check: require appropriate use of the audio tool, a useful label and a replay check. If no recorder is available, mark the digital-tool task not attempted rather than claiming a written substitute demonstrates recording."
   },
   {
     "id": "ac9s2i03-t-001",
@@ -1254,24 +554,21 @@
     "skill": "observing, measuring and recording",
     "printable": true,
     "type": "single",
-    "question": "A plant is measured every Monday. Which table heading is most useful?",
-    "audioPrompt": "A plant is measured every Monday. Which table heading is most useful?",
+    "question": "A child looks at a stone and sees white specks. Which statement is a direct observation?",
+    "audioPrompt": "A child looks at a stone and sees white specks. Which statement is a direct observation?",
     "visual": "",
     "answers": [
-      "Guess  and colour wanted",
-      "Date  and plant height in cubes",
-      "Student name  and lunch choice"
+      "The stone came from a volcano.",
+      "The stone is older than the school.",
+      "There are white specks on the stone."
     ],
-    "correct": 1,
-    "explanation": "Useful tables name the variable and when it was recorded.",
+    "correct": 2,
+    "explanation": "Visible specks can be observed directly; origin and age need other evidence.",
     "structuredExplanation": {
-      "summary": "Useful tables name the variable and when it was recorded."
+      "summary": "Visible specks can be observed directly; origin and age need other evidence."
     },
-    "stage": "recognise",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
     "sequencePriority": 1,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
+    "qualitySchema": "skillr-reviewed-y2-science-v2"
   },
   {
     "id": "ac9s2i03-t-002",
@@ -1280,24 +577,21 @@
     "skill": "observing, measuring and recording",
     "printable": true,
     "type": "single",
-    "question": "A child times how long an ice cube takes to melt. What should be recorded?",
-    "audioPrompt": "A child times how long an ice cube takes to melt. What should be recorded?",
+    "question": "A line of seven equal cubes exactly matches a leaf's length. What should be recorded?",
+    "audioPrompt": "A line of seven equal cubes exactly matches a leaf's length. What should be recorded?",
     "visual": "",
     "answers": [
-      "A different group’s result with no label",
-      "Only the child’s prediction",
-      "The measured time and the condition used"
+      "Leaf length: 7 litres.",
+      "Leaf length: 7 cubes.",
+      "Leaf length: quite nice."
     ],
-    "correct": 2,
-    "explanation": "The time and test condition are needed to interpret the result.",
+    "correct": 1,
+    "explanation": "The note records the measured number and the informal length unit.",
     "structuredExplanation": {
-      "summary": "The time and test condition are needed to interpret the result."
+      "summary": "The note records the measured number and the informal length unit."
     },
-    "stage": "recognise",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
     "sequencePriority": 2,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
+    "qualitySchema": "skillr-reviewed-y2-science-v2"
   },
   {
     "id": "ac9s2i03-t-003",
@@ -1306,24 +600,21 @@
     "skill": "observing, measuring and recording",
     "printable": true,
     "type": "single",
-    "question": "Two shells are compared. Which is the clearest observation?",
-    "audioPrompt": "Two shells are compared. Which is the clearest observation?",
+    "question": "A child starts counting measuring blocks before the end of the strip. How should the setup be fixed?",
+    "audioPrompt": "A child starts counting measuring blocks before the end of the strip. How should the setup be fixed?",
     "visual": "",
     "answers": [
-      "Shell A has 6 dark stripes; Shell B has 3",
-      "Shell B looks lucky",
-      "Shell A is better"
+      "Align the first block with the strip's end.",
+      "Add extra gaps between all blocks.",
+      "Count from farther away without moving the blocks."
     ],
     "correct": 0,
-    "explanation": "Counts give specific evidence that can be compared.",
+    "explanation": "Aligning the starting point avoids including space outside the measured strip.",
     "structuredExplanation": {
-      "summary": "Counts give specific evidence that can be compared."
+      "summary": "Aligning the starting point avoids including space outside the measured strip."
     },
-    "stage": "recognise",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
     "sequencePriority": 3,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
+    "qualitySchema": "skillr-reviewed-y2-science-v2"
   },
   {
     "id": "ac9s2i03-t-004",
@@ -1332,24 +623,21 @@
     "skill": "observing, measuring and recording",
     "printable": true,
     "type": "single",
-    "question": "A student measures a pencil as 12 cubes long, then 13 cubes long without moving the pencil. What should the student do?",
-    "audioPrompt": "A student measures a pencil as 12 cubes long, then 13 cubes long without moving the pencil. What should the student do?",
+    "question": "A group records how a string sounds. Which tool keeps the sound itself for later checking?",
+    "audioPrompt": "A group records how a string sounds. Which tool keeps the sound itself for later checking?",
     "visual": "",
     "answers": [
-      "Check the cube placement and measure again carefully",
-      "Choose 13 because it is larger",
-      "Average every number without checking"
+      "a photograph of the silent string",
+      "an audio recorder",
+      "a ruler beside the string"
     ],
-    "correct": 0,
-    "explanation": "A mismatch suggests the measuring method should be checked.",
+    "correct": 1,
+    "explanation": "Audio preserves the sound; a still photograph cannot.",
     "structuredExplanation": {
-      "summary": "A mismatch suggests the measuring method should be checked."
+      "summary": "Audio preserves the sound; a still photograph cannot."
     },
-    "stage": "recognise",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
     "sequencePriority": 4,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
+    "qualitySchema": "skillr-reviewed-y2-science-v2"
   },
   {
     "id": "ac9s2i03-t-005",
@@ -1358,24 +646,21 @@
     "skill": "observing, measuring and recording",
     "printable": true,
     "type": "single",
-    "question": "Why use the same-sized blocks to measure several objects?",
-    "audioPrompt": "Why use the same-sized blocks to measure several objects?",
+    "question": "A chart asks for 'Before squeezing' and 'While squeezed'. A sponge looks thinner only during the squeeze. Where does 'thinner' belong?",
+    "audioPrompt": "A chart asks for 'Before squeezing' and 'While squeezed'. A sponge looks thinner only during the squeeze. Where does 'thinner' belong?",
     "visual": "",
     "answers": [
-      "The measurements can be compared using a consistent unit",
-      "The blocks make objects equal in length",
-      "The object colour becomes measurable"
+      "Before squeezing",
+      "While squeezed",
+      "Neither column because shape cannot be recorded"
     ],
-    "correct": 0,
-    "explanation": "Consistent units make measurements easier to compare.",
+    "correct": 1,
+    "explanation": "The note belongs beside the condition in which it was observed.",
     "structuredExplanation": {
-      "summary": "Consistent units make measurements easier to compare."
+      "summary": "The note belongs beside the condition in which it was observed."
     },
-    "stage": "recognise",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
     "sequencePriority": 5,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
+    "qualitySchema": "skillr-reviewed-y2-science-v2"
   },
   {
     "id": "ac9s2i03-t-006",
@@ -1384,24 +669,21 @@
     "skill": "observing, measuring and recording",
     "printable": true,
     "type": "single",
-    "question": "A class records bird visits with tally marks. What does one tally represent?",
-    "audioPrompt": "A class records bird visits with tally marks. What does one tally represent?",
+    "question": "A photo record says only 'Tuesday'. What extra detail is especially useful for a changing shadow?",
+    "audioPrompt": "A photo record says only 'Tuesday'. What extra detail is especially useful for a changing shadow?",
     "visual": "",
     "answers": [
-      "One observed visit",
-      "Five visits automatically",
-      "One bird species forever"
+      "the time the photograph was taken",
+      "the photographer's favourite lunch",
+      "the price of the camera"
     ],
     "correct": 0,
-    "explanation": "Each tally records one counted event unless grouped later.",
+    "explanation": "Shadows can change within a day, so the observation time matters.",
     "structuredExplanation": {
-      "summary": "Each tally records one counted event unless grouped later."
+      "summary": "Shadows can change within a day, so the observation time matters."
     },
-    "stage": "recognise",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
     "sequencePriority": 6,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
+    "qualitySchema": "skillr-reviewed-y2-science-v2"
   },
   {
     "id": "ac9s2i03-t-007",
@@ -1410,24 +692,21 @@
     "skill": "observing, measuring and recording",
     "printable": true,
     "type": "single",
-    "question": "A child sketches a rock and labels “rough edge” and “smooth face.” Why are labels useful?",
-    "audioPrompt": "A child sketches a rock and labels “rough edge” and “smooth face.” Why are labels useful?",
+    "question": "A clay strip covers three full equal blocks and part of a fourth. Which record is most accurate?",
+    "audioPrompt": "A clay strip covers three full equal blocks and part of a fourth. Which record is most accurate?",
     "visual": "",
     "answers": [
-      "They make the rock smoother",
-      "They replace all written records",
-      "They connect specific observations to parts of the object"
+      "exactly 3 blocks long",
+      "exactly 4 blocks long",
+      "a little more than 3 blocks long"
     ],
     "correct": 2,
-    "explanation": "Labels clarify what features were observed and where.",
+    "explanation": "The extra partial unit should be acknowledged rather than recorded as an exact whole number.",
     "structuredExplanation": {
-      "summary": "Labels clarify what features were observed and where."
+      "summary": "The extra partial unit should be acknowledged rather than recorded as an exact whole number."
     },
-    "stage": "recognise",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
     "sequencePriority": 7,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
+    "qualitySchema": "skillr-reviewed-y2-science-v2"
   },
   {
     "id": "ac9s2i03-t-008",
@@ -1436,24 +715,21 @@
     "skill": "observing, measuring and recording",
     "printable": true,
     "type": "single",
-    "question": "Which record best separates observation from opinion?",
-    "audioPrompt": "Which record best separates observation from opinion?",
+    "question": "A pupil misses a planned plant observation on Wednesday. What should Wednesday's entry say?",
+    "audioPrompt": "A pupil misses a planned plant observation on Wednesday. What should Wednesday's entry say?",
     "visual": "",
     "answers": [
-      "The flower has 5 red petals",
-      "The flower is the prettiest",
-      "The flower should win"
+      "The plant looked exactly as predicted.",
+      "Not observed.",
+      "Copy Tuesday's result without a note."
     ],
-    "correct": 0,
-    "explanation": "Counting petals and naming colour are observable; the others are preferences.",
+    "correct": 1,
+    "explanation": "A missing observation should be recorded as missing, not invented.",
     "structuredExplanation": {
-      "summary": "Counting petals and naming colour are observable; the others are preferences."
+      "summary": "A missing observation should be recorded as missing, not invented."
     },
-    "stage": "recognise",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
     "sequencePriority": 8,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
+    "qualitySchema": "skillr-reviewed-y2-science-v2"
   },
   {
     "id": "ac9s2i03-t-009",
@@ -1462,24 +738,21 @@
     "skill": "observing, measuring and recording",
     "printable": true,
     "type": "single",
-    "question": "A thermometer reads 24 °C in one place and 31 °C in another. What should the student record?",
-    "audioPrompt": "A thermometer reads 24 °C in one place and 31 °C in another. What should the student record?",
+    "question": "A video is needed to study a fast vibration. Which recording choice is most useful?",
+    "audioPrompt": "A video is needed to study a fast vibration. Which recording choice is most useful?",
     "visual": "",
     "answers": [
-      "A guess about next week",
-      "Both temperatures and where each was measured",
-      "The number they expected"
+      "Film the floor while the object vibrates.",
+      "Stop recording before the action begins.",
+      "Keep the vibrating part in view throughout the action."
     ],
-    "correct": 1,
-    "explanation": "Both values and their conditions are needed for comparison.",
+    "correct": 2,
+    "explanation": "The recording needs to show the movement being observed.",
     "structuredExplanation": {
-      "summary": "Both values and their conditions are needed for comparison."
+      "summary": "The recording needs to show the movement being observed."
     },
-    "stage": "recognise",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
     "sequencePriority": 9,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
+    "qualitySchema": "skillr-reviewed-y2-science-v2"
   },
   {
     "id": "ac9s2i03-t-010",
@@ -1488,24 +761,21 @@
     "skill": "observing, measuring and recording",
     "printable": true,
     "type": "single",
-    "question": "A student forgets which cup was in sunlight. What record-keeping improvement would help next time?",
-    "audioPrompt": "A student forgets which cup was in sunlight. What record-keeping improvement would help next time?",
+    "question": "A test produces two long scraping sounds followed by a short tap. Which note matches?",
+    "audioPrompt": "A test produces two long scraping sounds followed by a short tap. Which note matches?",
     "visual": "",
     "answers": [
-      "Change both cups after the test",
-      "Label the cups before starting",
-      "Use more cups without labels"
+      "long scrape, long scrape, short tap",
+      "short tap, long scrape, long scrape",
+      "three short taps"
     ],
-    "correct": 1,
-    "explanation": "Labels connect observations to the correct condition.",
+    "correct": 0,
+    "explanation": "The record must match the sound types and their order.",
     "structuredExplanation": {
-      "summary": "Labels connect observations to the correct condition."
+      "summary": "The record must match the sound types and their order."
     },
-    "stage": "recognise",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
     "sequencePriority": 10,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
+    "qualitySchema": "skillr-reviewed-y2-science-v2"
   },
   {
     "id": "ac9s2i03-t-011",
@@ -1514,24 +784,21 @@
     "skill": "observing, measuring and recording",
     "printable": true,
     "type": "single",
-    "question": "Which observation could be made using hearing?",
-    "audioPrompt": "Which observation could be made using hearing?",
+    "question": "One container holds six equal scoops of water. Which detail belongs in the record?",
+    "audioPrompt": "One container holds six equal scoops of water. Which detail belongs in the record?",
     "visual": "",
     "answers": [
-      "The ruler was 15 cm long",
-      "The tuning fork produced a faint ringing sound",
-      "The leaf was green"
+      "only the container's colour",
+      "a guessed number of litres",
+      "the number of scoops and the scoop used"
     ],
-    "correct": 1,
-    "explanation": "Hearing is used to observe sound features.",
+    "correct": 2,
+    "explanation": "Informal capacity measurements need the count and the unit used.",
     "structuredExplanation": {
-      "summary": "Hearing is used to observe sound features."
+      "summary": "Informal capacity measurements need the count and the unit used."
     },
-    "stage": "recognise",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
     "sequencePriority": 11,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
+    "qualitySchema": "skillr-reviewed-y2-science-v2"
   },
   {
     "id": "ac9s2i03-t-012",
@@ -1540,24 +807,21 @@
     "skill": "observing, measuring and recording",
     "printable": true,
     "type": "single",
-    "question": "Which observation could be made safely using touch?",
-    "audioPrompt": "Which observation could be made safely using touch?",
+    "question": "A child records 'The paper tore' after seeing a split along one edge. Which added detail improves the observation?",
+    "audioPrompt": "A child records 'The paper tore' after seeing a split along one edge. Which added detail improves the observation?",
     "visual": "",
     "answers": [
-      "The hot plate feels hot",
-      "An unknown chemical tastes sour",
-      "The fabric feels rough compared with the smooth fabric"
+      "a drawing showing the split's position",
+      "a claim that every paper must tear there",
+      "the child's favourite paper colour"
     ],
-    "correct": 2,
-    "explanation": "Touch can compare safe materials when there is no hazard.",
+    "correct": 0,
+    "explanation": "A labelled drawing can record where the observed change occurred.",
     "structuredExplanation": {
-      "summary": "Touch can compare safe materials when there is no hazard."
+      "summary": "A labelled drawing can record where the observed change occurred."
     },
-    "stage": "recognise",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
     "sequencePriority": 12,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
+    "qualitySchema": "skillr-reviewed-y2-science-v2"
   },
   {
     "id": "ac9s2i03-t-013",
@@ -1566,24 +830,21 @@
     "skill": "observing, measuring and recording",
     "printable": true,
     "type": "single",
-    "question": "Why take a photograph from the same position each day during a plant investigation?",
-    "audioPrompt": "Why take a photograph from the same position each day during a plant investigation?",
+    "question": "Two plant photos are labelled 'Plant A, Monday' and 'Plant B, Friday'. What prevents treating them as a before-and-after record of one plant?",
+    "audioPrompt": "Two plant photos are labelled 'Plant A, Monday' and 'Plant B, Friday'. What prevents treating them as a before-and-after record of one plant?",
     "visual": "",
     "answers": [
-      "It makes changes in size or shape easier to compare",
-      "It guarantees identical weather",
-      "It replaces all other measurements"
+      "Photos can never record plants.",
+      "They were taken on different days.",
+      "They show different identified plants."
     ],
-    "correct": 0,
-    "explanation": "Consistent photographs can provide comparable visual records.",
+    "correct": 2,
+    "explanation": "A before-and-after record of one plant needs the same subject at both times.",
     "structuredExplanation": {
-      "summary": "Consistent photographs can provide comparable visual records."
+      "summary": "A before-and-after record of one plant needs the same subject at both times."
     },
-    "stage": "recognise",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
     "sequencePriority": 13,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
+    "qualitySchema": "skillr-reviewed-y2-science-v2"
   },
   {
     "id": "ac9s2i03-t-014",
@@ -1592,24 +853,21 @@
     "skill": "observing, measuring and recording",
     "printable": true,
     "type": "single",
-    "question": "A child writes 'a few seeds' after counting exactly eight. Which record is clearer?",
-    "audioPrompt": "A child writes 'a few seeds' after counting exactly eight. Which record is clearer?",
+    "question": "A pupil measures a strip with equal paperclips but leaves spaces between them. What should happen before recording the result?",
+    "audioPrompt": "A pupil measures a strip with equal paperclips but leaves spaces between them. What should happen before recording the result?",
     "visual": "",
     "answers": [
-      "Nice seeds",
-      "Lots of things",
-      "8 seeds"
+      "Count the spaces as extra paperclips.",
+      "Reposition them end to end and measure again.",
+      "Label the count centimetres instead."
     ],
-    "correct": 2,
-    "explanation": "The exact count reports how many seeds were observed.",
+    "correct": 1,
+    "explanation": "Removing gaps makes the unit count represent the strip's length more accurately.",
     "structuredExplanation": {
-      "summary": "The exact count reports how many seeds were observed."
+      "summary": "Removing gaps makes the unit count represent the strip's length more accurately."
     },
-    "stage": "recognise",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
     "sequencePriority": 14,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
+    "qualitySchema": "skillr-reviewed-y2-science-v2"
   },
   {
     "id": "ac9s2i03-t-015",
@@ -1617,25 +875,21 @@
     "bank": "test",
     "skill": "observing, measuring and recording",
     "printable": true,
-    "type": "single",
-    "question": "A table has one row with no unit beside a length value. Why is that a problem?",
-    "audioPrompt": "A table has one row with no unit beside a length value. Why is that a problem?",
+    "type": "self-check",
+    "question": "Choose a clean leaf or a paper shape supplied by an adult. Make a labelled drawing and record its length using equal blocks or paperclips. Include the date and the measurement unit.",
+    "audioPrompt": "Choose a clean leaf or a paper shape supplied by an adult. Make a labelled drawing and record its length using equal blocks or paperclips. Include the date and the measurement unit.",
     "visual": "",
-    "answers": [
-      "Units are only used for temperature",
-      "The number is unclear because the measurement unit is missing",
-      "The number becomes wrong automatically"
-    ],
-    "correct": 1,
-    "explanation": "A measurement needs a unit so its meaning is clear.",
+    "answers": [],
+    "correct": "Answers vary. The record shows the observed shape, identifies the object, gives the date and states an accurately measured or sensibly approximated length with its unit.",
+    "explanation": "Adult check: compare the drawing and measurement with the actual object and watch the measuring method. Require accurate observation and unit labelling; do not mark artistic skill.",
     "structuredExplanation": {
-      "summary": "A measurement needs a unit so its meaning is clear."
+      "summary": "Adult check: compare the drawing and measurement with the actual object and watch the measuring method. Require accurate observation and unit labelling; do not mark artistic skill."
     },
-    "stage": "recognise",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
     "sequencePriority": 15,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
+    "qualitySchema": "skillr-reviewed-y2-science-v2",
+    "gradingMode": "adult-review",
+    "modelAnswer": "Answers vary. The record shows the observed shape, identifies the object, gives the date and states an accurately measured or sensibly approximated length with its unit.",
+    "acceptanceNote": "Adult check: compare the drawing and measurement with the actual object and watch the measuring method. Require accurate observation and unit labelling; do not mark artistic skill."
   },
   {
     "id": "ac9s2i03-t-016",
@@ -1643,24 +897,20 @@
     "bank": "test",
     "skill": "observing, measuring and recording",
     "printable": true,
-    "type": "single",
-    "question": "A surprising result is observed twice. What should be written in the record?",
-    "audioPrompt": "A surprising result is observed twice. What should be written in the record?",
+    "type": "self-check",
+    "question": "With an adult, record a short video of a paper strip before, during and after a gentle bend. Save it with a useful label, then write or say one change visible in the video.",
+    "audioPrompt": "With an adult, record a short video of a paper strip before, during and after a gentle bend. Save it with a useful label, then write or say one change visible in the video.",
     "visual": "",
-    "answers": [
-      "A more expected number",
-      "Nothing, because it is unusual",
-      "The surprising result exactly as observed"
-    ],
-    "correct": 2,
-    "explanation": "Records should report evidence honestly, including unexpected observations.",
+    "answers": [],
+    "correct": "The labelled video shows the strip at all three stages. The child identifies a visible change, such as the straight strip becoming curved during bending.",
+    "explanation": "Adult check: require a usable video record, a label identifying the subject and an accurate observation from playback. Outcomes after release may vary. If no device is available, record this digital-tool task as not attempted.",
     "structuredExplanation": {
-      "summary": "Records should report evidence honestly, including unexpected observations."
+      "summary": "Adult check: require a usable video record, a label identifying the subject and an accurate observation from playback. Outcomes after release may vary. If no device is available, record this digital-tool task as not attempted."
     },
-    "stage": "recognise",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
     "sequencePriority": 16,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
+    "qualitySchema": "skillr-reviewed-y2-science-v2",
+    "gradingMode": "adult-review",
+    "modelAnswer": "The labelled video shows the strip at all three stages. The child identifies a visible change, such as the straight strip becoming curved during bending.",
+    "acceptanceNote": "Adult check: require a usable video record, a label identifying the subject and an accurate observation from playback. Outcomes after release may vary. If no device is available, record this digital-tool task as not attempted."
   }
 ]

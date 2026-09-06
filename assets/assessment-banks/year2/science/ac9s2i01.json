@@ -6,24 +6,21 @@
     "skill": "questions and reasoned predictions",
     "printable": true,
     "type": "single",
-    "question": "Which question can be tested by observing?",
-    "audioPrompt": "Which question can be tested by observing?",
+    "question": "A sponge soaks up a spill, but a plastic lid does not. Which question explores this difference?",
+    "audioPrompt": "A sponge soaks up a spill, but a plastic lid does not. Which question explores this difference?",
     "visual": "",
     "answers": [
-      "Which towel is nicest?",
-      "Which paper towel absorbs most water?",
-      "Why is everything interesting?"
+      "Which object has the nicest name?",
+      "Who likes using the sponge?",
+      "Does the material affect how much water it absorbs?"
     ],
-    "correct": 1,
-    "explanation": "The amount absorbed can be compared.",
+    "correct": 2,
+    "explanation": "The question connects the observed difference in absorption with the materials.",
     "structuredExplanation": {
-      "summary": "The amount absorbed can be compared."
+      "summary": "The question connects the observed difference in absorption with the materials."
     },
-    "stage": "recognise",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
     "sequencePriority": 1,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
+    "qualitySchema": "skillr-reviewed-y2-science-v2"
   },
   {
     "id": "ac9s2i01-p-002",
@@ -32,24 +29,21 @@
     "skill": "questions and reasoned predictions",
     "printable": true,
     "type": "single",
-    "question": "Two ice cubes melt at different speeds. Which question follows?",
-    "audioPrompt": "Two ice cubes melt at different speeds. Which question follows?",
+    "question": "On three clear days, a pole's shadow was shorter near midday than early in the morning. What is a sensible prediction for another clear day?",
+    "audioPrompt": "On three clear days, a pole's shadow was shorter near midday than early in the morning. What is a sensible prediction for another clear day?",
     "visual": "",
     "answers": [
-      "Does location affect melting time?",
-      "Why is ice the best?",
-      "Which cube is happier?"
+      "It will probably be shorter near midday again.",
+      "It must stay one length all day.",
+      "It will certainly be longest near midday."
     ],
     "correct": 0,
-    "explanation": "The question explores an observable relationship.",
+    "explanation": "The repeated shadow observations support a prediction about a similar day.",
     "structuredExplanation": {
-      "summary": "The question explores an observable relationship."
+      "summary": "The repeated shadow observations support a prediction about a similar day."
     },
-    "stage": "recognise",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
     "sequencePriority": 2,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
+    "qualitySchema": "skillr-reviewed-y2-science-v2"
   },
   {
     "id": "ac9s2i01-p-003",
@@ -58,24 +52,21 @@
     "skill": "questions and reasoned predictions",
     "printable": true,
     "type": "single",
-    "question": "Which is a scientific prediction?",
-    "audioPrompt": "Which is a scientific prediction?",
+    "question": "A class hears a higher note when a ruler has a shorter overhang. Which question follows this observation?",
+    "audioPrompt": "A class hears a higher note when a ruler has a shorter overhang. Which question follows this observation?",
     "visual": "",
     "answers": [
-      "The sunny ice will melt first because warmth melted ice before",
-      "I like the sunny cup",
-      "Anything will happen"
+      "Which ruler colour is most popular?",
+      "How does the overhanging length affect the note?",
+      "Who has the neatest handwriting?"
     ],
-    "correct": 0,
-    "explanation": "A prediction includes an expected outcome and evidence-based reason.",
+    "correct": 1,
+    "explanation": "This question explores the relationship between vibrating length and the sound heard.",
     "structuredExplanation": {
-      "summary": "A prediction includes an expected outcome and evidence-based reason."
+      "summary": "This question explores the relationship between vibrating length and the sound heard."
     },
-    "stage": "recognise",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
     "sequencePriority": 3,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
+    "qualitySchema": "skillr-reviewed-y2-science-v2"
   },
   {
     "id": "ac9s2i01-p-004",
@@ -84,24 +75,21 @@
     "skill": "questions and reasoned predictions",
     "printable": true,
     "type": "single",
-    "question": "Which question explores a shadow pattern?",
-    "audioPrompt": "Which question explores a shadow pattern?",
+    "question": "A rubber strip returned to its original length after three gentle stretches. What might happen after another gentle stretch?",
+    "audioPrompt": "A rubber strip returned to its original length after three gentle stretches. What might happen after another gentle stretch?",
     "visual": "",
     "answers": [
-      "Can a shadow think?",
-      "How does shadow length change during the day?",
-      "Are shadows friendly?"
+      "It must remain twice as long.",
+      "It may return to its original length again.",
+      "It will certainly break into pieces."
     ],
     "correct": 1,
-    "explanation": "Length can be observed at different times.",
+    "explanation": "Previous results give a reason for expecting the strip to return again.",
     "structuredExplanation": {
-      "summary": "Length can be observed at different times."
+      "summary": "Previous results give a reason for expecting the strip to return again."
     },
-    "stage": "recognise",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
     "sequencePriority": 4,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
+    "qualitySchema": "skillr-reviewed-y2-science-v2"
   },
   {
     "id": "ac9s2i01-p-005",
@@ -110,24 +98,21 @@
     "skill": "questions and reasoned predictions",
     "printable": true,
     "type": "single",
-    "question": "Which question is investigable?",
-    "audioPrompt": "Which question is investigable?",
+    "question": "Which sentence predicts a result that has not happened yet?",
+    "audioPrompt": "Which sentence predicts a result that has not happened yet?",
     "visual": "",
     "answers": [
-      "Does a seedling lean towards light?",
-      "Does the plant like music?",
-      "Is this the best plant?"
+      "The paper tore during yesterday's test.",
+      "The paper has a rough edge.",
+      "The paper may tear if we pull it harder."
     ],
-    "correct": 0,
-    "explanation": "Direction can be observed and recorded.",
+    "correct": 2,
+    "explanation": "A prediction says what may happen; the other statements describe observations.",
     "structuredExplanation": {
-      "summary": "Direction can be observed and recorded."
+      "summary": "A prediction says what may happen; the other statements describe observations."
     },
-    "stage": "recognise",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
     "sequencePriority": 5,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
+    "qualitySchema": "skillr-reviewed-y2-science-v2"
   },
   {
     "id": "ac9s2i01-p-006",
@@ -136,24 +121,21 @@
     "skill": "questions and reasoned predictions",
     "printable": true,
     "type": "single",
-    "question": "Which question can a class safely test?",
-    "audioPrompt": "Which question can a class safely test?",
+    "question": "A child asks, 'Is this clay good?' Which question makes the idea clearer to investigate?",
+    "audioPrompt": "A child asks, 'Is this clay good?' Which question makes the idea clearer to investigate?",
     "visual": "",
     "answers": [
-      "Is music good?",
-      "Does a stronger drum tap make a louder sound?",
-      "Which sound is beautiful?"
+      "Is this clay the best clay ever?",
+      "Does everyone like this clay?",
+      "Can this clay be bent into a ring without breaking?"
     ],
-    "correct": 1,
-    "explanation": "Tap strength and loudness can be compared.",
+    "correct": 2,
+    "explanation": "The clearer question names an action and an observable result.",
     "structuredExplanation": {
-      "summary": "Tap strength and loudness can be compared."
+      "summary": "The clearer question names an action and an observable result."
     },
-    "stage": "recognise",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
     "sequencePriority": 6,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
+    "qualitySchema": "skillr-reviewed-y2-science-v2"
   },
   {
     "id": "ac9s2i01-p-007",
@@ -162,24 +144,21 @@
     "skill": "questions and reasoned predictions",
     "printable": true,
     "type": "single",
-    "question": "Why use past experience in a prediction?",
-    "audioPrompt": "Why use past experience in a prediction?",
+    "question": "A child predicts the drum will be louder after a firmer tap. Which experience best supports this?",
+    "audioPrompt": "A child predicts the drum will be louder after a firmer tap. Which experience best supports this?",
     "visual": "",
     "answers": [
-      "it gives a reason for what may happen",
-      "it replaces observation",
-      "it makes testing unnecessary"
+      "The drum is the child's favourite instrument.",
+      "The drum has a bright red side.",
+      "Firmer taps made this drum louder before."
     ],
-    "correct": 0,
-    "explanation": "Experience provides relevant prior evidence.",
+    "correct": 2,
+    "explanation": "Relevant previous sound observations support the prediction.",
     "structuredExplanation": {
-      "summary": "Experience provides relevant prior evidence."
+      "summary": "Relevant previous sound observations support the prediction."
     },
-    "stage": "recognise",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
     "sequencePriority": 7,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
+    "qualitySchema": "skillr-reviewed-y2-science-v2"
   },
   {
     "id": "ac9s2i01-p-008",
@@ -188,24 +167,21 @@
     "skill": "questions and reasoned predictions",
     "printable": true,
     "type": "single",
-    "question": "Which statement is a result?",
-    "audioPrompt": "Which statement is a result?",
+    "question": "Two similar wet cloths dried at different speeds, one spread out and one folded. Which question explores what was noticed?",
+    "audioPrompt": "Two similar wet cloths dried at different speeds, one spread out and one folded. Which question explores what was noticed?",
     "visual": "",
     "answers": [
-      "The ice melted in six minutes",
-      "I think it will melt first",
-      "My prediction is sunny"
+      "Which cloth looks prettier when folded?",
+      "Does folding a wet cloth affect how quickly it dries?",
+      "Which day of the week has the best name?"
     ],
-    "correct": 0,
-    "explanation": "A result reports what was observed after testing.",
+    "correct": 1,
+    "explanation": "The question connects the cloth's arrangement with its drying time.",
     "structuredExplanation": {
-      "summary": "A result reports what was observed after testing."
+      "summary": "The question connects the cloth's arrangement with its drying time."
     },
-    "stage": "recognise",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
     "sequencePriority": 8,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
+    "qualitySchema": "skillr-reviewed-y2-science-v2"
   },
   {
     "id": "ac9s2i01-p-009",
@@ -214,24 +190,21 @@
     "skill": "questions and reasoned predictions",
     "printable": true,
     "type": "single",
-    "question": "Which wording explores a relationship?",
-    "audioPrompt": "Which wording explores a relationship?",
+    "question": "A child has never tested this new foam. Which prediction gives a reason using related experience?",
+    "audioPrompt": "A child has never tested this new foam. Which prediction gives a reason using related experience?",
     "visual": "",
     "answers": [
-      "What happens to drying time when airflow increases?",
-      "What colour is the cloth?",
-      "Is drying fun?"
+      "It may squash because a similar soft foam squashed before.",
+      "It will squash because I want it to.",
+      "It cannot squash because it is new."
     ],
     "correct": 0,
-    "explanation": "It connects one changing factor with an outcome.",
+    "explanation": "A prediction can draw on relevant experience with a similar material.",
     "structuredExplanation": {
-      "summary": "It connects one changing factor with an outcome."
+      "summary": "A prediction can draw on relevant experience with a similar material."
     },
-    "stage": "recognise",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
     "sequencePriority": 9,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
+    "qualitySchema": "skillr-reviewed-y2-science-v2"
   },
   {
     "id": "ac9s2i01-p-010",
@@ -240,24 +213,21 @@
     "skill": "questions and reasoned predictions",
     "printable": true,
     "type": "single",
-    "question": "Why should a scientific question not give the answer first?",
-    "audioPrompt": "Why should a scientific question not give the answer first?",
+    "question": "A sky diary records the Moon in different places above one roof. Which question could guide more observations?",
+    "audioPrompt": "A sky diary records the Moon in different places above one roof. Which question could guide more observations?",
     "visual": "",
     "answers": [
-      "the answer should always be hidden",
-      "evidence must be collected before deciding",
-      "questions never have answers"
+      "Does the Moon's position above the roof change during an evening?",
+      "Is the roof a nicer shape than the Moon?",
+      "Who drew the best-looking Moon?"
     ],
-    "correct": 1,
-    "explanation": "An open question allows evidence to decide.",
+    "correct": 0,
+    "explanation": "The question explores the observed change in apparent position over time.",
     "structuredExplanation": {
-      "summary": "An open question allows evidence to decide."
+      "summary": "The question explores the observed change in apparent position over time."
     },
-    "stage": "recognise",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
     "sequencePriority": 10,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
+    "qualitySchema": "skillr-reviewed-y2-science-v2"
   },
   {
     "id": "ac9s2i01-p-011",
@@ -266,24 +236,21 @@
     "skill": "questions and reasoned predictions",
     "printable": true,
     "type": "single",
-    "question": "Which question identifies what will be compared?",
-    "audioPrompt": "Which question identifies what will be compared?",
+    "question": "Three paper strips stretched very little before tearing. Which prediction fits another strip of the same paper?",
+    "audioPrompt": "Three paper strips stretched very little before tearing. Which prediction fits another strip of the same paper?",
     "visual": "",
     "answers": [
-      "Can soil talk?",
-      "Why is dirt brown?",
-      "Which of two soils drains water faster?"
+      "It will certainly stretch like a rubber band.",
+      "It may tear before stretching very far.",
+      "It must stay unbroken however hard it is pulled."
     ],
-    "correct": 2,
-    "explanation": "The two soils and drainage outcome are clear.",
+    "correct": 1,
+    "explanation": "The prediction uses the repeated response of the same kind of paper.",
     "structuredExplanation": {
-      "summary": "The two soils and drainage outcome are clear."
+      "summary": "The prediction uses the repeated response of the same kind of paper."
     },
-    "stage": "recognise",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
     "sequencePriority": 11,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
+    "qualitySchema": "skillr-reviewed-y2-science-v2"
   },
   {
     "id": "ac9s2i01-p-012",
@@ -292,24 +259,21 @@
     "skill": "questions and reasoned predictions",
     "printable": true,
     "type": "single",
-    "question": "A plant leaned towards a window three times. What is reasonable?",
-    "audioPrompt": "A plant leaned towards a window three times. What is reasonable?",
+    "question": "A teacher says a scientific prediction is an idea to check. Which sentence fits?",
+    "audioPrompt": "A teacher says a scientific prediction is an idea to check. Which sentence fits?",
     "visual": "",
     "answers": [
-      "no prediction can use a pattern",
-      "It must turn into glass",
-      "It may lean towards the window again"
+      "The shaded puddle may last longer because it did yesterday.",
+      "The shaded puddle must last forever because I chose it.",
+      "The shaded puddle is my favourite puddle."
     ],
-    "correct": 2,
-    "explanation": "The repeated observation supports a prediction.",
+    "correct": 0,
+    "explanation": "A prediction connects an expected outcome to evidence and can be checked.",
     "structuredExplanation": {
-      "summary": "The repeated observation supports a prediction."
+      "summary": "A prediction connects an expected outcome to evidence and can be checked."
     },
-    "stage": "recognise",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
     "sequencePriority": 12,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
+    "qualitySchema": "skillr-reviewed-y2-science-v2"
   },
   {
     "id": "ac9s2i01-p-013",
@@ -318,24 +282,21 @@
     "skill": "questions and reasoned predictions",
     "printable": true,
     "type": "single",
-    "question": "Which is an observation?",
-    "audioPrompt": "Which is an observation?",
+    "question": "A child notices that a bell gets quieter when touched. Which question explores the relationship?",
+    "audioPrompt": "A child notices that a bell gets quieter when touched. Which question explores the relationship?",
     "visual": "",
     "answers": [
-      "The puddle is smaller after one hour",
-      "The puddle wants to leave",
-      "Rain is sad"
+      "Which bell is the prettiest?",
+      "Does touching the ringing bell change how long it sounds?",
+      "Who can spell the word bell?"
     ],
-    "correct": 0,
-    "explanation": "Size change can be directly noticed.",
+    "correct": 1,
+    "explanation": "The question links the action of touching with the duration of the sound.",
     "structuredExplanation": {
-      "summary": "Size change can be directly noticed."
+      "summary": "The question links the action of touching with the duration of the sound."
     },
-    "stage": "recognise",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
     "sequencePriority": 13,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
+    "qualitySchema": "skillr-reviewed-y2-science-v2"
   },
   {
     "id": "ac9s2i01-p-014",
@@ -344,24 +305,21 @@
     "skill": "questions and reasoned predictions",
     "printable": true,
     "type": "single",
-    "question": "Which sentence is a scientific question?",
-    "audioPrompt": "Which sentence is a scientific question?",
+    "question": "A class wants to learn about changes to shadows. Which question would need observations at more than one time?",
+    "audioPrompt": "A class wants to learn about changes to shadows. Which question would need observations at more than one time?",
     "visual": "",
     "answers": [
-      "Warm water is best",
-      "Does warm water dry faster than cool water?",
-      "Warm water dried first"
+      "How does this post's shadow change through the day?",
+      "What colour is the post now?",
+      "Is the post made of wood now?"
     ],
-    "correct": 1,
-    "explanation": "The sentence asks something testable.",
+    "correct": 0,
+    "explanation": "A question about change over time needs repeated observations.",
     "structuredExplanation": {
-      "summary": "The sentence asks something testable."
+      "summary": "A question about change over time needs repeated observations."
     },
-    "stage": "recognise",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
     "sequencePriority": 14,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
+    "qualitySchema": "skillr-reviewed-y2-science-v2"
   },
   {
     "id": "ac9s2i01-p-015",
@@ -370,24 +328,21 @@
     "skill": "questions and reasoned predictions",
     "printable": true,
     "type": "single",
-    "question": "Which question changes one clear factor?",
-    "audioPrompt": "Which question changes one clear factor?",
+    "question": "A toy car rolled farther on smooth card than on a towel in several trials. Which prediction uses that experience?",
+    "audioPrompt": "A toy car rolled farther on smooth card than on a towel in several trials. Which prediction uses that experience?",
     "visual": "",
     "answers": [
-      "Which car is coolest?",
-      "Can cars think?",
-      "Does ramp height change toy-car distance?"
+      "It will probably roll farther on the card in a similar trial.",
+      "It will always travel exactly ten blocks on any surface.",
+      "It will probably stop at the same place on every surface."
     ],
-    "correct": 2,
-    "explanation": "Ramp height is the factor being changed.",
+    "correct": 0,
+    "explanation": "The repeated comparison supports a prediction for the same surfaces and similar conditions.",
     "structuredExplanation": {
-      "summary": "Ramp height is the factor being changed."
+      "summary": "The repeated comparison supports a prediction for the same surfaces and similar conditions."
     },
-    "stage": "recognise",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
     "sequencePriority": 15,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
+    "qualitySchema": "skillr-reviewed-y2-science-v2"
   },
   {
     "id": "ac9s2i01-p-016",
@@ -396,24 +351,21 @@
     "skill": "questions and reasoned predictions",
     "printable": true,
     "type": "single",
-    "question": "Thick cloth absorbed more water twice. What prediction fits?",
-    "audioPrompt": "Thick cloth absorbed more water twice. What prediction fits?",
+    "question": "A child asks, 'Will all materials twist?' Which smaller question could the class investigate first?",
+    "audioPrompt": "A child asks, 'Will all materials twist?' Which smaller question could the class investigate first?",
     "visual": "",
     "answers": [
-      "the result is already guaranteed",
-      "all cloth is identical",
-      "The thick cloth may absorb more again"
+      "Can every material anywhere be twisted?",
+      "Can these cloth and card strips be twisted gently?",
+      "Will every object ever made twist?"
     ],
-    "correct": 2,
-    "explanation": "Previous results support a cautious prediction.",
+    "correct": 1,
+    "explanation": "A question about two available samples is specific enough for a simple class investigation.",
     "structuredExplanation": {
-      "summary": "Previous results support a cautious prediction."
+      "summary": "A question about two available samples is specific enough for a simple class investigation."
     },
-    "stage": "recognise",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
     "sequencePriority": 16,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
+    "qualitySchema": "skillr-reviewed-y2-science-v2"
   },
   {
     "id": "ac9s2i01-p-017",
@@ -422,24 +374,21 @@
     "skill": "questions and reasoned predictions",
     "printable": true,
     "type": "single",
-    "question": "How can ‘What about paper?’ be improved?",
-    "audioPrompt": "How can ‘What about paper?’ be improved?",
+    "question": "A clay rope broke when bent into a tight loop but stayed whole in a wider loop. Which question explores this observation?",
+    "audioPrompt": "A clay rope broke when bent into a tight loop but stayed whole in a wider loop. Which question explores this observation?",
     "visual": "",
     "answers": [
-      "Which paper type tears most easily when wet?",
-      "Why paper?",
-      "Is paper good?"
+      "Which loop is the artist's favourite?",
+      "What colour is the table under the clay?",
+      "Does the size of the loop affect whether this clay rope breaks?"
     ],
-    "correct": 0,
-    "explanation": "The improved question states a comparison and observable result.",
+    "correct": 2,
+    "explanation": "The question links loop size with the observed breaking.",
     "structuredExplanation": {
-      "summary": "The improved question states a comparison and observable result."
+      "summary": "The question links loop size with the observed breaking."
     },
-    "stage": "apply",
-    "difficulty": 2,
-    "difficultyTier": "apply",
     "sequencePriority": 17,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
+    "qualitySchema": "skillr-reviewed-y2-science-v2"
   },
   {
     "id": "ac9s2i01-p-018",
@@ -448,24 +397,21 @@
     "skill": "questions and reasoned predictions",
     "printable": true,
     "type": "single",
-    "question": "A ball rolls farther down a steeper ramp. What question follows?",
-    "audioPrompt": "A ball rolls farther down a steeper ramp. What question follows?",
+    "question": "In two trials, a short string made a higher note than a longer string of the same kind and tightness. What can the class reasonably predict?",
+    "audioPrompt": "In two trials, a short string made a higher note than a longer string of the same kind and tightness. What can the class reasonably predict?",
     "visual": "",
     "answers": [
-      "Is the ball happy?",
-      "Which ramp looks best?",
-      "How does ramp steepness affect distance?"
+      "The short string may make the higher note again.",
+      "Every short object must make a high sound.",
+      "The long string must be louder."
     ],
-    "correct": 2,
-    "explanation": "The question explores the observed relationship.",
+    "correct": 0,
+    "explanation": "The evidence supports a pitch prediction for similar strings, not all objects or loudness.",
     "structuredExplanation": {
-      "summary": "The question explores the observed relationship."
+      "summary": "The evidence supports a pitch prediction for similar strings, not all objects or loudness."
     },
-    "stage": "apply",
-    "difficulty": 2,
-    "difficultyTier": "apply",
     "sequencePriority": 18,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
+    "qualitySchema": "skillr-reviewed-y2-science-v2"
   },
   {
     "id": "ac9s2i01-p-019",
@@ -474,24 +420,21 @@
     "skill": "questions and reasoned predictions",
     "printable": true,
     "type": "single",
-    "question": "Which sentence correctly uses a prediction frame?",
-    "audioPrompt": "Which sentence correctly uses a prediction frame?",
+    "question": "A child predicts a paper boat will float because the last one did. Which detail makes that experience most useful?",
+    "audioPrompt": "A child predicts a paper boat will float because the last one did. Which detail makes that experience most useful?",
     "visual": "",
     "answers": [
-      "I know without evidence",
-      "The result is my favourite",
-      "I predict the dark cloth will warm more because it did before"
+      "Both boats were made on a Tuesday.",
+      "The new boat uses similar paper and the same design.",
+      "The child gave both boats a name."
     ],
-    "correct": 2,
-    "explanation": "It states outcome and reason.",
+    "correct": 1,
+    "explanation": "Relevant similarities make the earlier floating result useful for the prediction.",
     "structuredExplanation": {
-      "summary": "It states outcome and reason."
+      "summary": "Relevant similarities make the earlier floating result useful for the prediction."
     },
-    "stage": "apply",
-    "difficulty": 2,
-    "difficultyTier": "apply",
     "sequencePriority": 19,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
+    "qualitySchema": "skillr-reviewed-y2-science-v2"
   },
   {
     "id": "ac9s2i01-p-020",
@@ -500,24 +443,21 @@
     "skill": "questions and reasoned predictions",
     "printable": true,
     "type": "single",
-    "question": "Why use ‘may’ in a prediction?",
-    "audioPrompt": "Why use ‘may’ in a prediction?",
+    "question": "A class sees stars in different positions in two night photos. Which question focuses on a pattern?",
+    "audioPrompt": "A class sees stars in different positions in two night photos. Which question focuses on a pattern?",
     "visual": "",
     "answers": [
-      "science never expects anything",
-      "it guarantees success",
-      "the outcome is not known until tested"
+      "Which photograph would look best on a wall?",
+      "Who owns the camera?",
+      "Do their positions follow a similar change on other nights?"
     ],
     "correct": 2,
-    "explanation": "Predictions are informed expectations, not results.",
+    "explanation": "The question asks whether the observed change repeats.",
     "structuredExplanation": {
-      "summary": "Predictions are informed expectations, not results."
+      "summary": "The question asks whether the observed change repeats."
     },
-    "stage": "apply",
-    "difficulty": 2,
-    "difficultyTier": "apply",
     "sequencePriority": 20,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
+    "qualitySchema": "skillr-reviewed-y2-science-v2"
   },
   {
     "id": "ac9s2i01-p-021",
@@ -525,25 +465,21 @@
     "bank": "practice",
     "skill": "questions and reasoned predictions",
     "printable": true,
-    "type": "single",
-    "question": "Which question is suitable for a Year 2 safe investigation?",
-    "audioPrompt": "Which question is suitable for a Year 2 safe investigation?",
+    "type": "self-check",
+    "question": "A cloth strip twisted easily, but a thick card strip did not. Write or say one question about this difference that the class could investigate.",
+    "audioPrompt": "A cloth strip twisted easily, but a thick card strip did not. Write or say one question about this difference that the class could investigate.",
     "visual": "",
-    "answers": [
-      "What happens if we taste chemicals?",
-      "How hot can we touch metal?",
-      "Which approved fabric stretches most with a gentle pull?"
-    ],
-    "correct": 2,
-    "explanation": "The fabric test can follow safe procedures.",
+    "answers": [],
+    "correct": "Example: Does the type of strip affect how easily it twists?",
+    "explanation": "Adult check: accept a clear, observable question linking the material or thickness of the strips to twisting. Do not require this exact wording.",
     "structuredExplanation": {
-      "summary": "The fabric test can follow safe procedures."
+      "summary": "Adult check: accept a clear, observable question linking the material or thickness of the strips to twisting. Do not require this exact wording."
     },
-    "stage": "apply",
-    "difficulty": 2,
-    "difficultyTier": "apply",
     "sequencePriority": 21,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
+    "qualitySchema": "skillr-reviewed-y2-science-v2",
+    "gradingMode": "adult-review",
+    "modelAnswer": "Example: Does the type of strip affect how easily it twists?",
+    "acceptanceNote": "Adult check: accept a clear, observable question linking the material or thickness of the strips to twisting. Do not require this exact wording."
   },
   {
     "id": "ac9s2i01-p-022",
@@ -551,25 +487,21 @@
     "bank": "practice",
     "skill": "questions and reasoned predictions",
     "printable": true,
-    "type": "single",
-    "question": "Which outcome can be observed?",
-    "audioPrompt": "Which outcome can be observed?",
+    "type": "self-check",
+    "question": "A post's shadow was long early in the morning and shorter near midday on several days. Predict its length near midday tomorrow and give a reason.",
+    "audioPrompt": "A post's shadow was long early in the morning and shorter near midday on several days. Predict its length near midday tomorrow and give a reason.",
     "visual": "",
-    "answers": [
-      "how kind a sponge feels",
-      "number of drops absorbed",
-      "the sponge's thoughts"
-    ],
-    "correct": 1,
-    "explanation": "Drops can be counted.",
+    "answers": [],
+    "correct": "It will probably be shorter near midday because that happened on the previous days.",
+    "explanation": "Adult check: accept a likely shorter shadow near midday linked to the supplied repeated observations. The child need not claim certainty.",
     "structuredExplanation": {
-      "summary": "Drops can be counted."
+      "summary": "Adult check: accept a likely shorter shadow near midday linked to the supplied repeated observations. The child need not claim certainty."
     },
-    "stage": "apply",
-    "difficulty": 2,
-    "difficultyTier": "apply",
     "sequencePriority": 22,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
+    "qualitySchema": "skillr-reviewed-y2-science-v2",
+    "gradingMode": "adult-review",
+    "modelAnswer": "It will probably be shorter near midday because that happened on the previous days.",
+    "acceptanceNote": "Adult check: accept a likely shorter shadow near midday linked to the supplied repeated observations. The child need not claim certainty."
   },
   {
     "id": "ac9s2i01-p-023",
@@ -577,25 +509,21 @@
     "bank": "practice",
     "skill": "questions and reasoned predictions",
     "printable": true,
-    "type": "single",
-    "question": "Which question invites measurement?",
-    "audioPrompt": "Which question invites measurement?",
+    "type": "self-check",
+    "question": "Earlier gentle plucks of a band made soft sounds. Write or say a question about plucking strength, then predict what a firmer pluck might do and explain why.",
+    "audioPrompt": "Earlier gentle plucks of a band made soft sounds. Write or say a question about plucking strength, then predict what a firmer pluck might do and explain why.",
     "visual": "",
-    "answers": [
-      "Does length have a favourite?",
-      "How many blocks long is each shadow?",
-      "Why is the Sun happy?"
-    ],
-    "correct": 1,
-    "explanation": "Informal blocks can measure length.",
+    "answers": [],
+    "correct": "Does plucking harder change loudness? A firmer pluck may sound louder because gentle plucks sounded soft.",
+    "explanation": "Adult check: require an investigable question about plucking strength and sound, plus a reasoned prediction. Accept other plausible predictions tied to stated experience; check the reasoning, not whether a future test agrees.",
     "structuredExplanation": {
-      "summary": "Informal blocks can measure length."
+      "summary": "Adult check: require an investigable question about plucking strength and sound, plus a reasoned prediction. Accept other plausible predictions tied to stated experience; check the reasoning, not whether a future test agrees."
     },
-    "stage": "apply",
-    "difficulty": 2,
-    "difficultyTier": "apply",
     "sequencePriority": 23,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
+    "qualitySchema": "skillr-reviewed-y2-science-v2",
+    "gradingMode": "adult-review",
+    "modelAnswer": "Does plucking harder change loudness? A firmer pluck may sound louder because gentle plucks sounded soft.",
+    "acceptanceNote": "Adult check: require an investigable question about plucking strength and sound, plus a reasoned prediction. Accept other plausible predictions tied to stated experience; check the reasoning, not whether a future test agrees."
   },
   {
     "id": "ac9s2i01-p-024",
@@ -603,649 +531,21 @@
     "bank": "practice",
     "skill": "questions and reasoned predictions",
     "printable": true,
-    "type": "single",
-    "question": "Two children predict differently. What should they do?",
-    "audioPrompt": "Two children predict differently. What should they do?",
+    "type": "self-check",
+    "question": "Choose a familiar material you have bent, stretched or squashed. Say what happened before, then predict what will happen if you repeat that action gently.",
+    "audioPrompt": "Choose a familiar material you have bent, stretched or squashed. Say what happened before, then predict what will happen if you repeat that action gently.",
     "visual": "",
-    "answers": [
-      "claim both results happened",
-      "choose the louder child",
-      "give reasons and then test"
-    ],
-    "correct": 2,
-    "explanation": "Different experiences can lead to testable predictions.",
+    "answers": [],
+    "correct": "Example: My sponge squashed and sprang back before. I predict it will spring back after another gentle squeeze.",
+    "explanation": "Adult check: accept a relevant past observation and a connected prediction about repeating the action. A real example is required; assess the evidence link rather than exact wording.",
     "structuredExplanation": {
-      "summary": "Different experiences can lead to testable predictions."
+      "summary": "Adult check: accept a relevant past observation and a connected prediction about repeating the action. A real example is required; assess the evidence link rather than exact wording."
     },
-    "stage": "apply",
-    "difficulty": 2,
-    "difficultyTier": "apply",
     "sequencePriority": 24,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
-  },
-  {
-    "id": "ac9s2i01-p-025",
-    "curriculumCode": "AC9S2I01",
-    "bank": "practice",
-    "skill": "questions and reasoned predictions",
-    "printable": true,
-    "type": "single",
-    "question": "What normally comes after posing a question?",
-    "audioPrompt": "What normally comes after posing a question?",
-    "visual": "",
-    "answers": [
-      "make a reasoned prediction",
-      "write the result before testing",
-      "change every factor"
-    ],
-    "correct": 0,
-    "explanation": "A prediction states the expected outcome before investigation.",
-    "structuredExplanation": {
-      "summary": "A prediction states the expected outcome before investigation."
-    },
-    "stage": "apply",
-    "difficulty": 2,
-    "difficultyTier": "apply",
-    "sequencePriority": 25,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
-  },
-  {
-    "id": "ac9s2i01-p-026",
-    "curriculumCode": "AC9S2I01",
-    "bank": "practice",
-    "skill": "questions and reasoned predictions",
-    "printable": true,
-    "type": "single",
-    "question": "Which reason is strongest?",
-    "audioPrompt": "Which reason is strongest?",
-    "visual": "",
-    "answers": [
-      "my friend likes it",
-      "I observed the same pattern on three days",
-      "I chose randomly"
-    ],
-    "correct": 1,
-    "explanation": "Repeated relevant observation is evidence.",
-    "structuredExplanation": {
-      "summary": "Repeated relevant observation is evidence."
-    },
-    "stage": "apply",
-    "difficulty": 2,
-    "difficultyTier": "apply",
-    "sequencePriority": 26,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
-  },
-  {
-    "id": "ac9s2i01-p-027",
-    "curriculumCode": "AC9S2I01",
-    "bank": "practice",
-    "skill": "questions and reasoned predictions",
-    "printable": true,
-    "type": "single",
-    "question": "Which question is focused enough?",
-    "audioPrompt": "Which question is focused enough?",
-    "visual": "",
-    "answers": [
-      "Why is science?",
-      "Does cup material affect how quickly ice melts?",
-      "What is best?"
-    ],
-    "correct": 1,
-    "explanation": "It names one factor and one outcome.",
-    "structuredExplanation": {
-      "summary": "It names one factor and one outcome."
-    },
-    "stage": "apply",
-    "difficulty": 2,
-    "difficultyTier": "apply",
-    "sequencePriority": 27,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
-  },
-  {
-    "id": "ac9s2i01-p-028",
-    "curriculumCode": "AC9S2I01",
-    "bank": "practice",
-    "skill": "questions and reasoned predictions",
-    "printable": true,
-    "type": "single",
-    "question": "A pattern doesn't always prove cause. What should students do?",
-    "audioPrompt": "A pattern doesn't always prove cause. What should students do?",
-    "visual": "",
-    "answers": [
-      "change results",
-      "announce cause immediately",
-      "test the relationship fairly"
-    ],
-    "correct": 2,
-    "explanation": "A fair investigation checks the proposed relationship.",
-    "structuredExplanation": {
-      "summary": "A fair investigation checks the proposed relationship."
-    },
-    "stage": "apply",
-    "difficulty": 2,
-    "difficultyTier": "apply",
-    "sequencePriority": 28,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
-  },
-  {
-    "id": "ac9s2i01-p-029",
-    "curriculumCode": "AC9S2I01",
-    "bank": "practice",
-    "skill": "questions and reasoned predictions",
-    "printable": true,
-    "type": "single",
-    "question": "Why write a prediction before testing?",
-    "audioPrompt": "Why write a prediction before testing?",
-    "visual": "",
-    "answers": [
-      "so it can be compared with the result",
-      "to avoid observing",
-      "so it can be changed later"
-    ],
-    "correct": 0,
-    "explanation": "A written prediction supports honest comparison.",
-    "structuredExplanation": {
-      "summary": "A written prediction supports honest comparison."
-    },
-    "stage": "apply",
-    "difficulty": 2,
-    "difficultyTier": "apply",
-    "sequencePriority": 29,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
-  },
-  {
-    "id": "ac9s2i01-p-030",
-    "curriculumCode": "AC9S2I01",
-    "bank": "practice",
-    "skill": "questions and reasoned predictions",
-    "printable": true,
-    "type": "single",
-    "question": "A test gives an unexpected result. What can happen next?",
-    "audioPrompt": "A test gives an unexpected result. What can happen next?",
-    "visual": "",
-    "answers": [
-      "pose a new question",
-      "hide the result",
-      "change it to match"
-    ],
-    "correct": 0,
-    "explanation": "Unexpected evidence can lead to further inquiry.",
-    "structuredExplanation": {
-      "summary": "Unexpected evidence can lead to further inquiry."
-    },
-    "stage": "apply",
-    "difficulty": 2,
-    "difficultyTier": "apply",
-    "sequencePriority": 30,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
-  },
-  {
-    "id": "ac9s2i01-p-031",
-    "curriculumCode": "AC9S2I01",
-    "bank": "practice",
-    "skill": "questions and reasoned predictions",
-    "printable": true,
-    "type": "single",
-    "question": "What does investigable mean?",
-    "audioPrompt": "What does investigable mean?",
-    "visual": "",
-    "answers": [
-      "able to be explored using observations or a safe test",
-      "already answered by guessing",
-      "impossible to observe"
-    ],
-    "correct": 0,
-    "explanation": "Investigable questions can be explored scientifically.",
-    "structuredExplanation": {
-      "summary": "Investigable questions can be explored scientifically."
-    },
-    "stage": "apply",
-    "difficulty": 2,
-    "difficultyTier": "apply",
-    "sequencePriority": 31,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
-  },
-  {
-    "id": "ac9s2i01-p-032",
-    "curriculumCode": "AC9S2I01",
-    "bank": "practice",
-    "skill": "questions and reasoned predictions",
-    "printable": true,
-    "type": "single",
-    "question": "What is a prediction?",
-    "audioPrompt": "What is a prediction?",
-    "visual": "",
-    "answers": [
-      "a changed result",
-      "a reasoned statement about what may happen",
-      "a list of equipment"
-    ],
-    "correct": 1,
-    "explanation": "It is made before the outcome is known.",
-    "structuredExplanation": {
-      "summary": "It is made before the outcome is known."
-    },
-    "stage": "apply",
-    "difficulty": 2,
-    "difficultyTier": "apply",
-    "sequencePriority": 32,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
-  },
-  {
-    "id": "ac9s2i01-p-033",
-    "curriculumCode": "AC9S2I01",
-    "bank": "practice",
-    "skill": "questions and reasoned predictions",
-    "printable": true,
-    "type": "single",
-    "question": "One plant has broad leaves and another has narrow leaves. What could the class compare?",
-    "audioPrompt": "One plant has broad leaves and another has narrow leaves. What could the class compare?",
-    "visual": "",
-    "answers": [
-      "Which plant is luckiest",
-      "The widths of the leaves",
-      "Which plant has the nicest name"
-    ],
-    "correct": 1,
-    "explanation": "Leaf width is an observable feature that can be compared.",
-    "structuredExplanation": {
-      "summary": "Leaf width is an observable feature that can be compared."
-    },
-    "stage": "reason",
-    "difficulty": 3,
-    "difficultyTier": "reason",
-    "sequencePriority": 33,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
-  },
-  {
-    "id": "ac9s2i01-p-034",
-    "curriculumCode": "AC9S2I01",
-    "bank": "practice",
-    "skill": "questions and reasoned predictions",
-    "printable": true,
-    "type": "single",
-    "question": "A toy car rolled farther on tile than carpet. Which prediction is based on this observation?",
-    "audioPrompt": "A toy car rolled farther on tile than carpet. Which prediction is based on this observation?",
-    "visual": "",
-    "answers": [
-      "It will always roll exactly 2 metres on tile",
-      "Carpet can never let anything move",
-      "It may roll farther on tile again in a similar test"
-    ],
-    "correct": 2,
-    "explanation": "A prediction should use the observed pattern without claiming certainty.",
-    "structuredExplanation": {
-      "summary": "A prediction should use the observed pattern without claiming certainty."
-    },
-    "stage": "reason",
-    "difficulty": 3,
-    "difficultyTier": "reason",
-    "sequencePriority": 34,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
-  },
-  {
-    "id": "ac9s2i01-p-035",
-    "curriculumCode": "AC9S2I01",
-    "bank": "practice",
-    "skill": "questions and reasoned predictions",
-    "printable": true,
-    "type": "single",
-    "question": "A class wonders whether warm water dissolves sugar faster than cool water. What should they do before testing?",
-    "audioPrompt": "A class wonders whether warm water dissolves sugar faster than cool water. What should they do before testing?",
-    "visual": "",
-    "answers": [
-      "Choose the answer they hope to get",
-      "Change several factors at once",
-      "State what they think may happen and why"
-    ],
-    "correct": 2,
-    "explanation": "A reasoned prediction is made before the investigation.",
-    "structuredExplanation": {
-      "summary": "A reasoned prediction is made before the investigation."
-    },
-    "stage": "reason",
-    "difficulty": 3,
-    "difficultyTier": "reason",
-    "sequencePriority": 35,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
-  },
-  {
-    "id": "ac9s2i01-p-036",
-    "curriculumCode": "AC9S2I01",
-    "bank": "practice",
-    "skill": "questions and reasoned predictions",
-    "printable": true,
-    "type": "single",
-    "question": "Which question is most suitable for a simple classroom investigation?",
-    "audioPrompt": "Which question is most suitable for a simple classroom investigation?",
-    "visual": "",
-    "answers": [
-      "Why is one brand famous?",
-      "Which paper towel absorbs more water?",
-      "Which paper towel is the best in the world?"
-    ],
-    "correct": 1,
-    "explanation": "The amount absorbed can be measured and compared.",
-    "structuredExplanation": {
-      "summary": "The amount absorbed can be measured and compared."
-    },
-    "stage": "reason",
-    "difficulty": 3,
-    "difficultyTier": "reason",
-    "sequencePriority": 36,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
-  },
-  {
-    "id": "ac9s2i01-p-037",
-    "curriculumCode": "AC9S2I01",
-    "bank": "practice",
-    "skill": "questions and reasoned predictions",
-    "printable": true,
-    "type": "single",
-    "question": "A child sees ants visiting crumbs near a bench. Which question follows from the observation?",
-    "audioPrompt": "A child sees ants visiting crumbs near a bench. Which question follows from the observation?",
-    "visual": "",
-    "answers": [
-      "Do ants know my name?",
-      "Do ants visit the crumb area more often when food is present?",
-      "Are ants secretly planning a party?"
-    ],
-    "correct": 1,
-    "explanation": "Useful inquiry questions connect directly to something observed.",
-    "structuredExplanation": {
-      "summary": "Useful inquiry questions connect directly to something observed."
-    },
-    "stage": "reason",
-    "difficulty": 3,
-    "difficultyTier": "reason",
-    "sequencePriority": 37,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
-  },
-  {
-    "id": "ac9s2i01-p-038",
-    "curriculumCode": "AC9S2I01",
-    "bank": "practice",
-    "skill": "questions and reasoned predictions",
-    "printable": true,
-    "type": "single",
-    "question": "The same shadow was longer in the morning than at midday. Which prediction could be tested later?",
-    "audioPrompt": "The same shadow was longer in the morning than at midday. Which prediction could be tested later?",
-    "visual": "",
-    "answers": [
-      "The pole will grow taller by sunset",
-      "The shadow may become longer again later in the afternoon",
-      "The shadow will disappear forever"
-    ],
-    "correct": 1,
-    "explanation": "A prediction can extend an observed pattern to a later observation.",
-    "structuredExplanation": {
-      "summary": "A prediction can extend an observed pattern to a later observation."
-    },
-    "stage": "reason",
-    "difficulty": 3,
-    "difficultyTier": "reason",
-    "sequencePriority": 38,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
-  },
-  {
-    "id": "ac9s2i01-p-039",
-    "curriculumCode": "AC9S2I01",
-    "bank": "practice",
-    "skill": "questions and reasoned predictions",
-    "printable": true,
-    "type": "single",
-    "question": "A student asks, “Will a steeper ramp make the car travel farther?” What makes this a scientific question?",
-    "audioPrompt": "A student asks, “Will a steeper ramp make the car travel farther?” What makes this a scientific question?",
-    "visual": "",
-    "answers": [
-      "The ramp and travel distance can be changed or measured",
-      "It can only be answered by opinion",
-      "It already gives the result"
-    ],
-    "correct": 0,
-    "explanation": "Scientific questions can be explored with observations or measurements.",
-    "structuredExplanation": {
-      "summary": "Scientific questions can be explored with observations or measurements."
-    },
-    "stage": "reason",
-    "difficulty": 3,
-    "difficultyTier": "reason",
-    "sequencePriority": 39,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
-  },
-  {
-    "id": "ac9s2i01-p-040",
-    "curriculumCode": "AC9S2I01",
-    "bank": "practice",
-    "skill": "questions and reasoned predictions",
-    "printable": true,
-    "type": "single",
-    "question": "A class predicts that a thicker rubber band will make a lower sound. What should happen next?",
-    "audioPrompt": "A class predicts that a thicker rubber band will make a lower sound. What should happen next?",
-    "visual": "",
-    "answers": [
-      "Ignore any different result",
-      "Test the rubber bands and record what is heard",
-      "Change the prediction after seeing the result"
-    ],
-    "correct": 1,
-    "explanation": "Predictions are checked against evidence from an investigation.",
-    "structuredExplanation": {
-      "summary": "Predictions are checked against evidence from an investigation."
-    },
-    "stage": "reason",
-    "difficulty": 3,
-    "difficultyTier": "reason",
-    "sequencePriority": 40,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
-  },
-  {
-    "id": "ac9s2i01-p-041",
-    "curriculumCode": "AC9S2I01",
-    "bank": "practice",
-    "skill": "questions and reasoned predictions",
-    "printable": true,
-    "type": "single",
-    "question": "Water beads on a waxy leaf but spreads on paper. What could you ask next?",
-    "audioPrompt": "Water beads on a waxy leaf but spreads on paper. What could you ask next?",
-    "visual": "",
-    "answers": [
-      "Does water spread the same way on both surfaces?",
-      "Which surface has the nicest name?",
-      "Does water prefer green things?"
-    ],
-    "correct": 0,
-    "explanation": "The question follows a visible difference and can be checked with drops of water.",
-    "structuredExplanation": {
-      "summary": "The question follows a visible difference and can be checked with drops of water."
-    },
-    "stage": "reason",
-    "difficulty": 3,
-    "difficultyTier": "reason",
-    "sequencePriority": 41,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
-  },
-  {
-    "id": "ac9s2i01-p-042",
-    "curriculumCode": "AC9S2I01",
-    "bank": "practice",
-    "skill": "questions and reasoned predictions",
-    "printable": true,
-    "type": "single",
-    "question": "A sponge springs back after a gentle squeeze. Predict what a second gentle squeeze may do.",
-    "audioPrompt": "A sponge springs back after a gentle squeeze. Predict what a second gentle squeeze may do.",
-    "visual": "",
-    "answers": [
-      "It will become a stone",
-      "It will stay flat forever",
-      "It may spring back again"
-    ],
-    "correct": 2,
-    "explanation": "The first squeeze provides a reason to expect the sponge to return to its shape.",
-    "structuredExplanation": {
-      "summary": "The first squeeze provides a reason to expect the sponge to return to its shape."
-    },
-    "stage": "reason",
-    "difficulty": 3,
-    "difficultyTier": "reason",
-    "sequencePriority": 42,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
-  },
-  {
-    "id": "ac9s2i01-p-043",
-    "curriculumCode": "AC9S2I01",
-    "bank": "practice",
-    "skill": "questions and reasoned predictions",
-    "printable": true,
-    "type": "single",
-    "question": "A seed pod rattles when shaken. What question could help explain the sound?",
-    "audioPrompt": "A seed pod rattles when shaken. What question could help explain the sound?",
-    "visual": "",
-    "answers": [
-      "Is the pod the best one?",
-      "Does the pod enjoy being shaken?",
-      "Does the sound change when the seeds cannot move?"
-    ],
-    "correct": 2,
-    "explanation": "Comparing moving and held-still seeds can help explore what makes the sound.",
-    "structuredExplanation": {
-      "summary": "Comparing moving and held-still seeds can help explore what makes the sound."
-    },
-    "stage": "reason",
-    "difficulty": 3,
-    "difficultyTier": "reason",
-    "sequencePriority": 43,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
-  },
-  {
-    "id": "ac9s2i01-p-044",
-    "curriculumCode": "AC9S2I01",
-    "bank": "practice",
-    "skill": "questions and reasoned predictions",
-    "printable": true,
-    "type": "single",
-    "question": "A paper strip bends under one block. A folded strip stays up. What could you predict about another folded strip?",
-    "audioPrompt": "A paper strip bends under one block. A folded strip stays up. What could you predict about another folded strip?",
-    "visual": "",
-    "answers": [
-      "It may hold one block without bending much",
-      "It must hold every block in the room",
-      "It cannot bend at all"
-    ],
-    "correct": 0,
-    "explanation": "The first comparison supports a cautious prediction about another folded strip.",
-    "structuredExplanation": {
-      "summary": "The first comparison supports a cautious prediction about another folded strip."
-    },
-    "stage": "reason",
-    "difficulty": 3,
-    "difficultyTier": "reason",
-    "sequencePriority": 44,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
-  },
-  {
-    "id": "ac9s2i01-p-045",
-    "curriculumCode": "AC9S2I01",
-    "bank": "practice",
-    "skill": "questions and reasoned predictions",
-    "printable": true,
-    "type": "single",
-    "question": "Snails were seen under damp leaves on three mornings. What question follows this pattern?",
-    "audioPrompt": "Snails were seen under damp leaves on three mornings. What question follows this pattern?",
-    "visual": "",
-    "answers": [
-      "Which snail has the best shell?",
-      "Are more snails found under damp leaves than dry leaves?",
-      "Do snails know the days of the week?"
-    ],
-    "correct": 1,
-    "explanation": "The class can compare counts while leaving snails undisturbed.",
-    "structuredExplanation": {
-      "summary": "The class can compare counts while leaving snails undisturbed."
-    },
-    "stage": "reason",
-    "difficulty": 3,
-    "difficultyTier": "reason",
-    "sequencePriority": 45,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
-  },
-  {
-    "id": "ac9s2i01-p-046",
-    "curriculumCode": "AC9S2I01",
-    "bank": "practice",
-    "skill": "questions and reasoned predictions",
-    "printable": true,
-    "type": "single",
-    "question": "A wind spinner turns quickly in a breeze. What might happen when the breeze stops?",
-    "audioPrompt": "A wind spinner turns quickly in a breeze. What might happen when the breeze stops?",
-    "visual": "",
-    "answers": [
-      "The spinner will turn into paper",
-      "The spinner must turn faster",
-      "The spinner may slow down"
-    ],
-    "correct": 2,
-    "explanation": "The observation links moving air with the spinner turning.",
-    "structuredExplanation": {
-      "summary": "The observation links moving air with the spinner turning."
-    },
-    "stage": "reason",
-    "difficulty": 3,
-    "difficultyTier": "reason",
-    "sequencePriority": 46,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
-  },
-  {
-    "id": "ac9s2i01-p-047",
-    "curriculumCode": "AC9S2I01",
-    "bank": "practice",
-    "skill": "questions and reasoned predictions",
-    "printable": true,
-    "type": "single",
-    "question": "A wet footprint fades from the path. Which question could a class explore?",
-    "audioPrompt": "A wet footprint fades from the path. Which question could a class explore?",
-    "visual": "",
-    "answers": [
-      "How long does the footprint stay visible?",
-      "Was it a lucky footprint?",
-      "Does the footprint like the path?"
-    ],
-    "correct": 0,
-    "explanation": "The time until the mark fades can be observed and recorded.",
-    "structuredExplanation": {
-      "summary": "The time until the mark fades can be observed and recorded."
-    },
-    "stage": "reason",
-    "difficulty": 3,
-    "difficultyTier": "reason",
-    "sequencePriority": 47,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
-  },
-  {
-    "id": "ac9s2i01-p-048",
-    "curriculumCode": "AC9S2I01",
-    "bank": "practice",
-    "skill": "questions and reasoned predictions",
-    "printable": true,
-    "type": "single",
-    "question": "A foil boat holds blocks, then sinks when another is added. What could you investigate next?",
-    "audioPrompt": "A foil boat holds blocks, then sinks when another is added. What could you investigate next?",
-    "visual": "",
-    "answers": [
-      "Which boat looks happiest?",
-      "Can foil remember the blocks?",
-      "Would a wider foil boat hold more blocks?"
-    ],
-    "correct": 2,
-    "explanation": "Changing boat width gives a new question about the observed result.",
-    "structuredExplanation": {
-      "summary": "Changing boat width gives a new question about the observed result."
-    },
-    "stage": "reason",
-    "difficulty": 3,
-    "difficultyTier": "reason",
-    "sequencePriority": 48,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
+    "qualitySchema": "skillr-reviewed-y2-science-v2",
+    "gradingMode": "adult-review",
+    "modelAnswer": "Example: My sponge squashed and sprang back before. I predict it will spring back after another gentle squeeze.",
+    "acceptanceNote": "Adult check: accept a relevant past observation and a connected prediction about repeating the action. A real example is required; assess the evidence link rather than exact wording."
   },
   {
     "id": "ac9s2i01-t-001",
@@ -1254,24 +554,21 @@
     "skill": "questions and reasoned predictions",
     "printable": true,
     "type": "single",
-    "question": "A child notices wet clothes dry faster outdoors on breezy days. Which question could investigate the pattern?",
-    "audioPrompt": "A child notices wet clothes dry faster outdoors on breezy days. Which question could investigate the pattern?",
+    "question": "A thin card strip bends easily, while a thicker strip of the same card is harder to bend. Which question explores the difference?",
+    "audioPrompt": "A thin card strip bends easily, while a thicker strip of the same card is harder to bend. Which question explores the difference?",
     "visual": "",
     "answers": [
-      "Does moving air affect how quickly the same wet cloth dries?",
-      "Do clothes like being outside?",
-      "Why is blue a good colour?"
+      "Which card is the most attractive?",
+      "Who cut the strips?",
+      "Does thickness affect how easily card bends?"
     ],
-    "correct": 0,
-    "explanation": "Drying time can be observed while moving air is compared.",
+    "correct": 2,
+    "explanation": "The question links the observed bending difference with thickness.",
     "structuredExplanation": {
-      "summary": "Drying time can be observed while moving air is compared."
+      "summary": "The question links the observed bending difference with thickness."
     },
-    "stage": "recognise",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
     "sequencePriority": 1,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
+    "qualitySchema": "skillr-reviewed-y2-science-v2"
   },
   {
     "id": "ac9s2i01-t-002",
@@ -1280,24 +577,21 @@
     "skill": "questions and reasoned predictions",
     "printable": true,
     "type": "single",
-    "question": "Two identical ice cubes are placed in sun and shade. Which is the best prediction before starting?",
-    "audioPrompt": "Two identical ice cubes are placed in sun and shade. Which is the best prediction before starting?",
+    "question": "On several afternoons, the same tree's shadow reached the fence. Which prediction fits another similar clear afternoon?",
+    "audioPrompt": "On several afternoons, the same tree's shadow reached the fence. Which prediction fits another similar clear afternoon?",
     "visual": "",
     "answers": [
-      "The cube in sunlight may melt faster because it receives more heating",
-      "Both cubes must melt in exactly 10 seconds",
-      "Sunlight will make the cube larger forever"
+      "Its shadow may reach the fence again.",
+      "Its shadow will never reach the fence again.",
+      "Every tree's shadow must reach that fence."
     ],
     "correct": 0,
-    "explanation": "A good prediction states an expected result and a relevant reason.",
+    "explanation": "The repeated observation supports a prediction about this tree in similar conditions.",
     "structuredExplanation": {
-      "summary": "A good prediction states an expected result and a relevant reason."
+      "summary": "The repeated observation supports a prediction about this tree in similar conditions."
     },
-    "stage": "recognise",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
     "sequencePriority": 2,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
+    "qualitySchema": "skillr-reviewed-y2-science-v2"
   },
   {
     "id": "ac9s2i01-t-003",
@@ -1306,24 +600,21 @@
     "skill": "questions and reasoned predictions",
     "printable": true,
     "type": "single",
-    "question": "Birds visit a tree at breakfast and lunch. Which question could a class test by counting?",
-    "audioPrompt": "Birds visit a tree at breakfast and lunch. Which question could a class test by counting?",
+    "question": "A child expects clay to flatten under a gentle press. Which reason uses experience?",
+    "audioPrompt": "A child expects clay to flatten under a gentle press. Which reason uses experience?",
     "visual": "",
     "answers": [
-      "Which bird is the prettiest?",
-      "Do birds enjoy clocks?",
-      "Are there more bird visits at breakfast or lunch?"
+      "The same clay flattened when pressed before.",
+      "Flat shapes are the child's favourite.",
+      "The child wants the answer to be flatten."
     ],
-    "correct": 2,
-    "explanation": "Bird visits can be counted for equal observation times and compared.",
+    "correct": 0,
+    "explanation": "An earlier response of the same clay is relevant evidence.",
     "structuredExplanation": {
-      "summary": "Bird visits can be counted for equal observation times and compared."
+      "summary": "An earlier response of the same clay is relevant evidence."
     },
-    "stage": "recognise",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
     "sequencePriority": 3,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
+    "qualitySchema": "skillr-reviewed-y2-science-v2"
   },
   {
     "id": "ac9s2i01-t-004",
@@ -1332,24 +623,21 @@
     "skill": "questions and reasoned predictions",
     "printable": true,
     "type": "single",
-    "question": "A student predicts a ball will bounce higher on concrete than grass. What evidence would test the prediction?",
-    "audioPrompt": "A student predicts a ball will bounce higher on concrete than grass. What evidence would test the prediction?",
+    "question": "A leaf rubs noisily against rough card but quietly against smooth card. Which question follows?",
+    "audioPrompt": "A leaf rubs noisily against rough card but quietly against smooth card. Which question follows?",
     "visual": "",
     "answers": [
-      "Record the ball colour only",
-      "Measure or compare the bounce height on each surface",
-      "Ask which surface looks better"
+      "Which leaf looks most cheerful?",
+      "Does the rubbing surface affect the sound?",
+      "Whose card has the nicest colour?"
     ],
     "correct": 1,
-    "explanation": "The prediction is about bounce height, so that is the outcome to observe.",
+    "explanation": "The question explores a relationship between surface and sound.",
     "structuredExplanation": {
-      "summary": "The prediction is about bounce height, so that is the outcome to observe."
+      "summary": "The question explores a relationship between surface and sound."
     },
-    "stage": "recognise",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
     "sequencePriority": 4,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
+    "qualitySchema": "skillr-reviewed-y2-science-v2"
   },
   {
     "id": "ac9s2i01-t-005",
@@ -1358,24 +646,21 @@
     "skill": "questions and reasoned predictions",
     "printable": true,
     "type": "single",
-    "question": "A child asks whether larger paper planes fly farther. What must be clear before testing?",
-    "audioPrompt": "A child asks whether larger paper planes fly farther. What must be clear before testing?",
+    "question": "Which sentence belongs in a prediction box before a test?",
+    "audioPrompt": "Which sentence belongs in a prediction box before a test?",
     "visual": "",
     "answers": [
-      "How to make every plane a different shape and material",
-      "What counts as larger and how flight distance will be compared",
-      "Which result the child wants"
+      "The longer ribbon may twist more times before becoming tight.",
+      "The longer ribbon twisted four times in our test.",
+      "We wrote four twists in the results table."
     ],
-    "correct": 1,
-    "explanation": "Clear variables and observations make the question testable.",
+    "correct": 0,
+    "explanation": "Only the first sentence proposes a future result.",
     "structuredExplanation": {
-      "summary": "Clear variables and observations make the question testable."
+      "summary": "Only the first sentence proposes a future result."
     },
-    "stage": "recognise",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
     "sequencePriority": 5,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
+    "qualitySchema": "skillr-reviewed-y2-science-v2"
   },
   {
     "id": "ac9s2i01-t-006",
@@ -1384,24 +669,21 @@
     "skill": "questions and reasoned predictions",
     "printable": true,
     "type": "single",
-    "question": "A prediction says, “The dark fabric may warm faster in sunlight.” Which result would support it?",
-    "audioPrompt": "A prediction says, “The dark fabric may warm faster in sunlight.” Which result would support it?",
+    "question": "Two similar puddles shrink at different speeds in sun and shade. Which question could guide an investigation?",
+    "audioPrompt": "Two similar puddles shrink at different speeds in sun and shade. Which question could guide an investigation?",
     "visual": "",
     "answers": [
-      "The thermometer is blue",
-      "The light fabric has a nicer pattern",
-      "The dark fabric reaches a higher temperature sooner in the test"
+      "Which puddle has the best outline?",
+      "Does sunlight affect how quickly these puddles shrink?",
+      "Who enjoys jumping in puddles?"
     ],
-    "correct": 2,
-    "explanation": "Supporting evidence must match the predicted outcome.",
+    "correct": 1,
+    "explanation": "The question links the observed difference in shrinking with sunlight.",
     "structuredExplanation": {
-      "summary": "Supporting evidence must match the predicted outcome."
+      "summary": "The question links the observed difference in shrinking with sunlight."
     },
-    "stage": "recognise",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
     "sequencePriority": 6,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
+    "qualitySchema": "skillr-reviewed-y2-science-v2"
   },
   {
     "id": "ac9s2i01-t-007",
@@ -1410,24 +692,21 @@
     "skill": "questions and reasoned predictions",
     "printable": true,
     "type": "single",
-    "question": "A class observes that magnets pick up paper clips but not wooden craft sticks. Which prediction is reasonable?",
-    "audioPrompt": "A class observes that magnets pick up paper clips but not wooden craft sticks. Which prediction is reasonable?",
+    "question": "A child asks, 'What happens to things?' Which question is clearer?",
+    "audioPrompt": "A child asks, 'What happens to things?' Which question is clearer?",
     "visual": "",
     "answers": [
-      "Every object in the room will be attracted",
-      "Wood will always become metal",
-      "Another similar metal paper clip may also be attracted"
+      "Why are all things different?",
+      "Which thing is best?",
+      "What happens to a sponge's shape when it is squeezed?"
     ],
     "correct": 2,
-    "explanation": "Predictions should stay close to the observed evidence.",
+    "explanation": "The clear question names the object, action and feature to observe.",
     "structuredExplanation": {
-      "summary": "Predictions should stay close to the observed evidence."
+      "summary": "The clear question names the object, action and feature to observe."
     },
-    "stage": "recognise",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
     "sequencePriority": 7,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
+    "qualitySchema": "skillr-reviewed-y2-science-v2"
   },
   {
     "id": "ac9s2i01-t-008",
@@ -1436,24 +715,21 @@
     "skill": "questions and reasoned predictions",
     "printable": true,
     "type": "single",
-    "question": "Which question would need changing before it can be investigated scientifically?",
-    "audioPrompt": "Which question would need changing before it can be investigated scientifically?",
+    "question": "Every gentle tap in a bell test made a short sound. Which prediction is best supported?",
+    "audioPrompt": "Every gentle tap in a bell test made a short sound. Which prediction is best supported?",
     "visual": "",
     "answers": [
-      "Which rock is roughest to touch?",
-      "Which rock is heaviest?",
-      "Which rock is the most beautiful?"
+      "The bell can never make any other sound.",
+      "The bell will certainly ring all day.",
+      "Another similar tap may make a short sound."
     ],
     "correct": 2,
-    "explanation": "Beauty is mainly an opinion, while the other features can be observed or measured.",
+    "explanation": "The evidence supports a likely result for a similar action, not an unlimited claim.",
     "structuredExplanation": {
-      "summary": "Beauty is mainly an opinion, while the other features can be observed or measured."
+      "summary": "The evidence supports a likely result for a similar action, not an unlimited claim."
     },
-    "stage": "recognise",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
     "sequencePriority": 8,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
+    "qualitySchema": "skillr-reviewed-y2-science-v2"
   },
   {
     "id": "ac9s2i01-t-009",
@@ -1462,24 +738,21 @@
     "skill": "questions and reasoned predictions",
     "printable": true,
     "type": "single",
-    "question": "A class gives similar seedlings different amounts of water. Which prediction fits this question?",
-    "audioPrompt": "A class gives similar seedlings different amounts of water. Which prediction fits this question?",
+    "question": "A class notices a plant leaning towards a window. Which question explores the relationship?",
+    "audioPrompt": "A class notices a plant leaning towards a window. Which question explores the relationship?",
     "visual": "",
     "answers": [
-      "Every seedling will grow fastest with unlimited water",
-      "Seedlings given some water may grow more than those given none",
-      "Watering will turn seedlings into soil"
+      "Does the direction of the light affect how it grows?",
+      "Does the plant have a nice name?",
+      "Which child likes the window most?"
     ],
-    "correct": 1,
-    "explanation": "The prediction gives a possible growth difference that can be checked.",
+    "correct": 0,
+    "explanation": "The question connects growth direction with the direction of light.",
     "structuredExplanation": {
-      "summary": "The prediction gives a possible growth difference that can be checked."
+      "summary": "The question connects growth direction with the direction of light."
     },
-    "stage": "recognise",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
     "sequencePriority": 9,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
+    "qualitySchema": "skillr-reviewed-y2-science-v2"
   },
   {
     "id": "ac9s2i01-t-010",
@@ -1488,24 +761,21 @@
     "skill": "questions and reasoned predictions",
     "printable": true,
     "type": "single",
-    "question": "A class notices a metal spoon feels cooler than a wooden spoon in the same room. What is a useful next question?",
-    "audioPrompt": "A class notices a metal spoon feels cooler than a wooden spoon in the same room. What is a useful next question?",
+    "question": "A child predicts new paper will absorb water like paper tested earlier. Which information would make the prediction stronger?",
+    "audioPrompt": "A child predicts new paper will absorb water like paper tested earlier. Which information would make the prediction stronger?",
     "visual": "",
     "answers": [
-      "Do different materials feel equally cool when kept in the same place?",
-      "Why is metal shiny?",
-      "Which spoon has the best name?"
+      "The papers have names of the same length.",
+      "The papers were carried by the same person.",
+      "The papers are the same kind and thickness."
     ],
-    "correct": 0,
-    "explanation": "The question follows directly from an observation and can be compared.",
+    "correct": 2,
+    "explanation": "Matching relevant material features makes the previous result more useful.",
     "structuredExplanation": {
-      "summary": "The question follows directly from an observation and can be compared."
+      "summary": "Matching relevant material features makes the previous result more useful."
     },
-    "stage": "recognise",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
     "sequencePriority": 10,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
+    "qualitySchema": "skillr-reviewed-y2-science-v2"
   },
   {
     "id": "ac9s2i01-t-011",
@@ -1514,24 +784,21 @@
     "skill": "questions and reasoned predictions",
     "printable": true,
     "type": "single",
-    "question": "A child predicts that adding more books to a toy bridge will make it bend more. Which result would not support the prediction?",
-    "audioPrompt": "A child predicts that adding more books to a toy bridge will make it bend more. Which result would not support the prediction?",
+    "question": "A toy car rolled farther after a firm push than after a gentle push. Which question explores the action and result?",
+    "audioPrompt": "A toy car rolled farther after a firm push than after a gentle push. Which question explores the action and result?",
     "visual": "",
     "answers": [
-      "The bridge starts nearly straight",
-      "The bridge bends less as more books are added",
-      "The bridge bends more after each added book"
+      "Does push strength affect how far the car moves?",
+      "Which car colour is most popular?",
+      "Is this the best toy in the room?"
     ],
-    "correct": 1,
-    "explanation": "A result in the opposite direction doesn't support the predicted pattern.",
+    "correct": 0,
+    "explanation": "The question connects the strength of the push with the car's movement.",
     "structuredExplanation": {
-      "summary": "A result in the opposite direction doesn't support the predicted pattern."
+      "summary": "The question connects the strength of the push with the car's movement."
     },
-    "stage": "recognise",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
     "sequencePriority": 11,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
+    "qualitySchema": "skillr-reviewed-y2-science-v2"
   },
   {
     "id": "ac9s2i01-t-012",
@@ -1540,24 +807,21 @@
     "skill": "questions and reasoned predictions",
     "printable": true,
     "type": "single",
-    "question": "A class wants to ask whether sound becomes softer with distance. Which question is clearest?",
-    "audioPrompt": "A class wants to ask whether sound becomes softer with distance. Which question is clearest?",
+    "question": "Three sky records show the same star group above different parts of a shed as the night passes. What might happen in another later record?",
+    "audioPrompt": "Three sky records show the same star group above different parts of a shed as the night passes. What might happen in another later record?",
     "visual": "",
     "answers": [
-      "Is sound good?",
-      "does distance change loudness?",
-      "Why is music fun?"
+      "The group must remain in its first recorded place.",
+      "The shed must disappear.",
+      "The group may appear above a different part of the shed again."
     ],
-    "correct": 1,
-    "explanation": "The clear question identifies what changes and what is observed.",
+    "correct": 2,
+    "explanation": "The records support further apparent movement compared with the fixed shed.",
     "structuredExplanation": {
-      "summary": "The clear question identifies what changes and what is observed."
+      "summary": "The records support further apparent movement compared with the fixed shed."
     },
-    "stage": "recognise",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
     "sequencePriority": 12,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
+    "qualitySchema": "skillr-reviewed-y2-science-v2"
   },
   {
     "id": "ac9s2i01-t-013",
@@ -1566,24 +830,21 @@
     "skill": "questions and reasoned predictions",
     "printable": true,
     "type": "single",
-    "question": "A student calls a statement a prediction after seeing the test result. What is the problem?",
-    "audioPrompt": "A student calls a statement a prediction after seeing the test result. What is the problem?",
+    "question": "A child predicts a new cloth will dry quickly because it feels thin. Which experience would best support that reason?",
+    "audioPrompt": "A child predicts a new cloth will dry quickly because it feels thin. Which experience would best support that reason?",
     "visual": "",
     "answers": [
-      "A prediction should say what may happen before testing",
-      "Results should be changed to match predictions",
-      "Tests must never have results"
+      "The cloth came from a large shop.",
+      "Similar thin cloth dried quickly in earlier tests.",
+      "The child likes thin cloth."
     ],
-    "correct": 0,
-    "explanation": "A prediction is made before the outcome is known.",
+    "correct": 1,
+    "explanation": "Previous drying observations of similar cloth provide relevant support.",
     "structuredExplanation": {
-      "summary": "A prediction is made before the outcome is known."
+      "summary": "Previous drying observations of similar cloth provide relevant support."
     },
-    "stage": "recognise",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
     "sequencePriority": 13,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
+    "qualitySchema": "skillr-reviewed-y2-science-v2"
   },
   {
     "id": "ac9s2i01-t-014",
@@ -1592,24 +853,21 @@
     "skill": "questions and reasoned predictions",
     "printable": true,
     "type": "single",
-    "question": "A plant leans towards a window. The pot is turned around. What might new growth do?",
-    "audioPrompt": "A plant leans towards a window. The pot is turned around. What might new growth do?",
+    "question": "A class wants to ask about sound travelling through materials. Which question could be checked with teacher-approved equipment?",
+    "audioPrompt": "A class wants to ask about sound travelling through materials. Which question could be checked with teacher-approved equipment?",
     "visual": "",
     "answers": [
-      "Turn the window around",
-      "Change into a lamp",
-      "Bend towards the light again"
+      "Which sound does everyone in the world prefer?",
+      "Can a tapping sound be heard through a taut string?",
+      "Is sound the nicest kind of energy?"
     ],
-    "correct": 2,
-    "explanation": "The first observation supports a prediction about new growth towards light.",
+    "correct": 1,
+    "explanation": "The first question has an observable outcome in a simple guided investigation.",
     "structuredExplanation": {
-      "summary": "The first observation supports a prediction about new growth towards light."
+      "summary": "The first question has an observable outcome in a simple guided investigation."
     },
-    "stage": "recognise",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
     "sequencePriority": 14,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
+    "qualitySchema": "skillr-reviewed-y2-science-v2"
   },
   {
     "id": "ac9s2i01-t-015",
@@ -1617,25 +875,21 @@
     "bank": "test",
     "skill": "questions and reasoned predictions",
     "printable": true,
-    "type": "single",
-    "question": "Which statement is a result rather than a prediction?",
-    "audioPrompt": "Which statement is a result rather than a prediction?",
+    "type": "self-check",
+    "question": "A ribbon twists easily, while a stiff strip resists twisting. Pose a question about these observations, then predict what might happen if each is twisted gently again. Give a reason.",
+    "audioPrompt": "A ribbon twists easily, while a stiff strip resists twisting. Pose a question about these observations, then predict what might happen if each is twisted gently again. Give a reason.",
     "visual": "",
-    "answers": [
-      "The car travelled 85 cm on the smooth ramp",
-      "The car may travel farther on the smooth ramp",
-      "I think the smooth ramp will be faster"
-    ],
-    "correct": 0,
-    "explanation": "A result reports what was actually observed or measured.",
+    "answers": [],
+    "correct": "Example: Does the strip material affect twisting? I predict the ribbon will twist more easily again because it did before.",
+    "explanation": "Adult check: require a testable question linking a feature to twisting, a prediction and a reason based on the supplied observations. Accept equivalent wording.",
     "structuredExplanation": {
-      "summary": "A result reports what was actually observed or measured."
+      "summary": "Adult check: require a testable question linking a feature to twisting, a prediction and a reason based on the supplied observations. Accept equivalent wording."
     },
-    "stage": "recognise",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
     "sequencePriority": 15,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
+    "qualitySchema": "skillr-reviewed-y2-science-v2",
+    "gradingMode": "adult-review",
+    "modelAnswer": "Example: Does the strip material affect twisting? I predict the ribbon will twist more easily again because it did before.",
+    "acceptanceNote": "Adult check: require a testable question linking a feature to twisting, a prediction and a reason based on the supplied observations. Accept equivalent wording."
   },
   {
     "id": "ac9s2i01-t-016",
@@ -1643,24 +897,20 @@
     "bank": "test",
     "skill": "questions and reasoned predictions",
     "printable": true,
-    "type": "single",
-    "question": "A prediction is not supported by the results. What should the student do?",
-    "audioPrompt": "A prediction is not supported by the results. What should the student do?",
+    "type": "self-check",
+    "question": "In earlier trials, a damp paper strip tore more easily than a dry strip of the same paper. Write or say a prediction for another pair and explain the evidence you used.",
+    "audioPrompt": "In earlier trials, a damp paper strip tore more easily than a dry strip of the same paper. Write or say a prediction for another pair and explain the evidence you used.",
     "visual": "",
-    "answers": [
-      "Record the result accurately and explain that the prediction was not supported",
-      "Change the result to match the prediction",
-      "Hide the result"
-    ],
-    "correct": 0,
-    "explanation": "Science reports evidence honestly even when it differs from a prediction.",
+    "answers": [],
+    "correct": "The damp strip will probably tear more easily because it did in earlier trials.",
+    "explanation": "Adult check: accept a prediction consistent with the repeated comparison and an explicit evidence link. A prediction is not a guarantee.",
     "structuredExplanation": {
-      "summary": "Science reports evidence honestly even when it differs from a prediction."
+      "summary": "Adult check: accept a prediction consistent with the repeated comparison and an explicit evidence link. A prediction is not a guarantee."
     },
-    "stage": "recognise",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
     "sequencePriority": 16,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
+    "qualitySchema": "skillr-reviewed-y2-science-v2",
+    "gradingMode": "adult-review",
+    "modelAnswer": "The damp strip will probably tear more easily because it did in earlier trials.",
+    "acceptanceNote": "Adult check: accept a prediction consistent with the repeated comparison and an explicit evidence link. A prediction is not a guarantee."
   }
 ]

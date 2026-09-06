@@ -7,24 +7,21 @@ window.skillrTestQuestions = [
     "skill": "safe and fair investigation planning",
     "printable": true,
     "type": "single",
-    "question": "Students compare how quickly ice melts in two places. Which variable should they deliberately change?",
-    "audioPrompt": "Students compare how quickly ice melts in two places. Which variable should they deliberately change?",
+    "question": "A class is ready to shake sealed containers of beads. Which preparation matters most?",
+    "audioPrompt": "A class is ready to shake sealed containers of beads. Which preparation matters most?",
     "visual": "",
     "answers": [
-      "The location, such as sun or shade",
-      "The type of ice for every trial",
-      "The starting time for each cube"
+      "Check that each lid is secure and the teacher approves the setup.",
+      "Open every lid while shaking.",
+      "Stand close to a partner's face."
     ],
     "correct": 0,
-    "explanation": "A fair comparison changes the factor being investigated while keeping others similar.",
+    "explanation": "Secure lids help prevent loose beads spilling during the sound test.",
     "structuredExplanation": {
-      "summary": "A fair comparison changes the factor being investigated while keeping others similar."
+      "summary": "Secure lids help prevent loose beads spilling during the sound test."
     },
-    "stage": "recognise",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
     "sequencePriority": 1,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
+    "qualitySchema": "skillr-reviewed-y2-science-v2"
   },
   {
     "id": "ac9s2i02-t-002",
@@ -33,24 +30,21 @@ window.skillrTestQuestions = [
     "skill": "safe and fair investigation planning",
     "printable": true,
     "type": "single",
-    "question": "A class will use scissors to cut card. Which safety rule is appropriate?",
-    "audioPrompt": "A class will use scissors to cut card. Which safety rule is appropriate?",
+    "question": "A procedure tests whether foil keeps a folded shape. Which order is suitable?",
+    "audioPrompt": "A procedure tests whether foil keeps a folded shape. Which order is suitable?",
     "visual": "",
     "answers": [
-      "Carry scissors closed and use them as instructed",
-      "Leave them hidden on a chair",
-      "Run while holding them open"
+      "look at the foil, fold it gently, release it, observe",
+      "fold it, throw it away, then try to observe it",
+      "observe a picture, then record an untested result"
     ],
     "correct": 0,
-    "explanation": "Safe tool use reduces the chance of injury.",
+    "explanation": "The sequence lets the child compare the foil before and after the action.",
     "structuredExplanation": {
-      "summary": "Safe tool use reduces the chance of injury."
+      "summary": "The sequence lets the child compare the foil before and after the action."
     },
-    "stage": "recognise",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
     "sequencePriority": 2,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
+    "qualitySchema": "skillr-reviewed-y2-science-v2"
   },
   {
     "id": "ac9s2i02-t-003",
@@ -59,24 +53,21 @@ window.skillrTestQuestions = [
     "skill": "safe and fair investigation planning",
     "printable": true,
     "type": "single",
-    "question": "A student tests absorbency using 5 mL of water on one towel and 20 mL on another. What is wrong with the plan?",
-    "audioPrompt": "A student tests absorbency using 5 mL of water on one towel and 20 mL on another. What is wrong with the plan?",
+    "question": "A group wants to compare sounds from tapping wood and metal. Which action should the teacher approve?",
+    "audioPrompt": "A group wants to compare sounds from tapping wood and metal. Which action should the teacher approve?",
     "visual": "",
     "answers": [
-      "The amount of water is not kept the same",
-      "The towels are both paper",
-      "Water is being measured"
+      "Hard strikes beside a partner's ear.",
+      "Gentle taps with a suitable beater, away from ears.",
+      "Throwing the objects together across the room."
     ],
-    "correct": 0,
-    "explanation": "Different water amounts make the towel comparison unfair.",
+    "correct": 1,
+    "explanation": "Controlled, gentle taps let the class compare sounds at a suitable level.",
     "structuredExplanation": {
-      "summary": "Different water amounts make the towel comparison unfair."
+      "summary": "Controlled, gentle taps let the class compare sounds at a suitable level."
     },
-    "stage": "recognise",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
     "sequencePriority": 3,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
+    "qualitySchema": "skillr-reviewed-y2-science-v2"
   },
   {
     "id": "ac9s2i02-t-004",
@@ -85,24 +76,21 @@ window.skillrTestQuestions = [
     "skill": "safe and fair investigation planning",
     "printable": true,
     "type": "single",
-    "question": "Why might a class repeat the same ramp trial three times?",
-    "audioPrompt": "Why might a class repeat the same ramp trial three times?",
+    "question": "During a clay activity, a child finds an unknown powder on the table. What should they do?",
+    "audioPrompt": "During a clay activity, a child finds an unknown powder on the table. What should they do?",
     "visual": "",
     "answers": [
-      "To change the ramp each time",
-      "To check whether the result is reasonably consistent",
-      "To force every result to match"
+      "Taste a little to identify it.",
+      "Blow it towards another group.",
+      "Leave it alone and tell the teacher."
     ],
-    "correct": 1,
-    "explanation": "Repeats can show whether a pattern appears again.",
+    "correct": 2,
+    "explanation": "The child should not investigate an unknown substance by tasting or spreading it.",
     "structuredExplanation": {
-      "summary": "Repeats can show whether a pattern appears again."
+      "summary": "The child should not investigate an unknown substance by tasting or spreading it."
     },
-    "stage": "recognise",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
     "sequencePriority": 4,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
+    "qualitySchema": "skillr-reviewed-y2-science-v2"
   },
   {
     "id": "ac9s2i02-t-005",
@@ -111,24 +99,21 @@ window.skillrTestQuestions = [
     "skill": "safe and fair investigation planning",
     "printable": true,
     "type": "single",
-    "question": "A container spills during a classroom investigation. What should students do first?",
-    "audioPrompt": "A container spills during a classroom investigation. What should students do first?",
+    "question": "A group predicts a string becomes tighter when its ends move apart. Which plan tests this?",
+    "audioPrompt": "A group predicts a string becomes tighter when its ends move apart. Which plan tests this?",
     "visual": "",
     "answers": [
-      "Spread the spill across the floor",
-      "Stop and follow the teacher’s spill-safety instructions",
-      "Hide it with paper"
+      "Change the string's label and observe the label.",
+      "Move the ends apart gently as shown and observe the string.",
+      "Ask classmates which string is prettiest."
     ],
     "correct": 1,
-    "explanation": "Unexpected hazards should be dealt with safely before the investigation continues.",
+    "explanation": "The action must address the predicted relationship between end positions and tightness.",
     "structuredExplanation": {
-      "summary": "Unexpected hazards should be dealt with safely before the investigation continues."
+      "summary": "The action must address the predicted relationship between end positions and tightness."
     },
-    "stage": "recognise",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
     "sequencePriority": 5,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
+    "qualitySchema": "skillr-reviewed-y2-science-v2"
   },
   {
     "id": "ac9s2i02-t-006",
@@ -137,24 +122,21 @@ window.skillrTestQuestions = [
     "skill": "safe and fair investigation planning",
     "printable": true,
     "type": "single",
-    "question": "A fair sound test compares two rubber bands. Which factor could be changed on purpose?",
-    "audioPrompt": "A fair sound test compares two rubber bands. Which factor could be changed on purpose?",
+    "question": "A toy rolls beyond the marked investigation area towards a walkway. What should the group do?",
+    "audioPrompt": "A toy rolls beyond the marked investigation area towards a walkway. What should the group do?",
     "visual": "",
     "answers": [
-      "The recorded answer after hearing it",
-      "The thickness of the rubber band",
-      "The thickness, length and plucking strength together"
+      "Keep rolling more toys into the walkway.",
+      "Pause the test and ask the teacher to help reset a safe area.",
+      "Run between people to chase every toy."
     ],
     "correct": 1,
-    "explanation": "Changing one main factor makes the comparison easier to interpret.",
+    "explanation": "A test should pause when objects leave the planned safe space.",
     "structuredExplanation": {
-      "summary": "Changing one main factor makes the comparison easier to interpret."
+      "summary": "A test should pause when objects leave the planned safe space."
     },
-    "stage": "recognise",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
     "sequencePriority": 6,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
+    "qualitySchema": "skillr-reviewed-y2-science-v2"
   },
   {
     "id": "ac9s2i02-t-007",
@@ -163,24 +145,21 @@ window.skillrTestQuestions = [
     "skill": "safe and fair investigation planning",
     "printable": true,
     "type": "single",
-    "question": "A student wants to heat a substance with an open flame without teacher approval. Why should the plan be stopped?",
-    "audioPrompt": "A student wants to heat a substance with an open flame without teacher approval. Why should the plan be stopped?",
+    "question": "The plan says to compare a dry fabric sample with a damp one. Which step must occur before the comparison?",
+    "audioPrompt": "The plan says to compare a dry fabric sample with a damp one. Which step must occur before the comparison?",
     "visual": "",
     "answers": [
-      "The method presents an unnecessary burn and fire risk",
-      "Open flames always make results wrong",
-      "Heat cannot cause changes"
+      "Soak both samples without checking the plan.",
+      "Pack away both samples.",
+      "Prepare one damp sample and keep the other dry."
     ],
-    "correct": 0,
-    "explanation": "Investigations should use age-appropriate safe methods and teacher-approved equipment.",
+    "correct": 2,
+    "explanation": "The samples must match the conditions named in the investigation.",
     "structuredExplanation": {
-      "summary": "Investigations should use age-appropriate safe methods and teacher-approved equipment."
+      "summary": "The samples must match the conditions named in the investigation."
     },
-    "stage": "recognise",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
     "sequencePriority": 7,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
+    "qualitySchema": "skillr-reviewed-y2-science-v2"
   },
   {
     "id": "ac9s2i02-t-008",
@@ -189,24 +168,21 @@ window.skillrTestQuestions = [
     "skill": "safe and fair investigation planning",
     "printable": true,
     "type": "single",
-    "question": "Which plan gives the clearest comparison of two toy-car surfaces?",
-    "audioPrompt": "Which plan gives the clearest comparison of two toy-car surfaces?",
+    "question": "A pupil cannot hear a gentle shaker clearly. Which response is suitable?",
+    "audioPrompt": "A pupil cannot hear a gentle shaker clearly. Which response is suitable?",
     "visual": "",
     "answers": [
-      "Different car, different ramp, different surface",
-      "Same surface for both trials",
-      "Same car, same ramp, same release point, different surface"
+      "Shake it right beside another person's ear.",
+      "Keep increasing the noise without asking.",
+      "Ask the group to be quiet and listen again at the approved level."
     ],
     "correct": 2,
-    "explanation": "Only the surface should differ when its effect is being investigated.",
+    "explanation": "Reducing background noise helps listening without making the sound unsafe.",
     "structuredExplanation": {
-      "summary": "Only the surface should differ when its effect is being investigated."
+      "summary": "Reducing background noise helps listening without making the sound unsafe."
     },
-    "stage": "recognise",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
     "sequencePriority": 8,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
+    "qualitySchema": "skillr-reviewed-y2-science-v2"
   },
   {
     "id": "ac9s2i02-t-009",
@@ -215,24 +191,21 @@ window.skillrTestQuestions = [
     "skill": "safe and fair investigation planning",
     "printable": true,
     "type": "single",
-    "question": "Why label two cups A and B before an investigation?",
-    "audioPrompt": "Why label two cups A and B before an investigation?",
+    "question": "A water test needs a clear, dry table. A tablet and loose books are in the splash area. What comes first?",
+    "audioPrompt": "A water test needs a clear, dry table. A tablet and loose books are in the splash area. What comes first?",
     "visual": "",
     "answers": [
-      "So the liquids change colour",
-      "So measurements are unnecessary",
-      "So observations can be matched to the correct condition"
+      "Pour the water before moving anything.",
+      "Cover the tablet's screen with a wet cloth.",
+      "Move the tablet and books to a safe dry place."
     ],
     "correct": 2,
-    "explanation": "Labels help keep records organised and prevent mistakes.",
+    "explanation": "Preparing the workspace helps protect people, records and equipment.",
     "structuredExplanation": {
-      "summary": "Labels help keep records organised and prevent mistakes."
+      "summary": "Preparing the workspace helps protect people, records and equipment."
     },
-    "stage": "recognise",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
     "sequencePriority": 9,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
+    "qualitySchema": "skillr-reviewed-y2-science-v2"
   },
   {
     "id": "ac9s2i02-t-010",
@@ -241,24 +214,21 @@ window.skillrTestQuestions = [
     "skill": "safe and fair investigation planning",
     "printable": true,
     "type": "single",
-    "question": "A student wears safety glasses only after a splash occurs. What would be better planning?",
-    "audioPrompt": "A student wears safety glasses only after a splash occurs. What would be better planning?",
+    "question": "A class observes clouds from the school grounds. Which rule belongs in the procedure?",
+    "audioPrompt": "A class observes clouds from the school grounds. Which rule belongs in the procedure?",
     "visual": "",
     "answers": [
-      "Wear them only after the investigation",
-      "Remove them during the risky step",
-      "Put them on before the step where splashing could happen"
+      "Walk into the road for a wider view.",
+      "Stay in the agreed area with the supervising adult.",
+      "Look directly at the Sun when a cloud moves away."
     ],
-    "correct": 2,
-    "explanation": "Protective equipment is most useful when used before exposure to a known risk.",
+    "correct": 1,
+    "explanation": "A defined supervised observation area avoids unnecessary risks.",
     "structuredExplanation": {
-      "summary": "Protective equipment is most useful when used before exposure to a known risk."
+      "summary": "A defined supervised observation area avoids unnecessary risks."
     },
-    "stage": "recognise",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
     "sequencePriority": 10,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
+    "qualitySchema": "skillr-reviewed-y2-science-v2"
   },
   {
     "id": "ac9s2i02-t-011",
@@ -267,24 +237,21 @@ window.skillrTestQuestions = [
     "skill": "safe and fair investigation planning",
     "printable": true,
     "type": "single",
-    "question": "A class compares two seeds but gives one much more water. What can they conclude about seed type?",
-    "audioPrompt": "A class compares two seeds but gives one much more water. What can they conclude about seed type?",
+    "question": "A procedure says: 'Bend the strip gently. Stop if it starts to split.' A split appears. What should happen?",
+    "audioPrompt": "A procedure says: 'Bend the strip gently. Stop if it starts to split.' A split appears. What should happen?",
     "visual": "",
     "answers": [
-      "Very little, because water amount also changed",
-      "The wetter seed type is definitely better",
-      "Seed type caused every difference"
+      "Stop bending and show the teacher.",
+      "Pull harder to make the split larger.",
+      "Hide the split and repeat with more force."
     ],
     "correct": 0,
-    "explanation": "When more than one factor changes, the cause of a result is unclear.",
+    "explanation": "Following the stopping instruction is part of the safe procedure.",
     "structuredExplanation": {
-      "summary": "When more than one factor changes, the cause of a result is unclear."
+      "summary": "Following the stopping instruction is part of the safe procedure."
     },
-    "stage": "recognise",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
     "sequencePriority": 11,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
+    "qualitySchema": "skillr-reviewed-y2-science-v2"
   },
   {
     "id": "ac9s2i02-t-012",
@@ -293,24 +260,21 @@ window.skillrTestQuestions = [
     "skill": "safe and fair investigation planning",
     "printable": true,
     "type": "single",
-    "question": "Which action is part of planning before collecting data?",
-    "audioPrompt": "Which action is part of planning before collecting data?",
+    "question": "To test whether a cup leaks, which method gives a direct observation safely?",
+    "audioPrompt": "To test whether a cup leaks, which method gives a direct observation safely?",
     "visual": "",
     "answers": [
-      "Write the conclusion first",
-      "plan what to record",
-      "Erase unexpected results"
+      "Hold it above a power board while filling it.",
+      "Use a small amount of cool water over a tray.",
+      "Guess from its colour without adding water."
     ],
     "correct": 1,
-    "explanation": "Planning identifies the evidence needed and how it will be gathered.",
+    "explanation": "A small controlled test over a tray allows leaks to be observed safely.",
     "structuredExplanation": {
-      "summary": "Planning identifies the evidence needed and how it will be gathered."
+      "summary": "A small controlled test over a tray allows leaks to be observed safely."
     },
-    "stage": "recognise",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
     "sequencePriority": 12,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
+    "qualitySchema": "skillr-reviewed-y2-science-v2"
   },
   {
     "id": "ac9s2i02-t-013",
@@ -319,24 +283,21 @@ window.skillrTestQuestions = [
     "skill": "safe and fair investigation planning",
     "printable": true,
     "type": "single",
-    "question": "A student cannot reach equipment safely on a high shelf. What should they do?",
-    "audioPrompt": "A student cannot reach equipment safely on a high shelf. What should they do?",
+    "question": "A child misses the middle step of a demonstrated investigation. What is the best next action?",
+    "audioPrompt": "A child misses the middle step of a demonstrated investigation. What is the best next action?",
     "visual": "",
     "answers": [
-      "Pull the shelf toward them",
-      "Ask an adult or teacher for help",
-      "Jump to grab it"
+      "Ask for that step to be explained before continuing.",
+      "Invent a new step using different equipment.",
+      "Copy another group's result without doing the test."
     ],
-    "correct": 1,
-    "explanation": "Safe investigations avoid unnecessary fall risks.",
+    "correct": 0,
+    "explanation": "Clarifying the procedure helps the child follow it safely and meaningfully.",
     "structuredExplanation": {
-      "summary": "Safe investigations avoid unnecessary fall risks."
+      "summary": "Clarifying the procedure helps the child follow it safely and meaningfully."
     },
-    "stage": "recognise",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
     "sequencePriority": 13,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
+    "qualitySchema": "skillr-reviewed-y2-science-v2"
   },
   {
     "id": "ac9s2i02-t-014",
@@ -345,24 +306,21 @@ window.skillrTestQuestions = [
     "skill": "safe and fair investigation planning",
     "printable": true,
     "type": "single",
-    "question": "One group measures water in large cupfuls and another uses small cupfuls. Why are their counts hard to compare?",
-    "audioPrompt": "One group measures water in large cupfuls and another uses small cupfuls. Why are their counts hard to compare?",
+    "question": "A test compares a gentle bend and a gentle twist of two paper strips. Which plan includes both required actions?",
+    "audioPrompt": "A test compares a gentle bend and a gentle twist of two paper strips. Which plan includes both required actions?",
     "visual": "",
     "answers": [
-      "Their cupfuls hold different amounts",
-      "All cups hold equal amounts",
-      "Counting changes the water"
+      "Bend one strip, twist the other, then observe both.",
+      "Cut both strips into pieces and observe them.",
+      "Fold both strips once and put them away."
     ],
     "correct": 0,
-    "explanation": "Informal measures must use the same-sized unit for direct comparison.",
+    "explanation": "The procedure must include the two actions named in the question.",
     "structuredExplanation": {
-      "summary": "Informal measures must use the same-sized unit for direct comparison."
+      "summary": "The procedure must include the two actions named in the question."
     },
-    "stage": "recognise",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
     "sequencePriority": 14,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
+    "qualitySchema": "skillr-reviewed-y2-science-v2"
   },
   {
     "id": "ac9s2i02-t-015",
@@ -370,25 +328,21 @@ window.skillrTestQuestions = [
     "bank": "test",
     "skill": "safe and fair investigation planning",
     "printable": true,
-    "type": "single",
-    "question": "A class is investigating which surface gives the most friction to a sliding block. What should be measured?",
-    "audioPrompt": "A class is investigating which surface gives the most friction to a sliding block. What should be measured?",
+    "type": "self-check",
+    "question": "Suggest an ordered, safe procedure to test whether a paper towel absorbs a small spoonful of cool water. Include what to observe and how to leave the area safe.",
+    "audioPrompt": "Suggest an ordered, safe procedure to test whether a paper towel absorbs a small spoonful of cool water. Include what to observe and how to leave the area safe.",
     "visual": "",
-    "answers": [
-      "The colour of each surface",
-      "How many students like each surface",
-      "How far the same block slides or how quickly it stops"
-    ],
-    "correct": 2,
-    "explanation": "The outcome should be directly related to motion and friction.",
+    "answers": [],
+    "correct": "Example: Put the towel in a tray, add one small spoonful of cool water, watch whether it soaks in, then clean and dry the area with adult guidance.",
+    "explanation": "Adult check: require a workable sequence, an observation that answers the absorption question, and spill control or cleanup. Equivalent safe methods are acceptable.",
     "structuredExplanation": {
-      "summary": "The outcome should be directly related to motion and friction."
+      "summary": "Adult check: require a workable sequence, an observation that answers the absorption question, and spill control or cleanup. Equivalent safe methods are acceptable."
     },
-    "stage": "recognise",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
     "sequencePriority": 15,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
+    "qualitySchema": "skillr-reviewed-y2-science-v2",
+    "gradingMode": "adult-review",
+    "modelAnswer": "Example: Put the towel in a tray, add one small spoonful of cool water, watch whether it soaks in, then clean and dry the area with adult guidance.",
+    "acceptanceNote": "Adult check: require a workable sequence, an observation that answers the absorption question, and spill control or cleanup. Equivalent safe methods are acceptable."
   },
   {
     "id": "ac9s2i02-t-016",
@@ -396,24 +350,22 @@ window.skillrTestQuestions = [
     "bank": "test",
     "skill": "safe and fair investigation planning",
     "printable": true,
-    "type": "single",
-    "question": "A student proposes changing the result because it looks unusual. What should happen instead?",
-    "audioPrompt": "A student proposes changing the result because it looks unusual. What should happen instead?",
+    "type": "self-check",
+    "question": "With an adult and a clean sheet of paper, test whether gentle crumpling changes its shape. Explain a short safe plan, carry it out and show the result.",
+    "audioPrompt": "With an adult and a clean sheet of paper, test whether gentle crumpling changes its shape. Explain a short safe plan, carry it out and show the result.",
     "visual": "",
-    "answers": [
-      "Replace it with the class average",
-      "Delete any unusual result",
-      "Keep the result and, if appropriate, repeat the test to check it"
-    ],
-    "correct": 2,
-    "explanation": "Unexpected data should be recorded honestly and can be checked with repeats.",
+    "answers": [],
+    "correct": "The child checks the workspace, observes the flat paper, crumples it gently away from faces, then shows and describes its changed shape.",
+    "explanation": "Adult check: require both a suitable plan and safe performance. Assess the procedure, including observing before and after. Do not award completion for merely choosing or reciting an answer.",
     "structuredExplanation": {
-      "summary": "Unexpected data should be recorded honestly and can be checked with repeats."
+      "summary": "Adult check: require both a suitable plan and safe performance. Assess the procedure, including observing before and after. Do not award completion for merely choosing or reciting an answer."
     },
-    "stage": "recognise",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
     "sequencePriority": 16,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
+    "qualitySchema": "skillr-reviewed-y2-science-v2",
+    "gradingMode": "adult-review",
+    "modelAnswer": "The child checks the workspace, observes the flat paper, crumples it gently away from faces, then shows and describes its changed shape.",
+    "acceptanceNote": "Adult check: require both a suitable plan and safe performance. Assess the procedure, including observing before and after. Do not award completion for merely choosing or reciting an answer."
   }
 ];
+window.skillrExamQuestions = window.skillrTestQuestions;
+window.quizQuestions = window.skillrTestQuestions;
