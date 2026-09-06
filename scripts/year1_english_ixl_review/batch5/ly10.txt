@@ -1,0 +1,40 @@
+Say 'cat'. Ask the child to change its first sound to the first sound in 'moon' and say the new word.|Mat. Replace initial /k/ with /m/ and keep /a/ /t/. The child should produce the new spoken word without seeing its spelling.
+Say 'pin'. Ask the child to replace the first sound with the first sound in 'tap'.|Tin. Change /p/ to /t/ while retaining the vowel and final /n/.
+Say 'sun'. Ask the child to replace the first sound with the first sound in 'fish'.|Fun. Substitute /f/ for /s/ and preserve the remaining sounds.
+Say 'log'. Ask the child to change its first sound to the first sound in 'duck'.|Dog. Replace /l/ with /d/ while keeping /o/ /g/.
+Say 'cap'. Ask the child to change the last sound to the last sound in 'wet'.|Cat. Replace final /p/ with /t/ and keep the first two sounds.
+Say 'hat'. Ask the child to change the last sound to the last sound in 'sum'.|Ham. Replace final /t/ with /m/ and retain /h/ /a/.
+Say 'map'. Ask the child to change the last sound to the last sound in 'wet'.|Mat. Replace final /p/ with /t/ and keep /m/ /a/.
+Say 'sit'. Ask the child to replace the last sound with the last sound in 'map'.|Sip. Replace /t/ with /p/ while preserving /s/ /i/.
+Say 'bag'. Ask the child to replace its middle vowel with the middle vowel in 'sit'.|Big. Change short /a/ to short /i/ while keeping /b/ and /g/.
+Say 'pen'. Ask the child to replace its middle vowel with the middle vowel in 'cat'.|Pan. Change short /e/ to short /a/ and keep the consonants.
+Say 'hot'. Ask the child to replace the middle vowel with the middle vowel in 'bag'.|Hat. Change short /o/ to short /a/, keeping /h/ and /t/.
+Say 'cut'. Ask the child to replace the middle vowel with the middle vowel in 'hot'.|Cot. Change short /u/ to short /o/ while preserving the first and last sounds.
+Say 'sip'. Ask the child to add the first sound in 'lip' straight after the first sound in sip.|Slip. Insert /l/ after /s/; the other sounds stay in order.
+Say 'pot'. Ask the child to add the first sound in 'sun' at the very beginning.|Spot. Add /s/ before /p/ /o/ /t/, without deleting an existing sound.
+Say 'ten'. Ask the child to add the first sound in 'top' at the end.|Tent. Add final /t/ after /t/ /e/ /n/; keep the original beginning /t/ too.
+Say 'ram'. Ask the child to add the first sound in 'pig' at the end.|Ramp. Add final /p/ after /r/ /a/ /m/ without changing the earlier sounds.
+Say 'stop'. Ask the child to remove only the first sound and say what remains.|Top. Delete /s/ and blend the remaining /t/ /o/ /p/.
+Say 'clap'. Ask the child to remove the sound immediately after its first sound.|Cap. Remove /l/ from /k/ /l/ /a/ /p/, keeping the other sounds in order.
+Say 'sand'. Ask the child to remove the sound immediately before its last sound.|Sad. Delete /n/ from /s/ /a/ /n/ /d/ and retain the final /d/.
+Say 'tent'. Ask the child to remove only the final sound.|Ten. Delete the last /t/, not the first /t/, and blend the remaining sounds.
+Say 'crab'. Ask the child to change the last sound to the last sound in 'sock'.|Crack. Replace /b/ with /k/ while preserving the initial cluster and vowel. The target has four phonemes.
+Say 'best'. Ask the child to remove the third sound and say the remaining word.|Bet. Delete /s/ from /b/ /e/ /s/ /t/ while preserving the other three sounds.
+Say 'fin'. Ask the child to change the last sound to the last sound in 'wish'.|Fish. Replace /n/ with the single /sh/ phoneme. This is one sound substitution even though spelling uses two letters for sh.
+Say 'chip'. Ask the child to change its first sound to the first sound in 'shell'.|Ship. Replace the single /ch/ phoneme with /sh/, keeping /i/ /p/.
+Say 'bed'. Ask the child to change the first sound to the first sound in 'rain'.|Red. Replace /b/ with /r/ and retain the remaining two sounds.
+Say 'fan'. Ask the child to change the first sound to the first sound in 'vest'.|Van. Replace /f/ with /v/ while keeping /a/ /n/.
+Say 'rub'. Ask the child to change the final sound to the last sound in 'bag'.|Rug. Replace /b/ with /g/, keeping the first sound and vowel.
+Say 'hot'. Ask the child to change the last sound to the last sound in 'cup'.|Hop. Replace /t/ with /p/ while retaining /h/ /o/.
+Say 'pet'. Ask the child to replace its middle vowel with the middle vowel in 'sit'.|Pit. Substitute short /i/ for short /e/ and preserve the consonants.
+Say 'bug'. Ask the child to replace its middle vowel with the middle vowel in 'cat'.|Bag. Substitute short /a/ for short /u/, keeping /b/ and /g/.
+Say 'top'. Ask the child to add the first sound in 'sun' at the beginning.|Stop. Add initial /s/ while retaining all three sounds of top.
+Say 'lip'. Ask the child to add the first sound in 'sun' at the beginning.|Slip. Add /s/ before /l/ /i/ /p/ to form the new spoken word.
+Say 'pan'. Ask the child to add the first sound in 'top' at the end.|Pant. Add final /t/ without changing /p/ /a/ /n/.
+Say 'cap'. Ask the child to add the first sound in 'lamp' immediately after the first sound.|Clap. Insert /l/ between /k/ and /a/; do not put it at the start or end.
+Say 'spin'. Ask the child to remove the first sound.|Pin. Remove /s/ and blend /p/ /i/ /n/.
+Say 'paint'. Ask the child to remove the last sound.|Pain. Delete the final /t/ while keeping /p/, the long a vowel and /n/.
+Say 'belt'. Ask the child to remove the sound immediately before the last sound.|Bet. Delete /l/ from /b/ /e/ /l/ /t/ and blend the remaining sounds.
+Say 'frog'. Ask the child to remove the second sound.|Fog. Delete /r/ from the beginning cluster while retaining /f/ /o/ /g/.
+Say 'thin'. Ask the child to change the first sound to the first sound in 'fan'.|Fin. Replace the single unvoiced /th/ with /f/ and keep the other sounds.
+Say 'ship'. Ask the child to change the final sound to the last sound in 'sun'.|Shin. Replace /p/ with /n/, retaining the initial /sh/ phoneme and short vowel.

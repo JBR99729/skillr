@@ -45,6 +45,7 @@ jobs:
           NODE_PATH="$RUNNER_TEMP/english-bank-qa/node_modules" node scripts/validate-year1-english-review.cjs --batch2
           NODE_PATH="$RUNNER_TEMP/english-bank-qa/node_modules" node scripts/validate-year1-english-review.cjs --batch3
           NODE_PATH="$RUNNER_TEMP/english-bank-qa/node_modules" node scripts/validate-year1-english-review.cjs --batch4
+          NODE_PATH="$RUNNER_TEMP/english-bank-qa/node_modules" node scripts/validate-year1-english-review.cjs --batch5
       - name: Check Year 1 English and review ledger
         run: |
           node scripts/validate_year1_english_student_facing.mjs

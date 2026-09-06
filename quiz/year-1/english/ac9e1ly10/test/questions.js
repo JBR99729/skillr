@@ -1,483 +1,533 @@
 "use strict";
 window.skillrTestQuestions = [
   {
-    "id": "ac9e1ly10-t-001",
+    "id": "ac9e1ly10-er5-t-001",
     "curriculumCode": "AC9E1LY10",
     "bank": "test",
-    "skill": "orally manipulate phonemes in spoken words by addition, deletion and substitution of initial, medial and final phonemes to generate new words (phonological awareness)",
+    "skill": "adding, deleting and substituting spoken phonemes",
     "printable": true,
-    "type": "single",
-    "question": "Zoe says “cat”. Change /c/ to /h/. What word do you make?",
-    "audioPrompt": "Zoe says “cat”. Change /c/ to /h/. What word do you make?",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Red. Replace /b/ with /r/ and retain the remaining two sounds.",
+    "acceptanceNote": "Red. Replace /b/ with /r/ and retain the remaining two sounds.",
+    "responseInstructions": "Complete the spoken task with a grown-up, who will check the response. Do not use letter names in place of speech sounds.",
+    "completionLabel": "I have completed the task with a grown-up.",
+    "question": "Grown-up: keep the screen out of the child's view. Say 'bed'. Ask the child to change the first sound to the first sound in 'rain'.",
+    "audioPrompt": "Grown-up: keep the screen out of the child's view. Say 'bed'. Ask the child to change the first sound to the first sound in 'rain'.",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
-    "answers": [
-      "cat",
-      "hat",
-      "cup"
-    ],
-    "correct": 1,
-    "explanation": "hat is the best answer.",
-    "structuredExplanation": {
-      "summary": "hat is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
+    "answers": [],
     "difficulty": 3,
     "difficultyTier": "independent",
-    "sequencePriority": 1
+    "sequencePriority": 1,
+    "correct": "Red. Replace /b/ with /r/ and retain the remaining two sounds.",
+    "explanation": "Red. Replace /b/ with /r/ and retain the remaining two sounds.\nHint: Complete the task before comparing your response with the guidance.",
+    "structuredExplanation": {
+      "summary": "Red. Replace /b/ with /r/ and retain the remaining two sounds.",
+      "hint": "Complete the task before comparing your response with the guidance."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly10-t-002",
+    "id": "ac9e1ly10-er5-t-002",
     "curriculumCode": "AC9E1LY10",
     "bank": "test",
-    "skill": "orally manipulate phonemes in spoken words by addition, deletion and substitution of initial, medial and final phonemes to generate new words (phonological awareness)",
+    "skill": "adding, deleting and substituting spoken phonemes",
     "printable": true,
-    "type": "single",
-    "question": "Max says “map”. Change /m/ to /t/. What word do you make?",
-    "audioPrompt": "Max says “map”. Change /m/ to /t/. What word do you make?",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Van. Replace /f/ with /v/ while keeping /a/ /n/.",
+    "acceptanceNote": "Van. Replace /f/ with /v/ while keeping /a/ /n/.",
+    "responseInstructions": "Complete the spoken task with a grown-up, who will check the response. Do not use letter names in place of speech sounds.",
+    "completionLabel": "I have completed the task with a grown-up.",
+    "question": "Grown-up: keep the screen out of the child's view. Say 'fan'. Ask the child to change the first sound to the first sound in 'vest'.",
+    "audioPrompt": "Grown-up: keep the screen out of the child's view. Say 'fan'. Ask the child to change the first sound to the first sound in 'vest'.",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
-    "answers": [
-      "map",
-      "tap",
-      "book"
-    ],
-    "correct": 1,
-    "explanation": "tap is the best answer.",
-    "structuredExplanation": {
-      "summary": "tap is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
+    "answers": [],
     "difficulty": 3,
     "difficultyTier": "independent",
-    "sequencePriority": 2
+    "sequencePriority": 2,
+    "correct": "Van. Replace /f/ with /v/ while keeping /a/ /n/.",
+    "explanation": "Van. Replace /f/ with /v/ while keeping /a/ /n/.\nHint: Complete the task before comparing your response with the guidance.",
+    "structuredExplanation": {
+      "summary": "Van. Replace /f/ with /v/ while keeping /a/ /n/.",
+      "hint": "Complete the task before comparing your response with the guidance."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly10-t-003",
+    "id": "ac9e1ly10-er5-t-003",
     "curriculumCode": "AC9E1LY10",
     "bank": "test",
-    "skill": "orally manipulate phonemes in spoken words by addition, deletion and substitution of initial, medial and final phonemes to generate new words (phonological awareness)",
+    "skill": "adding, deleting and substituting spoken phonemes",
     "printable": true,
-    "type": "single",
-    "question": "Mia says “sit”. Change /i/ to /a/. What word do you make?",
-    "audioPrompt": "Mia says “sit”. Change /i/ to /a/. What word do you make?",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Rug. Replace /b/ with /g/, keeping the first sound and vowel.",
+    "acceptanceNote": "Rug. Replace /b/ with /g/, keeping the first sound and vowel.",
+    "responseInstructions": "Complete the spoken task with a grown-up, who will check the response. Do not use letter names in place of speech sounds.",
+    "completionLabel": "I have completed the task with a grown-up.",
+    "question": "Grown-up: keep the screen out of the child's view. Say 'rub'. Ask the child to change the final sound to the last sound in 'bag'.",
+    "audioPrompt": "Grown-up: keep the screen out of the child's view. Say 'rub'. Ask the child to change the final sound to the last sound in 'bag'.",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
-    "answers": [
-      "sit",
-      "ball",
-      "sat"
-    ],
-    "correct": 2,
-    "explanation": "sat is the best answer.",
-    "structuredExplanation": {
-      "summary": "sat is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
+    "answers": [],
     "difficulty": 3,
     "difficultyTier": "independent",
-    "sequencePriority": 3
+    "sequencePriority": 3,
+    "correct": "Rug. Replace /b/ with /g/, keeping the first sound and vowel.",
+    "explanation": "Rug. Replace /b/ with /g/, keeping the first sound and vowel.\nHint: Complete the task before comparing your response with the guidance.",
+    "structuredExplanation": {
+      "summary": "Rug. Replace /b/ with /g/, keeping the first sound and vowel.",
+      "hint": "Complete the task before comparing your response with the guidance."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly10-t-004",
+    "id": "ac9e1ly10-er5-t-004",
     "curriculumCode": "AC9E1LY10",
     "bank": "test",
-    "skill": "orally manipulate phonemes in spoken words by addition, deletion and substitution of initial, medial and final phonemes to generate new words (phonological awareness)",
+    "skill": "adding, deleting and substituting spoken phonemes",
     "printable": true,
-    "type": "single",
-    "question": "Ben says “dog”. Change /d/ to /l/. What word do you make?",
-    "audioPrompt": "Ben says “dog”. Change /d/ to /l/. What word do you make?",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Hop. Replace /t/ with /p/ while retaining /h/ /o/.",
+    "acceptanceNote": "Hop. Replace /t/ with /p/ while retaining /h/ /o/.",
+    "responseInstructions": "Complete the spoken task with a grown-up, who will check the response. Do not use letter names in place of speech sounds.",
+    "completionLabel": "I have completed the task with a grown-up.",
+    "question": "Grown-up: keep the screen out of the child's view. Say 'hot'. Ask the child to change the last sound to the last sound in 'cup'.",
+    "audioPrompt": "Grown-up: keep the screen out of the child's view. Say 'hot'. Ask the child to change the last sound to the last sound in 'cup'.",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
-    "answers": [
-      "dog",
-      "kite",
-      "log"
-    ],
-    "correct": 2,
-    "explanation": "log is the best answer.",
-    "structuredExplanation": {
-      "summary": "log is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
+    "answers": [],
     "difficulty": 3,
     "difficultyTier": "independent",
-    "sequencePriority": 4
+    "sequencePriority": 4,
+    "correct": "Hop. Replace /t/ with /p/ while retaining /h/ /o/.",
+    "explanation": "Hop. Replace /t/ with /p/ while retaining /h/ /o/.\nHint: Complete the task before comparing your response with the guidance.",
+    "structuredExplanation": {
+      "summary": "Hop. Replace /t/ with /p/ while retaining /h/ /o/.",
+      "hint": "Complete the task before comparing your response with the guidance."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly10-t-005",
+    "id": "ac9e1ly10-er5-t-005",
     "curriculumCode": "AC9E1LY10",
     "bank": "test",
-    "skill": "orally manipulate phonemes in spoken words by addition, deletion and substitution of initial, medial and final phonemes to generate new words (phonological awareness)",
+    "skill": "adding, deleting and substituting spoken phonemes",
     "printable": true,
-    "type": "single",
-    "question": "Sam says “cup”. Change /p/ to /t/. What word do you make?",
-    "audioPrompt": "Sam says “cup”. Change /p/ to /t/. What word do you make?",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Pit. Substitute short /i/ for short /e/ and preserve the consonants.",
+    "acceptanceNote": "Pit. Substitute short /i/ for short /e/ and preserve the consonants.",
+    "responseInstructions": "Complete the spoken task with a grown-up, who will check the response. Do not use letter names in place of speech sounds.",
+    "completionLabel": "I have completed the task with a grown-up.",
+    "question": "Grown-up: keep the screen out of the child's view. Say 'pet'. Ask the child to replace its middle vowel with the middle vowel in 'sit'.",
+    "audioPrompt": "Grown-up: keep the screen out of the child's view. Say 'pet'. Ask the child to replace its middle vowel with the middle vowel in 'sit'.",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
-    "answers": [
-      "cut",
-      "sock",
-      "cup"
-    ],
-    "correct": 0,
-    "explanation": "cut is the best answer.",
-    "structuredExplanation": {
-      "summary": "cut is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
+    "answers": [],
     "difficulty": 3,
     "difficultyTier": "independent",
-    "sequencePriority": 5
+    "sequencePriority": 5,
+    "correct": "Pit. Substitute short /i/ for short /e/ and preserve the consonants.",
+    "explanation": "Pit. Substitute short /i/ for short /e/ and preserve the consonants.\nHint: Complete the task before comparing your response with the guidance.",
+    "structuredExplanation": {
+      "summary": "Pit. Substitute short /i/ for short /e/ and preserve the consonants.",
+      "hint": "Complete the task before comparing your response with the guidance."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly10-t-006",
+    "id": "ac9e1ly10-er5-t-006",
     "curriculumCode": "AC9E1LY10",
     "bank": "test",
-    "skill": "orally manipulate phonemes in spoken words by addition, deletion and substitution of initial, medial and final phonemes to generate new words (phonological awareness)",
+    "skill": "adding, deleting and substituting spoken phonemes",
     "printable": true,
-    "type": "single",
-    "question": "Kim says “fish”. Change /f/ to /d/. What word do you make?",
-    "audioPrompt": "Kim says “fish”. Change /f/ to /d/. What word do you make?",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Bag. Substitute short /a/ for short /u/, keeping /b/ and /g/.",
+    "acceptanceNote": "Bag. Substitute short /a/ for short /u/, keeping /b/ and /g/.",
+    "responseInstructions": "Complete the spoken task with a grown-up, who will check the response. Do not use letter names in place of speech sounds.",
+    "completionLabel": "I have completed the task with a grown-up.",
+    "question": "Grown-up: keep the screen out of the child's view. Say 'bug'. Ask the child to replace its middle vowel with the middle vowel in 'cat'.",
+    "audioPrompt": "Grown-up: keep the screen out of the child's view. Say 'bug'. Ask the child to replace its middle vowel with the middle vowel in 'cat'.",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
-    "answers": [
-      "dish",
-      "fish",
-      "map"
-    ],
-    "correct": 0,
-    "explanation": "dish is the best answer.",
-    "structuredExplanation": {
-      "summary": "dish is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
+    "answers": [],
     "difficulty": 3,
     "difficultyTier": "independent",
-    "sequencePriority": 6
+    "sequencePriority": 6,
+    "correct": "Bag. Substitute short /a/ for short /u/, keeping /b/ and /g/.",
+    "explanation": "Bag. Substitute short /a/ for short /u/, keeping /b/ and /g/.\nHint: Complete the task before comparing your response with the guidance.",
+    "structuredExplanation": {
+      "summary": "Bag. Substitute short /a/ for short /u/, keeping /b/ and /g/.",
+      "hint": "Complete the task before comparing your response with the guidance."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly10-t-007",
+    "id": "ac9e1ly10-er5-t-007",
     "curriculumCode": "AC9E1LY10",
     "bank": "test",
-    "skill": "orally manipulate phonemes in spoken words by addition, deletion and substitution of initial, medial and final phonemes to generate new words (phonological awareness)",
+    "skill": "adding, deleting and substituting spoken phonemes",
     "printable": true,
-    "type": "single",
-    "question": "Ava says “bed”. Change /e/ to /a/. What word do you make?",
-    "audioPrompt": "Ava says “bed”. Change /e/ to /a/. What word do you make?",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Stop. Add initial /s/ while retaining all three sounds of top.",
+    "acceptanceNote": "Stop. Add initial /s/ while retaining all three sounds of top.",
+    "responseInstructions": "Complete the spoken task with a grown-up, who will check the response. Do not use letter names in place of speech sounds.",
+    "completionLabel": "I have completed the task with a grown-up.",
+    "question": "Grown-up: keep the screen out of the child's view. Say 'top'. Ask the child to add the first sound in 'sun' at the beginning.",
+    "audioPrompt": "Grown-up: keep the screen out of the child's view. Say 'top'. Ask the child to add the first sound in 'sun' at the beginning.",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
-    "answers": [
-      "hat",
-      "bed",
-      "bad"
-    ],
-    "correct": 2,
-    "explanation": "bad is the best answer.",
-    "structuredExplanation": {
-      "summary": "bad is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
+    "answers": [],
     "difficulty": 3,
     "difficultyTier": "independent",
-    "sequencePriority": 7
+    "sequencePriority": 7,
+    "correct": "Stop. Add initial /s/ while retaining all three sounds of top.",
+    "explanation": "Stop. Add initial /s/ while retaining all three sounds of top.\nHint: Complete the task before comparing your response with the guidance.",
+    "structuredExplanation": {
+      "summary": "Stop. Add initial /s/ while retaining all three sounds of top.",
+      "hint": "Complete the task before comparing your response with the guidance."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly10-t-008",
+    "id": "ac9e1ly10-er5-t-008",
     "curriculumCode": "AC9E1LY10",
     "bank": "test",
-    "skill": "orally manipulate phonemes in spoken words by addition, deletion and substitution of initial, medial and final phonemes to generate new words (phonological awareness)",
+    "skill": "adding, deleting and substituting spoken phonemes",
     "printable": true,
-    "type": "single",
-    "question": "Leo says “top”. Change /t/ to /m/. What word do you make?",
-    "audioPrompt": "Leo says “top”. Change /t/ to /m/. What word do you make?",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Slip. Add /s/ before /l/ /i/ /p/ to form the new spoken word.",
+    "acceptanceNote": "Slip. Add /s/ before /l/ /i/ /p/ to form the new spoken word.",
+    "responseInstructions": "Complete the spoken task with a grown-up, who will check the response. Do not use letter names in place of speech sounds.",
+    "completionLabel": "I have completed the task with a grown-up.",
+    "question": "Grown-up: keep the screen out of the child's view. Say 'lip'. Ask the child to add the first sound in 'sun' at the beginning.",
+    "audioPrompt": "Grown-up: keep the screen out of the child's view. Say 'lip'. Ask the child to add the first sound in 'sun' at the beginning.",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
-    "answers": [
-      "bag",
-      "top",
-      "mop"
-    ],
-    "correct": 2,
-    "explanation": "mop is the best answer.",
-    "structuredExplanation": {
-      "summary": "mop is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
+    "answers": [],
     "difficulty": 3,
     "difficultyTier": "independent",
-    "sequencePriority": 8
+    "sequencePriority": 8,
+    "correct": "Slip. Add /s/ before /l/ /i/ /p/ to form the new spoken word.",
+    "explanation": "Slip. Add /s/ before /l/ /i/ /p/ to form the new spoken word.\nHint: Complete the task before comparing your response with the guidance.",
+    "structuredExplanation": {
+      "summary": "Slip. Add /s/ before /l/ /i/ /p/ to form the new spoken word.",
+      "hint": "Complete the task before comparing your response with the guidance."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly10-t-009",
+    "id": "ac9e1ly10-er5-t-009",
     "curriculumCode": "AC9E1LY10",
     "bank": "test",
-    "skill": "orally manipulate phonemes in spoken words by addition, deletion and substitution of initial, medial and final phonemes to generate new words (phonological awareness)",
+    "skill": "adding, deleting and substituting spoken phonemes",
     "printable": true,
-    "type": "single",
-    "question": "Max says “cat”. Change /c/ to /h/. What word do you make?",
-    "audioPrompt": "Max says “cat”. Change /c/ to /h/. What word do you make?",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Pant. Add final /t/ without changing /p/ /a/ /n/.",
+    "acceptanceNote": "Pant. Add final /t/ without changing /p/ /a/ /n/.",
+    "responseInstructions": "Complete the spoken task with a grown-up, who will check the response. Do not use letter names in place of speech sounds.",
+    "completionLabel": "I have completed the task with a grown-up.",
+    "question": "Grown-up: keep the screen out of the child's view. Say 'pan'. Ask the child to add the first sound in 'top' at the end.",
+    "audioPrompt": "Grown-up: keep the screen out of the child's view. Say 'pan'. Ask the child to add the first sound in 'top' at the end.",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
-    "answers": [
-      "cup",
-      "hat",
-      "cat"
-    ],
-    "correct": 1,
-    "explanation": "hat is the best answer.",
-    "structuredExplanation": {
-      "summary": "hat is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
+    "answers": [],
     "difficulty": 3,
     "difficultyTier": "independent",
-    "sequencePriority": 9
+    "sequencePriority": 9,
+    "correct": "Pant. Add final /t/ without changing /p/ /a/ /n/.",
+    "explanation": "Pant. Add final /t/ without changing /p/ /a/ /n/.\nHint: Complete the task before comparing your response with the guidance.",
+    "structuredExplanation": {
+      "summary": "Pant. Add final /t/ without changing /p/ /a/ /n/.",
+      "hint": "Complete the task before comparing your response with the guidance."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly10-t-010",
+    "id": "ac9e1ly10-er5-t-010",
     "curriculumCode": "AC9E1LY10",
     "bank": "test",
-    "skill": "orally manipulate phonemes in spoken words by addition, deletion and substitution of initial, medial and final phonemes to generate new words (phonological awareness)",
+    "skill": "adding, deleting and substituting spoken phonemes",
     "printable": true,
-    "type": "single",
-    "question": "Mia says “map”. Change /m/ to /t/. What word do you make?",
-    "audioPrompt": "Mia says “map”. Change /m/ to /t/. What word do you make?",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Clap. Insert /l/ between /k/ and /a/; do not put it at the start or end.",
+    "acceptanceNote": "Clap. Insert /l/ between /k/ and /a/; do not put it at the start or end.",
+    "responseInstructions": "Complete the spoken task with a grown-up, who will check the response. Do not use letter names in place of speech sounds.",
+    "completionLabel": "I have completed the task with a grown-up.",
+    "question": "Grown-up: keep the screen out of the child's view. Say 'cap'. Ask the child to add the first sound in 'lamp' immediately after the first sound.",
+    "audioPrompt": "Grown-up: keep the screen out of the child's view. Say 'cap'. Ask the child to add the first sound in 'lamp' immediately after the first sound.",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
-    "answers": [
-      "book",
-      "map",
-      "tap"
-    ],
-    "correct": 2,
-    "explanation": "tap is the best answer.",
-    "structuredExplanation": {
-      "summary": "tap is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
+    "answers": [],
     "difficulty": 3,
     "difficultyTier": "independent",
-    "sequencePriority": 10
+    "sequencePriority": 10,
+    "correct": "Clap. Insert /l/ between /k/ and /a/; do not put it at the start or end.",
+    "explanation": "Clap. Insert /l/ between /k/ and /a/; do not put it at the start or end.\nHint: Complete the task before comparing your response with the guidance.",
+    "structuredExplanation": {
+      "summary": "Clap. Insert /l/ between /k/ and /a/; do not put it at the start or end.",
+      "hint": "Complete the task before comparing your response with the guidance."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly10-t-011",
+    "id": "ac9e1ly10-er5-t-011",
     "curriculumCode": "AC9E1LY10",
     "bank": "test",
-    "skill": "orally manipulate phonemes in spoken words by addition, deletion and substitution of initial, medial and final phonemes to generate new words (phonological awareness)",
+    "skill": "adding, deleting and substituting spoken phonemes",
     "printable": true,
-    "type": "single",
-    "question": "Ben says “sit”. Change /i/ to /a/. What word do you make?",
-    "audioPrompt": "Ben says “sit”. Change /i/ to /a/. What word do you make?",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Pin. Remove /s/ and blend /p/ /i/ /n/.",
+    "acceptanceNote": "Pin. Remove /s/ and blend /p/ /i/ /n/.",
+    "responseInstructions": "Complete the spoken task with a grown-up, who will check the response. Do not use letter names in place of speech sounds.",
+    "completionLabel": "I have completed the task with a grown-up.",
+    "question": "Grown-up: keep the screen out of the child's view. Say 'spin'. Ask the child to remove the first sound.",
+    "audioPrompt": "Grown-up: keep the screen out of the child's view. Say 'spin'. Ask the child to remove the first sound.",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
-    "answers": [
-      "ball",
-      "sit",
-      "sat"
-    ],
-    "correct": 2,
-    "explanation": "sat is the best answer.",
-    "structuredExplanation": {
-      "summary": "sat is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
+    "answers": [],
     "difficulty": 3,
     "difficultyTier": "independent",
-    "sequencePriority": 11
+    "sequencePriority": 11,
+    "correct": "Pin. Remove /s/ and blend /p/ /i/ /n/.",
+    "explanation": "Pin. Remove /s/ and blend /p/ /i/ /n/.\nHint: Complete the task before comparing your response with the guidance.",
+    "structuredExplanation": {
+      "summary": "Pin. Remove /s/ and blend /p/ /i/ /n/.",
+      "hint": "Complete the task before comparing your response with the guidance."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly10-t-012",
+    "id": "ac9e1ly10-er5-t-012",
     "curriculumCode": "AC9E1LY10",
     "bank": "test",
-    "skill": "orally manipulate phonemes in spoken words by addition, deletion and substitution of initial, medial and final phonemes to generate new words (phonological awareness)",
+    "skill": "adding, deleting and substituting spoken phonemes",
     "printable": true,
-    "type": "single",
-    "question": "Sam says “dog”. Change /d/ to /l/. What word do you make?",
-    "audioPrompt": "Sam says “dog”. Change /d/ to /l/. What word do you make?",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Pain. Delete the final /t/ while keeping /p/, the long a vowel and /n/.",
+    "acceptanceNote": "Pain. Delete the final /t/ while keeping /p/, the long a vowel and /n/.",
+    "responseInstructions": "Complete the spoken task with a grown-up, who will check the response. Do not use letter names in place of speech sounds.",
+    "completionLabel": "I have completed the task with a grown-up.",
+    "question": "Grown-up: keep the screen out of the child's view. Say 'paint'. Ask the child to remove the last sound.",
+    "audioPrompt": "Grown-up: keep the screen out of the child's view. Say 'paint'. Ask the child to remove the last sound.",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
-    "answers": [
-      "dog",
-      "kite",
-      "log"
-    ],
-    "correct": 2,
-    "explanation": "log is the best answer.",
-    "structuredExplanation": {
-      "summary": "log is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
+    "answers": [],
     "difficulty": 3,
     "difficultyTier": "independent",
-    "sequencePriority": 12
+    "sequencePriority": 12,
+    "correct": "Pain. Delete the final /t/ while keeping /p/, the long a vowel and /n/.",
+    "explanation": "Pain. Delete the final /t/ while keeping /p/, the long a vowel and /n/.\nHint: Complete the task before comparing your response with the guidance.",
+    "structuredExplanation": {
+      "summary": "Pain. Delete the final /t/ while keeping /p/, the long a vowel and /n/.",
+      "hint": "Complete the task before comparing your response with the guidance."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly10-t-013",
+    "id": "ac9e1ly10-er5-t-013",
     "curriculumCode": "AC9E1LY10",
     "bank": "test",
-    "skill": "orally manipulate phonemes in spoken words by addition, deletion and substitution of initial, medial and final phonemes to generate new words (phonological awareness)",
+    "skill": "adding, deleting and substituting spoken phonemes",
     "printable": true,
-    "type": "single",
-    "question": "Kim says “cup”. Change /p/ to /t/. What word do you make?",
-    "audioPrompt": "Kim says “cup”. Change /p/ to /t/. What word do you make?",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Bet. Delete /l/ from /b/ /e/ /l/ /t/ and blend the remaining sounds.",
+    "acceptanceNote": "Bet. Delete /l/ from /b/ /e/ /l/ /t/ and blend the remaining sounds.",
+    "responseInstructions": "Complete the spoken task with a grown-up, who will check the response. Do not use letter names in place of speech sounds.",
+    "completionLabel": "I have completed the task with a grown-up.",
+    "question": "Grown-up: keep the screen out of the child's view. Say 'belt'. Ask the child to remove the sound immediately before the last sound.",
+    "audioPrompt": "Grown-up: keep the screen out of the child's view. Say 'belt'. Ask the child to remove the sound immediately before the last sound.",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
-    "answers": [
-      "cut",
-      "cup",
-      "sock"
-    ],
-    "correct": 0,
-    "explanation": "cut is the best answer.",
-    "structuredExplanation": {
-      "summary": "cut is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
+    "answers": [],
     "difficulty": 3,
     "difficultyTier": "independent",
-    "sequencePriority": 13
+    "sequencePriority": 13,
+    "correct": "Bet. Delete /l/ from /b/ /e/ /l/ /t/ and blend the remaining sounds.",
+    "explanation": "Bet. Delete /l/ from /b/ /e/ /l/ /t/ and blend the remaining sounds.\nHint: Complete the task before comparing your response with the guidance.",
+    "structuredExplanation": {
+      "summary": "Bet. Delete /l/ from /b/ /e/ /l/ /t/ and blend the remaining sounds.",
+      "hint": "Complete the task before comparing your response with the guidance."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly10-t-014",
+    "id": "ac9e1ly10-er5-t-014",
     "curriculumCode": "AC9E1LY10",
     "bank": "test",
-    "skill": "orally manipulate phonemes in spoken words by addition, deletion and substitution of initial, medial and final phonemes to generate new words (phonological awareness)",
+    "skill": "adding, deleting and substituting spoken phonemes",
     "printable": true,
-    "type": "single",
-    "question": "Ava says “fish”. Change /f/ to /d/. What word do you make?",
-    "audioPrompt": "Ava says “fish”. Change /f/ to /d/. What word do you make?",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Fog. Delete /r/ from the beginning cluster while retaining /f/ /o/ /g/.",
+    "acceptanceNote": "Fog. Delete /r/ from the beginning cluster while retaining /f/ /o/ /g/.",
+    "responseInstructions": "Complete the spoken task with a grown-up, who will check the response. Do not use letter names in place of speech sounds.",
+    "completionLabel": "I have completed the task with a grown-up.",
+    "question": "Grown-up: keep the screen out of the child's view. Say 'frog'. Ask the child to remove the second sound.",
+    "audioPrompt": "Grown-up: keep the screen out of the child's view. Say 'frog'. Ask the child to remove the second sound.",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
-    "answers": [
-      "dish",
-      "map",
-      "fish"
-    ],
-    "correct": 0,
-    "explanation": "dish is the best answer.",
-    "structuredExplanation": {
-      "summary": "dish is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
+    "answers": [],
     "difficulty": 3,
     "difficultyTier": "independent",
-    "sequencePriority": 14
+    "sequencePriority": 14,
+    "correct": "Fog. Delete /r/ from the beginning cluster while retaining /f/ /o/ /g/.",
+    "explanation": "Fog. Delete /r/ from the beginning cluster while retaining /f/ /o/ /g/.\nHint: Complete the task before comparing your response with the guidance.",
+    "structuredExplanation": {
+      "summary": "Fog. Delete /r/ from the beginning cluster while retaining /f/ /o/ /g/.",
+      "hint": "Complete the task before comparing your response with the guidance."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly10-t-015",
+    "id": "ac9e1ly10-er5-t-015",
     "curriculumCode": "AC9E1LY10",
     "bank": "test",
-    "skill": "orally manipulate phonemes in spoken words by addition, deletion and substitution of initial, medial and final phonemes to generate new words (phonological awareness)",
+    "skill": "adding, deleting and substituting spoken phonemes",
     "printable": true,
-    "type": "single",
-    "question": "Leo says “bed”. Change /e/ to /a/. What word do you make?",
-    "audioPrompt": "Leo says “bed”. Change /e/ to /a/. What word do you make?",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Fin. Replace the single unvoiced /th/ with /f/ and keep the other sounds.",
+    "acceptanceNote": "Fin. Replace the single unvoiced /th/ with /f/ and keep the other sounds.",
+    "responseInstructions": "Complete the spoken task with a grown-up, who will check the response. Do not use letter names in place of speech sounds.",
+    "completionLabel": "I have completed the task with a grown-up.",
+    "question": "Grown-up: keep the screen out of the child's view. Say 'thin'. Ask the child to change the first sound to the first sound in 'fan'.",
+    "audioPrompt": "Grown-up: keep the screen out of the child's view. Say 'thin'. Ask the child to change the first sound to the first sound in 'fan'.",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
-    "answers": [
-      "bed",
-      "hat",
-      "bad"
-    ],
-    "correct": 2,
-    "explanation": "bad is the best answer.",
-    "structuredExplanation": {
-      "summary": "bad is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
+    "answers": [],
     "difficulty": 3,
     "difficultyTier": "independent",
-    "sequencePriority": 15
+    "sequencePriority": 15,
+    "correct": "Fin. Replace the single unvoiced /th/ with /f/ and keep the other sounds.",
+    "explanation": "Fin. Replace the single unvoiced /th/ with /f/ and keep the other sounds.\nHint: Complete the task before comparing your response with the guidance.",
+    "structuredExplanation": {
+      "summary": "Fin. Replace the single unvoiced /th/ with /f/ and keep the other sounds.",
+      "hint": "Complete the task before comparing your response with the guidance."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly10-t-016",
+    "id": "ac9e1ly10-er5-t-016",
     "curriculumCode": "AC9E1LY10",
     "bank": "test",
-    "skill": "orally manipulate phonemes in spoken words by addition, deletion and substitution of initial, medial and final phonemes to generate new words (phonological awareness)",
+    "skill": "adding, deleting and substituting spoken phonemes",
     "printable": true,
-    "type": "single",
-    "question": "Zoe says “top”. Change /t/ to /m/. What word do you make?",
-    "audioPrompt": "Zoe says “top”. Change /t/ to /m/. What word do you make?",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Shin. Replace /p/ with /n/, retaining the initial /sh/ phoneme and short vowel.",
+    "acceptanceNote": "Shin. Replace /p/ with /n/, retaining the initial /sh/ phoneme and short vowel.",
+    "responseInstructions": "Complete the spoken task with a grown-up, who will check the response. Do not use letter names in place of speech sounds.",
+    "completionLabel": "I have completed the task with a grown-up.",
+    "question": "Grown-up: keep the screen out of the child's view. Say 'ship'. Ask the child to change the final sound to the last sound in 'sun'.",
+    "audioPrompt": "Grown-up: keep the screen out of the child's view. Say 'ship'. Ask the child to change the final sound to the last sound in 'sun'.",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
-    "answers": [
-      "top",
-      "bag",
-      "mop"
-    ],
-    "correct": 2,
-    "explanation": "mop is the best answer.",
-    "structuredExplanation": {
-      "summary": "mop is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
+    "answers": [],
     "difficulty": 3,
     "difficultyTier": "independent",
-    "sequencePriority": 16
+    "sequencePriority": 16,
+    "correct": "Shin. Replace /p/ with /n/, retaining the initial /sh/ phoneme and short vowel.",
+    "explanation": "Shin. Replace /p/ with /n/, retaining the initial /sh/ phoneme and short vowel.\nHint: Complete the task before comparing your response with the guidance.",
+    "structuredExplanation": {
+      "summary": "Shin. Replace /p/ with /n/, retaining the initial /sh/ phoneme and short vowel.",
+      "hint": "Complete the task before comparing your response with the guidance."
+    },
+    "qualitySchema": "production-v1"
   }
 ];
+window.skillrExamQuestions = window.skillrTestQuestions;
+window.quizQuestions = window.skillrTestQuestions;

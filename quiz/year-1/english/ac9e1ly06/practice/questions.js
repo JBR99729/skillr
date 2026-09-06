@@ -1,14 +1,14 @@
 "use strict";
 window.skillrPracticeQuestions = [
   {
-    "id": "ac9e1ly06-p-001",
+    "id": "ac9e1ly06-er5-p-001",
     "curriculumCode": "AC9E1LY06",
     "bank": "practice",
-    "skill": "create and re-read to edit short written and/or multimodal texts to report on a topic, express an opinion or recount a real or imagined event",
+    "skill": "creating and editing short texts",
     "printable": true,
     "type": "single",
-    "question": "Which sentence clearly reports a fact about a cat?",
-    "audioPrompt": "Which sentence clearly reports a fact about a cat?",
+    "question": "A child writes 'the frog hops.' Which edit fixes the sentence beginning?",
+    "audioPrompt": "A child writes 'the frog hops.' Which edit fixes the sentence beginning?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -16,269 +16,61 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Cat food need.",
-      "I love the cat!",
-      "A cat needs food."
+      "The frog hops.",
+      "the Frog hops.",
+      "the frog Hops."
     ],
-    "correct": 2,
-    "explanation": "A cat needs food. is the best answer.",
-    "structuredExplanation": {
-      "summary": "A cat needs food. is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
     "difficulty": 1,
     "difficultyTier": "recognise",
-    "sequencePriority": 1
-  },
-  {
-    "id": "ac9e1ly06-p-002",
-    "curriculumCode": "AC9E1LY06",
-    "bank": "practice",
-    "skill": "create and re-read to edit short written and/or multimodal texts to report on a topic, express an opinion or recount a real or imagined event",
-    "printable": true,
-    "type": "single",
-    "question": "Which sentence gives an opinion and a reason?",
-    "audioPrompt": "Which sentence gives an opinion and a reason?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "I like the shop.",
-      "I like the shop because it is fun.",
-      "The shop because."
-    ],
-    "correct": 1,
-    "explanation": "I like the shop because it is fun. is the best answer.",
-    "structuredExplanation": {
-      "summary": "I like the shop because it is fun. is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 2
-  },
-  {
-    "id": "ac9e1ly06-p-003",
-    "curriculumCode": "AC9E1LY06",
-    "bank": "practice",
-    "skill": "create and re-read to edit short written and/or multimodal texts to report on a topic, express an opinion or recount a real or imagined event",
-    "printable": true,
-    "type": "single",
-    "question": "Which sentence could begin a recount?",
-    "audioPrompt": "Which sentence could begin a recount?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Because the farm.",
-      "Yesterday, Sam went to the farm.",
-      "The end."
-    ],
-    "correct": 1,
-    "explanation": "Yesterday, Sam went to the farm. is the best answer.",
-    "structuredExplanation": {
-      "summary": "Yesterday, Sam went to the farm. is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 3
-  },
-  {
-    "id": "ac9e1ly06-p-004",
-    "curriculumCode": "AC9E1LY06",
-    "bank": "practice",
-    "skill": "create and re-read to edit short written and/or multimodal texts to report on a topic, express an opinion or recount a real or imagined event",
-    "printable": true,
-    "type": "single",
-    "question": "Read and edit: “kim has a book”",
-    "audioPrompt": "Read and edit: “kim has a book”",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "kim has a book",
-      "Kim has a book.",
-      "Kim has a book?"
-    ],
-    "correct": 1,
-    "explanation": "Kim has a book. is the best answer.",
-    "structuredExplanation": {
-      "summary": "Kim has a book. is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 4
-  },
-  {
-    "id": "ac9e1ly06-p-005",
-    "curriculumCode": "AC9E1LY06",
-    "bank": "practice",
-    "skill": "create and re-read to edit short written and/or multimodal texts to report on a topic, express an opinion or recount a real or imagined event",
-    "printable": true,
-    "type": "single",
-    "question": "Which word fixes “The frog hop fast”?",
-    "audioPrompt": "Which word fixes “The frog hop fast”?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "hoping",
-      "hops",
-      "hoppedly"
-    ],
-    "correct": 1,
-    "explanation": "hops is the best answer.",
-    "structuredExplanation": {
-      "summary": "hops is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 5
-  },
-  {
-    "id": "ac9e1ly06-p-006",
-    "curriculumCode": "AC9E1LY06",
-    "bank": "practice",
-    "skill": "create and re-read to edit short written and/or multimodal texts to report on a topic, express an opinion or recount a real or imagined event",
-    "printable": true,
-    "type": "single",
-    "question": "Which sentence stays on the topic “My kite”?",
-    "audioPrompt": "Which sentence stays on the topic “My kite”?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "The pond is far.",
-      "I ate an apple.",
-      "My kite is blue."
-    ],
-    "correct": 2,
-    "explanation": "My kite is blue. is the best answer.",
-    "structuredExplanation": {
-      "summary": "My kite is blue. is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 6
-  },
-  {
-    "id": "ac9e1ly06-p-007",
-    "curriculumCode": "AC9E1LY06",
-    "bank": "practice",
-    "skill": "create and re-read to edit short written and/or multimodal texts to report on a topic, express an opinion or recount a real or imagined event",
-    "printable": true,
-    "type": "single",
-    "question": "Which ending completes a recount?",
-    "audioPrompt": "Which ending completes a recount?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "First, before first.",
-      "At last, we went home.",
-      "Blue is a colour."
-    ],
-    "correct": 1,
-    "explanation": "At last, we went home. is the best answer.",
-    "structuredExplanation": {
-      "summary": "At last, we went home. is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 7
-  },
-  {
-    "id": "ac9e1ly06-p-008",
-    "curriculumCode": "AC9E1LY06",
-    "bank": "practice",
-    "skill": "create and re-read to edit short written and/or multimodal texts to report on a topic, express an opinion or recount a real or imagined event",
-    "printable": true,
-    "type": "single",
-    "question": "Which sentence is easiest to read?",
-    "audioPrompt": "Which sentence is easiest to read?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Goat mat sat the on.",
-      "The goat sat on the mat.",
-      "Thegoatsatonmat."
-    ],
-    "correct": 1,
-    "explanation": "The goat sat on the mat. is the best answer.",
-    "structuredExplanation": {
-      "summary": "The goat sat on the mat. is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 8
-  },
-  {
-    "id": "ac9e1ly06-p-009",
-    "curriculumCode": "AC9E1LY06",
-    "bank": "practice",
-    "skill": "create and re-read to edit short written and/or multimodal texts to report on a topic, express an opinion or recount a real or imagined event",
-    "printable": true,
-    "type": "single",
-    "question": "Which sentence clearly reports a fact about a hen?",
-    "audioPrompt": "Which sentence clearly reports a fact about a hen?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "A hen needs food.",
-      "I love the hen!",
-      "Hen food need."
-    ],
+    "sequencePriority": 1,
     "correct": 0,
-    "explanation": "A hen needs food. is the best answer.",
+    "explanation": "A sentence starts with a capital letter; the other words here do not need capitals.\nHint: Read the whole sentence and check its meaning.",
     "structuredExplanation": {
-      "summary": "A hen needs food. is the best answer."
+      "summary": "A sentence starts with a capital letter; the other words here do not need capitals.",
+      "hint": "Read the whole sentence and check its meaning."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1ly06-er5-p-002",
+    "curriculumCode": "AC9E1LY06",
+    "bank": "practice",
+    "skill": "creating and editing short texts",
+    "printable": true,
+    "type": "single",
+    "question": "Choose the complete sentence for a report about a bird.",
+    "audioPrompt": "Choose the complete sentence for a report about a bird.",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "A sharp beak on the bird.",
+      "The bird has a sharp beak.",
+      "The bird with a sharp beak."
+    ],
     "difficulty": 1,
     "difficultyTier": "recognise",
-    "sequencePriority": 9
+    "sequencePriority": 2,
+    "correct": 1,
+    "explanation": "The first sentence tells a complete idea about the bird; the others only name or describe it.\nHint: Read the whole sentence and check its meaning.",
+    "structuredExplanation": {
+      "summary": "The first sentence tells a complete idea about the bird; the others only name or describe it.",
+      "hint": "Read the whole sentence and check its meaning."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly06-p-010",
+    "id": "ac9e1ly06-er5-p-003",
     "curriculumCode": "AC9E1LY06",
     "bank": "practice",
-    "skill": "create and re-read to edit short written and/or multimodal texts to report on a topic, express an opinion or recount a real or imagined event",
+    "skill": "creating and editing short texts",
     "printable": true,
     "type": "single",
-    "question": "Which sentence gives an opinion and a reason?",
-    "audioPrompt": "Which sentence gives an opinion and a reason?",
+    "question": "Finish this sentence: 'The dogs ___ at the gate each morning.'",
+    "audioPrompt": "Finish this sentence: 'The dogs ___ at the gate each morning.'",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -286,29 +78,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The camp because.",
-      "I like the camp.",
-      "I like the camp because it is fun."
+      "barks",
+      "barking",
+      "bark"
     ],
-    "correct": 2,
-    "explanation": "I like the camp because it is fun. is the best answer.",
-    "structuredExplanation": {
-      "summary": "I like the camp because it is fun. is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
     "difficulty": 1,
     "difficultyTier": "recognise",
-    "sequencePriority": 10
+    "sequencePriority": 3,
+    "correct": 2,
+    "explanation": "Dogs means more than one, so bark fits this simple present-tense sentence.\nHint: Read the whole sentence and check its meaning.",
+    "structuredExplanation": {
+      "summary": "Dogs means more than one, so bark fits this simple present-tense sentence.",
+      "hint": "Read the whole sentence and check its meaning."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly06-p-011",
+    "id": "ac9e1ly06-er5-p-004",
     "curriculumCode": "AC9E1LY06",
     "bank": "practice",
-    "skill": "create and re-read to edit short written and/or multimodal texts to report on a topic, express an opinion or recount a real or imagined event",
+    "skill": "creating and editing short texts",
     "printable": true,
     "type": "single",
-    "question": "Which sentence could begin a recount?",
-    "audioPrompt": "Which sentence could begin a recount?",
+    "question": "A child is asking where a hat is. Which sentence is punctuated correctly?",
+    "audioPrompt": "A child is asking where a hat is. Which sentence is punctuated correctly?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -316,29 +109,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The end.",
-      "Yesterday, Kim went to the zoo.",
-      "Because the zoo."
+      "Where is my hat?",
+      "Where is my hat.",
+      "where is my hat?"
     ],
-    "correct": 1,
-    "explanation": "Yesterday, Kim went to the zoo. is the best answer.",
-    "structuredExplanation": {
-      "summary": "Yesterday, Kim went to the zoo. is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
     "difficulty": 1,
     "difficultyTier": "recognise",
-    "sequencePriority": 11
+    "sequencePriority": 4,
+    "correct": 0,
+    "explanation": "The question needs a capital at the start and a question mark at the end.\nHint: Read the whole sentence and check its meaning.",
+    "structuredExplanation": {
+      "summary": "The question needs a capital at the start and a question mark at the end.",
+      "hint": "Read the whole sentence and check its meaning."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly06-p-012",
+    "id": "ac9e1ly06-er5-p-005",
     "curriculumCode": "AC9E1LY06",
     "bank": "practice",
-    "skill": "create and re-read to edit short written and/or multimodal texts to report on a topic, express an opinion or recount a real or imagined event",
+    "skill": "creating and editing short texts",
     "printable": true,
     "type": "single",
-    "question": "Read and edit: “ava has a sock”",
-    "audioPrompt": "Read and edit: “ava has a sock”",
+    "question": "Which spelling completes 'The ___ is eating a carrot'?",
+    "audioPrompt": "Which spelling completes 'The ___ is eating a carrot'?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -346,29 +140,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Ava has a sock.",
-      "ava has a sock",
-      "Ava has a sock?"
+      "rabitt",
+      "rabbit",
+      "rabit"
     ],
-    "correct": 0,
-    "explanation": "Ava has a sock. is the best answer.",
-    "structuredExplanation": {
-      "summary": "Ava has a sock. is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
     "difficulty": 1,
     "difficultyTier": "recognise",
-    "sequencePriority": 12
+    "sequencePriority": 5,
+    "correct": 1,
+    "explanation": "Rabbit is the standard spelling; it has two b letters and one t at the end.\nHint: Read the whole sentence and check its meaning.",
+    "structuredExplanation": {
+      "summary": "Rabbit is the standard spelling; it has two b letters and one t at the end.",
+      "hint": "Read the whole sentence and check its meaning."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly06-p-013",
+    "id": "ac9e1ly06-er5-p-006",
     "curriculumCode": "AC9E1LY06",
     "bank": "practice",
-    "skill": "create and re-read to edit short written and/or multimodal texts to report on a topic, express an opinion or recount a real or imagined event",
+    "skill": "creating and editing short texts",
     "printable": true,
     "type": "single",
-    "question": "Which word fixes “The fish hop fast”?",
-    "audioPrompt": "Which word fixes “The fish hop fast”?",
+    "question": "Which sentence clearly gives an opinion about a game?",
+    "audioPrompt": "Which sentence clearly gives an opinion about a game?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -376,29 +171,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "hoppedly",
-      "hoping",
-      "hops"
+      "This game has six cards.",
+      "The cards are in a box.",
+      "I like this game because we work together."
     ],
-    "correct": 2,
-    "explanation": "hops is the best answer.",
-    "structuredExplanation": {
-      "summary": "hops is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
     "difficulty": 1,
     "difficultyTier": "recognise",
-    "sequencePriority": 13
+    "sequencePriority": 6,
+    "correct": 2,
+    "explanation": "I like expresses a preference and because introduces the reason for it.\nHint: Read the whole sentence and check its meaning.",
+    "structuredExplanation": {
+      "summary": "I like expresses a preference and because introduces the reason for it.",
+      "hint": "Read the whole sentence and check its meaning."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly06-p-014",
+    "id": "ac9e1ly06-er5-p-007",
     "curriculumCode": "AC9E1LY06",
     "bank": "practice",
-    "skill": "create and re-read to edit short written and/or multimodal texts to report on a topic, express an opinion or recount a real or imagined event",
+    "skill": "creating and editing short texts",
     "printable": true,
     "type": "single",
-    "question": "Which sentence stays on the topic “My hat”?",
-    "audioPrompt": "Which sentence stays on the topic “My hat”?",
+    "question": "Choose the sentence with the words in a clear order.",
+    "audioPrompt": "Choose the sentence with the words in a clear order.",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -406,29 +202,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "I ate an apple.",
-      "My hat is blue.",
-      "The farm is far."
+      "The cat sleeps on the mat.",
+      "Sleeps the on cat mat the.",
+      "On sleeps the cat the mat."
     ],
-    "correct": 1,
-    "explanation": "My hat is blue. is the best answer.",
-    "structuredExplanation": {
-      "summary": "My hat is blue. is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
     "difficulty": 1,
     "difficultyTier": "recognise",
-    "sequencePriority": 14
+    "sequencePriority": 7,
+    "correct": 0,
+    "explanation": "The first option puts who, the action and the place into a complete sentence.\nHint: Read the whole sentence and check its meaning.",
+    "structuredExplanation": {
+      "summary": "The first option puts who, the action and the place into a complete sentence.",
+      "hint": "Read the whole sentence and check its meaning."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly06-p-015",
+    "id": "ac9e1ly06-er5-p-008",
     "curriculumCode": "AC9E1LY06",
     "bank": "practice",
-    "skill": "create and re-read to edit short written and/or multimodal texts to report on a topic, express an opinion or recount a real or imagined event",
+    "skill": "creating and editing short texts",
     "printable": true,
     "type": "single",
-    "question": "Which ending completes a recount?",
-    "audioPrompt": "Which ending completes a recount?",
+    "question": "A report describes a plant. Which word names the part that takes in water from soil?",
+    "audioPrompt": "A report describes a plant. Which word names the part that takes in water from soil?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -436,29 +233,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "At last, we went home.",
-      "First, before first.",
-      "Blue is a colour."
+      "ropes",
+      "roots",
+      "roof"
     ],
-    "correct": 0,
-    "explanation": "At last, we went home. is the best answer.",
-    "structuredExplanation": {
-      "summary": "At last, we went home. is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
     "difficulty": 1,
     "difficultyTier": "recognise",
-    "sequencePriority": 15
+    "sequencePriority": 8,
+    "correct": 1,
+    "explanation": "Roots is precise plant vocabulary for the part in the soil that takes in water.\nHint: Read the whole sentence and check its meaning.",
+    "structuredExplanation": {
+      "summary": "Roots is precise plant vocabulary for the part in the soil that takes in water.",
+      "hint": "Read the whole sentence and check its meaning."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly06-p-016",
+    "id": "ac9e1ly06-er5-p-009",
     "curriculumCode": "AC9E1LY06",
     "bank": "practice",
-    "skill": "create and re-read to edit short written and/or multimodal texts to report on a topic, express an opinion or recount a real or imagined event",
+    "skill": "creating and editing short texts",
     "printable": true,
     "type": "single",
-    "question": "Which sentence is easiest to read?",
-    "audioPrompt": "Which sentence is easiest to read?",
+    "question": "Edit 'The duck swim in the pond each day.'",
+    "audioPrompt": "Edit 'The duck swim in the pond each day.'",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -466,59 +264,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Dog mat sat the on.",
-      "Thedogsatonmat.",
-      "The dog sat on the mat."
+      "The duck swimming in the pond each day.",
+      "The duck swum in the pond each day.",
+      "The duck swims in the pond each day."
     ],
-    "correct": 2,
-    "explanation": "The dog sat on the mat. is the best answer.",
-    "structuredExplanation": {
-      "summary": "The dog sat on the mat. is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 16
-  },
-  {
-    "id": "ac9e1ly06-p-017",
-    "curriculumCode": "AC9E1LY06",
-    "bank": "practice",
-    "skill": "create and re-read to edit short written and/or multimodal texts to report on a topic, express an opinion or recount a real or imagined event",
-    "printable": true,
-    "type": "single",
-    "question": "Which sentence clearly reports a fact about a frog?",
-    "audioPrompt": "Which sentence clearly reports a fact about a frog?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "I love the frog!",
-      "Frog food need.",
-      "A frog needs food."
-    ],
-    "correct": 2,
-    "explanation": "A frog needs food. is the best answer.",
-    "structuredExplanation": {
-      "summary": "A frog needs food. is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
     "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 17
+    "difficultyTier": "apply",
+    "sequencePriority": 9,
+    "correct": 2,
+    "explanation": "The singular subject duck takes swims in this simple present-tense sentence.\nHint: Read the whole sentence and check its meaning.",
+    "structuredExplanation": {
+      "summary": "The singular subject duck takes swims in this simple present-tense sentence.",
+      "hint": "Read the whole sentence and check its meaning."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly06-p-018",
+    "id": "ac9e1ly06-er5-p-010",
     "curriculumCode": "AC9E1LY06",
     "bank": "practice",
-    "skill": "create and re-read to edit short written and/or multimodal texts to report on a topic, express an opinion or recount a real or imagined event",
+    "skill": "creating and editing short texts",
     "printable": true,
     "type": "single",
-    "question": "Which sentence gives an opinion and a reason?",
-    "audioPrompt": "Which sentence gives an opinion and a reason?",
+    "question": "A recount says 'Yesterday, I jump over a puddle.' Which change fits the time?",
+    "audioPrompt": "A recount says 'Yesterday, I jump over a puddle.' Which change fits the time?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -526,29 +295,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "I like the beach because it is fun.",
-      "The beach because.",
-      "I like the beach."
+      "Change jump to jumped.",
+      "Change Yesterday to Tomorrow and keep jump.",
+      "Change I to We and keep jump."
     ],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 10,
     "correct": 0,
-    "explanation": "I like the beach because it is fun. is the best answer.",
+    "explanation": "Jumped places the action in the past, matching Yesterday.\nHint: Read the whole sentence and check its meaning.",
     "structuredExplanation": {
-      "summary": "I like the beach because it is fun. is the best answer."
+      "summary": "Jumped places the action in the past, matching Yesterday.",
+      "hint": "Read the whole sentence and check its meaning."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 18
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly06-p-019",
+    "id": "ac9e1ly06-er5-p-011",
     "curriculumCode": "AC9E1LY06",
     "bank": "practice",
-    "skill": "create and re-read to edit short written and/or multimodal texts to report on a topic, express an opinion or recount a real or imagined event",
+    "skill": "creating and editing short texts",
     "printable": true,
     "type": "single",
-    "question": "Which sentence could begin a recount?",
-    "audioPrompt": "Which sentence could begin a recount?",
+    "question": "Read the draft: 'We saw a crab it hid under a rock.' Which edit separates the two complete ideas?",
+    "audioPrompt": "Read the draft: 'We saw a crab it hid under a rock.' Which edit separates the two complete ideas?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -556,29 +326,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Because the school.",
-      "Yesterday, Ava went to the school.",
-      "The end."
+      "We saw a crab it. Hid under a rock.",
+      "We saw a crab. It hid under a rock.",
+      "We saw. A crab it hid under a rock."
     ],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 11,
     "correct": 1,
-    "explanation": "Yesterday, Ava went to the school. is the best answer.",
+    "explanation": "The full stop belongs after the first complete idea, and It starts the next sentence.\nHint: Read the whole sentence and check its meaning.",
     "structuredExplanation": {
-      "summary": "Yesterday, Ava went to the school. is the best answer."
+      "summary": "The full stop belongs after the first complete idea, and It starts the next sentence.",
+      "hint": "Read the whole sentence and check its meaning."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 19
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly06-p-020",
+    "id": "ac9e1ly06-er5-p-012",
     "curriculumCode": "AC9E1LY06",
     "bank": "practice",
-    "skill": "create and re-read to edit short written and/or multimodal texts to report on a topic, express an opinion or recount a real or imagined event",
+    "skill": "creating and editing short texts",
     "printable": true,
     "type": "single",
-    "question": "Read and edit: “leo has a bag”",
-    "audioPrompt": "Read and edit: “leo has a bag”",
+    "question": "A child writes 'I like the library.' Which added sentence gives a relevant reason?",
+    "audioPrompt": "A child writes 'I like the library.' Which added sentence gives a relevant reason?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -586,29 +357,61 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Leo has a bag.",
-      "Leo has a bag?",
-      "leo has a bag"
+      "My lunchbox is on the shelf.",
+      "The door has a handle.",
+      "I can choose many different stories there."
     ],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 12,
+    "correct": 2,
+    "explanation": "A choice of stories explains the preference for the library more directly than unrelated details.\nHint: Read the whole sentence and check its meaning.",
+    "structuredExplanation": {
+      "summary": "A choice of stories explains the preference for the library more directly than unrelated details.",
+      "hint": "Read the whole sentence and check its meaning."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1ly06-er5-p-013",
+    "curriculumCode": "AC9E1LY06",
+    "bank": "practice",
+    "skill": "creating and editing short texts",
+    "printable": true,
+    "type": "single",
+    "question": "A report says 'A fish uses its things to move through water.' Which edit makes the body-part word precise?",
+    "audioPrompt": "A report says 'A fish uses its things to move through water.' Which edit makes the body-part word precise?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Replace things with fins.",
+      "Replace fish with animal.",
+      "Replace water with stuff."
+    ],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 13,
     "correct": 0,
-    "explanation": "Leo has a bag. is the best answer.",
+    "explanation": "Fins names the relevant body parts; the other changes make the report less precise.\nHint: Read the whole sentence and check its meaning.",
     "structuredExplanation": {
-      "summary": "Leo has a bag. is the best answer."
+      "summary": "Fins names the relevant body parts; the other changes make the report less precise.",
+      "hint": "Read the whole sentence and check its meaning."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 20
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly06-p-021",
+    "id": "ac9e1ly06-er5-p-014",
     "curriculumCode": "AC9E1LY06",
     "bank": "practice",
-    "skill": "create and re-read to edit short written and/or multimodal texts to report on a topic, express an opinion or recount a real or imagined event",
+    "skill": "creating and editing short texts",
     "printable": true,
     "type": "single",
-    "question": "Which word fixes “The cat hop fast”?",
-    "audioPrompt": "Which word fixes “The cat hop fast”?",
+    "question": "A recount begins 'First we dug a hole. Then we planted the seed.' Which next sentence keeps the event sequence sensible?",
+    "audioPrompt": "A recount begins 'First we dug a hole. Then we planted the seed.' Which next sentence keeps the event sequence sensible?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -616,29 +419,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "hoppedly",
-      "hops",
-      "hoping"
+      "Next, we began the first step again without a reason.",
+      "After that, we watered the soil.",
+      "Before digging, the seed was already planted in that hole."
     ],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 14,
     "correct": 1,
-    "explanation": "hops is the best answer.",
+    "explanation": "Watering follows planting naturally and continues the account of this task.\nHint: Read the whole sentence and check its meaning.",
     "structuredExplanation": {
-      "summary": "hops is the best answer."
+      "summary": "Watering follows planting naturally and continues the account of this task.",
+      "hint": "Read the whole sentence and check its meaning."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 21
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly06-p-022",
+    "id": "ac9e1ly06-er5-p-015",
     "curriculumCode": "AC9E1LY06",
     "bank": "practice",
-    "skill": "create and re-read to edit short written and/or multimodal texts to report on a topic, express an opinion or recount a real or imagined event",
+    "skill": "creating and editing short texts",
     "printable": true,
     "type": "single",
-    "question": "Which sentence stays on the topic “My book”?",
-    "audioPrompt": "Which sentence stays on the topic “My book”?",
+    "question": "A child writes 'I saw an dog.' Which edit is needed?",
+    "audioPrompt": "A child writes 'I saw an dog.' Which edit is needed?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -646,29 +450,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "I ate an apple.",
-      "The zoo is far.",
-      "My book is blue."
+      "I saw an dogs.",
+      "I saw dog an.",
+      "I saw a dog."
     ],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 15,
     "correct": 2,
-    "explanation": "My book is blue. is the best answer.",
+    "explanation": "Dog begins with a consonant sound, so a is the suitable article here.\nHint: Read the whole sentence and check its meaning.",
     "structuredExplanation": {
-      "summary": "My book is blue. is the best answer."
+      "summary": "Dog begins with a consonant sound, so a is the suitable article here.",
+      "hint": "Read the whole sentence and check its meaning."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 22
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly06-p-023",
+    "id": "ac9e1ly06-er5-p-016",
     "curriculumCode": "AC9E1LY06",
     "bank": "practice",
-    "skill": "create and re-read to edit short written and/or multimodal texts to report on a topic, express an opinion or recount a real or imagined event",
+    "skill": "creating and editing short texts",
     "printable": true,
     "type": "single",
-    "question": "Read and choose: Which ending completes a recount?",
-    "audioPrompt": "Read and choose: Which ending completes a recount?",
+    "question": "Read: 'The bag fell. The bag spilled its books.' Which edit avoids repeating the name while keeping meaning?",
+    "audioPrompt": "Read: 'The bag fell. The bag spilled its books.' Which edit avoids repeating the name while keeping meaning?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -676,179 +481,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "First, before first.",
-      "At last, we went home.",
-      "Blue is a colour."
+      "The bag fell. It spilled its books.",
+      "The bag fell. They spilled its books.",
+      "The bag fell. We spilled its books."
     ],
-    "correct": 1,
-    "explanation": "At last, we went home. is the best answer.",
-    "structuredExplanation": {
-      "summary": "At last, we went home. is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
     "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 23
-  },
-  {
-    "id": "ac9e1ly06-p-024",
-    "curriculumCode": "AC9E1LY06",
-    "bank": "practice",
-    "skill": "create and re-read to edit short written and/or multimodal texts to report on a topic, express an opinion or recount a real or imagined event",
-    "printable": true,
-    "type": "single",
-    "question": "Which sentence is easiest to read?",
-    "audioPrompt": "Which sentence is easiest to read?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Fox mat sat the on.",
-      "The fox sat on the mat.",
-      "Thefoxsatonmat."
-    ],
-    "correct": 1,
-    "explanation": "The fox sat on the mat. is the best answer.",
-    "structuredExplanation": {
-      "summary": "The fox sat on the mat. is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 24
-  },
-  {
-    "id": "ac9e1ly06-p-025",
-    "curriculumCode": "AC9E1LY06",
-    "bank": "practice",
-    "skill": "create and re-read to edit short written and/or multimodal texts to report on a topic, express an opinion or recount a real or imagined event",
-    "printable": true,
-    "type": "single",
-    "question": "Which sentence clearly reports a fact about a fish?",
-    "audioPrompt": "Which sentence clearly reports a fact about a fish?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Fish food need.",
-      "I love the fish!",
-      "A fish needs food."
-    ],
-    "correct": 2,
-    "explanation": "A fish needs food. is the best answer.",
-    "structuredExplanation": {
-      "summary": "A fish needs food. is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 25
-  },
-  {
-    "id": "ac9e1ly06-p-026",
-    "curriculumCode": "AC9E1LY06",
-    "bank": "practice",
-    "skill": "create and re-read to edit short written and/or multimodal texts to report on a topic, express an opinion or recount a real or imagined event",
-    "printable": true,
-    "type": "single",
-    "question": "Which sentence gives an opinion and a reason?",
-    "audioPrompt": "Which sentence gives an opinion and a reason?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "I like the park.",
-      "I like the park because it is fun.",
-      "The park because."
-    ],
-    "correct": 1,
-    "explanation": "I like the park because it is fun. is the best answer.",
-    "structuredExplanation": {
-      "summary": "I like the park because it is fun. is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 26
-  },
-  {
-    "id": "ac9e1ly06-p-027",
-    "curriculumCode": "AC9E1LY06",
-    "bank": "practice",
-    "skill": "create and re-read to edit short written and/or multimodal texts to report on a topic, express an opinion or recount a real or imagined event",
-    "printable": true,
-    "type": "single",
-    "question": "Which sentence could begin a recount?",
-    "audioPrompt": "Which sentence could begin a recount?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "The end.",
-      "Because the shop.",
-      "Yesterday, Leo went to the shop."
-    ],
-    "correct": 2,
-    "explanation": "Yesterday, Leo went to the shop. is the best answer.",
-    "structuredExplanation": {
-      "summary": "Yesterday, Leo went to the shop. is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 27
-  },
-  {
-    "id": "ac9e1ly06-p-028",
-    "curriculumCode": "AC9E1LY06",
-    "bank": "practice",
-    "skill": "create and re-read to edit short written and/or multimodal texts to report on a topic, express an opinion or recount a real or imagined event",
-    "printable": true,
-    "type": "single",
-    "question": "Read and edit: “zoe has a ball”",
-    "audioPrompt": "Read and edit: “zoe has a ball”",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Zoe has a ball.",
-      "Zoe has a ball?",
-      "zoe has a ball"
-    ],
+    "difficultyTier": "apply",
+    "sequencePriority": 16,
     "correct": 0,
-    "explanation": "Zoe has a ball. is the best answer.",
+    "explanation": "It refers clearly to the one bag, while the other pronouns change the meaning.\nHint: Read the whole sentence and check its meaning.",
     "structuredExplanation": {
-      "summary": "Zoe has a ball. is the best answer."
+      "summary": "It refers clearly to the one bag, while the other pronouns change the meaning.",
+      "hint": "Read the whole sentence and check its meaning."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 28
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly06-p-029",
+    "id": "ac9e1ly06-er5-p-017",
     "curriculumCode": "AC9E1LY06",
     "bank": "practice",
-    "skill": "create and re-read to edit short written and/or multimodal texts to report on a topic, express an opinion or recount a real or imagined event",
+    "skill": "creating and editing short texts",
     "printable": true,
     "type": "single",
-    "question": "Which word fixes “The hen hop fast”?",
-    "audioPrompt": "Which word fixes “The hen hop fast”?",
+    "question": "A draft says 'Birds have feathers. My shoes are wet. Birds lay eggs.' Which sentence should be removed to keep the report focused?",
+    "audioPrompt": "A draft says 'Birds have feathers. My shoes are wet. Birds lay eggs.' Which sentence should be removed to keep the report focused?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -856,59 +512,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "hoppedly",
-      "hoping",
-      "hops"
+      "Birds lay eggs.",
+      "My shoes are wet.",
+      "Birds have feathers."
     ],
-    "correct": 2,
-    "explanation": "hops is the best answer.",
-    "structuredExplanation": {
-      "summary": "hops is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 29
-  },
-  {
-    "id": "ac9e1ly06-p-030",
-    "curriculumCode": "AC9E1LY06",
-    "bank": "practice",
-    "skill": "create and re-read to edit short written and/or multimodal texts to report on a topic, express an opinion or recount a real or imagined event",
-    "printable": true,
-    "type": "single",
-    "question": "Which sentence stays on the topic “My sock”?",
-    "audioPrompt": "Which sentence stays on the topic “My sock”?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "I ate an apple.",
-      "My sock is blue.",
-      "The school is far."
-    ],
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 17,
     "correct": 1,
-    "explanation": "My sock is blue. is the best answer.",
+    "explanation": "The shoe sentence is unrelated to the report's information about birds.\nHint: Read the whole sentence and check its meaning.",
     "structuredExplanation": {
-      "summary": "My sock is blue. is the best answer."
+      "summary": "The shoe sentence is unrelated to the report's information about birds.",
+      "hint": "Read the whole sentence and check its meaning."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 30
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly06-p-031",
+    "id": "ac9e1ly06-er5-p-018",
     "curriculumCode": "AC9E1LY06",
     "bank": "practice",
-    "skill": "create and re-read to edit short written and/or multimodal texts to report on a topic, express an opinion or recount a real or imagined event",
+    "skill": "creating and editing short texts",
     "printable": true,
     "type": "single",
-    "question": "Which ending completes a recount?",
-    "audioPrompt": "Which ending completes a recount?",
+    "question": "A child writes 'I like the park because I like the park.' Which revision supplies a useful reason?",
+    "audioPrompt": "A child writes 'I like the park because I like the park.' Which revision supplies a useful reason?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -916,29 +543,61 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "At last, we went home.",
-      "Blue is a colour.",
-      "First, before first."
+      "I like the park because the park is the park.",
+      "I like the park because I said I do.",
+      "I like the park because there is room to run."
     ],
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 18,
+    "correct": 2,
+    "explanation": "Room to run adds a reason instead of repeating the same preference.\nHint: Read the whole sentence and check its meaning.",
+    "structuredExplanation": {
+      "summary": "Room to run adds a reason instead of repeating the same preference.",
+      "hint": "Read the whole sentence and check its meaning."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1ly06-er5-p-019",
+    "curriculumCode": "AC9E1LY06",
+    "bank": "practice",
+    "skill": "creating and editing short texts",
+    "printable": true,
+    "type": "single",
+    "question": "A recount says 'We packed up before going home.' Which opening fits that same outing?",
+    "audioPrompt": "A recount says 'We packed up before going home.' Which opening fits that same outing?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "This morning, our class visited the garden.",
+      "Tomorrow, our class might visit the garden.",
+      "Our class has never been to any garden."
+    ],
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 19,
     "correct": 0,
-    "explanation": "At last, we went home. is the best answer.",
+    "explanation": "A past outing can end with packing up; a possible future visit is not the same recount.\nHint: Read the whole sentence and check its meaning.",
     "structuredExplanation": {
-      "summary": "At last, we went home. is the best answer."
+      "summary": "A past outing can end with packing up; a possible future visit is not the same recount.",
+      "hint": "Read the whole sentence and check its meaning."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 31
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly06-p-032",
+    "id": "ac9e1ly06-er5-p-020",
     "curriculumCode": "AC9E1LY06",
     "bank": "practice",
-    "skill": "create and re-read to edit short written and/or multimodal texts to report on a topic, express an opinion or recount a real or imagined event",
+    "skill": "creating and editing short texts",
     "printable": true,
     "type": "single",
-    "question": "Which sentence is easiest to read?",
-    "audioPrompt": "Which sentence is easiest to read?",
+    "question": "Read: 'The small seed grew a root.' Which caption would match a drawing of that event?",
+    "audioPrompt": "Read: 'The small seed grew a root.' Which caption would match a drawing of that event?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -946,498 +605,152 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Duck mat sat the on.",
-      "Theducksatonmat.",
-      "The duck sat on the mat."
+      "The seed is still unchanged.",
+      "A root is growing from the seed.",
+      "The seed has grown a flower already."
     ],
-    "correct": 2,
-    "explanation": "The duck sat on the mat. is the best answer.",
-    "structuredExplanation": {
-      "summary": "The duck sat on the mat. is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 32
-  },
-  {
-    "id": "ac9e1ly06-p-033",
-    "curriculumCode": "AC9E1LY06",
-    "bank": "practice",
-    "skill": "create and re-read to edit short written and/or multimodal texts to report on a topic, express an opinion or recount a real or imagined event",
-    "printable": true,
-    "type": "single",
-    "question": "Which sentence clearly reports a fact about a cat?",
-    "audioPrompt": "Which sentence clearly reports a fact about a cat?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "I love the cat!",
-      "A cat needs food.",
-      "Cat food need."
-    ],
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 20,
     "correct": 1,
-    "explanation": "A cat needs food. is the best answer.",
+    "explanation": "The caption should match the stated root-growth stage rather than add an unsupported stage.\nHint: Read the whole sentence and check its meaning.",
     "structuredExplanation": {
-      "summary": "A cat needs food. is the best answer."
+      "summary": "The caption should match the stated root-growth stage rather than add an unsupported stage.",
+      "hint": "Read the whole sentence and check its meaning."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 33
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly06-p-034",
+    "id": "ac9e1ly06-er5-p-021",
     "curriculumCode": "AC9E1LY06",
     "bank": "practice",
-    "skill": "create and re-read to edit short written and/or multimodal texts to report on a topic, express an opinion or recount a real or imagined event",
+    "skill": "creating and editing short texts",
     "printable": true,
-    "type": "single",
-    "question": "Which sentence gives an opinion and a reason?",
-    "audioPrompt": "Which sentence gives an opinion and a reason?",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "For example: A duck has feathers. It has a beak. Accept other accurate, complete sentences about one animal.",
+    "acceptanceNote": "Check that both sentences stay on the animal topic, use suitable vocabulary and have clear boundaries. Support spelling without replacing the child's ideas.",
+    "responseInstructions": "Write your response on paper or here. A grown-up will check it.",
+    "completionLabel": "I have completed the writing on paper.",
+    "question": "Write two simple sentences reporting what you know about a familiar animal. Re-read them and fix the capitals and end marks.",
+    "audioPrompt": "Write two simple sentences reporting what you know about a familiar animal. Re-read them and fix the capitals and end marks.",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
-    "answers": [
-      "I like the pond because it is fun.",
-      "The pond because.",
-      "I like the pond."
-    ],
-    "correct": 0,
-    "explanation": "I like the pond because it is fun. is the best answer.",
-    "structuredExplanation": {
-      "summary": "I like the pond because it is fun. is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
+    "answers": [],
     "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 34
+    "difficultyTier": "reason",
+    "sequencePriority": 21,
+    "correct": "For example: A duck has feathers. It has a beak. Accept other accurate, complete sentences about one animal.",
+    "explanation": "Check that both sentences stay on the animal topic, use suitable vocabulary and have clear boundaries. Support spelling without replacing the child's ideas.\nHint: Complete the task before comparing your response with the guidance.",
+    "structuredExplanation": {
+      "summary": "Check that both sentences stay on the animal topic, use suitable vocabulary and have clear boundaries. Support spelling without replacing the child's ideas.",
+      "hint": "Complete the task before comparing your response with the guidance."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly06-p-035",
+    "id": "ac9e1ly06-er5-p-022",
     "curriculumCode": "AC9E1LY06",
     "bank": "practice",
-    "skill": "create and re-read to edit short written and/or multimodal texts to report on a topic, express an opinion or recount a real or imagined event",
+    "skill": "creating and editing short texts",
     "printable": true,
-    "type": "single",
-    "question": "Which sentence could begin a recount?",
-    "audioPrompt": "Which sentence could begin a recount?",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "For example: I like painting because I can mix colours. Accept any clearly expressed opinion with a relevant reason.",
+    "acceptanceNote": "Check that the opinion and reason connect, the sentence communicates a complete idea and its capital and end mark are present.",
+    "responseInstructions": "Write your response on paper or here. A grown-up will check it.",
+    "completionLabel": "I have completed the writing on paper.",
+    "question": "Write your opinion about a classroom activity and add a reason. Re-read and improve one word if you can.",
+    "audioPrompt": "Write your opinion about a classroom activity and add a reason. Re-read and improve one word if you can.",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
-    "answers": [
-      "Because the camp.",
-      "Yesterday, Zoe went to the camp.",
-      "The end."
-    ],
-    "correct": 1,
-    "explanation": "Yesterday, Zoe went to the camp. is the best answer.",
-    "structuredExplanation": {
-      "summary": "Yesterday, Zoe went to the camp. is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
+    "answers": [],
     "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 35
+    "difficultyTier": "reason",
+    "sequencePriority": 22,
+    "correct": "For example: I like painting because I can mix colours. Accept any clearly expressed opinion with a relevant reason.",
+    "explanation": "Check that the opinion and reason connect, the sentence communicates a complete idea and its capital and end mark are present.\nHint: Complete the task before comparing your response with the guidance.",
+    "structuredExplanation": {
+      "summary": "Check that the opinion and reason connect, the sentence communicates a complete idea and its capital and end mark are present.",
+      "hint": "Complete the task before comparing your response with the guidance."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly06-p-036",
+    "id": "ac9e1ly06-er5-p-023",
     "curriculumCode": "AC9E1LY06",
     "bank": "practice",
-    "skill": "create and re-read to edit short written and/or multimodal texts to report on a topic, express an opinion or recount a real or imagined event",
+    "skill": "creating and editing short texts",
     "printable": true,
-    "type": "single",
-    "question": "Read and edit: “max has a map”",
-    "audioPrompt": "Read and edit: “max has a map”",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Accept an opening naming the event, one or more actions in a sensible order and grammatically understandable sentences.",
+    "acceptanceNote": "Check that the account stays with one event and uses sentence boundaries. The child's actual experience determines the content; do not require this model's wording.",
+    "responseInstructions": "Write your response on paper or here. A grown-up will check it.",
+    "completionLabel": "I have completed the writing on paper.",
+    "question": "Write a short recount in two or three sentences about something you did today. Re-read it to check the order.",
+    "audioPrompt": "Write a short recount in two or three sentences about something you did today. Re-read it to check the order.",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
-    "answers": [
-      "Max has a map?",
-      "Max has a map.",
-      "max has a map"
-    ],
-    "correct": 1,
-    "explanation": "Max has a map. is the best answer.",
-    "structuredExplanation": {
-      "summary": "Max has a map. is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
+    "answers": [],
     "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 36
+    "difficultyTier": "reason",
+    "sequencePriority": 23,
+    "correct": "Accept an opening naming the event, one or more actions in a sensible order and grammatically understandable sentences.",
+    "explanation": "Check that the account stays with one event and uses sentence boundaries. The child's actual experience determines the content; do not require this model's wording.\nHint: Complete the task before comparing your response with the guidance.",
+    "structuredExplanation": {
+      "summary": "Check that the account stays with one event and uses sentence boundaries. The child's actual experience determines the content; do not require this model's wording.",
+      "hint": "Complete the task before comparing your response with the guidance."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly06-p-037",
+    "id": "ac9e1ly06-er5-p-024",
     "curriculumCode": "AC9E1LY06",
     "bank": "practice",
-    "skill": "create and re-read to edit short written and/or multimodal texts to report on a topic, express an opinion or recount a real or imagined event",
+    "skill": "creating and editing short texts",
     "printable": true,
-    "type": "single",
-    "question": "Which word fixes “The frog hop fast”?",
-    "audioPrompt": "Which word fixes “The frog hop fast”?",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "We made a boat. It floated.",
+    "acceptanceNote": "Check the capital W, a full stop after boat, capital I and final full stop. Both original ideas should remain.",
+    "responseInstructions": "Write your response on paper or here. A grown-up will check it.",
+    "completionLabel": "I have completed the writing on paper.",
+    "question": "Rewrite this draft on paper: 'we made a boat it floated'. Keep the two ideas and fix the sentence boundaries.",
+    "audioPrompt": "Rewrite this draft on paper: 'we made a boat it floated'. Keep the two ideas and fix the sentence boundaries.",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
-    "answers": [
-      "hops",
-      "hoping",
-      "hoppedly"
-    ],
-    "correct": 0,
-    "explanation": "hops is the best answer.",
-    "structuredExplanation": {
-      "summary": "hops is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
+    "answers": [],
     "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 37
-  },
-  {
-    "id": "ac9e1ly06-p-038",
-    "curriculumCode": "AC9E1LY06",
-    "bank": "practice",
-    "skill": "create and re-read to edit short written and/or multimodal texts to report on a topic, express an opinion or recount a real or imagined event",
-    "printable": true,
-    "type": "single",
-    "question": "Which sentence stays on the topic “My bag”?",
-    "audioPrompt": "Which sentence stays on the topic “My bag”?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "The shop is far.",
-      "My bag is blue.",
-      "I ate an apple."
-    ],
-    "correct": 1,
-    "explanation": "My bag is blue. is the best answer.",
+    "difficultyTier": "reason",
+    "sequencePriority": 24,
+    "correct": "We made a boat. It floated.",
+    "explanation": "Check the capital W, a full stop after boat, capital I and final full stop. Both original ideas should remain.\nHint: Complete the task before comparing your response with the guidance.",
     "structuredExplanation": {
-      "summary": "My bag is blue. is the best answer."
+      "summary": "Check the capital W, a full stop after boat, capital I and final full stop. Both original ideas should remain.",
+      "hint": "Complete the task before comparing your response with the guidance."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 38
-  },
-  {
-    "id": "ac9e1ly06-p-039",
-    "curriculumCode": "AC9E1LY06",
-    "bank": "practice",
-    "skill": "create and re-read to edit short written and/or multimodal texts to report on a topic, express an opinion or recount a real or imagined event",
-    "printable": true,
-    "type": "single",
-    "question": "Which ending completes a recount?",
-    "audioPrompt": "Which ending completes a recount?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Blue is a colour.",
-      "First, before first.",
-      "At last, we went home."
-    ],
-    "correct": 2,
-    "explanation": "At last, we went home. is the best answer.",
-    "structuredExplanation": {
-      "summary": "At last, we went home. is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 39
-  },
-  {
-    "id": "ac9e1ly06-p-040",
-    "curriculumCode": "AC9E1LY06",
-    "bank": "practice",
-    "skill": "create and re-read to edit short written and/or multimodal texts to report on a topic, express an opinion or recount a real or imagined event",
-    "printable": true,
-    "type": "single",
-    "question": "Read and choose: Which sentence is easiest to read?",
-    "audioPrompt": "Read and choose: Which sentence is easiest to read?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Goat mat sat the on.",
-      "The goat sat on the mat.",
-      "Thegoatsatonmat."
-    ],
-    "correct": 1,
-    "explanation": "The goat sat on the mat. is the best answer.",
-    "structuredExplanation": {
-      "summary": "The goat sat on the mat. is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 40
-  },
-  {
-    "id": "ac9e1ly06-p-041",
-    "curriculumCode": "AC9E1LY06",
-    "bank": "practice",
-    "skill": "create and re-read to edit short written and/or multimodal texts to report on a topic, express an opinion or recount a real or imagined event",
-    "printable": true,
-    "type": "single",
-    "question": "Which sentence clearly reports a fact about a hen?",
-    "audioPrompt": "Which sentence clearly reports a fact about a hen?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Hen food need.",
-      "I love the hen!",
-      "A hen needs food."
-    ],
-    "correct": 2,
-    "explanation": "A hen needs food. is the best answer.",
-    "structuredExplanation": {
-      "summary": "A hen needs food. is the best answer."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 41,
-    "qualitySchema": "reviewed-year1-english-v1"
-  },
-  {
-    "id": "ac9e1ly06-p-042",
-    "curriculumCode": "AC9E1LY06",
-    "bank": "practice",
-    "skill": "create and re-read to edit short written and/or multimodal texts to report on a topic, express an opinion or recount a real or imagined event",
-    "printable": true,
-    "type": "single",
-    "question": "Which sentence gives an opinion and a reason?",
-    "audioPrompt": "Which sentence gives an opinion and a reason?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "I like the farm.",
-      "The farm because.",
-      "I like the farm because it is fun."
-    ],
-    "correct": 2,
-    "explanation": "I like the farm because it is fun. is the best answer.",
-    "structuredExplanation": {
-      "summary": "I like the farm because it is fun. is the best answer."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 42,
-    "qualitySchema": "reviewed-year1-english-v1"
-  },
-  {
-    "id": "ac9e1ly06-p-043",
-    "curriculumCode": "AC9E1LY06",
-    "bank": "practice",
-    "skill": "create and re-read to edit short written and/or multimodal texts to report on a topic, express an opinion or recount a real or imagined event",
-    "printable": true,
-    "type": "single",
-    "question": "Which sentence could begin a recount?",
-    "audioPrompt": "Which sentence could begin a recount?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Yesterday, Max went to the beach.",
-      "Because the beach.",
-      "The end."
-    ],
-    "correct": 0,
-    "explanation": "Yesterday, Max went to the beach. is the best answer.",
-    "structuredExplanation": {
-      "summary": "Yesterday, Max went to the beach. is the best answer."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 43,
-    "qualitySchema": "reviewed-year1-english-v1"
-  },
-  {
-    "id": "ac9e1ly06-p-044",
-    "curriculumCode": "AC9E1LY06",
-    "bank": "practice",
-    "skill": "create and re-read to edit short written and/or multimodal texts to report on a topic, express an opinion or recount a real or imagined event",
-    "printable": true,
-    "type": "single",
-    "question": "Read and edit: “mia has a cup”",
-    "audioPrompt": "Read and edit: “mia has a cup”",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "mia has a cup",
-      "Mia has a cup?",
-      "Mia has a cup."
-    ],
-    "correct": 2,
-    "explanation": "Mia has a cup. is the best answer.",
-    "structuredExplanation": {
-      "summary": "Mia has a cup. is the best answer."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 44,
-    "qualitySchema": "reviewed-year1-english-v1"
-  },
-  {
-    "id": "ac9e1ly06-p-045",
-    "curriculumCode": "AC9E1LY06",
-    "bank": "practice",
-    "skill": "create and re-read to edit short written and/or multimodal texts to report on a topic, express an opinion or recount a real or imagined event",
-    "printable": true,
-    "type": "single",
-    "question": "Which word fixes “The fish hop fast”?",
-    "audioPrompt": "Which word fixes “The fish hop fast”?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "hops",
-      "hoping",
-      "hoppedly"
-    ],
-    "correct": 0,
-    "explanation": "hops is the best answer.",
-    "structuredExplanation": {
-      "summary": "hops is the best answer."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 45,
-    "qualitySchema": "reviewed-year1-english-v1"
-  },
-  {
-    "id": "ac9e1ly06-p-046",
-    "curriculumCode": "AC9E1LY06",
-    "bank": "practice",
-    "skill": "create and re-read to edit short written and/or multimodal texts to report on a topic, express an opinion or recount a real or imagined event",
-    "printable": true,
-    "type": "single",
-    "question": "Which sentence stays on the topic “My ball”?",
-    "audioPrompt": "Which sentence stays on the topic “My ball”?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "I ate an apple.",
-      "The camp is far.",
-      "My ball is blue."
-    ],
-    "correct": 2,
-    "explanation": "My ball is blue. is the best answer.",
-    "structuredExplanation": {
-      "summary": "My ball is blue. is the best answer."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 46,
-    "qualitySchema": "reviewed-year1-english-v1"
-  },
-  {
-    "id": "ac9e1ly06-p-047",
-    "curriculumCode": "AC9E1LY06",
-    "bank": "practice",
-    "skill": "create and re-read to edit short written and/or multimodal texts to report on a topic, express an opinion or recount a real or imagined event",
-    "printable": true,
-    "type": "single",
-    "question": "Which ending completes a recount?",
-    "audioPrompt": "Which ending completes a recount?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Blue is a colour.",
-      "At last, we went home.",
-      "First, before first."
-    ],
-    "correct": 1,
-    "explanation": "At last, we went home. is the best answer.",
-    "structuredExplanation": {
-      "summary": "At last, we went home. is the best answer."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 47,
-    "qualitySchema": "reviewed-year1-english-v1"
-  },
-  {
-    "id": "ac9e1ly06-p-048",
-    "curriculumCode": "AC9E1LY06",
-    "bank": "practice",
-    "skill": "create and re-read to edit short written and/or multimodal texts to report on a topic, express an opinion or recount a real or imagined event",
-    "printable": true,
-    "type": "single",
-    "question": "Which sentence is easiest to read?",
-    "audioPrompt": "Which sentence is easiest to read?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Thedogsatonmat.",
-      "Dog mat sat the on.",
-      "The dog sat on the mat."
-    ],
-    "correct": 2,
-    "explanation": "The dog sat on the mat. is the best answer.",
-    "structuredExplanation": {
-      "summary": "The dog sat on the mat. is the best answer."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 48,
-    "qualitySchema": "reviewed-year1-english-v1"
+    "qualitySchema": "production-v1"
   }
 ];
+window.quizQuestions = window.skillrPracticeQuestions;

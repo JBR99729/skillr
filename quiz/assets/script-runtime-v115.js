@@ -475,7 +475,7 @@ document.addEventListener("DOMContentLoaded", () => {
     return;
   }
 
-  if (config.bankVersion === "20260906-y1-original-v1" && !window.SkillrYear1Maths) {
+  if ((config.requireAdultReviewSupport || config.bankVersion === "20260906-y1-original-v1") && !window.SkillrYear1Maths) {
     const message = document.createElement("p");
     message.setAttribute("role", "alert");
     message.textContent = "Some question resources did not load. Refresh this page before starting.";

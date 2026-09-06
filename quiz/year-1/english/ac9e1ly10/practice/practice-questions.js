@@ -1,1162 +1,794 @@
 "use strict";
 window.skillrPracticeQuestions = [
   {
-    "id": "ac9e1ly10-p-001",
+    "id": "ac9e1ly10-er5-p-001",
     "curriculumCode": "AC9E1LY10",
     "bank": "practice",
-    "skill": "ac9e1ly10 01 recognise",
+    "skill": "adding, deleting and substituting spoken phonemes",
     "printable": true,
-    "type": "single",
-    "question": "Which response would correctly add an initial sound?",
-    "audioPrompt": "Which response would correctly add an initial sound?",
-    "visual": "📖 Add an initial sound; 🔎 add; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Add an initial sound; 🔎 add; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-p-001\"></use></svg>",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Mat. Replace initial /k/ with /m/ and keep /a/ /t/. The child should produce the new spoken word without seeing its spelling.",
+    "acceptanceNote": "Mat. Replace initial /k/ with /m/ and keep /a/ /t/. The child should produce the new spoken word without seeing its spelling.",
+    "responseInstructions": "Complete the spoken task with a grown-up, who will check the response. Do not use letter names in place of speech sounds.",
+    "completionLabel": "I have completed the task with a grown-up.",
+    "question": "Grown-up: keep the screen out of the child's view. Say 'cat'. Ask the child to change its first sound to the first sound in 'moon' and say the new word.",
+    "audioPrompt": "Grown-up: keep the screen out of the child's view. Say 'cat'. Ask the child to change its first sound to the first sound in 'moon' and say the new word.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-p-001",
-      "alt_text": "📖 Add an initial sound; 🔎 add; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
-    "answers": [
-      "Cat",
-      "Change letters silently.",
-      "Change more than one sound."
-    ],
-    "correct": 0,
-    "explanation": "Cat This matches the task.\nHint: Say the sounds aloud.",
+    "answers": [],
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 1,
+    "correct": "Mat. Replace initial /k/ with /m/ and keep /a/ /t/. The child should produce the new spoken word without seeing its spelling.",
+    "explanation": "Mat. Replace initial /k/ with /m/ and keep /a/ /t/. The child should produce the new spoken word without seeing its spelling.\nHint: Complete the task before comparing your response with the guidance.",
     "structuredExplanation": {
-      "summary": "Cat This matches the task.",
-      "hint": "Say the sounds aloud."
+      "summary": "Mat. Replace initial /k/ with /m/ and keep /a/ /t/. The child should produce the new spoken word without seeing its spelling.",
+      "hint": "Complete the task before comparing your response with the guidance."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly10-p-002",
+    "id": "ac9e1ly10-er5-p-002",
     "curriculumCode": "AC9E1LY10",
     "bank": "practice",
-    "skill": "ac9e1ly10 02 recognise",
+    "skill": "adding, deleting and substituting spoken phonemes",
     "printable": true,
-    "type": "single",
-    "question": "Which response would correctly match changes and words?",
-    "audioPrompt": "Which response would correctly match changes and words?",
-    "visual": "📖 Match changes and words; 🔎 delete; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Match changes and words; 🔎 delete; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-p-003\"></use></svg>",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Tin. Change /p/ to /t/ while retaining the vowel and final /n/.",
+    "acceptanceNote": "Tin. Change /p/ to /t/ while retaining the vowel and final /n/.",
+    "responseInstructions": "Complete the spoken task with a grown-up, who will check the response. Do not use letter names in place of speech sounds.",
+    "completionLabel": "I have completed the task with a grown-up.",
+    "question": "Grown-up: keep the screen out of the child's view. Say 'pin'. Ask the child to replace the first sound with the first sound in 'tap'.",
+    "audioPrompt": "Grown-up: keep the screen out of the child's view. Say 'pin'. Ask the child to replace the first sound with the first sound in 'tap'.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-p-003",
-      "alt_text": "📖 Match changes and words; 🔎 delete; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
-    "answers": [
-      "Stop minus /s/ ↔ tap; map /m/→/t/ ↔ spin; /s/+pin ↔ top",
-      "/t/ ↔ tap; /s/+pin ↔ spin → Stop minus /s/ ↔ top; map /m/",
-      "Stop minus /s/ ↔ top; map /m/→/t/ ↔ tap; /s/+pin ↔ spin"
-    ],
-    "correct": 2,
-    "explanation": "Stop minus /s/ ↔ top; map /m/→/t/ ↔ tap; /s/+pin ↔ spin This matches the task.\nHint: Change only the sound named.",
+    "answers": [],
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 2,
+    "correct": "Tin. Change /p/ to /t/ while retaining the vowel and final /n/.",
+    "explanation": "Tin. Change /p/ to /t/ while retaining the vowel and final /n/.\nHint: Complete the task before comparing your response with the guidance.",
     "structuredExplanation": {
-      "summary": "Stop minus /s/ ↔ top; map /m/→/t/ ↔ tap; /s/+pin ↔ spin This matches the task.",
-      "hint": "Change only the sound named."
+      "summary": "Tin. Change /p/ to /t/ while retaining the vowel and final /n/.",
+      "hint": "Complete the task before comparing your response with the guidance."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly10-p-003",
+    "id": "ac9e1ly10-er5-p-003",
     "curriculumCode": "AC9E1LY10",
     "bank": "practice",
-    "skill": "ac9e1ly10 03 recognise",
+    "skill": "adding, deleting and substituting spoken phonemes",
     "printable": true,
-    "type": "single",
-    "question": "Which response would correctly move a middle-sound token?",
-    "audioPrompt": "Which response would correctly move a middle-sound token?",
-    "visual": "📖 Move a middle-sound token; 🔎 substitute; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Move a middle-sound token; 🔎 substitute; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-p-005\"></use></svg>",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Fun. Substitute /f/ for /s/ and preserve the remaining sounds.",
+    "acceptanceNote": "Fun. Substitute /f/ for /s/ and preserve the remaining sounds.",
+    "responseInstructions": "Complete the spoken task with a grown-up, who will check the response. Do not use letter names in place of speech sounds.",
+    "completionLabel": "I have completed the task with a grown-up.",
+    "question": "Grown-up: keep the screen out of the child's view. Say 'sun'. Ask the child to replace the first sound with the first sound in 'fish'.",
+    "audioPrompt": "Grown-up: keep the screen out of the child's view. Say 'sun'. Ask the child to replace the first sound with the first sound in 'fish'.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-p-005",
-      "alt_text": "📖 Move a middle-sound token; 🔎 substitute; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
-    "answers": [
-      "Forget middle/final sounds.",
-      "Cot; /k/ /o/ /t/",
-      "Change letters silently."
-    ],
-    "correct": 1,
-    "explanation": "Cot; /k/ /o/ /t/ This matches the task.\nHint: Practise start, middle and end positions.",
+    "answers": [],
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 3,
+    "correct": "Fun. Substitute /f/ for /s/ and preserve the remaining sounds.",
+    "explanation": "Fun. Substitute /f/ for /s/ and preserve the remaining sounds.\nHint: Complete the task before comparing your response with the guidance.",
     "structuredExplanation": {
-      "summary": "Cot; /k/ /o/ /t/ This matches the task.",
-      "hint": "Practise start, middle and end positions."
+      "summary": "Fun. Substitute /f/ for /s/ and preserve the remaining sounds.",
+      "hint": "Complete the task before comparing your response with the guidance."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly10-p-004",
+    "id": "ac9e1ly10-er5-p-004",
     "curriculumCode": "AC9E1LY10",
     "bank": "practice",
-    "skill": "ac9e1ly10 04 recognise",
+    "skill": "adding, deleting and substituting spoken phonemes",
     "printable": true,
-    "type": "single",
-    "question": "Which response would correctly change a final sound?",
-    "audioPrompt": "Which response would correctly change a final sound?",
-    "visual": "📖 Change a final sound; 🔎 initial; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Change a final sound; 🔎 initial; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-p-007\"></use></svg>",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Dog. Replace /l/ with /d/ while keeping /o/ /g/.",
+    "acceptanceNote": "Dog. Replace /l/ with /d/ while keeping /o/ /g/.",
+    "responseInstructions": "Complete the spoken task with a grown-up, who will check the response. Do not use letter names in place of speech sounds.",
+    "completionLabel": "I have completed the task with a grown-up.",
+    "question": "Grown-up: keep the screen out of the child's view. Say 'log'. Ask the child to change its first sound to the first sound in 'duck'.",
+    "audioPrompt": "Grown-up: keep the screen out of the child's view. Say 'log'. Ask the child to change its first sound to the first sound in 'duck'.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-p-007",
-      "alt_text": "📖 Change a final sound; 🔎 initial; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
-    "answers": [
-      "Mat",
-      "Change letters silently.",
-      "Change more than one sound."
-    ],
-    "correct": 0,
-    "explanation": "Mat This matches the task.\nHint: Say the sounds aloud.",
+    "answers": [],
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 4,
+    "correct": "Dog. Replace /l/ with /d/ while keeping /o/ /g/.",
+    "explanation": "Dog. Replace /l/ with /d/ while keeping /o/ /g/.\nHint: Complete the task before comparing your response with the guidance.",
     "structuredExplanation": {
-      "summary": "Mat This matches the task.",
-      "hint": "Say the sounds aloud."
+      "summary": "Dog. Replace /l/ with /d/ while keeping /o/ /g/.",
+      "hint": "Complete the task before comparing your response with the guidance."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly10-p-005",
+    "id": "ac9e1ly10-er5-p-005",
     "curriculumCode": "AC9E1LY10",
     "bank": "practice",
-    "skill": "ac9e1ly10 05 recognise",
+    "skill": "adding, deleting and substituting spoken phonemes",
     "printable": true,
-    "type": "single",
-    "question": "Which response would correctly order a deletion?",
-    "audioPrompt": "Which response would correctly order a deletion?",
-    "visual": "📖 Order a deletion; 🔎 final; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Order a deletion; 🔎 final; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-p-009\"></use></svg>",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Cat. Replace final /p/ with /t/ and keep the first two sounds.",
+    "acceptanceNote": "Cat. Replace final /p/ with /t/ and keep the first two sounds.",
+    "responseInstructions": "Complete the spoken task with a grown-up, who will check the response. Do not use letter names in place of speech sounds.",
+    "completionLabel": "I have completed the task with a grown-up.",
+    "question": "Grown-up: keep the screen out of the child's view. Say 'cap'. Ask the child to change the last sound to the last sound in 'wet'.",
+    "audioPrompt": "Grown-up: keep the screen out of the child's view. Say 'cap'. Ask the child to change the last sound to the last sound in 'wet'.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-p-009",
-      "alt_text": "📖 Order a deletion; 🔎 final; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
-    "answers": [
-      "top → blend /t o p/ → identify/remove /s/ → Say stop",
-      "Change more than one sound.",
-      "Say stop → identify/remove /s/ → blend /t o p/ → top"
-    ],
-    "correct": 2,
-    "explanation": "Say stop → identify/remove /s/ → blend /t o p/ → top This matches the task.\nHint: Change only the sound named.",
+    "answers": [],
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 5,
+    "correct": "Cat. Replace final /p/ with /t/ and keep the first two sounds.",
+    "explanation": "Cat. Replace final /p/ with /t/ and keep the first two sounds.\nHint: Complete the task before comparing your response with the guidance.",
     "structuredExplanation": {
-      "summary": "Say stop → identify/remove /s/ → blend /t o p/ → top This matches the task.",
-      "hint": "Change only the sound named."
+      "summary": "Cat. Replace final /p/ with /t/ and keep the first two sounds.",
+      "hint": "Complete the task before comparing your response with the guidance."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly10-p-006",
+    "id": "ac9e1ly10-er5-p-006",
     "curriculumCode": "AC9E1LY10",
     "bank": "practice",
-    "skill": "ac9e1ly10 06 recognise",
+    "skill": "adding, deleting and substituting spoken phonemes",
     "printable": true,
-    "type": "single",
-    "question": "Which response would correctly draw sound-change boxes?",
-    "audioPrompt": "Which response would correctly draw sound-change boxes?",
-    "visual": "📖 Draw sound-change boxes; 🔎 add; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Draw sound-change boxes; 🔎 add; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-p-011\"></use></svg>",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Ham. Replace final /t/ with /m/ and retain /h/ /a/.",
+    "acceptanceNote": "Ham. Replace final /t/ with /m/ and retain /h/ /a/.",
+    "responseInstructions": "Complete the spoken task with a grown-up, who will check the response. Do not use letter names in place of speech sounds.",
+    "completionLabel": "I have completed the task with a grown-up.",
+    "question": "Grown-up: keep the screen out of the child's view. Say 'hat'. Ask the child to change the last sound to the last sound in 'sum'.",
+    "audioPrompt": "Grown-up: keep the screen out of the child's view. Say 'hat'. Ask the child to change the last sound to the last sound in 'sum'.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-p-011",
-      "alt_text": "📖 Draw sound-change boxes; 🔎 add; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
-    "answers": [
-      "Forget middle/final sounds.",
-      "Shows /p/ /i/ /n/ changing only middle to /a/; pan",
-      "Change letters silently."
-    ],
-    "correct": 1,
-    "explanation": "Shows /p/ /i/ /n/ changing only middle to /a/; pan This matches the task.\nHint: Practise start, middle and end positions.",
+    "answers": [],
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 6,
+    "correct": "Ham. Replace final /t/ with /m/ and retain /h/ /a/.",
+    "explanation": "Ham. Replace final /t/ with /m/ and retain /h/ /a/.\nHint: Complete the task before comparing your response with the guidance.",
     "structuredExplanation": {
-      "summary": "Shows /p/ /i/ /n/ changing only middle to /a/; pan This matches the task.",
-      "hint": "Practise start, middle and end positions."
+      "summary": "Ham. Replace final /t/ with /m/ and retain /h/ /a/.",
+      "hint": "Complete the task before comparing your response with the guidance."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly10-p-007",
+    "id": "ac9e1ly10-er5-p-007",
     "curriculumCode": "AC9E1LY10",
     "bank": "practice",
-    "skill": "ac9e1ly10 07 recognise",
+    "skill": "adding, deleting and substituting spoken phonemes",
     "printable": true,
-    "type": "single",
-    "question": "Which response would correctly identify changed position?",
-    "audioPrompt": "Which response would correctly identify changed position?",
-    "visual": "📖 Identify changed position; 🔎 delete; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Identify changed position; 🔎 delete; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-p-013\"></use></svg>",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Mat. Replace final /p/ with /t/ and keep /m/ /a/.",
+    "acceptanceNote": "Mat. Replace final /p/ with /t/ and keep /m/ /a/.",
+    "responseInstructions": "Complete the spoken task with a grown-up, who will check the response. Do not use letter names in place of speech sounds.",
+    "completionLabel": "I have completed the task with a grown-up.",
+    "question": "Grown-up: keep the screen out of the child's view. Say 'map'. Ask the child to change the last sound to the last sound in 'wet'.",
+    "audioPrompt": "Grown-up: keep the screen out of the child's view. Say 'map'. Ask the child to change the last sound to the last sound in 'wet'.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-p-013",
-      "alt_text": "📖 Identify changed position; 🔎 delete; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
-    "answers": [
-      "Final position; /n/ changed to /m/",
-      "substitute position; /n/ changed to /m/",
-      "initial position; /n/ changed to /m/"
-    ],
-    "correct": 0,
-    "explanation": "Final position; /n/ changed to /m/ This matches the task.\nHint: Say the sounds aloud.",
+    "answers": [],
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 7,
+    "correct": "Mat. Replace final /p/ with /t/ and keep /m/ /a/.",
+    "explanation": "Mat. Replace final /p/ with /t/ and keep /m/ /a/.\nHint: Complete the task before comparing your response with the guidance.",
     "structuredExplanation": {
-      "summary": "Final position; /n/ changed to /m/ This matches the task.",
-      "hint": "Say the sounds aloud."
+      "summary": "Mat. Replace final /p/ with /t/ and keep /m/ /a/.",
+      "hint": "Complete the task before comparing your response with the guidance."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly10-p-008",
+    "id": "ac9e1ly10-er5-p-008",
     "curriculumCode": "AC9E1LY10",
     "bank": "practice",
-    "skill": "ac9e1ly10 08 recognise",
+    "skill": "adding, deleting and substituting spoken phonemes",
     "printable": true,
-    "type": "single",
-    "question": "Which response would correctly make three new words?",
-    "audioPrompt": "Which response would correctly make three new words?",
-    "visual": "📖 Make three new words; 🔎 substitute; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Make three new words; 🔎 substitute; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-p-015\"></use></svg>",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Sip. Replace /t/ with /p/ while preserving /s/ /i/.",
+    "acceptanceNote": "Sip. Replace /t/ with /p/ while preserving /s/ /i/.",
+    "responseInstructions": "Complete the spoken task with a grown-up, who will check the response. Do not use letter names in place of speech sounds.",
+    "completionLabel": "I have completed the task with a grown-up.",
+    "question": "Grown-up: keep the screen out of the child's view. Say 'sit'. Ask the child to replace the last sound with the last sound in 'map'.",
+    "audioPrompt": "Grown-up: keep the screen out of the child's view. Say 'sit'. Ask the child to replace the last sound with the last sound in 'map'.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-p-015",
-      "alt_text": "📖 Make three new words; 🔎 substitute; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
-    "answers": [
-      "Change more than one sound.",
-      "Forget middle/final sounds.",
-      "Three valid examples such as can, pin and pat, with only named position changed each time"
-    ],
-    "correct": 2,
-    "explanation": "Three valid examples such as can, pin and pat, with only named position changed each time This matches the task.\nHint: Change only the sound named.",
+    "answers": [],
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 8,
+    "correct": "Sip. Replace /t/ with /p/ while preserving /s/ /i/.",
+    "explanation": "Sip. Replace /t/ with /p/ while preserving /s/ /i/.\nHint: Complete the task before comparing your response with the guidance.",
     "structuredExplanation": {
-      "summary": "Three valid examples such as can, pin and pat, with only named position changed each time This matches the task.",
-      "hint": "Change only the sound named."
+      "summary": "Sip. Replace /t/ with /p/ while preserving /s/ /i/.",
+      "hint": "Complete the task before comparing your response with the guidance."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly10-p-009",
+    "id": "ac9e1ly10-er5-p-009",
     "curriculumCode": "AC9E1LY10",
     "bank": "practice",
-    "skill": "ac9e1ly10 09 recognise",
+    "skill": "adding, deleting and substituting spoken phonemes",
     "printable": true,
-    "type": "single",
-    "question": "Which response would correctly delete a final sound?",
-    "audioPrompt": "Which response would correctly delete a final sound?",
-    "visual": "📖 Delete a final sound; 🔎 initial; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Delete a final sound; 🔎 initial; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-p-017\"></use></svg>",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Big. Change short /a/ to short /i/ while keeping /b/ and /g/.",
+    "acceptanceNote": "Big. Change short /a/ to short /i/ while keeping /b/ and /g/.",
+    "responseInstructions": "Complete the spoken task with a grown-up, who will check the response. Do not use letter names in place of speech sounds.",
+    "completionLabel": "I have completed the task with a grown-up.",
+    "question": "Grown-up: keep the screen out of the child's view. Say 'bag'. Ask the child to replace its middle vowel with the middle vowel in 'sit'.",
+    "audioPrompt": "Grown-up: keep the screen out of the child's view. Say 'bag'. Ask the child to replace its middle vowel with the middle vowel in 'sit'.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-p-017",
-      "alt_text": "📖 Delete a final sound; 🔎 initial; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
-    "answers": [
-      "farm",
-      "Far",
-      "m"
-    ],
-    "correct": 1,
-    "explanation": "Far This matches the task.\nHint: Practise start, middle and end positions.",
+    "answers": [],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 9,
+    "correct": "Big. Change short /a/ to short /i/ while keeping /b/ and /g/.",
+    "explanation": "Big. Change short /a/ to short /i/ while keeping /b/ and /g/.\nHint: Complete the task before comparing your response with the guidance.",
     "structuredExplanation": {
-      "summary": "Far This matches the task.",
-      "hint": "Practise start, middle and end positions."
+      "summary": "Big. Change short /a/ to short /i/ while keeping /b/ and /g/.",
+      "hint": "Complete the task before comparing your response with the guidance."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly10-p-010",
+    "id": "ac9e1ly10-er5-p-010",
     "curriculumCode": "AC9E1LY10",
     "bank": "practice",
-    "skill": "ac9e1ly10 10 recognise",
+    "skill": "adding, deleting and substituting spoken phonemes",
     "printable": true,
-    "type": "single",
-    "question": "Which response would correctly match medial substitutions?",
-    "audioPrompt": "Which response would correctly match medial substitutions?",
-    "visual": "📖 Match medial substitutions; 🔎 final; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Match medial substitutions; 🔎 final; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-p-019\"></use></svg>",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Pan. Change short /e/ to short /a/ and keep the consonants.",
+    "acceptanceNote": "Pan. Change short /e/ to short /a/ and keep the consonants.",
+    "responseInstructions": "Complete the spoken task with a grown-up, who will check the response. Do not use letter names in place of speech sounds.",
+    "completionLabel": "I have completed the task with a grown-up.",
+    "question": "Grown-up: keep the screen out of the child's view. Say 'pen'. Ask the child to replace its middle vowel with the middle vowel in 'cat'.",
+    "audioPrompt": "Grown-up: keep the screen out of the child's view. Say 'pen'. Ask the child to replace its middle vowel with the middle vowel in 'cat'.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-p-019",
-      "alt_text": "📖 Match medial substitutions; 🔎 final; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
-    "answers": [
-      "/e/ ↔ pen; /a/ ↔ pan; /o/ ↔ pon; pen and pan are familiar words",
-      "Change letters silently.",
-      "Change more than one sound."
-    ],
-    "correct": 0,
-    "explanation": "/e/ ↔ pen; /a/ ↔ pan; /o/ ↔ pon; pen and pan are familiar words This matches the task.\nHint: Say the sounds aloud.",
+    "answers": [],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 10,
+    "correct": "Pan. Change short /e/ to short /a/ and keep the consonants.",
+    "explanation": "Pan. Change short /e/ to short /a/ and keep the consonants.\nHint: Complete the task before comparing your response with the guidance.",
     "structuredExplanation": {
-      "summary": "/e/ ↔ pen; /a/ ↔ pan; /o/ ↔ pon; pen and pan are familiar words This matches the task.",
-      "hint": "Say the sounds aloud."
+      "summary": "Pan. Change short /e/ to short /a/ and keep the consonants.",
+      "hint": "Complete the task before comparing your response with the guidance."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly10-p-011",
+    "id": "ac9e1ly10-er5-p-011",
     "curriculumCode": "AC9E1LY10",
     "bank": "practice",
-    "skill": "ac9e1ly10 01 explain",
+    "skill": "adding, deleting and substituting spoken phonemes",
     "printable": true,
-    "type": "single",
-    "question": "Which tip would help you add an initial sound?",
-    "audioPrompt": "Which tip would help you add an initial sound?",
-    "visual": "🧠 Add an initial sound; ➡️ Say word; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Add an initial sound; ➡️ Say word; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-p-002\"></use></svg>",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Hat. Change short /o/ to short /a/, keeping /h/ and /t/.",
+    "acceptanceNote": "Hat. Change short /o/ to short /a/, keeping /h/ and /t/.",
+    "responseInstructions": "Complete the spoken task with a grown-up, who will check the response. Do not use letter names in place of speech sounds.",
+    "completionLabel": "I have completed the task with a grown-up.",
+    "question": "Grown-up: keep the screen out of the child's view. Say 'hot'. Ask the child to replace the middle vowel with the middle vowel in 'bag'.",
+    "audioPrompt": "Grown-up: keep the screen out of the child's view. Say 'hot'. Ask the child to replace the middle vowel with the middle vowel in 'bag'.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-p-002",
-      "alt_text": "🧠 Add an initial sound; ➡️ Say word; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
-    "answers": [
-      "Change more than one sound.",
-      "Say the sounds aloud.",
-      "Forget middle/final sounds."
-    ],
-    "correct": 1,
-    "explanation": "Say the sounds aloud.\nHint: Say the sounds aloud.",
+    "answers": [],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 11,
+    "correct": "Hat. Change short /o/ to short /a/, keeping /h/ and /t/.",
+    "explanation": "Hat. Change short /o/ to short /a/, keeping /h/ and /t/.\nHint: Complete the task before comparing your response with the guidance.",
     "structuredExplanation": {
-      "summary": "Say the sounds aloud.",
-      "hint": "Say the sounds aloud."
+      "summary": "Hat. Change short /o/ to short /a/, keeping /h/ and /t/.",
+      "hint": "Complete the task before comparing your response with the guidance."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly10-p-012",
+    "id": "ac9e1ly10-er5-p-012",
     "curriculumCode": "AC9E1LY10",
     "bank": "practice",
-    "skill": "ac9e1ly10 02 explain",
+    "skill": "adding, deleting and substituting spoken phonemes",
     "printable": true,
-    "type": "single",
-    "question": "Which tip would help you match changes and words?",
-    "audioPrompt": "Which tip would help you match changes and words?",
-    "visual": "🧠 Match changes and words; ➡️ Change sound; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Match changes and words; ➡️ Change sound; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-p-004\"></use></svg>",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Cot. Change short /u/ to short /o/ while preserving the first and last sounds.",
+    "acceptanceNote": "Cot. Change short /u/ to short /o/ while preserving the first and last sounds.",
+    "responseInstructions": "Complete the spoken task with a grown-up, who will check the response. Do not use letter names in place of speech sounds.",
+    "completionLabel": "I have completed the task with a grown-up.",
+    "question": "Grown-up: keep the screen out of the child's view. Say 'cut'. Ask the child to replace the middle vowel with the middle vowel in 'hot'.",
+    "audioPrompt": "Grown-up: keep the screen out of the child's view. Say 'cut'. Ask the child to replace the middle vowel with the middle vowel in 'hot'.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-p-004",
-      "alt_text": "🧠 Match changes and words; ➡️ Change sound; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
-    "answers": [
-      "Use this routine: Say word → Change sound → Say new word → Check meaning.",
-      "Forget middle/final sounds.",
-      "Change letters silently."
-    ],
-    "correct": 0,
-    "explanation": "Use this routine: Say word → Change sound → Say new word → Check meaning.\nHint: Change only the sound named.",
+    "answers": [],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 12,
+    "correct": "Cot. Change short /u/ to short /o/ while preserving the first and last sounds.",
+    "explanation": "Cot. Change short /u/ to short /o/ while preserving the first and last sounds.\nHint: Complete the task before comparing your response with the guidance.",
     "structuredExplanation": {
-      "summary": "Use this routine: Say word → Change sound → Say new word → Check meaning.",
-      "hint": "Change only the sound named."
+      "summary": "Cot. Change short /u/ to short /o/ while preserving the first and last sounds.",
+      "hint": "Complete the task before comparing your response with the guidance."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly10-p-013",
+    "id": "ac9e1ly10-er5-p-013",
     "curriculumCode": "AC9E1LY10",
     "bank": "practice",
-    "skill": "ac9e1ly10 03 explain",
+    "skill": "adding, deleting and substituting spoken phonemes",
     "printable": true,
-    "type": "single",
-    "question": "Which tip would help you move a middle-sound token?",
-    "audioPrompt": "Which tip would help you move a middle-sound token?",
-    "visual": "🧠 Move a middle-sound token; ➡️ Say new word; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Move a middle-sound token; ➡️ Say new word; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-p-006\"></use></svg>",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Slip. Insert /l/ after /s/; the other sounds stay in order.",
+    "acceptanceNote": "Slip. Insert /l/ after /s/; the other sounds stay in order.",
+    "responseInstructions": "Complete the spoken task with a grown-up, who will check the response. Do not use letter names in place of speech sounds.",
+    "completionLabel": "I have completed the task with a grown-up.",
+    "question": "Grown-up: keep the screen out of the child's view. Say 'sip'. Ask the child to add the first sound in 'lip' straight after the first sound in sip.",
+    "audioPrompt": "Grown-up: keep the screen out of the child's view. Say 'sip'. Ask the child to add the first sound in 'lip' straight after the first sound in sip.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-p-006",
-      "alt_text": "🧠 Move a middle-sound token; ➡️ Say new word; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
-    "answers": [
-      "Change letters silently.",
-      "Change more than one sound.",
-      "Look for substitute and check the whole example."
-    ],
-    "correct": 2,
-    "explanation": "Look for substitute and check the whole example.\nHint: Practise start, middle and end positions.",
+    "answers": [],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 13,
+    "correct": "Slip. Insert /l/ after /s/; the other sounds stay in order.",
+    "explanation": "Slip. Insert /l/ after /s/; the other sounds stay in order.\nHint: Complete the task before comparing your response with the guidance.",
     "structuredExplanation": {
-      "summary": "Look for substitute and check the whole example.",
-      "hint": "Practise start, middle and end positions."
+      "summary": "Slip. Insert /l/ after /s/; the other sounds stay in order.",
+      "hint": "Complete the task before comparing your response with the guidance."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly10-p-014",
+    "id": "ac9e1ly10-er5-p-014",
     "curriculumCode": "AC9E1LY10",
     "bank": "practice",
-    "skill": "ac9e1ly10 04 explain",
+    "skill": "adding, deleting and substituting spoken phonemes",
     "printable": true,
-    "type": "single",
-    "question": "Which tip would help you change a final sound?",
-    "audioPrompt": "Which tip would help you change a final sound?",
-    "visual": "🧠 Change a final sound; ➡️ Check meaning; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Change a final sound; ➡️ Check meaning; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-p-008\"></use></svg>",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Spot. Add /s/ before /p/ /o/ /t/, without deleting an existing sound.",
+    "acceptanceNote": "Spot. Add /s/ before /p/ /o/ /t/, without deleting an existing sound.",
+    "responseInstructions": "Complete the spoken task with a grown-up, who will check the response. Do not use letter names in place of speech sounds.",
+    "completionLabel": "I have completed the task with a grown-up.",
+    "question": "Grown-up: keep the screen out of the child's view. Say 'pot'. Ask the child to add the first sound in 'sun' at the very beginning.",
+    "audioPrompt": "Grown-up: keep the screen out of the child's view. Say 'pot'. Ask the child to add the first sound in 'sun' at the very beginning.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-p-008",
-      "alt_text": "🧠 Change a final sound; ➡️ Check meaning; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
-    "answers": [
-      "Change more than one sound.",
-      "Check that you can change initial sounds.",
-      "Forget middle/final sounds."
-    ],
-    "correct": 1,
-    "explanation": "Check that you can change initial sounds.\nHint: Say the sounds aloud.",
+    "answers": [],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 14,
+    "correct": "Spot. Add /s/ before /p/ /o/ /t/, without deleting an existing sound.",
+    "explanation": "Spot. Add /s/ before /p/ /o/ /t/, without deleting an existing sound.\nHint: Complete the task before comparing your response with the guidance.",
     "structuredExplanation": {
-      "summary": "Check that you can change initial sounds.",
-      "hint": "Say the sounds aloud."
+      "summary": "Spot. Add /s/ before /p/ /o/ /t/, without deleting an existing sound.",
+      "hint": "Complete the task before comparing your response with the guidance."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly10-p-015",
+    "id": "ac9e1ly10-er5-p-015",
     "curriculumCode": "AC9E1LY10",
     "bank": "practice",
-    "skill": "ac9e1ly10 05 explain",
+    "skill": "adding, deleting and substituting spoken phonemes",
     "printable": true,
-    "type": "single",
-    "question": "Which tip would help you order a deletion?",
-    "audioPrompt": "Which tip would help you order a deletion?",
-    "visual": "🧠 Order a deletion; ➡️ Say word; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Order a deletion; ➡️ Say word; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-p-010\"></use></svg>",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Tent. Add final /t/ after /t/ /e/ /n/; keep the original beginning /t/ too.",
+    "acceptanceNote": "Tent. Add final /t/ after /t/ /e/ /n/; keep the original beginning /t/ too.",
+    "responseInstructions": "Complete the spoken task with a grown-up, who will check the response. Do not use letter names in place of speech sounds.",
+    "completionLabel": "I have completed the task with a grown-up.",
+    "question": "Grown-up: keep the screen out of the child's view. Say 'ten'. Ask the child to add the first sound in 'top' at the end.",
+    "audioPrompt": "Grown-up: keep the screen out of the child's view. Say 'ten'. Ask the child to add the first sound in 'top' at the end.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-p-010",
-      "alt_text": "🧠 Order a deletion; ➡️ Say word; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
-    "answers": [
-      "Sequencing initial-phoneme deletion.",
-      "Forget middle/final sounds.",
-      "Change letters silently."
-    ],
-    "correct": 0,
-    "explanation": "Sequencing initial-phoneme deletion.\nHint: Change only the sound named.",
+    "answers": [],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 15,
+    "correct": "Tent. Add final /t/ after /t/ /e/ /n/; keep the original beginning /t/ too.",
+    "explanation": "Tent. Add final /t/ after /t/ /e/ /n/; keep the original beginning /t/ too.\nHint: Complete the task before comparing your response with the guidance.",
     "structuredExplanation": {
-      "summary": "Sequencing initial-phoneme deletion.",
-      "hint": "Change only the sound named."
+      "summary": "Tent. Add final /t/ after /t/ /e/ /n/; keep the original beginning /t/ too.",
+      "hint": "Complete the task before comparing your response with the guidance."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly10-p-016",
+    "id": "ac9e1ly10-er5-p-016",
     "curriculumCode": "AC9E1LY10",
     "bank": "practice",
-    "skill": "ac9e1ly10 06 explain",
+    "skill": "adding, deleting and substituting spoken phonemes",
     "printable": true,
-    "type": "single",
-    "question": "Which tip would help you draw sound-change boxes?",
-    "audioPrompt": "Which tip would help you draw sound-change boxes?",
-    "visual": "🧠 Draw sound-change boxes; ➡️ Change sound; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Draw sound-change boxes; ➡️ Change sound; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-p-012\"></use></svg>",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Ramp. Add final /p/ after /r/ /a/ /m/ without changing the earlier sounds.",
+    "acceptanceNote": "Ramp. Add final /p/ after /r/ /a/ /m/ without changing the earlier sounds.",
+    "responseInstructions": "Complete the spoken task with a grown-up, who will check the response. Do not use letter names in place of speech sounds.",
+    "completionLabel": "I have completed the task with a grown-up.",
+    "question": "Grown-up: keep the screen out of the child's view. Say 'ram'. Ask the child to add the first sound in 'pig' at the end.",
+    "audioPrompt": "Grown-up: keep the screen out of the child's view. Say 'ram'. Ask the child to add the first sound in 'pig' at the end.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-p-012",
-      "alt_text": "🧠 Draw sound-change boxes; ➡️ Change sound; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
-    "answers": [
-      "Change letters silently.",
-      "Change more than one sound.",
-      "Practise start, middle and end positions."
-    ],
-    "correct": 2,
-    "explanation": "Practise start, middle and end positions.\nHint: Practise start, middle and end positions.",
+    "answers": [],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 16,
+    "correct": "Ramp. Add final /p/ after /r/ /a/ /m/ without changing the earlier sounds.",
+    "explanation": "Ramp. Add final /p/ after /r/ /a/ /m/ without changing the earlier sounds.\nHint: Complete the task before comparing your response with the guidance.",
     "structuredExplanation": {
-      "summary": "Practise start, middle and end positions.",
-      "hint": "Practise start, middle and end positions."
+      "summary": "Ramp. Add final /p/ after /r/ /a/ /m/ without changing the earlier sounds.",
+      "hint": "Complete the task before comparing your response with the guidance."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly10-p-017",
+    "id": "ac9e1ly10-er5-p-017",
     "curriculumCode": "AC9E1LY10",
     "bank": "practice",
-    "skill": "ac9e1ly10 07 explain",
+    "skill": "adding, deleting and substituting spoken phonemes",
     "printable": true,
-    "type": "single",
-    "question": "Which tip would help you identify changed position?",
-    "audioPrompt": "Which tip would help you identify changed position?",
-    "visual": "🧠 Identify changed position; ➡️ Say new word; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Identify changed position; ➡️ Say new word; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-p-014\"></use></svg>",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Top. Delete /s/ and blend the remaining /t/ /o/ /p/.",
+    "acceptanceNote": "Top. Delete /s/ and blend the remaining /t/ /o/ /p/.",
+    "responseInstructions": "Complete the spoken task with a grown-up, who will check the response. Do not use letter names in place of speech sounds.",
+    "completionLabel": "I have completed the task with a grown-up.",
+    "question": "Grown-up: keep the screen out of the child's view. Say 'stop'. Ask the child to remove only the first sound and say what remains.",
+    "audioPrompt": "Grown-up: keep the screen out of the child's view. Say 'stop'. Ask the child to remove only the first sound and say what remains.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-p-014",
-      "alt_text": "🧠 Identify changed position; ➡️ Say new word; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
-    "answers": [
-      "Change more than one sound.",
-      "Use this routine: Say word → Change sound → Say new word → Check meaning.",
-      "Forget middle/final sounds."
-    ],
-    "correct": 1,
-    "explanation": "Use this routine: Say word → Change sound → Say new word → Check meaning.\nHint: Say the sounds aloud.",
+    "answers": [],
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 17,
+    "correct": "Top. Delete /s/ and blend the remaining /t/ /o/ /p/.",
+    "explanation": "Top. Delete /s/ and blend the remaining /t/ /o/ /p/.\nHint: Complete the task before comparing your response with the guidance.",
     "structuredExplanation": {
-      "summary": "Use this routine: Say word → Change sound → Say new word → Check meaning.",
-      "hint": "Say the sounds aloud."
+      "summary": "Top. Delete /s/ and blend the remaining /t/ /o/ /p/.",
+      "hint": "Complete the task before comparing your response with the guidance."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly10-p-018",
+    "id": "ac9e1ly10-er5-p-018",
     "curriculumCode": "AC9E1LY10",
     "bank": "practice",
-    "skill": "ac9e1ly10 08 explain",
+    "skill": "adding, deleting and substituting spoken phonemes",
     "printable": true,
-    "type": "single",
-    "question": "Which tip would help you make three new words?",
-    "audioPrompt": "Which tip would help you make three new words?",
-    "visual": "🧠 Make three new words; ➡️ Check meaning; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Make three new words; ➡️ Check meaning; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-p-016\"></use></svg>",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Cap. Remove /l/ from /k/ /l/ /a/ /p/, keeping the other sounds in order.",
+    "acceptanceNote": "Cap. Remove /l/ from /k/ /l/ /a/ /p/, keeping the other sounds in order.",
+    "responseInstructions": "Complete the spoken task with a grown-up, who will check the response. Do not use letter names in place of speech sounds.",
+    "completionLabel": "I have completed the task with a grown-up.",
+    "question": "Grown-up: keep the screen out of the child's view. Say 'clap'. Ask the child to remove the sound immediately after its first sound.",
+    "audioPrompt": "Grown-up: keep the screen out of the child's view. Say 'clap'. Ask the child to remove the sound immediately after its first sound.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-p-016",
-      "alt_text": "🧠 Make three new words; ➡️ Check meaning; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
-    "answers": [
-      "Look for substitute and check the whole example.",
-      "Forget middle/final sounds.",
-      "Change letters silently."
-    ],
-    "correct": 0,
-    "explanation": "Look for substitute and check the whole example.\nHint: Change only the sound named.",
+    "answers": [],
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 18,
+    "correct": "Cap. Remove /l/ from /k/ /l/ /a/ /p/, keeping the other sounds in order.",
+    "explanation": "Cap. Remove /l/ from /k/ /l/ /a/ /p/, keeping the other sounds in order.\nHint: Complete the task before comparing your response with the guidance.",
     "structuredExplanation": {
-      "summary": "Look for substitute and check the whole example.",
-      "hint": "Change only the sound named."
+      "summary": "Cap. Remove /l/ from /k/ /l/ /a/ /p/, keeping the other sounds in order.",
+      "hint": "Complete the task before comparing your response with the guidance."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly10-p-019",
+    "id": "ac9e1ly10-er5-p-019",
     "curriculumCode": "AC9E1LY10",
     "bank": "practice",
-    "skill": "ac9e1ly10 09 explain",
+    "skill": "adding, deleting and substituting spoken phonemes",
     "printable": true,
-    "type": "single",
-    "question": "Which tip would help you delete a final sound?",
-    "audioPrompt": "Which tip would help you delete a final sound?",
-    "visual": "🧠 Delete a final sound; ➡️ Say word; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Delete a final sound; ➡️ Say word; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-p-018\"></use></svg>",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Sad. Delete /n/ from /s/ /a/ /n/ /d/ and retain the final /d/.",
+    "acceptanceNote": "Sad. Delete /n/ from /s/ /a/ /n/ /d/ and retain the final /d/.",
+    "responseInstructions": "Complete the spoken task with a grown-up, who will check the response. Do not use letter names in place of speech sounds.",
+    "completionLabel": "I have completed the task with a grown-up.",
+    "question": "Grown-up: keep the screen out of the child's view. Say 'sand'. Ask the child to remove the sound immediately before its last sound.",
+    "audioPrompt": "Grown-up: keep the screen out of the child's view. Say 'sand'. Ask the child to remove the sound immediately before its last sound.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-p-018",
-      "alt_text": "🧠 Delete a final sound; ➡️ Say word; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
-    "answers": [
-      "Change letters silently.",
-      "Change more than one sound.",
-      "Check that you can change initial sounds."
-    ],
-    "correct": 2,
-    "explanation": "Check that you can change initial sounds.\nHint: Practise start, middle and end positions.",
+    "answers": [],
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 19,
+    "correct": "Sad. Delete /n/ from /s/ /a/ /n/ /d/ and retain the final /d/.",
+    "explanation": "Sad. Delete /n/ from /s/ /a/ /n/ /d/ and retain the final /d/.\nHint: Complete the task before comparing your response with the guidance.",
     "structuredExplanation": {
-      "summary": "Check that you can change initial sounds.",
-      "hint": "Practise start, middle and end positions."
+      "summary": "Sad. Delete /n/ from /s/ /a/ /n/ /d/ and retain the final /d/.",
+      "hint": "Complete the task before comparing your response with the guidance."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly10-p-020",
+    "id": "ac9e1ly10-er5-p-020",
     "curriculumCode": "AC9E1LY10",
     "bank": "practice",
-    "skill": "ac9e1ly10 10 explain",
+    "skill": "adding, deleting and substituting spoken phonemes",
     "printable": true,
-    "type": "single",
-    "question": "Which tip would help you match medial substitutions?",
-    "audioPrompt": "Which tip would help you match medial substitutions?",
-    "visual": "🧠 Match medial substitutions; ➡️ Change sound; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Match medial substitutions; ➡️ Change sound; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-p-020\"></use></svg>",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Ten. Delete the last /t/, not the first /t/, and blend the remaining sounds.",
+    "acceptanceNote": "Ten. Delete the last /t/, not the first /t/, and blend the remaining sounds.",
+    "responseInstructions": "Complete the spoken task with a grown-up, who will check the response. Do not use letter names in place of speech sounds.",
+    "completionLabel": "I have completed the task with a grown-up.",
+    "question": "Grown-up: keep the screen out of the child's view. Say 'tent'. Ask the child to remove only the final sound.",
+    "audioPrompt": "Grown-up: keep the screen out of the child's view. Say 'tent'. Ask the child to remove only the final sound.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-p-020",
-      "alt_text": "🧠 Match medial substitutions; ➡️ Change sound; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
-    "answers": [
-      "Change more than one sound.",
-      "Exploring medial phoneme changes including a possible nonword.",
-      "Forget middle/final sounds."
-    ],
-    "correct": 1,
-    "explanation": "Exploring medial phoneme changes including a possible nonword.\nHint: Say the sounds aloud.",
+    "answers": [],
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 20,
+    "correct": "Ten. Delete the last /t/, not the first /t/, and blend the remaining sounds.",
+    "explanation": "Ten. Delete the last /t/, not the first /t/, and blend the remaining sounds.\nHint: Complete the task before comparing your response with the guidance.",
     "structuredExplanation": {
-      "summary": "Exploring medial phoneme changes including a possible nonword.",
-      "hint": "Say the sounds aloud."
+      "summary": "Ten. Delete the last /t/, not the first /t/, and blend the remaining sounds.",
+      "hint": "Complete the task before comparing your response with the guidance."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly10-p-021",
+    "id": "ac9e1ly10-er5-p-021",
     "curriculumCode": "AC9E1LY10",
     "bank": "practice",
-    "skill": "ac9e1ly10 01 discriminate",
+    "skill": "adding, deleting and substituting spoken phonemes",
     "printable": true,
-    "type": "single",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": "📖 Add an initial sound; 🔎 add; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Add an initial sound; 🔎 add; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-p-001\"></use></svg>",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Crack. Replace /b/ with /k/ while preserving the initial cluster and vowel. The target has four phonemes.",
+    "acceptanceNote": "Crack. Replace /b/ with /k/ while preserving the initial cluster and vowel. The target has four phonemes.",
+    "responseInstructions": "Complete the spoken task with a grown-up, who will check the response. Do not use letter names in place of speech sounds.",
+    "completionLabel": "I have completed the task with a grown-up.",
+    "question": "Grown-up: keep the screen out of the child's view. Say 'crab'. Ask the child to change the last sound to the last sound in 'sock'.",
+    "audioPrompt": "Grown-up: keep the screen out of the child's view. Say 'crab'. Ask the child to change the last sound to the last sound in 'sock'.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-p-001",
-      "alt_text": "📖 Add an initial sound; 🔎 add; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
-    "answers": [
-      "Change letters silently.",
-      "Cat",
-      "Say the sounds aloud."
-    ],
-    "correct": 0,
-    "explanation": "Change letters silently. is the mix-up. Say the sounds aloud.\nHint: Say the sounds aloud.",
+    "answers": [],
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 21,
+    "correct": "Crack. Replace /b/ with /k/ while preserving the initial cluster and vowel. The target has four phonemes.",
+    "explanation": "Crack. Replace /b/ with /k/ while preserving the initial cluster and vowel. The target has four phonemes.\nHint: Complete the task before comparing your response with the guidance.",
     "structuredExplanation": {
-      "summary": "Change letters silently. is the mix-up. Say the sounds aloud.",
-      "hint": "Say the sounds aloud."
+      "summary": "Crack. Replace /b/ with /k/ while preserving the initial cluster and vowel. The target has four phonemes.",
+      "hint": "Complete the task before comparing your response with the guidance."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly10-p-022",
+    "id": "ac9e1ly10-er5-p-022",
     "curriculumCode": "AC9E1LY10",
     "bank": "practice",
-    "skill": "ac9e1ly10 02 discriminate",
+    "skill": "adding, deleting and substituting spoken phonemes",
     "printable": true,
-    "type": "single",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": "📖 Match changes and words; 🔎 delete; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Match changes and words; 🔎 delete; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-p-003\"></use></svg>",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Bet. Delete /s/ from /b/ /e/ /s/ /t/ while preserving the other three sounds.",
+    "acceptanceNote": "Bet. Delete /s/ from /b/ /e/ /s/ /t/ while preserving the other three sounds.",
+    "responseInstructions": "Complete the spoken task with a grown-up, who will check the response. Do not use letter names in place of speech sounds.",
+    "completionLabel": "I have completed the task with a grown-up.",
+    "question": "Grown-up: keep the screen out of the child's view. Say 'best'. Ask the child to remove the third sound and say the remaining word.",
+    "audioPrompt": "Grown-up: keep the screen out of the child's view. Say 'best'. Ask the child to remove the third sound and say the remaining word.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-p-003",
-      "alt_text": "📖 Match changes and words; 🔎 delete; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
-    "answers": [
-      "Stop minus /s/ ↔ top; map /m/→/t/ ↔ tap; /s/+pin ↔ spin",
-      "Stop minus /s/ ↔ tap; map /m/→/t/ ↔ spin; /s/+pin ↔ top",
-      "Use this routine: Say word → Change sound → Say new word → Check meaning."
-    ],
-    "correct": 1,
-    "explanation": "Stop minus /s/ ↔ tap; map /m/→/t/ ↔ spin; /s/+pin ↔ top is the mix-up. Change only the sound named.\nHint: Change only the sound named.",
+    "answers": [],
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 22,
+    "correct": "Bet. Delete /s/ from /b/ /e/ /s/ /t/ while preserving the other three sounds.",
+    "explanation": "Bet. Delete /s/ from /b/ /e/ /s/ /t/ while preserving the other three sounds.\nHint: Complete the task before comparing your response with the guidance.",
     "structuredExplanation": {
-      "summary": "Stop minus /s/ ↔ tap; map /m/→/t/ ↔ spin; /s/+pin ↔ top is the mix-up. Change only the sound named.",
-      "hint": "Change only the sound named."
+      "summary": "Bet. Delete /s/ from /b/ /e/ /s/ /t/ while preserving the other three sounds.",
+      "hint": "Complete the task before comparing your response with the guidance."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly10-p-023",
+    "id": "ac9e1ly10-er5-p-023",
     "curriculumCode": "AC9E1LY10",
     "bank": "practice",
-    "skill": "ac9e1ly10 03 discriminate",
+    "skill": "adding, deleting and substituting spoken phonemes",
     "printable": true,
-    "type": "single",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": "📖 Move a middle-sound token; 🔎 substitute; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Move a middle-sound token; 🔎 substitute; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-p-005\"></use></svg>",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Fish. Replace /n/ with the single /sh/ phoneme. This is one sound substitution even though spelling uses two letters for sh.",
+    "acceptanceNote": "Fish. Replace /n/ with the single /sh/ phoneme. This is one sound substitution even though spelling uses two letters for sh.",
+    "responseInstructions": "Complete the spoken task with a grown-up, who will check the response. Do not use letter names in place of speech sounds.",
+    "completionLabel": "I have completed the task with a grown-up.",
+    "question": "Grown-up: keep the screen out of the child's view. Say 'fin'. Ask the child to change the last sound to the last sound in 'wish'.",
+    "audioPrompt": "Grown-up: keep the screen out of the child's view. Say 'fin'. Ask the child to change the last sound to the last sound in 'wish'.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-p-005",
-      "alt_text": "📖 Move a middle-sound token; 🔎 substitute; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
-    "answers": [
-      "Cot; /k/ /o/ /t/",
-      "Look for substitute and check the whole example.",
-      "Forget middle/final sounds."
-    ],
-    "correct": 2,
-    "explanation": "Forget middle/final sounds. is the mix-up. Practise start, middle and end positions.\nHint: Practise start, middle and end positions.",
+    "answers": [],
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 23,
+    "correct": "Fish. Replace /n/ with the single /sh/ phoneme. This is one sound substitution even though spelling uses two letters for sh.",
+    "explanation": "Fish. Replace /n/ with the single /sh/ phoneme. This is one sound substitution even though spelling uses two letters for sh.\nHint: Complete the task before comparing your response with the guidance.",
     "structuredExplanation": {
-      "summary": "Forget middle/final sounds. is the mix-up. Practise start, middle and end positions.",
-      "hint": "Practise start, middle and end positions."
+      "summary": "Fish. Replace /n/ with the single /sh/ phoneme. This is one sound substitution even though spelling uses two letters for sh.",
+      "hint": "Complete the task before comparing your response with the guidance."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly10-p-024",
+    "id": "ac9e1ly10-er5-p-024",
     "curriculumCode": "AC9E1LY10",
     "bank": "practice",
-    "skill": "ac9e1ly10 04 discriminate",
+    "skill": "adding, deleting and substituting spoken phonemes",
     "printable": true,
-    "type": "single",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": "📖 Change a final sound; 🔎 initial; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Change a final sound; 🔎 initial; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-p-007\"></use></svg>",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Ship. Replace the single /ch/ phoneme with /sh/, keeping /i/ /p/.",
+    "acceptanceNote": "Ship. Replace the single /ch/ phoneme with /sh/, keeping /i/ /p/.",
+    "responseInstructions": "Complete the spoken task with a grown-up, who will check the response. Do not use letter names in place of speech sounds.",
+    "completionLabel": "I have completed the task with a grown-up.",
+    "question": "Grown-up: keep the screen out of the child's view. Say 'chip'. Ask the child to change its first sound to the first sound in 'shell'.",
+    "audioPrompt": "Grown-up: keep the screen out of the child's view. Say 'chip'. Ask the child to change its first sound to the first sound in 'shell'.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-p-007",
-      "alt_text": "📖 Change a final sound; 🔎 initial; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
-    "answers": [
-      "Change letters silently.",
-      "Mat",
-      "Check that you can change initial sounds."
-    ],
-    "correct": 0,
-    "explanation": "Change letters silently. is the mix-up. Say the sounds aloud.\nHint: Say the sounds aloud.",
+    "answers": [],
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 24,
+    "correct": "Ship. Replace the single /ch/ phoneme with /sh/, keeping /i/ /p/.",
+    "explanation": "Ship. Replace the single /ch/ phoneme with /sh/, keeping /i/ /p/.\nHint: Complete the task before comparing your response with the guidance.",
     "structuredExplanation": {
-      "summary": "Change letters silently. is the mix-up. Say the sounds aloud.",
-      "hint": "Say the sounds aloud."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1ly10-p-025",
-    "curriculumCode": "AC9E1LY10",
-    "bank": "practice",
-    "skill": "ac9e1ly10 05 discriminate",
-    "printable": true,
-    "type": "single",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": "📖 Order a deletion; 🔎 final; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Order a deletion; 🔎 final; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-p-009\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-p-009",
-      "alt_text": "📖 Order a deletion; 🔎 final; ✅ choose with evidence"
-    },
-    "answers": [
-      "Say stop → identify/remove /s/ → blend /t o p/ → top",
-      "top → blend /t o p/ → identify/remove /s/ → Say stop",
-      "Sequencing initial-phoneme deletion."
-    ],
-    "correct": 1,
-    "explanation": "top → blend /t o p/ → identify/remove /s/ → Say stop is the mix-up. Change only the sound named.\nHint: Change only the sound named.",
-    "structuredExplanation": {
-      "summary": "top → blend /t o p/ → identify/remove /s/ → Say stop is the mix-up. Change only the sound named.",
-      "hint": "Change only the sound named."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1ly10-p-026",
-    "curriculumCode": "AC9E1LY10",
-    "bank": "practice",
-    "skill": "ac9e1ly10 06 discriminate",
-    "printable": true,
-    "type": "single",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": "📖 Draw sound-change boxes; 🔎 add; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Draw sound-change boxes; 🔎 add; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-p-011\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-p-011",
-      "alt_text": "📖 Draw sound-change boxes; 🔎 add; ✅ choose with evidence"
-    },
-    "answers": [
-      "Shows /p/ /i/ /n/ changing only middle to /a/; pan",
-      "Practise start, middle and end positions.",
-      "Forget middle/final sounds."
-    ],
-    "correct": 2,
-    "explanation": "Forget middle/final sounds. is the mix-up. Practise start, middle and end positions.\nHint: Practise start, middle and end positions.",
-    "structuredExplanation": {
-      "summary": "Forget middle/final sounds. is the mix-up. Practise start, middle and end positions.",
-      "hint": "Practise start, middle and end positions."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1ly10-p-027",
-    "curriculumCode": "AC9E1LY10",
-    "bank": "practice",
-    "skill": "ac9e1ly10 07 discriminate",
-    "printable": true,
-    "type": "single",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": "📖 Identify changed position; 🔎 delete; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Identify changed position; 🔎 delete; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-p-013\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-p-013",
-      "alt_text": "📖 Identify changed position; 🔎 delete; ✅ choose with evidence"
-    },
-    "answers": [
-      "substitute position; /n/ changed to /m/",
-      "Final position; /n/ changed to /m/",
-      "Use this routine: Say word → Change sound → Say new word → Check meaning."
-    ],
-    "correct": 0,
-    "explanation": "substitute position; /n/ changed to /m/ is the mix-up. Say the sounds aloud.\nHint: Say the sounds aloud.",
-    "structuredExplanation": {
-      "summary": "substitute position; /n/ changed to /m/ is the mix-up. Say the sounds aloud.",
-      "hint": "Say the sounds aloud."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1ly10-p-028",
-    "curriculumCode": "AC9E1LY10",
-    "bank": "practice",
-    "skill": "ac9e1ly10 08 discriminate",
-    "printable": true,
-    "type": "single",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": "📖 Make three new words; 🔎 substitute; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Make three new words; 🔎 substitute; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-p-015\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-p-015",
-      "alt_text": "📖 Make three new words; 🔎 substitute; ✅ choose with evidence"
-    },
-    "answers": [
-      "Three valid examples such as can, pin and pat, with only named position changed each time",
-      "Change more than one sound.",
-      "Look for substitute and check the whole example."
-    ],
-    "correct": 1,
-    "explanation": "Change more than one sound. is the mix-up. Change only the sound named.\nHint: Change only the sound named.",
-    "structuredExplanation": {
-      "summary": "Change more than one sound. is the mix-up. Change only the sound named.",
-      "hint": "Change only the sound named."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1ly10-p-029",
-    "curriculumCode": "AC9E1LY10",
-    "bank": "practice",
-    "skill": "ac9e1ly10 09 discriminate",
-    "printable": true,
-    "type": "single",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": "📖 Delete a final sound; 🔎 initial; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Delete a final sound; 🔎 initial; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-p-017\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-p-017",
-      "alt_text": "📖 Delete a final sound; 🔎 initial; ✅ choose with evidence"
-    },
-    "answers": [
-      "Far",
-      "Check that you can change initial sounds.",
-      "farm"
-    ],
-    "correct": 2,
-    "explanation": "farm is the mix-up. Practise start, middle and end positions.\nHint: Practise start, middle and end positions.",
-    "structuredExplanation": {
-      "summary": "farm is the mix-up. Practise start, middle and end positions.",
-      "hint": "Practise start, middle and end positions."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1ly10-p-030",
-    "curriculumCode": "AC9E1LY10",
-    "bank": "practice",
-    "skill": "ac9e1ly10 10 discriminate",
-    "printable": true,
-    "type": "single",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": "📖 Match medial substitutions; 🔎 final; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Match medial substitutions; 🔎 final; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-p-019\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-p-019",
-      "alt_text": "📖 Match medial substitutions; 🔎 final; ✅ choose with evidence"
-    },
-    "answers": [
-      "Change letters silently.",
-      "/e/ ↔ pen; /a/ ↔ pan; /o/ ↔ pon; pen and pan are familiar words",
-      "Exploring medial phoneme changes including a possible nonword."
-    ],
-    "correct": 0,
-    "explanation": "Change letters silently. is the mix-up. Say the sounds aloud.\nHint: Say the sounds aloud.",
-    "structuredExplanation": {
-      "summary": "Change letters silently. is the mix-up. Say the sounds aloud.",
-      "hint": "Say the sounds aloud."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1ly10-p-031",
-    "curriculumCode": "AC9E1LY10",
-    "bank": "practice",
-    "skill": "ac9e1ly10 01 apply",
-    "printable": true,
-    "type": "single",
-    "question": "Which choice would best use this skill in a new example?",
-    "audioPrompt": "Which choice would best use this skill in a new example?",
-    "visual": "📖 Add an initial sound; 🔎 add; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Add an initial sound; 🔎 add; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-p-001\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-p-001",
-      "alt_text": "📖 Add an initial sound; 🔎 add; ✅ choose with evidence"
-    },
-    "answers": [
-      "Change letters silently.",
-      "Cat",
-      "Change more than one sound."
-    ],
-    "correct": 1,
-    "explanation": "Cat uses the skill correctly. Say the sounds aloud.\nHint: Say the sounds aloud.",
-    "structuredExplanation": {
-      "summary": "Cat uses the skill correctly. Say the sounds aloud.",
-      "hint": "Say the sounds aloud."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1ly10-p-032",
-    "curriculumCode": "AC9E1LY10",
-    "bank": "practice",
-    "skill": "ac9e1ly10 02 apply",
-    "printable": true,
-    "type": "single",
-    "question": "Which choice would best use this skill in a new example?",
-    "audioPrompt": "Which choice would best use this skill in a new example?",
-    "visual": "📖 Match changes and words; 🔎 delete; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Match changes and words; 🔎 delete; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-p-003\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-p-003",
-      "alt_text": "📖 Match changes and words; 🔎 delete; ✅ choose with evidence"
-    },
-    "answers": [
-      "Stop minus /s/ ↔ tap; map /m/→/t/ ↔ spin; /s/+pin ↔ top",
-      "/t/ ↔ tap; /s/+pin ↔ spin → Stop minus /s/ ↔ top; map /m/",
-      "Stop minus /s/ ↔ top; map /m/→/t/ ↔ tap; /s/+pin ↔ spin"
-    ],
-    "correct": 2,
-    "explanation": "Stop minus /s/ ↔ top; map /m/→/t/ ↔ tap; /s/+pin ↔ spin uses the skill correctly. Change only the sound named.\nHint: Change only the sound named.",
-    "structuredExplanation": {
-      "summary": "Stop minus /s/ ↔ top; map /m/→/t/ ↔ tap; /s/+pin ↔ spin uses the skill correctly. Change only the sound named.",
-      "hint": "Change only the sound named."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1ly10-p-033",
-    "curriculumCode": "AC9E1LY10",
-    "bank": "practice",
-    "skill": "ac9e1ly10 03 apply",
-    "printable": true,
-    "type": "single",
-    "question": "Which choice would best use this skill in a new example?",
-    "audioPrompt": "Which choice would best use this skill in a new example?",
-    "visual": "📖 Move a middle-sound token; 🔎 substitute; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Move a middle-sound token; 🔎 substitute; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-p-005\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-p-005",
-      "alt_text": "📖 Move a middle-sound token; 🔎 substitute; ✅ choose with evidence"
-    },
-    "answers": [
-      "Cot; /k/ /o/ /t/",
-      "Forget middle/final sounds.",
-      "Change letters silently."
-    ],
-    "correct": 0,
-    "explanation": "Cot; /k/ /o/ /t/ uses the skill correctly. Practise start, middle and end positions.\nHint: Practise start, middle and end positions.",
-    "structuredExplanation": {
-      "summary": "Cot; /k/ /o/ /t/ uses the skill correctly. Practise start, middle and end positions.",
-      "hint": "Practise start, middle and end positions."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1ly10-p-034",
-    "curriculumCode": "AC9E1LY10",
-    "bank": "practice",
-    "skill": "ac9e1ly10 04 apply",
-    "printable": true,
-    "type": "single",
-    "question": "Which choice would best use this skill in a new example?",
-    "audioPrompt": "Which choice would best use this skill in a new example?",
-    "visual": "📖 Change a final sound; 🔎 initial; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Change a final sound; 🔎 initial; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-p-007\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-p-007",
-      "alt_text": "📖 Change a final sound; 🔎 initial; ✅ choose with evidence"
-    },
-    "answers": [
-      "Change letters silently.",
-      "Mat",
-      "Change more than one sound."
-    ],
-    "correct": 1,
-    "explanation": "Mat uses the skill correctly. Say the sounds aloud.\nHint: Say the sounds aloud.",
-    "structuredExplanation": {
-      "summary": "Mat uses the skill correctly. Say the sounds aloud.",
-      "hint": "Say the sounds aloud."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1ly10-p-035",
-    "curriculumCode": "AC9E1LY10",
-    "bank": "practice",
-    "skill": "ac9e1ly10 05 apply",
-    "printable": true,
-    "type": "single",
-    "question": "Which choice would best use this skill in a new example?",
-    "audioPrompt": "Which choice would best use this skill in a new example?",
-    "visual": "📖 Order a deletion; 🔎 final; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Order a deletion; 🔎 final; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-p-009\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-p-009",
-      "alt_text": "📖 Order a deletion; 🔎 final; ✅ choose with evidence"
-    },
-    "answers": [
-      "top → blend /t o p/ → identify/remove /s/ → Say stop",
-      "Change more than one sound.",
-      "Say stop → identify/remove /s/ → blend /t o p/ → top"
-    ],
-    "correct": 2,
-    "explanation": "Say stop → identify/remove /s/ → blend /t o p/ → top uses the skill correctly. Change only the sound named.\nHint: Change only the sound named.",
-    "structuredExplanation": {
-      "summary": "Say stop → identify/remove /s/ → blend /t o p/ → top uses the skill correctly. Change only the sound named.",
-      "hint": "Change only the sound named."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1ly10-p-036",
-    "curriculumCode": "AC9E1LY10",
-    "bank": "practice",
-    "skill": "ac9e1ly10 06 apply",
-    "printable": true,
-    "type": "single",
-    "question": "Which choice would best use this skill in a new example?",
-    "audioPrompt": "Which choice would best use this skill in a new example?",
-    "visual": "📖 Draw sound-change boxes; 🔎 add; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Draw sound-change boxes; 🔎 add; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-p-011\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-p-011",
-      "alt_text": "📖 Draw sound-change boxes; 🔎 add; ✅ choose with evidence"
-    },
-    "answers": [
-      "Shows /p/ /i/ /n/ changing only middle to /a/; pan",
-      "Forget middle/final sounds.",
-      "Change letters silently."
-    ],
-    "correct": 0,
-    "explanation": "Shows /p/ /i/ /n/ changing only middle to /a/; pan uses the skill correctly. Practise start, middle and end positions.\nHint: Practise start, middle and end positions.",
-    "structuredExplanation": {
-      "summary": "Shows /p/ /i/ /n/ changing only middle to /a/; pan uses the skill correctly. Practise start, middle and end positions.",
-      "hint": "Practise start, middle and end positions."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1ly10-p-037",
-    "curriculumCode": "AC9E1LY10",
-    "bank": "practice",
-    "skill": "ac9e1ly10 07 apply",
-    "printable": true,
-    "type": "single",
-    "question": "Which choice would best use this skill in a new example?",
-    "audioPrompt": "Which choice would best use this skill in a new example?",
-    "visual": "📖 Identify changed position; 🔎 delete; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Identify changed position; 🔎 delete; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-p-013\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-p-013",
-      "alt_text": "📖 Identify changed position; 🔎 delete; ✅ choose with evidence"
-    },
-    "answers": [
-      "substitute position; /n/ changed to /m/",
-      "Final position; /n/ changed to /m/",
-      "initial position; /n/ changed to /m/"
-    ],
-    "correct": 1,
-    "explanation": "Final position; /n/ changed to /m/ uses the skill correctly. Say the sounds aloud.\nHint: Say the sounds aloud.",
-    "structuredExplanation": {
-      "summary": "Final position; /n/ changed to /m/ uses the skill correctly. Say the sounds aloud.",
-      "hint": "Say the sounds aloud."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1ly10-p-038",
-    "curriculumCode": "AC9E1LY10",
-    "bank": "practice",
-    "skill": "ac9e1ly10 08 apply",
-    "printable": true,
-    "type": "single",
-    "question": "Which choice would best use this skill in a new example?",
-    "audioPrompt": "Which choice would best use this skill in a new example?",
-    "visual": "📖 Make three new words; 🔎 substitute; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Make three new words; 🔎 substitute; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-p-015\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-p-015",
-      "alt_text": "📖 Make three new words; 🔎 substitute; ✅ choose with evidence"
-    },
-    "answers": [
-      "Change more than one sound.",
-      "Forget middle/final sounds.",
-      "Three valid examples such as can, pin and pat, with only named position changed each time"
-    ],
-    "correct": 2,
-    "explanation": "Three valid examples such as can, pin and pat, with only named position changed each time uses the skill correctly. Change only the sound named.\nHint: Change only the sound named.",
-    "structuredExplanation": {
-      "summary": "Three valid examples such as can, pin and pat, with only named position changed each time uses the skill correctly. Change only the sound named.",
-      "hint": "Change only the sound named."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1ly10-p-039",
-    "curriculumCode": "AC9E1LY10",
-    "bank": "practice",
-    "skill": "ac9e1ly10 09 apply",
-    "printable": true,
-    "type": "single",
-    "question": "Which choice would best use this skill in a new example?",
-    "audioPrompt": "Which choice would best use this skill in a new example?",
-    "visual": "📖 Delete a final sound; 🔎 initial; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Delete a final sound; 🔎 initial; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-p-017\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-p-017",
-      "alt_text": "📖 Delete a final sound; 🔎 initial; ✅ choose with evidence"
-    },
-    "answers": [
-      "Far",
-      "farm",
-      "m"
-    ],
-    "correct": 0,
-    "explanation": "Far uses the skill correctly. Practise start, middle and end positions.\nHint: Practise start, middle and end positions.",
-    "structuredExplanation": {
-      "summary": "Far uses the skill correctly. Practise start, middle and end positions.",
-      "hint": "Practise start, middle and end positions."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1ly10-p-040",
-    "curriculumCode": "AC9E1LY10",
-    "bank": "practice",
-    "skill": "ac9e1ly10 10 apply",
-    "printable": true,
-    "type": "single",
-    "question": "Which choice would best use this skill in a new example?",
-    "audioPrompt": "Which choice would best use this skill in a new example?",
-    "visual": "📖 Match medial substitutions; 🔎 final; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Match medial substitutions; 🔎 final; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-p-019\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-p-019",
-      "alt_text": "📖 Match medial substitutions; 🔎 final; ✅ choose with evidence"
-    },
-    "answers": [
-      "Change letters silently.",
-      "/e/ ↔ pen; /a/ ↔ pan; /o/ ↔ pon; pen and pan are familiar words",
-      "Change more than one sound."
-    ],
-    "correct": 1,
-    "explanation": "/e/ ↔ pen; /a/ ↔ pan; /o/ ↔ pon; pen and pan are familiar words uses the skill correctly. Say the sounds aloud.\nHint: Say the sounds aloud.",
-    "structuredExplanation": {
-      "summary": "/e/ ↔ pen; /a/ ↔ pan; /o/ ↔ pon; pen and pan are familiar words uses the skill correctly. Say the sounds aloud.",
-      "hint": "Say the sounds aloud."
+      "summary": "Ship. Replace the single /ch/ phoneme with /sh/, keeping /i/ /p/.",
+      "hint": "Complete the task before comparing your response with the guidance."
     },
     "qualitySchema": "production-v1"
   }

@@ -1,1954 +1,1658 @@
 [
   {
-    "id": "AC9E1LY06-P-001",
+    "id": "ac9e1ly06-er5-p-001",
     "subject": "english",
     "year_level": "Year 1",
     "curriculum_code": "AC9E1LY06",
     "bank": "practice",
-    "skill": "ac9e1ly06_01_recognise",
-    "question": "Which response would correctly add a sentence boundary?",
-    "audio_prompt": "Which response would correctly add a sentence boundary?",
+    "skill": "creating and editing short texts",
+    "question": "A child writes 'the frog hops.' Which edit fixes the sentence beginning?",
+    "audio_prompt": "A child writes 'the frog hops.' Which edit fixes the sentence beginning?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly06.svg#ac9e1ly06-p-001",
-      "alt_text": "📖 Add a sentence boundary; 🔎 plan; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
+    },
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 1,
+    "explanation": {
+      "summary": "A sentence starts with a capital letter; the other words here do not need capitals.",
+      "hint": "Read the whole sentence and check its meaning."
+    },
+    "review": {
+      "version": "20260906-english-review-5",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/complete-the-sentence-with-the-best-verb",
+      "evidence_scope": "Representative related IXL task inspected where mapped; official curriculum sets the performance requirement. See docs/question-bank-reviews/2026-09-06-year1-english-ly06-ly10.md. No measured equivalence or endorsement."
     },
     "answers": [
       {
-        "text": "'The bird landed. It drank water.' with capital and full stops",
+        "text": "The frog hops.",
         "is_correct": true
       },
       {
-        "text": "The bird landed it drank water",
+        "text": "the Frog hops.",
         "is_correct": false
       },
       {
-        "text": "Leave out re-reading.",
+        "text": "the frog Hops.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "'The bird landed. It drank water.' with capital and full stops This matches the task.",
-      "hint": "Read the text aloud to catch missing words."
-    },
-    "stage": "recognise"
+    "correct_index": 0
   },
   {
-    "id": "AC9E1LY06-P-002",
+    "id": "ac9e1ly06-er5-p-002",
     "subject": "english",
     "year_level": "Year 1",
     "curriculum_code": "AC9E1LY06",
     "bank": "practice",
-    "skill": "ac9e1ly06_02_recognise",
-    "question": "Which response would correctly match purposes and openings?",
-    "audio_prompt": "Which response would correctly match purposes and openings?",
+    "skill": "creating and editing short texts",
+    "question": "Choose the complete sentence for a report about a bird.",
+    "audio_prompt": "Choose the complete sentence for a report about a bird.",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly06.svg#ac9e1ly06-p-003",
-      "alt_text": "📖 Match purposes and openings; 🔎 write; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
+    },
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 2,
+    "explanation": {
+      "summary": "The first sentence tells a complete idea about the bird; the others only name or describe it.",
+      "hint": "Read the whole sentence and check its meaning."
+    },
+    "review": {
+      "version": "20260906-english-review-5",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/complete-the-sentence-with-the-best-verb",
+      "evidence_scope": "Representative related IXL task inspected where mapped; official curriculum sets the performance requirement. See docs/question-bank-reviews/2026-09-06-year1-english-ly06-ly10.md. No measured equivalence or endorsement."
     },
     "answers": [
       {
-        "text": "Koalas are ___",
+        "text": "A sharp beak on the bird.",
         "is_correct": false
       },
       {
-        "text": "I think ___ because ___",
-        "is_correct": false
-      },
-      {
-        "text": "Each purpose matched correctly",
+        "text": "The bird has a sharp beak.",
         "is_correct": true
+      },
+      {
+        "text": "The bird with a sharp beak.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Each purpose matched correctly This matches the task.",
-      "hint": "Check sentence, punctuation and spelling separately."
-    },
-    "stage": "recognise"
+    "correct_index": 1
   },
   {
-    "id": "AC9E1LY06-P-003",
+    "id": "ac9e1ly06-er5-p-003",
     "subject": "english",
     "year_level": "Year 1",
     "curriculum_code": "AC9E1LY06",
     "bank": "practice",
-    "skill": "ac9e1ly06_03_recognise",
-    "question": "Read the draft 'My dog fast.' aloud and improve it into a grammatical simple sentence.",
-    "audio_prompt": "Read the draft 'My dog fast.' aloud and improve it into a grammatical simple sentence.",
+    "skill": "creating and editing short texts",
+    "question": "Finish this sentence: 'The dogs ___ at the gate each morning.'",
+    "audio_prompt": "Finish this sentence: 'The dogs ___ at the gate each morning.'",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly06.svg#ac9e1ly06-p-005",
-      "alt_text": "📖 Reread aloud; 🔎 re-read; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
+    },
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 3,
+    "explanation": {
+      "summary": "Dogs means more than one, so bark fits this simple present-tense sentence.",
+      "hint": "Read the whole sentence and check its meaning."
+    },
+    "review": {
+      "version": "20260906-english-review-5",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/complete-the-sentence-with-the-best-verb",
+      "evidence_scope": "Representative related IXL task inspected where mapped; official curriculum sets the performance requirement. See docs/question-bank-reviews/2026-09-06-year1-english-ly06-ly10.md. No measured equivalence or endorsement."
     },
     "answers": [
       {
-        "text": "My dog fast",
+        "text": "barks",
         "is_correct": false
       },
       {
-        "text": "'My dog runs fast.' adds a suitable verb and complete idea",
+        "text": "barking",
+        "is_correct": false
+      },
+      {
+        "text": "bark",
         "is_correct": true
-      },
-      {
-        "text": "Leave out one precise word from the topic.",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "'My dog runs fast.' adds a suitable verb and complete idea This matches the task.",
-      "hint": "Add one precise word from the topic."
-    },
-    "stage": "recognise"
+    "correct_index": 2
   },
   {
-    "id": "AC9E1LY06-P-004",
+    "id": "ac9e1ly06-er5-p-004",
     "subject": "english",
     "year_level": "Year 1",
     "curriculum_code": "AC9E1LY06",
     "bank": "practice",
-    "skill": "ac9e1ly06_04_recognise",
-    "question": "Which response would correctly choose topic vocabulary?",
-    "audio_prompt": "Which response would correctly choose topic vocabulary?",
+    "skill": "creating and editing short texts",
+    "question": "A child is asking where a hat is. Which sentence is punctuated correctly?",
+    "audio_prompt": "A child is asking where a hat is. Which sentence is punctuated correctly?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly06.svg#ac9e1ly06-p-007",
-      "alt_text": "📖 Choose topic vocabulary; 🔎 edit; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
+    },
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 4,
+    "explanation": {
+      "summary": "The question needs a capital at the start and a question mark at the end.",
+      "hint": "Read the whole sentence and check its meaning."
+    },
+    "review": {
+      "version": "20260906-english-review-5",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/complete-the-sentence-with-the-best-verb",
+      "evidence_scope": "Representative related IXL task inspected where mapped; official curriculum sets the performance requirement. See docs/question-bank-reviews/2026-09-06-year1-english-ly06-ly10.md. No measured equivalence or endorsement."
     },
     "answers": [
       {
-        "text": "'The hand applied a push that moved the toy car.'",
+        "text": "Where is my hat?",
         "is_correct": true
       },
       {
-        "text": "The thing pushed the car",
+        "text": "Where is my hat.",
         "is_correct": false
       },
       {
-        "text": "Leave out re-reading.",
+        "text": "where is my hat?",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "'The hand applied a push that moved the toy car.' This matches the task.",
-      "hint": "Read the text aloud to catch missing words."
-    },
-    "stage": "recognise"
+    "correct_index": 0
   },
   {
-    "id": "AC9E1LY06-P-005",
+    "id": "ac9e1ly06-er5-p-005",
     "subject": "english",
     "year_level": "Year 1",
     "curriculum_code": "AC9E1LY06",
     "bank": "practice",
-    "skill": "ac9e1ly06_05_recognise",
-    "question": "Which response would correctly order the writing cycle?",
-    "audio_prompt": "Which response would correctly order the writing cycle?",
+    "skill": "creating and editing short texts",
+    "question": "Which spelling completes 'The ___ is eating a carrot'?",
+    "audio_prompt": "Which spelling completes 'The ___ is eating a carrot'?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly06.svg#ac9e1ly06-p-009",
-      "alt_text": "📖 Order the writing cycle; 🔎 topic word; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
+    },
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 5,
+    "explanation": {
+      "summary": "Rabbit is the standard spelling; it has two b letters and one t at the end.",
+      "hint": "Read the whole sentence and check its meaning."
+    },
+    "review": {
+      "version": "20260906-english-review-5",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/complete-the-sentence-with-the-best-verb",
+      "evidence_scope": "Representative related IXL task inspected where mapped; official curriculum sets the performance requirement. See docs/question-bank-reviews/2026-09-06-year1-english-ly06-ly10.md. No measured equivalence or endorsement."
     },
     "answers": [
       {
-        "text": "publish/share → reread/edit → draft → Choose purpose/topic",
+        "text": "rabitt",
         "is_correct": false
       },
       {
-        "text": "Do not check sentence, punctuation and spelling separately.",
-        "is_correct": false
-      },
-      {
-        "text": "Choose purpose/topic → draft → reread/edit → publish/share",
+        "text": "rabbit",
         "is_correct": true
+      },
+      {
+        "text": "rabit",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Choose purpose/topic → draft → reread/edit → publish/share This matches the task.",
-      "hint": "Check sentence, punctuation and spelling separately."
-    },
-    "stage": "recognise"
+    "correct_index": 1
   },
   {
-    "id": "AC9E1LY06-P-006",
+    "id": "ac9e1ly06-er5-p-006",
     "subject": "english",
     "year_level": "Year 1",
     "curriculum_code": "AC9E1LY06",
     "bank": "practice",
-    "skill": "ac9e1ly06_06_recognise",
-    "question": "Which response would correctly draw a multimodal recount?",
-    "audio_prompt": "Which response would correctly draw a multimodal recount?",
+    "skill": "creating and editing short texts",
+    "question": "Which sentence clearly gives an opinion about a game?",
+    "audio_prompt": "Which sentence clearly gives an opinion about a game?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly06.svg#ac9e1ly06-p-011",
-      "alt_text": "📖 Draw a multimodal recount; 🔎 plan; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
+    },
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 6,
+    "explanation": {
+      "summary": "I like expresses a preference and because introduces the reason for it.",
+      "hint": "Read the whole sentence and check its meaning."
+    },
+    "review": {
+      "version": "20260906-english-review-5",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/complete-the-sentence-with-the-best-verb",
+      "evidence_scope": "Representative related IXL task inspected where mapped; official curriculum sets the performance requirement. See docs/question-bank-reviews/2026-09-06-year1-english-ly06-ly10.md. No measured equivalence or endorsement."
     },
     "answers": [
       {
-        "text": "Leave out one precise word from the topic.",
+        "text": "This game has six cards.",
         "is_correct": false
       },
       {
-        "text": "Three logical events, complete sentences and appropriate time words/punctuation",
+        "text": "The cards are in a box.",
+        "is_correct": false
+      },
+      {
+        "text": "I like this game because we work together.",
         "is_correct": true
-      },
-      {
-        "text": "Leave out re-reading.",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Three logical events, complete sentences and appropriate time words/punctuation This matches the task.",
-      "hint": "Add one precise word from the topic."
-    },
-    "stage": "recognise"
+    "correct_index": 2
   },
   {
-    "id": "AC9E1LY06-P-007",
+    "id": "ac9e1ly06-er5-p-007",
     "subject": "english",
     "year_level": "Year 1",
     "curriculum_code": "AC9E1LY06",
     "bank": "practice",
-    "skill": "ac9e1ly06_07_recognise",
-    "question": "Which response would correctly edit an opinion reason?",
-    "audio_prompt": "Which response would correctly edit an opinion reason?",
+    "skill": "creating and editing short texts",
+    "question": "Choose the sentence with the words in a clear order.",
+    "audio_prompt": "Choose the sentence with the words in a clear order.",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly06.svg#ac9e1ly06-p-013",
-      "alt_text": "📖 Edit an opinion reason; 🔎 write; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
+    },
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 7,
+    "explanation": {
+      "summary": "The first option puts who, the action and the place into a complete sentence.",
+      "hint": "Read the whole sentence and check its meaning."
+    },
+    "review": {
+      "version": "20260906-english-review-5",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/complete-the-sentence-with-the-best-verb",
+      "evidence_scope": "Representative related IXL task inspected where mapped; official curriculum sets the performance requirement. See docs/question-bank-reviews/2026-09-06-year1-english-ly06-ly10.md. No measured equivalence or endorsement."
     },
     "answers": [
       {
-        "text": "'I like the park because its shady trees keep the play area cool.'",
+        "text": "The cat sleeps on the mat.",
         "is_correct": true
       },
       {
-        "text": "I like the park. It is good",
+        "text": "Sleeps the on cat mat the.",
         "is_correct": false
       },
       {
-        "text": "Leave out re-reading.",
+        "text": "On sleeps the cat the mat.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "'I like the park because its shady trees keep the play area cool.' This matches the task.",
-      "hint": "Read the text aloud to catch missing words."
-    },
-    "stage": "recognise"
+    "correct_index": 0
   },
   {
-    "id": "AC9E1LY06-P-008",
+    "id": "ac9e1ly06-er5-p-008",
     "subject": "english",
     "year_level": "Year 1",
     "curriculum_code": "AC9E1LY06",
     "bank": "practice",
-    "skill": "ac9e1ly06_08_recognise",
-    "question": "Which response would correctly check a report paragraph?",
-    "audio_prompt": "Which response would correctly check a report paragraph?",
+    "skill": "creating and editing short texts",
+    "question": "A report describes a plant. Which word names the part that takes in water from soil?",
+    "audio_prompt": "A report describes a plant. Which word names the part that takes in water from soil?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly06.svg#ac9e1ly06-p-015",
-      "alt_text": "📖 Check a report paragraph; 🔎 re-read; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
+    },
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 8,
+    "explanation": {
+      "summary": "Roots is precise plant vocabulary for the part in the soil that takes in water.",
+      "hint": "Read the whole sentence and check its meaning."
+    },
+    "review": {
+      "version": "20260906-english-review-5",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/complete-the-sentence-with-the-best-verb",
+      "evidence_scope": "Representative related IXL task inspected where mapped; official curriculum sets the performance requirement. See docs/question-bank-reviews/2026-09-06-year1-english-ly06-ly10.md. No measured equivalence or endorsement."
     },
     "answers": [
       {
-        "text": "A habitat is a place living things live. it gives water food or shelter",
+        "text": "ropes",
         "is_correct": false
       },
       {
-        "text": "Do not check sentence, punctuation and spelling separately.",
-        "is_correct": false
-      },
-      {
-        "text": "'A habitat is a place where living things live. It can provide water, food or shelter.'",
+        "text": "roots",
         "is_correct": true
+      },
+      {
+        "text": "roof",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "'A habitat is a place where living things live. It can provide water, food or shelter.' This matches the task.",
-      "hint": "Check sentence, punctuation and spelling separately."
-    },
-    "stage": "recognise"
+    "correct_index": 1
   },
   {
-    "id": "AC9E1LY06-P-009",
+    "id": "ac9e1ly06-er5-p-009",
     "subject": "english",
     "year_level": "Year 1",
     "curriculum_code": "AC9E1LY06",
     "bank": "practice",
-    "skill": "ac9e1ly06_09_recognise",
-    "question": "Write the word picnic in the sentence 'We packed a ___.' Then reread the sentence.",
-    "audio_prompt": "Write the word picnic in the sentence 'We packed a ___.' Then reread the sentence.",
+    "skill": "creating and editing short texts",
+    "question": "Edit 'The duck swim in the pond each day.'",
+    "audio_prompt": "Edit 'The duck swim in the pond each day.'",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly06.svg#ac9e1ly06-p-017",
-      "alt_text": "📖 Spell a two-syllable word; 🔎 edit; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
+    },
+    "stage": "apply",
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "sequence_priority": 9,
+    "explanation": {
+      "summary": "The singular subject duck takes swims in this simple present-tense sentence.",
+      "hint": "Read the whole sentence and check its meaning."
+    },
+    "review": {
+      "version": "20260906-english-review-5",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/complete-the-sentence-with-the-best-verb",
+      "evidence_scope": "Representative related IXL task inspected where mapped; official curriculum sets the performance requirement. See docs/question-bank-reviews/2026-09-06-year1-english-ly06-ly10.md. No measured equivalence or endorsement."
     },
     "answers": [
       {
-        "text": "We packed a ___",
+        "text": "The duck swimming in the pond each day.",
         "is_correct": false
       },
       {
-        "text": "Picnic spelled correctly in a complete punctuated sentence",
+        "text": "The duck swum in the pond each day.",
+        "is_correct": false
+      },
+      {
+        "text": "The duck swims in the pond each day.",
         "is_correct": true
-      },
-      {
-        "text": "Leave out one precise word from the topic.",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Picnic spelled correctly in a complete punctuated sentence This matches the task.",
-      "hint": "Add one precise word from the topic."
-    },
-    "stage": "recognise"
+    "correct_index": 2
   },
   {
-    "id": "AC9E1LY06-P-010",
+    "id": "ac9e1ly06-er5-p-010",
     "subject": "english",
     "year_level": "Year 1",
     "curriculum_code": "AC9E1LY06",
     "bank": "practice",
-    "skill": "ac9e1ly06_10_recognise",
-    "question": "Which response would correctly match editing checks?",
-    "audio_prompt": "Which response would correctly match editing checks?",
+    "skill": "creating and editing short texts",
+    "question": "A recount says 'Yesterday, I jump over a puddle.' Which change fits the time?",
+    "audio_prompt": "A recount says 'Yesterday, I jump over a puddle.' Which change fits the time?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly06.svg#ac9e1ly06-p-019",
-      "alt_text": "📖 Match editing checks; 🔎 topic word; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
+    },
+    "stage": "apply",
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "sequence_priority": 10,
+    "explanation": {
+      "summary": "Jumped places the action in the past, matching Yesterday.",
+      "hint": "Read the whole sentence and check its meaning."
+    },
+    "review": {
+      "version": "20260906-english-review-5",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/complete-the-sentence-with-the-best-verb",
+      "evidence_scope": "Representative related IXL task inspected where mapped; official curriculum sets the performance requirement. See docs/question-bank-reviews/2026-09-06-year1-english-ly06-ly10.md. No measured equivalence or endorsement."
     },
     "answers": [
       {
-        "text": "All checks matched correctly",
+        "text": "Change jump to jumped.",
         "is_correct": true
       },
       {
-        "text": "Leave out re-reading.",
+        "text": "Change Yesterday to Tomorrow and keep jump.",
         "is_correct": false
       },
       {
-        "text": "Do not check sentence, punctuation and spelling separately.",
+        "text": "Change I to We and keep jump.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "All checks matched correctly This matches the task.",
-      "hint": "Read the text aloud to catch missing words."
-    },
-    "stage": "recognise"
+    "correct_index": 0
   },
   {
-    "id": "AC9E1LY06-P-011",
+    "id": "ac9e1ly06-er5-p-011",
     "subject": "english",
     "year_level": "Year 1",
     "curriculum_code": "AC9E1LY06",
     "bank": "practice",
-    "skill": "ac9e1ly06_01_explain",
-    "question": "Which tip would help you add a sentence boundary?",
-    "audio_prompt": "Which tip would help you add a sentence boundary?",
+    "skill": "creating and editing short texts",
+    "question": "Read the draft: 'We saw a crab it hid under a rock.' Which edit separates the two complete ideas?",
+    "audio_prompt": "Read the draft: 'We saw a crab it hid under a rock.' Which edit separates the two complete ideas?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly06.svg#ac9e1ly06-p-002",
-      "alt_text": "🧠 Add a sentence boundary; ➡️ Plan; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
+    },
+    "stage": "apply",
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "sequence_priority": 11,
+    "explanation": {
+      "summary": "The full stop belongs after the first complete idea, and It starts the next sentence.",
+      "hint": "Read the whole sentence and check its meaning."
+    },
+    "review": {
+      "version": "20260906-english-review-5",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/complete-the-sentence-with-the-best-verb",
+      "evidence_scope": "Representative related IXL task inspected where mapped; official curriculum sets the performance requirement. See docs/question-bank-reviews/2026-09-06-year1-english-ly06-ly10.md. No measured equivalence or endorsement."
     },
     "answers": [
       {
-        "text": "Do not check sentence, punctuation and spelling separately.",
+        "text": "We saw a crab it. Hid under a rock.",
         "is_correct": false
       },
       {
-        "text": "Read the text aloud to catch missing words.",
+        "text": "We saw a crab. It hid under a rock.",
         "is_correct": true
       },
       {
-        "text": "Leave out one precise word from the topic.",
+        "text": "We saw. A crab it hid under a rock.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Read the text aloud to catch missing words.",
-      "hint": "Read the text aloud to catch missing words."
-    },
-    "stage": "explain"
+    "correct_index": 1
   },
   {
-    "id": "AC9E1LY06-P-012",
+    "id": "ac9e1ly06-er5-p-012",
     "subject": "english",
     "year_level": "Year 1",
     "curriculum_code": "AC9E1LY06",
     "bank": "practice",
-    "skill": "ac9e1ly06_02_explain",
-    "question": "Which tip would help you match purposes and openings?",
-    "audio_prompt": "Which tip would help you match purposes and openings?",
+    "skill": "creating and editing short texts",
+    "question": "A child writes 'I like the library.' Which added sentence gives a relevant reason?",
+    "audio_prompt": "A child writes 'I like the library.' Which added sentence gives a relevant reason?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly06.svg#ac9e1ly06-p-004",
-      "alt_text": "🧠 Match purposes and openings; ➡️ Write; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
+    },
+    "stage": "apply",
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "sequence_priority": 12,
+    "explanation": {
+      "summary": "A choice of stories explains the preference for the library more directly than unrelated details.",
+      "hint": "Read the whole sentence and check its meaning."
+    },
+    "review": {
+      "version": "20260906-english-review-5",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/complete-the-sentence-with-the-best-verb",
+      "evidence_scope": "Representative related IXL task inspected where mapped; official curriculum sets the performance requirement. See docs/question-bank-reviews/2026-09-06-year1-english-ly06-ly10.md. No measured equivalence or endorsement."
     },
     "answers": [
       {
-        "text": "Use this routine: Plan → Write → Re-read → Edit sentence/punctuation/spelling → Publish.",
+        "text": "My lunchbox is on the shelf.",
+        "is_correct": false
+      },
+      {
+        "text": "The door has a handle.",
+        "is_correct": false
+      },
+      {
+        "text": "I can choose many different stories there.",
         "is_correct": true
-      },
-      {
-        "text": "Leave out one precise word from the topic.",
-        "is_correct": false
-      },
-      {
-        "text": "Leave out re-reading.",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Use this routine: Plan → Write → Re-read → Edit sentence/punctuation/spelling → Publish.",
-      "hint": "Check sentence, punctuation and spelling separately."
-    },
-    "stage": "explain"
+    "correct_index": 2
   },
   {
-    "id": "AC9E1LY06-P-013",
+    "id": "ac9e1ly06-er5-p-013",
     "subject": "english",
     "year_level": "Year 1",
     "curriculum_code": "AC9E1LY06",
     "bank": "practice",
-    "skill": "ac9e1ly06_03_explain",
-    "question": "Which tip would help you reread aloud?",
-    "audio_prompt": "Which tip would help you reread aloud?",
+    "skill": "creating and editing short texts",
+    "question": "A report says 'A fish uses its things to move through water.' Which edit makes the body-part word precise?",
+    "audio_prompt": "A report says 'A fish uses its things to move through water.' Which edit makes the body-part word precise?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly06.svg#ac9e1ly06-p-006",
-      "alt_text": "🧠 Reread aloud; ➡️ Re-read; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
+    },
+    "stage": "apply",
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "sequence_priority": 13,
+    "explanation": {
+      "summary": "Fins names the relevant body parts; the other changes make the report less precise.",
+      "hint": "Read the whole sentence and check its meaning."
+    },
+    "review": {
+      "version": "20260906-english-review-5",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/complete-the-sentence-with-the-best-verb",
+      "evidence_scope": "Representative related IXL task inspected where mapped; official curriculum sets the performance requirement. See docs/question-bank-reviews/2026-09-06-year1-english-ly06-ly10.md. No measured equivalence or endorsement."
     },
     "answers": [
       {
-        "text": "Leave out re-reading.",
-        "is_correct": false
-      },
-      {
-        "text": "Do not check sentence, punctuation and spelling separately.",
-        "is_correct": false
-      },
-      {
-        "text": "Look for re-read and check the whole example.",
+        "text": "Replace things with fins.",
         "is_correct": true
+      },
+      {
+        "text": "Replace fish with animal.",
+        "is_correct": false
+      },
+      {
+        "text": "Replace water with stuff.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Look for re-read and check the whole example.",
-      "hint": "Add one precise word from the topic."
-    },
-    "stage": "explain"
+    "correct_index": 0
   },
   {
-    "id": "AC9E1LY06-P-014",
+    "id": "ac9e1ly06-er5-p-014",
     "subject": "english",
     "year_level": "Year 1",
     "curriculum_code": "AC9E1LY06",
     "bank": "practice",
-    "skill": "ac9e1ly06_04_explain",
-    "question": "Which tip would help you choose topic vocabulary?",
-    "audio_prompt": "Which tip would help you choose topic vocabulary?",
+    "skill": "creating and editing short texts",
+    "question": "A recount begins 'First we dug a hole. Then we planted the seed.' Which next sentence keeps the event sequence sensible?",
+    "audio_prompt": "A recount begins 'First we dug a hole. Then we planted the seed.' Which next sentence keeps the event sequence sensible?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly06.svg#ac9e1ly06-p-008",
-      "alt_text": "🧠 Choose topic vocabulary; ➡️ Edit sentence/punctuation/spelling; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
+    },
+    "stage": "apply",
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "sequence_priority": 14,
+    "explanation": {
+      "summary": "Watering follows planting naturally and continues the account of this task.",
+      "hint": "Read the whole sentence and check its meaning."
+    },
+    "review": {
+      "version": "20260906-english-review-5",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/complete-the-sentence-with-the-best-verb",
+      "evidence_scope": "Representative related IXL task inspected where mapped; official curriculum sets the performance requirement. See docs/question-bank-reviews/2026-09-06-year1-english-ly06-ly10.md. No measured equivalence or endorsement."
     },
     "answers": [
       {
-        "text": "Do not check sentence, punctuation and spelling separately.",
+        "text": "Next, we began the first step again without a reason.",
         "is_correct": false
       },
       {
-        "text": "Check that you can edit punctuation.",
+        "text": "After that, we watered the soil.",
         "is_correct": true
       },
       {
-        "text": "Leave out one precise word from the topic.",
+        "text": "Before digging, the seed was already planted in that hole.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Check that you can edit punctuation.",
-      "hint": "Read the text aloud to catch missing words."
-    },
-    "stage": "explain"
+    "correct_index": 1
   },
   {
-    "id": "AC9E1LY06-P-015",
+    "id": "ac9e1ly06-er5-p-015",
     "subject": "english",
     "year_level": "Year 1",
     "curriculum_code": "AC9E1LY06",
     "bank": "practice",
-    "skill": "ac9e1ly06_05_explain",
-    "question": "Which tip would help you order the writing cycle?",
-    "audio_prompt": "Which tip would help you order the writing cycle?",
+    "skill": "creating and editing short texts",
+    "question": "A child writes 'I saw an dog.' Which edit is needed?",
+    "audio_prompt": "A child writes 'I saw an dog.' Which edit is needed?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly06.svg#ac9e1ly06-p-010",
-      "alt_text": "🧠 Order the writing cycle; ➡️ Publish; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
+    },
+    "stage": "apply",
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "sequence_priority": 15,
+    "explanation": {
+      "summary": "Dog begins with a consonant sound, so a is the suitable article here.",
+      "hint": "Read the whole sentence and check its meaning."
+    },
+    "review": {
+      "version": "20260906-english-review-5",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/complete-the-sentence-with-the-best-verb",
+      "evidence_scope": "Representative related IXL task inspected where mapped; official curriculum sets the performance requirement. See docs/question-bank-reviews/2026-09-06-year1-english-ly06-ly10.md. No measured equivalence or endorsement."
     },
     "answers": [
       {
-        "text": "Sequencing creation and editing.",
+        "text": "I saw an dogs.",
+        "is_correct": false
+      },
+      {
+        "text": "I saw dog an.",
+        "is_correct": false
+      },
+      {
+        "text": "I saw a dog.",
         "is_correct": true
-      },
-      {
-        "text": "Leave out one precise word from the topic.",
-        "is_correct": false
-      },
-      {
-        "text": "Leave out re-reading.",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Sequencing creation and editing.",
-      "hint": "Check sentence, punctuation and spelling separately."
-    },
-    "stage": "explain"
+    "correct_index": 2
   },
   {
-    "id": "AC9E1LY06-P-016",
+    "id": "ac9e1ly06-er5-p-016",
     "subject": "english",
     "year_level": "Year 1",
     "curriculum_code": "AC9E1LY06",
     "bank": "practice",
-    "skill": "ac9e1ly06_06_explain",
-    "question": "Which tip would help you draw a multimodal recount?",
-    "audio_prompt": "Which tip would help you draw a multimodal recount?",
+    "skill": "creating and editing short texts",
+    "question": "Read: 'The bag fell. The bag spilled its books.' Which edit avoids repeating the name while keeping meaning?",
+    "audio_prompt": "Read: 'The bag fell. The bag spilled its books.' Which edit avoids repeating the name while keeping meaning?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly06.svg#ac9e1ly06-p-012",
-      "alt_text": "🧠 Draw a multimodal recount; ➡️ Plan; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
+    },
+    "stage": "apply",
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "sequence_priority": 16,
+    "explanation": {
+      "summary": "It refers clearly to the one bag, while the other pronouns change the meaning.",
+      "hint": "Read the whole sentence and check its meaning."
+    },
+    "review": {
+      "version": "20260906-english-review-5",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/complete-the-sentence-with-the-best-verb",
+      "evidence_scope": "Representative related IXL task inspected where mapped; official curriculum sets the performance requirement. See docs/question-bank-reviews/2026-09-06-year1-english-ly06-ly10.md. No measured equivalence or endorsement."
     },
     "answers": [
       {
-        "text": "Leave out re-reading.",
-        "is_correct": false
-      },
-      {
-        "text": "Do not check sentence, punctuation and spelling separately.",
-        "is_correct": false
-      },
-      {
-        "text": "Add one precise word from the topic.",
+        "text": "The bag fell. It spilled its books.",
         "is_correct": true
+      },
+      {
+        "text": "The bag fell. They spilled its books.",
+        "is_correct": false
+      },
+      {
+        "text": "The bag fell. We spilled its books.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Add one precise word from the topic.",
-      "hint": "Add one precise word from the topic."
-    },
-    "stage": "explain"
+    "correct_index": 0
   },
   {
-    "id": "AC9E1LY06-P-017",
+    "id": "ac9e1ly06-er5-p-017",
     "subject": "english",
     "year_level": "Year 1",
     "curriculum_code": "AC9E1LY06",
     "bank": "practice",
-    "skill": "ac9e1ly06_07_explain",
-    "question": "Which tip would help you edit an opinion reason?",
-    "audio_prompt": "Which tip would help you edit an opinion reason?",
+    "skill": "creating and editing short texts",
+    "question": "A draft says 'Birds have feathers. My shoes are wet. Birds lay eggs.' Which sentence should be removed to keep the report focused?",
+    "audio_prompt": "A draft says 'Birds have feathers. My shoes are wet. Birds lay eggs.' Which sentence should be removed to keep the report focused?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly06.svg#ac9e1ly06-p-014",
-      "alt_text": "🧠 Edit an opinion reason; ➡️ Write; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
+    },
+    "stage": "reason",
+    "difficulty": 3,
+    "difficulty_tier": "reason",
+    "sequence_priority": 17,
+    "explanation": {
+      "summary": "The shoe sentence is unrelated to the report's information about birds.",
+      "hint": "Read the whole sentence and check its meaning."
+    },
+    "review": {
+      "version": "20260906-english-review-5",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/complete-the-sentence-with-the-best-verb",
+      "evidence_scope": "Representative related IXL task inspected where mapped; official curriculum sets the performance requirement. See docs/question-bank-reviews/2026-09-06-year1-english-ly06-ly10.md. No measured equivalence or endorsement."
     },
     "answers": [
       {
-        "text": "Do not check sentence, punctuation and spelling separately.",
+        "text": "Birds lay eggs.",
         "is_correct": false
       },
       {
-        "text": "Use this routine: Plan → Write → Re-read → Edit sentence/punctuation/spelling → Publish.",
+        "text": "My shoes are wet.",
         "is_correct": true
       },
       {
-        "text": "Leave out one precise word from the topic.",
+        "text": "Birds have feathers.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Use this routine: Plan → Write → Re-read → Edit sentence/punctuation/spelling → Publish.",
-      "hint": "Read the text aloud to catch missing words."
-    },
-    "stage": "explain"
+    "correct_index": 1
   },
   {
-    "id": "AC9E1LY06-P-018",
+    "id": "ac9e1ly06-er5-p-018",
     "subject": "english",
     "year_level": "Year 1",
     "curriculum_code": "AC9E1LY06",
     "bank": "practice",
-    "skill": "ac9e1ly06_08_explain",
-    "question": "Which tip would help you check a report paragraph?",
-    "audio_prompt": "Which tip would help you check a report paragraph?",
+    "skill": "creating and editing short texts",
+    "question": "A child writes 'I like the park because I like the park.' Which revision supplies a useful reason?",
+    "audio_prompt": "A child writes 'I like the park because I like the park.' Which revision supplies a useful reason?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly06.svg#ac9e1ly06-p-016",
-      "alt_text": "🧠 Check a report paragraph; ➡️ Re-read; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
+    },
+    "stage": "reason",
+    "difficulty": 3,
+    "difficulty_tier": "reason",
+    "sequence_priority": 18,
+    "explanation": {
+      "summary": "Room to run adds a reason instead of repeating the same preference.",
+      "hint": "Read the whole sentence and check its meaning."
+    },
+    "review": {
+      "version": "20260906-english-review-5",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/complete-the-sentence-with-the-best-verb",
+      "evidence_scope": "Representative related IXL task inspected where mapped; official curriculum sets the performance requirement. See docs/question-bank-reviews/2026-09-06-year1-english-ly06-ly10.md. No measured equivalence or endorsement."
     },
     "answers": [
       {
-        "text": "Look for re-read and check the whole example.",
+        "text": "I like the park because the park is the park.",
+        "is_correct": false
+      },
+      {
+        "text": "I like the park because I said I do.",
+        "is_correct": false
+      },
+      {
+        "text": "I like the park because there is room to run.",
         "is_correct": true
-      },
-      {
-        "text": "Leave out one precise word from the topic.",
-        "is_correct": false
-      },
-      {
-        "text": "Leave out re-reading.",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Look for re-read and check the whole example.",
-      "hint": "Check sentence, punctuation and spelling separately."
-    },
-    "stage": "explain"
+    "correct_index": 2
   },
   {
-    "id": "AC9E1LY06-P-019",
+    "id": "ac9e1ly06-er5-p-019",
     "subject": "english",
     "year_level": "Year 1",
     "curriculum_code": "AC9E1LY06",
     "bank": "practice",
-    "skill": "ac9e1ly06_09_explain",
-    "question": "Which tip would help you spell a two-syllable word?",
-    "audio_prompt": "Which tip would help you spell a two-syllable word?",
+    "skill": "creating and editing short texts",
+    "question": "A recount says 'We packed up before going home.' Which opening fits that same outing?",
+    "audio_prompt": "A recount says 'We packed up before going home.' Which opening fits that same outing?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly06.svg#ac9e1ly06-p-018",
-      "alt_text": "🧠 Spell a two-syllable word; ➡️ Edit sentence/punctuation/spelling; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
+    },
+    "stage": "reason",
+    "difficulty": 3,
+    "difficulty_tier": "reason",
+    "sequence_priority": 19,
+    "explanation": {
+      "summary": "A past outing can end with packing up; a possible future visit is not the same recount.",
+      "hint": "Read the whole sentence and check its meaning."
+    },
+    "review": {
+      "version": "20260906-english-review-5",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/complete-the-sentence-with-the-best-verb",
+      "evidence_scope": "Representative related IXL task inspected where mapped; official curriculum sets the performance requirement. See docs/question-bank-reviews/2026-09-06-year1-english-ly06-ly10.md. No measured equivalence or endorsement."
     },
     "answers": [
       {
-        "text": "Leave out re-reading.",
-        "is_correct": false
-      },
-      {
-        "text": "Do not check sentence, punctuation and spelling separately.",
-        "is_correct": false
-      },
-      {
-        "text": "Check that you can edit punctuation.",
+        "text": "This morning, our class visited the garden.",
         "is_correct": true
+      },
+      {
+        "text": "Tomorrow, our class might visit the garden.",
+        "is_correct": false
+      },
+      {
+        "text": "Our class has never been to any garden.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Check that you can edit punctuation.",
-      "hint": "Add one precise word from the topic."
-    },
-    "stage": "explain"
+    "correct_index": 0
   },
   {
-    "id": "AC9E1LY06-P-020",
+    "id": "ac9e1ly06-er5-p-020",
     "subject": "english",
     "year_level": "Year 1",
     "curriculum_code": "AC9E1LY06",
     "bank": "practice",
-    "skill": "ac9e1ly06_10_explain",
-    "question": "Which tip would help you match editing checks?",
-    "audio_prompt": "Which tip would help you match editing checks?",
+    "skill": "creating and editing short texts",
+    "question": "Read: 'The small seed grew a root.' Which caption would match a drawing of that event?",
+    "audio_prompt": "Read: 'The small seed grew a root.' Which caption would match a drawing of that event?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly06.svg#ac9e1ly06-p-020",
-      "alt_text": "🧠 Match editing checks; ➡️ Publish; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
+    },
+    "stage": "reason",
+    "difficulty": 3,
+    "difficulty_tier": "reason",
+    "sequence_priority": 20,
+    "explanation": {
+      "summary": "The caption should match the stated root-growth stage rather than add an unsupported stage.",
+      "hint": "Read the whole sentence and check its meaning."
+    },
+    "review": {
+      "version": "20260906-english-review-5",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/complete-the-sentence-with-the-best-verb",
+      "evidence_scope": "Representative related IXL task inspected where mapped; official curriculum sets the performance requirement. See docs/question-bank-reviews/2026-09-06-year1-english-ly06-ly10.md. No measured equivalence or endorsement."
     },
     "answers": [
       {
-        "text": "Do not check sentence, punctuation and spelling separately.",
+        "text": "The seed is still unchanged.",
         "is_correct": false
       },
       {
-        "text": "Recognising editing targets.",
+        "text": "A root is growing from the seed.",
         "is_correct": true
       },
       {
-        "text": "Leave out one precise word from the topic.",
+        "text": "The seed has grown a flower already.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Recognising editing targets.",
-      "hint": "Read the text aloud to catch missing words."
-    },
-    "stage": "explain"
+    "correct_index": 1
   },
   {
-    "id": "AC9E1LY06-P-021",
+    "id": "ac9e1ly06-er5-p-021",
     "subject": "english",
     "year_level": "Year 1",
     "curriculum_code": "AC9E1LY06",
     "bank": "practice",
-    "skill": "ac9e1ly06_01_discriminate",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audio_prompt": "Which choice is a mix-up to avoid for this skill?",
+    "skill": "creating and editing short texts",
+    "question": "Write two simple sentences reporting what you know about a familiar animal. Re-read them and fix the capitals and end marks.",
+    "audio_prompt": "Write two simple sentences reporting what you know about a familiar animal. Re-read them and fix the capitals and end marks.",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly06.svg#ac9e1ly06-p-001",
-      "alt_text": "📖 Add a sentence boundary; 🔎 plan; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
-    "answers": [
-      {
-        "text": "The bird landed it drank water",
-        "is_correct": true
-      },
-      {
-        "text": "'The bird landed. It drank water.' with capital and full stops",
-        "is_correct": false
-      },
-      {
-        "text": "Read the text aloud to catch missing words.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
+    "stage": "reason",
+    "difficulty": 3,
+    "difficulty_tier": "reason",
+    "sequence_priority": 21,
     "explanation": {
-      "summary": "The bird landed it drank water is the mix-up. Read the text aloud to catch missing words.",
-      "hint": "Read the text aloud to catch missing words."
+      "summary": "Check that both sentences stay on the animal topic, use suitable vocabulary and have clear boundaries. Support spelling without replacing the child's ideas.",
+      "hint": "Complete the task before comparing your response with the guidance."
     },
-    "stage": "discriminate"
+    "review": {
+      "version": "20260906-english-review-5",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/complete-the-sentence-with-the-best-verb",
+      "evidence_scope": "Representative related IXL task inspected where mapped; official curriculum sets the performance requirement. See docs/question-bank-reviews/2026-09-06-year1-english-ly06-ly10.md. No measured equivalence or endorsement."
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "For example: A duck has feathers. It has a beak. Accept other accurate, complete sentences about one animal.",
+    "acceptance_note": "Check that both sentences stay on the animal topic, use suitable vocabulary and have clear boundaries. Support spelling without replacing the child's ideas.",
+    "response_instructions": "Write your response on paper or here. A grown-up will check it.",
+    "completion_label": "I have completed the writing on paper."
   },
   {
-    "id": "AC9E1LY06-P-022",
+    "id": "ac9e1ly06-er5-p-022",
     "subject": "english",
     "year_level": "Year 1",
     "curriculum_code": "AC9E1LY06",
     "bank": "practice",
-    "skill": "ac9e1ly06_02_discriminate",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audio_prompt": "Which choice is a mix-up to avoid for this skill?",
+    "skill": "creating and editing short texts",
+    "question": "Write your opinion about a classroom activity and add a reason. Re-read and improve one word if you can.",
+    "audio_prompt": "Write your opinion about a classroom activity and add a reason. Re-read and improve one word if you can.",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly06.svg#ac9e1ly06-p-003",
-      "alt_text": "📖 Match purposes and openings; 🔎 write; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
-    "answers": [
-      {
-        "text": "Each purpose matched correctly",
-        "is_correct": false
-      },
-      {
-        "text": "Koalas are ___",
-        "is_correct": true
-      },
-      {
-        "text": "Use this routine: Plan → Write → Re-read → Edit sentence/punctuation/spelling → Publish.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
+    "stage": "reason",
+    "difficulty": 3,
+    "difficulty_tier": "reason",
+    "sequence_priority": 22,
     "explanation": {
-      "summary": "Koalas are ___ is the mix-up. Check sentence, punctuation and spelling separately.",
-      "hint": "Check sentence, punctuation and spelling separately."
+      "summary": "Check that the opinion and reason connect, the sentence communicates a complete idea and its capital and end mark are present.",
+      "hint": "Complete the task before comparing your response with the guidance."
     },
-    "stage": "discriminate"
+    "review": {
+      "version": "20260906-english-review-5",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/complete-the-sentence-with-the-best-verb",
+      "evidence_scope": "Representative related IXL task inspected where mapped; official curriculum sets the performance requirement. See docs/question-bank-reviews/2026-09-06-year1-english-ly06-ly10.md. No measured equivalence or endorsement."
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "For example: I like painting because I can mix colours. Accept any clearly expressed opinion with a relevant reason.",
+    "acceptance_note": "Check that the opinion and reason connect, the sentence communicates a complete idea and its capital and end mark are present.",
+    "response_instructions": "Write your response on paper or here. A grown-up will check it.",
+    "completion_label": "I have completed the writing on paper."
   },
   {
-    "id": "AC9E1LY06-P-023",
+    "id": "ac9e1ly06-er5-p-023",
     "subject": "english",
     "year_level": "Year 1",
     "curriculum_code": "AC9E1LY06",
     "bank": "practice",
-    "skill": "ac9e1ly06_03_discriminate",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audio_prompt": "Which choice is a mix-up to avoid for this skill?",
+    "skill": "creating and editing short texts",
+    "question": "Write a short recount in two or three sentences about something you did today. Re-read it to check the order.",
+    "audio_prompt": "Write a short recount in two or three sentences about something you did today. Re-read it to check the order.",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly06.svg#ac9e1ly06-p-005",
-      "alt_text": "📖 Reread aloud; 🔎 re-read; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
-    "answers": [
-      {
-        "text": "'My dog runs fast.' adds a suitable verb and complete idea",
-        "is_correct": false
-      },
-      {
-        "text": "Look for re-read and check the whole example.",
-        "is_correct": false
-      },
-      {
-        "text": "My dog fast",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
+    "stage": "reason",
+    "difficulty": 3,
+    "difficulty_tier": "reason",
+    "sequence_priority": 23,
     "explanation": {
-      "summary": "My dog fast is the mix-up. Add one precise word from the topic.",
-      "hint": "Add one precise word from the topic."
+      "summary": "Check that the account stays with one event and uses sentence boundaries. The child's actual experience determines the content; do not require this model's wording.",
+      "hint": "Complete the task before comparing your response with the guidance."
     },
-    "stage": "discriminate"
+    "review": {
+      "version": "20260906-english-review-5",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/complete-the-sentence-with-the-best-verb",
+      "evidence_scope": "Representative related IXL task inspected where mapped; official curriculum sets the performance requirement. See docs/question-bank-reviews/2026-09-06-year1-english-ly06-ly10.md. No measured equivalence or endorsement."
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "Accept an opening naming the event, one or more actions in a sensible order and grammatically understandable sentences.",
+    "acceptance_note": "Check that the account stays with one event and uses sentence boundaries. The child's actual experience determines the content; do not require this model's wording.",
+    "response_instructions": "Write your response on paper or here. A grown-up will check it.",
+    "completion_label": "I have completed the writing on paper."
   },
   {
-    "id": "AC9E1LY06-P-024",
+    "id": "ac9e1ly06-er5-p-024",
     "subject": "english",
     "year_level": "Year 1",
     "curriculum_code": "AC9E1LY06",
     "bank": "practice",
-    "skill": "ac9e1ly06_04_discriminate",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audio_prompt": "Which choice is a mix-up to avoid for this skill?",
+    "skill": "creating and editing short texts",
+    "question": "Rewrite this draft on paper: 'we made a boat it floated'. Keep the two ideas and fix the sentence boundaries.",
+    "audio_prompt": "Rewrite this draft on paper: 'we made a boat it floated'. Keep the two ideas and fix the sentence boundaries.",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly06.svg#ac9e1ly06-p-007",
-      "alt_text": "📖 Choose topic vocabulary; 🔎 edit; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
-    "answers": [
-      {
-        "text": "The thing pushed the car",
-        "is_correct": true
-      },
-      {
-        "text": "'The hand applied a push that moved the toy car.'",
-        "is_correct": false
-      },
-      {
-        "text": "Check that you can edit punctuation.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
+    "stage": "reason",
+    "difficulty": 3,
+    "difficulty_tier": "reason",
+    "sequence_priority": 24,
     "explanation": {
-      "summary": "The thing pushed the car is the mix-up. Read the text aloud to catch missing words.",
-      "hint": "Read the text aloud to catch missing words."
+      "summary": "Check the capital W, a full stop after boat, capital I and final full stop. Both original ideas should remain.",
+      "hint": "Complete the task before comparing your response with the guidance."
     },
-    "stage": "discriminate"
+    "review": {
+      "version": "20260906-english-review-5",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/complete-the-sentence-with-the-best-verb",
+      "evidence_scope": "Representative related IXL task inspected where mapped; official curriculum sets the performance requirement. See docs/question-bank-reviews/2026-09-06-year1-english-ly06-ly10.md. No measured equivalence or endorsement."
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "We made a boat. It floated.",
+    "acceptance_note": "Check the capital W, a full stop after boat, capital I and final full stop. Both original ideas should remain.",
+    "response_instructions": "Write your response on paper or here. A grown-up will check it.",
+    "completion_label": "I have completed the writing on paper."
   },
   {
-    "id": "AC9E1LY06-P-025",
-    "subject": "english",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9E1LY06",
-    "bank": "practice",
-    "skill": "ac9e1ly06_05_discriminate",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audio_prompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly06.svg#ac9e1ly06-p-009",
-      "alt_text": "📖 Order the writing cycle; 🔎 topic word; ✅ choose with evidence"
-    },
-    "answers": [
-      {
-        "text": "Choose purpose/topic → draft → reread/edit → publish/share",
-        "is_correct": false
-      },
-      {
-        "text": "publish/share → reread/edit → draft → Choose purpose/topic",
-        "is_correct": true
-      },
-      {
-        "text": "Sequencing creation and editing.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "publish/share → reread/edit → draft → Choose purpose/topic is the mix-up. Check sentence, punctuation and spelling separately.",
-      "hint": "Check sentence, punctuation and spelling separately."
-    },
-    "stage": "discriminate"
-  },
-  {
-    "id": "AC9E1LY06-P-026",
-    "subject": "english",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9E1LY06",
-    "bank": "practice",
-    "skill": "ac9e1ly06_06_discriminate",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audio_prompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly06.svg#ac9e1ly06-p-011",
-      "alt_text": "📖 Draw a multimodal recount; 🔎 plan; ✅ choose with evidence"
-    },
-    "answers": [
-      {
-        "text": "Three logical events, complete sentences and appropriate time words/punctuation",
-        "is_correct": false
-      },
-      {
-        "text": "Add one precise word from the topic.",
-        "is_correct": false
-      },
-      {
-        "text": "Leave out one precise word from the topic.",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Leave out one precise word from the topic. is the mix-up. Add one precise word from the topic.",
-      "hint": "Add one precise word from the topic."
-    },
-    "stage": "discriminate"
-  },
-  {
-    "id": "AC9E1LY06-P-027",
-    "subject": "english",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9E1LY06",
-    "bank": "practice",
-    "skill": "ac9e1ly06_07_discriminate",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audio_prompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly06.svg#ac9e1ly06-p-013",
-      "alt_text": "📖 Edit an opinion reason; 🔎 write; ✅ choose with evidence"
-    },
-    "answers": [
-      {
-        "text": "I like the park. It is good",
-        "is_correct": true
-      },
-      {
-        "text": "'I like the park because its shady trees keep the play area cool.'",
-        "is_correct": false
-      },
-      {
-        "text": "Use this routine: Plan → Write → Re-read → Edit sentence/punctuation/spelling → Publish.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "I like the park. It is good is the mix-up. Read the text aloud to catch missing words.",
-      "hint": "Read the text aloud to catch missing words."
-    },
-    "stage": "discriminate"
-  },
-  {
-    "id": "AC9E1LY06-P-028",
-    "subject": "english",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9E1LY06",
-    "bank": "practice",
-    "skill": "ac9e1ly06_08_discriminate",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audio_prompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly06.svg#ac9e1ly06-p-015",
-      "alt_text": "📖 Check a report paragraph; 🔎 re-read; ✅ choose with evidence"
-    },
-    "answers": [
-      {
-        "text": "'A habitat is a place where living things live. It can provide water, food or shelter.'",
-        "is_correct": false
-      },
-      {
-        "text": "A habitat is a place living things live. it gives water food or shelter",
-        "is_correct": true
-      },
-      {
-        "text": "Look for re-read and check the whole example.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "A habitat is a place living things live. it gives water food or shelter is the mix-up. Check sentence, punctuation and spelling separately.",
-      "hint": "Check sentence, punctuation and spelling separately."
-    },
-    "stage": "discriminate"
-  },
-  {
-    "id": "AC9E1LY06-P-029",
-    "subject": "english",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9E1LY06",
-    "bank": "practice",
-    "skill": "ac9e1ly06_09_discriminate",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audio_prompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly06.svg#ac9e1ly06-p-017",
-      "alt_text": "📖 Spell a two-syllable word; 🔎 edit; ✅ choose with evidence"
-    },
-    "answers": [
-      {
-        "text": "Picnic spelled correctly in a complete punctuated sentence",
-        "is_correct": false
-      },
-      {
-        "text": "Check that you can edit punctuation.",
-        "is_correct": false
-      },
-      {
-        "text": "We packed a ___",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "We packed a ___ is the mix-up. Add one precise word from the topic.",
-      "hint": "Add one precise word from the topic."
-    },
-    "stage": "discriminate"
-  },
-  {
-    "id": "AC9E1LY06-P-030",
-    "subject": "english",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9E1LY06",
-    "bank": "practice",
-    "skill": "ac9e1ly06_10_discriminate",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audio_prompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly06.svg#ac9e1ly06-p-019",
-      "alt_text": "📖 Match editing checks; 🔎 topic word; ✅ choose with evidence"
-    },
-    "answers": [
-      {
-        "text": "Leave out re-reading.",
-        "is_correct": true
-      },
-      {
-        "text": "All checks matched correctly",
-        "is_correct": false
-      },
-      {
-        "text": "Recognising editing targets.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Leave out re-reading. is the mix-up. Read the text aloud to catch missing words.",
-      "hint": "Read the text aloud to catch missing words."
-    },
-    "stage": "discriminate"
-  },
-  {
-    "id": "AC9E1LY06-P-031",
-    "subject": "english",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9E1LY06",
-    "bank": "practice",
-    "skill": "ac9e1ly06_01_apply",
-    "question": "Which choice would best use this skill in a new example?",
-    "audio_prompt": "Which choice would best use this skill in a new example?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly06.svg#ac9e1ly06-p-001",
-      "alt_text": "📖 Add a sentence boundary; 🔎 plan; ✅ choose with evidence"
-    },
-    "answers": [
-      {
-        "text": "The bird landed it drank water",
-        "is_correct": false
-      },
-      {
-        "text": "'The bird landed. It drank water.' with capital and full stops",
-        "is_correct": true
-      },
-      {
-        "text": "Leave out re-reading.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "'The bird landed. It drank water.' with capital and full stops uses the skill correctly. Read the text aloud to catch missing words.",
-      "hint": "Read the text aloud to catch missing words."
-    },
-    "stage": "apply"
-  },
-  {
-    "id": "AC9E1LY06-P-032",
-    "subject": "english",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9E1LY06",
-    "bank": "practice",
-    "skill": "ac9e1ly06_02_apply",
-    "question": "Which choice would best use this skill in a new example?",
-    "audio_prompt": "Which choice would best use this skill in a new example?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly06.svg#ac9e1ly06-p-003",
-      "alt_text": "📖 Match purposes and openings; 🔎 write; ✅ choose with evidence"
-    },
-    "answers": [
-      {
-        "text": "Koalas are ___",
-        "is_correct": false
-      },
-      {
-        "text": "I think ___ because ___",
-        "is_correct": false
-      },
-      {
-        "text": "Each purpose matched correctly",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Each purpose matched correctly uses the skill correctly. Check sentence, punctuation and spelling separately.",
-      "hint": "Check sentence, punctuation and spelling separately."
-    },
-    "stage": "apply"
-  },
-  {
-    "id": "AC9E1LY06-P-033",
-    "subject": "english",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9E1LY06",
-    "bank": "practice",
-    "skill": "ac9e1ly06_03_apply",
-    "question": "Which choice would best use this skill in a new example?",
-    "audio_prompt": "Which choice would best use this skill in a new example?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly06.svg#ac9e1ly06-p-005",
-      "alt_text": "📖 Reread aloud; 🔎 re-read; ✅ choose with evidence"
-    },
-    "answers": [
-      {
-        "text": "'My dog runs fast.' adds a suitable verb and complete idea",
-        "is_correct": true
-      },
-      {
-        "text": "My dog fast",
-        "is_correct": false
-      },
-      {
-        "text": "Leave out one precise word from the topic.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "'My dog runs fast.' adds a suitable verb and complete idea uses the skill correctly. Add one precise word from the topic.",
-      "hint": "Add one precise word from the topic."
-    },
-    "stage": "apply"
-  },
-  {
-    "id": "AC9E1LY06-P-034",
-    "subject": "english",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9E1LY06",
-    "bank": "practice",
-    "skill": "ac9e1ly06_04_apply",
-    "question": "Which choice would best use this skill in a new example?",
-    "audio_prompt": "Which choice would best use this skill in a new example?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly06.svg#ac9e1ly06-p-007",
-      "alt_text": "📖 Choose topic vocabulary; 🔎 edit; ✅ choose with evidence"
-    },
-    "answers": [
-      {
-        "text": "The thing pushed the car",
-        "is_correct": false
-      },
-      {
-        "text": "'The hand applied a push that moved the toy car.'",
-        "is_correct": true
-      },
-      {
-        "text": "Leave out re-reading.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "'The hand applied a push that moved the toy car.' uses the skill correctly. Read the text aloud to catch missing words.",
-      "hint": "Read the text aloud to catch missing words."
-    },
-    "stage": "apply"
-  },
-  {
-    "id": "AC9E1LY06-P-035",
-    "subject": "english",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9E1LY06",
-    "bank": "practice",
-    "skill": "ac9e1ly06_05_apply",
-    "question": "Which choice would best use this skill in a new example?",
-    "audio_prompt": "Which choice would best use this skill in a new example?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly06.svg#ac9e1ly06-p-009",
-      "alt_text": "📖 Order the writing cycle; 🔎 topic word; ✅ choose with evidence"
-    },
-    "answers": [
-      {
-        "text": "publish/share → reread/edit → draft → Choose purpose/topic",
-        "is_correct": false
-      },
-      {
-        "text": "Do not check sentence, punctuation and spelling separately.",
-        "is_correct": false
-      },
-      {
-        "text": "Choose purpose/topic → draft → reread/edit → publish/share",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Choose purpose/topic → draft → reread/edit → publish/share uses the skill correctly. Check sentence, punctuation and spelling separately.",
-      "hint": "Check sentence, punctuation and spelling separately."
-    },
-    "stage": "apply"
-  },
-  {
-    "id": "AC9E1LY06-P-036",
-    "subject": "english",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9E1LY06",
-    "bank": "practice",
-    "skill": "ac9e1ly06_06_apply",
-    "question": "Which choice would best use this skill in a new example?",
-    "audio_prompt": "Which choice would best use this skill in a new example?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly06.svg#ac9e1ly06-p-011",
-      "alt_text": "📖 Draw a multimodal recount; 🔎 plan; ✅ choose with evidence"
-    },
-    "answers": [
-      {
-        "text": "Three logical events, complete sentences and appropriate time words/punctuation",
-        "is_correct": true
-      },
-      {
-        "text": "Leave out one precise word from the topic.",
-        "is_correct": false
-      },
-      {
-        "text": "Leave out re-reading.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Three logical events, complete sentences and appropriate time words/punctuation uses the skill correctly. Add one precise word from the topic.",
-      "hint": "Add one precise word from the topic."
-    },
-    "stage": "apply"
-  },
-  {
-    "id": "AC9E1LY06-P-037",
-    "subject": "english",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9E1LY06",
-    "bank": "practice",
-    "skill": "ac9e1ly06_07_apply",
-    "question": "Which choice would best use this skill in a new example?",
-    "audio_prompt": "Which choice would best use this skill in a new example?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly06.svg#ac9e1ly06-p-013",
-      "alt_text": "📖 Edit an opinion reason; 🔎 write; ✅ choose with evidence"
-    },
-    "answers": [
-      {
-        "text": "I like the park. It is good",
-        "is_correct": false
-      },
-      {
-        "text": "'I like the park because its shady trees keep the play area cool.'",
-        "is_correct": true
-      },
-      {
-        "text": "Leave out re-reading.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "'I like the park because its shady trees keep the play area cool.' uses the skill correctly. Read the text aloud to catch missing words.",
-      "hint": "Read the text aloud to catch missing words."
-    },
-    "stage": "apply"
-  },
-  {
-    "id": "AC9E1LY06-P-038",
-    "subject": "english",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9E1LY06",
-    "bank": "practice",
-    "skill": "ac9e1ly06_08_apply",
-    "question": "Which choice would best use this skill in a new example?",
-    "audio_prompt": "Which choice would best use this skill in a new example?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly06.svg#ac9e1ly06-p-015",
-      "alt_text": "📖 Check a report paragraph; 🔎 re-read; ✅ choose with evidence"
-    },
-    "answers": [
-      {
-        "text": "A habitat is a place living things live. it gives water food or shelter",
-        "is_correct": false
-      },
-      {
-        "text": "Do not check sentence, punctuation and spelling separately.",
-        "is_correct": false
-      },
-      {
-        "text": "'A habitat is a place where living things live. It can provide water, food or shelter.'",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "'A habitat is a place where living things live. It can provide water, food or shelter.' uses the skill correctly. Check sentence, punctuation and spelling separately.",
-      "hint": "Check sentence, punctuation and spelling separately."
-    },
-    "stage": "apply"
-  },
-  {
-    "id": "AC9E1LY06-P-039",
-    "subject": "english",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9E1LY06",
-    "bank": "practice",
-    "skill": "ac9e1ly06_09_apply",
-    "question": "Which choice would best use this skill in a new example?",
-    "audio_prompt": "Which choice would best use this skill in a new example?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly06.svg#ac9e1ly06-p-017",
-      "alt_text": "📖 Spell a two-syllable word; 🔎 edit; ✅ choose with evidence"
-    },
-    "answers": [
-      {
-        "text": "Picnic spelled correctly in a complete punctuated sentence",
-        "is_correct": true
-      },
-      {
-        "text": "We packed a ___",
-        "is_correct": false
-      },
-      {
-        "text": "Leave out one precise word from the topic.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Picnic spelled correctly in a complete punctuated sentence uses the skill correctly. Add one precise word from the topic.",
-      "hint": "Add one precise word from the topic."
-    },
-    "stage": "apply"
-  },
-  {
-    "id": "AC9E1LY06-P-040",
-    "subject": "english",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9E1LY06",
-    "bank": "practice",
-    "skill": "ac9e1ly06_10_apply",
-    "question": "Which choice would best use this skill in a new example?",
-    "audio_prompt": "Which choice would best use this skill in a new example?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly06.svg#ac9e1ly06-p-019",
-      "alt_text": "📖 Match editing checks; 🔎 topic word; ✅ choose with evidence"
-    },
-    "answers": [
-      {
-        "text": "Leave out re-reading.",
-        "is_correct": false
-      },
-      {
-        "text": "All checks matched correctly",
-        "is_correct": true
-      },
-      {
-        "text": "Do not check sentence, punctuation and spelling separately.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "All checks matched correctly uses the skill correctly. Read the text aloud to catch missing words.",
-      "hint": "Read the text aloud to catch missing words."
-    },
-    "stage": "apply"
-  },
-  {
-    "id": "AC9E1LY06-T-001",
+    "id": "ac9e1ly06-er5-t-001",
     "subject": "english",
     "year_level": "Year 1",
     "curriculum_code": "AC9E1LY06",
     "bank": "test",
-    "skill": "ac9e1ly06_01_answer",
-    "question": "Which response would correctly show a meaning edit?",
-    "audio_prompt": "Which response would correctly show a meaning edit?",
+    "skill": "creating and editing short texts",
+    "question": "Which edit fixes 'my pet is small.'?",
+    "audio_prompt": "Which edit fixes 'my pet is small.'?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly06.svg#ac9e1ly06-t-001",
-      "alt_text": "📖 show a meaning edit; 🔎 plan; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
+    },
+    "stage": "independent",
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 1,
+    "explanation": {
+      "summary": "The first letter of the sentence needs a capital; the other common words remain lower-case.",
+      "hint": "Read the whole sentence and check its meaning."
+    },
+    "review": {
+      "version": "20260906-english-review-5",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/complete-the-sentence-with-the-best-verb",
+      "evidence_scope": "Representative related IXL task inspected where mapped; official curriculum sets the performance requirement. See docs/question-bank-reviews/2026-09-06-year1-english-ly06-ly10.md. No measured equivalence or endorsement."
     },
     "answers": [
       {
-        "text": "For factual report, revise inaccurate claim",
+        "text": "My pet is small.",
         "is_correct": true
       },
       {
-        "text": "The tiny elephant fit in my pocket",
+        "text": "my Pet is small.",
         "is_correct": false
       },
       {
-        "text": "Leave out re-reading.",
+        "text": "my pet Is small.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "For factual report, revise inaccurate claim This matches the task.",
-      "hint": "Read the text aloud to catch missing words."
-    }
+    "correct_index": 0
   },
   {
-    "id": "AC9E1LY06-T-002",
+    "id": "ac9e1ly06-er5-t-002",
     "subject": "english",
     "year_level": "Year 1",
     "curriculum_code": "AC9E1LY06",
     "bank": "test",
-    "skill": "ac9e1ly06_01_strategy",
-    "question": "Which tip would help you show a meaning edit?",
-    "audio_prompt": "Which tip would help you show a meaning edit?",
+    "skill": "creating and editing short texts",
+    "question": "Choose the complete sentence about a tree.",
+    "audio_prompt": "Choose the complete sentence about a tree.",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly06.svg#ac9e1ly06-t-002",
-      "alt_text": "🧠 show a meaning edit; ➡️ Plan; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
+    },
+    "stage": "independent",
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 2,
+    "explanation": {
+      "summary": "The first option tells a complete idea, while the other two describe a tree without completing the statement.",
+      "hint": "Read the whole sentence and check its meaning."
+    },
+    "review": {
+      "version": "20260906-english-review-5",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/complete-the-sentence-with-the-best-verb",
+      "evidence_scope": "Representative related IXL task inspected where mapped; official curriculum sets the performance requirement. See docs/question-bank-reviews/2026-09-06-year1-english-ly06-ly10.md. No measured equivalence or endorsement."
     },
     "answers": [
       {
-        "text": "Do not check sentence, punctuation and spelling separately.",
+        "text": "A tall tree with leaves.",
         "is_correct": false
       },
       {
-        "text": "Read the text aloud to catch missing words.",
+        "text": "The tree gives us shade.",
         "is_correct": true
       },
       {
-        "text": "Leave out one precise word from the topic.",
+        "text": "The tree beside the path.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Read the text aloud to catch missing words.",
-      "hint": "Read the text aloud to catch missing words."
-    }
+    "correct_index": 1
   },
   {
-    "id": "AC9E1LY06-T-003",
+    "id": "ac9e1ly06-er5-t-003",
     "subject": "english",
     "year_level": "Year 1",
     "curriculum_code": "AC9E1LY06",
     "bank": "test",
-    "skill": "ac9e1ly06_02_answer",
-    "question": "Which response would correctly draw an editing checklist?",
-    "audio_prompt": "Which response would correctly draw an editing checklist?",
+    "skill": "creating and editing short texts",
+    "question": "Finish 'The snail ___ slowly along the wall each day.'",
+    "audio_prompt": "Finish 'The snail ___ slowly along the wall each day.'",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly06.svg#ac9e1ly06-t-003",
-      "alt_text": "📖 Draw an editing checklist; 🔎 write; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
+    },
+    "stage": "independent",
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 3,
+    "explanation": {
+      "summary": "One snail takes moves in this present-tense sentence.",
+      "hint": "Read the whole sentence and check its meaning."
+    },
+    "review": {
+      "version": "20260906-english-review-5",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/complete-the-sentence-with-the-best-verb",
+      "evidence_scope": "Representative related IXL task inspected where mapped; official curriculum sets the performance requirement. See docs/question-bank-reviews/2026-09-06-year1-english-ly06-ly10.md. No measured equivalence or endorsement."
     },
     "answers": [
       {
-        "text": "Do not check sentence, punctuation and spelling separately.",
+        "text": "move",
         "is_correct": false
       },
       {
-        "text": "Leave out one precise word from the topic.",
+        "text": "moving",
         "is_correct": false
       },
       {
-        "text": "Five accurate checks and a sentence demonstrably reviewed/corrected",
+        "text": "moves",
         "is_correct": true
       }
     ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Five accurate checks and a sentence demonstrably reviewed/corrected This matches the task.",
-      "hint": "Check sentence, punctuation and spelling separately."
-    }
+    "correct_index": 2
   },
   {
-    "id": "AC9E1LY06-T-004",
+    "id": "ac9e1ly06-er5-t-004",
     "subject": "english",
     "year_level": "Year 1",
     "curriculum_code": "AC9E1LY06",
     "bank": "test",
-    "skill": "ac9e1ly06_02_strategy",
-    "question": "Which tip would help you draw an editing checklist?",
-    "audio_prompt": "Which tip would help you draw an editing checklist?",
+    "skill": "creating and editing short texts",
+    "question": "Which sentence correctly asks about the next bus?",
+    "audio_prompt": "Which sentence correctly asks about the next bus?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly06.svg#ac9e1ly06-t-004",
-      "alt_text": "🧠 Draw an editing checklist; ➡️ Write; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
+    },
+    "stage": "independent",
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 4,
+    "explanation": {
+      "summary": "A written question starts with a capital and ends with a question mark.",
+      "hint": "Read the whole sentence and check its meaning."
+    },
+    "review": {
+      "version": "20260906-english-review-5",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/complete-the-sentence-with-the-best-verb",
+      "evidence_scope": "Representative related IXL task inspected where mapped; official curriculum sets the performance requirement. See docs/question-bank-reviews/2026-09-06-year1-english-ly06-ly10.md. No measured equivalence or endorsement."
     },
     "answers": [
       {
-        "text": "Use this routine: Plan → Write → Re-read → Edit sentence/punctuation/spelling → Publish.",
+        "text": "When is the next bus?",
         "is_correct": true
       },
       {
-        "text": "Leave out one precise word from the topic.",
+        "text": "When is the next bus.",
         "is_correct": false
       },
       {
-        "text": "Leave out re-reading.",
+        "text": "when is the next bus?",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Use this routine: Plan → Write → Re-read → Edit sentence/punctuation/spelling → Publish.",
-      "hint": "Check sentence, punctuation and spelling separately."
-    }
+    "correct_index": 0
   },
   {
-    "id": "AC9E1LY06-T-005",
+    "id": "ac9e1ly06-er5-t-005",
     "subject": "english",
     "year_level": "Year 1",
     "curriculum_code": "AC9E1LY06",
     "bank": "test",
-    "skill": "ac9e1ly06_03_answer",
-    "question": "Which response would correctly correct purpose mixing?",
-    "audio_prompt": "Which response would correctly correct purpose mixing?",
+    "skill": "creating and editing short texts",
+    "question": "Choose the correct spelling for 'Please put the ___ on the table.'",
+    "audio_prompt": "Choose the correct spelling for 'Please put the ___ on the table.'",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly06.svg#ac9e1ly06-t-005",
-      "alt_text": "📖 Correct purpose mixing; 🔎 re-read; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
+    },
+    "stage": "independent",
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 5,
+    "explanation": {
+      "summary": "Napkin is the standard spelling of this two-syllable word.",
+      "hint": "Read the whole sentence and check its meaning."
+    },
+    "review": {
+      "version": "20260906-english-review-5",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/complete-the-sentence-with-the-best-verb",
+      "evidence_scope": "Representative related IXL task inspected where mapped; official curriculum sets the performance requirement. See docs/question-bank-reviews/2026-09-06-year1-english-ly06-ly10.md. No measured equivalence or endorsement."
     },
     "answers": [
       {
-        "text": "You must buy a frog",
+        "text": "napkinn",
         "is_correct": false
       },
       {
-        "text": "Names persuasive/unrelated intrusions; plans grouped factual sections/captions suited to report",
+        "text": "napkin",
         "is_correct": true
       },
       {
-        "text": "Leave out one precise word from the topic.",
+        "text": "napken",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Names persuasive/unrelated intrusions; plans grouped factual sections/captions suited to report This matches the task.",
-      "hint": "Add one precise word from the topic."
-    }
+    "correct_index": 1
   },
   {
-    "id": "AC9E1LY06-T-006",
+    "id": "ac9e1ly06-er5-t-006",
     "subject": "english",
     "year_level": "Year 1",
     "curriculum_code": "AC9E1LY06",
     "bank": "test",
-    "skill": "ac9e1ly06_03_strategy",
-    "question": "Which tip would help you correct purpose mixing?",
-    "audio_prompt": "Which tip would help you correct purpose mixing?",
+    "skill": "creating and editing short texts",
+    "question": "A report says 'The bee carries yellow stuff from flowers.' Which word makes the information more precise?",
+    "audio_prompt": "A report says 'The bee carries yellow stuff from flowers.' Which word makes the information more precise?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly06.svg#ac9e1ly06-t-006",
-      "alt_text": "🧠 Correct purpose mixing; ➡️ Re-read; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
+    },
+    "stage": "independent",
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 6,
+    "explanation": {
+      "summary": "Pollen is the flower material bees carry; the alternatives describe different substances.",
+      "hint": "Read the whole sentence and check its meaning."
+    },
+    "review": {
+      "version": "20260906-english-review-5",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/complete-the-sentence-with-the-best-verb",
+      "evidence_scope": "Representative related IXL task inspected where mapped; official curriculum sets the performance requirement. See docs/question-bank-reviews/2026-09-06-year1-english-ly06-ly10.md. No measured equivalence or endorsement."
     },
     "answers": [
       {
-        "text": "Leave out re-reading.",
+        "text": "paint",
         "is_correct": false
       },
       {
-        "text": "Do not check sentence, punctuation and spelling separately.",
+        "text": "powdered sugar",
         "is_correct": false
       },
       {
-        "text": "Look for re-read and check the whole example.",
+        "text": "pollen",
         "is_correct": true
       }
     ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Look for re-read and check the whole example.",
-      "hint": "Add one precise word from the topic."
-    }
+    "correct_index": 2
   },
   {
-    "id": "AC9E1LY06-T-007",
+    "id": "ac9e1ly06-er5-t-007",
     "subject": "english",
     "year_level": "Year 1",
     "curriculum_code": "AC9E1LY06",
     "bank": "test",
-    "skill": "ac9e1ly06_04_answer",
-    "question": "Which response would correctly create and edit three forms?",
-    "audio_prompt": "Which response would correctly create and edit three forms?",
+    "skill": "creating and editing short texts",
+    "question": "A child writes 'Last week we walk to the pond.' Which edit fits the time?",
+    "audio_prompt": "A child writes 'Last week we walk to the pond.' Which edit fits the time?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly06.svg#ac9e1ly06-t-007",
-      "alt_text": "📖 Create and edit three forms; 🔎 edit; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
+    },
+    "stage": "independent",
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 7,
+    "explanation": {
+      "summary": "Walked marks the past action that matches Last week.",
+      "hint": "Read the whole sentence and check its meaning."
+    },
+    "review": {
+      "version": "20260906-english-review-5",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/complete-the-sentence-with-the-best-verb",
+      "evidence_scope": "Representative related IXL task inspected where mapped; official curriculum sets the performance requirement. See docs/question-bank-reviews/2026-09-06-year1-english-ly06-ly10.md. No measured equivalence or endorsement."
     },
     "answers": [
       {
-        "text": "Forms suit all three purposes",
+        "text": "Last week we walked to the pond.",
         "is_correct": true
       },
       {
-        "text": "rain",
+        "text": "Last week we walking to the pond.",
         "is_correct": false
       },
       {
-        "text": "Leave out re-reading.",
+        "text": "Last week we walks to the pond.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Forms suit all three purposes This matches the task.",
-      "hint": "Read the text aloud to catch missing words."
-    }
+    "correct_index": 0
   },
   {
-    "id": "AC9E1LY06-T-008",
+    "id": "ac9e1ly06-er5-t-008",
     "subject": "english",
     "year_level": "Year 1",
     "curriculum_code": "AC9E1LY06",
     "bank": "test",
-    "skill": "ac9e1ly06_04_strategy",
-    "question": "Which tip would help you create and edit three forms?",
-    "audio_prompt": "Which tip would help you create and edit three forms?",
+    "skill": "creating and editing short texts",
+    "question": "Choose the best edit of 'The rain stopped we went out.'",
+    "audio_prompt": "Choose the best edit of 'The rain stopped we went out.'",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly06.svg#ac9e1ly06-t-008",
-      "alt_text": "🧠 Create and edit three forms; ➡️ Edit sentence/punctuation/spelling; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
+    },
+    "stage": "independent",
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 8,
+    "explanation": {
+      "summary": "Each complete idea needs its own sentence boundary, with a capital beginning the second.",
+      "hint": "Read the whole sentence and check its meaning."
+    },
+    "review": {
+      "version": "20260906-english-review-5",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/complete-the-sentence-with-the-best-verb",
+      "evidence_scope": "Representative related IXL task inspected where mapped; official curriculum sets the performance requirement. See docs/question-bank-reviews/2026-09-06-year1-english-ly06-ly10.md. No measured equivalence or endorsement."
     },
     "answers": [
       {
-        "text": "Do not check sentence, punctuation and spelling separately.",
+        "text": "The rain stopped we. Went out.",
         "is_correct": false
       },
       {
-        "text": "Check that you can edit punctuation.",
+        "text": "The rain stopped. We went out.",
         "is_correct": true
       },
       {
-        "text": "Leave out one precise word from the topic.",
+        "text": "The rain. Stopped we went out.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Check that you can edit punctuation.",
-      "hint": "Read the text aloud to catch missing words."
-    }
+    "correct_index": 1
   },
   {
-    "id": "AC9E1LY06-T-009",
+    "id": "ac9e1ly06-er5-t-009",
     "subject": "english",
     "year_level": "Year 1",
     "curriculum_code": "AC9E1LY06",
     "bank": "test",
-    "skill": "ac9e1ly06_01_test_verify",
-    "question": "A classmate is unsure about this example. Which tip would help them check it carefully?",
-    "audio_prompt": "A classmate is unsure about this example. Which tip would help them check it carefully?",
+    "skill": "creating and editing short texts",
+    "question": "A child wants to explain why they prefer a book. Which sentence does that?",
+    "audio_prompt": "A child wants to explain why they prefer a book. Which sentence does that?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly06.svg#ac9e1ly06-t-002",
-      "alt_text": "🧠 show a meaning edit; ➡️ Plan; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
+    },
+    "stage": "independent",
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 9,
+    "explanation": {
+      "summary": "The first sentence states a preference and gives a reason linked to the book.",
+      "hint": "Read the whole sentence and check its meaning."
+    },
+    "review": {
+      "version": "20260906-english-review-5",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/complete-the-sentence-with-the-best-verb",
+      "evidence_scope": "Representative related IXL task inspected where mapped; official curriculum sets the performance requirement. See docs/question-bank-reviews/2026-09-06-year1-english-ly06-ly10.md. No measured equivalence or endorsement."
     },
     "answers": [
       {
-        "text": "The tiny elephant fit in my pocket",
+        "text": "This book is on the desk.",
         "is_correct": false
       },
       {
-        "text": "Leave out re-reading.",
+        "text": "This book has a cover.",
         "is_correct": false
       },
       {
-        "text": "Read the text aloud to catch missing words.",
+        "text": "I prefer this book because its ending surprises me.",
         "is_correct": true
       }
     ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Read the text aloud to catch missing words. is the useful check. Read the text aloud to catch missing words.",
-      "hint": "Read the text aloud to catch missing words."
-    },
-    "stage": "verify"
+    "correct_index": 2
   },
   {
-    "id": "AC9E1LY06-T-010",
+    "id": "ac9e1ly06-er5-t-010",
     "subject": "english",
     "year_level": "Year 1",
     "curriculum_code": "AC9E1LY06",
     "bank": "test",
-    "skill": "ac9e1ly06_02_test_verify",
-    "question": "A classmate is unsure about this example. Which tip would help them check it carefully?",
-    "audio_prompt": "A classmate is unsure about this example. Which tip would help them check it carefully?",
+    "skill": "creating and editing short texts",
+    "question": "A report says 'Frogs lay eggs. Frogs have moist skin. I lost a sock.' Which sentence is off topic?",
+    "audio_prompt": "A report says 'Frogs lay eggs. Frogs have moist skin. I lost a sock.' Which sentence is off topic?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly06.svg#ac9e1ly06-t-004",
-      "alt_text": "🧠 Draw an editing checklist; ➡️ Write; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
+    },
+    "stage": "independent",
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 10,
+    "explanation": {
+      "summary": "The sock does not provide information about frogs, so it interrupts the report.",
+      "hint": "Read the whole sentence and check its meaning."
+    },
+    "review": {
+      "version": "20260906-english-review-5",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/complete-the-sentence-with-the-best-verb",
+      "evidence_scope": "Representative related IXL task inspected where mapped; official curriculum sets the performance requirement. See docs/question-bank-reviews/2026-09-06-year1-english-ly06-ly10.md. No measured equivalence or endorsement."
     },
     "answers": [
       {
-        "text": "Use this routine: Plan → Write → Re-read → Edit sentence/punctuation/spelling → Publish.",
+        "text": "I lost a sock.",
         "is_correct": true
       },
       {
-        "text": "Do not check sentence, punctuation and spelling separately.",
+        "text": "Frogs lay eggs.",
         "is_correct": false
       },
       {
-        "text": "Leave out one precise word from the topic.",
+        "text": "Frogs have moist skin.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Use this routine: Plan → Write → Re-read → Edit sentence/punctuation/spelling → Publish. is the useful check. Check sentence, punctuation and spelling separately.",
-      "hint": "Check sentence, punctuation and spelling separately."
-    },
-    "stage": "verify"
+    "correct_index": 0
   },
   {
-    "id": "AC9E1LY06-T-011",
+    "id": "ac9e1ly06-er5-t-011",
     "subject": "english",
     "year_level": "Year 1",
     "curriculum_code": "AC9E1LY06",
     "bank": "test",
-    "skill": "ac9e1ly06_03_test_verify",
-    "question": "A classmate is unsure about this example. Which tip would help them check it carefully?",
-    "audio_prompt": "A classmate is unsure about this example. Which tip would help them check it carefully?",
+    "skill": "creating and editing short texts",
+    "question": "A recount says 'We washed the apples. Next, we cut them.' What does them refer to?",
+    "audio_prompt": "A recount says 'We washed the apples. Next, we cut them.' What does them refer to?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly06.svg#ac9e1ly06-t-006",
-      "alt_text": "🧠 Correct purpose mixing; ➡️ Re-read; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
+    },
+    "stage": "independent",
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 11,
+    "explanation": {
+      "summary": "Them replaces apples, the things named in the previous sentence.",
+      "hint": "Read the whole sentence and check its meaning."
+    },
+    "review": {
+      "version": "20260906-english-review-5",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/complete-the-sentence-with-the-best-verb",
+      "evidence_scope": "Representative related IXL task inspected where mapped; official curriculum sets the performance requirement. See docs/question-bank-reviews/2026-09-06-year1-english-ly06-ly10.md. No measured equivalence or endorsement."
     },
     "answers": [
       {
-        "text": "You must buy a frog",
+        "text": "The knives",
         "is_correct": false
       },
       {
-        "text": "Look for re-read and check the whole example.",
+        "text": "The apples",
         "is_correct": true
       },
       {
-        "text": "Leave out one precise word from the topic.",
+        "text": "The children",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Look for re-read and check the whole example. is the useful check. Add one precise word from the topic.",
-      "hint": "Add one precise word from the topic."
-    },
-    "stage": "verify"
+    "correct_index": 1
   },
   {
-    "id": "AC9E1LY06-T-012",
+    "id": "ac9e1ly06-er5-t-012",
     "subject": "english",
     "year_level": "Year 1",
     "curriculum_code": "AC9E1LY06",
     "bank": "test",
-    "skill": "ac9e1ly06_04_test_verify",
-    "question": "A classmate is unsure about this example. Which tip would help them check it carefully?",
-    "audio_prompt": "A classmate is unsure about this example. Which tip would help them check it carefully?",
+    "skill": "creating and editing short texts",
+    "question": "A drawing shows a seedling with two leaves. Which caption stays accurate?",
+    "audio_prompt": "A drawing shows a seedling with two leaves. Which caption stays accurate?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly06.svg#ac9e1ly06-t-008",
-      "alt_text": "🧠 Create and edit three forms; ➡️ Edit sentence/punctuation/spelling; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
+    },
+    "stage": "independent",
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 12,
+    "explanation": {
+      "summary": "The caption must agree with the two leaves shown rather than describe a different stage.",
+      "hint": "Read the whole sentence and check its meaning."
+    },
+    "review": {
+      "version": "20260906-english-review-5",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/complete-the-sentence-with-the-best-verb",
+      "evidence_scope": "Representative related IXL task inspected where mapped; official curriculum sets the performance requirement. See docs/question-bank-reviews/2026-09-06-year1-english-ly06-ly10.md. No measured equivalence or endorsement."
     },
     "answers": [
       {
-        "text": "rain",
+        "text": "The plant has ripe fruit.",
         "is_correct": false
       },
       {
-        "text": "Leave out re-reading.",
+        "text": "The seed has no leaves yet.",
         "is_correct": false
       },
       {
-        "text": "Check that you can edit punctuation.",
+        "text": "The seedling has two leaves.",
         "is_correct": true
       }
     ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Check that you can edit punctuation. is the useful check. Read the text aloud to catch missing words.",
-      "hint": "Read the text aloud to catch missing words."
-    },
-    "stage": "verify"
+    "correct_index": 2
   },
   {
-    "id": "AC9E1LY06-T-013",
+    "id": "ac9e1ly06-er5-t-013",
     "subject": "english",
     "year_level": "Year 1",
     "curriculum_code": "AC9E1LY06",
     "bank": "test",
-    "skill": "ac9e1ly06_01_test_apply",
-    "question": "A classmate chose “The tiny elephant fit in my pocket”. Which answer would improve their response?",
-    "audio_prompt": "A classmate chose The tiny elephant fit in my pocket. Which answer would improve their response?",
+    "skill": "creating and editing short texts",
+    "question": "Write two simple sentences about a place you know. Include one precise word that helps the reader picture it. Re-read your writing.",
+    "audio_prompt": "Write two simple sentences about a place you know. Include one precise word that helps the reader picture it. Re-read your writing.",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly06.svg#ac9e1ly06-t-001",
-      "alt_text": "📖 show a meaning edit; 🔎 plan; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
-    "answers": [
-      {
-        "text": "For factual report, revise inaccurate claim",
-        "is_correct": true
-      },
-      {
-        "text": "The tiny elephant fit in my pocket",
-        "is_correct": false
-      },
-      {
-        "text": "Leave out re-reading.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
+    "stage": "independent",
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 13,
     "explanation": {
-      "summary": "For factual report, revise inaccurate claim is the stronger response because it uses the target skill. Read the text aloud to catch missing words.",
-      "hint": "Read the text aloud to catch missing words."
+      "summary": "Check complete ideas, relevant vocabulary, capitals and end marks. Accept different places and descriptions; do not demand decorative language.",
+      "hint": "Complete the task before comparing your response with the guidance."
     },
-    "stage": "apply"
+    "review": {
+      "version": "20260906-english-review-5",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/complete-the-sentence-with-the-best-verb",
+      "evidence_scope": "Representative related IXL task inspected where mapped; official curriculum sets the performance requirement. See docs/question-bank-reviews/2026-09-06-year1-english-ly06-ly10.md. No measured equivalence or endorsement."
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "Accept two connected sentences about a real or imagined place, with a useful precise word, such as pond, gate or shady.",
+    "acceptance_note": "Check complete ideas, relevant vocabulary, capitals and end marks. Accept different places and descriptions; do not demand decorative language.",
+    "response_instructions": "Write your response on paper or here. A grown-up will check it.",
+    "completion_label": "I have completed the writing on paper."
   },
   {
-    "id": "AC9E1LY06-T-014",
+    "id": "ac9e1ly06-er5-t-014",
     "subject": "english",
     "year_level": "Year 1",
     "curriculum_code": "AC9E1LY06",
     "bank": "test",
-    "skill": "ac9e1ly06_02_test_apply",
-    "question": "A classmate chose “Do not check sentence, punctuation and spelling separately.”. Which answer would improve their response?",
-    "audio_prompt": "A classmate chose Do not check sentence, punctuation and spelling separately.. Which answer would improve their response?",
+    "skill": "creating and editing short texts",
+    "question": "Write an opinion about a food and a reason for it. Re-read to check your spelling and sentence ending.",
+    "audio_prompt": "Write an opinion about a food and a reason for it. Re-read to check your spelling and sentence ending.",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly06.svg#ac9e1ly06-t-003",
-      "alt_text": "📖 Draw an editing checklist; 🔎 write; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
-    "answers": [
-      {
-        "text": "Do not check sentence, punctuation and spelling separately.",
-        "is_correct": false
-      },
-      {
-        "text": "Five accurate checks and a sentence demonstrably reviewed/corrected",
-        "is_correct": true
-      },
-      {
-        "text": "Leave out one precise word from the topic.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
+    "stage": "independent",
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 14,
     "explanation": {
-      "summary": "Five accurate checks and a sentence demonstrably reviewed/corrected is the stronger response because it uses the target skill. Check sentence, punctuation and spelling separately.",
-      "hint": "Check sentence, punctuation and spelling separately."
+      "summary": "Check that the reason explains the preference and the sentence is complete. Do not mark the child's taste as right or wrong.",
+      "hint": "Complete the task before comparing your response with the guidance."
     },
-    "stage": "apply"
+    "review": {
+      "version": "20260906-english-review-5",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/complete-the-sentence-with-the-best-verb",
+      "evidence_scope": "Representative related IXL task inspected where mapped; official curriculum sets the performance requirement. See docs/question-bank-reviews/2026-09-06-year1-english-ly06-ly10.md. No measured equivalence or endorsement."
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "For example: I like pears because they are juicy. Accept any food preference supported by a relevant reason.",
+    "acceptance_note": "Check that the reason explains the preference and the sentence is complete. Do not mark the child's taste as right or wrong.",
+    "response_instructions": "Write your response on paper or here. A grown-up will check it.",
+    "completion_label": "I have completed the writing on paper."
   },
   {
-    "id": "AC9E1LY06-T-015",
+    "id": "ac9e1ly06-er5-t-015",
     "subject": "english",
     "year_level": "Year 1",
     "curriculum_code": "AC9E1LY06",
     "bank": "test",
-    "skill": "ac9e1ly06_03_test_apply",
-    "question": "A classmate chose “You must buy a frog”. Which answer would improve their response?",
-    "audio_prompt": "A classmate chose You must buy a frog. Which answer would improve their response?",
+    "skill": "creating and editing short texts",
+    "question": "Write a two- or three-sentence recount of a real or imagined game. Show what happened first and what happened next.",
+    "audio_prompt": "Write a two- or three-sentence recount of a real or imagined game. Show what happened first and what happened next.",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly06.svg#ac9e1ly06-t-005",
-      "alt_text": "📖 Correct purpose mixing; 🔎 re-read; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
-    "answers": [
-      {
-        "text": "You must buy a frog",
-        "is_correct": false
-      },
-      {
-        "text": "Leave out one precise word from the topic.",
-        "is_correct": false
-      },
-      {
-        "text": "Names persuasive/unrelated intrusions; plans grouped factual sections/captions suited to report",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
+    "stage": "independent",
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 15,
     "explanation": {
-      "summary": "Names persuasive/unrelated intrusions; plans grouped factual sections/captions suited to report is the stronger response because it uses the target skill. Add one precise word from the topic.",
-      "hint": "Add one precise word from the topic."
+      "summary": "Check the event sequence, topic vocabulary and sentence boundaries. An imagined event is acceptable if its actions fit together.",
+      "hint": "Complete the task before comparing your response with the guidance."
     },
-    "stage": "apply"
+    "review": {
+      "version": "20260906-english-review-5",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/complete-the-sentence-with-the-best-verb",
+      "evidence_scope": "Representative related IXL task inspected where mapped; official curriculum sets the performance requirement. See docs/question-bank-reviews/2026-09-06-year1-english-ly06-ly10.md. No measured equivalence or endorsement."
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "Accept a coherent short account of one game, with ordered events and understandable simple sentences.",
+    "acceptance_note": "Check the event sequence, topic vocabulary and sentence boundaries. An imagined event is acceptable if its actions fit together.",
+    "response_instructions": "Write your response on paper or here. A grown-up will check it.",
+    "completion_label": "I have completed the writing on paper."
   },
   {
-    "id": "AC9E1LY06-T-016",
+    "id": "ac9e1ly06-er5-t-016",
     "subject": "english",
     "year_level": "Year 1",
     "curriculum_code": "AC9E1LY06",
     "bank": "test",
-    "skill": "ac9e1ly06_04_test_apply",
-    "question": "A classmate chose “rain”. Which answer would improve their response?",
-    "audio_prompt": "A classmate chose rain. Which answer would improve their response?",
+    "skill": "creating and editing short texts",
+    "question": "Rewrite this draft as two sentences: 'the wind blew my hat fell off'. Keep the meaning and edit the punctuation.",
+    "audio_prompt": "Rewrite this draft as two sentences: 'the wind blew my hat fell off'. Keep the meaning and edit the punctuation.",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly06.svg#ac9e1ly06-t-007",
-      "alt_text": "📖 Create and edit three forms; 🔎 edit; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
-    "answers": [
-      {
-        "text": "Forms suit all three purposes",
-        "is_correct": true
-      },
-      {
-        "text": "rain",
-        "is_correct": false
-      },
-      {
-        "text": "Leave out re-reading.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
+    "stage": "independent",
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 16,
     "explanation": {
-      "summary": "Forms suit all three purposes is the stronger response because it uses the target skill. Read the text aloud to catch missing words.",
-      "hint": "Read the text aloud to catch missing words."
+      "summary": "Check the capital T, full stop after blew, capital M and final full stop. Preserve both events.",
+      "hint": "Complete the task before comparing your response with the guidance."
     },
-    "stage": "apply"
+    "review": {
+      "version": "20260906-english-review-5",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/complete-the-sentence-with-the-best-verb",
+      "evidence_scope": "Representative related IXL task inspected where mapped; official curriculum sets the performance requirement. See docs/question-bank-reviews/2026-09-06-year1-english-ly06-ly10.md. No measured equivalence or endorsement."
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "The wind blew. My hat fell off.",
+    "acceptance_note": "Check the capital T, full stop after blew, capital M and final full stop. Preserve both events.",
+    "response_instructions": "Write your response on paper or here. A grown-up will check it.",
+    "completion_label": "I have completed the writing on paper."
   }
 ]
