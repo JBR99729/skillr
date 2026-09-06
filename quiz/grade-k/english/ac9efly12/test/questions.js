@@ -4,131 +4,436 @@ window.skillrTestQuestions = [
     "id": "ac9efly12-e01",
     "curriculumCode": "AC9EFLY12",
     "bank": "test",
-    "sourceType": "Oral response",
-    "question": "Blend c-a-t. Which word is it?",
-    "explanation": "/p/ /e/ /n/, pen.",
+    "sourceType": "Multiple choice",
+    "question": "Which word do you make by blending /s/ /u/ /n/?",
+    "explanation": "The three phonemes blend together to make sun.",
     "printable": true,
     "type": "single",
-    "correct": 0,
     "answers": [
-      "cat",
-      "cot",
-      "cap"
-    ]
+      "sin",
+      "sun",
+      "run"
+    ],
+    "correct": 1,
+    "feedback": {
+      "approach": "Listen to or read each sound, word or sentence clue before choosing.",
+      "reasoning": "The three phonemes blend together to make sun."
+    },
+    "difficulty": "core",
+    "sequencePriority": 1,
+    "qualitySchema": "20260906-foundation-english-ly12-ly15-ixl-standard; IXL example-informed; ACARA descriptor-aligned; original wording",
+    "structuredExplanation": {
+      "approach": "Use the prompt evidence first, then match it to the English idea being practised.",
+      "reasoning": "The three phonemes blend together to make sun."
+    }
   },
   {
     "id": "ac9efly12-e02",
     "curriculumCode": "AC9EFLY12",
     "bank": "test",
-    "sourceType": "Short response",
-    "question": "Which letter completes s_n to make sun?",
-    "explanation": "rug.",
+    "sourceType": "Multiple choice",
+    "question": "Which word spells /h/ /a/ /t/?",
+    "explanation": "Hat uses h for /h/, a for short /a/ and t for /t/.",
     "printable": true,
     "type": "single",
-    "acceptedAnswers": [
-      "rug"
-    ],
-    "correct": 0,
     "answers": [
-      "u",
-      "a",
-      "i"
-    ]
+      "hot",
+      "hit",
+      "hat"
+    ],
+    "correct": 2,
+    "feedback": {
+      "approach": "Listen to or read each sound, word or sentence clue before choosing.",
+      "reasoning": "Hat uses h for /h/, a for short /a/ and t for /t/."
+    },
+    "difficulty": "core",
+    "sequencePriority": 2,
+    "qualitySchema": "20260906-foundation-english-ly12-ly15-ixl-standard; IXL example-informed; ACARA descriptor-aligned; original wording",
+    "structuredExplanation": {
+      "approach": "Use the prompt evidence first, then match it to the English idea being practised.",
+      "reasoning": "Hat uses h for /h/, a for short /a/ and t for /t/."
+    }
   },
   {
     "id": "ac9efly12-e03",
     "curriculumCode": "AC9EFLY12",
     "bank": "test",
     "sourceType": "Multiple choice",
-    "question": "Which word has the middle sound /i/?",
-    "explanation": "h-o-t represents /h/ /o/ /t/ in sequence and blends to hot.",
+    "question": "Which sound is the vowel in cat?",
+    "explanation": "The middle sound in this CVC word is the vowel sound.",
     "printable": true,
     "type": "single",
     "answers": [
-      "pig",
-      "pen",
-      "pot"
+      "/a/",
+      "/c/",
+      "/t/"
     ],
-    "correct": 0
+    "correct": 0,
+    "feedback": {
+      "approach": "Listen to or read each sound, word or sentence clue before choosing.",
+      "reasoning": "The middle sound in this CVC word is the vowel sound."
+    },
+    "difficulty": "core",
+    "sequencePriority": 3,
+    "qualitySchema": "20260906-foundation-english-ly12-ly15-ixl-standard; IXL example-informed; ACARA descriptor-aligned; original wording",
+    "structuredExplanation": {
+      "approach": "Use the prompt evidence first, then match it to the English idea being practised.",
+      "reasoning": "The middle sound in this CVC word is the vowel sound."
+    }
   },
   {
     "id": "ac9efly12-e04",
     "curriculumCode": "AC9EFLY12",
     "bank": "test",
-    "sourceType": "Matching",
-    "question": "Which letters spell the word map?",
-    "explanation": "Correctly matches van, mud and jet (1 mark each). Award a fourth mark if all 3 are checked by accurate blending. 4 marks total.",
+    "sourceType": "Multiple choice",
+    "question": "Which word can you sound out as /b/ /e/ /d/?",
+    "explanation": "The sounds /b/ /e/ /d/ blend to bed, which matches the prompt evidence.",
     "printable": true,
     "type": "single",
-    "correct": 0,
     "answers": [
-      "m-a-p",
-      "p-a-m",
-      "m-o-p"
-    ]
+      "bad",
+      "bed",
+      "bid"
+    ],
+    "correct": 1,
+    "feedback": {
+      "approach": "Listen to or read each sound, word or sentence clue before choosing.",
+      "reasoning": "The sounds /b/ /e/ /d/ blend to bed, which matches the prompt evidence."
+    },
+    "difficulty": "core",
+    "sequencePriority": 4,
+    "qualitySchema": "20260906-foundation-english-ly12-ly15-ixl-standard; IXL example-informed; ACARA descriptor-aligned; original wording",
+    "structuredExplanation": {
+      "approach": "Use the prompt evidence first, then match it to the English idea being practised.",
+      "reasoning": "The sounds /b/ /e/ /d/ blend to bed, which matches the prompt evidence."
+    }
   },
   {
     "id": "ac9efly12-e05",
     "curriculumCode": "AC9EFLY12",
     "bank": "test",
     "sourceType": "Multiple choice",
-    "question": "Blend c-a-t. Which word is it?",
-    "explanation": "The middle sound in lid is /i/, represented by i.",
+    "question": "Which letters are in the right order for /r/ /u/ /n/?",
+    "explanation": "CVC spelling keeps sounds in their spoken order.",
     "printable": true,
     "type": "single",
     "answers": [
-      "cat",
-      "cot",
-      "cap"
+      "nur",
+      "rnu",
+      "run"
     ],
-    "correct": 0
+    "correct": 2,
+    "feedback": {
+      "approach": "Listen to or read each sound, word or sentence clue before choosing.",
+      "reasoning": "CVC spelling keeps sounds in their spoken order."
+    },
+    "difficulty": "developing",
+    "sequencePriority": 5,
+    "qualitySchema": "20260906-foundation-english-ly12-ly15-ixl-standard; IXL example-informed; ACARA descriptor-aligned; original wording",
+    "structuredExplanation": {
+      "approach": "Use the prompt evidence first, then match it to the English idea being practised.",
+      "reasoning": "CVC spelling keeps sounds in their spoken order."
+    }
   },
   {
     "id": "ac9efly12-e06",
     "curriculumCode": "AC9EFLY12",
     "bank": "test",
-    "sourceType": "Oral response",
-    "question": "Which letter completes s_n to make sun?",
-    "explanation": "1 mark for each accurately read word (4 marks); identifies pig (1 mark). 5 marks total.",
+    "sourceType": "Multiple choice",
+    "question": "Which word has the same middle vowel sound as pig?",
+    "explanation": "Pig and sit both use the short i vowel sound.",
     "printable": true,
     "type": "single",
-    "correct": 0,
     "answers": [
-      "u",
-      "a",
-      "i"
-    ]
+      "sit",
+      "sat",
+      "sun"
+    ],
+    "correct": 0,
+    "feedback": {
+      "approach": "Listen to or read each sound, word or sentence clue before choosing.",
+      "reasoning": "Pig and sit both use the short i vowel sound."
+    },
+    "difficulty": "developing",
+    "sequencePriority": 6,
+    "qualitySchema": "20260906-foundation-english-ly12-ly15-ixl-standard; IXL example-informed; ACARA descriptor-aligned; original wording",
+    "structuredExplanation": {
+      "approach": "Use the prompt evidence first, then match it to the English idea being practised.",
+      "reasoning": "Pig and sit both use the short i vowel sound."
+    }
   },
   {
     "id": "ac9efly12-e07",
     "curriculumCode": "AC9EFLY12",
     "bank": "test",
-    "sourceType": "Extended response",
-    "question": "Which word has the middle sound /i/?",
-    "explanation": "Blends fid as written (1 mark); identifies d as incorrect (1 mark); writes fit with t (1 mark); explains that the final /t/ sound is represented by t, not d (1 mark). 4 marks total.",
+    "sourceType": "Multiple choice",
+    "question": "Which word has the same middle vowel sound as pot?",
+    "explanation": "Pot and log both use the short o vowel sound.",
     "printable": true,
     "type": "single",
-    "correct": 0,
     "answers": [
-      "pig",
-      "pen",
-      "pot"
-    ]
+      "leg",
+      "log",
+      "lag"
+    ],
+    "correct": 1,
+    "feedback": {
+      "approach": "Listen to or read each sound, word or sentence clue before choosing.",
+      "reasoning": "Pot and log both use the short o vowel sound."
+    },
+    "difficulty": "developing",
+    "sequencePriority": 7,
+    "qualitySchema": "20260906-foundation-english-ly12-ly15-ixl-standard; IXL example-informed; ACARA descriptor-aligned; original wording",
+    "structuredExplanation": {
+      "approach": "Use the prompt evidence first, then match it to the English idea being practised.",
+      "reasoning": "Pot and log both use the short o vowel sound."
+    }
   },
   {
     "id": "ac9efly12-e08",
     "curriculumCode": "AC9EFLY12",
     "bank": "test",
-    "sourceType": "Extended response",
-    "question": "Which letters spell the word map?",
-    "explanation": "Writes log (1 mark) and leg (1 mark); underlines o/e as the changing medial letters (1 mark); accurately blends both (1 mark); explains that the changed letter represents a different middle vowel sound and therefore a different word (1 mark). 5 marks total.",
+    "sourceType": "Multiple choice",
+    "question": "What word do the letters j-a-m make?",
+    "explanation": "Sounding out j-a-m and blending the sounds makes jam.",
     "printable": true,
     "type": "single",
-    "correct": 0,
     "answers": [
-      "m-a-p",
-      "p-a-m",
-      "m-o-p"
-    ]
+      "jog",
+      "mat",
+      "jam"
+    ],
+    "correct": 2,
+    "feedback": {
+      "approach": "Listen to or read each sound, word or sentence clue before choosing.",
+      "reasoning": "Sounding out j-a-m and blending the sounds makes jam."
+    },
+    "difficulty": "developing",
+    "sequencePriority": 8,
+    "qualitySchema": "20260906-foundation-english-ly12-ly15-ixl-standard; IXL example-informed; ACARA descriptor-aligned; original wording",
+    "structuredExplanation": {
+      "approach": "Use the prompt evidence first, then match it to the English idea being practised.",
+      "reasoning": "Sounding out j-a-m and blending the sounds makes jam."
+    }
+  },
+  {
+    "id": "ac9efly12-e09",
+    "curriculumCode": "AC9EFLY12",
+    "bank": "test",
+    "sourceType": "Multiple choice",
+    "question": "Which word is made from /f/ /i/ /n/?",
+    "explanation": "The letters f-i-n match the three sounds in order.",
+    "printable": true,
+    "type": "single",
+    "answers": [
+      "fin",
+      "fan",
+      "fun"
+    ],
+    "correct": 0,
+    "feedback": {
+      "approach": "Listen to or read each sound, word or sentence clue before choosing.",
+      "reasoning": "The letters f-i-n match the three sounds in order."
+    },
+    "difficulty": "developing",
+    "sequencePriority": 9,
+    "qualitySchema": "20260906-foundation-english-ly12-ly15-ixl-standard; IXL example-informed; ACARA descriptor-aligned; original wording",
+    "structuredExplanation": {
+      "approach": "Use the prompt evidence first, then match it to the English idea being practised.",
+      "reasoning": "The letters f-i-n match the three sounds in order."
+    }
+  },
+  {
+    "id": "ac9efly12-e10",
+    "curriculumCode": "AC9EFLY12",
+    "bank": "test",
+    "sourceType": "Multiple choice",
+    "question": "Which word is made from /t/ /o/ /p/?",
+    "explanation": "The vowel sound /o/ in the middle makes top.",
+    "printable": true,
+    "type": "single",
+    "answers": [
+      "tap",
+      "top",
+      "tip"
+    ],
+    "correct": 1,
+    "feedback": {
+      "approach": "Listen to or read each sound, word or sentence clue before choosing.",
+      "reasoning": "The vowel sound /o/ in the middle makes top."
+    },
+    "difficulty": "developing",
+    "sequencePriority": 10,
+    "qualitySchema": "20260906-foundation-english-ly12-ly15-ixl-standard; IXL example-informed; ACARA descriptor-aligned; original wording",
+    "structuredExplanation": {
+      "approach": "Use the prompt evidence first, then match it to the English idea being practised.",
+      "reasoning": "The vowel sound /o/ in the middle makes top."
+    }
+  },
+  {
+    "id": "ac9efly12-e11",
+    "curriculumCode": "AC9EFLY12",
+    "bank": "test",
+    "sourceType": "Multiple choice",
+    "question": "Which word is made from /c/ /u/ /p/?",
+    "explanation": "Cup represents /c/, short /u/ and /p/.",
+    "printable": true,
+    "type": "single",
+    "answers": [
+      "cap",
+      "cop",
+      "cup"
+    ],
+    "correct": 2,
+    "feedback": {
+      "approach": "Listen to or read each sound, word or sentence clue before choosing.",
+      "reasoning": "Cup represents /c/, short /u/ and /p/."
+    },
+    "difficulty": "developing",
+    "sequencePriority": 11,
+    "qualitySchema": "20260906-foundation-english-ly12-ly15-ixl-standard; IXL example-informed; ACARA descriptor-aligned; original wording",
+    "structuredExplanation": {
+      "approach": "Use the prompt evidence first, then match it to the English idea being practised.",
+      "reasoning": "Cup represents /c/, short /u/ and /p/."
+    }
+  },
+  {
+    "id": "ac9efly12-e12",
+    "curriculumCode": "AC9EFLY12",
+    "bank": "test",
+    "sourceType": "Multiple choice",
+    "question": "Which spelling matches the picture word cat?",
+    "explanation": "The correct spelling keeps the sounds c-a-t in order.",
+    "printable": true,
+    "type": "single",
+    "answers": [
+      "cat",
+      "cta",
+      "cut"
+    ],
+    "correct": 0,
+    "feedback": {
+      "approach": "Listen to or read each sound, word or sentence clue before choosing.",
+      "reasoning": "The correct spelling keeps the sounds c-a-t in order."
+    },
+    "difficulty": "developing",
+    "sequencePriority": 12,
+    "qualitySchema": "20260906-foundation-english-ly12-ly15-ixl-standard; IXL example-informed; ACARA descriptor-aligned; original wording",
+    "structuredExplanation": {
+      "approach": "Use the prompt evidence first, then match it to the English idea being practised.",
+      "reasoning": "The correct spelling keeps the sounds c-a-t in order."
+    },
+    "image": "/assets/quiz-visuals/foundation-english/ac9efly12-cvc-cat.svg",
+    "imageAlt": "Simple visual clue that supports the Foundation English question."
+  },
+  {
+    "id": "ac9efly12-e13",
+    "curriculumCode": "AC9EFLY12",
+    "bank": "test",
+    "sourceType": "Multiple choice",
+    "question": "If you change the first sound in mat to /s/, what word is made?",
+    "explanation": "Changing only the first sound creates sat.",
+    "printable": true,
+    "type": "single",
+    "answers": [
+      "met",
+      "sat",
+      "map"
+    ],
+    "correct": 1,
+    "feedback": {
+      "approach": "Listen to or read each sound, word or sentence clue before choosing.",
+      "reasoning": "Changing only the first sound creates sat."
+    },
+    "difficulty": "extension",
+    "sequencePriority": 13,
+    "qualitySchema": "20260906-foundation-english-ly12-ly15-ixl-standard; IXL example-informed; ACARA descriptor-aligned; original wording",
+    "structuredExplanation": {
+      "approach": "Use the prompt evidence first, then match it to the English idea being practised.",
+      "reasoning": "Changing only the first sound creates sat."
+    }
+  },
+  {
+    "id": "ac9efly12-e14",
+    "curriculumCode": "AC9EFLY12",
+    "bank": "test",
+    "sourceType": "Multiple choice",
+    "question": "If you change the last sound in cap to /t/, what word is made?",
+    "explanation": "Changing the final sound from /p/ to /t/ makes cat.",
+    "printable": true,
+    "type": "single",
+    "answers": [
+      "can",
+      "cup",
+      "cat"
+    ],
+    "correct": 2,
+    "feedback": {
+      "approach": "Listen to or read each sound, word or sentence clue before choosing.",
+      "reasoning": "Changing the final sound from /p/ to /t/ makes cat."
+    },
+    "difficulty": "extension",
+    "sequencePriority": 14,
+    "qualitySchema": "20260906-foundation-english-ly12-ly15-ixl-standard; IXL example-informed; ACARA descriptor-aligned; original wording",
+    "structuredExplanation": {
+      "approach": "Use the prompt evidence first, then match it to the English idea being practised.",
+      "reasoning": "Changing the final sound from /p/ to /t/ makes cat."
+    }
+  },
+  {
+    "id": "ac9efly12-e15",
+    "curriculumCode": "AC9EFLY12",
+    "bank": "test",
+    "sourceType": "Multiple choice",
+    "question": "Which CVC word names an animal?",
+    "explanation": "Hen is a CVC word and names an animal.",
+    "printable": true,
+    "type": "single",
+    "answers": [
+      "hen",
+      "hat",
+      "hot"
+    ],
+    "correct": 0,
+    "feedback": {
+      "approach": "Listen to or read each sound, word or sentence clue before choosing.",
+      "reasoning": "Hen is a CVC word and names an animal."
+    },
+    "difficulty": "extension",
+    "sequencePriority": 15,
+    "qualitySchema": "20260906-foundation-english-ly12-ly15-ixl-standard; IXL example-informed; ACARA descriptor-aligned; original wording",
+    "structuredExplanation": {
+      "approach": "Use the prompt evidence first, then match it to the English idea being practised.",
+      "reasoning": "Hen is a CVC word and names an animal."
+    }
+  },
+  {
+    "id": "ac9efly12-e16",
+    "curriculumCode": "AC9EFLY12",
+    "bank": "test",
+    "sourceType": "Multiple choice",
+    "question": "Which CVC word names something to write with?",
+    "explanation": "Pen is spelled from three sounds and names a writing tool.",
+    "printable": true,
+    "type": "single",
+    "answers": [
+      "pan",
+      "pen",
+      "pin"
+    ],
+    "correct": 1,
+    "feedback": {
+      "approach": "Listen to or read each sound, word or sentence clue before choosing.",
+      "reasoning": "Pen is spelled from three sounds and names a writing tool."
+    },
+    "difficulty": "extension",
+    "sequencePriority": 16,
+    "qualitySchema": "20260906-foundation-english-ly12-ly15-ixl-standard; IXL example-informed; ACARA descriptor-aligned; original wording",
+    "structuredExplanation": {
+      "approach": "Use the prompt evidence first, then match it to the English idea being practised.",
+      "reasoning": "Pen is spelled from three sounds and names a writing tool."
+    },
+    "image": "/assets/quiz-visuals/foundation-english/ac9efly12-cvc-pen.svg",
+    "imageAlt": "Simple visual clue that supports the Foundation English question."
   }
 ];
