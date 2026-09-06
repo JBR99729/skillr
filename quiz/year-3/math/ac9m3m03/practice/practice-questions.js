@@ -4,28 +4,28 @@ window.skillrPracticeQuestions = [
     "id": "ac9m3m03-p-001",
     "curriculumCode": "AC9M3M03",
     "bank": "practice",
-    "skill": "time units duration",
+    "skill": "convert time units",
     "printable": true,
     "type": "single",
-    "question": "On the class calendar, how many minutes are in 1 hour?",
-    "audioPrompt": "On the class calendar, how many minutes are in 1 hour?",
-    "visual": "On the class calendar: A time-unit conversion from 1 hours to minutes.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"On the class calendar: A time-unit conversion from 1 hours to minutes.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3m03.svg#ac9m3m03-p-001\"></use></svg>",
+    "question": "How many seconds are in 3 minutes?",
+    "audioPrompt": "How many seconds are in 3 minutes?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3m03.svg#ac9m3m03-p-001",
-      "alt_text": "On the class calendar: A time-unit conversion from 1 hours to minutes."
+      "type": "none"
     },
     "answers": [
-      "100",
-      "30",
-      "60"
+      "180 seconds",
+      "90 seconds",
+      "120 seconds",
+      "300 seconds"
     ],
-    "correct": 2,
-    "explanation": "1×60=60 minutes.\nHint: Each hour contains 60 minutes.",
+    "difficulty": 1,
+    "correct": 0,
+    "explanation": "Each minute has 60 seconds, so 3 minutes is 180 seconds.\nHint: Multiply minutes by 60.",
     "structuredExplanation": {
-      "summary": "1×60=60 minutes.",
-      "hint": "Each hour contains 60 minutes."
+      "summary": "Each minute has 60 seconds, so 3 minutes is 180 seconds.",
+      "hint": "Multiply minutes by 60."
     },
     "qualitySchema": "production-v1"
   },
@@ -33,28 +33,28 @@ window.skillrPracticeQuestions = [
     "id": "ac9m3m03-p-002",
     "curriculumCode": "AC9M3M03",
     "bank": "practice",
-    "skill": "time units duration",
+    "skill": "convert time units",
     "printable": true,
     "type": "single",
-    "question": "On the class calendar, how many seconds are in 15 minutes?",
-    "audioPrompt": "On the class calendar, how many seconds are in 15 minutes?",
-    "visual": "On the class calendar: A time-unit conversion from 15 minutes to seconds.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"On the class calendar: A time-unit conversion from 15 minutes to seconds.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3m03.svg#ac9m3m03-p-002\"></use></svg>",
+    "question": "How many minutes are in 4 hours?",
+    "audioPrompt": "How many minutes are in 4 hours?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3m03.svg#ac9m3m03-p-002",
-      "alt_text": "On the class calendar: A time-unit conversion from 15 minutes to seconds."
+      "type": "none"
     },
     "answers": [
-      "900",
-      "1500",
-      "75"
+      "120 minutes",
+      "240 minutes",
+      "180 minutes",
+      "400 minutes"
     ],
-    "correct": 0,
-    "explanation": "15×60=900 seconds.\nHint: Each minute contains 60 seconds.",
+    "difficulty": 1,
+    "correct": 1,
+    "explanation": "Each hour has 60 minutes, so 4 hours is 240 minutes.\nHint: Multiply hours by 60.",
     "structuredExplanation": {
-      "summary": "15×60=900 seconds.",
-      "hint": "Each minute contains 60 seconds."
+      "summary": "Each hour has 60 minutes, so 4 hours is 240 minutes.",
+      "hint": "Multiply hours by 60."
     },
     "qualitySchema": "production-v1"
   },
@@ -62,28 +62,28 @@ window.skillrPracticeQuestions = [
     "id": "ac9m3m03-p-003",
     "curriculumCode": "AC9M3M03",
     "bank": "practice",
-    "skill": "time units duration",
+    "skill": "convert time units",
     "printable": true,
     "type": "single",
-    "question": "On the class calendar, which duration is longer: 1 hours or 50 minutes?",
-    "audioPrompt": "On the class calendar, which duration is longer: 1 hours or 50 minutes?",
-    "visual": "On the class calendar: Two durations in different units ready to compare.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"On the class calendar: Two durations in different units ready to compare.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3m03.svg#ac9m3m03-p-003\"></use></svg>",
+    "question": "How many hours are in 2 days?",
+    "audioPrompt": "How many hours are in 2 days?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3m03.svg#ac9m3m03-p-003",
-      "alt_text": "On the class calendar: Two durations in different units ready to compare."
+      "type": "none"
     },
     "answers": [
-      "50 minutes",
-      "1 hours",
-      "They are equal"
+      "24 hours",
+      "36 hours",
+      "48 hours",
+      "60 hours"
     ],
-    "correct": 1,
-    "explanation": "1 hours is 60 minutes, which is 10 minutes longer.\nHint: Convert to the same unit before comparing.",
+    "difficulty": 1,
+    "correct": 2,
+    "explanation": "Each day has 24 hours, so 2 days is 48 hours.\nHint: Multiply days by 24.",
     "structuredExplanation": {
-      "summary": "1 hours is 60 minutes, which is 10 minutes longer.",
-      "hint": "Convert to the same unit before comparing."
+      "summary": "Each day has 24 hours, so 2 days is 48 hours.",
+      "hint": "Multiply days by 24."
     },
     "qualitySchema": "production-v1"
   },
@@ -91,28 +91,28 @@ window.skillrPracticeQuestions = [
     "id": "ac9m3m03-p-004",
     "curriculumCode": "AC9M3M03",
     "bank": "practice",
-    "skill": "time units duration",
+    "skill": "convert time units",
     "printable": true,
     "type": "single",
-    "question": "On the class calendar, a lesson starts at 9:00 and lasts 15 minutes. When does it finish?",
-    "audioPrompt": "On the class calendar, a lesson starts at 9:00 and lasts 15 minutes. When does it finish?",
-    "visual": "On the class calendar: A timeline beginning at 9:00 and extending 15 minutes.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"On the class calendar: A timeline beginning at 9:00 and extending 15 minutes.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3m03.svg#ac9m3m03-p-004\"></use></svg>",
+    "question": "Which duration is the same as 120 seconds?",
+    "audioPrompt": "Which duration is the same as 120 seconds?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3m03.svg#ac9m3m03-p-004",
-      "alt_text": "On the class calendar: A timeline beginning at 9:00 and extending 15 minutes."
+      "type": "none"
     },
     "answers": [
-      "9:10",
-      "10:15",
-      "9:15"
+      "1 hour",
+      "12 minutes",
+      "20 minutes",
+      "2 minutes"
     ],
-    "correct": 2,
-    "explanation": "Counting 15 minutes from 9:00 gives 9:15.\nHint: Move forward in minutes from the start time.",
+    "difficulty": 1,
+    "correct": 3,
+    "explanation": "120 seconds is 2 groups of 60 seconds.\nHint: Divide seconds by 60.",
     "structuredExplanation": {
-      "summary": "Counting 15 minutes from 9:00 gives 9:15.",
-      "hint": "Move forward in minutes from the start time."
+      "summary": "120 seconds is 2 groups of 60 seconds.",
+      "hint": "Divide seconds by 60."
     },
     "qualitySchema": "production-v1"
   },
@@ -120,28 +120,28 @@ window.skillrPracticeQuestions = [
     "id": "ac9m3m03-p-005",
     "curriculumCode": "AC9M3M03",
     "bank": "practice",
-    "skill": "time units duration",
+    "skill": "compare durations",
     "printable": true,
     "type": "single",
-    "question": "On the class calendar, how many days are in 1 weeks?",
-    "audioPrompt": "On the class calendar, how many days are in 1 weeks?",
-    "visual": "On the class calendar: A calendar conversion from weeks to days.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"On the class calendar: A calendar conversion from weeks to days.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3m03.svg#ac9m3m03-p-005\"></use></svg>",
+    "question": "Which is longer: 90 minutes or 2 hours?",
+    "audioPrompt": "Which is longer: 90 minutes or 2 hours?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3m03.svg#ac9m3m03-p-005",
-      "alt_text": "On the class calendar: A calendar conversion from weeks to days."
+      "type": "none"
     },
     "answers": [
-      "7",
-      "5",
-      "10"
+      "2 hours",
+      "90 minutes",
+      "they are equal",
+      "90 seconds"
     ],
+    "difficulty": 1,
     "correct": 0,
-    "explanation": "1×7=7 days.\nHint: Each week has 7 days.",
+    "explanation": "2 hours is 120 minutes, which is longer than 90 minutes.\nHint: Change both to minutes.",
     "structuredExplanation": {
-      "summary": "1×7=7 days.",
-      "hint": "Each week has 7 days."
+      "summary": "2 hours is 120 minutes, which is longer than 90 minutes.",
+      "hint": "Change both to minutes."
     },
     "qualitySchema": "production-v1"
   },
@@ -149,28 +149,28 @@ window.skillrPracticeQuestions = [
     "id": "ac9m3m03-p-006",
     "curriculumCode": "AC9M3M03",
     "bank": "practice",
-    "skill": "time units duration",
+    "skill": "compare durations",
     "printable": true,
     "type": "single",
-    "question": "On the class calendar, which unit best describes the duration of brushing teeth?",
-    "audioPrompt": "On the class calendar, which unit best describes the duration of brushing teeth?",
-    "visual": "On the class calendar: A short everyday event beside time-unit choices.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"On the class calendar: A short everyday event beside time-unit choices.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3m03.svg#ac9m3m03-p-006\"></use></svg>",
+    "question": "Which is shortest?",
+    "audioPrompt": "Which is shortest?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3m03.svg#ac9m3m03-p-006",
-      "alt_text": "On the class calendar: A short everyday event beside time-unit choices."
+      "type": "none"
     },
     "answers": [
-      "weeks",
-      "minutes",
-      "years"
+      "1 minute",
+      "45 seconds",
+      "2 minutes",
+      "90 seconds"
     ],
+    "difficulty": 1,
     "correct": 1,
-    "explanation": "Brushing teeth usually lasts a small number of minutes.\nHint: Choose a unit matching the event's duration.",
+    "explanation": "45 seconds is less than 60 seconds, so it is shorter than 1 minute.\nHint: Compare using seconds.",
     "structuredExplanation": {
-      "summary": "Brushing teeth usually lasts a small number of minutes.",
-      "hint": "Choose a unit matching the event's duration."
+      "summary": "45 seconds is less than 60 seconds, so it is shorter than 1 minute.",
+      "hint": "Compare using seconds."
     },
     "qualitySchema": "production-v1"
   },
@@ -178,28 +178,28 @@ window.skillrPracticeQuestions = [
     "id": "ac9m3m03-p-007",
     "curriculumCode": "AC9M3M03",
     "bank": "practice",
-    "skill": "time units duration",
+    "skill": "compare durations",
     "printable": true,
     "type": "single",
-    "question": "On the class calendar, a student says 1 hour equals 100 minutes. What should replace 100?",
-    "audioPrompt": "On the class calendar, a student says 1 hour equals 100 minutes. What should replace 100?",
-    "visual": "On the class calendar: A correct hour-to-minute relationship.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"On the class calendar: A correct hour-to-minute relationship.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3m03.svg#ac9m3m03-p-007\"></use></svg>",
+    "question": "Which is the same as 1 day?",
+    "audioPrompt": "Which is the same as 1 day?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3m03.svg#ac9m3m03-p-007",
-      "alt_text": "On the class calendar: A correct hour-to-minute relationship."
+      "type": "none"
     },
     "answers": [
-      "10",
-      "24",
-      "60"
+      "12 hours",
+      "60 hours",
+      "24 hours",
+      "100 hours"
     ],
+    "difficulty": 1,
     "correct": 2,
-    "explanation": "Clock time uses 60 minutes per hour, not base ten.\nHint: Recall the minute marks around a clock.",
+    "explanation": "One day has 24 hours.\nHint: Recall the hours in a day.",
     "structuredExplanation": {
-      "summary": "Clock time uses 60 minutes per hour, not base ten.",
-      "hint": "Recall the minute marks around a clock."
+      "summary": "One day has 24 hours.",
+      "hint": "Recall the hours in a day."
     },
     "qualitySchema": "production-v1"
   },
@@ -207,28 +207,28 @@ window.skillrPracticeQuestions = [
     "id": "ac9m3m03-p-008",
     "curriculumCode": "AC9M3M03",
     "bank": "practice",
-    "skill": "time units duration",
+    "skill": "compare durations",
     "printable": true,
     "type": "single",
-    "question": "On the class calendar, why convert two durations to the same unit before comparing?",
-    "audioPrompt": "On the class calendar, why convert two durations to the same unit before comparing?",
-    "visual": "On the class calendar: Two durations being converted to a common unit.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"On the class calendar: Two durations being converted to a common unit.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3m03.svg#ac9m3m03-p-008\"></use></svg>",
+    "question": "A movie lasts 95 minutes and a lesson lasts 1 hour. Which lasts longer?",
+    "audioPrompt": "A movie lasts 95 minutes and a lesson lasts 1 hour. Which lasts longer?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3m03.svg#ac9m3m03-p-008",
-      "alt_text": "On the class calendar: Two durations being converted to a common unit."
+      "type": "none"
     },
     "answers": [
-      "So the numbers describe equal-sized units",
-      "So both numbers become equal",
-      "So the events last longer"
+      "the lesson",
+      "they are equal",
+      "the lesson by 35 minutes",
+      "the movie"
     ],
-    "correct": 0,
-    "explanation": "A fair comparison uses the same unit.\nHint: Convert hours to minutes or minutes to hours first.",
+    "difficulty": 1,
+    "correct": 3,
+    "explanation": "1 hour is 60 minutes, so 95 minutes is longer.\nHint: Convert the hour to minutes.",
     "structuredExplanation": {
-      "summary": "A fair comparison uses the same unit.",
-      "hint": "Convert hours to minutes or minutes to hours first."
+      "summary": "1 hour is 60 minutes, so 95 minutes is longer.",
+      "hint": "Convert the hour to minutes."
     },
     "qualitySchema": "production-v1"
   },
@@ -236,28 +236,28 @@ window.skillrPracticeQuestions = [
     "id": "ac9m3m03-p-009",
     "curriculumCode": "AC9M3M03",
     "bank": "practice",
-    "skill": "time units duration",
+    "skill": "estimate duration",
     "printable": true,
     "type": "single",
-    "question": "For library week, how many minutes are in 2 hours?",
-    "audioPrompt": "For library week, how many minutes are in 2 hours?",
-    "visual": "For library week: A time-unit conversion from 2 hours to minutes.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"For library week: A time-unit conversion from 2 hours to minutes.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3m03.svg#ac9m3m03-p-009\"></use></svg>",
+    "question": "Which is the best estimate for brushing your teeth?",
+    "audioPrompt": "Which is the best estimate for brushing your teeth?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3m03.svg#ac9m3m03-p-009",
-      "alt_text": "For library week: A time-unit conversion from 2 hours to minutes."
+      "type": "none"
     },
     "answers": [
-      "200",
-      "120",
-      "60"
+      "2 minutes",
+      "2 seconds",
+      "2 days",
+      "2 hours"
     ],
-    "correct": 1,
-    "explanation": "2×60=120 minutes.\nHint: Each hour contains 60 minutes.",
+    "difficulty": 1,
+    "correct": 0,
+    "explanation": "Brushing teeth usually takes a few minutes.\nHint: Pick a sensible time unit.",
     "structuredExplanation": {
-      "summary": "2×60=120 minutes.",
-      "hint": "Each hour contains 60 minutes."
+      "summary": "Brushing teeth usually takes a few minutes.",
+      "hint": "Pick a sensible time unit."
     },
     "qualitySchema": "production-v1"
   },
@@ -265,28 +265,28 @@ window.skillrPracticeQuestions = [
     "id": "ac9m3m03-p-010",
     "curriculumCode": "AC9M3M03",
     "bank": "practice",
-    "skill": "time units duration",
+    "skill": "estimate duration",
     "printable": true,
     "type": "single",
-    "question": "For library week, how many seconds are in 20 minutes?",
-    "audioPrompt": "For library week, how many seconds are in 20 minutes?",
-    "visual": "For library week: A time-unit conversion from 20 minutes to seconds.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"For library week: A time-unit conversion from 20 minutes to seconds.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3m03.svg#ac9m3m03-p-010\"></use></svg>",
+    "question": "Which is the best estimate for blinking once?",
+    "audioPrompt": "Which is the best estimate for blinking once?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3m03.svg#ac9m3m03-p-010",
-      "alt_text": "For library week: A time-unit conversion from 20 minutes to seconds."
+      "type": "none"
     },
     "answers": [
-      "2000",
-      "80",
-      "1200"
+      "5 minutes",
+      "less than 1 second",
+      "2 hours",
+      "1 day"
     ],
-    "correct": 2,
-    "explanation": "20×60=1200 seconds.\nHint: Each minute contains 60 seconds.",
+    "difficulty": 1,
+    "correct": 1,
+    "explanation": "A blink is very quick, so it takes less than a second.\nHint: Very quick events use seconds.",
     "structuredExplanation": {
-      "summary": "20×60=1200 seconds.",
-      "hint": "Each minute contains 60 seconds."
+      "summary": "A blink is very quick, so it takes less than a second.",
+      "hint": "Very quick events use seconds."
     },
     "qualitySchema": "production-v1"
   },
@@ -294,28 +294,28 @@ window.skillrPracticeQuestions = [
     "id": "ac9m3m03-p-011",
     "curriculumCode": "AC9M3M03",
     "bank": "practice",
-    "skill": "time units duration",
+    "skill": "estimate duration",
     "printable": true,
     "type": "single",
-    "question": "For library week, which duration is longer: 2 hours or 110 minutes?",
-    "audioPrompt": "For library week, which duration is longer: 2 hours or 110 minutes?",
-    "visual": "For library week: Two durations in different units ready to compare.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"For library week: Two durations in different units ready to compare.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3m03.svg#ac9m3m03-p-011\"></use></svg>",
+    "question": "Which is the best estimate for a school lunch break?",
+    "audioPrompt": "Which is the best estimate for a school lunch break?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3m03.svg#ac9m3m03-p-011",
-      "alt_text": "For library week: Two durations in different units ready to compare."
+      "type": "none"
     },
     "answers": [
-      "2 hours",
-      "110 minutes",
-      "They are equal"
+      "40 seconds",
+      "40 days",
+      "40 minutes",
+      "40 hours"
     ],
-    "correct": 0,
-    "explanation": "2 hours is 120 minutes, which is 10 minutes longer.\nHint: Convert to the same unit before comparing.",
+    "difficulty": 1,
+    "correct": 2,
+    "explanation": "A lunch break usually lasts many minutes, not seconds, hours or days.\nHint: Use everyday experience.",
     "structuredExplanation": {
-      "summary": "2 hours is 120 minutes, which is 10 minutes longer.",
-      "hint": "Convert to the same unit before comparing."
+      "summary": "A lunch break usually lasts many minutes, not seconds, hours or days.",
+      "hint": "Use everyday experience."
     },
     "qualitySchema": "production-v1"
   },
@@ -323,28 +323,28 @@ window.skillrPracticeQuestions = [
     "id": "ac9m3m03-p-012",
     "curriculumCode": "AC9M3M03",
     "bank": "practice",
-    "skill": "time units duration",
+    "skill": "estimate duration",
     "printable": true,
     "type": "single",
-    "question": "For library week, a lesson starts at 9:00 and lasts 20 minutes. When does it finish?",
-    "audioPrompt": "For library week, a lesson starts at 9:00 and lasts 20 minutes. When does it finish?",
-    "visual": "For library week: A timeline beginning at 9:00 and extending 20 minutes.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"For library week: A timeline beginning at 9:00 and extending 20 minutes.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3m03.svg#ac9m3m03-p-012\"></use></svg>",
+    "question": "Which is the best estimate for a weekend?",
+    "audioPrompt": "Which is the best estimate for a weekend?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3m03.svg#ac9m3m03-p-012",
-      "alt_text": "For library week: A timeline beginning at 9:00 and extending 20 minutes."
+      "type": "none"
     },
     "answers": [
-      "9:15",
-      "9:20",
-      "10:20"
+      "2 seconds",
+      "2 minutes",
+      "2 hours",
+      "2 days"
     ],
-    "correct": 1,
-    "explanation": "Counting 20 minutes from 9:00 gives 9:20.\nHint: Move forward in minutes from the start time.",
+    "difficulty": 1,
+    "correct": 3,
+    "explanation": "A weekend lasts Saturday and Sunday, which is 2 days.\nHint: Long events often use days.",
     "structuredExplanation": {
-      "summary": "Counting 20 minutes from 9:00 gives 9:20.",
-      "hint": "Move forward in minutes from the start time."
+      "summary": "A weekend lasts Saturday and Sunday, which is 2 days.",
+      "hint": "Long events often use days."
     },
     "qualitySchema": "production-v1"
   },
@@ -352,28 +352,28 @@ window.skillrPracticeQuestions = [
     "id": "ac9m3m03-p-013",
     "curriculumCode": "AC9M3M03",
     "bank": "practice",
-    "skill": "time units duration",
+    "skill": "elapsed time",
     "printable": true,
     "type": "single",
-    "question": "For library week, how many days are in 2 weeks?",
-    "audioPrompt": "For library week, how many days are in 2 weeks?",
-    "visual": "For library week: A calendar conversion from weeks to days.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"For library week: A calendar conversion from weeks to days.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3m03.svg#ac9m3m03-p-013\"></use></svg>",
+    "question": "A reading session starts at 9:10 and ends at 9:35. How long is it?",
+    "audioPrompt": "A reading session starts at 9:10 and ends at 9:35. How long is it?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3m03.svg#ac9m3m03-p-013",
-      "alt_text": "For library week: A calendar conversion from weeks to days."
+      "type": "none"
     },
     "answers": [
-      "10",
-      "20",
-      "14"
+      "25 minutes",
+      "15 minutes",
+      "35 minutes",
+      "45 minutes"
     ],
-    "correct": 2,
-    "explanation": "2×7=14 days.\nHint: Each week has 7 days.",
+    "difficulty": 1,
+    "correct": 0,
+    "explanation": "From 9:10 to 9:35 is 25 minutes.\nHint: Count forward on the clock.",
     "structuredExplanation": {
-      "summary": "2×7=14 days.",
-      "hint": "Each week has 7 days."
+      "summary": "From 9:10 to 9:35 is 25 minutes.",
+      "hint": "Count forward on the clock."
     },
     "qualitySchema": "production-v1"
   },
@@ -381,28 +381,28 @@ window.skillrPracticeQuestions = [
     "id": "ac9m3m03-p-014",
     "curriculumCode": "AC9M3M03",
     "bank": "practice",
-    "skill": "time units duration",
+    "skill": "elapsed time",
     "printable": true,
     "type": "single",
-    "question": "For library week, which unit best describes the duration of brushing teeth?",
-    "audioPrompt": "For library week, which unit best describes the duration of brushing teeth?",
-    "visual": "For library week: A short everyday event beside time-unit choices.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"For library week: A short everyday event beside time-unit choices.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3m03.svg#ac9m3m03-p-014\"></use></svg>",
+    "question": "A game starts at 2:00 and finishes at 3:30. How long is it?",
+    "audioPrompt": "A game starts at 2:00 and finishes at 3:30. How long is it?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3m03.svg#ac9m3m03-p-014",
-      "alt_text": "For library week: A short everyday event beside time-unit choices."
+      "type": "none"
     },
     "answers": [
-      "minutes",
-      "weeks",
-      "years"
+      "30 minutes",
+      "1 hour 30 minutes",
+      "2 hours",
+      "3 hours 30 minutes"
     ],
-    "correct": 0,
-    "explanation": "Brushing teeth usually lasts a small number of minutes.\nHint: Choose a unit matching the event's duration.",
+    "difficulty": 1,
+    "correct": 1,
+    "explanation": "From 2:00 to 3:00 is 1 hour, then 30 more minutes.\nHint: Break the time into hours and minutes.",
     "structuredExplanation": {
-      "summary": "Brushing teeth usually lasts a small number of minutes.",
-      "hint": "Choose a unit matching the event's duration."
+      "summary": "From 2:00 to 3:00 is 1 hour, then 30 more minutes.",
+      "hint": "Break the time into hours and minutes."
     },
     "qualitySchema": "production-v1"
   },
@@ -410,28 +410,28 @@ window.skillrPracticeQuestions = [
     "id": "ac9m3m03-p-015",
     "curriculumCode": "AC9M3M03",
     "bank": "practice",
-    "skill": "time units duration",
+    "skill": "elapsed time",
     "printable": true,
     "type": "single",
-    "question": "For library week, a student says 1 hour equals 100 minutes. What should replace 100?",
-    "audioPrompt": "For library week, a student says 1 hour equals 100 minutes. What should replace 100?",
-    "visual": "For library week: A correct hour-to-minute relationship.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"For library week: A correct hour-to-minute relationship.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3m03.svg#ac9m3m03-p-015\"></use></svg>",
+    "question": "A cake bakes for 45 minutes from 10:20. What time does it finish?",
+    "audioPrompt": "A cake bakes for 45 minutes from 10:20. What time does it finish?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3m03.svg#ac9m3m03-p-015",
-      "alt_text": "For library week: A correct hour-to-minute relationship."
+      "type": "none"
     },
     "answers": [
-      "10",
-      "60",
-      "24"
+      "10:45",
+      "11:20",
+      "11:05",
+      "12:05"
     ],
-    "correct": 1,
-    "explanation": "Clock time uses 60 minutes per hour, not base ten.\nHint: Recall the minute marks around a clock.",
+    "difficulty": 1,
+    "correct": 2,
+    "explanation": "40 minutes after 10:20 is 11:00, then 5 more minutes is 11:05.\nHint: Count forward carefully.",
     "structuredExplanation": {
-      "summary": "Clock time uses 60 minutes per hour, not base ten.",
-      "hint": "Recall the minute marks around a clock."
+      "summary": "40 minutes after 10:20 is 11:00, then 5 more minutes is 11:05.",
+      "hint": "Count forward carefully."
     },
     "qualitySchema": "production-v1"
   },
@@ -439,28 +439,28 @@ window.skillrPracticeQuestions = [
     "id": "ac9m3m03-p-016",
     "curriculumCode": "AC9M3M03",
     "bank": "practice",
-    "skill": "time units duration",
+    "skill": "elapsed time",
     "printable": true,
     "type": "single",
-    "question": "For library week, why convert two durations to the same unit before comparing?",
-    "audioPrompt": "For library week, why convert two durations to the same unit before comparing?",
-    "visual": "For library week: Two durations being converted to a common unit.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"For library week: Two durations being converted to a common unit.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3m03.svg#ac9m3m03-p-016\"></use></svg>",
+    "question": "A bus trip takes 1 hour 15 minutes. If it starts at 7:30, when does it end?",
+    "audioPrompt": "A bus trip takes 1 hour 15 minutes. If it starts at 7:30, when does it end?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3m03.svg#ac9m3m03-p-016",
-      "alt_text": "For library week: Two durations being converted to a common unit."
+      "type": "none"
     },
     "answers": [
-      "So both numbers become equal",
-      "So the events last longer",
-      "So the numbers describe equal-sized units"
+      "8:15",
+      "7:45",
+      "9:30",
+      "8:45"
     ],
-    "correct": 2,
-    "explanation": "A fair comparison uses the same unit.\nHint: Convert hours to minutes or minutes to hours first.",
+    "difficulty": 1,
+    "correct": 3,
+    "explanation": "One hour after 7:30 is 8:30, then 15 more minutes is 8:45.\nHint: Add the hour first, then the minutes.",
     "structuredExplanation": {
-      "summary": "A fair comparison uses the same unit.",
-      "hint": "Convert hours to minutes or minutes to hours first."
+      "summary": "One hour after 7:30 is 8:30, then 15 more minutes is 8:45.",
+      "hint": "Add the hour first, then the minutes."
     },
     "qualitySchema": "production-v1"
   },
@@ -468,28 +468,28 @@ window.skillrPracticeQuestions = [
     "id": "ac9m3m03-p-017",
     "curriculumCode": "AC9M3M03",
     "bank": "practice",
-    "skill": "time units duration",
+    "skill": "convert time units",
     "printable": true,
     "type": "single",
-    "question": "Before the school visit, how many minutes are in 3 hours?",
-    "audioPrompt": "Before the school visit, how many minutes are in 3 hours?",
-    "visual": "Before the school visit: A time-unit conversion from 3 hours to minutes.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Before the school visit: A time-unit conversion from 3 hours to minutes.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3m03.svg#ac9m3m03-p-017\"></use></svg>",
+    "question": "During maths group, work out how many seconds are in 3 minutes? using the benchmark.",
+    "audioPrompt": "During maths group, work out how many seconds are in 3 minutes? using the benchmark.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3m03.svg#ac9m3m03-p-017",
-      "alt_text": "Before the school visit: A time-unit conversion from 3 hours to minutes."
+      "type": "none"
     },
     "answers": [
-      "180",
-      "300",
-      "90"
+      "180 seconds",
+      "90 seconds",
+      "120 seconds",
+      "300 seconds"
     ],
+    "difficulty": 2,
     "correct": 0,
-    "explanation": "3×60=180 minutes.\nHint: Each hour contains 60 minutes.",
+    "explanation": "Each minute has 60 seconds, so 3 minutes is 180 seconds.\nHint: Multiply minutes by 60.",
     "structuredExplanation": {
-      "summary": "3×60=180 minutes.",
-      "hint": "Each hour contains 60 minutes."
+      "summary": "Each minute has 60 seconds, so 3 minutes is 180 seconds.",
+      "hint": "Multiply minutes by 60."
     },
     "qualitySchema": "production-v1"
   },
@@ -497,28 +497,28 @@ window.skillrPracticeQuestions = [
     "id": "ac9m3m03-p-018",
     "curriculumCode": "AC9M3M03",
     "bank": "practice",
-    "skill": "time units duration",
+    "skill": "convert time units",
     "printable": true,
     "type": "single",
-    "question": "Before the school visit, how many seconds are in 25 minutes?",
-    "audioPrompt": "Before the school visit, how many seconds are in 25 minutes?",
-    "visual": "Before the school visit: A time-unit conversion from 25 minutes to seconds.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Before the school visit: A time-unit conversion from 25 minutes to seconds.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3m03.svg#ac9m3m03-p-018\"></use></svg>",
+    "question": "During maths group, work out how many minutes are in 4 hours? with a partner.",
+    "audioPrompt": "During maths group, work out how many minutes are in 4 hours? with a partner.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3m03.svg#ac9m3m03-p-018",
-      "alt_text": "Before the school visit: A time-unit conversion from 25 minutes to seconds."
+      "type": "none"
     },
     "answers": [
-      "2500",
-      "1500",
-      "85"
+      "120 minutes",
+      "240 minutes",
+      "180 minutes",
+      "400 minutes"
     ],
+    "difficulty": 2,
     "correct": 1,
-    "explanation": "25×60=1500 seconds.\nHint: Each minute contains 60 seconds.",
+    "explanation": "Each hour has 60 minutes, so 4 hours is 240 minutes.\nHint: Multiply hours by 60.",
     "structuredExplanation": {
-      "summary": "25×60=1500 seconds.",
-      "hint": "Each minute contains 60 seconds."
+      "summary": "Each hour has 60 minutes, so 4 hours is 240 minutes.",
+      "hint": "Multiply hours by 60."
     },
     "qualitySchema": "production-v1"
   },
@@ -526,28 +526,28 @@ window.skillrPracticeQuestions = [
     "id": "ac9m3m03-p-019",
     "curriculumCode": "AC9M3M03",
     "bank": "practice",
-    "skill": "time units duration",
+    "skill": "convert time units",
     "printable": true,
     "type": "single",
-    "question": "Before the school visit, which duration is longer: 3 hours or 170 minutes?",
-    "audioPrompt": "Before the school visit, which duration is longer: 3 hours or 170 minutes?",
-    "visual": "Before the school visit: Two durations in different units ready to compare.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Before the school visit: Two durations in different units ready to compare.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3m03.svg#ac9m3m03-p-019\"></use></svg>",
+    "question": "During maths group, work out how many hours are in 2 days? from the labelled information.",
+    "audioPrompt": "During maths group, work out how many hours are in 2 days? from the labelled information.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3m03.svg#ac9m3m03-p-019",
-      "alt_text": "Before the school visit: Two durations in different units ready to compare."
+      "type": "none"
     },
     "answers": [
-      "170 minutes",
-      "They are equal",
-      "3 hours"
+      "24 hours",
+      "36 hours",
+      "48 hours",
+      "60 hours"
     ],
+    "difficulty": 2,
     "correct": 2,
-    "explanation": "3 hours is 180 minutes, which is 10 minutes longer.\nHint: Convert to the same unit before comparing.",
+    "explanation": "Each day has 24 hours, so 2 days is 48 hours.\nHint: Multiply days by 24.",
     "structuredExplanation": {
-      "summary": "3 hours is 180 minutes, which is 10 minutes longer.",
-      "hint": "Convert to the same unit before comparing."
+      "summary": "Each day has 24 hours, so 2 days is 48 hours.",
+      "hint": "Multiply days by 24."
     },
     "qualitySchema": "production-v1"
   },
@@ -555,28 +555,28 @@ window.skillrPracticeQuestions = [
     "id": "ac9m3m03-p-020",
     "curriculumCode": "AC9M3M03",
     "bank": "practice",
-    "skill": "time units duration",
+    "skill": "convert time units",
     "printable": true,
     "type": "single",
-    "question": "Before the school visit, a lesson starts at 9:00 and lasts 25 minutes. When does it finish?",
-    "audioPrompt": "Before the school visit, a lesson starts at 9:00 and lasts 25 minutes. When does it finish?",
-    "visual": "Before the school visit: A timeline beginning at 9:00 and extending 25 minutes.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Before the school visit: A timeline beginning at 9:00 and extending 25 minutes.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3m03.svg#ac9m3m03-p-020\"></use></svg>",
+    "question": "During maths group, which duration is the same as 120 seconds? before measuring.",
+    "audioPrompt": "During maths group, which duration is the same as 120 seconds? before measuring.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3m03.svg#ac9m3m03-p-020",
-      "alt_text": "Before the school visit: A timeline beginning at 9:00 and extending 25 minutes."
+      "type": "none"
     },
     "answers": [
-      "9:25",
-      "9:20",
-      "10:25"
+      "1 hour",
+      "12 minutes",
+      "20 minutes",
+      "2 minutes"
     ],
-    "correct": 0,
-    "explanation": "Counting 25 minutes from 9:00 gives 9:25.\nHint: Move forward in minutes from the start time.",
+    "difficulty": 2,
+    "correct": 3,
+    "explanation": "120 seconds is 2 groups of 60 seconds.\nHint: Divide seconds by 60.",
     "structuredExplanation": {
-      "summary": "Counting 25 minutes from 9:00 gives 9:25.",
-      "hint": "Move forward in minutes from the start time."
+      "summary": "120 seconds is 2 groups of 60 seconds.",
+      "hint": "Divide seconds by 60."
     },
     "qualitySchema": "production-v1"
   },
@@ -584,28 +584,28 @@ window.skillrPracticeQuestions = [
     "id": "ac9m3m03-p-021",
     "curriculumCode": "AC9M3M03",
     "bank": "practice",
-    "skill": "time units duration",
+    "skill": "compare durations",
     "printable": true,
     "type": "single",
-    "question": "Before the school visit, how many days are in 3 weeks?",
-    "audioPrompt": "Before the school visit, how many days are in 3 weeks?",
-    "visual": "Before the school visit: A calendar conversion from weeks to days.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Before the school visit: A calendar conversion from weeks to days.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3m03.svg#ac9m3m03-p-021\"></use></svg>",
+    "question": "During maths group, choose longer: 90 minutes or 2 hours? using the benchmark.",
+    "audioPrompt": "During maths group, choose longer: 90 minutes or 2 hours? using the benchmark.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3m03.svg#ac9m3m03-p-021",
-      "alt_text": "Before the school visit: A calendar conversion from weeks to days."
+      "type": "none"
     },
     "answers": [
-      "15",
-      "21",
-      "30"
+      "2 hours",
+      "90 minutes",
+      "they are equal",
+      "90 seconds"
     ],
-    "correct": 1,
-    "explanation": "3×7=21 days.\nHint: Each week has 7 days.",
+    "difficulty": 2,
+    "correct": 0,
+    "explanation": "2 hours is 120 minutes, which is longer than 90 minutes.\nHint: Change both to minutes.",
     "structuredExplanation": {
-      "summary": "3×7=21 days.",
-      "hint": "Each week has 7 days."
+      "summary": "2 hours is 120 minutes, which is longer than 90 minutes.",
+      "hint": "Change both to minutes."
     },
     "qualitySchema": "production-v1"
   },
@@ -613,28 +613,28 @@ window.skillrPracticeQuestions = [
     "id": "ac9m3m03-p-022",
     "curriculumCode": "AC9M3M03",
     "bank": "practice",
-    "skill": "time units duration",
+    "skill": "compare durations",
     "printable": true,
     "type": "single",
-    "question": "Before the school visit, which unit best describes the duration of brushing teeth?",
-    "audioPrompt": "Before the school visit, which unit best describes the duration of brushing teeth?",
-    "visual": "Before the school visit: A short everyday event beside time-unit choices.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Before the school visit: A short everyday event beside time-unit choices.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3m03.svg#ac9m3m03-p-022\"></use></svg>",
+    "question": "During maths group, choose shortest? with a partner.",
+    "audioPrompt": "During maths group, choose shortest? with a partner.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3m03.svg#ac9m3m03-p-022",
-      "alt_text": "Before the school visit: A short everyday event beside time-unit choices."
+      "type": "none"
     },
     "answers": [
-      "weeks",
-      "years",
-      "minutes"
+      "1 minute",
+      "45 seconds",
+      "2 minutes",
+      "90 seconds"
     ],
-    "correct": 2,
-    "explanation": "Brushing teeth usually lasts a small number of minutes.\nHint: Choose a unit matching the event's duration.",
+    "difficulty": 2,
+    "correct": 1,
+    "explanation": "45 seconds is less than 60 seconds, so it is shorter than 1 minute.\nHint: Compare using seconds.",
     "structuredExplanation": {
-      "summary": "Brushing teeth usually lasts a small number of minutes.",
-      "hint": "Choose a unit matching the event's duration."
+      "summary": "45 seconds is less than 60 seconds, so it is shorter than 1 minute.",
+      "hint": "Compare using seconds."
     },
     "qualitySchema": "production-v1"
   },
@@ -642,28 +642,28 @@ window.skillrPracticeQuestions = [
     "id": "ac9m3m03-p-023",
     "curriculumCode": "AC9M3M03",
     "bank": "practice",
-    "skill": "time units duration",
+    "skill": "compare durations",
     "printable": true,
     "type": "single",
-    "question": "Before the school visit, a student says 1 hour equals 100 minutes. What should replace 100?",
-    "audioPrompt": "Before the school visit, a student says 1 hour equals 100 minutes. What should replace 100?",
-    "visual": "Before the school visit: A correct hour-to-minute relationship.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Before the school visit: A correct hour-to-minute relationship.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3m03.svg#ac9m3m03-p-023\"></use></svg>",
+    "question": "During maths group, choose the same as 1 day? from the labelled information.",
+    "audioPrompt": "During maths group, choose the same as 1 day? from the labelled information.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3m03.svg#ac9m3m03-p-023",
-      "alt_text": "Before the school visit: A correct hour-to-minute relationship."
+      "type": "none"
     },
     "answers": [
-      "60",
-      "10",
-      "24"
+      "12 hours",
+      "60 hours",
+      "24 hours",
+      "100 hours"
     ],
-    "correct": 0,
-    "explanation": "Clock time uses 60 minutes per hour, not base ten.\nHint: Recall the minute marks around a clock.",
+    "difficulty": 2,
+    "correct": 2,
+    "explanation": "One day has 24 hours.\nHint: Recall the hours in a day.",
     "structuredExplanation": {
-      "summary": "Clock time uses 60 minutes per hour, not base ten.",
-      "hint": "Recall the minute marks around a clock."
+      "summary": "One day has 24 hours.",
+      "hint": "Recall the hours in a day."
     },
     "qualitySchema": "production-v1"
   },
@@ -671,28 +671,724 @@ window.skillrPracticeQuestions = [
     "id": "ac9m3m03-p-024",
     "curriculumCode": "AC9M3M03",
     "bank": "practice",
-    "skill": "time units duration",
+    "skill": "compare durations",
     "printable": true,
     "type": "single",
-    "question": "Before the school visit, why convert two durations to the same unit before comparing?",
-    "audioPrompt": "Before the school visit, why convert two durations to the same unit before comparing?",
-    "visual": "Before the school visit: Two durations being converted to a common unit.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Before the school visit: Two durations being converted to a common unit.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3m03.svg#ac9m3m03-p-024\"></use></svg>",
+    "question": "During maths group, a movie lasts 95 minutes and a lesson lasts 1 hour. Which lasts longer? before measuring.",
+    "audioPrompt": "During maths group, a movie lasts 95 minutes and a lesson lasts 1 hour. Which lasts longer? before measuring.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3m03.svg#ac9m3m03-p-024",
-      "alt_text": "Before the school visit: Two durations being converted to a common unit."
+      "type": "none"
     },
     "answers": [
-      "So both numbers become equal",
-      "So the numbers describe equal-sized units",
-      "So the events last longer"
+      "the lesson",
+      "they are equal",
+      "the lesson by 35 minutes",
+      "the movie"
     ],
-    "correct": 1,
-    "explanation": "A fair comparison uses the same unit.\nHint: Convert hours to minutes or minutes to hours first.",
+    "difficulty": 2,
+    "correct": 3,
+    "explanation": "1 hour is 60 minutes, so 95 minutes is longer.\nHint: Convert the hour to minutes.",
     "structuredExplanation": {
-      "summary": "A fair comparison uses the same unit.",
-      "hint": "Convert hours to minutes or minutes to hours first."
+      "summary": "1 hour is 60 minutes, so 95 minutes is longer.",
+      "hint": "Convert the hour to minutes."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m3m03-p-025",
+    "curriculumCode": "AC9M3M03",
+    "bank": "practice",
+    "skill": "estimate duration",
+    "printable": true,
+    "type": "single",
+    "question": "During maths group, choose the best estimate for brushing your teeth? using the benchmark.",
+    "audioPrompt": "During maths group, choose the best estimate for brushing your teeth? using the benchmark.",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none"
+    },
+    "answers": [
+      "2 minutes",
+      "2 seconds",
+      "2 days",
+      "2 hours"
+    ],
+    "difficulty": 2,
+    "correct": 0,
+    "explanation": "Brushing teeth usually takes a few minutes.\nHint: Pick a sensible time unit.",
+    "structuredExplanation": {
+      "summary": "Brushing teeth usually takes a few minutes.",
+      "hint": "Pick a sensible time unit."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m3m03-p-026",
+    "curriculumCode": "AC9M3M03",
+    "bank": "practice",
+    "skill": "estimate duration",
+    "printable": true,
+    "type": "single",
+    "question": "During maths group, choose the best estimate for blinking once? with a partner.",
+    "audioPrompt": "During maths group, choose the best estimate for blinking once? with a partner.",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none"
+    },
+    "answers": [
+      "5 minutes",
+      "less than 1 second",
+      "2 hours",
+      "1 day"
+    ],
+    "difficulty": 2,
+    "correct": 1,
+    "explanation": "A blink is very quick, so it takes less than a second.\nHint: Very quick events use seconds.",
+    "structuredExplanation": {
+      "summary": "A blink is very quick, so it takes less than a second.",
+      "hint": "Very quick events use seconds."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m3m03-p-027",
+    "curriculumCode": "AC9M3M03",
+    "bank": "practice",
+    "skill": "estimate duration",
+    "printable": true,
+    "type": "single",
+    "question": "During maths group, choose the best estimate for a school lunch break? from the labelled information.",
+    "audioPrompt": "During maths group, choose the best estimate for a school lunch break? from the labelled information.",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none"
+    },
+    "answers": [
+      "40 seconds",
+      "40 days",
+      "40 minutes",
+      "40 hours"
+    ],
+    "difficulty": 2,
+    "correct": 2,
+    "explanation": "A lunch break usually lasts many minutes, not seconds, hours or days.\nHint: Use everyday experience.",
+    "structuredExplanation": {
+      "summary": "A lunch break usually lasts many minutes, not seconds, hours or days.",
+      "hint": "Use everyday experience."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m3m03-p-028",
+    "curriculumCode": "AC9M3M03",
+    "bank": "practice",
+    "skill": "estimate duration",
+    "printable": true,
+    "type": "single",
+    "question": "During maths group, choose the best estimate for a weekend? before measuring.",
+    "audioPrompt": "During maths group, choose the best estimate for a weekend? before measuring.",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none"
+    },
+    "answers": [
+      "2 seconds",
+      "2 minutes",
+      "2 hours",
+      "2 days"
+    ],
+    "difficulty": 2,
+    "correct": 3,
+    "explanation": "A weekend lasts Saturday and Sunday, which is 2 days.\nHint: Long events often use days.",
+    "structuredExplanation": {
+      "summary": "A weekend lasts Saturday and Sunday, which is 2 days.",
+      "hint": "Long events often use days."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m3m03-p-029",
+    "curriculumCode": "AC9M3M03",
+    "bank": "practice",
+    "skill": "elapsed time",
+    "printable": true,
+    "type": "single",
+    "question": "During maths group, a reading session starts at 9:10 and ends at 9:35. How long is it? using the benchmark.",
+    "audioPrompt": "During maths group, a reading session starts at 9:10 and ends at 9:35. How long is it? using the benchmark.",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none"
+    },
+    "answers": [
+      "25 minutes",
+      "15 minutes",
+      "35 minutes",
+      "45 minutes"
+    ],
+    "difficulty": 2,
+    "correct": 0,
+    "explanation": "From 9:10 to 9:35 is 25 minutes.\nHint: Count forward on the clock.",
+    "structuredExplanation": {
+      "summary": "From 9:10 to 9:35 is 25 minutes.",
+      "hint": "Count forward on the clock."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m3m03-p-030",
+    "curriculumCode": "AC9M3M03",
+    "bank": "practice",
+    "skill": "elapsed time",
+    "printable": true,
+    "type": "single",
+    "question": "During maths group, a game starts at 2:00 and finishes at 3:30. How long is it? with a partner.",
+    "audioPrompt": "During maths group, a game starts at 2:00 and finishes at 3:30. How long is it? with a partner.",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none"
+    },
+    "answers": [
+      "30 minutes",
+      "1 hour 30 minutes",
+      "2 hours",
+      "3 hours 30 minutes"
+    ],
+    "difficulty": 2,
+    "correct": 1,
+    "explanation": "From 2:00 to 3:00 is 1 hour, then 30 more minutes.\nHint: Break the time into hours and minutes.",
+    "structuredExplanation": {
+      "summary": "From 2:00 to 3:00 is 1 hour, then 30 more minutes.",
+      "hint": "Break the time into hours and minutes."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m3m03-p-031",
+    "curriculumCode": "AC9M3M03",
+    "bank": "practice",
+    "skill": "elapsed time",
+    "printable": true,
+    "type": "single",
+    "question": "During maths group, a cake bakes for 45 minutes from 10:20. What time does it finish? from the labelled information.",
+    "audioPrompt": "During maths group, a cake bakes for 45 minutes from 10:20. What time does it finish? from the labelled information.",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none"
+    },
+    "answers": [
+      "10:45",
+      "11:20",
+      "11:05",
+      "12:05"
+    ],
+    "difficulty": 2,
+    "correct": 2,
+    "explanation": "40 minutes after 10:20 is 11:00, then 5 more minutes is 11:05.\nHint: Count forward carefully.",
+    "structuredExplanation": {
+      "summary": "40 minutes after 10:20 is 11:00, then 5 more minutes is 11:05.",
+      "hint": "Count forward carefully."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m3m03-p-032",
+    "curriculumCode": "AC9M3M03",
+    "bank": "practice",
+    "skill": "elapsed time",
+    "printable": true,
+    "type": "single",
+    "question": "During maths group, a bus trip takes 1 hour 15 minutes. If it starts at 7:30, when does it end? before measuring.",
+    "audioPrompt": "During maths group, a bus trip takes 1 hour 15 minutes. If it starts at 7:30, when does it end? before measuring.",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none"
+    },
+    "answers": [
+      "8:15",
+      "7:45",
+      "9:30",
+      "8:45"
+    ],
+    "difficulty": 2,
+    "correct": 3,
+    "explanation": "One hour after 7:30 is 8:30, then 15 more minutes is 8:45.\nHint: Add the hour first, then the minutes.",
+    "structuredExplanation": {
+      "summary": "One hour after 7:30 is 8:30, then 15 more minutes is 8:45.",
+      "hint": "Add the hour first, then the minutes."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m3m03-p-033",
+    "curriculumCode": "AC9M3M03",
+    "bank": "practice",
+    "skill": "convert time units",
+    "printable": true,
+    "type": "single",
+    "question": "In a classroom check, work out how many seconds are in 3 minutes? with a partner.",
+    "audioPrompt": "In a classroom check, work out how many seconds are in 3 minutes? with a partner.",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none"
+    },
+    "answers": [
+      "180 seconds",
+      "90 seconds",
+      "120 seconds",
+      "300 seconds"
+    ],
+    "difficulty": 3,
+    "correct": 0,
+    "explanation": "Each minute has 60 seconds, so 3 minutes is 180 seconds.\nHint: Multiply minutes by 60.",
+    "structuredExplanation": {
+      "summary": "Each minute has 60 seconds, so 3 minutes is 180 seconds.",
+      "hint": "Multiply minutes by 60."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m3m03-p-034",
+    "curriculumCode": "AC9M3M03",
+    "bank": "practice",
+    "skill": "convert time units",
+    "printable": true,
+    "type": "single",
+    "question": "In a classroom check, work out how many minutes are in 4 hours? from the labelled information.",
+    "audioPrompt": "In a classroom check, work out how many minutes are in 4 hours? from the labelled information.",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none"
+    },
+    "answers": [
+      "120 minutes",
+      "240 minutes",
+      "180 minutes",
+      "400 minutes"
+    ],
+    "difficulty": 3,
+    "correct": 1,
+    "explanation": "Each hour has 60 minutes, so 4 hours is 240 minutes.\nHint: Multiply hours by 60.",
+    "structuredExplanation": {
+      "summary": "Each hour has 60 minutes, so 4 hours is 240 minutes.",
+      "hint": "Multiply hours by 60."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m3m03-p-035",
+    "curriculumCode": "AC9M3M03",
+    "bank": "practice",
+    "skill": "convert time units",
+    "printable": true,
+    "type": "single",
+    "question": "In a classroom check, work out how many hours are in 2 days? before measuring.",
+    "audioPrompt": "In a classroom check, work out how many hours are in 2 days? before measuring.",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none"
+    },
+    "answers": [
+      "24 hours",
+      "36 hours",
+      "48 hours",
+      "60 hours"
+    ],
+    "difficulty": 3,
+    "correct": 2,
+    "explanation": "Each day has 24 hours, so 2 days is 48 hours.\nHint: Multiply days by 24.",
+    "structuredExplanation": {
+      "summary": "Each day has 24 hours, so 2 days is 48 hours.",
+      "hint": "Multiply days by 24."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m3m03-p-036",
+    "curriculumCode": "AC9M3M03",
+    "bank": "practice",
+    "skill": "convert time units",
+    "printable": true,
+    "type": "single",
+    "question": "In a classroom check, which duration is the same as 120 seconds? using the benchmark.",
+    "audioPrompt": "In a classroom check, which duration is the same as 120 seconds? using the benchmark.",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none"
+    },
+    "answers": [
+      "1 hour",
+      "12 minutes",
+      "20 minutes",
+      "2 minutes"
+    ],
+    "difficulty": 3,
+    "correct": 3,
+    "explanation": "120 seconds is 2 groups of 60 seconds.\nHint: Divide seconds by 60.",
+    "structuredExplanation": {
+      "summary": "120 seconds is 2 groups of 60 seconds.",
+      "hint": "Divide seconds by 60."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m3m03-p-037",
+    "curriculumCode": "AC9M3M03",
+    "bank": "practice",
+    "skill": "compare durations",
+    "printable": true,
+    "type": "single",
+    "question": "In a classroom check, choose longer: 90 minutes or 2 hours? with a partner.",
+    "audioPrompt": "In a classroom check, choose longer: 90 minutes or 2 hours? with a partner.",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none"
+    },
+    "answers": [
+      "2 hours",
+      "90 minutes",
+      "they are equal",
+      "90 seconds"
+    ],
+    "difficulty": 3,
+    "correct": 0,
+    "explanation": "2 hours is 120 minutes, which is longer than 90 minutes.\nHint: Change both to minutes.",
+    "structuredExplanation": {
+      "summary": "2 hours is 120 minutes, which is longer than 90 minutes.",
+      "hint": "Change both to minutes."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m3m03-p-038",
+    "curriculumCode": "AC9M3M03",
+    "bank": "practice",
+    "skill": "compare durations",
+    "printable": true,
+    "type": "single",
+    "question": "In a classroom check, choose shortest? from the labelled information.",
+    "audioPrompt": "In a classroom check, choose shortest? from the labelled information.",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none"
+    },
+    "answers": [
+      "1 minute",
+      "45 seconds",
+      "2 minutes",
+      "90 seconds"
+    ],
+    "difficulty": 3,
+    "correct": 1,
+    "explanation": "45 seconds is less than 60 seconds, so it is shorter than 1 minute.\nHint: Compare using seconds.",
+    "structuredExplanation": {
+      "summary": "45 seconds is less than 60 seconds, so it is shorter than 1 minute.",
+      "hint": "Compare using seconds."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m3m03-p-039",
+    "curriculumCode": "AC9M3M03",
+    "bank": "practice",
+    "skill": "compare durations",
+    "printable": true,
+    "type": "single",
+    "question": "In a classroom check, choose the same as 1 day? before measuring.",
+    "audioPrompt": "In a classroom check, choose the same as 1 day? before measuring.",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none"
+    },
+    "answers": [
+      "12 hours",
+      "60 hours",
+      "24 hours",
+      "100 hours"
+    ],
+    "difficulty": 3,
+    "correct": 2,
+    "explanation": "One day has 24 hours.\nHint: Recall the hours in a day.",
+    "structuredExplanation": {
+      "summary": "One day has 24 hours.",
+      "hint": "Recall the hours in a day."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m3m03-p-040",
+    "curriculumCode": "AC9M3M03",
+    "bank": "practice",
+    "skill": "compare durations",
+    "printable": true,
+    "type": "single",
+    "question": "In a classroom check, a movie lasts 95 minutes and a lesson lasts 1 hour. Which lasts longer? using the benchmark.",
+    "audioPrompt": "In a classroom check, a movie lasts 95 minutes and a lesson lasts 1 hour. Which lasts longer? using the benchmark.",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none"
+    },
+    "answers": [
+      "the lesson",
+      "they are equal",
+      "the lesson by 35 minutes",
+      "the movie"
+    ],
+    "difficulty": 3,
+    "correct": 3,
+    "explanation": "1 hour is 60 minutes, so 95 minutes is longer.\nHint: Convert the hour to minutes.",
+    "structuredExplanation": {
+      "summary": "1 hour is 60 minutes, so 95 minutes is longer.",
+      "hint": "Convert the hour to minutes."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m3m03-p-041",
+    "curriculumCode": "AC9M3M03",
+    "bank": "practice",
+    "skill": "estimate duration",
+    "printable": true,
+    "type": "single",
+    "question": "In a classroom check, choose the best estimate for brushing your teeth? with a partner.",
+    "audioPrompt": "In a classroom check, choose the best estimate for brushing your teeth? with a partner.",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none"
+    },
+    "answers": [
+      "2 minutes",
+      "2 seconds",
+      "2 days",
+      "2 hours"
+    ],
+    "difficulty": 3,
+    "correct": 0,
+    "explanation": "Brushing teeth usually takes a few minutes.\nHint: Pick a sensible time unit.",
+    "structuredExplanation": {
+      "summary": "Brushing teeth usually takes a few minutes.",
+      "hint": "Pick a sensible time unit."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m3m03-p-042",
+    "curriculumCode": "AC9M3M03",
+    "bank": "practice",
+    "skill": "estimate duration",
+    "printable": true,
+    "type": "single",
+    "question": "In a classroom check, choose the best estimate for blinking once? from the labelled information.",
+    "audioPrompt": "In a classroom check, choose the best estimate for blinking once? from the labelled information.",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none"
+    },
+    "answers": [
+      "5 minutes",
+      "less than 1 second",
+      "2 hours",
+      "1 day"
+    ],
+    "difficulty": 3,
+    "correct": 1,
+    "explanation": "A blink is very quick, so it takes less than a second.\nHint: Very quick events use seconds.",
+    "structuredExplanation": {
+      "summary": "A blink is very quick, so it takes less than a second.",
+      "hint": "Very quick events use seconds."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m3m03-p-043",
+    "curriculumCode": "AC9M3M03",
+    "bank": "practice",
+    "skill": "estimate duration",
+    "printable": true,
+    "type": "single",
+    "question": "In a classroom check, choose the best estimate for a school lunch break? before measuring.",
+    "audioPrompt": "In a classroom check, choose the best estimate for a school lunch break? before measuring.",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none"
+    },
+    "answers": [
+      "40 seconds",
+      "40 days",
+      "40 minutes",
+      "40 hours"
+    ],
+    "difficulty": 3,
+    "correct": 2,
+    "explanation": "A lunch break usually lasts many minutes, not seconds, hours or days.\nHint: Use everyday experience.",
+    "structuredExplanation": {
+      "summary": "A lunch break usually lasts many minutes, not seconds, hours or days.",
+      "hint": "Use everyday experience."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m3m03-p-044",
+    "curriculumCode": "AC9M3M03",
+    "bank": "practice",
+    "skill": "estimate duration",
+    "printable": true,
+    "type": "single",
+    "question": "In a classroom check, choose the best estimate for a weekend? using the benchmark.",
+    "audioPrompt": "In a classroom check, choose the best estimate for a weekend? using the benchmark.",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none"
+    },
+    "answers": [
+      "2 seconds",
+      "2 minutes",
+      "2 hours",
+      "2 days"
+    ],
+    "difficulty": 3,
+    "correct": 3,
+    "explanation": "A weekend lasts Saturday and Sunday, which is 2 days.\nHint: Long events often use days.",
+    "structuredExplanation": {
+      "summary": "A weekend lasts Saturday and Sunday, which is 2 days.",
+      "hint": "Long events often use days."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m3m03-p-045",
+    "curriculumCode": "AC9M3M03",
+    "bank": "practice",
+    "skill": "elapsed time",
+    "printable": true,
+    "type": "single",
+    "question": "In a classroom check, a reading session starts at 9:10 and ends at 9:35. How long is it? with a partner.",
+    "audioPrompt": "In a classroom check, a reading session starts at 9:10 and ends at 9:35. How long is it? with a partner.",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none"
+    },
+    "answers": [
+      "25 minutes",
+      "15 minutes",
+      "35 minutes",
+      "45 minutes"
+    ],
+    "difficulty": 3,
+    "correct": 0,
+    "explanation": "From 9:10 to 9:35 is 25 minutes.\nHint: Count forward on the clock.",
+    "structuredExplanation": {
+      "summary": "From 9:10 to 9:35 is 25 minutes.",
+      "hint": "Count forward on the clock."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m3m03-p-046",
+    "curriculumCode": "AC9M3M03",
+    "bank": "practice",
+    "skill": "elapsed time",
+    "printable": true,
+    "type": "single",
+    "question": "In a classroom check, a game starts at 2:00 and finishes at 3:30. How long is it? from the labelled information.",
+    "audioPrompt": "In a classroom check, a game starts at 2:00 and finishes at 3:30. How long is it? from the labelled information.",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none"
+    },
+    "answers": [
+      "30 minutes",
+      "1 hour 30 minutes",
+      "2 hours",
+      "3 hours 30 minutes"
+    ],
+    "difficulty": 3,
+    "correct": 1,
+    "explanation": "From 2:00 to 3:00 is 1 hour, then 30 more minutes.\nHint: Break the time into hours and minutes.",
+    "structuredExplanation": {
+      "summary": "From 2:00 to 3:00 is 1 hour, then 30 more minutes.",
+      "hint": "Break the time into hours and minutes."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m3m03-p-047",
+    "curriculumCode": "AC9M3M03",
+    "bank": "practice",
+    "skill": "elapsed time",
+    "printable": true,
+    "type": "single",
+    "question": "In a classroom check, a cake bakes for 45 minutes from 10:20. What time does it finish? before measuring.",
+    "audioPrompt": "In a classroom check, a cake bakes for 45 minutes from 10:20. What time does it finish? before measuring.",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none"
+    },
+    "answers": [
+      "10:45",
+      "11:20",
+      "11:05",
+      "12:05"
+    ],
+    "difficulty": 3,
+    "correct": 2,
+    "explanation": "40 minutes after 10:20 is 11:00, then 5 more minutes is 11:05.\nHint: Count forward carefully.",
+    "structuredExplanation": {
+      "summary": "40 minutes after 10:20 is 11:00, then 5 more minutes is 11:05.",
+      "hint": "Count forward carefully."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m3m03-p-048",
+    "curriculumCode": "AC9M3M03",
+    "bank": "practice",
+    "skill": "elapsed time",
+    "printable": true,
+    "type": "single",
+    "question": "In a classroom check, a bus trip takes 1 hour 15 minutes. If it starts at 7:30, when does it end? using the benchmark.",
+    "audioPrompt": "In a classroom check, a bus trip takes 1 hour 15 minutes. If it starts at 7:30, when does it end? using the benchmark.",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none"
+    },
+    "answers": [
+      "8:15",
+      "7:45",
+      "9:30",
+      "8:45"
+    ],
+    "difficulty": 3,
+    "correct": 3,
+    "explanation": "One hour after 7:30 is 8:30, then 15 more minutes is 8:45.\nHint: Add the hour first, then the minutes.",
+    "structuredExplanation": {
+      "summary": "One hour after 7:30 is 8:30, then 15 more minutes is 8:45.",
+      "hint": "Add the hour first, then the minutes."
     },
     "qualitySchema": "production-v1"
   }

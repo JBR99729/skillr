@@ -4,28 +4,28 @@ window.skillrTestQuestions = [
     "id": "ac9m3m02-t-001",
     "curriculumCode": "AC9M3M02",
     "bank": "test",
-    "skill": "measure metric instrument",
+    "skill": "read ruler",
     "printable": true,
     "type": "single",
-    "question": "In the garden, a scale is marked every 5 m. The pointer is at 70 m. What is the reading?",
-    "audioPrompt": "In the garden, a scale is marked every 5 m. The pointer is at 70 m. What is the reading?",
-    "visual": "In the garden: A metric scale with equal five-m intervals ending at 70 m.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In the garden: A metric scale with equal five-m intervals ending at 70 m.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3m02.svg#ac9m3m02-t-001\"></use></svg>",
+    "question": "At a school activity, a line starts at 0 cm and ends at 14 cm. How long is the line? with a partner.",
+    "audioPrompt": "At a school activity, a line starts at 0 cm and ends at 14 cm. How long is the line? with a partner.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3m02.svg#ac9m3m02-t-001",
-      "alt_text": "In the garden: A metric scale with equal five-m intervals ending at 70 m."
+      "type": "none"
     },
     "answers": [
-      "65 m",
-      "70 m",
-      "75 m"
+      "14 cm",
+      "7 cm",
+      "15 cm",
+      "14 m"
     ],
-    "correct": 1,
-    "explanation": "Count equal intervals from zero to 70.\nHint: Check the value of each interval.",
+    "difficulty": 1,
+    "correct": 0,
+    "explanation": "The length is read from zero to the endpoint at 14 cm.\nHint: Start at zero and read the endpoint.",
     "structuredExplanation": {
-      "summary": "Count equal intervals from zero to 70.",
-      "hint": "Check the value of each interval."
+      "summary": "The length is read from zero to the endpoint at 14 cm.",
+      "hint": "Start at zero and read the endpoint."
     },
     "qualitySchema": "production-v1"
   },
@@ -33,28 +33,28 @@ window.skillrTestQuestions = [
     "id": "ac9m3m02-t-002",
     "curriculumCode": "AC9M3M02",
     "bank": "test",
-    "skill": "measure metric instrument",
+    "skill": "read ruler",
     "printable": true,
     "type": "single",
-    "question": "In the garden, which tool is suitable for measuring length?",
-    "audioPrompt": "In the garden, which tool is suitable for measuring length?",
-    "visual": "In the garden: A measurement tool beside its metric unit.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In the garden: A measurement tool beside its metric unit.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3m02.svg#ac9m3m02-t-002\"></use></svg>",
+    "question": "At a school activity, an eraser starts at 2 cm and ends at 9 cm on a ruler. What is its length? from the labelled information.",
+    "audioPrompt": "At a school activity, an eraser starts at 2 cm and ends at 9 cm on a ruler. What is its length? from the labelled information.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3m02.svg#ac9m3m02-t-002",
-      "alt_text": "In the garden: A measurement tool beside its metric unit."
+      "type": "none"
     },
     "answers": [
-      "A clock",
-      "A thermometer",
-      "A ruler or tape"
+      "9 cm",
+      "7 cm",
+      "11 cm",
+      "2 cm"
     ],
-    "correct": 2,
-    "explanation": "The tool is designed for this measurement attribute.\nHint: Match the tool to length, mass or capacity.",
+    "difficulty": 1,
+    "correct": 1,
+    "explanation": "Subtract the start reading from the end reading: 9 cm minus 2 cm is 7 cm.\nHint: When it does not start at zero, find the difference.",
     "structuredExplanation": {
-      "summary": "The tool is designed for this measurement attribute.",
-      "hint": "Match the tool to length, mass or capacity."
+      "summary": "Subtract the start reading from the end reading: 9 cm minus 2 cm is 7 cm.",
+      "hint": "When it does not start at zero, find the difference."
     },
     "qualitySchema": "production-v1"
   },
@@ -62,28 +62,28 @@ window.skillrTestQuestions = [
     "id": "ac9m3m02-t-003",
     "curriculumCode": "AC9M3M02",
     "bank": "test",
-    "skill": "measure metric instrument",
+    "skill": "read ruler",
     "printable": true,
     "type": "single",
-    "question": "In the garden, an object begins at 3 cm and ends at 70 cm on a ruler. How long is it?",
-    "audioPrompt": "In the garden, an object begins at 3 cm and ends at 70 cm on a ruler. How long is it?",
-    "visual": "In the garden: An object aligned from the 3-centimetre mark to the 70-centimetre mark.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In the garden: An object aligned from the 3-centimetre mark to the 70-centimetre mark.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3m02.svg#ac9m3m02-t-003\"></use></svg>",
+    "question": "At a school activity, a ribbon starts at 0 cm and reaches halfway between 18 cm and 19 cm. What is the best reading? before measuring.",
+    "audioPrompt": "At a school activity, a ribbon starts at 0 cm and reaches halfway between 18 cm and 19 cm. What is the best reading? before measuring.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3m02.svg#ac9m3m02-t-003",
-      "alt_text": "In the garden: An object aligned from the 3-centimetre mark to the 70-centimetre mark."
+      "type": "none"
     },
     "answers": [
-      "67 cm",
-      "70 cm",
-      "73 cm"
+      "18 cm",
+      "19.5 cm",
+      "18.5 cm",
+      "185 cm"
     ],
-    "correct": 0,
-    "explanation": "Length is end reading minus start reading: 70−3=67.\nHint: Do not assume the object starts at zero.",
+    "difficulty": 1,
+    "correct": 2,
+    "explanation": "Halfway between 18 and 19 is 18.5 cm.\nHint: Read the interval between labelled marks.",
     "structuredExplanation": {
-      "summary": "Length is end reading minus start reading: 70−3=67.",
-      "hint": "Do not assume the object starts at zero."
+      "summary": "Halfway between 18 and 19 is 18.5 cm.",
+      "hint": "Read the interval between labelled marks."
     },
     "qualitySchema": "production-v1"
   },
@@ -91,28 +91,28 @@ window.skillrTestQuestions = [
     "id": "ac9m3m02-t-004",
     "curriculumCode": "AC9M3M02",
     "bank": "test",
-    "skill": "measure metric instrument",
+    "skill": "read ruler",
     "printable": true,
     "type": "single",
-    "question": "In the garden, which measurement is greater: 70 m or 75 m?",
-    "audioPrompt": "In the garden, which measurement is greater: 70 m or 75 m?",
-    "visual": "In the garden: Two measurements in the same unit shown side by side.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In the garden: Two measurements in the same unit shown side by side.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3m02.svg#ac9m3m02-t-004\"></use></svg>",
+    "question": "At a school activity, a crayon is measured from 0 cm to 8 cm. Which measurement is recorded correctly? using the benchmark.",
+    "audioPrompt": "At a school activity, a crayon is measured from 0 cm to 8 cm. Which measurement is recorded correctly? using the benchmark.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3m02.svg#ac9m3m02-t-004",
-      "alt_text": "In the garden: Two measurements in the same unit shown side by side."
+      "type": "none"
     },
     "answers": [
-      "70 m",
-      "75 m",
-      "They are equal"
+      "8 g",
+      "8 mL",
+      "8 kg",
+      "8 cm"
     ],
-    "correct": 1,
-    "explanation": "The units match, so compare the numbers.\nHint: Only compare directly when units are the same.",
+    "difficulty": 1,
+    "correct": 3,
+    "explanation": "A crayon length measured on a ruler is recorded in centimetres.\nHint: Include the correct unit.",
     "structuredExplanation": {
-      "summary": "The units match, so compare the numbers.",
-      "hint": "Only compare directly when units are the same."
+      "summary": "A crayon length measured on a ruler is recorded in centimetres.",
+      "hint": "Include the correct unit."
     },
     "qualitySchema": "production-v1"
   },
@@ -120,28 +120,28 @@ window.skillrTestQuestions = [
     "id": "ac9m3m02-t-005",
     "curriculumCode": "AC9M3M02",
     "bank": "test",
-    "skill": "measure metric instrument",
+    "skill": "read labelled scale",
     "printable": true,
     "type": "single",
-    "question": "In the garden, why should your eye be level with a measuring-jug scale?",
-    "audioPrompt": "In the garden, why should your eye be level with a measuring-jug scale?",
-    "visual": "In the garden: An eye aligned horizontally with a liquid-level mark.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In the garden: An eye aligned horizontally with a liquid-level mark.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3m02.svg#ac9m3m02-t-005\"></use></svg>",
+    "question": "At a school activity, a jug scale is marked every 100 mL. The water level is at 600 mL. What is the reading? with a partner.",
+    "audioPrompt": "At a school activity, a jug scale is marked every 100 mL. The water level is at 600 mL. What is the reading? with a partner.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3m02.svg#ac9m3m02-t-005",
-      "alt_text": "In the garden: An eye aligned horizontally with a liquid-level mark."
+      "type": "none"
     },
     "answers": [
-      "To change the liquid amount",
-      "To make intervals unequal",
-      "To avoid misreading the level"
+      "600 mL",
+      "60 mL",
+      "700 mL",
+      "600 L"
     ],
-    "correct": 2,
-    "explanation": "Viewing at an angle can make the liquid appear beside the wrong mark.\nHint: Look straight across at the liquid level.",
+    "difficulty": 1,
+    "correct": 0,
+    "explanation": "The labelled scale shows the water level at 600 mL.\nHint: Check the value of each interval.",
     "structuredExplanation": {
-      "summary": "Viewing at an angle can make the liquid appear beside the wrong mark.",
-      "hint": "Look straight across at the liquid level."
+      "summary": "The labelled scale shows the water level at 600 mL.",
+      "hint": "Check the value of each interval."
     },
     "qualitySchema": "production-v1"
   },
@@ -149,28 +149,28 @@ window.skillrTestQuestions = [
     "id": "ac9m3m02-t-006",
     "curriculumCode": "AC9M3M02",
     "bank": "test",
-    "skill": "measure metric instrument",
+    "skill": "read labelled scale",
     "printable": true,
     "type": "single",
-    "question": "In the garden, a ruler has no zero visible. What should you do?",
-    "audioPrompt": "In the garden, a ruler has no zero visible. What should you do?",
-    "visual": "In the garden: A broken-zero ruler measurement shown with two endpoints.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In the garden: A broken-zero ruler measurement shown with two endpoints.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3m02.svg#ac9m3m02-t-006\"></use></svg>",
+    "question": "At a school activity, a kitchen scale is marked every 50 g. The pointer is at 350 g. What is the reading? from the labelled information.",
+    "audioPrompt": "At a school activity, a kitchen scale is marked every 50 g. The pointer is at 350 g. What is the reading? from the labelled information.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3m02.svg#ac9m3m02-t-006",
-      "alt_text": "In the garden: A broken-zero ruler measurement shown with two endpoints."
+      "type": "none"
     },
     "answers": [
-      "Subtract the start reading from the end reading",
-      "Use the end reading only",
-      "Add both readings"
+      "300 g",
+      "350 g",
+      "400 g",
+      "350 kg"
     ],
-    "correct": 0,
-    "explanation": "The difference between endpoints gives the object's length.\nHint: Record both readings first.",
+    "difficulty": 1,
+    "correct": 1,
+    "explanation": "Counting by 50 g reaches 350 g at the pointer.\nHint: Use the interval size.",
     "structuredExplanation": {
-      "summary": "The difference between endpoints gives the object's length.",
-      "hint": "Record both readings first."
+      "summary": "Counting by 50 g reaches 350 g at the pointer.",
+      "hint": "Use the interval size."
     },
     "qualitySchema": "production-v1"
   },
@@ -178,28 +178,28 @@ window.skillrTestQuestions = [
     "id": "ac9m3m02-t-007",
     "curriculumCode": "AC9M3M02",
     "bank": "test",
-    "skill": "measure metric instrument",
+    "skill": "read labelled scale",
     "printable": true,
     "type": "single",
-    "question": "In the garden, a student reads intervals as 1 m, but the labels rise by 5 m. What is the mistake?",
-    "audioPrompt": "In the garden, a student reads intervals as 1 m, but the labels rise by 5 m. What is the mistake?",
-    "visual": "In the garden: A scale labelled in steps of five m.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In the garden: A scale labelled in steps of five m.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3m02.svg#ac9m3m02-t-007\"></use></svg>",
+    "question": "At a school activity, a measuring jug shows 1 L and 200 mL. Which amount is this? before measuring.",
+    "audioPrompt": "At a school activity, a measuring jug shows 1 L and 200 mL. Which amount is this? before measuring.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3m02.svg#ac9m3m02-t-007",
-      "alt_text": "In the garden: A scale labelled in steps of five m."
+      "type": "none"
     },
     "answers": [
-      "Labels should be ignored",
-      "The interval value was not checked",
-      "Every scale counts by ones"
+      "102 mL",
+      "12 mL",
+      "1200 mL",
+      "120 L"
     ],
-    "correct": 1,
-    "explanation": "Scale intervals can represent different values.\nHint: Find the difference between neighbouring labelled marks.",
+    "difficulty": 1,
+    "correct": 2,
+    "explanation": "1 L is 1000 mL, plus 200 mL makes 1200 mL.\nHint: Connect litres and millilitres.",
     "structuredExplanation": {
-      "summary": "Scale intervals can represent different values.",
-      "hint": "Find the difference between neighbouring labelled marks."
+      "summary": "1 L is 1000 mL, plus 200 mL makes 1200 mL.",
+      "hint": "Connect litres and millilitres."
     },
     "qualitySchema": "production-v1"
   },
@@ -207,28 +207,28 @@ window.skillrTestQuestions = [
     "id": "ac9m3m02-t-008",
     "curriculumCode": "AC9M3M02",
     "bank": "test",
-    "skill": "measure metric instrument",
+    "skill": "read labelled scale",
     "printable": true,
     "type": "single",
-    "question": "In the garden, why repeat a measurement?",
-    "audioPrompt": "In the garden, why repeat a measurement?",
-    "visual": "In the garden: Two repeated metric readings ready to compare.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In the garden: Two repeated metric readings ready to compare.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3m02.svg#ac9m3m02-t-008\"></use></svg>",
+    "question": "At a school activity, a parcel has a mass of 2 kg and 500 g. Which amount is this? using the benchmark.",
+    "audioPrompt": "At a school activity, a parcel has a mass of 2 kg and 500 g. Which amount is this? using the benchmark.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3m02.svg#ac9m3m02-t-008",
-      "alt_text": "In the garden: Two repeated metric readings ready to compare."
+      "type": "none"
     },
     "answers": [
-      "To guarantee a larger result",
-      "To change the unit",
-      "To check consistency and catch mistakes"
+      "205 g",
+      "25 g",
+      "250 kg",
+      "2500 g"
     ],
-    "correct": 2,
-    "explanation": "Repeated close readings increase confidence in the measurement.\nHint: Use the same tool and method each time.",
+    "difficulty": 1,
+    "correct": 3,
+    "explanation": "2 kg is 2000 g, plus 500 g makes 2500 g.\nHint: Connect kilograms and grams.",
     "structuredExplanation": {
-      "summary": "Repeated close readings increase confidence in the measurement.",
-      "hint": "Use the same tool and method each time."
+      "summary": "2 kg is 2000 g, plus 500 g makes 2500 g.",
+      "hint": "Connect kilograms and grams."
     },
     "qualitySchema": "production-v1"
   },
@@ -236,28 +236,28 @@ window.skillrTestQuestions = [
     "id": "ac9m3m02-t-009",
     "curriculumCode": "AC9M3M02",
     "bank": "test",
-    "skill": "measure metric instrument",
+    "skill": "compare measurements",
     "printable": true,
     "type": "single",
-    "question": "At the playdough table, a scale is marked every 5 kg. The pointer is at 85 kg. What is the reading?",
-    "audioPrompt": "At the playdough table, a scale is marked every 5 kg. The pointer is at 85 kg. What is the reading?",
-    "visual": "At the playdough table: A metric scale with equal five-kg intervals ending at 85 kg.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the playdough table: A metric scale with equal five-kg intervals ending at 85 kg.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3m02.svg#ac9m3m02-t-009\"></use></svg>",
+    "question": "At a school activity, choose longer? with a partner.",
+    "audioPrompt": "At a school activity, choose longer? with a partner.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3m02.svg#ac9m3m02-t-009",
-      "alt_text": "At the playdough table: A metric scale with equal five-kg intervals ending at 85 kg."
+      "type": "none"
     },
     "answers": [
-      "85 kg",
-      "80 kg",
-      "90 kg"
+      "1 m",
+      "75 cm",
+      "50 cm",
+      "90 cm"
     ],
+    "difficulty": 1,
     "correct": 0,
-    "explanation": "Count equal intervals from zero to 85.\nHint: Check the value of each interval.",
+    "explanation": "1 metre is 100 centimetres, which is longer than the other choices.\nHint: Use 100 cm equals 1 m.",
     "structuredExplanation": {
-      "summary": "Count equal intervals from zero to 85.",
-      "hint": "Check the value of each interval."
+      "summary": "1 metre is 100 centimetres, which is longer than the other choices.",
+      "hint": "Use 100 cm equals 1 m."
     },
     "qualitySchema": "production-v1"
   },
@@ -265,28 +265,28 @@ window.skillrTestQuestions = [
     "id": "ac9m3m02-t-010",
     "curriculumCode": "AC9M3M02",
     "bank": "test",
-    "skill": "measure metric instrument",
+    "skill": "compare measurements",
     "printable": true,
     "type": "single",
-    "question": "At the playdough table, which tool is suitable for measuring mass?",
-    "audioPrompt": "At the playdough table, which tool is suitable for measuring mass?",
-    "visual": "At the playdough table: A measurement tool beside its metric unit.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the playdough table: A measurement tool beside its metric unit.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3m02.svg#ac9m3m02-t-010\"></use></svg>",
+    "question": "At a school activity, choose the greatest mass? from the labelled information.",
+    "audioPrompt": "At a school activity, choose the greatest mass? from the labelled information.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3m02.svg#ac9m3m02-t-010",
-      "alt_text": "At the playdough table: A measurement tool beside its metric unit."
+      "type": "none"
     },
     "answers": [
-      "A ruler",
-      "A balance or scale",
-      "A calendar"
+      "900 g",
+      "2 kg",
+      "1500 g",
+      "750 g"
     ],
+    "difficulty": 1,
     "correct": 1,
-    "explanation": "The tool is designed for this measurement attribute.\nHint: Match the tool to length, mass or capacity.",
+    "explanation": "2 kg is 2000 g, which is greater than 1500 g, 900 g and 750 g.\nHint: Convert to compare fairly.",
     "structuredExplanation": {
-      "summary": "The tool is designed for this measurement attribute.",
-      "hint": "Match the tool to length, mass or capacity."
+      "summary": "2 kg is 2000 g, which is greater than 1500 g, 900 g and 750 g.",
+      "hint": "Convert to compare fairly."
     },
     "qualitySchema": "production-v1"
   },
@@ -294,28 +294,28 @@ window.skillrTestQuestions = [
     "id": "ac9m3m02-t-011",
     "curriculumCode": "AC9M3M02",
     "bank": "test",
-    "skill": "measure metric instrument",
+    "skill": "compare measurements",
     "printable": true,
     "type": "single",
-    "question": "At the playdough table, an object begins at 3 cm and ends at 85 cm on a ruler. How long is it?",
-    "audioPrompt": "At the playdough table, an object begins at 3 cm and ends at 85 cm on a ruler. How long is it?",
-    "visual": "At the playdough table: An object aligned from the 3-centimetre mark to the 85-centimetre mark.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the playdough table: An object aligned from the 3-centimetre mark to the 85-centimetre mark.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3m02.svg#ac9m3m02-t-011\"></use></svg>",
+    "question": "At a school activity, which container has the greatest capacity? before measuring.",
+    "audioPrompt": "At a school activity, which container has the greatest capacity? before measuring.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3m02.svg#ac9m3m02-t-011",
-      "alt_text": "At the playdough table: An object aligned from the 3-centimetre mark to the 85-centimetre mark."
+      "type": "none"
     },
     "answers": [
-      "85 cm",
-      "88 cm",
-      "82 cm"
+      "600 mL",
+      "850 mL",
+      "1 L",
+      "400 mL"
     ],
+    "difficulty": 1,
     "correct": 2,
-    "explanation": "Length is end reading minus start reading: 85−3=82.\nHint: Do not assume the object starts at zero.",
+    "explanation": "1 L is 1000 mL, greater than the other capacities.\nHint: Use 1000 mL equals 1 L.",
     "structuredExplanation": {
-      "summary": "Length is end reading minus start reading: 85−3=82.",
-      "hint": "Do not assume the object starts at zero."
+      "summary": "1 L is 1000 mL, greater than the other capacities.",
+      "hint": "Use 1000 mL equals 1 L."
     },
     "qualitySchema": "production-v1"
   },
@@ -323,28 +323,28 @@ window.skillrTestQuestions = [
     "id": "ac9m3m02-t-012",
     "curriculumCode": "AC9M3M02",
     "bank": "test",
-    "skill": "measure metric instrument",
+    "skill": "compare measurements",
     "printable": true,
     "type": "single",
-    "question": "At the playdough table, which measurement is greater: 85 kg or 90 kg?",
-    "audioPrompt": "At the playdough table, which measurement is greater: 85 kg or 90 kg?",
-    "visual": "At the playdough table: Two measurements in the same unit shown side by side.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the playdough table: Two measurements in the same unit shown side by side.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3m02.svg#ac9m3m02-t-012\"></use></svg>",
+    "question": "At a school activity, a plant is 42 cm tall and a book is 28 cm tall. How much taller is the plant? using the benchmark.",
+    "audioPrompt": "At a school activity, a plant is 42 cm tall and a book is 28 cm tall. How much taller is the plant? using the benchmark.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3m02.svg#ac9m3m02-t-012",
-      "alt_text": "At the playdough table: Two measurements in the same unit shown side by side."
+      "type": "none"
     },
     "answers": [
-      "90 kg",
-      "85 kg",
-      "They are equal"
+      "70 cm",
+      "24 cm",
+      "12 m",
+      "14 cm"
     ],
-    "correct": 0,
-    "explanation": "The units match, so compare the numbers.\nHint: Only compare directly when units are the same.",
+    "difficulty": 1,
+    "correct": 3,
+    "explanation": "Subtract 28 from 42 to find the difference of 14 cm.\nHint: Compare measurements using subtraction.",
     "structuredExplanation": {
-      "summary": "The units match, so compare the numbers.",
-      "hint": "Only compare directly when units are the same."
+      "summary": "Subtract 28 from 42 to find the difference of 14 cm.",
+      "hint": "Compare measurements using subtraction."
     },
     "qualitySchema": "production-v1"
   },
@@ -352,28 +352,28 @@ window.skillrTestQuestions = [
     "id": "ac9m3m02-t-013",
     "curriculumCode": "AC9M3M02",
     "bank": "test",
-    "skill": "measure metric instrument",
+    "skill": "choose instrument",
     "printable": true,
     "type": "single",
-    "question": "At the playdough table, why should your eye be level with a measuring-jug scale?",
-    "audioPrompt": "At the playdough table, why should your eye be level with a measuring-jug scale?",
-    "visual": "At the playdough table: An eye aligned horizontally with a liquid-level mark.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the playdough table: An eye aligned horizontally with a liquid-level mark.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3m02.svg#ac9m3m02-t-013\"></use></svg>",
+    "question": "At a school activity, which instrument should you use to measure the length of a notebook? with a partner.",
+    "audioPrompt": "At a school activity, which instrument should you use to measure the length of a notebook? with a partner.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3m02.svg#ac9m3m02-t-013",
-      "alt_text": "At the playdough table: An eye aligned horizontally with a liquid-level mark."
+      "type": "none"
     },
     "answers": [
-      "To change the liquid amount",
-      "To avoid misreading the level",
-      "To make intervals unequal"
+      "ruler",
+      "measuring jug",
+      "balance scale",
+      "clock"
     ],
-    "correct": 1,
-    "explanation": "Viewing at an angle can make the liquid appear beside the wrong mark.\nHint: Look straight across at the liquid level.",
+    "difficulty": 1,
+    "correct": 0,
+    "explanation": "A ruler measures length in centimetres.\nHint: Match the instrument to the attribute.",
     "structuredExplanation": {
-      "summary": "Viewing at an angle can make the liquid appear beside the wrong mark.",
-      "hint": "Look straight across at the liquid level."
+      "summary": "A ruler measures length in centimetres.",
+      "hint": "Match the instrument to the attribute."
     },
     "qualitySchema": "production-v1"
   },
@@ -381,28 +381,28 @@ window.skillrTestQuestions = [
     "id": "ac9m3m02-t-014",
     "curriculumCode": "AC9M3M02",
     "bank": "test",
-    "skill": "measure metric instrument",
+    "skill": "choose instrument",
     "printable": true,
     "type": "single",
-    "question": "At the playdough table, a ruler has no zero visible. What should you do?",
-    "audioPrompt": "At the playdough table, a ruler has no zero visible. What should you do?",
-    "visual": "At the playdough table: A broken-zero ruler measurement shown with two endpoints.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the playdough table: A broken-zero ruler measurement shown with two endpoints.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3m02.svg#ac9m3m02-t-014\"></use></svg>",
+    "question": "At a school activity, which instrument should you use to measure the capacity of a cup? from the labelled information.",
+    "audioPrompt": "At a school activity, which instrument should you use to measure the capacity of a cup? from the labelled information.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3m02.svg#ac9m3m02-t-014",
-      "alt_text": "At the playdough table: A broken-zero ruler measurement shown with two endpoints."
+      "type": "none"
     },
     "answers": [
-      "Use the end reading only",
-      "Add both readings",
-      "Subtract the start reading from the end reading"
+      "ruler",
+      "measuring jug",
+      "balance scale",
+      "thermometer"
     ],
-    "correct": 2,
-    "explanation": "The difference between endpoints gives the object's length.\nHint: Record both readings first.",
+    "difficulty": 1,
+    "correct": 1,
+    "explanation": "A measuring jug measures how much liquid a cup can hold.\nHint: Capacity needs a container scale.",
     "structuredExplanation": {
-      "summary": "The difference between endpoints gives the object's length.",
-      "hint": "Record both readings first."
+      "summary": "A measuring jug measures how much liquid a cup can hold.",
+      "hint": "Capacity needs a container scale."
     },
     "qualitySchema": "production-v1"
   },
@@ -410,28 +410,28 @@ window.skillrTestQuestions = [
     "id": "ac9m3m02-t-015",
     "curriculumCode": "AC9M3M02",
     "bank": "test",
-    "skill": "measure metric instrument",
+    "skill": "choose instrument",
     "printable": true,
     "type": "single",
-    "question": "At the playdough table, a student reads intervals as 1 kg, but the labels rise by 5 kg. What is the mistake?",
-    "audioPrompt": "At the playdough table, a student reads intervals as 1 kg, but the labels rise by 5 kg. What is the mistake?",
-    "visual": "At the playdough table: A scale labelled in steps of five kg.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the playdough table: A scale labelled in steps of five kg.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3m02.svg#ac9m3m02-t-015\"></use></svg>",
+    "question": "At a school activity, which instrument should you use to measure the mass of an orange? before measuring.",
+    "audioPrompt": "At a school activity, which instrument should you use to measure the mass of an orange? before measuring.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3m02.svg#ac9m3m02-t-015",
-      "alt_text": "At the playdough table: A scale labelled in steps of five kg."
+      "type": "none"
     },
     "answers": [
-      "The interval value was not checked",
-      "Labels should be ignored",
-      "Every scale counts by ones"
+      "metre ruler",
+      "measuring jug",
+      "kitchen scale",
+      "calendar"
     ],
-    "correct": 0,
-    "explanation": "Scale intervals can represent different values.\nHint: Find the difference between neighbouring labelled marks.",
+    "difficulty": 1,
+    "correct": 2,
+    "explanation": "A kitchen scale measures mass in grams or kilograms.\nHint: Mass needs a scale.",
     "structuredExplanation": {
-      "summary": "Scale intervals can represent different values.",
-      "hint": "Find the difference between neighbouring labelled marks."
+      "summary": "A kitchen scale measures mass in grams or kilograms.",
+      "hint": "Mass needs a scale."
     },
     "qualitySchema": "production-v1"
   },
@@ -439,28 +439,28 @@ window.skillrTestQuestions = [
     "id": "ac9m3m02-t-016",
     "curriculumCode": "AC9M3M02",
     "bank": "test",
-    "skill": "measure metric instrument",
+    "skill": "choose instrument",
     "printable": true,
     "type": "single",
-    "question": "At the playdough table, why repeat a measurement?",
-    "audioPrompt": "At the playdough table, why repeat a measurement?",
-    "visual": "At the playdough table: Two repeated metric readings ready to compare.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the playdough table: Two repeated metric readings ready to compare.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3m02.svg#ac9m3m02-t-016\"></use></svg>",
+    "question": "At a school activity, a student measures a pencil from the ruler edge instead of the zero mark. What should they do? using the benchmark.",
+    "audioPrompt": "At a school activity, a student measures a pencil from the ruler edge instead of the zero mark. What should they do? using the benchmark.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3m02.svg#ac9m3m02-t-016",
-      "alt_text": "At the playdough table: Two repeated metric readings ready to compare."
+      "type": "none"
     },
     "answers": [
-      "To guarantee a larger result",
-      "To check consistency and catch mistakes",
-      "To change the unit"
+      "measure in litres",
+      "ignore the unit",
+      "start at 10 cm and read 10 cm",
+      "line up the pencil with 0 cm"
     ],
-    "correct": 1,
-    "explanation": "Repeated close readings increase confidence in the measurement.\nHint: Use the same tool and method each time.",
+    "difficulty": 1,
+    "correct": 3,
+    "explanation": "The zero mark is the correct starting point for a direct ruler measurement.\nHint: Accurate measuring starts at zero.",
     "structuredExplanation": {
-      "summary": "Repeated close readings increase confidence in the measurement.",
-      "hint": "Use the same tool and method each time."
+      "summary": "The zero mark is the correct starting point for a direct ruler measurement.",
+      "hint": "Accurate measuring starts at zero."
     },
     "qualitySchema": "production-v1"
   }

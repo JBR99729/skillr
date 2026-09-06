@@ -4,28 +4,28 @@ window.skillrTestQuestions = [
     "id": "ac9m3m01-t-001",
     "curriculumCode": "AC9M3M01",
     "bank": "test",
-    "skill": "choose metric unit",
+    "skill": "choose length unit",
     "printable": true,
     "type": "single",
-    "question": "In the lunch area, which unit is most suitable for measuring the school bag?",
-    "audioPrompt": "In the lunch area, which unit is most suitable for measuring the school bag?",
-    "visual": "In the lunch area: A school bag beside possible metric-unit labels.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In the lunch area: A school bag beside possible metric-unit labels.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3m01.svg#ac9m3m01-t-001\"></use></svg>",
+    "question": "At a school activity, choose the most sensible unit for measuring the length of a glue stick? using the benchmark.",
+    "audioPrompt": "At a school activity, choose the most sensible unit for measuring the length of a glue stick? using the benchmark.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3m01.svg#ac9m3m01-t-001",
-      "alt_text": "In the lunch area: A school bag beside possible metric-unit labels."
+      "type": "none"
     },
     "answers": [
-      "kilograms",
-      "grams",
+      "centimetres",
+      "metres",
+      "kilometres",
       "litres"
     ],
+    "difficulty": 1,
     "correct": 0,
-    "explanation": "The scale of a school bag is sensibly measured in kilograms.\nHint: Choose a unit that gives a useful-sized number.",
+    "explanation": "A glue stick is a small length, so centimetres give a useful measurement.\nHint: Match the unit to the attribute and size.",
     "structuredExplanation": {
-      "summary": "The scale of a school bag is sensibly measured in kilograms.",
-      "hint": "Choose a unit that gives a useful-sized number."
+      "summary": "A glue stick is a small length, so centimetres give a useful measurement.",
+      "hint": "Match the unit to the attribute and size."
     },
     "qualitySchema": "production-v1"
   },
@@ -33,28 +33,28 @@ window.skillrTestQuestions = [
     "id": "ac9m3m01-t-002",
     "curriculumCode": "AC9M3M01",
     "bank": "test",
-    "skill": "choose metric unit",
+    "skill": "choose length unit",
     "printable": true,
     "type": "single",
-    "question": "In the lunch area, which estimate is most reasonable for a school bag?",
-    "audioPrompt": "In the lunch area, which estimate is most reasonable for a school bag?",
-    "visual": "In the lunch area: A familiar school bag used as an estimation benchmark.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In the lunch area: A familiar school bag used as an estimation benchmark.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3m01.svg#ac9m3m01-t-002\"></use></svg>",
+    "question": "At a school activity, choose the most sensible unit for measuring the length of a school oval? with a partner.",
+    "audioPrompt": "At a school activity, choose the most sensible unit for measuring the length of a school oval? with a partner.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3m01.svg#ac9m3m01-t-002",
-      "alt_text": "In the lunch area: A familiar school bag used as an estimation benchmark."
+      "type": "none"
     },
     "answers": [
-      "4 g",
-      "4 kg",
-      "4 L"
+      "centimetres",
+      "metres",
+      "grams",
+      "millilitres"
     ],
+    "difficulty": 1,
     "correct": 1,
-    "explanation": "The estimate matches the familiar size or capacity of the object.\nHint: Picture the object beside a known benchmark.",
+    "explanation": "An oval is a long distance around a field, so metres are sensible.\nHint: Think about whether the object is small or large.",
     "structuredExplanation": {
-      "summary": "The estimate matches the familiar size or capacity of the object.",
-      "hint": "Picture the object beside a known benchmark."
+      "summary": "An oval is a long distance around a field, so metres are sensible.",
+      "hint": "Think about whether the object is small or large."
     },
     "qualitySchema": "production-v1"
   },
@@ -62,28 +62,28 @@ window.skillrTestQuestions = [
     "id": "ac9m3m01-t-003",
     "curriculumCode": "AC9M3M01",
     "bank": "test",
-    "skill": "choose metric unit",
+    "skill": "choose length unit",
     "printable": true,
     "type": "single",
-    "question": "In the lunch area, why is kilometres unsuitable for the length of a pencil?",
-    "audioPrompt": "In the lunch area, why is kilometres unsuitable for the length of a pencil?",
-    "visual": "In the lunch area: A pencil contrasted with a kilometre-scale distance.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In the lunch area: A pencil contrasted with a kilometre-scale distance.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3m01.svg#ac9m3m01-t-003\"></use></svg>",
+    "question": "At a school activity, a desk is about 1 metre wide. Which estimate is sensible for a classroom whiteboard? from the labelled information.",
+    "audioPrompt": "At a school activity, a desk is about 1 metre wide. Which estimate is sensible for a classroom whiteboard? from the labelled information.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3m01.svg#ac9m3m01-t-003",
-      "alt_text": "In the lunch area: A pencil contrasted with a kilometre-scale distance."
+      "type": "none"
     },
     "answers": [
-      "Kilometres measure mass",
-      "Pencils cannot be measured",
-      "The unit is far too large"
+      "3 centimetres",
+      "3 kilograms",
+      "3 metres",
+      "3 millilitres"
     ],
+    "difficulty": 1,
     "correct": 2,
-    "explanation": "A pencil is much shorter than one kilometre; centimetres are practical.\nHint: Compare the object with the size of one unit.",
+    "explanation": "A whiteboard is a few desk-widths across, so about 3 metres is sensible.\nHint: Use the desk width as a benchmark.",
     "structuredExplanation": {
-      "summary": "A pencil is much shorter than one kilometre; centimetres are practical.",
-      "hint": "Compare the object with the size of one unit."
+      "summary": "A whiteboard is a few desk-widths across, so about 3 metres is sensible.",
+      "hint": "Use the desk width as a benchmark."
     },
     "qualitySchema": "production-v1"
   },
@@ -91,28 +91,28 @@ window.skillrTestQuestions = [
     "id": "ac9m3m01-t-004",
     "curriculumCode": "AC9M3M01",
     "bank": "test",
-    "skill": "choose metric unit",
+    "skill": "choose length unit",
     "printable": true,
     "type": "single",
-    "question": "In the lunch area, which benchmark is closest to 1 metre?",
-    "audioPrompt": "In the lunch area, which benchmark is closest to 1 metre?",
-    "visual": "In the lunch area: A door handle shown approximately one metre above a floor.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In the lunch area: A door handle shown approximately one metre above a floor.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3m01.svg#ac9m3m01-t-004\"></use></svg>",
+    "question": "At a school activity, a pencil is about 15 centimetres long. Which estimate is sensible for a lunchbox length? before measuring.",
+    "audioPrompt": "At a school activity, a pencil is about 15 centimetres long. Which estimate is sensible for a lunchbox length? before measuring.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3m01.svg#ac9m3m01-t-004",
-      "alt_text": "In the lunch area: A door handle shown approximately one metre above a floor."
+      "type": "none"
     },
     "answers": [
-      "The height of a door handle",
-      "The thickness of a coin",
-      "A drive between towns"
+      "25 metres",
+      "25 litres",
+      "25 kilograms",
+      "25 centimetres"
     ],
-    "correct": 0,
-    "explanation": "A door handle is roughly one metre above the floor.\nHint: Use a familiar object you can visualise.",
+    "difficulty": 1,
+    "correct": 3,
+    "explanation": "A lunchbox is a little longer than a pencil, so 25 centimetres is sensible.\nHint: Compare with a familiar object.",
     "structuredExplanation": {
-      "summary": "A door handle is roughly one metre above the floor.",
-      "hint": "Use a familiar object you can visualise."
+      "summary": "A lunchbox is a little longer than a pencil, so 25 centimetres is sensible.",
+      "hint": "Compare with a familiar object."
     },
     "qualitySchema": "production-v1"
   },
@@ -120,28 +120,28 @@ window.skillrTestQuestions = [
     "id": "ac9m3m01-t-005",
     "curriculumCode": "AC9M3M01",
     "bank": "test",
-    "skill": "choose metric unit",
+    "skill": "choose mass unit",
     "printable": true,
     "type": "single",
-    "question": "In the lunch area, which unit measures capacity?",
-    "audioPrompt": "In the lunch area, which unit measures capacity?",
-    "visual": "In the lunch area: A container labelled with capacity units.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In the lunch area: A container labelled with capacity units.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3m01.svg#ac9m3m01-t-005\"></use></svg>",
+    "question": "At a school activity, choose the most sensible unit for measuring the mass of a strawberry? using the benchmark.",
+    "audioPrompt": "At a school activity, choose the most sensible unit for measuring the mass of a strawberry? using the benchmark.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3m01.svg#ac9m3m01-t-005",
-      "alt_text": "In the lunch area: A container labelled with capacity units."
+      "type": "none"
     },
     "answers": [
-      "centimetres",
-      "millilitres",
-      "kilograms"
+      "grams",
+      "kilograms",
+      "metres",
+      "litres"
     ],
-    "correct": 1,
-    "explanation": "Millilitres and litres measure how much a container holds.\nHint: Think about liquid containers.",
+    "difficulty": 1,
+    "correct": 0,
+    "explanation": "A strawberry has a small mass, so grams are sensible.\nHint: Mass uses grams or kilograms.",
     "structuredExplanation": {
-      "summary": "Millilitres and litres measure how much a container holds.",
-      "hint": "Think about liquid containers."
+      "summary": "A strawberry has a small mass, so grams are sensible.",
+      "hint": "Mass uses grams or kilograms."
     },
     "qualitySchema": "production-v1"
   },
@@ -149,28 +149,28 @@ window.skillrTestQuestions = [
     "id": "ac9m3m01-t-006",
     "curriculumCode": "AC9M3M01",
     "bank": "test",
-    "skill": "choose metric unit",
+    "skill": "choose mass unit",
     "printable": true,
     "type": "single",
-    "question": "In the lunch area, which unit measures mass?",
-    "audioPrompt": "In the lunch area, which unit measures mass?",
-    "visual": "In the lunch area: A school bag beside a mass scale.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In the lunch area: A school bag beside a mass scale.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3m01.svg#ac9m3m01-t-006\"></use></svg>",
+    "question": "At a school activity, choose the most sensible unit for measuring the mass of a full school bag? with a partner.",
+    "audioPrompt": "At a school activity, choose the most sensible unit for measuring the mass of a full school bag? with a partner.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3m01.svg#ac9m3m01-t-006",
-      "alt_text": "In the lunch area: A school bag beside a mass scale."
+      "type": "none"
     },
     "answers": [
-      "metres",
-      "millilitres",
-      "kilograms"
+      "grams",
+      "kilograms",
+      "centimetres",
+      "millilitres"
     ],
-    "correct": 2,
-    "explanation": "Grams and kilograms measure mass.\nHint: Think of a scale used to weigh objects.",
+    "difficulty": 1,
+    "correct": 1,
+    "explanation": "A full school bag is heavy enough to measure in kilograms.\nHint: Choose the larger mass unit for heavier objects.",
     "structuredExplanation": {
-      "summary": "Grams and kilograms measure mass.",
-      "hint": "Think of a scale used to weigh objects."
+      "summary": "A full school bag is heavy enough to measure in kilograms.",
+      "hint": "Choose the larger mass unit for heavier objects."
     },
     "qualitySchema": "production-v1"
   },
@@ -178,28 +178,28 @@ window.skillrTestQuestions = [
     "id": "ac9m3m01-t-007",
     "curriculumCode": "AC9M3M01",
     "bank": "test",
-    "skill": "choose metric unit",
+    "skill": "choose mass unit",
     "printable": true,
     "type": "single",
-    "question": "In the lunch area, an estimate says a classroom is 7 centimetres long. What is wrong?",
-    "audioPrompt": "In the lunch area, an estimate says a classroom is 7 centimetres long. What is wrong?",
-    "visual": "In the lunch area: A classroom compared with a very short seven-centimetre measure.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In the lunch area: A classroom compared with a very short seven-centimetre measure.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3m01.svg#ac9m3m01-t-007\"></use></svg>",
+    "question": "At a school activity, a can of beans is about 400 grams. Which estimate is sensible for an apple? from the labelled information.",
+    "audioPrompt": "At a school activity, a can of beans is about 400 grams. Which estimate is sensible for an apple? from the labelled information.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3m01.svg#ac9m3m01-t-007",
-      "alt_text": "In the lunch area: A classroom compared with a very short seven-centimetre measure."
+      "type": "none"
     },
     "answers": [
-      "Centimetres are too small for the room",
-      "Classrooms have no length",
-      "Seven is not a number"
+      "150 kilograms",
+      "150 metres",
+      "150 grams",
+      "150 litres"
     ],
-    "correct": 0,
-    "explanation": "A room is better measured in metres.\nHint: Check whether the unit fits the object's scale.",
+    "difficulty": 1,
+    "correct": 2,
+    "explanation": "An apple is lighter than a can of beans, so 150 grams is sensible.\nHint: Use the known mass to judge the estimate.",
     "structuredExplanation": {
-      "summary": "A room is better measured in metres.",
-      "hint": "Check whether the unit fits the object's scale."
+      "summary": "An apple is lighter than a can of beans, so 150 grams is sensible.",
+      "hint": "Use the known mass to judge the estimate."
     },
     "qualitySchema": "production-v1"
   },
@@ -207,28 +207,28 @@ window.skillrTestQuestions = [
     "id": "ac9m3m01-t-008",
     "curriculumCode": "AC9M3M01",
     "bank": "test",
-    "skill": "choose metric unit",
+    "skill": "choose mass unit",
     "printable": true,
     "type": "single",
-    "question": "In the lunch area, why estimate before measuring?",
-    "audioPrompt": "In the lunch area, why estimate before measuring?",
-    "visual": "In the lunch area: A three-step measurement routine.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In the lunch area: A three-step measurement routine.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3m01.svg#ac9m3m01-t-008\"></use></svg>",
+    "question": "At a school activity, a bag of rice is labelled 5 kg. Which object would also be measured in kilograms? before measuring.",
+    "audioPrompt": "At a school activity, a bag of rice is labelled 5 kg. Which object would also be measured in kilograms? before measuring.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3m01.svg#ac9m3m01-t-008",
-      "alt_text": "In the lunch area: A three-step measurement routine."
+      "type": "none"
     },
     "answers": [
-      "To replace measuring every time",
-      "To predict a sensible range and notice errors",
-      "To force the exact answer"
+      "a paper clip",
+      "a sip of water",
+      "a pencil line",
+      "a small dog"
     ],
-    "correct": 1,
-    "explanation": "An estimate provides a reasonableness check for the measured result.\nHint: Use a familiar benchmark first.",
+    "difficulty": 1,
+    "correct": 3,
+    "explanation": "A small dog has a mass large enough for kilograms.\nHint: Kilograms suit heavier masses.",
     "structuredExplanation": {
-      "summary": "An estimate provides a reasonableness check for the measured result.",
-      "hint": "Use a familiar benchmark first."
+      "summary": "A small dog has a mass large enough for kilograms.",
+      "hint": "Kilograms suit heavier masses."
     },
     "qualitySchema": "production-v1"
   },
@@ -236,28 +236,28 @@ window.skillrTestQuestions = [
     "id": "ac9m3m01-t-009",
     "curriculumCode": "AC9M3M01",
     "bank": "test",
-    "skill": "choose metric unit",
+    "skill": "choose capacity unit",
     "printable": true,
     "type": "single",
-    "question": "At the science table, which unit is most suitable for measuring the playground?",
-    "audioPrompt": "At the science table, which unit is most suitable for measuring the playground?",
-    "visual": "At the science table: A playground beside possible metric-unit labels.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the science table: A playground beside possible metric-unit labels.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3m01.svg#ac9m3m01-t-009\"></use></svg>",
+    "question": "At a school activity, choose the most sensible unit for measuring the capacity of a water bottle? using the benchmark.",
+    "audioPrompt": "At a school activity, choose the most sensible unit for measuring the capacity of a water bottle? using the benchmark.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3m01.svg#ac9m3m01-t-009",
-      "alt_text": "At the science table: A playground beside possible metric-unit labels."
+      "type": "none"
     },
     "answers": [
-      "millimetres",
-      "kilograms",
-      "metres"
+      "millilitres",
+      "grams",
+      "metres",
+      "kilometres"
     ],
-    "correct": 2,
-    "explanation": "The scale of a playground is sensibly measured in metres.\nHint: Choose a unit that gives a useful-sized number.",
+    "difficulty": 1,
+    "correct": 0,
+    "explanation": "A water bottle holds liquid, and millilitres suit a small container.\nHint: Capacity is how much a container holds.",
     "structuredExplanation": {
-      "summary": "The scale of a playground is sensibly measured in metres.",
-      "hint": "Choose a unit that gives a useful-sized number."
+      "summary": "A water bottle holds liquid, and millilitres suit a small container.",
+      "hint": "Capacity is how much a container holds."
     },
     "qualitySchema": "production-v1"
   },
@@ -265,28 +265,28 @@ window.skillrTestQuestions = [
     "id": "ac9m3m01-t-010",
     "curriculumCode": "AC9M3M01",
     "bank": "test",
-    "skill": "choose metric unit",
+    "skill": "choose capacity unit",
     "printable": true,
     "type": "single",
-    "question": "At the science table, which estimate is most reasonable for a playground?",
-    "audioPrompt": "At the science table, which estimate is most reasonable for a playground?",
-    "visual": "At the science table: A familiar playground used as an estimation benchmark.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the science table: A familiar playground used as an estimation benchmark.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3m01.svg#ac9m3m01-t-010\"></use></svg>",
+    "question": "At a school activity, choose the most sensible unit for measuring the capacity of a bucket? with a partner.",
+    "audioPrompt": "At a school activity, choose the most sensible unit for measuring the capacity of a bucket? with a partner.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3m01.svg#ac9m3m01-t-010",
-      "alt_text": "At the science table: A familiar playground used as an estimation benchmark."
+      "type": "none"
     },
     "answers": [
-      "30 m",
-      "30 mm",
-      "30 kg"
+      "centimetres",
+      "litres",
+      "grams",
+      "kilograms"
     ],
-    "correct": 0,
-    "explanation": "The estimate matches the familiar size or capacity of the object.\nHint: Picture the object beside a known benchmark.",
+    "difficulty": 1,
+    "correct": 1,
+    "explanation": "A bucket holds several litres of liquid.\nHint: Choose litres for larger containers.",
     "structuredExplanation": {
-      "summary": "The estimate matches the familiar size or capacity of the object.",
-      "hint": "Picture the object beside a known benchmark."
+      "summary": "A bucket holds several litres of liquid.",
+      "hint": "Choose litres for larger containers."
     },
     "qualitySchema": "production-v1"
   },
@@ -294,28 +294,28 @@ window.skillrTestQuestions = [
     "id": "ac9m3m01-t-011",
     "curriculumCode": "AC9M3M01",
     "bank": "test",
-    "skill": "choose metric unit",
+    "skill": "choose capacity unit",
     "printable": true,
     "type": "single",
-    "question": "At the science table, why is kilometres unsuitable for the length of a pencil?",
-    "audioPrompt": "At the science table, why is kilometres unsuitable for the length of a pencil?",
-    "visual": "At the science table: A pencil contrasted with a kilometre-scale distance.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the science table: A pencil contrasted with a kilometre-scale distance.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3m01.svg#ac9m3m01-t-011\"></use></svg>",
+    "question": "At a school activity, a mug holds about 250 mL. Which estimate is sensible for a small juice box? from the labelled information.",
+    "audioPrompt": "At a school activity, a mug holds about 250 mL. Which estimate is sensible for a small juice box? from the labelled information.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3m01.svg#ac9m3m01-t-011",
-      "alt_text": "At the science table: A pencil contrasted with a kilometre-scale distance."
+      "type": "none"
     },
     "answers": [
-      "Kilometres measure mass",
-      "The unit is far too large",
-      "Pencils cannot be measured"
+      "200 L",
+      "200 kg",
+      "200 mL",
+      "200 m"
     ],
-    "correct": 1,
-    "explanation": "A pencil is much shorter than one kilometre; centimetres are practical.\nHint: Compare the object with the size of one unit.",
+    "difficulty": 1,
+    "correct": 2,
+    "explanation": "A juice box has a capacity close to a mug, so 200 mL is sensible.\nHint: Compare the container with the benchmark.",
     "structuredExplanation": {
-      "summary": "A pencil is much shorter than one kilometre; centimetres are practical.",
-      "hint": "Compare the object with the size of one unit."
+      "summary": "A juice box has a capacity close to a mug, so 200 mL is sensible.",
+      "hint": "Compare the container with the benchmark."
     },
     "qualitySchema": "production-v1"
   },
@@ -323,28 +323,28 @@ window.skillrTestQuestions = [
     "id": "ac9m3m01-t-012",
     "curriculumCode": "AC9M3M01",
     "bank": "test",
-    "skill": "choose metric unit",
+    "skill": "choose capacity unit",
     "printable": true,
     "type": "single",
-    "question": "At the science table, which benchmark is closest to 1 metre?",
-    "audioPrompt": "At the science table, which benchmark is closest to 1 metre?",
-    "visual": "At the science table: A door handle shown approximately one metre above a floor.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the science table: A door handle shown approximately one metre above a floor.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3m01.svg#ac9m3m01-t-012\"></use></svg>",
+    "question": "At a school activity, a bathtub holds much more than a cup. Which unit should be used for its capacity? before measuring.",
+    "audioPrompt": "At a school activity, a bathtub holds much more than a cup. Which unit should be used for its capacity? before measuring.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3m01.svg#ac9m3m01-t-012",
-      "alt_text": "At the science table: A door handle shown approximately one metre above a floor."
+      "type": "none"
     },
     "answers": [
-      "The thickness of a coin",
-      "A drive between towns",
-      "The height of a door handle"
+      "grams",
+      "centimetres",
+      "seconds",
+      "litres"
     ],
-    "correct": 2,
-    "explanation": "A door handle is roughly one metre above the floor.\nHint: Use a familiar object you can visualise.",
+    "difficulty": 1,
+    "correct": 3,
+    "explanation": "A bathtub is a large container for water, so litres are sensible.\nHint: Use a capacity unit for liquid containers.",
     "structuredExplanation": {
-      "summary": "A door handle is roughly one metre above the floor.",
-      "hint": "Use a familiar object you can visualise."
+      "summary": "A bathtub is a large container for water, so litres are sensible.",
+      "hint": "Use a capacity unit for liquid containers."
     },
     "qualitySchema": "production-v1"
   },
@@ -352,28 +352,28 @@ window.skillrTestQuestions = [
     "id": "ac9m3m01-t-013",
     "curriculumCode": "AC9M3M01",
     "bank": "test",
-    "skill": "choose metric unit",
+    "skill": "estimate with benchmark",
     "printable": true,
     "type": "single",
-    "question": "At the science table, which unit measures capacity?",
-    "audioPrompt": "At the science table, which unit measures capacity?",
-    "visual": "At the science table: A container labelled with capacity units.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the science table: A container labelled with capacity units.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3m01.svg#ac9m3m01-t-013\"></use></svg>",
+    "question": "At a school activity, a classroom door is about 2 metres high. Which estimate is sensible for a teacher's desk length? using the benchmark.",
+    "audioPrompt": "At a school activity, a classroom door is about 2 metres high. Which estimate is sensible for a teacher's desk length? using the benchmark.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3m01.svg#ac9m3m01-t-013",
-      "alt_text": "At the science table: A container labelled with capacity units."
+      "type": "none"
     },
     "answers": [
-      "millilitres",
-      "centimetres",
-      "kilograms"
+      "1 metre",
+      "1 kilometre",
+      "1 gram",
+      "1 millilitre"
     ],
+    "difficulty": 1,
     "correct": 0,
-    "explanation": "Millilitres and litres measure how much a container holds.\nHint: Think about liquid containers.",
+    "explanation": "A desk is shorter than a door but still close to a metre long.\nHint: Use the door height as a length benchmark.",
     "structuredExplanation": {
-      "summary": "Millilitres and litres measure how much a container holds.",
-      "hint": "Think about liquid containers."
+      "summary": "A desk is shorter than a door but still close to a metre long.",
+      "hint": "Use the door height as a length benchmark."
     },
     "qualitySchema": "production-v1"
   },
@@ -381,28 +381,28 @@ window.skillrTestQuestions = [
     "id": "ac9m3m01-t-014",
     "curriculumCode": "AC9M3M01",
     "bank": "test",
-    "skill": "choose metric unit",
+    "skill": "estimate with benchmark",
     "printable": true,
     "type": "single",
-    "question": "At the science table, which unit measures mass?",
-    "audioPrompt": "At the science table, which unit measures mass?",
-    "visual": "At the science table: A school bag beside a mass scale.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the science table: A school bag beside a mass scale.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3m01.svg#ac9m3m01-t-014\"></use></svg>",
+    "question": "At a school activity, a paper clip is about 3 cm long. Which estimate is sensible for an eraser? with a partner.",
+    "audioPrompt": "At a school activity, a paper clip is about 3 cm long. Which estimate is sensible for an eraser? with a partner.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3m01.svg#ac9m3m01-t-014",
-      "alt_text": "At the science table: A school bag beside a mass scale."
+      "type": "none"
     },
     "answers": [
-      "metres",
-      "kilograms",
-      "millilitres"
+      "5 m",
+      "5 cm",
+      "5 kg",
+      "5 L"
     ],
+    "difficulty": 1,
     "correct": 1,
-    "explanation": "Grams and kilograms measure mass.\nHint: Think of a scale used to weigh objects.",
+    "explanation": "An eraser is only a little longer than a paper clip, so 5 cm is sensible.\nHint: Choose a nearby length estimate.",
     "structuredExplanation": {
-      "summary": "Grams and kilograms measure mass.",
-      "hint": "Think of a scale used to weigh objects."
+      "summary": "An eraser is only a little longer than a paper clip, so 5 cm is sensible.",
+      "hint": "Choose a nearby length estimate."
     },
     "qualitySchema": "production-v1"
   },
@@ -410,28 +410,28 @@ window.skillrTestQuestions = [
     "id": "ac9m3m01-t-015",
     "curriculumCode": "AC9M3M01",
     "bank": "test",
-    "skill": "choose metric unit",
+    "skill": "estimate with benchmark",
     "printable": true,
     "type": "single",
-    "question": "At the science table, an estimate says a classroom is 7 centimetres long. What is wrong?",
-    "audioPrompt": "At the science table, an estimate says a classroom is 7 centimetres long. What is wrong?",
-    "visual": "At the science table: A classroom compared with a very short seven-centimetre measure.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the science table: A classroom compared with a very short seven-centimetre measure.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3m01.svg#ac9m3m01-t-015\"></use></svg>",
+    "question": "At a school activity, a litre bottle holds 1000 mL. Which estimate is sensible for a cup of water? from the labelled information.",
+    "audioPrompt": "At a school activity, a litre bottle holds 1000 mL. Which estimate is sensible for a cup of water? from the labelled information.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3m01.svg#ac9m3m01-t-015",
-      "alt_text": "At the science table: A classroom compared with a very short seven-centimetre measure."
+      "type": "none"
     },
     "answers": [
-      "Classrooms have no length",
-      "Seven is not a number",
-      "Centimetres are too small for the room"
+      "250 L",
+      "250 kg",
+      "250 mL",
+      "250 m"
     ],
+    "difficulty": 1,
     "correct": 2,
-    "explanation": "A room is better measured in metres.\nHint: Check whether the unit fits the object's scale.",
+    "explanation": "A cup holds about a quarter of a litre bottle.\nHint: Use the bottle as a capacity benchmark.",
     "structuredExplanation": {
-      "summary": "A room is better measured in metres.",
-      "hint": "Check whether the unit fits the object's scale."
+      "summary": "A cup holds about a quarter of a litre bottle.",
+      "hint": "Use the bottle as a capacity benchmark."
     },
     "qualitySchema": "production-v1"
   },
@@ -439,28 +439,28 @@ window.skillrTestQuestions = [
     "id": "ac9m3m01-t-016",
     "curriculumCode": "AC9M3M01",
     "bank": "test",
-    "skill": "choose metric unit",
+    "skill": "estimate with benchmark",
     "printable": true,
     "type": "single",
-    "question": "At the science table, why estimate before measuring?",
-    "audioPrompt": "At the science table, why estimate before measuring?",
-    "visual": "At the science table: A three-step measurement routine.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the science table: A three-step measurement routine.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3m01.svg#ac9m3m01-t-016\"></use></svg>",
+    "question": "At a school activity, a bag of flour is 1 kg. Which estimate is sensible for a packet of biscuits? before measuring.",
+    "audioPrompt": "At a school activity, a bag of flour is 1 kg. Which estimate is sensible for a packet of biscuits? before measuring.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3m01.svg#ac9m3m01-t-016",
-      "alt_text": "At the science table: A three-step measurement routine."
+      "type": "none"
     },
     "answers": [
-      "To predict a sensible range and notice errors",
-      "To replace measuring every time",
-      "To force the exact answer"
+      "250 kg",
+      "250 L",
+      "250 m",
+      "250 g"
     ],
-    "correct": 0,
-    "explanation": "An estimate provides a reasonableness check for the measured result.\nHint: Use a familiar benchmark first.",
+    "difficulty": 1,
+    "correct": 3,
+    "explanation": "A packet of biscuits is lighter than 1 kg, so a few hundred grams is sensible.\nHint: Think smaller than the kilogram benchmark.",
     "structuredExplanation": {
-      "summary": "An estimate provides a reasonableness check for the measured result.",
-      "hint": "Use a familiar benchmark first."
+      "summary": "A packet of biscuits is lighter than 1 kg, so a few hundred grams is sensible.",
+      "hint": "Think smaller than the kilogram benchmark."
     },
     "qualitySchema": "production-v1"
   }

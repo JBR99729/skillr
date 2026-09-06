@@ -37,7 +37,10 @@ validatePreModuleFlow({
   expectedQuestionCountsByCode: {
     AC9M3A01: { practice: 5, test: 5 },
     AC9M3A02: { practice: 5, test: 5 },
-    AC9M3A03: { practice: 5, test: 5 }
+    AC9M3A03: { practice: 5, test: 5 },
+    AC9M3M01: { practice: 5, test: 5 },
+    AC9M3M02: { practice: 5, test: 5 },
+    AC9M3M03: { practice: 5, test: 5 }
   },
   mobileChecks: [
     {
