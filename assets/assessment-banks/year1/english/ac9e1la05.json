@@ -1,1954 +1,1722 @@
 [
   {
-    "id": "AC9E1LA05-P-001",
+    "id": "ac9e1la05-er1-p-001",
     "subject": "english",
     "year_level": "Year 1",
     "curriculum_code": "AC9E1LA05",
     "bank": "practice",
-    "skill": "ac9e1la05_01_recognise",
-    "question": "Which response would correctly use a page number?",
-    "audio_prompt": "Which response would correctly use a page number?",
+    "skill": "print and screen organisation and navigation",
+    "question": "A book cover says 'Birds in Our Garden'. What does this title help you predict?",
+    "audio_prompt": "A book cover says 'Birds in Our Garden'. What does this title help you predict?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la05.svg#ac9e1la05-p-001",
-      "alt_text": "📖 Use a page number; 🔎 title; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "Page 8",
+        "text": "The book is about garden birds.",
         "is_correct": true
       },
       {
-        "text": "Weather — page 8",
+        "text": "The book is about cooking soup.",
         "is_correct": false
       },
       {
-        "text": "Page 9",
+        "text": "The book tells the time of day.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Page 8 This matches the task.",
-      "hint": "Always say what the feature helps the reader do."
-    },
-    "stage": "recognise"
-  },
-  {
-    "id": "AC9E1LA05-P-002",
-    "subject": "english",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9E1LA05",
-    "bank": "practice",
-    "skill": "ac9e1la05_02_recognise",
-    "question": "Which response would correctly match features and jobs?",
-    "audio_prompt": "Which response would correctly match features and jobs?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la05.svg#ac9e1la05-p-003",
-      "alt_text": "📖 Match features and jobs; 🔎 heading; ✅ choose with evidence"
-    },
-    "answers": [
-      {
-        "text": "Title ↔ whole text; page number ↔ section; Home ↔ main screen",
-        "is_correct": false
-      },
-      {
-        "text": "Title ↔ whole text; contents ↔ section; Home ↔ main screen",
-        "is_correct": false
-      },
-      {
-        "text": "Title ↔ whole text; heading ↔ section; Home ↔ main screen",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Title ↔ whole text; heading ↔ section; Home ↔ main screen This matches the task.",
-      "hint": "Title names the whole text; heading names a part."
-    },
-    "stage": "recognise"
-  },
-  {
-    "id": "AC9E1LA05-P-003",
-    "subject": "english",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9E1LA05",
-    "bank": "practice",
-    "skill": "ac9e1la05_03_recognise",
-    "question": "Which response would correctly navigate a mock book?",
-    "audio_prompt": "Which response would correctly navigate a mock book?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la05.svg#ac9e1la05-p-005",
-      "alt_text": "📖 Navigate a mock book; 🔎 contents; ✅ choose with evidence"
-    },
-    "answers": [
-      {
-        "text": "Animal homes",
-        "is_correct": false
-      },
-      {
-        "text": "Finds correct contents entry and turns/selects the matching page",
-        "is_correct": true
-      },
-      {
-        "text": "Ignore screen features.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Finds correct contents entry and turns/selects the matching page This matches the task.",
-      "hint": "Buttons, links and swipes also organise texts."
-    },
-    "stage": "recognise"
-  },
-  {
-    "id": "AC9E1LA05-P-004",
-    "subject": "english",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9E1LA05",
-    "bank": "practice",
-    "skill": "ac9e1la05_04_recognise",
-    "question": "Which response would correctly choose a screen control?",
-    "audio_prompt": "Which response would correctly choose a screen control?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la05.svg#ac9e1la05-p-007",
-      "alt_text": "📖 Choose a screen control; 🔎 page number; ✅ choose with evidence"
-    },
-    "answers": [
-      {
-        "text": "Next button, right arrow, swipe as instructed or suitable voice command",
-        "is_correct": true
-      },
-      {
-        "text": "Name the feature but not its job.",
-        "is_correct": false
-      },
-      {
-        "text": "Confuse title and heading.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Next button, right arrow, swipe as instructed or suitable voice command This matches the task.",
-      "hint": "Always say what the feature helps the reader do."
-    },
-    "stage": "recognise"
-  },
-  {
-    "id": "AC9E1LA05-P-005",
-    "subject": "english",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9E1LA05",
-    "bank": "practice",
-    "skill": "ac9e1la05_05_recognise",
-    "question": "Which response would correctly order print navigation?",
-    "audio_prompt": "Which response would correctly order print navigation?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la05.svg#ac9e1la05-p-009",
-      "alt_text": "📖 Order print navigation; 🔎 button; ✅ choose with evidence"
-    },
-    "answers": [
-      {
-        "text": "turn to listed page → find topic → scan contents → Open book",
-        "is_correct": false
-      },
-      {
-        "text": "Confuse title and heading.",
-        "is_correct": false
-      },
-      {
-        "text": "Open book → scan contents → find topic → turn to listed page",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Open book → scan contents → find topic → turn to listed page This matches the task.",
-      "hint": "Title names the whole text; heading names a part."
-    },
-    "stage": "recognise"
-  },
-  {
-    "id": "AC9E1LA05-P-006",
-    "subject": "english",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9E1LA05",
-    "bank": "practice",
-    "skill": "ac9e1la05_06_recognise",
-    "question": "Which response would correctly draw a useful page?",
-    "audio_prompt": "Which response would correctly draw a useful page?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la05.svg#ac9e1la05-p-011",
-      "alt_text": "📖 Draw a useful page; 🔎 title; ✅ choose with evidence"
-    },
-    "answers": [
-      {
-        "text": "Ignore screen features.",
-        "is_correct": false
-      },
-      {
-        "text": "Includes all four features placed so their roles are clear",
-        "is_correct": true
-      },
-      {
-        "text": "Name the feature but not its job.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Includes all four features placed so their roles are clear This matches the task.",
-      "hint": "Buttons, links and swipes also organise texts."
-    },
-    "stage": "recognise"
-  },
-  {
-    "id": "AC9E1LA05-P-007",
-    "subject": "english",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9E1LA05",
-    "bank": "practice",
-    "skill": "ac9e1la05_07_recognise",
-    "question": "Why is the heading 'What frogs eat' more useful than the heading 'Things'?",
-    "audio_prompt": "Why is the heading 'What frogs eat' more useful than the heading 'Things'?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la05.svg#ac9e1la05-p-013",
-      "alt_text": "📖 Explain heading value; 🔎 heading; ✅ choose with evidence"
-    },
-    "answers": [
-      {
-        "text": "It names the section topic precisely, helping readers predict and locate information",
-        "is_correct": true
-      },
-      {
-        "text": "What frogs eat",
-        "is_correct": false
-      },
-      {
-        "text": "Things",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "It names the section topic precisely, helping readers predict and locate information This matches the task.",
-      "hint": "Always say what the feature helps the reader do."
-    },
-    "stage": "recognise"
-  },
-  {
-    "id": "AC9E1LA05-P-008",
-    "subject": "english",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9E1LA05",
-    "bank": "practice",
-    "skill": "ac9e1la05_08_recognise",
-    "question": "Which response would correctly compare print and screen?",
-    "audio_prompt": "Which response would correctly compare print and screen?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la05.svg#ac9e1la05-p-015",
-      "alt_text": "📖 Compare print and screen; 🔎 contents; ✅ choose with evidence"
-    },
-    "answers": [
-      {
-        "text": "Confuse title and heading.",
-        "is_correct": false
-      },
-      {
-        "text": "Ignore screen features.",
-        "is_correct": false
-      },
-      {
-        "text": "Shared example title/image/heading; screen example button/link/swipe/voice command",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Shared example title/image/heading; screen example button/link/swipe/voice command This matches the task.",
-      "hint": "Title names the whole text; heading names a part."
-    },
-    "stage": "recognise"
-  },
-  {
-    "id": "AC9E1LA05-P-009",
-    "subject": "english",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9E1LA05",
-    "bank": "practice",
-    "skill": "ac9e1la05_09_recognise",
-    "question": "Which response would correctly follow a link label?",
-    "audio_prompt": "Which response would correctly follow a link label?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la05.svg#ac9e1la05-p-017",
-      "alt_text": "📖 Follow a link label; 🔎 page number; ✅ choose with evidence"
-    },
-    "answers": [
-      {
-        "text": "Food",
-        "is_correct": false
-      },
-      {
-        "text": "Habitat",
-        "is_correct": true
-      },
-      {
-        "text": "Games",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Habitat This matches the task.",
-      "hint": "Buttons, links and swipes also organise texts."
-    },
-    "stage": "recognise"
-  },
-  {
-    "id": "AC9E1LA05-P-010",
-    "subject": "english",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9E1LA05",
-    "bank": "practice",
-    "skill": "ac9e1la05_10_recognise",
-    "question": "Which response would correctly match print and digital tools?",
-    "audio_prompt": "Which response would correctly match print and digital tools?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la05.svg#ac9e1la05-p-019",
-      "alt_text": "📖 Match print and digital tools; 🔎 button; ✅ choose with evidence"
-    },
-    "answers": [
-      {
-        "text": "Each feature matches its navigation function",
-        "is_correct": true
-      },
-      {
-        "text": "Name the feature but not its job.",
-        "is_correct": false
-      },
-      {
-        "text": "Confuse title and heading.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Each feature matches its navigation function This matches the task.",
-      "hint": "Always say what the feature helps the reader do."
-    },
-    "stage": "recognise"
-  },
-  {
-    "id": "AC9E1LA05-P-011",
-    "subject": "english",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9E1LA05",
-    "bank": "practice",
-    "skill": "ac9e1la05_01_explain",
-    "question": "Which tip would help you use a page number?",
-    "audio_prompt": "Which tip would help you use a page number?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la05.svg#ac9e1la05-p-002",
-      "alt_text": "🧠 Use a page number; ➡️ Look at feature; 💡 helpful strategy"
-    },
-    "answers": [
-      {
-        "text": "Confuse title and heading.",
-        "is_correct": false
-      },
-      {
-        "text": "Always say what the feature helps the reader do.",
-        "is_correct": true
-      },
-      {
-        "text": "Ignore screen features.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Always say what the feature helps the reader do.",
-      "hint": "Always say what the feature helps the reader do."
-    },
-    "stage": "explain"
-  },
-  {
-    "id": "AC9E1LA05-P-012",
-    "subject": "english",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9E1LA05",
-    "bank": "practice",
-    "skill": "ac9e1la05_02_explain",
-    "question": "Which tip would help you match features and jobs?",
-    "audio_prompt": "Which tip would help you match features and jobs?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la05.svg#ac9e1la05-p-004",
-      "alt_text": "🧠 Match features and jobs; ➡️ Name it; 💡 helpful strategy"
-    },
-    "answers": [
-      {
-        "text": "Use this routine: Look at feature → Name it → Say its job → Use it.",
-        "is_correct": true
-      },
-      {
-        "text": "Ignore screen features.",
-        "is_correct": false
-      },
-      {
-        "text": "Name the feature but not its job.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Use this routine: Look at feature → Name it → Say its job → Use it.",
-      "hint": "Title names the whole text; heading names a part."
-    },
-    "stage": "explain"
-  },
-  {
-    "id": "AC9E1LA05-P-013",
-    "subject": "english",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9E1LA05",
-    "bank": "practice",
-    "skill": "ac9e1la05_03_explain",
-    "question": "Which tip would help you navigate a mock book?",
-    "audio_prompt": "Which tip would help you navigate a mock book?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la05.svg#ac9e1la05-p-006",
-      "alt_text": "🧠 Navigate a mock book; ➡️ Say its job; 💡 helpful strategy"
-    },
-    "answers": [
-      {
-        "text": "Name the feature but not its job.",
-        "is_correct": false
-      },
-      {
-        "text": "Confuse title and heading.",
-        "is_correct": false
-      },
-      {
-        "text": "Look for contents and check the whole example.",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Look for contents and check the whole example.",
-      "hint": "Buttons, links and swipes also organise texts."
-    },
-    "stage": "explain"
-  },
-  {
-    "id": "AC9E1LA05-P-014",
-    "subject": "english",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9E1LA05",
-    "bank": "practice",
-    "skill": "ac9e1la05_04_explain",
-    "question": "Which tip would help you choose a screen control?",
-    "audio_prompt": "Which tip would help you choose a screen control?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la05.svg#ac9e1la05-p-008",
-      "alt_text": "🧠 Choose a screen control; ➡️ Use it; 💡 helpful strategy"
-    },
-    "answers": [
-      {
-        "text": "Confuse title and heading.",
-        "is_correct": false
-      },
-      {
-        "text": "Check that you can navigate a text.",
-        "is_correct": true
-      },
-      {
-        "text": "Ignore screen features.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Check that you can navigate a text.",
-      "hint": "Always say what the feature helps the reader do."
-    },
-    "stage": "explain"
-  },
-  {
-    "id": "AC9E1LA05-P-015",
-    "subject": "english",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9E1LA05",
-    "bank": "practice",
-    "skill": "ac9e1la05_05_explain",
-    "question": "Which tip would help you order print navigation?",
-    "audio_prompt": "Which tip would help you order print navigation?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la05.svg#ac9e1la05-p-010",
-      "alt_text": "🧠 Order print navigation; ➡️ Look at feature; 💡 helpful strategy"
-    },
-    "answers": [
-      {
-        "text": "Sequencing navigation in a print information text.",
-        "is_correct": true
-      },
-      {
-        "text": "Ignore screen features.",
-        "is_correct": false
-      },
-      {
-        "text": "Name the feature but not its job.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Sequencing navigation in a print information text.",
-      "hint": "Title names the whole text; heading names a part."
-    },
-    "stage": "explain"
-  },
-  {
-    "id": "AC9E1LA05-P-016",
-    "subject": "english",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9E1LA05",
-    "bank": "practice",
-    "skill": "ac9e1la05_06_explain",
-    "question": "Which tip would help you draw a useful page?",
-    "audio_prompt": "Which tip would help you draw a useful page?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la05.svg#ac9e1la05-p-012",
-      "alt_text": "🧠 Draw a useful page; ➡️ Name it; 💡 helpful strategy"
-    },
-    "answers": [
-      {
-        "text": "Name the feature but not its job.",
-        "is_correct": false
-      },
-      {
-        "text": "Confuse title and heading.",
-        "is_correct": false
-      },
-      {
-        "text": "Buttons, links and swipes also organise texts.",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Buttons, links and swipes also organise texts.",
-      "hint": "Buttons, links and swipes also organise texts."
-    },
-    "stage": "explain"
-  },
-  {
-    "id": "AC9E1LA05-P-017",
-    "subject": "english",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9E1LA05",
-    "bank": "practice",
-    "skill": "ac9e1la05_07_explain",
-    "question": "Which tip would help you explain heading value?",
-    "audio_prompt": "Which tip would help you explain heading value?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la05.svg#ac9e1la05-p-014",
-      "alt_text": "🧠 Explain heading value; ➡️ Say its job; 💡 helpful strategy"
-    },
-    "answers": [
-      {
-        "text": "Confuse title and heading.",
-        "is_correct": false
-      },
-      {
-        "text": "Use this routine: Look at feature → Name it → Say its job → Use it.",
-        "is_correct": true
-      },
-      {
-        "text": "Ignore screen features.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Use this routine: Look at feature → Name it → Say its job → Use it.",
-      "hint": "Always say what the feature helps the reader do."
-    },
-    "stage": "explain"
-  },
-  {
-    "id": "AC9E1LA05-P-018",
-    "subject": "english",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9E1LA05",
-    "bank": "practice",
-    "skill": "ac9e1la05_08_explain",
-    "question": "Which tip would help you compare print and screen?",
-    "audio_prompt": "Which tip would help you compare print and screen?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la05.svg#ac9e1la05-p-016",
-      "alt_text": "🧠 Compare print and screen; ➡️ Use it; 💡 helpful strategy"
-    },
-    "answers": [
-      {
-        "text": "Look for contents and check the whole example.",
-        "is_correct": true
-      },
-      {
-        "text": "Ignore screen features.",
-        "is_correct": false
-      },
-      {
-        "text": "Name the feature but not its job.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Look for contents and check the whole example.",
-      "hint": "Title names the whole text; heading names a part."
-    },
-    "stage": "explain"
-  },
-  {
-    "id": "AC9E1LA05-P-019",
-    "subject": "english",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9E1LA05",
-    "bank": "practice",
-    "skill": "ac9e1la05_09_explain",
-    "question": "Which tip would help you follow a link label?",
-    "audio_prompt": "Which tip would help you follow a link label?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la05.svg#ac9e1la05-p-018",
-      "alt_text": "🧠 Follow a link label; ➡️ Look at feature; 💡 helpful strategy"
-    },
-    "answers": [
-      {
-        "text": "Name the feature but not its job.",
-        "is_correct": false
-      },
-      {
-        "text": "Confuse title and heading.",
-        "is_correct": false
-      },
-      {
-        "text": "Check that you can navigate a text.",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Check that you can navigate a text.",
-      "hint": "Buttons, links and swipes also organise texts."
-    },
-    "stage": "explain"
-  },
-  {
-    "id": "AC9E1LA05-P-020",
-    "subject": "english",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9E1LA05",
-    "bank": "practice",
-    "skill": "ac9e1la05_10_explain",
-    "question": "Which tip would help you match print and digital tools?",
-    "audio_prompt": "Which tip would help you match print and digital tools?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la05.svg#ac9e1la05-p-020",
-      "alt_text": "🧠 Match print and digital tools; ➡️ Name it; 💡 helpful strategy"
-    },
-    "answers": [
-      {
-        "text": "Confuse title and heading.",
-        "is_correct": false
-      },
-      {
-        "text": "Interpreting multimodal navigation controls.",
-        "is_correct": true
-      },
-      {
-        "text": "Ignore screen features.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Interpreting multimodal navigation controls.",
-      "hint": "Always say what the feature helps the reader do."
-    },
-    "stage": "explain"
-  },
-  {
-    "id": "AC9E1LA05-P-021",
-    "subject": "english",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9E1LA05",
-    "bank": "practice",
-    "skill": "ac9e1la05_01_discriminate",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audio_prompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la05.svg#ac9e1la05-p-001",
-      "alt_text": "📖 Use a page number; 🔎 title; ✅ choose with evidence"
-    },
-    "answers": [
-      {
-        "text": "Weather — page 8",
-        "is_correct": true
-      },
-      {
-        "text": "Page 8",
-        "is_correct": false
-      },
-      {
-        "text": "Always say what the feature helps the reader do.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Weather — page 8 is the mix-up. Always say what the feature helps the reader do.",
-      "hint": "Always say what the feature helps the reader do."
-    },
-    "stage": "discriminate"
-  },
-  {
-    "id": "AC9E1LA05-P-022",
-    "subject": "english",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9E1LA05",
-    "bank": "practice",
-    "skill": "ac9e1la05_02_discriminate",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audio_prompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la05.svg#ac9e1la05-p-003",
-      "alt_text": "📖 Match features and jobs; 🔎 heading; ✅ choose with evidence"
-    },
-    "answers": [
-      {
-        "text": "Title ↔ whole text; heading ↔ section; Home ↔ main screen",
-        "is_correct": false
-      },
-      {
-        "text": "Title ↔ whole text; page number ↔ section; Home ↔ main screen",
-        "is_correct": true
-      },
-      {
-        "text": "Use this routine: Look at feature → Name it → Say its job → Use it.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Title ↔ whole text; page number ↔ section; Home ↔ main screen is the mix-up. Title names the whole text; heading names a part.",
-      "hint": "Title names the whole text; heading names a part."
-    },
-    "stage": "discriminate"
-  },
-  {
-    "id": "AC9E1LA05-P-023",
-    "subject": "english",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9E1LA05",
-    "bank": "practice",
-    "skill": "ac9e1la05_03_discriminate",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audio_prompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la05.svg#ac9e1la05-p-005",
-      "alt_text": "📖 Navigate a mock book; 🔎 contents; ✅ choose with evidence"
-    },
-    "answers": [
-      {
-        "text": "Finds correct contents entry and turns/selects the matching page",
-        "is_correct": false
-      },
-      {
-        "text": "Look for contents and check the whole example.",
-        "is_correct": false
-      },
-      {
-        "text": "Animal homes",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Animal homes is the mix-up. Buttons, links and swipes also organise texts.",
-      "hint": "Buttons, links and swipes also organise texts."
-    },
-    "stage": "discriminate"
-  },
-  {
-    "id": "AC9E1LA05-P-024",
-    "subject": "english",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9E1LA05",
-    "bank": "practice",
-    "skill": "ac9e1la05_04_discriminate",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audio_prompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la05.svg#ac9e1la05-p-007",
-      "alt_text": "📖 Choose a screen control; 🔎 page number; ✅ choose with evidence"
-    },
-    "answers": [
-      {
-        "text": "Name the feature but not its job.",
-        "is_correct": true
-      },
-      {
-        "text": "Next button, right arrow, swipe as instructed or suitable voice command",
-        "is_correct": false
-      },
-      {
-        "text": "Check that you can navigate a text.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Name the feature but not its job. is the mix-up. Always say what the feature helps the reader do.",
-      "hint": "Always say what the feature helps the reader do."
-    },
-    "stage": "discriminate"
-  },
-  {
-    "id": "AC9E1LA05-P-025",
-    "subject": "english",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9E1LA05",
-    "bank": "practice",
-    "skill": "ac9e1la05_05_discriminate",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audio_prompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la05.svg#ac9e1la05-p-009",
-      "alt_text": "📖 Order print navigation; 🔎 button; ✅ choose with evidence"
-    },
-    "answers": [
-      {
-        "text": "Open book → scan contents → find topic → turn to listed page",
-        "is_correct": false
-      },
-      {
-        "text": "turn to listed page → find topic → scan contents → Open book",
-        "is_correct": true
-      },
-      {
-        "text": "Sequencing navigation in a print information text.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "turn to listed page → find topic → scan contents → Open book is the mix-up. Title names the whole text; heading names a part.",
-      "hint": "Title names the whole text; heading names a part."
-    },
-    "stage": "discriminate"
-  },
-  {
-    "id": "AC9E1LA05-P-026",
-    "subject": "english",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9E1LA05",
-    "bank": "practice",
-    "skill": "ac9e1la05_06_discriminate",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audio_prompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la05.svg#ac9e1la05-p-011",
-      "alt_text": "📖 Draw a useful page; 🔎 title; ✅ choose with evidence"
-    },
-    "answers": [
-      {
-        "text": "Includes all four features placed so their roles are clear",
-        "is_correct": false
-      },
-      {
-        "text": "Buttons, links and swipes also organise texts.",
-        "is_correct": false
-      },
-      {
-        "text": "Ignore screen features.",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Ignore screen features. is the mix-up. Buttons, links and swipes also organise texts.",
-      "hint": "Buttons, links and swipes also organise texts."
-    },
-    "stage": "discriminate"
-  },
-  {
-    "id": "AC9E1LA05-P-027",
-    "subject": "english",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9E1LA05",
-    "bank": "practice",
-    "skill": "ac9e1la05_07_discriminate",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audio_prompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la05.svg#ac9e1la05-p-013",
-      "alt_text": "📖 Explain heading value; 🔎 heading; ✅ choose with evidence"
-    },
-    "answers": [
-      {
-        "text": "What frogs eat",
-        "is_correct": true
-      },
-      {
-        "text": "It names the section topic precisely, helping readers predict and locate information",
-        "is_correct": false
-      },
-      {
-        "text": "Use this routine: Look at feature → Name it → Say its job → Use it.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "What frogs eat is the mix-up. Always say what the feature helps the reader do.",
-      "hint": "Always say what the feature helps the reader do."
-    },
-    "stage": "discriminate"
-  },
-  {
-    "id": "AC9E1LA05-P-028",
-    "subject": "english",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9E1LA05",
-    "bank": "practice",
-    "skill": "ac9e1la05_08_discriminate",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audio_prompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la05.svg#ac9e1la05-p-015",
-      "alt_text": "📖 Compare print and screen; 🔎 contents; ✅ choose with evidence"
-    },
-    "answers": [
-      {
-        "text": "Shared example title/image/heading; screen example button/link/swipe/voice command",
-        "is_correct": false
-      },
-      {
-        "text": "Confuse title and heading.",
-        "is_correct": true
-      },
-      {
-        "text": "Look for contents and check the whole example.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Confuse title and heading. is the mix-up. Title names the whole text; heading names a part.",
-      "hint": "Title names the whole text; heading names a part."
-    },
-    "stage": "discriminate"
-  },
-  {
-    "id": "AC9E1LA05-P-029",
-    "subject": "english",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9E1LA05",
-    "bank": "practice",
-    "skill": "ac9e1la05_09_discriminate",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audio_prompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la05.svg#ac9e1la05-p-017",
-      "alt_text": "📖 Follow a link label; 🔎 page number; ✅ choose with evidence"
-    },
-    "answers": [
-      {
-        "text": "Habitat",
-        "is_correct": false
-      },
-      {
-        "text": "Check that you can navigate a text.",
-        "is_correct": false
-      },
-      {
-        "text": "Food",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Food is the mix-up. Buttons, links and swipes also organise texts.",
-      "hint": "Buttons, links and swipes also organise texts."
-    },
-    "stage": "discriminate"
-  },
-  {
-    "id": "AC9E1LA05-P-030",
-    "subject": "english",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9E1LA05",
-    "bank": "practice",
-    "skill": "ac9e1la05_10_discriminate",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audio_prompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la05.svg#ac9e1la05-p-019",
-      "alt_text": "📖 Match print and digital tools; 🔎 button; ✅ choose with evidence"
-    },
-    "answers": [
-      {
-        "text": "Name the feature but not its job.",
-        "is_correct": true
-      },
-      {
-        "text": "Each feature matches its navigation function",
-        "is_correct": false
-      },
-      {
-        "text": "Interpreting multimodal navigation controls.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Name the feature but not its job. is the mix-up. Always say what the feature helps the reader do.",
-      "hint": "Always say what the feature helps the reader do."
-    },
-    "stage": "discriminate"
-  },
-  {
-    "id": "AC9E1LA05-P-031",
-    "subject": "english",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9E1LA05",
-    "bank": "practice",
-    "skill": "ac9e1la05_01_apply",
-    "question": "Which choice would best use this skill in a new example?",
-    "audio_prompt": "Which choice would best use this skill in a new example?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la05.svg#ac9e1la05-p-001",
-      "alt_text": "📖 Use a page number; 🔎 title; ✅ choose with evidence"
-    },
-    "answers": [
-      {
-        "text": "Weather — page 8",
-        "is_correct": false
-      },
-      {
-        "text": "Page 8",
-        "is_correct": true
-      },
-      {
-        "text": "Page 9",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Page 8 uses the skill correctly. Always say what the feature helps the reader do.",
-      "hint": "Always say what the feature helps the reader do."
-    },
-    "stage": "apply"
-  },
-  {
-    "id": "AC9E1LA05-P-032",
-    "subject": "english",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9E1LA05",
-    "bank": "practice",
-    "skill": "ac9e1la05_02_apply",
-    "question": "Which choice would best use this skill in a new example?",
-    "audio_prompt": "Which choice would best use this skill in a new example?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la05.svg#ac9e1la05-p-003",
-      "alt_text": "📖 Match features and jobs; 🔎 heading; ✅ choose with evidence"
-    },
-    "answers": [
-      {
-        "text": "Title ↔ whole text; page number ↔ section; Home ↔ main screen",
-        "is_correct": false
-      },
-      {
-        "text": "Title ↔ whole text; contents ↔ section; Home ↔ main screen",
-        "is_correct": false
-      },
-      {
-        "text": "Title ↔ whole text; heading ↔ section; Home ↔ main screen",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Title ↔ whole text; heading ↔ section; Home ↔ main screen uses the skill correctly. Title names the whole text; heading names a part.",
-      "hint": "Title names the whole text; heading names a part."
-    },
-    "stage": "apply"
-  },
-  {
-    "id": "AC9E1LA05-P-033",
-    "subject": "english",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9E1LA05",
-    "bank": "practice",
-    "skill": "ac9e1la05_03_apply",
-    "question": "Which choice would best use this skill in a new example?",
-    "audio_prompt": "Which choice would best use this skill in a new example?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la05.svg#ac9e1la05-p-005",
-      "alt_text": "📖 Navigate a mock book; 🔎 contents; ✅ choose with evidence"
-    },
-    "answers": [
-      {
-        "text": "Finds correct contents entry and turns/selects the matching page",
-        "is_correct": true
-      },
-      {
-        "text": "Animal homes",
-        "is_correct": false
-      },
-      {
-        "text": "Ignore screen features.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Finds correct contents entry and turns/selects the matching page uses the skill correctly. Buttons, links and swipes also organise texts.",
-      "hint": "Buttons, links and swipes also organise texts."
-    },
-    "stage": "apply"
-  },
-  {
-    "id": "AC9E1LA05-P-034",
-    "subject": "english",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9E1LA05",
-    "bank": "practice",
-    "skill": "ac9e1la05_04_apply",
-    "question": "Which choice would best use this skill in a new example?",
-    "audio_prompt": "Which choice would best use this skill in a new example?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la05.svg#ac9e1la05-p-007",
-      "alt_text": "📖 Choose a screen control; 🔎 page number; ✅ choose with evidence"
-    },
-    "answers": [
-      {
-        "text": "Name the feature but not its job.",
-        "is_correct": false
-      },
-      {
-        "text": "Next button, right arrow, swipe as instructed or suitable voice command",
-        "is_correct": true
-      },
-      {
-        "text": "Confuse title and heading.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Next button, right arrow, swipe as instructed or suitable voice command uses the skill correctly. Always say what the feature helps the reader do.",
-      "hint": "Always say what the feature helps the reader do."
-    },
-    "stage": "apply"
-  },
-  {
-    "id": "AC9E1LA05-P-035",
-    "subject": "english",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9E1LA05",
-    "bank": "practice",
-    "skill": "ac9e1la05_05_apply",
-    "question": "Which choice would best use this skill in a new example?",
-    "audio_prompt": "Which choice would best use this skill in a new example?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la05.svg#ac9e1la05-p-009",
-      "alt_text": "📖 Order print navigation; 🔎 button; ✅ choose with evidence"
-    },
-    "answers": [
-      {
-        "text": "turn to listed page → find topic → scan contents → Open book",
-        "is_correct": false
-      },
-      {
-        "text": "Confuse title and heading.",
-        "is_correct": false
-      },
-      {
-        "text": "Open book → scan contents → find topic → turn to listed page",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Open book → scan contents → find topic → turn to listed page uses the skill correctly. Title names the whole text; heading names a part.",
-      "hint": "Title names the whole text; heading names a part."
-    },
-    "stage": "apply"
-  },
-  {
-    "id": "AC9E1LA05-P-036",
-    "subject": "english",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9E1LA05",
-    "bank": "practice",
-    "skill": "ac9e1la05_06_apply",
-    "question": "Which choice would best use this skill in a new example?",
-    "audio_prompt": "Which choice would best use this skill in a new example?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la05.svg#ac9e1la05-p-011",
-      "alt_text": "📖 Draw a useful page; 🔎 title; ✅ choose with evidence"
-    },
-    "answers": [
-      {
-        "text": "Includes all four features placed so their roles are clear",
-        "is_correct": true
-      },
-      {
-        "text": "Ignore screen features.",
-        "is_correct": false
-      },
-      {
-        "text": "Name the feature but not its job.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Includes all four features placed so their roles are clear uses the skill correctly. Buttons, links and swipes also organise texts.",
-      "hint": "Buttons, links and swipes also organise texts."
-    },
-    "stage": "apply"
-  },
-  {
-    "id": "AC9E1LA05-P-037",
-    "subject": "english",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9E1LA05",
-    "bank": "practice",
-    "skill": "ac9e1la05_07_apply",
-    "question": "Which choice would best use this skill in a new example?",
-    "audio_prompt": "Which choice would best use this skill in a new example?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la05.svg#ac9e1la05-p-013",
-      "alt_text": "📖 Explain heading value; 🔎 heading; ✅ choose with evidence"
-    },
-    "answers": [
-      {
-        "text": "What frogs eat",
-        "is_correct": false
-      },
-      {
-        "text": "It names the section topic precisely, helping readers predict and locate information",
-        "is_correct": true
-      },
-      {
-        "text": "Things",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "It names the section topic precisely, helping readers predict and locate information uses the skill correctly. Always say what the feature helps the reader do.",
-      "hint": "Always say what the feature helps the reader do."
-    },
-    "stage": "apply"
-  },
-  {
-    "id": "AC9E1LA05-P-038",
-    "subject": "english",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9E1LA05",
-    "bank": "practice",
-    "skill": "ac9e1la05_08_apply",
-    "question": "Which choice would best use this skill in a new example?",
-    "audio_prompt": "Which choice would best use this skill in a new example?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la05.svg#ac9e1la05-p-015",
-      "alt_text": "📖 Compare print and screen; 🔎 contents; ✅ choose with evidence"
-    },
-    "answers": [
-      {
-        "text": "Confuse title and heading.",
-        "is_correct": false
-      },
-      {
-        "text": "Ignore screen features.",
-        "is_correct": false
-      },
-      {
-        "text": "Shared example title/image/heading; screen example button/link/swipe/voice command",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Shared example title/image/heading; screen example button/link/swipe/voice command uses the skill correctly. Title names the whole text; heading names a part.",
-      "hint": "Title names the whole text; heading names a part."
-    },
-    "stage": "apply"
-  },
-  {
-    "id": "AC9E1LA05-P-039",
-    "subject": "english",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9E1LA05",
-    "bank": "practice",
-    "skill": "ac9e1la05_09_apply",
-    "question": "Which choice would best use this skill in a new example?",
-    "audio_prompt": "Which choice would best use this skill in a new example?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la05.svg#ac9e1la05-p-017",
-      "alt_text": "📖 Follow a link label; 🔎 page number; ✅ choose with evidence"
-    },
-    "answers": [
-      {
-        "text": "Habitat",
-        "is_correct": true
-      },
-      {
-        "text": "Food",
-        "is_correct": false
-      },
-      {
-        "text": "Games",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Habitat uses the skill correctly. Buttons, links and swipes also organise texts.",
-      "hint": "Buttons, links and swipes also organise texts."
-    },
-    "stage": "apply"
-  },
-  {
-    "id": "AC9E1LA05-P-040",
-    "subject": "english",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9E1LA05",
-    "bank": "practice",
-    "skill": "ac9e1la05_10_apply",
-    "question": "Which choice would best use this skill in a new example?",
-    "audio_prompt": "Which choice would best use this skill in a new example?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la05.svg#ac9e1la05-p-019",
-      "alt_text": "📖 Match print and digital tools; 🔎 button; ✅ choose with evidence"
-    },
-    "answers": [
-      {
-        "text": "Name the feature but not its job.",
-        "is_correct": false
-      },
-      {
-        "text": "Each feature matches its navigation function",
-        "is_correct": true
-      },
-      {
-        "text": "Confuse title and heading.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Each feature matches its navigation function uses the skill correctly. Always say what the feature helps the reader do.",
-      "hint": "Always say what the feature helps the reader do."
-    },
-    "stage": "apply"
-  },
-  {
-    "id": "AC9E1LA05-T-001",
-    "subject": "english",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9E1LA05",
-    "bank": "test",
-    "skill": "ac9e1la05_01_answer",
-    "question": "Which response would correctly show two routes?",
-    "audio_prompt": "Which response would correctly show two routes?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la05.svg#ac9e1la05-t-001",
-      "alt_text": "📖 show two routes; 🔎 title; ✅ choose with evidence"
-    },
-    "answers": [
-      {
-        "text": "Completes two valid labelled routes without relying on icon appearance alone",
-        "is_correct": true
-      },
-      {
-        "text": "Name the feature but not its job.",
-        "is_correct": false
-      },
-      {
-        "text": "Confuse title and heading.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Completes two valid labelled routes without relying on icon appearance alone This matches the task.",
-      "hint": "Always say what the feature helps the reader do."
+      "summary": "A title gives a clue to the subject of the whole book.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 1,
+    "review": {
+      "version": "20260906-english-review-1",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": null,
+      "evidence_scope": "No direct task mapped by IXL; official curriculum-led review. See docs/question-bank-reviews/2026-09-06-year1-english-la01-la05.md. No measured equivalence or IXL endorsement."
     }
   },
   {
-    "id": "AC9E1LA05-T-002",
+    "id": "ac9e1la05-er1-p-002",
     "subject": "english",
     "year_level": "Year 1",
     "curriculum_code": "AC9E1LA05",
-    "bank": "test",
-    "skill": "ac9e1la05_01_strategy",
-    "question": "Which tip would help you show two routes?",
-    "audio_prompt": "Which tip would help you show two routes?",
+    "bank": "practice",
+    "skill": "print and screen organisation and navigation",
+    "question": "The contents list says 'Nests — page 6'. Where should you look for the nests section?",
+    "audio_prompt": "The contents list says 'Nests — page 6'. Where should you look for the nests section?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la05.svg#ac9e1la05-t-002",
-      "alt_text": "🧠 show two routes; ➡️ Look at feature; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "Confuse title and heading.",
+        "text": "The back cover only.",
         "is_correct": false
       },
       {
-        "text": "Always say what the feature helps the reader do.",
+        "text": "Page 6.",
         "is_correct": true
       },
       {
-        "text": "Ignore screen features.",
+        "text": "Page 5.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Always say what the feature helps the reader do.",
-      "hint": "Always say what the feature helps the reader do."
+      "summary": "The contents links a section name with its starting page.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 2,
+    "review": {
+      "version": "20260906-english-review-1",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": null,
+      "evidence_scope": "No direct task mapped by IXL; official curriculum-led review. See docs/question-bank-reviews/2026-09-06-year1-english-la01-la05.md. No measured equivalence or IXL endorsement."
     }
   },
   {
-    "id": "AC9E1LA05-T-003",
+    "id": "ac9e1la05-er1-p-003",
     "subject": "english",
     "year_level": "Year 1",
     "curriculum_code": "AC9E1LA05",
-    "bank": "test",
-    "skill": "ac9e1la05_02_answer",
-    "question": "Which response would correctly draw accessible controls?",
-    "audio_prompt": "Which response would correctly draw accessible controls?",
+    "bank": "practice",
+    "skill": "print and screen organisation and navigation",
+    "question": "A page has the heading 'What Koalas Eat'. Which information should be below it?",
+    "audio_prompt": "A page has the heading 'What Koalas Eat'. Which information should be below it?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la05.svg#ac9e1la05-t-003",
-      "alt_text": "📖 Draw accessible controls; 🔎 heading; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "Confuse title and heading.",
+        "text": "Directions to the library.",
         "is_correct": false
       },
       {
-        "text": "Ignore screen features.",
+        "text": "A list of boat colours.",
         "is_correct": false
       },
       {
-        "text": "Three correctly labelled controls; words clarify icon meaning for readers/users",
+        "text": "Facts about koala food.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Three correctly labelled controls; words clarify icon meaning for readers/users This matches the task.",
-      "hint": "Title names the whole text; heading names a part."
+      "summary": "A heading names the topic of the section beneath it.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 3,
+    "review": {
+      "version": "20260906-english-review-1",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": null,
+      "evidence_scope": "No direct task mapped by IXL; official curriculum-led review. See docs/question-bank-reviews/2026-09-06-year1-english-la01-la05.md. No measured equivalence or IXL endorsement."
     }
   },
   {
-    "id": "AC9E1LA05-T-004",
+    "id": "ac9e1la05-er1-p-004",
     "subject": "english",
     "year_level": "Year 1",
     "curriculum_code": "AC9E1LA05",
-    "bank": "test",
-    "skill": "ac9e1la05_02_strategy",
-    "question": "Which tip would help you draw accessible controls?",
-    "audio_prompt": "Which tip would help you draw accessible controls?",
+    "bank": "practice",
+    "skill": "print and screen organisation and navigation",
+    "question": "An e-book has buttons labelled 'Next' and 'Back'. You want the following page. Which button fits?",
+    "audio_prompt": "An e-book has buttons labelled 'Next' and 'Back'. You want the following page. Which button fits?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la05.svg#ac9e1la05-t-004",
-      "alt_text": "🧠 Draw accessible controls; ➡️ Name it; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "Use this routine: Look at feature → Name it → Say its job → Use it.",
+        "text": "Next.",
         "is_correct": true
       },
       {
-        "text": "Ignore screen features.",
+        "text": "Back.",
         "is_correct": false
       },
       {
-        "text": "Name the feature but not its job.",
+        "text": "Neither; both close the book.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Use this routine: Look at feature → Name it → Say its job → Use it.",
-      "hint": "Title names the whole text; heading names a part."
+      "summary": "Next moves forward through the pages.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 4,
+    "review": {
+      "version": "20260906-english-review-1",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": null,
+      "evidence_scope": "No direct task mapped by IXL; official curriculum-led review. See docs/question-bank-reviews/2026-09-06-year1-english-la01-la05.md. No measured equivalence or IXL endorsement."
     }
   },
   {
-    "id": "AC9E1LA05-T-005",
+    "id": "ac9e1la05-er1-p-005",
     "subject": "english",
     "year_level": "Year 1",
     "curriculum_code": "AC9E1LA05",
-    "bank": "test",
-    "skill": "ac9e1la05_03_answer",
-    "question": "Which response would correctly correct an unclear link?",
-    "audio_prompt": "Which response would correctly correct an unclear link?",
+    "bank": "practice",
+    "skill": "print and screen organisation and navigation",
+    "question": "You are on page 9 and want to reread page 8. What should you do?",
+    "audio_prompt": "You are on page 9 and want to reread page 8. What should you do?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la05.svg#ac9e1la05-t-005",
-      "alt_text": "📖 Correct an unclear link; 🔎 contents; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "Click here",
+        "text": "Close the book and read the cover.",
         "is_correct": false
       },
       {
-        "text": "Example 'Read about insect life cycles'",
+        "text": "Turn back one page.",
         "is_correct": true
       },
       {
-        "text": "Ignore screen features.",
+        "text": "Turn forward one page.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Example 'Read about insect life cycles' This matches the task.",
-      "hint": "Buttons, links and swipes also organise texts."
+      "summary": "Page numbers show which page comes before the current one.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 5,
+    "review": {
+      "version": "20260906-english-review-1",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": null,
+      "evidence_scope": "No direct task mapped by IXL; official curriculum-led review. See docs/question-bank-reviews/2026-09-06-year1-english-la01-la05.md. No measured equivalence or IXL endorsement."
     }
   },
   {
-    "id": "AC9E1LA05-T-006",
+    "id": "ac9e1la05-er1-p-006",
     "subject": "english",
     "year_level": "Year 1",
     "curriculum_code": "AC9E1LA05",
-    "bank": "test",
-    "skill": "ac9e1la05_03_strategy",
-    "question": "Which tip would help you correct an unclear link?",
-    "audio_prompt": "Which tip would help you correct an unclear link?",
+    "bank": "practice",
+    "skill": "print and screen organisation and navigation",
+    "question": "A website link says 'Listen to the story'. What would you expect it to do?",
+    "audio_prompt": "A website link says 'Listen to the story'. What would you expect it to do?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la05.svg#ac9e1la05-t-006",
-      "alt_text": "🧠 Correct an unclear link; ➡️ Say its job; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "Name the feature but not its job.",
+        "text": "Show the weather forecast.",
         "is_correct": false
       },
       {
-        "text": "Confuse title and heading.",
+        "text": "Change the story's title.",
         "is_correct": false
       },
       {
-        "text": "Look for contents and check the whole example.",
+        "text": "Play a spoken version of the story.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Look for contents and check the whole example.",
-      "hint": "Buttons, links and swipes also organise texts."
+      "summary": "The link's words describe the content or action it leads to.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 6,
+    "review": {
+      "version": "20260906-english-review-1",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": null,
+      "evidence_scope": "No direct task mapped by IXL; official curriculum-led review. See docs/question-bank-reviews/2026-09-06-year1-english-la01-la05.md. No measured equivalence or IXL endorsement."
     }
   },
   {
-    "id": "AC9E1LA05-T-007",
+    "id": "ac9e1la05-er1-p-007",
     "subject": "english",
     "year_level": "Year 1",
     "curriculum_code": "AC9E1LA05",
-    "bank": "test",
-    "skill": "ac9e1la05_04_answer",
-    "question": "Which response would correctly plan a hybrid text?",
-    "audio_prompt": "Which response would correctly plan a hybrid text?",
+    "bank": "practice",
+    "skill": "print and screen organisation and navigation",
+    "question": "A screen says, 'Swipe left for the next page.' How do you move on?",
+    "audio_prompt": "A screen says, 'Swipe left for the next page.' How do you move on?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la05.svg#ac9e1la05-t-007",
-      "alt_text": "📖 Plan a hybrid text; 🔎 page number; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "Logical sections and named features for both modes, with clear image roles and two usable navigation methods",
+        "text": "Swipe left.",
         "is_correct": true
       },
       {
-        "text": "Name the feature but not its job.",
+        "text": "Swipe right.",
         "is_correct": false
       },
       {
-        "text": "Confuse title and heading.",
+        "text": "Tap the title twice.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Logical sections and named features for both modes, with clear image roles and two usable navigation methods This matches the task.",
-      "hint": "Always say what the feature helps the reader do."
+      "summary": "The displayed instruction tells you the navigation action to use.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 7,
+    "review": {
+      "version": "20260906-english-review-1",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": null,
+      "evidence_scope": "No direct task mapped by IXL; official curriculum-led review. See docs/question-bank-reviews/2026-09-06-year1-english-la01-la05.md. No measured equivalence or IXL endorsement."
     }
   },
   {
-    "id": "AC9E1LA05-T-008",
+    "id": "ac9e1la05-er1-p-008",
     "subject": "english",
     "year_level": "Year 1",
     "curriculum_code": "AC9E1LA05",
-    "bank": "test",
-    "skill": "ac9e1la05_04_strategy",
-    "question": "Which tip would help you plan a hybrid text?",
-    "audio_prompt": "Which tip would help you plan a hybrid text?",
+    "bank": "practice",
+    "skill": "print and screen organisation and navigation",
+    "question": "A voice-controlled book says, 'Say next page to continue.' What should you say?",
+    "audio_prompt": "A voice-controlled book says, 'Say next page to continue.' What should you say?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la05.svg#ac9e1la05-t-008",
-      "alt_text": "🧠 Plan a hybrid text; ➡️ Use it; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "Confuse title and heading.",
+        "text": "Close book.",
         "is_correct": false
       },
       {
-        "text": "Check that you can navigate a text.",
+        "text": "Next page.",
         "is_correct": true
       },
       {
-        "text": "Ignore screen features.",
+        "text": "Start again.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Check that you can navigate a text.",
-      "hint": "Always say what the feature helps the reader do."
+      "summary": "The verbal command must match the action you want.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 8,
+    "review": {
+      "version": "20260906-english-review-1",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": null,
+      "evidence_scope": "No direct task mapped by IXL; official curriculum-led review. See docs/question-bank-reviews/2026-09-06-year1-english-la01-la05.md. No measured equivalence or IXL endorsement."
     }
   },
   {
-    "id": "AC9E1LA05-T-009",
+    "id": "ac9e1la05-er1-p-009",
     "subject": "english",
     "year_level": "Year 1",
     "curriculum_code": "AC9E1LA05",
-    "bank": "test",
-    "skill": "ac9e1la05_01_test_verify",
-    "question": "A classmate is unsure about this example. Which tip would help them check it carefully?",
-    "audio_prompt": "A classmate is unsure about this example. Which tip would help them check it carefully?",
+    "bank": "practice",
+    "skill": "print and screen organisation and navigation",
+    "question": "Contents: 'Seeds — 3; Roots — 7; Leaves — 11.' You want to read about roots. Which page should you open?",
+    "audio_prompt": "Contents: 'Seeds — 3; Roots — 7; Leaves — 11.' You want to read about roots. Which page should you open?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la05.svg#ac9e1la05-t-002",
-      "alt_text": "🧠 show two routes; ➡️ Look at feature; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "Name the feature but not its job.",
+        "text": "3.",
         "is_correct": false
       },
       {
-        "text": "Confuse title and heading.",
+        "text": "11.",
         "is_correct": false
       },
       {
-        "text": "Always say what the feature helps the reader do.",
+        "text": "7.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Always say what the feature helps the reader do. is the useful check. Always say what the feature helps the reader do.",
-      "hint": "Always say what the feature helps the reader do."
+      "summary": "The roots entry points to page 7.",
+      "hint": "Read the whole example and check what the question asks."
     },
-    "stage": "verify"
+    "stage": "apply",
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "sequence_priority": 9,
+    "review": {
+      "version": "20260906-english-review-1",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": null,
+      "evidence_scope": "No direct task mapped by IXL; official curriculum-led review. See docs/question-bank-reviews/2026-09-06-year1-english-la01-la05.md. No measured equivalence or IXL endorsement."
+    }
   },
   {
-    "id": "AC9E1LA05-T-010",
+    "id": "ac9e1la05-er1-p-010",
     "subject": "english",
     "year_level": "Year 1",
     "curriculum_code": "AC9E1LA05",
-    "bank": "test",
-    "skill": "ac9e1la05_02_test_verify",
-    "question": "A classmate is unsure about this example. Which tip would help them check it carefully?",
-    "audio_prompt": "A classmate is unsure about this example. Which tip would help them check it carefully?",
+    "bank": "practice",
+    "skill": "print and screen organisation and navigation",
+    "question": "A book is titled 'All About Boats'. A page is headed 'Sails'. How are the title and heading different?",
+    "audio_prompt": "A book is titled 'All About Boats'. A page is headed 'Sails'. How are the title and heading different?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la05.svg#ac9e1la05-t-004",
-      "alt_text": "🧠 Draw accessible controls; ➡️ Name it; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "Use this routine: Look at feature → Name it → Say its job → Use it.",
+        "text": "The title names the whole topic; the heading names one part.",
         "is_correct": true
       },
       {
-        "text": "Confuse title and heading.",
+        "text": "The heading names the whole book; the title names one page.",
         "is_correct": false
       },
       {
-        "text": "Ignore screen features.",
+        "text": "Both tell the reader the page number.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Use this routine: Look at feature → Name it → Say its job → Use it. is the useful check. Title names the whole text; heading names a part.",
-      "hint": "Title names the whole text; heading names a part."
+      "summary": "A section heading narrows the larger subject named by the title.",
+      "hint": "Read the whole example and check what the question asks."
     },
-    "stage": "verify"
+    "stage": "apply",
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "sequence_priority": 10,
+    "review": {
+      "version": "20260906-english-review-1",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": null,
+      "evidence_scope": "No direct task mapped by IXL; official curriculum-led review. See docs/question-bank-reviews/2026-09-06-year1-english-la01-la05.md. No measured equivalence or IXL endorsement."
+    }
   },
   {
-    "id": "AC9E1LA05-T-011",
+    "id": "ac9e1la05-er1-p-011",
     "subject": "english",
     "year_level": "Year 1",
     "curriculum_code": "AC9E1LA05",
-    "bank": "test",
-    "skill": "ac9e1la05_03_test_verify",
-    "question": "A classmate is unsure about this example. Which tip would help them check it carefully?",
-    "audio_prompt": "A classmate is unsure about this example. Which tip would help them check it carefully?",
+    "bank": "practice",
+    "skill": "print and screen organisation and navigation",
+    "question": "You are on the last screen of a story. Buttons say 'Read again' and 'Exit'. Which starts the story over?",
+    "audio_prompt": "You are on the last screen of a story. Buttons say 'Read again' and 'Exit'. Which starts the story over?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la05.svg#ac9e1la05-t-006",
-      "alt_text": "🧠 Correct an unclear link; ➡️ Say its job; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "Click here",
+        "text": "Both do the same thing.",
         "is_correct": false
       },
       {
-        "text": "Look for contents and check the whole example.",
+        "text": "Read again.",
         "is_correct": true
       },
       {
-        "text": "Ignore screen features.",
+        "text": "Exit.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Look for contents and check the whole example. is the useful check. Buttons, links and swipes also organise texts.",
-      "hint": "Buttons, links and swipes also organise texts."
+      "summary": "Read again restarts; exit leaves the story.",
+      "hint": "Read the whole example and check what the question asks."
     },
-    "stage": "verify"
+    "stage": "apply",
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "sequence_priority": 11,
+    "review": {
+      "version": "20260906-english-review-1",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": null,
+      "evidence_scope": "No direct task mapped by IXL; official curriculum-led review. See docs/question-bank-reviews/2026-09-06-year1-english-la01-la05.md. No measured equivalence or IXL endorsement."
+    }
   },
   {
-    "id": "AC9E1LA05-T-012",
+    "id": "ac9e1la05-er1-p-012",
     "subject": "english",
     "year_level": "Year 1",
     "curriculum_code": "AC9E1LA05",
-    "bank": "test",
-    "skill": "ac9e1la05_04_test_verify",
-    "question": "A classmate is unsure about this example. Which tip would help them check it carefully?",
-    "audio_prompt": "A classmate is unsure about this example. Which tip would help them check it carefully?",
+    "bank": "practice",
+    "skill": "print and screen organisation and navigation",
+    "question": "A page has a large heading 'Animal Homes' and smaller headings 'Nests' and 'Burrows'. What do the smaller headings show?",
+    "audio_prompt": "A page has a large heading 'Animal Homes' and smaller headings 'Nests' and 'Burrows'. What do the smaller headings show?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la05.svg#ac9e1la05-t-008",
-      "alt_text": "🧠 Plan a hybrid text; ➡️ Use it; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "Name the feature but not its job.",
+        "text": "The order in which to count pages.",
         "is_correct": false
       },
       {
-        "text": "Confuse title and heading.",
+        "text": "The names of the book's authors.",
         "is_correct": false
       },
       {
-        "text": "Check that you can navigate a text.",
+        "text": "Two parts of the animal-homes topic.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Check that you can navigate a text. is the useful check. Always say what the feature helps the reader do.",
-      "hint": "Always say what the feature helps the reader do."
+      "summary": "The smaller headings organise related kinds of homes within the main topic.",
+      "hint": "Read the whole example and check what the question asks."
     },
-    "stage": "verify"
+    "stage": "apply",
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "sequence_priority": 12,
+    "review": {
+      "version": "20260906-english-review-1",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": null,
+      "evidence_scope": "No direct task mapped by IXL; official curriculum-led review. See docs/question-bank-reviews/2026-09-06-year1-english-la01-la05.md. No measured equivalence or IXL endorsement."
+    }
   },
   {
-    "id": "AC9E1LA05-T-013",
+    "id": "ac9e1la05-er1-p-013",
     "subject": "english",
     "year_level": "Year 1",
     "curriculum_code": "AC9E1LA05",
-    "bank": "test",
-    "skill": "ac9e1la05_01_test_apply",
-    "question": "A classmate chose “Name the feature but not its job.”. Which answer would improve their response?",
-    "audio_prompt": "A classmate chose Name the feature but not its job.. Which answer would improve their response?",
+    "bank": "practice",
+    "skill": "print and screen organisation and navigation",
+    "question": "A screen offers links 'Play the song', 'Read the words' and 'About the singer'. You want the song's written words. Which link fits?",
+    "audio_prompt": "A screen offers links 'Play the song', 'Read the words' and 'About the singer'. You want the song's written words. Which link fits?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la05.svg#ac9e1la05-t-001",
-      "alt_text": "📖 show two routes; 🔎 title; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "Completes two valid labelled routes without relying on icon appearance alone",
+        "text": "Read the words.",
         "is_correct": true
       },
       {
-        "text": "Name the feature but not its job.",
+        "text": "Play the song.",
         "is_correct": false
       },
       {
-        "text": "Confuse title and heading.",
+        "text": "About the singer.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Completes two valid labelled routes without relying on icon appearance alone is the stronger response because it uses the target skill. Always say what the feature helps the reader do.",
-      "hint": "Always say what the feature helps the reader do."
+      "summary": "Choose the link whose label matches the information you need.",
+      "hint": "Read the whole example and check what the question asks."
     },
-    "stage": "apply"
+    "stage": "apply",
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "sequence_priority": 13,
+    "review": {
+      "version": "20260906-english-review-1",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": null,
+      "evidence_scope": "No direct task mapped by IXL; official curriculum-led review. See docs/question-bank-reviews/2026-09-06-year1-english-la01-la05.md. No measured equivalence or IXL endorsement."
+    }
   },
   {
-    "id": "AC9E1LA05-T-014",
+    "id": "ac9e1la05-er1-p-014",
     "subject": "english",
     "year_level": "Year 1",
     "curriculum_code": "AC9E1LA05",
-    "bank": "test",
-    "skill": "ac9e1la05_02_test_apply",
-    "question": "A classmate chose “Confuse title and heading.”. Which answer would improve their response?",
-    "audio_prompt": "A classmate chose Confuse title and heading.. Which answer would improve their response?",
+    "bank": "practice",
+    "skill": "print and screen organisation and navigation",
+    "question": "A contents entry says 'Rain — 10'. Page 10 begins with the heading 'Rain'. How do these features work together?",
+    "audio_prompt": "A contents entry says 'Rain — 10'. Page 10 begins with the heading 'Rain'. How do these features work together?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la05.svg#ac9e1la05-t-003",
-      "alt_text": "📖 Draw accessible controls; 🔎 heading; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "Confuse title and heading.",
+        "text": "The contents gives the book's price.",
         "is_correct": false
       },
       {
-        "text": "Three correctly labelled controls; words clarify icon meaning for readers/users",
+        "text": "The contents points to the page; the heading confirms the section.",
         "is_correct": true
       },
       {
-        "text": "Ignore screen features.",
+        "text": "The heading tells you to leave page 10.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Three correctly labelled controls; words clarify icon meaning for readers/users is the stronger response because it uses the target skill. Title names the whole text; heading names a part.",
-      "hint": "Title names the whole text; heading names a part."
+      "summary": "The two features help you find and recognise the right section.",
+      "hint": "Read the whole example and check what the question asks."
     },
-    "stage": "apply"
+    "stage": "apply",
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "sequence_priority": 14,
+    "review": {
+      "version": "20260906-english-review-1",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": null,
+      "evidence_scope": "No direct task mapped by IXL; official curriculum-led review. See docs/question-bank-reviews/2026-09-06-year1-english-la01-la05.md. No measured equivalence or IXL endorsement."
+    }
   },
   {
-    "id": "AC9E1LA05-T-015",
+    "id": "ac9e1la05-er1-p-015",
     "subject": "english",
     "year_level": "Year 1",
     "curriculum_code": "AC9E1LA05",
-    "bank": "test",
-    "skill": "ac9e1la05_03_test_apply",
-    "question": "A classmate chose “Click here”. Which answer would improve their response?",
-    "audio_prompt": "A classmate chose Click here. Which answer would improve their response?",
+    "bank": "practice",
+    "skill": "print and screen organisation and navigation",
+    "question": "An e-book says, 'Swipe right to return to the previous picture.' Which action shows the picture you just left?",
+    "audio_prompt": "An e-book says, 'Swipe right to return to the previous picture.' Which action shows the picture you just left?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la05.svg#ac9e1la05-t-005",
-      "alt_text": "📖 Correct an unclear link; 🔎 contents; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "Click here",
+        "text": "Swipe left.",
         "is_correct": false
       },
       {
-        "text": "Ignore screen features.",
+        "text": "Say louder.",
         "is_correct": false
       },
       {
-        "text": "Example 'Read about insect life cycles'",
+        "text": "Swipe right.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Example 'Read about insect life cycles' is the stronger response because it uses the target skill. Buttons, links and swipes also organise texts.",
-      "hint": "Buttons, links and swipes also organise texts."
+      "summary": "Follow this book's stated return instruction rather than guessing.",
+      "hint": "Read the whole example and check what the question asks."
     },
-    "stage": "apply"
+    "stage": "apply",
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "sequence_priority": 15,
+    "review": {
+      "version": "20260906-english-review-1",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": null,
+      "evidence_scope": "No direct task mapped by IXL; official curriculum-led review. See docs/question-bank-reviews/2026-09-06-year1-english-la01-la05.md. No measured equivalence or IXL endorsement."
+    }
   },
   {
-    "id": "AC9E1LA05-T-016",
+    "id": "ac9e1la05-er1-p-016",
     "subject": "english",
     "year_level": "Year 1",
     "curriculum_code": "AC9E1LA05",
-    "bank": "test",
-    "skill": "ac9e1la05_04_test_apply",
-    "question": "A classmate chose “Name the feature but not its job.”. Which answer would improve their response?",
-    "audio_prompt": "A classmate chose Name the feature but not its job.. Which answer would improve their response?",
+    "bank": "practice",
+    "skill": "print and screen organisation and navigation",
+    "question": "A voice menu offers 'Read story' and 'Stop reading'. You want the narration to end. Which command fits?",
+    "audio_prompt": "A voice menu offers 'Read story' and 'Stop reading'. You want the narration to end. Which command fits?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la05.svg#ac9e1la05-t-007",
-      "alt_text": "📖 Plan a hybrid text; 🔎 page number; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "Logical sections and named features for both modes, with clear image roles and two usable navigation methods",
+        "text": "Stop reading.",
         "is_correct": true
       },
       {
-        "text": "Name the feature but not its job.",
+        "text": "Read story.",
         "is_correct": false
       },
       {
-        "text": "Confuse title and heading.",
+        "text": "Next story.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Logical sections and named features for both modes, with clear image roles and two usable navigation methods is the stronger response because it uses the target skill. Always say what the feature helps the reader do.",
-      "hint": "Always say what the feature helps the reader do."
+      "summary": "The command should match stopping the spoken reading.",
+      "hint": "Read the whole example and check what the question asks."
     },
-    "stage": "apply"
+    "stage": "apply",
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "sequence_priority": 16,
+    "review": {
+      "version": "20260906-english-review-1",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": null,
+      "evidence_scope": "No direct task mapped by IXL; official curriculum-led review. See docs/question-bank-reviews/2026-09-06-year1-english-la01-la05.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1la05-er1-p-017",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA05",
+    "bank": "practice",
+    "skill": "print and screen organisation and navigation",
+    "question": "A book's contents points to 'Wings — 12', but you opened page 21. What should you check first?",
+    "audio_prompt": "A book's contents points to 'Wings — 12', but you opened page 21. What should you check first?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Whether the book has a long title.",
+        "is_correct": false
+      },
+      {
+        "text": "The page number and the contents entry.",
+        "is_correct": true
+      },
+      {
+        "text": "Whether the cover is colourful.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Checking the navigation information helps correct the wrong page choice.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "reason",
+    "difficulty": 3,
+    "difficulty_tier": "reason",
+    "sequence_priority": 17,
+    "review": {
+      "version": "20260906-english-review-1",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": null,
+      "evidence_scope": "No direct task mapped by IXL; official curriculum-led review. See docs/question-bank-reviews/2026-09-06-year1-english-la01-la05.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1la05-er1-p-018",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA05",
+    "bank": "practice",
+    "skill": "print and screen organisation and navigation",
+    "question": "You want facts about feeding a pet rabbit. Which combination is most useful?",
+    "audio_prompt": "You want facts about feeding a pet rabbit. Which combination is most useful?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Book title 'Pet Rabbits'; heading 'Fur Colours'.",
+        "is_correct": false
+      },
+      {
+        "text": "Book title 'Garden Birds'; heading 'Nests'.",
+        "is_correct": false
+      },
+      {
+        "text": "Book title 'Pet Rabbits'; heading 'Food'.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Both the whole-book topic and the section heading should match the information needed.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "reason",
+    "difficulty": 3,
+    "difficulty_tier": "reason",
+    "sequence_priority": 18,
+    "review": {
+      "version": "20260906-english-review-1",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": null,
+      "evidence_scope": "No direct task mapped by IXL; official curriculum-led review. See docs/question-bank-reviews/2026-09-06-year1-english-la01-la05.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1la05-er1-p-019",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA05",
+    "bank": "practice",
+    "skill": "print and screen organisation and navigation",
+    "question": "A page has a picture of a speaker labelled 'Hear this page'. What helps you know what it does?",
+    "audio_prompt": "A page has a picture of a speaker labelled 'Hear this page'. What helps you know what it does?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The image and label together.",
+        "is_correct": true
+      },
+      {
+        "text": "The page number alone.",
+        "is_correct": false
+      },
+      {
+        "text": "The colour of an unrelated border.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The symbol suggests sound, and the words specify that it reads this page.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "reason",
+    "difficulty": 3,
+    "difficulty_tier": "reason",
+    "sequence_priority": 19,
+    "review": {
+      "version": "20260906-english-review-1",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": null,
+      "evidence_scope": "No direct task mapped by IXL; official curriculum-led review. See docs/question-bank-reviews/2026-09-06-year1-english-la01-la05.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1la05-er1-p-020",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA05",
+    "bank": "practice",
+    "skill": "print and screen organisation and navigation",
+    "question": "A website has 'Home', 'Next chapter' and 'Help' buttons. You want instructions for using the website. Which should you choose?",
+    "audio_prompt": "A website has 'Home', 'Next chapter' and 'Help' buttons. You want instructions for using the website. Which should you choose?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Home.",
+        "is_correct": false
+      },
+      {
+        "text": "Help.",
+        "is_correct": true
+      },
+      {
+        "text": "Next chapter.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Help is the label most directly linked to guidance about using the site.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "reason",
+    "difficulty": 3,
+    "difficulty_tier": "reason",
+    "sequence_priority": 20,
+    "review": {
+      "version": "20260906-english-review-1",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": null,
+      "evidence_scope": "No direct task mapped by IXL; official curriculum-led review. See docs/question-bank-reviews/2026-09-06-year1-english-la01-la05.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1la05-er1-p-021",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA05",
+    "bank": "practice",
+    "skill": "print and screen organisation and navigation",
+    "question": "Contents: 'Eggs — 4; Chicks — 8; Adult Birds — 14.' Which section would you use to find information about newly hatched birds?",
+    "audio_prompt": "Contents: 'Eggs — 4; Chicks — 8; Adult Birds — 14.' Which section would you use to find information about newly hatched birds?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Eggs, starting on page 4.",
+        "is_correct": false
+      },
+      {
+        "text": "Adult Birds, starting on page 14.",
+        "is_correct": false
+      },
+      {
+        "text": "Chicks, starting on page 8.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Newly hatched birds are chicks, so match the meaning to the section name.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "reason",
+    "difficulty": 3,
+    "difficulty_tier": "reason",
+    "sequence_priority": 21,
+    "review": {
+      "version": "20260906-english-review-1",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": null,
+      "evidence_scope": "No direct task mapped by IXL; official curriculum-led review. See docs/question-bank-reviews/2026-09-06-year1-english-la01-la05.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1la05-er1-p-022",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA05",
+    "bank": "practice",
+    "skill": "print and screen organisation and navigation",
+    "question": "You click 'Read about storms' but reach a page headed 'Sunny Days'. What suggests you have not reached the expected information?",
+    "audio_prompt": "You click 'Read about storms' but reach a page headed 'Sunny Days'. What suggests you have not reached the expected information?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The heading does not match the link's topic.",
+        "is_correct": true
+      },
+      {
+        "text": "The page has words on it.",
+        "is_correct": false
+      },
+      {
+        "text": "The page has a number.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Comparing the link label and destination heading helps check navigation.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "reason",
+    "difficulty": 3,
+    "difficulty_tier": "reason",
+    "sequence_priority": 22,
+    "review": {
+      "version": "20260906-english-review-1",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": null,
+      "evidence_scope": "No direct task mapped by IXL; official curriculum-led review. See docs/question-bank-reviews/2026-09-06-year1-english-la01-la05.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1la05-er1-p-023",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA05",
+    "bank": "practice",
+    "skill": "print and screen organisation and navigation",
+    "question": "A story screen has 'Back to contents' and 'Back one page'. You want to choose another section. Which fits?",
+    "audio_prompt": "A story screen has 'Back to contents' and 'Back one page'. You want to choose another section. Which fits?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Both always open the contents.",
+        "is_correct": false
+      },
+      {
+        "text": "Back to contents.",
+        "is_correct": true
+      },
+      {
+        "text": "Back one page.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The contents is a list for choosing sections, not just the previous page.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "reason",
+    "difficulty": 3,
+    "difficulty_tier": "reason",
+    "sequence_priority": 23,
+    "review": {
+      "version": "20260906-english-review-1",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": null,
+      "evidence_scope": "No direct task mapped by IXL; official curriculum-led review. See docs/question-bank-reviews/2026-09-06-year1-english-la01-la05.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1la05-er1-p-024",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA05",
+    "bank": "practice",
+    "skill": "print and screen organisation and navigation",
+    "question": "You need the section about protecting plants. The contents lists 'Plant Food', 'Keeping Plants Safe' and 'Flower Colours'. Which label matches your purpose?",
+    "audio_prompt": "You need the section about protecting plants. The contents lists 'Plant Food', 'Keeping Plants Safe' and 'Flower Colours'. Which label matches your purpose?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Plant Food.",
+        "is_correct": false
+      },
+      {
+        "text": "Flower Colours.",
+        "is_correct": false
+      },
+      {
+        "text": "Keeping Plants Safe.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Protecting plants means keeping them safe; readers can match meanings, not only identical words.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "reason",
+    "difficulty": 3,
+    "difficulty_tier": "reason",
+    "sequence_priority": 24,
+    "review": {
+      "version": "20260906-english-review-1",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": null,
+      "evidence_scope": "No direct task mapped by IXL; official curriculum-led review. See docs/question-bank-reviews/2026-09-06-year1-english-la01-la05.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1la05-er1-t-001",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA05",
+    "bank": "test",
+    "skill": "print and screen organisation and navigation",
+    "question": "A cover says 'Things That Fly'. What is its title helping the reader know?",
+    "audio_prompt": "A cover says 'Things That Fly'. What is its title helping the reader know?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The book's broad subject.",
+        "is_correct": true
+      },
+      {
+        "text": "The number of words on page 3.",
+        "is_correct": false
+      },
+      {
+        "text": "The exact price of every book.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A title signals what the book is likely to be about.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "independent",
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 1,
+    "review": {
+      "version": "20260906-english-review-1",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": null,
+      "evidence_scope": "No direct task mapped by IXL; official curriculum-led review. See docs/question-bank-reviews/2026-09-06-year1-english-la01-la05.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1la05-er1-t-002",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA05",
+    "bank": "test",
+    "skill": "print and screen organisation and navigation",
+    "question": "Contents: 'Wheels — 5; Engines — 9; Lights — 13.' Where does the engines section start?",
+    "audio_prompt": "Contents: 'Wheels — 5; Engines — 9; Lights — 13.' Where does the engines section start?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Page 13.",
+        "is_correct": false
+      },
+      {
+        "text": "Page 9.",
+        "is_correct": true
+      },
+      {
+        "text": "Page 5.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The engine entry pairs its topic with page 9.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "independent",
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 2,
+    "review": {
+      "version": "20260906-english-review-1",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": null,
+      "evidence_scope": "No direct task mapped by IXL; official curriculum-led review. See docs/question-bank-reviews/2026-09-06-year1-english-la01-la05.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1la05-er1-t-003",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA05",
+    "bank": "test",
+    "skill": "print and screen organisation and navigation",
+    "question": "Which fact fits under the heading 'How Seeds Travel'?",
+    "audio_prompt": "Which fact fits under the heading 'How Seeds Travel'?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Some leaves are broad and green.",
+        "is_correct": false
+      },
+      {
+        "text": "Some pots are made of clay.",
+        "is_correct": false
+      },
+      {
+        "text": "Some seeds are carried by the wind.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The heading asks for information about seed movement.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "independent",
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 3,
+    "review": {
+      "version": "20260906-english-review-1",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": null,
+      "evidence_scope": "No direct task mapped by IXL; official curriculum-led review. See docs/question-bank-reviews/2026-09-06-year1-english-la01-la05.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1la05-er1-t-004",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA05",
+    "bank": "test",
+    "skill": "print and screen organisation and navigation",
+    "question": "A digital story has a 'Previous page' button. What should happen when you select it?",
+    "audio_prompt": "A digital story has a 'Previous page' button. What should happen when you select it?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The page before this one appears.",
+        "is_correct": true
+      },
+      {
+        "text": "The page after this one appears.",
+        "is_correct": false
+      },
+      {
+        "text": "The story must start at the beginning.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Previous means the one before the current page.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "independent",
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 4,
+    "review": {
+      "version": "20260906-english-review-1",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": null,
+      "evidence_scope": "No direct task mapped by IXL; official curriculum-led review. See docs/question-bank-reviews/2026-09-06-year1-english-la01-la05.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1la05-er1-t-005",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA05",
+    "bank": "test",
+    "skill": "print and screen organisation and navigation",
+    "question": "You are on page 14 and need page 15. Which way should you move?",
+    "audio_prompt": "You are on page 14 and need page 15. Which way should you move?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Back to page 1.",
+        "is_correct": false
+      },
+      {
+        "text": "Forward one page.",
+        "is_correct": true
+      },
+      {
+        "text": "Back one page.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The larger next page number comes after the current page.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "independent",
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 5,
+    "review": {
+      "version": "20260906-english-review-1",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": null,
+      "evidence_scope": "No direct task mapped by IXL; official curriculum-led review. See docs/question-bank-reviews/2026-09-06-year1-english-la01-la05.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1la05-er1-t-006",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA05",
+    "bank": "test",
+    "skill": "print and screen organisation and navigation",
+    "question": "A link says 'Watch how bread is made'. What is it likely to open?",
+    "audio_prompt": "A link says 'Watch how bread is made'. What is it likely to open?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A page listing animal homes.",
+        "is_correct": false
+      },
+      {
+        "text": "A button that turns the sound off.",
+        "is_correct": false
+      },
+      {
+        "text": "A video showing bread being made.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Watch and the topic together describe a video about the bread-making process.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "independent",
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 6,
+    "review": {
+      "version": "20260906-english-review-1",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": null,
+      "evidence_scope": "No direct task mapped by IXL; official curriculum-led review. See docs/question-bank-reviews/2026-09-06-year1-english-la01-la05.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1la05-er1-t-007",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA05",
+    "bank": "test",
+    "skill": "print and screen organisation and navigation",
+    "question": "A screen instructs, 'Swipe up to see more of this page.' What action reveals the lower content?",
+    "audio_prompt": "A screen instructs, 'Swipe up to see more of this page.' What action reveals the lower content?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Swipe up.",
+        "is_correct": true
+      },
+      {
+        "text": "Swipe right to a new book.",
+        "is_correct": false
+      },
+      {
+        "text": "Say close.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Use the gesture specified by the screen to reveal more content.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "independent",
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 7,
+    "review": {
+      "version": "20260906-english-review-1",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": null,
+      "evidence_scope": "No direct task mapped by IXL; official curriculum-led review. See docs/question-bank-reviews/2026-09-06-year1-english-la01-la05.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1la05-er1-t-008",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA05",
+    "bank": "test",
+    "skill": "print and screen organisation and navigation",
+    "question": "A talking story says, 'Say pause to stop for a moment.' Which command fits taking a short break?",
+    "audio_prompt": "A talking story says, 'Say pause to stop for a moment.' Which command fits taking a short break?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Start over.",
+        "is_correct": false
+      },
+      {
+        "text": "Pause.",
+        "is_correct": true
+      },
+      {
+        "text": "Faster.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Pause stops temporarily, matching the stated instruction.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "independent",
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 8,
+    "review": {
+      "version": "20260906-english-review-1",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": null,
+      "evidence_scope": "No direct task mapped by IXL; official curriculum-led review. See docs/question-bank-reviews/2026-09-06-year1-english-la01-la05.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1la05-er1-t-009",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA05",
+    "bank": "test",
+    "skill": "print and screen organisation and navigation",
+    "question": "A book titled 'Growing Vegetables' has a section 'Watering'. Which question would that section most likely answer?",
+    "audio_prompt": "A book titled 'Growing Vegetables' has a section 'Watering'. Which question would that section most likely answer?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "How do I repair a bicycle?",
+        "is_correct": false
+      },
+      {
+        "text": "Who invented football?",
+        "is_correct": false
+      },
+      {
+        "text": "How should I give the plants water?",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The heading identifies a specific part of the book's gardening topic.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "independent",
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 9,
+    "review": {
+      "version": "20260906-english-review-1",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": null,
+      "evidence_scope": "No direct task mapped by IXL; official curriculum-led review. See docs/question-bank-reviews/2026-09-06-year1-english-la01-la05.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1la05-er1-t-010",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA05",
+    "bank": "test",
+    "skill": "print and screen organisation and navigation",
+    "question": "Contents: 'Baby Animals — 2; Shelters — 6; Tracks — 10.' You want to identify footprints. Where should you begin?",
+    "audio_prompt": "Contents: 'Baby Animals — 2; Shelters — 6; Tracks — 10.' You want to identify footprints. Where should you begin?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Tracks, page 10.",
+        "is_correct": true
+      },
+      {
+        "text": "Shelters, page 6.",
+        "is_correct": false
+      },
+      {
+        "text": "Baby Animals, page 2.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Footprints are tracks, so that section matches the information needed.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "independent",
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 10,
+    "review": {
+      "version": "20260906-english-review-1",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": null,
+      "evidence_scope": "No direct task mapped by IXL; official curriculum-led review. See docs/question-bank-reviews/2026-09-06-year1-english-la01-la05.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1la05-er1-t-011",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA05",
+    "bank": "test",
+    "skill": "print and screen organisation and navigation",
+    "question": "An e-book offers 'Return to library' and 'Read next page'. You want to choose a different book. Which fits?",
+    "audio_prompt": "An e-book offers 'Return to library' and 'Read next page'. You want to choose a different book. Which fits?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Both only change the font.",
+        "is_correct": false
+      },
+      {
+        "text": "Return to library.",
+        "is_correct": true
+      },
+      {
+        "text": "Read next page.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The library is where books can be selected; next page stays in this book.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "independent",
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 11,
+    "review": {
+      "version": "20260906-english-review-1",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": null,
+      "evidence_scope": "No direct task mapped by IXL; official curriculum-led review. See docs/question-bank-reviews/2026-09-06-year1-english-la01-la05.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1la05-er1-t-012",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA05",
+    "bank": "test",
+    "skill": "print and screen organisation and navigation",
+    "question": "A page shows a magnifying-glass image with the label 'Search this book'. What does this control help you do?",
+    "audio_prompt": "A page shows a magnifying-glass image with the label 'Search this book'. What does this control help you do?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Turn every page into a larger picture.",
+        "is_correct": false
+      },
+      {
+        "text": "Hear the whole book read aloud.",
+        "is_correct": false
+      },
+      {
+        "text": "Find a word or topic in the book.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The label explains the search function of the symbol.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "independent",
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 12,
+    "review": {
+      "version": "20260906-english-review-1",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": null,
+      "evidence_scope": "No direct task mapped by IXL; official curriculum-led review. See docs/question-bank-reviews/2026-09-06-year1-english-la01-la05.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1la05-er1-t-013",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA05",
+    "bank": "test",
+    "skill": "print and screen organisation and navigation",
+    "question": "A contents list says 'Clouds — 16'. You arrive at page 16, headed 'Clouds'. What confirms you found the intended section?",
+    "audio_prompt": "A contents list says 'Clouds — 16'. You arrive at page 16, headed 'Clouds'. What confirms you found the intended section?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Both the number and heading match.",
+        "is_correct": true
+      },
+      {
+        "text": "The page uses a dark text colour.",
+        "is_correct": false
+      },
+      {
+        "text": "The book has a cover.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Matching the page reference and topic heading confirms the location.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "independent",
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 13,
+    "review": {
+      "version": "20260906-english-review-1",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": null,
+      "evidence_scope": "No direct task mapped by IXL; official curriculum-led review. See docs/question-bank-reviews/2026-09-06-year1-english-la01-la05.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1la05-er1-t-014",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA05",
+    "bank": "test",
+    "skill": "print and screen organisation and navigation",
+    "question": "You want to hear only the current page. A menu has 'Read this page', 'Read from start' and 'Mute'. Which option fits?",
+    "audio_prompt": "You want to hear only the current page. A menu has 'Read this page', 'Read from start' and 'Mute'. Which option fits?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Mute.",
+        "is_correct": false
+      },
+      {
+        "text": "Read this page.",
+        "is_correct": true
+      },
+      {
+        "text": "Read from start.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Only the first label limits the spoken reading to the current page.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "independent",
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 14,
+    "review": {
+      "version": "20260906-english-review-1",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": null,
+      "evidence_scope": "No direct task mapped by IXL; official curriculum-led review. See docs/question-bank-reviews/2026-09-06-year1-english-la01-la05.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1la05-er1-t-015",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA05",
+    "bank": "test",
+    "skill": "print and screen organisation and navigation",
+    "question": "A link is labelled 'Meet the author', but you want the next part of the story. Why is 'Next page' more useful?",
+    "audio_prompt": "A link is labelled 'Meet the author', but you want the next part of the story. Why is 'Next page' more useful?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It always shows the book's cover.",
+        "is_correct": false
+      },
+      {
+        "text": "It changes who wrote the story.",
+        "is_correct": false
+      },
+      {
+        "text": "It continues the story instead of opening author information.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The labels describe different destinations, so choose the one matching the reading goal.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "independent",
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 15,
+    "review": {
+      "version": "20260906-english-review-1",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": null,
+      "evidence_scope": "No direct task mapped by IXL; official curriculum-led review. See docs/question-bank-reviews/2026-09-06-year1-english-la01-la05.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1la05-er1-t-016",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA05",
+    "bank": "test",
+    "skill": "print and screen organisation and navigation",
+    "question": "A book has the title 'Our Coast' and headings 'Rock Pools', 'Sand Dunes' and 'Seabirds'. How does this organisation help?",
+    "audio_prompt": "A book has the title 'Our Coast' and headings 'Rock Pools', 'Sand Dunes' and 'Seabirds'. How does this organisation help?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It divides the coast topic into sections readers can find.",
+        "is_correct": true
+      },
+      {
+        "text": "It puts every coastal event in time order.",
+        "is_correct": false
+      },
+      {
+        "text": "It tells readers to read only the last page.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Headings group related information within the broader title topic.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "independent",
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 16,
+    "review": {
+      "version": "20260906-english-review-1",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": null,
+      "evidence_scope": "No direct task mapped by IXL; official curriculum-led review. See docs/question-bank-reviews/2026-09-06-year1-english-la01-la05.md. No measured equivalence or IXL endorsement."
+    }
   }
 ]

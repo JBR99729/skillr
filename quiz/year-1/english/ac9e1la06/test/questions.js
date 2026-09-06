@@ -4,466 +4,480 @@ window.skillrTestQuestions = [
     "id": "ac9e1la06-t-001",
     "curriculumCode": "AC9E1LA06",
     "bank": "test",
-    "skill": "ac9e1la06 01 answer",
+    "skill": "understand that a simple sentence consists of a single independent clause representing a single event or idea",
     "printable": true,
     "type": "single",
-    "question": "Which response would correctly show complete and incomplete?",
-    "audioPrompt": "Which response would correctly show complete and incomplete?",
-    "visual": "📖 show complete and incomplete; 🔎 who/what; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 show complete and incomplete; 🔎 who/what; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la06.svg#ac9e1la06-t-001\"></use></svg>",
+    "question": "Which is a complete sentence?",
+    "audioPrompt": "Which is a complete sentence?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la06.svg#ac9e1la06-t-001",
-      "alt_text": "📖 show complete and incomplete; 🔎 who/what; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Complete example expresses who/what plus event/state; fragment lacks a necessary part",
-      "Leave out the person, place or thing doing the action.",
-      "Do not keep one clear event or idea."
+      "The frog.",
+      "The frog runs.",
+      "Very fast."
     ],
-    "correct": 0,
-    "explanation": "Complete example expresses who/what plus event/state; fragment lacks a necessary part This matches the task.\nHint: Add the person, place or thing doing the action.",
+    "correct": 1,
+    "explanation": "The frog runs. is the best answer.",
     "structuredExplanation": {
-      "summary": "Complete example expresses who/what plus event/state; fragment lacks a necessary part This matches the task.",
-      "hint": "Add the person, place or thing doing the action."
+      "summary": "The frog runs. is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 1
   },
   {
     "id": "ac9e1la06-t-002",
     "curriculumCode": "AC9E1LA06",
     "bank": "test",
-    "skill": "ac9e1la06 01 strategy",
+    "skill": "understand that a simple sentence consists of a single independent clause representing a single event or idea",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you show complete and incomplete?",
-    "audioPrompt": "Which tip would help you show complete and incomplete?",
-    "visual": "🧠 show complete and incomplete; ➡️ Choose idea; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 show complete and incomplete; ➡️ Choose idea; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la06.svg#ac9e1la06-t-002\"></use></svg>",
+    "question": "Finish the sentence: “Max …”",
+    "audioPrompt": "Finish the sentence: “Max …”",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la06.svg#ac9e1la06-t-002",
-      "alt_text": "🧠 show complete and incomplete; ➡️ Choose idea; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Do not keep one clear event or idea.",
-      "Add the person, place or thing doing the action.",
-      "Leave out boundary mark."
+      "at the zoo.",
+      "jumps at the zoo.",
+      "and the."
     ],
     "correct": 1,
-    "explanation": "Add the person, place or thing doing the action.\nHint: Add the person, place or thing doing the action.",
+    "explanation": "jumps at the zoo. is the best answer.",
     "structuredExplanation": {
-      "summary": "Add the person, place or thing doing the action.",
-      "hint": "Add the person, place or thing doing the action."
+      "summary": "jumps at the zoo. is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 2
   },
   {
     "id": "ac9e1la06-t-003",
     "curriculumCode": "AC9E1LA06",
     "bank": "test",
-    "skill": "ac9e1la06 02 answer",
+    "skill": "understand that a simple sentence consists of a single independent clause representing a single event or idea",
     "printable": true,
     "type": "single",
-    "question": "Which response would correctly draw two clause parts?",
-    "audioPrompt": "Which response would correctly draw two clause parts?",
-    "visual": "📖 Draw two clause parts; 🔎 what happened; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Draw two clause parts; 🔎 what happened; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la06.svg#ac9e1la06-t-003\"></use></svg>",
+    "question": "Who does the action in “The fish sleeps”?",
+    "audioPrompt": "Who does the action in “The fish sleeps”?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la06.svg#ac9e1la06-t-003",
-      "alt_text": "📖 Draw two clause parts; 🔎 what happened; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "The bright kite",
-      "flies above the park",
-      "Correct two parts joined as 'The bright kite flies above the park.'"
+      "sleeps",
+      "no one",
+      "the fish"
     ],
     "correct": 2,
-    "explanation": "Correct two parts joined as 'The bright kite flies above the park.' This matches the task.\nHint: Keep one clear event or idea.",
+    "explanation": "the fish is the best answer.",
     "structuredExplanation": {
-      "summary": "Correct two parts joined as 'The bright kite flies above the park.' This matches the task.",
-      "hint": "Keep one clear event or idea."
+      "summary": "the fish is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 3
   },
   {
     "id": "ac9e1la06-t-004",
     "curriculumCode": "AC9E1LA06",
     "bank": "test",
-    "skill": "ac9e1la06 02 strategy",
+    "skill": "understand that a simple sentence consists of a single independent clause representing a single event or idea",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you draw two clause parts?",
-    "audioPrompt": "Which tip would help you draw two clause parts?",
-    "visual": "🧠 Draw two clause parts; ➡️ Say sentence; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Draw two clause parts; ➡️ Say sentence; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la06.svg#ac9e1la06-t-004\"></use></svg>",
+    "question": "What happens in “Ben sings”?",
+    "audioPrompt": "What happens in “Ben sings”?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la06.svg#ac9e1la06-t-004",
-      "alt_text": "🧠 Draw two clause parts; ➡️ Say sentence; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Use this routine: Choose idea → Say sentence → Check it makes sense → Add boundary punctuation.",
-      "Leave out boundary mark.",
-      "Leave out the person, place or thing doing the action."
+      "Ben is a place.",
+      "Nothing happens.",
+      "Ben sings."
     ],
-    "correct": 0,
-    "explanation": "Use this routine: Choose idea → Say sentence → Check it makes sense → Add boundary punctuation.\nHint: Keep one clear event or idea.",
+    "correct": 2,
+    "explanation": "Ben sings. is the best answer.",
     "structuredExplanation": {
-      "summary": "Use this routine: Choose idea → Say sentence → Check it makes sense → Add boundary punctuation.",
-      "hint": "Keep one clear event or idea."
+      "summary": "Ben sings. is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 4
   },
   {
     "id": "ac9e1la06-t-005",
     "curriculumCode": "AC9E1LA06",
     "bank": "test",
-    "skill": "ac9e1la06 03 answer",
+    "skill": "understand that a simple sentence consists of a single independent clause representing a single event or idea",
     "printable": true,
     "type": "single",
-    "question": "Which response would correctly correct a run-together sentence?",
-    "audioPrompt": "Which response would correctly correct a run-together sentence?",
-    "visual": "📖 Correct a run-together sentence; 🔎 complete idea; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Correct a run-together sentence; 🔎 complete idea; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la06.svg#ac9e1la06-t-005\"></use></svg>",
+    "question": "Which sentence tells one idea?",
+    "audioPrompt": "Which sentence tells one idea?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la06.svg#ac9e1la06-t-005",
-      "alt_text": "📖 Correct a run-together sentence; 🔎 complete idea; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "I packed my bag I walked to school",
-      "'I packed my bag. I walked to school.'",
-      "Leave out boundary mark."
+      "Sam has a sock.",
+      "Has a sock.",
+      "Sam and a sock."
     ],
-    "correct": 1,
-    "explanation": "'I packed my bag. I walked to school.' This matches the task.\nHint: Start with a capital and end with punctuation.",
+    "correct": 0,
+    "explanation": "Sam has a sock. is the best answer.",
     "structuredExplanation": {
-      "summary": "'I packed my bag. I walked to school.' This matches the task.",
-      "hint": "Start with a capital and end with punctuation."
+      "summary": "Sam has a sock. is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 5
   },
   {
     "id": "ac9e1la06-t-006",
     "curriculumCode": "AC9E1LA06",
     "bank": "test",
-    "skill": "ac9e1la06 03 strategy",
+    "skill": "understand that a simple sentence consists of a single independent clause representing a single event or idea",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you correct a run-together sentence?",
-    "audioPrompt": "Which tip would help you correct a run-together sentence?",
-    "visual": "🧠 Correct a run-together sentence; ➡️ Check it makes sense; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Correct a run-together sentence; ➡️ Check it makes sense; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la06.svg#ac9e1la06-t-006\"></use></svg>",
+    "question": "Which words make a sentence?",
+    "audioPrompt": "Which words make a sentence?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la06.svg#ac9e1la06-t-006",
-      "alt_text": "🧠 Correct a run-together sentence; ➡️ Check it makes sense; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Leave out the person, place or thing doing the action.",
-      "Do not keep one clear event or idea.",
-      "Look for complete idea and check the whole example."
+      "The dog is little.",
+      "little the dog",
+      "is little"
     ],
-    "correct": 2,
-    "explanation": "Look for complete idea and check the whole example.\nHint: Start with a capital and end with punctuation.",
+    "correct": 0,
+    "explanation": "The dog is little. is the best answer.",
     "structuredExplanation": {
-      "summary": "Look for complete idea and check the whole example.",
-      "hint": "Start with a capital and end with punctuation."
+      "summary": "The dog is little. is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 6
   },
   {
     "id": "ac9e1la06-t-007",
     "curriculumCode": "AC9E1LA06",
     "bank": "test",
-    "skill": "ac9e1la06 04 answer",
+    "skill": "understand that a simple sentence consists of a single independent clause representing a single event or idea",
     "printable": true,
     "type": "single",
-    "question": "Which response would correctly analyse sentence additions?",
-    "audioPrompt": "Which response would correctly analyse sentence additions?",
-    "visual": "📖 Analyse sentence additions; 🔎 full stop; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Analyse sentence additions; 🔎 full stop; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la06.svg#ac9e1la06-t-007\"></use></svg>",
+    "question": "Choose the sentence with a person and an action.",
+    "audioPrompt": "Choose the sentence with a person and an action.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la06.svg#ac9e1la06-t-007",
-      "alt_text": "📖 Analyse sentence additions; 🔎 full stop; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Valid expanded sentence retains one clause/event; identifies rests as single main action despite added details",
-      "The fox rests",
-      "Leave out the person, place or thing doing the action."
+      "Very big.",
+      "The school.",
+      "Ava eats."
     ],
-    "correct": 0,
-    "explanation": "Valid expanded sentence retains one clause/event; identifies rests as single main action despite added details This matches the task.\nHint: Add the person, place or thing doing the action.",
+    "correct": 2,
+    "explanation": "Ava eats. is the best answer.",
     "structuredExplanation": {
-      "summary": "Valid expanded sentence retains one clause/event; identifies rests as single main action despite added details This matches the task.",
-      "hint": "Add the person, place or thing doing the action."
+      "summary": "Ava eats. is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 7
   },
   {
     "id": "ac9e1la06-t-008",
     "curriculumCode": "AC9E1LA06",
     "bank": "test",
-    "skill": "ac9e1la06 04 strategy",
+    "skill": "understand that a simple sentence consists of a single independent clause representing a single event or idea",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you analyse sentence additions?",
-    "audioPrompt": "Which tip would help you analyse sentence additions?",
-    "visual": "🧠 Analyse sentence additions; ➡️ Add boundary punctuation; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Analyse sentence additions; ➡️ Add boundary punctuation; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la06.svg#ac9e1la06-t-008\"></use></svg>",
+    "question": "Which sentence is complete?",
+    "audioPrompt": "Which sentence is complete?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la06.svg#ac9e1la06-t-008",
-      "alt_text": "🧠 Analyse sentence additions; ➡️ Add boundary punctuation; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Do not keep one clear event or idea.",
-      "Check that you can use boundary punctuation.",
-      "Leave out boundary mark."
+      "Is a bag.",
+      "My blue.",
+      "My bag is blue."
     ],
-    "correct": 1,
-    "explanation": "Check that you can use boundary punctuation.\nHint: Add the person, place or thing doing the action.",
+    "correct": 2,
+    "explanation": "My bag is blue. is the best answer.",
     "structuredExplanation": {
-      "summary": "Check that you can use boundary punctuation.",
-      "hint": "Add the person, place or thing doing the action."
+      "summary": "My bag is blue. is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 8
   },
   {
     "id": "ac9e1la06-t-009",
     "curriculumCode": "AC9E1LA06",
     "bank": "test",
-    "skill": "ac9e1la06 01 test verify",
+    "skill": "understand that a simple sentence consists of a single independent clause representing a single event or idea",
     "printable": true,
     "type": "single",
-    "question": "A classmate is unsure about this example. Which tip would help them check it carefully?",
-    "audioPrompt": "A classmate is unsure about this example. Which tip would help them check it carefully?",
-    "visual": "🧠 show complete and incomplete; ➡️ Choose idea; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 show complete and incomplete; ➡️ Choose idea; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la06.svg#ac9e1la06-t-002\"></use></svg>",
+    "question": "Which is a complete sentence?",
+    "audioPrompt": "Which is a complete sentence?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la06.svg#ac9e1la06-t-002",
-      "alt_text": "🧠 show complete and incomplete; ➡️ Choose idea; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Leave out the person, place or thing doing the action.",
-      "Do not keep one clear event or idea.",
-      "Add the person, place or thing doing the action."
+      "Very fast.",
+      "The fish runs.",
+      "The fish."
     ],
-    "correct": 2,
-    "explanation": "Add the person, place or thing doing the action. is the useful check. Add the person, place or thing doing the action.\nHint: Add the person, place or thing doing the action.",
+    "correct": 1,
+    "explanation": "The fish runs. is the best answer.",
     "structuredExplanation": {
-      "summary": "Add the person, place or thing doing the action. is the useful check. Add the person, place or thing doing the action.",
-      "hint": "Add the person, place or thing doing the action."
+      "summary": "The fish runs. is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 9
   },
   {
     "id": "ac9e1la06-t-010",
     "curriculumCode": "AC9E1LA06",
     "bank": "test",
-    "skill": "ac9e1la06 02 test verify",
+    "skill": "understand that a simple sentence consists of a single independent clause representing a single event or idea",
     "printable": true,
     "type": "single",
-    "question": "A classmate is unsure about this example. Which tip would help them check it carefully?",
-    "audioPrompt": "A classmate is unsure about this example. Which tip would help them check it carefully?",
-    "visual": "🧠 Draw two clause parts; ➡️ Say sentence; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Draw two clause parts; ➡️ Say sentence; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la06.svg#ac9e1la06-t-004\"></use></svg>",
+    "question": "Finish the sentence: “Mia …”",
+    "audioPrompt": "Finish the sentence: “Mia …”",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la06.svg#ac9e1la06-t-004",
-      "alt_text": "🧠 Draw two clause parts; ➡️ Say sentence; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Use this routine: Choose idea → Say sentence → Check it makes sense → Add boundary punctuation.",
-      "The bright kite",
-      "flies above the park"
+      "and the.",
+      "at the school.",
+      "jumps at the school."
     ],
-    "correct": 0,
-    "explanation": "Use this routine: Choose idea → Say sentence → Check it makes sense → Add boundary punctuation. is the useful check. Keep one clear event or idea.\nHint: Keep one clear event or idea.",
+    "correct": 2,
+    "explanation": "jumps at the school. is the best answer.",
     "structuredExplanation": {
-      "summary": "Use this routine: Choose idea → Say sentence → Check it makes sense → Add boundary punctuation. is the useful check. Keep one clear event or idea.",
-      "hint": "Keep one clear event or idea."
+      "summary": "jumps at the school. is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 10
   },
   {
     "id": "ac9e1la06-t-011",
     "curriculumCode": "AC9E1LA06",
     "bank": "test",
-    "skill": "ac9e1la06 03 test verify",
+    "skill": "understand that a simple sentence consists of a single independent clause representing a single event or idea",
     "printable": true,
     "type": "single",
-    "question": "A classmate is unsure about this example. Which tip would help them check it carefully?",
-    "audioPrompt": "A classmate is unsure about this example. Which tip would help them check it carefully?",
-    "visual": "🧠 Correct a run-together sentence; ➡️ Check it makes sense; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Correct a run-together sentence; ➡️ Check it makes sense; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la06.svg#ac9e1la06-t-006\"></use></svg>",
+    "question": "Who does the action in “The cat sleeps”?",
+    "audioPrompt": "Who does the action in “The cat sleeps”?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la06.svg#ac9e1la06-t-006",
-      "alt_text": "🧠 Correct a run-together sentence; ➡️ Check it makes sense; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "I packed my bag I walked to school",
-      "Look for complete idea and check the whole example.",
-      "Leave out boundary mark."
+      "no one",
+      "sleeps",
+      "the cat"
     ],
-    "correct": 1,
-    "explanation": "Look for complete idea and check the whole example. is the useful check. Start with a capital and end with punctuation.\nHint: Start with a capital and end with punctuation.",
+    "correct": 2,
+    "explanation": "the cat is the best answer.",
     "structuredExplanation": {
-      "summary": "Look for complete idea and check the whole example. is the useful check. Start with a capital and end with punctuation.",
-      "hint": "Start with a capital and end with punctuation."
+      "summary": "the cat is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 11
   },
   {
     "id": "ac9e1la06-t-012",
     "curriculumCode": "AC9E1LA06",
     "bank": "test",
-    "skill": "ac9e1la06 04 test verify",
+    "skill": "understand that a simple sentence consists of a single independent clause representing a single event or idea",
     "printable": true,
     "type": "single",
-    "question": "A classmate is unsure about this example. Which tip would help them check it carefully?",
-    "audioPrompt": "A classmate is unsure about this example. Which tip would help them check it carefully?",
-    "visual": "🧠 Analyse sentence additions; ➡️ Add boundary punctuation; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Analyse sentence additions; ➡️ Add boundary punctuation; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la06.svg#ac9e1la06-t-008\"></use></svg>",
+    "question": "What happens in “Sam sings”?",
+    "audioPrompt": "What happens in “Sam sings”?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la06.svg#ac9e1la06-t-008",
-      "alt_text": "🧠 Analyse sentence additions; ➡️ Add boundary punctuation; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "The fox rests",
-      "Leave out the person, place or thing doing the action.",
-      "Check that you can use boundary punctuation."
+      "Sam is a place.",
+      "Nothing happens.",
+      "Sam sings."
     ],
     "correct": 2,
-    "explanation": "Check that you can use boundary punctuation. is the useful check. Add the person, place or thing doing the action.\nHint: Add the person, place or thing doing the action.",
+    "explanation": "Sam sings. is the best answer.",
     "structuredExplanation": {
-      "summary": "Check that you can use boundary punctuation. is the useful check. Add the person, place or thing doing the action.",
-      "hint": "Add the person, place or thing doing the action."
+      "summary": "Sam sings. is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 12
   },
   {
     "id": "ac9e1la06-t-013",
     "curriculumCode": "AC9E1LA06",
     "bank": "test",
-    "skill": "ac9e1la06 01 test apply",
+    "skill": "understand that a simple sentence consists of a single independent clause representing a single event or idea",
     "printable": true,
     "type": "single",
-    "question": "A classmate chose “Leave out the person, place or thing doing the action.”. Which answer would improve their response?",
-    "audioPrompt": "A classmate chose Leave out the person, place or thing doing the action.. Which answer would improve their response?",
-    "visual": "📖 show complete and incomplete; 🔎 who/what; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 show complete and incomplete; 🔎 who/what; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la06.svg#ac9e1la06-t-001\"></use></svg>",
+    "question": "Which sentence tells one idea?",
+    "audioPrompt": "Which sentence tells one idea?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la06.svg#ac9e1la06-t-001",
-      "alt_text": "📖 show complete and incomplete; 🔎 who/what; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Complete example expresses who/what plus event/state; fragment lacks a necessary part",
-      "Leave out the person, place or thing doing the action.",
-      "Do not keep one clear event or idea."
+      "Kim has a bag.",
+      "Kim and a bag.",
+      "Has a bag."
     ],
     "correct": 0,
-    "explanation": "Complete example expresses who/what plus event/state; fragment lacks a necessary part is the stronger response because it uses the target skill. Add the person, place or thing doing the action.\nHint: Add the person, place or thing doing the action.",
+    "explanation": "Kim has a bag. is the best answer.",
     "structuredExplanation": {
-      "summary": "Complete example expresses who/what plus event/state; fragment lacks a necessary part is the stronger response because it uses the target skill. Add the person, place or thing doing the action.",
-      "hint": "Add the person, place or thing doing the action."
+      "summary": "Kim has a bag. is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 13
   },
   {
     "id": "ac9e1la06-t-014",
     "curriculumCode": "AC9E1LA06",
     "bank": "test",
-    "skill": "ac9e1la06 02 test apply",
+    "skill": "understand that a simple sentence consists of a single independent clause representing a single event or idea",
     "printable": true,
     "type": "single",
-    "question": "A classmate chose “The bright kite”. Which answer would improve their response?",
-    "audioPrompt": "A classmate chose The bright kite. Which answer would improve their response?",
-    "visual": "📖 Draw two clause parts; 🔎 what happened; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Draw two clause parts; 🔎 what happened; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la06.svg#ac9e1la06-t-003\"></use></svg>",
+    "question": "Which words make a sentence?",
+    "audioPrompt": "Which words make a sentence?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la06.svg#ac9e1la06-t-003",
-      "alt_text": "📖 Draw two clause parts; 🔎 what happened; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "The bright kite",
-      "Correct two parts joined as 'The bright kite flies above the park.'",
-      "flies above the park"
+      "The fox is little.",
+      "is little",
+      "little the fox"
     ],
-    "correct": 1,
-    "explanation": "Correct two parts joined as 'The bright kite flies above the park.' is the stronger response because it uses the target skill. Keep one clear event or idea.\nHint: Keep one clear event or idea.",
+    "correct": 0,
+    "explanation": "The fox is little. is the best answer.",
     "structuredExplanation": {
-      "summary": "Correct two parts joined as 'The bright kite flies above the park.' is the stronger response because it uses the target skill. Keep one clear event or idea.",
-      "hint": "Keep one clear event or idea."
+      "summary": "The fox is little. is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 14
   },
   {
     "id": "ac9e1la06-t-015",
     "curriculumCode": "AC9E1LA06",
     "bank": "test",
-    "skill": "ac9e1la06 03 test apply",
+    "skill": "understand that a simple sentence consists of a single independent clause representing a single event or idea",
     "printable": true,
     "type": "single",
-    "question": "A classmate chose “I packed my bag I walked to school”. Which answer would improve their response?",
-    "audioPrompt": "A classmate chose I packed my bag I walked to school. Which answer would improve their response?",
-    "visual": "📖 Correct a run-together sentence; 🔎 complete idea; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Correct a run-together sentence; 🔎 complete idea; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la06.svg#ac9e1la06-t-005\"></use></svg>",
+    "question": "Choose the sentence with a person and an action.",
+    "audioPrompt": "Choose the sentence with a person and an action.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la06.svg#ac9e1la06-t-005",
-      "alt_text": "📖 Correct a run-together sentence; 🔎 complete idea; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "I packed my bag I walked to school",
-      "Leave out boundary mark.",
-      "'I packed my bag. I walked to school.'"
+      "The shop.",
+      "Very big.",
+      "Leo eats."
     ],
     "correct": 2,
-    "explanation": "'I packed my bag. I walked to school.' is the stronger response because it uses the target skill. Start with a capital and end with punctuation.\nHint: Start with a capital and end with punctuation.",
+    "explanation": "Leo eats. is the best answer.",
     "structuredExplanation": {
-      "summary": "'I packed my bag. I walked to school.' is the stronger response because it uses the target skill. Start with a capital and end with punctuation.",
-      "hint": "Start with a capital and end with punctuation."
+      "summary": "Leo eats. is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 15
   },
   {
     "id": "ac9e1la06-t-016",
     "curriculumCode": "AC9E1LA06",
     "bank": "test",
-    "skill": "ac9e1la06 04 test apply",
+    "skill": "understand that a simple sentence consists of a single independent clause representing a single event or idea",
     "printable": true,
     "type": "single",
-    "question": "A classmate chose “The fox rests”. Which answer would improve their response?",
-    "audioPrompt": "A classmate chose The fox rests. Which answer would improve their response?",
-    "visual": "📖 Analyse sentence additions; 🔎 full stop; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Analyse sentence additions; 🔎 full stop; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la06.svg#ac9e1la06-t-007\"></use></svg>",
+    "question": "Which sentence is complete?",
+    "audioPrompt": "Which sentence is complete?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la06.svg#ac9e1la06-t-007",
-      "alt_text": "📖 Analyse sentence additions; 🔎 full stop; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Valid expanded sentence retains one clause/event; identifies rests as single main action despite added details",
-      "The fox rests",
-      "Leave out the person, place or thing doing the action."
+      "My blue.",
+      "Is a ball.",
+      "My ball is blue."
     ],
-    "correct": 0,
-    "explanation": "Valid expanded sentence retains one clause/event; identifies rests as single main action despite added details is the stronger response because it uses the target skill. Add the person, place or thing doing the action.\nHint: Add the person, place or thing doing the action.",
+    "correct": 2,
+    "explanation": "My ball is blue. is the best answer.",
     "structuredExplanation": {
-      "summary": "Valid expanded sentence retains one clause/event; identifies rests as single main action despite added details is the stronger response because it uses the target skill. Add the person, place or thing doing the action.",
-      "hint": "Add the person, place or thing doing the action."
+      "summary": "My ball is blue. is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 16
   }
 ];
-window.skillrExamQuestions = window.skillrTestQuestions;
-window.quizQuestions = window.skillrTestQuestions;

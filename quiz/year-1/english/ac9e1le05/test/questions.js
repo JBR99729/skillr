@@ -4,466 +4,480 @@ window.skillrTestQuestions = [
     "id": "ac9e1le05-t-001",
     "curriculumCode": "AC9E1LE05",
     "bank": "test",
-    "skill": "ac9e1le05 01 answer",
+    "skill": "retell or adapt a familiar story through speaking, role-play, writing, drawing or digital tools",
     "printable": true,
     "type": "single",
-    "question": "Which response would correctly show character voice?",
-    "audioPrompt": "Which response would correctly show character voice?",
-    "visual": "📖 show character voice; 🔎 retell; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 show character voice; 🔎 retell; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le05.svg#ac9e1le05-t-001\"></use></svg>",
+    "question": "Retell: “Zoe found a seed. Zoe planted it. A flower grew.” What happened second?",
+    "audioPrompt": "Retell: “Zoe found a seed. Zoe planted it. A flower grew.” What happened second?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le05.svg#ac9e1le05-t-001",
-      "alt_text": "📖 show character voice; 🔎 retell; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Vocabulary, voice or gesture clearly distinguishes both while event stays recognisable",
-      "Do not keep enough familiar structure for the story to make sense.",
-      "Leave out ending."
+      "The seed was found.",
+      "The seed was planted.",
+      "A flower grew."
     ],
-    "correct": 0,
-    "explanation": "Vocabulary, voice or gesture clearly distinguishes both while event stays recognisable This matches the task.\nHint: Keep enough familiar structure for the story to make sense.",
+    "correct": 1,
+    "explanation": "The seed was planted. is the best answer.",
     "structuredExplanation": {
-      "summary": "Vocabulary, voice or gesture clearly distinguishes both while event stays recognisable This matches the task.",
-      "hint": "Keep enough familiar structure for the story to make sense."
+      "summary": "The seed was planted. is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 1
   },
   {
     "id": "ac9e1le05-t-002",
     "curriculumCode": "AC9E1LE05",
     "bank": "test",
-    "skill": "ac9e1le05 01 strategy",
+    "skill": "retell or adapt a familiar story through speaking, role-play, writing, drawing or digital tools",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you show character voice?",
-    "audioPrompt": "Which tip would help you show character voice?",
-    "visual": "🧠 show character voice; ➡️ Remember story; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 show character voice; ➡️ Remember story; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le05.svg#ac9e1le05-t-002\"></use></svg>",
+    "question": "Look and choose: In a retell, what should come first?",
+    "audioPrompt": "Look and choose: In a retell, what should come first?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le05.svg#ac9e1le05-t-002",
-      "alt_text": "🧠 show character voice; ➡️ Remember story; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Leave out ending.",
-      "Keep enough familiar structure for the story to make sense.",
-      "Change every part of the story at once."
+      "the ending",
+      "the beginning",
+      "a new story"
     ],
     "correct": 1,
-    "explanation": "Keep enough familiar structure for the story to make sense.\nHint: Keep enough familiar structure for the story to make sense.",
+    "explanation": "the beginning is the best answer.",
     "structuredExplanation": {
-      "summary": "Keep enough familiar structure for the story to make sense.",
-      "hint": "Keep enough familiar structure for the story to make sense."
+      "summary": "the beginning is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 2
   },
   {
     "id": "ac9e1le05-t-003",
     "curriculumCode": "AC9E1LE05",
     "bank": "test",
-    "skill": "ac9e1le05 02 answer",
+    "skill": "retell or adapt a familiar story through speaking, role-play, writing, drawing or digital tools",
     "printable": true,
     "type": "single",
-    "question": "Which response would correctly draw original and adapted plots?",
-    "audioPrompt": "Which response would correctly draw original and adapted plots?",
-    "visual": "📖 Draw original and adapted plots; 🔎 adapt; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Draw original and adapted plots; 🔎 adapt; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le05.svg#ac9e1le05-t-003\"></use></svg>",
+    "question": "Which sentence could change the setting of a story?",
+    "audioPrompt": "Which sentence could change the setting of a story?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le05.svg#ac9e1le05-t-003",
-      "alt_text": "📖 Draw original and adapted plots; 🔎 adapt; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Leave out ending.",
-      "Change every part of the story at once.",
-      "Both strips have recognisably parallel problem/attempt/resolution despite changed details"
+      "The story is over.",
+      "Mia can read.",
+      "The story happens at the park."
     ],
     "correct": 2,
-    "explanation": "Both strips have recognisably parallel problem/attempt/resolution despite changed details This matches the task.\nHint: A retell needs a clear ending.",
+    "explanation": "The story happens at the park. is the best answer.",
     "structuredExplanation": {
-      "summary": "Both strips have recognisably parallel problem/attempt/resolution despite changed details This matches the task.",
-      "hint": "A retell needs a clear ending."
+      "summary": "The story happens at the park. is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 3
   },
   {
     "id": "ac9e1le05-t-004",
     "curriculumCode": "AC9E1LE05",
     "bank": "test",
-    "skill": "ac9e1le05 02 strategy",
+    "skill": "retell or adapt a familiar story through speaking, role-play, writing, drawing or digital tools",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you draw original and adapted plots?",
-    "audioPrompt": "Which tip would help you draw original and adapted plots?",
-    "visual": "🧠 Draw original and adapted plots; ➡️ Keep main parts; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Draw original and adapted plots; ➡️ Keep main parts; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le05.svg#ac9e1le05-t-004\"></use></svg>",
+    "question": "You act as the goat in a story. What could you use?",
+    "audioPrompt": "You act as the goat in a story. What could you use?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le05.svg#ac9e1le05-t-004",
-      "alt_text": "🧠 Draw original and adapted plots; ➡️ Keep main parts; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Use this routine: Remember story → Keep main parts → Change/adapt one part → Retell clearly.",
-      "Change every part of the story at once.",
-      "Do not keep enough familiar structure for the story to make sense."
+      "a maths sum",
+      "a page number",
+      "animal movements"
     ],
-    "correct": 0,
-    "explanation": "Use this routine: Remember story → Keep main parts → Change/adapt one part → Retell clearly.\nHint: A retell needs a clear ending.",
+    "correct": 2,
+    "explanation": "animal movements is the best answer.",
     "structuredExplanation": {
-      "summary": "Use this routine: Remember story → Keep main parts → Change/adapt one part → Retell clearly.",
-      "hint": "A retell needs a clear ending."
+      "summary": "animal movements is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 4
   },
   {
     "id": "ac9e1le05-t-005",
     "curriculumCode": "AC9E1LE05",
     "bank": "test",
-    "skill": "ac9e1le05 03 answer",
+    "skill": "retell or adapt a familiar story through speaking, role-play, writing, drawing or digital tools",
     "printable": true,
     "type": "single",
-    "question": "Which response would correctly repair a confusing retell?",
-    "audioPrompt": "Which response would correctly repair a confusing retell?",
-    "visual": "📖 Repair a confusing retell; 🔎 plot; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Repair a confusing retell; 🔎 plot; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le05.svg#ac9e1le05-t-005\"></use></svg>",
+    "question": "Which drawing would show the end of “The lost sock was found”?",
+    "audioPrompt": "Which drawing would show the end of “The lost sock was found”?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le05.svg#ac9e1le05-t-005",
-      "alt_text": "📖 Repair a confusing retell; 🔎 plot; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Change every part of the story at once.",
-      "Restore logical order, include main problem, introduce/connect or remove new character; any three clear fixes",
-      "Do not keep enough familiar structure for the story to make sense."
+      "Sam holding the sock",
+      "Sam looking sad",
+      "an empty road"
     ],
-    "correct": 1,
-    "explanation": "Restore logical order, include main problem, introduce/connect or remove new character; any three clear fixes This matches the task.\nHint: Change one or two parts deliberately.",
+    "correct": 0,
+    "explanation": "Sam holding the sock is the best answer.",
     "structuredExplanation": {
-      "summary": "Restore logical order, include main problem, introduce/connect or remove new character; any three clear fixes This matches the task.",
-      "hint": "Change one or two parts deliberately."
+      "summary": "Sam holding the sock is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 5
   },
   {
     "id": "ac9e1le05-t-006",
     "curriculumCode": "AC9E1LE05",
     "bank": "test",
-    "skill": "ac9e1le05 03 strategy",
+    "skill": "retell or adapt a familiar story through speaking, role-play, writing, drawing or digital tools",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you repair a confusing retell?",
-    "audioPrompt": "Which tip would help you repair a confusing retell?",
-    "visual": "🧠 Repair a confusing retell; ➡️ Change/adapt one part; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Repair a confusing retell; ➡️ Change/adapt one part; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le05.svg#ac9e1le05-t-006\"></use></svg>",
+    "question": "Which sentence keeps the same story order?",
+    "audioPrompt": "Which sentence keeps the same story order?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le05.svg#ac9e1le05-t-006",
-      "alt_text": "🧠 Repair a confusing retell; ➡️ Change/adapt one part; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Do not keep enough familiar structure for the story to make sense.",
-      "Leave out ending.",
-      "Look for plot and check the whole example."
+      "First wake, then eat.",
+      "First eat, then wake.",
+      "Only say the end."
     ],
-    "correct": 2,
-    "explanation": "Look for plot and check the whole example.\nHint: Change one or two parts deliberately.",
+    "correct": 0,
+    "explanation": "First wake, then eat. is the best answer.",
     "structuredExplanation": {
-      "summary": "Look for plot and check the whole example.",
-      "hint": "Change one or two parts deliberately."
+      "summary": "First wake, then eat. is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 6
   },
   {
     "id": "ac9e1le05-t-007",
     "curriculumCode": "AC9E1LE05",
     "bank": "test",
-    "skill": "ac9e1le05 04 answer",
+    "skill": "retell or adapt a familiar story through speaking, role-play, writing, drawing or digital tools",
     "printable": true,
     "type": "single",
-    "question": "Which response would correctly deliver a complete adaptation?",
-    "audioPrompt": "Which response would correctly deliver a complete adaptation?",
-    "visual": "📖 Deliver a complete adaptation; 🔎 characters; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Deliver a complete adaptation; 🔎 characters; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le05.svg#ac9e1le05-t-007\"></use></svg>",
+    "question": "Read and choose: To adapt a story, what may you change?",
+    "audioPrompt": "Read and choose: To adapt a story, what may you change?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le05.svg#ac9e1le05-t-007",
-      "alt_text": "📖 Deliver a complete adaptation; 🔎 characters; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Create and structuring an extended oral adaptation",
-      "A child follows clues to return a lost parcel",
-      "Do not keep enough familiar structure for the story to make sense."
+      "the page number only",
+      "every letter sound",
+      "a character"
     ],
-    "correct": 0,
-    "explanation": "Create and structuring an extended oral adaptation This matches the task.\nHint: Keep enough familiar structure for the story to make sense.",
+    "correct": 2,
+    "explanation": "a character is the best answer.",
     "structuredExplanation": {
-      "summary": "Create and structuring an extended oral adaptation This matches the task.",
-      "hint": "Keep enough familiar structure for the story to make sense."
+      "summary": "a character is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 7
   },
   {
     "id": "ac9e1le05-t-008",
     "curriculumCode": "AC9E1LE05",
     "bank": "test",
-    "skill": "ac9e1le05 04 strategy",
+    "skill": "retell or adapt a familiar story through speaking, role-play, writing, drawing or digital tools",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you deliver a complete adaptation?",
-    "audioPrompt": "Which tip would help you deliver a complete adaptation?",
-    "visual": "🧠 Deliver a complete adaptation; ➡️ Retell clearly; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Deliver a complete adaptation; ➡️ Retell clearly; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le05.svg#ac9e1le05-t-008\"></use></svg>",
+    "question": "Read and choose: Which opening helps retell a story?",
+    "audioPrompt": "Read and choose: Which opening helps retell a story?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le05.svg#ac9e1le05-t-008",
-      "alt_text": "🧠 Deliver a complete adaptation; ➡️ Retell clearly; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Leave out ending.",
-      "Check that you can adapt deliberately.",
-      "Change every part of the story at once."
+      "Stop here.",
+      "The answer is 8.",
+      "One day …"
     ],
-    "correct": 1,
-    "explanation": "Check that you can adapt deliberately.\nHint: Keep enough familiar structure for the story to make sense.",
+    "correct": 2,
+    "explanation": "One day … is the best answer.",
     "structuredExplanation": {
-      "summary": "Check that you can adapt deliberately.",
-      "hint": "Keep enough familiar structure for the story to make sense."
+      "summary": "One day … is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 8
   },
   {
     "id": "ac9e1le05-t-009",
     "curriculumCode": "AC9E1LE05",
     "bank": "test",
-    "skill": "ac9e1le05 01 test verify",
+    "skill": "retell or adapt a familiar story through speaking, role-play, writing, drawing or digital tools",
     "printable": true,
     "type": "single",
-    "question": "A classmate is unsure about this example. Which tip would help them check it carefully?",
-    "audioPrompt": "A classmate is unsure about this example. Which tip would help them check it carefully?",
-    "visual": "🧠 show character voice; ➡️ Remember story; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 show character voice; ➡️ Remember story; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le05.svg#ac9e1le05-t-002\"></use></svg>",
+    "question": "Retell: “Max found a seed. Max planted it. A flower grew.” What happened second?",
+    "audioPrompt": "Retell: “Max found a seed. Max planted it. A flower grew.” What happened second?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le05.svg#ac9e1le05-t-002",
-      "alt_text": "🧠 show character voice; ➡️ Remember story; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Do not keep enough familiar structure for the story to make sense.",
-      "Leave out ending.",
-      "Keep enough familiar structure for the story to make sense."
+      "A flower grew.",
+      "The seed was planted.",
+      "The seed was found."
     ],
-    "correct": 2,
-    "explanation": "Keep enough familiar structure for the story to make sense. is the useful check. Keep enough familiar structure for the story to make sense.\nHint: Keep enough familiar structure for the story to make sense.",
+    "correct": 1,
+    "explanation": "The seed was planted. is the best answer.",
     "structuredExplanation": {
-      "summary": "Keep enough familiar structure for the story to make sense. is the useful check. Keep enough familiar structure for the story to make sense.",
-      "hint": "Keep enough familiar structure for the story to make sense."
+      "summary": "The seed was planted. is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 9
   },
   {
     "id": "ac9e1le05-t-010",
     "curriculumCode": "AC9E1LE05",
     "bank": "test",
-    "skill": "ac9e1le05 02 test verify",
+    "skill": "retell or adapt a familiar story through speaking, role-play, writing, drawing or digital tools",
     "printable": true,
     "type": "single",
-    "question": "A classmate is unsure about this example. Which tip would help them check it carefully?",
-    "audioPrompt": "A classmate is unsure about this example. Which tip would help them check it carefully?",
-    "visual": "🧠 Draw original and adapted plots; ➡️ Keep main parts; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Draw original and adapted plots; ➡️ Keep main parts; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le05.svg#ac9e1le05-t-004\"></use></svg>",
+    "question": "Read and choose: In a retell, what should come first?",
+    "audioPrompt": "Read and choose: In a retell, what should come first?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le05.svg#ac9e1le05-t-004",
-      "alt_text": "🧠 Draw original and adapted plots; ➡️ Keep main parts; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Use this routine: Remember story → Keep main parts → Change/adapt one part → Retell clearly.",
-      "Leave out ending.",
-      "Change every part of the story at once."
+      "a new story",
+      "the ending",
+      "the beginning"
     ],
-    "correct": 0,
-    "explanation": "Use this routine: Remember story → Keep main parts → Change/adapt one part → Retell clearly. is the useful check. A retell needs a clear ending.\nHint: A retell needs a clear ending.",
+    "correct": 2,
+    "explanation": "the beginning is the best answer.",
     "structuredExplanation": {
-      "summary": "Use this routine: Remember story → Keep main parts → Change/adapt one part → Retell clearly. is the useful check. A retell needs a clear ending.",
-      "hint": "A retell needs a clear ending."
+      "summary": "the beginning is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 10
   },
   {
     "id": "ac9e1le05-t-011",
     "curriculumCode": "AC9E1LE05",
     "bank": "test",
-    "skill": "ac9e1le05 03 test verify",
+    "skill": "retell or adapt a familiar story through speaking, role-play, writing, drawing or digital tools",
     "printable": true,
     "type": "single",
-    "question": "A classmate is unsure about this example. Which tip would help them check it carefully?",
-    "audioPrompt": "A classmate is unsure about this example. Which tip would help them check it carefully?",
-    "visual": "🧠 Repair a confusing retell; ➡️ Change/adapt one part; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Repair a confusing retell; ➡️ Change/adapt one part; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le05.svg#ac9e1le05-t-006\"></use></svg>",
+    "question": "Which sentence could change the setting of a story?",
+    "audioPrompt": "Which sentence could change the setting of a story?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le05.svg#ac9e1le05-t-006",
-      "alt_text": "🧠 Repair a confusing retell; ➡️ Change/adapt one part; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Change every part of the story at once.",
-      "Look for plot and check the whole example.",
-      "Do not keep enough familiar structure for the story to make sense."
+      "Ben can read.",
+      "The story is over.",
+      "The story happens at the pond."
     ],
-    "correct": 1,
-    "explanation": "Look for plot and check the whole example. is the useful check. Change one or two parts deliberately.\nHint: Change one or two parts deliberately.",
+    "correct": 2,
+    "explanation": "The story happens at the pond. is the best answer.",
     "structuredExplanation": {
-      "summary": "Look for plot and check the whole example. is the useful check. Change one or two parts deliberately.",
-      "hint": "Change one or two parts deliberately."
+      "summary": "The story happens at the pond. is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 11
   },
   {
     "id": "ac9e1le05-t-012",
     "curriculumCode": "AC9E1LE05",
     "bank": "test",
-    "skill": "ac9e1le05 04 test verify",
+    "skill": "retell or adapt a familiar story through speaking, role-play, writing, drawing or digital tools",
     "printable": true,
     "type": "single",
-    "question": "A classmate is unsure about this example. Which tip would help them check it carefully?",
-    "audioPrompt": "A classmate is unsure about this example. Which tip would help them check it carefully?",
-    "visual": "🧠 Deliver a complete adaptation; ➡️ Retell clearly; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Deliver a complete adaptation; ➡️ Retell clearly; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le05.svg#ac9e1le05-t-008\"></use></svg>",
+    "question": "You act as the dog in a story. What could you use?",
+    "audioPrompt": "You act as the dog in a story. What could you use?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le05.svg#ac9e1le05-t-008",
-      "alt_text": "🧠 Deliver a complete adaptation; ➡️ Retell clearly; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "A child follows clues to return a lost parcel",
-      "Do not keep enough familiar structure for the story to make sense.",
-      "Check that you can adapt deliberately."
+      "a maths sum",
+      "a page number",
+      "animal movements"
     ],
     "correct": 2,
-    "explanation": "Check that you can adapt deliberately. is the useful check. Keep enough familiar structure for the story to make sense.\nHint: Keep enough familiar structure for the story to make sense.",
+    "explanation": "animal movements is the best answer.",
     "structuredExplanation": {
-      "summary": "Check that you can adapt deliberately. is the useful check. Keep enough familiar structure for the story to make sense.",
-      "hint": "Keep enough familiar structure for the story to make sense."
+      "summary": "animal movements is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 12
   },
   {
     "id": "ac9e1le05-t-013",
     "curriculumCode": "AC9E1LE05",
     "bank": "test",
-    "skill": "ac9e1le05 01 test apply",
+    "skill": "retell or adapt a familiar story through speaking, role-play, writing, drawing or digital tools",
     "printable": true,
     "type": "single",
-    "question": "A classmate chose “Do not keep enough familiar structure for the story to make sense.”. Which answer would improve their response?",
-    "audioPrompt": "A classmate chose Do not keep enough familiar structure for the story to make sense.. Which answer would improve their response?",
-    "visual": "📖 show character voice; 🔎 retell; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 show character voice; 🔎 retell; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le05.svg#ac9e1le05-t-001\"></use></svg>",
+    "question": "Which drawing would show the end of “The lost bag was found”?",
+    "audioPrompt": "Which drawing would show the end of “The lost bag was found”?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le05.svg#ac9e1le05-t-001",
-      "alt_text": "📖 show character voice; 🔎 retell; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Vocabulary, voice or gesture clearly distinguishes both while event stays recognisable",
-      "Do not keep enough familiar structure for the story to make sense.",
-      "Leave out ending."
+      "Kim holding the bag",
+      "an empty road",
+      "Kim looking sad"
     ],
     "correct": 0,
-    "explanation": "Vocabulary, voice or gesture clearly distinguishes both while event stays recognisable is the stronger response because it uses the target skill. Keep enough familiar structure for the story to make sense.\nHint: Keep enough familiar structure for the story to make sense.",
+    "explanation": "Kim holding the bag is the best answer.",
     "structuredExplanation": {
-      "summary": "Vocabulary, voice or gesture clearly distinguishes both while event stays recognisable is the stronger response because it uses the target skill. Keep enough familiar structure for the story to make sense.",
-      "hint": "Keep enough familiar structure for the story to make sense."
+      "summary": "Kim holding the bag is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 13
   },
   {
     "id": "ac9e1le05-t-014",
     "curriculumCode": "AC9E1LE05",
     "bank": "test",
-    "skill": "ac9e1le05 02 test apply",
+    "skill": "retell or adapt a familiar story through speaking, role-play, writing, drawing or digital tools",
     "printable": true,
     "type": "single",
-    "question": "A classmate chose “Leave out ending.”. Which answer would improve their response?",
-    "audioPrompt": "A classmate chose Leave out ending.. Which answer would improve their response?",
-    "visual": "📖 Draw original and adapted plots; 🔎 adapt; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Draw original and adapted plots; 🔎 adapt; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le05.svg#ac9e1le05-t-003\"></use></svg>",
+    "question": "Which sentence keeps the same story order?",
+    "audioPrompt": "Which sentence keeps the same story order?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le05.svg#ac9e1le05-t-003",
-      "alt_text": "📖 Draw original and adapted plots; 🔎 adapt; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Leave out ending.",
-      "Both strips have recognisably parallel problem/attempt/resolution despite changed details",
-      "Change every part of the story at once."
+      "First wake, then eat.",
+      "Only say the end.",
+      "First eat, then wake."
     ],
-    "correct": 1,
-    "explanation": "Both strips have recognisably parallel problem/attempt/resolution despite changed details is the stronger response because it uses the target skill. A retell needs a clear ending.\nHint: A retell needs a clear ending.",
+    "correct": 0,
+    "explanation": "First wake, then eat. is the best answer.",
     "structuredExplanation": {
-      "summary": "Both strips have recognisably parallel problem/attempt/resolution despite changed details is the stronger response because it uses the target skill. A retell needs a clear ending.",
-      "hint": "A retell needs a clear ending."
+      "summary": "First wake, then eat. is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 14
   },
   {
     "id": "ac9e1le05-t-015",
     "curriculumCode": "AC9E1LE05",
     "bank": "test",
-    "skill": "ac9e1le05 03 test apply",
+    "skill": "retell or adapt a familiar story through speaking, role-play, writing, drawing or digital tools",
     "printable": true,
     "type": "single",
-    "question": "A classmate chose “Change every part of the story at once.”. Which answer would improve their response?",
-    "audioPrompt": "A classmate chose Change every part of the story at once.. Which answer would improve their response?",
-    "visual": "📖 Repair a confusing retell; 🔎 plot; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Repair a confusing retell; 🔎 plot; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le05.svg#ac9e1le05-t-005\"></use></svg>",
+    "question": "To adapt a story, what may you change?",
+    "audioPrompt": "To adapt a story, what may you change?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le05.svg#ac9e1le05-t-005",
-      "alt_text": "📖 Repair a confusing retell; 🔎 plot; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Change every part of the story at once.",
-      "Do not keep enough familiar structure for the story to make sense.",
-      "Restore logical order, include main problem, introduce/connect or remove new character; any three clear fixes"
+      "every letter sound",
+      "the page number only",
+      "a character"
     ],
     "correct": 2,
-    "explanation": "Restore logical order, include main problem, introduce/connect or remove new character; any three clear fixes is the stronger response because it uses the target skill. Change one or two parts deliberately.\nHint: Change one or two parts deliberately.",
+    "explanation": "a character is the best answer.",
     "structuredExplanation": {
-      "summary": "Restore logical order, include main problem, introduce/connect or remove new character; any three clear fixes is the stronger response because it uses the target skill. Change one or two parts deliberately.",
-      "hint": "Change one or two parts deliberately."
+      "summary": "a character is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 15
   },
   {
     "id": "ac9e1le05-t-016",
     "curriculumCode": "AC9E1LE05",
     "bank": "test",
-    "skill": "ac9e1le05 04 test apply",
+    "skill": "retell or adapt a familiar story through speaking, role-play, writing, drawing or digital tools",
     "printable": true,
     "type": "single",
-    "question": "A classmate chose “A child follows clues to return a lost parcel”. Which answer would improve their response?",
-    "audioPrompt": "A classmate chose A child follows clues to return a lost parcel. Which answer would improve their response?",
-    "visual": "📖 Deliver a complete adaptation; 🔎 characters; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Deliver a complete adaptation; 🔎 characters; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le05.svg#ac9e1le05-t-007\"></use></svg>",
+    "question": "Look and choose: Which opening helps retell a story?",
+    "audioPrompt": "Look and choose: Which opening helps retell a story?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le05.svg#ac9e1le05-t-007",
-      "alt_text": "📖 Deliver a complete adaptation; 🔎 characters; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Create and structuring an extended oral adaptation",
-      "A child follows clues to return a lost parcel",
-      "Do not keep enough familiar structure for the story to make sense."
+      "The answer is 8.",
+      "Stop here.",
+      "One day …"
     ],
-    "correct": 0,
-    "explanation": "Create and structuring an extended oral adaptation is the stronger response because it uses the target skill. Keep enough familiar structure for the story to make sense.\nHint: Keep enough familiar structure for the story to make sense.",
+    "correct": 2,
+    "explanation": "One day … is the best answer.",
     "structuredExplanation": {
-      "summary": "Create and structuring an extended oral adaptation is the stronger response because it uses the target skill. Keep enough familiar structure for the story to make sense.",
-      "hint": "Keep enough familiar structure for the story to make sense."
+      "summary": "One day … is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 16
   }
 ];
-window.skillrExamQuestions = window.skillrTestQuestions;
-window.quizQuestions = window.skillrTestQuestions;

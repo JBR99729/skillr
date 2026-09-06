@@ -1,1162 +1,746 @@
 "use strict";
 window.skillrPracticeQuestions = [
   {
-    "id": "ac9e1la03-p-001",
+    "id": "ac9e1la03-er1-p-001",
     "curriculumCode": "AC9E1LA03",
     "bank": "practice",
-    "skill": "ac9e1la03 01 recognise",
+    "skill": "text organisation matched to purpose",
     "printable": true,
     "type": "single",
-    "question": "Which organising clue is common in a recount: time order, a price list or random facts?",
-    "audioPrompt": "Which organising clue is common in a recount: time order, a price list or random facts?",
-    "visual": "📖 Name a recount clue; 🔎 purpose; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Name a recount clue; 🔎 purpose; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la03.svg#ac9e1la03-p-001\"></use></svg>",
+    "question": "'Yesterday we visited the farm. First we fed hens. Then we saw the lambs.' What is this text doing?",
+    "audioPrompt": "'Yesterday we visited the farm. First we fed hens. Then we saw the lambs.' What is this text doing?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la03.svg#ac9e1la03-p-001",
-      "alt_text": "📖 Name a recount clue; 🔎 purpose; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Time order",
-      "Do not ask what the text is doing, not only what it is about.",
-      "Do not match structure to purpose."
+      "Retelling events in order.",
+      "Explaining why hens lay eggs.",
+      "Giving an opinion about farms."
     ],
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 1,
     "correct": 0,
-    "explanation": "Time order This matches the task.\nHint: Ask what the text is doing, not only what it is about.",
+    "explanation": "Yesterday, first and then organise a recount of what happened.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "Time order This matches the task.",
-      "hint": "Ask what the text is doing, not only what it is about."
+      "summary": "Yesterday, first and then organise a recount of what happened.",
+      "hint": "Read the whole example and check what the question asks."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1la03-p-002",
+    "id": "ac9e1la03-er1-p-002",
     "curriculumCode": "AC9E1LA03",
     "bank": "practice",
-    "skill": "ac9e1la03 02 recognise",
+    "skill": "text organisation matched to purpose",
     "printable": true,
     "type": "single",
-    "question": "Which response would correctly match purposes and structures?",
-    "audioPrompt": "Which response would correctly match purposes and structures?",
-    "visual": "📖 Match purposes and structures; 🔎 recount; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Match purposes and structures; 🔎 recount; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la03.svg#ac9e1la03-p-003\"></use></svg>",
+    "question": "'Bees are insects. They have six legs and two antennae.' What is the main purpose?",
+    "audioPrompt": "'Bees are insects. They have six legs and two antennae.' What is the main purpose?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la03.svg#ac9e1la03-p-003",
-      "alt_text": "📖 Match purposes and structures; 🔎 recount; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Narrative ↔ problem-resolution; purpose ↔ view-reasons; report ↔ grouped facts",
-      "Narrative ↔ problem-resolution; recount ↔ view-reasons; report ↔ grouped facts",
-      "Narrative ↔ problem-resolution; opinion ↔ view-reasons; report ↔ grouped facts"
+      "To say bees are the best pets.",
+      "To give information about bees.",
+      "To tell an adventure about a bee."
     ],
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 2,
+    "correct": 1,
+    "explanation": "The text presents facts rather than a plot or preference.\nHint: Read the whole example and check what the question asks.",
+    "structuredExplanation": {
+      "summary": "The text presents facts rather than a plot or preference.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1la03-er1-p-003",
+    "curriculumCode": "AC9E1LA03",
+    "bank": "practice",
+    "skill": "text organisation matched to purpose",
+    "printable": true,
+    "type": "single",
+    "question": "'I think our class should grow herbs because we could use them in cooking.' What comes after the opinion?",
+    "audioPrompt": "'I think our class should grow herbs because we could use them in cooking.' What comes after the opinion?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "An event that happened yesterday.",
+      "A list of herb colours.",
+      "A reason supporting it."
+    ],
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 3,
     "correct": 2,
-    "explanation": "Narrative ↔ problem-resolution; opinion ↔ view-reasons; report ↔ grouped facts This matches the task.\nHint: Match structure to purpose.",
+    "explanation": "Because introduces a reason for the suggested class activity.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "Narrative ↔ problem-resolution; opinion ↔ view-reasons; report ↔ grouped facts This matches the task.",
-      "hint": "Match structure to purpose."
+      "summary": "Because introduces a reason for the suggested class activity.",
+      "hint": "Read the whole example and check what the question asks."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1la03-p-003",
+    "id": "ac9e1la03-er1-p-004",
     "curriculumCode": "AC9E1LA03",
     "bank": "practice",
-    "skill": "ac9e1la03 03 recognise",
+    "skill": "text organisation matched to purpose",
     "printable": true,
     "type": "single",
-    "question": "Which response would correctly retell an event structure?",
-    "audioPrompt": "Which response would correctly retell an event structure?",
-    "visual": "📖 Retell an event structure; 🔎 narrate; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Retell an event structure; 🔎 narrate; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la03.svg#ac9e1la03-p-005\"></use></svg>",
+    "question": "'A little fox lost its way. It followed a song and found its den.' How is this story organised?",
+    "audioPrompt": "'A little fox lost its way. It followed a song and found its den.' How is this story organised?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la03.svg#ac9e1la03-p-005",
-      "alt_text": "📖 Retell an event structure; 🔎 narrate; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Leave out evidence.",
-      "Gives three logically ordered events with the time words used accurately",
-      "Do not ask what the text is doing, not only what it is about."
+      "A problem followed by a solution.",
+      "Facts grouped under animal headings.",
+      "A choice followed by a price."
     ],
-    "correct": 1,
-    "explanation": "Gives three logically ordered events with the time words used accurately This matches the task.\nHint: Point to a heading, time word, fact or opinion word.",
-    "structuredExplanation": {
-      "summary": "Gives three logically ordered events with the time words used accurately This matches the task.",
-      "hint": "Point to a heading, time word, fact or opinion word."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1la03-p-004",
-    "curriculumCode": "AC9E1LA03",
-    "bank": "practice",
-    "skill": "ac9e1la03 04 recognise",
-    "printable": true,
-    "type": "single",
-    "question": "Which response would correctly identify an explanation?",
-    "audioPrompt": "Which response would correctly identify an explanation?",
-    "visual": "📖 Identify an explanation; 🔎 inform; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Identify an explanation; 🔎 inform; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la03.svg#ac9e1la03-p-007\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la03.svg#ac9e1la03-p-007",
-      "alt_text": "📖 Identify an explanation; 🔎 inform; ✅ choose with evidence"
-    },
-    "answers": [
-      "To explain; it tells how a process happens using ordered causes",
-      "How rain forms",
-      "Do not ask what the text is doing, not only what it is about."
-    ],
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 4,
     "correct": 0,
-    "explanation": "To explain; it tells how a process happens using ordered causes This matches the task.\nHint: Ask what the text is doing, not only what it is about.",
+    "explanation": "Being lost is the problem; finding the den resolves it.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "To explain; it tells how a process happens using ordered causes This matches the task.",
-      "hint": "Ask what the text is doing, not only what it is about."
+      "summary": "Being lost is the problem; finding the den resolves it.",
+      "hint": "Read the whole example and check what the question asks."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1la03-p-005",
+    "id": "ac9e1la03-er1-p-005",
     "curriculumCode": "AC9E1LA03",
     "bank": "practice",
-    "skill": "ac9e1la03 05 recognise",
+    "skill": "text organisation matched to purpose",
     "printable": true,
     "type": "single",
-    "question": "Which response would correctly order story sections?",
-    "audioPrompt": "Which response would correctly order story sections?",
-    "visual": "📖 Order story sections; 🔎 opinion; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Order story sections; 🔎 opinion; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la03.svg#ac9e1la03-p-009\"></use></svg>",
+    "question": "'We put ice in a warm room. It melted because the room was warm.' What does because help the text explain?",
+    "audioPrompt": "'We put ice in a warm room. It melted because the room was warm.' What does because help the text explain?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la03.svg#ac9e1la03-p-009",
-      "alt_text": "📖 Order story sections; 🔎 opinion; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "resolution → attempts/events → problem → Opening",
-      "Do not match structure to purpose.",
-      "Opening → problem → attempts/events → resolution"
+      "Which room is the largest.",
+      "Why the ice melted.",
+      "Who bought the ice."
     ],
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 5,
+    "correct": 1,
+    "explanation": "Because connects an event with its cause.\nHint: Read the whole example and check what the question asks.",
+    "structuredExplanation": {
+      "summary": "Because connects an event with its cause.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1la03-er1-p-006",
+    "curriculumCode": "AC9E1LA03",
+    "bank": "practice",
+    "skill": "text organisation matched to purpose",
+    "printable": true,
+    "type": "single",
+    "question": "A report has headings 'Body', 'Food' and 'Home'. What do these headings do?",
+    "audioPrompt": "A report has headings 'Body', 'Food' and 'Home'. What do these headings do?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Put a character's adventure in time order.",
+      "Rank foods from best to worst.",
+      "Group facts about different parts of a topic."
+    ],
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 6,
     "correct": 2,
-    "explanation": "Opening → problem → attempts/events → resolution This matches the task.\nHint: Match structure to purpose.",
+    "explanation": "Each heading gathers a related set of facts.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "Opening → problem → attempts/events → resolution This matches the task.",
-      "hint": "Match structure to purpose."
+      "summary": "Each heading gathers a related set of facts.",
+      "hint": "Read the whole example and check what the question asks."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1la03-p-006",
+    "id": "ac9e1la03-er1-p-007",
     "curriculumCode": "AC9E1LA03",
     "bank": "practice",
-    "skill": "ac9e1la03 06 recognise",
+    "skill": "text organisation matched to purpose",
     "printable": true,
     "type": "single",
-    "question": "Which response would correctly draw an information layout?",
-    "audioPrompt": "Which response would correctly draw an information layout?",
-    "visual": "📖 Draw an information layout; 🔎 purpose; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Draw an information layout; 🔎 purpose; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la03.svg#ac9e1la03-p-011\"></use></svg>",
+    "question": "Which opening best begins a recount of a class walk?",
+    "audioPrompt": "Which opening best begins a recount of a class walk?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la03.svg#ac9e1la03-p-011",
-      "alt_text": "📖 Draw an information layout; 🔎 purpose; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Leave out evidence.",
-      "Includes all named features and groups relevant information beneath headings",
-      "Do not ask what the text is doing, not only what it is about."
+      "This morning our class walked to the creek.",
+      "Creeks carry flowing water.",
+      "Everyone should visit a creek."
     ],
-    "correct": 1,
-    "explanation": "Includes all named features and groups relevant information beneath headings This matches the task.\nHint: Point to a heading, time word, fact or opinion word.",
-    "structuredExplanation": {
-      "summary": "Includes all named features and groups relevant information beneath headings This matches the task.",
-      "hint": "Point to a heading, time word, fact or opinion word."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1la03-p-007",
-    "curriculumCode": "AC9E1LA03",
-    "bank": "practice",
-    "skill": "ac9e1la03 07 recognise",
-    "printable": true,
-    "type": "single",
-    "question": "Which response would correctly compare report and opinion?",
-    "audioPrompt": "Which response would correctly compare report and opinion?",
-    "visual": "📖 Compare report and opinion; 🔎 recount; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Compare report and opinion; 🔎 recount; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la03.svg#ac9e1la03-p-013\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la03.svg#ac9e1la03-p-013",
-      "alt_text": "📖 Compare report and opinion; 🔎 recount; ✅ choose with evidence"
-    },
-    "answers": [
-      "Report groups facts under headings; opinion begins with a view and supports it with reasons",
-      "Do not ask what the text is doing, not only what it is about.",
-      "Do not match structure to purpose."
-    ],
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 7,
     "correct": 0,
-    "explanation": "Report groups facts under headings; opinion begins with a view and supports it with reasons This matches the task.\nHint: Ask what the text is doing, not only what it is about.",
+    "explanation": "A recount begins by setting up an event that happened.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "Report groups facts under headings; opinion begins with a view and supports it with reasons This matches the task.",
-      "hint": "Ask what the text is doing, not only what it is about."
+      "summary": "A recount begins by setting up an event that happened.",
+      "hint": "Read the whole example and check what the question asks."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1la03-p-008",
+    "id": "ac9e1la03-er1-p-008",
     "curriculumCode": "AC9E1LA03",
     "bank": "practice",
-    "skill": "ac9e1la03 08 recognise",
+    "skill": "text organisation matched to purpose",
     "printable": true,
     "type": "single",
-    "question": "Which response would correctly choose sections for a purpose?",
-    "audioPrompt": "Which response would correctly choose sections for a purpose?",
-    "visual": "📖 Choose sections for a purpose; 🔎 narrate; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Choose sections for a purpose; 🔎 narrate; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la03.svg#ac9e1la03-p-015\"></use></svg>",
+    "question": "Which sentence best ends an opinion about keeping a reading corner?",
+    "audioPrompt": "Which sentence best ends an opinion about keeping a reading corner?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la03.svg#ac9e1la03-p-015",
-      "alt_text": "📖 Choose sections for a purpose; 🔎 narrate; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Do not match structure to purpose.",
-      "Leave out evidence.",
-      "Includes start/materials if needed, ordered actions and result"
+      "Some books have hard covers.",
+      "That is why I think we should keep it.",
+      "First we opened the classroom door."
     ],
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 8,
+    "correct": 1,
+    "explanation": "The ending returns to the opinion being supported.\nHint: Read the whole example and check what the question asks.",
+    "structuredExplanation": {
+      "summary": "The ending returns to the opinion being supported.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1la03-er1-p-009",
+    "curriculumCode": "AC9E1LA03",
+    "bank": "practice",
+    "skill": "text organisation matched to purpose",
+    "printable": true,
+    "type": "single",
+    "question": "'First we mixed the batter. ___ we poured it into the pan.' Which word keeps this recount in order?",
+    "audioPrompt": "'First we mixed the batter. ___ we poured it into the pan.' Which word keeps this recount in order?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Before",
+      "Never",
+      "Then"
+    ],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 9,
     "correct": 2,
-    "explanation": "Includes start/materials if needed, ordered actions and result This matches the task.\nHint: Match structure to purpose.",
+    "explanation": "Then signals the next event after mixing.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "Includes start/materials if needed, ordered actions and result This matches the task.",
-      "hint": "Match structure to purpose."
+      "summary": "Then signals the next event after mixing.",
+      "hint": "Read the whole example and check what the question asks."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1la03-p-009",
+    "id": "ac9e1la03-er1-p-010",
     "curriculumCode": "AC9E1LA03",
     "bank": "practice",
-    "skill": "ac9e1la03 09 recognise",
+    "skill": "text organisation matched to purpose",
     "printable": true,
     "type": "single",
-    "question": "Which response would correctly recognise an opinion opening?",
-    "audioPrompt": "Which response would correctly recognise an opinion opening?",
-    "visual": "📖 Recognise an opinion opening; 🔎 inform; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Recognise an opinion opening; 🔎 inform; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la03.svg#ac9e1la03-p-017\"></use></svg>",
+    "question": "A story begins with a rabbit's kite caught in a tree. Which ending solves that problem?",
+    "audioPrompt": "A story begins with a rabbit's kite caught in a tree. Which ending solves that problem?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la03.svg#ac9e1la03-p-017",
-      "alt_text": "📖 Recognise an opinion opening; 🔎 inform; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Our class should have more reading time",
-      "Opinion text; next gives one or more reasons/evidence",
-      "Leave out evidence."
+      "A tall friend lifts the kite down.",
+      "The rabbit notices the sky is blue.",
+      "Kites come in many shapes."
     ],
-    "correct": 1,
-    "explanation": "Opinion text; next gives one or more reasons/evidence This matches the task.\nHint: Point to a heading, time word, fact or opinion word.",
-    "structuredExplanation": {
-      "summary": "Opinion text; next gives one or more reasons/evidence This matches the task.",
-      "hint": "Point to a heading, time word, fact or opinion word."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1la03-p-010",
-    "curriculumCode": "AC9E1LA03",
-    "bank": "practice",
-    "skill": "ac9e1la03 10 recognise",
-    "printable": true,
-    "type": "single",
-    "question": "Which response would correctly match headings to text types?",
-    "audioPrompt": "Which response would correctly match headings to text types?",
-    "visual": "📖 Match headings to text types; 🔎 opinion; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Match headings to text types; 🔎 opinion; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la03.svg#ac9e1la03-p-019\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la03.svg#ac9e1la03-p-019",
-      "alt_text": "📖 Match headings to text types; 🔎 opinion; ✅ choose with evidence"
-    },
-    "answers": [
-      "Monday ↔ recount; shadows ↔ explanation; koala facts ↔ report",
-      "Monday ↔ purpose; shadows ↔ explanation; koala facts ↔ report",
-      "Monday ↔ narrate; shadows ↔ explanation; koala facts ↔ report"
-    ],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 10,
     "correct": 0,
-    "explanation": "Monday ↔ recount; shadows ↔ explanation; koala facts ↔ report This matches the task.\nHint: Ask what the text is doing, not only what it is about.",
+    "explanation": "Retrieving the kite resolves the problem introduced at the start.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "Monday ↔ recount; shadows ↔ explanation; koala facts ↔ report This matches the task.",
-      "hint": "Ask what the text is doing, not only what it is about."
+      "summary": "Retrieving the kite resolves the problem introduced at the start.",
+      "hint": "Read the whole example and check what the question asks."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1la03-p-011",
+    "id": "ac9e1la03-er1-p-011",
     "curriculumCode": "AC9E1LA03",
     "bank": "practice",
-    "skill": "ac9e1la03 01 explain",
+    "skill": "text organisation matched to purpose",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you name a recount clue?",
-    "audioPrompt": "Which tip would help you name a recount clue?",
-    "visual": "🧠 Name a recount clue; ➡️ Identify purpose; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Name a recount clue; ➡️ Identify purpose; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la03.svg#ac9e1la03-p-002\"></use></svg>",
+    "question": "You are writing an animal report. Which sentence belongs under 'Food'?",
+    "audioPrompt": "You are writing an animal report. Which sentence belongs under 'Food'?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la03.svg#ac9e1la03-p-002",
-      "alt_text": "🧠 Name a recount clue; ➡️ Identify purpose; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Do not match structure to purpose.",
-      "Ask what the text is doing, not only what it is about.",
-      "Leave out evidence."
+      "The possum has a furry tail.",
+      "The possum eats leaves and fruit.",
+      "The possum sleeps in a tree hollow."
     ],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 11,
     "correct": 1,
-    "explanation": "Ask what the text is doing, not only what it is about.\nHint: Ask what the text is doing, not only what it is about.",
+    "explanation": "This fact is about what the animal eats.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "Ask what the text is doing, not only what it is about.",
-      "hint": "Ask what the text is doing, not only what it is about."
+      "summary": "This fact is about what the animal eats.",
+      "hint": "Read the whole example and check what the question asks."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1la03-p-012",
+    "id": "ac9e1la03-er1-p-012",
     "curriculumCode": "AC9E1LA03",
     "bank": "practice",
-    "skill": "ac9e1la03 02 explain",
+    "skill": "text organisation matched to purpose",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you match purposes and structures?",
-    "audioPrompt": "Which tip would help you match purposes and structures?",
-    "visual": "🧠 Match purposes and structures; ➡️ Notice structure; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Match purposes and structures; ➡️ Notice structure; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la03.svg#ac9e1la03-p-004\"></use></svg>",
+    "question": "A text explains why a wet towel becomes dry. Which sentence fits its purpose?",
+    "audioPrompt": "A text explains why a wet towel becomes dry. Which sentence fits its purpose?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la03.svg#ac9e1la03-p-004",
-      "alt_text": "🧠 Match purposes and structures; ➡️ Notice structure; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Use this routine: Identify purpose → Notice structure → Find key features → Explain.",
-      "Leave out evidence.",
-      "Do not ask what the text is doing, not only what it is about."
+      "This towel is my favourite colour.",
+      "Yesterday I carried a towel to the beach.",
+      "Water slowly leaves the towel and goes into the air."
     ],
-    "correct": 0,
-    "explanation": "Use this routine: Identify purpose → Notice structure → Find key features → Explain.\nHint: Match structure to purpose.",
-    "structuredExplanation": {
-      "summary": "Use this routine: Identify purpose → Notice structure → Find key features → Explain.",
-      "hint": "Match structure to purpose."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1la03-p-013",
-    "curriculumCode": "AC9E1LA03",
-    "bank": "practice",
-    "skill": "ac9e1la03 03 explain",
-    "printable": true,
-    "type": "single",
-    "question": "Which tip would help you retell an event structure?",
-    "audioPrompt": "Which tip would help you retell an event structure?",
-    "visual": "🧠 Retell an event structure; ➡️ Find key features; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Retell an event structure; ➡️ Find key features; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la03.svg#ac9e1la03-p-006\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la03.svg#ac9e1la03-p-006",
-      "alt_text": "🧠 Retell an event structure; ➡️ Find key features; 💡 helpful strategy"
-    },
-    "answers": [
-      "Do not ask what the text is doing, not only what it is about.",
-      "Do not match structure to purpose.",
-      "Look for narrate and check the whole example."
-    ],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 12,
     "correct": 2,
-    "explanation": "Look for narrate and check the whole example.\nHint: Point to a heading, time word, fact or opinion word.",
+    "explanation": "The first sentence explains the change rather than giving an opinion or recount.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "Look for narrate and check the whole example.",
-      "hint": "Point to a heading, time word, fact or opinion word."
+      "summary": "The first sentence explains the change rather than giving an opinion or recount.",
+      "hint": "Read the whole example and check what the question asks."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1la03-p-014",
+    "id": "ac9e1la03-er1-p-013",
     "curriculumCode": "AC9E1LA03",
     "bank": "practice",
-    "skill": "ac9e1la03 04 explain",
+    "skill": "text organisation matched to purpose",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you identify an explanation?",
-    "audioPrompt": "Which tip would help you identify an explanation?",
-    "visual": "🧠 Identify an explanation; ➡️ Explain; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Identify an explanation; ➡️ Explain; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la03.svg#ac9e1la03-p-008\"></use></svg>",
+    "question": "'I think skipping is a good playground activity.' Which sentence should follow to support the opinion?",
+    "audioPrompt": "'I think skipping is a good playground activity.' Which sentence should follow to support the opinion?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la03.svg#ac9e1la03-p-008",
-      "alt_text": "🧠 Identify an explanation; ➡️ Explain; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Do not match structure to purpose.",
-      "Check that you can compare text types.",
-      "Leave out evidence."
+      "It gives us a way to exercise and have fun.",
+      "Skipping begins with the letter s.",
+      "Yesterday I left my rope at home."
     ],
-    "correct": 1,
-    "explanation": "Check that you can compare text types.\nHint: Ask what the text is doing, not only what it is about.",
-    "structuredExplanation": {
-      "summary": "Check that you can compare text types.",
-      "hint": "Ask what the text is doing, not only what it is about."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1la03-p-015",
-    "curriculumCode": "AC9E1LA03",
-    "bank": "practice",
-    "skill": "ac9e1la03 05 explain",
-    "printable": true,
-    "type": "single",
-    "question": "Which tip would help you order story sections?",
-    "audioPrompt": "Which tip would help you order story sections?",
-    "visual": "🧠 Order story sections; ➡️ Identify purpose; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Order story sections; ➡️ Identify purpose; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la03.svg#ac9e1la03-p-010\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la03.svg#ac9e1la03-p-010",
-      "alt_text": "🧠 Order story sections; ➡️ Identify purpose; 💡 helpful strategy"
-    },
-    "answers": [
-      "Sequencing a simple narrative structure.",
-      "Leave out evidence.",
-      "Do not ask what the text is doing, not only what it is about."
-    ],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 13,
     "correct": 0,
-    "explanation": "Sequencing a simple narrative structure.\nHint: Match structure to purpose.",
+    "explanation": "The benefits support the view that skipping is a good activity.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "Sequencing a simple narrative structure.",
-      "hint": "Match structure to purpose."
+      "summary": "The benefits support the view that skipping is a good activity.",
+      "hint": "Read the whole example and check what the question asks."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1la03-p-016",
+    "id": "ac9e1la03-er1-p-014",
     "curriculumCode": "AC9E1LA03",
     "bank": "practice",
-    "skill": "ac9e1la03 06 explain",
+    "skill": "text organisation matched to purpose",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you draw an information layout?",
-    "audioPrompt": "Which tip would help you draw an information layout?",
-    "visual": "🧠 Draw an information layout; ➡️ Notice structure; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Draw an information layout; ➡️ Notice structure; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la03.svg#ac9e1la03-p-012\"></use></svg>",
+    "question": "A recount says: 'At last we reached home.' Where does this sentence fit best?",
+    "audioPrompt": "A recount says: 'At last we reached home.' Where does this sentence fit best?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la03.svg#ac9e1la03-p-012",
-      "alt_text": "🧠 Draw an information layout; ➡️ Notice structure; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Do not ask what the text is doing, not only what it is about.",
-      "Do not match structure to purpose.",
-      "Point to a heading, time word, fact or opinion word."
+      "Under a heading about animal food.",
+      "After the events of the trip.",
+      "Before anyone sets off."
     ],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 14,
+    "correct": 1,
+    "explanation": "At last signals the end of the sequence.\nHint: Read the whole example and check what the question asks.",
+    "structuredExplanation": {
+      "summary": "At last signals the end of the sequence.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1la03-er1-p-015",
+    "curriculumCode": "AC9E1LA03",
+    "bank": "practice",
+    "skill": "text organisation matched to purpose",
+    "printable": true,
+    "type": "single",
+    "question": "Which pair shows two different ways to organise a text about a garden?",
+    "audioPrompt": "Which pair shows two different ways to organise a text about a garden?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Two reports with the same headings.",
+      "Two recounts with only the names changed.",
+      "A recount in time order; a report grouped by plant facts."
+    ],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 15,
     "correct": 2,
-    "explanation": "Point to a heading, time word, fact or opinion word.\nHint: Point to a heading, time word, fact or opinion word.",
+    "explanation": "The first pair uses different structures for different purposes.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "Point to a heading, time word, fact or opinion word.",
-      "hint": "Point to a heading, time word, fact or opinion word."
+      "summary": "The first pair uses different structures for different purposes.",
+      "hint": "Read the whole example and check what the question asks."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1la03-p-017",
+    "id": "ac9e1la03-er1-p-016",
     "curriculumCode": "AC9E1LA03",
     "bank": "practice",
-    "skill": "ac9e1la03 07 explain",
+    "skill": "text organisation matched to purpose",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you compare report and opinion?",
-    "audioPrompt": "Which tip would help you compare report and opinion?",
-    "visual": "🧠 Compare report and opinion; ➡️ Find key features; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Compare report and opinion; ➡️ Find key features; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la03.svg#ac9e1la03-p-014\"></use></svg>",
+    "question": "A story says a bear wants to cross a stream, but the bridge is broken. What part of the story is this?",
+    "audioPrompt": "A story says a bear wants to cross a stream, but the bridge is broken. What part of the story is this?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la03.svg#ac9e1la03-p-014",
-      "alt_text": "🧠 Compare report and opinion; ➡️ Find key features; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Do not match structure to purpose.",
-      "Use this routine: Identify purpose → Notice structure → Find key features → Explain.",
-      "Leave out evidence."
+      "The problem the bear needs to solve.",
+      "A final solution to the problem.",
+      "A heading that groups facts."
     ],
-    "correct": 1,
-    "explanation": "Use this routine: Identify purpose → Notice structure → Find key features → Explain.\nHint: Ask what the text is doing, not only what it is about.",
-    "structuredExplanation": {
-      "summary": "Use this routine: Identify purpose → Notice structure → Find key features → Explain.",
-      "hint": "Ask what the text is doing, not only what it is about."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1la03-p-018",
-    "curriculumCode": "AC9E1LA03",
-    "bank": "practice",
-    "skill": "ac9e1la03 08 explain",
-    "printable": true,
-    "type": "single",
-    "question": "Which tip would help you choose sections for a purpose?",
-    "audioPrompt": "Which tip would help you choose sections for a purpose?",
-    "visual": "🧠 Choose sections for a purpose; ➡️ Explain; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Choose sections for a purpose; ➡️ Explain; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la03.svg#ac9e1la03-p-016\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la03.svg#ac9e1la03-p-016",
-      "alt_text": "🧠 Choose sections for a purpose; ➡️ Explain; 💡 helpful strategy"
-    },
-    "answers": [
-      "Look for narrate and check the whole example.",
-      "Leave out evidence.",
-      "Do not ask what the text is doing, not only what it is about."
-    ],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 16,
     "correct": 0,
-    "explanation": "Look for narrate and check the whole example.\nHint: Match structure to purpose.",
+    "explanation": "The broken bridge prevents the bear from reaching its goal.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "Look for narrate and check the whole example.",
-      "hint": "Match structure to purpose."
+      "summary": "The broken bridge prevents the bear from reaching its goal.",
+      "hint": "Read the whole example and check what the question asks."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1la03-p-019",
+    "id": "ac9e1la03-er1-p-017",
     "curriculumCode": "AC9E1LA03",
     "bank": "practice",
-    "skill": "ac9e1la03 09 explain",
+    "skill": "text organisation matched to purpose",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you recognise an opinion opening?",
-    "audioPrompt": "Which tip would help you recognise an opinion opening?",
-    "visual": "🧠 Recognise an opinion opening; ➡️ Identify purpose; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Recognise an opinion opening; ➡️ Identify purpose; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la03.svg#ac9e1la03-p-018\"></use></svg>",
+    "question": "'Our pet is a rabbit. Rabbits have long ears. Our rabbit ate a leaf yesterday. Rabbits eat plants.' Which sentence interrupts the general animal facts?",
+    "audioPrompt": "'Our pet is a rabbit. Rabbits have long ears. Our rabbit ate a leaf yesterday. Rabbits eat plants.' Which sentence interrupts the general animal facts?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la03.svg#ac9e1la03-p-018",
-      "alt_text": "🧠 Recognise an opinion opening; ➡️ Identify purpose; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Do not ask what the text is doing, not only what it is about.",
-      "Do not match structure to purpose.",
-      "Check that you can compare text types."
+      "Rabbits eat plants.",
+      "Our rabbit ate a leaf yesterday.",
+      "Rabbits have long ears."
     ],
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 17,
+    "correct": 1,
+    "explanation": "A single event about one rabbit shifts from general information towards a recount.\nHint: Read the whole example and check what the question asks.",
+    "structuredExplanation": {
+      "summary": "A single event about one rabbit shifts from general information towards a recount.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1la03-er1-p-018",
+    "curriculumCode": "AC9E1LA03",
+    "bank": "practice",
+    "skill": "text organisation matched to purpose",
+    "printable": true,
+    "type": "single",
+    "question": "A writer wants to explain why a ball rolled downhill. Which plan fits?",
+    "audioPrompt": "A writer wants to explain why a ball rolled downhill. Which plan fits?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "State that balls are best, then give reasons to buy one.",
+      "List yesterday's games in time order.",
+      "Describe the slope, then explain how it made the ball roll."
+    ],
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 18,
     "correct": 2,
-    "explanation": "Check that you can compare text types.\nHint: Point to a heading, time word, fact or opinion word.",
+    "explanation": "An explanation connects the event with what caused it.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "Check that you can compare text types.",
-      "hint": "Point to a heading, time word, fact or opinion word."
+      "summary": "An explanation connects the event with what caused it.",
+      "hint": "Read the whole example and check what the question asks."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1la03-p-020",
+    "id": "ac9e1la03-er1-p-019",
     "curriculumCode": "AC9E1LA03",
     "bank": "practice",
-    "skill": "ac9e1la03 10 explain",
+    "skill": "text organisation matched to purpose",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you match headings to text types?",
-    "audioPrompt": "Which tip would help you match headings to text types?",
-    "visual": "🧠 Match headings to text types; ➡️ Notice structure; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Match headings to text types; ➡️ Notice structure; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la03.svg#ac9e1la03-p-020\"></use></svg>",
+    "question": "A story has a problem and a solution, but no beginning. What should the writer add first?",
+    "audioPrompt": "A story has a problem and a solution, but no beginning. What should the writer add first?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la03.svg#ac9e1la03-p-020",
-      "alt_text": "🧠 Match headings to text types; ➡️ Notice structure; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Do not match structure to purpose.",
-      "Interpreting titles and headings as purpose clues.",
-      "Leave out evidence."
+      "Who the story is about and where it starts.",
+      "A list of all words that rhyme.",
+      "An opinion about the best ending."
     ],
-    "correct": 1,
-    "explanation": "Interpreting titles and headings as purpose clues.\nHint: Ask what the text is doing, not only what it is about.",
-    "structuredExplanation": {
-      "summary": "Interpreting titles and headings as purpose clues.",
-      "hint": "Ask what the text is doing, not only what it is about."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1la03-p-021",
-    "curriculumCode": "AC9E1LA03",
-    "bank": "practice",
-    "skill": "ac9e1la03 01 discriminate",
-    "printable": true,
-    "type": "single",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": "📖 Name a recount clue; 🔎 purpose; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Name a recount clue; 🔎 purpose; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la03.svg#ac9e1la03-p-001\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la03.svg#ac9e1la03-p-001",
-      "alt_text": "📖 Name a recount clue; 🔎 purpose; ✅ choose with evidence"
-    },
-    "answers": [
-      "Do not ask what the text is doing, not only what it is about.",
-      "Time order",
-      "Ask what the text is doing, not only what it is about."
-    ],
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 19,
     "correct": 0,
-    "explanation": "Do not ask what the text is doing, not only what it is about. is the mix-up. Ask what the text is doing, not only what it is about.\nHint: Ask what the text is doing, not only what it is about.",
+    "explanation": "Introducing character and setting helps the reader follow the later problem.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "Do not ask what the text is doing, not only what it is about. is the mix-up. Ask what the text is doing, not only what it is about.",
-      "hint": "Ask what the text is doing, not only what it is about."
+      "summary": "Introducing character and setting helps the reader follow the later problem.",
+      "hint": "Read the whole example and check what the question asks."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1la03-p-022",
+    "id": "ac9e1la03-er1-p-020",
     "curriculumCode": "AC9E1LA03",
     "bank": "practice",
-    "skill": "ac9e1la03 02 discriminate",
+    "skill": "text organisation matched to purpose",
     "printable": true,
     "type": "single",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": "📖 Match purposes and structures; 🔎 recount; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Match purposes and structures; 🔎 recount; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la03.svg#ac9e1la03-p-003\"></use></svg>",
+    "question": "Read: 'We need a shady seat. A tree gives shade, so a seat beneath it would help.' How is this short opinion organised?",
+    "audioPrompt": "Read: 'We need a shady seat. A tree gives shade, so a seat beneath it would help.' How is this short opinion organised?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la03.svg#ac9e1la03-p-003",
-      "alt_text": "📖 Match purposes and structures; 🔎 recount; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Narrative ↔ problem-resolution; opinion ↔ view-reasons; report ↔ grouped facts",
-      "Narrative ↔ problem-resolution; purpose ↔ view-reasons; report ↔ grouped facts",
-      "Use this routine: Identify purpose → Notice structure → Find key features → Explain."
+      "A sequence of yesterday's events.",
+      "A need followed by a supporting reason and suggestion.",
+      "Three unrelated facts about furniture."
     ],
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 20,
     "correct": 1,
-    "explanation": "Narrative ↔ problem-resolution; purpose ↔ view-reasons; report ↔ grouped facts is the mix-up. Match structure to purpose.\nHint: Match structure to purpose.",
+    "explanation": "The reason about shade supports where the seat should go.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "Narrative ↔ problem-resolution; purpose ↔ view-reasons; report ↔ grouped facts is the mix-up. Match structure to purpose.",
-      "hint": "Match structure to purpose."
+      "summary": "The reason about shade supports where the seat should go.",
+      "hint": "Read the whole example and check what the question asks."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1la03-p-023",
+    "id": "ac9e1la03-er1-p-021",
     "curriculumCode": "AC9E1LA03",
     "bank": "practice",
-    "skill": "ac9e1la03 03 discriminate",
+    "skill": "text organisation matched to purpose",
     "printable": true,
     "type": "single",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": "📖 Retell an event structure; 🔎 narrate; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Retell an event structure; 🔎 narrate; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la03.svg#ac9e1la03-p-005\"></use></svg>",
+    "question": "A report about frogs has sections on bodies, food and habitats. Where should 'Frogs catch small insects' go?",
+    "audioPrompt": "A report about frogs has sections on bodies, food and habitats. Where should 'Frogs catch small insects' go?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la03.svg#ac9e1la03-p-005",
-      "alt_text": "📖 Retell an event structure; 🔎 narrate; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Gives three logically ordered events with the time words used accurately",
-      "Look for narrate and check the whole example.",
-      "Leave out evidence."
+      "In the bodies section.",
+      "In a list of story characters.",
+      "In the food section."
     ],
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 21,
     "correct": 2,
-    "explanation": "Leave out evidence. is the mix-up. Point to a heading, time word, fact or opinion word.\nHint: Point to a heading, time word, fact or opinion word.",
+    "explanation": "Catching insects describes feeding, so it belongs with food facts.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "Leave out evidence. is the mix-up. Point to a heading, time word, fact or opinion word.",
-      "hint": "Point to a heading, time word, fact or opinion word."
+      "summary": "Catching insects describes feeding, so it belongs with food facts.",
+      "hint": "Read the whole example and check what the question asks."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1la03-p-024",
+    "id": "ac9e1la03-er1-p-022",
     "curriculumCode": "AC9E1LA03",
     "bank": "practice",
-    "skill": "ac9e1la03 04 discriminate",
+    "skill": "text organisation matched to purpose",
     "printable": true,
     "type": "single",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": "📖 Identify an explanation; 🔎 inform; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Identify an explanation; 🔎 inform; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la03.svg#ac9e1la03-p-007\"></use></svg>",
+    "question": "A recount jumps from arriving home to boarding the bus at the start. What change would make it easier to follow?",
+    "audioPrompt": "A recount jumps from arriving home to boarding the bus at the start. What change would make it easier to follow?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la03.svg#ac9e1la03-p-007",
-      "alt_text": "📖 Identify an explanation; 🔎 inform; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "How rain forms",
-      "To explain; it tells how a process happens using ordered causes",
-      "Check that you can compare text types."
+      "Put the bus journey before arriving home.",
+      "Remove every time word.",
+      "Add an unrelated animal fact."
     ],
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 22,
     "correct": 0,
-    "explanation": "How rain forms is the mix-up. Ask what the text is doing, not only what it is about.\nHint: Ask what the text is doing, not only what it is about.",
+    "explanation": "Recounts are easier to follow when events are presented in their actual order.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "How rain forms is the mix-up. Ask what the text is doing, not only what it is about.",
-      "hint": "Ask what the text is doing, not only what it is about."
+      "summary": "Recounts are easier to follow when events are presented in their actual order.",
+      "hint": "Read the whole example and check what the question asks."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1la03-p-025",
+    "id": "ac9e1la03-er1-p-023",
     "curriculumCode": "AC9E1LA03",
     "bank": "practice",
-    "skill": "ac9e1la03 05 discriminate",
+    "skill": "text organisation matched to purpose",
     "printable": true,
     "type": "single",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": "📖 Order story sections; 🔎 opinion; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Order story sections; 🔎 opinion; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la03.svg#ac9e1la03-p-009\"></use></svg>",
+    "question": "Two texts begin 'The seed opened.' One tells a made-up seed adventure. The other explains how a seed sprouts. What should differ?",
+    "audioPrompt": "Two texts begin 'The seed opened.' One tells a made-up seed adventure. The other explains how a seed sprouts. What should differ?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la03.svg#ac9e1la03-p-009",
-      "alt_text": "📖 Order story sections; 🔎 opinion; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Opening → problem → attempts/events → resolution",
-      "resolution → attempts/events → problem → Opening",
-      "Sequencing a simple narrative structure."
+      "Both must end with the writer's favourite plant.",
+      "The adventure develops a plot; the explanation connects steps and causes.",
+      "Both must give the seed a talking friend."
     ],
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 23,
     "correct": 1,
-    "explanation": "resolution → attempts/events → problem → Opening is the mix-up. Match structure to purpose.\nHint: Match structure to purpose.",
+    "explanation": "The purpose determines how the rest of each text develops.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "resolution → attempts/events → problem → Opening is the mix-up. Match structure to purpose.",
-      "hint": "Match structure to purpose."
+      "summary": "The purpose determines how the rest of each text develops.",
+      "hint": "Read the whole example and check what the question asks."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1la03-p-026",
+    "id": "ac9e1la03-er1-p-024",
     "curriculumCode": "AC9E1LA03",
     "bank": "practice",
-    "skill": "ac9e1la03 06 discriminate",
+    "skill": "text organisation matched to purpose",
     "printable": true,
     "type": "single",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": "📖 Draw an information layout; 🔎 purpose; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Draw an information layout; 🔎 purpose; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la03.svg#ac9e1la03-p-011\"></use></svg>",
+    "question": "A paragraph says: 'I like winter. First, my dog ran away. Frogs have wet skin.' Why is it hard to follow?",
+    "audioPrompt": "A paragraph says: 'I like winter. First, my dog ran away. Frogs have wet skin.' Why is it hard to follow?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la03.svg#ac9e1la03-p-011",
-      "alt_text": "📖 Draw an information layout; 🔎 purpose; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Includes all named features and groups relevant information beneath headings",
-      "Point to a heading, time word, fact or opinion word.",
-      "Leave out evidence."
+      "Every sentence is too long to read.",
+      "All three sentences explain the same idea.",
+      "The sentences change topic and purpose without a clear connection."
     ],
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 24,
     "correct": 2,
-    "explanation": "Leave out evidence. is the mix-up. Point to a heading, time word, fact or opinion word.\nHint: Point to a heading, time word, fact or opinion word.",
+    "explanation": "The text does not develop one recount, opinion or information topic coherently.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "Leave out evidence. is the mix-up. Point to a heading, time word, fact or opinion word.",
-      "hint": "Point to a heading, time word, fact or opinion word."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1la03-p-027",
-    "curriculumCode": "AC9E1LA03",
-    "bank": "practice",
-    "skill": "ac9e1la03 07 discriminate",
-    "printable": true,
-    "type": "single",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": "📖 Compare report and opinion; 🔎 recount; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Compare report and opinion; 🔎 recount; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la03.svg#ac9e1la03-p-013\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la03.svg#ac9e1la03-p-013",
-      "alt_text": "📖 Compare report and opinion; 🔎 recount; ✅ choose with evidence"
-    },
-    "answers": [
-      "Do not ask what the text is doing, not only what it is about.",
-      "Report groups facts under headings; opinion begins with a view and supports it with reasons",
-      "Use this routine: Identify purpose → Notice structure → Find key features → Explain."
-    ],
-    "correct": 0,
-    "explanation": "Do not ask what the text is doing, not only what it is about. is the mix-up. Ask what the text is doing, not only what it is about.\nHint: Ask what the text is doing, not only what it is about.",
-    "structuredExplanation": {
-      "summary": "Do not ask what the text is doing, not only what it is about. is the mix-up. Ask what the text is doing, not only what it is about.",
-      "hint": "Ask what the text is doing, not only what it is about."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1la03-p-028",
-    "curriculumCode": "AC9E1LA03",
-    "bank": "practice",
-    "skill": "ac9e1la03 08 discriminate",
-    "printable": true,
-    "type": "single",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": "📖 Choose sections for a purpose; 🔎 narrate; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Choose sections for a purpose; 🔎 narrate; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la03.svg#ac9e1la03-p-015\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la03.svg#ac9e1la03-p-015",
-      "alt_text": "📖 Choose sections for a purpose; 🔎 narrate; ✅ choose with evidence"
-    },
-    "answers": [
-      "Includes start/materials if needed, ordered actions and result",
-      "Do not match structure to purpose.",
-      "Look for narrate and check the whole example."
-    ],
-    "correct": 1,
-    "explanation": "Do not match structure to purpose. is the mix-up. Match structure to purpose.\nHint: Match structure to purpose.",
-    "structuredExplanation": {
-      "summary": "Do not match structure to purpose. is the mix-up. Match structure to purpose.",
-      "hint": "Match structure to purpose."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1la03-p-029",
-    "curriculumCode": "AC9E1LA03",
-    "bank": "practice",
-    "skill": "ac9e1la03 09 discriminate",
-    "printable": true,
-    "type": "single",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": "📖 Recognise an opinion opening; 🔎 inform; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Recognise an opinion opening; 🔎 inform; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la03.svg#ac9e1la03-p-017\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la03.svg#ac9e1la03-p-017",
-      "alt_text": "📖 Recognise an opinion opening; 🔎 inform; ✅ choose with evidence"
-    },
-    "answers": [
-      "Opinion text; next gives one or more reasons/evidence",
-      "Check that you can compare text types.",
-      "Our class should have more reading time"
-    ],
-    "correct": 2,
-    "explanation": "Our class should have more reading time is the mix-up. Point to a heading, time word, fact or opinion word.\nHint: Point to a heading, time word, fact or opinion word.",
-    "structuredExplanation": {
-      "summary": "Our class should have more reading time is the mix-up. Point to a heading, time word, fact or opinion word.",
-      "hint": "Point to a heading, time word, fact or opinion word."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1la03-p-030",
-    "curriculumCode": "AC9E1LA03",
-    "bank": "practice",
-    "skill": "ac9e1la03 10 discriminate",
-    "printable": true,
-    "type": "single",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": "📖 Match headings to text types; 🔎 opinion; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Match headings to text types; 🔎 opinion; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la03.svg#ac9e1la03-p-019\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la03.svg#ac9e1la03-p-019",
-      "alt_text": "📖 Match headings to text types; 🔎 opinion; ✅ choose with evidence"
-    },
-    "answers": [
-      "Monday ↔ purpose; shadows ↔ explanation; koala facts ↔ report",
-      "Monday ↔ recount; shadows ↔ explanation; koala facts ↔ report",
-      "Interpreting titles and headings as purpose clues."
-    ],
-    "correct": 0,
-    "explanation": "Monday ↔ purpose; shadows ↔ explanation; koala facts ↔ report is the mix-up. Ask what the text is doing, not only what it is about.\nHint: Ask what the text is doing, not only what it is about.",
-    "structuredExplanation": {
-      "summary": "Monday ↔ purpose; shadows ↔ explanation; koala facts ↔ report is the mix-up. Ask what the text is doing, not only what it is about.",
-      "hint": "Ask what the text is doing, not only what it is about."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1la03-p-031",
-    "curriculumCode": "AC9E1LA03",
-    "bank": "practice",
-    "skill": "ac9e1la03 01 apply",
-    "printable": true,
-    "type": "single",
-    "question": "Which choice would best use this skill in a new example?",
-    "audioPrompt": "Which choice would best use this skill in a new example?",
-    "visual": "📖 Name a recount clue; 🔎 purpose; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Name a recount clue; 🔎 purpose; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la03.svg#ac9e1la03-p-001\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la03.svg#ac9e1la03-p-001",
-      "alt_text": "📖 Name a recount clue; 🔎 purpose; ✅ choose with evidence"
-    },
-    "answers": [
-      "Do not ask what the text is doing, not only what it is about.",
-      "Time order",
-      "Do not match structure to purpose."
-    ],
-    "correct": 1,
-    "explanation": "Time order uses the skill correctly. Ask what the text is doing, not only what it is about.\nHint: Ask what the text is doing, not only what it is about.",
-    "structuredExplanation": {
-      "summary": "Time order uses the skill correctly. Ask what the text is doing, not only what it is about.",
-      "hint": "Ask what the text is doing, not only what it is about."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1la03-p-032",
-    "curriculumCode": "AC9E1LA03",
-    "bank": "practice",
-    "skill": "ac9e1la03 02 apply",
-    "printable": true,
-    "type": "single",
-    "question": "Which choice would best use this skill in a new example?",
-    "audioPrompt": "Which choice would best use this skill in a new example?",
-    "visual": "📖 Match purposes and structures; 🔎 recount; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Match purposes and structures; 🔎 recount; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la03.svg#ac9e1la03-p-003\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la03.svg#ac9e1la03-p-003",
-      "alt_text": "📖 Match purposes and structures; 🔎 recount; ✅ choose with evidence"
-    },
-    "answers": [
-      "Narrative ↔ problem-resolution; purpose ↔ view-reasons; report ↔ grouped facts",
-      "Narrative ↔ problem-resolution; recount ↔ view-reasons; report ↔ grouped facts",
-      "Narrative ↔ problem-resolution; opinion ↔ view-reasons; report ↔ grouped facts"
-    ],
-    "correct": 2,
-    "explanation": "Narrative ↔ problem-resolution; opinion ↔ view-reasons; report ↔ grouped facts uses the skill correctly. Match structure to purpose.\nHint: Match structure to purpose.",
-    "structuredExplanation": {
-      "summary": "Narrative ↔ problem-resolution; opinion ↔ view-reasons; report ↔ grouped facts uses the skill correctly. Match structure to purpose.",
-      "hint": "Match structure to purpose."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1la03-p-033",
-    "curriculumCode": "AC9E1LA03",
-    "bank": "practice",
-    "skill": "ac9e1la03 03 apply",
-    "printable": true,
-    "type": "single",
-    "question": "Which choice would best use this skill in a new example?",
-    "audioPrompt": "Which choice would best use this skill in a new example?",
-    "visual": "📖 Retell an event structure; 🔎 narrate; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Retell an event structure; 🔎 narrate; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la03.svg#ac9e1la03-p-005\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la03.svg#ac9e1la03-p-005",
-      "alt_text": "📖 Retell an event structure; 🔎 narrate; ✅ choose with evidence"
-    },
-    "answers": [
-      "Gives three logically ordered events with the time words used accurately",
-      "Leave out evidence.",
-      "Do not ask what the text is doing, not only what it is about."
-    ],
-    "correct": 0,
-    "explanation": "Gives three logically ordered events with the time words used accurately uses the skill correctly. Point to a heading, time word, fact or opinion word.\nHint: Point to a heading, time word, fact or opinion word.",
-    "structuredExplanation": {
-      "summary": "Gives three logically ordered events with the time words used accurately uses the skill correctly. Point to a heading, time word, fact or opinion word.",
-      "hint": "Point to a heading, time word, fact or opinion word."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1la03-p-034",
-    "curriculumCode": "AC9E1LA03",
-    "bank": "practice",
-    "skill": "ac9e1la03 04 apply",
-    "printable": true,
-    "type": "single",
-    "question": "Which choice would best use this skill in a new example?",
-    "audioPrompt": "Which choice would best use this skill in a new example?",
-    "visual": "📖 Identify an explanation; 🔎 inform; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Identify an explanation; 🔎 inform; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la03.svg#ac9e1la03-p-007\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la03.svg#ac9e1la03-p-007",
-      "alt_text": "📖 Identify an explanation; 🔎 inform; ✅ choose with evidence"
-    },
-    "answers": [
-      "How rain forms",
-      "To explain; it tells how a process happens using ordered causes",
-      "Do not ask what the text is doing, not only what it is about."
-    ],
-    "correct": 1,
-    "explanation": "To explain; it tells how a process happens using ordered causes uses the skill correctly. Ask what the text is doing, not only what it is about.\nHint: Ask what the text is doing, not only what it is about.",
-    "structuredExplanation": {
-      "summary": "To explain; it tells how a process happens using ordered causes uses the skill correctly. Ask what the text is doing, not only what it is about.",
-      "hint": "Ask what the text is doing, not only what it is about."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1la03-p-035",
-    "curriculumCode": "AC9E1LA03",
-    "bank": "practice",
-    "skill": "ac9e1la03 05 apply",
-    "printable": true,
-    "type": "single",
-    "question": "Which choice would best use this skill in a new example?",
-    "audioPrompt": "Which choice would best use this skill in a new example?",
-    "visual": "📖 Order story sections; 🔎 opinion; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Order story sections; 🔎 opinion; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la03.svg#ac9e1la03-p-009\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la03.svg#ac9e1la03-p-009",
-      "alt_text": "📖 Order story sections; 🔎 opinion; ✅ choose with evidence"
-    },
-    "answers": [
-      "resolution → attempts/events → problem → Opening",
-      "Do not match structure to purpose.",
-      "Opening → problem → attempts/events → resolution"
-    ],
-    "correct": 2,
-    "explanation": "Opening → problem → attempts/events → resolution uses the skill correctly. Match structure to purpose.\nHint: Match structure to purpose.",
-    "structuredExplanation": {
-      "summary": "Opening → problem → attempts/events → resolution uses the skill correctly. Match structure to purpose.",
-      "hint": "Match structure to purpose."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1la03-p-036",
-    "curriculumCode": "AC9E1LA03",
-    "bank": "practice",
-    "skill": "ac9e1la03 06 apply",
-    "printable": true,
-    "type": "single",
-    "question": "Which choice would best use this skill in a new example?",
-    "audioPrompt": "Which choice would best use this skill in a new example?",
-    "visual": "📖 Draw an information layout; 🔎 purpose; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Draw an information layout; 🔎 purpose; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la03.svg#ac9e1la03-p-011\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la03.svg#ac9e1la03-p-011",
-      "alt_text": "📖 Draw an information layout; 🔎 purpose; ✅ choose with evidence"
-    },
-    "answers": [
-      "Includes all named features and groups relevant information beneath headings",
-      "Leave out evidence.",
-      "Do not ask what the text is doing, not only what it is about."
-    ],
-    "correct": 0,
-    "explanation": "Includes all named features and groups relevant information beneath headings uses the skill correctly. Point to a heading, time word, fact or opinion word.\nHint: Point to a heading, time word, fact or opinion word.",
-    "structuredExplanation": {
-      "summary": "Includes all named features and groups relevant information beneath headings uses the skill correctly. Point to a heading, time word, fact or opinion word.",
-      "hint": "Point to a heading, time word, fact or opinion word."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1la03-p-037",
-    "curriculumCode": "AC9E1LA03",
-    "bank": "practice",
-    "skill": "ac9e1la03 07 apply",
-    "printable": true,
-    "type": "single",
-    "question": "Which choice would best use this skill in a new example?",
-    "audioPrompt": "Which choice would best use this skill in a new example?",
-    "visual": "📖 Compare report and opinion; 🔎 recount; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Compare report and opinion; 🔎 recount; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la03.svg#ac9e1la03-p-013\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la03.svg#ac9e1la03-p-013",
-      "alt_text": "📖 Compare report and opinion; 🔎 recount; ✅ choose with evidence"
-    },
-    "answers": [
-      "Do not ask what the text is doing, not only what it is about.",
-      "Report groups facts under headings; opinion begins with a view and supports it with reasons",
-      "Do not match structure to purpose."
-    ],
-    "correct": 1,
-    "explanation": "Report groups facts under headings; opinion begins with a view and supports it with reasons uses the skill correctly. Ask what the text is doing, not only what it is about.\nHint: Ask what the text is doing, not only what it is about.",
-    "structuredExplanation": {
-      "summary": "Report groups facts under headings; opinion begins with a view and supports it with reasons uses the skill correctly. Ask what the text is doing, not only what it is about.",
-      "hint": "Ask what the text is doing, not only what it is about."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1la03-p-038",
-    "curriculumCode": "AC9E1LA03",
-    "bank": "practice",
-    "skill": "ac9e1la03 08 apply",
-    "printable": true,
-    "type": "single",
-    "question": "Which choice would best use this skill in a new example?",
-    "audioPrompt": "Which choice would best use this skill in a new example?",
-    "visual": "📖 Choose sections for a purpose; 🔎 narrate; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Choose sections for a purpose; 🔎 narrate; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la03.svg#ac9e1la03-p-015\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la03.svg#ac9e1la03-p-015",
-      "alt_text": "📖 Choose sections for a purpose; 🔎 narrate; ✅ choose with evidence"
-    },
-    "answers": [
-      "Do not match structure to purpose.",
-      "Leave out evidence.",
-      "Includes start/materials if needed, ordered actions and result"
-    ],
-    "correct": 2,
-    "explanation": "Includes start/materials if needed, ordered actions and result uses the skill correctly. Match structure to purpose.\nHint: Match structure to purpose.",
-    "structuredExplanation": {
-      "summary": "Includes start/materials if needed, ordered actions and result uses the skill correctly. Match structure to purpose.",
-      "hint": "Match structure to purpose."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1la03-p-039",
-    "curriculumCode": "AC9E1LA03",
-    "bank": "practice",
-    "skill": "ac9e1la03 09 apply",
-    "printable": true,
-    "type": "single",
-    "question": "Which choice would best use this skill in a new example?",
-    "audioPrompt": "Which choice would best use this skill in a new example?",
-    "visual": "📖 Recognise an opinion opening; 🔎 inform; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Recognise an opinion opening; 🔎 inform; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la03.svg#ac9e1la03-p-017\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la03.svg#ac9e1la03-p-017",
-      "alt_text": "📖 Recognise an opinion opening; 🔎 inform; ✅ choose with evidence"
-    },
-    "answers": [
-      "Opinion text; next gives one or more reasons/evidence",
-      "Our class should have more reading time",
-      "Leave out evidence."
-    ],
-    "correct": 0,
-    "explanation": "Opinion text; next gives one or more reasons/evidence uses the skill correctly. Point to a heading, time word, fact or opinion word.\nHint: Point to a heading, time word, fact or opinion word.",
-    "structuredExplanation": {
-      "summary": "Opinion text; next gives one or more reasons/evidence uses the skill correctly. Point to a heading, time word, fact or opinion word.",
-      "hint": "Point to a heading, time word, fact or opinion word."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1la03-p-040",
-    "curriculumCode": "AC9E1LA03",
-    "bank": "practice",
-    "skill": "ac9e1la03 10 apply",
-    "printable": true,
-    "type": "single",
-    "question": "Which choice would best use this skill in a new example?",
-    "audioPrompt": "Which choice would best use this skill in a new example?",
-    "visual": "📖 Match headings to text types; 🔎 opinion; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Match headings to text types; 🔎 opinion; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la03.svg#ac9e1la03-p-019\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la03.svg#ac9e1la03-p-019",
-      "alt_text": "📖 Match headings to text types; 🔎 opinion; ✅ choose with evidence"
-    },
-    "answers": [
-      "Monday ↔ purpose; shadows ↔ explanation; koala facts ↔ report",
-      "Monday ↔ recount; shadows ↔ explanation; koala facts ↔ report",
-      "Monday ↔ narrate; shadows ↔ explanation; koala facts ↔ report"
-    ],
-    "correct": 1,
-    "explanation": "Monday ↔ recount; shadows ↔ explanation; koala facts ↔ report uses the skill correctly. Ask what the text is doing, not only what it is about.\nHint: Ask what the text is doing, not only what it is about.",
-    "structuredExplanation": {
-      "summary": "Monday ↔ recount; shadows ↔ explanation; koala facts ↔ report uses the skill correctly. Ask what the text is doing, not only what it is about.",
-      "hint": "Ask what the text is doing, not only what it is about."
+      "summary": "The text does not develop one recount, opinion or information topic coherently.",
+      "hint": "Read the whole example and check what the question asks."
     },
     "qualitySchema": "production-v1"
   }

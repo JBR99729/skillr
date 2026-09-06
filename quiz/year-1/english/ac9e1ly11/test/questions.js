@@ -4,466 +4,480 @@ window.skillrTestQuestions = [
     "id": "ac9e1ly11-t-001",
     "curriculumCode": "AC9E1LY11",
     "bank": "test",
-    "skill": "ac9e1ly11 01 answer",
+    "skill": "use short vowels, common long vowels, consonant blends and digraphs to write words, and blend these to read one- and two-syllable words",
     "printable": true,
     "type": "single",
-    "question": "Which response would correctly show continuous blending?",
-    "audioPrompt": "Which response would correctly show continuous blending?",
-    "visual": "📖 show continuous blending; 🔎 short vowel; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 show continuous blending; 🔎 short vowel; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly11.svg#ac9e1ly11-t-001\"></use></svg>",
+    "question": "Zoe is looking for sh. Which word has it?",
+    "audioPrompt": "Zoe is looking for sh. Which word has it?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly11.svg#ac9e1ly11-t-001",
-      "alt_text": "📖 show continuous blending; 🔎 short vowel; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "/r/ /e/ /s/ /t/ blended as rest, with both final blend sounds retained",
-      "Count both letters of a digraph as separate sounds.",
-      "Do not look through the whole word."
+      "sip",
+      "ship",
+      "chip"
     ],
-    "correct": 0,
-    "explanation": "/r/ /e/ /s/ /t/ blended as rest, with both final blend sounds retained This matches the task.\nHint: sh/ch/th can make one sound.",
+    "correct": 1,
+    "explanation": "ship is the best answer.",
     "structuredExplanation": {
-      "summary": "/r/ /e/ /s/ /t/ blended as rest, with both final blend sounds retained This matches the task.",
-      "hint": "sh/ch/th can make one sound."
+      "summary": "ship is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 1
   },
   {
     "id": "ac9e1ly11-t-002",
     "curriculumCode": "AC9E1LY11",
     "bank": "test",
-    "skill": "ac9e1ly11 01 strategy",
+    "skill": "use short vowels, common long vowels, consonant blends and digraphs to write words, and blend these to read one- and two-syllable words",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you show continuous blending?",
-    "audioPrompt": "Which tip would help you show continuous blending?",
-    "visual": "🧠 show continuous blending; ➡️ Look at pattern; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 show continuous blending; ➡️ Look at pattern; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly11.svg#ac9e1ly11-t-002\"></use></svg>",
+    "question": "Max is looking for ch. Which word has it?",
+    "audioPrompt": "Max is looking for ch. Which word has it?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly11.svg#ac9e1ly11-t-002",
-      "alt_text": "🧠 show continuous blending; ➡️ Look at pattern; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Do not look through the whole word.",
-      "sh/ch/th can make one sound.",
-      "Leave out vowel."
+      "cat",
+      "chat",
+      "that"
     ],
     "correct": 1,
-    "explanation": "sh/ch/th can make one sound.\nHint: sh/ch/th can make one sound.",
+    "explanation": "chat is the best answer.",
     "structuredExplanation": {
-      "summary": "sh/ch/th can make one sound.",
-      "hint": "sh/ch/th can make one sound."
+      "summary": "chat is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 2
   },
   {
     "id": "ac9e1ly11-t-003",
     "curriculumCode": "AC9E1LY11",
     "bank": "test",
-    "skill": "ac9e1ly11 02 answer",
+    "skill": "use short vowels, common long vowels, consonant blends and digraphs to write words, and blend these to read one- and two-syllable words",
     "printable": true,
     "type": "single",
-    "question": "Write rabbit, mark rab/bit and underline the short vowel in each syllable.",
-    "audioPrompt": "Write rabbit, mark rab/bit and underline the short vowel in each syllable.",
-    "visual": "📖 Draw a two-syllable map; 🔎 long vowel; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Draw a two-syllable map; 🔎 long vowel; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly11.svg#ac9e1ly11-t-003\"></use></svg>",
+    "question": "Mia is looking for fr. Which word has it?",
+    "audioPrompt": "Mia is looking for fr. Which word has it?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly11.svg#ac9e1ly11-t-003",
-      "alt_text": "📖 Draw a two-syllable map; 🔎 long vowel; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Do not look through the whole word.",
-      "Leave out vowel.",
-      "Rabbit split rab/bit; a and i identified as short vowel sounds"
+      "fog",
+      "drum",
+      "frog"
     ],
     "correct": 2,
-    "explanation": "Rabbit split rab/bit; a and i identified as short vowel sounds This matches the task.\nHint: Look through the whole word.",
+    "explanation": "frog is the best answer.",
     "structuredExplanation": {
-      "summary": "Rabbit split rab/bit; a and i identified as short vowel sounds This matches the task.",
-      "hint": "Look through the whole word."
+      "summary": "frog is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 3
   },
   {
     "id": "ac9e1ly11-t-004",
     "curriculumCode": "AC9E1LY11",
     "bank": "test",
-    "skill": "ac9e1ly11 02 strategy",
+    "skill": "use short vowels, common long vowels, consonant blends and digraphs to write words, and blend these to read one- and two-syllable words",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you draw a two-syllable map?",
-    "audioPrompt": "Which tip would help you draw a two-syllable map?",
-    "visual": "🧠 Draw a two-syllable map; ➡️ Say sound; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Draw a two-syllable map; ➡️ Say sound; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly11.svg#ac9e1ly11-t-004\"></use></svg>",
+    "question": "Ben is looking for st. Which word has it?",
+    "audioPrompt": "Ben is looking for st. Which word has it?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly11.svg#ac9e1ly11-t-004",
-      "alt_text": "🧠 Draw a two-syllable map; ➡️ Say sound; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Use this routine: Look at pattern → Say sound → Blend word → Write/check.",
-      "Leave out vowel.",
-      "Count both letters of a digraph as separate sounds."
+      "top",
+      "shop",
+      "stop"
     ],
-    "correct": 0,
-    "explanation": "Use this routine: Look at pattern → Say sound → Blend word → Write/check.\nHint: Look through the whole word.",
+    "correct": 2,
+    "explanation": "stop is the best answer.",
     "structuredExplanation": {
-      "summary": "Use this routine: Look at pattern → Say sound → Blend word → Write/check.",
-      "hint": "Look through the whole word."
+      "summary": "stop is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 4
   },
   {
     "id": "ac9e1ly11-t-005",
     "curriculumCode": "AC9E1LY11",
     "bank": "test",
-    "skill": "ac9e1ly11 03 answer",
+    "skill": "use short vowels, common long vowels, consonant blends and digraphs to write words, and blend these to read one- and two-syllable words",
     "printable": true,
     "type": "single",
-    "question": "Which response would correctly correct a digraph split?",
-    "audioPrompt": "Which response would correctly correct a digraph split?",
-    "visual": "📖 Correct a digraph split; 🔎 blend; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Correct a digraph split; 🔎 blend; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly11.svg#ac9e1ly11-t-005\"></use></svg>",
+    "question": "Sam is looking for ai. Which word has it?",
+    "audioPrompt": "Sam is looking for ai. Which word has it?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly11.svg#ac9e1ly11-t-005",
-      "alt_text": "📖 Correct a digraph split; 🔎 blend; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Leave out vowel.",
-      "Sh represents one /sh/ phoneme; correct segmentation /sh/ /i/ /p/",
-      "Count both letters of a digraph as separate sounds."
+      "rain",
+      "red",
+      "ran"
     ],
-    "correct": 1,
-    "explanation": "Sh represents one /sh/ phoneme; correct segmentation /sh/ /i/ /p/ This matches the task.\nHint: Every syllable needs a vowel sound.",
+    "correct": 0,
+    "explanation": "rain is the best answer.",
     "structuredExplanation": {
-      "summary": "Sh represents one /sh/ phoneme; correct segmentation /sh/ /i/ /p/ This matches the task.",
-      "hint": "Every syllable needs a vowel sound."
+      "summary": "rain is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 5
   },
   {
     "id": "ac9e1ly11-t-006",
     "curriculumCode": "AC9E1LY11",
     "bank": "test",
-    "skill": "ac9e1ly11 03 strategy",
+    "skill": "use short vowels, common long vowels, consonant blends and digraphs to write words, and blend these to read one- and two-syllable words",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you correct a digraph split?",
-    "audioPrompt": "Which tip would help you correct a digraph split?",
-    "visual": "🧠 Correct a digraph split; ➡️ Blend word; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Correct a digraph split; ➡️ Blend word; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly11.svg#ac9e1ly11-t-006\"></use></svg>",
+    "question": "Kim is looking for oa. Which word has it?",
+    "audioPrompt": "Kim is looking for oa. Which word has it?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly11.svg#ac9e1ly11-t-006",
-      "alt_text": "🧠 Correct a digraph split; ➡️ Blend word; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Count both letters of a digraph as separate sounds.",
-      "Do not look through the whole word.",
-      "Look for blend and check the whole example."
+      "boat",
+      "bot",
+      "boot"
     ],
-    "correct": 2,
-    "explanation": "Look for blend and check the whole example.\nHint: Every syllable needs a vowel sound.",
+    "correct": 0,
+    "explanation": "boat is the best answer.",
     "structuredExplanation": {
-      "summary": "Look for blend and check the whole example.",
-      "hint": "Every syllable needs a vowel sound."
+      "summary": "boat is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 6
   },
   {
     "id": "ac9e1ly11-t-007",
     "curriculumCode": "AC9E1LY11",
     "bank": "test",
-    "skill": "ac9e1ly11 04 answer",
+    "skill": "use short vowels, common long vowels, consonant blends and digraphs to write words, and blend these to read one- and two-syllable words",
     "printable": true,
     "type": "single",
-    "question": "Which response would correctly decode and encode a mixed set?",
-    "audioPrompt": "Which response would correctly decode and encode a mixed set?",
-    "visual": "📖 Decode and encode a mixed set; 🔎 digraph; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Decode and encode a mixed set; 🔎 digraph; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly11.svg#ac9e1ly11-t-007\"></use></svg>",
+    "question": "Ava is looking for ee. Which word has it?",
+    "audioPrompt": "Ava is looking for ee. Which word has it?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly11.svg#ac9e1ly11-t-007",
-      "alt_text": "📖 Decode and encode a mixed set; 🔎 digraph; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "All four words accurate; fl blend, ch digraph, o_e long /o/, sun/set syllables, with explanations",
-      "Count both letters of a digraph as separate sounds.",
-      "Do not look through the whole word."
+      "said",
+      "sad",
+      "seed"
     ],
-    "correct": 0,
-    "explanation": "All four words accurate; fl blend, ch digraph, o_e long /o/, sun/set syllables, with explanations This matches the task.\nHint: sh/ch/th can make one sound.",
+    "correct": 2,
+    "explanation": "seed is the best answer.",
     "structuredExplanation": {
-      "summary": "All four words accurate; fl blend, ch digraph, o_e long /o/, sun/set syllables, with explanations This matches the task.",
-      "hint": "sh/ch/th can make one sound."
+      "summary": "seed is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 7
   },
   {
     "id": "ac9e1ly11-t-008",
     "curriculumCode": "AC9E1LY11",
     "bank": "test",
-    "skill": "ac9e1ly11 04 strategy",
+    "skill": "use short vowels, common long vowels, consonant blends and digraphs to write words, and blend these to read one- and two-syllable words",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you decode and encode a mixed set?",
-    "audioPrompt": "Which tip would help you decode and encode a mixed set?",
-    "visual": "🧠 Decode and encode a mixed set; ➡️ Write/check; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Decode and encode a mixed set; ➡️ Write/check; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly11.svg#ac9e1ly11-t-008\"></use></svg>",
+    "question": "Leo is looking for oo. Which word has it?",
+    "audioPrompt": "Leo is looking for oo. Which word has it?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly11.svg#ac9e1ly11-t-008",
-      "alt_text": "🧠 Decode and encode a mixed set; ➡️ Write/check; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Do not look through the whole word.",
-      "Check that you can read digraphs.",
-      "Leave out vowel."
+      "mean",
+      "man",
+      "moon"
     ],
-    "correct": 1,
-    "explanation": "Check that you can read digraphs.\nHint: sh/ch/th can make one sound.",
+    "correct": 2,
+    "explanation": "moon is the best answer.",
     "structuredExplanation": {
-      "summary": "Check that you can read digraphs.",
-      "hint": "sh/ch/th can make one sound."
+      "summary": "moon is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 8
   },
   {
     "id": "ac9e1ly11-t-009",
     "curriculumCode": "AC9E1LY11",
     "bank": "test",
-    "skill": "ac9e1ly11 01 test verify",
+    "skill": "use short vowels, common long vowels, consonant blends and digraphs to write words, and blend these to read one- and two-syllable words",
     "printable": true,
     "type": "single",
-    "question": "A classmate is unsure about this example. Which tip would help them check it carefully?",
-    "audioPrompt": "A classmate is unsure about this example. Which tip would help them check it carefully?",
-    "visual": "🧠 show continuous blending; ➡️ Look at pattern; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 show continuous blending; ➡️ Look at pattern; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly11.svg#ac9e1ly11-t-002\"></use></svg>",
+    "question": "Max is looking for sh. Which word has it?",
+    "audioPrompt": "Max is looking for sh. Which word has it?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly11.svg#ac9e1ly11-t-002",
-      "alt_text": "🧠 show continuous blending; ➡️ Look at pattern; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Count both letters of a digraph as separate sounds.",
-      "Do not look through the whole word.",
-      "sh/ch/th can make one sound."
+      "chip",
+      "ship",
+      "sip"
     ],
-    "correct": 2,
-    "explanation": "sh/ch/th can make one sound. is the useful check. sh/ch/th can make one sound.\nHint: sh/ch/th can make one sound.",
+    "correct": 1,
+    "explanation": "ship is the best answer.",
     "structuredExplanation": {
-      "summary": "sh/ch/th can make one sound. is the useful check. sh/ch/th can make one sound.",
-      "hint": "sh/ch/th can make one sound."
+      "summary": "ship is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 9
   },
   {
     "id": "ac9e1ly11-t-010",
     "curriculumCode": "AC9E1LY11",
     "bank": "test",
-    "skill": "ac9e1ly11 02 test verify",
+    "skill": "use short vowels, common long vowels, consonant blends and digraphs to write words, and blend these to read one- and two-syllable words",
     "printable": true,
     "type": "single",
-    "question": "A classmate is unsure about this example. Which tip would help them check it carefully?",
-    "audioPrompt": "A classmate is unsure about this example. Which tip would help them check it carefully?",
-    "visual": "🧠 Draw a two-syllable map; ➡️ Say sound; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Draw a two-syllable map; ➡️ Say sound; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly11.svg#ac9e1ly11-t-004\"></use></svg>",
+    "question": "Mia is looking for ch. Which word has it?",
+    "audioPrompt": "Mia is looking for ch. Which word has it?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly11.svg#ac9e1ly11-t-004",
-      "alt_text": "🧠 Draw a two-syllable map; ➡️ Say sound; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Use this routine: Look at pattern → Say sound → Blend word → Write/check.",
-      "Do not look through the whole word.",
-      "Leave out vowel."
+      "that",
+      "cat",
+      "chat"
     ],
-    "correct": 0,
-    "explanation": "Use this routine: Look at pattern → Say sound → Blend word → Write/check. is the useful check. Look through the whole word.\nHint: Look through the whole word.",
+    "correct": 2,
+    "explanation": "chat is the best answer.",
     "structuredExplanation": {
-      "summary": "Use this routine: Look at pattern → Say sound → Blend word → Write/check. is the useful check. Look through the whole word.",
-      "hint": "Look through the whole word."
+      "summary": "chat is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 10
   },
   {
     "id": "ac9e1ly11-t-011",
     "curriculumCode": "AC9E1LY11",
     "bank": "test",
-    "skill": "ac9e1ly11 03 test verify",
+    "skill": "use short vowels, common long vowels, consonant blends and digraphs to write words, and blend these to read one- and two-syllable words",
     "printable": true,
     "type": "single",
-    "question": "A classmate is unsure about this example. Which tip would help them check it carefully?",
-    "audioPrompt": "A classmate is unsure about this example. Which tip would help them check it carefully?",
-    "visual": "🧠 Correct a digraph split; ➡️ Blend word; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Correct a digraph split; ➡️ Blend word; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly11.svg#ac9e1ly11-t-006\"></use></svg>",
+    "question": "Ben is looking for fr. Which word has it?",
+    "audioPrompt": "Ben is looking for fr. Which word has it?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly11.svg#ac9e1ly11-t-006",
-      "alt_text": "🧠 Correct a digraph split; ➡️ Blend word; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Leave out vowel.",
-      "Look for blend and check the whole example.",
-      "Count both letters of a digraph as separate sounds."
+      "drum",
+      "fog",
+      "frog"
     ],
-    "correct": 1,
-    "explanation": "Look for blend and check the whole example. is the useful check. Every syllable needs a vowel sound.\nHint: Every syllable needs a vowel sound.",
+    "correct": 2,
+    "explanation": "frog is the best answer.",
     "structuredExplanation": {
-      "summary": "Look for blend and check the whole example. is the useful check. Every syllable needs a vowel sound.",
-      "hint": "Every syllable needs a vowel sound."
+      "summary": "frog is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 11
   },
   {
     "id": "ac9e1ly11-t-012",
     "curriculumCode": "AC9E1LY11",
     "bank": "test",
-    "skill": "ac9e1ly11 04 test verify",
+    "skill": "use short vowels, common long vowels, consonant blends and digraphs to write words, and blend these to read one- and two-syllable words",
     "printable": true,
     "type": "single",
-    "question": "A classmate is unsure about this example. Which tip would help them check it carefully?",
-    "audioPrompt": "A classmate is unsure about this example. Which tip would help them check it carefully?",
-    "visual": "🧠 Decode and encode a mixed set; ➡️ Write/check; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Decode and encode a mixed set; ➡️ Write/check; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly11.svg#ac9e1ly11-t-008\"></use></svg>",
+    "question": "Sam is looking for st. Which word has it?",
+    "audioPrompt": "Sam is looking for st. Which word has it?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly11.svg#ac9e1ly11-t-008",
-      "alt_text": "🧠 Decode and encode a mixed set; ➡️ Write/check; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Count both letters of a digraph as separate sounds.",
-      "Do not look through the whole word.",
-      "Check that you can read digraphs."
+      "top",
+      "shop",
+      "stop"
     ],
     "correct": 2,
-    "explanation": "Check that you can read digraphs. is the useful check. sh/ch/th can make one sound.\nHint: sh/ch/th can make one sound.",
+    "explanation": "stop is the best answer.",
     "structuredExplanation": {
-      "summary": "Check that you can read digraphs. is the useful check. sh/ch/th can make one sound.",
-      "hint": "sh/ch/th can make one sound."
+      "summary": "stop is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 12
   },
   {
     "id": "ac9e1ly11-t-013",
     "curriculumCode": "AC9E1LY11",
     "bank": "test",
-    "skill": "ac9e1ly11 01 test apply",
+    "skill": "use short vowels, common long vowels, consonant blends and digraphs to write words, and blend these to read one- and two-syllable words",
     "printable": true,
     "type": "single",
-    "question": "A classmate chose “Count both letters of a digraph as separate sounds.”. Which answer would improve their response?",
-    "audioPrompt": "A classmate chose Count both letters of a digraph as separate sounds.. Which answer would improve their response?",
-    "visual": "📖 show continuous blending; 🔎 short vowel; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 show continuous blending; 🔎 short vowel; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly11.svg#ac9e1ly11-t-001\"></use></svg>",
+    "question": "Kim is looking for ai. Which word has it?",
+    "audioPrompt": "Kim is looking for ai. Which word has it?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly11.svg#ac9e1ly11-t-001",
-      "alt_text": "📖 show continuous blending; 🔎 short vowel; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "/r/ /e/ /s/ /t/ blended as rest, with both final blend sounds retained",
-      "Count both letters of a digraph as separate sounds.",
-      "Do not look through the whole word."
+      "rain",
+      "ran",
+      "red"
     ],
     "correct": 0,
-    "explanation": "/r/ /e/ /s/ /t/ blended as rest, with both final blend sounds retained is the stronger response because it uses the target skill. sh/ch/th can make one sound.\nHint: sh/ch/th can make one sound.",
+    "explanation": "rain is the best answer.",
     "structuredExplanation": {
-      "summary": "/r/ /e/ /s/ /t/ blended as rest, with both final blend sounds retained is the stronger response because it uses the target skill. sh/ch/th can make one sound.",
-      "hint": "sh/ch/th can make one sound."
+      "summary": "rain is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 13
   },
   {
     "id": "ac9e1ly11-t-014",
     "curriculumCode": "AC9E1LY11",
     "bank": "test",
-    "skill": "ac9e1ly11 02 test apply",
+    "skill": "use short vowels, common long vowels, consonant blends and digraphs to write words, and blend these to read one- and two-syllable words",
     "printable": true,
     "type": "single",
-    "question": "A classmate chose “Do not look through the whole word.”. Which answer would improve their response?",
-    "audioPrompt": "A classmate chose Do not look through the whole word.. Which answer would improve their response?",
-    "visual": "📖 Draw a two-syllable map; 🔎 long vowel; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Draw a two-syllable map; 🔎 long vowel; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly11.svg#ac9e1ly11-t-003\"></use></svg>",
+    "question": "Ava is looking for oa. Which word has it?",
+    "audioPrompt": "Ava is looking for oa. Which word has it?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly11.svg#ac9e1ly11-t-003",
-      "alt_text": "📖 Draw a two-syllable map; 🔎 long vowel; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Do not look through the whole word.",
-      "Rabbit split rab/bit; a and i identified as short vowel sounds",
-      "Leave out vowel."
+      "boat",
+      "boot",
+      "bot"
     ],
-    "correct": 1,
-    "explanation": "Rabbit split rab/bit; a and i identified as short vowel sounds is the stronger response because it uses the target skill. Look through the whole word.\nHint: Look through the whole word.",
+    "correct": 0,
+    "explanation": "boat is the best answer.",
     "structuredExplanation": {
-      "summary": "Rabbit split rab/bit; a and i identified as short vowel sounds is the stronger response because it uses the target skill. Look through the whole word.",
-      "hint": "Look through the whole word."
+      "summary": "boat is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 14
   },
   {
     "id": "ac9e1ly11-t-015",
     "curriculumCode": "AC9E1LY11",
     "bank": "test",
-    "skill": "ac9e1ly11 03 test apply",
+    "skill": "use short vowels, common long vowels, consonant blends and digraphs to write words, and blend these to read one- and two-syllable words",
     "printable": true,
     "type": "single",
-    "question": "A classmate chose “Leave out vowel.”. Which answer would improve their response?",
-    "audioPrompt": "A classmate chose Leave out vowel.. Which answer would improve their response?",
-    "visual": "📖 Correct a digraph split; 🔎 blend; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Correct a digraph split; 🔎 blend; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly11.svg#ac9e1ly11-t-005\"></use></svg>",
+    "question": "Leo is looking for ee. Which word has it?",
+    "audioPrompt": "Leo is looking for ee. Which word has it?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly11.svg#ac9e1ly11-t-005",
-      "alt_text": "📖 Correct a digraph split; 🔎 blend; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Leave out vowel.",
-      "Count both letters of a digraph as separate sounds.",
-      "Sh represents one /sh/ phoneme; correct segmentation /sh/ /i/ /p/"
+      "sad",
+      "said",
+      "seed"
     ],
     "correct": 2,
-    "explanation": "Sh represents one /sh/ phoneme; correct segmentation /sh/ /i/ /p/ is the stronger response because it uses the target skill. Every syllable needs a vowel sound.\nHint: Every syllable needs a vowel sound.",
+    "explanation": "seed is the best answer.",
     "structuredExplanation": {
-      "summary": "Sh represents one /sh/ phoneme; correct segmentation /sh/ /i/ /p/ is the stronger response because it uses the target skill. Every syllable needs a vowel sound.",
-      "hint": "Every syllable needs a vowel sound."
+      "summary": "seed is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 15
   },
   {
     "id": "ac9e1ly11-t-016",
     "curriculumCode": "AC9E1LY11",
     "bank": "test",
-    "skill": "ac9e1ly11 04 test apply",
+    "skill": "use short vowels, common long vowels, consonant blends and digraphs to write words, and blend these to read one- and two-syllable words",
     "printable": true,
     "type": "single",
-    "question": "A classmate chose “Count both letters of a digraph as separate sounds.”. Which answer would improve their response?",
-    "audioPrompt": "A classmate chose Count both letters of a digraph as separate sounds.. Which answer would improve their response?",
-    "visual": "📖 Decode and encode a mixed set; 🔎 digraph; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Decode and encode a mixed set; 🔎 digraph; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly11.svg#ac9e1ly11-t-007\"></use></svg>",
+    "question": "Zoe is looking for oo. Which word has it?",
+    "audioPrompt": "Zoe is looking for oo. Which word has it?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly11.svg#ac9e1ly11-t-007",
-      "alt_text": "📖 Decode and encode a mixed set; 🔎 digraph; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "All four words accurate; fl blend, ch digraph, o_e long /o/, sun/set syllables, with explanations",
-      "Count both letters of a digraph as separate sounds.",
-      "Do not look through the whole word."
+      "man",
+      "mean",
+      "moon"
     ],
-    "correct": 0,
-    "explanation": "All four words accurate; fl blend, ch digraph, o_e long /o/, sun/set syllables, with explanations is the stronger response because it uses the target skill. sh/ch/th can make one sound.\nHint: sh/ch/th can make one sound.",
+    "correct": 2,
+    "explanation": "moon is the best answer.",
     "structuredExplanation": {
-      "summary": "All four words accurate; fl blend, ch digraph, o_e long /o/, sun/set syllables, with explanations is the stronger response because it uses the target skill. sh/ch/th can make one sound.",
-      "hint": "sh/ch/th can make one sound."
+      "summary": "moon is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 16
   }
 ];
-window.skillrExamQuestions = window.skillrTestQuestions;
-window.quizQuestions = window.skillrTestQuestions;

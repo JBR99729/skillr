@@ -4,466 +4,480 @@ window.skillrTestQuestions = [
     "id": "ac9e1ly15-t-001",
     "curriculumCode": "AC9E1LY15",
     "bank": "test",
-    "skill": "ac9e1ly15 01 answer",
+    "skill": "recognise and know how to use grammatical morphemes to create word families",
     "printable": true,
     "type": "single",
-    "question": "Which response would correctly show morpheme removal?",
-    "audioPrompt": "Which response would correctly show morpheme removal?",
-    "visual": "📖 show morpheme removal; 🔎 base word; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 show morpheme removal; 🔎 base word; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly15.svg#ac9e1ly15-t-001\"></use></svg>",
+    "question": "Read and choose: Add -ing to “play”. Which word do you make?",
+    "audioPrompt": "Read and choose: Add -ing to “play”. Which word do you make?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly15.svg#ac9e1ly15-t-001",
-      "alt_text": "📖 show morpheme removal; 🔎 base word; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Playing → play; ongoing form returns to base action",
-      "play; ongoing form returns to base action → Playing",
-      "Treat the ending as having no meaning."
+      "plays",
+      "playing",
+      "played"
     ],
-    "correct": 0,
-    "explanation": "Playing → play; ongoing form returns to base action This matches the task.\nHint: Explain what the morpheme changes.",
+    "correct": 1,
+    "explanation": "playing is the best answer.",
     "structuredExplanation": {
-      "summary": "Playing → play; ongoing form returns to base action This matches the task.",
-      "hint": "Explain what the morpheme changes."
+      "summary": "playing is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 1
   },
   {
     "id": "ac9e1ly15-t-002",
     "curriculumCode": "AC9E1LY15",
     "bank": "test",
-    "skill": "ac9e1ly15 01 strategy",
+    "skill": "recognise and know how to use grammatical morphemes to create word families",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you show morpheme removal?",
-    "audioPrompt": "Which tip would help you show morpheme removal?",
-    "visual": "🧠 show morpheme removal; ➡️ Find base word; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 show morpheme removal; ➡️ Find base word; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly15.svg#ac9e1ly15-t-002\"></use></svg>",
+    "question": "Look and choose: Add -s to “jump”. Which word do you make?",
+    "audioPrompt": "Look and choose: Add -s to “jump”. Which word do you make?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly15.svg#ac9e1ly15-t-002",
-      "alt_text": "🧠 show morpheme removal; ➡️ Find base word; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Do not find the base word first.",
-      "Explain what the morpheme changes.",
-      "Treat word family as rhymes."
+      "jumping",
+      "jumps",
+      "jump"
     ],
     "correct": 1,
-    "explanation": "Explain what the morpheme changes.\nHint: Explain what the morpheme changes.",
+    "explanation": "jumps is the best answer.",
     "structuredExplanation": {
-      "summary": "Explain what the morpheme changes.",
-      "hint": "Explain what the morpheme changes."
+      "summary": "jumps is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 2
   },
   {
     "id": "ac9e1ly15-t-003",
     "curriculumCode": "AC9E1LY15",
     "bank": "test",
-    "skill": "ac9e1ly15 02 answer",
+    "skill": "recognise and know how to use grammatical morphemes to create word families",
     "printable": true,
     "type": "single",
-    "question": "Which response would correctly draw base and compound?",
-    "audioPrompt": "Which response would correctly draw base and compound?",
-    "visual": "📖 Draw base and compound; 🔎 morpheme; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Draw base and compound; 🔎 morpheme; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly15.svg#ac9e1ly15-t-003\"></use></svg>",
+    "question": "Which words belong to the same word family?",
+    "audioPrompt": "Which words belong to the same word family?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly15.svg#ac9e1ly15-t-003",
-      "alt_text": "📖 Draw base and compound; 🔎 morpheme; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Do not find the base word first.",
-      "Treat word family as rhymes.",
-      "Play + ground = playground; combined meaning is a ground/place for play"
+      "look, ball",
+      "looking, fish",
+      "look, looking"
     ],
     "correct": 2,
-    "explanation": "Play + ground = playground; combined meaning is a ground/place for play This matches the task.\nHint: Find the base word first.",
+    "explanation": "look, looking is the best answer.",
     "structuredExplanation": {
-      "summary": "Play + ground = playground; combined meaning is a ground/place for play This matches the task.",
-      "hint": "Find the base word first."
+      "summary": "look, looking is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 3
   },
   {
     "id": "ac9e1ly15-t-004",
     "curriculumCode": "AC9E1LY15",
     "bank": "test",
-    "skill": "ac9e1ly15 02 strategy",
+    "skill": "recognise and know how to use grammatical morphemes to create word families",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you draw base and compound?",
-    "audioPrompt": "Which tip would help you draw base and compound?",
-    "visual": "🧠 Draw base and compound; ➡️ Add morpheme; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Draw base and compound; ➡️ Add morpheme; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly15.svg#ac9e1ly15-t-004\"></use></svg>",
+    "question": "Read and choose: Which word means “doing it now”?",
+    "audioPrompt": "Read and choose: Which word means “doing it now”?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly15.svg#ac9e1ly15-t-004",
-      "alt_text": "🧠 Draw base and compound; ➡️ Add morpheme; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Use this routine: Find base word → Add morpheme → Read new word → Explain meaning.",
-      "Treat word family as rhymes.",
-      "Treat the ending as having no meaning."
+      "help",
+      "helps",
+      "helping"
     ],
-    "correct": 0,
-    "explanation": "Use this routine: Find base word → Add morpheme → Read new word → Explain meaning.\nHint: Find the base word first.",
+    "correct": 2,
+    "explanation": "helping is the best answer.",
     "structuredExplanation": {
-      "summary": "Use this routine: Find base word → Add morpheme → Read new word → Explain meaning.",
-      "hint": "Find the base word first."
+      "summary": "helping is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 4
   },
   {
     "id": "ac9e1ly15-t-005",
     "curriculumCode": "AC9E1LY15",
     "bank": "test",
-    "skill": "ac9e1ly15 03 answer",
+    "skill": "recognise and know how to use grammatical morphemes to create word families",
     "printable": true,
     "type": "single",
-    "question": "Which response would correctly correct a false family?",
-    "audioPrompt": "Which response would correctly correct a false family?",
-    "visual": "📖 Correct a false family; 🔎 word family; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Correct a false family; 🔎 word family; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly15.svg#ac9e1ly15-t-005\"></use></svg>",
+    "question": "Finish: “Sam is ___.”",
+    "audioPrompt": "Finish: “Sam is ___.”",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly15.svg#ac9e1ly15-t-005",
-      "alt_text": "📖 Correct a false family; 🔎 word family; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Treat word family as rhymes.",
-      "Play and played share base/meaning; plate only shares letters and is unrelated",
-      "Treat the ending as having no meaning."
+      "painting",
+      "paint",
+      "paints"
     ],
-    "correct": 1,
-    "explanation": "Play and played share base/meaning; plate only shares letters and is unrelated This matches the task.\nHint: Word families here are about shared meaning parts.",
+    "correct": 0,
+    "explanation": "painting is the best answer.",
     "structuredExplanation": {
-      "summary": "Play and played share base/meaning; plate only shares letters and is unrelated This matches the task.",
-      "hint": "Word families here are about shared meaning parts."
+      "summary": "painting is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 5
   },
   {
     "id": "ac9e1ly15-t-006",
     "curriculumCode": "AC9E1LY15",
     "bank": "test",
-    "skill": "ac9e1ly15 03 strategy",
+    "skill": "recognise and know how to use grammatical morphemes to create word families",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you correct a false family?",
-    "audioPrompt": "Which tip would help you correct a false family?",
-    "visual": "🧠 Correct a false family; ➡️ Read new word; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Correct a false family; ➡️ Read new word; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly15.svg#ac9e1ly15-t-006\"></use></svg>",
+    "question": "Finish: “The dog ___.”",
+    "audioPrompt": "Finish: “The dog ___.”",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly15.svg#ac9e1ly15-t-006",
-      "alt_text": "🧠 Correct a false family; ➡️ Read new word; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Treat the ending as having no meaning.",
-      "Do not find the base word first.",
-      "Look for word family and check the whole example."
+      "walks",
+      "walking",
+      "walk"
     ],
-    "correct": 2,
-    "explanation": "Look for word family and check the whole example.\nHint: Word families here are about shared meaning parts.",
+    "correct": 0,
+    "explanation": "walks is the best answer.",
     "structuredExplanation": {
-      "summary": "Look for word family and check the whole example.",
-      "hint": "Word families here are about shared meaning parts."
+      "summary": "walks is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 6
   },
   {
     "id": "ac9e1ly15-t-007",
     "curriculumCode": "AC9E1LY15",
     "bank": "test",
-    "skill": "ac9e1ly15 04 answer",
+    "skill": "recognise and know how to use grammatical morphemes to create word families",
     "printable": true,
     "type": "single",
-    "question": "Which response would correctly analyse a family in text?",
-    "audioPrompt": "Which response would correctly analyse a family in text?",
-    "visual": "📖 Analyse a family in text; 🔎 -ed; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Analyse a family in text; 🔎 -ed; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly15.svg#ac9e1ly15-t-007\"></use></svg>",
+    "question": "Read and choose: What is the base word in “reading”?",
+    "audioPrompt": "Read and choose: What is the base word in “reading”?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly15.svg#ac9e1ly15-t-007",
-      "alt_text": "📖 Analyse a family in text; 🔎 -ed; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Paint base + -er person, paint + -ed past",
-      "The painter painted while her helper was helping",
-      "Treat the ending as having no meaning."
+      "reading",
+      "reads",
+      "read"
     ],
-    "correct": 0,
-    "explanation": "Paint base + -er person, paint + -ed past This matches the task.\nHint: Explain what the morpheme changes.",
+    "correct": 2,
+    "explanation": "read is the best answer.",
     "structuredExplanation": {
-      "summary": "Paint base + -er person, paint + -ed past This matches the task.",
-      "hint": "Explain what the morpheme changes."
+      "summary": "read is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 7
   },
   {
     "id": "ac9e1ly15-t-008",
     "curriculumCode": "AC9E1LY15",
     "bank": "test",
-    "skill": "ac9e1ly15 04 strategy",
+    "skill": "recognise and know how to use grammatical morphemes to create word families",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you analyse a family in text?",
-    "audioPrompt": "Which tip would help you analyse a family in text?",
-    "visual": "🧠 Analyse a family in text; ➡️ Explain meaning; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Analyse a family in text; ➡️ Explain meaning; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly15.svg#ac9e1ly15-t-008\"></use></svg>",
+    "question": "Read and choose: Which ending is in “singing”?",
+    "audioPrompt": "Read and choose: Which ending is in “singing”?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly15.svg#ac9e1ly15-t-008",
-      "alt_text": "🧠 Analyse a family in text; ➡️ Explain meaning; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Do not find the base word first.",
-      "Check that you can build word families.",
-      "Treat word family as rhymes."
+      "-ed",
+      "-s",
+      "-ing"
     ],
-    "correct": 1,
-    "explanation": "Check that you can build word families.\nHint: Explain what the morpheme changes.",
+    "correct": 2,
+    "explanation": "-ing is the best answer.",
     "structuredExplanation": {
-      "summary": "Check that you can build word families.",
-      "hint": "Explain what the morpheme changes."
+      "summary": "-ing is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 8
   },
   {
     "id": "ac9e1ly15-t-009",
     "curriculumCode": "AC9E1LY15",
     "bank": "test",
-    "skill": "ac9e1ly15 01 test verify",
+    "skill": "recognise and know how to use grammatical morphemes to create word families",
     "printable": true,
     "type": "single",
-    "question": "A classmate is unsure about this example. Which tip would help them check it carefully?",
-    "audioPrompt": "A classmate is unsure about this example. Which tip would help them check it carefully?",
-    "visual": "🧠 show morpheme removal; ➡️ Find base word; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 show morpheme removal; ➡️ Find base word; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly15.svg#ac9e1ly15-t-002\"></use></svg>",
+    "question": "Add -ing to “play”. Which word do you make?",
+    "audioPrompt": "Add -ing to “play”. Which word do you make?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly15.svg#ac9e1ly15-t-002",
-      "alt_text": "🧠 show morpheme removal; ➡️ Find base word; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "play; ongoing form returns to base action → Playing",
-      "Treat the ending as having no meaning.",
-      "Explain what the morpheme changes."
+      "played",
+      "playing",
+      "plays"
     ],
-    "correct": 2,
-    "explanation": "Explain what the morpheme changes. is the useful check. Explain what the morpheme changes.\nHint: Explain what the morpheme changes.",
+    "correct": 1,
+    "explanation": "playing is the best answer.",
     "structuredExplanation": {
-      "summary": "Explain what the morpheme changes. is the useful check. Explain what the morpheme changes.",
-      "hint": "Explain what the morpheme changes."
+      "summary": "playing is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 9
   },
   {
     "id": "ac9e1ly15-t-010",
     "curriculumCode": "AC9E1LY15",
     "bank": "test",
-    "skill": "ac9e1ly15 02 test verify",
+    "skill": "recognise and know how to use grammatical morphemes to create word families",
     "printable": true,
     "type": "single",
-    "question": "A classmate is unsure about this example. Which tip would help them check it carefully?",
-    "audioPrompt": "A classmate is unsure about this example. Which tip would help them check it carefully?",
-    "visual": "🧠 Draw base and compound; ➡️ Add morpheme; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Draw base and compound; ➡️ Add morpheme; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly15.svg#ac9e1ly15-t-004\"></use></svg>",
+    "question": "Read and choose: Add -s to “jump”. Which word do you make?",
+    "audioPrompt": "Read and choose: Add -s to “jump”. Which word do you make?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly15.svg#ac9e1ly15-t-004",
-      "alt_text": "🧠 Draw base and compound; ➡️ Add morpheme; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Use this routine: Find base word → Add morpheme → Read new word → Explain meaning.",
-      "Do not find the base word first.",
-      "Treat word family as rhymes."
+      "jump",
+      "jumping",
+      "jumps"
     ],
-    "correct": 0,
-    "explanation": "Use this routine: Find base word → Add morpheme → Read new word → Explain meaning. is the useful check. Find the base word first.\nHint: Find the base word first.",
+    "correct": 2,
+    "explanation": "jumps is the best answer.",
     "structuredExplanation": {
-      "summary": "Use this routine: Find base word → Add morpheme → Read new word → Explain meaning. is the useful check. Find the base word first.",
-      "hint": "Find the base word first."
+      "summary": "jumps is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 10
   },
   {
     "id": "ac9e1ly15-t-011",
     "curriculumCode": "AC9E1LY15",
     "bank": "test",
-    "skill": "ac9e1ly15 03 test verify",
+    "skill": "recognise and know how to use grammatical morphemes to create word families",
     "printable": true,
     "type": "single",
-    "question": "A classmate is unsure about this example. Which tip would help them check it carefully?",
-    "audioPrompt": "A classmate is unsure about this example. Which tip would help them check it carefully?",
-    "visual": "🧠 Correct a false family; ➡️ Read new word; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Correct a false family; ➡️ Read new word; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly15.svg#ac9e1ly15-t-006\"></use></svg>",
+    "question": "Which words belong to the same word family?",
+    "audioPrompt": "Which words belong to the same word family?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly15.svg#ac9e1ly15-t-006",
-      "alt_text": "🧠 Correct a false family; ➡️ Read new word; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Treat word family as rhymes.",
-      "Look for word family and check the whole example.",
-      "Treat the ending as having no meaning."
+      "looking, cat",
+      "look, map",
+      "look, looking"
     ],
-    "correct": 1,
-    "explanation": "Look for word family and check the whole example. is the useful check. Word families here are about shared meaning parts.\nHint: Word families here are about shared meaning parts.",
+    "correct": 2,
+    "explanation": "look, looking is the best answer.",
     "structuredExplanation": {
-      "summary": "Look for word family and check the whole example. is the useful check. Word families here are about shared meaning parts.",
-      "hint": "Word families here are about shared meaning parts."
+      "summary": "look, looking is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 11
   },
   {
     "id": "ac9e1ly15-t-012",
     "curriculumCode": "AC9E1LY15",
     "bank": "test",
-    "skill": "ac9e1ly15 04 test verify",
+    "skill": "recognise and know how to use grammatical morphemes to create word families",
     "printable": true,
     "type": "single",
-    "question": "A classmate is unsure about this example. Which tip would help them check it carefully?",
-    "audioPrompt": "A classmate is unsure about this example. Which tip would help them check it carefully?",
-    "visual": "🧠 Analyse a family in text; ➡️ Explain meaning; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Analyse a family in text; ➡️ Explain meaning; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly15.svg#ac9e1ly15-t-008\"></use></svg>",
+    "question": "Look and choose: Which word means “doing it now”?",
+    "audioPrompt": "Look and choose: Which word means “doing it now”?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly15.svg#ac9e1ly15-t-008",
-      "alt_text": "🧠 Analyse a family in text; ➡️ Explain meaning; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "The painter painted while her helper was helping",
-      "Treat the ending as having no meaning.",
-      "Check that you can build word families."
+      "help",
+      "helps",
+      "helping"
     ],
     "correct": 2,
-    "explanation": "Check that you can build word families. is the useful check. Explain what the morpheme changes.\nHint: Explain what the morpheme changes.",
+    "explanation": "helping is the best answer.",
     "structuredExplanation": {
-      "summary": "Check that you can build word families. is the useful check. Explain what the morpheme changes.",
-      "hint": "Explain what the morpheme changes."
+      "summary": "helping is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 12
   },
   {
     "id": "ac9e1ly15-t-013",
     "curriculumCode": "AC9E1LY15",
     "bank": "test",
-    "skill": "ac9e1ly15 01 test apply",
+    "skill": "recognise and know how to use grammatical morphemes to create word families",
     "printable": true,
     "type": "single",
-    "question": "A classmate chose “play; ongoing form returns to base action → Playing”. Which answer would improve their response?",
-    "audioPrompt": "A classmate chose play; ongoing form returns to base action → Playing. Which answer would improve their response?",
-    "visual": "📖 show morpheme removal; 🔎 base word; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 show morpheme removal; 🔎 base word; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly15.svg#ac9e1ly15-t-001\"></use></svg>",
+    "question": "Finish: “Kim is ___.”",
+    "audioPrompt": "Finish: “Kim is ___.”",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly15.svg#ac9e1ly15-t-001",
-      "alt_text": "📖 show morpheme removal; 🔎 base word; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Playing → play; ongoing form returns to base action",
-      "play; ongoing form returns to base action → Playing",
-      "Treat the ending as having no meaning."
+      "painting",
+      "paints",
+      "paint"
     ],
     "correct": 0,
-    "explanation": "Playing → play; ongoing form returns to base action is the stronger response because it uses the target skill. Explain what the morpheme changes.\nHint: Explain what the morpheme changes.",
+    "explanation": "painting is the best answer.",
     "structuredExplanation": {
-      "summary": "Playing → play; ongoing form returns to base action is the stronger response because it uses the target skill. Explain what the morpheme changes.",
-      "hint": "Explain what the morpheme changes."
+      "summary": "painting is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 13
   },
   {
     "id": "ac9e1ly15-t-014",
     "curriculumCode": "AC9E1LY15",
     "bank": "test",
-    "skill": "ac9e1ly15 02 test apply",
+    "skill": "recognise and know how to use grammatical morphemes to create word families",
     "printable": true,
     "type": "single",
-    "question": "A classmate chose “Do not find the base word first.”. Which answer would improve their response?",
-    "audioPrompt": "A classmate chose Do not find the base word first.. Which answer would improve their response?",
-    "visual": "📖 Draw base and compound; 🔎 morpheme; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Draw base and compound; 🔎 morpheme; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly15.svg#ac9e1ly15-t-003\"></use></svg>",
+    "question": "Finish: “The fox ___.”",
+    "audioPrompt": "Finish: “The fox ___.”",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly15.svg#ac9e1ly15-t-003",
-      "alt_text": "📖 Draw base and compound; 🔎 morpheme; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Do not find the base word first.",
-      "Play + ground = playground; combined meaning is a ground/place for play",
-      "Treat word family as rhymes."
+      "walks",
+      "walk",
+      "walking"
     ],
-    "correct": 1,
-    "explanation": "Play + ground = playground; combined meaning is a ground/place for play is the stronger response because it uses the target skill. Find the base word first.\nHint: Find the base word first.",
+    "correct": 0,
+    "explanation": "walks is the best answer.",
     "structuredExplanation": {
-      "summary": "Play + ground = playground; combined meaning is a ground/place for play is the stronger response because it uses the target skill. Find the base word first.",
-      "hint": "Find the base word first."
+      "summary": "walks is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 14
   },
   {
     "id": "ac9e1ly15-t-015",
     "curriculumCode": "AC9E1LY15",
     "bank": "test",
-    "skill": "ac9e1ly15 03 test apply",
+    "skill": "recognise and know how to use grammatical morphemes to create word families",
     "printable": true,
     "type": "single",
-    "question": "A classmate chose “Treat word family as rhymes.”. Which answer would improve their response?",
-    "audioPrompt": "A classmate chose Treat word family as rhymes.. Which answer would improve their response?",
-    "visual": "📖 Correct a false family; 🔎 word family; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Correct a false family; 🔎 word family; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly15.svg#ac9e1ly15-t-005\"></use></svg>",
+    "question": "What is the base word in “reading”?",
+    "audioPrompt": "What is the base word in “reading”?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly15.svg#ac9e1ly15-t-005",
-      "alt_text": "📖 Correct a false family; 🔎 word family; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Treat word family as rhymes.",
-      "Treat the ending as having no meaning.",
-      "Play and played share base/meaning; plate only shares letters and is unrelated"
+      "reads",
+      "reading",
+      "read"
     ],
     "correct": 2,
-    "explanation": "Play and played share base/meaning; plate only shares letters and is unrelated is the stronger response because it uses the target skill. Word families here are about shared meaning parts.\nHint: Word families here are about shared meaning parts.",
+    "explanation": "read is the best answer.",
     "structuredExplanation": {
-      "summary": "Play and played share base/meaning; plate only shares letters and is unrelated is the stronger response because it uses the target skill. Word families here are about shared meaning parts.",
-      "hint": "Word families here are about shared meaning parts."
+      "summary": "read is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 15
   },
   {
     "id": "ac9e1ly15-t-016",
     "curriculumCode": "AC9E1LY15",
     "bank": "test",
-    "skill": "ac9e1ly15 04 test apply",
+    "skill": "recognise and know how to use grammatical morphemes to create word families",
     "printable": true,
     "type": "single",
-    "question": "A classmate chose “The painter painted while her helper was helping”. Which answer would improve their response?",
-    "audioPrompt": "A classmate chose The painter painted while her helper was helping. Which answer would improve their response?",
-    "visual": "📖 Analyse a family in text; 🔎 -ed; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Analyse a family in text; 🔎 -ed; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly15.svg#ac9e1ly15-t-007\"></use></svg>",
+    "question": "Look and choose: Which ending is in “singing”?",
+    "audioPrompt": "Look and choose: Which ending is in “singing”?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly15.svg#ac9e1ly15-t-007",
-      "alt_text": "📖 Analyse a family in text; 🔎 -ed; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Paint base + -er person, paint + -ed past",
-      "The painter painted while her helper was helping",
-      "Treat the ending as having no meaning."
+      "-s",
+      "-ed",
+      "-ing"
     ],
-    "correct": 0,
-    "explanation": "Paint base + -er person, paint + -ed past is the stronger response because it uses the target skill. Explain what the morpheme changes.\nHint: Explain what the morpheme changes.",
+    "correct": 2,
+    "explanation": "-ing is the best answer.",
     "structuredExplanation": {
-      "summary": "Paint base + -er person, paint + -ed past is the stronger response because it uses the target skill. Explain what the morpheme changes.",
-      "hint": "Explain what the morpheme changes."
+      "summary": "-ing is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 16
   }
 ];
-window.skillrExamQuestions = window.skillrTestQuestions;
-window.quizQuestions = window.skillrTestQuestions;

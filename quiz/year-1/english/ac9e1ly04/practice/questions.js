@@ -4,1161 +4,1440 @@ window.skillrPracticeQuestions = [
     "id": "ac9e1ly04-p-001",
     "curriculumCode": "AC9E1LY04",
     "bank": "practice",
-    "skill": "ac9e1ly04 01 recognise",
+    "skill": "read decodable and authentic texts using developing phonic knowledge, phrasing and fluency, and monitoring meaning using context and grammatical knowledge",
     "printable": true,
     "type": "single",
-    "question": "Which response would correctly blend a short word?",
-    "audioPrompt": "Which response would correctly blend a short word?",
-    "visual": "📖 Blend a short word; 🔎 phonics; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Blend a short word; 🔎 phonics; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly04.svg#ac9e1ly04-p-001\"></use></svg>",
+    "question": "Blend the sounds: /c/ /a/ /t/. Which word?",
+    "audioPrompt": "Blend the sounds: /c/ /a/ /t/. Which word?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly04.svg#ac9e1ly04-p-001",
-      "alt_text": "📖 Blend a short word; 🔎 phonics; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Map",
-      "Do not look at the letters and sounds.",
-      "Sound without meaning."
+      "hat",
+      "dog",
+      "cat"
     ],
-    "correct": 0,
-    "explanation": "Map This matches the task.\nHint: Look at the letters and sounds.",
+    "correct": 2,
+    "explanation": "cat is the best answer.",
     "structuredExplanation": {
-      "summary": "Map This matches the task.",
-      "hint": "Look at the letters and sounds."
+      "summary": "cat is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 1
   },
   {
     "id": "ac9e1ly04-p-002",
     "curriculumCode": "AC9E1LY04",
     "bank": "practice",
-    "skill": "ac9e1ly04 02 recognise",
+    "skill": "read decodable and authentic texts using developing phonic knowledge, phrasing and fluency, and monitoring meaning using context and grammatical knowledge",
     "printable": true,
     "type": "single",
-    "question": "Which response would correctly match punctuation and reading?",
-    "audioPrompt": "Which response would correctly match punctuation and reading?",
-    "visual": "📖 Match punctuation and reading; 🔎 phrasing; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Match punctuation and reading; 🔎 phrasing; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly04.svg#ac9e1ly04-p-003\"></use></svg>",
+    "question": "Read: “The dog can hop.” Which word names the animal?",
+    "audioPrompt": "Read: “The dog can hop.” Which word names the animal?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly04.svg#ac9e1ly04-p-003",
-      "alt_text": "📖 Match punctuation and reading; 🔎 phrasing; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Comma ↔ stop; full stop ↔ questioning intonation; question mark ↔ short pause",
-      "Sound without meaning.",
-      "Comma ↔ short pause; full stop ↔ stop; question mark ↔ questioning intonation"
+      "hop",
+      "dog",
+      "can"
     ],
-    "correct": 2,
-    "explanation": "Comma ↔ short pause; full stop ↔ stop; question mark ↔ questioning intonation This matches the task.\nHint: After decoding, check the sentence makes sense.",
+    "correct": 1,
+    "explanation": "dog is the best answer.",
     "structuredExplanation": {
-      "summary": "Comma ↔ short pause; full stop ↔ stop; question mark ↔ questioning intonation This matches the task.",
-      "hint": "After decoding, check the sentence makes sense."
+      "summary": "dog is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 2
   },
   {
     "id": "ac9e1ly04-p-003",
     "curriculumCode": "AC9E1LY04",
     "bank": "practice",
-    "skill": "ac9e1ly04 03 recognise",
+    "skill": "read decodable and authentic texts using developing phonic knowledge, phrasing and fluency, and monitoring meaning using context and grammatical knowledge",
     "printable": true,
     "type": "single",
-    "question": "Read 'After lunch, / the small dog / slept under the bench.' using the phrase marks, then explain one pause.",
-    "audioPrompt": "Read 'After lunch, / the small dog / slept under the bench.' using the phrase marks, then explain one pause.",
-    "visual": "📖 Read in phrases; 🔎 fluency; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Read in phrases; 🔎 fluency; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly04.svg#ac9e1ly04-p-005\"></use></svg>",
+    "question": "Read: “Sam put on a cup.” What did Sam put on?",
+    "audioPrompt": "Read: “Sam put on a cup.” What did Sam put on?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly04.svg#ac9e1ly04-p-005",
-      "alt_text": "📖 Read in phrases; 🔎 fluency; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "After lunch, / the small dog / slept under the bench",
-      "Groups words meaningfully and links pause to comma/phrase meaning",
-      "Read one word at a time without natural phrasing."
+      "farm",
+      "cup",
+      "hen"
     ],
     "correct": 1,
-    "explanation": "Groups words meaningfully and links pause to comma/phrase meaning This matches the task.\nHint: Practise phrase groups, not one word at a time forever.",
+    "explanation": "cup is the best answer.",
     "structuredExplanation": {
-      "summary": "Groups words meaningfully and links pause to comma/phrase meaning This matches the task.",
-      "hint": "Practise phrase groups, not one word at a time forever."
+      "summary": "cup is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 3
   },
   {
     "id": "ac9e1ly04-p-004",
     "curriculumCode": "AC9E1LY04",
     "bank": "practice",
-    "skill": "ac9e1ly04 04 recognise",
+    "skill": "read decodable and authentic texts using developing phonic knowledge, phrasing and fluency, and monitoring meaning using context and grammatical knowledge",
     "printable": true,
     "type": "single",
-    "question": "Which response would correctly monitor a misread?",
-    "audioPrompt": "Which response would correctly monitor a misread?",
-    "visual": "📖 Monitor a misread; 🔎 context; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Monitor a misread; 🔎 context; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly04.svg#ac9e1ly04-p-007\"></use></svg>",
+    "question": "Which word completes the sentence? “The fox can ___.”",
+    "audioPrompt": "Which word completes the sentence? “The fox can ___.”",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly04.svg#ac9e1ly04-p-007",
-      "alt_text": "📖 Monitor a misread; 🔎 context; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Check all letters/sounds and whether sentence meaning/grammar fits; reread exact text rather than guess",
-      "The fish sat in the tree",
-      "The fin sat in the tray"
+      "red",
+      "run",
+      "hat"
     ],
-    "correct": 0,
-    "explanation": "Check all letters/sounds and whether sentence meaning/grammar fits; reread exact text rather than guess This matches the task.\nHint: Look at the letters and sounds.",
+    "correct": 1,
+    "explanation": "run is the best answer.",
     "structuredExplanation": {
-      "summary": "Check all letters/sounds and whether sentence meaning/grammar fits; reread exact text rather than guess This matches the task.",
-      "hint": "Look at the letters and sounds."
+      "summary": "run is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 4
   },
   {
     "id": "ac9e1ly04-p-005",
     "curriculumCode": "AC9E1LY04",
     "bank": "practice",
-    "skill": "ac9e1ly04 05 recognise",
+    "skill": "read decodable and authentic texts using developing phonic knowledge, phrasing and fluency, and monitoring meaning using context and grammatical knowledge",
     "printable": true,
     "type": "single",
-    "question": "Which response would correctly order decoding steps?",
-    "audioPrompt": "Which response would correctly order decoding steps?",
-    "visual": "📖 Order decoding steps; 🔎 meaning; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Order decoding steps; 🔎 meaning; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly04.svg#ac9e1ly04-p-009\"></use></svg>",
+    "question": "Read: “A red frog sat.” Which word tells the colour?",
+    "audioPrompt": "Read: “A red frog sat.” Which word tells the colour?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly04.svg#ac9e1ly04-p-009",
-      "alt_text": "📖 Order decoding steps; 🔎 meaning; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "reread smoothly → check meaning → blend sounds → Look through word",
-      "Sound without meaning.",
-      "Look through word → blend sounds → check meaning → reread smoothly"
+      "frog",
+      "red",
+      "sat"
     ],
-    "correct": 2,
-    "explanation": "Look through word → blend sounds → check meaning → reread smoothly This matches the task.\nHint: After decoding, check the sentence makes sense.",
+    "correct": 1,
+    "explanation": "red is the best answer.",
     "structuredExplanation": {
-      "summary": "Look through word → blend sounds → check meaning → reread smoothly This matches the task.",
-      "hint": "After decoding, check the sentence makes sense."
+      "summary": "red is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 5
   },
   {
     "id": "ac9e1ly04-p-006",
     "curriculumCode": "AC9E1LY04",
     "bank": "practice",
-    "skill": "ac9e1ly04 06 recognise",
+    "skill": "read decodable and authentic texts using developing phonic knowledge, phrasing and fluency, and monitoring meaning using context and grammatical knowledge",
     "printable": true,
     "type": "single",
-    "question": "Which response would correctly draw phrase groups?",
-    "audioPrompt": "Which response would correctly draw phrase groups?",
-    "visual": "📖 Draw phrase groups; 🔎 phonics; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Draw phrase groups; 🔎 phonics; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly04.svg#ac9e1ly04-p-011\"></use></svg>",
+    "question": "Which sentence makes sense?",
+    "audioPrompt": "Which sentence makes sense?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly04.svg#ac9e1ly04-p-011",
-      "alt_text": "📖 Draw phrase groups; 🔎 phonics; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "The red crab hid / beneath a flat rock",
-      "Correct two phrase groups marked without splitting determiners from nouns",
-      "Read one word at a time without natural phrasing."
+      "Can the the.",
+      "The eat can duck.",
+      "The duck can eat."
     ],
-    "correct": 1,
-    "explanation": "Correct two phrase groups marked without splitting determiners from nouns This matches the task.\nHint: Practise phrase groups, not one word at a time forever.",
+    "correct": 2,
+    "explanation": "The duck can eat. is the best answer.",
     "structuredExplanation": {
-      "summary": "Correct two phrase groups marked without splitting determiners from nouns This matches the task.",
-      "hint": "Practise phrase groups, not one word at a time forever."
+      "summary": "The duck can eat. is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 6
   },
   {
     "id": "ac9e1ly04-p-007",
     "curriculumCode": "AC9E1LY04",
     "bank": "practice",
-    "skill": "ac9e1ly04 07 recognise",
+    "skill": "read decodable and authentic texts using developing phonic knowledge, phrasing and fluency, and monitoring meaning using context and grammatical knowledge",
     "printable": true,
     "type": "single",
-    "question": "Which sounds grammatical: 'The birds fly' or 'The birds flies'? Explain the check.",
-    "audioPrompt": "Which sounds grammatical: 'The birds fly' or 'The birds flies'? Explain the check.",
-    "visual": "📖 Use grammar to check; 🔎 phrasing; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Use grammar to check; 🔎 phrasing; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly04.svg#ac9e1ly04-p-013\"></use></svg>",
+    "question": "Read aloud: “Zoe sees a fish.” Where should your voice pause?",
+    "audioPrompt": "Read aloud: “Zoe sees a fish.” Where should your voice pause?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly04.svg#ac9e1ly04-p-013",
-      "alt_text": "📖 Use grammar to check; 🔎 phrasing; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "'The birds fly'; plural birds agrees with fly in standard sentence pattern",
-      "The birds fly",
-      "The birds flies"
+      "after every letter",
+      "at the full stop",
+      "before the name"
     ],
-    "correct": 0,
-    "explanation": "'The birds fly'; plural birds agrees with fly in standard sentence pattern This matches the task.\nHint: Look at the letters and sounds.",
+    "correct": 1,
+    "explanation": "at the full stop is the best answer.",
     "structuredExplanation": {
-      "summary": "'The birds fly'; plural birds agrees with fly in standard sentence pattern This matches the task.",
-      "hint": "Look at the letters and sounds."
+      "summary": "at the full stop is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 7
   },
   {
     "id": "ac9e1ly04-p-008",
     "curriculumCode": "AC9E1LY04",
     "bank": "practice",
-    "skill": "ac9e1ly04 08 recognise",
+    "skill": "read decodable and authentic texts using developing phonic knowledge, phrasing and fluency, and monitoring meaning using context and grammatical knowledge",
     "printable": true,
     "type": "single",
-    "question": "Which response would correctly reread for fluency?",
-    "audioPrompt": "Which response would correctly reread for fluency?",
-    "visual": "📖 Reread for fluency; 🔎 fluency; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Reread for fluency; 🔎 fluency; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly04.svg#ac9e1ly04-p-015\"></use></svg>",
+    "question": "If “The goat can fly” does not make sense, what should you do?",
+    "audioPrompt": "If “The goat can fly” does not make sense, what should you do?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly04.svg#ac9e1ly04-p-015",
-      "alt_text": "📖 Reread for fluency; 🔎 fluency; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Sound without meaning.",
-      "Read one word at a time without natural phrasing.",
-      "Planning fluency improvement through rereading"
+      "skip every word",
+      "read it again",
+      "change all letters"
     ],
-    "correct": 2,
-    "explanation": "Planning fluency improvement through rereading This matches the task.\nHint: After decoding, check the sentence makes sense.",
+    "correct": 1,
+    "explanation": "read it again is the best answer.",
     "structuredExplanation": {
-      "summary": "Planning fluency improvement through rereading This matches the task.",
-      "hint": "After decoding, check the sentence makes sense."
+      "summary": "read it again is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 8
   },
   {
     "id": "ac9e1ly04-p-009",
     "curriculumCode": "AC9E1LY04",
     "bank": "practice",
-    "skill": "ac9e1ly04 09 recognise",
+    "skill": "read decodable and authentic texts using developing phonic knowledge, phrasing and fluency, and monitoring meaning using context and grammatical knowledge",
     "printable": true,
     "type": "single",
-    "question": "Which response would correctly decode a consonant blend?",
-    "audioPrompt": "Which response would correctly decode a consonant blend?",
-    "visual": "📖 Decode a consonant blend; 🔎 context; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Decode a consonant blend; 🔎 context; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly04.svg#ac9e1ly04-p-017\"></use></svg>",
+    "question": "Blend the sounds: /c/ /a/ /t/. Which word?",
+    "audioPrompt": "Blend the sounds: /c/ /a/ /t/. Which word?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly04.svg#ac9e1ly04-p-017",
-      "alt_text": "📖 Decode a consonant blend; 🔎 context; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Read one word at a time without natural phrasing.",
-      "Frog",
-      "Do not look at the letters and sounds."
+      "cat",
+      "dog",
+      "hat"
     ],
-    "correct": 1,
-    "explanation": "Frog This matches the task.\nHint: Practise phrase groups, not one word at a time forever.",
+    "correct": 0,
+    "explanation": "cat is the best answer.",
     "structuredExplanation": {
-      "summary": "Frog This matches the task.",
-      "hint": "Practise phrase groups, not one word at a time forever."
+      "summary": "cat is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 9
   },
   {
     "id": "ac9e1ly04-p-010",
     "curriculumCode": "AC9E1LY04",
     "bank": "practice",
-    "skill": "ac9e1ly04 10 recognise",
+    "skill": "read decodable and authentic texts using developing phonic knowledge, phrasing and fluency, and monitoring meaning using context and grammatical knowledge",
     "printable": true,
     "type": "single",
-    "question": "Which response would correctly match word-solving clues?",
-    "audioPrompt": "Which response would correctly match word-solving clues?",
-    "visual": "📖 Match word-solving clues; 🔎 meaning; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Match word-solving clues; 🔎 meaning; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly04.svg#ac9e1ly04-p-019\"></use></svg>",
+    "question": "Read: “The fox can hop.” Which word names the animal?",
+    "audioPrompt": "Read: “The fox can hop.” Which word names the animal?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly04.svg#ac9e1ly04-p-019",
-      "alt_text": "📖 Match word-solving clues; 🔎 meaning; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "All three sources matched correctly",
-      "Do not look at the letters and sounds.",
-      "Sound without meaning."
+      "can",
+      "hop",
+      "fox"
     ],
-    "correct": 0,
-    "explanation": "All three sources matched correctly This matches the task.\nHint: Look at the letters and sounds.",
+    "correct": 2,
+    "explanation": "fox is the best answer.",
     "structuredExplanation": {
-      "summary": "All three sources matched correctly This matches the task.",
-      "hint": "Look at the letters and sounds."
+      "summary": "fox is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 10
   },
   {
     "id": "ac9e1ly04-p-011",
     "curriculumCode": "AC9E1LY04",
     "bank": "practice",
-    "skill": "ac9e1ly04 01 explain",
+    "skill": "read decodable and authentic texts using developing phonic knowledge, phrasing and fluency, and monitoring meaning using context and grammatical knowledge",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you blend a short word?",
-    "audioPrompt": "Which tip would help you blend a short word?",
-    "visual": "🧠 Blend a short word; ➡️ Look at letters; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Blend a short word; ➡️ Look at letters; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly04.svg#ac9e1ly04-p-002\"></use></svg>",
+    "question": "Read: “Kim put on a kite.” What did Kim put on?",
+    "audioPrompt": "Read: “Kim put on a kite.” What did Kim put on?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly04.svg#ac9e1ly04-p-002",
-      "alt_text": "🧠 Blend a short word; ➡️ Look at letters; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Sound without meaning.",
-      "Look at the letters and sounds.",
-      "Read one word at a time without natural phrasing."
+      "frog",
+      "kite",
+      "zoo"
     ],
     "correct": 1,
-    "explanation": "Look at the letters and sounds.\nHint: Look at the letters and sounds.",
+    "explanation": "kite is the best answer.",
     "structuredExplanation": {
-      "summary": "Look at the letters and sounds.",
-      "hint": "Look at the letters and sounds."
+      "summary": "kite is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 11
   },
   {
     "id": "ac9e1ly04-p-012",
     "curriculumCode": "AC9E1LY04",
     "bank": "practice",
-    "skill": "ac9e1ly04 02 explain",
+    "skill": "read decodable and authentic texts using developing phonic knowledge, phrasing and fluency, and monitoring meaning using context and grammatical knowledge",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you match punctuation and reading?",
-    "audioPrompt": "Which tip would help you match punctuation and reading?",
-    "visual": "🧠 Match punctuation and reading; ➡️ Blend/recognise; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Match punctuation and reading; ➡️ Blend/recognise; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly04.svg#ac9e1ly04-p-004\"></use></svg>",
+    "question": "Which word completes the sentence? “The duck can ___.”",
+    "audioPrompt": "Which word completes the sentence? “The duck can ___.”",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly04.svg#ac9e1ly04-p-004",
-      "alt_text": "🧠 Match punctuation and reading; ➡️ Blend/recognise; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Use this routine: Look at letters → Blend/recognise → Read phrase → Check meaning → Re-read.",
-      "Read one word at a time without natural phrasing.",
-      "Do not look at the letters and sounds."
+      "run",
+      "red",
+      "hat"
     ],
     "correct": 0,
-    "explanation": "Use this routine: Look at letters → Blend/recognise → Read phrase → Check meaning → Re-read.\nHint: After decoding, check the sentence makes sense.",
+    "explanation": "run is the best answer.",
     "structuredExplanation": {
-      "summary": "Use this routine: Look at letters → Blend/recognise → Read phrase → Check meaning → Re-read.",
-      "hint": "After decoding, check the sentence makes sense."
+      "summary": "run is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 12
   },
   {
     "id": "ac9e1ly04-p-013",
     "curriculumCode": "AC9E1LY04",
     "bank": "practice",
-    "skill": "ac9e1ly04 03 explain",
+    "skill": "read decodable and authentic texts using developing phonic knowledge, phrasing and fluency, and monitoring meaning using context and grammatical knowledge",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you read in phrases?",
-    "audioPrompt": "Which tip would help you read in phrases?",
-    "visual": "🧠 Read in phrases; ➡️ Read phrase; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Read in phrases; ➡️ Read phrase; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly04.svg#ac9e1ly04-p-006\"></use></svg>",
+    "question": "Read: “A red fish sat.” Which word tells the colour?",
+    "audioPrompt": "Read: “A red fish sat.” Which word tells the colour?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly04.svg#ac9e1ly04-p-006",
-      "alt_text": "🧠 Read in phrases; ➡️ Read phrase; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Do not look at the letters and sounds.",
-      "Sound without meaning.",
-      "Look for fluency and check the whole example."
+      "sat",
+      "fish",
+      "red"
     ],
     "correct": 2,
-    "explanation": "Look for fluency and check the whole example.\nHint: Practise phrase groups, not one word at a time forever.",
+    "explanation": "red is the best answer.",
     "structuredExplanation": {
-      "summary": "Look for fluency and check the whole example.",
-      "hint": "Practise phrase groups, not one word at a time forever."
+      "summary": "red is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 13
   },
   {
     "id": "ac9e1ly04-p-014",
     "curriculumCode": "AC9E1LY04",
     "bank": "practice",
-    "skill": "ac9e1ly04 04 explain",
+    "skill": "read decodable and authentic texts using developing phonic knowledge, phrasing and fluency, and monitoring meaning using context and grammatical knowledge",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you monitor a misread?",
-    "audioPrompt": "Which tip would help you monitor a misread?",
-    "visual": "🧠 Monitor a misread; ➡️ Check meaning; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Monitor a misread; ➡️ Check meaning; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly04.svg#ac9e1ly04-p-008\"></use></svg>",
+    "question": "Which sentence makes sense?",
+    "audioPrompt": "Which sentence makes sense?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly04.svg#ac9e1ly04-p-008",
-      "alt_text": "🧠 Monitor a misread; ➡️ Check meaning; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Sound without meaning.",
-      "Check that you can monitor meaning.",
-      "Read one word at a time without natural phrasing."
+      "The eat can goat.",
+      "The goat can eat.",
+      "Can the the."
     ],
     "correct": 1,
-    "explanation": "Check that you can monitor meaning.\nHint: Look at the letters and sounds.",
+    "explanation": "The goat can eat. is the best answer.",
     "structuredExplanation": {
-      "summary": "Check that you can monitor meaning.",
-      "hint": "Look at the letters and sounds."
+      "summary": "The goat can eat. is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 14
   },
   {
     "id": "ac9e1ly04-p-015",
     "curriculumCode": "AC9E1LY04",
     "bank": "practice",
-    "skill": "ac9e1ly04 05 explain",
+    "skill": "read decodable and authentic texts using developing phonic knowledge, phrasing and fluency, and monitoring meaning using context and grammatical knowledge",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you order decoding steps?",
-    "audioPrompt": "Which tip would help you order decoding steps?",
-    "visual": "🧠 Order decoding steps; ➡️ Re-read; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Order decoding steps; ➡️ Re-read; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly04.svg#ac9e1ly04-p-010\"></use></svg>",
+    "question": "Read aloud: “Max sees a cat.” Where should your voice pause?",
+    "audioPrompt": "Read aloud: “Max sees a cat.” Where should your voice pause?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly04.svg#ac9e1ly04-p-010",
-      "alt_text": "🧠 Order decoding steps; ➡️ Re-read; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Sequencing a word-solving routine.",
-      "Read one word at a time without natural phrasing.",
-      "Do not look at the letters and sounds."
+      "at the full stop",
+      "after every letter",
+      "before the name"
     ],
     "correct": 0,
-    "explanation": "Sequencing a word-solving routine.\nHint: After decoding, check the sentence makes sense.",
+    "explanation": "at the full stop is the best answer.",
     "structuredExplanation": {
-      "summary": "Sequencing a word-solving routine.",
-      "hint": "After decoding, check the sentence makes sense."
+      "summary": "at the full stop is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 15
   },
   {
     "id": "ac9e1ly04-p-016",
     "curriculumCode": "AC9E1LY04",
     "bank": "practice",
-    "skill": "ac9e1ly04 06 explain",
+    "skill": "read decodable and authentic texts using developing phonic knowledge, phrasing and fluency, and monitoring meaning using context and grammatical knowledge",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you draw phrase groups?",
-    "audioPrompt": "Which tip would help you draw phrase groups?",
-    "visual": "🧠 Draw phrase groups; ➡️ Look at letters; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Draw phrase groups; ➡️ Look at letters; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly04.svg#ac9e1ly04-p-012\"></use></svg>",
+    "question": "If “The dog can fly” does not make sense, what should you do?",
+    "audioPrompt": "If “The dog can fly” does not make sense, what should you do?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly04.svg#ac9e1ly04-p-012",
-      "alt_text": "🧠 Draw phrase groups; ➡️ Look at letters; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Do not look at the letters and sounds.",
-      "Sound without meaning.",
-      "Practise phrase groups, not one word at a time forever."
+      "skip every word",
+      "change all letters",
+      "read it again"
     ],
     "correct": 2,
-    "explanation": "Practise phrase groups, not one word at a time forever.\nHint: Practise phrase groups, not one word at a time forever.",
+    "explanation": "read it again is the best answer.",
     "structuredExplanation": {
-      "summary": "Practise phrase groups, not one word at a time forever.",
-      "hint": "Practise phrase groups, not one word at a time forever."
+      "summary": "read it again is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 16
   },
   {
     "id": "ac9e1ly04-p-017",
     "curriculumCode": "AC9E1LY04",
     "bank": "practice",
-    "skill": "ac9e1ly04 07 explain",
+    "skill": "read decodable and authentic texts using developing phonic knowledge, phrasing and fluency, and monitoring meaning using context and grammatical knowledge",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you use grammar to check?",
-    "audioPrompt": "Which tip would help you use grammar to check?",
-    "visual": "🧠 Use grammar to check; ➡️ Blend/recognise; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Use grammar to check; ➡️ Blend/recognise; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly04.svg#ac9e1ly04-p-014\"></use></svg>",
+    "question": "Blend the sounds: /c/ /a/ /t/. Which word?",
+    "audioPrompt": "Blend the sounds: /c/ /a/ /t/. Which word?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly04.svg#ac9e1ly04-p-014",
-      "alt_text": "🧠 Use grammar to check; ➡️ Blend/recognise; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Sound without meaning.",
-      "Use this routine: Look at letters → Blend/recognise → Read phrase → Check meaning → Re-read.",
-      "Read one word at a time without natural phrasing."
+      "dog",
+      "hat",
+      "cat"
     ],
-    "correct": 1,
-    "explanation": "Use this routine: Look at letters → Blend/recognise → Read phrase → Check meaning → Re-read.\nHint: Look at the letters and sounds.",
+    "correct": 2,
+    "explanation": "cat is the best answer.",
     "structuredExplanation": {
-      "summary": "Use this routine: Look at letters → Blend/recognise → Read phrase → Check meaning → Re-read.",
-      "hint": "Look at the letters and sounds."
+      "summary": "cat is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 2,
+    "difficultyTier": "guided",
+    "sequencePriority": 17
   },
   {
     "id": "ac9e1ly04-p-018",
     "curriculumCode": "AC9E1LY04",
     "bank": "practice",
-    "skill": "ac9e1ly04 08 explain",
+    "skill": "read decodable and authentic texts using developing phonic knowledge, phrasing and fluency, and monitoring meaning using context and grammatical knowledge",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you reread for fluency?",
-    "audioPrompt": "Which tip would help you reread for fluency?",
-    "visual": "🧠 Reread for fluency; ➡️ Read phrase; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Reread for fluency; ➡️ Read phrase; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly04.svg#ac9e1ly04-p-016\"></use></svg>",
+    "question": "Read: “The duck can hop.” Which word names the animal?",
+    "audioPrompt": "Read: “The duck can hop.” Which word names the animal?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly04.svg#ac9e1ly04-p-016",
-      "alt_text": "🧠 Reread for fluency; ➡️ Read phrase; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Look for fluency and check the whole example.",
-      "Read one word at a time without natural phrasing.",
-      "Do not look at the letters and sounds."
+      "duck",
+      "can",
+      "hop"
     ],
     "correct": 0,
-    "explanation": "Look for fluency and check the whole example.\nHint: After decoding, check the sentence makes sense.",
+    "explanation": "duck is the best answer.",
     "structuredExplanation": {
-      "summary": "Look for fluency and check the whole example.",
-      "hint": "After decoding, check the sentence makes sense."
+      "summary": "duck is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 2,
+    "difficultyTier": "guided",
+    "sequencePriority": 18
   },
   {
     "id": "ac9e1ly04-p-019",
     "curriculumCode": "AC9E1LY04",
     "bank": "practice",
-    "skill": "ac9e1ly04 09 explain",
+    "skill": "read decodable and authentic texts using developing phonic knowledge, phrasing and fluency, and monitoring meaning using context and grammatical knowledge",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you decode a consonant blend?",
-    "audioPrompt": "Which tip would help you decode a consonant blend?",
-    "visual": "🧠 Decode a consonant blend; ➡️ Check meaning; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Decode a consonant blend; ➡️ Check meaning; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly04.svg#ac9e1ly04-p-018\"></use></svg>",
+    "question": "Read: “Ava put on a hat.” What did Ava put on?",
+    "audioPrompt": "Read: “Ava put on a hat.” What did Ava put on?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly04.svg#ac9e1ly04-p-018",
-      "alt_text": "🧠 Decode a consonant blend; ➡️ Check meaning; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Do not look at the letters and sounds.",
-      "Sound without meaning.",
-      "Check that you can monitor meaning."
+      "school",
+      "hat",
+      "fish"
     ],
-    "correct": 2,
-    "explanation": "Check that you can monitor meaning.\nHint: Practise phrase groups, not one word at a time forever.",
+    "correct": 1,
+    "explanation": "hat is the best answer.",
     "structuredExplanation": {
-      "summary": "Check that you can monitor meaning.",
-      "hint": "Practise phrase groups, not one word at a time forever."
+      "summary": "hat is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 2,
+    "difficultyTier": "guided",
+    "sequencePriority": 19
   },
   {
     "id": "ac9e1ly04-p-020",
     "curriculumCode": "AC9E1LY04",
     "bank": "practice",
-    "skill": "ac9e1ly04 10 explain",
+    "skill": "read decodable and authentic texts using developing phonic knowledge, phrasing and fluency, and monitoring meaning using context and grammatical knowledge",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you match word-solving clues?",
-    "audioPrompt": "Which tip would help you match word-solving clues?",
-    "visual": "🧠 Match word-solving clues; ➡️ Re-read; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Match word-solving clues; ➡️ Re-read; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly04.svg#ac9e1ly04-p-020\"></use></svg>",
+    "question": "Which word completes the sentence? “The goat can ___.”",
+    "audioPrompt": "Which word completes the sentence? “The goat can ___.”",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly04.svg#ac9e1ly04-p-020",
-      "alt_text": "🧠 Match word-solving clues; ➡️ Re-read; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Sound without meaning.",
-      "Recognising complementary reading cues.",
-      "Read one word at a time without natural phrasing."
+      "run",
+      "hat",
+      "red"
     ],
-    "correct": 1,
-    "explanation": "Recognising complementary reading cues.\nHint: Look at the letters and sounds.",
+    "correct": 0,
+    "explanation": "run is the best answer.",
     "structuredExplanation": {
-      "summary": "Recognising complementary reading cues.",
-      "hint": "Look at the letters and sounds."
+      "summary": "run is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 2,
+    "difficultyTier": "guided",
+    "sequencePriority": 20
   },
   {
     "id": "ac9e1ly04-p-021",
     "curriculumCode": "AC9E1LY04",
     "bank": "practice",
-    "skill": "ac9e1ly04 01 discriminate",
+    "skill": "read decodable and authentic texts using developing phonic knowledge, phrasing and fluency, and monitoring meaning using context and grammatical knowledge",
     "printable": true,
     "type": "single",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": "📖 Blend a short word; 🔎 phonics; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Blend a short word; 🔎 phonics; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly04.svg#ac9e1ly04-p-001\"></use></svg>",
+    "question": "Read: “A red cat sat.” Which word tells the colour?",
+    "audioPrompt": "Read: “A red cat sat.” Which word tells the colour?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly04.svg#ac9e1ly04-p-001",
-      "alt_text": "📖 Blend a short word; 🔎 phonics; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Do not look at the letters and sounds.",
-      "Map",
-      "Look at the letters and sounds."
+      "sat",
+      "red",
+      "cat"
     ],
-    "correct": 0,
-    "explanation": "Do not look at the letters and sounds. is the mix-up. Look at the letters and sounds.\nHint: Look at the letters and sounds.",
+    "correct": 1,
+    "explanation": "red is the best answer.",
     "structuredExplanation": {
-      "summary": "Do not look at the letters and sounds. is the mix-up. Look at the letters and sounds.",
-      "hint": "Look at the letters and sounds."
+      "summary": "red is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 2,
+    "difficultyTier": "guided",
+    "sequencePriority": 21
   },
   {
     "id": "ac9e1ly04-p-022",
     "curriculumCode": "AC9E1LY04",
     "bank": "practice",
-    "skill": "ac9e1ly04 02 discriminate",
+    "skill": "read decodable and authentic texts using developing phonic knowledge, phrasing and fluency, and monitoring meaning using context and grammatical knowledge",
     "printable": true,
     "type": "single",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": "📖 Match punctuation and reading; 🔎 phrasing; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Match punctuation and reading; 🔎 phrasing; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly04.svg#ac9e1ly04-p-003\"></use></svg>",
+    "question": "Which sentence makes sense?",
+    "audioPrompt": "Which sentence makes sense?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly04.svg#ac9e1ly04-p-003",
-      "alt_text": "📖 Match punctuation and reading; 🔎 phrasing; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Comma ↔ short pause; full stop ↔ stop; question mark ↔ questioning intonation",
-      "Comma ↔ stop; full stop ↔ questioning intonation; question mark ↔ short pause",
-      "Use this routine: Look at letters → Blend/recognise → Read phrase → Check meaning → Re-read."
+      "The eat can dog.",
+      "Can the the.",
+      "The dog can eat."
     ],
-    "correct": 1,
-    "explanation": "Comma ↔ stop; full stop ↔ questioning intonation; question mark ↔ short pause is the mix-up. After decoding, check the sentence makes sense.\nHint: After decoding, check the sentence makes sense.",
+    "correct": 2,
+    "explanation": "The dog can eat. is the best answer.",
     "structuredExplanation": {
-      "summary": "Comma ↔ stop; full stop ↔ questioning intonation; question mark ↔ short pause is the mix-up. After decoding, check the sentence makes sense.",
-      "hint": "After decoding, check the sentence makes sense."
+      "summary": "The dog can eat. is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 2,
+    "difficultyTier": "guided",
+    "sequencePriority": 22
   },
   {
     "id": "ac9e1ly04-p-023",
     "curriculumCode": "AC9E1LY04",
     "bank": "practice",
-    "skill": "ac9e1ly04 03 discriminate",
+    "skill": "read decodable and authentic texts using developing phonic knowledge, phrasing and fluency, and monitoring meaning using context and grammatical knowledge",
     "printable": true,
     "type": "single",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": "📖 Read in phrases; 🔎 fluency; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Read in phrases; 🔎 fluency; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly04.svg#ac9e1ly04-p-005\"></use></svg>",
+    "question": "Read aloud: “Mia sees a hen.” Where should your voice pause?",
+    "audioPrompt": "Read aloud: “Mia sees a hen.” Where should your voice pause?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly04.svg#ac9e1ly04-p-005",
-      "alt_text": "📖 Read in phrases; 🔎 fluency; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Groups words meaningfully and links pause to comma/phrase meaning",
-      "Look for fluency and check the whole example.",
-      "After lunch, / the small dog / slept under the bench"
+      "after every letter",
+      "at the full stop",
+      "before the name"
     ],
-    "correct": 2,
-    "explanation": "After lunch, / the small dog / slept under the bench is the mix-up. Practise phrase groups, not one word at a time forever.\nHint: Practise phrase groups, not one word at a time forever.",
+    "correct": 1,
+    "explanation": "at the full stop is the best answer.",
     "structuredExplanation": {
-      "summary": "After lunch, / the small dog / slept under the bench is the mix-up. Practise phrase groups, not one word at a time forever.",
-      "hint": "Practise phrase groups, not one word at a time forever."
+      "summary": "at the full stop is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 2,
+    "difficultyTier": "guided",
+    "sequencePriority": 23
   },
   {
     "id": "ac9e1ly04-p-024",
     "curriculumCode": "AC9E1LY04",
     "bank": "practice",
-    "skill": "ac9e1ly04 04 discriminate",
+    "skill": "read decodable and authentic texts using developing phonic knowledge, phrasing and fluency, and monitoring meaning using context and grammatical knowledge",
     "printable": true,
     "type": "single",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": "📖 Monitor a misread; 🔎 context; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Monitor a misread; 🔎 context; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly04.svg#ac9e1ly04-p-007\"></use></svg>",
+    "question": "If “The fox can fly” does not make sense, what should you do?",
+    "audioPrompt": "If “The fox can fly” does not make sense, what should you do?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly04.svg#ac9e1ly04-p-007",
-      "alt_text": "📖 Monitor a misread; 🔎 context; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "The fish sat in the tree",
-      "Check all letters/sounds and whether sentence meaning/grammar fits; reread exact text rather than guess",
-      "Check that you can monitor meaning."
+      "skip every word",
+      "read it again",
+      "change all letters"
     ],
-    "correct": 0,
-    "explanation": "The fish sat in the tree is the mix-up. Look at the letters and sounds.\nHint: Look at the letters and sounds.",
+    "correct": 1,
+    "explanation": "read it again is the best answer.",
     "structuredExplanation": {
-      "summary": "The fish sat in the tree is the mix-up. Look at the letters and sounds.",
-      "hint": "Look at the letters and sounds."
+      "summary": "read it again is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 2,
+    "difficultyTier": "guided",
+    "sequencePriority": 24
   },
   {
     "id": "ac9e1ly04-p-025",
     "curriculumCode": "AC9E1LY04",
     "bank": "practice",
-    "skill": "ac9e1ly04 05 discriminate",
+    "skill": "read decodable and authentic texts using developing phonic knowledge, phrasing and fluency, and monitoring meaning using context and grammatical knowledge",
     "printable": true,
     "type": "single",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": "📖 Order decoding steps; 🔎 meaning; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Order decoding steps; 🔎 meaning; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly04.svg#ac9e1ly04-p-009\"></use></svg>",
+    "question": "Read and choose: Blend the sounds: /c/ /a/ /t/. Which word?",
+    "audioPrompt": "Read and choose: Blend the sounds: /c/ /a/ /t/. Which word?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly04.svg#ac9e1ly04-p-009",
-      "alt_text": "📖 Order decoding steps; 🔎 meaning; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Look through word → blend sounds → check meaning → reread smoothly",
-      "reread smoothly → check meaning → blend sounds → Look through word",
-      "Sequencing a word-solving routine."
+      "hat",
+      "dog",
+      "cat"
     ],
-    "correct": 1,
-    "explanation": "reread smoothly → check meaning → blend sounds → Look through word is the mix-up. After decoding, check the sentence makes sense.\nHint: After decoding, check the sentence makes sense.",
+    "correct": 2,
+    "explanation": "cat is the best answer.",
     "structuredExplanation": {
-      "summary": "reread smoothly → check meaning → blend sounds → Look through word is the mix-up. After decoding, check the sentence makes sense.",
-      "hint": "After decoding, check the sentence makes sense."
+      "summary": "cat is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 2,
+    "difficultyTier": "guided",
+    "sequencePriority": 25
   },
   {
     "id": "ac9e1ly04-p-026",
     "curriculumCode": "AC9E1LY04",
     "bank": "practice",
-    "skill": "ac9e1ly04 06 discriminate",
+    "skill": "read decodable and authentic texts using developing phonic knowledge, phrasing and fluency, and monitoring meaning using context and grammatical knowledge",
     "printable": true,
     "type": "single",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": "📖 Draw phrase groups; 🔎 phonics; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Draw phrase groups; 🔎 phonics; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly04.svg#ac9e1ly04-p-011\"></use></svg>",
+    "question": "Read: “The goat can hop.” Which word names the animal?",
+    "audioPrompt": "Read: “The goat can hop.” Which word names the animal?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly04.svg#ac9e1ly04-p-011",
-      "alt_text": "📖 Draw phrase groups; 🔎 phonics; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Correct two phrase groups marked without splitting determiners from nouns",
-      "Practise phrase groups, not one word at a time forever.",
-      "The red crab hid / beneath a flat rock"
+      "hop",
+      "goat",
+      "can"
     ],
-    "correct": 2,
-    "explanation": "The red crab hid / beneath a flat rock is the mix-up. Practise phrase groups, not one word at a time forever.\nHint: Practise phrase groups, not one word at a time forever.",
+    "correct": 1,
+    "explanation": "goat is the best answer.",
     "structuredExplanation": {
-      "summary": "The red crab hid / beneath a flat rock is the mix-up. Practise phrase groups, not one word at a time forever.",
-      "hint": "Practise phrase groups, not one word at a time forever."
+      "summary": "goat is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 2,
+    "difficultyTier": "guided",
+    "sequencePriority": 26
   },
   {
     "id": "ac9e1ly04-p-027",
     "curriculumCode": "AC9E1LY04",
     "bank": "practice",
-    "skill": "ac9e1ly04 07 discriminate",
+    "skill": "read decodable and authentic texts using developing phonic knowledge, phrasing and fluency, and monitoring meaning using context and grammatical knowledge",
     "printable": true,
     "type": "single",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": "📖 Use grammar to check; 🔎 phrasing; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Use grammar to check; 🔎 phrasing; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly04.svg#ac9e1ly04-p-013\"></use></svg>",
+    "question": "Read: “Leo put on a book.” What did Leo put on?",
+    "audioPrompt": "Read: “Leo put on a book.” What did Leo put on?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly04.svg#ac9e1ly04-p-013",
-      "alt_text": "📖 Use grammar to check; 🔎 phrasing; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "The birds fly",
-      "'The birds fly'; plural birds agrees with fly in standard sentence pattern",
-      "Use this routine: Look at letters → Blend/recognise → Read phrase → Check meaning → Re-read."
+      "cat",
+      "shop",
+      "book"
     ],
-    "correct": 0,
-    "explanation": "The birds fly is the mix-up. Look at the letters and sounds.\nHint: Look at the letters and sounds.",
+    "correct": 2,
+    "explanation": "book is the best answer.",
     "structuredExplanation": {
-      "summary": "The birds fly is the mix-up. Look at the letters and sounds.",
-      "hint": "Look at the letters and sounds."
+      "summary": "book is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 2,
+    "difficultyTier": "guided",
+    "sequencePriority": 27
   },
   {
     "id": "ac9e1ly04-p-028",
     "curriculumCode": "AC9E1LY04",
     "bank": "practice",
-    "skill": "ac9e1ly04 08 discriminate",
+    "skill": "read decodable and authentic texts using developing phonic knowledge, phrasing and fluency, and monitoring meaning using context and grammatical knowledge",
     "printable": true,
     "type": "single",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": "📖 Reread for fluency; 🔎 fluency; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Reread for fluency; 🔎 fluency; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly04.svg#ac9e1ly04-p-015\"></use></svg>",
+    "question": "Which word completes the sentence? “The dog can ___.”",
+    "audioPrompt": "Which word completes the sentence? “The dog can ___.”",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly04.svg#ac9e1ly04-p-015",
-      "alt_text": "📖 Reread for fluency; 🔎 fluency; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Planning fluency improvement through rereading",
-      "Sound without meaning.",
-      "Look for fluency and check the whole example."
+      "run",
+      "hat",
+      "red"
     ],
-    "correct": 1,
-    "explanation": "Sound without meaning. is the mix-up. After decoding, check the sentence makes sense.\nHint: After decoding, check the sentence makes sense.",
+    "correct": 0,
+    "explanation": "run is the best answer.",
     "structuredExplanation": {
-      "summary": "Sound without meaning. is the mix-up. After decoding, check the sentence makes sense.",
-      "hint": "After decoding, check the sentence makes sense."
+      "summary": "run is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 2,
+    "difficultyTier": "guided",
+    "sequencePriority": 28
   },
   {
     "id": "ac9e1ly04-p-029",
     "curriculumCode": "AC9E1LY04",
     "bank": "practice",
-    "skill": "ac9e1ly04 09 discriminate",
+    "skill": "read decodable and authentic texts using developing phonic knowledge, phrasing and fluency, and monitoring meaning using context and grammatical knowledge",
     "printable": true,
     "type": "single",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": "📖 Decode a consonant blend; 🔎 context; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Decode a consonant blend; 🔎 context; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly04.svg#ac9e1ly04-p-017\"></use></svg>",
+    "question": "Read: “A red hen sat.” Which word tells the colour?",
+    "audioPrompt": "Read: “A red hen sat.” Which word tells the colour?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly04.svg#ac9e1ly04-p-017",
-      "alt_text": "📖 Decode a consonant blend; 🔎 context; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Frog",
-      "Check that you can monitor meaning.",
-      "Read one word at a time without natural phrasing."
+      "sat",
+      "hen",
+      "red"
     ],
     "correct": 2,
-    "explanation": "Read one word at a time without natural phrasing. is the mix-up. Practise phrase groups, not one word at a time forever.\nHint: Practise phrase groups, not one word at a time forever.",
+    "explanation": "red is the best answer.",
     "structuredExplanation": {
-      "summary": "Read one word at a time without natural phrasing. is the mix-up. Practise phrase groups, not one word at a time forever.",
-      "hint": "Practise phrase groups, not one word at a time forever."
+      "summary": "red is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 2,
+    "difficultyTier": "guided",
+    "sequencePriority": 29
   },
   {
     "id": "ac9e1ly04-p-030",
     "curriculumCode": "AC9E1LY04",
     "bank": "practice",
-    "skill": "ac9e1ly04 10 discriminate",
+    "skill": "read decodable and authentic texts using developing phonic knowledge, phrasing and fluency, and monitoring meaning using context and grammatical knowledge",
     "printable": true,
     "type": "single",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": "📖 Match word-solving clues; 🔎 meaning; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Match word-solving clues; 🔎 meaning; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly04.svg#ac9e1ly04-p-019\"></use></svg>",
+    "question": "Which sentence makes sense?",
+    "audioPrompt": "Which sentence makes sense?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly04.svg#ac9e1ly04-p-019",
-      "alt_text": "📖 Match word-solving clues; 🔎 meaning; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Do not look at the letters and sounds.",
-      "All three sources matched correctly",
-      "Recognising complementary reading cues."
+      "The eat can fox.",
+      "The fox can eat.",
+      "Can the the."
     ],
-    "correct": 0,
-    "explanation": "Do not look at the letters and sounds. is the mix-up. Look at the letters and sounds.\nHint: Look at the letters and sounds.",
+    "correct": 1,
+    "explanation": "The fox can eat. is the best answer.",
     "structuredExplanation": {
-      "summary": "Do not look at the letters and sounds. is the mix-up. Look at the letters and sounds.",
-      "hint": "Look at the letters and sounds."
+      "summary": "The fox can eat. is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 2,
+    "difficultyTier": "guided",
+    "sequencePriority": 30
   },
   {
     "id": "ac9e1ly04-p-031",
     "curriculumCode": "AC9E1LY04",
     "bank": "practice",
-    "skill": "ac9e1ly04 01 apply",
+    "skill": "read decodable and authentic texts using developing phonic knowledge, phrasing and fluency, and monitoring meaning using context and grammatical knowledge",
     "printable": true,
     "type": "single",
-    "question": "Which choice would best use this skill in a new example?",
-    "audioPrompt": "Which choice would best use this skill in a new example?",
-    "visual": "📖 Blend a short word; 🔎 phonics; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Blend a short word; 🔎 phonics; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly04.svg#ac9e1ly04-p-001\"></use></svg>",
+    "question": "Read aloud: “Ben sees a frog.” Where should your voice pause?",
+    "audioPrompt": "Read aloud: “Ben sees a frog.” Where should your voice pause?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly04.svg#ac9e1ly04-p-001",
-      "alt_text": "📖 Blend a short word; 🔎 phonics; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Do not look at the letters and sounds.",
-      "Map",
-      "Sound without meaning."
+      "at the full stop",
+      "before the name",
+      "after every letter"
     ],
-    "correct": 1,
-    "explanation": "Map uses the skill correctly. Look at the letters and sounds.\nHint: Look at the letters and sounds.",
+    "correct": 0,
+    "explanation": "at the full stop is the best answer.",
     "structuredExplanation": {
-      "summary": "Map uses the skill correctly. Look at the letters and sounds.",
-      "hint": "Look at the letters and sounds."
+      "summary": "at the full stop is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 2,
+    "difficultyTier": "guided",
+    "sequencePriority": 31
   },
   {
     "id": "ac9e1ly04-p-032",
     "curriculumCode": "AC9E1LY04",
     "bank": "practice",
-    "skill": "ac9e1ly04 02 apply",
+    "skill": "read decodable and authentic texts using developing phonic knowledge, phrasing and fluency, and monitoring meaning using context and grammatical knowledge",
     "printable": true,
     "type": "single",
-    "question": "Which choice would best use this skill in a new example?",
-    "audioPrompt": "Which choice would best use this skill in a new example?",
-    "visual": "📖 Match punctuation and reading; 🔎 phrasing; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Match punctuation and reading; 🔎 phrasing; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly04.svg#ac9e1ly04-p-003\"></use></svg>",
+    "question": "If “The duck can fly” does not make sense, what should you do?",
+    "audioPrompt": "If “The duck can fly” does not make sense, what should you do?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly04.svg#ac9e1ly04-p-003",
-      "alt_text": "📖 Match punctuation and reading; 🔎 phrasing; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Comma ↔ stop; full stop ↔ questioning intonation; question mark ↔ short pause",
-      "Sound without meaning.",
-      "Comma ↔ short pause; full stop ↔ stop; question mark ↔ questioning intonation"
+      "skip every word",
+      "change all letters",
+      "read it again"
     ],
     "correct": 2,
-    "explanation": "Comma ↔ short pause; full stop ↔ stop; question mark ↔ questioning intonation uses the skill correctly. After decoding, check the sentence makes sense.\nHint: After decoding, check the sentence makes sense.",
+    "explanation": "read it again is the best answer.",
     "structuredExplanation": {
-      "summary": "Comma ↔ short pause; full stop ↔ stop; question mark ↔ questioning intonation uses the skill correctly. After decoding, check the sentence makes sense.",
-      "hint": "After decoding, check the sentence makes sense."
+      "summary": "read it again is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 2,
+    "difficultyTier": "guided",
+    "sequencePriority": 32
   },
   {
     "id": "ac9e1ly04-p-033",
     "curriculumCode": "AC9E1LY04",
     "bank": "practice",
-    "skill": "ac9e1ly04 03 apply",
+    "skill": "read decodable and authentic texts using developing phonic knowledge, phrasing and fluency, and monitoring meaning using context and grammatical knowledge",
     "printable": true,
     "type": "single",
-    "question": "Which choice would best use this skill in a new example?",
-    "audioPrompt": "Which choice would best use this skill in a new example?",
-    "visual": "📖 Read in phrases; 🔎 fluency; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Read in phrases; 🔎 fluency; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly04.svg#ac9e1ly04-p-005\"></use></svg>",
+    "question": "Blend the sounds: /c/ /a/ /t/. Which word?",
+    "audioPrompt": "Blend the sounds: /c/ /a/ /t/. Which word?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly04.svg#ac9e1ly04-p-005",
-      "alt_text": "📖 Read in phrases; 🔎 fluency; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Groups words meaningfully and links pause to comma/phrase meaning",
-      "After lunch, / the small dog / slept under the bench",
-      "Read one word at a time without natural phrasing."
+      "dog",
+      "cat",
+      "hat"
     ],
-    "correct": 0,
-    "explanation": "Groups words meaningfully and links pause to comma/phrase meaning uses the skill correctly. Practise phrase groups, not one word at a time forever.\nHint: Practise phrase groups, not one word at a time forever.",
+    "correct": 1,
+    "explanation": "cat is the best answer.",
     "structuredExplanation": {
-      "summary": "Groups words meaningfully and links pause to comma/phrase meaning uses the skill correctly. Practise phrase groups, not one word at a time forever.",
-      "hint": "Practise phrase groups, not one word at a time forever."
+      "summary": "cat is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 33
   },
   {
     "id": "ac9e1ly04-p-034",
     "curriculumCode": "AC9E1LY04",
     "bank": "practice",
-    "skill": "ac9e1ly04 04 apply",
+    "skill": "read decodable and authentic texts using developing phonic knowledge, phrasing and fluency, and monitoring meaning using context and grammatical knowledge",
     "printable": true,
     "type": "single",
-    "question": "Which choice would best use this skill in a new example?",
-    "audioPrompt": "Which choice would best use this skill in a new example?",
-    "visual": "📖 Monitor a misread; 🔎 context; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Monitor a misread; 🔎 context; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly04.svg#ac9e1ly04-p-007\"></use></svg>",
+    "question": "Read: “The dog can hop.” Which word names the animal?",
+    "audioPrompt": "Read: “The dog can hop.” Which word names the animal?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly04.svg#ac9e1ly04-p-007",
-      "alt_text": "📖 Monitor a misread; 🔎 context; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "The fish sat in the tree",
-      "Check all letters/sounds and whether sentence meaning/grammar fits; reread exact text rather than guess",
-      "The fin sat in the tray"
+      "dog",
+      "can",
+      "hop"
     ],
-    "correct": 1,
-    "explanation": "Check all letters/sounds and whether sentence meaning/grammar fits; reread exact text rather than guess uses the skill correctly. Look at the letters and sounds.\nHint: Look at the letters and sounds.",
+    "correct": 0,
+    "explanation": "dog is the best answer.",
     "structuredExplanation": {
-      "summary": "Check all letters/sounds and whether sentence meaning/grammar fits; reread exact text rather than guess uses the skill correctly. Look at the letters and sounds.",
-      "hint": "Look at the letters and sounds."
+      "summary": "dog is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 34
   },
   {
     "id": "ac9e1ly04-p-035",
     "curriculumCode": "AC9E1LY04",
     "bank": "practice",
-    "skill": "ac9e1ly04 05 apply",
+    "skill": "read decodable and authentic texts using developing phonic knowledge, phrasing and fluency, and monitoring meaning using context and grammatical knowledge",
     "printable": true,
     "type": "single",
-    "question": "Which choice would best use this skill in a new example?",
-    "audioPrompt": "Which choice would best use this skill in a new example?",
-    "visual": "📖 Order decoding steps; 🔎 meaning; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Order decoding steps; 🔎 meaning; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly04.svg#ac9e1ly04-p-009\"></use></svg>",
+    "question": "Read: “Zoe put on a sock.” What did Zoe put on?",
+    "audioPrompt": "Read: “Zoe put on a sock.” What did Zoe put on?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly04.svg#ac9e1ly04-p-009",
-      "alt_text": "📖 Order decoding steps; 🔎 meaning; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "reread smoothly → check meaning → blend sounds → Look through word",
-      "Sound without meaning.",
-      "Look through word → blend sounds → check meaning → reread smoothly"
+      "camp",
+      "sock",
+      "hen"
     ],
-    "correct": 2,
-    "explanation": "Look through word → blend sounds → check meaning → reread smoothly uses the skill correctly. After decoding, check the sentence makes sense.\nHint: After decoding, check the sentence makes sense.",
+    "correct": 1,
+    "explanation": "sock is the best answer.",
     "structuredExplanation": {
-      "summary": "Look through word → blend sounds → check meaning → reread smoothly uses the skill correctly. After decoding, check the sentence makes sense.",
-      "hint": "After decoding, check the sentence makes sense."
+      "summary": "sock is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 35
   },
   {
     "id": "ac9e1ly04-p-036",
     "curriculumCode": "AC9E1LY04",
     "bank": "practice",
-    "skill": "ac9e1ly04 06 apply",
+    "skill": "read decodable and authentic texts using developing phonic knowledge, phrasing and fluency, and monitoring meaning using context and grammatical knowledge",
     "printable": true,
     "type": "single",
-    "question": "Which choice would best use this skill in a new example?",
-    "audioPrompt": "Which choice would best use this skill in a new example?",
-    "visual": "📖 Draw phrase groups; 🔎 phonics; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Draw phrase groups; 🔎 phonics; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly04.svg#ac9e1ly04-p-011\"></use></svg>",
+    "question": "Which word completes the sentence? “The fox can ___.”",
+    "audioPrompt": "Which word completes the sentence? “The fox can ___.”",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly04.svg#ac9e1ly04-p-011",
-      "alt_text": "📖 Draw phrase groups; 🔎 phonics; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Correct two phrase groups marked without splitting determiners from nouns",
-      "The red crab hid / beneath a flat rock",
-      "Read one word at a time without natural phrasing."
+      "hat",
+      "run",
+      "red"
     ],
-    "correct": 0,
-    "explanation": "Correct two phrase groups marked without splitting determiners from nouns uses the skill correctly. Practise phrase groups, not one word at a time forever.\nHint: Practise phrase groups, not one word at a time forever.",
+    "correct": 1,
+    "explanation": "run is the best answer.",
     "structuredExplanation": {
-      "summary": "Correct two phrase groups marked without splitting determiners from nouns uses the skill correctly. Practise phrase groups, not one word at a time forever.",
-      "hint": "Practise phrase groups, not one word at a time forever."
+      "summary": "run is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 36
   },
   {
     "id": "ac9e1ly04-p-037",
     "curriculumCode": "AC9E1LY04",
     "bank": "practice",
-    "skill": "ac9e1ly04 07 apply",
+    "skill": "read decodable and authentic texts using developing phonic knowledge, phrasing and fluency, and monitoring meaning using context and grammatical knowledge",
     "printable": true,
     "type": "single",
-    "question": "Which choice would best use this skill in a new example?",
-    "audioPrompt": "Which choice would best use this skill in a new example?",
-    "visual": "📖 Use grammar to check; 🔎 phrasing; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Use grammar to check; 🔎 phrasing; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly04.svg#ac9e1ly04-p-013\"></use></svg>",
+    "question": "Read: “A red frog sat.” Which word tells the colour?",
+    "audioPrompt": "Read: “A red frog sat.” Which word tells the colour?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly04.svg#ac9e1ly04-p-013",
-      "alt_text": "📖 Use grammar to check; 🔎 phrasing; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "The birds fly",
-      "'The birds fly'; plural birds agrees with fly in standard sentence pattern",
-      "The birds flies"
+      "red",
+      "frog",
+      "sat"
     ],
-    "correct": 1,
-    "explanation": "'The birds fly'; plural birds agrees with fly in standard sentence pattern uses the skill correctly. Look at the letters and sounds.\nHint: Look at the letters and sounds.",
+    "correct": 0,
+    "explanation": "red is the best answer.",
     "structuredExplanation": {
-      "summary": "'The birds fly'; plural birds agrees with fly in standard sentence pattern uses the skill correctly. Look at the letters and sounds.",
-      "hint": "Look at the letters and sounds."
+      "summary": "red is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 37
   },
   {
     "id": "ac9e1ly04-p-038",
     "curriculumCode": "AC9E1LY04",
     "bank": "practice",
-    "skill": "ac9e1ly04 08 apply",
+    "skill": "read decodable and authentic texts using developing phonic knowledge, phrasing and fluency, and monitoring meaning using context and grammatical knowledge",
     "printable": true,
     "type": "single",
-    "question": "Which choice would best use this skill in a new example?",
-    "audioPrompt": "Which choice would best use this skill in a new example?",
-    "visual": "📖 Reread for fluency; 🔎 fluency; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Reread for fluency; 🔎 fluency; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly04.svg#ac9e1ly04-p-015\"></use></svg>",
+    "question": "Which sentence makes sense?",
+    "audioPrompt": "Which sentence makes sense?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly04.svg#ac9e1ly04-p-015",
-      "alt_text": "📖 Reread for fluency; 🔎 fluency; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Sound without meaning.",
-      "Read one word at a time without natural phrasing.",
-      "Planning fluency improvement through rereading"
+      "Can the the.",
+      "The duck can eat.",
+      "The eat can duck."
     ],
-    "correct": 2,
-    "explanation": "Planning fluency improvement through rereading uses the skill correctly. After decoding, check the sentence makes sense.\nHint: After decoding, check the sentence makes sense.",
+    "correct": 1,
+    "explanation": "The duck can eat. is the best answer.",
     "structuredExplanation": {
-      "summary": "Planning fluency improvement through rereading uses the skill correctly. After decoding, check the sentence makes sense.",
-      "hint": "After decoding, check the sentence makes sense."
+      "summary": "The duck can eat. is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 38
   },
   {
     "id": "ac9e1ly04-p-039",
     "curriculumCode": "AC9E1LY04",
     "bank": "practice",
-    "skill": "ac9e1ly04 09 apply",
+    "skill": "read decodable and authentic texts using developing phonic knowledge, phrasing and fluency, and monitoring meaning using context and grammatical knowledge",
     "printable": true,
     "type": "single",
-    "question": "Which choice would best use this skill in a new example?",
-    "audioPrompt": "Which choice would best use this skill in a new example?",
-    "visual": "📖 Decode a consonant blend; 🔎 context; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Decode a consonant blend; 🔎 context; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly04.svg#ac9e1ly04-p-017\"></use></svg>",
+    "question": "Read aloud: “Sam sees a fish.” Where should your voice pause?",
+    "audioPrompt": "Read aloud: “Sam sees a fish.” Where should your voice pause?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly04.svg#ac9e1ly04-p-017",
-      "alt_text": "📖 Decode a consonant blend; 🔎 context; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Frog",
-      "Read one word at a time without natural phrasing.",
-      "Do not look at the letters and sounds."
+      "before the name",
+      "after every letter",
+      "at the full stop"
     ],
-    "correct": 0,
-    "explanation": "Frog uses the skill correctly. Practise phrase groups, not one word at a time forever.\nHint: Practise phrase groups, not one word at a time forever.",
+    "correct": 2,
+    "explanation": "at the full stop is the best answer.",
     "structuredExplanation": {
-      "summary": "Frog uses the skill correctly. Practise phrase groups, not one word at a time forever.",
-      "hint": "Practise phrase groups, not one word at a time forever."
+      "summary": "at the full stop is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 39
   },
   {
     "id": "ac9e1ly04-p-040",
     "curriculumCode": "AC9E1LY04",
     "bank": "practice",
-    "skill": "ac9e1ly04 10 apply",
+    "skill": "read decodable and authentic texts using developing phonic knowledge, phrasing and fluency, and monitoring meaning using context and grammatical knowledge",
     "printable": true,
     "type": "single",
-    "question": "Which choice would best use this skill in a new example?",
-    "audioPrompt": "Which choice would best use this skill in a new example?",
-    "visual": "📖 Match word-solving clues; 🔎 meaning; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Match word-solving clues; 🔎 meaning; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly04.svg#ac9e1ly04-p-019\"></use></svg>",
+    "question": "Read and choose: If “The goat can fly” does not make sense, what should you do?",
+    "audioPrompt": "Read and choose: If “The goat can fly” does not make sense, what should you do?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly04.svg#ac9e1ly04-p-019",
-      "alt_text": "📖 Match word-solving clues; 🔎 meaning; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Do not look at the letters and sounds.",
-      "All three sources matched correctly",
-      "Sound without meaning."
+      "skip every word",
+      "read it again",
+      "change all letters"
     ],
     "correct": 1,
-    "explanation": "All three sources matched correctly uses the skill correctly. Look at the letters and sounds.\nHint: Look at the letters and sounds.",
+    "explanation": "read it again is the best answer.",
     "structuredExplanation": {
-      "summary": "All three sources matched correctly uses the skill correctly. Look at the letters and sounds.",
-      "hint": "Look at the letters and sounds."
+      "summary": "read it again is the best answer."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "reviewed-year1-english-v1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 40
+  },
+  {
+    "id": "ac9e1ly04-p-041",
+    "curriculumCode": "AC9E1LY04",
+    "bank": "practice",
+    "skill": "read decodable and authentic texts using developing phonic knowledge, phrasing and fluency, and monitoring meaning using context and grammatical knowledge",
+    "printable": true,
+    "type": "single",
+    "question": "Look and choose: Blend the sounds: /c/ /a/ /t/. Which word?",
+    "audioPrompt": "Look and choose: Blend the sounds: /c/ /a/ /t/. Which word?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "hat",
+      "dog",
+      "cat"
+    ],
+    "correct": 2,
+    "explanation": "cat is the best answer.",
+    "structuredExplanation": {
+      "summary": "cat is the best answer."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 41,
+    "qualitySchema": "reviewed-year1-english-v1"
+  },
+  {
+    "id": "ac9e1ly04-p-042",
+    "curriculumCode": "AC9E1LY04",
+    "bank": "practice",
+    "skill": "read decodable and authentic texts using developing phonic knowledge, phrasing and fluency, and monitoring meaning using context and grammatical knowledge",
+    "printable": true,
+    "type": "single",
+    "question": "Read: “The fox can hop.” Which word names the animal?",
+    "audioPrompt": "Read: “The fox can hop.” Which word names the animal?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "hop",
+      "can",
+      "fox"
+    ],
+    "correct": 2,
+    "explanation": "fox is the best answer.",
+    "structuredExplanation": {
+      "summary": "fox is the best answer."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 42,
+    "qualitySchema": "reviewed-year1-english-v1"
+  },
+  {
+    "id": "ac9e1ly04-p-043",
+    "curriculumCode": "AC9E1LY04",
+    "bank": "practice",
+    "skill": "read decodable and authentic texts using developing phonic knowledge, phrasing and fluency, and monitoring meaning using context and grammatical knowledge",
+    "printable": true,
+    "type": "single",
+    "question": "Read: “Max put on a bag.” What did Max put on?",
+    "audioPrompt": "Read: “Max put on a bag.” What did Max put on?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "bag",
+      "beach",
+      "frog"
+    ],
+    "correct": 0,
+    "explanation": "bag is the best answer.",
+    "structuredExplanation": {
+      "summary": "bag is the best answer."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 43,
+    "qualitySchema": "reviewed-year1-english-v1"
+  },
+  {
+    "id": "ac9e1ly04-p-044",
+    "curriculumCode": "AC9E1LY04",
+    "bank": "practice",
+    "skill": "read decodable and authentic texts using developing phonic knowledge, phrasing and fluency, and monitoring meaning using context and grammatical knowledge",
+    "printable": true,
+    "type": "single",
+    "question": "Which word completes the sentence? “The duck can ___.”",
+    "audioPrompt": "Which word completes the sentence? “The duck can ___.”",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "red",
+      "hat",
+      "run"
+    ],
+    "correct": 2,
+    "explanation": "run is the best answer.",
+    "structuredExplanation": {
+      "summary": "run is the best answer."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 44,
+    "qualitySchema": "reviewed-year1-english-v1"
+  },
+  {
+    "id": "ac9e1ly04-p-045",
+    "curriculumCode": "AC9E1LY04",
+    "bank": "practice",
+    "skill": "read decodable and authentic texts using developing phonic knowledge, phrasing and fluency, and monitoring meaning using context and grammatical knowledge",
+    "printable": true,
+    "type": "single",
+    "question": "Read: “A red fish sat.” Which word tells the colour?",
+    "audioPrompt": "Read: “A red fish sat.” Which word tells the colour?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "red",
+      "fish",
+      "sat"
+    ],
+    "correct": 0,
+    "explanation": "red is the best answer.",
+    "structuredExplanation": {
+      "summary": "red is the best answer."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 45,
+    "qualitySchema": "reviewed-year1-english-v1"
+  },
+  {
+    "id": "ac9e1ly04-p-046",
+    "curriculumCode": "AC9E1LY04",
+    "bank": "practice",
+    "skill": "read decodable and authentic texts using developing phonic knowledge, phrasing and fluency, and monitoring meaning using context and grammatical knowledge",
+    "printable": true,
+    "type": "single",
+    "question": "Which sentence makes sense?",
+    "audioPrompt": "Which sentence makes sense?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "The eat can goat.",
+      "Can the the.",
+      "The goat can eat."
+    ],
+    "correct": 2,
+    "explanation": "The goat can eat. is the best answer.",
+    "structuredExplanation": {
+      "summary": "The goat can eat. is the best answer."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 46,
+    "qualitySchema": "reviewed-year1-english-v1"
+  },
+  {
+    "id": "ac9e1ly04-p-047",
+    "curriculumCode": "AC9E1LY04",
+    "bank": "practice",
+    "skill": "read decodable and authentic texts using developing phonic knowledge, phrasing and fluency, and monitoring meaning using context and grammatical knowledge",
+    "printable": true,
+    "type": "single",
+    "question": "Read aloud: “Kim sees a cat.” Where should your voice pause?",
+    "audioPrompt": "Read aloud: “Kim sees a cat.” Where should your voice pause?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "before the name",
+      "at the full stop",
+      "after every letter"
+    ],
+    "correct": 1,
+    "explanation": "at the full stop is the best answer.",
+    "structuredExplanation": {
+      "summary": "at the full stop is the best answer."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 47,
+    "qualitySchema": "reviewed-year1-english-v1"
+  },
+  {
+    "id": "ac9e1ly04-p-048",
+    "curriculumCode": "AC9E1LY04",
+    "bank": "practice",
+    "skill": "read decodable and authentic texts using developing phonic knowledge, phrasing and fluency, and monitoring meaning using context and grammatical knowledge",
+    "printable": true,
+    "type": "single",
+    "question": "If “The dog can fly” does not make sense, what should you do?",
+    "audioPrompt": "If “The dog can fly” does not make sense, what should you do?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "change all letters",
+      "skip every word",
+      "read it again"
+    ],
+    "correct": 2,
+    "explanation": "read it again is the best answer.",
+    "structuredExplanation": {
+      "summary": "read it again is the best answer."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 48,
+    "qualitySchema": "reviewed-year1-english-v1"
   }
 ];
-window.quizQuestions = window.skillrPracticeQuestions;
