@@ -31,7 +31,7 @@ for (const code of codes) {
   const items = JSON.parse(fs.readFileSync(bankFile,"utf8"));
   const practice = items.filter((item) => item.bank === "practice");
   const test = items.filter((item) => item.bank === "test");
-  const reviewed = items.every(item => item.review?.version === '20260906-english-review-1');
+  const reviewed = items.every(item => ['20260906-english-review-1','20260906-english-review-2'].includes(item.review?.version));
   if (practice.length !== (reviewed ? 24 : 40)) errors.push(`${code}: unexpected practice bank size: ${practice.length}`);
   if (test.length !== 16) errors.push(`${code}: expected 16 test questions, found ${test.length}`);
   const expected = reviewed ? [["recognise",0],["apply",8],["reason",16]] : [["recognise",0],["explain",10],["discriminate",20],["apply",30]];

@@ -1,1162 +1,752 @@
 "use strict";
 window.skillrPracticeQuestions = [
   {
-    "id": "ac9e1la08-p-001",
+    "id": "ac9e1la08-er2-p-001",
     "curriculumCode": "AC9E1LA08",
     "bank": "practice",
-    "skill": "ac9e1la08 01 recognise",
+    "skill": "comparing how images contribute to meaning across text types",
     "printable": true,
     "type": "single",
-    "question": "Which response would correctly name an image contribution?",
-    "audioPrompt": "Which response would correctly name an image contribution?",
-    "visual": "📖 Name an image contribution; 🔎 image; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Name an image contribution; 🔎 image; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la08.svg#ac9e1la08-p-001\"></use></svg>",
+    "question": "Look at the two book images. Which one helps a reader name parts of a plant?",
+    "audioPrompt": "Look at the two book images. Which one helps a reader name parts of a plant?",
+    "visual": "Image A: a flower with a smiling face and a speech bubble saying Good morning. Image B: a plant with lines labelling flower, stem and roots.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Image A: a flower with a smiling face and a speech bubble saying Good morning. Image B: a plant with lines labelling flower, stem and roots.\"><use href=\"/assets/assessment-visuals/year1/english/ixl-review-2/ac9e1la08-01.svg#model\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la08.svg#ac9e1la08-p-001",
-      "alt_text": "📖 Name an image contribution; 🔎 image; ✅ choose with evidence"
+      "alt_text": "Image A: a flower with a smiling face and a speech bubble saying Good morning. Image B: a plant with lines labelling flower, stem and roots.",
+      "asset_path": "/assets/assessment-visuals/year1/english/ixl-review-2/ac9e1la08-01.svg#model"
     },
     "answers": [
-      "It may establish stormy setting, danger or worried mood, supported by visible details",
-      "It may establish stormy setting, danger or worried meaning, supported by visible details",
-      "It may establish stormy setting, danger or worried detail, supported by visible details"
+      "Image B, with labels pointing to parts.",
+      "Image A, with a smiling flower character.",
+      "Both show labels pointing to roots."
     ],
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 1,
     "correct": 0,
-    "explanation": "It may establish stormy setting, danger or worried mood, supported by visible details This matches the task.\nHint: Explain how the image changes or supports meaning.",
+    "explanation": "Labels connect names to visible parts in the information image.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "It may establish stormy setting, danger or worried mood, supported by visible details This matches the task.",
-      "hint": "Explain how the image changes or supports meaning."
+      "summary": "Labels connect names to visible parts in the information image.",
+      "hint": "Read the whole example and check what the question asks."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1la08-p-002",
+    "id": "ac9e1la08-er2-p-002",
     "curriculumCode": "AC9E1LA08",
     "bank": "practice",
-    "skill": "ac9e1la08 02 recognise",
+    "skill": "comparing how images contribute to meaning across text types",
     "printable": true,
     "type": "single",
-    "question": "Which response would correctly match image types and jobs?",
-    "audioPrompt": "Which response would correctly match image types and jobs?",
-    "visual": "📖 Match image types and jobs; 🔎 words; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Match image types and jobs; 🔎 words; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la08.svg#ac9e1la08-p-003\"></use></svg>",
+    "question": "A story picture shows a child grinning while opening a gift. What can the picture add to 'The child opened it'?",
+    "audioPrompt": "A story picture shows a child grinning while opening a gift. What can the picture add to 'The child opened it'?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la08.svg#ac9e1la08-p-003",
-      "alt_text": "📖 Match image types and jobs; 🔎 words; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Ignore words.",
-      "Use one correct image only.",
-      "Each image type matches its purpose-related contribution"
+      "The date the gift was bought.",
+      "A clue that the child is pleased.",
+      "The exact price of the gift."
     ],
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 2,
+    "correct": 1,
+    "explanation": "A facial expression adds a feeling that the short sentence does not name.\nHint: Read the whole example and check what the question asks.",
+    "structuredExplanation": {
+      "summary": "A facial expression adds a feeling that the short sentence does not name.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1la08-er2-p-003",
+    "curriculumCode": "AC9E1LA08",
+    "bank": "practice",
+    "skill": "comparing how images contribute to meaning across text types",
+    "printable": true,
+    "type": "single",
+    "question": "A recipe picture shows hands folding dough. What does this image help explain?",
+    "audioPrompt": "A recipe picture shows hands folding dough. What does this image help explain?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Which character is the villain.",
+      "Why the cook likes stories.",
+      "How to do a step."
+    ],
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 3,
     "correct": 2,
-    "explanation": "Each image type matches its purpose-related contribution This matches the task.\nHint: Read words and image together.",
+    "explanation": "An action picture can show how to carry out an instruction.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "Each image type matches its purpose-related contribution This matches the task.",
-      "hint": "Read words and image together."
+      "summary": "An action picture can show how to carry out an instruction.",
+      "hint": "Read the whole example and check what the question asks."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1la08-p-003",
+    "id": "ac9e1la08-er2-p-004",
     "curriculumCode": "AC9E1LA08",
     "bank": "practice",
-    "skill": "ac9e1la08 03 recognise",
+    "skill": "comparing how images contribute to meaning across text types",
     "printable": true,
     "type": "single",
-    "question": "Which response would correctly compare two frog images?",
-    "audioPrompt": "Which response would correctly compare two frog images?",
-    "visual": "📖 Compare two frog images; 🔎 meaning; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Compare two frog images; 🔎 meaning; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la08.svg#ac9e1la08-p-005\"></use></svg>",
+    "question": "A map picture shows a path from the gate to a pond. What does it help the reader understand?",
+    "audioPrompt": "A map picture shows a path from the gate to a pond. What does it help the reader understand?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la08.svg#ac9e1la08-p-005",
-      "alt_text": "📖 Compare two frog images; 🔎 meaning; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Use one correct image only.",
-      "Diagram gives factual parts/features; illustration develops character, setting or event",
-      "Use describing only."
+      "Where to go.",
+      "How the pond smells.",
+      "What happened yesterday."
     ],
-    "correct": 1,
-    "explanation": "Diagram gives factual parts/features; illustration develops character, setting or event This matches the task.\nHint: Different images can support different meanings.",
-    "structuredExplanation": {
-      "summary": "Diagram gives factual parts/features; illustration develops character, setting or event This matches the task.",
-      "hint": "Different images can support different meanings."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1la08-p-004",
-    "curriculumCode": "AC9E1LA08",
-    "bank": "practice",
-    "skill": "ac9e1la08 04 recognise",
-    "printable": true,
-    "type": "single",
-    "question": "Which response would correctly use a caption clue?",
-    "audioPrompt": "Which response would correctly use a caption clue?",
-    "visual": "📖 Use a caption clue; 🔎 mood; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Use a caption clue; 🔎 mood; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la08.svg#ac9e1la08-p-007\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la08.svg#ac9e1la08-p-007",
-      "alt_text": "📖 Use a caption clue; 🔎 mood; ✅ choose with evidence"
-    },
-    "answers": [
-      "It identifies time and stage, helping readers interpret the image as evidence of change",
-      "Seedling after 7 days",
-      "Use describing only."
-    ],
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 4,
     "correct": 0,
-    "explanation": "It identifies time and stage, helping readers interpret the image as evidence of change This matches the task.\nHint: Explain how the image changes or supports meaning.",
+    "explanation": "A map communicates position and route.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "It identifies time and stage, helping readers interpret the image as evidence of change This matches the task.",
-      "hint": "Explain how the image changes or supports meaning."
+      "summary": "A map communicates position and route.",
+      "hint": "Read the whole example and check what the question asks."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1la08-p-005",
+    "id": "ac9e1la08-er2-p-005",
     "curriculumCode": "AC9E1LA08",
     "bank": "practice",
-    "skill": "ac9e1la08 05 recognise",
+    "skill": "comparing how images contribute to meaning across text types",
     "printable": true,
     "type": "single",
-    "question": "Which response would correctly order image reading?",
-    "audioPrompt": "Which response would correctly order image reading?",
-    "visual": "📖 Order image reading; 🔎 detail; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Order image reading; 🔎 detail; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la08.svg#ac9e1la08-p-009\"></use></svg>",
+    "question": "Look at the two house images. Which belongs with instructions for finding the pond?",
+    "audioPrompt": "Look at the two house images. Which belongs with instructions for finding the pond?",
+    "visual": "Image A: a house with a smiling face saying Welcome, friend. Image B: a gate, a pond and a line with an arrow leading from the gate to the pond.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Image A: a house with a smiling face saying Welcome, friend. Image B: a gate, a pond and a line with an arrow leading from the gate to the pond.\"><use href=\"/assets/assessment-visuals/year1/english/ixl-review-2/ac9e1la08-05.svg#model\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la08.svg#ac9e1la08-p-009",
-      "alt_text": "📖 Order image reading; 🔎 detail; ✅ choose with evidence"
+      "alt_text": "Image A: a house with a smiling face saying Welcome, friend. Image B: a gate, a pond and a line with an arrow leading from the gate to the pond.",
+      "asset_path": "/assets/assessment-visuals/year1/english/ixl-review-2/ac9e1la08-05.svg#model"
     },
     "answers": [
-      "decide contribution → connect to text → Read title/caption and notice details",
-      "Ignore words.",
-      "Read title/caption and notice details → connect to text → decide contribution"
+      "Both explain the house's feelings.",
+      "Image B, showing places and a route.",
+      "Image A, showing a house character."
     ],
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 5,
+    "correct": 1,
+    "explanation": "A route image helps with navigation, unlike the story character image.\nHint: Read the whole example and check what the question asks.",
+    "structuredExplanation": {
+      "summary": "A route image helps with navigation, unlike the story character image.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1la08-er2-p-006",
+    "curriculumCode": "AC9E1LA08",
+    "bank": "practice",
+    "skill": "comparing how images contribute to meaning across text types",
+    "printable": true,
+    "type": "single",
+    "question": "A story says, 'The room was empty.' The picture shows a kitten under a chair. What extra information does the image give?",
+    "audioPrompt": "A story says, 'The room was empty.' The picture shows a kitten under a chair. What extra information does the image give?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "The room has no living things.",
+      "The kitten's exact age.",
+      "A hidden animal is still there."
+    ],
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 6,
     "correct": 2,
-    "explanation": "Read title/caption and notice details → connect to text → decide contribution This matches the task.\nHint: Read words and image together.",
+    "explanation": "The image reveals something not named by the words.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "Read title/caption and notice details → connect to text → decide contribution This matches the task.",
-      "hint": "Read words and image together."
+      "summary": "The image reveals something not named by the words.",
+      "hint": "Read the whole example and check what the question asks."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1la08-p-006",
+    "id": "ac9e1la08-er2-p-007",
     "curriculumCode": "AC9E1LA08",
     "bank": "practice",
-    "skill": "ac9e1la08 06 recognise",
+    "skill": "comparing how images contribute to meaning across text types",
     "printable": true,
     "type": "single",
-    "question": "Which response would correctly draw for two purposes?",
-    "audioPrompt": "Which response would correctly draw for two purposes?",
-    "visual": "📖 Draw for two purposes; 🔎 image; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Draw for two purposes; 🔎 image; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la08.svg#ac9e1la08-p-011\"></use></svg>",
+    "question": "An information book has a close-up image of a feather. What can the close-up help you notice?",
+    "audioPrompt": "An information book has a close-up image of a feather. What can the close-up help you notice?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la08.svg#ac9e1la08-p-011",
-      "alt_text": "📖 Draw for two purposes; 🔎 image; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Safety meaning highlights labelled equipment/action",
-      "Safety image highlights labelled equipment/action",
-      "Safety detail highlights labelled equipment/action"
+      "Small details in its structure.",
+      "The bird's name without any clue.",
+      "What the bird will do tomorrow."
     ],
-    "correct": 1,
-    "explanation": "Safety image highlights labelled equipment/action This matches the task.\nHint: Different images can support different meanings.",
-    "structuredExplanation": {
-      "summary": "Safety image highlights labelled equipment/action This matches the task.",
-      "hint": "Different images can support different meanings."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1la08-p-007",
-    "curriculumCode": "AC9E1LA08",
-    "bank": "practice",
-    "skill": "ac9e1la08 07 recognise",
-    "printable": true,
-    "type": "single",
-    "question": "Which response would correctly find unsupported meaning?",
-    "audioPrompt": "Which response would correctly find unsupported meaning?",
-    "visual": "📖 Find unsupported meaning; 🔎 words; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Find unsupported meaning; 🔎 words; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la08.svg#ac9e1la08-p-013\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la08.svg#ac9e1la08-p-013",
-      "alt_text": "📖 Find unsupported meaning; 🔎 words; ✅ choose with evidence"
-    },
-    "answers": [
-      "No; it shows one pictured response and may be staged; it cannot prove a universal claim",
-      "Use describing only.",
-      "Ignore words."
-    ],
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 7,
     "correct": 0,
-    "explanation": "No; it shows one pictured response and may be staged; it cannot prove a universal claim This matches the task.\nHint: Explain how the image changes or supports meaning.",
+    "explanation": "A close-up makes small visible features easier to examine.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "No; it shows one pictured response and may be staged; it cannot prove a universal claim This matches the task.",
-      "hint": "Explain how the image changes or supports meaning."
+      "summary": "A close-up makes small visible features easier to examine.",
+      "hint": "Read the whole example and check what the question asks."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1la08-p-008",
+    "id": "ac9e1la08-er2-p-008",
     "curriculumCode": "AC9E1LA08",
     "bank": "practice",
-    "skill": "ac9e1la08 08 recognise",
+    "skill": "comparing how images contribute to meaning across text types",
     "printable": true,
     "type": "single",
-    "question": "Which response would correctly choose an informative image?",
-    "audioPrompt": "Which response would correctly choose an informative image?",
-    "visual": "📖 Choose an informative image; 🔎 meaning; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Choose an informative image; 🔎 meaning; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la08.svg#ac9e1la08-p-015\"></use></svg>",
+    "question": "A poster has a crossed-out picture of a running person. What does the image help communicate?",
+    "audioPrompt": "A poster has a crossed-out picture of a running person. What does the image help communicate?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la08.svg#ac9e1la08-p-015",
-      "alt_text": "📖 Choose an informative image; 🔎 meaning; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Ignore words.",
-      "Use one correct image only.",
-      "Step pictures because they show action/order needed to complete the task"
+      "A count of all runners.",
+      "A message not to run.",
+      "A story about winning a race."
     ],
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 8,
+    "correct": 1,
+    "explanation": "The crossing-out mark changes the running picture into a prohibition.\nHint: Read the whole example and check what the question asks.",
+    "structuredExplanation": {
+      "summary": "The crossing-out mark changes the running picture into a prohibition.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1la08-er2-p-009",
+    "curriculumCode": "AC9E1LA08",
+    "bank": "practice",
+    "skill": "comparing how images contribute to meaning across text types",
+    "printable": true,
+    "type": "single",
+    "question": "Look at the two tree images. How do their purposes differ?",
+    "audioPrompt": "Look at the two tree images. How do their purposes differ?",
+    "visual": "Image A: a tree with a smiling face saying I can sing. Image B: a tree diagram with leaves, trunk and roots labelled.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Image A: a tree with a smiling face saying I can sing. Image B: a tree diagram with leaves, trunk and roots labelled.\"><use href=\"/assets/assessment-visuals/year1/english/ixl-review-2/ac9e1la08-09.svg#model\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "alt_text": "Image A: a tree with a smiling face saying I can sing. Image B: a tree diagram with leaves, trunk and roots labelled.",
+      "asset_path": "/assets/assessment-visuals/year1/english/ixl-review-2/ac9e1la08-09.svg#model"
+    },
+    "answers": [
+      "A labels roots; B shows a tree speaking.",
+      "Both only tell a reader where to walk.",
+      "A creates a story character; B names real tree parts."
+    ],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 9,
     "correct": 2,
-    "explanation": "Step pictures because they show action/order needed to complete the task This matches the task.\nHint: Read words and image together.",
+    "explanation": "The speech bubble gives a tree a character role; the labels support factual learning.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "Step pictures because they show action/order needed to complete the task This matches the task.",
-      "hint": "Read words and image together."
+      "summary": "The speech bubble gives a tree a character role; the labels support factual learning.",
+      "hint": "Read the whole example and check what the question asks."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1la08-p-009",
+    "id": "ac9e1la08-er2-p-010",
     "curriculumCode": "AC9E1LA08",
     "bank": "practice",
-    "skill": "ac9e1la08 09 recognise",
+    "skill": "comparing how images contribute to meaning across text types",
     "printable": true,
     "type": "single",
-    "question": "Which response would correctly infer a character feeling?",
-    "audioPrompt": "Which response would correctly infer a character feeling?",
-    "visual": "📖 Infer a character feeling; 🔎 mood; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Infer a character feeling; 🔎 mood; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la08.svg#ac9e1la08-p-017\"></use></svg>",
+    "question": "A comic shows a person with a thought bubble. A science diagram uses label lines. What does each help show?",
+    "audioPrompt": "A comic shows a person with a thought bubble. A science diagram uses label lines. What does each help show?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la08.svg#ac9e1la08-p-017",
-      "alt_text": "📖 Infer a character feeling; 🔎 mood; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Use one correct image only.",
-      "A plausible feeling such as sad/disappointed with both visual details cited",
-      "Use describing only."
+      "The comic shows a thought; the diagram names parts.",
+      "Both show the exact words spoken aloud.",
+      "The comic names parts; the diagram shows dreams."
     ],
-    "correct": 1,
-    "explanation": "A plausible feeling such as sad/disappointed with both visual details cited This matches the task.\nHint: Different images can support different meanings.",
-    "structuredExplanation": {
-      "summary": "A plausible feeling such as sad/disappointed with both visual details cited This matches the task.",
-      "hint": "Different images can support different meanings."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1la08-p-010",
-    "curriculumCode": "AC9E1LA08",
-    "bank": "practice",
-    "skill": "ac9e1la08 10 recognise",
-    "printable": true,
-    "type": "single",
-    "question": "Which response would correctly match fresh visuals?",
-    "audioPrompt": "Which response would correctly match fresh visuals?",
-    "visual": "📖 Match fresh visuals; 🔎 detail; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Match fresh visuals; 🔎 detail; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la08.svg#ac9e1la08-p-019\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la08.svg#ac9e1la08-p-019",
-      "alt_text": "📖 Match fresh visuals; 🔎 detail; ✅ choose with evidence"
-    },
-    "answers": [
-      "Map ↔ location; close-up ↔ detail; speech bubble ↔ character words",
-      "Map ↔ detail; close-up ↔ character words; speech bubble ↔ location",
-      "Use describing only."
-    ],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 10,
     "correct": 0,
-    "explanation": "Map ↔ location; close-up ↔ detail; speech bubble ↔ character words This matches the task.\nHint: Explain how the image changes or supports meaning.",
+    "explanation": "Different image features serve different meaning-making purposes.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "Map ↔ location; close-up ↔ detail; speech bubble ↔ character words This matches the task.",
-      "hint": "Explain how the image changes or supports meaning."
+      "summary": "Different image features serve different meaning-making purposes.",
+      "hint": "Read the whole example and check what the question asks."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1la08-p-011",
+    "id": "ac9e1la08-er2-p-011",
     "curriculumCode": "AC9E1LA08",
     "bank": "practice",
-    "skill": "ac9e1la08 01 explain",
+    "skill": "comparing how images contribute to meaning across text types",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you name an image contribution?",
-    "audioPrompt": "Which tip would help you name an image contribution?",
-    "visual": "🧠 Name an image contribution; ➡️ Look at image; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Name an image contribution; ➡️ Look at image; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la08.svg#ac9e1la08-p-002\"></use></svg>",
+    "question": "A story drawing makes a mouse larger than a house. An animal fact book shows a mouse beside a ruler. Why might the sizes differ?",
+    "audioPrompt": "A story drawing makes a mouse larger than a house. An animal fact book shows a mouse beside a ruler. Why might the sizes differ?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la08.svg#ac9e1la08-p-002",
-      "alt_text": "🧠 Name an image contribution; ➡️ Look at image; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Ignore words.",
-      "Explain how the image changes or supports meaning.",
-      "Use one correct image only."
+      "The larger drawing proves mice are bigger than houses.",
+      "One can create fantasy; the other helps show actual size.",
+      "All drawings must use the same size."
     ],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 11,
     "correct": 1,
-    "explanation": "Explain how the image changes or supports meaning.\nHint: Explain how the image changes or supports meaning.",
+    "explanation": "Image choices depend on whether the purpose is imaginative or factual.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "Explain how the image changes or supports meaning.",
-      "hint": "Explain how the image changes or supports meaning."
+      "summary": "Image choices depend on whether the purpose is imaginative or factual.",
+      "hint": "Read the whole example and check what the question asks."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1la08-p-012",
+    "id": "ac9e1la08-er2-p-012",
     "curriculumCode": "AC9E1LA08",
     "bank": "practice",
-    "skill": "ac9e1la08 02 explain",
+    "skill": "comparing how images contribute to meaning across text types",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you match image types and jobs?",
-    "audioPrompt": "Which tip would help you match image types and jobs?",
-    "visual": "🧠 Match image types and jobs; ➡️ Read words; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Match image types and jobs; ➡️ Read words; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la08.svg#ac9e1la08-p-004\"></use></svg>",
+    "question": "An instruction page shows three numbered pictures: fill a pot, add a seed, water it. What do the numbers add?",
+    "audioPrompt": "An instruction page shows three numbered pictures: fill a pot, add a seed, water it. What do the numbers add?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la08.svg#ac9e1la08-p-004",
-      "alt_text": "🧠 Match image types and jobs; ➡️ Read words; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Use this routine: Look at image → Read words → Compare message → Explain effect.",
-      "Use one correct image only.",
-      "Use describing only."
+      "The price of each object.",
+      "The size of the finished plant.",
+      "The order to follow."
     ],
-    "correct": 0,
-    "explanation": "Use this routine: Look at image → Read words → Compare message → Explain effect.\nHint: Read words and image together.",
-    "structuredExplanation": {
-      "summary": "Use this routine: Look at image → Read words → Compare message → Explain effect.",
-      "hint": "Read words and image together."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1la08-p-013",
-    "curriculumCode": "AC9E1LA08",
-    "bank": "practice",
-    "skill": "ac9e1la08 03 explain",
-    "printable": true,
-    "type": "single",
-    "question": "Which tip would help you compare two frog images?",
-    "audioPrompt": "Which tip would help you compare two frog images?",
-    "visual": "🧠 Compare two frog images; ➡️ Compare message; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Compare two frog images; ➡️ Compare message; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la08.svg#ac9e1la08-p-006\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la08.svg#ac9e1la08-p-006",
-      "alt_text": "🧠 Compare two frog images; ➡️ Compare message; 💡 helpful strategy"
-    },
-    "answers": [
-      "Use describing only.",
-      "Ignore words.",
-      "Look for meaning and check the whole example."
-    ],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 12,
     "correct": 2,
-    "explanation": "Look for meaning and check the whole example.\nHint: Different images can support different meanings.",
+    "explanation": "Numbers link the pictures into a sequence of steps.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "Look for meaning and check the whole example.",
-      "hint": "Different images can support different meanings."
+      "summary": "Numbers link the pictures into a sequence of steps.",
+      "hint": "Read the whole example and check what the question asks."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1la08-p-014",
+    "id": "ac9e1la08-er2-p-013",
     "curriculumCode": "AC9E1LA08",
     "bank": "practice",
-    "skill": "ac9e1la08 04 explain",
+    "skill": "comparing how images contribute to meaning across text types",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you use a caption clue?",
-    "audioPrompt": "Which tip would help you use a caption clue?",
-    "visual": "🧠 Use a caption clue; ➡️ Explain effect; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Use a caption clue; ➡️ Explain effect; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la08.svg#ac9e1la08-p-008\"></use></svg>",
+    "question": "Look at the story face and the face diagram. What does Image A help the reader infer?",
+    "audioPrompt": "Look at the story face and the face diagram. What does Image A help the reader infer?",
+    "visual": "Image A: a story face with a downturned mouth and a tear. Image B: a face diagram with an eye and mouth labelled.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Image A: a story face with a downturned mouth and a tear. Image B: a face diagram with an eye and mouth labelled.\"><use href=\"/assets/assessment-visuals/year1/english/ixl-review-2/ac9e1la08-13.svg#model\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la08.svg#ac9e1la08-p-008",
-      "alt_text": "🧠 Use a caption clue; ➡️ Explain effect; 💡 helpful strategy"
+      "alt_text": "Image A: a story face with a downturned mouth and a tear. Image B: a face diagram with an eye and mouth labelled.",
+      "asset_path": "/assets/assessment-visuals/year1/english/ixl-review-2/ac9e1la08-13.svg#model"
     },
     "answers": [
-      "Ignore words.",
-      "Check that you can notice mood/detail.",
-      "Use one correct image only."
+      "How the character may feel.",
+      "The names of the face parts.",
+      "The exact height of the character."
     ],
-    "correct": 1,
-    "explanation": "Check that you can notice mood/detail.\nHint: Explain how the image changes or supports meaning.",
-    "structuredExplanation": {
-      "summary": "Check that you can notice mood/detail.",
-      "hint": "Explain how the image changes or supports meaning."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1la08-p-015",
-    "curriculumCode": "AC9E1LA08",
-    "bank": "practice",
-    "skill": "ac9e1la08 05 explain",
-    "printable": true,
-    "type": "single",
-    "question": "Which tip would help you order image reading?",
-    "audioPrompt": "Which tip would help you order image reading?",
-    "visual": "🧠 Order image reading; ➡️ Look at image; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Order image reading; ➡️ Look at image; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la08.svg#ac9e1la08-p-010\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la08.svg#ac9e1la08-p-010",
-      "alt_text": "🧠 Order image reading; ➡️ Look at image; 💡 helpful strategy"
-    },
-    "answers": [
-      "Sequencing multimodal interpretation.",
-      "Use one correct image only.",
-      "Use describing only."
-    ],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 13,
     "correct": 0,
-    "explanation": "Sequencing multimodal interpretation.\nHint: Read words and image together.",
+    "explanation": "The downward mouth and tears provide feeling clues; the other image uses part labels.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "Sequencing multimodal interpretation.",
-      "hint": "Read words and image together."
+      "summary": "The downward mouth and tears provide feeling clues; the other image uses part labels.",
+      "hint": "Read the whole example and check what the question asks."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1la08-p-016",
+    "id": "ac9e1la08-er2-p-014",
     "curriculumCode": "AC9E1LA08",
     "bank": "practice",
-    "skill": "ac9e1la08 06 explain",
+    "skill": "comparing how images contribute to meaning across text types",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you draw for two purposes?",
-    "audioPrompt": "Which tip would help you draw for two purposes?",
-    "visual": "🧠 Draw for two purposes; ➡️ Read words; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Draw for two purposes; ➡️ Read words; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la08.svg#ac9e1la08-p-012\"></use></svg>",
+    "question": "A history book includes an old photograph of a street. A story includes a drawing of a floating street. How do these contribute differently?",
+    "audioPrompt": "A history book includes an old photograph of a street. A story includes a drawing of a floating street. How do these contribute differently?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la08.svg#ac9e1la08-p-012",
-      "alt_text": "🧠 Draw for two purposes; ➡️ Read words; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Use describing only.",
-      "Ignore words.",
-      "Different images can support different meanings."
+      "The drawing must be more accurate because it is colourful.",
+      "The photo records a past view; the drawing creates an imagined setting.",
+      "Both prove that streets once floated."
     ],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 14,
+    "correct": 1,
+    "explanation": "Photographs can document a scene; fantasy illustrations can depict impossible events.\nHint: Read the whole example and check what the question asks.",
+    "structuredExplanation": {
+      "summary": "Photographs can document a scene; fantasy illustrations can depict impossible events.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1la08-er2-p-015",
+    "curriculumCode": "AC9E1LA08",
+    "bank": "practice",
+    "skill": "comparing how images contribute to meaning across text types",
+    "printable": true,
+    "type": "single",
+    "question": "A page says, 'Mix the colours.' A picture shows blue and yellow becoming green. What does the image clarify?",
+    "audioPrompt": "A page says, 'Mix the colours.' A picture shows blue and yellow becoming green. What does the image clarify?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Who invented paint.",
+      "How much the paint costs.",
+      "Which colours are mixed and the result."
+    ],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 15,
     "correct": 2,
-    "explanation": "Different images can support different meanings.\nHint: Different images can support different meanings.",
+    "explanation": "The picture supplies specific information missing from the brief words.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "Different images can support different meanings.",
-      "hint": "Different images can support different meanings."
+      "summary": "The picture supplies specific information missing from the brief words.",
+      "hint": "Read the whole example and check what the question asks."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1la08-p-017",
+    "id": "ac9e1la08-er2-p-016",
     "curriculumCode": "AC9E1LA08",
     "bank": "practice",
-    "skill": "ac9e1la08 07 explain",
+    "skill": "comparing how images contribute to meaning across text types",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you find unsupported meaning?",
-    "audioPrompt": "Which tip would help you find unsupported meaning?",
-    "visual": "🧠 Find unsupported meaning; ➡️ Compare message; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Find unsupported meaning; ➡️ Compare message; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la08.svg#ac9e1la08-p-014\"></use></svg>",
+    "question": "A character says, 'I am brave,' but the illustration shows shaking knees beside a dark cave. What might the picture suggest?",
+    "audioPrompt": "A character says, 'I am brave,' but the illustration shows shaking knees beside a dark cave. What might the picture suggest?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la08.svg#ac9e1la08-p-014",
-      "alt_text": "🧠 Find unsupported meaning; ➡️ Compare message; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Ignore words.",
-      "Use this routine: Look at image → Read words → Compare message → Explain effect.",
-      "Use one correct image only."
+      "The character may feel afraid despite the words.",
+      "The cave must be full of treasure.",
+      "The character is definitely asleep."
     ],
-    "correct": 1,
-    "explanation": "Use this routine: Look at image → Read words → Compare message → Explain effect.\nHint: Explain how the image changes or supports meaning.",
-    "structuredExplanation": {
-      "summary": "Use this routine: Look at image → Read words → Compare message → Explain effect.",
-      "hint": "Explain how the image changes or supports meaning."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1la08-p-018",
-    "curriculumCode": "AC9E1LA08",
-    "bank": "practice",
-    "skill": "ac9e1la08 08 explain",
-    "printable": true,
-    "type": "single",
-    "question": "Which tip would help you choose an informative image?",
-    "audioPrompt": "Which tip would help you choose an informative image?",
-    "visual": "🧠 Choose an informative image; ➡️ Explain effect; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Choose an informative image; ➡️ Explain effect; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la08.svg#ac9e1la08-p-016\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la08.svg#ac9e1la08-p-016",
-      "alt_text": "🧠 Choose an informative image; ➡️ Explain effect; 💡 helpful strategy"
-    },
-    "answers": [
-      "Look for meaning and check the whole example.",
-      "Use one correct image only.",
-      "Use describing only."
-    ],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 16,
     "correct": 0,
-    "explanation": "Look for meaning and check the whole example.\nHint: Read words and image together.",
+    "explanation": "Body clues can add a feeling that differs from the character's claim.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "Look for meaning and check the whole example.",
-      "hint": "Read words and image together."
+      "summary": "Body clues can add a feeling that differs from the character's claim.",
+      "hint": "Read the whole example and check what the question asks."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1la08-p-019",
+    "id": "ac9e1la08-er2-p-017",
     "curriculumCode": "AC9E1LA08",
     "bank": "practice",
-    "skill": "ac9e1la08 09 explain",
+    "skill": "comparing how images contribute to meaning across text types",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you infer a character feeling?",
-    "audioPrompt": "Which tip would help you infer a character feeling?",
-    "visual": "🧠 Infer a character feeling; ➡️ Look at image; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Infer a character feeling; ➡️ Look at image; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la08.svg#ac9e1la08-p-018\"></use></svg>",
+    "question": "Look at the two rain images. Which comparison fits?",
+    "audioPrompt": "Look at the two rain images. Which comparison fits?",
+    "visual": "Image A: a smiling cloud saying Time for a shower. Image B: a rain gauge whose water level is marked 10 mm.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Image A: a smiling cloud saying Time for a shower. Image B: a rain gauge whose water level is marked 10 mm.\"><use href=\"/assets/assessment-visuals/year1/english/ixl-review-2/ac9e1la08-17.svg#model\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la08.svg#ac9e1la08-p-018",
-      "alt_text": "🧠 Infer a character feeling; ➡️ Look at image; 💡 helpful strategy"
+      "alt_text": "Image A: a smiling cloud saying Time for a shower. Image B: a rain gauge whose water level is marked 10 mm.",
+      "asset_path": "/assets/assessment-visuals/year1/english/ixl-review-2/ac9e1la08-17.svg#model"
     },
     "answers": [
-      "Use describing only.",
-      "Ignore words.",
-      "Check that you can notice mood/detail."
+      "A gives the rainfall amount; B shows a talking cloud.",
+      "A makes rain part of a character scene; B shows a weather amount.",
+      "Both show how a character feels."
     ],
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 17,
+    "correct": 1,
+    "explanation": "The story image personifies a cloud; the gauge image communicates a measured amount.\nHint: Read the whole example and check what the question asks.",
+    "structuredExplanation": {
+      "summary": "The story image personifies a cloud; the gauge image communicates a measured amount.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1la08-er2-p-018",
+    "curriculumCode": "AC9E1LA08",
+    "bank": "practice",
+    "skill": "comparing how images contribute to meaning across text types",
+    "printable": true,
+    "type": "single",
+    "question": "A book about fish has an image labelled fin and tail. A fish story has a fish wearing a crown. Which is more useful for identifying body parts?",
+    "audioPrompt": "A book about fish has an image labelled fin and tail. A fish story has a fish wearing a crown. Which is more useful for identifying body parts?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "The crowned fish image.",
+      "Neither image can support meaning.",
+      "The labelled fish image."
+    ],
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 18,
     "correct": 2,
-    "explanation": "Check that you can notice mood/detail.\nHint: Different images can support different meanings.",
+    "explanation": "The labels directly connect body-part vocabulary to the picture.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "Check that you can notice mood/detail.",
-      "hint": "Different images can support different meanings."
+      "summary": "The labels directly connect body-part vocabulary to the picture.",
+      "hint": "Read the whole example and check what the question asks."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1la08-p-020",
+    "id": "ac9e1la08-er2-p-019",
     "curriculumCode": "AC9E1LA08",
     "bank": "practice",
-    "skill": "ac9e1la08 10 explain",
+    "skill": "comparing how images contribute to meaning across text types",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you match fresh visuals?",
-    "audioPrompt": "Which tip would help you match fresh visuals?",
-    "visual": "🧠 Match fresh visuals; ➡️ Read words; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Match fresh visuals; ➡️ Read words; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la08.svg#ac9e1la08-p-020\"></use></svg>",
+    "question": "A child chooses a smiling sun drawing to show tomorrow's exact temperature. What is missing?",
+    "audioPrompt": "A child chooses a smiling sun drawing to show tomorrow's exact temperature. What is missing?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la08.svg#ac9e1la08-p-020",
-      "alt_text": "🧠 Match fresh visuals; ➡️ Read words; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Ignore words.",
-      "Recognising specialised visual-text features.",
-      "Use one correct image only."
+      "A temperature value or other precise temperature information.",
+      "A second smile on the sun.",
+      "A larger decorative border."
     ],
-    "correct": 1,
-    "explanation": "Recognising specialised visual-text features.\nHint: Explain how the image changes or supports meaning.",
-    "structuredExplanation": {
-      "summary": "Recognising specialised visual-text features.",
-      "hint": "Explain how the image changes or supports meaning."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1la08-p-021",
-    "curriculumCode": "AC9E1LA08",
-    "bank": "practice",
-    "skill": "ac9e1la08 01 discriminate",
-    "printable": true,
-    "type": "single",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": "📖 Name an image contribution; 🔎 image; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Name an image contribution; 🔎 image; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la08.svg#ac9e1la08-p-001\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la08.svg#ac9e1la08-p-001",
-      "alt_text": "📖 Name an image contribution; 🔎 image; ✅ choose with evidence"
-    },
-    "answers": [
-      "It may establish stormy setting, danger or worried meaning, supported by visible details",
-      "It may establish stormy setting, danger or worried mood, supported by visible details",
-      "Explain how the image changes or supports meaning."
-    ],
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 19,
     "correct": 0,
-    "explanation": "It may establish stormy setting, danger or worried meaning, supported by visible details is the mix-up. Explain how the image changes or supports meaning.\nHint: Explain how the image changes or supports meaning.",
+    "explanation": "A cheerful sun image alone cannot supply an exact temperature.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "It may establish stormy setting, danger or worried meaning, supported by visible details is the mix-up. Explain how the image changes or supports meaning.",
-      "hint": "Explain how the image changes or supports meaning."
+      "summary": "A cheerful sun image alone cannot supply an exact temperature.",
+      "hint": "Read the whole example and check what the question asks."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1la08-p-022",
+    "id": "ac9e1la08-er2-p-020",
     "curriculumCode": "AC9E1LA08",
     "bank": "practice",
-    "skill": "ac9e1la08 02 discriminate",
+    "skill": "comparing how images contribute to meaning across text types",
     "printable": true,
     "type": "single",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": "📖 Match image types and jobs; 🔎 words; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Match image types and jobs; 🔎 words; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la08.svg#ac9e1la08-p-003\"></use></svg>",
+    "question": "A warning poster makes a hazard picture large. A story uses a large picture of its main character. What is similar?",
+    "audioPrompt": "A warning poster makes a hazard picture large. A story uses a large picture of its main character. What is similar?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la08.svg#ac9e1la08-p-003",
-      "alt_text": "📖 Match image types and jobs; 🔎 words; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Each image type matches its purpose-related contribution",
-      "Ignore words.",
-      "Use this routine: Look at image → Read words → Compare message → Explain effect."
+      "Both must show events in time order.",
+      "Both draw attention to something important for their purpose.",
+      "Both must be giving safety instructions."
     ],
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 20,
     "correct": 1,
-    "explanation": "Ignore words. is the mix-up. Read words and image together.\nHint: Read words and image together.",
+    "explanation": "Size can guide attention even when the texts have different purposes.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "Ignore words. is the mix-up. Read words and image together.",
-      "hint": "Read words and image together."
+      "summary": "Size can guide attention even when the texts have different purposes.",
+      "hint": "Read the whole example and check what the question asks."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1la08-p-023",
+    "id": "ac9e1la08-er2-p-021",
     "curriculumCode": "AC9E1LA08",
     "bank": "practice",
-    "skill": "ac9e1la08 03 discriminate",
+    "skill": "comparing how images contribute to meaning across text types",
     "printable": true,
     "type": "single",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": "📖 Compare two frog images; 🔎 meaning; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Compare two frog images; 🔎 meaning; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la08.svg#ac9e1la08-p-005\"></use></svg>",
+    "question": "Look at the two boat images. Which one explains a direction of movement most directly?",
+    "audioPrompt": "Look at the two boat images. Which one explains a direction of movement most directly?",
+    "visual": "Image A: a boat with a face saying Hello, waves. Image B: a boat with an arrow pointing right labelled Travel direction.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Image A: a boat with a face saying Hello, waves. Image B: a boat with an arrow pointing right labelled Travel direction.\"><use href=\"/assets/assessment-visuals/year1/english/ixl-review-2/ac9e1la08-21.svg#model\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la08.svg#ac9e1la08-p-005",
-      "alt_text": "📖 Compare two frog images; 🔎 meaning; ✅ choose with evidence"
+      "alt_text": "Image A: a boat with a face saying Hello, waves. Image B: a boat with an arrow pointing right labelled Travel direction.",
+      "asset_path": "/assets/assessment-visuals/year1/english/ixl-review-2/ac9e1la08-21.svg#model"
     },
     "answers": [
-      "Diagram gives factual parts/features; illustration develops character, setting or event",
-      "Look for meaning and check the whole example.",
-      "Use one correct image only."
+      "Image A, with a boat saying hello.",
+      "Both show the boat's speed as a number.",
+      "Image B, with a labelled direction arrow."
     ],
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 21,
     "correct": 2,
-    "explanation": "Use one correct image only. is the mix-up. Different images can support different meanings.\nHint: Different images can support different meanings.",
+    "explanation": "The arrow communicates direction; the speech bubble creates a character voice.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "Use one correct image only. is the mix-up. Different images can support different meanings.",
-      "hint": "Different images can support different meanings."
+      "summary": "The arrow communicates direction; the speech bubble creates a character voice.",
+      "hint": "Read the whole example and check what the question asks."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1la08-p-024",
+    "id": "ac9e1la08-er2-p-022",
     "curriculumCode": "AC9E1LA08",
     "bank": "practice",
-    "skill": "ac9e1la08 04 discriminate",
+    "skill": "comparing how images contribute to meaning across text types",
     "printable": true,
     "type": "single",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": "📖 Use a caption clue; 🔎 mood; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Use a caption clue; 🔎 mood; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la08.svg#ac9e1la08-p-007\"></use></svg>",
+    "question": "A caption says, 'The bird is feeding its chick.' The photo shows a bird's beak near a chick's open mouth. How do they work together?",
+    "audioPrompt": "A caption says, 'The bird is feeding its chick.' The photo shows a bird's beak near a chick's open mouth. How do they work together?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la08.svg#ac9e1la08-p-007",
-      "alt_text": "📖 Use a caption clue; 🔎 mood; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Seedling after 7 days",
-      "It identifies time and stage, helping readers interpret the image as evidence of change",
-      "Check that you can notice mood/detail."
+      "The words name the action and the photo shows it.",
+      "The photo proves the chick can read.",
+      "The words make the photo unnecessary in every case."
     ],
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 22,
     "correct": 0,
-    "explanation": "Seedling after 7 days is the mix-up. Explain how the image changes or supports meaning.\nHint: Explain how the image changes or supports meaning.",
+    "explanation": "The caption interprets the visible action and the image supplies detail.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "Seedling after 7 days is the mix-up. Explain how the image changes or supports meaning.",
-      "hint": "Explain how the image changes or supports meaning."
+      "summary": "The caption interprets the visible action and the image supplies detail.",
+      "hint": "Read the whole example and check what the question asks."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1la08-p-025",
+    "id": "ac9e1la08-er2-p-023",
     "curriculumCode": "AC9E1LA08",
     "bank": "practice",
-    "skill": "ac9e1la08 05 discriminate",
+    "skill": "comparing how images contribute to meaning across text types",
     "printable": true,
     "type": "single",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": "📖 Order image reading; 🔎 detail; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Order image reading; 🔎 detail; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la08.svg#ac9e1la08-p-009\"></use></svg>",
+    "question": "A comic image shows a dog holding a trophy. Does that image alone tell you exactly how it won?",
+    "audioPrompt": "A comic image shows a dog holding a trophy. Does that image alone tell you exactly how it won?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la08.svg#ac9e1la08-p-009",
-      "alt_text": "📖 Order image reading; 🔎 detail; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Read title/caption and notice details → connect to text → decide contribution",
-      "decide contribution → connect to text → Read title/caption and notice details",
-      "Sequencing multimodal interpretation."
+      "Yes; every trophy is for the same event.",
+      "No; more story information is needed.",
+      "Yes; it must have won a swimming race."
     ],
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 23,
     "correct": 1,
-    "explanation": "decide contribution → connect to text → Read title/caption and notice details is the mix-up. Read words and image together.\nHint: Read words and image together.",
+    "explanation": "The trophy suggests success but does not identify the event or method.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "decide contribution → connect to text → Read title/caption and notice details is the mix-up. Read words and image together.",
-      "hint": "Read words and image together."
+      "summary": "The trophy suggests success but does not identify the event or method.",
+      "hint": "Read the whole example and check what the question asks."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1la08-p-026",
+    "id": "ac9e1la08-er2-p-024",
     "curriculumCode": "AC9E1LA08",
     "bank": "practice",
-    "skill": "ac9e1la08 06 discriminate",
+    "skill": "comparing how images contribute to meaning across text types",
     "printable": true,
     "type": "single",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": "📖 Draw for two purposes; 🔎 image; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Draw for two purposes; 🔎 image; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la08.svg#ac9e1la08-p-011\"></use></svg>",
+    "question": "A nature guide needs to help readers recognise a leaf's edge. Which image choice best fits?",
+    "audioPrompt": "A nature guide needs to help readers recognise a leaf's edge. Which image choice best fits?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la08.svg#ac9e1la08-p-011",
-      "alt_text": "📖 Draw for two purposes; 🔎 image; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Safety image highlights labelled equipment/action",
-      "Different images can support different meanings.",
-      "Safety meaning highlights labelled equipment/action"
+      "A tiny leaf hidden behind a title.",
+      "A leaf character covered by a speech bubble.",
+      "A clear close-up of the edge."
     ],
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 24,
     "correct": 2,
-    "explanation": "Safety meaning highlights labelled equipment/action is the mix-up. Different images can support different meanings.\nHint: Different images can support different meanings.",
+    "explanation": "Relevant detail must be visible to support identification.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "Safety meaning highlights labelled equipment/action is the mix-up. Different images can support different meanings.",
-      "hint": "Different images can support different meanings."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1la08-p-027",
-    "curriculumCode": "AC9E1LA08",
-    "bank": "practice",
-    "skill": "ac9e1la08 07 discriminate",
-    "printable": true,
-    "type": "single",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": "📖 Find unsupported meaning; 🔎 words; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Find unsupported meaning; 🔎 words; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la08.svg#ac9e1la08-p-013\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la08.svg#ac9e1la08-p-013",
-      "alt_text": "📖 Find unsupported meaning; 🔎 words; ✅ choose with evidence"
-    },
-    "answers": [
-      "Use describing only.",
-      "No; it shows one pictured response and may be staged; it cannot prove a universal claim",
-      "Use this routine: Look at image → Read words → Compare message → Explain effect."
-    ],
-    "correct": 0,
-    "explanation": "Use describing only. is the mix-up. Explain how the image changes or supports meaning.\nHint: Explain how the image changes or supports meaning.",
-    "structuredExplanation": {
-      "summary": "Use describing only. is the mix-up. Explain how the image changes or supports meaning.",
-      "hint": "Explain how the image changes or supports meaning."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1la08-p-028",
-    "curriculumCode": "AC9E1LA08",
-    "bank": "practice",
-    "skill": "ac9e1la08 08 discriminate",
-    "printable": true,
-    "type": "single",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": "📖 Choose an informative image; 🔎 meaning; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Choose an informative image; 🔎 meaning; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la08.svg#ac9e1la08-p-015\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la08.svg#ac9e1la08-p-015",
-      "alt_text": "📖 Choose an informative image; 🔎 meaning; ✅ choose with evidence"
-    },
-    "answers": [
-      "Step pictures because they show action/order needed to complete the task",
-      "Ignore words.",
-      "Look for meaning and check the whole example."
-    ],
-    "correct": 1,
-    "explanation": "Ignore words. is the mix-up. Read words and image together.\nHint: Read words and image together.",
-    "structuredExplanation": {
-      "summary": "Ignore words. is the mix-up. Read words and image together.",
-      "hint": "Read words and image together."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1la08-p-029",
-    "curriculumCode": "AC9E1LA08",
-    "bank": "practice",
-    "skill": "ac9e1la08 09 discriminate",
-    "printable": true,
-    "type": "single",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": "📖 Infer a character feeling; 🔎 mood; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Infer a character feeling; 🔎 mood; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la08.svg#ac9e1la08-p-017\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la08.svg#ac9e1la08-p-017",
-      "alt_text": "📖 Infer a character feeling; 🔎 mood; ✅ choose with evidence"
-    },
-    "answers": [
-      "A plausible feeling such as sad/disappointed with both visual details cited",
-      "Check that you can notice mood/detail.",
-      "Use one correct image only."
-    ],
-    "correct": 2,
-    "explanation": "Use one correct image only. is the mix-up. Different images can support different meanings.\nHint: Different images can support different meanings.",
-    "structuredExplanation": {
-      "summary": "Use one correct image only. is the mix-up. Different images can support different meanings.",
-      "hint": "Different images can support different meanings."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1la08-p-030",
-    "curriculumCode": "AC9E1LA08",
-    "bank": "practice",
-    "skill": "ac9e1la08 10 discriminate",
-    "printable": true,
-    "type": "single",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": "📖 Match fresh visuals; 🔎 detail; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Match fresh visuals; 🔎 detail; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la08.svg#ac9e1la08-p-019\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la08.svg#ac9e1la08-p-019",
-      "alt_text": "📖 Match fresh visuals; 🔎 detail; ✅ choose with evidence"
-    },
-    "answers": [
-      "Map ↔ detail; close-up ↔ character words; speech bubble ↔ location",
-      "Map ↔ location; close-up ↔ detail; speech bubble ↔ character words",
-      "Recognising specialised visual-text features."
-    ],
-    "correct": 0,
-    "explanation": "Map ↔ detail; close-up ↔ character words; speech bubble ↔ location is the mix-up. Explain how the image changes or supports meaning.\nHint: Explain how the image changes or supports meaning.",
-    "structuredExplanation": {
-      "summary": "Map ↔ detail; close-up ↔ character words; speech bubble ↔ location is the mix-up. Explain how the image changes or supports meaning.",
-      "hint": "Explain how the image changes or supports meaning."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1la08-p-031",
-    "curriculumCode": "AC9E1LA08",
-    "bank": "practice",
-    "skill": "ac9e1la08 01 apply",
-    "printable": true,
-    "type": "single",
-    "question": "Which choice would best use this skill in a new example?",
-    "audioPrompt": "Which choice would best use this skill in a new example?",
-    "visual": "📖 Name an image contribution; 🔎 image; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Name an image contribution; 🔎 image; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la08.svg#ac9e1la08-p-001\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la08.svg#ac9e1la08-p-001",
-      "alt_text": "📖 Name an image contribution; 🔎 image; ✅ choose with evidence"
-    },
-    "answers": [
-      "It may establish stormy setting, danger or worried meaning, supported by visible details",
-      "It may establish stormy setting, danger or worried mood, supported by visible details",
-      "It may establish stormy setting, danger or worried detail, supported by visible details"
-    ],
-    "correct": 1,
-    "explanation": "It may establish stormy setting, danger or worried mood, supported by visible details uses the skill correctly. Explain how the image changes or supports meaning.\nHint: Explain how the image changes or supports meaning.",
-    "structuredExplanation": {
-      "summary": "It may establish stormy setting, danger or worried mood, supported by visible details uses the skill correctly. Explain how the image changes or supports meaning.",
-      "hint": "Explain how the image changes or supports meaning."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1la08-p-032",
-    "curriculumCode": "AC9E1LA08",
-    "bank": "practice",
-    "skill": "ac9e1la08 02 apply",
-    "printable": true,
-    "type": "single",
-    "question": "Which choice would best use this skill in a new example?",
-    "audioPrompt": "Which choice would best use this skill in a new example?",
-    "visual": "📖 Match image types and jobs; 🔎 words; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Match image types and jobs; 🔎 words; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la08.svg#ac9e1la08-p-003\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la08.svg#ac9e1la08-p-003",
-      "alt_text": "📖 Match image types and jobs; 🔎 words; ✅ choose with evidence"
-    },
-    "answers": [
-      "Ignore words.",
-      "Use one correct image only.",
-      "Each image type matches its purpose-related contribution"
-    ],
-    "correct": 2,
-    "explanation": "Each image type matches its purpose-related contribution uses the skill correctly. Read words and image together.\nHint: Read words and image together.",
-    "structuredExplanation": {
-      "summary": "Each image type matches its purpose-related contribution uses the skill correctly. Read words and image together.",
-      "hint": "Read words and image together."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1la08-p-033",
-    "curriculumCode": "AC9E1LA08",
-    "bank": "practice",
-    "skill": "ac9e1la08 03 apply",
-    "printable": true,
-    "type": "single",
-    "question": "Which choice would best use this skill in a new example?",
-    "audioPrompt": "Which choice would best use this skill in a new example?",
-    "visual": "📖 Compare two frog images; 🔎 meaning; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Compare two frog images; 🔎 meaning; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la08.svg#ac9e1la08-p-005\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la08.svg#ac9e1la08-p-005",
-      "alt_text": "📖 Compare two frog images; 🔎 meaning; ✅ choose with evidence"
-    },
-    "answers": [
-      "Diagram gives factual parts/features; illustration develops character, setting or event",
-      "Use one correct image only.",
-      "Use describing only."
-    ],
-    "correct": 0,
-    "explanation": "Diagram gives factual parts/features; illustration develops character, setting or event uses the skill correctly. Different images can support different meanings.\nHint: Different images can support different meanings.",
-    "structuredExplanation": {
-      "summary": "Diagram gives factual parts/features; illustration develops character, setting or event uses the skill correctly. Different images can support different meanings.",
-      "hint": "Different images can support different meanings."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1la08-p-034",
-    "curriculumCode": "AC9E1LA08",
-    "bank": "practice",
-    "skill": "ac9e1la08 04 apply",
-    "printable": true,
-    "type": "single",
-    "question": "Which choice would best use this skill in a new example?",
-    "audioPrompt": "Which choice would best use this skill in a new example?",
-    "visual": "📖 Use a caption clue; 🔎 mood; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Use a caption clue; 🔎 mood; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la08.svg#ac9e1la08-p-007\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la08.svg#ac9e1la08-p-007",
-      "alt_text": "📖 Use a caption clue; 🔎 mood; ✅ choose with evidence"
-    },
-    "answers": [
-      "Seedling after 7 days",
-      "It identifies time and stage, helping readers interpret the image as evidence of change",
-      "Use describing only."
-    ],
-    "correct": 1,
-    "explanation": "It identifies time and stage, helping readers interpret the image as evidence of change uses the skill correctly. Explain how the image changes or supports meaning.\nHint: Explain how the image changes or supports meaning.",
-    "structuredExplanation": {
-      "summary": "It identifies time and stage, helping readers interpret the image as evidence of change uses the skill correctly. Explain how the image changes or supports meaning.",
-      "hint": "Explain how the image changes or supports meaning."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1la08-p-035",
-    "curriculumCode": "AC9E1LA08",
-    "bank": "practice",
-    "skill": "ac9e1la08 05 apply",
-    "printable": true,
-    "type": "single",
-    "question": "Which choice would best use this skill in a new example?",
-    "audioPrompt": "Which choice would best use this skill in a new example?",
-    "visual": "📖 Order image reading; 🔎 detail; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Order image reading; 🔎 detail; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la08.svg#ac9e1la08-p-009\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la08.svg#ac9e1la08-p-009",
-      "alt_text": "📖 Order image reading; 🔎 detail; ✅ choose with evidence"
-    },
-    "answers": [
-      "decide contribution → connect to text → Read title/caption and notice details",
-      "Ignore words.",
-      "Read title/caption and notice details → connect to text → decide contribution"
-    ],
-    "correct": 2,
-    "explanation": "Read title/caption and notice details → connect to text → decide contribution uses the skill correctly. Read words and image together.\nHint: Read words and image together.",
-    "structuredExplanation": {
-      "summary": "Read title/caption and notice details → connect to text → decide contribution uses the skill correctly. Read words and image together.",
-      "hint": "Read words and image together."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1la08-p-036",
-    "curriculumCode": "AC9E1LA08",
-    "bank": "practice",
-    "skill": "ac9e1la08 06 apply",
-    "printable": true,
-    "type": "single",
-    "question": "Which choice would best use this skill in a new example?",
-    "audioPrompt": "Which choice would best use this skill in a new example?",
-    "visual": "📖 Draw for two purposes; 🔎 image; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Draw for two purposes; 🔎 image; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la08.svg#ac9e1la08-p-011\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la08.svg#ac9e1la08-p-011",
-      "alt_text": "📖 Draw for two purposes; 🔎 image; ✅ choose with evidence"
-    },
-    "answers": [
-      "Safety image highlights labelled equipment/action",
-      "Safety meaning highlights labelled equipment/action",
-      "Safety detail highlights labelled equipment/action"
-    ],
-    "correct": 0,
-    "explanation": "Safety image highlights labelled equipment/action uses the skill correctly. Different images can support different meanings.\nHint: Different images can support different meanings.",
-    "structuredExplanation": {
-      "summary": "Safety image highlights labelled equipment/action uses the skill correctly. Different images can support different meanings.",
-      "hint": "Different images can support different meanings."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1la08-p-037",
-    "curriculumCode": "AC9E1LA08",
-    "bank": "practice",
-    "skill": "ac9e1la08 07 apply",
-    "printable": true,
-    "type": "single",
-    "question": "Which choice would best use this skill in a new example?",
-    "audioPrompt": "Which choice would best use this skill in a new example?",
-    "visual": "📖 Find unsupported meaning; 🔎 words; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Find unsupported meaning; 🔎 words; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la08.svg#ac9e1la08-p-013\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la08.svg#ac9e1la08-p-013",
-      "alt_text": "📖 Find unsupported meaning; 🔎 words; ✅ choose with evidence"
-    },
-    "answers": [
-      "Use describing only.",
-      "No; it shows one pictured response and may be staged; it cannot prove a universal claim",
-      "Ignore words."
-    ],
-    "correct": 1,
-    "explanation": "No; it shows one pictured response and may be staged; it cannot prove a universal claim uses the skill correctly. Explain how the image changes or supports meaning.\nHint: Explain how the image changes or supports meaning.",
-    "structuredExplanation": {
-      "summary": "No; it shows one pictured response and may be staged; it cannot prove a universal claim uses the skill correctly. Explain how the image changes or supports meaning.",
-      "hint": "Explain how the image changes or supports meaning."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1la08-p-038",
-    "curriculumCode": "AC9E1LA08",
-    "bank": "practice",
-    "skill": "ac9e1la08 08 apply",
-    "printable": true,
-    "type": "single",
-    "question": "Which choice would best use this skill in a new example?",
-    "audioPrompt": "Which choice would best use this skill in a new example?",
-    "visual": "📖 Choose an informative image; 🔎 meaning; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Choose an informative image; 🔎 meaning; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la08.svg#ac9e1la08-p-015\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la08.svg#ac9e1la08-p-015",
-      "alt_text": "📖 Choose an informative image; 🔎 meaning; ✅ choose with evidence"
-    },
-    "answers": [
-      "Ignore words.",
-      "Use one correct image only.",
-      "Step pictures because they show action/order needed to complete the task"
-    ],
-    "correct": 2,
-    "explanation": "Step pictures because they show action/order needed to complete the task uses the skill correctly. Read words and image together.\nHint: Read words and image together.",
-    "structuredExplanation": {
-      "summary": "Step pictures because they show action/order needed to complete the task uses the skill correctly. Read words and image together.",
-      "hint": "Read words and image together."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1la08-p-039",
-    "curriculumCode": "AC9E1LA08",
-    "bank": "practice",
-    "skill": "ac9e1la08 09 apply",
-    "printable": true,
-    "type": "single",
-    "question": "Which choice would best use this skill in a new example?",
-    "audioPrompt": "Which choice would best use this skill in a new example?",
-    "visual": "📖 Infer a character feeling; 🔎 mood; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Infer a character feeling; 🔎 mood; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la08.svg#ac9e1la08-p-017\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la08.svg#ac9e1la08-p-017",
-      "alt_text": "📖 Infer a character feeling; 🔎 mood; ✅ choose with evidence"
-    },
-    "answers": [
-      "A plausible feeling such as sad/disappointed with both visual details cited",
-      "Use one correct image only.",
-      "Use describing only."
-    ],
-    "correct": 0,
-    "explanation": "A plausible feeling such as sad/disappointed with both visual details cited uses the skill correctly. Different images can support different meanings.\nHint: Different images can support different meanings.",
-    "structuredExplanation": {
-      "summary": "A plausible feeling such as sad/disappointed with both visual details cited uses the skill correctly. Different images can support different meanings.",
-      "hint": "Different images can support different meanings."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1la08-p-040",
-    "curriculumCode": "AC9E1LA08",
-    "bank": "practice",
-    "skill": "ac9e1la08 10 apply",
-    "printable": true,
-    "type": "single",
-    "question": "Which choice would best use this skill in a new example?",
-    "audioPrompt": "Which choice would best use this skill in a new example?",
-    "visual": "📖 Match fresh visuals; 🔎 detail; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Match fresh visuals; 🔎 detail; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la08.svg#ac9e1la08-p-019\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la08.svg#ac9e1la08-p-019",
-      "alt_text": "📖 Match fresh visuals; 🔎 detail; ✅ choose with evidence"
-    },
-    "answers": [
-      "Map ↔ detail; close-up ↔ character words; speech bubble ↔ location",
-      "Map ↔ location; close-up ↔ detail; speech bubble ↔ character words",
-      "Use describing only."
-    ],
-    "correct": 1,
-    "explanation": "Map ↔ location; close-up ↔ detail; speech bubble ↔ character words uses the skill correctly. Explain how the image changes or supports meaning.\nHint: Explain how the image changes or supports meaning.",
-    "structuredExplanation": {
-      "summary": "Map ↔ location; close-up ↔ detail; speech bubble ↔ character words uses the skill correctly. Explain how the image changes or supports meaning.",
-      "hint": "Explain how the image changes or supports meaning."
+      "summary": "Relevant detail must be visible to support identification.",
+      "hint": "Read the whole example and check what the question asks."
     },
     "qualitySchema": "production-v1"
   }

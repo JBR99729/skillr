@@ -1,14 +1,14 @@
 "use strict";
 window.skillrPracticeQuestions = [
   {
-    "id": "ac9e1la09-p-001",
+    "id": "ac9e1la09-er2-p-001",
     "curriculumCode": "AC9E1LA09",
     "bank": "practice",
-    "skill": "recognise the vocabulary of learning area topics",
+    "skill": "learning-area vocabulary in context",
     "printable": true,
     "type": "single",
-    "question": "Mia is learning about maths. Which word belongs?",
-    "audioPrompt": "Mia is learning about maths. Which word belongs?",
+    "question": "In a plant lesson, which word names the part usually growing into the soil?",
+    "audioPrompt": "In a plant lesson, which word names the part usually growing into the soil?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -16,269 +16,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "cup",
-      "mix",
-      "add"
+      "root",
+      "roof",
+      "route"
     ],
-    "correct": 2,
-    "explanation": "add is the best answer.",
-    "structuredExplanation": {
-      "summary": "add is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
     "difficulty": 1,
     "difficultyTier": "recognise",
-    "sequencePriority": 1
-  },
-  {
-    "id": "ac9e1la09-p-002",
-    "curriculumCode": "AC9E1LA09",
-    "bank": "practice",
-    "skill": "recognise the vocabulary of learning area topics",
-    "printable": true,
-    "type": "single",
-    "question": "Ben is learning about science. Which word belongs?",
-    "audioPrompt": "Ben is learning about science. Which word belongs?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "rhyme",
-      "observe",
-      "book"
-    ],
-    "correct": 1,
-    "explanation": "observe is the best answer.",
-    "structuredExplanation": {
-      "summary": "observe is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 2
-  },
-  {
-    "id": "ac9e1la09-p-003",
-    "curriculumCode": "AC9E1LA09",
-    "bank": "practice",
-    "skill": "recognise the vocabulary of learning area topics",
-    "printable": true,
-    "type": "single",
-    "question": "Sam is learning about maps. Which word belongs?",
-    "audioPrompt": "Sam is learning about maps. Which word belongs?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "ball",
-      "direction",
-      "character"
-    ],
-    "correct": 1,
-    "explanation": "direction is the best answer.",
-    "structuredExplanation": {
-      "summary": "direction is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 3
-  },
-  {
-    "id": "ac9e1la09-p-004",
-    "curriculumCode": "AC9E1LA09",
-    "bank": "practice",
-    "skill": "recognise the vocabulary of learning area topics",
-    "printable": true,
-    "type": "single",
-    "question": "Kim is learning about weather. Which word belongs?",
-    "audioPrompt": "Kim is learning about weather. Which word belongs?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "chapter",
-      "rainfall",
-      "kite"
-    ],
-    "correct": 1,
-    "explanation": "rainfall is the best answer.",
-    "structuredExplanation": {
-      "summary": "rainfall is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 4
-  },
-  {
-    "id": "ac9e1la09-p-005",
-    "curriculumCode": "AC9E1LA09",
-    "bank": "practice",
-    "skill": "recognise the vocabulary of learning area topics",
-    "printable": true,
-    "type": "single",
-    "question": "Ava is learning about plants. Which word belongs?",
-    "audioPrompt": "Ava is learning about plants. Which word belongs?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "full stop",
-      "roots",
-      "sock"
-    ],
-    "correct": 1,
-    "explanation": "roots is the best answer.",
-    "structuredExplanation": {
-      "summary": "roots is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 5
-  },
-  {
-    "id": "ac9e1la09-p-006",
-    "curriculumCode": "AC9E1LA09",
-    "bank": "practice",
-    "skill": "recognise the vocabulary of learning area topics",
-    "printable": true,
-    "type": "single",
-    "question": "Leo is learning about time. Which word belongs?",
-    "audioPrompt": "Leo is learning about time. Which word belongs?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "map",
-      "habitat",
-      "hour"
-    ],
-    "correct": 2,
-    "explanation": "hour is the best answer.",
-    "structuredExplanation": {
-      "summary": "hour is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 6
-  },
-  {
-    "id": "ac9e1la09-p-007",
-    "curriculumCode": "AC9E1LA09",
-    "bank": "practice",
-    "skill": "recognise the vocabulary of learning area topics",
-    "printable": true,
-    "type": "single",
-    "question": "Zoe is learning about shapes. Which word belongs?",
-    "audioPrompt": "Zoe is learning about shapes. Which word belongs?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "author",
-      "corner",
-      "hat"
-    ],
-    "correct": 1,
-    "explanation": "corner is the best answer.",
-    "structuredExplanation": {
-      "summary": "corner is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 7
-  },
-  {
-    "id": "ac9e1la09-p-008",
-    "curriculumCode": "AC9E1LA09",
-    "bank": "practice",
-    "skill": "recognise the vocabulary of learning area topics",
-    "printable": true,
-    "type": "single",
-    "question": "Max is learning about animals. Which word belongs?",
-    "audioPrompt": "Max is learning about animals. Which word belongs?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "total",
-      "habitat",
-      "bag"
-    ],
-    "correct": 1,
-    "explanation": "habitat is the best answer.",
-    "structuredExplanation": {
-      "summary": "habitat is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 8
-  },
-  {
-    "id": "ac9e1la09-p-009",
-    "curriculumCode": "AC9E1LA09",
-    "bank": "practice",
-    "skill": "recognise the vocabulary of learning area topics",
-    "printable": true,
-    "type": "single",
-    "question": "Ben is learning about maths. Which word belongs?",
-    "audioPrompt": "Ben is learning about maths. Which word belongs?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "add",
-      "mix",
-      "cup"
-    ],
+    "sequencePriority": 1,
     "correct": 0,
-    "explanation": "add is the best answer.",
+    "explanation": "Root is the plant term for the part that anchors it and takes in water.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "add is the best answer."
+      "summary": "Root is the plant term for the part that anchors it and takes in water.",
+      "hint": "Read the whole example and check what the question asks."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 9
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1la09-p-010",
+    "id": "ac9e1la09-er2-p-002",
     "curriculumCode": "AC9E1LA09",
     "bank": "practice",
-    "skill": "recognise the vocabulary of learning area topics",
+    "skill": "learning-area vocabulary in context",
     "printable": true,
     "type": "single",
-    "question": "Sam is learning about science. Which word belongs?",
-    "audioPrompt": "Sam is learning about science. Which word belongs?",
+    "question": "'We will measure the length of the ribbon.' What does length mean here?",
+    "audioPrompt": "'We will measure the length of the ribbon.' What does length mean here?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -286,59 +47,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "book",
-      "rhyme",
-      "observe"
+      "How bright it is.",
+      "How long it is.",
+      "How heavy it is."
     ],
-    "correct": 2,
-    "explanation": "observe is the best answer.",
-    "structuredExplanation": {
-      "summary": "observe is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
     "difficulty": 1,
     "difficultyTier": "recognise",
-    "sequencePriority": 10
-  },
-  {
-    "id": "ac9e1la09-p-011",
-    "curriculumCode": "AC9E1LA09",
-    "bank": "practice",
-    "skill": "recognise the vocabulary of learning area topics",
-    "printable": true,
-    "type": "single",
-    "question": "Kim is learning about maps. Which word belongs?",
-    "audioPrompt": "Kim is learning about maps. Which word belongs?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "character",
-      "direction",
-      "ball"
-    ],
+    "sequencePriority": 2,
     "correct": 1,
-    "explanation": "direction is the best answer.",
+    "explanation": "Length is a measurement of how long something is.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "direction is the best answer."
+      "summary": "Length is a measurement of how long something is.",
+      "hint": "Read the whole example and check what the question asks."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 11
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1la09-p-012",
+    "id": "ac9e1la09-er2-p-003",
     "curriculumCode": "AC9E1LA09",
     "bank": "practice",
-    "skill": "recognise the vocabulary of learning area topics",
+    "skill": "learning-area vocabulary in context",
     "printable": true,
     "type": "single",
-    "question": "Ava is learning about weather. Which word belongs?",
-    "audioPrompt": "Ava is learning about weather. Which word belongs?",
+    "question": "In music, a teacher says, 'Keep a steady beat.' What does beat mean?",
+    "audioPrompt": "In music, a teacher says, 'Keep a steady beat.' What does beat mean?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -346,59 +78,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "rainfall",
-      "chapter",
-      "kite"
+      "The colour of an instrument.",
+      "The words printed on a cover.",
+      "A regular pulse in the music."
     ],
-    "correct": 0,
-    "explanation": "rainfall is the best answer.",
-    "structuredExplanation": {
-      "summary": "rainfall is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
     "difficulty": 1,
     "difficultyTier": "recognise",
-    "sequencePriority": 12
-  },
-  {
-    "id": "ac9e1la09-p-013",
-    "curriculumCode": "AC9E1LA09",
-    "bank": "practice",
-    "skill": "recognise the vocabulary of learning area topics",
-    "printable": true,
-    "type": "single",
-    "question": "Leo is learning about plants. Which word belongs?",
-    "audioPrompt": "Leo is learning about plants. Which word belongs?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "sock",
-      "full stop",
-      "roots"
-    ],
+    "sequencePriority": 3,
     "correct": 2,
-    "explanation": "roots is the best answer.",
+    "explanation": "Beat names the regular pulse that can be clapped or tapped.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "roots is the best answer."
+      "summary": "Beat names the regular pulse that can be clapped or tapped.",
+      "hint": "Read the whole example and check what the question asks."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 13
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1la09-p-014",
+    "id": "ac9e1la09-er2-p-004",
     "curriculumCode": "AC9E1LA09",
     "bank": "practice",
-    "skill": "recognise the vocabulary of learning area topics",
+    "skill": "learning-area vocabulary in context",
     "printable": true,
     "type": "single",
-    "question": "Zoe is learning about time. Which word belongs?",
-    "audioPrompt": "Zoe is learning about time. Which word belongs?",
+    "question": "Which word belongs with circle and triangle in a shapes lesson?",
+    "audioPrompt": "Which word belongs with circle and triangle in a shapes lesson?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -406,29 +109,61 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "habitat",
-      "hour",
-      "map"
+      "square",
+      "sentence",
+      "seedling"
     ],
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 4,
+    "correct": 0,
+    "explanation": "Square is another shape, so it belongs in this topic group.\nHint: Read the whole example and check what the question asks.",
+    "structuredExplanation": {
+      "summary": "Square is another shape, so it belongs in this topic group.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1la09-er2-p-005",
+    "curriculumCode": "AC9E1LA09",
+    "bank": "practice",
+    "skill": "learning-area vocabulary in context",
+    "printable": true,
+    "type": "single",
+    "question": "In a weather report, what does rainfall refer to?",
+    "audioPrompt": "In a weather report, what does rainfall refer to?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "The speed of a car.",
+      "The rain that falls in a place.",
+      "The height of a tree."
+    ],
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 5,
     "correct": 1,
-    "explanation": "hour is the best answer.",
+    "explanation": "Rainfall is vocabulary about rain received in an area.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "hour is the best answer."
+      "summary": "Rainfall is vocabulary about rain received in an area.",
+      "hint": "Read the whole example and check what the question asks."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 14
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1la09-p-015",
+    "id": "ac9e1la09-er2-p-006",
     "curriculumCode": "AC9E1LA09",
     "bank": "practice",
-    "skill": "recognise the vocabulary of learning area topics",
+    "skill": "learning-area vocabulary in context",
     "printable": true,
     "type": "single",
-    "question": "Max is learning about shapes. Which word belongs?",
-    "audioPrompt": "Max is learning about shapes. Which word belongs?",
+    "question": "In art, a child makes a pattern. What are they making?",
+    "audioPrompt": "In art, a child makes a pattern. What are they making?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -436,29 +171,61 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "corner",
-      "author",
-      "hat"
+      "A list of book titles.",
+      "A way to weigh a stone.",
+      "A design with a repeated rule or arrangement."
     ],
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 6,
+    "correct": 2,
+    "explanation": "Pattern describes an arrangement, often with repeated elements.\nHint: Read the whole example and check what the question asks.",
+    "structuredExplanation": {
+      "summary": "Pattern describes an arrangement, often with repeated elements.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1la09-er2-p-007",
+    "curriculumCode": "AC9E1LA09",
+    "bank": "practice",
+    "skill": "learning-area vocabulary in context",
+    "printable": true,
+    "type": "single",
+    "question": "An animal's habitat is the place where it lives. Which phrase describes a habitat?",
+    "audioPrompt": "An animal's habitat is the place where it lives. Which phrase describes a habitat?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "A pond where frogs live.",
+      "A frog's jumping action.",
+      "The colour of a frog's eyes."
+    ],
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 7,
     "correct": 0,
-    "explanation": "corner is the best answer.",
+    "explanation": "Habitat refers to a living place, not an action or body feature.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "corner is the best answer."
+      "summary": "Habitat refers to a living place, not an action or body feature.",
+      "hint": "Read the whole example and check what the question asks."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 15
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1la09-p-016",
+    "id": "ac9e1la09-er2-p-008",
     "curriculumCode": "AC9E1LA09",
     "bank": "practice",
-    "skill": "recognise the vocabulary of learning area topics",
+    "skill": "learning-area vocabulary in context",
     "printable": true,
     "type": "single",
-    "question": "Mia is learning about animals. Which word belongs?",
-    "audioPrompt": "Mia is learning about animals. Which word belongs?",
+    "question": "In a science lesson, 'Observe the shell' means what?",
+    "audioPrompt": "In a science lesson, 'Observe the shell' means what?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -466,29 +233,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "total",
-      "bag",
-      "habitat"
+      "Hide it before describing it.",
+      "Look closely to notice its features.",
+      "Guess without looking."
     ],
-    "correct": 2,
-    "explanation": "habitat is the best answer.",
-    "structuredExplanation": {
-      "summary": "habitat is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
     "difficulty": 1,
     "difficultyTier": "recognise",
-    "sequencePriority": 16
+    "sequencePriority": 8,
+    "correct": 1,
+    "explanation": "Observe means pay close attention to what can be noticed.\nHint: Read the whole example and check what the question asks.",
+    "structuredExplanation": {
+      "summary": "Observe means pay close attention to what can be noticed.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1la09-p-017",
+    "id": "ac9e1la09-er2-p-009",
     "curriculumCode": "AC9E1LA09",
     "bank": "practice",
-    "skill": "recognise the vocabulary of learning area topics",
+    "skill": "learning-area vocabulary in context",
     "printable": true,
     "type": "single",
-    "question": "Sam is learning about maths. Which word belongs?",
-    "audioPrompt": "Sam is learning about maths. Which word belongs?",
+    "question": "The class sorts objects by texture. Which pair describes texture?",
+    "audioPrompt": "The class sorts objects by texture. Which pair describes texture?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -496,29 +264,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "mix",
-      "cup",
-      "add"
+      "yesterday and tomorrow",
+      "left and right",
+      "rough and smooth"
     ],
-    "correct": 2,
-    "explanation": "add is the best answer.",
-    "structuredExplanation": {
-      "summary": "add is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
     "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 17
+    "difficultyTier": "apply",
+    "sequencePriority": 9,
+    "correct": 2,
+    "explanation": "Texture concerns how a surface feels.\nHint: Read the whole example and check what the question asks.",
+    "structuredExplanation": {
+      "summary": "Texture concerns how a surface feels.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1la09-p-018",
+    "id": "ac9e1la09-er2-p-010",
     "curriculumCode": "AC9E1LA09",
     "bank": "practice",
-    "skill": "recognise the vocabulary of learning area topics",
+    "skill": "learning-area vocabulary in context",
     "printable": true,
     "type": "single",
-    "question": "Kim is learning about science. Which word belongs?",
-    "audioPrompt": "Kim is learning about science. Which word belongs?",
+    "question": "A teacher asks for the total after joining two groups. What are you finding?",
+    "audioPrompt": "A teacher asks for the total after joining two groups. What are you finding?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -526,29 +295,123 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "observe",
-      "book",
+      "How many there are altogether.",
+      "How many groups were empty.",
+      "Which object is the longest."
+    ],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 10,
+    "correct": 0,
+    "explanation": "Total means the whole amount being counted.\nHint: Read the whole example and check what the question asks.",
+    "structuredExplanation": {
+      "summary": "Total means the whole amount being counted.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1la09-er2-p-011",
+    "curriculumCode": "AC9E1LA09",
+    "bank": "practice",
+    "skill": "learning-area vocabulary in context",
+    "printable": true,
+    "type": "single",
+    "question": "In a movement lesson, balance means staying steady. Which action shows this meaning?",
+    "audioPrompt": "In a movement lesson, balance means staying steady. Which action shows this meaning?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Drawing a red line.",
+      "Standing steadily on one foot.",
+      "Adding two numbers."
+    ],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 11,
+    "correct": 1,
+    "explanation": "The movement meaning is keeping the body steady.\nHint: Read the whole example and check what the question asks.",
+    "structuredExplanation": {
+      "summary": "The movement meaning is keeping the body steady.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1la09-er2-p-012",
+    "curriculumCode": "AC9E1LA09",
+    "bank": "practice",
+    "skill": "learning-area vocabulary in context",
+    "printable": true,
+    "type": "single",
+    "question": "'Fold the paper along the edge.' What is an edge here?",
+    "audioPrompt": "'Fold the paper along the edge.' What is an edge here?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "The middle of the paper.",
+      "The weight of the paper.",
+      "The boundary of the paper."
+    ],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 12,
+    "correct": 2,
+    "explanation": "Edge names the outside boundary in this context.\nHint: Read the whole example and check what the question asks.",
+    "structuredExplanation": {
+      "summary": "Edge names the outside boundary in this context.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1la09-er2-p-013",
+    "curriculumCode": "AC9E1LA09",
+    "bank": "practice",
+    "skill": "learning-area vocabulary in context",
+    "printable": true,
+    "type": "single",
+    "question": "Which word belongs with stem, leaf and flower?",
+    "audioPrompt": "Which word belongs with stem, leaf and flower?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "root",
+      "ruler",
       "rhyme"
     ],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 13,
     "correct": 0,
-    "explanation": "observe is the best answer.",
+    "explanation": "These words name parts of a plant.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "observe is the best answer."
+      "summary": "These words name parts of a plant.",
+      "hint": "Read the whole example and check what the question asks."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 18
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1la09-p-019",
+    "id": "ac9e1la09-er2-p-014",
     "curriculumCode": "AC9E1LA09",
     "bank": "practice",
-    "skill": "recognise the vocabulary of learning area topics",
+    "skill": "learning-area vocabulary in context",
     "printable": true,
     "type": "single",
-    "question": "Ava is learning about maps. Which word belongs?",
-    "audioPrompt": "Ava is learning about maps. Which word belongs?",
+    "question": "In music, loud and soft describe what?",
+    "audioPrompt": "In music, loud and soft describe what?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -556,29 +419,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "ball",
-      "direction",
-      "character"
+      "Which colour the music page is.",
+      "How strong or quiet the sound is.",
+      "How long an instrument is."
     ],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 14,
     "correct": 1,
-    "explanation": "direction is the best answer.",
+    "explanation": "These words describe sound level in music.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "direction is the best answer."
+      "summary": "These words describe sound level in music.",
+      "hint": "Read the whole example and check what the question asks."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 19
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1la09-p-020",
+    "id": "ac9e1la09-er2-p-015",
     "curriculumCode": "AC9E1LA09",
     "bank": "practice",
-    "skill": "recognise the vocabulary of learning area topics",
+    "skill": "learning-area vocabulary in context",
     "printable": true,
     "type": "single",
-    "question": "Leo is learning about weather. Which word belongs?",
-    "audioPrompt": "Leo is learning about weather. Which word belongs?",
+    "question": "'Use a symbol to show the picnic place on the map.' What does symbol mean?",
+    "audioPrompt": "'Use a symbol to show the picnic place on the map.' What does symbol mean?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -586,29 +450,61 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "rainfall",
-      "kite",
-      "chapter"
+      "The real picnic table placed on paper.",
+      "Every word in the title.",
+      "A small sign or picture standing for something."
     ],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 15,
+    "correct": 2,
+    "explanation": "A map symbol represents a place or feature.\nHint: Read the whole example and check what the question asks.",
+    "structuredExplanation": {
+      "summary": "A map symbol represents a place or feature.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1la09-er2-p-016",
+    "curriculumCode": "AC9E1LA09",
+    "bank": "practice",
+    "skill": "learning-area vocabulary in context",
+    "printable": true,
+    "type": "single",
+    "question": "In a maths lesson, equal groups means groups with what?",
+    "audioPrompt": "In a maths lesson, equal groups means groups with what?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "The same number in each.",
+      "The same colour only.",
+      "Different numbers in each."
+    ],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 16,
     "correct": 0,
-    "explanation": "rainfall is the best answer.",
+    "explanation": "Equal describes matching amounts here.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "rainfall is the best answer."
+      "summary": "Equal describes matching amounts here.",
+      "hint": "Read the whole example and check what the question asks."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 20
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1la09-p-021",
+    "id": "ac9e1la09-er2-p-017",
     "curriculumCode": "AC9E1LA09",
     "bank": "practice",
-    "skill": "recognise the vocabulary of learning area topics",
+    "skill": "learning-area vocabulary in context",
     "printable": true,
     "type": "single",
-    "question": "Zoe is learning about plants. Which word belongs?",
-    "audioPrompt": "Zoe is learning about plants. Which word belongs?",
+    "question": "'Watch the shadow move across the path.' In this science sentence, what is a shadow?",
+    "audioPrompt": "'Watch the shadow move across the path.' In this science sentence, what is a shadow?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -616,29 +512,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "sock",
-      "roots",
-      "full stop"
+      "A painted line on the path.",
+      "A darker area where light is blocked.",
+      "A wet mark left by rain."
     ],
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 17,
     "correct": 1,
-    "explanation": "roots is the best answer.",
+    "explanation": "Shadow is the topic word for a darker area made by blocked light.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "roots is the best answer."
+      "summary": "Shadow is the topic word for a darker area made by blocked light.",
+      "hint": "Read the whole example and check what the question asks."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 21
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1la09-p-022",
+    "id": "ac9e1la09-er2-p-018",
     "curriculumCode": "AC9E1LA09",
     "bank": "practice",
-    "skill": "recognise the vocabulary of learning area topics",
+    "skill": "learning-area vocabulary in context",
     "printable": true,
     "type": "single",
-    "question": "Max is learning about time. Which word belongs?",
-    "audioPrompt": "Max is learning about time. Which word belongs?",
+    "question": "In art you mix red and yellow. In cooking you mix flour and water. What does mix mean in both lessons?",
+    "audioPrompt": "In art you mix red and yellow. In cooking you mix flour and water. What does mix mean in both lessons?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -646,29 +543,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "habitat",
-      "map",
-      "hour"
+      "Keep things in separate piles.",
+      "Choose the longest thing.",
+      "Combine things together."
     ],
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 18,
     "correct": 2,
-    "explanation": "hour is the best answer.",
+    "explanation": "The same useful word describes combining materials in both contexts.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "hour is the best answer."
+      "summary": "The same useful word describes combining materials in both contexts.",
+      "hint": "Read the whole example and check what the question asks."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 22
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1la09-p-023",
+    "id": "ac9e1la09-er2-p-019",
     "curriculumCode": "AC9E1LA09",
     "bank": "practice",
-    "skill": "recognise the vocabulary of learning area topics",
+    "skill": "learning-area vocabulary in context",
     "printable": true,
     "type": "single",
-    "question": "Mia is learning about shapes. Which word belongs?",
-    "audioPrompt": "Mia is learning about shapes. Which word belongs?",
+    "question": "A child puts 'heavy' under the heading 'Length words'. Where does it fit better?",
+    "audioPrompt": "A child puts 'heavy' under the heading 'Length words'. Where does it fit better?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -676,179 +574,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "author",
-      "corner",
-      "hat"
+      "Words about mass or weight.",
+      "Words about direction.",
+      "Words about colour."
     ],
-    "correct": 1,
-    "explanation": "corner is the best answer.",
-    "structuredExplanation": {
-      "summary": "corner is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 23
-  },
-  {
-    "id": "ac9e1la09-p-024",
-    "curriculumCode": "AC9E1LA09",
-    "bank": "practice",
-    "skill": "recognise the vocabulary of learning area topics",
-    "printable": true,
-    "type": "single",
-    "question": "Ben is learning about animals. Which word belongs?",
-    "audioPrompt": "Ben is learning about animals. Which word belongs?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "total",
-      "habitat",
-      "bag"
-    ],
-    "correct": 1,
-    "explanation": "habitat is the best answer.",
-    "structuredExplanation": {
-      "summary": "habitat is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 24
-  },
-  {
-    "id": "ac9e1la09-p-025",
-    "curriculumCode": "AC9E1LA09",
-    "bank": "practice",
-    "skill": "recognise the vocabulary of learning area topics",
-    "printable": true,
-    "type": "single",
-    "question": "Kim is learning about maths. Which word belongs?",
-    "audioPrompt": "Kim is learning about maths. Which word belongs?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "cup",
-      "mix",
-      "add"
-    ],
-    "correct": 2,
-    "explanation": "add is the best answer.",
-    "structuredExplanation": {
-      "summary": "add is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 25
-  },
-  {
-    "id": "ac9e1la09-p-026",
-    "curriculumCode": "AC9E1LA09",
-    "bank": "practice",
-    "skill": "recognise the vocabulary of learning area topics",
-    "printable": true,
-    "type": "single",
-    "question": "Ava is learning about science. Which word belongs?",
-    "audioPrompt": "Ava is learning about science. Which word belongs?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "rhyme",
-      "observe",
-      "book"
-    ],
-    "correct": 1,
-    "explanation": "observe is the best answer.",
-    "structuredExplanation": {
-      "summary": "observe is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 26
-  },
-  {
-    "id": "ac9e1la09-p-027",
-    "curriculumCode": "AC9E1LA09",
-    "bank": "practice",
-    "skill": "recognise the vocabulary of learning area topics",
-    "printable": true,
-    "type": "single",
-    "question": "Leo is learning about maps. Which word belongs?",
-    "audioPrompt": "Leo is learning about maps. Which word belongs?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "character",
-      "ball",
-      "direction"
-    ],
-    "correct": 2,
-    "explanation": "direction is the best answer.",
-    "structuredExplanation": {
-      "summary": "direction is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 27
-  },
-  {
-    "id": "ac9e1la09-p-028",
-    "curriculumCode": "AC9E1LA09",
-    "bank": "practice",
-    "skill": "recognise the vocabulary of learning area topics",
-    "printable": true,
-    "type": "single",
-    "question": "Zoe is learning about weather. Which word belongs?",
-    "audioPrompt": "Zoe is learning about weather. Which word belongs?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "rainfall",
-      "kite",
-      "chapter"
-    ],
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 19,
     "correct": 0,
-    "explanation": "rainfall is the best answer.",
+    "explanation": "Heavy describes how much something weighs, not how long it is.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "rainfall is the best answer."
+      "summary": "Heavy describes how much something weighs, not how long it is.",
+      "hint": "Read the whole example and check what the question asks."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 28
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1la09-p-029",
+    "id": "ac9e1la09-er2-p-020",
     "curriculumCode": "AC9E1LA09",
     "bank": "practice",
-    "skill": "recognise the vocabulary of learning area topics",
+    "skill": "learning-area vocabulary in context",
     "printable": true,
     "type": "single",
-    "question": "Max is learning about plants. Which word belongs?",
-    "audioPrompt": "Max is learning about plants. Which word belongs?",
+    "question": "A lesson says, 'A seedling is a young plant.' Which sentence uses seedling correctly?",
+    "audioPrompt": "A lesson says, 'A seedling is a young plant.' Which sentence uses seedling correctly?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -856,59 +605,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "sock",
-      "full stop",
-      "roots"
+      "The seedling is the watering can.",
+      "The seedling has just grown its first leaves.",
+      "The seedling is the stone beside the plant."
     ],
-    "correct": 2,
-    "explanation": "roots is the best answer.",
-    "structuredExplanation": {
-      "summary": "roots is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 29
-  },
-  {
-    "id": "ac9e1la09-p-030",
-    "curriculumCode": "AC9E1LA09",
-    "bank": "practice",
-    "skill": "recognise the vocabulary of learning area topics",
-    "printable": true,
-    "type": "single",
-    "question": "Mia is learning about time. Which word belongs?",
-    "audioPrompt": "Mia is learning about time. Which word belongs?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "habitat",
-      "hour",
-      "map"
-    ],
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 20,
     "correct": 1,
-    "explanation": "hour is the best answer.",
+    "explanation": "A seedling is the growing young plant itself.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "hour is the best answer."
+      "summary": "A seedling is the growing young plant itself.",
+      "hint": "Read the whole example and check what the question asks."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 30
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1la09-p-031",
+    "id": "ac9e1la09-er2-p-021",
     "curriculumCode": "AC9E1LA09",
     "bank": "practice",
-    "skill": "recognise the vocabulary of learning area topics",
+    "skill": "learning-area vocabulary in context",
     "printable": true,
     "type": "single",
-    "question": "Ben is learning about shapes. Which word belongs?",
-    "audioPrompt": "Ben is learning about shapes. Which word belongs?",
+    "question": "The teacher says, 'Record what you notice.' Which action fits record in this lesson?",
+    "audioPrompt": "The teacher says, 'Record what you notice.' Which action fits record in this lesson?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -916,29 +636,61 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "corner",
-      "hat",
-      "author"
+      "Forget the observations after looking.",
+      "Move the object without noting anything.",
+      "Write or draw the observations to keep them."
     ],
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 21,
+    "correct": 2,
+    "explanation": "Record means preserve the information, for example in notes or drawings.\nHint: Read the whole example and check what the question asks.",
+    "structuredExplanation": {
+      "summary": "Record means preserve the information, for example in notes or drawings.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1la09-er2-p-022",
+    "curriculumCode": "AC9E1LA09",
+    "bank": "practice",
+    "skill": "learning-area vocabulary in context",
+    "printable": true,
+    "type": "single",
+    "question": "In a book about maps, route means the way to go. Which sentence uses this meaning?",
+    "audioPrompt": "In a book about maps, route means the way to go. Which sentence uses this meaning?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "We followed the route from school to the park.",
+      "The route took in water from the soil.",
+      "The route was the plant's green leaf."
+    ],
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 22,
     "correct": 0,
-    "explanation": "corner is the best answer.",
+    "explanation": "Route means a path or course, unlike the similar-sounding root.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "corner is the best answer."
+      "summary": "Route means a path or course, unlike the similar-sounding root.",
+      "hint": "Read the whole example and check what the question asks."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 31
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1la09-p-032",
+    "id": "ac9e1la09-er2-p-023",
     "curriculumCode": "AC9E1LA09",
     "bank": "practice",
-    "skill": "recognise the vocabulary of learning area topics",
+    "skill": "learning-area vocabulary in context",
     "printable": true,
     "type": "single",
-    "question": "Sam is learning about animals. Which word belongs?",
-    "audioPrompt": "Sam is learning about animals. Which word belongs?",
+    "question": "A class groups 'float', 'sink' and 'water'. Which heading best matches this vocabulary?",
+    "audioPrompt": "A class groups 'float', 'sink' and 'water'. Which heading best matches this vocabulary?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -946,59 +698,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "total",
-      "bag",
-      "habitat"
+      "Telling stories.",
+      "Objects in water.",
+      "Making music."
     ],
-    "correct": 2,
-    "explanation": "habitat is the best answer.",
-    "structuredExplanation": {
-      "summary": "habitat is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 32
-  },
-  {
-    "id": "ac9e1la09-p-033",
-    "curriculumCode": "AC9E1LA09",
-    "bank": "practice",
-    "skill": "recognise the vocabulary of learning area topics",
-    "printable": true,
-    "type": "single",
-    "question": "Ava is learning about maths. Which word belongs?",
-    "audioPrompt": "Ava is learning about maths. Which word belongs?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "mix",
-      "add",
-      "cup"
-    ],
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 23,
     "correct": 1,
-    "explanation": "add is the best answer.",
+    "explanation": "Float and sink describe what objects can do in water.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "add is the best answer."
+      "summary": "Float and sink describe what objects can do in water.",
+      "hint": "Read the whole example and check what the question asks."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 33
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1la09-p-034",
+    "id": "ac9e1la09-er2-p-024",
     "curriculumCode": "AC9E1LA09",
     "bank": "practice",
-    "skill": "recognise the vocabulary of learning area topics",
+    "skill": "learning-area vocabulary in context",
     "printable": true,
     "type": "single",
-    "question": "Leo is learning about science. Which word belongs?",
-    "audioPrompt": "Leo is learning about science. Which word belongs?",
+    "question": "A child thinks 'warm' always means a colour. The weather sentence says, 'The air is warm today.' What does warm describe here?",
+    "audioPrompt": "A child thinks 'warm' always means a colour. The weather sentence says, 'The air is warm today.' What does warm describe here?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -1006,438 +729,20 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "observe",
-      "book",
-      "rhyme"
+      "The air's painted colour.",
+      "The air's shape.",
+      "The air's temperature."
     ],
-    "correct": 0,
-    "explanation": "observe is the best answer.",
-    "structuredExplanation": {
-      "summary": "observe is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
     "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 34
-  },
-  {
-    "id": "ac9e1la09-p-035",
-    "curriculumCode": "AC9E1LA09",
-    "bank": "practice",
-    "skill": "recognise the vocabulary of learning area topics",
-    "printable": true,
-    "type": "single",
-    "question": "Zoe is learning about maps. Which word belongs?",
-    "audioPrompt": "Zoe is learning about maps. Which word belongs?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "ball",
-      "direction",
-      "character"
-    ],
-    "correct": 1,
-    "explanation": "direction is the best answer.",
-    "structuredExplanation": {
-      "summary": "direction is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 35
-  },
-  {
-    "id": "ac9e1la09-p-036",
-    "curriculumCode": "AC9E1LA09",
-    "bank": "practice",
-    "skill": "recognise the vocabulary of learning area topics",
-    "printable": true,
-    "type": "single",
-    "question": "Max is learning about weather. Which word belongs?",
-    "audioPrompt": "Max is learning about weather. Which word belongs?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "kite",
-      "rainfall",
-      "chapter"
-    ],
-    "correct": 1,
-    "explanation": "rainfall is the best answer.",
-    "structuredExplanation": {
-      "summary": "rainfall is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 36
-  },
-  {
-    "id": "ac9e1la09-p-037",
-    "curriculumCode": "AC9E1LA09",
-    "bank": "practice",
-    "skill": "recognise the vocabulary of learning area topics",
-    "printable": true,
-    "type": "single",
-    "question": "Mia is learning about plants. Which word belongs?",
-    "audioPrompt": "Mia is learning about plants. Which word belongs?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "roots",
-      "full stop",
-      "sock"
-    ],
-    "correct": 0,
-    "explanation": "roots is the best answer.",
-    "structuredExplanation": {
-      "summary": "roots is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 37
-  },
-  {
-    "id": "ac9e1la09-p-038",
-    "curriculumCode": "AC9E1LA09",
-    "bank": "practice",
-    "skill": "recognise the vocabulary of learning area topics",
-    "printable": true,
-    "type": "single",
-    "question": "Ben is learning about time. Which word belongs?",
-    "audioPrompt": "Ben is learning about time. Which word belongs?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "map",
-      "hour",
-      "habitat"
-    ],
-    "correct": 1,
-    "explanation": "hour is the best answer.",
-    "structuredExplanation": {
-      "summary": "hour is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 38
-  },
-  {
-    "id": "ac9e1la09-p-039",
-    "curriculumCode": "AC9E1LA09",
-    "bank": "practice",
-    "skill": "recognise the vocabulary of learning area topics",
-    "printable": true,
-    "type": "single",
-    "question": "Sam is learning about shapes. Which word belongs?",
-    "audioPrompt": "Sam is learning about shapes. Which word belongs?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "hat",
-      "author",
-      "corner"
-    ],
+    "difficultyTier": "reason",
+    "sequencePriority": 24,
     "correct": 2,
-    "explanation": "corner is the best answer.",
+    "explanation": "Context selects the temperature meaning, even though art also uses warm for colours.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "corner is the best answer."
+      "summary": "Context selects the temperature meaning, even though art also uses warm for colours.",
+      "hint": "Read the whole example and check what the question asks."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 39
-  },
-  {
-    "id": "ac9e1la09-p-040",
-    "curriculumCode": "AC9E1LA09",
-    "bank": "practice",
-    "skill": "recognise the vocabulary of learning area topics",
-    "printable": true,
-    "type": "single",
-    "question": "Kim is learning about animals. Which word belongs?",
-    "audioPrompt": "Kim is learning about animals. Which word belongs?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "total",
-      "habitat",
-      "bag"
-    ],
-    "correct": 1,
-    "explanation": "habitat is the best answer.",
-    "structuredExplanation": {
-      "summary": "habitat is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 40
-  },
-  {
-    "id": "ac9e1la09-p-041",
-    "curriculumCode": "AC9E1LA09",
-    "bank": "practice",
-    "skill": "recognise the vocabulary of learning area topics",
-    "printable": true,
-    "type": "single",
-    "question": "Leo is learning about maths. Which word belongs?",
-    "audioPrompt": "Leo is learning about maths. Which word belongs?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "cup",
-      "mix",
-      "add"
-    ],
-    "correct": 2,
-    "explanation": "add is the best answer.",
-    "structuredExplanation": {
-      "summary": "add is the best answer."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 41,
-    "qualitySchema": "reviewed-year1-english-v1"
-  },
-  {
-    "id": "ac9e1la09-p-042",
-    "curriculumCode": "AC9E1LA09",
-    "bank": "practice",
-    "skill": "recognise the vocabulary of learning area topics",
-    "printable": true,
-    "type": "single",
-    "question": "Zoe is learning about science. Which word belongs?",
-    "audioPrompt": "Zoe is learning about science. Which word belongs?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "rhyme",
-      "book",
-      "observe"
-    ],
-    "correct": 2,
-    "explanation": "observe is the best answer.",
-    "structuredExplanation": {
-      "summary": "observe is the best answer."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 42,
-    "qualitySchema": "reviewed-year1-english-v1"
-  },
-  {
-    "id": "ac9e1la09-p-043",
-    "curriculumCode": "AC9E1LA09",
-    "bank": "practice",
-    "skill": "recognise the vocabulary of learning area topics",
-    "printable": true,
-    "type": "single",
-    "question": "Max is learning about maps. Which word belongs?",
-    "audioPrompt": "Max is learning about maps. Which word belongs?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "direction",
-      "ball",
-      "character"
-    ],
-    "correct": 0,
-    "explanation": "direction is the best answer.",
-    "structuredExplanation": {
-      "summary": "direction is the best answer."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 43,
-    "qualitySchema": "reviewed-year1-english-v1"
-  },
-  {
-    "id": "ac9e1la09-p-044",
-    "curriculumCode": "AC9E1LA09",
-    "bank": "practice",
-    "skill": "recognise the vocabulary of learning area topics",
-    "printable": true,
-    "type": "single",
-    "question": "Mia is learning about weather. Which word belongs?",
-    "audioPrompt": "Mia is learning about weather. Which word belongs?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "chapter",
-      "kite",
-      "rainfall"
-    ],
-    "correct": 2,
-    "explanation": "rainfall is the best answer.",
-    "structuredExplanation": {
-      "summary": "rainfall is the best answer."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 44,
-    "qualitySchema": "reviewed-year1-english-v1"
-  },
-  {
-    "id": "ac9e1la09-p-045",
-    "curriculumCode": "AC9E1LA09",
-    "bank": "practice",
-    "skill": "recognise the vocabulary of learning area topics",
-    "printable": true,
-    "type": "single",
-    "question": "Ben is learning about plants. Which word belongs?",
-    "audioPrompt": "Ben is learning about plants. Which word belongs?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "roots",
-      "full stop",
-      "sock"
-    ],
-    "correct": 0,
-    "explanation": "roots is the best answer.",
-    "structuredExplanation": {
-      "summary": "roots is the best answer."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 45,
-    "qualitySchema": "reviewed-year1-english-v1"
-  },
-  {
-    "id": "ac9e1la09-p-046",
-    "curriculumCode": "AC9E1LA09",
-    "bank": "practice",
-    "skill": "recognise the vocabulary of learning area topics",
-    "printable": true,
-    "type": "single",
-    "question": "Sam is learning about time. Which word belongs?",
-    "audioPrompt": "Sam is learning about time. Which word belongs?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "habitat",
-      "map",
-      "hour"
-    ],
-    "correct": 2,
-    "explanation": "hour is the best answer.",
-    "structuredExplanation": {
-      "summary": "hour is the best answer."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 46,
-    "qualitySchema": "reviewed-year1-english-v1"
-  },
-  {
-    "id": "ac9e1la09-p-047",
-    "curriculumCode": "AC9E1LA09",
-    "bank": "practice",
-    "skill": "recognise the vocabulary of learning area topics",
-    "printable": true,
-    "type": "single",
-    "question": "Kim is learning about shapes. Which word belongs?",
-    "audioPrompt": "Kim is learning about shapes. Which word belongs?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "hat",
-      "corner",
-      "author"
-    ],
-    "correct": 1,
-    "explanation": "corner is the best answer.",
-    "structuredExplanation": {
-      "summary": "corner is the best answer."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 47,
-    "qualitySchema": "reviewed-year1-english-v1"
-  },
-  {
-    "id": "ac9e1la09-p-048",
-    "curriculumCode": "AC9E1LA09",
-    "bank": "practice",
-    "skill": "recognise the vocabulary of learning area topics",
-    "printable": true,
-    "type": "single",
-    "question": "Ava is learning about animals. Which word belongs?",
-    "audioPrompt": "Ava is learning about animals. Which word belongs?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "bag",
-      "total",
-      "habitat"
-    ],
-    "correct": 2,
-    "explanation": "habitat is the best answer.",
-    "structuredExplanation": {
-      "summary": "habitat is the best answer."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 48,
-    "qualitySchema": "reviewed-year1-english-v1"
+    "qualitySchema": "production-v1"
   }
 ];
+window.quizQuestions = window.skillrPracticeQuestions;

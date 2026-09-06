@@ -1,1162 +1,751 @@
 "use strict";
 window.skillrPracticeQuestions = [
   {
-    "id": "ac9e1la10-p-001",
+    "id": "ac9e1la10-er2-p-001",
     "curriculumCode": "AC9E1LA10",
     "bank": "practice",
-    "skill": "ac9e1la10 01 recognise",
+    "skill": "end punctuation and capitals for familiar proper nouns",
     "printable": true,
     "type": "single",
-    "question": "Which response would correctly choose an ending mark?",
-    "audioPrompt": "Which response would correctly choose an ending mark?",
-    "visual": "📖 Choose an ending mark; 🔎 full stop; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Choose an ending mark; 🔎 full stop; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la10.svg#ac9e1la10-p-001\"></use></svg>",
+    "question": "Which mark ends the direct question 'Where is my hat' ?",
+    "audioPrompt": "Which mark ends the direct question 'Where is my hat' ?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la10.svg#ac9e1la10-p-001",
-      "alt_text": "📖 Choose an ending mark; 🔎 full stop; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Question mark: Where is my hat?",
-      "Where is my hat__",
-      "End a question with a full stop."
+      "A question mark: ?",
+      "A full stop: .",
+      "A comma: ,"
     ],
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 1,
     "correct": 0,
-    "explanation": "Question mark: Where is my hat? This matches the task.\nHint: If it asks, use a question mark.",
+    "explanation": "A direct question asks for information and ends with a question mark.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "Question mark: Where is my hat? This matches the task.",
-      "hint": "If it asks, use a question mark."
+      "summary": "A direct question asks for information and ends with a question mark.",
+      "hint": "Read the whole example and check what the question asks."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1la10-p-002",
+    "id": "ac9e1la10-er2-p-002",
     "curriculumCode": "AC9E1LA10",
     "bank": "practice",
-    "skill": "ac9e1la10 02 recognise",
+    "skill": "end punctuation and capitals for familiar proper nouns",
     "printable": true,
     "type": "single",
-    "question": "Which response would correctly match sentence purposes?",
-    "audioPrompt": "Which response would correctly match sentence purposes?",
-    "visual": "📖 Match sentence purposes; 🔎 question mark; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Match sentence purposes; 🔎 question mark; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la10.svg#ac9e1la10-p-003\"></use></svg>",
+    "question": "Which version correctly ends a calm statement?",
+    "audioPrompt": "Which version correctly ends a calm statement?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la10.svg#ac9e1la10-p-003",
-      "alt_text": "📖 Match sentence purposes; 🔎 question mark; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Statement ↔ full stop; question ↔ question mark; urgent Stop ↔ capital letter",
-      "Statement ↔ full stop; question ↔ question mark; urgent Stop ↔ question mark",
-      "Statement ↔ full stop; question ↔ question mark; urgent Stop ↔ exclamation mark"
+      "The gate is open,",
+      "The gate is open.",
+      "The gate is open?"
     ],
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 2,
+    "correct": 1,
+    "explanation": "A full stop closes this calm statement.\nHint: Read the whole example and check what the question asks.",
+    "structuredExplanation": {
+      "summary": "A full stop closes this calm statement.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1la10-er2-p-003",
+    "curriculumCode": "AC9E1LA10",
+    "bank": "practice",
+    "skill": "end punctuation and capitals for familiar proper nouns",
+    "printable": true,
+    "type": "single",
+    "question": "A child shouts in surprise. Which ending best shows that feeling?",
+    "audioPrompt": "A child shouts in surprise. Which ending best shows that feeling?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "What an enormous wave.",
+      "What an enormous wave,",
+      "What an enormous wave!"
+    ],
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 3,
     "correct": 2,
-    "explanation": "Statement ↔ full stop; question ↔ question mark; urgent Stop ↔ exclamation mark This matches the task.\nHint: Use capitals for sentence starts and proper nouns.",
+    "explanation": "An exclamation mark can show strong surprise.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "Statement ↔ full stop; question ↔ question mark; urgent Stop ↔ exclamation mark This matches the task.",
-      "hint": "Use capitals for sentence starts and proper nouns."
+      "summary": "An exclamation mark can show strong surprise.",
+      "hint": "Read the whole example and check what the question asks."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1la10-p-003",
+    "id": "ac9e1la10-er2-p-004",
     "curriculumCode": "AC9E1LA10",
     "bank": "practice",
-    "skill": "ac9e1la10 03 recognise",
+    "skill": "end punctuation and capitals for familiar proper nouns",
     "printable": true,
     "type": "single",
-    "question": "Which response would correctly say three sentence types?",
-    "audioPrompt": "Which response would correctly say three sentence types?",
-    "visual": "📖 Say three sentence types; 🔎 exclamation mark; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Say three sentence types; 🔎 exclamation mark; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la10.svg#ac9e1la10-p-005\"></use></svg>",
+    "question": "Which word needs a capital in 'We visit the park on tuesday'?",
+    "audioPrompt": "Which word needs a capital in 'We visit the park on tuesday'?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la10.svg#ac9e1la10-p-005",
-      "alt_text": "📖 Say three sentence types; 🔎 exclamation mark; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Do not use exclamation marks for strong feeling or emphasis.",
-      "Three distinct purposes with suitable intonation and complete wording",
-      "End a question with a full stop."
+      "tuesday",
+      "visit",
+      "on"
     ],
-    "correct": 1,
-    "explanation": "Three distinct purposes with suitable intonation and complete wording This matches the task.\nHint: Use exclamation marks for strong feeling or emphasis.",
-    "structuredExplanation": {
-      "summary": "Three distinct purposes with suitable intonation and complete wording This matches the task.",
-      "hint": "Use exclamation marks for strong feeling or emphasis."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1la10-p-004",
-    "curriculumCode": "AC9E1LA10",
-    "bank": "practice",
-    "skill": "ac9e1la10 04 recognise",
-    "printable": true,
-    "type": "single",
-    "question": "Correct: 'on monday, leo visits perth.'",
-    "audioPrompt": "Correct: 'on monday, leo visits perth.'",
-    "visual": "📖 Capitalise names; 🔎 capital letter; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Capitalise names; 🔎 capital letter; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la10.svg#ac9e1la10-p-007\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la10.svg#ac9e1la10-p-007",
-      "alt_text": "📖 Capitalise names; 🔎 capital letter; ✅ choose with evidence"
-    },
-    "answers": [
-      "'On Monday, Leo visits Perth.'",
-      "on monday, leo visits perth",
-      "End a question with a full stop."
-    ],
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 4,
     "correct": 0,
-    "explanation": "'On Monday, Leo visits Perth.' This matches the task.\nHint: If it asks, use a question mark.",
+    "explanation": "Tuesday is the name of a day and takes a capital letter.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "'On Monday, Leo visits Perth.' This matches the task.",
-      "hint": "If it asks, use a question mark."
+      "summary": "Tuesday is the name of a day and takes a capital letter.",
+      "hint": "Read the whole example and check what the question asks."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1la10-p-005",
+    "id": "ac9e1la10-er2-p-005",
     "curriculumCode": "AC9E1LA10",
     "bank": "practice",
-    "skill": "ac9e1la10 05 recognise",
+    "skill": "end punctuation and capitals for familiar proper nouns",
     "printable": true,
     "type": "single",
-    "question": "Which response would correctly order an editing check?",
-    "audioPrompt": "Which response would correctly order an editing check?",
-    "visual": "📖 Order an editing check; 🔎 full stop; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Order an editing check; 🔎 full stop; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la10.svg#ac9e1la10-p-009\"></use></svg>",
+    "question": "Which spelling is correct for a girl's name?",
+    "audioPrompt": "Which spelling is correct for a girl's name?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la10.svg#ac9e1la10-p-009",
-      "alt_text": "📖 Order an editing check; 🔎 full stop; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "add or verify ending mark → check first letter/names → Read purpose",
-      "Do not use capitals for sentence starts and proper nouns.",
-      "Read purpose → check first letter/names → add or verify ending mark"
+      "sOphie",
+      "Sophie",
+      "sophie"
     ],
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 5,
+    "correct": 1,
+    "explanation": "A person's name begins with a capital letter.\nHint: Read the whole example and check what the question asks.",
+    "structuredExplanation": {
+      "summary": "A person's name begins with a capital letter.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1la10-er2-p-006",
+    "curriculumCode": "AC9E1LA10",
+    "bank": "practice",
+    "skill": "end punctuation and capitals for familiar proper nouns",
+    "printable": true,
+    "type": "single",
+    "question": "Which sentence correctly writes the city's name?",
+    "audioPrompt": "Which sentence correctly writes the city's name?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "We drove to canberra.",
+      "We drove to CANberra.",
+      "We drove to Canberra."
+    ],
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 6,
     "correct": 2,
-    "explanation": "Read purpose → check first letter/names → add or verify ending mark This matches the task.\nHint: Use capitals for sentence starts and proper nouns.",
+    "explanation": "The proper noun Canberra begins with a capital.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "Read purpose → check first letter/names → add or verify ending mark This matches the task.",
-      "hint": "Use capitals for sentence starts and proper nouns."
+      "summary": "The proper noun Canberra begins with a capital.",
+      "hint": "Read the whole example and check what the question asks."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1la10-p-006",
+    "id": "ac9e1la10-er2-p-007",
     "curriculumCode": "AC9E1LA10",
     "bank": "practice",
-    "skill": "ac9e1la10 06 recognise",
+    "skill": "end punctuation and capitals for familiar proper nouns",
     "printable": true,
     "type": "single",
-    "question": "Which response would correctly draw punctuation speech bubbles?",
-    "audioPrompt": "Which response would correctly draw punctuation speech bubbles?",
-    "visual": "📖 Draw punctuation speech bubbles; 🔎 question mark; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Draw punctuation speech bubbles; 🔎 question mark; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la10.svg#ac9e1la10-p-011\"></use></svg>",
+    "question": "A dog's name is patch. Which version writes the name correctly?",
+    "audioPrompt": "A dog's name is patch. Which version writes the name correctly?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la10.svg#ac9e1la10-p-011",
-      "alt_text": "📖 Draw punctuation speech bubbles; 🔎 question mark; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Do not use exclamation marks for strong feeling or emphasis.",
-      "One complete direct question with ? and one appropriate warning/exclamation with !",
-      "End a question with a full stop."
+      "Patch",
+      "patch",
+      "pAtch"
     ],
-    "correct": 1,
-    "explanation": "One complete direct question with ? and one appropriate warning/exclamation with ! This matches the task.\nHint: Use exclamation marks for strong feeling or emphasis.",
-    "structuredExplanation": {
-      "summary": "One complete direct question with ? and one appropriate warning/exclamation with ! This matches the task.",
-      "hint": "Use exclamation marks for strong feeling or emphasis."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1la10-p-007",
-    "curriculumCode": "AC9E1LA10",
-    "bank": "practice",
-    "skill": "ac9e1la10 07 recognise",
-    "printable": true,
-    "type": "single",
-    "question": "Why does 'Friday' need a capital in 'We swim on Friday'?",
-    "audioPrompt": "Why does 'Friday' need a capital in 'We swim on Friday'?",
-    "visual": "📖 Explain a capital; 🔎 exclamation mark; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Explain a capital; 🔎 exclamation mark; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la10.svg#ac9e1la10-p-013\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la10.svg#ac9e1la10-p-013",
-      "alt_text": "📖 Explain a capital; 🔎 exclamation mark; ✅ choose with evidence"
-    },
-    "answers": [
-      "Friday is the proper name of a day",
-      "Friday",
-      "We swim on Friday"
-    ],
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 7,
     "correct": 0,
-    "explanation": "Friday is the proper name of a day This matches the task.\nHint: If it asks, use a question mark.",
+    "explanation": "A pet's name is a proper noun and begins with a capital.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "Friday is the proper name of a day This matches the task.",
-      "hint": "If it asks, use a question mark."
+      "summary": "A pet's name is a proper noun and begins with a capital.",
+      "hint": "Read the whole example and check what the question asks."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1la10-p-008",
+    "id": "ac9e1la10-er2-p-008",
     "curriculumCode": "AC9E1LA10",
     "bank": "practice",
-    "skill": "ac9e1la10 08 recognise",
+    "skill": "end punctuation and capitals for familiar proper nouns",
     "printable": true,
     "type": "single",
-    "question": "Which response would correctly edit a short message?",
-    "audioPrompt": "Which response would correctly edit a short message?",
-    "visual": "📖 Edit a short message; 🔎 capital letter; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Edit a short message; 🔎 capital letter; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la10.svg#ac9e1la10-p-015\"></use></svg>",
+    "question": "Which mark finishes 'Do you want a turn' as a question?",
+    "audioPrompt": "Which mark finishes 'Do you want a turn' as a question?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la10.svg#ac9e1la10-p-015",
-      "alt_text": "📖 Edit a short message; 🔎 capital letter; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "dear sam can you come on tuesday",
-      "Do not use capitals for sentence starts and proper nouns.",
-      "'Dear Sam, can you come on Tuesday?'; accepts age-appropriate line break/comma handling"
+      ",",
+      "?",
+      "."
     ],
+    "audioAnswers": [
+      "comma",
+      "question mark",
+      "full stop"
+    ],
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 8,
+    "correct": 1,
+    "explanation": "The sentence asks a direct question.\nHint: Read the whole example and check what the question asks.",
+    "structuredExplanation": {
+      "summary": "The sentence asks a direct question.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1la10-er2-p-009",
+    "curriculumCode": "AC9E1LA10",
+    "bank": "practice",
+    "skill": "end punctuation and capitals for familiar proper nouns",
+    "printable": true,
+    "type": "single",
+    "question": "Choose the correctly punctuated pair.",
+    "audioPrompt": "Choose the correctly punctuated pair.",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "I have a kite? Where is yours.",
+      "I have a kite, Where is yours,",
+      "I have a kite. Where is yours?"
+    ],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 9,
     "correct": 2,
-    "explanation": "'Dear Sam, can you come on Tuesday?'; accepts age-appropriate line break/comma handling This matches the task.\nHint: Use capitals for sentence starts and proper nouns.",
+    "explanation": "The statement ends with a full stop and the question with a question mark.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "'Dear Sam, can you come on Tuesday?'; accepts age-appropriate line break/comma handling This matches the task.",
-      "hint": "Use capitals for sentence starts and proper nouns."
+      "summary": "The statement ends with a full stop and the question with a question mark.",
+      "hint": "Read the whole example and check what the question asks."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1la10-p-009",
+    "id": "ac9e1la10-er2-p-010",
     "curriculumCode": "AC9E1LA10",
     "bank": "practice",
-    "skill": "ac9e1la10 09 recognise",
+    "skill": "end punctuation and capitals for familiar proper nouns",
     "printable": true,
     "type": "single",
-    "question": "Write correctly: 'the library closes at three'.",
-    "audioPrompt": "Write correctly: 'the library closes at three'.",
-    "visual": "📖 Punctuate a statement; 🔎 full stop; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Punctuate a statement; 🔎 full stop; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la10.svg#ac9e1la10-p-017\"></use></svg>",
+    "question": "Which sentence correctly uses capitals for a day and a name?",
+    "audioPrompt": "Which sentence correctly uses capitals for a day and a name?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la10.svg#ac9e1la10-p-017",
-      "alt_text": "📖 Punctuate a statement; 🔎 full stop; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "the library closes at three",
-      "'The library closes at three.'",
-      "Do not use exclamation marks for strong feeling or emphasis."
+      "On Friday, Mia visits us.",
+      "On friday, Mia visits us.",
+      "On Friday, mia visits us."
     ],
-    "correct": 1,
-    "explanation": "'The library closes at three.' This matches the task.\nHint: Use exclamation marks for strong feeling or emphasis.",
-    "structuredExplanation": {
-      "summary": "'The library closes at three.' This matches the task.",
-      "hint": "Use exclamation marks for strong feeling or emphasis."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1la10-p-010",
-    "curriculumCode": "AC9E1LA10",
-    "bank": "practice",
-    "skill": "ac9e1la10 10 recognise",
-    "printable": true,
-    "type": "single",
-    "question": "Which response would correctly match names and common nouns?",
-    "audioPrompt": "Which response would correctly match names and common nouns?",
-    "visual": "📖 Match names and common nouns; 🔎 question mark; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Match names and common nouns; 🔎 question mark; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la10.svg#ac9e1la10-p-019\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la10.svg#ac9e1la10-p-019",
-      "alt_text": "📖 Match names and common nouns; 🔎 question mark; ✅ choose with evidence"
-    },
-    "answers": [
-      "All three common/proper pairs correctly matched and proper names capitalised",
-      "End a question with a full stop.",
-      "Do not use capitals for sentence starts and proper nouns."
-    ],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 10,
     "correct": 0,
-    "explanation": "All three common/proper pairs correctly matched and proper names capitalised This matches the task.\nHint: If it asks, use a question mark.",
+    "explanation": "Friday and Mia are both names that need capitals.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "All three common/proper pairs correctly matched and proper names capitalised This matches the task.",
-      "hint": "If it asks, use a question mark."
+      "summary": "Friday and Mia are both names that need capitals.",
+      "hint": "Read the whole example and check what the question asks."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1la10-p-011",
+    "id": "ac9e1la10-er2-p-011",
     "curriculumCode": "AC9E1LA10",
     "bank": "practice",
-    "skill": "ac9e1la10 01 explain",
+    "skill": "end punctuation and capitals for familiar proper nouns",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you choose an ending mark?",
-    "audioPrompt": "Which tip would help you choose an ending mark?",
-    "visual": "🧠 Choose an ending mark; ➡️ Read sentence; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Choose an ending mark; ➡️ Read sentence; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la10.svg#ac9e1la10-p-002\"></use></svg>",
+    "question": "Which word should start with a capital in 'My birthday is in august'?",
+    "audioPrompt": "Which word should start with a capital in 'My birthday is in august'?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la10.svg#ac9e1la10-p-002",
-      "alt_text": "🧠 Choose an ending mark; ➡️ Read sentence; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Do not use capitals for sentence starts and proper nouns.",
-      "If it asks, use a question mark.",
-      "Do not use exclamation marks for strong feeling or emphasis."
+      "in",
+      "august",
+      "birthday"
     ],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 11,
     "correct": 1,
-    "explanation": "If it asks, use a question mark.\nHint: If it asks, use a question mark.",
+    "explanation": "August names a particular month, so it begins with a capital letter.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "If it asks, use a question mark.",
-      "hint": "If it asks, use a question mark."
+      "summary": "August names a particular month, so it begins with a capital letter.",
+      "hint": "Read the whole example and check what the question asks."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1la10-p-012",
+    "id": "ac9e1la10-er2-p-012",
     "curriculumCode": "AC9E1LA10",
     "bank": "practice",
-    "skill": "ac9e1la10 02 explain",
+    "skill": "end punctuation and capitals for familiar proper nouns",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you match sentence purposes?",
-    "audioPrompt": "Which tip would help you match sentence purposes?",
-    "visual": "🧠 Match sentence purposes; ➡️ Check start/name; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Match sentence purposes; ➡️ Check start/name; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la10.svg#ac9e1la10-p-004\"></use></svg>",
+    "question": "Choose the correctly written sentence.",
+    "audioPrompt": "Choose the correctly written sentence.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la10.svg#ac9e1la10-p-004",
-      "alt_text": "🧠 Match sentence purposes; ➡️ Check start/name; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Use this routine: Read sentence → Check start/name → Choose end mark → Re-read.",
-      "Do not use exclamation marks for strong feeling or emphasis.",
-      "End a question with a full stop."
+      "i can see Perth on the map.",
+      "I can see perth on the map.",
+      "I can see Perth on the map."
     ],
-    "correct": 0,
-    "explanation": "Use this routine: Read sentence → Check start/name → Choose end mark → Re-read.\nHint: Use capitals for sentence starts and proper nouns.",
-    "structuredExplanation": {
-      "summary": "Use this routine: Read sentence → Check start/name → Choose end mark → Re-read.",
-      "hint": "Use capitals for sentence starts and proper nouns."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1la10-p-013",
-    "curriculumCode": "AC9E1LA10",
-    "bank": "practice",
-    "skill": "ac9e1la10 03 explain",
-    "printable": true,
-    "type": "single",
-    "question": "Which tip would help you say three sentence types?",
-    "audioPrompt": "Which tip would help you say three sentence types?",
-    "visual": "🧠 Say three sentence types; ➡️ Choose end mark; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Say three sentence types; ➡️ Choose end mark; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la10.svg#ac9e1la10-p-006\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la10.svg#ac9e1la10-p-006",
-      "alt_text": "🧠 Say three sentence types; ➡️ Choose end mark; 💡 helpful strategy"
-    },
-    "answers": [
-      "End a question with a full stop.",
-      "Do not use capitals for sentence starts and proper nouns.",
-      "Look for exclamation mark and check the whole example."
-    ],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 12,
     "correct": 2,
-    "explanation": "Look for exclamation mark and check the whole example.\nHint: Use exclamation marks for strong feeling or emphasis.",
+    "explanation": "I and the place name Perth need capitals.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "Look for exclamation mark and check the whole example.",
-      "hint": "Use exclamation marks for strong feeling or emphasis."
+      "summary": "I and the place name Perth need capitals.",
+      "hint": "Read the whole example and check what the question asks."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1la10-p-014",
+    "id": "ac9e1la10-er2-p-013",
     "curriculumCode": "AC9E1LA10",
     "bank": "practice",
-    "skill": "ac9e1la10 04 explain",
+    "skill": "end punctuation and capitals for familiar proper nouns",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you capitalise names?",
-    "audioPrompt": "Which tip would help you capitalise names?",
-    "visual": "🧠 Capitalise names; ➡️ Re-read; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Capitalise names; ➡️ Re-read; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la10.svg#ac9e1la10-p-008\"></use></svg>",
+    "question": "A child asks for the location of a book. Which version fits?",
+    "audioPrompt": "A child asks for the location of a book. Which version fits?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la10.svg#ac9e1la10-p-008",
-      "alt_text": "🧠 Capitalise names; ➡️ Re-read; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Do not use capitals for sentence starts and proper nouns.",
-      "Check that you can capitalise proper nouns.",
-      "Do not use exclamation marks for strong feeling or emphasis."
+      "Where is the book?",
+      "Where is the book.",
+      "Where is the book,"
     ],
-    "correct": 1,
-    "explanation": "Check that you can capitalise proper nouns.\nHint: If it asks, use a question mark.",
-    "structuredExplanation": {
-      "summary": "Check that you can capitalise proper nouns.",
-      "hint": "If it asks, use a question mark."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1la10-p-015",
-    "curriculumCode": "AC9E1LA10",
-    "bank": "practice",
-    "skill": "ac9e1la10 05 explain",
-    "printable": true,
-    "type": "single",
-    "question": "Which tip would help you order an editing check?",
-    "audioPrompt": "Which tip would help you order an editing check?",
-    "visual": "🧠 Order an editing check; ➡️ Read sentence; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Order an editing check; ➡️ Read sentence; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la10.svg#ac9e1la10-p-010\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la10.svg#ac9e1la10-p-010",
-      "alt_text": "🧠 Order an editing check; ➡️ Read sentence; 💡 helpful strategy"
-    },
-    "answers": [
-      "Sequencing a basic punctuation edit.",
-      "Do not use exclamation marks for strong feeling or emphasis.",
-      "End a question with a full stop."
-    ],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 13,
     "correct": 0,
-    "explanation": "Sequencing a basic punctuation edit.\nHint: Use capitals for sentence starts and proper nouns.",
+    "explanation": "The words ask a question, so use a question mark.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "Sequencing a basic punctuation edit.",
-      "hint": "Use capitals for sentence starts and proper nouns."
+      "summary": "The words ask a question, so use a question mark.",
+      "hint": "Read the whole example and check what the question asks."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1la10-p-016",
+    "id": "ac9e1la10-er2-p-014",
     "curriculumCode": "AC9E1LA10",
     "bank": "practice",
-    "skill": "ac9e1la10 06 explain",
+    "skill": "end punctuation and capitals for familiar proper nouns",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you draw punctuation speech bubbles?",
-    "audioPrompt": "Which tip would help you draw punctuation speech bubbles?",
-    "visual": "🧠 Draw punctuation speech bubbles; ➡️ Check start/name; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Draw punctuation speech bubbles; ➡️ Check start/name; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la10.svg#ac9e1la10-p-012\"></use></svg>",
+    "question": "Which version shows that an ordinary animal word is not a pet's name?",
+    "audioPrompt": "Which version shows that an ordinary animal word is not a pet's name?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la10.svg#ac9e1la10-p-012",
-      "alt_text": "🧠 Draw punctuation speech bubbles; ➡️ Check start/name; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "End a question with a full stop.",
-      "Do not use capitals for sentence starts and proper nouns.",
-      "Use exclamation marks for strong feeling or emphasis."
+      "My cat is called ruby.",
+      "My cat is called Ruby.",
+      "My Cat is called Ruby."
     ],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 14,
+    "correct": 1,
+    "explanation": "Cat is a common noun; Ruby is the pet's name.\nHint: Read the whole example and check what the question asks.",
+    "structuredExplanation": {
+      "summary": "Cat is a common noun; Ruby is the pet's name.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1la10-er2-p-015",
+    "curriculumCode": "AC9E1LA10",
+    "bank": "practice",
+    "skill": "end punctuation and capitals for familiar proper nouns",
+    "printable": true,
+    "type": "single",
+    "question": "A sign gives an urgent warning. Which punctuation best conveys urgency?",
+    "audioPrompt": "A sign gives an urgent warning. Which punctuation best conveys urgency?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Stop, A bike is coming,",
+      "Stop? A bike is coming?",
+      "Stop! A bike is coming!"
+    ],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 15,
     "correct": 2,
-    "explanation": "Use exclamation marks for strong feeling or emphasis.\nHint: Use exclamation marks for strong feeling or emphasis.",
+    "explanation": "Exclamation marks suit the intended urgent warning here.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "Use exclamation marks for strong feeling or emphasis.",
-      "hint": "Use exclamation marks for strong feeling or emphasis."
+      "summary": "Exclamation marks suit the intended urgent warning here.",
+      "hint": "Read the whole example and check what the question asks."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1la10-p-017",
+    "id": "ac9e1la10-er2-p-016",
     "curriculumCode": "AC9E1LA10",
     "bank": "practice",
-    "skill": "ac9e1la10 07 explain",
+    "skill": "end punctuation and capitals for familiar proper nouns",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you explain a capital?",
-    "audioPrompt": "Which tip would help you explain a capital?",
-    "visual": "🧠 Explain a capital; ➡️ Choose end mark; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Explain a capital; ➡️ Choose end mark; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la10.svg#ac9e1la10-p-014\"></use></svg>",
+    "question": "Which version correctly uses a capital for a country name?",
+    "audioPrompt": "Which version correctly uses a capital for a country name?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la10.svg#ac9e1la10-p-014",
-      "alt_text": "🧠 Explain a capital; ➡️ Choose end mark; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Do not use capitals for sentence starts and proper nouns.",
-      "Use this routine: Read sentence → Check start/name → Choose end mark → Re-read.",
-      "Do not use exclamation marks for strong feeling or emphasis."
+      "We live in Australia.",
+      "We live in australia.",
+      "We Live in Australia."
     ],
-    "correct": 1,
-    "explanation": "Use this routine: Read sentence → Check start/name → Choose end mark → Re-read.\nHint: If it asks, use a question mark.",
-    "structuredExplanation": {
-      "summary": "Use this routine: Read sentence → Check start/name → Choose end mark → Re-read.",
-      "hint": "If it asks, use a question mark."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1la10-p-018",
-    "curriculumCode": "AC9E1LA10",
-    "bank": "practice",
-    "skill": "ac9e1la10 08 explain",
-    "printable": true,
-    "type": "single",
-    "question": "Which tip would help you edit a short message?",
-    "audioPrompt": "Which tip would help you edit a short message?",
-    "visual": "🧠 Edit a short message; ➡️ Re-read; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Edit a short message; ➡️ Re-read; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la10.svg#ac9e1la10-p-016\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la10.svg#ac9e1la10-p-016",
-      "alt_text": "🧠 Edit a short message; ➡️ Re-read; 💡 helpful strategy"
-    },
-    "answers": [
-      "Look for capital letter and check the whole example.",
-      "Do not use exclamation marks for strong feeling or emphasis.",
-      "End a question with a full stop."
-    ],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 16,
     "correct": 0,
-    "explanation": "Look for capital letter and check the whole example.\nHint: Use capitals for sentence starts and proper nouns.",
+    "explanation": "Australia is a proper noun; live does not need a capital within the sentence.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "Look for capital letter and check the whole example.",
-      "hint": "Use capitals for sentence starts and proper nouns."
+      "summary": "Australia is a proper noun; live does not need a capital within the sentence.",
+      "hint": "Read the whole example and check what the question asks."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1la10-p-019",
+    "id": "ac9e1la10-er2-p-017",
     "curriculumCode": "AC9E1LA10",
     "bank": "practice",
-    "skill": "ac9e1la10 09 explain",
+    "skill": "end punctuation and capitals for familiar proper nouns",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you punctuate a statement?",
-    "audioPrompt": "Which tip would help you punctuate a statement?",
-    "visual": "🧠 Punctuate a statement; ➡️ Read sentence; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Punctuate a statement; ➡️ Read sentence; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la10.svg#ac9e1la10-p-018\"></use></svg>",
+    "question": "'Is that your bag.' What single change fixes the ending?",
+    "audioPrompt": "'Is that your bag.' What single change fixes the ending?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la10.svg#ac9e1la10-p-018",
-      "alt_text": "🧠 Punctuate a statement; ➡️ Read sentence; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "End a question with a full stop.",
-      "Do not use capitals for sentence starts and proper nouns.",
-      "Check that you can capitalise proper nouns."
+      "Replace the full stop with a comma.",
+      "Replace the full stop with a question mark.",
+      "Add a capital to bag."
     ],
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 17,
+    "correct": 1,
+    "explanation": "The sentence is a direct question.\nHint: Read the whole example and check what the question asks.",
+    "structuredExplanation": {
+      "summary": "The sentence is a direct question.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1la10-er2-p-018",
+    "curriculumCode": "AC9E1LA10",
+    "bank": "practice",
+    "skill": "end punctuation and capitals for familiar proper nouns",
+    "printable": true,
+    "type": "single",
+    "question": "'I like the park? It has swings.' The first sentence is meant as a calm statement. What should change?",
+    "audioPrompt": "'I like the park? It has swings.' The first sentence is meant as a calm statement. What should change?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Use a comma after park and keep both capitals.",
+      "Remove every mark.",
+      "Use a full stop after park."
+    ],
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 18,
     "correct": 2,
-    "explanation": "Check that you can capitalise proper nouns.\nHint: Use exclamation marks for strong feeling or emphasis.",
+    "explanation": "A full stop matches the intended statement and keeps the sentence boundary.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "Check that you can capitalise proper nouns.",
-      "hint": "Use exclamation marks for strong feeling or emphasis."
+      "summary": "A full stop matches the intended statement and keeps the sentence boundary.",
+      "hint": "Read the whole example and check what the question asks."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1la10-p-020",
+    "id": "ac9e1la10-er2-p-019",
     "curriculumCode": "AC9E1LA10",
     "bank": "practice",
-    "skill": "ac9e1la10 10 explain",
+    "skill": "end punctuation and capitals for familiar proper nouns",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you match names and common nouns?",
-    "audioPrompt": "Which tip would help you match names and common nouns?",
-    "visual": "🧠 Match names and common nouns; ➡️ Check start/name; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Match names and common nouns; ➡️ Check start/name; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la10.svg#ac9e1la10-p-020\"></use></svg>",
+    "question": "Which version fixes all the capitals in 'on monday, zara visits sydney.'?",
+    "audioPrompt": "Which version fixes all the capitals in 'on monday, zara visits sydney.'?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la10.svg#ac9e1la10-p-020",
-      "alt_text": "🧠 Match names and common nouns; ➡️ Check start/name; 💡 helpful strategy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Do not use capitals for sentence starts and proper nouns.",
-      "Distinguishing common nouns from familiar proper nouns.",
-      "Do not use exclamation marks for strong feeling or emphasis."
+      "On Monday, Zara visits Sydney.",
+      "On monday, Zara visits Sydney.",
+      "On Monday, Zara visits sydney."
     ],
-    "correct": 1,
-    "explanation": "Distinguishing common nouns from familiar proper nouns.\nHint: If it asks, use a question mark.",
-    "structuredExplanation": {
-      "summary": "Distinguishing common nouns from familiar proper nouns.",
-      "hint": "If it asks, use a question mark."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1la10-p-021",
-    "curriculumCode": "AC9E1LA10",
-    "bank": "practice",
-    "skill": "ac9e1la10 01 discriminate",
-    "printable": true,
-    "type": "single",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": "📖 Choose an ending mark; 🔎 full stop; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Choose an ending mark; 🔎 full stop; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la10.svg#ac9e1la10-p-001\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la10.svg#ac9e1la10-p-001",
-      "alt_text": "📖 Choose an ending mark; 🔎 full stop; ✅ choose with evidence"
-    },
-    "answers": [
-      "Where is my hat__",
-      "Question mark: Where is my hat?",
-      "If it asks, use a question mark."
-    ],
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 19,
     "correct": 0,
-    "explanation": "Where is my hat__ is the mix-up. If it asks, use a question mark.\nHint: If it asks, use a question mark.",
+    "explanation": "The first word, day, person's name and city all need capitals.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "Where is my hat__ is the mix-up. If it asks, use a question mark.",
-      "hint": "If it asks, use a question mark."
+      "summary": "The first word, day, person's name and city all need capitals.",
+      "hint": "Read the whole example and check what the question asks."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1la10-p-022",
+    "id": "ac9e1la10-er2-p-020",
     "curriculumCode": "AC9E1LA10",
     "bank": "practice",
-    "skill": "ac9e1la10 02 discriminate",
+    "skill": "end punctuation and capitals for familiar proper nouns",
     "printable": true,
     "type": "single",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": "📖 Match sentence purposes; 🔎 question mark; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Match sentence purposes; 🔎 question mark; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la10.svg#ac9e1la10-p-003\"></use></svg>",
+    "question": "Which pair uses the same words but changes a calm statement into a surprised reaction?",
+    "audioPrompt": "Which pair uses the same words but changes a calm statement into a surprised reaction?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la10.svg#ac9e1la10-p-003",
-      "alt_text": "📖 Match sentence purposes; 🔎 question mark; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Statement ↔ full stop; question ↔ question mark; urgent Stop ↔ exclamation mark",
-      "Statement ↔ full stop; question ↔ question mark; urgent Stop ↔ capital letter",
-      "Use this routine: Read sentence → Check start/name → Choose end mark → Re-read."
+      "You won! / You won!",
+      "You won. / You won!",
+      "You won. / You won."
     ],
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 20,
     "correct": 1,
-    "explanation": "Statement ↔ full stop; question ↔ question mark; urgent Stop ↔ capital letter is the mix-up. Use capitals for sentence starts and proper nouns.\nHint: Use capitals for sentence starts and proper nouns.",
+    "explanation": "The exclamation mark changes the way the words are presented to the reader.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "Statement ↔ full stop; question ↔ question mark; urgent Stop ↔ capital letter is the mix-up. Use capitals for sentence starts and proper nouns.",
-      "hint": "Use capitals for sentence starts and proper nouns."
+      "summary": "The exclamation mark changes the way the words are presented to the reader.",
+      "hint": "Read the whole example and check what the question asks."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1la10-p-023",
+    "id": "ac9e1la10-er2-p-021",
     "curriculumCode": "AC9E1LA10",
     "bank": "practice",
-    "skill": "ac9e1la10 03 discriminate",
+    "skill": "end punctuation and capitals for familiar proper nouns",
     "printable": true,
     "type": "single",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": "📖 Say three sentence types; 🔎 exclamation mark; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Say three sentence types; 🔎 exclamation mark; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la10.svg#ac9e1la10-p-005\"></use></svg>",
+    "question": "'We will go in May.' Why is May capitalised here?",
+    "audioPrompt": "'We will go in May.' Why is May capitalised here?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la10.svg#ac9e1la10-p-005",
-      "alt_text": "📖 Say three sentence types; 🔎 exclamation mark; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Three distinct purposes with suitable intonation and complete wording",
-      "Look for exclamation mark and check the whole example.",
-      "Do not use exclamation marks for strong feeling or emphasis."
+      "It is always the first word of a sentence.",
+      "All three-letter words need capitals.",
+      "It names a month."
     ],
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 21,
     "correct": 2,
-    "explanation": "Do not use exclamation marks for strong feeling or emphasis. is the mix-up. Use exclamation marks for strong feeling or emphasis.\nHint: Use exclamation marks for strong feeling or emphasis.",
+    "explanation": "May is a proper name in this context.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "Do not use exclamation marks for strong feeling or emphasis. is the mix-up. Use exclamation marks for strong feeling or emphasis.",
-      "hint": "Use exclamation marks for strong feeling or emphasis."
+      "summary": "May is a proper name in this context.",
+      "hint": "Read the whole example and check what the question asks."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1la10-p-024",
+    "id": "ac9e1la10-er2-p-022",
     "curriculumCode": "AC9E1LA10",
     "bank": "practice",
-    "skill": "ac9e1la10 04 discriminate",
+    "skill": "end punctuation and capitals for familiar proper nouns",
     "printable": true,
     "type": "single",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": "📖 Capitalise names; 🔎 capital letter; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Capitalise names; 🔎 capital letter; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la10.svg#ac9e1la10-p-007\"></use></svg>",
+    "question": "Which edit repairs the two sentence boundaries in 'The bell rang We ran inside'?",
+    "audioPrompt": "Which edit repairs the two sentence boundaries in 'The bell rang We ran inside'?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la10.svg#ac9e1la10-p-007",
-      "alt_text": "📖 Capitalise names; 🔎 capital letter; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "on monday, leo visits perth",
-      "'On Monday, Leo visits Perth.'",
-      "Check that you can capitalise proper nouns."
+      "The bell rang. We ran inside.",
+      "The bell. rang We ran inside.",
+      "The bell rang We. ran inside."
     ],
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 22,
     "correct": 0,
-    "explanation": "on monday, leo visits perth is the mix-up. If it asks, use a question mark.\nHint: If it asks, use a question mark.",
+    "explanation": "The mark must come after the complete first idea and at the end of the second.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "on monday, leo visits perth is the mix-up. If it asks, use a question mark.",
-      "hint": "If it asks, use a question mark."
+      "summary": "The mark must come after the complete first idea and at the end of the second.",
+      "hint": "Read the whole example and check what the question asks."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1la10-p-025",
+    "id": "ac9e1la10-er2-p-023",
     "curriculumCode": "AC9E1LA10",
     "bank": "practice",
-    "skill": "ac9e1la10 05 discriminate",
+    "skill": "end punctuation and capitals for familiar proper nouns",
     "printable": true,
     "type": "single",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": "📖 Order an editing check; 🔎 full stop; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Order an editing check; 🔎 full stop; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la10.svg#ac9e1la10-p-009\"></use></svg>",
+    "question": "A child writes 'My Friend Leo has a Dog.' Which capitals should become lowercase?",
+    "audioPrompt": "A child writes 'My Friend Leo has a Dog.' Which capitals should become lowercase?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la10.svg#ac9e1la10-p-009",
-      "alt_text": "📖 Order an editing check; 🔎 full stop; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Read purpose → check first letter/names → add or verify ending mark",
-      "add or verify ending mark → check first letter/names → Read purpose",
-      "Sequencing a basic punctuation edit."
+      "Leo and Dog.",
+      "Friend and Dog.",
+      "My and Leo."
     ],
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 23,
     "correct": 1,
-    "explanation": "add or verify ending mark → check first letter/names → Read purpose is the mix-up. Use capitals for sentence starts and proper nouns.\nHint: Use capitals for sentence starts and proper nouns.",
+    "explanation": "Friend and dog are common nouns here; My starts the sentence and Leo is a name.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "add or verify ending mark → check first letter/names → Read purpose is the mix-up. Use capitals for sentence starts and proper nouns.",
-      "hint": "Use capitals for sentence starts and proper nouns."
+      "summary": "Friend and dog are common nouns here; My starts the sentence and Leo is a name.",
+      "hint": "Read the whole example and check what the question asks."
     },
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1la10-p-026",
+    "id": "ac9e1la10-er2-p-024",
     "curriculumCode": "AC9E1LA10",
     "bank": "practice",
-    "skill": "ac9e1la10 06 discriminate",
+    "skill": "end punctuation and capitals for familiar proper nouns",
     "printable": true,
     "type": "single",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": "📖 Draw punctuation speech bubbles; 🔎 question mark; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Draw punctuation speech bubbles; 🔎 question mark; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la10.svg#ac9e1la10-p-011\"></use></svg>",
+    "question": "Which version preserves a question followed by an excited answer?",
+    "audioPrompt": "Which version preserves a question followed by an excited answer?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la10.svg#ac9e1la10-p-011",
-      "alt_text": "📖 Draw punctuation speech bubbles; 🔎 question mark; ✅ choose with evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "One complete direct question with ? and one appropriate warning/exclamation with !",
-      "Use exclamation marks for strong feeling or emphasis.",
-      "Do not use exclamation marks for strong feeling or emphasis."
+      "Did we win. Yes, we won?",
+      "Did we win! Yes, we won,",
+      "Did we win? Yes, we won!"
     ],
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 24,
     "correct": 2,
-    "explanation": "Do not use exclamation marks for strong feeling or emphasis. is the mix-up. Use exclamation marks for strong feeling or emphasis.\nHint: Use exclamation marks for strong feeling or emphasis.",
+    "explanation": "The marks distinguish the request for information from the excited response.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "Do not use exclamation marks for strong feeling or emphasis. is the mix-up. Use exclamation marks for strong feeling or emphasis.",
-      "hint": "Use exclamation marks for strong feeling or emphasis."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1la10-p-027",
-    "curriculumCode": "AC9E1LA10",
-    "bank": "practice",
-    "skill": "ac9e1la10 07 discriminate",
-    "printable": true,
-    "type": "single",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": "📖 Explain a capital; 🔎 exclamation mark; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Explain a capital; 🔎 exclamation mark; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la10.svg#ac9e1la10-p-013\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la10.svg#ac9e1la10-p-013",
-      "alt_text": "📖 Explain a capital; 🔎 exclamation mark; ✅ choose with evidence"
-    },
-    "answers": [
-      "Friday",
-      "Friday is the proper name of a day",
-      "Use this routine: Read sentence → Check start/name → Choose end mark → Re-read."
-    ],
-    "correct": 0,
-    "explanation": "Friday is the mix-up. If it asks, use a question mark.\nHint: If it asks, use a question mark.",
-    "structuredExplanation": {
-      "summary": "Friday is the mix-up. If it asks, use a question mark.",
-      "hint": "If it asks, use a question mark."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1la10-p-028",
-    "curriculumCode": "AC9E1LA10",
-    "bank": "practice",
-    "skill": "ac9e1la10 08 discriminate",
-    "printable": true,
-    "type": "single",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": "📖 Edit a short message; 🔎 capital letter; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Edit a short message; 🔎 capital letter; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la10.svg#ac9e1la10-p-015\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la10.svg#ac9e1la10-p-015",
-      "alt_text": "📖 Edit a short message; 🔎 capital letter; ✅ choose with evidence"
-    },
-    "answers": [
-      "'Dear Sam, can you come on Tuesday?'; accepts age-appropriate line break/comma handling",
-      "dear sam can you come on tuesday",
-      "Look for capital letter and check the whole example."
-    ],
-    "correct": 1,
-    "explanation": "dear sam can you come on tuesday is the mix-up. Use capitals for sentence starts and proper nouns.\nHint: Use capitals for sentence starts and proper nouns.",
-    "structuredExplanation": {
-      "summary": "dear sam can you come on tuesday is the mix-up. Use capitals for sentence starts and proper nouns.",
-      "hint": "Use capitals for sentence starts and proper nouns."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1la10-p-029",
-    "curriculumCode": "AC9E1LA10",
-    "bank": "practice",
-    "skill": "ac9e1la10 09 discriminate",
-    "printable": true,
-    "type": "single",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": "📖 Punctuate a statement; 🔎 full stop; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Punctuate a statement; 🔎 full stop; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la10.svg#ac9e1la10-p-017\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la10.svg#ac9e1la10-p-017",
-      "alt_text": "📖 Punctuate a statement; 🔎 full stop; ✅ choose with evidence"
-    },
-    "answers": [
-      "'The library closes at three.'",
-      "Check that you can capitalise proper nouns.",
-      "the library closes at three"
-    ],
-    "correct": 2,
-    "explanation": "the library closes at three is the mix-up. Use exclamation marks for strong feeling or emphasis.\nHint: Use exclamation marks for strong feeling or emphasis.",
-    "structuredExplanation": {
-      "summary": "the library closes at three is the mix-up. Use exclamation marks for strong feeling or emphasis.",
-      "hint": "Use exclamation marks for strong feeling or emphasis."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1la10-p-030",
-    "curriculumCode": "AC9E1LA10",
-    "bank": "practice",
-    "skill": "ac9e1la10 10 discriminate",
-    "printable": true,
-    "type": "single",
-    "question": "Which choice is a mix-up to avoid for this skill?",
-    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
-    "visual": "📖 Match names and common nouns; 🔎 question mark; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Match names and common nouns; 🔎 question mark; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la10.svg#ac9e1la10-p-019\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la10.svg#ac9e1la10-p-019",
-      "alt_text": "📖 Match names and common nouns; 🔎 question mark; ✅ choose with evidence"
-    },
-    "answers": [
-      "End a question with a full stop.",
-      "All three common/proper pairs correctly matched and proper names capitalised",
-      "Distinguishing common nouns from familiar proper nouns."
-    ],
-    "correct": 0,
-    "explanation": "End a question with a full stop. is the mix-up. If it asks, use a question mark.\nHint: If it asks, use a question mark.",
-    "structuredExplanation": {
-      "summary": "End a question with a full stop. is the mix-up. If it asks, use a question mark.",
-      "hint": "If it asks, use a question mark."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1la10-p-031",
-    "curriculumCode": "AC9E1LA10",
-    "bank": "practice",
-    "skill": "ac9e1la10 01 apply",
-    "printable": true,
-    "type": "single",
-    "question": "Which choice would best use this skill in a new example?",
-    "audioPrompt": "Which choice would best use this skill in a new example?",
-    "visual": "📖 Choose an ending mark; 🔎 full stop; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Choose an ending mark; 🔎 full stop; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la10.svg#ac9e1la10-p-001\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la10.svg#ac9e1la10-p-001",
-      "alt_text": "📖 Choose an ending mark; 🔎 full stop; ✅ choose with evidence"
-    },
-    "answers": [
-      "Where is my hat__",
-      "Question mark: Where is my hat?",
-      "End a question with a full stop."
-    ],
-    "correct": 1,
-    "explanation": "Question mark: Where is my hat? uses the skill correctly. If it asks, use a question mark.\nHint: If it asks, use a question mark.",
-    "structuredExplanation": {
-      "summary": "Question mark: Where is my hat? uses the skill correctly. If it asks, use a question mark.",
-      "hint": "If it asks, use a question mark."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1la10-p-032",
-    "curriculumCode": "AC9E1LA10",
-    "bank": "practice",
-    "skill": "ac9e1la10 02 apply",
-    "printable": true,
-    "type": "single",
-    "question": "Which choice would best use this skill in a new example?",
-    "audioPrompt": "Which choice would best use this skill in a new example?",
-    "visual": "📖 Match sentence purposes; 🔎 question mark; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Match sentence purposes; 🔎 question mark; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la10.svg#ac9e1la10-p-003\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la10.svg#ac9e1la10-p-003",
-      "alt_text": "📖 Match sentence purposes; 🔎 question mark; ✅ choose with evidence"
-    },
-    "answers": [
-      "Statement ↔ full stop; question ↔ question mark; urgent Stop ↔ capital letter",
-      "Statement ↔ full stop; question ↔ question mark; urgent Stop ↔ question mark",
-      "Statement ↔ full stop; question ↔ question mark; urgent Stop ↔ exclamation mark"
-    ],
-    "correct": 2,
-    "explanation": "Statement ↔ full stop; question ↔ question mark; urgent Stop ↔ exclamation mark uses the skill correctly. Use capitals for sentence starts and proper nouns.\nHint: Use capitals for sentence starts and proper nouns.",
-    "structuredExplanation": {
-      "summary": "Statement ↔ full stop; question ↔ question mark; urgent Stop ↔ exclamation mark uses the skill correctly. Use capitals for sentence starts and proper nouns.",
-      "hint": "Use capitals for sentence starts and proper nouns."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1la10-p-033",
-    "curriculumCode": "AC9E1LA10",
-    "bank": "practice",
-    "skill": "ac9e1la10 03 apply",
-    "printable": true,
-    "type": "single",
-    "question": "Which choice would best use this skill in a new example?",
-    "audioPrompt": "Which choice would best use this skill in a new example?",
-    "visual": "📖 Say three sentence types; 🔎 exclamation mark; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Say three sentence types; 🔎 exclamation mark; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la10.svg#ac9e1la10-p-005\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la10.svg#ac9e1la10-p-005",
-      "alt_text": "📖 Say three sentence types; 🔎 exclamation mark; ✅ choose with evidence"
-    },
-    "answers": [
-      "Three distinct purposes with suitable intonation and complete wording",
-      "Do not use exclamation marks for strong feeling or emphasis.",
-      "End a question with a full stop."
-    ],
-    "correct": 0,
-    "explanation": "Three distinct purposes with suitable intonation and complete wording uses the skill correctly. Use exclamation marks for strong feeling or emphasis.\nHint: Use exclamation marks for strong feeling or emphasis.",
-    "structuredExplanation": {
-      "summary": "Three distinct purposes with suitable intonation and complete wording uses the skill correctly. Use exclamation marks for strong feeling or emphasis.",
-      "hint": "Use exclamation marks for strong feeling or emphasis."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1la10-p-034",
-    "curriculumCode": "AC9E1LA10",
-    "bank": "practice",
-    "skill": "ac9e1la10 04 apply",
-    "printable": true,
-    "type": "single",
-    "question": "Which choice would best use this skill in a new example?",
-    "audioPrompt": "Which choice would best use this skill in a new example?",
-    "visual": "📖 Capitalise names; 🔎 capital letter; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Capitalise names; 🔎 capital letter; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la10.svg#ac9e1la10-p-007\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la10.svg#ac9e1la10-p-007",
-      "alt_text": "📖 Capitalise names; 🔎 capital letter; ✅ choose with evidence"
-    },
-    "answers": [
-      "on monday, leo visits perth",
-      "'On Monday, Leo visits Perth.'",
-      "End a question with a full stop."
-    ],
-    "correct": 1,
-    "explanation": "'On Monday, Leo visits Perth.' uses the skill correctly. If it asks, use a question mark.\nHint: If it asks, use a question mark.",
-    "structuredExplanation": {
-      "summary": "'On Monday, Leo visits Perth.' uses the skill correctly. If it asks, use a question mark.",
-      "hint": "If it asks, use a question mark."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1la10-p-035",
-    "curriculumCode": "AC9E1LA10",
-    "bank": "practice",
-    "skill": "ac9e1la10 05 apply",
-    "printable": true,
-    "type": "single",
-    "question": "Which choice would best use this skill in a new example?",
-    "audioPrompt": "Which choice would best use this skill in a new example?",
-    "visual": "📖 Order an editing check; 🔎 full stop; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Order an editing check; 🔎 full stop; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la10.svg#ac9e1la10-p-009\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la10.svg#ac9e1la10-p-009",
-      "alt_text": "📖 Order an editing check; 🔎 full stop; ✅ choose with evidence"
-    },
-    "answers": [
-      "add or verify ending mark → check first letter/names → Read purpose",
-      "Do not use capitals for sentence starts and proper nouns.",
-      "Read purpose → check first letter/names → add or verify ending mark"
-    ],
-    "correct": 2,
-    "explanation": "Read purpose → check first letter/names → add or verify ending mark uses the skill correctly. Use capitals for sentence starts and proper nouns.\nHint: Use capitals for sentence starts and proper nouns.",
-    "structuredExplanation": {
-      "summary": "Read purpose → check first letter/names → add or verify ending mark uses the skill correctly. Use capitals for sentence starts and proper nouns.",
-      "hint": "Use capitals for sentence starts and proper nouns."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1la10-p-036",
-    "curriculumCode": "AC9E1LA10",
-    "bank": "practice",
-    "skill": "ac9e1la10 06 apply",
-    "printable": true,
-    "type": "single",
-    "question": "Which choice would best use this skill in a new example?",
-    "audioPrompt": "Which choice would best use this skill in a new example?",
-    "visual": "📖 Draw punctuation speech bubbles; 🔎 question mark; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Draw punctuation speech bubbles; 🔎 question mark; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la10.svg#ac9e1la10-p-011\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la10.svg#ac9e1la10-p-011",
-      "alt_text": "📖 Draw punctuation speech bubbles; 🔎 question mark; ✅ choose with evidence"
-    },
-    "answers": [
-      "One complete direct question with ? and one appropriate warning/exclamation with !",
-      "Do not use exclamation marks for strong feeling or emphasis.",
-      "End a question with a full stop."
-    ],
-    "correct": 0,
-    "explanation": "One complete direct question with ? and one appropriate warning/exclamation with ! uses the skill correctly. Use exclamation marks for strong feeling or emphasis.\nHint: Use exclamation marks for strong feeling or emphasis.",
-    "structuredExplanation": {
-      "summary": "One complete direct question with ? and one appropriate warning/exclamation with ! uses the skill correctly. Use exclamation marks for strong feeling or emphasis.",
-      "hint": "Use exclamation marks for strong feeling or emphasis."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1la10-p-037",
-    "curriculumCode": "AC9E1LA10",
-    "bank": "practice",
-    "skill": "ac9e1la10 07 apply",
-    "printable": true,
-    "type": "single",
-    "question": "Which choice would best use this skill in a new example?",
-    "audioPrompt": "Which choice would best use this skill in a new example?",
-    "visual": "📖 Explain a capital; 🔎 exclamation mark; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Explain a capital; 🔎 exclamation mark; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la10.svg#ac9e1la10-p-013\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la10.svg#ac9e1la10-p-013",
-      "alt_text": "📖 Explain a capital; 🔎 exclamation mark; ✅ choose with evidence"
-    },
-    "answers": [
-      "Friday",
-      "Friday is the proper name of a day",
-      "We swim on Friday"
-    ],
-    "correct": 1,
-    "explanation": "Friday is the proper name of a day uses the skill correctly. If it asks, use a question mark.\nHint: If it asks, use a question mark.",
-    "structuredExplanation": {
-      "summary": "Friday is the proper name of a day uses the skill correctly. If it asks, use a question mark.",
-      "hint": "If it asks, use a question mark."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1la10-p-038",
-    "curriculumCode": "AC9E1LA10",
-    "bank": "practice",
-    "skill": "ac9e1la10 08 apply",
-    "printable": true,
-    "type": "single",
-    "question": "Which choice would best use this skill in a new example?",
-    "audioPrompt": "Which choice would best use this skill in a new example?",
-    "visual": "📖 Edit a short message; 🔎 capital letter; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Edit a short message; 🔎 capital letter; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la10.svg#ac9e1la10-p-015\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la10.svg#ac9e1la10-p-015",
-      "alt_text": "📖 Edit a short message; 🔎 capital letter; ✅ choose with evidence"
-    },
-    "answers": [
-      "dear sam can you come on tuesday",
-      "Do not use capitals for sentence starts and proper nouns.",
-      "'Dear Sam, can you come on Tuesday?'; accepts age-appropriate line break/comma handling"
-    ],
-    "correct": 2,
-    "explanation": "'Dear Sam, can you come on Tuesday?'; accepts age-appropriate line break/comma handling uses the skill correctly. Use capitals for sentence starts and proper nouns.\nHint: Use capitals for sentence starts and proper nouns.",
-    "structuredExplanation": {
-      "summary": "'Dear Sam, can you come on Tuesday?'; accepts age-appropriate line break/comma handling uses the skill correctly. Use capitals for sentence starts and proper nouns.",
-      "hint": "Use capitals for sentence starts and proper nouns."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1la10-p-039",
-    "curriculumCode": "AC9E1LA10",
-    "bank": "practice",
-    "skill": "ac9e1la10 09 apply",
-    "printable": true,
-    "type": "single",
-    "question": "Which choice would best use this skill in a new example?",
-    "audioPrompt": "Which choice would best use this skill in a new example?",
-    "visual": "📖 Punctuate a statement; 🔎 full stop; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Punctuate a statement; 🔎 full stop; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la10.svg#ac9e1la10-p-017\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la10.svg#ac9e1la10-p-017",
-      "alt_text": "📖 Punctuate a statement; 🔎 full stop; ✅ choose with evidence"
-    },
-    "answers": [
-      "'The library closes at three.'",
-      "the library closes at three",
-      "Do not use exclamation marks for strong feeling or emphasis."
-    ],
-    "correct": 0,
-    "explanation": "'The library closes at three.' uses the skill correctly. Use exclamation marks for strong feeling or emphasis.\nHint: Use exclamation marks for strong feeling or emphasis.",
-    "structuredExplanation": {
-      "summary": "'The library closes at three.' uses the skill correctly. Use exclamation marks for strong feeling or emphasis.",
-      "hint": "Use exclamation marks for strong feeling or emphasis."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1la10-p-040",
-    "curriculumCode": "AC9E1LA10",
-    "bank": "practice",
-    "skill": "ac9e1la10 10 apply",
-    "printable": true,
-    "type": "single",
-    "question": "Which choice would best use this skill in a new example?",
-    "audioPrompt": "Which choice would best use this skill in a new example?",
-    "visual": "📖 Match names and common nouns; 🔎 question mark; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Match names and common nouns; 🔎 question mark; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la10.svg#ac9e1la10-p-019\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la10.svg#ac9e1la10-p-019",
-      "alt_text": "📖 Match names and common nouns; 🔎 question mark; ✅ choose with evidence"
-    },
-    "answers": [
-      "End a question with a full stop.",
-      "All three common/proper pairs correctly matched and proper names capitalised",
-      "Do not use capitals for sentence starts and proper nouns."
-    ],
-    "correct": 1,
-    "explanation": "All three common/proper pairs correctly matched and proper names capitalised uses the skill correctly. If it asks, use a question mark.\nHint: If it asks, use a question mark.",
-    "structuredExplanation": {
-      "summary": "All three common/proper pairs correctly matched and proper names capitalised uses the skill correctly. If it asks, use a question mark.",
-      "hint": "If it asks, use a question mark."
+      "summary": "The marks distinguish the request for information from the excited response.",
+      "hint": "Read the whole example and check what the question asks."
     },
     "qualitySchema": "production-v1"
   }
