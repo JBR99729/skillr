@@ -80,6 +80,7 @@ document.addEventListener("DOMContentLoaded", () => {
   }
 
   function addSharePrompt(data) {
+    if (data.pendingReview) return;
     const isSuccessfulTest = /test/i.test(String(data.quizLabel || "")) && Boolean(data.passed);
     if (Number(data.percentage) !== 100 && !isSuccessfulTest) return;
 
@@ -136,6 +137,7 @@ document.addEventListener("DOMContentLoaded", () => {
   }
 
   function celebrateProficientResult(data) {
+    if (data.pendingReview) return;
     const percentage = Number(data.percentage) || 0;
     const isProficient = Boolean(data.passed) || percentage >= 75;
 
@@ -190,9 +192,13 @@ document.addEventListener("DOMContentLoaded", () => {
   const result = document.getElementById("savedResult");
   if (!data) { empty?.classList.remove("is-hidden"); return; }
   result?.classList.remove("is-hidden");
-  document.getElementById("resultScore").textContent = `${data.score} out of ${data.total}`;
+  document.getElementById("resultScore").textContent = data.pendingReview
+    ? `${data.score} out of ${data.markedTotal} checked answers (${data.total} tasks completed)`
+    : `${data.score} out of ${data.total}`;
   document.getElementById("resultPercent").textContent = `${data.percentage}%`;
-  document.getElementById("resultStatus").textContent = data.passed ? "Passed" : "Keep practising";
+  document.getElementById("resultStatus").textContent = data.pendingReview
+    ? `${data.pendingReview} task${data.pendingReview === 1 ? "" : "s"} need a grown-up's check. The percentage covers checked answers only. Open Review answers to finish marking.`
+    : data.passed ? "Passed" : "Keep practising";
   const name = document.getElementById("studentResultName");
   if (name && data.studentName) name.textContent = data.studentName;
   const review = document.getElementById("resultReviewLink");
@@ -202,12 +208,12 @@ document.addEventListener("DOMContentLoaded", () => {
 
   const certificateButton = document.getElementById("certificateButton");
   if (certificateButton) {
-    const certificateEligible = Number(data.percentage) > 75;
+    const certificateEligible = !data.pendingReview && Number(data.percentage) > 75;
     const certificateNote = document.createElement("p");
     certificateNote.className = "certificate-eligibility-note";
     certificateNote.textContent = certificateEligible
       ? "Certificate unlocked — use Print certificate below."
-      : "Print certificate is available when you score above 75%.";
+      : data.pendingReview ? "Finish the grown-up's review before a certificate can be awarded." : "Print certificate is available when you score above 75%.";
     certificateButton.closest(".result-actions")?.insertAdjacentElement(
       "beforebegin",
       certificateNote

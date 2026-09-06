@@ -1,460 +1,432 @@
 "use strict";
+// 20260906-y1-original-v1 - generated from the canonical Year 1 bank.
 window.skillrTestQuestions = [
   {
-    "id": "ac9m1m02-t-001",
+    "id": "AC9M1M02-T01",
+    "questionId": "T01",
     "curriculumCode": "AC9M1M02",
     "bank": "test",
-    "skill": "read a unit model",
-    "printable": true,
-    "type": "single",
-    "question": "[Show the matching tens-and-ones blocks.] Which measurement matches the model?",
-    "audioPrompt": "[Show the matching tens-and-ones blocks.] Which measurement matches the model?",
-    "answers": [
-      "5 squares long",
-      "4 squares long",
-      "6 squares long"
-    ],
-    "correct": 0,
-    "explanation": "Count the 5 equal squares.\nHint: Use the picture or numbers to test each answer, then choose the one that matches exactly.",
-    "structuredExplanation": {
-      "summary": "Count the 5 equal squares.",
-      "hint": "Use the picture or numbers to test each answer, then choose the one that matches exactly."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m1m02-t-002",
-    "curriculumCode": "AC9M1M02",
-    "bank": "test",
-    "skill": "complete a unit row",
-    "printable": true,
-    "type": "single",
-    "question": "A ribbon is 7 cubes long. 6 cubes are already placed. How many more cubes are needed?",
-    "audioPrompt": "A ribbon is 7 cubes long. 6 cubes are already placed. How many more cubes are needed?",
-    "visual": "Equal units touch end-to-end with no gaps or overlaps. Specific example: ▣ ▣ ▣ ▣ ▣ ▣ ? This is test example 2.",
-    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A ribbon is 7 cubes long. 6 cubes are already placed. How many more cubes are needed?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1m02.svg#ac9m1m02-t-002\">\u003c/use>\u003c/svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1m02.svg#ac9m1m02-t-002",
-      "alt_text": "A ribbon is 7 cubes long. 6 cubes are already placed. How many more cubes are needed?"
-    },
-    "answers": [
-      "0",
-      "1",
-      "2"
-    ],
-    "correct": 1,
-    "explanation": "One more equal cube completes the length.\nHint: Line up the ends and compare how far each object reaches.",
-    "structuredExplanation": {
-      "summary": "One more equal cube completes the length.",
-      "hint": "Line up the ends and compare how far each object reaches."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m1m02-t-003",
-    "curriculumCode": "AC9M1M02",
-    "bank": "test",
-    "skill": "measurement procedure",
-    "printable": true,
-    "type": "single",
-    "question": "Order the steps for measuring a book with blocks. Which order is correct?",
-    "audioPrompt": "Order the steps for measuring a book with blocks. Which order is correct?",
-    "visual": "Equal units touch end-to-end with no gaps or overlaps. This is test example 3.",
-    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Order the steps for measuring a book with blocks. Which order is correct?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1m02.svg#ac9m1m02-t-003\">\u003c/use>\u003c/svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1m02.svg#ac9m1m02-t-003",
-      "alt_text": "Order the steps for measuring a book with blocks. Which order is correct?"
-    },
-    "answers": [
-      "Choose equal blocks → Count the blocks → Place them from one end with no gaps",
-      "Count the blocks → Place them from one end with no gaps → Choose equal blocks",
-      "Choose equal blocks → Place them from one end with no gaps → Count the blocks"
-    ],
-    "correct": 2,
-    "explanation": "Choose the unit, cover the length fairly, then count.\nHint: Use the picture or numbers to test each answer, then choose the one that matches exactly.",
-    "structuredExplanation": {
-      "summary": "Choose the unit, cover the length fairly, then count.",
-      "hint": "Use the picture or numbers to test each answer, then choose the one that matches exactly."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m1m02-t-004",
-    "curriculumCode": "AC9M1M02",
-    "bank": "test",
-    "skill": "measurement rules",
-    "printable": true,
-    "type": "single",
-    "question": "Select all rules for measuring length with informal units. Choose the group with all the correct answers.",
-    "audioPrompt": "Select all rules for measuring length with informal units. Choose the group with all the correct answers.",
-    "visual": "Equal units touch end-to-end with no gaps or overlaps. Specific example: Measuring Length with Informal Units: measurement rules This is test example 4.",
-    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Select all rules for measuring length with informal units. Choose the group with all the correct answers.\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1m02.svg#ac9m1m02-t-004\">\u003c/use>\u003c/svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1m02.svg#ac9m1m02-t-004",
-      "alt_text": "Select all rules for measuring length with informal units. Choose the group with all the correct answers."
-    },
-    "answers": [
-      "Avoid gaps and overlaps, Use equal-sized units, Place units end-to-end",
-      "Avoid gaps and overlaps, Use equal-sized units",
-      "Avoid gaps and overlaps, Use equal-sized units, Change unit size halfway"
-    ],
-    "correct": 0,
-    "explanation": "Uniform units placed end-to-end cover the length once.\nHint: Line up the ends and compare how far each object reaches.",
-    "structuredExplanation": {
-      "summary": "Uniform units placed end-to-end cover the length once.",
-      "hint": "Line up the ends and compare how far each object reaches."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m1m02-t-005",
-    "curriculumCode": "AC9M1M02",
-    "bank": "test",
-    "skill": "order measured lengths",
-    "printable": true,
-    "type": "single",
-    "question": "All objects were measured with the same block. Order them from shortest to longest. Which order is correct?",
-    "audioPrompt": "All objects were measured with the same block. Order them from shortest to longest. Which order is correct?",
-    "visual": "Equal units touch end-to-end with no gaps or overlaps. Specific example: Measuring Length with Informal Units: order measured lengths This is test example 5.",
-    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"All objects were measured with the same block. Order them from shortest to longest. Which order is correct?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1m02.svg#ac9m1m02-t-005\">\u003c/use>\u003c/svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1m02.svg#ac9m1m02-t-005",
-      "alt_text": "All objects were measured with the same block. Order them from shortest to longest. Which order is correct?"
-    },
-    "answers": [
-      "5 blocks → 11 blocks → 8 blocks",
-      "5 blocks → 8 blocks → 11 blocks",
-      "11 blocks → 8 blocks → 5 blocks"
-    ],
-    "correct": 1,
-    "explanation": "With the same unit, smaller counts are shorter.\nHint: Line up the ends and compare how far each object reaches.",
-    "structuredExplanation": {
-      "summary": "With the same unit, smaller counts are shorter.",
-      "hint": "Line up the ends and compare how far each object reaches."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m1m02-t-006",
-    "curriculumCode": "AC9M1M02",
-    "bank": "test",
+    "bankVersion": "20260906-y1-original-v1",
+    "question": "Five equal paper clips touch end to end and match a strip exactly. How long is the strip?",
+    "explanation": "There is one unit for each of the five paper clips.",
     "skill": "count informal units",
+    "responseType": "mcq",
+    "difficulty": 2,
+    "cognitiveDemand": "apply",
+    "visualModel": {
+      "type": "bars",
+      "bars": [
+        {
+          "label": "Strip",
+          "units": 5
+        }
+      ],
+      "caption": "5 equal units cover the whole length, touching end to end."
+    },
+    "acceptanceNote": "",
     "printable": true,
     "type": "single",
-    "question": "Measure independently by checking every unit. How many equal blocks long is the line?",
-    "audioPrompt": "Measure independently by checking every unit. How many equal blocks long is the line?",
-    "visual": "Equal units touch end-to-end with no gaps or overlaps. Specific example: |▣▣▣▣▣▣▣▣▣▣| This is test example 6.",
-    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Measure independently by checking every unit. How many equal blocks long is the line?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1m02.svg#ac9m1m02-t-006\">\u003c/use>\u003c/svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1m02.svg#ac9m1m02-t-006",
-      "alt_text": "Measure independently by checking every unit. How many equal blocks long is the line?"
-    },
     "answers": [
-      "9",
-      "11",
-      "10"
+      "4 paper clips",
+      "5 paper clips",
+      "6 paper clips"
     ],
-    "correct": 2,
-    "explanation": "The line is covered by 10 equal blocks.\nHint: Line up the ends and compare how far each object reaches.",
-    "structuredExplanation": {
-      "summary": "The line is covered by 10 equal blocks.",
-      "hint": "Line up the ends and compare how far each object reaches."
-    },
-    "qualitySchema": "production-v1"
+    "correct": 1
   },
   {
-    "id": "ac9m1m02-t-007",
+    "id": "AC9M1M02-T02",
+    "questionId": "T02",
     "curriculumCode": "AC9M1M02",
     "bank": "test",
-    "skill": "start at the end",
+    "bankVersion": "20260906-y1-original-v1",
+    "question": "Each □ is one equal tile. The rows match the whole lengths of the objects.\nTray: □ □ □ □\nMat: □ □ □ □ □ □\nWhich object is 6 tiles long?",
+    "explanation": "Six equal tiles cover the mat. The tray is only four tiles long.",
+    "skill": "identify object by measured length",
+    "responseType": "mcq",
+    "difficulty": 2,
+    "cognitiveDemand": "apply",
+    "visualModel": {
+      "type": "bars",
+      "bars": [
+        {
+          "label": "Tray",
+          "units": 4
+        },
+        {
+          "label": "Mat",
+          "units": 6
+        }
+      ],
+      "caption": "Each block is one equal tile. Tiles touch end to end."
+    },
+    "acceptanceNote": "",
     "printable": true,
     "type": "single",
-    "question": "Where should the first informal unit be placed?",
-    "audioPrompt": "Where should the first informal unit be placed?",
-    "visual": "Equal units touch end-to-end with no gaps or overlaps. Specific example: Measuring Length with Informal Units: start at the end This is test example 7.",
-    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Where should the first informal unit be placed?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1m02.svg#ac9m1m02-t-007\">\u003c/use>\u003c/svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1m02.svg#ac9m1m02-t-007",
-      "alt_text": "Where should the first informal unit be placed?"
-    },
     "answers": [
-      "At one end of the object",
-      "In the middle only",
-      "After a gap"
+      "The tray",
+      "The mat",
+      "Both objects"
     ],
-    "correct": 0,
-    "explanation": "Measuring begins at an endpoint so the full length is covered.\nHint: Use the picture or numbers to test each answer, then choose the one that matches exactly.",
-    "structuredExplanation": {
-      "summary": "Measuring begins at an endpoint so the full length is covered.",
-      "hint": "Use the picture or numbers to test each answer, then choose the one that matches exactly."
-    },
-    "qualitySchema": "production-v1"
+    "correct": 1
   },
   {
-    "id": "ac9m1m02-t-008",
+    "id": "AC9M1M02-T03",
+    "questionId": "T03",
     "curriculumCode": "AC9M1M02",
     "bank": "test",
-    "skill": "mixed units misconception",
+    "bankVersion": "20260906-y1-original-v1",
+    "question": "The same tiles measure three lines.\nA: 9 tiles\nB: 6 tiles\nC: 7 tiles\nWhich line is shortest?",
+    "explanation": "Six is the smallest count of the same unit, so B is shortest.",
+    "skill": "order measured lengths",
+    "responseType": "mcq",
+    "difficulty": 2,
+    "cognitiveDemand": "apply",
+    "visualModel": {
+      "type": "table",
+      "headers": [
+        "Line",
+        "Length"
+      ],
+      "rows": [
+        [
+          "A",
+          "9 tiles"
+        ],
+        [
+          "B",
+          "6 tiles"
+        ],
+        [
+          "C",
+          "7 tiles"
+        ]
+      ]
+    },
+    "acceptanceNote": "",
     "printable": true,
     "type": "single",
-    "question": "One child measures a desk with large blocks and another with small blocks. Can their counts be compared directly?",
-    "audioPrompt": "One child measures a desk with large blocks and another with small blocks. Can their counts be compared directly?",
-    "visual": "Equal units touch end-to-end with no gaps or overlaps. Specific example: Measuring Length with Informal Units: mixed units misconception This is test example 8.",
-    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"One child measures a desk with large blocks and another with small blocks. Can their counts be compared directly?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1m02.svg#ac9m1m02-t-008\">\u003c/use>\u003c/svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1m02.svg#ac9m1m02-t-008",
-      "alt_text": "One child measures a desk with large blocks and another with small blocks. Can their counts be compared directly?"
-    },
     "answers": [
-      "Yes, the larger number always wins",
-      "No, the unit sizes are different",
-      "Yes, all blocks have the same value"
+      "B",
+      "C",
+      "A"
     ],
-    "correct": 1,
-    "explanation": "Counts only compare fairly when the unit is the same size.\nHint: Count each amount carefully, then compare the two totals.",
-    "structuredExplanation": {
-      "summary": "Counts only compare fairly when the unit is the same size.",
-      "hint": "Count each amount carefully, then compare the two totals."
-    },
-    "qualitySchema": "production-v1"
+    "correct": 0
   },
   {
-    "id": "ac9m1m02-t-009",
+    "id": "AC9M1M02-T04",
+    "questionId": "T04",
     "curriculumCode": "AC9M1M02",
     "bank": "test",
-    "skill": "no overlaps",
+    "bankVersion": "20260906-y1-original-v1",
+    "question": "A brush is 7 cubes long. A crayon is 4 of the same cubes long. How many cubes shorter is the crayon?",
+    "explanation": "The difference between 7 and 4 equal cube lengths is 3.",
+    "skill": "compare length difference",
+    "responseType": "short_answer",
+    "difficulty": 2,
+    "cognitiveDemand": "apply",
+    "visualModel": null,
+    "acceptanceNote": "Accept 3 or three cubes.",
     "printable": true,
-    "type": "single",
-    "question": "Why should informal units not overlap?",
-    "audioPrompt": "Why should informal units not overlap?",
-    "visual": "Overlapping units give an incorrect measure. This is test example 9.",
-    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Why should informal units not overlap?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1m02.svg#ac9m1m02-t-009\">\u003c/use>\u003c/svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1m02.svg#ac9m1m02-t-009",
-      "alt_text": "Why should informal units not overlap?"
-    },
-    "answers": [
-      "The units would change colour",
-      "The object would become longer",
-      "The same length would be counted twice"
+    "type": "text",
+    "correct": "3 cubes",
+    "acceptedAnswers": [
+      "3",
+      "three",
+      "3 cubes",
+      "three cubes"
     ],
-    "correct": 2,
-    "explanation": "Overlapping units cover and count part of the length more than once.\nHint: Use the picture or numbers to test each answer, then choose the one that matches exactly.",
-    "structuredExplanation": {
-      "summary": "Overlapping units cover and count part of the length more than once.",
-      "hint": "Use the picture or numbers to test each answer, then choose the one that matches exactly."
-    },
-    "qualitySchema": "production-v1"
+    "answerFormat": "plain"
   },
   {
-    "id": "ac9m1m02-t-010",
+    "id": "AC9M1M02-T05",
+    "questionId": "T05",
     "curriculumCode": "AC9M1M02",
     "bank": "test",
-    "skill": "find a gap",
+    "bankVersion": "20260906-y1-original-v1",
+    "question": "A child leaves gaps between the blocks used to measure a shelf. Why is the count unreliable?",
+    "explanation": "The gaps add length that has not been counted as units.",
+    "skill": "explain gaps error",
+    "responseType": "mcq",
+    "difficulty": 3,
+    "cognitiveDemand": "reason",
+    "visualModel": null,
+    "acceptanceNote": "",
     "printable": true,
     "type": "single",
-    "question": "Measure independently by checking every unit. What makes this measurement inaccurate?",
-    "audioPrompt": "Measure independently by checking every unit. What makes this measurement inaccurate?",
-    "visual": "Gaps give an incorrect measure. Specific example: Object: |——————————————————| Units: ▣ ▣ ▣ ▣ ▣ ▣ ▣ ▣ ▣ This is test example 10.",
-    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Measure independently by checking every unit. What makes this measurement inaccurate?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1m02.svg#ac9m1m02-t-010\">\u003c/use>\u003c/svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1m02.svg#ac9m1m02-t-010",
-      "alt_text": "Measure independently by checking every unit. What makes this measurement inaccurate?"
-    },
     "answers": [
-      "There is a gap between units",
-      "The units touch end-to-end",
-      "All units are equal"
+      "The shelf has two ends.",
+      "The blocks are all the same size.",
+      "Some shelf length is covered by gaps instead of blocks."
     ],
-    "correct": 0,
-    "explanation": "The uncovered gap is part of the object's length.\nHint: Use the picture or numbers to test each answer, then choose the one that matches exactly.",
-    "structuredExplanation": {
-      "summary": "The uncovered gap is part of the object's length.",
-      "hint": "Use the picture or numbers to test each answer, then choose the one that matches exactly."
-    },
-    "qualitySchema": "production-v1"
+    "correct": 2
   },
   {
-    "id": "ac9m1m02-t-011",
+    "id": "AC9M1M02-T06",
+    "questionId": "T06",
     "curriculumCode": "AC9M1M02",
     "bank": "test",
-    "skill": "uniform units",
+    "bankVersion": "20260906-y1-original-v1",
+    "question": "Equal blocks measure three strips. Each row matches the whole strip.\nA: □ □ □ □ □\nB: □ □ □ □ □ □ □\nC: □ □ □ □ □\nWhich pair has equal lengths?",
+    "explanation": "A and C each measure five of the same blocks, so their lengths are equal.",
+    "skill": "match equal measured lengths",
+    "responseType": "mcq",
+    "difficulty": 2,
+    "cognitiveDemand": "apply",
+    "visualModel": {
+      "type": "bars",
+      "bars": [
+        {
+          "label": "A",
+          "units": 5
+        },
+        {
+          "label": "B",
+          "units": 7
+        },
+        {
+          "label": "C",
+          "units": 5
+        }
+      ],
+      "caption": "Equal blocks touch end to end and cover each whole strip."
+    },
+    "acceptanceNote": "",
     "printable": true,
     "type": "single",
-    "question": "Which set of units should be used to measure one object?",
-    "audioPrompt": "Which set of units should be used to measure one object?",
-    "visual": "Equal units touch end-to-end with no gaps or overlaps. Specific example: Measuring Length with Informal Units: uniform units This is test example 11.",
-    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Which set of units should be used to measure one object?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1m02.svg#ac9m1m02-t-011\">\u003c/use>\u003c/svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1m02.svg#ac9m1m02-t-011",
-      "alt_text": "Which set of units should be used to measure one object?"
-    },
     "answers": [
-      "A mix of large and small blocks",
-      "Blocks that are all the same size",
-      "Any objects with gaps"
+      "A and B",
+      "A and C",
+      "B and C"
     ],
-    "correct": 1,
-    "explanation": "Uniform units give each count the same meaning.\nHint: Use the picture or numbers to test each answer, then choose the one that matches exactly.",
-    "structuredExplanation": {
-      "summary": "Uniform units give each count the same meaning.",
-      "hint": "Use the picture or numbers to test each answer, then choose the one that matches exactly."
-    },
-    "qualitySchema": "production-v1"
+    "correct": 1
   },
   {
-    "id": "ac9m1m02-t-012",
+    "id": "AC9M1M02-T07",
+    "questionId": "T07",
     "curriculumCode": "AC9M1M02",
     "bank": "test",
-    "skill": "no gaps",
+    "bankVersion": "20260906-y1-original-v1",
+    "question": "A strip uses 10 short clips or 5 long clips when measured correctly. Which clips are longer?",
+    "explanation": "Fewer units cover the same strip when each unit is longer.",
+    "skill": "unit-size inference",
+    "responseType": "mcq",
+    "difficulty": 3,
+    "cognitiveDemand": "reason",
+    "visualModel": null,
+    "acceptanceNote": "",
     "printable": true,
     "type": "single",
-    "question": "Which rule makes an informal-unit measurement accurate?",
-    "audioPrompt": "Which rule makes an informal-unit measurement accurate?",
-    "visual": "Gaps give an incorrect measure. This is test example 12.",
-    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Which rule makes an informal-unit measurement accurate?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1m02.svg#ac9m1m02-t-012\">\u003c/use>\u003c/svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1m02.svg#ac9m1m02-t-012",
-      "alt_text": "Which rule makes an informal-unit measurement accurate?"
-    },
     "answers": [
-      "Leave spaces between units",
-      "Use units of any size",
-      "Place equal units with no gaps"
+      "The clips used in the group of 5",
+      "The clips used in the group of 10",
+      "Both clip sizes are equal."
     ],
-    "correct": 2,
-    "explanation": "Gaps leave some length unmeasured.\nHint: Use the picture or numbers to test each answer, then choose the one that matches exactly.",
-    "structuredExplanation": {
-      "summary": "Gaps leave some length unmeasured.",
-      "hint": "Use the picture or numbers to test each answer, then choose the one that matches exactly."
-    },
-    "qualitySchema": "production-v1"
+    "correct": 0
   },
   {
-    "id": "ac9m1m02-t-013",
+    "id": "AC9M1M02-T08",
+    "questionId": "T08",
     "curriculumCode": "AC9M1M02",
     "bank": "test",
-    "skill": "uniform units",
+    "bankVersion": "20260906-y1-original-v1",
+    "question": "Equal blocks cover a ribbon exactly. There are 8 blocks and 7 joins between them. Record the ribbon’s length with its unit.",
+    "explanation": "The blocks are the length units; the joins are not extra units.",
+    "skill": "record units rather than joins",
+    "responseType": "short_answer",
+    "difficulty": 2,
+    "cognitiveDemand": "apply",
+    "visualModel": null,
+    "acceptanceNote": "Require 8 and blocks.",
     "printable": true,
-    "type": "single",
-    "question": "Why should each measuring block be the same size?",
-    "audioPrompt": "Why should each measuring block be the same size?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "asset_path": "",
-      "alt_text": ""
-    },
-    "answers": [
-      "So the measure is fair",
-      "So the colour matches",
-      "So there are more blocks"
+    "type": "text",
+    "correct": "8 blocks",
+    "acceptedAnswers": [
+      "8 blocks",
+      "eight blocks"
     ],
-    "correct": 0,
-    "explanation": "Same-size units make the count fair and useful.\nHint: Use the picture or numbers to test each answer, then choose the one that matches exactly.",
-    "structuredExplanation": {
-      "summary": "Same-size units make the count fair and useful.",
-      "hint": "Use the picture or numbers to test each answer, then choose the one that matches exactly."
-    },
-    "qualitySchema": "production-v1"
+    "answerFormat": "plain"
   },
   {
-    "id": "ac9m1m02-t-014",
+    "id": "AC9M1M02-T09",
+    "questionId": "T09",
     "curriculumCode": "AC9M1M02",
     "bank": "test",
-    "skill": "end to end measuring",
+    "bankVersion": "20260906-y1-original-v1",
+    "question": "A child starts measuring a stick one cube-length after its end. What has been missed?",
+    "explanation": "Starting after the end leaves part of the whole length unmeasured.",
+    "skill": "diagnose missed starting length",
+    "responseType": "mcq",
+    "difficulty": 3,
+    "cognitiveDemand": "reason",
+    "visualModel": null,
+    "acceptanceNote": "",
     "printable": true,
     "type": "single",
-    "question": "How should blocks be placed to measure a pencil?",
-    "audioPrompt": "How should blocks be placed to measure a pencil?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "asset_path": "",
-      "alt_text": ""
-    },
     "answers": [
-      "with gaps between them",
-      "end-to-end with no gaps",
-      "stacked in a tower"
+      "Only the stick’s colour",
+      "An extra cube beyond the stick",
+      "The first part of the stick"
     ],
-    "correct": 1,
-    "explanation": "Units must touch end-to-end with no gaps.\nHint: Use the picture or numbers to test each answer, then choose the one that matches exactly.",
-    "structuredExplanation": {
-      "summary": "Units must touch end-to-end with no gaps.",
-      "hint": "Use the picture or numbers to test each answer, then choose the one that matches exactly."
-    },
-    "qualitySchema": "production-v1"
+    "correct": 2
   },
   {
-    "id": "ac9m1m02-t-015",
+    "id": "AC9M1M02-T10",
+    "questionId": "T10",
     "curriculumCode": "AC9M1M02",
     "bank": "test",
-    "skill": "interpret informal units",
+    "bankVersion": "20260906-y1-original-v1",
+    "question": "A ribbon is 6 beads long. Another ribbon is 6 beads long. The bead sizes are not given. Must the ribbons have equal lengths?",
+    "explanation": "Equal counts show equal lengths only when the length units match.",
+    "skill": "critique mismatched units",
+    "responseType": "mcq",
+    "difficulty": 3,
+    "cognitiveDemand": "reason",
+    "visualModel": null,
+    "acceptanceNote": "",
     "printable": true,
     "type": "single",
-    "question": "A ribbon is 7 cubes long. What does 7 tell us?",
-    "audioPrompt": "A ribbon is 7 cubes long. What does 7 tell us?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "asset_path": "",
-      "alt_text": ""
-    },
     "answers": [
-      "the ribbon weighs 7 cubes",
-      "the ribbon is 7 colours",
-      "7 same-size cubes fit along it"
+      "No, because two ribbons can never match.",
+      "Yes, because both counts are 6.",
+      "No, the beads might have different lengths."
     ],
-    "correct": 2,
-    "explanation": "It tells how many same-size cubes fit along the ribbon.\nHint: Line up the ends and compare how far each object reaches.",
-    "structuredExplanation": {
-      "summary": "It tells how many same-size cubes fit along the ribbon.",
-      "hint": "Line up the ends and compare how far each object reaches."
-    },
-    "qualitySchema": "production-v1"
+    "correct": 2
   },
   {
-    "id": "ac9m1m02-t-016",
+    "id": "AC9M1M02-T11",
+    "questionId": "T11",
     "curriculumCode": "AC9M1M02",
     "bank": "test",
-    "skill": "compare measured lengths",
+    "bankVersion": "20260906-y1-original-v1",
+    "question": "A line is covered exactly by 3 equal sticks. Each stick is as long as 2 equal tiles. How many tiles long is the line?",
+    "explanation": "Each stick is replaced by 2 tiles: 2, 4, 6.",
+    "skill": "subdivide informal units",
+    "responseType": "mcq",
+    "difficulty": 3,
+    "cognitiveDemand": "reason",
+    "visualModel": null,
+    "acceptanceNote": "",
     "printable": true,
     "type": "single",
-    "question": "Book A is 9 blocks long. Book B is 6 blocks long. Which is longer?",
-    "audioPrompt": "Book A is 9 blocks long. Book B is 6 blocks long. Which is longer?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "asset_path": "",
-      "alt_text": ""
-    },
     "answers": [
-      "Book A",
-      "Book B",
-      "they are equal"
+      "6 tiles",
+      "3 tiles",
+      "5 tiles"
     ],
-    "correct": 0,
-    "explanation": "9 blocks is more than 6 blocks, so Book A is longer.\nHint: Line up the ends and compare how far each object reaches.",
-    "structuredExplanation": {
-      "summary": "9 blocks is more than 6 blocks, so Book A is longer.",
-      "hint": "Line up the ends and compare how far each object reaches."
-    },
-    "qualitySchema": "production-v1"
+    "correct": 0
+  },
+  {
+    "id": "AC9M1M02-T12",
+    "questionId": "T12",
+    "curriculumCode": "AC9M1M02",
+    "bank": "test",
+    "bankVersion": "20260906-y1-original-v1",
+    "question": "A strip is 9 cubes long. So far, 6 matching cubes have been placed correctly along it. How many more are needed?",
+    "explanation": "Three more cubes complete the length from 6 to 9 cubes.",
+    "skill": "complete partial measure",
+    "responseType": "short_answer",
+    "difficulty": 2,
+    "cognitiveDemand": "apply",
+    "visualModel": null,
+    "acceptanceNote": "Accept 3 or three cubes.",
+    "printable": true,
+    "type": "text",
+    "correct": "3 cubes",
+    "acceptedAnswers": [
+      "3",
+      "three",
+      "3 cubes",
+      "three cubes"
+    ],
+    "answerFormat": "plain"
+  },
+  {
+    "id": "AC9M1M02-T13",
+    "questionId": "T13",
+    "curriculumCode": "AC9M1M02",
+    "bank": "test",
+    "bankVersion": "20260906-y1-original-v1",
+    "question": "Equal blocks cover a card, but two blocks overlap. What should you do?",
+    "explanation": "Overlaps cover a part twice. Arrange units correctly before recording the count.",
+    "skill": "repair overlaps",
+    "responseType": "mcq",
+    "difficulty": 3,
+    "cognitiveDemand": "reason",
+    "visualModel": null,
+    "acceptanceNote": "",
+    "printable": true,
+    "type": "single",
+    "answers": [
+      "Count the overlap as an extra block.",
+      "Keep the overlap and use the same count.",
+      "Spread them end to end, then measure and count again."
+    ],
+    "correct": 2
+  },
+  {
+    "id": "AC9M1M02-T14",
+    "questionId": "T14",
+    "curriculumCode": "AC9M1M02",
+    "bank": "test",
+    "bankVersion": "20260906-y1-original-v1",
+    "question": "A rope is 8 tiles long and a cord is 8 of the same tiles long. Which statement is true?",
+    "explanation": "Matching counts of the same length unit show equal lengths.",
+    "skill": "infer equal lengths",
+    "responseType": "mcq",
+    "difficulty": 2,
+    "cognitiveDemand": "apply",
+    "visualModel": null,
+    "acceptanceNote": "",
+    "printable": true,
+    "type": "single",
+    "answers": [
+      "The cord is shorter because it is a cord.",
+      "They have the same length.",
+      "The rope is longer because it is a rope."
+    ],
+    "correct": 1
+  },
+  {
+    "id": "AC9M1M02-T15",
+    "questionId": "T15",
+    "curriculumCode": "AC9M1M02",
+    "bank": "test",
+    "bankVersion": "20260906-y1-original-v1",
+    "question": "Six whole blocks fit along a strip. The strip continues partway along a seventh block. Which description fits?",
+    "explanation": "The strip is longer than six full units but does not reach seven full units.",
+    "skill": "recognise incomplete final unit",
+    "responseType": "mcq",
+    "difficulty": 3,
+    "cognitiveDemand": "reason",
+    "visualModel": null,
+    "acceptanceNote": "",
+    "printable": true,
+    "type": "single",
+    "answers": [
+      "More than 6 and less than 7 blocks long",
+      "More than 7 blocks long",
+      "Exactly 6 blocks long"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "AC9M1M02-T16",
+    "questionId": "T16",
+    "curriculumCode": "AC9M1M02",
+    "bank": "test",
+    "bankVersion": "20260906-y1-original-v1",
+    "question": "You must make a path exactly 6 equal tiles long. Describe how you will place and check the tiles.",
+    "explanation": "The whole path is made from six equal length units that touch.",
+    "skill": "construct and check measured length",
+    "responseType": "short_answer",
+    "difficulty": 3,
+    "cognitiveDemand": "create",
+    "visualModel": null,
+    "acceptanceNote": "Accept six matching tiles touching end to end, with a count/check of six.",
+    "printable": true,
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "correct": "Place 6 equal tiles end to end with no gaps or overlaps, then count them.",
+    "modelAnswer": "Place 6 equal tiles end to end with no gaps or overlaps, then count them."
   }
 ];

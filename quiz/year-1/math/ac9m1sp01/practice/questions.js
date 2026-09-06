@@ -1,1175 +1,663 @@
 "use strict";
+// 20260906-y1-original-v1 - generated from the canonical Year 1 bank.
 window.skillrPracticeQuestions = [
   {
-    "id": "ac9m1sp01-p-001",
+    "id": "AC9M1SP01-P01",
+    "questionId": "P01",
     "curriculumCode": "AC9M1SP01",
     "bank": "practice",
-    "skill": "cube faces",
+    "bankVersion": "20260906-y1-original-v1",
+    "question": "Look at these shapes: A is a circle, B is a triangle and C is a rectangle. Which has three straight sides?",
+    "explanation": "A triangle has three straight sides and three corners.",
+    "skill": "identify from properties",
+    "responseType": "mcq",
+    "difficulty": 1,
+    "cognitiveDemand": "recognise",
+    "visualModel": {
+      "type": "shapes",
+      "items": [
+        {
+          "label": "A",
+          "shape": "circle"
+        },
+        {
+          "label": "B",
+          "shape": "triangle"
+        },
+        {
+          "label": "C",
+          "shape": "rectangle"
+        }
+      ]
+    },
+    "acceptanceNote": "",
     "printable": true,
     "type": "single",
-    "question": "How many flat faces does a cube have?",
-    "audioPrompt": "How many flat faces does a cube have?",
-    "visual": "A cylinder, sphere, cube and cone are shown with their different faces and curved surfaces. Specific example: ▣ cube This is practice example 1.",
-    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"How many flat faces does a cube have?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1sp01.svg#ac9m1sp01-p-001\">\u003c/use>\u003c/svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1sp01.svg#ac9m1sp01-p-001",
-      "alt_text": "How many flat faces does a cube have?"
-    },
     "answers": [
-      "6",
-      "5",
-      "7"
+      "C",
+      "B",
+      "A"
     ],
-    "correct": 0,
-    "explanation": "A cube has 6 square faces.\nHint: Count the sides, corners or faces, then match those features to the shape.",
-    "structuredExplanation": {
-      "summary": "A cube has 6 square faces.",
-      "hint": "Count the sides, corners or faces, then match those features to the shape."
-    },
-    "qualitySchema": "production-v1"
+    "correct": 1
   },
   {
-    "id": "ac9m1sp01-p-002",
+    "id": "AC9M1SP01-P02",
+    "questionId": "P02",
     "curriculumCode": "AC9M1SP01",
     "bank": "practice",
-    "skill": "rotated shape",
+    "bankVersion": "20260906-y1-original-v1",
+    "question": "A plate has a round, flat base. Which shape would you draw around its base?",
+    "explanation": "The edge of a round plate makes a circle.",
+    "skill": "trace a familiar object",
+    "responseType": "mcq",
+    "difficulty": 1,
+    "cognitiveDemand": "recognise",
+    "visualModel": null,
+    "acceptanceNote": "",
     "printable": true,
     "type": "single",
-    "question": "Which statement is correct?",
-    "audioPrompt": "Which statement is correct?",
-    "visual": "A circle, square, triangle and rectangle are shown so their sides and corners can be compared. Specific example: ◇ This is practice example 2.",
-    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Which statement is correct?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1sp01.svg#ac9m1sp01-p-002\">\u003c/use>\u003c/svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1sp01.svg#ac9m1sp01-p-002",
-      "alt_text": "Which statement is correct?"
-    },
     "answers": [
-      "It is not true that noah studies this example. A square turned so that one corner points up is still a square.",
-      "Noah studies this example. A square turned so that one corner points up is still a square.",
-      "A shape gets a new name whenever it is turned."
+      "Rectangle",
+      "Triangle",
+      "Circle"
     ],
-    "correct": 1,
-    "explanation": "Turning a shape does not change its sides or corners.\nHint: Count the sides, corners or faces, then match those features to the shape.",
-    "structuredExplanation": {
-      "summary": "Turning a shape does not change its sides or corners.",
-      "hint": "Count the sides, corners or faces, then match those features to the shape."
-    },
-    "qualitySchema": "production-v1"
+    "correct": 2
   },
   {
-    "id": "ac9m1sp01-p-003",
+    "id": "AC9M1SP01-P03",
+    "questionId": "P03",
     "curriculumCode": "AC9M1SP01",
     "bank": "practice",
-    "skill": "sort shapes",
+    "bankVersion": "20260906-y1-original-v1",
+    "question": "A square and a rectangle each have four straight sides. What else do they both have?",
+    "explanation": "Both shapes have four corners, even when their side lengths differ.",
+    "skill": "compare shared features",
+    "responseType": "mcq",
+    "difficulty": 3,
+    "cognitiveDemand": "reason",
+    "visualModel": {
+      "type": "shapes",
+      "items": [
+        {
+          "label": "Square",
+          "shape": "square"
+        },
+        {
+          "label": "Rectangle",
+          "shape": "rectangle"
+        }
+      ]
+    },
+    "acceptanceNote": "",
     "printable": true,
     "type": "single",
-    "question": "Select all useful features for sorting shapes. Choose the group with all the correct answers.",
-    "audioPrompt": "Select all useful features for sorting shapes. Choose the group with all the correct answers.",
-    "visual": "A circle, square, triangle and rectangle are shown so their sides and corners can be compared. This is practice example 3.",
-    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Select all useful features for sorting shapes. Choose the group with all the correct answers.\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1sp01.svg#ac9m1sp01-p-003\">\u003c/use>\u003c/svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1sp01.svg#ac9m1sp01-p-003",
-      "alt_text": "Select all useful features for sorting shapes. Choose the group with all the correct answers."
-    },
     "answers": [
-      "curved or straight boundaries, number of sides",
-      "curved or straight boundaries, number of sides, whether I like the colour",
-      "curved or straight boundaries, number of sides, number of corners"
+      "Four corners",
+      "A curved edge",
+      "Three corners"
     ],
-    "correct": 2,
-    "explanation": "Mathematical sorting uses observable shape features.\nHint: Count the sides, corners or faces, then match those features to the shape.",
-    "structuredExplanation": {
-      "summary": "Mathematical sorting uses observable shape features.",
-      "hint": "Count the sides, corners or faces, then match those features to the shape."
-    },
-    "qualitySchema": "production-v1"
+    "correct": 0
   },
   {
-    "id": "ac9m1sp01-p-004",
+    "id": "AC9M1SP01-P04",
+    "questionId": "P04",
     "curriculumCode": "AC9M1SP01",
     "bank": "practice",
-    "skill": "select four sided shapes",
+    "bankVersion": "20260906-y1-original-v1",
+    "question": "You have three straight sticks. Describe how to join them to make a triangle.",
+    "explanation": "A triangle is closed and has three straight sides.",
+    "skill": "construct using materials",
+    "responseType": "short_answer",
+    "difficulty": 3,
+    "cognitiveDemand": "create",
+    "visualModel": null,
+    "acceptanceNote": "Accept words or a drawing showing three sticks joined into a closed triangle. Do not require the words end to end.",
     "printable": true,
-    "type": "single",
-    "question": "Select all flat shapes with 4 straight sides. Choose the group with all the correct answers.",
-    "audioPrompt": "Select all flat shapes with 4 straight sides. Choose the group with all the correct answers.",
-    "visual": "A circle, square, triangle and rectangle are shown so their sides and corners can be compared. Specific example: Familiar Shapes and Objects: select four-sided shapes This is practice example 4.",
-    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Select all flat shapes with 4 straight sides. Choose the group with all the correct answers.\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1sp01.svg#ac9m1sp01-p-004\">\u003c/use>\u003c/svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1sp01.svg#ac9m1sp01-p-004",
-      "alt_text": "Select all flat shapes with 4 straight sides. Choose the group with all the correct answers."
-    },
-    "answers": [
-      "square, rectangle",
-      "square",
-      "square, triangle"
-    ],
-    "correct": 0,
-    "explanation": "Squares and rectangles each have 4 straight sides.\nHint: Count the sides, corners or faces, then match those features to the shape.",
-    "structuredExplanation": {
-      "summary": "Squares and rectangles each have 4 straight sides.",
-      "hint": "Count the sides, corners or faces, then match those features to the shape."
-    },
-    "qualitySchema": "production-v1"
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "correct": "Join the sticks end to end in a closed shape with three corners.",
+    "modelAnswer": "Join the sticks end to end in a closed shape with three corners."
   },
   {
-    "id": "ac9m1sp01-p-005",
+    "id": "AC9M1SP01-P05",
+    "questionId": "P05",
     "curriculumCode": "AC9M1SP01",
     "bank": "practice",
-    "skill": "2d and 3d",
+    "bankVersion": "20260906-y1-original-v1",
+    "question": "Sort these shapes: circle, triangle, rectangle, oval. Which pair belongs in the group with only curved edges?",
+    "explanation": "Circles and ovals have curved edges and no corners.",
+    "skill": "classify by edge type",
+    "responseType": "mcq",
+    "difficulty": 2,
+    "cognitiveDemand": "apply",
+    "visualModel": {
+      "type": "shapes",
+      "items": [
+        {
+          "label": "Circle",
+          "shape": "circle"
+        },
+        {
+          "label": "Triangle",
+          "shape": "triangle"
+        },
+        {
+          "label": "Rectangle",
+          "shape": "rectangle"
+        },
+        {
+          "label": "Oval",
+          "shape": "oval"
+        }
+      ]
+    },
+    "acceptanceNote": "",
     "printable": true,
     "type": "single",
-    "question": "Which statement correctly compares a square and a cube?",
-    "audioPrompt": "Which statement correctly compares a square and a cube?",
-    "visual": "A cylinder, sphere, cube and cone are shown with their different faces and curved surfaces. Specific example: Familiar Shapes and Objects: 2D and 3D This is practice example 5.",
-    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Which statement correctly compares a square and a cube?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1sp01.svg#ac9m1sp01-p-005\">\u003c/use>\u003c/svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1sp01.svg#ac9m1sp01-p-005",
-      "alt_text": "Which statement correctly compares a square and a cube?"
-    },
     "answers": [
-      "Both are flat",
-      "A square is flat; a cube is a solid object",
-      "Both are circles"
+      "Circle and triangle",
+      "Circle and oval",
+      "Triangle and rectangle"
     ],
-    "correct": 1,
-    "explanation": "A square is 2D and a cube is 3D.\nHint: Count each amount carefully, then compare the two totals.",
-    "structuredExplanation": {
-      "summary": "A square is 2D and a cube is 3D.",
-      "hint": "Count each amount carefully, then compare the two totals."
-    },
-    "qualitySchema": "production-v1"
+    "correct": 1
   },
   {
-    "id": "ac9m1sp01-p-006",
+    "id": "AC9M1SP01-P06",
+    "questionId": "P06",
     "curriculumCode": "AC9M1SP01",
     "bank": "practice",
-    "skill": "curved boundary",
+    "bankVersion": "20260906-y1-original-v1",
+    "question": "A book cover is a rectangle. Which shape card has the same shape as the cover?",
+    "explanation": "The rectangle card matches the rectangular book cover.",
+    "skill": "connect an object and a shape",
+    "responseType": "mcq",
+    "difficulty": 1,
+    "cognitiveDemand": "recognise",
+    "visualModel": {
+      "type": "shapes",
+      "items": [
+        {
+          "label": "A",
+          "shape": "circle"
+        },
+        {
+          "label": "B",
+          "shape": "rectangle"
+        },
+        {
+          "label": "C",
+          "shape": "triangle"
+        }
+      ]
+    },
+    "acceptanceNote": "",
     "printable": true,
     "type": "single",
-    "question": "Which familiar flat shape has a curved boundary and no corners?",
-    "audioPrompt": "Which familiar flat shape has a curved boundary and no corners?",
-    "visual": "A circle, square, triangle and rectangle are shown so their sides and corners can be compared. This is practice example 6.",
-    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Which familiar flat shape has a curved boundary and no corners?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1sp01.svg#ac9m1sp01-p-006\">\u003c/use>\u003c/svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1sp01.svg#ac9m1sp01-p-006",
-      "alt_text": "Which familiar flat shape has a curved boundary and no corners?"
-    },
     "answers": [
-      "triangle",
-      "square",
-      "circle"
+      "B: rectangle",
+      "C: triangle",
+      "A: circle"
     ],
-    "correct": 2,
-    "explanation": "A circle has one continuous curved boundary.\nHint: Count the sides, corners or faces, then match those features to the shape.",
-    "structuredExplanation": {
-      "summary": "A circle has one continuous curved boundary.",
-      "hint": "Count the sides, corners or faces, then match those features to the shape."
-    },
-    "qualitySchema": "production-v1"
+    "correct": 0
   },
   {
-    "id": "ac9m1sp01-p-007",
+    "id": "AC9M1SP01-P07",
+    "questionId": "P07",
     "curriculumCode": "AC9M1SP01",
     "bank": "practice",
-    "skill": "build a shape",
+    "bankVersion": "20260906-y1-original-v1",
+    "question": "Three sticks make the bottom and two sides of a shape. Its top is open. What must you do to make a closed four-sided shape?",
+    "explanation": "Closing the gap adds a fourth side and makes a closed shape.",
+    "skill": "complete an open construction",
+    "responseType": "mcq",
+    "difficulty": 3,
+    "cognitiveDemand": "reason",
+    "visualModel": null,
+    "acceptanceNote": "",
     "printable": true,
     "type": "single",
-    "question": "Which set of sticks could make a triangle?",
-    "audioPrompt": "Which set of sticks could make a triangle?",
-    "visual": "A circle, square, triangle and rectangle are shown so their sides and corners can be compared. Specific example: Familiar Shapes and Objects: build a shape This is practice example 7.",
-    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Which set of sticks could make a triangle?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1sp01.svg#ac9m1sp01-p-007\">\u003c/use>\u003c/svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1sp01.svg#ac9m1sp01-p-007",
-      "alt_text": "Which set of sticks could make a triangle?"
-    },
     "answers": [
-      "3 straight sticks joined end-to-end",
-      "2 sticks only",
-      "one curved string only"
+      "Bend the bottom stick",
+      "Take away the bottom stick",
+      "Add a stick across the top"
     ],
-    "correct": 0,
-    "explanation": "A triangle needs 3 joined straight sides.\nHint: Count the sides, corners or faces, then match those features to the shape.",
-    "structuredExplanation": {
-      "summary": "A triangle needs 3 joined straight sides.",
-      "hint": "Count the sides, corners or faces, then match those features to the shape."
-    },
-    "qualitySchema": "production-v1"
+    "correct": 2
   },
   {
-    "id": "ac9m1sp01-p-008",
+    "id": "AC9M1SP01-P08",
+    "questionId": "P08",
     "curriculumCode": "AC9M1SP01",
     "bank": "practice",
-    "skill": "compare square and rectangle",
+    "bankVersion": "20260906-y1-original-v1",
+    "question": "A group is labelled \"four straight sides\". Name two familiar shapes that belong in it.",
+    "explanation": "Squares and rectangles each have four straight sides.",
+    "skill": "supply members of a class",
+    "responseType": "short_answer",
+    "difficulty": 3,
+    "cognitiveDemand": "create",
+    "visualModel": null,
+    "acceptanceNote": "Accept any two distinct familiar four-sided shapes, or matching drawings. A rotated square is not a second shape type.",
     "printable": true,
-    "type": "single",
-    "question": "Which feature do a square and a rectangle share?",
-    "audioPrompt": "Which feature do a square and a rectangle share?",
-    "visual": "A circle, square, triangle and rectangle are shown so their sides and corners can be compared. Specific example: Familiar Shapes and Objects: compare square and rectangle This is practice example 8.",
-    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Which feature do a square and a rectangle share?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1sp01.svg#ac9m1sp01-p-008\">\u003c/use>\u003c/svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1sp01.svg#ac9m1sp01-p-008",
-      "alt_text": "Which feature do a square and a rectangle share?"
-    },
-    "answers": [
-      "Both have no corners",
-      "Both have 4 straight sides and 4 corners",
-      "Both are solid objects"
-    ],
-    "correct": 1,
-    "explanation": "Squares and rectangles are four-sided flat shapes.\nHint: Make equal groups or equal parts, then check that each one has the same amount.",
-    "structuredExplanation": {
-      "summary": "Squares and rectangles are four-sided flat shapes.",
-      "hint": "Make equal groups or equal parts, then check that each one has the same amount."
-    },
-    "qualitySchema": "production-v1"
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "correct": "Square and rectangle.",
+    "modelAnswer": "Square and rectangle."
   },
   {
-    "id": "ac9m1sp01-p-009",
+    "id": "AC9M1SP01-P09",
+    "questionId": "P09",
     "curriculumCode": "AC9M1SP01",
     "bank": "practice",
-    "skill": "count sides",
+    "bankVersion": "20260906-y1-original-v1",
+    "question": "You turn a triangle card so that one corner points down. What shape is it now?",
+    "explanation": "Turning a shape does not change its three sides or three corners.",
+    "skill": "recognise a turned shape",
+    "responseType": "mcq",
+    "difficulty": 3,
+    "cognitiveDemand": "reason",
+    "visualModel": null,
+    "acceptanceNote": "",
     "printable": true,
     "type": "single",
-    "question": "How many straight sides does a triangle have?",
-    "audioPrompt": "How many straight sides does a triangle have?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "asset_path": "",
-      "alt_text": ""
-    },
     "answers": [
-      "2",
-      "4",
-      "3"
+      "Circle",
+      "Triangle",
+      "Rectangle"
     ],
-    "correct": 2,
-    "explanation": "A triangle has 3 straight sides.\nHint: Count the sides, corners or faces, then match those features to the shape.",
-    "structuredExplanation": {
-      "summary": "A triangle has 3 straight sides.",
-      "hint": "Count the sides, corners or faces, then match those features to the shape."
-    },
-    "qualitySchema": "production-v1"
+    "correct": 1
   },
   {
-    "id": "ac9m1sp01-p-010",
+    "id": "AC9M1SP01-P10",
+    "questionId": "P10",
     "curriculumCode": "AC9M1SP01",
     "bank": "practice",
-    "skill": "classify by feature",
+    "bankVersion": "20260906-y1-original-v1",
+    "question": "A square paper tile is cut from one corner straight to the opposite corner. What two pieces does it make?",
+    "explanation": "Each piece has three straight sides, so each is a triangle.",
+    "skill": "decompose a shape",
+    "responseType": "mcq",
+    "difficulty": 2,
+    "cognitiveDemand": "apply",
+    "visualModel": null,
+    "acceptanceNote": "",
     "printable": true,
     "type": "single",
-    "question": "Which sorting rule uses a mathematical shape feature?",
-    "audioPrompt": "Which sorting rule uses a mathematical shape feature?",
-    "visual": "A circle, square, triangle and rectangle are shown so their sides and corners can be compared. Specific example: Familiar Shapes and Objects: classify by feature This is practice example 10.",
-    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Which sorting rule uses a mathematical shape feature?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1sp01.svg#ac9m1sp01-p-010\">\u003c/use>\u003c/svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1sp01.svg#ac9m1sp01-p-010",
-      "alt_text": "Which sorting rule uses a mathematical shape feature?"
-    },
     "answers": [
-      "has a curved boundary / has only straight sides",
-      "favourite / not favourite",
-      "bright / dull"
+      "Two squares",
+      "Two circles",
+      "Two triangles"
     ],
-    "correct": 0,
-    "explanation": "Sides, corners and curves are mathematical features.\nHint: Count the sides, corners or faces, then match those features to the shape.",
-    "structuredExplanation": {
-      "summary": "Sides, corners and curves are mathematical features.",
-      "hint": "Count the sides, corners or faces, then match those features to the shape."
-    },
-    "qualitySchema": "production-v1"
+    "correct": 2
   },
   {
-    "id": "ac9m1sp01-p-011",
+    "id": "AC9M1SP01-P11",
+    "questionId": "P11",
     "curriculumCode": "AC9M1SP01",
     "bank": "practice",
-    "skill": "faces and curves",
-    "printable": true,
-    "type": "single",
-    "question": "Which solid object can roll because it has a curved surface?",
-    "audioPrompt": "Which solid object can roll because it has a curved surface?",
-    "visual": "A cylinder, sphere, cube and cone are shown with their different faces and curved surfaces. This is practice example 11.",
-    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Which solid object can roll because it has a curved surface?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1sp01.svg#ac9m1sp01-p-011\">\u003c/use>\u003c/svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1sp01.svg#ac9m1sp01-p-011",
-      "alt_text": "Which solid object can roll because it has a curved surface?"
+    "bankVersion": "20260906-y1-original-v1",
+    "question": "Two same-sized square tiles touch along one whole side in a straight row. What is the outside shape?",
+    "explanation": "The two squares together make a longer shape with four straight sides and four corners.",
+    "skill": "compose a shape",
+    "responseType": "mcq",
+    "difficulty": 2,
+    "cognitiveDemand": "apply",
+    "visualModel": {
+      "type": "tiles",
+      "rows": [
+        [
+          "Square",
+          "Square"
+        ]
+      ],
+      "caption": "Two equal square tiles share one whole side."
     },
+    "acceptanceNote": "",
+    "printable": true,
+    "type": "single",
     "answers": [
-      "cube",
-      "sphere",
-      "rectangular prism"
+      "Circle",
+      "Rectangle",
+      "Triangle"
     ],
-    "correct": 1,
-    "explanation": "A sphere has a curved surface in every direction.\nHint: Count the sides, corners or faces, then match those features to the shape.",
-    "structuredExplanation": {
-      "summary": "A sphere has a curved surface in every direction.",
-      "hint": "Count the sides, corners or faces, then match those features to the shape."
+    "correct": 1
+  },
+  {
+    "id": "AC9M1SP01-P12",
+    "questionId": "P12",
+    "curriculumCode": "AC9M1SP01",
+    "bank": "practice",
+    "bankVersion": "20260906-y1-original-v1",
+    "question": "Draw one shape with a curved edge and one shape with only straight sides. Name your shapes.",
+    "explanation": "A circle has a curved edge. A triangle has only straight sides.",
+    "skill": "make contrasting shapes",
+    "responseType": "short_answer",
+    "difficulty": 3,
+    "cognitiveDemand": "create",
+    "visualModel": null,
+    "acceptanceNote": "Accept a curved familiar shape and a straight-sided familiar shape, accurately drawn and named.",
+    "printable": true,
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "correct": "For example: a circle and a triangle.",
+    "modelAnswer": "For example: a circle and a triangle."
+  },
+  {
+    "id": "AC9M1SP01-P13",
+    "questionId": "P13",
+    "curriculumCode": "AC9M1SP01",
+    "bank": "practice",
+    "bankVersion": "20260906-y1-original-v1",
+    "question": "Which pair could you group together because their flat faces are circles?",
+    "explanation": "A round coin and a round lid both have circular flat faces.",
+    "skill": "classify environmental shapes",
+    "responseType": "mcq",
+    "difficulty": 2,
+    "cognitiveDemand": "apply",
+    "visualModel": null,
+    "acceptanceNote": "",
+    "printable": true,
+    "type": "single",
+    "answers": [
+      "A round coin and a round tin lid",
+      "A book cover and a round coin",
+      "A triangle sign and a tin lid"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "AC9M1SP01-P14",
+    "questionId": "P14",
+    "curriculumCode": "AC9M1SP01",
+    "bank": "practice",
+    "bankVersion": "20260906-y1-original-v1",
+    "question": "A toy ball and a small cardboard box are on a mat. Which statement describes a difference?",
+    "explanation": "A ball is curved all around. An ordinary cardboard box has flat faces.",
+    "skill": "compare familiar objects",
+    "responseType": "mcq",
+    "difficulty": 3,
+    "cognitiveDemand": "reason",
+    "visualModel": null,
+    "acceptanceNote": "",
+    "printable": true,
+    "type": "single",
+    "answers": [
+      "The ball has a curved surface; the box has flat faces",
+      "Neither has a flat face",
+      "Both have only curved surfaces"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "AC9M1SP01-P15",
+    "questionId": "P15",
+    "curriculumCode": "AC9M1SP01",
+    "bank": "practice",
+    "bankVersion": "20260906-y1-original-v1",
+    "question": "A group is labelled \"no corners\". It contains a circle, an oval and a square. Which shape must move out?",
+    "explanation": "The square has four corners, so it does not fit the rule.",
+    "skill": "repair a classification",
+    "responseType": "mcq",
+    "difficulty": 3,
+    "cognitiveDemand": "reason",
+    "visualModel": {
+      "type": "shapes",
+      "items": [
+        {
+          "label": "Circle",
+          "shape": "circle"
+        },
+        {
+          "label": "Oval",
+          "shape": "oval"
+        },
+        {
+          "label": "Square",
+          "shape": "square"
+        }
+      ]
     },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m1sp01-p-012",
-    "curriculumCode": "AC9M1SP01",
-    "bank": "practice",
-    "skill": "odd one out",
+    "acceptanceNote": "",
     "printable": true,
     "type": "single",
-    "question": "Which shape is the odd one out in this group: triangle, square, rectangle?",
-    "audioPrompt": "Which shape is the odd one out in this group: triangle, square, rectangle?",
-    "visual": "A circle, square, triangle and rectangle are shown so their sides and corners can be compared. This is practice example 12.",
-    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Which shape is the odd one out in this group: triangle, square, rectangle?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1sp01.svg#ac9m1sp01-p-012\">\u003c/use>\u003c/svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1sp01.svg#ac9m1sp01-p-012",
-      "alt_text": "Which shape is the odd one out in this group: triangle, square, rectangle?"
+    "answers": [
+      "Oval",
+      "Circle",
+      "Square"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "AC9M1SP01-P16",
+    "questionId": "P16",
+    "curriculumCode": "AC9M1SP01",
+    "bank": "practice",
+    "bankVersion": "20260906-y1-original-v1",
+    "question": "You want to print a circle using paint. Name a familiar object with a flat circular part you could press on the paper.",
+    "explanation": "A flat circular part leaves a circle-shaped print.",
+    "skill": "choose a making tool",
+    "responseType": "short_answer",
+    "difficulty": 2,
+    "cognitiveDemand": "apply",
+    "visualModel": null,
+    "acceptanceNote": "Accept a round lid, round coin, circular base of a cup or similar appropriate object. A ball alone is not a flat circular face.",
+    "printable": true,
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "correct": "A round jar lid.",
+    "modelAnswer": "A round jar lid."
+  },
+  {
+    "id": "AC9M1SP01-P17",
+    "questionId": "P17",
+    "curriculumCode": "AC9M1SP01",
+    "bank": "practice",
+    "bankVersion": "20260906-y1-original-v1",
+    "question": "A large triangle and a small triangle are in the same group. Why do both fit?",
+    "explanation": "Triangles can have different sizes and still have three straight sides.",
+    "skill": "classify across sizes",
+    "responseType": "mcq",
+    "difficulty": 3,
+    "cognitiveDemand": "reason",
+    "visualModel": null,
+    "acceptanceNote": "",
+    "printable": true,
+    "type": "single",
+    "answers": [
+      "Both have three straight sides",
+      "Both have four corners",
+      "Both must be the same size"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "AC9M1SP01-P18",
+    "questionId": "P18",
+    "curriculumCode": "AC9M1SP01",
+    "bank": "practice",
+    "bankVersion": "20260906-y1-original-v1",
+    "question": "A house picture has a square wall and a roof made with three straight sides. Which shape is the roof?",
+    "explanation": "A closed shape with three straight sides is a triangle.",
+    "skill": "identify a component shape",
+    "responseType": "mcq",
+    "difficulty": 2,
+    "cognitiveDemand": "apply",
+    "visualModel": null,
+    "acceptanceNote": "",
+    "printable": true,
+    "type": "single",
+    "answers": [
+      "Oval",
+      "Triangle",
+      "Circle"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "AC9M1SP01-P19",
+    "questionId": "P19",
+    "curriculumCode": "AC9M1SP01",
+    "bank": "practice",
+    "bankVersion": "20260906-y1-original-v1",
+    "question": "Which material is most useful for making the curved edge of a circle on a table?",
+    "explanation": "String can bend around into a closed curved edge.",
+    "skill": "select construction materials",
+    "responseType": "mcq",
+    "difficulty": 3,
+    "cognitiveDemand": "reason",
+    "visualModel": null,
+    "acceptanceNote": "",
+    "printable": true,
+    "type": "single",
+    "answers": [
+      "Three short straight sticks",
+      "A bendy piece of string",
+      "One square tile"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "AC9M1SP01-P20",
+    "questionId": "P20",
+    "curriculumCode": "AC9M1SP01",
+    "bank": "practice",
+    "bankVersion": "20260906-y1-original-v1",
+    "question": "A lunchbox lid is a rectangle. A round coaster is a circle. Tell one way their shapes are different.",
+    "explanation": "Comparing edges or corners helps describe how the shapes differ.",
+    "skill": "explain an environmental comparison",
+    "responseType": "short_answer",
+    "difficulty": 3,
+    "cognitiveDemand": "reason",
+    "visualModel": null,
+    "acceptanceNote": "Accept one accurate contrast about straight/curved edges or corners.",
+    "printable": true,
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "correct": "The rectangle has straight sides and corners; the circle has a curved edge and no corners.",
+    "modelAnswer": "The rectangle has straight sides and corners; the circle has a curved edge and no corners."
+  },
+  {
+    "id": "AC9M1SP01-P21",
+    "questionId": "P21",
+    "curriculumCode": "AC9M1SP01",
+    "bank": "practice",
+    "bankVersion": "20260906-y1-original-v1",
+    "question": "A circle and a triangle are placed in a group. Which rule fits both shapes?",
+    "explanation": "Both shapes have edges that join all the way around with no gap.",
+    "skill": "choose a shared sorting rule",
+    "responseType": "mcq",
+    "difficulty": 3,
+    "cognitiveDemand": "reason",
+    "visualModel": {
+      "type": "shapes",
+      "items": [
+        {
+          "label": "Circle",
+          "shape": "circle"
+        },
+        {
+          "label": "Triangle",
+          "shape": "triangle"
+        }
+      ]
     },
+    "acceptanceNote": "",
+    "printable": true,
+    "type": "single",
     "answers": [
-      "square",
-      "rectangle",
-      "triangle"
+      "Shapes with only straight sides",
+      "Shapes with four corners",
+      "Closed shapes"
     ],
-    "correct": 2,
-    "explanation": "The selected shape has a different key feature.\nHint: Make equal groups or equal parts, then check that each one has the same amount.",
-    "structuredExplanation": {
-      "summary": "The selected shape has a different key feature.",
-      "hint": "Make equal groups or equal parts, then check that each one has the same amount."
+    "correct": 2
+  },
+  {
+    "id": "AC9M1SP01-P22",
+    "questionId": "P22",
+    "curriculumCode": "AC9M1SP01",
+    "bank": "practice",
+    "bankVersion": "20260906-y1-original-v1",
+    "question": "Two identical triangular halves of a square are put back together along their cut edges. What shape do they make?",
+    "explanation": "Putting the two halves back along the cut restores the original square.",
+    "skill": "reassemble a shape",
+    "responseType": "mcq",
+    "difficulty": 2,
+    "cognitiveDemand": "apply",
+    "visualModel": null,
+    "acceptanceNote": "",
+    "printable": true,
+    "type": "single",
+    "answers": [
+      "Circle",
+      "Oval",
+      "Square"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "AC9M1SP01-P23",
+    "questionId": "P23",
+    "curriculumCode": "AC9M1SP01",
+    "bank": "practice",
+    "bankVersion": "20260906-y1-original-v1",
+    "question": "A shape group contains a triangle and a square. Its rule is \"only straight sides\". Which shape can join?",
+    "explanation": "A rectangle has only straight sides, so it follows the rule.",
+    "skill": "extend a classified group",
+    "responseType": "mcq",
+    "difficulty": 2,
+    "cognitiveDemand": "apply",
+    "visualModel": {
+      "type": "shapes",
+      "items": [
+        {
+          "label": "Triangle",
+          "shape": "triangle"
+        },
+        {
+          "label": "Square",
+          "shape": "square"
+        },
+        {
+          "label": "Rectangle",
+          "shape": "rectangle"
+        },
+        {
+          "label": "Circle",
+          "shape": "circle"
+        },
+        {
+          "label": "Oval",
+          "shape": "oval"
+        }
+      ]
     },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m1sp01-p-013",
-    "curriculumCode": "AC9M1SP01",
-    "bank": "practice",
-    "skill": "count corners",
+    "acceptanceNote": "",
     "printable": true,
     "type": "single",
-    "question": "How many corners does a rectangle have?",
-    "audioPrompt": "How many corners does a rectangle have?",
-    "visual": "A circle, square, triangle and rectangle are shown so their sides and corners can be compared. Specific example: Familiar Shapes and Objects: count corners This is practice example 13.",
-    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"How many corners does a rectangle have?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1sp01.svg#ac9m1sp01-p-013\">\u003c/use>\u003c/svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1sp01.svg#ac9m1sp01-p-013",
-      "alt_text": "How many corners does a rectangle have?"
-    },
     "answers": [
-      "4",
-      "3",
-      "5"
+      "Rectangle",
+      "Oval",
+      "Circle"
     ],
-    "correct": 0,
-    "explanation": "A rectangle has 4 corners.\nHint: Count the sides, corners or faces, then match those features to the shape.",
-    "structuredExplanation": {
-      "summary": "A rectangle has 4 corners.",
-      "hint": "Count the sides, corners or faces, then match those features to the shape."
-    },
-    "qualitySchema": "production-v1"
+    "correct": 0
   },
   {
-    "id": "ac9m1sp01-p-014",
+    "id": "AC9M1SP01-P24",
+    "questionId": "P24",
     "curriculumCode": "AC9M1SP01",
     "bank": "practice",
-    "skill": "shape in the environment",
+    "bankVersion": "20260906-y1-original-v1",
+    "question": "Make a picture using one circle and one rectangle. Tell what each shape represents.",
+    "explanation": "Familiar shapes can be combined to represent parts of an object.",
+    "skill": "create a shape picture",
+    "responseType": "short_answer",
+    "difficulty": 3,
+    "cognitiveDemand": "create",
+    "visualModel": null,
+    "acceptanceNote": "Accept any sensible picture or description that uses both shapes and identifies their parts.",
     "printable": true,
-    "type": "single",
-    "question": "Which solid object shape is like a ball?",
-    "audioPrompt": "Which solid object shape is like a ball?",
-    "visual": "A cylinder, sphere, cube and cone are shown with their different faces and curved surfaces. Specific example: Familiar Shapes and Objects: shape in the environment This is practice example 14.",
-    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Which solid object shape is like a ball?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1sp01.svg#ac9m1sp01-p-014\">\u003c/use>\u003c/svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1sp01.svg#ac9m1sp01-p-014",
-      "alt_text": "Which solid object shape is like a ball?"
-    },
-    "answers": [
-      "triangle",
-      "sphere",
-      "square"
-    ],
-    "correct": 1,
-    "explanation": "A ball is shaped like a sphere.\nHint: Count the sides, corners or faces, then match those features to the shape.",
-    "structuredExplanation": {
-      "summary": "A ball is shaped like a sphere.",
-      "hint": "Count the sides, corners or faces, then match those features to the shape."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m1sp01-p-015",
-    "curriculumCode": "AC9M1SP01",
-    "bank": "practice",
-    "skill": "recognise real object",
-    "printable": true,
-    "type": "single",
-    "question": "Which shape is commonly seen in a dice?",
-    "audioPrompt": "Which shape is commonly seen in a dice?",
-    "visual": "A circle, square, triangle and rectangle are shown so their sides and corners can be compared. This is practice example 15.",
-    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Which shape is commonly seen in a dice?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1sp01.svg#ac9m1sp01-p-015\">\u003c/use>\u003c/svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1sp01.svg#ac9m1sp01-p-015",
-      "alt_text": "Which shape is commonly seen in a dice?"
-    },
-    "answers": [
-      "triangle only",
-      "sphere only",
-      "cube"
-    ],
-    "correct": 2,
-    "explanation": "A dice has the familiar form of a cube.\nHint: Count the sides, corners or faces, then match those features to the shape.",
-    "structuredExplanation": {
-      "summary": "A dice has the familiar form of a cube.",
-      "hint": "Count the sides, corners or faces, then match those features to the shape."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m1sp01-p-016",
-    "curriculumCode": "AC9M1SP01",
-    "bank": "practice",
-    "skill": "name familiar shape",
-    "printable": true,
-    "type": "single",
-    "question": "Which shape name matches □?",
-    "audioPrompt": "Which shape name matches □?",
-    "visual": "A circle, square, triangle and rectangle are shown so their sides and corners can be compared. Specific example: Familiar Shapes and Objects: name familiar shape This is practice example 16.",
-    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Which shape name matches □?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1sp01.svg#ac9m1sp01-p-016\">\u003c/use>\u003c/svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1sp01.svg#ac9m1sp01-p-016",
-      "alt_text": "Which shape name matches □?"
-    },
-    "answers": [
-      "square",
-      "circle",
-      "triangle"
-    ],
-    "correct": 0,
-    "explanation": "The symbol is a square.\nHint: Count the sides, corners or faces, then match those features to the shape.",
-    "structuredExplanation": {
-      "summary": "The symbol is a square.",
-      "hint": "Count the sides, corners or faces, then match those features to the shape."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m1sp01-p-017",
-    "curriculumCode": "AC9M1SP01",
-    "bank": "practice",
-    "skill": "cube faces",
-    "printable": true,
-    "type": "single",
-    "question": "How many flat faces does a cube have?",
-    "audioPrompt": "How many flat faces does a cube have?",
-    "visual": "A cylinder, sphere, cube and cone are shown with their different faces and curved surfaces. Specific example: ▣ cube This is practice example 17.",
-    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"How many flat faces does a cube have?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1sp01.svg#ac9m1sp01-p-017\">\u003c/use>\u003c/svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1sp01.svg#ac9m1sp01-p-017",
-      "alt_text": "How many flat faces does a cube have?"
-    },
-    "answers": [
-      "5",
-      "6",
-      "7"
-    ],
-    "correct": 1,
-    "explanation": "A cube has 6 square faces.\nHint: Count the sides, corners or faces, then match those features to the shape.",
-    "structuredExplanation": {
-      "summary": "A cube has 6 square faces.",
-      "hint": "Count the sides, corners or faces, then match those features to the shape."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m1sp01-p-018",
-    "curriculumCode": "AC9M1SP01",
-    "bank": "practice",
-    "skill": "sort shapes",
-    "printable": true,
-    "type": "single",
-    "question": "Select all useful features for sorting shapes. Choose the group with all the correct answers.",
-    "audioPrompt": "Select all useful features for sorting shapes. Choose the group with all the correct answers.",
-    "visual": "A circle, square, triangle and rectangle are shown so their sides and corners can be compared. This is practice example 18.",
-    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Select all useful features for sorting shapes. Choose the group with all the correct answers.\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1sp01.svg#ac9m1sp01-p-018\">\u003c/use>\u003c/svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1sp01.svg#ac9m1sp01-p-018",
-      "alt_text": "Select all useful features for sorting shapes. Choose the group with all the correct answers."
-    },
-    "answers": [
-      "curved or straight boundaries, number of sides",
-      "curved or straight boundaries, number of sides, whether I like the colour",
-      "curved or straight boundaries, number of sides, number of corners"
-    ],
-    "correct": 2,
-    "explanation": "Mathematical sorting uses observable shape features.\nHint: Count the sides, corners or faces, then match those features to the shape.",
-    "structuredExplanation": {
-      "summary": "Mathematical sorting uses observable shape features.",
-      "hint": "Count the sides, corners or faces, then match those features to the shape."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m1sp01-p-019",
-    "curriculumCode": "AC9M1SP01",
-    "bank": "practice",
-    "skill": "rotated shape",
-    "printable": true,
-    "type": "single",
-    "question": "Which statement is correct?",
-    "audioPrompt": "Which statement is correct?",
-    "visual": "A circle, square, triangle and rectangle are shown so their sides and corners can be compared. Specific example: ◇ This is practice example 19.",
-    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Which statement is correct?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1sp01.svg#ac9m1sp01-p-019\">\u003c/use>\u003c/svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1sp01.svg#ac9m1sp01-p-019",
-      "alt_text": "Which statement is correct?"
-    },
-    "answers": [
-      "A square turned so that one corner points up is still a square.",
-      "It is not true that a square turned so that one corner points up is still a square.",
-      "A shape gets a new name whenever it is turned."
-    ],
-    "correct": 0,
-    "explanation": "Turning a shape does not change its sides or corners.\nHint: Count the sides, corners or faces, then match those features to the shape.",
-    "structuredExplanation": {
-      "summary": "Turning a shape does not change its sides or corners.",
-      "hint": "Count the sides, corners or faces, then match those features to the shape."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m1sp01-p-020",
-    "curriculumCode": "AC9M1SP01",
-    "bank": "practice",
-    "skill": "cube faces",
-    "printable": true,
-    "type": "single",
-    "question": "How many flat faces does a cube have?",
-    "audioPrompt": "How many flat faces does a cube have?",
-    "visual": "A cylinder, sphere, cube and cone are shown with their different faces and curved surfaces. Specific example: ▣ cube This is practice example 20.",
-    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"How many flat faces does a cube have?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1sp01.svg#ac9m1sp01-p-020\">\u003c/use>\u003c/svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1sp01.svg#ac9m1sp01-p-020",
-      "alt_text": "How many flat faces does a cube have?"
-    },
-    "answers": [
-      "5",
-      "6",
-      "7"
-    ],
-    "correct": 1,
-    "explanation": "A cube has 6 square faces.\nHint: Count the sides, corners or faces, then match those features to the shape.",
-    "structuredExplanation": {
-      "summary": "A cube has 6 square faces.",
-      "hint": "Count the sides, corners or faces, then match those features to the shape."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m1sp01-p-021",
-    "curriculumCode": "AC9M1SP01",
-    "bank": "practice",
-    "skill": "curved boundary",
-    "printable": true,
-    "type": "single",
-    "question": "Which familiar flat shape has a curved boundary and no corners?",
-    "audioPrompt": "Which familiar flat shape has a curved boundary and no corners?",
-    "visual": "A circle, square, triangle and rectangle are shown so their sides and corners can be compared. This is practice example 21.",
-    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Which familiar flat shape has a curved boundary and no corners?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1sp01.svg#ac9m1sp01-p-021\">\u003c/use>\u003c/svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1sp01.svg#ac9m1sp01-p-021",
-      "alt_text": "Which familiar flat shape has a curved boundary and no corners?"
-    },
-    "answers": [
-      "triangle",
-      "square",
-      "circle"
-    ],
-    "correct": 2,
-    "explanation": "A circle has one continuous curved boundary.\nHint: Count the sides, corners or faces, then match those features to the shape.",
-    "structuredExplanation": {
-      "summary": "A circle has one continuous curved boundary.",
-      "hint": "Count the sides, corners or faces, then match those features to the shape."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m1sp01-p-022",
-    "curriculumCode": "AC9M1SP01",
-    "bank": "practice",
-    "skill": "classify by feature",
-    "printable": true,
-    "type": "single",
-    "question": "Which sorting rule uses a mathematical shape feature?",
-    "audioPrompt": "Which sorting rule uses a mathematical shape feature?",
-    "visual": "A circle, square, triangle and rectangle are shown so their sides and corners can be compared. Specific example: Familiar Shapes and Objects: classify by feature This is practice example 22.",
-    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Which sorting rule uses a mathematical shape feature?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1sp01.svg#ac9m1sp01-p-022\">\u003c/use>\u003c/svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1sp01.svg#ac9m1sp01-p-022",
-      "alt_text": "Which sorting rule uses a mathematical shape feature?"
-    },
-    "answers": [
-      "has a curved boundary / has only straight sides",
-      "favourite / not favourite",
-      "bright / dull"
-    ],
-    "correct": 0,
-    "explanation": "Sides, corners and curves are mathematical features.\nHint: Count the sides, corners or faces, then match those features to the shape.",
-    "structuredExplanation": {
-      "summary": "Sides, corners and curves are mathematical features.",
-      "hint": "Count the sides, corners or faces, then match those features to the shape."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m1sp01-p-023",
-    "curriculumCode": "AC9M1SP01",
-    "bank": "practice",
-    "skill": "2d and 3d",
-    "printable": true,
-    "type": "single",
-    "question": "Which statement correctly compares a square and a cube?",
-    "audioPrompt": "Which statement correctly compares a square and a cube?",
-    "visual": "A cylinder, sphere, cube and cone are shown with their different faces and curved surfaces. Specific example: Familiar Shapes and Objects: 2D and 3D This is practice example 23.",
-    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Which statement correctly compares a square and a cube?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1sp01.svg#ac9m1sp01-p-023\">\u003c/use>\u003c/svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1sp01.svg#ac9m1sp01-p-023",
-      "alt_text": "Which statement correctly compares a square and a cube?"
-    },
-    "answers": [
-      "Both are flat",
-      "A square is flat; a cube is a solid object",
-      "Both are circles"
-    ],
-    "correct": 1,
-    "explanation": "A square is 2D and a cube is 3D.\nHint: Count each amount carefully, then compare the two totals.",
-    "structuredExplanation": {
-      "summary": "A square is 2D and a cube is 3D.",
-      "hint": "Count each amount carefully, then compare the two totals."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m1sp01-p-024",
-    "curriculumCode": "AC9M1SP01",
-    "bank": "practice",
-    "skill": "curved boundary",
-    "printable": true,
-    "type": "single",
-    "question": "Which familiar flat shape has a curved boundary and no corners?",
-    "audioPrompt": "Which familiar flat shape has a curved boundary and no corners?",
-    "visual": "A circle, square, triangle and rectangle are shown so their sides and corners can be compared. This is practice example 24.",
-    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Which familiar flat shape has a curved boundary and no corners?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1sp01.svg#ac9m1sp01-p-024\">\u003c/use>\u003c/svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1sp01.svg#ac9m1sp01-p-024",
-      "alt_text": "Which familiar flat shape has a curved boundary and no corners?"
-    },
-    "answers": [
-      "triangle",
-      "square",
-      "circle"
-    ],
-    "correct": 2,
-    "explanation": "A circle has one continuous curved boundary.\nHint: Count the sides, corners or faces, then match those features to the shape.",
-    "structuredExplanation": {
-      "summary": "A circle has one continuous curved boundary.",
-      "hint": "Count the sides, corners or faces, then match those features to the shape."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m1sp01-p-025",
-    "curriculumCode": "AC9M1SP01",
-    "bank": "practice",
-    "skill": "select four sided shapes",
-    "printable": true,
-    "type": "single",
-    "question": "Select all flat shapes with 4 straight sides. Choose the group with all the correct answers.",
-    "audioPrompt": "Select all flat shapes with 4 straight sides. Choose the group with all the correct answers.",
-    "visual": "A circle, square, triangle and rectangle are shown so their sides and corners can be compared. Specific example: Familiar Shapes and Objects: select four-sided shapes This is practice example 25.",
-    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Select all flat shapes with 4 straight sides. Choose the group with all the correct answers.\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1sp01.svg#ac9m1sp01-p-025\">\u003c/use>\u003c/svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1sp01.svg#ac9m1sp01-p-025",
-      "alt_text": "Select all flat shapes with 4 straight sides. Choose the group with all the correct answers."
-    },
-    "answers": [
-      "square, rectangle",
-      "square",
-      "square, triangle"
-    ],
-    "correct": 0,
-    "explanation": "Squares and rectangles each have 4 straight sides.\nHint: Count the sides, corners or faces, then match those features to the shape.",
-    "structuredExplanation": {
-      "summary": "Squares and rectangles each have 4 straight sides.",
-      "hint": "Count the sides, corners or faces, then match those features to the shape."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m1sp01-p-026",
-    "curriculumCode": "AC9M1SP01",
-    "bank": "practice",
-    "skill": "sort shapes",
-    "printable": true,
-    "type": "single",
-    "question": "Select all useful features for sorting shapes. Choose the group with all the correct answers.",
-    "audioPrompt": "Select all useful features for sorting shapes. Choose the group with all the correct answers.",
-    "visual": "A circle, square, triangle and rectangle are shown so their sides and corners can be compared. Specific example: Familiar Shapes and Objects: sort shapes This is practice example 26.",
-    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Select all useful features for sorting shapes. Choose the group with all the correct answers.\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1sp01.svg#ac9m1sp01-p-026\">\u003c/use>\u003c/svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1sp01.svg#ac9m1sp01-p-026",
-      "alt_text": "Select all useful features for sorting shapes. Choose the group with all the correct answers."
-    },
-    "answers": [
-      "curved or straight boundaries, number of sides",
-      "curved or straight boundaries, number of sides, number of corners",
-      "curved or straight boundaries, number of sides, whether I like the colour"
-    ],
-    "correct": 1,
-    "explanation": "Mathematical sorting uses observable shape features.\nHint: Count the sides, corners or faces, then match those features to the shape.",
-    "structuredExplanation": {
-      "summary": "Mathematical sorting uses observable shape features.",
-      "hint": "Count the sides, corners or faces, then match those features to the shape."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m1sp01-p-027",
-    "curriculumCode": "AC9M1SP01",
-    "bank": "practice",
-    "skill": "count sides",
-    "printable": true,
-    "type": "single",
-    "question": "How many straight sides does a rectangle have?",
-    "audioPrompt": "How many straight sides does a rectangle have?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "asset_path": "",
-      "alt_text": ""
-    },
-    "answers": [
-      "3",
-      "5",
-      "4"
-    ],
-    "correct": 2,
-    "explanation": "A rectangle has 4 straight sides.\nHint: Count the sides, corners or faces, then match those features to the shape.",
-    "structuredExplanation": {
-      "summary": "A rectangle has 4 straight sides.",
-      "hint": "Count the sides, corners or faces, then match those features to the shape."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m1sp01-p-028",
-    "curriculumCode": "AC9M1SP01",
-    "bank": "practice",
-    "skill": "faces and curves",
-    "printable": true,
-    "type": "single",
-    "question": "Which solid object can roll because it has a curved surface?",
-    "audioPrompt": "Which solid object can roll because it has a curved surface?",
-    "visual": "A cylinder, sphere, cube and cone are shown with their different faces and curved surfaces. This is practice example 28.",
-    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Which solid object can roll because it has a curved surface?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1sp01.svg#ac9m1sp01-p-028\">\u003c/use>\u003c/svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1sp01.svg#ac9m1sp01-p-028",
-      "alt_text": "Which solid object can roll because it has a curved surface?"
-    },
-    "answers": [
-      "sphere",
-      "cube",
-      "rectangular prism"
-    ],
-    "correct": 0,
-    "explanation": "A sphere has a curved surface in every direction.\nHint: Count the sides, corners or faces, then match those features to the shape.",
-    "structuredExplanation": {
-      "summary": "A sphere has a curved surface in every direction.",
-      "hint": "Count the sides, corners or faces, then match those features to the shape."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m1sp01-p-029",
-    "curriculumCode": "AC9M1SP01",
-    "bank": "practice",
-    "skill": "familiar shapes and objects",
-    "printable": true,
-    "type": "single",
-    "question": "Sam looks at shapes and objects. [Show a ball, a box and a can.] Which object can roll in every direction?",
-    "audioPrompt": "Sam looks at shapes and objects. [Show a ball, a box and a can.] Which object can roll in every direction?",
-    "answers": [
-      "the box",
-      "the can",
-      "the ball"
-    ],
-    "correct": 2,
-    "explanation": "the ball is the correct answer.",
-    "qualitySchema": "reviewed-year1-maths-v1"
-  },
-  {
-    "id": "ac9m1sp01-p-030",
-    "curriculumCode": "AC9M1SP01",
-    "bank": "practice",
-    "skill": "familiar shapes and objects",
-    "printable": true,
-    "type": "single",
-    "question": "Mia looks at shapes and objects. Which shape has 3 straight sides?",
-    "audioPrompt": "Mia looks at shapes and objects. Which shape has 3 straight sides?",
-    "answers": [
-      "circle",
-      "triangle",
-      "square"
-    ],
-    "correct": 1,
-    "explanation": "triangle is the correct answer.",
-    "qualitySchema": "reviewed-year1-maths-v1"
-  },
-  {
-    "id": "ac9m1sp01-p-031",
-    "curriculumCode": "AC9M1SP01",
-    "bank": "practice",
-    "skill": "familiar shapes and objects",
-    "printable": true,
-    "type": "single",
-    "question": "Ben looks at shapes and objects. Which shape has 4 equal sides?",
-    "audioPrompt": "Ben looks at shapes and objects. Which shape has 4 equal sides?",
-    "answers": [
-      "circle",
-      "square",
-      "triangle"
-    ],
-    "correct": 1,
-    "explanation": "square is the correct answer.",
-    "qualitySchema": "reviewed-year1-maths-v1"
-  },
-  {
-    "id": "ac9m1sp01-p-032",
-    "curriculumCode": "AC9M1SP01",
-    "bank": "practice",
-    "skill": "familiar shapes and objects",
-    "printable": true,
-    "type": "single",
-    "question": "Ava looks at shapes and objects. [Show a party hat, a ball and a box.] Which object is shaped like a cone?",
-    "audioPrompt": "Ava looks at shapes and objects. [Show a party hat, a ball and a box.] Which object is shaped like a cone?",
-    "answers": [
-      "the box",
-      "the party hat",
-      "the ball"
-    ],
-    "correct": 1,
-    "explanation": "the party hat is the correct answer.",
-    "qualitySchema": "reviewed-year1-maths-v1"
-  },
-  {
-    "id": "ac9m1sp01-p-033",
-    "curriculumCode": "AC9M1SP01",
-    "bank": "practice",
-    "skill": "familiar shapes and objects",
-    "printable": true,
-    "type": "single",
-    "question": "Max looks at shapes and objects. Which object is shaped like a cylinder?",
-    "audioPrompt": "Max looks at shapes and objects. Which object is shaped like a cylinder?",
-    "answers": [
-      "a ball",
-      "a can",
-      "a dice"
-    ],
-    "correct": 1,
-    "explanation": "a can is the correct answer.",
-    "qualitySchema": "reviewed-year1-maths-v1"
-  },
-  {
-    "id": "ac9m1sp01-p-034",
-    "curriculumCode": "AC9M1SP01",
-    "bank": "practice",
-    "skill": "familiar shapes and objects",
-    "printable": true,
-    "type": "single",
-    "question": "Leo looks at shapes and objects. [Show a ball, a box and a can.] Which object can roll in every direction?",
-    "audioPrompt": "Leo looks at shapes and objects. [Show a ball, a box and a can.] Which object can roll in every direction?",
-    "answers": [
-      "the can",
-      "the box",
-      "the ball"
-    ],
-    "correct": 2,
-    "explanation": "the ball is the correct answer.",
-    "qualitySchema": "reviewed-year1-maths-v1"
-  },
-  {
-    "id": "ac9m1sp01-p-035",
-    "curriculumCode": "AC9M1SP01",
-    "bank": "practice",
-    "skill": "familiar shapes and objects",
-    "printable": true,
-    "type": "single",
-    "question": "Kim looks at shapes and objects. Which shape has 3 straight sides?",
-    "audioPrompt": "Kim looks at shapes and objects. Which shape has 3 straight sides?",
-    "answers": [
-      "square",
-      "circle",
-      "triangle"
-    ],
-    "correct": 2,
-    "explanation": "triangle is the correct answer.",
-    "qualitySchema": "reviewed-year1-maths-v1"
-  },
-  {
-    "id": "ac9m1sp01-p-036",
-    "curriculumCode": "AC9M1SP01",
-    "bank": "practice",
-    "skill": "familiar shapes and objects",
-    "printable": true,
-    "type": "single",
-    "question": "Tom looks at shapes and objects. Which shape has 4 equal sides?",
-    "audioPrompt": "Tom looks at shapes and objects. Which shape has 4 equal sides?",
-    "answers": [
-      "triangle",
-      "circle",
-      "square"
-    ],
-    "correct": 2,
-    "explanation": "square is the correct answer.",
-    "qualitySchema": "reviewed-year1-maths-v1"
-  },
-  {
-    "id": "ac9m1sp01-p-037",
-    "curriculumCode": "AC9M1SP01",
-    "bank": "practice",
-    "skill": "familiar shapes and objects",
-    "printable": true,
-    "type": "single",
-    "question": "Ann looks at shapes and objects. [Show a party hat, a ball and a box.] Which object is shaped like a cone?",
-    "audioPrompt": "Ann looks at shapes and objects. [Show a party hat, a ball and a box.] Which object is shaped like a cone?",
-    "answers": [
-      "the party hat",
-      "the ball",
-      "the box"
-    ],
-    "correct": 0,
-    "explanation": "the party hat is the correct answer.",
-    "qualitySchema": "reviewed-year1-maths-v1"
-  },
-  {
-    "id": "ac9m1sp01-p-038",
-    "curriculumCode": "AC9M1SP01",
-    "bank": "practice",
-    "skill": "familiar shapes and objects",
-    "printable": true,
-    "type": "single",
-    "question": "Tim looks at shapes and objects. Which object is shaped like a cylinder?",
-    "audioPrompt": "Tim looks at shapes and objects. Which object is shaped like a cylinder?",
-    "answers": [
-      "a dice",
-      "a ball",
-      "a can"
-    ],
-    "correct": 2,
-    "explanation": "a can is the correct answer.",
-    "qualitySchema": "reviewed-year1-maths-v1"
-  },
-  {
-    "id": "ac9m1sp01-p-039",
-    "curriculumCode": "AC9M1SP01",
-    "bank": "practice",
-    "skill": "familiar shapes and objects",
-    "printable": true,
-    "type": "single",
-    "question": "Pip looks at shapes and objects. [Show a ball, a box and a can.] Which object can roll in every direction?",
-    "audioPrompt": "Pip looks at shapes and objects. [Show a ball, a box and a can.] Which object can roll in every direction?",
-    "answers": [
-      "the box",
-      "the can",
-      "the ball"
-    ],
-    "correct": 2,
-    "explanation": "the ball is the correct answer.",
-    "qualitySchema": "reviewed-year1-maths-v1"
-  },
-  {
-    "id": "ac9m1sp01-p-040",
-    "curriculumCode": "AC9M1SP01",
-    "bank": "practice",
-    "skill": "familiar shapes and objects",
-    "printable": true,
-    "type": "single",
-    "question": "Zac looks at shapes and objects. Which shape has 3 straight sides?",
-    "audioPrompt": "Zac looks at shapes and objects. Which shape has 3 straight sides?",
-    "answers": [
-      "circle",
-      "square",
-      "triangle"
-    ],
-    "correct": 2,
-    "explanation": "triangle is the correct answer.",
-    "qualitySchema": "reviewed-year1-maths-v1"
-  },
-  {
-    "id": "ac9m1sp01-p-041",
-    "curriculumCode": "AC9M1SP01",
-    "bank": "practice",
-    "skill": "familiar shapes and objects",
-    "printable": true,
-    "type": "single",
-    "question": "Amy looks at shapes and objects. Which shape has 4 equal sides?",
-    "audioPrompt": "Amy looks at shapes and objects. Which shape has 4 equal sides?",
-    "answers": [
-      "circle",
-      "square",
-      "triangle"
-    ],
-    "correct": 1,
-    "explanation": "square is the correct answer.",
-    "qualitySchema": "reviewed-year1-maths-v1"
-  },
-  {
-    "id": "ac9m1sp01-p-042",
-    "curriculumCode": "AC9M1SP01",
-    "bank": "practice",
-    "skill": "familiar shapes and objects",
-    "printable": true,
-    "type": "single",
-    "question": "Ali looks at shapes and objects. [Show a party hat, a ball and a box.] Which object is shaped like a cone?",
-    "audioPrompt": "Ali looks at shapes and objects. [Show a party hat, a ball and a box.] Which object is shaped like a cone?",
-    "answers": [
-      "the party hat",
-      "the box",
-      "the ball"
-    ],
-    "correct": 0,
-    "explanation": "the party hat is the correct answer.",
-    "qualitySchema": "reviewed-year1-maths-v1"
-  },
-  {
-    "id": "ac9m1sp01-p-043",
-    "curriculumCode": "AC9M1SP01",
-    "bank": "practice",
-    "skill": "familiar shapes and objects",
-    "printable": true,
-    "type": "single",
-    "question": "Eva looks at shapes and objects. Which object is shaped like a cylinder?",
-    "audioPrompt": "Eva looks at shapes and objects. Which object is shaped like a cylinder?",
-    "answers": [
-      "a can",
-      "a dice",
-      "a ball"
-    ],
-    "correct": 0,
-    "explanation": "a can is the correct answer.",
-    "qualitySchema": "reviewed-year1-maths-v1"
-  },
-  {
-    "id": "ac9m1sp01-p-044",
-    "curriculumCode": "AC9M1SP01",
-    "bank": "practice",
-    "skill": "familiar shapes and objects",
-    "printable": true,
-    "type": "single",
-    "question": "Jay looks at shapes and objects. [Show a ball, a box and a can.] Which object can roll in every direction?",
-    "audioPrompt": "Jay looks at shapes and objects. [Show a ball, a box and a can.] Which object can roll in every direction?",
-    "answers": [
-      "the box",
-      "the ball",
-      "the can"
-    ],
-    "correct": 1,
-    "explanation": "the ball is the correct answer.",
-    "qualitySchema": "reviewed-year1-maths-v1"
-  },
-  {
-    "id": "ac9m1sp01-p-045",
-    "curriculumCode": "AC9M1SP01",
-    "bank": "practice",
-    "skill": "familiar shapes and objects",
-    "printable": true,
-    "type": "single",
-    "question": "Zoe looks at shapes and objects. Which shape has 3 straight sides?",
-    "audioPrompt": "Zoe looks at shapes and objects. Which shape has 3 straight sides?",
-    "answers": [
-      "square",
-      "triangle",
-      "circle"
-    ],
-    "correct": 1,
-    "explanation": "triangle is the correct answer.",
-    "qualitySchema": "reviewed-year1-maths-v1"
-  },
-  {
-    "id": "ac9m1sp01-p-046",
-    "curriculumCode": "AC9M1SP01",
-    "bank": "practice",
-    "skill": "familiar shapes and objects",
-    "printable": true,
-    "type": "single",
-    "question": "Roy looks at shapes and objects. Which shape has 4 equal sides?",
-    "audioPrompt": "Roy looks at shapes and objects. Which shape has 4 equal sides?",
-    "answers": [
-      "circle",
-      "square",
-      "triangle"
-    ],
-    "correct": 1,
-    "explanation": "square is the correct answer.",
-    "qualitySchema": "reviewed-year1-maths-v1"
-  },
-  {
-    "id": "ac9m1sp01-p-047",
-    "curriculumCode": "AC9M1SP01",
-    "bank": "practice",
-    "skill": "familiar shapes and objects",
-    "printable": true,
-    "type": "single",
-    "question": "Liv looks at shapes and objects. [Show a party hat, a ball and a box.] Which object is shaped like a cone?",
-    "audioPrompt": "Liv looks at shapes and objects. [Show a party hat, a ball and a box.] Which object is shaped like a cone?",
-    "answers": [
-      "the party hat",
-      "the ball",
-      "the box"
-    ],
-    "correct": 0,
-    "explanation": "the party hat is the correct answer.",
-    "qualitySchema": "reviewed-year1-maths-v1"
-  },
-  {
-    "id": "ac9m1sp01-p-048",
-    "curriculumCode": "AC9M1SP01",
-    "bank": "practice",
-    "skill": "familiar shapes and objects",
-    "printable": true,
-    "type": "single",
-    "question": "Gus looks at shapes and objects. Which object is shaped like a cylinder?",
-    "audioPrompt": "Gus looks at shapes and objects. Which object is shaped like a cylinder?",
-    "answers": [
-      "a dice",
-      "a ball",
-      "a can"
-    ],
-    "correct": 2,
-    "explanation": "a can is the correct answer.",
-    "qualitySchema": "reviewed-year1-maths-v1"
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "correct": "For example: a circle flower head and a rectangle stem.",
+    "modelAnswer": "For example: a circle flower head and a rectangle stem."
   }
 ];

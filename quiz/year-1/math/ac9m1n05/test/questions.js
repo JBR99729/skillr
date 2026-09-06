@@ -1,275 +1,393 @@
 "use strict";
+// 20260906-y1-original-v1 - generated from the canonical Year 1 bank.
 window.skillrTestQuestions = [
   {
-    "id": "ac9m1n05-t-001",
+    "id": "AC9M1N05-T01",
+    "questionId": "T01",
     "curriculumCode": "AC9M1N05",
     "bank": "test",
-    "skill": "mathematical modelling of additive situations and simple money transactions",
-    "question": "There are 8 books on a shelf. 4 more books are returned to the shelf. How many books are there now?",
-    "explanation": "8 + 4 = 12.",
+    "bankVersion": "20260906-y1-original-v1",
+    "question": "A class puts 12 paintings on a wall, then adds 5 more. How many paintings are on the wall now?",
+    "explanation": "The five new paintings join the first twelve. Twelve plus five makes seventeen.",
+    "skill": "Solve a joining situation",
+    "responseType": "mcq",
+    "difficulty": 2,
+    "cognitiveDemand": "apply",
+    "visualModel": null,
+    "acceptanceNote": "",
     "printable": true,
     "type": "single",
     "answers": [
-      {"text": "4", "correct": false},
-      {"text": "12", "correct": true},
-      {"text": "13", "correct": false}
+      "18",
+      "17",
+      "7"
     ],
-    "teacherScript": "Books are returned to the shelf. Does the number grow or shrink?",
-    "visualCue": "bookshelf"
+    "correct": 1
   },
   {
-    "id": "ac9m1n05-t-002",
+    "id": "AC9M1N05-T02",
+    "questionId": "T02",
     "curriculumCode": "AC9M1N05",
     "bank": "test",
-    "skill": "mathematical modelling of additive situations and simple money transactions",
-    "question": "Lily has $7. Her aunt gives her $8 more. How much money does Lily have altogether?",
-    "explanation": "$7 + $8 = $15.",
+    "bankVersion": "20260906-y1-original-v1",
+    "question": "A shelf had 16 cups. Some cups were taken away. Eleven cups remain. Which equation puts the cups taken away in the gap?",
+    "explanation": "The story gives the starting sixteen and the remaining eleven. The blank is the number taken away, five.",
+    "skill": "Represent an unknown change",
+    "responseType": "mcq",
+    "difficulty": 2,
+    "cognitiveDemand": "apply",
+    "visualModel": null,
+    "acceptanceNote": "",
     "printable": true,
     "type": "single",
     "answers": [
-      {"text": "$14", "correct": false},
-      {"text": "$1", "correct": false},
-      {"text": "$15", "correct": true}
+      "16 − __ = 11",
+      "11 + 5 = __",
+      "16 − __ = 5"
     ],
-    "teacherScript": "Join the two amounts of money.",
-    "visualCue": "two money groups"
+    "correct": 0
   },
   {
-    "id": "ac9m1n05-t-003",
+    "id": "AC9M1N05-T03",
+    "questionId": "T03",
     "curriculumCode": "AC9M1N05",
     "bank": "test",
-    "skill": "mathematical modelling of additive situations and simple money transactions",
-    "question": "There are 17 oranges in a basket. 6 oranges are used. How many oranges are left?",
-    "explanation": "17 − 6 = 11.",
+    "bankVersion": "20260906-y1-original-v1",
+    "question": "A puzzle costs $7. You pay with a $10 note. How much change should you receive?",
+    "explanation": "Seven dollars for the puzzle and three dollars in change make ten dollars.",
+    "skill": "Find change from a note",
+    "responseType": "mcq",
+    "difficulty": 2,
+    "cognitiveDemand": "apply",
+    "visualModel": null,
+    "acceptanceNote": "",
     "printable": true,
     "type": "single",
     "answers": [
-      {"text": "11", "correct": true},
-      {"text": "12", "correct": false},
-      {"text": "9", "correct": false}
+      "$17",
+      "$7",
+      "$3"
     ],
-    "teacherScript": "Take 6 away from 17.",
-    "visualCue": "fruit basket"
+    "correct": 2
   },
   {
-    "id": "ac9m1n05-t-004",
+    "id": "AC9M1N05-T04",
+    "questionId": "T04",
     "curriculumCode": "AC9M1N05",
     "bank": "test",
-    "skill": "mathematical modelling of additive situations and simple money transactions",
-    "question": "Finn has 9 cards. He gets some more cards. Now he has 14. How many cards did he get?",
-    "explanation": "9 + 5 = 14.",
+    "bankVersion": "20260906-y1-original-v1",
+    "question": "Thirteen children each need a ticket. Seven tickets are ready. Show how to find the number of extra tickets needed.",
+    "explanation": "The seven ready tickets and six extra tickets make thirteen.",
+    "skill": "Represent a missing added part",
+    "responseType": "short_answer",
+    "difficulty": 3,
+    "cognitiveDemand": "create",
+    "visualModel": null,
+    "acceptanceNote": "Accept 6 extra tickets with 13 − 7 = 6, 7 + 6 = 13, counting on, or a matching model.",
     "printable": true,
-    "type": "single",
-    "answers": [
-      {"text": "4", "correct": false},
-      {"text": "5", "correct": true},
-      {"text": "6", "correct": false}
-    ],
-    "teacherScript": "What joins 9 to make 14?",
-    "visualCue": "part-part-whole frame"
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "correct": "6 more tickets; 13 − 7 = 6",
+    "modelAnswer": "6 more tickets; 13 − 7 = 6"
   },
   {
-    "id": "ac9m1n05-t-005",
+    "id": "AC9M1N05-T05",
+    "questionId": "T05",
     "curriculumCode": "AC9M1N05",
     "bank": "test",
-    "skill": "mathematical modelling of additive situations and simple money transactions",
-    "question": "A toy costs $6 and a book costs $9. How much do they cost altogether?",
-    "explanation": "$6 + $9 = $15.",
+    "bankVersion": "20260906-y1-original-v1",
+    "question": "Two towers use the same-size blocks. One tower has 8 blocks. The other has 12 blocks. How many blocks taller is the second tower?",
+    "explanation": "Match the first eight blocks in both towers. Four blocks remain above the shorter tower.",
+    "skill": "Compare two modelled quantities",
+    "responseType": "mcq",
+    "difficulty": 2,
+    "cognitiveDemand": "apply",
+    "visualModel": {
+      "type": "bars",
+      "bars": [
+        {
+          "label": "First tower",
+          "units": 8
+        },
+        {
+          "label": "Second tower",
+          "units": 12
+        }
+      ],
+      "caption": "Each block represents one building block. All building blocks are the same size."
+    },
+    "acceptanceNote": "",
     "printable": true,
     "type": "single",
     "answers": [
-      {"text": "$15", "correct": true},
-      {"text": "$3", "correct": false},
-      {"text": "$14", "correct": false}
+      "20",
+      "4",
+      "8"
     ],
-    "teacherScript": "Add both prices.",
-    "visualCue": "two price tags"
+    "correct": 1
   },
   {
-    "id": "ac9m1n05-t-006",
+    "id": "AC9M1N05-T06",
+    "questionId": "T06",
     "curriculumCode": "AC9M1N05",
     "bank": "test",
-    "skill": "mathematical modelling of additive situations and simple money transactions",
-    "question": "There are 12 children in a room. 5 children leave. Which number sentence models the story?",
-    "explanation": "Five children leave, so subtract 5 from 12.",
+    "bankVersion": "20260906-y1-original-v1",
+    "question": "A bag costs $6 and a hat costs $8. What is the cost of buying both?",
+    "explanation": "Both prices are parts of the total. Six dollars plus eight dollars is fourteen dollars.",
+    "skill": "Combine two prices",
+    "responseType": "mcq",
+    "difficulty": 2,
+    "cognitiveDemand": "apply",
+    "visualModel": null,
+    "acceptanceNote": "",
     "printable": true,
     "type": "single",
     "answers": [
-      {"text": "12 + 5 = 17", "correct": false},
-      {"text": "12 − 7 = 5", "correct": false},
-      {"text": "12 − 5 = 7", "correct": true}
+      "$16",
+      "$2",
+      "$14"
     ],
-    "teacherScript": "Choose the equation that shows children leaving.",
-    "visualCue": "doorway arrow out"
+    "correct": 2
   },
   {
-    "id": "ac9m1n05-t-007",
+    "id": "AC9M1N05-T07",
+    "questionId": "T07",
     "curriculumCode": "AC9M1N05",
     "bank": "test",
-    "skill": "mathematical modelling of additive situations and simple money transactions",
-    "question": "A box has 7 green balls and 8 yellow balls. Which model finds the total number of balls?",
-    "explanation": "Both groups are being combined to find the total.",
+    "bankVersion": "20260906-y1-original-v1",
+    "question": "There are 9 spoons and 6 bowls. Each bowl needs one spoon. Which equation finds the extra spoons?",
+    "explanation": "Pair one spoon with each of the six bowls. Subtract six from nine to find the three extra spoons.",
+    "skill": "Choose a comparison equation",
+    "responseType": "mcq",
+    "difficulty": 3,
+    "cognitiveDemand": "reason",
+    "visualModel": null,
+    "acceptanceNote": "",
     "printable": true,
     "type": "single",
     "answers": [
-      {"text": "Start with 8 and take away 7", "correct": false},
-      {"text": "Join a group of 7 and a group of 8", "correct": true},
-      {"text": "Take 7 away from 7", "correct": false}
+      "6 − 3 = 3",
+      "9 + 6 = 15",
+      "9 − 6 = 3"
     ],
-    "teacherScript": "Which model puts both groups together?",
-    "visualCue": "two ball groups with joining arrow"
+    "correct": 2
   },
   {
-    "id": "ac9m1n05-t-008",
+    "id": "AC9M1N05-T08",
+    "questionId": "T08",
     "curriculumCode": "AC9M1N05",
     "bank": "test",
-    "skill": "mathematical modelling of additive situations and simple money transactions",
-    "question": "Aria has $18. She buys a game for $9. How much money is left?",
-    "explanation": "$18 − $9 = $9.",
+    "bankVersion": "20260906-y1-original-v1",
+    "question": "Six toy boats were taken from a box. Seven boats were left. Draw a model or write an equation to find how many boats were in the box at first.",
+    "explanation": "The boats removed and the boats left are the two parts of the starting amount. Together they make thirteen.",
+    "skill": "Build a missing-start model",
+    "responseType": "short_answer",
+    "difficulty": 3,
+    "cognitiveDemand": "create",
+    "visualModel": null,
+    "acceptanceNote": "Accept 13 boats with 6 + 7 = 13, 7 + 6 = 13, 13 − 6 = 7, or a drawing showing both parts.",
     "printable": true,
-    "type": "single",
-    "answers": [
-      {"text": "$10", "correct": false},
-      {"text": "$27", "correct": false},
-      {"text": "$9", "correct": true}
-    ],
-    "teacherScript": "Spending money makes the amount smaller.",
-    "visualCue": "shop counter"
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "correct": "13 boats; 6 + 7 = 13",
+    "modelAnswer": "13 boats; 6 + 7 = 13"
   },
   {
-    "id": "ac9m1n05-t-009",
+    "id": "AC9M1N05-T09",
+    "questionId": "T09",
     "curriculumCode": "AC9M1N05",
     "bank": "test",
-    "skill": "mathematical modelling of additive situations and simple money transactions",
-    "question": "There are 13 fish in a tank. Some are moved to another tank. 8 fish stay. How many fish were moved?",
-    "explanation": "13 − 8 = 5.",
+    "bankVersion": "20260906-y1-original-v1",
+    "question": "A game costs $5. You pay with two $2 coins and one $1 coin. Which is true?",
+    "explanation": "Two dollars plus two dollars plus one dollar makes five dollars. The payment matches the price.",
+    "skill": "Check a payment made from several coins",
+    "responseType": "mcq",
+    "difficulty": 3,
+    "cognitiveDemand": "reason",
+    "visualModel": null,
+    "acceptanceNote": "",
     "printable": true,
     "type": "single",
     "answers": [
-      {"text": "5", "correct": true},
-      {"text": "6", "correct": false},
-      {"text": "21", "correct": false}
+      "You paid exactly $5.",
+      "You should get $1 change.",
+      "You need $1 more."
     ],
-    "teacherScript": "The whole is 13. Eight stay. Find the missing part.",
-    "visualCue": "two fish tanks"
+    "correct": 0
   },
   {
-    "id": "ac9m1n05-t-010",
+    "id": "AC9M1N05-T10",
+    "questionId": "T10",
     "curriculumCode": "AC9M1N05",
     "bank": "test",
-    "skill": "mathematical modelling of additive situations and simple money transactions",
-    "question": "A class has 6 paintbrushes. The teacher brings 7 more. Which number sentence should be used?",
-    "explanation": "More paintbrushes arrive, so the two groups are added.",
+    "bankVersion": "20260906-y1-original-v1",
+    "question": "Fifteen paint pots each need a lid. There are only 9 lids. How many more lids are needed?",
+    "explanation": "Nine lids are already available. Six more will make fifteen lids, one for every pot.",
+    "skill": "Find an amount needed to match",
+    "responseType": "mcq",
+    "difficulty": 2,
+    "cognitiveDemand": "apply",
+    "visualModel": null,
+    "acceptanceNote": "",
     "printable": true,
     "type": "single",
     "answers": [
-      {"text": "7 − 6 = 1", "correct": false},
-      {"text": "6 + 7 = 13", "correct": true},
-      {"text": "13 − 7 = 5", "correct": false}
+      "6",
+      "15",
+      "9"
     ],
-    "teacherScript": "What operation matches ‘brings more’?",
-    "visualCue": "paintbrush groups"
+    "correct": 0
   },
   {
-    "id": "ac9m1n05-t-011",
+    "id": "AC9M1N05-T11",
+    "questionId": "T11",
     "curriculumCode": "AC9M1N05",
     "bank": "test",
-    "skill": "mathematical modelling of additive situations and simple money transactions",
-    "question": "Max has $16. He buys a puzzle for $7. Which model could help find his money left?",
-    "explanation": "Buying the puzzle means subtracting $7 from $16.",
+    "bankVersion": "20260906-y1-original-v1",
+    "question": "A basket has 4 bread rolls. Seven more are added. Jo says there are 3 rolls now. What is the correct total?",
+    "explanation": "More rolls were added, so join the quantities. Four plus seven is eleven.",
+    "skill": "Correct an operation chosen for a story",
+    "responseType": "mcq",
+    "difficulty": 3,
+    "cognitiveDemand": "reason",
+    "visualModel": null,
+    "acceptanceNote": "",
     "printable": true,
     "type": "single",
     "answers": [
-      {"text": "Start at 16 and jump forward 7", "correct": false},
-      {"text": "Join 16 counters and 7 counters", "correct": false},
-      {"text": "Start at 16 and count back 7", "correct": true}
+      "3",
+      "11",
+      "7"
     ],
-    "teacherScript": "Which model shows spending?",
-    "visualCue": "backward number-line jumps"
+    "correct": 1
   },
   {
-    "id": "ac9m1n05-t-012",
+    "id": "AC9M1N05-T12",
+    "questionId": "T12",
     "curriculumCode": "AC9M1N05",
     "bank": "test",
-    "skill": "mathematical modelling of additive situations and simple money transactions",
-    "question": "There are 5 children at a table. 7 more children sit down. How many children are there altogether?",
-    "explanation": "5 + 7 = 12.",
+    "bankVersion": "20260906-y1-original-v1",
+    "question": "You have 20 cents. You spend 5 cents at a class shop. Write an equation showing how much money is left.",
+    "explanation": "Spending five cents removes five from twenty. Fifteen cents remain.",
+    "skill": "Create a spending model",
+    "responseType": "short_answer",
+    "difficulty": 3,
+    "cognitiveDemand": "create",
+    "visualModel": null,
+    "acceptanceNote": "Accept 20 − 5 = 15, or 5 + 15 = 20 with 15 cents identified as the amount left.",
     "printable": true,
-    "type": "single",
-    "answers": [
-      {"text": "12", "correct": true},
-      {"text": "2", "correct": false},
-      {"text": "13", "correct": false}
-    ],
-    "teacherScript": "Join the first group and the new group.",
-    "visualCue": "table and children"
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "correct": "20 − 5 = 15; 15 cents left",
+    "modelAnswer": "20 − 5 = 15; 15 cents left"
   },
   {
-    "id": "ac9m1n05-t-013",
+    "id": "AC9M1N05-T13",
+    "questionId": "T13",
     "curriculumCode": "AC9M1N05",
     "bank": "test",
-    "skill": "mathematical modelling of additive situations and simple money transactions",
-    "question": "Ava had some stickers. She got 4 more and now has 13. How many stickers did she have at first?",
-    "explanation": "9 + 4 = 13.",
+    "bankVersion": "20260906-y1-original-v1",
+    "question": "A stamp at a school stall costs 15 cents. You have a 10-cent coin. Which extra coin lets you pay exactly?",
+    "explanation": "Ten cents and five cents make fifteen cents. The five-cent coin fills the gap.",
+    "skill": "Find a coin needed to complete payment",
+    "responseType": "mcq",
+    "difficulty": 2,
+    "cognitiveDemand": "apply",
+    "visualModel": null,
+    "acceptanceNote": "",
     "printable": true,
     "type": "single",
     "answers": [
-      {"text": "8", "correct": false},
-      {"text": "9", "correct": true},
-      {"text": "17", "correct": false}
+      "A 20-cent coin.",
+      "A 5-cent coin.",
+      "A 10-cent coin."
     ],
-    "teacherScript": "Find the missing starting number.",
-    "visualCue": "missing-part box"
+    "correct": 1
   },
   {
-    "id": "ac9m1n05-t-014",
+    "id": "AC9M1N05-T14",
+    "questionId": "T14",
     "curriculumCode": "AC9M1N05",
     "bank": "test",
-    "skill": "mathematical modelling of additive situations and simple money transactions",
-    "question": "Jack has $20. He buys a hat for $8. How much money does he have left?",
-    "explanation": "$20 − $8 = $12.",
+    "bankVersion": "20260906-y1-original-v1",
+    "question": "There are 17 books to pack. A box already holds 10 of them. How many books still need packing?",
+    "explanation": "The packed books and unpacked books make seventeen. Taking away the ten packed books leaves seven.",
+    "skill": "Find an uncompleted part of a task",
+    "responseType": "mcq",
+    "difficulty": 2,
+    "cognitiveDemand": "apply",
+    "visualModel": null,
+    "acceptanceNote": "",
     "printable": true,
     "type": "single",
     "answers": [
-      {"text": "$28", "correct": false},
-      {"text": "$13", "correct": false},
-      {"text": "$12", "correct": true}
+      "7",
+      "17",
+      "10"
     ],
-    "teacherScript": "Take the price away from the money Jack had.",
-    "visualCue": "$20 and $8 price tag"
+    "correct": 0
   },
   {
-    "id": "ac9m1n05-t-015",
+    "id": "AC9M1N05-T15",
+    "questionId": "T15",
     "curriculumCode": "AC9M1N05",
     "bank": "test",
-    "skill": "mathematical modelling of additive situations and simple money transactions",
-    "question": "There are 18 counters. 7 are moved away. Which answer is reasonable?",
-    "explanation": "18 − 7 = 11.",
+    "bankVersion": "20260906-y1-original-v1",
+    "question": "A tub has 14 balls. Four are taken out. Then 2 are put back. How many balls are in the tub now?",
+    "explanation": "Four taken from fourteen leaves ten. Putting two back brings the total to twelve.",
+    "skill": "Track two short additive actions",
+    "responseType": "mcq",
+    "difficulty": 3,
+    "cognitiveDemand": "reason",
+    "visualModel": null,
+    "acceptanceNote": "",
     "printable": true,
     "type": "single",
     "answers": [
-      {"text": "11 counters are left.", "correct": true},
-      {"text": "25 counters are left.", "correct": false},
-      {"text": "18 counters are left.", "correct": false}
+      "8",
+      "10",
+      "12"
     ],
-    "teacherScript": "The group gets smaller. Which answer makes sense?",
-    "visualCue": "counters with some moved aside"
+    "correct": 2
   },
   {
-    "id": "ac9m1n05-t-016",
+    "id": "AC9M1N05-T16",
+    "questionId": "T16",
     "curriculumCode": "AC9M1N05",
     "bank": "test",
-    "skill": "mathematical modelling of additive situations and simple money transactions",
-    "question": "Sophie buys a juice for $4 and fruit for $6. She has $15. How much money is left after buying both?",
-    "explanation": "The items cost $4 + $6 = $10. Then $15 − $10 = $5.",
+    "bankVersion": "20260906-y1-original-v1",
+    "question": "A shop sells a pen for $4, a notebook for $6 and a folder for $7. Choose two different items that cost exactly $10 altogether. Show your choice with an equation.",
+    "explanation": "Four dollars and six dollars make ten dollars. The other pairs cost more than ten dollars.",
+    "skill": "Create a purchase within an exact budget",
+    "responseType": "short_answer",
+    "difficulty": 3,
+    "cognitiveDemand": "create",
+    "visualModel": {
+      "type": "table",
+      "headers": [
+        "Item",
+        "Price"
+      ],
+      "rows": [
+        [
+          "Pen",
+          "$4"
+        ],
+        [
+          "Notebook",
+          "$6"
+        ],
+        [
+          "Folder",
+          "$7"
+        ]
+      ]
+    },
+    "acceptanceNote": "Accept pen and notebook with 4 + 6 = 10 or 6 + 4 = 10; item names may be labels on a clear model.",
     "printable": true,
-    "type": "single",
-    "answers": [
-      {"text": "$10", "correct": false},
-      {"text": "$5", "correct": true},
-      {"text": "$1", "correct": false}
-    ],
-    "teacherScript": "First find the total cost. Then find what is left.",
-    "visualCue": "two price tags and $15"
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "correct": "Pen and notebook; 4 + 6 = 10",
+    "modelAnswer": "Pen and notebook; 4 + 6 = 10"
   }
 ];

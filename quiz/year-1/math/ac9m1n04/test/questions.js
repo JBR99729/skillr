@@ -1,419 +1,432 @@
 "use strict";
+// 20260906-y1-original-v1 - generated from the canonical Year 1 bank.
 window.skillrTestQuestions = [
   {
-    "id": "ac9m1n04-t-001",
+    "id": "AC9M1N04-T01",
+    "questionId": "T01",
     "curriculumCode": "AC9M1N04",
     "bank": "test",
-    "skill": "addition and subtraction within 20",
-    "question": "What is 6 + 5?",
-    "explanation": "6 + 4 makes 10, then 1 more makes 11.",
+    "bankVersion": "20260906-y1-original-v1",
+    "question": "Start at 9. Jump forward 1 to 10, then forward 6. What is 9 + 7?",
+    "explanation": "Seven is one and six. The jumps finish at sixteen.",
+    "skill": "Read split number-line jumps",
+    "responseType": "mcq",
+    "difficulty": 2,
+    "cognitiveDemand": "apply",
+    "visualModel": null,
+    "acceptanceNote": "",
     "printable": true,
     "type": "single",
     "answers": [
-      {
-        "text": "10",
-        "correct": false
-      },
-      {
-        "text": "11",
-        "correct": true
-      },
-      {
-        "text": "12",
-        "correct": false
-      }
+      "15",
+      "16",
+      "17"
     ],
-    "teacherScript": "Bridge through ten: 6 + 4 + 1.",
-    "visualCue": "ten-frame icon"
+    "correct": 1
   },
   {
-    "id": "ac9m1n04-t-002",
+    "id": "AC9M1N04-T02",
+    "questionId": "T02",
     "curriculumCode": "AC9M1N04",
     "bank": "test",
-    "skill": "addition and subtraction within 20",
-    "question": "What is 9 + 3?",
-    "explanation": "9 + 1 makes 10, then 2 more makes 12.",
+    "bankVersion": "20260906-y1-original-v1",
+    "question": "8 + 8 = 16. Which fact has a total one more than 16?",
+    "explanation": "Only one of the two eights increases by one. The total increases from 16 to 17.",
+    "skill": "Identify a near-double fact",
+    "responseType": "mcq",
+    "difficulty": 3,
+    "cognitiveDemand": "reason",
+    "visualModel": null,
+    "acceptanceNote": "",
     "printable": true,
     "type": "single",
     "answers": [
-      {
-        "text": "12",
-        "correct": true
-      },
-      {
-        "text": "11",
-        "correct": false
-      },
-      {
-        "text": "13",
-        "correct": false
-      }
+      "9 + 9 = 18",
+      "8 + 9 = 17",
+      "8 + 7 = 15"
     ],
-    "teacherScript": "Make ten from nine.",
-    "visualCue": "bridge ten icon"
+    "correct": 1
   },
   {
-    "id": "ac9m1n04-t-003",
+    "id": "AC9M1N04-T03",
+    "questionId": "T03",
     "curriculumCode": "AC9M1N04",
     "bank": "test",
-    "skill": "addition and subtraction within 20",
-    "question": "What is 8 + 6?",
-    "explanation": "8 + 2 makes 10, then 4 more makes 14.",
+    "bankVersion": "20260906-y1-original-v1",
+    "question": "Use 6 + 9 = 15. What is 15 − 6?",
+    "explanation": "Removing one part from the whole leaves the other part, nine.",
+    "skill": "Use a related addition fact",
+    "responseType": "mcq",
+    "difficulty": 2,
+    "cognitiveDemand": "apply",
+    "visualModel": null,
+    "acceptanceNote": "",
     "printable": true,
     "type": "single",
     "answers": [
-      {
-        "text": "13",
-        "correct": false
-      },
-      {
-        "text": "15",
-        "correct": false
-      },
-      {
-        "text": "14",
-        "correct": true
-      }
+      "9",
+      "15",
+      "6"
     ],
-    "teacherScript": "Bridge through ten.",
-    "visualCue": "number bond icon"
+    "correct": 0
   },
   {
-    "id": "ac9m1n04-t-004",
+    "id": "AC9M1N04-T04",
+    "questionId": "T04",
     "curriculumCode": "AC9M1N04",
     "bank": "test",
-    "skill": "addition and subtraction within 20",
-    "question": "What is 7 + 7?",
-    "explanation": "Double 7 is 14.",
+    "bankVersion": "20260906-y1-original-v1",
+    "question": "7 + 7 = 14. Work out 7 + 8 and tell how the double helps.",
+    "explanation": "Eight is one more than seven, so the total is one more than fourteen.",
+    "skill": "Explain a near-double strategy",
+    "responseType": "short_answer",
+    "difficulty": 3,
+    "cognitiveDemand": "reason",
+    "visualModel": null,
+    "acceptanceNote": "Accept 15 with an explanation or model showing one extra added to the known double.",
     "printable": true,
-    "type": "single",
-    "answers": [
-      {
-        "text": "13",
-        "correct": false
-      },
-      {
-        "text": "14",
-        "correct": true
-      },
-      {
-        "text": "15",
-        "correct": false
-      }
-    ],
-    "teacherScript": "Double seven.",
-    "visualCue": "doubles dice icon"
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "correct": "15; one more than 14.",
+    "modelAnswer": "15; one more than 14."
   },
   {
-    "id": "ac9m1n04-t-005",
+    "id": "AC9M1N04-T05",
+    "questionId": "T05",
     "curriculumCode": "AC9M1N04",
     "bank": "test",
-    "skill": "addition and subtraction within 20",
-    "question": "What is 10 + 8?",
-    "explanation": "10 and 8 more is 18.",
+    "bankVersion": "20260906-y1-original-v1",
+    "question": "To work out 16 − 7, take away 6 first. What is the next step?",
+    "explanation": "Sixteen minus six reaches ten. Seven is six and one, so take away one more.",
+    "skill": "Complete a bridge-through-ten strategy",
+    "responseType": "mcq",
+    "difficulty": 3,
+    "cognitiveDemand": "reason",
+    "visualModel": null,
+    "acceptanceNote": "",
     "printable": true,
     "type": "single",
     "answers": [
-      {
-        "text": "17",
-        "correct": false
-      },
-      {
-        "text": "19",
-        "correct": false
-      },
-      {
-        "text": "18",
-        "correct": true
-      }
+      "10 − 1",
+      "10 + 1",
+      "10 − 7"
     ],
-    "teacherScript": "Ten and eight more.",
-    "visualCue": "ten plus counters icon"
+    "correct": 0
   },
   {
-    "id": "ac9m1n04-t-006",
+    "id": "AC9M1N04-T06",
+    "questionId": "T06",
     "curriculumCode": "AC9M1N04",
     "bank": "test",
-    "skill": "addition and subtraction within 20",
-    "question": "Take away 3 from 13. What is the answer?",
-    "explanation": "13 take away 3 leaves 10.",
+    "bankVersion": "20260906-y1-original-v1",
+    "question": "The whole is 17. One part is 8. Find the other part.",
+    "explanation": "Eight and nine make seventeen. The missing part is nine.",
+    "skill": "Find a missing part",
+    "responseType": "mcq",
+    "difficulty": 2,
+    "cognitiveDemand": "apply",
+    "visualModel": null,
+    "acceptanceNote": "",
     "printable": true,
     "type": "single",
     "answers": [
-      {
-        "text": "9",
-        "correct": false
-      },
-      {
-        "text": "11",
-        "correct": false
-      },
-      {
-        "text": "10",
-        "correct": true
-      }
+      "10",
+      "8",
+      "9"
     ],
-    "teacherScript": "Take away three.",
-    "visualCue": "counters crossed out icon"
+    "correct": 2
   },
   {
-    "id": "ac9m1n04-t-007",
+    "id": "AC9M1N04-T07",
+    "questionId": "T07",
     "curriculumCode": "AC9M1N04",
     "bank": "test",
-    "skill": "addition and subtraction within 20",
-    "question": "What is 16 - 4?",
-    "explanation": "Count back 4 from 16: 15, 14, 13, 12.",
+    "bankVersion": "20260906-y1-original-v1",
+    "question": "A row has 11 counters. Five are crossed out. Which equation matches?",
+    "explanation": "The model starts with eleven and removes five. Six remain.",
+    "skill": "Match a crossed-out model",
+    "responseType": "mcq",
+    "difficulty": 2,
+    "cognitiveDemand": "apply",
+    "visualModel": {
+      "type": "grid",
+      "rows": [
+        [
+          "×",
+          "×",
+          "×",
+          "×",
+          "×",
+          "●",
+          "●",
+          "●",
+          "●",
+          "●",
+          "●"
+        ]
+      ],
+      "caption": "× crossed-out counter; ● remaining counter."
+    },
+    "acceptanceNote": "",
     "printable": true,
     "type": "single",
     "answers": [
-      {
-        "text": "12",
-        "correct": true
-      },
-      {
-        "text": "13",
-        "correct": false
-      },
-      {
-        "text": "11",
-        "correct": false
-      }
+      "11 + 5 = 16",
+      "11 − 5 = 6",
+      "6 − 5 = 1"
     ],
-    "teacherScript": "Count back four.",
-    "visualCue": "number line back icon"
+    "correct": 1
   },
   {
-    "id": "ac9m1n04-t-008",
+    "id": "AC9M1N04-T08",
+    "questionId": "T08",
     "curriculumCode": "AC9M1N04",
     "bank": "test",
-    "skill": "addition and subtraction within 20",
-    "question": "What is 18 - 6?",
-    "explanation": "18 take away 6 leaves 12.",
+    "bankVersion": "20260906-y1-original-v1",
+    "question": "The parts are 5 and 8. The whole is 13. Write one addition equation and one subtraction equation.",
+    "explanation": "The addition joins the two parts. The subtraction removes one part from the whole.",
+    "skill": "Create a related fact pair",
+    "responseType": "short_answer",
+    "difficulty": 3,
+    "cognitiveDemand": "create",
+    "visualModel": null,
+    "acceptanceNote": "Accept either order of 5 + 8 = 13 and either 13 − 5 = 8 or 13 − 8 = 5; reversed equality forms are valid.",
     "printable": true,
-    "type": "single",
-    "answers": [
-      {
-        "text": "11",
-        "correct": false
-      },
-      {
-        "text": "12",
-        "correct": true
-      },
-      {
-        "text": "13",
-        "correct": false
-      }
-    ],
-    "teacherScript": "Take away six.",
-    "visualCue": "part-whole icon"
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "correct": "5 + 8 = 13; 13 − 5 = 8",
+    "modelAnswer": "5 + 8 = 13; 13 − 5 = 8"
   },
   {
-    "id": "ac9m1n04-t-009",
+    "id": "AC9M1N04-T09",
+    "questionId": "T09",
     "curriculumCode": "AC9M1N04",
     "bank": "test",
-    "skill": "addition and subtraction within 20",
-    "question": "What is 20 - 5?",
-    "explanation": "20 take away 5 leaves 15.",
+    "bankVersion": "20260906-y1-original-v1",
+    "question": "Lee works out 13 + 4 by saying “13, 14, 15, 16”. What answer should Lee get?",
+    "explanation": "Do not count the starting number as a step. Four steps after 13 are 14, 15, 16, 17.",
+    "skill": "Correct a count-on result",
+    "responseType": "mcq",
+    "difficulty": 3,
+    "cognitiveDemand": "reason",
+    "visualModel": null,
+    "acceptanceNote": "",
     "printable": true,
     "type": "single",
     "answers": [
-      {
-        "text": "14",
-        "correct": false
-      },
-      {
-        "text": "16",
-        "correct": false
-      },
-      {
-        "text": "15",
-        "correct": true
-      }
+      "18",
+      "16",
+      "17"
     ],
-    "teacherScript": "Take five from twenty.",
-    "visualCue": "twenty-frame icon"
+    "correct": 2
   },
   {
-    "id": "ac9m1n04-t-010",
+    "id": "AC9M1N04-T10",
+    "questionId": "T10",
     "curriculumCode": "AC9M1N04",
     "bank": "test",
-    "skill": "addition and subtraction within 20",
-    "question": "2 + __ = 10. What is missing?",
-    "explanation": "2 and 8 make 10.",
+    "bankVersion": "20260906-y1-original-v1",
+    "question": "Compare 5 + 9 and 6 + 8. Which is true?",
+    "explanation": "Both totals are fourteen. One part gains one while the other loses one.",
+    "skill": "Compare two decompositions",
+    "responseType": "mcq",
+    "difficulty": 3,
+    "cognitiveDemand": "reason",
+    "visualModel": null,
+    "acceptanceNote": "",
     "printable": true,
     "type": "single",
     "answers": [
-      {
-        "text": "6",
-        "correct": false
-      },
-      {
-        "text": "7",
-        "correct": false
-      },
-      {
-        "text": "8",
-        "correct": true
-      }
+      "6 + 8 is greater.",
+      "They are equal.",
+      "5 + 9 is greater."
     ],
-    "teacherScript": "What joins 2 to make ten?",
-    "visualCue": "number bond frame icon"
+    "correct": 1
   },
   {
-    "id": "ac9m1n04-t-011",
+    "id": "AC9M1N04-T11",
+    "questionId": "T11",
     "curriculumCode": "AC9M1N04",
     "bank": "test",
-    "skill": "addition and subtraction within 20",
-    "question": "5 + __ = 10. What is missing?",
-    "explanation": "5 and 5 make 10.",
+    "bankVersion": "20260906-y1-original-v1",
+    "question": "__ − 4 = 12\nWhat was the starting number?",
+    "explanation": "Add the removed four back to twelve. The starting number was sixteen.",
+    "skill": "Find a missing starting amount",
+    "responseType": "mcq",
+    "difficulty": 2,
+    "cognitiveDemand": "apply",
+    "visualModel": null,
+    "acceptanceNote": "",
     "printable": true,
     "type": "single",
     "answers": [
-      {
-        "text": "5",
-        "correct": true
-      },
-      {
-        "text": "4",
-        "correct": false
-      },
-      {
-        "text": "6",
-        "correct": false
-      }
+      "18",
+      "8",
+      "16"
     ],
-    "teacherScript": "What joins 5 to make ten?",
-    "visualCue": "ten-frame icon"
+    "correct": 2
   },
   {
-    "id": "ac9m1n04-t-012",
+    "id": "AC9M1N04-T12",
+    "questionId": "T12",
     "curriculumCode": "AC9M1N04",
     "bank": "test",
-    "skill": "addition and subtraction within 20",
-    "question": "Which fact helps solve 14 - 4?",
-    "explanation": "If 10 + 4 = 14, then 14 - 4 = 10.",
+    "bankVersion": "20260906-y1-original-v1",
+    "question": "Work out 18 − 9. Show a way to check your answer.",
+    "explanation": "Nine and nine make eighteen. Removing one nine leaves the other nine.",
+    "skill": "Check subtraction with addition",
+    "responseType": "short_answer",
+    "difficulty": 3,
+    "cognitiveDemand": "reason",
+    "visualModel": null,
+    "acceptanceNote": "Accept 9 with a valid check, including 9 + 9 = 18, a counter model, or counting nine steps from 9 to 18.",
     "printable": true,
-    "type": "single",
-    "answers": [
-      {
-        "text": "10 + 4 = 14",
-        "correct": true
-      },
-      {
-        "text": "14 + 4 = 18",
-        "correct": false
-      },
-      {
-        "text": "4 - 14 = 10",
-        "correct": false
-      }
-    ],
-    "teacherScript": "Use the related part-whole fact.",
-    "visualCue": "fact family icon"
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "correct": "9; 9 + 9 = 18",
+    "modelAnswer": "9; 9 + 9 = 18"
   },
   {
-    "id": "ac9m1n04-t-013",
+    "id": "AC9M1N04-T13",
+    "questionId": "T13",
     "curriculumCode": "AC9M1N04",
     "bank": "test",
-    "skill": "addition and subtraction within 20",
-    "question": "Which addition makes 16?",
-    "explanation": "8 + 8 is 16.",
+    "bankVersion": "20260906-y1-original-v1",
+    "question": "A ten-frame is full. A second ten-frame has 4 counters. Remove those 4 counters. How many remain?",
+    "explanation": "The full ten-frame stays unchanged. Removing the four extra counters leaves ten.",
+    "skill": "Interpret two ten-frames",
+    "responseType": "mcq",
+    "difficulty": 2,
+    "cognitiveDemand": "apply",
+    "visualModel": {
+      "type": "grid",
+      "rows": [
+        [
+          "●",
+          "●",
+          "●",
+          "●",
+          "●"
+        ],
+        [
+          "●",
+          "●",
+          "●",
+          "●",
+          "●"
+        ],
+        [
+          "×",
+          "×",
+          "×",
+          "×",
+          "○"
+        ],
+        [
+          "○",
+          "○",
+          "○",
+          "○",
+          "○"
+        ]
+      ],
+      "caption": "First two rows: full frame. Last two rows: second frame. × removed; ○ empty."
+    },
+    "acceptanceNote": "",
     "printable": true,
     "type": "single",
     "answers": [
-      {
-        "text": "9 + 6",
-        "correct": false
-      },
-      {
-        "text": "8 + 8",
-        "correct": true
-      },
-      {
-        "text": "7 + 8",
-        "correct": false
-      }
+      "10",
+      "4",
+      "14"
     ],
-    "teacherScript": "Which doubles fact makes sixteen?",
-    "visualCue": "doubles dice icon"
+    "correct": 0
   },
   {
-    "id": "ac9m1n04-t-014",
+    "id": "AC9M1N04-T14",
+    "questionId": "T14",
     "curriculumCode": "AC9M1N04",
     "bank": "test",
-    "skill": "addition and subtraction within 20",
-    "question": "Which subtraction leaves 9?",
-    "explanation": "15 take away 6 leaves 9.",
+    "bankVersion": "20260906-y1-original-v1",
+    "question": "Which addition has the greatest total?",
+    "explanation": "The totals are 15, 18 and 17. Eighteen is the greatest.",
+    "skill": "Compare calculated totals",
+    "responseType": "mcq",
+    "difficulty": 3,
+    "cognitiveDemand": "reason",
+    "visualModel": null,
+    "acceptanceNote": "",
     "printable": true,
     "type": "single",
     "answers": [
-      {
-        "text": "14 - 6",
-        "correct": false
-      },
-      {
-        "text": "15 - 6",
-        "correct": true
-      },
-      {
-        "text": "16 - 6",
-        "correct": false
-      }
+      "9 + 9",
+      "7 + 8",
+      "10 + 7"
     ],
-    "teacherScript": "Which subtraction leaves nine?",
-    "visualCue": "remove counters icon"
+    "correct": 0
   },
   {
-    "id": "ac9m1n04-t-015",
+    "id": "AC9M1N04-T15",
+    "questionId": "T15",
     "curriculumCode": "AC9M1N04",
     "bank": "test",
-    "skill": "addition and subtraction within 20",
-    "question": "Which addition matches 12 + 3?",
-    "explanation": "Addition can be turned around: 12 + 3 is the same as 3 + 12.",
+    "bankVersion": "20260906-y1-original-v1",
+    "question": "Start at 15. Move back 5, then back 3. Where do you finish?",
+    "explanation": "Fifteen minus five reaches ten. Three more steps back reaches seven.",
+    "skill": "Read split backward jumps",
+    "responseType": "mcq",
+    "difficulty": 2,
+    "cognitiveDemand": "apply",
+    "visualModel": null,
+    "acceptanceNote": "",
     "printable": true,
     "type": "single",
     "answers": [
-      {
-        "text": "3 + 12",
-        "correct": true
-      },
-      {
-        "text": "12 - 3",
-        "correct": false
-      },
-      {
-        "text": "3 - 12",
-        "correct": false
-      }
+      "8",
+      "10",
+      "7"
     ],
-    "teacherScript": "Turn the addition around.",
-    "visualCue": "turn-around arrows icon"
+    "correct": 2
   },
   {
-    "id": "ac9m1n04-t-016",
+    "id": "AC9M1N04-T16",
+    "questionId": "T16",
     "curriculumCode": "AC9M1N04",
     "bank": "test",
-    "skill": "addition and subtraction within 20",
-    "question": "Which makes 20?",
-    "explanation": "10 and 10 make 20.",
+    "bankVersion": "20260906-y1-original-v1",
+    "question": "Write a subtraction equation with an answer of 6. Start with a number greater than 10 and no greater than 20.",
+    "explanation": "Choose a starting number and remove enough to leave six. Fourteen minus eight is one example.",
+    "skill": "Create a constrained subtraction",
+    "responseType": "short_answer",
+    "difficulty": 3,
+    "cognitiveDemand": "create",
+    "visualModel": null,
+    "acceptanceNote": "Accept n − (n−6) = 6 for any whole-number n from 11 to 20, with both numbers shown correctly.",
     "printable": true,
-    "type": "single",
-    "answers": [
-      {
-        "text": "10 + 9",
-        "correct": false
-      },
-      {
-        "text": "10 + 10",
-        "correct": true
-      },
-      {
-        "text": "10 + 8",
-        "correct": false
-      }
+    "type": "text",
+    "correct": "14 − 8 = 6",
+    "acceptedAnswers": [
+      "11-5=6",
+      "12-6=6",
+      "13-7=6",
+      "14-8=6",
+      "15-9=6",
+      "16-10=6",
+      "17-11=6",
+      "18-12=6",
+      "19-13=6",
+      "20-14=6",
+      "6=11-5",
+      "6=12-6",
+      "6=13-7",
+      "6=14-8",
+      "6=15-9",
+      "6=16-10",
+      "6=17-11",
+      "6=18-12",
+      "6=19-13",
+      "6=20-14"
     ],
-    "teacherScript": "Which parts make twenty?",
-    "visualCue": "twenty frame icon"
+    "answerFormat": "equation"
   }
 ];

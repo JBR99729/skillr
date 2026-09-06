@@ -1,425 +1,520 @@
 "use strict";
+// 20260906-y1-original-v1 - generated from the canonical Year 1 bank.
 window.skillrTestQuestions = [
   {
-    "id": "ac9m1st02-t-001",
+    "id": "AC9M1ST02-T01",
+    "questionId": "T01",
     "curriculumCode": "AC9M1ST02",
     "bank": "test",
-    "skill": "read one to one display",
+    "bankVersion": "20260906-y1-original-v1",
+    "question": "Each dot stands for one answer.\nBird: ● ●\nFish: ● ● ● ● ●\nWhich animal has more votes?",
+    "explanation": "Fish has five votes and bird has two, so fish has more.",
+    "skill": "compare two category frequencies",
+    "responseType": "mcq",
+    "difficulty": 2,
+    "cognitiveDemand": "apply",
+    "visualModel": {
+      "type": "table",
+      "headers": [
+        "Choice",
+        "One dot per answer"
+      ],
+      "rows": [
+        [
+          "Bird",
+          "● ●"
+        ],
+        [
+          "Fish",
+          "● ● ● ● ●"
+        ]
+      ]
+    },
+    "acceptanceNote": "",
     "printable": true,
     "type": "single",
-    "question": "How many children chose apples?",
-    "audioPrompt": "How many children chose apples?",
-    "visual": "A one-to-one picture display uses one circle for each response in a labelled category. Specific example: Apples: 🍎 🍎 🍎 This is test example 1.",
-    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"How many children chose apples?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1st02.svg#ac9m1st02-t-001\">\u003c/use>\u003c/svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1st02.svg#ac9m1st02-t-001",
-      "alt_text": "How many children chose apples?"
-    },
     "answers": [
-      "3",
-      "2",
-      "4"
-    ],
-    "correct": 0,
-    "explanation": "Each apple symbol represents one child, so count 3 symbols.\nHint: Use the picture or numbers to test each answer, then choose the one that matches exactly.",
-    "structuredExplanation": {
-      "summary": "Each apple symbol represents one child, so count 3 symbols.",
-      "hint": "Use the picture or numbers to test each answer, then choose the one that matches exactly."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m1st02-t-002",
-    "curriculumCode": "AC9M1ST02",
-    "bank": "test",
-    "skill": "compare more",
-    "printable": true,
-    "type": "single",
-    "question": "Which category has more responses?",
-    "audioPrompt": "Which category has more responses?",
-    "visual": "A one-to-one picture display uses one circle for each response in a labelled category. Specific example: Red: ● ● ● ● Blue: ● ● ● ● ● ● This is test example 2.",
-    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Which category has more responses?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1st02.svg#ac9m1st02-t-002\">\u003c/use>\u003c/svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1st02.svg#ac9m1st02-t-002",
-      "alt_text": "Which category has more responses?"
-    },
-    "answers": [
-      "Red",
-      "Blue",
+      "Bird",
+      "Fish",
       "They are equal"
     ],
-    "correct": 1,
-    "explanation": "Blue has 6; red has 4.\nHint: Read the labels first, then count or compare the marks in the matching category.",
-    "structuredExplanation": {
-      "summary": "Blue has 6; red has 4.",
-      "hint": "Read the labels first, then count or compare the marks in the matching category."
-    },
-    "qualitySchema": "production-v1"
+    "correct": 1
   },
   {
-    "id": "ac9m1st02-t-003",
+    "id": "AC9M1ST02-T02",
+    "questionId": "T02",
     "curriculumCode": "AC9M1ST02",
     "bank": "test",
-    "skill": "complete a display",
+    "bankVersion": "20260906-y1-original-v1",
+    "question": "The record says: hat 2, cap 3. Each dot represents one choice. Which display matches?",
+    "explanation": "The hat row needs two dots and the cap row needs three.",
+    "skill": "choose a matching representation",
+    "responseType": "mcq",
+    "difficulty": 2,
+    "cognitiveDemand": "apply",
+    "visualModel": null,
+    "acceptanceNote": "",
     "printable": true,
     "type": "single",
-    "question": "The table says 7 children chose bikes. 5 bike symbols are shown. How many symbols are missing?",
-    "audioPrompt": "The table says 7 children chose bikes. 5 bike symbols are shown. How many symbols are missing?",
-    "visual": "A one-to-one picture display uses one circle for each response in a labelled category. Specific example: Bikes shown: 🚲 🚲 🚲 🚲 🚲 This is test example 3.",
-    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"The table says 7 children chose bikes. 5 bike symbols are shown. How many symbols are missing?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1st02.svg#ac9m1st02-t-003\">\u003c/use>\u003c/svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1st02.svg#ac9m1st02-t-003",
-      "alt_text": "The table says 7 children chose bikes. 5 bike symbols are shown. How many symbols are missing?"
-    },
     "answers": [
-      "1",
-      "3",
-      "2"
+      "Hat: ●; Cap: ● ●",
+      "Hat: ● ● ●; Cap: ● ●",
+      "Hat: ● ●; Cap: ● ● ●"
     ],
-    "correct": 2,
-    "explanation": "7 - 5 = 2.\nHint: Read the labels first, then count or compare the marks in the matching category.",
-    "structuredExplanation": {
-      "summary": "7 - 5 = 2.",
-      "hint": "Read the labels first, then count or compare the marks in the matching category."
-    },
-    "qualitySchema": "production-v1"
+    "correct": 2
   },
   {
-    "id": "ac9m1st02-t-004",
+    "id": "AC9M1ST02-T03",
+    "questionId": "T03",
     "curriculumCode": "AC9M1ST02",
     "bank": "test",
-    "skill": "find frequency",
+    "bankVersion": "20260906-y1-original-v1",
+    "question": "Each dot stands for one answer.\nBlue: ● ● ● ●\nGreen: ● ●\nPurple: ● ● ● ●\nWhich two colours have equal votes?",
+    "explanation": "Blue and purple each have four votes.",
+    "skill": "find equal categories in a display",
+    "responseType": "mcq",
+    "difficulty": 3,
+    "cognitiveDemand": "reason",
+    "visualModel": {
+      "type": "table",
+      "headers": [
+        "Choice",
+        "One dot per answer"
+      ],
+      "rows": [
+        [
+          "Blue",
+          "● ● ● ●"
+        ],
+        [
+          "Green",
+          "● ●"
+        ],
+        [
+          "Purple",
+          "● ● ● ●"
+        ]
+      ]
+    },
+    "acceptanceNote": "",
     "printable": true,
     "type": "single",
-    "question": "What is the frequency for the cat category?",
-    "audioPrompt": "What is the frequency for the cat category?",
-    "visual": "A one-to-one picture display uses one circle for each response in a labelled category. Specific example: Cats: ● ● ● ● ● ● This is test example 4.",
-    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"What is the frequency for the cat category?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1st02.svg#ac9m1st02-t-004\">\u003c/use>\u003c/svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1st02.svg#ac9m1st02-t-004",
-      "alt_text": "What is the frequency for the cat category?"
-    },
     "answers": [
-      "6",
-      "5",
-      "7"
+      "Blue and green",
+      "Green and purple",
+      "Blue and purple"
     ],
-    "correct": 0,
-    "explanation": "Frequency means the number of symbols: 6.\nHint: Read the labels first, then count or compare the marks in the matching category.",
-    "structuredExplanation": {
-      "summary": "Frequency means the number of symbols: 6.",
-      "hint": "Read the labels first, then count or compare the marks in the matching category."
-    },
-    "qualitySchema": "production-v1"
+    "correct": 2
   },
   {
-    "id": "ac9m1st02-t-005",
+    "id": "AC9M1ST02-T04",
+    "questionId": "T04",
     "curriculumCode": "AC9M1ST02",
     "bank": "test",
-    "skill": "update a display",
+    "bankVersion": "20260906-y1-original-v1",
+    "question": "Children choose a book corner activity: reading 3, drawing 2, puzzles 1. Make a labelled display with one symbol per child.",
+    "explanation": "A one-to-one display uses three, two and one symbols for these categories.",
+    "skill": "represent a frequency record",
+    "responseType": "short_answer",
+    "difficulty": 3,
+    "cognitiveDemand": "create",
+    "visualModel": {
+      "type": "table",
+      "headers": [
+        "Activity",
+        "Children"
+      ],
+      "rows": [
+        [
+          "Reading",
+          "3"
+        ],
+        [
+          "Drawing",
+          "2"
+        ],
+        [
+          "Puzzles",
+          "1"
+        ]
+      ]
+    },
+    "acceptanceNote": "Accept three labelled rows with counts 3, 2 and 1, using any consistent one-to-one symbol.",
+    "printable": true,
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "correct": "Reading: ● ● ●; Drawing: ● ●; Puzzles: ●.",
+    "modelAnswer": "Reading: ● ● ●; Drawing: ● ●; Puzzles: ●."
+  },
+  {
+    "id": "AC9M1ST02-T05",
+    "questionId": "T05",
+    "curriculumCode": "AC9M1ST02",
+    "bank": "test",
+    "bankVersion": "20260906-y1-original-v1",
+    "question": "Six children choose bubbles. Each picture should represent one child, but the bubbles row has seven pictures. What should change?",
+    "explanation": "Six children need six pictures. The seventh picture is extra.",
+    "skill": "repair an excess symbol",
+    "responseType": "mcq",
+    "difficulty": 3,
+    "cognitiveDemand": "reason",
+    "visualModel": null,
+    "acceptanceNote": "",
     "printable": true,
     "type": "single",
-    "question": "The dog category has 4 symbols. One more child chooses dog. What is the new frequency?",
-    "audioPrompt": "The dog category has 4 symbols. One more child chooses dog. What is the new frequency?",
-    "visual": "A one-to-one picture display uses one circle for each response in a labelled category. Specific example: Dogs before: ● ● ● ● This is test example 5.",
-    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"The dog category has 4 symbols. One more child chooses dog. What is the new frequency?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1st02.svg#ac9m1st02-t-005\">\u003c/use>\u003c/svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1st02.svg#ac9m1st02-t-005",
-      "alt_text": "The dog category has 4 symbols. One more child chooses dog. What is the new frequency?"
+    "answers": [
+      "Remove one picture",
+      "Remove all the pictures",
+      "Add one picture"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "AC9M1ST02-T06",
+    "questionId": "T06",
+    "curriculumCode": "AC9M1ST02",
+    "bank": "test",
+    "bankVersion": "20260906-y1-original-v1",
+    "question": "Each dot stands for one answer.\nFootball: ● ● ● ●\nTag: ● ● ●\nWhich question can this display answer?",
+    "explanation": "The display shows numbers of votes, so it can compare game choices. It does not give reasons.",
+    "skill": "identify an answerable data question",
+    "responseType": "mcq",
+    "difficulty": 3,
+    "cognitiveDemand": "reason",
+    "visualModel": {
+      "type": "table",
+      "headers": [
+        "Choice",
+        "One dot per answer"
+      ],
+      "rows": [
+        [
+          "Football",
+          "● ● ● ●"
+        ],
+        [
+          "Tag",
+          "● ● ●"
+        ]
+      ]
     },
+    "acceptanceNote": "",
+    "printable": true,
+    "type": "single",
+    "answers": [
+      "What did each child eat?",
+      "Which game got more votes?",
+      "Why did each child choose a game?"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "AC9M1ST02-T07",
+    "questionId": "T07",
+    "curriculumCode": "AC9M1ST02",
+    "bank": "test",
+    "bankVersion": "20260906-y1-original-v1",
+    "question": "Each dot stands for one answer.\nTriangle: ● ● ●\nCircle: ● ● ● ● ●\nWhich statement is correct?",
+    "explanation": "Match three votes in each row. Two circle votes remain.",
+    "skill": "compare by matching and difference",
+    "responseType": "mcq",
+    "difficulty": 3,
+    "cognitiveDemand": "reason",
+    "visualModel": {
+      "type": "table",
+      "headers": [
+        "Choice",
+        "One dot per answer"
+      ],
+      "rows": [
+        [
+          "Triangle",
+          "● ● ●"
+        ],
+        [
+          "Circle",
+          "● ● ● ● ●"
+        ]
+      ]
+    },
+    "acceptanceNote": "",
+    "printable": true,
+    "type": "single",
+    "answers": [
+      "Triangle has two more votes than circle",
+      "Circle has two more votes than triangle",
+      "Both shapes have five votes"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "AC9M1ST02-T08",
+    "questionId": "T08",
+    "curriculumCode": "AC9M1ST02",
+    "bank": "test",
+    "bankVersion": "20260906-y1-original-v1",
+    "question": "Each dot stands for one answer.\nTrain: ● ● ● ●\nBoat: ●\nA child says the boat received more votes. Explain why the display does not agree.",
+    "explanation": "Compare the counts in the labelled rows: four is greater than one.",
+    "skill": "explain why a claim is wrong",
+    "responseType": "short_answer",
+    "difficulty": 3,
+    "cognitiveDemand": "reason",
+    "visualModel": {
+      "type": "table",
+      "headers": [
+        "Choice",
+        "One dot per answer"
+      ],
+      "rows": [
+        [
+          "Train",
+          "● ● ● ●"
+        ],
+        [
+          "Boat",
+          "●"
+        ]
+      ]
+    },
+    "acceptanceNote": "Accept an explanation that train has more or boat has fewer, supported by counting or matching.",
+    "printable": true,
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "correct": "Boat has only 1 vote and train has 4, so train has more.",
+    "modelAnswer": "Boat has only 1 vote and train has 4, so train has more."
+  },
+  {
+    "id": "AC9M1ST02-T09",
+    "questionId": "T09",
+    "curriculumCode": "AC9M1ST02",
+    "bank": "test",
+    "bankVersion": "20260906-y1-original-v1",
+    "question": "The record says three children chose the park and two chose the pool. The display is Park: ● ● ●; Pool: ●. Each dot is one child. What is missing?",
+    "explanation": "The pool row needs two dots and currently has one.",
+    "skill": "complete a one-to-one display",
+    "responseType": "mcq",
+    "difficulty": 3,
+    "cognitiveDemand": "reason",
+    "visualModel": null,
+    "acceptanceNote": "",
+    "printable": true,
+    "type": "single",
+    "answers": [
+      "One pool dot",
+      "Three park dots",
+      "One park dot"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "AC9M1ST02-T10",
+    "questionId": "T10",
+    "curriculumCode": "AC9M1ST02",
+    "bank": "test",
+    "bankVersion": "20260906-y1-original-v1",
+    "question": "Each dot stands for one answer.\nRed ribbon: (no dots)\nStriped ribbon: ● ● ●\nDotted ribbon: ● ●\nWhich ribbon was not chosen?",
+    "explanation": "The red ribbon row has no dots, so it received no votes.",
+    "skill": "interpret a zero category",
+    "responseType": "mcq",
+    "difficulty": 1,
+    "cognitiveDemand": "recognise",
+    "visualModel": {
+      "type": "table",
+      "headers": [
+        "Choice",
+        "One dot per answer"
+      ],
+      "rows": [
+        [
+          "Red ribbon",
+          "No dots"
+        ],
+        [
+          "Striped ribbon",
+          "● ● ●"
+        ],
+        [
+          "Dotted ribbon",
+          "● ●"
+        ]
+      ]
+    },
+    "acceptanceNote": "",
+    "printable": true,
+    "type": "single",
+    "answers": [
+      "Dotted ribbon",
+      "Striped ribbon",
+      "Red ribbon"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "AC9M1ST02-T11",
+    "questionId": "T11",
+    "curriculumCode": "AC9M1ST02",
+    "bank": "test",
+    "bankVersion": "20260906-y1-original-v1",
+    "question": "A graph has four star pictures in one row. Its rule is \"one star picture for each child\". How many children does the row show?",
+    "explanation": "Count one child for each picture. Four pictures show four children.",
+    "skill": "interpret a one-to-one key",
+    "responseType": "mcq",
+    "difficulty": 1,
+    "cognitiveDemand": "recognise",
+    "visualModel": null,
+    "acceptanceNote": "",
+    "printable": true,
+    "type": "single",
     "answers": [
       "4",
-      "5",
-      "6"
-    ],
-    "correct": 1,
-    "explanation": "Add one new response: 4 + 1 = 5.\nHint: Read the labels first, then count or compare the marks in the matching category.",
-    "structuredExplanation": {
-      "summary": "Add one new response: 4 + 1 = 5.",
-      "hint": "Read the labels first, then count or compare the marks in the matching category."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m1st02-t-006",
-    "curriculumCode": "AC9M1ST02",
-    "bank": "test",
-    "skill": "find difference in data",
-    "printable": true,
-    "type": "single",
-    "question": "How many more votes does A have than B?",
-    "audioPrompt": "How many more votes does A have than B?",
-    "visual": "A one-to-one picture display uses one circle for each response in a labelled category. Specific example: A: ● ● ● ● ● B: ● ● ● This is test example 6.",
-    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"How many more votes does A have than B?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1st02.svg#ac9m1st02-t-006\">\u003c/use>\u003c/svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1st02.svg#ac9m1st02-t-006",
-      "alt_text": "How many more votes does A have than B?"
-    },
-    "answers": [
       "1",
-      "3",
-      "2"
+      "8"
     ],
-    "correct": 2,
-    "explanation": "5 - 3 = 2.\nHint: Show the starting amount, take away the given part, then count what remains.",
-    "structuredExplanation": {
-      "summary": "5 - 3 = 2.",
-      "hint": "Show the starting amount, take away the given part, then count what remains."
-    },
-    "qualitySchema": "production-v1"
+    "correct": 0
   },
   {
-    "id": "ac9m1st02-t-007",
+    "id": "AC9M1ST02-T12",
+    "questionId": "T12",
     "curriculumCode": "AC9M1ST02",
     "bank": "test",
-    "skill": "equal frequencies",
+    "bankVersion": "20260906-y1-original-v1",
+    "question": "A display shows Apple: ● ● and Pear: ● ● ● ●. Rewrite it with pear first and apple second. Keep one dot per vote.",
+    "explanation": "Changing row order should preserve both labels and their counts.",
+    "skill": "rearrange a display without changing data",
+    "responseType": "short_answer",
+    "difficulty": 3,
+    "cognitiveDemand": "create",
+    "visualModel": null,
+    "acceptanceNote": "Accept pear first with four marks and apple second with two marks.",
     "printable": true,
-    "type": "single",
-    "question": "Which statement is correct?",
-    "audioPrompt": "Which statement is correct?",
-    "visual": "A one-to-one picture display uses one circle for each response in a labelled category. Specific example: Dogs: ● ● ● ● ● ● ● ● Cats: ● ● ● ● ● ● ● ● This is test example 7.",
-    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Which statement is correct?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1st02.svg#ac9m1st02-t-007\">\u003c/use>\u003c/svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1st02.svg#ac9m1st02-t-007",
-      "alt_text": "Which statement is correct?"
-    },
-    "answers": [
-      "Read the new one-to-one display independently. The two categories have the same frequency.",
-      "It is not true that read the new one-to-one display independently. The two categories have the same frequency.",
-      "The larger-looking digit always tells you which answer is correct."
-    ],
-    "correct": 0,
-    "explanation": "Both rows contain 8 symbols.\nHint: Count each amount carefully, then compare the two totals.",
-    "structuredExplanation": {
-      "summary": "Both rows contain 8 symbols.",
-      "hint": "Count each amount carefully, then compare the two totals."
-    },
-    "qualitySchema": "production-v1"
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "correct": "Pear: ● ● ● ●; Apple: ● ●.",
+    "modelAnswer": "Pear: ● ● ● ●; Apple: ● ●."
   },
   {
-    "id": "ac9m1st02-t-008",
+    "id": "AC9M1ST02-T13",
+    "questionId": "T13",
     "curriculumCode": "AC9M1ST02",
     "bank": "test",
-    "skill": "select true findings",
+    "bankVersion": "20260906-y1-original-v1",
+    "question": "Each dot represents one vote.\nBlocks: ● ● ● ●\nSand: ●    ●    ●    ●\nWhich conclusion is correct?",
+    "explanation": "Each row has four dots. The space between dots does not change the count.",
+    "skill": "compare counts despite spacing",
+    "responseType": "mcq",
+    "difficulty": 3,
+    "cognitiveDemand": "reason",
+    "visualModel": null,
+    "acceptanceNote": "",
     "printable": true,
     "type": "single",
-    "question": "[Show the complete data display with labels and symbols.] Which option tells only true things about the data display?",
-    "audioPrompt": "[Show the complete data display with labels and symbols.] Which option tells only true things about the data display?",
     "answers": [
-      "A has 1 more than B, A has 6 responses",
-      "A has 1 more than B, A has 6 responses, B has 5 responses",
-      "A has 1 more than B, A has 6 responses, B has more than A"
+      "The choices have equal votes",
+      "Blocks has more because its dots are closer",
+      "Sand has more because its row is wider"
     ],
-    "correct": 1,
-    "explanation": "The selected statements match the shown frequencies.\nHint: Use the picture or numbers to test each answer, then choose the one that matches exactly.",
-    "structuredExplanation": {
-      "summary": "The selected statements match the shown frequencies.",
-      "hint": "Use the picture or numbers to test each answer, then choose the one that matches exactly."
-    },
-    "qualitySchema": "production-v1"
+    "correct": 0
   },
   {
-    "id": "ac9m1st02-t-009",
+    "id": "AC9M1ST02-T14",
+    "questionId": "T14",
     "curriculumCode": "AC9M1ST02",
     "bank": "test",
-    "skill": "order category frequencies",
+    "bankVersion": "20260906-y1-original-v1",
+    "question": "Each dot stands for one answer.\nSwimming: ● ●\nRunning: ● ● ● ● ●\nCycling: ● ● ●\nWhich activity has the fewest votes?",
+    "explanation": "Two swimming votes are fewer than three cycling votes and five running votes.",
+    "skill": "find the least frequent category",
+    "responseType": "mcq",
+    "difficulty": 2,
+    "cognitiveDemand": "apply",
+    "visualModel": {
+      "type": "table",
+      "headers": [
+        "Choice",
+        "One dot per answer"
+      ],
+      "rows": [
+        [
+          "Swimming",
+          "● ●"
+        ],
+        [
+          "Running",
+          "● ● ● ● ●"
+        ],
+        [
+          "Cycling",
+          "● ● ●"
+        ]
+      ]
+    },
+    "acceptanceNote": "",
     "printable": true,
     "type": "single",
-    "question": "Order the categories from fewest to most responses. Which order is correct?",
-    "audioPrompt": "Order the categories from fewest to most responses. Which order is correct?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "asset_path": "",
-      "alt_text": ""
-    },
     "answers": [
-      "C: 10 → B: 7 → A: 4",
-      "A: 4 → C: 10 → B: 7",
-      "A: 4 → B: 7 → C: 10"
+      "Cycling",
+      "Swimming",
+      "Running"
     ],
-    "correct": 2,
-    "explanation": "Compare each frequency from smallest to largest.\nHint: Read the labels first, then count or compare the marks in the matching category.",
-    "structuredExplanation": {
-      "summary": "Compare each frequency from smallest to largest.",
-      "hint": "Read the labels first, then count or compare the marks in the matching category."
-    },
-    "qualitySchema": "production-v1"
+    "correct": 1
   },
   {
-    "id": "ac9m1st02-t-010",
+    "id": "AC9M1ST02-T15",
+    "questionId": "T15",
     "curriculumCode": "AC9M1ST02",
     "bank": "test",
-    "skill": "least popular category",
+    "bankVersion": "20260906-y1-original-v1",
+    "question": "Each dot stands for one answer.\nApple juice: ● ● ● ●\nWater: ● ● ●\nDoes this show that every child chose apple juice?",
+    "explanation": "A larger number of votes does not mean that every child made that choice.",
+    "skill": "check a claim against the display",
+    "responseType": "mcq",
+    "difficulty": 3,
+    "cognitiveDemand": "reason",
+    "visualModel": {
+      "type": "table",
+      "headers": [
+        "Choice",
+        "One dot per answer"
+      ],
+      "rows": [
+        [
+          "Apple juice",
+          "● ● ● ●"
+        ],
+        [
+          "Water",
+          "● ● ●"
+        ]
+      ]
+    },
+    "acceptanceNote": "",
     "printable": true,
     "type": "single",
-    "question": "[Show the complete data display with labels and symbols.] Which option tells only true things about the data display?",
-    "audioPrompt": "[Show the complete data display with labels and symbols.] Which option tells only true things about the data display?",
     "answers": [
-      "bus",
-      "walk",
-      "car"
+      "Yes; apple juice has more votes",
+      "Yes; four is the biggest count",
+      "No; three chose water"
     ],
-    "correct": 0,
-    "explanation": "bus has the smallest frequency.\nHint: Read the labels first, then count or compare the marks in the matching category.",
-    "structuredExplanation": {
-      "summary": "bus has the smallest frequency.",
-      "hint": "Read the labels first, then count or compare the marks in the matching category."
-    },
-    "qualitySchema": "production-v1"
+    "correct": 2
   },
   {
-    "id": "ac9m1st02-t-011",
+    "id": "AC9M1ST02-T16",
+    "questionId": "T16",
     "curriculumCode": "AC9M1ST02",
     "bank": "test",
-    "skill": "most popular category",
+    "bankVersion": "20260906-y1-original-v1",
+    "question": "Votes for a class pet picture are: rabbit 2, turtle 4. Make a one-to-one dot display. Then name the picture with more votes.",
+    "explanation": "The turtle row has four votes, which is more than the two rabbit votes.",
+    "skill": "create and interpret a display",
+    "responseType": "short_answer",
+    "difficulty": 3,
+    "cognitiveDemand": "create",
+    "visualModel": null,
+    "acceptanceNote": "Require correctly labelled counts of two and four, plus turtle as the more frequent choice.",
     "printable": true,
-    "type": "single",
-    "question": "[Show the complete data display with labels and symbols.] Which option tells only true things about the data display?",
-    "audioPrompt": "[Show the complete data display with labels and symbols.] Which option tells only true things about the data display?",
-    "answers": [
-      "blue",
-      "red",
-      "green"
-    ],
-    "correct": 1,
-    "explanation": "red has the most responses.\nHint: Read the labels first, then count or compare the marks in the matching category.",
-    "structuredExplanation": {
-      "summary": "red has the most responses.",
-      "hint": "Read the labels first, then count or compare the marks in the matching category."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m1st02-t-012",
-    "curriculumCode": "AC9M1ST02",
-    "bank": "test",
-    "skill": "supported finding",
-    "printable": true,
-    "type": "single",
-    "question": "[Show the complete data display with labels and symbols.] Which option tells only true things about the data display?",
-    "audioPrompt": "[Show the complete data display with labels and symbols.] Which option tells only true things about the data display?",
-    "answers": [
-      "B has more than A",
-      "A and B are equal",
-      "A has more than B"
-    ],
-    "correct": 2,
-    "explanation": "7 is greater than 5.\nHint: Use the picture or numbers to test each answer, then choose the one that matches exactly.",
-    "structuredExplanation": {
-      "summary": "7 is greater than 5.",
-      "hint": "Use the picture or numbers to test each answer, then choose the one that matches exactly."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m1st02-t-013",
-    "curriculumCode": "AC9M1ST02",
-    "bank": "test",
-    "skill": "read data display",
-    "printable": true,
-    "type": "single",
-    "question": "[Show the complete data display with labels and symbols.] A graph shows 6 cats and 4 dogs. Which has more?",
-    "audioPrompt": "[Show the complete data display with labels and symbols.] A graph shows 6 cats and 4 dogs. Which has more?",
-    "answers": [
-      "cats",
-      "dogs",
-      "they are equal"
-    ],
-    "correct": 0,
-    "explanation": "6 is more than 4, so cats has more.\nHint: Read the labels first, then count or compare the marks in the matching category.",
-    "structuredExplanation": {
-      "summary": "6 is more than 4, so cats has more.",
-      "hint": "Read the labels first, then count or compare the marks in the matching category."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m1st02-t-014",
-    "curriculumCode": "AC9M1ST02",
-    "bank": "test",
-    "skill": "compare data",
-    "printable": true,
-    "type": "single",
-    "question": "There are 3 red blocks and 7 blue blocks. How many more blue blocks are there?",
-    "audioPrompt": "There are 3 red blocks and 7 blue blocks. How many more blue blocks are there?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "asset_path": "",
-      "alt_text": ""
-    },
-    "answers": [
-      "3",
-      "4",
-      "10"
-    ],
-    "correct": 1,
-    "explanation": "7 - 3 = 4, so there are 4 more blue blocks.\nHint: Read the labels first, then count or compare the marks in the matching category.",
-    "structuredExplanation": {
-      "summary": "7 - 3 = 4, so there are 4 more blue blocks.",
-      "hint": "Read the labels first, then count or compare the marks in the matching category."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m1st02-t-015",
-    "curriculumCode": "AC9M1ST02",
-    "bank": "test",
-    "skill": "interpret picture graph",
-    "printable": true,
-    "type": "single",
-    "question": "[Show the complete picture described in the item.] Each picture means 1 vote. Which group has the most pictures?",
-    "audioPrompt": "[Show the complete picture described in the item.] Each picture means 1 vote. Which group has the most pictures?",
-    "answers": [
-      "the shortest row",
-      "the title",
-      "the longest row"
-    ],
-    "correct": 2,
-    "explanation": "The group with the most pictures has the most votes.\nHint: Make equal groups or equal parts, then check that each one has the same amount.",
-    "structuredExplanation": {
-      "summary": "The group with the most pictures has the most votes.",
-      "hint": "Make equal groups or equal parts, then check that each one has the same amount."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m1st02-t-016",
-    "curriculumCode": "AC9M1ST02",
-    "bank": "test",
-    "skill": "match statement to data",
-    "printable": true,
-    "type": "single",
-    "question": "A chart shows apples 5 and bananas 5. Which statement is true?",
-    "audioPrompt": "A chart shows apples 5 and bananas 5. Which statement is true?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "asset_path": "",
-      "alt_text": ""
-    },
-    "answers": [
-      "they are equal",
-      "apples are more",
-      "bananas are more"
-    ],
-    "correct": 0,
-    "explanation": "Both categories have 5, so they are equal.\nHint: Read the labels first, then count or compare the marks in the matching category.",
-    "structuredExplanation": {
-      "summary": "Both categories have 5, so they are equal.",
-      "hint": "Read the labels first, then count or compare the marks in the matching category."
-    },
-    "qualitySchema": "production-v1"
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "correct": "Rabbit: ● ●; Turtle: ● ● ● ●. Turtle has more votes.",
+    "modelAnswer": "Rabbit: ● ●; Turtle: ● ● ● ●. Turtle has more votes."
   }
 ];

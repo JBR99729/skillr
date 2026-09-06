@@ -1,1160 +1,804 @@
 "use strict";
+// 20260906-y1-original-v1 - generated from the canonical Year 1 bank.
 window.skillrPracticeQuestions = [
   {
-    "id": "ac9m1a01-p-001",
+    "id": "AC9M1A01-P01",
+    "questionId": "P01",
     "curriculumCode": "AC9M1A01",
     "bank": "practice",
-    "skill": "object pattern",
+    "bankVersion": "20260906-y1-original-v1",
+    "question": "Look at the growing rows.\nRow 1: ■ ■\nRow 2: ■ ■ ■ ■\nRow 3: ■ ■ ■ ■ ■ ■\nHow many squares are added each time?",
+    "explanation": "The rows have 2, 4 and 6 squares. Each new row has 2 more squares.",
+    "skill": "infer_growth_from_pictures",
+    "responseType": "mcq",
+    "difficulty": 1,
+    "cognitiveDemand": "recognise",
+    "visualModel": {
+      "type": "pattern",
+      "rows": [
+        [
+          "■",
+          "■"
+        ],
+        [
+          "■",
+          "■",
+          "■",
+          "■"
+        ],
+        [
+          "■",
+          "■",
+          "■",
+          "■",
+          "■",
+          "■"
+        ]
+      ],
+      "labels": [
+        "Row 1",
+        "Row 2",
+        "Row 3"
+      ]
+    },
+    "acceptanceNote": "",
     "printable": true,
     "type": "single",
-    "question": "[Show the complete data display with labels and symbols.] Which object display represents counting by 2s?",
-    "audioPrompt": "[Show the complete data display with labels and symbols.] Which object display represents counting by 2s?",
     "answers": [
-      "[● ●] [● ●] [● ●] [● ●]",
-      "[●] [●] [●] [●]",
-      "[● ●] [● ●] [● ●]"
-    ],
-    "correct": 0,
-    "explanation": "Equal groups show the same skip each time.\nHint: Find what changes or repeats each time, then use the same rule once more.",
-    "structuredExplanation": {
-      "summary": "Equal groups show the same skip each time.",
-      "hint": "Find what changes or repeats each time, then use the same rule once more."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m1a01-p-002",
-    "curriculumCode": "AC9M1A01",
-    "bank": "practice",
-    "skill": "members of a sequence",
-    "printable": true,
-    "type": "single",
-    "question": "Start at 2. Add 2 each time. Which option shows the first three numbers?",
-    "audioPrompt": "Start at 2. Add 2 each time. Which option shows the first three numbers?",
-    "visual": "A number sequence shown with equal jumps of 2. Specific example: Skip-counting Pattern Sequences: members of a sequence This is practice example 2.",
-    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Start at 2. Add 2 each time. Which option shows the first three numbers?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1a01.svg#ac9m1a01-p-002\">\u003c/use>\u003c/svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1a01.svg#ac9m1a01-p-002",
-      "alt_text": "Start at 2. Add 2 each time. Which option shows the first three numbers?"
-    },
-    "answers": [
-      "6, 2",
-      "6, 2, 4",
-      "6, 2, 5"
-    ],
-    "correct": 1,
-    "explanation": "The first three terms are 2, 4 and 6.\nHint: Find what changes or repeats each time, then use the same rule once more.",
-    "structuredExplanation": {
-      "summary": "The first three terms are 2, 4 and 6.",
-      "hint": "Find what changes or repeats each time, then use the same rule once more."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m1a01-p-003",
-    "curriculumCode": "AC9M1A01",
-    "bank": "practice",
-    "skill": "non zero start",
-    "printable": true,
-    "type": "single",
-    "question": "Start at 3 and make 3 jumps of 2. Where do you land?",
-    "audioPrompt": "Start at 3 and make 3 jumps of 2. Where do you land?",
-    "visual": "A number sequence shown with equal jumps of 2. Specific example: 3 → 5 → 7 → 9 This is practice example 3.",
-    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Start at 3 and make 3 jumps of 2. Where do you land?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1a01.svg#ac9m1a01-p-003\">\u003c/use>\u003c/svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1a01.svg#ac9m1a01-p-003",
-      "alt_text": "Start at 3 and make 3 jumps of 2. Where do you land?"
-    },
-    "answers": [
-      "8",
-      "10",
-      "9"
-    ],
-    "correct": 2,
-    "explanation": "3 + 2 + 2 + 2 = 9.\nHint: Use the picture or numbers to test each answer, then choose the one that matches exactly.",
-    "structuredExplanation": {
-      "summary": "3 + 2 + 2 + 2 = 9.",
-      "hint": "Use the picture or numbers to test each answer, then choose the one that matches exactly."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m1a01-p-004",
-    "curriculumCode": "AC9M1A01",
-    "bank": "practice",
-    "skill": "groups create a pattern",
-    "printable": true,
-    "type": "single",
-    "question": "4 equal groups each represent 5. What is the final skip-count number?",
-    "audioPrompt": "4 equal groups each represent 5. What is the final skip-count number?",
-    "visual": "Four equal groups with 2 objects in each group show counting by 2s. Specific example: [● ● ● ● ●] [● ● ● ● ●] [● ● ● ● ●] [● ● ● ● ●] This is practice example 4.",
-    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"4 equal groups each represent 5. What is the final skip-count number?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1a01.svg#ac9m1a01-p-004\">\u003c/use>\u003c/svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1a01.svg#ac9m1a01-p-004",
-      "alt_text": "4 equal groups each represent 5. What is the final skip-count number?"
-    },
-    "answers": [
-      "20",
-      "15",
-      "25"
-    ],
-    "correct": 0,
-    "explanation": "The sequence reaches 20.\nHint: Find what changes or repeats each time, then use the same rule once more.",
-    "structuredExplanation": {
-      "summary": "The sequence reaches 20.",
-      "hint": "Find what changes or repeats each time, then use the same rule once more."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m1a01-p-005",
-    "curriculumCode": "AC9M1A01",
-    "bank": "practice",
-    "skill": "continue by twos",
-    "printable": true,
-    "type": "single",
-    "question": "Continue the pattern: 2, 4, 6, ___.",
-    "audioPrompt": "Continue the pattern: 2, 4, 6, ___.",
-    "visual": "A number sequence shown with equal jumps of 2. Specific example: Skip-counting Pattern Sequences: continue by twos This is practice example 5.",
-    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Continue the pattern: 2, 4, 6, ___.\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1a01.svg#ac9m1a01-p-005\">\u003c/use>\u003c/svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1a01.svg#ac9m1a01-p-005",
-      "alt_text": "Continue the pattern: 2, 4, 6, ___."
-    },
-    "answers": [
-      "7",
-      "8",
-      "9"
-    ],
-    "correct": 1,
-    "explanation": "The pattern adds 2 each time.\nHint: Find what changes or repeats each time, then use the same rule once more.",
-    "structuredExplanation": {
-      "summary": "The pattern adds 2 each time.",
-      "hint": "Find what changes or repeats each time, then use the same rule once more."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m1a01-p-006",
-    "curriculumCode": "AC9M1A01",
-    "bank": "practice",
-    "skill": "spot pattern error",
-    "printable": true,
-    "type": "single",
-    "question": "Which term breaks the rule “add 10”: 10, 20, 30, 41, 50?",
-    "audioPrompt": "Which term breaks the rule “add 10”: 10, 20, 30, 41, 50?",
-    "visual": "A number sequence shown with equal jumps of 10. This is practice example 6.",
-    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Which term breaks the rule “add 10”: 10, 20, 30, 41, 50?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1a01.svg#ac9m1a01-p-006\">\u003c/use>\u003c/svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1a01.svg#ac9m1a01-p-006",
-      "alt_text": "Which term breaks the rule “add 10”: 10, 20, 30, 41, 50?"
-    },
-    "answers": [
-      "20",
-      "30",
-      "41"
-    ],
-    "correct": 2,
-    "explanation": "41 should be 40.\nHint: Find what changes or repeats each time, then use the same rule once more.",
-    "structuredExplanation": {
-      "summary": "41 should be 40.",
-      "hint": "Find what changes or repeats each time, then use the same rule once more."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m1a01-p-007",
-    "curriculumCode": "AC9M1A01",
-    "bank": "practice",
-    "skill": "compare pattern rules",
-    "printable": true,
-    "type": "single",
-    "question": "Pattern A is 15, 20, 25. Pattern B is 15, 25, 35. Which statement is true?",
-    "audioPrompt": "Pattern A is 15, 20, 25. Pattern B is 15, 25, 35. Which statement is true?",
-    "visual": "A number sequence shown with equal jumps of 2. Specific example: Skip-counting Pattern Sequences: compare pattern rules This is practice example 7.",
-    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Pattern A is 15, 20, 25. Pattern B is 15, 25, 35. Which statement is true?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1a01.svg#ac9m1a01-p-007\">\u003c/use>\u003c/svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1a01.svg#ac9m1a01-p-007",
-      "alt_text": "Pattern A is 15, 20, 25. Pattern B is 15, 25, 35. Which statement is true?"
-    },
-    "answers": [
-      "A counts by 5s and B counts by 10s",
-      "Both count by 2s",
-      "A counts by 10s and B by 5s"
-    ],
-    "correct": 0,
-    "explanation": "Compare the difference between neighbouring terms.\nHint: Find what changes or repeats each time, then use the same rule once more.",
-    "structuredExplanation": {
-      "summary": "Compare the difference between neighbouring terms.",
-      "hint": "Find what changes or repeats each time, then use the same rule once more."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m1a01-p-008",
-    "curriculumCode": "AC9M1A01",
-    "bank": "practice",
-    "skill": "identify skip rule",
-    "printable": true,
-    "type": "single",
-    "question": "What is the rule for 8, 10, 12, 14?",
-    "audioPrompt": "What is the rule for 8, 10, 12, 14?",
-    "visual": "A number sequence shown with equal jumps of 2. Specific example: Skip-counting Pattern Sequences: identify skip rule This is practice example 8.",
-    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"What is the rule for 8, 10, 12, 14?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1a01.svg#ac9m1a01-p-008\">\u003c/use>\u003c/svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1a01.svg#ac9m1a01-p-008",
-      "alt_text": "What is the rule for 8, 10, 12, 14?"
-    },
-    "answers": [
-      "add 3",
-      "add 2",
-      "subtract 2"
-    ],
-    "correct": 1,
-    "explanation": "The difference between neighbouring terms is 2.\nHint: Find what changes or repeats each time, then use the same rule once more.",
-    "structuredExplanation": {
-      "summary": "The difference between neighbouring terms is 2.",
-      "hint": "Find what changes or repeats each time, then use the same rule once more."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m1a01-p-009",
-    "curriculumCode": "AC9M1A01",
-    "bank": "practice",
-    "skill": "continue by tens",
-    "printable": true,
-    "type": "single",
-    "question": "What comes next: 20, 30, 40, 50, ___?",
-    "audioPrompt": "What comes next: 20, 30, 40, 50, ___?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "asset_path": "",
-      "alt_text": ""
-    },
-    "answers": [
-      "59",
-      "61",
-      "60"
-    ],
-    "correct": 2,
-    "explanation": "The rule is add 10.\nHint: Use the picture or numbers to test each answer, then choose the one that matches exactly.",
-    "structuredExplanation": {
-      "summary": "The rule is add 10.",
-      "hint": "Use the picture or numbers to test each answer, then choose the one that matches exactly."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m1a01-p-010",
-    "curriculumCode": "AC9M1A01",
-    "bank": "practice",
-    "skill": "select a valid sequence",
-    "printable": true,
-    "type": "single",
-    "question": "Which sequence follows “start at 2, add 2”?",
-    "audioPrompt": "Which sequence follows “start at 2, add 2”?",
-    "visual": "A number sequence shown with equal jumps of 2. Specific example: Skip-counting Pattern Sequences: select a valid sequence This is practice example 10.",
-    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Which sequence follows “start at 2, add 2”?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1a01.svg#ac9m1a01-p-010\">\u003c/use>\u003c/svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1a01.svg#ac9m1a01-p-010",
-      "alt_text": "Which sequence follows “start at 2, add 2”?"
-    },
-    "answers": [
-      "2, 4, 6, 8",
-      "2, 5, 6",
-      "2, 0, -2"
-    ],
-    "correct": 0,
-    "explanation": "The same skip of 2 is used every time.\nHint: Find what changes or repeats each time, then use the same rule once more.",
-    "structuredExplanation": {
-      "summary": "The same skip of 2 is used every time.",
-      "hint": "Find what changes or repeats each time, then use the same rule once more."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m1a01-p-011",
-    "curriculumCode": "AC9M1A01",
-    "bank": "practice",
-    "skill": "count backwards",
-    "printable": true,
-    "type": "single",
-    "question": "Count back by 10: 70, 60, 50, ___.",
-    "audioPrompt": "Count back by 10: 70, 60, 50, ___.",
-    "visual": "A number sequence shown with equal jumps of 10. Specific example: Skip-counting Pattern Sequences: count backwards This is practice example 11.",
-    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Count back by 10: 70, 60, 50, ___.\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1a01.svg#ac9m1a01-p-011\">\u003c/use>\u003c/svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1a01.svg#ac9m1a01-p-011",
-      "alt_text": "Count back by 10: 70, 60, 50, ___."
-    },
-    "answers": [
-      "30",
-      "40",
-      "50"
-    ],
-    "correct": 1,
-    "explanation": "Subtract 10 each time.\nHint: Use the picture or numbers to test each answer, then choose the one that matches exactly.",
-    "structuredExplanation": {
-      "summary": "Subtract 10 each time.",
-      "hint": "Use the picture or numbers to test each answer, then choose the one that matches exactly."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m1a01-p-012",
-    "curriculumCode": "AC9M1A01",
-    "bank": "practice",
-    "skill": "missing internal term",
-    "printable": true,
-    "type": "single",
-    "question": "Fill the missing term: 15, ___, 25, 30.",
-    "audioPrompt": "Fill the missing term: 15, ___, 25, 30.",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "asset_path": "",
-      "alt_text": ""
-    },
-    "answers": [
-      "19",
-      "21",
-      "20"
-    ],
-    "correct": 2,
-    "explanation": "The missing number is one jump of 5 after 15.\nHint: Use the picture or numbers to test each answer, then choose the one that matches exactly.",
-    "structuredExplanation": {
-      "summary": "The missing number is one jump of 5 after 15.",
-      "hint": "Use the picture or numbers to test each answer, then choose the one that matches exactly."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m1a01-p-013",
-    "curriculumCode": "AC9M1A01",
-    "bank": "practice",
-    "skill": "number line pattern",
-    "printable": true,
-    "type": "single",
-    "question": "[Show the number line, including its labels and blank.] A number line makes 6 equal jumps of 2. What total distance is covered?",
-    "audioPrompt": "[Show the number line, including its labels and blank.] A number line makes 6 equal jumps of 2. What total distance is covered?",
-    "answers": [
-      "12",
-      "8",
-      "10"
-    ],
-    "correct": 0,
-    "explanation": "6 jumps of 2 reach 12.\nHint: Find what changes or repeats each time, then use the same rule once more.",
-    "structuredExplanation": {
-      "summary": "6 jumps of 2 reach 12.",
-      "hint": "Find what changes or repeats each time, then use the same rule once more."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m1a01-p-014",
-    "curriculumCode": "AC9M1A01",
-    "bank": "practice",
-    "skill": "classify a pattern",
-    "printable": true,
-    "type": "single",
-    "question": "Which label fits the sequence 5, 10, 15, 20?",
-    "audioPrompt": "Which label fits the sequence 5, 10, 15, 20?",
-    "visual": "A number sequence shown with equal jumps of 2. Specific example: Skip-counting Pattern Sequences: classify a pattern This is practice example 14.",
-    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Which label fits the sequence 5, 10, 15, 20?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1a01.svg#ac9m1a01-p-014\">\u003c/use>\u003c/svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1a01.svg#ac9m1a01-p-014",
-      "alt_text": "Which label fits the sequence 5, 10, 15, 20?"
-    },
-    "answers": [
-      "skip counting by 6s",
-      "skip counting by 5s",
-      "a repeating AB pattern"
-    ],
-    "correct": 1,
-    "explanation": "Every term increases by 5.\nHint: Find what changes or repeats each time, then use the same rule once more.",
-    "structuredExplanation": {
-      "summary": "Every term increases by 5.",
-      "hint": "Find what changes or repeats each time, then use the same rule once more."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m1a01-p-015",
-    "curriculumCode": "AC9M1A01",
-    "bank": "practice",
-    "skill": "continue by fives",
-    "printable": true,
-    "type": "single",
-    "question": "Complete the sequence: 20, 25, ___, 35.",
-    "audioPrompt": "Complete the sequence: 20, 25, ___, 35.",
-    "visual": "A number sequence shown with equal jumps of 5. This is practice example 15.",
-    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Complete the sequence: 20, 25, ___, 35.\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1a01.svg#ac9m1a01-p-015\">\u003c/use>\u003c/svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1a01.svg#ac9m1a01-p-015",
-      "alt_text": "Complete the sequence: 20, 25, ___, 35."
-    },
-    "answers": [
-      "29",
-      "31",
-      "30"
-    ],
-    "correct": 2,
-    "explanation": "Each term is 5 more than the one before.\nHint: Find what changes or repeats each time, then use the same rule once more.",
-    "structuredExplanation": {
-      "summary": "Each term is 5 more than the one before.",
-      "hint": "Find what changes or repeats each time, then use the same rule once more."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m1a01-p-016",
-    "curriculumCode": "AC9M1A01",
-    "bank": "practice",
-    "skill": "final term after jumps",
-    "printable": true,
-    "type": "single",
-    "question": "Begin at 3. Skip count by 5 for 4 jumps. What is the final number?",
-    "audioPrompt": "Begin at 3. Skip count by 5 for 4 jumps. What is the final number?",
-    "visual": "A number sequence shown with equal jumps of 5. Specific example: Skip-counting Pattern Sequences: final term after jumps This is practice example 16.",
-    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Begin at 3. Skip count by 5 for 4 jumps. What is the final number?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1a01.svg#ac9m1a01-p-016\">\u003c/use>\u003c/svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1a01.svg#ac9m1a01-p-016",
-      "alt_text": "Begin at 3. Skip count by 5 for 4 jumps. What is the final number?"
-    },
-    "answers": [
-      "23",
-      "18",
-      "28"
-    ],
-    "correct": 0,
-    "explanation": "3 + 20 = 23.\nHint: Find what changes or repeats each time, then use the same rule once more.",
-    "structuredExplanation": {
-      "summary": "3 + 20 = 23.",
-      "hint": "Find what changes or repeats each time, then use the same rule once more."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m1a01-p-017",
-    "curriculumCode": "AC9M1A01",
-    "bank": "practice",
-    "skill": "object pattern",
-    "printable": true,
-    "type": "single",
-    "question": "[Show the complete data display with labels and symbols.] Which object display represents counting by 5s?",
-    "audioPrompt": "[Show the complete data display with labels and symbols.] Which object display represents counting by 5s?",
-    "answers": [
-      "[● ● ● ●] [● ● ● ●] [● ● ● ●] [● ● ● ●]",
-      "[● ● ● ● ●] [● ● ● ● ●] [● ● ● ● ●] [● ● ● ● ●]",
-      "[● ● ● ● ●] [● ● ● ● ●] [● ● ● ● ●]"
-    ],
-    "correct": 1,
-    "explanation": "Equal groups show the same skip each time.\nHint: Find what changes or repeats each time, then use the same rule once more.",
-    "structuredExplanation": {
-      "summary": "Equal groups show the same skip each time.",
-      "hint": "Find what changes or repeats each time, then use the same rule once more."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m1a01-p-018",
-    "curriculumCode": "AC9M1A01",
-    "bank": "practice",
-    "skill": "members of a sequence",
-    "printable": true,
-    "type": "single",
-    "question": "Start at 30. Add 10 each time. Which option shows the first three numbers?",
-    "audioPrompt": "Start at 30. Add 10 each time. Which option shows the first three numbers?",
-    "visual": "A number sequence shown with equal jumps of 10. This is practice example 18.",
-    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Start at 30. Add 10 each time. Which option shows the first three numbers?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1a01.svg#ac9m1a01-p-018\">\u003c/use>\u003c/svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1a01.svg#ac9m1a01-p-018",
-      "alt_text": "Start at 30. Add 10 each time. Which option shows the first three numbers?"
-    },
-    "answers": [
-      "50, 30",
-      "50, 30, 41",
-      "50, 30, 40"
-    ],
-    "correct": 2,
-    "explanation": "The first three terms are 30, 40 and 50.\nHint: Find what changes or repeats each time, then use the same rule once more.",
-    "structuredExplanation": {
-      "summary": "The first three terms are 30, 40 and 50.",
-      "hint": "Find what changes or repeats each time, then use the same rule once more."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m1a01-p-019",
-    "curriculumCode": "AC9M1A01",
-    "bank": "practice",
-    "skill": "members of a sequence",
-    "printable": true,
-    "type": "single",
-    "question": "Start at 10. Add 5 each time. Which option shows the first three numbers?",
-    "audioPrompt": "Start at 10. Add 5 each time. Which option shows the first three numbers?",
-    "visual": "A number sequence shown with equal jumps of 5. Specific example: Skip-counting Pattern Sequences: members of a sequence This is practice example 19.",
-    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Start at 10. Add 5 each time. Which option shows the first three numbers?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1a01.svg#ac9m1a01-p-019\">\u003c/use>\u003c/svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1a01.svg#ac9m1a01-p-019",
-      "alt_text": "Start at 10. Add 5 each time. Which option shows the first three numbers?"
-    },
-    "answers": [
-      "20, 10, 15",
-      "20, 10",
-      "20, 10, 16"
-    ],
-    "correct": 0,
-    "explanation": "The first three terms are 10, 15 and 20.\nHint: Find what changes or repeats each time, then use the same rule once more.",
-    "structuredExplanation": {
-      "summary": "The first three terms are 10, 15 and 20.",
-      "hint": "Find what changes or repeats each time, then use the same rule once more."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m1a01-p-020",
-    "curriculumCode": "AC9M1A01",
-    "bank": "practice",
-    "skill": "non zero start",
-    "printable": true,
-    "type": "single",
-    "question": "Start at 7 and make 3 jumps of 5. Where do you land?",
-    "audioPrompt": "Start at 7 and make 3 jumps of 5. Where do you land?",
-    "visual": "A number sequence shown with equal jumps of 2. Specific example: 7 → 12 → 17 → 22 This is practice example 20.",
-    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Start at 7 and make 3 jumps of 5. Where do you land?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1a01.svg#ac9m1a01-p-020\">\u003c/use>\u003c/svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1a01.svg#ac9m1a01-p-020",
-      "alt_text": "Start at 7 and make 3 jumps of 5. Where do you land?"
-    },
-    "answers": [
-      "21",
-      "22",
-      "23"
-    ],
-    "correct": 1,
-    "explanation": "7 + 5 + 5 + 5 = 22.\nHint: Use the picture or numbers to test each answer, then choose the one that matches exactly.",
-    "structuredExplanation": {
-      "summary": "7 + 5 + 5 + 5 = 22.",
-      "hint": "Use the picture or numbers to test each answer, then choose the one that matches exactly."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m1a01-p-021",
-    "curriculumCode": "AC9M1A01",
-    "bank": "practice",
-    "skill": "non zero start",
-    "printable": true,
-    "type": "single",
-    "question": "Start at 11 and make 3 jumps of 10. Where do you land?",
-    "audioPrompt": "Start at 11 and make 3 jumps of 10. Where do you land?",
-    "visual": "A number sequence shown with equal jumps of 2. Specific example: 11 → 21 → 31 → 41 This is practice example 21.",
-    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Start at 11 and make 3 jumps of 10. Where do you land?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1a01.svg#ac9m1a01-p-021\">\u003c/use>\u003c/svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1a01.svg#ac9m1a01-p-021",
-      "alt_text": "Start at 11 and make 3 jumps of 10. Where do you land?"
-    },
-    "answers": [
-      "40",
-      "42",
-      "41"
-    ],
-    "correct": 2,
-    "explanation": "11 + 10 + 10 + 10 = 41.\nHint: Use the picture or numbers to test each answer, then choose the one that matches exactly.",
-    "structuredExplanation": {
-      "summary": "11 + 10 + 10 + 10 = 41.",
-      "hint": "Use the picture or numbers to test each answer, then choose the one that matches exactly."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m1a01-p-022",
-    "curriculumCode": "AC9M1A01",
-    "bank": "practice",
-    "skill": "groups create a pattern",
-    "printable": true,
-    "type": "single",
-    "question": "5 equal groups each represent 10. What is the final skip-count number?",
-    "audioPrompt": "5 equal groups each represent 10. What is the final skip-count number?",
-    "visual": "Four equal groups with 2 objects in each group show counting by 2s. Specific example: [10] [10] [10] [10] [10] This is practice example 22.",
-    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"5 equal groups each represent 10. What is the final skip-count number?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1a01.svg#ac9m1a01-p-022\">\u003c/use>\u003c/svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1a01.svg#ac9m1a01-p-022",
-      "alt_text": "5 equal groups each represent 10. What is the final skip-count number?"
-    },
-    "answers": [
-      "50",
-      "40",
-      "60"
-    ],
-    "correct": 0,
-    "explanation": "The sequence reaches 50.\nHint: Find what changes or repeats each time, then use the same rule once more.",
-    "structuredExplanation": {
-      "summary": "The sequence reaches 50.",
-      "hint": "Find what changes or repeats each time, then use the same rule once more."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m1a01-p-023",
-    "curriculumCode": "AC9M1A01",
-    "bank": "practice",
-    "skill": "groups create a pattern",
-    "printable": true,
-    "type": "single",
-    "question": "3 equal groups each represent 2. What is the final skip-count number?",
-    "audioPrompt": "3 equal groups each represent 2. What is the final skip-count number?",
-    "visual": "Four equal groups with 2 objects in each group show counting by 2s. Specific example: [● ●] [● ●] [● ●] This is practice example 23.",
-    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"3 equal groups each represent 2. What is the final skip-count number?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1a01.svg#ac9m1a01-p-023\">\u003c/use>\u003c/svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1a01.svg#ac9m1a01-p-023",
-      "alt_text": "3 equal groups each represent 2. What is the final skip-count number?"
-    },
-    "answers": [
+      "2",
       "4",
-      "6",
-      "8"
+      "1"
     ],
-    "correct": 1,
-    "explanation": "The sequence reaches 6.\nHint: Find what changes or repeats each time, then use the same rule once more.",
-    "structuredExplanation": {
-      "summary": "The sequence reaches 6.",
-      "hint": "Find what changes or repeats each time, then use the same rule once more."
-    },
-    "qualitySchema": "production-v1"
+    "correct": 0
   },
   {
-    "id": "ac9m1a01-p-024",
+    "id": "AC9M1A01-P02",
+    "questionId": "P02",
     "curriculumCode": "AC9M1A01",
     "bank": "practice",
-    "skill": "object pattern",
+    "bankVersion": "20260906-y1-original-v1",
+    "question": "Count on by 5.\n10, 15, __, 25\nWhich number is missing?",
+    "explanation": "Add 5 each time: 10, 15, 20, 25.",
+    "skill": "interior_number_gap",
+    "responseType": "mcq",
+    "difficulty": 2,
+    "cognitiveDemand": "apply",
+    "visualModel": null,
+    "acceptanceNote": "",
     "printable": true,
     "type": "single",
-    "question": "[Show the complete data display with labels and symbols.] Which object display represents counting by 2s?",
-    "audioPrompt": "[Show the complete data display with labels and symbols.] Which object display represents counting by 2s?",
-    "answers": [
-      "[●] [●] [●] [●]",
-      "[● ●] [● ●] [● ●]",
-      "[● ●] [● ●] [● ●] [● ●]"
-    ],
-    "correct": 2,
-    "explanation": "Equal groups show the same skip each time.\nHint: Find what changes or repeats each time, then use the same rule once more.",
-    "structuredExplanation": {
-      "summary": "Equal groups show the same skip each time.",
-      "hint": "Find what changes or repeats each time, then use the same rule once more."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m1a01-p-025",
-    "curriculumCode": "AC9M1A01",
-    "bank": "practice",
-    "skill": "object pattern",
-    "printable": true,
-    "type": "single",
-    "question": "[Show the complete data display with labels and symbols.] Which object display represents counting by 10s?",
-    "audioPrompt": "[Show the complete data display with labels and symbols.] Which object display represents counting by 10s?",
-    "answers": [
-      "[10] [10] [10] [10]",
-      "[● ● ● ● ●] [● ● ● ● ●] [● ● ● ● ●] [● ● ● ● ●]",
-      "[10] [10] [10]"
-    ],
-    "correct": 0,
-    "explanation": "Equal groups show the same skip each time.\nHint: Find what changes or repeats each time, then use the same rule once more.",
-    "structuredExplanation": {
-      "summary": "Equal groups show the same skip each time.",
-      "hint": "Find what changes or repeats each time, then use the same rule once more."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m1a01-p-026",
-    "curriculumCode": "AC9M1A01",
-    "bank": "practice",
-    "skill": "non zero start",
-    "printable": true,
-    "type": "single",
-    "question": "Start at 15 and make 3 jumps of 2. Where do you land?",
-    "audioPrompt": "Start at 15 and make 3 jumps of 2. Where do you land?",
-    "visual": "A number sequence shown with equal jumps of 2. Specific example: 15 → 17 → 19 → 21 This is practice example 26.",
-    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Start at 15 and make 3 jumps of 2. Where do you land?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1a01.svg#ac9m1a01-p-026\">\u003c/use>\u003c/svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1a01.svg#ac9m1a01-p-026",
-      "alt_text": "Start at 15 and make 3 jumps of 2. Where do you land?"
-    },
     "answers": [
       "20",
-      "21",
-      "22"
-    ],
-    "correct": 1,
-    "explanation": "15 + 2 + 2 + 2 = 21.\nHint: Use the picture or numbers to test each answer, then choose the one that matches exactly.",
-    "structuredExplanation": {
-      "summary": "15 + 2 + 2 + 2 = 21.",
-      "hint": "Use the picture or numbers to test each answer, then choose the one that matches exactly."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m1a01-p-027",
-    "curriculumCode": "AC9M1A01",
-    "bank": "practice",
-    "skill": "spot pattern error",
-    "printable": true,
-    "type": "single",
-    "question": "Which term breaks the rule “add 5”: 5, 10, 15, 21, 25?",
-    "audioPrompt": "Which term breaks the rule “add 5”: 5, 10, 15, 21, 25?",
-    "visual": "A number sequence shown with equal jumps of 5. This is practice example 27.",
-    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Which term breaks the rule “add 5”: 5, 10, 15, 21, 25?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1a01.svg#ac9m1a01-p-027\">\u003c/use>\u003c/svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1a01.svg#ac9m1a01-p-027",
-      "alt_text": "Which term breaks the rule “add 5”: 5, 10, 15, 21, 25?"
-    },
-    "answers": [
-      "10",
-      "15",
-      "21"
-    ],
-    "correct": 2,
-    "explanation": "21 should be 20.\nHint: Find what changes or repeats each time, then use the same rule once more.",
-    "structuredExplanation": {
-      "summary": "21 should be 20.",
-      "hint": "Find what changes or repeats each time, then use the same rule once more."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m1a01-p-028",
-    "curriculumCode": "AC9M1A01",
-    "bank": "practice",
-    "skill": "identify skip rule",
-    "printable": true,
-    "type": "single",
-    "question": "What is the rule for 2, 4, 6, 8?",
-    "audioPrompt": "What is the rule for 2, 4, 6, 8?",
-    "visual": "A number sequence shown with equal jumps of 2. Specific example: Skip-counting Pattern Sequences: identify skip rule This is practice example 28.",
-    "visualHtml": "\u003csvg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"What is the rule for 2, 4, 6, 8?\">\u003cuse href=\"/assets/assessment-visuals/year1-maths-ac9m1a01.svg#ac9m1a01-p-028\">\u003c/use>\u003c/svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1a01.svg#ac9m1a01-p-028",
-      "alt_text": "What is the rule for 2, 4, 6, 8?"
-    },
-    "answers": [
-      "add 2",
-      "add 3",
-      "subtract 2"
-    ],
-    "correct": 0,
-    "explanation": "The difference between neighbouring terms is 2.\nHint: Find what changes or repeats each time, then use the same rule once more.",
-    "structuredExplanation": {
-      "summary": "The difference between neighbouring terms is 2.",
-      "hint": "Find what changes or repeats each time, then use the same rule once more."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m1a01-p-029",
-    "curriculumCode": "AC9M1A01",
-    "bank": "practice",
-    "skill": "skip counting pattern sequences",
-    "printable": true,
-    "type": "single",
-    "question": "Sam counts in a pattern. What number comes next? 0, 2, 4, 6, ___",
-    "audioPrompt": "Sam counts in a pattern. What number comes next? 0, 2, 4, 6, ___",
-    "answers": [
-      "7",
-      "10",
-      "8",
-      "9"
-    ],
-    "correct": 2,
-    "explanation": "8 is the correct answer.",
-    "qualitySchema": "reviewed-year1-maths-v1"
-  },
-  {
-    "id": "ac9m1a01-p-030",
-    "curriculumCode": "AC9M1A01",
-    "bank": "practice",
-    "skill": "skip counting pattern sequences",
-    "printable": true,
-    "type": "single",
-    "question": "Mia counts in a pattern. What number comes next? 0, 5, 10, 15, ___",
-    "audioPrompt": "Mia counts in a pattern. What number comes next? 0, 5, 10, 15, ___",
-    "answers": [
-      "21",
-      "22",
-      "19",
-      "20"
-    ],
-    "correct": 3,
-    "explanation": "20 is the correct answer.",
-    "qualitySchema": "reviewed-year1-maths-v1"
-  },
-  {
-    "id": "ac9m1a01-p-031",
-    "curriculumCode": "AC9M1A01",
-    "bank": "practice",
-    "skill": "skip counting pattern sequences",
-    "printable": true,
-    "type": "single",
-    "question": "Ben counts in a pattern. What number comes next? 0, 10, 20, 30, ___",
-    "audioPrompt": "Ben counts in a pattern. What number comes next? 0, 10, 20, 30, ___",
-    "answers": [
-      "39",
-      "41",
-      "42",
-      "40"
-    ],
-    "correct": 3,
-    "explanation": "40 is the correct answer.",
-    "qualitySchema": "reviewed-year1-maths-v1"
-  },
-  {
-    "id": "ac9m1a01-p-032",
-    "curriculumCode": "AC9M1A01",
-    "bank": "practice",
-    "skill": "skip counting pattern sequences",
-    "printable": true,
-    "type": "single",
-    "question": "Ava counts in a pattern. What number comes next? 2, 4, 6, 8, ___",
-    "audioPrompt": "Ava counts in a pattern. What number comes next? 2, 4, 6, 8, ___",
-    "answers": [
-      "11",
-      "10",
-      "12",
-      "9"
-    ],
-    "correct": 1,
-    "explanation": "10 is the correct answer.",
-    "qualitySchema": "reviewed-year1-maths-v1"
-  },
-  {
-    "id": "ac9m1a01-p-033",
-    "curriculumCode": "AC9M1A01",
-    "bank": "practice",
-    "skill": "skip counting pattern sequences",
-    "printable": true,
-    "type": "single",
-    "question": "Max counts in a pattern. What number comes next? 5, 10, 15, 20, ___",
-    "audioPrompt": "Max counts in a pattern. What number comes next? 5, 10, 15, 20, ___",
-    "answers": [
-      "24",
-      "26",
-      "27",
-      "25"
-    ],
-    "correct": 3,
-    "explanation": "25 is the correct answer.",
-    "qualitySchema": "reviewed-year1-maths-v1"
-  },
-  {
-    "id": "ac9m1a01-p-034",
-    "curriculumCode": "AC9M1A01",
-    "bank": "practice",
-    "skill": "skip counting pattern sequences",
-    "printable": true,
-    "type": "single",
-    "question": "Leo counts in a pattern. What number comes next? 10, 20, 30, 40, ___",
-    "audioPrompt": "Leo counts in a pattern. What number comes next? 10, 20, 30, 40, ___",
-    "answers": [
-      "52",
-      "50",
-      "49",
-      "51"
-    ],
-    "correct": 1,
-    "explanation": "50 is the correct answer.",
-    "qualitySchema": "reviewed-year1-maths-v1"
-  },
-  {
-    "id": "ac9m1a01-p-035",
-    "curriculumCode": "AC9M1A01",
-    "bank": "practice",
-    "skill": "skip counting pattern sequences",
-    "printable": true,
-    "type": "single",
-    "question": "Kim counts in a pattern. What number comes next? 4, 6, 8, 10, ___",
-    "audioPrompt": "Kim counts in a pattern. What number comes next? 4, 6, 8, 10, ___",
-    "answers": [
-      "11",
-      "13",
-      "12",
-      "14"
-    ],
-    "correct": 2,
-    "explanation": "12 is the correct answer.",
-    "qualitySchema": "reviewed-year1-maths-v1"
-  },
-  {
-    "id": "ac9m1a01-p-036",
-    "curriculumCode": "AC9M1A01",
-    "bank": "practice",
-    "skill": "skip counting pattern sequences",
-    "printable": true,
-    "type": "single",
-    "question": "Tom counts in a pattern. What number comes next? 10, 15, 20, 25, ___",
-    "audioPrompt": "Tom counts in a pattern. What number comes next? 10, 15, 20, 25, ___",
-    "answers": [
-      "31",
-      "32",
-      "29",
+      "16",
       "30"
     ],
-    "correct": 3,
-    "explanation": "30 is the correct answer.",
-    "qualitySchema": "reviewed-year1-maths-v1"
+    "correct": 0
   },
   {
-    "id": "ac9m1a01-p-037",
+    "id": "AC9M1A01-P03",
+    "questionId": "P03",
     "curriculumCode": "AC9M1A01",
     "bank": "practice",
-    "skill": "skip counting pattern sequences",
+    "bankVersion": "20260906-y1-original-v1",
+    "question": "Each new row of a sticker chart has 10 more stickers than the row before it.\nRow | Stickers\n1 | 10\n2 | 20\n3 | ?\nHow many stickers are in row 3?",
+    "explanation": "The numbers of stickers go up by 10: 10, 20, 30.",
+    "skill": "extend_labelled_table",
+    "responseType": "mcq",
+    "difficulty": 2,
+    "cognitiveDemand": "apply",
+    "visualModel": {
+      "type": "table",
+      "headers": [
+        "Row",
+        "Stickers"
+      ],
+      "rows": [
+        [
+          "1",
+          "10"
+        ],
+        [
+          "2",
+          "20"
+        ],
+        [
+          "3",
+          "?"
+        ]
+      ]
+    },
+    "acceptanceNote": "",
     "printable": true,
     "type": "single",
-    "question": "Ann counts in a pattern. What number comes next? 20, 30, 40, 50, ___",
-    "audioPrompt": "Ann counts in a pattern. What number comes next? 20, 30, 40, 50, ___",
     "answers": [
-      "60",
-      "62",
-      "59",
-      "61"
-    ],
-    "correct": 0,
-    "explanation": "60 is the correct answer.",
-    "qualitySchema": "reviewed-year1-maths-v1"
-  },
-  {
-    "id": "ac9m1a01-p-038",
-    "curriculumCode": "AC9M1A01",
-    "bank": "practice",
-    "skill": "skip counting pattern sequences",
-    "printable": true,
-    "type": "single",
-    "question": "Tim counts in a pattern. What number comes next? 0, 2, 4, 6, ___",
-    "audioPrompt": "Tim counts in a pattern. What number comes next? 0, 2, 4, 6, ___",
-    "answers": [
-      "8",
-      "10",
-      "9",
-      "7"
-    ],
-    "correct": 0,
-    "explanation": "8 is the correct answer.",
-    "qualitySchema": "reviewed-year1-maths-v1"
-  },
-  {
-    "id": "ac9m1a01-p-039",
-    "curriculumCode": "AC9M1A01",
-    "bank": "practice",
-    "skill": "skip counting pattern sequences",
-    "printable": true,
-    "type": "single",
-    "question": "Pip counts in a pattern. What number comes next? 0, 5, 10, 15, ___",
-    "audioPrompt": "Pip counts in a pattern. What number comes next? 0, 5, 10, 15, ___",
-    "answers": [
-      "19",
-      "20",
       "21",
-      "22"
+      "30",
+      "12"
     ],
-    "correct": 1,
-    "explanation": "20 is the correct answer.",
-    "qualitySchema": "reviewed-year1-maths-v1"
+    "correct": 1
   },
   {
-    "id": "ac9m1a01-p-040",
+    "id": "AC9M1A01-P04",
+    "questionId": "P04",
     "curriculumCode": "AC9M1A01",
     "bank": "practice",
-    "skill": "skip counting pattern sequences",
+    "bankVersion": "20260906-y1-original-v1",
+    "question": "Start at 6. Count on by 2.\nWrite the next two numbers.\n6, __, __",
+    "explanation": "Add 2 to 6 to get 8. Add 2 again to get 10.",
+    "skill": "generate_two_terms",
+    "responseType": "short_answer",
+    "difficulty": 3,
+    "cognitiveDemand": "create",
+    "visualModel": null,
+    "acceptanceNote": "Accept 8 and 10 in that order; separators do not matter.",
     "printable": true,
-    "type": "single",
-    "question": "Zac counts in a pattern. What number comes next? 0, 10, 20, 30, ___",
-    "audioPrompt": "Zac counts in a pattern. What number comes next? 0, 10, 20, 30, ___",
-    "answers": [
-      "41",
-      "42",
-      "40",
-      "39"
+    "type": "text",
+    "correct": "8, 10",
+    "acceptedAnswers": [
+      "8,10"
     ],
-    "correct": 2,
-    "explanation": "40 is the correct answer.",
-    "qualitySchema": "reviewed-year1-maths-v1"
+    "answerFormat": "number-sequence",
+    "placeholder": "Write the numbers in order, separated by commas"
   },
   {
-    "id": "ac9m1a01-p-041",
+    "id": "AC9M1A01-P05",
+    "questionId": "P05",
     "curriculumCode": "AC9M1A01",
     "bank": "practice",
-    "skill": "skip counting pattern sequences",
+    "bankVersion": "20260906-y1-original-v1",
+    "question": "Which row counts on by 10 each time?",
+    "explanation": "In 10, 20, 30, 40, every step adds 10.",
+    "skill": "select_sequence_for_rule",
+    "responseType": "mcq",
+    "difficulty": 1,
+    "cognitiveDemand": "recognise",
+    "visualModel": null,
+    "acceptanceNote": "",
     "printable": true,
     "type": "single",
-    "question": "Amy counts in a pattern. What number comes next? 2, 4, 6, 8, ___",
-    "audioPrompt": "Amy counts in a pattern. What number comes next? 2, 4, 6, 8, ___",
     "answers": [
-      "10",
-      "12",
+      "10, 20, 30, 40",
+      "10, 11, 12, 13",
+      "10, 15, 20, 25"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "AC9M1A01-P06",
+    "questionId": "P06",
+    "curriculumCode": "AC9M1A01",
+    "bank": "practice",
+    "bankVersion": "20260906-y1-original-v1",
+    "question": "Each new picture has 2 more stars.\nPicture 1: ★ ★\nPicture 2: ★ ★ ★ ★\nPicture 3: ?\nWhich row belongs in picture 3?",
+    "explanation": "Picture 2 has 4 stars. Add 2 stars to make 6 stars.",
+    "skill": "choose_next_growing_picture",
+    "responseType": "mcq",
+    "difficulty": 2,
+    "cognitiveDemand": "apply",
+    "visualModel": {
+      "type": "pattern",
+      "rows": [
+        [
+          "★",
+          "★"
+        ],
+        [
+          "★",
+          "★",
+          "★",
+          "★"
+        ],
+        [
+          "?"
+        ]
+      ],
+      "labels": [
+        "Picture 1",
+        "Picture 2",
+        "Picture 3"
+      ]
+    },
+    "acceptanceNote": "",
+    "printable": true,
+    "type": "single",
+    "answers": [
+      "★ ★ ★ ★ ★ ★",
+      "★ ★ ★ ★ ★",
+      "★ ★ ★ ★ ★ ★ ★"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "AC9M1A01-P07",
+    "questionId": "P07",
+    "curriculumCode": "AC9M1A01",
+    "bank": "practice",
+    "bankVersion": "20260906-y1-original-v1",
+    "question": "A path has labels that count on by 5.\n5 → 10 → 15 → ?\nWhich label comes next?",
+    "explanation": "Five more than 15 is 20. The path labels are 5, 10, 15, 20.",
+    "skill": "continue_path_labels",
+    "responseType": "mcq",
+    "difficulty": 2,
+    "cognitiveDemand": "apply",
+    "visualModel": {
+      "type": "pattern",
+      "rows": [
+        [
+          "5",
+          "→",
+          "10",
+          "→",
+          "15",
+          "→",
+          "?"
+        ]
+      ],
+      "labels": [
+        "Path"
+      ]
+    },
+    "acceptanceNote": "",
+    "printable": true,
+    "type": "single",
+    "answers": [
+      "25",
+      "16",
+      "20"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "AC9M1A01-P08",
+    "questionId": "P08",
+    "curriculumCode": "AC9M1A01",
+    "bank": "practice",
+    "bankVersion": "20260906-y1-original-v1",
+    "question": "Make a number pattern. Start at 0 and count on by 5.\nWrite the next three numbers.\n0, __, __, __",
+    "explanation": "Adding 5 each time makes 0, 5, 10, 15.",
+    "skill": "create_number_sequence",
+    "responseType": "short_answer",
+    "difficulty": 3,
+    "cognitiveDemand": "create",
+    "visualModel": null,
+    "acceptanceNote": "Accept 5, 10, 15 in that order.",
+    "printable": true,
+    "type": "text",
+    "correct": "5, 10, 15",
+    "acceptedAnswers": [
+      "5,10,15"
+    ],
+    "answerFormat": "number-sequence",
+    "placeholder": "Write the numbers in order, separated by commas"
+  },
+  {
+    "id": "AC9M1A01-P09",
+    "questionId": "P09",
+    "curriculumCode": "AC9M1A01",
+    "bank": "practice",
+    "bankVersion": "20260906-y1-original-v1",
+    "question": "This should count on by 5.\n5, 10, 12, 20\nWhich number should replace 12?",
+    "explanation": "Counting by 5 gives 5, 10, 15, 20.",
+    "skill": "repair_incorrect_term",
+    "responseType": "mcq",
+    "difficulty": 3,
+    "cognitiveDemand": "reason",
+    "visualModel": null,
+    "acceptanceNote": "",
+    "printable": true,
+    "type": "single",
+    "answers": [
       "11",
-      "9"
-    ],
-    "correct": 0,
-    "explanation": "10 is the correct answer.",
-    "qualitySchema": "reviewed-year1-maths-v1"
-  },
-  {
-    "id": "ac9m1a01-p-042",
-    "curriculumCode": "AC9M1A01",
-    "bank": "practice",
-    "skill": "skip counting pattern sequences",
-    "printable": true,
-    "type": "single",
-    "question": "Ali counts in a pattern. What number comes next? 5, 10, 15, 20, ___",
-    "audioPrompt": "Ali counts in a pattern. What number comes next? 5, 10, 15, 20, ___",
-    "answers": [
-      "24",
-      "27",
-      "26",
+      "15",
       "25"
     ],
-    "correct": 3,
-    "explanation": "25 is the correct answer.",
-    "qualitySchema": "reviewed-year1-maths-v1"
+    "correct": 1
   },
   {
-    "id": "ac9m1a01-p-043",
+    "id": "AC9M1A01-P10",
+    "questionId": "P10",
     "curriculumCode": "AC9M1A01",
     "bank": "practice",
-    "skill": "skip counting pattern sequences",
+    "bankVersion": "20260906-y1-original-v1",
+    "question": "Look at the growing rows of dots.\nRow 1: ● ● ●\nRow 2: ● ● ● ● ●\nRow 3: ● ● ● ● ● ● ●\nWhich number pattern matches the rows?",
+    "explanation": "There are 3 dots, then 5 dots, then 7 dots. The pattern adds 2 dots each time.",
+    "skill": "translate_pictures_to_numbers",
+    "responseType": "mcq",
+    "difficulty": 2,
+    "cognitiveDemand": "apply",
+    "visualModel": {
+      "type": "pattern",
+      "rows": [
+        [
+          "●",
+          "●",
+          "●"
+        ],
+        [
+          "●",
+          "●",
+          "●",
+          "●",
+          "●"
+        ],
+        [
+          "●",
+          "●",
+          "●",
+          "●",
+          "●",
+          "●",
+          "●"
+        ]
+      ],
+      "labels": [
+        "Row 1",
+        "Row 2",
+        "Row 3"
+      ]
+    },
+    "acceptanceNote": "",
     "printable": true,
     "type": "single",
-    "question": "Eva counts in a pattern. What number comes next? 10, 20, 30, 40, ___",
-    "audioPrompt": "Eva counts in a pattern. What number comes next? 10, 20, 30, 40, ___",
     "answers": [
+      "3, 5, 7",
+      "2, 4, 6",
+      "3, 4, 5"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "AC9M1A01-P11",
+    "questionId": "P11",
+    "curriculumCode": "AC9M1A01",
+    "bank": "practice",
+    "bankVersion": "20260906-y1-original-v1",
+    "question": "Start at 30. Count on by 10 two times.\n30 → __ → ?\nWhich number goes at the question mark?",
+    "explanation": "Count 30, 40, 50. Two steps of 10 reach 50.",
+    "skill": "two_step_number_path",
+    "responseType": "mcq",
+    "difficulty": 2,
+    "cognitiveDemand": "apply",
+    "visualModel": {
+      "type": "pattern",
+      "rows": [
+        [
+          "30",
+          "→",
+          "__",
+          "→",
+          "?"
+        ]
+      ],
+      "labels": [
+        "Count by 10"
+      ]
+    },
+    "acceptanceNote": "",
+    "printable": true,
+    "type": "single",
+    "answers": [
+      "40",
       "50",
-      "49",
-      "52",
-      "51"
+      "32"
     ],
-    "correct": 0,
-    "explanation": "50 is the correct answer.",
-    "qualitySchema": "reviewed-year1-maths-v1"
+    "correct": 1
   },
   {
-    "id": "ac9m1a01-p-044",
+    "id": "AC9M1A01-P12",
+    "questionId": "P12",
     "curriculumCode": "AC9M1A01",
     "bank": "practice",
-    "skill": "skip counting pattern sequences",
+    "bankVersion": "20260906-y1-original-v1",
+    "question": "The bead rows grow by 2 each time.\nRow | Beads\n1 | 2\n2 | 4\n3 | 6\n4 | __\nWrite the number of beads in row 4.",
+    "explanation": "The bead counts are 2, 4, 6, 8. Add 2 to 6.",
+    "skill": "complete_table_entry",
+    "responseType": "short_answer",
+    "difficulty": 2,
+    "cognitiveDemand": "apply",
+    "visualModel": {
+      "type": "table",
+      "headers": [
+        "Row",
+        "Beads"
+      ],
+      "rows": [
+        [
+          "1",
+          "2"
+        ],
+        [
+          "2",
+          "4"
+        ],
+        [
+          "3",
+          "6"
+        ],
+        [
+          "4",
+          "__"
+        ]
+      ]
+    },
+    "acceptanceNote": "",
     "printable": true,
-    "type": "single",
-    "question": "Jay counts in a pattern. What number comes next? 4, 6, 8, 10, ___",
-    "audioPrompt": "Jay counts in a pattern. What number comes next? 4, 6, 8, 10, ___",
-    "answers": [
-      "11",
-      "13",
-      "12",
-      "14"
-    ],
-    "correct": 2,
-    "explanation": "12 is the correct answer.",
-    "qualitySchema": "reviewed-year1-maths-v1"
-  },
-  {
-    "id": "ac9m1a01-p-045",
-    "curriculumCode": "AC9M1A01",
-    "bank": "practice",
-    "skill": "skip counting pattern sequences",
-    "printable": true,
-    "type": "single",
-    "question": "Zoe counts in a pattern. What number comes next? 10, 15, 20, 25, ___",
-    "audioPrompt": "Zoe counts in a pattern. What number comes next? 10, 15, 20, 25, ___",
-    "answers": [
-      "29",
-      "32",
-      "30",
-      "31"
-    ],
-    "correct": 2,
-    "explanation": "30 is the correct answer.",
-    "qualitySchema": "reviewed-year1-maths-v1"
-  },
-  {
-    "id": "ac9m1a01-p-046",
-    "curriculumCode": "AC9M1A01",
-    "bank": "practice",
-    "skill": "skip counting pattern sequences",
-    "printable": true,
-    "type": "single",
-    "question": "Roy counts in a pattern. What number comes next? 20, 30, 40, 50, ___",
-    "audioPrompt": "Roy counts in a pattern. What number comes next? 20, 30, 40, 50, ___",
-    "answers": [
-      "61",
-      "60",
-      "62",
-      "59"
-    ],
-    "correct": 1,
-    "explanation": "60 is the correct answer.",
-    "qualitySchema": "reviewed-year1-maths-v1"
-  },
-  {
-    "id": "ac9m1a01-p-047",
-    "curriculumCode": "AC9M1A01",
-    "bank": "practice",
-    "skill": "skip counting pattern sequences",
-    "printable": true,
-    "type": "single",
-    "question": "Liv counts in a pattern. What number comes next? 0, 2, 4, 6, ___",
-    "audioPrompt": "Liv counts in a pattern. What number comes next? 0, 2, 4, 6, ___",
-    "answers": [
-      "7",
+    "type": "text",
+    "correct": "8",
+    "acceptedAnswers": [
       "8",
-      "9",
-      "10"
+      "eight"
     ],
-    "correct": 1,
-    "explanation": "8 is the correct answer.",
-    "qualitySchema": "reviewed-year1-maths-v1"
+    "answerFormat": "plain"
   },
   {
-    "id": "ac9m1a01-p-048",
+    "id": "AC9M1A01-P13",
+    "questionId": "P13",
     "curriculumCode": "AC9M1A01",
     "bank": "practice",
-    "skill": "skip counting pattern sequences",
+    "bankVersion": "20260906-y1-original-v1",
+    "question": "Look at the numbers.\n10, 15, 20, 25\nWhat is the counting rule?",
+    "explanation": "Each number is 5 more than the number before it.",
+    "skill": "name_number_rule",
+    "responseType": "mcq",
+    "difficulty": 1,
+    "cognitiveDemand": "recognise",
+    "visualModel": null,
+    "acceptanceNote": "",
     "printable": true,
     "type": "single",
-    "question": "Gus counts in a pattern. What number comes next? 0, 5, 10, 15, ___",
-    "audioPrompt": "Gus counts in a pattern. What number comes next? 0, 5, 10, 15, ___",
     "answers": [
-      "22",
-      "20",
-      "19",
-      "21"
+      "Add 5 each time",
+      "Add 10 each time",
+      "Add 2 each time"
     ],
-    "correct": 1,
-    "explanation": "20 is the correct answer.",
-    "qualitySchema": "reviewed-year1-maths-v1"
+    "correct": 0
+  },
+  {
+    "id": "AC9M1A01-P14",
+    "questionId": "P14",
+    "curriculumCode": "AC9M1A01",
+    "bank": "practice",
+    "bankVersion": "20260906-y1-original-v1",
+    "question": "A strip grows by one group of 5 dots each time.\nStrip 1: one group of 5\nStrip 2: two groups of 5\nStrip 3: three groups of 5\nWhich number pattern gives the totals?",
+    "explanation": "One group has 5 dots. Counting the growing totals by 5 gives 5, 10, 15.",
+    "skill": "connect_group_growth_and_totals",
+    "responseType": "mcq",
+    "difficulty": 2,
+    "cognitiveDemand": "apply",
+    "visualModel": {
+      "type": "table",
+      "headers": [
+        "Strip",
+        "Groups of 5 dots"
+      ],
+      "rows": [
+        [
+          "1",
+          "1"
+        ],
+        [
+          "2",
+          "2"
+        ],
+        [
+          "3",
+          "3"
+        ]
+      ]
+    },
+    "acceptanceNote": "",
+    "printable": true,
+    "type": "single",
+    "answers": [
+      "1, 2, 3",
+      "5, 7, 9",
+      "5, 10, 15"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "AC9M1A01-P15",
+    "questionId": "P15",
+    "curriculumCode": "AC9M1A01",
+    "bank": "practice",
+    "bankVersion": "20260906-y1-original-v1",
+    "question": "Count on by 10.\n10, 20, __, 40, __\nWhich pair fills the gaps in order?",
+    "explanation": "The whole pattern is 10, 20, 30, 40, 50.",
+    "skill": "complete_separated_gaps",
+    "responseType": "mcq",
+    "difficulty": 2,
+    "cognitiveDemand": "apply",
+    "visualModel": null,
+    "acceptanceNote": "",
+    "printable": true,
+    "type": "single",
+    "answers": [
+      "21 and 41",
+      "30 and 60",
+      "30 and 50"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "AC9M1A01-P16",
+    "questionId": "P16",
+    "curriculumCode": "AC9M1A01",
+    "bank": "practice",
+    "bankVersion": "20260906-y1-original-v1",
+    "question": "Count on by 2. Fill both gaps.\n16, __, __, 22",
+    "explanation": "Counting on by 2 gives 16, 18, 20, 22.",
+    "skill": "complete_adjacent_gaps",
+    "responseType": "short_answer",
+    "difficulty": 2,
+    "cognitiveDemand": "apply",
+    "visualModel": null,
+    "acceptanceNote": "Accept 18 and 20 in that order.",
+    "printable": true,
+    "type": "text",
+    "correct": "18, 20",
+    "acceptedAnswers": [
+      "18,20"
+    ],
+    "answerFormat": "number-sequence",
+    "placeholder": "Write the numbers in order, separated by commas"
+  },
+  {
+    "id": "AC9M1A01-P17",
+    "questionId": "P17",
+    "curriculumCode": "AC9M1A01",
+    "bank": "practice",
+    "bankVersion": "20260906-y1-original-v1",
+    "question": "Start at 7 and count on by 2.\nWhich pattern is right?",
+    "explanation": "Add 2 each time, even when the starting number is 7.",
+    "skill": "apply_rule_from_odd_start",
+    "responseType": "mcq",
+    "difficulty": 2,
+    "cognitiveDemand": "apply",
+    "visualModel": null,
+    "acceptanceNote": "",
+    "printable": true,
+    "type": "single",
+    "answers": [
+      "7, 8, 9, 10",
+      "7, 9, 11, 13",
+      "7, 12, 17, 22"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "AC9M1A01-P18",
+    "questionId": "P18",
+    "curriculumCode": "AC9M1A01",
+    "bank": "practice",
+    "bankVersion": "20260906-y1-original-v1",
+    "question": "Each new picture has 5 more dots.\nPicture 1 has 5 dots.\nPicture 2 has 10 dots.\nA child says picture 3 has 11 dots.\nIs the child right?",
+    "explanation": "This pattern adds 5, not 1. Five more than 10 is 15.",
+    "skill": "evaluate_growth_claim",
+    "responseType": "mcq",
+    "difficulty": 3,
+    "cognitiveDemand": "reason",
+    "visualModel": {
+      "type": "table",
+      "headers": [
+        "Picture",
+        "Dots"
+      ],
+      "rows": [
+        [
+          "1",
+          "5"
+        ],
+        [
+          "2",
+          "10"
+        ],
+        [
+          "3",
+          "Child says 11"
+        ]
+      ]
+    },
+    "acceptanceNote": "",
+    "printable": true,
+    "type": "single",
+    "answers": [
+      "No, picture 3 has 20 dots",
+      "Yes, 11 is after 10",
+      "No, picture 3 has 15 dots"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "AC9M1A01-P19",
+    "questionId": "P19",
+    "curriculumCode": "AC9M1A01",
+    "bank": "practice",
+    "bankVersion": "20260906-y1-original-v1",
+    "question": "Two patterns start at 0.\nA: 0, 2, 4, 6\nB: 0, 5, 10, 15\nWhich pattern adds 5 at every step?",
+    "explanation": "Pattern B adds 5 each time. Pattern A adds 2 each time.",
+    "skill": "compare_counting_rules",
+    "responseType": "mcq",
+    "difficulty": 1,
+    "cognitiveDemand": "recognise",
+    "visualModel": {
+      "type": "table",
+      "headers": [
+        "Pattern",
+        "Numbers"
+      ],
+      "rows": [
+        [
+          "A",
+          "0, 2, 4, 6"
+        ],
+        [
+          "B",
+          "0, 5, 10, 15"
+        ]
+      ]
+    },
+    "acceptanceNote": "",
+    "printable": true,
+    "type": "single",
+    "answers": [
+      "Pattern A",
+      "Both patterns",
+      "Pattern B"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "AC9M1A01-P20",
+    "questionId": "P20",
+    "curriculumCode": "AC9M1A01",
+    "bank": "practice",
+    "bankVersion": "20260906-y1-original-v1",
+    "question": "Make the next row by adding 2 squares each time.\nRow 1: ■\nRow 2: ■ ■ ■\nRow 3: ■ ■ ■ ■ ■\nDraw or write the squares for row 4.",
+    "explanation": "The rows have 1, 3 and 5 squares. The next row has 7 squares.",
+    "skill": "create_growing_visual",
+    "responseType": "short_answer",
+    "difficulty": 3,
+    "cognitiveDemand": "create",
+    "visualModel": {
+      "type": "pattern",
+      "rows": [
+        [
+          "■"
+        ],
+        [
+          "■",
+          "■",
+          "■"
+        ],
+        [
+          "■",
+          "■",
+          "■",
+          "■",
+          "■"
+        ]
+      ],
+      "labels": [
+        "Row 1",
+        "Row 2",
+        "Row 3"
+      ]
+    },
+    "acceptanceNote": "Accept a row of seven squares or seven clearly drawn identical shapes. A bare 7 identifies the total but does not create the requested row.",
+    "printable": true,
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "correct": "■ ■ ■ ■ ■ ■ ■",
+    "modelAnswer": "■ ■ ■ ■ ■ ■ ■"
+  },
+  {
+    "id": "AC9M1A01-P21",
+    "questionId": "P21",
+    "curriculumCode": "AC9M1A01",
+    "bank": "practice",
+    "bankVersion": "20260906-y1-original-v1",
+    "question": "Count on by 10 from 20.\n20, 30, 40, ...\nWhich number will appear later in this pattern?",
+    "explanation": "Continuing gives 50, 60, 70. The pattern reaches 60.",
+    "skill": "predict_later_term",
+    "responseType": "mcq",
+    "difficulty": 3,
+    "cognitiveDemand": "reason",
+    "visualModel": null,
+    "acceptanceNote": "",
+    "printable": true,
+    "type": "single",
+    "answers": [
+      "62",
+      "60",
+      "45"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "AC9M1A01-P22",
+    "questionId": "P22",
+    "curriculumCode": "AC9M1A01",
+    "bank": "practice",
+    "bankVersion": "20260906-y1-original-v1",
+    "question": "The number pattern is 2, 4, 6.\nWhich set of rows matches it?",
+    "explanation": "The matching rows have 2, 4 and 6 dots. Each row adds 2 dots.",
+    "skill": "translate_numbers_to_growing_pictures",
+    "responseType": "mcq",
+    "difficulty": 2,
+    "cognitiveDemand": "apply",
+    "visualModel": null,
+    "acceptanceNote": "",
+    "printable": true,
+    "type": "single",
+    "answers": [
+      "Row 1: ● ●; Row 2: ● ● ● ●; Row 3: ● ● ● ●",
+      "Row 1: ● ●; Row 2: ● ● ●; Row 3: ● ● ● ●",
+      "Row 1: ● ●; Row 2: ● ● ● ●; Row 3: ● ● ● ● ● ●"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "AC9M1A01-P23",
+    "questionId": "P23",
+    "curriculumCode": "AC9M1A01",
+    "bank": "practice",
+    "bankVersion": "20260906-y1-original-v1",
+    "question": "Look at the patterns.\nA: 2, 4, 6, 8\nB: 3, 5, 7, 9\nDo they use the same counting step?",
+    "explanation": "Both patterns add 2 between neighbouring numbers. They can start at different numbers.",
+    "skill": "compare_rules_with_different_starts",
+    "responseType": "mcq",
+    "difficulty": 3,
+    "cognitiveDemand": "reason",
+    "visualModel": {
+      "type": "table",
+      "headers": [
+        "Pattern",
+        "Numbers"
+      ],
+      "rows": [
+        [
+          "A",
+          "2, 4, 6, 8"
+        ],
+        [
+          "B",
+          "3, 5, 7, 9"
+        ]
+      ]
+    },
+    "acceptanceNote": "",
+    "printable": true,
+    "type": "single",
+    "answers": [
+      "Yes, both add 5",
+      "Yes, both add 2",
+      "No, A adds 2 and B adds 3"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "AC9M1A01-P24",
+    "questionId": "P24",
+    "curriculumCode": "AC9M1A01",
+    "bank": "practice",
+    "bankVersion": "20260906-y1-original-v1",
+    "question": "Make your own pattern of four numbers that counts on by 10.\nStart at 0, 10 or 20.",
+    "explanation": "Choose an allowed starting number and add 10 three times. One pattern is 20, 30, 40, 50.",
+    "skill": "create_pattern_with_choice",
+    "responseType": "short_answer",
+    "difficulty": 3,
+    "cognitiveDemand": "create",
+    "visualModel": null,
+    "acceptanceNote": "Accept exactly four numbers starting at 0, 10 or 20, with 10 added at each step. Other valid answers are 0,10,20,30 and 10,20,30,40.",
+    "printable": true,
+    "type": "text",
+    "correct": "20, 30, 40, 50",
+    "acceptedAnswers": [
+      "0,10,20,30",
+      "10,20,30,40",
+      "20,30,40,50"
+    ],
+    "answerFormat": "number-sequence",
+    "placeholder": "Write the numbers in order, separated by commas"
   }
 ];
