@@ -4,1248 +4,549 @@ window.skillrPracticeQuestions = [
     "id": "ac9s2i04-p-001",
     "curriculumCode": "AC9S2I04",
     "bank": "practice",
-    "skill": "sorting and representing data",
+    "skill": "Sorting, ordering and representing data",
     "printable": true,
     "type": "single",
-    "question": "Which rule sorts materials scientifically?",
-    "audioPrompt": "Which rule sorts materials scientifically?",
+    "question": "A tray holds a foil strip, a paper strip and a clay lump. In a gentle test, the foil and paper bend but the clay breaks. Which group fits the results?",
+    "audioPrompt": "A tray holds a foil strip, a paper strip and a clay lump. In a gentle test, the foil and paper bend but the clay breaks. Which group fits the results?",
     "visual": "",
     "answers": [
-      "nice and not nice",
-      "flexible and not flexible",
-      "mine and yours"
+      "Bends: foil and paper; breaks: clay",
+      "Bends: foil and clay; breaks: paper",
+      "Bends: paper only; breaks: foil and clay"
     ],
-    "correct": 1,
-    "explanation": "Flexibility is an observable material property.",
+    "correct": 0,
+    "explanation": "Group the objects by the recorded test result, rather than what they usually do.",
     "structuredExplanation": {
-      "summary": "Flexibility is an observable material property."
+      "summary": "Group the objects by the recorded test result, rather than what they usually do."
     },
-    "stage": "recognise",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
     "sequencePriority": 1,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
+    "qualitySchema": "skillr-reviewed-y2-science-v2"
   },
   {
     "id": "ac9s2i04-p-002",
     "curriculumCode": "AC9S2I04",
     "bank": "practice",
-    "skill": "sorting and representing data",
+    "skill": "Sorting, ordering and representing data",
     "printable": true,
     "type": "single",
-    "question": "Three shadows measure 4, 7 and 10 blocks. What is shortest-to-longest order?",
-    "audioPrompt": "Three shadows measure 4, 7 and 10 blocks. What is shortest-to-longest order?",
+    "question": "Three sounds are recorded as quiet, loud and medium. Which order goes from quietest to loudest?",
+    "audioPrompt": "Three sounds are recorded as quiet, loud and medium. Which order goes from quietest to loudest?",
     "visual": "",
     "answers": [
-      "7, 4, 10",
-      "10, 7, 4",
-      "4, 7, 10"
+      "Loud, medium, quiet",
+      "Quiet, medium, loud",
+      "Medium, quiet, loud"
     ],
-    "correct": 2,
-    "explanation": "Numerical data can be ordered by size.",
+    "correct": 1,
+    "explanation": "The middle sound belongs between the quiet and loud sounds.",
     "structuredExplanation": {
-      "summary": "Numerical data can be ordered by size."
+      "summary": "The middle sound belongs between the quiet and loud sounds."
     },
-    "stage": "recognise",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
     "sequencePriority": 2,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
+    "qualitySchema": "skillr-reviewed-y2-science-v2"
   },
   {
     "id": "ac9s2i04-p-003",
     "curriculumCode": "AC9S2I04",
     "bank": "practice",
-    "skill": "sorting and representing data",
+    "skill": "Sorting, ordering and representing data",
     "printable": true,
     "type": "single",
-    "question": "A table shows paper absorbed 3 drops and cloth 8 drops. Which absorbed more?",
-    "audioPrompt": "A table shows paper absorbed 3 drops and cloth 8 drops. Which absorbed more?",
+    "question": "A shadow table has headings 'Time' and 'Length in blocks'. Where does '10 am' belong?",
+    "audioPrompt": "A shadow table has headings 'Time' and 'Length in blocks'. Where does '10 am' belong?",
     "visual": "",
     "answers": [
-      "both equal",
-      "the table cannot show it",
-      "cloth"
+      "In the Length in blocks column",
+      "In both columns",
+      "In the Time column"
     ],
     "correct": 2,
-    "explanation": "Eight is greater than three.",
+    "explanation": "10 am records when the observation was made, not its length.",
     "structuredExplanation": {
-      "summary": "Eight is greater than three."
+      "summary": "10 am records when the observation was made, not its length."
     },
-    "stage": "recognise",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
     "sequencePriority": 3,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
+    "qualitySchema": "skillr-reviewed-y2-science-v2"
   },
   {
     "id": "ac9s2i04-p-004",
     "curriculumCode": "AC9S2I04",
     "bank": "practice",
-    "skill": "sorting and representing data",
+    "skill": "Sorting, ordering and representing data",
     "printable": true,
     "type": "single",
-    "question": "Which item comes next in the pattern rough, smooth, rough, smooth?",
-    "audioPrompt": "Which item comes next in the pattern rough, smooth, rough, smooth?",
+    "question": "A class counts 4 soft sounds and 2 loud sounds. A model uses one counter for each sound. Which model matches?",
+    "audioPrompt": "A class counts 4 soft sounds and 2 loud sounds. A model uses one counter for each sound. Which model matches?",
     "visual": "",
     "answers": [
-      "large",
-      "rough",
-      "smooth"
+      "4 counters labelled soft; 2 labelled loud",
+      "2 counters labelled soft; 4 labelled loud",
+      "4 counters in each group"
     ],
-    "correct": 1,
-    "explanation": "The two properties repeat in an AB pattern.",
+    "correct": 0,
+    "explanation": "Each counter represents one recorded sound, so both labels and counts must match.",
     "structuredExplanation": {
-      "summary": "The two properties repeat in an AB pattern."
+      "summary": "Each counter represents one recorded sound, so both labels and counts must match."
     },
-    "stage": "recognise",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
     "sequencePriority": 4,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
+    "qualitySchema": "skillr-reviewed-y2-science-v2"
   },
   {
     "id": "ac9s2i04-p-005",
     "curriculumCode": "AC9S2I04",
     "bank": "practice",
-    "skill": "sorting and representing data",
+    "skill": "Sorting, ordering and representing data",
     "printable": true,
     "type": "single",
-    "question": "Which pair belongs in a night-sky observation group?",
-    "audioPrompt": "Which pair belongs in a night-sky observation group?",
+    "question": "Shadow records say 3 pm: 5 blocks; 9 am: 7 blocks; noon: 2 blocks. Put the records in time order.",
+    "audioPrompt": "Shadow records say 3 pm: 5 blocks; 9 am: 7 blocks; noon: 2 blocks. Put the records in time order.",
     "visual": "",
     "answers": [
-      "drum and ruler",
-      "Moon and stars",
-      "chair and spoon"
+      "Noon: 2; 3 pm: 5; 9 am: 7",
+      "9 am: 7; noon: 2; 3 pm: 5",
+      "9 am: 7; 3 pm: 5; noon: 2"
     ],
     "correct": 1,
-    "explanation": "Moon and stars can be observed in the night sky.",
+    "explanation": "Order by observation time when making a daily sequence, even if the lengths do not increase.",
     "structuredExplanation": {
-      "summary": "Moon and stars can be observed in the night sky."
+      "summary": "Order by observation time when making a daily sequence, even if the lengths do not increase."
     },
-    "stage": "recognise",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
     "sequencePriority": 5,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
+    "qualitySchema": "skillr-reviewed-y2-science-v2"
   },
   {
     "id": "ac9s2i04-p-006",
     "curriculumCode": "AC9S2I04",
     "bank": "practice",
-    "skill": "sorting and representing data",
+    "skill": "Sorting, ordering and representing data",
     "printable": true,
     "type": "single",
-    "question": "What can three labelled balls model?",
-    "audioPrompt": "What can three labelled balls model?",
+    "question": "Four equal paper strips stretch by 0, 2, 1 and 3 blocks in a supplied record. Which order shows least to greatest stretch?",
+    "audioPrompt": "Four equal paper strips stretch by 0, 2, 1 and 3 blocks in a supplied record. Which order shows least to greatest stretch?",
     "visual": "",
     "answers": [
-      "exact real distances automatically",
-      "Sun, Earth and Moon relationships",
-      "weather temperature"
+      "3, 2, 1, 0 blocks",
+      "1, 0, 2, 3 blocks",
+      "0, 1, 2, 3 blocks"
     ],
-    "correct": 1,
-    "explanation": "A physical model represents objects and relationships.",
+    "correct": 2,
+    "explanation": "Zero means no measured stretch and belongs before the positive amounts.",
     "structuredExplanation": {
-      "summary": "A physical model represents objects and relationships."
+      "summary": "Zero means no measured stretch and belongs before the positive amounts."
     },
-    "stage": "recognise",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
     "sequencePriority": 6,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
+    "qualitySchema": "skillr-reviewed-y2-science-v2"
   },
   {
     "id": "ac9s2i04-p-007",
     "curriculumCode": "AC9S2I04",
     "bank": "practice",
-    "skill": "sorting and representing data",
+    "skill": "Sorting, ordering and representing data",
     "printable": true,
     "type": "single",
-    "question": "Why use arrows in a diagram?",
-    "audioPrompt": "Why use arrows in a diagram?",
+    "question": "A table says 'Rubber band: stretched; string: did not stretch'. Which picture would represent the results best?",
+    "audioPrompt": "A table says 'Rubber band: stretched; string: did not stretch'. Which picture would represent the results best?",
     "visual": "",
     "answers": [
-      "to hide labels",
-      "to prove exact size",
-      "to show direction or sequence"
+      "A longer band and unchanged string, with before-and-after labels",
+      "Both objects longer, with before-and-after labels",
+      "Both objects unchanged, with before-and-after labels"
     ],
-    "correct": 2,
-    "explanation": "Arrows communicate movement or order.",
+    "correct": 0,
+    "explanation": "A before-and-after model must show a change only where the record reports one.",
     "structuredExplanation": {
-      "summary": "Arrows communicate movement or order."
+      "summary": "A before-and-after model must show a change only where the record reports one."
     },
-    "stage": "recognise",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
     "sequencePriority": 7,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
+    "qualitySchema": "skillr-reviewed-y2-science-v2"
   },
   {
     "id": "ac9s2i04-p-008",
     "curriculumCode": "AC9S2I04",
     "bank": "practice",
-    "skill": "sorting and representing data",
+    "skill": "Sorting, ordering and representing data",
     "printable": true,
     "type": "single",
-    "question": "What should be done before tallying leaf shapes?",
-    "audioPrompt": "What should be done before tallying leaf shapes?",
+    "question": "A supplied table has columns 'Object' and 'Sound-making action'. Which row is in the right order?",
+    "audioPrompt": "A supplied table has columns 'Object' and 'Sound-making action'. Which row is in the right order?",
     "visual": "",
     "answers": [
-      "change each leaf",
-      "remove unusual leaves",
-      "choose clear shape categories"
+      "Striking — drum",
+      "Drum — striking",
+      "Drum — loud"
     ],
-    "correct": 2,
-    "explanation": "Clear categories allow consistent sorting.",
+    "correct": 1,
+    "explanation": "The first cell names the object; the second names the action, not the sound's loudness.",
     "structuredExplanation": {
-      "summary": "Clear categories allow consistent sorting."
+      "summary": "The first cell names the object; the second names the action, not the sound's loudness."
     },
-    "stage": "recognise",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
     "sequencePriority": 8,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
+    "qualitySchema": "skillr-reviewed-y2-science-v2"
   },
   {
     "id": "ac9s2i04-p-009",
     "curriculumCode": "AC9S2I04",
     "bank": "practice",
-    "skill": "sorting and representing data",
+    "skill": "Sorting, ordering and representing data",
     "printable": true,
     "type": "single",
-    "question": "What does a tally mark represent?",
-    "audioPrompt": "What does a tally mark represent?",
+    "question": "Two pupils build counter rows for 3 taps and 5 taps. Which rule makes their rows easy to compare?",
+    "audioPrompt": "Two pupils build counter rows for 3 taps and 5 taps. Which rule makes their rows easy to compare?",
     "visual": "",
     "answers": [
-      "a prediction",
-      "one counted observation",
-      "five every time"
+      "Use larger counters for the row with fewer taps",
+      "Leave bigger gaps in the shorter row",
+      "Use equal-sized counters, one per tap"
     ],
-    "correct": 1,
-    "explanation": "Each tally records one item.",
+    "correct": 2,
+    "explanation": "Equal units and spacing allow the row lengths to represent the numbers fairly.",
     "structuredExplanation": {
-      "summary": "Each tally records one item."
+      "summary": "Equal units and spacing allow the row lengths to represent the numbers fairly."
     },
-    "stage": "recognise",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
     "sequencePriority": 9,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
+    "qualitySchema": "skillr-reviewed-y2-science-v2"
   },
   {
     "id": "ac9s2i04-p-010",
     "curriculumCode": "AC9S2I04",
     "bank": "practice",
-    "skill": "sorting and representing data",
+    "skill": "Sorting, ordering and representing data",
     "printable": true,
     "type": "single",
-    "question": "Which sequence is correct?",
-    "audioPrompt": "Which sequence is correct?",
+    "question": "A group labels boxes 'Changed shape' and 'Did not change shape'. After a test, a sponge is squashed. Where does its result card go?",
+    "audioPrompt": "A group labels boxes 'Changed shape' and 'Did not change shape'. After a test, a sponge is squashed. Where does its result card go?",
     "visual": "",
     "answers": [
-      "evening, morning, midday",
-      "morning, midday, evening",
-      "midday, morning, evening"
+      "Changed shape",
+      "Did not change shape",
+      "Both boxes"
     ],
-    "correct": 1,
-    "explanation": "Time information can be placed in chronological order.",
+    "correct": 0,
+    "explanation": "The result is a shape change, so it belongs in the first group for this test.",
     "structuredExplanation": {
-      "summary": "Time information can be placed in chronological order."
+      "summary": "The result is a shape change, so it belongs in the first group for this test."
     },
-    "stage": "recognise",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
     "sequencePriority": 10,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
+    "qualitySchema": "skillr-reviewed-y2-science-v2"
   },
   {
     "id": "ac9s2i04-p-011",
     "curriculumCode": "AC9S2I04",
     "bank": "practice",
-    "skill": "sorting and representing data",
+    "skill": "Sorting, ordering and representing data",
     "printable": true,
     "type": "single",
-    "question": "A material bends easily. Where should it be sorted?",
-    "audioPrompt": "A material bends easily. Where should it be sorted?",
+    "question": "A Moon diary has dated pictures from Tuesday, Thursday and Wednesday. Which order shows time passing?",
+    "audioPrompt": "A Moon diary has dated pictures from Tuesday, Thursday and Wednesday. Which order shows time passing?",
     "visual": "",
     "answers": [
-      "flexible",
-      "night sky",
-      "transparent only"
+      "Thursday, Wednesday, Tuesday",
+      "Tuesday, Wednesday, Thursday",
+      "Wednesday, Tuesday, Thursday"
     ],
-    "correct": 0,
-    "explanation": "The observed response fits flexible.",
+    "correct": 1,
+    "explanation": "Date order lets a reader follow changes across successive observations.",
     "structuredExplanation": {
-      "summary": "The observed response fits flexible."
+      "summary": "Date order lets a reader follow changes across successive observations."
     },
-    "stage": "recognise",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
     "sequencePriority": 11,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
+    "qualitySchema": "skillr-reviewed-y2-science-v2"
   },
   {
     "id": "ac9s2i04-p-012",
     "curriculumCode": "AC9S2I04",
     "bank": "practice",
-    "skill": "sorting and representing data",
+    "skill": "Sorting, ordering and representing data",
     "printable": true,
     "type": "single",
-    "question": "Counts are 2, 4, 6, 8. What pattern is shown?",
-    "audioPrompt": "Counts are 2, 4, 6, 8. What pattern is shown?",
+    "question": "A table records 2 plucked sounds, 5 tapped sounds and 3 shaken sounds. Which action has the largest recorded group?",
+    "audioPrompt": "A table records 2 plucked sounds, 5 tapped sounds and 3 shaken sounds. Which action has the largest recorded group?",
     "visual": "",
     "answers": [
-      "double then stop",
-      "decrease by 2",
-      "increase by 2"
+      "Plucking",
+      "Shaking",
+      "Tapping"
     ],
     "correct": 2,
-    "explanation": "Each value is two more than the previous one.",
+    "explanation": "Five tapped sounds is more than either two or three.",
     "structuredExplanation": {
-      "summary": "Each value is two more than the previous one."
+      "summary": "Five tapped sounds is more than either two or three."
     },
-    "stage": "recognise",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
     "sequencePriority": 12,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
+    "qualitySchema": "skillr-reviewed-y2-science-v2"
   },
   {
     "id": "ac9s2i04-p-013",
     "curriculumCode": "AC9S2I04",
     "bank": "practice",
-    "skill": "sorting and representing data",
+    "skill": "Sorting, ordering and representing data",
     "printable": true,
     "type": "single",
-    "question": "Which statement about models is correct?",
-    "audioPrompt": "Which statement about models is correct?",
+    "question": "A chart uses one square for each block of shadow length. The table says 6 blocks, but the chart has 4 squares. What correction is needed?",
+    "audioPrompt": "A chart uses one square for each block of shadow length. The table says 6 blocks, but the chart has 4 squares. What correction is needed?",
     "visual": "",
     "answers": [
-      "models are always exact size",
-      "a model is the real object",
-      "models show selected ideas, not every real detail"
+      "Add 2 squares to that row",
+      "Remove 2 squares from that row",
+      "Change the label to 4 blocks"
     ],
-    "correct": 2,
-    "explanation": "Models simplify reality for a purpose.",
+    "correct": 0,
+    "explanation": "Correct the model to match the recorded evidence instead of changing the evidence.",
     "structuredExplanation": {
-      "summary": "Models simplify reality for a purpose."
+      "summary": "Correct the model to match the recorded evidence instead of changing the evidence."
     },
-    "stage": "recognise",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
     "sequencePriority": 13,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
+    "qualitySchema": "skillr-reviewed-y2-science-v2"
   },
   {
     "id": "ac9s2i04-p-014",
     "curriculumCode": "AC9S2I04",
     "bank": "practice",
-    "skill": "sorting and representing data",
+    "skill": "Sorting, ordering and representing data",
     "printable": true,
     "type": "single",
-    "question": "Why order plant heights from least to greatest?",
-    "audioPrompt": "Why order plant heights from least to greatest?",
+    "question": "A model sorts objects into 'Rolled' and 'Slid'. One object did both in the test. What is a useful change?",
+    "audioPrompt": "A model sorts objects into 'Rolled' and 'Slid'. One object did both in the test. What is a useful change?",
     "visual": "",
     "answers": [
-      "to make comparison and pattern finding easier",
-      "to hide the tallest",
-      "to change the heights"
+      "Leave the object out of the results",
+      "Add a 'Rolled and slid' group",
+      "Put it only in 'Rolled' and hide its sliding result"
     ],
-    "correct": 0,
-    "explanation": "Ordered data reveals relative size.",
+    "correct": 1,
+    "explanation": "A third group preserves both observations rather than discarding part of the evidence.",
     "structuredExplanation": {
-      "summary": "Ordered data reveals relative size."
+      "summary": "A third group preserves both observations rather than discarding part of the evidence."
     },
-    "stage": "recognise",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
     "sequencePriority": 14,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
+    "qualitySchema": "skillr-reviewed-y2-science-v2"
   },
   {
     "id": "ac9s2i04-p-015",
     "curriculumCode": "AC9S2I04",
     "bank": "practice",
-    "skill": "sorting and representing data",
+    "skill": "Sorting, ordering and representing data",
     "printable": true,
     "type": "single",
-    "question": "An object is both round and blue. Where does it belong in overlapping groups?",
-    "audioPrompt": "An object is both round and blue. Where does it belong in overlapping groups?",
+    "question": "A table shows Monday: 1 cloud observation; Tuesday: 3; Wednesday: 3. Which pattern does it show?",
+    "audioPrompt": "A table shows Monday: 1 cloud observation; Tuesday: 3; Wednesday: 3. Which pattern does it show?",
     "visual": "",
     "answers": [
-      "in round only",
-      "in blue only",
-      "in the overlap"
+      "The count increases every day",
+      "Monday has the greatest count",
+      "Tuesday and Wednesday have the same count"
     ],
     "correct": 2,
-    "explanation": "The overlap contains items with both properties.",
+    "explanation": "The last two values are equal, so the count does not rise on every day.",
     "structuredExplanation": {
-      "summary": "The overlap contains items with both properties."
+      "summary": "The last two values are equal, so the count does not rise on every day."
     },
-    "stage": "recognise",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
     "sequencePriority": 15,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
+    "qualitySchema": "skillr-reviewed-y2-science-v2"
   },
   {
     "id": "ac9s2i04-p-016",
     "curriculumCode": "AC9S2I04",
     "bank": "practice",
-    "skill": "sorting and representing data",
+    "skill": "Sorting, ordering and representing data",
     "printable": true,
     "type": "single",
-    "question": "In a group labelled ‘vibrates to make sound’, which is the odd item?",
-    "audioPrompt": "In a group labelled ‘vibrates to make sound’, which is the odd item?",
+    "question": "Three sound recordings are labelled 'high', 'low' and 'middle' pitch. Which sequence goes from lowest to highest?",
+    "audioPrompt": "Three sound recordings are labelled 'high', 'low' and 'middle' pitch. Which sequence goes from lowest to highest?",
     "visual": "",
     "answers": [
-      "a silent still cushion",
-      "a ringing bell",
-      "a plucked string"
+      "Low, middle, high",
+      "High, middle, low",
+      "Middle, low, high"
     ],
     "correct": 0,
-    "explanation": "The cushion is not shown vibrating to produce sound.",
+    "explanation": "Pitch can be ordered from a low sound through a middle sound to a high sound.",
     "structuredExplanation": {
-      "summary": "The cushion is not shown vibrating to produce sound."
+      "summary": "Pitch can be ordered from a low sound through a middle sound to a high sound."
     },
-    "stage": "recognise",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
     "sequencePriority": 16,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
+    "qualitySchema": "skillr-reviewed-y2-science-v2"
   },
   {
     "id": "ac9s2i04-p-017",
     "curriculumCode": "AC9S2I04",
     "bank": "practice",
-    "skill": "sorting and representing data",
+    "skill": "Sorting, ordering and representing data",
     "printable": true,
     "type": "single",
-    "question": "Why use rows for material and columns for bend/stretch?",
-    "audioPrompt": "Why use rows for material and columns for bend/stretch?",
+    "question": "A class draws a ball for Earth and a smaller ball for the Moon. Which label explains what the two balls represent?",
+    "audioPrompt": "A class draws a ball for Earth and a smaller ball for the Moon. Which label explains what the two balls represent?",
     "visual": "",
     "answers": [
-      "to organise two features for comparison",
-      "to make every box equal",
-      "to remove observations"
+      "Actual Earth and Moon sizes",
+      "Earth and Moon model",
+      "Number of stars counted"
     ],
-    "correct": 0,
-    "explanation": "A table connects each sample with recorded properties.",
+    "correct": 1,
+    "explanation": "The objects stand for Earth and the Moon; the drawing alone does not establish actual sizes.",
     "structuredExplanation": {
-      "summary": "A table connects each sample with recorded properties."
+      "summary": "The objects stand for Earth and the Moon; the drawing alone does not establish actual sizes."
     },
-    "stage": "apply",
-    "difficulty": 2,
-    "difficultyTier": "apply",
     "sequencePriority": 17,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
+    "qualitySchema": "skillr-reviewed-y2-science-v2"
   },
   {
     "id": "ac9s2i04-p-018",
     "curriculumCode": "AC9S2I04",
     "bank": "practice",
-    "skill": "sorting and representing data",
+    "skill": "Sorting, ordering and representing data",
     "printable": true,
     "type": "single",
-    "question": "Each star symbol represents one night observed. What do 5 symbols mean?",
-    "audioPrompt": "Each star symbol represents one night observed. What do 5 symbols mean?",
+    "question": "A table heading says 'Shadow length'. Its cells contain 2, 4 and 6. What should be added to make the measurements clear?",
+    "audioPrompt": "A table heading says 'Shadow length'. Its cells contain 2, 4 and 6. What should be added to make the measurements clear?",
     "visual": "",
     "answers": [
-      "five nights",
-      "one night",
-      "ten nights"
+      "The favourite colour of each observer",
+      "A new total that replaces the measurements",
+      "The unit used, such as blocks"
     ],
-    "correct": 0,
-    "explanation": "The key says one symbol equals one observation.",
+    "correct": 2,
+    "explanation": "A number needs a unit so readers know what was measured and can interpret the values.",
     "structuredExplanation": {
-      "summary": "The key says one symbol equals one observation."
+      "summary": "A number needs a unit so readers know what was measured and can interpret the values."
     },
-    "stage": "apply",
-    "difficulty": 2,
-    "difficultyTier": "apply",
     "sequencePriority": 18,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
+    "qualitySchema": "skillr-reviewed-y2-science-v2"
   },
   {
     "id": "ac9s2i04-p-019",
     "curriculumCode": "AC9S2I04",
     "bank": "practice",
-    "skill": "sorting and representing data",
+    "skill": "Sorting, ordering and representing data",
     "printable": true,
     "type": "single",
-    "question": "After sorting buttons by material, what useful next step can be done?",
-    "audioPrompt": "After sorting buttons by material, what useful next step can be done?",
+    "question": "A picture chart has 3 symbols for soft taps and 3 for loud taps. One symbol means one tap. Which sentence matches?",
+    "audioPrompt": "A picture chart has 3 symbols for soft taps and 3 for loud taps. One symbol means one tap. Which sentence matches?",
     "visual": "",
     "answers": [
-      "count each group",
-      "discard the smallest group",
-      "rename by favourites"
+      "The two tap groups have equal counts",
+      "Loud taps were counted more often",
+      "Soft taps were counted fewer times"
     ],
     "correct": 0,
-    "explanation": "Counts compare category sizes.",
+    "explanation": "Equal numbers of symbols represent equal counts when the key is the same.",
     "structuredExplanation": {
-      "summary": "Counts compare category sizes."
+      "summary": "Equal numbers of symbols represent equal counts when the key is the same."
     },
-    "stage": "apply",
-    "difficulty": 2,
-    "difficultyTier": "apply",
     "sequencePriority": 19,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
+    "qualitySchema": "skillr-reviewed-y2-science-v2"
   },
   {
     "id": "ac9s2i04-p-020",
     "curriculumCode": "AC9S2I04",
     "bank": "practice",
-    "skill": "sorting and representing data",
+    "skill": "Sorting, ordering and representing data",
     "printable": true,
     "type": "single",
-    "question": "Heights are 2, 4, 6, 9 blocks. Which value breaks the add-2 pattern?",
-    "audioPrompt": "Heights are 2, 4, 6, 9 blocks. Which value breaks the add-2 pattern?",
+    "question": "A table records 'not observed' for a cloudy night. How should a timeline show this?",
+    "audioPrompt": "A table records 'not observed' for a cloudy night. How should a timeline show this?",
     "visual": "",
     "answers": [
-      "2",
-      "6",
-      "9"
+      "Draw a Moon shape guessed from another night",
+      "Keep the date and label it 'not observed'",
+      "Remove the date so every night looks observed"
     ],
-    "correct": 2,
-    "explanation": "The expected next value after 6 is 8.",
+    "correct": 1,
+    "explanation": "A visible gap preserves the difference between missing information and an actual observation.",
     "structuredExplanation": {
-      "summary": "The expected next value after 6 is 8."
+      "summary": "A visible gap preserves the difference between missing information and an actual observation."
     },
-    "stage": "apply",
-    "difficulty": 2,
-    "difficultyTier": "apply",
     "sequencePriority": 20,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
+    "qualitySchema": "skillr-reviewed-y2-science-v2"
   },
   {
     "id": "ac9s2i04-p-021",
     "curriculumCode": "AC9S2I04",
     "bank": "practice",
-    "skill": "sorting and representing data",
+    "skill": "Sorting, ordering and representing data",
     "printable": true,
-    "type": "single",
-    "question": "Why label Earth and Moon in a model?",
-    "audioPrompt": "Why label Earth and Moon in a model?",
+    "type": "self-check",
+    "question": "Use counters to show this record: 3 tapped sounds, 1 scraped sound and 2 shaken sounds. Make labelled groups, with one counter per sound.",
+    "audioPrompt": "Use counters to show this record: 3 tapped sounds, 1 scraped sound and 2 shaken sounds. Make labelled groups, with one counter per sound.",
     "visual": "",
-    "answers": [
-      "to make them real",
-      "to identify which object each part represents",
-      "to set exact distance"
-    ],
-    "correct": 1,
-    "explanation": "Labels prevent ambiguity.",
+    "answers": [],
+    "correct": "Three labelled groups containing 3, 1 and 2 counters respectively.",
+    "explanation": "Adult check: observe the model. Accept drawings or safe objects instead of counters. Each label must match its group, and each counter must represent one sound. Check all three counts.",
     "structuredExplanation": {
-      "summary": "Labels prevent ambiguity."
+      "summary": "Adult check: observe the model. Accept drawings or safe objects instead of counters. Each label must match its group, and each counter must represent one sound. Check all three counts."
     },
-    "stage": "apply",
-    "difficulty": 2,
-    "difficultyTier": "apply",
     "sequencePriority": 21,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
+    "qualitySchema": "skillr-reviewed-y2-science-v2",
+    "gradingMode": "adult-review",
+    "modelAnswer": "Three labelled groups containing 3, 1 and 2 counters respectively.",
+    "acceptanceNote": "Adult check: observe the model. Accept drawings or safe objects instead of counters. Each label must match its group, and each counter must represent one sound. Check all three counts."
   },
   {
     "id": "ac9s2i04-p-022",
     "curriculumCode": "AC9S2I04",
     "bank": "practice",
-    "skill": "sorting and representing data",
+    "skill": "Sorting, ordering and representing data",
     "printable": true,
-    "type": "single",
-    "question": "Which observation supports sorting a seedling as living?",
-    "audioPrompt": "Which observation supports sorting a seedling as living?",
+    "type": "self-check",
+    "question": "Copy a table with headings 'Time' and 'Shadow length in blocks'. Add these records in time order: noon, 2 blocks; 9 am, 6 blocks; 3 pm, 4 blocks.",
+    "audioPrompt": "Copy a table with headings 'Time' and 'Shadow length in blocks'. Add these records in time order: noon, 2 blocks; 9 am, 6 blocks; 3 pm, 4 blocks.",
     "visual": "",
-    "answers": [
-      "it is green only",
-      "it grows over time",
-      "it is small"
-    ],
-    "correct": 1,
-    "explanation": "Growth over time is evidence of life.",
+    "answers": [],
+    "correct": "Time | Shadow length in blocks: 9 am | 6; noon | 2; 3 pm | 4.",
+    "explanation": "Adult check: accept spoken placement with an adult scribe. Check both column meanings, accurate lengths and chronological order. Do not require the lengths to increase.",
     "structuredExplanation": {
-      "summary": "Growth over time is evidence of life."
+      "summary": "Adult check: accept spoken placement with an adult scribe. Check both column meanings, accurate lengths and chronological order. Do not require the lengths to increase."
     },
-    "stage": "apply",
-    "difficulty": 2,
-    "difficultyTier": "apply",
     "sequencePriority": 22,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
+    "qualitySchema": "skillr-reviewed-y2-science-v2",
+    "gradingMode": "adult-review",
+    "modelAnswer": "Time | Shadow length in blocks: 9 am | 6; noon | 2; 3 pm | 4.",
+    "acceptanceNote": "Adult check: accept spoken placement with an adult scribe. Check both column meanings, accurate lengths and chronological order. Do not require the lengths to increase."
   },
   {
     "id": "ac9s2i04-p-023",
     "curriculumCode": "AC9S2I04",
     "bank": "practice",
-    "skill": "sorting and representing data",
+    "skill": "Sorting, ordering and representing data",
     "printable": true,
-    "type": "single",
-    "question": "Sounds are recorded as soft, medium and loud. What kind of organisation is this?",
-    "audioPrompt": "Sounds are recorded as soft, medium and loud. What kind of organisation is this?",
+    "type": "self-check",
+    "question": "Sort these result cards into labelled groups: foil bent; paper bent; chalk broke; sponge squashed. Choose labels that keep each result clear.",
+    "audioPrompt": "Sort these result cards into labelled groups: foil bent; paper bent; chalk broke; sponge squashed. Choose labels that keep each result clear.",
     "visual": "",
-    "answers": [
-      "mapping orbit",
-      "ordering by volume",
-      "measuring length"
-    ],
-    "correct": 1,
-    "explanation": "The categories form a volume order.",
+    "answers": [],
+    "correct": "For example: Bent—foil and paper; Broke—chalk; Squashed—sponge.",
+    "explanation": "Adult check: accept other clear groupings that preserve every recorded result, including subgroups under 'changed shape'. All four cards must be placed, and the child must explain the grouping rule.",
     "structuredExplanation": {
-      "summary": "The categories form a volume order."
+      "summary": "Adult check: accept other clear groupings that preserve every recorded result, including subgroups under 'changed shape'. All four cards must be placed, and the child must explain the grouping rule."
     },
-    "stage": "apply",
-    "difficulty": 2,
-    "difficultyTier": "apply",
     "sequencePriority": 23,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
+    "qualitySchema": "skillr-reviewed-y2-science-v2",
+    "gradingMode": "adult-review",
+    "modelAnswer": "For example: Bent—foil and paper; Broke—chalk; Squashed—sponge.",
+    "acceptanceNote": "Adult check: accept other clear groupings that preserve every recorded result, including subgroups under 'changed shape'. All four cards must be placed, and the child must explain the grouping rule."
   },
   {
     "id": "ac9s2i04-p-024",
     "curriculumCode": "AC9S2I04",
     "bank": "practice",
-    "skill": "sorting and representing data",
+    "skill": "Sorting, ordering and representing data",
     "printable": true,
-    "type": "single",
-    "question": "Can one object belong to more than one scientific group?",
-    "audioPrompt": "Can one object belong to more than one scientific group?",
+    "type": "self-check",
+    "question": "Make a drawing or object model of this pattern: a post's shadow is long in the morning, short near midday and long in the afternoon. Label the three times.",
+    "audioPrompt": "Make a drawing or object model of this pattern: a post's shadow is long in the morning, short near midday and long in the afternoon. Label the three times.",
     "visual": "",
-    "answers": [
-      "only when guessed",
-      "yes, if it has each group property",
-      "never"
-    ],
-    "correct": 1,
-    "explanation": "Objects often have several observable properties.",
+    "answers": [],
+    "correct": "A labelled sequence showing long, short, long shadows for morning, midday and afternoon.",
+    "explanation": "Adult check: check the time sequence and relative shadow lengths. Exact size and direction are not specified and should not be marked. Accept a physical model with spoken labels.",
     "structuredExplanation": {
-      "summary": "Objects often have several observable properties."
+      "summary": "Adult check: check the time sequence and relative shadow lengths. Exact size and direction are not specified and should not be marked. Accept a physical model with spoken labels."
     },
-    "stage": "apply",
-    "difficulty": 2,
-    "difficultyTier": "apply",
     "sequencePriority": 24,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
-  },
-  {
-    "id": "ac9s2i04-p-025",
-    "curriculumCode": "AC9S2I04",
-    "bank": "practice",
-    "skill": "sorting and representing data",
-    "printable": true,
-    "type": "single",
-    "question": "A data table has no result for Cup B. What should be shown?",
-    "audioPrompt": "A data table has no result for Cup B. What should be shown?",
-    "visual": "",
-    "answers": [
-      "blank or clearly marked not measured",
-      "an invented number",
-      "Cup A's value copied"
-    ],
-    "correct": 0,
-    "explanation": "Missing data must not be fabricated.",
-    "structuredExplanation": {
-      "summary": "Missing data must not be fabricated."
-    },
-    "stage": "apply",
-    "difficulty": 2,
-    "difficultyTier": "apply",
-    "sequencePriority": 25,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
-  },
-  {
-    "id": "ac9s2i04-p-026",
-    "curriculumCode": "AC9S2I04",
-    "bank": "practice",
-    "skill": "sorting and representing data",
-    "printable": true,
-    "type": "single",
-    "question": "Which model best shows melting over time?",
-    "audioPrompt": "Which model best shows melting over time?",
-    "visual": "",
-    "answers": [
-      "a list of colours",
-      "one unrelated picture",
-      "ordered before, during and after pictures"
-    ],
-    "correct": 2,
-    "explanation": "A sequence represents change.",
-    "structuredExplanation": {
-      "summary": "A sequence represents change."
-    },
-    "stage": "apply",
-    "difficulty": 2,
-    "difficultyTier": "apply",
-    "sequencePriority": 26,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
-  },
-  {
-    "id": "ac9s2i04-p-027",
-    "curriculumCode": "AC9S2I04",
-    "bank": "practice",
-    "skill": "sorting and representing data",
-    "printable": true,
-    "type": "single",
-    "question": "Why use the same sorting rule for every item?",
-    "audioPrompt": "Why use the same sorting rule for every item?",
-    "visual": "",
-    "answers": [
-      "groups remain meaningful and comparable",
-      "because rules cannot be stated",
-      "to remove exceptions"
-    ],
-    "correct": 0,
-    "explanation": "Consistent criteria make classification valid.",
-    "structuredExplanation": {
-      "summary": "Consistent criteria make classification valid."
-    },
-    "stage": "apply",
-    "difficulty": 2,
-    "difficultyTier": "apply",
-    "sequencePriority": 27,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
-  },
-  {
-    "id": "ac9s2i04-p-028",
-    "curriculumCode": "AC9S2I04",
-    "bank": "practice",
-    "skill": "sorting and representing data",
-    "printable": true,
-    "type": "single",
-    "question": "What does ascending order mean?",
-    "audioPrompt": "What does ascending order mean?",
-    "visual": "",
-    "answers": [
-      "same values only",
-      "least to greatest",
-      "greatest to least"
-    ],
-    "correct": 1,
-    "explanation": "Ascending values increase.",
-    "structuredExplanation": {
-      "summary": "Ascending values increase."
-    },
-    "stage": "apply",
-    "difficulty": 2,
-    "difficultyTier": "apply",
-    "sequencePriority": 28,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
-  },
-  {
-    "id": "ac9s2i04-p-029",
-    "curriculumCode": "AC9S2I04",
-    "bank": "practice",
-    "skill": "sorting and representing data",
-    "printable": true,
-    "type": "single",
-    "question": "What does descending order mean?",
-    "audioPrompt": "What does descending order mean?",
-    "visual": "",
-    "answers": [
-      "greatest to least",
-      "alphabetical only",
-      "least to greatest"
-    ],
-    "correct": 0,
-    "explanation": "Descending values decrease.",
-    "structuredExplanation": {
-      "summary": "Descending values decrease."
-    },
-    "stage": "apply",
-    "difficulty": 2,
-    "difficultyTier": "apply",
-    "sequencePriority": 29,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
-  },
-  {
-    "id": "ac9s2i04-p-030",
-    "curriculumCode": "AC9S2I04",
-    "bank": "practice",
-    "skill": "sorting and representing data",
-    "printable": true,
-    "type": "single",
-    "question": "Which representation best compares simple counts across three materials?",
-    "audioPrompt": "Which representation best compares simple counts across three materials?",
-    "visual": "",
-    "answers": [
-      "a story with no numbers",
-      "a labelled table or picture graph",
-      "one photograph"
-    ],
-    "correct": 1,
-    "explanation": "Tables and graphs make category counts visible.",
-    "structuredExplanation": {
-      "summary": "Tables and graphs make category counts visible."
-    },
-    "stage": "apply",
-    "difficulty": 2,
-    "difficultyTier": "apply",
-    "sequencePriority": 30,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
-  },
-  {
-    "id": "ac9s2i04-p-031",
-    "curriculumCode": "AC9S2I04",
-    "bank": "practice",
-    "skill": "sorting and representing data",
-    "printable": true,
-    "type": "single",
-    "question": "When is it reasonable to describe a data pattern?",
-    "audioPrompt": "When is it reasonable to describe a data pattern?",
-    "visual": "",
-    "answers": [
-      "before collecting data",
-      "when values are hidden",
-      "when recorded values show a repeated or regular change"
-    ],
-    "correct": 2,
-    "explanation": "Patterns require supporting data.",
-    "structuredExplanation": {
-      "summary": "Patterns require supporting data."
-    },
-    "stage": "apply",
-    "difficulty": 2,
-    "difficultyTier": "apply",
-    "sequencePriority": 31,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
-  },
-  {
-    "id": "ac9s2i04-p-032",
-    "curriculumCode": "AC9S2I04",
-    "bank": "practice",
-    "skill": "sorting and representing data",
-    "printable": true,
-    "type": "single",
-    "question": "What is data in a Year 2 investigation?",
-    "audioPrompt": "What is data in a Year 2 investigation?",
-    "visual": "",
-    "answers": [
-      "recorded observations or measurements",
-      "only a prediction",
-      "equipment with no record"
-    ],
-    "correct": 0,
-    "explanation": "Data is the information collected.",
-    "structuredExplanation": {
-      "summary": "Data is the information collected."
-    },
-    "stage": "apply",
-    "difficulty": 2,
-    "difficultyTier": "apply",
-    "sequencePriority": 32,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
-  },
-  {
-    "id": "ac9s2i04-p-033",
-    "curriculumCode": "AC9S2I04",
-    "bank": "practice",
-    "skill": "sorting and representing data",
-    "printable": true,
-    "type": "single",
-    "question": "A class has leaves that are green, yellow and brown. What is one sensible way to sort them?",
-    "audioPrompt": "A class has leaves that are green, yellow and brown. What is one sensible way to sort them?",
-    "visual": "",
-    "answers": [
-      "By which leaf is luckiest",
-      "By the student who likes it most",
-      "By colour"
-    ],
-    "correct": 2,
-    "explanation": "Sorting uses an observable feature shared by the items.",
-    "structuredExplanation": {
-      "summary": "Sorting uses an observable feature shared by the items."
-    },
-    "stage": "reason",
-    "difficulty": 3,
-    "difficultyTier": "reason",
-    "sequencePriority": 33,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
-  },
-  {
-    "id": "ac9s2i04-p-034",
-    "curriculumCode": "AC9S2I04",
-    "bank": "practice",
-    "skill": "sorting and representing data",
-    "printable": true,
-    "type": "single",
-    "question": "Bird counts are 2, 5 and 3. Which order is least to greatest?",
-    "audioPrompt": "Bird counts are 2, 5 and 3. Which order is least to greatest?",
-    "visual": "",
-    "answers": [
-      "5, 3, 2",
-      "3, 2, 5",
-      "2, 3, 5"
-    ],
-    "correct": 2,
-    "explanation": "Least to greatest means ordering from the smallest count to the largest.",
-    "structuredExplanation": {
-      "summary": "Least to greatest means ordering from the smallest count to the largest."
-    },
-    "stage": "reason",
-    "difficulty": 3,
-    "difficultyTier": "reason",
-    "sequencePriority": 34,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
-  },
-  {
-    "id": "ac9s2i04-p-035",
-    "curriculumCode": "AC9S2I04",
-    "bank": "practice",
-    "skill": "sorting and representing data",
-    "printable": true,
-    "type": "single",
-    "question": "Which display is useful for showing how many objects are in each group?",
-    "audioPrompt": "Which display is useful for showing how many objects are in each group?",
-    "visual": "",
-    "answers": [
-      "A list with no numbers",
-      "An unlabeled drawing",
-      "A simple table with category names and counts"
-    ],
-    "correct": 2,
-    "explanation": "A category-and-count table makes group sizes easy to compare.",
-    "structuredExplanation": {
-      "summary": "A category-and-count table makes group sizes easy to compare."
-    },
-    "stage": "reason",
-    "difficulty": 3,
-    "difficultyTier": "reason",
-    "sequencePriority": 35,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
-  },
-  {
-    "id": "ac9s2i04-p-036",
-    "curriculumCode": "AC9S2I04",
-    "bank": "practice",
-    "skill": "sorting and representing data",
-    "printable": true,
-    "type": "single",
-    "question": "A tally chart has |||| for blue flowers and || for red flowers. What can be concluded?",
-    "audioPrompt": "A tally chart has |||| for blue flowers and || for red flowers. What can be concluded?",
-    "visual": "",
-    "answers": [
-      "More blue flowers were counted than red flowers",
-      "Flower colour was not recorded",
-      "Red flowers were counted more often"
-    ],
-    "correct": 0,
-    "explanation": "The tally marks show four blue observations and two red observations.",
-    "structuredExplanation": {
-      "summary": "The tally marks show four blue observations and two red observations."
-    },
-    "stage": "reason",
-    "difficulty": 3,
-    "difficultyTier": "reason",
-    "sequencePriority": 36,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
-  },
-  {
-    "id": "ac9s2i04-p-037",
-    "curriculumCode": "AC9S2I04",
-    "bank": "practice",
-    "skill": "sorting and representing data",
-    "printable": true,
-    "type": "single",
-    "question": "Why sort rocks by rough and smooth surfaces?",
-    "audioPrompt": "Why sort rocks by rough and smooth surfaces?",
-    "visual": "",
-    "answers": [
-      "It changes rough rocks into smooth ones",
-      "It helps compare an observable property across the collection",
-      "It proves all rocks are the same"
-    ],
-    "correct": 1,
-    "explanation": "Sorting can reveal similarities and differences in a chosen feature.",
-    "structuredExplanation": {
-      "summary": "Sorting can reveal similarities and differences in a chosen feature."
-    },
-    "stage": "reason",
-    "difficulty": 3,
-    "difficultyTier": "reason",
-    "sequencePriority": 37,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
-  },
-  {
-    "id": "ac9s2i04-p-038",
-    "curriculumCode": "AC9S2I04",
-    "bank": "practice",
-    "skill": "sorting and representing data",
-    "printable": true,
-    "type": "single",
-    "question": "A table lists shadow lengths of 4, 8 and 6 blocks. Which is the longest?",
-    "audioPrompt": "A table lists shadow lengths of 4, 8 and 6 blocks. Which is the longest?",
-    "visual": "",
-    "answers": [
-      "8 blocks",
-      "6 blocks",
-      "4 blocks"
-    ],
-    "correct": 0,
-    "explanation": "The greatest recorded length is 8 blocks.",
-    "structuredExplanation": {
-      "summary": "The greatest recorded length is 8 blocks."
-    },
-    "stage": "reason",
-    "difficulty": 3,
-    "difficultyTier": "reason",
-    "sequencePriority": 38,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
-  },
-  {
-    "id": "ac9s2i04-p-039",
-    "curriculumCode": "AC9S2I04",
-    "bank": "practice",
-    "skill": "sorting and representing data",
-    "printable": true,
-    "type": "single",
-    "question": "A class groups objects as magnetic or not magnetic. What evidence should decide the group?",
-    "audioPrompt": "A class groups objects as magnetic or not magnetic. What evidence should decide the group?",
-    "visual": "",
-    "answers": [
-      "The object name",
-      "Whether the magnet attracts the object in the test",
-      "Which group has fewer items"
-    ],
-    "correct": 1,
-    "explanation": "Groups should be based on the observed property being investigated.",
-    "structuredExplanation": {
-      "summary": "Groups should be based on the observed property being investigated."
-    },
-    "stage": "reason",
-    "difficulty": 3,
-    "difficultyTier": "reason",
-    "sequencePriority": 39,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
-  },
-  {
-    "id": "ac9s2i04-p-040",
-    "curriculumCode": "AC9S2I04",
-    "bank": "practice",
-    "skill": "sorting and representing data",
-    "printable": true,
-    "type": "single",
-    "question": "Why add headings to a science table?",
-    "audioPrompt": "Why add headings to a science table?",
-    "visual": "",
-    "answers": [
-      "They remove the need for observations",
-      "They make the data larger",
-      "They show what each row or column represents"
-    ],
-    "correct": 2,
-    "explanation": "Headings make recorded data understandable.",
-    "structuredExplanation": {
-      "summary": "Headings make recorded data understandable."
-    },
-    "stage": "reason",
-    "difficulty": 3,
-    "difficultyTier": "reason",
-    "sequencePriority": 40,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
-  },
-  {
-    "id": "ac9s2i04-p-041",
-    "curriculumCode": "AC9S2I04",
-    "bank": "practice",
-    "skill": "sorting and representing data",
-    "printable": true,
-    "type": "single",
-    "question": "A picture graph uses one leaf picture for one leaf. There are four pictures beside oak. How many oak leaves were counted?",
-    "audioPrompt": "A picture graph uses one leaf picture for one leaf. There are four pictures beside oak. How many oak leaves were counted?",
-    "visual": "",
-    "answers": [
-      "1",
-      "4",
-      "8"
-    ],
-    "correct": 1,
-    "explanation": "The key says that each picture represents one leaf.",
-    "structuredExplanation": {
-      "summary": "The key says that each picture represents one leaf."
-    },
-    "stage": "reason",
-    "difficulty": 3,
-    "difficultyTier": "reason",
-    "sequencePriority": 41,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
-  },
-  {
-    "id": "ac9s2i04-p-042",
-    "curriculumCode": "AC9S2I04",
-    "bank": "practice",
-    "skill": "sorting and representing data",
-    "printable": true,
-    "type": "single",
-    "question": "A table lists sponge: bends; stone: does not bend; cloth: bends. Which two belong together by this rule?",
-    "audioPrompt": "A table lists sponge: bends; stone: does not bend; cloth: bends. Which two belong together by this rule?",
-    "visual": "",
-    "answers": [
-      "Stone and sponge",
-      "Stone and cloth",
-      "Sponge and cloth"
-    ],
-    "correct": 2,
-    "explanation": "Sponge and cloth share the recorded bending property.",
-    "structuredExplanation": {
-      "summary": "Sponge and cloth share the recorded bending property."
-    },
-    "stage": "reason",
-    "difficulty": 3,
-    "difficultyTier": "reason",
-    "sequencePriority": 42,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
-  },
-  {
-    "id": "ac9s2i04-p-043",
-    "curriculumCode": "AC9S2I04",
-    "bank": "practice",
-    "skill": "sorting and representing data",
-    "printable": true,
-    "type": "single",
-    "question": "Seedling photos are labelled Day 6, Day 1 and Day 3. How should they be placed to show growth over time?",
-    "audioPrompt": "Seedling photos are labelled Day 6, Day 1 and Day 3. How should they be placed to show growth over time?",
-    "visual": "",
-    "answers": [
-      "Day 1, Day 3, Day 6",
-      "Day 6, Day 3, Day 1",
-      "Day 3, Day 1, Day 6"
-    ],
-    "correct": 0,
-    "explanation": "Putting the dates in order shows the observed sequence.",
-    "structuredExplanation": {
-      "summary": "Putting the dates in order shows the observed sequence."
-    },
-    "stage": "reason",
-    "difficulty": 3,
-    "difficultyTier": "reason",
-    "sequencePriority": 43,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
-  },
-  {
-    "id": "ac9s2i04-p-044",
-    "curriculumCode": "AC9S2I04",
-    "bank": "practice",
-    "skill": "sorting and representing data",
-    "printable": true,
-    "type": "single",
-    "question": "A clear lid bends easily. One group is 'see-through' and another is 'bendy'. Where can the lid go?",
-    "audioPrompt": "A clear lid bends easily. One group is 'see-through' and another is 'bendy'. Where can the lid go?",
-    "visual": "",
-    "answers": [
-      "In both groups",
-      "Only in neither group",
-      "Only in a group called stone"
-    ],
-    "correct": 0,
-    "explanation": "An object can have more than one recorded property.",
-    "structuredExplanation": {
-      "summary": "An object can have more than one recorded property."
-    },
-    "stage": "reason",
-    "difficulty": 3,
-    "difficultyTier": "reason",
-    "sequencePriority": 44,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
-  },
-  {
-    "id": "ac9s2i04-p-045",
-    "curriculumCode": "AC9S2I04",
-    "bank": "practice",
-    "skill": "sorting and representing data",
-    "printable": true,
-    "type": "single",
-    "question": "A chart records Monday: wet; Tuesday: dry; Wednesday: dry. Which summary matches?",
-    "audioPrompt": "A chart records Monday: wet; Tuesday: dry; Wednesday: dry. Which summary matches?",
-    "visual": "",
-    "answers": [
-      "Two dry days and one wet day",
-      "Three wet days",
-      "One dry day and two wet days"
-    ],
-    "correct": 0,
-    "explanation": "Counting the labels gives two dry observations and one wet observation.",
-    "structuredExplanation": {
-      "summary": "Counting the labels gives two dry observations and one wet observation."
-    },
-    "stage": "reason",
-    "difficulty": 3,
-    "difficultyTier": "reason",
-    "sequencePriority": 45,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
-  },
-  {
-    "id": "ac9s2i04-p-046",
-    "curriculumCode": "AC9S2I04",
-    "bank": "practice",
-    "skill": "sorting and representing data",
-    "printable": true,
-    "type": "single",
-    "question": "Three tested objects sank and two floated. How many results should appear on the chart?",
-    "audioPrompt": "Three tested objects sank and two floated. How many results should appear on the chart?",
-    "visual": "",
-    "answers": [
-      "3",
-      "5",
-      "2"
-    ],
-    "correct": 1,
-    "explanation": "Both groups together contain five observations.",
-    "structuredExplanation": {
-      "summary": "Both groups together contain five observations."
-    },
-    "stage": "reason",
-    "difficulty": 3,
-    "difficultyTier": "reason",
-    "sequencePriority": 46,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
-  },
-  {
-    "id": "ac9s2i04-p-047",
-    "curriculumCode": "AC9S2I04",
-    "bank": "practice",
-    "skill": "sorting and representing data",
-    "printable": true,
-    "type": "single",
-    "question": "A class sorts sounds by how they are made. Where does clapping belong?",
-    "audioPrompt": "A class sorts sounds by how they are made. Where does clapping belong?",
-    "visual": "",
-    "answers": [
-      "Hitting surfaces together",
-      "Blowing through an opening",
-      "Plucking a string"
-    ],
-    "correct": 0,
-    "explanation": "Clapping makes sound when the hands strike each other.",
-    "structuredExplanation": {
-      "summary": "Clapping makes sound when the hands strike each other."
-    },
-    "stage": "reason",
-    "difficulty": 3,
-    "difficultyTier": "reason",
-    "sequencePriority": 47,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
-  },
-  {
-    "id": "ac9s2i04-p-048",
-    "curriculumCode": "AC9S2I04",
-    "bank": "practice",
-    "skill": "sorting and representing data",
-    "printable": true,
-    "type": "single",
-    "question": "A weather chart uses a circle for a sunny day. What should its key explain?",
-    "audioPrompt": "A weather chart uses a circle for a sunny day. What should its key explain?",
-    "visual": "",
-    "answers": [
-      "Who drew the neatest circle",
-      "Which day everyone liked",
-      "What the circle stands for"
-    ],
-    "correct": 2,
-    "explanation": "A key tells readers what a symbol means.",
-    "structuredExplanation": {
-      "summary": "A key tells readers what a symbol means."
-    },
-    "stage": "reason",
-    "difficulty": 3,
-    "difficultyTier": "reason",
-    "sequencePriority": 48,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
+    "qualitySchema": "skillr-reviewed-y2-science-v2",
+    "gradingMode": "adult-review",
+    "modelAnswer": "A labelled sequence showing long, short, long shadows for morning, midday and afternoon.",
+    "acceptanceNote": "Adult check: check the time sequence and relative shadow lengths. Exact size and direction are not specified and should not be marked. Accept a physical model with spoken labels."
   }
 ];
+window.quizQuestions = window.skillrPracticeQuestions;

@@ -20,7 +20,8 @@
       "Foundation English",
       "Year 1 Science",
       "Year 1 English",
-      "Year 2 Mathematics"
+      "Year 2 Mathematics",
+      "Year 2 Science"
     ],
     "status_page": "https://skillrhub.com/editorial-standards.html#verified-status"
   },
@@ -42,12 +43,9 @@
   "year2_science_quality_note": {
     "scope": "Year 2 Science practice/test questions",
     "skills": 10,
-    "practice_per_skill": {
-      "revised_codes": 24,
-      "remaining_codes": 48
-    },
+    "practice_per_skill": 24,
     "test_per_skill": 16,
-    "review_status": "AC9S2U02, AC9S2U03, AC9S2H01 and AC9S2I01–AC9S2I03 each contain 24 practice and 16 test questions, reviewed for Australian Curriculum v9 coverage, answer accuracy, explanations and question variety. The other four Year 2 Science banks retain 48 practice and 16 test questions each. Inquiry banks include tasks requiring adult review. Full IXL comparison remains incomplete; these are supplementary resources to use alongside teacher guidance.",
+    "review_status": "All ten Year 2 Science codes contain 24 practice and 16 test questions each: 400 original questions reviewed for Australian Curriculum v9 coverage, year-level suitability, answer accuracy, explanations and meaningful variety. Inquiry banks include tasks requiring adult review. Content Verified records this content review; full IXL examples and progression comparison remains incomplete. These are supplementary resources to use alongside teacher guidance.",
     "recommended_wording": "Free supplementary Year 2 Science practice, reviewed and edited; use alongside teacher guidance.",
     "revised_codes": [
       "AC9S2U02",
@@ -55,7 +53,11 @@
       "AC9S2H01",
       "AC9S2I01",
       "AC9S2I02",
-      "AC9S2I03"
+      "AC9S2I03",
+      "AC9S2U01",
+      "AC9S2I04",
+      "AC9S2I05",
+      "AC9S2I06"
     ]
   },
   "best_start_here": [

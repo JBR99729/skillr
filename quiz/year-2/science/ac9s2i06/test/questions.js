@@ -4,416 +4,368 @@ window.skillrTestQuestions = [
     "id": "ac9s2i06-t-001",
     "curriculumCode": "AC9S2I06",
     "bank": "test",
-    "skill": "communicating science clearly",
+    "skill": "Communicating observations, findings and ideas",
     "printable": true,
     "type": "single",
-    "question": "A student reports, “The dark cloth reached 31 °C; the light cloth reached 27 °C.” Why is this strong communication?",
-    "audioPrompt": "A student reports, “The dark cloth reached 31 °C; the light cloth reached 27 °C.” Why is this strong communication?",
+    "question": "A report describes a sponge returning to its earlier shape after squeezing. Which sentence is clearest?",
+    "audioPrompt": "A report describes a sponge returning to its earlier shape after squeezing. Which sentence is clearest?",
     "visual": "",
     "answers": [
-      "It gives both measured results for comparison",
-      "It uses only opinion words",
-      "It changes the prediction"
+      "It did that thing again",
+      "After we squeezed the sponge, it returned to its earlier shape",
+      "The sponge is better than all other objects"
     ],
-    "correct": 0,
-    "explanation": "Specific measurements let the reader compare the evidence directly.",
+    "correct": 1,
+    "explanation": "A clear report names the object, action and observed result.",
     "structuredExplanation": {
-      "summary": "Specific measurements let the reader compare the evidence directly."
+      "summary": "A clear report names the object, action and observed result."
     },
-    "stage": "recognise",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
     "sequencePriority": 1,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
+    "qualitySchema": "skillr-reviewed-y2-science-v2"
   },
   {
     "id": "ac9s2i06-t-002",
     "curriculumCode": "AC9S2I06",
     "bank": "test",
-    "skill": "communicating science clearly",
+    "skill": "Communicating observations, findings and ideas",
     "printable": true,
     "type": "single",
-    "question": "A diagram of a plant has arrows but no labels. What should be added?",
-    "audioPrompt": "A diagram of a plant has arrows but no labels. What should be added?",
+    "question": "A class records a low sound and a high sound. Which heading identifies what was compared?",
+    "audioPrompt": "A class records a low sound and a high sound. Which heading identifies what was compared?",
     "visual": "",
     "answers": [
-      "Names for the parts the arrows point to",
-      "A prediction about weather",
-      "A random slogan"
+      "Weight",
+      "Colour",
+      "Pitch"
     ],
-    "correct": 0,
-    "explanation": "Labels explain what diagram features represent.",
+    "correct": 2,
+    "explanation": "High and low describe pitch in this sound comparison.",
     "structuredExplanation": {
-      "summary": "Labels explain what diagram features represent."
+      "summary": "High and low describe pitch in this sound comparison."
     },
-    "stage": "recognise",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
     "sequencePriority": 2,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
+    "qualitySchema": "skillr-reviewed-y2-science-v2"
   },
   {
     "id": "ac9s2i06-t-003",
     "curriculumCode": "AC9S2I06",
     "bank": "test",
-    "skill": "communicating science clearly",
+    "skill": "Communicating observations, findings and ideas",
     "printable": true,
     "type": "single",
-    "question": "A group's third trial differs from the first two. Which sentence clearly reports this?",
-    "audioPrompt": "A group's third trial differs from the first two. Which sentence clearly reports this?",
+    "question": "A child writes 'Our strip was 7 long.' What should be added?",
+    "audioPrompt": "A child writes 'Our strip was 7 long.' What should be added?",
     "visual": "",
     "answers": [
-      "We changed Trial 3 to match",
-      "Trial 3 was different, so we will check our method",
-      "We deleted Trial 3 because it was different"
+      "The measuring unit, such as blocks",
+      "The child's favourite number",
+      "A claim that every strip is 7 long"
     ],
-    "correct": 1,
-    "explanation": "The sentence reports the difference honestly and states a useful next step.",
+    "correct": 0,
+    "explanation": "A measurement needs a unit to make its meaning clear.",
     "structuredExplanation": {
-      "summary": "The sentence reports the difference honestly and states a useful next step."
+      "summary": "A measurement needs a unit to make its meaning clear."
     },
-    "stage": "recognise",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
     "sequencePriority": 3,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
+    "qualitySchema": "skillr-reviewed-y2-science-v2"
   },
   {
     "id": "ac9s2i06-t-004",
     "curriculumCode": "AC9S2I06",
     "bank": "test",
-    "skill": "communicating science clearly",
+    "skill": "Communicating observations, findings and ideas",
     "printable": true,
     "type": "single",
-    "question": "Which conclusion is best after a fair ramp test?",
-    "audioPrompt": "Which conclusion is best after a fair ramp test?",
+    "question": "The observations say foil folded and stayed in one piece. Which poster caption matches?",
+    "audioPrompt": "The observations say foil folded and stayed in one piece. Which poster caption matches?",
     "visual": "",
     "answers": [
-      "Higher ramps always make every car travel exactly 2 m",
-      "The car travelled farther from the higher ramp in our three trials",
-      "Our favourite ramp won"
+      "The foil melted into a liquid",
+      "The foil folded without breaking in our test",
+      "Every piece of foil can never break"
     ],
     "correct": 1,
-    "explanation": "The best conclusion is specific to the evidence collected.",
+    "explanation": "The caption should report the actual action and result without an unlimited claim.",
     "structuredExplanation": {
-      "summary": "The best conclusion is specific to the evidence collected."
+      "summary": "The caption should report the actual action and result without an unlimited claim."
     },
-    "stage": "recognise",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
     "sequencePriority": 4,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
+    "qualitySchema": "skillr-reviewed-y2-science-v2"
   },
   {
     "id": "ac9s2i06-t-005",
     "curriculumCode": "AC9S2I06",
     "bank": "test",
-    "skill": "communicating science clearly",
+    "skill": "Communicating observations, findings and ideas",
     "printable": true,
     "type": "single",
-    "question": "A table lists numbers but no units for temperature. What should be fixed?",
-    "audioPrompt": "A table lists numbers but no units for temperature. What should be fixed?",
+    "question": "A poster explains a shaking test to another class. Which order makes its procedure clear?",
+    "audioPrompt": "A poster explains a shaking test to another class. Which order makes its procedure clear?",
     "visual": "",
     "answers": [
-      "Change them to words only",
-      "Add student birthdays",
-      "Add °C to show what the numbers mean"
+      "Finally record the sound, first finish the report, next begin",
+      "Record the result before doing the test, then predict afterwards",
+      "First fill and close the sound maker, next shake it gently, finally record the sound"
     ],
     "correct": 2,
-    "explanation": "Measurement units are part of clear scientific communication.",
+    "explanation": "A procedure should communicate the actual sequence from preparation to testing to recording.",
     "structuredExplanation": {
-      "summary": "Measurement units are part of clear scientific communication."
+      "summary": "A procedure should communicate the actual sequence from preparation to testing to recording."
     },
-    "stage": "recognise",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
     "sequencePriority": 5,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
+    "qualitySchema": "skillr-reviewed-y2-science-v2"
   },
   {
     "id": "ac9s2i06-t-006",
     "curriculumCode": "AC9S2I06",
     "bank": "test",
-    "skill": "communicating science clearly",
+    "skill": "Communicating observations, findings and ideas",
     "printable": true,
     "type": "single",
-    "question": "Which sentence reports an observation rather than a guess?",
-    "audioPrompt": "Which sentence reports an observation rather than a guess?",
+    "question": "A prediction section should contain which sentence?",
+    "audioPrompt": "A prediction section should contain which sentence?",
     "visual": "",
     "answers": [
-      "The band probably wanted to move",
-      "I think it is the best band",
-      "The rubber band moved back and forth when plucked"
+      "Before testing, we thought the card would bend",
+      "The card bent during the test",
+      "We measured the bent card afterwards"
     ],
-    "correct": 2,
-    "explanation": "Observations describe what was actually noticed.",
+    "correct": 0,
+    "explanation": "A prediction records what was expected before the observation.",
     "structuredExplanation": {
-      "summary": "Observations describe what was actually noticed."
+      "summary": "A prediction records what was expected before the observation."
     },
-    "stage": "recognise",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
     "sequencePriority": 6,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
+    "qualitySchema": "skillr-reviewed-y2-science-v2"
   },
   {
     "id": "ac9s2i06-t-007",
     "curriculumCode": "AC9S2I06",
     "bank": "test",
-    "skill": "communicating science clearly",
+    "skill": "Communicating observations, findings and ideas",
     "printable": true,
     "type": "single",
-    "question": "A student gives a result but no method. Why might the reader need the method?",
-    "audioPrompt": "A student gives a result but no method. Why might the reader need the method?",
+    "question": "A child adds a diagram of a vibrating ruler. Which label helps explain its motion?",
+    "audioPrompt": "A child adds a diagram of a vibrating ruler. Which label helps explain its motion?",
     "visual": "",
     "answers": [
-      "Methods make results less scientific",
-      "The method changes the past result",
-      "It helps the reader understand how the evidence was collected"
+      "Changing into water",
+      "Moving back and forth",
+      "Becoming a different material"
     ],
-    "correct": 2,
-    "explanation": "Methods provide context for interpreting evidence and fairness.",
+    "correct": 1,
+    "explanation": "Back-and-forth movement describes vibration accurately.",
     "structuredExplanation": {
-      "summary": "Methods provide context for interpreting evidence and fairness."
+      "summary": "Back-and-forth movement describes vibration accurately."
     },
-    "stage": "recognise",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
     "sequencePriority": 7,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
+    "qualitySchema": "skillr-reviewed-y2-science-v2"
   },
   {
     "id": "ac9s2i06-t-008",
     "curriculumCode": "AC9S2I06",
     "bank": "test",
-    "skill": "communicating science clearly",
+    "skill": "Communicating observations, findings and ideas",
     "printable": true,
     "type": "single",
-    "question": "What makes a science explanation suitable for another Year 2 student?",
-    "audioPrompt": "What makes a science explanation suitable for another Year 2 student?",
+    "question": "A class counted 2 short sounds and 5 long sounds. Which findings sentence is accurate?",
+    "audioPrompt": "A class counted 2 short sounds and 5 long sounds. Which findings sentence is accurate?",
     "visual": "",
     "answers": [
-      "Many difficult words with no explanation",
-      "Only a final answer with no evidence",
-      "Clear words, relevant evidence and enough detail to understand the idea"
+      "We counted more short sounds than long sounds",
+      "We counted equal numbers of both sounds",
+      "We counted more long sounds than short sounds"
     ],
     "correct": 2,
-    "explanation": "Good communication is accurate, clear and focused on the evidence.",
+    "explanation": "Five is greater than two, so the reported comparison must favour long sounds.",
     "structuredExplanation": {
-      "summary": "Good communication is accurate, clear and focused on the evidence."
+      "summary": "Five is greater than two, so the reported comparison must favour long sounds."
     },
-    "stage": "recognise",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
     "sequencePriority": 8,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
+    "qualitySchema": "skillr-reviewed-y2-science-v2"
   },
   {
     "id": "ac9s2i06-t-009",
     "curriculumCode": "AC9S2I06",
     "bank": "test",
-    "skill": "communicating science clearly",
+    "skill": "Communicating observations, findings and ideas",
     "printable": true,
     "type": "single",
-    "question": "A graph shows three bar heights but the categories are missing. What is the main problem?",
-    "audioPrompt": "A graph shows three bar heights but the categories are missing. What is the main problem?",
+    "question": "A report for younger pupils uses 'informal units'. Which explanation would help?",
+    "audioPrompt": "A report for younger pupils uses 'informal units'. Which explanation would help?",
     "visual": "",
     "answers": [
-      "The reader cannot tell what each bar represents",
-      "All bars must be equal",
-      "Graphs should never use numbers"
+      "We measured with equal blocks instead of a ruler",
+      "We wrote numbers without measuring anything",
+      "We chose a different block size each time"
     ],
     "correct": 0,
-    "explanation": "Category labels are needed to interpret the data.",
+    "explanation": "The explanation connects the term to a clear measuring method using consistent everyday units.",
     "structuredExplanation": {
-      "summary": "Category labels are needed to interpret the data."
+      "summary": "The explanation connects the term to a clear measuring method using consistent everyday units."
     },
-    "stage": "recognise",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
     "sequencePriority": 9,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
+    "qualitySchema": "skillr-reviewed-y2-science-v2"
   },
   {
     "id": "ac9s2i06-t-010",
     "curriculumCode": "AC9S2I06",
     "bank": "test",
-    "skill": "communicating science clearly",
+    "skill": "Communicating observations, findings and ideas",
     "printable": true,
     "type": "single",
-    "question": "Children predicted 10 bird visits but counted 7. Which sentence tells the difference clearly?",
-    "audioPrompt": "Children predicted 10 bird visits but counted 7. Which sentence tells the difference clearly?",
+    "question": "A photo shows a shadow at 10 am. Which caption best identifies the observation?",
+    "audioPrompt": "A photo shows a shadow at 10 am. Which caption best identifies the observation?",
     "visual": "",
     "answers": [
-      "We counted 10 because we wanted 10",
-      "We counted 3 fewer visits than we predicted",
-      "We will leave out the count"
+      "A picture that we like",
+      "The post's shadow at 10 am on Tuesday",
+      "A shadow at every time of day"
     ],
     "correct": 1,
-    "explanation": "Seven is three fewer than ten, so the sentence compares the prediction and result.",
+    "explanation": "A specific object and observation time make the photo useful evidence.",
     "structuredExplanation": {
-      "summary": "Seven is three fewer than ten, so the sentence compares the prediction and result."
+      "summary": "A specific object and observation time make the photo useful evidence."
     },
-    "stage": "recognise",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
     "sequencePriority": 10,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
+    "qualitySchema": "skillr-reviewed-y2-science-v2"
   },
   {
     "id": "ac9s2i06-t-011",
     "curriculumCode": "AC9S2I06",
     "bank": "test",
-    "skill": "communicating science clearly",
+    "skill": "Communicating observations, findings and ideas",
     "printable": true,
     "type": "single",
-    "question": "Which heading best fits a section describing what students noticed during a test?",
-    "audioPrompt": "Which heading best fits a section describing what students noticed during a test?",
+    "question": "A group did not see the Moon because clouds covered its view. Which report is accurate?",
+    "audioPrompt": "A group did not see the Moon because clouds covered its view. Which report is accurate?",
     "visual": "",
     "answers": [
-      "Observations and results",
-      "Favourite things",
-      "Secret answers"
+      "The Moon disappeared from space",
+      "The Moon was definitely round that night",
+      "Clouds blocked our view, so we could not observe the Moon"
     ],
-    "correct": 0,
-    "explanation": "A heading should match the type of information being communicated.",
+    "correct": 2,
+    "explanation": "The report should explain the observation limit without inventing a Moon shape or disappearance.",
     "structuredExplanation": {
-      "summary": "A heading should match the type of information being communicated."
+      "summary": "The report should explain the observation limit without inventing a Moon shape or disappearance."
     },
-    "stage": "recognise",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
     "sequencePriority": 11,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
+    "qualitySchema": "skillr-reviewed-y2-science-v2"
   },
   {
     "id": "ac9s2i06-t-012",
     "curriculumCode": "AC9S2I06",
     "bank": "test",
-    "skill": "communicating science clearly",
+    "skill": "Communicating observations, findings and ideas",
     "printable": true,
     "type": "single",
-    "question": "A student uses a labelled sequence of three pictures to show a material being bent. Why is this useful?",
-    "audioPrompt": "A student uses a labelled sequence of three pictures to show a material being bent. Why is this useful?",
+    "question": "A child reports that a louder bell must have a higher pitch, but only loudness was compared. Which edit improves accuracy?",
+    "audioPrompt": "A child reports that a louder bell must have a higher pitch, but only loudness was compared. Which edit improves accuracy?",
     "visual": "",
     "answers": [
-      "It removes the need for captions forever",
-      "It shows the change in order over time",
-      "It proves the material became a new substance"
+      "Say the bell sounded louder and remove the unsupported pitch claim",
+      "Replace louder with higher because they mean the same",
+      "Say both bells had equal pitch without checking"
     ],
-    "correct": 1,
-    "explanation": "Ordered visuals can communicate a process or change clearly.",
+    "correct": 0,
+    "explanation": "A communication should distinguish what was observed from what was not measured or compared.",
     "structuredExplanation": {
-      "summary": "Ordered visuals can communicate a process or change clearly."
+      "summary": "A communication should distinguish what was observed from what was not measured or compared."
     },
-    "stage": "recognise",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
     "sequencePriority": 12,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
+    "qualitySchema": "skillr-reviewed-y2-science-v2"
   },
   {
     "id": "ac9s2i06-t-013",
     "curriculumCode": "AC9S2I06",
     "bank": "test",
-    "skill": "communicating science clearly",
+    "skill": "Communicating observations, findings and ideas",
     "printable": true,
     "type": "single",
-    "question": "Why should students avoid copying a conclusion from another group when their results differ?",
-    "audioPrompt": "Why should students avoid copying a conclusion from another group when their results differ?",
+    "question": "A science display shows a table but never names its objects. What would most help readers understand the results?",
+    "audioPrompt": "A science display shows a table but never names its objects. What would most help readers understand the results?",
     "visual": "",
     "answers": [
-      "Their conclusion should reflect their own recorded evidence",
-      "Different evidence is not allowed",
-      "Copying makes data more accurate"
+      "More colours without labels",
+      "Labels identifying each tested object",
+      "Larger spaces with the same missing names"
     ],
-    "correct": 0,
-    "explanation": "Science communication should match the evidence actually collected.",
+    "correct": 1,
+    "explanation": "Readers need to know which result belongs to which object.",
     "structuredExplanation": {
-      "summary": "Science communication should match the evidence actually collected."
+      "summary": "Readers need to know which result belongs to which object."
     },
-    "stage": "recognise",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
     "sequencePriority": 13,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
+    "qualitySchema": "skillr-reviewed-y2-science-v2"
   },
   {
     "id": "ac9s2i06-t-014",
     "curriculumCode": "AC9S2I06",
     "bank": "test",
-    "skill": "communicating science clearly",
+    "skill": "Communicating observations, findings and ideas",
     "printable": true,
     "type": "single",
-    "question": "Which summary is most concise and complete?",
-    "audioPrompt": "Which summary is most concise and complete?",
+    "question": "A group wants to share both how a sound maker moved and what it sounded like. Which format can communicate both directly?",
+    "audioPrompt": "A group wants to share both how a sound maker moved and what it sounded like. Which format can communicate both directly?",
     "visual": "",
     "answers": [
-      "The ball bounced highest on concrete, reaching 42 cm",
-      "42",
-      "The ball did something interesting and we liked it"
+      "An unlabelled still photo alone",
+      "A list of object colours alone",
+      "A short labelled video with sound"
     ],
-    "correct": 0,
-    "explanation": "The sentence states the key result and measurement without irrelevant detail.",
+    "correct": 2,
+    "explanation": "A video with audio can show movement and sound, while a clear label identifies the demonstration.",
     "structuredExplanation": {
-      "summary": "The sentence states the key result and measurement without irrelevant detail."
+      "summary": "A video with audio can show movement and sound, while a clear label identifies the demonstration."
     },
-    "stage": "recognise",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
     "sequencePriority": 14,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
+    "qualitySchema": "skillr-reviewed-y2-science-v2"
   },
   {
     "id": "ac9s2i06-t-015",
     "curriculumCode": "AC9S2I06",
     "bank": "test",
-    "skill": "communicating science clearly",
+    "skill": "Communicating observations, findings and ideas",
     "printable": true,
-    "type": "single",
-    "question": "A reader cannot tell whether a sentence is a prediction or a result. What wording helps?",
-    "audioPrompt": "A reader cannot tell whether a sentence is a prediction or a result. What wording helps?",
+    "type": "self-check",
+    "question": "Write or dictate a short report using these notes: prediction—both papers will tear; result—thin paper tore, thick paper did not. Clearly separate the prediction and the finding.",
+    "audioPrompt": "Write or dictate a short report using these notes: prediction—both papers will tear; result—thin paper tore, thick paper did not. Clearly separate the prediction and the finding.",
     "visual": "",
-    "answers": [
-      "Remove all time words",
-      "Use the same vague sentence for both",
-      "Use “We predicted…” for the prediction and “We observed…” for the result"
-    ],
-    "correct": 2,
-    "explanation": "Clear signal words distinguish what was expected from what occurred.",
+    "answers": [],
+    "correct": "We predicted both papers would tear. In the test, the thin paper tore but the thick paper did not.",
+    "explanation": "Adult check: require the original prediction and both actual results, with clear separation. Accept equivalent wording and dictation; do not grade spelling as science understanding.",
     "structuredExplanation": {
-      "summary": "Clear signal words distinguish what was expected from what occurred."
+      "summary": "Adult check: require the original prediction and both actual results, with clear separation. Accept equivalent wording and dictation; do not grade spelling as science understanding."
     },
-    "stage": "recognise",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
     "sequencePriority": 15,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
+    "qualitySchema": "skillr-reviewed-y2-science-v2",
+    "gradingMode": "adult-review",
+    "modelAnswer": "We predicted both papers would tear. In the test, the thin paper tore but the thick paper did not.",
+    "acceptanceNote": "Adult check: require the original prediction and both actual results, with clear separation. Accept equivalent wording and dictation; do not grade spelling as science understanding."
   },
   {
     "id": "ac9s2i06-t-016",
     "curriculumCode": "AC9S2I06",
     "bank": "test",
-    "skill": "communicating science clearly",
+    "skill": "Communicating observations, findings and ideas",
     "printable": true,
-    "type": "single",
-    "question": "A class shares a table, a labelled drawing and a short conclusion. How do these help the reader?",
-    "audioPrompt": "A class shares a table, a labelled drawing and a short conclusion. How do these help the reader?",
+    "type": "self-check",
+    "question": "Create a labelled drawing and one sentence to share this observation with another class: the same post's shadow measured 6 blocks in the morning and 2 blocks at noon.",
+    "audioPrompt": "Create a labelled drawing and one sentence to share this observation with another class: the same post's shadow measured 6 blocks in the morning and 2 blocks at noon.",
     "visual": "",
-    "answers": [
-      "They guarantee the prediction was right",
-      "They show the evidence and explain the finding",
-      "They make all future tests unnecessary"
-    ],
-    "correct": 1,
-    "explanation": "Different forms can work together to communicate the observations and finding.",
+    "answers": [],
+    "correct": "Labelled morning and noon shadows of different lengths, with: The recorded shadow was shorter at noon, measuring 2 blocks instead of 6.",
+    "explanation": "Adult check: require morning/noon labels, a longer morning representation, correct recorded lengths and a sentence communicating the comparison. Accept spoken captions or an adult scribe. Direction is not specified and must not be assessed.",
     "structuredExplanation": {
-      "summary": "Different forms can work together to communicate the observations and finding."
+      "summary": "Adult check: require morning/noon labels, a longer morning representation, correct recorded lengths and a sentence communicating the comparison. Accept spoken captions or an adult scribe. Direction is not specified and must not be assessed."
     },
-    "stage": "recognise",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
     "sequencePriority": 16,
-    "qualitySchema": "skillr-reviewed-y2-science-v1"
+    "qualitySchema": "skillr-reviewed-y2-science-v2",
+    "gradingMode": "adult-review",
+    "modelAnswer": "Labelled morning and noon shadows of different lengths, with: The recorded shadow was shorter at noon, measuring 2 blocks instead of 6.",
+    "acceptanceNote": "Adult check: require morning/noon labels, a longer morning representation, correct recorded lengths and a sentence communicating the comparison. Accept spoken captions or an adult scribe. Direction is not specified and must not be assessed."
   }
 ];
+window.skillrExamQuestions = window.skillrTestQuestions;
+window.quizQuestions = window.skillrTestQuestions;

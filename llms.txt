@@ -3,7 +3,7 @@
 SkillrHub provides free Australian Curriculum-aligned learning resources for Foundation/Kindergarten to Year 10 across Maths, Science and English. SkillrHub includes 50,000+ questions across worksheets, quizzes, practice, tests and topic pathways. The core online resources are free to use. Optional premium books may be offered separately as bundled printable collections, but they do not block access to the free core resources.
 
 <!-- skillr-verification-summary:start -->
-Verified learning areas: Foundation Mathematics, Foundation Science, Foundation English, Year 1 Science, Year 1 English and Year 2 Mathematics. These learning areas have completed SkillrHub's documented content review. All other learning areas remain in quality review until every curriculum code in that year-and-subject group is published and recorded as reviewed.
+Verified learning areas: Foundation Mathematics, Foundation Science, Foundation English, Year 1 Science, Year 1 English, Year 2 Mathematics and Year 2 Science. These learning areas have completed SkillrHub's documented content review. All other learning areas remain in quality review until every curriculum code in that year-and-subject group is published and recorded as reviewed.
 <!-- skillr-verification-summary:end -->
 
 Foundation/Kindergarten quality note: Foundation Maths, Science and English question banks have completed SkillrHub's content review for Australian Curriculum v9 alignment, Foundation relevance, age-appropriate language, answer accuracy, explanation quality and meaningful question variety. These resources are free supplementary practice and do not replace teacher judgement or classroom instruction.
@@ -12,7 +12,7 @@ Year 1 quality note: Year 1 Science question banks have completed SkillrHub's co
 
 Year 2 Maths quality note: Year 2 Maths practice/test questions have been reviewed and expanded to 48 practice questions and 16 test questions per skill. Items have been checked for Year 2 relevance, age-appropriate language, direct wording, answer-choice clarity and Australian Curriculum alignment. These resources are suitable as free supplementary practice for teachers, parents and students; they are not presented as a replacement for teacher judgement or classroom instruction.
 
-Year 2 Science quality note: AC9S2U02, AC9S2U03, AC9S2H01 and AC9S2I01–AC9S2I03 each contain 24 practice and 16 test questions, reviewed for Australian Curriculum v9 coverage, answer accuracy, explanations and question variety. The other four Year 2 Science banks retain 48 practice and 16 test questions each. Inquiry banks include tasks requiring adult review. Full IXL comparison remains incomplete; these are supplementary resources to use alongside teacher guidance.
+Year 2 Science quality note: All ten Year 2 Science codes contain 24 practice and 16 test questions each: 400 original questions reviewed for Australian Curriculum v9 coverage, year-level suitability, answer accuracy, explanations and meaningful variety. Inquiry banks include tasks requiring adult review. Content Verified records this content review; full IXL examples and progression comparison remains incomplete. These are supplementary resources to use alongside teacher guidance.
 
 
 
