@@ -1,14 +1,14 @@
 "use strict";
 window.skillrPracticeQuestions = [
   {
-    "id": "ac9e1le02-p-001",
+    "id": "ac9e1le02-er3-p-001",
     "curriculumCode": "AC9E1LE02",
     "bank": "practice",
-    "skill": "discuss literary texts and share responses by making connections with students’ own experiences",
+    "skill": "connecting literary responses with personal experiences",
     "printable": true,
     "type": "single",
-    "question": "Read: “Mia felt shy on the first day.” When might you feel like Mia?",
-    "audioPrompt": "Read: “Mia felt shy on the first day.” When might you feel like Mia?",
+    "question": "A story child feels nervous on the first day at a club. Eli remembers feeling nervous at swimming lessons. What connects them?",
+    "audioPrompt": "A story child feels nervous on the first day at a club. Eli remembers feeling nervous at swimming lessons. What connects them?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -16,269 +16,61 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "when counting",
-      "while asleep",
-      "on a first day"
+      "Both faced something new with nervous feelings.",
+      "Both attended the same club.",
+      "Both had the same teacher."
     ],
-    "correct": 2,
-    "explanation": "on a first day is the best answer.",
-    "structuredExplanation": {
-      "summary": "on a first day is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
     "difficulty": 1,
     "difficultyTier": "recognise",
-    "sequencePriority": 1
-  },
-  {
-    "id": "ac9e1le02-p-002",
-    "curriculumCode": "AC9E1LE02",
-    "bank": "practice",
-    "skill": "discuss literary texts and share responses by making connections with students’ own experiences",
-    "printable": true,
-    "type": "single",
-    "question": "Read: “Ben lost a favourite bag.” How might Ben feel?",
-    "audioPrompt": "Read: “Ben lost a favourite bag.” How might Ben feel?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "proud",
-      "sad",
-      "sleepy"
-    ],
-    "correct": 1,
-    "explanation": "sad is the best answer.",
-    "structuredExplanation": {
-      "summary": "sad is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 2
-  },
-  {
-    "id": "ac9e1le02-p-003",
-    "curriculumCode": "AC9E1LE02",
-    "bank": "practice",
-    "skill": "discuss literary texts and share responses by making connections with students’ own experiences",
-    "printable": true,
-    "type": "single",
-    "question": "Read: “Sam helped a small hen.” What does this remind you of?",
-    "audioPrompt": "Read: “Sam helped a small hen.” What does this remind you of?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "writing a number",
-      "helping someone",
-      "eating lunch"
-    ],
-    "correct": 1,
-    "explanation": "helping someone is the best answer.",
-    "structuredExplanation": {
-      "summary": "helping someone is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 3
-  },
-  {
-    "id": "ac9e1le02-p-004",
-    "curriculumCode": "AC9E1LE02",
-    "bank": "practice",
-    "skill": "discuss literary texts and share responses by making connections with students’ own experiences",
-    "printable": true,
-    "type": "single",
-    "question": "Read: “The children played at the beach.” Which connection makes sense?",
-    "audioPrompt": "Read: “The children played at the beach.” Which connection makes sense?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "I am a beach.",
-      "I have played at a beach.",
-      "A beach is a letter."
-    ],
-    "correct": 1,
-    "explanation": "I have played at a beach. is the best answer.",
-    "structuredExplanation": {
-      "summary": "I have played at a beach. is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 4
-  },
-  {
-    "id": "ac9e1le02-p-005",
-    "curriculumCode": "AC9E1LE02",
-    "bank": "practice",
-    "skill": "discuss literary texts and share responses by making connections with students’ own experiences",
-    "printable": true,
-    "type": "single",
-    "question": "Read: “Ava was brave in the dark.” Have you ever needed to be brave?",
-    "audioPrompt": "Read: “Ava was brave in the dark.” Have you ever needed to be brave?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Yes, when I counted.",
-      "Yes, when I felt afraid.",
-      "No, because ball."
-    ],
-    "correct": 1,
-    "explanation": "Yes, when I felt afraid. is the best answer.",
-    "structuredExplanation": {
-      "summary": "Yes, when I felt afraid. is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 5
-  },
-  {
-    "id": "ac9e1le02-p-006",
-    "curriculumCode": "AC9E1LE02",
-    "bank": "practice",
-    "skill": "discuss literary texts and share responses by making connections with students’ own experiences",
-    "printable": true,
-    "type": "single",
-    "question": "Read: “Leo shared the kite.” What lesson connects to your life?",
-    "audioPrompt": "Read: “Leo shared the kite.” What lesson connects to your life?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Books have pages.",
-      "Blue is a colour.",
-      "Sharing is kind."
-    ],
-    "correct": 2,
-    "explanation": "Sharing is kind. is the best answer.",
-    "structuredExplanation": {
-      "summary": "Sharing is kind. is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 6
-  },
-  {
-    "id": "ac9e1le02-p-007",
-    "curriculumCode": "AC9E1LE02",
-    "bank": "practice",
-    "skill": "discuss literary texts and share responses by making connections with students’ own experiences",
-    "printable": true,
-    "type": "single",
-    "question": "Read: “Zoe cheered for a friend.” Which experience is similar?",
-    "audioPrompt": "Read: “Zoe cheered for a friend.” Which experience is similar?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "closing a door",
-      "clapping for a friend",
-      "washing a cup"
-    ],
-    "correct": 1,
-    "explanation": "clapping for a friend is the best answer.",
-    "structuredExplanation": {
-      "summary": "clapping for a friend is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 7
-  },
-  {
-    "id": "ac9e1le02-p-008",
-    "curriculumCode": "AC9E1LE02",
-    "bank": "practice",
-    "skill": "discuss literary texts and share responses by making connections with students’ own experiences",
-    "printable": true,
-    "type": "single",
-    "question": "Read: “Max tried again after a mistake.” What could you do?",
-    "audioPrompt": "Read: “Max tried again after a mistake.” What could you do?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "hide the work",
-      "try again",
-      "stop learning"
-    ],
-    "correct": 1,
-    "explanation": "try again is the best answer.",
-    "structuredExplanation": {
-      "summary": "try again is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 8
-  },
-  {
-    "id": "ac9e1le02-p-009",
-    "curriculumCode": "AC9E1LE02",
-    "bank": "practice",
-    "skill": "discuss literary texts and share responses by making connections with students’ own experiences",
-    "printable": true,
-    "type": "single",
-    "question": "Read: “Ben felt shy on the first day.” When might you feel like Ben?",
-    "audioPrompt": "Read: “Ben felt shy on the first day.” When might you feel like Ben?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "on a first day",
-      "while asleep",
-      "when counting"
-    ],
+    "sequencePriority": 1,
     "correct": 0,
-    "explanation": "on a first day is the best answer.",
+    "explanation": "The connection is the similar experience and feeling, not an identical place.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "on a first day is the best answer."
+      "summary": "The connection is the similar experience and feeling, not an identical place.",
+      "hint": "Read the whole example and check what the question asks."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1le02-er3-p-002",
+    "curriculumCode": "AC9E1LE02",
+    "bank": "practice",
+    "skill": "connecting literary responses with personal experiences",
+    "printable": true,
+    "type": "single",
+    "question": "A story dog loses a favourite ball. May says, 'I felt upset when I lost my drawing.' What is her connection?",
+    "audioPrompt": "A story dog loses a favourite ball. May says, 'I felt upset when I lost my drawing.' What is her connection?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Making a drawing of a dog.",
+      "Losing something valued.",
+      "Owning the same kind of ball."
+    ],
     "difficulty": 1,
     "difficultyTier": "recognise",
-    "sequencePriority": 9
+    "sequencePriority": 2,
+    "correct": 1,
+    "explanation": "The objects differ, but both experiences involve losing something important.\nHint: Read the whole example and check what the question asks.",
+    "structuredExplanation": {
+      "summary": "The objects differ, but both experiences involve losing something important.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1le02-p-010",
+    "id": "ac9e1le02-er3-p-003",
     "curriculumCode": "AC9E1LE02",
     "bank": "practice",
-    "skill": "discuss literary texts and share responses by making connections with students’ own experiences",
+    "skill": "connecting literary responses with personal experiences",
     "printable": true,
     "type": "single",
-    "question": "Read: “Sam lost a favourite ball.” How might Sam feel?",
-    "audioPrompt": "Read: “Sam lost a favourite ball.” How might Sam feel?",
+    "question": "A poem describes enjoying rain. Sam prefers sunny days. Which response links his experience honestly?",
+    "audioPrompt": "A poem describes enjoying rain. Sam prefers sunny days. Which response links his experience honestly?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -286,29 +78,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "sleepy",
-      "proud",
-      "sad"
+      "I must say I love rain because the poem does.",
+      "I cannot respond because I prefer different weather.",
+      "The poem enjoys rain, but I prefer sun because I can ride outside."
     ],
-    "correct": 2,
-    "explanation": "sad is the best answer.",
-    "structuredExplanation": {
-      "summary": "sad is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
     "difficulty": 1,
     "difficultyTier": "recognise",
-    "sequencePriority": 10
+    "sequencePriority": 3,
+    "correct": 2,
+    "explanation": "A different experience can still form a meaningful response to a text.\nHint: Read the whole example and check what the question asks.",
+    "structuredExplanation": {
+      "summary": "A different experience can still form a meaningful response to a text.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1le02-p-011",
+    "id": "ac9e1le02-er3-p-004",
     "curriculumCode": "AC9E1LE02",
     "bank": "practice",
-    "skill": "discuss literary texts and share responses by making connections with students’ own experiences",
+    "skill": "connecting literary responses with personal experiences",
     "printable": true,
     "type": "single",
-    "question": "Read: “Kim helped a small frog.” What does this remind you of?",
-    "audioPrompt": "Read: “Kim helped a small frog.” What does this remind you of?",
+    "question": "A character helps a new neighbour carry bags. Which memory is most closely connected?",
+    "audioPrompt": "A character helps a new neighbour carry bags. Which memory is most closely connected?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -316,29 +109,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "eating lunch",
-      "helping someone",
-      "writing a number"
+      "Helping someone with a difficult job.",
+      "Counting the bags in a shop window.",
+      "Reading the word neighbour on a sign."
     ],
-    "correct": 1,
-    "explanation": "helping someone is the best answer.",
-    "structuredExplanation": {
-      "summary": "helping someone is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
     "difficulty": 1,
     "difficultyTier": "recognise",
-    "sequencePriority": 11
+    "sequencePriority": 4,
+    "correct": 0,
+    "explanation": "The shared act of helping is a stronger connection than a surface word match.\nHint: Read the whole example and check what the question asks.",
+    "structuredExplanation": {
+      "summary": "The shared act of helping is a stronger connection than a surface word match.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1le02-p-012",
+    "id": "ac9e1le02-er3-p-005",
     "curriculumCode": "AC9E1LE02",
     "bank": "practice",
-    "skill": "discuss literary texts and share responses by making connections with students’ own experiences",
+    "skill": "connecting literary responses with personal experiences",
     "printable": true,
     "type": "single",
-    "question": "Read: “The children played at the park.” Which connection makes sense?",
-    "audioPrompt": "Read: “The children played at the park.” Which connection makes sense?",
+    "question": "A story child waits a long time for a turn. Which response connects with that event?",
+    "audioPrompt": "A story child waits a long time for a turn. Which response connects with that event?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -346,29 +140,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "I have played at a park.",
-      "I am a park.",
-      "A park is a letter."
+      "The word turn has four letters.",
+      "I remember waiting for the swing and feeling impatient.",
+      "My swing is painted green."
     ],
-    "correct": 0,
-    "explanation": "I have played at a park. is the best answer.",
-    "structuredExplanation": {
-      "summary": "I have played at a park. is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
     "difficulty": 1,
     "difficultyTier": "recognise",
-    "sequencePriority": 12
+    "sequencePriority": 5,
+    "correct": 1,
+    "explanation": "The first response connects an experience and feeling to the event.\nHint: Read the whole example and check what the question asks.",
+    "structuredExplanation": {
+      "summary": "The first response connects an experience and feeling to the event.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1le02-p-013",
+    "id": "ac9e1le02-er3-p-006",
     "curriculumCode": "AC9E1LE02",
     "bank": "practice",
-    "skill": "discuss literary texts and share responses by making connections with students’ own experiences",
+    "skill": "connecting literary responses with personal experiences",
     "printable": true,
     "type": "single",
-    "question": "Read: “Leo was brave in the dark.” Have you ever needed to be brave?",
-    "audioPrompt": "Read: “Leo was brave in the dark.” Have you ever needed to be brave?",
+    "question": "A character is pleased after finishing a hard puzzle. Noor remembers learning to tie her shoes. What is similar?",
+    "audioPrompt": "A character is pleased after finishing a hard puzzle. Noor remembers learning to tie her shoes. What is similar?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -376,29 +171,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "No, because map.",
-      "Yes, when I counted.",
-      "Yes, when I felt afraid."
+      "Doing exactly the same task.",
+      "Using the same puzzle pieces.",
+      "Feeling proud after learning something difficult."
     ],
-    "correct": 2,
-    "explanation": "Yes, when I felt afraid. is the best answer.",
-    "structuredExplanation": {
-      "summary": "Yes, when I felt afraid. is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
     "difficulty": 1,
     "difficultyTier": "recognise",
-    "sequencePriority": 13
+    "sequencePriority": 6,
+    "correct": 2,
+    "explanation": "Different tasks can lead to the same sense of achievement.\nHint: Read the whole example and check what the question asks.",
+    "structuredExplanation": {
+      "summary": "Different tasks can lead to the same sense of achievement.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1le02-p-014",
+    "id": "ac9e1le02-er3-p-007",
     "curriculumCode": "AC9E1LE02",
     "bank": "practice",
-    "skill": "discuss literary texts and share responses by making connections with students’ own experiences",
+    "skill": "connecting literary responses with personal experiences",
     "printable": true,
     "type": "single",
-    "question": "Read: “Zoe shared the hat.” What lesson connects to your life?",
-    "audioPrompt": "Read: “Zoe shared the hat.” What lesson connects to your life?",
+    "question": "A story takes place at the beach. A reader has never visited a beach. Which response can still connect?",
+    "audioPrompt": "A story takes place at the beach. A reader has never visited a beach. Which response can still connect?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -406,29 +202,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Blue is a colour.",
-      "Sharing is kind.",
-      "Books have pages."
+      "I have played with sand at school, so I can imagine part of it.",
+      "I must invent a beach holiday and say it happened.",
+      "Only people who visited a beach can understand any part."
     ],
-    "correct": 1,
-    "explanation": "Sharing is kind. is the best answer.",
-    "structuredExplanation": {
-      "summary": "Sharing is kind. is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
     "difficulty": 1,
     "difficultyTier": "recognise",
-    "sequencePriority": 14
+    "sequencePriority": 7,
+    "correct": 0,
+    "explanation": "A related experience can help without pretending to have an identical one.\nHint: Read the whole example and check what the question asks.",
+    "structuredExplanation": {
+      "summary": "A related experience can help without pretending to have an identical one.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1le02-p-015",
+    "id": "ac9e1le02-er3-p-008",
     "curriculumCode": "AC9E1LE02",
     "bank": "practice",
-    "skill": "discuss literary texts and share responses by making connections with students’ own experiences",
+    "skill": "connecting literary responses with personal experiences",
     "printable": true,
     "type": "single",
-    "question": "Read: “Max cheered for a friend.” Which experience is similar?",
-    "audioPrompt": "Read: “Max cheered for a friend.” Which experience is similar?",
+    "question": "A character misses a friend who moves away. Which memory best helps a reader connect?",
+    "audioPrompt": "A character misses a friend who moves away. Which memory best helps a reader connect?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -436,29 +233,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "clapping for a friend",
-      "closing a door",
-      "washing a cup"
+      "Seeing a moving van without caring who used it.",
+      "Missing a cousin after a visit ends.",
+      "Choosing a new pencil colour."
     ],
-    "correct": 0,
-    "explanation": "clapping for a friend is the best answer.",
-    "structuredExplanation": {
-      "summary": "clapping for a friend is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
     "difficulty": 1,
     "difficultyTier": "recognise",
-    "sequencePriority": 15
+    "sequencePriority": 8,
+    "correct": 1,
+    "explanation": "Missing someone is the shared experience that helps explain the feeling.\nHint: Read the whole example and check what the question asks.",
+    "structuredExplanation": {
+      "summary": "Missing someone is the shared experience that helps explain the feeling.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1le02-p-016",
+    "id": "ac9e1le02-er3-p-009",
     "curriculumCode": "AC9E1LE02",
     "bank": "practice",
-    "skill": "discuss literary texts and share responses by making connections with students’ own experiences",
+    "skill": "connecting literary responses with personal experiences",
     "printable": true,
     "type": "single",
-    "question": "Read: “Mia tried again after a mistake.” What could you do?",
-    "audioPrompt": "Read: “Mia tried again after a mistake.” What could you do?",
+    "question": "'Little Bear hid before singing, then joined the song.' Which response connects a change of feeling?",
+    "audioPrompt": "'Little Bear hid before singing, then joined the song.' Which response connects a change of feeling?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -466,59 +264,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "hide the work",
-      "stop learning",
-      "try again"
+      "I have seen a picture of a bear.",
+      "Songs sometimes have words.",
+      "I was shy at first in class, then joined when I felt ready."
     ],
-    "correct": 2,
-    "explanation": "try again is the best answer.",
-    "structuredExplanation": {
-      "summary": "try again is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 16
-  },
-  {
-    "id": "ac9e1le02-p-017",
-    "curriculumCode": "AC9E1LE02",
-    "bank": "practice",
-    "skill": "discuss literary texts and share responses by making connections with students’ own experiences",
-    "printable": true,
-    "type": "single",
-    "question": "Read: “Sam felt shy on the first day.” When might you feel like Sam?",
-    "audioPrompt": "Read: “Sam felt shy on the first day.” When might you feel like Sam?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "while asleep",
-      "when counting",
-      "on a first day"
-    ],
-    "correct": 2,
-    "explanation": "on a first day is the best answer.",
-    "structuredExplanation": {
-      "summary": "on a first day is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
     "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 17
+    "difficultyTier": "apply",
+    "sequencePriority": 9,
+    "correct": 2,
+    "explanation": "The response connects the movement from hesitation to participation.\nHint: Read the whole example and check what the question asks.",
+    "structuredExplanation": {
+      "summary": "The response connects the movement from hesitation to participation.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1le02-p-018",
+    "id": "ac9e1le02-er3-p-010",
     "curriculumCode": "AC9E1LE02",
     "bank": "practice",
-    "skill": "discuss literary texts and share responses by making connections with students’ own experiences",
+    "skill": "connecting literary responses with personal experiences",
     "printable": true,
     "type": "single",
-    "question": "Read: “Kim lost a favourite map.” How might Kim feel?",
-    "audioPrompt": "Read: “Kim lost a favourite map.” How might Kim feel?",
+    "question": "A poem makes Jo think of walks with her grandad. Which detail would make her response clearer?",
+    "audioPrompt": "A poem makes Jo think of walks with her grandad. Which detail would make her response clearer?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -526,29 +295,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "sad",
-      "sleepy",
-      "proud"
+      "The poem's crunchy leaves remind me of our autumn walks.",
+      "The poem reminds me of something.",
+      "I know what a poem is."
     ],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 10,
     "correct": 0,
-    "explanation": "sad is the best answer.",
+    "explanation": "Naming both the text detail and the memory makes the link clear.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "sad is the best answer."
+      "summary": "Naming both the text detail and the memory makes the link clear.",
+      "hint": "Read the whole example and check what the question asks."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 18
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1le02-p-019",
+    "id": "ac9e1le02-er3-p-011",
     "curriculumCode": "AC9E1LE02",
     "bank": "practice",
-    "skill": "discuss literary texts and share responses by making connections with students’ own experiences",
+    "skill": "connecting literary responses with personal experiences",
     "printable": true,
     "type": "single",
-    "question": "Read: “Ava helped a small fish.” What does this remind you of?",
-    "audioPrompt": "Read: “Ava helped a small fish.” What does this remind you of?",
+    "question": "A child in a story enjoys busy parties. Finn prefers quiet gatherings. Which response makes a valid difference?",
+    "audioPrompt": "A child in a story enjoys busy parties. Finn prefers quiet gatherings. Which response makes a valid difference?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -556,29 +326,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "writing a number",
-      "helping someone",
-      "eating lunch"
+      "I must have the same preference to discuss the story.",
+      "The character likes a crowd; I enjoy fewer people because it is quieter.",
+      "The character's feeling must be wrong."
     ],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 11,
     "correct": 1,
-    "explanation": "helping someone is the best answer.",
+    "explanation": "Readers can explain differences without rejecting another response.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "helping someone is the best answer."
+      "summary": "Readers can explain differences without rejecting another response.",
+      "hint": "Read the whole example and check what the question asks."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 19
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1le02-p-020",
+    "id": "ac9e1le02-er3-p-012",
     "curriculumCode": "AC9E1LE02",
     "bank": "practice",
-    "skill": "discuss literary texts and share responses by making connections with students’ own experiences",
+    "skill": "connecting literary responses with personal experiences",
     "printable": true,
     "type": "single",
-    "question": "Read: “The children played at the pond.” Which connection makes sense?",
-    "audioPrompt": "Read: “The children played at the pond.” Which connection makes sense?",
+    "question": "A character shares a warm coat with a sibling. Which connection goes beyond matching the word coat?",
+    "audioPrompt": "A character shares a warm coat with a sibling. Which connection goes beyond matching the word coat?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -586,29 +357,61 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "I have played at a pond.",
-      "A pond is a letter.",
-      "I am a pond."
+      "I saw the word coat on a label.",
+      "My coat has four buttons.",
+      "I shared my lunch when my friend forgot theirs."
     ],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 12,
+    "correct": 2,
+    "explanation": "Sharing something needed is the meaningful link across different objects.\nHint: Read the whole example and check what the question asks.",
+    "structuredExplanation": {
+      "summary": "Sharing something needed is the meaningful link across different objects.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1le02-er3-p-013",
+    "curriculumCode": "AC9E1LE02",
+    "bank": "practice",
+    "skill": "connecting literary responses with personal experiences",
+    "printable": true,
+    "type": "single",
+    "question": "A story child feels worried before a race. A reader says, 'I know that feeling.' Which addition explains the connection?",
+    "audioPrompt": "A story child feels worried before a race. A reader says, 'I know that feeling.' Which addition explains the connection?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "I felt worried before my first class talk.",
+      "The race is a noun.",
+      "Stories can have titles."
+    ],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 13,
     "correct": 0,
-    "explanation": "I have played at a pond. is the best answer.",
+    "explanation": "The added personal example identifies a similar feeling in another situation.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "I have played at a pond. is the best answer."
+      "summary": "The added personal example identifies a similar feeling in another situation.",
+      "hint": "Read the whole example and check what the question asks."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 20
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1le02-p-021",
+    "id": "ac9e1le02-er3-p-014",
     "curriculumCode": "AC9E1LE02",
     "bank": "practice",
-    "skill": "discuss literary texts and share responses by making connections with students’ own experiences",
+    "skill": "connecting literary responses with personal experiences",
     "printable": true,
     "type": "single",
-    "question": "Read: “Zoe was brave in the dark.” Have you ever needed to be brave?",
-    "audioPrompt": "Read: “Zoe was brave in the dark.” Have you ever needed to be brave?",
+    "question": "A reader laughs at a clumsy dragon; another worries it will get hurt. What can they discuss?",
+    "audioPrompt": "A reader laughs at a clumsy dragon; another worries it will get hurt. What can they discuss?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -616,29 +419,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "No, because cup.",
-      "Yes, when I felt afraid.",
-      "Yes, when I counted."
+      "Why every reader must laugh.",
+      "Which story details led to their different responses.",
+      "Which reader is allowed to have feelings."
     ],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 14,
     "correct": 1,
-    "explanation": "Yes, when I felt afraid. is the best answer.",
+    "explanation": "Different reactions can be discussed using evidence from the text.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "Yes, when I felt afraid. is the best answer."
+      "summary": "Different reactions can be discussed using evidence from the text.",
+      "hint": "Read the whole example and check what the question asks."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 21
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1le02-p-022",
+    "id": "ac9e1le02-er3-p-015",
     "curriculumCode": "AC9E1LE02",
     "bank": "practice",
-    "skill": "discuss literary texts and share responses by making connections with students’ own experiences",
+    "skill": "connecting literary responses with personal experiences",
     "printable": true,
     "type": "single",
-    "question": "Read: “Max shared the book.” What lesson connects to your life?",
-    "audioPrompt": "Read: “Max shared the book.” What lesson connects to your life?",
+    "question": "A story character repairs a torn kite. Which memory could help connect with the character's effort?",
+    "audioPrompt": "A story character repairs a torn kite. Which memory could help connect with the character's effort?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -646,29 +450,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Blue is a colour.",
-      "Books have pages.",
-      "Sharing is kind."
+      "Watching a kite far away without knowing its owner.",
+      "Choosing a word that rhymes with kite.",
+      "Trying several times to fix a broken model."
     ],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 15,
     "correct": 2,
-    "explanation": "Sharing is kind. is the best answer.",
+    "explanation": "The shared effort to repair something gives a meaningful connection.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "Sharing is kind. is the best answer."
+      "summary": "The shared effort to repair something gives a meaningful connection.",
+      "hint": "Read the whole example and check what the question asks."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 22
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1le02-p-023",
+    "id": "ac9e1le02-er3-p-016",
     "curriculumCode": "AC9E1LE02",
     "bank": "practice",
-    "skill": "discuss literary texts and share responses by making connections with students’ own experiences",
+    "skill": "connecting literary responses with personal experiences",
     "printable": true,
     "type": "single",
-    "question": "Read: “Mia cheered for a friend.” Which experience is similar?",
-    "audioPrompt": "Read: “Mia cheered for a friend.” Which experience is similar?",
+    "question": "A child says a lonely character reminds them of being left out of a game. What does this connection help explain?",
+    "audioPrompt": "A child says a lonely character reminds them of being left out of a game. What does this connection help explain?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -676,179 +481,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "closing a door",
-      "clapping for a friend",
-      "washing a cup"
+      "Why the child understands the lonely feeling.",
+      "Where the character lives exactly.",
+      "What every reader has experienced."
     ],
-    "correct": 1,
-    "explanation": "clapping for a friend is the best answer.",
-    "structuredExplanation": {
-      "summary": "clapping for a friend is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
     "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 23
-  },
-  {
-    "id": "ac9e1le02-p-024",
-    "curriculumCode": "AC9E1LE02",
-    "bank": "practice",
-    "skill": "discuss literary texts and share responses by making connections with students’ own experiences",
-    "printable": true,
-    "type": "single",
-    "question": "Read: “Ben tried again after a mistake.” What could you do?",
-    "audioPrompt": "Read: “Ben tried again after a mistake.” What could you do?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "hide the work",
-      "try again",
-      "stop learning"
-    ],
-    "correct": 1,
-    "explanation": "try again is the best answer.",
-    "structuredExplanation": {
-      "summary": "try again is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 24
-  },
-  {
-    "id": "ac9e1le02-p-025",
-    "curriculumCode": "AC9E1LE02",
-    "bank": "practice",
-    "skill": "discuss literary texts and share responses by making connections with students’ own experiences",
-    "printable": true,
-    "type": "single",
-    "question": "Read: “Kim felt shy on the first day.” When might you feel like Kim?",
-    "audioPrompt": "Read: “Kim felt shy on the first day.” When might you feel like Kim?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "when counting",
-      "while asleep",
-      "on a first day"
-    ],
-    "correct": 2,
-    "explanation": "on a first day is the best answer.",
-    "structuredExplanation": {
-      "summary": "on a first day is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 25
-  },
-  {
-    "id": "ac9e1le02-p-026",
-    "curriculumCode": "AC9E1LE02",
-    "bank": "practice",
-    "skill": "discuss literary texts and share responses by making connections with students’ own experiences",
-    "printable": true,
-    "type": "single",
-    "question": "Read: “Ava lost a favourite cup.” How might Ava feel?",
-    "audioPrompt": "Read: “Ava lost a favourite cup.” How might Ava feel?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "proud",
-      "sad",
-      "sleepy"
-    ],
-    "correct": 1,
-    "explanation": "sad is the best answer.",
-    "structuredExplanation": {
-      "summary": "sad is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 26
-  },
-  {
-    "id": "ac9e1le02-p-027",
-    "curriculumCode": "AC9E1LE02",
-    "bank": "practice",
-    "skill": "discuss literary texts and share responses by making connections with students’ own experiences",
-    "printable": true,
-    "type": "single",
-    "question": "Read: “Leo helped a small cat.” What does this remind you of?",
-    "audioPrompt": "Read: “Leo helped a small cat.” What does this remind you of?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "eating lunch",
-      "writing a number",
-      "helping someone"
-    ],
-    "correct": 2,
-    "explanation": "helping someone is the best answer.",
-    "structuredExplanation": {
-      "summary": "helping someone is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 27
-  },
-  {
-    "id": "ac9e1le02-p-028",
-    "curriculumCode": "AC9E1LE02",
-    "bank": "practice",
-    "skill": "discuss literary texts and share responses by making connections with students’ own experiences",
-    "printable": true,
-    "type": "single",
-    "question": "Read: “The children played at the farm.” Which connection makes sense?",
-    "audioPrompt": "Read: “The children played at the farm.” Which connection makes sense?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "I have played at a farm.",
-      "A farm is a letter.",
-      "I am a farm."
-    ],
+    "difficultyTier": "apply",
+    "sequencePriority": 16,
     "correct": 0,
-    "explanation": "I have played at a farm. is the best answer.",
+    "explanation": "A personal memory can help interpret one feeling without proving facts about everyone.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "I have played at a farm. is the best answer."
+      "summary": "A personal memory can help interpret one feeling without proving facts about everyone.",
+      "hint": "Read the whole example and check what the question asks."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 28
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1le02-p-029",
+    "id": "ac9e1le02-er3-p-017",
     "curriculumCode": "AC9E1LE02",
     "bank": "practice",
-    "skill": "discuss literary texts and share responses by making connections with students’ own experiences",
+    "skill": "connecting literary responses with personal experiences",
     "printable": true,
     "type": "single",
-    "question": "Read: “Max was brave in the dark.” Have you ever needed to be brave?",
-    "audioPrompt": "Read: “Max was brave in the dark.” Have you ever needed to be brave?",
+    "question": "A story says a child is excited to move house. A reader felt sad when moving. Which response uses both text and experience?",
+    "audioPrompt": "A story says a child is excited to move house. A reader felt sad when moving. Which response uses both text and experience?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -856,59 +512,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "No, because kite.",
-      "Yes, when I counted.",
-      "Yes, when I felt afraid."
+      "The character must secretly feel exactly as I did.",
+      "The character feels excited, but I felt sad to leave friends.",
+      "Moving always makes everyone sad, so the story is wrong."
     ],
-    "correct": 2,
-    "explanation": "Yes, when I felt afraid. is the best answer.",
-    "structuredExplanation": {
-      "summary": "Yes, when I felt afraid. is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 29
-  },
-  {
-    "id": "ac9e1le02-p-030",
-    "curriculumCode": "AC9E1LE02",
-    "bank": "practice",
-    "skill": "discuss literary texts and share responses by making connections with students’ own experiences",
-    "printable": true,
-    "type": "single",
-    "question": "Read: “Mia shared the sock.” What lesson connects to your life?",
-    "audioPrompt": "Read: “Mia shared the sock.” What lesson connects to your life?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Blue is a colour.",
-      "Sharing is kind.",
-      "Books have pages."
-    ],
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 17,
     "correct": 1,
-    "explanation": "Sharing is kind. is the best answer.",
+    "explanation": "A reader can compare contrasting feelings without changing the text's evidence.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "Sharing is kind. is the best answer."
+      "summary": "A reader can compare contrasting feelings without changing the text's evidence.",
+      "hint": "Read the whole example and check what the question asks."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 30
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1le02-p-031",
+    "id": "ac9e1le02-er3-p-018",
     "curriculumCode": "AC9E1LE02",
     "bank": "practice",
-    "skill": "discuss literary texts and share responses by making connections with students’ own experiences",
+    "skill": "connecting literary responses with personal experiences",
     "printable": true,
     "type": "single",
-    "question": "Read: “Ben cheered for a friend.” Which experience is similar?",
-    "audioPrompt": "Read: “Ben cheered for a friend.” Which experience is similar?",
+    "question": "A poem mentions a barking dog. Ava remembers her dog comforting her when ill. Which detail should she check before claiming the poem is about comfort?",
+    "audioPrompt": "A poem mentions a barking dog. Ava remembers her dog comforting her when ill. Which detail should she check before claiming the poem is about comfort?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -916,29 +543,61 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "clapping for a friend",
-      "washing a cup",
-      "closing a door"
+      "Whether the poem has the word dog at all.",
+      "Whether her memory is important to her.",
+      "Whether the poem gives any clue about comfort."
     ],
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 18,
+    "correct": 2,
+    "explanation": "A memory can be meaningful without proving the poem shares every part of it.\nHint: Read the whole example and check what the question asks.",
+    "structuredExplanation": {
+      "summary": "A memory can be meaningful without proving the poem shares every part of it.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1le02-er3-p-019",
+    "curriculumCode": "AC9E1LE02",
+    "bank": "practice",
+    "skill": "connecting literary responses with personal experiences",
+    "printable": true,
+    "type": "single",
+    "question": "A reader says, 'This story reminds me of my birthday.' What question would help make the connection clearer?",
+    "audioPrompt": "A reader says, 'This story reminds me of my birthday.' What question would help make the connection clearer?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Which event or feeling in the story reminds you of it?",
+      "How many letters are in birthday?",
+      "Can you repeat the title louder?"
+    ],
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 19,
     "correct": 0,
-    "explanation": "clapping for a friend is the best answer.",
+    "explanation": "The question asks for the connection between text and experience.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "clapping for a friend is the best answer."
+      "summary": "The question asks for the connection between text and experience.",
+      "hint": "Read the whole example and check what the question asks."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 31
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1le02-p-032",
+    "id": "ac9e1le02-er3-p-020",
     "curriculumCode": "AC9E1LE02",
     "bank": "practice",
-    "skill": "discuss literary texts and share responses by making connections with students’ own experiences",
+    "skill": "connecting literary responses with personal experiences",
     "printable": true,
     "type": "single",
-    "question": "Read: “Sam tried again after a mistake.” What could you do?",
-    "audioPrompt": "Read: “Sam tried again after a mistake.” What could you do?",
+    "question": "A character chooses to ask for help. A reader remembers solving a problem alone. Which response compares the experiences?",
+    "audioPrompt": "A character chooses to ask for help. A reader remembers solving a problem alone. Which response compares the experiences?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -946,59 +605,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "hide the work",
-      "stop learning",
-      "try again"
+      "Only one of us was allowed to try.",
+      "The character asked someone; I tried alone, but both of us wanted to solve a problem.",
+      "We did exactly the same thing."
     ],
-    "correct": 2,
-    "explanation": "try again is the best answer.",
-    "structuredExplanation": {
-      "summary": "try again is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 32
-  },
-  {
-    "id": "ac9e1le02-p-033",
-    "curriculumCode": "AC9E1LE02",
-    "bank": "practice",
-    "skill": "discuss literary texts and share responses by making connections with students’ own experiences",
-    "printable": true,
-    "type": "single",
-    "question": "Read: “Ava felt shy on the first day.” When might you feel like Ava?",
-    "audioPrompt": "Read: “Ava felt shy on the first day.” When might you feel like Ava?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "while asleep",
-      "on a first day",
-      "when counting"
-    ],
-    "correct": 1,
-    "explanation": "on a first day is the best answer.",
-    "structuredExplanation": {
-      "summary": "on a first day is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
     "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 33
+    "difficultyTier": "reason",
+    "sequencePriority": 20,
+    "correct": 1,
+    "explanation": "The response notices both a difference in method and a shared goal.\nHint: Read the whole example and check what the question asks.",
+    "structuredExplanation": {
+      "summary": "The response notices both a difference in method and a shared goal.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1le02-p-034",
+    "id": "ac9e1le02-er3-p-021",
     "curriculumCode": "AC9E1LE02",
     "bank": "practice",
-    "skill": "discuss literary texts and share responses by making connections with students’ own experiences",
+    "skill": "connecting literary responses with personal experiences",
     "printable": true,
     "type": "single",
-    "question": "Read: “Leo lost a favourite kite.” How might Leo feel?",
-    "audioPrompt": "Read: “Leo lost a favourite kite.” How might Leo feel?",
+    "question": "Two children connect a lost-pet story with different memories: a missing toy and a delayed family member. What could both memories share?",
+    "audioPrompt": "Two children connect a lost-pet story with different memories: a missing toy and a delayed family member. What could both memories share?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -1006,29 +636,61 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "sad",
-      "sleepy",
-      "proud"
+      "The exact same missing animal.",
+      "The same location and date.",
+      "Worry while waiting to find someone or something."
     ],
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 21,
+    "correct": 2,
+    "explanation": "The emotional connection can be similar even when the events differ.\nHint: Read the whole example and check what the question asks.",
+    "structuredExplanation": {
+      "summary": "The emotional connection can be similar even when the events differ.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1le02-er3-p-022",
+    "curriculumCode": "AC9E1LE02",
+    "bank": "practice",
+    "skill": "connecting literary responses with personal experiences",
+    "printable": true,
+    "type": "single",
+    "question": "A story child forgives a friend. Which response links an experience and explains its relevance?",
+    "audioPrompt": "A story child forgives a friend. Which response links an experience and explains its relevance?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "I forgave my friend after an accident, so I understand wanting to stay friends.",
+      "I have a friend whose name starts with F.",
+      "Forgive is a long word."
+    ],
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 22,
     "correct": 0,
-    "explanation": "sad is the best answer.",
+    "explanation": "The first response makes the relationship between memory and story explicit.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "sad is the best answer."
+      "summary": "The first response makes the relationship between memory and story explicit.",
+      "hint": "Read the whole example and check what the question asks."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 34
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1le02-p-035",
+    "id": "ac9e1le02-er3-p-023",
     "curriculumCode": "AC9E1LE02",
     "bank": "practice",
-    "skill": "discuss literary texts and share responses by making connections with students’ own experiences",
+    "skill": "connecting literary responses with personal experiences",
     "printable": true,
     "type": "single",
-    "question": "Read: “Zoe helped a small hen.” What does this remind you of?",
-    "audioPrompt": "Read: “Zoe helped a small hen.” What does this remind you of?",
+    "question": "A reader has never camped but remembers hearing strange sounds in a dark room. How might that help with a night-camping story?",
+    "audioPrompt": "A reader has never camped but remembers hearing strange sounds in a dark room. How might that help with a night-camping story?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -1036,29 +698,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "writing a number",
-      "helping someone",
-      "eating lunch"
+      "It means every outdoor sound is dangerous.",
+      "It may help them imagine uncertainty in the dark.",
+      "It proves they have slept in the same tent."
     ],
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 23,
     "correct": 1,
-    "explanation": "helping someone is the best answer.",
+    "explanation": "A related sensory experience can support imagination without establishing identical events.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "helping someone is the best answer."
+      "summary": "A related sensory experience can support imagination without establishing identical events.",
+      "hint": "Read the whole example and check what the question asks."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 35
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1le02-p-036",
+    "id": "ac9e1le02-er3-p-024",
     "curriculumCode": "AC9E1LE02",
     "bank": "practice",
-    "skill": "discuss literary texts and share responses by making connections with students’ own experiences",
+    "skill": "connecting literary responses with personal experiences",
     "printable": true,
     "type": "single",
-    "question": "Read: “The children played at the zoo.” Which connection makes sense?",
-    "audioPrompt": "Read: “The children played at the zoo.” Which connection makes sense?",
+    "question": "A reader says, 'The hero is selfish because I dislike sharing.' What should they reconsider?",
+    "audioPrompt": "A reader says, 'The hero is selfish because I dislike sharing.' What should they reconsider?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -1066,378 +729,20 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A zoo is a letter.",
-      "I have played at a zoo.",
-      "I am a zoo."
+      "Personal preferences always prove character traits.",
+      "A reader cannot mention any personal experience.",
+      "Their own preference does not establish what the hero is like."
     ],
-    "correct": 1,
-    "explanation": "I have played at a zoo. is the best answer.",
-    "structuredExplanation": {
-      "summary": "I have played at a zoo. is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
     "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 36
-  },
-  {
-    "id": "ac9e1le02-p-037",
-    "curriculumCode": "AC9E1LE02",
-    "bank": "practice",
-    "skill": "discuss literary texts and share responses by making connections with students’ own experiences",
-    "printable": true,
-    "type": "single",
-    "question": "Read: “Mia was brave in the dark.” Have you ever needed to be brave?",
-    "audioPrompt": "Read: “Mia was brave in the dark.” Have you ever needed to be brave?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Yes, when I felt afraid.",
-      "Yes, when I counted.",
-      "No, because hat."
-    ],
-    "correct": 0,
-    "explanation": "Yes, when I felt afraid. is the best answer.",
-    "structuredExplanation": {
-      "summary": "Yes, when I felt afraid. is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 37
-  },
-  {
-    "id": "ac9e1le02-p-038",
-    "curriculumCode": "AC9E1LE02",
-    "bank": "practice",
-    "skill": "discuss literary texts and share responses by making connections with students’ own experiences",
-    "printable": true,
-    "type": "single",
-    "question": "Read: “Ben shared the bag.” What lesson connects to your life?",
-    "audioPrompt": "Read: “Ben shared the bag.” What lesson connects to your life?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Books have pages.",
-      "Sharing is kind.",
-      "Blue is a colour."
-    ],
-    "correct": 1,
-    "explanation": "Sharing is kind. is the best answer.",
-    "structuredExplanation": {
-      "summary": "Sharing is kind. is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 38
-  },
-  {
-    "id": "ac9e1le02-p-039",
-    "curriculumCode": "AC9E1LE02",
-    "bank": "practice",
-    "skill": "discuss literary texts and share responses by making connections with students’ own experiences",
-    "printable": true,
-    "type": "single",
-    "question": "Read: “Sam cheered for a friend.” Which experience is similar?",
-    "audioPrompt": "Read: “Sam cheered for a friend.” Which experience is similar?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "washing a cup",
-      "closing a door",
-      "clapping for a friend"
-    ],
+    "difficultyTier": "reason",
+    "sequencePriority": 24,
     "correct": 2,
-    "explanation": "clapping for a friend is the best answer.",
+    "explanation": "Character claims need story evidence; personal responses and textual facts are different.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "clapping for a friend is the best answer."
+      "summary": "Character claims need story evidence; personal responses and textual facts are different.",
+      "hint": "Read the whole example and check what the question asks."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 39
-  },
-  {
-    "id": "ac9e1le02-p-040",
-    "curriculumCode": "AC9E1LE02",
-    "bank": "practice",
-    "skill": "discuss literary texts and share responses by making connections with students’ own experiences",
-    "printable": true,
-    "type": "single",
-    "question": "Read: “Kim tried again after a mistake.” What could you do?",
-    "audioPrompt": "Read: “Kim tried again after a mistake.” What could you do?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "hide the work",
-      "try again",
-      "stop learning"
-    ],
-    "correct": 1,
-    "explanation": "try again is the best answer.",
-    "structuredExplanation": {
-      "summary": "try again is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 40
-  },
-  {
-    "id": "ac9e1le02-p-041",
-    "curriculumCode": "AC9E1LE02",
-    "bank": "practice",
-    "skill": "discuss literary texts and share responses by making connections with students’ own experiences",
-    "printable": true,
-    "type": "single",
-    "question": "Read: “Leo felt shy on the first day.” When might you feel like Leo?",
-    "audioPrompt": "Read: “Leo felt shy on the first day.” When might you feel like Leo?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "when counting",
-      "while asleep",
-      "on a first day"
-    ],
-    "correct": 2,
-    "explanation": "on a first day is the best answer.",
-    "structuredExplanation": {
-      "summary": "on a first day is the best answer."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 41,
-    "qualitySchema": "reviewed-year1-english-v1"
-  },
-  {
-    "id": "ac9e1le02-p-042",
-    "curriculumCode": "AC9E1LE02",
-    "bank": "practice",
-    "skill": "discuss literary texts and share responses by making connections with students’ own experiences",
-    "printable": true,
-    "type": "single",
-    "question": "Read: “Zoe lost a favourite hat.” How might Zoe feel?",
-    "audioPrompt": "Read: “Zoe lost a favourite hat.” How might Zoe feel?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "proud",
-      "sleepy",
-      "sad"
-    ],
-    "correct": 2,
-    "explanation": "sad is the best answer.",
-    "structuredExplanation": {
-      "summary": "sad is the best answer."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 42,
-    "qualitySchema": "reviewed-year1-english-v1"
-  },
-  {
-    "id": "ac9e1le02-p-043",
-    "curriculumCode": "AC9E1LE02",
-    "bank": "practice",
-    "skill": "discuss literary texts and share responses by making connections with students’ own experiences",
-    "printable": true,
-    "type": "single",
-    "question": "Read: “Max helped a small frog.” What does this remind you of?",
-    "audioPrompt": "Read: “Max helped a small frog.” What does this remind you of?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "helping someone",
-      "writing a number",
-      "eating lunch"
-    ],
-    "correct": 0,
-    "explanation": "helping someone is the best answer.",
-    "structuredExplanation": {
-      "summary": "helping someone is the best answer."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 43,
-    "qualitySchema": "reviewed-year1-english-v1"
-  },
-  {
-    "id": "ac9e1le02-p-044",
-    "curriculumCode": "AC9E1LE02",
-    "bank": "practice",
-    "skill": "discuss literary texts and share responses by making connections with students’ own experiences",
-    "printable": true,
-    "type": "single",
-    "question": "Read: “The children played at the school.” Which connection makes sense?",
-    "audioPrompt": "Read: “The children played at the school.” Which connection makes sense?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "I am a school.",
-      "A school is a letter.",
-      "I have played at a school."
-    ],
-    "correct": 2,
-    "explanation": "I have played at a school. is the best answer.",
-    "structuredExplanation": {
-      "summary": "I have played at a school. is the best answer."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 44,
-    "qualitySchema": "reviewed-year1-english-v1"
-  },
-  {
-    "id": "ac9e1le02-p-045",
-    "curriculumCode": "AC9E1LE02",
-    "bank": "practice",
-    "skill": "discuss literary texts and share responses by making connections with students’ own experiences",
-    "printable": true,
-    "type": "single",
-    "question": "Read: “Ben was brave in the dark.” Have you ever needed to be brave?",
-    "audioPrompt": "Read: “Ben was brave in the dark.” Have you ever needed to be brave?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Yes, when I felt afraid.",
-      "Yes, when I counted.",
-      "No, because book."
-    ],
-    "correct": 0,
-    "explanation": "Yes, when I felt afraid. is the best answer.",
-    "structuredExplanation": {
-      "summary": "Yes, when I felt afraid. is the best answer."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 45,
-    "qualitySchema": "reviewed-year1-english-v1"
-  },
-  {
-    "id": "ac9e1le02-p-046",
-    "curriculumCode": "AC9E1LE02",
-    "bank": "practice",
-    "skill": "discuss literary texts and share responses by making connections with students’ own experiences",
-    "printable": true,
-    "type": "single",
-    "question": "Read: “Sam shared the ball.” What lesson connects to your life?",
-    "audioPrompt": "Read: “Sam shared the ball.” What lesson connects to your life?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Blue is a colour.",
-      "Books have pages.",
-      "Sharing is kind."
-    ],
-    "correct": 2,
-    "explanation": "Sharing is kind. is the best answer.",
-    "structuredExplanation": {
-      "summary": "Sharing is kind. is the best answer."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 46,
-    "qualitySchema": "reviewed-year1-english-v1"
-  },
-  {
-    "id": "ac9e1le02-p-047",
-    "curriculumCode": "AC9E1LE02",
-    "bank": "practice",
-    "skill": "discuss literary texts and share responses by making connections with students’ own experiences",
-    "printable": true,
-    "type": "single",
-    "question": "Read: “Kim cheered for a friend.” Which experience is similar?",
-    "audioPrompt": "Read: “Kim cheered for a friend.” Which experience is similar?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "washing a cup",
-      "clapping for a friend",
-      "closing a door"
-    ],
-    "correct": 1,
-    "explanation": "clapping for a friend is the best answer.",
-    "structuredExplanation": {
-      "summary": "clapping for a friend is the best answer."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 47,
-    "qualitySchema": "reviewed-year1-english-v1"
-  },
-  {
-    "id": "ac9e1le02-p-048",
-    "curriculumCode": "AC9E1LE02",
-    "bank": "practice",
-    "skill": "discuss literary texts and share responses by making connections with students’ own experiences",
-    "printable": true,
-    "type": "single",
-    "question": "Read: “Ava tried again after a mistake.” What could you do?",
-    "audioPrompt": "Read: “Ava tried again after a mistake.” What could you do?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "stop learning",
-      "hide the work",
-      "try again"
-    ],
-    "correct": 2,
-    "explanation": "try again is the best answer.",
-    "structuredExplanation": {
-      "summary": "try again is the best answer."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 48,
-    "qualitySchema": "reviewed-year1-english-v1"
+    "qualitySchema": "production-v1"
   }
 ];
+window.quizQuestions = window.skillrPracticeQuestions;

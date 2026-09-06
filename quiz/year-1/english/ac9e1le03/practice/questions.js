@@ -1,14 +1,14 @@
 "use strict";
 window.skillrPracticeQuestions = [
   {
-    "id": "ac9e1le03-p-001",
+    "id": "ac9e1le03-er3-p-001",
     "curriculumCode": "AC9E1LE03",
     "bank": "practice",
-    "skill": "discuss plot, character and setting, which are features of stories",
+    "skill": "plot, character and setting in stories",
     "printable": true,
     "type": "single",
-    "question": "Read: “Mia lost a hat. At last, Mia found it.” What was the problem?",
-    "audioPrompt": "Read: “Mia lost a hat. At last, Mia found it.” What was the problem?",
+    "question": "'Nell searched the garden for her missing rabbit.' Who is a character in this story?",
+    "audioPrompt": "'Nell searched the garden for her missing rabbit.' Who is a character in this story?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -16,269 +16,61 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The hat was new.",
-      "Mia found it.",
-      "The hat was lost."
+      "Nell.",
+      "The garden.",
+      "The search."
     ],
-    "correct": 2,
-    "explanation": "The hat was lost. is the best answer.",
-    "structuredExplanation": {
-      "summary": "The hat was lost. is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
     "difficulty": 1,
     "difficultyTier": "recognise",
-    "sequencePriority": 1
-  },
-  {
-    "id": "ac9e1le03-p-002",
-    "curriculumCode": "AC9E1LE03",
-    "bank": "practice",
-    "skill": "discuss plot, character and setting, which are features of stories",
-    "printable": true,
-    "type": "single",
-    "question": "Read: “A dog slept under a tree.” Who is the character?",
-    "audioPrompt": "Read: “A dog slept under a tree.” Who is the character?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "the tree",
-      "the dog",
-      "sleep"
-    ],
-    "correct": 1,
-    "explanation": "the dog is the best answer.",
-    "structuredExplanation": {
-      "summary": "the dog is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 2
-  },
-  {
-    "id": "ac9e1le03-p-003",
-    "curriculumCode": "AC9E1LE03",
-    "bank": "practice",
-    "skill": "discuss plot, character and setting, which are features of stories",
-    "printable": true,
-    "type": "single",
-    "question": "Read: “Sam played by the pond.” Where is the setting?",
-    "audioPrompt": "Read: “Sam played by the pond.” Where is the setting?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "at night",
-      "by the pond",
-      "Sam"
-    ],
-    "correct": 1,
-    "explanation": "by the pond is the best answer.",
-    "structuredExplanation": {
-      "summary": "by the pond is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 3
-  },
-  {
-    "id": "ac9e1le03-p-004",
-    "curriculumCode": "AC9E1LE03",
-    "bank": "practice",
-    "skill": "discuss plot, character and setting, which are features of stories",
-    "printable": true,
-    "type": "single",
-    "question": "Read: “The fox was hungry, so it found food.” What happened first?",
-    "audioPrompt": "Read: “The fox was hungry, so it found food.” What happened first?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "It found food.",
-      "The fox was hungry.",
-      "It went to sleep."
-    ],
-    "correct": 1,
-    "explanation": "The fox was hungry. is the best answer.",
-    "structuredExplanation": {
-      "summary": "The fox was hungry. is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 4
-  },
-  {
-    "id": "ac9e1le03-p-005",
-    "curriculumCode": "AC9E1LE03",
-    "bank": "practice",
-    "skill": "discuss plot, character and setting, which are features of stories",
-    "printable": true,
-    "type": "single",
-    "question": "Read: “Ava saw rain and opened an umbrella.” Why did Ava open it?",
-    "audioPrompt": "Read: “Ava saw rain and opened an umbrella.” Why did Ava open it?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "because it was dark",
-      "because it rained",
-      "because it was lost"
-    ],
-    "correct": 1,
-    "explanation": "because it rained is the best answer.",
-    "structuredExplanation": {
-      "summary": "because it rained is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 5
-  },
-  {
-    "id": "ac9e1le03-p-006",
-    "curriculumCode": "AC9E1LE03",
-    "bank": "practice",
-    "skill": "discuss plot, character and setting, which are features of stories",
-    "printable": true,
-    "type": "single",
-    "question": "Read: “At the pond, Leo met a duck.” Who are the characters?",
-    "audioPrompt": "Read: “At the pond, Leo met a duck.” Who are the characters?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Leo and the pond",
-      "the pond",
-      "Leo and the duck"
-    ],
-    "correct": 2,
-    "explanation": "Leo and the duck is the best answer.",
-    "structuredExplanation": {
-      "summary": "Leo and the duck is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 6
-  },
-  {
-    "id": "ac9e1le03-p-007",
-    "curriculumCode": "AC9E1LE03",
-    "bank": "practice",
-    "skill": "discuss plot, character and setting, which are features of stories",
-    "printable": true,
-    "type": "single",
-    "question": "Read: “The fish could not cross. Zoe made a bridge.” How was the problem solved?",
-    "audioPrompt": "Read: “The fish could not cross. Zoe made a bridge.” How was the problem solved?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "The bridge broke.",
-      "A bridge was made.",
-      "The animal slept."
-    ],
-    "correct": 1,
-    "explanation": "A bridge was made. is the best answer.",
-    "structuredExplanation": {
-      "summary": "A bridge was made. is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 7
-  },
-  {
-    "id": "ac9e1le03-p-008",
-    "curriculumCode": "AC9E1LE03",
-    "bank": "practice",
-    "skill": "discuss plot, character and setting, which are features of stories",
-    "printable": true,
-    "type": "single",
-    "question": "Read: “At night, the goat hid in a cave.” When is the story set?",
-    "audioPrompt": "Read: “At night, the goat hid in a cave.” When is the story set?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "at lunch",
-      "at night",
-      "next year"
-    ],
-    "correct": 1,
-    "explanation": "at night is the best answer.",
-    "structuredExplanation": {
-      "summary": "at night is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 8
-  },
-  {
-    "id": "ac9e1le03-p-009",
-    "curriculumCode": "AC9E1LE03",
-    "bank": "practice",
-    "skill": "discuss plot, character and setting, which are features of stories",
-    "printable": true,
-    "type": "single",
-    "question": "Read: “Ben lost a book. At last, Ben found it.” What was the problem?",
-    "audioPrompt": "Read: “Ben lost a book. At last, Ben found it.” What was the problem?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "The book was lost.",
-      "Ben found it.",
-      "The book was new."
-    ],
+    "sequencePriority": 1,
     "correct": 0,
-    "explanation": "The book was lost. is the best answer.",
+    "explanation": "Nell is someone taking part; garden is a setting and search is an event.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "The book was lost. is the best answer."
+      "summary": "Nell is someone taking part; garden is a setting and search is an event.",
+      "hint": "Read the whole example and check what the question asks."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1le03-er3-p-002",
+    "curriculumCode": "AC9E1LE03",
+    "bank": "practice",
+    "skill": "plot, character and setting in stories",
+    "printable": true,
+    "type": "single",
+    "question": "'The moon rose above the quiet harbour as the boat returned.' Where is this scene set?",
+    "audioPrompt": "'The moon rose above the quiet harbour as the boat returned.' Where is this scene set?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Inside a forest.",
+      "At a harbour.",
+      "In a classroom."
+    ],
     "difficulty": 1,
     "difficultyTier": "recognise",
-    "sequencePriority": 9
+    "sequencePriority": 2,
+    "correct": 1,
+    "explanation": "The harbour and returning boat establish the place.\nHint: Read the whole example and check what the question asks.",
+    "structuredExplanation": {
+      "summary": "The harbour and returning boat establish the place.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1le03-p-010",
+    "id": "ac9e1le03-er3-p-003",
     "curriculumCode": "AC9E1LE03",
     "bank": "practice",
-    "skill": "discuss plot, character and setting, which are features of stories",
+    "skill": "plot, character and setting in stories",
     "printable": true,
     "type": "single",
-    "question": "Read: “A fox slept under a tree.” Who is the character?",
-    "audioPrompt": "Read: “A fox slept under a tree.” Who is the character?",
+    "question": "'A puppy lost its way and could not find home.' What is the problem?",
+    "audioPrompt": "'A puppy lost its way and could not find home.' What is the problem?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -286,29 +78,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "sleep",
-      "the tree",
-      "the fox"
+      "The puppy has a home.",
+      "The puppy is an animal.",
+      "The puppy is lost."
     ],
-    "correct": 2,
-    "explanation": "the fox is the best answer.",
-    "structuredExplanation": {
-      "summary": "the fox is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
     "difficulty": 1,
     "difficultyTier": "recognise",
-    "sequencePriority": 10
+    "sequencePriority": 3,
+    "correct": 2,
+    "explanation": "Being unable to get home is the difficulty driving the plot.\nHint: Read the whole example and check what the question asks.",
+    "structuredExplanation": {
+      "summary": "Being unable to get home is the difficulty driving the plot.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1le03-p-011",
+    "id": "ac9e1le03-er3-p-004",
     "curriculumCode": "AC9E1LE03",
     "bank": "practice",
-    "skill": "discuss plot, character and setting, which are features of stories",
+    "skill": "plot, character and setting in stories",
     "printable": true,
     "type": "single",
-    "question": "Read: “Kim played by the pond.” Where is the setting?",
-    "audioPrompt": "Read: “Kim played by the pond.” Where is the setting?",
+    "question": "'A fox was hungry. It searched for berries and found a bush.' What happened after the search?",
+    "audioPrompt": "'A fox was hungry. It searched for berries and found a bush.' What happened after the search?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -316,29 +109,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Kim",
-      "by the pond",
-      "at night"
+      "The fox found berries on a bush.",
+      "The fox became hungry for the first time.",
+      "The fox left before looking."
     ],
-    "correct": 1,
-    "explanation": "by the pond is the best answer.",
-    "structuredExplanation": {
-      "summary": "by the pond is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
     "difficulty": 1,
     "difficultyTier": "recognise",
-    "sequencePriority": 11
+    "sequencePriority": 4,
+    "correct": 0,
+    "explanation": "The finding follows the search in the event sequence.\nHint: Read the whole example and check what the question asks.",
+    "structuredExplanation": {
+      "summary": "The finding follows the search in the event sequence.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1le03-p-012",
+    "id": "ac9e1le03-er3-p-005",
     "curriculumCode": "AC9E1LE03",
     "bank": "practice",
-    "skill": "discuss plot, character and setting, which are features of stories",
+    "skill": "plot, character and setting in stories",
     "printable": true,
     "type": "single",
-    "question": "Read: “The duck was hungry, so it found food.” What happened first?",
-    "audioPrompt": "Read: “The duck was hungry, so it found food.” What happened first?",
+    "question": "'You can use my umbrella,' said Tom to the wet traveller. What does this suggest about Tom?",
+    "audioPrompt": "'You can use my umbrella,' said Tom to the wet traveller. What does this suggest about Tom?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -346,29 +140,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The duck was hungry.",
-      "It found food.",
-      "It went to sleep."
+      "He is asking for an umbrella.",
+      "He is willing to help.",
+      "He wants the traveller to get wetter."
     ],
-    "correct": 0,
-    "explanation": "The duck was hungry. is the best answer.",
-    "structuredExplanation": {
-      "summary": "The duck was hungry. is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
     "difficulty": 1,
     "difficultyTier": "recognise",
-    "sequencePriority": 12
+    "sequencePriority": 5,
+    "correct": 1,
+    "explanation": "The offer provides help to someone caught in rain.\nHint: Read the whole example and check what the question asks.",
+    "structuredExplanation": {
+      "summary": "The offer provides help to someone caught in rain.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1le03-p-013",
+    "id": "ac9e1le03-er3-p-006",
     "curriculumCode": "AC9E1LE03",
     "bank": "practice",
-    "skill": "discuss plot, character and setting, which are features of stories",
+    "skill": "plot, character and setting in stories",
     "printable": true,
     "type": "single",
-    "question": "Read: “Leo saw rain and opened an umbrella.” Why did Leo open it?",
-    "audioPrompt": "Read: “Leo saw rain and opened an umbrella.” Why did Leo open it?",
+    "question": "'At dawn, the rooster called from the barn.' Which detail tells when?",
+    "audioPrompt": "'At dawn, the rooster called from the barn.' Which detail tells when?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -376,29 +171,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "because it was lost",
-      "because it was dark",
-      "because it rained"
+      "from the barn",
+      "the rooster",
+      "At dawn."
     ],
-    "correct": 2,
-    "explanation": "because it rained is the best answer.",
-    "structuredExplanation": {
-      "summary": "because it rained is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
     "difficulty": 1,
     "difficultyTier": "recognise",
-    "sequencePriority": 13
+    "sequencePriority": 6,
+    "correct": 2,
+    "explanation": "Dawn gives the time of the scene; the barn gives its place.\nHint: Read the whole example and check what the question asks.",
+    "structuredExplanation": {
+      "summary": "Dawn gives the time of the scene; the barn gives its place.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1le03-p-014",
+    "id": "ac9e1le03-er3-p-007",
     "curriculumCode": "AC9E1LE03",
     "bank": "practice",
-    "skill": "discuss plot, character and setting, which are features of stories",
+    "skill": "plot, character and setting in stories",
     "printable": true,
     "type": "single",
-    "question": "Read: “At the farm, Zoe met a goat.” Who are the characters?",
-    "audioPrompt": "Read: “At the farm, Zoe met a goat.” Who are the characters?",
+    "question": "'A ball rolled into a drain. A neighbour lifted it out with a net.' What solves the problem?",
+    "audioPrompt": "'A ball rolled into a drain. A neighbour lifted it out with a net.' What solves the problem?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -406,29 +202,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "the farm",
-      "Zoe and the goat",
-      "Zoe and the farm"
+      "Using the net to retrieve the ball.",
+      "The ball rolling away.",
+      "Naming the neighbour."
     ],
-    "correct": 1,
-    "explanation": "Zoe and the goat is the best answer.",
-    "structuredExplanation": {
-      "summary": "Zoe and the goat is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
     "difficulty": 1,
     "difficultyTier": "recognise",
-    "sequencePriority": 14
+    "sequencePriority": 7,
+    "correct": 0,
+    "explanation": "The retrieval resolves the difficulty of the trapped ball.\nHint: Read the whole example and check what the question asks.",
+    "structuredExplanation": {
+      "summary": "The retrieval resolves the difficulty of the trapped ball.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1le03-p-015",
+    "id": "ac9e1le03-er3-p-008",
     "curriculumCode": "AC9E1LE03",
     "bank": "practice",
-    "skill": "discuss plot, character and setting, which are features of stories",
+    "skill": "plot, character and setting in stories",
     "printable": true,
     "type": "single",
-    "question": "Read: “The cat could not cross. Max made a bridge.” How was the problem solved?",
-    "audioPrompt": "Read: “The cat could not cross. Max made a bridge.” How was the problem solved?",
+    "question": "'Rae looked at the tall slide. Her knees shook.' How is Rae probably feeling?",
+    "audioPrompt": "'Rae looked at the tall slide. Her knees shook.' How is Rae probably feeling?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -436,29 +233,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A bridge was made.",
-      "The bridge broke.",
-      "The animal slept."
+      "Proud of finishing.",
+      "Nervous.",
+      "Sleepy."
     ],
-    "correct": 0,
-    "explanation": "A bridge was made. is the best answer.",
-    "structuredExplanation": {
-      "summary": "A bridge was made. is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
     "difficulty": 1,
     "difficultyTier": "recognise",
-    "sequencePriority": 15
+    "sequencePriority": 8,
+    "correct": 1,
+    "explanation": "The tall slide and shaking knees support nervousness.\nHint: Read the whole example and check what the question asks.",
+    "structuredExplanation": {
+      "summary": "The tall slide and shaking knees support nervousness.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1le03-p-016",
+    "id": "ac9e1le03-er3-p-009",
     "curriculumCode": "AC9E1LE03",
     "bank": "practice",
-    "skill": "discuss plot, character and setting, which are features of stories",
+    "skill": "plot, character and setting in stories",
     "printable": true,
     "type": "single",
-    "question": "Read: “At night, the dog hid in a cave.” When is the story set?",
-    "audioPrompt": "Read: “At night, the dog hid in a cave.” When is the story set?",
+    "question": "'A frog wanted to reach the pond, but a fence blocked the path.' What is the frog's goal?",
+    "audioPrompt": "'A frog wanted to reach the pond, but a fence blocked the path.' What is the frog's goal?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -466,59 +264,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "at lunch",
-      "next year",
-      "at night"
+      "Build a fence.",
+      "Leave the pond.",
+      "Reach the pond."
     ],
-    "correct": 2,
-    "explanation": "at night is the best answer.",
-    "structuredExplanation": {
-      "summary": "at night is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 16
-  },
-  {
-    "id": "ac9e1le03-p-017",
-    "curriculumCode": "AC9E1LE03",
-    "bank": "practice",
-    "skill": "discuss plot, character and setting, which are features of stories",
-    "printable": true,
-    "type": "single",
-    "question": "Read: “Sam lost a sock. At last, Sam found it.” What was the problem?",
-    "audioPrompt": "Read: “Sam lost a sock. At last, Sam found it.” What was the problem?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Sam found it.",
-      "The sock was new.",
-      "The sock was lost."
-    ],
-    "correct": 2,
-    "explanation": "The sock was lost. is the best answer.",
-    "structuredExplanation": {
-      "summary": "The sock was lost. is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
     "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 17
+    "difficultyTier": "apply",
+    "sequencePriority": 9,
+    "correct": 2,
+    "explanation": "The goal is what the frog wants; the fence is the obstacle.\nHint: Read the whole example and check what the question asks.",
+    "structuredExplanation": {
+      "summary": "The goal is what the frog wants; the fence is the obstacle.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1le03-p-018",
+    "id": "ac9e1le03-er3-p-010",
     "curriculumCode": "AC9E1LE03",
     "bank": "practice",
-    "skill": "discuss plot, character and setting, which are features of stories",
+    "skill": "plot, character and setting in stories",
     "printable": true,
     "type": "single",
-    "question": "Read: “A duck slept under a tree.” Who is the character?",
-    "audioPrompt": "Read: “A duck slept under a tree.” Who is the character?",
+    "question": "'A bird gathered twigs, built a nest, then rested inside.' Which event is in the middle?",
+    "audioPrompt": "'A bird gathered twigs, built a nest, then rested inside.' Which event is in the middle?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -526,29 +295,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "the duck",
-      "sleep",
-      "the tree"
+      "Building the nest.",
+      "Gathering twigs.",
+      "Resting inside."
     ],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 10,
     "correct": 0,
-    "explanation": "the duck is the best answer.",
+    "explanation": "The building occurs after gathering and before resting.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "the duck is the best answer."
+      "summary": "The building occurs after gathering and before resting.",
+      "hint": "Read the whole example and check what the question asks."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 18
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1le03-p-019",
+    "id": "ac9e1le03-er3-p-011",
     "curriculumCode": "AC9E1LE03",
     "bank": "practice",
-    "skill": "discuss plot, character and setting, which are features of stories",
+    "skill": "plot, character and setting in stories",
     "printable": true,
     "type": "single",
-    "question": "Read: “Ava played by the pond.” Where is the setting?",
-    "audioPrompt": "Read: “Ava played by the pond.” Where is the setting?",
+    "question": "'A storm blew the door shut, trapping the kitten outside.' How does the storm affect the plot?",
+    "audioPrompt": "'A storm blew the door shut, trapping the kitten outside.' How does the storm affect the plot?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -556,29 +326,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "at night",
-      "by the pond",
-      "Ava"
+      "It changes the kitten into another character.",
+      "It creates a problem for the kitten.",
+      "It resolves the kitten's problem immediately."
     ],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 11,
     "correct": 1,
-    "explanation": "by the pond is the best answer.",
+    "explanation": "The storm causes the door to close and keeps the kitten out.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "by the pond is the best answer."
+      "summary": "The storm causes the door to close and keeps the kitten out.",
+      "hint": "Read the whole example and check what the question asks."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 19
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1le03-p-020",
+    "id": "ac9e1le03-er3-p-012",
     "curriculumCode": "AC9E1LE03",
     "bank": "practice",
-    "skill": "discuss plot, character and setting, which are features of stories",
+    "skill": "plot, character and setting in stories",
     "printable": true,
     "type": "single",
-    "question": "Read: “The goat was hungry, so it found food.” What happened first?",
-    "audioPrompt": "Read: “The goat was hungry, so it found food.” What happened first?",
+    "question": "'I'll wait until you finish,' said Bo, sitting quietly. What supports the idea that Bo is patient?",
+    "audioPrompt": "'I'll wait until you finish,' said Bo, sitting quietly. What supports the idea that Bo is patient?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -586,29 +357,61 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The goat was hungry.",
-      "It went to sleep.",
-      "It found food."
+      "Only the number of letters in Bo.",
+      "The fact that Bo can sit.",
+      "The words and the quiet waiting."
     ],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 12,
+    "correct": 2,
+    "explanation": "The response to waiting, not simply sitting, supports the inference.\nHint: Read the whole example and check what the question asks.",
+    "structuredExplanation": {
+      "summary": "The response to waiting, not simply sitting, supports the inference.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1le03-er3-p-013",
+    "curriculumCode": "AC9E1LE03",
+    "bank": "practice",
+    "skill": "plot, character and setting in stories",
+    "printable": true,
+    "type": "single",
+    "question": "A story begins in a snowy forest. Which event would fit that setting?",
+    "audioPrompt": "A story begins in a snowy forest. Which event would fit that setting?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "A character follows tracks through snow.",
+      "A character dives through a coral reef without leaving the forest.",
+      "A character notices no trees or snow anywhere."
+    ],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 13,
     "correct": 0,
-    "explanation": "The goat was hungry. is the best answer.",
+    "explanation": "Tracks through snow fit the established place.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "The goat was hungry. is the best answer."
+      "summary": "Tracks through snow fit the established place.",
+      "hint": "Read the whole example and check what the question asks."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 20
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1le03-p-021",
+    "id": "ac9e1le03-er3-p-014",
     "curriculumCode": "AC9E1LE03",
     "bank": "practice",
-    "skill": "discuss plot, character and setting, which are features of stories",
+    "skill": "plot, character and setting in stories",
     "printable": true,
     "type": "single",
-    "question": "Read: “Zoe saw rain and opened an umbrella.” Why did Zoe open it?",
-    "audioPrompt": "Read: “Zoe saw rain and opened an umbrella.” Why did Zoe open it?",
+    "question": "'Lou dropped the key. Without it, she could not open the gate.' Why does the dropped key matter?",
+    "audioPrompt": "'Lou dropped the key. Without it, she could not open the gate.' Why does the dropped key matter?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -616,29 +419,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "because it was lost",
-      "because it rained",
-      "because it was dark"
+      "It ends every possible story event.",
+      "It stops Lou reaching the other side through the locked gate.",
+      "It tells us her favourite colour."
     ],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 14,
     "correct": 1,
-    "explanation": "because it rained is the best answer.",
+    "explanation": "The event creates an obstacle connected to her goal.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "because it rained is the best answer."
+      "summary": "The event creates an obstacle connected to her goal.",
+      "hint": "Read the whole example and check what the question asks."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 21
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1le03-p-022",
+    "id": "ac9e1le03-er3-p-015",
     "curriculumCode": "AC9E1LE03",
     "bank": "practice",
-    "skill": "discuss plot, character and setting, which are features of stories",
+    "skill": "plot, character and setting in stories",
     "printable": true,
     "type": "single",
-    "question": "Read: “At the zoo, Max met a dog.” Who are the characters?",
-    "audioPrompt": "Read: “At the zoo, Max met a dog.” Who are the characters?",
+    "question": "'A timid mouse refused to enter the cave. Later it went in to help a friend.' What changes?",
+    "audioPrompt": "'A timid mouse refused to enter the cave. Later it went in to help a friend.' What changes?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -646,29 +450,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "the zoo",
-      "Max and the zoo",
-      "Max and the dog"
+      "The cave becomes the main character.",
+      "The mouse stops having a friend.",
+      "The mouse acts despite its earlier fear."
     ],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 15,
     "correct": 2,
-    "explanation": "Max and the dog is the best answer.",
+    "explanation": "The later action contrasts with the initial hesitation.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "Max and the dog is the best answer."
+      "summary": "The later action contrasts with the initial hesitation.",
+      "hint": "Read the whole example and check what the question asks."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 22
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1le03-p-023",
+    "id": "ac9e1le03-er3-p-016",
     "curriculumCode": "AC9E1LE03",
     "bank": "practice",
-    "skill": "discuss plot, character and setting, which are features of stories",
+    "skill": "plot, character and setting in stories",
     "printable": true,
     "type": "single",
-    "question": "Read: “The hen could not cross. Mia made a bridge.” How was the problem solved?",
-    "audioPrompt": "Read: “The hen could not cross. Mia made a bridge.” How was the problem solved?",
+    "question": "Which ending resolves 'The lamb could not cross the muddy ditch'?",
+    "audioPrompt": "Which ending resolves 'The lamb could not cross the muddy ditch'?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -676,179 +481,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The bridge broke.",
-      "A bridge was made.",
-      "The animal slept."
+      "The farmer laid a board across, and the lamb walked over.",
+      "The lamb counted clouds while the ditch stayed in its way.",
+      "The sky was blue above the field."
     ],
-    "correct": 1,
-    "explanation": "A bridge was made. is the best answer.",
-    "structuredExplanation": {
-      "summary": "A bridge was made. is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
     "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 23
-  },
-  {
-    "id": "ac9e1le03-p-024",
-    "curriculumCode": "AC9E1LE03",
-    "bank": "practice",
-    "skill": "discuss plot, character and setting, which are features of stories",
-    "printable": true,
-    "type": "single",
-    "question": "Read: “At night, the fox hid in a cave.” When is the story set?",
-    "audioPrompt": "Read: “At night, the fox hid in a cave.” When is the story set?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "at lunch",
-      "at night",
-      "next year"
-    ],
-    "correct": 1,
-    "explanation": "at night is the best answer.",
-    "structuredExplanation": {
-      "summary": "at night is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 24
-  },
-  {
-    "id": "ac9e1le03-p-025",
-    "curriculumCode": "AC9E1LE03",
-    "bank": "practice",
-    "skill": "discuss plot, character and setting, which are features of stories",
-    "printable": true,
-    "type": "single",
-    "question": "Read: “Kim lost a bag. At last, Kim found it.” What was the problem?",
-    "audioPrompt": "Read: “Kim lost a bag. At last, Kim found it.” What was the problem?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "The bag was new.",
-      "Kim found it.",
-      "The bag was lost."
-    ],
-    "correct": 2,
-    "explanation": "The bag was lost. is the best answer.",
-    "structuredExplanation": {
-      "summary": "The bag was lost. is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 25
-  },
-  {
-    "id": "ac9e1le03-p-026",
-    "curriculumCode": "AC9E1LE03",
-    "bank": "practice",
-    "skill": "discuss plot, character and setting, which are features of stories",
-    "printable": true,
-    "type": "single",
-    "question": "Read: “A goat slept under a tree.” Who is the character?",
-    "audioPrompt": "Read: “A goat slept under a tree.” Who is the character?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "the tree",
-      "the goat",
-      "sleep"
-    ],
-    "correct": 1,
-    "explanation": "the goat is the best answer.",
-    "structuredExplanation": {
-      "summary": "the goat is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 26
-  },
-  {
-    "id": "ac9e1le03-p-027",
-    "curriculumCode": "AC9E1LE03",
-    "bank": "practice",
-    "skill": "discuss plot, character and setting, which are features of stories",
-    "printable": true,
-    "type": "single",
-    "question": "Read: “Leo played by the pond.” Where is the setting?",
-    "audioPrompt": "Read: “Leo played by the pond.” Where is the setting?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Leo",
-      "at night",
-      "by the pond"
-    ],
-    "correct": 2,
-    "explanation": "by the pond is the best answer.",
-    "structuredExplanation": {
-      "summary": "by the pond is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 27
-  },
-  {
-    "id": "ac9e1le03-p-028",
-    "curriculumCode": "AC9E1LE03",
-    "bank": "practice",
-    "skill": "discuss plot, character and setting, which are features of stories",
-    "printable": true,
-    "type": "single",
-    "question": "Read: “The dog was hungry, so it found food.” What happened first?",
-    "audioPrompt": "Read: “The dog was hungry, so it found food.” What happened first?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "The dog was hungry.",
-      "It went to sleep.",
-      "It found food."
-    ],
+    "difficultyTier": "apply",
+    "sequencePriority": 16,
     "correct": 0,
-    "explanation": "The dog was hungry. is the best answer.",
+    "explanation": "The board makes crossing possible and addresses the problem.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "The dog was hungry. is the best answer."
+      "summary": "The board makes crossing possible and addresses the problem.",
+      "hint": "Read the whole example and check what the question asks."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 28
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1le03-p-029",
+    "id": "ac9e1le03-er3-p-017",
     "curriculumCode": "AC9E1LE03",
     "bank": "practice",
-    "skill": "discuss plot, character and setting, which are features of stories",
+    "skill": "plot, character and setting in stories",
     "printable": true,
     "type": "single",
-    "question": "Read: “Max saw rain and opened an umbrella.” Why did Max open it?",
-    "audioPrompt": "Read: “Max saw rain and opened an umbrella.” Why did Max open it?",
+    "question": "'A girl blamed the wind for missing biscuits, but crumbs covered her lap.' What should a reader consider?",
+    "audioPrompt": "'A girl blamed the wind for missing biscuits, but crumbs covered her lap.' What should a reader consider?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -856,59 +512,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "because it was lost",
-      "because it was dark",
-      "because it rained"
+      "The girl cannot be involved because she spoke.",
+      "The crumbs give a reason to question her claim.",
+      "The wind certainly ate every biscuit."
     ],
-    "correct": 2,
-    "explanation": "because it rained is the best answer.",
-    "structuredExplanation": {
-      "summary": "because it rained is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 29
-  },
-  {
-    "id": "ac9e1le03-p-030",
-    "curriculumCode": "AC9E1LE03",
-    "bank": "practice",
-    "skill": "discuss plot, character and setting, which are features of stories",
-    "printable": true,
-    "type": "single",
-    "question": "Read: “At the school, Mia met a fox.” Who are the characters?",
-    "audioPrompt": "Read: “At the school, Mia met a fox.” Who are the characters?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "the school",
-      "Mia and the fox",
-      "Mia and the school"
-    ],
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 17,
     "correct": 1,
-    "explanation": "Mia and the fox is the best answer.",
+    "explanation": "Actions and physical clues can conflict with dialogue.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "Mia and the fox is the best answer."
+      "summary": "Actions and physical clues can conflict with dialogue.",
+      "hint": "Read the whole example and check what the question asks."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 30
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1le03-p-031",
+    "id": "ac9e1le03-er3-p-018",
     "curriculumCode": "AC9E1LE03",
     "bank": "practice",
-    "skill": "discuss plot, character and setting, which are features of stories",
+    "skill": "plot, character and setting in stories",
     "printable": true,
     "type": "single",
-    "question": "Read: “The frog could not cross. Ben made a bridge.” How was the problem solved?",
-    "audioPrompt": "Read: “The frog could not cross. Ben made a bridge.” How was the problem solved?",
+    "question": "'The cave was narrow. Only the smallest rabbit could reach the trapped lantern.' How does the setting shape the event?",
+    "audioPrompt": "'The cave was narrow. Only the smallest rabbit could reach the trapped lantern.' How does the setting shape the event?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -916,29 +543,61 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A bridge was made.",
-      "The animal slept.",
-      "The bridge broke."
+      "The cave's colour explains the lantern's price.",
+      "The setting has no connection to the rescue.",
+      "The narrow space makes the small rabbit able to help."
     ],
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 18,
+    "correct": 2,
+    "explanation": "The size of the space affects which character can carry out the action.\nHint: Read the whole example and check what the question asks.",
+    "structuredExplanation": {
+      "summary": "The size of the space affects which character can carry out the action.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1le03-er3-p-019",
+    "curriculumCode": "AC9E1LE03",
+    "bank": "practice",
+    "skill": "plot, character and setting in stories",
+    "printable": true,
+    "type": "single",
+    "question": "'A dog barked at a stranger, then wagged its tail when the stranger offered its lost lead.' What new clue changes the scene?",
+    "audioPrompt": "'A dog barked at a stranger, then wagged its tail when the stranger offered its lost lead.' What new clue changes the scene?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "The stranger returns something belonging to the dog.",
+      "The dog has a tail.",
+      "The stranger is called a stranger."
+    ],
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 19,
     "correct": 0,
-    "explanation": "A bridge was made. is the best answer.",
+    "explanation": "Returning the lead can explain the dog's friendlier response.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "A bridge was made. is the best answer."
+      "summary": "Returning the lead can explain the dog's friendlier response.",
+      "hint": "Read the whole example and check what the question asks."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 31
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1le03-p-032",
+    "id": "ac9e1le03-er3-p-020",
     "curriculumCode": "AC9E1LE03",
     "bank": "practice",
-    "skill": "discuss plot, character and setting, which are features of stories",
+    "skill": "plot, character and setting in stories",
     "printable": true,
     "type": "single",
-    "question": "Read: “At night, the duck hid in a cave.” When is the story set?",
-    "audioPrompt": "Read: “At night, the duck hid in a cave.” When is the story set?",
+    "question": "A retelling says, 'The friends celebrated. They found the lost map. They began searching.' What is wrong with the plot order?",
+    "audioPrompt": "A retelling says, 'The friends celebrated. They found the lost map. They began searching.' What is wrong with the plot order?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -946,59 +605,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "at lunch",
-      "next year",
-      "at night"
+      "Maps can never be lost in stories.",
+      "The search and finding should come before this celebration.",
+      "Celebrating must always be the first event."
     ],
-    "correct": 2,
-    "explanation": "at night is the best answer.",
-    "structuredExplanation": {
-      "summary": "at night is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 2,
-    "difficultyTier": "guided",
-    "sequencePriority": 32
-  },
-  {
-    "id": "ac9e1le03-p-033",
-    "curriculumCode": "AC9E1LE03",
-    "bank": "practice",
-    "skill": "discuss plot, character and setting, which are features of stories",
-    "printable": true,
-    "type": "single",
-    "question": "Read: “Ava lost a ball. At last, Ava found it.” What was the problem?",
-    "audioPrompt": "Read: “Ava lost a ball. At last, Ava found it.” What was the problem?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Ava found it.",
-      "The ball was lost.",
-      "The ball was new."
-    ],
-    "correct": 1,
-    "explanation": "The ball was lost. is the best answer.",
-    "structuredExplanation": {
-      "summary": "The ball was lost. is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
     "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 33
+    "difficultyTier": "reason",
+    "sequencePriority": 20,
+    "correct": 1,
+    "explanation": "The provided sequence puts the outcome before the actions leading to it.\nHint: Read the whole example and check what the question asks.",
+    "structuredExplanation": {
+      "summary": "The provided sequence puts the outcome before the actions leading to it.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1le03-p-034",
+    "id": "ac9e1le03-er3-p-021",
     "curriculumCode": "AC9E1LE03",
     "bank": "practice",
-    "skill": "discuss plot, character and setting, which are features of stories",
+    "skill": "plot, character and setting in stories",
     "printable": true,
     "type": "single",
-    "question": "Read: “A dog slept under a tree.” Who is the character?",
-    "audioPrompt": "Read: “A dog slept under a tree.” Who is the character?",
+    "question": "'A child promised to protect the seedlings, then carried them inside before hail.' Which trait is supported?",
+    "audioPrompt": "'A child promised to protect the seedlings, then carried them inside before hail.' Which trait is supported?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -1006,29 +636,61 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "the dog",
-      "sleep",
-      "the tree"
+      "Forgetting every promise.",
+      "Disliking all plants.",
+      "Keeping a promise through action."
     ],
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 21,
+    "correct": 2,
+    "explanation": "The action matches the stated intention to protect the plants.\nHint: Read the whole example and check what the question asks.",
+    "structuredExplanation": {
+      "summary": "The action matches the stated intention to protect the plants.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1le03-er3-p-022",
+    "curriculumCode": "AC9E1LE03",
+    "bank": "practice",
+    "skill": "plot, character and setting in stories",
+    "printable": true,
+    "type": "single",
+    "question": "'A story ends with a bird flying home after its injured wing heals.' Which earlier problem best connects to that ending?",
+    "audioPrompt": "'A story ends with a bird flying home after its injured wing heals.' Which earlier problem best connects to that ending?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "The bird could not fly because its wing was hurt.",
+      "The bird did not like the colour of its nest.",
+      "The bird wanted to count the clouds."
+    ],
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 22,
     "correct": 0,
-    "explanation": "the dog is the best answer.",
+    "explanation": "The healed wing resolves the inability to fly.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "the dog is the best answer."
+      "summary": "The healed wing resolves the inability to fly.",
+      "hint": "Read the whole example and check what the question asks."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 34
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1le03-p-035",
+    "id": "ac9e1le03-er3-p-023",
     "curriculumCode": "AC9E1LE03",
     "bank": "practice",
-    "skill": "discuss plot, character and setting, which are features of stories",
+    "skill": "plot, character and setting in stories",
     "printable": true,
     "type": "single",
-    "question": "Read: “Zoe played by the pond.” Where is the setting?",
-    "audioPrompt": "Read: “Zoe played by the pond.” Where is the setting?",
+    "question": "'A child searches a crowded market for a friend.' Why could this setting make the problem harder?",
+    "audioPrompt": "'A child searches a crowded market for a friend.' Why could this setting make the problem harder?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -1036,29 +698,30 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "at night",
-      "by the pond",
-      "Zoe"
+      "The word market has more letters than friend.",
+      "Many people can make the friend difficult to spot.",
+      "Markets always have no people."
     ],
+    "difficulty": 3,
+    "difficultyTier": "reason",
+    "sequencePriority": 23,
     "correct": 1,
-    "explanation": "by the pond is the best answer.",
+    "explanation": "The crowd creates a practical obstacle to finding one person.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "by the pond is the best answer."
+      "summary": "The crowd creates a practical obstacle to finding one person.",
+      "hint": "Read the whole example and check what the question asks."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 35
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1le03-p-036",
+    "id": "ac9e1le03-er3-p-024",
     "curriculumCode": "AC9E1LE03",
     "bank": "practice",
-    "skill": "discuss plot, character and setting, which are features of stories",
+    "skill": "plot, character and setting in stories",
     "printable": true,
     "type": "single",
-    "question": "Read: “The fox was hungry, so it found food.” What happened first?",
-    "audioPrompt": "Read: “The fox was hungry, so it found food.” What happened first?",
+    "question": "'I'm the fastest,' boasted Hare. Then Hare stopped to nap while Turtle kept going.' Which clue helps explain why Hare might lose?",
+    "audioPrompt": "'I'm the fastest,' boasted Hare. Then Hare stopped to nap while Turtle kept going.' Which clue helps explain why Hare might lose?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -1066,378 +729,20 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "It went to sleep.",
-      "The fox was hungry.",
-      "It found food."
+      "Having a short name.",
+      "Being able to speak.",
+      "Stopping to nap while the other racer continues."
     ],
-    "correct": 1,
-    "explanation": "The fox was hungry. is the best answer.",
-    "structuredExplanation": {
-      "summary": "The fox was hungry. is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
     "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 36
-  },
-  {
-    "id": "ac9e1le03-p-037",
-    "curriculumCode": "AC9E1LE03",
-    "bank": "practice",
-    "skill": "discuss plot, character and setting, which are features of stories",
-    "printable": true,
-    "type": "single",
-    "question": "Read: “Mia saw rain and opened an umbrella.” Why did Mia open it?",
-    "audioPrompt": "Read: “Mia saw rain and opened an umbrella.” Why did Mia open it?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "because it rained",
-      "because it was dark",
-      "because it was lost"
-    ],
-    "correct": 0,
-    "explanation": "because it rained is the best answer.",
-    "structuredExplanation": {
-      "summary": "because it rained is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 37
-  },
-  {
-    "id": "ac9e1le03-p-038",
-    "curriculumCode": "AC9E1LE03",
-    "bank": "practice",
-    "skill": "discuss plot, character and setting, which are features of stories",
-    "printable": true,
-    "type": "single",
-    "question": "Read: “At the shop, Ben met a duck.” Who are the characters?",
-    "audioPrompt": "Read: “At the shop, Ben met a duck.” Who are the characters?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Ben and the shop",
-      "Ben and the duck",
-      "the shop"
-    ],
-    "correct": 1,
-    "explanation": "Ben and the duck is the best answer.",
-    "structuredExplanation": {
-      "summary": "Ben and the duck is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 38
-  },
-  {
-    "id": "ac9e1le03-p-039",
-    "curriculumCode": "AC9E1LE03",
-    "bank": "practice",
-    "skill": "discuss plot, character and setting, which are features of stories",
-    "printable": true,
-    "type": "single",
-    "question": "Read: “The fish could not cross. Sam made a bridge.” How was the problem solved?",
-    "audioPrompt": "Read: “The fish could not cross. Sam made a bridge.” How was the problem solved?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "The animal slept.",
-      "The bridge broke.",
-      "A bridge was made."
-    ],
+    "difficultyTier": "reason",
+    "sequencePriority": 24,
     "correct": 2,
-    "explanation": "A bridge was made. is the best answer.",
+    "explanation": "The choice to stop affects the race, regardless of the boast.\nHint: Read the whole example and check what the question asks.",
     "structuredExplanation": {
-      "summary": "A bridge was made. is the best answer."
+      "summary": "The choice to stop affects the race, regardless of the boast.",
+      "hint": "Read the whole example and check what the question asks."
     },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 39
-  },
-  {
-    "id": "ac9e1le03-p-040",
-    "curriculumCode": "AC9E1LE03",
-    "bank": "practice",
-    "skill": "discuss plot, character and setting, which are features of stories",
-    "printable": true,
-    "type": "single",
-    "question": "Read and choose: Read: “At night, the goat hid in a cave.” When is the story set?",
-    "audioPrompt": "Read and choose: Read: “At night, the goat hid in a cave.” When is the story set?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "at lunch",
-      "at night",
-      "next year"
-    ],
-    "correct": 1,
-    "explanation": "at night is the best answer.",
-    "structuredExplanation": {
-      "summary": "at night is the best answer."
-    },
-    "qualitySchema": "reviewed-year1-english-v1",
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 40
-  },
-  {
-    "id": "ac9e1le03-p-041",
-    "curriculumCode": "AC9E1LE03",
-    "bank": "practice",
-    "skill": "discuss plot, character and setting, which are features of stories",
-    "printable": true,
-    "type": "single",
-    "question": "Read: “Leo lost a map. At last, Leo found it.” What was the problem?",
-    "audioPrompt": "Read: “Leo lost a map. At last, Leo found it.” What was the problem?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "The map was new.",
-      "Leo found it.",
-      "The map was lost."
-    ],
-    "correct": 2,
-    "explanation": "The map was lost. is the best answer.",
-    "structuredExplanation": {
-      "summary": "The map was lost. is the best answer."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 41,
-    "qualitySchema": "reviewed-year1-english-v1"
-  },
-  {
-    "id": "ac9e1le03-p-042",
-    "curriculumCode": "AC9E1LE03",
-    "bank": "practice",
-    "skill": "discuss plot, character and setting, which are features of stories",
-    "printable": true,
-    "type": "single",
-    "question": "Read: “A fox slept under a tree.” Who is the character?",
-    "audioPrompt": "Read: “A fox slept under a tree.” Who is the character?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "the tree",
-      "sleep",
-      "the fox"
-    ],
-    "correct": 2,
-    "explanation": "the fox is the best answer.",
-    "structuredExplanation": {
-      "summary": "the fox is the best answer."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 42,
-    "qualitySchema": "reviewed-year1-english-v1"
-  },
-  {
-    "id": "ac9e1le03-p-043",
-    "curriculumCode": "AC9E1LE03",
-    "bank": "practice",
-    "skill": "discuss plot, character and setting, which are features of stories",
-    "printable": true,
-    "type": "single",
-    "question": "Read: “Max played by the pond.” Where is the setting?",
-    "audioPrompt": "Read: “Max played by the pond.” Where is the setting?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "by the pond",
-      "at night",
-      "Max"
-    ],
-    "correct": 0,
-    "explanation": "by the pond is the best answer.",
-    "structuredExplanation": {
-      "summary": "by the pond is the best answer."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 43,
-    "qualitySchema": "reviewed-year1-english-v1"
-  },
-  {
-    "id": "ac9e1le03-p-044",
-    "curriculumCode": "AC9E1LE03",
-    "bank": "practice",
-    "skill": "discuss plot, character and setting, which are features of stories",
-    "printable": true,
-    "type": "single",
-    "question": "Read: “The duck was hungry, so it found food.” What happened first?",
-    "audioPrompt": "Read: “The duck was hungry, so it found food.” What happened first?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "It found food.",
-      "It went to sleep.",
-      "The duck was hungry."
-    ],
-    "correct": 2,
-    "explanation": "The duck was hungry. is the best answer.",
-    "structuredExplanation": {
-      "summary": "The duck was hungry. is the best answer."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 44,
-    "qualitySchema": "reviewed-year1-english-v1"
-  },
-  {
-    "id": "ac9e1le03-p-045",
-    "curriculumCode": "AC9E1LE03",
-    "bank": "practice",
-    "skill": "discuss plot, character and setting, which are features of stories",
-    "printable": true,
-    "type": "single",
-    "question": "Read: “Ben saw rain and opened an umbrella.” Why did Ben open it?",
-    "audioPrompt": "Read: “Ben saw rain and opened an umbrella.” Why did Ben open it?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "because it rained",
-      "because it was dark",
-      "because it was lost"
-    ],
-    "correct": 0,
-    "explanation": "because it rained is the best answer.",
-    "structuredExplanation": {
-      "summary": "because it rained is the best answer."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 45,
-    "qualitySchema": "reviewed-year1-english-v1"
-  },
-  {
-    "id": "ac9e1le03-p-046",
-    "curriculumCode": "AC9E1LE03",
-    "bank": "practice",
-    "skill": "discuss plot, character and setting, which are features of stories",
-    "printable": true,
-    "type": "single",
-    "question": "Read: “At the camp, Sam met a goat.” Who are the characters?",
-    "audioPrompt": "Read: “At the camp, Sam met a goat.” Who are the characters?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "the camp",
-      "Sam and the camp",
-      "Sam and the goat"
-    ],
-    "correct": 2,
-    "explanation": "Sam and the goat is the best answer.",
-    "structuredExplanation": {
-      "summary": "Sam and the goat is the best answer."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 46,
-    "qualitySchema": "reviewed-year1-english-v1"
-  },
-  {
-    "id": "ac9e1le03-p-047",
-    "curriculumCode": "AC9E1LE03",
-    "bank": "practice",
-    "skill": "discuss plot, character and setting, which are features of stories",
-    "printable": true,
-    "type": "single",
-    "question": "Read: “The cat could not cross. Kim made a bridge.” How was the problem solved?",
-    "audioPrompt": "Read: “The cat could not cross. Kim made a bridge.” How was the problem solved?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "The animal slept.",
-      "A bridge was made.",
-      "The bridge broke."
-    ],
-    "correct": 1,
-    "explanation": "A bridge was made. is the best answer.",
-    "structuredExplanation": {
-      "summary": "A bridge was made. is the best answer."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 47,
-    "qualitySchema": "reviewed-year1-english-v1"
-  },
-  {
-    "id": "ac9e1le03-p-048",
-    "curriculumCode": "AC9E1LE03",
-    "bank": "practice",
-    "skill": "discuss plot, character and setting, which are features of stories",
-    "printable": true,
-    "type": "single",
-    "question": "Read: “At night, the dog hid in a cave.” When is the story set?",
-    "audioPrompt": "Read: “At night, the dog hid in a cave.” When is the story set?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "next year",
-      "at lunch",
-      "at night"
-    ],
-    "correct": 2,
-    "explanation": "at night is the best answer.",
-    "structuredExplanation": {
-      "summary": "at night is the best answer."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 48,
-    "qualitySchema": "reviewed-year1-english-v1"
+    "qualitySchema": "production-v1"
   }
 ];
+window.quizQuestions = window.skillrPracticeQuestions;
