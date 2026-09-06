@@ -1,5 +1,16 @@
 # Skillr Repository Instructions
 
+## RED ALERT: preserve the complete site on every release
+
+On 2026-09-06, a changed-files-only Git tree replaced main and removed the site and CNAME. This caused a production outage. Site integrity takes precedence over content throughput.
+
+- Before any publication, read the current remote main commit and its tree. When using the GitHub tree API, `base_tree_sha` MUST be that complete tree. Never publish a tree built only from changed files, and never replace directory tree entries with partial subtrees.
+- Before moving main, compare the complete candidate tree with that exact remote base. Run `node scripts/check_release_integrity.mjs BASE CANDIDATE` when the objects are available locally. For connector publication, perform the equivalent complete-tree comparison through GitHub: zero deleted paths, all core files present, unchanged CNAME, and only intended paths modified. A truncated tree response is not sufficient verification; traverse subtrees or fetch the Git objects.
+- Any unexpected deletion blocks publication. Intentional deletion needs a separately reviewed maintenance change; never waive the check to publish a question bank.
+- Re-read remote main immediately before updating it. If it advanced, rebuild on the new complete tree and repeat verification. Use a non-forced update only.
+- After publication, verify the Pages deployment succeeded and load the live homepage and an affected practice route. A successful commit alone is not a successful deployment.
+- The Release integrity workflow is a detection check until repository rules require it before merging and Pages deployment depends on it. Do not claim it alone prevents direct API pushes or deletion of the workflow itself.
+
 ## Current operating mode: stability / QA freeze
 
 ### Content verification badge release condition
