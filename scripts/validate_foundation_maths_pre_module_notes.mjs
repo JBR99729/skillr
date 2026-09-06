@@ -156,7 +156,20 @@ for (const code of codes) {
         ? questionWindow.skillrPracticeQuestions
         : questionWindow.skillrTestQuestions || questionWindow.skillrExamQuestions
     );
-    const usesIxlBankSize = ["AC9MFN01", "AC9MFN02", "AC9MFN03", "AC9MFN04", "AC9MFN05", "AC9MFN06"].includes(code);
+    const usesIxlBankSize = [
+      "AC9MFN01",
+      "AC9MFN02",
+      "AC9MFN03",
+      "AC9MFN04",
+      "AC9MFN05",
+      "AC9MFN06",
+      "AC9MFA01",
+      "AC9MFM01",
+      "AC9MFM02",
+      "AC9MFSP01",
+      "AC9MFSP02",
+      "AC9MFST01"
+    ].includes(code);
     const expectedBankLength = mode === "practice"
       ? usesIxlBankSize ? 24 : 56
       : usesIxlBankSize ? 16 : 24;
